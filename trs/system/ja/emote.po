@@ -1,0 +1,4861 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 3427285-9-25
+msgctxt "3427285-9-25"
+msgid "EMOTE: |c22ADDChammerlow"
+msgstr "EMOTE: |c22ADDChammerlow"
+
+#: 3427285-9-18
+msgctxt "3427285-9-18"
+msgid "RUN"
+msgstr "走る"
+
+#: 151638485-0-99
+msgctxt "151638485-0-99"
+msgid "/pushups"
+msgstr "/pushups"
+
+#: 139475237-0-98
+msgctxt "139475237-0-98"
+msgid "Jumping jacks"
+msgstr "ジャンピングジャック"
+
+#: 151638485-0-98
+msgctxt "151638485-0-98"
+msgid "/jumpingjacks"
+msgstr "/jumpingjacks"
+
+#: 139475237-0-97
+msgctxt "139475237-0-97"
+msgid "Head scratch"
+msgstr "頭をかく"
+
+#: 151638485-0-97
+msgctxt "151638485-0-97"
+msgid "/scratch"
+msgstr "/scratch"
+
+#: 139475237-0-96
+msgctxt "139475237-0-96"
+msgid "Preening"
+msgstr "身繕いをする"
+
+#: 151638485-0-96
+msgctxt "151638485-0-96"
+msgid "/preen"
+msgstr "/preen"
+
+#: 139475237-0-95
+msgctxt "139475237-0-95"
+msgid "Shrug"
+msgstr "肩をすくめる"
+
+#: 151638485-0-95
+msgctxt "151638485-0-95"
+msgid "/shrug"
+msgstr "/shrug"
+
+#: 3427285-0-9
+msgctxt "3427285-0-9"
+msgid "Eating Apple"
+msgstr "リンゴを食べる"
+
+#: 139475237-0-9
+msgctxt "139475237-0-9"
+msgid "Drinking from flagon"
+msgstr "フラゴンで飲む"
+
+#: 151638485-0-9
+msgctxt "151638485-0-9"
+msgid "/drink"
+msgstr "/drink"
+
+#: 139475237-0-89
+msgctxt "139475237-0-89"
+msgid "Dust off"
+msgstr "埃を払う"
+
+#: 151638485-0-89
+msgctxt "151638485-0-89"
+msgid "/dustoff"
+msgstr "/dustoff"
+
+#: 139475237-0-88
+msgctxt "139475237-0-88"
+msgid "Dance drunk"
+msgstr "酔って踊る"
+
+#: 151638485-0-88
+msgctxt "151638485-0-88"
+msgid "/dancedrunk"
+msgstr "/dancedrunk"
+
+#: 139475237-0-87
+msgctxt "139475237-0-87"
+msgid "Brush off shoulder"
+msgstr "肩を払う"
+
+#: 151638485-0-87
+msgctxt "151638485-0-87"
+msgid "/brushoff"
+msgstr "/brushoff"
+
+#: 139475237-0-86
+msgctxt "139475237-0-86"
+msgid "Nod head"
+msgstr "うなづく"
+
+#: 151638485-0-86
+msgctxt "151638485-0-86"
+msgid "/nod"
+msgstr "/nod"
+
+#: 139475237-0-85
+msgctxt "139475237-0-85"
+msgid "Beg"
+msgstr "哀願する"
+
+#: 151638485-0-85
+msgctxt "151638485-0-85"
+msgid "/beg"
+msgstr "/beg"
+
+#: 139475237-0-84
+msgctxt "139475237-0-84"
+msgid "Dismiss 3"
+msgstr "拒絶3"
+
+#: 151638485-0-84
+msgctxt "151638485-0-84"
+msgid "/leaveme"
+msgstr "/leaveme"
+
+#: 139475237-0-83
+msgctxt "139475237-0-83"
+msgid "Dismiss 2"
+msgstr "拒絶2"
+
+#: 151638485-0-83
+msgctxt "151638485-0-83"
+msgid "/goaway"
+msgstr "/goaway"
+
+#: 139475237-0-82
+msgctxt "139475237-0-82"
+msgid "Dismiss 1"
+msgstr "拒絶1"
+
+#: 151638485-0-82
+msgctxt "151638485-0-82"
+msgid "/dismiss"
+msgstr "/dismiss"
+
+#: 139475237-0-80
+msgctxt "139475237-0-80"
+msgid "Dance"
+msgstr "踊る"
+
+#: 151638485-0-80
+msgctxt "151638485-0-80"
+msgid "/dance"
+msgstr "/dance"
+
+#: 3427285-0-8
+msgctxt "3427285-0-8"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-79
+msgctxt "151638485-0-79"
+msgid "/crying"
+msgstr "/crying"
+
+#: 139475237-0-78
+msgctxt "139475237-0-78"
+msgid "Waving"
+msgstr "手を振る"
+
+#: 151638485-0-78
+msgctxt "151638485-0-78"
+msgid "/wave"
+msgstr "/wave"
+
+#: 139475237-0-77
+msgctxt "139475237-0-77"
+msgid "Thumbs down"
+msgstr "親指を下げる"
+
+#: 151638485-0-77
+msgctxt "151638485-0-77"
+msgid "/thumbsdown"
+msgstr "/thumbsdown"
+
+#: 139475237-0-76
+msgctxt "139475237-0-76"
+msgid "Threaten"
+msgstr "脅迫する"
+
+#: 151638485-0-76
+msgctxt "151638485-0-76"
+msgid "/threaten"
+msgstr "/threaten"
+
+#: 139475237-0-75
+msgctxt "139475237-0-75"
+msgid "Surprised"
+msgstr "驚く"
+
+#: 151638485-0-75
+msgctxt "151638485-0-75"
+msgid "/surprised"
+msgstr "/surprised"
+
+#: 139475237-0-74
+msgctxt "139475237-0-74"
+msgid "Welcome"
+msgstr "歓迎する"
+
+#: 151638485-0-74
+msgctxt "151638485-0-74"
+msgid "/welcome"
+msgstr "/welcome"
+
+#: 139475237-0-73
+msgctxt "139475237-0-73"
+msgid "Shush"
+msgstr "シーッ"
+
+#: 151638485-0-73
+msgctxt "151638485-0-73"
+msgid "/shh"
+msgstr "/shh"
+
+#: 139475237-0-72
+msgctxt "139475237-0-72"
+msgid "Shiver cold"
+msgstr "寒さに震える"
+
+#: 151638485-0-72
+msgctxt "151638485-0-72"
+msgid "/cold"
+msgstr "/cold"
+
+#: 139475237-0-71
+msgctxt "139475237-0-71"
+msgid "Scared"
+msgstr "怯える"
+
+#: 151638485-0-71
+msgctxt "151638485-0-71"
+msgid "/scared"
+msgstr "/scared"
+
+#: 139475237-0-70
+msgctxt "139475237-0-70"
+msgid "Shake fist"
+msgstr "拳を震わせる"
+
+#: 151638485-0-70
+msgctxt "151638485-0-70"
+msgid "/shakefist"
+msgstr "/shakefist"
+
+#: 3427285-0-7
+msgctxt "3427285-0-7"
+msgid "Drink"
+msgstr "飲み物"
+
+#: 139475237-0-7
+msgctxt "139475237-0-7"
+msgid "Play drum"
+msgstr "太鼓を叩く"
+
+#: 151638485-0-7
+msgctxt "151638485-0-7"
+msgid "/drum"
+msgstr "/drum"
+
+#: 139475237-0-69
+msgctxt "139475237-0-69"
+msgid "Salute Loop 3"
+msgstr "挨拶ループ3"
+
+#: 151638485-0-69
+msgctxt "151638485-0-69"
+msgid "/saluteloop3"
+msgstr "/saluteloop3"
+
+#: 139475237-0-68
+msgctxt "139475237-0-68"
+msgid "Salute Loop 2"
+msgstr "挨拶ループ2"
+
+#: 151638485-0-68
+msgctxt "151638485-0-68"
+msgid "/saluteloop2"
+msgstr "/saluteloop2"
+
+#: 139475237-0-67
+msgctxt "139475237-0-67"
+msgid "Salute Loop 1"
+msgstr "挨拶ループ1"
+
+#: 151638485-0-67
+msgctxt "151638485-0-67"
+msgid "/saluteloop"
+msgstr "/saluteloop"
+
+#: 139475237-0-66
+msgctxt "139475237-0-66"
+msgid "Salute 3"
+msgstr "挨拶3"
+
+#: 151638485-0-66
+msgctxt "151638485-0-66"
+msgid "/salute3"
+msgstr "/salute3"
+
+#: 139475237-0-65
+msgctxt "139475237-0-65"
+msgid "Salute 2"
+msgstr "挨拶2"
+
+#: 151638485-0-65
+msgctxt "151638485-0-65"
+msgid "/salute2"
+msgstr "/salute2"
+
+#: 139475237-0-64
+msgctxt "139475237-0-64"
+msgid "Salute 1"
+msgstr "挨拶1"
+
+#: 151638485-0-64
+msgctxt "151638485-0-64"
+msgid "/salute"
+msgstr "/salute"
+
+#: 139475237-0-63
+msgctxt "139475237-0-63"
+msgid "Rude gesture"
+msgstr "失礼なジェスチャー"
+
+#: 151638485-0-63
+msgctxt "151638485-0-63"
+msgid "/rude"
+msgstr "/rude"
+
+#: 139475237-0-62
+msgctxt "139475237-0-62"
+msgid "Rub hands"
+msgstr "揉み手する"
+
+#: 151638485-0-62
+msgctxt "151638485-0-62"
+msgid "/rubhands"
+msgstr "/rubhands"
+
+#: 139475237-0-61
+msgctxt "139475237-0-61"
+msgid "Push"
+msgstr "押す"
+
+#: 151638485-0-61
+msgctxt "151638485-0-61"
+msgid "/push"
+msgstr "/push"
+
+#: 139475237-0-60
+msgctxt "139475237-0-60"
+msgid "Pray"
+msgstr "祈る"
+
+#: 151638485-0-60
+msgctxt "151638485-0-60"
+msgid "/pray"
+msgstr "/pray"
+
+#: 139475237-0-6
+msgctxt "139475237-0-6"
+msgid "Play flute"
+msgstr "フルートを吹く"
+
+#: 151638485-0-6
+msgctxt "151638485-0-6"
+msgid "/flute"
+msgstr "/flute"
+
+#: 139475237-0-591
+msgctxt "139475237-0-591"
+msgid "Treasure Hunter Compass Previe"
+msgstr "トレジャーハンターのコンパスプレビュー"
+
+#: 151638485-0-590
+msgctxt "151638485-0-590"
+msgid "/twiddle"
+msgstr "/twiddle"
+
+#: 139475237-0-59
+msgctxt "139475237-0-59"
+msgid "Poke"
+msgstr "つつく"
+
+#: 151638485-0-59
+msgctxt "151638485-0-59"
+msgid "/poke"
+msgstr "/poke"
+
+#: 139475237-0-589
+msgctxt "139475237-0-589"
+msgid "Treasure Hunter Search Preview"
+msgstr "トレジャーハンターの捜索プレビュー"
+
+#: 151638485-0-582
+msgctxt "151638485-0-582"
+msgid "/search"
+msgstr "/search"
+
+#: 139475237-0-581
+msgctxt "139475237-0-581"
+msgid "Treasure Hunter WipeBrow"
+msgstr "トレジャーハンター汗かき"
+
+#: 151638485-0-581
+msgctxt "151638485-0-581"
+msgid "/phew"
+msgstr "/phew"
+
+#: 139475237-0-580
+msgctxt "139475237-0-580"
+msgid "Treasure Hunter Map"
+msgstr "トレジャーハンター地図読み"
+
+#: 151638485-0-580
+msgctxt "151638485-0-580"
+msgid "/read"
+msgstr "/read"
+
+#: 139475237-0-58
+msgctxt "139475237-0-58"
+msgid "Point to self"
+msgstr "自分を指す"
+
+#: 151638485-0-58
+msgctxt "151638485-0-58"
+msgid "/self"
+msgstr "/self"
+
+#: 139475237-0-579
+msgctxt "139475237-0-579"
+msgid "Treasure Hunter Take"
+msgstr "トレジャーハンター入手"
+
+#: 151638485-0-579
+msgctxt "151638485-0-579"
+msgid "/take"
+msgstr "/take"
+
+#: 139475237-0-578
+msgctxt "139475237-0-578"
+msgid "Treasure Hunter Crouch"
+msgstr "トレジャーハンターしゃがみ"
+
+#: 151638485-0-578
+msgctxt "151638485-0-578"
+msgid "/crouch"
+msgstr "/crouch"
+
+#: 139475237-0-573
+msgctxt "139475237-0-573"
+msgid "Mime Wall"
+msgstr "壁のパントマイム"
+
+#: 151638485-0-573
+msgctxt "151638485-0-573"
+msgid "/mimewall"
+msgstr "/mimewall"
+
+#: 139475237-0-572
+msgctxt "139475237-0-572"
+msgid "Lick Frog"
+msgstr "カエル舐め"
+
+#: 151638485-0-572
+msgctxt "151638485-0-572"
+msgid "/kissfrog"
+msgstr "/kissfrog"
+
+#: 139475237-0-571
+msgctxt "139475237-0-571"
+msgid "Warm Hands"
+msgstr "温かい手"
+
+#: 151638485-0-571
+msgctxt "151638485-0-571"
+msgid "/warmhands"
+msgstr "/warmhands"
+
+#: 139475237-0-570
+msgctxt "139475237-0-570"
+msgid "Guar Stomp"
+msgstr "グアルの踏みつけ"
+
+#: 151638485-0-570
+msgctxt "151638485-0-570"
+msgid "/guarstomp"
+msgstr "/guarstomp"
+
+#: 139475237-0-57
+msgctxt "139475237-0-57"
+msgid "Point right"
+msgstr "右を指す"
+
+#: 151638485-0-57
+msgctxt "151638485-0-57"
+msgid "/pointr"
+msgstr "/pointr"
+
+#: 139475237-0-569
+msgctxt "139475237-0-569"
+msgid "Hand Puppet"
+msgstr "指人形"
+
+#: 151638485-0-569
+msgctxt "151638485-0-569"
+msgid "/handpuppet"
+msgstr "/handpuppet"
+
+#: 139475237-0-568
+msgctxt "139475237-0-568"
+msgid "Mime Rope Pull"
+msgstr "綱引きのパントマイム"
+
+#: 151638485-0-568
+msgctxt "151638485-0-568"
+msgid "/mimetugofwar"
+msgstr "/mimetugofwar"
+
+#: 139475237-0-567
+msgctxt "139475237-0-567"
+msgid "Gladiator Taunt"
+msgstr "剣闘士の挑発"
+
+#: 151638485-0-567
+msgctxt "151638485-0-567"
+msgid "/gladiatortaunt"
+msgstr "/gladiatortaunt"
+
+#: 139475237-0-566
+msgctxt "139475237-0-566"
+msgid "Card Sharp"
+msgstr "鋭いカード"
+
+#: 151638485-0-566
+msgctxt "151638485-0-566"
+msgid "/cardsharp"
+msgstr "/cardsharp"
+
+#: 139475237-0-562
+msgctxt "139475237-0-562"
+msgid "Juggle Teeba-Hatsei 3"
+msgstr "テーバ・ハツェイのジャグリング3"
+
+#: 151638485-0-562
+msgctxt "151638485-0-562"
+msgid "/juggleteeba3"
+msgstr "/juggleteeba3"
+
+#: 139475237-0-561
+msgctxt "139475237-0-561"
+msgid "Juggle Teeba-Hatsei 2"
+msgstr "テーバ・ハツェイのジャグリング2"
+
+#: 151638485-0-561
+msgctxt "151638485-0-561"
+msgid "/juggleteeba2"
+msgstr "/juggleteeba2"
+
+#: 139475237-0-560
+msgctxt "139475237-0-560"
+msgid "Juggle Teeba-Hatsei 1"
+msgstr "テーバ・ハツェイのジャグリング1"
+
+#: 151638485-0-560
+msgctxt "151638485-0-560"
+msgid "/juggleteeba1"
+msgstr "/juggleteeba1"
+
+#: 139475237-0-56
+msgctxt "139475237-0-56"
+msgid "Point left"
+msgstr "左を指す"
+
+#: 151638485-0-56
+msgctxt "151638485-0-56"
+msgid "/pointl"
+msgstr "/pointl"
+
+#: 139475237-0-559
+msgctxt "139475237-0-559"
+msgid "Commune with Hist"
+msgstr "ヒストとの交信"
+
+#: 151638485-0-559
+msgctxt "151638485-0-559"
+msgid "/communehist"
+msgstr "/communehist"
+
+#: 139475237-0-558
+msgctxt "139475237-0-558"
+msgid "Whittle Wood"
+msgstr "木を削る"
+
+#: 151638485-0-558
+msgctxt "151638485-0-558"
+msgid "/whittlewood"
+msgstr "/whittlewood"
+
+#: 139475237-0-557
+msgctxt "139475237-0-557"
+msgid "Greeting Murkmire"
+msgstr "マークマイアの挨拶"
+
+#: 151638485-0-557
+msgctxt "151638485-0-557"
+msgid "/greetmurkmire"
+msgstr "/greetmurkmire"
+
+#: 139475237-0-556
+msgctxt "139475237-0-556"
+msgid "Greeting Bright-Throat"
+msgstr "ブライトスロートの挨拶"
+
+#: 151638485-0-556
+msgctxt "151638485-0-556"
+msgid "/greetbrightthroat"
+msgstr "/greetbrightthroat"
+
+#: 139475237-0-555
+msgctxt "139475237-0-555"
+msgid "Greeting Dead-Water"
+msgstr "デッドウォーターの挨拶"
+
+#: 151638485-0-555
+msgctxt "151638485-0-555"
+msgid "/greetdeadwater"
+msgstr "/greetdeadwater"
+
+#: 139475237-0-554
+msgctxt "139475237-0-554"
+msgid "Festive Bell Ring"
+msgstr "祭りの鐘の音"
+
+#: 151638485-0-554
+msgctxt "151638485-0-554"
+msgid "/festivebellring"
+msgstr "/festivebellring"
+
+#: 139475237-0-553
+msgctxt "139475237-0-553"
+msgid "Mistletoe Posterior"
+msgstr "ヤドリギの後ろ"
+
+#: 151638485-0-553
+msgctxt "151638485-0-553"
+msgid "/mistletoeposterior"
+msgstr "/mistletoeposterior"
+
+#: 139475237-0-552
+msgctxt "139475237-0-552"
+msgid "Mistletoe"
+msgstr "ヤドリギ"
+
+#: 151638485-0-552
+msgctxt "151638485-0-552"
+msgid "/mistletoe"
+msgstr "/mistletoe"
+
+#: 139475237-0-551
+msgctxt "139475237-0-551"
+msgid "Greeting Hist"
+msgstr "ヒストの挨拶"
+
+#: 151638485-0-551
+msgctxt "151638485-0-551"
+msgid "/greethist"
+msgstr "/greethist"
+
+#: 139475237-0-55
+msgctxt "139475237-0-55"
+msgid "Point down"
+msgstr "下を指す"
+
+#: 151638485-0-55
+msgctxt "151638485-0-55"
+msgid "/pointd"
+msgstr "/pointd"
+
+#: 139475237-0-549
+msgctxt "139475237-0-549"
+msgid "Idle2"
+msgstr "たたずむ2"
+
+#: 151638485-0-549
+msgctxt "151638485-0-549"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-548
+msgctxt "139475237-0-548"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-546
+msgctxt "151638485-0-546"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-545
+msgctxt "139475237-0-545"
+msgid "Idle4"
+msgstr "たたずむ4"
+
+#: 151638485-0-545
+msgctxt "151638485-0-545"
+msgid "/idle4"
+msgstr "/idle4"
+
+#: 139475237-0-544
+msgctxt "139475237-0-544"
+msgid "Greet"
+msgstr "出迎える"
+
+#: 151638485-0-544
+msgctxt "151638485-0-544"
+msgid "/greet"
+msgstr "/greet"
+
+#: 139475237-0-543
+msgctxt "139475237-0-543"
+msgid "Beastial Eat"
+msgstr "犬食い"
+
+#: 151638485-0-543
+msgctxt "151638485-0-543"
+msgid "/eat3"
+msgstr "/eat3"
+
+#: 139475237-0-541
+msgctxt "139475237-0-541"
+msgid "Tracker"
+msgstr "追跡者"
+
+#: 151638485-0-541
+msgctxt "151638485-0-541"
+msgid "/tracker"
+msgstr "/tracker"
+
+#: 139475237-0-540
+msgctxt "139475237-0-540"
+msgid "Skull Ponder"
+msgstr "考慮の頭蓋骨"
+
+#: 151638485-0-540
+msgctxt "151638485-0-540"
+msgid "/skullponder"
+msgstr "/skullponder"
+
+#: 139475237-0-54
+msgctxt "139475237-0-54"
+msgid "Point behind"
+msgstr "後ろを指す"
+
+#: 151638485-0-54
+msgctxt "151638485-0-54"
+msgid "/pointb"
+msgstr "/pointb"
+
+#: 139475237-0-539
+msgctxt "139475237-0-539"
+msgid "—Unused"
+msgstr "—未使用"
+
+#: 151638485-0-538
+msgctxt "151638485-0-538"
+msgid "/festivalbeggar"
+msgstr "/festivalbeggar"
+
+#: 139475237-0-537
+msgctxt "139475237-0-537"
+msgid "—Unused"
+msgstr "—未使用"
+
+#: 151638485-0-536
+msgctxt "151638485-0-536"
+msgid "/throwtreats"
+msgstr "/throwtreats"
+
+#: 139475237-0-535
+msgctxt "139475237-0-535"
+msgid "Throw Eggs"
+msgstr "卵投げ"
+
+#: 151638485-0-535
+msgctxt "151638485-0-535"
+msgid "/throweggs"
+msgstr "/throweggs"
+
+#: 139475237-0-533
+msgctxt "139475237-0-533"
+msgid "Juggle Pumpkins"
+msgstr "カボチャジャグリング"
+
+#: 151638485-0-533
+msgctxt "151638485-0-533"
+msgid "/jugglepumpkin"
+msgstr "/jugglepumpkin"
+
+#: 139475237-0-530
+msgctxt "139475237-0-530"
+msgid "Showtime"
+msgstr "イッツ・ショータイム"
+
+#: 151638485-0-530
+msgctxt "151638485-0-530"
+msgid "/showtime"
+msgstr "/showtime"
+
+#: 139475237-0-53
+msgctxt "139475237-0-53"
+msgid "Point forward"
+msgstr "前を指す"
+
+#: 151638485-0-53
+msgctxt "151638485-0-53"
+msgid "/point"
+msgstr "/point"
+
+#: 139475237-0-529
+msgctxt "139475237-0-529"
+msgid "[Crafting] Jewelry"
+msgstr "[クラフト] 宝飾"
+
+#: 151638485-0-528
+msgctxt "151638485-0-528"
+msgid "/dance"
+msgstr "/dance"
+
+#: 139475237-0-527
+msgctxt "139475237-0-527"
+msgid "Glowglobe"
+msgstr "発光球"
+
+#: 151638485-0-527
+msgctxt "151638485-0-527"
+msgid "/glowglobe"
+msgstr "/glowglobe"
+
+#: 139475237-0-526
+msgctxt "139475237-0-526"
+msgid "Ta Da!"
+msgstr "じゃーん！"
+
+#: 151638485-0-526
+msgctxt "151638485-0-526"
+msgid "/tada"
+msgstr "/tada"
+
+#: 139475237-0-525
+msgctxt "139475237-0-525"
+msgid "Sad Face"
+msgstr "悲しい顔"
+
+#: 151638485-0-525
+msgctxt "151638485-0-525"
+msgid "/sadface"
+msgstr "/sadface"
+
+#: 139475237-0-524
+msgctxt "139475237-0-524"
+msgid "Happy Face"
+msgstr "幸せな顔"
+
+#: 151638485-0-524
+msgctxt "151638485-0-524"
+msgid "/happyface"
+msgstr "/happyface"
+
+#: 139475237-0-523
+msgctxt "139475237-0-523"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-52
+msgctxt "151638485-0-52"
+msgid "/payme"
+msgstr "/payme"
+
+#: 139475237-0-519
+msgctxt "139475237-0-519"
+msgid "_LUA_HI03"
+msgstr "_LUA_HI03"
+
+#: 151638485-0-511
+msgctxt "151638485-0-511"
+msgid "/dancefactotum"
+msgstr "/dancefactotum"
+
+#: 139475237-0-510
+msgctxt "139475237-0-510"
+msgid "Necromancy Ritual"
+msgstr "死霊術師の儀式"
+
+#: 151638485-0-510
+msgctxt "151638485-0-510"
+msgid "/ritual"
+msgstr "/ritual"
+
+#: 139475237-0-51
+msgctxt "139475237-0-51"
+msgid "No"
+msgstr "拒否する"
+
+#: 151638485-0-51
+msgctxt "151638485-0-51"
+msgid "/no"
+msgstr "/no"
+
+#: 139475237-0-509
+msgctxt "139475237-0-509"
+msgid "Necromancy Doom"
+msgstr "死霊術師の破滅"
+
+#: 151638485-0-509
+msgctxt "151638485-0-509"
+msgid "/doom"
+msgstr "/doom"
+
+#: 139475237-0-508
+msgctxt "139475237-0-508"
+msgid "Necromancy Dishonor"
+msgstr "死霊術師の不名誉"
+
+#: 151638485-0-508
+msgctxt "151638485-0-508"
+msgid "/dishonor"
+msgstr "/dishonor"
+
+#: 139475237-0-507
+msgctxt "139475237-0-507"
+msgid "Necromancy Blessing"
+msgstr "死霊術師の祝福"
+
+#: 151638485-0-507
+msgctxt "151638485-0-507"
+msgid "/bless"
+msgstr "/bless"
+
+#: 139475237-0-506
+msgctxt "139475237-0-506"
+msgid "Whenever"
+msgstr "いつでも来い"
+
+#: 151638485-0-506
+msgctxt "151638485-0-506"
+msgid "/whenever"
+msgstr "/whenever"
+
+#: 139475237-0-505
+msgctxt "139475237-0-505"
+msgid "Kick the Dirt"
+msgstr "土蹴り"
+
+#: 151638485-0-505
+msgctxt "151638485-0-505"
+msgid "/kickthedirt"
+msgstr "/kickthedirt"
+
+#: 139475237-0-504
+msgctxt "139475237-0-504"
+msgid "Come Get Some"
+msgstr "かかってこい"
+
+#: 151638485-0-504
+msgctxt "151638485-0-504"
+msgid "/comegetsome"
+msgstr "/comegetsome"
+
+#: 139475237-0-503
+msgctxt "139475237-0-503"
+msgid "I see you"
+msgstr "アイシーユー"
+
+#: 151638485-0-503
+msgctxt "151638485-0-503"
+msgid "/iseeyou"
+msgstr "/iseeyou"
+
+#: 139475237-0-502
+msgctxt "139475237-0-502"
+msgid "Line in the sand"
+msgstr "一線を越えるな"
+
+#: 151638485-0-502
+msgctxt "151638485-0-502"
+msgid "/lineinsand"
+msgstr "/lineinsand"
+
+#: 139475237-0-501
+msgctxt "139475237-0-501"
+msgid "Flip the bird"
+msgstr "フリップ・ザ・バード"
+
+#: 151638485-0-501
+msgctxt "151638485-0-501"
+msgid "/flipthebird"
+msgstr "/flipthebird"
+
+#: 139475237-0-500
+msgctxt "139475237-0-500"
+msgid "hammerlow"
+msgstr "下にハンマー"
+
+#: 151638485-0-500
+msgctxt "151638485-0-500"
+msgid "/hammerlow"
+msgstr "/hammerlow"
+
+#: 139475237-0-50
+msgctxt "139475237-0-50"
+msgid "Yes"
+msgstr "賛成する"
+
+#: 151638485-0-50
+msgctxt "151638485-0-50"
+msgid "/yes"
+msgstr "/yes"
+
+#: 139475237-0-5
+msgctxt "139475237-0-5"
+msgid "Play lute"
+msgstr "リュートを弾く"
+
+#: 151638485-0-5
+msgctxt "151638485-0-5"
+msgid "/lute"
+msgstr "/lute"
+
+#: 139475237-0-499
+msgctxt "139475237-0-499"
+msgid "hammerwall"
+msgstr "壁にハンマー"
+
+#: 151638485-0-499
+msgctxt "151638485-0-499"
+msgid "/hammerwall"
+msgstr "/hammerwall"
+
+#: 139475237-0-498
+msgctxt "139475237-0-498"
+msgid "Begone!"
+msgstr "去れ！"
+
+#: 151638485-0-498
+msgctxt "151638485-0-498"
+msgid "/begone"
+msgstr "/begone"
+
+#: 139475237-0-497
+msgctxt "139475237-0-497"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-495
+msgctxt "151638485-0-495"
+msgid "/clippers"
+msgstr "/clippers"
+
+#: 139475237-0-494
+msgctxt "139475237-0-494"
+msgid "Parchment"
+msgstr "羊皮紙"
+
+#: 151638485-0-494
+msgctxt "151638485-0-494"
+msgid "/parchment"
+msgstr "/parchment"
+
+#: 139475237-0-493
+msgctxt "139475237-0-493"
+msgid "Soulgem"
+msgstr "魂石"
+
+#: 151638485-0-493
+msgctxt "151638485-0-493"
+msgid "/soulgem"
+msgstr "/soulgem"
+
+#: 139475237-0-491
+msgctxt "139475237-0-491"
+msgid "Wave"
+msgstr "ウェーブ"
+
+#: 151638485-0-491
+msgctxt "151638485-0-491"
+msgid "/wave"
+msgstr "/wave"
+
+#: 139475237-0-490
+msgctxt "139475237-0-490"
+msgid "Factotum Twiddle"
+msgstr "ファクトタムがもてあそぶ"
+
+#: 151638485-0-490
+msgctxt "151638485-0-490"
+msgid "/twiddle"
+msgstr "/twiddle"
+
+#: 139475237-0-49
+msgctxt "139475237-0-49"
+msgid "Laugh"
+msgstr "笑う"
+
+#: 151638485-0-49
+msgctxt "151638485-0-49"
+msgid "/laugh"
+msgstr "/laugh"
+
+#: 139475237-0-489
+msgctxt "139475237-0-489"
+msgid "Factotum Lute"
+msgstr "ファクトタムのリュート"
+
+#: 151638485-0-489
+msgctxt "151638485-0-489"
+msgid "/lute"
+msgstr "/lute"
+
+#: 139475237-0-488
+msgctxt "139475237-0-488"
+msgid "Idle3"
+msgstr "たたずむ3"
+
+#: 151638485-0-488
+msgctxt "151638485-0-488"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-487
+msgctxt "139475237-0-487"
+msgid "Factotum Sleep"
+msgstr "ファクトタム式睡眠"
+
+#: 151638485-0-487
+msgctxt "151638485-0-487"
+msgid "/sleep"
+msgstr "/sleep"
+
+#: 139475237-0-486
+msgctxt "139475237-0-486"
+msgid "Idle4"
+msgstr "たたずむ4"
+
+#: 151638485-0-486
+msgctxt "151638485-0-486"
+msgid "/idle4"
+msgstr "/idle4"
+
+#: 139475237-0-485
+msgctxt "139475237-0-485"
+msgid "Factotum Bow"
+msgstr "ファクトタム式おじぎ"
+
+#: 151638485-0-485
+msgctxt "151638485-0-485"
+msgid "/bow"
+msgstr "/bow"
+
+#: 139475237-0-482
+msgctxt "139475237-0-482"
+msgid "[Crafting] ReTrait"
+msgstr "[クラフト] 変性"
+
+#: 151638485-0-480
+msgctxt "151638485-0-480"
+msgid "/admireme"
+msgstr "/admireme"
+
+#: 139475237-0-48
+msgctxt "139475237-0-48"
+msgid "Scratch head"
+msgstr "頭をかく"
+
+#: 151638485-0-48
+msgctxt "151638485-0-48"
+msgid "/headscratch"
+msgstr "/headscratch"
+
+#: 139475237-0-478
+msgctxt "139475237-0-478"
+msgid "Idle4"
+msgstr "たたずむ4"
+
+#: 151638485-0-478
+msgctxt "151638485-0-478"
+msgid "/idle4"
+msgstr "/idle4"
+
+#: 139475237-0-477
+msgctxt "139475237-0-477"
+msgid "Idle3"
+msgstr "たたずむ3"
+
+#: 151638485-0-477
+msgctxt "151638485-0-477"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-476
+msgctxt "139475237-0-476"
+msgid "Bull Horns"
+msgstr "雄牛の双角"
+
+#: 151638485-0-476
+msgctxt "151638485-0-476"
+msgid "/bullhorns"
+msgstr "/bullhorns"
+
+#: 139475237-0-475
+msgctxt "139475237-0-475"
+msgid "TBD"
+msgstr "TBD"
+
+#: 151638485-0-471
+msgctxt "151638485-0-471"
+msgid "/greet"
+msgstr "/greet"
+
+#: 139475237-0-470
+msgctxt "139475237-0-470"
+msgid "Idle3"
+msgstr "たたずむ3"
+
+#: 151638485-0-470
+msgctxt "151638485-0-470"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-47
+msgctxt "139475237-0-47"
+msgid "Hand to heart"
+msgstr "手を胸に置く"
+
+#: 151638485-0-47
+msgctxt "151638485-0-47"
+msgid "/handtoheart"
+msgstr "/handtoheart"
+
+#: 139475237-0-469
+msgctxt "139475237-0-469"
+msgid "Idle2"
+msgstr "たたずむ2"
+
+#: 151638485-0-469
+msgctxt "151638485-0-469"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-468
+msgctxt "139475237-0-468"
+msgid "Flex"
+msgstr "力こぶ"
+
+#: 151638485-0-468
+msgctxt "151638485-0-468"
+msgid "/flex"
+msgstr "/flex"
+
+#: 139475237-0-467
+msgctxt "139475237-0-467"
+msgid "Forbidden Dinner"
+msgstr "禁忌のディナー"
+
+#: 151638485-0-467
+msgctxt "151638485-0-467"
+msgid "/eat5"
+msgstr "/eat5"
+
+#: 139475237-0-466
+msgctxt "139475237-0-466"
+msgid "Zombie Eat"
+msgstr "ゾンビ食い"
+
+#: 151638485-0-466
+msgctxt "151638485-0-466"
+msgid "/eat3"
+msgstr "/eat3"
+
+#: 139475237-0-465
+msgctxt "139475237-0-465"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 151638485-0-464
+msgctxt "151638485-0-464"
+msgid "/armscrossed"
+msgstr "/armscrossed"
+
+#: 139475237-0-463
+msgctxt "139475237-0-463"
+msgid "Idle4"
+msgstr "たたずむ4"
+
+#: 151638485-0-462
+msgctxt "151638485-0-462"
+msgid "/beckon"
+msgstr "/beckon"
+
+#: 139475237-0-461
+msgctxt "139475237-0-461"
+msgid "Hand on Hip Idle2"
+msgstr "手を腰に置いた、たたずみ2"
+
+#: 151638485-0-461
+msgctxt "151638485-0-461"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-46
+msgctxt "139475237-0-46"
+msgid "Hands on hips"
+msgstr "手を腰に置く"
+
+#: 151638485-0-46
+msgctxt "151638485-0-46"
+msgid "/handsonhips"
+msgstr "/handsonhips"
+
+#: 139475237-0-457
+msgctxt "139475237-0-457"
+msgid "No"
+msgstr "拒否する"
+
+#: 151638485-0-457
+msgctxt "151638485-0-457"
+msgid "/annoyed"
+msgstr "/annoyed"
+
+#: 139475237-0-456
+msgctxt "139475237-0-456"
+msgid "Shrug"
+msgstr "肩をすくめる"
+
+#: 151638485-0-456
+msgctxt "151638485-0-456"
+msgid "/shrug"
+msgstr "/shrug"
+
+#: 139475237-0-455
+msgctxt "139475237-0-455"
+msgid "Yes"
+msgstr "賛成する"
+
+#: 151638485-0-455
+msgctxt "151638485-0-455"
+msgid "/yes"
+msgstr "/yes"
+
+#: 139475237-0-454
+msgctxt "139475237-0-454"
+msgid "Disgust"
+msgstr "嫌悪する"
+
+#: 151638485-0-454
+msgctxt "151638485-0-454"
+msgid "/disgust"
+msgstr "/disgust"
+
+#: 139475237-0-453
+msgctxt "139475237-0-453"
+msgid "Telvanni Yes"
+msgstr "テルヴァンニのはい"
+
+#: 151638485-0-453
+msgctxt "151638485-0-453"
+msgid "/yes"
+msgstr "/yes"
+
+#: 139475237-0-452
+msgctxt "139475237-0-452"
+msgid "Telvanni No"
+msgstr "テルヴァンニのいいえ"
+
+#: 151638485-0-452
+msgctxt "151638485-0-452"
+msgid "/no"
+msgstr "/no"
+
+#: 139475237-0-450
+msgctxt "139475237-0-450"
+msgid "Telvanni Arms Crossed Idle"
+msgstr "テルヴァンニの腕を組んだたたずみ"
+
+#: 151638485-0-450
+msgctxt "151638485-0-450"
+msgid "/armscrossed"
+msgstr "/armscrossed"
+
+#: 139475237-0-45
+msgctxt "139475237-0-45"
+msgid "Stop"
+msgstr "止める"
+
+#: 151638485-0-45
+msgctxt "151638485-0-45"
+msgid "/stop"
+msgstr "/stop"
+
+#: 139475237-0-449
+msgctxt "139475237-0-449"
+msgid "Search"
+msgstr "探す"
+
+#: 151638485-0-449
+msgctxt "151638485-0-449"
+msgid "/search"
+msgstr "/search"
+
+#: 139475237-0-448
+msgctxt "139475237-0-448"
+msgid "Ritual"
+msgstr "儀式を行う"
+
+#: 151638485-0-448
+msgctxt "151638485-0-448"
+msgid "/ritual"
+msgstr "/ritual"
+
+#: 139475237-0-447
+msgctxt "139475237-0-447"
+msgid "Twiddle"
+msgstr "もてあそぶ"
+
+#: 151638485-0-447
+msgctxt "151638485-0-447"
+msgid "/twiddle"
+msgstr "/twiddle"
+
+#: 139475237-0-445
+msgctxt "139475237-0-445"
+msgid "Telvanni Overseer Idle"
+msgstr "テルヴァンニのたたずむ監督官"
+
+#: 151638485-0-445
+msgctxt "151638485-0-445"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-444
+msgctxt "139475237-0-444"
+msgid "Telvanni Idle2: Aloof"
+msgstr "テルヴァンニのたたずみ2: 高慢"
+
+#: 151638485-0-444
+msgctxt "151638485-0-444"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-443
+msgctxt "139475237-0-443"
+msgid "Telvanni Idle4: Devious"
+msgstr "テルヴァンニのたたずみ4: 婉曲"
+
+#: 151638485-0-443
+msgctxt "151638485-0-443"
+msgid "/idle4"
+msgstr "/idle4"
+
+#: 139475237-0-442
+msgctxt "139475237-0-442"
+msgid "Go Quietly"
+msgstr "静かに行け"
+
+#: 151638485-0-442
+msgctxt "151638485-0-442"
+msgid "/goquietly"
+msgstr "/goquietly"
+
+#: 139475237-0-441
+msgctxt "139475237-0-441"
+msgid "Belly Laugh"
+msgstr "抱腹絶倒"
+
+#: 151638485-0-441
+msgctxt "151638485-0-441"
+msgid "/bellylaugh"
+msgstr "/bellylaugh"
+
+#: 139475237-0-440
+msgctxt "139475237-0-440"
+msgid "Kiss This"
+msgstr "ここにキス"
+
+#: 151638485-0-440
+msgctxt "151638485-0-440"
+msgid "/kissthis"
+msgstr "/kissthis"
+
+#: 139475237-0-44
+msgctxt "139475237-0-44"
+msgid "Take"
+msgstr "取る"
+
+#: 151638485-0-44
+msgctxt "151638485-0-44"
+msgid "/take"
+msgstr "/take"
+
+#: 139475237-0-439
+msgctxt "139475237-0-439"
+msgid "Apprentice Spell Failure"
+msgstr "見習いの呪文失敗"
+
+#: 151638485-0-439
+msgctxt "151638485-0-439"
+msgid "/doom"
+msgstr "/doom"
+
+#: 139475237-0-438
+msgctxt "139475237-0-438"
+msgid "Apprentice Spell02"
+msgstr "見習いの呪文02"
+
+#: 151638485-0-438
+msgctxt "151638485-0-438"
+msgid "/ritual"
+msgstr "/ritual"
+
+#: 139475237-0-437
+msgctxt "139475237-0-437"
+msgid "Apprentice Spell"
+msgstr "見習いの呪文"
+
+#: 151638485-0-437
+msgctxt "151638485-0-437"
+msgid "/ritual"
+msgstr "/ritual"
+
+#: 139475237-0-436
+msgctxt "139475237-0-436"
+msgid "Read"
+msgstr "読む"
+
+#: 151638485-0-436
+msgctxt "151638485-0-436"
+msgid "/read"
+msgstr "/read"
+
+#: 139475237-0-435
+msgctxt "139475237-0-435"
+msgid "Flip Page"
+msgstr "ページをめくる"
+
+#: 151638485-0-435
+msgctxt "151638485-0-435"
+msgid "/poke"
+msgstr "/poke"
+
+#: 139475237-0-434
+msgctxt "139475237-0-434"
+msgid "Read"
+msgstr "読む"
+
+#: 151638485-0-434
+msgctxt "151638485-0-434"
+msgid "/read"
+msgstr "/read"
+
+#: 139475237-0-433
+msgctxt "139475237-0-433"
+msgid "Idle2"
+msgstr "たたずむ2"
+
+#: 151638485-0-433
+msgctxt "151638485-0-433"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-432
+msgctxt "139475237-0-432"
+msgid "Walk"
+msgstr "歩く"
+
+#: 151638485-0-431
+msgctxt "151638485-0-431"
+msgid "/teatime"
+msgstr "/teatime"
+
+#: 139475237-0-430
+msgctxt "139475237-0-430"
+msgid "Arms Crossed"
+msgstr "腕組みをする"
+
+#: 151638485-0-430
+msgctxt "151638485-0-430"
+msgid "/armscrossed"
+msgstr "/armscrossed"
+
+#: 139475237-0-43
+msgctxt "139475237-0-43"
+msgid "Give"
+msgstr "与える"
+
+#: 151638485-0-43
+msgctxt "151638485-0-43"
+msgid "/give"
+msgstr "/give"
+
+#: 139475237-0-429
+msgctxt "139475237-0-429"
+msgid "No"
+msgstr "拒否する"
+
+#: 151638485-0-429
+msgctxt "151638485-0-429"
+msgid "/no"
+msgstr "/no"
+
+#: 139475237-0-428
+msgctxt "139475237-0-428"
+msgid "Sigh"
+msgstr "ため息をつく"
+
+#: 151638485-0-428
+msgctxt "151638485-0-428"
+msgid "/sigh"
+msgstr "/sigh"
+
+#: 139475237-0-427
+msgctxt "139475237-0-427"
+msgid "Stretch"
+msgstr "ストレッチする"
+
+#: 151638485-0-427
+msgctxt "151638485-0-427"
+msgid "/stretch"
+msgstr "/stretch"
+
+#: 139475237-0-426
+msgctxt "139475237-0-426"
+msgid "Bouncy Idle"
+msgstr "元気よくたたずむ"
+
+#: 151638485-0-426
+msgctxt "151638485-0-426"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-425
+msgctxt "139475237-0-425"
+msgid "Stretch"
+msgstr "ストレッチする"
+
+#: 151638485-0-425
+msgctxt "151638485-0-425"
+msgid "/stretch"
+msgstr "/stretch"
+
+#: 139475237-0-424
+msgctxt "139475237-0-424"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-42
+msgctxt "151638485-0-42"
+msgid "/followme"
+msgstr "/followme"
+
+#: 139475237-0-419
+msgctxt "139475237-0-419"
+msgid "WALK"
+msgstr "歩く"
+
+#: 151638485-0-414
+msgctxt "151638485-0-414"
+msgid "/Idle3"
+msgstr "/Idle3"
+
+#: 139475237-0-413
+msgctxt "139475237-0-413"
+msgid "Duchess Idle 2"
+msgstr "たたずむ女公爵2"
+
+#: 151638485-0-413
+msgctxt "151638485-0-413"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-412
+msgctxt "139475237-0-412"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-41
+msgctxt "151638485-0-41"
+msgid "/facepalm"
+msgstr "/facepalm"
+
+#: 139475237-0-409
+msgctxt "139475237-0-409"
+msgid "Run Preview"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-408
+msgctxt "151638485-0-408"
+msgid "/Idle3"
+msgstr "/Idle3"
+
+#: 139475237-0-407
+msgctxt "139475237-0-407"
+msgid "Rub Hands"
+msgstr "揉み手する"
+
+#: 151638485-0-407
+msgctxt "151638485-0-407"
+msgid "/rubhands"
+msgstr "/rubhands"
+
+#: 139475237-0-406
+msgctxt "139475237-0-406"
+msgid "Look Right"
+msgstr "右を見る"
+
+#: 151638485-0-406
+msgctxt "151638485-0-406"
+msgid "/Idle3"
+msgstr "/Idle3"
+
+#: 139475237-0-405
+msgctxt "139475237-0-405"
+msgid "Look Around"
+msgstr "周囲を見る"
+
+#: 151638485-0-405
+msgctxt "151638485-0-405"
+msgid "/Idle2"
+msgstr "/Idle2"
+
+#: 139475237-0-404
+msgctxt "139475237-0-404"
+msgid "CROUCH RUN"
+msgstr "かがんで走る"
+
+#: 151638485-0-40
+msgctxt "151638485-0-40"
+msgid "/exasperated"
+msgstr "/exasperated"
+
+#: 139475237-0-4
+msgctxt "139475237-0-4"
+msgid "Blow horn"
+msgstr "角笛を吹く"
+
+#: 151638485-0-4
+msgctxt "151638485-0-4"
+msgid "/horn"
+msgstr "/horn"
+
+#: 139475237-0-398
+msgctxt "139475237-0-398"
+msgid "Toast - Wine"
+msgstr "ワインを味わう"
+
+#: 151638485-0-398
+msgctxt "151638485-0-398"
+msgid "/toast3"
+msgstr "/toast3"
+
+#: 139475237-0-397
+msgctxt "139475237-0-397"
+msgid "Jog"
+msgstr "ジョギングする"
+
+#: 151638485-0-395
+msgctxt "151638485-0-395"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-394
+msgctxt "139475237-0-394"
+msgid "Idle2"
+msgstr "たたずむ2"
+
+#: 151638485-0-394
+msgctxt "151638485-0-394"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-393
+msgctxt "139475237-0-393"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 151638485-0-390
+msgctxt "151638485-0-390"
+msgid "/idle4"
+msgstr "/idle4"
+
+#: 139475237-0-39
+msgctxt "139475237-0-39"
+msgid "Downcast"
+msgstr "うつむく"
+
+#: 151638485-0-39
+msgctxt "151638485-0-39"
+msgid "/downcast"
+msgstr "/downcast"
+
+#: 139475237-0-389
+msgctxt "139475237-0-389"
+msgid "Jester Idle 5"
+msgstr "たたずむ道化師5"
+
+#: 151638485-0-389
+msgctxt "151638485-0-389"
+msgid "/idle5"
+msgstr "/idle5"
+
+#: 139475237-0-388
+msgctxt "139475237-0-388"
+msgid "Jester Idle 3"
+msgstr "たたずむ道化師3"
+
+#: 151638485-0-388
+msgctxt "151638485-0-388"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-387
+msgctxt "139475237-0-387"
+msgid "Jester Idle 2"
+msgstr "たたずむ道化師2"
+
+#: 151638485-0-387
+msgctxt "151638485-0-387"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-386
+msgctxt "139475237-0-386"
+msgid "Mouth trick"
+msgstr "口のトリック"
+
+#: 151638485-0-386
+msgctxt "151638485-0-386"
+msgid "/cheer"
+msgstr "/cheer"
+
+#: 139475237-0-385
+msgctxt "139475237-0-385"
+msgid "Jester Bow"
+msgstr "道化師のおじぎ"
+
+#: 151638485-0-385
+msgctxt "151638485-0-385"
+msgid "/bow"
+msgstr "/bow"
+
+#: 139475237-0-384
+msgctxt "139475237-0-384"
+msgid "Lean"
+msgstr "寄りかかる"
+
+#: 151638485-0-384
+msgctxt "151638485-0-384"
+msgid "/leanside"
+msgstr "/leanside"
+
+#: 139475237-0-38
+msgctxt "139475237-0-38"
+msgid "Disgust"
+msgstr "嫌悪する"
+
+#: 151638485-0-38
+msgctxt "151638485-0-38"
+msgid "/disgust"
+msgstr "/disgust"
+
+#: 139475237-0-379
+msgctxt "139475237-0-379"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 151638485-0-377
+msgctxt "151638485-0-377"
+msgid "/yes"
+msgstr "/yes"
+
+#: 139475237-0-376
+msgctxt "139475237-0-376"
+msgid "Kneel"
+msgstr "跪く"
+
+#: 151638485-0-376
+msgctxt "151638485-0-376"
+msgid "/kneel"
+msgstr "/kneel"
+
+#: 139475237-0-375
+msgctxt "139475237-0-375"
+msgid "Approve"
+msgstr "認める"
+
+#: 151638485-0-375
+msgctxt "151638485-0-375"
+msgid "/approve"
+msgstr "/approve"
+
+#: 139475237-0-374
+msgctxt "139475237-0-374"
+msgid "Tilt head"
+msgstr "頭を傾ける"
+
+#: 151638485-0-374
+msgctxt "151638485-0-374"
+msgid "/tilt"
+msgstr "/tilt"
+
+#: 139475237-0-373
+msgctxt "139475237-0-373"
+msgid "Threaten"
+msgstr "脅迫する"
+
+#: 151638485-0-373
+msgctxt "151638485-0-373"
+msgid "/threaten"
+msgstr "/threaten"
+
+#: 139475237-0-372
+msgctxt "139475237-0-372"
+msgid "Annoyed"
+msgstr "苛立つ"
+
+#: 151638485-0-372
+msgctxt "151638485-0-372"
+msgid "/annoyed"
+msgstr "/annoyed"
+
+#: 139475237-0-370
+msgctxt "139475237-0-370"
+msgid "Fire Breathing"
+msgstr "火を吐く"
+
+#: 151638485-0-370
+msgctxt "151638485-0-370"
+msgid "/spit"
+msgstr "/spit"
+
+#: 139475237-0-37
+msgctxt "139475237-0-37"
+msgid "Disapprove"
+msgstr "反対する"
+
+#: 151638485-0-37
+msgctxt "151638485-0-37"
+msgid "/disapprove"
+msgstr "/disapprove"
+
+#: 139475237-0-369
+msgctxt "139475237-0-369"
+msgid "Juggle balls"
+msgstr "ボールのジャグリング"
+
+#: 151638485-0-369
+msgctxt "151638485-0-369"
+msgid "/juggleflame"
+msgstr "/juggleflame"
+
+#: 139475237-0-368
+msgctxt "139475237-0-368"
+msgid "Brush off shoulder"
+msgstr "肩を払う"
+
+#: 151638485-0-368
+msgctxt "151638485-0-368"
+msgid "/brushoff"
+msgstr "/brushoff"
+
+#: 139475237-0-367
+msgctxt "139475237-0-367"
+msgid "Hands on hips"
+msgstr "手を腰に置く"
+
+#: 151638485-0-367
+msgctxt "151638485-0-367"
+msgid "/handsonhips"
+msgstr "/handsonhips"
+
+#: 139475237-0-366
+msgctxt "139475237-0-366"
+msgid "Rub hands"
+msgstr "揉み手する"
+
+#: 151638485-0-366
+msgctxt "151638485-0-366"
+msgid "/rubhands"
+msgstr "/rubhands"
+
+#: 139475237-0-365
+msgctxt "139475237-0-365"
+msgid "Tilt head"
+msgstr "頭を傾ける"
+
+#: 151638485-0-365
+msgctxt "151638485-0-365"
+msgid "/tilt"
+msgstr "/tilt"
+
+#: 139475237-0-364
+msgctxt "139475237-0-364"
+msgid "Preening"
+msgstr "身繕いをする"
+
+#: 151638485-0-364
+msgctxt "151638485-0-364"
+msgid "/preen"
+msgstr "/preen"
+
+#: 139475237-0-363
+msgctxt "139475237-0-363"
+msgid "Flirt"
+msgstr "いちゃつく"
+
+#: 151638485-0-363
+msgctxt "151638485-0-363"
+msgid "/flirt"
+msgstr "/flirt"
+
+#: 139475237-0-361
+msgctxt "139475237-0-361"
+msgid "Crown Store"
+msgstr "クラウンストア"
+
+#: 151638485-0-361
+msgctxt "151638485-0-361"
+msgid "/crownstore"
+msgstr "/crownstore"
+
+#: 139475237-0-360
+msgctxt "139475237-0-360"
+msgid "ccf"
+msgstr "ccf"
+
+#: 151638485-0-36
+msgctxt "151638485-0-36"
+msgid "/cuckoo"
+msgstr "/cuckoo"
+
+#: 139475237-0-357
+msgctxt "139475237-0-357"
+msgid "Rude gesture"
+msgstr "失礼なジェスチャー"
+
+#: 151638485-0-357
+msgctxt "151638485-0-357"
+msgid "/rude"
+msgstr "/rude"
+
+#: 139475237-0-356
+msgctxt "139475237-0-356"
+msgid "Drinking from flagon"
+msgstr "フラゴンで飲む"
+
+#: 151638485-0-356
+msgctxt "151638485-0-356"
+msgid "/drink"
+msgstr "/drink"
+
+#: 139475237-0-355
+msgctxt "139475237-0-355"
+msgid "Drunk_No"
+msgstr "酔わない"
+
+#: 151638485-0-355
+msgctxt "151638485-0-355"
+msgid "/no"
+msgstr "/no"
+
+#: 139475237-0-354
+msgctxt "139475237-0-354"
+msgid "Drunken_Burp"
+msgstr "酔っぱらって吐く"
+
+#: 151638485-0-354
+msgctxt "151638485-0-354"
+msgid "/rude"
+msgstr "/rude"
+
+#: 139475237-0-353
+msgctxt "139475237-0-353"
+msgid "Drunken_Sick"
+msgstr "酔っぱらう"
+
+#: 151638485-0-353
+msgctxt "151638485-0-353"
+msgid "/sick"
+msgstr "/sick"
+
+#: 139475237-0-352
+msgctxt "139475237-0-352"
+msgid "Drunken_Refill"
+msgstr "酔っぱらって注ぎ直す"
+
+#: 151638485-0-352
+msgctxt "151638485-0-352"
+msgid "/pour"
+msgstr "/pour"
+
+#: 139475237-0-351
+msgctxt "139475237-0-351"
+msgid "Pray"
+msgstr "祈る"
+
+#: 151638485-0-351
+msgctxt "151638485-0-351"
+msgid "/pray"
+msgstr "/pray"
+
+#: 139475237-0-350
+msgctxt "139475237-0-350"
+msgid "Chug"
+msgstr "一気に飲む"
+
+#: 151638485-0-350
+msgctxt "151638485-0-350"
+msgid "/Drink"
+msgstr "/Drink"
+
+#: 139475237-0-35
+msgctxt "139475237-0-35"
+msgid "Cower"
+msgstr "縮こまる"
+
+#: 151638485-0-35
+msgctxt "151638485-0-35"
+msgid "/cower"
+msgstr "/cower"
+
+#: 139475237-0-349
+msgctxt "139475237-0-349"
+msgid "Waving"
+msgstr "手を振る"
+
+#: 151638485-0-349
+msgctxt "151638485-0-349"
+msgid "/wave"
+msgstr "/wave"
+
+#: 139475237-0-348
+msgctxt "139475237-0-348"
+msgid "Rude gesture"
+msgstr "失礼なジェスチャー"
+
+#: 151638485-0-348
+msgctxt "151638485-0-348"
+msgid "/rude"
+msgstr "/rude"
+
+#: 139475237-0-347
+msgctxt "139475237-0-347"
+msgid "Cheer"
+msgstr "応援する"
+
+#: 151638485-0-347
+msgctxt "151638485-0-347"
+msgid "/cheer"
+msgstr "/cheer"
+
+#: 139475237-0-346
+msgctxt "139475237-0-346"
+msgid "Eat apple"
+msgstr "リンゴを食べる"
+
+#: 151638485-0-346
+msgctxt "151638485-0-346"
+msgid "/eat3"
+msgstr "/eat3"
+
+#: 139475237-0-345
+msgctxt "139475237-0-345"
+msgid "Wall lean (side)"
+msgstr "もたれる(横)"
+
+#: 151638485-0-345
+msgctxt "151638485-0-345"
+msgid "/leanside"
+msgstr "/leanside"
+
+#: 139475237-0-344
+msgctxt "139475237-0-344"
+msgid "Wall lean (back)"
+msgstr "もたれる"
+
+#: 151638485-0-344
+msgctxt "151638485-0-344"
+msgid "/leanback"
+msgstr "/leanback"
+
+#: 139475237-0-343
+msgctxt "139475237-0-343"
+msgid "Greet"
+msgstr "出迎える"
+
+#: 151638485-0-343
+msgctxt "151638485-0-343"
+msgid "/greet"
+msgstr "/greet"
+
+#: 139475237-0-342
+msgctxt "139475237-0-342"
+msgid "Eat apple"
+msgstr "リンゴを食べる"
+
+#: 151638485-0-342
+msgctxt "151638485-0-342"
+msgid "/eat3"
+msgstr "/eat3"
+
+#: 139475237-0-341
+msgctxt "139475237-0-341"
+msgid "Cheer"
+msgstr "応援する"
+
+#: 151638485-0-341
+msgctxt "151638485-0-341"
+msgid "/cheer"
+msgstr "/cheer"
+
+#: 139475237-0-340
+msgctxt "139475237-0-340"
+msgid "Sit chair"
+msgstr "椅子に座る"
+
+#: 151638485-0-340
+msgctxt "151638485-0-340"
+msgid "/sitchair"
+msgstr "/sitchair"
+
+#: 139475237-0-34
+msgctxt "139475237-0-34"
+msgid "Fistpump"
+msgstr "ガッツポーズをする"
+
+#: 151638485-0-34
+msgctxt "151638485-0-34"
+msgid "/fistpump"
+msgstr "/fistpump"
+
+#: 139475237-0-339
+msgctxt "139475237-0-339"
+msgid "Laugh"
+msgstr "笑う"
+
+#: 151638485-0-339
+msgctxt "151638485-0-339"
+msgid "/laugh"
+msgstr "/laugh"
+
+#: 139475237-0-338
+msgctxt "139475237-0-338"
+msgid "Sit chair"
+msgstr "椅子に座る"
+
+#: 151638485-0-338
+msgctxt "151638485-0-338"
+msgid "/sitchair"
+msgstr "/sitchair"
+
+#: 139475237-0-337
+msgctxt "139475237-0-337"
+msgid "Greet"
+msgstr "出迎える"
+
+#: 151638485-0-337
+msgctxt "151638485-0-337"
+msgid "/greet"
+msgstr "/greet"
+
+#: 139475237-0-336
+msgctxt "139475237-0-336"
+msgid "Craft Bag"
+msgstr "クラフトバッグ"
+
+#: 151638485-0-335
+msgctxt "151638485-0-335"
+msgid "/bdcake"
+msgstr "/bdcake"
+
+#: 139475237-0-334
+msgctxt "139475237-0-334"
+msgid "Shivering cold"
+msgstr "凍える"
+
+#: 151638485-0-334
+msgctxt "151638485-0-334"
+msgid "/colder"
+msgstr "/colder"
+
+#: 139475237-0-333
+msgctxt "139475237-0-333"
+msgid "Bow flourish"
+msgstr "華麗なおじぎをする"
+
+#: 151638485-0-333
+msgctxt "151638485-0-333"
+msgid "/bow2"
+msgstr "/bow2"
+
+#: 139475237-0-332
+msgctxt "139475237-0-332"
+msgid "Read letter lookup"
+msgstr "手紙を読んで調べる"
+
+#: 151638485-0-332
+msgctxt "151638485-0-332"
+msgid "/letterlookup"
+msgstr "/letterlookup"
+
+#: 139475237-0-331
+msgctxt "139475237-0-331"
+msgid "Read letter"
+msgstr "手紙を読む"
+
+#: 151638485-0-331
+msgctxt "151638485-0-331"
+msgid "/letter"
+msgstr "/letter"
+
+#: 139475237-0-33
+msgctxt "139475237-0-33"
+msgid "Cheer"
+msgstr "応援する"
+
+#: 151638485-0-33
+msgctxt "151638485-0-33"
+msgid "/cheer"
+msgstr "/cheer"
+
+#: 139475237-0-32
+msgctxt "139475237-0-32"
+msgid "Bow"
+msgstr "おじぎをする"
+
+#: 151638485-0-32
+msgctxt "151638485-0-32"
+msgid "/bow"
+msgstr "/bow"
+
+#: 139475237-0-316
+msgctxt "139475237-0-316"
+msgid "Eat a meal"
+msgstr "食事をする"
+
+#: 151638485-0-316
+msgctxt "151638485-0-316"
+msgid "/meal"
+msgstr "/meal"
+
+#: 139475237-0-315
+msgctxt "139475237-0-315"
+msgid "Eat roll"
+msgstr "ケーキを食べる"
+
+#: 151638485-0-315
+msgctxt "151638485-0-315"
+msgid "/smallbread"
+msgstr "/smallbread"
+
+#: 139475237-0-314
+msgctxt "139475237-0-314"
+msgid "Eat soup"
+msgstr "スープを飲む"
+
+#: 151638485-0-314
+msgctxt "151638485-0-314"
+msgid "/soupbowl"
+msgstr "/soupbowl"
+
+#: 139475237-0-313
+msgctxt "139475237-0-313"
+msgid "Eat pie"
+msgstr "パイを食べる"
+
+#: 151638485-0-313
+msgctxt "151638485-0-313"
+msgid "/pie"
+msgstr "/pie"
+
+#: 139475237-0-31
+msgctxt "139475237-0-31"
+msgid "Booing"
+msgstr "ブーイングする"
+
+#: 151638485-0-31
+msgctxt "151638485-0-31"
+msgid "/boo"
+msgstr "/boo"
+
+#: 139475237-0-309
+msgctxt "139475237-0-309"
+msgid "pickpocket success"
+msgstr "スリに成功する"
+
+#: 151638485-0-304
+msgctxt "151638485-0-304"
+msgid "/dancedarkelf"
+msgstr "/dancedarkelf"
+
+#: 139475237-0-303
+msgctxt "139475237-0-303"
+msgid "Dance Wood Elf"
+msgstr "ウッドエルフのダンス"
+
+#: 151638485-0-303
+msgctxt "151638485-0-303"
+msgid "/dancewoodelf"
+msgstr "/dancewoodelf"
+
+#: 139475237-0-302
+msgctxt "139475237-0-302"
+msgid "Dance High Elf"
+msgstr "ハイエルフのダンス"
+
+#: 151638485-0-302
+msgctxt "151638485-0-302"
+msgid "/dancehighelf"
+msgstr "/dancehighelf"
+
+#: 139475237-0-301
+msgctxt "139475237-0-301"
+msgid "Attention"
+msgstr "気を付けをする"
+
+#: 151638485-0-301
+msgctxt "151638485-0-301"
+msgid "/attention"
+msgstr "/attention"
+
+#: 139475237-0-300
+msgctxt "139475237-0-300"
+msgid "Look up"
+msgstr "見上げる"
+
+#: 151638485-0-300
+msgctxt "151638485-0-300"
+msgid "/lookup"
+msgstr "/lookup"
+
+#: 139475237-0-30
+msgctxt "139475237-0-30"
+msgid "Shout"
+msgstr "叫ぶ"
+
+#: 151638485-0-30
+msgctxt "151638485-0-30"
+msgid "/shout"
+msgstr "/shout"
+
+#: 3427285-0-3
+msgctxt "3427285-0-3"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-3
+msgctxt "139475237-0-3"
+msgid "Whistle"
+msgstr "警笛を鳴らす"
+
+#: 151638485-0-3
+msgctxt "151638485-0-3"
+msgid "/whistle"
+msgstr "/whistle"
+
+#: 139475237-0-299
+msgctxt "139475237-0-299"
+msgid "Eat from bowl"
+msgstr "器のものを食べる"
+
+#: 151638485-0-299
+msgctxt "151638485-0-299"
+msgid "/eat4"
+msgstr "/eat4"
+
+#: 139475237-0-298
+msgctxt "139475237-0-298"
+msgid "Drinking from bottle"
+msgstr "ボトルで飲む"
+
+#: 151638485-0-298
+msgctxt "151638485-0-298"
+msgid "/drink3"
+msgstr "/drink3"
+
+#: 139475237-0-297
+msgctxt "139475237-0-297"
+msgid "Stomp"
+msgstr "踏みつける"
+
+#: 151638485-0-297
+msgctxt "151638485-0-297"
+msgid "/stomp"
+msgstr "/stomp"
+
+#: 139475237-0-296
+msgctxt "139475237-0-296"
+msgid "Idle heroic"
+msgstr "英雄のようにたたずむ"
+
+#: 151638485-0-296
+msgctxt "151638485-0-296"
+msgid "/idle5"
+msgstr "/idle5"
+
+#: 139475237-0-295
+msgctxt "139475237-0-295"
+msgid "Idle angry"
+msgstr "イライラとたたずむ"
+
+#: 151638485-0-295
+msgctxt "151638485-0-295"
+msgid "/idle4"
+msgstr "/idle4"
+
+#: 139475237-0-294
+msgctxt "139475237-0-294"
+msgid "Idle casual"
+msgstr "カジュアルにたたずむ"
+
+#: 151638485-0-294
+msgctxt "151638485-0-294"
+msgid "/idle3"
+msgstr "/idle3"
+
+#: 139475237-0-293
+msgctxt "139475237-0-293"
+msgid "Sad"
+msgstr "悲しむ"
+
+#: 151638485-0-293
+msgctxt "151638485-0-293"
+msgid "/sad"
+msgstr "/sad"
+
+#: 139475237-0-292
+msgctxt "139475237-0-292"
+msgid "Juggle flame"
+msgstr "炎をジャグリングする"
+
+#: 151638485-0-292
+msgctxt "151638485-0-292"
+msgid "/juggleflame"
+msgstr "/juggleflame"
+
+#: 139475237-0-291
+msgctxt "139475237-0-291"
+msgid "Wall lean (back, coinflip)"
+msgstr "もたれる(コイントス)"
+
+#: 151638485-0-291
+msgctxt "151638485-0-291"
+msgid "/leanbackcoin"
+msgstr "/leanbackcoin"
+
+#: 139475237-0-290
+msgctxt "139475237-0-290"
+msgid "Sweeping"
+msgstr "床を掃く"
+
+#: 151638485-0-290
+msgctxt "151638485-0-290"
+msgid "/sweep"
+msgstr "/sweep"
+
+#: 139475237-0-29
+msgctxt "139475237-0-29"
+msgid "Blow Kiss"
+msgstr "投げキッスをする"
+
+#: 151638485-0-29
+msgctxt "151638485-0-29"
+msgid "/kiss"
+msgstr "/kiss"
+
+#: 139475237-0-289
+msgctxt "139475237-0-289"
+msgid "Rake"
+msgstr "ひっかく"
+
+#: 151638485-0-289
+msgctxt "151638485-0-289"
+msgid "/rake"
+msgstr "/rake"
+
+#: 139475237-0-288
+msgctxt "139475237-0-288"
+msgid "Idle royalty"
+msgstr "王族のようにたたずむ"
+
+#: 151638485-0-288
+msgctxt "151638485-0-288"
+msgid "/idle2"
+msgstr "/idle2"
+
+#: 139475237-0-286
+msgctxt "139475237-0-286"
+msgid "Dance Redguard"
+msgstr "レッドガードのダンス"
+
+#: 151638485-0-286
+msgctxt "151638485-0-286"
+msgid "/danceredguard"
+msgstr "/danceredguard"
+
+#: 139475237-0-285
+msgctxt "139475237-0-285"
+msgid "Dance Orc"
+msgstr "オークのダンス"
+
+#: 151638485-0-285
+msgctxt "151638485-0-285"
+msgid "/danceorc"
+msgstr "/danceorc"
+
+#: 139475237-0-284
+msgctxt "139475237-0-284"
+msgid "Dance Nord"
+msgstr "ノルドのダンス"
+
+#: 151638485-0-284
+msgctxt "151638485-0-284"
+msgid "/dancenord"
+msgstr "/dancenord"
+
+#: 139475237-0-283
+msgctxt "139475237-0-283"
+msgid "Dance Khajiit"
+msgstr "カジートのダンス"
+
+#: 151638485-0-283
+msgctxt "151638485-0-283"
+msgid "/dancekhajiit"
+msgstr "/dancekhajiit"
+
+#: 139475237-0-282
+msgctxt "139475237-0-282"
+msgid "Dance Imperial"
+msgstr "帝国のダンス"
+
+#: 151638485-0-282
+msgctxt "151638485-0-282"
+msgid "/danceimperial"
+msgstr "/danceimperial"
+
+#: 139475237-0-281
+msgctxt "139475237-0-281"
+msgid "Dance Dunmer"
+msgstr "ダンマーのダンス"
+
+#: 151638485-0-281
+msgctxt "151638485-0-281"
+msgid "/dancedunmer"
+msgstr "/dancedunmer"
+
+#: 139475237-0-280
+msgctxt "139475237-0-280"
+msgid "Dance Bosmer"
+msgstr "ボズマーのダンス"
+
+#: 151638485-0-280
+msgctxt "151638485-0-280"
+msgid "/dancebosmer"
+msgstr "/dancebosmer"
+
+#: 3427285-0-28
+msgctxt "3427285-0-28"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-28
+msgctxt "139475237-0-28"
+msgid "Bless"
+msgstr "小さく祝福する"
+
+#: 151638485-0-28
+msgctxt "151638485-0-28"
+msgid "/bless"
+msgstr "/bless"
+
+#: 139475237-0-279
+msgctxt "139475237-0-279"
+msgid "Dance Argonian"
+msgstr "アルゴニアンのダンス"
+
+#: 151638485-0-279
+msgctxt "151638485-0-279"
+msgid "/danceargonian"
+msgstr "/danceargonian"
+
+#: 139475237-0-278
+msgctxt "139475237-0-278"
+msgid "Dance Altmer"
+msgstr "アルトマーのダンス"
+
+#: 151638485-0-278
+msgctxt "151638485-0-278"
+msgid "/dancealtmer"
+msgstr "/dancealtmer"
+
+#: 139475237-0-276
+msgctxt "139475237-0-276"
+msgid "Dance Breton"
+msgstr "ブレトンのダンス"
+
+#: 151638485-0-276
+msgctxt "151638485-0-276"
+msgid "/dancebreton"
+msgstr "/dancebreton"
+
+#: 3427285-0-27
+msgctxt "3427285-0-27"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-27
+msgctxt "139475237-0-27"
+msgid "Plead"
+msgstr "頼む"
+
+#: 151638485-0-27
+msgctxt "151638485-0-27"
+msgid "/plead"
+msgstr "/plead"
+
+#: 139475237-0-267
+msgctxt "139475237-0-267"
+msgid "Idle"
+msgstr "たたずむ"
+
+#: 151638485-0-267
+msgctxt "151638485-0-267"
+msgid "/idle"
+msgstr "/idle"
+
+#: 139475237-0-266
+msgctxt "139475237-0-266"
+msgid "Spit"
+msgstr "唾を吐く"
+
+#: 151638485-0-266
+msgctxt "151638485-0-266"
+msgid "/spit"
+msgstr "/spit"
+
+#: 139475237-0-263
+msgctxt "139475237-0-263"
+msgid "Eat apple"
+msgstr "リンゴを食べる"
+
+#: 151638485-0-263
+msgctxt "151638485-0-263"
+msgid "/eat3"
+msgstr "/eat3"
+
+#: 139475237-0-261
+msgctxt "139475237-0-261"
+msgid "Eat bread"
+msgstr "パンを食べる"
+
+#: 151638485-0-261
+msgctxt "151638485-0-261"
+msgid "/eatbread"
+msgstr "/eatbread"
+
+#: 3427285-0-26
+msgctxt "3427285-0-26"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-26
+msgctxt "139475237-0-26"
+msgid "Beckon"
+msgstr "手招きする"
+
+#: 151638485-0-26
+msgctxt "151638485-0-26"
+msgid "/come"
+msgstr "/come"
+
+#: 139475237-0-256
+msgctxt "139475237-0-256"
+msgid "use chest"
+msgstr "宝箱を使う"
+
+#: 139475237-0-25
+msgctxt "139475237-0-25"
+msgid "Come here"
+msgstr "呼ぶ"
+
+#: 151638485-0-25
+msgctxt "151638485-0-25"
+msgid "/comehere"
+msgstr "/comehere"
+
+#: 139475237-0-249
+msgctxt "139475237-0-249"
+msgid "Dishonor"
+msgstr "不名誉を受ける"
+
+#: 151638485-0-249
+msgctxt "151638485-0-249"
+msgid "/dishonor"
+msgstr "/dishonor"
+
+#: 139475237-0-248
+msgctxt "139475237-0-248"
+msgid "Honor"
+msgstr "名誉を受ける"
+
+#: 151638485-0-248
+msgctxt "151638485-0-248"
+msgid "/honor"
+msgstr "/honor"
+
+#: 139475237-0-244
+msgctxt "139475237-0-244"
+msgid "Drinking from chalice"
+msgstr "聖杯で飲む"
+
+#: 151638485-0-244
+msgctxt "151638485-0-244"
+msgid "/drink2"
+msgstr "/drink2"
+
+#: 139475237-0-242
+msgctxt "139475237-0-242"
+msgid "[Crafting] Woodworking"
+msgstr "[クラフト] 木工"
+
+#: 151638485-0-240
+msgctxt "151638485-0-240"
+msgid "/cry"
+msgstr "/cry"
+
+#: 3427285-0-24
+msgctxt "3427285-0-24"
+msgid "IDLE:"
+msgstr "たたずむ:"
+
+#: 139475237-0-24
+msgctxt "139475237-0-24"
+msgid "Beckon"
+msgstr "手招きする"
+
+#: 151638485-0-24
+msgctxt "151638485-0-24"
+msgid "/beckon"
+msgstr "/beckon"
+
+#: 139475237-0-239
+msgctxt "139475237-0-239"
+msgid "Blessing"
+msgstr "祝福する"
+
+#: 151638485-0-239
+msgctxt "151638485-0-239"
+msgid "/blessing"
+msgstr "/blessing"
+
+#: 139475237-0-237
+msgctxt "139475237-0-237"
+msgid "Crack Knuckles"
+msgstr "拳を鳴らす"
+
+#: 151638485-0-237
+msgctxt "151638485-0-237"
+msgid "/knuckles"
+msgstr "/knuckles"
+
+#: 139475237-0-232
+msgctxt "139475237-0-232"
+msgid "Break Object"
+msgstr "オブジェクトを壊す"
+
+#: 151638485-0-232
+msgctxt "151638485-0-232"
+msgid "/smash"
+msgstr "/smash"
+
+#: 139475237-0-231
+msgctxt "139475237-0-231"
+msgid "Eat turkey"
+msgstr "七面鳥を食べる"
+
+#: 151638485-0-231
+msgctxt "151638485-0-231"
+msgid "/eat"
+msgstr "/eat"
+
+#: 3427285-0-23
+msgctxt "3427285-0-23"
+msgid "IDLE: |c22ADDC"
+msgstr "たたずむ: |c22ADDC"
+
+#: 139475237-0-23
+msgctxt "139475237-0-23"
+msgid "Arms crossed"
+msgstr "腕組みをする"
+
+#: 151638485-0-23
+msgctxt "151638485-0-23"
+msgid "/armscrossed"
+msgstr "/armscrossed"
+
+#: 139475237-0-229
+msgctxt "139475237-0-229"
+msgid "Knocked down"
+msgstr "ノックダウンされる"
+
+#: 151638485-0-229
+msgctxt "151638485-0-229"
+msgid "/knockeddown"
+msgstr "/knockeddown"
+
+#: 3427285-0-22
+msgctxt "3427285-0-22"
+msgid "IDLE: |c22ADDCread"
+msgstr "たたずむ: |c22ADDC読む"
+
+#: 139475237-0-22
+msgctxt "139475237-0-22"
+msgid "Approve"
+msgstr "認める"
+
+#: 151638485-0-22
+msgctxt "151638485-0-22"
+msgid "/approve"
+msgstr "/approve"
+
+#: 139475237-0-210
+msgctxt "139475237-0-210"
+msgid "Annoyed"
+msgstr "苛立つ"
+
+#: 151638485-0-210
+msgctxt "151638485-0-210"
+msgid "/annoyed"
+msgstr "/annoyed"
+
+#: 3427285-0-21
+msgctxt "3427285-0-21"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-21
+msgctxt "139475237-0-21"
+msgid "Applaud"
+msgstr "拍手する"
+
+#: 151638485-0-21
+msgctxt "151638485-0-21"
+msgid "/applaud"
+msgstr "/applaud"
+
+#: 139475237-0-209
+msgctxt "139475237-0-209"
+msgid "Blow Kiss"
+msgstr "投げキッスをする"
+
+#: 151638485-0-209
+msgctxt "151638485-0-209"
+msgid "/blowkiss"
+msgstr "/blowkiss"
+
+#: 139475237-0-208
+msgctxt "139475237-0-208"
+msgid "Bestow Blessing"
+msgstr "祝福を与える"
+
+#: 151638485-0-208
+msgctxt "151638485-0-208"
+msgid "/bestowblessing"
+msgstr "/bestowblessing"
+
+#: 139475237-0-206
+msgctxt "139475237-0-206"
+msgid "Use wand once"
+msgstr "杖を一度使う"
+
+#: 151638485-0-206
+msgctxt "151638485-0-206"
+msgid "/wand"
+msgstr "/wand"
+
+#: 139475237-0-205
+msgctxt "139475237-0-205"
+msgid "Faint"
+msgstr "失神する"
+
+#: 151638485-0-205
+msgctxt "151638485-0-205"
+msgid "/faint"
+msgstr "/faint"
+
+#: 139475237-0-20
+msgctxt "139475237-0-20"
+msgid "Angry"
+msgstr "怒る"
+
+#: 151638485-0-20
+msgctxt "151638485-0-20"
+msgid "/angry"
+msgstr "/angry"
+
+#: 139475237-0-2
+msgctxt "139475237-0-2"
+msgid "Use wand"
+msgstr "杖を使う"
+
+#: 151638485-0-2
+msgctxt "151638485-0-2"
+msgid "/wand2"
+msgstr "/wand2"
+
+#: 139475237-0-196
+msgctxt "139475237-0-196"
+msgid "Shovel"
+msgstr "シャベルで掘る"
+
+#: 151638485-0-196
+msgctxt "151638485-0-196"
+msgid "/shovel"
+msgstr "/shovel"
+
+#: 139475237-0-194
+msgctxt "139475237-0-194"
+msgid "Water bucket"
+msgstr "水の入った手桶を使う"
+
+#: 151638485-0-194
+msgctxt "151638485-0-194"
+msgid "/bucketsplash"
+msgstr "/bucketsplash"
+
+#: 139475237-0-193
+msgctxt "139475237-0-193"
+msgid "Dwarven control rod"
+msgstr "ドワーフのコントロールロッドを使う"
+
+#: 151638485-0-193
+msgctxt "151638485-0-193"
+msgid "/controlrod"
+msgstr "/controlrod"
+
+#: 3427285-0-19
+msgctxt "3427285-0-19"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-187
+msgctxt "151638485-0-187"
+msgid "/surrender"
+msgstr "/surrender"
+
+#: 139475237-0-186
+msgctxt "139475237-0-186"
+msgid "Broken Hearted"
+msgstr "傷つく"
+
+#: 151638485-0-186
+msgctxt "151638485-0-186"
+msgid "/heartbroken"
+msgstr "/heartbroken"
+
+#: 139475237-0-185
+msgctxt "139475237-0-185"
+msgid "Clap"
+msgstr "手を打つ"
+
+#: 151638485-0-185
+msgctxt "151638485-0-185"
+msgid "/clap"
+msgstr "/clap"
+
+#: 139475237-0-183
+msgctxt "139475237-0-183"
+msgid "Twiddle"
+msgstr "もてあそぶ"
+
+#: 151638485-0-183
+msgctxt "151638485-0-183"
+msgid "/twiddle"
+msgstr "/twiddle"
+
+#: 139475237-0-182
+msgctxt "139475237-0-182"
+msgid "Tap"
+msgstr "タップする"
+
+#: 151638485-0-182
+msgctxt "151638485-0-182"
+msgid "/tap"
+msgstr "/tap"
+
+#: 139475237-0-181
+msgctxt "139475237-0-181"
+msgid "Impatient"
+msgstr "焦れる"
+
+#: 151638485-0-181
+msgctxt "151638485-0-181"
+msgid "/impatient"
+msgstr "/impatient"
+
+#: 139475237-0-180
+msgctxt "139475237-0-180"
+msgid "Confused"
+msgstr "戸惑う"
+
+#: 151638485-0-180
+msgctxt "151638485-0-180"
+msgid "/confused"
+msgstr "/confused"
+
+#: 3427285-0-18
+msgctxt "3427285-0-18"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-179
+msgctxt "151638485-0-179"
+msgid "/doom"
+msgstr "/doom"
+
+#: 139475237-0-178
+msgctxt "139475237-0-178"
+msgid "Thank You"
+msgstr "お礼をする"
+
+#: 151638485-0-178
+msgctxt "151638485-0-178"
+msgid "/thankyou"
+msgstr "/thankyou"
+
+#: 139475237-0-177
+msgctxt "139475237-0-177"
+msgid "Thanks"
+msgstr "軽くお礼する"
+
+#: 151638485-0-177
+msgctxt "151638485-0-177"
+msgid "/thanks"
+msgstr "/thanks"
+
+#: 139475237-0-176
+msgctxt "139475237-0-176"
+msgid "Stagger"
+msgstr "よろめく"
+
+#: 151638485-0-176
+msgctxt "151638485-0-176"
+msgid "/stagger"
+msgstr "/stagger"
+
+#: 139475237-0-175
+msgctxt "139475237-0-175"
+msgid "Rally"
+msgstr "扇動する"
+
+#: 151638485-0-175
+msgctxt "151638485-0-175"
+msgid "/rally"
+msgstr "/rally"
+
+#: 139475237-0-174
+msgctxt "139475237-0-174"
+msgid "Flirt"
+msgstr "いちゃつく"
+
+#: 151638485-0-174
+msgctxt "151638485-0-174"
+msgid "/flirt"
+msgstr "/flirt"
+
+#: 139475237-0-173
+msgctxt "139475237-0-173"
+msgid "Blow Kiss"
+msgstr "投げキッスをする"
+
+#: 151638485-0-173
+msgctxt "151638485-0-173"
+msgid "/kiss"
+msgstr "/kiss"
+
+#: 139475237-0-172
+msgctxt "139475237-0-172"
+msgid "Grats"
+msgstr "軽く祝う"
+
+#: 151638485-0-172
+msgctxt "151638485-0-172"
+msgid "/grats"
+msgstr "/grats"
+
+#: 139475237-0-171
+msgctxt "139475237-0-171"
+msgid "Congrats"
+msgstr "ほめる"
+
+#: 151638485-0-171
+msgctxt "151638485-0-171"
+msgid "/congrats"
+msgstr "/congrats"
+
+#: 139475237-0-170
+msgctxt "139475237-0-170"
+msgid "Congratulate"
+msgstr "盛大に祝う"
+
+#: 151638485-0-170
+msgctxt "151638485-0-170"
+msgid "/congratulate"
+msgstr "/congratulate"
+
+#: 3427285-0-17
+msgctxt "3427285-0-17"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-169
+msgctxt "151638485-0-169"
+msgid "/kowtow"
+msgstr "/kowtow"
+
+#: 139475237-0-168
+msgctxt "139475237-0-168"
+msgid "Headache"
+msgstr "頭痛で痛がる"
+
+#: 151638485-0-168
+msgctxt "151638485-0-168"
+msgid "/headache"
+msgstr "/headache"
+
+#: 139475237-0-167
+msgctxt "139475237-0-167"
+msgid "Guffaw"
+msgstr "馬鹿笑いする"
+
+#: 151638485-0-167
+msgctxt "151638485-0-167"
+msgid "/lol"
+msgstr "/lol"
+
+#: 139475237-0-166
+msgctxt "139475237-0-166"
+msgid "Drunk"
+msgstr "酔っ払う"
+
+#: 151638485-0-166
+msgctxt "151638485-0-166"
+msgid "/drunk"
+msgstr "/drunk"
+
+#: 139475237-0-165
+msgctxt "139475237-0-165"
+msgid "Bored"
+msgstr "退屈する"
+
+#: 151638485-0-165
+msgctxt "151638485-0-165"
+msgid "/bored"
+msgstr "/bored"
+
+#: 139475237-0-164
+msgctxt "139475237-0-164"
+msgid "Hello"
+msgstr "挨拶する"
+
+#: 151638485-0-164
+msgctxt "151638485-0-164"
+msgid "/hello"
+msgstr "/hello"
+
+#: 139475237-0-163
+msgctxt "139475237-0-163"
+msgid "Hail"
+msgstr "敬礼する"
+
+#: 151638485-0-163
+msgctxt "151638485-0-163"
+msgid "/hail"
+msgstr "/hail"
+
+#: 139475237-0-162
+msgctxt "139475237-0-162"
+msgid "Greet"
+msgstr "出迎える"
+
+#: 151638485-0-162
+msgctxt "151638485-0-162"
+msgid "/greet"
+msgstr "/greet"
+
+#: 139475237-0-161
+msgctxt "139475237-0-161"
+msgid "Taunt"
+msgstr "挑発する"
+
+#: 151638485-0-161
+msgctxt "151638485-0-161"
+msgid "/taunt"
+msgstr "/taunt"
+
+#: 139475237-0-160
+msgctxt "139475237-0-160"
+msgid "Sigh"
+msgstr "ため息をつく"
+
+#: 151638485-0-160
+msgctxt "151638485-0-160"
+msgid "/sigh"
+msgstr "/sigh"
+
+#: 3427285-0-16
+msgctxt "3427285-0-16"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-159
+msgctxt "151638485-0-159"
+msgid "/leanback"
+msgstr "/leanback"
+
+#: 139475237-0-158
+msgctxt "139475237-0-158"
+msgid "Wall lean (side)"
+msgstr "もたれる(横)"
+
+#: 151638485-0-158
+msgctxt "151638485-0-158"
+msgid "/leanside"
+msgstr "/leanside"
+
+#: 139475237-0-157
+msgctxt "139475237-0-157"
+msgid "Curtsey"
+msgstr "おじぎする"
+
+#: 151638485-0-157
+msgctxt "151638485-0-157"
+msgid "/curtsey"
+msgstr "/curtsey"
+
+#: 139475237-0-156
+msgctxt "139475237-0-156"
+msgid "Thumbs up"
+msgstr "親指を上げる"
+
+#: 151638485-0-156
+msgctxt "151638485-0-156"
+msgid "/thumbsup"
+msgstr "/thumbsup"
+
+#: 139475237-0-155
+msgctxt "139475237-0-155"
+msgid "Hammer kneel"
+msgstr "しゃがんでハンマー"
+
+#: 151638485-0-155
+msgctxt "151638485-0-155"
+msgid "/hammerlow"
+msgstr "/hammerlow"
+
+#: 139475237-0-154
+msgctxt "139475237-0-154"
+msgid "Hammer wall"
+msgstr "ハンマーで壁を叩く"
+
+#: 151638485-0-154
+msgctxt "151638485-0-154"
+msgid "/hammerwall"
+msgstr "/hammerwall"
+
+#: 139475237-0-153
+msgctxt "139475237-0-153"
+msgid "Huh"
+msgstr "素っ気ない態度をとる"
+
+#: 151638485-0-153
+msgctxt "151638485-0-153"
+msgid "/huh"
+msgstr "/huh"
+
+#: 139475237-0-152
+msgctxt "139475237-0-152"
+msgid "Write"
+msgstr "書く"
+
+#: 151638485-0-152
+msgctxt "151638485-0-152"
+msgid "/write"
+msgstr "/write"
+
+#: 139475237-0-151
+msgctxt "139475237-0-151"
+msgid "Point upward"
+msgstr "上を指す"
+
+#: 151638485-0-151
+msgctxt "151638485-0-151"
+msgid "/pointu"
+msgstr "/pointu"
+
+#: 139475237-0-150
+msgctxt "139475237-0-150"
+msgid "Sit ground 6"
+msgstr "地面に座る6"
+
+#: 151638485-0-150
+msgctxt "151638485-0-150"
+msgid "/sit6"
+msgstr "/sit6"
+
+#: 3427285-0-15
+msgctxt "3427285-0-15"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-15
+msgctxt "139475237-0-15"
+msgid "Drink potion"
+msgstr "薬を飲む"
+
+#: 151638485-0-15
+msgctxt "151638485-0-15"
+msgid "/potion"
+msgstr "/potion"
+
+#: 139475237-0-149
+msgctxt "139475237-0-149"
+msgid "Sit ground 5"
+msgstr "地面に座る5"
+
+#: 151638485-0-149
+msgctxt "151638485-0-149"
+msgid "/sit5"
+msgstr "/sit5"
+
+#: 139475237-0-148
+msgctxt "139475237-0-148"
+msgid "Sit ground 4"
+msgstr "地面に座る4"
+
+#: 151638485-0-148
+msgctxt "151638485-0-148"
+msgid "/sit4"
+msgstr "/sit4"
+
+#: 139475237-0-147
+msgctxt "139475237-0-147"
+msgid "Sit ground 3"
+msgstr "地面に座る3"
+
+#: 151638485-0-147
+msgctxt "151638485-0-147"
+msgid "/sit3"
+msgstr "/sit3"
+
+#: 139475237-0-146
+msgctxt "139475237-0-146"
+msgid "Sit ground 2"
+msgstr "地面に座る2"
+
+#: 151638485-0-146
+msgctxt "151638485-0-146"
+msgid "/sit2"
+msgstr "/sit2"
+
+#: 139475237-0-145
+msgctxt "139475237-0-145"
+msgid "Sleep back"
+msgstr "仰向けに寝る"
+
+#: 151638485-0-145
+msgctxt "151638485-0-145"
+msgid "/sleep2"
+msgstr "/sleep2"
+
+#: 139475237-0-144
+msgctxt "139475237-0-144"
+msgid "Over here"
+msgstr "注目させる"
+
+#: 151638485-0-144
+msgctxt "151638485-0-144"
+msgid "/overhere"
+msgstr "/overhere"
+
+#: 139475237-0-143
+msgctxt "139475237-0-143"
+msgid "Sleep side"
+msgstr "横向きに寝る"
+
+#: 151638485-0-143
+msgctxt "151638485-0-143"
+msgid "/sleep"
+msgstr "/sleep"
+
+#: 139475237-0-142
+msgctxt "139475237-0-142"
+msgid "Play dead"
+msgstr "死んだふりをする"
+
+#: 151638485-0-142
+msgctxt "151638485-0-142"
+msgid "/playdead"
+msgstr "/playdead"
+
+#: 139475237-0-141
+msgctxt "139475237-0-141"
+msgid "Breathless"
+msgstr "息切れする"
+
+#: 151638485-0-141
+msgctxt "151638485-0-141"
+msgid "/breathless"
+msgstr "/breathless"
+
+#: 139475237-0-140
+msgctxt "139475237-0-140"
+msgid "Situps"
+msgstr "腹筋をする"
+
+#: 151638485-0-140
+msgctxt "151638485-0-140"
+msgid "/situps"
+msgstr "/situps"
+
+#: 3427285-0-14
+msgctxt "3427285-0-14"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-136
+msgctxt "151638485-0-136"
+msgid "/hammer"
+msgstr "/hammer"
+
+#: 139475237-0-135
+msgctxt "139475237-0-135"
+msgid "Thank You"
+msgstr "お礼をする"
+
+#: 151638485-0-135
+msgctxt "151638485-0-135"
+msgid "/thank"
+msgstr "/thank"
+
+#: 139475237-0-134
+msgctxt "139475237-0-134"
+msgid "Search"
+msgstr "探す"
+
+#: 151638485-0-134
+msgctxt "151638485-0-134"
+msgid "/search"
+msgstr "/search"
+
+#: 139475237-0-133
+msgctxt "139475237-0-133"
+msgid "Kick"
+msgstr "キックする"
+
+#: 151638485-0-133
+msgctxt "151638485-0-133"
+msgid "/kick"
+msgstr "/kick"
+
+#: 139475237-0-132
+msgctxt "139475237-0-132"
+msgid "Touch"
+msgstr "触る"
+
+#: 151638485-0-132
+msgctxt "151638485-0-132"
+msgid "/touch"
+msgstr "/touch"
+
+#: 139475237-0-130
+msgctxt "139475237-0-130"
+msgid "Stir Bowl"
+msgstr "器をかき混ぜる"
+
+#: 151638485-0-130
+msgctxt "151638485-0-130"
+msgid "/prov"
+msgstr "/prov"
+
+#: 3427285-0-13
+msgctxt "3427285-0-13"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 139475237-0-13
+msgctxt "139475237-0-13"
+msgid "Read book"
+msgstr "本を読む"
+
+#: 151638485-0-13
+msgctxt "151638485-0-13"
+msgid "/read"
+msgstr "/read"
+
+#: 139475237-0-128
+msgctxt "139475237-0-128"
+msgid "[Crafting] Weapons"
+msgstr "[クラフト] 武器"
+
+#: 151638485-0-127
+msgctxt "151638485-0-127"
+msgid "/shieldeyes"
+msgstr "/shieldeyes"
+
+#: 139475237-0-126
+msgctxt "139475237-0-126"
+msgid "Beggar"
+msgstr "物乞いをする"
+
+#: 151638485-0-126
+msgctxt "151638485-0-126"
+msgid "/beggar"
+msgstr "/beggar"
+
+#: 139475237-0-125
+msgctxt "139475237-0-125"
+msgid "Kneel praying"
+msgstr "跪いて祈る"
+
+#: 151638485-0-125
+msgctxt "151638485-0-125"
+msgid "/kneelpray"
+msgstr "/kneelpray"
+
+#: 139475237-0-124
+msgctxt "139475237-0-124"
+msgid "Humble"
+msgstr "謙虚な態度をとる"
+
+#: 151638485-0-124
+msgctxt "151638485-0-124"
+msgid "/humble"
+msgstr "/humble"
+
+#: 139475237-0-123
+msgctxt "139475237-0-123"
+msgid "Kneel"
+msgstr "跪く"
+
+#: 151638485-0-123
+msgctxt "151638485-0-123"
+msgid "/kneel"
+msgstr "/kneel"
+
+#: 139475237-0-122
+msgctxt "139475237-0-122"
+msgid "Crouch"
+msgstr "かがむ"
+
+#: 151638485-0-122
+msgctxt "151638485-0-122"
+msgid "/crouch"
+msgstr "/crouch"
+
+#: 139475237-0-121
+msgctxt "139475237-0-121"
+msgid "Sit chair"
+msgstr "椅子に座る"
+
+#: 151638485-0-121
+msgctxt "151638485-0-121"
+msgid "/sitchair"
+msgstr "/sitchair"
+
+#: 139475237-0-120
+msgctxt "139475237-0-120"
+msgid "Sit ground"
+msgstr "地面に座る"
+
+#: 151638485-0-120
+msgctxt "151638485-0-120"
+msgid "/sit"
+msgstr "/sit"
+
+#: 3427285-0-12
+msgctxt "3427285-0-12"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-119
+msgctxt "151638485-0-119"
+msgid "/ritual"
+msgstr "/ritual"
+
+#: 139475237-0-117
+msgctxt "139475237-0-117"
+msgid "Celebration"
+msgstr "祝う"
+
+#: 151638485-0-117
+msgctxt "151638485-0-117"
+msgid "/celebrate"
+msgstr "/celebrate"
+
+#: 139475237-0-110
+msgctxt "139475237-0-110"
+msgid "Yawn"
+msgstr "あくびする"
+
+#: 151638485-0-110
+msgctxt "151638485-0-110"
+msgid "/yawn"
+msgstr "/yawn"
+
+#: 139475237-0-11
+msgctxt "139475237-0-11"
+msgid "Eat bread quickly"
+msgstr "パンを早食いする"
+
+#: 151638485-0-11
+msgctxt "151638485-0-11"
+msgid "/eat2"
+msgstr "/eat2"
+
+#: 139475237-0-109
+msgctxt "139475237-0-109"
+msgid "Wipe brow"
+msgstr "額を拭う"
+
+#: 151638485-0-109
+msgctxt "151638485-0-109"
+msgid "/phew"
+msgstr "/phew"
+
+#: 139475237-0-108
+msgctxt "139475237-0-108"
+msgid "Whisper"
+msgstr "囁く"
+
+#: 151638485-0-108
+msgctxt "151638485-0-108"
+msgid "/whisper"
+msgstr "/whisper"
+
+#: 139475237-0-107
+msgctxt "139475237-0-107"
+msgid "Wag finger"
+msgstr "指を振る"
+
+#: 151638485-0-107
+msgctxt "151638485-0-107"
+msgid "/wagfinger"
+msgstr "/wagfinger"
+
+#: 139475237-0-106
+msgctxt "139475237-0-106"
+msgid "Tilt head"
+msgstr "頭を傾ける"
+
+#: 151638485-0-106
+msgctxt "151638485-0-106"
+msgid "/tilt"
+msgstr "/tilt"
+
+#: 139475237-0-105
+msgctxt "139475237-0-105"
+msgid "Stretch"
+msgstr "ストレッチする"
+
+#: 151638485-0-105
+msgctxt "151638485-0-105"
+msgid "/stretch"
+msgstr "/stretch"
+
+#: 139475237-0-104
+msgctxt "139475237-0-104"
+msgid "Sickened"
+msgstr "うんざりする"
+
+#: 151638485-0-104
+msgctxt "151638485-0-104"
+msgid "/sick"
+msgstr "/sick"
+
+#: 139475237-0-103
+msgctxt "139475237-0-103"
+msgid "Pour"
+msgstr "注ぐ"
+
+#: 151638485-0-103
+msgctxt "151638485-0-103"
+msgid "/pour"
+msgstr "/pour"
+
+#: 139475237-0-102
+msgctxt "139475237-0-102"
+msgid "Knock on door"
+msgstr "扉をノックする"
+
+#: 151638485-0-102
+msgctxt "151638485-0-102"
+msgid "/knock"
+msgstr "/knock"
+
+#: 139475237-0-101
+msgctxt "139475237-0-101"
+msgid "You"
+msgstr "相手を指す"
+
+#: 151638485-0-101
+msgctxt "151638485-0-101"
+msgid "/you"
+msgstr "/you"
+
+#: 139475237-0-100
+msgctxt "139475237-0-100"
+msgid "Push-ups weak"
+msgstr "弱々しい腕立てをする"
+
+#: 151638485-0-100
+msgctxt "151638485-0-100"
+msgid "/pushup"
+msgstr "/pushup"
+
+#: 3427285-0-10
+msgctxt "3427285-0-10"
+msgid "IDLE"
+msgstr "たたずむ"
+
+#: 151638485-0-1
+msgctxt "151638485-0-1"
+msgid "/torch"
+msgstr "/torch"
+
+#: 3427285-9-16
+msgctxt "3427285-9-16"
+msgid "CROUCH RUN"
+msgstr "かがんで走る"
+
+#: 3427285-8-25
+msgctxt "3427285-8-25"
+msgid "EMOTE: |c22ADDChammerwall"
+msgstr "EMOTE: |c22ADDChammerwall"
+
+#: 3427285-8-24
+msgctxt "3427285-8-24"
+msgid "EMOTE: |c22ADDCwave"
+msgstr "感情表現: |c22ADDCウェーブ"
+
+#: 3427285-8-23
+msgctxt "3427285-8-23"
+msgid "SPRINT"
+msgstr "ダッシュ"
+
+#: 3427285-8-18
+msgctxt "3427285-8-18"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-8-17
+msgctxt "3427285-8-17"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-8-16
+msgctxt "3427285-8-16"
+msgid "CROUCH WALK"
+msgstr "かがんで歩く"
+
+#: 3427285-7-3
+msgctxt "3427285-7-3"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-7-27
+msgctxt "3427285-7-27"
+msgid "EMOTE: |c22ADDCeat3"
+msgstr "感情表現: |c22ADDC食べる3"
+
+#: 3427285-7-25
+msgctxt "3427285-7-25"
+msgid "EMOTE: |c22ADDCwave"
+msgstr "EMOTE: |c22ADDCwave"
+
+#: 3427285-7-24
+msgctxt "3427285-7-24"
+msgid "EMOTE: |c22ADDCtwiddle"
+msgstr "感情表現: |c22ADDCたたずむ"
+
+#: 3427285-7-23
+msgctxt "3427285-7-23"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-7-18
+msgctxt "3427285-7-18"
+msgid "EMOTE: |c22ADDC Idle4|r"
+msgstr "感情表現: |c22ADDC たたずむ4|r"
+
+#: 3427285-7-17
+msgctxt "3427285-7-17"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-7-16
+msgctxt "3427285-7-16"
+msgid "CROUCH"
+msgstr "かがむ"
+
+#: 3427285-7-14
+msgctxt "3427285-7-14"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-6-8
+msgctxt "3427285-6-8"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-6-3
+msgctxt "3427285-6-3"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-6-28
+msgctxt "3427285-6-28"
+msgid "EMOTE: |c22ADDCSearch"
+msgstr "感情表現: |c22ADDC探す"
+
+#: 3427285-6-27
+msgctxt "3427285-6-27"
+msgid "EMOTE: |c22ADDCgreet"
+msgstr "感情表現: |c22ADDC出迎える"
+
+#: 3427285-6-26
+msgctxt "3427285-6-26"
+msgid "EMOTE: |c22ADDCritual"
+msgstr "感情表現: |c22ADDC儀式"
+
+#: 3427285-6-25
+msgctxt "3427285-6-25"
+msgid "EMOTE: |c22ADDCtwiddle"
+msgstr "EMOTE: |c22ADDCtwiddle"
+
+#: 3427285-6-24
+msgctxt "3427285-6-24"
+msgid "EMOTE: |c22ADDCbow"
+msgstr "感情表現: |c22ADDCおじぎをする"
+
+#: 3427285-6-23
+msgctxt "3427285-6-23"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-6-22
+msgctxt "3427285-6-22"
+msgid "EMOTE: |c22ADDCarmscrossed"
+msgstr "感情表現: |c22ADDC腕組みをする"
+
+#: 3427285-6-19
+msgctxt "3427285-6-19"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-6-18
+msgctxt "3427285-6-18"
+msgid "EMOTE: |c22ADDCIdle3|r"
+msgstr "感情表現: |c22ADDCたたずむ3|r"
+
+#: 3427285-6-17
+msgctxt "3427285-6-17"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-6-16
+msgctxt "3427285-6-16"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-6-14
+msgctxt "3427285-6-14"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-5-8
+msgctxt "3427285-5-8"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-5-3
+msgctxt "3427285-5-3"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-5-28
+msgctxt "3427285-5-28"
+msgid "EMOTE: |c22ADDCPhew"
+msgstr "感情表現: |c22ADDCやれやれ"
+
+#: 3427285-5-27
+msgctxt "3427285-5-27"
+msgid "EMOTE: |c22ADDCidle4"
+msgstr "感情表現: |c22ADDCたたずむ4"
+
+#: 3427285-5-26
+msgctxt "3427285-5-26"
+msgid "IDLE: |c22ADDCidle4"
+msgstr "感情表現: |c22ADDCたたずむ4"
+
+#: 3427285-5-25
+msgctxt "3427285-5-25"
+msgid "EMOTE: |c22ADDCbow"
+msgstr "EMOTE: |c22ADDCbow"
+
+#: 3427285-5-24
+msgctxt "3427285-5-24"
+msgid "EMOTE: |c22ADDCsleep"
+msgstr "感情表現: |c22ADDC寝る"
+
+#: 3427285-5-23
+msgctxt "3427285-5-23"
+msgid "IDLE: |c22ADDCgreet"
+msgstr "たたずむ: |c22ADDC出迎える"
+
+#: 3427285-5-22
+msgctxt "3427285-5-22"
+msgid "EMOTE: |c22ADDCdoom"
+msgstr "感情表現: |c22ADDC破滅"
+
+#: 3427285-5-19
+msgctxt "3427285-5-19"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-5-18
+msgctxt "3427285-5-18"
+msgid "EMOTE: |c22ADDCIdle2|r"
+msgstr "感情表現: |c22ADDCたたずむ2|r"
+
+#: 3427285-5-17
+msgctxt "3427285-5-17"
+msgid "EMOTE:  |c22ADDCYes|r"
+msgstr "感情表現: |c22ADDC賛成する|r"
+
+#: 3427285-5-16
+msgctxt "3427285-5-16"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-5-15
+msgctxt "3427285-5-15"
+msgid "JOG"
+msgstr "ジョギング"
+
+#: 3427285-5-14
+msgctxt "3427285-5-14"
+msgid "EMOTE: |c22ADDCIdle3|r"
+msgstr "感情表現: |c22ADDCたたずむ3|r"
+
+#: 3427285-4-9
+msgctxt "3427285-4-9"
+msgid "Check Weapon"
+msgstr "武器を調べる"
+
+#: 3427285-4-8
+msgctxt "3427285-4-8"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-4-3
+msgctxt "3427285-4-3"
+msgid "EMOTE: |c22ADDCSick|r"
+msgstr "感情表現: |c22ADDC酔う|r"
+
+#: 3427285-4-28
+msgctxt "3427285-4-28"
+msgid "EMOTE: |c22ADDCTake"
+msgstr "感情表現: |c22ADDC取る"
+
+#: 3427285-4-27
+msgctxt "3427285-4-27"
+msgid "EMOTE: |c22ADDCidle3"
+msgstr "感情表現: |c22ADDCたたずむ3"
+
+#: 3427285-4-26
+msgctxt "3427285-4-26"
+msgid "IDLE: |c22ADDCidle2"
+msgstr "感情表現: |c22ADDCたたずむ2"
+
+#: 3427285-4-25
+msgctxt "3427285-4-25"
+msgid "EMOTE: |c22ADDCsleep"
+msgstr "EMOTE: |c22ADDCsleep"
+
+#: 3427285-4-24
+msgctxt "3427285-4-24"
+msgid "EMOTE: |c22ADDCidle4"
+msgstr "感情表現: |c22ADDCたたずむ4"
+
+#: 3427285-4-23
+msgctxt "3427285-4-23"
+msgid "EMOTE: |c22ADDCeat3"
+msgstr "感情表現: |c22ADDC食べる3"
+
+#: 3427285-4-22
+msgctxt "3427285-4-22"
+msgid "EMOTE: |c22ADDCjuggleflame"
+msgstr "感情表現: |c22ADDC炎のジャグリング"
+
+#: 3427285-4-21
+msgctxt "3427285-4-21"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-4-19
+msgctxt "3427285-4-19"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-4-18
+msgctxt "3427285-4-18"
+msgid "EMOTE: |c22ADDCBow|r"
+msgstr "感情表現: |c22ADDCおじぎをする|r"
+
+#: 3427285-4-17
+msgctxt "3427285-4-17"
+msgid "EMOTE:  |c22ADDCKneel|r"
+msgstr "感情表現: |c22ADDC跪く|r"
+
+#: 3427285-4-16
+msgctxt "3427285-4-16"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-4-15
+msgctxt "3427285-4-15"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-4-14
+msgctxt "3427285-4-14"
+msgid "EMOTE: |c22ADDCIdle2|r"
+msgstr "感情表現: |c22ADDCたたずむ2|r"
+
+#: 3427285-3-9
+msgctxt "3427285-3-9"
+msgid "Wall Lean (Side)"
+msgstr "もたれる(横)"
+
+#: 3427285-3-8
+msgctxt "3427285-3-8"
+msgid "EMOTE: |c22ADDCRude|r"
+msgstr "感情表現: |c22ADDC失礼な態度を取る|r"
+
+#: 3427285-3-7
+msgctxt "3427285-3-7"
+msgid "Emote"
+msgstr "感情表現"
+
+#: 3427285-3-3
+msgctxt "3427285-3-3"
+msgid "EMOTE: |c22ADDCDrink|r"
+msgstr "感情表現: |c22ADDC飲む|r"
+
+#: 3427285-3-28
+msgctxt "3427285-3-28"
+msgid "EMOTE: |c22ADDCCrouch"
+msgstr "感情表現: |c22ADDCかがむ"
+
+#: 3427285-3-27
+msgctxt "3427285-3-27"
+msgid "EMOTE: |c22ADDCidle2"
+msgstr "感情表現: |c22ADDCたたずむ2"
+
+#: 3427285-3-26
+msgctxt "3427285-3-26"
+msgid "IDLE: |c22ADDCread"
+msgstr "たたずむ: |c22ADDC読む"
+
+#: 3427285-3-25
+msgctxt "3427285-3-25"
+msgid "EMOTE: |c22ADDCidle4"
+msgstr "EMOTE: |c22ADDCidle4"
+
+#: 3427285-3-24
+msgctxt "3427285-3-24"
+msgid "EMOTE: |c22ADDCidle3"
+msgstr "感情表現: |c22ADDCたたずむ3"
+
+#: 3427285-3-23
+msgctxt "3427285-3-23"
+msgid "IDLE: |c22ADDCidle4"
+msgstr "感情表現: |c22ADDCたたずむ4"
+
+#: 3427285-3-22
+msgctxt "3427285-3-22"
+msgid "EMOTE: |c22ADDCritual"
+msgstr "感情表現: |c22ADDC儀式"
+
+#: 3427285-3-21
+msgctxt "3427285-3-21"
+msgid "EMOTE:  |c22ADDCArmscrossed|r"
+msgstr "感情表現: |c22ADDC腕組みをする|r"
+
+#: 3427285-3-19
+msgctxt "3427285-3-19"
+msgid "EMOTE: |c22ADDCIdle3|r"
+msgstr "感情表現: |c22ADDCたたずむ3|r"
+
+#: 3427285-3-18
+msgctxt "3427285-3-18"
+msgid "EMOTE: |c22ADDCLeanside|r"
+msgstr "感情表現: |c22ADDCもたれる(横)|r"
+
+#: 3427285-3-17
+msgctxt "3427285-3-17"
+msgid "EMOTE:  |c22ADDCTilt|r"
+msgstr "感情表現: |c22ADDC傾ける|r"
+
+#: 3427285-3-16
+msgctxt "3427285-3-16"
+msgid "EMOTE: |c22ADDCRubHands|r"
+msgstr "感情表現: |c22ADDC揉み手する|r"
+
+#: 3427285-3-15
+msgctxt "3427285-3-15"
+msgid "EMOTE: |c22ADDCHandsonhips|r"
+msgstr "感情表現: |c22ADDC手を腰に置く|r"
+
+#: 3427285-3-14
+msgctxt "3427285-3-14"
+msgid "EMOTE: |c22ADDCTilt|r"
+msgstr "感情表現: |c22ADDC傾ける|r"
+
+#: 3427285-2-9
+msgctxt "3427285-2-9"
+msgid "Wall Lean (Back)"
+msgstr "もたれる"
+
+#: 3427285-2-8
+msgctxt "3427285-2-8"
+msgid "EMOTE: |c22ADDCGreet|r"
+msgstr "感情表現: |c22ADDC出迎える|r"
+
+#: 3427285-2-7
+msgctxt "3427285-2-7"
+msgid "Explode"
+msgstr "爆発する"
+
+#: 3427285-2-3
+msgctxt "3427285-2-3"
+msgid "EMOTE: |c22ADDCCheer|r"
+msgstr "感情表現: |c22ADDC応援する|r"
+
+#: 3427285-2-28
+msgctxt "3427285-2-28"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-2-27
+msgctxt "3427285-2-27"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-2-26
+msgctxt "3427285-2-26"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-2-25
+msgctxt "3427285-2-25"
+msgid "RUN"
+msgstr "RUN"
+
+#: 3427285-2-24
+msgctxt "3427285-2-24"
+msgid "RUN"
+msgstr "走る"
+
+#: 3427285-2-23
+msgctxt "3427285-2-23"
+msgid "IDLE: |c22ADDCidle3"
+msgstr "感情表現: |c22ADDCたたずむ3"
+
+#: 3427285-2-22
+msgctxt "3427285-2-22"
+msgid "IDLE: |c22ADDCidle4"
+msgstr "感情表現: |c22ADDCたたずむ4"
+
+#: 3427285-2-21
+msgctxt "3427285-2-21"
+msgid "EMOTE:  |c22ADDCBeckon|r"
+msgstr "感情表現: |c22ADDC手招きする|r"
+
+#: 3427285-2-19
+msgctxt "3427285-2-19"
+msgid "EMOTE: |c22ADDCIdle2|r"
+msgstr "感情表現: |c22ADDCたたずむ2|r"
+
+#: 3427285-2-18
+msgctxt "3427285-2-18"
+msgid "EMOTE: |c22ADDCSpit|r"
+msgstr "感情表現: |c22ADDC唾を吐く|r"
+
+#: 3427285-2-17
+msgctxt "3427285-2-17"
+msgid "EMOTE:  |c22ADDCAnnoyed|r"
+msgstr "感情表現: |c22ADDC苛立つ|r"
+
+#: 3427285-2-16
+msgctxt "3427285-2-16"
+msgid "EMOTE: |c22ADDCIdle3|r"
+msgstr "感情表現: |c22ADDCたたずむ3|r"
+
+#: 3427285-2-15
+msgctxt "3427285-2-15"
+msgid "EMOTE: |c22ADDCBrushoff|r"
+msgstr "感情表現: |c22ADDC払う|r"
+
+#: 3427285-2-14
+msgctxt "3427285-2-14"
+msgid "EMOTE: |c22ADDCPreening|r"
+msgstr "感情表現: |c22ADDC身繕いをする|r"
+
+#: 3427285-2-13
+msgctxt "3427285-2-13"
+msgid "EMOTE: |c22ADDCStretch|r"
+msgstr "感情表現: |c22ADDCストレッチする|r"
+
+#: 3427285-2-12
+msgctxt "3427285-2-12"
+msgid "EMOTE: |c22ADDCNo|r"
+msgstr "感情表現: |c22ADDC拒否する|r"
+
+#: 3427285-1-9
+msgctxt "3427285-1-9"
+msgid "Greet"
+msgstr "出迎える"
+
+#: 3427285-1-8
+msgctxt "3427285-1-8"
+msgid "EMOTE: |c22ADDCDrink|r"
+msgstr "感情表現: |c22ADDC飲む|r"
+
+#: 3427285-1-7
+msgctxt "3427285-1-7"
+msgid "EnterPortal"
+msgstr "ポータルに入る"
+
+#: 3427285-1-3
+msgctxt "3427285-1-3"
+msgid "EMOTE: |c22ADDCLaugh|r"
+msgstr "感情表現: |c22ADDC笑う|r"
+
+#: 3427285-1-28
+msgctxt "3427285-1-28"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-1-27
+msgctxt "3427285-1-27"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-1-26
+msgctxt "3427285-1-26"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-1-25
+msgctxt "3427285-1-25"
+msgid "WALK"
+msgstr "WALK"
+
+#: 3427285-1-24
+msgctxt "3427285-1-24"
+msgid "WALK"
+msgstr "歩く"
+
+#: 3427285-1-23
+msgctxt "3427285-1-23"
+msgid "IDLE: |c22ADDCidle2"
+msgstr "感情表現: |c22ADDCたたずむ2"
+
+#: 3427285-1-22
+msgctxt "3427285-1-22"
+msgid "IDLE: |c22ADDCidle2"
+msgstr "感情表現: |c22ADDCたたずむ2"
+
+#: 3427285-1-21
+msgctxt "3427285-1-21"
+msgid "EMOTE:  |c22ADDCIdle2|r"
+msgstr "感情表現: |c22ADDCたたずむ2|r"
+
+#: 3427285-1-19
+msgctxt "3427285-1-19"
+msgid "EMOTE: |c22ADDCApprove|r"
+msgstr "感情表現: |c22ADDC認める|r"
+
+#: 3427285-1-18
+msgctxt "3427285-1-18"
+msgid "EMOTE: |c22ADDCCheer|r"
+msgstr "感情表現: |c22ADDC応援する|r"
+
+#: 3427285-1-17
+msgctxt "3427285-1-17"
+msgid "EMOTE:  |c22ADDCThreaten|r"
+msgstr "感情表現: |c22ADDC脅迫する|r"
+
+#: 3427285-1-16
+msgctxt "3427285-1-16"
+msgid "EMOTE: |c22ADDCIdle2|r"
+msgstr "感情表現: |c22ADDCたたずむ2|r"
+
+#: 3427285-1-15
+msgctxt "3427285-1-15"
+msgid "EMOTE: |c22ADDCRubhands|r"
+msgstr "感情表現: |c22ADDC揉み手する|r"
+
+#: 3427285-1-14
+msgctxt "3427285-1-14"
+msgid "EMOTE: |c22ADDCFlirt|r"
+msgstr "感情表現: |c22ADDCいちゃつく|r"
+
+#: 3427285-1-13
+msgctxt "3427285-1-13"
+msgid "EMOTE: |c22ADDCIdle2|r"
+msgstr "感情表現: |c22ADDCたたずむ2|r"
+
+#: 3427285-1-12
+msgctxt "3427285-1-12"
+msgid "EMOTE: |c22ADDCSigh|r"
+msgstr "感情表現: |c22ADDCため息をつく|r"
+
+#: 3427285-1-10
+msgctxt "3427285-1-10"
+msgid "EMOTE: |c22ADDCArmscrossed|r"
+msgstr "感情表現: |c22ADDC腕組みをする|r"
+
+#: 139475237-0-99
+msgctxt "139475237-0-99"
+msgid "Push-ups strong"
+msgstr "力強い腕立てをする"
+
+#: 139475237-0-79
+msgctxt "139475237-0-79"
+msgid "Weep"
+msgstr "泣く"
+
+#: 139475237-0-590
+msgctxt "139475237-0-590"
+msgid "Treasure Hunter Compass"
+msgstr "トレジャーハンターのコンパス"
+
+#: 139475237-0-588
+msgctxt "139475237-0-588"
+msgid "Treasure Hunter WipeBrow"
+msgstr "トレジャーハンター汗かき"
+
+#: 139475237-0-587
+msgctxt "139475237-0-587"
+msgid "Treasure Hunter Map"
+msgstr "トレジャーハンター地図読み"
+
+#: 139475237-0-586
+msgctxt "139475237-0-586"
+msgid "Treasure Hunter Take Preview"
+msgstr "トレジャーハンターの取得プレビュー"
+
+#: 139475237-0-585
+msgctxt "139475237-0-585"
+msgid "Treasure Hunter Crouch Preview"
+msgstr "トレジャーハンターしゃがみプレビュー"
+
+#: 139475237-0-584
+msgctxt "139475237-0-584"
+msgid "Treasure Hunter Run Preview"
+msgstr "トレジャーハンター走りプレビュー"
+
+#: 139475237-0-583
+msgctxt "139475237-0-583"
+msgid "Treasure Hunter Walk Preview"
+msgstr "トレジャーハンター歩きプレビュー"
+
+#: 139475237-0-582
+msgctxt "139475237-0-582"
+msgid "Treasure Hunter Search"
+msgstr "トレジャーハンター捜索"
+
+#: 139475237-0-547
+msgctxt "139475237-0-547"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-546
+msgctxt "139475237-0-546"
+msgid "Idle3"
+msgstr "たたずむ3"
+
+#: 139475237-0-538
+msgctxt "139475237-0-538"
+msgid "Festival Beggar"
+msgstr "祭りの物乞い"
+
+#: 139475237-0-536
+msgctxt "139475237-0-536"
+msgid "Throw Treats"
+msgstr "ごちそう投げ"
+
+#: 139475237-0-528
+msgctxt "139475237-0-528"
+msgid "Factotum Dance"
+msgstr "ファクトタムダンス"
+
+#: 139475237-0-522
+msgctxt "139475237-0-522"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-521
+msgctxt "139475237-0-521"
+msgid "_LUA_HI05"
+msgstr "_LUA_HI05"
+
+#: 139475237-0-520
+msgctxt "139475237-0-520"
+msgid "_LUA_HI04"
+msgstr "_LUA_HI04"
+
+#: 139475237-0-52
+msgctxt "139475237-0-52"
+msgid "Pay me"
+msgstr "支払いを求める"
+
+#: 139475237-0-518
+msgctxt "139475237-0-518"
+msgid "_LUA_HI02"
+msgstr "_LUA_HI02"
+
+#: 139475237-0-517
+msgctxt "139475237-0-517"
+msgid "_LUA_HI01"
+msgstr "_LUA_HI01"
+
+#: 139475237-0-516
+msgctxt "139475237-0-516"
+msgid "_LUA_MED01"
+msgstr "_LUA_MED01"
+
+#: 139475237-0-515
+msgctxt "139475237-0-515"
+msgid "_LUA_LOW02"
+msgstr "_LUA_LOW02"
+
+#: 139475237-0-514
+msgctxt "139475237-0-514"
+msgid "_LUA_LOW01"
+msgstr "_LUA_LOW01"
+
+#: 139475237-0-513
+msgctxt "139475237-0-513"
+msgid "Preview Run"
+msgstr "走行のプレビュー"
+
+#: 139475237-0-512
+msgctxt "139475237-0-512"
+msgid "Preview Walk"
+msgstr "歩行のプレビュー"
+
+#: 139475237-0-511
+msgctxt "139475237-0-511"
+msgid "Factotum Dance"
+msgstr "ファクトタムダンス"
+
+#: 139475237-0-496
+msgctxt "139475237-0-496"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-495
+msgctxt "139475237-0-495"
+msgid "Clippers"
+msgstr "ハサミで切る"
+
+#: 139475237-0-480
+msgctxt "139475237-0-480"
+msgid "Admire Me"
+msgstr "見とれるがよい"
+
+#: 139475237-0-474
+msgctxt "139475237-0-474"
+msgid "SPRINT"
+msgstr "ダッシュ"
+
+#: 139475237-0-473
+msgctxt "139475237-0-473"
+msgid "RUN"
+msgstr "走る"
+
+#: 139475237-0-472
+msgctxt "139475237-0-472"
+msgid "WALK"
+msgstr "歩く"
+
+#: 139475237-0-471
+msgctxt "139475237-0-471"
+msgid "Greet"
+msgstr "出迎える"
+
+#: 139475237-0-464
+msgctxt "139475237-0-464"
+msgid "Arms Crossed"
+msgstr "腕組みをする"
+
+#: 139475237-0-462
+msgctxt "139475237-0-462"
+msgid "Beckon"
+msgstr "手招きする"
+
+#: 139475237-0-431
+msgctxt "139475237-0-431"
+msgid "TeaTime"
+msgstr "ティータイム"
+
+#: 139475237-0-423
+msgctxt "139475237-0-423"
+msgid "JOG"
+msgstr "ジョギングする"
+
+#: 139475237-0-422
+msgctxt "139475237-0-422"
+msgid "WALK"
+msgstr "歩く"
+
+#: 139475237-0-421
+msgctxt "139475237-0-421"
+msgid "RUN PREVIEW"
+msgstr "走る(プレビュー)"
+
+#: 139475237-0-420
+msgctxt "139475237-0-420"
+msgid "JOG"
+msgstr "ジョギングする"
+
+#: 139475237-0-42
+msgctxt "139475237-0-42"
+msgid "Follow me"
+msgstr "同行を求める"
+
+#: 139475237-0-418
+msgctxt "139475237-0-418"
+msgid "JOG PREVIEW"
+msgstr "ジョギングする(プレビュー)"
+
+#: 139475237-0-417
+msgctxt "139475237-0-417"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-416
+msgctxt "139475237-0-416"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-415
+msgctxt "139475237-0-415"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-414
+msgctxt "139475237-0-414"
+msgid "Duchess Idle3"
+msgstr "たたずむ女公爵3"
+
+#: 139475237-0-411
+msgctxt "139475237-0-411"
+msgid "JOG PREVIEW"
+msgstr "ジョギングする(プレビュー)"
+
+#: 139475237-0-410
+msgctxt "139475237-0-410"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-41
+msgctxt "139475237-0-41"
+msgid "Facepalm"
+msgstr "手で顔を覆う"
+
+#: 139475237-0-408
+msgctxt "139475237-0-408"
+msgid "Look Around 03"
+msgstr "周囲を見る03"
+
+#: 139475237-0-403
+msgctxt "139475237-0-403"
+msgid "CROUCH WALK"
+msgstr "かがんで歩く"
+
+#: 139475237-0-402
+msgctxt "139475237-0-402"
+msgid "CROUCH"
+msgstr "かがむ"
+
+#: 139475237-0-401
+msgctxt "139475237-0-401"
+msgid "JOG"
+msgstr "ジョギングする"
+
+#: 139475237-0-400
+msgctxt "139475237-0-400"
+msgid "WALK"
+msgstr "歩く"
+
+#: 139475237-0-40
+msgctxt "139475237-0-40"
+msgid "Exasperated"
+msgstr "苛立つ"
+
+#: 139475237-0-396
+msgctxt "139475237-0-396"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-395
+msgctxt "139475237-0-395"
+msgid "Idle3"
+msgstr "たたずむ3"
+
+#: 139475237-0-392
+msgctxt "139475237-0-392"
+msgid "JOG PREVIEW"
+msgstr "ジョギングする(プレビュー)"
+
+#: 139475237-0-391
+msgctxt "139475237-0-391"
+msgid "Run"
+msgstr "走る"
+
+#: 139475237-0-390
+msgctxt "139475237-0-390"
+msgid "Jester Idle 4"
+msgstr "たたずむ道化師4"
+
+#: 139475237-0-378
+msgctxt "139475237-0-378"
+msgid "WALK PREVIEW"
+msgstr "歩く(プレビュー)"
+
+#: 139475237-0-377
+msgctxt "139475237-0-377"
+msgid "Yes"
+msgstr "賛成する"
+
+#: 139475237-0-36
+msgctxt "139475237-0-36"
+msgid "Cuckoo"
+msgstr "カッコー"
+
+#: 139475237-0-335
+msgctxt "139475237-0-335"
+msgid "BDAY CAKE TEMP"
+msgstr "BDAY CAKE TEMP"
+
+#: 139475237-0-304
+msgctxt "139475237-0-304"
+msgid "Dance Dark Elf"
+msgstr "ダークエルフのダンス"
+
+#: 3427285-0-25
+msgctxt "3427285-0-25"
+msgid "IDLE:"
+msgstr "IDLE:"
+
+#: 139475237-0-240
+msgctxt "139475237-0-240"
+msgid "Cry"
+msgstr "泣く"
+
+#: 139475237-0-187
+msgctxt "139475237-0-187"
+msgid "Surrender"
+msgstr "降参する"
+
+#: 139475237-0-179
+msgctxt "139475237-0-179"
+msgid "Doom"
+msgstr "破滅する"
+
+#: 139475237-0-169
+msgctxt "139475237-0-169"
+msgid "Kowtow"
+msgstr "叩頭する"
+
+#: 139475237-0-159
+msgctxt "139475237-0-159"
+msgid "Wall lean (back)"
+msgstr "もたれる"
+
+#: 139475237-0-137
+msgctxt "139475237-0-137"
+msgid "[Crafting] Armor"
+msgstr "[クラフト] 防具"
+
+#: 139475237-0-136
+msgctxt "139475237-0-136"
+msgid "Hammer crate"
+msgstr "箱を叩き割る"
+
+#: 139475237-0-127
+msgctxt "139475237-0-127"
+msgid "Shield eyes"
+msgstr "目を塞ぐ"
+
+#: 139475237-0-119
+msgctxt "139475237-0-119"
+msgid "Ritual"
+msgstr "儀式を行う"
+
+#: 139475237-0-1
+msgctxt "139475237-0-1"
+msgid "Set fire with torch"
+msgstr "たいまつで火をつける"

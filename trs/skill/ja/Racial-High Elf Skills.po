@@ -1,0 +1,137 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-45276
+msgctxt "132143172-0-45276"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr "呪文ダメージを<<1>>上昇させる。"
+
+#: 198758357-0-45276
+msgctxt "198758357-0-45276"
+msgid "Elemental Talent"
+msgstr "属性の才気"
+
+#: 132143172-0-45275
+msgctxt "132143172-0-45275"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr "呪文ダメージを<<1>>上昇させる。"
+
+#: 198758357-0-45275
+msgctxt "198758357-0-45275"
+msgid "Elemental Talent"
+msgstr "属性の才気"
+
+#: 132143172-0-45274
+msgctxt "132143172-0-45274"
+msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds."
+"\n"
+"\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
+msgstr "クラスアビリティを発動した時、マジカかスタミナの低い方を<<1>>回復する。この効果は|cffffff6|r秒ごとに発動する。\\r"
+"\n\\r"
+"\nチャネルか詠唱時間のあるアビリティに使用した場合、被ダメージが<<2>>低下する。"
+
+#: 198758357-0-45274
+msgctxt "198758357-0-45274"
+msgid "Spell Recharge"
+msgstr "呪文の再チャージ"
+
+#: 132143172-0-45273
+msgctxt "132143172-0-45273"
+msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds."
+"\n"
+"\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
+msgstr "クラスアビリティを発動した時、マジカかスタミナの低い方を<<1>>回復する。この効果は|cffffff6|r秒ごとに発動する。\\r"
+"\n\\r"
+"\nチャネルか詠唱時間のあるアビリティに使用した場合、被ダメージが<<2>>低下する。"
+
+#: 198758357-0-45273
+msgctxt "198758357-0-45273"
+msgid "Spell Recharge"
+msgstr "呪文の再チャージ"
+
+#: 132143172-0-35998
+msgctxt "132143172-0-35998"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr "呪文ダメージを<<1>>上昇させる。"
+
+#: 198758357-0-35998
+msgctxt "198758357-0-35998"
+msgid "Elemental Talent"
+msgstr "属性の才気"
+
+#: 132143172-0-35993
+msgctxt "132143172-0-35993"
+msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds."
+"\n"
+"\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
+msgstr "クラスアビリティを発動した時、マジカかスタミナの低い方を<<1>>回復する。この効果は|cffffff6|r秒ごとに発動する。\\r"
+"\n\\r"
+"\nチャネルか詠唱時間のあるアビリティに使用した場合、被ダメージが<<2>>低下する。"
+
+#: 198758357-0-35993
+msgctxt "198758357-0-35993"
+msgid "Spell Recharge"
+msgstr "呪文の再チャージ"
+
+#: 132143172-0-35965
+msgctxt "132143172-0-35965"
+msgid "Increases your experience gain with the Destruction Staff skill line by |cffffff15|r%."
+"\n"
+"\nIncreases your experience gained by <<1>>."
+msgstr "攻撃の杖スキルラインの経験値獲得量が|cffffff15|r%増加する。\\r"
+"\n\\r"
+"\n獲得する経験値が<<1>>増加する。"
+
+#: 198758357-0-35965
+msgctxt "198758357-0-35965"
+msgid "Highborn"
+msgstr "ハイボーン"
+
+#: 132143172-0-117970
+msgctxt "132143172-0-117970"
+msgid "Increases your Max Magicka by <<1>>."
+msgstr "最大マジカが<<1>>上昇する。"
+
+#: 198758357-0-117970
+msgctxt "198758357-0-117970"
+msgid "Syrabane's Boon"
+msgstr "シラベインの恩恵"
+
+#: 132143172-0-117969
+msgctxt "132143172-0-117969"
+msgid "Increases your Max Magicka by <<1>>."
+msgstr "最大マジカが<<1>>上昇する。"
+
+#: 198758357-0-117969
+msgctxt "198758357-0-117969"
+msgid "Syrabane's Boon"
+msgstr "シラベインの恩恵"
+
+#: 132143172-0-117968
+msgctxt "132143172-0-117968"
+msgid "Increases your Max Magicka by <<1>>."
+msgstr "最大マジカが<<1>>上昇する。"
+
+#: 198758357-0-117968
+msgctxt "198758357-0-117968"
+msgid "Syrabane's Boon"
+msgstr "シラベインの恩恵"

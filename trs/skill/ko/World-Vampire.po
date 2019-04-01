@@ -1,0 +1,229 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-46045
+msgctxt "132143172-0-46045"
+msgid "After feeding, your target is set Off Balance for <<1>> and stunned for <<2>>."
+msgstr "피를 빤 후, 그 대상은 <<1>> 동안 균형을 잃고 <<2>>동안 기절합니다."
+
+#: 198758357-0-46045
+msgctxt "198758357-0-46045"
+msgid "Savage Feeding"
+msgstr "Savage Feeding"
+
+#: 132143172-0-46041
+msgctxt "132143172-0-46041"
+msgid "Increases your Magicka and Stamina Recovery by |cffffff10|r%."
+msgstr "매지카와 스태미나 재생이 |cffffff10|r% 증가합니다."
+
+#: 198758357-0-46041
+msgctxt "198758357-0-46041"
+msgid "Supernatural Recovery"
+msgstr "Supernatural Recovery"
+
+#: 132143172-0-46040
+msgctxt "132143172-0-46040"
+msgid "Reduces your damage taken by up to |cffffff33|r% based on your missing Health while you are below |cffffff50|r% Health."
+msgstr "체력이 |cffffff30|r% 이하면, 잃어버린 체력에 비례하여 최대 |cffffff50|r% 피해가 감소됩니다."
+
+#: 198758357-0-46040
+msgctxt "198758357-0-46040"
+msgid "Undeath"
+msgstr "Undeath"
+
+#: 132143172-0-42054
+msgctxt "132143172-0-42054"
+msgid "After feeding, your target is set Off Balance for <<1>> and stunned for <<2>>."
+msgstr "피를 빤 후, 그 대상은 균형을 잃고 <<1>>동안 기절합니다."
+
+#: 198758357-0-42054
+msgctxt "198758357-0-42054"
+msgid "Savage Feeding"
+msgstr "Savage Feeding"
+
+#: 132143172-0-38965
+msgctxt "132143172-0-38965"
+msgid "Dissolve into a dark mist, reducing your damage taken by <<1>> and dealing <<2>> to nearby enemies every <<3>> for <<4>>."
+"\n"
+"\nEntering this form removes and grants immunity to all disabling and immobilization effects, but you cannot be healed and your Magicka Recovery is disabled."
+msgstr ""
+
+#: 198758357-0-38965
+msgctxt "198758357-0-38965"
+msgid "Baleful Mist"
+msgstr "Baleful Mist"
+
+#: 132143172-0-38963
+msgctxt "132143172-0-38963"
+msgid "Dissolve into a dark mist, reducing your damage taken by <<1>> and granting you <<2>>, increasing your Movement Speed by <<3>> for <<4>>."
+"\n"
+"\nEntering this form removes and grants immunity to all disabling and immobilization effects, but you cannot be healed and your Magicka Recovery is disabled."
+msgstr ""
+
+#: 198758357-0-38963
+msgctxt "198758357-0-38963"
+msgid "Elusive Mist"
+msgstr "Elusive Mist"
+
+#: 132143172-0-38956
+msgctxt "132143172-0-38956"
+msgid "Consume an enemy's life force, dealing <<1>> and restoring <<2>> of your missing Health every <<3>> for <<4>>. "
+"\n"
+"\nWhen you activate the drain, the enemy is stunned for <<5>>."
+"\n"
+"\nWhen the drain ends you gain <<6>>, increasing your Movement Speed by <<7>> for <<8>>."
+msgstr ""
+
+#: 198758357-0-38956
+msgctxt "198758357-0-38956"
+msgid "Accelerating Drain"
+msgstr "Accelerating Drain"
+
+#: 132143172-0-38949
+msgctxt "132143172-0-38949"
+msgid "Consume an enemy's life force, dealing <<1>>, restoring <<2>> of your missing Health, and generating <<3>> Ultimate every <<4>> for <<5>>. "
+"\n"
+"\nWhen you activate the drain, the enemy is stunned for <<6>>."
+msgstr ""
+
+#: 198758357-0-38949
+msgctxt "198758357-0-38949"
+msgid "Invigorating Drain"
+msgstr "Invigorating Drain"
+
+#: 132143172-0-38932
+msgctxt "132143172-0-38932"
+msgid "Darken the sky with a cloud of bats, dealing <<1>> to nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nWhile the bats swarm around you this ability changes into <<4>>, allowing you to instantly teleport to an enemy and strike them for <<5>>."
+msgstr "하늘을 뒤덮는 박쥐떼로 주변의 적들에게 매 <<2>>마다 <<3>>동안 <<1>>의 피해를 줍니다."
+"\n"
+"\n박쥐떼가 있을 동안 어빌리티가 <<4>>로 바뀝니다, 적에게 순간이동 후 <<5>>의 피해로 타격합니다."
+
+#: 198758357-0-38932
+msgctxt "198758357-0-38932"
+msgid "Clouding Swarm"
+msgstr "Clouding Swarm"
+
+#: 132143172-0-38931
+msgctxt "132143172-0-38931"
+msgid "Darken the sky with a cloud of bats, dealing <<1>> to nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nThe bats heal you for <<4>> Health for each enemy they damage."
+msgstr ""
+
+#: 198758357-0-38931
+msgctxt "198758357-0-38931"
+msgid "Devouring Swarm"
+msgstr "Devouring Swarm"
+
+#: 132143172-0-33096
+msgctxt "132143172-0-33096"
+msgid "Reduces your damage taken by up to |cffffff33|r% based on your missing Health while you are below |cffffff30|r% Health."
+msgstr "체력이 |cffffff30|r% 이하면, 잃어버린 체력에 비례하여 최대 |cffffff33|r% 피해가 감소됩니다."
+
+#: 198758357-0-33096
+msgctxt "198758357-0-33096"
+msgid "Undeath"
+msgstr "Undeath"
+
+#: 132143172-0-33095
+msgctxt "132143172-0-33095"
+msgid "Increases your Magicka and Stamina Recovery by |cffffff5|r%."
+msgstr "|cffffff5|r%의 스태미나와 매지카 회복량이 증가합니다."
+
+#: 198758357-0-33095
+msgctxt "198758357-0-33095"
+msgid "Supernatural Recovery"
+msgstr "Supernatural Recovery"
+
+#: 132143172-0-33093
+msgctxt "132143172-0-33093"
+msgid "Reduces the severity of the Health Recovery determent in Vampirism stages 2 through 4."
+msgstr "뱀파이어 2단계에서 4단계에서 체력 재생 방해의 가혹함을 줄여줍니다."
+
+#: 198758357-0-33093
+msgctxt "198758357-0-33093"
+msgid "Unnatural Resistance"
+msgstr "Unnatural Resistance"
+
+#: 132143172-0-33091
+msgctxt "132143172-0-33091"
+msgid "Allows you to infect another player with Noxiphilic Sanguivoria once every |cffffff7|r days by returning to the Vampire ritual site. "
+"\n"
+"\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria."
+msgstr "다른 플레이어에게 뱀파이어화 질병을 감염시켜  |cffffff7|r일에 한 번씩 다른 플레이어를 뱀파이어로 만들 수 있습니다, 이 일을 위해 뱀파이어의 의식장소로 돌아가야 합니다."
+"\n"
+"\n플레이어가 이미 늑대인간화중이면 뱀파이어화 질병은 감염되지 않습니다."
+
+#: 198758357-0-33091
+msgctxt "198758357-0-33091"
+msgid "Blood Ritual"
+msgstr "Blood Ritual"
+
+#: 132143172-0-33090
+msgctxt "132143172-0-33090"
+msgid "Ignore the Movement Speed penalty while in Crouch."
+"\n"
+"\nDecreases the time it takes to Crouch by <<1>> during the night."
+msgstr "은신의 이동 속도 패널티를 무시합니다."
+"\n"
+"\n밤동안에 은신에 걸리는 시간이 <<1>>만큼 감소합니다."
+
+#: 198758357-0-33090
+msgctxt "198758357-0-33090"
+msgid "Dark Stalker"
+msgstr "Dark Stalker"
+
+#: 132143172-0-32986
+msgctxt "132143172-0-32986"
+msgid "Dissolve into a dark mist, reducing your damage taken by <<1>> for <<2>>."
+"\n"
+"\nEntering this form removes and grants immunity to all disabling and immobilization effects, but you cannot be healed and your Magicka Recovery is disabled."
+msgstr ""
+
+#: 198758357-0-32986
+msgctxt "198758357-0-32986"
+msgid "Mist Form"
+msgstr "Mist Form"
+
+#: 132143172-0-32893
+msgctxt "132143172-0-32893"
+msgid "Consume an enemy's life force, dealing <<1>> and restoring <<2>> of your missing Health every <<3>> for <<4>>. "
+"\n"
+"\nWhen you activate the drain, the enemy is stunned for <<5>>."
+msgstr ""
+
+#: 198758357-0-32893
+msgctxt "198758357-0-32893"
+msgid "Drain Essence"
+msgstr "Drain Essence"
+
+#: 132143172-0-32624
+msgctxt "132143172-0-32624"
+msgid "Darken the sky with a cloud of bats, dealing <<1>> to nearby enemies every <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-32624
+msgctxt "198758357-0-32624"
+msgid "Bat Swarm"
+msgstr "Bat Swarm"

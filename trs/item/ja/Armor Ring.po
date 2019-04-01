@@ -1,0 +1,5526 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 242841733-0-99838
+msgctxt "242841733-0-99838"
+msgid "Thunderbug's Ring"
+msgstr "サンダーバグの指輪"
+
+#: 242841733-0-99647
+msgctxt "242841733-0-99647"
+msgid "Spinner's Ring"
+msgstr "紡ぎ手の指輪"
+
+#: 242841733-0-7678
+msgctxt "242841733-0-7678"
+msgid "Rigurt's Robust Ring"
+msgstr "リガートの頑丈な指輪"
+
+#: 228378404-0-7668
+msgctxt "228378404-0-7668"
+msgid "This ring was awarded for being a friend to Haraldar and the mead makers of Voljar's Meadery in their time of troubles."
+msgstr "この指輪はハラルダールやヴォルジャー醸造所の作り手たちと困難を乗り越え、友人になった印である。"
+
+#: 242841733-0-7668
+msgctxt "242841733-0-7668"
+msgid "Voljar Meadery Seal"
+msgstr "ヴォルジャー醸造所の封印"
+
+#: 228378404-0-7630
+msgctxt "228378404-0-7630"
+msgid "This simple loop is worn from where it was repeatedly twisted around tired, grieving fingers."
+msgstr "このシンプルな輪は、繰り返し翻弄され疲れ切った嘆きの指に装着されていたものである。"
+
+#: 242841733-0-7630
+msgctxt "242841733-0-7630"
+msgid "Mourner's Ring"
+msgstr "哀悼者の指輪"
+
+#: 228378404-0-7601
+msgctxt "228378404-0-7601"
+msgid "The runes etched into this simple loop are almost too small to see. The steadiest of hands enchanted this item."
+msgstr "このシンプルな輪に刻み込まれたルーンは、小さすぎてほとんど見えない。装着者はこのアイテムに付呪される。"
+
+#: 242841733-0-7601
+msgctxt "242841733-0-7601"
+msgid "Micro-Etched Ring"
+msgstr "微細な彫刻の指輪"
+
+#: 242841733-0-7525
+msgctxt "242841733-0-7525"
+msgid "Zariya's Sorrow"
+msgstr "ザリヤの悲しみ"
+
+#: 242841733-0-7417
+msgctxt "242841733-0-7417"
+msgid "Guarblood Ring"
+msgstr "グアルブラッドの指輪"
+
+#: 242841733-0-74108
+msgctxt "242841733-0-74108"
+msgid "Ring of Fury"
+msgstr "激昂の指輪"
+
+#: 242841733-0-7345
+msgctxt "242841733-0-7345"
+msgid "Gloo's Primer"
+msgstr "グルーの入門編"
+
+#: 228378404-0-7332
+msgctxt "228378404-0-7332"
+msgid "For recovering House Hlaalu's cargo and manifest, Caravan Master Girano rewarded you with this ring."
+msgstr "フラール家の貨物と伝票を取り戻した礼として、キャラバンマスター・ジラーノがこの指輪を与えた。"
+
+#: 242841733-0-7332
+msgctxt "242841733-0-7332"
+msgid "Caravan Master's Ring"
+msgstr "キャラバンマスターの指輪"
+
+#: 242841733-0-73153
+msgctxt "242841733-0-73153"
+msgid "Ebon Ring"
+msgstr "黒檀の指輪"
+
+#: 242841733-0-7300
+msgctxt "242841733-0-7300"
+msgid "Darkstride Silverhoof Loop"
+msgstr "闇歩みのシルバーフーフのループ"
+
+#: 242841733-0-72983
+msgctxt "242841733-0-72983"
+msgid "Ring of Syvarra's Scales"
+msgstr "シヴァラの鱗の指輪"
+
+#: 242841733-0-7297
+msgctxt "242841733-0-7297"
+msgid "High King's Signet"
+msgstr "上級王の印章"
+
+#: 242841733-0-72911
+msgctxt "242841733-0-72911"
+msgid "Ring of Bahraha's Curse"
+msgstr "バーラハの呪いの指輪"
+
+#: 242841733-0-61012
+msgctxt "242841733-0-61012"
+msgid "Thespian's Ring"
+msgstr "戯曲の指輪"
+
+#: 228378404-0-61011
+msgctxt "228378404-0-61011"
+msgid "Once worn by a treasure-hunter of Alik'r. Found amidst a pile of artifacts in an Elsweyr Troll fen."
+msgstr "トレジャーハンターのアリクルがかつて身に着けていたバンド。エルスウェアのトロールの沼地にあるアーティファクトの山から見つけた。"
+
+#: 242841733-0-61011
+msgctxt "242841733-0-61011"
+msgid "Artifact-Hunter's Band"
+msgstr "アーティファクトハンターのバンド"
+
+#: 228378404-0-61009
+msgctxt "228378404-0-61009"
+msgid "Aelif purchased this at a little shop in Dune, on the border of Elsweyr, for the price of a man's darkest secret."
+msgstr "エリフは、エルスウェアの境にあるデューンの小さな店で、ある男の闇に包まれた秘密と引き替えにこの指輪を手に入れた。"
+
+#: 242841733-0-61009
+msgctxt "242841733-0-61009"
+msgid "Aelif's Shadowband"
+msgstr "エリフのシャドウバンド"
+
+#: 228378404-0-61008
+msgctxt "228378404-0-61008"
+msgid "Worn by the forgemasters of the Fighters Guild as they work superheated metals at the Earth Forge."
+msgstr "アースフォージで加熱した金属を扱うとき、戦士ギルドの鍛冶頭が身に着けていた指輪。"
+
+#: 242841733-0-61008
+msgctxt "242841733-0-61008"
+msgid "Forgemaster's Band"
+msgstr "鍛冶頭のバンド"
+
+#: 228378404-0-61007
+msgctxt "228378404-0-61007"
+msgid "A simple band made from Dwarven metal, it bears incomprehensible runes in the Dwemeris tongue."
+msgstr "ドワーフの金属から作られたシンプルな手作りの指輪。ドゥーメリスの方言で難解なルーン文字が刻まれている。"
+
+#: 242841733-0-61007
+msgctxt "242841733-0-61007"
+msgid "Dwemerdark Signet"
+msgstr "ドゥエマーダークの印章"
+
+#: 242841733-0-59941
+msgctxt "242841733-0-59941"
+msgid "Dominion's Band"
+msgstr "ドミニオンのバンド"
+
+#: 242841733-0-54920
+msgctxt "242841733-0-54920"
+msgid "Ring of the Two-Fanged Snake"
+msgstr "双牙蛇の指輪"
+
+#: 228378404-0-54916
+msgctxt "228378404-0-54916"
+msgid "This ring was found in the ancient temple of the Scaled Court, Sanctum Ophidia."
+msgstr "この指輪はスケールドコートの古代の聖堂、聖域オフィディアで発見された。"
+
+#: 242841733-0-54916
+msgctxt "242841733-0-54916"
+msgid "Ophidian Ring of Energy"
+msgstr "オフィディアの元気の指輪"
+
+#: 228378404-0-54915
+msgctxt "228378404-0-54915"
+msgid "This ring was found in the ancient temple of the Scaled Court, Sanctum Ophidia."
+msgstr "この指輪はスケールドコートの古代の聖堂、聖域オフィディアで発見された。"
+
+#: 242841733-0-54915
+msgctxt "242841733-0-54915"
+msgid "Ophidian Ring of Spirit"
+msgstr "オフィディアの霊魂の指輪"
+
+#: 228378404-0-54905
+msgctxt "228378404-0-54905"
+msgid "This ring was once worn by the Firstmages of the Aetherian Archive."
+msgstr "この指輪はかつてエセリアルの保管庫の魔術師がつけていたものだ。"
+
+#: 242841733-0-54905
+msgctxt "242841733-0-54905"
+msgid "Aether Ring of Mending"
+msgstr "エセルの修復の指輪"
+
+#: 228378404-0-54904
+msgctxt "228378404-0-54904"
+msgid "This ring was once worn by the Firstmages of the Aetherian Archive."
+msgstr "この指輪はかつてエセリアルの保管庫の魔術師がつけていたものだ。"
+
+#: 242841733-0-54904
+msgctxt "242841733-0-54904"
+msgid "Aether Ring of Restoration"
+msgstr "エセルの回復術の指輪"
+
+#: 228378404-0-54901
+msgctxt "228378404-0-54901"
+msgid "This ring was once worn by the Firstmages of the Aetherian Archive."
+msgstr "この指輪はかつてエセリアルの保管庫の魔術師がつけていたものだ。"
+
+#: 242841733-0-54901
+msgctxt "242841733-0-54901"
+msgid "Aether Ring of Empowerment"
+msgstr "エセルの力を与えし指輪"
+
+#: 228378404-0-54900
+msgctxt "228378404-0-54900"
+msgid "This ring was once worn by the Firstmages of the Aetherian Archive."
+msgstr "この指輪はかつてエセリアルの保管庫の魔術師がつけていたものだ。"
+
+#: 242841733-0-54900
+msgctxt "242841733-0-54900"
+msgid "Energizing Aether Ring"
+msgstr "エセルの活力の指輪"
+
+#: 228378404-0-54888
+msgctxt "228378404-0-54888"
+msgid "This ancient ring was made for decorated Yokudan heavy infantry."
+msgstr "この古代の指輪は勲章を授けられたヨクダの重装歩兵のために作られた。"
+
+#: 242841733-0-54888
+msgctxt "242841733-0-54888"
+msgid "Ring of the Resilient Yokeda"
+msgstr "強靱なヨケダの指輪"
+
+#: 228378404-0-54884
+msgctxt "228378404-0-54884"
+msgid "This ancient ring was made for decorated Yokudan infantry."
+msgstr "この古代の指輪は勲章を授けられたヨクダの歩兵のために作られた。"
+
+#: 242841733-0-54884
+msgctxt "242841733-0-54884"
+msgid "Energizing Ring of the Advancing Yokeda"
+msgstr "前進するヨケダの活力の指輪"
+
+#: 228378404-0-54883
+msgctxt "228378404-0-54883"
+msgid "This ancient ring was made for decorated Yokudan infantry."
+msgstr "この古代の指輪は勲章を授けられたヨクダの歩兵のために作られた。"
+
+#: 242841733-0-54883
+msgctxt "242841733-0-54883"
+msgid "Refreshing Ring of the Advancing Yokeda"
+msgstr "前進するヨケダの回復の指輪"
+
+#: 242841733-0-54516
+msgctxt "242841733-0-54516"
+msgid "Gem of Curses"
+msgstr "呪い石"
+
+#: 242841733-0-45745
+msgctxt "242841733-0-45745"
+msgid "Roreles' Ring of Cyrodiil's Ward"
+msgstr "シロディールの結界のロレレスの指輪"
+
+#: 228378404-0-45733
+msgctxt "228378404-0-45733"
+msgid "This ring feels slick upon one's finger, as if always about to slip off."
+msgstr "この指輪は指の上を滑るような感じがする。まるで今にも抜け落ちそうだ。"
+
+#: 242841733-0-45733
+msgctxt "242841733-0-45733"
+msgid "Serrin Vol's Advantage of Cyrodiil's Light"
+msgstr "シロディールの光あるセリン・ボルの強み"
+
+#: 228378404-0-44996
+msgctxt "228378404-0-44996"
+msgid "The inner edge of this ring bears runes, one for each member of the original Five Companions."
+msgstr "この指輪の内縁がルーンを生み出す。最初の選ばれし5人のそれぞれが1つずつルーンを生み出す。"
+
+#: 242841733-0-44996
+msgctxt "242841733-0-44996"
+msgid "Band of the Companions"
+msgstr "同胞団のバンド"
+
+#: 228378404-0-44995
+msgctxt "228378404-0-44995"
+msgid "After years in the heavily enchanted vaults of Sancre Tor, this ring actively deflects magicka around it."
+msgstr "この指輪は大量の魔法を浴びたサンクレ・トールの金庫に何年も保管されていたため、周囲のマジカを積極的にかわす。"
+
+#: 242841733-0-44995
+msgctxt "242841733-0-44995"
+msgid "Signet of Sancre Tor"
+msgstr "サンクレ・トールの印章"
+
+#: 242841733-0-44906
+msgctxt "242841733-0-44906"
+msgid "Skald's Ring"
+msgstr "スカルドの指輪"
+
+#: 242841733-0-44904
+msgctxt "242841733-0-44904"
+msgid "Ring of Mara"
+msgstr "マーラの指輪"
+
+#: 242841733-0-44733
+msgctxt "242841733-0-44733"
+msgid "Ring of the Ancient One"
+msgstr "古代の指輪"
+
+#: 242841733-0-43038
+msgctxt "242841733-0-43038"
+msgid "Fiord's Ammabani's Pride"
+msgstr "フィヨルドのアンマバニのプライド"
+
+#: 228378404-0-43037
+msgctxt "228378404-0-43037"
+msgid "A ring awarded for defeating the giant mammoth, Mannskadi."
+msgstr "巨大なマンモス、マンスカディを倒したことにより与えられた指輪。"
+
+#: 242841733-0-43037
+msgctxt "242841733-0-43037"
+msgid "Mammoth Band of the Dragon"
+msgstr "ドラゴンのマンモスのバンド"
+
+#: 228378404-0-43027
+msgctxt "228378404-0-43027"
+msgid "A ring awarded for defeating the giant guar, Bittergreen the Wild."
+msgstr "巨大なグアル、ビターグリーン・ワイルドを倒したことにより与えられた指輪。"
+
+#: 242841733-0-43027
+msgctxt "242841733-0-43027"
+msgid "Bittergreen's Scale of Mother's Sorrow"
+msgstr "母の悲しみのビターグリーンのスケール"
+
+#: 228378404-0-43008
+msgctxt "228378404-0-43008"
+msgid "This ring bears the mark of one of high military rank."
+msgstr "この指輪には軍上層の印がつけられている。"
+
+#: 242841733-0-43008
+msgctxt "242841733-0-43008"
+msgid "Commander's Signet of Salvation"
+msgstr "救済の指揮官の印章"
+
+#: 228378404-0-42985
+msgctxt "228378404-0-42985"
+msgid "A ring awarded for defeating the harvester champion, Cynhamoth."
+msgstr "収穫者のチャンピオン、シンハモス打倒により与えられた指輪。"
+
+#: 242841733-0-42985
+msgctxt "242841733-0-42985"
+msgid "Prisoner Cynhamouth's Undulating Band"
+msgstr "囚人シンハモスのうねるバンド"
+
+#: 242841733-0-42977
+msgctxt "242841733-0-42977"
+msgid "Seventh Legion's Conjured Oath-Band"
+msgstr "第七軍団の魔法をかけられた宣誓のバンド"
+
+#: 242841733-0-42971
+msgctxt "242841733-0-42971"
+msgid "Magdelena's Ancient Ring of the Vampire's Cloak"
+msgstr "吸血鬼のクロークのマグデネラの古代の指輪"
+
+#: 228378404-0-42958
+msgctxt "228378404-0-42958"
+msgid "A ring awarded for defeating the bandit, Salazar the Wolf, who transformed into a werewolf."
+msgstr "ウェアウルフに姿を変えることができるサラザールを倒したときに与えられた指輪。"
+
+#: 242841733-0-42958
+msgctxt "242841733-0-42958"
+msgid "Werewolf Hide Wolf's-Head Ring"
+msgstr "ウェアウルフ皮のウルフズヘッドの指輪"
+
+#: 228378404-0-4280
+msgctxt "228378404-0-4280"
+msgid "This ring was given to you for returning Risa's amulet to her mother."
+msgstr "この指輪はリサのアミュレットを母親に届けた礼として与えられた。"
+
+#: 242841733-0-4280
+msgctxt "242841733-0-4280"
+msgid "Ring of Remembrance"
+msgstr "追憶の指輪"
+
+#: 228378404-0-40257
+msgctxt "228378404-0-40257"
+msgid "I won't tell you, I'll show you! That's the essence of storytelling. Show, don't tell. - Sheogorath"
+msgstr "口で伝えるんじゃない、体で示すんだ！ それが物語の肝ってことだ。- シェオゴラス"
+
+#: 242841733-0-40257
+msgctxt "242841733-0-40257"
+msgid "Thespian's Ring"
+msgstr "戯曲の指輪"
+
+#: 228378404-0-40256
+msgctxt "228378404-0-40256"
+msgid "Once worn by a treasure-hunter of Alik'r. Found amidst a pile of artifacts in an Elsweyr Troll fen."
+msgstr "トレジャーハンターのアリクルがかつて身に着けていたバンド。エルスウェアのトロールの沼地にあるアーティファクトの山から見つけた。"
+
+#: 242841733-0-40256
+msgctxt "242841733-0-40256"
+msgid "Artifact-Hunter's Band"
+msgstr "アーティファクトハンターのバンド"
+
+#: 228378404-0-40253
+msgctxt "228378404-0-40253"
+msgid "Aelif purchased this at a little shop in Dune, on the border of Elsweyr, for the price of a man's darkest secret."
+msgstr "エリフは、エルスウェアの境にあるデューンの小さな店で、ある男の闇に包まれた秘密と引き替えにこの指輪を手に入れた。"
+
+#: 242841733-0-40253
+msgctxt "242841733-0-40253"
+msgid "Aelif's Shadowband"
+msgstr "エリフのシャドウバンド"
+
+#: 228378404-0-40252
+msgctxt "228378404-0-40252"
+msgid "Worn by the forgemasters of the Fighters Guild as they work superheated metals at the Earth Forge."
+msgstr "アースフォージで加熱した金属を扱うとき、戦士ギルドの鍛冶頭が身に着けていた指輪。"
+
+#: 242841733-0-40252
+msgctxt "242841733-0-40252"
+msgid "Forgemaster's Band"
+msgstr "鍛冶頭のバンド"
+
+#: 228378404-0-40251
+msgctxt "228378404-0-40251"
+msgid "A simple band made from Dwarven metal, it bears incomprehensible runes in the Dwemeris tongue."
+msgstr "ドワーフの金属から作られたシンプルな手作りの指輪。ドゥーメリスの方言で難解なルーン文字が刻まれている。"
+
+#: 242841733-0-40251
+msgctxt "242841733-0-40251"
+msgid "Dwemerdark Signet"
+msgstr "ドゥエマーダークの印章"
+
+#: 228378404-0-34934
+msgctxt "228378404-0-34934"
+msgid "This ring causes pain in the hand it is worn upon."
+msgstr "この指輪は着用者の手を苦しめる。"
+
+#: 242841733-0-34934
+msgctxt "242841733-0-34934"
+msgid "Naeraizozan's Band of Hist Sap"
+msgstr "ヒストの樹液のナエライゾザンのバンド"
+
+#: 242841733-0-34844
+msgctxt "242841733-0-34844"
+msgid "Ysgramor's Frostmaiden's Tear"
+msgstr "イスグラモルの氷結の召使の涙"
+
+#: 242841733-0-34754
+msgctxt "242841733-0-34754"
+msgid "Dead Man's Ring of Salvation"
+msgstr "救済の死人の指輪"
+
+#: 228378404-0-34577
+msgctxt "228378404-0-34577"
+msgid "For defeating the Dremora leader, Drulshasa in the cave known as Knife Ear Grotto, this ring was awarded."
+msgstr "ドレモラのリーダー、ドルルシャサをナイフイヤー洞窟と呼ばれる洞窟で倒したことにより、この指輪が与えられている。"
+
+#: 242841733-0-34577
+msgctxt "242841733-0-34577"
+msgid "Drulshasa's Dark Band of Mother's Sorrow"
+msgstr "母の悲しみのドルルシャサのダークバンド"
+
+#: 228378404-0-34527
+msgctxt "228378404-0-34527"
+msgid "A ring awarded for defeating the powerful harvester, Marwoleath, in the cave known as the Wailing Maw."
+msgstr "ウェイリング・モーとして知られる洞窟の中で、力のある収穫者マルウォリースを倒したことによって与えられた指輪。"
+
+#: 242841733-0-34527
+msgctxt "242841733-0-34527"
+msgid "Stygian Marwoleath's Torment"
+msgstr "ステュクスのマルウォリースの苦痛"
+
+#: 242841733-0-33289
+msgctxt "242841733-0-33289"
+msgid "Ancient Ring"
+msgstr "古代の指輪"
+
+#: 242841733-0-29943
+msgctxt "242841733-0-29943"
+msgid "Bloodthorn Baelborne Signet"
+msgstr "ブラッドソーンのバエルボーンの印章"
+
+#: 228378404-0-29938
+msgctxt "228378404-0-29938"
+msgid "This ring was allegedly worn by a merchant who was sponsored by Sotha Sil."
+msgstr "この指輪はソーサ・シルに出資していた商人が着用していたとされている。"
+
+#: 242841733-0-29938
+msgctxt "242841733-0-29938"
+msgid "Trader's Signet"
+msgstr "商人の印章"
+
+#: 242841733-0-29516
+msgctxt "242841733-0-29516"
+msgid "Signet of the Warlock"
+msgstr "妖術師の印章"
+
+#: 242841733-0-27275
+msgctxt "242841733-0-27275"
+msgid "Jewel of the Duchess"
+msgstr "女公爵の宝石"
+
+#: 228378404-0-27274
+msgctxt "228378404-0-27274"
+msgid "Emblazoned with the symbol of the ancient Tharn family, and most likely hundreds of years old."
+msgstr "古代サルン一族のシンボルがくっきりと刻まれており、おそらく何百年も経っている。"
+
+#: 242841733-0-27274
+msgctxt "242841733-0-27274"
+msgid "Tharn Family Ring"
+msgstr "サルン一族の指輪"
+
+#: 228378404-0-27273
+msgctxt "228378404-0-27273"
+msgid "Worn by the upper ranks of Mannimarco's followers, this simple ring is stained with necromantic fluids."
+msgstr "マニマルコの上級信徒によって着用されていたこの簡素な指輪には死霊術に使われる液体がこびりついている。"
+
+#: 242841733-0-27273
+msgctxt "242841733-0-27273"
+msgid "Signet of the Worm"
+msgstr "虫の印章"
+
+#: 228378404-0-27271
+msgctxt "228378404-0-27271"
+msgid "Lyris kept this with her for years, as she trained relentlessly with the members of her mercenary company."
+msgstr "リリスは傭兵会社のメンバーと共に容赦のない訓練を受けながらこれを何年も保持していた。"
+
+#: 242841733-0-27271
+msgctxt "242841733-0-27271"
+msgid "Titanborn Family Signet"
+msgstr "ティタンボーン一族の印章"
+
+#: 228378404-0-27269
+msgctxt "228378404-0-27269"
+msgid "A signet ring the Prophet has carried with him since his days in the Moth Priest's library."
+msgstr "預言者が聖蚕の僧侶の蔵書庫にいた頃から身につけていた印章指輪。"
+
+#: 242841733-0-27269
+msgctxt "242841733-0-27269"
+msgid "Prophet's Recollection"
+msgstr "預言者の記憶"
+
+#: 242841733-0-26168
+msgctxt "242841733-0-26168"
+msgid "Band of the Shadow Guard"
+msgstr "シャドウ・ガードのバンド"
+
+#: 242841733-0-1742
+msgctxt "242841733-0-1742"
+msgid "Cathartic Band"
+msgstr "カタルシスのバンド"
+
+#: 242841733-0-16219
+msgctxt "242841733-0-16219"
+msgid "Lost Wedding Band"
+msgstr "失われたウェディングバンド"
+
+#: 242841733-0-15526
+msgctxt "242841733-0-15526"
+msgid "Sapmagic Ring"
+msgstr "搾取魔法の指輪"
+
+#: 242841733-0-147512
+msgctxt "242841733-0-147512"
+msgid "Deadly Ring"
+msgstr "危険な指輪"
+
+#: 242841733-0-139657
+msgctxt "242841733-0-139657"
+msgid "Exemplary Bloodthirsty Ring"
+msgstr "血の渇望の指輪(手本)"
+
+#: 228378404-0-139656
+msgctxt "228378404-0-139656"
+msgid "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Harmony Trait for Rings."
+msgstr "この指輪は宝飾台で研究されることを目的としている。これを研究することで、指輪用に調和の特性を学べる。"
+
+#: 242841733-0-139656
+msgctxt "242841733-0-139656"
+msgid "Exemplary Harmony Ring"
+msgstr "調和の指輪(手本)"
+
+#: 228378404-0-139655
+msgctxt "228378404-0-139655"
+msgid "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Swift Trait for Rings."
+msgstr "この指輪は宝飾台で研究されることを目的としている。これを研究することで、指輪用に迅速の特性を学べる。"
+
+#: 242841733-0-139655
+msgctxt "242841733-0-139655"
+msgid "Exemplary Swift Ring"
+msgstr "迅速の指輪(手本)"
+
+#: 228378404-0-139654
+msgctxt "228378404-0-139654"
+msgid "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Infused Trait for Rings."
+msgstr "この指輪は宝飾台で研究されることを目的としている。これを研究することで、指輪用に注入の特性を学べる。"
+
+#: 242841733-0-139654
+msgctxt "242841733-0-139654"
+msgid "Exemplary Infused Ring"
+msgstr "注入の指輪(手本)"
+
+#: 228378404-0-139653
+msgctxt "228378404-0-139653"
+msgid "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Protective Trait for Rings."
+msgstr "この指輪は宝飾台で研究されることを目的としている。これを研究することで、指輪用に防護の特性を学べる。"
+
+#: 242841733-0-139653
+msgctxt "242841733-0-139653"
+msgid "Exemplary Protective Ring"
+msgstr "防護の指輪(手本)"
+
+#: 228378404-0-139652
+msgctxt "228378404-0-139652"
+msgid "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Triune Trait for Rings."
+msgstr "この指輪は宝飾台で研究されることを目的としている。これを研究することで、指輪用に三位の特性を学べる。"
+
+#: 242841733-0-139652
+msgctxt "242841733-0-139652"
+msgid "Exemplary Triune Ring"
+msgstr "三位の指輪(手本)"
+
+#: 242841733-0-139401
+msgctxt "242841733-0-139401"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-1121
+msgctxt "242841733-0-1121"
+msgid "Dencent Family Heirloom"
+msgstr "デンセント一族の家宝"
+
+#: 242841733-0-112061
+msgctxt "242841733-0-112061"
+msgid "Ring of the Essence Thief"
+msgstr "エキス盗賊の指輪"
+
+#: 242841733-0-10986
+msgctxt "242841733-0-10986"
+msgid "Fascinating Ring"
+msgstr "魅力的な指輪"
+
+#: 242841733-0-109832
+msgctxt "242841733-0-109832"
+msgid "Ring of the Noble Duelist"
+msgstr "高貴なる決闘者の指輪"
+
+#: 242841733-0-10919
+msgctxt "242841733-0-10919"
+msgid "Queensguard Ring"
+msgstr "女王衛兵の指輪"
+
+#: 228378404-0-10915
+msgctxt "228378404-0-10915"
+msgid "The unadorned circle was found on a Do'Krin offering altar."
+msgstr "飾り気のないサークルはド・クリンの供物祭壇から発見された。"
+
+#: 242841733-0-10915
+msgctxt "242841733-0-10915"
+msgid "Ehtayah's Tear"
+msgstr "エータヤハの涙"
+
+#: 242841733-0-109095
+msgctxt "242841733-0-109095"
+msgid "Ring of the Crusader"
+msgstr "聖戦士の指輪"
+
+#: 242841733-0-99465
+msgctxt "242841733-0-99465"
+msgid "Ring of the Order of Diagna"
+msgstr "ダイアグナ騎士団の指輪"
+
+#: 242841733-0-99283
+msgctxt "242841733-0-99283"
+msgid "Sword-Singer's Ring"
+msgstr "ソードシンガーの指輪"
+
+#: 242841733-0-99064
+msgctxt "242841733-0-99064"
+msgid "Ring of the Hatchling's Shell"
+msgstr "幼虫の殻の指輪"
+
+#: 242841733-0-98882
+msgctxt "242841733-0-98882"
+msgid "Swamp Raider's Ring"
+msgstr "沼の襲撃者の指輪"
+
+#: 242841733-0-98691
+msgctxt "242841733-0-98691"
+msgid "Ring of Hist Sap"
+msgstr "ヒストの樹液の指輪"
+
+#: 242841733-0-98509
+msgctxt "242841733-0-98509"
+msgid "Ring of the Vampire's Cloak"
+msgstr "吸血鬼のクロークの指輪"
+
+#: 242841733-0-98327
+msgctxt "242841733-0-98327"
+msgid "Beekeeper's Ring"
+msgstr "養蜂家の指輪"
+
+#: 242841733-0-98145
+msgctxt "242841733-0-98145"
+msgid "Ring of the Ranger"
+msgstr "レンジャーの指輪"
+
+#: 242841733-0-97954
+msgctxt "242841733-0-97954"
+msgid "Dreamer's Ring"
+msgstr "夢見人の指輪"
+
+#: 242841733-0-97772
+msgctxt "242841733-0-97772"
+msgid "Ring of Night Terror"
+msgstr "夜の恐怖の指輪"
+
+#: 242841733-0-97590
+msgctxt "242841733-0-97590"
+msgid "Ring of the Green Pact"
+msgstr "グリーンパクトの指輪"
+
+#: 242841733-0-97408
+msgctxt "242841733-0-97408"
+msgid "Ring of the Wilderqueen"
+msgstr "さまよえる女王の指輪"
+
+#: 242841733-0-97217
+msgctxt "242841733-0-97217"
+msgid "Ring of a Mother's Sorrow"
+msgstr "母の悲しみの指輪"
+
+#: 242841733-0-97035
+msgctxt "242841733-0-97035"
+msgid "Plague Doctor's Ring"
+msgstr "疫病医の指輪"
+
+#: 242841733-0-96970
+msgctxt "242841733-0-96970"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-96769
+msgctxt "242841733-0-96769"
+msgid "Ring of the Wyrd Tree"
+msgstr "ウィルドの樹の指輪"
+
+#: 242841733-0-96587
+msgctxt "242841733-0-96587"
+msgid "Shalk's Ring"
+msgstr "ショークの指輪"
+
+#: 242841733-0-96396
+msgctxt "242841733-0-96396"
+msgid "Bloodthorn Ring"
+msgstr "ブラッドソーンの指輪"
+
+#: 242841733-0-96201
+msgctxt "242841733-0-96201"
+msgid "Ring of the Trainee"
+msgstr "訓練生の指輪"
+
+#: 242841733-0-96010
+msgctxt "242841733-0-96010"
+msgid "Ring of the Trainee"
+msgstr "訓練生の指輪"
+
+#: 242841733-0-95828
+msgctxt "242841733-0-95828"
+msgid "Ring of the Trainee"
+msgstr "訓練生の指輪"
+
+#: 242841733-0-95643
+msgctxt "242841733-0-95643"
+msgid "Ring of the Air"
+msgstr "大気の指輪"
+
+#: 242841733-0-95452
+msgctxt "242841733-0-95452"
+msgid "Ring of Martial Knowledge"
+msgstr "武術の知識の指輪"
+
+#: 242841733-0-95270
+msgctxt "242841733-0-95270"
+msgid "Ring of the Fire"
+msgstr "炎の指輪"
+
+#: 242841733-0-94254
+msgctxt "242841733-0-94254"
+msgid "Ring of the Veiled Heritance"
+msgstr "ベールの継承者の指輪"
+
+#: 242841733-0-93903
+msgctxt "242841733-0-93903"
+msgid "Ring of the Sentry"
+msgstr "哨戒兵の指輪"
+
+#: 242841733-0-93721
+msgctxt "242841733-0-93721"
+msgid "Ring of Cyrodiil's Ward"
+msgstr "シロディールの結界の指輪"
+
+#: 242841733-0-93539
+msgctxt "242841733-0-93539"
+msgid "Ring of Kyne's Kiss"
+msgstr "カイネの口づけし指輪"
+
+#: 242841733-0-93357
+msgctxt "242841733-0-93357"
+msgid "Ring of the Morag Tong"
+msgstr "モラグ・トングの指輪"
+
+#: 242841733-0-93175
+msgctxt "242841733-0-93175"
+msgid "Ring of the Hawk's Eye"
+msgstr "ホークアイの指輪"
+
+#: 242841733-0-92993
+msgctxt "242841733-0-92993"
+msgid "Ring of the Crusader"
+msgstr "聖戦士の指輪"
+
+#: 242841733-0-92811
+msgctxt "242841733-0-92811"
+msgid "Ring of the Shadow Walker"
+msgstr "影の歩き手の指輪"
+
+#: 242841733-0-92629
+msgctxt "242841733-0-92629"
+msgid "Ring of the Valiant"
+msgstr "バリアントの指輪"
+
+#: 242841733-0-92447
+msgctxt "242841733-0-92447"
+msgid "Barkskin Ring"
+msgstr "バークスキンの指輪"
+
+#: 242841733-0-92265
+msgctxt "242841733-0-92265"
+msgid "Ring of the Twin Sisters"
+msgstr "双子姉妹の指輪"
+
+#: 242841733-0-92146
+msgctxt "242841733-0-92146"
+msgid "Ring of Vengeance Leech"
+msgstr "復讐の吸血の指輪"
+
+#: 242841733-0-92135
+msgctxt "242841733-0-92135"
+msgid "Eagle-Eyed Ring"
+msgstr "鷲の目の指輪"
+
+#: 242841733-0-91944
+msgctxt "242841733-0-91944"
+msgid "Ring of the Swift"
+msgstr "スイフトの指輪"
+
+#: 242841733-0-91753
+msgctxt "242841733-0-91753"
+msgid "Ring of Cyrodiil's Light"
+msgstr "シロディールの光ある指輪"
+
+#: 242841733-0-91562
+msgctxt "242841733-0-91562"
+msgid "Ring of the Arch-Mage"
+msgstr "アークメイジの指輪"
+
+#: 242841733-0-91371
+msgctxt "242841733-0-91371"
+msgid "Ring of Alteration Mastery"
+msgstr "変性術師の指輪"
+
+#: 242841733-0-91180
+msgctxt "242841733-0-91180"
+msgid "Ring of the Noble Duelist"
+msgstr "高貴なる決闘者の指輪"
+
+#: 242841733-0-90989
+msgctxt "242841733-0-90989"
+msgid "Ring of Almalexia's Mercy"
+msgstr "アルマレクシアの慈愛の指輪"
+
+#: 242841733-0-90798
+msgctxt "242841733-0-90798"
+msgid "Curse-Eating Ring"
+msgstr "呪いを喰らう者の指輪"
+
+#: 242841733-0-90607
+msgctxt "242841733-0-90607"
+msgid "Ring of the Onslaught"
+msgstr "猛攻の指輪"
+
+#: 242841733-0-90416
+msgctxt "242841733-0-90416"
+msgid "Ring of Prayer"
+msgstr "祈りの指輪"
+
+#: 242841733-0-90225
+msgctxt "242841733-0-90225"
+msgid "Ring of the Desert Rose"
+msgstr "砂漠バラの指輪"
+
+#: 242841733-0-90106
+msgctxt "242841733-0-90106"
+msgid "Ring of Ancient Grace"
+msgstr "古代の恩寵の指輪"
+
+#: 242841733-0-89987
+msgctxt "242841733-0-89987"
+msgid "Ring of Imperial Wrath"
+msgstr "帝国の憤怒の指輪"
+
+#: 242841733-0-89805
+msgctxt "242841733-0-89805"
+msgid "Ring of Elf Bane"
+msgstr "エルフ殺しの指輪"
+
+#: 242841733-0-89623
+msgctxt "242841733-0-89623"
+msgid "Ring of the Sergeant"
+msgstr "軍曹の指輪"
+
+#: 242841733-0-89441
+msgctxt "242841733-0-89441"
+msgid "Ravaging Ring"
+msgstr "破壊の指輪"
+
+#: 242841733-0-89259
+msgctxt "242841733-0-89259"
+msgid "Afflicted Ring"
+msgstr "感染者の指輪"
+
+#: 242841733-0-89077
+msgctxt "242841733-0-89077"
+msgid "Ring of Truth"
+msgstr "真実の指輪"
+
+#: 242841733-0-88895
+msgctxt "242841733-0-88895"
+msgid "Ring of the Juggernaut"
+msgstr "ジャガーノートの指輪"
+
+#: 242841733-0-88713
+msgctxt "242841733-0-88713"
+msgid "Ring of Beckoning Steel"
+msgstr "誘引の鋼の指輪"
+
+#: 242841733-0-88531
+msgctxt "242841733-0-88531"
+msgid "Ring of the Heartland"
+msgstr "ハートランドの指輪"
+
+#: 242841733-0-88349
+msgctxt "242841733-0-88349"
+msgid "Ring of Cyrodiil's Crest"
+msgstr "シロディールの頂飾の指輪"
+
+#: 242841733-0-88167
+msgctxt "242841733-0-88167"
+msgid "Ring of Durok's Bane"
+msgstr "デュロクの破滅なる指輪"
+
+#: 242841733-0-87985
+msgctxt "242841733-0-87985"
+msgid "Alessian Ring"
+msgstr "アレッシアの指輪"
+
+#: 242841733-0-87866
+msgctxt "242841733-0-87866"
+msgid "Deadly Ring"
+msgstr "危険な指輪"
+
+#: 242841733-0-87747
+msgctxt "242841733-0-87747"
+msgid "Ring of the Potentates"
+msgstr "最高顧問の指輪"
+
+#: 242841733-0-87498
+msgctxt "242841733-0-87498"
+msgid "Ring of the Archer's Mind"
+msgstr "射手の精神の指輪"
+
+#: 242841733-0-87307
+msgctxt "242841733-0-87307"
+msgid "Ring of Destruction Mastery"
+msgstr "熟練なる破壊術の指輪"
+
+#: 242841733-0-87116
+msgctxt "242841733-0-87116"
+msgid "Ring of the Healer"
+msgstr "治癒師の指輪"
+
+#: 242841733-0-86934
+msgctxt "242841733-0-86934"
+msgid "Ring of the Footman"
+msgstr "歩兵の指輪"
+
+#: 242841733-0-86743
+msgctxt "242841733-0-86743"
+msgid "Ring of Necropotence"
+msgstr "ネクロポーテンスの指輪"
+
+#: 242841733-0-86561
+msgctxt "242841733-0-86561"
+msgid "Ring of the Storm Knight"
+msgstr "ストームナイトの指輪"
+
+#: 242841733-0-86379
+msgctxt "242841733-0-86379"
+msgid "Ice Furnace Ring"
+msgstr "氷炉の指輪"
+
+#: 242841733-0-86188
+msgctxt "242841733-0-86188"
+msgid "Ring of the Withered Hand"
+msgstr "ウィサード・ハンドの指輪"
+
+#: 242841733-0-86006
+msgctxt "242841733-0-86006"
+msgid "Werewolf Hide Ring"
+msgstr "ウェアウルフ皮の指輪"
+
+#: 242841733-0-85824
+msgctxt "242841733-0-85824"
+msgid "Darkstride Ring"
+msgstr "闇歩みの指輪"
+
+#: 242841733-0-85633
+msgctxt "242841733-0-85633"
+msgid "Ring of the Warlock"
+msgstr "妖術師の指輪"
+
+#: 242841733-0-85451
+msgctxt "242841733-0-85451"
+msgid "Ring of Salvation"
+msgstr "救済の指輪"
+
+#: 242841733-0-85269
+msgctxt "242841733-0-85269"
+msgid "Ring of Nikulas"
+msgstr "ニクラスの指輪"
+
+#: 242841733-0-85078
+msgctxt "242841733-0-85078"
+msgid "Ring of Syrabane"
+msgstr "シラベインの指輪"
+
+#: 242841733-0-84896
+msgctxt "242841733-0-84896"
+msgid "Ring of the Red Mountain"
+msgstr "レッドマウンテンの指輪"
+
+#: 242841733-0-84705
+msgctxt "242841733-0-84705"
+msgid "Ring of the Sun"
+msgstr "太陽の指輪"
+
+#: 242841733-0-84523
+msgctxt "242841733-0-84523"
+msgid "Ring of the Dragon"
+msgstr "ドラゴンの指輪"
+
+#: 242841733-0-83157
+msgctxt "242841733-0-83157"
+msgid "Widowmaker Ring"
+msgstr "ウィドウメーカーの指輪"
+
+#: 242841733-0-82966
+msgctxt "242841733-0-82966"
+msgid "Gossamer Ring"
+msgstr "流れ糸の指輪"
+
+#: 242841733-0-82784
+msgctxt "242841733-0-82784"
+msgid "Ring of Mephala's Hand"
+msgstr "メファーラの手の指輪"
+
+#: 242841733-0-82602
+msgctxt "242841733-0-82602"
+msgid "Heem-Jas' Ring"
+msgstr "ヘーム・ジャスの指輪"
+
+#: 242841733-0-82411
+msgctxt "242841733-0-82411"
+msgid "Amber Plasm Ring"
+msgstr "琥珀のプラズムの指輪"
+
+#: 242841733-0-82229
+msgctxt "242841733-0-82229"
+msgid "Ring Of Mazzatun"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-81171
+msgctxt "242841733-0-81171"
+msgid "Senche's Ring"
+msgstr "センチの指輪"
+
+#: 242841733-0-81170
+msgctxt "242841733-0-81170"
+msgid "Ring Of The Dreugh King Slayer"
+msgstr "ドゥルー王殺しの指輪"
+
+#: 242841733-0-81169
+msgctxt "242841733-0-81169"
+msgid "Elegant Ring"
+msgstr "優雅な指輪"
+
+#: 242841733-0-81168
+msgctxt "242841733-0-81168"
+msgid "Ring Of The Viper"
+msgstr "毒蛇の指輪"
+
+#: 242841733-0-81167
+msgctxt "242841733-0-81167"
+msgid "Ring Of The Knightmare"
+msgstr "ナイト・メアの指輪"
+
+#: 242841733-0-81166
+msgctxt "242841733-0-81166"
+msgid "Ring Of The Infallible Aether"
+msgstr "完全なるエセルの指輪"
+
+#: 242841733-0-81165
+msgctxt "242841733-0-81165"
+msgid "Ring Of The Vicious Ophidian"
+msgstr "残忍なオフィディアの指輪"
+
+#: 242841733-0-81164
+msgctxt "242841733-0-81164"
+msgid "Ring Of The Eternal Yokeda"
+msgstr "永遠なるヨケダの指輪"
+
+#: 242841733-0-79190
+msgctxt "242841733-0-79190"
+msgid "Ring of Imperial Physique"
+msgstr "インペリアルフィジカルの指輪"
+
+#: 242841733-0-79188
+msgctxt "242841733-0-79188"
+msgid "Ring of Imperial Physique"
+msgstr "インペリアルフィジカルの指輪"
+
+#: 242841733-0-79186
+msgctxt "242841733-0-79186"
+msgid "Ring of Imperial Physique"
+msgstr "インペリアルフィジカルの指輪"
+
+#: 242841733-0-78904
+msgctxt "242841733-0-78904"
+msgid "Ring of the Harbinger"
+msgstr "導き手の指輪"
+
+#: 242841733-0-78902
+msgctxt "242841733-0-78902"
+msgid "Ring of the Harbinger"
+msgstr "導き手の指輪"
+
+#: 242841733-0-78900
+msgctxt "242841733-0-78900"
+msgid "Ring of the Harbinger"
+msgstr "導き手の指輪"
+
+#: 242841733-0-78898
+msgctxt "242841733-0-78898"
+msgid "The Vicecanon's Ring"
+msgstr "バイスカノンの指輪"
+
+#: 242841733-0-78896
+msgctxt "242841733-0-78896"
+msgid "The Vicecanon's Ring"
+msgstr "バイスカノンの指輪"
+
+#: 242841733-0-78894
+msgctxt "242841733-0-78894"
+msgid "The Vicecanon's Ring"
+msgstr "バイスカノンの指輪"
+
+#: 242841733-0-78892
+msgctxt "242841733-0-78892"
+msgid "Galerion's Ring"
+msgstr "ガレリオンの指輪"
+
+#: 242841733-0-78890
+msgctxt "242841733-0-78890"
+msgid "Galerion's Ring"
+msgstr "ガレリオンの指輪"
+
+#: 242841733-0-78888
+msgctxt "242841733-0-78888"
+msgid "Galerion's Ring"
+msgstr "ガレリオンの指輪"
+
+#: 242841733-0-77524
+msgctxt "242841733-0-77524"
+msgid "Sithis' Ring"
+msgstr "シシスの指輪"
+
+#: 242841733-0-77522
+msgctxt "242841733-0-77522"
+msgid "Sithis' Ring"
+msgstr "シシスの指輪"
+
+#: 242841733-0-77520
+msgctxt "242841733-0-77520"
+msgid "Sithis' Ring"
+msgstr "シシスの指輪"
+
+#: 242841733-0-77518
+msgctxt "242841733-0-77518"
+msgid "Ring of Flanking"
+msgstr "奇襲攻撃の指輪"
+
+#: 242841733-0-77516
+msgctxt "242841733-0-77516"
+msgid "Ring of Morihaus"
+msgstr "モリハウスの指輪"
+
+#: 228378404-0-7678
+msgctxt "228378404-0-7678"
+msgid "Rigurt the Brash, Master of Ceremonies for the Konunleikar, bestowed this ring for aiding with the party planning in Windhelm."
+msgstr "コヌンレイカーの儀式のマスターである向こう見ずなリガートが、ウィンドヘルムでのパーティーの計画の手助けをしたことに対して、この指輪を授けてくれた。"
+
+#: 242841733-0-75223
+msgctxt "242841733-0-75223"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-7515
+msgctxt "242841733-0-7515"
+msgid "Wildur's Oath-Ring"
+msgstr "ウィルダルの誓いの指輪"
+
+#: 242841733-0-75061
+msgctxt "242841733-0-75061"
+msgid "Ring of the Shadow Dancer"
+msgstr "シャドウダンサーの指輪"
+
+#: 242841733-0-74891
+msgctxt "242841733-0-74891"
+msgid "Darkstride Ring"
+msgstr "闇歩みの指輪"
+
+#: 242841733-0-7487
+msgctxt "242841733-0-7487"
+msgid "Ring of the Ghost Knight"
+msgstr "亡霊騎士の指輪"
+
+#: 242841733-0-7456
+msgctxt "242841733-0-7456"
+msgid "Zarukhair's Band"
+msgstr "ザルカイルのバンド"
+
+#: 242841733-0-74254
+msgctxt "242841733-0-74254"
+msgid "Ring of Transmutation"
+msgstr "変化の指輪"
+
+#: 242841733-0-74181
+msgctxt "242841733-0-74181"
+msgid "Ring of Vicious Death"
+msgstr "残忍な死の指輪"
+
+#: 228378404-0-7417
+msgctxt "228378404-0-7417"
+msgid "This ring pulsates with animal energy."
+msgstr "この指輪は動物エネルギーとともに鼓動する。"
+
+#: 242841733-0-74018
+msgctxt "242841733-0-74018"
+msgid "Ring of Fasalla's Guile"
+msgstr "ファサラの策謀の指輪"
+
+#: 242841733-0-73956
+msgctxt "242841733-0-73956"
+msgid "Leki's Ring"
+msgstr "レキの指輪"
+
+#: 242841733-0-73894
+msgctxt "242841733-0-73894"
+msgid "Marksman's Ring"
+msgstr "射手の指輪"
+
+#: 228378404-0-7345
+msgctxt "228378404-0-7345"
+msgid "This small band still smells of potentially flammable reagents."
+msgstr "この小さなバンドは、潜在的に可燃性試料の臭いがまだしている。"
+
+#: 242841733-0-73130
+msgctxt "242841733-0-73130"
+msgid "Hircine's Ring"
+msgstr "ハーシーンの指輪"
+
+#: 242841733-0-73107
+msgctxt "242841733-0-73107"
+msgid "Ring of the Worm"
+msgstr "虫の指輪"
+
+#: 242841733-0-73081
+msgctxt "242841733-0-73081"
+msgid "Ring of the Lunar Bastion"
+msgstr "月の砦の指輪"
+
+#: 242841733-0-73058
+msgctxt "242841733-0-73058"
+msgid "Ring of Alkosh"
+msgstr "アルコシュの指輪"
+
+#: 242841733-0-73035
+msgctxt "242841733-0-73035"
+msgid "Ring of Twilight Remedy"
+msgstr "黄昏なる救済の指輪"
+
+#: 242841733-0-73009
+msgctxt "242841733-0-73009"
+msgid "Moondancer Ring"
+msgstr "ムーンダンサーの指輪"
+
+#: 228378404-0-7300
+msgctxt "228378404-0-7300"
+msgid "A ring received for saving the villagers of Silverhoof Vale."
+msgstr "シルバーフーフ谷の村人を守ったことに対して受け取った指輪。"
+
+#: 242841733-0-72981
+msgctxt "242841733-0-72981"
+msgid "Ring of Syvarra's Scales"
+msgstr "シヴァラの鱗の指輪"
+
+#: 242841733-0-72979
+msgctxt "242841733-0-72979"
+msgid "Ring of Syvarra's Scales"
+msgstr "シヴァラの鱗の指輪"
+
+#: 228378404-0-7297
+msgctxt "228378404-0-7297"
+msgid "For saving Rivenspire and helping choose a ruler, High King Emeric awarded this signet ring."
+msgstr "リベンスパイアーを守り、統治者を決定する手助けをしたことに対し、上級王エメリックがこの印章指輪を与えた。"
+
+#: 242841733-0-72909
+msgctxt "242841733-0-72909"
+msgid "Ring of Bahraha's Curse"
+msgstr "バーラハの呪いの指輪"
+
+#: 242841733-0-72907
+msgctxt "242841733-0-72907"
+msgid "Ring of Bahraha's Curse"
+msgstr "バーラハの呪いの指輪"
+
+#: 242841733-0-71302
+msgctxt "242841733-0-71302"
+msgid "Ring of the Hunt"
+msgstr "狩猟の指輪"
+
+#: 242841733-0-71301
+msgctxt "242841733-0-71301"
+msgid "Band of Permafrost"
+msgstr "永久凍土層のバンド"
+
+#: 242841733-0-71300
+msgctxt "242841733-0-71300"
+msgid "Signet of Succession"
+msgstr "継承の印章"
+
+#: 242841733-0-71299
+msgctxt "242841733-0-71299"
+msgid "Ring of Glory"
+msgstr "栄光の指輪"
+
+#: 242841733-0-71298
+msgctxt "242841733-0-71298"
+msgid "Para Bellum Band"
+msgstr "パラベルムのバンド"
+
+#: 242841733-0-71297
+msgctxt "242841733-0-71297"
+msgid "Signet of the Pariah"
+msgstr "追放者の印章"
+
+#: 242841733-0-71296
+msgctxt "242841733-0-71296"
+msgid "Winterborn Ring"
+msgstr "ウィンターボーンの指輪"
+
+#: 242841733-0-71295
+msgctxt "242841733-0-71295"
+msgid "Briarheart Band"
+msgstr "ブライア・ハートのバンド"
+
+#: 242841733-0-71294
+msgctxt "242841733-0-71294"
+msgid "Ring of Trinimac's Valor"
+msgstr "トリニマクの武勇の指輪"
+
+#: 242841733-0-71284
+msgctxt "242841733-0-71284"
+msgid "Ring of the Hunt"
+msgstr "狩猟の指輪"
+
+#: 242841733-0-71283
+msgctxt "242841733-0-71283"
+msgid "Band of Permafrost"
+msgstr "永久凍土層のバンド"
+
+#: 242841733-0-71282
+msgctxt "242841733-0-71282"
+msgid "Signet of Succession"
+msgstr "継承の印章"
+
+#: 242841733-0-71281
+msgctxt "242841733-0-71281"
+msgid "Ring of Glory"
+msgstr "栄光の指輪"
+
+#: 242841733-0-71280
+msgctxt "242841733-0-71280"
+msgid "Para Bellum Band"
+msgstr "パラベルムのバンド"
+
+#: 242841733-0-71279
+msgctxt "242841733-0-71279"
+msgid "Signet of the Pariah"
+msgstr "追放者の印章"
+
+#: 242841733-0-71278
+msgctxt "242841733-0-71278"
+msgid "Winterborn Ring"
+msgstr "ウィンターボーンの指輪"
+
+#: 242841733-0-71277
+msgctxt "242841733-0-71277"
+msgid "Briarheart Band"
+msgstr "ブライア・ハートのバンド"
+
+#: 242841733-0-71276
+msgctxt "242841733-0-71276"
+msgid "Ring of Trinimac's Valor"
+msgstr "トリニマクの武勇の指輪"
+
+#: 242841733-0-71266
+msgctxt "242841733-0-71266"
+msgid "Ring of the Hunt"
+msgstr "狩猟の指輪"
+
+#: 242841733-0-71265
+msgctxt "242841733-0-71265"
+msgid "Band of Permafrost"
+msgstr "永久凍土層のバンド"
+
+#: 242841733-0-71264
+msgctxt "242841733-0-71264"
+msgid "Signet of Succession"
+msgstr "継承の印章"
+
+#: 242841733-0-71263
+msgctxt "242841733-0-71263"
+msgid "Ring of Glory"
+msgstr "栄光の指輪"
+
+#: 242841733-0-71262
+msgctxt "242841733-0-71262"
+msgid "Para Bellum Band"
+msgstr "パラベルムのバンド"
+
+#: 242841733-0-71261
+msgctxt "242841733-0-71261"
+msgid "Signet of the Pariah"
+msgstr "追放者の印章"
+
+#: 242841733-0-71260
+msgctxt "242841733-0-71260"
+msgid "Winterborn Ring"
+msgstr "ウィンターボーンの指輪"
+
+#: 242841733-0-71259
+msgctxt "242841733-0-71259"
+msgid "Briarheart Band"
+msgstr "ブライア・ハートのバンド"
+
+#: 242841733-0-71258
+msgctxt "242841733-0-71258"
+msgid "Ring of Trinimac's Valor"
+msgstr "トリニマクの武勇の指輪"
+
+#: 242841733-0-71019
+msgctxt "242841733-0-71019"
+msgid "Ring of the Furious One"
+msgstr "怒れる者の指輪"
+
+#: 242841733-0-69389
+msgctxt "242841733-0-69389"
+msgid "Ring of Agility"
+msgstr "俊敏さの指輪"
+
+#: 242841733-0-69387
+msgctxt "242841733-0-69387"
+msgid "Ring of Agility"
+msgstr "俊敏さの指輪"
+
+#: 242841733-0-69385
+msgctxt "242841733-0-69385"
+msgid "Ring of Agility"
+msgstr "俊敏さの指輪"
+
+#: 242841733-0-69279
+msgctxt "242841733-0-69279"
+msgid "Ring of Willpower"
+msgstr "意志の指輪"
+
+#: 242841733-0-69277
+msgctxt "242841733-0-69277"
+msgid "Ring of Willpower"
+msgstr "意志の指輪"
+
+#: 242841733-0-69275
+msgctxt "242841733-0-69275"
+msgid "Ring of Willpower"
+msgstr "意志の指輪"
+
+#: 242841733-0-69169
+msgctxt "242841733-0-69169"
+msgid "Ring of Endurance"
+msgstr "持久力の指輪"
+
+#: 242841733-0-69167
+msgctxt "242841733-0-69167"
+msgid "Ring of Endurance"
+msgstr "持久力の指輪"
+
+#: 242841733-0-69165
+msgctxt "242841733-0-69165"
+msgid "Ring of Endurance"
+msgstr "持久力の指輪"
+
+#: 228378404-0-61012
+msgctxt "228378404-0-61012"
+msgid "I won't tell you, I'll show you! That's the essence of storytelling. Show, don't tell. - Sheogorath"
+msgstr "口で伝えるんじゃない、体で示すんだ！ それが物語の肝ってことだ。- シェオゴラス"
+
+#: 242841733-0-59938
+msgctxt "242841733-0-59938"
+msgid "Dominion's Signet"
+msgstr "ドミニオンの印章"
+
+#: 242841733-0-59937
+msgctxt "242841733-0-59937"
+msgid "Dominion's Loop"
+msgstr "ドミニオンのループ"
+
+#: 242841733-0-59936
+msgctxt "242841733-0-59936"
+msgid "Dominion's Ring"
+msgstr "ドミニオンの指輪"
+
+#: 242841733-0-59935
+msgctxt "242841733-0-59935"
+msgid "Pact's Band"
+msgstr "パクトのバンド"
+
+#: 242841733-0-59932
+msgctxt "242841733-0-59932"
+msgid "Pact's Signet"
+msgstr "パクトの印章"
+
+#: 242841733-0-59931
+msgctxt "242841733-0-59931"
+msgid "Pact's Loop"
+msgstr "パクトのループ"
+
+#: 242841733-0-59930
+msgctxt "242841733-0-59930"
+msgid "Pact's Ring"
+msgstr "パクトの指輪"
+
+#: 242841733-0-59929
+msgctxt "242841733-0-59929"
+msgid "Covenant's Band"
+msgstr "カバナントのバンド"
+
+#: 242841733-0-59926
+msgctxt "242841733-0-59926"
+msgid "Covenant's Signet"
+msgstr "カバナントの印章"
+
+#: 242841733-0-59925
+msgctxt "242841733-0-59925"
+msgid "Covenant's Loop"
+msgstr "カバナントのループ"
+
+#: 242841733-0-59924
+msgctxt "242841733-0-59924"
+msgid "Covenant's Ring"
+msgstr "カバナントの指輪"
+
+#: 242841733-0-5831
+msgctxt "242841733-0-5831"
+msgid "Ember Eye"
+msgstr "エンバー・アイ"
+
+#: 242841733-0-55959
+msgctxt "242841733-0-55959"
+msgid "Ring of the Healer"
+msgstr "治癒師の指輪"
+
+#: 242841733-0-55957
+msgctxt "242841733-0-55957"
+msgid "Memento of the Footman"
+msgstr "歩兵の形見"
+
+#: 242841733-0-55899
+msgctxt "242841733-0-55899"
+msgid "Band of Cyrodiil's Light"
+msgstr "シロディールの光あるバンド"
+
+#: 242841733-0-55898
+msgctxt "242841733-0-55898"
+msgid "Ring of Cyrodiil's Light"
+msgstr "シロディールの光ある指輪"
+
+#: 242841733-0-55891
+msgctxt "242841733-0-55891"
+msgid "Ravaging Band"
+msgstr "暴君のバンド"
+
+#: 242841733-0-55890
+msgctxt "242841733-0-55890"
+msgid "Ravaging Ring"
+msgstr "暴君の指輪"
+
+#: 242841733-0-55824
+msgctxt "242841733-0-55824"
+msgid "Ring of the Two-Fanged Snake"
+msgstr "双牙蛇の指輪"
+
+#: 242841733-0-55820
+msgctxt "242841733-0-55820"
+msgid "Ophidian Ring of Energy"
+msgstr "オフィディアの元気の指輪"
+
+#: 242841733-0-55819
+msgctxt "242841733-0-55819"
+msgid "Ophidian Ring of Spirit"
+msgstr "オフィディアの霊魂の指輪"
+
+#: 242841733-0-55809
+msgctxt "242841733-0-55809"
+msgid "Aether Ring of Mending"
+msgstr "エセルの修復の指輪"
+
+#: 242841733-0-55808
+msgctxt "242841733-0-55808"
+msgid "Aether Ring of Restoration"
+msgstr "エセルの回復術の指輪"
+
+#: 242841733-0-55805
+msgctxt "242841733-0-55805"
+msgid "Aether Ring of Empowerment"
+msgstr "エセルの力を与えし指輪"
+
+#: 242841733-0-55804
+msgctxt "242841733-0-55804"
+msgid "Energizing Aether Ring"
+msgstr "エセルの活力の指輪"
+
+#: 242841733-0-55792
+msgctxt "242841733-0-55792"
+msgid "Ring of the Resilient Yokeda"
+msgstr "強靱なヨケダの指輪"
+
+#: 242841733-0-55788
+msgctxt "242841733-0-55788"
+msgid "Energizing Ring of the Advancing Yokeda"
+msgstr "前進するヨケダの活力の指輪"
+
+#: 242841733-0-55787
+msgctxt "242841733-0-55787"
+msgid "Refreshing Ring of the Advancing Yokeda"
+msgstr "前進するヨケダの回復の指輪"
+
+#: 242841733-0-55769
+msgctxt "242841733-0-55769"
+msgid "Charged Loop"
+msgstr "帯電したループ"
+
+#: 242841733-0-55385
+msgctxt "242841733-0-55385"
+msgid "Dominion's Loop"
+msgstr "ドミニオンのループ"
+
+#: 242841733-0-55384
+msgctxt "242841733-0-55384"
+msgid "Pact's Loop"
+msgstr "パクトのループ"
+
+#: 242841733-0-55383
+msgctxt "242841733-0-55383"
+msgid "Covenant's Loop"
+msgstr "カバナントのループ"
+
+#: 242841733-0-55380
+msgctxt "242841733-0-55380"
+msgid "Restoration Ring of Thorn"
+msgstr "トゲの回復の指輪"
+
+#: 242841733-0-55378
+msgctxt "242841733-0-55378"
+msgid "Ring of Embers"
+msgstr "残り火の指輪"
+
+#: 242841733-0-55376
+msgctxt "242841733-0-55376"
+msgid "Ring of Blue Ice"
+msgstr "青き氷の指輪"
+
+#: 242841733-0-55374
+msgctxt "242841733-0-55374"
+msgid "Tenth Ring of Trinimac"
+msgstr "トリニマクの第10の指輪"
+
+#: 242841733-0-55370
+msgctxt "242841733-0-55370"
+msgid "Forge Master's Ring"
+msgstr "鍛冶頭の指輪"
+
+#: 242841733-0-55369
+msgctxt "242841733-0-55369"
+msgid "Levin Master's Ring"
+msgstr "レヴィンのマスターの指輪"
+
+#: 242841733-0-54992
+msgctxt "242841733-0-54992"
+msgid "Mezeluth's Ring"
+msgstr "メゼルスの指輪"
+
+#: 242841733-0-54991
+msgctxt "242841733-0-54991"
+msgid "Band of Bone Cracking"
+msgstr "骨砕きのバンド"
+
+#: 242841733-0-54990
+msgctxt "242841733-0-54990"
+msgid "Ibelgast's Promise"
+msgstr "イベルガストの約束"
+
+#: 228378404-0-54920
+msgctxt "228378404-0-54920"
+msgid "This ring was found in the ancient temple of the Scaled Court, Sanctum Ophidia."
+msgstr "この指輪はスケールドコートの古代の聖堂、聖域オフィディアで発見された。"
+
+#: 242841733-0-54511
+msgctxt "242841733-0-54511"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-54510
+msgctxt "242841733-0-54510"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-54509
+msgctxt "242841733-0-54509"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-54508
+msgctxt "242841733-0-54508"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-54480
+msgctxt "242841733-0-54480"
+msgid "Ring of the Fallen Wastes"
+msgstr "フォールンウェイストの指輪"
+
+#: 242841733-0-54477
+msgctxt "242841733-0-54477"
+msgid "Exiles' Legacy"
+msgstr "亡命者の遺産"
+
+#: 242841733-0-54476
+msgctxt "242841733-0-54476"
+msgid "A Bent Silver Ring"
+msgstr "ゆがんだ銀の指輪"
+
+#: 242841733-0-54474
+msgctxt "242841733-0-54474"
+msgid "Pact's Band"
+msgstr "パクトのバンド"
+
+#: 242841733-0-54444
+msgctxt "242841733-0-54444"
+msgid "Pact's Signet"
+msgstr "パクトの印章"
+
+#: 242841733-0-54440
+msgctxt "242841733-0-54440"
+msgid "Pact's Ring"
+msgstr "パクトの指輪"
+
+#: 242841733-0-54438
+msgctxt "242841733-0-54438"
+msgid "Covenant's Band"
+msgstr "カバナントのバンド"
+
+#: 242841733-0-54408
+msgctxt "242841733-0-54408"
+msgid "Covenant's Signet"
+msgstr "カバナントの印章"
+
+#: 242841733-0-54329
+msgctxt "242841733-0-54329"
+msgid "Dominion's Band"
+msgstr "ドミニオンのバンド"
+
+#: 242841733-0-54296
+msgctxt "242841733-0-54296"
+msgid "Dominion's Signet"
+msgstr "ドミニオンの印章"
+
+#: 242841733-0-54293
+msgctxt "242841733-0-54293"
+msgid "Covenant's Ring"
+msgstr "カバナントの指輪"
+
+#: 242841733-0-54288
+msgctxt "242841733-0-54288"
+msgid "Dominion's Ring"
+msgstr "ドミニオンの指輪"
+
+#: 242841733-0-54259
+msgctxt "242841733-0-54259"
+msgid "Ring of Bitter Mercy"
+msgstr "苦き慈悲の指輪"
+
+#: 242841733-0-54257
+msgctxt "242841733-0-54257"
+msgid "Ring of St Llothis"
+msgstr "聖ロシスの指輪"
+
+#: 242841733-0-54247
+msgctxt "242841733-0-54247"
+msgid "Band of the Daedroth"
+msgstr "デイドロスのバンド"
+
+#: 242841733-0-54246
+msgctxt "242841733-0-54246"
+msgid "Bonebound Ring"
+msgstr "骨の魔力の指輪"
+
+#: 242841733-0-4992
+msgctxt "242841733-0-4992"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-4990
+msgctxt "242841733-0-4990"
+msgid "ring"
+msgstr "リング"
+
+#: 228378404-0-45745
+msgctxt "228378404-0-45745"
+msgid "This ring is well-worn, but a feeling of power still issues from it."
+msgstr "この指輪は使い古されているが、その内から発せられる力はまだ健在である。"
+
+#: 228378404-0-44904
+msgctxt "228378404-0-44904"
+msgid "Gain XP bonus when adventuring with your partner, both characters must have partaken in the ceremony."
+msgstr "パートナーと一緒にプレイをするとXPボーナスを獲得する。キャラクターは共に儀式に参加していなければならない。"
+
+#: 242841733-0-44236
+msgctxt "242841733-0-44236"
+msgid "Band of Soulshine"
+msgstr "魂の輝きのバンド"
+
+#: 242841733-0-44235
+msgctxt "242841733-0-44235"
+msgid "Ring of Soulshine"
+msgstr "魂の輝きの指輪"
+
+#: 242841733-0-44207
+msgctxt "242841733-0-44207"
+msgid "Loop of Sanctuary"
+msgstr "聖域の輪飾り"
+
+#: 242841733-0-44206
+msgctxt "242841733-0-44206"
+msgid "Ring of Sanctuary"
+msgstr "聖域の指輪"
+
+#: 242841733-0-44201
+msgctxt "242841733-0-44201"
+msgid "Band of Cyrodiil's Light"
+msgstr "シロディールの光あるバンド"
+
+#: 242841733-0-44200
+msgctxt "242841733-0-44200"
+msgid "Ring of Cyrodiil's Light"
+msgstr "シロディールの光ある指輪"
+
+#: 242841733-0-44193
+msgctxt "242841733-0-44193"
+msgid "Ravaging Band"
+msgstr "破壊のバンド"
+
+#: 242841733-0-44192
+msgctxt "242841733-0-44192"
+msgid "Ravaging Ring"
+msgstr "破壊の指輪"
+
+#: 242841733-0-44179
+msgctxt "242841733-0-44179"
+msgid "Ring of Kyne's Flight"
+msgstr "カイネの飛翔せし指輪"
+
+#: 242841733-0-44159
+msgctxt "242841733-0-44159"
+msgid "Loop of the Magicka Furnace"
+msgstr "マジカ炉の輪飾り"
+
+#: 242841733-0-44158
+msgctxt "242841733-0-44158"
+msgid "Ring of the Magicka Furnace"
+msgstr "マジカ炉の指輪"
+
+#: 242841733-0-44151
+msgctxt "242841733-0-44151"
+msgid "Band of the Unassailable"
+msgstr "難攻不落のバンド"
+
+#: 242841733-0-44150
+msgctxt "242841733-0-44150"
+msgid "Ring of the Unassailable"
+msgstr "難攻不落の指輪"
+
+#: 242841733-0-44138
+msgctxt "242841733-0-44138"
+msgid "Ring of the Hawk's Eye"
+msgstr "ホークアイの指輪"
+
+#: 242841733-0-43939
+msgctxt "242841733-0-43939"
+msgid "Ring of the Shadow Walker"
+msgstr "影の歩き手の指輪"
+
+#: 242841733-0-43938
+msgctxt "242841733-0-43938"
+msgid "Band of the Shadow Walker"
+msgstr "影の歩き手のバンド"
+
+#: 242841733-0-43894
+msgctxt "242841733-0-43894"
+msgid "Werewolf Hide Band"
+msgstr "ウェアウルフ皮のバンド"
+
+#: 242841733-0-43893
+msgctxt "242841733-0-43893"
+msgid "Werewolf Hide Ring"
+msgstr "ウェアウルフ皮の指輪"
+
+#: 242841733-0-43889
+msgctxt "242841733-0-43889"
+msgid "Band of Syrabane"
+msgstr "シラベインのバンド"
+
+#: 242841733-0-43888
+msgctxt "242841733-0-43888"
+msgid "Ring of Syrabane"
+msgstr "シラベインの指輪"
+
+#: 242841733-0-43775
+msgctxt "242841733-0-43775"
+msgid "Fiord's Ring"
+msgstr "フィヨルドの指輪"
+
+#: 242841733-0-43536
+msgctxt "242841733-0-43536"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-43521
+msgctxt "242841733-0-43521"
+msgid "Fingerpicker"
+msgstr "フィンガーピッカー"
+
+#: 228378404-0-43038
+msgctxt "228378404-0-43038"
+msgid "A ring awarded for defeating the giant sabre cat, Ammabani."
+msgstr "巨大なサーベルキャット、アンマバニを倒したことにより与えられた指輪。"
+
+#: 228378404-0-42971
+msgctxt "228378404-0-42971"
+msgid "A ring awarded for defeating the elder hag, Magdelena."
+msgstr "エルダーハグ、マグデネラを倒したことにより与えられた指輪。"
+
+#: 228378404-0-34754
+msgctxt "228378404-0-34754"
+msgid "This ring is gold in color, but color only."
+msgstr "この指輪は金色であるが、色だけである。"
+
+#: 242841733-0-33288
+msgctxt "242841733-0-33288"
+msgid "Beetle Eye Ring"
+msgstr "ビートルアイの指輪"
+
+#: 242841733-0-33287
+msgctxt "242841733-0-33287"
+msgid "Snowy Signet"
+msgstr "雪の印章"
+
+#: 242841733-0-33286
+msgctxt "242841733-0-33286"
+msgid "Dreadlord's Mark"
+msgstr "ドレッドロードの印"
+
+#: 242841733-0-33285
+msgctxt "242841733-0-33285"
+msgid "Speaker's Band"
+msgstr "代弁者のバンド"
+
+#: 242841733-0-33284
+msgctxt "242841733-0-33284"
+msgid "Matriarch's Ring"
+msgstr "女族長の指輪"
+
+#: 242841733-0-32182
+msgctxt "242841733-0-32182"
+msgid "Signet of the Stalker"
+msgstr "追跡者の印章"
+
+#: 242841733-0-32181
+msgctxt "242841733-0-32181"
+msgid "Gem of Madness"
+msgstr "狂気の石"
+
+#: 242841733-0-32179
+msgctxt "242841733-0-32179"
+msgid "Keeper's Insignia"
+msgstr "番人の記章"
+
+#: 242841733-0-32178
+msgctxt "242841733-0-32178"
+msgid "Areldur's Ring"
+msgstr "アレルダーの指輪"
+
+#: 242841733-0-32177
+msgctxt "242841733-0-32177"
+msgid "Band of the Breaker"
+msgstr "ブレイカーのバンド"
+
+#: 242841733-0-32176
+msgctxt "242841733-0-32176"
+msgid "Mender's Mark"
+msgstr "癒し手の印"
+
+#: 242841733-0-29963
+msgctxt "242841733-0-29963"
+msgid "Ring of Grounding"
+msgstr "基礎訓練の指輪"
+
+#: 228378404-0-29943
+msgctxt "228378404-0-29943"
+msgid "This signet ring was awarded for resolving the curse of Baelborne Rock."
+msgstr "この印章指輪はバエルボーン・ロックの呪いを解決したことに対して与えられている。"
+
+#: 242841733-0-29076
+msgctxt "242841733-0-29076"
+msgid "Widow's Band"
+msgstr "ウィドウのバンド"
+
+#: 242841733-0-29075
+msgctxt "242841733-0-29075"
+msgid "Guardsman's Mark"
+msgstr "衛兵の印"
+
+#: 242841733-0-29070
+msgctxt "242841733-0-29070"
+msgid "Broodmother's Knot"
+msgstr "ブラッドマザーのノット"
+
+#: 242841733-0-29069
+msgctxt "242841733-0-29069"
+msgid "Angata's Signet"
+msgstr "アンガタの印章"
+
+#: 242841733-0-28119
+msgctxt "242841733-0-28119"
+msgid "Foreman's Ring"
+msgstr "作業長の指輪"
+
+#: 242841733-0-28112
+msgctxt "242841733-0-28112"
+msgid "Vertebral Ring"
+msgstr "脊椎の指輪"
+
+#: 242841733-0-28110
+msgctxt "242841733-0-28110"
+msgid "Loop of the Lost"
+msgstr "喪失の輪飾り"
+
+#: 228378404-0-27275
+msgctxt "228378404-0-27275"
+msgid "This simple band allowed the Daedra working for the Duchess to withstand the agony of her mere presence."
+msgstr "この質素な輪があったからこそ、女公爵に仕えていたデイドラは彼女の存在そのものに耐えることができた。"
+
+#: 242841733-0-26166
+msgctxt "242841733-0-26166"
+msgid "Ring of the Risen"
+msgstr "昇天の指輪"
+
+#: 242841733-0-2538
+msgctxt "242841733-0-2538"
+msgid "King Aphren's Seal"
+msgstr "アフレン王の封印"
+
+#: 242841733-0-23710
+msgctxt "242841733-0-23710"
+msgid "Scamplord's Signet"
+msgstr "スキャンプロードの印章"
+
+#: 242841733-0-23663
+msgctxt "242841733-0-23663"
+msgid "Thoran's Bond-Ring"
+msgstr "ソランの絆の指輪"
+
+#: 242841733-0-22205
+msgctxt "242841733-0-22205"
+msgid "Treethane's Sigil"
+msgstr "樹の従士の印"
+
+#: 242841733-0-22196
+msgctxt "242841733-0-22196"
+msgid "Pillager's Ring"
+msgstr "略奪者の指輪"
+
+#: 242841733-0-22194
+msgctxt "242841733-0-22194"
+msgid "Mark of the Morag Tong"
+msgstr "モラグ・トングの印"
+
+#: 242841733-0-22188
+msgctxt "242841733-0-22188"
+msgid "Arachnoid Ring"
+msgstr "アラコノイドの指輪"
+
+#: 242841733-0-22156
+msgctxt "242841733-0-22156"
+msgid "First Mate's Mark"
+msgstr "一等航海士の印"
+
+#: 228378404-0-1742
+msgctxt "228378404-0-1742"
+msgid "This ring is simple in its design. The wearer feels a distinct sense of calm and acceptance."
+msgstr "簡素なデザインの指輪。着用者は鎮静と受容の感覚をはっきりと感じることができる。"
+
+#: 242841733-0-16214
+msgctxt "242841733-0-16214"
+msgid "Tribal Hair-Knot"
+msgstr "部族のヘア・ノット"
+
+#: 242841733-0-16212
+msgctxt "242841733-0-16212"
+msgid "Leafring"
+msgstr "リーフリング"
+
+#: 242841733-0-16211
+msgctxt "242841733-0-16211"
+msgid "Lost Imperial Band"
+msgstr "失われた帝国のバンド"
+
+#: 242841733-0-16209
+msgctxt "242841733-0-16209"
+msgid "Kwama Shepherd's Charm"
+msgstr "クワマー飼いのお守り"
+
+#: 242841733-0-16202
+msgctxt "242841733-0-16202"
+msgid "Uulgarg's Charm"
+msgstr "ウールガルグのお守り"
+
+#: 242841733-0-16149
+msgctxt "242841733-0-16149"
+msgid "Swampbinder"
+msgstr "スワンプバインダー"
+
+#: 242841733-0-16144
+msgctxt "242841733-0-16144"
+msgid "Mage Master's Signet"
+msgstr "メイジマスターの印章"
+
+#: 242841733-0-16046
+msgctxt "242841733-0-16046"
+msgid "Matron's Mark"
+msgstr "夫人のマーク"
+
+#: 242841733-0-16042
+msgctxt "242841733-0-16042"
+msgid "Pulsing Dremora Ring"
+msgstr "ドレモラの鼓動の指輪"
+
+#: 242841733-0-15679
+msgctxt "242841733-0-15679"
+msgid "Automaton Gem"
+msgstr "オートマトンの宝石"
+
+#: 242841733-0-15616
+msgctxt "242841733-0-15616"
+msgid "A Cheap Trinket"
+msgstr "安い小装飾品"
+
+#: 242841733-0-15583
+msgctxt "242841733-0-15583"
+msgid "Arithiel's Ring"
+msgstr "アルシエルの指輪"
+
+#: 242841733-0-15546
+msgctxt "242841733-0-15546"
+msgid "Jewel of Azara"
+msgstr "アザーラの宝石"
+
+#: 228378404-0-15526
+msgctxt "228378404-0-15526"
+msgid "Though Bosmer in origin, this ring also incorporates Wood Orc motifs."
+msgstr "起源はボズマーだとしても、この指輪はウッドオークのモチーフが組み込まれている。"
+
+#: 242841733-0-147044
+msgctxt "242841733-0-147044"
+msgid "Auroran's Ring"
+msgstr "オーロランの指輪"
+
+#: 242841733-0-146862
+msgctxt "242841733-0-146862"
+msgid "Ring of Scavenging Demise"
+msgstr "スカベンジングの殺到の指輪"
+
+#: 242841733-0-146680
+msgctxt "242841733-0-146680"
+msgid "Frozen Watcher's Ring"
+msgstr "凍った監視人の指輪"
+
+#: 242841733-0-146441
+msgctxt "242841733-0-146441"
+msgid "Icy Conjuror's Ring"
+msgstr "氷の召喚士の指輪"
+
+#: 242841733-0-146259
+msgctxt "242841733-0-146259"
+msgid "Tzogvin's Ring"
+msgstr "ツォグヴィンの指輪"
+
+#: 242841733-0-146077
+msgctxt "242841733-0-146077"
+msgid "Mighty Glacier's Ring"
+msgstr "強き氷河の指輪"
+
+#: 242841733-0-144829
+msgctxt "242841733-0-144829"
+msgid "Battalion Defender Ring"
+msgstr "大隊の守り手の指輪"
+
+#: 242841733-0-144647
+msgctxt "242841733-0-144647"
+msgid "Steadfast Hero Ring"
+msgstr "頑強な英雄の指輪"
+
+#: 242841733-0-144465
+msgctxt "242841733-0-144465"
+msgid "Soldier of Anguish Ring"
+msgstr "苦痛の戦士の指輪"
+
+#: 242841733-0-144283
+msgctxt "242841733-0-144283"
+msgid "Battlefield Acrobat Ring"
+msgstr "戦場アクロバットの指輪"
+
+#: 242841733-0-144092
+msgctxt "242841733-0-144092"
+msgid "Spell Strategist Ring"
+msgstr "魔法戦略家の指輪"
+
+#: 242841733-0-143901
+msgctxt "242841733-0-143901"
+msgid "Indomitable Fury Ring"
+msgstr "不屈の激昂の指輪"
+
+#: 242841733-0-143584
+msgctxt "242841733-0-143584"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143582
+msgctxt "242841733-0-143582"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143580
+msgctxt "242841733-0-143580"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143578
+msgctxt "242841733-0-143578"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143576
+msgctxt "242841733-0-143576"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143574
+msgctxt "242841733-0-143574"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143572
+msgctxt "242841733-0-143572"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143570
+msgctxt "242841733-0-143570"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143568
+msgctxt "242841733-0-143568"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143566
+msgctxt "242841733-0-143566"
+msgid "Might of the Lost Legion Ring"
+msgstr "失われた軍団の力の指輪"
+
+#: 242841733-0-143214
+msgctxt "242841733-0-143214"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143212
+msgctxt "242841733-0-143212"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143210
+msgctxt "242841733-0-143210"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143208
+msgctxt "242841733-0-143208"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143206
+msgctxt "242841733-0-143206"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143204
+msgctxt "242841733-0-143204"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143202
+msgctxt "242841733-0-143202"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143200
+msgctxt "242841733-0-143200"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143198
+msgctxt "242841733-0-143198"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-143196
+msgctxt "242841733-0-143196"
+msgid "Naga Shaman Ring"
+msgstr "ナガ呪術師の指輪"
+
+#: 242841733-0-142844
+msgctxt "242841733-0-142844"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142842
+msgctxt "242841733-0-142842"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142840
+msgctxt "242841733-0-142840"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142838
+msgctxt "242841733-0-142838"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142836
+msgctxt "242841733-0-142836"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142834
+msgctxt "242841733-0-142834"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142832
+msgctxt "242841733-0-142832"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142830
+msgctxt "242841733-0-142830"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142828
+msgctxt "242841733-0-142828"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142826
+msgctxt "242841733-0-142826"
+msgid "Grave-Stake Collector Ring"
+msgstr "墓標コレクターの指輪"
+
+#: 242841733-0-142600
+msgctxt "242841733-0-142600"
+msgid "Bright-Throat's Boast Ring"
+msgstr "ブライトスロートの自慢の指輪"
+
+#: 242841733-0-142418
+msgctxt "242841733-0-142418"
+msgid "Dead-Water's Guile Ring"
+msgstr "デッドウォーターの奸智の指輪"
+
+#: 242841733-0-142236
+msgctxt "242841733-0-142236"
+msgid "Champion of the Hist Ring"
+msgstr "ヒストの勇者の指輪"
+
+#: 242841733-0-141440
+msgctxt "242841733-0-141440"
+msgid "Savage Werewolf's Ring"
+msgstr "獰猛なウェアウルフの指輪"
+
+#: 242841733-0-141249
+msgctxt "242841733-0-141249"
+msgid "Moon Hunter Ring"
+msgstr "月狩人の指輪"
+
+#: 242841733-0-141067
+msgctxt "242841733-0-141067"
+msgid "Jailer's Ring"
+msgstr "看守の指輪"
+
+#: 242841733-0-140885
+msgctxt "242841733-0-140885"
+msgid "Blood Moon Ring"
+msgstr "血の月の指輪"
+
+#: 242841733-0-140694
+msgctxt "242841733-0-140694"
+msgid "Hanu's Ring"
+msgstr "ハヌの指輪"
+
+#: 242841733-0-140512
+msgctxt "242841733-0-140512"
+msgid "Ring of Ursus"
+msgstr "ウルサスの指輪"
+
+#: 242841733-0-140214
+msgctxt "242841733-0-140214"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-140212
+msgctxt "242841733-0-140212"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-140210
+msgctxt "242841733-0-140210"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-140167
+msgctxt "242841733-0-140167"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-140166
+msgctxt "242841733-0-140166"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-140165
+msgctxt "242841733-0-140165"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-140164
+msgctxt "242841733-0-140164"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-140163
+msgctxt "242841733-0-140163"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-140162
+msgctxt "242841733-0-140162"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-140161
+msgctxt "242841733-0-140161"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-140160
+msgctxt "242841733-0-140160"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-140159
+msgctxt "242841733-0-140159"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-140158
+msgctxt "242841733-0-140158"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-140157
+msgctxt "242841733-0-140157"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-140156
+msgctxt "242841733-0-140156"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-140155
+msgctxt "242841733-0-140155"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-140154
+msgctxt "242841733-0-140154"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-140153
+msgctxt "242841733-0-140153"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-140152
+msgctxt "242841733-0-140152"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-140151
+msgctxt "242841733-0-140151"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-140150
+msgctxt "242841733-0-140150"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-140149
+msgctxt "242841733-0-140149"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-140148
+msgctxt "242841733-0-140148"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-140147
+msgctxt "242841733-0-140147"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-140146
+msgctxt "242841733-0-140146"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-140145
+msgctxt "242841733-0-140145"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-140144
+msgctxt "242841733-0-140144"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-140143
+msgctxt "242841733-0-140143"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-140142
+msgctxt "242841733-0-140142"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-140141
+msgctxt "242841733-0-140141"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-140140
+msgctxt "242841733-0-140140"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-140139
+msgctxt "242841733-0-140139"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-140138
+msgctxt "242841733-0-140138"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-140137
+msgctxt "242841733-0-140137"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-140136
+msgctxt "242841733-0-140136"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-140135
+msgctxt "242841733-0-140135"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-140134
+msgctxt "242841733-0-140134"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-140133
+msgctxt "242841733-0-140133"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-140132
+msgctxt "242841733-0-140132"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-140131
+msgctxt "242841733-0-140131"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-140130
+msgctxt "242841733-0-140130"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-140129
+msgctxt "242841733-0-140129"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-140128
+msgctxt "242841733-0-140128"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-140127
+msgctxt "242841733-0-140127"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-140126
+msgctxt "242841733-0-140126"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-140124
+msgctxt "242841733-0-140124"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-140122
+msgctxt "242841733-0-140122"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-140120
+msgctxt "242841733-0-140120"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-140077
+msgctxt "242841733-0-140077"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-140076
+msgctxt "242841733-0-140076"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-140075
+msgctxt "242841733-0-140075"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-140074
+msgctxt "242841733-0-140074"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-140073
+msgctxt "242841733-0-140073"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-140072
+msgctxt "242841733-0-140072"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-140071
+msgctxt "242841733-0-140071"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-140070
+msgctxt "242841733-0-140070"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-140069
+msgctxt "242841733-0-140069"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-140068
+msgctxt "242841733-0-140068"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-140067
+msgctxt "242841733-0-140067"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-140066
+msgctxt "242841733-0-140066"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-140065
+msgctxt "242841733-0-140065"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-140064
+msgctxt "242841733-0-140064"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-140063
+msgctxt "242841733-0-140063"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-140062
+msgctxt "242841733-0-140062"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-140061
+msgctxt "242841733-0-140061"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-140060
+msgctxt "242841733-0-140060"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-140059
+msgctxt "242841733-0-140059"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-140058
+msgctxt "242841733-0-140058"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-140057
+msgctxt "242841733-0-140057"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-140056
+msgctxt "242841733-0-140056"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-140055
+msgctxt "242841733-0-140055"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-140054
+msgctxt "242841733-0-140054"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-140053
+msgctxt "242841733-0-140053"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-140052
+msgctxt "242841733-0-140052"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-140051
+msgctxt "242841733-0-140051"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-140050
+msgctxt "242841733-0-140050"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-140049
+msgctxt "242841733-0-140049"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-140048
+msgctxt "242841733-0-140048"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-140047
+msgctxt "242841733-0-140047"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-140046
+msgctxt "242841733-0-140046"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-140045
+msgctxt "242841733-0-140045"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-140044
+msgctxt "242841733-0-140044"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-140043
+msgctxt "242841733-0-140043"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-140042
+msgctxt "242841733-0-140042"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-140041
+msgctxt "242841733-0-140041"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-140040
+msgctxt "242841733-0-140040"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-140039
+msgctxt "242841733-0-140039"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-140038
+msgctxt "242841733-0-140038"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-140037
+msgctxt "242841733-0-140037"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-140036
+msgctxt "242841733-0-140036"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-140034
+msgctxt "242841733-0-140034"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-140032
+msgctxt "242841733-0-140032"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-140030
+msgctxt "242841733-0-140030"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-139987
+msgctxt "242841733-0-139987"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-139986
+msgctxt "242841733-0-139986"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-139985
+msgctxt "242841733-0-139985"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-139984
+msgctxt "242841733-0-139984"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-139983
+msgctxt "242841733-0-139983"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-139982
+msgctxt "242841733-0-139982"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-139981
+msgctxt "242841733-0-139981"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-139980
+msgctxt "242841733-0-139980"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-139979
+msgctxt "242841733-0-139979"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-139978
+msgctxt "242841733-0-139978"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-139977
+msgctxt "242841733-0-139977"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-139976
+msgctxt "242841733-0-139976"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-139975
+msgctxt "242841733-0-139975"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-139974
+msgctxt "242841733-0-139974"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-139973
+msgctxt "242841733-0-139973"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-139972
+msgctxt "242841733-0-139972"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-139971
+msgctxt "242841733-0-139971"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-139970
+msgctxt "242841733-0-139970"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-139969
+msgctxt "242841733-0-139969"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-139968
+msgctxt "242841733-0-139968"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-139967
+msgctxt "242841733-0-139967"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-139966
+msgctxt "242841733-0-139966"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-139965
+msgctxt "242841733-0-139965"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-139964
+msgctxt "242841733-0-139964"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-139963
+msgctxt "242841733-0-139963"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-139962
+msgctxt "242841733-0-139962"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-139961
+msgctxt "242841733-0-139961"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-139960
+msgctxt "242841733-0-139960"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-139959
+msgctxt "242841733-0-139959"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-139958
+msgctxt "242841733-0-139958"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-139957
+msgctxt "242841733-0-139957"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-139956
+msgctxt "242841733-0-139956"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-139955
+msgctxt "242841733-0-139955"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-139954
+msgctxt "242841733-0-139954"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-139953
+msgctxt "242841733-0-139953"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-139952
+msgctxt "242841733-0-139952"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-139951
+msgctxt "242841733-0-139951"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-139950
+msgctxt "242841733-0-139950"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-139949
+msgctxt "242841733-0-139949"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-139948
+msgctxt "242841733-0-139948"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-139947
+msgctxt "242841733-0-139947"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-139946
+msgctxt "242841733-0-139946"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-139944
+msgctxt "242841733-0-139944"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-139942
+msgctxt "242841733-0-139942"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-139940
+msgctxt "242841733-0-139940"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-139897
+msgctxt "242841733-0-139897"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-139896
+msgctxt "242841733-0-139896"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-139895
+msgctxt "242841733-0-139895"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-139894
+msgctxt "242841733-0-139894"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-139893
+msgctxt "242841733-0-139893"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-139892
+msgctxt "242841733-0-139892"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-139891
+msgctxt "242841733-0-139891"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-139890
+msgctxt "242841733-0-139890"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-139889
+msgctxt "242841733-0-139889"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-139888
+msgctxt "242841733-0-139888"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-139887
+msgctxt "242841733-0-139887"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-139886
+msgctxt "242841733-0-139886"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-139885
+msgctxt "242841733-0-139885"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-139884
+msgctxt "242841733-0-139884"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-139883
+msgctxt "242841733-0-139883"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-139882
+msgctxt "242841733-0-139882"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-139881
+msgctxt "242841733-0-139881"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-139880
+msgctxt "242841733-0-139880"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-139879
+msgctxt "242841733-0-139879"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-139878
+msgctxt "242841733-0-139878"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-139877
+msgctxt "242841733-0-139877"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-139876
+msgctxt "242841733-0-139876"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-139875
+msgctxt "242841733-0-139875"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-139874
+msgctxt "242841733-0-139874"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-139873
+msgctxt "242841733-0-139873"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-139872
+msgctxt "242841733-0-139872"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-139871
+msgctxt "242841733-0-139871"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-139870
+msgctxt "242841733-0-139870"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-139869
+msgctxt "242841733-0-139869"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-139868
+msgctxt "242841733-0-139868"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-139867
+msgctxt "242841733-0-139867"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-139866
+msgctxt "242841733-0-139866"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-139865
+msgctxt "242841733-0-139865"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-139864
+msgctxt "242841733-0-139864"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-139863
+msgctxt "242841733-0-139863"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-139862
+msgctxt "242841733-0-139862"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-139861
+msgctxt "242841733-0-139861"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-139860
+msgctxt "242841733-0-139860"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-139859
+msgctxt "242841733-0-139859"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-139858
+msgctxt "242841733-0-139858"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-139857
+msgctxt "242841733-0-139857"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-139856
+msgctxt "242841733-0-139856"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-139854
+msgctxt "242841733-0-139854"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-139852
+msgctxt "242841733-0-139852"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-139850
+msgctxt "242841733-0-139850"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-139807
+msgctxt "242841733-0-139807"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-139806
+msgctxt "242841733-0-139806"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-139805
+msgctxt "242841733-0-139805"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-139804
+msgctxt "242841733-0-139804"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-139803
+msgctxt "242841733-0-139803"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-139802
+msgctxt "242841733-0-139802"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-139801
+msgctxt "242841733-0-139801"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-139800
+msgctxt "242841733-0-139800"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-139799
+msgctxt "242841733-0-139799"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-139798
+msgctxt "242841733-0-139798"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-139797
+msgctxt "242841733-0-139797"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-139796
+msgctxt "242841733-0-139796"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-139795
+msgctxt "242841733-0-139795"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-139794
+msgctxt "242841733-0-139794"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-139793
+msgctxt "242841733-0-139793"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-139792
+msgctxt "242841733-0-139792"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-139791
+msgctxt "242841733-0-139791"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-139790
+msgctxt "242841733-0-139790"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-139789
+msgctxt "242841733-0-139789"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-139788
+msgctxt "242841733-0-139788"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-139787
+msgctxt "242841733-0-139787"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-139786
+msgctxt "242841733-0-139786"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-139785
+msgctxt "242841733-0-139785"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-139784
+msgctxt "242841733-0-139784"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-139783
+msgctxt "242841733-0-139783"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-139782
+msgctxt "242841733-0-139782"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-139781
+msgctxt "242841733-0-139781"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-139780
+msgctxt "242841733-0-139780"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-139779
+msgctxt "242841733-0-139779"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-139778
+msgctxt "242841733-0-139778"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-139777
+msgctxt "242841733-0-139777"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-139776
+msgctxt "242841733-0-139776"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-139775
+msgctxt "242841733-0-139775"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-139774
+msgctxt "242841733-0-139774"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-139773
+msgctxt "242841733-0-139773"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-139772
+msgctxt "242841733-0-139772"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-139771
+msgctxt "242841733-0-139771"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-139770
+msgctxt "242841733-0-139770"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-139769
+msgctxt "242841733-0-139769"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-139768
+msgctxt "242841733-0-139768"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-139767
+msgctxt "242841733-0-139767"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-139766
+msgctxt "242841733-0-139766"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-139764
+msgctxt "242841733-0-139764"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-139762
+msgctxt "242841733-0-139762"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-139760
+msgctxt "242841733-0-139760"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-139717
+msgctxt "242841733-0-139717"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-139716
+msgctxt "242841733-0-139716"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-139715
+msgctxt "242841733-0-139715"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-139714
+msgctxt "242841733-0-139714"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-139713
+msgctxt "242841733-0-139713"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-139712
+msgctxt "242841733-0-139712"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-139711
+msgctxt "242841733-0-139711"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-139710
+msgctxt "242841733-0-139710"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-139709
+msgctxt "242841733-0-139709"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-139708
+msgctxt "242841733-0-139708"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-139707
+msgctxt "242841733-0-139707"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-139706
+msgctxt "242841733-0-139706"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-139705
+msgctxt "242841733-0-139705"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-139704
+msgctxt "242841733-0-139704"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-139703
+msgctxt "242841733-0-139703"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-139702
+msgctxt "242841733-0-139702"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-139701
+msgctxt "242841733-0-139701"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-139700
+msgctxt "242841733-0-139700"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-139699
+msgctxt "242841733-0-139699"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-139698
+msgctxt "242841733-0-139698"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-139697
+msgctxt "242841733-0-139697"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-139696
+msgctxt "242841733-0-139696"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-139695
+msgctxt "242841733-0-139695"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-139694
+msgctxt "242841733-0-139694"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-139693
+msgctxt "242841733-0-139693"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-139692
+msgctxt "242841733-0-139692"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-139691
+msgctxt "242841733-0-139691"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-139690
+msgctxt "242841733-0-139690"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-139689
+msgctxt "242841733-0-139689"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-139688
+msgctxt "242841733-0-139688"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-139687
+msgctxt "242841733-0-139687"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-139686
+msgctxt "242841733-0-139686"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-139685
+msgctxt "242841733-0-139685"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-139684
+msgctxt "242841733-0-139684"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-139683
+msgctxt "242841733-0-139683"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-139682
+msgctxt "242841733-0-139682"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-139681
+msgctxt "242841733-0-139681"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-139680
+msgctxt "242841733-0-139680"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-139679
+msgctxt "242841733-0-139679"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-139678
+msgctxt "242841733-0-139678"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-139677
+msgctxt "242841733-0-139677"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-139676
+msgctxt "242841733-0-139676"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 228378404-0-139657
+msgctxt "228378404-0-139657"
+msgid "This ring is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Bloodthirsty Trait for Rings."
+msgstr "この指輪は宝飾台で研究されることを目的としている。これを研究することで、指輪用に血の渇望の特性を学べる。"
+
+#: 242841733-0-139400
+msgctxt "242841733-0-139400"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-139399
+msgctxt "242841733-0-139399"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-139398
+msgctxt "242841733-0-139398"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-139397
+msgctxt "242841733-0-139397"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-139396
+msgctxt "242841733-0-139396"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-138796
+msgctxt "242841733-0-138796"
+msgid "ring"
+msgstr "リング"
+
+#: 242841733-0-138735
+msgctxt "242841733-0-138735"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-138733
+msgctxt "242841733-0-138733"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-138731
+msgctxt "242841733-0-138731"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-138729
+msgctxt "242841733-0-138729"
+msgid "Nocturnal's Favored Ring"
+msgstr "ノクターナルの寵愛の指輪"
+
+#: 242841733-0-138727
+msgctxt "242841733-0-138727"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-138725
+msgctxt "242841733-0-138725"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-138723
+msgctxt "242841733-0-138723"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-138721
+msgctxt "242841733-0-138721"
+msgid "Sload's Ring"
+msgstr "スロードの指輪"
+
+#: 242841733-0-138719
+msgctxt "242841733-0-138719"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-138717
+msgctxt "242841733-0-138717"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-138715
+msgctxt "242841733-0-138715"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-138713
+msgctxt "242841733-0-138713"
+msgid "Adept Rider's Ring"
+msgstr "熟練騎手の指輪"
+
+#: 242841733-0-138519
+msgctxt "242841733-0-138519"
+msgid "Olorime's Perfect Ring"
+msgstr "オロライムの完璧な指輪"
+
+#: 242841733-0-138328
+msgctxt "242841733-0-138328"
+msgid "Siroria's Perfect Ring"
+msgstr "シロリアの完璧な指輪"
+
+#: 242841733-0-138146
+msgctxt "242841733-0-138146"
+msgid "Relequen's Perfect Ring"
+msgstr "レレクエンの完璧な指輪"
+
+#: 242841733-0-137964
+msgctxt "242841733-0-137964"
+msgid "Galenwe's Perfect Ring"
+msgstr "ガレンウェの完璧なる指輪"
+
+#: 242841733-0-137682
+msgctxt "242841733-0-137682"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-137681
+msgctxt "242841733-0-137681"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-137680
+msgctxt "242841733-0-137680"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-137679
+msgctxt "242841733-0-137679"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-137678
+msgctxt "242841733-0-137678"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-137677
+msgctxt "242841733-0-137677"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-137676
+msgctxt "242841733-0-137676"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-137675
+msgctxt "242841733-0-137675"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-137674
+msgctxt "242841733-0-137674"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-137673
+msgctxt "242841733-0-137673"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-137672
+msgctxt "242841733-0-137672"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-137671
+msgctxt "242841733-0-137671"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-137670
+msgctxt "242841733-0-137670"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-137669
+msgctxt "242841733-0-137669"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-137668
+msgctxt "242841733-0-137668"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-137667
+msgctxt "242841733-0-137667"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-137666
+msgctxt "242841733-0-137666"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-137665
+msgctxt "242841733-0-137665"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-137664
+msgctxt "242841733-0-137664"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-137663
+msgctxt "242841733-0-137663"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-137662
+msgctxt "242841733-0-137662"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-137661
+msgctxt "242841733-0-137661"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-137660
+msgctxt "242841733-0-137660"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-137659
+msgctxt "242841733-0-137659"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-137658
+msgctxt "242841733-0-137658"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-137657
+msgctxt "242841733-0-137657"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-137656
+msgctxt "242841733-0-137656"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-137655
+msgctxt "242841733-0-137655"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-137654
+msgctxt "242841733-0-137654"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-137653
+msgctxt "242841733-0-137653"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-137652
+msgctxt "242841733-0-137652"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-137651
+msgctxt "242841733-0-137651"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-137650
+msgctxt "242841733-0-137650"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-137649
+msgctxt "242841733-0-137649"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-137648
+msgctxt "242841733-0-137648"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-137647
+msgctxt "242841733-0-137647"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-137646
+msgctxt "242841733-0-137646"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-137645
+msgctxt "242841733-0-137645"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-137644
+msgctxt "242841733-0-137644"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-137643
+msgctxt "242841733-0-137643"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-137642
+msgctxt "242841733-0-137642"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-137641
+msgctxt "242841733-0-137641"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-137640
+msgctxt "242841733-0-137640"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-137639
+msgctxt "242841733-0-137639"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-137638
+msgctxt "242841733-0-137638"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-137637
+msgctxt "242841733-0-137637"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-137636
+msgctxt "242841733-0-137636"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-137635
+msgctxt "242841733-0-137635"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-137634
+msgctxt "242841733-0-137634"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-137633
+msgctxt "242841733-0-137633"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-137632
+msgctxt "242841733-0-137632"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-137631
+msgctxt "242841733-0-137631"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-137630
+msgctxt "242841733-0-137630"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-137629
+msgctxt "242841733-0-137629"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-137628
+msgctxt "242841733-0-137628"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-137627
+msgctxt "242841733-0-137627"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-137626
+msgctxt "242841733-0-137626"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-137625
+msgctxt "242841733-0-137625"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-137624
+msgctxt "242841733-0-137624"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-137623
+msgctxt "242841733-0-137623"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-137622
+msgctxt "242841733-0-137622"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-137621
+msgctxt "242841733-0-137621"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-137620
+msgctxt "242841733-0-137620"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-137619
+msgctxt "242841733-0-137619"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-137618
+msgctxt "242841733-0-137618"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-137617
+msgctxt "242841733-0-137617"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-137616
+msgctxt "242841733-0-137616"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-137615
+msgctxt "242841733-0-137615"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-137614
+msgctxt "242841733-0-137614"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-137613
+msgctxt "242841733-0-137613"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-137612
+msgctxt "242841733-0-137612"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-137611
+msgctxt "242841733-0-137611"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-137610
+msgctxt "242841733-0-137610"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-137609
+msgctxt "242841733-0-137609"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-137608
+msgctxt "242841733-0-137608"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-137607
+msgctxt "242841733-0-137607"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-137606
+msgctxt "242841733-0-137606"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-137605
+msgctxt "242841733-0-137605"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-137604
+msgctxt "242841733-0-137604"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-137603
+msgctxt "242841733-0-137603"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-137602
+msgctxt "242841733-0-137602"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-137601
+msgctxt "242841733-0-137601"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-137600
+msgctxt "242841733-0-137600"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-137599
+msgctxt "242841733-0-137599"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-137598
+msgctxt "242841733-0-137598"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-137597
+msgctxt "242841733-0-137597"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-137596
+msgctxt "242841733-0-137596"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-137595
+msgctxt "242841733-0-137595"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-137594
+msgctxt "242841733-0-137594"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-137593
+msgctxt "242841733-0-137593"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-137592
+msgctxt "242841733-0-137592"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-137591
+msgctxt "242841733-0-137591"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-137590
+msgctxt "242841733-0-137590"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-137589
+msgctxt "242841733-0-137589"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-137588
+msgctxt "242841733-0-137588"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-137587
+msgctxt "242841733-0-137587"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-137586
+msgctxt "242841733-0-137586"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-137585
+msgctxt "242841733-0-137585"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-137584
+msgctxt "242841733-0-137584"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-137583
+msgctxt "242841733-0-137583"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-137582
+msgctxt "242841733-0-137582"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-137581
+msgctxt "242841733-0-137581"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-137580
+msgctxt "242841733-0-137580"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-137579
+msgctxt "242841733-0-137579"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-137578
+msgctxt "242841733-0-137578"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-137577
+msgctxt "242841733-0-137577"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-137576
+msgctxt "242841733-0-137576"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-137575
+msgctxt "242841733-0-137575"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-137574
+msgctxt "242841733-0-137574"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-137573
+msgctxt "242841733-0-137573"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-137572
+msgctxt "242841733-0-137572"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-137571
+msgctxt "242841733-0-137571"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-137570
+msgctxt "242841733-0-137570"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-137569
+msgctxt "242841733-0-137569"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-137568
+msgctxt "242841733-0-137568"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-137567
+msgctxt "242841733-0-137567"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-137566
+msgctxt "242841733-0-137566"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-137565
+msgctxt "242841733-0-137565"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-137564
+msgctxt "242841733-0-137564"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-137563
+msgctxt "242841733-0-137563"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-137562
+msgctxt "242841733-0-137562"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-137561
+msgctxt "242841733-0-137561"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-137560
+msgctxt "242841733-0-137560"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-137559
+msgctxt "242841733-0-137559"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-137558
+msgctxt "242841733-0-137558"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-137557
+msgctxt "242841733-0-137557"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-137556
+msgctxt "242841733-0-137556"
+msgid "Ring of Mechanical Acuity"
+msgstr "機械的精度の指輪"
+
+#: 242841733-0-137555
+msgctxt "242841733-0-137555"
+msgid "Fortified Brass Ring"
+msgstr "強化真鍮の指輪"
+
+#: 242841733-0-137554
+msgctxt "242841733-0-137554"
+msgid "Innate Axiom Ring"
+msgstr "内在公理の指輪"
+
+#: 242841733-0-137553
+msgctxt "242841733-0-137553"
+msgid "Shacklebreaker Ring"
+msgstr "シャックルブレイカーの指輪"
+
+#: 242841733-0-137552
+msgctxt "242841733-0-137552"
+msgid "Ring of Daedric Trickery"
+msgstr "デイドラの策略の指輪"
+
+#: 242841733-0-137551
+msgctxt "242841733-0-137551"
+msgid "Assassin's Ring"
+msgstr "アサシンの指輪"
+
+#: 242841733-0-137550
+msgctxt "242841733-0-137550"
+msgid "Pelinal's Ring"
+msgstr "ペリナルの指輪"
+
+#: 242841733-0-137549
+msgctxt "242841733-0-137549"
+msgid "Ring of Varen's Legacy"
+msgstr "ヴァレンレガシーの指輪"
+
+#: 242841733-0-137548
+msgctxt "242841733-0-137548"
+msgid "Gladiator's Ring"
+msgstr "剣闘士の指輪"
+
+#: 242841733-0-137547
+msgctxt "242841733-0-137547"
+msgid "Eternal Hunt Ring"
+msgstr "エターナルハントの指輪"
+
+#: 242841733-0-137546
+msgctxt "242841733-0-137546"
+msgid "Clever Alchemist Ring"
+msgstr "賢明な錬金術師の指輪"
+
+#: 242841733-0-137545
+msgctxt "242841733-0-137545"
+msgid "Ring of Tava's Favor"
+msgstr "ターヴァの寵ある指輪"
+
+#: 242841733-0-137544
+msgctxt "242841733-0-137544"
+msgid "Ring of Morkuldin"
+msgstr "モークルディンの指輪"
+
+#: 242841733-0-137543
+msgctxt "242841733-0-137543"
+msgid "Ring of the Code"
+msgstr "Ring of the Code"
+
+#: 242841733-0-137542
+msgctxt "242841733-0-137542"
+msgid "Ring of Trials"
+msgstr "試練の指輪"
+
+#: 242841733-0-137541
+msgctxt "242841733-0-137541"
+msgid "Ring of Julianos"
+msgstr "ジュリアノスの指輪"
+
+#: 242841733-0-137540
+msgctxt "242841733-0-137540"
+msgid "Ring of the Armor Master"
+msgstr "鎧匠の指輪"
+
+#: 242841733-0-137539
+msgctxt "242841733-0-137539"
+msgid "Ring of Redistribution"
+msgstr "マザッタンの指輪"
+
+#: 242841733-0-137538
+msgctxt "242841733-0-137538"
+msgid "Ring of the Noble's Conquest"
+msgstr "大親征の指輪"
+
+#: 242841733-0-137537
+msgctxt "242841733-0-137537"
+msgid "Ring of the Twice-Born Star"
+msgstr "双子星の指輪"
+
+#: 242841733-0-137536
+msgctxt "242841733-0-137536"
+msgid "Ring of the Arena"
+msgstr "アリーナの指輪"
+
+#: 242841733-0-137535
+msgctxt "242841733-0-137535"
+msgid "Ring of Shalidor's Curse"
+msgstr "呪えしシャリドールの指輪"
+
+#: 242841733-0-137534
+msgctxt "242841733-0-137534"
+msgid "Ring of Kagrenac's Hope"
+msgstr "カグレナクの希望なる指輪"
+
+#: 242841733-0-137533
+msgctxt "242841733-0-137533"
+msgid "Ring of the Eyes of Mara"
+msgstr "マーラの目なる指輪"
+
+#: 242841733-0-137532
+msgctxt "242841733-0-137532"
+msgid "Ring of Orgnum's Scales"
+msgstr "オルグヌム鱗の指輪"
+
+#: 242841733-0-137531
+msgctxt "242841733-0-137531"
+msgid "Ring of Alessia's Bulwark"
+msgstr "アレッシア守護の指輪"
+
+#: 242841733-0-137530
+msgctxt "242841733-0-137530"
+msgid "Ring of the Song of Lamae"
+msgstr "ラマエ歌の指輪"
+
+#: 242841733-0-137529
+msgctxt "242841733-0-137529"
+msgid "Ring of Hunding's Rage"
+msgstr "怒れるフンディングの指輪"
+
+#: 242841733-0-137528
+msgctxt "242841733-0-137528"
+msgid "Ring of the Willow's Path"
+msgstr "ウィロー路の指輪"
+
+#: 242841733-0-137527
+msgctxt "242841733-0-137527"
+msgid "Ring of Hist Bark"
+msgstr "ヒスト樹皮の指輪"
+
+#: 242841733-0-137526
+msgctxt "242841733-0-137526"
+msgid "Ring of Torug's Pact"
+msgstr "トラグパクトの指輪"
+
+#: 242841733-0-137525
+msgctxt "242841733-0-137525"
+msgid "Ring of the Spectre's Eye"
+msgstr "霊なる瞳の指輪"
+
+#: 242841733-0-137524
+msgctxt "242841733-0-137524"
+msgid "Ring of Oblivion's Foe"
+msgstr "反オブリビオンの指輪"
+
+#: 242841733-0-137523
+msgctxt "242841733-0-137523"
+msgid "Ring of Ashen Grip"
+msgstr "青白い柄の指輪"
+
+#: 242841733-0-137522
+msgctxt "242841733-0-137522"
+msgid "Ring of the Night Mother"
+msgstr "夜母の指輪"
+
+#: 242841733-0-137521
+msgctxt "242841733-0-137521"
+msgid "Magnus' Ring"
+msgstr "マグナスの指輪"
+
+#: 242841733-0-137520
+msgctxt "242841733-0-137520"
+msgid "Ring of Vampire's Kiss"
+msgstr "吸血鬼の口づけし指輪"
+
+#: 242841733-0-137519
+msgctxt "242841733-0-137519"
+msgid "Ring of the Seducer"
+msgstr "誘惑者の指輪"
+
+#: 242841733-0-137518
+msgctxt "242841733-0-137518"
+msgid "Whitestrake's Ring"
+msgstr "ホワイトストレークの指輪"
+
+#: 242841733-0-137517
+msgctxt "242841733-0-137517"
+msgid "Ring of Night's Silence"
+msgstr "寂夜の指輪"
+
+#: 242841733-0-137516
+msgctxt "242841733-0-137516"
+msgid "Ring of Twilight's Embrace"
+msgstr "黄昏の抱擁せし指輪"
+
+#: 242841733-0-137515
+msgctxt "242841733-0-137515"
+msgid "Ring of Death's Wind"
+msgstr "死を招く風の指輪"
+
+#: 242841733-0-137322
+msgctxt "242841733-0-137322"
+msgid "Olorime's Ring"
+msgstr "オロライムの指輪"
+
+#: 242841733-0-137131
+msgctxt "242841733-0-137131"
+msgid "Siroria's Ring"
+msgstr "シロリアの指輪"
+
+#: 242841733-0-136949
+msgctxt "242841733-0-136949"
+msgid "Relequen's Ring"
+msgstr "レレクエンの指輪"
+
+#: 242841733-0-136767
+msgctxt "242841733-0-136767"
+msgid "Galenwe's Ring"
+msgstr "ガレンウェの指輪"
+
+#: 242841733-0-135526
+msgctxt "242841733-0-135526"
+msgid "Vanus's Ring"
+msgstr "ヴァヌスの指輪"
+
+#: 242841733-0-135344
+msgctxt "242841733-0-135344"
+msgid "Gryphon's Ring"
+msgstr "グリフォンの指輪"
+
+#: 242841733-0-135162
+msgctxt "242841733-0-135162"
+msgid "Gloom-Graced Ring"
+msgstr "闇の気品の指輪"
+
+#: 242841733-0-135133
+msgctxt "242841733-0-135133"
+msgid "Robust Ring of the Prophet"
+msgstr "預言者の指輪(頑丈)"
+
+#: 242841733-0-135132
+msgctxt "242841733-0-135132"
+msgid "Arcane Ring of the Prophet"
+msgstr "預言者の指輪(アルケイン)"
+
+#: 242841733-0-135131
+msgctxt "242841733-0-135131"
+msgid "Healthy Ring of the Prophet"
+msgstr "預言者の指輪(健康)"
+
+#: 242841733-0-134960
+msgctxt "242841733-0-134960"
+msgid "Right Ring of the Broken Soul"
+msgstr "壊れた魂の指輪(右)"
+
+#: 242841733-0-134955
+msgctxt "242841733-0-134955"
+msgid "Left Ring of the Broken Soul"
+msgstr "壊れた魂の指輪(左)"
+
+#: 242841733-0-134724
+msgctxt "242841733-0-134724"
+msgid "TEMP"
+msgstr "TEMP"
+
+#: 242841733-0-134722
+msgctxt "242841733-0-134722"
+msgid "Ring of Summerset's Champion"
+msgstr "サマーセットチャンピオンの指輪"
+
+#: 242841733-0-134673
+msgctxt "242841733-0-134673"
+msgid "Automaton Gem"
+msgstr "オートマトンの宝石"
+
+#: 242841733-0-133600
+msgctxt "242841733-0-133600"
+msgid "Ring of Unfathomable Darkness"
+msgstr "深淵の暗黒の指輪"
+
+#: 242841733-0-133598
+msgctxt "242841733-0-133598"
+msgid "Mad Tinkerer's Ring"
+msgstr "狂気の鋳掛屋の指輪"
+
+#: 242841733-0-133596
+msgctxt "242841733-0-133596"
+msgid "Livewire Ring"
+msgstr "ライブワイヤーの指輪"
+
+#: 242841733-0-133039
+msgctxt "242841733-0-133039"
+msgid "Ring of Unfathomable Darkness"
+msgstr "深淵の暗黒の指輪"
+
+#: 242841733-0-132848
+msgctxt "242841733-0-132848"
+msgid "Mad Tinkerer's Ring"
+msgstr "狂気の鋳掛屋の指輪"
+
+#: 242841733-0-132666
+msgctxt "242841733-0-132666"
+msgid "Livewire Ring"
+msgstr "ライブワイヤーの指輪"
+
+#: 242841733-0-129300
+msgctxt "242841733-0-129300"
+msgid "Plague Slinger Ring"
+msgstr "疫病の運び手の指輪"
+
+#: 242841733-0-129109
+msgctxt "242841733-0-129109"
+msgid "Jorvuld's Guidance Ring"
+msgstr "ジョルバルドの導きの指輪"
+
+#: 242841733-0-128927
+msgctxt "242841733-0-128927"
+msgid "Curse of Doylemish Ring"
+msgstr "ドイルミッシュの呪いの指輪"
+
+#: 242841733-0-128745
+msgctxt "242841733-0-128745"
+msgid "Trappings Of Invigoration Ring"
+msgstr "活力の証の指輪"
+
+#: 242841733-0-128554
+msgctxt "242841733-0-128554"
+msgid "Caluurion's Legacy Ring"
+msgstr "カルウリオンの遺産の指輪"
+
+#: 242841733-0-128372
+msgctxt "242841733-0-128372"
+msgid "Ulfnor's Favor Ring"
+msgstr "ウルフノールの加護の指輪"
+
+#: 242841733-0-128126
+msgctxt "242841733-0-128126"
+msgid "Blooddrinker Ring"
+msgstr "ブラッドドリンカーの指輪"
+
+#: 242841733-0-127935
+msgctxt "242841733-0-127935"
+msgid "Flame Blossom Ring"
+msgstr "炎の花の指輪"
+
+#: 242841733-0-127753
+msgctxt "242841733-0-127753"
+msgid "Hagraven's Garden Ring"
+msgstr "ハグレイヴン庭園の指輪"
+
+#: 242841733-0-127523
+msgctxt "242841733-0-127523"
+msgid "Pillar Of Nirn Ring"
+msgstr "ニルンの柱の指輪"
+
+#: 242841733-0-127332
+msgctxt "242841733-0-127332"
+msgid "Draugr's Rest Ring"
+msgstr "ドラウグルズレストの指輪"
+
+#: 242841733-0-127150
+msgctxt "242841733-0-127150"
+msgid "Ironblood Ring"
+msgstr "アイアンブラッドの指輪"
+
+#: 242841733-0-126078
+msgctxt "242841733-0-126078"
+msgid "Telvanni Retainer's Ring"
+msgstr "テルヴァンニの家臣の指輪"
+
+#: 242841733-0-126076
+msgctxt "242841733-0-126076"
+msgid "Governor's Ring of the War Maiden"
+msgstr "総督の戦乙女の指輪"
+
+#: 242841733-0-125693
+msgctxt "242841733-0-125693"
+msgid "Impregnable Armor Ring"
+msgstr "非貫通アーマーの指輪"
+
+#: 242841733-0-125691
+msgctxt "242841733-0-125691"
+msgid "Impregnable Armor Ring"
+msgstr "非貫通アーマーの指輪"
+
+#: 242841733-0-125689
+msgctxt "242841733-0-125689"
+msgid "Impregnable Armor Ring"
+msgstr "非貫通アーマーの指輪"
+
+#: 242841733-0-124467
+msgctxt "242841733-0-124467"
+msgid "Inventor's Guard Ring"
+msgstr "発明家の守りの指輪"
+
+#: 242841733-0-124276
+msgctxt "242841733-0-124276"
+msgid "Master Architect Ring"
+msgstr "匠の技の指輪"
+
+#: 242841733-0-124094
+msgctxt "242841733-0-124094"
+msgid "War Machine Ring"
+msgstr "ウォーマシンの指輪"
+
+#: 242841733-0-123912
+msgctxt "242841733-0-123912"
+msgid "Automated Defense Ring"
+msgstr "自律防御の指輪"
+
+#: 242841733-0-123721
+msgctxt "242841733-0-123721"
+msgid "Wizard's Riposte Ring"
+msgstr "魔術師カウンターの指輪"
+
+#: 242841733-0-123530
+msgctxt "242841733-0-123530"
+msgid "Knight Slayer Ring"
+msgstr "騎士殺しの指輪"
+
+#: 242841733-0-123348
+msgctxt "242841733-0-123348"
+msgid "Coward's Gear Ring"
+msgstr "臆病な歯車の指輪"
+
+#: 242841733-0-123166
+msgctxt "242841733-0-123166"
+msgid "Vanguard's Challenge Ring"
+msgstr "挑む先遣隊の指輪"
+
+#: 242841733-0-122983
+msgctxt "242841733-0-122983"
+msgid "Defiler's Ring"
+msgstr "冒涜者の指輪"
+
+#: 242841733-0-122792
+msgctxt "242841733-0-122792"
+msgid "War Maiden's Ring"
+msgstr "戦乙女の指輪"
+
+#: 242841733-0-122610
+msgctxt "242841733-0-122610"
+msgid "Warrior-Poet's Ring"
+msgstr "戦詩人の指輪"
+
+#: 242841733-0-117641
+msgctxt "242841733-0-117641"
+msgid "Ring of the Shield Breaker"
+msgstr "シールドブレイカーの指輪"
+
+#: 242841733-0-117639
+msgctxt "242841733-0-117639"
+msgid "Reactive Ring"
+msgstr "反応型指輪"
+
+#: 242841733-0-117637
+msgctxt "242841733-0-117637"
+msgid "Ring of the Powerful Assault"
+msgstr "強襲者の指輪"
+
+#: 242841733-0-117635
+msgctxt "242841733-0-117635"
+msgid "Ring of the Phoenix"
+msgstr "不死鳥の指輪"
+
+#: 242841733-0-117633
+msgctxt "242841733-0-117633"
+msgid "Ring of Meritorious Service"
+msgstr "勲功の指輪"
+
+#: 242841733-0-117451
+msgctxt "242841733-0-117451"
+msgid "Ring of the Shield Breaker"
+msgstr "シールドブレイカーの指輪"
+
+#: 242841733-0-117269
+msgctxt "242841733-0-117269"
+msgid "Reactive Ring"
+msgstr "反応型指輪"
+
+#: 242841733-0-117087
+msgctxt "242841733-0-117087"
+msgid "Ring of the Powerful Assault"
+msgstr "強襲者の指輪"
+
+#: 242841733-0-116896
+msgctxt "242841733-0-116896"
+msgid "Ring of the Phoenix"
+msgstr "不死鳥の指輪"
+
+#: 242841733-0-116705
+msgctxt "242841733-0-116705"
+msgid "Ring of Meritorious Service"
+msgstr "勲功の指輪"
+
+#: 242841733-0-116523
+msgctxt "242841733-0-116523"
+msgid "Ring of the Black Rose"
+msgstr "ブラックローズの指輪"
+
+#: 242841733-0-116521
+msgctxt "242841733-0-116521"
+msgid "Ring of the Black Rose"
+msgstr "ブラックローズの指輪"
+
+#: 242841733-0-116519
+msgctxt "242841733-0-116519"
+msgid "Ring of the Black Rose"
+msgstr "ブラックローズの指輪"
+
+#: 242841733-0-114651
+msgctxt "242841733-0-114651"
+msgid "Ring of Syvarra's Scales"
+msgstr "シヴァラの鱗の指輪"
+
+#: 242841733-0-114460
+msgctxt "242841733-0-114460"
+msgid "Ring of Bahraha's Curse"
+msgstr "バーラハの呪いの指輪"
+
+#: 242841733-0-113926
+msgctxt "242841733-0-113926"
+msgid "Ring of the Immortal Yokeda"
+msgstr "不死なるヨケダの指輪"
+
+#: 242841733-0-113744
+msgctxt "242841733-0-113744"
+msgid "Ring of the Two-Fanged Snake"
+msgstr "双牙蛇の指輪"
+
+#: 242841733-0-113553
+msgctxt "242841733-0-113553"
+msgid "Aether Ring of Strategy"
+msgstr "エセルの戦略の指輪"
+
+#: 242841733-0-113371
+msgctxt "242841733-0-113371"
+msgid "Ring of the Advancing Yokeda"
+msgstr "前進するヨケダの指輪"
+
+#: 242841733-0-113189
+msgctxt "242841733-0-113189"
+msgid "Ophidian Ring of Venom"
+msgstr "オフィディアの毒の指輪"
+
+#: 242841733-0-112998
+msgctxt "242841733-0-112998"
+msgid "Aether Ring of Destruction"
+msgstr "エセルの破壊の指輪"
+
+#: 242841733-0-112816
+msgctxt "242841733-0-112816"
+msgid "Ring of the Resilient Yokeda"
+msgstr "強靱なヨケダの指輪"
+
+#: 242841733-0-112634
+msgctxt "242841733-0-112634"
+msgid "Ophidian Ring of Celerity"
+msgstr "オフィディアの素早さの指輪"
+
+#: 242841733-0-112443
+msgctxt "242841733-0-112443"
+msgid "Ring of Mending"
+msgstr "癒し手の指輪"
+
+#: 242841733-0-112243
+msgctxt "242841733-0-112243"
+msgid "Ring of the Imperium"
+msgstr "帝国の指輪"
+
+#: 228378404-0-1121
+msgctxt "228378404-0-1121"
+msgid "Alexia Dencent bestowed this ring for aiding her outside Aldcroft."
+msgstr "アレクシア・デンセントは、アルドクロフト脱出を手助けした礼として、この指輪を授けた。"
+
+#: 242841733-0-111870
+msgctxt "242841733-0-111870"
+msgid "Spell Power Cure Ring"
+msgstr "呪文攻撃治癒の指輪"
+
+#: 242841733-0-111688
+msgctxt "242841733-0-111688"
+msgid "Ring of Leeching"
+msgstr "吸血の指輪"
+
+#: 242841733-0-111506
+msgctxt "242841733-0-111506"
+msgid "Ring of Sheer Venom"
+msgstr "純粋な毒の指輪"
+
+#: 242841733-0-111315
+msgctxt "242841733-0-111315"
+msgid "Ring of the Scathing Mage"
+msgstr "辛辣な魔術師の指輪"
+
+#: 242841733-0-111133
+msgctxt "242841733-0-111133"
+msgid "Rattlecage Ring"
+msgstr "ラトルケージの指輪"
+
+#: 242841733-0-110951
+msgctxt "242841733-0-110951"
+msgid "Ring of Oblivion"
+msgstr "オブリビオンの指輪"
+
+#: 242841733-0-110760
+msgctxt "242841733-0-110760"
+msgid "Ring of the Worm Cult"
+msgstr "虫の教団の指輪"
+
+#: 242841733-0-110578
+msgctxt "242841733-0-110578"
+msgid "Jolting Ring"
+msgstr "大揺れの指輪"
+
+#: 242841733-0-110396
+msgctxt "242841733-0-110396"
+msgid "Storm Master's Ring"
+msgstr "嵐マスターの指輪"
+
+#: 242841733-0-110205
+msgctxt "242841733-0-110205"
+msgid "Overwhelming Ring"
+msgstr "圧倒的な指輪"
+
+#: 242841733-0-110023
+msgctxt "242841733-0-110023"
+msgid "Ring of Nikulas"
+msgstr "ニクラスの指輪"
+
+#: 242841733-0-10996
+msgctxt "242841733-0-10996"
+msgid "Pact Signet"
+msgstr "パクトの印章"
+
+#: 242841733-0-10994
+msgctxt "242841733-0-10994"
+msgid "Bloodstone Ring"
+msgstr "ブラッドストーンの指輪"
+
+#: 228378404-0-10986
+msgctxt "228378404-0-10986"
+msgid "The ring's opalescent surface appears to change with your every movement."
+msgstr "この指輪のオパールのような表面は着用者の動きに合わせて色を変える。"
+
+#: 242841733-0-109650
+msgctxt "242841733-0-109650"
+msgid "Ring of Durok's Bane"
+msgstr "デュロクの破滅なる指輪"
+
+#: 242841733-0-10961
+msgctxt "242841733-0-10961"
+msgid "Tazkad's Band"
+msgstr "タズカッドのバンド"
+
+#: 242841733-0-109459
+msgctxt "242841733-0-109459"
+msgid "Ring of the Warlock"
+msgstr "妖術師の指輪"
+
+#: 242841733-0-109277
+msgctxt "242841733-0-109277"
+msgid "Ice Furnace Ring"
+msgstr "氷炉の指輪"
+
+#: 228378404-0-10919
+msgctxt "228378404-0-10919"
+msgid "This ring is only given to loyal agents of Queen Ayrenn for service and sacrifice."
+msgstr "この指輪はアイレン女王の忠実な密偵の貢献と奉仕に対してのみ与えられる。"
+
+#: 242841733-0-108913
+msgctxt "242841733-0-108913"
+msgid "Ring of Truth"
+msgstr "真実の指輪"
+
+#: 242841733-0-108731
+msgctxt "242841733-0-108731"
+msgid "Ring of the Sergeant"
+msgstr "軍曹の指輪"
+
+#: 242841733-0-108549
+msgctxt "242841733-0-108549"
+msgid "Barkskin Ring"
+msgstr "バークスキンの指輪"
+
+#: 242841733-0-10838
+msgctxt "242841733-0-10838"
+msgid "Ring of Ambition"
+msgstr "野心の指輪"
+
+#: 242841733-0-108367
+msgctxt "242841733-0-108367"
+msgid "Ring of the Dreugh King Slayer"
+msgstr "ドゥルー王殺しの指輪"
+
+#: 242841733-0-108185
+msgctxt "242841733-0-108185"
+msgid "Ring of the Viper"
+msgstr "毒蛇の指輪"
+
+#: 242841733-0-108003
+msgctxt "242841733-0-108003"
+msgid "Ring of the Knightmare"
+msgstr "ナイト・メアの指輪"
+
+#: 242841733-0-107812
+msgctxt "242841733-0-107812"
+msgid "Ring of Prayer"
+msgstr "祈りの指輪"
+
+#: 242841733-0-107630
+msgctxt "242841733-0-107630"
+msgid "Knight-Errant's Ring"
+msgstr "遍歴の騎士の指輪"
+
+#: 242841733-0-107448
+msgctxt "242841733-0-107448"
+msgid "Bone Pirate's Ring"
+msgstr "骨の海賊の指輪"
+
+#: 242841733-0-107257
+msgctxt "242841733-0-107257"
+msgid "Ring of the Undaunted Unweaver"
+msgstr "アンドーンテッドのほころびた指輪"
+
+#: 242841733-0-107075
+msgctxt "242841733-0-107075"
+msgid "Hulking Draugr's Ring"
+msgstr "ドラウグル・ハルキングの指輪"
+
+#: 242841733-0-106884
+msgctxt "242841733-0-106884"
+msgid "Ring of the Magicka Furnace"
+msgstr "マジカ炉の指輪"
+
+#: 242841733-0-106702
+msgctxt "242841733-0-106702"
+msgid "Ring of Medusa"
+msgstr "メドゥーサの指輪"
+
+#: 242841733-0-106520
+msgctxt "242841733-0-106520"
+msgid "Ring of the Undaunted Infiltrator"
+msgstr "アンドーンテッドの潜入者の指輪"
+
+#: 242841733-0-106329
+msgctxt "242841733-0-106329"
+msgid "Lamia's Ring"
+msgstr "ラミアの指輪"
+
+#: 242841733-0-106147
+msgctxt "242841733-0-106147"
+msgid "Ebon Ring"
+msgstr "黒檀の指輪"
+
+#: 242841733-0-105965
+msgctxt "242841733-0-105965"
+msgid "Leviathan Ring"
+msgstr "リヴァイアサンの指輪"
+
+#: 242841733-0-105774
+msgctxt "242841733-0-105774"
+msgid "Ring of the Lich"
+msgstr "リッチの指輪"
+
+#: 242841733-0-105592
+msgctxt "242841733-0-105592"
+msgid "Duneripper Ring"
+msgstr "デューンリッパーの指輪"
+
+#: 242841733-0-105401
+msgctxt "242841733-0-105401"
+msgid "Treasure Hunter's Ring"
+msgstr "トレジャーハンターの指輪"
+
+#: 242841733-0-105219
+msgctxt "242841733-0-105219"
+msgid "Sword Dancer's Ring"
+msgstr "ソードダンサーの指輪"
+
+#: 242841733-0-105037
+msgctxt "242841733-0-105037"
+msgid "Hircine's Ring"
+msgstr "ハーシーンの指輪"
+
+#: 242841733-0-104855
+msgctxt "242841733-0-104855"
+msgid "Embershield Ring"
+msgstr "エンバーシールドの指輪"
+
+#: 242841733-0-104673
+msgctxt "242841733-0-104673"
+msgid "Sunderflame Ring"
+msgstr "サンダーフレイムの指輪"
+
+#: 242841733-0-104482
+msgctxt "242841733-0-104482"
+msgid "Burning Spellweave Ring"
+msgstr "炎上するスペルウィーブの指輪"
+
+#: 242841733-0-104300
+msgctxt "242841733-0-104300"
+msgid "Automaton's Ring"
+msgstr "オートマトンの指輪"
+
+#: 242841733-0-104109
+msgctxt "242841733-0-104109"
+msgid "Ring of the Netch's Touch"
+msgstr "ネッチの接触の指輪"
+
+#: 242841733-0-103927
+msgctxt "242841733-0-103927"
+msgid "Toothrow Ring"
+msgstr "トゥースロウの指輪"
+
+#: 242841733-0-103736
+msgctxt "242841733-0-103736"
+msgid "Ring of the Combat Physician"
+msgstr "戦闘医薬師の指輪"
+
+#: 242841733-0-103554
+msgctxt "242841733-0-103554"
+msgid "Ring of the Undaunted Bastion"
+msgstr "アンドーンテッド砦の指輪"
+
+#: 242841733-0-103363
+msgctxt "242841733-0-103363"
+msgid "Light Speaker's Ring"
+msgstr "光の代弁者の指輪"
+
+#: 242841733-0-10333
+msgctxt "242841733-0-10333"
+msgid "Merchant's Favor Ring"
+msgstr "商人の好意の指輪"
+
+#: 242841733-0-103172
+msgctxt "242841733-0-103172"
+msgid "Spider Cultist's Ring"
+msgstr "クモの教団信者の指輪"
+
+#: 242841733-0-102990
+msgctxt "242841733-0-102990"
+msgid "Spelunker's Ring"
+msgstr "スペランカーの指輪"
+
+#: 242841733-0-102808
+msgctxt "242841733-0-102808"
+msgid "Ring of the Tormentor"
+msgstr "拷問者の指輪"
+
+#: 242841733-0-10274
+msgctxt "242841733-0-10274"
+msgid "Tah-Tehat's Ring"
+msgstr "ター・テハトの指輪"
+
+#: 242841733-0-102626
+msgctxt "242841733-0-102626"
+msgid "Jailbreaker Ring"
+msgstr "牢破りの指輪"
+
+#: 242841733-0-102435
+msgctxt "242841733-0-102435"
+msgid "Ring of Sanctuary"
+msgstr "聖域の指輪"
+
+#: 242841733-0-102253
+msgctxt "242841733-0-102253"
+msgid "Blessed Ring"
+msgstr "祝福された指輪"
+
+#: 242841733-0-102071
+msgctxt "242841733-0-102071"
+msgid "Stygian Ring"
+msgstr "ステュクスの指輪"
+
+#: 242841733-0-101880
+msgctxt "242841733-0-101880"
+msgid "Prisoner's Ring"
+msgstr "囚人の指輪"
+
+#: 242841733-0-101697
+msgctxt "242841733-0-101697"
+msgid "Ring of Draugr Heritage"
+msgstr "ドラウグル伝来の指輪"
+
+#: 242841733-0-101515
+msgctxt "242841733-0-101515"
+msgid "Witchman's Ring"
+msgstr "魔法使いの指輪"
+
+#: 242841733-0-101324
+msgctxt "242841733-0-101324"
+msgid "Ysgramor's Ring"
+msgstr "イスグラモルの指輪"
+
+#: 242841733-0-101142
+msgctxt "242841733-0-101142"
+msgid "Ring of Soulshine"
+msgstr "魂の輝きの指輪"
+
+#: 242841733-0-100951
+msgctxt "242841733-0-100951"
+msgid "Smuggler's Ring"
+msgstr "密売人の指輪"
+
+#: 242841733-0-100769
+msgctxt "242841733-0-100769"
+msgid "Seventh Legion's Ring"
+msgstr "第七軍団の指輪"
+
+#: 242841733-0-100587
+msgctxt "242841733-0-100587"
+msgid "Spriggan's Ring"
+msgstr "スプリガンの指輪"
+
+#: 242841733-0-100396
+msgctxt "242841733-0-100396"
+msgid "Vampire Lord's Ring"
+msgstr "吸血鬼の王の指輪"
+
+#: 242841733-0-100211
+msgctxt "242841733-0-100211"
+msgid "Fiord's Ring"
+msgstr "フィヨルドの指輪"
+
+#: 242841733-0-100020
+msgctxt "242841733-0-100020"
+msgid "Ring of Stendarr"
+msgstr "ステンダールの指輪"

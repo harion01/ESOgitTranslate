@@ -1,0 +1,149 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-76461
+msgctxt "132143172-0-76461"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+msgstr "훔친 물건을 장물아비에게 판매하는 가격이 <<1>>만큼 증가합니다. 아이템 세탁에는 적용되지 않습니다."
+
+#: 198758357-0-76461
+msgctxt "198758357-0-76461"
+msgid "Haggling IV"
+msgstr "Haggling IV"
+
+#: 132143172-0-76460
+msgctxt "132143172-0-76460"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+msgstr "훔친 물건을 장물아비에게 판매하는 가격이 <<1>>만큼 증가합니다. 아이템 세탁에는 적용되지 않습니다."
+
+#: 198758357-0-76460
+msgctxt "198758357-0-76460"
+msgid "Haggling III"
+msgstr "Haggling III"
+
+#: 132143172-0-76459
+msgctxt "132143172-0-76459"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+msgstr "훔친 물건을 장물아비에게 판매하는 가격이 <<1>>만큼 증가합니다. 아이템 세탁에는 적용되지 않습니다."
+
+#: 198758357-0-76459
+msgctxt "198758357-0-76459"
+msgid "Haggling II"
+msgstr "Haggling II"
+
+#: 132143172-0-76458
+msgctxt "132143172-0-76458"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+msgstr "훔친 물건을 장물아비에게 판매하는 가격이 <<1>>만큼 증가합니다. 아이템 세탁에는 적용되지 않습니다."
+
+#: 198758357-0-76458
+msgctxt "198758357-0-76458"
+msgid "Haggling"
+msgstr "Haggling"
+
+#: 132143172-0-76457
+msgctxt "132143172-0-76457"
+msgid "Bounty is decreased by <<1>> after 3 minutes."
+"\nHeat is decreased by <<2>> after 3 seconds."
+msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
+"\n히트가 3초 후 <<2>>만큼 감소합니다."
+
+#: 198758357-0-76457
+msgctxt "198758357-0-76457"
+msgid "Swiftly Forgotten IV"
+msgstr "Swiftly Forgotten IV"
+
+#: 132143172-0-76456
+msgctxt "132143172-0-76456"
+msgid "Bounty is decreased by <<1>> after 3 minutes."
+"\nHeat is decreased by <<2>> after 3 seconds."
+msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
+"\n히트가 3초 후 <<2>>만큼 감소합니다."
+
+#: 198758357-0-76456
+msgctxt "198758357-0-76456"
+msgid "Swiftly Forgotten III"
+msgstr "Swiftly Forgotten III"
+
+#: 132143172-0-76455
+msgctxt "132143172-0-76455"
+msgid "Bounty is decreased by <<1>> after 3 minutes."
+"\nHeat is decreased by <<2>> after 3 seconds."
+msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
+"\n히트가 3초 후 <<2>>만큼 감소합니다."
+
+#: 198758357-0-76455
+msgctxt "198758357-0-76455"
+msgid "Swiftly Forgotten II"
+msgstr "Swiftly Forgotten II"
+
+#: 132143172-0-76454
+msgctxt "132143172-0-76454"
+msgid "Bounty is decreased by <<1>> after 3 minutes."
+"\nHeat is decreased by <<2>> after 3 seconds."
+msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
+"\n히트가 3초 후 <<2>>만큼 감소합니다."
+
+#: 198758357-0-76454
+msgctxt "198758357-0-76454"
+msgid "Swiftly Forgotten"
+msgstr "Swiftly Forgotten"
+
+#: 132143172-0-76453
+msgctxt "132143172-0-76453"
+msgid "Decreases detection range of Witnesses and Guards by <<1>>. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you."
+msgstr "목격자와 경비병에게 발각되는 범위가 <<1>>만큼 감소합니다. 목격자와 경비병이 범죄를 알아챌 확률이 감소합니다.  경비병이 당신을 호위 중일때는 이 기술의 효과를 얻지 못합니다."
+
+#: 198758357-0-76453
+msgctxt "198758357-0-76453"
+msgid "Veil of Shadows"
+msgstr "Veil of Shadows"
+
+#: 132143172-0-76452
+msgctxt "132143172-0-76452"
+msgid "When you have Bounty and are in combat, you have a chance to spot a "Footpad" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."
+msgstr "현상금을 가지고 전투 중일 때, 은신처가 있는 마을에 "발판"을 발견할 수 있는 기회가 주어집니다. 발판과 상호 작용하면 플레이어가 가장 가까운 은신처로 안전하게 운반됩니다."
+
+#: 198758357-0-76452
+msgctxt "198758357-0-76452"
+msgid "Timely Escape"
+msgstr "Timely Escape"
+
+#: 132143172-0-76451
+msgctxt "132143172-0-76451"
+msgid "When a guard accosts you, you may use Clemency once per day. If used, the Guard will not arrest you or take your money and stolen goods. Additionally, Guards will not attempt to accost you for 1 minute after you use Clemency unless you commit other crimes."
+msgstr "하루에 한 번 경비병에게 심문을 당할 때, 관용을 사용할 수 있습니다. 사용하면 경비병이 연행하지 않고, 현상금이나 훔친 물건을 가져가지도 않습니다. 게다가, 관용을 사용하고 1분 동안은 추가로 다른 범죄를 저지르지 않는 이상, 경비병에게 심문을 당하지 않습니다."
+
+#: 198758357-0-76451
+msgctxt "198758357-0-76451"
+msgid "Clemency"
+msgstr "Clemency"
+
+#: 132143172-0-74580
+msgctxt "132143172-0-74580"
+msgid "Thieves Troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild."
+msgstr "Thieves Troves는 탐리엘 전역의 은닉처에 숨겨져 있습니다. 도둑 길드의 일원만이 그것을 열 수 있습니다."
+
+#: 198758357-0-74580
+msgctxt "198758357-0-74580"
+msgid "Finders Keepers"
+msgstr "Finders Keepers"

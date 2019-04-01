@@ -1,0 +1,254 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-45574
+msgctxt "132143172-0-45574"
+msgid "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<1>>."
+"\n"
+"\nReduces the cost of Roll Dodge by <<2>>% for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<3>>."
+msgstr "달리기의 이동 속도 증가량이 장착한 경갑의 갯수 x |cffffff3|r% 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<1>>"
+"\n"
+"\n구르기의 소모량이 장착한 경갑의 갯수 x <<2>>% 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<3>>"
+
+#: 198758357-0-45574
+msgctxt "198758357-0-45574"
+msgid "Athletics"
+msgstr "Athletics"
+
+#: 132143172-0-45572
+msgctxt "132143172-0-45572"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "무기 피해량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-45572
+msgctxt "198758357-0-45572"
+msgid "Agility"
+msgstr "Agility"
+
+#: 132143172-0-45567
+msgctxt "132143172-0-45567"
+msgid "Reduces the cost of Sneak by |cffffff7|r% per piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<1>>."
+"\n"
+"\nReduces the size of your detection area while Sneaking by |cffffff5|r% per piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "은신 상태에서 이동시 스태미나 소모량이 장착한 경갑의 갯수 x |cffffff7|r% 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<1>>"
+"\n"
+"\n은신 상태에서 발각 되는 범위가 장착한 경갑의 갯수 x |cffffff5|r% 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<2>>"
+
+#: 198758357-0-45567
+msgctxt "198758357-0-45567"
+msgid "Improved Sneak"
+msgstr "Improved Sneak"
+
+#: 132143172-0-45565
+msgctxt "132143172-0-45565"
+msgid "Increases your Stamina Recovery by <<1>> per piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the Stamina cost of your abilities by <<3>> per piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "스태미나 재생량이 장착한 경갑의 갯수 x <<1>> 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<2>>"
+"\n"
+"\n어빌리티의 스태미나 소모량이 장착한 경갑의 갯수 x <<3>> 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<4>>"
+
+#: 198758357-0-45565
+msgctxt "198758357-0-45565"
+msgid "Wind Walker"
+msgstr "Wind Walker"
+
+#: 132143172-0-45564
+msgctxt "132143172-0-45564"
+msgid "Increases your Weapon Critical rating by <<1>> for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "무기 치명타 확률이 장착한 경갑의 갯수 x <<1>> 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<2>>"
+
+#: 198758357-0-45564
+msgctxt "198758357-0-45564"
+msgid "Dexterity"
+msgstr "Dexterity"
+
+#: 132143172-0-45563
+msgctxt "132143172-0-45563"
+msgid "Increases your Weapon Critical rating by <<1>> for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "무기 치명타 확률이 장착한 경갑의 갯수 x <<1>> 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<2>>"
+
+#: 198758357-0-45563
+msgctxt "198758357-0-45563"
+msgid "Dexterity"
+msgstr "Dexterity"
+
+#: 132143172-0-39195
+msgctxt "132143172-0-39195"
+msgid "Shroud yourself in mist to gain <<1>>, decreasing damage from area attacks by <<2>> for <<3>>."
+"\n"
+"\nEach piece of Medium Armor worn removes and grants immunity to snares and immobilizations for |cffffff.5|r seconds."
+msgstr "안개로 당신을 감싸 <<1>> 효과를 얻어 <<3>> 동안 범위 공격에 받는 피해를 <<2>>만큼 감소 시킵니다."
+"\n"
+"\n장착한 경갑의 갯수 x |cffffff5|r초 만큼 이동 속도 감소와 이동 불가 효과를 제거하고 면역이 됩니다."
+
+#: 198758357-0-39195
+msgctxt "198758357-0-39195"
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: 132143172-0-39192
+msgctxt "132143172-0-39192"
+msgid "Shroud yourself in mist to gain <<1>>, reducing  damage from area attacks by <<2>> for <<3>>."
+"\n"
+"\nEach piece of Medium Armor worn increases the duration of this ability by |cffffff5|r%."
+msgstr "안개로 당신을 감싸 <<1>> 효과를 얻어 <<3>> 동안 범위 공격에 받는 피해를 <<2>>만큼 감소 시킵니다."
+"\n"
+"\n장착한 경갑의 갯수 x |cffffff5|r% 만큼 지속 시간이 증가합니다."
+
+#: 198758357-0-39192
+msgctxt "198758357-0-39192"
+msgid "Elude"
+msgstr "Elude"
+
+#: 132143172-0-29743
+msgctxt "132143172-0-29743"
+msgid "Increases your Weapon Critical rating by <<1>> for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "무기 치명타 확률이 장착한 경갑의 갯수 x <<1>> 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<2>>"
+
+#: 198758357-0-29743
+msgctxt "198758357-0-29743"
+msgid "Dexterity"
+msgstr "Dexterity"
+
+#: 132143172-0-29742
+msgctxt "132143172-0-29742"
+msgid "Increases the Movement Speed bonus of Sprint by |cffffff2|r% for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<1>>."
+"\n"
+"\nReduces the cost of Roll Dodge by <<2>>% for each piece of Medium Armor equipped."
+"\n"
+"\nCurrent bonus: <<3>>."
+msgstr "달리기의 이동 속도 증가량이 장착한 경갑의 갯수 x |cffffff2|r% 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<1>>"
+"\n"
+"\n구르기의 소모량이 장착한 경갑의 갯수 x <<2>>% 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<3>>"
+
+#: 198758357-0-29742
+msgctxt "198758357-0-29742"
+msgid "Athletics"
+msgstr "Athletics"
+
+#: 132143172-0-29738
+msgctxt "132143172-0-29738"
+msgid "Reduces the cost of Sneak by |cffffff4|r% per piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<1>>."
+"\n"
+"\nReduces the size of your detection area while Sneaking by |cffffff3|r% per piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "은신 상태에서 이동시 스태미나 소모량이 장착한 경갑의 갯수 x |cffffff4|r% 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<1>>"
+"\n"
+"\n은신 상태에서 발각 되는 범위가 장착한 경갑의 갯수 x |cffffff3|r% 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<2>>"
+
+#: 198758357-0-29738
+msgctxt "198758357-0-29738"
+msgid "Improved Sneak"
+msgstr "Improved Sneak"
+
+#: 132143172-0-29687
+msgctxt "132143172-0-29687"
+msgid "Increases your Stamina Recovery by <<1>> for each piece of Medium Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the Stamina cost of your abilities by <<3>> for each piece of Medium Armor equipped.  "
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "스태미나 재생량이 장착한 경갑의 갯수 x <<1>> 만큼 증가합니다."
+"\n"
+"\n현재 증가량: <<2>>"
+"\n"
+"\n어빌리티의 스태미나 소모량이 장착한 경갑의 갯수 x <<3>> 만큼 감소합니다."
+"\n"
+"\n현재 감소량: <<4>>"
+
+#: 198758357-0-29687
+msgctxt "198758357-0-29687"
+msgid "Wind Walker"
+msgstr "Wind Walker"
+
+#: 132143172-0-29686
+msgctxt "132143172-0-29686"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "무기 피해량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-29686
+msgctxt "198758357-0-29686"
+msgid "Agility"
+msgstr "Agility"
+
+#: 132143172-0-29556
+msgctxt "132143172-0-29556"
+msgid "Shroud yourself in mist to gain  <<1>>, reducing damage from area attacks by <<2>> for <<3>>."
+msgstr "안개로 당신을 감싸 <<1>> 효과를 얻어 <<3>> 동안 범위 공격에 받는 피해를 <<2>>만큼 감소 시킵니다."
+"\n"
+
+#: 198758357-0-29556
+msgctxt "198758357-0-29556"
+msgid "Evasion"
+msgstr "Evasion"

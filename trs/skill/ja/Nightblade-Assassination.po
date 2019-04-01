@@ -1,0 +1,381 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-61927
+msgctxt "132143172-0-61927"
+msgid "Build up deadly momentum to gain Minor Berserk and Minor Endurance, increasing your damage done by <<1>> and Stamina Recovery by <<2>> for <<3>>. "
+"\n"
+"\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks changes this ability into <<4>>, allowing you to fire a single shot from a spectral bow for half cost at an enemy to deal <<5>>."
+msgstr "勢いをつけて狂戦士(弱)と耐久(弱)を得る。ダメージを<<1>>、スタミナ再生を<<2>>、<<3>>の間増加させる。\\r"
+"\n\\r"
+"\n発動中、軽攻撃か重攻撃を敵に|cffffff5|r回与えるとこれが<<4>>に変わり、形なき弓を半分のコストで撃って<<5>>を与える。"
+
+#: 198758357-0-61927
+msgctxt "198758357-0-61927"
+msgid "Relentless Focus"
+msgstr "残忍な集中力"
+
+#: 132143172-0-61919
+msgctxt "132143172-0-61919"
+msgid "Build up deadly momentum to gain Minor Berserk, increasing your damage done by <<1>> for <<2>>. "
+"\n"
+"\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks changes this ability into <<3>>, allowing you to fire a single shot from a spectral bow for half cost at an enemy to deal <<4>>."
+msgstr "勢いをつけて狂戦士(弱)を得る。ダメージを<<1>>、<<2>>の間増加させる。\\r"
+"\n\\r"
+"\n発動中、軽攻撃か重攻撃を敵に|cffffff5|r回与えるとこれが<<3>>に変わり、形なき弓を半分のコストで撃って<<4>>を与える。"
+
+#: 198758357-0-61919
+msgctxt "198758357-0-61919"
+msgid "Merciless Resolve"
+msgstr "無慈悲な決意"
+
+#: 132143172-0-61902
+msgctxt "132143172-0-61902"
+msgid "Build up deadly momentum to gain Minor Berserk, increasing your damage done by <<1>> for <<2>>."
+"\n"
+"\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks changes this ability into <<3>>, allowing you to fire a single shot from a spectral bow for half cost at an enemy to deal <<4>>."
+msgstr "勢いをつけて狂戦士(弱)を得る。ダメージを<<1>>、<<2>>の間増加させる。\\r"
+"\n\\r"
+"\n発動中、軽攻撃か重攻撃を敵に|cffffff5|r回与えるとこれが<<3>>に変わり、形なき弓を半分のコストで撃って<<4>>を与える。"
+
+#: 198758357-0-61902
+msgctxt "198758357-0-61902"
+msgid "Grim Focus"
+msgstr "冷酷な集中力"
+
+#: 132143172-0-45060
+msgctxt "132143172-0-45060"
+msgid "Increases your Critical Damage by <<1>>. "
+"\n"
+"\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by <<2>>  for <<3>>."
+msgstr "クリティカルダメージを<<1>>増加させる。\\r"
+"\n\\r"
+"\nクリティカルダメージを与えると、自身とグループは獰猛(弱)を得る。武器クリティカル率が<<2>>、<<3>>の間上昇する。"
+
+#: 198758357-0-45060
+msgctxt "198758357-0-45060"
+msgid "Hemorrhage"
+msgstr "解剖学"
+
+#: 132143172-0-45053
+msgctxt "132143172-0-45053"
+msgid "Increases your Weapon and Spell Critical ratings by <<1>> for each Assassination ability slotted."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している暗殺アビリティ1つにつき、武器クリティカルと呪文クリティカルが<<1>>上昇する。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45053
+msgctxt "198758357-0-45053"
+msgid "Pressure Points"
+msgstr "急所の知識"
+
+#: 132143172-0-45048
+msgctxt "132143172-0-45048"
+msgid "When an enemy dies within <<1>> of being damaged by one of your Assassination abilities, you restore <<2>> Magicka or Stamina, whichever maximum is higher."
+msgstr "敵が暗殺アビリティでダメージを受けてから<<1>>以内に死んだ時、マジカかスタミナのうち、より最大値が高い方を<<2>>回復する。"
+
+#: 198758357-0-45048
+msgctxt "198758357-0-45048"
+msgid "Executioner"
+msgstr "死刑執行人"
+
+#: 132143172-0-45038
+msgctxt "132143172-0-45038"
+msgid "Increases your Weapon and Spell Damage by <<1>>% while you are Sneaking or invisible."
+"\n"
+"\nIncreases the duration of the stun from Sneak by |cffffff100|r%."
+msgstr "隠密か透明化状態の時、武器ダメージと呪文ダメージが<<1>>%増加する。\\r"
+"\n\\r"
+"\n隠密からの気絶時間が|cffffff100|r%延長される。"
+
+#: 198758357-0-45038
+msgctxt "198758357-0-45038"
+msgid "Master Assassin"
+msgstr "熟練の暗殺者"
+
+#: 132143172-0-36968
+msgctxt "132143172-0-36968"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing their Physical Resistance and Spell Resistance by <<1>> for <<2>>."
+"\n"
+"\nYou can detect marked enemies even if they use stealth or invisibility for <<3>>. When a marked enemy dies, you heal for <<4>>% of your Max Health."
+"\n"
+"\nYou can only have one <<5>> active at a time."
+msgstr "敵の弱点を暴いて破砕(強)と侵害(強)を付与し、物理耐性と呪文耐性を<<1>>、<<2>>の間低下させる。\\r"
+"\n\\r"
+"\n標的が透明状態かステルス状態になったとしても<<3>>の間見抜くことができ、標的の敵が死ぬと最大体力の<<4>>%が回復する。\\r"
+"\n\\r"
+"\n<<5>>は一度に1つしか発動できない。"
+
+#: 198758357-0-36968
+msgctxt "198758357-0-36968"
+msgid "Piercing Mark"
+msgstr "洞察の印"
+
+#: 132143172-0-36967
+msgctxt "132143172-0-36967"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing Physical Resistance and Spell Resistance by <<1>> for <<2>>."
+"\n"
+"\nWhen a marked enemy dies, you heal for <<3>>% of your Max Health and you gain Major Berserk, increasing your damage done by <<4>>  for  <<5>>."
+"\n"
+"\nYou can only have one <<6>> active at a time."
+msgstr "敵の弱点を暴いて破砕(強)と侵害(強)を付与し、物理耐性と呪文耐性を<<1>>、<<2>>の間低下させる。\\r"
+"\n\\r"
+"\n標的が死ぬと最大体力の<<3>>%が回復して狂戦士(強)を獲得し、ダメージが<<4>>、<<5>>の間増大する。\\r"
+"\n\\r"
+"\n<<6>>は一度に1つしか発動できない。"
+
+#: 198758357-0-36967
+msgctxt "198758357-0-36967"
+msgid "Reaper's Mark"
+msgstr "死神の印"
+
+#: 132143172-0-36641
+msgctxt "132143172-0-36641"
+msgid "Increases your Critical Damage by <<1>>. "
+"\n"
+"\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by <<2>> for <<3>>."
+msgstr "クリティカルダメージを<<1>>増加させる。\\r"
+"\n\\r"
+"\nクリティカルダメージを与えると、自身とグループは獰猛(弱)を得る。武器クリティカル率が<<2>>、<<3>>の間上昇する。"
+
+#: 198758357-0-36641
+msgctxt "198758357-0-36641"
+msgid "Hemorrhage"
+msgstr "解剖学"
+
+#: 132143172-0-36636
+msgctxt "132143172-0-36636"
+msgid "Increases your Weapon and Spell Critical ratings by <<1>> for each Assassination ability slotted."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している暗殺アビリティ1つにつき、武器クリティカルと呪文クリティカルが<<1>>上昇する。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>"
+
+#: 198758357-0-36636
+msgctxt "198758357-0-36636"
+msgid "Pressure Points"
+msgstr "急所の知識"
+
+#: 132143172-0-36630
+msgctxt "132143172-0-36630"
+msgid "When an enemy dies within <<1>> of being damaged by one of your Assassination abilities, you restore <<2>> Magicka or Stamina, whichever maximum is higher."
+msgstr "敵が暗殺アビリティでダメージを受けてから<<1>>以内に死んだ時、マジカかスタミナのうち、より最大値が高い方を<<2>>回復する。"
+
+#: 198758357-0-36630
+msgctxt "198758357-0-36630"
+msgid "Executioner"
+msgstr "死刑執行人"
+
+#: 132143172-0-36616
+msgctxt "132143172-0-36616"
+msgid "Increases your Weapon and Spell Damage by <<1>>% while you are Sneaking or invisible."
+"\n"
+"\nIncreases the duration of the stun from Sneak by |cffffff100|r%."
+msgstr "隠密か透明化状態の時、武器ダメージと呪文ダメージが<<1>>%増加する。\\r"
+"\n\\r"
+"\n隠密からの気絶時間が|cffffff100|r%延長される。"
+
+#: 198758357-0-36616
+msgctxt "198758357-0-36616"
+msgid "Master Assassin"
+msgstr "熟練の暗殺者"
+
+#: 132143172-0-36514
+msgctxt "132143172-0-36514"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>> and increasing your damage against them by <<2>> for <<3>>."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<4>>."
+"\n"
+"\nWhile slotted, any time you kill an enemy you gain <<5>> Ultimate."
+msgstr "回転攻撃で敵に大ダメージを与える。<<1>>を与え、その敵に対する与ダメージが<<2>>、<<3>>の間上昇する。\\r"
+"\n\\r"
+"\nさらに汚染(強)を敵に付与し、その被回復力と体力再生を<<4>>低下させる。\\r"
+"\n\\r"
+"\nスロットに装備している間、敵を倒すごとにアルティマを<<5>>獲得できる。"
+
+#: 198758357-0-36514
+msgctxt "198758357-0-36514"
+msgid "Soul Harvest"
+msgstr "魂の収穫者"
+
+#: 132143172-0-36508
+msgctxt "132143172-0-36508"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>>, and increasing your damage against them by <<2>> for <<3>>. Stuns enemies for <<4>> when cast with 120 Ultimate or more."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<5>>."
+msgstr "回転攻撃で敵に大ダメージを与える。<<1>>を与える。その敵に対する与ダメージが<<2>>、<<3>>の間上昇する。120アルティマ以上で詠唱されると、敵は<<4>>の間気絶する。\\r"
+"\n\\r"
+"\nさらに汚染(強)を付与し、その敵の被回復力と体力再生を<<5>>低下させる。"
+
+#: 198758357-0-36508
+msgctxt "198758357-0-36508"
+msgid "Incapacitating Strike"
+msgstr "拘束攻撃"
+
+#: 132143172-0-35419
+msgctxt "132143172-0-35419"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by <<1>> for <<2>>."
+"\n"
+"\nGrants Major Expedition, increasing your Movement Speed <<3>> for <<4>>."
+msgstr "幻影のオーラを身にまとうことで回避(強)を獲得し、範囲攻撃による被ダメージを<<1>>、<<2>>の間低下させる。\\r"
+"\n\\r"
+"\n迅速(強)も付与され、移動速度が<<2>>、<<4>>間上昇する。"
+
+#: 198758357-0-35419
+msgctxt "198758357-0-35419"
+msgid "Double Take"
+msgstr "影の錯覚"
+
+#: 132143172-0-35414
+msgctxt "132143172-0-35414"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, Minor Resolve, and Minor Ward, reducing damage from area attacks by <<1>> and increasing your Physical and Spell Resistance by <<2>> for <<3>>."
+msgstr "幻影のオーラを身にまとうことで、回避(強)、強固(弱)、結界(弱)を獲得し、範囲攻撃による被ダメージを<<1>>低下させ、物理耐性と呪文耐性を<<2>>上昇させる。効果は<<3>>の間続く。"
+
+#: 198758357-0-35414
+msgctxt "198758357-0-35414"
+msgid "Mirage"
+msgstr "蜃気楼"
+
+#: 132143172-0-34851
+msgctxt "132143172-0-34851"
+msgid "Throw a magic blade with lethal precision to strike an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+msgstr "魔法の刃を投げて正確に急所を攻撃し、<<1>>を与える。残り体力が<<3>>%未満の敵に対しては通常よりも<<2>>%多くダメージを与えられる。"
+
+#: 198758357-0-34851
+msgctxt "198758357-0-34851"
+msgid "Impale"
+msgstr "串刺し"
+
+#: 132143172-0-34843
+msgctxt "132143172-0-34843"
+msgid "Thrust a caustic blade with lethal precision to stab an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+"\n"
+"\nHeals you for <<4>>% of your Max Health if the enemy dies within <<5>> of being struck."
+msgstr "魔法の刃で正確に急所を突き刺し、<<1>>を与える。残り体力が<<3>>%未満の敵に対しては通常よりも<<2>>%多くダメージを与えられる。\\r"
+"\n\\r"
+"\n自身の最大体力値の<<4>>%分の体力が、敵が被ダメージから<<5>>以内に死亡すると回復する。"
+
+#: 198758357-0-34843
+msgctxt "198758357-0-34843"
+msgid "Killer's Blade"
+msgstr "殺人者の刃"
+
+#: 132143172-0-33398
+msgctxt "132143172-0-33398"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>> and increasing your damage against them by <<2>> for <<3>>."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<4>>."
+msgstr "回転攻撃で敵に大ダメージを与える。<<1>>を与え、その敵に対する与ダメージが<<2>>、<<3>>の間上昇する。\\r"
+"\n\\r"
+"\nさらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。"
+
+#: 198758357-0-33398
+msgctxt "198758357-0-33398"
+msgid "Death Stroke"
+msgstr "死の一閃"
+
+#: 132143172-0-33386
+msgctxt "132143172-0-33386"
+msgid "Thrust a magic blade with lethal precision to stab an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+msgstr "魔法の刃で正確に急所を突き刺し、<<1>>を与える。残り体力が<<3>>%未満の敵に対しては通常よりも<<2>>%多くダメージを与えられる。"
+
+#: 198758357-0-33386
+msgctxt "198758357-0-33386"
+msgid "Assassin's Blade"
+msgstr "アサシンブレイド"
+
+#: 132143172-0-33375
+msgctxt "132143172-0-33375"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, decreasing damage from area attacks by <<1>> for <<2>>."
+msgstr "幻影のオーラを身にまとうことで回避(強)を獲得し、範囲攻撃による被ダメージを<<1>>、<<2>>の間低下させる。"
+
+#: 198758357-0-33375
+msgctxt "198758357-0-33375"
+msgid "Blur"
+msgstr "ブラー"
+
+#: 132143172-0-33357
+msgctxt "132143172-0-33357"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing their Physical Resistance and Spell Resistance by <<1>> for <<2>>."
+"\n"
+"\nWhen a marked enemy dies, you heal for <<3>>% of your Max Health."
+"\n"
+"\nYou can only have one <<4>> active at a time."
+msgstr "敵の弱点を暴いて破砕(強)と侵害(強)を付与し、物理耐性と呪文耐性を<<1>>、<<2>>の間低下させる。\\r"
+"\n\\r"
+"\n標的が死亡すると、最大体力値の<<3>>%分の体力が回復する。\\r"
+"\n\\r"
+"\n<<4>>は一度に1つしか発動できない。"
+
+#: 198758357-0-33357
+msgctxt "198758357-0-33357"
+msgid "Mark Target"
+msgstr "標的捕捉"
+
+#: 132143172-0-25493
+msgctxt "132143172-0-25493"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAfter teleporting you unleash a fan of knives, dealing an additional <<4>> over <<5>> to the target and nearby enemies."
+msgstr "影の中を素早く移動して近づき、敵を奇襲する。<<1>>を与え、敵の移動速度を<<2>>、<<3>>の間低下させる。\\r"
+"\n\\r"
+"\n転移した後にはナイフを扇状に投げ、標的と周囲の敵に<<4>>を<<5>>の間追加で与える。"
+
+#: 198758357-0-25493
+msgctxt "198758357-0-25493"
+msgid "Lotus Fan"
+msgstr "影の舞"
+
+#: 132143172-0-25484
+msgctxt "132143172-0-25484"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nAlso grants you Empower, increasing the damage of your next Light Attack by <<3>>."
+"\n"
+"\nIf the target is a player, they are briefly snared instead of being stunned."
+msgstr "影の中を素早く移動して敵を不意打ちする。敵は<<1>>を受け、<<2>>の間気絶する。\\r"
+"\n\\r"
+"\nさらに力が付与され、次の軽攻撃時のダメージが<<3>>上昇する。\\r"
+"\n\\r"
+"\n標的がプレイヤーだった場合、気絶はしないが一時的に減速させる。"
+
+#: 198758357-0-25484
+msgctxt "198758357-0-25484"
+msgid "Ambush"
+msgstr "待ち伏せ"
+
+#: 132143172-0-18342
+msgctxt "132143172-0-18342"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and stunning them for <<2>>. "
+"\n"
+"\nIf the target is a player, they are briefly snared instead of being stunned."
+msgstr "影の中を素早く移動して敵を不意打ちする。敵は<<1>>を受け、<<2>>の間気絶する。\\r"
+"\n\\r"
+"\n標的がプレイヤーだった場合、気絶はしないが一時的に減速させる。"
+
+#: 198758357-0-18342
+msgctxt "198758357-0-18342"
+msgid "Teleport Strike"
+msgstr "神速の影"

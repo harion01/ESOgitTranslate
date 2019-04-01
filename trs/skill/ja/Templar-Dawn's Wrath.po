@@ -1,0 +1,353 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-63046
+msgctxt "132143172-0-63046"
+msgid "Burn an enemy with a ray of holy fire, dealing  <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health."
+"\n"
+"\nAlso deals up to |cffffff20|r% more damage in proportion to your current Magicka."
+msgstr "一筋の聖なる炎で敵を燃やし、<<1>>を<<2>>の間与える。残り体力が<<4>>%未満の敵に対しては最大<<3>>%の追加ダメージを与える。\\r"
+"\n\\r"
+"\n現在のマジカに比例した最大|cffffff20|r%までの追加ダメージも与える。"
+
+#: 198758357-0-63046
+msgctxt "198758357-0-63046"
+msgid "Radiant Oppression"
+msgstr "光熱の抑圧"
+
+#: 132143172-0-63044
+msgctxt "132143172-0-63044"
+msgid "Burn an enemy with a ray of holy fire, dealing  <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health."
+"\n"
+"\nYou heal for <<5>> of the damage inflicted."
+msgstr "一筋の聖なる炎で敵を燃やし、<<1>>を<<2>>の間与える。残り体力が<<4>>%未満の敵に対しては最大<<3>>%の追加ダメージを与える。\\r"
+"\n\\r"
+"\n与えたダメージの<<5>>だけ、自身を回復する。"
+
+#: 198758357-0-63044
+msgctxt "198758357-0-63044"
+msgid "Radiant Glory"
+msgstr "輝く栄光"
+
+#: 132143172-0-63029
+msgctxt "132143172-0-63029"
+msgid "Burn an enemy with a ray of holy fire, dealing <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health."
+msgstr "一筋の聖なる炎で敵を燃やし、<<1>>を<<2>>の間与える。残り体力が<<4>>%未満の敵に対しては最大<<3>>%の追加ダメージを与える。"
+
+#: 198758357-0-63029
+msgctxt "198758357-0-63029"
+msgid "Radiant Destruction"
+msgstr "破滅の光"
+
+#: 132143172-0-45216
+msgctxt "132143172-0-45216"
+msgid "Casting a Dawn's Wrath ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "暁の憤怒アビリティを唱えると<<1>>アルティマを獲得できる。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-45216
+msgctxt "198758357-0-45216"
+msgid "Prism"
+msgstr "プリズム"
+
+#: 132143172-0-45215
+msgctxt "132143172-0-45215"
+msgid "Casting a Dawn's Wrath ability grants <<1>> to you and your group for <<2>>, increasing your Spell Damage by <<3>>."
+msgstr "唱えると自身とグループに<<1>>を付与し、呪文ダメージを<<2>>、<<3>>増加させる。"
+
+#: 198758357-0-45215
+msgctxt "198758357-0-45215"
+msgid "Illuminate"
+msgstr "啓蒙"
+
+#: 132143172-0-45214
+msgctxt "132143172-0-45214"
+msgid "Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by <<1>>."
+msgstr "太陽の炎、日蝕、ソーラーフレア、ノヴァのアビリティ持続時間を<<1>>増加させる。"
+
+#: 198758357-0-45214
+msgctxt "198758357-0-45214"
+msgid "Enduring Rays"
+msgstr "不朽の光"
+
+#: 132143172-0-45212
+msgctxt "132143172-0-45212"
+msgid "Reduces the Magicka, Stamina, and Ultimate costs of your abilities by <<1>>."
+msgstr "マジカ、スタミナ、アルティメットアビリティの消費が<<1>>減少する。"
+
+#: 198758357-0-45212
+msgctxt "198758357-0-45212"
+msgid "Restoring Spirit"
+msgstr "回復の霊魂"
+
+#: 132143172-0-31744
+msgctxt "132143172-0-31744"
+msgid "Casting a Dawn's Wrath ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "暁の憤怒アビリティを唱えると<<1>>アルティマを獲得できる。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-31744
+msgctxt "198758357-0-31744"
+msgid "Prism"
+msgstr "プリズム"
+
+#: 132143172-0-31743
+msgctxt "132143172-0-31743"
+msgid "Casting a Dawn's Wrath ability grants <<1>> to you and your group for <<2>>, increasing your Spell Damage by <<3>>."
+msgstr "唱えると自身とグループに<<1>>を付与し、呪文ダメージを<<2>>、<<3>>増加させる。"
+
+#: 198758357-0-31743
+msgctxt "198758357-0-31743"
+msgid "Illuminate"
+msgstr "啓蒙"
+
+#: 132143172-0-31739
+msgctxt "132143172-0-31739"
+msgid "Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by <<1>>."
+msgstr "太陽の炎、日蝕、ソーラーフレア、ノヴァのアビリティ持続時間を<<1>>増加させる。"
+
+#: 198758357-0-31739
+msgctxt "198758357-0-31739"
+msgid "Enduring Rays"
+msgstr "不朽の光"
+
+#: 132143172-0-31721
+msgctxt "132143172-0-31721"
+msgid "Reduces the Magicka, Stamina, and Ultimate costs of your abilities by <<1>>."
+msgstr "マジカ、スタミナ、アルティメットアビリティの消費が<<1>>減少する。"
+
+#: 198758357-0-31721
+msgctxt "198758357-0-31721"
+msgid "Restoring Spirit"
+msgstr "回復の霊魂"
+
+#: 132143172-0-22110
+msgctxt "132143172-0-22110"
+msgid "Conjure a ball of solar energy to heave at an enemy, dealing <<1>>."
+"\n"
+"\nAfflicts the target and nearby enemies with <<2>>, reducing their healing received and Health Recovery by <<3>> for <<4>>."
+"\n "
+"\nAlso grants you <<5>>, increasing the damage of your next Light Attack by <<6>>."
+msgstr "太陽エネルギーの塊を呼び出し、敵に投げつけて<<1>>を与える。\\r"
+"\n\\r"
+"\n<<2>>の影響を受けている敵は体力が回復しにくくなり、被回復力と体力再生が<<3>>、<<4>>間低下する。\\r"
+"\n\\r"
+"\nこのアビリティを使うと<<5>>が付与され、次の軽攻撃時の与ダメージが<<6>>上昇する。"
+
+#: 198758357-0-22110
+msgctxt "198758357-0-22110"
+msgid "Dark Flare"
+msgstr "ダークフレア"
+
+#: 132143172-0-22095
+msgctxt "132143172-0-22095"
+msgid "Conjure solar energy to blast enemies around you, dealing <<1>> every <<2>> for <<3>>."
+"\n"
+"\nWhile this ability is active you gain <<4>>, increasing the damage of your Light Attacks by <<5>>."
+msgstr "太陽エネルギーを召喚し、周囲にいる敵を吹き飛ばす。<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\nこのアビリティが有効な間は<<4>>が付与され、次の軽攻撃時のダメージが<<5>>上昇する。"
+
+#: 198758357-0-22095
+msgctxt "198758357-0-22095"
+msgid "Solar Barrage"
+msgstr "太陽の弾幕"
+
+#: 132143172-0-22057
+msgctxt "132143172-0-22057"
+msgid "Conjure a ball of solar energy to heave at an enemy, dealing <<1>>."
+"\n"
+"\nAlso grants you <<2>>, increasing the damage of your next Light Attack by <<3>>."
+msgstr "太陽エネルギーの塊を呼び出し、敵に投げつけて<<1>>を与える。\\r"
+"\n\\r"
+"\nこのアビリティを使うと<<2>>が付与され、次の軽攻撃時の与ダメージが<<3>>上昇する。"
+
+#: 198758357-0-22057
+msgctxt "198758357-0-22057"
+msgid "Solar Flare"
+msgstr "ソーラーフレア"
+
+#: 132143172-0-22006
+msgctxt "132143172-0-22006"
+msgid "Envelop enemy in a lightless sphere, causing <<1>> and healing you for <<2>> each time they use a direct damage attack."
+msgstr "光なき半球で敵を包み、敵が直接ダメージ攻撃を使用するたびに<<1>>を与え、自身を<<2>>回復する。"
+
+#: 198758357-0-22006
+msgctxt "198758357-0-22006"
+msgid "Total Dark"
+msgstr "完全な暗闇"
+
+#: 132143172-0-22004
+msgctxt "132143172-0-22004"
+msgid "Envelop enemy in a lightless sphere, causing <<1>> each time they use a direct damage attack."
+"\n"
+"\nPlace volatile magnetic energy on an enemy which explodes after <<2>>, dealing <<3>> to them and nearby enemies."
+msgstr "光なき半球で敵を包み、敵が直接ダメージ攻撃を使用するたびに<<1>>を与える。\\r"
+"\n\\r"
+"\n揮発性の磁気エネルギーを敵に与え、<<2>>後に爆発して<<3>>をその敵と周囲の敵に与える。"
+
+#: 198758357-0-22004
+msgctxt "198758357-0-22004"
+msgid "Unstable Core"
+msgstr "不安定なコア"
+
+#: 132143172-0-21776
+msgctxt "132143172-0-21776"
+msgid "Envelop enemy in a lightless sphere, causing <<1>> each time they use a direct damage attack."
+msgstr "光なき半球で敵を包み、敵が直接ダメージ攻撃を使用するたびに<<1>>を与える。"
+
+#: 198758357-0-21776
+msgctxt "198758357-0-21776"
+msgid "Eclipse"
+msgstr "日蝕"
+
+#: 132143172-0-21765
+msgctxt "132143172-0-21765"
+msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken for <<2>> and releasing |cffffff20|r% of it as additional Magic Damage to them."
+"\n"
+"\nMaximum copied damage: <<3>>."
+"\n"
+"\nWhen the effect ends, a pool of sunlight remains attached to the enemy, healing you and nearby allies for <<4>> Health every <<5>> for <<6>>."
+msgstr "穢れなき太陽の光を召喚して敵を滅ぼす。<<1>>を与え、<<2>>の間受けたダメージを全てコピーし、そのうちの|cffffff20|r%を魔法ダメージとして相手に与える。\\r"
+"\n\\r"
+"\n最大コピーダメージ: <<3>>\\r"
+"\n\\r"
+"\n効果が切れるとその敵に太陽光が留まり、自分と近くにいる味方の体力を<<4>>、<<5>>ごとに<<6>>間回復する。"
+
+#: 198758357-0-21765
+msgctxt "198758357-0-21765"
+msgid "Purifying Light"
+msgstr "浄化の光"
+
+#: 132143172-0-21763
+msgctxt "132143172-0-21763"
+msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken for <<2>> and releasing |cffffff20|r% of it as additional Physical Damage to them."
+"\n"
+"\nMaximum copied damage: <<3>>."
+"\n"
+"\nTargets are also afflicted with Minor Fracture and Minor Breach, reducing their Physical and Spell Resistance by <<4>> for <<5>>."
+msgstr "穢れなき太陽の光を召喚して敵を滅ぼす。<<1>>を与え、<<2>>の間受けたダメージを全てコピーし、そのうちの|cffffff20|r%を物理ダメージとして相手に与える。\\r"
+"\n\\r"
+"\n最大コピーダメージ: <<3>>\\r"
+"\n\\r"
+"\nさらに標的は破砕(弱)と侵害(弱)状態になり、物理耐性と呪文耐性が<<4>>、<<5>>の間低下する。"
+
+#: 198758357-0-21763
+msgctxt "198758357-0-21763"
+msgid "Power of the Light"
+msgstr "光の力"
+
+#: 132143172-0-21761
+msgctxt "132143172-0-21761"
+msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken for <<2>> and releasing |cffffff20|r% of it as additional Magic Damage to them."
+"\n"
+"\nMaximum copied damage: <<3>>."
+msgstr "穢れなき太陽の光を召喚して敵を滅ぼす。<<1>>を与え、<<2>>の間受けたダメージを全てコピーし、そのうちの|cffffff20|r%を魔法ダメージとして相手に与える。\\r"
+"\n\\r"
+"\n最大コピーダメージ: <<3>>"
+
+#: 198758357-0-21761
+msgctxt "198758357-0-21761"
+msgid "Backlash"
+msgstr "バックラッシュ"
+
+#: 132143172-0-21758
+msgctxt "132143172-0-21758"
+msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area. Also applies Major Maim, reducing enemy damage done by <<4>>. Major Maim persists on enemies who leave the Nova for <<5>>."
+"\n"
+"\nAn ally near the fragment can activate the |cffffffSupernova|r synergy, dealing <<6>> to all enemies in the area and stunning them for <<7>>."
+msgstr "太陽のかけらを呼び出し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。不自由(強)も付与し、敵の与ダメージを<<4>>減少させる。ノヴァの範囲を出た敵に対して、不自由(強)は<<5>>の間残る。\\r"
+"\n\\r"
+"\nかけらの近くの味方は|cffffffスーパーノヴァ|rシナジーを発動し、範囲内の敵全てに<<6>>を与え、<<7>>の間気絶させられる。"
+
+#: 198758357-0-21758
+msgctxt "198758357-0-21758"
+msgid "Solar Disturbance"
+msgstr "太陽の妨害"
+
+#: 132143172-0-21755
+msgctxt "132143172-0-21755"
+msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area and afflicting them with Major Maim, reducing their damage done by <<4>>."
+"\n"
+"\nAn ally near the fragment can activate the |cffffffGravity Crush|r synergy, dealing <<5>> to all enemies in the area and stunning them for <<6>>."
+msgstr "太陽のかけらを呼び出し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。影響された敵には不自由(強)を付与し、敵の与ダメージを<<4>>減少させる。\\r"
+"\n\\r"
+"\nかけらの近くの味方は|cffffffグラビティクラッシュ|rシナジーを発動し、範囲内の敵全てに<<5>>を与え、<<6>>の間気絶させられる。"
+
+#: 198758357-0-21755
+msgctxt "198758357-0-21755"
+msgid "Solar Prison"
+msgstr "ソーラープリズン"
+
+#: 132143172-0-21752
+msgctxt "132143172-0-21752"
+msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area and afflicting them with Major Maim, reducing their damage done by <<4>>."
+"\n"
+"\nAn ally near the fragment can activate the |cffffffSupernova|r synergy, dealing <<5>> to all enemies in the area and stunning them for <<6>>."
+msgstr "太陽のかけらを呼び出し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。影響された敵には不自由(強)を付与し、敵の与ダメージを<<4>>減少させる。\\r"
+"\n\\r"
+"\nかけらの近くの味方は|cffffffスーパーノヴァ|rシナジーを発動し、範囲内の敵全てに<<5>>を与え、<<6>>の間気絶させられる。"
+
+#: 198758357-0-21752
+msgctxt "198758357-0-21752"
+msgid "Nova"
+msgstr "ノヴァ"
+
+#: 132143172-0-21732
+msgctxt "132143172-0-21732"
+msgid "Blast up to three enemies with a charge of radiant heat, dealing <<1>>, an additional <<2>> over <<3>>, and reducing their Movement Speed by <<4>> for <<5>>."
+"\n"
+"\nUpon activation you gain <<6>>, increasing your Spell Critical rating by <<7>>."
+msgstr "放射熱で敵を3体まで吹き飛ばし、<<1>>を与えて追加で<<2>>を<<3>>の間与える。また、移動速度を<<4>>、<<5>>の間低下させる\\r"
+"\n\\r"
+"\n発動すると<<6>>が付与され、呪文クリティカルが<<7>>上昇する。"
+
+#: 198758357-0-21732
+msgctxt "198758357-0-21732"
+msgid "Reflective Light"
+msgstr "反射の光"
+
+#: 132143172-0-21729
+msgctxt "132143172-0-21729"
+msgid "Blast an enemy with a charge of radiant heat, dealing <<1>>, an additional <<2>> over <<3>>, and reducing their Movement Speed by <<4>> for <<5>>."
+"\n"
+"\nUpon activation you gain <<6>>, increasing your Spell Critical rating by <<7>>."
+msgstr "放射熱で敵を吹き飛ばす。<<1>>を与えた後、<<2>>を<<3>>の間与え、移動速度を<<4>>、<<5>>の間低下させ敵を炎上させる。\\r"
+"\n\\r"
+"\nこのアビリティを使用すると<<6>>が付与され、呪文クリティカルが<<7>>上昇する。"
+
+#: 198758357-0-21729
+msgctxt "198758357-0-21729"
+msgid "Vampire's Bane"
+msgstr "吸血鬼の災厄"
+
+#: 132143172-0-21726
+msgctxt "132143172-0-21726"
+msgid "Blast an enemy with a charge of radiant heat, dealing <<1>>, an additional <<2>> over <<3>>, and reducing their Movement Speed by <<4>> for <<5>>."
+"\n"
+"\nUpon activation you gain <<6>>, increasing your Spell Critical rating by <<7>>."
+msgstr "放射熱で敵を吹き飛ばす。<<1>>を与えた後、<<2>>を<<3>>の間与え、移動速度を<<4>>、<<5>>の間低下させ敵を炎上させる。\\r"
+"\n\\r"
+"\nこのアビリティを使用すると<<6>>が付与され、呪文クリティカルが<<7>>上昇する。"
+
+#: 198758357-0-21726
+msgctxt "198758357-0-21726"
+msgid "Sun Fire"
+msgstr "太陽の炎"

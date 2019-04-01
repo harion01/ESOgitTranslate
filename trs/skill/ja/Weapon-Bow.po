@@ -1,0 +1,361 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-85451
+msgctxt "132143172-0-85451"
+msgid "Summon a turret to unleash a barrage of arrows at an enemy, dealing <<1>> over <<2>>."
+msgstr "小塔を召喚して矢の雨を敵に降らせ、<<1>>を<<2>>の間与える。"
+
+#: 198758357-0-85451
+msgctxt "198758357-0-85451"
+msgid "Ballista"
+msgstr "バリスタ"
+
+#: 132143172-0-85257
+msgctxt "132143172-0-85257"
+msgid "Unleash a barrage of arrows at an enemy, dealing <<1>> over <<2>>. "
+"\n"
+"\nAfter the barrage ends you poison the enemy, dealing an additional <<3>> over <<4>>."
+"\n"
+"\nYou can move at full speed and are immune to all disabling effects while channeling this attack."
+msgstr "矢の雨を敵に降らせ、<<1>>を<<2>>の間与える。\\r"
+"\n\\r"
+"\n矢が切れると敵は毒を受け、追加で<<3>>を<<4>>の間受ける。\\r"
+"\n\\r"
+"\nこの攻撃のチャネリング中は全速で移動でき、状態異常攻撃を無効化できる。"
+
+#: 198758357-0-85257
+msgctxt "198758357-0-85257"
+msgid "Toxic Barrage"
+msgstr "毒の弾幕"
+
+#: 132143172-0-83465
+msgctxt "132143172-0-83465"
+msgid "Unleash a barrage of arrows at an enemy, dealing <<1>> over <<2>>. "
+"\n"
+"\nYou can move at full speed and are immune to all disabling effects while channeling this attack."
+msgstr "矢の雨を敵に降らせ、<<1>>を<<2>>の間与える。\\r"
+"\n\\r"
+"\nこの攻撃のチャネリング中は全速で移動でき、状態異常攻撃を無効化できる。"
+
+#: 198758357-0-83465
+msgctxt "198758357-0-83465"
+msgid "Rapid Fire"
+msgstr "ラピッドファイア"
+
+#: 132143172-0-45498
+msgctxt "132143172-0-45498"
+msgid "Grants you Major Expedition for <<1>> after you use Roll Dodge."
+"\n"
+"\nMajor Expedition increases your Movement Speed by <<2>>."
+msgstr "ロール回避使用後、<<1>>間、迅速(強)が付与される。\\r"
+"\n\\r"
+"\n迅速(強)は移動速度を<<2>>上昇させる。"
+
+#: 198758357-0-45498
+msgctxt "198758357-0-45498"
+msgid "Hasty Retreat"
+msgstr "迅速な撤退"
+
+#: 132143172-0-45497
+msgctxt "132143172-0-45497"
+msgid "Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by <<1>> for <<2>>, stacking up to |cffffff5|r times."
+msgstr "軽攻撃や重攻撃でダメージを与えると、弓アビリティのダメージが<<1>>、<<2>>の間上昇する。|cffffff5|r回まで累積する。"
+
+#: 198758357-0-45497
+msgctxt "198758357-0-45497"
+msgid "Hawk Eye"
+msgstr "鷹の目"
+
+#: 132143172-0-45494
+msgctxt "132143172-0-45494"
+msgid "Gives you a damage bonus of up to <<1>> against enemies at longer range."
+msgstr "遠くにいる敵を攻撃すると、最大で<<1>>のダメージボーナスが付与される。"
+
+#: 198758357-0-45494
+msgctxt "198758357-0-45494"
+msgid "Long Shots"
+msgstr "ロングショット"
+
+#: 132143172-0-45493
+msgctxt "132143172-0-45493"
+msgid "Reduces the Stamina cost of Bow abilities by <<1>>."
+msgstr "弓術アビリティのスタミナ消費が<<1>>減少する。"
+
+#: 198758357-0-45493
+msgctxt "198758357-0-45493"
+msgid "Ranger"
+msgstr "レンジャー"
+
+#: 132143172-0-45492
+msgctxt "132143172-0-45492"
+msgid "Increases Weapon Critical rating by <<1>>."
+msgstr "武器クリティカル率が<<1>>上昇する。"
+
+#: 198758357-0-45492
+msgctxt "198758357-0-45492"
+msgid "Accuracy"
+msgstr "精度"
+
+#: 132143172-0-38705
+msgctxt "132143172-0-38705"
+msgid "Fire a burst of arrows in one shot, dealing <<1>> to enemies in front of you and immobilizing them for <<2>>."
+"\n"
+"\nEven when enemies can move again, their Movement Speed is reduced by  <<3>> for <<4>>."
+msgstr "矢の集中射撃を一発で発射し、目の前の敵に<<1>>を与え、敵を<<2>>の間動けなくする。\\r"
+"\n\\r"
+"\n再び動けるようになっても、敵の移動速度は<<3>>、<<4>>の間減速する。"
+
+#: 198758357-0-38705
+msgctxt "198758357-0-38705"
+msgid "Bombard"
+msgstr "ボンバード"
+
+#: 132143172-0-38701
+msgctxt "132143172-0-38701"
+msgid "Fire a burst of arrows in one shot, dealing <<1>> to enemies in front of you. "
+"\n"
+"\nAlso reduces enemies' Movement Speed by  <<2>> for <<3>> and deals an additional <<4>> over <<5>>."
+msgstr "矢の集中射撃を一発で発射し、目の前の敵に<<1>>を与える。\\r"
+"\n\\r"
+"\nさらに敵の移動速度を<<2>>、<<3>>の間低下させ、追加の<<4>>を<<5>>の間与える。"
+
+#: 198758357-0-38701
+msgctxt "198758357-0-38701"
+msgid "Acid Spray"
+msgstr "酸の矢散布"
+
+#: 132143172-0-38695
+msgctxt "132143172-0-38695"
+msgid "Launch a multitude of arrows into the sky to rain down, dealing <<1>> to enemies in the target area every <<2>> for <<3>>."
+msgstr "複数の矢を空に放って矢の雨を降らせる。範囲内の敵に<<1>>を<<2>>ごとに<<3>>間与える。"
+
+#: 198758357-0-38695
+msgctxt "198758357-0-38695"
+msgid "Arrow Barrage"
+msgstr "弾幕"
+
+#: 132143172-0-38689
+msgctxt "132143172-0-38689"
+msgid "Launch a multitude of arrows into the sky to rain down, dealing <<1>> to enemies in the target area every <<2>> for <<3>>."
+msgstr "複数の矢を空に放って矢の雨を降らせる。範囲内の敵に<<1>>を<<2>>ごとに<<3>>間与える。"
+
+#: 198758357-0-38689
+msgctxt "198758357-0-38689"
+msgid "Endless Hail"
+msgstr "終わりなき歓呼"
+
+#: 132143172-0-38687
+msgctxt "132143172-0-38687"
+msgid "Plant a masterfully aimed arrow in an enemy's vital spot, dealing <<1>> and marking the target. "
+"\n"
+"\nThe mark increases the range from which the enemy can be hit by Bow attacks by <<2>> for <<3>>. "
+"\n"
+"\nAlso afflicts the enemy with <<4>>, which reduces their Physical Resistance by <<5>> for <<3>>."
+msgstr "矢で敵の急所を狙い撃ち、<<1>>を与えてマークを付ける。\\r"
+"\n\\r"
+"\nこの敵に対する弓攻撃の射程が<<2>>、<<3>>の間伸びる。\\r"
+"\n\\r"
+"\nさらに敵に<<4>>を与え、物理耐性を<<5>>、<<3>>の間低下させる。"
+
+#: 198758357-0-38687
+msgctxt "198758357-0-38687"
+msgid "Focused Aim"
+msgstr "精密射撃"
+
+#: 132143172-0-38685
+msgctxt "132143172-0-38685"
+msgid "Plant a masterfully aimed arrow in an enemy's vital spot, dealing <<1>> and applying the poison status effect."
+"\n"
+"\nAlso afflicts enemy with <<2>>, which reduces their healing received and Health Recovery by <<3>> for <<4>>."
+msgstr "矢で敵の急所を狙い撃ち、<<1>>のダメージと共に毒状態にする。\\r"
+"\n\\r"
+"\nさらに<<2>>の効果を与え、被回復力と体力再生を<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-38685
+msgctxt "198758357-0-38685"
+msgid "Lethal Arrow"
+msgstr "死の矢"
+
+#: 132143172-0-38672
+msgctxt "132143172-0-38672"
+msgid "Blast an enemy with an explosive arrow, dealing <<1>>, knocking them back <<2>>, and stunning them for <<3>>."
+"\n"
+"\nThe attack also knocks you backwards <<4>> away from the target."
+msgstr "爆発性の矢で敵を吹き飛ばす。<<1>>を与えて<<2>>ノックバックさせた後、<<3>>の間気絶状態にする。\\r"
+"\n\\r"
+"\n発動時、自分も<<4>>標的からノックバックする。"
+
+#: 198758357-0-38672
+msgctxt "198758357-0-38672"
+msgid "Magnum Shot"
+msgstr "マグナム弾"
+
+#: 132143172-0-38669
+msgctxt "132143172-0-38669"
+msgid "Blast an enemy with an explosive arrow, dealing <<1>>, knocking them back <<2>>, and stunning them for <<3>>."
+"\n"
+"\nAfter the stun ends, you heal for <<4>> Health."
+msgstr "爆発性の矢で敵を吹き飛ばす。<<1>>を与えて<<2>>ノックバックさせた後、<<3>>の間気絶状態にする。\\r"
+"\n\\r"
+"\n気絶が終わった後、体力を<<4>>回復する。"
+
+#: 198758357-0-38669
+msgctxt "198758357-0-38669"
+msgid "Draining Shot"
+msgstr "涸渇弾"
+
+#: 132143172-0-38660
+msgctxt "132143172-0-38660"
+msgid "Shoot an arrow coated in Baandari poison at an enemy, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nThe damage over time deals up to <<4>>% more damage to enemies under <<5>>% Health."
+msgstr "バーンダリの毒を塗った矢を敵に放つ。<<1>>を与え、さらに<<2>>を<<3>>の間与える。\\r"
+"\n\\r"
+"\n継続ダメージは最大<<4>>%までダメージが増加するが、これは敵の体力が<<5>>%以下になった場合に限定される。"
+
+#: 198758357-0-38660
+msgctxt "198758357-0-38660"
+msgid "Poison Injection"
+msgstr "毒注入"
+
+#: 132143172-0-38645
+msgctxt "132143172-0-38645"
+msgid "Shoot an arrow coated in Shadowscale poison at an enemy, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for <<4>>."
+msgstr "シャドウスケールの毒を塗った矢を敵に放ち、<<1>>と追加の<<2>>を、<<3>>の間与える。\\r"
+"\n\\r"
+"\nもし敵が詠唱を中断されると、<<4>>の間フラフラ状態になり、気絶する。"
+
+#: 198758357-0-38645
+msgctxt "198758357-0-38645"
+msgid "Venom Arrow"
+msgstr "猛毒の矢"
+
+#: 132143172-0-31271
+msgctxt "132143172-0-31271"
+msgid "Fire a burst of arrows in one shot, dealing <<1>> to enemies in front of you. "
+"\n"
+"\nAlso reduces enemies' Movement Speed by  <<2>> for <<3>>."
+msgstr "大量の矢を一度に放ち、目の前にいる敵に<<1>>を与える。\\r"
+"\n\\r"
+"\nさらに敵の移動速度を<<2>>、<<3>>間低下させる。"
+
+#: 198758357-0-31271
+msgctxt "198758357-0-31271"
+msgid "Arrow Spray"
+msgstr "弓矢散布"
+
+#: 132143172-0-30942
+msgctxt "132143172-0-30942"
+msgid "Reduces the Stamina cost of Bow abilities by <<1>>."
+msgstr "弓術アビリティのスタミナ消費が<<1>>減少する。"
+
+#: 198758357-0-30942
+msgctxt "198758357-0-30942"
+msgid "Ranger"
+msgstr "レンジャー"
+
+#: 132143172-0-30937
+msgctxt "132143172-0-30937"
+msgid "Gives you a damage bonus of up to <<1>> against enemies at longer range."
+msgstr "遠くにいる敵を攻撃すると、最大で<<1>>のダメージボーナスが付与される。"
+
+#: 198758357-0-30937
+msgctxt "198758357-0-30937"
+msgid "Long Shots"
+msgstr "ロングショット"
+
+#: 132143172-0-30936
+msgctxt "132143172-0-30936"
+msgid "Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by <<1>> for <<2>>, stacking up to |cffffff5|r times."
+msgstr "軽攻撃や重攻撃でダメージを与えると、弓アビリティのダメージが<<1>>、<<2>>の間上昇する。|cffffff5|r回まで累積する。"
+
+#: 198758357-0-30936
+msgctxt "198758357-0-30936"
+msgid "Hawk Eye"
+msgstr "鷹の目"
+
+#: 132143172-0-30930
+msgctxt "132143172-0-30930"
+msgid "Increases Weapon Critical rating by <<1>>."
+msgstr "武器クリティカル率が<<1>>上昇する。"
+
+#: 198758357-0-30930
+msgctxt "198758357-0-30930"
+msgid "Accuracy"
+msgstr "精度"
+
+#: 132143172-0-30923
+msgctxt "132143172-0-30923"
+msgid "Grants you Major Expedition for <<1>> after you use Roll Dodge."
+"\n"
+"\nMajor Expedition increases your Movement Speed by <<2>>."
+msgstr "ロール回避使用後、<<1>>間、迅速(強)が付与される。\\r"
+"\n\\r"
+"\n迅速(強)は移動速度を<<2>>上昇させる。"
+
+#: 198758357-0-30923
+msgctxt "198758357-0-30923"
+msgid "Hasty Retreat"
+msgstr "迅速な撤退"
+
+#: 132143172-0-28882
+msgctxt "132143172-0-28882"
+msgid "Plant a masterfully aimed arrow in an enemy's vital spot, dealing <<1>>."
+msgstr "矢で敵の急所を狙い撃ち、<<1>>を与える。"
+
+#: 198758357-0-28882
+msgctxt "198758357-0-28882"
+msgid "Snipe"
+msgstr "スナイプ"
+
+#: 132143172-0-28879
+msgctxt "132143172-0-28879"
+msgid "Blast an enemy with an explosive arrow, dealing <<1>>, knocking them back <<2>>, and stunning them for <<3>>."
+msgstr "爆発性の矢で敵を吹き飛ばす。<<1>>を与えて<<2>>ノックバックさせた後、<<3>>の間気絶状態にする。"
+
+#: 198758357-0-28879
+msgctxt "198758357-0-28879"
+msgid "Scatter Shot"
+msgstr "乱れ撃ち"
+
+#: 132143172-0-28876
+msgctxt "132143172-0-28876"
+msgid "Launch a multitude of arrows into the sky to rain down, dealing <<1>> to enemies in the target area every <<2>> for <<3>>."
+msgstr "複数の矢を空に放って矢の雨を降らせる。範囲内の敵に<<1>>を<<2>>ごとに<<3>>間与える。"
+
+#: 198758357-0-28876
+msgctxt "198758357-0-28876"
+msgid "Volley"
+msgstr "斉射"
+
+#: 132143172-0-28869
+msgctxt "132143172-0-28869"
+msgid "Shoot an arrow coated in Baandari poison at an enemy, dealing <<1>> and an additional <<2>> over <<3>>."
+msgstr "バーンダリの毒を塗った矢を敵に放つ。<<1>>を与え、さらに<<2>>を<<3>>の間与える。"
+
+#: 198758357-0-28869
+msgctxt "198758357-0-28869"
+msgid "Poison Arrow"
+msgstr "毒の矢"

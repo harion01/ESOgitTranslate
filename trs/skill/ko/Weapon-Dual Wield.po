@@ -1,0 +1,393 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-85187
+msgctxt "132143172-0-85187"
+msgid "Slash enemies in front of you, dealing <<1>> over <<2>> and healing you for <<3>> of the damage done."
+msgstr "전방의 적들을 베어 <<2>> 동안 <<1>>를 줍니다. 준 피해의 <<3>>만큼 회복합니다."
+
+#: 198758357-0-85187
+msgctxt "198758357-0-85187"
+msgid "Rend"
+msgstr "Rend"
+
+#: 132143172-0-85179
+msgctxt "132143172-0-85179"
+msgid "Slash enemies in front of you, dealing <<1>> over <<2>> and healing you for <<3>> of the damage done."
+"\n"
+"\nEach enemy hit increases your damage done by <<4>>% for the duration, up to a maximum of |cffffff30|r% more damage done."
+msgstr "전방의 적들을 베어 <<2>> 동안 <<1>>를 줍니다. 준 피해의 <<3>>만큼 회복합니다."
+"\n"
+"\n맞은 적의 수 만큼 지속 시간 동안 피해량이 <<4>>% 증가합니다. 피해량은 최대 |cffffff30|r%까지 증가합니다."
+
+#: 198758357-0-85179
+msgctxt "198758357-0-85179"
+msgid "Thrive in Chaos"
+msgstr "Thrive in Chaos"
+
+#: 132143172-0-83600
+msgctxt "132143172-0-83600"
+msgid "Slash enemies in front of you, dealing <<1>> over <<2>> and healing you for <<3>> of the damage done."
+msgstr "전방의 적들을 베어 <<2>> 동안 <<1>>를 줍니다. 준 피해의 <<3>>만큼 회복합니다."
+
+#: 198758357-0-83600
+msgctxt "198758357-0-83600"
+msgid "Lacerate"
+msgstr "Lacerate"
+
+#: 132143172-0-45482
+msgctxt "132143172-0-45482"
+msgid "Grants a bonus based on the type of weapon equipped:"
+"\n"
+"\nEach axe gives your melee attacks a |cffffff8|r% chance to bleed enemies for <<1>> over <<2>>."
+"\n"
+"\nEach mace causes your attacks to ignore |cffffff10|r% of an enemy's Physical Resistance. "
+"\n"
+"\nEach sword increases your damage done by |cffffff3|r%."
+"\n"
+"\nEach dagger increases your Weapon Critical rating. Current bonus: <<3>>."
+msgstr "착용한 무기에 따라 다음의 효과를 얻습니다:"
+"\n"
+"\n각 도끼마다 근접 공격을 할 때 |cffffff8|r% 확률로 출혈을 일으켜 <<2>>에 걸쳐 <<1>>를 줍니다."
+"\n"
+"\n각 둔기마다 공격이 표적의 물리 저항력을 |cffffff10|r% 무시합니다."
+"\n"
+"\n각 검마다 가하는 피해량이 |cffffff3|r% 증가합니다."
+"\n"
+"\n각 단검마다 무기 치명타 확률이 증가합니다. 현재 증가량: <<3>>"
+
+#: 198758357-0-45482
+msgctxt "198758357-0-45482"
+msgid "Twin Blade and Blunt"
+msgstr "Twin Blade and Blunt"
+
+#: 132143172-0-45481
+msgctxt "132143172-0-45481"
+msgid "Gives you an <<1>> damage bonus when attacking stunned, immobilized, disoriented, or silenced enemies."
+msgstr "기절, 이동불가, 혼란, 침묵에 걸린 적을 공격할 때 <<1>> 추가 피해를 입힙니다."
+
+#: 198758357-0-45481
+msgctxt "198758357-0-45481"
+msgid "Ruffian"
+msgstr "Ruffian"
+
+#: 132143172-0-45478
+msgctxt "132143172-0-45478"
+msgid "Reduces the cost of Dual Wield abilities by <<1>>."
+msgstr "쌍수무기 어빌리티의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-45478
+msgctxt "198758357-0-45478"
+msgid "Controlled Fury"
+msgstr "Controlled Fury"
+
+#: 132143172-0-45477
+msgctxt "132143172-0-45477"
+msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
+msgstr "보조무기의 무기 피해량이 <<1>>% 증가합니다."
+
+#: 198758357-0-45477
+msgctxt "198758357-0-45477"
+msgid "Dual Wield Expert"
+msgstr "Dual Wield Expert"
+
+#: 132143172-0-45476
+msgctxt "132143172-0-45476"
+msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
+msgstr "쌍수무기 어빌리티가 체력이 |cffffff25|r% 이하인 적들에게 <<1>> 더 많은 피해를 줍니다."
+
+#: 198758357-0-45476
+msgctxt "198758357-0-45476"
+msgid "Slaughter"
+msgstr "Slaughter"
+
+#: 132143172-0-38914
+msgctxt "132143172-0-38914"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>. "
+"\n"
+"\nThe dagger bounces up to |cffffff2|r times to other nearby enemies, dealing <<4>> on the first bounce and <<5>> on the second bounce."
+"\n"
+"\nAlso grants Major Brutality, increasing your Weapon Damage by <<6>> for <<7>>."
+msgstr "소매에 숨겨뒀던 단검을 적에게 던져 <<1>>를 주고 이동 속도를 <<3>> 동안 <<2>> 감소시킵니다."
+"\n"
+"\n단검은 근처의 적들에게 최대 |cffffff2|r번까지 튕겨 각각 <<4>>와 <<5>>를 줍니다."
+"\n"
+"\n또한 Major Brutality 효과를 얻어 <<7>> 동안 무기 피해량이 <<6>> 증가합니다."
+
+#: 198758357-0-38914
+msgctxt "198758357-0-38914"
+msgid "Shrouded Daggers"
+msgstr "Shrouded Daggers"
+
+#: 132143172-0-38910
+msgctxt "132143172-0-38910"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAlso grants Major Brutality, increasing your Weapon Damage by <<4>> for <<5>>."
+msgstr "소매에 숨겨뒀던 단검을 적에게 던져 <<1>>를 주고 이동 속도를 <<3>> 동안 <<2>> 감소시킵니다."
+"\n"
+"\n또한 Major Brutality 효과를 얻어 <<5>> 동안 무기 피해량이 <<4>> 증가합니다."
+
+#: 198758357-0-38910
+msgctxt "198758357-0-38910"
+msgid "Flying Blade"
+msgstr "Flying Blade"
+
+#: 132143172-0-38906
+msgctxt "132143172-0-38906"
+msgid "Create a ring of floating razors around you, dealing <<1>> to all nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nGain Major Evasion, reducing damage from area attacks by <<4>>."
+msgstr "떠다니는 칼날 고리를 소환해 <<3>> 동안 주변의 적들에게 매 <<2>>마다 <<1>>를 줍니다."
+"\n"
+"\nMajor Evasion효과를 얻어, 범위 공격에 의한 피해를 <<4>> 감소시킵니다."
+
+#: 198758357-0-38906
+msgctxt "198758357-0-38906"
+msgid "Deadly Cloak"
+msgstr "Deadly Cloak"
+
+#: 132143172-0-38901
+msgctxt "132143172-0-38901"
+msgid "Create a ring of floating razors around you, dealing <<1>> to all nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nGain Major Evasion, reducing damage from area attacks by <<4>>."
+"\n"
+"\nFor a brief period after activation you gain Major Expedition, increasing your Movement Speed by <<5>> for <<6>>"
+msgstr "떠다니는 칼날 고리를 소환해 <<3>> 동안 주변의 적들에게 매 <<2>>마다 <<1>>를 줍니다."
+"\n"
+"\nMajor Evasion효과를 얻어, 범위 공격에 의한 피해를 <<4>> 감소시킵니다"
+"\n"
+"\n시전 후 짧은 시간 동안 Major Expedition 효과를 얻어 <<6>> 동안 이동 속도가 <<5>> 증가합니다."
+
+#: 198758357-0-38901
+msgctxt "198758357-0-38901"
+msgid "Quick Cloak"
+msgstr "Quick Cloak"
+
+#: 132143172-0-38891
+msgctxt "132143172-0-38891"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies based on each percentage of their missing Health."
+"\n"
+"\nYou gain Major Endurance, increasing your Stamina Recovery by <<3>> for <<4>>."
+msgstr "치명적인 회전 공격으로 주변의 적들에게 <<1>>를 줍니다. 적이 잃은 체력에 비례해 최대 <<2>>까지 추가 피해를 줍니다"
+"\n"
+"\n또한 Major Endurance 효과를 얻어 <<4>> 동안 스태미나 재생이 <<3>> 증가합니다."
+
+#: 198758357-0-38891
+msgctxt "198758357-0-38891"
+msgid "Whirling Blades"
+msgstr "Whirling Blades"
+
+#: 132143172-0-38861
+msgctxt "132143172-0-38861"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies based on each percentage of their missing Health."
+msgstr "치명적인 회전 공격으로 주변의 적들에게 <<1>>를 줍니다. 적이 잃은 체력에 비례해 최대 <<2>>%까지 추가 피해를 줍니다"
+
+#: 198758357-0-38861
+msgctxt "198758357-0-38861"
+msgid "Steel Tornado"
+msgstr "Steel Tornado"
+
+#: 132143172-0-38857
+msgctxt "132143172-0-38857"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. Each hit increases the damage of the subsequent hit by <<2>>."
+"\n"
+"\nThe final hit deals <<3>> more damage."
+msgstr "적에게 강철의 연격을 퍼부어, 5연속 공격으로 각각 <<1>>를 줍니다. 공격이 명중할 때마다 다음 공격의 피해량이 <<2>> 증가합니다."
+"\n"
+"\n마지막 공격은 <<3>> 증가한 피해를 줍니다."
+
+#: 198758357-0-38857
+msgctxt "198758357-0-38857"
+msgid "Rapid Strikes"
+msgstr "Rapid Strikes"
+
+#: 132143172-0-38846
+msgctxt "132143172-0-38846"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. "
+"\n"
+"\nThe final hit deals <<2>> more damage and heals you for <<3>> of the damage caused."
+msgstr "적에게 강철의 연격을 퍼부어, 5연속 공격으로 각각 <<1>>를 줍니다."
+"\n"
+"\n마지막 공격은 <<2>> 증가한 피해를 주고 입힌 피해의 <<3>>를 회복합니다."
+
+#: 198758357-0-38846
+msgctxt "198758357-0-38846"
+msgid "Bloodthirst"
+msgstr "Bloodthirst"
+
+#: 132143172-0-38845
+msgctxt "132143172-0-38845"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+"\n"
+"\nYou also heal for <<4>> Health every <<5>> for the duration."
+msgstr "양손의 무기로 적을 찢어발깁니다. 각각의 무기로 <<1>>를 주고 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 추가로 줍니다."
+"\n"
+"\n출혈 지속 시간 동안 당신의 체력이 매 <<5>>마다 <<4>> 회복됩니다."
+
+#: 198758357-0-38845
+msgctxt "198758357-0-38845"
+msgid "Blood Craze"
+msgstr "Blood Craze"
+
+#: 132143172-0-38839
+msgctxt "132143172-0-38839"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+"\n"
+"\nYou also reduce their Movement Speed by <<4>> for <<5>>."
+msgstr "양손의 무기로 적을 찢어발깁니다. 각각의 무기로 <<1>>를 주고 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 추가로 줍니다."
+"\n"
+"\n출혈 지속 시간 동안 적의 이동 속도가 <<5>> 동안 <<4>> 감소합니다."
+
+#: 198758357-0-38839
+msgctxt "198758357-0-38839"
+msgid "Rending Slashes"
+msgstr "Rending Slashes"
+
+#: 132143172-0-30893
+msgctxt "132143172-0-30893"
+msgid "Grants a bonus based on the type of weapon equipped:"
+"\n"
+"\nEach axe gives your melee attacks a |cffffff4|r% chance to bleed enemies for <<1>> over <<2>>."
+"\n"
+"\nEach mace causes your attacks to ignore |cffffff5|r% of an enemy's Physical Resistance. "
+"\n"
+"\nEach sword increases your damage done by |cffffff1|r%."
+"\n"
+"\nEach dagger increases your Weapon Critical rating. Current bonus: <<3>>."
+msgstr "착용한 무기에 따라 다음의 효과를 얻습니다:"
+"\n"
+"\n각 도끼마다 근접 공격을 할 때 |cffffff4|r% 확률로 출혈을 일으켜 <<2>>에 걸쳐 <<1>>를 줍니다."
+"\n"
+"\n각 둔기마다 공격이 표적의 물리 저항력을 |cffffff5|r% 무시합니다."
+"\n"
+"\n각 검마다 가하는 피해량이 |cffffff1|r% 증가합니다."
+"\n"
+"\n각 단검마다 무기 치명타 확률이 증가합니다. 현재 증가량: <<3>>"
+
+#: 198758357-0-30893
+msgctxt "198758357-0-30893"
+msgid "Twin Blade and Blunt"
+msgstr "Twin Blade and Blunt"
+
+#: 132143172-0-30873
+msgctxt "132143172-0-30873"
+msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
+msgstr "보조무기의 무기 피해량이 <<1>>% 증가합니다."
+
+#: 198758357-0-30873
+msgctxt "198758357-0-30873"
+msgid "Dual Wield Expert"
+msgstr "Dual Wield Expert"
+
+#: 132143172-0-30872
+msgctxt "132143172-0-30872"
+msgid "Reduces the cost of Dual Wield abilities by <<1>>."
+msgstr "쌍수무기 어빌리티의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-30872
+msgctxt "198758357-0-30872"
+msgid "Controlled Fury"
+msgstr "Controlled Fury"
+
+#: 132143172-0-28613
+msgctxt "132143172-0-28613"
+msgid "Create a ring of floating razors around you, dealing <<1>> to all nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nGain Major Evasion, reducing damage from area attacks by <<4>>."
+msgstr "떠다니는 칼날 고리를 소환해 <<3>> 동안 주변의 적들에게 매 <<2>>마다 <<1>>를 줍니다."
+"\n"
+"\nMajor Evasion효과를 얻어, 범위 공격에 의한 피해를 <<4>> 감소시킵니다."
+
+#: 198758357-0-28613
+msgctxt "198758357-0-28613"
+msgid "Blade Cloak"
+msgstr "Blade Cloak"
+
+#: 132143172-0-28607
+msgctxt "132143172-0-28607"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. "
+"\n"
+"\nThe final hit deals <<2>> more damage."
+msgstr "적에게 강철의 연격을 퍼부어, 5연속 공격으로 각각 <<1>>를 줍니다."
+"\n"
+"\n마지막 공격은 <<2>> 증가한 피해를 줍니다."
+
+#: 198758357-0-28607
+msgctxt "198758357-0-28607"
+msgid "Flurry"
+msgstr "Flurry"
+
+#: 132143172-0-28591
+msgctxt "132143172-0-28591"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies based on each percentage of their missing Health."
+msgstr "치명적인 회전 공격으로 주변의 적들에게 <<1>>를 줍니다. 적이 잃은 체력에 비례해 최대 <<2>>까지 추가 피해를 줍니다"
+
+#: 198758357-0-28591
+msgctxt "198758357-0-28591"
+msgid "Whirlwind"
+msgstr "Whirlwind"
+
+#: 132143172-0-28379
+msgctxt "132143172-0-28379"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+msgstr "양손의 무기로 적을 찢어발깁니다. 각각의 무기로 <<1>>를 주고 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 추가로 줍니다."
+
+#: 198758357-0-28379
+msgctxt "198758357-0-28379"
+msgid "Twin Slashes"
+msgstr "Twin Slashes"
+
+#: 132143172-0-21157
+msgctxt "132143172-0-21157"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAlso grants Major Brutality, increasing your Weapon Damage by <<4>> for <<5>>."
+msgstr "소매에 숨겨뒀던 단검을 적에게 던져 <<1>>를 주고 이동 속도를 <<3>> 동안 <<2>> 감소시킵니다."
+"\n"
+"\n또한 Major Brutality 효과를 얻어 <<5>> 동안 무기 피해량이 <<4>> 증가합니다."
+
+#: 198758357-0-21157
+msgctxt "198758357-0-21157"
+msgid "Hidden Blade"
+msgstr "Hidden Blade"
+
+#: 132143172-0-21114
+msgctxt "132143172-0-21114"
+msgid "Gives you an <<1>> damage bonus when attacking stunned, immobilized, disoriented, or silenced enemies."
+msgstr "기절, 이동불가, 혼란, 침묵에 걸린 적을 공격할 때 <<1>> 추가 피해를 입힙니다."
+
+#: 198758357-0-21114
+msgctxt "198758357-0-21114"
+msgid "Ruffian"
+msgstr "Ruffian"
+
+#: 132143172-0-18929
+msgctxt "132143172-0-18929"
+msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
+msgstr "쌍수무기 어빌리티가 체력이 |cffffff25|r% 이하인 적들에게 <<1>> 더 많은 피해를 줍니다."
+
+#: 198758357-0-18929
+msgctxt "198758357-0-18929"
+msgid "Slaughter"
+msgstr "Slaughter"

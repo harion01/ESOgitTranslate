@@ -1,0 +1,378 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-45200
+msgctxt "132143172-0-45200"
+msgid "Increases your Health and Stamina Recovery by <<1>> while you have a Daedric Summoning ability slotted."
+msgstr "Daedric Summoning 어빌리티가 슬롯에 있으면 체력과 스태미나 재생이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-45200
+msgctxt "198758357-0-45200"
+msgid "Daedric Protection"
+msgstr "Daedric Protection"
+
+#: 132143172-0-45199
+msgctxt "132143172-0-45199"
+msgid "Increases your Max Health by <<1>> while you have a Daedric Summoning pet active."
+msgstr "Daedric Summoning 소환물이 소환되어 있는 동안 최대 체력이 <<1>> 증가합니다."
+
+#: 198758357-0-45199
+msgctxt "198758357-0-45199"
+msgid "Expert Summoner"
+msgstr "Expert Summoner"
+
+#: 132143172-0-45198
+msgctxt "132143172-0-45198"
+msgid "You restore <<1>> Magicka when one of your Daedric Summoning pets is killed or unsummoned."
+msgstr "Daedric Summoning 소환물 중 하나가 죽거나 소환 해제되면 <<1>> 매지카를 회복합니다."
+
+#: 198758357-0-45198
+msgctxt "198758357-0-45198"
+msgid "Rebate"
+msgstr "Rebate"
+
+#: 132143172-0-45196
+msgctxt "132143172-0-45196"
+msgid "Reduces the cost of your Ultimate abilities by <<1>>."
+msgstr "궁극기의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-45196
+msgctxt "198758357-0-45196"
+msgid "Power Stone"
+msgstr "Power Stone"
+
+#: 132143172-0-31417
+msgctxt "132143172-0-31417"
+msgid "Increases your Health and Stamina Recovery by <<1>> while you have a Daedric Summoning ability slotted."
+msgstr "Daedric Summoning 어빌리티가 슬롯에 있으면 체력과 스태미나 재생이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-31417
+msgctxt "198758357-0-31417"
+msgid "Daedric Protection"
+msgstr "Daedric Protection"
+
+#: 132143172-0-31412
+msgctxt "132143172-0-31412"
+msgid "Increases your Max Health by <<1>> while you have a Daedric Summoning pet active."
+msgstr "Daedric Summoning 소환물이 소환되어 있는 동안 최대 체력이 <<1>> 증가합니다."
+
+#: 198758357-0-31412
+msgctxt "198758357-0-31412"
+msgid "Expert Summoner"
+msgstr "Expert Summoner"
+
+#: 132143172-0-31398
+msgctxt "132143172-0-31398"
+msgid "You restore <<1>> Magicka when one of your Daedric Summoning pets is killed or unsummoned."
+msgstr "Daedric Summoning 소환물 중 하나가 죽거나 소환 해제되면 <<1>> 매지카를 회복합니다."
+
+#: 198758357-0-31398
+msgctxt "198758357-0-31398"
+msgid "Rebate"
+msgstr "Rebate"
+
+#: 132143172-0-31396
+msgctxt "132143172-0-31396"
+msgid "Reduces the cost of your Ultimate abilities by <<1>>."
+msgstr "궁극기의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-31396
+msgctxt "198758357-0-31396"
+msgid "Power Stone"
+msgstr "Power Stone"
+
+#: 132143172-0-29489
+msgctxt "132143172-0-29489"
+msgid "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs <<1>> damage for <<2>>. Absorbs <<3>> more damage than <<4>>. Damage shield strength capped at |cffffff50|r% of your Max Health."
+msgstr "데이드릭 에너지로 구체를 연성해 당신과 소환물들을 보호합니다. <<2>> 동안 <<1>>만큼 피해를 흡수하는 보호막을 얻습니다. 당신의 보호막은 <<4>>에 추가로 <<3>> 만큼의 피해를 더 흡수합니다. 최대 체력의 |cffffff50|r% 까지 보호막을 얻을 수 있습니다."
+"\n"
+
+#: 198758357-0-29489
+msgctxt "198758357-0-29489"
+msgid "Hardened Ward"
+msgstr "Hardened Ward"
+
+#: 132143172-0-29482
+msgctxt "132143172-0-29482"
+msgid "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs <<1>> damage for <<2>>. Damage shield strength capped at |cffffff40|r% of your Max Health."
+"\n"
+"\nAlso grants Minor Intellect to you and nearby allies, increasing your Magicka Recovery by <<3>> for <<4>>."
+msgstr "데이드릭 에너지로 구체를 연성해 당신과 소환물들을 보호합니다. <<2>> 동안 <<1>>만큼 피해를 흡수하는 보호막을 얻습니다. 최대 체력의 |cffffff50|r% 까지 보호막을 얻을 수 있습니다."
+"\n"
+"\n또한 당신과 주위 아군에게 Minor Intellect 효과를 부여하여 <<4>> 동안 <<3>>만큼 매지카 재생량을 증가시킵니다."
+
+#: 198758357-0-29482
+msgctxt "198758357-0-29482"
+msgid "Empowered Ward"
+msgstr "Empowered Ward"
+
+#: 132143172-0-28418
+msgctxt "132143172-0-28418"
+msgid "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs <<1>> damage for <<2>>. Damage shield strength capped at |cffffff40|r% of your Max Health."
+msgstr "데이드릭 에너지로 구체를 연성해 당신과 소환물들을 보호합니다. <<2>> 동안 <<1>>만큼 피해를 흡수하는 보호막을 얻습니다. 최대 체력의 |cffffff40|r% 까지 보호막을 얻을 수 있습니다."
+
+#: 198758357-0-28418
+msgctxt "198758357-0-28418"
+msgid "Conjured Ward"
+msgstr "Conjured Ward"
+
+#: 132143172-0-24639
+msgctxt "132143172-0-24639"
+msgid "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's attacks deal <<1>>."
+"\n"
+"\nOnce summoned, you can activate the twilight matriarch's special ability, causing it to heal the matriarch and up to |cffffff2|r other friendly targets for <<2>> Health."
+"\n"
+"\nThe twilight matriarch remains until killed or unsummoned."
+msgstr "아주라에게 기도해 황혼 여족장을 소환합니다. 황혼 여족장의 공격은 <<1>>를 줍니다."
+"\n"
+"\n소환되면 당신은 황혼 여족장의 특수 어빌리티를 사용할 수 있습니다. 사용하면 여족장과 주변 |cffffff2|r명까지의 아군의 체력을 <<2>>만큼 회복시킵니다."
+"\n"
+"\n황혼 여족장은 죽거나 소환 해제할 때까지 남아서 싸웁니다."
+
+#: 198758357-0-24639
+msgctxt "198758357-0-24639"
+msgid "Summon Twilight Matriarch"
+msgstr "Summon Twilight Matriarch"
+
+#: 132143172-0-24636
+msgctxt "132143172-0-24636"
+msgid "Call on Azura to send a twilight tormentor to fight at your side. The twilight tormentor's attacks deal <<1>>."
+"\n"
+"\nOnce summoned, you can activate the twilight tormentor's special ability, causing it to deal <<2>> more damage to enemies above |cffffff50|r% Health for <<3>>."
+"\n"
+"\nThe twilight tormentor remains until killed or unsummoned."
+msgstr "아주라에게 기도해 황혼 고문가를 소환합니다. 황혼 고문가의 공격은 <<1>>를 줍니다."
+"\n"
+"\n소환되면 당신은 황혼 고문가의 특수 어빌리티를 사용할 수 있습니다. 사용하면 <<3>> 동안 체력이 |cffffff50|r% 이상인 적에게 <<2>>의 추가 피해를 줍니다."
+"\n"
+"\n황혼 고문가는 죽거나 소환 해제할 때까지 남아서 싸웁니다."
+
+#: 198758357-0-24636
+msgctxt "198758357-0-24636"
+msgid "Summon Twilight Tormentor"
+msgstr "Summon Twilight Tormentor"
+
+#: 132143172-0-24613
+msgctxt "132143172-0-24613"
+msgid "Call on Azura to send a winged twilight to fight at your side. The winged twilight's attacks deal <<1>>."
+"\n"
+"\nOnce summoned, you can activate the winged twilight's special ability, causing it to heal the winged twilight and |cffffff1|r other friendly target for <<2>> Health."
+"\n"
+"\nThe winged twilight remains until killed or unsummoned."
+msgstr "아주라에게 기도해 날개달린 황혼을 당신의 편에 서서 싸우게 합니다. 날개달린 황혼의 공격은 <<1>>피해를 줍니다."
+"\n"
+"\n소환이 되면, 날개달린 황혼을 치유하고 |cffffff1|r를 아군에게 부여해 <<2>>의 체력을 회복하는 날개달린 황혼의 특수한 능력을 사용할 수 있습니다."
+"\n"
+"\n날개달린 황혼은 죽거나 소환 해제할 때까지 남아서 싸웁니다."
+
+#: 198758357-0-24613
+msgctxt "198758357-0-24613"
+msgid "Summon Winged Twilight"
+msgstr "Summon Winged Twilight"
+
+#: 132143172-0-24330
+msgctxt "132143172-0-24330"
+msgid "Curse an enemy with a destructive rune, dealing <<1>> to the target and <<2>> to all other nearby enemies after <<3>>."
+"\n"
+"\nThe curse will continue to haunt the enemy and explode a second time, dealing <<1>> to the target and <<2>> to all other nearby enemies after an additional <<4>>."
+"\n"
+"\nYou can have only one <<5>> active at a time."
+msgstr "파괴의 룬으로 적에게 저주를 겁니다. 대상에게 <<1>>를 주고 <<3>> 후 대상 주변의 적들에게 <<2>>를 줍니다."
+"\n"
+"\n저주가 대상을 계속 추적해 한 번 더 폭발합니다. 대상에게 <<1>>를 주고 <<4>> 후 주변의 적들에게 <<2>>를 줍니다."
+"\n"
+"\n<<5>> 어빌리티는 한 번에 하나 밖에 발동할 수 없습니다."
+
+#: 198758357-0-24330
+msgctxt "198758357-0-24330"
+msgid "Haunting Curse"
+msgstr "Haunting Curse"
+
+#: 132143172-0-24328
+msgctxt "132143172-0-24328"
+msgid "Curse an enemy with a destructive rune, dealing <<1>> to the target and <<2>> to all other nearby enemies after <<3>>."
+"\n"
+"\nWhile the curse is active, your pets deal an additional <<4>> damage to the target, except your Storm Atronach which only deals an additional <<5>> damage."
+"\n"
+"\nYou can have only one <<6>> active at a time."
+msgstr "파괴의 룬으로 적에게 저주를 겁니다. 대상에게 <<1>>를 주고 <<3>> 후 대상 주변의 적들에게 <<2>>를 줍니다."
+"\n"
+"\n저주가 활성화되어 있는 동안 당신의 소환물이 대상에게 <<4>>의 추가 피해를 가합니다. 단, 폭풍 아트로나크는 <<5>>의 추가 피해를 가합니다."
+"\n"
+"\n<<6>> 어빌리티는 한 번에 하나 밖에 발동할 수 없습니다."
+
+#: 198758357-0-24328
+msgctxt "198758357-0-24328"
+msgid "Daedric Prey"
+msgstr "Daedric Prey"
+
+#: 132143172-0-24326
+msgctxt "132143172-0-24326"
+msgid "Curse an enemy with a destructive rune, dealing <<1>> to the target and <<2>> to all other nearby enemies after <<3>>."
+"\n"
+"\nYou can have only one <<4>> active at a time."
+msgstr "파괴의 룬으로 적에게 저주를 겁니다. 대상에게 <<1>>를 주고 <<3>> 후 대상 주변의 적들에게 <<2>>를 줍니다."
+"\n"
+"\n<<4>> 어빌리티는 한 번에 하나 밖에 발동할 수 없습니다."
+
+#: 198758357-0-24326
+msgctxt "198758357-0-24326"
+msgid "Daedric Curse"
+msgstr "Daedric Curse"
+
+#: 132143172-0-24165
+msgctxt "132143172-0-24165"
+msgid "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by <<1>> for <<2>>."
+"\n"
+"\nWhile slotted, your Max Stamina is increased by <<3>> and light attack damage is increased by <<4>>."
+msgstr "오블리비언의 힘으로 당신을 보호합니다. 데이드릭 갑옷을 만들어내어 막기 강도를 <<2>>동안 <<1>>만큼 증가시킵니다."
+"\n"
+"\n슬롯에 있으면 최대 스태미나를 <<3>> 만큼 증가시키고 약공격으로 가하는 피해량을 <<4>> 증가시킵니다."
+
+#: 198758357-0-24165
+msgctxt "198758357-0-24165"
+msgid "Bound Armaments"
+msgstr "Bound Armaments"
+
+#: 132143172-0-24163
+msgctxt "132143172-0-24163"
+msgid "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by <<1>> for <<2>>."
+"\n"
+"\nWhile slotted, your Max Magicka is increased by <<3>> and you gain Minor Ward and Minor Resolve. These increase your Spell Resistance and Physical Resistance."
+msgstr "오블리비언의 힘으로 당신을 보호합니다. 데이드릭 갑옷을 만들어내어 막기 강도를 <<2>>동안 <<1>>만큼 증가시킵니다."
+"\n"
+"\n슬롯에 있으면 최대 매지카를 <<3>> 만큼 증가시키고 Minor Ward 와 Minor Resolve 를 적용받습니다. 이 것들은 당신의 마법 저항력과 물리 저항력을 증가시킵니다."
+
+#: 198758357-0-24163
+msgctxt "198758357-0-24163"
+msgid "Bound Aegis"
+msgstr "Bound Aegis"
+
+#: 132143172-0-24158
+msgctxt "132143172-0-24158"
+msgid "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by <<1>> for <<2>>."
+"\n"
+"\nWhile slotted, your Max Magicka is increased by <<3>>"
+msgstr "오블리비언의 힘으로 당신을 보호합니다. 데이드릭 갑옷을 만들어내어 막기 강도를 <<2>>동안 <<1>>만큼 증가시킵니다."
+"\n"
+"\n슬롯에 있으면 최대 매지카를 <<3>> 만큼 증가시킵니다."
+
+#: 198758357-0-24158
+msgctxt "198758357-0-24158"
+msgid "Bound Armor"
+msgstr "Bound Armor"
+
+#: 132143172-0-23634
+msgctxt "132143172-0-23634"
+msgid "Summon an immobile storm atronach at the target location. Its arrival deals <<1>> and stuns enemies for <<2>>. The atronach zaps the closest enemy, dealing <<3>> every <<4>>."
+"\n"
+"\nAn ally near the atronach can activate the |cffffffCharged Lightning|r synergy, granting the ally and the atronach <<5>>, increasing their damage done by <<6>> for <<7>>."
+msgstr "대상 지역에 움직이지않는 폭풍 아트로나크를 소환합니다.  아트로나크가 소환될 때 <<1>>를 주고 주변의 적들을 <<2>> 동안 기절시킵니다. 아트로나크는 가장 가까운 적을 공격해 매 <<4>마다 <<3>>의 추가 피해를 줍니다."
+"\n"
+"\n아군이 |cffffffCharged Lightning|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 아군과 아트로나크가 <<5>> 효과를 얻어 <<7>> 동안 피해량이 <<6>> 증가합니다."
+
+#: 198758357-0-23634
+msgctxt "198758357-0-23634"
+msgid "Summon Storm Atronach"
+msgstr "Summon Storm Atronach"
+
+#: 132143172-0-23495
+msgctxt "132143172-0-23495"
+msgid "Summon an immobile storm atronach at the target location. Its arrival deals <<1>> and stuns enemies for <<2>>. The atronach zaps the closest enemy, dealing <<3>> every <<4>>, and periodically deals <<5>> to enemies around it."
+"\n"
+"\nAn ally near the atronach can activate the |cffffffCharged Lightning|r synergy, granting the ally and the atronach <<6>>, increasing their damage done by <<7>> for <<8>>."
+msgstr "대상 지역에 움직이지않는 폭풍 아트로나크를 소환합니다.  아트로나크가 소환될 때 <<1>>를 주고 주변의 적들을 <<2>> 동안 기절시킵니다. 아트로나크는 가장 가까운 적을 공격해 매 <<4>마다 <<3>>의 추가 피해를 주고, 주변의 적들에게 <<5>>의 지속적인 피해를 줍니다."
+"\n"
+"\n아군이 |cffffffCharged Lightning|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 아군과 아트로나크가 <<6>> 효과를 얻어 <<8>> 동안 피해량이 <<7>> 증가합니다."
+
+#: 198758357-0-23495
+msgctxt "198758357-0-23495"
+msgid "Summon Charged Atronach"
+msgstr "Summon Charged Atronach"
+
+#: 132143172-0-23492
+msgctxt "132143172-0-23492"
+msgid "Summon an immobile storm atronach at the target location. Its arrival deals <<1>> and stuns enemies for <<2>>. The atronach zaps the closest enemy, dealing <<3>> every <<4>>."
+"\n"
+"\nAn ally near the atronach can activate the |cffffffCharged Lightning|r synergy, granting the ally and the atronach <<5>>, increasing their damage done by <<6>> for <<7>>."
+msgstr "대상 지역에 움직이지않는 폭풍 아트로나크를 소환합니다.  아트로나크가 소환될 때 <<1>>를 주고 주변의 적들을 <<2>> 동안 기절시킵니다. 아트로나크는 가장 가까운 적을 공격해 매 <<4>마다 <<3>>의 추가 피해를 줍니다."
+"\n"
+"\n아트로나크 근처의 아군이 |cffffffCharged Lightning|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 아군과 아트로나크가 <<5>> 효과를 얻어 <<7>> 동안 피해량이 <<6>> 증가합니다."
+
+#: 198758357-0-23492
+msgctxt "198758357-0-23492"
+msgid "Greater Storm Atronach"
+msgstr "Greater Storm Atronach"
+
+#: 132143172-0-23319
+msgctxt "132143172-0-23319"
+msgid "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's attacks deal <<1>>. The clannfear can also tail swipe nearby enemies."
+"\n"
+"\nOnce summoned, you can activate the clannfear's special ability, healing you and the clannfear for |cffffff35|r% of your Maximum Health."
+"\n"
+"\nThe clannfear remains until killed or unsummoned."
+msgstr "오블리비언의 힘을 조종해 데이드릭 클랜피어를 소환하여 당신의 편에 서서 싸우게 합니다. 클랜피어의 공격은 <<1>>를 줍니다. 클랜피어는 주변의 적들에게 꼬리 휘두르기를 사용할 수도 있습니다."
+"\n"
+"\n소환이 되면, 자신과 클랜피어에게 최대 체력의 |cffffff35|r%를 회복하는 클랜피어의 특수한 어빌리티를 쓸 수 있습니다."
+"\n"
+"\n클랜피어는 죽거나 소환 해제할 때까지 남아서 싸웁니다."
+
+#: 198758357-0-23319
+msgctxt "198758357-0-23319"
+msgid "Summon Unstable Clannfear"
+msgstr "Summon Unstable Clannfear"
+
+#: 132143172-0-23316
+msgctxt "132143172-0-23316"
+msgid "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal <<1>>."
+"\n"
+"\nOnce summoned, you can activate the familiar's special ability, dealing <<2>> every <<3>> for <<4>> to enemies near him. The final pulse will stun all enemies hit for <<5>>."
+"\n"
+"\nThe familiar remains until killed or unsummoned."
+msgstr "오블리비언의 힘을 조종해 데이드릭 소환수를 소환하여 당신의 편에 서서 싸우게 합니다. 소환수의 공격은 <<1>>를 줍니다."
+"\n"
+"\n소환이 되면, 근처에 있는 적들에게 <<4>>동안 매 <<3>>마다 <<2>>의 피해를 주는 소환수의 특수한 어빌리티를 쓸 수 있습니다. 마지막 파동은 <<5>>의 피해를 주며 적들을 기절시킵니다."
+"\n"
+"\n소환수는 죽거나 소환 해제할 때까지 남아서 싸웁니다."
+
+#: 198758357-0-23316
+msgctxt "198758357-0-23316"
+msgid "Summon Volatile Familiar"
+msgstr "Summon Volatile Familiar"
+
+#: 132143172-0-23304
+msgctxt "132143172-0-23304"
+msgid "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal <<1>>."
+"\n"
+"\nOnce summoned, you can activate the familiar's special ability, dealing <<2>> every <<3>> for <<4>> to enemies near him."
+"\n"
+"\nThe familiar remains until killed or unsummoned."
+msgstr "오블리비언의 힘을 조종해 데이드릭 소환수를 소환하여 당신의 편에 서서 싸우게 합니다. 소환수의 공격은 <<1>>를 줍니다."
+"\n"
+"\n소환이 되면, 근처에 있는 적들에게 <<4>>동안 매 <<3>>마다 <<2>>의 피해를 주는 소환수의 특수한 어빌리티를 쓸 수 있습니다."
+"\n"
+"\n소환수는 죽거나 소환 해제할 때까지 남아서 싸웁니다."
+
+#: 198758357-0-23304
+msgctxt "198758357-0-23304"
+msgid "Summon Unstable Familiar"
+msgstr "Summon Unstable Familiar"

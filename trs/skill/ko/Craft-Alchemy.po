@@ -1,0 +1,231 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-70043
+msgctxt "132143172-0-70043"
+msgid "Allows the Alchemist to use Lorkhan's Tears and Alkahest to make Champion 150 potions and poisons."
+msgstr "연금술사가 로칸의 눈물과 만물 용해액을 사용하여 챔피언 레벨 150 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-70043
+msgctxt "198758357-0-70043"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-70042
+msgctxt "132143172-0-70042"
+msgid "Allows the Alchemist to use Star Dew and Night-Oil to make Champion 100 potions and poisons."
+msgstr "연금술사가 별이슬과 어둠기름을 사용하여 챔피언 레벨 100 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-70042
+msgctxt "198758357-0-70042"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-49163
+msgctxt "132143172-0-49163"
+msgid "Allows the Alchemist to use Cloud Mist and Tarblack to make Champion 50 potions and poisons."
+msgstr "연금술의 구름 안개(Cloud Mist)와 타르블랙(Tarblack)을 사용하여 챔피언 50레벨의 물약과 독을 만들 수 있습니다."
+
+#: 198758357-0-49163
+msgctxt "198758357-0-49163"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-47842
+msgctxt "132143172-0-47842"
+msgid "Herbs and fungi in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>> 이상 가까워지면 세계의 약초와 균류를 더 쉽게 볼 수 있습니다."
+
+#: 198758357-0-47842
+msgctxt "198758357-0-47842"
+msgid "Keen Eye: Reagents"
+msgstr "Keen Eye: Reagents"
+
+#: 132143172-0-47841
+msgctxt "132143172-0-47841"
+msgid "Herbs and fungi in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>> 이상 가까워지면 세계의 약초와 균류를 더 쉽게 볼 수 있습니다."
+
+#: 198758357-0-47841
+msgctxt "198758357-0-47841"
+msgid "Keen Eye: Reagents"
+msgstr "Keen Eye: Reagents"
+
+#: 132143172-0-47840
+msgctxt "132143172-0-47840"
+msgid "Herbs and fungi in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>> 이상 가까워지면 세계의 약초와 균류를 더 쉽게 볼 수 있습니다."
+
+#: 198758357-0-47840
+msgctxt "198758357-0-47840"
+msgid "Keen Eye: Reagents"
+msgstr "Keen Eye: Reagents"
+
+#: 132143172-0-47834
+msgctxt "132143172-0-47834"
+msgid "Reduces duration of negative effects in potions by 100% when consumed."
+msgstr "포션을 사용했을 때 부정적인 효과의 지속 시간을 100% 감소시킵니다."
+
+#: 198758357-0-47834
+msgctxt "198758357-0-47834"
+msgid "Snakeblood"
+msgstr "Snakeblood"
+
+#: 132143172-0-47832
+msgctxt "132143172-0-47832"
+msgid "Reduces duration of negative effects in potions by 80% when consumed."
+msgstr "포션을 사용했을 때 부정적인 효과의 지속 시간을 80% 감소시킵니다."
+
+#: 198758357-0-47832
+msgctxt "198758357-0-47832"
+msgid "Snakeblood"
+msgstr "Snakeblood"
+
+#: 132143172-0-47831
+msgctxt "132143172-0-47831"
+msgid "Reduces duration of negative effects in potions by 50% when consumed."
+msgstr "포션을 사용했을 때 부정적인 효과의 지속 시간을 50% 감소시킵니다."
+
+#: 198758357-0-47831
+msgctxt "198758357-0-47831"
+msgid "Snakeblood"
+msgstr "Snakeblood"
+
+#: 132143172-0-45579
+msgctxt "132143172-0-45579"
+msgid "Produces 3 extra potions or 12 extra poisons per crafting attempt."
+msgstr "혼합물을 제작할 때 3개의 포션 혹은 12개의 독을 추가로 제작합니다."
+
+#: 198758357-0-45579
+msgctxt "198758357-0-45579"
+msgid "Chemistry"
+msgstr "Chemistry"
+
+#: 132143172-0-45578
+msgctxt "132143172-0-45578"
+msgid "Produces 2 extra potions or 8 extra poisons per crafting attempt."
+msgstr "혼합물을 제작할 때 2개의 포션 혹은 8개의 독을 추가로 제작합니다."
+
+#: 198758357-0-45578
+msgctxt "198758357-0-45578"
+msgid "Chemistry"
+msgstr "Chemistry"
+
+#: 132143172-0-45577
+msgctxt "132143172-0-45577"
+msgid "Produces 1 extra potion or 4 extra poisons per crafting attempt."
+msgstr "혼합물을 제작할 때 1개의 포션 혹은 4개의 독을 추가로 제작합니다."
+
+#: 198758357-0-45577
+msgctxt "198758357-0-45577"
+msgid "Chemistry"
+msgstr "Chemistry"
+
+#: 132143172-0-45573
+msgctxt "132143172-0-45573"
+msgid "When using potions, resulting effects last 30% longer."
+msgstr "포션을 사용했을 때, 효과가 30% 오래 지속됩니다."
+
+#: 198758357-0-45573
+msgctxt "198758357-0-45573"
+msgid "Medicinal Use"
+msgstr "Medicinal Use"
+
+#: 132143172-0-45571
+msgctxt "132143172-0-45571"
+msgid "When using potions, resulting effects last 20% longer."
+msgstr "포션을 사용했을 때, 효과가 20% 오래 지속됩니다."
+
+#: 198758357-0-45571
+msgctxt "198758357-0-45571"
+msgid "Medicinal Use"
+msgstr "Medicinal Use"
+
+#: 132143172-0-45569
+msgctxt "132143172-0-45569"
+msgid "When using potions, resulting effects last 10% longer."
+msgstr "포션을 사용했을 때, 효과가 10% 오래 지속됩니다."
+
+#: 198758357-0-45569
+msgctxt "198758357-0-45569"
+msgid "Medicinal Use"
+msgstr "Medicinal Use"
+
+#: 132143172-0-45555
+msgctxt "132143172-0-45555"
+msgid "Allows the use of up to 3 reagents while mixing Potions or Poisons."
+msgstr "포션이나 독을 제조할 때 3개의 재료를 사용할 수 있게 됩니다."
+
+#: 198758357-0-45555
+msgctxt "198758357-0-45555"
+msgid "Laboratory Use"
+msgstr "Laboratory Use"
+
+#: 132143172-0-45552
+msgctxt "132143172-0-45552"
+msgid "Allows the Alchemist to use Purified Water and Pitch-Bile to make Champion 10 potions and poisons."
+msgstr "연금술사가 정제수와 역청 담즙을 사용하여 챔피언 레벨 10 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-45552
+msgctxt "198758357-0-45552"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-45551
+msgctxt "132143172-0-45551"
+msgid "Allows the Alchemist to use Filtered Water and Terebinthine to make Level 40 potions and poisons."
+msgstr "연금술사가 여과수와 테레빈유를 사용하여 40레벨 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-45551
+msgctxt "198758357-0-45551"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-45550
+msgctxt "132143172-0-45550"
+msgid "Allows the Alchemist to use Cleansed Water and Gall to make Level 30 potions and poisons."
+msgstr "연금술사가 정화수와 쓸개즙을 사용하여 30레벨 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-45550
+msgctxt "198758357-0-45550"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-45547
+msgctxt "132143172-0-45547"
+msgid "Allows the Alchemist to use Pristine Water and Slime to make Level 20 potions and poisons."
+msgstr "연금술사가 청명수와 점액을 사용하여 20레벨 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-45547
+msgctxt "198758357-0-45547"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"
+
+#: 132143172-0-45542
+msgctxt "132143172-0-45542"
+msgid "Allows the Alchemist to use Natural Water and Grease to make Level 3 potions and poisons and Clear Water and Ichor to make Level 10 potions and poisons."
+msgstr "연금술사가 천연수와 그리스유를 사용하여 3레벨 포션과 독을 만들 수 있게 됩니다. 또한 청정수와 고름을 사용하여 10레벨 포션과 독을 만들 수 있게 됩니다."
+
+#: 198758357-0-45542
+msgctxt "198758357-0-45542"
+msgid "Solvent Proficiency"
+msgstr "Solvent Proficiency"

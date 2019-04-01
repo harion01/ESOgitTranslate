@@ -1,0 +1,86 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 228378404-0-44879
+msgctxt "228378404-0-44879"
+msgid "Repairs items of any level."
+msgstr "모든 레벨의 아이템을 수리합니다."
+
+#: 242841733-0-44879
+msgctxt "242841733-0-44879"
+msgid "Grand Repair Kit"
+msgstr "장인의 수리 도구"
+
+#: 228378404-0-44878
+msgctxt "228378404-0-44878"
+msgid "Repairs items of any level, but is less effective on items over Level 49."
+msgstr "모든 레벨의 아이템을 수리하지만, 49레벨을 초과하는 아이템에는 효율이 낮습니다."
+
+#: 242841733-0-44878
+msgctxt "242841733-0-44878"
+msgid "Greater Repair Kit"
+msgstr "고품질 수리 도구"
+
+#: 228378404-0-44877
+msgctxt "228378404-0-44877"
+msgid "Repairs items of any level, but is less effective on items over Level 39."
+msgstr "모든 레벨의 아이템을 수리하지만, 39레벨을 초과하는 아이템에는 효율이 낮습니다."
+
+#: 242841733-0-44877
+msgctxt "242841733-0-44877"
+msgid "Common Repair Kit"
+msgstr "평범한 수리 도구"
+
+#: 228378404-0-44876
+msgctxt "228378404-0-44876"
+msgid "Repairs items of any level, but is less effective on items over Level 29."
+msgstr "모든 레벨의 아이템을 수리하지만, 29레벨을 초과하는 아이템에는 효율이 낮습니다."
+
+#: 242841733-0-44876
+msgctxt "242841733-0-44876"
+msgid "Lesser Repair Kit"
+msgstr "저품질 수리 도구"
+
+#: 228378404-0-44875
+msgctxt "228378404-0-44875"
+msgid "Repairs items of any level, but is less effective on items over Level 19."
+msgstr "모든 레벨의 아이템을 수리하지만, 19레벨을 초과하는 아이템에는 효율이 낮습니다."
+
+#: 242841733-0-44875
+msgctxt "242841733-0-44875"
+msgid "Minor Repair Kit"
+msgstr "임시 수리 도구"
+
+#: 228378404-0-44874
+msgctxt "228378404-0-44874"
+msgid "Repairs items of any level, but is less effective on items over Level 9."
+msgstr "모든 레벨의 아이템을 수리하지만, 9레벨을 초과하는 아이템에는 효율이 낮습니다."
+
+#: 242841733-0-44874
+msgctxt "242841733-0-44874"
+msgid "Petty Repair Kit"
+msgstr "조잡한 수리 도구"
+
+#: 242841733-0-30357
+msgctxt "242841733-0-30357"
+msgid "Lockpick"
+msgstr "락픽"

@@ -1,0 +1,237 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-45562
+msgctxt "132143172-0-45562"
+msgid "Increases your Spell Penetration by <<1>>."
+msgstr "呪文貫通力が<<1>>上昇する。"
+
+#: 198758357-0-45562
+msgctxt "198758357-0-45562"
+msgid "Concentration"
+msgstr "集中"
+
+#: 132143172-0-45561
+msgctxt "132143172-0-45561"
+msgid "Increases your Spell Critical rating by <<1>>."
+msgstr "呪文クリティカルが<<1>>上昇する。"
+
+#: 198758357-0-45561
+msgctxt "198758357-0-45561"
+msgid "Prodigy"
+msgstr "驚異"
+
+#: 132143172-0-45559
+msgctxt "132143172-0-45559"
+msgid "Increases your Spell Resistance by <<1>> for each piece of Light Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "装備している軽装鎧1つにつき、呪文耐性が<<1>>上昇する。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45559
+msgctxt "198758357-0-45559"
+msgid "Spell Warding"
+msgstr "呪文結界"
+
+#: 132143172-0-45557
+msgctxt "132143172-0-45557"
+msgid "Increases your Magicka Recovery by <<1>> for each piece of Light Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the Magicka cost of your abilities by <<3>> for each piece of Light Armor equipped."
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "装備した軽装鎧ごとにマジカ再生を<<1>>増加させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>。\\r"
+"\n\\r"
+"\n装備した軽装鎧ごとにアビリティのマジカ消費を<<3>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<4>>。"
+
+#: 198758357-0-45557
+msgctxt "198758357-0-45557"
+msgid "Evocation"
+msgstr "降霊"
+
+#: 132143172-0-45549
+msgctxt "132143172-0-45549"
+msgid "Reduces the effectiveness of snares applied to you by <<1>>  per piece of Light Armor worn."
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the cost of Sprint by <<3>> per piece of Light Armor worn."
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "装備した軽装鎧ごとに減速の効果を<<1>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>。\\r"
+"\n\\r"
+"\n装備した軽装鎧ごとにダッシュの消費を<<3>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<4>>。"
+
+#: 198758357-0-45549
+msgctxt "198758357-0-45549"
+msgid "Grace"
+msgstr "恩寵"
+
+#: 132143172-0-45548
+msgctxt "132143172-0-45548"
+msgid "Reduces the effectiveness of snares applied to you by <<1>>  per piece of Light Armor worn."
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the cost of Sprint by <<3>> per piece of Light Armor worn."
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "装備した軽装鎧ごとに減速の効果を<<1>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>。\\r"
+"\n\\r"
+"\n装備した軽装鎧ごとにダッシュの消費を<<3>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<4>>。"
+
+#: 198758357-0-45548
+msgctxt "198758357-0-45548"
+msgid "Grace"
+msgstr "恩寵"
+
+#: 132143172-0-39186
+msgctxt "132143172-0-39186"
+msgid "Surround yourself with a net of magic negation, gaining a damage shield that absorbs <<1>> damage for <<2>>. Damage shield strength capped at |cffffff50|r% of your Max Health."
+"\n"
+"\nEach piece of Light Armor worn increases the amount of damage absorbed by <<3>>%."
+msgstr "魔法防御の網で自身を包み込み、<<1>>のダメージを<<2>>の間吸収するダメージシールドを得る。ダメージシールドの強度は最大体力の|cffffff40|r%に制限される。\\r"
+"\n\\r"
+"\n装備している軽装鎧1つにつき、吸収できるダメージが<<3>>%増大する。"
+
+#: 198758357-0-39186
+msgctxt "198758357-0-39186"
+msgid "Dampen Magic"
+msgstr "魔法抑制"
+
+#: 132143172-0-39182
+msgctxt "132143172-0-39182"
+msgid "Surround yourself with a net of magic negation to absorb up to <<1>> damage over <<2>>. Damage shield strength capped at |cffffff40|r% of your Max Health."
+"\n"
+"\nWhile active, up to three times when spell damage is absorbed, you restore <<3>> Magicka. Each piece of Light Armor worn increases the Magicka restored by <<4>>%."
+msgstr "魔法防御の網で自身を包み込み、最大<<1>>のダメージを<<2>>の間吸収する。ダメージシールドの強度は最大体力の|cffffff40|r%に制限される。\\r"
+"\n\\r"
+"\n発動中、呪文ダメージを吸収した時に最大3回までマジカ<<3>>を回復する。軽装鎧のパーツが1つ増えるごとに、マジカが<<4>>%増大する。"
+
+#: 198758357-0-39182
+msgctxt "198758357-0-39182"
+msgid "Harness Magicka"
+msgstr "マジカ抑制"
+
+#: 132143172-0-29668
+msgctxt "132143172-0-29668"
+msgid "Increases your Spell Critical rating by <<1>>."
+msgstr "呪文クリティカルが<<1>>上昇する。"
+
+#: 198758357-0-29668
+msgctxt "198758357-0-29668"
+msgid "Prodigy"
+msgstr "驚異"
+
+#: 132143172-0-29667
+msgctxt "132143172-0-29667"
+msgid "Increases your Spell Penetration by <<1>>."
+msgstr "呪文貫通力が<<1>>上昇する。"
+
+#: 198758357-0-29667
+msgctxt "198758357-0-29667"
+msgid "Concentration"
+msgstr "集中"
+
+#: 132143172-0-29665
+msgctxt "132143172-0-29665"
+msgid "Increases your Magicka Recovery by <<1>> for each piece of Light Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the Magicka cost of your abilities by <<3>> for each piece of Light Armor equipped."
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "装備した軽装鎧ごとにマジカ再生を<<1>>増加させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>。\\r"
+"\n\\r"
+"\n装備した軽装鎧ごとにアビリティのマジカ消費を<<3>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<4>>。"
+
+#: 198758357-0-29665
+msgctxt "198758357-0-29665"
+msgid "Evocation"
+msgstr "降霊"
+
+#: 132143172-0-29663
+msgctxt "132143172-0-29663"
+msgid "Increases your Spell Resistance by <<1>> for each piece of Light Armor equipped. "
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "装備している軽装鎧1つにつき、呪文耐性が<<1>>上昇する。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>"
+
+#: 198758357-0-29663
+msgctxt "198758357-0-29663"
+msgid "Spell Warding"
+msgstr "呪文結界"
+
+#: 132143172-0-29639
+msgctxt "132143172-0-29639"
+msgid "Reduces the effectiveness of snares applied to you by <<1>>  per piece of Light Armor worn."
+"\n"
+"\nCurrent bonus: <<2>>."
+"\n"
+"\nReduces the cost of Sprint by <<3>> per piece of Light Armor worn."
+"\n"
+"\nCurrent bonus: <<4>>."
+msgstr "装備した軽装鎧ごとに減速の効果を<<1>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>。\\r"
+"\n\\r"
+"\n装備した軽装鎧ごとにダッシュの消費を<<3>>減少させる。\\r"
+"\n\\r"
+"\n現在のボーナス: <<4>>。"
+
+#: 198758357-0-29639
+msgctxt "198758357-0-29639"
+msgid "Grace"
+msgstr "恩寵"
+
+#: 132143172-0-29338
+msgctxt "132143172-0-29338"
+msgid "Surround yourself with a net of magic negation, gaining a damage shield that absorbs <<1>> damage for <<2>>. Damage shield strength capped at |cffffff40|r% of your Max Health."
+msgstr "魔法防御の網で自身を包み込み、<<1>>のダメージを<<2>>の間吸収するダメージシールドを得る。ダメージシールドの強度は最大体力の|cffffff40|r%に制限される。"
+
+#: 198758357-0-29338
+msgctxt "198758357-0-29338"
+msgid "Annulment"
+msgstr "魔力無効"

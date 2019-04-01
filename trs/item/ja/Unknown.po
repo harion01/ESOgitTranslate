@@ -1,0 +1,31 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 228378404-0-141731
+msgctxt "228378404-0-141731"
+msgid "Use this item to transport yourself to a Keep your Alliance owns and is not under attack. This cannot be used while near a Keep, Outpost, Resource or Town that can be captured."
+msgstr "このアイテムを使うと、同盟が所有して攻撃されていない砦に戻る。このアイテムは、制圧可能な砦、基地、資源、街の近くでは使用できない。"
+
+#: 242841733-0-141731
+msgctxt "242841733-0-141731"
+msgid "Keep Recall Stone"
+msgstr "砦へのリコールストーン"

@@ -1,0 +1,373 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ko"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 132143172-0-104079
+msgctxt "132143172-0-104079"
+msgid "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area over <<1>> before finally stunning them in place for <<2>> when the duration completes."
+msgstr "대상 지역의 시간의 흐름을 멈춥니다. 범위 내 적들의 이동 속도를 <<1>>동안  감소시키고 효과가 끝나면 <<2>> 동안 적들을 기절시킵니다."
+
+#: 198758357-0-104079
+msgctxt "198758357-0-104079"
+msgid "Time Freeze"
+msgstr "Time Freeze"
+
+#: 132143172-0-104059
+msgctxt "132143172-0-104059"
+msgid "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for <<1>> when the channel completes."
+"\n"
+"\nEnemies that are stunned gain <<2>> Heal Absorption for <<3>>, negating the next  <<2>> points of healing done."
+msgstr "대상 지역의 시간의 흐름을 멈춥니다.시전 시간동안에는 범위 내 적들의 이동 속도를 감소시키고 시전이 끝나면 <<1>> 동안 적들을 기절시킵니다."
+"\n"
+"\n기절한 적들은 <<3>> 동안 <<2>> 만큼의 회복이 무효화됩니다."
+
+#: 198758357-0-104059
+msgctxt "198758357-0-104059"
+msgid "Borrowed Time"
+msgstr "Borrowed Time"
+
+#: 132143172-0-103972
+msgctxt "132143172-0-103972"
+msgid "While you are casting or channeling a Psijic Order ability you gain Major Protection, reducing your damage taken by <<1>>."
+msgstr "시직 오더 기술을 시전하거나 시전중일 때, Major Protection을 얻어 받는 피해량이 <<1>> 감소합니다."
+
+#: 198758357-0-103972
+msgctxt "198758357-0-103972"
+msgid "Deliberation"
+msgstr "Deliberation"
+
+#: 132143172-0-103964
+msgctxt "132143172-0-103964"
+msgid "While you have a Psijic Order ability slotted and are Blocking, you gain a damage shield that absorbs <<1>> damage. "
+"\n"
+"\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Blocking."
+msgstr "시직 오더 기술을 슬롯에 장착하고 방어 할 경우, <<1>> 피해를 흡수하는 실드를 얻습니다."
+"\n"
+"\n이 실드는 |cffffff10|r 동안 방어를 하지 않을 경우 완전히 충전됩니다."
+
+#: 198758357-0-103964
+msgctxt "198758357-0-103964"
+msgid "Concentrated Barrier"
+msgstr "Concentrated Barrier"
+
+#: 132143172-0-103888
+msgctxt "132143172-0-103888"
+msgid "While you have a Psijic Order ability slotted and are Blocking, you gain a damage shield that absorbs <<1>> damage. "
+"\n"
+"\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Blocking."
+msgstr "시직 오더 기술을 슬롯에 장착하고 방어 할 경우, <<1>> 피해를 흡수하는 실드를 얻습니다."
+"\n"
+"\n이 실드는 |cffffff10|r 동안 방어를 하지 않을 경우 완전히 충전됩니다."
+
+#: 198758357-0-103888
+msgctxt "198758357-0-103888"
+msgid "Concentrated Barrier"
+msgstr "Concentrated Barrier"
+
+#: 132143172-0-103878
+msgctxt "132143172-0-103878"
+msgid "When you cast a Psijic Order ability while you are in combat, you generate a spell charge. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing <<1>> or <<2>>, whichever is higher."
+"\n"
+"\nThe spell charges must be generated within <<3>> of each other or all charges will be lost."
+msgstr "전투중에 시직 오더 기술을 사용하면, 마법 충전을 얻습니다. |cffffff5|개의 마법 충전이 모일경우 가장 가까운 적에게 마법 오브를 투사하여 <<1>> 혹은 <<2>> 중에 더 높은 피해를 줍니다."
+"\n"
+"\n<<3>> 내에 마법 충전을 얻지 못할 경우 모든 충전이 사라집니다."
+
+#: 198758357-0-103878
+msgctxt "198758357-0-103878"
+msgid "Spell Orb"
+msgstr "Spell Orb"
+
+#: 132143172-0-103819
+msgctxt "132143172-0-103819"
+msgid "When you cast a Psijic Order ability while you are in combat, you generate a spell charge. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing <<1>> or <<2>>, whichever is higher."
+"\n"
+"\nThe spell charges must be generated within <<3>> of each other or all charges will be lost."
+msgstr "전투중에 시직 오더 기술을 사용하면, 마법 충전을 얻습니다. |cffffff5|개의 마법 충전이 모일경우 가장 가까운 적에게 마법 오브를 투사하여 <<1>> 혹은 <<2>> 중에 더 높은 피해를 줍니다."
+"\n"
+"\n<<3>> 내에 마법 충전을 얻지 못할 경우 모든 충전이 사라집니다."
+
+#: 198758357-0-103819
+msgctxt "198758357-0-103819"
+msgid "Spell Orb"
+msgstr "Spell Orb"
+
+#: 132143172-0-103811
+msgctxt "132143172-0-103811"
+msgid "Reduces the cost of your Psijic Order abilities by <<1>>."
+msgstr "시직 오더 기술의 자원 소모를 <<1>> 만큼 감소시킵니다."
+
+#: 198758357-0-103811
+msgctxt "198758357-0-103811"
+msgid "Clairvoyance"
+msgstr "Clairvoyance"
+
+#: 132143172-0-103809
+msgctxt "132143172-0-103809"
+msgid "Reduces the cost of your Psijic Order abilities by <<1>>."
+msgstr "시직 오더 기술의 자원 소모를 <<1>> 만큼 감소시킵니다."
+
+#: 198758357-0-103809
+msgctxt "198758357-0-103809"
+msgid "Clairvoyance"
+msgstr "Clairvoyance"
+
+#: 132143172-0-103793
+msgctxt "132143172-0-103793"
+msgid "The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel."
+msgstr "시직 오더에게 받은 시야를 통해 영혼 세계를 볼 수 있게 되었습니다. 이제 당신은 탐리엘 전역의 균열(rifts)과 상호작용 할 수 있습니다."
+
+#: 198758357-0-103793
+msgctxt "198758357-0-103793"
+msgid "See the Unseen"
+msgstr "See the Unseen"
+
+#: 132143172-0-103755
+msgctxt "132143172-0-103755"
+msgid "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies."
+"\n"
+"\nYour Light Attack heals for <<1>> Health over <<2>>."
+"\n"
+"\nYour Heavy Attack heals for <<3>> Health every <<4>> while channeling."
+"\n"
+"\nYou heal yourself for <<5>> of the amount of healing done to the ally."
+msgstr "Moawita의 의식을 발동시켜, 당신의 약공격과 강공격이 아군을 회복시키는 기술로 변경됩니다."
+"\n"
+"\n약공격은 <<2>> 에 걸쳐<<1>>을 치유합니다."
+"\n"
+"\n강공격은 시전중에 <<4>> 에 걸쳐  <<3>> 을 치유합니다."
+"\n"
+"\n아군을 치유한 수치의 <<5>> 만큼 자신을 치유합니다."
+
+#: 198758357-0-103755
+msgctxt "198758357-0-103755"
+msgid "Symbiosis"
+msgstr "Symbiosis"
+
+#: 132143172-0-103747
+msgctxt "132143172-0-103747"
+msgid "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies."
+"\n"
+"\nYour Light Attack heals for <<1>> Health over <<2>>."
+"\n"
+"\nYour Heavy Attack heals for <<3>> Health every <<4>> while channeling."
+"\n"
+"\nWhile you heal an ally you grant them <<5>> and <<6>>, increasing their Physical and Spell Resistance by <<7>>."
+msgstr "Moawita의 의식을 발동시켜, 당신의 약공격과 강공격이 아군을 회복시키는 기술로 변경됩니다."
+"\n"
+"\n약공격은 <<2>> 에 걸쳐<<1>>을 치유합니다."
+"\n"
+"\n강공격은 시전중에 <<4>> 에 걸쳐  <<3>> 을 치유합니다."
+"\n"
+"\n치유중에는 아군과 당신에게 <<5>>와 <<6>> 효과를 주어, 물리 및 마법 저항이 <<7>>만큼 증가합니다."
+
+#: 198758357-0-103747
+msgctxt "198758357-0-103747"
+msgid "Mend Spirit"
+msgstr "Mend Spirit"
+
+#: 132143172-0-103710
+msgctxt "132143172-0-103710"
+msgid "Bend time and space around you to gain Major Expedition for <<1>> and Minor Force for <<2>>, increasing your Movement Speed by <<3>> and Critical Damage by <<4>>."
+"\n"
+"\nReduces the cost of Sprint by |cffffff50|r% for <<5>>."
+msgstr "당신 주변의 시공간을 구부려 <<1>> 동안 Major Expedition 과 <<2>>동안 Minor Force를 얻습니다. 이동속도가 <<3>> 증가하고 치명타 피해량이 <<4>> 증가합니다."
+"\n"
+"\n스프린트의 자원소모를 <<5>> 동안  |cffffff50|r% 감소시킵니다."
+
+#: 198758357-0-103710
+msgctxt "198758357-0-103710"
+msgid "Race Against Time"
+msgstr "Race Against Time"
+
+#: 132143172-0-103706
+msgctxt "132143172-0-103706"
+msgid "Bend time and space around you to gain Major Expedition for <<1>> and Minor Force for <<2>>, increasing your Movement Speed by <<3>> and Critical Damage by <<4>>."
+msgstr "당신 주변의 시공간을 구부려 <<1>> 동안 Major Expedition 과 <<2>>동안 Minor Force를 얻습니다. 이동속도가 <<3>> 증가하고 치명타 피해량이 <<4>> 증가합니다."
+
+#: 198758357-0-103706
+msgctxt "198758357-0-103706"
+msgid "Channeled Acceleration"
+msgstr "Channeled Acceleration"
+
+#: 132143172-0-103665
+msgctxt "132143172-0-103665"
+msgid "Focus your body and mind into a meditative state, healing for <<1>> Health and restoring <<2>> Magicka and Stamina every <<3>>."
+"\n"
+"\nMaintaining the channel increases the Health restored by <<4>> every tick, up to a maximum of |cffffff50|r%."
+"\n"
+"\nYou will remain in a meditative state until you toggle this ability off or are interrupted."
+msgstr "육체와 정신을 집중해 명상에 들어갑니다. 매 <<3>> 마다 <<1>>의 체력과 <<2>>의 매지카와 스테미너를 회복합니다."
+"\n"
+"\n명상을 유지하는동안 체력 회복이 매번 <<4>>씩 증가하며 최대 |cffffff50|r% 까지 증가합니다."
+"\n"
+"\n명상 상태는 시전을 방해받거나 이 기술을 다시 사용할 때까지 유지됩니다."
+
+#: 198758357-0-103665
+msgctxt "198758357-0-103665"
+msgid "Introspection"
+msgstr "Introspection"
+
+#: 132143172-0-103652
+msgctxt "132143172-0-103652"
+msgid "Focus your body and mind into a meditative state, healing for <<1>> Health and restoring <<2>> Magicka and Stamina every <<3>>."
+"\n"
+"\nYou will remain in a meditative state until you toggle this ability off or are interrupted."
+msgstr "육체와 정신을 집중해 명상에 들어갑니다. 매 <<3>> 마다 <<1>>의 체력과 <<2>>의 매지카와 스테미너를 회복합니다."
+"\n"
+"\n명상 상태는 시전을 방해받거나 이 기술을 다시 사용할 때까지 유지됩니다."
+
+#: 198758357-0-103652
+msgctxt "198758357-0-103652"
+msgid "Deep Thoughts"
+msgstr "Deep Thoughts"
+
+#: 132143172-0-103623
+msgctxt "132143172-0-103623"
+msgid "Infuse your weapon with power, causing your next Light Attack used within <<1>> to deal an additional <<2>> and heal you for <<3>> of the damage done."
+"\n"
+"\nIf the power is not consumed in time, regain a portion of the resources spent."
+msgstr "당신의 무기를 강화하여, 다음 <<1>> 이내의 약공격에 <<2>> 추가 피해를 더하고 입힌 피해량의 <<3>>을 회복합니다."
+"\n"
+"\n시간 내에 효과가 발동되지 않았을 경우, 사용한 자원은 반환됩니다."
+
+#: 198758357-0-103623
+msgctxt "198758357-0-103623"
+msgid "Crushing Weapon"
+msgstr "Crushing Weapon"
+
+#: 132143172-0-103571
+msgctxt "132143172-0-103571"
+msgid "Infuse your weapon with power, causing your next Light Attack used within <<1>> to deal an additional <<2>> and apply the Burning, Concussion, or Chill elemental status effect."
+"\n"
+"\nIf the power is not consumed in time, regain a portion of the resources spent."
+msgstr "당신의 무기를 강화하여, 다음 <<1>> 이내의 약공격에 <<2>> 추가 피해를 더하고 Burning, Concussion, Chilled 상태 이상 중 하나를 일으킵니다."
+"\n"
+"\n시간 내에 효과가 발동되지 않았을 경우, 사용한 자원은 반환됩니다."
+
+#: 198758357-0-103571
+msgctxt "198758357-0-103571"
+msgid "Elemental Weapon"
+msgstr "Elemental Weapon"
+
+#: 132143172-0-103564
+msgctxt "132143172-0-103564"
+msgid "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago."
+"\n"
+"\nWhile slotted you gain Minor Protection, reducing your damage taken by <<1>>."
+msgstr "과거의 시간으로 돌아가, 당신의 헬스, 매지카, 스테미나 및 위치를  |cffffff4|r초 전으로 되돌립니다."
+"\n"
+"\n이 기술이 슬롯에 있는 동안 Minor Protection을 얻어, 받는 피해량이 <<1>> 감소합니다."
+
+#: 198758357-0-103564
+msgctxt "198758357-0-103564"
+msgid "Temporal Guard"
+msgstr "Temporal Guard"
+
+#: 132143172-0-103557
+msgctxt "132143172-0-103557"
+msgid "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago."
+"\n"
+"\nYou can cast this ability while you are crowd controlled and it automatically grants you crowd control immunity."
+msgstr "과거의 시간으로 돌아가, 당신의 헬스, 매지카, 스테미나 및 위치를  |cffffff4|r초 전으로 되돌립니다."
+"\n"
+"\n당신은 이 기술을 군중 제어의 영향을 받는 중에도 사용할 수 있으며, 사용시 군중제어 면역을 얻습니다."
+
+#: 198758357-0-103557
+msgctxt "198758357-0-103557"
+msgid "Precognition"
+msgstr "Precognition"
+
+#: 132143172-0-103543
+msgctxt "132143172-0-103543"
+msgid "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies."
+"\n"
+"\nYour Light Attack heals for <<1>> Health over <<2>>."
+"\n"
+"\nYour Heavy Attack heals for <<3>> Health every <<4>> while channeling."
+msgstr "Moawita의 의식을 발동시켜, 당신의 약공격과 강공격이 아군을 회복시키는 기술로 변경됩니다."
+"\n"
+"\n약공격은 <<2>> 에 걸쳐<<1>>을 치유합니다."
+"\n"
+"\n강공격은 시전중에 <<4>> 에 걸쳐  <<3>> 을 치유합니다."
+
+#: 198758357-0-103543
+msgctxt "198758357-0-103543"
+msgid "Mend Wounds"
+msgstr "Mend Wounds"
+
+#: 132143172-0-103503
+msgctxt "132143172-0-103503"
+msgid "Bend time and space around you to gain Major Expedition for <<1>> and Minor Force for <<2>>, increasing your Movement Speed by <<3>> and Critical Damage by <<4>>."
+msgstr "당신 주변의 시공간을 구부려 <<1>> 동안 Major Expedition 과 <<2>>동안 Minor Force를 얻습니다. 이동속도가 <<3>> 증가하고 치명타 피해량이 <<4>> 증가합니다."
+
+#: 198758357-0-103503
+msgctxt "198758357-0-103503"
+msgid "Accelerate"
+msgstr "Accelerate"
+
+#: 132143172-0-103492
+msgctxt "132143172-0-103492"
+msgid "Focus your body and mind into a meditative state, healing for <<1>> Health and restoring <<2>> Magicka and Stamina every <<3>>."
+"\n"
+"\nYou will remain in a meditative state until you toggle this ability off or are interrupted."
+msgstr "육체와 정신을 집중해 명상에 들어갑니다. 매 <<3>> 마다 <<1>>의 체력과 <<2>>의 매지카와 스테미너를 회복합니다."
+"\n"
+"\n명상 상태는 시전을 방해받거나 이 기술을 다시 사용할 때까지 유지됩니다."
+
+#: 198758357-0-103492
+msgctxt "198758357-0-103492"
+msgid "Meditate"
+msgstr "Meditate"
+
+#: 132143172-0-103488
+msgctxt "132143172-0-103488"
+msgid "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for <<1>> when the channel completes."
+msgstr "대상 지역의 시간의 흐름을 멈춥니다.시전 시간동안에는 범위 내 적들의 이동 속도를 감소시키고 시전이 끝나면 <<1>> 동안 적들을 기절시킵니다."
+
+#: 198758357-0-103488
+msgctxt "198758357-0-103488"
+msgid "Time Stop"
+msgstr "Time Stop"
+
+#: 132143172-0-103483
+msgctxt "132143172-0-103483"
+msgid "Infuse your weapon with power, causing your next Light Attack used within <<1>> to deal an additional <<2>>."
+"\n"
+"\nIf the power is not consumed in time, regain a portion of the resources spent."
+msgstr "당신의 무기를 강화하여, 다음 <<1>> 이내의 약공격에 <<2>> 추가 피해를 줍니다."
+"\n"
+"\n시간 내에 효과가 발동되지 않았을 경우, 사용한 자원은 반환됩니다."
+
+#: 198758357-0-103483
+msgctxt "198758357-0-103483"
+msgid "Imbue Weapon"
+msgstr "Imbue Weapon"
+
+#: 132143172-0-103478
+msgctxt "132143172-0-103478"
+msgid "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago."
+msgstr "과거의 시간으로 돌아가, 당신의 헬스, 매지카, 스테미나 및 위치를  |cffffff4|r초 전으로 되돌립니다."
+
+#: 198758357-0-103478
+msgctxt "198758357-0-103478"
+msgid "Undo"
+msgstr "Undo"

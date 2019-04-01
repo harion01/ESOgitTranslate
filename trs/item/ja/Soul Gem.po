@@ -1,0 +1,161 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"\n"
+"Content-Transfer-Encoding: 8bit"
+"\n"
+"Content-Type: text/plain; charset=UTF-8"
+"\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900"
+"\n"
+"Last-Translator: Administrator <admin@the.gg>"
+"\n"
+"Language-Team: Korean"
+"\n"
+"Language: ja"
+"\n"
+"X-Generator: Zanata 4.2.4"
+"\n"
+"Plural-Forms: nplurals=1; plural=0"
+"\n"
+
+#: 228378404-0-61081
+msgctxt "228378404-0-61081"
+msgid "Used to capture souls of any Level."
+msgstr "あらゆるレベルの魂を捕らえるために使われる。"
+
+#: 242841733-0-61081
+msgctxt "242841733-0-61081"
+msgid "Leveled Soul Gem (Empty)"
+msgstr "標準の魂石(空)"
+
+#: 228378404-0-61080
+msgctxt "228378404-0-61080"
+msgid "These soul gems can be used to revive players of any level, and to fully charge weapons of any level."
+msgstr "この魂石は、あらゆるレベルのプレイヤーを蘇らせ、あらゆるレベルの武器を完全にチャージすることができる。"
+
+#: 242841733-0-61080
+msgctxt "242841733-0-61080"
+msgid "Crown Soul Gem"
+msgstr "クラウン: 魂石"
+
+#: 228378404-0-33271
+msgctxt "228378404-0-33271"
+msgid "Used to fully charge weapons of any level, and revive players of any level."
+msgstr "全てのレベルの武器を完全にチャージするため、そして、全てのレベルのプレイヤーを蘇生するために使用する。"
+
+#: 242841733-0-33271
+msgctxt "242841733-0-33271"
+msgid "Soul Gem"
+msgstr "魂石"
+
+#: 228378404-0-33270
+msgctxt "228378404-0-33270"
+msgid "Used to fully charge weapons up to Level 49, and revive up to Level 49 players."
+msgstr "レベル49まで武器を完全にチャージするため、そして、レベル49までのプレイヤーを蘇生するために使用する。"
+
+#: 242841733-0-33270
+msgctxt "242841733-0-33270"
+msgid "Greater Soul Gem"
+msgstr "大魂石"
+
+#: 228378404-0-33269
+msgctxt "228378404-0-33269"
+msgid "Used to fully charge weapons up to Level 39, and revive up to Level 39 players."
+msgstr "レベル39まで武器を完全にチャージするため、そして、レベル39までのプレイヤーを蘇生するために使用する。"
+
+#: 242841733-0-33269
+msgctxt "242841733-0-33269"
+msgid "Common Soul Gem"
+msgstr "中魂石"
+
+#: 228378404-0-33268
+msgctxt "228378404-0-33268"
+msgid "Used to fully charge weapons up to Level 29, and revive up to Level 29 players."
+msgstr "レベル29まで武器を完全にチャージするため、そして、レベル29までのプレイヤーを蘇生するために使用する。"
+
+#: 242841733-0-33268
+msgctxt "242841733-0-33268"
+msgid "Lesser Soul Gem"
+msgstr "小魂石"
+
+#: 228378404-0-33267
+msgctxt "228378404-0-33267"
+msgid "Used to fully charge weapons up to Level 19, and revive up to Level 19 players."
+msgstr "レベル19まで武器を完全にチャージするため、そして、レベル19までのプレイヤーを蘇生するために使用する。"
+
+#: 242841733-0-33267
+msgctxt "242841733-0-33267"
+msgid "Minor Soul Gem"
+msgstr "微小魂石"
+
+#: 228378404-0-33266
+msgctxt "228378404-0-33266"
+msgid "Used to fully charge weapons up to Level 9, and revive up to Level 9 players."
+msgstr "レベル9まで武器を完全にチャージするため、そして、レベル9までのプレイヤーを蘇生するために使用する。"
+
+#: 242841733-0-33266
+msgctxt "242841733-0-33266"
+msgid "Petty Soul Gem"
+msgstr "極小魂石"
+
+#: 228378404-0-33265
+msgctxt "228378404-0-33265"
+msgid "Used to capture souls."
+msgstr "魂の捕獲に使用する。"
+
+#: 242841733-0-33265
+msgctxt "242841733-0-33265"
+msgid "Soul Gem (Empty)"
+msgstr "魂石(空)"
+
+#: 228378404-0-33264
+msgctxt "228378404-0-33264"
+msgid "Used to capture Level 40 - 49 souls."
+msgstr "レベル40～49の魂の捕獲に使用する。"
+
+#: 242841733-0-33264
+msgctxt "242841733-0-33264"
+msgid "Greater Soul Gem (Empty)"
+msgstr "大魂石(空)"
+
+#: 228378404-0-33263
+msgctxt "228378404-0-33263"
+msgid "Used to capture Level 30 - 39 souls."
+msgstr "レベル30～39の魂の捕獲に使用する。"
+
+#: 242841733-0-33263
+msgctxt "242841733-0-33263"
+msgid "Common Soul Gem (Empty)"
+msgstr "中魂石(空)"
+
+#: 228378404-0-33262
+msgctxt "228378404-0-33262"
+msgid "Used to capture Level 20 - 29 souls."
+msgstr "レベル20～29の魂の捕獲に使用する。"
+
+#: 242841733-0-33262
+msgctxt "242841733-0-33262"
+msgid "Lesser Soul Gem (Empty)"
+msgstr "小魂石(空)"
+
+#: 228378404-0-33261
+msgctxt "228378404-0-33261"
+msgid "Used to capture Level 10 - 19 souls."
+msgstr "レベル10～19の魂の捕獲に使用する。"
+
+#: 242841733-0-33261
+msgctxt "242841733-0-33261"
+msgid "Minor Soul Gem (Empty)"
+msgstr "微小魂石(空)"
+
+#: 228378404-0-33260
+msgctxt "228378404-0-33260"
+msgid "Used to capture Level 1 - 9 souls."
+msgstr "レベル1～9の魂の捕獲に使用する。"
+
+#: 242841733-0-33260
+msgctxt "242841733-0-33260"
+msgid "Petty Soul Gem (Empty)"
+msgstr "極小魂石(空)"
