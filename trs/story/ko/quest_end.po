@@ -4,7 +4,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"PO-Revision-Date: 2019-04-02 20:12+0900\n"
+"PO-Revision-Date: 2019-04-02 23:36+0900\n"
 "Last-Translator: harion01 <harion01@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -121,10 +121,9 @@ msgstr ""
 "캡쳐 된 라이브 중에 아무 것도 보이지 않습니다. 부끄러운 줄 알지만 Turuk은 짐승의 배를 칼로 감쌀 때 생각할 것입니다.-G-"
 
 #: 232026500-0-9899
-#, fuzzy
 msgctxt "232026500-0-9899"
 msgid "I've defeated the Celestial Serpent."
-msgstr "나는 천상의 뱀을 물리 쳤다.-G-"
+msgstr "나는 셀레스티얼 서펜트를 무찔럿다"
 
 #: 116521668-0-9887
 #, fuzzy
