@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:29+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 132143172-0-76461
 msgctxt "132143172-0-76461"
@@ -62,10 +55,12 @@ msgstr "Haggling"
 
 #: 132143172-0-76457
 msgctxt "132143172-0-76457"
-msgid "Bounty is decreased by <<1>> after 3 minutes."
-"\nHeat is decreased by <<2>> after 3 seconds."
-msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
-"\n히트가 3초 후 <<2>>만큼 감소합니다."
+msgid ""
+"Bounty is decreased by <<1>> after 3 minutes.\n"
+"Heat is decreased by <<2>> after 3 seconds."
+msgstr ""
+"현상금이 3분 후 <<1>>만큼 감소합니다.\n"
+"히트가 3초 후 <<2>>만큼 감소합니다."
 
 #: 198758357-0-76457
 msgctxt "198758357-0-76457"
@@ -74,10 +69,12 @@ msgstr "Swiftly Forgotten IV"
 
 #: 132143172-0-76456
 msgctxt "132143172-0-76456"
-msgid "Bounty is decreased by <<1>> after 3 minutes."
-"\nHeat is decreased by <<2>> after 3 seconds."
-msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
-"\n히트가 3초 후 <<2>>만큼 감소합니다."
+msgid ""
+"Bounty is decreased by <<1>> after 3 minutes.\n"
+"Heat is decreased by <<2>> after 3 seconds."
+msgstr ""
+"현상금이 3분 후 <<1>>만큼 감소합니다.\n"
+"히트가 3초 후 <<2>>만큼 감소합니다."
 
 #: 198758357-0-76456
 msgctxt "198758357-0-76456"
@@ -86,10 +83,12 @@ msgstr "Swiftly Forgotten III"
 
 #: 132143172-0-76455
 msgctxt "132143172-0-76455"
-msgid "Bounty is decreased by <<1>> after 3 minutes."
-"\nHeat is decreased by <<2>> after 3 seconds."
-msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
-"\n히트가 3초 후 <<2>>만큼 감소합니다."
+msgid ""
+"Bounty is decreased by <<1>> after 3 minutes.\n"
+"Heat is decreased by <<2>> after 3 seconds."
+msgstr ""
+"현상금이 3분 후 <<1>>만큼 감소합니다.\n"
+"히트가 3초 후 <<2>>만큼 감소합니다."
 
 #: 198758357-0-76455
 msgctxt "198758357-0-76455"
@@ -98,10 +97,12 @@ msgstr "Swiftly Forgotten II"
 
 #: 132143172-0-76454
 msgctxt "132143172-0-76454"
-msgid "Bounty is decreased by <<1>> after 3 minutes."
-"\nHeat is decreased by <<2>> after 3 seconds."
-msgstr "현상금이 3분 후 <<1>>만큼 감소합니다."
-"\n히트가 3초 후 <<2>>만큼 감소합니다."
+msgid ""
+"Bounty is decreased by <<1>> after 3 minutes.\n"
+"Heat is decreased by <<2>> after 3 seconds."
+msgstr ""
+"현상금이 3분 후 <<1>>만큼 감소합니다.\n"
+"히트가 3초 후 <<2>>만큼 감소합니다."
 
 #: 198758357-0-76454
 msgctxt "198758357-0-76454"
@@ -120,8 +121,8 @@ msgstr "Veil of Shadows"
 
 #: 132143172-0-76452
 msgctxt "132143172-0-76452"
-msgid "When you have Bounty and are in combat, you have a chance to spot a "Footpad" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."
-msgstr "현상금을 가지고 전투 중일 때, 은신처가 있는 마을에 "발판"을 발견할 수 있는 기회가 주어집니다. 발판과 상호 작용하면 플레이어가 가장 가까운 은신처로 안전하게 운반됩니다."
+msgid "When you have Bounty and are in combat, you have a chance to spot a \"Footpad\" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."
+msgstr "현상금을 가지고 전투 중일 때, 은신처가 있는 마을에 \"발판\"을 발견할 수 있는 기회가 주어집니다. 발판과 상호 작용하면 플레이어가 가장 가까운 은신처로 안전하게 운반됩니다."
 
 #: 198758357-0-76452
 msgctxt "198758357-0-76452"
