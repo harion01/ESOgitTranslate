@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:13+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 121487972-0-9973
 msgctxt "121487972-0-9973"
@@ -328,7 +321,9 @@ msgstr "카시미어 왕과 대화하기"
 #: 121487972-0-9729
 msgctxt "121487972-0-9729"
 msgid "Talk to the Mages Guild at Glenumbra Moors"
-msgstr "글렌움브라 황야(Glenumbra Moors)에서 마법사 길드와 대화하기"
+msgstr ""
+"글렌움브라 황야(Glenumbra Moors)에서 마법사 길드와 대화"
+"하기"
 
 #: 121487972-0-9728
 msgctxt "121487972-0-9728"
@@ -2658,7 +2653,8 @@ msgstr "공격을 조사하기"
 #: 121487972-0-7911
 msgctxt "121487972-0-7911"
 msgid "Meet the Champions at Moonmont"
-msgstr "문몬트(Moonmont)에서 투사들(Champions)를 만나십시오."
+msgstr ""
+"문몬트(Moonmont)에서 투사들(Champions)를 만나십시오."
 
 #: 121487972-0-7910
 msgctxt "121487972-0-7910"
@@ -6438,20 +6434,17 @@ msgstr "여관 주인은 도마뱀을 싫어합니다"
 #: 121487972-0-5206
 msgctxt "121487972-0-5206"
 msgid "Talk to Telbaril"
-msgstr "Telbaril과 이야기하기"
-"\n"
+msgstr "Telbaril과 이야기하기\n"
 
 #: 121487972-0-5205
 msgctxt "121487972-0-5205"
 msgid "Talk to Telbaril"
-msgstr "Telbaril과 이야기하기"
-"\n"
+msgstr "Telbaril과 이야기하기\n"
 
 #: 121487972-0-5204
 msgctxt "121487972-0-5204"
 msgid "Talk to Telbaril"
-msgstr "Telbaril과 이야기하기"
-"\n"
+msgstr "Telbaril과 이야기하기\n"
 
 #: 121487972-0-5196
 msgctxt "121487972-0-5196"
@@ -10430,7 +10423,7 @@ msgstr "터널에 들어가 도둑질 시작하기"
 
 #: 256430276-0-38520
 msgctxt "256430276-0-38520"
-msgid "Watch Captain Jimila "Negotiate""
+msgid "Watch Captain Jimila \"Negotiate\""
 msgstr "짐밀라 선장의 교섭을 지켜보기"
 
 #: 121487972-0-3851
@@ -13466,7 +13459,8 @@ msgstr "자유로운 영혼(Freed Soul)와(과) 대화하기"
 #: 121487972-0-3167
 msgctxt "121487972-0-3167"
 msgid "Talk to the Priestess of Stendarr"
-msgstr "스텐다르의 사제(Priestess of Stendarr)와(과) 대화하기"
+msgstr ""
+"스텐다르의 사제(Priestess of Stendarr)와(과) 대화하기"
 
 #: 256430276-0-31662
 msgctxt "256430276-0-31662"
@@ -13951,7 +13945,8 @@ msgstr "Bjoulsae 여왕을 조사하기"
 #: 121487972-0-2929
 msgctxt "121487972-0-2929"
 msgid "Talk to Farvad Atop HoonDing's Watch"
-msgstr "HoonDing's Watch의 꼭대기에 있는 Farvad 와(과) 대화하기"
+msgstr ""
+"HoonDing's Watch의 꼭대기에 있는 Farvad 와(과) 대화하기"
 
 #: 256430276-0-29231
 msgctxt "256430276-0-29231"
@@ -14831,7 +14826,8 @@ msgstr "내부 제단 찾기"
 #: 256430276-0-24109
 msgctxt "256430276-0-24109"
 msgid "Speak with Shifty Tom About Obtaining a Disguise"
-msgstr "관리자 시리온과 변장을 하는 방법에 대해서 대화하기"
+msgstr ""
+"관리자 시리온과 변장을 하는 방법에 대해서 대화하기"
 
 #: 256430276-0-23998
 msgctxt "256430276-0-23998"
@@ -15446,7 +15442,8 @@ msgstr "키레스 바노스와 대화하기"
 #: 121487972-0-2025
 msgctxt "121487972-0-2025"
 msgid "Meet Abbot Durak at Shinji's Scarp"
-msgstr "신지의 벼랑(Shinji's Scarp)에서 듀락 수도원장을 만나기"
+msgstr ""
+"신지의 벼랑(Shinji's Scarp)에서 듀락 수도원장을 만나기"
 
 #: 256430276-0-20239
 msgctxt "256430276-0-20239"
@@ -19176,7 +19173,8 @@ msgstr "Safa al-Satakalaam과 대화하기"
 #: 121487972-0-11899
 msgctxt "121487972-0-11899"
 msgid "Inform the Star-Gazers of the Mage's Joining"
-msgstr "마법사가 이쪽 편에 참여했음을 Star-Gazers에게 전하기"
+msgstr ""
+"마법사가 이쪽 편에 참여했음을 Star-Gazers에게 전하기"
 
 #: 121487972-0-11893
 msgctxt "121487972-0-11893"

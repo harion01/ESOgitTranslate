@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:11+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 52420949-0-974
 msgctxt "52420949-0-974"
@@ -108,11 +101,13 @@ msgstr "블라이트베인(Blightbane)"
 
 #: 265851556-0-730
 msgctxt "265851556-0-730"
-msgid "The Quarantine Master in Davon's Watch wants me to discover the fate of Fort Arand, which was recently engulfed in a Blightstorm."
+msgid ""
+"The Quarantine Master in Davon's Watch wants me to discover the fate of Fort Arand, which was recently engulfed in a Blightstorm.\n"
 "\n"
-"\nHe says this will prove that I am immune to the Blight, if I returned uninfected."
-msgstr "데본스 워치(Davon's Watch)의  검역장은 블라이트가 만연한 포트 아랜드(Fort Arand)의 운명을 찾아달라고 부탁했다. "
-"\n그는 내가 감염되지 않고 돌아온다면, 이것이 내가 블라이트에 면역력이 있음을 증명해줄것 이라고 말했다."
+"He says this will prove that I am immune to the Blight, if I returned uninfected."
+msgstr ""
+"데본스 워치(Davon's Watch)의  검역장은 블라이트가 만연한 포트 아랜드(Fort Arand)의 운명을 찾아달라고 부탁했다. \n"
+"그는 내가 감염되지 않고 돌아온다면, 이것이 내가 블라이트에 면역력이 있음을 증명해줄것 이라고 말했다."
 
 #: 52420949-0-73
 msgctxt "52420949-0-73"
@@ -172,7 +167,9 @@ msgstr "바닥에 귀를 대기"
 #: 265851556-0-67
 msgctxt "265851556-0-67"
 msgid "Baron Winoc tells me that Camlorn is in an uneasy state of truce between his Hands of Northmoor and the Magis Order. He is unsure where public opinion lies, and is too high-profile to ask around himself. He's asked me to ask around for him."
-msgstr "Baron Winoc은 나에게 캠론(Camlorn)은 현재 Hands of Northmoor와 Magis Order간의 휴전에 의해 불편한 상황에 있다고 말해줬다. 그는 사람들의 의견이 어떤지 확실해 하지 않으며 그가 물어보며 다니기에는 너무 눈에 띈다고 했다. 그는 나에게 그를 위해 물어봐 다녀 달라고 하였다."
+msgstr ""
+"Baron Winoc은 나에게 캠론(Camlorn)은 현재 Hands of Northmoor와 Magis Order간의 휴전에 의해 불편한 상황에 있다고 말해줬다. 그는 사람들의 의견이 어떤지 확실해 하지 않으며 그가 물어보며 다니기에는 너무 눈에 띈다고 했다. 그는 나에게 그를 위해 물어봐 다녀 달라"
+"고 하였다."
 
 #: 52420949-0-669
 msgctxt "52420949-0-669"
@@ -454,7 +451,7 @@ msgstr "스킨 테이커-G-"
 
 #: 265851556-0-6279
 msgctxt "265851556-0-6279"
-msgid "The skinned bodies of Argonians are being placed on display around Murkmire by a killer dubbed "the Skin Taker." I have been asked to help find this killer before anyone else falls victim to their grisly methods."
+msgid "The skinned bodies of Argonians are being placed on display around Murkmire by a killer dubbed \"the Skin Taker.\" I have been asked to help find this killer before anyone else falls victim to their grisly methods."
 msgstr ""
 
 #: 52420949-0-6278
@@ -726,9 +723,10 @@ msgstr ""
 
 #: 265851556-0-6252
 msgctxt "265851556-0-6252"
-msgid "<<1>> of the Undaunted has challenged me to explore the Depths of Malatar."
+msgid ""
+"<<1>> of the Undaunted has challenged me to explore the Depths of Malatar.\n"
 "\n"
-"\nYou can only complete the Gold Key Challenge in Veteran Mode."
+"You can only complete the Gold Key Challenge in Veteran Mode."
 msgstr ""
 
 #: 52420949-0-6251
@@ -748,9 +746,10 @@ msgstr ""
 
 #: 265851556-0-6250
 msgctxt "265851556-0-6250"
-msgid "<<1>> of the Undaunted has challenged me to explore Frostvault."
+msgid ""
+"<<1>> of the Undaunted has challenged me to explore Frostvault.\n"
 "\n"
-"\nYou can only complete the Gold Key Challenge in Veteran Mode."
+"You can only complete the Gold Key Challenge in Veteran Mode."
 msgstr ""
 
 #: 52420949-0-6249
@@ -1844,8 +1843,7 @@ msgstr "여분의 방"
 #: 265851556-0-6130
 msgctxt "265851556-0-6130"
 msgid "Felande Demarie, a friendly landlord, is looking for a tenant of good reputation to give her inn room to."
-msgstr "친숙한 집주인 인 Felande Demarie는 여관에 방을 제공 할 좋은 평판을 원하고 있습니다."
-"\n"
+msgstr "친숙한 집주인 인 Felande Demarie는 여관에 방을 제공 할 좋은 평판을 원하고 있습니다.\n"
 
 #: 52420949-0-6129
 #, fuzzy
@@ -2000,14 +1998,12 @@ msgstr "Lillandril의 Sapiarchs는 Mages Guild의 멤버를 투옥했습니다. 
 #: 52420949-0-6110
 msgctxt "52420949-0-6110"
 msgid "Glitter and Gleam"
-msgstr "반짝이는 반짝임"
-"\n"
+msgstr "반짝이는 반짝임\n"
 
 #: 265851556-0-6110
 msgctxt "265851556-0-6110"
 msgid "The Bursar of Tributes seeks ornate items to add to the Blackfeather Court's hoard."
-msgstr "Bursar of Tributes는 Blackfeather Court의 보물에 추가 할 화려한 항목을 찾습니다."
-"\n"
+msgstr "Bursar of Tributes는 Blackfeather Court의 보물에 추가 할 화려한 항목을 찾습니다.\n"
 
 #: 52420949-0-6109
 msgctxt "52420949-0-6109"
@@ -2022,21 +2018,18 @@ msgstr "라이트마스터는 점술 마법을 사용해 사라진 기억들 일
 #: 52420949-0-6107
 msgctxt "52420949-0-6107"
 msgid "A Matter of Leisure"
-msgstr "여가 생활"
-"\n"
+msgstr "여가 생활\n"
 
 #: 265851556-0-6107
 #, fuzzy
 msgctxt "265851556-0-6107"
 msgid "The Bursar of Tribute demands compensation for the Blackfeather Court from mortals who refuse to allow them to play with their games and toys."
-msgstr "Bursar of Tribute는 게임과 장난감을 가지고 노는 것을 거부하는 필멸자로부터 검은 깃털 궁전에 대한 보상을 요구합니다."
-"\n"
+msgstr "Bursar of Tribute는 게임과 장난감을 가지고 노는 것을 거부하는 필멸자로부터 검은 깃털 궁전에 대한 보상을 요구합니다.\n"
 
 #: 52420949-0-6106
 msgctxt "52420949-0-6106"
 msgid "A Matter of Tributes"
-msgstr "공물 문제"
-"\n"
+msgstr "공물 문제\n"
 
 #: 265851556-0-6106
 msgctxt "265851556-0-6106"
@@ -2172,7 +2165,7 @@ msgstr "고장난  브라스리스크(The Broken Brassilisk)"
 
 #: 265851556-0-6094
 msgctxt "265851556-0-6094"
-msgid "I found an inactive brassilisk in the Radius of the Clockwork City with the name "Frynga" carved into its jaw. If I find Frynga and return her mechanical pet, perhaps she will reward me."
+msgid "I found an inactive brassilisk in the Radius of the Clockwork City with the name \"Frynga\" carved into its jaw. If I find Frynga and return her mechanical pet, perhaps she will reward me."
 msgstr ""
 
 #: 52420949-0-6093
@@ -2762,7 +2755,6 @@ msgid "I've run into a group of priests sermonizing about a holiday in Cyrodiil.
 msgstr "시로딜의 기념일에 대해 설교를 하는 사제 무리를 마주쳤다."
 
 #: 52420949-0-6012
-#, fuzzy
 msgctxt "52420949-0-6012"
 msgid "Kill Enemy Wardens"
 msgstr ""
@@ -3217,7 +3209,9 @@ msgstr "마도사가 움직이다"
 #: 265851556-0-5914
 msgctxt "265851556-0-5914"
 msgid "My ambitious companion, Sun-in-Shadow, succeeded in replacing Magister Gothren's Mouth, Ralasa Delvi. But even success carries risk in Sadrith Mora. Rumor has it that Magister Gothren leaves no slight unpunished."
-msgstr "나의 야심찬 동료인 선-인-섀도우(Sun-in-Shadow)는 마도사 고드렌(Magister Gothren)의 대변인(Mouth)인 랄라사 델비(Ralasa Delvi)를 대체하는데 성공했다. 그러한 성공에도 사드리스 모라에는 위험이 따른다. 소문에 따르면 마도사 고드렌(Magister Gothren)은  조금도 처벌받지 않고 내버려둔다고 한다."
+msgstr ""
+"나의 야심찬 동료인 선-인-섀도우(Sun-in-Shadow)는 마도사 고드렌(Magister Gothren)의 대변인(Mouth)인 랄라사 델비(Ralasa Delvi)를 대체하는데 성공했다. 그러한 성공에도 사드리스 모라에는 위험이 따른다. 소문에 따르면 마도사 고드렌(Magister Gothren)은  조금도 처"
+"벌받지 않고 내버려둔다고 한다."
 
 #: 52420949-0-5913
 msgctxt "52420949-0-5913"
@@ -3348,7 +3342,8 @@ msgstr "반대, 장애물"
 #: 265851556-0-5901
 msgctxt "265851556-0-5901"
 msgid "With my help, Sun-in-Shadow achieved the rank of retainer in the Great House Telvanni. If she is to help free Eoki, she will need to climb the ranks even further. Unfortunately, becoming an oathman may present a greater challenge than she expects."
-msgstr "나의 도움으로, 선-인-섀도우(Sun-in-Shadow)는 대 텔바니 가문의 신입(Retainer)계급을 획득했다. 그녀가 에오키(Eoki)를 자유롭게 하려면, 그녀는 더욱더 높은 계급을 얻어야 할 것이다. 불행하게도, 준회원(Oathman)이 되는 것은 그녀의 예상보다 더 큰 도전이 될 수 있다."
+msgstr ""
+"나의 도움으로, 선-인-섀도우(Sun-in-Shadow)는 대 텔바니 가문의 신입(Retainer)계급을 획득했다. 그녀가 에오키(Eoki)를 자유롭게 하려면, 그녀는 더욱더 높은 계급을 얻어야 할 것이다. 불행하게도, 준회원(Oathman)이 되는 것은 그녀의 예상보다 더 큰 도전이 될 수 있다."
 
 #: 52420949-0-5900
 msgctxt "52420949-0-5900"
@@ -3509,7 +3504,9 @@ msgstr "위험한 품종"
 #: 265851556-0-5876
 msgctxt "265851556-0-5876"
 msgid "A mad breedsman named Drovos Nelvayn has created a dangerous new genus of kwama. These insects attack without provocation and resist any attempts at domestication. If the creatures escape, native kwama and the miners that tend them will suffer."
-msgstr "드로보스 넬베인(Drovos Nelvayn)이라는 한 미친 사육사가 위험한 새로운 크와마 품종을 만들었습니다. 이 곤충들은 아무런 이유 없이 공격하며 가축화하려는 어떠한 시도에도 저항합니다. 이 생물체들이 탈출하면,  그들을 기른 토박이 크와마와 광부들은 고통을 겪을 것입니다."
+msgstr ""
+"드로보스 넬베인(Drovos Nelvayn)이라는 한 미친 사육사가 위험한 새로운 크와마 품종을 만들었습니다. 이 곤충들은 아무런 이유 없이 공격하며 가축화하려는 어떠한 시도에도 저항합니다. 이 생물체들이 탈출하면,  그들을 기른 토박이 크와마와 광부들은 고통을 겪을 것입니"
+"다."
 
 #: 52420949-0-5872
 #, fuzzy
@@ -4160,7 +4157,7 @@ msgstr "회색 통로-G-"
 
 #: 265851556-0-5777
 msgctxt "265851556-0-5777"
-msgid "I found a book describing an ancient Nedic hero named Ranev the Coal-Eyed Wanderer and her legendary pilgrimage along "The Gray Passage." According to the text, those who complete the pilgrimage in the allotted time gain the favor of the Stars."
+msgid "I found a book describing an ancient Nedic hero named Ranev the Coal-Eyed Wanderer and her legendary pilgrimage along \"The Gray Passage.\" According to the text, those who complete the pilgrimage in the allotted time gain the favor of the Stars."
 msgstr ""
 
 #: 52420949-0-5776
@@ -4173,7 +4170,8 @@ msgstr "시간을 잃은 전사-G-"
 #, fuzzy
 msgctxt "265851556-0-5776"
 msgid "The Celestial Warrior is worried about his champion, Titus Valerius. Lost in time, Titus' memory has begun to break apart. He no longer remembers who he is or his connection to the Warrior. Without his memory, the Warrior can't send him home."
-msgstr "Celestial Warrior는 그의 챔피언 인 Titus Valerius에 대해 걱정하고 있습니다. 시간이 지남에 따라, 티투스의 기억이 깨지기 시작했습니다. 그는 더 이상 자신이 누구인지 또는 전사와의 관계를 기억하지 않습니다. 그의 기억이 없다면 워리어는 그를 집에 보낼 수 없다.-G-"
+msgstr ""
+"Celestial Warrior는 그의 챔피언 인 Titus Valerius에 대해 걱정하고 있습니다. 시간이 지남에 따라, 티투스의 기억이 깨지기 시작했습니다. 그는 더 이상 자신이 누구인지 또는 전사와의 관계를 기억하지 않습니다. 그의 기억이 없다면 워리어는 그를 집에 보낼 수 없다.-G-"
 
 #: 52420949-0-5775
 #, fuzzy
@@ -4209,7 +4207,8 @@ msgstr "미사용-G-"
 #, fuzzy
 msgctxt "265851556-0-5772"
 msgid "Outside the ancient ruins of Skyreach Pinnacle, I met a member of the Scaled Court. He told me that the Court accidentally released creatures from magical wards the Nedes set up long ago. He plans to reestablish the wards, but he needs help."
-msgstr "스카이 리치 피나클 (Skyreach Pinnacle)의 고대 유적 밖에서 나는 스케일 된 법원 (Scaled Court)의 회원을 만났습니다. 그는 법원이 Nedes가 오래 전에 설정 한 마술 병동에서 우연히 생물을 풀어 냈다고 나에게 말했다. 그는 병동을 ​​재건하려하지만 도움이 필요합니다.-G-"
+msgstr ""
+"스카이 리치 피나클 (Skyreach Pinnacle)의 고대 유적 밖에서 나는 스케일 된 법원 (Scaled Court)의 회원을 만났습니다. 그는 법원이 Nedes가 오래 전에 설정 한 마술 병동에서 우연히 생물을 풀어 냈다고 나에게 말했다. 그는 병동을 ​​재건하려하지만 도움이 필요합니다.-G-"
 
 #: 52420949-0-5771
 #, fuzzy
@@ -4245,7 +4244,9 @@ msgstr "뱀의 독아-G-"
 #, fuzzy
 msgctxt "265851556-0-5769"
 msgid "A Wood Elf named Little Leaf claims she's on a mission to stop the Iron Orcs from building a troll army. She tried to appeal to the Orc leaders, but diplomacy didn't work. Now she wants me to come along and try a more forceful approach."
-msgstr "리틀 리프 (Little Leaf)라는 나무 엘프는 아이언 오크 (Iron Orcs)가 트롤 군대를 건설하는 것을 막으려는 임무를 수행하고 있다고 주장합니다. 그녀는 오크 지도자들에게 호소하려했지만 외교는 효과가 없었습니다. 이제 그녀는 내가 와서 더 강력한 접근 방식을 시도하기를 원한다.-G-"
+msgstr ""
+"리틀 리프 (Little Leaf)라는 나무 엘프는 아이언 오크 (Iron Orcs)가 트롤 군대를 건설하는 것을 막으려는 임무를 수행하고 있다고 주장합니다. 그녀는 오크 지도자들에게 호소하려했지만 외교는 효과가 없었습니다. 이제 그녀는 내가 와서 더 강력한 접근 방식을 시도하기"
+"를 원한다.-G-"
 
 #: 52420949-0-5768
 #, fuzzy
@@ -4267,7 +4268,7 @@ msgstr "Nirn의 피-G-"
 
 #: 265851556-0-5767
 msgctxt "265851556-0-5767"
-msgid "The scholar Nendirume warned me that the Scaled Court has taken over the ruined city of Skyreach. She believes they're searching Skyreach Hold for more of the nirncrux element, which they refer to as "the blood of Nirn.""
+msgid "The scholar Nendirume warned me that the Scaled Court has taken over the ruined city of Skyreach. She believes they're searching Skyreach Hold for more of the nirncrux element, which they refer to as \"the blood of Nirn.\""
 msgstr ""
 
 #: 52420949-0-5766
@@ -4359,7 +4360,7 @@ msgstr "이상한 해독서 (Strange Lexicon)"
 
 #: 265851556-0-5756
 msgctxt "265851556-0-5756"
-msgid "A giant object fell from the heavens when the Mage constellation disappeared. Sara Benele is examining the object, which she calls the "Mage's Staff." She believes the staff is unstable and needs my help to fix it."
+msgid "A giant object fell from the heavens when the Mage constellation disappeared. Sara Benele is examining the object, which she calls the \"Mage's Staff.\" She believes the staff is unstable and needs my help to fix it."
 msgstr ""
 
 #: 52420949-0-5755
@@ -5756,7 +5757,8 @@ msgstr "Brink on City-G-(City on the Brink)"
 #, fuzzy
 msgctxt "265851556-0-5600"
 msgid "Speaker Terenus wants to cut off the head of the group that has been moving against the Dark Brotherhood—he wants us to kill Artorius, the Primate of Akatosh. He wants the death to happen quickly, before the Order of the Hour attacks the Sanctuary."
-msgstr "연사 테레 노스 (Terenus)는 다크 브라더 후드 (Dark Brotherhood)에 반대하는 그룹의 머리를 자르려고합니다. 그는 아카 토시의 영장류 인 아 토리 우스 (Artorius)를 죽이기를 원합니다. 그는 시간의 명령이 성역을 공격하기 전에 죽음이 빨리 일어나기를 원합니다.-G-"
+msgstr ""
+"연사 테레 노스 (Terenus)는 다크 브라더 후드 (Dark Brotherhood)에 반대하는 그룹의 머리를 자르려고합니다. 그는 아카 토시의 영장류 인 아 토리 우스 (Artorius)를 죽이기를 원합니다. 그는 시간의 명령이 성역을 공격하기 전에 죽음이 빨리 일어나기를 원합니다.-G-"
 
 #: 52420949-0-560
 #, fuzzy
@@ -6060,7 +6062,8 @@ msgstr "다크 문 턱-G-"
 
 #: 265851556-0-5554
 msgctxt "265851556-0-5554"
-msgid "A Khajiit named Bakhum is worried about a family member who has been writing him unsettling letters about the "Maw of Lorkhaj." He has asked me and eleven friends to help escort him to the Temple of Seven Riddles to make sure everything is all right."
+msgid ""
+"A Khajiit named Bakhum is worried about a family member who has been writing him unsettling letters about the \"Maw of Lorkhaj.\" He has asked me and eleven friends to help escort him to the Temple of Seven Riddles to make sure everything is all right."
 msgstr ""
 
 #: 52420949-0-5553
@@ -6515,7 +6518,7 @@ msgstr "부서진 책 마차"
 #, fuzzy
 msgctxt "265851556-0-5498"
 msgid "A concerned clerk named <<1>> believes there is a grave threat to the well-being of future generations if the Imperial recordkeeping falls to war."
-msgstr """""<<1>>""""이라는 관계자는 제국의 기록 관리가 전쟁에 빠지면 미래 세대의 안녕에 중대한 위협이 있다고 믿는다.-G-"
+msgstr "\"\"\"\"<<1>>\"\"\"\"이라는 관계자는 제국의 기록 관리가 전쟁에 빠지면 미래 세대의 안녕에 중대한 위협이 있다고 믿는다.-G-"
 
 #: 52420949-0-5497
 #, fuzzy
@@ -6680,7 +6683,9 @@ msgstr "숭고한 화로"
 #, fuzzy
 msgctxt "265851556-0-5482"
 msgid "Molag Bal seeks to destroy the Sublime Brazier—the key to rekindling the Dragonfires. Working with The Drake of Blades, Captain Caudex, and Father Egnatius, I must find a way to protect the Dragonfire Cathedral, and the brazier within."
-msgstr "몰락 발 (Molag Bal)은 드래곤 파이어스를 재연 할 수있는 열쇠 인 '브라 블'(Sublime Brazier)을 파괴하려고합니다. 블레이드 드레 이크 (Drake of Blades), 캡틴 코덱스 (Caudex), 에그 나티 우스 (Egnatius) 신부와 함께 일하면서 드래곤 파이어 대성당과 그 안에있는 화로를 보호 할 방법을 찾아야합니다.-G-"
+msgstr ""
+"몰락 발 (Molag Bal)은 드래곤 파이어스를 재연 할 수있는 열쇠 인 '브라 블'(Sublime Brazier)을 파괴하려고합니다. 블레이드 드레 이크 (Drake of Blades), 캡틴 코덱스 (Caudex), 에그 나티 우스 (Egnatius) 신부와 함께 일하면서 드래곤 파이어 대성당과 그 안에있는 화로"
+"를 보호 할 방법을 찾아야합니다.-G-"
 
 #: 52420949-0-5481
 #, fuzzy
@@ -6736,8 +6741,7 @@ msgstr "과거를 깨우다"
 #: 265851556-0-5476
 msgctxt "265851556-0-5476"
 msgid "The House of Orsimer Glories, a museum in the rebuilt city of Orsinium, seeks to fill its displays with relics and other items of historic importance to both the Orcs and the land of Wrothgar."
-msgstr "재건된 오시니움 시의 박물관, 오시머 글로리 박물관(The House of Orsimer Glories)에서 박물관 내부를 채워줄 유물과 물품들을 찾고 있다. 그것들은 오크족과 로스가 지역에 역사적 중요성을 가지고 있다."
-"\n"
+msgstr "재건된 오시니움 시의 박물관, 오시머 글로리 박물관(The House of Orsimer Glories)에서 박물관 내부를 채워줄 유물과 물품들을 찾고 있다. 그것들은 오크족과 로스가 지역에 역사적 중요성을 가지고 있다.\n"
 
 #: 52420949-0-5474
 #, fuzzy
@@ -6749,7 +6753,8 @@ msgstr "하나의 추악한 머그잔-G-(One Ugly Mug)"
 #, fuzzy
 msgctxt "265851556-0-5473"
 msgid "Worm Cultists are digging up skeletons in the Memorial District and raising them as undead thralls. Some of these skeletons appear to be searching for something underground. I've agreed to help the Drake of Blades find out what they're looking for."
-msgstr "벌레 (Worm) 신자들은 Memorial District의 해골을 파헤 치고 그들을 언데드 들판으로 모으고 있습니다. 이 뼈대 중 일부는 지하에서 무언가를 찾고있는 것으로 보입니다. 나는 드레이크 블레이드 (Drake of Blades)가 그들이 원하는 것을 발견하도록 돕기로 동의했습니다.-G-"
+msgstr ""
+"벌레 (Worm) 신자들은 Memorial District의 해골을 파헤 치고 그들을 언데드 들판으로 모으고 있습니다. 이 뼈대 중 일부는 지하에서 무언가를 찾고있는 것으로 보입니다. 나는 드레이크 블레이드 (Drake of Blades)가 그들이 원하는 것을 발견하도록 돕기로 동의했습니다.-G-"
 
 #: 52420949-0-5472
 #, fuzzy
@@ -6881,8 +6886,9 @@ msgstr "오시니움에서의 초대"
 #: 265851556-0-5450
 msgctxt "265851556-0-5450"
 msgid "I received an invitation to go to Wrothgar and present myself to Forge-Mother Alga in the city of Orsinium. It appears that the Orcs of Wrothgar need some sort of assistance."
-msgstr "나는 로스가로 가라는 초대장을 받았고, 오시니움 시의 용광로 대모 알가에게 나를 소개해야 한다."
-"\n로스가의 오크들은 도움이 필요한 것 같다. "
+msgstr ""
+"나는 로스가로 가라는 초대장을 받았고, 오시니움 시의 용광로 대모 알가에게 나를 소개해야 한다.\n"
+"로스가의 오크들은 도움이 필요한 것 같다. "
 
 #: 52420949-0-5449
 #, fuzzy
@@ -7456,7 +7462,7 @@ msgstr "회색 통로-G-"
 
 #: 265851556-0-5313
 msgctxt "265851556-0-5313"
-msgid "I found a book describing an ancient Nedic hero named Ranev the Coal-Eyed Wanderer and her legendary pilgrimage along "The Gray Passage." According to the text, those who complete the pilgrimage in the allotted time gain the favor of the Stars."
+msgid "I found a book describing an ancient Nedic hero named Ranev the Coal-Eyed Wanderer and her legendary pilgrimage along \"The Gray Passage.\" According to the text, those who complete the pilgrimage in the allotted time gain the favor of the Stars."
 msgstr ""
 
 #: 52420949-0-5312
@@ -7757,7 +7763,8 @@ msgstr "시간을 잃은 전사-G-"
 #, fuzzy
 msgctxt "265851556-0-5258"
 msgid "The Celestial Warrior is worried about his champion, Titus Valerius. Lost in time, Titus' memory has begun to break apart. He no longer remembers who he is or his connection to the Warrior. Without his memory, the Warrior can't send him home."
-msgstr "Celestial Warrior는 그의 챔피언 인 Titus Valerius에 대해 걱정하고 있습니다. 시간이 지남에 따라, 티투스의 기억이 깨지기 시작했습니다. 그는 더 이상 자신이 누구인지 또는 전사와의 관계를 기억하지 않습니다. 그의 기억이 없다면 워리어는 그를 집에 보낼 수 없다.-G-"
+msgstr ""
+"Celestial Warrior는 그의 챔피언 인 Titus Valerius에 대해 걱정하고 있습니다. 시간이 지남에 따라, 티투스의 기억이 깨지기 시작했습니다. 그는 더 이상 자신이 누구인지 또는 전사와의 관계를 기억하지 않습니다. 그의 기억이 없다면 워리어는 그를 집에 보낼 수 없다.-G-"
 
 #: 52420949-0-5257
 #, fuzzy
@@ -7849,7 +7856,8 @@ msgstr "Q5242 극장 퀘스트의 예-G-"
 #, fuzzy
 msgctxt "265851556-0-5240"
 msgid "Outside the ancient ruins of Skyreach Pinnacle, I met a member of the Scaled Court. He told me that the Court accidentally released creatures from magical wards the Nedes set up long ago. He plans to reestablish the wards, but he needs help."
-msgstr "스카이 리치 피나클 (Skyreach Pinnacle)의 고대 유적 밖에서 나는 스케일 된 법원 (Scaled Court)의 회원을 만났습니다. 그는 법원이 Nedes가 오래 전에 설정 한 마술 병동에서 우연히 생물을 풀어 냈다고 나에게 말했다. 그는 병동을 ​​재건하려하지만 도움이 필요합니다.-G-"
+msgstr ""
+"스카이 리치 피나클 (Skyreach Pinnacle)의 고대 유적 밖에서 나는 스케일 된 법원 (Scaled Court)의 회원을 만났습니다. 그는 법원이 Nedes가 오래 전에 설정 한 마술 병동에서 우연히 생물을 풀어 냈다고 나에게 말했다. 그는 병동을 ​​재건하려하지만 도움이 필요합니다.-G-"
 
 #: 52420949-0-5239
 #, fuzzy
@@ -8071,7 +8079,8 @@ msgstr "뱀의 독아-G-"
 #, fuzzy
 msgctxt "265851556-0-5203"
 msgid "A Wood Elf named Little Leaf claims she's on a mission to stop the Iron Orcs from building a troll army. She tried to appeal to the Orc leaders, but diplomacy didn't work. Now she wants me to come along and try a more forceful approach."
-msgstr "리틀 리프 (Little Leaf)라는 나무 엘프는 아이언 오크 (Iron Orcs)가 트롤 군대를 지 으려는 임무를 수행하고 있다고 주장합니다. 그녀는 오크 지도자들에게 호소하려했지만 외교는 효과가 없었습니다. 이제 그녀는 내가 와서 더 강력한 접근 방식을 시도하기를 원한다.-G-"
+msgstr ""
+"리틀 리프 (Little Leaf)라는 나무 엘프는 아이언 오크 (Iron Orcs)가 트롤 군대를 지 으려는 임무를 수행하고 있다고 주장합니다. 그녀는 오크 지도자들에게 호소하려했지만 외교는 효과가 없었습니다. 이제 그녀는 내가 와서 더 강력한 접근 방식을 시도하기를 원한다.-G-"
 
 #: 52420949-0-5194
 #, fuzzy
@@ -8093,7 +8102,7 @@ msgstr "깎다-G-(derp)"
 
 #: 265851556-0-5186
 msgctxt "265851556-0-5186"
-msgid "The scholar Nendirume warned me that the Scaled Court has taken over the ruined city of Skyreach. She believes they're searching Skyreach Hold for more of the nirncrux element, which they refer to as "the blood of Nirn.""
+msgid "The scholar Nendirume warned me that the Scaled Court has taken over the ruined city of Skyreach. She believes they're searching Skyreach Hold for more of the nirncrux element, which they refer to as \"the blood of Nirn.\""
 msgstr ""
 
 #: 52420949-0-5175
@@ -8153,7 +8162,7 @@ msgstr "재로 돌아 가기-G-"
 #, fuzzy
 msgctxt "265851556-0-5120"
 msgid "<<1>> attempted to enter an Oblivion Gate with a group of Undaunted to save his wife, <<2>>. He failed. I'm to help him get her back—if she still lives."
-msgstr "<<1>>은 부인을 구하기 위해 Undaunted 그룹과 함께 망각 게이트에 들어가려고했습니다. """"2"""". 그는 실패했다. 나는 아직도 그녀가 살아 있다면 그가 그녀를 되 찾을 수 있도록 도와 줄 것입니다.-G-"
+msgstr "<<1>>은 부인을 구하기 위해 Undaunted 그룹과 함께 망각 게이트에 들어가려고했습니다. \"\"\"\"2\"\"\"\". 그는 실패했다. 나는 아직도 그녀가 살아 있다면 그가 그녀를 되 찾을 수 있도록 도와 줄 것입니다.-G-"
 
 #: 52420949-0-5118
 msgctxt "52420949-0-5118"
@@ -8208,7 +8217,7 @@ msgstr "이상한 어휘집"
 
 #: 265851556-0-5108
 msgctxt "265851556-0-5108"
-msgid "A giant object fell from the heavens when the Mage constellation disappeared. Sara Benele is examining the object, which she calls the "Mage's Staff." She believes the staff is unstable and needs my help to fix it."
+msgid "A giant object fell from the heavens when the Mage constellation disappeared. Sara Benele is examining the object, which she calls the \"Mage's Staff.\" She believes the staff is unstable and needs my help to fix it."
 msgstr ""
 
 #: 52420949-0-5107
@@ -8255,7 +8264,9 @@ msgstr "마법사의 탑-G-"
 #, fuzzy
 msgctxt "265851556-0-5102"
 msgid "I've discovered the Aetherian Archive, an enigmatic tower that had previously been sealed. Mighty Mordra and her Undaunted had planned to climb the Archive, but her allies are missing. If I choose to, I could explore it and reach the top before them."
-msgstr "이전에 봉인 된 수수께끼 같은 타워 인 Aetherian Archive를 발견했습니다. Mighty Mordra와 그녀의 Undaunted는 기록 보관소를 오를 것을 계획 했었지만 그녀의 동맹국은 누락되었습니다. 내가 선택할 수 있다면, 나는 그것들을 탐험하고 그들 앞에서 정상에 도달 할 수 있습니다.-G-"
+msgstr ""
+"이전에 봉인 된 수수께끼 같은 타워 인 Aetherian Archive를 발견했습니다. Mighty Mordra와 그녀의 Undaunted는 기록 보관소를 오를 것을 계획 했었지만 그녀의 동맹국은 누락되었습니다. 내가 선택할 수 있다면, 나는 그것들을 탐험하고 그들 앞에서 정상에 도달 할 수 있습"
+"니다.-G-"
 
 #: 52420949-0-5100
 msgctxt "52420949-0-5100"
@@ -9371,7 +9382,9 @@ msgstr "겁에 질린 사람들(Frightened Folk)"
 #: 265851556-0-4931
 msgctxt "265851556-0-4931"
 msgid "Constable Agazu says the mayor of Fell's Run fired her for no reason and appointed a new constable. She says all the townspeople are acting strange as well, but no one's talking. She wants me to help find out what's going on."
-msgstr "자경대장 아가주(Constable Agazu)는 펠의 여정(Fell's Run)의 촌장이 그녀를 아무 이유 없이 해고했고 새 자경대장을 임명했다고 말한다. 그녀는 또한 마을 사람들 모두가 이상하게 행동하고 있지만, 아무도 말해주지 않는다고 했다. 그녀는 내가 무슨 일이 일어나는지 알아내 주길 바란다."
+msgstr ""
+"자경대장 아가주(Constable Agazu)는 펠의 여정(Fell's Run)의 촌장이 그녀를 아무 이유 없이 해고했고 새 자경대장을 임명했다고 말한다. 그녀는 또한 마을 사람들 모두가 이상하게 행동하고 있지만, 아무도 말해주지 않는다고 했다. 그녀는 내가 무슨 일이 일어나는지 알아"
+"내 주길 바란다."
 
 #: 52420949-0-4930
 #, fuzzy
@@ -9453,7 +9466,9 @@ msgstr "맨발의 브르타뉴 어-G-"
 #, fuzzy
 msgctxt "265851556-0-4924"
 msgid "I met a somewhat drunk and totally bootless Breton named Parquier Gimbert outside of Northpoint. He said he lost a valuable mace while hunting for mudcrabs along the shore. He thinks that maybe a Hagraven was involved. Also, he has no shoes."
-msgstr "나는 Northpoint 바깥에서 약간 술 취하고 완전히 부츠가없는 브리튼을 Parquier Gimbert라는 이름으로 만났습니다. 그는 해안을 따라 머드랙을 사냥하면서 귀중한 메이스를 잃었다 고 말했다. 그는 아마도 하그 레이븐이 관련되었을 것이라고 생각합니다. 또한 그는 신발이 없습니다.-G-"
+msgstr ""
+"나는 Northpoint 바깥에서 약간 술 취하고 완전히 부츠가없는 브리튼을 Parquier Gimbert라는 이름으로 만났습니다. 그는 해안을 따라 머드랙을 사냥하면서 귀중한 메이스를 잃었다 고 말했다. 그는 아마도 하그 레이븐이 관련되었을 것이라고 생각합니다. 또한 그는 신발이 "
+"없습니다.-G-"
 
 #: 52420949-0-4923
 msgctxt "52420949-0-4923"
@@ -10065,7 +10080,8 @@ msgstr "고대의 힘-G-"
 #, fuzzy
 msgctxt "265851556-0-4840"
 msgid "I met a Mages Guild novice named Anenya just inside the Erokii Ruins. She was sent here on an assignment to recover a relic called the Tear of Anurraame, but she can't carry it out. I agreed to recover the relic and bring it back to Shornhelm."
-msgstr "나는 Erokii Ruins 안의 Anenya라는 Mages Guild 초심자를 만났습니다. 그녀는 Anurraame의 눈물이라고 불리는 유적을 되찾기 위해 이곳에 파견되었지만, 그녀는 그것을 수행 할 수 없습니다. 나는 유물을 회수하고 그것을 다시 Shornhelm으로 가져 오는 것에 동의했다.-G-"
+msgstr ""
+"나는 Erokii Ruins 안의 Anenya라는 Mages Guild 초심자를 만났습니다. 그녀는 Anurraame의 눈물이라고 불리는 유적을 되찾기 위해 이곳에 파견되었지만, 그녀는 그것을 수행 할 수 없습니다. 나는 유물을 회수하고 그것을 다시 Shornhelm으로 가져 오는 것에 동의했다.-G-"
 
 #: 52420949-0-4839
 #, fuzzy
@@ -10107,7 +10123,7 @@ msgstr "기억 된 과거-G-"
 
 #: 265851556-0-4834
 msgctxt "265851556-0-4834"
-msgid "While exploring the Tribulation Crypt, I encountered a ghost that beckoned me deeper into the tomb. The ghost led me to an ancient sword engraved with the following message: "Marcelle Stenric of Shornhelm."
+msgid "While exploring the Tribulation Crypt, I encountered a ghost that beckoned me deeper into the tomb. The ghost led me to an ancient sword engraved with the following message: \"Marcelle Stenric of Shornhelm."
 msgstr ""
 
 #: 52420949-0-4833
@@ -10266,7 +10282,7 @@ msgstr "역사의 노래-G-"
 
 #: 265851556-0-4812
 msgctxt "265851556-0-4812"
-msgid "I was lead to an old instrument in the ruins of Thibaut's Cairn by a spectral woman. The recoder was engraved with "Valencia Nasica, the Exalted Bard of Dune.""
+msgid "I was lead to an old instrument in the ruins of Thibaut's Cairn by a spectral woman. The recoder was engraved with \"Valencia Nasica, the Exalted Bard of Dune.\""
 msgstr ""
 
 #: 52420949-0-4811
@@ -10522,8 +10538,8 @@ msgstr "팔리네스티의 짐승들(Beasts of Falinesti)"
 
 #: 265851556-0-4771
 msgctxt "265851556-0-4771"
-msgid "Thonoras and his wife, Pariel, were captured and tortured by Wood Orcs. Pariel begged Hircine to save them, and Hircine "changed her." After helping her husband escape, Pariel disappeared into a cave beneath the Falinesti Spring Site."
-msgstr "토노라스와 그의 아내 파리엘이 우드 오크들에게 붙잡혀 고문당했다. 파리엘은 허씬에게 자신들을 구해달라 간청했고, 허씬은 그녀를 "변화"시켰다. 파리엘은 남편을 구해준 뒤에 팔리네스티 봄 땅 아래에 있는 동굴로 사라져 버렸다."
+msgid "Thonoras and his wife, Pariel, were captured and tortured by Wood Orcs. Pariel begged Hircine to save them, and Hircine \"changed her.\" After helping her husband escape, Pariel disappeared into a cave beneath the Falinesti Spring Site."
+msgstr "토노라스와 그의 아내 파리엘이 우드 오크들에게 붙잡혀 고문당했다. 파리엘은 허씬에게 자신들을 구해달라 간청했고, 허씬은 그녀를 \"변화\"시켰다. 파리엘은 남편을 구해준 뒤에 팔리네스티 봄 땅 아래에 있는 동굴로 사라져 버렸다."
 
 #: 52420949-0-4770
 msgctxt "52420949-0-4770"
@@ -11112,8 +11128,9 @@ msgstr "왕좌의 말씀-G-"
 #: 265851556-0-4694
 msgctxt "265851556-0-4694"
 msgid "The dead have risen at Tu'whacca's Throne. Throne Keeper Farvard insists we consult the king before taking any action. I have agreed to take word back to the palace in Sentinel."
-msgstr "Tu'whacca's Throne의 망자들이 일어났고,  Ash'abah는 세 명의 고대 영웅도 부활하지 않았을까 하는 사실을 걱정하고 있다."
-"\n 나는 그들의 무덤을 방문하기로 했다. 그리고 만일 그들이 되살아 났다면, 그들을 죽일 것이다."
+msgstr ""
+"Tu'whacca's Throne의 망자들이 일어났고,  Ash'abah는 세 명의 고대 영웅도 부활하지 않았을까 하는 사실을 걱정하고 있다.\n"
+" 나는 그들의 무덤을 방문하기로 했다. 그리고 만일 그들이 되살아 났다면, 그들을 죽일 것이다."
 
 #: 52420949-0-4693
 msgctxt "52420949-0-4693"
@@ -11370,7 +11387,7 @@ msgstr "은제 플루트(The Silver Flute)"
 
 #: 265851556-0-4666
 msgctxt "265851556-0-4666"
-msgid "I found a small silver flute in a crate. An inscription on the flute reads, "Halion of Chorrol." There might be a reward for the flute's return."
+msgid "I found a small silver flute in a crate. An inscription on the flute reads, \"Halion of Chorrol.\" There might be a reward for the flute's return."
 msgstr ""
 
 #: 52420949-0-4665
@@ -11463,7 +11480,7 @@ msgstr "타라 야의 흔적(Tharayya's Trail)"
 
 #: 265851556-0-4656
 msgctxt "265851556-0-4656"
-msgid "I've found a note from a Dwemer researcher's journal named Tharayya. She appears to have been searching for an ancient artifact referred to as the "Guardian's Eye.""
+msgid "I've found a note from a Dwemer researcher's journal named Tharayya. She appears to have been searching for an ancient artifact referred to as the \"Guardian's Eye.\""
 msgstr ""
 
 #: 52420949-0-4655
@@ -11916,7 +11933,7 @@ msgstr "가죽도둑의 은신처(The Skin-Stealer's Lair)"
 #, fuzzy
 msgctxt "265851556-0-4590"
 msgid "<<1>> was replaced by a Dominion skin-stealer. I need to find the imposter and stop the remaining skin-stealers in <<2>>."
-msgstr "<<1>>은 Dominion skin-stealer로 대체되었습니다. 나는 사기꾼을 찾고 나머지 피부 도둑을 """"<<2""""에서 멈출 필요가 있습니다.-G-"
+msgstr "<<1>>은 Dominion skin-stealer로 대체되었습니다. 나는 사기꾼을 찾고 나머지 피부 도둑을 \"\"\"\"<<2\"\"\"\"에서 멈출 필요가 있습니다.-G-"
 
 #: 52420949-0-4589
 #, fuzzy
@@ -12790,8 +12807,7 @@ msgstr "Arbordawn 숭배자들"
 #: 265851556-0-4487
 msgctxt "265851556-0-4487"
 msgid "Telenger the Artificer, a reknowned sage, has come to the Falinesti Autumn Site in search of answers."
-msgstr "Telenger the Artificer라는 유명한 현자가 Falinesti Autumn에서 답을 찾기 위해 왔습니다."
-"\n"
+msgstr "Telenger the Artificer라는 유명한 현자가 Falinesti Autumn에서 답을 찾기 위해 왔습니다.\n"
 
 #: 52420949-0-4486
 msgctxt "52420949-0-4486"
@@ -12883,7 +12899,9 @@ msgstr "달빛 안의 화신"
 #: 265851556-0-4479
 msgctxt "265851556-0-4479"
 msgid "After the ritual at Rawl'kha, I traveled to meet the Lunar Champions at the temple called Moonmont. Here I'm told the Dark Mane has holed up. After what it did to Mane Akkhuz-ri, we must destroy it."
-msgstr "라울'카(Rawl'kha)에서의 의식 뒤에, 나는 문몬트(Moonmont)라 불리는 사원에서 달빛 투사들(Lunar Champion)들을 만나기 위해 여행했다. 여기서 나는 어두운 메인(Mane)이 숨었다고 들었다. 그것이 메인(Mane) 아크후즈-리(Akkhuz-ri)에게 한 일 이후, 우리는 그것을 없애버려야 한다."
+msgstr ""
+"라울'카(Rawl'kha)에서의 의식 뒤에, 나는 문몬트(Moonmont)라 불리는 사원에서 달빛 투사들(Lunar Champion)들을 만나기 위해 여행했다. 여기서 나는 어두운 메인(Mane)이 숨었다고 들었다. 그것이 메인(Mane) 아크후즈-리(Akkhuz-ri)에게 한 일 이후, 우리는 그것을 없애버"
+"려야 한다."
 
 #: 52420949-0-4478
 #, fuzzy
@@ -13058,12 +13076,14 @@ msgstr "드라'불의 드루블로그 (The Drublog of Dra'bul)"
 
 #: 265851556-0-4458
 msgctxt "265851556-0-4458"
-msgid "<<1>> believes the Wood Orc clan of Dra'bul, the Drublog, would not have attacked Velyn Harbor under normal circumstances."
+msgid ""
+"<<1>> believes the Wood Orc clan of Dra'bul, the Drublog, would not have attacked Velyn Harbor under normal circumstances.\n"
 "\n"
-"\nShe needs to take some time to visit with local leaders in Velyn Harbor before going to Dra'bul."
-msgstr "<<1>>는 드라'불의 우드 오크 부족, 드루블로그가 평범한 상황에서라면 벨린항을 공격하지 않았을 것이라고 생각한다."
+"She needs to take some time to visit with local leaders in Velyn Harbor before going to Dra'bul."
+msgstr ""
+"<<1>>는 드라'불의 우드 오크 부족, 드루블로그가 평범한 상황에서라면 벨린항을 공격하지 않았을 것이라고 생각한다.\n"
 "\n"
-"\n녹색 여군주는 드라'불로 향하기 전에 잠시 시간을 내어 벨린항의 지도자들을 방문해야 한다."
+"녹색 여군주는 드라'불로 향하기 전에 잠시 시간을 내어 벨린항의 지도자들을 방문해야 한다."
 
 #: 52420949-0-4457
 #, fuzzy
@@ -13226,7 +13246,7 @@ msgstr "반 다르의 호언장담(Baan Dar's Boast)"
 
 #: 265851556-0-4440
 msgctxt "265851556-0-4440"
-msgid "I met a strange old Wood Elf outside the ancient ruin known as Thormar. She's invited me to a party she calls "the greatest in all the worlds.""
+msgid "I met a strange old Wood Elf outside the ancient ruin known as Thormar. She's invited me to a party she calls \"the greatest in all the worlds.\""
 msgstr ""
 
 #: 52420949-0-4436
@@ -13416,7 +13436,7 @@ msgstr "작은 부업(A Little on the Side)"
 
 #: 265851556-0-4405
 msgctxt "265851556-0-4405"
-msgid "<<1>> wants my help to keep her "side business" going. She assures me it isn't technically illegal."
+msgid "<<1>> wants my help to keep her \"side business\" going. She assures me it isn't technically illegal."
 msgstr ""
 
 #: 52420949-0-4404
@@ -13884,7 +13904,9 @@ msgstr "메리앙의 하얀 가면-G-"
 #, fuzzy
 msgctxt "265851556-0-4340"
 msgid "Tamien, an ex-Red Rook bandit, claims he wants to save the town of Eagle's Brook. The Lion Guard, however, don't trust him. Tamien says the Bloodthorns are turning townfolk into zombies. He wants my help to prepare a spell to protect the villagers."
-msgstr "텍사스 출신의 레드 룩 (red-Rook) 산적 인 타미 엔 (Tamien)은 그가 독수리의 시내를 구하기를 원한다고 주장한다. 그러나 라이온 가드는 그를 신뢰하지 않습니다. Tamien은 Bloodthorn이 마을 사람들을 좀비로 바꾸고 있다고 말합니다. 그는 나의 도움이 마을 사람들을 보호하기 위해 주문을 준비하길 원합니다.-G-"
+msgstr ""
+"텍사스 출신의 레드 룩 (red-Rook) 산적 인 타미 엔 (Tamien)은 그가 독수리의 시내를 구하기를 원한다고 주장한다. 그러나 라이온 가드는 그를 신뢰하지 않습니다. Tamien은 Bloodthorn이 마을 사람들을 좀비로 바꾸고 있다고 말합니다. 그는 나의 도움이 마을 사람들을 보호"
+"하기 위해 주문을 준비하길 원합니다.-G-"
 
 #: 52420949-0-4339
 msgctxt "52420949-0-4339"
@@ -13916,7 +13938,7 @@ msgstr "구매자주의-G-"
 #, fuzzy
 msgctxt "265851556-0-4337"
 msgid "A Khajiiti merchant calling himself <<1>> claims to have found a way inside Belarata, a long-sealed Ayleid ruin."
-msgstr "카르 지티 (Carajiiti) 상인은 자신을 """"<<1>>""""이라고 부르며, 오래 동안 봉인 된 Ayleid 파멸의 Belarata 내부에서 길을 발견했다고 주장한다.-G-"
+msgstr "카르 지티 (Carajiiti) 상인은 자신을 \"\"\"\"<<1>>\"\"\"\"이라고 부르며, 오래 동안 봉인 된 Ayleid 파멸의 Belarata 내부에서 길을 발견했다고 주장한다.-G-"
 
 #: 52420949-0-4336
 #, fuzzy
@@ -14149,12 +14171,14 @@ msgstr "콜드하버의 영혼 없는 자(Soul Shriven in Coldharbour)"
 
 #: 265851556-0-4296
 msgctxt "265851556-0-4296"
-msgid "I died, but that was only the beginning …."
+msgid ""
+"I died, but that was only the beginning ….\n"
 "\n"
-"\nI awoke in Oblivion. My body is intact, but my soul has been torn from my body. I must find a way out of this nightmare place to reclaim what was lost to me, or I will be damned for all eternity."
-msgstr "나는 죽었다, 그러나 그것은 단지 시작에 불과했다..."
+"I awoke in Oblivion. My body is intact, but my soul has been torn from my body. I must find a way out of this nightmare place to reclaim what was lost to me, or I will be damned for all eternity."
+msgstr ""
+"나는 죽었다, 그러나 그것은 단지 시작에 불과했다...\n"
 "\n"
-"\n나는 오블리비언의 어딘가에서 일어났다. 몸은 무사했지만, 내 영혼은 몸에서 떨어져 나와 갈가리 찢긴 듯 했다. 나의 잃어버린 영혼을 되찾기 위해서 어서 이 끔찍한 곳에서 빠져나갈 방법을 찾아야 한다. 그렇지 않으면, 나는 이 곳에 영원히 갇히게 될 것이다."
+"나는 오블리비언의 어딘가에서 일어났다. 몸은 무사했지만, 내 영혼은 몸에서 떨어져 나와 갈가리 찢긴 듯 했다. 나의 잃어버린 영혼을 되찾기 위해서 어서 이 끔찍한 곳에서 빠져나갈 방법을 찾아야 한다. 그렇지 않으면, 나는 이 곳에 영원히 갇히게 될 것이다."
 
 #: 52420949-0-4295
 msgctxt "52420949-0-4295"
@@ -14733,20 +14757,22 @@ msgstr "가장 큰 위협"
 
 #: 265851556-0-422
 msgctxt "265851556-0-422"
-msgid "Commander Lafavre has asked you to kill the bosses controlling the Halls of the Damned."
-"\n- Nazgol the Undying"
-"\n- General Ripfang"
-"\n- Bone Colossus"
-"\n- Orutu"
-"\n- Anarose Direblood"
-"\n- Therion Direblood"
-msgstr "Lafavre 지휘관은 저주받은 홀을 통제하는 두목들을 처치하라고 부탁했다."
-"\n- 죽지않는 나즈골 (Nazgol)"
-"\n- 립팽 (Ripfang) 장관"
-"\n- 뼈 거상"
-"\n- 오루투 (Orutu)"
-"\n- Anarose Direblood"
-"\n- Therion Direblood"
+msgid ""
+"Commander Lafavre has asked you to kill the bosses controlling the Halls of the Damned.\n"
+"- Nazgol the Undying\n"
+"- General Ripfang\n"
+"- Bone Colossus\n"
+"- Orutu\n"
+"- Anarose Direblood\n"
+"- Therion Direblood"
+msgstr ""
+"Lafavre 지휘관은 저주받은 홀을 통제하는 두목들을 처치하라고 부탁했다.\n"
+"- 죽지않는 나즈골 (Nazgol)\n"
+"- 립팽 (Ripfang) 장관\n"
+"- 뼈 거상\n"
+"- 오루투 (Orutu)\n"
+"- Anarose Direblood\n"
+"- Therion Direblood"
 
 #: 52420949-0-4219
 msgctxt "52420949-0-4219"
@@ -15000,8 +15026,7 @@ msgstr "혼리크 탑으로(To Honrich Tower)"
 #: 265851556-0-4185
 msgctxt "265851556-0-4185"
 msgid "Valdur spoke of a dark gathering at Honrich Tower."
-msgstr "Valdur는 Honrich탑에 있는 어두운 모임에 대해 말했다."
-"\n"
+msgstr "Valdur는 Honrich탑에 있는 어두운 모임에 대해 말했다.\n"
 
 #: 52420949-0-4184
 #, fuzzy
@@ -15086,9 +15111,9 @@ msgstr "현자 스바리의 신분상승(The Rise of Sage Svari)"
 #: 265851556-0-4171
 msgctxt "265851556-0-4171"
 msgid "Skald Svari has been proposed as the next Sage of Fallowstone Hall. She must pray at Fallowstone's shrines to ask the approval of the Companion spirits. I've been asked to accompany her."
-msgstr "스칼드 스바리가 펠로우스톤 홀의 다음 현자로 추대되었다. 그녀는 펠로우스톤의 사당에서 "
-"\n 컴페니언의 영혼들에게 허락을 구하는 기도를 해야한다 . 그녀와 동행해 달라는 부탁을 받았다."
-"\n"
+msgstr ""
+"스칼드 스바리가 펠로우스톤 홀의 다음 현자로 추대되었다. 그녀는 펠로우스톤의 사당에서 \n"
+" 컴페니언의 영혼들에게 허락을 구하는 기도를 해야한다 . 그녀와 동행해 달라는 부탁을 받았다.\n"
 
 #: 52420949-0-4169
 msgctxt "52420949-0-4169"
@@ -15169,8 +15194,7 @@ msgstr "다가오는 번개(Approaching Thunder)"
 #: 265851556-0-4160
 msgctxt "265851556-0-4160"
 msgid "I've received a chilly welcome at Fullhelm Fort. The garrison is beset by undead, and the old Thane is not welcoming strangers."
-msgstr "Fullhelm 요새에서 환영 받지 못했다. 수비대는 언데드에게 포위되어 있고, 늙은 종사는 낯선 이를 반기지 않는다."
-"\n"
+msgstr "Fullhelm 요새에서 환영 받지 못했다. 수비대는 언데드에게 포위되어 있고, 늙은 종사는 낯선 이를 반기지 않는다.\n"
 
 #: 52420949-0-4158
 msgctxt "52420949-0-4158"
@@ -15190,8 +15214,7 @@ msgstr "소울 트랩(The Soul Trap)"
 #: 265851556-0-4156
 msgctxt "265851556-0-4156"
 msgid "Someone's soul is trapped in an Ayleid tomb within Abamath. A puzzle lock prevents her from escaping."
-msgstr "누군가의 영혼이 Abamath 안에 있는 에일리드 무덤에 갇혀 있다. 복잡한 잠금 장치가 그녀가 도망 가는 것을 막는다."
-"\n"
+msgstr "누군가의 영혼이 Abamath 안에 있는 에일리드 무덤에 갇혀 있다. 복잡한 잠금 장치가 그녀가 도망 가는 것을 막는다.\n"
 
 #: 52420949-0-4155
 #, fuzzy
@@ -15253,8 +15276,9 @@ msgstr "파티 계획(Party Planning)"
 #: 265851556-0-4149
 msgctxt "265851556-0-4149"
 msgid "Rigurt the Brash has been named Master of Ceremonies for the celebration of King Jorunn's anniversary. Rigurt has many organizational duties to attend to and needs a little help."
-msgstr "자신만만한 리거트는 요룬왕 치세 1주년 기념식의  행사 책임자로 임명되었다. 리거트는"
-"\n 참여해야할 공적인 업무가 많아 약간의 도움을 요청했다."
+msgstr ""
+"자신만만한 리거트는 요룬왕 치세 1주년 기념식의  행사 책임자로 임명되었다. 리거트는\n"
+" 참여해야할 공적인 업무가 많아 약간의 도움을 요청했다."
 
 #: 52420949-0-4147
 msgctxt "52420949-0-4147"
@@ -15284,8 +15308,7 @@ msgstr "음유시인들의 불행(The Misfortunate Minstrels)"
 #: 265851556-0-4144
 msgctxt "265851556-0-4144"
 msgid "People from across the Aldmeri Dominion gather to celebrate the handfast of the Silvenar and the Green Lady. The Hound, however, caused many of them trouble. Among these are a group of minstrels led by <<1>>."
-msgstr "알드머 자치령 전역의 주민들이 Silvenar와 그린 레이디의  약혼를 축하하기 위해 모였다. 하지만 Hound들이 문제를 일으켜 <<1>>가 이끄는 음악단이 피해를 입었다."
-"\n"
+msgstr "알드머 자치령 전역의 주민들이 Silvenar와 그린 레이디의  약혼를 축하하기 위해 모였다. 하지만 Hound들이 문제를 일으켜 <<1>>가 이끄는 음악단이 피해를 입었다.\n"
 
 #: 52420949-0-4143
 msgctxt "52420949-0-4143"
@@ -15315,8 +15338,7 @@ msgstr "배달원을 죽여라(Do Kill the Messenger)"
 #: 265851556-0-4141
 msgctxt "265851556-0-4141"
 msgid "Magister Osanne may have sent word to the Orcthane about the mysterious ore found in Lost Knife Cave. Tridi decided to scout the area on her own for any signs of a messenger."
-msgstr "Magister Osanne가  Lost Knife Cave에서 발견된 불가사의한 광석을 오크테인에게 보고했을 지도 모른다. 트리디는 배달원의 흔적을 찾기 위해 그 지역을 정찰하기로 했다."
-"\n"
+msgstr "Magister Osanne가  Lost Knife Cave에서 발견된 불가사의한 광석을 오크테인에게 보고했을 지도 모른다. 트리디는 배달원의 흔적을 찾기 위해 그 지역을 정찰하기로 했다.\n"
 
 #: 52420949-0-4140
 msgctxt "52420949-0-4140"
@@ -15326,8 +15348,7 @@ msgstr "쓰러진 병사(Soldier Down)"
 #: 265851556-0-4140
 msgctxt "265851556-0-4140"
 msgid "<<1>>, an Argonian healer, told me that many Pact soldiers lie wounded around Honrich Tower."
-msgstr "아르고니안 치료사인 <<1>>는 에본하트 조약의 많은 병사들이 혼리크 탑 주변에 부상을 입고 쓰러져 있다고 이야기 해 주었다."
-"\n"
+msgstr "아르고니안 치료사인 <<1>>는 에본하트 조약의 많은 병사들이 혼리크 탑 주변에 부상을 입고 쓰러져 있다고 이야기 해 주었다.\n"
 
 #: 52420949-0-4139
 msgctxt "52420949-0-4139"
@@ -15368,8 +15389,7 @@ msgstr "전령을 쏘다 (Shoot the Messenger)"
 #: 265851556-0-4135
 msgctxt "265851556-0-4135"
 msgid "The people of Riften have been brought inside their shattered walls. While Sinmur is gone, however, Riften's people may face other threats."
-msgstr "리프튼의 주민들은 무너진 담장 안으로 끌려 들어갔다. Sinmur가 사라졌지만, 리프튼의 사람들은 다른 위협에 직면할 수 있다."
-"\n"
+msgstr "리프튼의 주민들은 무너진 담장 안으로 끌려 들어갔다. Sinmur가 사라졌지만, 리프튼의 사람들은 다른 위협에 직면할 수 있다.\n"
 
 #: 52420949-0-4134
 msgctxt "52420949-0-4134"
@@ -15379,8 +15399,7 @@ msgstr "썩은 것(Something Rotten)"
 #: 265851556-0-4134
 msgctxt "265851556-0-4134"
 msgid "Someone is stirring up chaos in <<1>>, and <<2>> asked me to help put a stop to it."
-msgstr "<<1>>에서 누군가 난동을 일으키고 있다. <<2>>는 내게 그 난동을 멈춰 달라고 요청했다."
-"\n"
+msgstr "<<1>>에서 누군가 난동을 일으키고 있다. <<2>>는 내게 그 난동을 멈춰 달라고 요청했다.\n"
 
 #: 52420949-0-4133
 msgctxt "52420949-0-4133"
@@ -15743,7 +15762,7 @@ msgstr "영원한 이야기(A Tale Forever Told)"
 
 #: 265851556-0-4085
 msgctxt "265851556-0-4085"
-msgid "I've found the temple of the spinners of Malabal Tor, where their "story" has gotten away from them."
+msgid "I've found the temple of the spinners of Malabal Tor, where their \"story\" has gotten away from them."
 msgstr ""
 
 #: 52420949-0-4083
@@ -15795,8 +15814,9 @@ msgstr "종사들의 회의(A Council of Thanes)"
 #: 265851556-0-4078
 msgctxt "265851556-0-4078"
 msgid "The Dark Elves and Argonians are finally willing to work with Prince Irnskar and meet in a council of war. Now the Prince wants me to convince the Eastmarch thanes to attend the war council as well."
-msgstr "다크 엘프들과 아르고니안들은 마침내 인스카 왕자가 주최한 전쟁 회의에 참여하기로"
-"\n 했다. 이제 왕자는 내가 이스트마치 지역 종사들이 회의에 참석하도록 설득해 주길 바란다."
+msgstr ""
+"다크 엘프들과 아르고니안들은 마침내 인스카 왕자가 주최한 전쟁 회의에 참여하기로\n"
+" 했다. 이제 왕자는 내가 이스트마치 지역 종사들이 회의에 참석하도록 설득해 주길 바란다."
 
 #: 52420949-0-4077
 #, fuzzy
@@ -15817,12 +15837,14 @@ msgstr "전선으로(To the Front)"
 
 #: 265851556-0-4076
 msgctxt "265851556-0-4076"
-msgid "The Ebonheart Pact is at war with the Daggerfall Covenant and the Aldmeri Dominion for control of Cyrodiil."
+msgid ""
+"The Ebonheart Pact is at war with the Daggerfall Covenant and the Aldmeri Dominion for control of Cyrodiil.\n"
 "\n"
-"\nEveryone is needed in the war effort."
-msgstr "에본하트 조약은 시로딜에서 대거폴 동맹, 그리고 알드메리 자치령과 전쟁을 치르고 있다."
+"Everyone is needed in the war effort."
+msgstr ""
+"에본하트 조약은 시로딜에서 대거폴 동맹, 그리고 알드메리 자치령과 전쟁을 치르고 있다.\n"
 "\n"
-"\n전쟁을 위해서는 모두의 노력이 필요하다."
+"전쟁을 위해서는 모두의 노력이 필요하다."
 
 #: 52420949-0-4075
 #, fuzzy
@@ -15960,8 +15982,7 @@ msgstr "한 명의 승자, 한 명의 왕(One Victor, One King)"
 #: 265851556-0-4061
 msgctxt "265851556-0-4061"
 msgid "Fildgor, King Jorunn's exiled brother, has returned to Skyrim. Nords from the Stormfist clan, loyal to Fildgor, have infiltrated the Konunleikar to get close to King Jorunn."
-msgstr "요룬왕의 추방된 형제 필드고어는 스카이림에 돌아왔다. 필드고어에 충성하는 노드 무리인 스톤피스트 가문은 요룬왕을 공격하기 위해 Konunleikar에 잠입했다."
-"\n"
+msgstr "요룬왕의 추방된 형제 필드고어는 스카이림에 돌아왔다. 필드고어에 충성하는 노드 무리인 스톤피스트 가문은 요룬왕을 공격하기 위해 Konunleikar에 잠입했다.\n"
 
 #: 52420949-0-4060
 msgctxt "52420949-0-4060"
@@ -16082,8 +16103,9 @@ msgstr "털가죽 수집가(Collector of Pelts)"
 #: 265851556-0-4043
 msgctxt "265851556-0-4043"
 msgid "After giants and wolves overran the village of Lower Yorgrim, the survivors found shelter in a tiny fishing camp outside the village walls."
-msgstr "거인과 늑대들이 하부 요르그림 마을을 휩쓸고 간 후에, 마을 밖의 작은 어촌"
-"\n 쉼터에서 생존자들이 발견 되었습니다."
+msgstr ""
+"거인과 늑대들이 하부 요르그림 마을을 휩쓸고 간 후에, 마을 밖의 작은 어촌\n"
+" 쉼터에서 생존자들이 발견 되었습니다."
 
 #: 52420949-0-4041
 msgctxt "52420949-0-4041"
@@ -16093,8 +16115,7 @@ msgstr "기로에 서다(Crossroads)"
 #: 265851556-0-4041
 msgctxt "265851556-0-4041"
 msgid "I returned to Dhalmora. All of the Bleakrock villagers are gone. Aera informed me of a large Covenant attack on Bal Foyen. Darj has lead some of the non-combatants to Fort Zeren. Captain Rana is leading a defense of the docks."
-msgstr "나는 Dhalmora로 돌아왔다. 모든 블리크락 마을 사람들은 사라졌다. Aera는 대거폴 동맹이 Bal Foyen을 공격했다는 것을 알려주었다. Darj는 제렌 요새에 비전투원 몇 명을 이끌고 있다. 라나 대장이 부두의 수비를 지휘하고 있다."
-"\n"
+msgstr "나는 Dhalmora로 돌아왔다. 모든 블리크락 마을 사람들은 사라졌다. Aera는 대거폴 동맹이 Bal Foyen을 공격했다는 것을 알려주었다. Darj는 제렌 요새에 비전투원 몇 명을 이끌고 있다. 라나 대장이 부두의 수비를 지휘하고 있다.\n"
 
 #: 52420949-0-4038
 msgctxt "52420949-0-4038"
@@ -16154,8 +16175,7 @@ msgstr "위험에 처한 제렌(Zeren in Peril)"
 #: 265851556-0-4026
 msgctxt "265851556-0-4026"
 msgid "I've made my decision. I'm standing with <<1>> and defending Fort Zeren."
-msgstr "나는 결정을 내렸다. 나는 <<1>>와 함께 제렌 요새를 방어하기로 했다."
-"\n"
+msgstr "나는 결정을 내렸다. 나는 <<1>>와 함께 제렌 요새를 방어하기로 했다.\n"
 
 #: 52420949-0-4024
 msgctxt "52420949-0-4024"
@@ -16165,8 +16185,7 @@ msgstr "가족 상봉(Finding the Family)"
 #: 265851556-0-4024
 msgctxt "265851556-0-4024"
 msgid "An Argonian named <<1>> lost most of his guar herd. They were spooked by scary noises in the fields behind Dhalmora. He wants me to collect the missing ones."
-msgstr "<<1>>이라는 아르고니안은 구아 무리를 잃었다. 그들은 Dhalmora 너머 들판에서 나는 무서운 소리에 겁을 먹었다. 그는 내가 잃어버린 구아들을 모으기를 원한다."
-"\n"
+msgstr "<<1>>이라는 아르고니안은 구아 무리를 잃었다. 그들은 Dhalmora 너머 들판에서 나는 무서운 소리에 겁을 먹었다. 그는 내가 잃어버린 구아들을 모으기를 원한다.\n"
 
 #: 52420949-0-4023
 #, fuzzy
@@ -16217,8 +16236,7 @@ msgstr "불 붙이기(Sparking the Flame)"
 #: 265851556-0-4002
 msgctxt "265851556-0-4002"
 msgid "I've helped the community leaders of Bleakrock Village. Rana's preparing the villagers to evacuate."
-msgstr "블리크락 마을의 공동체 지도자들을 도왔다. 라나  대장은 마을 사람들의 대피를 준비하고 있다."
-"\n"
+msgstr "블리크락 마을의 공동체 지도자들을 도왔다. 라나  대장은 마을 사람들의 대피를 준비하고 있다.\n"
 
 #: 52420949-0-3999
 msgctxt "52420949-0-3999"
@@ -16350,7 +16368,7 @@ msgstr "늪지에 묶여있다.-G-"
 #, fuzzy
 msgctxt "265851556-0-3982"
 msgid "<<1>>, an agent of the Vicecanons, asked me to join the expedition to <<2>>. They'll be searching for Argonian relics."
-msgstr "Vicecanons의 대리인 인 <<1>>은 원정대에 """"2""""라는 식탁에 가입하라고했습니다. 그들은 Argonian 유물을 찾을거야.-G-"
+msgstr "Vicecanons의 대리인 인 <<1>>은 원정대에 \"\"\"\"2\"\"\"\"라는 식탁에 가입하라고했습니다. 그들은 Argonian 유물을 찾을거야.-G-"
 
 #: 52420949-0-3981
 msgctxt "52420949-0-3981"
@@ -16542,8 +16560,7 @@ msgstr "나류라 불리는 수수께끼의 공작원 내가 마울본 캠프에
 #: 52420949-0-3953
 msgctxt "52420949-0-3953"
 msgid "Chateau of the Ravenous Rodent"
-msgstr "게걸스러운 생쥐의 성(Chateau of the Ravenous Rodent)"
-"\n"
+msgstr "게걸스러운 생쥐의 성(Chateau of the Ravenous Rodent)\n"
 
 #: 265851556-0-3953
 msgctxt "265851556-0-3953"
@@ -16866,7 +16883,7 @@ msgstr "유쾌한 학살의 서커스"
 
 #: 265851556-0-3918
 msgctxt "265851556-0-3918"
-msgid "Sheogorath's book is supposed to lead me to the next trial, the "<<1>>." Let's see what the Mad God has planned for me this time."
+msgid "Sheogorath's book is supposed to lead me to the next trial, the \"<<1>>.\" Let's see what the Mad God has planned for me this time."
 msgstr ""
 
 #: 52420949-0-3917
@@ -17220,7 +17237,7 @@ msgstr "탑 잡기-G-"
 
 #: 265851556-0-3863
 msgctxt "265851556-0-3863"
-msgid "<<1>> turned up again in Ebonheart looking to collaborate on another "business venture." He wants me to procure a bottle of <<2>> from an innkeeper."
+msgid "<<1>> turned up again in Ebonheart looking to collaborate on another \"business venture.\" He wants me to procure a bottle of <<2>> from an innkeeper."
 msgstr ""
 
 #: 52420949-0-3861
@@ -17231,7 +17248,7 @@ msgstr "QUEST IO BUG CHECK-G-(QUEST IO BUG CHECK)"
 
 #: 265851556-0-3860
 msgctxt "265851556-0-3860"
-msgid "A shady character named <<1>> contacted me at Davon's Watch. He said we could both profit if I "procured" a rare and expensive bottle of wine for him."
+msgid "A shady character named <<1>> contacted me at Davon's Watch. He said we could both profit if I \"procured\" a rare and expensive bottle of wine for him."
 msgstr ""
 
 #: 52420949-0-3858
@@ -17436,7 +17453,7 @@ msgstr "마지막 알림-G-"
 
 #: 265851556-0-3824
 msgctxt "265851556-0-3824"
-msgid "While in the Goblin camp, I found a Nord corpse clutching a runestone that bears the name "Hodmar Iron-Kettle.""
+msgid "While in the Goblin camp, I found a Nord corpse clutching a runestone that bears the name \"Hodmar Iron-Kettle.\""
 msgstr ""
 
 #: 52420949-0-3822
@@ -17646,7 +17663,7 @@ msgstr "외부 간섭-G-"
 
 #: 265851556-0-3791
 msgctxt "265851556-0-3791"
-msgid "I found a strange device in the Dominion camps at <<1>>. The instructions for its use were signed "Alchemist <<2>>.""
+msgid "I found a strange device in the Dominion camps at <<1>>. The instructions for its use were signed \"Alchemist <<2>>.\""
 msgstr ""
 
 #: 52420949-0-3789
@@ -17693,8 +17710,7 @@ msgstr "우리를 수리하라(Repairing the Cage)"
 #: 265851556-0-3784
 msgctxt "265851556-0-3784"
 msgid "A Daedric creature is loose in Bonesnap Ruins, and <<1>> has found a way to contain the creature by repairing a Welkynd Stone that's been damaged by invading Goblins."
-msgstr "데이드릭 생물이 뼈골절 폐허에 풀려 있고, <<1>>은 고블린의 침입으로 부서진 웰카인드 스톤을 고쳐 그 짐승을 가둘 방법을 찾았다."
-"\n"
+msgstr "데이드릭 생물이 뼈골절 폐허에 풀려 있고, <<1>>은 고블린의 침입으로 부서진 웰카인드 스톤을 고쳐 그 짐승을 가둘 방법을 찾았다.\n"
 
 #: 52420949-0-3783
 msgctxt "52420949-0-3783"
@@ -17805,8 +17821,7 @@ msgstr "쪼개진 수정 (The Shattered Crystal)"
 #: 265851556-0-3747
 msgctxt "265851556-0-3747"
 msgid "I have been tasked by Lord <<1>> to recover shards of a crystal of power from the Supernal Dreamers who have stolen it."
-msgstr "나는 Supernal Dreamer들로 부터 힘의 수정의 파편을 복구하도록 하는 임무를 <<1>>경에게 부여 받았다."
-"\n"
+msgstr "나는 Supernal Dreamer들로 부터 힘의 수정의 파편을 복구하도록 하는 임무를 <<1>>경에게 부여 받았다.\n"
 
 #: 52420949-0-3745
 msgctxt "52420949-0-3745"
@@ -17816,8 +17831,7 @@ msgstr "도둑맞은 수정(Stolen Crystal)"
 #: 265851556-0-3745
 msgctxt "265851556-0-3745"
 msgid "Supernal Dreamers stole a crystal from Geoffrey Stictal and broke it into multiple pieces. He wants me to retrieve the pieces from them."
-msgstr "Supernal Dreamer들은 Geoffrey Stictal의 수정을 훔쳐서 여러 조각으로 잘랐다. 그는 내가 그들로부터 조각들을 되찾기를 원한다."
-"\n"
+msgstr "Supernal Dreamer들은 Geoffrey Stictal의 수정을 훔쳐서 여러 조각으로 잘랐다. 그는 내가 그들로부터 조각들을 되찾기를 원한다.\n"
 
 #: 52420949-0-3744
 msgctxt "52420949-0-3744"
@@ -17827,8 +17841,7 @@ msgstr "부서진 돌들(Shattered Stones)"
 #: 265851556-0-3744
 msgctxt "265851556-0-3744"
 msgid "Lord Stictal had a unique power crystal that was stolen by Supernal Dreamers. They have shattered the crystal in order to use the pieces for daedric summoning ritual."
-msgstr "Stictal경은 독특한 에너지 수정을 에게 Supernal Dreamer들에 의해 도둑맞았다. 그들은 데이드라 의식을 위해 결정을 조각내었다."
-"\n"
+msgstr "Stictal경은 독특한 에너지 수정을 에게 Supernal Dreamer들에 의해 도둑맞았다. 그들은 데이드라 의식을 위해 결정을 조각내었다.\n"
 
 #: 52420949-0-3742
 msgctxt "52420949-0-3742"
@@ -17869,8 +17882,7 @@ msgstr "벨레스의 죽음(The Death of Balreth)"
 #: 265851556-0-3735
 msgctxt "265851556-0-3735"
 msgid "I've defeated Ash Mountain's guardians. Now I must enter Ash Mountain's caldera, defeat Balreth, and imprison him again."
-msgstr "Ash Mountain의 수호자들을 물리쳤다. 이제 나는 Ash Mountain의 칼데라에 들어가서 벨레스를 패배시키고 그를 다시 봉인해야 한다."
-"\n"
+msgstr "Ash Mountain의 수호자들을 물리쳤다. 이제 나는 Ash Mountain의 칼데라에 들어가서 벨레스를 패배시키고 그를 다시 봉인해야 한다.\n"
 
 #: 52420949-0-3734
 msgctxt "52420949-0-3734"
@@ -17912,8 +17924,7 @@ msgstr "위습의 속삭임(Whispers of the Wisps)"
 #: 265851556-0-3730
 msgctxt "265851556-0-3730"
 msgid "<<1>> is plagued by wisps. They're stealing away travelers at the gravesite. No one is sure what caused their sudden aggression."
-msgstr "<<1>>은(는) 위습에 시달리고 있다. 그들은 묘지에서 여행자들을 공격하고 있다. 무엇이 그들의 갑작스런 공격을 야기했는지 아무도 모른다."
-"\n"
+msgstr "<<1>>은(는) 위습에 시달리고 있다. 그들은 묘지에서 여행자들을 공격하고 있다. 무엇이 그들의 갑작스런 공격을 야기했는지 아무도 모른다.\n"
 
 #: 52420949-0-3729
 #, fuzzy
@@ -17967,8 +17978,7 @@ msgstr "붙잡힌 시간(Captured Time)"
 #: 265851556-0-3719
 msgctxt "265851556-0-3719"
 msgid "I've found a book about Ayleid 'Alasil pilasters' within the Temple of Sul. Beside it was a small Ayleid relic that may be able to awaken the pilasters."
-msgstr "나는 설의 사원 안에 있는 에일리드 'Alasil pilasters'에 대한 책을 발견했다. 그 옆에는 기둥을 작동시키는 작은 에일리드 유물이 있었다."
-"\n"
+msgstr "나는 설의 사원 안에 있는 에일리드 'Alasil pilasters'에 대한 책을 발견했다. 그 옆에는 기둥을 작동시키는 작은 에일리드 유물이 있었다.\n"
 
 #: 52420949-0-3718
 msgctxt "52420949-0-3718"
@@ -18313,7 +18323,7 @@ msgstr "약간의 운동(A Bit of Sport)"
 
 #: 265851556-0-3662
 msgctxt "265851556-0-3662"
-msgid "The Covenant landed west of Ebonheart, but a band of Nord sawyers have refused to join the general defense. They sneeringly refer to the town's Dark Elves as "fancy lads.""
+msgid "The Covenant landed west of Ebonheart, but a band of Nord sawyers have refused to join the general defense. They sneeringly refer to the town's Dark Elves as \"fancy lads.\""
 msgstr ""
 
 #: 52420949-0-3661
@@ -18636,7 +18646,8 @@ msgstr "마음을 울리는-G-"
 #, fuzzy
 msgctxt "265851556-0-3617"
 msgid "Bala, an Ashlander, is searching for her deceased lover, Eanen Varam. In life, he was part of House Dunmer, so their status kept them apart. They promised each other to unite in death, but now, she can't find his tomb."
-msgstr "애쉬 랜더 (Ashlander) 인 발라 (Bala)는 죽은 애인 Eanen Varam을 찾고 있습니다. 인생에서 그는 하우스 던머 (House Dunmer)의 일원 이었기 때문에 지위가 떨어져 있었다. 그들은 서로에게 죽음으로 단합을 약속했지만, 지금은 그녀가 그의 무덤을 찾을 수 없습니다.-G-"
+msgstr ""
+"애쉬 랜더 (Ashlander) 인 발라 (Bala)는 죽은 애인 Eanen Varam을 찾고 있습니다. 인생에서 그는 하우스 던머 (House Dunmer)의 일원 이었기 때문에 지위가 떨어져 있었다. 그들은 서로에게 죽음으로 단합을 약속했지만, 지금은 그녀가 그의 무덤을 찾을 수 없습니다.-G-"
 
 #: 52420949-0-3616
 #, fuzzy
@@ -18747,7 +18758,7 @@ msgstr "보호 퀘스트 (Generic Escort Quest)"
 
 #: 265851556-0-3595
 msgctxt "265851556-0-3595"
-msgid "Furon is worried that his brother Giron has joined a "circle of mages." He wants my help to understand what they're doing."
+msgid "Furon is worried that his brother Giron has joined a \"circle of mages.\" He wants my help to understand what they're doing."
 msgstr ""
 
 #: 52420949-0-3594
@@ -19082,7 +19093,8 @@ msgstr "깊은 곳에서의 파울 증서-G-"
 #, fuzzy
 msgctxt "265851556-0-3436"
 msgid "I found <<1>> within the tunnels of <<2>>. She claims she and her husband, <<3>>, were kidnapped by the Oathbound, at the behest of an Orc named <<4>>. She managed to escape, but needs help rescuing her husband."
-msgstr "<<2>>의 터널에서 <<1>>을 (를) 발견했습니다. 그녀는 그녀와 그녀의 남편 인 <<3>>이 오스 바운드 (Oathbound)에 의해 납치되어 오크 (Orc)라는 명칭으로 <<4>>라는 이름으로 납치되었다고 주장합니다. 그녀는 도망쳐 냈지만 남편을 구하기 위해 도움이 필요합니다.-G-"
+msgstr ""
+"<<2>>의 터널에서 <<1>>을 (를) 발견했습니다. 그녀는 그녀와 그녀의 남편 인 <<3>>이 오스 바운드 (Oathbound)에 의해 납치되어 오크 (Orc)라는 명칭으로 <<4>>라는 이름으로 납치되었다고 주장합니다. 그녀는 도망쳐 냈지만 남편을 구하기 위해 도움이 필요합니다.-G-"
 
 #: 52420949-0-3431
 #, fuzzy
@@ -19314,7 +19326,7 @@ msgstr "돌로 된 혀"
 
 #: 265851556-0-3317
 msgctxt "265851556-0-3317"
-msgid "Lady Laurent, a traveling archeologist, has "lost" her assistant, Stibbons. She is trying to recover him from her research site."
+msgid "Lady Laurent, a traveling archeologist, has \"lost\" her assistant, Stibbons. She is trying to recover him from her research site."
 msgstr ""
 
 #: 52420949-0-3315
@@ -21276,7 +21288,8 @@ msgstr "라이온 가드의 스탠드-G-"
 #, fuzzy
 msgctxt "265851556-0-3082"
 msgid "To hold back Angof's undead army, the Lion Guard built a redoubt on a hill outside Cath Bedraud. As they struggle to find a way to breech Angof's defenses, they have to fend off hordes of Bloodthorn cultists and zombie thralls."
-msgstr "앤드 로프의 언데드 군대를 물리 치기 위해 라이온 가드는 캐스 베드 라우드 (Chathy Bedraud) 외곽 언덕에 대담을 세웠습니다. 그들이 Angof의 방어막을 뚫고 지나갈 길을 찾기 위해 고심하고있을 때, 그들은 Bloodthorn 컬트리스트와 좀비들의 떼거리를 막아야합니다.-G-"
+msgstr ""
+"앤드 로프의 언데드 군대를 물리 치기 위해 라이온 가드는 캐스 베드 라우드 (Chathy Bedraud) 외곽 언덕에 대담을 세웠습니다. 그들이 Angof의 방어막을 뚫고 지나갈 길을 찾기 위해 고심하고있을 때, 그들은 Bloodthorn 컬트리스트와 좀비들의 떼거리를 막아야합니다.-G-"
 
 #: 52420949-0-3069
 msgctxt "52420949-0-3069"
@@ -24848,9 +24861,10 @@ msgstr "알타둔의 엘더스크롤"
 #, fuzzy
 msgctxt "265851556-0-2610"
 msgid "Grand Warlord Zimmeron wants the <<1>> to be captured for the Pact."
-msgstr "Grand Warlord Zimmeron wants the <<1>> to be captured for the Pact."
+msgstr ""
+"Grand Warlord Zimmeron wants the <<1>> to be captured for the Pact.\n"
 "\n"
-"\n그랜드 워로드 짐머론은 <<1>>가 에본하트 조약을 위해 포로가 되기를 원하다."
+"그랜드 워로드 짐머론은 <<1>>가 에본하트 조약을 위해 포로가 되기를 원하다."
 
 #: 52420949-0-2609
 msgctxt "52420949-0-2609"
@@ -25017,7 +25031,8 @@ msgstr "해골의 저주"
 #, fuzzy
 msgctxt "265851556-0-2550"
 msgid "I found a skull in some old ruins on a hill outside Wayrest. It spoke to me. It claims to be cursed, forced to serve as the eyes of Molag Bal. It begged me to destroy it and all others like it upon the charnel heap in the tower."
-msgstr "웨이레스트 외곽 언덕 위의 오래 된 폐허 속에서 두개골 하나를 발견했다. 그것은 나에게 말했다. 자신은 저주 받아 몰락 발의 눈으로 봉사하도록 강요 받았다고 주장하였다. 그것은 나로 하여금 그것을 파괴하도록 간청했고, 다른 것들은 탑의 납골당에 두는게 좋습니다."
+msgstr ""
+"웨이레스트 외곽 언덕 위의 오래 된 폐허 속에서 두개골 하나를 발견했다. 그것은 나에게 말했다. 자신은 저주 받아 몰락 발의 눈으로 봉사하도록 강요 받았다고 주장하였다. 그것은 나로 하여금 그것을 파괴하도록 간청했고, 다른 것들은 탑의 납골당에 두는게 좋습니다."
 
 #: 52420949-0-2549
 #, fuzzy
@@ -25305,7 +25320,8 @@ msgstr "우와파(Uwafa)의 응보"
 
 #: 265851556-0-2192
 msgctxt "265851556-0-2192"
-msgid "The Throne Keeper and I have lit the sacred braziers at the cardinal points of the temple. When we light the final brazier, Tu'whacca should send his "Breath" to come and help us cleanse the temple. Then we can kill Uwafa and recover the Ansei Wards."
+msgid ""
+"The Throne Keeper and I have lit the sacred braziers at the cardinal points of the temple. When we light the final brazier, Tu'whacca should send his \"Breath\" to come and help us cleanse the temple. Then we can kill Uwafa and recover the Ansei Wards."
 msgstr ""
 
 #: 52420949-0-2187
@@ -25316,8 +25332,9 @@ msgstr "존경받는 조상들"
 #: 265851556-0-2187
 msgctxt "265851556-0-2187"
 msgid "The dead have risen at Tu'whacca's Throne, and an Ash'abah here is particularly worried that three ancient heroes have been raised. I agreed to visit their graves, and if they have been raised, then I will kill them."
-msgstr "Tu'whacca's Throne의 망자들이 일어났고,  Ash'abah는 세 명의 고대 영웅도 부활하지 않았을까 하는 사실을 걱정하고 있다."
-"\n 나는 그들의 무덤을 방문하기로 했다. 그리고 만일 그들이 되살아 났다면, 그들을 죽일 것이다."
+msgstr ""
+"Tu'whacca's Throne의 망자들이 일어났고,  Ash'abah는 세 명의 고대 영웅도 부활하지 않았을까 하는 사실을 걱정하고 있다.\n"
+" 나는 그들의 무덤을 방문하기로 했다. 그리고 만일 그들이 되살아 났다면, 그들을 죽일 것이다."
 
 #: 52420949-0-2184
 msgctxt "52420949-0-2184"
@@ -25387,7 +25404,9 @@ msgstr "쿼그마이어의 문"
 #: 265851556-0-2047
 msgctxt "265851556-0-2047"
 msgid "The Supernal Dreamers performed a ritual on Muzgu that infused a Daedric spirit into his body. He's contained it for now, but it's gaining strength. If the spirit takes control of him, it will combine its powerful magic with his own. Many will die."
-msgstr "Supernal Dreamer들은 데이드릭 영혼을 Muzgu의 몸에 주입하는 의식을 행했다. 그는 지금 그 영혼에 저항하고 있지만, 그 영혼은 점점 강해지고 있다. 영혼이 그의 몸을 지배하게 되면, 숙주의 강력한 마법과 자신의 힘을 합칠 것이다. 그렇게 되면 많은 사람들이 죽을 것이다."
+msgstr ""
+"Supernal Dreamer들은 데이드릭 영혼을 Muzgu의 몸에 주입하는 의식을 행했다. 그는 지금 그 영혼에 저항하고 있지만, 그 영혼은 점점 강해지고 있다. 영혼이 그의 몸을 지배하게 되면, 숙주의 강력한 마법과 자신의 힘을 합칠 것이다. 그렇게 되면 많은 사람들이 죽을 것이"
+"다."
 
 #: 52420949-0-2046
 msgctxt "52420949-0-2046"
@@ -25582,7 +25601,9 @@ msgstr "문두스의 아티팩트들"
 #: 265851556-0-171
 msgctxt "265851556-0-171"
 msgid "I've agreed to help Oron, High King Fahara'jad's emissary, prove King Sebastien is innocent of Ranser's murder. I'm to work with High Priest Canning of the Order of Arkay to summon Ranser's spirit, so Ranser's shade can name his killer."
-msgstr "나는 Oron과 제왕 Fahara'jad의 사자를 도우고 왕 Sebastien이 Ranser의 살인사건에서 결백하다는 걸 증명하기로 동의 하였다. 나는 고위 성직자 Canning, 아케이의 수행자 와 함께 Ranser의 영혼을 소환하는 것을 도와야 하고, Ranser의 그림자가 그를 죽인 사람의 이름을 알려주게 해야 한다."
+msgstr ""
+"나는 Oron과 제왕 Fahara'jad의 사자를 도우고 왕 Sebastien이 Ranser의 살인사건에서 결백하다는 걸 증명하기로 동의 하였다. 나는 고위 성직자 Canning, 아케이의 수행자 와 함께 Ranser의 영혼을 소환하는 것을 도와야 하고, Ranser의 그림자가 그를 죽인 사람의 이름을 알"
+"려주게 해야 한다."
 
 #: 52420949-0-1709
 msgctxt "52420949-0-1709"
@@ -25644,9 +25665,10 @@ msgstr "전환과 전달"
 #, fuzzy
 msgctxt "265851556-0-1637"
 msgid "Slavers are using Steelheart Moorings as their base of operations and they're holding some sailors who they recently captured. The first mate has asked me to help free the sailors from the slavers' clutches."
-msgstr "노예 상인들은 Sleedleart Moorings를 작업 기반으로 사용하고 있고, 최근 잡아 온 선원들을 잡아 두고 있다."
+msgstr ""
+"노예 상인들은 Sleedleart Moorings를 작업 기반으로 사용하고 있고, 최근 잡아 온 선원들을 잡아 두고 있다.\n"
 "\n"
-"\n1등 항해사가 선원들을 노예 상인의 손아귀에서 해방시키는 것을 도와 달라고 내게 부탁했다."
+"1등 항해사가 선원들을 노예 상인의 손아귀에서 해방시키는 것을 도와 달라고 내게 부탁했다."
 
 #: 52420949-0-1633
 msgctxt "52420949-0-1633"
@@ -25671,8 +25693,7 @@ msgstr "나는 Bearclaw Mine에서 죽은 남자가 가지고 있는 편지를 �
 #: 52420949-0-1591
 msgctxt "52420949-0-1591"
 msgid "Injured Spirit Wardens"
-msgstr "부상당한 Spirit Warden들"
-"\n"
+msgstr "부상당한 Spirit Warden들\n"
 
 #: 265851556-0-1591
 msgctxt "265851556-0-1591"

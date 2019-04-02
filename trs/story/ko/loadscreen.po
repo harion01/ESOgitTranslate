@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:11+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 70901198-0-999
 msgctxt "70901198-0-999"
@@ -42,8 +35,8 @@ msgstr "드라닐 키르 (Dranil Kir)"
 
 #: 70901198-0-997
 msgctxt "70901198-0-997"
-msgid "On the coast north of Gnisis, this three-level home in the Redoran "bug-house" style comes with a walled courtyard, a nearby dock, and convenient access to the nearby ruins of Ashalmawia and Arkngthunch-Sturdumz."
-msgstr "그니시스 북쪽 해안에 위치한 레도란 "벌레-집"스타일의 이 3층 주택에는 벽으로 둘러싸인 안뜰, 인근에 부두, 아샬마위아와 아큰툰치-스툴덤즈 유적지도 가깝고 편리합니다."
+msgid "On the coast north of Gnisis, this three-level home in the Redoran \"bug-house\" style comes with a walled courtyard, a nearby dock, and convenient access to the nearby ruins of Ashalmawia and Arkngthunch-Sturdumz."
+msgstr "그니시스 북쪽 해안에 위치한 레도란 \"벌레-집\"스타일의 이 3층 주택에는 벽으로 둘러싸인 안뜰, 인근에 부두, 아샬마위아와 아큰툰치-스툴덤즈 유적지도 가깝고 편리합니다."
 
 #: 162658389-0-997
 msgctxt "162658389-0-997"
@@ -82,8 +75,8 @@ msgstr "성 델윈 펜트하우스 (Saint Delyn Penthouse)"
 
 #: 70901198-0-993
 msgctxt "70901198-0-993"
-msgid ""Ordinary people keep a journal. Sotha Sil decided to store his memories as star-data in an artificial astronomical matrix keyed to his philosophical musings on the structure of the Aurbis. Of course." —Almalexia"
-msgstr ""보통 사람들은 일기를 쓰지. 하지만 소사 실은 오르비스를 철학적으로 재해석해서 만들어낸 천문학적 구조물 안에 기억을 별의 형태로 바꾸어 저장하기로 결심했어. 당연히 그랬겠지. " —아말렉시아"
+msgid "\"Ordinary people keep a journal. Sotha Sil decided to store his memories as star-data in an artificial astronomical matrix keyed to his philosophical musings on the structure of the Aurbis. Of course.\" —Almalexia"
+msgstr "\"보통 사람들은 일기를 쓰지. 하지만 소사 실은 오르비스를 철학적으로 재해석해서 만들어낸 천문학적 구조물 안에 기억을 별의 형태로 바꾸어 저장하기로 결심했어. 당연히 그랬겠지. \" —아말렉시아"
 
 #: 162658389-0-993
 msgctxt "162658389-0-993"
@@ -92,8 +85,8 @@ msgstr "기억의 천체도(Mnemonic Planisphere)"
 
 #: 70901198-0-992
 msgctxt "70901198-0-992"
-msgid ""The Wellspring? Just one more experiment replicating an aspect of Nirn Above nestled deep within an experiment replicating aspects of Nirn Above. You know, the usual." —Overheard in Slag Town"
-msgstr ""원천? 상공의 넌의 다양한 측면을 재현한 일종의 실험에 불과하다. 상공의 넌의 측면을 재현하고 있다. 즉, 언제나 그런 것이다"- 슬러그 타운에서 도청됨"
+msgid "\"The Wellspring? Just one more experiment replicating an aspect of Nirn Above nestled deep within an experiment replicating aspects of Nirn Above. You know, the usual.\" —Overheard in Slag Town"
+msgstr "\"원천? 상공의 넌의 다양한 측면을 재현한 일종의 실험에 불과하다. 상공의 넌의 측면을 재현하고 있다. 즉, 언제나 그런 것이다\"- 슬러그 타운에서 도청됨"
 
 #: 162658389-0-992
 msgctxt "162658389-0-992"
@@ -102,8 +95,9 @@ msgstr "에버운드 원천지 (Everwound Wellspring)"
 
 #: 70901198-0-991
 msgctxt "70901198-0-991"
-msgid ""For the Mainspring Ever-Wound is the Father of Curiosity, and curiosity is the joyful destroyer. Only in sundering can things be made whole. Only the disassembled engine can be scrubbed and made clean. So smash the old machines! Topple your mind's idols! And from the wreckage, assemble new truths.""
-msgstr ""상처받는 메인스프링은 호기심의 아버지이며 호기심은 환희에 찬 파괴자이다. 파괴에서만이 상황이 완전해 진다. 해체된 엔진만 청소하고 정화한다. 그래서 오래된 기계를 파괴하는 것이다!  마음의 우상을 타도하라! 잔해에서 새로운 진실이 조립되어 지겠지.""
+msgid ""
+"\"For the Mainspring Ever-Wound is the Father of Curiosity, and curiosity is the joyful destroyer. Only in sundering can things be made whole. Only the disassembled engine can be scrubbed and made clean. So smash the old machines! Topple your mind's idols! And from the wreckage, assemble new truths.\""
+msgstr "\"상처받는 메인스프링은 호기심의 아버지이며 호기심은 환희에 찬 파괴자이다. 파괴에서만이 상황이 완전해 진다. 해체된 엔진만 청소하고 정화한다. 그래서 오래된 기계를 파괴하는 것이다!  마음의 우상을 타도하라! 잔해에서 새로운 진실이 조립되어 지겠지.\""
 
 #: 162658389-0-991
 msgctxt "162658389-0-991"
@@ -122,8 +116,8 @@ msgstr "인카르나토리움 (Incarnatorium)"
 
 #: 70901198-0-989
 msgctxt "70901198-0-989"
-msgid ""When a completed work functions in a manner other than that for which it was designed, that merely means it has a different purpose than intended. Possibly, even, a greater purpose." —Sotha Sil"
-msgstr ""완성한 작품이 설계 되어진 방법으로 작동하는 경우, 의 미하는 것은 의도된 목적 이외의 것이 그 작품에 있는 것 뿐이다. 어쩌면 보다 위대한 목적인지도 모른다"- 소사 실"
+msgid "\"When a completed work functions in a manner other than that for which it was designed, that merely means it has a different purpose than intended. Possibly, even, a greater purpose.\" —Sotha Sil"
+msgstr "\"완성한 작품이 설계 되어진 방법으로 작동하는 경우, 의 미하는 것은 의도된 목적 이외의 것이 그 작품에 있는 것 뿐이다. 어쩌면 보다 위대한 목적인지도 모른다\"- 소사 실"
 
 #: 162658389-0-989
 msgctxt "162658389-0-989"
@@ -132,8 +126,8 @@ msgstr "벤트럴 테르미누스 (Ventral Terminus)"
 
 #: 70901198-0-988
 msgctxt "70901198-0-988"
-msgid ""Vehk asked me, 'Isn't hiding a vault within another vault just recursive and redundant? Shouldn't a single vault be enough?'" Sotha Sil's neck whirred as he shook his head ruefully. "Poets!""
-msgstr ""벸은 내게 물었다. 보물 창고 속에 또 다른 보물 창고를 숨기다니 두번 수고하는 헛 일 아냐? 하나면 충분하지 않아? " 소사 실은 붕 하는 소리를 내고 슬픈 듯이 고개를 흔들었다. "시인들 같으니라고!""
+msgid "\"Vehk asked me, 'Isn't hiding a vault within another vault just recursive and redundant? Shouldn't a single vault be enough?'\" Sotha Sil's neck whirred as he shook his head ruefully. \"Poets!\""
+msgstr "\"벸은 내게 물었다. 보물 창고 속에 또 다른 보물 창고를 숨기다니 두번 수고하는 헛 일 아냐? 하나면 충분하지 않아? \" 소사 실은 붕 하는 소리를 내고 슬픈 듯이 고개를 흔들었다. \"시인들 같으니라고!\""
 
 #: 162658389-0-988
 msgctxt "162658389-0-988"
@@ -142,8 +136,8 @@ msgstr "클락워크 시티 보물 저장고 (Clockwork City Vaults)"
 
 #: 70901198-0-986
 msgctxt "70901198-0-986"
-msgid ""The Withering Hermit says the Shadow Cleft is just a gloom-dusk echo cast by Nocturnal's Evergloam," whispered the voice from the darkness. "But her wandering star fell long, long ago.""
-msgstr ""그림자 틈은 녹터널의 에버글로엄이 던진 우울한 황혼의 잔향에 불과하다고 쇠잔해져 가고 있는 은자는 말한다. 하지만 그녀의 방황하는 별은 아득한 옛날에 떨어졌다"라고 어둠속의 목소리가 목소리가 속삭였다."
+msgid "\"The Withering Hermit says the Shadow Cleft is just a gloom-dusk echo cast by Nocturnal's Evergloam,\" whispered the voice from the darkness. \"But her wandering star fell long, long ago.\""
+msgstr "\"그림자 틈은 녹터널의 에버글로엄이 던진 우울한 황혼의 잔향에 불과하다고 쇠잔해져 가고 있는 은자는 말한다. 하지만 그녀의 방황하는 별은 아득한 옛날에 떨어졌다\"라고 어둠속의 목소리가 목소리가 속삭였다."
 
 #: 162658389-0-986
 msgctxt "162658389-0-986"
@@ -262,8 +256,8 @@ msgstr "비벡시 무법자 은신처 (Vivec City Outlaws Refuge)"
 
 #: 70901198-0-970
 msgctxt "70901198-0-970"
-msgid ""A Redoran is a warrior whose duty is first to the Tribunal, second to House Redoran, and third to family and clan." —Vilyn Girith, Mottos of the Dunmeri Great Houses"
-msgstr ""레도란은 첫째로 삼신께 의무를 다하고, 둘째로 레도란 가문에 의무를 다하며, 셋째로 가족과 일족에 의무를 다하는 전사이다." —빌린 기리스, 던머 대가문의 격언"
+msgid "\"A Redoran is a warrior whose duty is first to the Tribunal, second to House Redoran, and third to family and clan.\" —Vilyn Girith, Mottos of the Dunmeri Great Houses"
+msgstr "\"레도란은 첫째로 삼신께 의무를 다하고, 둘째로 레도란 가문에 의무를 다하며, 셋째로 가족과 일족에 의무를 다하는 전사이다.\" —빌린 기리스, 던머 대가문의 격언"
 
 #: 162658389-0-970
 msgctxt "162658389-0-970"
@@ -272,8 +266,8 @@ msgstr "레도란 요새 (Redoran Garrison)"
 
 #: 70901198-0-969
 msgctxt "70901198-0-969"
-msgid ""Malacath is a weak but vengeful god. The Dark Elves say he is Malak, the god-king of the Orcs. He tests the Dunmer for physical weakness." —The House of Troubles"
-msgstr ""말라카스는 약하지만 복수심에 불타는 신이다. 다크 엘프들은 그를 오크들의 신왕 말락이라고 부른다. 그는 육체적인 약점으로써 던머를 시험한다." —재난의 가문"
+msgid "\"Malacath is a weak but vengeful god. The Dark Elves say he is Malak, the god-king of the Orcs. He tests the Dunmer for physical weakness.\" —The House of Troubles"
+msgstr "\"말라카스는 약하지만 복수심에 불타는 신이다. 다크 엘프들은 그를 오크들의 신왕 말락이라고 부른다. 그는 육체적인 약점으로써 던머를 시험한다.\" —재난의 가문"
 
 #: 162658389-0-969
 msgctxt "162658389-0-969"
@@ -292,8 +286,8 @@ msgstr "파이어모스 섬 (Firemoth Island)"
 
 #: 70901198-0-967
 msgctxt "70901198-0-967"
-msgid "The vault that contains the City of Seht lies deep below Morrowind—but how deep, exactly? "As deep as it is possible to be," proclaims the Clockwork God."
-msgstr "세트의 도시에 있는 지하굴은 모로윈드의 깊숙한 곳에 있습니다.- 하지만 정확히 얼마나 깊을까요? "상상한 것 보다 더 깊지," 클락워크 신을 칭송합니다."
+msgid "The vault that contains the City of Seht lies deep below Morrowind—but how deep, exactly? \"As deep as it is possible to be,\" proclaims the Clockwork God."
+msgstr "세트의 도시에 있는 지하굴은 모로윈드의 깊숙한 곳에 있습니다.- 하지만 정확히 얼마나 깊을까요? \"상상한 것 보다 더 깊지,\" 클락워크 신을 칭송합니다."
 
 #: 162658389-0-967
 msgctxt "162658389-0-967"
@@ -302,8 +296,8 @@ msgstr "클락워크 시티 금고 (Clockwork City Vault)"
 
 #: 70901198-0-966
 msgctxt "70901198-0-966"
-msgid ""FATE is the Book that She writes in to inscribe our worth and deserts. For by our acts do we earn Her regard or disdain, and read our destiny in Her prophecy." —Sigillah Parate"
-msgstr ""운명은 우리의 가치와 자격을 기록하기 위해 쓰는 책이다. 우리 행위로 인해 그녀의 존경 또는 경멸을 얻고, 그녀의 예언에서 우리의 운명을 읽는다." -시질라 파라테"
+msgid "\"FATE is the Book that She writes in to inscribe our worth and deserts. For by our acts do we earn Her regard or disdain, and read our destiny in Her prophecy.\" —Sigillah Parate"
+msgstr "\"운명은 우리의 가치와 자격을 기록하기 위해 쓰는 책이다. 우리 행위로 인해 그녀의 존경 또는 경멸을 얻고, 그녀의 예언에서 우리의 운명을 읽는다.\" -시질라 파라테"
 
 #: 162658389-0-966
 msgctxt "162658389-0-966"
@@ -312,8 +306,8 @@ msgstr "화신의 동굴 (Cavern of the Incarnate)"
 
 #: 70901198-0-965
 msgctxt "70901198-0-965"
-msgid ""Once, the mighty and colossal emperor crabs ruled all of Vvardenfell! But they put aside divine pursuits in favor of mundane satisfactions, and were diminished to become the mudcrabs of today. And are we any different?" —Visrula the Mad Prophet"
-msgstr ""과거, 강력하고 훌륭한 황제가 바덴펠을 통치하던 시절이 있었다! 그러나 그들은 신성한 목적을 버리고 속세의 욕심을 선택했기 때문에 그 벌로 오늘날의 진흙게가 되었다. 우리도 그와 다른 것이 있는가?" - 광기의 예언자 비스루라"
+msgid "\"Once, the mighty and colossal emperor crabs ruled all of Vvardenfell! But they put aside divine pursuits in favor of mundane satisfactions, and were diminished to become the mudcrabs of today. And are we any different?\" —Visrula the Mad Prophet"
+msgstr "\"과거, 강력하고 훌륭한 황제가 바덴펠을 통치하던 시절이 있었다! 그러나 그들은 신성한 목적을 버리고 속세의 욕심을 선택했기 때문에 그 벌로 오늘날의 진흙게가 되었다. 우리도 그와 다른 것이 있는가?\" - 광기의 예언자 비스루라"
 
 #: 162658389-0-965
 msgctxt "162658389-0-965"
@@ -332,8 +326,8 @@ msgstr "애쉬마누 동굴 (Ashimanu Cave)"
 
 #: 70901198-0-963
 msgctxt "70901198-0-963"
-msgid "The so-called "Velothi Towers" were built by the Chimer in the early days when Morrowind was known as Resdayn. Many of these remote outposts have been occupied by hermits, wizards, and others who value their privacy, including the mage Barilzar."
-msgstr ""벨로씨 타워"는 것은 모로윈드가 아직 레즈데인 이라고 불리던 초창기에 카이머에 의해 건축되어졌습니다. 이러한 변방 건축물의 대부분은 은둔과 마법사 등의 눈길을 피하고 싶어하는 사람에게 점거되어 있는데 그 중에는마법사 바릴자르도 포함되어 있습니다."
+msgid "The so-called \"Velothi Towers\" were built by the Chimer in the early days when Morrowind was known as Resdayn. Many of these remote outposts have been occupied by hermits, wizards, and others who value their privacy, including the mage Barilzar."
+msgstr "\"벨로씨 타워\"는 것은 모로윈드가 아직 레즈데인 이라고 불리던 초창기에 카이머에 의해 건축되어졌습니다. 이러한 변방 건축물의 대부분은 은둔과 마법사 등의 눈길을 피하고 싶어하는 사람에게 점거되어 있는데 그 중에는마법사 바릴자르도 포함되어 있습니다."
 
 #: 162658389-0-963
 msgctxt "162658389-0-963"
@@ -352,8 +346,8 @@ msgstr "안듈 도서관 (Library of Andule)"
 
 #: 70901198-0-961
 msgctxt "70901198-0-961"
-msgid ""Among the ancient ancestral spirits who accompanied Saint Veloth and the Chimer into the promised land of Morrowind, the four Daedra Lords, Malacath, Mehrunes Dagon, Molag Bal, and Sheogorath, became known as the Four Corners of the House of Troubles.""
-msgstr ""성자 벨로스, 카이머와 함께 약속된 땅 모로윈드에 도착한 고대 조상의 영혼들 사이에서 네 명의 데이드라 군주인 말라카스, 메이룬스 데이건, 몰라그 발, 그리고 쉐오고라스는 재난의 가문의 네 귀퉁이로써 알려지게 되었다.""
+msgid "\"Among the ancient ancestral spirits who accompanied Saint Veloth and the Chimer into the promised land of Morrowind, the four Daedra Lords, Malacath, Mehrunes Dagon, Molag Bal, and Sheogorath, became known as the Four Corners of the House of Troubles.\""
+msgstr "\"성자 벨로스, 카이머와 함께 약속된 땅 모로윈드에 도착한 고대 조상의 영혼들 사이에서 네 명의 데이드라 군주인 말라카스, 메이룬스 데이건, 몰라그 발, 그리고 쉐오고라스는 재난의 가문의 네 귀퉁이로써 알려지게 되었다.\""
 
 #: 162658389-0-961
 msgctxt "162658389-0-961"
@@ -402,8 +396,8 @@ msgstr "드렐로스 조상 무덤 (Dreloth Ancestral Tomb)"
 
 #: 70901198-0-956
 msgctxt "70901198-0-956"
-msgid ""Malacath is the reanimated dung that was Trinimac. Malacath is a weak but vengeful god. He tests the Dunmer for physical weakness." —The House of Troubles"
-msgstr ""말라카스는 되살아난 놈이며, 예전에는 트리니막이었다. 말라카스는 약하지만 복수심에 불타는 신이다. 그는 육체적인 약점으로써 던머를 시험한다." —재난의 가문"
+msgid "\"Malacath is the reanimated dung that was Trinimac. Malacath is a weak but vengeful god. He tests the Dunmer for physical weakness.\" —The House of Troubles"
+msgstr "\"말라카스는 되살아난 놈이며, 예전에는 트리니막이었다. 말라카스는 약하지만 복수심에 불타는 신이다. 그는 육체적인 약점으로써 던머를 시험한다.\" —재난의 가문"
 
 #: 162658389-0-956
 msgctxt "162658389-0-956"
@@ -412,8 +406,8 @@ msgstr "카우쉬타라리 (Kaushtarari)"
 
 #: 70901198-0-955
 msgctxt "70901198-0-955"
-msgid ""The honorable warriors of the Great House Redoran are the hereditary defenders of Morrowind. To be a noble of House Redoran requires more than being a great warrior, however. One must follow the triune virtues of duty, gravity, and piety." —House Redoran Code"
-msgstr ""레도란의 위대한 가문의 존경할만한 전사들은 모로윈드의 세습적인 수호자들이다. 그러나 레도란의 상류층이 되기 위해서는 위대한 전사가 되어야한다. 의무감, 중압감, 신앙심의 삼위 일체가 따라야한다." - 레도란 코드 가문"
+msgid "\"The honorable warriors of the Great House Redoran are the hereditary defenders of Morrowind. To be a noble of House Redoran requires more than being a great warrior, however. One must follow the triune virtues of duty, gravity, and piety.\" —House Redoran Code"
+msgstr "\"레도란의 위대한 가문의 존경할만한 전사들은 모로윈드의 세습적인 수호자들이다. 그러나 레도란의 상류층이 되기 위해서는 위대한 전사가 되어야한다. 의무감, 중압감, 신앙심의 삼위 일체가 따라야한다.\" - 레도란 코드 가문"
 
 #: 162658389-0-955
 msgctxt "162658389-0-955"
@@ -432,8 +426,8 @@ msgstr "가롬 데우스 (Galom Daeus)"
 
 #: 70901198-0-953
 msgctxt "70901198-0-953"
-msgid ""I believe the name of this site translates as 'Graveyard of the Ghost Invaders.' Unless the fourth syllable is inverted, in which case it's 'Where Bread Becomes Toast.'" — Narsis Dren, Author and Explorer"
-msgstr ""이 장소의 이름은 '유령 침략자의 묘지'로 해석된다. 네 번째 음절이 거꾸로 되지 않는 한, 이 경우 '빵이 토스트가 되는 곳.'이 된다."- 나르시스 드렌, 작가 겸 탐험가"
+msgid "\"I believe the name of this site translates as 'Graveyard of the Ghost Invaders.' Unless the fourth syllable is inverted, in which case it's 'Where Bread Becomes Toast.'\" — Narsis Dren, Author and Explorer"
+msgstr "\"이 장소의 이름은 '유령 침략자의 묘지'로 해석된다. 네 번째 음절이 거꾸로 되지 않는 한, 이 경우 '빵이 토스트가 되는 곳.'이 된다.\"- 나르시스 드렌, 작가 겸 탐험가"
 
 #: 162658389-0-953
 msgctxt "162658389-0-953"
@@ -442,8 +436,8 @@ msgstr "아큰툰치-스툴덤즈 (Arkngthunch-Sturdumz)"
 
 #: 70901198-0-952
 msgctxt "70901198-0-952"
-msgid ""The Nycotic cult? I'm not sure who they are, but one of them who came into town for provisions was muttering something about his 'rueful acts.'" —Grubesha, Grocer"
-msgstr ""니코틱 교단? 그들의 정체는 잘 모르지만 거리에 식량을 사러 온 놈이 "후회될 행동"에 대해서 중얼 중얼거리고 있었다"- 식량 상인 그루베샤"
+msgid "\"The Nycotic cult? I'm not sure who they are, but one of them who came into town for provisions was muttering something about his 'rueful acts.'\" —Grubesha, Grocer"
+msgstr "\"니코틱 교단? 그들의 정체는 잘 모르지만 거리에 식량을 사러 온 놈이 \"후회될 행동\"에 대해서 중얼 중얼거리고 있었다\"- 식량 상인 그루베샤"
 
 #: 162658389-0-952
 msgctxt "162658389-0-952"
@@ -452,8 +446,8 @@ msgstr "슐크 광석 광산(Shulk Ore Mine)"
 
 #: 70901198-0-951
 msgctxt "70901198-0-951"
-msgid ""The scourge of slavery is the defining sin of our people. We built our Houses on the backs of a proud and mysterious people whose lives we destroy with reckless abandon." —The Final Words of Nilvyn Omaren"
-msgstr ""노예제도야 말로 우리의 대죄이다. 우리는 자랑스럽고 기이한 사람들의 생활을 무모하게 파괴하고 그 위에 자신들의 집을 짓고 있다"- 닐빈 오마렌의 마지막 말"
+msgid "\"The scourge of slavery is the defining sin of our people. We built our Houses on the backs of a proud and mysterious people whose lives we destroy with reckless abandon.\" —The Final Words of Nilvyn Omaren"
+msgstr "\"노예제도야 말로 우리의 대죄이다. 우리는 자랑스럽고 기이한 사람들의 생활을 무모하게 파괴하고 그 위에 자신들의 집을 짓고 있다\"- 닐빈 오마렌의 마지막 말"
 
 #: 162658389-0-951
 msgctxt "162658389-0-951"
@@ -462,8 +456,8 @@ msgstr "바샴시 광산(Vassamsi Mine)"
 
 #: 70901198-0-950
 msgctxt "70901198-0-950"
-msgid ""Malacath, Mehrunes Dagon, Molag Bal, and Sheogorath are holy in that they serve the role of obstacles during the Testing. Sheogorath is the King of Madness. He always tests the Dunmer for mental weakness." —The House of Troubles"
-msgstr ""말라카스, 메이룬스 데이건, 몰라그 발, 그리고 쉐오고라스는 시험의 과정에서 장애물의 역할을 담당한다는 점에서 신성함을 지닌다. 쉐오고라스는 광기의 왕이다. 그는 항상 정신적인 약점으로 던머를 시험한다." —재난의 가문"
+msgid "\"Malacath, Mehrunes Dagon, Molag Bal, and Sheogorath are holy in that they serve the role of obstacles during the Testing. Sheogorath is the King of Madness. He always tests the Dunmer for mental weakness.\" —The House of Troubles"
+msgstr "\"말라카스, 메이룬스 데이건, 몰라그 발, 그리고 쉐오고라스는 시험의 과정에서 장애물의 역할을 담당한다는 점에서 신성함을 지닌다. 쉐오고라스는 광기의 왕이다. 그는 항상 정신적인 약점으로 던머를 시험한다.\" —재난의 가문"
 
 #: 162658389-0-950
 msgctxt "162658389-0-950"
@@ -472,8 +466,8 @@ msgstr "잔티라리스(Zaintiraris)"
 
 #: 70901198-0-949
 msgctxt "70901198-0-949"
-msgid ""You may be surprised to think that glass can be thought of as metallic, but appearances are deceiving. What we call glass is nothing like the window panes you see in houses. The greenish material is far stronger and has a much higher melting point." —Revus Sarvani"
-msgstr ""유리가 금속으로 생각할 수 있다면 놀라실 수도 있지만 외관을 속이는 것입니다. 우리가 유리라고 부르는 것은 집에서 보는 창유리와 같지 않습니다. 이 초록빛의 물질은 훨씬 강하고 융점이 훨씬 큽니다. " -레부스 살바니"
+msgid "\"You may be surprised to think that glass can be thought of as metallic, but appearances are deceiving. What we call glass is nothing like the window panes you see in houses. The greenish material is far stronger and has a much higher melting point.\" —Revus Sarvani"
+msgstr "\"유리가 금속으로 생각할 수 있다면 놀라실 수도 있지만 외관을 속이는 것입니다. 우리가 유리라고 부르는 것은 집에서 보는 창유리와 같지 않습니다. 이 초록빛의 물질은 훨씬 강하고 융점이 훨씬 큽니다. \" -레부스 살바니"
 
 #: 162658389-0-949
 msgctxt "162658389-0-949"
@@ -482,8 +476,8 @@ msgstr "드루듀라이 유리 광산(Dreudurai Glass Mine)"
 
 #: 70901198-0-948
 msgctxt "70901198-0-948"
-msgid ""Molag Bal is, in Morrowind, the Lord of Brutality. A race of monsters, said to live in Molag Amur, are the result of his seduction of Vivec during the previous era." —The House of Troubles"
-msgstr ""모로윈드에서 몰라그 발은 잔혹함의 군주로 통한다. 몰라그 아무르에 살고 있다 전해지는 괴물들의 종족은 이전 시대에 몰라그 발이 비벡을 유혹한 결과이다." —재난의 가문"
+msgid "\"Molag Bal is, in Morrowind, the Lord of Brutality. A race of monsters, said to live in Molag Amur, are the result of his seduction of Vivec during the previous era.\" —The House of Troubles"
+msgstr "\"모로윈드에서 몰라그 발은 잔혹함의 군주로 통한다. 몰라그 아무르에 살고 있다 전해지는 괴물들의 종족은 이전 시대에 몰라그 발이 비벡을 유혹한 결과이다.\" —재난의 가문"
 
 #: 162658389-0-948
 msgctxt "162658389-0-948"
@@ -492,8 +486,8 @@ msgstr "튜세넨드(Tusenend)"
 
 #: 70901198-0-947
 msgctxt "70901198-0-947"
-msgid ""Molag Bal is, in Morrowind, the Lord of Brutality. He tries to upset the bloodlines of Great Houses and otherwise ruin the Dunmer gene pool." —The House of Troubles"
-msgstr ""모로윈드에서 몰라그 발은 잔혹함의 군주로 통한다. 그는 대가문들의 혈통을 뒤틀리게 하고 던머의 유전 인자 전체를 망치려 시도했다." —재난의 가문"
+msgid "\"Molag Bal is, in Morrowind, the Lord of Brutality. He tries to upset the bloodlines of Great Houses and otherwise ruin the Dunmer gene pool.\" —The House of Troubles"
+msgstr "\"모로윈드에서 몰라그 발은 잔혹함의 군주로 통한다. 그는 대가문들의 혈통을 뒤틀리게 하고 던머의 유전 인자 전체를 망치려 시도했다.\" —재난의 가문"
 
 #: 162658389-0-947
 msgctxt "162658389-0-947"
@@ -672,8 +666,8 @@ msgstr "어둠그늘 동굴 II(Darkshade Caverns II)"
 
 #: 70901198-0-929
 msgctxt "70901198-0-929"
-msgid ""Scribs, as the miners call juvenile kwama, roam freely through a kwama colony. Scrib jerky, made by drying thin slices of scrib meat, has minor restorative properties and Dark Elf culinary experts consider it to be quite delicious." —Dorayn Redas, Kwama Keeper"
-msgstr ""광부들이 스크리브 라고 부르고 있는 유년기 크와마는 크와마 서식지를 자유롭게 돌아다닌다. 스크리브 고기를 얇게 썰어 건조시킨 스크리브 육포는 미약한 회복 효과가 있으며, 다크 엘프 요리 연구가들 사이에서 별미로 평가되고 있다. "- 도라안 리다스, 크와마 사육사"
+msgid "\"Scribs, as the miners call juvenile kwama, roam freely through a kwama colony. Scrib jerky, made by drying thin slices of scrib meat, has minor restorative properties and Dark Elf culinary experts consider it to be quite delicious.\" —Dorayn Redas, Kwama Keeper"
+msgstr "\"광부들이 스크리브 라고 부르고 있는 유년기 크와마는 크와마 서식지를 자유롭게 돌아다닌다. 스크리브 고기를 얇게 썰어 건조시킨 스크리브 육포는 미약한 회복 효과가 있으며, 다크 엘프 요리 연구가들 사이에서 별미로 평가되고 있다. \"- 도라안 리다스, 크와마 사육사"
 
 #: 162658389-0-929
 msgctxt "162658389-0-929"
@@ -682,8 +676,8 @@ msgstr "그니시스 알 광산(Gnisis Egg Mine)"
 
 #: 70901198-0-928
 msgctxt "70901198-0-928"
-msgid ""Kwama warriors protect the colony, reacting quickly to any perceived danger. They should be treated warily and with respect, for they are aggressive and highly dangerous." —Dorayn Redas, Kwama Keeper"
-msgstr ""크와마 전사는 위험을 감지하면 신속하게 반응하고 무리를 지킨다. 그들은 공격적이고 매우 위험하므로 주의 깊고 소중히 대우해야 한다" -도라안 리다스, 크와마 사육사"
+msgid "\"Kwama warriors protect the colony, reacting quickly to any perceived danger. They should be treated warily and with respect, for they are aggressive and highly dangerous.\" —Dorayn Redas, Kwama Keeper"
+msgstr "\"크와마 전사는 위험을 감지하면 신속하게 반응하고 무리를 지킨다. 그들은 공격적이고 매우 위험하므로 주의 깊고 소중히 대우해야 한다\" -도라안 리다스, 크와마 사육사"
 
 #: 162658389-0-928
 msgctxt "162658389-0-928"
@@ -692,8 +686,8 @@ msgstr "잘킨-술 알 광산(Zalkin-Sul Egg Mine)"
 
 #: 70901198-0-927
 msgctxt "70901198-0-927"
-msgid ""Ebony is a substance whose acquisition and use tempt mortals into acts of achievement that transcend their usual limitations. Did Lorkhan 'intend' this? Alas, the concept is self-referential, and therefore nugatory." —Divayth Fyr"
-msgstr ""흑단을 손에 넣어 사용한 필멸자는 평상시의 한계를 넘는 행동을 할 수 있다. 로칸은 이를 "의도"한 것일까? 유감스럽지만 그것을 묻는 의미는 없다"- 디베이스 피어"
+msgid "\"Ebony is a substance whose acquisition and use tempt mortals into acts of achievement that transcend their usual limitations. Did Lorkhan 'intend' this? Alas, the concept is self-referential, and therefore nugatory.\" —Divayth Fyr"
+msgstr "\"흑단을 손에 넣어 사용한 필멸자는 평상시의 한계를 넘는 행동을 할 수 있다. 로칸은 이를 \"의도\"한 것일까? 유감스럽지만 그것을 묻는 의미는 없다\"- 디베이스 피어"
 
 #: 162658389-0-927
 msgctxt "162658389-0-927"
@@ -732,8 +726,8 @@ msgstr "풀크(Pulk)"
 
 #: 70901198-0-923
 msgctxt "70901198-0-923"
-msgid ""With judicious yet unobtrusive maintenance, a moderately sized mine can produce an abundance of valuable kwama eggs. Kwama mines can also produce tasty scrib jerky, acidic scrib jelly, and kwama cuttle, which is highly valued by alchemists." —Dorayn Redas"
-msgstr ""신중하고 지속적인 관리가 이루어진다면 중규모의 광산에서 귀중한 크와마 알을 많이 채취할 수 있다. 크와마 광산에서는 그 맛있는 스크리브 육포, 시큼한 스크리브 젤리,  연금술사에게 귀하게 취급되는 크와마 갑각이 채취되고 있다. - 도라인 리다스"
+msgid "\"With judicious yet unobtrusive maintenance, a moderately sized mine can produce an abundance of valuable kwama eggs. Kwama mines can also produce tasty scrib jerky, acidic scrib jelly, and kwama cuttle, which is highly valued by alchemists.\" —Dorayn Redas"
+msgstr "\"신중하고 지속적인 관리가 이루어진다면 중규모의 광산에서 귀중한 크와마 알을 많이 채취할 수 있다. 크와마 광산에서는 그 맛있는 스크리브 육포, 시큼한 스크리브 젤리,  연금술사에게 귀하게 취급되는 크와마 갑각이 채취되고 있다. - 도라인 리다스"
 
 #: 162658389-0-923
 msgctxt "162658389-0-923"
@@ -762,8 +756,8 @@ msgstr "카르타그 포인트(Khartag Point)"
 
 #: 70901198-0-920
 msgctxt "70901198-0-920"
-msgid ""Egg harvesting must be done with an eye toward balance. Remove too many eggs and you may agitate the workers and the queen. Remove too few and the queen's egg production may fall." —Dorayn Redas, Kwama Mining"
-msgstr ""알을 수확할 때는 균형에 주의해야 한다. 알을 너무 많이 수확하면 작업자와 퀸을 자극 할 수있다. 너무 많이 수확하면 알의 생산력이 떨어질지도 모른다." -도라인 리다스, 크와마 광산"
+msgid "\"Egg harvesting must be done with an eye toward balance. Remove too many eggs and you may agitate the workers and the queen. Remove too few and the queen's egg production may fall.\" —Dorayn Redas, Kwama Mining"
+msgstr "\"알을 수확할 때는 균형에 주의해야 한다. 알을 너무 많이 수확하면 작업자와 퀸을 자극 할 수있다. 너무 많이 수확하면 알의 생산력이 떨어질지도 모른다.\" -도라인 리다스, 크와마 광산"
 
 #: 162658389-0-920
 msgctxt "162658389-0-920"
@@ -862,8 +856,8 @@ msgstr "엘린히어 하수도 공사 현장(Elinhir Sewerworks)"
 
 #: 70901198-0-909
 msgctxt "70901198-0-909"
-msgid ""The Seeker's Archive"—a curious name for something that appears to be a Yokudan temple. A dry, dusty draft seeps out from beneath the door, bearing the scent of a thousand, thousand libraries …."
-msgstr ""구도자의 보관소"... 요쿠다 성당치곤 특이한 이름입니다. 문 아래에서 스며들어오는 건조한 먼지 바람은 방대한 장서들의 향기를 실어 나르거든요..."
+msgid "\"The Seeker's Archive\"—a curious name for something that appears to be a Yokudan temple. A dry, dusty draft seeps out from beneath the door, bearing the scent of a thousand, thousand libraries …."
+msgstr "\"구도자의 보관소\"... 요쿠다 성당치곤 특이한 이름입니다. 문 아래에서 스며들어오는 건조한 먼지 바람은 방대한 장서들의 향기를 실어 나르거든요..."
 
 #: 162658389-0-909
 msgctxt "162658389-0-909"
@@ -872,13 +866,15 @@ msgstr "구도자의 보관소 (Seeker's Archive)"
 
 #: 70901198-0-908
 msgctxt "70901198-0-908"
-msgid ""Weep for Shada, tears of grief."
-"\nThe endless years bring no relief.""
-"\n     —Old Hammerfell Ballad"
-msgstr ""샤다를 위해 울고, 고통의 눈물을 흘린다."
-"\n안도 같은 것은 없는 끝없는 세월.""
+msgid ""
+"\"Weep for Shada, tears of grief.\n"
+"The endless years bring no relief.\"\n"
+"     —Old Hammerfell Ballad"
+msgstr ""
+"\"샤다를 위해 울고, 고통의 눈물을 흘린다.\n"
+"안도 같은 것은 없는 끝없는 세월.\"\n"
 "\n"
-"\n     —옛 해머펠 발라드"
+"     —옛 해머펠 발라드"
 
 #: 162658389-0-908
 msgctxt "162658389-0-908"
@@ -887,8 +883,8 @@ msgstr "샤다의 눈물(Shada's Tear)"
 
 #: 70901198-0-907
 msgctxt "70901198-0-907"
-msgid ""Who has not heard of the Trials of Rahni'Za? Five they are, each a test of a warrior's mettle, until the hopeful champion is faced at last by the Trial of the True Path. Though many attempt it, few succeed." —The Unveiled Azadiyeh"
-msgstr ""라니' 자의 시련을 모르는 사람이 있어? 시련은 다섯 개로써 그 하나 하나가 전사의 패기를 시험하는 것이야. 시련을 극복한 투사는 마지막으로 진정한 길의 시련을 마주하게 되지. 많은 사람이 도전했지만, 성공한 사람은 거의 없어."- 밝혀진 자 아자디에"
+msgid "\"Who has not heard of the Trials of Rahni'Za? Five they are, each a test of a warrior's mettle, until the hopeful champion is faced at last by the Trial of the True Path. Though many attempt it, few succeed.\" —The Unveiled Azadiyeh"
+msgstr "\"라니' 자의 시련을 모르는 사람이 있어? 시련은 다섯 개로써 그 하나 하나가 전사의 패기를 시험하는 것이야. 시련을 극복한 투사는 마지막으로 진정한 길의 시련을 마주하게 되지. 많은 사람이 도전했지만, 성공한 사람은 거의 없어.\"- 밝혀진 자 아자디에"
 
 #: 162658389-0-907
 msgctxt "162658389-0-907"
@@ -897,8 +893,8 @@ msgstr "라니'자, 전사의 학교(Rahni'Za, School of Warriors)"
 
 #: 70901198-0-906
 msgctxt "70901198-0-906"
-msgid ""The Offices of the Hunt, which the Huntsmen, Master, and Hounds are solemnly sworn to honor … states that the Hare must have a genuine chance to escape the Hunt, no matter how slim." —The Posting of the Hunt"
-msgstr ""용감한 사냥꾼, 사냥의 왕, 사냥개가 엄숙히 지키지 않으면 안 되는 "사냥의 의무"에는 사냥 방법과 조건이 상세하게 기술되어 있다. 예를 들며, 비록 짧은 순간이라도 토끼 사냥에서 도망 칠 수 있는 진정한 기회가 없어서는 안 된다고 규정하고 있다" - "사냥으로의 출발"
+msgid "\"The Offices of the Hunt, which the Huntsmen, Master, and Hounds are solemnly sworn to honor … states that the Hare must have a genuine chance to escape the Hunt, no matter how slim.\" —The Posting of the Hunt"
+msgstr "\"용감한 사냥꾼, 사냥의 왕, 사냥개가 엄숙히 지키지 않으면 안 되는 \"사냥의 의무\"에는 사냥 방법과 조건이 상세하게 기술되어 있다. 예를 들며, 비록 짧은 순간이라도 토끼 사냥에서 도망 칠 수 있는 진정한 기회가 없어서는 안 된다고 규정하고 있다\" - \"사냥으로의 출발"
 
 #: 162658389-0-906
 msgctxt "162658389-0-906"
@@ -907,8 +903,8 @@ msgstr "허씬의 근거지(Hircine's Haunt)"
 
 #: 70901198-0-905
 msgctxt "70901198-0-905"
-msgid ""Know, O my prince, that in that forgotten time there arose a ruler of great wickedness, who unjustly took unto himself the title of Emperor. Cruel was he, utterly without ruth, and his name was Tarish-Zi." —The Unveiled Azadiyeh"
-msgstr ""왕자여, 이것을 아시나요. 그 잊혀진 시대에 악마 같은 지배자가 나타나서 부정한 수단으로 황제의 지위에 앉은 것입니다. 자비의 파편도 없는 그 잔학한 황제의 이름은 타리쉬-지 입니다" - 공개된 아자디에"
+msgid "\"Know, O my prince, that in that forgotten time there arose a ruler of great wickedness, who unjustly took unto himself the title of Emperor. Cruel was he, utterly without ruth, and his name was Tarish-Zi.\" —The Unveiled Azadiyeh"
+msgstr "\"왕자여, 이것을 아시나요. 그 잊혀진 시대에 악마 같은 지배자가 나타나서 부정한 수단으로 황제의 지위에 앉은 것입니다. 자비의 파편도 없는 그 잔학한 황제의 이름은 타리쉬-지 입니다\" - 공개된 아자디에"
 
 #: 162658389-0-905
 msgctxt "162658389-0-905"
@@ -917,8 +913,8 @@ msgstr "나-토탐부의 무덤(Tombs of the Na-Totambu)"
 
 #: 70901198-0-904
 msgctxt "70901198-0-904"
-msgid "The scholar Phrastus of Elinhir claims that "Zalgaz" is Old Nedic for "lizard lady." But his rival, Cinnabar of Taneth, dismisses this as "A reeking load of guarwash.""
-msgstr "학자인 엘린히어의 페라스투스는 "잘가즈" 란 고대 네드어로 "도마뱀 부인" 을 의미한다고 말하지만 그의 라이벌인 타네쓰의 신나바는 "구아효소의 대량 방출"이라고 이것을 일축하고 있습니다."
+msgid "The scholar Phrastus of Elinhir claims that \"Zalgaz\" is Old Nedic for \"lizard lady.\" But his rival, Cinnabar of Taneth, dismisses this as \"A reeking load of guarwash.\""
+msgstr "학자인 엘린히어의 페라스투스는 \"잘가즈\" 란 고대 네드어로 \"도마뱀 부인\" 을 의미한다고 말하지만 그의 라이벌인 타네쓰의 신나바는 \"구아효소의 대량 방출\"이라고 이것을 일축하고 있습니다."
 
 #: 162658389-0-904
 msgctxt "162658389-0-904"
@@ -958,7 +954,7 @@ msgstr "발라마스(Balamath)"
 #: 70901198-0-900
 msgctxt "70901198-0-900"
 msgid "Undead overrun the Howling Sepulchers, windswept burial grounds once sacred to the ancient Nedes."
-msgstr """울부짖는 묘지""는 고대 네드의 성지 였지만 비바람에 노출되어 버린 이 묘지를 언데드가 점령해 버렸습니다."
+msgstr "\"\"울부짖는 묘지\"\"는 고대 네드의 성지 였지만 비바람에 노출되어 버린 이 묘지를 언데드가 점령해 버렸습니다."
 
 #: 162658389-0-900
 msgctxt "162658389-0-900"
@@ -997,8 +993,8 @@ msgstr "치즐슈리크 광산(Chiselshriek Mine)"
 
 #: 70901198-0-896
 msgctxt "70901198-0-896"
-msgid "Some caravans that enter Craglorn never leave it again. Others do make their way to the far borders—but "under new management." The new proprietors are often members of the Greycloak gang, for such is their illicit business."
-msgstr "크래글론에 들어간 상단 중에는 다시는 밖으로 나오지 못한 사람들도 있습니다. 만일 나온다고 해도 그것은 "새로운 경영자의 밑" 이라는 것을 의미하는데 그 경영자의 대부분은 회색망토 갱단의 멤버입니다. 그들은 그렇게 불법 사업에 힘쓰고 있죠."
+msgid "Some caravans that enter Craglorn never leave it again. Others do make their way to the far borders—but \"under new management.\" The new proprietors are often members of the Greycloak gang, for such is their illicit business."
+msgstr "크래글론에 들어간 상단 중에는 다시는 밖으로 나오지 못한 사람들도 있습니다. 만일 나온다고 해도 그것은 \"새로운 경영자의 밑\" 이라는 것을 의미하는데 그 경영자의 대부분은 회색망토 갱단의 멤버입니다. 그들은 그렇게 불법 사업에 힘쓰고 있죠."
 
 #: 162658389-0-896
 msgctxt "162658389-0-896"
@@ -1038,7 +1034,7 @@ msgstr "칼다라의 유적(Ruins of Kardala)"
 #: 70901198-0-892
 msgctxt "70901198-0-892"
 msgid "The ruins known as Ilthag's Undertower serve as a training ground for the Iron Orcs' growing army of trolls, under the tutelage of Ilthag Ironblood."
-msgstr """일타그 탑 지하 '로 불리는이 유적은 군세가 불어나고 있는 오크 트롤 군단의 훈련 시설로 사용되고 있습니다. 트롤들을 지도하고 있는 자가 일타그 아이언블러드입니다."
+msgstr "\"\"일타그 탑 지하 '로 불리는이 유적은 군세가 불어나고 있는 오크 트롤 군단의 훈련 시설로 사용되고 있습니다. 트롤들을 지도하고 있는 자가 일타그 아이언블러드입니다."
 
 #: 162658389-0-892
 msgctxt "162658389-0-892"
@@ -1067,8 +1063,8 @@ msgstr "르쿤드젤프트(Rkundzelft)"
 
 #: 70901198-0-889
 msgctxt "70901198-0-889"
-msgid "Roughly translated, the ancient Elven word "molavar" means "fire mouth," though it's unknown whether that was this ruin's original name in Ayleidoon or a description of the doom that overtook it."
-msgstr ""모라발" 은 대충 번역하자면 고대 엘프어로 "불의 입 '이라는 뜻이지만 에일리드어에서 이 유적의 이름이 기원했는지 아니면 이곳을 강타할 운명을 나타내고 있는지는 확실치 않습니다."
+msgid "Roughly translated, the ancient Elven word \"molavar\" means \"fire mouth,\" though it's unknown whether that was this ruin's original name in Ayleidoon or a description of the doom that overtook it."
+msgstr "\"모라발\" 은 대충 번역하자면 고대 엘프어로 \"불의 입 '이라는 뜻이지만 에일리드어에서 이 유적의 이름이 기원했는지 아니면 이곳을 강타할 운명을 나타내고 있는지는 확실치 않습니다."
 
 #: 162658389-0-889
 msgctxt "162658389-0-889"
@@ -1227,8 +1223,8 @@ msgstr "페라스티쿠스 주택(Domus Phrasticus)"
 
 #: 70901198-0-869
 msgctxt "70901198-0-869"
-msgid ""This house is a good house, plenty of room for guar! Palisade is strong to keep guar from straying, and many guar can feed in the garden! Very good, yes! Esqoo will come to visit often!" —Esqoo of Dhalmora"
-msgstr ""이 집은 썩 괜찮군요, 구아가 살 곳이 아주 많아요. 울타리가 제대로 쳐져 있어서 구아들이 헤메일 일도 없고, 정원은 많은 구아들에게 먹이를 줄수 있게끔 넓군요! 아주 좋아요. 에스쿠는 언제든 방문할 겁니다!" — 달모라의 에스쿠"
+msgid "\"This house is a good house, plenty of room for guar! Palisade is strong to keep guar from straying, and many guar can feed in the garden! Very good, yes! Esqoo will come to visit often!\" —Esqoo of Dhalmora"
+msgstr "\"이 집은 썩 괜찮군요, 구아가 살 곳이 아주 많아요. 울타리가 제대로 쳐져 있어서 구아들이 헤메일 일도 없고, 정원은 많은 구아들에게 먹이를 줄수 있게끔 넓군요! 아주 좋아요. 에스쿠는 언제든 방문할 겁니다!\" — 달모라의 에스쿠"
 
 #: 162658389-0-869
 msgctxt "162658389-0-869"
@@ -1367,8 +1363,8 @@ msgstr "쌍둥이 아치형 집(Twin Arches)"
 
 #: 70901198-0-855
 msgctxt "70901198-0-855"
-msgid ""It may be small, but at least it's gloomy. And if you enjoy beating up on your friends, like I do, it's right next door to the arena!" —Goorguk gro-Murtag, Orcish Realtor"
-msgstr ""작을 지는 모르겠지만 적어도 음산하긴 하지. 그리고 네가 나처럼 친구들을 때려눕히길 즐긴다면 바로 옆에 투기장도 있다고!" —고어국 그로-물타그, 오크 부동산 중개업자"
+msgid "\"It may be small, but at least it's gloomy. And if you enjoy beating up on your friends, like I do, it's right next door to the arena!\" —Goorguk gro-Murtag, Orcish Realtor"
+msgstr "\"작을 지는 모르겠지만 적어도 음산하긴 하지. 그리고 네가 나처럼 친구들을 때려눕히길 즐긴다면 바로 옆에 투기장도 있다고!\" —고어국 그로-물타그, 오크 부동산 중개업자"
 
 #: 162658389-0-855
 msgctxt "162658389-0-855"
@@ -1377,8 +1373,8 @@ msgstr "망치죽음 단층집(Hammerdeath Bungalow)"
 
 #: 70901198-0-854
 msgctxt "70901198-0-854"
-msgid "This fortified household is strong, intimidating, and remote—in short, everything an Orc holds dear. And if you get tired of the "remote" part, there's a convenient wayshrine just outside your gate!"
-msgstr "이 강화된 집은 강하고 공포스럽고 마을에서 멀리 떨어져 있고...즉,  오크 요새의 특징을 모두 갖추고 있습니다. 만약"마을에서 멀리 떨어졌다" 라는 부분이 지겹다고 느껴진다면, 문 바로 옆에 편리한 여행자 성소가 있습니다!"
+msgid "This fortified household is strong, intimidating, and remote—in short, everything an Orc holds dear. And if you get tired of the \"remote\" part, there's a convenient wayshrine just outside your gate!"
+msgstr "이 강화된 집은 강하고 공포스럽고 마을에서 멀리 떨어져 있고...즉,  오크 요새의 특징을 모두 갖추고 있습니다. 만약\"마을에서 멀리 떨어졌다\" 라는 부분이 지겹다고 느껴진다면, 문 바로 옆에 편리한 여행자 성소가 있습니다!"
 
 #: 162658389-0-854
 msgctxt "162658389-0-854"
@@ -1447,8 +1443,8 @@ msgstr "술리마 저택 (Sulima Mansion)"
 
 #: 70901198-0-843
 msgctxt "70901198-0-843"
-msgid "As any Argonian will tell you, something at the heart of the "Puzzle City" is terribly wrong and deeply disturbing at a basic, almost organic level. Erect the spines of warning!"
-msgstr "어느 아르고니안들이든 "수수께끼 도시"의 중심에 매우 사악하고 온 몸에서 불안감이 우러나오게 만드는 무언가가 있다고 말합니다. 주의깊게 살피며 다니세요!"
+msgid "As any Argonian will tell you, something at the heart of the \"Puzzle City\" is terribly wrong and deeply disturbing at a basic, almost organic level. Erect the spines of warning!"
+msgstr "어느 아르고니안들이든 \"수수께끼 도시\"의 중심에 매우 사악하고 온 몸에서 불안감이 우러나오게 만드는 무언가가 있다고 말합니다. 주의깊게 살피며 다니세요!"
 
 #: 162658389-0-843
 msgctxt "162658389-0-843"
@@ -1577,8 +1573,8 @@ msgstr "다크 브라더후드 성역 (Dark Brotherhood Sanctuary)"
 
 #: 70901198-0-825
 msgctxt "70901198-0-825"
-msgid "In Ayleidoon, "Garlas Agea" means "Cavern of Secrets." But the secrets of the Wild Elves were often dark, horrific, and perhaps better forgotten."
-msgstr "에일리드어로 "갈라스 아제아"란 "비밀의 동굴"을 뜻합니다. 하지만 야생 엘프의 비밀은 대부분의 경우 어둡고 끔직합니다. 잊어버리는 것이 더 나을지도 모릅니다."
+msgid "In Ayleidoon, \"Garlas Agea\" means \"Cavern of Secrets.\" But the secrets of the Wild Elves were often dark, horrific, and perhaps better forgotten."
+msgstr "에일리드어로 \"갈라스 아제아\"란 \"비밀의 동굴\"을 뜻합니다. 하지만 야생 엘프의 비밀은 대부분의 경우 어둡고 끔직합니다. 잊어버리는 것이 더 나을지도 모릅니다."
 
 #: 162658389-0-825
 msgctxt "162658389-0-825"
@@ -1787,8 +1783,8 @@ msgstr "상인의 만(Trader's Cove)"
 
 #: 70901198-0-765
 msgctxt "70901198-0-765"
-msgid ""Where would the smugglers of Tamriel be without convenient caves for concealing contraband cargo? I can't conceive." — Cirantille"
-msgstr ""편리한 동굴이 없다면 탐리엘의 밀수업자들은 금지 물품을 어디에 숨기고 있었을까? 상상도 할 수 없다" — 키란틸"
+msgid "\"Where would the smugglers of Tamriel be without convenient caves for concealing contraband cargo? I can't conceive.\" — Cirantille"
+msgstr "\"편리한 동굴이 없다면 탐리엘의 밀수업자들은 금지 물품을 어디에 숨기고 있었을까? 상상도 할 수 없다\" — 키란틸"
 
 #: 162658389-0-765
 msgctxt "162658389-0-765"
@@ -1827,8 +1823,8 @@ msgstr "리프튼 무법자 은신처 (Riften Outlaws Refuge)"
 
 #: 70901198-0-760
 msgctxt "70901198-0-760"
-msgid "Ilanadzeh the Fence: "This one does not understand: how could a hive of illegal activity continue to thrive under the very noses of the divine Tribunal?" Eldyme, smiling: "How, indeed?""
-msgstr "장물아비 일라나드제 : "일라나드제는 이해하지 못한다. : 어떻게 불법 활동이 북새통을 이루는 곳이 트라이뷰널 사원 코앞에 있을 수 있나?" 미소 짓는 엘디메 : "아이고, 저런?""
+msgid "Ilanadzeh the Fence: \"This one does not understand: how could a hive of illegal activity continue to thrive under the very noses of the divine Tribunal?\" Eldyme, smiling: \"How, indeed?\""
+msgstr "장물아비 일라나드제 : \"일라나드제는 이해하지 못한다. : 어떻게 불법 활동이 북새통을 이루는 곳이 트라이뷰널 사원 코앞에 있을 수 있나?\" 미소 짓는 엘디메 : \"아이고, 저런?\""
 
 #: 162658389-0-760
 msgctxt "162658389-0-760"
@@ -1847,8 +1843,8 @@ msgstr "스톰홀드 무법자 은신처 (Stormhold Outlaws Refuge)"
 
 #: 70901198-0-758
 msgctxt "70901198-0-758"
-msgid "Nord nautical entrepreneurs—"sea raiders" to those they "do business" with—find a place in every northern port where they can exchange their ill-gotten cargo for gold. Local back-alley footpads also find the Outlaws Refuge convenient."
-msgstr "노드 바다의 사업가들(그들의 "비즈니스 상대"에게는 "해적")은 부정적인 수단으로 입수한 화물을 골드로 바꾸기 위한 거점을 북부의 여러 항구에 두고 있습니다. 이러한 거점은 현지의 뒷골목에 있는 노상 강도들의 편리한 피난처이기도 하죠."
+msgid "Nord nautical entrepreneurs—\"sea raiders\" to those they \"do business\" with—find a place in every northern port where they can exchange their ill-gotten cargo for gold. Local back-alley footpads also find the Outlaws Refuge convenient."
+msgstr "노드 바다의 사업가들(그들의 \"비즈니스 상대\"에게는 \"해적\")은 부정적인 수단으로 입수한 화물을 골드로 바꾸기 위한 거점을 북부의 여러 항구에 두고 있습니다. 이러한 거점은 현지의 뒷골목에 있는 노상 강도들의 편리한 피난처이기도 하죠."
 
 #: 162658389-0-758
 msgctxt "162658389-0-758"
@@ -1927,7 +1923,7 @@ msgstr "벨카스 무법자 은신처 (Belkarth Outlaws Refuge)"
 
 #: 70901198-0-750
 msgctxt "70901198-0-750"
-msgid "The refuge below Rawl'kha is the haunt of the Darkmoon Prowlers, an "All-Khajiiti Gang" … which means they'll admit non-Khajiiti members, but only if they agree to wear a cat-mask."
+msgid "The refuge below Rawl'kha is the haunt of the Darkmoon Prowlers, an \"All-Khajiiti Gang\" … which means they'll admit non-Khajiiti members, but only if they agree to wear a cat-mask."
 msgstr "라울카 아래에 있는 이 은신처는 다크문 프로울러들 즉, 모든 카짓 갱단의 아지트가 되었습니다. 그 이름이 시사하는 것은 그들은 카짓 이외의 멤버를 인정하지 않되, 고양이 가면을 쓴다면 얘기는 별개라는 것을 뜻합니다."
 
 #: 162658389-0-750
@@ -1937,8 +1933,8 @@ msgstr "라울'카 무법자 은신처(Rawl'kha Outlaws Refuge)"
 
 #: 70901198-0-749
 msgctxt "70901198-0-749"
-msgid "This refuge is the headquarters of the Gang of Scroungers. While "scrounger" has negative connotations in some cultures, that's not the case with Wood Elves—or with Wood Orcs."
-msgstr "이 은신처는 날치기단 조직의 본부입니다. "날치기꾼"은 일부 문화권에서는 부정적 의미를 지니지만, 우드 엘프나 우드 오크 문화권의 경우에는 그렇지 않습니다."
+msgid "This refuge is the headquarters of the Gang of Scroungers. While \"scrounger\" has negative connotations in some cultures, that's not the case with Wood Elves—or with Wood Orcs."
+msgstr "이 은신처는 날치기단 조직의 본부입니다. \"날치기꾼\"은 일부 문화권에서는 부정적 의미를 지니지만, 우드 엘프나 우드 오크 문화권의 경우에는 그렇지 않습니다."
 
 #: 162658389-0-749
 msgctxt "162658389-0-749"
@@ -1997,8 +1993,8 @@ msgstr "머크마이어(Murkmire)"
 
 #: 70901198-0-725
 msgctxt "70901198-0-725"
-msgid "An ancient Khajiiti shrine called the "Temple of Seven Riddles" has been overrun by the Khajiit's eternal enemy, the dro-m'Athra. With each passing hour, more Lost Cats pour into Nirn through a gaping rift between worlds. If Tamriel is to be saved, this Maw of Lorkhaj must be closed."
-msgstr "카짓의 영원한 적인 드로-마'쓰라는 "일곱 수수께끼의 신전"이라고 불리는 고대 카짓 신전을 괴멸시켰습니다. 시간이 지남에 따라 더 많은 파멸의 고양이과 존재들이 세계간 갈라진 틈을 통해 넌에 흘러 들어옵니다. 탐리엘이 구원받으려면, 이 로카즈의 나락이 닫혀야합니다."
+msgid "An ancient Khajiiti shrine called the \"Temple of Seven Riddles\" has been overrun by the Khajiit's eternal enemy, the dro-m'Athra. With each passing hour, more Lost Cats pour into Nirn through a gaping rift between worlds. If Tamriel is to be saved, this Maw of Lorkhaj must be closed."
+msgstr "카짓의 영원한 적인 드로-마'쓰라는 \"일곱 수수께끼의 신전\"이라고 불리는 고대 카짓 신전을 괴멸시켰습니다. 시간이 지남에 따라 더 많은 파멸의 고양이과 존재들이 세계간 갈라진 틈을 통해 넌에 흘러 들어옵니다. 탐리엘이 구원받으려면, 이 로카즈의 나락이 닫혀야합니다."
 
 #: 162658389-0-725
 msgctxt "162658389-0-725"
@@ -2057,8 +2053,8 @@ msgstr "충성의 방(Chambers of Loyalty)"
 
 #: 70901198-0-711
 msgctxt "70901198-0-711"
-msgid "The priests that serve Orsinium's temple live and work in the private space known simply as "the Rectory.""
-msgstr "오시니움의 신전을 섬기는 제사장은 단순히 "사제관"이라고 불리는 사적인 공간에서 살며 일합니다."
+msgid "The priests that serve Orsinium's temple live and work in the private space known simply as \"the Rectory.\""
+msgstr "오시니움의 신전을 섬기는 제사장은 단순히 \"사제관\"이라고 불리는 사적인 공간에서 살며 일합니다."
 
 #: 162658389-0-711
 msgctxt "162658389-0-711"
@@ -2107,8 +2103,8 @@ msgstr "옛 오시니움 (Old Orsinium)"
 
 #: 70901198-0-705
 msgctxt "70901198-0-705"
-msgid "This Dwarven site doesn't appear in Thelwe Ghelein's comprehensive "Summarized Overview of Known Dwemer Locations." How has it stayed hidden for so long?"
-msgstr "이 드워프의 지역은 텔웨 겔레인의 포괄적인  "알려진 드웨머 위치 개요" 에는 나오지 않습니다. 어떻게 이렇게 오랫 동안 알려져 있지 않았던 것일까요?"
+msgid "This Dwarven site doesn't appear in Thelwe Ghelein's comprehensive \"Summarized Overview of Known Dwemer Locations.\" How has it stayed hidden for so long?"
+msgstr "이 드워프의 지역은 텔웨 겔레인의 포괄적인  \"알려진 드웨머 위치 개요\" 에는 나오지 않습니다. 어떻게 이렇게 오랫 동안 알려져 있지 않았던 것일까요?"
 
 #: 162658389-0-705
 msgctxt "162658389-0-705"
@@ -2117,8 +2113,8 @@ msgstr "르킨다레프트(Rkindaleft)"
 
 #: 70901198-0-704
 msgctxt "70901198-0-704"
-msgid ""There are those who say that Orcs and the various races of Goblins are closely related. If so, they must not come from a very happy family, because they never seem happy to see each other." —Phrastus of Elinhir"
-msgstr ""다양한 오크와 고블린 종족은 친척 관계에 있다고 말하는 사람이 있다. 만약 그렇다면 그들은 별로 행복하지 않은 일족에서 갈라진 것임에 틀림 없을 것이다. 그들은 서로를 바라보고 있을때 결코 행복한 얼굴을 하고 있지 않기 때문이다"- 엘린히어의 페라스투스"
+msgid "\"There are those who say that Orcs and the various races of Goblins are closely related. If so, they must not come from a very happy family, because they never seem happy to see each other.\" —Phrastus of Elinhir"
+msgstr "\"다양한 오크와 고블린 종족은 친척 관계에 있다고 말하는 사람이 있다. 만약 그렇다면 그들은 별로 행복하지 않은 일족에서 갈라진 것임에 틀림 없을 것이다. 그들은 서로를 바라보고 있을때 결코 행복한 얼굴을 하고 있지 않기 때문이다\"- 엘린히어의 페라스투스"
 
 #: 162658389-0-704
 msgctxt "162658389-0-704"
@@ -2157,8 +2153,8 @@ msgstr "그레이스톤 심부 채석장(Graystone Quarry Depths)"
 
 #: 70901198-0-700
 msgctxt "70901198-0-700"
-msgid "Who were the ancient Nord "exiles" who came so far to excavate this remote barrow? And what did they come here to bury? Don't ask, because the Orcs don't care to know."
-msgstr "이런 외딴 곳에 있는 무덤을 발굴하기 위해 먼 길을 온 고대 노드  "망명자"는 누구일까요? 그리고 무엇을 묻기 위해 여기에 왔을까요? 오크들이 말하려고 하지 않기 때문에 그것은 아무도 알지 못합니다."
+msgid "Who were the ancient Nord \"exiles\" who came so far to excavate this remote barrow? And what did they come here to bury? Don't ask, because the Orcs don't care to know."
+msgstr "이런 외딴 곳에 있는 무덤을 발굴하기 위해 먼 길을 온 고대 노드  \"망명자\"는 누구일까요? 그리고 무엇을 묻기 위해 여기에 왔을까요? 오크들이 말하려고 하지 않기 때문에 그것은 아무도 알지 못합니다."
 
 #: 162658389-0-700
 msgctxt "162658389-0-700"
@@ -2167,8 +2163,8 @@ msgstr "추방자의 고분(Exile's Barrow)"
 
 #: 70901198-0-699
 msgctxt "70901198-0-699"
-msgid "Whoever is actually buried here, the architecture of the Honor's Rest catacombs is undeniably Orcish of the so-called "Classical Period" in the early-to-middle First Era."
-msgstr "실제로 누가 묻혀 있더라도 그 명예의 휴식처 지하 무덤은 분명히 제 1기 초창기 부터 중기에 이르기까지 이른바 "고전파 시대" 라고 불리는 오크식으로 제작되었습니다."
+msgid "Whoever is actually buried here, the architecture of the Honor's Rest catacombs is undeniably Orcish of the so-called \"Classical Period\" in the early-to-middle First Era."
+msgstr "실제로 누가 묻혀 있더라도 그 명예의 휴식처 지하 무덤은 분명히 제 1기 초창기 부터 중기에 이르기까지 이른바 \"고전파 시대\" 라고 불리는 오크식으로 제작되었습니다."
 
 #: 162658389-0-699
 msgctxt "162658389-0-699"
@@ -2187,8 +2183,8 @@ msgstr "모쿨 전락(Morkul Descent)"
 
 #: 70901198-0-697
 msgctxt "70901198-0-697"
-msgid ""When the Clan Rourken left Vvardenfell, it seems evident that several clans broke off to create their own settlements, choosing to live in greater isolation than their Eastern brethren." —Thelwe Ghelein"
-msgstr ""로켄 부족이 바덴펠을 떠날 때 여러 부족이 뿔뿔이 흩어져서 자신들만의 마을을 만들려고 동방에 있는 동족들보다 훨씬 고립된 삶을 선택했다" - 텔웨 게레인"
+msgid "\"When the Clan Rourken left Vvardenfell, it seems evident that several clans broke off to create their own settlements, choosing to live in greater isolation than their Eastern brethren.\" —Thelwe Ghelein"
+msgstr "\"로켄 부족이 바덴펠을 떠날 때 여러 부족이 뿔뿔이 흩어져서 자신들만의 마을을 만들려고 동방에 있는 동족들보다 훨씬 고립된 삶을 선택했다\" - 텔웨 게레인"
 
 #: 162658389-0-697
 msgctxt "162658389-0-697"
@@ -2197,8 +2193,8 @@ msgstr "즈텐가나즈(Zthenganaz)"
 
 #: 70901198-0-695
 msgctxt "70901198-0-695"
-msgid ""King Torug grieved fivefold for the death of his beloved bear mount, Coldwind. He decreed that his ursine steed should have a tomb worthy of his deeds, and did implore Malacath himself to send guards to protect it." —The Torug Edda"
-msgstr ""토럭 왕은 그의 사랑하는 탈것의 곰인 콜드윈드의 죽음을 몹시 슬퍼했다. 그는 그 곰의 위업을 기리기 위한 무덤을 만들라고 명령했고 무덤을 지키기 위한 호위를 두라고 마라카쓰 사람에게 간청했다"- 토럭 엣다"
+msgid "\"King Torug grieved fivefold for the death of his beloved bear mount, Coldwind. He decreed that his ursine steed should have a tomb worthy of his deeds, and did implore Malacath himself to send guards to protect it.\" —The Torug Edda"
+msgstr "\"토럭 왕은 그의 사랑하는 탈것의 곰인 콜드윈드의 죽음을 몹시 슬퍼했다. 그는 그 곰의 위업을 기리기 위한 무덤을 만들라고 명령했고 무덤을 지키기 위한 호위를 두라고 마라카쓰 사람에게 간청했다\"- 토럭 엣다"
 
 #: 162658389-0-695
 msgctxt "162658389-0-695"
@@ -2217,8 +2213,8 @@ msgstr "은광산(Argent Mine)"
 
 #: 70901198-0-693
 msgctxt "70901198-0-693"
-msgid "In Orsinium they say that these caves are named for their location, "perched high in the frigid peaks." On the one hand, that might have been some kind of wordplay or pun—but on the other hand, Orcs aren't much for wordplay."
-msgstr ""혹한의 정상에 높이 자리 잡은"이라는 동굴의 이름에 대해서 오시니움에서는 자신들의 장소에서 유래되었다고 말하지만 실제로는 말장난이나 장난의 가능성이 있습니다. - 오크는 말장난을 좋아하지 않지만요."
+msgid "In Orsinium they say that these caves are named for their location, \"perched high in the frigid peaks.\" On the one hand, that might have been some kind of wordplay or pun—but on the other hand, Orcs aren't much for wordplay."
+msgstr "\"혹한의 정상에 높이 자리 잡은\"이라는 동굴의 이름에 대해서 오시니움에서는 자신들의 장소에서 유래되었다고 말하지만 실제로는 말장난이나 장난의 가능성이 있습니다. - 오크는 말장난을 좋아하지 않지만요."
 
 #: 162658389-0-693
 msgctxt "162658389-0-693"
@@ -2357,8 +2353,8 @@ msgstr "테몬드 광산(Themond Mine)"
 
 #: 70901198-0-640
 msgctxt "70901198-0-640"
-msgid "The Omen of Betrayal went by many names throughout the First and Second Eras. High Elves of Summerset once knew it as "The Gray Sleep," while Argonians whisper of "the Egg-Terror." The Orcs of Orsinium still call it "The Visiting Breton.""
-msgstr ""배신의 전조"는 제 1시대 및 제 2시대를 통해 다양한 이름으로 불리웠습니다. 서머셋의 하이 엘프는 한때 그것을 "회색빛 잠"라고 불렀고 아르고니안은 "알 테러 "라고 불렀습니다. 오시니움의 오크들은 여전히 그것을 "브레튼으로의 방문" 이라고 부르고 있습니다."
+msgid "The Omen of Betrayal went by many names throughout the First and Second Eras. High Elves of Summerset once knew it as \"The Gray Sleep,\" while Argonians whisper of \"the Egg-Terror.\" The Orcs of Orsinium still call it \"The Visiting Breton.\""
+msgstr "\"배신의 전조\"는 제 1시대 및 제 2시대를 통해 다양한 이름으로 불리웠습니다. 서머셋의 하이 엘프는 한때 그것을 \"회색빛 잠\"라고 불렀고 아르고니안은 \"알 테러 \"라고 불렀습니다. 오시니움의 오크들은 여전히 그것을 \"브레튼으로의 방문\" 이라고 부르고 있습니다."
 
 #: 162658389-0-640
 msgctxt "162658389-0-640"
@@ -2447,8 +2443,8 @@ msgstr "어둠그늘 동굴 I (Darkshade Caverns I)"
 
 #: 70901198-0-628
 msgctxt "70901198-0-628"
-msgid ""Morachellis speculated that the Ayleids who built the great spire above Erokii were attempting to create a metaphysical structure that would be a focus of Aurbic power, much as the Adamantine Tower is said to be. I have no idea what that means." —Phrastus of Elinhir"
-msgstr ""이로키의 머리 위에 우뚝 솟은 거대한 첨탑을 만든 에일리드는 형이상학적인 건물로 아오빅 파워를 모으려고 했다. 아다만틴 탑도 동일하다. 모라첼리스는 그렇게 추측했지만 나는 무슨 일인지 도무지 모르겠다"— 엘린히어의 페라스투스"
+msgid "\"Morachellis speculated that the Ayleids who built the great spire above Erokii were attempting to create a metaphysical structure that would be a focus of Aurbic power, much as the Adamantine Tower is said to be. I have no idea what that means.\" —Phrastus of Elinhir"
+msgstr "\"이로키의 머리 위에 우뚝 솟은 거대한 첨탑을 만든 에일리드는 형이상학적인 건물로 아오빅 파워를 모으려고 했다. 아다만틴 탑도 동일하다. 모라첼리스는 그렇게 추측했지만 나는 무슨 일인지 도무지 모르겠다\"— 엘린히어의 페라스투스"
 
 #: 162658389-0-628
 msgctxt "162658389-0-628"
@@ -2457,8 +2453,8 @@ msgstr "둠크래그(Doomcrag)"
 
 #: 70901198-0-601
 msgctxt "70901198-0-601"
-msgid ""It is difficult for historians to declare a certain date for the foundation of Wayrest. A settlement of some variety had been in existence where the Bjoulsae River feeds the Iliac Bay possibly since the 800th year of the First Era." —Sathryr Longleat, "Wayrest, Jewel of the Bay""
-msgstr ""역사가들은 웨이레스트의 설립 날짜를 정의하기 어려워한다. 제 1시대 800년 이래로 뵬사에 강이 일리악 만에 흘러든 어떠한 합의가 존재했을지도 모른다." -사티르 롱리트, "웨이레스트, 일리악 만의 보석""
+msgid "\"It is difficult for historians to declare a certain date for the foundation of Wayrest. A settlement of some variety had been in existence where the Bjoulsae River feeds the Iliac Bay possibly since the 800th year of the First Era.\" —Sathryr Longleat, \"Wayrest, Jewel of the Bay\""
+msgstr "\"역사가들은 웨이레스트의 설립 날짜를 정의하기 어려워한다. 제 1시대 800년 이래로 뵬사에 강이 일리악 만에 흘러든 어떠한 합의가 존재했을지도 모른다.\" -사티르 롱리트, \"웨이레스트, 일리악 만의 보석\""
 
 #: 162658389-0-601
 msgctxt "162658389-0-601"
@@ -2507,8 +2503,8 @@ msgstr "피의 부인의 지하 묘지(Blood Matron's Crypt)"
 
 #: 70901198-0-595
 msgctxt "70901198-0-595"
-msgid ""And the people of Abagarlas reared up a vast shrine to Molag Bal, but they were but rude soldiers rather than artisans, and the shrine was misshapen, ill-colored, and burdensome to look upon." — The Whithering of Delodiil"
-msgstr ""그리고 아바가라스의 사람들은 몰락 발을 위한 거대한 사당을 세웠지만 그들은 장인이 아니라 난폭한 병사들에 불과했기 때문에 사당은 모양새가 보기 좋지 않았으며 색도 잘 맞지 않았고으며, 심지어 볼품도 없었다."- "델로딜의 쇠락""
+msgid "\"And the people of Abagarlas reared up a vast shrine to Molag Bal, but they were but rude soldiers rather than artisans, and the shrine was misshapen, ill-colored, and burdensome to look upon.\" — The Whithering of Delodiil"
+msgstr "\"그리고 아바가라스의 사람들은 몰락 발을 위한 거대한 사당을 세웠지만 그들은 장인이 아니라 난폭한 병사들에 불과했기 때문에 사당은 모양새가 보기 좋지 않았으며 색도 잘 맞지 않았고으며, 심지어 볼품도 없었다.\"- \"델로딜의 쇠락\""
 
 #: 162658389-0-595
 msgctxt "162658389-0-595"
@@ -2557,8 +2553,8 @@ msgstr "로크라타 유적(Lorkrata Ruins)"
 
 #: 70901198-0-590
 msgctxt "70901198-0-590"
-msgid ""A sigil stone is a specimen of pre-Mythic quasi-crystalline morpholith that has been transformed into an extra-dimensional artifact through the arcane inscription of a Daedric sigil." —Camilonwe of Alinor, "Liminal Bridges""
-msgstr ""인장석이란 데이드릭의 신비한 비문에 의해 다차원적으로 비밀스럽게 감추어둔 보물로써 변형된 수정과 유사한 모폴리스이다.  ― 알리노어의 카밀론웨, "경계의 다리""
+msgid "\"A sigil stone is a specimen of pre-Mythic quasi-crystalline morpholith that has been transformed into an extra-dimensional artifact through the arcane inscription of a Daedric sigil.\" —Camilonwe of Alinor, \"Liminal Bridges\""
+msgstr "\"인장석이란 데이드릭의 신비한 비문에 의해 다차원적으로 비밀스럽게 감추어둔 보물로써 변형된 수정과 유사한 모폴리스이다.  ― 알리노어의 카밀론웨, \"경계의 다리\""
 
 #: 162658389-0-590
 msgctxt "162658389-0-590"
@@ -2577,8 +2573,8 @@ msgstr "노스포인트(Northpoint)"
 
 #: 70901198-0-588
 msgctxt "70901198-0-588"
-msgid ""Morachellis speculated that the Ayleids who built the great spire above Erokii were attempting to create a metaphysical structure that would be a focus of Aurbic power, much as the Adamantine Tower is said to be. I have no idea what that means." —Phrastus of Elinhir"
-msgstr ""이로키의 머리 위에 우뚝 솟은 거대한 첨탑을 만든에일리드는 형이상학적인 건물로 아오빅 파워를 모으려고 했다. 아다만틴 탑도 동일하다. 모라첼리스는 그렇게 추측했지만 나는 무슨 일인지 도무지 모르겠다"— 엘린히어의 페라스투스"
+msgid "\"Morachellis speculated that the Ayleids who built the great spire above Erokii were attempting to create a metaphysical structure that would be a focus of Aurbic power, much as the Adamantine Tower is said to be. I have no idea what that means.\" —Phrastus of Elinhir"
+msgstr "\"이로키의 머리 위에 우뚝 솟은 거대한 첨탑을 만든에일리드는 형이상학적인 건물로 아오빅 파워를 모으려고 했다. 아다만틴 탑도 동일하다. 모라첼리스는 그렇게 추측했지만 나는 무슨 일인지 도무지 모르겠다\"— 엘린히어의 페라스투스"
 
 #: 162658389-0-588
 msgctxt "162658389-0-588"
@@ -2667,8 +2663,8 @@ msgstr "말라발 토르 (Malabal Tor)"
 
 #: 70901198-0-579
 msgctxt "70901198-0-579"
-msgid "According to the Spinners in Marbruk, these cliffs were once inhabited by a flock of the rare, and possibly extinct, cockatiel harpies. They were said to kidnap young male hunters as mates, thus the saying about the lovestruck, "He's carried off to Harridan's.""
-msgstr "마브룩의 방적공들에 의하면, 한때 이 절벽에는 어쩌면 멸종했을지도 모를 희귀한 코카틸 하피 무리가 살고 있었다고 합니다. 코카틸 하피들은 젊은 남자 사냥꾼들을 납치해가서 짝으로 삼았는데, 그래서 상사병에 걸린 것을 두고 "하리단으로 끌려갔다"라고 합니다."
+msgid "According to the Spinners in Marbruk, these cliffs were once inhabited by a flock of the rare, and possibly extinct, cockatiel harpies. They were said to kidnap young male hunters as mates, thus the saying about the lovestruck, \"He's carried off to Harridan's.\""
+msgstr "마브룩의 방적공들에 의하면, 한때 이 절벽에는 어쩌면 멸종했을지도 모를 희귀한 코카틸 하피 무리가 살고 있었다고 합니다. 코카틸 하피들은 젊은 남자 사냥꾼들을 납치해가서 짝으로 삼았는데, 그래서 상사병에 걸린 것을 두고 \"하리단으로 끌려갔다\"라고 합니다."
 
 #: 162658389-0-579
 msgctxt "162658389-0-579"
@@ -2677,8 +2673,8 @@ msgstr "하리단의 은신처(Harridan's Lair)"
 
 #: 70901198-0-578
 msgctxt "70901198-0-578"
-msgid "These ruins have a bad reputation in nearby Woodhearth—which is not surprising, considering their name in Ayleidoon means "final death.""
-msgstr "근방의 우드하스에서 이 유적지의 평판은 좋지 않습니다. 에일리드어로 이 유적지의 의미가 "최후의 죽음"이라는 것을 생각해 보면 그리 놀라울 일도 아닙니다."
+msgid "These ruins have a bad reputation in nearby Woodhearth—which is not surprising, considering their name in Ayleidoon means \"final death.\""
+msgstr "근방의 우드하스에서 이 유적지의 평판은 좋지 않습니다. 에일리드어로 이 유적지의 의미가 \"최후의 죽음\"이라는 것을 생각해 보면 그리 놀라울 일도 아닙니다."
 
 #: 162658389-0-578
 msgctxt "162658389-0-578"
@@ -2707,8 +2703,8 @@ msgstr "굴자그의 광산(Gurzag's Mine)"
 
 #: 70901198-0-575
 msgctxt "70901198-0-575"
-msgid "Though abandoned thousands of years ago, many Ayleid ruins are still lit by the blue glowing varla and welkynd stones found in them. These stones are among the so-called "Aetherial Crystals," gems that can store, transform, and emit magicka."
-msgstr "수천 년 전에 버려졌지만, 많은 에일리드  유적들은 여전히 푸르게 반짝이는 발라석과 웰킨드석으로 불이 밝혀져 있습니다. 이러한 돌들은 소위 "에테리얼 결정체"라고 불립니다. 이 보석들은 매지카를 저장하고 변형하고 방출해낼 수 있습니다."
+msgid "Though abandoned thousands of years ago, many Ayleid ruins are still lit by the blue glowing varla and welkynd stones found in them. These stones are among the so-called \"Aetherial Crystals,\" gems that can store, transform, and emit magicka."
+msgstr "수천 년 전에 버려졌지만, 많은 에일리드  유적들은 여전히 푸르게 반짝이는 발라석과 웰킨드석으로 불이 밝혀져 있습니다. 이러한 돌들은 소위 \"에테리얼 결정체\"라고 불립니다. 이 보석들은 매지카를 저장하고 변형하고 방출해낼 수 있습니다."
 
 #: 162658389-0-575
 msgctxt "162658389-0-575"
@@ -2768,8 +2764,9 @@ msgstr "투'와카의 성소 (Tu'whacca's Sanctum)"
 #: 70901198-0-57
 msgctxt "70901198-0-57"
 msgid "The fertile valleys of Deshaan are home to lush fungal forests, deep kwama mines, and broad pastures where netches and guar graze. But all pales before the magnificence of Mournhold, home of the Tribunal and capital of the Ebonheart Pact."
-msgstr "데샨의 비옥한 골짜기는 우거진 버섯 군락, 깊은 크와마 광산 그리고 네치와 방목 구아를 키우는 넓은 목초지의 본고장입니다. "
-"\n뿐만 아니라 트리뷰널의 고향이며 에본하트 조약의 수도인 모운홀드의 웅장함 앞에서는 모든 것이 빛을 잃고 볼품없어 보이기까지 합니다."
+msgstr ""
+"데샨의 비옥한 골짜기는 우거진 버섯 군락, 깊은 크와마 광산 그리고 네치와 방목 구아를 키우는 넓은 목초지의 본고장입니다. \n"
+"뿐만 아니라 트리뷰널의 고향이며 에본하트 조약의 수도인 모운홀드의 웅장함 앞에서는 모든 것이 빛을 잃고 볼품없어 보이기까지 합니다."
 
 #: 162658389-0-57
 msgctxt "162658389-0-57"
@@ -2828,8 +2825,8 @@ msgstr "카즈 로리스(Khaj Rawlith)"
 
 #: 70901198-0-561
 msgctxt "70901198-0-561"
-msgid "In addition to the major planes of Oblivion, there is an almost unlimited number of so-called "pocket planes," small self-contained realities where the ordinary rules of nature may or may not apply."
-msgstr "오블리비언에는 주요한 차원들 뿐만 아니라, 이른바 "주머니 차원"이라고 불리는 차원이 거의 무한대로 존재합니다. 일반적인 질서가 통용될 수도, 통용되지 않을 수도 있는 자그마하고 독립적인 공간이죠."
+msgid "In addition to the major planes of Oblivion, there is an almost unlimited number of so-called \"pocket planes,\" small self-contained realities where the ordinary rules of nature may or may not apply."
+msgstr "오블리비언에는 주요한 차원들 뿐만 아니라, 이른바 \"주머니 차원\"이라고 불리는 차원이 거의 무한대로 존재합니다. 일반적인 질서가 통용될 수도, 통용되지 않을 수도 있는 자그마하고 독립적인 공간이죠."
 
 #: 162658389-0-561
 msgctxt "162658389-0-561"
@@ -2858,8 +2855,8 @@ msgstr "발렌하트(Valenheart)"
 
 #: 70901198-0-558
 msgctxt "70901198-0-558"
-msgid "In the Ayleid language, Hectahame means "home of the exiles"—appropriate for a city built by Wild Elves who fled Cyrodiil in the wake of the Slave Rebellion of Saint Alessia. Scholars believe this was a refuge for those who ruled the White-Gold Tower itself."
-msgstr "에일리드 언어로 헥타헤임은 "추방자들의 고향"이라는 의미입니다. 성 알레시아가 일으킨 노예 반란의 파장으로 인해 시로딜에서 도망쳐 나온 야생 엘프들이 세운 도시에 참 어울리는 이름이죠. 학자들은 이곳이 백급탑을 지배했던 자들을 위한 피난처였다고 생각합니다."
+msgid "In the Ayleid language, Hectahame means \"home of the exiles\"—appropriate for a city built by Wild Elves who fled Cyrodiil in the wake of the Slave Rebellion of Saint Alessia. Scholars believe this was a refuge for those who ruled the White-Gold Tower itself."
+msgstr "에일리드 언어로 헥타헤임은 \"추방자들의 고향\"이라는 의미입니다. 성 알레시아가 일으킨 노예 반란의 파장으로 인해 시로딜에서 도망쳐 나온 야생 엘프들이 세운 도시에 참 어울리는 이름이죠. 학자들은 이곳이 백급탑을 지배했던 자들을 위한 피난처였다고 생각합니다."
 
 #: 162658389-0-558
 msgctxt "162658389-0-558"
@@ -2868,8 +2865,8 @@ msgstr "헥타헤임 동굴(Hectahame Grotto)"
 
 #: 70901198-0-557
 msgctxt "70901198-0-557"
-msgid "The blue fluid found everywhere in Coldharbour is called Azure Plasma, and is unformed "chaotic creatia," the stuff from which all Oblivion matter is formed. When a Daedra is "killed," its morphotype, or vestige, gradually forms a new body by accretion of Azure Plasma."
-msgstr "콜드하버 전역에서 발견되는 푸른 액체는 담청색 혈장이라고 불리며, 모든 오블리비언의 물질들이 형성되는 "혼돈의 창조"이기도 합니다. 데이드라가 "살해"당할 때, 그 형태 혹은 자취는 담청색 혈장의 부착물로 서서히 새로운 몸을 형성하죠."
+msgid "The blue fluid found everywhere in Coldharbour is called Azure Plasma, and is unformed \"chaotic creatia,\" the stuff from which all Oblivion matter is formed. When a Daedra is \"killed,\" its morphotype, or vestige, gradually forms a new body by accretion of Azure Plasma."
+msgstr "콜드하버 전역에서 발견되는 푸른 액체는 담청색 혈장이라고 불리며, 모든 오블리비언의 물질들이 형성되는 \"혼돈의 창조\"이기도 합니다. 데이드라가 \"살해\"당할 때, 그 형태 혹은 자취는 담청색 혈장의 부착물로 서서히 새로운 몸을 형성하죠."
 
 #: 162658389-0-557
 msgctxt "162658389-0-557"
@@ -2908,8 +2905,8 @@ msgstr "큰뱀 동굴(Serpent's Grotto)"
 
 #: 70901198-0-553
 msgctxt "70901198-0-553"
-msgid ""Hermaeus Mora, hearken to the plea of this unworthy, for I come to barter for knowledge denied. That which I seek is named on this parchment, which I consume in your honor, O Demon of Knowledge. For my desire to know is beyond reckoning, and in recompense, whatever price is named shall be met.""
-msgstr ""헤르메우스 모라이시여, 부정당한 지식을 거래하려 찾아온 이 비천한 자의 탄원을 들어 주소서. 제가 찾는 것의 이름이 이 양피지에 적혔으며, 그대를 기리며 이 양피지를 불태우나이다. 오 지식의 악마이시여, 앎에 대한 제 욕망은 헤아릴 수 없으며, 그 대가로 요구되는 것이라면 무엇이든 지불될 것이나이다.""
+msgid "\"Hermaeus Mora, hearken to the plea of this unworthy, for I come to barter for knowledge denied. That which I seek is named on this parchment, which I consume in your honor, O Demon of Knowledge. For my desire to know is beyond reckoning, and in recompense, whatever price is named shall be met.\""
+msgstr "\"헤르메우스 모라이시여, 부정당한 지식을 거래하려 찾아온 이 비천한 자의 탄원을 들어 주소서. 제가 찾는 것의 이름이 이 양피지에 적혔으며, 그대를 기리며 이 양피지를 불태우나이다. 오 지식의 악마이시여, 앎에 대한 제 욕망은 헤아릴 수 없으며, 그 대가로 요구되는 것이라면 무엇이든 지불될 것이나이다.\""
 
 #: 162658389-0-553
 msgctxt "162658389-0-553"
@@ -3078,8 +3075,8 @@ msgstr "언더팔 동굴(Underpall Cave)"
 
 #: 70901198-0-532
 msgctxt "70901198-0-532"
-msgid ""(And Pelinal) broke the doors open for the prisoners of the Vahtache with the Slave-Queen flying on Morihaus above them, and Men called her Al-Esh for the first time." —The Song of Pelinal, Volume 4"
-msgstr ""(그리고) 펠리널은 바타셰의 문을 부수어 죄수들을 해방시켰다. 이 때 모리하우스에 타고 있던 노예 여왕이 그들의 머리 위를 날아가자, 인간들은 그녀를 최초로 알-에쉬라 부르게 되었다." - 펠리널의 노래, 제4권"
+msgid "\"(And Pelinal) broke the doors open for the prisoners of the Vahtache with the Slave-Queen flying on Morihaus above them, and Men called her Al-Esh for the first time.\" —The Song of Pelinal, Volume 4"
+msgstr "\"(그리고) 펠리널은 바타셰의 문을 부수어 죄수들을 해방시켰다. 이 때 모리하우스에 타고 있던 노예 여왕이 그들의 머리 위를 날아가자, 인간들은 그녀를 최초로 알-에쉬라 부르게 되었다.\" - 펠리널의 노래, 제4권"
 
 #: 162658389-0-532
 msgctxt "162658389-0-532"
@@ -3138,8 +3135,8 @@ msgstr "그린힐 지하 묘지(Greenhill Catacombs)"
 
 #: 70901198-0-518
 msgctxt "70901198-0-518"
-msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means "old ironwood." Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
-msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 "낡은 철의 숲"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 그럴 경우, 그 소원은 이루어졌다."
+msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means \"old ironwood.\" Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
+msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 \"낡은 철의 숲\"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 그럴 경우, 그 소원은 이루어졌다."
 
 #: 162658389-0-518
 msgctxt "162658389-0-518"
@@ -3148,8 +3145,8 @@ msgstr "엘드 앙가바 (Eld Angavar)"
 
 #: 70901198-0-517
 msgctxt "70901198-0-517"
-msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means "old ironwood." Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
-msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 "낡은 철의 숲"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 그럴 경우, 그 소원은 이루어졌다."
+msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means \"old ironwood.\" Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
+msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 \"낡은 철의 숲\"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 그럴 경우, 그 소원은 이루어졌다."
 
 #: 162658389-0-517
 msgctxt "162658389-0-517"
@@ -3258,8 +3255,8 @@ msgstr "움푹 파인 뱀굴(Serpent Hollow Cave)"
 
 #: 70901198-0-505
 msgctxt "70901198-0-505"
-msgid "Despite its name, no gems have ever been found in this ebony mine, which was dubbed "Red Ruby" in order to attract investors from nearby Bruma."
-msgstr "이름은 이렇지만, 이 에보니 광산에서 보석이라곤 한 번도 발견된 적이 없었습니다. "붉은 루비"라는 별명이 붙은 것은 브루마 근처에 있는 투자자들을 끌어들이기 위해서입니다."
+msgid "Despite its name, no gems have ever been found in this ebony mine, which was dubbed \"Red Ruby\" in order to attract investors from nearby Bruma."
+msgstr "이름은 이렇지만, 이 에보니 광산에서 보석이라곤 한 번도 발견된 적이 없었습니다. \"붉은 루비\"라는 별명이 붙은 것은 브루마 근처에 있는 투자자들을 끌어들이기 위해서입니다."
 
 #: 162658389-0-505
 msgctxt "162658389-0-505"
@@ -3268,8 +3265,8 @@ msgstr "붉은 루비 동굴(Red Ruby Cave)"
 
 #: 70901198-0-504
 msgctxt "70901198-0-504"
-msgid "The domains north of Cheydinhal have belonged to House Tharn since the late First Era. By the end of the War of Righteousness, General Turpis "Volte-Face" Tharn was in possession of the broad holdings that the family today calls home."
-msgstr "체이딘할 북부 영역은 1시대 후반부터 탄 가문에 속해 있었습니다. 올바름의 전쟁 막바지에, 툴피스 "역전" 탄 장군이 그의 가문이 오늘날 집이라고 부르는 드넓은 토지를 소유하게 되었죠."
+msgid "The domains north of Cheydinhal have belonged to House Tharn since the late First Era. By the end of the War of Righteousness, General Turpis \"Volte-Face\" Tharn was in possession of the broad holdings that the family today calls home."
+msgstr "체이딘할 북부 영역은 1시대 후반부터 탄 가문에 속해 있었습니다. 올바름의 전쟁 막바지에, 툴피스 \"역전\" 탄 장군이 그의 가문이 오늘날 집이라고 부르는 드넓은 토지를 소유하게 되었죠."
 
 #: 162658389-0-504
 msgctxt "162658389-0-504"
@@ -3288,12 +3285,14 @@ msgstr "구혈 동굴(Pothole Caverns)"
 
 #: 70901198-0-502
 msgctxt "70901198-0-502"
-msgid ""You've got no more chance than a child at night in Nisin Cave.""
+msgid ""
+"\"You've got no more chance than a child at night in Nisin Cave.\"\n"
 "\n"
-"\n— Old Saying in Vlastarus"
-msgstr ""밤중에 니신 동굴에 있으면 어린 아이보다 못하게 될 것이다.""
+"— Old Saying in Vlastarus"
+msgstr ""
+"\"밤중에 니신 동굴에 있으면 어린 아이보다 못하게 될 것이다.\"\n"
 "\n"
-"\n— 블라스타루스 속담"
+"— 블라스타루스 속담"
 
 #: 162658389-0-502
 msgctxt "162658389-0-502"
@@ -3322,8 +3321,8 @@ msgstr "먼지 계곡 동굴(Muck Valley Cavern)"
 
 #: 70901198-0-499
 msgctxt "70901198-0-499"
-msgid "In the language of the Ayleids, the name of this ruin translates as "Soapstone Delve," but the locals around Chorrol know it as the Elf Haunts, and keep away from it."
-msgstr "이 유적지의 이름은 에일리드 언어로 "동석 동굴"이라는 뜻이지만, 코롤 주변의 지역민들은 엘프 유령이 들린 곳으로 알고 그곳을 멀리합니다."
+msgid "In the language of the Ayleids, the name of this ruin translates as \"Soapstone Delve,\" but the locals around Chorrol know it as the Elf Haunts, and keep away from it."
+msgstr "이 유적지의 이름은 에일리드 언어로 \"동석 동굴\"이라는 뜻이지만, 코롤 주변의 지역민들은 엘프 유령이 들린 곳으로 알고 그곳을 멀리합니다."
 
 #: 162658389-0-499
 msgctxt "162658389-0-499"
@@ -3572,8 +3571,8 @@ msgstr "조데의 빛(Jode's Light)"
 
 #: 70901198-0-466
 msgctxt "70901198-0-466"
-msgid "According to the "Speluncus Tamrielicum," the reason Nirn is seemingly riddled with natural caverns is that, like a living body, the world is veined with a system of nodes and capillaries that once pulsed with the divine essence of the Aedra who created it."
-msgstr ""탐리엘의 동굴 탐험학"에 따르면, 넌에 수많은 천연 동굴들이 존재하는 이유는 살아있는 몸처럼, 세계에는 세상을 창조한 에이드라의 정수가 고동치는 결절과 모세혈관 같은 맥이 뻗어 있기 때문이라고 합니다."
+msgid "According to the \"Speluncus Tamrielicum,\" the reason Nirn is seemingly riddled with natural caverns is that, like a living body, the world is veined with a system of nodes and capillaries that once pulsed with the divine essence of the Aedra who created it."
+msgstr "\"탐리엘의 동굴 탐험학\"에 따르면, 넌에 수많은 천연 동굴들이 존재하는 이유는 살아있는 몸처럼, 세계에는 세상을 창조한 에이드라의 정수가 고동치는 결절과 모세혈관 같은 맥이 뻗어 있기 때문이라고 합니다."
 
 #: 162658389-0-466
 msgctxt "162658389-0-466"
@@ -3632,8 +3631,8 @@ msgstr "로카즈의 소굴(Den of Lorkhaj)"
 
 #: 70901198-0-460
 msgctxt "70901198-0-460"
-msgid "Some theological scholars hold that the two moons orbiting Nirn are representations of the "Cloven Duality" of the Aedric trickster-god Lorkhan, who connived at the creation of the world and was punished for it."
-msgstr "일부 신학자들은 넌의 궤도를 도는 두 위성이 에이드릭 사기꾼 신 로칸의 "갈려진 이중성"을 대표하고 있다고 주장합니다. 로칸은 세계 창조에 몰두하고 그로 인해 처벌 받았습니다."
+msgid "Some theological scholars hold that the two moons orbiting Nirn are representations of the \"Cloven Duality\" of the Aedric trickster-god Lorkhan, who connived at the creation of the world and was punished for it."
+msgstr "일부 신학자들은 넌의 궤도를 도는 두 위성이 에이드릭 사기꾼 신 로칸의 \"갈려진 이중성\"을 대표하고 있다고 주장합니다. 로칸은 세계 창조에 몰두하고 그로 인해 처벌 받았습니다."
 
 #: 162658389-0-460
 msgctxt "162658389-0-460"
@@ -3673,8 +3672,7 @@ msgstr "문몬트 사원(Moonmont Temple)"
 #: 70901198-0-456
 msgctxt "70901198-0-456"
 msgid "There are trickster spirits in many of Tamriel's cultures. The Khajiit and Wood Elves have raised one to the level of a major Divine. To them, Baan Dar represents genius, sly innovation, and agile wits. He is the nimble escape when trapped in a tight spot."
-msgstr "탐리엘의 많은 문화권에는 사기꾼 영혼들이 있습니다. 카짓과 우드 엘프 문화권은 그런 영혼을 주신의 수준으로 끌어올렸죠. 그들에게 있어서 반 다르는 천재성, 교활한 혁신, 그리고 기민한 재치를 상징합니다. 그는 좁은 장소에 갇혔을 때 민첩하게 벗어납니다."
-"\n"
+msgstr "탐리엘의 많은 문화권에는 사기꾼 영혼들이 있습니다. 카짓과 우드 엘프 문화권은 그런 영혼을 주신의 수준으로 끌어올렸죠. 그들에게 있어서 반 다르는 천재성, 교활한 혁신, 그리고 기민한 재치를 상징합니다. 그는 좁은 장소에 갇혔을 때 민첩하게 벗어납니다.\n"
 
 #: 162658389-0-456
 msgctxt "162658389-0-456"
@@ -3803,8 +3801,8 @@ msgstr "깨진 돛의 동굴 (Cave of Broken Sails)"
 
 #: 70901198-0-437
 msgctxt "70901198-0-437"
-msgid ""Throat of Darkness." That's how the scholars at Arcane University translate "Laeloria." The Wood Orcs at Barkbite Stronghold just refer to it as "the Haunted Pit.""
-msgstr ""어둠의 목구멍." 아케인 대학의 학자들이 "레일로리아"를 번역한 말입니다. 바크바이트 요새의 우드 오크는 이곳을 "귀신들린 구덩이"라고 부릅니다."
+msgid "\"Throat of Darkness.\" That's how the scholars at Arcane University translate \"Laeloria.\" The Wood Orcs at Barkbite Stronghold just refer to it as \"the Haunted Pit.\""
+msgstr "\"어둠의 목구멍.\" 아케인 대학의 학자들이 \"레일로리아\"를 번역한 말입니다. 바크바이트 요새의 우드 오크는 이곳을 \"귀신들린 구덩이\"라고 부릅니다."
 
 #: 162658389-0-437
 msgctxt "162658389-0-437"
@@ -3813,8 +3811,8 @@ msgstr "레일로리아 유적 (Laeloria Ruins)"
 
 #: 70901198-0-436
 msgctxt "70901198-0-436"
-msgid ""The most famous burglar in Elsweyr's history, Rajhin is said to have stolen a tattoo from the neck of Empress Kintyra as she slept." —Brother Mikhael Karkuxor, "Varieties of Faith""
-msgstr ""엘스웨어 역사에서 가장 유명한 도둑인 라진은 킨티라 여황이 잠에 들었을 때 그 목에서 문신을 훔쳐갔다고 한다." —수도사 미카엘 카르쿡소어, "신앙의 다양성""
+msgid "\"The most famous burglar in Elsweyr's history, Rajhin is said to have stolen a tattoo from the neck of Empress Kintyra as she slept.\" —Brother Mikhael Karkuxor, \"Varieties of Faith\""
+msgstr "\"엘스웨어 역사에서 가장 유명한 도둑인 라진은 킨티라 여황이 잠에 들었을 때 그 목에서 문신을 훔쳐갔다고 한다.\" —수도사 미카엘 카르쿡소어, \"신앙의 다양성\""
 
 #: 162658389-0-436
 msgctxt "162658389-0-436"
@@ -3833,8 +3831,8 @@ msgstr "황금 길의 대성당 (Cathedral of the Golden Path)"
 
 #: 70901198-0-434
 msgctxt "70901198-0-434"
-msgid ""As for the Osseous Orrery: can anyone really claim to comprehend the full intentions of Anumaril in his metamorphosis to instrumentality? Do we even know how many axes of circumpenetration its arms rotate through?" —Morian Zenas, "Commentaries on Beredalmo""
-msgstr ""골질 태양계의에 관해서: 아누마릴이 행했던 매개체로의 탈바꿈에 대한 완전한 목적을 이해할 수 있다고 주장할 수 있는 사람이 정말 있을까? 구를 관통하며 회전시키는 축의 갯수가 몇개인지조차 아는 사람이 있는 것일까?" —모리안 제나스, "베레달모에 대한 주석""
+msgid "\"As for the Osseous Orrery: can anyone really claim to comprehend the full intentions of Anumaril in his metamorphosis to instrumentality? Do we even know how many axes of circumpenetration its arms rotate through?\" —Morian Zenas, \"Commentaries on Beredalmo\""
+msgstr "\"골질 태양계의에 관해서: 아누마릴이 행했던 매개체로의 탈바꿈에 대한 완전한 목적을 이해할 수 있다고 주장할 수 있는 사람이 정말 있을까? 구를 관통하며 회전시키는 축의 갯수가 몇개인지조차 아는 사람이 있는 것일까?\" —모리안 제나스, \"베레달모에 대한 주석\""
 
 #: 162658389-0-434
 msgctxt "162658389-0-434"
@@ -3923,8 +3921,8 @@ msgstr "통곡의 나락 (The Wailing Maw)"
 
 #: 70901198-0-421
 msgctxt "70901198-0-421"
-msgid "None of the denizens of Coldharbour can actually "die"—all of them, Daedra and Soul Shriven, merely discorporate until they can form new bodies. Why, then, are there so many tombs and graveyards? Because Coldharbour is Molag Bal's plane, and he likes them."
-msgstr "콜드하버의 생물들은 그 무엇도 실제로 "죽음"을 경험하지 않습니다. 데이드라든 영혼 고행자든, 단지 새로운 육체를 형성할 수 있을 때까지 영혼으로 떠돌 뿐이죠. 그렇다면 무덤과 묘지가 왜 이렇게 많은 걸까요? 왜냐하면 콜드하버는 몰라그 발의 차원이고, 그가 무덤과 묘지를 좋아하기 때문이죠."
+msgid "None of the denizens of Coldharbour can actually \"die\"—all of them, Daedra and Soul Shriven, merely discorporate until they can form new bodies. Why, then, are there so many tombs and graveyards? Because Coldharbour is Molag Bal's plane, and he likes them."
+msgstr "콜드하버의 생물들은 그 무엇도 실제로 \"죽음\"을 경험하지 않습니다. 데이드라든 영혼 고행자든, 단지 새로운 육체를 형성할 수 있을 때까지 영혼으로 떠돌 뿐이죠. 그렇다면 무덤과 묘지가 왜 이렇게 많은 걸까요? 왜냐하면 콜드하버는 몰라그 발의 차원이고, 그가 무덤과 묘지를 좋아하기 때문이죠."
 
 #: 162658389-0-421
 msgctxt "162658389-0-421"
@@ -3963,8 +3961,8 @@ msgstr "하만 포지파이어의 지하 묘지 (The Vault of Haman Forgefire)"
 
 #: 70901198-0-417
 msgctxt "70901198-0-417"
-msgid "In Old Elvish, aba-loria means "forbidden darkness." According to scholars of the long-lost Heartland Elves, it was also the name of the mortuary crypts of the ancient Ayleid city of Abagarlas."
-msgstr "옛 엘프의 언어로, 아바-로리아는 "금지된 어둠"이라는 뜻입니다. 오래 전 잊혀진 엘프들의 중심부를 연구하는 학자들에 따르면, 이 단어는 고대 에일리드 도시인 아바갈라스의 지하 영안실 이름이기도 하죠."
+msgid "In Old Elvish, aba-loria means \"forbidden darkness.\" According to scholars of the long-lost Heartland Elves, it was also the name of the mortuary crypts of the ancient Ayleid city of Abagarlas."
+msgstr "옛 엘프의 언어로, 아바-로리아는 \"금지된 어둠\"이라는 뜻입니다. 오래 전 잊혀진 엘프들의 중심부를 연구하는 학자들에 따르면, 이 단어는 고대 에일리드 도시인 아바갈라스의 지하 영안실 이름이기도 하죠."
 
 #: 162658389-0-417
 msgctxt "162658389-0-417"
@@ -4063,8 +4061,8 @@ msgstr "칼날귀 동굴 (Knife Ear Grotto)"
 
 #: 70901198-0-408
 msgctxt "70901198-0-408"
-msgid "Some have speculated that this site comes by its name because this is where the famous Nord author Taleon Mythmaker chose to retire after his bitter literary feud with Helgreir Lute-Voice. Phrastus of Elinhir, however, regards this theory as "fanciful twaddle.""
-msgstr "일부는 이 장소가 유명한 노드의 저자인 탈레온 미스메이커가 헬그레이어 류트-보이스와의 쓰라린 문학 논쟁 끝에 은퇴하기로 결정했기 때문에 이 곳이 그의 이름을 따온 것으로 추측합니다. 그러나 엘린히어의 페라스투스는 이 이론을 "환상적인 헛소리"라고 간주합니다."
+msgid "Some have speculated that this site comes by its name because this is where the famous Nord author Taleon Mythmaker chose to retire after his bitter literary feud with Helgreir Lute-Voice. Phrastus of Elinhir, however, regards this theory as \"fanciful twaddle.\""
+msgstr "일부는 이 장소가 유명한 노드의 저자인 탈레온 미스메이커가 헬그레이어 류트-보이스와의 쓰라린 문학 논쟁 끝에 은퇴하기로 결정했기 때문에 이 곳이 그의 이름을 따온 것으로 추측합니다. 그러나 엘린히어의 페라스투스는 이 이론을 \"환상적인 헛소리\"라고 간주합니다."
 
 #: 162658389-0-408
 msgctxt "162658389-0-408"
@@ -4283,8 +4281,8 @@ msgstr "비락 요새 폐허 (Fort Virak Ruin)"
 
 #: 70901198-0-385
 msgctxt "70901198-0-385"
-msgid ""The Dwemer sought to quantify mystical absolutes so as to enable them to manipulate the substance of reality without employing the intercession of divinities." — Fal Droon"
-msgstr ""드웨머는 신의 중재 없이 현실을 조작할 수 있도록 신비적 절대 원칙을 수량화하려 했다." - 팔 드룬"
+msgid "\"The Dwemer sought to quantify mystical absolutes so as to enable them to manipulate the substance of reality without employing the intercession of divinities.\" — Fal Droon"
+msgstr "\"드웨머는 신의 중재 없이 현실을 조작할 수 있도록 신비적 절대 원칙을 수량화하려 했다.\" - 팔 드룬"
 
 #: 162658389-0-385
 msgctxt "162658389-0-385"
@@ -4383,8 +4381,8 @@ msgstr "그룬다의 파수막 (Grunda's Gatehouse)"
 
 #: 70901198-0-375
 msgctxt "70901198-0-375"
-msgid ""But above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world.""
-msgstr ""그러나 다른 이들은 누구보다도 빛의 귀부인을 숭배하였으며, 메리드-눈다를 위해 에이테리우스의 조각이 필멸의 세상에 내리는 영광과도 같은 형형색색의 광선과 빛줄기의 예배당을 건설했다.""
+msgid "\"But above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world.\""
+msgstr "\"그러나 다른 이들은 누구보다도 빛의 귀부인을 숭배하였으며, 메리드-눈다를 위해 에이테리우스의 조각이 필멸의 세상에 내리는 영광과도 같은 형형색색의 광선과 빛줄기의 예배당을 건설했다.\""
 
 #: 162658389-0-375
 msgctxt "162658389-0-375"
@@ -4663,8 +4661,8 @@ msgstr "토로그의 악의 (Torog's Spite)"
 
 #: 70901198-0-332
 msgctxt "70901198-0-332"
-msgid "The scholar Guylaine Marilie asserts that "Yldzuun" can be accurately translated as "Mechanized Paradise." However, Thelwe Ghelein says the name is best rendered as "Steam Closet.""
-msgstr "학자 구왈라네 마릴리는 "이드준"을 "기계화 낙원"이라 번역할 수 있다고 확신했습니다. 하지만 델위 그헬레인은 "증기 벽장"이 더 원어의 뜻에 가깝다고 봅니다."
+msgid "The scholar Guylaine Marilie asserts that \"Yldzuun\" can be accurately translated as \"Mechanized Paradise.\" However, Thelwe Ghelein says the name is best rendered as \"Steam Closet.\""
+msgstr "학자 구왈라네 마릴리는 \"이드준\"을 \"기계화 낙원\"이라 번역할 수 있다고 확신했습니다. 하지만 델위 그헬레인은 \"증기 벽장\"이 더 원어의 뜻에 가깝다고 봅니다."
 
 #: 162658389-0-332
 msgctxt "162658389-0-332"
@@ -4673,8 +4671,8 @@ msgstr "이드준 (Yldzuun)"
 
 #: 70901198-0-331
 msgctxt "70901198-0-331"
-msgid ""Sandblown? Ah, now I recall it—the played-out copper mine south of Kozanset. That pit hasn't been worked since the reign of King Ramzi.""
-msgstr ""샌드블로운? 아, 이제 생각났어—코잔셋 남쪽의 그 고갈된 구리 광산. 그 갱도는 람지 왕의 통치 이후로 쓰지 않았지.""
+msgid "\"Sandblown? Ah, now I recall it—the played-out copper mine south of Kozanset. That pit hasn't been worked since the reign of King Ramzi.\""
+msgstr "\"샌드블로운? 아, 이제 생각났어—코잔셋 남쪽의 그 고갈된 구리 광산. 그 갱도는 람지 왕의 통치 이후로 쓰지 않았지.\""
 
 #: 162658389-0-331
 msgctxt "162658389-0-331"
@@ -4703,8 +4701,8 @@ msgstr "알둔즈 (Aldunz)"
 
 #: 70901198-0-328
 msgctxt "70901198-0-328"
-msgid ""Divad's Chagrin" is an epic poem of the Redguards describing the great hero's remorse at forsaking the life of a musician to fight tyranny and injustice. No one seems to know what the story of Divad has to do with this shallow mine in the desert."
-msgstr ""다이뱃의 원통함" 은 독재와 부정에 맞서 싸우기 위해 음악가로의 생을 포기한 위대한 영웅의 후회를 표현하는 레드가드의 장대한 서사시입니다. 사막에 있는 이 얕은 광산과 다이뱃의 이야기가 관련이 있는지는 아무도 몰라 보입니다."
+msgid "\"Divad's Chagrin\" is an epic poem of the Redguards describing the great hero's remorse at forsaking the life of a musician to fight tyranny and injustice. No one seems to know what the story of Divad has to do with this shallow mine in the desert."
+msgstr "\"다이뱃의 원통함\" 은 독재와 부정에 맞서 싸우기 위해 음악가로의 생을 포기한 위대한 영웅의 후회를 표현하는 레드가드의 장대한 서사시입니다. 사막에 있는 이 얕은 광산과 다이뱃의 이야기가 관련이 있는지는 아무도 몰라 보입니다."
 
 #: 162658389-0-328
 msgctxt "162658389-0-328"
@@ -4743,8 +4741,8 @@ msgstr "에로키 유적 (Erokii Ruins)"
 
 #: 70901198-0-324
 msgctxt "70901198-0-324"
-msgid ""Do not dally, do not linger, in the tomb they call Orc's Finger." —Northpoint Children's Chant"
-msgstr ""오크의 손가락이라는 무덤에서는, 장난치지도 말며, 오래 머물지도 말아라." —노스포인트 어린이들의 노래"
+msgid "\"Do not dally, do not linger, in the tomb they call Orc's Finger.\" —Northpoint Children's Chant"
+msgstr "\"오크의 손가락이라는 무덤에서는, 장난치지도 말며, 오래 머물지도 말아라.\" —노스포인트 어린이들의 노래"
 
 #: 162658389-0-324
 msgctxt "162658389-0-324"
@@ -4953,8 +4951,8 @@ msgstr "엠버플린트 광산 (Emberflint Mine)"
 
 #: 70901198-0-291
 msgctxt "70901198-0-291"
-msgid "In Morrowind there are many shrines to the "Good Daedra": Azura, Boethiah, and Mephala. Far more rare are shrines to the "Bad Daedra," the Four Corners of the House of Troubles: Mehrunes Dagon, Molag Bal, Malacath … and Sheogorath."
-msgstr "모로윈드에는 "선한 데이드라"인 아주라, 보에시아, 메팔라를 위한 많은 성소가 있습니다. 반면 재난의 가문의 네 귀퉁이를 차지하는 "악한 데이드라"인 메이룬스 데이건, 몰라그 발, 말라카스... 그리고 쉐오고라스를 위한 성소는 훨씬 드뭅니다."
+msgid "In Morrowind there are many shrines to the \"Good Daedra\": Azura, Boethiah, and Mephala. Far more rare are shrines to the \"Bad Daedra,\" the Four Corners of the House of Troubles: Mehrunes Dagon, Molag Bal, Malacath … and Sheogorath."
+msgstr "모로윈드에는 \"선한 데이드라\"인 아주라, 보에시아, 메팔라를 위한 많은 성소가 있습니다. 반면 재난의 가문의 네 귀퉁이를 차지하는 \"악한 데이드라\"인 메이룬스 데이건, 몰라그 발, 말라카스... 그리고 쉐오고라스를 위한 성소는 훨씬 드뭅니다."
 
 #: 162658389-0-291
 msgctxt "162658389-0-291"
@@ -4973,8 +4971,8 @@ msgstr "만조 구렁 (Hightide Hollow)"
 
 #: 70901198-0-289
 msgctxt "70901198-0-289"
-msgid ""Softloam Cavern": doesn't sound so bad. In fact, it sounds kind of … nice. How bad can it be?"
-msgstr ""부드러운 흙 동굴": 그렇게 나쁜 곳 같지는 않습니다. 사실, 일종의 뭔가... 좋은 것 같은데. 나빠봤자 얼마나 나쁠까요?"
+msgid "\"Softloam Cavern\": doesn't sound so bad. In fact, it sounds kind of … nice. How bad can it be?"
+msgstr "\"부드러운 흙 동굴\": 그렇게 나쁜 곳 같지는 않습니다. 사실, 일종의 뭔가... 좋은 것 같은데. 나빠봤자 얼마나 나쁠까요?"
 
 #: 162658389-0-289
 msgctxt "162658389-0-289"
@@ -4983,8 +4981,8 @@ msgstr "부드러운 흙 동굴 (Softloam Cavern)"
 
 #: 70901198-0-288
 msgctxt "70901198-0-288"
-msgid "Ancient Chimer shrines to the Daedric Prince Mephala were referred to in common parlance as "Mephala's Nests." Some of them are remarkably well preserved. Others now host dangerous creatures that have developed a special taste for intrusive scholars."
-msgstr "고대의 카이머들은 데이드릭 프린스 메팔라를 숭배하는 성소를 보통 "메팔라의 보금자리"라고 일컬었습니다. 그들 중 일부는 매우 잘 보존되어 있습니다. 일부는 침범하는 학자들에 대비해 특별한 식성을 지닌 위험한 생물들을 가지고 있습니다."
+msgid "Ancient Chimer shrines to the Daedric Prince Mephala were referred to in common parlance as \"Mephala's Nests.\" Some of them are remarkably well preserved. Others now host dangerous creatures that have developed a special taste for intrusive scholars."
+msgstr "고대의 카이머들은 데이드릭 프린스 메팔라를 숭배하는 성소를 보통 \"메팔라의 보금자리\"라고 일컬었습니다. 그들 중 일부는 매우 잘 보존되어 있습니다. 일부는 침범하는 학자들에 대비해 특별한 식성을 지닌 위험한 생물들을 가지고 있습니다."
 
 #: 162658389-0-288
 msgctxt "162658389-0-288"
@@ -4993,8 +4991,8 @@ msgstr "메팔라의 보금자리 (Mephala's Nest)"
 
 #: 70901198-0-287
 msgctxt "70901198-0-287"
-msgid "What the vanished Dwarven people called this small subterranean site is now lost to history. Modern scholars of the Dwemer call it the "Inner Sea Armature.""
-msgstr "사라진 드워프들이 이 작은 지하 지역을 가리켜 불렀던 이름은 이제는 역사의 저편으로 사라져 버렸습니다. 현대 드웨머 학자들은 이곳을 "내해의 갑주"라고 부르고 있습니다."
+msgid "What the vanished Dwarven people called this small subterranean site is now lost to history. Modern scholars of the Dwemer call it the \"Inner Sea Armature.\""
+msgstr "사라진 드워프들이 이 작은 지하 지역을 가리켜 불렀던 이름은 이제는 역사의 저편으로 사라져 버렸습니다. 현대 드웨머 학자들은 이곳을 \"내해의 갑주\"라고 부르고 있습니다."
 
 #: 162658389-0-287
 msgctxt "162658389-0-287"
@@ -5073,8 +5071,8 @@ msgstr "치드-모스카 유적 (Chid-Moska Ruins)"
 
 #: 70901198-0-272
 msgctxt "70901198-0-272"
-msgid "Those who call the Argonians "primitives" would do well to consider the permanence and elegance of their stonework, built for eternity despite the relentless Black Marsh rot. The still-solid corridors of ancient Atanaz are an instructive example."
-msgstr "아르고니안들을 "원시적"이라고 부르는 사람들은 블랙 마쉬의 부패에도 불구하고 아르고니안들이 영원히 유지하려고 지은 석조의 지속성과 우아함을 고려해봐야 합니다. 아직도 견고한 고대 아타나즈 유적의 복도는 매우 좋은 예입니다."
+msgid "Those who call the Argonians \"primitives\" would do well to consider the permanence and elegance of their stonework, built for eternity despite the relentless Black Marsh rot. The still-solid corridors of ancient Atanaz are an instructive example."
+msgstr "아르고니안들을 \"원시적\"이라고 부르는 사람들은 블랙 마쉬의 부패에도 불구하고 아르고니안들이 영원히 유지하려고 지은 석조의 지속성과 우아함을 고려해봐야 합니다. 아직도 견고한 고대 아타나즈 유적의 복도는 매우 좋은 예입니다."
 
 #: 162658389-0-272
 msgctxt "162658389-0-272"
@@ -5173,8 +5171,8 @@ msgstr "미스트와치 틈새 (Mistwatch Crevasse)"
 
 #: 70901198-0-262
 msgctxt "70901198-0-262"
-msgid "The definition of the Atmoran term "Wittestadr" is a matter of scholarly debate. Phrastus of Elinhir translates it as "Whit's Daughter," but Lady Cinnabar of Taneth believes it has a meaning of darker import: "Wit Shatter.""
-msgstr "아트모란 용어 "위더스테드"의 정의는 학자들 사이에서 토론의 주제입니다. 엘린히어의 페라스터스는 이것을 "윗의 딸"로 번역하지만, 타네스의 레이디 시나바는 더 어두운 의미가 있는  "지식의 파괴"라고 주장합니다."
+msgid "The definition of the Atmoran term \"Wittestadr\" is a matter of scholarly debate. Phrastus of Elinhir translates it as \"Whit's Daughter,\" but Lady Cinnabar of Taneth believes it has a meaning of darker import: \"Wit Shatter.\""
+msgstr "아트모란 용어 \"위더스테드\"의 정의는 학자들 사이에서 토론의 주제입니다. 엘린히어의 페라스터스는 이것을 \"윗의 딸\"로 번역하지만, 타네스의 레이디 시나바는 더 어두운 의미가 있는  \"지식의 파괴\"라고 주장합니다."
 
 #: 162658389-0-262
 msgctxt "162658389-0-262"
@@ -5273,8 +5271,8 @@ msgstr "샤드 아스튤라 지하 강당 (Shad Astula Underhalls)"
 
 #: 70901198-0-252
 msgctxt "70901198-0-252"
-msgid "The cave in Eidolon's Hollow leads to the now-buried Halls of Veneration, where the Chimer of an earlier era worshiped the Daedric Princes heralded as the "Good Daedra" by the Prophet Veloth."
-msgstr "이도론의 공허의 동굴은 지금은 매장된 숭배의 전당으로 연결됩니다, 일찍이 카이머들이 선지자 벨로스를 따라 "선한 데이드라"로 알려진 데이드릭 프린스들을 섬기던 장소입니다."
+msgid "The cave in Eidolon's Hollow leads to the now-buried Halls of Veneration, where the Chimer of an earlier era worshiped the Daedric Princes heralded as the \"Good Daedra\" by the Prophet Veloth."
+msgstr "이도론의 공허의 동굴은 지금은 매장된 숭배의 전당으로 연결됩니다, 일찍이 카이머들이 선지자 벨로스를 따라 \"선한 데이드라\"로 알려진 데이드릭 프린스들을 섬기던 장소입니다."
 
 #: 162658389-0-252
 msgctxt "162658389-0-252"
@@ -5283,8 +5281,8 @@ msgstr "공허한 동굴 (The Hollow Cave)"
 
 #: 70901198-0-250
 msgctxt "70901198-0-250"
-msgid "The Narsis Ruins include the foundations of the first structures built here when the Chimer came out from Summerset, and the new town was known as "Narsis-Where-All-Fervently-Praise-the-Prophet-Veloth." Eventually the name was shortened."
-msgstr "나시스 폐허에는 카이머들이 서머셋으로부터 왔을 때 이곳에 처음으로 지은 건물의 토대 그리고, 새로운 마을인 "나라시스-어디서나-모두-열렬히-선지자-벨로스-찬양한다" 가 있습니다. 결국 저 마을 이름은 짧아졌습니다."
+msgid "The Narsis Ruins include the foundations of the first structures built here when the Chimer came out from Summerset, and the new town was known as \"Narsis-Where-All-Fervently-Praise-the-Prophet-Veloth.\" Eventually the name was shortened."
+msgstr "나시스 폐허에는 카이머들이 서머셋으로부터 왔을 때 이곳에 처음으로 지은 건물의 토대 그리고, 새로운 마을인 \"나라시스-어디서나-모두-열렬히-선지자-벨로스-찬양한다\" 가 있습니다. 결국 저 마을 이름은 짧아졌습니다."
 
 #: 162658389-0-250
 msgctxt "162658389-0-250"
@@ -5293,8 +5291,8 @@ msgstr "나시스 폐허 (Narsis Ruins)"
 
 #: 70901198-0-249
 msgctxt "70901198-0-249"
-msgid "Originally excavated to serve as burial vaults for the noble Redoran family, the works beneath Tal'Deic Fortress were abandoned after Grandmaster Llerlu inspected them and found the space "small, constricted, and insufficently imposing for the honored dead of House Redoran.""
-msgstr "원래는 레도란 가문의 귀족들을 위한 묘지로 사용하기 위해 발굴되었으며, 툴 레딕 요새 밑의 이 장소는 그랜드마스터 리어루가 "공간은 작고 좁으며 레도란의 명예로운 죽은 자들에 부적합하다"라고 평가했으며 버려졌습니다."
+msgid "Originally excavated to serve as burial vaults for the noble Redoran family, the works beneath Tal'Deic Fortress were abandoned after Grandmaster Llerlu inspected them and found the space \"small, constricted, and insufficently imposing for the honored dead of House Redoran.\""
+msgstr "원래는 레도란 가문의 귀족들을 위한 묘지로 사용하기 위해 발굴되었으며, 툴 레딕 요새 밑의 이 장소는 그랜드마스터 리어루가 \"공간은 작고 좁으며 레도란의 명예로운 죽은 자들에 부적합하다\"라고 평가했으며 버려졌습니다."
 
 #: 162658389-0-249
 msgctxt "162658389-0-249"
@@ -5353,8 +5351,8 @@ msgstr "산호 심장의 내부 (Coral Heart Chamber)"
 
 #: 70901198-0-242
 msgctxt "70901198-0-242"
-msgid "The dungeons beneath Fort Arand are both sturdy and commodious, constructed during the First Era in the Dunmeri style known as "Responsible Architecture" to plans by the famed architect Guylaine Marilie. Sadly, in recent times they have not been well maintained."
-msgstr "아란드 성과 그 지하감옥은 둘 다 넓고 견고합니다, 제 1 시대에 "주요한 건축물"로 알려진 던머 스타일인 이 건축물은 유명한 건축가인 구왈린 마릴리가 설계하였습니다. 하지만 슬프게도, 요 근래에는 성벽보수를 하지 않았습니다."
+msgid "The dungeons beneath Fort Arand are both sturdy and commodious, constructed during the First Era in the Dunmeri style known as \"Responsible Architecture\" to plans by the famed architect Guylaine Marilie. Sadly, in recent times they have not been well maintained."
+msgstr "아란드 성과 그 지하감옥은 둘 다 넓고 견고합니다, 제 1 시대에 \"주요한 건축물\"로 알려진 던머 스타일인 이 건축물은 유명한 건축가인 구왈린 마릴리가 설계하였습니다. 하지만 슬프게도, 요 근래에는 성벽보수를 하지 않았습니다."
 
 #: 162658389-0-242
 msgctxt "162658389-0-242"
@@ -5433,8 +5431,8 @@ msgstr "추악한 예배당 (Odious Chapel)"
 
 #: 70901198-0-233
 msgctxt "70901198-0-233"
-msgid "When the Tribunal replaced the "Good Daedra" in Morrowind, some rebel Dark Elves who worshiped Boethiah fled south into Black Marsh, where they built the shrine of Tenmorvuk. The Dunmer who built it are gone, but the name lives on as Ten-Maur-Wolk."
-msgstr "모로윈드에서 트라이뷰널이 "선한 데이드라"를 대신하여 들어섰을 때, 보에시아를 섬기는 반란자 다크엘프 무리들은 남쪽인 블랙 마쉬로 도망쳤습니다,  그들이 텐몰북의 성소를 건축한 곳입니다. 이곳을 지은 던머들은 죽고 사라졌지만, 텐-모울-울크라는 이름으로 남아있습니다."
+msgid "When the Tribunal replaced the \"Good Daedra\" in Morrowind, some rebel Dark Elves who worshiped Boethiah fled south into Black Marsh, where they built the shrine of Tenmorvuk. The Dunmer who built it are gone, but the name lives on as Ten-Maur-Wolk."
+msgstr "모로윈드에서 트라이뷰널이 \"선한 데이드라\"를 대신하여 들어섰을 때, 보에시아를 섬기는 반란자 다크엘프 무리들은 남쪽인 블랙 마쉬로 도망쳤습니다,  그들이 텐몰북의 성소를 건축한 곳입니다. 이곳을 지은 던머들은 죽고 사라졌지만, 텐-모울-울크라는 이름으로 남아있습니다."
 
 #: 162658389-0-233
 msgctxt "162658389-0-233"
@@ -5443,8 +5441,8 @@ msgstr "텐-모르-워크의 유적 (Ruins of Ten-Maur-Wolk)"
 
 #: 70901198-0-232
 msgctxt "70901198-0-232"
-msgid "The labyrinth of Silyanorn was excavated by the same Ayleids who built the foundations of Stormhold. Its name literally means "acorn," but the word also seems to have been used by the Barsaebics to mean "library.""
-msgstr "실리아노른의 미궁과 스톰홀드 하층부는 같은 에일리드에 의해서 건축되었습니다. "이는 문자 그대로 "도토리"을 의미 하지만, 이 단어는 바새빅스에게는 "도서관"이라는 의미로도 사용되었습니다."
+msgid "The labyrinth of Silyanorn was excavated by the same Ayleids who built the foundations of Stormhold. Its name literally means \"acorn,\" but the word also seems to have been used by the Barsaebics to mean \"library.\""
+msgstr "실리아노른의 미궁과 스톰홀드 하층부는 같은 에일리드에 의해서 건축되었습니다. \"이는 문자 그대로 \"도토리\"을 의미 하지만, 이 단어는 바새빅스에게는 \"도서관\"이라는 의미로도 사용되었습니다."
 
 #: 162658389-0-232
 msgctxt "162658389-0-232"
@@ -5483,8 +5481,8 @@ msgstr "파묻힌 길 (The Sunken Road)"
 
 #: 70901198-0-224
 msgctxt "70901198-0-224"
-msgid ""Fanciful legends abound regarding the mysterious caves of Breagha-Fin, tales of ghost-mammoths, enchanted relics, even skeletal giants. But the folk of Rivenspire are notorious for their overactive imaginations." —Phrastus of Elinhir"
-msgstr ""브레가-핀 동굴의 불가사의에 대한 공상적인 전설은 아주 많다. 유령 매머드, 마법걸린 유물들, 심지어는 해골 거인들까지. 하지만 리븐스파이어의 주민들은 그 지나친 상상력으로 악명 높다." —엘린히어의 프라스투스"
+msgid "\"Fanciful legends abound regarding the mysterious caves of Breagha-Fin, tales of ghost-mammoths, enchanted relics, even skeletal giants. But the folk of Rivenspire are notorious for their overactive imaginations.\" —Phrastus of Elinhir"
+msgstr "\"브레가-핀 동굴의 불가사의에 대한 공상적인 전설은 아주 많다. 유령 매머드, 마법걸린 유물들, 심지어는 해골 거인들까지. 하지만 리븐스파이어의 주민들은 그 지나친 상상력으로 악명 높다.\" —엘린히어의 프라스투스"
 
 #: 162658389-0-224
 msgctxt "162658389-0-224"
@@ -5563,8 +5561,8 @@ msgstr "까마귀 숲 (Crow's Wood)"
 
 #: 70901198-0-215
 msgctxt "70901198-0-215"
-msgid "The thought-processes of the Hist are alien to those of all other sentient creatures of Nirn, so strange that it may be a mistake to regard them as "intelligent" at all."
-msgstr "히스트의 사고 과정은 다른 지각을 지닌 넌의 모든 생명체의 그것과는 다른 이질적인 것이어서 너무 이상한 나머지 그 사고 과정을 "높은 지성을 지닌" 것으로 오해하게 만듭니다."
+msgid "The thought-processes of the Hist are alien to those of all other sentient creatures of Nirn, so strange that it may be a mistake to regard them as \"intelligent\" at all."
+msgstr "히스트의 사고 과정은 다른 지각을 지닌 넌의 모든 생명체의 그것과는 다른 이질적인 것이어서 너무 이상한 나머지 그 사고 과정을 \"높은 지성을 지닌\" 것으로 오해하게 만듭니다."
 
 #: 162658389-0-215
 msgctxt "162658389-0-215"
@@ -5573,8 +5571,8 @@ msgstr "히스트의 환영 (Vision of the Hist)"
 
 #: 70901198-0-214
 msgctxt "70901198-0-214"
-msgid "Many regard the heavy curved vaults of the Dark Elves' Daedric shrines as brutal and oppressive, but the Dunmer find them comfortable. "If you consider disaster inevitable, then survivability is a key virtue," says Mournhold architect Nyd Drotho."
-msgstr "많은 사람들이 다크엘프의 데이드릭 성소가 거칠고 불쾌하다고 생각합니다만, 던머는 그것을 매우 편안하게 여깁니다. 모운홀드의 건축가인 니드로도는 "만약 재앙을 피할 수 없다면, 생존 가능여부는 큰 장점이다." 라고 말했습니다."
+msgid "Many regard the heavy curved vaults of the Dark Elves' Daedric shrines as brutal and oppressive, but the Dunmer find them comfortable. \"If you consider disaster inevitable, then survivability is a key virtue,\" says Mournhold architect Nyd Drotho."
+msgstr "많은 사람들이 다크엘프의 데이드릭 성소가 거칠고 불쾌하다고 생각합니다만, 던머는 그것을 매우 편안하게 여깁니다. 모운홀드의 건축가인 니드로도는 \"만약 재앙을 피할 수 없다면, 생존 가능여부는 큰 장점이다.\" 라고 말했습니다."
 
 #: 162658389-0-214
 msgctxt "162658389-0-214"
@@ -5583,8 +5581,8 @@ msgstr "가죽 도둑의 은신처 (Lair of the Skin Stealer)"
 
 #: 70901198-0-213
 msgctxt "70901198-0-213"
-msgid "The vaults beneath the Sunscale xanmeers were built by a long-gone Argonian tribe in honor of Sithis, the "Dark Husband." They are said to contain tests for those who think to withstand the call of the abyss."
-msgstr "해비늘 잔미어의 지하에 위치한 이 아치형의 구조물은 시디스를 섬기는 아주 오래 전의 아르고니안 부족, "어둠의 남편" 에 의해 지어졌습니다. 심연의 부름을 견딜 수 있다고 생각하는 사람들을 위한 시험을 치뤘다고 합니다."
+msgid "The vaults beneath the Sunscale xanmeers were built by a long-gone Argonian tribe in honor of Sithis, the \"Dark Husband.\" They are said to contain tests for those who think to withstand the call of the abyss."
+msgstr "해비늘 잔미어의 지하에 위치한 이 아치형의 구조물은 시디스를 섬기는 아주 오래 전의 아르고니안 부족, \"어둠의 남편\" 에 의해 지어졌습니다. 심연의 부름을 견딜 수 있다고 생각하는 사람들을 위한 시험을 치뤘다고 합니다."
 
 #: 162658389-0-213
 msgctxt "162658389-0-213"
@@ -5603,8 +5601,8 @@ msgstr "모운홀드 하수도 (Mournhold Sewer)"
 
 #: 70901198-0-209
 msgctxt "70901198-0-209"
-msgid "For the Dunmer, Molag Bal is one corner of the House of Troubles, and the arch-enemy of the "Good Daedra" Boethiah. For the Bosmer, he is the terrible demon who consumed Gil-Var-Delle. To some Ayleid clans he was Mola Gbal, and worthy of veneration."
-msgstr "던머에게 있어서 몰라그 발은 재난의 가문에서 한 축을 담당하는 자이며, "선한 데이드라" 보에시아의 대적입니다. 보스머에게 있어서는 길-바-델을 집어삼킨 끔찍한 악마이죠. 어떤 에일리드 일족에게는 몰라 그발로 여겨졌으며, 숭배의 대상이었습니다."
+msgid "For the Dunmer, Molag Bal is one corner of the House of Troubles, and the arch-enemy of the \"Good Daedra\" Boethiah. For the Bosmer, he is the terrible demon who consumed Gil-Var-Delle. To some Ayleid clans he was Mola Gbal, and worthy of veneration."
+msgstr "던머에게 있어서 몰라그 발은 재난의 가문에서 한 축을 담당하는 자이며, \"선한 데이드라\" 보에시아의 대적입니다. 보스머에게 있어서는 길-바-델을 집어삼킨 끔찍한 악마이죠. 어떤 에일리드 일족에게는 몰라 그발로 여겨졌으며, 숭배의 대상이었습니다."
 
 #: 162658389-0-209
 msgctxt "162658389-0-209"
@@ -5623,8 +5621,8 @@ msgstr "대지의 대장간 (The Earth Forge)"
 
 #: 70901198-0-207
 msgctxt "70901198-0-207"
-msgid "The mystery of the Dwarves and their sudden disappearance is so compelling that even non-scholars have been known to devote their lives—and their fortunes—to studying their history and collecting Dwemeri objects. These obsessives are known derisively as "Dwarf-Hounds.""
-msgstr "드워머들의 신비함과 갑작스러운 실종은 학자가 아닌 사람에게조차도 그들의 인생을 걸고 - 그리고 그들의 운명도 - 그들의 역사를 공부하게 만들고 드워머 물품을 수집하게 합니다. 이러한 수집욕은 "드워프-사냥개"라고 알려져 있으며 조롱당하곤 합니다."
+msgid "The mystery of the Dwarves and their sudden disappearance is so compelling that even non-scholars have been known to devote their lives—and their fortunes—to studying their history and collecting Dwemeri objects. These obsessives are known derisively as \"Dwarf-Hounds.\""
+msgstr "드워머들의 신비함과 갑작스러운 실종은 학자가 아닌 사람에게조차도 그들의 인생을 걸고 - 그리고 그들의 운명도 - 그들의 역사를 공부하게 만들고 드워머 물품을 수집하게 합니다. 이러한 수집욕은 \"드워프-사냥개\"라고 알려져 있으며 조롱당하곤 합니다."
 
 #: 162658389-0-207
 msgctxt "162658389-0-207"
@@ -5633,8 +5631,8 @@ msgstr "므제넬트 (Mzeneldt)"
 
 #: 70901198-0-203
 msgctxt "70901198-0-203"
-msgid ""Wry without equal, Sheogorath holds in his realm giggling loons, flamboyant auteurs, and craven mutilators. The Mad Prince will ply profitless bargains and promote senseless bloodshed for nothing more than the joy of another's confusion, tragedy, or rage." —16 Accords of Madness"
-msgstr ""균형 잡힌 것 없이 뒤틀린, 쉐오고라스는 그의 영지에 낄낄대는 미치광이들, 화려한 재주꾼 그리고 절망적인 절단기를 가지고 있다. 다른 이들의 혼란, 비극, 분노를 즐기기 위해서 쓸데없는 물건들을 사용하고 무의미한 유혈의 현장을 장려하곤 한다." - 16가지 광기의 조화"
+msgid "\"Wry without equal, Sheogorath holds in his realm giggling loons, flamboyant auteurs, and craven mutilators. The Mad Prince will ply profitless bargains and promote senseless bloodshed for nothing more than the joy of another's confusion, tragedy, or rage.\" —16 Accords of Madness"
+msgstr "\"균형 잡힌 것 없이 뒤틀린, 쉐오고라스는 그의 영지에 낄낄대는 미치광이들, 화려한 재주꾼 그리고 절망적인 절단기를 가지고 있다. 다른 이들의 혼란, 비극, 분노를 즐기기 위해서 쓸데없는 물건들을 사용하고 무의미한 유혈의 현장을 장려하곤 한다.\" - 16가지 광기의 조화"
 
 #: 162658389-0-203
 msgctxt "162658389-0-203"
@@ -5783,8 +5781,8 @@ msgstr "재의 도시 I (City of Ash I)"
 
 #: 70901198-0-169
 msgctxt "70901198-0-169"
-msgid "According to those who study the long-lost culture of the Dwarves, "Razak" was a fairly common Dwemeri name. Scholars are divided on whether it means "precision engineer" or "tonal modulator.""
-msgstr "오래 전 잃어버린 드워프 문화를 연구한 사람들에 의하면, "라작" 은 상당히 흔한 드웨머 이름이었다고 합니다. 학자들 사이에서는 그 뜻이 "정밀한 엔지니어"인지 아니면 "색조 조절자"인지를 두고 의견이 엇갈리고 있습니다."
+msgid "According to those who study the long-lost culture of the Dwarves, \"Razak\" was a fairly common Dwemeri name. Scholars are divided on whether it means \"precision engineer\" or \"tonal modulator.\""
+msgstr "오래 전 잃어버린 드워프 문화를 연구한 사람들에 의하면, \"라작\" 은 상당히 흔한 드웨머 이름이었다고 합니다. 학자들 사이에서는 그 뜻이 \"정밀한 엔지니어\"인지 아니면 \"색조 조절자\"인지를 두고 의견이 엇갈리고 있습니다."
 
 #: 162658389-0-169
 msgctxt "162658389-0-169"
@@ -5953,8 +5951,8 @@ msgstr "쉐도우펜 (Shadowfen)"
 
 #: 70901198-0-1126
 msgctxt "70901198-0-1126"
-msgid "Pit Fighting promoter Crottus "Thumbs-Down" Lycus built this private arena atop the haunted ruins of Molavar because the land was cheap, and what could go wrong? He vanished mysteriously some time ago, and now his unique Arena Home is back on the market."
-msgstr "핏 파이팅 프로모터 크로투스 "Thumbs-Down" 라이쿠스는 이 사적인 아레나를 몰락발의 저주받은 유적 위에 세웠다. 그 이유는 땅값도 싸고 무슨 저주같은 것이라도 신경쓸 필요도 없지 않은가? 얼마전 그는 불가사의하게 실종되었고 독특한 그 아레나의 집은 다시 시장에 나왔다."
+msgid "Pit Fighting promoter Crottus \"Thumbs-Down\" Lycus built this private arena atop the haunted ruins of Molavar because the land was cheap, and what could go wrong? He vanished mysteriously some time ago, and now his unique Arena Home is back on the market."
+msgstr "핏 파이팅 프로모터 크로투스 \"Thumbs-Down\" 라이쿠스는 이 사적인 아레나를 몰락발의 저주받은 유적 위에 세웠다. 그 이유는 땅값도 싸고 무슨 저주같은 것이라도 신경쓸 필요도 없지 않은가? 얼마전 그는 불가사의하게 실종되었고 독특한 그 아레나의 집은 다시 시장에 나왔다."
 
 #: 162658389-0-1126
 msgctxt "162658389-0-1126"
@@ -6013,8 +6011,8 @@ msgstr "콜로서스의 홀 (Halls of Colossus)"
 
 #: 70901198-0-1083
 msgctxt "70901198-0-1083"
-msgid ""The Tree sleeps over [illegible] writhe deep and/with caressing [rock or absence of rock] opposite [?] the Sun despite time despite hunger despite walking-scales [illegible]. Now enter." —Crabbidge's Standard Translation of the Vakka-Bok Inscriptions"
-msgstr ""나무는 [판독 불능] 위에서 잠든다. 깊이 몸을 뒤틀고 [바위 또는 바위의 부재]를 받고, [?)]의 태양을 향한다. 설령 때때로, 굶주림, 걷는 비늘[판독불능]이 있을 것이다. 지금, 넣는다."- 클러비지에 의한 박카-복 비문의 표준 번역"
+msgid "\"The Tree sleeps over [illegible] writhe deep and/with caressing [rock or absence of rock] opposite [?] the Sun despite time despite hunger despite walking-scales [illegible]. Now enter.\" —Crabbidge's Standard Translation of the Vakka-Bok Inscriptions"
+msgstr "\"나무는 [판독 불능] 위에서 잠든다. 깊이 몸을 뒤틀고 [바위 또는 바위의 부재]를 받고, [?)]의 태양을 향한다. 설령 때때로, 굶주림, 걷는 비늘[판독불능]이 있을 것이다. 지금, 넣는다.\"- 클러비지에 의한 박카-복 비문의 표준 번역"
 
 #: 162658389-0-1083
 msgctxt "162658389-0-1083"
@@ -6033,8 +6031,8 @@ msgstr "블랙로즈 감옥 (Blackrose Prison)"
 
 #: 70901198-0-1081
 msgctxt "70901198-0-1081"
-msgid ""The light that shone from the statue of Narilmor acted as both guide and protector to Ayleid ships crossing the Abecean, promising warmth and safe harbor in Garlas Malatar, until the city fell in the latter days of the Alessian Slave Rebellion." - Tjurhane Fyrre"
-msgstr ""나릴모어의 동상에서 뿜어져 나온 빛은 아비시안 해를 횡단하는 에일리드 선박을 인도하고 보호해 주었다. 알레시아의 노예 봉기로 인해 마을이 함락될 때까지 이 빛은 따뜻함과 갈라스 말라타로의 안전한 정박을 약속하는 것이었다." - 줄헤인 피레"
+msgid "\"The light that shone from the statue of Narilmor acted as both guide and protector to Ayleid ships crossing the Abecean, promising warmth and safe harbor in Garlas Malatar, until the city fell in the latter days of the Alessian Slave Rebellion.\" - Tjurhane Fyrre"
+msgstr "\"나릴모어의 동상에서 뿜어져 나온 빛은 아비시안 해를 횡단하는 에일리드 선박을 인도하고 보호해 주었다. 알레시아의 노예 봉기로 인해 마을이 함락될 때까지 이 빛은 따뜻함과 갈라스 말라타로의 안전한 정박을 약속하는 것이었다.\" - 줄헤인 피레"
 
 #: 162658389-0-1081
 msgctxt "162658389-0-1081"
@@ -6043,8 +6041,8 @@ msgstr "말라타의 심연 (Depths of Malatar)"
 
 #: 70901198-0-1080
 msgctxt "70901198-0-1080"
-msgid ""Mhuvnak was known as one of the most gifted builders of architecture in Dwemereth, greatly expanding their underground kingdom with ingenious constructs until his disappearance on an expedition deep into Nord lands." —Guylaine Marilie"
-msgstr ""무브낙은 드웨머레스에서 가장 재능있는 건축가로 알려져 있었으며 드웨머의 지하왕국을 독창적인 건축물로 크게 확장시켰지만 노드 땅 깊숙히 탐험을 떠난후 실종 되었다." - 구이레인 마릴리에"
+msgid "\"Mhuvnak was known as one of the most gifted builders of architecture in Dwemereth, greatly expanding their underground kingdom with ingenious constructs until his disappearance on an expedition deep into Nord lands.\" —Guylaine Marilie"
+msgstr "\"무브낙은 드웨머레스에서 가장 재능있는 건축가로 알려져 있었으며 드웨머의 지하왕국을 독창적인 건축물로 크게 확장시켰지만 노드 땅 깊숙히 탐험을 떠난후 실종 되었다.\" - 구이레인 마릴리에"
 
 #: 162658389-0-1080
 msgctxt "162658389-0-1080"
@@ -6063,8 +6061,8 @@ msgstr "그린쉐이드 (Greenshade)"
 
 #: 70901198-0-1079
 msgctxt "70901198-0-1079"
-msgid ""We Argonians love warmth, but those who say we worship the sun are wrong. Trees, of course, also love sunlight, and it's said there once was a Hist who had its tribe build a stone edifice to collect it. Is that true? Who knows?" —Desh-Wulm the Blind"
-msgstr ""우리 아르고니안은 따뜻함을 사랑하지만 우리가 태양을 숭배한다고 생각하는 사람은 잘못됐다. 물론 나무는 햇빛을 좋아한다. 전에는 부족들에게 집중적으로 석조 건물을 만들게한 히스트가 있다는 소문이 있었다. 이것은 사실인가? 알께 뭐야?"- 소경 데시-우름"
+msgid "\"We Argonians love warmth, but those who say we worship the sun are wrong. Trees, of course, also love sunlight, and it's said there once was a Hist who had its tribe build a stone edifice to collect it. Is that true? Who knows?\" —Desh-Wulm the Blind"
+msgstr "\"우리 아르고니안은 따뜻함을 사랑하지만 우리가 태양을 숭배한다고 생각하는 사람은 잘못됐다. 물론 나무는 햇빛을 좋아한다. 전에는 부족들에게 집중적으로 석조 건물을 만들게한 히스트가 있다는 소문이 있었다. 이것은 사실인가? 알께 뭐야?\"- 소경 데시-우름"
 
 #: 162658389-0-1079
 msgctxt "162658389-0-1079"
@@ -6073,8 +6071,8 @@ msgstr "박카-복 잔미어 (Vakka-Bok Xanmeer)"
 
 #: 70901198-0-1078
 msgctxt "70901198-0-1078"
-msgid ""What can the mortal mind do when transported to a place that is not a place? It has no choice but to interpret its surroundings as best it can." —Morian Zenas"
-msgstr ""장소이지만 장소가 아닌 곳으로 날아가 때 필멸자의 마음은 어떻게 될까? 주위를 최대한 해석할 수 밖에 없다."- 모리안  제나스"
+msgid "\"What can the mortal mind do when transported to a place that is not a place? It has no choice but to interpret its surroundings as best it can.\" —Morian Zenas"
+msgstr "\"장소이지만 장소가 아닌 곳으로 날아가 때 필멸자의 마음은 어떻게 될까? 주위를 최대한 해석할 수 밖에 없다.\"- 모리안  제나스"
 
 #: 162658389-0-1078
 msgctxt "162658389-0-1078"
@@ -6083,8 +6081,8 @@ msgstr "아르곤의 파편 (Remnant of Argon)"
 
 #: 70901198-0-1077
 msgctxt "70901198-0-1077"
-msgid "Revered by some, but dreaded by most, the Ree-An-Wo—or as it's rendered in Tamrielic speech, the Swallowed Grove—is said by the Argonians to be a place "where dreams walk.""
-msgstr "일부에서는 숭배되지만 대부분의 사람들은 두려워하는 리-안-우(혹은 탐리엘어로 대충 번역해 보면 "삼켜진 숲")는 "꿈이 걷는 땅"이라고 아르고니아 인들에게 불려지고 있습니다."
+msgid "Revered by some, but dreaded by most, the Ree-An-Wo—or as it's rendered in Tamrielic speech, the Swallowed Grove—is said by the Argonians to be a place \"where dreams walk.\""
+msgstr "일부에서는 숭배되지만 대부분의 사람들은 두려워하는 리-안-우(혹은 탐리엘어로 대충 번역해 보면 \"삼켜진 숲\")는 \"꿈이 걷는 땅\"이라고 아르고니아 인들에게 불려지고 있습니다."
 
 #: 162658389-0-1077
 msgctxt "162658389-0-1077"
@@ -6133,8 +6131,8 @@ msgstr "시디스의 이빨 (Teeth of Sithis)"
 
 #: 70901198-0-1072
 msgctxt "70901198-0-1072"
-msgid "The forgotten island of Norg-Tzel, which means "forbidden place" in the Argonian tongue, has much the same climate and terrain as the region of Black Marsh known as Murkmire."
-msgstr "잊혀진 섬 노그-젤은 아르고니안 언어로 "금지된 장소"라는 의미를 가진 곳 입니다. 이 곳의 기후와 지형은 블랙마쉬의 지역 중 한 곳인 머크마이어와 똑같습니다."
+msgid "The forgotten island of Norg-Tzel, which means \"forbidden place\" in the Argonian tongue, has much the same climate and terrain as the region of Black Marsh known as Murkmire."
+msgstr "잊혀진 섬 노그-젤은 아르고니안 언어로 \"금지된 장소\"라는 의미를 가진 곳 입니다. 이 곳의 기후와 지형은 블랙마쉬의 지역 중 한 곳인 머크마이어와 똑같습니다."
 
 #: 162658389-0-1072
 msgctxt "162658389-0-1072"
@@ -6143,8 +6141,8 @@ msgstr "노그-젤 (Norg-Tzel)"
 
 #: 70901198-0-1071
 msgctxt "70901198-0-1071"
-msgid "The name of this place translates from Jel as "Snake-Means-Death City," and it's known to be an ancient center of reverence for Sithis, the Dread Father whose other names are Chaos and Change."
-msgstr "이 장소의 젤 언어 뜻은 "벰-수단-죽음의 도시"입니다. 혼돈과 변화이자 공포의 아버지인 시디스 숭배의 고대 중심지로 알려져 있습니다."
+msgid "The name of this place translates from Jel as \"Snake-Means-Death City,\" and it's known to be an ancient center of reverence for Sithis, the Dread Father whose other names are Chaos and Change."
+msgstr "이 장소의 젤 언어 뜻은 \"벰-수단-죽음의 도시\"입니다. 혼돈과 변화이자 공포의 아버지인 시디스 숭배의 고대 중심지로 알려져 있습니다."
 
 #: 162658389-0-1071
 msgctxt "162658389-0-1071"
@@ -6193,8 +6191,8 @@ msgstr "꿈의 둥지 (The Dreaming Nest)"
 
 #: 70901198-0-1066
 msgctxt "70901198-0-1066"
-msgid "A spacious and well-watered cave system in Murkmire would normally be used or inhabited by some of the local Argonians, but Tsofeer Cavern is avoided even by the aggressive Dead-Water tribe, all because of one dread word: "Wuju-Ka.""
-msgstr "머크마이어에서 널찍하고 물이 잘 흐르는 동굴은 지역 아르고니안들의 집으로 사용됩니다. 하지만 쏘피어 동굴은 호전적인 죽은-물 부족조차 들어가기 꺼려합니다. 그 이유는 오직 하나 "우주-카" 때문입니다."
+msgid "A spacious and well-watered cave system in Murkmire would normally be used or inhabited by some of the local Argonians, but Tsofeer Cavern is avoided even by the aggressive Dead-Water tribe, all because of one dread word: \"Wuju-Ka.\""
+msgstr "머크마이어에서 널찍하고 물이 잘 흐르는 동굴은 지역 아르고니안들의 집으로 사용됩니다. 하지만 쏘피어 동굴은 호전적인 죽은-물 부족조차 들어가기 꺼려합니다. 그 이유는 오직 하나 \"우주-카\" 때문입니다."
 
 #: 162658389-0-1066
 msgctxt "162658389-0-1066"
@@ -6213,8 +6211,8 @@ msgstr "사나운 늪의 웅덩이 (Blight Bog Sump)"
 
 #: 70901198-0-1064
 msgctxt "70901198-0-1064"
-msgid "The underground entrance way leads through a portal to an expansive forested glade in Hircine's Oblivion realm of The Hunting Grounds. Those "blessed" with lycanthropy can maintain werewolf form indefinitely in this otherworldly wilderness."
-msgstr "지하의 입구는 허씬의 오블리비언의 영역인 광활한 숲 헌팅 그라운드로 통합니다. "축복받은" 라이칸슬로프는 이 이계의 황야에서 늑대 인간의 형태를 계속 유지할 수 있습니다."
+msgid "The underground entrance way leads through a portal to an expansive forested glade in Hircine's Oblivion realm of The Hunting Grounds. Those \"blessed\" with lycanthropy can maintain werewolf form indefinitely in this otherworldly wilderness."
+msgstr "지하의 입구는 허씬의 오블리비언의 영역인 광활한 숲 헌팅 그라운드로 통합니다. \"축복받은\" 라이칸슬로프는 이 이계의 황야에서 늑대 인간의 형태를 계속 유지할 수 있습니다."
 
 #: 162658389-0-1064
 msgctxt "162658389-0-1064"
@@ -6223,8 +6221,8 @@ msgstr "사냥꾼의 빈터 (Hunter's Glade)"
 
 #: 70901198-0-1063
 msgctxt "70901198-0-1063"
-msgid "When Artaeum was "removed" from Tamriel, a few neighboring isles went with it, including the site of the Grand Psijic Villa, a monumental estate with magnificent views of the south coast of the main island."
-msgstr "아르테움이 탐리엘에서 "삭제"되었을 때, 근처의 몇몇 섬들이 휘말려 들었습니다. 이 본섬의 남쪽을 향해 있는 멋진 전망의 그랜드 씨직 빌라도 그 안에 포함되어 있습니다."
+msgid "When Artaeum was \"removed\" from Tamriel, a few neighboring isles went with it, including the site of the Grand Psijic Villa, a monumental estate with magnificent views of the south coast of the main island."
+msgstr "아르테움이 탐리엘에서 \"삭제\"되었을 때, 근처의 몇몇 섬들이 휘말려 들었습니다. 이 본섬의 남쪽을 향해 있는 멋진 전망의 그랜드 씨직 빌라도 그 안에 포함되어 있습니다."
 
 #: 162658389-0-1063
 msgctxt "162658389-0-1063"
@@ -6303,8 +6301,8 @@ msgstr "알리노어 궁전 (Alinor Royal Palace)"
 
 #: 70901198-0-1047
 msgctxt "70901198-0-1047"
-msgid "The monks of the Serene Harmony Monastery stand as the most renowned "Aednavorith" scholars in all of Summerset. The study of genealogy and ancestry remains a subject of endless interest to all High Elves."
-msgstr "세레나 하모니의 수도원의 사제들은 서머셋을 통틀어서 가장 유명한 "아드나보리트"의 학자들 입니다. 그들이 연구하는 혈통에 대한 연구와 계보학은 모든 하이 엘프들의  끊임 없는 관심의 대상입니다."
+msgid "The monks of the Serene Harmony Monastery stand as the most renowned \"Aednavorith\" scholars in all of Summerset. The study of genealogy and ancestry remains a subject of endless interest to all High Elves."
+msgstr "세레나 하모니의 수도원의 사제들은 서머셋을 통틀어서 가장 유명한 \"아드나보리트\"의 학자들 입니다. 그들이 연구하는 혈통에 대한 연구와 계보학은 모든 하이 엘프들의  끊임 없는 관심의 대상입니다."
 
 #: 162658389-0-1047
 msgctxt "162658389-0-1047"
@@ -6343,8 +6341,8 @@ msgstr "이전의 성역 (The Erstwhile Sanctuary)"
 
 #: 70901198-0-1043
 msgctxt "70901198-0-1043"
-msgid "Sotha Sil's designation of this mountaintop laboratory as the "Orbservatory Prior" clearly indicates that the site was an experimental or test version of what he had in mind—though whether he ever built an "Orbservatory Final" is unknown."
-msgstr "소사 실이 산 정상의 연구소를 "선행 오브관측소"라고 지정했다는 사실은 그 장소가 무언가를 위한 실험적 또는 시험적인 버전이었다는 것을 분명히 나타내고 있습니다. 그러나 그가 "최종 오브관측소"를 만들었는지의 여부는 알 수 없습니다."
+msgid "Sotha Sil's designation of this mountaintop laboratory as the \"Orbservatory Prior\" clearly indicates that the site was an experimental or test version of what he had in mind—though whether he ever built an \"Orbservatory Final\" is unknown."
+msgstr "소사 실이 산 정상의 연구소를 \"선행 오브관측소\"라고 지정했다는 사실은 그 장소가 무언가를 위한 실험적 또는 시험적인 버전이었다는 것을 분명히 나타내고 있습니다. 그러나 그가 \"최종 오브관측소\"를 만들었는지의 여부는 알 수 없습니다."
 
 #: 162658389-0-1043
 msgctxt "162658389-0-1043"
@@ -6403,8 +6401,8 @@ msgstr "렐런틸 싱크홀 (Rellenthil Sinkhole)"
 
 #: 70901198-0-1037
 msgctxt "70901198-0-1037"
-msgid "The Crystal Tower, sometimes known as Crystal-Like-Law, is so named, not because it's made of crystal, but because the structure houses "the" crystal—Transparent Law, the "mystical stone" of the Tower of the High Elves."
-msgstr "간혹 "수정같은 법률"이라고도 알려져 있는 수정탑은 수정으로 만들어져서 그런 이름을 얻은 것이 아닙니다. 바로 하이 엘프들의 탑이 지니고 있는 신비로운 돌인 "투명한 법률"이라는 이름의 수정체에서 유래된 것이지요."
+msgid "The Crystal Tower, sometimes known as Crystal-Like-Law, is so named, not because it's made of crystal, but because the structure houses \"the\" crystal—Transparent Law, the \"mystical stone\" of the Tower of the High Elves."
+msgstr "간혹 \"수정같은 법률\"이라고도 알려져 있는 수정탑은 수정으로 만들어져서 그런 이름을 얻은 것이 아닙니다. 바로 하이 엘프들의 탑이 지니고 있는 신비로운 돌인 \"투명한 법률\"이라는 이름의 수정체에서 유래된 것이지요."
 
 #: 162658389-0-1037
 msgctxt "162658389-0-1037"
@@ -6423,7 +6421,7 @@ msgstr "거미줄 대성당 (Cathedral of Webs)"
 
 #: 70901198-0-1035
 msgctxt "70901198-0-1035"
-msgid ""Mephala! Webspinner! Teacher of the Secret Arts! Queen of the Eight Shadows of Murder! Though others may reign over us, deep in the night we still hear your whisper! And we do not forget." —The Derisive Necromite"
+msgid "\"Mephala! Webspinner! Teacher of the Secret Arts! Queen of the Eight Shadows of Murder! Though others may reign over us, deep in the night we still hear your whisper! And we do not forget.\" —The Derisive Necromite"
 msgstr "메팔라여! 거미줄을 짜는 자여! 비밀스러운 예술들의 선생이시여! 여덞까지 살인의 그림자의 여왕이시여! 다른 자들이 우리의 위에 군림할 지라도, 가장 어두운 밤이 되면 우리는 여전히 당신의 속삭임을 들을 수 있나이다! 그리고 우리는 그것을 잊지 않을것입니다.— 조소받는 사령술사"
 
 #: 162658389-0-1035
@@ -6443,8 +6441,8 @@ msgstr "새피아크 대학 (College of Sapiarchs)"
 
 #: 70901198-0-1033
 msgctxt "70901198-0-1033"
-msgid "Russafeld means "scarlet shrine" in some dialects of Aldmeris, which may explain where the Red Temple gets its curious name. But the most commonly held opinion states that it's a shortening or corruption of "Dread Temple.""
-msgstr "러사펠트는 알트머식 방언으로 "붉은빛 성지"를 의미합니다.  이 단어는 붉은 사원이 어디서 유래된 이름인지를 알려주는 문구이기도 하지요. 하지만 가장 일반적으로는 "공포의 사원"의 부패 혹은 멸망 때문에 붙여진 이름이라고 합니다."
+msgid "Russafeld means \"scarlet shrine\" in some dialects of Aldmeris, which may explain where the Red Temple gets its curious name. But the most commonly held opinion states that it's a shortening or corruption of \"Dread Temple.\""
+msgstr "러사펠트는 알트머식 방언으로 \"붉은빛 성지\"를 의미합니다.  이 단어는 붉은 사원이 어디서 유래된 이름인지를 알려주는 문구이기도 하지요. 하지만 가장 일반적으로는 \"공포의 사원\"의 부패 혹은 멸망 때문에 붙여진 이름이라고 합니다."
 
 #: 162658389-0-1033
 msgctxt "162658389-0-1033"
@@ -6453,8 +6451,8 @@ msgstr "붉은 사원의 지하 묘지 (Red Temple Catacombs)"
 
 #: 70901198-0-1032
 msgctxt "70901198-0-1032"
-msgid ""That big coastal fort southeast of town? In my grandmother's day they named it Aldveyond Beldaburk, but nowadays we just call it Sea Keep. Easier, I suppose, but I prefer the grand old moniker." —Tenigwe, at the Shrewd Brew"
-msgstr ""마을 남동쪽 해안가에 있는 큰 요새요? 할머니가 어렸을 적에는 그냥  알드베욘드 벨다버크 라고 불렀는데, 요즘에는 그냥 바다 요새라고 불러요. 이쪽이 좀더 발음하기 쉽지만, 전 거창하고 오래된 이름으로 부르는 게 더 좋아요." — 슈레드 브루에 , 테니그웨"
+msgid "\"That big coastal fort southeast of town? In my grandmother's day they named it Aldveyond Beldaburk, but nowadays we just call it Sea Keep. Easier, I suppose, but I prefer the grand old moniker.\" —Tenigwe, at the Shrewd Brew"
+msgstr "\"마을 남동쪽 해안가에 있는 큰 요새요? 할머니가 어렸을 적에는 그냥  알드베욘드 벨다버크 라고 불렀는데, 요즘에는 그냥 바다 요새라고 불러요. 이쪽이 좀더 발음하기 쉽지만, 전 거창하고 오래된 이름으로 부르는 게 더 좋아요.\" — 슈레드 브루에 , 테니그웨"
 
 #: 162658389-0-1032
 msgctxt "162658389-0-1032"
@@ -6463,8 +6461,8 @@ msgstr "바다 요새 (Sea Keep)"
 
 #: 70901198-0-1031
 msgctxt "70901198-0-1031"
-msgid ""In each of you resides the Divine Spark, and thus the record of thy actions stands as a sacred duty. Keep, therefore, each and every one of you, an Oghma, an everscriven scroll which shall memorialize thy brief lives. Thus in at least this way shalt thy Spark be Immortal." —Xarxes Himself"
-msgstr ""그대 한사람 한사람 속에 신의 빛이 깃들어 있다 따라서 행동을 기록하는 것은 신성한 의무이다. 오그마여, 그대 각자가 기록하는 것이다. 영원한 두루마리가 그대의 덧없는 인생을 기억 해주는 것이다. 적어도 그러면 그대의 빛은 소멸되지 않을 것이다 "- 작세스 자신"
+msgid "\"In each of you resides the Divine Spark, and thus the record of thy actions stands as a sacred duty. Keep, therefore, each and every one of you, an Oghma, an everscriven scroll which shall memorialize thy brief lives. Thus in at least this way shalt thy Spark be Immortal.\" —Xarxes Himself"
+msgstr "\"그대 한사람 한사람 속에 신의 빛이 깃들어 있다 따라서 행동을 기록하는 것은 신성한 의무이다. 오그마여, 그대 각자가 기록하는 것이다. 영원한 두루마리가 그대의 덧없는 인생을 기억 해주는 것이다. 적어도 그러면 그대의 빛은 소멸되지 않을 것이다 \"- 작세스 자신"
 
 #: 162658389-0-1031
 msgctxt "162658389-0-1031"
@@ -6473,7 +6471,7 @@ msgstr "대학의 지하 서가 (Illumination Academy Stacks)"
 
 #: 70901198-0-1030
 msgctxt "70901198-0-1030"
-msgid ""The reach of Thras has been felt far beyond its own land. The Thrassian Plague, which decimated Tamriel's population in the year 2260 of the First Era, was their most egregious attack against the mainland, but other, subtler predations have also been recorded.""
+msgid "\"The reach of Thras has been felt far beyond its own land. The Thrassian Plague, which decimated Tamriel's population in the year 2260 of the First Era, was their most egregious attack against the mainland, but other, subtler predations have also been recorded.\""
 msgstr "쓰라스의 손은 그들이 사는 땅보다 훨씬 멀리까지 느껴진다. 제1기 2260년 탐리엘의 인구를 격감시킨 쓰라시안 역병은 본토를 향해 벌어진 가장 지독한 공격이다. 하지만 보다 알아채기 어려운 소규모의 공격도 기록되어 있다."
 
 #: 162658389-0-1030
@@ -6493,8 +6491,8 @@ msgstr "리프트 (The Rift)"
 
 #: 70901198-0-1029
 msgctxt "70901198-0-1029"
-msgid "High Elves are used to magic, so the misdirection spells wreathing the woods of Ebon Stadmont are regarded by the locals as a sort of amusing curiosity. There's talk of an "Ebon Sanctum" hidden somewhere within, but no one really believes in it."
-msgstr "하이 엘프들은 마법을 사용하는데 능숙합니다, 그래서 서머셋 주민들은 일그러진 마법으로 둘러 쌓인 에본 스태드몬트의 숲도 재미있고 특이한 장소의 하나로만 여깁니다. 숲의 안쪽에 "에본 성소"라는 곳이 숨겨져 있다고 이야기들 하지만, 그 누구도 그것이 사실이라고 믿지않습니다."
+msgid "High Elves are used to magic, so the misdirection spells wreathing the woods of Ebon Stadmont are regarded by the locals as a sort of amusing curiosity. There's talk of an \"Ebon Sanctum\" hidden somewhere within, but no one really believes in it."
+msgstr "하이 엘프들은 마법을 사용하는데 능숙합니다, 그래서 서머셋 주민들은 일그러진 마법으로 둘러 쌓인 에본 스태드몬트의 숲도 재미있고 특이한 장소의 하나로만 여깁니다. 숲의 안쪽에 \"에본 성소\"라는 곳이 숨겨져 있다고 이야기들 하지만, 그 누구도 그것이 사실이라고 믿지않습니다."
 
 #: 162658389-0-1029
 msgctxt "162658389-0-1029"
@@ -6513,8 +6511,8 @@ msgstr "알리노어 무법자의 은신처 (Alinor Outlaws Refuge)"
 
 #: 70901198-0-1027
 msgctxt "70901198-0-1027"
-msgid ""Misty hollows filled with gregarious nixads. Hidden lagoons containing singing waters, clear as fresh-blown glass. Flowers that whispered secrets when the wind blew, and stones with names too long for mortal tongues to speak. Such was the island of Artaeum." —Vanus Galerion"
-msgstr ""떼지어 사는 닉사드로 가득한 안개낀 분지. 갓 피어난 풀처럼 맑게 노래하는 물이 담긴 숨겨진 석호. 바람이 불 때면 비밀을 속삭이던 꽃과 필멸자의 언어로 말하기엔 너무나도 긴 이름을 가진 돌. 아르테움 섬은 그런 곳이었다." —바누스 갈레리온"
+msgid "\"Misty hollows filled with gregarious nixads. Hidden lagoons containing singing waters, clear as fresh-blown glass. Flowers that whispered secrets when the wind blew, and stones with names too long for mortal tongues to speak. Such was the island of Artaeum.\" —Vanus Galerion"
+msgstr "\"떼지어 사는 닉사드로 가득한 안개낀 분지. 갓 피어난 풀처럼 맑게 노래하는 물이 담긴 숨겨진 석호. 바람이 불 때면 비밀을 속삭이던 꽃과 필멸자의 언어로 말하기엔 너무나도 긴 이름을 가진 돌. 아르테움 섬은 그런 곳이었다.\" —바누스 갈레리온"
 
 #: 162658389-0-1027
 msgctxt "162658389-0-1027"
@@ -6523,8 +6521,8 @@ msgstr "아르테움 (Artaeum)"
 
 #: 70901198-0-1026
 msgctxt "70901198-0-1026"
-msgid ""Then so ashamed was Kinlady Heinarwe by her transgression with King Orgnum that she forsook name, title, and clan, banished all family and servants from the halls of her palace, snuffed every candle and chandelier, and withdrew, alone, into her vaults." —The Infamy of Heinarwe"
-msgstr ""킨레이디 헤이날웨는 오르그눔 왕에 대한 월권을 부끄러워하며 이름, 칭호, 부족을 버리고 궁전에서 모든 가족과 하인들을 내쫓고 촛불과 샹들리에를 끄고 자기 자신의 지하실에 틀어박혔다" - 헤이널웨의 악명."
+msgid "\"Then so ashamed was Kinlady Heinarwe by her transgression with King Orgnum that she forsook name, title, and clan, banished all family and servants from the halls of her palace, snuffed every candle and chandelier, and withdrew, alone, into her vaults.\" —The Infamy of Heinarwe"
+msgstr "\"킨레이디 헤이날웨는 오르그눔 왕에 대한 월권을 부끄러워하며 이름, 칭호, 부족을 버리고 궁전에서 모든 가족과 하인들을 내쫓고 촛불과 샹들리에를 끄고 자기 자신의 지하실에 틀어박혔다\" - 헤이널웨의 악명."
 
 #: 162658389-0-1026
 msgctxt "162658389-0-1026"
@@ -6583,8 +6581,8 @@ msgstr "선홀드 (Sunhold)"
 
 #: 70901198-0-1020
 msgctxt "70901198-0-1020"
-msgid ""The most rigid and hidebound societies conceal the most illicit activity just below the surface. If you have tariffs and duties, you also will have smugglers who evade them. If one squeezes hard on a bladder wine-sack, the wine must spurt out somewhere, yes?" —Razum-dar"
-msgstr ""가장 융통성 없고 완고한 사회가 그 표면 바로 아래에 가장 불법적인 활동을 은폐하는 법이지. 관세와 세금이 있다면, 그것들을 회피할 밀수꾼들도 있을 거야. 누군가 방광으로 된 와인 자루를 세게 누르면, 와인이 어딘가에서 튀어 나오겠지, 응?" —라줌-다르"
+msgid "\"The most rigid and hidebound societies conceal the most illicit activity just below the surface. If you have tariffs and duties, you also will have smugglers who evade them. If one squeezes hard on a bladder wine-sack, the wine must spurt out somewhere, yes?\" —Razum-dar"
+msgstr "\"가장 융통성 없고 완고한 사회가 그 표면 바로 아래에 가장 불법적인 활동을 은폐하는 법이지. 관세와 세금이 있다면, 그것들을 회피할 밀수꾼들도 있을 거야. 누군가 방광으로 된 와인 자루를 세게 누르면, 와인이 어딘가에서 튀어 나오겠지, 응?\" —라줌-다르"
 
 #: 162658389-0-1020
 msgctxt "162658389-0-1020"
@@ -6613,8 +6611,8 @@ msgstr "왕의 안식처 통로 (King's Haven Pass)"
 
 #: 70901198-0-1017
 msgctxt "70901198-0-1017"
-msgid ""Archon's Grove? Indeed, that's the site where the legendary poet Nenamil, Archon of Song, discovered and named the Rose-of-Archon, the flower precious to the Goddess Mara. It's said to be southwest of Shimmerene somewhere." —Innkeeper Vintenwen"
-msgstr ""집정관의 숲은 사실 전설적인 시인이자 노래의 집정관인 네나밀이 여신 마라에게 소중한 꽃인 집정관의 장미를 발견하고 명명했으며, 쉬머린의 남서부 어딘가에 있는 곳이라고 합니다." - 여관 지배인 빈텐웬"
+msgid "\"Archon's Grove? Indeed, that's the site where the legendary poet Nenamil, Archon of Song, discovered and named the Rose-of-Archon, the flower precious to the Goddess Mara. It's said to be southwest of Shimmerene somewhere.\" —Innkeeper Vintenwen"
+msgstr "\"집정관의 숲은 사실 전설적인 시인이자 노래의 집정관인 네나밀이 여신 마라에게 소중한 꽃인 집정관의 장미를 발견하고 명명했으며, 쉬머린의 남서부 어딘가에 있는 곳이라고 합니다.\" - 여관 지배인 빈텐웬"
 
 #: 162658389-0-1017
 msgctxt "162658389-0-1017"
@@ -6654,8 +6652,9 @@ msgstr "토-헤임-카드 (Tor-Hame-Khard)"
 #: 70901198-0-1013
 msgctxt "70901198-0-1013"
 msgid "Presumably, this is where the scholars of the old Eldbur Monastery gathered for meditation and reflection. It looks like it, anyway, but something doesn't feel right …."
-msgstr "아마도, 이곳은 옛 엘드버 수도원의 학자들이 명상과 성찰을 위해 모인 장소입니다. "
-"\n그것은 어쨌든 그런것 처럼 보이지만, 뭔가 옳다고 느껴지지지 않습니다 ...."
+msgstr ""
+"아마도, 이곳은 옛 엘드버 수도원의 학자들이 명상과 성찰을 위해 모인 장소입니다. \n"
+"그것은 어쨌든 그런것 처럼 보이지만, 뭔가 옳다고 느껴지지지 않습니다 ...."
 
 #: 162658389-0-1013
 msgctxt "162658389-0-1013"
@@ -6664,8 +6663,8 @@ msgstr "엘드버 성역 (Eldbur Sanctuary)"
 
 #: 70901198-0-1012
 msgctxt "70901198-0-1012"
-msgid ""Mephala! In Oblivion you keep your secrets, and the secrets of all those entangled in your webs of subterfuge and semblance. The Spiral Skein is your realm." —The Derisive Necromite"
-msgstr ""메팔라여! 당신은 오블리비언에서 당신의 비밀과 당신의 속임수와 겉치레의 그물에 얽힌 모든 비밀을 지킨다. 나선 실타래는 당신의 영역이다" — 조롱의 사령술 추봉자"
+msgid "\"Mephala! In Oblivion you keep your secrets, and the secrets of all those entangled in your webs of subterfuge and semblance. The Spiral Skein is your realm.\" —The Derisive Necromite"
+msgstr "\"메팔라여! 당신은 오블리비언에서 당신의 비밀과 당신의 속임수와 겉치레의 그물에 얽힌 모든 비밀을 지킨다. 나선 실타래는 당신의 영역이다\" — 조롱의 사령술 추봉자"
 
 #: 162658389-0-1012
 msgctxt "162658389-0-1012"
@@ -6674,8 +6673,8 @@ msgstr "나선 실타래 (The Spiral Skein)"
 
 #: 70901198-0-1011
 msgctxt "70901198-0-1011"
-msgid ""The land called Summerset is the birthplace of civilization and magic as we know it in Tamriel. On its idyllic sea-kissed shores live the Altmer, the High Elves.""
-msgstr ""서머셋이라고 불리는 땅은 문명과 마법의 탄생지이며, 우리가 이미 알고 있듯이 탐리엘에 위치하고 있습니다. 그곳의 목가적인 바다로 둘러싸인 해안가에는 알트머 즉, 하이 엘프가 살고 있습니다.""
+msgid "\"The land called Summerset is the birthplace of civilization and magic as we know it in Tamriel. On its idyllic sea-kissed shores live the Altmer, the High Elves.\""
+msgstr "\"서머셋이라고 불리는 땅은 문명과 마법의 탄생지이며, 우리가 이미 알고 있듯이 탐리엘에 위치하고 있습니다. 그곳의 목가적인 바다로 둘러싸인 해안가에는 알트머 즉, 하이 엘프가 살고 있습니다.\""
 
 #: 162658389-0-1011
 msgctxt "162658389-0-1011"
@@ -6694,8 +6693,8 @@ msgstr "비늘 소환자 봉우리 (Scalecaller Peak)"
 
 #: 70901198-0-101
 msgctxt "70901198-0-101"
-msgid "One of the "Old Holds," Eastmarch was among the first regions of Skyrim settled by the Nords when they arrived from Atmora. Its capital, Windhelm, is the oldest continuously inhabited human settlement in Tamriel, and was founded by Ysgramor himself."
-msgstr ""옛 영지"들 중 하나인 이스트마치는 아트모라에서 도착한 노드들이 처음으로 정착한 지역입니다. 이 지역의 수도인 윈드헬름은 탐리엘에서 인간이 계속 거주해 온 가장 오래된 정착지입니다. 그리고 이스그라모르 본인이 건립한 도시이기도 하죠."
+msgid "One of the \"Old Holds,\" Eastmarch was among the first regions of Skyrim settled by the Nords when they arrived from Atmora. Its capital, Windhelm, is the oldest continuously inhabited human settlement in Tamriel, and was founded by Ysgramor himself."
+msgstr "\"옛 영지\"들 중 하나인 이스트마치는 아트모라에서 도착한 노드들이 처음으로 정착한 지역입니다. 이 지역의 수도인 윈드헬름은 탐리엘에서 인간이 계속 거주해 온 가장 오래된 정착지입니다. 그리고 이스그라모르 본인이 건립한 도시이기도 하죠."
 
 #: 162658389-0-101
 msgctxt "162658389-0-101"
@@ -6764,7 +6763,8 @@ msgstr "서비플룸 (Serviflume)"
 
 #: 70901198-0-1000
 msgctxt "70901198-0-1000"
-msgid ""Sotha Sil is rumored to have been the one to reverse engineer the Soul Gems in order to create Black Soul Gems. When he began this process, he used three Dunmer Saints for experiments to see if he could grant everlasting life. Three mechanical creations were made to house the souls of these saints."
+msgid ""
+"\"Sotha Sil is rumored to have been the one to reverse engineer the Soul Gems in order to create Black Soul Gems. When he began this process, he used three Dunmer Saints for experiments to see if he could grant everlasting life. Three mechanical creations were made to house the souls of these saints."
 msgstr "소사 실이 검은 영혼석을  만들기위해 영혼석을 역설계한다는 소문이 돌았습니다. 그가 이 과정을 시작했을 때, 그는 영원한 생명을 부여할 수 있는지 보려 실험을 위해 3명의 던머 성도를 이용했습니다. 이 성도들의 영혼을 수용하기 위해 세 가지 기계 창조물이 만들어졌습니다."
 
 #: 162658389-0-1000
@@ -6924,8 +6924,8 @@ msgstr "도적 20"
 
 #: 70901198-0-780
 msgctxt "70901198-0-780"
-msgid "Even in a newly rebuilt city, a perfectly good cistern can be "forgotten" by the public works department if enough gold is placed in the right pockets."
-msgstr "새로운 재건된 거리조차 충분한 골드가 적절한 인물의 주머니에 들어가 버리면 저수지 건설은 공공 사업부에 의해서 완벽하게 " 잊혀져" 버립니다."
+msgid "Even in a newly rebuilt city, a perfectly good cistern can be \"forgotten\" by the public works department if enough gold is placed in the right pockets."
+msgstr "새로운 재건된 거리조차 충분한 골드가 적절한 인물의 주머니에 들어가 버리면 저수지 건설은 공공 사업부에 의해서 완벽하게 \" 잊혀져\" 버립니다."
 
 #: 162658389-0-778
 msgctxt "162658389-0-778"
@@ -6969,5 +6969,5 @@ msgstr "한 때 예언자는 생기 넘치고 건장한 남자였습니다. 끔�
 
 #: 70901198-0-11
 msgctxt "70901198-0-11"
-msgid "The Vaults of Madness are the masterpiece of the infamous Mad Architect, who is said to be one of the few entities ever to serve multiple Daedric Princes and profit from it. How he is paid for his "services" is a matter of wild and horrible conjecture."
+msgid "The Vaults of Madness are the masterpiece of the infamous Mad Architect, who is said to be one of the few entities ever to serve multiple Daedric Princes and profit from it. How he is paid for his \"services\" is a matter of wild and horrible conjecture."
 msgstr "광기의 지하실은 악명 높은 미친 건축가의 대작입니다. 이 미친 건축가는 여러 데이드릭 프린스를 섬기고 그로부터 이익을 얻는 몇 안되는 독립체입니다. 그가 어떻게 대가를 받는지는 터무니없고 끔찍한 문제입니다."
