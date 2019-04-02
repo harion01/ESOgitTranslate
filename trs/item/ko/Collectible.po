@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:18+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 228378404-0-94245
 msgctxt "228378404-0-94245"
@@ -782,7 +775,7 @@ msgstr ""
 
 #: 228378404-0-54226
 msgctxt "228378404-0-54226"
-msgid "Striated with multi-hued crystal, the head-sized core of the slain gargoyle stretches the definition of the word "heart"."
+msgid "Striated with multi-hued crystal, the head-sized core of the slain gargoyle stretches the definition of the word \"heart\"."
 msgstr ""
 
 #: 242841733-0-54226
@@ -1238,8 +1231,7 @@ msgstr ""
 #: 242841733-0-45511
 msgctxt "242841733-0-45511"
 msgid "opah"
-msgstr "빨간 개복치(Opah)"
-"\n"
+msgstr "빨간 개복치(Opah)\n"
 
 #: 228378404-0-45510
 msgctxt "228378404-0-45510"
@@ -2839,8 +2831,7 @@ msgstr ""
 #: 242841733-0-42918
 msgctxt "242841733-0-42918"
 msgid "blue monkfish"
-msgstr "푸른 아귀"
-"\n"
+msgstr "푸른 아귀\n"
 
 #: 228378404-0-42917
 msgctxt "228378404-0-42917"
@@ -2910,8 +2901,7 @@ msgstr ""
 #: 242841733-0-42911
 msgctxt "242841733-0-42911"
 msgid "Desert Pupfish"
-msgstr "사막 어피"
-"\n"
+msgstr "사막 어피\n"
 
 #: 228378404-0-42910
 msgctxt "228378404-0-42910"

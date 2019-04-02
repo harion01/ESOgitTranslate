@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:24+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 242841733-0-96968
 msgctxt "242841733-0-96968"
@@ -62,8 +55,8 @@ msgstr "조리법: 베스닉 두 배 혼합 에일(Betnikh Twice-Spiked Ale)"
 
 #: 242841733-0-96964
 msgctxt "242841733-0-96964"
-msgid "Recipe: Jagga-Drenched "Mud Ball""
-msgstr "조리법: 자가에 흠뻑 적신 "진흙공""
+msgid "Recipe: Jagga-Drenched \"Mud Ball\""
+msgstr "조리법: 자가에 흠뻑 적신 \"진흙공\""
 
 #: 242841733-0-96963
 msgctxt "242841733-0-96963"
@@ -117,7 +110,7 @@ msgstr "조리법: 마녀어미의 잔치 펀치 (Witchmother's Party Punch)"
 
 #: 242841733-0-87684
 msgctxt "242841733-0-87684"
-msgid "Recipe: Bowl of "Peeled Eyeballs""
+msgid "Recipe: Bowl of \"Peeled Eyeballs\""
 msgstr ""
 
 #: 242841733-0-87683
@@ -4107,7 +4100,7 @@ msgstr ""
 
 #: 242841733-0-134987
 msgctxt "242841733-0-134987"
-msgid "Blueprint: Hlaalu Gaming Table, "Foxes & Felines""
+msgid "Blueprint: Hlaalu Gaming Table, \"Foxes & Felines\""
 msgstr ""
 
 #: 242841733-0-134986

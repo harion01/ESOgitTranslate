@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:19+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 228378404-0-64222
 msgctxt "228378404-0-64222"
@@ -1062,7 +1055,7 @@ msgstr "서리 미리암"
 
 #: 228378404-0-120894
 msgctxt "228378404-0-120894"
-msgid "Used in crafting animated objects, such as "living" combat dummies."
+msgid "Used in crafting animated objects, such as \"living\" combat dummies."
 msgstr ""
 
 #: 242841733-0-120894
@@ -1072,8 +1065,11 @@ msgstr "원한의 돌"
 
 #: 228378404-0-120078
 msgctxt "228378404-0-120078"
-msgid "-	Though Aetherial Dust can be used to open a person's eyes to untold experiences, its powers weaken over time. However, this Diminished Aetherial Dust still can be employed to craft standard Aetherial Ambrosia."
-msgstr "-   에테리얼 가루는 사람의 눈을 뜨이게 하여 말로 다 할수 없는 경험을 할 수 있게 해 주지만, 그 힘은 시간이 갈수록 약해집니다. 하지만 이 약화된 에테리얼 가루는 여전히 표준형 에테리얼 암브로시아를 만드는 데에 사용될 수 있습니다."
+msgid ""
+"-\tThough Aetherial Dust can be used to open a person's eyes to untold experiences, its powers weaken over time. However, this Diminished Aetherial Dust still can be employed to craft standard Aetherial Ambrosia."
+msgstr ""
+"-   에테리얼 가루는 사람의 눈을 뜨이게 하여 말로 다 할수 없는 경험을 할 수 있게 해 주지만, 그 힘은 시간이 갈수록 약해집니다. 하지만 이 약화된 에테리얼 가루는 여전히 표준형 에테리얼 암브로시아를 만드는 데에 사용될 수 "
+"있습니다."
 
 #: 242841733-0-120078
 msgctxt "242841733-0-120078"

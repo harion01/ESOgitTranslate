@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:20+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 70328405-0-98
 msgctxt "70328405-0-98"
@@ -117,22 +110,24 @@ msgstr "|cFFD700블랙 프라이데이 스페셜!|r"
 
 #: 263796174-0-89
 msgctxt "263796174-0-89"
-msgid "An 9,100 Crown Value for 1900 Crowns! Over |c76BCC375%|r off! |cFFFFFF"
-"\nZeht's Cloud Camel"
-"\n20 Crown Riding lessons"
-"\n10 Crown Tri-Restoration Potions"
-"\n10 Crown Fortifying Meals"
-"\n160 Crown Lethal Poisons"
-"\n20 Crown Soul Gems"
-"\n10 Experience Scrolls"
-msgstr "9,100 크라운어치 물건을 1,900 크라운에! 무려 |c76BCC375%|r 할인! |cFFFFFF"
-"\n제트의 구름 낙타"
-"\n크라운 탈것 훈련 20개"
-"\n크라운 Tri-Restoration 포션 10개"
-"\n크라운 강화 음식 10개"
-"\n크라운 치명적인 독 160개"
-"\n크라운 소울젬 20개"
-"\n경험치 두루마리 10개"
+msgid ""
+"An 9,100 Crown Value for 1900 Crowns! Over |c76BCC375%|r off! |cFFFFFF\n"
+"Zeht's Cloud Camel\n"
+"20 Crown Riding lessons\n"
+"10 Crown Tri-Restoration Potions\n"
+"10 Crown Fortifying Meals\n"
+"160 Crown Lethal Poisons\n"
+"20 Crown Soul Gems\n"
+"10 Experience Scrolls"
+msgstr ""
+"9,100 크라운어치 물건을 1,900 크라운에! 무려 |c76BCC375%|r 할인! |cFFFFFF\n"
+"제트의 구름 낙타\n"
+"크라운 탈것 훈련 20개\n"
+"크라운 Tri-Restoration 포션 10개\n"
+"크라운 강화 음식 10개\n"
+"크라운 치명적인 독 160개\n"
+"크라운 소울젬 20개\n"
+"경험치 두루마리 10개"
 
 #: 70328405-0-88
 msgctxt "70328405-0-88"
@@ -452,7 +447,9 @@ msgstr "도둑 길드"
 #: 263796174-0-53
 msgctxt "263796174-0-53"
 msgid "Join the Thieves Guild in Hew's Bane, a never-before-seen area of Hammerfell! Explore Abah's Landing, a decadent port town ruled by corrupt merchant lords, who struggle with the Thieves Guild for power. New stories, delves, group bosses, and much more!"
-msgstr "해머펠 중에서 한 번도 밝혀진 적이 없었던 휴의 파멸 지역에서 도둑 길드에 가입하세요! 아바의 상륙지, 그리고 권력을 위해 도둑 길드와 싸우는 타락한 상인 군주들에게 지배받는 퇴폐적인 항구 마을을 탐험하세요. 새로운 이야기, 델브, 그룹 보스들, 그 외에도 훨씬 많은 것이 있습니다!"
+msgstr ""
+"해머펠 중에서 한 번도 밝혀진 적이 없었던 휴의 파멸 지역에서 도둑 길드에 가입하세요! 아바의 상륙지, 그리고 권력을 위해 도둑 길드와 싸우는 타락한 상인 군주들에게 지배받는 퇴폐적인 항구 마을을 탐험하세요. 새로운 이야기, 델브, 그룹 보스들, 그 외에도 훨씬 많은 것이 "
+"있습니다!"
 
 #: 70328405-0-52
 msgctxt "70328405-0-52"
@@ -461,22 +458,24 @@ msgstr "|cFFD700블랙 프라이데이 스페셜!|r"
 
 #: 263796174-0-52
 msgctxt "263796174-0-52"
-msgid "|cFFFFFFAn 8,100 Crown Value for 1,900 Crowns! Over|r |c76BCC375%|r |cFFFFFFoff!|r"
-"\n Green Narsis Guar mount"
-"\n 10 Experience Scrolls"
-"\n 10 Riding Speed Lessons"
-"\n 10 Riding Capacity Lessons"
-"\n 10 Fortifying Meals"
-"\n 10 Soul Gems"
-"\n 50 Tri-Restoration Potions"
-msgstr "|cFFFFFFAn 8,100 크라운 가격을 1,900 크라운에! |r |c76BCC375%|r |cFFFFFF할인!|r"
-"\n녹색 나르시스 구아 탈것"
-"\n경험치 두루마리 10개"
-"\n탈것 속도 훈련 10"
-"\n탈것 인벤토리 훈련 10"
-"\n강화 음식 10개"
-"\n소울젬 10개"
-"\nTri-Restoration 포션 50개"
+msgid ""
+"|cFFFFFFAn 8,100 Crown Value for 1,900 Crowns! Over|r |c76BCC375%|r |cFFFFFFoff!|r\n"
+" Green Narsis Guar mount\n"
+" 10 Experience Scrolls\n"
+" 10 Riding Speed Lessons\n"
+" 10 Riding Capacity Lessons\n"
+" 10 Fortifying Meals\n"
+" 10 Soul Gems\n"
+" 50 Tri-Restoration Potions"
+msgstr ""
+"|cFFFFFFAn 8,100 크라운 가격을 1,900 크라운에! |r |c76BCC375%|r |cFFFFFF할인!|r\n"
+"녹색 나르시스 구아 탈것\n"
+"경험치 두루마리 10개\n"
+"탈것 속도 훈련 10\n"
+"탈것 인벤토리 훈련 10\n"
+"강화 음식 10개\n"
+"소울젬 10개\n"
+"Tri-Restoration 포션 50개"
 
 #: 70328405-0-51
 msgctxt "70328405-0-51"
@@ -595,12 +594,14 @@ msgstr "임페리얼 시티"
 
 #: 263796174-0-41
 msgctxt "263796174-0-41"
-msgid "Daedric forces have taken the Imperial City, and all three alliances vie to take it back. Experience all-new PvP and PvE gameplay, plus two new dungeons, never-before-seen monsters, craftable item sets, and more!"
+msgid ""
+"Daedric forces have taken the Imperial City, and all three alliances vie to take it back. Experience all-new PvP and PvE gameplay, plus two new dungeons, never-before-seen monsters, craftable item sets, and more!\n"
 "\n"
-"\nCharacter must be level 10 to participate."
-msgstr "데이드릭 군대가 임페리얼 시티를 점령하여, 세 진영들이 이를 탈환하기 위해 경쟁합니다. 완전히 새로운 PvP와 PvE게임플레이, 2개의 새로운 던전, 이전에 볼 수 없었던 괴물들, 제작 가능한 아이템 세트,  그리고 더, 이 모든 것을 경험하세요!"
+"Character must be level 10 to participate."
+msgstr ""
+"데이드릭 군대가 임페리얼 시티를 점령하여, 세 진영들이 이를 탈환하기 위해 경쟁합니다. 완전히 새로운 PvP와 PvE게임플레이, 2개의 새로운 던전, 이전에 볼 수 없었던 괴물들, 제작 가능한 아이템 세트,  그리고 더, 이 모든 것을 경험하세요!\n"
 "\n"
-"\n참여하기 위해서는 캐릭터의 레벨이 10 이상이어야 합니다."
+"참여하기 위해서는 캐릭터의 레벨이 10 이상이어야 합니다."
 
 #: 70328405-0-40
 msgctxt "70328405-0-40"
@@ -709,11 +710,12 @@ msgstr ""
 
 #: 263796174-0-309
 msgctxt "263796174-0-309"
-msgid ""In the Deep Halls, Far from Men"
-"\nForsaken Red Mountain, Twisted Kin"
-"\nHail the Mind, Hail the Stone"
-"\nDwarven Pride, Stronger than Bone""
-"\n- Dwemer Inquiries I-III, Thelwe Ghelein"
+msgid ""
+"\"In the Deep Halls, Far from Men\n"
+"Forsaken Red Mountain, Twisted Kin\n"
+"Hail the Mind, Hail the Stone\n"
+"Dwarven Pride, Stronger than Bone\"\n"
+"- Dwemer Inquiries I-III, Thelwe Ghelein"
 msgstr ""
 
 #: 70328405-0-308
@@ -793,9 +795,10 @@ msgstr ""
 
 #: 263796174-0-300
 msgctxt "263796174-0-300"
-msgid "A collection of 3 Elsweyr Treasure Maps."
+msgid ""
+"A collection of 3 Elsweyr Treasure Maps.\n"
 "\n"
-"\n|c22ADDCThis is a pre-order bonus item|r"
+"|c22ADDCThis is a pre-order bonus item|r"
 msgstr ""
 
 #: 70328405-0-30
@@ -835,14 +838,15 @@ msgstr ""
 
 #: 263796174-0-297
 msgctxt "263796174-0-297"
-msgid "|cFFFFFFAn 8,100 Crown Value for 1,900 Crowns! Over|r |c76BCC375%|r |cFFFFFFoff!|r"
-"\n Black Fredas Soot Stallion mount"
-"\n 10 Experience Scrolls"
-"\n 10 Riding Speed Lessons"
-"\n 10 Riding Capacity Lessons"
-"\n 10 Fortifying Meals"
-"\n 10 Soul Gems"
-"\n 50 Tri-Restoration Potions"
+msgid ""
+"|cFFFFFFAn 8,100 Crown Value for 1,900 Crowns! Over|r |c76BCC375%|r |cFFFFFFoff!|r\n"
+" Black Fredas Soot Stallion mount\n"
+" 10 Experience Scrolls\n"
+" 10 Riding Speed Lessons\n"
+" 10 Riding Capacity Lessons\n"
+" 10 Fortifying Meals\n"
+" 10 Soul Gems\n"
+" 50 Tri-Restoration Potions"
 msgstr ""
 
 #: 70328405-0-296
@@ -1012,10 +1016,11 @@ msgstr ""
 
 #: 263796174-0-270
 msgctxt "263796174-0-270"
-msgid "Lanterns lure and pumpkins trip"
-"\nWebs ensnare and grave hands grip"
-"\nCrows will mock as wraith-scythes hack"
-"\nAll in thrall to Hollowjack!"
+msgid ""
+"Lanterns lure and pumpkins trip\n"
+"Webs ensnare and grave hands grip\n"
+"Crows will mock as wraith-scythes hack\n"
+"All in thrall to Hollowjack!"
 msgstr ""
 
 #: 70328405-0-27
@@ -1205,9 +1210,10 @@ msgstr ""
 
 #: 263796174-0-252
 msgctxt "263796174-0-252"
-msgid "Includes all the bonus content of the Summerset Digital Collector's Edition, as well as the Summerset pre-order digital items."
+msgid ""
+"Includes all the bonus content of the Summerset Digital Collector's Edition, as well as the Summerset pre-order digital items.\n"
 "\n"
-"\n|cFFFFFFDoes not include the Summerset Chapter"
+"|cFFFFFFDoes not include the Summerset Chapter"
 msgstr ""
 
 #: 70328405-0-251
@@ -1487,12 +1493,14 @@ msgstr "모로윈드 콜렉터 팩"
 
 #: 263796174-0-201
 msgctxt "263796174-0-201"
-msgid "Includes all the bonus content of the Morrowind Digital Collector's Edition, as well as the Morrowind pre-order digital items."
+msgid ""
+"Includes all the bonus content of the Morrowind Digital Collector's Edition, as well as the Morrowind pre-order digital items.\n"
 "\n"
-"\n|cFFFFFFDoes not include the Morrowind DLC.|r"
-msgstr "모로윈드 디지털 콜렉터 에디션의 모든 보너스 콘텐츠가 포함되어 있으며, 모로윈드 사전 예약 디지털 아이템도 포함되어 있습니다."
+"|cFFFFFFDoes not include the Morrowind DLC.|r"
+msgstr ""
+"모로윈드 디지털 콜렉터 에디션의 모든 보너스 콘텐츠가 포함되어 있으며, 모로윈드 사전 예약 디지털 아이템도 포함되어 있습니다.\n"
 "\n"
-"\n|cFFFFFF모로윈드 DLC는 포함되어 있지 않습니다.|r"
+"|cFFFFFF모로윈드 DLC는 포함되어 있지 않습니다.|r"
 
 #: 70328405-0-20
 msgctxt "70328405-0-20"
@@ -1521,9 +1529,10 @@ msgstr ""
 
 #: 263796174-0-199
 msgctxt "263796174-0-199"
-msgid "Celebrate your victory in the battlegrounds with this bundle of exclusive emotes."
+msgid ""
+"Celebrate your victory in the battlegrounds with this bundle of exclusive emotes.\n"
 "\n"
-"\n|c22ADDCIncludes /kissthis, /bellylaugh, /goquietly, and /teatime|r"
+"|c22ADDCIncludes /kissthis, /bellylaugh, /goquietly, and /teatime|r"
 msgstr ""
 
 #: 70328405-0-198
@@ -1533,9 +1542,10 @@ msgstr ""
 
 #: 263796174-0-198
 msgctxt "263796174-0-198"
-msgid "This bundle includes the Happy Face, Sad Face, and Ta-Dah! emotes."
+msgid ""
+"This bundle includes the Happy Face, Sad Face, and Ta-Dah! emotes.\n"
 "\n"
-"\n|c22ADDCIncludes /happy, /sad and /tadah|r"
+"|c22ADDCIncludes /happy, /sad and /tadah|r"
 msgstr ""
 
 #: 70328405-0-197
@@ -1585,7 +1595,7 @@ msgstr ""
 
 #: 263796174-0-192
 msgctxt "263796174-0-192"
-msgid "The Lady of Love, Art, and Affection teaches us to treasure the gifts of friendship and to open our hearts to the mysteries of love. In her divine words, "No matter the seed, if the shoot is nurtured with love, will not the flower be beautiful?""
+msgid "The Lady of Love, Art, and Affection teaches us to treasure the gifts of friendship and to open our hearts to the mysteries of love. In her divine words, \"No matter the seed, if the shoot is nurtured with love, will not the flower be beautiful?\""
 msgstr ""
 
 #: 70328405-0-191
@@ -1725,14 +1735,15 @@ msgstr ""
 
 #: 263796174-0-179
 msgctxt "263796174-0-179"
-msgid "|cFFFFFFAn 8,100 Crown Value for 1,900 Crowns! Over|r |c76BCC375%|r |cFFFFFFoff!|r"
-"\n Tuxedo Bear mount"
-"\n 10 Experience Scrolls"
-"\n 10 Riding Speed Lessons"
-"\n 10 Riding Capacity Lessons"
-"\n 10 Fortifying Meals"
-"\n 10 Soul Gems"
-"\n 50 Tri-Restoration Potions"
+msgid ""
+"|cFFFFFFAn 8,100 Crown Value for 1,900 Crowns! Over|r |c76BCC375%|r |cFFFFFFoff!|r\n"
+" Tuxedo Bear mount\n"
+" 10 Experience Scrolls\n"
+" 10 Riding Speed Lessons\n"
+" 10 Riding Capacity Lessons\n"
+" 10 Fortifying Meals\n"
+" 10 Soul Gems\n"
+" 50 Tri-Restoration Potions"
 msgstr ""
 
 #: 70328405-0-178
@@ -2242,7 +2253,7 @@ msgstr ""
 
 #: 263796174-0-130
 msgctxt "263796174-0-130"
-msgid ""This one advises you to purchase these quality bedroom furnishings acquired off a cart at a five-claw discount. Sweet price, yes?""
+msgid "\"This one advises you to purchase these quality bedroom furnishings acquired off a cart at a five-claw discount. Sweet price, yes?\""
 msgstr ""
 
 #: 70328405-0-13
@@ -2272,7 +2283,7 @@ msgstr ""
 
 #: 263796174-0-128
 msgctxt "263796174-0-128"
-msgid ""This is not a complete collection of fine furnishings for a Khajiiti home, no." —M'aiq the Liar"
+msgid "\"This is not a complete collection of fine furnishings for a Khajiiti home, no.\" —M'aiq the Liar"
 msgstr ""
 
 #: 70328405-0-127

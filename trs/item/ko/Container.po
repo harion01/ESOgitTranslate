@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:18+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 228378404-0-99282
 msgctxt "228378404-0-99282"
@@ -4607,7 +4600,7 @@ msgstr ""
 
 #: 242841733-0-147487
 msgctxt "242841733-0-147487"
-msgid "Bound Style Page: Cadwell's "Sword""
+msgid "Bound Style Page: Cadwell's \"Sword\""
 msgstr ""
 
 #: 228378404-0-147486
@@ -4617,7 +4610,7 @@ msgstr ""
 
 #: 242841733-0-147486
 msgctxt "242841733-0-147486"
-msgid "Bound Style Page: Cadwell's "Staff""
+msgid "Bound Style Page: Cadwell's \"Staff\""
 msgstr ""
 
 #: 228378404-0-147485
@@ -4627,7 +4620,7 @@ msgstr ""
 
 #: 242841733-0-147485
 msgctxt "242841733-0-147485"
-msgid "Bound Style Page: Cadwell's "Shield""
+msgid "Bound Style Page: Cadwell's \"Shield\""
 msgstr ""
 
 #: 228378404-0-147484
@@ -4637,7 +4630,7 @@ msgstr ""
 
 #: 242841733-0-147484
 msgctxt "242841733-0-147484"
-msgid "Bound Style Page: Cadwell's "Mace""
+msgid "Bound Style Page: Cadwell's \"Mace\""
 msgstr ""
 
 #: 228378404-0-147483
@@ -4647,7 +4640,7 @@ msgstr ""
 
 #: 242841733-0-147483
 msgctxt "242841733-0-147483"
-msgid "Bound Style Page: Cadwell's "Dagger""
+msgid "Bound Style Page: Cadwell's \"Dagger\""
 msgstr ""
 
 #: 228378404-0-147482
@@ -4657,7 +4650,7 @@ msgstr ""
 
 #: 242841733-0-147482
 msgctxt "242841733-0-147482"
-msgid "Bound Style Page: Cadwell's "Bow""
+msgid "Bound Style Page: Cadwell's \"Bow\""
 msgstr ""
 
 #: 228378404-0-147481
@@ -4667,7 +4660,7 @@ msgstr ""
 
 #: 242841733-0-147481
 msgctxt "242841733-0-147481"
-msgid "Bound Style Page: Cadwell's "Axe""
+msgid "Bound Style Page: Cadwell's \"Axe\""
 msgstr ""
 
 #: 228378404-0-147480
@@ -4677,7 +4670,7 @@ msgstr ""
 
 #: 242841733-0-147480
 msgctxt "242841733-0-147480"
-msgid "Bound Style Page: Cadwell's "Greatsword""
+msgid "Bound Style Page: Cadwell's \"Greatsword\""
 msgstr ""
 
 #: 228378404-0-147479
@@ -4687,7 +4680,7 @@ msgstr ""
 
 #: 242841733-0-147479
 msgctxt "242841733-0-147479"
-msgid "Bound Style Page: Cadwell's "Maul""
+msgid "Bound Style Page: Cadwell's \"Maul\""
 msgstr ""
 
 #: 228378404-0-147478
@@ -4697,7 +4690,7 @@ msgstr ""
 
 #: 242841733-0-147478
 msgctxt "242841733-0-147478"
-msgid "Bound Style Page: Cadwell's "Battle Axe""
+msgid "Bound Style Page: Cadwell's \"Battle Axe\""
 msgstr ""
 
 #: 228378404-0-147477
@@ -4717,7 +4710,7 @@ msgstr ""
 
 #: 242841733-0-147476
 msgctxt "242841733-0-147476"
-msgid "Style Page: Cadwell's "Sword""
+msgid "Style Page: Cadwell's \"Sword\""
 msgstr ""
 
 #: 228378404-0-147475
@@ -4727,7 +4720,7 @@ msgstr ""
 
 #: 242841733-0-147475
 msgctxt "242841733-0-147475"
-msgid "Style Page: Cadwell's "Staff""
+msgid "Style Page: Cadwell's \"Staff\""
 msgstr ""
 
 #: 228378404-0-147474
@@ -4737,7 +4730,7 @@ msgstr ""
 
 #: 242841733-0-147474
 msgctxt "242841733-0-147474"
-msgid "Style Page: Cadwell's "Shield""
+msgid "Style Page: Cadwell's \"Shield\""
 msgstr ""
 
 #: 228378404-0-147473
@@ -4747,7 +4740,7 @@ msgstr ""
 
 #: 242841733-0-147473
 msgctxt "242841733-0-147473"
-msgid "Style Page: Cadwell's "Mace""
+msgid "Style Page: Cadwell's \"Mace\""
 msgstr ""
 
 #: 228378404-0-147472
@@ -4757,7 +4750,7 @@ msgstr ""
 
 #: 242841733-0-147472
 msgctxt "242841733-0-147472"
-msgid "Style Page: Cadwell's "Dagger""
+msgid "Style Page: Cadwell's \"Dagger\""
 msgstr ""
 
 #: 228378404-0-147471
@@ -4767,7 +4760,7 @@ msgstr ""
 
 #: 242841733-0-147471
 msgctxt "242841733-0-147471"
-msgid "Style Page: Cadwell's "Bow""
+msgid "Style Page: Cadwell's \"Bow\""
 msgstr ""
 
 #: 228378404-0-147470
@@ -4777,7 +4770,7 @@ msgstr ""
 
 #: 242841733-0-147470
 msgctxt "242841733-0-147470"
-msgid "Style Page: Cadwell's "Axe""
+msgid "Style Page: Cadwell's \"Axe\""
 msgstr ""
 
 #: 228378404-0-147469
@@ -4787,7 +4780,7 @@ msgstr ""
 
 #: 242841733-0-147469
 msgctxt "242841733-0-147469"
-msgid "Style Page: Cadwell's "Greatsword""
+msgid "Style Page: Cadwell's \"Greatsword\""
 msgstr ""
 
 #: 228378404-0-147468
@@ -4797,7 +4790,7 @@ msgstr ""
 
 #: 242841733-0-147468
 msgctxt "242841733-0-147468"
-msgid "Style Page: Cadwell's "Maul""
+msgid "Style Page: Cadwell's \"Maul\""
 msgstr ""
 
 #: 228378404-0-147467
@@ -4807,7 +4800,7 @@ msgstr ""
 
 #: 242841733-0-147467
 msgctxt "242841733-0-147467"
-msgid "Style Page: Cadwell's "Battle Axe""
+msgid "Style Page: Cadwell's \"Battle Axe\""
 msgstr ""
 
 #: 228378404-0-147466
@@ -12042,7 +12035,7 @@ msgstr ""
 
 #: 228378404-0-120405
 msgctxt "228378404-0-120405"
-msgid "Mages Guild reprinting of the "Coldharbour Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Coldharbour Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120405
@@ -12052,7 +12045,7 @@ msgstr ""
 
 #: 228378404-0-120404
 msgctxt "228378404-0-120404"
-msgid "Mages Guild reprinting of the "Reaper's March Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Reaper's March Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120404
@@ -12062,7 +12055,7 @@ msgstr ""
 
 #: 228378404-0-120403
 msgctxt "228378404-0-120403"
-msgid "Mages Guild reprinting of the "Greenshade Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Greenshade Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120403
@@ -12072,7 +12065,7 @@ msgstr ""
 
 #: 228378404-0-120402
 msgctxt "228378404-0-120402"
-msgid "Mages Guild reprinting of the "Grahtwood Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Grahtwood Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120402
@@ -12082,7 +12075,7 @@ msgstr ""
 
 #: 228378404-0-120401
 msgctxt "228378404-0-120401"
-msgid "Mages Guild reprinting of the "Auridon Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Auridon Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120401
@@ -12092,7 +12085,7 @@ msgstr ""
 
 #: 228378404-0-120400
 msgctxt "228378404-0-120400"
-msgid "Mages Guild reprinting of the "The Rift Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"The Rift Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120400
@@ -12102,7 +12095,7 @@ msgstr ""
 
 #: 228378404-0-120399
 msgctxt "228378404-0-120399"
-msgid "Mages Guild reprinting of the "Deshaan Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Deshaan Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120399
@@ -12112,7 +12105,7 @@ msgstr ""
 
 #: 228378404-0-120398
 msgctxt "228378404-0-120398"
-msgid "Mages Guild reprinting of the "Eastmarch Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Eastmarch Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120398
@@ -12122,7 +12115,7 @@ msgstr ""
 
 #: 228378404-0-120397
 msgctxt "228378404-0-120397"
-msgid "Mages Guild reprinting of the "Malabal Tor Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Malabal Tor Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120397
@@ -12132,7 +12125,7 @@ msgstr ""
 
 #: 228378404-0-120396
 msgctxt "228378404-0-120396"
-msgid "Mages Guild reprinting of the "Stonefalls Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Stonefalls Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120396
@@ -12142,7 +12135,7 @@ msgstr ""
 
 #: 228378404-0-120395
 msgctxt "228378404-0-120395"
-msgid "Mages Guild reprinting of the "Tamriel History" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Tamriel History\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120395
@@ -12152,7 +12145,7 @@ msgstr ""
 
 #: 228378404-0-120394
 msgctxt "228378404-0-120394"
-msgid "Mages Guild reprinting of the "Poetry and Song" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Poetry and Song\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120394
@@ -12162,7 +12155,7 @@ msgstr ""
 
 #: 228378404-0-120393
 msgctxt "228378404-0-120393"
-msgid "Mages Guild reprinting of the "Oblivion Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Oblivion Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120393
@@ -12172,7 +12165,7 @@ msgstr ""
 
 #: 228378404-0-120392
 msgctxt "228378404-0-120392"
-msgid "Mages Guild reprinting of the "Myths of the Mundus" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Myths of the Mundus\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120392
@@ -12182,7 +12175,7 @@ msgstr ""
 
 #: 228378404-0-120391
 msgctxt "228378404-0-120391"
-msgid "Mages Guild reprinting of the "Magic and Magicka" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Magic and Magicka\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120391
@@ -12192,7 +12185,7 @@ msgstr ""
 
 #: 228378404-0-120390
 msgctxt "228378404-0-120390"
-msgid "Mages Guild reprinting of the "Literature" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Literature\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120390
@@ -12202,7 +12195,7 @@ msgstr ""
 
 #: 228378404-0-120389
 msgctxt "228378404-0-120389"
-msgid "Mages Guild reprinting of the "Legends of Nirn" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Legends of Nirn\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120389
@@ -12212,7 +12205,7 @@ msgstr ""
 
 #: 228378404-0-120388
 msgctxt "228378404-0-120388"
-msgid "Mages Guild reprinting of the "Dwemer" collection, in 16 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Dwemer\" collection, in 16 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120388
@@ -12222,7 +12215,7 @@ msgstr ""
 
 #: 228378404-0-120387
 msgctxt "228378404-0-120387"
-msgid "Mages Guild reprinting of the "Dungeon Lore" collection, in 17 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Dungeon Lore\" collection, in 17 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120387
@@ -12232,7 +12225,7 @@ msgstr ""
 
 #: 228378404-0-120386
 msgctxt "228378404-0-120386"
-msgid "Mages Guild reprinting of the "Divines and Deities" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Divines and Deities\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120386
@@ -12242,7 +12235,7 @@ msgstr ""
 
 #: 228378404-0-120385
 msgctxt "228378404-0-120385"
-msgid "Mages Guild reprinting of the "Biographies" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Biographies\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120385
@@ -12252,7 +12245,7 @@ msgstr ""
 
 #: 228378404-0-120384
 msgctxt "228378404-0-120384"
-msgid "Mages Guild reprinting of the "Daedric Princes" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Daedric Princes\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120384
@@ -12262,7 +12255,7 @@ msgstr ""
 
 #: 228378404-0-120383
 msgctxt "228378404-0-120383"
-msgid "Mages Guild reprinting of the "The Trial of Eyevea" collection, in 4 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"The Trial of Eyevea\" collection, in 4 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120383
@@ -12272,7 +12265,7 @@ msgstr ""
 
 #: 228378404-0-120382
 msgctxt "228378404-0-120382"
-msgid "Mages Guild reprinting of the "Shadowfen Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Shadowfen Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120382
@@ -12282,7 +12275,7 @@ msgstr ""
 
 #: 228378404-0-120381
 msgctxt "228378404-0-120381"
-msgid "Mages Guild reprinting of the "Alik'r Desert Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Alik'r Desert Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120381
@@ -12292,7 +12285,7 @@ msgstr ""
 
 #: 228378404-0-120380
 msgctxt "228378404-0-120380"
-msgid "Mages Guild reprinting of the "Bangkorai Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Bangkorai Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120380
@@ -12302,7 +12295,7 @@ msgstr ""
 
 #: 228378404-0-120379
 msgctxt "228378404-0-120379"
-msgid "Mages Guild reprinting of the "Rivenspire Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Rivenspire Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120379
@@ -12312,7 +12305,7 @@ msgstr ""
 
 #: 228378404-0-120378
 msgctxt "228378404-0-120378"
-msgid "Mages Guild reprinting of the "Stormhaven Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Stormhaven Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120378
@@ -12322,7 +12315,7 @@ msgstr ""
 
 #: 228378404-0-120377
 msgctxt "228378404-0-120377"
-msgid "Mages Guild reprinting of the "Glenumbra Lore" collection, in 10 individual books for use in personal libraries."
+msgid "Mages Guild reprinting of the \"Glenumbra Lore\" collection, in 10 individual books for use in personal libraries."
 msgstr ""
 
 #: 242841733-0-120377

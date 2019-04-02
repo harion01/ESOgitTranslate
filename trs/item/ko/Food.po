@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:19+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 228378404-0-94437
 msgctxt "228378404-0-94437"
@@ -147,7 +140,7 @@ msgstr "질척하고 악취나고 만지면 미지근함. 이걸 먹는다고 �
 
 #: 242841733-0-64403
 msgctxt "242841733-0-64403"
-msgid "Balithil's "Potato Porridge""
+msgid "Balithil's \"Potato Porridge\""
 msgstr "발리틸의 토마토 포리지."
 
 #: 242841733-0-61086
@@ -332,8 +325,8 @@ msgstr "크라운 전투 신비주의 스튜"
 
 #: 228378404-0-120764
 msgctxt "228378404-0-120764"
-msgid "Candy "gems" to fill you with vim and energy."
-msgstr "당신을 정력과 활기로 채워주는 "보석"사탕입니다."
+msgid "Candy \"gems\" to fill you with vim and energy."
+msgstr "당신을 정력과 활기로 채워주는 \"보석\"사탕입니다."
 
 #: 242841733-0-120764
 msgctxt "242841733-0-120764"
@@ -373,7 +366,9 @@ msgstr "하이 흐로쓰가 축제 박하사탕(High Hrothgar Festival Mints)"
 #: 228378404-0-112439
 msgctxt "228378404-0-112439"
 msgid "A hearty meat pie enjoyed during the New Life Festival. This Breton meal is served with a miniature bone sword cooked inside. Recovering the sword is said to grant the luck of Magnus—and an occasional cracked tooth."
-msgstr "새 생명 축제 기간에 즐겨 먹는 따뜻한 고기 파이입니다. 이 브레튼 음식은 안에 아주 작은 뼈로 만든 검을 집어넣고 만들어집니다. 그 검을 찾아내는 사람은 마그누스의 행운을 수여받는다고 하죠. 가끔은 금이 간 이빨도 함께 받는답니다."
+msgstr ""
+"새 생명 축제 기간에 즐겨 먹는 따뜻한 고기 파이입니다. 이 브레튼 음식은 안에 아주 작은 뼈로 만든 검을 집어넣고 만들어집니다. 그 검을 찾아내는 사람은 마그누스의 행운을 수여받는다고 하죠. 가끔은 금이 간 이빨도 함께 받는답니"
+"다."
 
 #: 242841733-0-112439
 msgctxt "242841733-0-112439"
@@ -407,8 +402,8 @@ msgstr "새 생명 축제 기간에 즐겨 먹는 후식입니다. 이 우드엘
 
 #: 242841733-0-112434
 msgctxt "242841733-0-112434"
-msgid "Jagga-Drenched "Mud Ball""
-msgstr "자가에 흠뻑 적신 "진흙공""
+msgid "Jagga-Drenched \"Mud Ball\""
+msgstr "자가에 흠뻑 적신 \"진흙공\""
 
 #: 228378404-0-112425
 msgctxt "228378404-0-112425"

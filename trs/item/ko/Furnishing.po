@@ -1,29 +1,22 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:19+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 228378404-0-94203
 msgctxt "228378404-0-94203"
 msgid "This is a large house item."
-msgstr ""
+msgstr "큰 크기의 하우징 아이템입니다."
 
 #: 242841733-0-94203
 msgctxt "242841733-0-94203"
@@ -1092,7 +1085,8 @@ msgstr ""
 
 #: 228378404-0-147646
 msgctxt "228378404-0-147646"
-msgid ""[…] above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world […]" - The Whithering of Delodiil (Author Unknown)"
+msgid ""
+"\"[…] above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world […]\" - The Whithering of Delodiil (Author Unknown)"
 msgstr ""
 
 #: 242841733-0-147646
@@ -1102,7 +1096,7 @@ msgstr ""
 
 #: 228378404-0-147645
 msgctxt "228378404-0-147645"
-msgid "The famed mechanist Neramo claims that these arcs were likely used to "tune common inaudible sounds to frequencies more pleasing to the Dwemer.""
+msgid "The famed mechanist Neramo claims that these arcs were likely used to \"tune common inaudible sounds to frequencies more pleasing to the Dwemer.\""
 msgstr ""
 
 #: 242841733-0-147645
@@ -1482,7 +1476,7 @@ msgstr ""
 
 #: 228378404-0-147507
 msgctxt "228378404-0-147507"
-msgid "When activated, plays a music box arrangement of the Ebonheart Pact "Hinterlands" composition."
+msgid "When activated, plays a music box arrangement of the Ebonheart Pact \"Hinterlands\" composition."
 msgstr ""
 
 #: 242841733-0-147507
@@ -1492,7 +1486,7 @@ msgstr ""
 
 #: 228378404-0-147506
 msgctxt "228378404-0-147506"
-msgid "When activated, plays a music box arrangement of the Daggerfall Covenant "Sands of the Alik'r" composition."
+msgid "When activated, plays a music box arrangement of the Daggerfall Covenant \"Sands of the Alik'r\" composition."
 msgstr ""
 
 #: 242841733-0-147506
@@ -1502,7 +1496,7 @@ msgstr ""
 
 #: 228378404-0-147505
 msgctxt "228378404-0-147505"
-msgid "When activated, plays a music box arrangement of the Aldmeri Dominion "Y'ffre in Every Leaf" composition."
+msgid "When activated, plays a music box arrangement of the Aldmeri Dominion \"Y'ffre in Every Leaf\" composition."
 msgstr ""
 
 #: 242841733-0-147505
@@ -3662,7 +3656,7 @@ msgstr ""
 
 #: 228378404-0-145322
 msgctxt "228378404-0-145322"
-msgid "When activated, plays a music box arrangement of the stirring "For Blood, For Glory, For Honor" theme."
+msgid "When activated, plays a music box arrangement of the stirring \"For Blood, For Glory, For Honor\" theme."
 msgstr ""
 
 #: 242841733-0-145322
@@ -3692,7 +3686,7 @@ msgstr ""
 
 #: 228378404-0-142235
 msgctxt "228378404-0-142235"
-msgid "When activated, plays a music box arrangement of the mysterious "Flickering Shadows" composition."
+msgid "When activated, plays a music box arrangement of the mysterious \"Flickering Shadows\" composition."
 msgstr ""
 
 #: 242841733-0-142235
@@ -4622,7 +4616,7 @@ msgstr ""
 
 #: 228378404-0-139385
 msgctxt "228378404-0-139385"
-msgid ""Oh, blessed be the Keepers' eyes ….""
+msgid "\"Oh, blessed be the Keepers' eyes ….\""
 msgstr ""
 
 #: 242841733-0-139385
@@ -4762,7 +4756,7 @@ msgstr ""
 
 #: 228378404-0-139371
 msgctxt "228378404-0-139371"
-msgid ""As an eagle guards its nest, so too do we defend our future. Under our vigil, Summerset will never fall.""
+msgid "\"As an eagle guards its nest, so too do we defend our future. Under our vigil, Summerset will never fall.\""
 msgstr ""
 
 #: 242841733-0-139371
@@ -6842,7 +6836,7 @@ msgstr ""
 
 #: 228378404-0-139163
 msgctxt "228378404-0-139163"
-msgid ""Mephala! Webspinner! Teacher of the Secret Arts! Queen of the Eight Shadows of Murder! Though others may reign over us, deep in the night we still hear your whisper!""
+msgid "\"Mephala! Webspinner! Teacher of the Secret Arts! Queen of the Eight Shadows of Murder! Though others may reign over us, deep in the night we still hear your whisper!\""
 msgstr ""
 
 #: 242841733-0-139163
@@ -7082,7 +7076,7 @@ msgstr ""
 
 #: 228378404-0-139139
 msgctxt "228378404-0-139139"
-msgid ""Nocturnal, whose sphere is the night and darkness; who is known as the Night Mistress.""
+msgid "\"Nocturnal, whose sphere is the night and darkness; who is known as the Night Mistress.\""
 msgstr ""
 
 #: 242841733-0-139139
@@ -8837,7 +8831,7 @@ msgstr "표준 크기의 하우징 아이템입니다."
 
 #: 242841733-0-134917
 msgctxt "242841733-0-134917"
-msgid "Hlaalu Gaming Table, "Foxes & Felines""
+msgid "Hlaalu Gaming Table, \"Foxes & Felines\""
 msgstr ""
 
 #: 228378404-0-134916
@@ -9102,7 +9096,7 @@ msgstr ""
 
 #: 228378404-0-134890
 msgctxt "228378404-0-134890"
-msgid ""Open your heart to the noble secrets of art and love. Treasure the gifts of friendship. Seek joy and inspiration in the mysteries of love."—Dibella's Divine Command"
+msgid "\"Open your heart to the noble secrets of art and love. Treasure the gifts of friendship. Seek joy and inspiration in the mysteries of love.\"—Dibella's Divine Command"
 msgstr ""
 
 #: 242841733-0-134890
@@ -9762,7 +9756,7 @@ msgstr ""
 
 #: 228378404-0-134680
 msgctxt "228378404-0-134680"
-msgid ""Trust me kid, stealing from a Jester isn't worth your time. The last fool to try it is still picking the confetti out of his teeth."—Sharbzur, Midnight Union Bruiser"
+msgid "\"Trust me kid, stealing from a Jester isn't worth your time. The last fool to try it is still picking the confetti out of his teeth.\"—Sharbzur, Midnight Union Bruiser"
 msgstr ""
 
 #: 242841733-0-134680
@@ -12332,7 +12326,7 @@ msgstr ""
 
 #: 228378404-0-134246
 msgctxt "228378404-0-134246"
-msgid "Proctor Albacron's "Law of Gears" provides a firm doctrinal foundation for Clockwork novices and chancellors alike."
+msgid "Proctor Albacron's \"Law of Gears\" provides a firm doctrinal foundation for Clockwork novices and chancellors alike."
 msgstr ""
 
 #: 242841733-0-134246
@@ -18722,7 +18716,7 @@ msgstr ""
 
 #: 228378404-0-126164
 msgctxt "228378404-0-126164"
-msgid "Reprint, Second Edition: "On His Revelation at the Death of the Al-Esh.""
+msgid "Reprint, Second Edition: \"On His Revelation at the Death of the Al-Esh.\""
 msgstr ""
 
 #: 242841733-0-126164
@@ -18732,7 +18726,7 @@ msgstr "펠리날의 노래 제 8권 (The Song of Pelinal, 8권)"
 
 #: 228378404-0-126163
 msgctxt "228378404-0-126163"
-msgid "Reprint, Second Edition: "On His Battle with Umaril and His Dismemberment.""
+msgid "Reprint, Second Edition: \"On His Battle with Umaril and His Dismemberment.\""
 msgstr ""
 
 #: 242841733-0-126163
@@ -18742,7 +18736,7 @@ msgstr "펠리날의 노래 제 7권 (The Song of Pelinal, 7권)"
 
 #: 228378404-0-126162
 msgctxt "228378404-0-126162"
-msgid "Reprint, Second Edition: "On His Madness.""
+msgid "Reprint, Second Edition: \"On His Madness.\""
 msgstr ""
 
 #: 242841733-0-126162
@@ -18752,7 +18746,7 @@ msgstr "펠리날의 노래 제 6권 (The Song of Pelinal, 6권)"
 
 #: 228378404-0-126161
 msgctxt "228378404-0-126161"
-msgid "Reprint, Second Edition: "On His Love of Morihaus.""
+msgid "Reprint, Second Edition: \"On His Love of Morihaus.\""
 msgstr ""
 
 #: 242841733-0-126161
@@ -18762,7 +18756,7 @@ msgstr "펠리날의 노래 제5권 (The Song of Pelinal, 5권)"
 
 #: 228378404-0-126160
 msgctxt "228378404-0-126160"
-msgid "Reprint, Second Edition: "On His Deeds.""
+msgid "Reprint, Second Edition: \"On His Deeds.\""
 msgstr ""
 
 #: 242841733-0-126160
@@ -18772,7 +18766,7 @@ msgstr "펠리날의 노래 제 4권 (The Song of Pelinal, 4권)"
 
 #: 228378404-0-126159
 msgctxt "228378404-0-126159"
-msgid "Reprint, Second Edition: "On His Enemy.""
+msgid "Reprint, Second Edition: \"On His Enemy.\""
 msgstr ""
 
 #: 242841733-0-126159
@@ -18782,7 +18776,7 @@ msgstr "펠리날의 노래 제 3권 (The Song of Pelinal, 3권)"
 
 #: 228378404-0-126158
 msgctxt "228378404-0-126158"
-msgid "Reprint, Second Edition: "On His Coming.""
+msgid "Reprint, Second Edition: \"On His Coming.\""
 msgstr ""
 
 #: 242841733-0-126158
@@ -18792,7 +18786,7 @@ msgstr "펠리날의 노래 제2권 (The Song of Pelinal, 권)"
 
 #: 228378404-0-126157
 msgctxt "228378404-0-126157"
-msgid "Reprint, Second Edition: "On His Name.""
+msgid "Reprint, Second Edition: \"On His Name.\""
 msgstr ""
 
 #: 242841733-0-126157
@@ -24802,7 +24796,7 @@ msgstr ""
 
 #: 228378404-0-120407
 msgctxt "228378404-0-120407"
-msgid "Reprint volume from the "The Trial of Eyevea" book collection. Mages Guild Reprint, 2E 582."
+msgid "Reprint volume from the \"The Trial of Eyevea\" book collection. Mages Guild Reprint, 2E 582."
 msgstr ""
 
 #: 242841733-0-120407
@@ -24812,7 +24806,7 @@ msgstr ""
 
 #: 228378404-0-120406
 msgctxt "228378404-0-120406"
-msgid "Reprint volume from the "The Trial of Eyevea" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Trial of Eyevea\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120406
@@ -24822,7 +24816,7 @@ msgstr "성역의 선물"
 
 #: 228378404-0-120376
 msgctxt "228378404-0-120376"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120376
@@ -24832,7 +24826,7 @@ msgstr ""
 
 #: 228378404-0-120375
 msgctxt "228378404-0-120375"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120375
@@ -24842,7 +24836,7 @@ msgstr ""
 
 #: 228378404-0-120374
 msgctxt "228378404-0-120374"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120374
@@ -24852,7 +24846,7 @@ msgstr ""
 
 #: 228378404-0-120373
 msgctxt "228378404-0-120373"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120373
@@ -24862,7 +24856,7 @@ msgstr ""
 
 #: 228378404-0-120372
 msgctxt "228378404-0-120372"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120372
@@ -24872,7 +24866,7 @@ msgstr ""
 
 #: 228378404-0-120371
 msgctxt "228378404-0-120371"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120371
@@ -24882,7 +24876,7 @@ msgstr ""
 
 #: 228378404-0-120370
 msgctxt "228378404-0-120370"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120370
@@ -24892,7 +24886,7 @@ msgstr ""
 
 #: 228378404-0-120369
 msgctxt "228378404-0-120369"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120369
@@ -24902,7 +24896,7 @@ msgstr "왕의 아뮬렛"
 
 #: 228378404-0-120368
 msgctxt "228378404-0-120368"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120368
@@ -24912,7 +24906,7 @@ msgstr ""
 
 #: 228378404-0-120367
 msgctxt "228378404-0-120367"
-msgid "Reprint volume from the "Legends of Nirn" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Legends of Nirn\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120367
@@ -24922,7 +24916,7 @@ msgstr ""
 
 #: 228378404-0-120366
 msgctxt "228378404-0-120366"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120366
@@ -24932,7 +24926,7 @@ msgstr ""
 
 #: 228378404-0-120365
 msgctxt "228378404-0-120365"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120365
@@ -24942,7 +24936,7 @@ msgstr "여길 지나는 모든 자들에게"
 
 #: 228378404-0-120364
 msgctxt "228378404-0-120364"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120364
@@ -24952,7 +24946,7 @@ msgstr ""
 
 #: 228378404-0-120363
 msgctxt "228378404-0-120363"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120363
@@ -24962,7 +24956,7 @@ msgstr ""
 
 #: 228378404-0-120362
 msgctxt "228378404-0-120362"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120362
@@ -24972,7 +24966,7 @@ msgstr ""
 
 #: 228378404-0-120361
 msgctxt "228378404-0-120361"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120361
@@ -24982,7 +24976,7 @@ msgstr ""
 
 #: 228378404-0-120360
 msgctxt "228378404-0-120360"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120360
@@ -24992,7 +24986,7 @@ msgstr ""
 
 #: 228378404-0-120359
 msgctxt "228378404-0-120359"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120359
@@ -25002,7 +24996,7 @@ msgstr ""
 
 #: 228378404-0-120358
 msgctxt "228378404-0-120358"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120358
@@ -25012,7 +25006,7 @@ msgstr "더럽혀진 부족의 맹세"
 
 #: 228378404-0-120357
 msgctxt "228378404-0-120357"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120357
@@ -25022,7 +25016,7 @@ msgstr "황혼의 도서관: 희귀 장서들"
 
 #: 228378404-0-120356
 msgctxt "228378404-0-120356"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120356
@@ -25032,7 +25026,7 @@ msgstr "무광감옥"
 
 #: 228378404-0-120355
 msgctxt "228378404-0-120355"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120355
@@ -25042,7 +25036,7 @@ msgstr ""
 
 #: 228378404-0-120354
 msgctxt "228378404-0-120354"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120354
@@ -25052,7 +25046,7 @@ msgstr ""
 
 #: 228378404-0-120353
 msgctxt "228378404-0-120353"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120353
@@ -25062,7 +25056,7 @@ msgstr ""
 
 #: 228378404-0-120352
 msgctxt "228378404-0-120352"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120352
@@ -25072,7 +25066,7 @@ msgstr ""
 
 #: 228378404-0-120351
 msgctxt "228378404-0-120351"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120351
@@ -25082,7 +25076,7 @@ msgstr ""
 
 #: 228378404-0-120350
 msgctxt "228378404-0-120350"
-msgid "Reprint volume from the "Coldharbour Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Coldharbour Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120350
@@ -25092,7 +25086,7 @@ msgstr ""
 
 #: 228378404-0-120349
 msgctxt "228378404-0-120349"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120349
@@ -25102,7 +25096,7 @@ msgstr ""
 
 #: 228378404-0-120348
 msgctxt "228378404-0-120348"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120348
@@ -25112,7 +25106,7 @@ msgstr ""
 
 #: 228378404-0-120347
 msgctxt "228378404-0-120347"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120347
@@ -25122,7 +25116,7 @@ msgstr ""
 
 #: 228378404-0-120346
 msgctxt "228378404-0-120346"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120346
@@ -25132,7 +25126,7 @@ msgstr ""
 
 #: 228378404-0-120345
 msgctxt "228378404-0-120345"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120345
@@ -25142,7 +25136,7 @@ msgstr ""
 
 #: 228378404-0-120344
 msgctxt "228378404-0-120344"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120344
@@ -25152,7 +25146,7 @@ msgstr ""
 
 #: 228378404-0-120343
 msgctxt "228378404-0-120343"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120343
@@ -25162,7 +25156,7 @@ msgstr ""
 
 #: 228378404-0-120342
 msgctxt "228378404-0-120342"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120342
@@ -25172,7 +25166,7 @@ msgstr ""
 
 #: 228378404-0-120341
 msgctxt "228378404-0-120341"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120341
@@ -25182,7 +25176,7 @@ msgstr ""
 
 #: 228378404-0-120340
 msgctxt "228378404-0-120340"
-msgid "Reprint volume from the "Reaper's March Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Reaper's March Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120340
@@ -25192,7 +25186,7 @@ msgstr ""
 
 #: 228378404-0-120339
 msgctxt "228378404-0-120339"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120339
@@ -25202,7 +25196,7 @@ msgstr ""
 
 #: 228378404-0-120338
 msgctxt "228378404-0-120338"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120338
@@ -25212,7 +25206,7 @@ msgstr ""
 
 #: 228378404-0-120337
 msgctxt "228378404-0-120337"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120337
@@ -25222,7 +25216,7 @@ msgstr ""
 
 #: 228378404-0-120336
 msgctxt "228378404-0-120336"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120336
@@ -25232,7 +25226,7 @@ msgstr ""
 
 #: 228378404-0-120335
 msgctxt "228378404-0-120335"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120335
@@ -25242,7 +25236,7 @@ msgstr ""
 
 #: 228378404-0-120334
 msgctxt "228378404-0-120334"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120334
@@ -25252,7 +25246,7 @@ msgstr ""
 
 #: 228378404-0-120333
 msgctxt "228378404-0-120333"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120333
@@ -25262,7 +25256,7 @@ msgstr ""
 
 #: 228378404-0-120332
 msgctxt "228378404-0-120332"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120332
@@ -25272,7 +25266,7 @@ msgstr ""
 
 #: 228378404-0-120331
 msgctxt "228378404-0-120331"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120331
@@ -25282,7 +25276,7 @@ msgstr ""
 
 #: 228378404-0-120330
 msgctxt "228378404-0-120330"
-msgid "Reprint volume from the "Greenshade Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Greenshade Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120330
@@ -25292,7 +25286,7 @@ msgstr ""
 
 #: 228378404-0-120329
 msgctxt "228378404-0-120329"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120329
@@ -25302,7 +25296,7 @@ msgstr "우드 오크들과 함께"
 
 #: 228378404-0-120328
 msgctxt "228378404-0-120328"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120328
@@ -25312,7 +25306,7 @@ msgstr ""
 
 #: 228378404-0-120327
 msgctxt "228378404-0-120327"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120327
@@ -25322,7 +25316,7 @@ msgstr ""
 
 #: 228378404-0-120326
 msgctxt "228378404-0-120326"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120326
@@ -25332,7 +25326,7 @@ msgstr ""
 
 #: 228378404-0-120325
 msgctxt "228378404-0-120325"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120325
@@ -25342,7 +25336,7 @@ msgstr "길-바-델의 포식"
 
 #: 228378404-0-120324
 msgctxt "228378404-0-120324"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120324
@@ -25352,7 +25346,7 @@ msgstr ""
 
 #: 228378404-0-120323
 msgctxt "228378404-0-120323"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120323
@@ -25362,7 +25356,7 @@ msgstr ""
 
 #: 228378404-0-120322
 msgctxt "228378404-0-120322"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120322
@@ -25372,7 +25366,7 @@ msgstr ""
 
 #: 228378404-0-120321
 msgctxt "228378404-0-120321"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120321
@@ -25382,7 +25376,7 @@ msgstr ""
 
 #: 228378404-0-120320
 msgctxt "228378404-0-120320"
-msgid "Reprint volume from the "Grahtwood Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Grahtwood Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120320
@@ -25392,7 +25386,7 @@ msgstr "신앙의 다양성: 카짓"
 
 #: 228378404-0-120319
 msgctxt "228378404-0-120319"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120319
@@ -25402,7 +25396,7 @@ msgstr "탈모어 전단지"
 
 #: 228378404-0-120318
 msgctxt "228378404-0-120318"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120318
@@ -25412,7 +25406,7 @@ msgstr "독수리 그림자에서의 삶"
 
 #: 228378404-0-120317
 msgctxt "228378404-0-120317"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120317
@@ -25422,7 +25416,7 @@ msgstr "혈족군주 릴리스와 메이지 길드"
 
 #: 228378404-0-120316
 msgctxt "228378404-0-120316"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120316
@@ -25432,7 +25426,7 @@ msgstr ""
 
 #: 228378404-0-120315
 msgctxt "228378404-0-120315"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120315
@@ -25442,7 +25436,7 @@ msgstr "바다 독사의 송곳니"
 
 #: 228378404-0-120314
 msgctxt "228378404-0-120314"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120314
@@ -25452,7 +25446,7 @@ msgstr ""
 
 #: 228378404-0-120313
 msgctxt "228378404-0-120313"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120313
@@ -25462,7 +25456,7 @@ msgstr "신앙의 다양성: 하이 엘프"
 
 #: 228378404-0-120312
 msgctxt "228378404-0-120312"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120312
@@ -25472,7 +25466,7 @@ msgstr ""
 
 #: 228378404-0-120311
 msgctxt "228378404-0-120311"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120311
@@ -25482,7 +25476,7 @@ msgstr ""
 
 #: 228378404-0-120310
 msgctxt "228378404-0-120310"
-msgid "Reprint volume from the "Auridon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Auridon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120310
@@ -25492,7 +25486,7 @@ msgstr "대거폴 동맹의 범죄"
 
 #: 228378404-0-120309
 msgctxt "228378404-0-120309"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120309
@@ -25502,7 +25496,7 @@ msgstr "귀환의 노래, 제 49권"
 
 #: 228378404-0-120308
 msgctxt "228378404-0-120308"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120308
@@ -25512,7 +25506,7 @@ msgstr ""
 
 #: 228378404-0-120307
 msgctxt "228378404-0-120307"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120307
@@ -25522,7 +25516,7 @@ msgstr ""
 
 #: 228378404-0-120306
 msgctxt "228378404-0-120306"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120306
@@ -25532,7 +25526,7 @@ msgstr ""
 
 #: 228378404-0-120305
 msgctxt "228378404-0-120305"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120305
@@ -25542,7 +25536,7 @@ msgstr ""
 
 #: 228378404-0-120304
 msgctxt "228378404-0-120304"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120304
@@ -25552,7 +25546,7 @@ msgstr ""
 
 #: 228378404-0-120303
 msgctxt "228378404-0-120303"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120303
@@ -25562,7 +25556,7 @@ msgstr ""
 
 #: 228378404-0-120302
 msgctxt "228378404-0-120302"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120302
@@ -25572,7 +25566,7 @@ msgstr ""
 
 #: 228378404-0-120301
 msgctxt "228378404-0-120301"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120301
@@ -25582,7 +25576,7 @@ msgstr ""
 
 #: 228378404-0-120300
 msgctxt "228378404-0-120300"
-msgid "Reprint volume from the "The Rift Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Rift Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120300
@@ -25592,7 +25586,7 @@ msgstr ""
 
 #: 228378404-0-120299
 msgctxt "228378404-0-120299"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120299
@@ -25602,7 +25596,7 @@ msgstr ""
 
 #: 228378404-0-120298
 msgctxt "228378404-0-120298"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120298
@@ -25612,7 +25606,7 @@ msgstr ""
 
 #: 228378404-0-120297
 msgctxt "228378404-0-120297"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120297
@@ -25622,7 +25616,7 @@ msgstr ""
 
 #: 228378404-0-120296
 msgctxt "228378404-0-120296"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120296
@@ -25632,7 +25626,7 @@ msgstr ""
 
 #: 228378404-0-120295
 msgctxt "228378404-0-120295"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120295
@@ -25642,7 +25636,7 @@ msgstr ""
 
 #: 228378404-0-120294
 msgctxt "228378404-0-120294"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120294
@@ -25652,7 +25646,7 @@ msgstr ""
 
 #: 228378404-0-120293
 msgctxt "228378404-0-120293"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120293
@@ -25662,7 +25656,7 @@ msgstr ""
 
 #: 228378404-0-120292
 msgctxt "228378404-0-120292"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120292
@@ -25672,7 +25666,7 @@ msgstr ""
 
 #: 228378404-0-120291
 msgctxt "228378404-0-120291"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120291
@@ -25682,7 +25676,7 @@ msgstr ""
 
 #: 228378404-0-120290
 msgctxt "228378404-0-120290"
-msgid "Reprint volume from the "Deshaan Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Deshaan Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120290
@@ -25692,7 +25686,7 @@ msgstr ""
 
 #: 228378404-0-120289
 msgctxt "228378404-0-120289"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120289
@@ -25702,7 +25696,7 @@ msgstr ""
 
 #: 228378404-0-120288
 msgctxt "228378404-0-120288"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120288
@@ -25712,7 +25706,7 @@ msgstr ""
 
 #: 228378404-0-120287
 msgctxt "228378404-0-120287"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120287
@@ -25722,7 +25716,7 @@ msgstr ""
 
 #: 228378404-0-120286
 msgctxt "228378404-0-120286"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120286
@@ -25732,7 +25726,7 @@ msgstr ""
 
 #: 228378404-0-120285
 msgctxt "228378404-0-120285"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120285
@@ -25742,7 +25736,7 @@ msgstr ""
 
 #: 228378404-0-120284
 msgctxt "228378404-0-120284"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120284
@@ -25752,7 +25746,7 @@ msgstr ""
 
 #: 228378404-0-120283
 msgctxt "228378404-0-120283"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120283
@@ -25762,7 +25756,7 @@ msgstr ""
 
 #: 228378404-0-120282
 msgctxt "228378404-0-120282"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120282
@@ -25772,7 +25766,7 @@ msgstr ""
 
 #: 228378404-0-120281
 msgctxt "228378404-0-120281"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120281
@@ -25782,7 +25776,7 @@ msgstr ""
 
 #: 228378404-0-120280
 msgctxt "228378404-0-120280"
-msgid "Reprint volume from the "Eastmarch Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Eastmarch Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120280
@@ -25792,7 +25786,7 @@ msgstr ""
 
 #: 228378404-0-120279
 msgctxt "228378404-0-120279"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120279
@@ -25802,7 +25796,7 @@ msgstr ""
 
 #: 228378404-0-120278
 msgctxt "228378404-0-120278"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120278
@@ -25812,7 +25806,7 @@ msgstr ""
 
 #: 228378404-0-120277
 msgctxt "228378404-0-120277"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120277
@@ -25822,7 +25816,7 @@ msgstr ""
 
 #: 228378404-0-120276
 msgctxt "228378404-0-120276"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120276
@@ -25832,7 +25826,7 @@ msgstr ""
 
 #: 228378404-0-120275
 msgctxt "228378404-0-120275"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120275
@@ -25842,7 +25836,7 @@ msgstr ""
 
 #: 228378404-0-120274
 msgctxt "228378404-0-120274"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120274
@@ -25852,7 +25846,7 @@ msgstr ""
 
 #: 228378404-0-120273
 msgctxt "228378404-0-120273"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120273
@@ -25862,7 +25856,7 @@ msgstr "우드 엘프들의 유머"
 
 #: 228378404-0-120272
 msgctxt "228378404-0-120272"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120272
@@ -25872,7 +25866,7 @@ msgstr ""
 
 #: 228378404-0-120271
 msgctxt "228378404-0-120271"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120271
@@ -25882,7 +25876,7 @@ msgstr ""
 
 #: 228378404-0-120270
 msgctxt "228378404-0-120270"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120270
@@ -25892,7 +25886,7 @@ msgstr "우드스머"
 
 #: 228378404-0-120269
 msgctxt "228378404-0-120269"
-msgid "Reprint volume from the "Malabal Tor Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Malabal Tor Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120269
@@ -25902,7 +25896,7 @@ msgstr "사람들의 목소리"
 
 #: 228378404-0-120268
 msgctxt "228378404-0-120268"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120268
@@ -25912,7 +25906,7 @@ msgstr "신앙의 다양성: 노드"
 
 #: 228378404-0-120267
 msgctxt "228378404-0-120267"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120267
@@ -25922,7 +25916,7 @@ msgstr "신앙의 다양성: 다크 엘프"
 
 #: 228378404-0-120266
 msgctxt "228378404-0-120266"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120266
@@ -25932,7 +25926,7 @@ msgstr "신앙의 다양성: 아르고니안"
 
 #: 228378404-0-120265
 msgctxt "228378404-0-120265"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120265
@@ -25942,7 +25936,7 @@ msgstr "던머 대 가문의 가훈들"
 
 #: 228378404-0-120264
 msgctxt "228378404-0-120264"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120264
@@ -25952,7 +25946,7 @@ msgstr "스카이림의 노드들"
 
 #: 228378404-0-120263
 msgctxt "228378404-0-120263"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120263
@@ -25962,7 +25956,7 @@ msgstr "우리 안의 아르고니안"
 
 #: 228378404-0-120262
 msgctxt "228378404-0-120262"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120262
@@ -25972,7 +25966,7 @@ msgstr ""
 
 #: 228378404-0-120261
 msgctxt "228378404-0-120261"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120261
@@ -25982,7 +25976,7 @@ msgstr ""
 
 #: 228378404-0-120260
 msgctxt "228378404-0-120260"
-msgid "Reprint volume from the "Stonefalls Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stonefalls Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120260
@@ -25992,7 +25986,7 @@ msgstr ""
 
 #: 228378404-0-120259
 msgctxt "228378404-0-120259"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120259
@@ -26003,7 +25997,7 @@ msgstr ""
 #: 228378404-0-120258
 msgctxt "228378404-0-120258"
 msgid "Reprint volume from the Shadowfen Lore book collection. Mages Guild Edition, 2E 582."
-msgstr """""섀도우펜 로어"""" 책 소장품의 재판본입니다. 메이지 길드 판, 2시대 582년."
+msgstr "\"\"\"\"섀도우펜 로어\"\"\"\" 책 소장품의 재판본입니다. 메이지 길드 판, 2시대 582년."
 
 #: 242841733-0-120258
 msgctxt "242841733-0-120258"
@@ -26012,7 +26006,7 @@ msgstr ""
 
 #: 228378404-0-120257
 msgctxt "228378404-0-120257"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120257
@@ -26022,7 +26016,7 @@ msgstr ""
 
 #: 228378404-0-120256
 msgctxt "228378404-0-120256"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120256
@@ -26032,7 +26026,7 @@ msgstr ""
 
 #: 228378404-0-120255
 msgctxt "228378404-0-120255"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120255
@@ -26042,7 +26036,7 @@ msgstr ""
 
 #: 228378404-0-120254
 msgctxt "228378404-0-120254"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120254
@@ -26052,7 +26046,7 @@ msgstr ""
 
 #: 228378404-0-120253
 msgctxt "228378404-0-120253"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120253
@@ -26062,7 +26056,7 @@ msgstr ""
 
 #: 228378404-0-120252
 msgctxt "228378404-0-120252"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120252
@@ -26072,7 +26066,7 @@ msgstr ""
 
 #: 228378404-0-120251
 msgctxt "228378404-0-120251"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120251
@@ -26082,7 +26076,7 @@ msgstr ""
 
 #: 228378404-0-120250
 msgctxt "228378404-0-120250"
-msgid "Reprint volume from the "Shadowfen Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Shadowfen Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120250
@@ -26092,7 +26086,7 @@ msgstr ""
 
 #: 228378404-0-120249
 msgctxt "228378404-0-120249"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120249
@@ -26102,7 +26096,7 @@ msgstr ""
 
 #: 228378404-0-120248
 msgctxt "228378404-0-120248"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120248
@@ -26112,7 +26106,7 @@ msgstr ""
 
 #: 228378404-0-120247
 msgctxt "228378404-0-120247"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120247
@@ -26122,7 +26116,7 @@ msgstr ""
 
 #: 228378404-0-120246
 msgctxt "228378404-0-120246"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120246
@@ -26132,7 +26126,7 @@ msgstr ""
 
 #: 228378404-0-120245
 msgctxt "228378404-0-120245"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120245
@@ -26142,7 +26136,7 @@ msgstr ""
 
 #: 228378404-0-120244
 msgctxt "228378404-0-120244"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120244
@@ -26152,7 +26146,7 @@ msgstr ""
 
 #: 228378404-0-120243
 msgctxt "228378404-0-120243"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120243
@@ -26162,7 +26156,7 @@ msgstr ""
 
 #: 228378404-0-120242
 msgctxt "228378404-0-120242"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120242
@@ -26172,7 +26166,7 @@ msgstr ""
 
 #: 228378404-0-120241
 msgctxt "228378404-0-120241"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120241
@@ -26182,7 +26176,7 @@ msgstr ""
 
 #: 228378404-0-120240
 msgctxt "228378404-0-120240"
-msgid "Reprint volume from the "Tamriel History" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Tamriel History\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120240
@@ -26192,7 +26186,7 @@ msgstr ""
 
 #: 228378404-0-120239
 msgctxt "228378404-0-120239"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120239
@@ -26202,7 +26196,7 @@ msgstr ""
 
 #: 228378404-0-120238
 msgctxt "228378404-0-120238"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120238
@@ -26212,7 +26206,7 @@ msgstr ""
 
 #: 228378404-0-120237
 msgctxt "228378404-0-120237"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120237
@@ -26222,7 +26216,7 @@ msgstr ""
 
 #: 228378404-0-120236
 msgctxt "228378404-0-120236"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120236
@@ -26232,7 +26226,7 @@ msgstr ""
 
 #: 228378404-0-120235
 msgctxt "228378404-0-120235"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120235
@@ -26242,7 +26236,7 @@ msgstr ""
 
 #: 228378404-0-120234
 msgctxt "228378404-0-120234"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120234
@@ -26252,7 +26246,7 @@ msgstr ""
 
 #: 228378404-0-120233
 msgctxt "228378404-0-120233"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120233
@@ -26262,7 +26256,7 @@ msgstr ""
 
 #: 228378404-0-120232
 msgctxt "228378404-0-120232"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120232
@@ -26272,7 +26266,7 @@ msgstr ""
 
 #: 228378404-0-120231
 msgctxt "228378404-0-120231"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120231
@@ -26282,7 +26276,7 @@ msgstr ""
 
 #: 228378404-0-120230
 msgctxt "228378404-0-120230"
-msgid "Reprint volume from the "Poetry and Song" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Poetry and Song\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120230
@@ -26292,7 +26286,7 @@ msgstr ""
 
 #: 228378404-0-120229
 msgctxt "228378404-0-120229"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120229
@@ -26302,7 +26296,7 @@ msgstr ""
 
 #: 228378404-0-120228
 msgctxt "228378404-0-120228"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120228
@@ -26312,7 +26306,7 @@ msgstr ""
 
 #: 228378404-0-120227
 msgctxt "228378404-0-120227"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120227
@@ -26322,7 +26316,7 @@ msgstr "데이드라의 종류, 제 2권"
 
 #: 228378404-0-120226
 msgctxt "228378404-0-120226"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120226
@@ -26332,7 +26326,7 @@ msgstr "데이드라의 종류, 제 1권"
 
 #: 228378404-0-120225
 msgctxt "228378404-0-120225"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120225
@@ -26342,7 +26336,7 @@ msgstr "데이드라의 정신 "
 
 #: 228378404-0-120224
 msgctxt "228378404-0-120224"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120224
@@ -26352,7 +26346,7 @@ msgstr "오블리비언에 대하여"
 
 #: 228378404-0-120223
 msgctxt "228378404-0-120223"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120223
@@ -26362,7 +26356,7 @@ msgstr "오블리비언 관문 , 제 2권"
 
 #: 228378404-0-120222
 msgctxt "228378404-0-120222"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120222
@@ -26372,7 +26366,7 @@ msgstr "오블리비언 관문 , 제1권"
 
 #: 228378404-0-120221
 msgctxt "228378404-0-120221"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120221
@@ -26382,7 +26376,7 @@ msgstr "가장 어두운 암흑"
 
 #: 228378404-0-120220
 msgctxt "228378404-0-120220"
-msgid "Reprint volume from the "Oblivion Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Oblivion Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120220
@@ -26392,7 +26386,7 @@ msgstr "데이드라에 대하여"
 
 #: 228378404-0-120219
 msgctxt "228378404-0-120219"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120219
@@ -26402,7 +26396,7 @@ msgstr ""
 
 #: 228378404-0-120218
 msgctxt "228378404-0-120218"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120218
@@ -26412,7 +26406,7 @@ msgstr "시디스"
 
 #: 228378404-0-120217
 msgctxt "228378404-0-120217"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120217
@@ -26422,7 +26416,7 @@ msgstr "엘더 스크롤에 대한 고찰"
 
 #: 228378404-0-120216
 msgctxt "228378404-0-120216"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120216
@@ -26432,7 +26426,7 @@ msgstr "돼지의 아이들"
 
 #: 228378404-0-120215
 msgctxt "228378404-0-120215"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120215
@@ -26442,7 +26436,7 @@ msgstr "창공"
 
 #: 228378404-0-120214
 msgctxt "228378404-0-120214"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120214
@@ -26452,7 +26446,7 @@ msgstr ""
 
 #: 228378404-0-120213
 msgctxt "228378404-0-120213"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120213
@@ -26462,7 +26456,7 @@ msgstr "녹시필릭 생귀보리아"
 
 #: 228378404-0-120212
 msgctxt "228378404-0-120212"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120212
@@ -26472,7 +26466,7 @@ msgstr ""
 
 #: 228378404-0-120211
 msgctxt "228378404-0-120211"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120211
@@ -26482,7 +26476,7 @@ msgstr "인류 이전의 시대:신화의 시대"
 
 #: 228378404-0-120210
 msgctxt "228378404-0-120210"
-msgid "Reprint volume from the "Myths of the Mundus" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Myths of the Mundus\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120210
@@ -26492,7 +26486,7 @@ msgstr "인류 이전의 시대:여명의 시대"
 
 #: 228378404-0-120209
 msgctxt "228378404-0-120209"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120209
@@ -26502,7 +26496,7 @@ msgstr ""
 
 #: 228378404-0-120208
 msgctxt "228378404-0-120208"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120208
@@ -26512,7 +26506,7 @@ msgstr ""
 
 #: 228378404-0-120207
 msgctxt "228378404-0-120207"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120207
@@ -26522,7 +26516,7 @@ msgstr ""
 
 #: 228378404-0-120206
 msgctxt "228378404-0-120206"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120206
@@ -26532,7 +26526,7 @@ msgstr ""
 
 #: 228378404-0-120205
 msgctxt "228378404-0-120205"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120205
@@ -26542,7 +26536,7 @@ msgstr ""
 
 #: 228378404-0-120204
 msgctxt "228378404-0-120204"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120204
@@ -26552,7 +26546,7 @@ msgstr ""
 
 #: 228378404-0-120203
 msgctxt "228378404-0-120203"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120203
@@ -26562,7 +26556,7 @@ msgstr ""
 
 #: 228378404-0-120202
 msgctxt "228378404-0-120202"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120202
@@ -26572,7 +26566,7 @@ msgstr "하늘에서 내려온 마법 "
 
 #: 228378404-0-120201
 msgctxt "228378404-0-120201"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120201
@@ -26582,7 +26576,7 @@ msgstr "경계의 다리 "
 
 #: 228378404-0-120200
 msgctxt "228378404-0-120200"
-msgid "Reprint volume from the "Magic and Magicka" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Magic and Magicka\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120200
@@ -26592,7 +26586,7 @@ msgstr "아르카나 복원 "
 
 #: 228378404-0-120199
 msgctxt "228378404-0-120199"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120199
@@ -26602,7 +26596,7 @@ msgstr "와바잭"
 
 #: 228378404-0-120198
 msgctxt "228378404-0-120198"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120198
@@ -26612,7 +26606,7 @@ msgstr ""
 
 #: 228378404-0-120197
 msgctxt "228378404-0-120197"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120197
@@ -26622,7 +26616,7 @@ msgstr "광기의 16 협약. 제 6권"
 
 #: 228378404-0-120196
 msgctxt "228378404-0-120196"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120196
@@ -26632,7 +26626,7 @@ msgstr ""
 
 #: 228378404-0-120195
 msgctxt "228378404-0-120195"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120195
@@ -26642,7 +26636,7 @@ msgstr "쉐오고라스의 신화들,제 2권"
 
 #: 228378404-0-120194
 msgctxt "228378404-0-120194"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120194
@@ -26652,7 +26646,7 @@ msgstr "쉐오고라스의 신화들,제 1권"
 
 #: 228378404-0-120193
 msgctxt "228378404-0-120193"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120193
@@ -26662,7 +26656,7 @@ msgstr ""
 
 #: 228378404-0-120192
 msgctxt "228378404-0-120192"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120192
@@ -26672,7 +26666,7 @@ msgstr ""
 
 #: 228378404-0-120191
 msgctxt "228378404-0-120191"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120191
@@ -26682,7 +26676,7 @@ msgstr ""
 
 #: 228378404-0-120190
 msgctxt "228378404-0-120190"
-msgid "Reprint volume from the "Literature" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Literature\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120190
@@ -26692,7 +26686,7 @@ msgstr ""
 
 #: 228378404-0-120189
 msgctxt "228378404-0-120189"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120189
@@ -26702,7 +26696,7 @@ msgstr ""
 
 #: 228378404-0-120188
 msgctxt "228378404-0-120188"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120188
@@ -26712,7 +26706,7 @@ msgstr ""
 
 #: 228378404-0-120187
 msgctxt "228378404-0-120187"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120187
@@ -26722,7 +26716,7 @@ msgstr ""
 
 #: 228378404-0-120186
 msgctxt "228378404-0-120186"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120186
@@ -26732,7 +26726,7 @@ msgstr ""
 
 #: 228378404-0-120185
 msgctxt "228378404-0-120185"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120185
@@ -26742,7 +26736,7 @@ msgstr ""
 
 #: 228378404-0-120184
 msgctxt "228378404-0-120184"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120184
@@ -26752,7 +26746,7 @@ msgstr ""
 
 #: 228378404-0-120183
 msgctxt "228378404-0-120183"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120183
@@ -26762,7 +26756,7 @@ msgstr ""
 
 #: 228378404-0-120182
 msgctxt "228378404-0-120182"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120182
@@ -26772,7 +26766,7 @@ msgstr ""
 
 #: 228378404-0-120181
 msgctxt "228378404-0-120181"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120181
@@ -26782,7 +26776,7 @@ msgstr ""
 
 #: 228378404-0-120180
 msgctxt "228378404-0-120180"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120180
@@ -26792,7 +26786,7 @@ msgstr ""
 
 #: 228378404-0-120179
 msgctxt "228378404-0-120179"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120179
@@ -26802,7 +26796,7 @@ msgstr ""
 
 #: 228378404-0-120178
 msgctxt "228378404-0-120178"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120178
@@ -26812,7 +26806,7 @@ msgstr ""
 
 #: 228378404-0-120177
 msgctxt "228378404-0-120177"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120177
@@ -26822,7 +26816,7 @@ msgstr ""
 
 #: 228378404-0-120176
 msgctxt "228378404-0-120176"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120176
@@ -26832,7 +26826,7 @@ msgstr ""
 
 #: 228378404-0-120175
 msgctxt "228378404-0-120175"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120175
@@ -26842,7 +26836,7 @@ msgstr ""
 
 #: 228378404-0-120174
 msgctxt "228378404-0-120174"
-msgid "Reprint volume from the "Dwemer" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dwemer\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120174
@@ -26852,7 +26846,7 @@ msgstr ""
 
 #: 228378404-0-120173
 msgctxt "228378404-0-120173"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120173
@@ -26862,7 +26856,7 @@ msgstr ""
 
 #: 228378404-0-120172
 msgctxt "228378404-0-120172"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120172
@@ -26872,7 +26866,7 @@ msgstr ""
 
 #: 228378404-0-120171
 msgctxt "228378404-0-120171"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120171
@@ -26882,7 +26876,7 @@ msgstr ""
 
 #: 228378404-0-120170
 msgctxt "228378404-0-120170"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120170
@@ -26892,7 +26886,7 @@ msgstr ""
 
 #: 228378404-0-120169
 msgctxt "228378404-0-120169"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120169
@@ -26902,7 +26896,7 @@ msgstr "크와마 알 요리의 예술"
 
 #: 228378404-0-120168
 msgctxt "228378404-0-120168"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120168
@@ -26912,7 +26906,7 @@ msgstr ""
 
 #: 228378404-0-120167
 msgctxt "228378404-0-120167"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120167
@@ -26922,7 +26916,7 @@ msgstr ""
 
 #: 228378404-0-120166
 msgctxt "228378404-0-120166"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120166
@@ -26932,7 +26926,7 @@ msgstr ""
 
 #: 228378404-0-120165
 msgctxt "228378404-0-120165"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120165
@@ -26942,7 +26936,7 @@ msgstr ""
 
 #: 228378404-0-120164
 msgctxt "228378404-0-120164"
-msgid "Reprint volume from the "Dungeon Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Dungeon Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120164
@@ -26952,7 +26946,7 @@ msgstr ""
 
 #: 228378404-0-120163
 msgctxt "228378404-0-120163"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120163
@@ -26962,7 +26956,7 @@ msgstr ""
 
 #: 228378404-0-120162
 msgctxt "228378404-0-120162"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120162
@@ -26972,7 +26966,7 @@ msgstr ""
 
 #: 228378404-0-120161
 msgctxt "228378404-0-120161"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120161
@@ -26982,7 +26976,7 @@ msgstr ""
 
 #: 228378404-0-120160
 msgctxt "228378404-0-120160"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120160
@@ -26992,7 +26986,7 @@ msgstr ""
 
 #: 228378404-0-120159
 msgctxt "228378404-0-120159"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120159
@@ -27002,17 +26996,17 @@ msgstr ""
 
 #: 228378404-0-120158
 msgctxt "228378404-0-120158"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120158
 msgctxt "242841733-0-120158"
-msgid "Monomyth: "Shezarr's Song""
+msgid "Monomyth: \"Shezarr's Song\""
 msgstr ""
 
 #: 228378404-0-120157
 msgctxt "228378404-0-120157"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120157
@@ -27022,7 +27016,7 @@ msgstr ""
 
 #: 228378404-0-120156
 msgctxt "228378404-0-120156"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120156
@@ -27032,7 +27026,7 @@ msgstr ""
 
 #: 228378404-0-120155
 msgctxt "228378404-0-120155"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120155
@@ -27042,7 +27036,7 @@ msgstr ""
 
 #: 228378404-0-120154
 msgctxt "228378404-0-120154"
-msgid "Reprint volume from the "Divines and Deities" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Divines and Deities\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120154
@@ -27052,7 +27046,7 @@ msgstr ""
 
 #: 228378404-0-120153
 msgctxt "228378404-0-120153"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120153
@@ -27062,7 +27056,7 @@ msgstr "몰라그 발의 자손"
 
 #: 228378404-0-120152
 msgctxt "228378404-0-120152"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120152
@@ -27072,7 +27066,7 @@ msgstr ""
 
 #: 228378404-0-120151
 msgctxt "228378404-0-120151"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120151
@@ -27082,7 +27076,7 @@ msgstr "허씬의 토템"
 
 #: 228378404-0-120150
 msgctxt "228378404-0-120150"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120150
@@ -27092,7 +27086,7 @@ msgstr "오푸스쿨루스 라마에 발 타 메자모티"
 
 #: 228378404-0-120149
 msgctxt "228378404-0-120149"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120149
@@ -27102,7 +27096,7 @@ msgstr "현세의 이교도들"
 
 #: 228378404-0-120148
 msgctxt "228378404-0-120148"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120148
@@ -27112,7 +27106,7 @@ msgstr "아주라에 대한 기도"
 
 #: 228378404-0-120147
 msgctxt "228378404-0-120147"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120147
@@ -27122,7 +27116,7 @@ msgstr ""
 
 #: 228378404-0-120146
 msgctxt "228378404-0-120146"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120146
@@ -27132,7 +27126,7 @@ msgstr "꿈의 산책"
 
 #: 228378404-0-120145
 msgctxt "228378404-0-120145"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120145
@@ -27142,7 +27136,7 @@ msgstr "보에시아의 증명 "
 
 #: 228378404-0-120144
 msgctxt "228378404-0-120144"
-msgid "Reprint volume from the "Daedric Princes" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Daedric Princes\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120144
@@ -27152,7 +27146,7 @@ msgstr "에이드라와 데이드라"
 
 #: 228378404-0-120143
 msgctxt "228378404-0-120143"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120143
@@ -27162,7 +27156,7 @@ msgstr "아이렌: 뜻밖의 여왕"
 
 #: 228378404-0-120142
 msgctxt "228378404-0-120142"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120142
@@ -27172,7 +27166,7 @@ msgstr "모두에게 관대한 파하라자드 왕"
 
 #: 228378404-0-120141
 msgctxt "228378404-0-120141"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120141
@@ -27182,7 +27176,7 @@ msgstr "성 알레시아의 시련"
 
 #: 228378404-0-120140
 msgctxt "228378404-0-120140"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120140
@@ -27192,7 +27186,7 @@ msgstr "군주의 승리, 제10장"
 
 #: 228378404-0-120139
 msgctxt "228378404-0-120139"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120139
@@ -27202,7 +27196,7 @@ msgstr "군주의 승리, 제6장"
 
 #: 228378404-0-120138
 msgctxt "228378404-0-120138"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120138
@@ -27212,7 +27206,7 @@ msgstr "군주의 승리, 제3장"
 
 #: 228378404-0-120137
 msgctxt "228378404-0-120137"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120137
@@ -27222,7 +27216,7 @@ msgstr "스칼드 왕 요룬"
 
 #: 228378404-0-120136
 msgctxt "228378404-0-120136"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120136
@@ -27232,7 +27226,7 @@ msgstr "죽음의 환영"
 
 #: 228378404-0-120135
 msgctxt "228378404-0-120135"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120135
@@ -27242,7 +27236,7 @@ msgstr "컴패니언의 위대한 선도자들"
 
 #: 228378404-0-120134
 msgctxt "228378404-0-120134"
-msgid "Reprint volume from the "Biographies" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Biographies\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120134
@@ -27252,7 +27246,7 @@ msgstr ""
 
 #: 228378404-0-120133
 msgctxt "228378404-0-120133"
-msgid "Reprint volume from the "The Trial of Eyevea" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Trial of Eyevea\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120133
@@ -27262,7 +27256,7 @@ msgstr ""
 
 #: 228378404-0-120132
 msgctxt "228378404-0-120132"
-msgid "Reprint volume from the "The Trial of Eyevea" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"The Trial of Eyevea\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120132
@@ -27272,7 +27266,7 @@ msgstr ""
 
 #: 228378404-0-120131
 msgctxt "228378404-0-120131"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120131
@@ -27282,7 +27276,7 @@ msgstr ""
 
 #: 228378404-0-120130
 msgctxt "228378404-0-120130"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120130
@@ -27292,7 +27286,7 @@ msgstr ""
 
 #: 228378404-0-120129
 msgctxt "228378404-0-120129"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120129
@@ -27302,7 +27296,7 @@ msgstr ""
 
 #: 228378404-0-120128
 msgctxt "228378404-0-120128"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120128
@@ -27312,7 +27306,7 @@ msgstr ""
 
 #: 228378404-0-120127
 msgctxt "228378404-0-120127"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120127
@@ -27322,7 +27316,7 @@ msgstr ""
 
 #: 228378404-0-120126
 msgctxt "228378404-0-120126"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120126
@@ -27332,7 +27326,7 @@ msgstr ""
 
 #: 228378404-0-120125
 msgctxt "228378404-0-120125"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120125
@@ -27342,7 +27336,7 @@ msgstr ""
 
 #: 228378404-0-120124
 msgctxt "228378404-0-120124"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120124
@@ -27352,7 +27346,7 @@ msgstr ""
 
 #: 228378404-0-120123
 msgctxt "228378404-0-120123"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120123
@@ -27362,7 +27356,7 @@ msgstr ""
 
 #: 228378404-0-120122
 msgctxt "228378404-0-120122"
-msgid "Reprint volume from the "Alik'r Desert Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Alik'r Desert Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120122
@@ -27372,7 +27366,7 @@ msgstr ""
 
 #: 228378404-0-120121
 msgctxt "228378404-0-120121"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120121
@@ -27382,7 +27376,7 @@ msgstr "글렌모릴 위어드"
 
 #: 228378404-0-120120
 msgctxt "228378404-0-120120"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120120
@@ -27392,7 +27386,7 @@ msgstr "야만스럽고 잔혹한 일생"
 
 #: 228378404-0-120119
 msgctxt "228378404-0-120119"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120119
@@ -27402,7 +27396,7 @@ msgstr ""
 
 #: 228378404-0-120118
 msgctxt "228378404-0-120118"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120118
@@ -27412,7 +27406,7 @@ msgstr ""
 
 #: 228378404-0-120117
 msgctxt "228378404-0-120117"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120117
@@ -27422,7 +27416,7 @@ msgstr ""
 
 #: 228378404-0-120116
 msgctxt "228378404-0-120116"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120116
@@ -27432,7 +27426,7 @@ msgstr ""
 
 #: 228378404-0-120115
 msgctxt "228378404-0-120115"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120115
@@ -27442,7 +27436,7 @@ msgstr ""
 
 #: 228378404-0-120114
 msgctxt "228378404-0-120114"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120114
@@ -27452,7 +27446,7 @@ msgstr ""
 
 #: 228378404-0-120113
 msgctxt "228378404-0-120113"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120113
@@ -27462,7 +27456,7 @@ msgstr ""
 
 #: 228378404-0-120112
 msgctxt "228378404-0-120112"
-msgid "Reprint volume from the "Bangkorai Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Bangkorai Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120112
@@ -27472,7 +27466,7 @@ msgstr ""
 
 #: 228378404-0-120111
 msgctxt "228378404-0-120111"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120111
@@ -27482,7 +27476,7 @@ msgstr ""
 
 #: 228378404-0-120110
 msgctxt "228378404-0-120110"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120110
@@ -27492,7 +27486,7 @@ msgstr ""
 
 #: 228378404-0-120109
 msgctxt "228378404-0-120109"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120109
@@ -27502,7 +27496,7 @@ msgstr ""
 
 #: 228378404-0-120108
 msgctxt "228378404-0-120108"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120108
@@ -27512,7 +27506,7 @@ msgstr ""
 
 #: 228378404-0-120107
 msgctxt "228378404-0-120107"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120107
@@ -27522,7 +27516,7 @@ msgstr ""
 
 #: 228378404-0-120106
 msgctxt "228378404-0-120106"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120106
@@ -27532,7 +27526,7 @@ msgstr ""
 
 #: 228378404-0-120105
 msgctxt "228378404-0-120105"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120105
@@ -27542,7 +27536,7 @@ msgstr ""
 
 #: 228378404-0-120104
 msgctxt "228378404-0-120104"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120104
@@ -27552,7 +27546,7 @@ msgstr ""
 
 #: 228378404-0-120103
 msgctxt "228378404-0-120103"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120103
@@ -27562,7 +27556,7 @@ msgstr ""
 
 #: 228378404-0-120102
 msgctxt "228378404-0-120102"
-msgid "Reprint volume from the "Rivenspire Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Rivenspire Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120102
@@ -27572,7 +27566,7 @@ msgstr ""
 
 #: 228378404-0-120101
 msgctxt "228378404-0-120101"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120101
@@ -27582,7 +27576,7 @@ msgstr ""
 
 #: 228378404-0-120100
 msgctxt "228378404-0-120100"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120100
@@ -27592,7 +27586,7 @@ msgstr ""
 
 #: 228378404-0-120099
 msgctxt "228378404-0-120099"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120099
@@ -27602,7 +27596,7 @@ msgstr ""
 
 #: 228378404-0-120098
 msgctxt "228378404-0-120098"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120098
@@ -27612,7 +27606,7 @@ msgstr ""
 
 #: 228378404-0-120097
 msgctxt "228378404-0-120097"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120097
@@ -27622,7 +27616,7 @@ msgstr ""
 
 #: 228378404-0-120096
 msgctxt "228378404-0-120096"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120096
@@ -27632,7 +27626,7 @@ msgstr ""
 
 #: 228378404-0-120095
 msgctxt "228378404-0-120095"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120095
@@ -27642,7 +27636,7 @@ msgstr ""
 
 #: 228378404-0-120094
 msgctxt "228378404-0-120094"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120094
@@ -27652,7 +27646,7 @@ msgstr ""
 
 #: 228378404-0-120093
 msgctxt "228378404-0-120093"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120093
@@ -27662,7 +27656,7 @@ msgstr ""
 
 #: 228378404-0-120092
 msgctxt "228378404-0-120092"
-msgid "Reprint volume from the "Stormhaven Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Stormhaven Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120092
@@ -27672,7 +27666,7 @@ msgstr ""
 
 #: 228378404-0-120091
 msgctxt "228378404-0-120091"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120091
@@ -27682,7 +27676,7 @@ msgstr ""
 
 #: 228378404-0-120090
 msgctxt "228378404-0-120090"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120090
@@ -27692,7 +27686,7 @@ msgstr ""
 
 #: 228378404-0-120089
 msgctxt "228378404-0-120089"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120089
@@ -27702,7 +27696,7 @@ msgstr ""
 
 #: 228378404-0-120088
 msgctxt "228378404-0-120088"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120088
@@ -27712,7 +27706,7 @@ msgstr ""
 
 #: 228378404-0-120087
 msgctxt "228378404-0-120087"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120087
@@ -27722,7 +27716,7 @@ msgstr ""
 
 #: 228378404-0-120086
 msgctxt "228378404-0-120086"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120086
@@ -27732,7 +27726,7 @@ msgstr ""
 
 #: 228378404-0-120085
 msgctxt "228378404-0-120085"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120085
@@ -27742,7 +27736,7 @@ msgstr ""
 
 #: 228378404-0-120084
 msgctxt "228378404-0-120084"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120084
@@ -27752,7 +27746,7 @@ msgstr ""
 
 #: 228378404-0-120083
 msgctxt "228378404-0-120083"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120083
@@ -27762,7 +27756,7 @@ msgstr ""
 
 #: 228378404-0-120082
 msgctxt "228378404-0-120082"
-msgid "Reprint volume from the "Glenumbra Lore" book collection. Mages Guild Edition, 2E 582."
+msgid "Reprint volume from the \"Glenumbra Lore\" book collection. Mages Guild Edition, 2E 582."
 msgstr ""
 
 #: 242841733-0-120082
@@ -28072,8 +28066,8 @@ msgstr ""
 
 #: 228378404-0-120033
 msgctxt "228378404-0-120033"
-msgid "In the vicinity of such a master cracksman, it's possible that "safebox" is a bit of a misnomer."
-msgstr "이 정도 수준의 달인 금고털이 근처에 있다면 "안전금고"라는 단어는 약간 부적절한 명칭일 수 있습니다."
+msgid "In the vicinity of such a master cracksman, it's possible that \"safebox\" is a bit of a misnomer."
+msgstr "이 정도 수준의 달인 금고털이 근처에 있다면 \"안전금고\"라는 단어는 약간 부적절한 명칭일 수 있습니다."
 
 #: 242841733-0-120033
 msgctxt "242841733-0-120033"
@@ -28082,8 +28076,8 @@ msgstr "장식용 안전금고"
 
 #: 228378404-0-120032
 msgctxt "228378404-0-120032"
-msgid "Every time you looted one of these, you thought, "I wish I had one." And now you do."
-msgstr "매번 이 상자를 털 때마다 "나도 하나 가졌으면 좋겠다" 하고 생각하셨겠죠. 이제 하나 가질 수 있습니다."
+msgid "Every time you looted one of these, you thought, \"I wish I had one.\" And now you do."
+msgstr "매번 이 상자를 털 때마다 \"나도 하나 가졌으면 좋겠다\" 하고 생각하셨겠죠. 이제 하나 가질 수 있습니다."
 
 #: 242841733-0-120032
 msgctxt "242841733-0-120032"
@@ -28092,8 +28086,8 @@ msgstr "장식용 도둑 수집물"
 
 #: 228378404-0-120031
 msgctxt "228378404-0-120031"
-msgid "Copy of an item perfect for creating illicit copies of a "borrowed" key, or for fashioning into a bump key."
-msgstr ""빌려온" 열쇠의 무허가 사본을 만들거나 만능 열쇠를 만들어내는데 딱 좋은 물건의 복제품입니다."
+msgid "Copy of an item perfect for creating illicit copies of a \"borrowed\" key, or for fashioning into a bump key."
+msgstr "\"빌려온\" 열쇠의 무허가 사본을 만들거나 만능 열쇠를 만들어내는데 딱 좋은 물건의 복제품입니다."
 
 #: 242841733-0-120031
 msgctxt "242841733-0-120031"
@@ -28522,7 +28516,7 @@ msgstr ""
 
 #: 228378404-0-119968
 msgctxt "228378404-0-119968"
-msgid ""The hideous harpy, half-avian abomination, is shunned by all the faithful of Tava." —The Revered Mubdaraz"
+msgid "\"The hideous harpy, half-avian abomination, is shunned by all the faithful of Tava.\" —The Revered Mubdaraz"
 msgstr ""
 
 #: 242841733-0-119968
@@ -28682,7 +28676,7 @@ msgstr ""
 
 #: 228378404-0-119944
 msgctxt "228378404-0-119944"
-msgid "A banner "borrowed" from the Akatosh-worshiping knights of the Order of the Hour."
+msgid "A banner \"borrowed\" from the Akatosh-worshiping knights of the Order of the Hour."
 msgstr ""
 
 #: 242841733-0-119944
@@ -28862,7 +28856,7 @@ msgstr ""
 
 #: 228378404-0-119916
 msgctxt "228378404-0-119916"
-msgid "A statue honoring the Nord culture hero Ysgramor, "The Harbinger of us all.""
+msgid "A statue honoring the Nord culture hero Ysgramor, \"The Harbinger of us all.\""
 msgstr ""
 
 #: 242841733-0-119916
@@ -29122,7 +29116,7 @@ msgstr ""
 
 #: 228378404-0-119881
 msgctxt "228378404-0-119881"
-msgid "The prevailing theory is that the red pigment on these stones is derived from a rare crimson flower, and is not the "blood of trespassing children," as claimed by some in Evermore."
+msgid "The prevailing theory is that the red pigment on these stones is derived from a rare crimson flower, and is not the \"blood of trespassing children,\" as claimed by some in Evermore."
 msgstr ""
 
 #: 242841733-0-119881
@@ -32482,7 +32476,7 @@ msgstr "인간형 표적 해골"
 
 #: 228378404-0-118529
 msgctxt "228378404-0-118529"
-msgid "A young tree also known as "The Hilarious Sapling." Or was that jester kidding about that?"
+msgid "A young tree also known as \"The Hilarious Sapling.\" Or was that jester kidding about that?"
 msgstr ""
 
 #: 242841733-0-118529

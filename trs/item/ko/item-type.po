@@ -1,29 +1,22 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:21+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 241484741-9-9
 msgctxt "241484741-9-9"
 msgid "Light"
-msgstr ""
+msgstr "천옷"
 
 #: 241484741-9-8
 msgctxt "241484741-9-8"
@@ -3207,8 +3200,8 @@ msgstr "장식가구, 외부 장식품 "
 
 #: 112701171-0-5880
 msgctxt "112701171-0-5880"
-msgid "Transmog,	Outfit Tokens"
-msgstr "제작,	아웃핏 토큰"
+msgid "Transmog,\tOutfit Tokens"
+msgstr "제작,\t아웃핏 토큰"
 
 #: 112701171-0-588
 msgctxt "112701171-0-588"
@@ -3217,8 +3210,8 @@ msgstr "제작, 번들"
 
 #: 112701171-0-5879
 msgctxt "112701171-0-5879"
-msgid "Transmog,	Outfit Tokens"
-msgstr "제작,	아웃핏 토큰"
+msgid "Transmog,\tOutfit Tokens"
+msgstr "제작,\t아웃핏 토큰"
 
 #: 96069573-0-5878
 msgctxt "96069573-0-5878"
@@ -11372,7 +11365,7 @@ msgstr "크레시"
 
 #: 68494373-0-169
 msgctxt "68494373-0-169"
-msgid ""Helmet""
+msgid "\"Helmet\""
 msgstr ""
 
 #: 112701171-0-169
@@ -20553,8 +20546,7 @@ msgstr "염색, 주간"
 #: 11547061-0-86
 msgctxt "11547061-0-86"
 msgid "Game"
-msgstr "수렵물"
-"\n"
+msgstr "수렵물\n"
 
 #: 112701171-0-858
 msgctxt "112701171-0-858"
@@ -27273,7 +27265,7 @@ msgstr ""
 
 #: 112701171-0-6237
 msgctxt "112701171-0-6237"
-msgid "Transmog,	Outfit Tokens"
+msgid "Transmog,\tOutfit Tokens"
 msgstr ""
 
 #: 112701171-0-6236
@@ -27358,8 +27350,8 @@ msgstr ""
 
 #: 112701171-0-6220
 msgctxt "112701171-0-6220"
-msgid "Transmog,	Outfit Tokens"
-msgstr "제작,	아웃핏 토큰"
+msgid "Transmog,\tOutfit Tokens"
+msgstr "제작,\t아웃핏 토큰"
 
 #: 112701171-0-622
 msgctxt "112701171-0-622"
@@ -28178,8 +28170,8 @@ msgstr ""
 
 #: 112701171-0-6048
 msgctxt "112701171-0-6048"
-msgid "Transmog,	Outfit Tokens"
-msgstr "제작,	아웃핏 토큰"
+msgid "Transmog,\tOutfit Tokens"
+msgstr "제작,\t아웃핏 토큰"
 
 #: 112701171-0-6047
 msgctxt "112701171-0-6047"
