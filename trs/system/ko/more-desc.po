@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:14+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 151931684-9-1
 msgctxt "151931684-9-1"
@@ -103,8 +96,7 @@ msgstr "물리 및 마법 저항력이 증가합니다."
 #: 249633428-5-1
 msgctxt "249633428-5-1"
 msgid "10% increase to Experience & Gold acquisition and Crafting Inspiration & Trait Research rates"
-msgstr "경험치 & 골드 획득량, 제작 숙련도, 연구 시간 효율이 10% 증가합니다."
-"\n"
+msgstr "경험치 & 골드 획득량, 제작 숙련도, 연구 시간 효율이 10% 증가합니다.\n"
 
 #: 251542164-5-1
 msgctxt "251542164-5-1"
@@ -843,8 +835,9 @@ msgstr "재봉 재료 배달"
 
 #: 50040644-0-9656
 msgctxt "50040644-0-9656"
-msgid "@Evs. Target's rear arc:"
-"\n@E- Stun for <<1>>"
+msgid ""
+"@Evs. Target's rear arc:\n"
+"@E- Stun for <<1>>"
 msgstr ""
 
 #: 191189508-0-965
@@ -1084,8 +1077,9 @@ msgstr "재봉 재료 배달"
 
 #: 50040644-0-9477
 msgctxt "50040644-0-9477"
-msgid "@UMana/Stamina Restore@<<1>>@<<2>>"
-"\n@USilence Duration@<<3>>@<<4>>"
+msgid ""
+"@UMana/Stamina Restore@<<1>>@<<2>>\n"
+"@USilence Duration@<<3>>@<<4>>"
 msgstr ""
 
 #: 191189508-0-947
@@ -2445,8 +2439,9 @@ msgstr "요리 재료 배달"
 
 #: 206046340-0-85497
 msgctxt "206046340-0-85497"
-msgid "Increase Health Recovery by <<1>>, Magicka Recovery by <<2>>, and Stamina Recovery by <<2>> for <<3>>."
-"\nThese effects are scaled based on your level."
+msgid ""
+"Increase Health Recovery by <<1>>, Magicka Recovery by <<2>>, and Stamina Recovery by <<2>> for <<3>>.\n"
+"These effects are scaled based on your level."
 msgstr ""
 
 #: 191189508-0-854
@@ -3091,7 +3086,7 @@ msgstr ""
 
 #: 52183620-0-8
 msgctxt "52183620-0-8"
-msgid "Acquired by completing the quest "The Mystery of Razak"."
+msgid "Acquired by completing the quest \"The Mystery of Razak\"."
 msgstr ""
 
 #: 125518133-0-8
@@ -4421,8 +4416,9 @@ msgstr ""
 
 #: 50040644-0-6174
 msgctxt "50040644-0-6174"
-msgid "@EAfter |c2adc22Parry|r:"
-"\n Unlock Riposte for <<1>>"
+msgid ""
+"@EAfter |c2adc22Parry|r:\n"
+" Unlock Riposte for <<1>>"
 msgstr ""
 
 #: 52183620-0-6174
@@ -4952,7 +4948,7 @@ msgstr ""
 
 #: 52183620-0-5910
 msgctxt "52183620-0-5910"
-msgid "Awarded for completing the "Dessert Domination" Achievement."
+msgid "Awarded for completing the \"Dessert Domination\" Achievement."
 msgstr ""
 
 #: 191189508-0-590
@@ -5347,7 +5343,7 @@ msgstr "대장기술 재료 배달"
 
 #: 52183620-0-5732
 msgctxt "52183620-0-5732"
-msgid "Acquired by completing the "Hero of Murkmire" achievement in the Murkmire DLC game pack."
+msgid "Acquired by completing the \"Hero of Murkmire\" achievement in the Murkmire DLC game pack."
 msgstr ""
 
 #: 191189508-0-573
@@ -5627,7 +5623,7 @@ msgstr "대장기술 재료 배달"
 
 #: 52183620-0-5539
 msgctxt "52183620-0-5539"
-msgid "Acquired by completing the "Psijic Sage" achievement."
+msgid "Acquired by completing the \"Psijic Sage\" achievement."
 msgstr ""
 
 #: 171157587-0-5539
@@ -5747,7 +5743,7 @@ msgstr ""
 
 #: 52183620-0-5472
 msgctxt "52183620-0-5472"
-msgid "Acquired by completing the "Master Craftsman" achievement."
+msgid "Acquired by completing the \"Master Craftsman\" achievement."
 msgstr ""
 
 #: 171157587-0-5472
@@ -5792,7 +5788,7 @@ msgstr ""
 
 #: 52183620-0-5460
 msgctxt "52183620-0-5460"
-msgid "Acquired by completing the "Relics of Summerset" achievement."
+msgid "Acquired by completing the \"Relics of Summerset\" achievement."
 msgstr ""
 
 #: 171157587-0-5460
@@ -6332,7 +6328,7 @@ msgstr ""
 
 #: 52183620-0-5241
 msgctxt "52183620-0-5241"
-msgid "Awarded for completing the "Moon Hunter Keep Challenger" Achievement."
+msgid "Awarded for completing the \"Moon Hunter Keep Challenger\" Achievement."
 msgstr ""
 
 #: 171157587-0-5241
@@ -6372,7 +6368,7 @@ msgstr ""
 
 #: 52183620-0-5234
 msgctxt "52183620-0-5234"
-msgid "Acquired by completing the quest "The Cursed Skull.""
+msgid "Acquired by completing the quest \"The Cursed Skull.\""
 msgstr ""
 
 #: 171157587-0-5234
@@ -6577,8 +6573,9 @@ msgstr ""
 
 #: 52183620-0-5168
 msgctxt "52183620-0-5168"
-msgid "Purchase Requires:"
-"\n"Summerset Grand Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Summerset Grand Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-5168
@@ -6593,8 +6590,9 @@ msgstr ""
 
 #: 52183620-0-5167
 msgctxt "52183620-0-5167"
-msgid "Purchase Requires:"
-"\n"Room to Spare" House Quest Completion"
+msgid ""
+"Purchase Requires:\n"
+"\"Room to Spare\" House Quest Completion"
 msgstr ""
 
 #: 224875171-0-5167
@@ -6724,7 +6722,7 @@ msgstr ""
 
 #: 52183620-0-5109
 msgctxt "52183620-0-5109"
-msgid "Acquired by completing the "Cloudrest Vanquisher" achievement in Cloudrest."
+msgid "Acquired by completing the \"Cloudrest Vanquisher\" achievement in Cloudrest."
 msgstr ""
 
 #: 171157587-0-5109
@@ -6879,7 +6877,7 @@ msgstr ""
 
 #: 52183620-0-5035
 msgctxt "52183620-0-5035"
-msgid "Acquired by completing the quest "Sunhold Sundered.""
+msgid "Acquired by completing the quest \"Sunhold Sundered.\""
 msgstr ""
 
 #: 224875171-0-5035
@@ -6899,7 +6897,7 @@ msgstr ""
 
 #: 52183620-0-5029
 msgctxt "52183620-0-5029"
-msgid "Acquired by completing the quest "The Towers' Remains" in Summerset."
+msgid "Acquired by completing the quest \"The Towers' Remains\" in Summerset."
 msgstr ""
 
 #: 191189508-0-502
@@ -7564,7 +7562,7 @@ msgstr ""
 
 #: 52183620-0-4793
 msgctxt "52183620-0-4793"
-msgid "Awarded for completing the "Scalecaller Peak Challenger" Achievement."
+msgid "Awarded for completing the \"Scalecaller Peak Challenger\" Achievement."
 msgstr ""
 
 #: 171157587-0-4793
@@ -7779,7 +7777,7 @@ msgstr ""
 
 #: 52183620-0-4725
 msgctxt "52183620-0-4725"
-msgid "Awarded for completing the "Fang Lair Challenger" Achievement."
+msgid "Awarded for completing the \"Fang Lair Challenger\" Achievement."
 msgstr ""
 
 #: 171157587-0-4725
@@ -8114,7 +8112,7 @@ msgstr ""
 
 #: 52183620-0-4664
 msgctxt "52183620-0-4664"
-msgid "Acquired by completing the quest "The Light of Knowledge," in Clockwork City."
+msgid "Acquired by completing the quest \"The Light of Knowledge,\" in Clockwork City."
 msgstr ""
 
 #: 171157587-0-4664
@@ -8124,7 +8122,7 @@ msgstr ""
 
 #: 52183620-0-4663
 msgctxt "52183620-0-4663"
-msgid "Acquired by completing the "Hero of Clockwork City" Achievement."
+msgid "Acquired by completing the \"Hero of Clockwork City\" Achievement."
 msgstr ""
 
 #: 171157587-0-4663
@@ -8134,7 +8132,7 @@ msgstr ""
 
 #: 52183620-0-4662
 msgctxt "52183620-0-4662"
-msgid "Acquired by completing the quest "Lost in the Gloam" in Clockwork City."
+msgid "Acquired by completing the quest \"Lost in the Gloam\" in Clockwork City."
 msgstr ""
 
 #: 171157587-0-4662
@@ -9914,10 +9912,11 @@ msgstr "가치증명에 대한 보상"
 
 #: 206046340-0-35792
 msgctxt "206046340-0-35792"
-msgid "· Your health regenerates <<1>> slower"
-"\n· You take <<2>> more damage from fire "
-"\n· Your vampirism abilities cost <<3>> less and advance your stage"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
+msgid ""
+"· Your health regenerates <<1>> slower\n"
+"· You take <<2>> more damage from fire \n"
+"· Your vampirism abilities cost <<3>> less and advance your stage\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
 msgstr ""
 
 #: 224875171-0-357
@@ -10177,7 +10176,7 @@ msgstr "가치증명에 대한 보상"
 
 #: 52183620-0-34
 msgctxt "52183620-0-34"
-msgid "Acquired by completing the quest "The Bargain's End"."
+msgid "Acquired by completing the quest \"The Bargain's End\"."
 msgstr ""
 
 #: 125518133-0-34
@@ -12207,10 +12206,12 @@ msgstr ""
 
 #: 50040644-0-29063
 msgctxt "50040644-0-29063"
-msgid "@Evs. Target's rear arc:"
-"\n@E- Stun for <<1>>"
-msgstr "@Evs. 적의 후방:"
-"\n@E<<1>>동안 기절"
+msgid ""
+"@Evs. Target's rear arc:\n"
+"@E- Stun for <<1>>"
+msgstr ""
+"@Evs. 적의 후방:\n"
+"@E<<1>>동안 기절"
 
 #: 224875171-0-2906
 msgctxt "224875171-0-2906"
@@ -20714,8 +20715,8 @@ msgstr "던머"
 
 #: 52183620-0-163
 msgctxt "52183620-0-163"
-msgid "A very rare collectible rewarded when you complete the achievement "Imperial City Challenger". This achievement can be found in the Achievements menu, under the Imperial City section of the DLC achievement category."
-msgstr ""임페리얼 시티 도전자" 업적을 달성하면 매우 희귀하게 얻을 수 있는 보상입니다. 이 업적은 DLC 업적 카데고리의 임페리얼 시티 항목 아래의 업적 메뉴에서 찾아볼 수 있습니다."
+msgid "A very rare collectible rewarded when you complete the achievement \"Imperial City Challenger\". This achievement can be found in the Achievements menu, under the Imperial City section of the DLC achievement category."
+msgstr "\"임페리얼 시티 도전자\" 업적을 달성하면 매우 희귀하게 얻을 수 있는 보상입니다. 이 업적은 DLC 업적 카데고리의 임페리얼 시티 항목 아래의 업적 메뉴에서 찾아볼 수 있습니다."
 
 #: 171157587-0-163
 msgctxt "171157587-0-163"
@@ -23894,8 +23895,8 @@ msgstr ""
 
 #: 52183620-0-1368
 msgctxt "52183620-0-1368"
-msgid "Awarded for completing the "Bloodroot Forge Challenger" Achievement."
-msgstr ""Bloodroot Forge Challenger" 업적 달성 보상."
+msgid "Awarded for completing the \"Bloodroot Forge Challenger\" Achievement."
+msgstr "\"Bloodroot Forge Challenger\" 업적 달성 보상."
 
 #: 171157587-0-1368
 msgctxt "171157587-0-1368"
@@ -24100,8 +24101,7 @@ msgstr ""
 #: 52183620-0-133
 msgctxt "52183620-0-133"
 msgid "Acquired from the level up advisor."
-msgstr "레벨 상승 보상 시스템으로 획득합니다."
-"\n"
+msgstr "레벨 상승 보상 시스템으로 획득합니다.\n"
 
 #: 125518133-0-133
 msgctxt "125518133-0-133"
@@ -24175,10 +24175,12 @@ msgstr ""
 
 #: 52183620-0-1311
 msgctxt "52183620-0-1311"
-msgid "Purchase Requires:"
-"\n"Horns of the Reach Delver" Achievement"
-msgstr "구매 조건:"
-"\n"Horns of the Reach Delver" 업적"
+msgid ""
+"Purchase Requires:\n"
+"\"Horns of the Reach Delver\" Achievement"
+msgstr ""
+"구매 조건:\n"
+"\"Horns of the Reach Delver\" 업적"
 
 #: 171157587-0-1311
 msgctxt "171157587-0-1311"
@@ -24192,12 +24194,14 @@ msgstr ""
 
 #: 52183620-0-1310
 msgctxt "52183620-0-1310"
-msgid "Purchase Requires:"
-"\n"An Unsparing Harvest" Achievement"
-"\nOnly Available During Witches Festival"
-msgstr "구매 조건:"
-"\n"아낌 없는 수확" 업적"
-"\n마녀들의 축제 기간에만 구입 가능"
+msgid ""
+"Purchase Requires:\n"
+"\"An Unsparing Harvest\" Achievement\n"
+"Only Available During Witches Festival"
+msgstr ""
+"구매 조건:\n"
+"\"아낌 없는 수확\" 업적\n"
+"마녀들의 축제 기간에만 구입 가능"
 
 #: 171157587-0-1310
 msgctxt "171157587-0-1310"
@@ -25541,8 +25545,9 @@ msgstr ""
 
 #: 52183620-0-1243
 msgctxt "52183620-0-1243"
-msgid "Purchase Requires:"
-"\n"Savior of Morrowind" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Savior of Morrowind\" Achievement"
 msgstr ""
 
 #: 171157587-0-1243
@@ -25562,8 +25567,9 @@ msgstr ""
 
 #: 52183620-0-1242
 msgctxt "52183620-0-1242"
-msgid "Purchase Requires:"
-"\n"Room to Spare" House Quest Completion"
+msgid ""
+"Purchase Requires:\n"
+"\"Room to Spare\" House Quest Completion"
 msgstr ""
 
 #: 171157587-0-1242
@@ -25678,7 +25684,7 @@ msgstr ""
 
 #: 52183620-0-1236
 msgctxt "52183620-0-1236"
-msgid "Acquired by completing the quest "Divine Intervention" in Vvardenfell."
+msgid "Acquired by completing the quest \"Divine Intervention\" in Vvardenfell."
 msgstr ""
 
 #: 171157587-0-1236
@@ -26688,7 +26694,7 @@ msgstr "대장기술 재료 배달"
 
 #: 224875171-0-1179
 msgctxt "224875171-0-1179"
-msgid "crown store costume "Buoyant Gentility" Ensemble dunmer female mid"
+msgid "crown store costume \"Buoyant Gentility\" Ensemble dunmer female mid"
 msgstr ""
 
 #: 171157587-0-1178
@@ -26703,7 +26709,7 @@ msgstr "대장기술 재료 배달"
 
 #: 224875171-0-1178
 msgctxt "224875171-0-1178"
-msgid "crown store costume "Holiday in Balmora" Outfit dunmer female low"
+msgid "crown store costume \"Holiday in Balmora\" Outfit dunmer female low"
 msgstr ""
 
 #: 171157587-0-1177
@@ -26903,7 +26909,7 @@ msgstr "대장기술 재료 배달"
 
 #: 52183620-0-1166
 msgctxt "52183620-0-1166"
-msgid "Acquired by completing the quest "The Scarlet Judge" in Suran."
+msgid "Acquired by completing the quest \"The Scarlet Judge\" in Suran."
 msgstr ""
 
 #: 171157587-0-1166
@@ -27828,9 +27834,10 @@ msgstr ""
 
 #: 206046340-0-111946
 msgctxt "206046340-0-111946"
-msgid "Maximum Health increased by <<1>> and reduces your damage taken by <<2>>"
+msgid ""
+"Maximum Health increased by <<1>> and reduces your damage taken by <<2>>\n"
 "\n"
-"\nWhile in Werewolf form, Maximum Health increased by <<3>> and reduces your damage taken by <<4>>"
+"While in Werewolf form, Maximum Health increased by <<3>> and reduces your damage taken by <<4>>"
 msgstr ""
 
 #: 171157587-0-1119
@@ -27850,9 +27857,10 @@ msgstr ""
 
 #: 206046340-0-111885
 msgctxt "206046340-0-111885"
-msgid "Weapon and Spell Damage increased by <<1>>"
+msgid ""
+"Weapon and Spell Damage increased by <<1>>\n"
 "\n"
-"\nAs a Werewolf your Weapon and Spell Damage is increased by <<2>>"
+"As a Werewolf your Weapon and Spell Damage is increased by <<2>>"
 msgstr ""
 
 #: 171157587-0-1118
@@ -28302,8 +28310,9 @@ msgstr ""
 
 #: 52183620-0-1097
 msgctxt "52183620-0-1097"
-msgid "Purchase Requires:"
-"\n"Hero of the Daggerfall Covenant" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Hero of the Daggerfall Covenant\" Achievement"
 msgstr ""
 
 #: 171157587-0-1097
@@ -28323,8 +28332,9 @@ msgstr ""
 
 #: 52183620-0-1096
 msgctxt "52183620-0-1096"
-msgid "Purchase Requires:"
-"\n"Hero of the Aldmeri Dominion" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Hero of the Aldmeri Dominion\" Achievement"
 msgstr ""
 
 #: 171157587-0-1096
@@ -28344,8 +28354,9 @@ msgstr ""
 
 #: 52183620-0-1095
 msgctxt "52183620-0-1095"
-msgid "Purchase Requires:"
-"\n"Glenumbra Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Glenumbra Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1095
@@ -28395,8 +28406,9 @@ msgstr ""
 
 #: 52183620-0-1092
 msgctxt "52183620-0-1092"
-msgid "Purchase Requires:"
-"\n"Bangkorai Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Bangkorai Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1092
@@ -28571,8 +28583,9 @@ msgstr ""
 
 #: 52183620-0-1083
 msgctxt "52183620-0-1083"
-msgid "Purchase Requires:"
-"\n"Reaper's March Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Reaper's March Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1083
@@ -28622,8 +28635,9 @@ msgstr ""
 
 #: 52183620-0-1080
 msgctxt "52183620-0-1080"
-msgid "Purchase Requires:"
-"\n"Deshaan Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Deshaan Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1080
@@ -28798,8 +28812,9 @@ msgstr ""
 
 #: 52183620-0-1071
 msgctxt "52183620-0-1071"
-msgid "Purchase Requires:"
-"\n"Shadowfen Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Shadowfen Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1071
@@ -28989,8 +29004,9 @@ msgstr ""
 
 #: 52183620-0-1061
 msgctxt "52183620-0-1061"
-msgid "Purchase Requires:"
-"\n"Room to Spare" House Quest Completion"
+msgid ""
+"Purchase Requires:\n"
+"\"Room to Spare\" House Quest Completion"
 msgstr ""
 
 #: 171157587-0-1061
@@ -29010,8 +29026,9 @@ msgstr ""
 
 #: 52183620-0-1060
 msgctxt "52183620-0-1060"
-msgid "Purchase Requires:"
-"\n"Room to Spare" House Quest Completion"
+msgid ""
+"Purchase Requires:\n"
+"\"Room to Spare\" House Quest Completion"
 msgstr ""
 
 #: 171157587-0-1060
@@ -29836,8 +29853,9 @@ msgstr "탐리엘의 흔한 주화입니다. 골드는 상인이나 다른 플�
 
 #: 121548292-0-1
 msgctxt "121548292-0-1"
-msgid "When you have all four Legendary Indrik Feathers: "
-"\nUse to combine and unlock the Nascent Indrik mount collectible."
+msgid ""
+"When you have all four Legendary Indrik Feathers: \n"
+"Use to combine and unlock the Nascent Indrik mount collectible."
 msgstr ""
 
 #: 125518133-0-1
@@ -29863,7 +29881,9 @@ msgstr ""
 #: 237304340-0-1
 msgctxt "237304340-0-1"
 msgid "Become an ESO Plus member to unlock VIP perks, including full access to all DLC game packs in the Crown Store, monthly Crowns to spend on in-game items, unlimited storage for crafting materials, and loads of additional bonuses. It is the preferred choice of Tamriel's greatest champions!"
-msgstr "ESO Plus 멤버가 되어 VIP 특전을 해금하면 크라운 스토어에 있는 모든 DLC 게임 팩을 이용할 수 있고, 게임 내 아이템을 구매할 수 있는 크라운을 매달 받을 수 있습니다. 또한 재작 재료를 무한하게 보관할 수 있는 공간도 주어지고, 그 외에도 많은 추가적인 혜택이 부여됩니다. 탐리엘에서 가장 위대한 투사들이 선호하는 선택이죠!"
+msgstr ""
+"ESO Plus 멤버가 되어 VIP 특전을 해금하면 크라운 스토어에 있는 모든 DLC 게임 팩을 이용할 수 있고, 게임 내 아이템을 구매할 수 있는 크라운을 매달 받을 수 있습니다. 또한 재작 재료를 무한하게 보관할 수 있는 공간도 주어지고, 그 외에도 많은 추가적인 혜택이 부여됩니다. 탐리엘에서 가장 위대한 투사들"
+"이 선호하는 선택이죠!"
 
 #: 249633428-0-1
 msgctxt "249633428-0-1"
@@ -30932,8 +30952,9 @@ msgstr ""
 
 #: 206046340-0-93789
 msgctxt "206046340-0-93789"
-msgid "Pretend like it's the IC Anniversary."
-"\n(DOES NOT TRIGGER DOUBLE TEL VAR DROPS!)"
+msgid ""
+"Pretend like it's the IC Anniversary.\n"
+"(DOES NOT TRIGGER DOUBLE TEL VAR DROPS!)"
 msgstr ""
 
 #: 206046340-0-93788
@@ -31078,8 +31099,9 @@ msgstr "재봉 재료 배달"
 
 #: 50040644-0-9351
 msgctxt "50040644-0-9351"
-msgid "@UCooldown@<<1>>@<<2>>"
-"\n@UDuration@<<3>>@<<4>>"
+msgid ""
+"@UCooldown@<<1>>@<<2>>\n"
+"@UDuration@<<3>>@<<4>>"
 msgstr ""
 
 #: 191189508-0-935
@@ -31249,32 +31271,36 @@ msgstr ""
 
 #: 206046340-0-92449
 msgctxt "206046340-0-92449"
-msgid "· Your health regenerates <<1>> slower"
-"\n· You take <<2>> more damage from fire "
-"\n· Your vampirism abilities cost <<3>> less and advance your stage"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
+msgid ""
+"· Your health regenerates <<1>> slower\n"
+"· You take <<2>> more damage from fire \n"
+"· Your vampirism abilities cost <<3>> less and advance your stage\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
 msgstr ""
 
 #: 206046340-0-92443
 msgctxt "206046340-0-92443"
-msgid "· Your health regenerates <<1>> slower"
-"\n· You take <<2>> more damage from fire "
-"\n· Your vampirism abilities cost <<3>> less and advance your stage"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
+msgid ""
+"· Your health regenerates <<1>> slower\n"
+"· You take <<2>> more damage from fire \n"
+"· Your vampirism abilities cost <<3>> less and advance your stage\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
 msgstr ""
 
 #: 206046340-0-92441
 msgctxt "206046340-0-92441"
-msgid "· Your health regenerates <<1>> slower"
-"\n· You take <<2>> more damage from fire "
-"\n· Your vampirism abilities cost <<3>> less and advance your stage"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
+msgid ""
+"· Your health regenerates <<1>> slower\n"
+"· You take <<2>> more damage from fire \n"
+"· Your vampirism abilities cost <<3>> less and advance your stage\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
 msgstr ""
 
 #: 206046340-0-92438
 msgctxt "206046340-0-92438"
-msgid "· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
-"\n· Using vampire abilities advances your vampirism stage"
+msgid ""
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed\n"
+"· Using vampire abilities advances your vampirism stage"
 msgstr ""
 
 #: 206046340-0-92435
@@ -32474,12 +32500,13 @@ msgstr ""
 
 #: 206046340-0-85630
 msgctxt "206046340-0-85630"
-msgid "-Increases max health by <<1>>"
-"\n-Increases max stamina and magicka by X"
-"\n-Increases health/magicka/stamina recovery by X"
-"\n-Increasese spell and weapon damage by X"
-"\n-Increases spell and physical resistance by X"
-"\n-Increases damage against monsters by <<2>>"
+msgid ""
+"-Increases max health by <<1>>\n"
+"-Increases max stamina and magicka by X\n"
+"-Increases health/magicka/stamina recovery by X\n"
+"-Increasese spell and weapon damage by X\n"
+"-Increases spell and physical resistance by X\n"
+"-Increases damage against monsters by <<2>>"
 msgstr ""
 
 #: 206046340-0-85623
@@ -32684,8 +32711,9 @@ msgstr ""
 
 #: 50040644-0-8443
 msgctxt "50040644-0-8443"
-msgid "@UDamage@<<1>>@<<2>>"
-"\n@UHealing@<<3>>@<<4>>"
+msgid ""
+"@UDamage@<<1>>@<<2>>\n"
+"@UHealing@<<3>>@<<4>>"
 msgstr ""
 
 #: 206046340-0-84428
@@ -34580,8 +34608,9 @@ msgstr ""
 
 #: 50040644-0-7252
 msgctxt "50040644-0-7252"
-msgid "@UCooldown@<<1>>@<<2>>"
-"\n@Uvs. Players@<<3>>@<<4>>"
+msgid ""
+"@UCooldown@<<1>>@<<2>>\n"
+"@Uvs. Players@<<3>>@<<4>>"
 msgstr ""
 
 #: 206046340-0-72500
@@ -36101,8 +36130,9 @@ msgstr ""
 
 #: 50040644-0-68789
 msgctxt "50040644-0-68789"
-msgid "@UInitial Damage@<<1>>@<<2>>"
-"\n@EBounces to one additional target"
+msgid ""
+"@UInitial Damage@<<1>>@<<2>>\n"
+"@EBounces to one additional target"
 msgstr ""
 
 #: 171157587-0-6878
@@ -36367,10 +36397,12 @@ msgstr ""
 
 #: 206046340-0-68416
 msgctxt "206046340-0-68416"
-msgid "Increase Health Recovery by <<1>>, Magicka Recovery by <<2>>, and Stamina Recovery by <<2>> for <<3>>."
-"\nThese effects are scaled based on your level."
-msgstr "<<4>> 동안 체력 재생이 <<1>>만큼, 매지카 재생이 <<2>>만큼, 스태미나 재생이 <<3>>만큼 증가합니다."
-"\n이 효과는 레벨에 비례해 상승합니다."
+msgid ""
+"Increase Health Recovery by <<1>>, Magicka Recovery by <<2>>, and Stamina Recovery by <<2>> for <<3>>.\n"
+"These effects are scaled based on your level."
+msgstr ""
+"<<4>> 동안 체력 재생이 <<1>>만큼, 매지카 재생이 <<2>>만큼, 스태미나 재생이 <<3>>만큼 증가합니다.\n"
+"이 효과는 레벨에 비례해 상승합니다."
 
 #: 206046340-0-68411
 msgctxt "206046340-0-68411"
@@ -40759,7 +40791,7 @@ msgstr ""
 
 #: 52183620-0-6046
 msgctxt "52183620-0-6046"
-msgid "Acquired by completing the quest "The Halls of Colossus.""
+msgid "Acquired by completing the quest \"The Halls of Colossus.\""
 msgstr ""
 
 #: 52183620-0-6045
@@ -40869,7 +40901,7 @@ msgstr ""
 
 #: 52183620-0-5914
 msgctxt "52183620-0-5914"
-msgid "Acquired by completing the "Depths of Malatar Conqueror" achievement."
+msgid "Acquired by completing the \"Depths of Malatar Conqueror\" achievement."
 msgstr ""
 
 #: 52183620-0-5911
@@ -41054,7 +41086,7 @@ msgstr ""
 
 #: 52183620-0-5856
 msgctxt "52183620-0-5856"
-msgid "Awarded for completing the "Frostvault Conqueror" Achievement."
+msgid "Awarded for completing the \"Frostvault Conqueror\" Achievement."
 msgstr ""
 
 #: 171157587-0-5855
@@ -41609,12 +41641,12 @@ msgstr ""
 
 #: 52183620-0-5727
 msgctxt "52183620-0-5727"
-msgid "Acquired by completing the "Blackrose Prison Conqueror" achievement in Blackrose Prison."
+msgid "Acquired by completing the \"Blackrose Prison Conqueror\" achievement in Blackrose Prison."
 msgstr ""
 
 #: 52183620-0-5725
 msgctxt "52183620-0-5725"
-msgid "Acquired by completing the "Newly Charitable" achievement."
+msgid "Acquired by completing the \"Newly Charitable\" achievement."
 msgstr ""
 
 #: 206046340-0-57210
@@ -43034,7 +43066,7 @@ msgstr ""
 
 #: 52183620-0-5242
 msgctxt "52183620-0-5242"
-msgid "Awarded for completing the "The Great Indrik Hunt" Achievement."
+msgid "Awarded for completing the \"The Great Indrik Hunt\" Achievement."
 msgstr ""
 
 #: 171157587-0-524
@@ -43149,7 +43181,7 @@ msgstr ""
 
 #: 52183620-0-5218
 msgctxt "52183620-0-5218"
-msgid "Awarded for completing the "March of Sacrifices Challenger" Achievement."
+msgid "Awarded for completing the \"March of Sacrifices Challenger\" Achievement."
 msgstr ""
 
 #: 171157587-0-5216
@@ -43634,7 +43666,7 @@ msgstr ""
 
 #: 52183620-0-5114
 msgctxt "52183620-0-5114"
-msgid "Acquired by completing the quest "Lost in Translation" in Summerset."
+msgid "Acquired by completing the quest \"Lost in Translation\" in Summerset."
 msgstr ""
 
 #: 171157587-0-5112
@@ -43644,7 +43676,7 @@ msgstr ""
 
 #: 52183620-0-5111
 msgctxt "52183620-0-5111"
-msgid "Acquired by completing the quest "The Crystal Tower" in Summerset."
+msgid "Acquired by completing the quest \"The Crystal Tower\" in Summerset."
 msgstr ""
 
 #: 191189508-0-511
@@ -43954,7 +43986,7 @@ msgstr ""
 
 #: 52183620-0-5036
 msgctxt "52183620-0-5036"
-msgid "Acquired by completing the quest "An Unexpected Betrayal.""
+msgid "Acquired by completing the quest \"An Unexpected Betrayal.\""
 msgstr ""
 
 #: 171157587-0-5032
@@ -43979,7 +44011,7 @@ msgstr "대장기술 재료 배달"
 
 #: 52183620-0-5028
 msgctxt "52183620-0-5028"
-msgid "Acquired by completing the quest "The Shattered Staff" in Summerset."
+msgid "Acquired by completing the quest \"The Shattered Staff\" in Summerset."
 msgstr ""
 
 #: 171157587-0-5025
@@ -44009,7 +44041,7 @@ msgstr ""
 
 #: 52183620-0-5016
 msgctxt "52183620-0-5016"
-msgid "Acquired by completing the quest "The Towers' Fall" in Summerset."
+msgid "Acquired by completing the quest \"The Towers' Fall\" in Summerset."
 msgstr ""
 
 #: 171157587-0-5010
@@ -44969,7 +45001,7 @@ msgstr ""
 
 #: 52183620-0-482
 msgctxt "52183620-0-482"
-msgid "Acquired by completing the "Cradle of Shadows Challenger" achievement."
+msgid "Acquired by completing the \"Cradle of Shadows Challenger\" achievement."
 msgstr ""
 
 #: 171157587-0-4818
@@ -45044,7 +45076,7 @@ msgstr ""
 
 #: 52183620-0-481
 msgctxt "52183620-0-481"
-msgid "Acquired by completing the "Ruins of Mazzatun Challenger" achievement."
+msgid "Acquired by completing the \"Ruins of Mazzatun Challenger\" achievement."
 msgstr ""
 
 #: 171157587-0-4808
@@ -45254,8 +45286,9 @@ msgstr ""
 
 #: 50040644-0-47629
 msgctxt "50040644-0-47629"
-msgid "@UInitial Damage@<<1>>@<<2>>"
-"\n@EBounces to one additional target"
+msgid ""
+"@UInitial Damage@<<1>>@<<2>>\n"
+"@EBounces to one additional target"
 msgstr ""
 
 #: 171157587-0-4762
@@ -47000,20 +47033,23 @@ msgstr ""
 
 #: 206046340-0-44569
 msgctxt "206046340-0-44569"
-msgid "Increases Damage Done by 10%"
-"\nDecreases Damage Taken by 5%"
+msgid ""
+"Increases Damage Done by 10%\n"
+"Decreases Damage Taken by 5%"
 msgstr ""
 
 #: 206046340-0-44567
 msgctxt "206046340-0-44567"
-msgid "Decreases Damage Taken by 10%"
-"\nIncreases Damage Done by 5%"
+msgid ""
+"Decreases Damage Taken by 10%\n"
+"Increases Damage Done by 5%"
 msgstr ""
 
 #: 206046340-0-44565
 msgctxt "206046340-0-44565"
-msgid "Increases Movement Speed by 8%"
-"\nIncreases Damage Done by 10%"
+msgid ""
+"Increases Movement Speed by 8%\n"
+"Increases Damage Done by 10%"
 msgstr ""
 
 #: 171157587-0-4456
@@ -48923,8 +48959,9 @@ msgstr ""
 
 #: 206046340-0-41325
 msgctxt "206046340-0-41325"
-msgid "Increases Movement Speed by 4%"
-"\nDecreases Damage Taken by 10%"
+msgid ""
+"Increases Movement Speed by 4%\n"
+"Decreases Damage Taken by 10%"
 msgstr ""
 
 #: 171157587-0-4132
@@ -49884,10 +49921,11 @@ msgstr ""
 
 #: 206046340-0-39724
 msgctxt "206046340-0-39724"
-msgid "· Your health regenerates 75% slower"
-"\n· You take 50% more damage from fire attacks"
-"\n· Your vampirism abilities cost 60% less health to cast"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
+msgid ""
+"· Your health regenerates 75% slower\n"
+"· You take 50% more damage from fire attacks\n"
+"· Your vampirism abilities cost 60% less health to cast\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
 msgstr ""
 
 #: 171157587-0-3972
@@ -49897,24 +49935,27 @@ msgstr ""
 
 #: 206046340-0-39718
 msgctxt "206046340-0-39718"
-msgid "· Your health regenerates 50% slower"
-"\n· You take 50% more damage from fire attacks"
-"\n· Your vampirism abilities cost 40% less health to cast"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
+msgid ""
+"· Your health regenerates 50% slower\n"
+"· You take 50% more damage from fire attacks\n"
+"· Your vampirism abilities cost 40% less health to cast\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
 msgstr ""
 
 #: 206046340-0-39712
 msgctxt "206046340-0-39712"
-msgid "· You take 50% more damage from fire attacks"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
+msgid ""
+"· You take 50% more damage from fire attacks\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
 msgstr ""
 
 #: 206046340-0-39710
 msgctxt "206046340-0-39710"
-msgid "· Your health regenerates 25% slower"
-"\n· You take 50% more damage from fire attacks"
-"\n· Your vampirism abilities cost 20% less health to cast"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
+msgid ""
+"· Your health regenerates 25% slower\n"
+"· You take 50% more damage from fire attacks\n"
+"· Your vampirism abilities cost 20% less health to cast\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed on them"
 msgstr ""
 
 #: 171157587-0-3971
@@ -52259,7 +52300,7 @@ msgstr ""
 
 #: 52183620-0-359
 msgctxt "52183620-0-359"
-msgid "Acquired by completing the quest "Forever Hold Your Peace" in the Thieves Guild questline."
+msgid "Acquired by completing the quest \"Forever Hold Your Peace\" in the Thieves Guild questline."
 msgstr ""
 
 #: 171157587-0-3586
@@ -52304,10 +52345,11 @@ msgstr ""
 
 #: 206046340-0-35783
 msgctxt "206046340-0-35783"
-msgid "· Your health regenerates <<1>> slower"
-"\n· You take <<2>> more damage from fire "
-"\n· Your vampirism abilities cost <<3>> less and advance your stage"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
+msgid ""
+"· Your health regenerates <<1>> slower\n"
+"· You take <<2>> more damage from fire \n"
+"· Your vampirism abilities cost <<3>> less and advance your stage\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
 msgstr ""
 
 #: 171157587-0-3578
@@ -52317,16 +52359,18 @@ msgstr ""
 
 #: 206046340-0-35776
 msgctxt "206046340-0-35776"
-msgid "· Your health regenerates <<1>> slower"
-"\n· You take <<2>> more damage from fire "
-"\n· Your vampirism abilities cost <<3>> less and advance your stage"
-"\n· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
+msgid ""
+"· Your health regenerates <<1>> slower\n"
+"· You take <<2>> more damage from fire \n"
+"· Your vampirism abilities cost <<3>> less and advance your stage\n"
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
 msgstr ""
 
 #: 206046340-0-35771
 msgctxt "206046340-0-35771"
-msgid "· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed"
-"\n· Using vampire abilities advances your vampirism stage"
+msgid ""
+"· Feeding reduces your vampirism stage, sneak up behind an enemy humanoid to feed\n"
+"· Using vampire abilities advances your vampirism stage"
 msgstr ""
 
 #: 206046340-0-35753
@@ -52391,9 +52435,10 @@ msgstr ""
 
 #: 206046340-0-35658
 msgctxt "206046340-0-35658"
-msgid "You can transform into a savage Werewolf."
+msgid ""
+"You can transform into a savage Werewolf.\n"
 "\n"
-"\nYou take <<1>> more Poison Damage while transformed into a Werewolf."
+"You take <<1>> more Poison Damage while transformed into a Werewolf."
 msgstr ""
 
 #: 171157587-0-3565
@@ -55553,7 +55598,7 @@ msgstr ""
 
 #: 52183620-0-289
 msgctxt "52183620-0-289"
-msgid "Acquired by completing the quest "Signed in Blood"."
+msgid "Acquired by completing the quest \"Signed in Blood\"."
 msgstr ""
 
 #: 171157587-0-2888
@@ -56838,7 +56883,7 @@ msgstr ""
 
 #: 52183620-0-252
 msgctxt "52183620-0-252"
-msgid "Acquired by completing the quest "Filling the Void"."
+msgid "Acquired by completing the quest \"Filling the Void\"."
 msgstr ""
 
 #: 171157587-0-2518
@@ -59133,7 +59178,7 @@ msgstr ""
 
 #: 52183620-0-1316
 msgctxt "52183620-0-1316"
-msgid "Awarded for completing the "Falkreath Hold Challenger" Achievement."
+msgid "Awarded for completing the \"Falkreath Hold Challenger\" Achievement."
 msgstr ""
 
 #: 171157587-0-1314
@@ -59148,9 +59193,10 @@ msgstr ""
 
 #: 52183620-0-1312
 msgctxt "52183620-0-1312"
-msgid "Purchase Requires:"
-"\n"The God of Schemes" Achievement"
-"\nAvailable After 2018 Anniversary Jubilee Starts"
+msgid ""
+"Purchase Requires:\n"
+"\"The God of Schemes\" Achievement\n"
+"Available After 2018 Anniversary Jubilee Starts"
 msgstr ""
 
 #: 171157587-0-1305
@@ -59375,9 +59421,10 @@ msgstr ""
 
 #: 206046340-0-115316
 msgctxt "206046340-0-115316"
-msgid "Weapon and Spell Damage increased by <<1>>"
+msgid ""
+"Weapon and Spell Damage increased by <<1>>\n"
 "\n"
-"\nAs a Werewolf your Weapon and Spell Damage is increased by <<2>>"
+"As a Werewolf your Weapon and Spell Damage is increased by <<2>>"
 msgstr ""
 
 #: 171157587-0-1153
@@ -59747,13 +59794,14 @@ msgstr ""
 
 #: 206046340-0-111942
 msgctxt "206046340-0-111942"
-msgid "Ignore the Movement Speed penalty while in Crouch."
+msgid ""
+"Ignore the Movement Speed penalty while in Crouch.\n"
 "\n"
-"\nDecreases the time it takes to Crouch by <<1>>"
+"Decreases the time it takes to Crouch by <<1>>\n"
 "\n"
-"\nMovement while in Stealth no longer costs Stamina."
+"Movement while in Stealth no longer costs Stamina.\n"
 "\n"
-"\nWerewolves gain immunity to Indrik's teleportation magic and can interact with Hunting Wisps."
+"Werewolves gain immunity to Indrik's teleportation magic and can interact with Hunting Wisps."
 msgstr ""
 
 #: 52183620-0-1119
@@ -59878,8 +59926,9 @@ msgstr ""
 
 #: 52183620-0-1098
 msgctxt "52183620-0-1098"
-msgid "Purchase Requires:"
-"\n"Hero of the Ebonheart Pact" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Hero of the Ebonheart Pact\" Achievement"
 msgstr ""
 
 #: 206046340-0-109419
@@ -59914,8 +59963,9 @@ msgstr ""
 
 #: 52183620-0-1089
 msgctxt "52183620-0-1089"
-msgid "Purchase Requires:"
-"\n"The Rift Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"The Rift Adventurer\" Achievement"
 msgstr ""
 
 #: 206046340-0-108856
@@ -59945,8 +59995,9 @@ msgstr ""
 
 #: 52183620-0-1086
 msgctxt "52183620-0-1086"
-msgid "Purchase Requires:"
-"\n"Imperial Edition""
+msgid ""
+"Purchase Requires:\n"
+"\"Imperial Edition\""
 msgstr ""
 
 #: 171157587-0-1081
@@ -59971,8 +60022,9 @@ msgstr ""
 
 #: 52183620-0-1077
 msgctxt "52183620-0-1077"
-msgid "Purchase Requires:"
-"\n"Stormhaven Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Stormhaven Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1076
@@ -60002,8 +60054,9 @@ msgstr ""
 
 #: 52183620-0-1074
 msgctxt "52183620-0-1074"
-msgid "Purchase Requires:"
-"\n"Grahtwood Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Grahtwood Adventurer\" Achievement"
 msgstr ""
 
 #: 171157587-0-1073
@@ -60028,8 +60081,9 @@ msgstr ""
 
 #: 52183620-0-1068
 msgctxt "52183620-0-1068"
-msgid "Purchase Requires:"
-"\n"Auridon Adventurer" Achievement"
+msgid ""
+"Purchase Requires:\n"
+"\"Auridon Adventurer\" Achievement"
 msgstr ""
 
 #: 206046340-0-106759
@@ -60084,8 +60138,9 @@ msgstr ""
 
 #: 52183620-0-1062
 msgctxt "52183620-0-1062"
-msgid "Purchase Requires:"
-"\n"Room to Spare" House Quest Completion"
+msgid ""
+"Purchase Requires:\n"
+"\"Room to Spare\" House Quest Completion"
 msgstr ""
 
 #: 206046340-0-105910

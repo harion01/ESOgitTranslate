@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:14+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 66737390-9-9
 msgctxt "66737390-9-9"
@@ -2587,9 +2580,10 @@ msgstr ""
 
 #: 43934149-0-4
 msgctxt "43934149-0-4"
-msgid "Completing a Random Normal Dungeon or a Random Veteran Dungeon will give you bonus rewards once per day."
+msgid ""
+"Completing a Random Normal Dungeon or a Random Veteran Dungeon will give you bonus rewards once per day.\n"
 "\n"
-"\nThis is a test of the LFG Event System, and includes test-text for testers to test."
+"This is a test of the LFG Event System, and includes test-text for testers to test."
 msgstr ""
 
 #: 57010981-0-4
@@ -4239,7 +4233,7 @@ msgstr ""
 
 #: 216271813-0-1479
 msgctxt "216271813-0-1479"
-msgid "Cadwell's "Greaves""
+msgid "Cadwell's \"Greaves\""
 msgstr ""
 
 #: 217086453-0-147
@@ -4564,7 +4558,7 @@ msgstr ""
 
 #: 66737390-0-13
 msgctxt "66737390-0-13"
-msgid "Read the letter "To My Friend From the Beach" in Khenarthi's Roost"
+msgid "Read the letter \"To My Friend From the Beach\" in Khenarthi's Roost"
 msgstr ""
 
 #: 202153303-0-13
@@ -5259,9 +5253,10 @@ msgstr ""
 
 #: 43934149-0-1
 msgctxt "43934149-0-1"
-msgid "Completing a Random Normal Dungeon or a Random Veteran Dungeon will give you bonus rewards once per day. During the event, you will also receive a Mysterious Reward Box alongside your bonus rewards."
+msgid ""
+"Completing a Random Normal Dungeon or a Random Veteran Dungeon will give you bonus rewards once per day. During the event, you will also receive a Mysterious Reward Box alongside your bonus rewards.\n"
 "\n"
-"\nThis event ends on December 5th, 3 PM UTC."
+"This event ends on December 5th, 3 PM UTC."
 msgstr ""
 
 #: 57010981-0-1
@@ -5287,7 +5282,9 @@ msgstr ""
 #: 91126884-0-1
 msgctxt "91126884-0-1"
 msgid "Become an ESO Plus member to unlock VIP perks, including full access to all DLC game packs in the Crown Store, monthly Crowns to spend on in-game items, unlimited storage for crafting materials, and loads of additional bonuses. It is the preferred choice of Tamriel's greatest champions!"
-msgstr "ESO Plus 멤버가 되어 VIP 특전을 해금하면 크라운 스토어에 있는 모든 DLC 게임 팩을 이용할 수 있고, 게임 내 아이템을 구매할 수 있는 크라운을 매달 받을 수 있습니다. 또한 재작 재료를 무한하게 보관할 수 있는 공간도 주어지고, 그 외에도 많은 추가적인 혜택이 부여됩니다. 탐리엘에서 가장 위대한 투사들이 선호하는 선택이죠!"
+msgstr ""
+"ESO Plus 멤버가 되어 VIP 특전을 해금하면 크라운 스토어에 있는 모든 DLC 게임 팩을 이용할 수 있고, 게임 내 아이템을 구매할 수 있는 크라운을 매달 받을 수 있습니다. 또한 재작 재료를 무한하게 보관할 수 있는 공간도 주어지고, 그 외에도 많은 추가적인 혜택이 부여됩니다. 탐리엘에서 가장 위대한 투사들"
+"이 선호하는 선택이죠!"
 
 #: 114933028-0-1
 msgctxt "114933028-0-1"
@@ -8516,17 +8513,17 @@ msgstr ""
 
 #: 216271813-0-1482
 msgctxt "216271813-0-1482"
-msgid "Cadwell's "Girdle""
+msgid "Cadwell's \"Girdle\""
 msgstr ""
 
 #: 216271813-0-1481
 msgctxt "216271813-0-1481"
-msgid "Cadwell's "Helmet""
+msgid "Cadwell's \"Helmet\""
 msgstr ""
 
 #: 216271813-0-1480
 msgctxt "216271813-0-1480"
-msgid "Cadwell's "Sabatons""
+msgid "Cadwell's \"Sabatons\""
 msgstr ""
 
 #: 26811173-0-148
@@ -8536,17 +8533,17 @@ msgstr ""
 
 #: 216271813-0-1478
 msgctxt "216271813-0-1478"
-msgid "Cadwell's "Cuirass""
+msgid "Cadwell's \"Cuirass\""
 msgstr ""
 
 #: 216271813-0-1477
 msgctxt "216271813-0-1477"
-msgid "Cadwell's "Gauntlets""
+msgid "Cadwell's \"Gauntlets\""
 msgstr ""
 
 #: 216271813-0-1476
 msgctxt "216271813-0-1476"
-msgid "Cadwell's "Pauldrons""
+msgid "Cadwell's \"Pauldrons\""
 msgstr ""
 
 #: 216271813-0-1475
@@ -8701,7 +8698,7 @@ msgstr ""
 
 #: 216271813-0-1438
 msgctxt "216271813-0-1438"
-msgid ""Chained Wrath" Piercings"
+msgid "\"Chained Wrath\" Piercings"
 msgstr ""
 
 #: 216271813-0-1437

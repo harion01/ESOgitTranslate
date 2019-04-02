@@ -1,24 +1,17 @@
 # Administrator <admin@the.gg>, 2017. #zanata
 msgid ""
 msgstr ""
-"MIME-Version: 1.0"
-"\n"
-"Content-Transfer-Encoding: 8bit"
-"\n"
-"Content-Type: text/plain; charset=UTF-8"
-"\n"
-"PO-Revision-Date: 2018-01-24 02:12+0900"
-"\n"
-"Last-Translator: Administrator <admin@the.gg>"
-"\n"
-"Language-Team: Korean"
-"\n"
-"Language: ko"
-"\n"
-"X-Generator: Zanata 4.2.4"
-"\n"
-"Plural-Forms: nplurals=1; plural=0"
-"\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-02 20:14+0900\n"
+"Last-Translator: harion01 <harion01@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 
 #: 172030117-9-989
 msgctxt "172030117-9-989"
@@ -1048,7 +1041,8 @@ msgstr "묘실 암살자"
 #: 188155806-0-941
 msgctxt "188155806-0-941"
 msgid "Defeat Ibelgast, Ruzozuzalpamaz, Chamber Guardian, Ilambris Amalgam, and Mezeluth, before defeating Nerien'eth in Veteran Crypt of Hearts II within thirty minutes of starting the dungeon. Timer starts when the entrance gate opens."
-msgstr "베테랑 마음의 묘실 II(Crypt of Hearts II)에서 던전 시작 30 분 이내에 이벨가스트(Ibelgast), 루조주잘파마즈(Ruzozuzalpamaz), 방 수호자(Chamber Guardian), 일람브리스 아말감(Ilambris Amalgam), 그리고 메젤루스(Mezeluth)를 네리에네스(Nerien'eth) 격파 이전에 처치하세요. 타이머는 입구 문이 열릴때 시작합니다."
+msgstr ""
+"베테랑 마음의 묘실 II(Crypt of Hearts II)에서 던전 시작 30 분 이내에 이벨가스트(Ibelgast), 루조주잘파마즈(Ruzozuzalpamaz), 방 수호자(Chamber Guardian), 일람브리스 아말감(Ilambris Amalgam), 그리고 메젤루스(Mezeluth)를 네리에네스(Nerien'eth) 격파 이전에 처치하세요. 타이머는 입구 문이 열릴때 시작합니다."
 
 #: 12529189-0-940
 msgctxt "12529189-0-940"
@@ -1118,7 +1112,7 @@ msgstr "서펜트들과 비밀들"
 #: 172030117-0-936
 msgctxt "172030117-0-936"
 msgid "Complete quest “The Serpent’s Fang” in Upper Craglorn"
-msgstr "북부 크래글론(Upper Craglorn)에서 """"서펜트의 독니(The Serpent’s Fang)"""" 퀘스트를 완료하십시오."
+msgstr "북부 크래글론(Upper Craglorn)에서 \"\"\"\"서펜트의 독니(The Serpent’s Fang)\"\"\"\" 퀘스트를 완료하십시오."
 
 #: 188155806-0-936
 msgctxt "188155806-0-936"
@@ -1137,12 +1131,14 @@ msgstr "황제가 되십시오."
 
 #: 188155806-0-935
 msgctxt "188155806-0-935"
-msgid "Dominate the Alliance War battlefield and become Emperor of Tamriel. "
+msgid ""
+"Dominate the Alliance War battlefield and become Emperor of Tamriel. \n"
 "\n"
-"\nLong may you reign!"
-msgstr "연합 전쟁의 전장을 지배하고 탐리엘의 황제가 되십시오."
+"Long may you reign!"
+msgstr ""
+"연합 전쟁의 전장을 지배하고 탐리엘의 황제가 되십시오.\n"
 "\n"
-"\n 만수무강 하시길!"
+" 만수무강 하시길!"
 
 #: 12529189-0-93
 msgctxt "12529189-0-93"
@@ -1226,8 +1222,8 @@ msgstr "천상인 조사관"
 
 #: 172030117-0-909
 msgctxt "172030117-0-909"
-msgid "Complete group quest "The Corrupted Stone" in Craglorn."
-msgstr "크래글론에서 "타락한 돌(The Corrupted Stone)" 그룹 퀘스트를 완료"
+msgid "Complete group quest \"The Corrupted Stone\" in Craglorn."
+msgstr "크래글론에서 \"타락한 돌(The Corrupted Stone)\" 그룹 퀘스트를 완료"
 
 #: 188155806-0-909
 msgctxt "188155806-0-909"
@@ -3752,7 +3748,9 @@ msgstr "바레인(Varaine)과 알렌 펠링게어(Allene Pellingare)를 처치"
 #: 188155806-0-679
 msgctxt "188155806-0-679"
 msgid "Defeat Malubeth the Scourger, Skull Reaper, Uulgarg the Risen, Garron the Returned, the Forgotten One, and the Pellingare Twins in Veteran Wayrest Sewers II, all within twenty minutes. Timer starts upon engaging the first necromancer and his minions."
-msgstr "베테랑 웨이레스트 하수도 II(Wayrest Sewers II)에서 20 분 안으로 매질하는 자, 말루베스(Malubeth the Scourger), 해골 사신, 일어선 울가르그(Skull Reaper, Uulgarg the Risen), 되돌아온 개런(Garron the Returned), 잊혀진 자(Forgotten One), 그리고 펠링게어 쌍둥이(Pellingare Twins)를 처치하세요. 타이머는 첫 번째 네크로맨서와 그의 부하 그룹을 만났을 때 시작됩니다."
+msgstr ""
+"베테랑 웨이레스트 하수도 II(Wayrest Sewers II)에서 20 분 안으로 매질하는 자, 말루베스(Malubeth the Scourger), 해골 사신, 일어선 울가르그(Skull Reaper, Uulgarg the Risen), 되돌아온 개런(Garron the Returned), 잊혀진 자(Forgotten One), 그리고 펠링게어 쌍둥이(Pellingare Twins)를 처치하세요. 타이머는 첫 번"
+"째 네크로맨서와 그의 부하 그룹을 만났을 때 시작됩니다."
 
 #: 12529189-0-678
 msgctxt "12529189-0-678"
@@ -4726,12 +4724,14 @@ msgstr "불굴의 모험가"
 
 #: 188155806-0-56
 msgctxt "188155806-0-56"
-msgid "Complete 1000 Quests."
+msgid ""
+"Complete 1000 Quests.\n"
 "\n"
-"\nNote: Repeatable quests only count towards this achievement the first time they are completed."
-msgstr "퀘스트 1000개를 완료하세요."
+"Note: Repeatable quests only count towards this achievement the first time they are completed."
+msgstr ""
+"퀘스트 1000개를 완료하세요.\n"
 "\n"
-"\n주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
+"주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
 
 #: 12529189-0-559
 msgctxt "12529189-0-559"
@@ -4880,12 +4880,14 @@ msgstr "달인 모험가"
 
 #: 188155806-0-55
 msgctxt "188155806-0-55"
-msgid "Complete 500 Quests."
+msgid ""
+"Complete 500 Quests.\n"
 "\n"
-"\nNote: Repeatable quests only count towards this achievement the first time they are completed."
-msgstr "퀘스트 500개를 완료하세요."
+"Note: Repeatable quests only count towards this achievement the first time they are completed."
+msgstr ""
+"퀘스트 500개를 완료하세요.\n"
 "\n"
-"\n주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
+"주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
 
 #: 12529189-0-548
 msgctxt "12529189-0-548"
@@ -5019,12 +5021,14 @@ msgstr "모험가"
 
 #: 188155806-0-54
 msgctxt "188155806-0-54"
-msgid "Complete 250 Quests."
+msgid ""
+"Complete 250 Quests.\n"
 "\n"
-"\nNote: Repeatable quests only count towards this achievement the first time they are completed."
-msgstr "퀘스트 250개를 완료하세요."
+"Note: Repeatable quests only count towards this achievement the first time they are completed."
+msgstr ""
+"퀘스트 250개를 완료하세요.\n"
 "\n"
-"\n주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
+"주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
 
 #: 12529189-0-539
 msgctxt "12529189-0-539"
@@ -5098,12 +5102,14 @@ msgstr "탐험가"
 
 #: 188155806-0-53
 msgctxt "188155806-0-53"
-msgid "Complete 100 Quests."
+msgid ""
+"Complete 100 Quests.\n"
 "\n"
-"\nNote: Repeatable quests only count towards this achievement the first time they are completed."
-msgstr "퀘스트 100개를 완료하세요."
+"Note: Repeatable quests only count towards this achievement the first time they are completed."
+msgstr ""
+"퀘스트 100개를 완료하세요.\n"
 "\n"
-"\n주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
+"주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
 
 #: 12529189-0-526
 msgctxt "12529189-0-526"
@@ -5162,12 +5168,14 @@ msgstr "퀘스트 수행자"
 
 #: 188155806-0-52
 msgctxt "188155806-0-52"
-msgid "Complete 50 Quests."
+msgid ""
+"Complete 50 Quests.\n"
 "\n"
-"\nNote: Repeatable quests only count towards this achievement the first time they are completed."
-msgstr "퀘스트 50개를 완료하세요."
+"Note: Repeatable quests only count towards this achievement the first time they are completed."
+msgstr ""
+"퀘스트 50개를 완료하세요.\n"
 "\n"
-"\n주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
+"주의: 반복 퀘스트는 처음 완료시에만 계산됩니다."
 
 #: 12529189-0-518
 msgctxt "12529189-0-518"
@@ -5402,8 +5410,7 @@ msgstr "블리크락 낚시꾼"
 #: 172030117-0-493
 msgctxt "172030117-0-493"
 msgid "Inner Sea Scalyfin (Salt)"
-msgstr "내해 스칼리핀(바다)"
-"\n"
+msgstr "내해 스칼리핀(바다)\n"
 
 #: 188155806-0-493
 msgctxt "188155806-0-493"
@@ -5418,8 +5425,7 @@ msgstr "케나티의 횃대 낚시꾼"
 #: 172030117-0-492
 msgctxt "172030117-0-492"
 msgid "Pyandonean Ray (Salt)"
-msgstr "피안도네안 가오리(바다)"
-"\n"
+msgstr "피안도네안 가오리(바다)\n"
 
 #: 188155806-0-492
 msgctxt "188155806-0-492"
@@ -5719,8 +5725,7 @@ msgstr "스톰헤이븐 낚시꾼"
 #: 172030117-0-472
 msgctxt "172030117-0-472"
 msgid "Gray Loach (Foul)"
-msgstr "회색 미꾸라지(웅덩이)"
-"\n"
+msgstr "회색 미꾸라지(웅덩이)\n"
 
 #: 188155806-0-472
 msgctxt "188155806-0-472"
@@ -5860,7 +5865,9 @@ msgstr "보그단(Bogdan) 암살자"
 #: 188155806-0-461
 msgctxt "188155806-0-461"
 msgid "Defeat Dubroze the Infestor, Dark Root, Azara the Frightener, Murklight, the Shadow Guard, and Bogdan the Nightflame in Veteran Elden Hollow II within twenty minutes of starting the dungeon. Timer starts when players engage the first group of Daedra."
-msgstr "베테랑 엘든 할로우 II (Elden Hollow II)던전을 시작한 후, 20분이내로, 감염자 듀브로즈(Dubroze the Infestor), 암흑 뿌리(Dark Root), 협박자 아자라(Azara the Frightener), 그림자 보초 흐린 빛(Murklight, the Shadow Guard), 그리고 밤의 화염 보그단(Bogdan Nightflame)을 처치하세요. 플레이어가 데이드라의 첫 번째 그룹과 전투를 시작하면 타이머가 시작됩니다."
+msgstr ""
+"베테랑 엘든 할로우 II (Elden Hollow II)던전을 시작한 후, 20분이내로, 감염자 듀브로즈(Dubroze the Infestor), 암흑 뿌리(Dark Root), 협박자 아자라(Azara the Frightener), 그림자 보초 흐린 빛(Murklight, the Shadow Guard), 그리고 밤의 화염 보그단(Bogdan Nightflame)을 처치하세요. 플레이어가 데이드라의 첫 번째 "
+"그룹과 전투를 시작하면 타이머가 시작됩니다."
 
 #: 12529189-0-460
 msgctxt "12529189-0-460"
@@ -6025,7 +6032,9 @@ msgstr "베테랑 추방자의 감옥 암살자"
 #: 188155806-0-449
 msgctxt "188155806-0-449"
 msgid "In Veteran Banished Cells II, defeat Keepers Imiril, Areldur, and Voranil, as well as the Maw of the Infernal and the Sisters Sihna and Vera, before defeating High Kinlord Rilis, all within twenty minutes. Timer starts upon engaging the first group of Banished skeletons."
-msgstr "베테랑 추방자의 감옥II (Banished Cells II)에서 관리자 이미릴(Keepfer Imiril), 아렐두르(Areldur), 보라닐(Voranil), 그리고 지옥의 나락(Maw of the Infernal)과 쉬나와 베라 자매를 고위 혈족군주 릴리스(High Kinlord Rilis)를 물리치기 전 20 분 내에 모두 처치하세요. 타이머는 추방된 해골들의 첫 번째 그룹과 전투를 시작하면 시작됩니다."
+msgstr ""
+"베테랑 추방자의 감옥II (Banished Cells II)에서 관리자 이미릴(Keepfer Imiril), 아렐두르(Areldur), 보라닐(Voranil), 그리고 지옥의 나락(Maw of the Infernal)과 쉬나와 베라 자매를 고위 혈족군주 릴리스(High Kinlord Rilis)를 물리치기 전 20 분 내에 모두 처치하세요. 타이머는 추방된 해골들의 첫 번째 그룹과 전투"
+"를 시작하면 시작됩니다."
 
 #: 12529189-0-448
 msgctxt "12529189-0-448"
@@ -6055,7 +6064,9 @@ msgstr "윈터본(Winterbourne) 암살자"
 #: 188155806-0-446
 msgctxt "188155806-0-446"
 msgid "Defeat Mad Mortine, Blood Spawn, Praxin Douare, the Flesh Atronach trio, Urvan Veleth, and Vorenor Winterbourne in Veteran Spindleclutch II within twenty minutes of starting the dungeon. Timer starts when players engage the first group of Thralled warriors."
-msgstr "베테랑 스핀들클러치(Spindleclutch)  II 에서, 던전 시작 후 20 분 내에 미친 모틴(Mad Mortine), 블러드스폰(Blood Spawn), 프랙신 두아르(Praxin Douare), 살점 아트로나크 삼형제, 우르반 벨리쓰(Urvan Veleth), 그리고 보레놀 윈터본(Vorenor Winterbourne)을 처치하세요.  플레이어가 노예 전사들의 첫 번째 그룹과 전투를 시작하면 타이머가 시작됩니다."
+msgstr ""
+"베테랑 스핀들클러치(Spindleclutch)  II 에서, 던전 시작 후 20 분 내에 미친 모틴(Mad Mortine), 블러드스폰(Blood Spawn), 프랙신 두아르(Praxin Douare), 살점 아트로나크 삼형제, 우르반 벨리쓰(Urvan Veleth), 그리고 보레놀 윈터본(Vorenor Winterbourne)을 처치하세요.  플레이어가 노예 전사들의 첫 번째 그룹과 전투"
+"를 시작하면 타이머가 시작됩니다."
 
 #: 12529189-0-445
 msgctxt "12529189-0-445"
@@ -7600,7 +7611,9 @@ msgstr "빌라 쎄란(Vila Theran) 공격자"
 #: 188155806-0-340
 msgctxt "188155806-0-340"
 msgid "Defeat Mephala's Fang, Gamyne Bandu, Ciirenas the Sheperd, Spawn of Mephala, Reggr Dark-Dawn, and Vila Theran in Veteran Fungal Grotto II within twenty minutes of starting the dungeon. Timer starts when players engage the first group of Spider Cultists."
-msgstr "베테랑 버섯 동굴(Fungal Grotto) II에서 20분내에 메팔라의 송곳니(Mephala's Fang), 가민 반두(Gamyne Bandu), 시레나스 더 셰퍼드(Ciirenas the Sheperd), 메팔라의 자식(Spawn of Mephala), 어둠의 새벽 레그르(Reggr Dark-Dawn) 그리고 빌라 쎄란(Vila Theran)을 처치하십시오. 플레이어가 거미숭배자의 첫 번째 그룹을 공격하면 시간제한이 시작됩니다."
+msgstr ""
+"베테랑 버섯 동굴(Fungal Grotto) II에서 20분내에 메팔라의 송곳니(Mephala's Fang), 가민 반두(Gamyne Bandu), 시레나스 더 셰퍼드(Ciirenas the Sheperd), 메팔라의 자식(Spawn of Mephala), 어둠의 새벽 레그르(Reggr Dark-Dawn) 그리고 빌라 쎄란(Vila Theran)을 처치하십시오. 플레이어가 거미숭배자의 첫 번째 그룹을 공"
+"격하면 시간제한이 시작됩니다."
 
 #: 12529189-0-34
 msgctxt "12529189-0-34"
@@ -9079,7 +9092,7 @@ msgstr ""
 
 #: 172030117-0-2446
 msgctxt "172030117-0-2446"
-msgid "Complete "The Demon Weapon" Quest"
+msgid "Complete \"The Demon Weapon\" Quest"
 msgstr ""
 
 #: 188155806-0-2446
@@ -9595,8 +9608,7 @@ msgstr "고대 아르고니안 스타일의 도끼 제작법 배우기"
 #: 188155806-0-2361
 msgctxt "188155806-0-2361"
 msgid "Learn every chapter in the Elder Argonian style book, occasionally found as rewards for completing Daily Quests to defeat World Bosses, explore Delves in Murkmire, and help rebuild Root-Whisper Village."
-msgstr "머크마이어의 월드 보스 처치, 델브 탐험 그리고 뿌리 속삭임 마을의 재건을 도우는 일일 퀘스트를 완료하고, 보상에서 이따금  발견되는 고대 아르고니안 스타일 책의 장들을 모두 수집하고 배우세요"
-"\n"
+msgstr "머크마이어의 월드 보스 처치, 델브 탐험 그리고 뿌리 속삭임 마을의 재건을 도우는 일일 퀘스트를 완료하고, 보상에서 이따금  발견되는 고대 아르고니안 스타일 책의 장들을 모두 수집하고 배우세요\n"
 
 #: 12529189-0-2360
 msgctxt "12529189-0-2360"
@@ -9910,8 +9922,8 @@ msgstr "강과 뿌리에 의해"
 
 #: 188155806-0-2339
 msgctxt "188155806-0-2339"
-msgid "Complete the "By River and Root" quest."
-msgstr ""강과 뿌리에 의해(By River and Root)" 퀘스트를 완료하세요"
+msgid "Complete the \"By River and Root\" quest."
+msgstr "\"강과 뿌리에 의해(By River and Root)\" 퀘스트를 완료하세요"
 
 #: 12529189-0-2338
 msgctxt "12529189-0-2338"
@@ -9925,8 +9937,8 @@ msgstr "아르곤(Argon)의 잔해"
 
 #: 188155806-0-2338
 msgctxt "188155806-0-2338"
-msgid "Complete the "The Remnant of Argon" quest."
-msgstr ""아르곤의 잔해(The Remnant of Argon" 퀘스트를 완료하세요"
+msgid "Complete the \"The Remnant of Argon\" quest."
+msgstr "\"아르곤의 잔해(The Remnant of Argon\" 퀘스트를 완료하세요"
 
 #: 12529189-0-2337
 msgctxt "12529189-0-2337"
@@ -9940,8 +9952,8 @@ msgstr "늡과 뱀"
 
 #: 188155806-0-2337
 msgctxt "188155806-0-2337"
-msgid "Complete the "The Swamp and the Serpent" quest."
-msgstr ""늡과 뱀(The Swamp and the Serpent)" 퀘스트를 완료하세요"
+msgid "Complete the \"The Swamp and the Serpent\" quest."
+msgstr "\"늡과 뱀(The Swamp and the Serpent)\" 퀘스트를 완료하세요"
 
 #: 12529189-0-2336
 msgctxt "12529189-0-2336"
@@ -9955,8 +9967,8 @@ msgstr "죽음과 꿈"
 
 #: 188155806-0-2336
 msgctxt "188155806-0-2336"
-msgid "Complete the "Death and Dreaming" quest."
-msgstr ""죽음과 꿈(Death and Dreaming" 퀘스트를 완료하세요"
+msgid "Complete the \"Death and Dreaming\" quest."
+msgstr "\"죽음과 꿈(Death and Dreaming\" 퀘스트를 완료하세요"
 
 #: 12529189-0-2335
 msgctxt "12529189-0-2335"
@@ -9970,8 +9982,8 @@ msgstr "숲속의 속삭임"
 
 #: 188155806-0-2335
 msgctxt "188155806-0-2335"
-msgid "Complete the "Whispers in the Wood" quest."
-msgstr ""숲속의 속삭임(Whispers in the Wood)" 퀘스트를 완료하세요"
+msgid "Complete the \"Whispers in the Wood\" quest."
+msgstr "\"숲속의 속삭임(Whispers in the Wood)\" 퀘스트를 완료하세요"
 
 #: 12529189-0-2334
 msgctxt "12529189-0-2334"
@@ -9985,8 +9997,8 @@ msgstr "머크마이어의 실종"
 
 #: 188155806-0-2334
 msgctxt "188155806-0-2334"
-msgid "Complete the "Missing in Murkmire" quest."
-msgstr ""머크마이어의 실종(Missing in Murkmir)"퀘스트를 완료하세요"
+msgid "Complete the \"Missing in Murkmire\" quest."
+msgstr "\"머크마이어의 실종(Missing in Murkmir)\"퀘스트를 완료하세요"
 
 #: 12529189-0-2333
 msgctxt "12529189-0-2333"
@@ -10000,8 +10012,8 @@ msgstr "저지대의 보물"
 
 #: 188155806-0-2333
 msgctxt "188155806-0-2333"
-msgid "Complete the "Sunken Treasure" quest."
-msgstr ""저지대의 보물(Sunken Treasure" 퀘스트를 완료하세요"
+msgid "Complete the \"Sunken Treasure\" quest."
+msgstr "\"저지대의 보물(Sunken Treasure\" 퀘스트를 완료하세요"
 
 #: 12529189-0-2332
 msgctxt "12529189-0-2332"
@@ -10100,8 +10112,8 @@ msgstr "콘코디아(Concordia)의 최고 재능인"
 
 #: 172030117-0-2322
 msgctxt "172030117-0-2322"
-msgid "Complete "Ruthless Competition" Quest"
-msgstr ""잔인한 경쟁(Ruthless Competition)" 퀘스트를 완료하세요"
+msgid "Complete \"Ruthless Competition\" Quest"
+msgstr "\"잔인한 경쟁(Ruthless Competition)\" 퀘스트를 완료하세요"
 
 #: 188155806-0-2322
 msgctxt "188155806-0-2322"
@@ -10176,8 +10188,7 @@ msgstr "실버 던 스타일의 달인"
 #: 172030117-0-2318
 msgctxt "172030117-0-2318"
 msgid "Learn the Silver Dawn Style for Axes"
-msgstr "실버 던 스타일의 도끼 제작법 배우기"
-"\n"
+msgstr "실버 던 스타일의 도끼 제작법 배우기\n"
 
 #: 188155806-0-2318
 msgctxt "188155806-0-2318"
@@ -11066,7 +11077,7 @@ msgstr ""
 
 #: 188155806-0-2257
 msgctxt "188155806-0-2257"
-msgid "Complete the "A Breach Beyond the Crags" Psijic Order quest in Summerset."
+msgid "Complete the \"A Breach Beyond the Crags\" Psijic Order quest in Summerset."
 msgstr ""
 
 #: 12529189-0-2256
@@ -11081,7 +11092,7 @@ msgstr ""
 
 #: 188155806-0-2256
 msgctxt "188155806-0-2256"
-msgid "Complete the "Time in Doomcrag's Shadow" Psijic Order quest in Summerset."
+msgid "Complete the \"Time in Doomcrag's Shadow\" Psijic Order quest in Summerset."
 msgstr ""
 
 #: 12529189-0-2255
@@ -11096,8 +11107,8 @@ msgstr "탑의 잔해"
 
 #: 188155806-0-2255
 msgctxt "188155806-0-2255"
-msgid "Complete "The Towers' Remains" Psijic Order quest in Summerset."
-msgstr "시직 결사의 "탑의 잔해" 퀘스트를 완료하세요."
+msgid "Complete \"The Towers' Remains\" Psijic Order quest in Summerset."
+msgstr "시직 결사의 \"탑의 잔해\" 퀘스트를 완료하세요."
 
 #: 12529189-0-2254
 msgctxt "12529189-0-2254"
@@ -11111,8 +11122,8 @@ msgstr "진흙과 버섯의 시간"
 
 #: 188155806-0-2254
 msgctxt "188155806-0-2254"
-msgid "Complete the "A Time for Mud and Mushrooms" Psijic Order quest in Summerset."
-msgstr "시직 결사의 "진흙과 버섯의 시간" 퀘스트를 완료하세요."
+msgid "Complete the \"A Time for Mud and Mushrooms\" Psijic Order quest in Summerset."
+msgstr "시직 결사의 \"진흙과 버섯의 시간\" 퀘스트를 완료하세요."
 
 #: 12529189-0-2253
 msgctxt "12529189-0-2253"
@@ -11126,8 +11137,8 @@ msgstr "나무 가운데의 균열"
 
 #: 188155806-0-2253
 msgctxt "188155806-0-2253"
-msgid "Complete the "A Breach Amid the Trees" Psijic Order quest in Summerset."
-msgstr "시직 결사의 "나무 가운데의 균열" 퀘스트를 완료하세요."
+msgid "Complete the \"A Breach Amid the Trees\" Psijic Order quest in Summerset."
+msgstr "시직 결사의 \"나무 가운데의 균열\" 퀘스트를 완료하세요."
 
 #: 12529189-0-2252
 msgctxt "12529189-0-2252"
@@ -11141,7 +11152,7 @@ msgstr "흩어진 지팡이"
 
 #: 188155806-0-2252
 msgctxt "188155806-0-2252"
-msgid "Complete "The Shattered Staff" Psijic Order quest in Summerset."
+msgid "Complete \"The Shattered Staff\" Psijic Order quest in Summerset."
 msgstr ""
 
 #: 12529189-0-2251
@@ -11156,7 +11167,7 @@ msgstr ""
 
 #: 188155806-0-2251
 msgctxt "188155806-0-2251"
-msgid "Complete the "Breaches of Frost and Fire" Psijic Order quest in Summerset."
+msgid "Complete the \"Breaches of Frost and Fire\" Psijic Order quest in Summerset."
 msgstr ""
 
 #: 12529189-0-2250
@@ -11171,8 +11182,8 @@ msgstr ""
 
 #: 188155806-0-2250
 msgctxt "188155806-0-2250"
-msgid "Complete the "Breaches on the Bay" Psijic Order quest in Summerset."
-msgstr "시직 결사의 "만의 균열들" 퀘스트를 완료하세요"
+msgid "Complete the \"Breaches on the Bay\" Psijic Order quest in Summerset."
+msgstr "시직 결사의 \"만의 균열들\" 퀘스트를 완료하세요"
 
 #: 12529189-0-225
 msgctxt "12529189-0-225"
@@ -11201,8 +11212,8 @@ msgstr "시직의 부름"
 
 #: 188155806-0-2249
 msgctxt "188155806-0-2249"
-msgid "Complete "The Psijics' Calling" Psijic Order quest in Summerset."
-msgstr "시직 결사의 "시직의 부름" 퀘스트를 완료하세요."
+msgid "Complete \"The Psijics' Calling\" Psijic Order quest in Summerset."
+msgstr "시직 결사의 \"시직의 부름\" 퀘스트를 완료하세요."
 
 #: 12529189-0-2248
 msgctxt "12529189-0-2248"
@@ -11816,7 +11827,7 @@ msgstr ""
 
 #: 188155806-0-2210
 msgctxt "188155806-0-2210"
-msgid "Complete "The Towers' Fall" Psijic Order quest in Summerset."
+msgid "Complete \"The Towers' Fall\" Psijic Order quest in Summerset."
 msgstr ""
 
 #: 12529189-0-221
@@ -11861,7 +11872,7 @@ msgstr ""
 
 #: 188155806-0-2208
 msgctxt "188155806-0-2208"
-msgid "Complete the "The Crystal Tower" quest."
+msgid "Complete the \"The Crystal Tower\" quest."
 msgstr ""
 
 #: 12529189-0-2207
@@ -11876,7 +11887,7 @@ msgstr ""
 
 #: 188155806-0-2207
 msgctxt "188155806-0-2207"
-msgid "Complete the "A Necessary Alliance" quest."
+msgid "Complete the \"A Necessary Alliance\" quest."
 msgstr ""
 
 #: 12529189-0-2206
@@ -11891,7 +11902,7 @@ msgstr ""
 
 #: 188155806-0-2206
 msgctxt "188155806-0-2206"
-msgid "Complete the "Lost in Translation" quest."
+msgid "Complete the \"Lost in Translation\" quest."
 msgstr ""
 
 #: 12529189-0-2205
@@ -11906,7 +11917,7 @@ msgstr "꿈꾸는 동굴"
 
 #: 188155806-0-2205
 msgctxt "188155806-0-2205"
-msgid "Complete the "The Dreaming Cave" quest."
+msgid "Complete the \"The Dreaming Cave\" quest."
 msgstr ""
 
 #: 12529189-0-2204
@@ -11921,7 +11932,7 @@ msgstr ""
 
 #: 188155806-0-2204
 msgctxt "188155806-0-2204"
-msgid "Complete the "The Tower Sentinels" quest."
+msgid "Complete the \"The Tower Sentinels\" quest."
 msgstr ""
 
 #: 12529189-0-2203
@@ -11936,7 +11947,7 @@ msgstr "매장된 기억"
 
 #: 188155806-0-2203
 msgctxt "188155806-0-2203"
-msgid "Complete the "Buried Memories" quest."
+msgid "Complete the \"Buried Memories\" quest."
 msgstr ""
 
 #: 12529189-0-2202
@@ -11951,7 +11962,7 @@ msgstr "값진 진주"
 
 #: 188155806-0-2202
 msgctxt "188155806-0-2202"
-msgid "Complete the "A Pearl of Great Price" quest."
+msgid "Complete the \"A Pearl of Great Price\" quest."
 msgstr ""
 
 #: 12529189-0-2201
@@ -11966,7 +11977,7 @@ msgstr "여왕의 칙령"
 
 #: 188155806-0-2201
 msgctxt "188155806-0-2201"
-msgid "Complete the "The Queen's Decree" quest."
+msgid "Complete the \"The Queen's Decree\" quest."
 msgstr ""
 
 #: 12529189-0-2200
@@ -13091,8 +13102,8 @@ msgstr ""
 
 #: 188155806-0-2114
 msgctxt "188155806-0-2114"
-msgid "Use the "Prisoner's Chains" Style in an Outfit."
-msgstr "의상 시스템에서 "죄수의 쇠사슬" 스타일을 사용하세요"
+msgid "Use the \"Prisoner's Chains\" Style in an Outfit."
+msgstr "의상 시스템에서 \"죄수의 쇠사슬\" 스타일을 사용하세요"
 
 #: 12529189-0-2113
 msgctxt "12529189-0-2113"
@@ -13916,7 +13927,7 @@ msgstr ""
 
 #: 188155806-0-2064
 msgctxt "188155806-0-2064"
-msgid "Complete the "The Light of Knowledge" quest."
+msgid "Complete the \"The Light of Knowledge\" quest."
 msgstr ""
 
 #: 12529189-0-2063
@@ -13931,7 +13942,7 @@ msgstr "그림자가 존재하는 곳"
 
 #: 188155806-0-2063
 msgctxt "188155806-0-2063"
-msgid "Complete the "Where Shadows Lie" quest."
+msgid "Complete the \"Where Shadows Lie\" quest."
 msgstr ""
 
 #: 12529189-0-2062
@@ -13947,7 +13958,7 @@ msgstr "어둠 속으로"
 
 #: 188155806-0-2062
 msgctxt "188155806-0-2062"
-msgid "Complete the "Unto the Dark" quest."
+msgid "Complete the \"Unto the Dark\" quest."
 msgstr ""
 
 #: 12529189-0-2061
@@ -13963,7 +13974,7 @@ msgstr "황혼속에서 길을 잃다"
 
 #: 188155806-0-2061
 msgctxt "188155806-0-2061"
-msgid "Complete the "Lost in the Gloam" quest."
+msgid "Complete the \"Lost in the Gloam\" quest."
 msgstr ""
 
 #: 12529189-0-2060
@@ -13979,7 +13990,7 @@ msgstr "깊어진 그림자"
 
 #: 188155806-0-2060
 msgctxt "188155806-0-2060"
-msgid "Complete the "Deepening Shadows" quest."
+msgid "Complete the \"Deepening Shadows\" quest."
 msgstr ""
 
 #: 12529189-0-206
@@ -14011,7 +14022,7 @@ msgstr "Seht의 이상함-G-"
 
 #: 188155806-0-2059
 msgctxt "188155806-0-2059"
-msgid "Complete the "The Strangeness of Seht" quest."
+msgid "Complete the \"The Strangeness of Seht\" quest."
 msgstr ""
 
 #: 12529189-0-2058
@@ -14026,7 +14037,7 @@ msgstr "후원자를 찾아라(In Search of a Sponsor)"
 
 #: 188155806-0-2058
 msgctxt "188155806-0-2058"
-msgid "Complete the "In Search of a Sponsor" quest."
+msgid "Complete the \"In Search of a Sponsor\" quest."
 msgstr ""
 
 #: 12529189-0-2050
@@ -14041,7 +14052,7 @@ msgstr "클락 워크 시티로"
 
 #: 188155806-0-2050
 msgctxt "188155806-0-2050"
-msgid "Complete the "To the Clockwork City" quest."
+msgid "Complete the \"To the Clockwork City\" quest."
 msgstr ""
 
 #: 12529189-0-205
@@ -16477,7 +16488,7 @@ msgstr "펠리날의 중간해 축복 상자를 얻기"
 
 #: 188155806-0-1887
 msgctxt "188155806-0-1887"
-msgid "Acquire your 25th "Pelinal's Midyear Boon Box"."
+msgid "Acquire your 25th \"Pelinal's Midyear Boon Box\"."
 msgstr ""
 
 #: 12529189-0-1886
@@ -16492,7 +16503,7 @@ msgstr "펠리날의 중간해 축복 상자를 얻기"
 
 #: 188155806-0-1886
 msgctxt "188155806-0-1886"
-msgid "Acquire your 10th "Pelinal's Midyear Boon Box"."
+msgid "Acquire your 10th \"Pelinal's Midyear Boon Box\"."
 msgstr ""
 
 #: 12529189-0-1885
@@ -16507,7 +16518,7 @@ msgstr "펠리날의 중간해 축복 상자를 얻기"
 
 #: 188155806-0-1885
 msgctxt "188155806-0-1885"
-msgid "Acquire your first "Pelinal's Midyear Boon Box"."
+msgid "Acquire your first \"Pelinal's Midyear Boon Box\"."
 msgstr ""
 
 #: 12529189-0-1884
@@ -20722,7 +20733,9 @@ msgstr "볼렌펠 암살자"
 #, fuzzy
 msgctxt "188155806-0-1632"
 msgid "Defeat the Desert Lion, Quintus Verres and the Monstrous Gargoyle, Boilbite, Tremorscale, the Unstable Construct, and the Guardian Council in Veteran Volenfell within twenty minutes of starting the dungeon. Timer starts when players engage the first group of treasure hunters."
-msgstr "던전 시작 20 분 내에 사막 사자, 퀸 투스 베레스 (Quintus Verres)와 괴물 석상, 보일 라이트 (Boilbite), 트레 모스 케일 (Tilorscale), 불안정한 건축물 (Unstable Construct) 및 베테랑 볼펜 (Voleterfell)의 가디언위원회 (Guardian Council)를 물리 쳐라. 플레이어가 첫 번째 보물 사냥꾼 그룹에 참여하면 타이머가 시작됩니다.-G-"
+msgstr ""
+"던전 시작 20 분 내에 사막 사자, 퀸 투스 베레스 (Quintus Verres)와 괴물 석상, 보일 라이트 (Boilbite), 트레 모스 케일 (Tilorscale), 불안정한 건축물 (Unstable Construct) 및 베테랑 볼펜 (Voleterfell)의 가디언위원회 (Guardian Council)를 물리 쳐라. 플레이어가 첫 번째 보물 사냥꾼 그룹에 참여하면 타이머가 시작"
+"됩니다.-G-"
 
 #: 12529189-0-1631
 #, fuzzy
@@ -22277,8 +22290,8 @@ msgstr "수확자의 수확"
 
 #: 172030117-0-1543
 msgctxt "172030117-0-1543"
-msgid "Complete "Witchmother's Bargain" during the Witches Festival."
-msgstr "마녀 축제 기간에 "마녀어미의 거래(Witchmother's Bargain)" 퀘스트를 완료하세요."
+msgid "Complete \"Witchmother's Bargain\" during the Witches Festival."
+msgstr "마녀 축제 기간에 \"마녀어미의 거래(Witchmother's Bargain)\" 퀘스트를 완료하세요."
 
 #: 188155806-0-1543
 msgctxt "188155806-0-1543"
@@ -23396,7 +23409,7 @@ msgstr "서른 번째 계약"
 
 #: 188155806-0-1453
 msgctxt "188155806-0-1453"
-msgid "Complete 30 murder contracts from the "Marked for Death" tome."
+msgid "Complete 30 murder contracts from the \"Marked for Death\" tome."
 msgstr ""
 
 #: 12529189-0-1452
@@ -23411,7 +23424,7 @@ msgstr "열 번째 계약"
 
 #: 188155806-0-1452
 msgctxt "188155806-0-1452"
-msgid "Complete 10 murder contracts from the "Marked for Death" tome."
+msgid "Complete 10 murder contracts from the \"Marked for Death\" tome."
 msgstr ""
 
 #: 12529189-0-1451
@@ -23426,7 +23439,7 @@ msgstr "첫번째 계약"
 
 #: 188155806-0-1451
 msgctxt "188155806-0-1451"
-msgid "Complete your first murder contract from the "Marked for Death" tome."
+msgid "Complete your first murder contract from the \"Marked for Death\" tome."
 msgstr ""
 
 #: 12529189-0-1450
@@ -23546,7 +23559,7 @@ msgstr "침묵 시키는 자"
 
 #: 188155806-0-1444
 msgctxt "188155806-0-1444"
-msgid "Complete the "Filling the Void" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"Filling the Void\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1443
@@ -23561,7 +23574,7 @@ msgstr "시디스의 분노"
 
 #: 188155806-0-1443
 msgctxt "188155806-0-1443"
-msgid "Complete "The Wrath of Sithis" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete \"The Wrath of Sithis\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1442
@@ -23576,7 +23589,7 @@ msgstr "어둠의 수사관"
 
 #: 188155806-0-1442
 msgctxt "188155806-0-1442"
-msgid "Complete the "A Ghost from the Past" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"A Ghost from the Past\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1441
@@ -23591,7 +23604,7 @@ msgstr "어둠의 발견"
 
 #: 188155806-0-1441
 msgctxt "188155806-0-1441"
-msgid "Complete the "Dark Revelations" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"Dark Revelations\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1440
@@ -23606,7 +23619,7 @@ msgstr "암살자"
 
 #: 188155806-0-1440
 msgctxt "188155806-0-1440"
-msgid "Complete the "A Special Request" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"A Special Request\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1439
@@ -23621,7 +23634,7 @@ msgstr "동료의 은인"
 
 #: 188155806-0-1439
 msgctxt "188155806-0-1439"
-msgid "Complete the "Questions of Faith" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"Questions of Faith\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1438
@@ -23636,7 +23649,7 @@ msgstr "설교자를 진압한 자"
 
 #: 188155806-0-1438
 msgctxt "188155806-0-1438"
-msgid "Complete the "A Lesson in Silence" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"A Lesson in Silence\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1437
@@ -23651,7 +23664,7 @@ msgstr "새로운-칼날"
 
 #: 188155806-0-1437
 msgctxt "188155806-0-1437"
-msgid "Complete the "Welcome Home" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"Welcome Home\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1436
@@ -23666,7 +23679,7 @@ msgstr "어둠의 시작"
 
 #: 188155806-0-1436
 msgctxt "188155806-0-1436"
-msgid "Complete the "Signed in Blood" Dark Brotherhood quest in the Gold Coast."
+msgid "Complete the \"Signed in Blood\" Dark Brotherhood quest in the Gold Coast."
 msgstr ""
 
 #: 12529189-0-1435
@@ -23681,7 +23694,7 @@ msgstr "첫 번째 피"
 
 #: 188155806-0-1435
 msgctxt "188155806-0-1435"
-msgid "Join the Dark Brotherhood and complete the "Voices in the Dark" quest."
+msgid "Join the Dark Brotherhood and complete the \"Voices in the Dark\" quest."
 msgstr ""
 
 #: 12529189-0-1434
@@ -24192,7 +24205,7 @@ msgstr "그리고 그들은 모습을 감추었다"
 
 #: 188155806-0-1402
 msgctxt "188155806-0-1402"
-msgid "Evade justice with the help of the "Timely Escape" Thieves Guild skill, as well as a friendly footpad."
+msgid "Evade justice with the help of the \"Timely Escape\" Thieves Guild skill, as well as a friendly footpad."
 msgstr ""
 
 #: 12529189-0-1401
@@ -24585,7 +24598,7 @@ msgstr "도망자"
 
 #: 188155806-0-1378
 msgctxt "188155806-0-1378"
-msgid "Complete quest "The One That Got Away" in Hew's Bane."
+msgid "Complete quest \"The One That Got Away\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1377
@@ -24600,7 +24613,7 @@ msgstr "누구나 몸값이 있다"
 
 #: 188155806-0-1377
 msgctxt "188155806-0-1377"
-msgid "Complete quest "Everyone Has A Price" in Hew's Bane."
+msgid "Complete quest \"Everyone Has A Price\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1376
@@ -24615,7 +24628,7 @@ msgstr "잃어버렸던 것"
 
 #: 188155806-0-1376
 msgctxt "188155806-0-1376"
-msgid "Complete quest "That Which Was Lost" in Hew's Bane."
+msgid "Complete quest \"That Which Was Lost\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1375
@@ -24630,7 +24643,7 @@ msgstr "그의 가장 위대한 보물"
 
 #: 188155806-0-1375
 msgctxt "188155806-0-1375"
-msgid "Complete quest "His Greatest Treasure" in Hew's Bane."
+msgid "Complete quest \"His Greatest Treasure\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1374
@@ -24690,7 +24703,7 @@ msgstr "도둑 길드에 오신 것을 환영합니다."
 
 #: 188155806-0-1371
 msgctxt "188155806-0-1371"
-msgid "Join the Thieves Guild by completing quest "Partners in Crime" in Hew's Bane."
+msgid "Join the Thieves Guild by completing quest \"Partners in Crime\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1370
@@ -24705,7 +24718,7 @@ msgstr "아이어 휠의 침입"
 
 #: 188155806-0-1370
 msgctxt "188155806-0-1370"
-msgid "Complete quest "The Long Game" in Hew's Bane."
+msgid "Complete quest \"The Long Game\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-137
@@ -24825,7 +24838,7 @@ msgstr "부서진 바퀴"
 
 #: 188155806-0-1363
 msgctxt "188155806-0-1363"
-msgid "Complete quest "Prison Break" in Hew's Bane."
+msgid "Complete quest \"Prison Break\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1362
@@ -24840,7 +24853,7 @@ msgstr "결혼식 파괴자"
 
 #: 188155806-0-1362
 msgctxt "188155806-0-1362"
-msgid "Complete quest "Forever Hold Your Peace" in Hew's Bane."
+msgid "Complete quest \"Forever Hold Your Peace\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1361
@@ -24855,7 +24868,7 @@ msgstr "절대,다시는 길드를 털지마라."
 
 #: 188155806-0-1361
 msgctxt "188155806-0-1361"
-msgid "Complete quest "A Flawless Plan" in Hew's Bane."
+msgid "Complete quest \"A Flawless Plan\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-1360
@@ -24870,7 +24883,7 @@ msgstr "항상 나눠서 움직여야 한다."
 
 #: 188155806-0-1360
 msgctxt "188155806-0-1360"
-msgid "Complete quest "Cleaning House" in Hew's Bane."
+msgid "Complete quest \"Cleaning House\" in Hew's Bane."
 msgstr ""
 
 #: 12529189-0-136
@@ -25380,7 +25393,7 @@ msgstr "오크 왕의 정복자"
 
 #: 188155806-0-1327
 msgctxt "188155806-0-1327"
-msgid "Complete quest "Blood on a King's Hands" in Wrothgar."
+msgid "Complete quest \"Blood on a King's Hands\" in Wrothgar."
 msgstr ""
 
 #: 12529189-0-1326
@@ -25395,7 +25408,7 @@ msgstr "오크 왕의 총사령관"
 
 #: 188155806-0-1326
 msgctxt "188155806-0-1326"
-msgid "Complete quest "The Anger of a King" in Wrothgar."
+msgid "Complete quest \"The Anger of a King\" in Wrothgar."
 msgstr ""
 
 #: 12529189-0-1325
@@ -25410,7 +25423,7 @@ msgstr "오크 왕의 의원"
 
 #: 188155806-0-1325
 msgctxt "188155806-0-1325"
-msgid "Complete quest "A King-Sized Problem" in Wrothgar."
+msgid "Complete quest \"A King-Sized Problem\" in Wrothgar."
 msgstr ""
 
 #: 12529189-0-1324
@@ -26155,7 +26168,7 @@ msgstr "킹 메이커"
 
 #: 172030117-0-1260
 msgctxt "172030117-0-1260"
-msgid "Complete quest "A King-Sized Problem" in Wrothgar."
+msgid "Complete quest \"A King-Sized Problem\" in Wrothgar."
 msgstr ""
 
 #: 188155806-0-1260
@@ -27075,7 +27088,7 @@ msgstr "경비병으로부터 탈출 100번"
 
 #: 188155806-0-1194
 msgctxt "188155806-0-1194"
-msgid "Successfully escape the guards a total of one hundred times after choosing the "Flee" option in the Accost Dialogue Window."
+msgid "Successfully escape the guards a total of one hundred times after choosing the \"Flee\" option in the Accost Dialogue Window."
 msgstr ""
 
 #: 12529189-0-1193
@@ -27090,7 +27103,7 @@ msgstr "경비병에게서 한 번 도망가기"
 
 #: 188155806-0-1193
 msgctxt "188155806-0-1193"
-msgid "Successfully escape a guard after choosing the "Flee" option in the Accost Dialogue Window."
+msgid "Successfully escape a guard after choosing the \"Flee\" option in the Accost Dialogue Window."
 msgstr ""
 
 #: 12529189-0-1192
@@ -27310,7 +27323,7 @@ msgstr "고귀한 수호자"
 
 #: 172030117-0-1175
 msgctxt "172030117-0-1175"
-msgid "Complete  the quest "Knowledge is Power"."
+msgid "Complete  the quest \"Knowledge is Power\"."
 msgstr ""
 
 #: 188155806-0-1175
@@ -28186,7 +28199,9 @@ msgstr "데드랜드 암살자"
 #: 188155806-0-1108
 msgctxt "188155806-0-1108"
 msgid "Defeat Rukhan, Marruz, Akezel, Urata the Legion, Horvantud the Fire Maw, and the Ash Titan; reassemble the bridge; and defeat Valkyn Skoria himself in Veteran City of Ash II, all within thirty minutes. Timer starts when players enter the Inner Grove."
-msgstr "베테랑 재의 도시 II(City of Ash II)에서 30분 이내에 러칸(Rukhan), 마루즈(Marruz), 아케젤(Akezel), 군단의 우라타(Urata the Legion), 화염 나락 호르반투드(Horvantud of Fire Maw), 재 거인(Ash Titan)을 처치하고, 다리를 다시 조립하세요. 이후에 발킨 스코리아(Valkyn Skoria) 역시 처치하세요. 타이머는 플레이어가 내부 숲에 입장할 때 시작합니다."
+msgstr ""
+"베테랑 재의 도시 II(City of Ash II)에서 30분 이내에 러칸(Rukhan), 마루즈(Marruz), 아케젤(Akezel), 군단의 우라타(Urata the Legion), 화염 나락 호르반투드(Horvantud of Fire Maw), 재 거인(Ash Titan)을 처치하고, 다리를 다시 조립하세요. 이후에 발킨 스코리아(Valkyn Skoria) 역시 처치하세요. 타이머는 플레이어가 "
+"내부 숲에 입장할 때 시작합니다."
 
 #: 12529189-0-1107
 msgctxt "12529189-0-1107"
@@ -28201,7 +28216,9 @@ msgstr "치명적인 데드랜드 생존자"
 #: 188155806-0-1107
 msgctxt "188155806-0-1107"
 msgid "Defeat Rukhan, Marruz, Akezel, Urata the Legion, Horvantud the Fire Maw, the Ash Titan, and the Daedra at the bridge to Valkyn Skoria, before defeating Valkyn Skoria himself in Veteran City of Ash II without suffering a group member death."
-msgstr "베테랑 재의 도시 II(City of Ash II)에서 어떤 그룹원들도 사망하지 않고, 발킨 스코리아(Valkyn Skoria) 격파 이전에, 러칸(Rukhan), 마루즈(Marruz), 아케젤(Akezel), 군단의 우라타(Urata the Legion), 화염 나락 호르반투드(Horvantud of Fire Maw), 재 거인(Ash Titan), 그리고 발킨 스코리아(Valkyn Skoria)에게 향하는 다리 위의 데이드라를 처치하세요"
+msgstr ""
+"베테랑 재의 도시 II(City of Ash II)에서 어떤 그룹원들도 사망하지 않고, 발킨 스코리아(Valkyn Skoria) 격파 이전에, 러칸(Rukhan), 마루즈(Marruz), 아케젤(Akezel), 군단의 우라타(Urata the Legion), 화염 나락 호르반투드(Horvantud of Fire Maw), 재 거인(Ash Titan), 그리고 발킨 스코리아(Valkyn Skoria)에게 향하는 "
+"다리 위의 데이드라를 처치하세요"
 
 #: 12529189-0-1106
 msgctxt "12529189-0-1106"
@@ -32907,7 +32924,7 @@ msgstr ""
 
 #: 172030117-6-2315
 msgctxt "172030117-6-2315"
-msgid "Bowl of "Peeled Eyeballs""
+msgid "Bowl of \"Peeled Eyeballs\""
 msgstr ""
 
 #: 172030117-6-2295
@@ -33431,7 +33448,7 @@ msgstr "지브킨 스타일 장갑 제작법 습득"
 
 #: 172030117-6-1175
 msgctxt "172030117-6-1175"
-msgid "Complete  the quest "The Sublime Brazier"."
+msgid "Complete  the quest \"The Sublime Brazier\"."
 msgstr ""
 
 #: 172030117-6-1174
@@ -34942,7 +34959,7 @@ msgstr "지브킨 스타일 단검 제작법 습득"
 
 #: 172030117-5-1175
 msgctxt "172030117-5-1175"
-msgid "Complete  the quest "The Lock and the Legion"."
+msgid "Complete  the quest \"The Lock and the Legion\"."
 msgstr ""
 
 #: 172030117-5-1174
@@ -35148,7 +35165,7 @@ msgstr "돌뱀의 턱뼈에 꼭 끼이고.-G-"
 
 #: 172030117-4-909
 msgctxt "172030117-4-909"
-msgid "Complete quest "The Missing Guardian" in Craglorn"
+msgid "Complete quest \"The Missing Guardian\" in Craglorn"
 msgstr ""
 
 #: 172030117-4-902
@@ -36937,7 +36954,7 @@ msgstr "지브킨 스타일 흉갑 제작법 습득"
 
 #: 172030117-4-1175
 msgctxt "172030117-4-1175"
-msgid "Complete  the quest "The Bleeding Temple"."
+msgid "Complete  the quest \"The Bleeding Temple\"."
 msgstr ""
 
 #: 172030117-4-1174
@@ -37185,7 +37202,7 @@ msgstr "바람과 불안정한 무덤 속에서.-G-"
 
 #: 172030117-3-909
 msgctxt "172030117-3-909"
-msgid "Complete group quest "The Shattered and the Lost" in Craglorn"
+msgid "Complete group quest \"The Shattered and the Lost\" in Craglorn"
 msgstr ""
 
 #: 172030117-3-902
@@ -38653,7 +38670,7 @@ msgstr "가죽둔갑자 스타일 활 제작법을 배우기"
 
 #: 172030117-3-1675
 msgctxt "172030117-3-1675"
-msgid "Jagga-Dredged "Mud Ball""
+msgid "Jagga-Dredged \"Mud Ball\""
 msgstr ""
 
 #: 172030117-3-1674
@@ -39189,7 +39206,7 @@ msgstr "통제 수호자-G-"
 
 #: 172030117-3-1260
 msgctxt "172030117-3-1260"
-msgid "Complete quest "Long Live the King" in Wrothgar."
+msgid "Complete quest \"Long Live the King\" in Wrothgar."
 msgstr ""
 
 #: 172030117-3-1250
@@ -39255,7 +39272,7 @@ msgstr "지브킨 스타일 활 제작법 습득"
 
 #: 172030117-3-1175
 msgctxt "172030117-3-1175"
-msgid "Complete  the quest "The Imperial Standard"."
+msgid "Complete  the quest \"The Imperial Standard\"."
 msgstr ""
 
 #: 172030117-3-1174
@@ -39698,7 +39715,7 @@ msgstr "교차로 캠프장"
 
 #: 172030117-2-936
 msgctxt "172030117-2-936"
-msgid "Complete quest "Dawn of the Exalted Viper" in Upper Craglorn"
+msgid "Complete quest \"Dawn of the Exalted Viper\" in Upper Craglorn"
 msgstr ""
 
 #: 172030117-29-1824
@@ -39726,7 +39743,7 @@ msgstr "번쩍이는 폭포 아래 뱀의 계곡을 내려다 봅니다.-G-"
 
 #: 172030117-2-909
 msgctxt "172030117-2-909"
-msgid "Complete quest "Elemental Army" in Craglorn"
+msgid "Complete quest \"Elemental Army\" in Craglorn"
 msgstr ""
 
 #: 172030117-2-902
@@ -42077,7 +42094,7 @@ msgstr "장군의 반역-G-"
 
 #: 172030117-2-1260
 msgctxt "172030117-2-1260"
-msgid "Complete quest "Blood on a King's Hands" in Wrothgar."
+msgid "Complete quest \"Blood on a King's Hands\" in Wrothgar."
 msgstr ""
 
 #: 172030117-2-1250
@@ -42156,7 +42173,7 @@ msgstr "지브킨 스타일 부츠 제작법 습득"
 
 #: 172030117-2-1175
 msgctxt "172030117-2-1175"
-msgid "Complete  the quest "Of Brands and Bones"."
+msgid "Complete  the quest \"Of Brands and Bones\"."
 msgstr ""
 
 #: 172030117-2-1174
@@ -42757,8 +42774,8 @@ msgstr "스카이리치 전망대"
 
 #: 172030117-1-936
 msgctxt "172030117-1-936"
-msgid "Complete quest "Slithering Brood" in Upper Craglorn"
-msgstr "크래글론(Craglorn)에서 "Slithering Brood" 퀘스트를 완료하십시오."
+msgid "Complete quest \"Slithering Brood\" in Upper Craglorn"
+msgstr "크래글론(Craglorn)에서 \"Slithering Brood\" 퀘스트를 완료하십시오."
 
 #: 172030117-19-2099
 msgctxt "172030117-19-2099"
@@ -42823,8 +42840,8 @@ msgstr "능선에있는 탑 아래.-G-"
 
 #: 172030117-1-909
 msgctxt "172030117-1-909"
-msgid "Complete quest "The Warrior's Call" in Craglorn"
-msgstr "크래글론에서 "전사의 부름(The Warrior's Call)" 퀘스트를 완료"
+msgid "Complete quest \"The Warrior's Call\" in Craglorn"
+msgstr "크래글론에서 \"전사의 부름(The Warrior's Call)\" 퀘스트를 완료"
 
 #: 172030117-1-902
 msgctxt "172030117-1-902"
@@ -45313,7 +45330,7 @@ msgstr ""
 
 #: 172030117-1-2446
 msgctxt "172030117-1-2446"
-msgid "Complete "The Halls of Colossus" Quest"
+msgid "Complete \"The Halls of Colossus\" Quest"
 msgstr ""
 
 #: 172030117-12-409
@@ -45395,8 +45412,8 @@ msgstr ""
 
 #: 172030117-1-2322
 msgctxt "172030117-1-2322"
-msgid "Complete "The Cursed Skull" Quest"
-msgstr ""저주받은 해골(The Cursed Skull)" 퀘스트를 완료하세요"
+msgid "Complete \"The Cursed Skull\" Quest"
+msgstr "\"저주받은 해골(The Cursed Skull)\" 퀘스트를 완료하세요"
 
 #: 172030117-1-2321
 msgctxt "172030117-1-2321"
@@ -47374,7 +47391,7 @@ msgstr "황후의 명령으로-G-"
 
 #: 172030117-1-1260
 msgctxt "172030117-1-1260"
-msgid "Complete quest "The Anger of a King" in Wrothgar."
+msgid "Complete quest \"The Anger of a King\" in Wrothgar."
 msgstr ""
 
 #: 172030117-1-1257
@@ -47683,7 +47700,7 @@ msgstr "마짜툰 스타일 어깨보호구 제작법 습득"
 
 #: 172030117-1-1175
 msgctxt "172030117-1-1175"
-msgid "Complete  the quest "The Watcher in the Walls"."
+msgid "Complete  the quest \"The Watcher in the Walls\"."
 msgstr ""
 
 #: 172030117-1-1174
