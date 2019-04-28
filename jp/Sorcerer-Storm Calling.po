@@ -1,0 +1,362 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-45195
+msgctxt "132143172-0-45195"
+msgid "Increases your Weapon and Spell Damage by <<1>> for each Sorcerer ability slotted."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "スロットに装備しているソーサラーのアビリティ1つにつき、武器ダメージと呪文ダメージが<<1>>上昇する。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45195
+msgctxt "198758357-0-45195"
+msgid "Expert Mage"
+msgstr "熟練の魔術師"
+
+#: 132143172-0-45192
+msgctxt "132143172-0-45192"
+msgid "Increases your damage done against enemies by |cffffff1|r% for every |cffffff10|r% current Health they have."
+msgstr "与ダメージを敵の体力|cffffff10|r%ごとに|cffffff1|r%上昇させる。"
+
+#: 198758357-0-45192
+msgctxt "198758357-0-45192"
+msgid "Amplitude"
+msgstr "増幅"
+
+#: 132143172-0-45190
+msgctxt "132143172-0-45190"
+msgid "Increases your Physical and Shock Damage by <<1>>."
+msgstr "物理と雷撃ダメージが<<1>>上昇する。"
+
+#: 198758357-0-45190
+msgctxt "198758357-0-45190"
+msgid "Energized"
+msgstr "帯電状態"
+
+#: 132143172-0-45188
+msgctxt "132143172-0-45188"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr "マジカ再生を<<1>>アップする。"
+
+#: 198758357-0-45188
+msgctxt "198758357-0-45188"
+msgid "Capacitor"
+msgstr "キャパシター"
+
+#: 132143172-0-31425
+msgctxt "132143172-0-31425"
+msgid "Increases your Weapon and Spell Damage by <<1>> for each Sorcerer ability slotted."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr "スロットに装備しているソーサラーのアビリティ1つにつき、武器ダメージと呪文ダメージが<<1>>上昇する。\\r"
+"\n\\r"
+"\n現在のボーナス: <<2>>"
+
+#: 198758357-0-31425
+msgctxt "198758357-0-31425"
+msgid "Expert Mage"
+msgstr "熟練の魔術師"
+
+#: 132143172-0-31422
+msgctxt "132143172-0-31422"
+msgid "Increases your damage done against enemies by |cffffff1|r% for every |cffffff20|r% current Health they have."
+msgstr "現在の敵体力|cffffff20|r%ごとに、与ダメージを|cffffff1|r%増幅させる。"
+
+#: 198758357-0-31422
+msgctxt "198758357-0-31422"
+msgid "Amplitude"
+msgstr "増幅"
+
+#: 132143172-0-31421
+msgctxt "132143172-0-31421"
+msgid "Increases your Physical and Shock Damage by <<1>>."
+msgstr "物理と雷撃ダメージが<<1>>上昇する。"
+
+#: 198758357-0-31421
+msgctxt "198758357-0-31421"
+msgid "Energized"
+msgstr "帯電状態"
+
+#: 132143172-0-31419
+msgctxt "132143172-0-31419"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr "マジカ再生を<<1>>アップする。"
+
+#: 198758357-0-31419
+msgctxt "198758357-0-31419"
+msgid "Capacitor"
+msgstr "キャパシター"
+
+#: 132143172-0-24806
+msgctxt "132143172-0-24806"
+msgid "Charge your fists with the power of the storm. Light Attacks become lightning bolts, dealing <<1>> with a <<2>> range bonus. Heavy Attacks blast enemies in the target area for <<3>> with a |cffffff50|r% width bonus.  "
+"\n"
+"\nAttacks deplete Ultimate until you run out or the ability is toggled off."
+msgstr "嵐の力を拳に宿す。軽攻撃を行うと雷弾を放って<<1>>を与え、<<2>>の範囲ボーナスを得る。重攻撃を行うと範囲内にいる敵を<<3>>の間吹き飛ばし、|cffffff50|r%のボーナスを得る。\\r"
+"\n\\r"
+"\nこの効果はアルティマが枯渇するか、アビリティ自体を解除するまで継続する。"
+
+#: 198758357-0-24806
+msgctxt "198758357-0-24806"
+msgid "Power Overload"
+msgstr "パワーオーバーロード"
+
+#: 132143172-0-24804
+msgctxt "132143172-0-24804"
+msgid "Charge your fists with the power of the storm. Light Attacks become lightning bolts, dealing <<1>>, and Heavy Attacks blast enemies in the target area for <<2>>. Light and Heavy Attacks restore <<3>> Magicka."
+"\n"
+"\nAttacks deplete Ultimate until you run out or the ability is toggled off."
+msgstr "嵐の力を拳に宿す。軽攻撃を行うと雷弾を放って<<1>>を与え、重攻撃を行うと範囲内の敵に<<2>>を与える。\\r"
+"\n\\r"
+"\n軽攻撃と重攻撃はマジカを<<3>>回復する。\\r"
+"\n\\r"
+"\nこの効果はアルティマが枯渇するか、アビリティ自体を解除するまで継続する。"
+
+#: 198758357-0-24804
+msgctxt "198758357-0-24804"
+msgid "Energy Overload"
+msgstr "エネルギーオーバーロード"
+
+#: 132143172-0-24785
+msgctxt "132143172-0-24785"
+msgid "Charge your fists with the power of the storm. Light Attacks become lightning bolts, dealing <<1>>, and Heavy Attacks blast enemies in target area for <<2>>."
+"\n"
+"\nAttacks deplete Ultimate until you run out or the ability is toggled off."
+msgstr "嵐の力を拳に宿す。軽攻撃を行うと雷弾を放って<<1>>を与え、重攻撃を行うと範囲内の敵に<<2>>を与える。\\r"
+"\n\\r"
+"\nこの効果はアルティマが枯渇するか、アビリティ自体を解除するまで継続する。"
+
+#: 198758357-0-24785
+msgctxt "198758357-0-24785"
+msgid "Overload"
+msgstr "オーバーロード"
+
+#: 132143172-0-23678
+msgctxt "132143172-0-23678"
+msgid "Invoke Meridia's name to gain Major Brutality, increasing your Weapon Damage by <<1>> for <<2>>."
+"\n"
+"\nWhile active, dealing a Critical Strike heals you for <<3>> Health. This effect can occur once every <<4>>."
+msgstr "大きな力を求めてメリディアに祈りを捧げることで残忍(強)を獲得し、武器ダメージを<<1>>、<<2>>の間上昇させる。\\r"
+"\n\\r"
+"\n発動中、クリティカルで与えたダメージの<<3>>分の体力が回復する。この効果は<<4>>ごとに発動する。"
+
+#: 198758357-0-23678
+msgctxt "198758357-0-23678"
+msgid "Critical Surge"
+msgstr "クリティカルサージ"
+
+#: 132143172-0-23674
+msgctxt "132143172-0-23674"
+msgid "Invoke Meridia's name to gain Major Brutality and Major Sorcery, increasing your Weapon Damage and Spell Damage by <<1>> for <<2>>."
+"\n"
+"\nWhile active, dealing a Critical Strike heals you for <<3>> Health. This effect can occur once every <<4>>."
+msgstr "大きな力を求めてメリディアに祈りを捧げることで残忍(強)と魔術(強)を獲得し、武器ダメージと呪文ダメージを<<1>>、<<2>>の間上昇させる。\\r"
+"\n\\r"
+"\n発動中、クリティカルで与えたダメージの<<3>>分の体力が回復する。この効果は<<4>>ごとに発動する。"
+
+#: 198758357-0-23674
+msgctxt "198758357-0-23674"
+msgid "Power Surge"
+msgstr "パワーサージ"
+
+#: 132143172-0-23670
+msgctxt "132143172-0-23670"
+msgid "Invoke Meridia's name to gain Major Brutality, increasing your Weapon Damage by <<1>> for <<2>>."
+"\n"
+"\nWhile active, dealing a Critical Strike heals you for <<3>> Health. This effect can occur once every <<4>>."
+msgstr "大きな力を求めてメリディアに祈りを捧げることで残忍(強)を獲得し、武器ダメージを<<1>>、<<2>>の間上昇させる。\\r"
+"\n\\r"
+"\n発動中、クリティカルで与えたダメージの<<3>>分の体力が回復する。この効果は<<4>>ごとに発動する。"
+
+#: 198758357-0-23670
+msgctxt "198758357-0-23670"
+msgid "Surge"
+msgstr "サージ"
+
+#: 132143172-0-23277
+msgctxt "132143172-0-23277"
+msgid "Transform yourself into pure energy and flash forward, stunning enemies near origin location for <<1>>. Also absorbs any spell projectiles directed at you for <<2>>. "
+"\n"
+"\nCasting again within <<3>> costs <<4>> more Magicka."
+msgstr "体を純粋なエネルギーに変化させて前方に光速移動し、移動前の場所付近にいる敵を<<1>>の間気絶させる。さらにこちらに撃たれた呪文の投射物を<<2>>の間吸収する。\\r"
+"\n\\r"
+"\n<<3>>以内にもう一度このアビリティを使うと、マジカを通常より<<4>>多く消費する。"
+
+#: 198758357-0-23277
+msgctxt "198758357-0-23277"
+msgid "Ball of Lightning"
+msgstr "ボール・ライトニング"
+
+#: 132143172-0-23236
+msgctxt "132143172-0-23236"
+msgid "Transform yourself into pure energy and flash forward, dealing <<1>> to enemies in your wake and stunning them for <<2>>."
+"\n"
+"\nCasting again within <<3>> costs <<4>> more Magicka."
+msgstr "体を純粋なエネルギーに変化させて前方に光速移動し、目覚めと同時に敵に<<1>>を与えて<<2>>の間気絶させる。\\r"
+"\n\\r"
+"\n<<2>>以内にもう一度このアビリティを使うと、マジカを通常より<<3>>多く消費する。"
+
+#: 198758357-0-23236
+msgctxt "198758357-0-23236"
+msgid "Streak"
+msgstr "雷光"
+
+#: 132143172-0-23234
+msgctxt "132143172-0-23234"
+msgid "Transform yourself into pure energy and flash forward, stunning enemies near origin location for <<1>>. "
+"\n"
+"\nCasting again within <<2>> costs <<3>> more Magicka."
+msgstr "体を純粋なエネルギーに変化させて前方に光速移動し、移動前の場所付近にいる敵を<<1>>の間気絶させる。\\r"
+"\n\\r"
+"\n<<2>>以内にもう一度このアビリティを使うと、マジカを通常より<<3>>多く消費する。"
+
+#: 198758357-0-23234
+msgctxt "198758357-0-23234"
+msgid "Bolt Escape"
+msgstr "ボルトエスケープ"
+
+#: 132143172-0-23231
+msgctxt "132143172-0-23231"
+msgid "Manifest yourself as pure air, buffeting nearby enemies with wind dealing <<1>> every <<2>> for <<3>>. The winds grow in damage and size, increasing up to |cffffff150|r% more damage and up to |cffffff9|r meters in size."
+"\n"
+"\nWhile in this form you gain Major Resolve, Major Ward, and Minor Expedition, increasing your Physical and Spell Resistance by <<4>> and your Movement Speed by <<5>>."
+msgstr "体を純粋な空気に変化させて、近くの敵に風を吹きつけて<<1>>を<<2>>ごとに<<3>>の間与える。風はダメージとサイズが大きくなって行き、最大|cffffff150|r%ダメージ、|cffffff9|rメートルまで大きくなる。\\r"
+"\n\\r"
+"\nこの姿の間は強固(強)、結界(強)、迅速(弱)を獲得し、物理耐性と呪文耐性を<<4>>上昇させ、移動速度を<<5>>上昇させる。"
+
+#: 198758357-0-23231
+msgctxt "198758357-0-23231"
+msgid "Hurricane"
+msgstr "ハリケーン"
+
+#: 132143172-0-23213
+msgctxt "132143172-0-23213"
+msgid "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing <<1>> every <<2>> for <<3>>."
+"\n"
+"\nWhile in this form you also gain Major Resolve and Major Ward, increasing your Physical Resistance and Spell Resistance by <<4>>."
+"\n"
+"\nActivating this grants Major Expedition for a brief period, increasing your Movement Speed <<5>> for <<6>>."
+msgstr "体を純粋な稲妻に変化させて近くの敵を電撃で撃ち、<<1>>を<<2>>毎に<<3>>間与える。\\r"
+"\n\\r"
+"\nこの姿の間は強固(強)と結界(強)を獲得し、物理耐性と呪文耐性を<<4>>上昇させる。\\r"
+"\n\\r"
+"\nさらに短時間の間迅速(強)が付与され、移動速度が<<5>>、<<6>>間上昇する。"
+
+#: 198758357-0-23213
+msgctxt "198758357-0-23213"
+msgid "Boundless Storm"
+msgstr "無限の嵐"
+
+#: 132143172-0-23210
+msgctxt "132143172-0-23210"
+msgid "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing <<1>> every <<2>> for <<3>>.  "
+"\n"
+"\nWhile in this form you also gain Major Resolve and Major Ward, increasing your Physical Resistance and Spell Resistance by <<4>>."
+msgstr "体を純粋な稲妻に変化させて近くの敵を電撃で撃ち、<<1>>を<<2>>毎に<<3>>間与える。\\r"
+"\n\\r"
+"\nこの姿の間は強固(強)と結界(強)を獲得し、物理耐性と呪文耐性を<<4>>上昇させる。"
+
+#: 198758357-0-23210
+msgctxt "198758357-0-23210"
+msgid "Lightning Form"
+msgstr "稲妻形態"
+
+#: 132143172-0-23205
+msgctxt "132143172-0-23205"
+msgid "Create a nexus of storm energy at the target location, dealing <<1>> to enemies in the area every <<2>> for <<3>>."
+"\n "
+"\nAn ally standing within the nexus can activate the |cffffffConduit|r synergy, dealing <<4>> to enemies around them."
+msgstr "標的の場所に嵐のエネルギーを形成し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\nエネルギー内の味方は|cffffff導管|rシナジーを発動し、周囲の敵に<<4>>を与えられる。"
+
+#: 198758357-0-23205
+msgctxt "198758357-0-23205"
+msgid "Lightning Flood"
+msgstr "稲妻の氾濫"
+
+#: 132143172-0-23200
+msgctxt "132143172-0-23200"
+msgid "Create a nexus of storm energy at the target location, dealing <<1>> to enemies in the area every <<2>> for <<3>>."
+"\n "
+"\nAn ally standing within the nexus can activate the |cffffffConduit|r synergy, dealing <<4>> to enemies around them."
+msgstr "標的の場所に嵐のエネルギーを形成し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\nエネルギー内の味方は|cffffff導管|rシナジーを発動し、周囲の敵に<<4>>を与えられる。"
+
+#: 198758357-0-23200
+msgctxt "198758357-0-23200"
+msgid "Liquid Lightning"
+msgstr "流体電撃"
+
+#: 132143172-0-23182
+msgctxt "132143172-0-23182"
+msgid "Create a nexus of storm energy at the target location, dealing <<1>> to enemies in the area every <<2>> for <<3>>."
+"\n "
+"\nAn ally standing within the nexus can activate the |cffffffConduit|r synergy, dealing <<4>> to enemies around them."
+msgstr "標的の場所に嵐のエネルギーを形成し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\nエネルギー内の味方は|cffffff導管|rシナジーを発動し、周囲の敵に<<4>>を与えられる。"
+
+#: 198758357-0-23182
+msgctxt "198758357-0-23182"
+msgid "Lightning Splash"
+msgstr "稲妻の飛散"
+
+#: 132143172-0-19123
+msgctxt "132143172-0-19123"
+msgid "Call down lightning to strike an enemy, dealing <<1>>."
+"\n"
+"\nIf the enemy falls to or below |cffffff20|r% Health within <<2>> of being struck, an explosion deals an additional <<3>> to them and <<4>> to other enemies nearby."
+msgstr "稲妻を呼び出して敵1体に<<1>>を与える。\\r"
+"\n\\r"
+"\n稲妻から<<2>>以内の敵が倒れるか、体力が|cffffff20|r%以下になると、爆発が<<3>>を追加し、近くにいる他の敵にも<<4>>を与える。"
+
+#: 198758357-0-19123
+msgctxt "198758357-0-19123"
+msgid "Mages' Wrath"
+msgstr "魔術師の憤怒"
+
+#: 132143172-0-19109
+msgctxt "132143172-0-19109"
+msgid "Call down lightning to strike an enemy, dealing <<1>>."
+"\n"
+"\nIf the enemy falls to or below |cffffff20|r% Health within <<2>> of being struck, an explosion deals an additional <<3>> to them and <<4>> to other enemies nearby."
+"\n"
+"\nIf any enemy is killed by this ability, you restore <<5>> Magicka."
+msgstr "稲妻を呼び出して敵1体に<<1>>を与える。\\r"
+"\n\\r"
+"\n稲妻から<<2>>以内の敵が倒れるか、体力が|cffffff20|r%以下になると、爆発が<<3>>を追加し、近くにいる他の敵にも<<4>>を与える。\\r"
+"\n\\r"
+"\nこのアビリティで敵が倒れる度、マジカが<<5>>回復する。"
+
+#: 198758357-0-19109
+msgctxt "198758357-0-19109"
+msgid "Endless Fury"
+msgstr "終わりなき激昂"
+
+#: 132143172-0-18718
+msgctxt "132143172-0-18718"
+msgid "Call down lightning to strike an enemy, dealing <<1>>."
+"\n"
+"\nIf the enemy falls to or below |cffffff20|r% Health within <<2>> of being struck, an explosion deals an additional <<3>> to them and <<4>> to other enemies nearby."
+msgstr "稲妻を呼び出して敵1体に<<1>>を与える。\\r"
+"\n\\r"
+"\n稲妻から<<2>>以内の敵が倒れるか、体力が|cffffff20|r%以下になると、爆発が<<3>>を追加し、近くにいる他の敵にも<<4>>を与える。"
+
+#: 198758357-0-18718
+msgctxt "198758357-0-18718"
+msgid "Mages' Fury"
+msgstr "魔術師の激昂"

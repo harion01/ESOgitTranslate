@@ -1,0 +1,222 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-70043
+msgctxt "132143172-0-70043"
+msgid "Allows the Alchemist to use Lorkhan's Tears and Alkahest to make Champion 150 potions and poisons."
+msgstr "ロルカーンの涙とアルカヘストを使ってチャンピオン150の薬と毒を作れるようになる。"
+
+#: 198758357-0-70043
+msgctxt "198758357-0-70043"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-70042
+msgctxt "132143172-0-70042"
+msgid "Allows the Alchemist to use Star Dew and Night-Oil to make Champion 100 potions and poisons."
+msgstr "星のしずくと夜の油を使ってチャンピオン100の薬と毒を作れるようになる。"
+
+#: 198758357-0-70042
+msgctxt "198758357-0-70042"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-49163
+msgctxt "132143172-0-49163"
+msgid "Allows the Alchemist to use Cloud Mist and Tarblack to make Champion 50 potions and poisons."
+msgstr "霧の雲とターブラックを使ってチャンピオン50の薬か毒を作れるようになる。"
+
+#: 198758357-0-49163
+msgctxt "198758357-0-49163"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-47842
+msgctxt "132143172-0-47842"
+msgid "Herbs and fungi in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にあるハーブやキノコを見つけやすくなる。"
+
+#: 198758357-0-47842
+msgctxt "198758357-0-47842"
+msgid "Keen Eye: Reagents"
+msgstr "鋭敏な目: 試料"
+
+#: 132143172-0-47841
+msgctxt "132143172-0-47841"
+msgid "Herbs and fungi in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にあるハーブやキノコを見つけやすくなる。"
+
+#: 198758357-0-47841
+msgctxt "198758357-0-47841"
+msgid "Keen Eye: Reagents"
+msgstr "鋭敏な目: 試料"
+
+#: 132143172-0-47840
+msgctxt "132143172-0-47840"
+msgid "Herbs and fungi in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にあるハーブやキノコを見つけやすくなる。"
+
+#: 198758357-0-47840
+msgctxt "198758357-0-47840"
+msgid "Keen Eye: Reagents"
+msgstr "鋭敏な目: 試料"
+
+#: 132143172-0-47834
+msgctxt "132143172-0-47834"
+msgid "Reduces duration of negative effects in potions by 100% when consumed."
+msgstr "薬のマイナス効果の持続時間を100%減らす。"
+
+#: 198758357-0-47834
+msgctxt "198758357-0-47834"
+msgid "Snakeblood"
+msgstr "蛇の血"
+
+#: 132143172-0-47832
+msgctxt "132143172-0-47832"
+msgid "Reduces duration of negative effects in potions by 80% when consumed."
+msgstr "薬のマイナス効果の持続時間を80%減らす。"
+
+#: 198758357-0-47832
+msgctxt "198758357-0-47832"
+msgid "Snakeblood"
+msgstr "蛇の血"
+
+#: 132143172-0-47831
+msgctxt "132143172-0-47831"
+msgid "Reduces duration of negative effects in potions by 50% when consumed."
+msgstr "薬のマイナス効果の持続時間を50%減らす。"
+
+#: 198758357-0-47831
+msgctxt "198758357-0-47831"
+msgid "Snakeblood"
+msgstr "蛇の血"
+
+#: 132143172-0-45579
+msgctxt "132143172-0-45579"
+msgid "Produces 3 extra potions or 12 extra poisons per crafting attempt."
+msgstr "1回の調合から作成される薬の数が3個、毒の数が12個増える。"
+
+#: 198758357-0-45579
+msgctxt "198758357-0-45579"
+msgid "Chemistry"
+msgstr "ケミストリー"
+
+#: 132143172-0-45578
+msgctxt "132143172-0-45578"
+msgid "Produces 2 extra potions or 8 extra poisons per crafting attempt."
+msgstr "1回の調合から作成される薬の数が2個、毒の数が8個増える。"
+
+#: 198758357-0-45578
+msgctxt "198758357-0-45578"
+msgid "Chemistry"
+msgstr "ケミストリー"
+
+#: 132143172-0-45577
+msgctxt "132143172-0-45577"
+msgid "Produces 1 extra potion or 4 extra poisons per crafting attempt."
+msgstr "1回の調合から作成される薬の数が1個、毒の数が4個増える。"
+
+#: 198758357-0-45577
+msgctxt "198758357-0-45577"
+msgid "Chemistry"
+msgstr "ケミストリー"
+
+#: 132143172-0-45573
+msgctxt "132143172-0-45573"
+msgid "When using potions, resulting effects last 30% longer."
+msgstr "薬の効果が30%長く持続する。"
+
+#: 198758357-0-45573
+msgctxt "198758357-0-45573"
+msgid "Medicinal Use"
+msgstr "薬効"
+
+#: 132143172-0-45571
+msgctxt "132143172-0-45571"
+msgid "When using potions, resulting effects last 20% longer."
+msgstr "薬の効果が20%長く持続する。"
+
+#: 198758357-0-45571
+msgctxt "198758357-0-45571"
+msgid "Medicinal Use"
+msgstr "薬効"
+
+#: 132143172-0-45569
+msgctxt "132143172-0-45569"
+msgid "When using potions, resulting effects last 10% longer."
+msgstr "薬の効果が10%長く持続する。"
+
+#: 198758357-0-45569
+msgctxt "198758357-0-45569"
+msgid "Medicinal Use"
+msgstr "薬効"
+
+#: 132143172-0-45555
+msgctxt "132143172-0-45555"
+msgid "Allows the use of up to 3 reagents while mixing Potions or Poisons."
+msgstr "薬か毒の試料を3つまで使用可能になる。"
+
+#: 198758357-0-45555
+msgctxt "198758357-0-45555"
+msgid "Laboratory Use"
+msgstr "拡張配合"
+
+#: 132143172-0-45552
+msgctxt "132143172-0-45552"
+msgid "Allows the Alchemist to use Purified Water and Pitch-Bile to make Champion 10 potions and poisons."
+msgstr "神聖水と黒の胆汁を使ってチャンピオン10の薬と毒を作れるようになる。"
+
+#: 198758357-0-45552
+msgctxt "198758357-0-45552"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-45551
+msgctxt "132143172-0-45551"
+msgid "Allows the Alchemist to use Filtered Water and Terebinthine to make Level 40 potions and poisons."
+msgstr "ろ過水とテレピンを使ってレベル40の薬と毒を作れるようになる。"
+
+#: 198758357-0-45551
+msgctxt "198758357-0-45551"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-45550
+msgctxt "132143172-0-45550"
+msgid "Allows the Alchemist to use Cleansed Water and Gall to make Level 30 potions and poisons."
+msgstr "浄化水と胆嚢を使ってレベル30の薬と毒を作れるようになる。"
+
+#: 198758357-0-45550
+msgctxt "198758357-0-45550"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-45547
+msgctxt "132143172-0-45547"
+msgid "Allows the Alchemist to use Pristine Water and Slime to make Level 20 potions and poisons."
+msgstr "清浄水と粘液を使ってレベル20の薬と毒を作れるようになる。"
+
+#: 198758357-0-45547
+msgctxt "198758357-0-45547"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"
+
+#: 132143172-0-45542
+msgctxt "132143172-0-45542"
+msgid "Allows the Alchemist to use Natural Water and Grease to make Level 3 potions and poisons and Clear Water and Ichor to make Level 10 potions and poisons."
+msgstr "自然水と脂を使ってレベル3の薬と毒を作り、清水とイコルを使ってレベル10の薬と毒を作れるようになる。"
+
+#: 198758357-0-45542
+msgctxt "198758357-0-45542"
+msgid "Solvent Proficiency"
+msgstr "溶媒能力"

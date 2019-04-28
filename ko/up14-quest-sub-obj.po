@@ -1,0 +1,717 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 256430276-0-44687
+msgctxt "256430276-0-44687"
+msgid "Talk to Ralasa"
+msgstr "Ralasa와 대화하기"
+
+#: 256430276-0-44587
+msgctxt "256430276-0-44587"
+msgid "Talk to Canon Valasa"
+msgstr "Canon Valasa와 대화하기"
+
+#: 256430276-0-44574
+msgctxt "256430276-0-44574"
+msgid "Loot a Weapon from the Dremora"
+msgstr "드레모라에게서 무기를 얻기"
+
+#: 256430276-0-44522
+msgctxt "256430276-0-44522"
+msgid "Steal Skooma from the Slavemaster's Office"
+msgstr "슬레이브 마스터의 사무실에서 Skooma를 훔치시오"
+
+#: 256430276-0-44516
+msgctxt "256430276-0-44516"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 256430276-0-44355
+msgctxt "256430276-0-44355"
+msgid "Talk to Farwen"
+msgstr "파웬과 대화하기"
+
+#: 256430276-0-44187
+msgctxt "256430276-0-44187"
+msgid "Steal Skooma from the Slavemaster's Office"
+msgstr "슬레이브 마스터의 사무실에서 Skooma를 훔치시오"
+
+#: 256430276-0-44172
+msgctxt "256430276-0-44172"
+msgid "Explore the Nchuleft Depths"
+msgstr "Nchuleft 심부를 탐색하기"
+
+#: 256430276-0-44096
+msgctxt "256430276-0-44096"
+msgid "Follow Stibbons"
+msgstr "스티븐스를 따라가기"
+
+#: 256430276-0-44080
+msgctxt "256430276-0-44080"
+msgid "Talk to the Council Mouths"
+msgstr "평의회의 대변인과 대화하기"
+
+#: 256430276-0-44024
+msgctxt "256430276-0-44024"
+msgid "Start a Fire on the Docks"
+msgstr "부둣가에 불 붙이기"
+
+#: 256430276-0-43969
+msgctxt "256430276-0-43969"
+msgid "Talk to Naryu"
+msgstr "나류와 대화하기"
+
+#: 256430276-0-43913
+msgctxt "256430276-0-43913"
+msgid "Talk to Vatola Telem"
+msgstr "바톨라 텔렘과 대화하기"
+
+#: 256430276-0-43750
+msgctxt "256430276-0-43750"
+msgid "Search the Northern Swamp for Veya"
+msgstr "북부 늪에서 베야를 찾으시오"
+
+#: 256430276-0-43691
+msgctxt "256430276-0-43691"
+msgid "Witness the Prophecy"
+msgstr "예언 지켜보기"
+
+#: 256430276-0-43610
+msgctxt "256430276-0-43610"
+msgid "Find Real Camp"
+msgstr "진짜 캠프 찾기"
+
+#: 256430276-0-43563
+msgctxt "256430276-0-43563"
+msgid "Talk to Sun-in-Shadow"
+msgstr " Sun-in-Shadow와 대화하기"
+
+#: 256430276-0-43560
+msgctxt "256430276-0-43560"
+msgid "Deal with the Guards at the Front of Vassamsi"
+msgstr "Vassamsi 앞에 있는 경비원과 거래하시오"
+
+#: 256430276-0-43532
+msgctxt "256430276-0-43532"
+msgid "Talk to Deminah Salvi"
+msgstr "데미나 셀비와 대화하기"
+
+#: 256430276-0-43524
+msgctxt "256430276-0-43524"
+msgid "Talk to Cherishes-Water"
+msgstr "Cherishes-Water와 대화하기"
+
+#: 256430276-0-43515
+msgctxt "256430276-0-43515"
+msgid "Place the Lever Base Components"
+msgstr "레버 기초부품을 놓기"
+
+#: 256430276-0-43482
+msgctxt "256430276-0-43482"
+msgid "Talk to Lothnarth"
+msgstr "Lothnarth와 대화하기"
+
+#: 256430276-0-43471
+msgctxt "256430276-0-43471"
+msgid "Talk to Dredase-Hlarar"
+msgstr "Dredase-Hlarar와 대화하기"
+
+#: 256430276-0-43461
+msgctxt "256430276-0-43461"
+msgid "Find Veya's Mentor at the Western Ruins"
+msgstr "서부 유적지에서 Veya의 멘토를 찾으시오"
+
+#: 256430276-0-43386
+msgctxt "256430276-0-43386"
+msgid "Escape the Slaver Ship"
+msgstr "노예선에서 탈출하기"
+
+#: 256430276-0-43384
+msgctxt "256430276-0-43384"
+msgid "Throw the Fire Bomb From a Safe Distance"
+msgstr "안전한 거리에서 화염 폭탄 투척하기"
+
+#: 256430276-0-43357
+msgctxt "256430276-0-43357"
+msgid "Steal Skooma from the Slavemaster's Office"
+msgstr "슬레이브 마스터의 사무실에서 Skooma를 훔치시오"
+
+#: 256430276-0-43354
+msgctxt "256430276-0-43354"
+msgid "Gain an Audience with Magister Gothren"
+msgstr "현자 고스런과 만날 기회를 얻기"
+
+#: 256430276-0-43327
+msgctxt "256430276-0-43327"
+msgid "Talk to Sun-in-Shadow"
+msgstr " Sun-in-Shadow와 대화하기"
+
+#: 256430276-0-43171
+msgctxt "256430276-0-43171"
+msgid "Return to Councilman Rayveth"
+msgstr "Rayveth 평의원에게 돌아 가기"
+
+#: 256430276-0-43168
+msgctxt "256430276-0-43168"
+msgid "Shut Down the Halls of Fabrication"
+msgstr "제조실을 폐쇄한다"
+
+#: 256430276-0-43167
+msgctxt "256430276-0-43167"
+msgid "Shut Down the Halls of Fabrication"
+msgstr "제조실을 폐쇄한다"
+
+#: 256430276-0-43163
+msgctxt "256430276-0-43163"
+msgid "Shut Down the Halls of Fabrication"
+msgstr "제조실을 폐쇄한다"
+
+#: 256430276-0-43152
+msgctxt "256430276-0-43152"
+msgid "Get the Power Core from the Centurion"
+msgstr "센츄리온으로부터 파워 코어를 얻으시오"
+
+#: 256430276-0-43108
+msgctxt "256430276-0-43108"
+msgid "Wait for Narsis to Unlock the Next Tomb"
+msgstr "나르시스가 다음 무덤을 열때까지 기다리기"
+
+#: 256430276-0-43081
+msgctxt "256430276-0-43081"
+msgid "Free Narsis Again"
+msgstr "다시 나르시스를 해방시키기"
+
+#: 256430276-0-43077
+msgctxt "256430276-0-43077"
+msgid "Talk to Narsis Dren"
+msgstr "나르시스 드렌과 대화하기"
+
+#: 256430276-0-43005
+msgctxt "256430276-0-43005"
+msgid "Observe the Monster"
+msgstr "괴물을 관찰하기"
+
+#: 256430276-0-42958
+msgctxt "256430276-0-42958"
+msgid "Determine Appropriate Offerings"
+msgstr "적절한 공물이 무엇인가를 결정하기"
+
+#: 256430276-0-42953
+msgctxt "256430276-0-42953"
+msgid "Honor the Four Ancestors"
+msgstr "4인의 조상에게 경의를 표하기"
+
+#: 256430276-0-42793
+msgctxt "256430276-0-42793"
+msgid "Optional Kill Nix ox"
+msgstr "옵션으로 닉 왁스 죽이기"
+
+#: 256430276-0-42779
+msgctxt "256430276-0-42779"
+msgid "Kill the Ruddy Man Spawn"
+msgstr "Ruddy Man의 자식을 죽이기"
+
+#: 256430276-0-42674
+msgctxt "256430276-0-42674"
+msgid "Meet with the Ghost Hunters in Balmora"
+msgstr "발모라에서 고스트 헌터와 만나기"
+
+#: 256430276-0-42656
+msgctxt "256430276-0-42656"
+msgid "Pour the Potion on the Plants"
+msgstr "식물에 포션을 붓기"
+
+#: 256430276-0-42619
+msgctxt "256430276-0-42619"
+msgid "Chat with Menaldinion"
+msgstr "Menaldinion과 대화하기"
+
+#: 121487972-0-12870
+msgctxt "121487972-0-12870"
+msgid "Talk to Curinure"
+msgstr "쿠리누레와 대화하기"
+
+#: 121487972-0-12868
+msgctxt "121487972-0-12868"
+msgid "Talk to Aicessar"
+msgstr "아이세사르와 대화하기"
+
+#: 121487972-0-12640
+msgctxt "121487972-0-12640"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와 대화하기"
+
+#: 121487972-0-12635
+msgctxt "121487972-0-12635"
+msgid "Return to the Bounty Board"
+msgstr "현상금 임무 보드로 돌아가기"
+
+#: 121487972-0-12634
+msgctxt "121487972-0-12634"
+msgid "Return to the Bounty Board"
+msgstr "현상금 임무 보드로 돌아가기"
+
+#: 121487972-0-12633
+msgctxt "121487972-0-12633"
+msgid "Return to the Bounty Board"
+msgstr "현상금 임무 보드로 돌아가기"
+
+#: 121487972-0-12631
+msgctxt "121487972-0-12631"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12627
+msgctxt "121487972-0-12627"
+msgid "Talk to Zanammu"
+msgstr "자남무와 대화하기"
+
+#: 121487972-0-12626
+msgctxt "121487972-0-12626"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12617
+msgctxt "121487972-0-12617"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12611
+msgctxt "121487972-0-12611"
+msgid "Talk to Vivec"
+msgstr "비벡과 대화하기"
+
+#: 121487972-0-12605
+msgctxt "121487972-0-12605"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12582
+msgctxt "121487972-0-12582"
+msgid "Talk to Theyo"
+msgstr "Theyo와(과) 대화하기"
+
+#: 121487972-0-12577
+msgctxt "121487972-0-12577"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12516
+msgctxt "121487972-0-12516"
+msgid "Talk to Rhea"
+msgstr "레아와 대화하기"
+
+#: 121487972-0-12504
+msgctxt "121487972-0-12504"
+msgid "Talk to Lady Laurent"
+msgstr "레이디 라우렌트와 대화하기"
+
+#: 121487972-0-12498
+msgctxt "121487972-0-12498"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12493
+msgctxt "121487972-0-12493"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12483
+msgctxt "121487972-0-12483"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12474
+msgctxt "121487972-0-12474"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12466
+msgctxt "121487972-0-12466"
+msgid "Talk to Naryu Virian"
+msgstr "나류 비리안과 대화하기"
+
+#: 121487972-0-12451
+msgctxt "121487972-0-12451"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12450
+msgctxt "121487972-0-12450"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12449
+msgctxt "121487972-0-12449"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12436
+msgctxt "121487972-0-12436"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12435
+msgctxt "121487972-0-12435"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12433
+msgctxt "121487972-0-12433"
+msgid "Talk to Naryu Virian"
+msgstr "나류 비리안과 대화하기"
+
+#: 121487972-0-12395
+msgctxt "121487972-0-12395"
+msgid "Talk to Deminah Salvi"
+msgstr "데미나 셀비와 대화하기"
+
+#: 121487972-0-12394
+msgctxt "121487972-0-12394"
+msgid "Talk to Deminah Salvi"
+msgstr "데미나 셀비와 대화하기"
+
+#: 121487972-0-12377
+msgctxt "121487972-0-12377"
+msgid "Talk to Rhea"
+msgstr "레아와 대화하기"
+
+#: 121487972-0-12375
+msgctxt "121487972-0-12375"
+msgid "Return to Alves Droth in Vivec City"
+msgstr "비벡 시의 알베스 드로스에게 돌아가기"
+
+#: 121487972-0-12365
+msgctxt "121487972-0-12365"
+msgid "Talk to Veya"
+msgstr "베야(Veya)와 대화하기"
+
+#: 121487972-0-12352
+msgctxt "121487972-0-12352"
+msgid "Talk to Deminah Salvi"
+msgstr "데미나 셀비와 대화하기"
+
+#: 121487972-0-12350
+msgctxt "121487972-0-12350"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12349
+msgctxt "121487972-0-12349"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12348
+msgctxt "121487972-0-12348"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12347
+msgctxt "121487972-0-12347"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12346
+msgctxt "121487972-0-12346"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12345
+msgctxt "121487972-0-12345"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12344
+msgctxt "121487972-0-12344"
+msgid "Return to Numani-Rasi"
+msgstr "Numani-Rasi에게 돌아가기"
+
+#: 121487972-0-12343
+msgctxt "121487972-0-12343"
+msgid "Talk to Sun-in-Shadow Outside"
+msgstr "밖에서  Sun-in-Shadow와 대화하기"
+
+#: 121487972-0-12342
+msgctxt "121487972-0-12342"
+msgid "Talk to Sun-in-Shadow Outside"
+msgstr "밖에서  Sun-in-Shadow와 대화하기"
+
+#: 121487972-0-12339
+msgctxt "121487972-0-12339"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12335
+msgctxt "121487972-0-12335"
+msgid "Talk to Deminah Salvi"
+msgstr "데미나 셀비와 대화하기"
+
+#: 121487972-0-12330
+msgctxt "121487972-0-12330"
+msgid "Talk to Councilor Eris"
+msgstr "Councilor Eris와(과) 대화하기"
+
+#: 121487972-0-12324
+msgctxt "121487972-0-12324"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12320
+msgctxt "121487972-0-12320"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12315
+msgctxt "121487972-0-12315"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12314
+msgctxt "121487972-0-12314"
+msgid "Talk to Sun-in-Shadow"
+msgstr " Sun-in-Shadow와 대화하기"
+
+#: 121487972-0-12312
+msgctxt "121487972-0-12312"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12311
+msgctxt "121487972-0-12311"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12310
+msgctxt "121487972-0-12310"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12309
+msgctxt "121487972-0-12309"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12308
+msgctxt "121487972-0-12308"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12305
+msgctxt "121487972-0-12305"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12304
+msgctxt "121487972-0-12304"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12302
+msgctxt "121487972-0-12302"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12300
+msgctxt "121487972-0-12300"
+msgid "Talk to Vivec"
+msgstr "비벡과 대화하기"
+
+#: 121487972-0-12299
+msgctxt "121487972-0-12299"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12296
+msgctxt "121487972-0-12296"
+msgid "Talk to Neria Lerano"
+msgstr "Neria Lerano와 대화하기"
+
+#: 121487972-0-12295
+msgctxt "121487972-0-12295"
+msgid "Talk to Canon Llevule"
+msgstr "캐논 레불와 대화하기"
+
+#: 121487972-0-12294
+msgctxt "121487972-0-12294"
+msgid "Talk to Sun-in-Shadow"
+msgstr "썬-인-쉐도우와 대화하기"
+
+#: 121487972-0-12293
+msgctxt "121487972-0-12293"
+msgid "Talk to Sun-in-Shadow"
+msgstr "썬-인-쉐도우와 대화하기"
+
+#: 121487972-0-12288
+msgctxt "121487972-0-12288"
+msgid "Talk to Tythis"
+msgstr "타이티스와 대화하기"
+
+#: 121487972-0-12264
+msgctxt "121487972-0-12264"
+msgid "Talk to Divayth Fyr"
+msgstr "디베이스 피르(Divayth Fyr)와 대화하기"
+
+#: 121487972-0-12263
+msgctxt "121487972-0-12263"
+msgid "Talk to Divayth Fyr"
+msgstr "디베이스 피르(Divayth Fyr)와 대화하기"
+
+#: 121487972-0-12262
+msgctxt "121487972-0-12262"
+msgid "Talk to Divayth Fyr"
+msgstr "디베이스 피르(Divayth Fyr)와 대화하기"
+
+#: 121487972-0-12260
+msgctxt "121487972-0-12260"
+msgid "Talk to Councilor Rayveth"
+msgstr "레이베스 의원과 대화하기"
+
+#: 121487972-0-12259
+msgctxt "121487972-0-12259"
+msgid "Talk to Divayth Fyr"
+msgstr "디베이스 피르(Divayth Fyr)와 대화하기"
+
+#: 121487972-0-12258
+msgctxt "121487972-0-12258"
+msgid "Talk to Divayth Fyr"
+msgstr "디베이스 피르(Divayth Fyr)와 대화하기"
+
+#: 121487972-0-12257
+msgctxt "121487972-0-12257"
+msgid "Talk to Divayth Fyr"
+msgstr "디베이스 피르(Divayth Fyr)와 대화하기"
+
+#: 121487972-0-12254
+msgctxt "121487972-0-12254"
+msgid "Talk to Vivec"
+msgstr "비벡과 대화하기"
+
+#: 121487972-0-12244
+msgctxt "121487972-0-12244"
+msgid "Talk to Elfbetta"
+msgstr "Elfbetta와(과) 대화하기"
+
+#: 121487972-0-12243
+msgctxt "121487972-0-12243"
+msgid "Talk to Vivec"
+msgstr "비벡과 대화하기"
+
+#: 121487972-0-12241
+msgctxt "121487972-0-12241"
+msgid "Talk to Councilor Eris"
+msgstr "Councilor Eris와(과) 대화하기"
+
+#: 121487972-0-12240
+msgctxt "121487972-0-12240"
+msgid "Talk to Neramo"
+msgstr "네라모(Neramo)와 대화하기"
+
+#: 121487972-0-12235
+msgctxt "121487972-0-12235"
+msgid "Talk to Drelyth Hleran"
+msgstr "Drelyth Hleran와(과) 대화하기"
+
+#: 121487972-0-12213
+msgctxt "121487972-0-12213"
+msgid "Talk to Captain Bethes"
+msgstr "Captain Bethes와(과) 대화하기"
+
+#: 121487972-0-12212
+msgctxt "121487972-0-12212"
+msgid "Talk to Halinjirr"
+msgstr "Halinjirr와(과) 대화하기"
+
+#: 121487972-0-12211
+msgctxt "121487972-0-12211"
+msgid "Talk to the Foreman"
+msgstr "Foreman와(과) 대화하기"
+
+#: 121487972-0-12210
+msgctxt "121487972-0-12210"
+msgid "Talk to Elfbetta"
+msgstr "Elfbetta와(과) 대화하기"
+
+#: 121487972-0-12204
+msgctxt "121487972-0-12204"
+msgid "Talk to Vivec"
+msgstr "비벡과 대화하기"
+
+#: 121487972-0-12184
+msgctxt "121487972-0-12184"
+msgid "Talk to Ibaal"
+msgstr "Ibaal과 대화하기"
+
+#: 121487972-0-12180
+msgctxt "121487972-0-12180"
+msgid "Talk to Ridena"
+msgstr "Ridena와(과) 대화하기"
+
+#: 121487972-0-12157
+msgctxt "121487972-0-12157"
+msgid "Talk to Foreman Lathdar"
+msgstr "Lathdar 작업장과 대화하기"
+
+#: 121487972-0-12140
+msgctxt "121487972-0-12140"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12138
+msgctxt "121487972-0-12138"
+msgid "Talk to Tilenra"
+msgstr "Tilenra와(과) 대화하기"
+
+#: 121487972-0-12137
+msgctxt "121487972-0-12137"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12135
+msgctxt "121487972-0-12135"
+msgid "Talk to Theyo"
+msgstr "Theyo와(과) 대화하기"
+
+#: 121487972-0-12134
+msgctxt "121487972-0-12134"
+msgid "Talk to Melar Sadus, the former Scarlet Judge"
+msgstr "Melar Sadus 전 스칼렛 판사와 대화하기"
+
+#: 121487972-0-12112
+msgctxt "121487972-0-12112"
+msgid "Talk to Sun-in-Shadow"
+msgstr " Sun-in-Shadow와 대화하기"
+
+#: 121487972-0-12056
+msgctxt "121487972-0-12056"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12055
+msgctxt "121487972-0-12055"
+msgid "Give Llonas Tirwin's Servitude Obligation"
+msgstr "Llonas Tirwin의 노예증서를 주기"
+
+#: 121487972-0-12048
+msgctxt "121487972-0-12048"
+msgid "Talk to Councilor Rayveth"
+msgstr "Councilor Rayveth와(과) 대화하기"
+
+#: 121487972-0-11986
+msgctxt "121487972-0-11986"
+msgid "Talk to Vivec"
+msgstr "비벡과 대화하기"
+
+#: 121487972-0-11971
+msgctxt "121487972-0-11971"
+msgid "Talk to Sun-in-Shadow in the Council Hall"
+msgstr "Council Hall의  Sun-in-Shadow와 대화하기"

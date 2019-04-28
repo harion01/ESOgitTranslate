@@ -1,0 +1,2421 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 3952276-1-6529
+msgctxt "3952276-1-6529"
+msgid """Those wishing to take the Pledge must sign the Tome of the Undaunted, signaling their intent. If you've never run with the Undaunted before, this is your chance!"""
+"\n"
+"\n""Directions to the camp follow. See you there! - Maj"""
+msgstr "「誓いを立てたい者は、アンドーンテッドの書に署名し、自らの意図を伝えなくてはならない。これまで全くアンドーンテッドと協力したことがないなら、これはチャンスよ！」\\r"
+"\n\\r"
+"\n「キャンプへの道順を教えるわ。現地で会いましょう！ - マジ」"
+
+#: 20958740-1-6529
+msgctxt "20958740-1-6529"
+msgid "<Examine the directions.>"
+msgstr "<道順を調べる>"
+
+#: 3952276-1-6498
+msgctxt "3952276-1-6498"
+msgid "Tree-Minder Na-Kesh and the Xit-Xaht people raided my village while I was out fishing and kidnapped my entire tribe. They mean to put them to work building this ugly city. I mean to save them."
+"\n"
+"\nIt will not be easy, but I am very plucky."
+msgstr "木の番人ナ・ケッシュとジット・ザートたちは、我が魚との戦いに赴いている間に村を蹂躙し、部族の皆をさらった。そして、ここに連れて来たのだ。この醜悪な都市を建設させるためにな。我は皆を助けたい"
+
+#: 20958740-1-6498
+msgctxt "20958740-1-6498"
+msgid "It sounds like you might need a hand. I'll help you rescue your family."
+msgstr "助けが必要なようだ。家族の救出を手伝おう"
+
+#: 3952276-1-6474
+msgctxt "3952276-1-6474"
+msgid "I was hoping you'd ask that. There is. If you could go up the beach to the Morkul Stronghold for me that might just save the day. "
+"\n"
+"\nTell Azaro to send word to his boss. The deal's not dead. Tell him we'll be in Orsinium in a few days."
+msgstr "I was hoping you'd ask that. There is. If you could go up the beach to the Morkul Stronghold for me that might just save the day. \\r"
+"\n\\r"
+"\nTell Azaro to send word to his boss. The deal's not dead. Tell him we'll be in Orsinium in a few days."
+
+#: 20958740-1-6474
+msgctxt "20958740-1-6474"
+msgid "Sure. I'll go tell him you're on the way."
+msgstr "Sure. I'll go tell him you're on the way."
+
+#: 3952276-1-6473
+msgctxt "3952276-1-6473"
+msgid "How's this for insult to injury? The Lord Warden obsessively keeps record of every indignity he's inflicted."
+"\n"
+"\nWipe the record clean before you turn the tables on him."
+msgstr "侮辱を痛みに変えてやるのはどう？ 看守長は、受けた侮辱の全てを執拗なまでに記録してるそうよ\\r"
+"\n\\r"
+"\n奴と戦う前に、記録をまっさらにしてやりましょう"
+
+#: 20958740-1-6473
+msgctxt "20958740-1-6473"
+msgid "I pledge to explore the Imperial City Prison and return Undaunted."
+msgstr "帝都監獄を探索してアンドーンテッドとして戻ってくることを誓う"
+
+#: 3952276-1-6472
+msgctxt "3952276-1-6472"
+msgid "I was going to challenge you to the test of the Frigid Tome, but I do not think you can handle it. You are welcome to prove me wrong."
+msgstr "極寒の書の試練を課そうと思っていたが、お前には耐えられなさそうだ。その判断が間違いだと証明したければ、いつでも声をかけてくれ"
+
+#: 20958740-1-6472
+msgctxt "20958740-1-6472"
+msgid "I pledge to explore City of Ash and return Undaunted."
+msgstr "灰の街を探索してアンドーンテッドとして戻ってくることを誓う"
+
+#: 3952276-1-6404
+msgctxt "3952276-1-6404"
+msgid "One destined for you. Daedra have overrun White-Gold Tower. We would flee were it not for a certain relic left in the halls above."
+"\n"
+"\nWe need to get it back. The existence of the Empire depends upon it."
+msgstr "これはあなたの運命よ。デイドラに〈白金の塔〉を占拠されてしまったの。上階の広間に、あの遺物を残して逃げるわけにはいかない\\r"
+"\n\\r"
+"\n何としても取り戻すのよ。あの遺物がなければ帝国が滅びかねないわ"
+
+#: 20958740-1-6404
+msgctxt "20958740-1-6404"
+msgid "I'll help you get it. What is it?"
+msgstr "手を貸そう。何があった？"
+
+#: 3952276-1-6402
+msgctxt "3952276-1-6402"
+msgid "Malacath has sent you … to see the sacred words to safety. Find the other … archivists. Gather a drop of blood … from each … to open the way. You can start with … mine."
+"\n"
+"\nAnd know that … the Agra Crun … will guide you …."
+msgstr "マラキャスがあなたを送ってくれたのね… 聖言を安全な場所へ移すために。別の公文書保管人を… 探して。それぞれから… 血を一滴ずつ集めて… 道を開くの。私の血から… 始めるといい\\r"
+"\n\\r"
+"\n大丈夫… アグラ・クルンが… 導いてくれる…"
+
+#: 20958740-1-6402
+msgctxt "20958740-1-6402"
+msgid "I'll gather the blood and preserve the sacred words."
+msgstr "血を集めて聖言を守ろう"
+
+#: 3952276-1-6394
+msgctxt "3952276-1-6394"
+msgid "The Silver Dawn is a sacred order of werewolf hunters. The Magnar Pack are werewolves."
+"\n"
+"\nThey attacked our stronghold in the Argent Mine. I barely escaped, but I had to leave our sacred banner behind. Without it, the order can't rise again."
+msgstr "シルバードーンは、ウェアウルフハンターである聖なる教団。マグナーの群れはウェアウルフよ\\r"
+"\n\\r"
+"\n連中にアージェント鉱山にある要塞を攻撃されたの。私はかろうじて逃げ出したけど、聖なる旗を残してきてしまった。あれがないと、教団は再起できない"
+
+#: 20958740-1-6394
+msgctxt "20958740-1-6394"
+msgid "I can recover the Silver Dawn's sacred banner for you."
+msgstr "銀なる暁の聖なる旗を取り戻そう"
+
+#: 3952276-1-6391
+msgctxt "3952276-1-6391"
+msgid """I fear that the hagraven isn't restricting her transformations to just prisoners. I think she's using the totem on our own people! You should leave as soon as possible. I will—"""
+"\n"
+"\n<A smear of dried blood obscures the rest of this letter.>"
+msgstr "「ハグレイヴンは、変身の技を囚人だけに使っている訳じゃなさそうだ。仲間たちにもトーテムを使っているんだ！ できるだけ早く逃げろ。私も―」\\r"
+"\n\\r"
+"\n<乾いた血で汚れ、手紙の残りは読めない>"
+
+#: 20958740-1-6391
+msgctxt "20958740-1-6391"
+msgid "I should try to find the bird totem mentioned in the letter."
+msgstr "手紙に書かれている鳥のトーテムを探してみる"
+
+#: 3952276-1-6384
+msgctxt "3952276-1-6384"
+msgid "Chief Ramash and Hunt-Wife Bolgar decided to enter the quarry and find out what was going on. We went with them. Worst decision I ever made."
+"\n"
+"\nBolgar's still down there. Looking for her daughter. Last we knew, she was with the Elf."
+msgstr "ラマシュ族長と狩猟夫人ボルガーは、採石場に入って様子を見ることにした。俺達も一緒に入った。最悪な決断だった\\r"
+"\n\\r"
+"\nボルガーは、まだあそこで娘を探してる。最後に見た時は、あのエルフと一緒にいたんだ"
+
+#: 20958740-1-6384
+msgctxt "20958740-1-6384"
+msgid "I'll find Bolgar and her daughter."
+msgstr "ボルガーと娘を探そう"
+
+#: 3952276-1-6382
+msgctxt "3952276-1-6382"
+msgid "Hmm? No, the correct question is ""how?"" This bizarre experimentation was done with great purpose."
+"\n"
+"\nI would know the true meaning and goal behind such techniques. Should you encounter any evidence, do return it to me, yes? Yes, good."
+msgstr "ん？ いや、問うべきは「どうやって？」だ。この奇怪な実験は、何か偉大な目的があって行なわれた\\r"
+"\n\\r"
+"\nこのような技法の背景にある、本当の意味と目的が分かるようになる。もし証拠を見つけたら、ぜひ持ち帰って渡してくれ。いいな？ よし"
+
+#: 20958740-1-6382
+msgctxt "20958740-1-6382"
+msgid "I'll see what I can find, but tell me what you mean by ""evidence."""
+msgstr "探してみるが、「証拠」とは具体的に何のことか教えてほしい"
+
+#: 3952276-1-6379
+msgctxt "3952276-1-6379"
+msgid "Not a word, and it smells like Elf mischief to me."
+"\n"
+"\nMy husband, Chief Ramash, went down into the quarry to look for the Elf and find out what happened to our workers. He came back covered in blood. And I can tell you, Ramash doesn't bleed easily."
+msgstr "何にも。それにエルフの仕業だって匂いがする\\r"
+"\n\\r"
+"\n夫のラマシュ族長が、エルフ探しと労働者達の様子を見るために採石場に行ったの。戻ってきた時には血だらけだった。ラマシュは、めったなことじゃ血を流さない男なのに"
+
+#: 20958740-1-6379
+msgctxt "20958740-1-6379"
+msgid "I can take a look in the quarry if you like."
+msgstr "採石場を調べてもいい"
+
+#: 3952276-1-6377
+msgctxt "3952276-1-6377"
+msgid "Now that you mention it, I was hoping to collect a Dwarven power core. But the only one I saw was protected by a Ztheng Guardian!"
+"\n"
+"\nIf you could get the core, I'd appreciate it. Raynor loves those things! Uses them to build all kinds of devices."
+msgstr "そう言われてみると、そうね。ドワーフのパワーコアを回収したいと思ってたの。でも唯一見掛けたやつは、ツェングのガーディアンに守られてたのよ！\\r"
+"\n\\r"
+"\nコアを入手してくれるとありがたいわ。レイノーはああいうのが好きでね！ あれを使って色んな機械を作るの"
+
+#: 20958740-1-6377
+msgctxt "20958740-1-6377"
+msgid "I'll get the power core for you."
+msgstr "パワーコアを入手しよう"
+
+#: 3952276-1-6374
+msgctxt "3952276-1-6374"
+msgid "Who knows what relics and knowledge are inside an untouched Dwemer ruin? That's what <<1>> said, and now he's dead like all the rest. Well, he might be alive. We got separated when we ran for our lives."
+"\n"
+"\nBut he's probably dead."
+msgstr "誰にも発見されてないドゥエマーの遺跡の中なら、どんな遺物や知識が見つかるか分からないでしょう？ <<1>>がそう言ってた。そして他の連中と同じように死んだ。まあ、生きてるかも知れないけど。逃げる途中で離ればなれになったの\\r"
+"\n\\r"
+"\nでもたぶん死んでる"
+
+#: 20958740-1-6374
+msgctxt "20958740-1-6374"
+msgid "I'll enter the ruin and search for <<1>>."
+msgstr "遺跡に入って<<1>>を探そう"
+
+#: 3952276-1-6373
+msgctxt "3952276-1-6373"
+msgid "Profit, of course! Durzogs make the perfect guard animals, but they're impossible to tame. If I could train and sell just one of those beasts, I'd make a fortune!"
+"\n"
+"\nIf you can acquire the whistle and figure out how it works, we'll split the profits."
+msgstr "もちろん利益のためさ！ ヅラゾグは護衛に使うのに最適だろうが、飼い慣らすのが不可能だ。あの獣をたった一頭でも訓練して売ったら、大金を稼げるぞ！\\r"
+"\n\\r"
+"\nその笛を入手して、その仕組みを突き止めてくれたら、利益は山分けしよう"
+
+#: 20958740-1-6373
+msgctxt "20958740-1-6373"
+msgid "I'll see what I can do."
+msgstr "やってみよう"
+
+#: 3952276-1-6370
+msgctxt "3952276-1-6370"
+msgid """I send my <<z:1>> with this offer of total amnesty and a chest of gold provided in good faith. Report immediately to <<2>> in Orsinium or I will send the Lion Guard to exterminate you all."
+"\n"
+"\n—Yours truly,"
+"\nHigh-King Emeric"""
+msgstr "「この申し入れと共に<<1>>を送ろう。完全なる恩赦と、これまでの仕事に見合うだけの金の入った箱を届けさせている。活動を止め、オルシニウムの<<2>>の元へ向かうこと。この命令に従えなければ、獅子の守護団を派遣して君たちを殲滅する」\\r"
+"\n\\r"
+"\n「――上級王エメリック」"
+
+#: 20958740-1-6370
+msgctxt "20958740-1-6370"
+msgid "<Take the letter.>"
+msgstr "<手紙を取る>"
+
+#: 3952276-1-6369
+msgctxt "3952276-1-6369"
+msgid "Oh, you have no idea! Especially the way Kireth operates. We're on the verge of a major Dwemer discovery. That's why the king invited us here. We're experts, you know."
+"\n"
+"\nCould you rescue my sister? I'd help, but I don't do that sort of thing."
+msgstr "もう想像を絶するほどだ！ 特にキレスのやり方だとね。ドゥエマーの大発見が目前に迫っていて、王に招かれて来たんだ。僕達はエキスパートだから\\r"
+"\n\\r"
+"\n姉妹を救出してくれないか？ 僕も助けたいけど、そういうのは慣れてないんだ"
+
+#: 20958740-1-6369
+msgctxt "20958740-1-6369"
+msgid "I'll find your sister."
+msgstr "姉妹を探して来る"
+
+#: 3952276-1-6366
+msgctxt "3952276-1-6366"
+msgid "<It appears that Ranev's pilgrimage began and ended at a standing stone to the southwest of Dragonstar known as the ""Gray Menhir."" The other destinations are scattered throughout Craglorn, deep within various caves and tombs.>"
+msgstr "<ラネヴの巡礼はドラゴンスターの南西にある「グレイ・メンヒル」という石から始まり、そこで終わると書かれている。他の目的地はクラグロルン中に散らばっており、さまざまな洞窟や墓地の中にあるらしい>"
+
+#: 20958740-1-6366
+msgctxt "20958740-1-6366"
+msgid "I'll travel to the Gray Menhir and undertake Ranev's pilgrimage."
+msgstr "グレイ・メンヒルへ行き、ラネヴの巡礼の旅を辿ってみよう"
+
+#: 3952276-1-6347
+msgctxt "3952276-1-6347"
+msgid "That's where the pledge comes in. It's a verbal handshake, a … you know what? Go talk to Glirion the Redbeard. He'll tell you everything you need to know."
+msgstr "そこで誓いよ。これは言葉の握手なの… 分かる？ 赤髭グリリオンと話して来て。知りたいことを全部教えてもらえる"
+
+#: 20958740-1-6347
+msgctxt "20958740-1-6347"
+msgid "I'll talk to him, then."
+msgstr "それなら、彼と話そう"
+
+#: 3952276-1-6343
+msgctxt "3952276-1-6343"
+msgid "The Mad Architect is the only mortal to make pacts with multiple Daedric Princes. Your sanity would shatter merely looking upon him. If you wish to dive headlong in to madness, you have only invoke the Scroll of Glorious Battle and meet the maker."
+msgstr "狂乱の建築家は、複数のデイドラ公と取引を結んだ唯一の定命の者だ。見ただけでも正気を失うだろう。それでもかまわないなら、輝かしき戦いの巻物を発動して建築家に会うといい"
+
+#: 20958740-1-6343
+msgctxt "20958740-1-6343"
+msgid "I pledge to explore the Vaults of Madness and return Undaunted."
+msgstr "狂気の地下室を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6341
+msgctxt "3952276-1-6341"
+msgid "Selene is ruler of her domain. It bends to her command. Prove that you will not bow as well. Invoke the Scroll of Glorious Battle and cut the threads binding her life."
+msgstr "セレーンは自らの領域を支配する。意のままに動かせるんだ。お前は支配されないことを証明してみせろ。輝かしき戦いの巻物を発動して、彼女の命をつなぐ枝を切り裂け"
+
+#: 20958740-1-6341
+msgctxt "20958740-1-6341"
+msgid "I pledge to explore Selene's Web and return Undaunted."
+msgstr "セレーンの巣を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6340
+msgctxt "3952276-1-6340"
+msgid "The Lava Queen has held the Brimstone Crown for centuries, but if you believe she is past her prime then invoke the Scroll of Glorious Battle. The spectacle may be worthy of memory, even if you do not survive it."
+msgstr "溶岩の女王は長い間硫黄の王冠を守っている。だが、彼女の全盛期はすでに過ぎたと思うのなら、輝かしき戦いの巻物を発動しろ。この戦いは記憶に残るものになるだろう。例えお前が生き残れなくてもな"
+
+#: 20958740-1-6340
+msgctxt "20958740-1-6340"
+msgid "I pledge to face the Blessed Crucible and return Undaunted."
+msgstr "聖なるるつぼを探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6339
+msgctxt "3952276-1-6339"
+msgid "Captain Blackheart has a fearsome reputation, but if that fails to impress you then invoke the Scroll of Glorious Battle. What inventive form of torture and death awaits you in failure? I do not know."
+msgstr "ブラックハート船長は悪名高い。それが気にならないのなら輝かしき戦いの巻物を発動しろ。失敗すれば、素晴らしく独創的な拷問による死が待っているんじゃないか？ 俺には分からんが"
+
+#: 20958740-1-6339
+msgctxt "20958740-1-6339"
+msgid "I pledge to explore Blackheart Haven and return Undaunted."
+msgstr "ブラックハート・ヘヴンを探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6336
+msgctxt "3952276-1-6336"
+msgid "Then invoke the Scroll of Glorious Battle before you face what mechanized guardians must surely watch over the place. Should you prevail, we will know you are Undaunted."
+msgstr "では、そこにいるであろう機械のガーディアンと戦う前に、輝かしき戦いの巻物を発動しろ。勝利することでお前がアンドーンテッドであることを証明しろ"
+
+#: 20958740-1-6336
+msgctxt "20958740-1-6336"
+msgid "I pledge to explore Volenfell and return Undaunted."
+msgstr "ヴォレンフェルを探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6334
+msgctxt "3952276-1-6334"
+msgid "The Maormer Stormreeve can sheer your flesh with the winds and shatter your bones with the waves, but if that is not enough you have only to invoke the Scroll of Glorious Battle. I will listen for the breaking sky."
+msgstr "マオマーのストームリーブは、風で肉を抉り波で骨を砕く。しかし、それでも物足りなければ輝かしき戦いの巻物を発動しろ。そうすれば空が割れるだろう"
+
+#: 20958740-1-6334
+msgctxt "20958740-1-6334"
+msgid "I pledge to explore Tempest Island and return Undaunted."
+msgstr "テンペスト島を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6324
+msgctxt "3952276-1-6324"
+msgid "Then invoke the Scroll of Glorious Battle and challenge the witch Drodda in the seat of her power. Remain Undaunted or know the shame of having your folly preserved in ice."
+msgstr "では輝かしき戦いの巻物を発動して、魔女ドロッダの本拠地で挑め。アンドーンテッドとして戻って来るか、でなければその愚行を氷漬けで保存して貰うんだな"
+
+#: 20958740-1-6324
+msgctxt "20958740-1-6324"
+msgid "I pledge to explore Direfrost Keep and return Undaunted."
+msgstr "ダイアフロスト砦を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6323
+msgctxt "3952276-1-6323"
+msgid "You wish to brand your deeds upon those woods? If you invoke the Scroll of Glorious Battle before you clip Razor Master Erthas from the tree, you may leave your mark."
+msgstr "森に自分の偉業を刻みたいのか？ レイザーマスター・エルサスを森から切り出す前に輝かしき戦いの巻物を発動すれば、お前の偉業は語り継がれるだろう"
+
+#: 20958740-1-6323
+msgctxt "20958740-1-6323"
+msgid "I pledge to explore the City of Ash and return Undaunted."
+msgstr "灰の街を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6322
+msgctxt "3952276-1-6322"
+msgid "You seek death? Then invoke the Scroll of Glorious Battle and present yourself to the queen of the lamia to court your demise."
+msgstr "そんなに死にたいのか？ なら、輝かしき戦いの巻物を発動してラミアの女王と戦え。最後を飾れるようにな"
+
+#: 20958740-1-6322
+msgctxt "20958740-1-6322"
+msgid "I pledge to explore Arx Corinium and return Undaunted."
+msgstr "アークス・コリニウムを探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6318
+msgctxt "3952276-1-6318"
+msgid "If you're looking for an extra challenge, allow four of Nerien'eth's followers to survive until he takes up the dark blade. Face the ruins unafraid. And return Undaunted."
+msgstr "さらに挑戦したいなら、ネリエンエスが黒檀の刀剣を手にするまで、奴の従者達を4体生かしておけ。恐れず遺跡に立ち向かえよ。そしてアンドーンテッドへ帰還しろ"
+
+#: 20958740-1-6318
+msgctxt "20958740-1-6318"
+msgid "I pledge to explore Crypt of Hearts and return Undaunted."
+msgstr "ハーツ墓地を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6317
+msgctxt "3952276-1-6317"
+msgid "Before you raise your hand to the twin wardens of the crypt, invoke the Scroll of Glorious Battle. If you are not made their eternal slave, you may claim yourself Undaunted."
+msgstr "墓地の双子の看守と戦う前に、輝かしき戦いの巻物を発動させろ。連中に永遠の奴隷とされなければ、お前はアンドーンテッドを名乗れるだろう"
+
+#: 20958740-1-6317
+msgctxt "20958740-1-6317"
+msgid "I pledge to explore the Crypt of Hearts and return Undaunted."
+msgstr "ハーツ墓地を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6316
+msgctxt "3952276-1-6316"
+msgid "While you're returning the Pellingares to their rightful graves, don't forget to set their lackeys along with them! Smite them by the handful and don't lose count! I want to know how many you piled up before the deed's done."
+msgstr "ペリンゲールを墓に戻す間、手下も忘れずに連れてってね！ アンドーンテッドとして戻る前に連中を叩きのめして。しっかり数えておいてね！ どれだけ片付けたか知りたいから"
+
+#: 20958740-1-6316
+msgctxt "20958740-1-6316"
+msgid "I pledge to explore Wayrest Sewers and return Undaunted."
+msgstr "ウェイレスト下水道を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6312
+msgctxt "3952276-1-6312"
+msgid "Army of cutthroats not scary enough for you? Alright, invoke the Scroll of Glorious Battle before quashing the instigator of this rebellion and return Undaunted!"
+msgstr "殺し屋の軍は怖くないってことね？ 分かったわ。この反乱を扇動してる奴を叩き潰す前に、輝かしき戦いの巻物を使いなさい。そして、アンドーンテッドとして帰ってくるの！"
+
+#: 20958740-1-6312
+msgctxt "20958740-1-6312"
+msgid "I pledge to explore Wayrest Sewers and return Undaunted."
+msgstr "ウェイレスト下水道を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6311
+msgctxt "3952276-1-6311"
+msgid "Daedra tend to have a flare for the dramatic. All doom and gloom. "
+"\n"
+"\nSeek out this overwrought dire portent called the Opus of Torment, then burn that trash and scatter the ashes across Oblivion. See how they like that!"
+msgstr "デイドラには演劇の才能があるの。破滅と憂鬱に関してはね\\r"
+"\n\\r"
+"\n苦悩の作品と呼ばれる尊大で張り詰めた作品を探して。それを燃やして、灰をオブリビオンにばらまいてやるの。きっと連中大喜びよ！"
+
+#: 20958740-1-6311
+msgctxt "20958740-1-6311"
+msgid "Right. I pledge to explore Elden Hollow and return Undaunted."
+msgstr "結構。エルデン洞穴を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6310
+msgctxt "3952276-1-6310"
+msgid "Hmph. Everyone's a critic. You want a challenge? Invoke the Scroll of Glorious Battle before facing Canonreeve Oraneth and see how well she takes your critiques."
+msgstr "はぁ。みんな注文が多いわね。そんなに挑戦したいの？ キャノンリーブ・オラネスと戦う前に、輝かしき戦いの巻物を発動して。あなたの注文にどう応えるか、見てみましょう"
+
+#: 20958740-1-6310
+msgctxt "20958740-1-6310"
+msgid "I pledge to explore Elden Hollow and return Undaunted."
+msgstr "エルデン洞穴を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6309
+msgctxt "3952276-1-6309"
+msgid "Forgive me. I beg you. I had sellswords with me. They charged through the Gate, but I was attacked by Daedra. I fled …."
+"\n"
+"\nIf you'll help, give me another chance at this, I don't care what it costs. I'm going through that portal."
+msgstr "許してくれ。頼む。傭兵達を連れていった。門を突破したがデイドラ達に攻撃された。私は逃げた…\\r"
+"\n\\r"
+"\nもし手を貸してくれるのなら、もう一度試すチャンスをくれ。どんなことがあっても… あのポータルを抜けたいんだ"
+
+#: 20958740-1-6309
+msgctxt "20958740-1-6309"
+msgid "I'll take care of it."
+msgstr "何とかしよう"
+
+#: 3952276-1-6308
+msgctxt "3952276-1-6308"
+msgid "Try to destroy the construct that's protecting the source of all this mayhem without deactivating any of its defenses. That's what I would do."
+msgstr "防衛装置を無効化することなく、この騒ぎの原因を守るコンストラクトを破壊して。私ならそうするわ"
+
+#: 20958740-1-6308
+msgctxt "20958740-1-6308"
+msgid "I pledge to explore Darkshade Caverns and return Undaunted."
+msgstr "ダークシェイド洞窟を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6307
+msgctxt "3952276-1-6307"
+msgid "Oh ho! Well, if a gang of vicious cutthroats pose no challenge … why don't you delve into the dwemer ruins beneath and invoke the Scroll of Glorious Battle on the nastiest piece of Dwarven cogwork you can find?"
+msgstr "へえ！ 悪党たちじゃ何の挑戦にもならないっていうなら… ドゥエマーの遺跡に潜って、最悪のドワーフの機械相手に、輝かしき戦いの巻物を使ってみない？"
+
+#: 20958740-1-6307
+msgctxt "20958740-1-6307"
+msgid "I pledge to explore Darkshade Caverns and return Undaunted."
+msgstr "ダークシェイド洞窟を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6306
+msgctxt "3952276-1-6306"
+msgid "The vampire master of the coven is said to savor the blood of innocents. Put an end to him without another drop of it being spilled and you will be worthy of the name, Undaunted."
+msgstr "洞窟を支配している吸血鬼は、罪のない者達の血を啜っているそうよ。アンドーンテッドの名に恥じぬよう、これ以上の犠牲者が出る前に倒して"
+
+#: 20958740-1-6306
+msgctxt "20958740-1-6306"
+msgid "I pledge to explore Spindleclutch and return Undaunted."
+msgstr "スピンドルクラッチを探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6293
+msgctxt "3952276-1-6293"
+msgid "There's always the Scroll of Glorious Battle, if you fear this won't be a victory bards will sing of for centuries."
+"\n"
+"\nFind it and invoke the spell. If you survive what comes after, you will truly be Undaunted!"
+msgstr "輝かしき戦いの巻物がいつでも使えるわ。これを怖がってるようじゃ、何百年も吟遊詩人が語り継ぐような勝利にはならないわね\\r"
+"\n\\r"
+"\n見つけて、呪文を発動して。もし生き残れたら、あなたは本物のアンドーンテッドよ！"
+
+#: 20958740-1-6293
+msgctxt "20958740-1-6293"
+msgid "I pledge to explore Spindleclutch and return Undaunted."
+msgstr "スピンドルクラッチを探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6291
+msgctxt "3952276-1-6291"
+msgid "If only it were that simple. As Titus loses parts of himself, his connection to me is severed. I can no longer reach him with my blessing."
+"\n"
+"\nTitus has done everything I asked of him. It is time to send him home. Will you help him remember who he is?"
+msgstr "そう簡単なことなら良かったのだがな。ティトゥスが心を失い始めた時、私とのつながりも途切れてしまった。私の祝福はもう届かない\\r"
+"\n\\r"
+"\nティトゥスは頼んだことをすべてやってくれた。もう、家へ帰してやる時だ。彼が自分を取り戻せるよう、手伝ってくれないか？"
+
+#: 20958740-1-6291
+msgctxt "20958740-1-6291"
+msgid "Yes, I'll help Titus."
+msgstr "分かった。ティトゥスを助ける"
+
+#: 3952276-1-6288
+msgctxt "3952276-1-6288"
+msgid """Interested parties should seek <<1>> at the Fighters Guild for Blacksmith, Clothier, and Woodworker certification. Speak with <<2>> at the Mages Guild for Provisioner, Enchanter, and Alchemist certification."""
+msgstr "「関心がある場合は、鍛冶師、仕立師、木工師の認定は、戦士ギルドにて<<1>>を、調理師、付呪師、錬金術師の認定は、魔術師ギルドにて<<2>>を探すように！」"
+
+#: 20958740-1-6288
+msgctxt "20958740-1-6288"
+msgid "<Take the handbill.>"
+msgstr "<チラシを取る>"
+
+#: 3952276-1-6276
+msgctxt "3952276-1-6276"
+msgid "Their leader, Vila Theran, is a nasty piece of work. If you can best her dark magic without cowering behind the protections of the Obsidian Husk, you'll truly be Undaunted."
+msgstr "指導者のヴィラ・テランは厄介よ。もしオブシディアン・ハスクの陰に隠れずに彼女の闇の魔法を凌いだら、あなたは本物のアンドーンテッドになるでしょう"
+
+#: 20958740-1-6276
+msgctxt "20958740-1-6276"
+msgid "I pledge to explore Fungal Grotto and return Undaunted."
+msgstr "フンガル洞窟を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6275
+msgctxt "3952276-1-6275"
+msgid "Sure of yourself, eh? Fine, fancybreeches! Invoke the Scroll of Glorious Battle and see if you can still crack the shell of that ugly son of a mudcrab!"
+msgstr "また格好つけて！ 本当に自信家なのね？ なら、輝かしき戦いの巻物を発動してから、あの醜いマッドクラブの殻を割ってやって！"
+
+#: 20958740-1-6275
+msgctxt "20958740-1-6275"
+msgid "I pledge to explore the Fungal Grotto and return Undaunted."
+msgstr "フンガル洞窟を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6274
+msgctxt "3952276-1-6274"
+msgid "The ancient unkillable Kinlord isn't enough for you? I knew I liked you. Rilis is known to summon great daedroth to serve him. Don't let him distract you."
+"\n"
+"\nDestroy the Kinlord without even bothering to destroy those lackeys."
+msgstr "古代の不死の上級公では満足できないのね？ 気に入ったわ。ライリスは強力なデイドロスを召喚して仕えさせる。彼の気を散らさないようにしましょう\\r"
+"\n\\r"
+"\n手下達を倒さずに、上級公を倒してみて"
+
+#: 20958740-1-6274
+msgctxt "20958740-1-6274"
+msgid "I pledge to explore the Banished Cells, and return Undaunted."
+msgstr "追放者の監房を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6272
+msgctxt "3952276-1-6272"
+msgid "Not enough, eh? Alright, invoke the Scroll of Glorious Battle before you face the Kinlord. He might just stand a chance then!"
+msgstr "まだ物足りないのね？ 分かったわ。上級公と対決する前に、輝かしき戦いの巻物を発動しておいて。そうすれば、彼にもチャンスがあるでしょう！"
+
+#: 20958740-1-6272
+msgctxt "20958740-1-6272"
+msgid "I pledge to explore the Banished Cells, and return Undaunted."
+msgstr "追放者の監房を探検して、アンドーンテッドへ帰還することを誓う"
+
+#: 3952276-1-6271
+msgctxt "3952276-1-6271"
+msgid "Little Leaf should be somewhere along the road just beyond the northeast passage. Let her know I sent you and she'll trust you implicitly."
+"\n"
+"\nShe has a very trusting soul."
+msgstr "リトルリーフなら北東の道を抜けた辺りよ。多分道沿いに行けば会えるでしょう。私があなたを遣わせたと言えば、すぐに信用してくれる\\r"
+"\n\\r"
+"\nあの子は私を信じて疑わないの"
+
+#: 20958740-1-6271
+msgctxt "20958740-1-6271"
+msgid "I'll go help Little Leaf."
+msgstr "リトルリーフを手伝いに行こう"
+
+#: 3952276-1-6268
+msgctxt "3952276-1-6268"
+msgid "That's terrible! The Nedes sealed those creatures away for a reason!"
+"\n"
+"\nThe texts I discovered gave me an understanding of the wards. I need to try to replicate them. But I can't do it alone. Will you keep the creatures at bay while I cast the spell?"
+msgstr "最悪だ！ ネードは理由があってあいつらを封印したんだぞ！\\r"
+"\n\\r"
+"\n発見した文書から、結界について多少は理解できた。それを復元したい。だが私一人ではどうにもならない。私が術を唱えている間、あの怪物を阻止してくれないか？"
+
+#: 20958740-1-6268
+msgctxt "20958740-1-6268"
+msgid "I'll keep the creatures busy while you reestablish the wards."
+msgstr "では結界を再構築している間、奴の相手をしておく"
+
+#: 3952276-1-6267
+msgctxt "3952276-1-6267"
+msgid "And once again you offer aid before I need to ask. Thank you."
+"\n"
+"\nMeet me at the Howling Sepulchers to the north. The ancient Nedes will regard us as intruders, so be wary. Perhaps we'll even run into Kelmen along the way."
+msgstr "頼む前に力を貸すと言ってくれるか。本当に助かるよ\\r"
+"\n\\r"
+"\n北の遠吠えの墓地で合流しよう。古代のネードは私たちのことを侵入者として扱う。気をつけるんだ。もしかしたら途中でケルメンに会えるかもしれない"
+
+#: 20958740-1-6267
+msgctxt "20958740-1-6267"
+msgid "I'll meet you at the Howling Sepulchers."
+msgstr "遠吠えの墓地で落ち合う"
+
+#: 3952276-1-6264
+msgctxt "3952276-1-6264"
+msgid "Perhaps. I thought he was nothing more than a myth before I entered the catacombs. But then I heard a voice inside my mind, beckoning me into the depths."
+"\n"
+"\nI fled to seek the blessing of the Eight, for without it I know my soul will be forfeit."
+msgstr "もしかしたらそうかもしれない。私がカタコンベに入る前までは、神話としか思っていなかった。だが声が聞こえたんだ。頭の中で、もっと奥へ奥へと招くような声が\\r"
+"\n\\r"
+"\nすぐに八大神の加護を求めて逃げ帰ったよ。加護がなければ魂を取られると感じたからな"
+
+#: 20958740-1-6264
+msgctxt "20958740-1-6264"
+msgid "I'll enter the catacombs and find out what has disturbed the dead."
+msgstr "カタコンベへ入り、何が死霊たちを起こしてしまったのか調べてみよう"
+
+#: 3952276-1-6262
+msgctxt "3952276-1-6262"
+msgid "He had an army of Scaled Court with him in those caves."
+"\n"
+"\nThey killed so many of us."
+msgstr "あの洞窟の中に、〈スケールドコート〉の軍勢が伴われていたわ\\r"
+"\n\\r"
+"\n私たちのほとんどが殺されてしまった"
+
+#: 20958740-1-6262
+msgctxt "20958740-1-6262"
+msgid "I'll deal with this. Where do I go?"
+msgstr "任せてくれ。どこに行けばいい？"
+
+#: 3952276-1-6229
+msgctxt "3952276-1-6229"
+msgid "You're my better plan! Between my cheerful optimism and your proclivity for violence, there's no way we can lose."
+"\n"
+"\nAnyway, you'll help, right? Meet me in the ruined tower on the nearby hill."
+msgstr "あなたのことよ！ 私の明るい楽観的な思考と、あなたの暴力的な性格があれば、負けることなんてないわ\\r"
+"\n\\r"
+"\nとにかく、手伝ってくれるわよね？ 近くの丘にある荒廃した塔で待ち合わせましょう"
+
+#: 20958740-1-6229
+msgctxt "20958740-1-6229"
+msgid "All right. I'll meet you in the ruined tower."
+msgstr "分かった。その荒廃した塔で落ち合おう"
+
+#: 3952276-1-6219
+msgctxt "3952276-1-6219"
+msgid "I've seen you in action. You're my best hope for stopping the mantikoras. Unnatural beasts! Did you know the Court created them?"
+"\n"
+"\nThe creation process starts in Fearfangs Cavern. There, we must destroy the scorpion matron and her nests."
+msgstr "あなたの活躍は見てきたわ。マンティコラを止められるのはあなたしかいないと思ってる。自然の摂理に反した獣よ！ あれを〈スケールドコート〉が作ったと言ったら信じてくれる？\\r"
+"\n\\r"
+"\n作成の過程はフィアファングス洞窟から始まるの。そこにいるスコーピオン・マトロンと、その巣を破壊しないといけない"
+
+#: 20958740-1-6219
+msgctxt "20958740-1-6219"
+msgid "I'll go to Fearfangs and destroy the scorpion nests."
+msgstr "フィアファングスに行き、サソリの巣を破壊してくる"
+
+#: 3952276-0-6529
+msgctxt "3952276-0-6529"
+msgid """Too much time on your hands? Need to shed a little blood? Coin purse just a little lighter than you'd like?"""
+"\n"
+"\n""We have the solution! Come to one of the new Undaunted Enclaves, and take a Pledge."""
+msgstr "「時間が余っている？ 少し血を流したい？ 財布が好みよりほんの少し軽い？」\\r"
+"\n\\r"
+"\n「解決策があるわ！ 新たなアンドーンテッドの居留地に行き、誓いを立てればいい」"
+
+#: 20958740-0-6529
+msgctxt "20958740-0-6529"
+msgid "<Flip the paper over.>"
+msgstr "<紙をめくる>"
+
+#: 3952276-0-6516
+msgctxt "3952276-0-6516"
+msgid "I'M LOOKING FOR SOMETHING. PLEASE BRING IT."
+msgstr "I'M LOOKING FOR SOMETHING. PLEASE BRING IT."
+
+#: 20958740-0-6516
+msgctxt "20958740-0-6516"
+msgid "[You nod your head, but you're not sure why you're doing that to a inscription…]"
+msgstr "[You nod your head, but you're not sure why you're doing that to a inscription…]"
+
+#: 249936564-0-6516
+msgctxt "249936564-0-6516"
+msgid "[Read The Inscription]"
+msgstr "[Read The Inscription]"
+
+#: 3952276-0-6511
+msgctxt "3952276-0-6511"
+msgid "Seeking skilled alchemists to fulfill simple requisitions. Your potions may change a life! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた錬金術師を募集。あなたの薬で誰かの人生が変わるかもしれない！ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-6511
+msgctxt "20958740-0-6511"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6511
+msgctxt "249936564-0-6511"
+msgid "<Examine the Alchemist Writs.>"
+msgstr "<錬金術師の依頼を見る>"
+
+#: 3952276-0-6510
+msgctxt "3952276-0-6510"
+msgid "Seeking skilled alchemists to fulfill simple requisitions. Your potions may change a life! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた錬金術師を募集。あなたの薬で誰かの人生が変わるかもしれない！ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-6510
+msgctxt "20958740-0-6510"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6510
+msgctxt "249936564-0-6510"
+msgid "<Examine the Alchemist Writs.>"
+msgstr "<錬金術師の依頼を見る>"
+
+#: 3952276-0-6509
+msgctxt "3952276-0-6509"
+msgid "Seeking skilled alchemists to fulfill simple requisitions. Your potions may change a life! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた錬金術師を募集。あなたの薬で誰かの人生が変わるかもしれない！ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-6509
+msgctxt "20958740-0-6509"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6509
+msgctxt "249936564-0-6509"
+msgid "<Examine the Alchemist Writs.>"
+msgstr "<錬金術師の依頼を見る>"
+
+#: 3952276-0-6508
+msgctxt "3952276-0-6508"
+msgid "Seeking skilled alchemists to fulfill simple requisitions. Your potions may change a life! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた錬金術師を募集。あなたの薬で誰かの人生が変わるかもしれない！ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-6508
+msgctxt "20958740-0-6508"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6508
+msgctxt "249936564-0-6508"
+msgid "<Examine the Alchemist Writs.>"
+msgstr "<錬金術師の依頼を見る>"
+
+#: 3952276-0-6507
+msgctxt "3952276-0-6507"
+msgid "Seeking skilled provisioners to fulfill simple opportunities. Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた調理師を募集。ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-6507
+msgctxt "20958740-0-6507"
+msgid "<Pull a Writ from the Board>"
+msgstr "<ボードから依頼を取る>"
+
+#: 249936564-0-6507
+msgctxt "249936564-0-6507"
+msgid "<Examine the Provisioner Writs>"
+msgstr "<調理師の依頼を見る>"
+
+#: 3952276-0-6506
+msgctxt "3952276-0-6506"
+msgid "Seeking skilled provisioners to fulfill simple contracts. Your food or drink could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた調理師を募集。あなたの食べ物や飲み物で何かが変わるかもしれない！ボードから外す際に細かい指示を確認しておくように"
+
+#: 20958740-0-6506
+msgctxt "20958740-0-6506"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6506
+msgctxt "249936564-0-6506"
+msgid "<Examine the Provisioner Writs.>"
+msgstr "<調理師の依頼を見る>"
+
+#: 3952276-0-6505
+msgctxt "3952276-0-6505"
+msgid "Seeking skilled provisioners to fulfill simple contracts. Your food or drink could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた調理師を募集。あなたの食べ物や飲み物で何かが変わるかもしれない！ボードから外す際に細かい指示を確認しておくように"
+
+#: 20958740-0-6505
+msgctxt "20958740-0-6505"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6505
+msgctxt "249936564-0-6505"
+msgid "<Examine the Provisioner Writs.>"
+msgstr "<調理師の依頼を見る>"
+
+#: 3952276-0-6502
+msgctxt "3952276-0-6502"
+msgid "Seeking skilled provisioners to fulfill simple contracts. Your food or drink could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な契約を遂行できる優れた調理師を募集。あなたの食べ物や飲み物で何かが変わるかもしれない！ボードから外す際に細かい指示を確認しておくように"
+
+#: 20958740-0-6502
+msgctxt "20958740-0-6502"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6502
+msgctxt "249936564-0-6502"
+msgid "<Examine the Provisioner Writs.>"
+msgstr "<調理師の依頼を見る>"
+
+#: 3952276-0-6501
+msgctxt "3952276-0-6501"
+msgid "Seeking skilled enchanters to fulfill runic requisitions. The glyphs you craft today could mean all the difference tomorrow! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達命令をこなしてくれる、熟練の付呪師を募集中。君が今日生産するグリフが、明日の勝敗を分けるかもしれない！ 掲示板から取る際は、注文の詳細をよく確認すること"
+
+#: 20958740-0-6501
+msgctxt "20958740-0-6501"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6501
+msgctxt "249936564-0-6501"
+msgid "<Examine the Enchanter Writs.>"
+msgstr "<付呪師の依頼を調べる>"
+
+#: 3952276-0-6500
+msgctxt "3952276-0-6500"
+msgid "Seeking skilled enchanters to fulfill runic requisitions. The glyphs you craft today could mean all the difference tomorrow! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達命令をこなしてくれる、熟練の付呪師を募集中。君が今日生産するグリフが、明日の勝敗を分けるかもしれない！ 掲示板から取る際は、注文の詳細をよく確認すること"
+
+#: 20958740-0-6500
+msgctxt "20958740-0-6500"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6500
+msgctxt "249936564-0-6500"
+msgid "<Examine the Enchanter Writs.>"
+msgstr "<付呪師の依頼を調べる>"
+
+#: 3952276-0-6498
+msgctxt "3952276-0-6498"
+msgid "Yes. A rampage. Then a heroic rescue. Do not try to talk me out of it. I have spent my entire hatched-life preparing for this."
+"\n"
+"\nIf you want to come along, I will not stop you. Just know that Tree-Minder Na-Kesh and her brood will show us no mercy."
+msgstr "ああ。正義を執行する。恐らく英雄的な救出劇になるだろう。止めても無駄だぞ。孵化してより幾星霜、我はこの時のために命を繋いできたのだからな\\r"
+"\n\\r"
+"\n共に来ると言うなら止めはしないが、これだけは言っておく。木の番人ナ・ケッシュたちに慈悲はない。一片たりともな。覚えておけ"
+
+#: 20958740-0-6498
+msgctxt "20958740-0-6498"
+msgid "Wait—a rescue? What happened?"
+msgstr "待て。救出？ 何が起きている？"
+
+#: 249936564-0-6498
+msgctxt "249936564-0-6498"
+msgid "A rampage?"
+msgstr "攻撃？"
+
+#: 3952276-0-6495
+msgctxt "3952276-0-6495"
+msgid "Seeking skilled enchanters to fulfill runic requisitions. The glyphs you craft today could mean all the difference tomorrow! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達命令をこなしてくれる、熟練の付呪師を募集中。君が今日生産するグリフが、明日の勝敗を分けるかもしれない！ 掲示板から取る際は、注文の詳細をよく確認すること"
+
+#: 20958740-0-6495
+msgctxt "20958740-0-6495"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6495
+msgctxt "249936564-0-6495"
+msgid "<Examine the Enchanter Writs.>"
+msgstr "<付呪師の依頼を調べる>"
+
+#: 3952276-0-6491
+msgctxt "3952276-0-6491"
+msgid "Seeking skilled woodworkers to fulfill simple opportunities. Your bows and staves could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達命令をこなしてくれる、熟練の木工師を募集中。君の弓と杖が勝敗を左右するかもしれない！ 掲示板から取る際、注文の詳細をよく確認すること"
+
+#: 20958740-0-6491
+msgctxt "20958740-0-6491"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6491
+msgctxt "249936564-0-6491"
+msgid "<Examine the Woodworker Writs.>"
+msgstr "<木工師の依頼を調べる>"
+
+#: 3952276-0-6490
+msgctxt "3952276-0-6490"
+msgid "Seeking skilled woodworkers to fulfill simple opportunities. Your bows and staves could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達命令をこなしてくれる、熟練の木工師を募集中。君の弓と杖が勝敗を左右するかもしれない！ 掲示板から取る際、注文の詳細をよく確認すること"
+
+#: 20958740-0-6490
+msgctxt "20958740-0-6490"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6490
+msgctxt "249936564-0-6490"
+msgid "<Examine the Woodworker Writs.>"
+msgstr "<木工師の依頼を調べる>"
+
+#: 3952276-0-6489
+msgctxt "3952276-0-6489"
+msgid "Seeking skilled woodworkers to fulfill simple opportunities. Your bows and staves could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達命令をこなしてくれる、熟練の木工師を募集中。君の弓と杖が勝敗を左右するかもしれない！ 掲示板から取る際、注文の詳細をよく確認すること"
+
+#: 20958740-0-6489
+msgctxt "20958740-0-6489"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6489
+msgctxt "249936564-0-6489"
+msgid "<Examine the Woodworker Writs.>"
+msgstr "<木工師の依頼を調べる>"
+
+#: 3952276-0-6487
+msgctxt "3952276-0-6487"
+msgid "Seeking skilled blacksmiths to fulfill simple requisitions! Your goods could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達依頼をこなしてくれる、熟練の鍛冶屋を募集中！ 君の品物が勝敗を分けるかもしれない！ 掲示板から取り外す際、注文の詳細をよく確認すること"
+
+#: 20958740-0-6487
+msgctxt "20958740-0-6487"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6487
+msgctxt "249936564-0-6487"
+msgid "<Examine the Blacksmith Writs.>"
+msgstr "<鍛冶屋の依頼を調べる>"
+
+#: 3952276-0-6486
+msgctxt "3952276-0-6486"
+msgid "Seeking skilled blacksmiths to fulfill simple requisitions! Your goods could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達依頼をこなしてくれる、熟練の鍛冶屋を募集中！ 君の品物が勝敗を分けるかもしれない！ 掲示板から取り外す際、注文の詳細をよく確認すること"
+
+#: 20958740-0-6486
+msgctxt "20958740-0-6486"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6486
+msgctxt "249936564-0-6486"
+msgid "<Examine the Blacksmith Writs.>"
+msgstr "<鍛冶屋の依頼を調べる>"
+
+#: 3952276-0-6485
+msgctxt "3952276-0-6485"
+msgid "Seeking skilled blacksmiths to fulfill simple requisitions! Your goods could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な調達依頼をこなしてくれる、熟練の鍛冶屋を募集中！ 君の品物が勝敗を分けるかもしれない！ 掲示板から取り外す際、注文の詳細をよく確認すること"
+
+#: 20958740-0-6485
+msgctxt "20958740-0-6485"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6485
+msgctxt "249936564-0-6485"
+msgid "<Examine the Blacksmith Writs.>"
+msgstr "<鍛冶屋の依頼を調べる>"
+
+#: 249936564-0-6483
+msgctxt "249936564-0-6483"
+msgid "Never see."
+msgstr "見ない"
+
+#: 20958740-0-6481
+msgctxt "20958740-0-6481"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6481
+msgctxt "249936564-0-6481"
+msgid "<Examine the Clothier Writs.>"
+msgstr "<仕立屋の依頼を調べる>"
+
+#: 3952276-0-6480
+msgctxt "3952276-0-6480"
+msgid "Seeking skilled clothiers to fulfill simple opportunities. The robes or leathers you sew today could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な仕事をこなせる熟練の仕立屋を募集中。あなたが今日縫うローブや革が勝敗を分けるかもしれない！ 依頼を掲示板から取る際は、注文の詳細をよく確認すること"
+
+#: 20958740-0-6480
+msgctxt "20958740-0-6480"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6480
+msgctxt "249936564-0-6480"
+msgid "<Examine the Clothier Writs.>"
+msgstr "<仕立屋の依頼を調べる>"
+
+#: 3952276-0-6475
+msgctxt "3952276-0-6475"
+msgid "Seeking skilled clothiers to fulfill simple opportunities. The robes or leathers you sew today could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な仕事をこなせる熟練の仕立屋を募集中。あなたが今日縫うローブや革が勝敗を分けるかもしれない！ 依頼を掲示板から取る際は、注文の詳細をよく確認すること"
+
+#: 20958740-0-6475
+msgctxt "20958740-0-6475"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-6475
+msgctxt "249936564-0-6475"
+msgid "<Examine the Clothier Writs.>"
+msgstr "<仕立屋の依頼を調べる>"
+
+#: 3952276-0-6474
+msgctxt "3952276-0-6474"
+msgid "That's where we were supposed to anchor. Zazabukhi—the Khajiit who brokered the deal—she sent her assistant there to await our arrival."
+"\n"
+"\nShe's smart in business, but patience isn't her ball of yarn. I'm worried she's written us off."
+msgstr "That's where we were supposed to anchor. Zazabukhi—the Khajiit who brokered the deal—she sent her assistant there to await our arrival.\\r"
+"\n\\r"
+"\nShe's smart in business, but patience isn't her ball of yarn. I'm worried she's written us off."
+
+#: 20958740-0-6474
+msgctxt "20958740-0-6474"
+msgid "Is there any way I can help?"
+msgstr "Is there any way I can help?"
+
+#: 249936564-0-6474
+msgctxt "249936564-0-6474"
+msgid "Why would you go to the Morkul Clanhold?"
+msgstr "Why would you go to the Morkul Clanhold?"
+
+#: 3952276-0-6473
+msgctxt "3952276-0-6473"
+msgid "Imperial City Prison! The minions of Molag Bal made it their own. Nothing they like more than prisoners to torture. That dungeon's like a nightmare straight out of Oblivion now."
+"\n"
+"\nI want to see if Daedra can take as good as they give. Interested?"
+msgstr "帝都監獄！ モラグ・バルの手下が占拠してるわ。彼らは、囚人を苦しめるのが最高の娯楽なのよ。あのダンジョンは、オブリビオンから続く悪夢のようになってるわ\\r"
+"\n\\r"
+"\n私は、デイドラが同じ目に遭うところを見てみたい。興味はある？"
+
+#: 20958740-0-6473
+msgctxt "20958740-0-6473"
+msgid "And if I can handle more than that?"
+msgstr "それだけでは満足できない場合は？"
+
+#: 249936564-0-6473
+msgctxt "249936564-0-6473"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6472
+msgctxt "3952276-0-6472"
+msgid "City of Ash. I'm embarrassed to say that a group of my fellow Undaunted helped an unwitting Bosmer open an Oblivion Gate there.  Closing that portal—permanently—and defeating the Daedra within would be a feat worthy of an Undaunted."
+msgstr "灰の街だ。恥ずかしいことだが、仲間のアンドーンテッド達が愚かなボズマーと一緒にオブリビオンの門を開いてしまったのだ。そのポータルを永久に閉じ、そこにいるデイドラを始末する。これぞ、アンドーンテッドに相応しい偉業だろう"
+
+#: 20958740-0-6472
+msgctxt "20958740-0-6472"
+msgid "And if I can handle more than that?"
+msgstr "それだけでは満足できない場合は？"
+
+#: 249936564-0-6472
+msgctxt "249936564-0-6472"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6454
+msgctxt "3952276-0-6454"
+msgid "Quest is starting now."
+msgstr "Quest is starting now."
+
+#: 20958740-0-6454
+msgctxt "20958740-0-6454"
+msgid "ok."
+msgstr "ok."
+
+#: 249936564-0-6454
+msgctxt "249936564-0-6454"
+msgid "start quest"
+msgstr "start quest"
+
+#: 3952276-0-6421
+msgctxt "3952276-0-6421"
+msgid "<A soft wind blows over Rakkhat's ashes revealing an ancient lunar talisman. This weathered relic likely belonged to Kulan-dro before his fall into madness.>"
+msgstr "<弱い風が吹き、ラカートの遺灰から古代の月の護符が現れる。この古びた遺物はクラン・ドロが狂気に陥る前に持っていたものだろう>"
+
+#: 20958740-0-6421
+msgctxt "20958740-0-6421"
+msgid "I should give this talisman to Adara'hai so that she can return it to the Moon Bishops."
+msgstr "アダーラハイが月の司祭に返せるよう、彼女にこの護符を渡す"
+
+#: 3952276-0-6420
+msgctxt "3952276-0-6420"
+msgid "<A soft wind blows over Rakkhat's ashes revealing an ancient lunar talisman. This weathered relic likely belonged to Kulan-dro before his fall into madness.>"
+msgstr "<弱い風が吹き、ラカートの遺灰から古代の月の護符が現れる。この古びた遺物はクラン・ドロが狂気に陥る前に持っていたものだろう>"
+
+#: 20958740-0-6420
+msgctxt "20958740-0-6420"
+msgid "I should give this talisman to Adara'hai so that she can return it to the Moon Bishops."
+msgstr "アダーラハイが月の司祭に返せるよう、彼女にこの護符を渡す"
+
+#: 3952276-0-6419
+msgctxt "3952276-0-6419"
+msgid "There is a sickness here. Namiira's dark litter, the dro-m'Athra, have taken the temple. These are the only survivors. Most are half-mad. It's the Zha'ja Lorkhaj—the Bent Dance. The rhythm beats the mind like a kettle drum. Difficult to watch, yes?"
+msgstr "ここには病がある。ナミイラの暗き子、ドロ・マスラが聖堂を制圧したわ。生存者はこれだけ。ほとんどの者が半分おかしくなっている。ザジャ・ローカジュ。ベントの踊りよ。そのリズムはケトル・ドラムのように心を叩く。見てられないわよね？"
+
+#: 20958740-0-6419
+msgctxt "20958740-0-6419"
+msgid "What can I do?"
+msgstr "何かできることはあるか？"
+
+#: 249936564-0-6419
+msgctxt "249936564-0-6419"
+msgid "What's going on here?"
+msgstr "何をしている？"
+
+#: 3952276-0-6404
+msgctxt "3952276-0-6404"
+msgid "Absolutely nothing. And everything."
+"\n"
+"\nHow would you like to help a humble Moth Priest and the Empress Regent herself with an urgent, even critical task?"
+msgstr "他愛もないことよ。でも重要なの\\r"
+"\n\\r"
+"\n倹しい聖蚕の僧侶と摂政女帝のために、急を要する重要な任務に手を貸してくれない？"
+
+#: 20958740-0-6404
+msgctxt "20958740-0-6404"
+msgid "What task is this?"
+msgstr "何の任務だ？"
+
+#: 249936564-0-6404
+msgctxt "249936564-0-6404"
+msgid "What are you talking about?"
+msgstr "何を話している？"
+
+#: 3952276-0-6402
+msgctxt "3952276-0-6402"
+msgid "The Vosh Rakh … they attacked our stronghold … crying for our blood in the name of Trinimac."
+"\n"
+"\nThey came for the sacred words … the hidden sanctuary … but they made a mistake. They misinterpreted the blood rite that opens … the way."
+msgstr "ヴォシュ・ラクが… 要塞を攻撃して… トリニマクの名の下に私達の血を流したの\\r"
+"\n\\r"
+"\n聖言を探しに来ていた… 秘密の聖域を… でも彼らは過ちを犯したわ。道を開く血の儀式を… 誤って解釈した"
+
+#: 20958740-0-6402
+msgctxt "20958740-0-6402"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-6402
+msgctxt "249936564-0-6402"
+msgid "What's going on here?"
+msgstr "何をしている？"
+
+#: 3952276-0-6400
+msgctxt "3952276-0-6400"
+msgid "<This is a piece of the Serpent's Apex Stone.>"
+msgstr "<これは大蛇の冠石の欠片のようだ>"
+
+#: 20958740-0-6400
+msgctxt "20958740-0-6400"
+msgid "I will take this as proof of the Serpent's defeat."
+msgstr "大蛇を倒した証として持っていこう"
+
+#: 205344756-0-6400
+msgctxt "205344756-0-6400"
+msgid "In the wake of the Serpent's defeat, I found a shattered piece of the Apex Stone."
+msgstr "大蛇を倒した直後に砕け散った冠石の欠片を見つけた"
+
+#: 3952276-0-6394
+msgctxt "3952276-0-6394"
+msgid "Murder and mayhem, that's what happened here. "
+"\n"
+"\nIt was the Magnar Pack. They attacked us, decimated the Silver Dawn. I think I'm the last of the order left alive. The pack needs to pay for this outrage. I want them all dead!"
+msgstr "ここで惨殺と大混乱が起きたの\\r"
+"\n\\r"
+"\nマグナーの群れよ。連中に襲われて、シルバードーンが大きな被害を受けた。組織で生き残ったのは私だけだと思う。連中には償いをしてもらうわ。皆殺しにしてやる！"
+
+#: 20958740-0-6394
+msgctxt "20958740-0-6394"
+msgid "Silver Dawn? Magnar Pack? I'm not familiar with these terms."
+msgstr "銀なる暁？ マグナーの群れ？ よく分からない"
+
+#: 249936564-0-6394
+msgctxt "249936564-0-6394"
+msgid "What happened to you?"
+msgstr "どうした？"
+
+#: 3952276-0-6391
+msgctxt "3952276-0-6391"
+msgid """Mairrna,"
+"\n"
+"\n""Warlord Uchuiran wouldn't explain anything to me, but I think I figured out the cause of the disappearances. I witnessed the warlord's lover, the hagraven Kraala, use a stuffed bird totem to transform one of our prisoners into a bird."""
+msgstr "「マイルナ、\\r"
+"\n\\r"
+"\nウチュイラン戦士長は何も説明してくれないが、失踪の原因を突き止めたと思う。戦士長の愛人、ハグレイヴンのクラーラが鳥の剥製のトーテムを使って、囚人を鳥に変身させていた。」"
+
+#: 20958740-0-6391
+msgctxt "20958740-0-6391"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 249936564-0-6391
+msgctxt "249936564-0-6391"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 3952276-0-6389
+msgctxt "3952276-0-6389"
+msgid "<Amongst the ashes of the Celestial Warrior sits a battered and broken shield, likely taken as a trophy from one of the slain Undaunted.>"
+msgstr "<戦士のセレスティアルの灰の中に、ボロボロで壊れてしまった盾がある。倒されたアンドーンテッドから戦利品として奪い取ったのであろう>"
+
+#: 20958740-0-6389
+msgctxt "20958740-0-6389"
+msgid "I will take this trophy to the Undaunted as proof of the Celestial Warrior's defeat."
+msgstr "セレスティアルの戦士を倒した証として、この戦利品をアンドーンテッドのところへ持って行こう"
+
+#: 205344756-0-6389
+msgctxt "205344756-0-6389"
+msgid "I took a battered piece of Undaunted equipment from the Celestial Warrior's remains. I can use this as evidence of the Celestial's defeat."
+msgstr "セレスティアルの戦士の骸から、アンドーンテッドが使っていたボロボロになった鎧を手に取った。セレスティアルを倒したことを証明するために使えると思う"
+
+#: 3952276-0-6388
+msgctxt "3952276-0-6388"
+msgid "<On the remains of the Celestial Mage, a single gem fall loose. This can serve as proof to the Undaunted of your conquest.>"
+msgstr "<セレスティアルの魔術師の亡骸に一つの宝石が落ちている。これをアンドーンテッドに見せることで、塔を征したことを証明できる>"
+
+#: 20958740-0-6388
+msgctxt "20958740-0-6388"
+msgid "I will take this gem to the Undaunted as proof of the Celestial Mage's defeat."
+msgstr "セレスティアルの魔術師を倒した証として、この宝石をアンドーンテッドへ持っていく"
+
+#: 205344756-0-6388
+msgctxt "205344756-0-6388"
+msgid "I took a gemstone from the staff of the defeated Celestial Mage."
+msgstr "倒したセレスティアルの魔術師の杖から宝石を取り出した"
+
+#: 3952276-0-6384
+msgctxt "3952276-0-6384"
+msgid "It all started after we hired that High Elf to help us improve our efficiency. Everything was fine until we broke through into a cavity beneath the quarry."
+"\n"
+"\nThe Elf took a few workers in to look around, and that's when the troll dung hit the horker."
+msgstr "すべては、作業効率の向上のためにあのハイエルフを雇った後で始まった。採石場の下の空洞に穴を開けるまでは、何事もなかった\\r"
+"\n\\r"
+"\nエルフが労働者を数名連れて様子を見に入って、それから変なことが起こり始めた"
+
+#: 20958740-0-6384
+msgctxt "20958740-0-6384"
+msgid "What happened then?"
+msgstr "その時何が起きた？"
+
+#: 205344756-0-6384
+msgctxt "205344756-0-6384"
+msgid "While exploring Graystone Quarry I met an injured worker. He says that strange things began to occur after the Orcs hired a High Elf to help improve efficiency. It all started after they opened a hole into an ancient section of the quarry."
+msgstr "グレイストーン採石場の探査中に、負傷した労働者に出会った。オークが作業効率向上のためにハイエルフを雇った後、おかしな事が起こり始めたという。採石場内の古代の地層に穴を開けた後で始まったらしい"
+
+#: 249936564-0-6384
+msgctxt "249936564-0-6384"
+msgid "Why isn't the quarry safe?"
+msgstr "採石場が危険な理由というのは？"
+
+#: 3952276-0-6382
+msgctxt "3952276-0-6382"
+msgid "Someone—or something—changed these Orcs. Did you notice the precise scarring and fracturing? They were brutally and methodically tortured, pulled apart, and remade to become what they are now."
+msgstr "誰か、または何かが、オークを変えたんだ。精密な傷と裂け目に気付いたか？ あれは容赦なく整然とした拷問を受け、解体され、今のような姿で作り直されたんだ"
+
+#: 20958740-0-6382
+msgctxt "20958740-0-6382"
+msgid "Why?"
+msgstr "なぜ？"
+
+#: 249936564-0-6382
+msgctxt "249936564-0-6382"
+msgid "I'm listening."
+msgstr "続けてくれ"
+
+#: 3952276-0-6379
+msgctxt "3952276-0-6379"
+msgid "No, of course not. That would have been too easy."
+"\n"
+"\nThis is what I get for hiring a tuskless runt! He said he could ""improve efficiency"" in Graystone Quarry. What did we get for our trouble? First the fog. Then the screams. Then … nothing."
+msgstr "そうよね。そう簡単にはいかないか\\r"
+"\n\\r"
+"\n牙のない奴を雇うとこれよ！ グレイストーン採石場の「作業効率を向上できる」って言ってたの。そしたら何が起きた？ 最初に霧、次に叫び声、そして… すべてがなくなった"
+
+#: 20958740-0-6379
+msgctxt "20958740-0-6379"
+msgid "You haven't heard anything from the quarry?"
+msgstr "採石場から何も連絡はないのか？"
+
+#: 205344756-0-6379
+msgctxt "205344756-0-6379"
+msgid "Forge-Wife Kharza is worried about Graystone Quarry. After she hired an Elf to help improve efficiency, strange things began to occur. Fog rolled out of the quarry and screams were heard. Then … nothing."
+msgstr "鍛冶夫人カーザは、グレイストーン採石場について心配している。作業効率向上のためにエルフを雇って以来、おかしな事が起き始めた。採石場から霧が発生し、叫び声が上がった。その後… すべてが途絶えた"
+
+#: 249936564-0-6379
+msgctxt "249936564-0-6379"
+msgid "I haven't seen anyone like that recently."
+msgstr "そういう人物は見掛けてない"
+
+#: 3952276-0-6377
+msgctxt "3952276-0-6377"
+msgid "What I always do! I'm exploring! I'm kind of an expert dungeon-delver. Sort of."
+"\n"
+"\nMy brother and I answered the king's summons and here we are, cataloging another Dwarven ruin. Hey, where is my brother? Is he still afraid of the mechanical spiders?"
+msgstr "いつものこと！ 探検しているのよ！ 私はダンジョン探検の専門家だから。ある意味でね\\r"
+"\n\\r"
+"\n兄弟と一緒に王の召喚を受けて、またドワーフの遺跡を調べにここへ来たわけ。ねえ、兄弟はどこ？ まだ機械仕掛けの蜘蛛を怖がってるの？"
+
+#: 20958740-0-6377
+msgctxt "20958740-0-6377"
+msgid "Are you looking for anything in particular?"
+msgstr "何か特に探しているものがあるのか？"
+
+#: 205344756-0-6377
+msgctxt "205344756-0-6377"
+msgid "I encountered Kireth Vanos in the Dwarven ruin known as Zthenganaz. She and her brother Raynor were surveying the exterior when she lost her footing and fell into the ruins."
+msgstr "ツェンガナズとして知られるドワーフの遺跡で、キレス・ヴァノスに出会った。兄弟のレイノーと一緒に外側を調査していたところ、足を滑らせて、遺跡の中に落ちてしまったという"
+
+#: 249936564-0-6377
+msgctxt "249936564-0-6377"
+msgid "What are you doing down here?"
+msgstr "こんなところで何をしている？"
+
+#: 3952276-0-6374
+msgctxt "3952276-0-6374"
+msgid "Every ten years some idiot Orcs try to crack this place. They show up with a flawed plan to find riches and power. They're never heard from again."
+"\n"
+"\n<<1>> had a plan. He said we'd find riches and power. Should've known he just needed some idiot Orcs."
+msgstr "十年ごとに、どこかの愚かなオークがこの場所に入り込もうとする。欠陥だらけの計画を立て、富と権力を見つけるためにやってくる。そして消息を絶つ\\r"
+"\n\\r"
+"\n<<1>>には計画があった。富と権力を手に入れると言ってたわ。愚かなオークに任せておけば良かったのに"
+
+#: 20958740-0-6374
+msgctxt "20958740-0-6374"
+msgid "What kind of riches and power?"
+msgstr "どういう類いの富と権力だ？"
+
+#: 249936564-0-6374
+msgctxt "249936564-0-6374"
+msgid "What are you talking about?"
+msgstr "何を話している？"
+
+#: 3952276-0-6373
+msgctxt "3952276-0-6373"
+msgid "Ah, an inquisitive sort! I like it!"
+"\n"
+"\nI'm searching for a Nord beast-master named Nikolvara. My contacts tell me she possesses an enchanted whistle that can tame any creature in Tamriel. Marvelous, yes? Apparently she lives in a durzog lair nearby."
+msgstr "お、好奇心の強いタイプか！ いいぞ！\\r"
+"\n\\r"
+"\nノルドのニコルヴァラという獣使いを探しているんだ。情報筋によると、タムリエルのどんな生き物でも飼い慣らしてしまえる、魔法の笛を所有しているそうだ。すごいだろ？ 近くにあるヅラゾグの巣に住んでいるらしい"
+
+#: 20958740-0-6373
+msgctxt "20958740-0-6373"
+msgid "Why do you need an enchanted whistle?"
+msgstr "どうして魔法の笛が必要なんだ？"
+
+#: 249936564-0-6373
+msgctxt "249936564-0-6373"
+msgid "What's so important about this cave?"
+msgstr "その洞窟は何か重要なのか？"
+
+#: 3952276-0-6370
+msgctxt "3952276-0-6370"
+msgid """I, your new king, must inform you the situation has changed. The Orcs are our staunch allies whom I have allowed to rebuild Orsinium."
+"\n"
+"\n""Your long vigil is over. It's time to come home. Cease your banditry and murder of Orc travelers."""
+msgstr "「私は新しい王として、状況が変わったことを知らせなくてはならない。オークは信頼すべき味方になり、私はオルシニウムの再建を許可した」\\r"
+"\n\\r"
+"\n「君たちの長く辛い見張りは終わり、帰還すべき時だ。オークの旅人への強盗や殺人を止めるように」"
+
+#: 20958740-0-6370
+msgctxt "20958740-0-6370"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 249936564-0-6370
+msgctxt "249936564-0-6370"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 3952276-0-6369
+msgctxt "3952276-0-6369"
+msgid "Thank goodness you came by! My sister Kireth and I were surveying the area, trying to get the measure of this Dwarven ruin."
+"\n"
+"\nI turned my back for a single moment and Kireth fell into that hole. Or jumped in, for all I know. It happened so fast."
+msgstr "ちょうど良かった！ 姉妹のキレスと一緒に周辺を調査して、このドワーフの遺跡の全体図をつかもうとしてたんだ\\r"
+"\n\\r"
+"\nほんの一瞬目を離した隙に、キレスがあの穴に落ちてしまった。飛び込んだのかも知れない。あっという間だった"
+
+#: 20958740-0-6369
+msgctxt "20958740-0-6369"
+msgid "Sounds like a hazardous business."
+msgstr "危険な仕事のようだな"
+
+#: 205344756-0-6369
+msgctxt "205344756-0-6369"
+msgid "I encountered the Dark Elf, Raynor Vanos, near the entrance to a small cave. He and his sister Kireth were surveying the exterior of the Dwarven ruin Zthenganaz when Kireth slipped and fell into the cave."
+msgstr "小さな洞窟の入口近くで、ダークエルフのレイノー・ヴァノスに出会った。姉妹のキレスと一緒に、ドワーフの遺跡ツェンガナズの外側を調査していたところ、キレスが足を滑らせて洞窟の中に落ちてしまった"
+
+#: 249936564-0-6369
+msgctxt "249936564-0-6369"
+msgid "Do you need help with something?"
+msgstr "何か助けることはあるか？"
+
+#: 3952276-0-6368
+msgctxt "3952276-0-6368"
+msgid "Alchemists are masters of the elixir. They trap magic in a bottle for later use."
+"\n"
+"\nBut I can only certify you in one discipline at a time. If this is agreeable, we can begin your training."
+msgstr "錬金術師とは、霊薬を極めた者のことだ。魔法を瓶の中に閉じ込めて、いつでも使用できるようにする\\r"
+"\n\\r"
+"\nだが、私は一度に一つしか認定できない。それでも構わないのであれば、訓練を始められる"
+
+#: 20958740-0-6368
+msgctxt "20958740-0-6368"
+msgid "I want to be certified as an alchemist."
+msgstr "錬金術師として認定されたい"
+
+#: 249936564-0-6368
+msgctxt "249936564-0-6368"
+msgid "Tell me more about alchemy certification."
+msgstr "錬金術の認定についてもっと教えてくれ"
+
+#: 3952276-0-6367
+msgctxt "3952276-0-6367"
+msgid "Enchanters harness the possibility of runes, transforming them into the certainty of glyphs."
+"\n"
+"\nI'll teach you, but I can only focus on one certification at a time. Is this agreeable?"
+msgstr "付呪師はルーンの可能性を制御し、ルーンを確実性の高いグリフに変化させる\\r"
+"\n\\r"
+"\n教えてやってもいいが、一度に行えるのは一つの認定だけだ。それで構わないか？"
+
+#: 20958740-0-6367
+msgctxt "20958740-0-6367"
+msgid "I want to be certifed as an enchanter."
+msgstr "付呪師の認定を受けたい"
+
+#: 249936564-0-6367
+msgctxt "249936564-0-6367"
+msgid "I'm interested in enchanting certification."
+msgstr "付呪の認定に興味がある"
+
+#: 3952276-0-6366
+msgctxt "3952276-0-6366"
+msgid "<This musty tome details the exploits of Ranev the Coal-Eyed Wanderer, a Nedic hero who completed a pilgrimage called the ""Gray Passage."" Apparently, those who perform the pilgrimage earn the favor of the Stars—if they complete it quickly enough.>"
+msgstr "<この古びた本には炭目の放浪者ラネヴという古代のネードの勇者が辿った「灰色の道」という巡礼の旅を詳しく記している。時間内にその巡礼の旅を終えることができた場合、星々の恩恵が与えられるという>"
+
+#: 20958740-0-6366
+msgctxt "20958740-0-6366"
+msgid "<Continue studying the old book.>"
+msgstr "<古い本を読み続ける>"
+
+#: 249936564-0-6366
+msgctxt "249936564-0-6366"
+msgid "<Examine the old book.>"
+msgstr "<古い本を調べる>"
+
+#: 3952276-0-6347
+msgctxt "3952276-0-6347"
+msgid "Oh, hah! Sorry, the rank and file aren't passing on the word very well. Our ranks have swelled in recent months, and our coffers are overflowing with jewels and gold. We want to see the spoils go to the best among us."
+msgstr "あら！ ごめんなさい。一般兵にはうまく伝わっていなかったわね。私達の仲間はここ数ヶ月で膨れ上がり、宝箱は宝石と金塊で一杯なの。私達は、戦利品を私達の中で一番の者に渡したい"
+
+#: 20958740-0-6347
+msgctxt "20958740-0-6347"
+msgid "How do you decide who's the best among you?"
+msgstr "誰が一番かをどうやって決める？"
+
+#: 249936564-0-6347
+msgctxt "249936564-0-6347"
+msgid "What's the pledge?"
+msgstr "誓いとは何だ？"
+
+#: 3952276-0-6344
+msgctxt "3952276-0-6344"
+msgid "If you convince me you know how to use a needle and thread, I'll certify you."
+"\n"
+"\nHowever, you must commit. I can't certify two things at once."
+msgstr "あなたが針と糸の使い方を知っているって納得させてくれたら、認定してあげる\\r"
+"\n\\r"
+"\nでも、集中してやってね。二つのクラフトをまとめて認定することはできないから"
+
+#: 20958740-0-6344
+msgctxt "20958740-0-6344"
+msgid "I want to be certified as a clothier."
+msgstr "仕立屋として認定されたい"
+
+#: 249936564-0-6344
+msgctxt "249936564-0-6344"
+msgid "I'd like to know more about clothier certification."
+msgstr "仕立屋の認定についてもっと知りたい"
+
+#: 3952276-0-6343
+msgctxt "3952276-0-6343"
+msgid "The Vaults of Madness. Misshapen as its creator's mind. Filled with the horrors of Oblivion. Only eternal torment awaits any who would enter. Does that entice you?"
+msgstr "狂気の地下室だ。作った奴の頭のようにおかしな場所だよ。オブリビオンの恐怖に満ちていて、入る者には永久の苦痛のみが待ち受ける。入る気になったか？"
+
+#: 20958740-0-6343
+msgctxt "20958740-0-6343"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6343
+msgctxt "249936564-0-6343"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6341
+msgctxt "3952276-0-6341"
+msgid "Selene's Web. No place for the civilized. Or even my brutish peers. The beasts and their Bosmer keepers are formidable and deadly. Will you be the one to tame this wild place?"
+msgstr "セレーンの巣だ。文明の手が入っていない場所だよ。俺の獰猛な仲間でさえ、まだ足を踏み入れていない。獣とボズマーの番人は恐ろしく危険だ。荒野を征服する気はあるか？"
+
+#: 20958740-0-6341
+msgctxt "20958740-0-6341"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6341
+msgctxt "249936564-0-6341"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6340
+msgctxt "3952276-0-6340"
+msgid "The Blessed Crucible. A contest of blood and fire. Warriors across Tamriel vie for the Brimstone Crown. Represent us in this competition and prove the Undaunted are aptly named."
+msgstr "聖なるるつぼだ。血と炎の戦いだよ。タムリエル中の戦士が硫黄の王冠を求める。我々を代表して、アンドーンテッドがその名に相応しいことを証明しろ"
+
+#: 20958740-0-6340
+msgctxt "20958740-0-6340"
+msgid "And if I seek greater glory?"
+msgstr "より栄光を求めた場合は？"
+
+#: 249936564-0-6340
+msgctxt "249936564-0-6340"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6339
+msgctxt "3952276-0-6339"
+msgid "Blackheart Haven. A paradise spoiled by pirates. "
+"\n"
+"\nCut through the jungle and ruthless plunderers. Stop their tireless pillaging and shepherd their treasures into more deserving hands."
+msgstr "ブラックハート・ヘヴンだ。海賊によって踏みにじられた楽園だよ\\r"
+"\n\\r"
+"\nジャングルと無慈悲な略奪者を切り裂いて行け。終わりなき略奪を止め、宝を相応しい者の手に取り戻すんだ"
+
+#: 20958740-0-6339
+msgctxt "20958740-0-6339"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6339
+msgctxt "249936564-0-6339"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6338
+msgctxt "3952276-0-6338"
+msgid "A provisioner condenses the essence of ingredients into food or drink. A true artist balances palate with nutrition."
+"\n "
+"\nI can share this noble profession, but I can only certify one craft at a time. Understood?"
+msgstr "調理師は材料を食べ物や飲み物に凝縮させる。真の達人は味と栄養のバランスも保つ\\r"
+"\n\\r"
+"\nこの素晴らしい職業を授けることができる。だが一度に認定できる職は一つだけだ。分かったか？"
+
+#: 20958740-0-6338
+msgctxt "20958740-0-6338"
+msgid "I want to be certifed as a provisioner."
+msgstr "調理師として認定されたい"
+
+#: 249936564-0-6338
+msgctxt "249936564-0-6338"
+msgid "What can you tell me about provisioning certification?"
+msgstr "調理師の証明書について教えてくれないか？"
+
+#: 3952276-0-6336
+msgctxt "3952276-0-6336"
+msgid "Volenfell. A newly-discovered Dwemer ruin. Bold treasure hunters vie to be the first to explore its halls. Would you be outdone by them?"
+msgstr "ヴォレンフェルだ。新たに発見されたドゥエマーの遺跡だな。大胆なトレジャーハンターがこぞって探索しようとしている。連中を出し抜けるか？"
+
+#: 20958740-0-6336
+msgctxt "20958740-0-6336"
+msgid "And if I seek a greater challenge?"
+msgstr "さらに大きな挑戦を求めた場合は？"
+
+#: 249936564-0-6336
+msgctxt "249936564-0-6336"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6335
+msgctxt "3952276-0-6335"
+msgid "A good woodworker sees the final product before cutting the first block of wood."
+"\n"
+"\nBut I can't teach two crafts once. If you commit yourself to the training, I'll certify you."
+msgstr "優れた木工師は木の最初の一片を切り出す前に、すでに完成した品物が見えているものよ\\r"
+"\n\\r"
+"\nでも、二種類のクラフトを同時に教えることはできない。あなたが集中して訓練に参加してくれるのなら、私が認定しましょう"
+
+#: 20958740-0-6335
+msgctxt "20958740-0-6335"
+msgid "I want to be certified as a woodworker."
+msgstr "木工師として認定されたい"
+
+#: 249936564-0-6335
+msgctxt "249936564-0-6335"
+msgid "I'm interested in woodworking certification."
+msgstr "木工の認定に興味がある"
+
+#: 3952276-0-6334
+msgctxt "3952276-0-6334"
+msgid "Tempest Island. The Maormer are attacking off the coast of Malabal Tor. They wield the storm and the sea. You wield Undaunted determination. Which will be the victor?"
+msgstr "テンペスト島だ。マオマーがマラバル・トールの沿岸を攻撃している。連中の武器は嵐と海だ。お前にはアンドーンテッドとしての決意がある。さて、どちらが勝つだろうな？"
+
+#: 20958740-0-6334
+msgctxt "20958740-0-6334"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6334
+msgctxt "249936564-0-6334"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6324
+msgctxt "3952276-0-6324"
+msgid "Direfrost Keep. The cycle of vengeance between witch and witch hunter plays out once again. This time on a stage of ice. Will you stand frozen as the scene plays out, or seek center stage for yourself?"
+msgstr "ダイアフロスト砦だ。魔女と魔女狩人の間での復讐の連鎖。今回の舞台は氷だ。幕間に凍りつくか、主役を奪えるか。どちらだろうな？"
+
+#: 20958740-0-6324
+msgctxt "20958740-0-6324"
+msgid "And if I want all the fame?"
+msgstr "さらに名声を求める場合は？"
+
+#: 249936564-0-6324
+msgctxt "249936564-0-6324"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6323
+msgctxt "3952276-0-6323"
+msgid "City of Ash. When forests burn, they might yet be given new life. So too may it be for Whisper Grove, but not while the throngs of Mehrunes Dagon continue to spill forth from Oblivion."
+"\n"
+"\nFace the Daedric horde. Scatter it, and return to me Undaunted."
+msgstr "灰の街だ。森が燃える時は新たな命が生まれるものだ。その点は囁きの森も変わらない。メエルーンズ・デイゴンの軍勢がオブリビオンから溢れだしていなければな\\r"
+"\n\\r"
+"\nデイドラの群れと対決しろ。追い散らして、アンドーンテッドとして戻って来い"
+
+#: 20958740-0-6323
+msgctxt "20958740-0-6323"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6323
+msgctxt "249936564-0-6323"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6322
+msgctxt "3952276-0-6322"
+msgid "Arx Corinium. A relic of the fallen Empire. Drowned and consumed by swamps and serpents, as you will be should you travel there. Or will you, Undaunted?"
+msgstr "アークス・コリニウムだ。崩壊した帝国の遺物だな。沼と大蛇に飲み込まれている。そこへ行くなら、お前も同じ運命だ。それでも行くか？ アンドーンテッドよ"
+
+#: 20958740-0-6322
+msgctxt "20958740-0-6322"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6322
+msgctxt "249936564-0-6322"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6318
+msgctxt "3952276-0-6318"
+msgid "Crypt of Hearts. The dark spirit of Nerien'eth has returned to the ruins. He leads an army of Daedric monsters. Cleansing the Crypt of Oblivion-spawn will be … challenging."
+msgstr "ハーツ墓地だ。ネリエンエスの闇の霊魂が遺跡へ帰還した。奴はデイドラの怪物たちを率いている。オブリビオンの墓地の浄化は… なかなかやりがいがあるぞ"
+
+#: 20958740-0-6318
+msgctxt "20958740-0-6318"
+msgid "Any way I can earn something extra?"
+msgstr "もっと多く報酬をもらう方法はあるか？"
+
+#: 249936564-0-6318
+msgctxt "249936564-0-6318"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6317
+msgctxt "3952276-0-6317"
+msgid "The Crypt of Hearts. A place of love and hope twisted by jealousy and hatred into a perverse dungeon of eternal torment. The dead cry out for rest. Deliver it to them."
+msgstr "ハーツ墓地だ。愛と希望の場が嫉妬と憎悪で歪められ、永遠の苦しみを与えるねじれたダンジョンとなった。死者は安息を求めて叫んでいる。安らぎを与えてやれ"
+
+#: 20958740-0-6317
+msgctxt "20958740-0-6317"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6317
+msgctxt "249936564-0-6317"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6316
+msgctxt "3952276-0-6316"
+msgid "Wayrest Sewers. As if the place didn't reek to High Hrothgar under normal circumstances, now it's teeming with foul undeath!"
+"\n"
+"\nFlush out the soggy remnants of the Pellingare's failed rebellion and let us all breath a little easier."
+msgstr "ウェイレスト下水道よ。普通の状態でもこの場所は悪臭がするけど、今や不潔なアンデッドで溢れてるの！\\r"
+"\n\\r"
+"\nペリンゲールの失敗した革命の名残を掃除して、皆を安心させてあげて"
+
+#: 20958740-0-6316
+msgctxt "20958740-0-6316"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6316
+msgctxt "249936564-0-6316"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6312
+msgctxt "3952276-0-6312"
+msgid "Wayrest Sewers! Some damned fool nobles want to take over the city. They've raised an army of bandits to get the job done!"
+msgstr "ウェイレスト下水道よ！ 愚かな貴族達数人が、街を支配しようとしている。そのために、山賊の軍を立ち上げたの！"
+
+#: 20958740-0-6312
+msgctxt "20958740-0-6312"
+msgid "Anything else?"
+msgstr "他には？"
+
+#: 249936564-0-6312
+msgctxt "249936564-0-6312"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6311
+msgctxt "3952276-0-6311"
+msgid "Elden Hollow! Daedra are springing up like weeds in the shadows of the Elden Tree. Must be something in the soil."
+"\n"
+"\nPick up a scythe and get hacking!"
+msgstr "エルデン洞穴！ エルデンの木の影に茂る雑草みたいにデイドラがうようよしているの\\r"
+"\n\\r"
+"\nきれいに刈り取ってあげて！"
+
+#: 20958740-0-6311
+msgctxt "20958740-0-6311"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6311
+msgctxt "249936564-0-6311"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6310
+msgctxt "3952276-0-6310"
+msgid "Elden Hollow! There's a great big hole under the Elden Tree, a whole complex of caves and tombs. Some Daedra-summoning thick-heads have gotten in there. Need to be rooted out."
+msgstr "エルデン洞穴！ エルデンの木の下には巨大な空洞があるの。施設全体に洞窟と墓がある。デイドラが召喚した、愚鈍な奴らが何匹かそこに居座ってる。根絶しなくては"
+
+#: 20958740-0-6310
+msgctxt "20958740-0-6310"
+msgid "Rooted out. Right. Anything else?"
+msgstr "根絶する。了解。他には？"
+
+#: 249936564-0-6310
+msgctxt "249936564-0-6310"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6309
+msgctxt "3952276-0-6309"
+msgid "Well, after you defeated the Razor Master during your last visit, my wife Gilraen leapt into the Oblivion Gate he left behind. It closed behind her—she saved the forest."
+"\n"
+"\nBut I couldn't let her go. I opened the portal—tried to find her."
+msgstr "前回、あなたがレイザーマスターを倒した後、奴が残していったオブリビオンの門に、妻のギルラエンが飛び込んだんだ。妻の後ろで門は閉まって… 森は救われた\\r"
+"\n\\r"
+"\nしかし妻を諦めることはできなかった。それでポータルを開いた… 妻を探すためにな"
+
+#: 20958740-0-6309
+msgctxt "20958740-0-6309"
+msgid "Then there are Daedra loose in this forest, again?"
+msgstr "ということはまた森にデイドラ達がはびこっている？"
+
+#: 249936564-0-6309
+msgctxt "249936564-0-6309"
+msgid "Tell me what happened."
+msgstr "何があったのか教えてくれ"
+
+#: 3952276-0-6308
+msgctxt "3952276-0-6308"
+msgid "Darkshade Caverns! The Kwama burrowed into some Dwarven ruins at the heart of the place and activated something that's driving everyone mad."
+"\n"
+"\nMan, machine, and beast tearing themselves apart! A true test for you, Undaunted."
+msgstr "ダークシェイド洞窟よ！ クワマーがこの地の中心にあるドワーフ遺跡に入り込んで、人をおかしくする何かを発動したようね\\r"
+"\n\\r"
+"\n人も機械も動物も、互いに引き裂き合っている！ アンドーンテッドとして、あなたには真の試練が待ってる"
+
+#: 20958740-0-6308
+msgctxt "20958740-0-6308"
+msgid "And if I can handle more than that?"
+msgstr "それだけでは満足できない場合は？"
+
+#: 249936564-0-6308
+msgctxt "249936564-0-6308"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6307
+msgctxt "3952276-0-6307"
+msgid "Darkshade Caverns! Pretty straightforward sweep and clear, really. Local thugs have claimed a kwama mine. Go knock their heads in and move on."
+msgstr "ダークシェイド洞窟！ とても簡単な掃討作戦よ。現地の悪党達がクワマー鉱山を自分達のものにした。倒して、先に進んで"
+
+#: 20958740-0-6307
+msgctxt "20958740-0-6307"
+msgid "Doesn't sound very challenging."
+msgstr "あまり積極的に聞こえない"
+
+#: 249936564-0-6307
+msgctxt "249936564-0-6307"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6306
+msgctxt "3952276-0-6306"
+msgid "Spindleclutch! Only this time it's crawling with vampires instead of spiders. They both want nothing but to sink their fangs in you, so what's the difference, really?"
+msgstr "スピンドルクラッチよ！ 今だけは、クモじゃなくて吸血鬼がいるけどね。どっちもあなたに牙を突き立てたがってるし、大して違いはないわよね？"
+
+#: 20958740-0-6306
+msgctxt "20958740-0-6306"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6306
+msgctxt "249936564-0-6306"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6293
+msgctxt "3952276-0-6293"
+msgid "Spindleclutch, dark home of the Whisperer! Hope you're not afraid of spiders. The marsh fens of northern Glenumbra are the perfect breeding ground for twitchy multi-legged horrors."
+msgstr "スピンドルクラッチよ。ウィスパラーの暗黒の生息地！ 蜘蛛が嫌いじゃないといいけど。北グレナンブラの沼の湿原は、足が多く恐ろしい生物達にとって、理想的な繁殖場よ"
+
+#: 20958740-0-6293
+msgctxt "20958740-0-6293"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6293
+msgctxt "249936564-0-6293"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6292
+msgctxt "3952276-0-6292"
+msgid "The great warrior paces about outside the observatory in Belkarth. Like a caged tiger, he is!"
+"\n"
+"\nHe urged me to find you and ask you to hurry. I fear something dreadful is about to take place."
+msgstr "偉大な戦士はベルカースの展望台の外を歩き回っています。まるで檻に捕らわれた虎のように！\\r"
+"\n\\r"
+"\nあなたを見つけて、早く来てくれと伝えるように頼まれました。何やら恐ろしいことが起こる予感がします"
+
+#: 20958740-0-6292
+msgctxt "20958740-0-6292"
+msgid "I'll find Titus in Belkarth."
+msgstr "ベルカースにいるティトゥスを見つけよう"
+
+#: 205344756-0-6292
+msgctxt "205344756-0-6292"
+msgid "Titus Valerius sent word that I should meet him near the observatory in Belkarth. The messenger had few details, but the situation sounds urgent."
+msgstr "ベルカースの天文台の近くで会いたいと、ティトゥス・ヴァレリウスから伝達があった。使者は詳しく知らないようだったが、どうやら急を要す状況らしい"
+
+#: 249936564-0-6292
+msgctxt "249936564-0-6292"
+msgid "Titus? Where should I meet him?"
+msgstr "ティトゥスから？ どこに行けば会える？"
+
+#: 3952276-0-6291
+msgctxt "3952276-0-6291"
+msgid "My champion, Titus, who I called across the sands of time in my moment of need, is fading. His mortal mind can't deal with the shift in his reality."
+"\n"
+"\nThe longer he remains here, the more likely he will lose all that he is."
+msgstr "私が最も必要とした時、時の流れを飛び越えて呼び寄せた勇者ティトゥス。彼が今、消えようとしている。定命の者としての心が、現実の変化に耐えられないようだ\\r"
+"\n\\r"
+"\nここに長くいればいるほど、自分を見失ってしまうだろう"
+
+#: 20958740-0-6291
+msgctxt "20958740-0-6291"
+msgid "Can't you just send him back to his own time?"
+msgstr "彼の元いた時間へ送り返しては？"
+
+#: 249936564-0-6291
+msgctxt "249936564-0-6291"
+msgid "Of course. What do you need me to do?"
+msgstr "そのとおりだ。どうすれば良い？"
+
+#: 3952276-0-6290
+msgctxt "3952276-0-6290"
+msgid "Crafting writs are daily requests for crafted goods. You must be a certified crafter to fulfill them."
+"\n"
+"\nProve you know what you're doing, and I'll certify you."
+msgstr "クラフト依頼は日々のクラフト品の要請のことだ。認定された職人にしかできない\\r"
+"\n\\r"
+"\n技術を証明できたら認定しよう"
+
+#: 20958740-0-6290
+msgctxt "20958740-0-6290"
+msgid "All right. Tell me what you can certify."
+msgstr "分かった。何の認定をできるのか教えてくれ"
+
+#: 205344756-0-6290
+msgctxt "205344756-0-6290"
+msgid "<<1>> is a master crafter offering free certification and training. Crafting certification will allow me to fulfill crafting writs."
+msgstr "<<1>>は無料で認定と訓練を提供している達人の生産者だ。生産の認定があれば、クラフト依頼を受けられる"
+
+#: 249936564-0-6290
+msgctxt "249936564-0-6290"
+msgid "Crafting writs? What are they?"
+msgstr "クラフト依頼？ それは何だ？"
+
+#: 3952276-0-6289
+msgctxt "3952276-0-6289"
+msgid "They're daily requests for crafted goods, but they're only available to certified crafters."
+"\n"
+"\nIf you can show me you know your craft, I'll get you certified."
+msgstr "毎日、クラフト製品が求められるの。でも、依頼を受けられるのは認定された職人だけよ\\r"
+"\n\\r"
+"\n技術を証明できれば、認定してあげるわ"
+
+#: 20958740-0-6289
+msgctxt "20958740-0-6289"
+msgid "All right. Tell me how this works."
+msgstr "分かった。仕組みを教えてくれ"
+
+#: 205344756-0-6289
+msgctxt "205344756-0-6289"
+msgid "<<1>> is a master crafter offering free certification and training. Crafting certification will allow me to fulfill crafting writs."
+msgstr "<<1>>は無料で認定と訓練を提供している達人の生産者だ。生産の認定があれば、クラフト依頼を受けられる"
+
+#: 249936564-0-6289
+msgctxt "249936564-0-6289"
+msgid "What are crafting writs?"
+msgstr "クラフト依頼とは何だ？"
+
+#: 3952276-0-6288
+msgctxt "3952276-0-6288"
+msgid """Unskilled crafters will be certified after a brief training. Skilled crafters will be certified immediately. The masters shall charge no fee for certification. Certification is mandatory to fulfill Crafting Writs!"""
+msgstr "「初心者は簡単な訓練の後、認定を受けられる！ 熟練者は即座に認定を受けられる！ 認定を受けるために手数料を課すことはない。生産依頼を受けるためには、認定を受けていなければならないぞ！」"
+
+#: 20958740-0-6288
+msgctxt "20958740-0-6288"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 249936564-0-6288
+msgctxt "249936564-0-6288"
+msgid "<Read the fine print.>"
+msgstr "<印刷物を読む>"
+
+#: 3952276-0-6277
+msgctxt "3952276-0-6277"
+msgid "Prove you know your way around a forge and I'll certify you."
+"\n"
+"\nBut you have to commit. I can only train one discipline at a time."
+msgstr "腕前を証明してくれれば、認定してあげるわよ\\r"
+"\n\\r"
+"\nでも、集中してやってね。私が訓練できるのは、一度に一つの分野だけだから"
+
+#: 20958740-0-6277
+msgctxt "20958740-0-6277"
+msgid "I want to be certified as a blacksmith."
+msgstr "鍛冶師として認定されたい"
+
+#: 249936564-0-6277
+msgctxt "249936564-0-6277"
+msgid "Tell me more about blacksmith certification."
+msgstr "鍛冶師の認定についてもっと教えて欲しい"
+
+#: 3952276-0-6276
+msgctxt "3952276-0-6276"
+msgid "Fungal Grotto! A Dark Elf spider cult found some Daedric shrine in its depths and made themselves at home. It'll take fire and steel to clear them out of there now. "
+"\n"
+"\nNot afraid of a few extra legs, are you?"
+msgstr "フンガル洞窟よ！ ダークエルフのクモの教団が、デイドラの社を見つけて本拠地にしたの。掃除するには火と鋼がいるわ\\r"
+"\n\\r"
+"\n脚がちょっと多いくらいで、怖がったりしないでしょうね？"
+
+#: 20958740-0-6276
+msgctxt "20958740-0-6276"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6276
+msgctxt "249936564-0-6276"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6275
+msgctxt "3952276-0-6275"
+msgid "The Fungal Grotto! The western Ashlands hide a mushroom-choked cavern. It seethes with Goblins and dreugh. We need to clear it, or they'll pour into Stonefalls like an emptied chamberpot."
+msgstr "フンガル洞窟よ！ 西のアッシュランドには、キノコで一杯の洞窟が隠れているわ。ゴブリン達とドゥルーでごった返している。洞窟を掃討しないと、おまるが空になるみたいにストンフォールへと雪崩込んでくるわ"
+
+#: 20958740-0-6275
+msgctxt "20958740-0-6275"
+msgid "Is that all?"
+msgstr "それだけか？"
+
+#: 249936564-0-6275
+msgctxt "249936564-0-6275"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6274
+msgctxt "3952276-0-6274"
+msgid "The Banished Cells! High Kinlord Rilis has only grown more cunning and dangerous since the Keepers split his soul."
+"\n"
+"\nIf they can't contain him, someone's got to put him down for good. Someone like you."
+msgstr "追放者の監房よ！ 上級公ライリスは、番人が魂を裂いてからより狡猾で危険になった。\\r"
+"\n\\r"
+"\n番人が封じ込められないのなら、誰かが永久に倒さなければならない。あなたのような人がね"
+
+#: 20958740-0-6274
+msgctxt "20958740-0-6274"
+msgid "And if I can handle more?"
+msgstr "それでは満足できない場合は？"
+
+#: 249936564-0-6274
+msgctxt "249936564-0-6274"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6273
+msgctxt "3952276-0-6273"
+msgid "Regent Cassipia went to Dragonstar to deal with another part of the Serpent's plan she doesn't want to see come to fruition. I know she's a powerful regent and all, but I'm worried about her."
+"\n"
+"\nCan you go to Dragonstar and see if she needs any help?"
+msgstr "摂政カシピアは、実現させちゃいけない大蛇の企みを阻止しようとドラゴンスターへ向かったの。とても強い摂政なのは知ってるわ。だけど心配なの\\r"
+"\n\\r"
+"\nドラゴンスターに行って、手伝えることが何かないか聞いてくれる？"
+
+#: 20958740-0-6273
+msgctxt "20958740-0-6273"
+msgid "I'll go to Dragonstar and look for Regent Cassipia."
+msgstr "ドラゴンスターに行き、摂政カシピアを見つけよう"
+
+#: 249936564-0-6273
+msgctxt "249936564-0-6273"
+msgid "What's the favor?"
+msgstr "お願いとは？"
+
+#: 3952276-0-6272
+msgctxt "3952276-0-6272"
+msgid "The Banished Cells! Beneath Auridon lies a boil of dark magic and family hate. Destroy the Kinlord and his dark fiend, the clannfear Shadowrend."
+msgstr "追放者の監房よ！ オーリドンの下には闇の魔法と一族の憎悪が渦巻いているの。王族と暗黒の悪魔、クランフィアのシャドウレンドを倒してちょうだい"
+
+#: 20958740-0-6272
+msgctxt "20958740-0-6272"
+msgid "Is that all?"
+msgstr "それだけか？"
+
+#: 249936564-0-6272
+msgctxt "249936564-0-6272"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6271
+msgctxt "3952276-0-6271"
+msgid "Many regents serve the Scaled Court. That's why things occur within its coils that aren't under my control."
+"\n"
+"\nFor example, the Iron Orcs are raising an army. I sent my seneschal, Little Leaf, to stop their efforts. Perhaps you could lend her a hand?"
+msgstr "〈スケールドコート〉には何人もの摂政が仕えているわ。だから組織内でも、私の管理の行き届かないところでいろいろと問題が起きてしまう\\r"
+"\n\\r"
+"\n例えば、アイアンオークが軍隊を作っているの。彼らを止めるために今、側近のリトルリーフを送り込んだんだけど、もしよければ彼女を手伝ってくれない？"
+
+#: 20958740-0-6271
+msgctxt "20958740-0-6271"
+msgid "Where can I find Little Leaf?"
+msgstr "リトルリーフはどこに行けば見つかる？"
+
+#: 249936564-0-6271
+msgctxt "249936564-0-6271"
+msgid "What else do you need me to do?"
+msgstr "他に何かして欲しいことは？"
+
+#: 3952276-0-6268
+msgctxt "3952276-0-6268"
+msgid "While exploring this section of the city, we came across strange, runic circles. I realized what they were, but before I could stop them, the fools disrupted the wards."
+"\n"
+"\nDo you understand? They were prisons! And now the creatures have been released!"
+msgstr "この街を探検していたところ、不思議なルーンで描かれたサークルを見つけてな。私はすぐに何をするためのものかに気づいた。だが他の者たちを止める前に、愚か者が結界を破ってしまった\\r"
+"\n\\r"
+"\n分かるか？ あれは牢獄の檻だったんだよ！ そして今、あの中にいた物が自由に動き回っている！"
+
+#: 20958740-0-6268
+msgctxt "20958740-0-6268"
+msgid "And that's bad?"
+msgstr "それは大変なことなのか？"
+
+#: 249936564-0-6268
+msgctxt "249936564-0-6268"
+msgid "What are you talking about?"
+msgstr "何を話している？"
+
+#: 3952276-0-6267
+msgctxt "3952276-0-6267"
+msgid "Divines! If Kelmen and this mage of his are deep in their cups in Dragonstar …."
+"\n"
+"\nWell, it can't be helped and I can't wait any longer. The Thief prepares a ritual to locate the source of the disturbance, but we need another participant."
+msgstr "神よ！ もしケルメンとその魔術師がドラゴンスターで酔いつぶれているというなら…\\r"
+"\n\\r"
+"\n仕方がない。これ以上待つことはできない。この歪みの元がどこから来ているのか特定するために、盗賊が儀式の準備をしている。だが、もう一人参加者が必要なんだ"
+
+#: 20958740-0-6267
+msgctxt "20958740-0-6267"
+msgid "I can help with that."
+msgstr "力を貸そう"
+
+#: 249936564-0-6267
+msgctxt "249936564-0-6267"
+msgid "No. I haven't seen Kelmen since the events in Lower Craglorn."
+msgstr "いや、クラグローン南部での事以来、ケルメンとは会っていない"
+
+#: 3952276-0-6264
+msgctxt "3952276-0-6264"
+msgid "Many legends tell of the ancient city of Skyreach. I remember one about a powerful Elven necromancer, Virmaril. Some believe he caused the fall of the Nedes. Others claim he still haunts the ruins below."
+msgstr "古の都市スカイリーチは、様々な伝説の中で語り継がれている。その中で、ヴィルマリルという強力なエルフの死霊術師の話があってな。ネードの滅びの原因が彼だという説もある。地下の遺跡を今もまださまよい続けているという説もある"
+
+#: 20958740-0-6264
+msgctxt "20958740-0-6264"
+msgid "Could this Virmaril be responsible for waking the dead?"
+msgstr "死霊たちを目覚めさせたのはそのヴィルマリルなのか？"
+
+#: 249936564-0-6264
+msgctxt "249936564-0-6264"
+msgid "Do you know the cause of the disturbance?"
+msgstr "何が原因で起こったのか知っているか？"
+
+#: 3952276-0-6263
+msgctxt "3952276-0-6263"
+msgid "Defend Fort Warden to the last warrior standing! "
+"\n"
+"\nKill 20 attackers and return to this mission board when you've completed this task."
+msgstr "Defend Fort Warden to the last warrior standing! \\r"
+"\n\\r"
+"\nKill 20 attackers and return to this mission board when you've completed this task."
+
+#: 20958740-0-6263
+msgctxt "20958740-0-6263"
+msgid "<Accept Mission>"
+msgstr "<Accept Mission>"
+
+#: 249936564-0-6263
+msgctxt "249936564-0-6263"
+msgid "<Examine Notice>"
+msgstr "<Examine Notice>"
+
+#: 3952276-0-6262
+msgctxt "3952276-0-6262"
+msgid "I was part of a scouting force sent to survey the Scaled Court. To see if there was any kind of trouble we could stir for them in the highlands."
+"\n"
+"\nWe found the Celestial Serpent instead."
+msgstr "私は〈スケールドコート〉を調査するために送られた偵察隊の一員だったわ。高地で何か問題を起こして、連中の注意をそらせないかどうか探るためにね\\r"
+"\n\\r"
+"\nけれど代わりに、セレスティアルの大蛇を見つけてしまった"
+
+#: 20958740-0-6262
+msgctxt "20958740-0-6262"
+msgid "What happened?"
+msgstr "何があった？"
+
+#: 205344756-0-6262
+msgctxt "205344756-0-6262"
+msgid "Atildel told me of the dangers of the Serpent. How her scouting force met the Scaled Court and was destroyed."
+msgstr "アチルデルから大蛇の危険について話を聞いた。彼女の偵察隊がスケールドコートと遭遇し、破滅に追いやられたようだ"
+
+#: 249936564-0-6262
+msgctxt "249936564-0-6262"
+msgid "Who did? What are you talking about?"
+msgstr "一体誰が？ 何の話をしている？"
+
+#: 3952276-0-6261
+msgctxt "3952276-0-6261"
+msgid "Warriors:"
+"\n"
+"\nIt is the will of Grand Warlord Zimmeron that bounties be offered for killing Dominion and Covenant Sorcerers. Slay 20 or more of these foes and you are entitled to a reward."
+msgstr "戦士達よ:\\r"
+"\n\\r"
+"\nジマーロン大将軍のご意思により、ドミニオンとカバナントのソーサラーズを倒した者達に報奨金が与えられる。20人以上の敵を倒すのだ。そうすれば報酬が与えられるであろう"
+
+#: 20958740-0-6261
+msgctxt "20958740-0-6261"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6261
+msgctxt "249936564-0-6261"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6260
+msgctxt "3952276-0-6260"
+msgid "Notice to all Covenant warriors:"
+"\n"
+"\nGrand Warlord Dortene has decreed a bounty upon Dominion and Pact Sorcerers. Slay 20 of them and you will earn a reward."
+msgstr "すべてのカバナント戦士へ:\\r"
+"\n\\r"
+"\nドルテーヌ大将軍はドミニオンとパクトのソーサラーズに報奨金を懸けられた。それらを20人を殺害した者には報奨金が与えられる"
+
+#: 20958740-0-6260
+msgctxt "20958740-0-6260"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6260
+msgctxt "249936564-0-6260"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6259
+msgctxt "3952276-0-6259"
+msgid "Grand Warlord Sorcalin has placed a bounty upon the heads of all enemy Sorcerers. Any Dominion soldier slaying 20 of these foes is entitled to a reward."
+"\n"
+"\nReturn here when you have completed this mission."
+msgstr "ソルカリン大将軍は敵方のソーサラーの首すべてに報奨金をかけられた。敵を20人殺したドミニオン兵士は、報奨金獲得の対象になる\\r"
+"\n\\r"
+"\nこの任務を達成した時、ここに戻るのだ"
+
+#: 20958740-0-6259
+msgctxt "20958740-0-6259"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6259
+msgctxt "249936564-0-6259"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6258
+msgctxt "3952276-0-6258"
+msgid "Warriors:"
+"\n"
+"\nIt is the will of Grand Warlord Zimmeron that bounties be offered for killing Dominion and Covenant Nightblades. Slay 20 or more of these foes and you are entitled to a reward."
+msgstr "戦士達よ:\\r"
+"\n\\r"
+"\nジマーロン大将軍のご意思により、ドミニオンとカバナントのナイトブレイズを倒した者達に報奨金が与えられる。20人以上の敵を倒すのだ。そうすれば報酬が与えられるであろう"
+
+#: 20958740-0-6258
+msgctxt "20958740-0-6258"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6258
+msgctxt "249936564-0-6258"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6257
+msgctxt "3952276-0-6257"
+msgid "Notice to all Covenant warriors:"
+"\n"
+"\nGrand Warlord Dortene has decreed a bounty upon Dominion and Pact Nightblades. Slay 20 of them and you will earn a reward."
+msgstr "全カバナント戦士への告知:\\r"
+"\n\\r"
+"\nドルテーヌ大将軍はドミニオンとパクトのナイトブレイズに報奨金を懸けられた。それらを20人殺害した者には報奨金が与えられる"
+
+#: 20958740-0-6257
+msgctxt "20958740-0-6257"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6257
+msgctxt "249936564-0-6257"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6256
+msgctxt "3952276-0-6256"
+msgid "Grand Warlord Sorcalin has placed a bounty upon the heads of all enemy Nightblades. Any Dominion soldier slaying 20 of these enemies is entitled to a reward."
+"\n"
+"\nReturn here when you have completed this mission."
+msgstr "ソルカリン大将軍はすべての敵方のナイトブレイドの首に報奨金をかけられた。ドミニオン戦士でこれらの敵を20人殺した者は報奨金獲得の対象になる\\r"
+"\n\\r"
+"\nこの任務を達成した時、ここに戻るのだ"
+
+#: 20958740-0-6256
+msgctxt "20958740-0-6256"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6256
+msgctxt "249936564-0-6256"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6255
+msgctxt "3952276-0-6255"
+msgid "Warriors:"
+"\n"
+"\nIt is the will of Grand Warlord Zimmeron that bounties be offered for killing Dominion and Covenant Dragonknights. Slay 20 or more of these foes and you are entitled to a reward."
+msgstr "戦士達よ:\\r"
+"\n\\r"
+"\nジマーロン大将軍のご意思により、ドミニオンとカバナントのドラゴンナイツを倒した者達に報奨金が与えられる。20人以上の敵を倒すのだ。そうすれば報酬が与えられるであろう"
+
+#: 20958740-0-6255
+msgctxt "20958740-0-6255"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6255
+msgctxt "249936564-0-6255"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6254
+msgctxt "3952276-0-6254"
+msgid "Notice to all Covenant warriors:"
+"\n"
+"\nGrand Warlord Dortene has decreed a bounty upon Dominion and Pact Dragonknights. Slay 20 of these foes and you will earn a reward."
+msgstr "全カバナント戦士への告知:\\r"
+"\n\\r"
+"\nドルテーヌ大将軍はドミニオンとパクトのドラゴンナイツに報奨金を懸けられた。20人の敵を殺害した者には報奨金が与えられる"
+
+#: 20958740-0-6254
+msgctxt "20958740-0-6254"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6254
+msgctxt "249936564-0-6254"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6253
+msgctxt "3952276-0-6253"
+msgid "Grand Warlord Sorcalin has placed a bounty upon the heads of all enemy Dragonknights. Any Dominion soldier slaying 20 of these enemies is entitled to a reward."
+"\n"
+"\nReturn here when you have completed this mission."
+msgstr "ソルカリン大将軍は敵方のドラゴンナイトの首すべてに報奨金をかけられた。敵を20人殺したドミニオン兵士は、報奨金獲得の対象になる\\r"
+"\n\\r"
+"\nこの任務を達成した時、ここに戻るのだ"
+
+#: 20958740-0-6253
+msgctxt "20958740-0-6253"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6253
+msgctxt "249936564-0-6253"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6249
+msgctxt "3952276-0-6249"
+msgid "Notice to all Covenant warriors:"
+"\n"
+"\nGrand Warlord Dortene has decreed a bounty upon Dominion and Pact Templars. Slay 20 of them and you will earn a reward."
+msgstr "すべてのカバナント戦士への告知:\\r"
+"\n\\r"
+"\nドルテーヌ大将軍はドミニオンとパクトのテンプラーに報賞金をかけると布告された。彼らを20人殺せば報奨金が得られる"
+
+#: 20958740-0-6249
+msgctxt "20958740-0-6249"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6249
+msgctxt "249936564-0-6249"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6248
+msgctxt "3952276-0-6248"
+msgid "Warriors:"
+"\n"
+"\nIt is the will of Grand Warlord Zimmeron that bounties be offered for killing Dominion and Covenant Templars. Slay 20 or more of these foes and you are entitled to a reward."
+msgstr "戦士達へ:\\r"
+"\n\\r"
+"\nジマーロン大将軍のご意志により、ドミニオンとカバナントのテンプラーを殺害すると、謝礼が与えられる。敵を20人殺せば、報奨金獲得の対象となる"
+
+#: 20958740-0-6248
+msgctxt "20958740-0-6248"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6248
+msgctxt "249936564-0-6248"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6247
+msgctxt "3952276-0-6247"
+msgid "Grand Warlord Sorcalin has placed a bounty on the heads of all enemy Templars. Any Dominion soldier slaying 20 of these foes is entitled to a reward."
+"\n"
+"\nReturn here when you have completed this mission."
+msgstr "ソルカリン大将軍はすべての敵方のテンプラーの頭に報奨金をかけた。敵20人を殺したいかなるドミニオンの兵士達は、報賞を受けるに値する\\r"
+"\n\\r"
+"\nこの任務を達成したら、ここに戻るのだ"
+
+#: 20958740-0-6247
+msgctxt "20958740-0-6247"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-6247
+msgctxt "249936564-0-6247"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-6229
+msgctxt "3952276-0-6229"
+msgid "We need to stop the Iron Orcs! They're building an army of trolls! "
+"\n"
+"\nRegent Cassipia sent me to convince them to disband the army, but they took my gold and tossed me out! Now that you're here, I have a better plan."
+msgstr "アイアンオークを何としても止めないと！ 奴ら、トロールの軍隊を作り上げているのよ！\\r"
+"\n\\r"
+"\nその軍隊を解体するよう説得するというのが、カシピア摂政から課された私の任務。でも、彼らはお金だけ取って私を追い出したの！ だけど、あなたが現れてくれたからもっといい案がある"
+
+#: 20958740-0-6229
+msgctxt "20958740-0-6229"
+msgid "What's your better plan?"
+msgstr "そのいい案とは？"
+
+#: 249936564-0-6229
+msgctxt "249936564-0-6229"
+msgid "I'm listening."
+msgstr "続けてくれ"
+
+#: 205344756-0-6213
+msgctxt "205344756-0-6213"
+msgid "In the wake of the Serpent's defeat, I found a shattered piece of the Apex Stone."
+msgstr "大蛇を倒した直後に砕け散った冠石の欠片を見つけた"
+
+#: 3952276-0-6481
+msgctxt "3952276-0-6481"
+msgid "Seeking skilled clothiers to fulfill simple opportunities. The robes or leathers you sew today could make the difference! Carefully examine specific orders as you take them from the board!"
+msgstr "簡単な仕事をこなせる熟練の仕立屋を募集中。あなたが今日縫うローブや革が勝敗を分けるかもしれない！ 依頼を掲示板から取る際は、注文の詳細をよく確認すること"
+
+#: 205344756-0-6188
+msgctxt "205344756-0-6188"
+msgid "Turuk Redclaws told me of the dangers of the Serpent. How it wants to destroy the cities of Tamriel, and see the forest overtake the land."
+msgstr "赤爪トゥルクから大蛇の危険について話を聞いた。タムリエルの街々を破壊し、土地を全て森で覆い隠そうとしているという"

@@ -1,0 +1,3635 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 66848564-0-6931
+msgctxt "66848564-0-6931"
+msgid "Are you ready for your first contract?"
+msgstr "첫번짜 계약을 할 준비가 되었나요?"
+
+#: 66848564-0-6908
+#, fuzzy
+msgctxt "66848564-0-6908"
+msgid "Assassin, they need you at the Sanctuary."
+msgstr "암살자, 그들은 성역에서 당신을 필요로합니다.-G-"
+
+#: 66848564-0-6892
+#, fuzzy
+msgctxt "66848564-0-6892"
+msgid "Astara needs you in the Sanctuary."
+msgstr "Astara는 Sanctuary에서 당신을 필요로합니다.-G-"
+
+#: 66848564-0-6889
+#, fuzzy
+msgctxt "66848564-0-6889"
+msgid "It's a rare sight to see, so many of the family returning home at the same time."
+msgstr "볼 수있는 드문 광경입니다. 많은 가족이 같은 시간에 집으로 돌아 왔습니다.-G-"
+
+#: 66848564-0-6877
+#, fuzzy
+msgctxt "66848564-0-6877"
+msgid "The Dark Brotherhood is more than a guild, Initiate. It's a family."
+msgstr "다크 브라더 후드는 길드 이상의 존재입니다. 가족이야.-G-"
+
+#: 66848564-0-6862
+#, fuzzy
+msgctxt "66848564-0-6862"
+msgid "A moment of your time, Initiate."
+msgstr "시간의 순간, Initiate.-G-"
+
+#: 66848564-0-6861
+#, fuzzy
+msgctxt "66848564-0-6861"
+msgid "The family has need of you, Initiate."
+msgstr "가족은 당신을 필요로합니다.-G-"
+
+#: 66848564-0-6860
+#, fuzzy
+msgctxt "66848564-0-6860"
+msgid "This isn't good. This isn't good at all."
+msgstr "이것은 좋지 않다. 이것은 전혀 좋지 않습니다.-G-"
+
+#: 66848564-0-6859
+#, fuzzy
+msgctxt "66848564-0-6859"
+msgid "Hey, Initiate! Over here!"
+msgstr "이봐, 시작해! 여기!-G-"
+
+#: 66848564-0-6829
+#, fuzzy
+msgctxt "66848564-0-6829"
+msgid "The litany has begun."
+msgstr "빛이 시작되었습니다.-G-"
+
+#: 66848564-0-6776
+#, fuzzy
+msgctxt "66848564-0-6776"
+msgid "Assassin, the time to strike is at hand."
+msgstr "암살자, 파업 할 시간입니다.-G-"
+
+#: 66848564-0-6773
+#, fuzzy
+msgctxt "66848564-0-6773"
+msgid "Assassin, the word has been given."
+msgstr "암살자, 그 말씀이 주어졌습니다.-G-"
+
+#: 66848564-0-6166
+#, fuzzy
+msgctxt "66848564-0-6166"
+msgid "You there, wet one. This one needs to speak to you."
+msgstr "너 거기 젖어. 이 사람이 너에게 말할 필요가있어.-G-"
+
+#: 115740052-0-26744
+#, fuzzy
+msgctxt "115740052-0-26744"
+msgid "When Knight Commander Panthius delivers a beating, he does it with style! Will the challengers try again? We'll know in a moment!"
+msgstr ""
+"판 티오 기사단 사령관이 구타를 가져올 때, 그는 스타일로 그것을합니다! 도전자가 다시 시도할까요? 우리는 잠시 알게 될 것이다!-G-"
+
+#: 115740052-0-26743
+#, fuzzy
+msgctxt "115740052-0-26743"
+msgid "The Order of the Hour wins again! We'll give the challengers a moment to lick their wounds before we let them try again."
+msgstr "시간의 명령이 다시 이깁니다! 우리는 도전자들에게 우리가 다시 시도하게하기 전에 상처를 핥을 순간을 줄 것입니다.-G-"
+
+#: 115740052-0-26742
+#, fuzzy
+msgctxt "115740052-0-26742"
+msgid "It looks like the challengers have been judged and found wanting! Another crushing victory for the Order of the Hour!"
+msgstr "도전자가 판단되고 원했던 것처럼 보입니다! 시간의 명령에 대한 또 하나의 압도적 인 승리!-G-"
+
+#: 115740052-0-26741
+#, fuzzy
+msgctxt "115740052-0-26741"
+msgid "They've done it! They've dropped the axe on Knight Commander Panthius!"
+msgstr "그들은 그것을 해냈다! 판 티어 기사단 사령관에게 도끼를 떨어 뜨 렸습니다!-G-"
+
+#: 115740052-0-26740
+#, fuzzy
+msgctxt "115740052-0-26740"
+msgid "How many cages are down there? If the challengers keep trying to climb the walls, we might find out!"
+msgstr "거기에 몇 개의 케이지가 있습니까? 도전자가 벽을 오르려고 계속 노력한다면 우리는 알아낼 수 있습니다!-G-"
+
+#: 115740052-0-26739
+#, fuzzy
+msgctxt "115740052-0-26739"
+msgid "The beasts are hungry! The challengers will give the walls a wide berth unless they want to become a meal."
+msgstr "짐승은 배고프다! 도전자는 식사를하고 싶지 않으면 벽에 넓은 침대를 줄 것입니다.-G-"
+
+#: 115740052-0-26738
+#, fuzzy
+msgctxt "115740052-0-26738"
+msgid "The Knight Commander's enforcers are the Order's most battle-hardened veterans. The challengers are doomed!"
+msgstr "기사 사령관의 집행자는 가장 치열한 전투 참전 용사입니다. 도전자는 운명에 처한다!-G-"
+
+#: 115740052-0-26737
+#, fuzzy
+msgctxt "115740052-0-26737"
+msgid "Knight Commander Panthius and his enforcers will lay down the law! And the penalty is death!"
+msgstr "판 티어 기사단 사령관과 그의 집행자는 법을 정하게됩니다! 그리고 처벌은 죽음입니다!-G-"
+
+#: 115740052-0-26736
+#, fuzzy
+msgctxt "115740052-0-26736"
+msgid "Knight Commander Panthius demands to meet these challengers in battle!"
+msgstr "판 티스 기사단 사령관은 전투에서이 도전자들을 만나기를 요구합니다!-G-"
+
+#: 115740052-0-26735
+#, fuzzy
+msgctxt "115740052-0-26735"
+msgid "I don't believe it! The challengers have bested the Order of the Hour champ—no, I spoke too soon!"
+msgstr "나는 그것을 믿지 않는다! 도전자는 시간의 챔피온 - 아니, 나는 너무 일찍 주문을 bested있다!-G-"
+
+#: 115740052-0-26734
+#, fuzzy
+msgctxt "115740052-0-26734"
+msgid "Look at them run! But who can blame them?"
+msgstr "그들이 달리는 걸보세요! 그러나 누가 그들을 비난 할 수 있습니까?-G-"
+
+#: 115740052-0-26733
+#, fuzzy
+msgctxt "115740052-0-26733"
+msgid "Challengers, prepare to face the champions of the Kvatch Arena—the Order of the Hour!"
+msgstr "도전자, Kvatch Arena (시간의 명령) 챔피언과 맞설 준비를하십시오!-G-"
+
+#: 115740052-0-26732
+#, fuzzy
+msgctxt "115740052-0-26732"
+msgid "The challengers stand victorious! Hold on, the Arena Master is signaling for a main event. Now the real contest begins!"
+msgstr ""
+"도전자는 승리합니다! 잠시만 기다려주세요. 아레나 마스터는 메인 이벤트를 알리는 신호입니다. 이제 진짜 경연이 시작됩니다!-G-"
+
+#: 115740052-0-26731
+#, fuzzy
+msgctxt "115740052-0-26731"
+msgid "The new arrivals are running away! Is that even allowed?"
+msgstr "새로운 도착은 도망 가고 있습니다! 심지어 허용됩니까?-G-"
+
+#: 115740052-0-26730
+#, fuzzy
+msgctxt "115740052-0-26730"
+msgid "What's this? New challengers have entered the arena! Cheer or boo, it's up to you!"
+msgstr "이게 뭐야? 새로운 도전자가 경기장에 입장했습니다! 응원 또는 부끄러움, 그것은 당신에게 달린 것입니다!-G-"
+
+#: 115740052-0-26270
+#, fuzzy
+msgctxt "115740052-0-26270"
+msgid "Wave Horn Audio"
+msgstr "웨이브 혼 오디오-G-"
+
+#: 115740052-0-26264
+#, fuzzy
+msgctxt "115740052-0-26264"
+msgid "Pay my respects to Sithis, old man."
+msgstr "Sithis에게 나의 존경을 표하십시오, 노인.-G-"
+
+#: 115740052-0-26262
+#, fuzzy
+msgctxt "115740052-0-26262"
+msgid "I look forward to hearing from her. Goodbye, Tsatva-Lan."
+msgstr "나는 그녀에게서 듣기를 고대합니다. 잘가, Tsatva-Lan.-G-"
+
+#: 115740052-0-26261
+#, fuzzy
+msgctxt "115740052-0-26261"
+msgid "They do. Sithis comes for us all, old friend. You kill in his name, but do not understand his nature. Mephala does. Very soon, she will make you understand. All of you."
+msgstr ""
+"그들이하다. 시디 스가 우리 모두를 위해 온다, 옛 친구. 당신은 그의 이름으로 죽이지 만 그의 본성을 이해하지 못합니다. "
+"Mephala는 않습니다. 곧 그녀는 당신을 이해하게 할 것입니다. 너 모두.-G-"
+
+#: 115740052-0-26260
+#, fuzzy
+msgctxt "115740052-0-26260"
+msgid "And these spider-worshipers know better?"
+msgstr "그리고이 거미 숭배자들은 더 잘 압니까?-G-"
+
+#: 115740052-0-26259
+#, fuzzy
+msgctxt "115740052-0-26259"
+msgid "I knew you could be reasonable. The truth is that you are weak. The Shadowscales are weak. The Dark Brotherhood is weak. Your traditions are worthless pretense. It took me a long time to see it. Too long."
+msgstr ""
+"네가 합리적 일 줄 알았어. 진실은 당신이 약하다는 것입니다. 그림자가 약합니다. 다크 브라더 후드는 약하다. 당신의 전통은 쓸데없는 "
+"허위입니다. 그것을보기에는 오랜 시간이 걸렸습니다. 너무 오래.-G-"
+
+#: 115740052-0-26258
+#, fuzzy
+msgctxt "115740052-0-26258"
+msgid "Fine. Talk."
+msgstr "벌금. 이야기.-G-"
+
+#: 115740052-0-26257
+#, fuzzy
+msgctxt "115740052-0-26257"
+msgid "You can indulge me this one last lesson. A final kindness for an old friend."
+msgstr "이 마지막 강의에 빠져들 수 있습니다. 옛 친구를위한 마지막 친절.-G-"
+
+#: 115740052-0-26256
+#, fuzzy
+msgctxt "115740052-0-26256"
+msgid "Won't make any difference."
+msgstr "어떤 차이를 만들지 않을 것입니다.-G-"
+
+#: 115740052-0-26255
+#, fuzzy
+msgctxt "115740052-0-26255"
+msgid "So abrupt! Don't you want to know why?"
+msgstr "너무 갑작 스럽다! 왜 그런지 알고 싶지 않아?-G-"
+
+#: 115740052-0-26254
+msgctxt "115740052-0-26254"
+msgid "Another wave incoming! Keep Fighting!"
+msgstr "한 번 더 몰려온다! 계속 싸워!"
+
+#: 115740052-0-26253
+msgctxt "115740052-0-26253"
+msgid "Keep Fighting!"
+msgstr "계속 싸워라!"
+
+#: 115740052-0-26252
+msgctxt "115740052-0-26252"
+msgid "Another group inbound!"
+msgstr "다른 무리가 접근한다!"
+
+#: 115740052-0-26251
+#, fuzzy
+msgctxt "115740052-0-26251"
+msgid "I think we're clear on the west. Great Job!"
+msgstr "나는 우리가 서쪽에서 분명하다고 생각한다. 잘 했어!-G-"
+
+#: 115740052-0-26249
+#, fuzzy
+msgctxt "115740052-0-26249"
+msgid "Great job!"
+msgstr "잘 했어!-G-"
+
+#: 115740052-0-26248
+#, fuzzy
+msgctxt "115740052-0-26248"
+msgid "We've pushed them back!"
+msgstr "우리는 그들을 뒤로 밀었습니다!-G-"
+
+#: 115740052-0-26247
+#, fuzzy
+msgctxt "115740052-0-26247"
+msgid "We've pushed them back! Great job!"
+msgstr "우리는 그들을 뒤로 밀었습니다! 잘 했어!-G-"
+
+#: 115740052-0-26246
+msgctxt "115740052-0-26246"
+msgid "Another wave incoming!"
+msgstr "또 한번 몰려온다!"
+
+#: 115740052-0-26244
+#, fuzzy
+msgctxt "115740052-0-26244"
+msgid "Creepy little bastard …."
+msgstr "오싹하는 작은 놈.-G-"
+
+#: 115740052-0-26242
+#, fuzzy
+msgctxt "115740052-0-26242"
+msgid "Well done, my scaled friend. You have cast off your old skin, and the Silken Ring welcomes you as a brother. Seek out Velidreth and receive your blessing."
+msgstr ""
+"잘 했어, 저울질 된 친구. 당신은 오래된 피부를 벗겨 냈고, 실큰한 반지는 당신을 오빠로 환영합니다. 벨 리드를 찾아 축복을 받으십시오."
+"-G-"
+
+#: 115740052-0-26241
+#, fuzzy
+msgctxt "115740052-0-26241"
+msgid "No!"
+msgstr "아니!-G-"
+
+#: 115740052-0-26239
+#, fuzzy
+msgctxt "115740052-0-26239"
+msgid "Tsatva-Lan, what are you—? You do not need to do this!"
+msgstr "쯔바 - 란, 너 뭐야? 당신은 이것을 할 필요가 없습니다!-G-"
+
+#: 115740052-0-26238
+#, fuzzy
+msgctxt "115740052-0-26238"
+msgid "Hides-the-Ashes. If she is here, she will die like the rest. Now, you wanted proof of my loyalty? Bear witness."
+msgstr "잿더미. 그녀가 여기에 있다면, 그녀는 나머지처럼 죽을 것입니다. 내 충성심을 증명하고 싶었 니? 목격자.-G-"
+
+#: 115740052-0-26237
+#, fuzzy
+msgctxt "115740052-0-26237"
+msgid "I'm afraid you're mistaken, my friend. Another member of your tribe has breached the gates."
+msgstr "네가 잘못 본 것 같아, 친구. 당신 부족의 다른 구성원이 성문을 침범했습니다.-G-"
+
+#: 115740052-0-26236
+#, fuzzy
+msgctxt "115740052-0-26236"
+msgid "It is done, Velador. The remaining Shadowscales are dealt with."
+msgstr "그것은 끝났습니다, 벨라 도르. 나머지 Shadowscales가 처리됩니다.-G-"
+
+#: 115740052-0-26235
+#, fuzzy
+msgctxt "115740052-0-26235"
+msgid "Excited Crowd Cheers in Kvatch Arena"
+msgstr "Kvatch Arena에서 흥분하는 군중 건배-G-"
+
+#: 115740052-0-26234
+#, fuzzy
+msgctxt "115740052-0-26234"
+msgid "Normal Crowd Cheers in Kvatch Arena"
+msgstr "Kvatch Arena의 일반 군중 응원-G-"
+
+#: 115740052-0-26233
+#, fuzzy
+msgctxt "115740052-0-26233"
+msgid "Welcome, Initiate."
+msgstr "환영합니다, 시작하십시오.-G-"
+
+#: 115740052-0-26232
+#, fuzzy
+msgctxt "115740052-0-26232"
+msgid "Mmm. Piping hot! Don't keep me waiting, adventurers. I'm starving!"
+msgstr "음. 뜨거운 배관! 모험가들을 기다리지 말아라. 배고파 죽겠 어!-G-"
+
+#: 115740052-0-26231
+#, fuzzy
+msgctxt "115740052-0-26231"
+msgid "Hmmm … warmer still. Best hurry, sweetmeat. Tsatva-Lan receives my blessing even as we speak. Killing him may prove … difficult."
+msgstr ""
+"Hmmm ... 아직도 더 따뜻한. 서둘러, 제발. Tsatva-Lan은 우리가 말할 때조차 나의 축복을받습니다. 그를 죽이면 어려울 "
+"수도 있습니다.-G-"
+
+#: 115740052-0-26230
+#, fuzzy
+msgctxt "115740052-0-26230"
+msgid "Mm … getting warmer. It's a shame you're not as smart as Tsatva-Lan. What a delightful servant you'd make!"
+msgstr ""
+"음 .. 점점 더 따뜻해진다. 당신이 Tsatva-Lan처럼 똑똑하지 않은 것은 부끄러운 일입니다. 얼마나 기쁜 하인이 되겠습니까!-G-"
+
+#: 115740052-0-26229
+#, fuzzy
+msgctxt "115740052-0-26229"
+msgid "You are fools to pursue me. Take Hides-the-Ashes and get out of here. This is my final kindness. Leave or die."
+msgstr ""
+"당신은 나를 추구하는 바보입니다. 은신처를 가져 와서 여기서 나가십시오. 이것은 나의 마지막 친절이다. 떠나거나 죽어라.-G-"
+
+#: 115740052-0-26227
+#, fuzzy
+msgctxt "115740052-0-26227"
+msgid "Mmm … new dinner guests. Don't keep me waiting, sweetmeat. I am positively famished!"
+msgstr "음 ... 새로운 저녁 손님. 기다리게 하지마, 제발. 나는 긍정적으로 굶주려있다!-G-"
+
+#: 115740052-0-26226
+#, fuzzy
+msgctxt "115740052-0-26226"
+msgid "I'll double back to make sure he hasn't fled. You keep going and find this Velidreth."
+msgstr "나는 그가 두려워하지 않았 음을 확인하기 위해 두 배 되돌아 올 것이다. 계속해서이 벨리 드레를 찾으십시오.-G-"
+
+#: 115740052-0-26225
+#, fuzzy
+msgctxt "115740052-0-26225"
+msgid "Mephala. Night Mother's mercy, I am so sick of looking at her smug face. Remind me to smash this thing when Tsatva's … when we're done."
+msgstr ""
+"Mephala. 밤의 어머니의 자비, 나는 그녀의 잘난척 한 얼굴을 보면서 너무 아플니다. Tsatva가 ... 끝났을 때 이걸 부숴 라."
+"-G-"
+
+#: 115740052-0-26222
+#, fuzzy
+msgctxt "115740052-0-26222"
+msgid "Tsatva's gone, isn't he? Damn it. I should have been here. I could have … never mind."
+msgstr "츠바바는 갔어, 그렇지 않니? 젠장. 나는 여기에 있어야했다. 나는 ... 신경 쓸 수있다.-G-"
+
+#: 115740052-0-26221
+#, fuzzy
+msgctxt "115740052-0-26221"
+msgid "Haha! You're dead!"
+msgstr "하하! 넌 죽었어!-G-"
+
+#: 115740052-0-26220
+#, fuzzy
+msgctxt "115740052-0-26220"
+msgid "All right, Tsatva. Time to lick the tree."
+msgstr "좋아, 샛바. 나무를 핥을 시간.-G-"
+
+#: 115740052-0-26218
+#, fuzzy
+msgctxt "115740052-0-26218"
+msgid "Ha. Yes. Well, old friend, it appears that the student has become the teacher. Today's lesson: the price of disloyalty."
+msgstr "하아. 예. 음, 오랜 친구, 그 학생이 교사가 된 것 같습니다. 오늘의 교훈:불충실 한 댓가.-G-"
+
+#: 115740052-0-26217
+#, fuzzy
+msgctxt "115740052-0-26217"
+msgid "Hides-the-Ashes … I'm impressed you made it so far. Haven't stopped dragging that right heel on the parry, though. I taught you better than that."
+msgstr ""
+"은밀한 재로 ... 나는 당신이 지금까지 그것을 만들었다는 것에 깊은 인상을 받았습니다. 그래도 그 뒷골목에서 그 오른쪽 발 뒤꿈치를 "
+"끌고있어. 나는 너보다 더 잘 가르쳤다.-G-"
+
+#: 115740052-0-26216
+#, fuzzy
+msgctxt "115740052-0-26216"
+msgid "Tsatva-Lan. Funny meeting you here."
+msgstr "Tsatva-Lan. 여기 재미 있군.-G-"
+
+#: 115740052-0-26215
+#, fuzzy
+msgctxt "115740052-0-26215"
+msgid "I need a moment to … sort this out. Kill that smoke-skin bastard, Dranos, and we'll regroup afterward."
+msgstr "이걸 정리 해봐야 겠어. 그 연기 가죽 놈, Dranos를 죽여라. 그러면 우리는 다시 재편성 할거야.-G-"
+
+#: 115740052-0-26214
+#, fuzzy
+msgctxt "115740052-0-26214"
+msgid "That bastard. He didn't even let Geel-Ma die with a knife in his hand."
+msgstr "그 놈. 그는 심지어 Geel-Ma가 그의 손에 칼로 죽지 않도록했습니다.-G-"
+
+#: 115740052-0-26213
+#, fuzzy
+msgctxt "115740052-0-26213"
+msgid "At least one of the doors is open now. Go have a look. I'll hang back, just in case we get more visitors."
+msgstr ""
+"적어도 하나의 문이 열려 있습니다. 가서보세요. 나는 우리가 더 많은 방문자를 얻는 경우에 대비하여, 뒤로 매달릴 것이다.-G-"
+
+#: 115740052-0-26212
+#, fuzzy
+msgctxt "115740052-0-26212"
+msgid "Sorry. Can't stand these things. Spiderkith. They attacked as soon as you left. We must be on the right track."
+msgstr ""
+"죄송합니다. 이런 일들을 참을 수 없습니다. Spiderkith. 당신이 떠나 자마자 그들은 공격했습니다. 우리는 바른 길 위에 "
+"있어야합니다.-G-"
+
+#: 115740052-0-26211
+#, fuzzy
+msgctxt "115740052-0-26211"
+msgid "I'll hold this room while you're gone. Don't dawdle, all right?"
+msgstr "당신이 떠나는 동안 나는이 방을 잡을거야. 못살게 굴지 마, 알았지?-G-"
+
+#: 115740052-0-26210
+#, fuzzy
+msgctxt "115740052-0-26210"
+msgid "Ah. Lever. And just out of reach, too. Typical. Find a way up there. It'll open at least one of these gates, I guarantee it."
+msgstr "아. 지렛대. 그리고 도달 범위도. 전형적인. 그 길을 찾아. 이 문 중 적어도 하나는 열리겠습니다.-G-"
+
+#: 115740052-0-26209
+#, fuzzy
+msgctxt "115740052-0-26209"
+msgid "Portcullises over the gates? I didn't expect them to roll out the welcome mat, but this seems excessive. We're going to have to find another way out of here."
+msgstr ""
+"문을 통해 포 컬리 스? 나는 그들이 환영 매트를 굴리기를 기대하지 않았지만 이것은 과도한 것으로 보인다. 우리는 여기서 다른 길을 "
+"찾아야 할 것입니다.-G-"
+
+#: 115740052-0-26208
+#, fuzzy
+msgctxt "115740052-0-26208"
+msgid "Love what you've done with the place. Messy. Sends a message, yeah?"
+msgstr "그 곳에서 한 일을 사랑해. 어질러 놓은. 메시지를 보냈지, 네?-G-"
+
+#: 115740052-0-26207
+#, fuzzy
+msgctxt "115740052-0-26207"
+msgid "With each of my shadows you dispatch, I learn one more way to kill you!"
+msgstr "당신이 파견 한 나의 그림자마다, 나는 당신을 죽이기위한 또 하나의 방법을 배웁니다!-G-"
+
+#: 115740052-0-26206
+#, fuzzy
+msgctxt "115740052-0-26206"
+msgid "Not bad for someone who's swinging at shadows!"
+msgstr "그림자를 휘두르는 사람에게는 나쁘지 않습니다!-G-"
+
+#: 115740052-0-26205
+#, fuzzy
+msgctxt "115740052-0-26205"
+msgid "If you're the best your Sanctuary can throw against me, they're already all dead!"
+msgstr "네가 성역이 내게 던질 수있는 최선이라면, 그들은 이미 모두 죽었어!-G-"
+
+#: 115740052-0-26204
+#, fuzzy
+msgctxt "115740052-0-26204"
+msgid "Show me every flaw, every weakness."
+msgstr "모든 결함, 모든 약점을 보여주십시오.-G-"
+
+#: 115740052-0-26203
+#, fuzzy
+msgctxt "115740052-0-26203"
+msgid "Now's your chance to impress me, Assassin."
+msgstr "이제 나를 감동시킬 기회예요, 어쌔신.-G-"
+
+#: 115740052-0-26202
+#, fuzzy
+msgctxt "115740052-0-26202"
+msgid "This is still my kill, Assassin. When one door opens, the best course is to leap right through."
+msgstr "아직도 내 살인이다, 어쌔신. 하나의 문이 열리면 가장 좋은 길은 바로 뛰어 넘는 것입니다.-G-"
+
+#: 115740052-0-26201
+#, fuzzy
+msgctxt "115740052-0-26201"
+msgid "Let's see if this switch opens the gate …. No, but it did open this other door."
+msgstr "이 스위치가 게이트를 열 었는지 봅시다 .... 아니,하지만 다른 문을 열어 봤어.-G-"
+
+#: 115740052-0-26200
+#, fuzzy
+msgctxt "115740052-0-26200"
+msgid "One moment. I think I can get through that break in the bars."
+msgstr "잠시만. 나는 술집에서 그 휴식을 얻을 수 있다고 생각합니다.-G-"
+
+#: 115740052-0-26199
+#, fuzzy
+msgctxt "115740052-0-26199"
+msgid "Hmm. Interesting. It seems that gate blocks our way."
+msgstr "흠. 흥미 롭 군. 그것은 게이트가 우리 길을 막는 것처럼 보입니다.-G-"
+
+#: 115740052-0-26198
+#, fuzzy
+msgctxt "115740052-0-26198"
+msgid "Hail Sithis!"
+msgstr "우박 시스!-G-"
+
+#: 115740052-0-26197
+#, fuzzy
+msgctxt "115740052-0-26197"
+msgid "The Dread Father acts through him. And his work has just begun."
+msgstr "Dread Father는 그를 통해 행동합니다. 그리고 그의 작품은 이제 막 시작되었습니다.-G-"
+
+#: 115740052-0-26196
+#, fuzzy
+msgctxt "115740052-0-26196"
+msgid "His heart shines with the color of night. His song sings with the music of life. His gaze inspires fear and his hands grant the gift of death."
+msgstr ""
+"그의 마음은 밤의 색으로 빛난다. 그의 노래는 삶의 음악으로 노래합니다. 그의 시선은 두려움을 불러 일으키고 그의 손은 죽음의 선물을 "
+"준다.-G-"
+
+#: 115740052-0-26195
+#, fuzzy
+msgctxt "115740052-0-26195"
+msgid "And so, the assassins finally arrive."
+msgstr "그래서 암살자들이 마침내 도착합니다.-G-"
+
+#: 115740052-0-26194
+#, fuzzy
+msgctxt "115740052-0-26194"
+msgid "Brethren, be wary. They're coming in from the sides!"
+msgstr "형제 여러분, 조심하십시오. 그들은 양쪽에서 오는거야!-G-"
+
+#: 115740052-0-26193
+#, fuzzy
+msgctxt "115740052-0-26193"
+msgid "Send more of your lackeys, Primate! It's a pleasure to cut them down!"
+msgstr "너의 부족함을 더 보내라, 영장류! 그 (것)들을 삭감하는 쾌락!-G-"
+
+#: 115740052-0-26192
+#, fuzzy
+msgctxt "115740052-0-26192"
+msgid "Let the Dragon God guide my hand!"
+msgstr "드래곤 하느님이 내 손을 인도하게하십시오!-G-"
+
+#: 115740052-0-26191
+#, fuzzy
+msgctxt "115740052-0-26191"
+msgid "You are a blight before Akatosh!"
+msgstr "당신은 Akatosh 전에 마름병입니다!-G-"
+
+#: 115740052-0-26190
+#, fuzzy
+msgctxt "115740052-0-26190"
+msgid "The Black Dragon's using shadows to track our progress."
+msgstr "Black Dragon은 우리의 진도를 추적하기 위해 그림자를 사용합니다.-G-"
+
+#: 115740052-0-26189
+#, fuzzy
+msgctxt "115740052-0-26189"
+msgid "The Order of the Hour will purify your Sanctuary. You cannot stop it."
+msgstr "시간의 명령은 성역을 정화합니다. 너는 그것을 막을 수 없다.-G-"
+
+#: 115740052-0-26188
+#, fuzzy
+msgctxt "115740052-0-26188"
+msgid "I can't do that, Lyra. You brought this on yourself."
+msgstr "나는 그것을 할 수 없다, 라이라. 너 스스로 이걸 가져 왔어.-G-"
+
+#: 115740052-0-26187
+#, fuzzy
+msgctxt "115740052-0-26187"
+msgid "Lyra? Ah, a shadow! Clever. Very clever."
+msgstr "거문고? 아, 그림자! 영리한. 매우 영리한.-G-"
+
+#: 115740052-0-26186
+#, fuzzy
+msgctxt "115740052-0-26186"
+msgid "Shazara-Ta will return you to the Gold Coast. I'll meet you in front of Akatosh's Cathedral in Kvatch … after I pay my respects to these … memories."
+msgstr ""
+"샤 자라 따 (Shazara-Ta)가 당신을 골드 코스트로 되돌려 보낼 것입니다. Kvatch에있는 Akatosh 대성당 앞에서 "
+"만나겠습니다 ... 나는이 추억에 경의를 표합니다.-G-"
+
+#: 115740052-0-26185
+#, fuzzy
+msgctxt "115740052-0-26185"
+msgid "Hmm. Looks like we're all alone."
+msgstr "흠. 우리는 모두 혼자 인 것처럼 보입니다.-G-"
+
+#: 115740052-0-26184
+#, fuzzy
+msgctxt "115740052-0-26184"
+msgid "Assassin, over here!"
+msgstr "암살자, 여기!-G-"
+
+#: 115740052-0-26183
+#, fuzzy
+msgctxt "115740052-0-26183"
+msgid "Gah! Enough! Wake, vines, and drag them to Sithis!"
+msgstr "가! 충분히! 깨어서 포도 나무에 담아 시티 스로 끌고 가라.-G-"
+
+#: 115740052-0-26182
+#, fuzzy
+msgctxt "115740052-0-26182"
+msgid "Rise, amber shade of Xal-Nur! Crush them!"
+msgstr "Rise, Xal-Nur의 호박색 음영! 그들을 부수십시오!-G-"
+
+#: 115740052-0-26181
+#, fuzzy
+msgctxt "115740052-0-26181"
+msgid "Beasts in amber! Wake and remember!"
+msgstr "앰버의 짐승들! 깨우고 기억하십시오!-G-"
+
+#: 115740052-0-26180
+#, fuzzy
+msgctxt "115740052-0-26180"
+msgid "Assassin, the Order's created an army! Do whatever you can to disrupt their preparations, starting with those siege engines!"
+msgstr ""
+"어쌔신, 군대가 탄생했습니다! 그 포위 공격 엔진으로 시작하여 준비를 방해 할 수있는 일이라면 무엇이든 할 수 있습니다!-G-"
+
+#: 115740052-0-26179
+msgctxt "115740052-0-26179"
+msgid "Sweet Mother, Sweet Mother, send your child unto me …"
+msgstr "사랑하는 어머니, 사랑하는 어머니, 당신의 자식을 제게 보내주십시오..."
+
+#: 115740052-0-26178
+#, fuzzy
+msgctxt "115740052-0-26178"
+msgid "Especially from us."
+msgstr "특히 우리에게서.-G-"
+
+#: 115740052-0-26177
+#, fuzzy
+msgctxt "115740052-0-26177"
+msgid "In Tamriel, no one is safe."
+msgstr "Tamriel에서는 아무도 안전하지 않습니다.-G-"
+
+#: 115740052-0-26176
+#, fuzzy
+msgctxt "115740052-0-26176"
+msgid "Know this:"
+msgstr "이것을 아십시오 :-G-"
+
+#: 115740052-0-26175
+#, fuzzy
+msgctxt "115740052-0-26175"
+msgid "Welcome, Initiate."
+msgstr "환영합니다, 시작하십시오.-G-"
+
+#: 115740052-0-26174
+msgctxt "115740052-0-26174"
+msgid "Sweet Mother, Sweet Mother, send your child unto me …"
+msgstr "사랑하는 어머니, 사랑하는 어머니, 당신의 자식을 제게 보내주십시오..."
+
+#: 115740052-0-26173
+msgctxt "115740052-0-26173"
+msgid "Especially from us."
+msgstr "특히 우리에게서."
+
+#: 115740052-0-26172
+msgctxt "115740052-0-26172"
+msgid "For in Tamriel, no one is safe."
+msgstr "탐리엘에서 아무도 안전하지 못 하다."
+
+#: 115740052-0-26171
+#, fuzzy
+msgctxt "115740052-0-26171"
+msgid "Welcome, assassin, to our deadly trade."
+msgstr "우리의 치명적인 거래에 어쌔신.-G-"
+
+#: 115740052-0-26170
+#, fuzzy
+msgctxt "115740052-0-26170"
+msgid "To the Dark Brotherhood."
+msgstr "다크 브라더 후드에게.-G-"
+
+#: 115740052-0-26169
+#, fuzzy
+msgctxt "115740052-0-26169"
+msgid "So welcome, Initiate."
+msgstr "환영 해. 시작해.-G-"
+
+#: 115740052-0-26168
+#, fuzzy
+msgctxt "115740052-0-26168"
+msgid "A contract that calls for murder."
+msgstr "살인을 요구하는 계약.-G-"
+
+#: 115740052-0-26167
+#, fuzzy
+msgctxt "115740052-0-26167"
+msgid "This is the Black Sacrament, Initiate."
+msgstr "이것은 검은 성례전입니다.-G-"
+
+#: 115740052-0-26166
+#, fuzzy
+msgctxt "115740052-0-26166"
+msgid "Must be baptized in blood and fear."
+msgstr "피와 두려움으로 침례를 받아야합니다.-G-"
+
+#: 115740052-0-26165
+#, fuzzy
+msgctxt "115740052-0-26165"
+msgid "For the sins of the unworthy …"
+msgstr "가치없는 사람의 죄 때문에 ...-G-"
+
+#: 115740052-0-26164
+#, fuzzy
+msgctxt "115740052-0-26164"
+msgid "Send your child unto me …"
+msgstr "너의 아이를 나에게 보내라 ...-G-"
+
+#: 115740052-0-26163
+msgctxt "115740052-0-26163"
+msgid "Sweet Mother, Sweet Mother …"
+msgstr "사랑하는 어머니, 사랑하는 어머니 ..."
+
+#: 115740052-0-26162
+msgctxt "115740052-0-26162"
+msgid "Dry-skinned savages. This city will be your grave!"
+msgstr "마른-피부 야만인들. 이 도시가 너희의 무덤이 될 것이다!"
+
+#: 115740052-0-26161
+#, fuzzy
+msgctxt "115740052-0-26161"
+msgid "No! You will feed the roots! You will …."
+msgstr "아니! 당신은 뿌리를 먹일 것입니다! 너 ....-G-"
+
+#: 115740052-0-26160
+#, fuzzy
+msgctxt "115740052-0-26160"
+msgid "Tsono-Xuhil! Mother root, father stone—grant me your strength!"
+msgstr "Tsono-Xuhil! 어머니 뿌리, 아버지 돌 - 내게 당신의 힘을 부여!-G-"
+
+#: 115740052-0-26159
+#, fuzzy
+msgctxt "115740052-0-26159"
+msgid "<Enraged bellow>"
+msgstr "<격노 한 벨로우즈>-G-"
+
+#: 115740052-0-26158
+#, fuzzy
+msgctxt "115740052-0-26158"
+msgid "Raz is a genius! Raz has figured out what the clues mean!"
+msgstr "Raz는 천재이다! Raz는 단서가 무엇을 의미하는지 알아 냈습니다!-G-"
+
+#: 115740052-0-26157
+#, fuzzy
+msgctxt "115740052-0-26157"
+msgid "You murderous dogs! The Gold Coast will be a better place when you're all dead!"
+msgstr "너는 살인 개야! 골드 코스트는 모두 죽었을 때 더 좋은 곳이 될 것입니다!-G-"
+
+#: 115740052-0-26156
+#, fuzzy
+msgctxt "115740052-0-26156"
+msgid "Has Legate Turrianus shaken the challengers beyond any hope of victory? Let them gather their wits and we'll find out!"
+msgstr ""
+"합법적 인 투 리아 누스가 승리의 희망을 초월하여 도전자들을 흔들 었습니까? 그들이 그들의 재치를 모으고 우리가 알아낼거야!-G-"
+
+#: 115740052-0-26155
+#, fuzzy
+msgctxt "115740052-0-26155"
+msgid "Magos Polus turned a snowball into an avalanche! Will the challengers try again or call it quits?"
+msgstr "Magos Polus는 눈덩이를 눈사태로 만들었습니다! 도전자가 다시 시도하거나 종료 할 것인가?-G-"
+
+#: 115740052-0-26154
+#, fuzzy
+msgctxt "115740052-0-26154"
+msgid "Ignaria Denian incinerated our challengers! Do they need a moment to cool off or are they well and truly burned?"
+msgstr ""
+"Ignaria Denian은 우리의 도전자들을 소각했습니다! 차게하는 데 시간이 필요합니까, 아니면 정말로 타 버린가요?-G-"
+
+#: 115740052-0-26153
+#, fuzzy
+msgctxt "115740052-0-26153"
+msgid "When Knight Commander Panthius delivers a beating, he does it with style! Will the challengers try again? We'll know in a moment!"
+msgstr ""
+"판 티오 기사단 사령관이 구타를 가져올 때, 그는 스타일로 그것을합니다! 도전자가 다시 시도할까요? 우리는 잠시 알게 될 것이다!-G-"
+
+#: 115740052-0-26152
+#, fuzzy
+msgctxt "115740052-0-26152"
+msgid "The Order of the Hour wins again! We'll give the challengers a moment to lick their wounds before we let them try again."
+msgstr "시간의 명령이 다시 이깁니다! 우리는 도전자들에게 우리가 다시 시도하게하기 전에 상처를 핥을 순간을 줄 것입니다.-G-"
+
+#: 115740052-0-26151
+#, fuzzy
+msgctxt "115740052-0-26151"
+msgid "The Black Dragon will make you pay for striking a servant of Akatosh!"
+msgstr "흑룡 단은 아카 토시의 하인을 치기 위해 돈을 내줄 것입니다!-G-"
+
+#: 115740052-0-26149
+#, fuzzy
+msgctxt "115740052-0-26149"
+msgid "Not all at once …. Really, you're too kind."
+msgstr "한꺼번에 .... 정말로, 당신은 너무 친절합니다.-G-"
+
+#: 115740052-0-26148
+#, fuzzy
+msgctxt "115740052-0-26148"
+msgid "I'm not sure you're really understanding the concept of empathy on this one, Kor."
+msgstr "나는 당신이 정말로이 것에 대한 공감의 개념을 이해하고 있는지 확신하지 못합니다, 코.-G-"
+
+#: 115740052-0-26147
+#, fuzzy
+msgctxt "115740052-0-26147"
+msgid "I feel sorry because he only got to die once. We should have killed him at least four times for what he did."
+msgstr "그는 단지 한 번 죽어야 만하기 때문에 미안합니다. 우리는 그가 한 일을 위해 최소한 4 번 이상 그를 죽여야했습니다.-G-"
+
+#: 115740052-0-26146
+#, fuzzy
+msgctxt "115740052-0-26146"
+msgid "How could you feel sorry about that barnicle on a mudcrab after all he did to us?"
+msgstr "그가 우리 한테 한 후에 너는 어떻게 그 흙 덩어리에 대해 미안하다고 느낄 수 있니?-G-"
+
+#: 115740052-0-26145
+#, fuzzy
+msgctxt "115740052-0-26145"
+msgid "For all the harm he caused us, I feel a little sorry for Primate Artorius."
+msgstr "그가 우리에게 끼친 해로움 때문에, 나는 영장류 Artorius에게 약간의 유감을 느낀다.-G-"
+
+#: 115740052-0-26144
+#, fuzzy
+msgctxt "115740052-0-26144"
+msgid "That was a battle for the ages! And I never got to kill someone in a Cathedral before."
+msgstr "그것은 시대의 전투였습니다! 그리고 전에 대성당에서 누군가를 죽일 필요는 없었습니다.-G-"
+
+#: 115740052-0-26143
+#, fuzzy
+msgctxt "115740052-0-26143"
+msgid "I was around since … you know, nevermind."
+msgstr "나는 주변에 있었다. .. 당신은 알고있다, 신경 쓰지 마라.-G-"
+
+#: 115740052-0-26142
+#, fuzzy
+msgctxt "115740052-0-26142"
+msgid "Are you new here?"
+msgstr "너 여기 새로 왔니?-G-"
+
+#: 115740052-0-26141
+#, fuzzy
+msgctxt "115740052-0-26141"
+msgid "Amelie Crowe."
+msgstr "아멜리 크로우.-G-"
+
+#: 115740052-0-26140
+#, fuzzy
+msgctxt "115740052-0-26140"
+msgid "Who are you?"
+msgstr "너 누구 니?-G-"
+
+#: 115740052-0-26139
+#, fuzzy
+msgctxt "115740052-0-26139"
+msgid "I heard there was some trouble at the Sanctuary. What did I miss?"
+msgstr "성역에서 문제가 있다고 들었습니다. 내가 놓친 게 무엇입니까?-G-"
+
+#: 115740052-0-26138
+#, fuzzy
+msgctxt "115740052-0-26138"
+msgid "Of course it was. Just stay away from my things if you feel the beast coming on, eh?"
+msgstr "물론 그랬다. 너 짐승이 온다고 느끼면 내 물건에서 멀리 떨어져있어?-G-"
+
+#: 115740052-0-26137
+#, fuzzy
+msgctxt "115740052-0-26137"
+msgid "No! No, I was joking. It was a joke."
+msgstr "아니! 아니, 농담 이었어. 그것은 농담.-G-"
+
+#: 115740052-0-26136
+#, fuzzy
+msgctxt "115740052-0-26136"
+msgid "I wanted to know how your hair stays braided when you transform back. You mark your territory?"
+msgstr "나는 당신이 뒤를 변형시킬 때 머리카락이 어떻게 꼰지를 알고 싶었습니다. 당신의 영토를 표시합니까?-G-"
+
+#: 115740052-0-26135
+#, fuzzy
+msgctxt "115740052-0-26135"
+msgid "No, I don't shed, nor do I chase tossed bones. Yes, I mark my territory. No, I don't know why."
+msgstr "아닙니다. 나는 흘리지 않으며 뼈를 던지지도 않습니다. 네, 내 영토를 표시합니다. 아니, 왜 그런지 모르겠다.-G-"
+
+#: 115740052-0-26134
+msgctxt "115740052-0-26134"
+msgid "I had some questions. Kor said I should ask you directly."
+msgstr "물어볼게 있어. 코르가 너한테 직접 물어보라고 했거든."
+
+#: 115740052-0-26133
+#, fuzzy
+msgctxt "115740052-0-26133"
+msgid "Good. I'll look for contracts that require the body to disappear completely."
+msgstr "좋은. 시체가 완전히 사라질 것을 요구하는 계약을 찾아 보겠습니다.-G-"
+
+#: 115740052-0-26132
+#, fuzzy
+msgctxt "115740052-0-26132"
+msgid "I'll think about it."
+msgstr "나는 그것에 대해 생각합니다.-G-"
+
+#: 115740052-0-26131
+#, fuzzy
+msgctxt "115740052-0-26131"
+msgid "No, but I believe she and the wolf inside her have reached an understanding."
+msgstr "아니,하지만 그녀와 그녀 안에있는 늑대가 이해에 도달했다고 믿습니다.-G-"
+
+#: 115740052-0-26130
+msgctxt "115740052-0-26130"
+msgid "She can control when she changes?"
+msgstr "그녀가 변신하는걸 조절할 수 있나요?"
+
+#: 115740052-0-26129
+msgctxt "115740052-0-26129"
+msgid "I think Hildegard may be ready for more … complex contracts."
+msgstr "내 생각엔 말이야, 힐데가드가 좀 더 ... 복잡한 임무를 맡게 될지도 모르겠어."
+
+#: 115740052-0-26128
+#, fuzzy
+msgctxt "115740052-0-26128"
+msgid "Oh. That … makes sense, I suppose …."
+msgstr "오. 그 말이 ... 말이 되겠지.-G-"
+
+#: 115740052-0-26127
+#, fuzzy
+msgctxt "115740052-0-26127"
+msgid "If I'd ordered your death, I would have ordered Kor's as well. But I couldn't allow our numbers to fall that low."
+msgstr ""
+"내가 당신의 죽음을 명령했다면, 나는 코르를 주문했을 것입니다. 그러나 나는 우리의 숫자가 그렇게 낮아지는 것을 허용 할 수 없었다.-G-"
+""
+
+#: 115740052-0-26126
+msgctxt "115740052-0-26126"
+msgid "Why not?"
+msgstr "왜 안되지?"
+
+#: 115740052-0-26125
+#, fuzzy
+msgctxt "115740052-0-26125"
+msgid "You're correct. I didn't."
+msgstr "당신 말이 맞아요. 나는하지 않았다.-G-"
+
+#: 115740052-0-26124
+#, fuzzy
+msgctxt "115740052-0-26124"
+msgid "Matron? You never said anything about my leaving. The time I went to Skyrim."
+msgstr "기혼 여성? 내 떠나는 것에 대해 아무 말도하지 않았어. 내가 스카이 림에 갔을 때.-G-"
+
+#: 115740052-0-26123
+#, fuzzy
+msgctxt "115740052-0-26123"
+msgid "Of course, Hilde. We'll take the contract together."
+msgstr "물론, 힐데. 우리는 계약을 함께 할 것입니다.-G-"
+
+#: 115740052-0-26122
+#, fuzzy
+msgctxt "115740052-0-26122"
+msgid "I want to hunt like I am now. Not by instinct. I want everyone to know I am a part of this family."
+msgstr "나는 지금처럼 사냥하고 싶다. 본능이 아닌. 나는 모든 사람들이 내가이 가족의 일부임을 알기를 바랍니다.-G-"
+
+#: 115740052-0-26121
+#, fuzzy
+msgctxt "115740052-0-26121"
+msgid "Matron willing, I'll join you. But why?"
+msgstr "기꺼이, 나는 당신과 함께 할 것입니다. 하지만 왜?-G-"
+
+#: 115740052-0-26120
+#, fuzzy
+msgctxt "115740052-0-26120"
+msgid "Just for a few weeks."
+msgstr "몇 주 동안.-G-"
+
+#: 115740052-0-26119
+#, fuzzy
+msgctxt "115740052-0-26119"
+msgid "Why back to Skyrim? What brought this on?"
+msgstr "Skyrim으로 돌아온 이유는 무엇입니까? 이것을 가져온 것은 무엇입니까?-G-"
+
+#: 115740052-0-26118
+#, fuzzy
+msgctxt "115740052-0-26118"
+msgid "That's an odd way to put it. But yes, that's an apt description."
+msgstr "그것은 그것을 넣는 이상한 방법입니다. 그러나 그렇습니다, 그것은 적절한 설명입니다.-G-"
+
+#: 115740052-0-26117
+#, fuzzy
+msgctxt "115740052-0-26117"
+msgid "And the Order is what, a drunk echatere with bells tied to its crest?"
+msgstr "그리고 그 명령은 무엇입니까, 술 마시는 에코 테르가 그 종소리에 묶인 종을 가지고 있습니까?-G-"
+
+#: 115740052-0-26116
+#, fuzzy
+msgctxt "115740052-0-26116"
+msgid "The Black Dragon was like a talon trying to pluck out our eyes."
+msgstr "검은 용은 우리 눈을 뽑아 내려고하는 발톱과 같았습니다.-G-"
+
+#: 115740052-0-26115
+#, fuzzy
+msgctxt "115740052-0-26115"
+msgid "You're so certain?"
+msgstr "너 확실해?-G-"
+
+#: 115740052-0-26114
+#, fuzzy
+msgctxt "115740052-0-26114"
+msgid "We'll have plenty of warning before the Order of the Hour moves against us."
+msgstr "시간 명령이 우리 앞에서 움직이기 전에 우리는 충분히 경고해야합니다.-G-"
+
+#: 115740052-0-26113
+#, fuzzy
+msgctxt "115740052-0-26113"
+msgid "No. She should have bitten out her own tongue before she betrayed our family. Void take her."
+msgstr "그녀가 우리 가족을 배반하기 전에 그녀는 자신의 혀를 물어야했다. 그녀를 데려가십시오.-G-"
+
+#: 115740052-0-26112
+#, fuzzy
+msgctxt "115740052-0-26112"
+msgid "Even Brema?"
+msgstr "심지어 브레마?-G-"
+
+#: 115740052-0-26111
+#, fuzzy
+msgctxt "115740052-0-26111"
+msgid "Green-Venom-Tongue's endess questions. Mirabelle's wicked sense of humor. I miss them all."
+msgstr "녹색 독 - 혀의 끝없는 질문. 미라벨의 사악한 유머 감각. 나는 그들을 모두 그리워.-G-"
+
+#: 115740052-0-26110
+#, fuzzy
+msgctxt "115740052-0-26110"
+msgid "We're the Dark Brotherhood. It's what we do."
+msgstr "우리는 다크 브라더 후드입니다. 그것은 우리가하는 일입니다.-G-"
+
+#: 115740052-0-26109
+#, fuzzy
+msgctxt "115740052-0-26109"
+msgid "I'm all right, Kor. It's just … everyone around us is dying."
+msgstr "나 괜찮아, 코. 그냥 ... 우리 주변의 모든 사람들이 죽어 가고 있습니다.-G-"
+
+#: 115740052-0-26108
+#, fuzzy
+msgctxt "115740052-0-26108"
+msgid "You're always going on about an opportunity for vivisection, aren't you? Go, find her. I told her to wait."
+msgstr "당신은 생체 해부를위한 기회에 관해서 항상하고 있죠, 그렇죠? 가서 그녀를 찾아. 나는 그녀에게 기다리라고 말했다.-G-"
+
+#: 115740052-0-26107
+#, fuzzy
+msgctxt "115740052-0-26107"
+msgid "Ha! That was his last mistake."
+msgstr "하아! 그것은 그의 마지막 실수였습니다.-G-"
+
+#: 115740052-0-26106
+#, fuzzy
+msgctxt "115740052-0-26106"
+msgid "He stabbed Grazda."
+msgstr "그는 Grazda를 찔렀다.-G-"
+
+#: 115740052-0-26105
+#, fuzzy
+msgctxt "115740052-0-26105"
+msgid "What's the matter with that? We need new recruits."
+msgstr "그게 무슨 상관이야? 새로운 신병이 필요합니다.-G-"
+
+#: 115740052-0-26104
+#, fuzzy
+msgctxt "115740052-0-26104"
+msgid "Some fool just walked into Anvil, stabbed the first person he saw, and demanded he be allowed to join us."
+msgstr "어떤 바보가 방금 앤빌로 들어 와서 그가 본 첫 번째 사람을 찔렀다. 그는 우리와 함께 할 것을 요구했다.-G-"
+
+#: 115740052-0-26103
+#, fuzzy
+msgctxt "115740052-0-26103"
+msgid "Of course, Matron."
+msgstr "물론, 매트 론.-G-"
+
+#: 115740052-0-26102
+#, fuzzy
+msgctxt "115740052-0-26102"
+msgid "I don't know what you mean."
+msgstr "무슨 뜻인지 모르겠다.-G-"
+
+#: 115740052-0-26101
+#, fuzzy
+msgctxt "115740052-0-26101"
+msgid "A shame—it was lovely."
+msgstr "부끄러움 - 그것은 아름다웠다.-G-"
+
+#: 115740052-0-26100
+#, fuzzy
+msgctxt "115740052-0-26100"
+msgid "I was doing nothing of the sort."
+msgstr "나는 그 어떤 것도하지 않았다.-G-"
+
+#: 115740052-0-26099
+#, fuzzy
+msgctxt "115740052-0-26099"
+msgid "Were you humming?"
+msgstr "너 허밍 했니?-G-"
+
+#: 115740052-0-26098
+#, fuzzy
+msgctxt "115740052-0-26098"
+msgid "Throwing daggers … at targets. With the right twist of the wrist, you can drive them directly into the brain."
+msgstr "대거 던지기 ... 목표물에. 손목의 올바른 비틀기 때문에, 당신은 그들을 두뇌에 직접 몰 수 있습니다.-G-"
+
+#: 115740052-0-26097
+#, fuzzy
+msgctxt "115740052-0-26097"
+msgid "No. I meant, what do you miss the most about taking contracts?"
+msgstr "아뇨, 계약을 맺는 것에 대해 무엇을 놓치셨습니까?-G-"
+
+#: 115740052-0-26096
+#, fuzzy
+msgctxt "115740052-0-26096"
+msgid "The target, by a thumb's width."
+msgstr "엄지의 폭에 의한 타겟입니다.-G-"
+
+#: 115740052-0-26095
+#, fuzzy
+msgctxt "115740052-0-26095"
+msgid "What do you miss the most?"
+msgstr "가장 그리워하는 점은 무엇입니까?-G-"
+
+#: 115740052-0-26094
+#, fuzzy
+msgctxt "115740052-0-26094"
+msgid "Astara says I can accept contracts again, but I don't think I'm fully recovered. My bladework feels sloppy."
+msgstr ""
+"Astara는 내가 계약을 다시 받아 들일 수 있다고 말하지만 나는 완전히 회복 된 것 같지 않습니다. 내 bladework 기분이 "
+"갑자기.-G-"
+
+#: 115740052-0-26093
+#, fuzzy
+msgctxt "115740052-0-26093"
+msgid "I can understand that."
+msgstr "나는 그것을 이해할 수있다.-G-"
+
+#: 115740052-0-26092
+#, fuzzy
+msgctxt "115740052-0-26092"
+msgid "Here, I kill for gold. For a higher purpose. For my family. Not because I feel I must."
+msgstr "여기, 나는 금을 죽인다. 더 높은 목적을 위해. 나의 가족을 위해서. 내가해야한다고 느껴서가 아니야.-G-"
+
+#: 115740052-0-26091
+#, fuzzy
+msgctxt "115740052-0-26091"
+msgid "But you're proud of all … this? What is so different?"
+msgstr "하지만 자네는 자랑 스럽다. 무엇이 다른가?-G-"
+
+#: 115740052-0-26090
+#, fuzzy
+msgctxt "115740052-0-26090"
+msgid "Many choices I'm not exactly proud of."
+msgstr "내가 자랑스럽지 않은 많은 선택.-G-"
+
+#: 115740052-0-26089
+#, fuzzy
+msgctxt "115740052-0-26089"
+msgid "You don't talk much about life before the Dark Brotherhood. What led you here?"
+msgstr ""
+"당신은 다크 브라더 후드 (Dark Brotherhood) 이전에 삶에 대해 많이 말하지 않습니다. 너를 이끌었던 게 뭐야?-G-"
+
+#: 115740052-0-26088
+#, fuzzy
+msgctxt "115740052-0-26088"
+msgid "Don't worry. They'll eventually run out of throats."
+msgstr "걱정마. 그들은 결국 목구멍을 다 쓸 것입니다.-G-"
+
+#: 115740052-0-26087
+#, fuzzy
+msgctxt "115740052-0-26087"
+msgid "Cut one chanter's throat, and another two spring up to take their place."
+msgstr "한 목사의 목구멍을 자르고 다른 두 명은 자리에 앉으십시오.-G-"
+
+#: 115740052-0-26086
+#, fuzzy
+msgctxt "115740052-0-26086"
+msgid "All any of them talk about these days is the Dark Brotherhood."
+msgstr "요즘에 대해 이야기하는 사람은 다크 브라더 후드입니다.-G-"
+
+#: 115740052-0-26085
+#, fuzzy
+msgctxt "115740052-0-26085"
+msgid "And the chanters? The sermonizers?"
+msgstr "그리고 성가대들? 설교자 요?-G-"
+
+#: 115740052-0-26084
+#, fuzzy
+msgctxt "115740052-0-26084"
+msgid "No further word about the Black Dragon."
+msgstr "블랙 드래곤에 대한 더 이상의 말은 없습니다.-G-"
+
+#: 115740052-0-26083
+#, fuzzy
+msgctxt "115740052-0-26083"
+msgid "We speak the same tongue, yet it always sounds like a different language."
+msgstr "우리는 같은 언어를 사용하지만, 항상 다른 언어처럼 들립니다.-G-"
+
+#: 115740052-0-26082
+#, fuzzy
+msgctxt "115740052-0-26082"
+msgid "That's why I'm recording everything. In case I need to treat a wounded Sanctuary."
+msgstr "그래서 내가 모든 것을 녹음하는거야. 상처받은 성역을 치료해야 할 경우에 대비해.-G-"
+
+#: 115740052-0-26081
+#, fuzzy
+msgctxt "115740052-0-26081"
+msgid "But a Sanctuary isn't an Argonian tail. It won't grow back."
+msgstr "그러나 성역은 아르고 니언 꼬리가 아닙니다. 그것은 다시 자라지 않을 것입니다.-G-"
+
+#: 115740052-0-26080
+#, fuzzy
+msgctxt "115740052-0-26080"
+msgid "Because it's safer to remove a gangrenous tail than to let the wound fester."
+msgstr "상처를 훼손시키는 것보다 흉악 꼬리를 제거하는 것이 안전하기 때문에.-G-"
+
+#: 115740052-0-26079
+#, fuzzy
+msgctxt "115740052-0-26079"
+msgid "I don't see why Sanctuaries get purified. It seems so wasteful."
+msgstr "나는 성역들이 왜 정화되는지를 보지 못했다. 너무 낭비가 보인다.-G-"
+
+#: 115740052-0-26078
+msgctxt "115740052-0-26078"
+msgid "I don't know why I bother trying."
+msgstr "내가 왜 노력하고 있는지 모르겠네."
+
+#: 115740052-0-26077
+msgctxt "115740052-0-26077"
+msgid "Extended family."
+msgstr "확대 가족."
+
+#: 115740052-0-26076
+msgctxt "115740052-0-26076"
+msgid "Then what am I, exactly?"
+msgstr "그럼 난 뭐지?"
+
+#: 115740052-0-26075
+msgctxt "115740052-0-26075"
+msgid "Do you think you can speak to me the way Mirabelle did? She was family."
+msgstr "미라벨이 나한테 했던 것처럼 날 대할 수 있을 거라고 생각해? 미라벨은 가족이였어."
+
+#: 115740052-0-26074
+msgctxt "115740052-0-26074"
+msgid "You don't seem like you belong here. You're too much like a field mouse."
+msgstr "넌 여기 어울리지 않아. 넌 너무 들쥐 같거든."
+
+#: 115740052-0-26073
+msgctxt "115740052-0-26073"
+msgid "I … I see. I'll just make a note of that …."
+msgstr "아 ... 알겠습니다. 그걸 메모해 두도록 하지요."
+
+#: 115740052-0-26072
+msgctxt "115740052-0-26072"
+msgid "Astara? Why are you staring at me?"
+msgstr "아스타라? 왜 저를 쳐다보시는 거죠?"
+
+#: 115740052-0-26071
+msgctxt "115740052-0-26071"
+msgid "That sounds oddly specific. Have you thought about who you would kill first?"
+msgstr "이상하게 들릴 지 모르겠지만, 누구를 가장 먼저 죽일 지 생각해 보신 적 있으십니까?"
+
+#: 115740052-0-26070
+msgctxt "115740052-0-26070"
+msgid "If the Black Hand ordered it, I'd slit the throats of everyone here."
+msgstr "블랙 핸드가 명령했다면, 여기 있는 모든 이의 목구멍을 찢었을 거다."
+
+#: 115740052-0-26069
+msgctxt "115740052-0-26069"
+msgid "Would you ever purify this Sanctuary?"
+msgstr "이 성역을 정화하신 적 있으십니까?"
+
+#: 115740052-0-26068
+#, fuzzy
+msgctxt "115740052-0-26068"
+msgid "No, that was the other time. I was talking about the time I set their hut on fire before I took my leave."
+msgstr "아니, 다른 시간이었다. 나는 내가 떠나기 전에 내가 그들의 오두막을 불에 태우는 것에 대해 이야기하고 있었다.-G-"
+
+#: 115740052-0-26067
+#, fuzzy
+msgctxt "115740052-0-26067"
+msgid "The ones you fed to the crocodiles?"
+msgstr "네가 악어 먹이를 먹은거야?-G-"
+
+#: 115740052-0-26066
+#, fuzzy
+msgctxt "115740052-0-26066"
+msgid "Enough of this! Let's talk about something fun. Did I tell you about the time I spent the night with three Wyrd Sisters?"
+msgstr ""
+"그만! 재미있는 것에 대해 이야기 해 봅시다. 내가 3 명의 Wyrd 시스터즈와 함께 밤을 보냈던 시간에 대해서 내가 말 했니?-G-"
+
+#: 115740052-0-26065
+#, fuzzy
+msgctxt "115740052-0-26065"
+msgid "Let's just hope it's the last."
+msgstr "마지막으로되기를 바랍니다.-G-"
+
+#: 115740052-0-26064
+#, fuzzy
+msgctxt "115740052-0-26064"
+msgid "Mirabelle. That's another death we owe the Black Dragon."
+msgstr "미라벨. 그것은 우리가 블랙 드래곤에게 빚지고있는 또 다른 죽음입니다.-G-"
+
+#: 115740052-0-26063
+#, fuzzy
+msgctxt "115740052-0-26063"
+msgid "Have you … have you been reading my book, Tanek?"
+msgstr "너 ... 너 내 책을 읽고 있니, 타넥?-G-"
+
+#: 115740052-0-26062
+#, fuzzy
+msgctxt "115740052-0-26062"
+msgid "I bet that's not all there is in that book. Anything good about Mirabelle or Hildegard? Maybe the Matron?"
+msgstr "그 책에있는 것이 전부는 아닐 것입니다. 미라벨 또는 힐데가르트에 대해 좋은 점이 있습니까? 어쩌면 매트 론?-G-"
+
+#: 115740052-0-26061
+#, fuzzy
+msgctxt "115740052-0-26061"
+msgid "Among other things. It's good to keep track of the many ways to honor Sithis and the Night Mother."
+msgstr "다른 것들 사이. Sithis와 Night Mother를 존중하는 다양한 방법을 추적하는 것이 좋습니다.-G-"
+
+#: 115740052-0-26060
+#, fuzzy
+msgctxt "115740052-0-26060"
+msgid "You write down how you kill people?"
+msgstr "당신은 어떻게 사람들을 죽이는 지 적어 놓았습니까?-G-"
+
+#: 115740052-0-26059
+#, fuzzy
+msgctxt "115740052-0-26059"
+msgid "Let me just finish recording the details of my latest contract … there!"
+msgstr "최신 계약서의 세부 사항을 녹음하는 것을 끝내자 ... 거기에!-G-"
+
+#: 115740052-0-26058
+msgctxt "115740052-0-26058"
+msgid "If the job was done right? Hopefully nothing at all."
+msgstr "일이 제대로 끝났다면? 아무 것도 없길 바라는데."
+
+#: 115740052-0-26057
+msgctxt "115740052-0-26057"
+msgid "I wonder how the Order feels about the Assassin rampaging through their home."
+msgstr "암살자가 자신의 집에서 날뛰었으니 결사대가 어떻게 생각할 지 궁금하네."
+
+#: 115740052-0-26056
+msgctxt "115740052-0-26056"
+msgid "Many people erroneously follow the Eight. That doesn't mean they act in unison."
+msgstr "많은 사람들이 에잇 디바인을 잘못 따르고 있지. 그렇다고 해서 그들이 한 마음으로 움직인다는 건 아니야."
+
+#: 115740052-0-26055
+msgctxt "115740052-0-26055"
+msgid "They both worship Akatosh. Isn't that enough?"
+msgstr "놈들 모두 아카토쉬를 숭배하지. 그걸로 충분하지 않아?"
+
+#: 115740052-0-26054
+msgctxt "115740052-0-26054"
+msgid "I'm still trying to understand the Order of the Hour's connection to the chanters."
+msgstr "시간 결사대와 영창자들이 무슨 연관이 있는지 이해하려고 아직 노력하는 중이야."
+
+#: 115740052-0-26053
+#, fuzzy
+msgctxt "115740052-0-26053"
+msgid "I'll make note of your failed attempt at sarcasm."
+msgstr "풍자로 실패한 시도를 기록 할 것입니다.-G-"
+
+#: 115740052-0-26052
+#, fuzzy
+msgctxt "115740052-0-26052"
+msgid "It was sarcasm. You should spend more time around Tanek."
+msgstr "풍자 였어. 타넥 주변에서 더 많은 시간을 보내야합니다.-G-"
+
+#: 115740052-0-26051
+#, fuzzy
+msgctxt "115740052-0-26051"
+msgid "She doesn't. She means that the Sanctuary's profits dip if there are less of us around."
+msgstr "그녀는 그렇지 않습니다. 그녀는 주변에 우리가 적다면 성소의 이익이 떨어지는 것을 의미합니다.-G-"
+
+#: 115740052-0-26050
+#, fuzzy
+msgctxt "115740052-0-26050"
+msgid "I didn't think she cared."
+msgstr "나는 그녀가 신경 쓰지 않았다고 생각했다.-G-"
+
+#: 115740052-0-26049
+#, fuzzy
+msgctxt "115740052-0-26049"
+msgid "I won't have another Brother or Sister fall to the Black Dragon. Be ever vigilant on your contracts."
+msgstr "블랙 드래곤에 다른 형제 나 자매가 빠지게하지 않겠습니다. 당신의 계약을 항상 경계하십시오.-G-"
+
+#: 115740052-0-26048
+#, fuzzy
+msgctxt "115740052-0-26048"
+msgid "There's no helping some people."
+msgstr "어떤 사람들에게는 도움이되지 않습니다.-G-"
+
+#: 115740052-0-26047
+#, fuzzy
+msgctxt "115740052-0-26047"
+msgid "By the time I do, the Black Dragon will have killed most of you."
+msgstr "내가 할 때까지, 블랙 드래곤이 당신 대부분을 죽였을 것입니다.-G-"
+
+#: 115740052-0-26046
+msgctxt "115740052-0-26046"
+msgid "What do you mean?"
+msgstr "무슨 말을 하는 거지?"
+
+#: 115740052-0-26045
+#, fuzzy
+msgctxt "115740052-0-26045"
+msgid "Even if I wanted to do so, why would I bother?"
+msgstr "내가 그렇게하고 싶었는데 왜 내가 귀찮게 할까?-G-"
+
+#: 115740052-0-26044
+#, fuzzy
+msgctxt "115740052-0-26044"
+msgid "You should try harder to fit in. You don't need to be friendly, but we need to know you fight at our backs."
+msgstr ""
+"당신은 안으로 들어 오기 위해 더 열심히 노력해야합니다. 당신은 친절 할 필요는 없지만, 우리는 당신이 우리의 뒤에서 싸우는 것을 "
+"알아야합니다.-G-"
+
+#: 115740052-0-26043
+#, fuzzy
+msgctxt "115740052-0-26043"
+msgid "What's not true?"
+msgstr "사실이 아닌가요?-G-"
+
+#: 115740052-0-26042
+#, fuzzy
+msgctxt "115740052-0-26042"
+msgid "That's simply not true!"
+msgstr "그건 사실이 아닙니다!-G-"
+
+#: 115740052-0-26041
+#, fuzzy
+msgctxt "115740052-0-26041"
+msgid "Ever since that chanter died in Anvil, you gained a shadow."
+msgstr "그 성직자가 앤빌에서 죽은 이후로, 당신은 그림자를 얻었습니다.-G-"
+
+#: 115740052-0-26040
+msgctxt "115740052-0-26040"
+msgid "What do you mean?"
+msgstr "무슨 말을 하는 거지?"
+
+#: 115740052-0-26039
+msgctxt "115740052-0-26039"
+msgid "Did you know Kor has begun to follow you?"
+msgstr "코르가 널 따라하기 시작한 거 알고 있어?"
+
+#: 115740052-0-26038
+msgctxt "115740052-0-26038"
+msgid "You spend too much time with Tanek."
+msgstr "넌 타넥과 너무 많은 시간을 보냈어."
+
+#: 115740052-0-26037
+msgctxt "115740052-0-26037"
+msgid "I've noted your complete lack of understanding in my book."
+msgstr "제 책에 당신은 이해력이 완전히 결핍되어 있다고 쓰여 있군요."
+
+#: 115740052-0-26036
+msgctxt "115740052-0-26036"
+msgid "But if you could, wouldn't you want to prevent that from happening again?"
+msgstr "하지만 네가 말할 수 있다면, 그런 일이 다시 일어나는 걸 막고 싶지 않아?"
+
+#: 115740052-0-26035
+msgctxt "115740052-0-26035"
+msgid "The one the Black Hand purified? I don't know, Brother. Why don't I speak of it?"
+msgstr "블랙 핸드가 정화했던 성역 말입니까? 모르겠군요, 형제여. 제가 왜 거기에 대해 말하지 않겠습니까?"
+
+#: 115740052-0-26034
+msgctxt "115740052-0-26034"
+msgid "Why don't you speak about your old Sanctuary?"
+msgstr "왜 옛 성역에 대해 말하지 않는 거야?"
+
+#: 115740052-0-26033
+#, fuzzy
+msgctxt "115740052-0-26033"
+msgid "Forget I asked."
+msgstr "나는 잊어 버렸다.-G-"
+
+#: 115740052-0-26032
+#, fuzzy
+msgctxt "115740052-0-26032"
+msgid "I … no, I don't know that. But I could tell you how many people you've eaten since we took you in."
+msgstr "나는 ... 모르겠다. 하지만 우리가 당신을 데려온 이후로 얼마나 많은 사람들을 먹었는지 말할 수있었습니다.-G-"
+
+#: 115740052-0-26031
+#, fuzzy
+msgctxt "115740052-0-26031"
+msgid "Kor says I've bitten him when I'm a wolf. Is that … do you know if that's true?"
+msgstr "코는 내가 늑대 일 때 그를 물 렸다고 말합니다. 그게 사실인지 알아?-G-"
+
+#: 115740052-0-26030
+#, fuzzy
+msgctxt "115740052-0-26030"
+msgid "Why do you ask?"
+msgstr "왜 묻는거야?-G-"
+
+#: 115740052-0-26029
+#, fuzzy
+msgctxt "115740052-0-26029"
+msgid "Your book. It contains secret knowledge, doesn't it?"
+msgstr "당신의 책. 그것은 비밀 지식을 포함하고 있지 않습니까?-G-"
+
+#: 115740052-0-26028
+#, fuzzy
+msgctxt "115740052-0-26028"
+msgid "We should do what we must to honor the Night Mother. Never forget this, Hilde."
+msgstr "우리는 야간 어머니를 공경하기 위해해야 ​​할 일을해야합니다. 이것을 결코 잊지 마십시오, 힐데.-G-"
+
+#: 115740052-0-26027
+#, fuzzy
+msgctxt "115740052-0-26027"
+msgid "That's … should we do that?"
+msgstr "그게 ... 우리가 그걸해야합니까?-G-"
+
+#: 115740052-0-26026
+#, fuzzy
+msgctxt "115740052-0-26026"
+msgid "Sithis provides an opportunity. Some contracts may be easier to complete if we disguise ourselves as Red Sails."
+msgstr "Sithis는 기회를 제공합니다. 어떤 계약은 우리가 Red Sails로 위장하면 완료하기가 더 쉽습니다.-G-"
+
+#: 115740052-0-26025
+msgctxt "115740052-0-26025"
+msgid "What does that mean?"
+msgstr "그게 무슨 소리야?"
+
+#: 115740052-0-26024
+#, fuzzy
+msgctxt "115740052-0-26024"
+msgid "The Red Sails have lost their bluster. Without the Pirate Queen to lead them, they've begun to scatter."
+msgstr "붉은 돛이 몹시 분주 해졌습니다. 해적 여왕이 그들을 이끌지 않으면 그들은 흩어지기 시작했습니다.-G-"
+
+#: 115740052-0-26023
+#, fuzzy
+msgctxt "115740052-0-26023"
+msgid "Of course it isn't."
+msgstr "물론 그렇지 않습니다.-G-"
+
+#: 115740052-0-26022
+#, fuzzy
+msgctxt "115740052-0-26022"
+msgid "I deserve to be sent after the Black Dragon. This isn't the last you'll hear of it!"
+msgstr "블랙 드래곤을 보냈어야합니다. 이것은 당신이 듣게 될 마지막 것이 아닙니다!-G-"
+
+#: 115740052-0-26021
+#, fuzzy
+msgctxt "115740052-0-26021"
+msgid "Enough."
+msgstr "충분히.-G-"
+
+#: 115740052-0-26020
+#, fuzzy
+msgctxt "115740052-0-26020"
+msgid "You think I can't avenge a fallen Brother?"
+msgstr "나는 타락한 형제에게 복수 할 수 없다고 생각하니?-G-"
+
+#: 115740052-0-26019
+#, fuzzy
+msgctxt "115740052-0-26019"
+msgid "I don't want to hear another word about this."
+msgstr "나는 이것에 대해 다른 말을 듣고 싶지 않다.-G-"
+
+#: 115740052-0-26018
+#, fuzzy
+msgctxt "115740052-0-26018"
+msgid "I understand. You name yourself the Black Dragon to frighten superstitious fools. Thanks, Hilde."
+msgstr "이해 했어. 당신은 미신적 인 바보들을 두렵게하기 위해 블랙 드래곤이라고 부릅니다. 고마워, 힐데.-G-"
+
+#: 115740052-0-26017
+#, fuzzy
+msgctxt "115740052-0-26017"
+msgid "One day they'll return and burn the world to cinder."
+msgstr "언젠가 그들은 돌아와 세상을 잿더미에 태울 것입니다.-G-"
+
+#: 115740052-0-26016
+#, fuzzy
+msgctxt "115740052-0-26016"
+msgid "Maybe once, but they're all dead now."
+msgstr "어쩌면 한 번,하지만 그들은 모두 죽었어.-G-"
+
+#: 115740052-0-26015
+#, fuzzy
+msgctxt "115740052-0-26015"
+msgid "Dragons aren't myth. They're real."
+msgstr "용은 신화가 아닙니다. 그들은 진짜입니다.-G-"
+
+#: 115740052-0-26014
+#, fuzzy
+msgctxt "115740052-0-26014"
+msgid "Black Dragon. What fool names herself after a mythical creature?"
+msgstr "검은 용. 어떤 바보가 신화 적 창조체 뒤에 이름을 지었습니까?-G-"
+
+#: 115740052-0-26013
+#, fuzzy
+msgctxt "115740052-0-26013"
+msgid "Tell me something I don't know."
+msgstr "내가 모르는 뭔가를 말해줘.-G-"
+
+#: 115740052-0-26012
+#, fuzzy
+msgctxt "115740052-0-26012"
+msgid "How you present yourself is important. Best to appear harmless without and disguise the killer within."
+msgstr "자신을 어떻게 표현할 것인가가 중요합니다. 없이 살인자를 위장하고 해를 끼치 지 않는 것이 가장 좋습니다.-G-"
+
+#: 115740052-0-26011
+#, fuzzy
+msgctxt "115740052-0-26011"
+msgid "But … I don't want to."
+msgstr "하지만 ... 나는 싫어.-G-"
+
+#: 115740052-0-26010
+#, fuzzy
+msgctxt "115740052-0-26010"
+msgid "You should wear nicer clothes."
+msgstr "더 좋은 옷을 입어야합니다.-G-"
+
+#: 115740052-0-26009
+#, fuzzy
+msgctxt "115740052-0-26009"
+msgid "Why are you staring at me?"
+msgstr "너 나 왜 쳐다보고있어?-G-"
+
+#: 115740052-0-26008
+#, fuzzy
+msgctxt "115740052-0-26008"
+msgid "The look on their faces before they all dropped? It really took the sting away from splitting our cut."
+msgstr "그들 모두가 떨어지기 전에 그들의 얼굴 표정? 우리의 몫을 나누는 일은 정말로 훔쳐갔습니다.-G-"
+
+#: 115740052-0-26007
+msgctxt "115740052-0-26007"
+msgid """To our health and family, may they last for countless generations."""
+msgstr ""
+
+#: 115740052-0-26006
+#, fuzzy
+msgctxt "115740052-0-26006"
+msgid "And then she called for a toast! What was it she said?"
+msgstr "그리고 그녀는 건배를 요청했습니다! 그녀는 무엇을 말 했는가?-G-"
+
+#: 115740052-0-26005
+#, fuzzy
+msgctxt "115740052-0-26005"
+msgid "I remember you putting poison in five different dinner glasses because you didn't know which one was hers."
+msgstr "네가 어떤 여자인지는 몰랐기 때문에 다섯 가지 저녁 식사 잔에 독을 넣는 것을 기억한다.-G-"
+
+#: 115740052-0-26004
+#, fuzzy
+msgctxt "115740052-0-26004"
+msgid "Do you remember the first contract we took together? That High Elf matron from Summerset?"
+msgstr "우리가 처음 만난 계약을 기억하니? 서머셋에서 온 엘프 장신구?-G-"
+
+#: 115740052-0-26003
+#, fuzzy
+msgctxt "115740052-0-26003"
+msgid "I do prefer a challenge. Wait, where are you going? Don't make me hobble after you!"
+msgstr "나는 도전을 선호한다. 잠깐, 어디 가니? 너를 돌보지 마라.-G-"
+
+#: 115740052-0-26002
+#, fuzzy
+msgctxt "115740052-0-26002"
+msgid "You can barely stand, you fetcher."
+msgstr "너는 간신히 설 수있다.-G-"
+
+#: 115740052-0-26001
+#, fuzzy
+msgctxt "115740052-0-26001"
+msgid "And I could assume you're an intruder, stick a dagger through your ribs, and feed your corpse to Hildegard."
+msgstr "그리고 네가 침입자라고 생각할 수도 있고, 갈비뼈로 단검을 찔러서 시체를 힐데가르트에게 먹일 수도있다.-G-"
+
+#: 115740052-0-26000
+#, fuzzy
+msgctxt "115740052-0-26000"
+msgid "I could ask the same question of you."
+msgstr "나는 너에게 같은 질문을 할 수있다.-G-"
+
+#: 115740052-0-25999
+#, fuzzy
+msgctxt "115740052-0-25999"
+msgid "Who are you?"
+msgstr "너 누구 니?-G-"
+
+#: 115740052-0-25998
+#, fuzzy
+msgctxt "115740052-0-25998"
+msgid "As soon as I heard. I fear we've awakened a sleeping giant. May Sithis blind its eyes."
+msgstr "내가 듣 자마자. 나는 우리가 자고있는 거인을 깨웠다는 것을 두려워한다. Sithis 눈을 장님.-G-"
+
+#: 115740052-0-25997
+#, fuzzy
+msgctxt "115740052-0-25997"
+msgid "Truly? Have you told Astara?"
+msgstr "진실로? 아스타라는 말 했니?-G-"
+
+#: 115740052-0-25996
+#, fuzzy
+msgctxt "115740052-0-25996"
+msgid "They aren't afraid, they're angry. They're openly calling for the destruction of the Dark Brotherhood."
+msgstr "그들은 두려워하지 않고 화가났다. 그들은 공개적으로 다크 브라더 후드의 파괴를 요구하고 있습니다.-G-"
+
+#: 115740052-0-25995
+#, fuzzy
+msgctxt "115740052-0-25995"
+msgid "Because it happened in the Chapel of Dibella? Interesting, I'll make a note of their fear."
+msgstr "디벨 라 예배당에서 그런 일이 있었기 때문에? 재미있게, 나는 그들의 두려움을 기록 할 것이다.-G-"
+
+#: 115740052-0-25994
+#, fuzzy
+msgctxt "115740052-0-25994"
+msgid "The Initiate's killing of Chanter Nemus has the rest of the chanters out in force."
+msgstr "Initiate가 Chanter Nemus를 죽인 것은 나머지 Chanter를 강제로 퇴출시킵니다.-G-"
+
+#: 115740052-0-25993
+#, fuzzy
+msgctxt "115740052-0-25993"
+msgid "For what the Initiate told me, the chanter learned his lesson. Briefly."
+msgstr "입문자가 나에게 말한 것을 위해, 주인은 그의 교훈을 배웠다. 간단히.-G-"
+
+#: 115740052-0-25992
+#, fuzzy
+msgctxt "115740052-0-25992"
+msgid "A lesson Chanter Nemus will never learn."
+msgstr "Chanter Nemus의 수업은 결코 배우지 않을 것입니다.-G-"
+
+#: 115740052-0-25991
+#, fuzzy
+msgctxt "115740052-0-25991"
+msgid "True. But you can't learn from mistakes until you make them."
+msgstr "참된. 그러나 당신이 실수 할 때까지는 실수로 배울 수 없습니다.-G-"
+
+#: 115740052-0-25990
+#, fuzzy
+msgctxt "115740052-0-25990"
+msgid "Thank you, but … I endangered you, the Initiate, and myself. That horrible chanter lead me astray and I let him."
+msgstr ""
+"고마워요,하지만 ... 당신과 Initiate, 그리고 나 자신을 위험에 빠뜨 렸습니다. 그 끔찍한 성가대가 나를 잘못 이끌어줬고 나는 "
+"그를 풀어 줬다.-G-"
+
+#: 115740052-0-25989
+#, fuzzy
+msgctxt "115740052-0-25989"
+msgid "Don't blame yourself about the Silver Dawn. I'm proud of you, Hilde. You were trying to protect the family."
+msgstr "은 새벽에 대해 자신을 비난하지 마십시오. 네가 자랑 스럽다. 힐데. 당신은 가족을 보호하려고했습니다.-G-"
+
+#: 115740052-0-25988
+#, fuzzy
+msgctxt "115740052-0-25988"
+msgid "Oh, I see! You're practicing feigned outrage? I'll leave you to it."
+msgstr "오, 알았어! 사기성 분노를 실천하고 계시나요? 나는 너에게 그걸 맡길거야.-G-"
+
+#: 115740052-0-25987
+#, fuzzy
+msgctxt "115740052-0-25987"
+msgid "You shall never speak of Cimbar again."
+msgstr "당신은 결코 다시 Cimbar에 대해 말하지 않을 것입니다.-G-"
+
+#: 115740052-0-25986
+#, fuzzy
+msgctxt "115740052-0-25986"
+msgid "What? He had his fantasy and you had a pet you lured away from Durisa."
+msgstr "뭐? 그는 환상을 가지고 있었고 당신은 두리사 (Durisa)에서 유혹 한 애완 동물을 가지고있었습니다.-G-"
+
+#: 115740052-0-25985
+#, fuzzy
+msgctxt "115740052-0-25985"
+msgid "Explain yourself, Brother."
+msgstr "형제 자신을 설명하십시오.-G-"
+
+#: 115740052-0-25984
+#, fuzzy
+msgctxt "115740052-0-25984"
+msgid "You don't need to make such a show of missing Cimbar."
+msgstr "Cimbar가 누락 된 쇼를 만들 필요가 없습니다.-G-"
+
+#: 115740052-0-25983
+#, fuzzy
+msgctxt "115740052-0-25983"
+msgid "If I wanted a hairy idiot warming my bed, I'd toss it into Hildegard's cell."
+msgstr "나는 털이 바보가 내 침대를 데우고 싶으면 힐데가르트의 방에 던져 버릴거야.-G-"
+
+#: 115740052-0-25982
+#, fuzzy
+msgctxt "115740052-0-25982"
+msgid "There's always Kor. From everything I hear, Nords aren't that selective."
+msgstr "항상 Kor가 있습니다. 내가들은 모든 것에서, 노드는 그렇게 선택 적이 지 않습니다.-G-"
+
+#: 115740052-0-25981
+#, fuzzy
+msgctxt "115740052-0-25981"
+msgid "And I thought you avoided entanglements with anyone you called ""Sister."""
+msgstr "그리고 네가 '누이'라고 부른 사람과의 얽힘을 피했다고 생각 했어.-G-"
+
+#: 115740052-0-25980
+#, fuzzy
+msgctxt "115740052-0-25980"
+msgid "I thought you preferred me horizontal."
+msgstr "네가 나를 수평 적으로 선호한다고 생각 했어.-G-"
+
+#: 115740052-0-25979
+#, fuzzy
+msgctxt "115740052-0-25979"
+msgid "It's good to see you upright. I never realized how weak you looked lying in a cot."
+msgstr "너를 똑바로 만나는 것이 좋다. 나는 당신이 침대에 누워있는 모습이 얼마나 약한 지 결코 깨닫지 못했습니다.-G-"
+
+#: 115740052-0-25978
+#, fuzzy
+msgctxt "115740052-0-25978"
+msgid "As a matter of fact, I was just going to sharpen my favorite daggers before I packed them."
+msgstr "사실, 나는 그들을 포장하기 전에 단지 내가 좋아하는 단도를 날카롭게 할 예정이었다.-G-"
+
+#: 115740052-0-25977
+#, fuzzy
+msgctxt "115740052-0-25977"
+msgid "Don't you have murder to commit somewhere? Preferrably in Orsinium?"
+msgstr "어디 론가 살인을 저 지르지 않았 니? Orsinium에서 preferrably?-G-"
+
+#: 115740052-0-25976
+#, fuzzy
+msgctxt "115740052-0-25976"
+msgid "Someone has to ask the tough questions."
+msgstr "누군가는 어려운 질문을해야합니다.-G-"
+
+#: 115740052-0-25975
+#, fuzzy
+msgctxt "115740052-0-25975"
+msgid "Is this really a conversation you assume I want to be having?"
+msgstr "이 대화는 정말로 내가 갖고 싶다고 생각하는 대화입니까?-G-"
+
+#: 115740052-0-25974
+#, fuzzy
+msgctxt "115740052-0-25974"
+msgid "I wonder, why did they torture Cimbar before they killed him?"
+msgstr "나는 왜 그들이 그를 죽이기 전에 왜 Cimbar를 고문 했습니까?-G-"
+
+#: 115740052-0-25973
+#, fuzzy
+msgctxt "115740052-0-25973"
+msgid "Oh, this is just too cute for me to stand. Now I need to kill someone. Elam, give me a contract!"
+msgstr "오, 이건 너무 귀여워서는 안 돼. 이제 나는 누군가를 죽일 필요가있어. 엘람, 계약 해줘!-G-"
+
+#: 115740052-0-25972
+#, fuzzy
+msgctxt "115740052-0-25972"
+msgid "I can stand up for myself. You know that, right?"
+msgstr "나는 나 자신을 위해 참을 수있다. 너도 알지?-G-"
+
+#: 115740052-0-25971
+#, fuzzy
+msgctxt "115740052-0-25971"
+msgid "Would you prefer I tease you, oh large and boisterous one?"
+msgstr "내가 너를 괴롭히는 걸 좋아하니, 아, 거대하고 거칠어?-G-"
+
+#: 115740052-0-25970
+#, fuzzy
+msgctxt "115740052-0-25970"
+msgid "Mirabelle! Stop teasing Hildegard!"
+msgstr "미라벨! 힐데가드 놀리는 걸 그만둬!-G-"
+
+#: 115740052-0-25969
+#, fuzzy
+msgctxt "115740052-0-25969"
+msgid "Do you recall the taste of their torn and bloody throats? Is their last breath what you exhale into them?"
+msgstr "찢어 지거나 피가 묻은 목구멍의 맛을 기억하십니까? 그들이 숨을 쉴 때 마지막으로 숨을 쉬고 있습니까?-G-"
+
+#: 115740052-0-25968
+msgctxt "115740052-0-25968"
+msgid "I'll disinter her and recover it. The damage I do to the corpse will leave its own message."
+msgstr "그럼 제가 설교사를 파내서 손가락을 회수해 오지요. 시체를 훼손하는 것도 메시지를 남길 수 있을 겁니다."
+
+#: 115740052-0-25967
+msgctxt "115740052-0-25967"
+msgid "I want the Sermonizer's fingerbone. When I find the Black Dragon, I will drive it through her eye."
+msgstr "난 설교사의 손가락뼈가 가지고 싶어. 블랙 드래곤을 찾으면 그걸 그녀의 눈에 꽂아 버릴 거야."
+
+#: 115740052-0-25966
+msgctxt "115740052-0-25966"
+msgid "None in the Sanctuary have heard that name. I'll ask around, quietly."
+msgstr "성역 안에 그 이름을 들어본 자는 없습니다. 조용히 수소문해 보겠습니다."
+
+#: 115740052-0-25965
+#, fuzzy
+msgctxt "115740052-0-25965"
+msgid "Tanek mentioned a ""Black Dragon"" was involved. Do we know who that is?"
+msgstr "Tanek는 ""Black Dragon""이 관련되었다고 언급했습니다. 그게 누군지 압니까?-G-"
+
+#: 115740052-0-25964
+msgctxt "115740052-0-25964"
+msgid "The chanters mourn the Grand Sermonizer. Her death struck the fear of the Void in their hearts."
+msgstr "성가대는 대 설교사를 애도하고 있습니다. 그녀의 죽음은 그들의 마음에 공허에 대한 공포를 심어 주었죠."
+
+#: 115740052-0-25963
+#, fuzzy
+msgctxt "115740052-0-25963"
+msgid "No. She's a vicious killer who wears a child's form when it suits her. Never forget that."
+msgstr "아니요. 그녀는 그 아이가 자신에게 어울리는 아이의 형태를 쓴 악순환 적 살인자입니다. 잊지 마라.-G-"
+
+#: 115740052-0-25962
+#, fuzzy
+msgctxt "115740052-0-25962"
+msgid "She's still a child, Astara."
+msgstr "그녀는 여전히 어린 아이입니다.-G-"
+
+#: 115740052-0-25961
+#, fuzzy
+msgctxt "115740052-0-25961"
+msgid "If you're saying you can't control Hildegard, I'll put her down myself."
+msgstr "네가 힐데가르트를 장악 할 수 없다는 말을한다면, 나는 그녀를 내릴 것이다.-G-"
+
+#: 115740052-0-25960
+#, fuzzy
+msgctxt "115740052-0-25960"
+msgid "Hildegard isn't taking this well. First Durisa and Van, now Cimbar … Tanek, barely holding on."
+msgstr ""
+"힐데가르트가 잘 먹지 않을거야. 첫 번째 Durisa와 Van, 이제 Cimbar ... Tanek, 간신히 붙잡고 있습니다.-G-"
+
+#: 115740052-0-25959
+#, fuzzy
+msgctxt "115740052-0-25959"
+msgid "You're pacing. What don't you want to tell me?"
+msgstr "당신은 걸음을 걷고 있습니다. 나에게 말해주고 싶지 않아?-G-"
+
+#: 115740052-0-25958
+#, fuzzy
+msgctxt "115740052-0-25958"
+msgid "Wonderful. As though they're related."
+msgstr "훌륭한. 마찬가지로 그들은 관련이 있습니다.-G-"
+
+#: 115740052-0-25957
+#, fuzzy
+msgctxt "115740052-0-25957"
+msgid "I didn't ask your opinion, dog handler."
+msgstr "나는 너의 의견을 묻지 않았다, 개 취급 자.-G-"
+
+#: 115740052-0-25956
+#, fuzzy
+msgctxt "115740052-0-25956"
+msgid "It's just the way she is. Don't let her get to you."
+msgstr "그녀의 모습입니다. 그녀가 너에게 접근하게하지 마라.-G-"
+
+#: 115740052-0-25955
+#, fuzzy
+msgctxt "115740052-0-25955"
+msgid "If you feel so strongly about it, we can mail you back there. In pieces."
+msgstr "당신이 그것에 대해 아주 강하게 느끼면, 우리는 당신을 다시 우편으로 보낼 수 있습니다. 조각으로.-G-"
+
+#: 115740052-0-25954
+#, fuzzy
+msgctxt "115740052-0-25954"
+msgid "My accommodations are unacceptable. I had my own chambers in the Mages Guild."
+msgstr "제 편의는 받아 들일 수 없습니다. 메이지 길드에 내 방이 있었다.-G-"
+
+#: 115740052-0-25953
+#, fuzzy
+msgctxt "115740052-0-25953"
+msgid "Void take you, Brother."
+msgstr "너를 잡아라. 형.-G-"
+
+#: 115740052-0-25952
+#, fuzzy
+msgctxt "115740052-0-25952"
+msgid "That makes nine."
+msgstr "그건 9 살이에요.-G-"
+
+#: 115740052-0-25951
+#, fuzzy
+msgctxt "115740052-0-25951"
+msgid "Why do I even bother?"
+msgstr "내가 왜 괴롭 히 느냐?-G-"
+
+#: 115740052-0-25950
+#, fuzzy
+msgctxt "115740052-0-25950"
+msgid "Tallying the stupid questions you've asked today. Eight, if you were wondering."
+msgstr "오늘 질문 한 바보 같은 질문을 집계하십시오. 여덟, 네가 궁금해했다면.-G-"
+
+#: 115740052-0-25949
+#, fuzzy
+msgctxt "115740052-0-25949"
+msgid "What are you writing?"
+msgstr "당신은 무엇을 쓰고 있습니까?-G-"
+
+#: 115740052-0-25948
+#, fuzzy
+msgctxt "115740052-0-25948"
+msgid "Of course it is! But to mock what he did in the Night Mother's name? That's the true desecration."
+msgstr "당연하지! 하지만 밤의 어머니 이름에서 그가 한 일을 조롱하라고? 그것은 참된 신성 모독입니다.-G-"
+
+#: 115740052-0-25947
+msgctxt "115740052-0-25947"
+msgid "Cimbar's soul is with Sithis. His corpse is just bones and rotting meat."
+msgstr "심바의 영혼은 시디스와 함께 할거야. 그의 유해는 썩은 고기덩이와 뼈일뿐이지."
+
+#: 115740052-0-25946
+#, fuzzy
+msgctxt "115740052-0-25946"
+msgid "What of it?"
+msgstr "그게 뭐야?-G-"
+
+#: 115740052-0-25945
+#, fuzzy
+msgctxt "115740052-0-25945"
+msgid "But … you follow the Night Mother's teachings."
+msgstr "하지만 ... 당신은 나이트 마더의 가르침을 따릅니다.-G-"
+
+#: 115740052-0-25944
+#, fuzzy
+msgctxt "115740052-0-25944"
+msgid "Those maggots of Akatosh have displayed Cimbar's body in Kvatch! Astara won't let me do a thing about it."
+msgstr ""
+"Akatosh의 구더기가 Kvatch에 Cimbar의 시체를 전시했습니다! Astara는 내가 그것에 관해 어떤 일을하도록 내버려 두지 "
+"않을 것입니다.-G-"
+
+#: 115740052-0-25943
+#, fuzzy
+msgctxt "115740052-0-25943"
+msgid "You wanted to see the limits of his affection. Now you know. He died for you, and you get to live with that."
+msgstr "당신은 그의 애정의 한계를보고 싶었습니다. 이제 알았어. 그는 당신을 위해 죽었고, 당신은 그걸로 살아야합니다.-G-"
+
+#: 115740052-0-25942
+#, fuzzy
+msgctxt "115740052-0-25942"
+msgid "What?"
+msgstr "뭐?-G-"
+
+#: 115740052-0-25941
+#, fuzzy
+msgctxt "115740052-0-25941"
+msgid "I wasn't inviting you to share. But you're right. If anyone is to blame for his death, it's you."
+msgstr "나는 너를 나누라고 권유하지 않았다. 하지만 당신 말이 맞아. 누군가가 그의 죽음에 책임이 있다면 그것은 당신입니다.-G-"
+
+#: 115740052-0-25940
+#, fuzzy
+msgctxt "115740052-0-25940"
+msgid "I pushed Cimbar to take the Grand Sermonizer contract. I feel partly responsible for what happened."
+msgstr ""
+"나는 Cimbar에게 Grand Sermonizer 계약을하도록 강요했다. 나는 일어난 일에 부분적으로 책임이 있다고 느낍니다.-G-"
+
+#: 115740052-0-25939
+#, fuzzy
+msgctxt "115740052-0-25939"
+msgid "You aren't normally so listless. I don't like it."
+msgstr "당신은 보통 그렇게 평범하지 않습니다. 나는 그것을 좋아하지 않는다.-G-"
+
+#: 115740052-0-25938
+#, fuzzy
+msgctxt "115740052-0-25938"
+msgid "You didn't?"
+msgstr "안 그랬어?-G-"
+
+#: 115740052-0-25936
+#, fuzzy
+msgctxt "115740052-0-25936"
+msgid "You recorded all that about a Brother we knew for less than a month?"
+msgstr "우리가 한 달도 안 남았던 형제에 관한 모든 것을 기록 했습니까?-G-"
+
+#: 115740052-0-25935
+#, fuzzy
+msgctxt "115740052-0-25935"
+msgid "According to my notes, Van was from Glenumbra. He lived in Bruma for a few years prior to the Alliance War."
+msgstr ""
+"나의 메모에 따르면, 밴은 Glenumbra 출신이었다. 그는 얼라이언스 전쟁 이전 Bruma에서 몇 년 동안 살았습니다.-G-"
+
+#: 115740052-0-25934
+#, fuzzy
+msgctxt "115740052-0-25934"
+msgid "Bruma, I think?"
+msgstr "Bruma, 내 생각 엔?-G-"
+
+#: 115740052-0-25933
+#, fuzzy
+msgctxt "115740052-0-25933"
+msgid "I'll miss Durisa's overconfidence. But Van … he was barely here. Where was he from?"
+msgstr "두리사의 과신이 그리워 지네. 하지만 밴은 겨우 여기에 있었어. 그는 어디에서 왔습니까?-G-"
+
+#: 115740052-0-25932
+#, fuzzy
+msgctxt "115740052-0-25932"
+msgid "We have Sithis to thank. The Initiate was but his instrument."
+msgstr "우리는시 티스에게 감사드립니다. Initiate는 그의 악기였습니다.-G-"
+
+#: 115740052-0-25931
+#, fuzzy
+msgctxt "115740052-0-25931"
+msgid "You're saying we have the Initiate to thank for our future?"
+msgstr "우리가 미래에 감사 드리기 시작했다는 말입니까?-G-"
+
+#: 115740052-0-25930
+#, fuzzy
+msgctxt "115740052-0-25930"
+msgid "Of course. With Anvil and Kvatch at odds, our Sanctuary will find much holy work."
+msgstr "당연하지. Anvil과 Kvatch가 확률이 높으면 우리 성소는 많은 거룩한 일을 발견하게 될 것입니다.-G-"
+
+#: 115740052-0-25929
+#, fuzzy
+msgctxt "115740052-0-25929"
+msgid "So … that's a good thing?"
+msgstr "그래서 ... 좋은 일이야?-G-"
+
+#: 115740052-0-25928
+#, fuzzy
+msgctxt "115740052-0-25928"
+msgid "When the Initiate killed Jarol, the hope for stability in the Gold Coast died with him."
+msgstr "Initiate가 Jarol을 죽였을 때, Gold Coast의 안정에 대한 희망은 그와 함께 죽었습니다.-G-"
+
+#: 115740052-0-25927
+#, fuzzy
+msgctxt "115740052-0-25927"
+msgid "Didn't realize you just finished a contract. Here. Use my handkerchief."
+msgstr "방금 계약을 마쳤다는 것을 깨닫지 못했습니다. 이리. 내 손수건을 사용하십시오.-G-"
+
+#: 115740052-0-25926
+#, fuzzy
+msgctxt "115740052-0-25926"
+msgid "Before I wipe the poisoned wax from my lips? If you insist …."
+msgstr "독이 든 왁스를 입술에서 닦기 전에? 당신이 주장하는 경우 ….-G-"
+
+#: 115740052-0-25925
+#, fuzzy
+msgctxt "115740052-0-25925"
+msgid "A rag? Not even a ""Hello Brother, how are you? Might I shower you with kisses?"""
+msgstr "걸레? ""안녕하세요 형님, 어때요? 내가 너에게 키스로 샤워 할까?""-G-"
+
+#: 115740052-0-25924
+#, fuzzy
+msgctxt "115740052-0-25924"
+msgid "Yes, yes. Do you have a spare rag? Something I can burn when I'm done."
+msgstr "예, 예. 여분의 걸레가 있니? 내가 끝났을 때 불 수있는 것.-G-"
+
+#: 115740052-0-25923
+#, fuzzy
+msgctxt "115740052-0-25923"
+msgid "My Sister! There you are—I haven't seen you in hours."
+msgstr "내 누이! 너는 몇 시간 만에 너를 못 봤어.-G-"
+
+#: 115740052-0-25922
+#, fuzzy
+msgctxt "115740052-0-25922"
+msgid "It does, actually."
+msgstr "그것은 사실입니다.-G-"
+
+#: 115740052-0-25921
+#, fuzzy
+msgctxt "115740052-0-25921"
+msgid "If it makes you feel any better, I wouldn't help Hildegard find Kor, either."
+msgstr "기분이 나아진다면 힐데가르트도 코르를 찾는데 도움이 안된다.-G-"
+
+#: 115740052-0-25920
+#, fuzzy
+msgctxt "115740052-0-25920"
+msgid "Puppy? How many throats have we cut, side-by-side? You could at least refer to me as a dire wolf."
+msgstr "강아지? 얼마나 많은 목구멍을 우리가 나란히 자르나요? 적어도 나를 끔찍한 늑대로 부를 수 있습니다.-G-"
+
+#: 115740052-0-25919
+#, fuzzy
+msgctxt "115740052-0-25919"
+msgid "Sorry, I don't help puppies track their masters."
+msgstr "미안, 나는 강아지들이 주인을 추적하는 걸 도와주지 않아.-G-"
+
+#: 115740052-0-25918
+#, fuzzy
+msgctxt "115740052-0-25918"
+msgid "Tanek, have you seen Mirabelle?"
+msgstr "타넥, 미라벨을 봤어?-G-"
+
+#: 115740052-0-25917
+#, fuzzy
+msgctxt "115740052-0-25917"
+msgid "It is done."
+msgstr "끝났어.-G-"
+
+#: 115740052-0-25916
+#, fuzzy
+msgctxt "115740052-0-25916"
+msgid "Assassins in the catacombs? Show me!"
+msgstr "카타콤의 암살자는? 보여줘!-G-"
+
+#: 115740052-0-25915
+#, fuzzy
+msgctxt "115740052-0-25915"
+msgid "Quiet! I thought I heard something."
+msgstr "조용한! 나는 뭔가를들은 것 같았다.-G-"
+
+#: 115740052-0-25914
+#, fuzzy
+msgctxt "115740052-0-25914"
+msgid "You said one of the pirates saw a werewolf? What's such a beast doing down here?"
+msgstr "해적 중 하나가 늑대 인간을 봤다고 했지? 그런 짐승이 여기서 뭐하는거야?-G-"
+
+#: 115740052-0-25913
+#, fuzzy
+msgctxt "115740052-0-25913"
+msgid "Pardons well earned! Let's clean them up and make them presentable for freedom!"
+msgstr "사면 잘 받았습니다! 그것들을 깨끗이하고 자유롭게 표현할 수있게합시다!-G-"
+
+#: 115740052-0-25912
+#, fuzzy
+msgctxt "115740052-0-25912"
+msgid "What bloodshed! Thieves and murderers certainly know how it's done!"
+msgstr "유혈 된 것! 도둑과 살인자는 그것이 어떻게 완료되었는지 확실히 알고 있습니다!-G-"
+
+#: 115740052-0-25911
+#, fuzzy
+msgctxt "115740052-0-25911"
+msgid "Victory! Three cheers for the survivors! They get to live another day!"
+msgstr "승리! 생존자를위한 세 번의 환호! 그들은 또 하루를 살게됩니다!-G-"
+
+#: 115740052-0-25910
+#, fuzzy
+msgctxt "115740052-0-25910"
+msgid "Let the games begin!"
+msgstr "게임을 시작하자!-G-"
+
+#: 115740052-0-25909
+#, fuzzy
+msgctxt "115740052-0-25909"
+msgid "Mercy only applies to the victors! Fight for your miserable lives!"
+msgstr "자비는 승자에게만 적용됩니다! 너의 비참한 삶을 위해 싸워라!-G-"
+
+#: 115740052-0-25908
+#, fuzzy
+msgctxt "115740052-0-25908"
+msgid "Are you hungry for blood? The Kvatch Arena's next event is about to begin!"
+msgstr "혈액에 굶주 렸니? Kvatch Arena의 다음 행사가 막 시작됩니다!-G-"
+
+#: 115740052-0-25907
+#, fuzzy
+msgctxt "115740052-0-25907"
+msgid "We've brought out the worst of the worst to come pay their penance in the pit!"
+msgstr "우리는 최악의 최악의 상황을 가져 와서 구덩이에 참회했습니다!-G-"
+
+#: 115740052-0-25905
+#, fuzzy
+msgctxt "115740052-0-25905"
+msgid "Bah. To Sovngarde with you! Elf-blooded prude."
+msgstr "바. 너와 함께 Sovngarde! 엘프 혈투.-G-"
+
+#: 115740052-0-25904
+#, fuzzy
+msgctxt "115740052-0-25904"
+msgid "Not even remotely."
+msgstr "원격조차도 아닙니다.-G-"
+
+#: 115740052-0-25903
+#, fuzzy
+msgctxt "115740052-0-25903"
+msgid "Oh come on! You're not curious about whether she's—"
+msgstr "오 어서! 당신이 그녀가 있는지 여부에 대해 궁금하지 않아요.-G-"
+
+#: 115740052-0-25902
+#, fuzzy
+msgctxt "115740052-0-25902"
+msgid "No, I am not going to stone-shape the mermaid's hair out of the way."
+msgstr "아니, 나는 인어의 머리카락을 돌로 만들지 않을거야.-G-"
+
+#: 115740052-0-25901
+#, fuzzy
+msgctxt "115740052-0-25901"
+msgid "Hail, Laurina. You know, I was thinking …."
+msgstr "우박, 로리나. 있잖아, 나 생각 중이 야 ....-G-"
+
+#: 115740052-0-25899
+#, fuzzy
+msgctxt "115740052-0-25899"
+msgid "And you'd do well to loosen that codpiece. By the Eight, what a killjoy!"
+msgstr "그리고 그 코드 조각을 푸는 것이 좋습니다. 8 시까 지, 죽이기!-G-"
+
+#: 115740052-0-25898
+#, fuzzy
+msgctxt "115740052-0-25898"
+msgid "Hrmph. Crude amusements for fools and traitors. You'd do well to spend more time in the Cathedral."
+msgstr "Hrmph. 바보와 배신자를위한 원유 오락. 대성당에서 더 많은 시간을 보내는 것이 좋습니다.-G-"
+
+#: 115740052-0-25897
+#, fuzzy
+msgctxt "115740052-0-25897"
+msgid "Have you heard who's fighting in the arena today? I hear it's going to be a bloodbath!"
+msgstr "오늘 경기장에서 누가 싸우고 있는지 들어 보셨습니까? 응급실이 될 것 같네요!-G-"
+
+#: 115740052-0-25896
+#, fuzzy
+msgctxt "115740052-0-25896"
+msgid "Ah, Skaldeif, brutish as always …. Oh who am I kidding? Oblivion take that sour wench!"
+msgstr "아, Skaldeif, 항상 황량한 .... 오, 내가 누굴까? 망각은 그 신맛을 가지고 있습니다.-G-"
+
+#: 115740052-0-25895
+#, fuzzy
+msgctxt "115740052-0-25895"
+msgid "Aye. Nestrana says they're still scraping her off the rocks. Shor's bones, I'd trade all the mead in Skyrim to see her face as she fell."
+msgstr ""
+"찬성. Nestrana는 아직도 그녀가 바위에서 그녀를 긁어 모으고 있다고 말합니다. 쇼어의 뼈들, 스카이 림의 모든 미드와 거래를하면서 "
+"그녀의 얼굴을 보았습니다.-G-"
+
+#: 115740052-0-25894
+#, fuzzy
+msgctxt "115740052-0-25894"
+msgid "Have you heard? Fortunata's dead!"
+msgstr "당신은 들었습니다? Fortunata가 죽었다!-G-"
+
+#: 115740052-0-25893
+#, fuzzy
+msgctxt "115740052-0-25893"
+msgid "True enough. I've got half a mind to sail back to Wayrest. Better to be taxed by a High-King than to be fleeced by a wharf-rat in royal clothing."
+msgstr ""
+"충분히 사실. Wayrest로 다시 항해 할 생각이 있어요. 왕의 옷을 입은 부두 쥐에 의해 쫓겨나는 것보다 높은 왕이 과세하는 것이 "
+"낫습니다.-G-"
+
+#: 115740052-0-25892
+#, fuzzy
+msgctxt "115740052-0-25892"
+msgid "Bah! You mages fare no better. It's that damned Pirate Queen and her boot-licking Red Sails. Can't sharpen a sword without those rat-faced corsairs kicking down your door."
+msgstr ""
+"바하마! 당신은 더 나은 mages 운임. 그 저주받은 해적 여왕과 그녀의 부츠 핥는 붉은 돛. 너의 문을 차고있는 그 쥐 얼굴의 "
+"해적선없이 칼을 날카롭게 할 수는 없다.-G-"
+
+#: 115740052-0-25891
+#, fuzzy
+msgctxt "115740052-0-25891"
+msgid "Ah, the great oaf stirs. Busy day at the Fighters Guild Hall, eh?"
+msgstr "아, 큰 냄새가 난다. 파이터스 길드 홀에서의 바쁜 하루?-G-"
+
+#: 115740052-0-25890
+#, fuzzy
+msgctxt "115740052-0-25890"
+msgid "Ah ah ah! The only P-word we use here is ""privateer."" And also ""profit."" And occasionally ""paid off."" But never pirate! Now find a way to clean this walkway or find yourself another job!"
+msgstr ""
+"아 아 아! 우리가 여기서 사용하는 유일한 P-word는 ""privateer""입니다. 그리고 ""이익""도. 그리고 "
+"때로는 ""갚았습니다."" 하지만 결코 해적! 이제이 산책로를 청소하거나 다른 직업을 찾는 방법을 찾으십시오!-G-"
+
+#: 115740052-0-25889
+#, fuzzy
+msgctxt "115740052-0-25889"
+msgid "I'm sorry, your grace, but these pirates' boots ain't exactly sanitary"
+msgstr "미안하지만, 너의 은혜가.하지만이 해적들의 부츠는 정확히 위생적이지 않아.-G-"
+
+#: 115740052-0-25888
+#, fuzzy
+msgctxt "115740052-0-25888"
+msgid "Ouch! There's more than sand getting sundered in the arena tonight! Another savage victory for Legate Tirrianus!"
+msgstr ""
+"아야! 오늘 밤 경기장에서 모래가 파묻히는 것 이상의 것이 있습니다! Legate Tirrianus의 또 다른 야만적 인 승리!-G-"
+
+#: 115740052-0-25887
+#, fuzzy
+msgctxt "115740052-0-25887"
+msgid "Rest in peace, rippers, Legate Tirrianus bit the dust! Make some noise for our new champions!"
+msgstr "평화에, 리퍼, Legate Tirrianus 비트 나머지 먼지! 우리의 새로운 챔피언에게 약간의 소음을 남겨주세요!-G-"
+
+#: 115740052-0-25886
+#, fuzzy
+msgctxt "115740052-0-25886"
+msgid "Uh oh! That roar isn't the crowd, challengers!"
+msgstr "어 오! 그 포효는 군중, 도전자가 아니다!-G-"
+
+#: 115740052-0-25885
+#, fuzzy
+msgctxt "115740052-0-25885"
+msgid "What a feeding frenzy! Look at the blood fly!"
+msgstr "무슨 수유 광란! 피 비행선 좀 봐!-G-"
+
+#: 115740052-0-25884
+#, fuzzy
+msgctxt "115740052-0-25884"
+msgid "Sibylla! We're running a bank, not a Baandari swap meet. These cobblestones look like they were dragged through a sick troll's dung!"
+msgstr ""
+"시빌 라! 우리는 은행을 운영하고 있고, 반다리 스왑이 아닙니다. 이 조약돌은 병든 트롤의 배설물을 통해 끌려온 것처럼 보입니다!-G-"
+
+#: 115740052-0-25883
+#, fuzzy
+msgctxt "115740052-0-25883"
+msgid "This master beast trainer's pack of vicious dunerippers look hungry today!"
+msgstr "이 마스터 짐승 트레이너의 악의적 인 dunerippers 팩은 오늘 배가 고프다!-G-"
+
+#: 115740052-0-25882
+#, fuzzy
+msgctxt "115740052-0-25882"
+msgid "It's feeding time!"
+msgstr "그것은 먹이 시간이야!-G-"
+
+#: 115740052-0-25881
+#, fuzzy
+msgctxt "115740052-0-25881"
+msgid "That tremor you feel isn't anticipation! Give a cheer for the one, the only—Legate Turrianus!"
+msgstr "그 진도는 예상치 않습니다. 유일한 Legrian Turrianus에게 환호성을주십시오!-G-"
+
+#: 115740052-0-25880
+#, fuzzy
+msgctxt "115740052-0-25880"
+msgid "Wouldn't say. Just told me I'd ""find out soon enough,"" and scampered out like a dock-tailed skeever. Kids, am I right?"
+msgstr ""
+"그러지 않을거야. 그냥 ""곧 알게 될거야.""라고 말하면서 도크 꼬리가 달린 골무처럼 비명을 질렀습니다. 애들 아, 맞지?-G-"
+
+#: 115740052-0-25879
+#, fuzzy
+msgctxt "115740052-0-25879"
+msgid "Eight's mercy, what's he doing with all that?"
+msgstr "여덟 살의 자비, 그걸로 무엇을하고 있니?-G-"
+
+#: 115740052-0-25878
+#, fuzzy
+msgctxt "115740052-0-25878"
+msgid "Honestly, Lepida, I don't know if I can take much more of Gavro's mischief. You know I found a crate full of bones, a shriveled up heart, and a knife under his bed?"
+msgstr ""
+"솔직히, Lepida, 내가 Gavro의 장난을 더 많이 가져갈 수 있는지 모르겠다. 내가 뼈가 가득한 상자를 발견하고 그의 머리맡에 "
+"상처 입은 칼과 칼을 발견했다.-G-"
+
+#: 115740052-0-25877
+#, fuzzy
+msgctxt "115740052-0-25877"
+msgid "I like the sound of that. Time to go."
+msgstr "나는 그 소리가 좋아. 갈 시간.-G-"
+
+#: 115740052-0-25876
+#, fuzzy
+msgctxt "115740052-0-25876"
+msgid "Bundle up, we're in for a cold snap!"
+msgstr "번들, 우리는 감기에 걸렸어!-G-"
+
+#: 115740052-0-25875
+#, fuzzy
+msgctxt "115740052-0-25875"
+msgid "Our challengers put Magos Polus on ice! What an upset!"
+msgstr "우리의 도전자들은 Magos Polus를 얼음에 담았습니다! 무슨 화가!-G-"
+
+#: 115740052-0-25874
+#, fuzzy
+msgctxt "115740052-0-25874"
+msgid "Magos Polus gives our challengers the cold shoulder and victory shatters like ice under a boot!"
+msgstr "Magos Polus는 우리의 도전자에게 시원한 어깨와 승리를 부추 기는 얼음처럼 부서집니다!-G-"
+
+#: 115740052-0-25873
+#, fuzzy
+msgctxt "115740052-0-25873"
+msgid "Well, they didn't see that iceberg coming!"
+msgstr "글쎄, 그들은 빙산이 오는 것을 보지 못했습니다!-G-"
+
+#: 115740052-0-25872
+#, fuzzy
+msgctxt "115740052-0-25872"
+msgid "That's just cold!"
+msgstr "그거 그냥 추워!-G-"
+
+#: 115740052-0-25871
+#, fuzzy
+msgctxt "115740052-0-25871"
+msgid "All the way from the highest rock in High Rock, the harbinger of hail, the curator of cold, the indomitable—Magos Polus!"
+msgstr ""
+"우박의 선구자 인 하이 록 (High Rock)의 가장 높은 암석에서부터, 추위의 큐레이터, 불굴의 마고 스 폴로우 (Magos "
+"Polus)!-G-"
+
+#: 115740052-0-25870
+#, fuzzy
+msgctxt "115740052-0-25870"
+msgid "The esteemed Magos Polus has thrown his gauntlet into the ring! Will this give our challengers cold feet?"
+msgstr ""
+"존경받는 마고 스 폴로우 (Magos Polus)가 반지에 도전장을 던졌습니다! 이것이 우리의 도전자들을 차갑게 할 것입니까?-G-"
+
+#: 115740052-0-25869
+#, fuzzy
+msgctxt "115740052-0-25869"
+msgid "Lerisa? I should have known! I'm leaving."
+msgstr "Lerisa? 나는 알고 있었음에 틀림 없다! 나는 떠난다.-G-"
+
+#: 115740052-0-25868
+#, fuzzy
+msgctxt "115740052-0-25868"
+msgid "They're done! Another blazing victory for Ignaria Denian! What a scorcher!"
+msgstr "끝났어! Ignaria Denian의 또 다른 타격을위한 승리! 이 얼마나 맹금류!-G-"
+
+#: 115740052-0-25867
+#, fuzzy
+msgctxt "115740052-0-25867"
+msgid "It's lights out for Ignaria! Three cheers for the challengers! What a fight!"
+msgstr "Ignaria에 불이 꺼집니다! 도전자를위한 세 가지 환호! 무슨 싸움!-G-"
+
+#: 115740052-0-25866
+#, fuzzy
+msgctxt "115740052-0-25866"
+msgid "Now we're cooking with magicka!"
+msgstr "이제 우리는 magicka로 요리하고 있습니다!-G-"
+
+#: 115740052-0-25865
+#, fuzzy
+msgctxt "115740052-0-25865"
+msgid "Things are starting to heat up!"
+msgstr "상황이 가열되기 시작했습니다!-G-"
+
+#: 115740052-0-25864
+#, fuzzy
+msgctxt "115740052-0-25864"
+msgid "Looks like there's going to be a roast tonight!"
+msgstr "오늘 밤 로스트가 될 것 같네요!-G-"
+
+#: 115740052-0-25863
+#, fuzzy
+msgctxt "115740052-0-25863"
+msgid "Hailing from the Deadlands, or so she claims, Ignaria is the only pardoned gladiator to join the Order and return to the arena!"
+msgstr ""
+"Deadlands에서 우연히 만났거나 그녀가 주장한 바에 따르면, Ignaria는 순서에 가입하고 경기장으로 돌아 오는 유일한 사면 한 "
+"검투사입니다!-G-"
+
+#: 115740052-0-25862
+#, fuzzy
+msgctxt "115740052-0-25862"
+msgid "This winning streak might be over! Give a warm welcome to our hottest champion—Ignaria Denian!"
+msgstr "이 연승 행진이 끝났을 수도 있습니다! 우리의 가장 뜨거운 챔피언 이그나 리아 Denian에 오신 것을 환영합니다!-G-"
+
+#: 115740052-0-25859
+#, fuzzy
+msgctxt "115740052-0-25859"
+msgid "Assassin! Guards, defend me!"
+msgstr "암살자! 경비원, 나를 지켜라!-G-"
+
+#: 115740052-0-25858
+#, fuzzy
+msgctxt "115740052-0-25858"
+msgid "Follow me and you die, assassin. You can't defeat me."
+msgstr "나를 따라 오니, 당신은 죽어, 자객. 너는 나를 물리 칠 수 없다.-G-"
+
+#: 115740052-0-25857
+#, fuzzy
+msgctxt "115740052-0-25857"
+msgid "These notes should lead us to whoever commissioned this research. There must be a clue. Read them again!"
+msgstr "이 메모는이 연구를 위임 한 사람에게 우리를 인도해야합니다. 단서가 있어야합니다. 다시 읽으십시오!-G-"
+
+#: 115740052-0-25856
+#, fuzzy
+msgctxt "115740052-0-25856"
+msgid "<Death scream.>"
+msgstr "<죽음의 비명 소리.>-G-"
+
+#: 115740052-0-25855
+#, fuzzy
+msgctxt "115740052-0-25855"
+msgid "To me, warriors of Akatosh!"
+msgstr "나에게 Akatosh의 전사들!-G-"
+
+#: 115740052-0-25853
+#, fuzzy
+msgctxt "115740052-0-25853"
+msgid "See that you do."
+msgstr "당신이하는 것을보십시오.-G-"
+
+#: 115740052-0-25852
+#, fuzzy
+msgctxt "115740052-0-25852"
+msgid "Prove yourself, initiates!"
+msgstr "자신을 증명하고, 시작하십시오!-G-"
+
+#: 115740052-0-25851
+#, fuzzy
+msgctxt "115740052-0-25851"
+msgid "SAT Music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25850
+#, fuzzy
+msgctxt "115740052-0-25850"
+msgid "Now! Kill them!"
+msgstr "지금! 그들을 죽여!-G-"
+
+#: 115740052-0-25849
+#, fuzzy
+msgctxt "115740052-0-25849"
+msgid "Your past is forgotten as your new life for Akatosh begins. Honor to the Order!"
+msgstr "Akatosh의 새 삶이 시작되면서 당신의 과거는 잊혀집니다. 명령을 존중하십시오!-G-"
+
+#: 115740052-0-25848
+#, fuzzy
+msgctxt "115740052-0-25848"
+msgid "SAT Music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25847
+#, fuzzy
+msgctxt "115740052-0-25847"
+msgid "SAT Music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25846
+#, fuzzy
+msgctxt "115740052-0-25846"
+msgid "SAT Music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25843
+#, fuzzy
+msgctxt "115740052-0-25843"
+msgid "SAT Music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25842
+#, fuzzy
+msgctxt "115740052-0-25842"
+msgid "SAT Music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25841
+#, fuzzy
+msgctxt "115740052-0-25841"
+msgid "Well, you've been an audience! We're the Naughty Nereid Players! Come back soon and bring a wealthy friend next time."
+msgstr "글쎄, 당신은 관객 이었어! 우리는 버릇없는 네리 드 플레이어입니다! 다음에 곧 돌아와 부유 한 친구를 데려 오십시오.-G-"
+
+#: 115740052-0-25840
+#, fuzzy
+msgctxt "115740052-0-25840"
+msgid "Lords and ladies, don't be shy! Such an alluring dance is best seen up close! For a few gold, I'm sure she'll turn up the heat! Let's open those purses!"
+msgstr ""
+"영주들과 숙녀 여러분, 부끄러워하지 마십시오! 그런 매혹적인 댄스가 가장 가까이에 보인다! 약간 금을 위해, 나는 그녀가 열을 돌 "
+"것이라는 점을 확실하다! 그 지갑을 열자!-G-"
+
+#: 115740052-0-25839
+#, fuzzy
+msgctxt "115740052-0-25839"
+msgid "From the far-off shores of Abah's Landing, this exotic beauty puts the 'naughty' in Naughty Nereids. Behold, the stunning and sinuous Ritabeth!"
+msgstr ""
+"멀리 떨어진 Abah 's Landing의 해안에서이 이국적인 아름다움은 Naughty Nereids에 '장난 꾸러기'를 둡니다. 보라, "
+"기이하고 유연한 Ritabeth!-G-"
+
+#: 115740052-0-25838
+#, fuzzy
+msgctxt "115740052-0-25838"
+msgid "I need a drink. Join me at the Kvatch inn and we'll say a proper goodbye."
+msgstr "마실 것이 필요하다. Kvatch 여관에서 나와 합류하면 우리는 적절한 작별 인사를 할 것입니다.-G-"
+
+#: 115740052-0-25837
+#, fuzzy
+msgctxt "115740052-0-25837"
+msgid "We'll manage. One less of … whatever they call themselves, is one less we have to deal with later."
+msgstr "우리가 관리 할게. 우리가 스스로 부르는 것이 무엇이든, 나중에 다루지 않는 것이 하나 있습니다.-G-"
+
+#: 115740052-0-25836
+#, fuzzy
+msgctxt "115740052-0-25836"
+msgid "But what about her Fate-Bearers? Raz fears this might just be the beginning."
+msgstr "그러나 그녀의 운명 - 운반자는 어떨까요? Raz의 두려움은 단지 시작일 수도 있습니다.-G-"
+
+#: 115740052-0-25835
+#, fuzzy
+msgctxt "115740052-0-25835"
+msgid "It's better this way. She can't hurt anyone if she's dead."
+msgstr "이 방법이 더 좋습니다. 그녀가 죽었다면 누구에게도 상처를 줄 수 없습니다.-G-"
+
+#: 115740052-0-25834
+#, fuzzy
+msgctxt "115740052-0-25834"
+msgid "What? Torolon's mastery of the flame doesn't impress and astound you? Perhaps you want something … truly hot!"
+msgstr ""
+"뭐? Torolon의 화염 숙달은 당신에게 깊은 인상을주고 놀라지 않습니다. 아마 당신은 무언가를 원한다. .. 정말로 뜨거운!-G-"
+
+#: 115740052-0-25833
+#, fuzzy
+msgctxt "115740052-0-25833"
+msgid "Well, that's one way to handle the situation."
+msgstr "글쎄, 그게 상황을 처리하는 한 가지 방법입니다.-G-"
+
+#: 115740052-0-25832
+#, fuzzy
+msgctxt "115740052-0-25832"
+msgid "Gaze in wonder at our fire-tamer! From the blistering summit of Ash Mountain, I bring you the volcano's favorite son, Torrid Torolon!"
+msgstr ""
+"궁금해하는 우리의 소방관을 바라 보아라! 애쉬 마운틴의 물집이 가득한 정상에서 화산의 가장 좋아하는 아들 인 Torrid Torolon을 "
+"데려 왔습니다!-G-"
+
+#: 115740052-0-25831
+#, fuzzy
+msgctxt "115740052-0-25831"
+msgid "Raz will watch and make sure she leaves the Gold Coast. Then we can meet at the enchanter's shop, yes?"
+msgstr "Raz는 그녀가 골드 코스트를 떠나고 있는지 확인합니다. 그럼 우리는 마술사의 가게에서 만날 수있어, 네?-G-"
+
+#: 115740052-0-25830
+#, fuzzy
+msgctxt "115740052-0-25830"
+msgid "If the killer is dead, everyone benefits. We don't even know if we can trust her!"
+msgstr "살인자가 죽으면 모든 사람들이 유익합니다. 우리가 그녀를 신뢰할 수 있는지조차 알지 못합니다!-G-"
+
+#: 115740052-0-25829
+#, fuzzy
+msgctxt "115740052-0-25829"
+msgid "Good people of Anvil—prepare to be amazed, astounded, and above all, entertained! The Naughty Nereid Players have arrived!"
+msgstr "모루의 선한 사람들 - 놀랄 준비가되어 있습니다. 장난 꾸러기 네레 리드 플레이어가 도착했습니다!-G-"
+
+#: 115740052-0-25828
+msgctxt "115740052-0-25828"
+msgid "If it buys these people time, it is for the best. Remember, this helps you as well, Naryu."
+msgstr "만약 그것이 이 사람들에게 시간을 벌어준다면, 그것이 최선이다. 명심해, 나류."
+
+#: 115740052-0-25827
+#, fuzzy
+msgctxt "115740052-0-25827"
+msgid "We're just going to let a killer walk away? Are you serious?"
+msgstr "살인자가 그냥 떠나게 할거야? 진심이야?-G-"
+
+#: 115740052-0-25826
+#, fuzzy
+msgctxt "115740052-0-25826"
+msgid "The Fate-Bearers will deal with the destinies of others. Your charges are safe, for now."
+msgstr "운명을 지키는 자들은 다른 이들의 운명을 다룰 것이다. 당신의 요금은 현재 안전합니다.-G-"
+
+#: 115740052-0-25825
+#, fuzzy
+msgctxt "115740052-0-25825"
+msgid "When I get up you will be … ugh!"
+msgstr "내가 일어날 때 너는 .. 우!-G-"
+
+#: 115740052-0-25824
+#, fuzzy
+msgctxt "115740052-0-25824"
+msgid "This is definitely not what I signed up for."
+msgstr "이것은 내가 확실히 신청 한 것이 아닙니다.-G-"
+
+#: 115740052-0-25823
+#, fuzzy
+msgctxt "115740052-0-25823"
+msgid "Move it, short apprentice. And do not forget Raz's favorite brush. It would be a tragedy if this beautiful fur got tangles."
+msgstr ""
+"움직여, 짧은 견습생. 그리고 Raz가 좋아하는 솔을 잊지 마세요. 이 아름다운 모피가 엉킴이 있다면 그것은 비극입니다.-G-"
+
+#: 115740052-0-25822
+#, fuzzy
+msgctxt "115740052-0-25822"
+msgid "I'll be at the inn in Kvatch for a while longer. Come and see me before I leave, when you get a chance."
+msgstr "Kvatch의 여관에서 잠시 더있을거야. 내가 떠나기 전에, 기회가 생길 때 와줘.-G-"
+
+#: 115740052-0-25821
+#, fuzzy
+msgctxt "115740052-0-25821"
+msgid "Get over yourself, cat. We saved lives today. Including mine."
+msgstr "너 자신을 극복해라, 고양이. 우리는 오늘 생명을 구했습니다. 내 것도 포함 해서요.-G-"
+
+#: 115740052-0-25820
+#, fuzzy
+msgctxt "115740052-0-25820"
+msgid "This is not how an Eye of the Queen does things. This is more like the Brotherhood. Or the Morag Tong."
+msgstr "이것은 여왕의 눈이 어떻게 행동하는지가 아닙니다. 이것은 형제애와 더 비슷합니다. 또는 Morag Tong.-G-"
+
+#: 115740052-0-25819
+#, fuzzy
+msgctxt "115740052-0-25819"
+msgid "It had to be done, Raz. We let her leave and she just becomes somebody else's problem."
+msgstr "그것은 끝내야 만했다, Raz. 우리는 그녀를 떠나게하고 그녀는 다른 누군가의 문제가됩니다.-G-"
+
+#: 115740052-0-25818
+#, fuzzy
+msgctxt "115740052-0-25818"
+msgid "No! What are you doing?"
+msgstr "아니! 뭐하고 있니?-G-"
+
+#: 115740052-0-25817
+#, fuzzy
+msgctxt "115740052-0-25817"
+msgid "I thought you'd support me in this. Shows how much of the future I can see."
+msgstr "네가 나를지지 할 줄 알았다. 내가 볼 수있는 미래의 모습을 보여줍니다.-G-"
+
+#: 115740052-0-25816
+#, fuzzy
+msgctxt "115740052-0-25816"
+msgid "Let's meet back at the enchanter's shop when this sorry affair is done."
+msgstr "이 미안한 일이 끝나면 마술사의 가게에서 다시 만나자.-G-"
+
+#: 115740052-0-25815
+#, fuzzy
+msgctxt "115740052-0-25815"
+msgid "Don't worry, assassin. We'll meet again."
+msgstr "걱정마, 암살자. 우리는 다시 만날 것입니다.-G-"
+
+#: 115740052-0-25814
+msgctxt "115740052-0-25814"
+msgid "Raz cannot let innocents die. Is your heart really that cold, Naryu?"
+msgstr "라즈는 무고한 사람들을 죽게 만들 수 없다. 너의 마음은 정말 차갑다. 나류?"
+
+#: 115740052-0-25813
+#, fuzzy
+msgctxt "115740052-0-25813"
+msgid "I can't believe you people! How can you let a killer just walk away free and clear?"
+msgstr "나는 너를 믿을 수 없어! 살인자가 어떻게 자유롭고 명확하게 떠날 수있게 할 수 있습니까?-G-"
+
+#: 115740052-0-25812
+#, fuzzy
+msgctxt "115740052-0-25812"
+msgid "And Raz will let you leave this land. But next time Raz thinks, not so much."
+msgstr "그리고 라즈는이 땅을 떠나게 할 것입니다. 그러나 다음에 Raz는 그렇게 생각하지 않습니다.-G-"
+
+#: 115740052-0-25811
+#, fuzzy
+msgctxt "115740052-0-25811"
+msgid "I'll honor my word and show Razum-dar where to find the antidote."
+msgstr "나는 내 말에 경의를 표하고 Razum-dar에게 해독제를 찾을 곳을 보여줄 것이다.-G-"
+
+#: 115740052-0-25810
+#, fuzzy
+msgctxt "115740052-0-25810"
+msgid "You've won. I know that. So sheathe your weapons and come inside."
+msgstr "당신이 이겼습니다. 나는 그것을 안다. 그래서 무기를 벗겨 내고 안으로 들어가십시오.-G-"
+
+#: 115740052-0-25809
+#, fuzzy
+msgctxt "115740052-0-25809"
+msgid "Enough! Too much blood has been spilled."
+msgstr "충분히! 너무 많은 피가 쏟아졌습니다.-G-"
+
+#: 115740052-0-25808
+#, fuzzy
+msgctxt "115740052-0-25808"
+msgid "Oh, good. Raz has found them."
+msgstr "오 좋네. Raz가 그들을 발견했습니다.-G-"
+
+#: 115740052-0-25807
+#, fuzzy
+msgctxt "115740052-0-25807"
+msgid "The threads of fate align! Kill them now!"
+msgstr "운명의 실이 정렬! 그들을 지금 죽여라!-G-"
+
+#: 115740052-0-25806
+#, fuzzy
+msgctxt "115740052-0-25806"
+msgid "That's only because you assume the two are different, Razum dear."
+msgstr "그건 당신이 두 사람이 다르다고 가정했기 때문입니다, Razum 친애하는.-G-"
+
+#: 115740052-0-25805
+msgctxt "115740052-0-25805"
+msgid "You send very mixed messages, Naryu. One moment you're flirting, the next you're stabbing. It's very confusing."
+msgstr "네가 말한 것은 매우 복잡해. 유혹했다고 생각하면, 다음은 찌르고 있지. 매우 혼란스럽다."
+
+#: 115740052-0-25804
+#, fuzzy
+msgctxt "115740052-0-25804"
+msgid "Oh, I certainly hope so! I could use a good fight right about now."
+msgstr "오, 물론 그렇게되기를 바랍니다! 나는 지금 좋은 싸움을 사용할 수 있습니다.-G-"
+
+#: 115740052-0-25803
+#, fuzzy
+msgctxt "115740052-0-25803"
+msgid "Raz thinks this place is too quiet. Good spot for an ambush, yes?"
+msgstr "Raz는이 곳이 너무 조용하다고 생각합니다. 매복을위한 좋은 장소예요?-G-"
+
+#: 115740052-0-25802
+#, fuzzy
+msgctxt "115740052-0-25802"
+msgid "Let's return to the Sanctuary and tell Astara what the fumes revealed. I'll meet you there."
+msgstr "성역으로 돌아가서 Astara에게 그 연무가 무엇인지 밝혀 냅시다. 거기서 만나요.-G-"
+
+#: 115740052-0-25801
+msgctxt "115740052-0-25801"
+msgid "I … yes. I see it now. I pledge my blade and my life to you and to Akatosh. Show me the way."
+msgstr "난... 그래. 알았어요. 내 칼날과 생명을 아카토쉬에게 맡길 것을 맹세합니다. 길을 보여주세요."
+
+#: 115740052-0-25800
+msgctxt "115740052-0-25800"
+msgid "Become my champion, a sword of Akatosh—my Black Dragon that burns away evil's darkness."
+msgstr "내 투사이자, 아카토쉬의 검 악을 태워버릴 블랙 드래곤이 되거라."
+
+#: 115740052-0-25799
+msgctxt "115740052-0-25799"
+msgid "Nonsense, child. Akatosh performs more impressive miracles than that all the time. We just need to turn your talents to the holy work of the Dragon God."
+msgstr ""
+"아니란다, 아이야. 아카토쉬께서는 모든 시간에 걸쳐 기적을 일으키시는 분이시지. 네 재능을 드래곤 신을 위한 성스러운 일에 쓰기만 하면 "
+"된단다."
+
+#: 115740052-0-25798
+msgctxt "115740052-0-25798"
+msgid "Redemption? I'm a murderer! There's no redemption for someone like me."
+msgstr "속죄? 난 살인자야! 나 같은 놈에게 속죄의 길은 없어."
+
+#: 115740052-0-25797
+msgctxt "115740052-0-25797"
+msgid "You need to turn away from the Void and step into the light. Join me and together we'll walk the path to redemption."
+msgstr "넌 공허의 길에서 나와 빛으로 가야 한단다. 내게 와서 속죄의 길을 걷자구나."
+
+#: 115740052-0-25796
+msgctxt "115740052-0-25796"
+msgid "Join forces? I don't understand …."
+msgstr "합류하라고? 뭔 소린지 모르겠군..."
+
+#: 115740052-0-25795
+msgctxt "115740052-0-25795"
+msgid "I performed the Sacrament that brought you here. Not because Primate Jonas needed to die, but because the Dragon God wanted us to join forces."
+msgstr ""
+"내가 널 부르기 위해 검은 성사를 했단다. 조나스 대주교가 죽길 바래서 그런게 아니야, 드래곤 신께서는 네가 우리에게 합류하기를 바라신다."
+""
+
+#: 115740052-0-25794
+msgctxt "115740052-0-25794"
+msgid "Oh really? I just see another witness that needs to be silenced."
+msgstr "오 정말? 난 조용히 입을 다물어야 할 시체를 하나 더 발견한 거 같은데."
+
+#: 115740052-0-25793
+msgctxt "115740052-0-25793"
+msgid "You feel lost, without purpose. But the opposite is true. Everything has led you to me."
+msgstr "목적지도 없이 길을 잃었구나. 하지만 넌 길을 잃지 않았단다. 내게 잘 찾아 왔어."
+
+#: 115740052-0-25792
+msgctxt "115740052-0-25792"
+msgid "Put away your weapon, child. We have much to discuss."
+msgstr "무기를 집어 넣거라, 아이야. 이야기를 하고 싶구나."
+
+#: 115740052-0-25790
+#, fuzzy
+msgctxt "115740052-0-25790"
+msgid "Raz appreciates that. And people say you're a stone-cold harlot. But not Raz."
+msgstr "Raz는 그것을 높이 평가합니다. 그리고 사람들은 당신이 돌처럼 차가운 창녀라고 말합니다. 그러나 Raz는 아닙니다.-G-"
+
+#: 115740052-0-25789
+#, fuzzy
+msgctxt "115740052-0-25789"
+msgid "We all have bad feelings. It's inevitable. I'll have my eyes and ears around town watch for her, if it makes you feel any better."
+msgstr "우리 모두는 나쁜 감정을 가지고 있습니다. 피할 수없는 일입니다. 내 눈과 귀가 마을 주변에서 그녀를 보게 할 것이다.-G-"
+
+#: 115740052-0-25788
+#, fuzzy
+msgctxt "115740052-0-25788"
+msgid "Yarmia never flees at the first sign of trouble. Second, yes, but first? Plus she always comes back. Raz has a bad feeling …."
+msgstr ""
+"야마 사는 결코 곤경에 빠지기 시작하지 않습니다. 둘째로, 그렇습니다, 그러나 첫째로? 게다가 그녀는 항상 돌아온다. Raz는 나쁜 "
+"감각을 가지고있다.-G-"
+
+#: 115740052-0-25787
+#, fuzzy
+msgctxt "115740052-0-25787"
+msgid "I'm sure your apprentice just ran off. Probably better she's gone when the killer comes around, anyway."
+msgstr "견습생이 도망 갔다고 확신합니다. 어쨌든 살인자가 돌아 왔을 때 그녀는 갔을거야-G-"
+
+#: 115740052-0-25786
+#, fuzzy
+msgctxt "115740052-0-25786"
+msgid "Actually, this is one of Raz's good days …."
+msgstr "사실, 이것은 Raz의 좋은 시절 중 하나입니다 ....-G-"
+
+#: 115740052-0-25785
+#, fuzzy
+msgctxt "115740052-0-25785"
+msgid "Is the cat always like this?"
+msgstr "고양이는 항상 이것과 비슷한가요?-G-"
+
+#: 115740052-0-25784
+#, fuzzy
+msgctxt "115740052-0-25784"
+msgid "All in good time. First, let's discuss what the fates have in store for us. It's sure to be illuminating."
+msgstr "좋은 시간 되세요. 우선 운명이 우리를 위해 무엇을 가지고 있는지 토론 해 봅시다. 그것은 밝게 빛날 것입니다.-G-"
+
+#: 115740052-0-25783
+#, fuzzy
+msgctxt "115740052-0-25783"
+msgid "Tell Raz what's wrong with these people right now, yes?"
+msgstr "Raz에게 지금 당장이 사람들이 뭐가 잘못 됐는지 말해줘, 응?-G-"
+
+#: 115740052-0-25782
+#, fuzzy
+msgctxt "115740052-0-25782"
+msgid "You think it's going to be that easy? We've got you surrounded!"
+msgstr "그렇게 쉬울 것 같니? 우리는 당신을 포위했다!-G-"
+
+#: 115740052-0-25781
+#, fuzzy
+msgctxt "115740052-0-25781"
+msgid "If you care about the lives of these people, sheath your weapons now."
+msgstr "이 사람들의 삶에 관심이 있다면 지금 무기를 씌워주십시오.-G-"
+
+#: 115740052-0-25778
+#, fuzzy
+msgctxt "115740052-0-25778"
+msgid "No! You die! You …."
+msgstr "아니! 너 죽는다! 너 ....-G-"
+
+#: 115740052-0-25775
+#, fuzzy
+msgctxt "115740052-0-25775"
+msgid "Raz is just admiring the beautiful mermaid. It is so … large. And shapely!"
+msgstr "Raz는 아름다운 인어에 감탄하고 있습니다. 그것은 너무 크다. 그리고 매끈하게!-G-"
+
+#: 115740052-0-25774
+#, fuzzy
+msgctxt "115740052-0-25774"
+msgid "If you stare at that statue any harder, Raz, your eyes will pop right out of your head."
+msgstr "그 상이 더 ​​열심히 응시하는 경우, Raz, 당신의 눈은 당신의 머리에서 곧 튀어 나올 것입니다.-G-"
+
+#: 115740052-0-25773
+msgctxt "115740052-0-25773"
+msgid "Um, Raz is confused. You better talk to Naryu so we can figure out what's going on here."
+msgstr "음, 라즈는 혼란 스럽다. 사건의 전말을 알 수 있도록 나류와 이야기해 봐."
+
+#: 115740052-0-25772
+msgctxt "115740052-0-25772"
+msgid "Ah, here comes our Assassin. Back from the wilds of Black Marsh, I see. Come. Let's talk."
+msgstr "아, 이쪽으로 오게 암살자여. 블랙마쉬에서 다녀온 거 다 안다. 이쪽으로 와서 이야기 하지."
+
+#: 115740052-0-25771
+msgctxt "115740052-0-25771"
+msgid "Patience, Brother. Let me consider the ramifications. Your connection to Lyra could be a boon in this matter, but it could also be a detriment."
+msgstr ""
+"진정하게, 형제여. 그 제안에 대해 생각해 보도록 하지. 너와 라이라의 관계는 이 문제에 도움이 될 수도 있지만, 오히려 독이 될 수도 "
+"있다."
+
+#: 115740052-0-25770
+msgctxt "115740052-0-25770"
+msgid "Let my blade be the one that ends the Black Dragon's life."
+msgstr "제 칼날이 블랙 드래곤의 숨통을 끊게 해주소서."
+
+#: 115740052-0-25769
+msgctxt "115740052-0-25769"
+msgid "Give me the order, Matron."
+msgstr "여주인이시여 제게 명령만 내려주십시오."
+
+#: 115740052-0-25768
+msgctxt "115740052-0-25768"
+msgid "The Black Dragon was one of us. She knows how we think, how we act. Artorius uses our own weapon against us!"
+msgstr ""
+"블랙 드래곤이 우리 가족이었군. 그래서 그녀가 우리의 생각과 행동을 알았던가야. 아르토리우스는 우리의 가족이었던 존재를 우릴 사냥하는 "
+"무기로 사용했군!"
+
+#: 115740052-0-25767
+msgctxt "115740052-0-25767"
+msgid "All evidence points to one conclusion—Lyra is the Black Dragon. And she's working for Primate Artorius."
+msgstr ""
+"모든 증거는 하나의 답을 가르키고 있습니다 - 라이라가 블랙 드래곤입니다. 그녀는 아르토리우스 대주교 밑에서 일하고 있습니다."
+
+#: 115740052-0-25766
+msgctxt "115740052-0-25766"
+msgid "Of course I know where you went, Venom. If I didn't intend for that to happen, you'd be a backpack by now. Tell me what you uncovered."
+msgstr "네가 어딜 다녀왔는지 알고 있다, 베놈. 지금 당장 가죽가방이 되고 싶지 않다면, 밝혀낸 사실을 보고하도록 해."
+
+#: 115740052-0-25765
+#, fuzzy
+msgctxt "115740052-0-25765"
+msgid "Well, I am a killer, but I'm not the killer. And what's that one doing here? This has nothing to do with the Brotherhood …."
+msgstr ""
+"글쎄, 난 살인자 야,하지만 난 살인자가 아니야. 그리고 그 중 하나가 여기에서 무엇입니까? 이것은 형제애와는 아무런 관련이 없습니다 .."
+"..-G-"
+
+#: 115740052-0-25764
+msgctxt "115740052-0-25764"
+msgid "Ah, of course! The Beautiful Darkness! Wait, is Naryu the Sweetroll Killer? Raz would be sad to have to kill you now."
+msgstr "아, 물론! 아름다운 어둠! 기다려. 스위트롤 킬러는 나류인가? 지금 당신을 죽여야 하는 것이 슬프다."
+
+#: 115740052-0-25763
+#, fuzzy
+msgctxt "115740052-0-25763"
+msgid "You really shouldn't break into a house that someone has already broken into. Where's your sense of honor, Razum-dar?"
+msgstr "당신은 누군가가 이미 침입 한 집에 침입해서는 안됩니다. 너의 명예는 어디 있니, Razum-dar?-G-"
+
+#: 115740052-0-25762
+#, fuzzy
+msgctxt "115740052-0-25762"
+msgid "A coded message? Raz hates riddles. You figure it out, yes?"
+msgstr "코딩 된 메시지? Raz는 수수께끼를 싫어해. 네가 알아 낸거야?-G-"
+
+#: 115740052-0-25760
+#, fuzzy
+msgctxt "115740052-0-25760"
+msgid "What a wonderful place to hide something! Look for a statue or something. Anything that could serve as a marker for a hiding place."
+msgstr "무언가를 숨기려면 정말 멋진 곳! 동상이나 뭔가를 찾으십시오. 숨어있는 장소의 표식이 될 수있는 모든 것.-G-"
+
+#: 115740052-0-25759
+#, fuzzy
+msgctxt "115740052-0-25759"
+msgid "Pardon me. Excuse me. Coming through."
+msgstr "뭐라고 요. 실례합니다. 다가오고 있습니다.-G-"
+
+#: 115740052-0-25758
+#, fuzzy
+msgctxt "115740052-0-25758"
+msgid "Raz saw one of the suspicious messengers near the hedge maze to the southwest. Why the city has a hedge maze is a mystery for another day, yes?"
+msgstr ""
+"라즈는 의심스러운 메신저 중 한 사람을 남서쪽의 헤지 미로 근처에서 보았습니다. 왜 도시에는 헷지 미로가 있느냐는 또 다른 날의 "
+"수수께끼일까요?-G-"
+
+#: 115740052-0-25757
+#, fuzzy
+msgctxt "115740052-0-25757"
+msgid "Very well, then. A toast! To taking what you can and fighting to keep what's yours."
+msgstr "아주 좋아. 토스트! 당신이 할 수있는 것을 취하고 당신의 것을 유지하기 위해 싸우는 것.-G-"
+
+#: 115740052-0-25756
+#, fuzzy
+msgctxt "115740052-0-25756"
+msgid "Raz forgot how much he hates working out in the open like this."
+msgstr "Raz는 그가 이런 식으로 공개적으로 일하는 것을 얼마나 싫어하는지 잊어 버렸습니다.-G-"
+
+#: 115740052-0-25755
+#, fuzzy
+msgctxt "115740052-0-25755"
+msgid "I found the Sweetroll Killer, Commander! Help!"
+msgstr "사령관 스윗 롤 살인자를 찾았습니다! 도움!-G-"
+
+#: 115740052-0-25754
+#, fuzzy
+msgctxt "115740052-0-25754"
+msgid "I don't think this is what Raz meant when he said ""be discreet."""
+msgstr "나는 이것이 Raz가 ""신중해야한다""고 말한 것이라고 생각하지 않습니다.-G-"
+
+#: 115740052-0-25753
+#, fuzzy
+msgctxt "115740052-0-25753"
+msgid "Didn't I tell you to leave me alone? My commander isn't going to like this!"
+msgstr "나를두고 가라고 말하지 않았 니? 내 사령관이 이걸 좋아하지 않을거야!-G-"
+
+#: 115740052-0-25752
+#, fuzzy
+msgctxt "115740052-0-25752"
+msgid "Don't you dare follow me! I've got some apples and I know how to use them!"
+msgstr "감히 날 따라하지 마! 나는 사과를 가지고 있고 그것을 사용하는 방법을 안다!-G-"
+
+#: 115740052-0-25751
+#, fuzzy
+msgctxt "115740052-0-25751"
+msgid "Artorius will die. You have my word on that. And you'll each have a hand in the slaying. Now move. We have preparations to make."
+msgstr ""
+"아투 리우스는 죽을 것이다. 너는 그것에 대해 내 말을 전했다. 그리고 당신은 각각 사형에 손을 넣을 것입니다. 움직여. 우리는 준비 할 "
+"준비가되어 있습니다.-G-"
+
+#: 115740052-0-25750
+#, fuzzy
+msgctxt "115740052-0-25750"
+msgid "I want to plunge my dagger into him, once for every Brother and Sister he's killed."
+msgstr "내 단검을 그에게 던지려고합니다. 한번은 형제와 누이가 죽을 때마다 한 번씩.-G-"
+
+#: 115740052-0-25749
+#, fuzzy
+msgctxt "115740052-0-25749"
+msgid "It can't be blasphemy if we don't adhere to that religion, Hilde."
+msgstr "우리가 그 종교를 고수하지 않는다면 신성 모독 할 수 없습니다, 힐데.-G-"
+
+#: 115740052-0-25748
+#, fuzzy
+msgctxt "115740052-0-25748"
+msgid "But the Primate speaks for Akatosh! Isn't that blasphemy?"
+msgstr "그러나 Primate는 Akatosh를 말합니다! 그 신성 모독은 아닌가?-G-"
+
+#: 115740052-0-25747
+#, fuzzy
+msgctxt "115740052-0-25747"
+msgid "The Assassin ended the threat of the Black Dragon, but we won't be safe until Artorius joins her in the Void."
+msgstr "암살자는 흑룡 단의 위협을 끝내었지만, Artorius가 그녀의 공허에 합류 할 때까지는 안전하지 않습니다.-G-"
+
+#: 115740052-0-25746
+#, fuzzy
+msgctxt "115740052-0-25746"
+msgid "All our Brothers and Sisters murdered. But we're safe now, right? The Black Dragon's dead."
+msgstr "모든 형제 자매가 살해되었습니다. 하지만 지금은 안전 해. 그렇지? 블랙 드래곤이 죽었어.-G-"
+
+#: 115740052-0-25745
+#, fuzzy
+msgctxt "115740052-0-25745"
+msgid "So the New-blade brought down the Black Dragon? And I didn't expect you'd survive your first contract!"
+msgstr ""
+"그래서 새로운 블레이드는 블랙 드래곤을 무너 뜨 렸습니다. 그리고 당신이 첫 번째 계약에서 살아남을 것을 기대하지 않았습니다!-G-"
+
+#: 115740052-0-25744
+#, fuzzy
+msgctxt "115740052-0-25744"
+msgid "My, someone is certainly curious about this Nord girl. I wonder who she could be?"
+msgstr "나,이 Nord 소녀에 대해 누군가 궁금해하고있다. 그녀가 누군지 궁금해?-G-"
+
+#: 115740052-0-25742
+#, fuzzy
+msgctxt "115740052-0-25742"
+msgid "This Hist… I hear it now. It is in anguish."
+msgstr "이 Hist ... 나는 지금 그것을 듣는다. 그것은 고뇌 속에 있습니다.-G-"
+
+#: 115740052-0-25741
+#, fuzzy
+msgctxt "115740052-0-25741"
+msgid "Thank you?"
+msgstr "고맙습니다?-G-"
+
+#: 115740052-0-25740
+#, fuzzy
+msgctxt "115740052-0-25740"
+msgid "Reckless? Yes. But the chick that tumbles out of the nest is not without virtue. Courage—even a fool's courage—is always worthy of praise."
+msgstr ""
+"무모한? 예. 그러나 둥지에서 떨어지는 병아리는 미덕이 아닙니다. 용기는 - 심지어 바보의 용기 - 항상 칭찬의 가치가 있습니다.-G-"
+
+#: 115740052-0-25739
+#, fuzzy
+msgctxt "115740052-0-25739"
+msgid "Green-Venom-Tongue challenged me and failed. What hope do you have? Even my shadows are more substantial than you!"
+msgstr "녹색 독 - 혀가 나에게 도전했고 실패했다. 희망이 무엇입니까? 내 그림자조차도 당신보다 더 큽니다!-G-"
+
+#: 115740052-0-25738
+#, fuzzy
+msgctxt "115740052-0-25738"
+msgid "I'm unarmed. May we speak before you kill me?"
+msgstr "나는 비무장이다. 네가 날 죽이기 전에 말 할까?-G-"
+
+#: 115740052-0-25737
+#, fuzzy
+msgctxt "115740052-0-25737"
+msgid "You there! Wait for a moment, if you would!"
+msgstr "너 거기있어! 원한다면 잠시 기다려주세요!-G-"
+
+#: 115740052-0-25736
+#, fuzzy
+msgctxt "115740052-0-25736"
+msgid "Thank you, root-mother, but my companions are the real heroes. I spent most of our adventure lost or unconscious. I was …."
+msgstr ""
+"고마워요. 근친상근,하지만 내 친구들은 진정한 영웅입니다. 나는 대부분의 모험을 잃어 버렸거나 무의식 중에 보냈다. 나는 ~였다 ….-G-"
+""
+
+#: 115740052-0-25734
+msgctxt "115740052-0-25734"
+msgid "Show yourself, assassin! Or are you another one of those Brotherhood cowards who prefers to strike from the shadows?"
+msgstr "모습을 보여라, 암살자야! 너는 그림자에서 기습하는 걸 좋아하는 저 브라더후드 겁쟁이 중 하나인가?"
+
+#: 115740052-0-25733
+msgctxt "115740052-0-25733"
+msgid "Well done, my soldiers! The Governor and the Count have departed safely."
+msgstr "잘 했다, 병사들! 총독과 백작은 안전하게 떠났다."
+
+#: 115740052-0-25731
+#, fuzzy
+msgctxt "115740052-0-25731"
+msgid "SAT music"
+msgstr "SAT 음악-G-"
+
+#: 115740052-0-25727
+msgctxt "115740052-0-25727"
+msgid "Sorry. She can be skittish around strangers."
+msgstr "미안해. 그녀는 낯선 사람을 보면 쉽게 겁 먹곤 하거든."
+
+#: 115740052-0-25726
+msgctxt "115740052-0-25726"
+msgid "Come on now, Hilde. Don't be shy …."
+msgstr "자 어서, 힐데. 부끄러워 하지 말고 …."
+
+#: 115740052-0-25725
+msgctxt "115740052-0-25725"
+msgid "It's all right, little one. Just a new smell. Your new Brother or Sister must be here! Don't you want to meet them?"
+msgstr "괜찮아, 아가. 그냥 새로운 냄새일 뿐이야. 네 새로운 형제 혹은 자매가 여기에 왔나 봐! 녀석들을 만나고 싶지 않아?"
+
+#: 115740052-0-25722
+#, fuzzy
+msgctxt "115740052-0-25722"
+msgid "Step forward, loyal Brother."
+msgstr "앞으로 나아가십시오, 충성스러운 형제.-G-"
+
+#: 115740052-0-25721
+#, fuzzy
+msgctxt "115740052-0-25721"
+msgid "Step forward, my Silencer!"
+msgstr "앞으로 나아가십시오, 나의 소음기!-G-"
+
+#: 115740052-0-25720
+#, fuzzy
+msgctxt "115740052-0-25720"
+msgid "The Dread Father acts through her. And her work has just begun."
+msgstr "Dread Father는 그녀를 통해 행동합니다. 그리고 그녀의 일은 이제 막 시작되었습니다.-G-"
+
+#: 115740052-0-25719
+#, fuzzy
+msgctxt "115740052-0-25719"
+msgid "Her heart shines with the color of night. Her song sings with the music of life. Her gaze inspires fear and her hands grant the gift of death."
+msgstr ""
+"그녀의 마음은 밤의 색으로 빛난다. 그녀의 노래는 삶의 음악으로 노래합니다. 그녀의 시선은 두려움을 불러 일으키고 그녀의 손은 죽음의 "
+"선물을 준다.-G-"
+
+#: 115740052-0-25718
+#, fuzzy
+msgctxt "115740052-0-25718"
+msgid "Chudan has broken her bonds!"
+msgstr "추단이 채권을 끊었습니다!-G-"
+
+#: 115740052-0-25716
+#, fuzzy
+msgctxt "115740052-0-25716"
+msgid "Heem-Jas? Is that—?"
+msgstr "헴 자스? 그거야?-G-"
+
+#: 115740052-0-25714
+#, fuzzy
+msgctxt "115740052-0-25714"
+msgid "Please … I just need—"
+msgstr "제발 .. 필요해.-G-"
+
+#: 115740052-0-25712
+#, fuzzy
+msgctxt "115740052-0-25712"
+msgid "Up, muck-mouth! Now!"
+msgstr "입, 입 다물어! 지금!-G-"
+
+#: 115740052-0-25711
+#, fuzzy
+msgctxt "115740052-0-25711"
+msgid "Now back to the Sanctuary, my assassins. We have friends to remember and a victory to celebrate."
+msgstr "이제 성역으로 돌아 가자. 내 암살자. 기억해야 할 친구들과 축하 할 승리가 있습니다.-G-"
+
+#: 115740052-0-25710
+#, fuzzy
+msgctxt "115740052-0-25710"
+msgid "Stand tall, Brothers and Sisters. We are the Dark Brotherhood."
+msgstr "키가 큰 형제 자매. 우리는 다크 브라더 후드입니다.-G-"
+
+#: 115740052-0-25709
+#, fuzzy
+msgctxt "115740052-0-25709"
+msgid "To the Void with you, Artorius. May the Dread Father grant you the welcome you so richly deserve."
+msgstr "너와 함께 공허, Artorius. Dread Father가 당신을 매우 부유하게 환영 할 수 있기를 바랍니다.-G-"
+
+#: 115740052-0-25707
+#, fuzzy
+msgctxt "115740052-0-25707"
+msgid "A sacrifice? There may still be time to save them. If the stories are true, Xal-Nur is slow and stupid … but also strong as a graht oak. We must move quickly."
+msgstr ""
+"희생? 저장 시간이 아직 남아 있습니다. 이야기가 사실이라면, Xal-Nur는 느리고 어리석은 ... graht 오크처럼 강하다. 우리는 "
+"빨리 움직여야합니다.-G-"
+
+#: 115740052-0-25706
+#, fuzzy
+msgctxt "115740052-0-25706"
+msgid "No. No, I think not. Xal-Nur prepares your elders for sacrifice even as we speak. Their blood will water the roots. As will yours."
+msgstr ""
+"아니, 아니야. Xal-Nur는 우리가 말하는 것처럼 장로들에게 희생 제물을 준비시킵니다. 그들의 피가 뿌리를 물을 것입니다. 당신 "
+"것입니다.-G-"
+
+#: 115740052-0-25705
+#, fuzzy
+msgctxt "115740052-0-25705"
+msgid "Muck-dwellers! What have you done?"
+msgstr "머크 거주자들! 너 뭐 했니?-G-"
+
+#: 115740052-0-25704
+#, fuzzy
+msgctxt "115740052-0-25704"
+msgid "Assassin, strike true!"
+msgstr "어쌔신, 파업 사실!-G-"
+
+#: 115740052-0-25702
+#, fuzzy
+msgctxt "115740052-0-25702"
+msgid "Keep moving. I will guide this lot to the exit, then we can send Zatzu to the Root-place."
+msgstr "계속 움직여. 이 제비 뽑기를 출구로 안내 할 것이고, 그 다음에 Zatzu를 Root-place로 보낼 수 있습니다.-G-"
+
+#: 115740052-0-25701
+#, fuzzy
+msgctxt "115740052-0-25701"
+msgid "Heem-Jas? How did you—? Nevermind. Zatzu the Spine-Breaker … she's taken the others deeper into the ruins."
+msgstr ""
+"헴 자스? 어떻게 지내? 신경 쓰지 마. Spat-Breaker Zatzu ... 그녀는 다른 사람들을 폐허로 깊숙이 데려갔습니다.-G-"
+
+#: 115740052-0-25699
+#, fuzzy
+msgctxt "115740052-0-25699"
+msgid "<There is a knocking on the door.>"
+msgstr "<문을 두드리는 소리가 들린다.>-G-"
+
+#: 115740052-0-25698
+#, fuzzy
+msgctxt "115740052-0-25698"
+msgid "How did you get in here? Akatosh, protect me!"
+msgstr "어떻게 여기 들어왔지? 아카 토쉬, 날 지켜줘!-G-"
+
+#: 115740052-0-25695
+#, fuzzy
+msgctxt "115740052-0-25695"
+msgid "I'll see Cimbar and the Dread Father soon … but you need to warn Astara … the Black Dragon is …."
+msgstr ""
+"나는 Cimbar와 Dread Father를 곧 보게 될 것이다. 그러나 당신은 Astara ... Black Dragon이 경고 할 "
+"필요가있다.-G-"
+
+#: 115740052-0-25694
+#, fuzzy
+msgctxt "115740052-0-25694"
+msgid "Psst! Assassin! Up here! I'm waiting for the Black Dragon."
+msgstr "Psst! 암살자! 여기! 블랙 드래곤을 기다리고 있습니다.-G-"
+
+#: 115740052-0-25693
+#, fuzzy
+msgctxt "115740052-0-25693"
+msgid "Largest, meanest troll you could find? I thought you said it wasn't dangerous?"
+msgstr "가장 크고 비열한 트롤을 찾을 수 있을까요? 위험하지 않다고 말한 줄 알았는데?-G-"
+
+#: 115740052-0-25692
+#, fuzzy
+msgctxt "115740052-0-25692"
+msgid "Someone's looking to buy the largest, meanest troll I could find. If the gold's good, I don't ask questions."
+msgstr "누군가 내가 찾을 수있는 가장 크고 가장 비열한 트롤을 사려고합니다. 금이 좋은 것이라면 나는 질문하지 않는다.-G-"
+
+#: 115740052-0-25691
+#, fuzzy
+msgctxt "115740052-0-25691"
+msgid "If you say so. He still looks angry to me. What are you doing with it, by the way?"
+msgstr "네가 그렇게 말하면. 그는 여전히 나에게 화가 나있다. 그건 그렇고 너 뭐하고 있니?-G-"
+
+#: 115740052-0-25690
+#, fuzzy
+msgctxt "115740052-0-25690"
+msgid "Don't be such a jittery mudcrab. For a troll, he's quite docile. And that iron is practically unbreakable."
+msgstr ""
+"그런 지저분한 mudcrab하지 마십시오. 트롤에게는 꽤 유순 한 사람입니다. 그리고 그 철은 실제적으로 깨지지 않습니다.-G-"
+
+#: 115740052-0-25689
+#, fuzzy
+msgctxt "115740052-0-25689"
+msgid "That thing's awfully large … and it looks kind of dangerous."
+msgstr "그게 엄청 크고 ... 위험한 것 같아.-G-"
+
+#: 115740052-0-25688
+#, fuzzy
+msgctxt "115740052-0-25688"
+msgid "I'll see you back at the Sanctuary, darling. After I clean up any evidence of our involvement."
+msgstr "성역에서 다시 만날거야, 자기야. 우리가 참여했다는 증거를 정리 한 후에-G-"
+
+#: 115740052-0-25687
+#, fuzzy
+msgctxt "115740052-0-25687"
+msgid "Keep your filthy hands off of me! Enough! I surrender!"
+msgstr "너의 더러운 손을 내게 맡겨라! 충분히! 항복한다!-G-"
+
+#: 115740052-0-25686
+#, fuzzy
+msgctxt "115740052-0-25686"
+msgid "I … lost? Hmm. I must quit the drink."
+msgstr "나는 .. 길을 잃었 어? 흠. 나는 그 음료를 끊어야한다.-G-"
+
+#: 115740052-0-25685
+#, fuzzy
+msgctxt "115740052-0-25685"
+msgid "Tusk this! I give up. You win!"
+msgstr "엄니 이것! 나는 포기한다. 네가 이겼다!-G-"
+
+#: 115740052-0-25684
+#, fuzzy
+msgctxt "115740052-0-25684"
+msgid "Enough! I sheathe my claws and yield!"
+msgstr "충분히! 나는 내 발톱을 단단히 감싸줍니다!-G-"
+
+#: 115740052-0-25683
+#, fuzzy
+msgctxt "115740052-0-25683"
+msgid "Beg, grovel, and weep!"
+msgstr "Beg, grovel, and weep!-G-"
+
+#: 115740052-0-25682
+#, fuzzy
+msgctxt "115740052-0-25682"
+msgid "You might not enjoy this, but I will."
+msgstr "너는 이것을 즐기지 않을 수도 있지만, 나는 그렇게 할 것이다.-G-"
+
+#: 115740052-0-25681
+#, fuzzy
+msgctxt "115740052-0-25681"
+msgid "They'll have to mop you off the cobblestones!"
+msgstr "자갈에서자를 거 야!-G-"
+
+#: 115740052-0-25680
+#, fuzzy
+msgctxt "115740052-0-25680"
+msgid "And now the hackles are raised. Good!"
+msgstr "그리고 이제는 헤클이 제기됩니다. 좋은!-G-"
+
+#: 115740052-0-25679
+#, fuzzy
+msgctxt "115740052-0-25679"
+msgid "How dare you even speak to me!"
+msgstr "감히 나 한테 말할 수있어!-G-"
+
+#: 115740052-0-25678
+#, fuzzy
+msgctxt "115740052-0-25678"
+msgid "Is this your custom? Allow me to show you mine."
+msgstr "이게 너의 관습이야? 내 것을 보여줄 수있게 해줘.-G-"
+
+#: 115740052-0-25677
+#, fuzzy
+msgctxt "115740052-0-25677"
+msgid "I'll yank that weak spine out your arse and shove in a new one!"
+msgstr "나는 너의 엉덩이에서 그 약한 등뼈를 잡아 당겨서 새것에 밀어 넣을거야!-G-"
+
+#: 115740052-0-25676
+#, fuzzy
+msgctxt "115740052-0-25676"
+msgid "This one finds you dull in both wits and claws. Go bore another."
+msgstr "이 하나는 당신이 지혜와 발톱 모두에서 둔감하다는 것을 알게됩니다. 다른 보어 이동하십시오.-G-"
+
+#: 115740052-0-25675
+#, fuzzy
+msgctxt "115740052-0-25675"
+msgid "Filthy s'wit! You dare turn your back to me?"
+msgstr "더러운 것! 너 감히 나 한테 돌려 줄거야?-G-"
+
+#: 115740052-0-25674
+#, fuzzy
+msgctxt "115740052-0-25674"
+msgid "That comment was unwise. Consider this a lesson."
+msgstr "그 의견은 현명하지 못했다. 이것을 교훈으로 생각해보십시오.-G-"
+
+#: 115740052-0-25673
+#, fuzzy
+msgctxt "115740052-0-25673"
+msgid "Your blood on the streets then! It makes no difference to me!"
+msgstr "그 때 거리에 피가! 그것은 나에게 아무런 차이가 없다!-G-"
+
+#: 115740052-0-25672
+#, fuzzy
+msgctxt "115740052-0-25672"
+msgid "This one knew your tail was yellow."
+msgstr "이 사람은 꼬리가 노랗다는 것을 알았습니다.-G-"
+
+#: 115740052-0-25671
+#, fuzzy
+msgctxt "115740052-0-25671"
+msgid "I yield! I yield! Stop! I can't feel my face."
+msgstr "나는 양보한다! 나는 양보한다! 중지! 나는 내 얼굴을 느낄 수 없다.-G-"
+
+#: 115740052-0-25670
+#, fuzzy
+msgctxt "115740052-0-25670"
+msgid "Ah! I erect the spine of surrender!"
+msgstr "아! 나는 항복의 등뼈를 세우다!-G-"
+
+#: 115740052-0-25669
+#, fuzzy
+msgctxt "115740052-0-25669"
+msgid "Ugh—where am I? Must have taken a fall. I need another drink."
+msgstr "나는 어딨어? 반드시 추락 했어야합니다. 다른 음료가 필요해.-G-"
+
+#: 115740052-0-25668
+#, fuzzy
+msgctxt "115740052-0-25668"
+msgid "Ha, well fought! Come, we will wash the blood from our mouths with drink!"
+msgstr "하, 잘 싸웠다! 와서, 우리는 음료로 우리의 입에서 피를 씻어 낼 것입니다!-G-"
+
+#: 115740052-0-25667
+#, fuzzy
+msgctxt "115740052-0-25667"
+msgid "I—I didn't want to do this!"
+msgstr "나는 - 나는 이것을하고 싶지 않았다!-G-"
+
+#: 115740052-0-25666
+#, fuzzy
+msgctxt "115740052-0-25666"
+msgid "I will hit you so hard your egg-brothers will cry!"
+msgstr "나는 형제가 울게 될 정도로 열심히 칠 것이다!-G-"
+
+#: 115740052-0-25665
+#, fuzzy
+msgctxt "115740052-0-25665"
+msgid "Take your best shot … ugly face!"
+msgstr "네 최고의 샷을 ... 못생긴 얼굴!-G-"
+
+#: 115740052-0-25664
+#, fuzzy
+msgctxt "115740052-0-25664"
+msgid "Bah! To Sovngarde with you!"
+msgstr "바하마! 너와 함께 Sovngarde!-G-"
+
+#: 115740052-0-25663
+#, fuzzy
+msgctxt "115740052-0-25663"
+msgid "I—I said good day! Good day!"
+msgstr "나는 좋은 날을 보냈다! 좋은 날!-G-"
+
+#: 115740052-0-25662
+#, fuzzy
+msgctxt "115740052-0-25662"
+msgid "You cling like a skin that will not shed!"
+msgstr "너는 흘리지 않을 피부처럼 달라 붙어!-G-"
+
+#: 115740052-0-25661
+#, fuzzy
+msgctxt "115740052-0-25661"
+msgid "Pfft, you want—you want to go, tough … jerk … face?"
+msgstr "Pfft, 네가 가고 싶어, 너는 가고 싶어, 거친 ... 얼간이 ... 얼굴?-G-"
+
+#: 115740052-0-25660
+#, fuzzy
+msgctxt "115740052-0-25660"
+msgid "Take a walk, milk-drinker."
+msgstr "우유 마시 러 가자.-G-"
+
+#: 115740052-0-25659
+#, fuzzy
+msgctxt "115740052-0-25659"
+msgid "You—you take that back!"
+msgstr "당신 - 그걸 다시 가져가!-G-"
+
+#: 115740052-0-25658
+#, fuzzy
+msgctxt "115740052-0-25658"
+msgid "I said you are like swamp gas—damp and smelly."
+msgstr "나는 네가 습한 가스 습기와 냄새 같은 녀석이라고 말했다.-G-"
+
+#: 115740052-0-25657
+#, fuzzy
+msgctxt "115740052-0-25657"
+msgid "Where you—you think … you're going?"
+msgstr "너 어디 있니? 너 갈거야?-G-"
+
+#: 115740052-0-25656
+#, fuzzy
+msgctxt "115740052-0-25656"
+msgid "Hey! Snowback! We're not done here!"
+msgstr "이봐 요! 스노우 백! 우린 여기서 끝나지 않았어!-G-"
+
+#: 115740052-0-25440
+#, fuzzy
+msgctxt "115740052-0-25440"
+msgid "Yes, it is me. I just need to …. Kaoc. I will tend to this one. Save the others!"
+msgstr "네, 나야. 나는 단지 .... Kaoc. 나는 이것을 하나의 경향이있다. 다른 사람들을 구하십시오!-G-"

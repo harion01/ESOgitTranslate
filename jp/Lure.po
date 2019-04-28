@@ -1,0 +1,102 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 228378404-0-42877
+msgctxt "228378404-0-42877"
+msgid "General fishing Bait"
+msgstr "釣り餌(一般)"
+
+#: 242841733-0-42877
+msgctxt "242841733-0-42877"
+msgid "simple bait"
+msgstr "簡単な餌"
+
+#: 228378404-0-42876
+msgctxt "228378404-0-42876"
+msgid "Found in saltwater, best used for fishing in lake water"
+msgstr "塩水で見つかる。湖での釣りにちょうど良い。"
+
+#: 242841733-0-42876
+msgctxt "242841733-0-42876"
+msgid "minnow, Lake Bait"
+msgstr "ミノウ(湖の餌)"
+
+#: 228378404-0-42875
+msgctxt "228378404-0-42875"
+msgid "Found in foul water, best used for fishing in saltwater."
+msgstr "汚水で見つかる。塩水での釣りにちょうど良い。"
+
+#: 242841733-0-42875
+msgctxt "242841733-0-42875"
+msgid "chub, Saltwater Bait"
+msgstr "チャブ(塩水の餌)"
+
+#: 228378404-0-42874
+msgctxt "228378404-0-42874"
+msgid "Found in lakes, best used for fishing in rivers."
+msgstr "湖で見つかる。川での釣りにちょうど良い。"
+
+#: 242841733-0-42874
+msgctxt "242841733-0-42874"
+msgid "shad, River Bait"
+msgstr "シャッド(川の餌)"
+
+#: 228378404-0-42873
+msgctxt "228378404-0-42873"
+msgid "Found in running water, best used for fishing in foul water."
+msgstr "流水で見つかる。汚水での釣りにちょうど良い。"
+
+#: 242841733-0-42873
+msgctxt "242841733-0-42873"
+msgid "fish roe, Foul Bait"
+msgstr "魚卵(汚水の餌)"
+
+#: 228378404-0-42872
+msgctxt "228378404-0-42872"
+msgid "Bait best used for fishing in River water"
+msgstr "川釣り用の餌。"
+
+#: 242841733-0-42872
+msgctxt "242841733-0-42872"
+msgid "insect parts, River Bait"
+msgstr "虫の一部(川の餌)"
+
+#: 228378404-0-42871
+msgctxt "228378404-0-42871"
+msgid "Bait best used for fishing in Foul water"
+msgstr "汚水釣り用の餌。"
+
+#: 242841733-0-42871
+msgctxt "242841733-0-42871"
+msgid "crawlers, Foul Bait"
+msgstr "クローラー(汚水の餌)"
+
+#: 228378404-0-42870
+msgctxt "228378404-0-42870"
+msgid "Bait best used for fishing in Lake water"
+msgstr "湖釣り用の餌。"
+
+#: 242841733-0-42870
+msgctxt "242841733-0-42870"
+msgid "guts, Lake Bait"
+msgstr "内臓(湖の餌)"
+
+#: 228378404-0-42869
+msgctxt "228378404-0-42869"
+msgid "Bait best used for fishing in Saltwater"
+msgstr "塩水釣り用の餌。"
+
+#: 242841733-0-42869
+msgctxt "242841733-0-42869"
+msgid "worms, Saltwater Bait"
+msgstr "虫(塩水の餌)"

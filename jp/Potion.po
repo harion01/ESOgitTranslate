@@ -1,0 +1,387 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 242841733-0-77602
+msgctxt "242841733-0-77602"
+msgid "Defile"
+msgstr "汚染"
+
+#: 242841733-0-77600
+msgctxt "242841733-0-77600"
+msgid "Vitality"
+msgstr "生命力"
+
+#: 242841733-0-68356
+msgctxt "242841733-0-68356"
+msgid "Heavy Red Tincture"
+msgstr "Heavy Red Tincture"
+
+#: 228378404-0-68355
+msgctxt "228378404-0-68355"
+msgid "A potion of curious origin. Rumoured to aid stealth and intrusion."
+msgstr "A potion of curious origin. Rumoured to aid stealth and intrusion."
+
+#: 242841733-0-68355
+msgctxt "242841733-0-68355"
+msgid "Shifting Violet Tincture"
+msgstr "Shifting Violet Tincture"
+
+#: 228378404-0-68354
+msgctxt "228378404-0-68354"
+msgid "A potion of curious origin. Rumoured to aid detection."
+msgstr "A potion of curious origin. Rumoured to aid detection."
+
+#: 242841733-0-68354
+msgctxt "242841733-0-68354"
+msgid "Orange Tincture"
+msgstr "Orange Tincture"
+
+#: 228378404-0-68353
+msgctxt "228378404-0-68353"
+msgid "A potion of curious origin. Rumoured to aid fighting ability."
+msgstr "A potion of curious origin. Rumoured to aid fighting ability."
+
+#: 242841733-0-68353
+msgctxt "242841733-0-68353"
+msgid "Green Tincture"
+msgstr "Green Tincture"
+
+#: 228378404-0-68352
+msgctxt "228378404-0-68352"
+msgid "A potion of curious origin. Rumoured to greatly aid fighting ability."
+msgstr "A potion of curious origin. Rumoured to greatly aid fighting ability."
+
+#: 242841733-0-68352
+msgctxt "242841733-0-68352"
+msgid "Glowing Green Tincture"
+msgstr "Glowing Green Tincture"
+
+#: 228378404-0-68351
+msgctxt "228378404-0-68351"
+msgid "A potion of curious origin. Rumoured to greatly aid spellcasting."
+msgstr "A potion of curious origin. Rumoured to greatly aid spellcasting."
+
+#: 242841733-0-68351
+msgctxt "242841733-0-68351"
+msgid "Glowing Cyan Tincture"
+msgstr "Glowing Cyan Tincture"
+
+#: 228378404-0-68350
+msgctxt "228378404-0-68350"
+msgid "A potion of curious origin. Rumoured to aid spellcasting."
+msgstr "A potion of curious origin. Rumoured to aid spellcasting."
+
+#: 242841733-0-68350
+msgctxt "242841733-0-68350"
+msgid "Cyan Tincture"
+msgstr "Cyan Tincture"
+
+#: 228378404-0-64741
+msgctxt "228378404-0-64741"
+msgid "A potion of curious origin."
+msgstr "A potion of curious origin."
+
+#: 242841733-0-64741
+msgctxt "242841733-0-64741"
+msgid "White Tincture"
+msgstr "White Tincture"
+
+#: 242841733-0-64710
+msgctxt "242841733-0-64710"
+msgid "Crown Tri-Restoration Potion"
+msgstr "クラウン: 3種回復薬"
+
+#: 242841733-0-64469
+msgctxt "242841733-0-64469"
+msgid "Ashen Blood of Malacath"
+msgstr "マラキャスの灰色の血"
+
+#: 242841733-0-61030
+msgctxt "242841733-0-61030"
+msgid "Crown Magicka Potion"
+msgstr "クラウン:マジカ回復薬"
+
+#: 242841733-0-77598
+msgctxt "242841733-0-77598"
+msgid "Vulnerability"
+msgstr "脆弱"
+
+#: 242841733-0-77596
+msgctxt "242841733-0-77596"
+msgid "Protection"
+msgstr "防御"
+
+#: 242841733-0-77594
+msgctxt "242841733-0-77594"
+msgid "Creeping Ravage Health"
+msgstr "体力減少継続"
+
+#: 242841733-0-77592
+msgctxt "242841733-0-77592"
+msgid "Lingering Health"
+msgstr "体力継続"
+
+#: 242841733-0-74729
+msgctxt "242841733-0-74729"
+msgid "Roguish Escape Draught"
+msgstr "盗賊の脱出の水薬"
+
+#: 242841733-0-74728
+msgctxt "242841733-0-74728"
+msgid "Roguish Stealth Draught"
+msgstr "盗賊の隠密の水薬"
+
+#: 242841733-0-71073
+msgctxt "242841733-0-71073"
+msgid "Alliance Battle Draught"
+msgstr "同盟の戦闘用水薬"
+
+#: 242841733-0-71072
+msgctxt "242841733-0-71072"
+msgid "Alliance Spell Draught"
+msgstr "同盟の呪文用水薬"
+
+#: 242841733-0-71071
+msgctxt "242841733-0-71071"
+msgid "Alliance Health Draught"
+msgstr "同盟の体力用水薬"
+
+#: 228378404-0-68356
+msgctxt "228378404-0-68356"
+msgid "A potion of curious origin. Rumoured to aid stealth and intrusion."
+msgstr "A potion of curious origin. Rumoured to aid stealth and intrusion."
+
+#: 242841733-0-64510
+msgctxt "242841733-0-64510"
+msgid "Crown Health Potion"
+msgstr "クラウン:体力回復薬"
+
+#: 228378404-0-64469
+msgctxt "228378404-0-64469"
+msgid "A potent tincture, useful for myriad arcane practices."
+msgstr "強力な生薬で、あらゆるアルケインの治療に役立つ。"
+
+#: 242841733-0-61029
+msgctxt "242841733-0-61029"
+msgid "Crown Stamina Potion"
+msgstr "クラウン:スタミナ回復薬"
+
+#: 242841733-0-61028
+msgctxt "242841733-0-61028"
+msgid "Crown Health Potion"
+msgstr "クラウン: 体力回復薬"
+
+#: 242841733-0-54859
+msgctxt "242841733-0-54859"
+msgid "Rejuvenation"
+msgstr "Rejuvenation"
+
+#: 242841733-0-54858
+msgctxt "242841733-0-54858"
+msgid "Spell Weaving"
+msgstr "Spell Weaving"
+
+#: 242841733-0-54857
+msgctxt "242841733-0-54857"
+msgid "Strength"
+msgstr "Strength"
+
+#: 242841733-0-54341
+msgctxt "242841733-0-54341"
+msgid "stamina"
+msgstr "スタミナ"
+
+#: 242841733-0-54340
+msgctxt "242841733-0-54340"
+msgid "Magicka"
+msgstr "マジカ"
+
+#: 242841733-0-54339
+msgctxt "242841733-0-54339"
+msgid "health"
+msgstr "体力"
+
+#: 242841733-0-54337
+msgctxt "242841733-0-54337"
+msgid "Enervation"
+msgstr "弱体化"
+
+#: 242841733-0-54336
+msgctxt "242841733-0-54336"
+msgid "Uncertainty"
+msgstr "不信"
+
+#: 242841733-0-54335
+msgctxt "242841733-0-54335"
+msgid "Hindering"
+msgstr "妨害"
+
+#: 242841733-0-54333
+msgctxt "242841733-0-54333"
+msgid "Entrapment"
+msgstr "罠"
+
+#: 242841733-0-44821
+msgctxt "242841733-0-44821"
+msgid "Ravage Spell Protection"
+msgstr "呪文防御減少"
+
+#: 242841733-0-44815
+msgctxt "242841733-0-44815"
+msgid "Ravage Magicka"
+msgstr "マジカ減少"
+
+#: 242841733-0-44814
+msgctxt "242841733-0-44814"
+msgid "Spell Protection"
+msgstr "呪文防御"
+
+#: 242841733-0-44813
+msgctxt "242841733-0-44813"
+msgid "Cowardice"
+msgstr "臆病"
+
+#: 242841733-0-44812
+msgctxt "242841733-0-44812"
+msgid "Ravage Health"
+msgstr "体力減少"
+
+#: 242841733-0-44810
+msgctxt "242841733-0-44810"
+msgid "Maim"
+msgstr "不自由"
+
+#: 242841733-0-44809
+msgctxt "242841733-0-44809"
+msgid "Ravage Stamina"
+msgstr "スタミナ減少"
+
+#: 242841733-0-44715
+msgctxt "242841733-0-44715"
+msgid "Invisibility"
+msgstr "透明化"
+
+#: 242841733-0-44714
+msgctxt "242841733-0-44714"
+msgid "Weapon Power"
+msgstr "武器攻撃力"
+
+#: 242841733-0-42406
+msgctxt "242841733-0-42406"
+msgid "Torchbug Treacle"
+msgstr "ホタルの蜜"
+
+#: 242841733-0-34125
+msgctxt "242841733-0-34125"
+msgid "Health Elixir"
+msgstr "Health Elixir"
+
+#: 242841733-0-30146
+msgctxt "242841733-0-30146"
+msgid "Weapon Crit"
+msgstr "武器クリティカル"
+
+#: 242841733-0-30145
+msgctxt "242841733-0-30145"
+msgid "Spell Power"
+msgstr "呪文攻撃力"
+
+#: 242841733-0-30142
+msgctxt "242841733-0-30142"
+msgid "Detection"
+msgstr "探知"
+
+#: 242841733-0-30141
+msgctxt "242841733-0-30141"
+msgid "Spell Critical"
+msgstr "呪文クリティカル"
+
+#: 242841733-0-27042
+msgctxt "242841733-0-27042"
+msgid "Armor"
+msgstr "防具"
+
+#: 242841733-0-27041
+msgctxt "242841733-0-27041"
+msgid "Speed"
+msgstr "加速"
+
+#: 242841733-0-27040
+msgctxt "242841733-0-27040"
+msgid "Ravage Armor"
+msgstr "鎧破損度"
+
+#: 242841733-0-27039
+msgctxt "242841733-0-27039"
+msgid "Immovability"
+msgstr "不動性"
+
+#: 242841733-0-27038
+msgctxt "242841733-0-27038"
+msgid "stamina"
+msgstr "スタミナ"
+
+#: 242841733-0-27037
+msgctxt "242841733-0-27037"
+msgid "Magicka"
+msgstr "マジカ"
+
+#: 242841733-0-27036
+msgctxt "242841733-0-27036"
+msgid "health"
+msgstr "体力"
+
+#: 242841733-0-135127
+msgctxt "242841733-0-135127"
+msgid "Gold Coast Warrior Elixir"
+msgstr "ゴールドコーストの戦士の霊薬"
+
+#: 242841733-0-135125
+msgctxt "242841733-0-135125"
+msgid "Gold Coast Spellcaster Elixir"
+msgstr "ゴールドコーストの魔法使いの霊薬"
+
+#: 242841733-0-135114
+msgctxt "242841733-0-135114"
+msgid "Crown Tri-Restoration Potion"
+msgstr "クラウン: 3種回復薬"
+
+#: 242841733-0-135111
+msgctxt "242841733-0-135111"
+msgid "Gold Coast Swift Survivor Elixir"
+msgstr "ゴールドコーストの迅速な生存者の霊薬"
+
+#: 242841733-0-124674
+msgctxt "242841733-0-124674"
+msgid "Gold Coast Swift Survivor Elixir"
+msgstr "ゴールドコーストの迅速な生存者の霊薬"
+
+#: 242841733-0-112437
+msgctxt "242841733-0-112437"
+msgid "Crown Invisibility Potion"
+msgstr "クラウン: 透明化の薬"
+
+#: 242841733-0-112430
+msgctxt "242841733-0-112430"
+msgid "Gold Coast Survivor Elixir"
+msgstr "ゴールドコーストの生存者の霊薬"
+
+#: 242841733-0-112428
+msgctxt "242841733-0-112428"
+msgid "Gold Coast Warrior Elixir"
+msgstr "ゴールドコーストの戦士の霊薬"
+
+#: 242841733-0-112427
+msgctxt "242841733-0-112427"
+msgid "Gold Coast Spellcaster Elixir"
+msgstr "ゴールドコーストの魔法使いの霊薬"

@@ -1,0 +1,3803 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 116521668-0-9973
+msgctxt "116521668-0-9973"
+msgid "Right. Of course. "
+"\n"
+"\nCassi asked me to bring some of the altered nirncrux to her. So she can study it. I'll stay here and collect what I need. But thanks. I couldn't have completed my mission without you!"
+msgstr "そうね。もちろんよ\\r"
+"\n\\r"
+"\n変化したニルンクラッツを持っていくようカッシに頼まれてるの。研究したいんですって。私はここに残って必要なものを集めるわ。でも、本当にありがとう。あなたがいなかったら、この任務も達成できなかったわ"
+
+#: 232026500-0-9973
+msgctxt "232026500-0-9973"
+msgid "That won't happen. Braadoth is dead and the process has been disrupted."
+msgstr "それはない。ブラードスも死に、計画も阻止された"
+
+#: 116521668-0-9923
+msgctxt "116521668-0-9923"
+msgid "Exarch Arnoth? I've heard his name whispered in fear, even among the Scaled Court. If you killed him, you've dealt a far greater blow to the Serpent's cult than you can imagine. "
+"\n"
+"\nPerhaps now we'll be able to learn more about the nirncrux element."
+msgstr "エグザーチ・アーノス？ 〈スケールドコート〉内でも恐れられている名前よ。耳にしたことはあるわ。もしそいつを倒したなら、考えているよりも大きな打撃を大蛇の教団に与えたと思う\\r"
+"\n\\r"
+"\nもしかしたらこれでもっと詳しくニルンクラッツの元素について知ることができるかも知れない"
+
+#: 232026500-0-9923
+msgctxt "232026500-0-9923"
+msgid "Yes, they were collecting nirncrux. I defeated someone called Arnoth, a Scaled Court exarch."
+msgstr "ああ、ニルンクラッツを集めていた。アルノスというスケールドコートのエグザーチを倒した"
+
+#: 116521668-0-10664
+msgctxt "116521668-0-10664"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.> "
+"\n"
+"\n""Across the Pact, so many people go hungry. With your contract fulfilled, you're making a real difference."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「パクト全土で、多くの人が飢えている。あなたの契約遂行は、確実に現状を動かしている」"
+
+#: 232026500-0-10664
+msgctxt "232026500-0-10664"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10663
+msgctxt "116521668-0-10663"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.> "
+"\n"
+"\n""Across the Covenant, so many people go hungry. With your contract fulfilled, you're making a real difference."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「カバナント全土で、多くの人が飢えている。あなたの契約遂行は、確実に現状を動かしている」"
+
+#: 232026500-0-10663
+msgctxt "232026500-0-10663"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10662
+msgctxt "116521668-0-10662"
+msgid "<Officers of the Daggerfall Covenant have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""Thank the Eight for you. Last week we ran out of rations and resorted to raiding the clothier's stores for leather. This should taste better!"""
+msgstr "<ダガーフォール・カバナントの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「八大神に感謝を！ 先週は食料が尽きて、洋服の仕立屋で革を食い漁ってたんだ。こっちのほうがうまいはずだ！」"
+
+#: 232026500-0-10662
+msgctxt "232026500-0-10662"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10661
+msgctxt "116521668-0-10661"
+msgid "<Officers of the Ebonheart Pact have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""Thank the Three for you. Last week we ran out of rations and resorted to raiding the clothier's stores for leather. This should taste better!"""
+msgstr "<エボンハート・パクトの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「三大神に感謝を！ 先週は食料が尽きて、洋服の仕立屋で革を食い漁ってたんだ。こっちのほうがうまいはずだ！」"
+
+#: 232026500-0-10661
+msgctxt "232026500-0-10661"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10660
+msgctxt "116521668-0-10660"
+msgid "<The consortium has left a pack and a note of thanks as a reward.> "
+"\n"
+"\n""Common dishes in the lands of King Emeric are novel cuisine on distant shores. Well done!"""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「エメリック王の地では一般的な料理でも、遠く海の向こうでは目新しい料理だったりする。よくやった！」"
+
+#: 232026500-0-10660
+msgctxt "232026500-0-10660"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10659
+msgctxt "116521668-0-10659"
+msgid "<The consortium has left a pack and a note of thanks as a reward.> "
+"\n"
+"\n""Common dishes in the lands of King Jorunn are novel cuisine on distant shores. Well done!"""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「ジョルン王の地では一般的な料理でも、遠く海の向こうでは目新しい料理だったりする。よくやった！」"
+
+#: 232026500-0-10659
+msgctxt "232026500-0-10659"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10658
+msgctxt "116521668-0-10658"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.> "
+"\n"
+"\n""Fighting on the edge of Cyrodiil was brutal this week. Your goods will give hope where only there was despair."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「今週のシロディールの端での戦闘は過酷だった。絶望していたところだが、あなたの物資のおかげで希望が持てそうだ」"
+
+#: 232026500-0-10658
+msgctxt "232026500-0-10658"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10657
+msgctxt "116521668-0-10657"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.> "
+"\n"
+"\n""Fighting on the edge of the Rift was brutal this week. Your goods will give hope where only there was despair."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「今週のリフトの端での戦闘は過酷だった。絶望していたところだが、あなたの物資のおかげで希望が持てそうだ」"
+
+#: 232026500-0-10657
+msgctxt "232026500-0-10657"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10656
+msgctxt "116521668-0-10656"
+msgid "<Officers of the Daggerfall Covenant have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""This is just what the troops needed to get them through another hard campaign against the damned Eagles. Thank you!"""
+msgstr "<ダガーフォール・カバナントの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「これさえあればわが兵たちも、鷲どもとの次なる戦いに耐えられるだろう。ありがとう！」"
+
+#: 232026500-0-10656
+msgctxt "232026500-0-10656"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10655
+msgctxt "116521668-0-10655"
+msgid "<Officers of the Ebonheart Pact have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""This is just what the troops needed to get them through another hard campaign against the damned Daggers. Thank you!"""
+msgstr "<エボンハート・パクトの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「これさえあればわが兵たちも、ダガーどもとの次なる戦いに耐えられるだろう。ありがとう！」"
+
+#: 232026500-0-10655
+msgctxt "232026500-0-10655"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10654
+msgctxt "116521668-0-10654"
+msgid "<The consortium has left a pack and a note of thanks as a reward.>"
+"\n"
+"\n""All across High Rock and Hammerfell, our trade partners will sing the praises of your skilled hand at the cookpot."""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「あなたの料理人としての腕前は、ハイロックとハンマーフェル全土で称賛の声を浴びるだろう」"
+
+#: 232026500-0-10654
+msgctxt "232026500-0-10654"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10653
+msgctxt "116521668-0-10653"
+msgid "<The consortium has left a pack and a note of thanks as a reward.>"
+"\n"
+"\n""All across Skyrim and the Ashlands, our trade partners will sing the praises of your skilled hand at the cookpot."""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「あなたの料理人としての腕前は、スカイリムとアッシュランド全土で称賛の声を浴びるだろう」"
+
+#: 232026500-0-10653
+msgctxt "232026500-0-10653"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10652
+msgctxt "116521668-0-10652"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.>"
+"\n"
+"\n""Across the Pact, so many people are in need of basic sustenance. Your donation will help fill many a needy stomach."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「パクト全土に食料不足で悩む人がたくさんいる。あなたの貢献で、多くの腹を満たすことができるだろう」"
+
+#: 232026500-0-10652
+msgctxt "232026500-0-10652"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10651
+msgctxt "116521668-0-10651"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.>"
+"\n"
+"\n""Across the Covenant, so many people are in need of basic sustenance. Your donation will help fill many a needy stomach."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「カバナント全土に食料不足で悩む人がたくさんいる。あなたの貢献で、多くの腹を満たすことができるだろう」"
+
+#: 232026500-0-10651
+msgctxt "232026500-0-10651"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10650
+msgctxt "116521668-0-10650"
+msgid "<Officers of the Daggerfall Covenant have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""An army lives and dies on its stomach, so they say. The Lion's army will be well-fed today."""
+msgstr "<ダガーフォール・カバナントの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「腹が減っては戦はできぬとはよく言ったものだ。今日の獅子の軍はたっぷりと腹ごしらえができそうだ」"
+
+#: 232026500-0-10650
+msgctxt "232026500-0-10650"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10649
+msgctxt "116521668-0-10649"
+msgid "<Officers of the Ebonheart Pact have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""An army lives and dies on its stomach, so they say. The Dragon's army will be well-fed today."""
+msgstr "<エボンハート・パクトの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「腹が減っては戦はできぬとはよく言ったものだ。今日のドラゴン軍はたっぷりと腹ごしらえができそうだ」"
+
+#: 232026500-0-10649
+msgctxt "232026500-0-10649"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10648
+msgctxt "116521668-0-10648"
+msgid "<The consortium has left a pack and a note of thanks as a reward.>"
+"\n"
+"\n""Our Covenant arm thanks you for broadening our palates and our profit."""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「我々の味覚と喜びを広げてくれたことに、カバナントを代表して礼を言う」"
+
+#: 232026500-0-10648
+msgctxt "232026500-0-10648"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10647
+msgctxt "116521668-0-10647"
+msgid "<The consortium has left a pack and a note of thanks as a reward.>"
+"\n"
+"\n""Our Pact arm thanks you for broadening our palates and our profit."""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「我々の味覚と喜びを広げてくれたことに、パクトを代表して礼を言う」"
+
+#: 232026500-0-10647
+msgctxt "232026500-0-10647"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10641
+msgctxt "116521668-0-10641"
+msgid "COOL MAN, THANKS"
+msgstr "COOL MAN, THANKS"
+
+#: 232026500-0-10641
+msgctxt "232026500-0-10641"
+msgid "Yeah. Here's your stuff."
+msgstr "Yeah. Here's your stuff."
+
+#: 116521668-0-10631
+msgctxt "116521668-0-10631"
+msgid "<A vessel with the etched label of ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""You have a flair for this, my friend! And we appreciate your attention to detail. You have our thanks."""
+msgstr "<箱の中には「クロスローズ投機会社」とくっきり書かれたラベルが貼られた器があり、片側にメモが貼ってある>\\r"
+"\n\\r"
+"\n「友よ、あなたには天賦の才がある！ 細かい部分への注意にも感謝している。ありがとう」"
+
+#: 232026500-0-10631
+msgctxt "232026500-0-10631"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10630
+msgctxt "116521668-0-10630"
+msgid "<A cast-off vessel of supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""It's amazing what you find just lying around in Coldharbour—especially after your flame blasts reduce the locals to dust."""
+msgstr "<物資の入った古びた器が木箱に入っていて、蓋にメモが貼ってある>\\r"
+"\n\\r"
+"\n「コールドハーバーではその辺にいろいろなものが落ちている。地元の連中を炎で塵にした後は特に」"
+
+#: 232026500-0-10630
+msgctxt "232026500-0-10630"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10629
+msgctxt "116521668-0-10629"
+msgid "<A cast-off vessel of supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""The Daedra we acquired this from have no further need for it. We're sure you can put it to better use."""
+msgstr "<物資の入った古びた器が木箱に入っていて、蓋にメモが貼ってある>\\r"
+"\n\\r"
+"\n「元の所有者であるデイドラはもうこれを必要としないだろう。あなたならもっと効果的に使えるはずだ」"
+
+#: 232026500-0-10629
+msgctxt "232026500-0-10629"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10628
+msgctxt "116521668-0-10628"
+msgid "<The organization gathered enough supplies to offer you a vessel as a reward. They've also included a note of thanks.>"
+"\n"
+"\n""The war has displaced so many refugees. Thanks to crafters such as you, at least some of them can sleep a bit easier tonight."""
+msgstr "<あなたに報酬として器を与えるべく、組織はなんとか物資をかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「戦争のせいで数々の避難民が家を失った。あなたのような生産者のおかげで、そのうちの何人かは今夜少し安全に眠れるだろう」"
+
+#: 232026500-0-10628
+msgctxt "232026500-0-10628"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10627
+msgctxt "116521668-0-10627"
+msgid "<A well-worn vessel of Alchemy supplies sits in the chest as payment, along with a note of thanks.>"
+"\n"
+"\n""Your dedication to the Alliance does you proud, crafter. By completing this order in a timely fashion you support our troops. Thank you."""
+msgstr "<報酬として錬金術用品の入った古びた器が、お礼の手紙とともに木箱の中に入っている>\\r"
+"\n\\r"
+"\n「生産者よ、同盟への献身を誇りに思うといい。任務を素早く終えてくれたことで、我々の兵たちは助かった。ありがとう」"
+
+#: 232026500-0-10627
+msgctxt "232026500-0-10627"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10626
+msgctxt "116521668-0-10626"
+msgid "<The Consortium set aside a vessel of alchemical supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""The attention to detail in your infusions leaves us breathless! Luckily, we expect that side effect to pass soon. Thank you!"""
+msgstr "<組合から報酬として、錬金術用品の入った器とお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「あなたの浸出液には細心の注意が払われていて、いつも息を飲む。幸運なことに、あの副作用は近いうちに風化する見込みだ。ありがとう！」"
+
+#: 232026500-0-10626
+msgctxt "232026500-0-10626"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10625
+msgctxt "116521668-0-10625"
+msgid "<<A vessel labeled ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""Veteran explorers deserve the very best. Your leaf water will have to do."""
+"\n"
+"\n""Just kidding! You're the best, never change."">>"
+msgstr "<<箱の中には「クロスローズ投機会社」とラベル付けされた器があり、片側にメモが貼ってある>\\r"
+"\n\\r"
+"\n「ベテランの探検家たちには最高のものがふさわしい。が、あなたのもので何とかするしかないだろうろう」\\r"
+"\n\\r"
+"\n「というのは嘘だ！ あなたは最高だ。変わらずずっと続けてくれ」>>"
+
+#: 232026500-0-10625
+msgctxt "232026500-0-10625"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10624
+msgctxt "116521668-0-10624"
+msgid "<The Guild has gathered a vessel of alchemical agents as a reward, along with a note of thanks.>"
+"\n"
+"\n""It turns out the Daedra don't like house guests. We're going to show them that we mean to stay, like it or not."""
+msgstr "<ギルドからの報酬として、錬金術用品の入った器とお礼のメモが置かれている>\\r"
+"\n\\r"
+"\n「どうやらデイドラはお客さんが好きじゃないらしい。好きであろうがなかろうが、我々は長居するつもりだということを見せてやる」"
+
+#: 232026500-0-10624
+msgctxt "232026500-0-10624"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10623
+msgctxt "116521668-0-10623"
+msgid "<The Guild has provided a vessel of Alchemy supplise as payment, along with a note of thanks.>"
+"\n"
+"\n""What's small and in a glass bottle and keeps us in the fight? Your goods! Yeah!"""
+msgstr "<ギルドからの報酬として、錬金術用品の入った器とお礼のメモが置かれている>\\r"
+"\n\\r"
+"\n「小さくて、ガラスの瓶に入っていて、私たちに戦う力をくれるもの。それはあなたの商品だ！」"
+
+#: 232026500-0-10623
+msgctxt "232026500-0-10623"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10622
+msgctxt "116521668-0-10622"
+msgid "<The organization has gathered a vessel of Alchemy supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""The fruits of your labor keep the least among us strong enough to keep going. May the Eight bless and keep you."""
+msgstr "<組織は錬金術用品の入った器をかき集め、お礼の手紙を添えて置いていた>\\r"
+"\n\\r"
+"\n「あなたの働きは私たちに立ち上がる力をくれる。八大神の祝福がありますように」"
+
+#: 232026500-0-10622
+msgctxt "232026500-0-10622"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10621
+msgctxt "116521668-0-10621"
+msgid "<The military provided a vessel of Alchemy supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""The next time the lads and lasses charge, your goods will clink in their rucksacks. Think of that next time you sit down at the bench."""
+msgstr "<軍からの支払いとして、錬金術用品の入った器とお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「次に若者どもが突撃をかけたとき、奴らのリュックサックの中であなたの商品が鳴るだろう。今度ベンチに座る時、それを思い出してくれ」"
+
+#: 232026500-0-10621
+msgctxt "232026500-0-10621"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10620
+msgctxt "116521668-0-10620"
+msgid "<The Consortium set aside a vessel of Alchemy supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""Did you know in certain foreign markets they drink this stuff with meals? True. Strange, true, and lucrative!"""
+msgstr "<組合から報酬として、錬金術用品の入った器とお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「海外の市場では、食事と一緒にこれを飲むところもあるって知ってたか？ 本当の話だ。本当の話で、変な話で、本当にもうかる話でもある！」"
+
+#: 232026500-0-10620
+msgctxt "232026500-0-10620"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10619
+msgctxt "116521668-0-10619"
+msgid "<A vessel of Alchemy supplies with the Dragonstar Trading Company sigil sits askew at the bottom of the chest. Attached is a note.> "
+"\n"
+"\n""Damned new arrivals, always getting bit and bleeding all over my supplies. Guess this will hold them a bit."""
+msgstr "<ドラゴンスター貿易会社の印の入った器の底に、錬金術用品が盛られている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「くそ新人ども、いつも噛まれて俺の物資に血をまき散らしやがって。これでもう少しはもつだろう」"
+
+#: 232026500-0-10619
+msgctxt "232026500-0-10619"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10618
+msgctxt "116521668-0-10618"
+msgid "<A vessel of Alchemy supplies sits sideways in the crate, dumped with a short note.>"
+"\n"
+"\n""I bet Vadrick twenty coin we'd be dead before we got resupplied. If you're seeing this … thanks? I guess?"""
+msgstr "<木箱の中に錬金術用品の入った器が、投げ捨てられたように短いメモと一緒に横たわっている>\\r"
+"\n\\r"
+"\n「物資が来るころには死んでるだろうって、ヴァドリックと20コイン賭けてたんだ。このメモを見てるってことは… ありがとう？ なのかな？」"
+
+#: 232026500-0-10618
+msgctxt "232026500-0-10618"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10617
+msgctxt "116521668-0-10617"
+msgid "<A vessel of alchemical supplies marked with the Guild sigil and scrap of paper sits within the chest.> "
+"\n"
+"\n""Daedra don't know mercy or compassion. Thanks to you, we're working on teaching them fear."""
+msgstr "<木箱の中には、錬金術用品とギルドの印の入った器と、一切れの紙が入っている>\\r"
+"\n\\r"
+"\n「デイドラは慈悲や思いやりというものを知らない。あなたのおかげで、恐怖は教えてやれそうだ」"
+
+#: 232026500-0-10617
+msgctxt "232026500-0-10617"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10616
+msgctxt "116521668-0-10616"
+msgid "<A chipped vessel holds your payment, Alchemy supplies scrounged from the battlefield. A note is attached.> "
+"\n"
+"\n""Who says there are no heroes left in this time of war? Your contribution means everything to the least among us."""
+msgstr "<戦場からかき集められた錬金術用品があなたへの報酬として欠けた器に盛られている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「この戦いに英雄なんていないと言うやつがいるが、果たしてそうかな？我々にとってはあなたの提供してくれたものはとても重要だ」"
+
+#: 232026500-0-10616
+msgctxt "232026500-0-10616"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10615
+msgctxt "116521668-0-10615"
+msgid "<Alchemy supplies fill a vessel to the brim, payment from the military's quartermaster. A note is attached.> "
+"\n"
+"\n""Every soldier you save should learn your name, friend. May the Eight keep and bless you for your good works."""
+msgstr "<軍の補給係からの支払いである錬金術用品が、器から溢れそうになっている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「友よ、あなたによって命を救われた兵は皆あなたの名を覚えておくべきだ。その良き働きを称して、八大神の祝福があらんことを」"
+
+#: 232026500-0-10615
+msgctxt "232026500-0-10615"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10614
+msgctxt "116521668-0-10614"
+msgid "<A vessel of Alchemy supplies sits atop a note from the Consortium.> "
+"\n"
+"\n""There's nothing better than commerce that might save lives. From your contract will flow both coin and cheer!"""
+msgstr "<錬金術用品の入った器が、組合からのメモの上に置かれている>\\r"
+"\n\\r"
+"\n「命を救える貿易ほどやりがいのあることはない。あなたとの契約からは、金も声援も生まれるだろう！」"
+
+#: 232026500-0-10614
+msgctxt "232026500-0-10614"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10613
+msgctxt "116521668-0-10613"
+msgid "<The Dragonstar Trading Company has set aside a vessel of Alchemy supplies and a letter of thanks.>"
+"\n"
+"\n""Peace to you, and many thanks for your contribution to the struggle for Craglorn."""
+msgstr "<ドラゴンスター貿易会社から錬金術の物資が入った器とお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「あなたに平和が訪れるように。クラグローンを巡る紛争への協力に感謝する」"
+
+#: 232026500-0-10613
+msgctxt "232026500-0-10613"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10612
+msgctxt "116521668-0-10612"
+msgid "<The Mages Guild has placed a vessel of supplies as a reward, along with a small note of thanks.> "
+"\n"
+"\n""The struggle against darkness is long, but your contribution brings hope to Nirn. Thank you."""
+msgstr "<魔術師ギルドから、物資の入った器とお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「闇との戦いは長引くが、あなたの提供してくれたものがニルンに希望をもたらす。ありがとう」"
+
+#: 232026500-0-10612
+msgctxt "232026500-0-10612"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10611
+msgctxt "116521668-0-10611"
+msgid "<The Fighters Guild has left a vessel of alchemical supplies and short thank-you note.> "
+"\n"
+"\n""If it can help kill a Daedra, we'll pay a good reward for it. Keep it up."""
+msgstr "<戦士ギルドから、錬金術用品の入った器と短いお礼のメモが置かれている>\\r"
+"\n\\r"
+"\n「デイドラを殺すのに役立つものなら、我々は何でも高い報酬を払う。今後も続けてくれ」"
+
+#: 232026500-0-10611
+msgctxt "232026500-0-10611"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10610
+msgctxt "116521668-0-10610"
+msgid "<The refugee organization has scrounged together a vessel of Alchemist supplies and left a note of thanks.>"
+"\n"
+"\n""They are blessed who think of the weakest among us in times of great need. Thank you."""
+msgstr "<避難民組織は錬金術用品の入った器をかき集め、お礼の手紙とともに置いていった>\\r"
+"\n\\r"
+"\n「助けが必要な時に、弱い者のことを考えられる者こそ恵まれている。ありがとう」"
+
+#: 232026500-0-10610
+msgctxt "232026500-0-10610"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10609
+msgctxt "116521668-0-10609"
+msgid "<Alliance quartermasters have left a vessel of Alchemy supplies and a note of thanks.>"
+"\n"
+"\n""Not every hero wins glory on the battlefield. Champions are born at the alchemist's table, too. Thank you for your service."""
+msgstr "<同盟の補給係から、錬金術用品の入った器とお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「英雄が栄光を勝ち取るのは戦場だけじゃない。錬金台でも勇者が生まれている。いいサービスをありがとう」"
+
+#: 232026500-0-10609
+msgctxt "232026500-0-10609"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10608
+msgctxt "116521668-0-10608"
+msgid "<A note and a vessel have been placed here as payment by the Consortium.> "
+"\n"
+"\n""From your alchemy table to the farthest reaches of Tamriel, the river of commerce rushes on!"""
+msgstr "<組合からの支払いとして器とメモが置かれている>\\r"
+"\n\\r"
+"\n「あなたの練金台からタムリエルのずっと向こうまで、貿易の川は流れている！」"
+
+#: 232026500-0-10608
+msgctxt "232026500-0-10608"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10602
+msgctxt "116521668-0-10602"
+msgid "<Within the crate your reward awaits.>"
+msgstr "<木箱の中に報酬が入っている>"
+
+#: 232026500-0-10602
+msgctxt "232026500-0-10602"
+msgid "<Open the Crate>"
+msgstr "<木箱を開ける>"
+
+#: 116521668-0-10601
+msgctxt "116521668-0-10601"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.> "
+"\n"
+"\n""Across the Dominion, so many people go hungry. With your contract fulfilled, you're making a real difference."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「ドミニオン全土で、多くの人が飢えている。あなたの契約遂行は、確実に現状を動かしている」"
+
+#: 232026500-0-10601
+msgctxt "232026500-0-10601"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10600
+msgctxt "116521668-0-10600"
+msgid "<A representative of the Dragonstar Caravan Company left this pack of rewards and a note of thanks.> "
+"\n"
+"\n""Never believe an Argonian when he says something is delicious. Seriously. Thanks for something I bet I can eat."""
+msgstr "<ドラゴンスターキャラバン社の代表が報酬の入ったパックとお礼の手紙を置いて行った>\\r"
+"\n\\r"
+"\n「アルゴニアンに何かがおいしいと言われても、絶対に信用するな。私でも食べられそうなものをありがとう」"
+
+#: 232026500-0-10600
+msgctxt "232026500-0-10600"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10599
+msgctxt "116521668-0-10599"
+msgid "<The Mages Guild has set aside a reward pack and a note of thanks. The note bears numerous strange sigils, and a crude drawing of a woman with a staff beating up a scamp.>"
+msgstr "<戦士ギルドからの報酬としてパックとお礼の手紙が置いてある。その紙にはいくつかの不思議な印と、杖をもった女性がスキャンプを殴り倒す雑な絵が描かれている>"
+
+#: 232026500-0-10599
+msgctxt "232026500-0-10599"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10598
+msgctxt "116521668-0-10598"
+msgid "<The Fighters Guild has set aside a pack of supplies and a letter of thanks.> "
+"\n"
+"\n""Nothing like a hot meal and tasty drink to remind you of home, and a future free from these bastards."""
+msgstr "<戦士ギルドからの報酬としてパックとお礼の手紙が置いてある>\\r"
+"\n\\r"
+"\n「熱々の食事とおいしい飲み物は故郷を思い出す、連中から解放される日も見えてくるようだ」"
+
+#: 232026500-0-10598
+msgctxt "232026500-0-10598"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10597
+msgctxt "116521668-0-10597"
+msgid "<Officers of the Aldmeri Dominion have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""Sevenfold blessings upon you! Last week we ran out of rations and resorted to raiding the clothier's stores for leather. This should taste better!"""
+msgstr "<アルドメリ・ドミニオンの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「あなたに七重の祝福を！ 先週は食料が尽きて、洋服の仕立屋で革を食い漁ってたんだ。こっちのほうがうまいはずだ！」"
+
+#: 232026500-0-10597
+msgctxt "232026500-0-10597"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10596
+msgctxt "116521668-0-10596"
+msgid "<The consortium has left a pack and a note of thanks as a reward.> "
+"\n"
+"\n""Common dishes in the lands of Queen Ayrenn are novel cuisine on distant shores. Well done!"""
+msgstr "<組合から報酬としてパックとお礼の手紙が置かれている>\\r"
+"\n\\r"
+"\n「アイレン女王の地では一般的な料理でも、遠く海の向こうでは目新しい料理だったりする。よくやった！」"
+
+#: 232026500-0-10596
+msgctxt "232026500-0-10596"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10595
+msgctxt "116521668-0-10595"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.> "
+"\n"
+"\n""Fighting on the edge of the March was brutal this week. Your goods will give hope where only there was despair."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「今週のマーチの端での戦闘は過酷だった。絶望していたところだが、あなたの物資のおかげで希望が持てそうだ」"
+
+#: 232026500-0-10595
+msgctxt "232026500-0-10595"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10594
+msgctxt "116521668-0-10594"
+msgid "<A representative of the Dragonstar Caravan Company left this pack of rewards and a note of thanks.> "
+"\n"
+"\n""The local fauna leave something to be desired when it comes to flavor, consistency, appearance, and lack of poison. This will help."""
+msgstr "<ドラゴンスターキャラバン社の代表が、報酬のパックとお礼の手紙を置いて行った>\\r"
+"\n\\r"
+"\n「味、一貫性、見た目、そして毒を入れないということに関して、地元の生き物たちでは不十分な点が多い。これで助かる」"
+
+#: 232026500-0-10594
+msgctxt "232026500-0-10594"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10593
+msgctxt "116521668-0-10593"
+msgid "<The Mages Guild has set aside a reward pack and a note of thanks.> "
+"\n"
+"\n""Thank the Eight! Do you know what I had to eat for supper last night? You don't want to know."""
+msgstr "<魔術師ギルドからの報酬としてパックとお礼の手紙が置いてある>\\r"
+"\n\\r"
+"\n「八大神に感謝を！ 昨日の私の夕飯が何だったか知りたいか？ いや、知らない方がいい」"
+
+#: 232026500-0-10593
+msgctxt "232026500-0-10593"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10592
+msgctxt "116521668-0-10592"
+msgid "<The Fighters Guild has set aside a pack of supplies and a letter of thanks.> "
+"\n"
+"\n""A campaign is hard enough to wage when your foes are inhuman savages. Hard fighting on an empty stomach? Forget about it!"""
+msgstr "<戦士ギルドからの物資パックとお礼の手紙が置いてある>\\r"
+"\n\\r"
+"\n「人間でない野蛮な生き物との争いは、それだけで厳しいものだ。だがこれで、空腹で戦う心配はなくなったぞ！」"
+
+#: 232026500-0-10592
+msgctxt "232026500-0-10592"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10591
+msgctxt "116521668-0-10591"
+msgid "<Officers of the Aldmeri Dominion have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""This is just what the troops needed to get them through another hard campaign against the damned Dragons. Thank you!"""
+msgstr "<アルドメリ・ドミニオンの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「これさえあればわが兵たちも、ドラゴンどもとの次なる戦いに耐えられるだろう。ありがとう！」"
+
+#: 232026500-0-10591
+msgctxt "232026500-0-10591"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10590
+msgctxt "116521668-0-10590"
+msgid "<The consortium has left a pack and a note of thanks as a reward.>"
+"\n"
+"\n""All across the southern lands, our trade partners will sing the praises of your skilled hand at the cookpot."""
+msgstr "<組合が報酬としてパックとお礼の手紙を置いて行った>\\r"
+"\n\\r"
+"\n「あなたの料理人としての腕前は、南国全土で称賛の声を浴びるであろう」"
+
+#: 232026500-0-10590
+msgctxt "232026500-0-10590"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10577
+msgctxt "116521668-0-10577"
+msgid "<The refugee organization has managed to gather a pack of rewards for your donation. There is also a note of thanks included.>"
+"\n"
+"\n""Across the Dominion, so many people are in need of basic sustenance. Your donation will help fill many a needy stomach."""
+msgstr "<避難民組織があなたの貢献に対してなんとか報酬のパックをかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「ドミニオン全土に食料不足で悩む人がたくさんいる。あなたの貢献で、多くの腹を満たせるだろう」"
+
+#: 232026500-0-10577
+msgctxt "232026500-0-10577"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10576
+msgctxt "116521668-0-10576"
+msgid "<A representative of the Dragonstar Caravan Company left this pack of rewards and a note of thanks.> "
+"\n"
+"\n""There's nothing like good food to make the long desert nights bearable. Thank you."""
+msgstr "<ドラゴンスターキャラバン社の代表が報酬の入ったパックとお礼の手紙を置いて行った>\\r"
+"\n\\r"
+"\n「砂漠の長い夜を耐え抜くには美味な食べ物が一番だ。ありがとう」"
+
+#: 232026500-0-10576
+msgctxt "232026500-0-10576"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10575
+msgctxt "116521668-0-10575"
+msgid "<The Mages Guild has set aside a reward pack and a note of thanks.> "
+"\n"
+"\n""Our thanks can never measure up to what you've provided us. Thank you, sincerely."""
+msgstr "<魔術師ギルドから報酬のパックとお礼の手紙が置いてある>\\r"
+"\n\\r"
+"\n「あなたの提供してくれたものにはどれほどお礼を言っても足りない。心からありがとう」"
+
+#: 232026500-0-10575
+msgctxt "232026500-0-10575"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10574
+msgctxt "116521668-0-10574"
+msgid "<The Fighters Guild has set aside a pack of supplies and a letter of thanks.> "
+"\n"
+"\n""Today many a Daedra's belly will go empty because a Fighter's belly was full. Keep up the good work."""
+msgstr "<戦士ギルドから、物資の入ったパックとお礼の手紙が置いてある>\\r"
+"\n\\r"
+"\n「今日は戦士たちが腹いっぱいで戦える。ゆえにデイドラの腹は空っぽになるだろう。今後もいい仕事を続けてくれ」"
+
+#: 232026500-0-10574
+msgctxt "232026500-0-10574"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10573
+msgctxt "116521668-0-10573"
+msgid "<Officers of the Aldmeri Dominion have set aside a pack of goods as thanks for your contribution.> "
+"\n"
+"\n""An army lives and dies on its stomach, so they say. The Golden Eagle's army will be well-fed today."""
+msgstr "<アルドメリ・ドミニオンの将校からお礼として、物資入りのパックが置いてある>\\r"
+"\n\\r"
+"\n「腹が減っては戦はできぬとはよく言ったものだ。今日の黄金の鷲の軍は、たっぷりと腹ごしらえができそうだ」"
+
+#: 232026500-0-10573
+msgctxt "232026500-0-10573"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10572
+msgctxt "116521668-0-10572"
+msgid "<The consortium has left a pack and a note of thanks as a reward.> "
+"\n"
+"\n""Our Dominion arm thanks you for broadening our palates and our profit."""
+msgstr "<組合が報酬の入ったパックとお礼の手紙を置いている>\\r"
+"\n\\r"
+"\n「我々の味覚と喜びを広げてくれたことに、ドミニオンを代表して礼を言う」"
+
+#: 232026500-0-10572
+msgctxt "232026500-0-10572"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10570
+msgctxt "116521668-0-10570"
+msgid "<A coffer from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""The newly arrived mages were quite happy with the glyphs you provided. We look forward to working with you again."""
+msgstr "<中にはベルカースの補給係からの物資の詰まった貴品箱が入っていて、メモが付いている>\\r"
+"\n\\r"
+"\n「新しく来た魔術師たちはあなたのグリフにたいそう満足していた。また一緒に仕事ができるのを楽しみにしている」"
+
+#: 232026500-0-10570
+msgctxt "232026500-0-10570"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10569
+msgctxt "116521668-0-10569"
+msgid "<A coffer bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""You have a flair for Enchantment, and we appreciate your craftsmanship. Take this with our thanks."""
+msgstr "<箱の中には「クロスローズ投機会社」とラベル付けされた貴品箱があり、片側にメモが貼ってある>\\r"
+"\n\\r"
+"\n「あなたは魔術において天賦の才を持っている。その生産技術にはとても感謝している。お礼としてこれを受け取ってくれ」"
+
+#: 232026500-0-10569
+msgctxt "232026500-0-10569"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10568
+msgctxt "116521668-0-10568"
+msgid "<The Dragonstar Trading Company provided a coffer of supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""We deal with a lot of crafters, so take this for what it's worth. Your glyphwork is among the best we've seen. Thanks."""
+msgstr "<ドラゴンスター貿易会社は支払いとして、魔術用品の入った貴品箱をお礼の手紙とともに用意していた>\\r"
+"\n\\r"
+"\n「我々は多くの生産者とやりとりをしているので、大した意味はないが受け取ってくれ。あなたのグリフは我々が見てきたものの中でも最高品質だ。ありがとう」"
+
+#: 232026500-0-10568
+msgctxt "232026500-0-10568"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10567
+msgctxt "116521668-0-10567"
+msgid "<The organization gathered enough supplies to offer a coffer as a reward. They've also included a note of thanks.>"
+"\n"
+"\n""You have our thanks, crafter. These glyphs may mean the difference between life and death for some of those in our charge."""
+msgstr "<報酬として貴品箱を与えるべく、組織はなんとか物資をかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「生産者よ、我らを代表して礼を言う。我々の指揮下の者たちにとって、このグリフは生死を分けるものになるかもしれない」"
+
+#: 232026500-0-10567
+msgctxt "232026500-0-10567"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10566
+msgctxt "116521668-0-10566"
+msgid "<A decrepit coffer sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""The Daedra who provided these supplies were quite adamant that we give them a good home. At least, that's what we think they were saying. Who speaks Daedra anyway?"""
+msgstr "<箱の中に老朽化した貴品箱があり、蓋にメモが貼ってある>\\r"
+"\n\\r"
+"\n「この物資をくれたデイドラは、いい住まいを提供しろと頑なだった。発言の内容は推測にすぎないが。そもそもデイドラ語を誰が喋れるだろうか」"
+
+#: 232026500-0-10566
+msgctxt "232026500-0-10566"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10565
+msgctxt "116521668-0-10565"
+msgid "<The Guild provided a coffer of supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""The Daedra hate your work. I'll tell you right out. They hate it. Keep it coming!"""
+msgstr "<ギルドより、物資の入った貴品箱とともにお礼の手紙が用意されていた>\\r"
+"\n\\r"
+"\n「デイドラの連中はあなたの作品が嫌いだ。はっきり言うぞ。大っ嫌いだ。もっとたくさん作ってくれ！」"
+
+#: 232026500-0-10565
+msgctxt "232026500-0-10565"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10564
+msgctxt "116521668-0-10564"
+msgid "<A battered coffer of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""We're so glad you accepted our contract. We get upset when people refuse our offers. Smart move."""
+msgstr "<古びた貴品箱の側面に、一切れの紙が貼ってある>\\r"
+"\n\\r"
+"\n「任務を受けてくれてありがたい。我々は拒否されると怒るからな。賢い選択だ」"
+
+#: 232026500-0-10564
+msgctxt "232026500-0-10564"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10563
+msgctxt "116521668-0-10563"
+msgid "<A coffer of supplies lies at the bottom of the chest, along with a note on military-stamped paper.>"
+"\n"
+"\n ""We once again stand in awe of your intricate spellcraft. You have our admiration and our thanks."""
+msgstr "<箱の底に物資の入った貴品箱と、軍の印が押された紙が入っている>\\r"
+"\n\\r"
+"\n「あなたの複雑な魔術には驚かされるばかりだ。我々の称賛と感謝をここに表する」"
+
+#: 232026500-0-10563
+msgctxt "232026500-0-10563"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10562
+msgctxt "116521668-0-10562"
+msgid "<The Consortium has left behind a coffer as a reward, along with a note of thanks.>"
+"\n"
+"\n ""Good work, chanter! Your runic prowess does you proud. We look forward to dealing with you again."""
+msgstr "<組合は報酬として貴品箱とお礼の手紙を置いていた>\\r"
+"\n\\r"
+"\n 「よくやったぞ！その神秘的で優れた腕前を誇りに思うべきだ。また一緒に商売できる日を楽しみにしている」"
+
+#: 232026500-0-10562
+msgctxt "232026500-0-10562"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10561
+msgctxt "116521668-0-10561"
+msgid "<A coffer from the Belkarth Quartermaster awaits at the bottom of the chest. A note's attached.>"
+"\n"
+"\n""Last week one of the enchantments obtained through a contract saved the life of a stupid, wet-behind-the-ears newcomer. Thanks."""
+msgstr "<箱の底にベルカースの補給係からの貴品箱が入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「先週、受け取った付呪によってバカな青二才の新人の命が救われた。ありがとう」"
+
+#: 232026500-0-10561
+msgctxt "232026500-0-10561"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10560
+msgctxt "116521668-0-10560"
+msgid "<The organization gathered enough supplies to offer you a coffer as a reward. They also included a note of thanks.>"
+"\n"
+"\n""Even the wretched and the displaced deserve to be able to defend themselves. Thanks to you, now a few of them can."""
+msgstr "<あなたに報酬として貴品箱を与えるべく、組織はなんとか物資をかき集めた。お礼の手紙も入っている>\\r"
+"\n\\r"
+"\n「不幸な者や居住のない者にも、自分の身を守る権利はあるべきだ。あなたのおかげで、その何人かに権利が与えられた」"
+
+#: 232026500-0-10560
+msgctxt "232026500-0-10560"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10559
+msgctxt "116521668-0-10559"
+msgid "<The military has provided a coffer of Enchantment supplies as payment. A note is tacked to the side.>"
+"\n"
+"\n""The war grinds on, citizen, but your efforts today have made the going just a little bit easier. Well done."""
+msgstr "<軍は支払いとして、魔術用品の入った貴品箱を用意していた。横にメモが付いている>\\r"
+"\n\\r"
+"\n「市民よ、戦争はまだまだ続くが、君のおかげで少しばかり楽になった。よくやった」"
+
+#: 232026500-0-10559
+msgctxt "232026500-0-10559"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10558
+msgctxt "116521668-0-10558"
+msgid "<The Consortium set aside a coffer of Enchantment goods as a reward, along with a note of thanks.>"
+"\n"
+"\n""We're proud to represent your wares in foreign markets, friend. Keep up the most excellent work."""
+msgstr "<組合は報酬として、魔術用品の入った貴品箱をお礼の手紙とともに置いていた>\\r"
+"\n\\r"
+"\n「あなたの商品を海外市場で売れることを誇りに思う。今後も素晴らしい仕事を続けてくれ」"
+
+#: 232026500-0-10558
+msgctxt "232026500-0-10558"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10557
+msgctxt "116521668-0-10557"
+msgid "<The Guild has provided a coffer of Enchantment supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""When the Daedra see us coming, we usually get crushed. Your little vials make the aftermath a little more bearable."""
+msgstr "<ギルドは報酬として、魔術用品の入った貴品箱をお礼の手紙とともに用意していた>\\r"
+"\n\\r"
+"\n「我々はデイドラに見つかると、たいてい潰されてしまう。あなたの小瓶のおかげで、それも少しは耐えられそうだ」"
+
+#: 232026500-0-10557
+msgctxt "232026500-0-10557"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10556
+msgctxt "116521668-0-10556"
+msgid "<A cast-off coffer of supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""Coldharbour is a strange place. Did you know banekin sometimes swallow runestones? Gross."""
+msgstr "<物資の入ったボロい貴品箱の蓋に、メモが貼ってある>\\r"
+"\n\\r"
+"\n「コールドハーバーは不思議なところだ。バネキンはルーンストーンを飲み込むことがあると知っていたか？ 気持ち悪い」"
+
+#: 232026500-0-10556
+msgctxt "232026500-0-10556"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10555
+msgctxt "116521668-0-10555"
+msgid "<A battered coffer of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""We appreciate good work, tight lips, and prompt payment. Hope you feel the same way."""
+msgstr "<物資の入った古びた金庫があり、その横に一切れの紙が貼ってある>\\r"
+"\n\\r"
+"\n「我々は良い仕事、堅い口、そして迅速な支払いが好きだ。あなたも同じだと信じている」"
+
+#: 232026500-0-10555
+msgctxt "232026500-0-10555"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10554
+msgctxt "116521668-0-10554"
+msgid "<A coffer labeled ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""Veteran explorers deserve the very best, and your exquisite crafting matches their dedication and level of skill."""
+msgstr "<箱の中には「クロスローズ投機会社」とラベル付けされた貴品箱があり、片側にメモが貼ってある>\\r"
+"\n\\r"
+"\n「ベテランの探検家たちには最高のものがふさわしい。あなたの作品にはそれだけの思いと技術がこめられている」"
+
+#: 232026500-0-10554
+msgctxt "232026500-0-10554"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10553
+msgctxt "116521668-0-10553"
+msgid "<The Dragonstar Trading Company provided a coffer of Enchantment supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Sometimes it's hard to keep motivated, you know? When you folks fulfill these contracts I like to spark the glyphs together."""
+msgstr "<ドラゴンスター貿易会社から支払いとして、魔術用品の入った貴品箱がお礼の手紙とともに用意されていた>\\r"
+"\n\\r"
+"\n「やる気を保つのが難しい時もある。だからあなたが契約を遂行した時には一緒に喜びたい」"
+
+#: 232026500-0-10553
+msgctxt "232026500-0-10553"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10544
+msgctxt "116521668-0-10544"
+msgid "There is still the matter of the Hist. The elders may be able to put it to sleep, but that mud is too deep for me."
+"\n"
+"\nThe important thing is that our rampage was a success, right? Na-Kesh is dealt with and my egg-kin are free. Well done, friend."
+msgstr "このヒストは未だ闇を抱えている。長老なら眠りにつかせることもできよう。しかし、我にはどうにもできん。この泥は深すぎる\\r"
+"\n\\r"
+"\nだが肝要なのは、我々の正義は成されたということだ。ナ・ケッシュは倒れ、卵の親族は解き放たれた。ありがとう。友よ"
+
+#: 232026500-0-10544
+msgctxt "232026500-0-10544"
+msgid "Sure. What now?"
+msgstr "ああ。これからどうする？"
+
+#: 116521668-0-10541
+msgctxt "116521668-0-10541"
+msgid "<The Belkarth Quartermaster has set aside a rewards coffer and a note of thanks.>"
+"\n"
+"\n""You can rest assured your contribution will be put to good use. Accept my thanks!"""
+msgstr "<ベルカースの補給係は報酬の入った貴品箱と、感謝のメモを取りのけておいてくれた>\\r"
+"\n\\r"
+"\n「あなたの貢献が正しく役立てられることについては、安心してくれて構わない。感謝を受け取って欲しい！」"
+
+#: 232026500-0-10541
+msgctxt "232026500-0-10541"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10540
+msgctxt "116521668-0-10540"
+msgid "<A coffer labeled ""Crossroads Profiteers"" waits inside the box, a note attached to one side.> "
+"\n"
+"\n""As long as the war in Craglorn rages, your contributions are urgently needed … by our coin purses! Thanks!"""
+msgstr "<「クロスローズ投機会社」と書かれた札のついた貴品箱が箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「クラグローンの戦争が激化している限り、あなたの貢献はどうしても必要だ… 我々の財布のために！ 感謝する」"
+
+#: 232026500-0-10540
+msgctxt "232026500-0-10540"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10539
+msgctxt "116521668-0-10539"
+msgid "<The Dragonstar Trading Company has collected a rewards coffer and a note of thanks.> "
+"\n"
+"\n""The stars themselves will not be able to stand against your workmanship. Thank you!"""
+msgstr "<ドラゴンスター貿易会社は報酬を集めて貴品箱に入れてくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「あなたの職人技の前には、星々でさえ対抗することはできないだろう。感謝する」"
+
+#: 232026500-0-10539
+msgctxt "232026500-0-10539"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10538
+msgctxt "116521668-0-10538"
+msgid "<A coffer of rewards has been set aside by the Mages Guild, as well as a note of thanks.> "
+"\n"
+"\n""The enemy will not be defeated by brute force, but by wit and craft. Thank you for your work."""
+msgstr "<報酬の入った貴品箱が、魔術師ギルドによって取り分けられていた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「敵は単純な力によっては倒せません。知恵と技術が必要なのです。あなたの仕事に感謝します」"
+
+#: 232026500-0-10538
+msgctxt "232026500-0-10538"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10537
+msgctxt "116521668-0-10537"
+msgid "<The refugee organization has scrounged a coffer of rewards and left a note of thanks.> "
+"\n"
+"\n""Know that you have given more than material goods. You have given hope. Please accept our gratitude, what little it's worth."""
+msgstr "<避難民の組織はどこからくすねてきたのか、報酬の入った貴品箱と、感謝のメモを残していった>\\r"
+"\n\\r"
+"\n「あなたは物質的な品物を与えてくれただけではありません。あなたは希望を与えてくれたのです。十分とは言えませんが、我々の感謝の気持ちを受け取ってください」"
+
+#: 232026500-0-10537
+msgctxt "232026500-0-10537"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10536
+msgctxt "116521668-0-10536"
+msgid "<A battered coffer of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""Your time is our coin, and we just love our coin. Keep up the good work, friend."""
+msgstr "<物資の入ったボロボロの貴品箱があり、側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「あなたの時間は我々の金貨である。そして我々は金貨が大好きである。よい仕事を続けてくれたまえ、友よ」"
+
+#: 232026500-0-10536
+msgctxt "232026500-0-10536"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10535
+msgctxt "116521668-0-10535"
+msgid "<The Fighters Guild has set aside a coffer and a note of thanks as a reward.> "
+"\n"
+"\n""The value of your work is measured in slain Daedra. Many thanks."""
+msgstr "<戦士ギルドは貴品箱と感謝のメモを、報酬として脇にのけておいてくれた>\\r"
+"\n\\r"
+"\n「あなたの仕事の価値は、屠ったデイドラの数によって測られている。心から感謝する」"
+
+#: 232026500-0-10535
+msgctxt "232026500-0-10535"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10534
+msgctxt "116521668-0-10534"
+msgid "<Alliance representatives have left a rewards coffer and a note of thanks.> "
+"\n"
+"\n""The future of our alliance is carved from the runes of our enchanters. Many thanks."""
+msgstr "<同盟の代表者たちは、報酬の貴品箱と感謝のメモを残していった>\\r"
+"\n\\r"
+"\n「同盟の未来は、我々の付呪師たちのルーンによって刻まれています。心からお礼を申し上げます」"
+
+#: 232026500-0-10534
+msgctxt "232026500-0-10534"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10533
+msgctxt "116521668-0-10533"
+msgid "<The consortium has supplied a coffer of rewards for your efforts, as well as a note of thanks.> "
+"\n"
+"\n""The finest wares bring the best profit. Thank you for your excellent work."""
+msgstr "<協会はあなたの尽力への報酬を入れた貴品箱を支給してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「最高の商品は、最大の利益をもたらします。あなたの卓越した仕事ぶりに感謝します」"
+
+#: 232026500-0-10533
+msgctxt "232026500-0-10533"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10527
+msgctxt "116521668-0-10527"
+msgid "<A case bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""You have a flair for woodworking, and we appreciate your craftsmanship. Take this with our thanks."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついた木箱が箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\nあなたには木工に天賦の才能がある。我々はあなたの職人技を評価する。感謝とともに、これを受け取って欲しい"
+
+#: 232026500-0-10527
+msgctxt "232026500-0-10527"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10526
+msgctxt "116521668-0-10526"
+msgid "<A Woodworker's Case from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""Who knew the difference a quality shield could make in the Craglorn wilderness? The survivors send their thanks."""
+msgstr "<ベルカースの補給係から贈られた、物資が入った木工師の容器が中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「クラグローンの荒野で、良質な盾が生死を分けるなどと、誰が予想しただろうか？ 生存者たちから感謝の声が届いている」"
+
+#: 232026500-0-10526
+msgctxt "232026500-0-10526"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10525
+msgctxt "116521668-0-10525"
+msgid "<The Dragonstar Trading Company provided a case of Woodworking supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Don't let this go to your head, but that was some damn fine work you provided. Take this with our thanks."""
+msgstr "<ドラゴンスター貿易会社は報酬として、木工の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「あまり調子に乗らないで欲しいのだが、あなたがやってくれた仕事、あれは実に見事だった。感謝と共にこれを受け取ってもらいたい」"
+
+#: 232026500-0-10525
+msgctxt "232026500-0-10525"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10524
+msgctxt "116521668-0-10524"
+msgid "<A decrepit case of woodworking supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""Your wonderful work has made our job in Coldharbour easier than we imagined. Accept these supplies we commandeered as compensation for your efforts."""
+msgstr "<木工師の物資が入った、ひどく傷んだ容器が箱の中に入っている。蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「あなたの素晴らしい仕事は、コールドハーバーにおける我々の作業を想像していた以上に容易にしてくれた。我々が徴発したこれらの物資を、あなたの尽力の報酬として受け取って欲しい」"
+
+#: 232026500-0-10524
+msgctxt "232026500-0-10524"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10523
+msgctxt "116521668-0-10523"
+msgid "<The organization gathered enough supplies to offer you a Woodworker's Case as a reward. They also included a note of thanks.>"
+"\n"
+"\n""You have our thanks, crafter. These bows guarantee that we'll be able to keep the least among us safe."""
+msgstr "<組織は報酬として、木工師の容器に入れて渡せるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「生産者に感謝します。これらの弓があれば、我々のうちで最弱の者たちの安全を確保できるでしょう」"
+
+#: 232026500-0-10523
+msgctxt "232026500-0-10523"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10522
+msgctxt "116521668-0-10522"
+msgid "<A battered case of woodworking supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""The other day I heard someone refer to our activities as illegal. I prefer to think of us as entrepreneurs. Still, let's keep this transaction to ourselves."""
+msgstr "<木工の物資が入ったボロボロの容器が箱の中に入っている。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「先日、誰かが我々の活動を非合法だと言うのを耳にした。私としては、我々のことを企業家だと考えたい。いずれにせよ、この取引は我々の秘密にしておこう」"
+
+#: 232026500-0-10522
+msgctxt "232026500-0-10522"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10521
+msgctxt "116521668-0-10521"
+msgid "<The Guild provided a case of woodworking supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""Fun bit of lore for you: most Daedra have pointy teeth. The bow is a great way to ensure you never smell a scamp's breath."""
+msgstr "<ギルドは報酬として、木工の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「ちょっと面白い知識を教えてあげましょう。大抵のデイドラは歯がとがっています。スキャンプの息を二度と嗅がないで済むようにするためには、この弓は素晴らしい方法です」"
+
+#: 232026500-0-10521
+msgctxt "232026500-0-10521"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10520
+msgctxt "116521668-0-10520"
+msgid "<The military provided a case of Woodworking supplies as payment, along with a note of thanks.>"
+"\n"
+"\n ""Your ability to supply what we need when we need it is much appreciated. We look forward to working with you again."""
+msgstr "<軍は報酬として、木工の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「我々が必要とするものを、必要とする時に支給してくれるあなたの能力に感謝する。再びあなたと仕事ができる時を楽しみにしている」"
+
+#: 232026500-0-10520
+msgctxt "232026500-0-10520"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10519
+msgctxt "116521668-0-10519"
+msgid "<The Consortium set aside a case of Woodworker supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n ""Good work, master woodworker! Your skill with a chisel and saw does you proud. We look forward to dealing with you again."""
+msgstr "<協会は報酬として、木工の物資が入った容器を確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「よくやってくれました、木工の達人よ！ あなたのノミとのこぎりの技術に敬意を表します。再びあなたと取引できる時を楽しみにしています」"
+
+#: 232026500-0-10519
+msgctxt "232026500-0-10519"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10518
+msgctxt "116521668-0-10518"
+msgid "<A Woodworker's Case from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""The new arrivals were quite happy with the shields you provided. We look forward to working with you again."""
+msgstr "<ベルカースの補給係から贈られた、物資が入った木工師の容器が中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「新入りたちはあなたが提供してくれた盾に大いに満足している。再びあなたと仕事ができる日を楽しみにしている」"
+
+#: 232026500-0-10518
+msgctxt "232026500-0-10518"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10517
+msgctxt "116521668-0-10517"
+msgid "<A case bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""Usually, the staves we gather from the battlefields are cracked and broken, so receiving your goods is a welcome change."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついた容器が箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「基本的に、我々が戦場で回収する杖はひびが入って壊れているので、あなたの品物を受け取るのはいい気分転換になる」"
+
+#: 232026500-0-10517
+msgctxt "232026500-0-10517"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10516
+msgctxt "116521668-0-10516"
+msgid "<The Dragonstar Trading Company provided a case of Woodworking supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""We deal with a lot of crafters, so take this for what it's worth. Your shields are among the best we've received. Thanks."""
+msgstr "<ドラゴンスター貿易会社は報酬として、木工の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「我々は多くの生産者と取引しているから、これを対価として受け取ってもらいたい。あなたの盾は我々が受け取ったものの中でも最高級に優れている。感謝する」"
+
+#: 232026500-0-10516
+msgctxt "232026500-0-10516"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10515
+msgctxt "116521668-0-10515"
+msgid "<A decrepit case of woodworking supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""Daedra aren't fond of giving up their spoils. So we convinced them, with the help of one of your last shipments. It worked out in our favor!"""
+msgstr "<木工師の物資が入った、ひどく傷んだ容器が箱の中に入っている。蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「デイドラは戦利品を手放すことを喜ばない。そのため、我々は最近あなたが発送した品を用いて、彼らを説得することにした。結果は我々にとって好ましいものだった」"
+
+#: 232026500-0-10515
+msgctxt "232026500-0-10515"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10514
+msgctxt "116521668-0-10514"
+msgid "<A battered case of woodworking supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""We hope your ability to keep quiet about our partnership matches or exceeds the level of your craftsmanship. Or else."""
+msgstr "<木工の物資が入ったボロボロの容器が箱の中に入っている。側面のところに紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「我々の協力関係について黙っておくあなたの能力が、あなたの職人技以上に優れていることを我々は期待している。さもなければ…」"
+
+#: 232026500-0-10514
+msgctxt "232026500-0-10514"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10513
+msgctxt "116521668-0-10513"
+msgid "<The Guild provided a case of woodworking supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""The Daedra really don't like the staves you've been providing us with, but we certainly do! Thanks!"""
+msgstr "<ギルドは報酬として、木工師の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「デイドラはあなたが提供してくれている杖がまったく気に入らないようですが、我々はもちろん気に入っています！ ありがとう！」"
+
+#: 232026500-0-10513
+msgctxt "232026500-0-10513"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10512
+msgctxt "116521668-0-10512"
+msgid "<The organization gathered enough supplies to offer you a case as a reward. They also included a note of thanks.>"
+"\n"
+"\n""The war has displaced so many refugees. Thanks to crafters such as yourself, at least some of them can defend themselves tonight."""
+msgstr "<組織は報酬として、容器に入れて渡せるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「戦争は実に多くの避難民を生みました。あなたのような生産者たちのおかげで、少なくとも彼らの一部は今夜、自分の身を守ることができます」"
+
+#: 232026500-0-10512
+msgctxt "232026500-0-10512"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10511
+msgctxt "116521668-0-10511"
+msgid "<The military provided a case of supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Your work in support of the war effort does you proud. One of our healers thinks that your intricate carvings provide a better focus for her magicka. Thank you!"""
+msgstr "<軍は報酬として、物資の入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「戦争における尽力を支援するあなたの仕事に敬意を表する。我々の治癒師のうちのある者は、あなたの精妙な装飾模様がマジカの集中を向上させてくれると考えている。感謝する」"
+
+#: 232026500-0-10511
+msgctxt "232026500-0-10511"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10510
+msgctxt "116521668-0-10510"
+msgid "<The Consortium set aside a case of Woodworker supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""We'll never be able to look at a shield again without comparing it to your fine and detailed work."""
+msgstr "<協会は報酬として、木工師の物資が入った容器を確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「我々にはもはや、あなたの良質にして細やかな作品と比較せずに盾を見ることはできなくなってしまうでしょう」"
+
+#: 232026500-0-10510
+msgctxt "232026500-0-10510"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10509
+msgctxt "116521668-0-10509"
+msgid "<A Woodworker's Case from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""Even the Star-Gazers are impressed by your craftsmanship, and those uppity scholars are rarely impressed by anything. Good job!"""
+msgstr "<ベルカースの補給係から贈られた、物資が入った木工師の容器が中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「星読みたちでさえ、あなたの職人技には感心している。あの頑固な学者たちが何かに感心するということは滅多にないのだが。いい仕事をしてくれた」"
+
+#: 232026500-0-10509
+msgctxt "232026500-0-10509"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10508
+msgctxt "116521668-0-10508"
+msgid "<A case bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""Veteran explorers demand quality as well as quantity. You have surpassed our expectations on both counts."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついた容器が箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「ベテランの探検家たちは質だけでなく量も要求している。あなたはその両方の面で我々の期待を上回った」"
+
+#: 232026500-0-10508
+msgctxt "232026500-0-10508"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10507
+msgctxt "116521668-0-10507"
+msgid "<The Dragonstar Trading Company provided a case of supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Damn adventurers used to hire for all their protection needs. Now they want to do it themselves! At least we still get a cut from the supplies."""
+msgstr "<ドラゴンスター貿易会社は報酬として、物資の入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「冒険者の連中はかつて護衛の需要を他から雇って満たしていた。今では、連中は自分でそれをやろうとしている！ 少なくとも、物資の一部は今でも我々のところに入ってくる」"
+
+#: 232026500-0-10507
+msgctxt "232026500-0-10507"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10506
+msgctxt "116521668-0-10506"
+msgid "<A decrepit case of woodworking supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""Who said nothing good ever came from Coldharbour? Use these supplies as you see fit."""
+msgstr "<木工師の物資が入った、ひどく傷んだ容器が箱の中に入っている。蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「コールドハーバーからいいものがやって来たためしはない、なんて言ったのは誰だ？ これらの物資を好きなように使ってもらいたい」"
+
+#: 232026500-0-10506
+msgctxt "232026500-0-10506"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10505
+msgctxt "116521668-0-10505"
+msgid "<The organization gathered enough supplies to offer you a Woodworker's Case as a reward. They also included a note of thanks.>"
+"\n"
+"\n""You'd be surprised how many Mages wind up displaced. Thanks for giving them the means to defend themselves."""
+msgstr "<組織は報酬として、木工師の容器に入れて渡せるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「いかに多くの魔術師が故郷を追われたかを知れば驚くでしょう。彼らに自分の身を守る手段を与えてくれたことを感謝します」"
+
+#: 232026500-0-10505
+msgctxt "232026500-0-10505"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10504
+msgctxt "116521668-0-10504"
+msgid "<A battered case of woodworking supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""We're so glad you accepted our contract. We get upset when people refuse our offers. Smart move."""
+msgstr "<木工の物資が入ったボロボロの容器が箱の中に入っている。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「あなたが我々の契約を承諾してくれてとても喜んでいる。依頼が拒否されると、我々はとても腹を立てる。賢い選択だ」"
+
+#: 232026500-0-10504
+msgctxt "232026500-0-10504"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10503
+msgctxt "116521668-0-10503"
+msgid "<The Guild provided a case of woodworking supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""Not many people realize that the Fighters Guild includes battle mages, and they appreciate the cut of your staves."""
+msgstr "<ギルドは報酬として、木工の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「戦士ギルドが魔闘士も受け入れていることはあまり知られていませんが、彼らはあなたの杖の威力を高く評価しています」"
+
+#: 232026500-0-10503
+msgctxt "232026500-0-10503"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10502
+msgctxt "116521668-0-10502"
+msgid "<The military provided a case of Woodworking supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Our mages have grown very fond of the staves you provide. Keep up the good work!"""
+msgstr "<軍は報酬として、木工師の物資が入った容器を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「我々の魔術師たちの間では、あなたの提供してくれた杖がお気に入りになっている。これからもいい仕事を続けて欲しい」"
+
+#: 232026500-0-10502
+msgctxt "232026500-0-10502"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10501
+msgctxt "116521668-0-10501"
+msgid "<The Consortium set aside a case of Woodworker supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""Such exquisite craftsmanship! Your woodwork is all the rage in our most-distant markets!"""
+msgstr "<協会は報酬として、木工師の物資が入った容器を確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「なんと見事な職人技でしょう！ あなたの木工は我々の最も距離の離れた市場で旋風を巻き起こしています！」"
+
+#: 232026500-0-10501
+msgctxt "232026500-0-10501"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10498
+msgctxt "116521668-0-10498"
+msgid "<A crate from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""It was gratifying to hear that one of your helmets saved an explorer from an Iron Orc's warhammer. Thanks!"
+msgstr "<ベルカースの補給係から贈られた、物資の詰まった木箱が中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「あなたの兜がアイアンオークの戦槌から探検家を1人救ったと聞いて、満足している。感謝する」"
+
+#: 232026500-0-10498
+msgctxt "232026500-0-10498"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10497
+msgctxt "116521668-0-10497"
+msgid "<A crate labeled ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""Veteran explorers deserve the very best, and your exquisite crafting matches their dedication and level of skill."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついた木箱が箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「ベテランの探検家たちには最高のものがふさわしい。あなたの卓越した生産技術は、彼らの献身と技術力にかなっている」"
+
+#: 232026500-0-10497
+msgctxt "232026500-0-10497"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10496
+msgctxt "116521668-0-10496"
+msgid "<The Dragonstar Trading Company provided a crate of Blacksmith supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""No one pays for quality and experience anymore. Place is going to the damn Orcs! Accept these supplies in lieu of other compensation."""
+msgstr "<ドラゴンスター貿易会社は報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「今どき、品質と経験に金を払おうなどという者はいないのだ。この場所はオークどものものになってしまう！ 他の報酬の代わりとして、これを受け取ってもらいたい」"
+
+#: 232026500-0-10496
+msgctxt "232026500-0-10496"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10495
+msgctxt "116521668-0-10495"
+msgid "<A battered crate of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""We appreciate fine workmanship. We also appreciate those who can keep their mouths shut. Remember that."""
+msgstr "<物資が入ったボロボロの木箱がある。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「我々は優れた職人技を高く評価する。我々はまた、口をしっかり閉じていられる人間も高く評価する。そのことを忘れないように」"
+
+#: 232026500-0-10495
+msgctxt "232026500-0-10495"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10494
+msgctxt "116521668-0-10494"
+msgid "<The Guild provided a crate of Smithing supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""Who knew you could fight Daedra while wielding practical yet stylish arms and armor? We appreciate your efforts!"""
+msgstr "<ギルドは報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「実用性と見栄えのよさを兼ね備えた武器と鎧を装備してデイドラと戦えるなんて、誰が考えたでしょう？ あなたのご尽力に感謝します！」"
+
+#: 232026500-0-10494
+msgctxt "232026500-0-10494"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10493
+msgctxt "116521668-0-10493"
+msgid "<A cast-off crate of supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""It's amazing what you find just lying around in Coldharbour—after you beat some of the locals senseless."""
+msgstr "<物資の入った打ち捨てられた木箱が箱の中に入っている。蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「コールドハーバーにどれだけ色々なものが放置されているか、知ったら驚くだろう――もちろん、地元の連中を何人か、気絶するまで殴った後の話だが」"
+
+#: 232026500-0-10493
+msgctxt "232026500-0-10493"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10492
+msgctxt "116521668-0-10492"
+msgid "<The organization gathered enough supplies to offer you a crate as a reward. They've also included a note of thanks.>"
+"\n"
+"\n""The war has displaced so many refugees. Thanks to crafters such as you, at least some of them can sleep a bit easier tonight."""
+msgstr "<組織は報酬として、木箱に入れて渡せるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「戦争は実に多くの避難民を退去させました。あなたのような生産者たちのおかげで、少なくとも彼らの一部は今夜、少し安らかに眠れるでしょう」"
+
+#: 232026500-0-10492
+msgctxt "232026500-0-10492"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10491
+msgctxt "116521668-0-10491"
+msgid "<The military provided a crate of Blacksmith supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Never doubt that you do as much with a hammer and anvil as our soldiers do wielding your arms and armor. Thank you."""
+msgstr "<軍は報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「あなたがハンマーと金床を使って成し遂げることは、我々の兵士たちがあなたの武器と鎧を使って成し遂げることに引けを取らないと確信している。感謝する」"
+
+#: 232026500-0-10491
+msgctxt "232026500-0-10491"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10490
+msgctxt "116521668-0-10490"
+msgid "<The Consortium set aside a crate of Blacksmith supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""We once again marvel at your intricate designs and attention to detail. You have our admiration and our thanks."""
+msgstr "<協会は報酬として、鍛冶の物資が入った木箱を確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「またしても、我々はあなたの巧妙な意匠と細部へのこだわりに驚かされるばかりです。我々から感謝と尊敬の念をあなたに捧げます」"
+
+#: 232026500-0-10490
+msgctxt "232026500-0-10490"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10489
+msgctxt "116521668-0-10489"
+msgid "<A crate from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""Craglorn can be a dangerous place, especially for the uninitiated. Thanks for supplying some arms and armor."""
+msgstr "<ベルカースの補給係から贈られた、物資の詰まった木箱が中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「クラグローンは危険を伴うところだ。特に経験のないものにとっては。武器と鎧を支給してくれたことに感謝する」"
+
+#: 232026500-0-10489
+msgctxt "232026500-0-10489"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10488
+msgctxt "116521668-0-10488"
+msgid "<A crate labeled ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""You have a flair for metalworking. And we appreciate your craftsmanship. You have our thanks."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついた木箱が箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「あなたは金属加工に天賦の才能がある。我々はあなたの職人技を評価する。我々の感謝を受け取って欲しい」"
+
+#: 232026500-0-10488
+msgctxt "232026500-0-10488"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10487
+msgctxt "116521668-0-10487"
+msgid "<The Dragonstar Trading Company provided a crate of Blacksmith supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""What provides better protection than a Dragonstar Trading Company guard? Nothing! But your armor comes damn close!"""
+msgstr "<ドラゴンスター貿易会社は報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「ドラゴンスター貿易会社の衛兵以上に頼りになる護衛は何か？　何もない！ しかし、あなたの鎧もかなり頼りになる！！」"
+
+#: 232026500-0-10487
+msgctxt "232026500-0-10487"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10486
+msgctxt "116521668-0-10486"
+msgid "<A battered crate of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""It may look like this stuff fell off the back of a merchant's wagon. Probably because it did. But you scratched our backs, so here you go."""
+msgstr "<物資が入ったボロボロの木箱がある。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「この物体が商人の荷馬車から落ちたもののように見えるとしたら、それはおそらく実際に落ちたからである。しかし君は我々の手助けをしてくれたのだから、そういうことがあってもいいだろう」"
+
+#: 232026500-0-10486
+msgctxt "232026500-0-10486"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10485
+msgctxt "116521668-0-10485"
+msgid "<The Guild provided a crate of Smithing supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""When the Daedra see us coming, decked out in the latest arms and armor from your forge, they'll run right back to Oblivion! Thanks."""
+msgstr "<ギルドは報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「最新の武器と鎧に身を包んだ私たちがやって来るのを見ると、デイドラは尻尾を巻いてオブリビオンに逃げ帰って行きました！感謝します」"
+
+#: 232026500-0-10485
+msgctxt "232026500-0-10485"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10484
+msgctxt "116521668-0-10484"
+msgid "<A cast-off crate of supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""The Daedra we acquired this from have no further need for it. We're sure you can put it to better use."""
+msgstr "<物資の入った打ち捨てられた木箱が箱の中に入っている。蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「これを我々のもとに置いていったデイドラは、もうこれを必要とすることはないだろう。あなたの手元にあったほうがよさそうだと我々は判断した」"
+
+#: 232026500-0-10484
+msgctxt "232026500-0-10484"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10483
+msgctxt "116521668-0-10483"
+msgid "<The organization gathered enough supplies to offer you a crate as a reward. They also included a note of thanks.>"
+"\n"
+"\n""Even the wretched and the displaced deserve to be able to defend themselves. Thanks to you, now a few of them can."""
+msgstr "<組織は報酬として、木箱に入れられるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「故郷を追われ、悲惨な状態にある者たちにも、自分の身を守る権利はあります。あなたのおかげで、彼らのうち幾人かはその力を持つようになるでしょう」"
+
+#: 232026500-0-10483
+msgctxt "232026500-0-10483"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10482
+msgctxt "116521668-0-10482"
+msgid "<The military provided a crate of Blacksmith supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""You demonstrate honor and display a powerful sense of duty by completing this order in a timely fashion to support our troops. Thanks."""
+msgstr "<軍は報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「我々の兵士を支援するためのこの注文を間に合わせてくれたことで、あなたは名誉と、また力強い義務感を示してくれた。感謝する」"
+
+#: 232026500-0-10482
+msgctxt "232026500-0-10482"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10481
+msgctxt "116521668-0-10481"
+msgid "<The Consortium set aside a crate of Blacksmith supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""Another example of your amazing artistry and craftsmanship. We appreciate being allowed to represent your wares in foreign markets."""
+msgstr "<協会は報酬として、鍛冶の物資が入った木箱を確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「またしてもあなたの芸術的追求と職人技を見ることができました。外国の市場において、あなたの作品の名を掲げさせて頂けることを感謝します」"
+
+#: 232026500-0-10481
+msgctxt "232026500-0-10481"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10480
+msgctxt "116521668-0-10480"
+msgid "<A crate from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""Thanks for keeping the new arrivals stocked. Good luck to you."""
+msgstr "<ベルカースの補給係から贈られた、物資の詰まった木箱が中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「新入りたちに装備を供給してくれて感謝する。幸運を」"
+
+#: 232026500-0-10480
+msgctxt "232026500-0-10480"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10479
+msgctxt "116521668-0-10479"
+msgid "<A crate labeled ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""New equipment is so much better than the slightly used materials we collect from the battlefield. Accept this as compensation."""
+msgstr "<「クロスローズ投機会社」というラベルの付いた木箱が、箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「新しい装備は、我々が戦場で回収する少々傷んだ素材より、はるかに高性能だ。これを報酬として受け取ってもらいたい」"
+
+#: 232026500-0-10479
+msgctxt "232026500-0-10479"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10478
+msgctxt "116521668-0-10478"
+msgid "<The Dragonstar Trading Company provided a crate of Blacksmith supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Damned adventurers would be better off hiring us than doing it all themselves! They have a fighting chance thanks to your efforts."""
+msgstr "<ドラゴンスター貿易会社は報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「冒険者どもは、何もかも自分でやろうとしないで、我々を雇うべきだ！ 彼らが戦う機会を得られるのは、あなたのおかげだ」"
+
+#: 232026500-0-10478
+msgctxt "232026500-0-10478"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10477
+msgctxt "116521668-0-10477"
+msgid "<A cast-off crate of supplies sits inside the box, a note attached to the lid.>"
+"\n"
+"\n""Found these in the ruins of a Daedric camp. Your efforts keep us focused on this little corner of Oblivion."""
+msgstr "<物資の入った使い古しの木箱が、箱の中に入っている。蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「デイドラのキャンプの残骸でこれらを発見した。あなたの努力のおかげで、我々はオブリビオンのこの小さな一角に注力し続けられる」"
+
+#: 232026500-0-10477
+msgctxt "232026500-0-10477"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10476
+msgctxt "116521668-0-10476"
+msgid "<The organization gathered enough supplies to offer you a crate as a reward. They also included a note of thanks.>"
+"\n"
+"\n""You have our thanks, crafter. These arms and armor guarantee that the least among us can protect themselves."""
+msgstr "<組織は報酬として、木枠箱に入った物資を集めてくれた。感謝のメモも添えられている>\\r"
+"\n\\r"
+"\n「生産に感謝します。この武器と鎧があれば、我々のうちで最弱の者も間違いなく自分の身を守れるでしょう」"
+
+#: 232026500-0-10476
+msgctxt "232026500-0-10476"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10475
+msgctxt "116521668-0-10475"
+msgid "<A battered crate of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""You were never here. We were never here. Let's never mention this again. Thanks."""
+msgstr "<物資の入ったボロボロの木箱がある。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「君はここにいなかった。我々もここにいなかった。このことは二度と口にしないように。感謝する」"
+
+#: 232026500-0-10475
+msgctxt "232026500-0-10475"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10474
+msgctxt "116521668-0-10474"
+msgid "<The Guild provided a crate of Smithing supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""The Daedra refuse to go down without a fight. Thanks to you and your crafting skills, we can give them a proper one!"""
+msgstr "<ギルドは報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「デイドラは戦わずして屈することはありません。あなたとその生産の技術のおかげで、我々は思う存分奴らと戦うことができるでしょう！」"
+
+#: 232026500-0-10474
+msgctxt "232026500-0-10474"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10473
+msgctxt "116521668-0-10473"
+msgid "<The military provided a crate of Blacksmith supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Your work to support the war effort does you proud. And we imagine that more than one soldier enjoys both the style and effectiveness of your designs."""
+msgstr "<軍は報酬として、鍛冶の物資が入った木箱を提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「戦争における尽力を支援するあなたの仕事に敬意を表する。少なからぬ数の兵士たちが、あなたの製品の様式美と実用性を気に入るだろう」"
+
+#: 232026500-0-10473
+msgctxt "232026500-0-10473"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10472
+msgctxt "116521668-0-10472"
+msgid "<The Consortium set aside a crate of Blacksmith supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""Good work, friend smith! Your skill at working metal does you proud. We look forward to dealing with you again."""
+msgstr "<協会は報酬として、鍛冶屋の物資が入った木箱を確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「よくやってくれました、鍛冶屋の友よ！ あなたの金属加工技術に敬意を表します。あなたと再び取引できる時を楽しみにしています」"
+
+#: 232026500-0-10472
+msgctxt "232026500-0-10472"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10469
+msgctxt "116521668-0-10469"
+msgid "<A satchel from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""It was gratifying to hear that a pair of your shoes saved an explorer who stepped on an Iron Orc spike. Thanks!"""
+msgstr "<ベルカースの補給係から贈られた、物資の詰まったかばんが中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「あなたの靴がアイアンオークの釘を踏んでしまった探検家を救ったと聞いて、満足している。感謝する」"
+
+#: 232026500-0-10469
+msgctxt "232026500-0-10469"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10468
+msgctxt "116521668-0-10468"
+msgid "<A satchel bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""Veteran explorers deserve the very best, and your exquisite crafting matches their dedication and level of skill."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついたかばんが箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「ベテランの探検家たちには最高のものがふさわしい。あなたの卓越した生産技術は、彼らの献身と技術力にかなっている」"
+
+#: 232026500-0-10468
+msgctxt "232026500-0-10468"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10467
+msgctxt "116521668-0-10467"
+msgid "<The Dragonstar Trading Company provided a satchel of supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""No one wants to pay for quality and experience anymore. Craglorn going to the damn Orcs! Accept these supplies in lieu of other compensation."""
+msgstr "<ドラゴンスター貿易会社は報酬として、物資の入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「今どき、品質と経験のために金を払う者などいないのだ。クラグローンはオークどもを選んでしまった！ 他の報酬の代わりとして、この物資を受け取ってもらいたい」"
+
+#: 232026500-0-10467
+msgctxt "232026500-0-10467"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10466
+msgctxt "116521668-0-10466"
+msgid "<A decrepit satchel of supplies sits inside the box, a note attached to the flap.>"
+"\n"
+"\n""It's amazing what you find just lying around in Coldharbour—after you beat some of the locals senseless."""
+msgstr "<物資の入った、ひどく傷んだかばんが箱の中に入っている。はね蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「コールドハーバーにどれだけ色々なものが散らばっているか、知ったら驚くだろう――もちろん、地元の連中を何人か、気絶するまで殴った後の話だが」"
+
+#: 232026500-0-10466
+msgctxt "232026500-0-10466"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10465
+msgctxt "116521668-0-10465"
+msgid "<A beat-up satchel of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""We appreciate fine workmanship. We also appreciate those who can keep their mouths shut. Keep that in mind."""
+msgstr "<物資の入ったくたびれたかばんが箱の中に入っている。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「我々は優れた職人技を高く評価する。我々はまた、口をしっかり閉じていられる人間も高く評価する。そのことを忘れないように」"
+
+#: 232026500-0-10465
+msgctxt "232026500-0-10465"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10464
+msgctxt "116521668-0-10464"
+msgid "<The Guild provided a satchel of tailoring supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""Who knew you could fight Daedra while wearing practical yet stylish clothing? We appreciate your efforts!"""
+msgstr "<ギルドは報酬として、仕立屋の物資が入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「実用性と見栄えのよさを兼ね備えた服を着てデイドラと戦えるなんて、誰が考えたでしょう？ あなたのご尽力に感謝します！」"
+
+#: 232026500-0-10464
+msgctxt "232026500-0-10464"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10463
+msgctxt "116521668-0-10463"
+msgid "<The organization gathered enough supplies to offer you a satchel as a reward. They also included a note of thanks.>"
+"\n"
+"\n""Even the wretched and the displaced deserve to be able to cloth themselves. Thanks to you, now a few of them can."""
+msgstr "<組織は報酬として、かばんに入れて渡せるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「故郷を追われ、悲惨な状態にある者たちにも、服を着る権利はあります。あなたのおかげで、彼らのうち幾人かはそれができるようになるでしょう」"
+
+#: 232026500-0-10463
+msgctxt "232026500-0-10463"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10462
+msgctxt "116521668-0-10462"
+msgid "<The Consortium set aside a satchel of Clothier supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""Another example of your amazing artistry and workmanship. We appreciate being allowed to represent your wares in distant markets."""
+msgstr "<協会は報酬として、仕立屋の物資が入ったかばんを確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「またしてもあなたの芸術的追求と職人技を見ることができました。遠く離れた市場において、あなたの作品の名を掲げさせて頂けることを感謝します」"
+
+#: 232026500-0-10462
+msgctxt "232026500-0-10462"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10461
+msgctxt "116521668-0-10461"
+msgid "<The military provided a satchel of Clothier supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Never doubt that you do as much with a needle and thread as our soldiers do with weapons and armor. Thank you."""
+msgstr "<軍は報酬として、仕立屋の物資が入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「あなたが針と糸を使って成し遂げることは、我々の兵士たちが武器と鎧を使って成し遂げることに引けを取らないと確信している。感謝する」"
+
+#: 232026500-0-10461
+msgctxt "232026500-0-10461"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10458
+msgctxt "116521668-0-10458"
+msgid "<A satchel from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""Thanks for dressing the new arrivals in so stylish a manner. Good luck to you."""
+msgstr "<ベルカースの補給係から贈られた、物資の詰まったかばんが中に入っている。メモが貼ってある>\\r"
+"\n\\r"
+"\n「新入りたちにこのような格好のよい服を用意してくれて感謝する。幸運を」"
+
+#: 232026500-0-10458
+msgctxt "232026500-0-10458"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10457
+msgctxt "116521668-0-10457"
+msgid "<A satchel bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""New gear is so much better than the slightly used materials we collect from the battlefield. Accept this as compensation."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついたかばんが箱の中に入っている。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「新しい装備は、我々が戦場から回収する少々傷んだ素材より、はるかに高性能だ。これを報酬として受け取って欲しい」"
+
+#: 232026500-0-10457
+msgctxt "232026500-0-10457"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10456
+msgctxt "116521668-0-10456"
+msgid "<The Dragonstar Trading Company provided a satchel of supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Damned adventurers would be better off hiring us than trying to do everything themselves! At least they'll look good, thanks to your efforts."""
+msgstr "<ドラゴンスター貿易会社は報酬として、物資の入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「冒険者どもは、何もかも自分でやろうとしないで、我々を雇うべきだ！ 少なくともあなたの尽力のおかげで、彼らの見た目は改善するだろう」"
+
+#: 232026500-0-10456
+msgctxt "232026500-0-10456"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10455
+msgctxt "116521668-0-10455"
+msgid "<A decrepit satchel of supplies sits inside the box, a note attached to the flap.>"
+"\n"
+"\n""Found these in the ruins of a Daedric camp and figured you could put them to better use than the locals."""
+msgstr "<物資の入った、ひどく傷んだかばんが箱の中に入っている。はね蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「デイドラのキャンプの廃墟でこれらを発見した。あなたのほうが地元の連中よりもいい使い道を見つけられるだろう」"
+
+#: 232026500-0-10455
+msgctxt "232026500-0-10455"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10454
+msgctxt "116521668-0-10454"
+msgid "<A beat-up satchel of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""You were never here. We were never here. Let's never mention this again. Ever."""
+msgstr "<物資の入ったくたびれたかばんがある。側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「君はここにいなかった。我々もここにいなかった。このことは二度と口にしないように。決して」"
+
+#: 232026500-0-10454
+msgctxt "232026500-0-10454"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10453
+msgctxt "116521668-0-10453"
+msgid "<The Guild provided a satchel of tailoring supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""The Daedra refuse to go down without a fight. Thanks to you and your crafting skills, we look stylish while giving them one!"""
+msgstr "<ギルドは報酬として、仕立屋の物資が入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「デイドラは戦わずして屈することはありません。あなたとその生産の技術のおかげで、我々は見栄えよく奴らと戦うことができるでしょう！」"
+
+#: 232026500-0-10453
+msgctxt "232026500-0-10453"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10452
+msgctxt "116521668-0-10452"
+msgid "<The organization gathered enough supplies to offer you a satchel as a reward. They also included a note of thanks.>"
+"\n"
+"\n""The war has displaced so many refugees. Thanks to crafters such as yourself, at least some of them can sleep a bit easier tonight."""
+msgstr "<組織は報酬として、かばんに入れて渡せるだけの物資を提供してくれた。感謝のメモも入れられている>\\r"
+"\n\\r"
+"\n「戦争は非常に多くの避難民を退去させました。あなたのような生産者たちのおかげで、少なくとも彼らの一部は今夜、少し安らかに眠れるでしょう」"
+
+#: 232026500-0-10452
+msgctxt "232026500-0-10452"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10451
+msgctxt "116521668-0-10451"
+msgid "<The military provided a satchel of Clothier supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""Your work in support of the war effort does you proud. And we imagine that more than one soldier enjoys both the style and comfort of your designs."""
+msgstr "<軍は報酬として、仕立屋の物資が入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「戦争における尽力を支援するあなたの仕事に敬意を表する。少なからぬ数の兵士たちが、あなたの製品の様式美と実用性を気に入るだろう」"
+
+#: 232026500-0-10451
+msgctxt "232026500-0-10451"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10450
+msgctxt "116521668-0-10450"
+msgid "<The Consortium set aside a satchel of Clothier supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n""We once again marvel at your intricate designs and attention to detail. You have our admiration and our thanks."""
+msgstr "<協会は報酬として、仕立屋の物資が入ったかばんを確保してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「またしても、我々はあなたの巧妙な意匠と細部へのこだわりには驚かされるばかりです。我々から感謝と尊敬の念をあなたに捧げます」"
+
+#: 232026500-0-10450
+msgctxt "232026500-0-10450"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10447
+msgctxt "116521668-0-10447"
+msgid "<A decrepit satchel of supplies sits inside the box, a note attached to the flap.>"
+"\n"
+"\n""The Daedra we acquired this from have no further need for it. We're sure it will be better off in your hands."""
+msgstr "<物資の入った古いかばんが箱の中に入っており、はね蓋のところにメモが貼ってある>\\r"
+"\n\\r"
+"\n「これを我々のもとに置いていったデイドラは、もうこれを必要とすることはない。あなたの手元にあったほうがいいということを我々は確信している」"
+
+#: 232026500-0-10447
+msgctxt "232026500-0-10447"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10446
+msgctxt "116521668-0-10446"
+msgid "<A beat-up satchel of supplies awaits you, a scrap of paper tacked to its side.>"
+"\n"
+"\n""It may look like this stuff fell off the back of a trader's cart, but that's probably because it did. But you lived up to your end of the bargain, so here you go."""
+msgstr "<物資の入ったくたびれたかばんがある。側面に紙切れが貼ってある>\\r"
+"\n\\r"
+"\n「この物体が商人の荷馬車から落ちたもののように見えるとしたら、それはおそらく実際に落ちたからである。しかし君はこの契約を最後までやり遂げたのだから、そういうことがあってもいい」"
+
+#: 232026500-0-10446
+msgctxt "232026500-0-10446"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10445
+msgctxt "116521668-0-10445"
+msgid "<The Guild provided a satchel of tailoring supplies as a reward, as well as a note of thanks.>"
+"\n"
+"\n""We had more than a few Daedra ask where we got our clothing—before we killed them! Thanks."""
+msgstr "<ギルドは報酬として、縫製の物資が入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「少なからぬ数のデイドラが私たちの服を見て、それをどこで手に入れたのかと聞いてきました。もちろん、殺してやりましたが！ 感謝します」"
+
+#: 232026500-0-10445
+msgctxt "232026500-0-10445"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10444
+msgctxt "116521668-0-10444"
+msgid "<The organization gathered enough supplies to offer you a satchel as a reward. They've also included a note of thanks.>"
+"\n"
+"\n""You have our thanks, crafter. This clothing guarantees that the least among us receive a few basic necessities."""
+msgstr "<組織は報酬として、かばんに入れて渡せるだけの物資を集めてくれた。感謝のメモも入っている>\\r"
+"\n\\r"
+"\n「生産者に感謝します。この服があれば、我々のうちで最も弱い者でさえ、確実に基本的な必要を満たすことができるでしょう」"
+
+#: 232026500-0-10444
+msgctxt "232026500-0-10444"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10441
+msgctxt "116521668-0-10441"
+msgid "<A satchel from the Belkarth Quartermaster awaits within, stocked with supplies. A note is attached.>"
+"\n"
+"\n""Craglorn can be a lonely place, especially for the newest arrivals. Thanks for brightening their day with such stylish accouterments."""
+msgstr "<ベルカースの補給係から贈られたかばんが中に入っている。かばんには物資が詰め込まれており、側面にはメモが貼ってある>\\r"
+"\n\\r"
+"\n「クラグローンは時として寂しい場所だ。特に新参者たちにとっては。このような美しい服で彼らの生活を明るくしてくれたことに感謝する」"
+
+#: 232026500-0-10441
+msgctxt "232026500-0-10441"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10440
+msgctxt "116521668-0-10440"
+msgid "<A satchel bearing the tag ""Crossroads Profiteers"" waits inside the box, a note attached to one side.>"
+"\n"
+"\n""You have a flair for needlework, and we appreciate your craftsmanship. Take this with our thanks."""
+msgstr "<「クロスローズ投機会社」と書かれた札のついたかばんが箱の中に入っており、側面にメモが貼ってある>\\r"
+"\n\\r"
+"\n「あなたには針仕事に天賦の才能がある。我々はあなたの職人技を評価する。感謝とともに、これを受け取って欲しい」"
+
+#: 232026500-0-10440
+msgctxt "232026500-0-10440"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10439
+msgctxt "116521668-0-10439"
+msgid "<The Dragonstar Trading Company provided a satchel of Clothier supplies as payment, along with a note of thanks.>"
+"\n"
+"\n""What provides better protection than a Dragonstar Trading Company guard? Nothing! But your light armor comes damn close!"""
+msgstr "<ドラゴンスター貿易会社は報酬として仕立屋の物資が入ったかばんを1つ提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「ドラゴンスター貿易会社の衛兵以上に頼りになる護衛があるだろうか？ ない！ しかし、あなたの軽装鎧もかなり頼りになる！」"
+
+#: 232026500-0-10439
+msgctxt "232026500-0-10439"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10438
+msgctxt "116521668-0-10438"
+msgid "<The military provided a satchel of Clothier supplies as payment, along with a note of thanks.>"
+"\n"
+"\n ""We once again stand in awe of your intricate designs and attention to detail. You have our admiration and our thanks."""
+msgstr "<軍は報酬として仕立屋の物資が入ったかばんを提供してくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「またしても、我々はあなたの巧妙な意匠と細部へのこだわりに圧倒されるばかりだ。我々から感謝と尊敬の念をあなたに捧げる」"
+
+#: 232026500-0-10438
+msgctxt "232026500-0-10438"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10437
+msgctxt "116521668-0-10437"
+msgid "<The Consortium set aside a satchel of Clothier supplies as a reward, along with a note of thanks.>"
+"\n"
+"\n ""Good work, master clothier! Your skill with a needle and thread does you proud. We look forward to dealing with you again."""
+msgstr "<協会は報酬として、仕立屋の物資が入ったかばんを1つ取りのけておいてくれた。感謝のメモが入っている>\\r"
+"\n\\r"
+"\n「よくやってくれました、仕立ての達人よ！ あなたの針と糸の技術に敬意を表します。再びあなたと取引できる時を楽しみにしています」"
+
+#: 232026500-0-10437
+msgctxt "232026500-0-10437"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-10434
+msgctxt "116521668-0-10434"
+msgid "Ah. Very good then. For all of us. Azaro will send word to Zazabukhi to let her know all is well. "
+"\n"
+"\nNot just yet though. This one wants a few more minutes to enjoy this rock, and besides, he likes making Zazabukhi wait. Heh."
+msgstr "ああ、なら本当に良かった。皆にとってな。アザロはザザブクヒに全て順調だと伝えておこう\\r"
+"\n\\r"
+"\nただし、もう少し後でだが。この岩をあと数分は楽しみたいし、それにザザブクヒを待たせるのは好きなんだ。ふふふ"
+
+#: 232026500-0-10434
+msgctxt "232026500-0-10434"
+msgid "Yes. They should reach Orsinium soon."
+msgstr "Yes. They should reach Orsinium soon."
+
+#: 116521668-0-10430
+msgctxt "116521668-0-10430"
+msgid "The Daedra never seem to stay down for long, but a reminder that we can hurt them is worth something."
+"\n"
+"\nTake your key and your cut. By tomorrow they may be back to get hurt again!"
+msgstr "デイドラがやられたままでいることはないようだけど、忘れないで。奴らを傷つけることには価値があるわ\\r"
+"\n\\r"
+"\n鍵と報酬を受け取って。明日には、また奴らが傷つけられるようになるでしょう！"
+
+#: 232026500-0-10430
+msgctxt "232026500-0-10430"
+msgid "What is my reward for defeating Lord Warden Dusk?"
+msgstr "ダスク看守長を倒した報酬は？"
+
+#: 116521668-0-10429
+msgctxt "116521668-0-10429"
+msgid "You burned the Warden's Tome and made a prisoner of him. Can't think of a more fitting end for that scum. Well done!"
+"\n"
+"\nTake your prize! We'll see if you can outdo this feat tomorrow."
+msgstr "番人の書を焼き、奴を捕らえた。あのクズには相応しい末路ね！\\r"
+"\n\\r"
+"\n報酬を受け取って。明日、この偉業を越えられるかどうか見てみましょう"
+
+#: 232026500-0-10429
+msgctxt "232026500-0-10429"
+msgid "What is my reward for defeating Lord Warden Dusk?"
+msgstr "ダスク看守長を倒した報酬は？"
+
+#: 116521668-0-10427
+msgctxt "116521668-0-10427"
+msgid "Yes, you did all right. Closed the portal, which was no simple task, and bulled your way through everything they threw at you. Quite Undaunted, if you ask me."
+msgstr "ああ、よくやった。ポータルを閉じることは簡単じゃない。それにお前は数々の困難も見事に乗り越えた。まさにアンドーンテッドだな。疑いの余地はない"
+
+#: 232026500-0-10427
+msgctxt "232026500-0-10427"
+msgid "Did I earn a reward?"
+msgstr "報酬を得られたのか？"
+
+#: 116521668-0-10426
+msgctxt "116521668-0-10426"
+msgid "Certainly. You've accomplished wonders today, Undaunted. Forcing the closure of an Oblivion Gate is a feat out of myth."
+msgstr "当然だ。アンドーンテッドよ、お前は今日、奇跡を成し遂げたのだ。オブリビオンの門を塞ぐことは、神話として語り継がれるほどの偉業だ"
+
+#: 232026500-0-10426
+msgctxt "232026500-0-10426"
+msgid "Did I earn a reward?"
+msgstr "報酬を得られたのか？"
+
+#: 116521668-0-10365
+msgctxt "116521668-0-10365"
+msgid "The quest is now complete. You should still be on this layer until leaving the subzone."
+msgstr "The quest is now complete. You should still be on this layer until leaving the subzone."
+
+#: 232026500-0-10365
+msgctxt "232026500-0-10365"
+msgid "finish quest"
+msgstr "finish quest"
+
+#: 116521668-0-10330
+msgctxt "116521668-0-10330"
+msgid "Yes. And with that beast Rakkhat killed, it will stay that way. Well, Adara'hai can hope, yes?"
+"\n"
+"\nThank you, friend. Take this and my blessing. When Jone and Jode cry out for a hero's song, this one will sing your name."
+msgstr "ええ。そして獣のラカートが殺された今、封印されたままになる。アダーラハイはそう望んでもいいわよね？\\r"
+"\n\\r"
+"\nありがとう、友よ。私の祈りとともにこれを受け取って。ジョーンとジョーデが英雄の歌を求めて叫ぶ時、あなたの名前を歌うわ"
+
+#: 232026500-0-10330
+msgctxt "232026500-0-10330"
+msgid "So the breach is sealed?"
+msgstr "穴は封印されたのか？"
+
+#: 116521668-0-10329
+msgctxt "116521668-0-10329"
+msgid "Yes. And with that beast Rakkhat killed, it will stay that way. Well, Adara'hai can hope, yes?"
+"\n"
+"\nThank you, friend. Take this and my blessing. When Jone and Jode cry out for a hero's song, this one will sing your name."
+msgstr "ええ。そして獣のラカートが殺された今、封印されたままになる。アダーラハイはそう望んでもいいわよね？\\r"
+"\n\\r"
+"\nありがとう、友よ。私の祈りとともにこれを受け取って。ジョーンとジョーデが英雄の歌を求めて叫ぶ時、あなたの名前を歌うわ"
+
+#: 232026500-0-10329
+msgctxt "232026500-0-10329"
+msgid "So the breach is sealed?"
+msgstr "穴は封印されたのか？"
+
+#: 116521668-0-10328
+msgctxt "116521668-0-10328"
+msgid "Yes. And with that beast Rakkhat killed, it will stay that way. Well, Adara'hai can hope, yes?"
+"\n"
+"\nThank you, friend. When Jone and Jode cry out for a hero's song, this one will sing your name."
+msgstr "ええ。そして獣のラカートが殺された今、封印されたままになる。アダーラハイはそう望んでもいいわよね？\\r"
+"\n\\r"
+"\nありがとう、友よ。ジョーンとジョーデが英雄の歌を求めて叫ぶ時、あなたの名前を歌うわ"
+
+#: 232026500-0-10328
+msgctxt "232026500-0-10328"
+msgid "So the breach is sealed?"
+msgstr "穴は封印されたのか？"
+
+#: 116521668-0-10305
+msgctxt "116521668-0-10305"
+msgid "Tomorrow is the first time in many years that I won't have anything to do. No tasks, no duties. Nothing prophesied, anyway."
+"\n"
+"\nHave you ever had rotmeth? I've always wanted to try rotmeth. Maybe a trip to Valenwood is in order."
+msgstr "明日は何もやることがない。こんなの数十年ぶりよ。任務も仕事もない。いずれにせよ何も予言されていないわ\\r"
+"\n\\r"
+"\nロトメスのことを知ってる？ 前から試してみたかったのよ。ヴァレンウッドに行こうかな"
+
+#: 232026500-0-10305
+msgctxt "232026500-0-10305"
+msgid "What happens now?"
+msgstr "それで、どうなる？"
+
+#: 116521668-0-10301
+msgctxt "116521668-0-10301"
+msgid "Yes, I heard about the trouble at Fharun Stronghold. Thank Malacath that you were able to secure the holy text."
+"\n"
+"\nThe Agra Crun will make sure it remains safe. The Vosh Rakh lost today's battle, thanks to you."
+msgstr "ファルン要塞で起きた問題については聞いてる。聖言を守ってくれて本当によかった\\r"
+"\n\\r"
+"\nアグラ・クルンが守ってくれるでしょう。ヴォシュ・ラクが今日の戦いに破れたのは、あなたのおかげよ"
+
+#: 232026500-0-10301
+msgctxt "232026500-0-10301"
+msgid "Azrath said to give you this. The sacred words of Malacath."
+msgstr "アズラスからこれを渡すように言われた。マラキャスの聖言だ"
+
+#: 116521668-0-10300
+msgctxt "116521668-0-10300"
+msgid "The battle against the Scaled Court will continue, but this was the one place in Craglorn the Serpent could be contained. You accomplished wonders today."
+"\n"
+"\nTuruk wanted me to give this to you. Don't worry—it's not diseased. I think."
+msgstr "〈スケールドコート〉との戦いはこれからも続くでしょう。でも、クラグローン中で大蛇を倒したのはこの場所だけよ。今日のことは素晴らしい成果ね\\r"
+"\n\\r"
+"\nトゥルクからこれを渡すよう頼まれたわ。安心して。汚染はされていない。多分ね"
+
+#: 232026500-0-10300
+msgctxt "232026500-0-10300"
+msgid "What now?"
+msgstr "次はどうする？"
+
+#: 116521668-0-10299
+msgctxt "116521668-0-10299"
+msgid "We do not mince words here. You are the chief of Shatul."
+"\n"
+"\nGo, receive your clan."
+msgstr "ここでは遠回しな言い方はしない。あなたがシャトゥルの族長よ\\r"
+"\n\\r"
+"\nさあ、クランに会いに行って"
+
+#: 232026500-0-10299
+msgctxt "232026500-0-10299"
+msgid "That was it?"
+msgstr "あれだけ？"
+
+#: 116521668-0-10298
+msgctxt "116521668-0-10298"
+msgid "I see. Our clan will believe Malacath favors the loyalty <<1>> showed my son. They'll accept his victory … for now."
+"\n"
+"\nI shall advise him, if he allows it. And I will watch for weakness in his heart. Shatul must survive."
+msgstr "そう。クランは、マラキャスが<<1>>の息子に対する忠誠心を選んだのだと思うはず。彼の勝利を認めるはずよ… とりあえずはね\\r"
+"\n\\r"
+"\n彼が望むなら助言をする。そしてあの心の弱点に注意するわ。シャトゥルが生き延びるために"
+
+#: 232026500-0-10284
+msgctxt "232026500-0-10284"
+msgid "I recovered your sacred banner."
+msgstr "聖なる旗を取り戻した"
+
+#: 116521668-0-10275
+msgctxt "116521668-0-10275"
+msgid "You've outdone us, friend. You've explored the Aetherian Archive before the Undaunted."
+"\n"
+"\nThis doesn't happen often, but we'd like to give you something special to commemorate your feat!"
+msgstr "友よ、君は我らを上回る力を持ち、不屈のアンドーンテッドより先にこのエセリアルの保管庫を調査した\\r"
+"\n\\r"
+"\nよくあることではないのだが、その功績を称えるために特別な褒美を与えたい"
+
+#: 232026500-0-10275
+msgctxt "232026500-0-10275"
+msgid "I've explored the entirety of the Archive, and defeated the opponents within."
+msgstr "保管庫を調査し、中にいた敵を倒した"
+
+#: 116521668-0-10274
+msgctxt "116521668-0-10274"
+msgid "You've outdone us, friend. You've reached the heart of this Citadel before the Undaunted."
+"\n"
+"\nThis doesn't happen often, but we'd like to give you something special to commemorate your feat!"
+msgstr "友よ、君は我らを上回る力を持ち、不屈のアンドーンテッドより先にヘル・ラ要塞の心臓にたどりついた\\r"
+"\n\\r"
+"\nよくあることではないのだが、その功績を称えるために特別な褒美を与えたい"
+
+#: 232026500-0-10274
+msgctxt "232026500-0-10274"
+msgid "I've explored Hel Ra Citadel and defeated the opponents within."
+msgstr "ヘル・ラ要塞を調査し、中にいた敵を倒した"
+
+#: 116521668-0-10273
+msgctxt "116521668-0-10273"
+msgid "For now? No. Go explore Wrothgar and get to know this great city. Enjoy yourself!"
+"\n"
+"\nWhen you're ready for a new challenge, find me at my private tavern in the city. I'm sure I'll have something that requires your specific skill set by then."
+msgstr "今か？ ないな。好きにロスガーを歩き回って、この偉大な街の知識を深めるといい。楽しんで来るといい！\\r"
+"\n\\r"
+"\n新しいことに挑戦する準備ができたら、街の中にある俺の酒場に会いに来い。その頃には、何かお前の腕を頼らなくてはいけないことが発生しているだろう"
+
+#: 232026500-0-10273
+msgctxt "232026500-0-10273"
+msgid "Do you need anything else from me?"
+msgstr "他にやるべきことは？"
+
+#: 116521668-0-10270
+msgctxt "116521668-0-10270"
+msgid "A grim tale. Someone attempted to bind Orc souls to Dwarven constructs. Even if possible, the process would destroy body and mind … to say nothing of the soul itself."
+"\n"
+"\nIt warrants further study, yes? Yes, good."
+msgstr "恐ろしい話だ。オークの魂をドワーフコンストラクトと一体化させようとした者がいるとは。もしそれが可能だとしても、その過程で体も心も破壊されてしまう… もちろん魂も\\r"
+"\n\\r"
+"\nさらに研究する正当な理由だろう？ よし"
+
+#: 232026500-0-10270
+msgctxt "232026500-0-10270"
+msgid "Does this evidence tell you what happened to the Orcs?"
+msgstr "この証拠で、オークに何が起きたか分かるか？"
+
+#: 116521668-0-10263
+msgctxt "116521668-0-10263"
+msgid "Finally, an outsider who makes sense."
+"\n"
+"\nWe … appreciate the Elf's intentions, but it's not our way. We'll send him away and the quarry will be ours again—just as Malacath intended."
+msgstr "やっと、まともなよそ者が現れたわね\\r"
+"\n\\r"
+"\n私達は… エルフの意図には納得してるけど、やり方が合わない。彼を追い払えば、採石場はまた私達のものになる。マラキャスが意図した通りにね"
+
+#: 232026500-0-10263
+msgctxt "232026500-0-10263"
+msgid "Just exile Neramo and the constructs and be done with this."
+msgstr "ただネラモとコンストラクトを追放すれば終わることだ"
+
+#: 116521668-0-10262
+msgctxt "116521668-0-10262"
+msgid "By Malacath's swollen foot, you're an irritating one! But no, I won't have these metal monsters working alongside faithful Orcs."
+"\n"
+"\nTake the constructs to Orsinium if you wish. Just get them out of here. My clan wants nothing more to do with them."
+msgstr "マラキャスの膨れた足にかけて、イライラさせる奴ね！ でも、忠実なオークの側に、あんな金属の怪物を置きたくない\\r"
+"\n\\r"
+"\nコンストラクトはオルシニウムへ持ってくといいわ。とにかくここから持ち去って。私のクランはそれと関わりたくないの"
+
+#: 232026500-0-10262
+msgctxt "232026500-0-10262"
+msgid "Petition the king and let him decide what to do with the constructs."
+msgstr "王に嘆願して、コンストラクトをどうするか決めてもらえばいい"
+
+#: 116521668-0-10256
+msgctxt "116521668-0-10256"
+msgid "I knew it! May I?"
+"\n"
+"\nI took the liberty of hiring this rather intense young lady. She deals in wild animals, you see. Ha! I can't wait to see the look on her face when I lull that beast into submission! Many thanks, friend. Here's your advance."
+msgstr "やっぱり！ いいか？\\r"
+"\n\\r"
+"\n失礼ながら、気性の激しい若い女性を雇ったんだ。野生動物に慣れているらしい。へへ！ あの獣を手なずけてやったら、どんな顔をするか楽しみだ！ ありがとう。さあ、これをやる"
+
+#: 232026500-0-10256
+msgctxt "232026500-0-10256"
+msgid "[Lie] The whistle works perfectly."
+msgstr "[嘘] 笛は見事に効く"
+
+#: 116521668-0-10254
+msgctxt "116521668-0-10254"
+msgid "I expected to find misery and death in this place. I didn't find it for myself, but still. It doesn't feel any better."
+msgstr "ここで不幸と死が待ち構えてるのは覚悟してた。自分は難を逃れたけど、だからっていい気分はしない"
+
+#: 232026500-0-10254
+msgctxt "232026500-0-10254"
+msgid "An Elven mage was behind the ruin's defenses. He's no longer a threat."
+msgstr "遺跡の防御にはエルフの魔術師が関わっていた。彼はもう危険を及ぼさない"
+
+#: 116521668-0-10253
+msgctxt "116521668-0-10253"
+msgid "I expected to find misery and death in this place. I didn't find it for myself, but still. It doesn't feel any better."
+msgstr "ここで不幸と死が待ち構えてるのは覚悟してた。自分は難を逃れたけど、だからっていい気分はしない"
+
+#: 232026500-0-10253
+msgctxt "232026500-0-10253"
+msgid "An Elven mage was behind the ruin's defenses. He's no longer a threat."
+msgstr "遺跡の防御にはエルフの魔術師が関わっていた。彼はもう危険を及ぼさない"
+
+#: 116521668-0-10249
+msgctxt "116521668-0-10249"
+msgid "You're joking, right? I spent my last gold piece getting to this Three-forsaken wasteland! Bah! A pox on these Orcs and their stupid beasts!"
+"\n"
+"\nI suppose you've earned your cut, such as it is. I'll need to find a new opportunity now."
+msgstr "冗談だろ？ 最後の金をこの三大神に見捨てられた荒野に来るために使ってしまったのに！ ああ！ オークと獣のせいだ！\\r"
+"\n\\r"
+"\n大した報酬じゃないが、まあ手伝ってもらったからな。また別のいい話を見つけないと"
+
+#: 232026500-0-10249
+msgctxt "232026500-0-10249"
+msgid "It's just a normal whistle. Nikolvara tamed the durzogs through skill and patience."
+msgstr "普通の笛だ。ニコルヴァラは技と忍耐でヅラゾグを飼い慣らした"
+
+#: 116521668-0-10248
+msgctxt "116521668-0-10248"
+msgid "Oh, almost certainly. I'm sure that dozens of naked people just fell out of trees somewhere in the wilderness."
+"\n"
+"\nThey're probably cold, though. Maybe I should have omitted the potion of feather plucking. Left them with something to keep them warm."
+msgstr "ええ、もちろん。荒野のどこかにある木から、裸で落ちた人達が何人もいるはずよ\\r"
+"\n\\r"
+"\nでもきっと寒がってる。羽根抜きの薬は使わないでおいた方が良かったかも知れない。体を温めておくものを残すべきだった"
+
+#: 232026500-0-10248
+msgctxt "232026500-0-10248"
+msgid "Are you sure the ritual worked?"
+msgstr "本当に儀式の効き目はあったのか？"
+
+#: 116521668-0-10246
+msgctxt "116521668-0-10246"
+msgid "You should attach it to an item, so you can see the enchantment's effects."
+"\n"
+"\nYou are now certified to fulfill enchanting writs. May you unravel the secrets of Nirn."
+msgstr "それをアイテムに付けるといい。そうすれば付呪の効果がわかる\\r"
+"\n\\r"
+"\n付呪の依頼を受けるための認定を与える。ニルンの秘密を明らかにできるよう祈ろう"
+
+#: 232026500-0-10246
+msgctxt "232026500-0-10246"
+msgid "Sounds tasty. I'm ready to be certified as an enchanter."
+msgstr "それは良い。付呪師として認定される準備はできている"
+
+#: 116521668-0-10244
+msgctxt "116521668-0-10244"
+msgid "Indubitably! I watched the roots burn with my own eyes! The siege commander needs to hear about this so he can press the advantage and put an end to the Winterborn threat!"
+"\n"
+"\nAs for me, I'm going to relax. Somewhere in Orsinium with a very large drink."
+msgstr "間違いない！ 根が燃えるのを確かにこの目で見た！ 攻城指揮官にもこの件を伝えれば、この好機を利用して攻め上げ、ウィンターボーンの脅威を終わらせられる！\\r"
+"\n\\r"
+"\n私はリラックスしよう。オルシニウムのどこかで、たっぷり飲み物を楽しみながらな"
+
+#: 232026500-0-10244
+msgctxt "232026500-0-10244"
+msgid "Did the elixir work? Is the source of the briar hearts destroyed?"
+msgstr "霊薬は効いたのか？ ブライア・ハートの源は破壊されたのか？"
+
+#: 116521668-0-10241
+msgctxt "116521668-0-10241"
+msgid "Then the bandits gave their answer. Heartless dogs! They were knights, once."
+"\n"
+"\nWhen the Lion Guard marches, they'll receive an honorable death."
+msgstr "つまり山賊が報いを受けたわけね。冷酷な奴ら！ かつては騎士だった者達なのに\\r"
+"\n\\r"
+"\n獅子の守護団が来れば、名誉の死を受けるでしょう"
+
+#: 232026500-0-10241
+msgctxt "232026500-0-10241"
+msgid "I went to Watcher's Hold. The <<z:1>> is dead."
+msgstr "監視人の砦に行った。<<1>>は死んだ"
+
+#: 116521668-0-10240
+msgctxt "116521668-0-10240"
+msgid "A power core? For me? For all her rough edges, my sister does have a good heart."
+"\n"
+"\nThank you for acquiring this for me. With a little tinkering, I'm sure I can use it to complete one of my many Dwemer-related experiments."
+msgstr "パワーコア？ 僕に？ 彼女はぶっきらぼうだけど、根は優しいんだよな\\r"
+"\n\\r"
+"\n手に入れてくれてありがとう。少し手を加えれば、ドゥエマー関連の数多い実験の一つを、完了させるため使えるはずだ"
+
+#: 232026500-0-10240
+msgctxt "232026500-0-10240"
+msgid "Actually, she asked me to acquire a Dwarven power core for you."
+msgstr "実は、彼女にドワーフのパワーコアを入手して渡すよう頼まれた"
+
+#: 116521668-0-10238
+msgctxt "116521668-0-10238"
+msgid "Your potions have a slight fizz to them, but your skill with admixtures is unquestioned … far better than my former apprentice."
+"\n"
+"\nYou are now authorized to obtain and fulfill alchemy writs. May your elixirs remain potent and your reagents fresh."
+msgstr "薬は少し泡立っているが、混合剤を扱う技術に疑問の余地はないな… 前の弟子よりもはるかに上だ\\r"
+"\n\\r"
+"\nこれで錬金術の依頼を受ける資格を得たことになる。霊薬の効果が保たれ、試料が新鮮であるように"
+
+#: 232026500-0-10238
+msgctxt "232026500-0-10238"
+msgid "I'll remember that. I'm ready to be certified as an alchemist."
+msgstr "覚えておこう。錬金術師として認定される準備はできている"
+
+#: 116521668-0-10237
+msgctxt "116521668-0-10237"
+msgid "Very well. You remind me of a former apprentice."
+"\n"
+"\nNow that you're certified, you can obtain and fulfill alchemy writs. May your titrations avoid the kind of shortcuts you took today."
+msgstr "よろしい。見ていると前の弟子を思い出す\\r"
+"\n\\r"
+"\nこれで認定した。錬金術のクラフト依頼を受けられる。その滴が今日使ったような近道を避けられますように"
+
+#: 232026500-0-10237
+msgctxt "232026500-0-10237"
+msgid "I'm ready to be certified as an alchemist."
+msgstr "錬金術師として認定される準備はできている"
+
+#: 116521668-0-10235
+msgctxt "116521668-0-10235"
+msgid "Ah. I understand, you are far too certain in your grasp of the concept."
+"\n"
+"\nWell then, you are now certified to fulfill enchanting writs. Best of luck avoiding mistranslations. The self-immolating glyphs are quite easy to misread."
+msgstr "ああ、そうか。お前は概念の把握に全く迷いがないようだ\\r"
+"\n\\r"
+"\nそれでは、付呪のクラフト依頼を受けるための認定を与えよう。解釈を間違えないように祈る。自己焼却するグリフは実に読み違えやすい"
+
+#: 232026500-0-10235
+msgctxt "232026500-0-10235"
+msgid "I accept certification."
+msgstr "認定を受けよう"
+
+#: 116521668-0-10231
+msgctxt "116521668-0-10231"
+msgid "<The latch opens a door in the menhir, revealing a vault. Inside the vault, you find an ancient Nedic coffer. It appears to be unaffected by age and cool to the touch. This must be your reward for completing the Gray Passage in the allotted time.>"
+msgstr "<The latch opens a door in the menhir, revealing a vault. Inside the vault, you find an ancient Nedic coffer. It appears to be unaffected by age and cool to the touch. This must be your reward for completing the Gray Passage in the allotted time.>"
+
+#: 232026500-0-10231
+msgctxt "232026500-0-10231"
+msgid "<Use the latch.>"
+msgstr "<Use the latch.>"
+
+#: 116521668-0-10212
+msgctxt "116521668-0-10212"
+msgid "Did she now! She must like you. In that case, you're going to need all the help you can get!"
+"\n"
+"\nTake your key and come back when you're ready to take the pledge. I can't wait to see what you're made of!"
+msgstr "みたいね！ 彼女はあなたが気に入ったに違いないわ。それなら、あらゆる助けを受けられるわよ！\\r"
+"\n\\r"
+"\n鍵を持って、誓いを受ける準備が出来たら戻ってきて。早くあなたの力を見たいわ！"
+
+#: 232026500-0-10212
+msgctxt "232026500-0-10212"
+msgid "I talked to Glirion and Urgarlag. Urgarlag said I should ask you for a key."
+msgstr "グリリオンやウルガルラグと話した。ウルガルラグから鍵が欲しければ行くように言われた"
+
+#: 116521668-0-10210
+msgctxt "116521668-0-10210"
+msgid "Already done. You'll now be able to fulfill clothier crafting writs. And I look forward to seeing more of your work!"
+msgstr "もういいわよ。これから仕立師の依頼を受けられる。あなたの作品をもっと見られるよう期待しているわ！"
+
+#: 232026500-0-10210
+msgctxt "232026500-0-10210"
+msgid "I'm ready to be certified as a clothier."
+msgstr "仕立師として認定される準備はできている"
+
+#: 116521668-0-10204
+msgctxt "116521668-0-10204"
+msgid "Already done. You'll now be able to fulfill clothier crafting writs. And I look forward to seeing more of your work!"
+msgstr "もういいわよ。これから仕立師の依頼を受けられる。あなたの作品をもっと見られるよう期待しているわ！"
+
+#: 232026500-0-10204
+msgctxt "232026500-0-10204"
+msgid "I'm ready to be certified as a clothier."
+msgstr "仕立師として認定される準備はできている"
+
+#: 116521668-0-10201
+msgctxt "116521668-0-10201"
+msgid "What more is there to be said? Your actions speak for themselves. Let mine do the same."
+"\n"
+"\nTake your key and your cut. Seek me again. There are more deeds to be met with deeds, not words."
+msgstr "これ以上何か言う必要があるか？ お前の行動は雄弁だ。俺も行動で応えよう\\r"
+"\n\\r"
+"\n鍵と報酬を受け取れ。また来るといい。言葉ではなく、行動で果たせる仕事があるだろう"
+
+#: 232026500-0-10201
+msgctxt "232026500-0-10201"
+msgid "What have I earned for besting the Vaults of Madness?"
+msgstr "狂気の地下室を突破したことで、何を受け取れる？"
+
+#: 116521668-0-10200
+msgctxt "116521668-0-10200"
+msgid "I am glad you are sane enough still to appreciate the victory."
+"\n"
+"\nTake your key and your cut. Drown any nightmares in rich drink and good company. Approach the new dawn with renewed verve and seek me again."
+msgstr "正気のまま勝利を祝えてよかったな\\r"
+"\n\\r"
+"\n鍵と報酬を受け取れ。そして、酒と仲間が与えてくれる悪夢に溺れるといい。英気を養って、明日また俺を探せ"
+
+#: 232026500-0-10200
+msgctxt "232026500-0-10200"
+msgid "What have I earned for besting the Vaults of Madness?"
+msgstr "狂気の地下室を突破したことで、何を受け取れる？"
+
+#: 116521668-0-10195
+msgctxt "116521668-0-10195"
+msgid "Are you not sated on your game? You seek a trophy too. So be it."
+"\n"
+"\nTake your key and your cut. Relish them. Tomorrow you may be the hunted."
+msgstr "獲物に満足していないのか？ 名声も手に入っただろ。まあ構わんがな\\r"
+"\n\\r"
+"\n鍵と報酬を受け取れ。そして、今の内に味わっておけよ。明日はお前が狩られる側かもしれない"
+
+#: 232026500-0-10195
+msgctxt "232026500-0-10195"
+msgid "I have been expecting it."
+msgstr "報酬を期待している"
+
+#: 116521668-0-10194
+msgctxt "116521668-0-10194"
+msgid "There is no shortage of bounty, but the apex predator takes their pickings first. Today, that is you."
+"\n"
+"\nYour key and your cut. Rest well. Tomorrow we hunt again."
+msgstr "賞金はたっぷりあるが、頂点にいる者が最初に受け取れる。今日の場合、それはお前だ\\r"
+"\n\\r"
+"\n鍵と報酬だ。ゆっくり休め。明日はまた狩りを始める"
+
+#: 232026500-0-10194
+msgctxt "232026500-0-10194"
+msgid "I have been expecting it."
+msgstr "報酬を期待している"
+
+#: 116521668-0-10192
+msgctxt "116521668-0-10192"
+msgid "Right here, Undaunted. Go, and taste the freedom of pumping blood. Taste the luxury of life. Return tomorrow, and we will tempt death's fangs once again."
+msgstr "ここだ、アンドーンテッド。先へ進み、血をたぎらせる自由を満喫してくれ。人生の贅沢を味わうんだ。明日になったら戻るように。再び死の牙に挑もう"
+
+#: 232026500-0-10192
+msgctxt "232026500-0-10192"
+msgid "Where is my reward for winning the Brimstone Crown?"
+msgstr "硫黄の王冠を得た報酬はどこだ？"
+
+#: 116521668-0-10191
+msgctxt "116521668-0-10191"
+msgid "You have claimed the title and now you claim the prize. Do not grow complacent. Tomorrow a new challenge may rob you of both."
+"\n"
+"\nTonight, take your key and spend your cut on the finer things in life."
+msgstr "お前は称号を得た。そして、報酬も得る。だが、満足はするなよ。明日の新しい挑戦が、どちらも奪うかもしれないからな\\r"
+"\n\\r"
+"\nまあ、今夜は鍵を受け取れ。報酬をより素敵なことに使うといい"
+
+#: 232026500-0-10191
+msgctxt "232026500-0-10191"
+msgid "Where is my reward for winning the Brimstone Crown?"
+msgstr "硫黄の王冠を得た報酬はどこだ？"
+
+#: 116521668-0-10189
+msgctxt "116521668-0-10189"
+msgid "Pirate hoards have whet your appetite for treasure. You've earned that much, at least."
+"\n"
+"\nTake your key and your cut. Tomorrow riches may be the least of your concern."
+msgstr "海賊の宝で欲が出たか。少なくとも、それと同程度のものを受け取れるぞ\\r"
+"\n\\r"
+"\n鍵と報酬を受け取れ。明日になれば、富になど関心がなくなっているだろう"
+
+#: 232026500-0-10189
+msgctxt "232026500-0-10189"
+msgid "What have I earned for defeating Captain Blackheart and his crew?"
+msgstr "ブラックハート船長と乗組員を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10188
+msgctxt "116521668-0-10188"
+msgid "One less crew of marauders plaguing the seas is worth celebrating. I cheer at your conquest. In my heart."
+"\n"
+"\nTake your rewards. Seek me again on the morrow. Our work is never done."
+msgstr "海の略奪者が一人減ったのは祝うべきことだ。お前の勝利を祝おう。心からな\\r"
+"\n\\r"
+"\n報酬を受け取れ。明日また来るといい。我らの仕事に終わりはない"
+
+#: 232026500-0-10188
+msgctxt "232026500-0-10188"
+msgid "What have I earned for defeating Captain Blackheart and his crew?"
+msgstr "ブラックハート船長と乗組員を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10185
+msgctxt "116521668-0-10185"
+msgid "Hmph. I had hoped to learn the secret to your trotter pie."
+"\n"
+"\nNo matter, I'll certify you immediately. You may now fulfill provisioning writs. Try not to poison anyone."
+msgstr "フム。お前の豚の足のパイの秘密を知りたかったのに\\r"
+"\n\\r"
+"\nとにかく、お前を今すぐ認定しよう。今に調理依頼を受けるだろう。毒を盛ったりするなよ"
+
+#: 232026500-0-10185
+msgctxt "232026500-0-10185"
+msgid "I'm ready to be certified as a provisioner."
+msgstr "調理師として認定される準備はできている"
+
+#: 116521668-0-10183
+msgctxt "116521668-0-10183"
+msgid "Interesting scent. Do I detect a hint of wamasu? No, that can't be right."
+"\n"
+"\nNot how I'd do it, of course … but interesting enough to pass certification. You may now fulfill provisioning writs. Keep your pots warm and your ladle clean."
+msgstr "興味深い香りだ。微かにワマスのような香りがするか？ いや、そんなはずがない\\r"
+"\n\\r"
+"\n私のやり方と違うのか… だが証明書の発行には十分だ。お前は今に調理依頼を受けるだろう。ポットは冷まさず、おたまは綺麗にしておくんだぞ"
+
+#: 232026500-0-10183
+msgctxt "232026500-0-10183"
+msgid "I think so. What do you think?"
+msgstr "そう思う。そちらの意見は？"
+
+#: 116521668-0-10178
+msgctxt "116521668-0-10178"
+msgid "Then take what you are owed. Use it for the betterment of all that walk the surface. And return to me tomorrow, to see what cavern you will plumb next."
+msgstr "それなら報酬を受け取れ。地表を歩くすべての者のために使って来い。そして明日になったら戻るんだ。次に調査する洞窟を決めなければならん"
+
+#: 232026500-0-10178
+msgctxt "232026500-0-10178"
+msgid "I've come to claim my prize for exploring Volenfell."
+msgstr "ヴォレンフェルを探索した報酬を受け取りに来た"
+
+#: 116521668-0-10177
+msgctxt "116521668-0-10177"
+msgid "Excellent. Take what you are owed. Enjoy your cut of the wealth. And return to me tomorrow. What else will need to be reduced to scrap then?"
+msgstr "素晴らしい。報酬を受け取れ。そして明日になったら戻れ。今度は何がスクラップにされるかな？"
+
+#: 232026500-0-10177
+msgctxt "232026500-0-10177"
+msgid "I've come to claim my prize for exploring Volenfell."
+msgstr "ヴォレンフェルを探索した報酬を受け取りに来た"
+
+#: 116521668-0-10175
+msgctxt "116521668-0-10175"
+msgid "Certainly. You're more than qualified to fulfill woodworking crafting writs. I'll certify you immediately."
+msgstr "もちろん。あなたなら問題なく木工の依頼をこなせるわ。今すぐ認定してあげる"
+
+#: 232026500-0-10175
+msgctxt "232026500-0-10175"
+msgid "I'm ready to be certified as a woodworker."
+msgstr "木工師として認定される準備はできている"
+
+#: 116521668-0-10174
+msgctxt "116521668-0-10174"
+msgid "Certainly. You're more than qualified to fulfill woodworking crafting writs. I'll certify you immediately."
+msgstr "もちろん。あなたなら問題なく木工の依頼をこなせるわ。今すぐ認定してあげる"
+
+#: 232026500-0-10174
+msgctxt "232026500-0-10174"
+msgid "I'm ready to be certified as a woodworker."
+msgstr "木工師として認定される準備はできている"
+
+#: 116521668-0-10172
+msgctxt "116521668-0-10172"
+msgid "The present, actually. Take the key to your reward. Take it, and your cut. As for the future, who knows? Return to me tomorrow and we will see what rewards may come."
+msgstr "今だ。報酬のために鍵を受け取れ。分け前をもらうんだ。未来は誰にも分からないからな。明日になったら戻ってこい。何の報酬があるか分かるだろう"
+
+#: 232026500-0-10172
+msgctxt "232026500-0-10172"
+msgid "When is a good time to claim my due?"
+msgstr "いつ報酬を受け取ればいい？"
+
+#: 116521668-0-10171
+msgctxt "116521668-0-10171"
+msgid "The present holds the key, for all that you've accomplished. Your well-deserved cut awaits. Return to me tomorrow and we will see what the future holds."
+msgstr "今だ。その働きに報いるため、鍵を送ろう。活躍に応じた報酬が待っている。明日になったら戻れ。何かが待っている"
+
+#: 232026500-0-10171
+msgctxt "232026500-0-10171"
+msgid "When is a good time to claim my due?"
+msgstr "いつ報酬を受け取ればいい？"
+
+#: 116521668-0-10160
+msgctxt "116521668-0-10160"
+msgid "Your wit and wisdom deserve nothing less. Take your key, and your cut. Rest well this evening. And return tomorrow. Pit your wits against death once again."
+msgstr "お前の才覚と英知は称賛に値する。鍵を取り、分け前を受け取れ。今晩はよく休めよ。そして明日になったら戻れ。また死と知恵を競うんだ"
+
+#: 232026500-0-10160
+msgctxt "232026500-0-10160"
+msgid "What have I earned for slaying the ice witch?"
+msgstr "氷の魔女を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10159
+msgctxt "116521668-0-10159"
+msgid "There is no more unrelenting foe than your environment. It cannot be bested, only withstood. Today you made an enemy of the elements and return Undaunted."
+"\n"
+"\nTake your reward. Let the warmth return to your body before another day cools it forever more."
+msgstr "周囲の環境ほど厳しい敵はない。避けることはできず、耐えるしかないからな。今日のお前は寒さを敵に回してなお、アンドーンテッドとして戻ってきた\\r"
+"\n\\r"
+"\n報酬を受け取れ。明日永遠に冷たくなる前に、身体を温めておくといい"
+
+#: 232026500-0-10159
+msgctxt "232026500-0-10159"
+msgid "What have I earned for slaying the ice witch?"
+msgstr "氷の魔女を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10157
+msgctxt "116521668-0-10157"
+msgid "A reasonable request. Take your key, and your cut. When next we speak, tomorrow, I will put more faith in your sword arm."
+msgstr "妥当な要求だな。鍵を受け取り、報酬を手にしろ。明日もう一度話す時には、もう少しお前の腕を信用するよ"
+
+#: 232026500-0-10157
+msgctxt "232026500-0-10157"
+msgid "Give me what I've earned for liberating Whisper Grove."
+msgstr "囁きの森を解放した報酬が欲しい"
+
+#: 116521668-0-10156
+msgctxt "116521668-0-10156"
+msgid "Your skill is well known among the Undaunted. It would be foolish not to reward you. Take your key, and your cut. Return tomorrow, and we shall see what the Undaunted say of you then."
+msgstr "お前の腕はアンドーンテッドの中でも評判がいい。報酬を渡さないのは愚かというものだ。鍵を取り、分け前を受け取れ。明日になったら戻ってこい。アンドーンテッドからの依頼を提示する"
+
+#: 232026500-0-10156
+msgctxt "232026500-0-10156"
+msgid "Give me what I've earned for liberating Whisper Grove."
+msgstr "囁きの森を解放した報酬が欲しい"
+
+#: 116521668-0-10154
+msgctxt "116521668-0-10154"
+msgid "Of course! I'll get you certified right away so you can fulfill blacksmith crafting writs immediately."
+msgstr "もちろん！ すぐにあなたを認定して、鍛冶師の依頼をこなせるようにしてあげるわ"
+
+#: 232026500-0-10154
+msgctxt "232026500-0-10154"
+msgid "I'm ready to be certified as a blacksmith."
+msgstr "鍛冶師として認定される準備はできている"
+
+#: 116521668-0-10153
+msgctxt "116521668-0-10153"
+msgid "A reasonable request, for one who has cheated death. Take your key, and your cut. Tomorrow I will put more faith in your abilities, and your will to live."
+msgstr "死を免れた者として妥当な要求だな。鍵を受け取り、報酬を手にしろ。明日はお前の能力にもっと信頼を置く。そしてお前の意志は生きるだろう"
+
+#: 232026500-0-10153
+msgctxt "232026500-0-10153"
+msgid "I do."
+msgstr "やってきた"
+
+#: 116521668-0-10152
+msgctxt "116521668-0-10152"
+msgid "This prize was not fished from the guts of languid serpents, but it will do."
+"\n"
+"\nTake your key and cut. Tomorrow I will present another opportunity to be swallowed whole."
+msgstr "この報酬はだらけた大蛇の胃から取り出したものではないが、役に立つだろう\\r"
+"\n\\r"
+"\n鍵と報酬を受け取れ。明日また、丸のみできるチャンスをやろう"
+
+#: 232026500-0-10152
+msgctxt "232026500-0-10152"
+msgid "I do."
+msgstr "やってきた"
+
+#: 116521668-0-10144
+msgctxt "116521668-0-10144"
+msgid "Take your key, and your cut. I must have time to sit and ponder the tragic tale of the Crypt. Hopefully when we speak tomorrow, such sorrow will not be required."
+msgstr "鍵を受け取って、報酬を手に入れろ。腰を据えて、墓地の悲劇に思いを巡らせようか。明日また会って話す時には、そんな悲哀は不要だ"
+
+#: 232026500-0-10144
+msgctxt "232026500-0-10144"
+msgid "What have I earned for destroying Nerien'eth?"
+msgstr "ネリエンエスを倒したことで、何を受け取れる？"
+
+#: 116521668-0-10143
+msgctxt "116521668-0-10143"
+msgid "Then take your key, and your cut. I am glad it was you that laid Nerien'eth to rest, Undaunted. When we speak again tomorrow, I hope it will be of happier times."
+msgstr "鍵を受け取って、報酬を手に入れろ。ネリエンエスを静めたのがお前でよかったよ、アンドーンテッド。明日また会って話す時には、もっと幸せな話ができるといいが"
+
+#: 232026500-0-10143
+msgctxt "232026500-0-10143"
+msgid "What have I earned for destroying Nerien'eth?"
+msgstr "ネリエンエスを倒したことで、何を受け取れる？"
+
+#: 116521668-0-10141
+msgctxt "116521668-0-10141"
+msgid "Your focus is commendable. Take your reward, and the cut you have earned. Return tomorrow, we'll teach death to die once more."
+msgstr "お前の集中力は大したものだ。報酬を受け取り、分け前を持っていくといい。明日になったら戻って来い。もう一度死者に死を与えよう"
+
+#: 232026500-0-10141
+msgctxt "232026500-0-10141"
+msgid "What have I earned for bringing the dead peace?"
+msgstr "死者に平安をもたらしたことで、何を受け取れる？"
+
+#: 116521668-0-10140
+msgctxt "116521668-0-10140"
+msgid "The balance of life and death is restored. For that, you have my respect."
+"\n"
+"\nTake your key and your cut. Cherish it. Tomorrow death may favor you company."
+msgstr "生と死の均衡は戻った。良くやったな\\r"
+"\n\\r"
+"\n鍵と報酬を受け取れ。味わうといい。明日は死に魅入られるかもしれんからな"
+
+#: 232026500-0-10140
+msgctxt "232026500-0-10140"
+msgid "What have I earned for bringing the dead peace?"
+msgstr "死者に平安をもたらしたことで、何を受け取れる？"
+
+#: 116521668-0-10138
+msgctxt "116521668-0-10138"
+msgid "I'm sure you'll find this worth slogging through a frothing soup of fetid muck! Take your key, your cut, and a well deserved bath … or three. Tomorrow we'll challenge more than your intestinal fortitude."
+msgstr "臭い汚物のスープの中を駆け回ったお礼をしないとね！ 鍵と報酬を受け取って。これでお風呂に入って… しっかりとね。明日は忍耐力以上のものを試させてもらうわ"
+
+#: 232026500-0-10138
+msgctxt "232026500-0-10138"
+msgid "I'm ready for it."
+msgstr "準備はできている"
+
+#: 116521668-0-10137
+msgctxt "116521668-0-10137"
+msgid "Hah! You've proven you can wade through zombies and filth in equal measure! Take comfort in knowing that at least your rewards will be shining. "
+"\n"
+"\nYour key and your cut. Tomorrow we'll arrange a trial for more than your sense of smell!"
+msgstr "はっ！ ゾンビも汚物も敵じゃないようね！ せめて報酬が輝いているのが、慰めになるといいけど\\r"
+"\n\\r"
+"\n鍵と報酬を受け取って。明日は、もう少し臭わない試練を用意できると思う！"
+
+#: 232026500-0-10137
+msgctxt "232026500-0-10137"
+msgid "I'm ready for it."
+msgstr "準備はできている"
+
+#: 116521668-0-10132
+msgctxt "116521668-0-10132"
+msgid "Every time we bury a blade in a bandit, I feel like we've done a service. So, for your service: take your key and your cut. And come on back tomorrow!"
+msgstr "山賊を倒すたび、奉仕をしていると感じるわ。だから鍵を受け取って、報酬を貰って。それから、明日また来てね！"
+
+#: 232026500-0-10132
+msgctxt "232026500-0-10132"
+msgid "I do."
+msgstr "やってきた"
+
+#: 116521668-0-10131
+msgctxt "116521668-0-10131"
+msgid "The city of Wayrest may not know all you've done. But I say you've done Tamriel a service. So, for your service: take your key and your cut. And get back here tomorrow, all right?"
+msgstr "ウェイレストの街はあなたの貢献を聞いていないかも知れない。でも、タムリエルへの奉仕であることは間違いない。だから鍵を受け取って、報酬をもらいなさい。明日また来るのよ、いい？"
+
+#: 232026500-0-10131
+msgctxt "232026500-0-10131"
+msgid "I do."
+msgstr "やってきた"
+
+#: 116521668-0-10129
+msgctxt "116521668-0-10129"
+msgid "Teaching the Daedra the concept of fear is always worth a fair share! Take your key and your cut, then shake the dirt and blood off and share the story of your victory!"
+"\n"
+"\nIt'll be hard to out do a trip to Oblivion, but tomorrow we'll try!"
+msgstr "デイドラに恐怖という概念を教えるのは、いかなる時でも称賛に値するわ！ 鍵と報酬を受け取って、泥と血を落とすといい。勝利の話を伝えるためにね！\\r"
+"\n\\r"
+"\nオブリビオンへの旅を超えるのは難しいけど、私たちもやってみるわ！"
+
+#: 232026500-0-10129
+msgctxt "232026500-0-10129"
+msgid "What is Bogdan the Nightflame's death worth?"
+msgstr "夜の炎のボグダンの死には、どれくらいの価値がある？"
+
+#: 116521668-0-10128
+msgctxt "116521668-0-10128"
+msgid "A lot! Not to mention adding insult to injury by torching the Opus of Torment. Can't let that go without reward, eh?"
+"\n"
+"\nTake your key and your cut! We'll be talking of this victory for some time to come, unless tomorrow you best it!"
+msgstr "計り知れないわ！ 苦悩の作品を燃やして、傷口を抉った分は言うまでもなくね。報酬を与えない訳にはいかないわ\\r"
+"\n\\r"
+"\n鍵と報酬を受け取って！ この勝利はしばらく話のネタになるわ。明日、あなたが更新しない限り！"
+
+#: 232026500-0-10128
+msgctxt "232026500-0-10128"
+msgid "What is Bogdan the Nightflame's death worth?"
+msgstr "夜の炎のボグダンの死には、どれくらいの価値がある？"
+
+#: 116521668-0-10126
+msgctxt "116521668-0-10126"
+msgid "You're lucky I still have it! Hah. Take it, my friend. And come see me tomorrow. We'll give you another chance to take care of the Daedra problem."
+msgstr "私がまだ持っていて幸運ね！ 受け取って。それから明日になったら戻るのよ。デイドラの問題に対処する、別の機会を提供するわ"
+
+#: 232026500-0-10126
+msgctxt "232026500-0-10126"
+msgid "I do, if you didn't let some filthy scamp run off with it."
+msgstr "ああ、もし汚いスキャンプにでも持ち逃げされなければ"
+
+#: 116521668-0-10125
+msgctxt "116521668-0-10125"
+msgid "I'm glad I still have it. Hah! Take your cut, take your key, come on back tomorrow to me!"
+msgstr "まだあってよかった！ 報酬を受け取り、鍵を貰って。明日になったら戻ってきてね！"
+
+#: 232026500-0-10125
+msgctxt "232026500-0-10125"
+msgid "I do, if you didn't let some filthy scamp run off with it."
+msgstr "ああ、もし汚いスキャンプにでも持ち逃げされなければ"
+
+#: 116521668-0-10123
+msgctxt "116521668-0-10123"
+msgid "You've earned more than whatever trophies you pulled from those cogwork monstrosities. Take your key and your cut! Tomorrow I'll see about finding you a foe with the decency to bleed!"
+msgstr "あなたが受け取れるのは、機械仕掛けの怪物を倒して奪った部品だけじゃないわよ。鍵と報酬を受け取って！ 明日は、ちゃんと血を流す敵を探してあげる！"
+
+#: 232026500-0-10123
+msgctxt "232026500-0-10123"
+msgid "What have I earned for destroying the Engine Guardian?"
+msgstr "エンジンのガーディアンを倒したことで、何を受け取れる？"
+
+#: 116521668-0-10122
+msgctxt "116521668-0-10122"
+msgid "For dismantling that oversized contraption without a care for the Dwarves' diabolical designs, I'll scrape together more than a pat on the back!"
+"\n"
+"\nTake your key and your cut! Tomorrow I'll seek out a challenge to rival what you've accomplished today."
+msgstr "悪魔のようなドワーフのデザインを気にも留めずに、巨大装置を破壊したのね。ちょっと褒めるくらいじゃ足りないわ！\\r"
+"\n\\r"
+"\n鍵と報酬を受け取って！ 明日には、今日の偉業に並ぶような挑戦を探しておくから"
+
+#: 232026500-0-10122
+msgctxt "232026500-0-10122"
+msgid "What have I earned for destroying the Engine Guardian?"
+msgstr "エンジンのガーディアンを倒したことで、何を受け取れる？"
+
+#: 116521668-0-10120
+msgctxt "116521668-0-10120"
+msgid "Take it, my friend. And remember an old proverb my mother used to tell me. ""Tomorrow is another chance for profit. And death."" Strange old woman, she is."
+msgstr "受け取って。それから母がよく言っていた、古いことわざを覚えておいて。「明日にはまた儲ける機会がある。そして死の機会が」って。変わった女性だったのよ"
+
+#: 232026500-0-10120
+msgctxt "232026500-0-10120"
+msgid "I do. Where's my reward?"
+msgstr "やってきた。報酬は？"
+
+#: 116521668-0-10119
+msgctxt "116521668-0-10119"
+msgid "Here you are, my friend! Take your key, and your cut, and see to any wounds. Those construct blades leave a nasty taint in the flesh. Come back tomorrow, and we'll send you somewhere fun!"
+msgstr "さあこれを！ 鍵を受け取って、報酬を貰って。それと、怪我があれば治すのよ。コンストラクトの刃は嫌な傷痕を身体に残すから。明日また来たら、どこか楽しいところへ派遣してあげる！"
+
+#: 232026500-0-10119
+msgctxt "232026500-0-10119"
+msgid "I do. Where's my reward?"
+msgstr "やってきた。報酬は？"
+
+#: 116521668-0-10114
+msgctxt "116521668-0-10114"
+msgid "Bloodfiends. For dead people they sure have a healthy appetite. Good work feeding them fire and steel!"
+"\n"
+"\nAccept your key and cut! Tomorrow there'll be another ravenous threat to put down."
+msgstr "狂血鬼は、死者にしては健全な食欲があるのよね。火と鋼を喰らわせてやれて良かったわ！\\r"
+"\n\\r"
+"\n鍵と報酬を受け取って！ 明日になれば、再び倒すべき脅威が現れるから"
+
+#: 232026500-0-10114
+msgctxt "232026500-0-10114"
+msgid "What have I earned for destroying the master vampire?"
+msgstr "吸血鬼の王を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10113
+msgctxt "116521668-0-10113"
+msgid "Beyond the eternal gratitude of maidens snatched from the jaws of death? Oh, I think I can manage something shiny for their gleaming savior. Hah!"
+"\n"
+"\nYour key. Your cut. Now how about celebrating with your new friends before dawn brings new challenges?"
+msgstr "死の咢から救った乙女たちの、永久の感謝以外に？ そうね、輝く救い手にはちょっと輝くものを渡しましょうか！\\r"
+"\n\\r"
+"\n鍵と報酬よ。さて。夜明けが新しい挑戦を運んでくる前に、新しい友人達と祝ってきたら？"
+
+#: 232026500-0-10113
+msgctxt "232026500-0-10113"
+msgid "What have I earned for destroying the master vampire?"
+msgstr "吸血鬼の王を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10099
+msgctxt "116521668-0-10099"
+msgid "Take it, then! And remember Maj tomorrow when you find yourself wondering what to do. Another day, another pledge."
+msgstr "持っていきなさい！ それから暇になったら、明日も忘れずにマジに会いに来て。明日は明日の誓いがあるわ"
+
+#: 232026500-0-10099
+msgctxt "232026500-0-10099"
+msgid "I'd love my reward."
+msgstr "報酬を受け取りたい"
+
+#: 116521668-0-10098
+msgctxt "116521668-0-10098"
+msgid "Slayer of spiders, smiter of spinner-spawn! Your name will be uttered in fear by all servants of Mephala if you keep this up!"
+"\n"
+"\nTake your key and your cut, and get yourself to a tavern. Who knows what tomorrow will bring?"
+msgstr "クモを殺し、紡ぎ手の子を葬ったのね！ この調子なら、あなたの名前はメファーラのしもべ全てに恐れられるでしょう\\r"
+"\n\\r"
+"\n鍵と報酬を受け取ったら、酒場に来て。明日のことは分からないからね"
+
+#: 232026500-0-10098
+msgctxt "232026500-0-10098"
+msgid "I'd love my reward."
+msgstr "報酬を受け取りたい"
+
+#: 116521668-0-10096
+msgctxt "116521668-0-10096"
+msgid "This is a magnificent blade! I can feel its energy. It calls to me, just as the Warrior once did."
+"\n"
+"\nIt feels right. As though I was meant to have it. Well then, in friendship, I hope you will accept my old blade. Something to remember me by."
+msgstr "This is a magnificent blade! I can feel its energy. It calls to me, just as the Warrior once did.\\r"
+"\n\\r"
+"\nIt feels right. As though I was meant to have it. Well then, in friendship, I hope you will accept my old blade. Something to remember me by."
+
+#: 232026500-0-10096
+msgctxt "232026500-0-10096"
+msgid "If you plan to go battle, take this blade. The Warrior wants you to wield it."
+msgstr "If you plan to go battle, take this blade. The Warrior wants you to wield it."
+
+#: 116521668-0-10095
+msgctxt "116521668-0-10095"
+msgid "Good. We should begin while things are busy for neither of us."
+msgstr "よし。どちらも忙しくなる前に始めたほうがいいからな"
+
+#: 232026500-0-10095
+msgctxt "232026500-0-10095"
+msgid "I'm ready to be certified."
+msgstr "認定される準備はできている"
+
+#: 116521668-0-10094
+msgctxt "116521668-0-10094"
+msgid "Excellent! We can get started whenever you're ready."
+msgstr "素晴らしいわ！ あなたの準備さえよければ、いつでも始められるわよ"
+
+#: 232026500-0-10094
+msgctxt "232026500-0-10094"
+msgid "I'm ready to be certified."
+msgstr "認定される準備はできている"
+
+#: 116521668-0-10073
+msgctxt "116521668-0-10073"
+msgid "Of course! I'll get you certified right away so you can fulfill blacksmith crafting writs immediately."
+msgstr "もちろん！ すぐにあなたを認定して、鍛冶師の依頼をこなせるようにしてあげるわ"
+
+#: 232026500-0-10073
+msgctxt "232026500-0-10073"
+msgid "I'm ready to be certified as a blacksmith."
+msgstr "鍛冶師として認定される準備はできている"
+
+#: 116521668-0-10071
+msgctxt "116521668-0-10071"
+msgid "Take your key! And use your cut at a tavern tonight! You deserve a warm fire, a dark drink, and some friendly companionship. Hah!"
+msgstr "鍵を受け取って！ それから、報酬は今夜の酒場で使うといい！ 暖炉と濃いお酒に、陽気な仲間が似合うわよ！"
+
+#: 232026500-0-10071
+msgctxt "232026500-0-10071"
+msgid "What have I earned for destroying the Spider Cult?"
+msgstr "クモの教団を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10070
+msgctxt "116521668-0-10070"
+msgid "You stood your ground, Undaunted. For refusing to budge in the face of Vila Theran's dark magic, you have my esteem. Take your key and your cut. Tomorrow I'll give you another opportunity to impress me!"
+msgstr "やったわね。ヴィラ・テランの闇魔法に打ち勝った。敬意に値するわ。鍵を受け取って、報酬を貰って。明日には、あなたに相応しい別の案件を用意しておくわ！"
+
+#: 232026500-0-10070
+msgctxt "232026500-0-10070"
+msgid "What have I earned for destroying the Spider Cult?"
+msgstr "クモの教団を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10068
+msgctxt "116521668-0-10068"
+msgid "We reward our bravest delvers, we sing their names in taverns! Take your key and enjoy your well-deserved cut. And remember to come see me again tomorrow!"
+msgstr "本当に勇敢な探索者に報酬を。酒場で名前を歌うわ！ 鍵を持っていって。活躍に応じた報酬を受け取るのよ。それから、明日もう一度会うことを忘れないで！"
+
+#: 232026500-0-10068
+msgctxt "232026500-0-10068"
+msgid "Of course, if you'll give it to me."
+msgstr "もちろん。それを渡してくれれば"
+
+#: 116521668-0-10067
+msgctxt "116521668-0-10067"
+msgid "You'll need it, just to get the juices off your gear! Take your key. Enjoy your cut, and remember to come see me again tomorrow!"
+msgstr "装備を得るにはこれが必要よ！ 鍵を受け取って。報酬を貰うのよ。また明日も、忘れずに会いに来て！"
+
+#: 232026500-0-10067
+msgctxt "232026500-0-10067"
+msgid "Of course, if you'll give it to me."
+msgstr "もちろん。それを渡してくれれば"
+
+#: 116521668-0-10066
+msgctxt "116521668-0-10066"
+msgid "Your key and your cut await, my friend. Come back tomorrow, and we'll see if we can't send you into a Daedra-less ruin. Just this once."
+msgstr "あなたの鍵と報酬が待っているわ。明日になったら戻るのよ。そうしたら、デイドラのいない遺跡に派遣できるかどうか確認してあげる。今回だけよ"
+
+#: 232026500-0-10066
+msgctxt "232026500-0-10066"
+msgid "What have I earned for smiting the Kinlord?"
+msgstr "上級公を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10065
+msgctxt "116521668-0-10065"
+msgid "Take your key and your cut, my friend. Only the Undaunted can truly appreciate all you do. Return tomorrow. We will admire your prowess and skill once again."
+msgstr "鍵を受け取って、報酬をもらうのよ。アンドーンテッドだけが、あなたに本当に報いられる。明日になったら戻るのよ。あなたの勇気と技術に、再び感謝するでしょう"
+
+#: 232026500-0-10065
+msgctxt "232026500-0-10065"
+msgid "What have I earned for smiting the Kinlord?"
+msgstr "上級公を倒したことで、何を受け取れる？"
+
+#: 116521668-0-10062
+msgctxt "116521668-0-10062"
+msgid "Little Leaf sent you? Then I assume all is well with my dearest companion?"
+"\n"
+"\nSince you did as my Little Leaf asked, I can only hope you shall grant me the same courtesy."
+msgstr "リトルリーフがあなたを遣わせたの？ なら彼女も無事ってことね\\r"
+"\n\\r"
+"\n私のかわいいリトルリーフの言うことを聞いてくれたのなら、私のお願いも聞いてくれるといいんだけど"
+
+#: 232026500-0-10062
+msgctxt "232026500-0-10062"
+msgid "Little Leaf sent me to find you. Please continue."
+msgstr "リトルリーフに見つけるよう頼まれた。何かできることは？"
+
+#: 116521668-0-10059
+msgctxt "116521668-0-10059"
+msgid "You? You're one of our bravest, our boldest! We reward our own. Take your key. Enjoy your well-deserved cut. And remember to come see me again tomorrow!"
+msgstr "あなたが？ とても勇敢で、とても大胆ね！ 私たちは独自の報酬を渡している。鍵を受け取って。活躍に応じた報酬をもらうのよ。それから、明日もう一度会うことを忘れないで！"
+
+#: 232026500-0-10059
+msgctxt "232026500-0-10059"
+msgid "What has foiling the Kinlord's escape earned me?"
+msgstr "上級公の脱出を阻んだことで、何が貰える？"
+
+#: 116521668-0-10058
+msgctxt "116521668-0-10058"
+msgid "Hah! Of course! We reward our own. Take your key. Enjoy your well-deserved cut. And remember to come see me again tomorrow!"
+msgstr "はっ！ 勿論よ！ 仲間には報酬を渡している。鍵を持っていって。活躍に応じた報酬を受け取るのよ。それから、明日もう一度会うことを忘れないで！"
+
+#: 232026500-0-10058
+msgctxt "232026500-0-10058"
+msgid "What has foiling the Kinlord's escape earned me?"
+msgstr "上級公の脱出を阻んだことで、何が貰える？"
+
+#: 116521668-0-10057
+msgctxt "116521668-0-10057"
+msgid "Cassi sent you? Well, why didn't you say so? I'm so lucky that the regent looks out for me!"
+"\n"
+"\nAll right. We've got a lot of work to do. Have you ever tried to change an Iron Orc's mind? Oh, this is going to be so much fun!"
+msgstr "カッシがあなたを？ だったら最初からそう言いなさいよ。摂政が私のことを気にしてくれるなんて、うれしいわ！\\r"
+"\n\\r"
+"\nじゃあ、さっそくだけど。やることはたくさんあるのよ。アイアンオークの説得ってやったことある？ 私はもう、楽しみで楽しみで！"
+
+#: 232026500-0-10057
+msgctxt "232026500-0-10057"
+msgid "Regent Cassipia sent me to help you with your Iron Orc problem."
+msgstr "摂政カシピアからアイアンオークの問題解決を手伝うよう頼まれた"
+
+#: 116521668-0-10052
+msgctxt "116521668-0-10052"
+msgid "Of course! And I will do what I can to dissuade others from entering this portion of the city again."
+"\n"
+"\nPerhaps some day we can seal the ruins completely, as the Yokudans tried to do. For now, be content that the wards have bought us time."
+msgstr "もちろんだ！ そして私も他の者たちが街のこの場所に入ってこないよう、できる限りのことはしよう\\r"
+"\n\\r"
+"\nもしかしたらいつの日か、ヨクダのようにこの遺跡そのものを封印できるかもしれない。今は結界が張ってあることで、時間が稼げたことに感謝しよう"
+
+#: 232026500-0-10052
+msgctxt "232026500-0-10052"
+msgid "Are those creatures actually locked away again?"
+msgstr "奴らを閉じ込めることはできたのか？"
+
+#: 116521668-0-10050
+msgctxt "116521668-0-10050"
+msgid "And so we did. Cassipia and Little Leaf's deaths were regrettable, but they were a necessary evil in our efforts to save Craglorn."
+"\n"
+"\nYou have provided another great service to the Guardian Celestials. For that, you have my gratitude."
+msgstr "これで終わりね。カシピアとリトルリーフの死は残念だけど、クラグローンを救うためには仕方なかった\\r"
+"\n\\r"
+"\nあなたはセレスティアルの守護星座に再び力を貸してくれた。本当にありがとう"
+
+#: 232026500-0-10050
+msgctxt "232026500-0-10050"
+msgid "We stopped Regent Cassipia from becoming the Exalted Viper."
+msgstr "摂政カシピアが崇高なるヴァイパーになることを阻止した"
+
+#: 116521668-0-10045
+msgctxt "116521668-0-10045"
+msgid "Arkay bless you, for the living will rest easier now that Virmaril is gone. But I sense … something."
+"\n"
+"\nI will remain here. Where necromancy is concerned, who can say what is possible? If Virmaril rises again, someone will need to take action."
+msgstr "アーケイの祝福を。ヴィルマリルが倒れたことで、生きている者たちはこれで安心できる。だが、まだ何か感じる\\r"
+"\n\\r"
+"\n私はここに残る。死霊術が関わってくると、何が起こるか分からない。もしヴィルマリルがまた目覚めたら、誰かが行動しなくてはいけない"
+
+#: 232026500-0-10045
+msgctxt "232026500-0-10045"
+msgid "Virmaril the Betrayer sought to create an undead army. I destroyed the foul creature."
+msgstr "アンデッドの軍隊を作ろうとしていた裏切り者ヴィルマリル。忌むべき存在を破壊した"
+
+#: 116521668-0-10042
+msgctxt "116521668-0-10042"
+msgid "Pinned to the Bounty board is a note:"
+"\n"
+"\n""We have received word of your success, soldier. Accept this bonus pay. It has been well-earned!"""
+msgstr "Pinned to the Bounty board is a note:\\r"
+"\n\\r"
+"\n""We have received word of your success, soldier. Accept this bonus pay. It has been well-earned!"""
+
+#: 232026500-0-10042
+msgctxt "232026500-0-10042"
+msgid "<Claim Bounty>"
+msgstr "<Claim Bounty>"
+
+#: 116521668-0-10034
+msgctxt "116521668-0-10034"
+msgid "Attached to the Bounty board is a message from General Dar-Liurz:"
+"\n"
+"\n""Your prowess in hunting enemy Sorcerers has gained you great renown. On behalf of Grand Warlord Zimmeron, I leave this reward for your efforts."""
+msgstr "賞金ボードにダー・リウルズ将官からのメッセージが貼ってある:\\r"
+"\n\\r"
+"\n「敵ソーサラーを征伐するという勇敢さは、そなたに名声をもたらした。ジマーロン大将軍に代わって、そなたに報酬を与える」"
+
+#: 232026500-0-10034
+msgctxt "232026500-0-10034"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10033
+msgctxt "116521668-0-10033"
+msgid "Nailed to the Bounty board is a scrawled note from General Khamagash:"
+"\n"
+"\n""When you've killed your quota of enemy Sorcerers, take your reward."""
+msgstr "賞金ボードにカマガッシュ大将が走り書きしたメモが貼ってある:\\r"
+"\n\\r"
+"\n「割当分の敵ソーサラーを殺害した者には報酬を与える」"
+
+#: 232026500-0-10033
+msgctxt "232026500-0-10033"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10032
+msgctxt "116521668-0-10032"
+msgid "Pinned to the Bounty board is a note from General Thoron:"
+"\n"
+"\n""I received word of your success in slaying enemy Sorcerers, soldier. Accept this reward. It has been well-earned!"""
+msgstr "賞金ボードにソロン大将軍からのメモが貼ってある:\\r"
+"\n\\r"
+"\n「兵士よ、敵ソーサラーの殺害に成功したと聞いたぞ。この報酬を受け取るが良い。当然の評価だ！」"
+
+#: 232026500-0-10032
+msgctxt "232026500-0-10032"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10031
+msgctxt "116521668-0-10031"
+msgid "Attached to the Bounty board is a message from General Dar-Liurz:"
+"\n"
+"\n""Your prowess in hunting enemy Nightblades has gained you great renown. On behalf of Grand Warlord Zimmeron, I leave this reward for your efforts."""
+msgstr "賞金ボードにダー・リウルズ将官からのメッセージが貼ってある:\\r"
+"\n\\r"
+"\n「敵ナイトブレイドを征伐するという勇敢さは、そなたに名声をもたらした。ジマーロン大将軍に代わって、そなたに報酬を与える」"
+
+#: 232026500-0-10031
+msgctxt "232026500-0-10031"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10030
+msgctxt "116521668-0-10030"
+msgid "Nailed to the Bounty board is a scrawled note from General Khamagash:"
+"\n"
+"\n""When you've killed your quota of enemy Nightblades, take your reward."""
+msgstr "賞金ボードにカマガッシュ大将が走り書きしたメモが貼ってある:\\r"
+"\n\\r"
+"\n「割当分の敵ナイトブレイドを殺害した者には報酬を与える」"
+
+#: 232026500-0-10030
+msgctxt "232026500-0-10030"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10029
+msgctxt "116521668-0-10029"
+msgid "Pinned to the Bounty board is a note from General Thoron:"
+"\n"
+"\n""I received word of your success in slaying enemy Nightblades, soldier. Accept this reward. It has been well-earned!"""
+msgstr "賞金ボードにソロン大将軍からのメモが貼ってある:\\r"
+"\n\\r"
+"\n「兵士よ、敵ナイトブレイドの殺害に成功したと聞いたぞ。この報酬を受け取るが良い。当然の評価だ！」"
+
+#: 232026500-0-10029
+msgctxt "232026500-0-10029"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10028
+msgctxt "116521668-0-10028"
+msgid "Attached to the Bounty board is a message from General Dar-Liurz:"
+"\n"
+"\n""Your prowess in hunting enemy Dragonknights has gained you great renown. On behalf of Grand Warlord Zimmeron, I leave this reward for your efforts."""
+msgstr "賞金ボードにダー・リウルズ将官からのメッセージが貼ってある:\\r"
+"\n\\r"
+"\n「敵ドラゴンナイトを征伐するという勇敢さは、そなたに名声をもたらした。ジマーロン大将軍に代わって、そなたに報酬を与える」"
+
+#: 232026500-0-10028
+msgctxt "232026500-0-10028"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10027
+msgctxt "116521668-0-10027"
+msgid "Nailed to the Bounty board is a scrawled note from General Khamagash:"
+"\n"
+"\n""When you've killed your quota of enemy Dragonknights, take your reward."""
+msgstr "賞金ボードにカマガッシュ大将が走り書きしたメモが貼ってある:\\r"
+"\n\\r"
+"\n「割当分の敵ドラゴンナイトを倒した者には報酬を与える」"
+
+#: 232026500-0-10027
+msgctxt "232026500-0-10027"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10026
+msgctxt "116521668-0-10026"
+msgid "Pinned to the Bounty board is a note from General Thoron:"
+"\n"
+"\n""I received word of your success in slaying enemy Dragonknights, soldier. Accept this reward. It has been well-earned!"""
+msgstr "賞金ボードにソロン大将軍からのメモが貼ってある:\\r"
+"\n\\r"
+"\n「兵士よ、敵ドラゴンナイトの殺害に成功したと聞いたぞ。この報酬を受け取るが良い。当然の評価だ！」"
+
+#: 232026500-0-10026
+msgctxt "232026500-0-10026"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10021
+msgctxt "116521668-0-10021"
+msgid "Nailed to the Bounty board is a scrawled note from General Khamagash:"
+"\n"
+"\n""When you've killed your quota of enemy Templars, take your reward."""
+msgstr "賞金ボードにカマガッシュ大将が走り書きしたメモが貼ってある:\\r"
+"\n\\r"
+"\n「割当分の敵テンプラーを殺害した者には報酬を与える」"
+
+#: 232026500-0-10021
+msgctxt "232026500-0-10021"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10020
+msgctxt "116521668-0-10020"
+msgid "Attached to the Bounty board is a message from General Dar-Liurz:"
+"\n"
+"\n""Your prowess in hunting enemy Templars has gained you great renown. On behalf of Grand Warlord Zimmeron, I leave this reward for your efforts."""
+msgstr "賞金ボードにダー・リウルズ将官からのメッセージが貼ってある:\\r"
+"\n\\r"
+"\n「敵テンプラーを征伐するという勇敢さは、そなたに名声をもたらした。ジマーロン大将軍に代わって、そなたに報酬を与える」"
+
+#: 232026500-0-10020
+msgctxt "232026500-0-10020"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-10019
+msgctxt "116521668-0-10019"
+msgid "Pinned to the Bounty board is a note from General Thoron:"
+"\n"
+"\n""I received word of your success in slaying enemy Templars, soldier. Accept this bonus pay. It has been well-earned!"""
+msgstr "賞金ボードにソロン大将からのメモが貼ってある:\\r"
+"\n\\r"
+"\n「兵士よ、敵テンプラーの殺害に成功したと聞いたぞ。この報酬を受け取るが良い。当然の評価だ！」"
+
+#: 232026500-0-10019
+msgctxt "232026500-0-10019"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 232026500-0-10290
+msgctxt "232026500-0-10290"
+msgid "Kill Captain"
+msgstr "隊長を殺す"
+
+#: 116521668-0-10289
+msgctxt "116521668-0-10289"
+msgid "I see. I convinced our clan that <<1>>'s victory would test our faith in Malacath's favor. They'll accept her … for now."
+"\n"
+"\nIf she allows it, I shall advise her. She'll need all the help she can get."
+msgstr "そう。クランには、<<1>>が勝利すればマラキャスに対する信念が試されると説明した。彼女を認めるはずよ… とりあえずはね\\r"
+"\n\\r"
+"\n彼女が望むなら助言をする。色々と助けが必要になるだろうから"
+
+#: 116521668-0-10284
+msgctxt "116521668-0-10284"
+msgid "By the Eight! You have given me a sliver of hope on a very dark day. The Order of the Silver Dawn will rebuild and continue the mission given to us by Adeliza Silver-Axe so many years ago. "
+"\n"
+"\nThank you for all you have done!"
+msgstr "八大神にかけて！ 暗黒の一日にかすかな希望を与えてくれたわね。〈銀なる暁教団〉は立ち直り、何年も前に銀斧のアデリザから与えられた任務を続行する\\r"
+"\n\\r"
+"\nいろいろありがとう！"

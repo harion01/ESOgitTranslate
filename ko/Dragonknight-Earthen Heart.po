@@ -1,0 +1,399 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-45009
+msgctxt "132143172-0-45009"
+msgid "When you cast an Earthen Heart ability, you restore <<1>> Stamina."
+msgstr "Earthen Heart 어빌리티를 시전하면 스태미나를 <<1>>만큼 회복합니다."
+
+#: 198758357-0-45009
+msgctxt "198758357-0-45009"
+msgid "Helping Hands"
+msgstr "Helping Hands"
+
+#: 132143172-0-45001
+msgctxt "132143172-0-45001"
+msgid "When you cast an Earthen Heart ability, you and your group gain Minor Brutality for <<1>>, increasing your Weapon Damage by <<2>> "
+"\n"
+"\nIf you are in combat, you also generate <<3>> Ultimate. This effect can occur once every <<4>>."
+msgstr ""
+"Earthen Heart 어빌리티를 시전하면 당신과 그룹은 Minor Brutality 효과를 얻어 <<2>> 동안 무기 피해량이 "
+"<<1>> 증가합니다."
+"\n"
+""
+"\n"
+"전투 중일 경우 <<3>>만큼 궁극기 게이지를 얻습니다. 이 효과는 <<4>>에 한 번만 발동합니다."
+
+#: 198758357-0-45001
+msgctxt "198758357-0-45001"
+msgid "Mountain's Blessing"
+msgstr "Mountain's Blessing"
+
+#: 132143172-0-44996
+msgctxt "132143172-0-44996"
+msgid "Increases duration of your Earthen Heart abilities by <<1>>."
+msgstr "Earthen Heart 어빌리티의 지속시간이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-44996
+msgctxt "198758357-0-44996"
+msgid "Eternal Mountain"
+msgstr "Eternal Mountain"
+
+#: 132143172-0-44984
+msgctxt "132143172-0-44984"
+msgid "When you cast an Ultimate ability, you restore <<1>> Health, <<2>> Magicka, and <<3>> Stamina for each point of the Ultimate's cost."
+msgstr "궁극기를 시전하면 소모한 궁극기 게이지당 <<1>>의 체력, <<2>>매지카, <<3>>스태미나를 회복합니다."
+
+#: 198758357-0-44984
+msgctxt "198758357-0-44984"
+msgid "Battle Roar"
+msgstr "Battle Roar"
+
+#: 132143172-0-32710
+msgctxt "132143172-0-32710"
+msgid "Summon a scorching cloud of ash at the target location, reducing enemy Movement Speed by <<1>>. and deals <<2>> every <<3>>,"
+"\n"
+"\nDeals <<4>> immediately."
+msgstr ""
+"대상 지역에 화산재를 뿜어내어 적의 이동속도를 <<1>>만큼 감소시키고, 매 <<3>> 마다 <<2>>를 줍니다."
+"\n"
+""
+"\n"
+"<<4>> 를 즉시 줍니다."
+
+#: 198758357-0-32710
+msgctxt "198758357-0-32710"
+msgid "Eruption"
+msgstr "Eruption"
+
+#: 132143172-0-32685
+msgctxt "132143172-0-32685"
+msgid "Encase an enemy in stone, stunning them for <<1>>. When the stun ends, they take <<2>> and are immobilized for <<3>>."
+"\n"
+"\nThis stun cannot be blocked or dodged."
+msgstr ""
+"적을 돌에 가둬 <<1>> 동안 기절시킵니다. 기절이 끝나면 <<2>>를 입히고, <<3>> 동안 이동 불가로 만듭니다."
+"\n"
+""
+"\n"
+"이 기절은 막거나 피할 수 없습니다."
+
+#: 198758357-0-32685
+msgctxt "198758357-0-32685"
+msgid "Fossilize"
+msgstr "Fossilize"
+
+#: 132143172-0-32678
+msgctxt "132143172-0-32678"
+msgid "Encase an enemy in stone, stunning them for <<1>>."
+"\n"
+"\nWhen the stun ends, they take <<2>> and their next attack used within <<3>> heals its target for <<4>>."
+"\n"
+"\nThis stun cannot be blocked or dodged."
+msgstr ""
+"적을 돌에 가둬 <<1>> 동안 기절시킵니다. 기절이 끝나면, 적은 <<2>>을 받고 적이  <<3>>내에 시도하는 공격은 대상을 "
+"<<2>>만큼 회복시킵니다."
+"\n"
+""
+"\n"
+"이 기절은 막거나 피할 수 없습니다."
+
+#: 198758357-0-32678
+msgctxt "198758357-0-32678"
+msgid "Shattering Rocks"
+msgstr "Shattering Rocks"
+
+#: 132143172-0-32673
+msgctxt "132143172-0-32673"
+msgid "Call the earth to your defense, creating a damage shield for you and nearby allies that absorbs <<1>> damage."
+"\n"
+"\nYou also gain Major Mending, increasing your healing done by <<2>> for <<3>>."
+msgstr ""
+"대지의 힘을 빌려 당신과 근처의 아군들이 <<1>>만큼 피해를 흡수하는 보호막을 얻습니다. "
+"\n"
+""
+"\n"
+"또한 Major Mending 효과를 얻어 <<3>> 동안 주는 치유량이 <<2>> 증가합니다."
+
+#: 198758357-0-32673
+msgctxt "198758357-0-32673"
+msgid "Fragmented Shield"
+msgstr "Fragmented Shield"
+
+#: 132143172-0-31888
+msgctxt "132143172-0-31888"
+msgid "Charge you and your allies' weapons with volcanic power to gain Major Sorcery, increasing your Spell Damage by <<1>> for <<2>>."
+"\n"
+"\nYour own damage with fully-charged Heavy Attacks is increased by <<3>> while active."
+msgstr ""
+"화산의 힘으로 당신과 아군들의 무기를 강화해 Major Sorcery 효과를 얻습니다. <<2>> 동안 마법 피해량이 <<1>> "
+"증가합니다."
+"\n"
+""
+"\n"
+"당신은 활성화되어 있는 동안 최대로 완충된 강공격의 피해량이 <<3>> 증가합니다."
+
+#: 198758357-0-31888
+msgctxt "198758357-0-31888"
+msgid "Molten Armaments"
+msgstr "Molten Armaments"
+
+#: 132143172-0-31874
+msgctxt "132143172-0-31874"
+msgid "Charge you and your allies' weapons with volcanic power to gain Major Sorcery and Major Brutality, increasing your Spell Damage and Weapon Damage by <<1>> for <<2>>."
+msgstr ""
+"화산의 힘으로 당신과 아군들의 무기를 강화해 Major Sorcery, Major Brutality 효과를 얻습니다. <<2>> 동안 "
+"마법 피해량과 무기 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-31874
+msgctxt "198758357-0-31874"
+msgid "Igneous Weapons"
+msgstr "Igneous Weapons"
+
+#: 132143172-0-31820
+msgctxt "132143172-0-31820"
+msgid "Slam an enemy with solid rock, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nHeals you or an ally near the enemy for <<3>> Health."
+msgstr ""
+"단단한 바위로 적을 공격해 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"대상 근처의 당신 혹은 아군의 체력을 <<3>>만큼 회복시킵니다."
+
+#: 198758357-0-31820
+msgctxt "198758357-0-31820"
+msgid "Obsidian Shard"
+msgstr "Obsidian Shard"
+
+#: 132143172-0-31816
+msgctxt "132143172-0-31816"
+msgid "Slam an enemy with solid rock, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nDeals <<3>> more damage if you successfully stun the target."
+"\n"
+"\nYou gain Minor Resolve and Minor Ward, increasing your Spell Resistance and Physical Resistance by <<4>> for <<5>>."
+msgstr ""
+"단단한 바위로 적을 공격해 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"대상을 기절시키는데 성공하면 <<3>> 만큼 추가 피해를 줍니다."
+"\n"
+""
+"\n"
+"Minor Resolve 효과를 얻어 <<5>> 동안 물리 저항력이 <<4>> 증가합니다."
+
+#: 198758357-0-31816
+msgctxt "198758357-0-31816"
+msgid "Stone Giant"
+msgstr "Stone Giant"
+
+#: 132143172-0-29475
+msgctxt "132143172-0-29475"
+msgid "When you cast an Earthen Heart ability, you restore <<1>> Stamina."
+msgstr "Earthen Heart 어빌리티를 시전하면 스태미나를 <<1>>만큼 회복합니다."
+
+#: 198758357-0-29475
+msgctxt "198758357-0-29475"
+msgid "Helping Hands"
+msgstr "Helping Hands"
+
+#: 132143172-0-29473
+msgctxt "132143172-0-29473"
+msgid "When you cast an Earthen Heart ability, you and your group members gain Minor Brutality for <<1>>, increasing your Weapon Damage by <<2>>  "
+"\n"
+"\nIf you are in combat, you also generate <<3>> Ultimate. This effect can occur once every <<4>>."
+msgstr ""
+"Earthen Heart 어빌리티를 시전하면 당신과 그룹은 Minor Brutality 효과를 얻어 <<2>> 동안 무기 피해량이 "
+"<<1>> 증가합니다."
+"\n"
+""
+"\n"
+"전투 중일 경우 <<3>>만큼 궁극기 게이지를 얻습니다. 이 효과는 <<4>>에 한 번만 발동합니다."
+
+#: 198758357-0-29473
+msgctxt "198758357-0-29473"
+msgid "Mountain's Blessing"
+msgstr "Mountain's Blessing"
+
+#: 132143172-0-29468
+msgctxt "132143172-0-29468"
+msgid "Increases duration of your Earthen Heart abilities by <<1>>."
+msgstr "Earthen Heart 어빌리티의 지속시간이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-29468
+msgctxt "198758357-0-29468"
+msgid "Eternal Mountain"
+msgstr "Eternal Mountain"
+
+#: 132143172-0-29463
+msgctxt "132143172-0-29463"
+msgid "When you cast an Ultimate ability, you restore <<1>> Health, <<2>> Magicka, and <<3>> Stamina for each point of the Ultimate's cost."
+msgstr "궁극기를 시전하면 소모한 궁극기 게이지당 <<1>>의 체력, <<2>>매지카, <<3>>스태미나를 회복합니다."
+
+#: 198758357-0-29463
+msgctxt "198758357-0-29463"
+msgid "Battle Roar"
+msgstr "Battle Roar"
+
+#: 132143172-0-29224
+msgctxt "132143172-0-29224"
+msgid "Call the earth to your defense, granting a damage shield for you and nearby allies that absorbs <<1>> damage. Your own damage shield absorbs <<2>> additional damage."
+"\n"
+"\nYou also gain Major Mending, increasing your healing done by <<3>> for <<4>>."
+msgstr ""
+"대지의 힘을 빌려 당신과 근처의 아군들이 <<1>>만큼 피해를 흡수하는 보호막을 얻습니다. 당신의 보호막은 추가로 <<2>> 만큼의 "
+"피해를 더 흡수합니다."
+"\n"
+""
+"\n"
+"또한 Major Mending 효과를 얻어 <<4>> 동안 주는 치유량이 <<3>> 증가합니다."
+
+#: 198758357-0-29224
+msgctxt "198758357-0-29224"
+msgid "Igneous Shield"
+msgstr "Igneous Shield"
+
+#: 132143172-0-29071
+msgctxt "132143172-0-29071"
+msgid "Call the earth to your defense, granting a damage shield for you and nearby allies that absorbs <<1>> damage. "
+"\n"
+"\nYou also gain Major Mending, increasing your healing done by <<2>> for <<3>>."
+msgstr ""
+"대지의 힘을 빌려 당신과 근처의 아군들이 <<1>>만큼 피해를 흡수하는 보호막을 얻습니다. "
+"\n"
+""
+"\n"
+"또한 Major Mending 효과를 얻어 <<3>> 동안 주는 치유량이 <<2>> 증가합니다."
+
+#: 198758357-0-29071
+msgctxt "198758357-0-29071"
+msgid "Obsidian Shield"
+msgstr "Obsidian Shield"
+
+#: 132143172-0-29059
+msgctxt "132143172-0-29059"
+msgid "Summon a scorching cloud of ash at the target location, reducing enemy Movement Speed by <<1>> and healing you and your allies for <<2>> every <<3>>."
+msgstr ""
+"대상 지역에 화산재를 뿜어내어 적의 이동속도를 <<1>>만큼 감소시키고, 당신과 아군을 매 <<3>> 마다 <<2>> 회복시킵니다."
+
+#: 198758357-0-29059
+msgctxt "198758357-0-29059"
+msgid "Ash Cloud"
+msgstr "Ash Cloud"
+
+#: 132143172-0-29043
+msgctxt "132143172-0-29043"
+msgid "Charge you and your allies' weapons with volcanic power to gain Major Sorcery, increasing your Spell Damage by <<1>> for <<2>>."
+msgstr ""
+"화산의 힘으로 당신과 아군들의 무기를 강화해 Major Sorcery 효과를 얻습니다. <<2>> 동안 마법 피해량이 <<1>> "
+"증가합니다."
+
+#: 198758357-0-29043
+msgctxt "198758357-0-29043"
+msgid "Molten Weapons"
+msgstr "Molten Weapons"
+
+#: 132143172-0-29037
+msgctxt "132143172-0-29037"
+msgid "Encase an enemy in stone, stunning them for <<1>>. When the stun ends, they take <<2>>."
+"\n"
+"\nThis stun cannot be blocked or dodged."
+msgstr "적을 돌에 가둬 <<1>> 동안 기절시킵니다. 기절이 끝나면 <<2>>를 입힙니다."
+"\n"
+""
+"\n"
+"이 기절은 막거나 피할 수 없습니다."
+
+#: 198758357-0-29037
+msgctxt "198758357-0-29037"
+msgid "Petrify"
+msgstr "Petrify"
+
+#: 132143172-0-29032
+msgctxt "132143172-0-29032"
+msgid "Slam an enemy with solid rock, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nDeals <<3>> more damage if you successfully stun the target."
+msgstr ""
+"단단한 바위로 적을 공격해 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"대상을 기절시키는데 성공하면 <<3>> 만큼 추가 피해를 줍니다."
+
+#: 198758357-0-29032
+msgctxt "198758357-0-29032"
+msgid "Stonefist"
+msgstr "Stonefist"
+
+#: 132143172-0-20779
+msgctxt "132143172-0-20779"
+msgid "Summon a scorching cloud of ash at the target location, reducing enemy Movement Speed by <<1>> and healing you and your allies for <<2>> every <<3>>."
+msgstr ""
+"대상 지역에 화산재를 뿜어내어 적의 이동속도를 <<1>>만큼 감소시키고, 당신과 아군을 매 <<3>> 마다 <<2>> 회복시킵니다."
+
+#: 198758357-0-20779
+msgctxt "198758357-0-20779"
+msgid "Cinder Storm"
+msgstr "Cinder Storm"
+
+#: 132143172-0-17878
+msgctxt "132143172-0-17878"
+msgid "Oxidize the green dragon blood in your veins, limiting incoming damage to <<1>>%  of your Max Health and dealing <<2>> to nearby enemies each second for <<3>>. "
+"\n"
+"\nWhile active, your attacks ignore all Physical Resistance."
+msgstr ""
+"체내에 흐르는 그린 드래곤의 피를 산화시켜 <<3>> 동안 받는 피해를 최대 체력의 <<1>>%로 제한하고 주변의 적들에게 초당 "
+"<<2>>를 줍니다."
+"\n"
+""
+"\n"
+"활성화되어 있는 당신의 공격이 모든 물리 저항력을 무시합니다."
+
+#: 198758357-0-17878
+msgctxt "198758357-0-17878"
+msgid "Corrosive Armor"
+msgstr "Corrosive Armor"
+
+#: 132143172-0-17874
+msgctxt "132143172-0-17874"
+msgid "Ignite the molten lava in your veins, limiting incoming damage to <<1>>%  of your Max Health and dealing <<2>> to nearby enemies each second for <<3>>. "
+"\n"
+"\nWhen activated, nearby allies gain a damage shield for <<4>>% of their Max Health for <<5>>."
+msgstr ""
+"체내에 흐르는 용암에 불을 지펴 <<3>> 동안 받는 피해를 최대 체력의 <<1>>%로 제한하고 주변의 적들에게 초당 <<2>>를 줍니다."
+""
+"\n"
+""
+"\n"
+"시전 시 근처의 아군들에게 <<5>> 동안 최대 체력의 <<4>>% 만큼 피해를 흡수하는 보호막을 줍니다."
+
+#: 198758357-0-17874
+msgctxt "198758357-0-17874"
+msgid "Magma Shell"
+msgstr "Magma Shell"
+
+#: 132143172-0-15957
+msgctxt "132143172-0-15957"
+msgid "Ignite the molten lava in your veins, limiting incoming damage to <<1>>% of your Max Health and dealing <<2>> to nearby enemies each second for <<3>>."
+msgstr ""
+"체내에 흐르는 용암에 불을 지펴 <<3>> 동안 받는 피해를 최대 체력의 <<1>>%로 제한하고 주변의 적들에게 초당 <<2>>를 줍니다."
+""
+
+#: 198758357-0-15957
+msgctxt "198758357-0-15957"
+msgid "Magma Armor"
+msgstr "Magma Armor"

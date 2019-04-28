@@ -1,0 +1,477 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 10860933-0-2109
+msgctxt "10860933-0-2109"
+msgid "Colossal Aldmeri Grotto"
+msgstr "アルドメリ大洞窟"
+
+#: 10860933-0-2108
+msgctxt "10860933-0-2108"
+msgid "Alinor Crest Townhouse"
+msgstr "アリノール高台の別邸"
+
+#: 108566804-0-2064
+msgctxt "108566804-0-2064"
+msgid "You helped Olorime take back Cloudrest."
+msgstr "オロライムのクラウドレスト奪還を助けた。"
+
+#: 129979412-0-2064
+msgctxt "129979412-0-2064"
+msgid "Help Olorime take back Cloudrest."
+msgstr "クラウドレストを奪還しようとするオロライムの手助けをする"
+
+#: 10860933-0-2063
+msgctxt "10860933-0-2063"
+msgid "Dusk Keep"
+msgstr "黄昏の砦"
+
+#: 108566804-0-2056
+msgctxt "108566804-0-2056"
+msgid "You uncovered the shameful truth of Traitor's Vault"
+msgstr "裏切り者の宝物庫のおぞましい真実を明らかにした。"
+
+#: 129979412-0-2056
+msgctxt "129979412-0-2056"
+msgid "Learn the hidden history of Traitor's Vault"
+msgstr "裏切り者の宝物庫の隠された歴史を学ぶ。"
+
+#: 10860933-0-2055
+msgctxt "10860933-0-2055"
+msgid "Artaeum Wayshrine"
+msgstr "アルテウムの旅の祠"
+
+#: 108566804-0-2018
+msgctxt "108566804-0-2018"
+msgid "You helped Renzir move on from his mutinying crew."
+msgstr "レンジルを反乱した船員から助けた。"
+
+#: 129979412-0-2018
+msgctxt "129979412-0-2018"
+msgid "Help Renzir recover his cached items."
+msgstr "レンジルを助けて、彼が隠した品を回収する。"
+
+#: 10860933-0-2017
+msgctxt "10860933-0-2017"
+msgid "Sunhold"
+msgstr "サンホールド"
+
+#: 108566804-0-2017
+msgctxt "108566804-0-2017"
+msgid "You helped Kinlady Helenaere resist the Maormer invasion."
+msgstr "上級公女ヘレナイレを助けて、マオマーの侵略に対抗した。"
+
+#: 129979412-0-2017
+msgctxt "129979412-0-2017"
+msgid "Help Kinlady Helenaere resist the Maormer invasion."
+msgstr "上級公女ヘレナイレを助けて、マオマーの侵略に対抗する。"
+
+#: 10860933-0-2016
+msgctxt "10860933-0-2016"
+msgid "Direnni Abyssal Geyser"
+msgstr "ディレニのアビサルガイザー"
+
+#: 108566804-0-2003
+msgctxt "108566804-0-2003"
+msgid "You discovered the truth of Haladan's murder."
+msgstr "ハラダンの死にまつわる真実を発見した。"
+
+#: 129979412-0-2003
+msgctxt "129979412-0-2003"
+msgid "Investigate the strange murder of a Sapiarch in Lillandril."
+msgstr "リランドリルで、奇妙なサピアルチ殺しを調査する。"
+
+#: 10860933-0-2002
+msgctxt "10860933-0-2002"
+msgid "Corgrad Wastes"
+msgstr "コルグラド・ウェイスト"
+
+#: 108566804-0-2002
+msgctxt "108566804-0-2002"
+msgid "I rescued Faidur and the missing outcasts from the Saviors."
+msgstr "ファイドゥルと行方不明のはぐれ者を救い手から助けた。"
+
+#: 129979412-0-2002
+msgctxt "129979412-0-2002"
+msgid "The ruins of this sunken city are believed to be cursed."
+msgstr "沈んだ都市の遺跡は、呪われたと信じられている。"
+
+#: 10860933-0-2001
+msgctxt "10860933-0-2001"
+msgid "Illumination Academy"
+msgstr "照覧の大学"
+
+#: 108566804-0-2001
+msgctxt "108566804-0-2001"
+msgid "You broke the Illuminus' grip on the Illumination Academy"
+msgstr "照覧の大学を、照覧せし者から救った。"
+
+#: 129979412-0-2001
+msgctxt "129979412-0-2001"
+msgid "Break the enchantment plaguing the Illumination Academy"
+msgstr "照覧の大学を蝕む魔法を破る。"
+
+#: 10860933-0-2000
+msgctxt "10860933-0-2000"
+msgid "Sea Keep"
+msgstr "シー・キープ"
+
+#: 108566804-0-1998
+msgctxt "108566804-0-1998"
+msgid "You helped Andewen discover the secrets of Ebon Stadmont."
+msgstr "アンデウェンを助けて、エボン・スタドモントの秘密を明らかにした。"
+
+#: 129979412-0-1998
+msgctxt "129979412-0-1998"
+msgid "Help Andewen discover the secrets of Ebon Stadmont."
+msgstr "アンデウェンを助けて、エボン・スタドモントの秘密を明らかにする。"
+
+#: 10860933-0-1997
+msgctxt "10860933-0-1997"
+msgid "Cey-Tarn Keep"
+msgstr "セイ・ターン砦"
+
+#: 108566804-0-1997
+msgctxt "108566804-0-1997"
+msgid "You defeated the Insatiable and its summoner, Teraniel."
+msgstr "〈強欲〉と召喚者のテラニエルを倒した。"
+
+#: 129979412-0-1997
+msgctxt "129979412-0-1997"
+msgid "Help Silurie investigate strange killings inside the keep."
+msgstr "シルリーを助けて、砦内部の奇妙な殺人を調査する。"
+
+#: 10860933-0-1996
+msgctxt "10860933-0-1996"
+msgid "Rellenthil"
+msgstr "リレンシル"
+
+#: 108566804-0-1996
+msgctxt "108566804-0-1996"
+msgid "You helped Rinyde and Alchemy find their own path."
+msgstr "リナイデとアルケミーにそれぞれの道を進ませた。"
+
+#: 129979412-0-1996
+msgctxt "129979412-0-1996"
+msgid "Help Rinyde find her missing brother, Larydel."
+msgstr "リナイデを助けて行方不明の弟、ラリデルを探す。"
+
+#: 10860933-0-1995
+msgctxt "10860933-0-1995"
+msgid "Sil-Var-Woad"
+msgstr "シル・ヴァー・ウォード"
+
+#: 108566804-0-1995
+msgctxt "108566804-0-1995"
+msgid "I rescued Lotus from Conservator Vinelore's experiments."
+msgstr "管理者ヴァインロアの実験からロータスを救った。"
+
+#: 129979412-0-1995
+msgctxt "129979412-0-1995"
+msgid "This wilderness is home to the Royal Menagerie."
+msgstr "王立動物園は荒野にある。"
+
+#: 10860933-0-1994
+msgctxt "10860933-0-1994"
+msgid "Russafeld"
+msgstr "ラッサフェルド"
+
+#: 108566804-0-1994
+msgctxt "108566804-0-1994"
+msgid "You helped solve the mystery of the murders at Russafeld."
+msgstr "ラッサフェルドの殺人の謎を解く手伝いをした。"
+
+#: 129979412-0-1994
+msgctxt "129979412-0-1994"
+msgid "Help Lorne unmask a mysterious killer from her past."
+msgstr "ローネを助けて、彼女の過去に現れた謎の殺人者の正体を突き止める。"
+
+#: 10860933-0-1993
+msgctxt "10860933-0-1993"
+msgid "Direnni Acropolis"
+msgstr "ディレニ・アクロポリス"
+
+#: 108566804-0-1993
+msgctxt "108566804-0-1993"
+msgid "You quieted the restless spirits of the Direnni Acropolis"
+msgstr "ディレニ・アクロポリスの安らがぬ魂を沈黙させた。"
+
+#: 129979412-0-1993
+msgctxt "129979412-0-1993"
+msgid "Discover the origin of the Direnni Acropolis' curse"
+msgstr "ディレニ・アクロポリスの呪いの源を明らかにする。"
+
+#: 10860933-0-1992
+msgctxt "10860933-0-1992"
+msgid "Shimmerene"
+msgstr "シマーリーン"
+
+#: 108566804-0-1992
+msgctxt "108566804-0-1992"
+msgid "You reunited Arathel with his mother, Lanarie."
+msgstr "アラセルを母ラナリーの元へ連れ帰った。"
+
+#: 129979412-0-1992
+msgctxt "129979412-0-1992"
+msgid "Find Lanarie's missing son, Arathel."
+msgstr "ラナリーの行方不明の息子、アラセルを探す。"
+
+#: 10860933-0-2107
+msgctxt "10860933-0-2107"
+msgid "Golden Gryphon Garret"
+msgstr "〈黄金のグリフォン〉の屋根裏部屋"
+
+#: 10860933-0-2073
+msgctxt "10860933-0-2073"
+msgid "Colosseum of the Old Ways"
+msgstr "古き習わしのコロッセウム"
+
+#: 10860933-0-2071
+msgctxt "10860933-0-2071"
+msgid "Sunhold Abyssal Geyser"
+msgstr "サンホールドのアビサルガイザー"
+
+#: 10860933-0-2070
+msgctxt "10860933-0-2070"
+msgid "Veyond Wyte Wayshrine"
+msgstr "ヴェヨンドワイトの旅の祠"
+
+#: 10860933-0-2069
+msgctxt "10860933-0-2069"
+msgid "Alaxon'ald"
+msgstr "アラクソナルド"
+
+#: 10860933-0-2065
+msgctxt "10860933-0-2065"
+msgid "Sunhold Wayshrine"
+msgstr "サンホールドの旅の祠"
+
+#: 10860933-0-2064
+msgctxt "10860933-0-2064"
+msgid "Cloudrest"
+msgstr "クラウドレスト"
+
+#: 10860933-0-2059
+msgctxt "10860933-0-2059"
+msgid "Welenkin Abyssal Geyser"
+msgstr "ウェレンキンのアビサルガイザー"
+
+#: 10860933-0-2058
+msgctxt "10860933-0-2058"
+msgid "Corgrad Abyssal Geyser"
+msgstr "コルグラドのアビサルガイザー"
+
+#: 10860933-0-2056
+msgctxt "10860933-0-2056"
+msgid "Traitor's Vault"
+msgstr "裏切り者の宝物庫"
+
+#: 10860933-0-2054
+msgctxt "10860933-0-2054"
+msgid "Ceporah Tower"
+msgstr "セポラタワー"
+
+#: 10860933-0-2053
+msgctxt "10860933-0-2053"
+msgid "Artaeum Craftworks"
+msgstr "アルテウム工房"
+
+#: 10860933-0-2052
+msgctxt "10860933-0-2052"
+msgid "Eldbur Ruins"
+msgstr "エルドバー遺跡"
+
+#: 10860933-0-2049
+msgctxt "10860933-0-2049"
+msgid "Rellenthil Abyssal Geyser"
+msgstr "リレンシルのアビサルガイザー"
+
+#: 10860933-0-2038
+msgctxt "10860933-0-2038"
+msgid "Sil-Var-Woad Abyssal Geyser"
+msgstr "シル・ヴァー・ウォードのアビサルガイザー"
+
+#: 10860933-0-2037
+msgctxt "10860933-0-2037"
+msgid "The Crystal Tower Wayshrine"
+msgstr "水晶の塔の旅の祠"
+
+#: 10860933-0-2036
+msgctxt "10860933-0-2036"
+msgid "Eastern Pass Wayshrine"
+msgstr "東の道の旅の祠"
+
+#: 10860933-0-2035
+msgctxt "10860933-0-2035"
+msgid "Lillandril Wayshrine"
+msgstr "リランドリルの旅の祠"
+
+#: 10860933-0-2034
+msgctxt "10860933-0-2034"
+msgid "Alinor Wayshrine"
+msgstr "アリノールの旅の祠"
+
+#: 10860933-0-2033
+msgctxt "10860933-0-2033"
+msgid "Garden of the Sacred Numbers"
+msgstr "聖数の庭園"
+
+#: 10860933-0-2032
+msgctxt "10860933-0-2032"
+msgid "Keep of the Eleven Forces"
+msgstr "十一の力の砦"
+
+#: 10860933-0-2031
+msgctxt "10860933-0-2031"
+msgid "Gryphon Aerie"
+msgstr "グリフォンの高所"
+
+#: 10860933-0-2030
+msgctxt "10860933-0-2030"
+msgid "Ald Mora Ruins"
+msgstr "アルド・モラ遺跡"
+
+#: 10860933-0-2029
+msgctxt "10860933-0-2029"
+msgid "Alinor Docks"
+msgstr "アリノール港"
+
+#: 10860933-0-2028
+msgctxt "10860933-0-2028"
+msgid "Cathedral of Webs"
+msgstr "巣糸の大聖堂"
+
+#: 10860933-0-2027
+msgctxt "10860933-0-2027"
+msgid "Eldbur Ruins Wayshrine"
+msgstr "エルドバー遺跡の旅の祠"
+
+#: 10860933-0-2026
+msgctxt "10860933-0-2026"
+msgid "Augury Basin"
+msgstr "占い盤"
+
+#: 10860933-0-2025
+msgctxt "10860933-0-2025"
+msgid "Shimmerene Dockworks"
+msgstr "シマーリーン・ドックワークス"
+
+#: 10860933-0-2024
+msgctxt "10860933-0-2024"
+msgid "Indrik Frolic"
+msgstr "インドリクの遊び場"
+
+#: 10860933-0-2023
+msgctxt "10860933-0-2023"
+msgid "Welenkin Cove"
+msgstr "ウェレンキンの入江"
+
+#: 10860933-0-2022
+msgctxt "10860933-0-2022"
+msgid "The Queen's Hatchery"
+msgstr "女王の孵化場"
+
+#: 10860933-0-2021
+msgctxt "10860933-0-2021"
+msgid "Gryphon Run"
+msgstr "グリフォン・ラン"
+
+#: 10860933-0-2020
+msgctxt "10860933-0-2020"
+msgid "Keelsplitter's Nest"
+msgstr "キールスプリッターの巣"
+
+#: 10860933-0-2019
+msgctxt "10860933-0-2019"
+msgid "Graveld's Hideaway"
+msgstr "グラヴェルドの巣"
+
+#: 10860933-0-2018
+msgctxt "10860933-0-2018"
+msgid "Karnwasten"
+msgstr "カーンワステン"
+
+#: 10860933-0-2015
+msgctxt "10860933-0-2015"
+msgid "Wasten Coraldale"
+msgstr "ワステン・コラルデイル"
+
+#: 10860933-0-2014
+msgctxt "10860933-0-2014"
+msgid "Tor-Hame-Khard"
+msgstr "トー・ヘイム・カード"
+
+#: 10860933-0-2013
+msgctxt "10860933-0-2013"
+msgid "Archon's Grove"
+msgstr "アルコンの森"
+
+#: 10860933-0-2012
+msgctxt "10860933-0-2012"
+msgid "Eton Nir Grotto"
+msgstr "エトン・ニル洞窟"
+
+#: 10860933-0-2011
+msgctxt "10860933-0-2011"
+msgid "King's Haven Pass"
+msgstr "キングズヘヴン・パス"
+
+#: 10860933-0-2010
+msgctxt "10860933-0-2010"
+msgid "King's Haven Pass"
+msgstr "キングズヘヴン・パス"
+
+#: 10860933-0-2009
+msgctxt "10860933-0-2009"
+msgid "Ebon Stadmont Wayshrine"
+msgstr "エボン・スタドモントの旅の祠"
+
+#: 10860933-0-2008
+msgctxt "10860933-0-2008"
+msgid "Cey-Tarn Keep Wayshrine"
+msgstr "セイ・ターン砦の旅の祠"
+
+#: 10860933-0-2007
+msgctxt "10860933-0-2007"
+msgid "Russafeld Heights Wayshrine"
+msgstr "ラッサフェルドの高台の旅の祠"
+
+#: 10860933-0-2006
+msgctxt "10860933-0-2006"
+msgid "Sil-Var-Woad Wayshrine"
+msgstr "シル・ヴァー・ウォードの旅の祠"
+
+#: 10860933-0-2005
+msgctxt "10860933-0-2005"
+msgid "Shimmerene Wayshrine"
+msgstr "シマーリーンの旅の祠"
+
+#: 10860933-0-2004
+msgctxt "10860933-0-2004"
+msgid "King's Haven Pass Wayshrine"
+msgstr "キングズヘヴン・パスの旅の祠"
+
+#: 10860933-0-2003
+msgctxt "10860933-0-2003"
+msgid "Lillandril"
+msgstr "リランドリル"
+
+#: 10860933-0-1999
+msgctxt "10860933-0-1999"
+msgid "Alinor"
+msgstr "アリノール"
+
+#: 10860933-0-1998
+msgctxt "10860933-0-1998"
+msgid "Ebon Stadmont"
+msgstr "エボン・スタドモント"

@@ -1,0 +1,2782 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 228378404-0-94438
+msgctxt "228378404-0-94438"
+msgid "The revivifying herbs in this Refreshing Drink will improve your Health, Magicka, and Stamina for one hour."
+msgstr "このリフレッシュドリンクに含まれた生命の成分が、体力、マジカ、スタミナを1時間の間増加させる。"
+
+#: 242841733-0-94438
+msgctxt "242841733-0-94438"
+msgid "Crown Crate Refreshing Drink"
+msgstr "クラウン木枠箱: リフレッシュドリンク"
+
+#: 228378404-0-87699
+msgctxt "228378404-0-87699"
+msgid "It reeks of cold blood, herbs, spices, and alcohol. Down the hatch!"
+msgstr "冷たい血、ハーブ、スパイス、アルコールを発する。乾杯！"
+
+#: 242841733-0-87699
+msgctxt "242841733-0-87699"
+msgid "Double Bloody Mara"
+msgstr "ダブル・ブラッディ・マーラ"
+
+#: 228378404-0-87697
+msgctxt "228378404-0-87697"
+msgid "It smells… dangerous. Toxic. And those are definitely bones."
+msgstr "その匂いは… 危険だ。毒がある。間違いなく骨だ"
+
+#: 242841733-0-87697
+msgctxt "242841733-0-87697"
+msgid "Witchmother's Potent Brew"
+msgstr "ウィッチマザーの強力醸造薬"
+
+#: 228378404-0-87695
+msgctxt "228378404-0-87695"
+msgid """Eyeballs"" and live worms in a chilled banana and fleshfly broth. Squirms inside all the way down!"
+msgstr "凍ったバナナとニクバエのブロスに、〈目〉と生きたミミズを入れる。内部から身をよじり続けるだろう！"
+
+#: 242841733-0-87695
+msgctxt "242841733-0-87695"
+msgid "Ghastly Eye Bowl"
+msgstr "不気味な目のボウル"
+
+#: 228378404-0-87690
+msgctxt "228378404-0-87690"
+msgid "An ice-cold punch of fruit mash and rye alcohol."
+msgstr "氷で冷やされたフルーツパンチとライ・ウィスキー"
+
+#: 242841733-0-87690
+msgctxt "242841733-0-87690"
+msgid "Witchmother's Party Punch"
+msgstr "ウィッチマザーのパーティーパンチ"
+
+#: 228378404-0-87687
+msgctxt "228378404-0-87687"
+msgid "A bowl of peeled grapes and cold noodles in fruit broth. Tasty, and a laugh riot at coven parties!"
+msgstr "フルーツのブロスに剥いたブドウと冷たい麺が入ったボウル。美味しく、魔術結社のパーティーに笑顔をもたらす！"
+
+#: 242841733-0-87687
+msgctxt "242841733-0-87687"
+msgid "Bowl of ""Peeled Eyeballs"""
+msgstr "〈剥いた目〉のボウル"
+
+#: 242841733-0-71251
+msgctxt "242841733-0-71251"
+msgid "Fredas Night Infusion"
+msgstr "金耀の夜のインフュージョン"
+
+#: 242841733-0-71056
+msgctxt "242841733-0-71056"
+msgid "Orzorga's Red Frothgar"
+msgstr "オーゾーガのレッド・フロスガー"
+
+#: 242841733-0-68276
+msgctxt "242841733-0-68276"
+msgid "Lusty Argonian Maid Mazte"
+msgstr "好色なアルゴニアンの侍女のマッツェ"
+
+#: 242841733-0-37944
+msgctxt "242841733-0-37944"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37940
+msgctxt "242841733-0-37940"
+msgid "Barley Nectar"
+msgstr "大麦のビール"
+
+#: 242841733-0-37938
+msgctxt "242841733-0-37938"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37934
+msgctxt "242841733-0-37934"
+msgid "Kelp Kaveh"
+msgstr "ケルプ・カヴェ"
+
+#: 242841733-0-37932
+msgctxt "242841733-0-37932"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37928
+msgctxt "242841733-0-37928"
+msgid "Meady-Matey Infusion"
+msgstr "ミーディー・マーティー・インフュージョン"
+
+#: 242841733-0-37916
+msgctxt "242841733-0-37916"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37915
+msgctxt "242841733-0-37915"
+msgid "Mint Chai"
+msgstr "ミントのチャイ"
+
+#: 242841733-0-37896
+msgctxt "242841733-0-37896"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37892
+msgctxt "242841733-0-37892"
+msgid "cloudy Barley Nectar"
+msgstr "濁った大麦のビール"
+
+#: 242841733-0-37890
+msgctxt "242841733-0-37890"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37886
+msgctxt "242841733-0-37886"
+msgid "cloudy Kelp Kaveh"
+msgstr "濁ったケルプ・カヴェ"
+
+#: 242841733-0-37884
+msgctxt "242841733-0-37884"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37880
+msgctxt "242841733-0-37880"
+msgid "cloudy Meady-Matey Infusion"
+msgstr "濁ったミーディー・マーティー・インフュージョン"
+
+#: 242841733-0-37868
+msgctxt "242841733-0-37868"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37867
+msgctxt "242841733-0-37867"
+msgid "murky Mint Chai"
+msgstr "よどんだミントのチャイ"
+
+#: 242841733-0-37854
+msgctxt "242841733-0-37854"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 228378404-0-37850
+msgctxt "228378404-0-37850"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37850
+msgctxt "242841733-0-37850"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37849
+msgctxt "242841733-0-37849"
+msgid "Mead de Menthe"
+msgstr "ミード・デ・マント"
+
+#: 242841733-0-37843
+msgctxt "242841733-0-37843"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37842
+msgctxt "242841733-0-37842"
+msgid "Gossamer Mazte"
+msgstr "手の込んだマッツェ"
+
+#: 242841733-0-37826
+msgctxt "242841733-0-37826"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 228378404-0-37825
+msgctxt "228378404-0-37825"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37825
+msgctxt "242841733-0-37825"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37824
+msgctxt "242841733-0-37824"
+msgid "Surilie Syrah Wine"
+msgstr "スリリーのシラーワイン"
+
+#: 242841733-0-37806
+msgctxt "242841733-0-37806"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 228378404-0-37802
+msgctxt "228378404-0-37802"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37802
+msgctxt "242841733-0-37802"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37801
+msgctxt "242841733-0-37801"
+msgid "murky Mead de Menthe"
+msgstr "よどんだミード・デ・マント"
+
+#: 242841733-0-37795
+msgctxt "242841733-0-37795"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37794
+msgctxt "242841733-0-37794"
+msgid "flat Gossamer Mazte"
+msgstr "気の抜けた手の込んだマッツェ"
+
+#: 242841733-0-37778
+msgctxt "242841733-0-37778"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 228378404-0-37777
+msgctxt "228378404-0-37777"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37777
+msgctxt "242841733-0-37777"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-37776
+msgctxt "242841733-0-37776"
+msgid "flat Surilie Syrah Wine"
+msgstr "気の抜けたスリリーのシラーワイン"
+
+#: 242841733-0-32129
+msgctxt "242841733-0-32129"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-32128
+msgctxt "242841733-0-32128"
+msgid "Maormer Tea"
+msgstr "マオマーティー"
+
+#: 242841733-0-32117
+msgctxt "242841733-0-32117"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-32116
+msgctxt "242841733-0-32116"
+msgid "murky Maormer Tea"
+msgstr "よどんだマオマーティー"
+
+#: 242841733-0-32110
+msgctxt "242841733-0-32110"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-32109
+msgctxt "242841733-0-32109"
+msgid "Honey Rye"
+msgstr "ハニーライ・ウイスキー"
+
+#: 242841733-0-32098
+msgctxt "242841733-0-32098"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-32097
+msgctxt "242841733-0-32097"
+msgid "flat Honey Rye"
+msgstr "気の抜けたハニーライ・ウイスキー"
+
+#: 242841733-0-30455
+msgctxt "242841733-0-30455"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-30454
+msgctxt "242841733-0-30454"
+msgid "cloudy Ginkgo Tonic"
+msgstr "濁ったイチョウ・トニック"
+
+#: 242841733-0-30453
+msgctxt "242841733-0-30453"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-30452
+msgctxt "242841733-0-30452"
+msgid "murky Jasmine Tea"
+msgstr "よどんだジャスミンティー"
+
+#: 242841733-0-30451
+msgctxt "242841733-0-30451"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-30450
+msgctxt "242841733-0-30450"
+msgid "flat Nut Brown Ale"
+msgstr "気の抜けたナット・ブラウンエール"
+
+#: 242841733-0-30443
+msgctxt "242841733-0-30443"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-30442
+msgctxt "242841733-0-30442"
+msgid "Ginkgo Tonic"
+msgstr "イチョウ・トニック"
+
+#: 242841733-0-30441
+msgctxt "242841733-0-30441"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-30440
+msgctxt "242841733-0-30440"
+msgid "Jasmine Tea"
+msgstr "ジャスミンティー"
+
+#: 242841733-0-30439
+msgctxt "242841733-0-30439"
+msgid "Swill"
+msgstr "スウィル"
+
+#: 242841733-0-30438
+msgctxt "242841733-0-30438"
+msgid "Nut Brown Ale"
+msgstr "ナット・ブラウンエール"
+
+#: 242841733-0-133555
+msgctxt "242841733-0-133555"
+msgid "Spring-Loaded Infusion"
+msgstr "巻かれたばねの液体"
+
+#: 228378404-0-124678
+msgctxt "228378404-0-124678"
+msgid "Use of this food increases the regeneration rate of Health and Stamina."
+msgstr "この食べ物を使うと、体力とスタミナの回復率が高まる。"
+
+#: 242841733-0-124678
+msgctxt "242841733-0-124678"
+msgid "Crown Vigorous Tincture"
+msgstr "クラウン: 活力の生薬"
+
+#: 228378404-0-124677
+msgctxt "228378404-0-124677"
+msgid "Use of this food increases the regeneration rate of Health and Magicka."
+msgstr "この食べ物を使うと、体力とマジカの回復率が高まる。"
+
+#: 242841733-0-124677
+msgctxt "242841733-0-124677"
+msgid "Crown Stout Magic Liqueur"
+msgstr "クラウン: 魔力スタウト"
+
+#: 228378404-0-120763
+msgctxt "228378404-0-120763"
+msgid "A dessert cocktail of jagga, rotmeth, and sweetbread puree. Definitely Green Pact compliant."
+msgstr "ジャッガ、ロトメス、甘いピューレのデザートカクテル。グリーンパクトに配慮している。"
+
+#: 242841733-0-120763
+msgctxt "242841733-0-120763"
+msgid "Dubious Camoran Throne"
+msgstr "疑わしいカモランの玉座"
+
+#: 242841733-0-120076
+msgctxt "242841733-0-120076"
+msgid "Aetherial Ambrosia"
+msgstr "エセリアルアンブロージア"
+
+#: 242841733-0-112441
+msgctxt "242841733-0-112441"
+msgid "Sailor's Warning Festival Grog"
+msgstr "船乗りの危ないフェスティバルグロッグ酒"
+
+#: 228378404-0-112440
+msgctxt "228378404-0-112440"
+msgid "A hearty mulled wine enjoyed during the New Life Festival. This Nord drink is always served piping hot."
+msgstr "ニュー・ライフ・フェスティバルの間に飲まれる心尽くしのグリューワイン。このノルドの飲み物はいつも熱い。"
+
+#: 242841733-0-112440
+msgctxt "242841733-0-112440"
+msgid "Snow Bear Glow-Wine"
+msgstr "雪熊のグローワイン"
+
+#: 228378404-0-112433
+msgctxt "228378404-0-112433"
+msgid "A seasonal drink enjoyed during the New Life Festival. This Orc ale is exceptionally foamy, which helps create ""gastric affirmation."""
+msgstr "ニュー・ライフ・フェスティバルの間に飲まれる季節の飲料。このオークのエールは異常に泡立ち、〈胃を満足〉させる。"
+
+#: 242841733-0-112433
+msgctxt "242841733-0-112433"
+msgid "Betnikh Twice-Spiked Ale"
+msgstr "ベトニクの二度足しエール"
+
+#: 228378404-0-112426
+msgctxt "228378404-0-112426"
+msgid "A seasonal drink enjoyed during the New Life Festival. This Redguard drink is served piping hot, and sharpens the imbiber's wits rather than dulls them."
+msgstr "ニュー・ライフ・フェスティバルの間に飲まれる季節の飲料。このレッドガードの飲み物は非常に熱く、感覚を鈍らせるのではなく研ぎ澄ませる。"
+
+#: 242841733-0-112426
+msgctxt "242841733-0-112426"
+msgid "Bergama Warning Fire"
+msgstr "バーガマのウォーニングファイア"
+
+#: 228378404-0-101879
+msgctxt "228378404-0-101879"
+msgid "A seasonal beverage enjoyed during the New Life Festival. This Argonian drink has a terrible smell, which is why it should be imbibed only with plugged nostrils."
+msgstr "ニュー・ライフ・フェスティバルの間に飲まれる季節の飲料。このアルゴニアンの飲み物は臭いが酷いため、鼻に詰め物をして飲まれる。"
+
+#: 242841733-0-101879
+msgctxt "242841733-0-101879"
+msgid "Hissmir Fish-Eye Rye"
+msgstr "ヒスミールのフィッシュアイライ"
+
+#: 242841733-0-71250
+msgctxt "242841733-0-71250"
+msgid "Heart's Day Rose Tea"
+msgstr "ハートの日のローズティー"
+
+#: 242841733-0-71249
+msgctxt "242841733-0-71249"
+msgid "Kragenmoor Zinger Mazte"
+msgstr "クラゲンモアのあっと驚くマッツェ"
+
+#: 242841733-0-71079
+msgctxt "242841733-0-71079"
+msgid "Cyrodilic Field Tonic"
+msgstr "シロディールのフィールド・トニック"
+
+#: 242841733-0-71078
+msgctxt "242841733-0-71078"
+msgid "Cyrodilic Field Tea"
+msgstr "シロディールのフィールド・ティー"
+
+#: 242841733-0-71077
+msgctxt "242841733-0-71077"
+msgid "Cyrodilic Field Brew"
+msgstr "シロディールのフィールド・ブリュー"
+
+#: 228378404-0-71056
+msgctxt "228378404-0-71056"
+msgid "Ice-cold dredged berry mash, in the old Orcish style."
+msgstr "古代オークスタイルでよくみられる、氷のように冷やしたすりつぶしたベリーをまぶしたもの。"
+
+#: 242841733-0-68275
+msgctxt "242841733-0-68275"
+msgid "Orcrest Agony Pale Ale"
+msgstr "オークレストの苦悶のペールエール"
+
+#: 242841733-0-68274
+msgctxt "242841733-0-68274"
+msgid "Velothi View Vintage Malbec"
+msgstr "ヴェロシビューのビンテージマルベックワイン"
+
+#: 242841733-0-68273
+msgctxt "242841733-0-68273"
+msgid "Senche-Tiger Single Malt"
+msgstr "センチタイガーのシングルモルト"
+
+#: 242841733-0-68272
+msgctxt "242841733-0-68272"
+msgid "Cloudrest Clarified Coffee"
+msgstr "クラウドレストの澄ましバターのコーヒー"
+
+#: 242841733-0-68271
+msgctxt "242841733-0-68271"
+msgid "Rosy Disposition Tonic"
+msgstr "バラ色の気質のトニック"
+
+#: 242841733-0-68270
+msgctxt "242841733-0-68270"
+msgid "Honest Lassie Honey Tea"
+msgstr "誠実な娘のハチミツティー"
+
+#: 242841733-0-68269
+msgctxt "242841733-0-68269"
+msgid "Flowing Bowl Green Port"
+msgstr "フロウィング・ボウル亭のグリーンポートワイン"
+
+#: 242841733-0-68268
+msgctxt "242841733-0-68268"
+msgid "Camlorn Sweet Brown Ale"
+msgstr "カムローンの甘いブラウンエール"
+
+#: 242841733-0-68267
+msgctxt "242841733-0-68267"
+msgid "Wide-Eye Double Rye"
+msgstr "ワイドアイのダブルライ・ウイスキー"
+
+#: 242841733-0-68266
+msgctxt "242841733-0-68266"
+msgid "Bravil Bitter Barley Beer"
+msgstr "ブラヴィルのビター大麦ビール"
+
+#: 242841733-0-68265
+msgctxt "242841733-0-68265"
+msgid "Dragontail Blended Whisky"
+msgstr "ドラゴンテールブレンドのウイスキー"
+
+#: 242841733-0-68264
+msgctxt "242841733-0-68264"
+msgid "Port Hunding Pinot Noir"
+msgstr "フンディング港のピノノアール"
+
+#: 242841733-0-68263
+msgctxt "242841733-0-68263"
+msgid "Hagraven's Tonic"
+msgstr "ハグレイヴンのトニック"
+
+#: 242841733-0-68262
+msgctxt "242841733-0-68262"
+msgid "Old Hegathe Lemon Kaveh"
+msgstr "古代ヘガテのレモンカヴェ"
+
+#: 242841733-0-68261
+msgctxt "242841733-0-68261"
+msgid "Fredas Night Infusion"
+msgstr "金耀の夜のインフュージョン"
+
+#: 242841733-0-68260
+msgctxt "242841733-0-68260"
+msgid "Muthsera's Remorse"
+msgstr "ムスセラの良心の呵責"
+
+#: 242841733-0-68259
+msgctxt "242841733-0-68259"
+msgid "Soothing Bard's-Throat Tea"
+msgstr "吟遊詩人ののどを労わるお茶"
+
+#: 242841733-0-68258
+msgctxt "242841733-0-68258"
+msgid "Heart's Day Rose Tea"
+msgstr "ハートの日のローズティー"
+
+#: 242841733-0-68257
+msgctxt "242841733-0-68257"
+msgid "Markarth Mead"
+msgstr "マルカルスのハチミツ酒"
+
+#: 242841733-0-68256
+msgctxt "242841733-0-68256"
+msgid "Colovian Ginger Beer"
+msgstr "コロヴィアのジンジャービール"
+
+#: 242841733-0-68255
+msgctxt "242841733-0-68255"
+msgid "Kragenmoor Zinger Mazte"
+msgstr "クラゲンモアのあっと驚くマッツェ"
+
+#: 242841733-0-64712
+msgctxt "242841733-0-64712"
+msgid "Crown Refreshing Drink"
+msgstr "クラウン: リフレッシュドリンク"
+
+#: 242841733-0-64499
+msgctxt "242841733-0-64499"
+msgid "Crown Endurance Tonic"
+msgstr "クラウン: エンデュランストニック"
+
+#: 242841733-0-64498
+msgctxt "242841733-0-64498"
+msgid "Crown Star-Magic Tea"
+msgstr "クラウン: スターマジックティー"
+
+#: 242841733-0-64497
+msgctxt "242841733-0-64497"
+msgid "Crown Healthy Vigor Liquor"
+msgstr "クラウン: ヘルシービガーリキュール"
+
+#: 242841733-0-64266
+msgctxt "242841733-0-64266"
+msgid "Brain Broth"
+msgstr "ブレインブロス"
+
+#: 242841733-0-64221
+msgctxt "242841733-0-64221"
+msgid "Psijic Ambrosia"
+msgstr "サイジックのアンブロージア"
+
+#: 242841733-0-61083
+msgctxt "242841733-0-61083"
+msgid "Comberry Chai"
+msgstr "コムベリーのチャイ"
+
+#: 242841733-0-61078
+msgctxt "242841733-0-61078"
+msgid "Wamasu Spew"
+msgstr "ワマス・スピュー"
+
+#: 242841733-0-61077
+msgctxt "242841733-0-61077"
+msgid "Sailor's Second Wind"
+msgstr "セイラーズ・セカンドウインド"
+
+#: 242841733-0-61076
+msgctxt "242841733-0-61076"
+msgid "Five-Fireball Infusion"
+msgstr "ファイブ・ファイアボール・インフュージョン"
+
+#: 242841733-0-61075
+msgctxt "242841733-0-61075"
+msgid "Khenarthi's Wings Chai"
+msgstr "ケナーシの羽のチャイ"
+
+#: 242841733-0-61074
+msgctxt "242841733-0-61074"
+msgid "Argonian Mud-Nectar"
+msgstr "アルゴニアンの泥ビール"
+
+#: 242841733-0-61073
+msgctxt "242841733-0-61073"
+msgid "Summer Sky Pale Ale"
+msgstr "サマースカイのペールエール"
+
+#: 242841733-0-61072
+msgctxt "242841733-0-61072"
+msgid "Soothing Sundas Tonic"
+msgstr "のどかな日耀のトニック"
+
+#: 242841733-0-61071
+msgctxt "242841733-0-61071"
+msgid "Grandpa's Bedtime Tonic"
+msgstr "グランパのベッドタイム・トニック"
+
+#: 242841733-0-61070
+msgctxt "242841733-0-61070"
+msgid "Mournhold Twister"
+msgstr "モーンホールド・ツイスター"
+
+#: 242841733-0-61069
+msgctxt "242841733-0-61069"
+msgid "Clan Mother's Cordial"
+msgstr "クランマザー・コーディアル"
+
+#: 242841733-0-61068
+msgctxt "242841733-0-61068"
+msgid "Frothy Sargassum"
+msgstr "泡立つホンダワラ海藻酒"
+
+#: 242841733-0-61067
+msgctxt "242841733-0-61067"
+msgid "Rimmen Sour Bock"
+msgstr "リンメンのサワー・ボック"
+
+#: 242841733-0-61066
+msgctxt "242841733-0-61066"
+msgid "Dreugh Spit"
+msgstr "ドゥルーの唾"
+
+#: 242841733-0-61065
+msgctxt "242841733-0-61065"
+msgid "Shimmerene Tonic"
+msgstr "シマーリーン・トニック"
+
+#: 242841733-0-61064
+msgctxt "242841733-0-61064"
+msgid "Whiskey Sour"
+msgstr "ウイスキーサワー"
+
+#: 242841733-0-61063
+msgctxt "242841733-0-61063"
+msgid "Camlorn Mint Tea"
+msgstr "カムローンのミントティー"
+
+#: 242841733-0-61062
+msgctxt "242841733-0-61062"
+msgid "Jasminger Tea"
+msgstr "ジャスミンジャーティー"
+
+#: 242841733-0-61061
+msgctxt "242841733-0-61061"
+msgid "Sour Gin Fizz"
+msgstr "サワー・ジンフィズ"
+
+#: 242841733-0-61060
+msgctxt "242841733-0-61060"
+msgid "Vivec's Gingergreen Chai"
+msgstr "ヴィベクのジンジャーグリーン・チャイ"
+
+#: 242841733-0-61059
+msgctxt "242841733-0-61059"
+msgid "Infernal Infusion"
+msgstr "黄泉の注入液"
+
+#: 242841733-0-61058
+msgctxt "242841733-0-61058"
+msgid "Sweet Persistence"
+msgstr "スイート・パーシスタンス"
+
+#: 242841733-0-61057
+msgctxt "242841733-0-61057"
+msgid "Colovian Amber Ale"
+msgstr "コロヴィアのアンバーエール"
+
+#: 242841733-0-61056
+msgctxt "242841733-0-61056"
+msgid "Cheydinhal Sherry"
+msgstr "シェイディンハルのシェリー酒"
+
+#: 242841733-0-61055
+msgctxt "242841733-0-61055"
+msgid "Sweet Slaughterfish Tea"
+msgstr "甘いスローターフィッシュのお茶"
+
+#: 242841733-0-61054
+msgctxt "242841733-0-61054"
+msgid "Berrymead Tonic"
+msgstr "ベリーミード・トニック"
+
+#: 242841733-0-61053
+msgctxt "242841733-0-61053"
+msgid "Mulled Wine"
+msgstr "ホットワイン"
+
+#: 242841733-0-61052
+msgctxt "242841733-0-61052"
+msgid "Busy Bee Brew"
+msgstr "陽気な働き者のコーヒー"
+
+#: 242841733-0-61051
+msgctxt "242841733-0-61051"
+msgid "Mermaid Whiskey"
+msgstr "マーメイド・ウイスキー"
+
+#: 242841733-0-61050
+msgctxt "242841733-0-61050"
+msgid "Ginkgo Twist Tonic"
+msgstr "イチョウ・ツイスト・トニック"
+
+#: 242841733-0-61049
+msgctxt "242841733-0-61049"
+msgid "Taneth Coffee"
+msgstr "タネスコーヒー"
+
+#: 242841733-0-61048
+msgctxt "242841733-0-61048"
+msgid "Seaflower Tea"
+msgstr "海花茶"
+
+#: 242841733-0-61047
+msgctxt "242841733-0-61047"
+msgid "Red Hippocras"
+msgstr "香辛料入り赤ワイン"
+
+#: 242841733-0-61046
+msgctxt "242841733-0-61046"
+msgid "Mate Infusion"
+msgstr "マテ・インフュージョン"
+
+#: 242841733-0-61045
+msgctxt "242841733-0-61045"
+msgid "Ginseng Tonic"
+msgstr "薬用人参のトニック"
+
+#: 242841733-0-61044
+msgctxt "242841733-0-61044"
+msgid "Bog-Iron Ale"
+msgstr "泥鉄鉱のエール"
+
+#: 242841733-0-61043
+msgctxt "242841733-0-61043"
+msgid "Acai Tonic Infusion"
+msgstr "アサイー・トニック・インフュージョン"
+
+#: 242841733-0-61037
+msgctxt "242841733-0-61037"
+msgid "Two-Zephyr Tea"
+msgstr "トゥーゼファーティー"
+
+#: 242841733-0-61036
+msgctxt "242841733-0-61036"
+msgid "Blue Road Marathon"
+msgstr "ブルーロード・マラソン"
+
+#: 242841733-0-61035
+msgctxt "242841733-0-61035"
+msgid "Gods-Blind-Me"
+msgstr "ゴッズ・ブラインド・ミー"
+
+#: 242841733-0-57654
+msgctxt "242841733-0-57654"
+msgid "Nocturnal's Everblack Coffee"
+msgstr "ノクターナルのエバーブラックコーヒー"
+
+#: 242841733-0-57653
+msgctxt "242841733-0-57653"
+msgid "Sipping Imga Tonic"
+msgstr "シッピング・イムガ・トニック"
+
+#: 242841733-0-57652
+msgctxt "242841733-0-57652"
+msgid "Sload Slime"
+msgstr "スロードの粘液"
+
+#: 242841733-0-57651
+msgctxt "242841733-0-57651"
+msgid "Lemonic Invigoration"
+msgstr "はつらつレモン"
+
+#: 242841733-0-57648
+msgctxt "242841733-0-57648"
+msgid "Pirate Queen Mint Tea"
+msgstr "海賊女王のミントティー"
+
+#: 242841733-0-57647
+msgctxt "242841733-0-57647"
+msgid "Bitter Ritual Tea"
+msgstr "儀式用の渋いお茶"
+
+#: 242841733-0-57646
+msgctxt "242841733-0-57646"
+msgid "Aetherial Tea"
+msgstr "エセリアルティー"
+
+#: 242841733-0-57645
+msgctxt "242841733-0-57645"
+msgid "Sweet Dreams Tea"
+msgstr "スイートドリームティー"
+
+#: 242841733-0-57642
+msgctxt "242841733-0-57642"
+msgid "Alabaster Honey Rum"
+msgstr "アラバスターのハチミツ入りラム酒"
+
+#: 242841733-0-57641
+msgctxt "242841733-0-57641"
+msgid "Arenthian Brandy"
+msgstr "アレンシアン・ブランデー"
+
+#: 242841733-0-57640
+msgctxt "242841733-0-57640"
+msgid "Comely Wench Whisky"
+msgstr "カムリーウェンチ・ウイスキー"
+
+#: 242841733-0-57639
+msgctxt "242841733-0-57639"
+msgid "Sweet Scamp Sake"
+msgstr "スキャンプの甘口の清酒"
+
+#: 242841733-0-57217
+msgctxt "242841733-0-57217"
+msgid "Tonal Architect Tonic"
+msgstr "色彩の設計者のトニック"
+
+#: 242841733-0-57216
+msgctxt "242841733-0-57216"
+msgid "Mint Mudcrab Mojito"
+msgstr "ミントを添えたマッドクラブのモヒート"
+
+#: 242841733-0-57215
+msgctxt "242841733-0-57215"
+msgid "Balfiera Herbal Tonic"
+msgstr "バルフィエラのハーブトニック"
+
+#: 242841733-0-57214
+msgctxt "242841733-0-57214"
+msgid "Stendarr's Vigilance Ginger Ale"
+msgstr "ステンダールの番人のジンジャー・エール"
+
+#: 242841733-0-57213
+msgctxt "242841733-0-57213"
+msgid "Psijic Sage's Mazte"
+msgstr "サイジックの賢者のマッツェ"
+
+#: 242841733-0-57212
+msgctxt "242841733-0-57212"
+msgid "Happy Ogrim Amber Ale"
+msgstr "幸せなオグリムのアンバーエール"
+
+#: 242841733-0-57211
+msgctxt "242841733-0-57211"
+msgid "Clavicus Vines Chenin Blanc"
+msgstr "クラヴィカス蔓のシュナン・ブラン"
+
+#: 242841733-0-57210
+msgctxt "242841733-0-57210"
+msgid "Yokudan Sorrow Bourbon"
+msgstr "ヨクダの悲哀のバーボン"
+
+#: 242841733-0-57209
+msgctxt "242841733-0-57209"
+msgid "Saint Pelin's Tawny Port"
+msgstr "聖ペリンのトーニーポートワイン"
+
+#: 242841733-0-57208
+msgctxt "242841733-0-57208"
+msgid "Fyr's Hyperagonal Potation"
+msgstr "フイラのハイペラゴナルの酒"
+
+#: 242841733-0-57207
+msgctxt "242841733-0-57207"
+msgid "Nocturnal's Everblack Coffee"
+msgstr "ノクターナルのエバーブラックコーヒー"
+
+#: 242841733-0-57206
+msgctxt "242841733-0-57206"
+msgid "Hasphat's Sticky Guar Tonic"
+msgstr "ハスファットの粘つくグアルのトニック"
+
+#: 242841733-0-57205
+msgctxt "242841733-0-57205"
+msgid "Falkreath Rosy Mead"
+msgstr "ファルクリースのバラ風味ハチミツ酒"
+
+#: 242841733-0-57204
+msgctxt "242841733-0-57204"
+msgid "Pirate Queen Mint Tea"
+msgstr "海賊女王のミントティー"
+
+#: 242841733-0-57203
+msgctxt "242841733-0-57203"
+msgid "Comberry Citrus Quencher"
+msgstr "コムベリーとシトラスのジュース"
+
+#: 242841733-0-57202
+msgctxt "242841733-0-57202"
+msgid "Palace of Kings Ginger Beer"
+msgstr "王の宮殿のジンジャー・ビール"
+
+#: 242841733-0-57201
+msgctxt "242841733-0-57201"
+msgid "Crystal Tower Whiskey"
+msgstr "水晶の塔のウイスキー"
+
+#: 242841733-0-57200
+msgctxt "242841733-0-57200"
+msgid "Alabaster Honey Rum"
+msgstr "アラバスターのハチミツ入りラム酒"
+
+#: 242841733-0-57199
+msgctxt "242841733-0-57199"
+msgid "Ginger Guar Smoothie"
+msgstr "グアルのジンジャー・スムージー"
+
+#: 242841733-0-57198
+msgctxt "242841733-0-57198"
+msgid "Necrom Nights Mazte"
+msgstr "ネクロムの夕暮れマッツェ"
+
+#: 242841733-0-57197
+msgctxt "242841733-0-57197"
+msgid "Blue Banekin Beer"
+msgstr "バネキンの青ビール"
+
+#: 242841733-0-57196
+msgctxt "242841733-0-57196"
+msgid "Wamasu Spew"
+msgstr "ワマス・スピュー"
+
+#: 242841733-0-57195
+msgctxt "242841733-0-57195"
+msgid "Five-Fireball Infusion"
+msgstr "ファイブ・ファイアボール・インフュージョン"
+
+#: 242841733-0-57194
+msgctxt "242841733-0-57194"
+msgid "Argonian Mud-Nectar"
+msgstr "アルゴニアンの泥ビール"
+
+#: 242841733-0-57193
+msgctxt "242841733-0-57193"
+msgid "Senchal Dancer Tonic"
+msgstr "センシャルの踊り子のトニック"
+
+#: 242841733-0-57192
+msgctxt "242841733-0-57192"
+msgid "First Kiss Tea"
+msgstr "ファーストキスティー"
+
+#: 242841733-0-57191
+msgctxt "242841733-0-57191"
+msgid "Hunt-Wife's Grog"
+msgstr "狩猟夫人のグロッグ"
+
+#: 242841733-0-57190
+msgctxt "242841733-0-57190"
+msgid "Kvatch Watch Grenache"
+msgstr "クヴァッチの衛兵のグレナッシュ"
+
+#: 242841733-0-57189
+msgctxt "242841733-0-57189"
+msgid "Jephre's Earthbone Beer"
+msgstr "イェフレのアースボーン・ビール"
+
+#: 242841733-0-57188
+msgctxt "242841733-0-57188"
+msgid "Honeyhips Brown Ale"
+msgstr "ハニーヒップ・ブラウンエール"
+
+#: 242841733-0-57187
+msgctxt "242841733-0-57187"
+msgid "Soothing Sundas Tonic"
+msgstr "のどかな日耀のトニック"
+
+#: 242841733-0-57186
+msgctxt "242841733-0-57186"
+msgid "Sload Slime"
+msgstr "スロードの粘液"
+
+#: 242841733-0-57185
+msgctxt "242841733-0-57185"
+msgid "Frothy Sargassum"
+msgstr "泡立つホンダワラ海藻酒"
+
+#: 242841733-0-57184
+msgctxt "242841733-0-57184"
+msgid "Mournhold Twister"
+msgstr "モーンホールド・ツイスター"
+
+#: 242841733-0-57183
+msgctxt "242841733-0-57183"
+msgid "Clan Mother's Cordial"
+msgstr "クランマザー・コーディアル"
+
+#: 242841733-0-57182
+msgctxt "242841733-0-57182"
+msgid "Rimmen Sour Bock"
+msgstr "リンメンのサワー・ボック"
+
+#: 242841733-0-57181
+msgctxt "242841733-0-57181"
+msgid "Strapping Lad Tonic"
+msgstr "大男のトニック"
+
+#: 242841733-0-57180
+msgctxt "242841733-0-57180"
+msgid "Elven Maiden Tea"
+msgstr "エルフの乙女茶"
+
+#: 242841733-0-57179
+msgctxt "242841733-0-57179"
+msgid "Sylph Gin"
+msgstr "シルフ・ジン"
+
+#: 242841733-0-57178
+msgctxt "242841733-0-57178"
+msgid "White-Eye Whiskey"
+msgstr "ホワイトアイ・ウイスキー"
+
+#: 242841733-0-57177
+msgctxt "242841733-0-57177"
+msgid "Spicy Wyress Wine"
+msgstr "ウィレスの香辛料入りワイン"
+
+#: 242841733-0-57176
+msgctxt "242841733-0-57176"
+msgid "Black Night Cordial"
+msgstr "暗夜のコーディアル"
+
+#: 242841733-0-57175
+msgctxt "242841733-0-57175"
+msgid "Dreugh Spit"
+msgstr "ドゥルーの唾"
+
+#: 242841733-0-57174
+msgctxt "242841733-0-57174"
+msgid "Lemonic Invigoration"
+msgstr "はつらつレモン"
+
+#: 242841733-0-57173
+msgctxt "242841733-0-57173"
+msgid "Whiskey Sour"
+msgstr "ウイスキーサワー"
+
+#: 242841733-0-57172
+msgctxt "242841733-0-57172"
+msgid "Camlorn Mint Tea"
+msgstr "カムローンのミントティー"
+
+#: 242841733-0-57171
+msgctxt "242841733-0-57171"
+msgid "Jasminger Tea"
+msgstr "ジャスミンジャーティー"
+
+#: 242841733-0-57170
+msgctxt "242841733-0-57170"
+msgid "Sour Gin Fizz"
+msgstr "サワー・ジンフィズ"
+
+#: 242841733-0-57169
+msgctxt "242841733-0-57169"
+msgid "Chthonic Tonic"
+msgstr "世俗のトニック"
+
+#: 242841733-0-57168
+msgctxt "242841733-0-57168"
+msgid "Midnight Ritual Tea"
+msgstr "真夜中の儀式のお茶"
+
+#: 242841733-0-57167
+msgctxt "242841733-0-57167"
+msgid "Sweet and Sour Port"
+msgstr "甘酸っぱいポートワイン"
+
+#: 242841733-0-57166
+msgctxt "242841733-0-57166"
+msgid "Boethiah's Breath"
+msgstr "ボエシアの息"
+
+#: 242841733-0-57165
+msgctxt "242841733-0-57165"
+msgid "Stalwart Stout"
+msgstr "骨太なスタウト"
+
+#: 242841733-0-57164
+msgctxt "242841733-0-57164"
+msgid "Wizard's Whiskey"
+msgstr "魔術師のウイスキー"
+
+#: 242841733-0-57163
+msgctxt "242841733-0-57163"
+msgid "Infernal Infusion"
+msgstr "黄泉の注入液"
+
+#: 242841733-0-57162
+msgctxt "242841733-0-57162"
+msgid "Sweet Persistence"
+msgstr "スイート・パーシスタンス"
+
+#: 242841733-0-57161
+msgctxt "242841733-0-57161"
+msgid "Colovian Amber Ale"
+msgstr "コロヴィアのアンバーエール"
+
+#: 242841733-0-57160
+msgctxt "242841733-0-57160"
+msgid "Vivec's Gingergreen Chai"
+msgstr "ヴィベクのジンジャーグリーン・チャイ"
+
+#: 242841733-0-57159
+msgctxt "242841733-0-57159"
+msgid "Sweet Slaughterfish Tea"
+msgstr "甘いスローターフィッシュのお茶"
+
+#: 242841733-0-57158
+msgctxt "242841733-0-57158"
+msgid "Cheydinhal Sherry"
+msgstr "シェイディンハルのシェリー酒"
+
+#: 242841733-0-57157
+msgctxt "242841733-0-57157"
+msgid "Aqua Vitae"
+msgstr "アクア・ヴィッテ"
+
+#: 242841733-0-57156
+msgctxt "242841733-0-57156"
+msgid "Red Queen's Eye-Opener"
+msgstr "赤の女王の朝酒"
+
+#: 242841733-0-57155
+msgctxt "242841733-0-57155"
+msgid "Greef"
+msgstr "グリーフ"
+
+#: 242841733-0-46063
+msgctxt "242841733-0-46063"
+msgid "Sailor's Second Wind"
+msgstr "セイラーズ・セカンドウインド"
+
+#: 242841733-0-46062
+msgctxt "242841733-0-46062"
+msgid "Old Sweetheart Stout"
+msgstr "古い恋人の黒ビール"
+
+#: 242841733-0-46061
+msgctxt "242841733-0-46061"
+msgid "Bitter Ritual Tea"
+msgstr "儀式用の渋いお茶"
+
+#: 242841733-0-46060
+msgctxt "242841733-0-46060"
+msgid "Ten Ogres Tonic"
+msgstr "テン・オーガ・トニック"
+
+#: 242841733-0-46059
+msgctxt "242841733-0-46059"
+msgid "Rislav's Righteous Red Kvass"
+msgstr "正当なるリスラヴの赤いクワス"
+
+#: 242841733-0-46058
+msgctxt "242841733-0-46058"
+msgid "Crow's Nest Rye"
+msgstr "見張り台のライ・ウイスキー"
+
+#: 242841733-0-46057
+msgctxt "242841733-0-46057"
+msgid "Hello Handsome Porter"
+msgstr "ハロー・ハンサム・ポーター"
+
+#: 242841733-0-37958
+msgctxt "242841733-0-37958"
+msgid "Seaberry Tonic"
+msgstr "シーベリー・トニック"
+
+#: 242841733-0-37957
+msgctxt "242841733-0-37957"
+msgid "Winter Rose Tea"
+msgstr "クリスマスローズティー"
+
+#: 242841733-0-37956
+msgctxt "242841733-0-37956"
+msgid "Sorry, Honey Lager"
+msgstr "ソーリー、ハニーラガー"
+
+#: 242841733-0-37952
+msgctxt "242841733-0-37952"
+msgid "Pirate's Jig Tonic"
+msgstr "海賊のジグ・トニック"
+
+#: 242841733-0-37951
+msgctxt "242841733-0-37951"
+msgid "Spiceberry Chai"
+msgstr "スパイスベリーのチャイ"
+
+#: 242841733-0-37950
+msgctxt "242841733-0-37950"
+msgid "Spiced Mazte"
+msgstr "香辛料入りマッツェ"
+
+#: 242841733-0-37946
+msgctxt "242841733-0-37946"
+msgid "Ginseng Sling"
+msgstr "薬用人参のスリング"
+
+#: 242841733-0-37945
+msgctxt "242841733-0-37945"
+msgid "Enlightenment Tea"
+msgstr "悟りのお茶"
+
+#: 228378404-0-37944
+msgctxt "228378404-0-37944"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37939
+msgctxt "242841733-0-37939"
+msgid "Treacleberry Tea"
+msgstr "トリークルベリーティー"
+
+#: 228378404-0-37938
+msgctxt "228378404-0-37938"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37933
+msgctxt "242841733-0-37933"
+msgid "Green Scourgut Tea"
+msgstr "グリーンスコーガットティー"
+
+#: 228378404-0-37932
+msgctxt "228378404-0-37932"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37927
+msgctxt "242841733-0-37927"
+msgid "Morning Reveille Tea"
+msgstr "朝の起床ラッパのお茶"
+
+#: 242841733-0-37926
+msgctxt "242841733-0-37926"
+msgid "Four-Eye Grog"
+msgstr "4つ目のグロッグ"
+
+#: 242841733-0-37922
+msgctxt "242841733-0-37922"
+msgid "Black Coffee"
+msgstr "ブラックコーヒー"
+
+#: 242841733-0-37921
+msgctxt "242841733-0-37921"
+msgid "Bitter Tea"
+msgstr "渋いお茶"
+
+#: 242841733-0-37920
+msgctxt "242841733-0-37920"
+msgid "Sour Mazte"
+msgstr "サワーマッツェ"
+
+#: 228378404-0-37916
+msgctxt "228378404-0-37916"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37914
+msgctxt "242841733-0-37914"
+msgid "Red Rye Beer"
+msgstr "赤いライ麦ビール"
+
+#: 242841733-0-37910
+msgctxt "242841733-0-37910"
+msgid "cloudy Seaberry Tonic"
+msgstr "濁ったシーベリー・トニック"
+
+#: 242841733-0-37909
+msgctxt "242841733-0-37909"
+msgid "murky Winter Rose Tea"
+msgstr "よどんだクリスマスローズティー"
+
+#: 242841733-0-37908
+msgctxt "242841733-0-37908"
+msgid "flat Sorry, Honey Lager"
+msgstr "気の抜けたソーリー、ハニーラガー"
+
+#: 242841733-0-37904
+msgctxt "242841733-0-37904"
+msgid "cloudy Pirate's Jig Tonic"
+msgstr "濁った海賊のジグ・トニック"
+
+#: 242841733-0-37903
+msgctxt "242841733-0-37903"
+msgid "murky Spiceberry Chai"
+msgstr "よどんだスパイスベリーのチャイ"
+
+#: 242841733-0-37902
+msgctxt "242841733-0-37902"
+msgid "flat Spiced Mazte"
+msgstr "気の抜けた香辛料入りマッツェ"
+
+#: 242841733-0-37898
+msgctxt "242841733-0-37898"
+msgid "cloudy Ginseng Sling"
+msgstr "濁った薬用人参のスリング"
+
+#: 242841733-0-37897
+msgctxt "242841733-0-37897"
+msgid "murky Enlightenment Tea"
+msgstr "よどんだ悟りのお茶"
+
+#: 228378404-0-37896
+msgctxt "228378404-0-37896"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37891
+msgctxt "242841733-0-37891"
+msgid "murky Treacleberry Tea"
+msgstr "よどんだトリークルベリーティー"
+
+#: 228378404-0-37890
+msgctxt "228378404-0-37890"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37885
+msgctxt "242841733-0-37885"
+msgid "murky Green Scourgut Tea"
+msgstr "よどんだグリーンスコーガットティー"
+
+#: 228378404-0-37884
+msgctxt "228378404-0-37884"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37879
+msgctxt "242841733-0-37879"
+msgid "murky Morning Reveille Tea"
+msgstr "よどんだ朝の起床ラッパのお茶"
+
+#: 242841733-0-37878
+msgctxt "242841733-0-37878"
+msgid "flat Four-Eye Grog"
+msgstr "気の抜けた4つ目のグロッグ"
+
+#: 242841733-0-37874
+msgctxt "242841733-0-37874"
+msgid "cloudy Black Coffee"
+msgstr "濁ったブラックコーヒー"
+
+#: 242841733-0-37873
+msgctxt "242841733-0-37873"
+msgid "murky Bitter Tea"
+msgstr "よどんだ渋いお茶"
+
+#: 242841733-0-37872
+msgctxt "242841733-0-37872"
+msgid "flat Mazte"
+msgstr "気の抜けたマッツェ"
+
+#: 228378404-0-37868
+msgctxt "228378404-0-37868"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37866
+msgctxt "242841733-0-37866"
+msgid "flat Red Rye Beer"
+msgstr "気の抜けた赤いライ麦ビール"
+
+#: 242841733-0-37862
+msgctxt "242841733-0-37862"
+msgid "Crystal Clarity"
+msgstr "クリスタル・クラリティー"
+
+#: 242841733-0-37861
+msgctxt "242841733-0-37861"
+msgid "Pink Profundity"
+msgstr "ピンクプロファウンディティー"
+
+#: 242841733-0-37860
+msgctxt "242841733-0-37860"
+msgid "Nereid Wine"
+msgstr "ネレイドワイン"
+
+#: 242841733-0-37856
+msgctxt "242841733-0-37856"
+msgid "Dancing Grandma"
+msgstr "ダンシング・グランマ"
+
+#: 242841733-0-37855
+msgctxt "242841733-0-37855"
+msgid "Torval Mint Tea"
+msgstr "トルヴァルミントティー"
+
+#: 228378404-0-37854
+msgctxt "228378404-0-37854"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37848
+msgctxt "242841733-0-37848"
+msgid "Ginger Wheat Beer"
+msgstr "ジンジャービール"
+
+#: 242841733-0-37844
+msgctxt "242841733-0-37844"
+msgid "Yerba Zinger Tonic"
+msgstr "イェルバジンガー・トニック"
+
+#: 228378404-0-37843
+msgctxt "228378404-0-37843"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37838
+msgctxt "242841733-0-37838"
+msgid "Sweetberry Tonic"
+msgstr "スイートベリー・トニック"
+
+#: 242841733-0-37837
+msgctxt "242841733-0-37837"
+msgid "Gingerose Tea"
+msgstr "ジンジャーローズティー"
+
+#: 242841733-0-37836
+msgctxt "242841733-0-37836"
+msgid "Old Clear-Eye Whiskey"
+msgstr "古いクリア・アイ・ウイスキー"
+
+#: 242841733-0-37832
+msgctxt "242841733-0-37832"
+msgid "Yellow Goblin Tonic"
+msgstr "黄ゴブリン・トニック"
+
+#: 242841733-0-37831
+msgctxt "242841733-0-37831"
+msgid "Sweetsting Tea"
+msgstr "スイートスティングティー"
+
+#: 242841733-0-37830
+msgctxt "242841733-0-37830"
+msgid "Lemon Flower Sake"
+msgstr "レモンフラワーの酒"
+
+#: 228378404-0-37826
+msgctxt "228378404-0-37826"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37820
+msgctxt "242841733-0-37820"
+msgid "Guarana Tonic"
+msgstr "ガラナ・トニック"
+
+#: 242841733-0-37819
+msgctxt "242841733-0-37819"
+msgid "Rose Herbal Tea"
+msgstr "ローズハーブティー"
+
+#: 242841733-0-37818
+msgctxt "242841733-0-37818"
+msgid "Golden Lager"
+msgstr "ゴールデンラガー"
+
+#: 242841733-0-37814
+msgctxt "242841733-0-37814"
+msgid "cloudy Crystal Clarity"
+msgstr "濁ったクリスタル・クラリティー"
+
+#: 242841733-0-37813
+msgctxt "242841733-0-37813"
+msgid "murky Pink Profundity"
+msgstr "よどんだピンクプロファウンディティー"
+
+#: 242841733-0-37812
+msgctxt "242841733-0-37812"
+msgid "flat Nereid Wine"
+msgstr "気の抜けたネレイドワイン"
+
+#: 242841733-0-37808
+msgctxt "242841733-0-37808"
+msgid "cloudy Dancing Grandma"
+msgstr "濁ったダンシング・グランマ"
+
+#: 242841733-0-37807
+msgctxt "242841733-0-37807"
+msgid "murky Torval Mint Tea"
+msgstr "よどんだトルヴァルミントティー"
+
+#: 228378404-0-37806
+msgctxt "228378404-0-37806"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37800
+msgctxt "242841733-0-37800"
+msgid "flat Ginger Wheat Beer"
+msgstr "気の抜けたジンジャービール"
+
+#: 242841733-0-37796
+msgctxt "242841733-0-37796"
+msgid "cloudy Yerba Zinger Tonic"
+msgstr "濁ったイェルバジンガー・トニック"
+
+#: 228378404-0-37795
+msgctxt "228378404-0-37795"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37790
+msgctxt "242841733-0-37790"
+msgid "cloudy Sweetberry Tonic"
+msgstr "濁ったスイートベリー・トニック"
+
+#: 242841733-0-37789
+msgctxt "242841733-0-37789"
+msgid "murky Gingerose Tea"
+msgstr "よどんだジンジャーローズティー"
+
+#: 242841733-0-37788
+msgctxt "242841733-0-37788"
+msgid "flat Old Clear-Eye Whiskey"
+msgstr "気の抜けた古いクリア・アイ・ウイスキー"
+
+#: 242841733-0-37784
+msgctxt "242841733-0-37784"
+msgid "cloudy Yellow Goblin Tonic"
+msgstr "濁った黄ゴブリン・トニック"
+
+#: 242841733-0-37783
+msgctxt "242841733-0-37783"
+msgid "murky Sweetsting Tea"
+msgstr "よどんだスイートスティングティー"
+
+#: 242841733-0-37782
+msgctxt "242841733-0-37782"
+msgid "flat Lemon Flower Sake"
+msgstr "気の抜けたレモンフラワーの酒"
+
+#: 228378404-0-37778
+msgctxt "228378404-0-37778"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-37772
+msgctxt "242841733-0-37772"
+msgid "cloudy Guarana Tonic"
+msgstr "濁ったガラナ・トニック"
+
+#: 242841733-0-37771
+msgctxt "242841733-0-37771"
+msgid "murky Rose Herbal Tea"
+msgstr "よどんだローズハーブティー"
+
+#: 242841733-0-37770
+msgctxt "242841733-0-37770"
+msgid "flat Golden Lager"
+msgstr "気の抜けたゴールデンラガー"
+
+#: 242841733-0-34074
+msgctxt "242841733-0-34074"
+msgid "Tingle Tonic Tea"
+msgstr "ティングル・トニック・ティー"
+
+#: 242841733-0-34072
+msgctxt "242841733-0-34072"
+msgid "Rude Awakening"
+msgstr "突然の目覚め"
+
+#: 242841733-0-34071
+msgctxt "242841733-0-34071"
+msgid "Crystal Clarity"
+msgstr "クリスタル・クラリティー"
+
+#: 242841733-0-34068
+msgctxt "242841733-0-34068"
+msgid "Pink Wisdom Tea"
+msgstr "ピンク・ウィズダムティー"
+
+#: 242841733-0-34065
+msgctxt "242841733-0-34065"
+msgid "Dancing Grandma"
+msgstr "ダンシング・グランマ"
+
+#: 242841733-0-34062
+msgctxt "242841733-0-34062"
+msgid "Azura's Rose Tea"
+msgstr "アズラのローズティー"
+
+#: 242841733-0-34059
+msgctxt "242841733-0-34059"
+msgid "Athlete's Guzzle"
+msgstr "アスリートの大酒"
+
+#: 242841733-0-34056
+msgctxt "242841733-0-34056"
+msgid "Dibella's Kiss Tea"
+msgstr "ディベラズキスティー"
+
+#: 242841733-0-34053
+msgctxt "242841733-0-34053"
+msgid "Yerba Zinger Tonic"
+msgstr "イェルバジンガー・トニック"
+
+#: 242841733-0-34050
+msgctxt "242841733-0-34050"
+msgid "Comberry Tonic"
+msgstr "コムベリー・トニック"
+
+#: 242841733-0-34047
+msgctxt "242841733-0-34047"
+msgid "Sweetberry Tonic"
+msgstr "スイートベリー・トニック"
+
+#: 242841733-0-34044
+msgctxt "242841733-0-34044"
+msgid "Herbflower Tea"
+msgstr "ハーブフラワーティー"
+
+#: 242841733-0-34041
+msgctxt "242841733-0-34041"
+msgid "Yellow Goblin Tonic"
+msgstr "黄ゴブリン・トニック"
+
+#: 242841733-0-34035
+msgctxt "242841733-0-34035"
+msgid "Mate Infusion"
+msgstr "マテ・インフュージョン"
+
+#: 242841733-0-34033
+msgctxt "242841733-0-34033"
+msgid "Ysgramor's Harbinger Lager"
+msgstr "イスグラモルの導き手のラガー"
+
+#: 242841733-0-34032
+msgctxt "242841733-0-34032"
+msgid "Summer Sky Pale Ale"
+msgstr "サマースカイのペールエール"
+
+#: 242841733-0-34030
+msgctxt "242841733-0-34030"
+msgid "Telvanni Tea"
+msgstr "テルヴァンニティー"
+
+#: 242841733-0-34029
+msgctxt "242841733-0-34029"
+msgid "Guarana Tonic"
+msgstr "ガラナ・トニック"
+
+#: 242841733-0-34027
+msgctxt "242841733-0-34027"
+msgid "Abecean Brandy"
+msgstr "アビシアンのブランデー"
+
+#: 242841733-0-34026
+msgctxt "242841733-0-34026"
+msgid "Imperial Stout"
+msgstr "インペリアル・スタウト"
+
+#: 242841733-0-34023
+msgctxt "242841733-0-34023"
+msgid "Pink Profundity"
+msgstr "ピンクプロファウンディティー"
+
+#: 242841733-0-34021
+msgctxt "242841733-0-34021"
+msgid "consummate heather mead"
+msgstr "見事なへザーのハチミツ酒"
+
+#: 242841733-0-34020
+msgctxt "242841733-0-34020"
+msgid "Sour Guar Shein"
+msgstr "サワー・グアル・シェイン"
+
+#: 242841733-0-34017
+msgctxt "242841733-0-34017"
+msgid "Torval Mint Tea"
+msgstr "トルヴァルミントティー"
+
+#: 242841733-0-34014
+msgctxt "242841733-0-34014"
+msgid "Drowned Sailor Ale"
+msgstr "船乗りが溺れ死ぬエール"
+
+#: 242841733-0-34011
+msgctxt "242841733-0-34011"
+msgid "Mead de Menthe"
+msgstr "ミード・デ・マント"
+
+#: 242841733-0-34008
+msgctxt "242841733-0-34008"
+msgid "Elinhir Qishr"
+msgstr "エリンヒルのキシル"
+
+#: 242841733-0-34005
+msgctxt "242841733-0-34005"
+msgid "Seaflower Tea"
+msgstr "海花茶"
+
+#: 242841733-0-34002
+msgctxt "242841733-0-34002"
+msgid "Yerba Syrah Wine"
+msgstr "イエルバのシラーワイン"
+
+#: 242841733-0-33999
+msgctxt "242841733-0-33999"
+msgid "Gingerose Tea"
+msgstr "ジンジャーローズティー"
+
+#: 242841733-0-33996
+msgctxt "242841733-0-33996"
+msgid "Stand-Me-Up Lager"
+msgstr "スタンド・ミー・アップ・ラガー"
+
+#: 242841733-0-33993
+msgctxt "242841733-0-33993"
+msgid "Sweetsting Tea"
+msgstr "スイートスティングティー"
+
+#: 242841733-0-33987
+msgctxt "242841733-0-33987"
+msgid "Comberry Chai"
+msgstr "コムベリーのチャイ"
+
+#: 242841733-0-33985
+msgctxt "242841733-0-33985"
+msgid "invigorated bervez lager"
+msgstr "活力を与えるベルベズラガー"
+
+#: 242841733-0-33984
+msgctxt "242841733-0-33984"
+msgid "Breton Pint of Bitters"
+msgstr "ブレトンのピント・オブ・ビターズ"
+
+#: 242841733-0-33982
+msgctxt "242841733-0-33982"
+msgid "High Rock Rose and Rye"
+msgstr "ハイロックのローズ・アンド・ライ"
+
+#: 242841733-0-33981
+msgctxt "242841733-0-33981"
+msgid "Rose Herbal Tea"
+msgstr "ローズハーブティー"
+
+#: 242841733-0-33979
+msgctxt "242841733-0-33979"
+msgid "Seven Year Beer"
+msgstr "セブンイヤー・ビール"
+
+#: 242841733-0-33977
+msgctxt "242841733-0-33977"
+msgid "Night-Grog"
+msgstr "ナイト・グロッグ"
+
+#: 242841733-0-33975
+msgctxt "242841733-0-33975"
+msgid "Nereid Wine"
+msgstr "ネレイドワイン"
+
+#: 242841733-0-33971
+msgctxt "242841733-0-33971"
+msgid "Sanguine's Temptation"
+msgstr "サングインの誘惑"
+
+#: 242841733-0-33969
+msgctxt "242841733-0-33969"
+msgid "Mulled Wine"
+msgstr "ホットワイン"
+
+#: 242841733-0-33965
+msgctxt "242841733-0-33965"
+msgid "Truth-Glimpse"
+msgstr "トリュース・グリンプス"
+
+#: 242841733-0-33963
+msgctxt "242841733-0-33963"
+msgid "Ginger Wheat Beer"
+msgstr "ジンジャービール"
+
+#: 242841733-0-33959
+msgctxt "242841733-0-33959"
+msgid "Sujamma"
+msgstr "スジャンマ"
+
+#: 242841733-0-33957
+msgctxt "242841733-0-33957"
+msgid "Gossamer Mazte"
+msgstr "手の込んだマッツェ"
+
+#: 242841733-0-33953
+msgctxt "242841733-0-33953"
+msgid "Rose Lager"
+msgstr "ローズラガー"
+
+#: 242841733-0-33951
+msgctxt "242841733-0-33951"
+msgid "Old Clear-Eye Whiskey"
+msgstr "古いクリア・アイ・ウイスキー"
+
+#: 242841733-0-33947
+msgctxt "242841733-0-33947"
+msgid "Skingrad Muscat"
+msgstr "スキングラード・ムスキャット"
+
+#: 242841733-0-33945
+msgctxt "242841733-0-33945"
+msgid "Lemon Flower Mazte"
+msgstr "レモンフラワーのマッツェ"
+
+#: 242841733-0-33939
+msgctxt "242841733-0-33939"
+msgid "Surilie Syrah Wine"
+msgstr "スリリーのシラーワイン"
+
+#: 242841733-0-33933
+msgctxt "242841733-0-33933"
+msgid "Golden Lager"
+msgstr "ゴールデンラガー"
+
+#: 242841733-0-33741
+msgctxt "242841733-0-33741"
+msgid "Silver Lotusberry Tea"
+msgstr "シルバー・ロータスベリーティー"
+
+#: 242841733-0-33739
+msgctxt "242841733-0-33739"
+msgid "Vaermina's Nightmare"
+msgstr "ヴァルミーナの悪夢"
+
+#: 242841733-0-33738
+msgctxt "242841733-0-33738"
+msgid "Seaberry Tonic"
+msgstr "シーベリー・トニック"
+
+#: 242841733-0-33735
+msgctxt "242841733-0-33735"
+msgid "Sweet Scented Infusion"
+msgstr "スイート・センテッドインフュージョン"
+
+#: 242841733-0-33732
+msgctxt "242841733-0-33732"
+msgid "Pirate's Jig Tonic"
+msgstr "海賊のジグ・トニック"
+
+#: 242841733-0-33729
+msgctxt "242841733-0-33729"
+msgid "Celestial Tonic Tea"
+msgstr "セレスティアルのトニックティー"
+
+#: 242841733-0-33726
+msgctxt "242841733-0-33726"
+msgid "Ginseng Sling"
+msgstr "薬用人参のスリング"
+
+#: 242841733-0-33723
+msgctxt "242841733-0-33723"
+msgid "Jasrana Tea Tonic"
+msgstr "ジャスラーナ・ティー・トニック"
+
+#: 242841733-0-33720
+msgctxt "242841733-0-33720"
+msgid "Ginkgo Twist Tonic"
+msgstr "イチョウ・ツイスト・トニック"
+
+#: 242841733-0-33717
+msgctxt "242841733-0-33717"
+msgid "Bitter Kaveh"
+msgstr "ビターカヴェ"
+
+#: 242841733-0-33714
+msgctxt "242841733-0-33714"
+msgid "Kelp Kaveh"
+msgstr "ケルプ・カヴェ"
+
+#: 242841733-0-33711
+msgctxt "242841733-0-33711"
+msgid "Blackwood Mint Chai"
+msgstr "ブラックウッド・ミントのチャイ"
+
+#: 242841733-0-33708
+msgctxt "242841733-0-33708"
+msgid "Meady-Matey Infusion"
+msgstr "ミーディー・マーティー・インフュージョン"
+
+#: 242841733-0-33702
+msgctxt "242841733-0-33702"
+msgid "Black Coffee"
+msgstr "ブラックコーヒー"
+
+#: 242841733-0-33699
+msgctxt "242841733-0-33699"
+msgid "Kagouti Kick Mazte"
+msgstr "カゴーティ・キックのマッツェ"
+
+#: 242841733-0-33698
+msgctxt "242841733-0-33698"
+msgid "Sipping Imga Tonic"
+msgstr "シッピング・イムガ・トニック"
+
+#: 242841733-0-33697
+msgctxt "242841733-0-33697"
+msgid "Surilie Bros. White Merlot"
+msgstr "スリリー兄弟のホワイトマーロット"
+
+#: 242841733-0-33696
+msgctxt "242841733-0-33696"
+msgid "Acai Tonic Infusion"
+msgstr "アサイー・トニック・インフュージョン"
+
+#: 242841733-0-33694
+msgctxt "242841733-0-33694"
+msgid "Monkeypants Mazte"
+msgstr "モンキーパンツのマッツェ"
+
+#: 242841733-0-33693
+msgctxt "242841733-0-33693"
+msgid "Vigilance Gold Ale"
+msgstr "番人のゴールドエール"
+
+#: 242841733-0-33690
+msgctxt "242841733-0-33690"
+msgid "Winter Rose Tea"
+msgstr "クリスマスローズティー"
+
+#: 242841733-0-33687
+msgctxt "242841733-0-33687"
+msgid "Vvardenfell Flin"
+msgstr "ヴァーデンフェルのフリン"
+
+#: 242841733-0-33684
+msgctxt "242841733-0-33684"
+msgid "Spiceberry Chai"
+msgstr "スパイスベリーのチャイ"
+
+#: 242841733-0-33681
+msgctxt "242841733-0-33681"
+msgid "Ginger Port"
+msgstr "ジンジャーポートワイン"
+
+#: 242841733-0-33678
+msgctxt "242841733-0-33678"
+msgid "Enlightenment Tea"
+msgstr "悟りのお茶"
+
+#: 242841733-0-33675
+msgctxt "242841733-0-33675"
+msgid "West Weald Wallop"
+msgstr "ウェストウィールドのワロップ"
+
+#: 242841733-0-33672
+msgctxt "242841733-0-33672"
+msgid "Treacleberry Tea"
+msgstr "トリークルベリーティー"
+
+#: 242841733-0-33669
+msgctxt "242841733-0-33669"
+msgid "Acai Dry Mazte"
+msgstr "アサイー・ドライ・マッツェ"
+
+#: 242841733-0-33666
+msgctxt "242841733-0-33666"
+msgid "Green Scourgut Tea"
+msgstr "グリーンスコーガットティー"
+
+#: 242841733-0-33663
+msgctxt "242841733-0-33663"
+msgid "Kaveh Stout"
+msgstr "カヴェのスタウト"
+
+#: 242841733-0-33660
+msgctxt "242841733-0-33660"
+msgid "Morning Reveille Tea"
+msgstr "朝の起床ラッパのお茶"
+
+#: 242841733-0-33654
+msgctxt "242841733-0-33654"
+msgid "Bitter Tea"
+msgstr "渋いお茶"
+
+#: 242841733-0-33652
+msgctxt "242841733-0-33652"
+msgid "Arenthian Brandy"
+msgstr "アレンシアン・ブランデー"
+
+#: 242841733-0-33650
+msgctxt "242841733-0-33650"
+msgid "Mage's Mead"
+msgstr "魔術師のハチミツ酒"
+
+#: 242841733-0-33648
+msgctxt "242841733-0-33648"
+msgid "Mint Chai"
+msgstr "ミントのチャイ"
+
+#: 242841733-0-33646
+msgctxt "242841733-0-33646"
+msgid "Numidium Brandy"
+msgstr "ヌミディウムブランデー"
+
+#: 242841733-0-33644
+msgctxt "242841733-0-33644"
+msgid "Riften Rye"
+msgstr "リフテンのライ・ウイスキー"
+
+#: 242841733-0-33642
+msgctxt "242841733-0-33642"
+msgid "Sorry, Honey Lager"
+msgstr "ソーリー、ハニーラガー"
+
+#: 242841733-0-33638
+msgctxt "242841733-0-33638"
+msgid "Double Clarified Mazte"
+msgstr "二回蒸留のマッツェ"
+
+#: 242841733-0-33636
+msgctxt "242841733-0-33636"
+msgid "Spiced Mazte"
+msgstr "香辛料入りマッツェ"
+
+#: 242841733-0-33632
+msgctxt "242841733-0-33632"
+msgid "Spriggan Sap"
+msgstr "スプリガンの樹液"
+
+#: 242841733-0-33630
+msgctxt "242841733-0-33630"
+msgid "Mermaid Whiskey"
+msgstr "マーメイド・ウイスキー"
+
+#: 242841733-0-33626
+msgctxt "242841733-0-33626"
+msgid "Horker's Breath"
+msgstr "ホーカーズ・ブレス"
+
+#: 242841733-0-33624
+msgctxt "242841733-0-33624"
+msgid "Barley Nectar"
+msgstr "大麦のビール"
+
+#: 242841733-0-33620
+msgctxt "242841733-0-33620"
+msgid "Creme de Menthe"
+msgstr "クレーム・ド・マント"
+
+#: 242841733-0-33618
+msgctxt "242841733-0-33618"
+msgid "Red Hippocras"
+msgstr "香辛料入り赤ワイン"
+
+#: 242841733-0-33614
+msgctxt "242841733-0-33614"
+msgid "Clamberskull"
+msgstr "クランバ・スカル"
+
+#: 242841733-0-33612
+msgctxt "242841733-0-33612"
+msgid "Four-Eye Grog"
+msgstr "4つ目のグロッグ"
+
+#: 242841733-0-33606
+msgctxt "242841733-0-33606"
+msgid "Mazte"
+msgstr "マッツェ"
+
+#: 242841733-0-33603
+msgctxt "242841733-0-33603"
+msgid "Cardiac Arrest"
+msgstr "カルディアック・アレスト"
+
+#: 242841733-0-33602
+msgctxt "242841733-0-33602"
+msgid "Aetherial Tea"
+msgstr "エセリアルティー"
+
+#: 242841733-0-33601
+msgctxt "242841733-0-33601"
+msgid "invigorated mountain lager"
+msgstr "活力を与えるマウンテンラガー"
+
+#: 242841733-0-33600
+msgctxt "242841733-0-33600"
+msgid "Red Rye Beer"
+msgstr "赤いライ麦ビール"
+
+#: 242841733-0-33459
+msgctxt "242841733-0-33459"
+msgid "Berveza Vitae"
+msgstr "ベルヴェザ・ヴィタエ"
+
+#: 242841733-0-33458
+msgctxt "242841733-0-33458"
+msgid "Centurion's Friend Kaveh"
+msgstr "センチュリオンの友人カヴェ"
+
+#: 242841733-0-33456
+msgctxt "242841733-0-33456"
+msgid "Hopscotch"
+msgstr "ホップスコッチ"
+
+#: 242841733-0-33454
+msgctxt "242841733-0-33454"
+msgid "Qhalua Liqueur"
+msgstr "カルア・リカー"
+
+#: 242841733-0-33440
+msgctxt "242841733-0-33440"
+msgid "Xanmeer Brandy"
+msgstr "ザンミーア・ブランデー"
+
+#: 242841733-0-33438
+msgctxt "242841733-0-33438"
+msgid "Fifth Legion Porter"
+msgstr "第五軍団のスタウト"
+
+#: 242841733-0-33436
+msgctxt "242841733-0-33436"
+msgid "Tranquility Pale Ale"
+msgstr "平静のペールエール"
+
+#: 242841733-0-33434
+msgctxt "242841733-0-33434"
+msgid "Enemies Explode"
+msgstr "エネミーズ・エクスプロード"
+
+#: 242841733-0-33420
+msgctxt "242841733-0-33420"
+msgid "Comberry Bourbon"
+msgstr "コムベリー・バーボン"
+
+#: 242841733-0-32159
+msgctxt "242841733-0-32159"
+msgid "Athlete's Guzzle"
+msgstr "アスリートの大酒"
+
+#: 242841733-0-32158
+msgctxt "242841733-0-32158"
+msgid "Thrassian Chai"
+msgstr "スラシアのチャイ"
+
+#: 242841733-0-32157
+msgctxt "242841733-0-32157"
+msgid "Mazte"
+msgstr "マッツェ"
+
+#: 242841733-0-32153
+msgctxt "242841733-0-32153"
+msgid "ambrosia"
+msgstr "アンブロージア"
+
+#: 242841733-0-32152
+msgctxt "242841733-0-32152"
+msgid "Lotus Tea"
+msgstr "ロータスティー"
+
+#: 242841733-0-32151
+msgctxt "242841733-0-32151"
+msgid "bloodforth"
+msgstr "ブラッドフォース"
+
+#: 242841733-0-32147
+msgctxt "242841733-0-32147"
+msgid "cloudy Athlete's Guzzle"
+msgstr "濁ったアスリートの大酒"
+
+#: 242841733-0-32146
+msgctxt "242841733-0-32146"
+msgid "murky Thrassian Chai"
+msgstr "よどんだスラシアのチャイ"
+
+#: 242841733-0-32145
+msgctxt "242841733-0-32145"
+msgid "flat Mazte"
+msgstr "気の抜けたマッツェ"
+
+#: 242841733-0-32141
+msgctxt "242841733-0-32141"
+msgid "cloudy ambrosia"
+msgstr "濁ったアンブロージア"
+
+#: 242841733-0-32140
+msgctxt "242841733-0-32140"
+msgid "murky Lotus Tea"
+msgstr "よどんだロータスティー"
+
+#: 242841733-0-32139
+msgctxt "242841733-0-32139"
+msgid "flat bloodforth"
+msgstr "気の抜けたブラッドフォース"
+
+#: 242841733-0-32135
+msgctxt "242841733-0-32135"
+msgid "Rihad Qishr"
+msgstr "リハド・キシル"
+
+#: 242841733-0-32134
+msgctxt "242841733-0-32134"
+msgid "Puckermint Tea"
+msgstr "パッカーミントティー"
+
+#: 242841733-0-32133
+msgctxt "242841733-0-32133"
+msgid "Rye-in-your-Eye"
+msgstr "瞳に映るライ・ウイスキー"
+
+#: 228378404-0-32129
+msgctxt "228378404-0-32129"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-32127
+msgctxt "242841733-0-32127"
+msgid "Sour Mash"
+msgstr "すっぱい麦芽汁"
+
+#: 242841733-0-32123
+msgctxt "242841733-0-32123"
+msgid "cloudy Rihad Qishr"
+msgstr "濁ったリハド・キシル"
+
+#: 242841733-0-32122
+msgctxt "242841733-0-32122"
+msgid "murky Puckermint Tea"
+msgstr "よどんだパッカーミントティー"
+
+#: 242841733-0-32121
+msgctxt "242841733-0-32121"
+msgid "flat Rye-in-your-Eye"
+msgstr "気の抜けた瞳に映るライ・ウイスキー"
+
+#: 228378404-0-32117
+msgctxt "228378404-0-32117"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-32115
+msgctxt "242841733-0-32115"
+msgid "flat Sour Mash"
+msgstr "気の抜けたすっぱい麦芽汁"
+
+#: 242841733-0-32111
+msgctxt "242841733-0-32111"
+msgid "greef"
+msgstr "グリーフ"
+
+#: 228378404-0-32110
+msgctxt "228378404-0-32110"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-32105
+msgctxt "242841733-0-32105"
+msgid "sujamma"
+msgstr "スジャンマ"
+
+#: 242841733-0-32104
+msgctxt "242841733-0-32104"
+msgid "Bitterlemon Tea"
+msgstr "ビターレモンティー"
+
+#: 242841733-0-32103
+msgctxt "242841733-0-32103"
+msgid "Eltheric Hooch"
+msgstr "エルセリックの安酒"
+
+#: 242841733-0-32099
+msgctxt "242841733-0-32099"
+msgid "cloudy greef"
+msgstr "濁ったグリーフ"
+
+#: 228378404-0-32098
+msgctxt "228378404-0-32098"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-32093
+msgctxt "242841733-0-32093"
+msgid "cloudy sujamma"
+msgstr "濁ったスジャンマ"
+
+#: 242841733-0-32092
+msgctxt "242841733-0-32092"
+msgid "murky Bitterlemon Tea"
+msgstr "よどんだビターレモンティー"
+
+#: 242841733-0-32091
+msgctxt "242841733-0-32091"
+msgid "flat Eltheric Hooch"
+msgstr "気の抜けたエルセリックの安酒"
+
+#: 242841733-0-32087
+msgctxt "242841733-0-32087"
+msgid "Isinmate Infusion"
+msgstr "イシンマテ・インフュージョン"
+
+#: 242841733-0-32086
+msgctxt "242841733-0-32086"
+msgid "Sourflower Tea"
+msgstr "サワーフラワーティー"
+
+#: 242841733-0-32085
+msgctxt "242841733-0-32085"
+msgid "Tawny Port"
+msgstr "トーニーポートワイン"
+
+#: 242841733-0-32081
+msgctxt "242841733-0-32081"
+msgid "Tonsil Tingle Tonic"
+msgstr "トンセル・ティングル・トニック"
+
+#: 242841733-0-32080
+msgctxt "242841733-0-32080"
+msgid "Honeyberry Tea"
+msgstr "ハニーベリーティー"
+
+#: 242841733-0-32079
+msgctxt "242841733-0-32079"
+msgid "Clarified Syrah Wine"
+msgstr "シラーワインの蒸留酒"
+
+#: 242841733-0-32075
+msgctxt "242841733-0-32075"
+msgid "cloudy Isinmate Infusion"
+msgstr "濁ったイシンマテ・インフュージョン"
+
+#: 242841733-0-32074
+msgctxt "242841733-0-32074"
+msgid "murky Sourflower Tea"
+msgstr "よどんだサワーフラワーティー"
+
+#: 242841733-0-32073
+msgctxt "242841733-0-32073"
+msgid "flat Tawny Port"
+msgstr "気の抜けたトーニーポートワイン"
+
+#: 242841733-0-32069
+msgctxt "242841733-0-32069"
+msgid "cloudy Tonsil Tingle Tonic"
+msgstr "濁ったトンセル・ティングル・トニック"
+
+#: 242841733-0-32068
+msgctxt "242841733-0-32068"
+msgid "murky Honeyberry Tea"
+msgstr "よどんだハニーベリーティー"
+
+#: 242841733-0-32067
+msgctxt "242841733-0-32067"
+msgid "flat Clarified Syrah Wine"
+msgstr "気の抜けたシラーワインの蒸留酒"
+
+#: 242841733-0-30587
+msgctxt "242841733-0-30587"
+msgid "cloudy Comberry Chai"
+msgstr "濁ったコムベリーのチャイ"
+
+#: 228378404-0-30455
+msgctxt "228378404-0-30455"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 228378404-0-30453
+msgctxt "228378404-0-30453"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 228378404-0-30451
+msgctxt "228378404-0-30451"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 228378404-0-30443
+msgctxt "228378404-0-30443"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 228378404-0-30441
+msgctxt "228378404-0-30441"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 228378404-0-30439
+msgctxt "228378404-0-30439"
+msgid "An awful-smelling bottle."
+msgstr "恐ろしい臭いのするボトル。"
+
+#: 242841733-0-28518
+msgctxt "242841733-0-28518"
+msgid "Orsinium Pink Zinfandel"
+msgstr "オルシニウム・ピンク・ジンファンデル"
+
+#: 242841733-0-28517
+msgctxt "242841733-0-28517"
+msgid "Shimmerene Tonic"
+msgstr "シマーリーン・トニック"
+
+#: 242841733-0-28516
+msgctxt "242841733-0-28516"
+msgid "Serene Awareness"
+msgstr "セレン・アウェアネス"
+
+#: 242841733-0-28514
+msgctxt "242841733-0-28514"
+msgid "Ten-Foot Beer"
+msgstr "テン・フット・ビール"
+
+#: 242841733-0-28513
+msgctxt "242841733-0-28513"
+msgid "Blue Road Marathon"
+msgstr "ブルーロード・マラソン"
+
+#: 242841733-0-28512
+msgctxt "242841733-0-28512"
+msgid "Jasminkgo Tonic"
+msgstr "ジャスミンクゴ・トニック"
+
+#: 242841733-0-28510
+msgctxt "242841733-0-28510"
+msgid "Tears of Joy"
+msgstr "歓喜の涙"
+
+#: 242841733-0-28509
+msgctxt "242841733-0-28509"
+msgid "Rihad Qishr"
+msgstr "リハド・キシル"
+
+#: 242841733-0-28508
+msgctxt "242841733-0-28508"
+msgid "Mintmead Kaveh"
+msgstr "ミントミード・カヴェ"
+
+#: 242841733-0-28505
+msgctxt "242841733-0-28505"
+msgid "Berrymead Tonic"
+msgstr "ベリーミード・トニック"
+
+#: 242841733-0-28504
+msgctxt "242841733-0-28504"
+msgid "Cornerclub Kaveh"
+msgstr "コーナークラブ・カヴェ"
+
+#: 242841733-0-28501
+msgctxt "242841733-0-28501"
+msgid "Busy Bee Brew"
+msgstr "陽気な働き者のコーヒー"
+
+#: 242841733-0-28500
+msgctxt "242841733-0-28500"
+msgid "Pondwater Tea"
+msgstr "ポンドウォーターティー"
+
+#: 242841733-0-28497
+msgctxt "242841733-0-28497"
+msgid "Taneth Coffee"
+msgstr "タネスコーヒー"
+
+#: 242841733-0-28496
+msgctxt "242841733-0-28496"
+msgid "Tsaesci Tea"
+msgstr "ツァエシティー"
+
+#: 242841733-0-28493
+msgctxt "242841733-0-28493"
+msgid "Isinmate Infusion"
+msgstr "イシンマテ・インフュージョン"
+
+#: 242841733-0-28492
+msgctxt "242841733-0-28492"
+msgid "Lillandril Tonic Tea"
+msgstr "リランドリルのトニックティー"
+
+#: 242841733-0-28489
+msgctxt "242841733-0-28489"
+msgid "Tonsil Tingle Tonic"
+msgstr "トンセル・ティングル・トニック"
+
+#: 242841733-0-28487
+msgctxt "242841733-0-28487"
+msgid "Narsis Wickwheat Ale"
+msgstr "ナルシスのウィックウィートエール"
+
+#: 242841733-0-28485
+msgctxt "242841733-0-28485"
+msgid "Ginseng Tonic"
+msgstr "薬用人参のトニック"
+
+#: 242841733-0-28483
+msgctxt "242841733-0-28483"
+msgid "Malacath's Hammer"
+msgstr "マラキャスのハンマー"
+
+#: 242841733-0-28482
+msgctxt "242841733-0-28482"
+msgid "Khenarthi's Wings Chai"
+msgstr "ケナーシの羽のチャイ"
+
+#: 242841733-0-28481
+msgctxt "242841733-0-28481"
+msgid "Ginkgo Tonic"
+msgstr "イチョウ・トニック"
+
+#: 242841733-0-28477
+msgctxt "242841733-0-28477"
+msgid "Sweet Dreams Tea"
+msgstr "スイートドリームティー"
+
+#: 242841733-0-28476
+msgctxt "242841733-0-28476"
+msgid "Dark Seducer"
+msgstr "闇の誘惑者"
+
+#: 242841733-0-28473
+msgctxt "242841733-0-28473"
+msgid "Two-Zephyr Tea"
+msgstr "トゥーゼファーティー"
+
+#: 242841733-0-28472
+msgctxt "242841733-0-28472"
+msgid "Pyandonea Merlot"
+msgstr "ピャンドニアのメルロー"
+
+#: 242841733-0-28469
+msgctxt "242841733-0-28469"
+msgid "Puckermint Tea"
+msgstr "パッカーミントティー"
+
+#: 242841733-0-28468
+msgctxt "242841733-0-28468"
+msgid "Fulmination Ale"
+msgstr "フルミネーションエール"
+
+#: 242841733-0-28466
+msgctxt "242841733-0-28466"
+msgid "crisp river's ale"
+msgstr "クリスプリバーのエール"
+
+#: 242841733-0-28465
+msgctxt "242841733-0-28465"
+msgid "Maormer Tea"
+msgstr "マオマーティー"
+
+#: 242841733-0-28464
+msgctxt "242841733-0-28464"
+msgid "Ginkgo Double Brandy"
+msgstr "イチョウ・ダブルブランデー"
+
+#: 242841733-0-28461
+msgctxt "242841733-0-28461"
+msgid "Thrassian Chai"
+msgstr "スラシアのチャイ"
+
+#: 242841733-0-28460
+msgctxt "242841733-0-28460"
+msgid "Bravil Mead"
+msgstr "ブラヴィルのハチミツ酒"
+
+#: 242841733-0-28457
+msgctxt "242841733-0-28457"
+msgid "Bitterlemon Tea"
+msgstr "ビターレモンティー"
+
+#: 242841733-0-28456
+msgctxt "242841733-0-28456"
+msgid "Ginkgo Lightning"
+msgstr "イチョウ・ライトニング"
+
+#: 242841733-0-28453
+msgctxt "242841733-0-28453"
+msgid "Sourflower Tea"
+msgstr "サワーフラワーティー"
+
+#: 242841733-0-28452
+msgctxt "242841733-0-28452"
+msgid "Timber Mammoth Ale"
+msgstr "森林マンモスのエール"
+
+#: 242841733-0-28449
+msgctxt "242841733-0-28449"
+msgid "Honeyberry Tea"
+msgstr "ハニーベリーティー"
+
+#: 242841733-0-28445
+msgctxt "242841733-0-28445"
+msgid "Lotus Tea"
+msgstr "ロータスティー"
+
+#: 242841733-0-28444
+msgctxt "242841733-0-28444"
+msgid "Grandpa's Bedtime Tonic"
+msgstr "グランパのベッドタイム・トニック"
+
+#: 242841733-0-28443
+msgctxt "242841733-0-28443"
+msgid "Blacklight Ginger Mazte"
+msgstr "ブラックライト・ジンジャー・マッツェ"
+
+#: 242841733-0-28441
+msgctxt "242841733-0-28441"
+msgid "Jasmine Tea"
+msgstr "ジャスミンティー"
+
+#: 242841733-0-28439
+msgctxt "242841733-0-28439"
+msgid "Anequina Stout"
+msgstr "アネクイナの黒ビール"
+
+#: 242841733-0-28437
+msgctxt "242841733-0-28437"
+msgid "Sweet Scamp Mazte"
+msgstr "スイート・スキャンプ・マッツェ"
+
+#: 242841733-0-28435
+msgctxt "242841733-0-28435"
+msgid "Rosy Island Ale"
+msgstr "ロージーアイランド・エール"
+
+#: 242841733-0-28433
+msgctxt "242841733-0-28433"
+msgid "Gods-Blind-Me"
+msgstr "ゴッズ・ブラインド・ミー"
+
+#: 242841733-0-28431
+msgctxt "242841733-0-28431"
+msgid "Summer Mazte"
+msgstr "サマーマッツェ"
+
+#: 242841733-0-28429
+msgctxt "242841733-0-28429"
+msgid "Rye-in-your-Eye"
+msgstr "瞳に映るライ・ウイスキー"
+
+#: 242841733-0-28427
+msgctxt "242841733-0-28427"
+msgid "Sweet Lemonale"
+msgstr "スイート・レモンエール"
+
+#: 242841733-0-28425
+msgctxt "242841733-0-28425"
+msgid "Sour Mash"
+msgstr "すっぱい麦芽汁"
+
+#: 242841733-0-28423
+msgctxt "242841733-0-28423"
+msgid "Bitter Remorse Ale"
+msgstr "苦い悔恨のエール"
+
+#: 242841733-0-28421
+msgctxt "242841733-0-28421"
+msgid "Honey Rye"
+msgstr "ハニーライ・ウイスキー"
+
+#: 242841733-0-28419
+msgctxt "242841733-0-28419"
+msgid "Clarified Rose Lager"
+msgstr "ローズラガーの蒸留酒"
+
+#: 242841733-0-28417
+msgctxt "242841733-0-28417"
+msgid "Eltheric Hooch"
+msgstr "エルセリックの安酒"
+
+#: 242841733-0-28415
+msgctxt "242841733-0-28415"
+msgid "Jasmine Moonshine"
+msgstr "ジャスミンの密造酒"
+
+#: 242841733-0-28414
+msgctxt "242841733-0-28414"
+msgid "fresh dragon's-tongue ale"
+msgstr "新鮮なドラゴンの舌のエール"
+
+#: 242841733-0-28413
+msgctxt "242841733-0-28413"
+msgid "Tawny Port"
+msgstr "トーニーポートワイン"
+
+#: 242841733-0-28411
+msgctxt "242841733-0-28411"
+msgid "Cloudrest Golden Ale"
+msgstr "クラウドレストのゴールデンエール"
+
+#: 242841733-0-28409
+msgctxt "242841733-0-28409"
+msgid "Clarified Syrah Wine"
+msgstr "シラーワインの蒸留酒"
+
+#: 242841733-0-28405
+msgctxt "242841733-0-28405"
+msgid "Bog-Iron Ale"
+msgstr "泥鉄鉱のエール"
+
+#: 242841733-0-28403
+msgctxt "242841733-0-28403"
+msgid "Animate-the-Dead"
+msgstr "アニメイト・ザ・デッド"
+
+#: 242841733-0-28402
+msgctxt "242841733-0-28402"
+msgid "Comely Wench Whiskey"
+msgstr "カムリーウェンチ・ウイスキー"
+
+#: 242841733-0-28401
+msgctxt "242841733-0-28401"
+msgid "Nut Brown Ale"
+msgstr "ナット・ブラウンエール"
+
+#: 242841733-0-135112
+msgctxt "242841733-0-135112"
+msgid "Crown Refreshing Drink"
+msgstr "クラウン: リフレッシュドリンク"
+
+#: 228378404-0-133555
+msgctxt "228378404-0-133555"
+msgid "Brewed from potable liquids in the Clockwork City. Probably volatile, and quite eye-opening."
+msgstr "クロックワーク・シティの携帯リキッドで醸造された。恐らく揮発性で、目が覚めるような味"
+
+#: 242841733-0-115027
+msgctxt "242841733-0-115027"
+msgid "Mythic Aetherial Ambrosia"
+msgstr "神秘のエセリアルアンブロージア"
+
+#: 228378404-0-112441
+msgctxt "228378404-0-112441"
+msgid "This potent drink is one of the few banned by all fleets in Tamriel. Though a spilled mug doesn't actually strip tar from a ship's deck, it is absolutely capable of removing rational thought from those who imbibe it."
+msgstr "この強い飲み物は、タムリエルの艦隊全てで禁止されている数少ない飲み物である。この飲み物が船の甲板のタールから出来ているという噂は間違っているが、飲んだ者から合理的な思考を奪う"

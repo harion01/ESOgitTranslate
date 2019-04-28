@@ -1,0 +1,439 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-58879
+msgctxt "132143172-0-58879"
+msgid "Maul enemies in front of you with your tainted claws, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nHeals you for <<4>> of the Disease Damage done."
+msgstr ""
+"부패한 발톱으로 전방에 있는 적들의 살을 찢습니다. <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다."
+"\n"
+""
+"\n"
+"입힌 질병 피해의 <<4>>만큼 자신의 체력을 회복합니다."
+
+#: 198758357-0-58879
+msgctxt "198758357-0-58879"
+msgid "Claws of Life"
+msgstr "Claws of Life"
+
+#: 132143172-0-58864
+msgctxt "132143172-0-58864"
+msgid "Maul enemies in front of you with your tainted claws, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nAfflicts enemies with <<4>> for <<5>>, reducing their healing received by <<6>> and Health Recovery by <<7>>."
+msgstr ""
+"부패한 발톱으로 전방에 있는 적들의 살을 찢습니다. <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다."
+"\n"
+""
+"\n"
+"피해를 입은 적에게 <<5>> 동안 <<4>> 효과를 가해, 받는 치유량을 <<6>>만큼 감소시키고 체력 회복량을 <<7>>만큼 "
+"감소시킵니다."
+
+#: 198758357-0-58864
+msgctxt "198758357-0-58864"
+msgid "Claws of Anguish"
+msgstr "Claws of Anguish"
+
+#: 132143172-0-58855
+msgctxt "132143172-0-58855"
+msgid "Maul enemies in front of you with your tainted claws, dealing <<1>> and an additional <<2>> over <<3>>."
+msgstr "부패한 발톱으로 전방에 있는 적들의 살을 찢습니다. <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다."
+
+#: 198758357-0-58855
+msgctxt "198758357-0-58855"
+msgid "Infectious Claws"
+msgstr "Infectious Claws"
+
+#: 132143172-0-58798
+msgctxt "132143172-0-58798"
+msgid "Crush enemy with a deafening howl, dealing <<1>>."
+"\n"
+"\nDeals <<2>> more damage to enemies that are feared."
+msgstr "우렁찬 울음 소리로, 대상에게 <<1>>를 입힙니다."
+"\n"
+""
+"\n"
+"공포에 질린 적에게는 <<2>>만큼의 추가 피해를 입힙니다."
+
+#: 198758357-0-58798
+msgctxt "198758357-0-58798"
+msgid "Howl of Agony"
+msgstr "Howl of Agony"
+
+#: 132143172-0-58742
+msgctxt "132143172-0-58742"
+msgid "Crush enemy with a deafening howl, dealing <<1>>."
+"\n"
+"\nAllies targeting the enemy can activate the |cffffffFeeding Frenzy|r synergy, which grants them unlimited uses of Empower for <<2>>, increasing their damage done with Light Attacks by <<3>>."
+msgstr ""
+"우렁찬 울음 소리로, 대상에게 <<1>>를 입힙니다."
+"\n"
+""
+"\n"
+"대상을 표적으로 삼는 아군은 |cffffffFeeding Frenzy|r  연계 효과를 발동시킬 수 있습니다. 발동 시 <<2>> 동안 "
+"해당 아군의 약공격 피해량이 <<3>>만큼 증가합니다."
+"\n"
+
+#: 198758357-0-58742
+msgctxt "198758357-0-58742"
+msgid "Howl of Despair"
+msgstr "Howl of Despair"
+
+#: 132143172-0-58405
+msgctxt "132143172-0-58405"
+msgid "Crush enemy with a deafening howl, dealing <<1>>."
+msgstr "우렁찬 울음 소리로, 대상에게 <<1>>를 입힙니다."
+"\n"
+
+#: 198758357-0-58405
+msgctxt "198758357-0-58405"
+msgid "Piercing Howl"
+msgstr "Piercing Howl"
+
+#: 132143172-0-58325
+msgctxt "132143172-0-58325"
+msgid "Invoke the Huntsman's blessing, healing you for <<1>> of your Max Health."
+msgstr "사냥꾼의 축복을 받아, 최대 체력의 <<1>>만큼 회복합니다."
+"\n"
+
+#: 198758357-0-58325
+msgctxt "198758357-0-58325"
+msgid "Hircine's Fortitude"
+msgstr "Hircine's Fortitude"
+
+#: 132143172-0-58317
+msgctxt "132143172-0-58317"
+msgid "Invoke the Huntsman's blessing, healing you for <<1>> of your Max Health and granting you Major Brutality, increasing your Weapon Damage by <<2>> for <<3>>."
+msgstr ""
+"사냥꾼의 축복을 받아, 자신의 체력을 <<1>>만큼 회복하고 Major Brutality 효과를 얻어, <<3>> 동안 무기 피해량이 "
+"<<2>>만큼 증가합니다."
+"\n"
+
+#: 198758357-0-58317
+msgctxt "198758357-0-58317"
+msgid "Hircine's Rage"
+msgstr "Hircine's Rage"
+
+#: 132143172-0-58310
+msgctxt "132143172-0-58310"
+msgid "Invoke the Huntsman's blessing, healing you for <<1>> of your Max Health."
+msgstr "사냥꾼의 축복을 받아, 최대 체력의 <<1>>만큼 회복합니다."
+"\n"
+
+#: 198758357-0-58310
+msgctxt "198758357-0-58310"
+msgid "Hircine's Bounty"
+msgstr "Hircine's Bounty"
+
+#: 132143172-0-46142
+msgctxt "132143172-0-46142"
+msgid "Increases your Movement Speed by <<1>>."
+"\n"
+"\nIncreases the Stamina your Heavy Attacks restore by |cffffff50|r%."
+msgstr "이동 속도가 <<1>> 만큼 증가합니다."
+"\n"
+""
+"\n"
+"강공격에 의해 회복되는 스테미나 양이 |cffffff50|r% 만큼 증가합니다."
+
+#: 198758357-0-46142
+msgctxt "198758357-0-46142"
+msgid "Pursuit"
+msgstr "Pursuit"
+
+#: 132143172-0-46139
+msgctxt "132143172-0-46139"
+msgid "Increases your Weapon Damage by <<1>>."
+"\n"
+"\nIncreases your Spell and Physical Resistance by <<2>>."
+msgstr "이동 속도가 <<1>> 만큼 증가합니다."
+"\n"
+""
+"\n"
+"물리 및 마법 방어력이 <<2>> 만큼 증가합니다."
+
+#: 198758357-0-46139
+msgctxt "198758357-0-46139"
+msgid "Savage Strength"
+msgstr "Savage Strength"
+
+#: 132143172-0-46137
+msgctxt "132143172-0-46137"
+msgid "Reduces the cost of remaining in your Werewolf Transformation by |cffffff20|r% for each transformed werewolf in your group, including yourself, up to a maximum of |cffffff80|r%."
+msgstr ""
+"자신을 포함해, 그룹에 있는 변신한 늑대인간 한 명당, 남아 있는 늑대인간 변신의 소모량이 |cffffff20|r%만큼 감소합니다. 최대 "
+"|cffffff80|r%까지 감소합니다."
+
+#: 198758357-0-46137
+msgctxt "198758357-0-46137"
+msgid "Call of the Pack"
+msgstr "Call of the Pack"
+
+#: 132143172-0-46135
+msgctxt "132143172-0-46135"
+msgid "When you deal damage, the duration of your Werewolf Transformation is increased by |cffffff4|r seconds. This effect can occur once every <<1>>."
+msgstr ""
+"피해를 입힐 때마다 늑대인간 변신의 지속 시간이 |cffffff4|r초 만큼 증가합니다. 이 효과는 <<1>>에 한 번만 발동합니다."
+"\n"
+
+#: 198758357-0-46135
+msgctxt "198758357-0-46135"
+msgid "Blood Rage"
+msgstr "Blood Rage"
+
+#: 132143172-0-39114
+msgctxt "132143172-0-39114"
+msgid "Roar with bloodlust to terrify up to |cffffff6|r nearby enemies, fearing them for <<1>> and applying Major Fracture to them, reducing their Physical Resistance by <<2>> for <<3>>."
+msgstr ""
+"피를 갈망하는 외침으로 주변에 있는 최대 |cffffff6|r명의 적을 겁에 질리게 합니다. 영향을 받은 적은 <<1>> 동안 공포에 "
+"질리고, Major Fracture 효과를 받아, 물리 방어력이 <<3>> 동안 <<2>> 감소합니다."
+"\n"
+
+#: 198758357-0-39114
+msgctxt "198758357-0-39114"
+msgid "Deafening Roar"
+msgstr "Deafening Roar"
+
+#: 132143172-0-39113
+msgctxt "132143172-0-39113"
+msgid "Roar with bloodlust to terrify up to |cffffff6|r nearby enemies, fearing them for <<1>> and setting them Off Balance for <<2>>."
+msgstr ""
+"피를 갈망하는 외침으로 주변에 있는 최대 |cffffff6|r명의 적을 겁에 질리게 합니다. 영향을 받은 적은 <<1>> 동안 공포에 "
+"질리고, <<2>> 동안 균형을 잃습니다."
+"\n"
+
+#: 198758357-0-39113
+msgctxt "198758357-0-39113"
+msgid "Ferocious Roar"
+msgstr "Ferocious Roar"
+
+#: 132143172-0-39105
+msgctxt "132143172-0-39105"
+msgid "Pounce on an enemy with primal fury, dealing <<1>> to them and an additional <<2>> to other nearby enemies."
+msgstr "야성의 분노로 적들을 덮쳐 <<1>>를 입히고, 추가로 근처 적들에게 <<2>> 를 입힙니다."
+"\n"
+
+#: 198758357-0-39105
+msgctxt "198758357-0-39105"
+msgid "Brutal Pounce"
+msgstr "Brutal Pounce"
+
+#: 132143172-0-39104
+msgctxt "132143172-0-39104"
+msgid "Pounce on an enemy with primal fury, dealing <<1>>. "
+"\n"
+"\nPouncing from at least |cffffff10|r meters away adds <<2>> to the duration of your Werewolf Transformation."
+msgstr ""
+"야성의 분노로 적들을 덮쳐 <<1>>를 입힙니다."
+"\n"
+""
+"\n"
+"|cffffff10|r미터보다 멀리에 있는 대상을 덮치면, 늑대인간 변신의 지속 시간이 <<2>> 초만큼 증가합니다."
+"\n"
+""
+"\n"
+
+#: 198758357-0-39104
+msgctxt "198758357-0-39104"
+msgid "Feral Pounce"
+msgstr "Feral Pounce"
+
+#: 132143172-0-39076
+msgctxt "132143172-0-39076"
+msgid "Transform into a beast, fearing nearby enemies for <<1>>. "
+"\n"
+"\nWhile transformed, your Light Attacks apply a bleed for <<2>> over <<3>>, your Heavy Attacks deal |cffffff50|r% splash damage, and your Max Stamina is increased by <<4>>"
+"\n"
+"\nWhile slotted, your Stamina Recovery is increased by <<5>>."
+msgstr ""
+"야수로 변신하여, 주변의 적을 <1>> 동안 공포에 질리게 합니다. "
+"\n"
+""
+"\n"
+"변신한 상태에서는, 약공격이 적에게 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 입히고, 강공격이 |cffffff50|r% 범위 위 공격 "
+"효과를 가지며 최대 스테미나가 <<4>> 만큼 증가합니다."
+"\n"
+""
+"\n"
+"슬롯에 장착 시 스태미나 재생이 <<5>>만큼 증가합니다."
+
+#: 198758357-0-39076
+msgctxt "198758357-0-39076"
+msgid "Werewolf Berserker"
+msgstr "Werewolf Berserker"
+
+#: 132143172-0-39075
+msgctxt "132143172-0-39075"
+msgid "Transform into a beast, fearing nearby enemies for <<1>>. "
+"\n"
+"\nWhile transformed, your Light Attacks apply a bleed for <<2>> over <<3>>, your Heavy Attacks deal |cffffff50|r% splash damage, and your Max Stamina is increased by <<4>>."
+"\n"
+"\nSummon two direwolves while transformed. If killed, they return after <<5>>."
+"\n"
+"\nWhile slotted, your Stamina Recovery is increased by <<6>>."
+msgstr ""
+"야수로 변신하여, 주변의 적을 <1>> 동안 공포에 질리게 합니다. "
+"\n"
+""
+"\n"
+"변신한 상태에서는, 약공격이 적에게 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 입히고, 강공격이 |cffffff50|r% 범위 위 공격 "
+"효과를 가지며 최대 스테미나가 <<4>> 만큼 증가합니다."
+"\n"
+""
+"\n"
+"변신 시간 동안 두마리의 동료 늑대를 소환합니다. 늑대가 죽을경우, <<5>> 초 후에 돌아옵니다."
+"\n"
+""
+"\n"
+"슬롯에 장착 시 스태미나 재생이 <<6>>만큼 증가합니다."
+
+#: 198758357-0-39075
+msgctxt "198758357-0-39075"
+msgid "Pack Leader"
+msgstr "Pack Leader"
+
+#: 132143172-0-32641
+msgctxt "132143172-0-32641"
+msgid "Reduces the cost of remaining in your Werewolf Transformation by |cffffff10|r% for each transformed werewolf in your group, including yourself, up to a maximum of |cffffff40|r%."
+msgstr ""
+"자신을 포함해, 그룹에 있는 변신한 늑대인간 한 명당, 남아 있는 늑대인간 변신의 소모량이 |cffffff10|r%만큼 감소합니다. 최대 "
+"|cffffff40|r%까지 감소합니다."
+
+#: 198758357-0-32641
+msgctxt "198758357-0-32641"
+msgid "Call of the Pack"
+msgstr "Call of the Pack"
+
+#: 132143172-0-32639
+msgctxt "132143172-0-32639"
+msgid "Allows you to infect another player with Lycanthropy once every |cffffff7|r days by returning to the Werewolf ritual site. "
+"\n"
+"\nPlayers already infected with Sanguinare Vampiris cannot be infected with Lycanthropy."
+msgstr ""
+"|cffffff7|r일에 한 번 늑대인간 성소에 돌아오는 것으로, 다른 플레이어를 늑대인간 질병에 걸리게 할 수 있습니다."
+"\n"
+""
+"\n"
+"이미 뱀파이어 질병에 걸린 플레이어는 늑대인간 질병에 걸릴 수 없습니다."
+
+#: 198758357-0-32639
+msgctxt "198758357-0-32639"
+msgid "Bloodmoon"
+msgstr "Bloodmoon"
+
+#: 132143172-0-32638
+msgctxt "132143172-0-32638"
+msgid "Increases your Weapon Damage by <<1>>."
+"\n"
+"\nIncreases your Spell and Physical Resistance by <<2>>."
+msgstr "무기 피해량이 <<1>>만큼 증가하고 물리 및 마법 저항력이 <<2>>만큼 증가합니다."
+"\n"
+
+#: 198758357-0-32638
+msgctxt "198758357-0-32638"
+msgid "Savage Strength"
+msgstr "Savage Strength"
+
+#: 132143172-0-32637
+msgctxt "132143172-0-32637"
+msgid "When you deal damage, the duration of your Werewolf Transformation is increased by |cffffff2|r seconds. This effect can occur once every <<1>>."
+msgstr ""
+"피해를 입힐 때마다 늑대인간 변신의 지속 시간이 |cffffff2|r초 만큼 증가합니다. 이 효과는 <<1>>에 한 번만 발동합니다."
+"\n"
+
+#: 198758357-0-32637
+msgctxt "198758357-0-32637"
+msgid "Blood Rage"
+msgstr "Blood Rage"
+
+#: 132143172-0-32636
+msgctxt "132143172-0-32636"
+msgid "Increases your Movement Speed by <<1>>."
+"\n"
+"\nIncreases the Stamina your Heavy Attacks restore by |cffffff25|r%."
+msgstr "이동 속도가 <<1>> 만큼 증가합니다."
+"\n"
+""
+"\n"
+"강공격에 의해 회복되는 스테미나 양이 |cffffff25|r% 만큼 증가합니다."
+
+#: 198758357-0-32636
+msgctxt "198758357-0-32636"
+msgid "Pursuit"
+msgstr "Pursuit"
+
+#: 132143172-0-32634
+msgctxt "132143172-0-32634"
+msgid "Allows you to devour corpses to increase the duration of your Werewolf Transformation and restore your Health."
+"\n"
+"\nEvery second you spend devouring a corpse adds |cffffff3|r seconds to the duration of your Werewolf Transformation and restores |cffffff8|r% of your Max Health. Each corpse can be devoured for up to |cffffff4|r seconds."
+msgstr ""
+"시체를 먹어 치울 경우 늑대인간 변신의 지속 시간이 증가하며 체력을 회복합니다."
+"\n"
+""
+"\n"
+"시체를 먹는 동안 매 초마다 늑대인간의 변신 지속 시간이  |cffffff3|r 초 증가하고, 최대 체력의 |cffffff8|r% 만큼 "
+"회복합니다. 각 시체는 |cffffff4|r초에 한번씩 먹을 수 있습니다."
+
+#: 198758357-0-32634
+msgctxt "198758357-0-32634"
+msgid "Devour"
+msgstr "Devour"
+
+#: 132143172-0-32633
+msgctxt "132143172-0-32633"
+msgid "Roar with bloodlust to terrify up to |cffffff6|r nearby enemies, fearing them for <<1>>."
+msgstr "피를 갈망하는 외침으로 주변에 있는 최대 |cffffff6|r명의 적을 <<1>> 동안 겁에 질리게 합니다. "
+"\n"
+
+#: 198758357-0-32633
+msgctxt "198758357-0-32633"
+msgid "Roar"
+msgstr "Roar"
+
+#: 132143172-0-32632
+msgctxt "132143172-0-32632"
+msgid "Pounce on an enemy with primal fury, dealing <<1>>."
+msgstr "야성의 분노로 적을 덮쳐 <<1>>를 입힙니다."
+"\n"
+
+#: 198758357-0-32632
+msgctxt "198758357-0-32632"
+msgid "Pounce"
+msgstr "Pounce"
+
+#: 132143172-0-32455
+msgctxt "132143172-0-32455"
+msgid "Transform into a beast, fearing nearby enemies for <<1>>. "
+"\n"
+"\nWhile transformed, your Light Attacks apply a bleed for <<2>> over <<3>>, your Heavy Attacks deal |cffffff50|r% splash damage, and your Max Stamina is increased by <<4>>"
+"\n"
+"\nWhile slotted, your Stamina Recovery is increased by <<5>>."
+msgstr ""
+"야수로 변신하여, 주변의 적을 <1>> 동안 공포에 질리게 합니다. "
+"\n"
+""
+"\n"
+"변신한 상태에서는, 약공격이 적에게 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 입히고, 강공격이 |cffffff50|r% 범위 위 공격 "
+"효과를 가지며 최대 스테미나가 <<4>> 만큼 증가합니다."
+"\n"
+""
+"\n"
+"슬롯에 장착 시 스테미나 재생이 <<5>> 만큼 증가합니다."
+
+#: 198758357-0-32455
+msgctxt "198758357-0-32455"
+msgid "Werewolf Transformation"
+msgstr "Werewolf Transformation"

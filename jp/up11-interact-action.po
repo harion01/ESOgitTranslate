@@ -1,0 +1,4847 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 12912341-0-74227
+msgctxt "12912341-0-74227"
+msgid "Take"
+msgstr "取る"
+
+#: 12912341-0-74226
+msgctxt "12912341-0-74226"
+msgid "Take"
+msgstr "取る"
+
+#: 263004526-0-74046
+msgctxt "263004526-0-74046"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 12912341-0-73961
+msgctxt "12912341-0-73961"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-73738
+msgctxt "263004526-0-73738"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 12912341-0-73701
+msgctxt "12912341-0-73701"
+msgid "Talk"
+msgstr "Talk"
+
+#: 263004526-0-73701
+msgctxt "263004526-0-73701"
+msgid "Talk"
+msgstr "Talk"
+
+#: 12912341-0-73472
+msgctxt "12912341-0-73472"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-68653
+msgctxt "263004526-0-68653"
+msgid "Talking …"
+msgstr "会話中…"
+
+#: 7949764-0-53050
+msgctxt "7949764-0-53050"
+msgid "Find Mabkir"
+msgstr "マブキルを探す"
+
+#: 108533454-0-21248
+msgctxt "108533454-0-21248"
+msgid "Examining…."
+msgstr "調査中…"
+
+#: 74865733-0-21247
+msgctxt "74865733-0-21247"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21247
+msgctxt "108533454-0-21247"
+msgid "Examining…."
+msgstr "調査中…"
+
+#: 74865733-0-21246
+msgctxt "74865733-0-21246"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21246
+msgctxt "108533454-0-21246"
+msgid "Examining…."
+msgstr "調査中…"
+
+#: 74865733-0-21245
+msgctxt "74865733-0-21245"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21245
+msgctxt "108533454-0-21245"
+msgid "Examining…."
+msgstr "調査中…"
+
+#: 74865733-0-21243
+msgctxt "74865733-0-21243"
+msgid "Eat"
+msgstr "食べる"
+
+#: 108533454-0-21239
+msgctxt "108533454-0-21239"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-21219
+msgctxt "74865733-0-21219"
+msgid "Light"
+msgstr "発光"
+
+#: 108533454-0-21163
+msgctxt "108533454-0-21163"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-21162
+msgctxt "74865733-0-21162"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-21162
+msgctxt "108533454-0-21162"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-21161
+msgctxt "74865733-0-21161"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-21161
+msgctxt "108533454-0-21161"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-21156
+msgctxt "74865733-0-21156"
+msgid "Collect"
+msgstr "集める"
+
+#: 108533454-0-21156
+msgctxt "108533454-0-21156"
+msgid "0"
+msgstr "0-G-"
+
+#: 74865733-0-21154
+msgctxt "74865733-0-21154"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-21135
+msgctxt "108533454-0-21135"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-21134
+msgctxt "74865733-0-21134"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21134
+msgctxt "108533454-0-21134"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 108533454-0-21133
+msgctxt "108533454-0-21133"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21129
+msgctxt "108533454-0-21129"
+msgid "Examining..."
+msgstr "調査中…"
+
+#: 74865733-0-21128
+msgctxt "74865733-0-21128"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-21128
+msgctxt "108533454-0-21128"
+msgid "Burning …"
+msgstr "燃やしている…"
+
+#: 74865733-0-21127
+msgctxt "74865733-0-21127"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-21127
+msgctxt "108533454-0-21127"
+msgid "Burning …"
+msgstr "燃やしている…"
+
+#: 74865733-0-21122
+msgctxt "74865733-0-21122"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-21122
+msgctxt "108533454-0-21122"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 74865733-0-21120
+msgctxt "74865733-0-21120"
+msgid "Place"
+msgstr "Place"
+
+#: 108533454-0-21120
+msgctxt "108533454-0-21120"
+msgid "Placing …"
+msgstr "Placing …"
+
+#: 74865733-0-21119
+msgctxt "74865733-0-21119"
+msgid "Place"
+msgstr "Place"
+
+#: 108533454-0-21119
+msgctxt "108533454-0-21119"
+msgid "Placing …"
+msgstr "Placing …"
+
+#: 74865733-0-21118
+msgctxt "74865733-0-21118"
+msgid "Place"
+msgstr "Place"
+
+#: 108533454-0-21118
+msgctxt "108533454-0-21118"
+msgid "Placing …"
+msgstr "Placing …"
+
+#: 74865733-0-21117
+msgctxt "74865733-0-21117"
+msgid "Place"
+msgstr "Place"
+
+#: 108533454-0-21117
+msgctxt "108533454-0-21117"
+msgid "Placing …"
+msgstr "Placing …"
+
+#: 74865733-0-21116
+msgctxt "74865733-0-21116"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-21116
+msgctxt "108533454-0-21116"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 74865733-0-21114
+msgctxt "74865733-0-21114"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-21114
+msgctxt "108533454-0-21114"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 74865733-0-21109
+msgctxt "74865733-0-21109"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-21109
+msgctxt "108533454-0-21109"
+msgid "Destroying…"
+msgstr "破壊中…"
+
+#: 74865733-0-21106
+msgctxt "74865733-0-21106"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-21106
+msgctxt "108533454-0-21106"
+msgid "Opening …"
+msgstr "開けている…"
+
+#: 74865733-0-21105
+msgctxt "74865733-0-21105"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-21105
+msgctxt "108533454-0-21105"
+msgid "Opening …"
+msgstr "開けている…"
+
+#: 74865733-0-21104
+msgctxt "74865733-0-21104"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-21104
+msgctxt "108533454-0-21104"
+msgid "Opening …"
+msgstr "開けている…"
+
+#: 74865733-0-21103
+msgctxt "74865733-0-21103"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-21103
+msgctxt "108533454-0-21103"
+msgid "Opening …"
+msgstr "開けている…"
+
+#: 74865733-0-21101
+msgctxt "74865733-0-21101"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-21101
+msgctxt "108533454-0-21101"
+msgid "Opening …"
+msgstr "開けている…"
+
+#: 74865733-0-21100
+msgctxt "74865733-0-21100"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-21100
+msgctxt "108533454-0-21100"
+msgid "Searching …"
+msgstr "調査中…"
+
+#: 74865733-0-21099
+msgctxt "74865733-0-21099"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-21099
+msgctxt "108533454-0-21099"
+msgid "Searching …"
+msgstr "調査中…"
+
+#: 74865733-0-21098
+msgctxt "74865733-0-21098"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-21098
+msgctxt "108533454-0-21098"
+msgid "Searching …"
+msgstr "調査中…"
+
+#: 74865733-0-21097
+msgctxt "74865733-0-21097"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-21097
+msgctxt "108533454-0-21097"
+msgid "Opening …"
+msgstr "開けている…"
+
+#: 74865733-0-21089
+msgctxt "74865733-0-21089"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21089
+msgctxt "108533454-0-21089"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-21087
+msgctxt "74865733-0-21087"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-21087
+msgctxt "108533454-0-21087"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-21083
+msgctxt "74865733-0-21083"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-21083
+msgctxt "108533454-0-21083"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-21082
+msgctxt "74865733-0-21082"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-21082
+msgctxt "108533454-0-21082"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-21081
+msgctxt "74865733-0-21081"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-21081
+msgctxt "108533454-0-21081"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-21077
+msgctxt "74865733-0-21077"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-21077
+msgctxt "108533454-0-21077"
+msgid "Activating …"
+msgstr "起動中…"
+
+#: 74865733-0-21076
+msgctxt "74865733-0-21076"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-21076
+msgctxt "108533454-0-21076"
+msgid "Activating …"
+msgstr "起動中…"
+
+#: 74865733-0-21075
+msgctxt "74865733-0-21075"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-21075
+msgctxt "108533454-0-21075"
+msgid "Activating …"
+msgstr "起動中…"
+
+#: 74865733-0-21074
+msgctxt "74865733-0-21074"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21074
+msgctxt "108533454-0-21074"
+msgid "Examining..."
+msgstr "調査中…"
+
+#: 74865733-0-21073
+msgctxt "74865733-0-21073"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21073
+msgctxt "108533454-0-21073"
+msgid "Examining..."
+msgstr "調査中…"
+
+#: 108533454-0-21069
+msgctxt "108533454-0-21069"
+msgid "Searching…."
+msgstr "Searching…."
+
+#: 108533454-0-21068
+msgctxt "108533454-0-21068"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-21067
+msgctxt "74865733-0-21067"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21067
+msgctxt "108533454-0-21067"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-21066
+msgctxt "74865733-0-21066"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21066
+msgctxt "108533454-0-21066"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-21065
+msgctxt "74865733-0-21065"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21065
+msgctxt "108533454-0-21065"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 108533454-0-21063
+msgctxt "108533454-0-21063"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21057
+msgctxt "108533454-0-21057"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-21056
+msgctxt "74865733-0-21056"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-21056
+msgctxt "108533454-0-21056"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-21055
+msgctxt "74865733-0-21055"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-21055
+msgctxt "108533454-0-21055"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-21054
+msgctxt "74865733-0-21054"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-21054
+msgctxt "108533454-0-21054"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-21053
+msgctxt "74865733-0-21053"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-21053
+msgctxt "108533454-0-21053"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-21051
+msgctxt "74865733-0-21051"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-21051
+msgctxt "108533454-0-21051"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-21050
+msgctxt "74865733-0-21050"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-21050
+msgctxt "108533454-0-21050"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 108533454-0-21049
+msgctxt "108533454-0-21049"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21047
+msgctxt "108533454-0-21047"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 108533454-0-21045
+msgctxt "108533454-0-21045"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21034
+msgctxt "108533454-0-21034"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-21031
+msgctxt "74865733-0-21031"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21014
+msgctxt "108533454-0-21014"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20983
+msgctxt "74865733-0-20983"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20983
+msgctxt "108533454-0-20983"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20982
+msgctxt "74865733-0-20982"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-20976
+msgctxt "108533454-0-20976"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20974
+msgctxt "74865733-0-20974"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20974
+msgctxt "108533454-0-20974"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20972
+msgctxt "74865733-0-20972"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20972
+msgctxt "108533454-0-20972"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20971
+msgctxt "74865733-0-20971"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20971
+msgctxt "108533454-0-20971"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20970
+msgctxt "74865733-0-20970"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20970
+msgctxt "108533454-0-20970"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20969
+msgctxt "74865733-0-20969"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20969
+msgctxt "108533454-0-20969"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20968
+msgctxt "74865733-0-20968"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20968
+msgctxt "108533454-0-20968"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20967
+msgctxt "74865733-0-20967"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20967
+msgctxt "108533454-0-20967"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20956
+msgctxt "74865733-0-20956"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-20956
+msgctxt "108533454-0-20956"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-20954
+msgctxt "74865733-0-20954"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-20953
+msgctxt "108533454-0-20953"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-20948
+msgctxt "74865733-0-20948"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-20948
+msgctxt "108533454-0-20948"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 108533454-0-20928
+msgctxt "108533454-0-20928"
+msgid "Spike Head"
+msgstr "スパイクヘッド"
+
+#: 108533454-0-20926
+msgctxt "108533454-0-20926"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20925
+msgctxt "74865733-0-20925"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-20925
+msgctxt "108533454-0-20925"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20924
+msgctxt "74865733-0-20924"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-20924
+msgctxt "108533454-0-20924"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20913
+msgctxt "74865733-0-20913"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20913
+msgctxt "108533454-0-20913"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20912
+msgctxt "74865733-0-20912"
+msgid "Talk"
+msgstr "話す"
+
+#: 108533454-0-20912
+msgctxt "108533454-0-20912"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 74865733-0-20911
+msgctxt "74865733-0-20911"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20910
+msgctxt "108533454-0-20910"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20909
+msgctxt "74865733-0-20909"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20909
+msgctxt "108533454-0-20909"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20900
+msgctxt "74865733-0-20900"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20898
+msgctxt "108533454-0-20898"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-20897
+msgctxt "74865733-0-20897"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-20897
+msgctxt "108533454-0-20897"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-20893
+msgctxt "74865733-0-20893"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20893
+msgctxt "108533454-0-20893"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20892
+msgctxt "74865733-0-20892"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-20892
+msgctxt "108533454-0-20892"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-20881
+msgctxt "74865733-0-20881"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20875
+msgctxt "108533454-0-20875"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20874
+msgctxt "74865733-0-20874"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20874
+msgctxt "108533454-0-20874"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20866
+msgctxt "74865733-0-20866"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20866
+msgctxt "108533454-0-20866"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20865
+msgctxt "74865733-0-20865"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20865
+msgctxt "108533454-0-20865"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20864
+msgctxt "74865733-0-20864"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20864
+msgctxt "108533454-0-20864"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20863
+msgctxt "74865733-0-20863"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20863
+msgctxt "108533454-0-20863"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 108533454-0-20862
+msgctxt "108533454-0-20862"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-20861
+msgctxt "108533454-0-20861"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20860
+msgctxt "74865733-0-20860"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20860
+msgctxt "108533454-0-20860"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20857
+msgctxt "74865733-0-20857"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20857
+msgctxt "108533454-0-20857"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20850
+msgctxt "74865733-0-20850"
+msgid "Summon"
+msgstr "召喚"
+
+#: 108533454-0-20834
+msgctxt "108533454-0-20834"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20821
+msgctxt "74865733-0-20821"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20821
+msgctxt "108533454-0-20821"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20817
+msgctxt "74865733-0-20817"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20817
+msgctxt "108533454-0-20817"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20816
+msgctxt "74865733-0-20816"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20816
+msgctxt "108533454-0-20816"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20815
+msgctxt "74865733-0-20815"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20815
+msgctxt "108533454-0-20815"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20814
+msgctxt "74865733-0-20814"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20814
+msgctxt "108533454-0-20814"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20813
+msgctxt "74865733-0-20813"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-20813
+msgctxt "108533454-0-20813"
+msgid "Destroying…"
+msgstr "破壊中…"
+
+#: 74865733-0-20812
+msgctxt "74865733-0-20812"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-20812
+msgctxt "108533454-0-20812"
+msgid "Destroying…"
+msgstr "破壊中…"
+
+#: 74865733-0-20809
+msgctxt "74865733-0-20809"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20809
+msgctxt "108533454-0-20809"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20808
+msgctxt "74865733-0-20808"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20808
+msgctxt "108533454-0-20808"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20807
+msgctxt "74865733-0-20807"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20807
+msgctxt "108533454-0-20807"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20803
+msgctxt "74865733-0-20803"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-20803
+msgctxt "108533454-0-20803"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20802
+msgctxt "74865733-0-20802"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-20802
+msgctxt "108533454-0-20802"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20801
+msgctxt "74865733-0-20801"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-20801
+msgctxt "108533454-0-20801"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20794
+msgctxt "74865733-0-20794"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-20794
+msgctxt "108533454-0-20794"
+msgid "Destroying …"
+msgstr "破壊中…"
+
+#: 74865733-0-20791
+msgctxt "74865733-0-20791"
+msgid "Enter"
+msgstr "入る"
+
+#: 108533454-0-20786
+msgctxt "108533454-0-20786"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20784
+msgctxt "74865733-0-20784"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20784
+msgctxt "108533454-0-20784"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20783
+msgctxt "74865733-0-20783"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20783
+msgctxt "108533454-0-20783"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20782
+msgctxt "74865733-0-20782"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20782
+msgctxt "108533454-0-20782"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20780
+msgctxt "74865733-0-20780"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20780
+msgctxt "108533454-0-20780"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20779
+msgctxt "74865733-0-20779"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20779
+msgctxt "108533454-0-20779"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20778
+msgctxt "74865733-0-20778"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20778
+msgctxt "108533454-0-20778"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20777
+msgctxt "74865733-0-20777"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20777
+msgctxt "108533454-0-20777"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20776
+msgctxt "74865733-0-20776"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20776
+msgctxt "108533454-0-20776"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20775
+msgctxt "74865733-0-20775"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20775
+msgctxt "108533454-0-20775"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20774
+msgctxt "74865733-0-20774"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20774
+msgctxt "108533454-0-20774"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20773
+msgctxt "74865733-0-20773"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20773
+msgctxt "108533454-0-20773"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20769
+msgctxt "74865733-0-20769"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20769
+msgctxt "108533454-0-20769"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20768
+msgctxt "74865733-0-20768"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20768
+msgctxt "108533454-0-20768"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20767
+msgctxt "74865733-0-20767"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20767
+msgctxt "108533454-0-20767"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20766
+msgctxt "74865733-0-20766"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20766
+msgctxt "108533454-0-20766"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20761
+msgctxt "74865733-0-20761"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20761
+msgctxt "108533454-0-20761"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20760
+msgctxt "74865733-0-20760"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20760
+msgctxt "108533454-0-20760"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20757
+msgctxt "74865733-0-20757"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-20742
+msgctxt "108533454-0-20742"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 108533454-0-20741
+msgctxt "108533454-0-20741"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20708
+msgctxt "108533454-0-20708"
+msgid "Activating…"
+msgstr "起動中…"
+
+#: 74865733-0-20706
+msgctxt "74865733-0-20706"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-20706
+msgctxt "108533454-0-20706"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-20700
+msgctxt "74865733-0-20700"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20700
+msgctxt "108533454-0-20700"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-20699
+msgctxt "74865733-0-20699"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20699
+msgctxt "108533454-0-20699"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-20698
+msgctxt "74865733-0-20698"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20698
+msgctxt "108533454-0-20698"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-20697
+msgctxt "74865733-0-20697"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20697
+msgctxt "108533454-0-20697"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-20696
+msgctxt "74865733-0-20696"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20696
+msgctxt "108533454-0-20696"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20695
+msgctxt "74865733-0-20695"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20695
+msgctxt "108533454-0-20695"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20694
+msgctxt "74865733-0-20694"
+msgid "Read"
+msgstr "読む"
+
+#: 108533454-0-20693
+msgctxt "108533454-0-20693"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20692
+msgctxt "74865733-0-20692"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-20692
+msgctxt "108533454-0-20692"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-20691
+msgctxt "74865733-0-20691"
+msgid "Read"
+msgstr "読む"
+
+#: 108533454-0-20690
+msgctxt "108533454-0-20690"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 74865733-0-20689
+msgctxt "74865733-0-20689"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-20674
+msgctxt "108533454-0-20674"
+msgid "Using…"
+msgstr "使用中…"
+
+#: 108533454-0-20669
+msgctxt "108533454-0-20669"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20646
+msgctxt "108533454-0-20646"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-20644
+msgctxt "74865733-0-20644"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20644
+msgctxt "108533454-0-20644"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-20642
+msgctxt "74865733-0-20642"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20642
+msgctxt "108533454-0-20642"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 108533454-0-20590
+msgctxt "108533454-0-20590"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 70307621-0-2049
+msgctxt "70307621-0-2049"
+msgid "Search"
+msgstr "調査"
+
+#: 8158238-0-2047
+msgctxt "8158238-0-2047"
+msgid "Collect…"
+msgstr "集めている…"
+
+#: 70307621-0-2047
+msgctxt "70307621-0-2047"
+msgid "Collect"
+msgstr "集める"
+
+#: 8158238-0-2046
+msgctxt "8158238-0-2046"
+msgid "Collecting…"
+msgstr "集めている…"
+
+#: 70307621-0-2046
+msgctxt "70307621-0-2046"
+msgid "Collect"
+msgstr "集める"
+
+#: 12912341-0-74225
+msgctxt "12912341-0-74225"
+msgid "Take"
+msgstr "取る"
+
+#: 12912341-0-74219
+msgctxt "12912341-0-74219"
+msgid "Take"
+msgstr "取る"
+
+#: 12912341-0-74046
+msgctxt "12912341-0-74046"
+msgid "Take"
+msgstr "取る"
+
+#: 12912341-0-73738
+msgctxt "12912341-0-73738"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-73297
+msgctxt "12912341-0-73297"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-73218
+msgctxt "12912341-0-73218"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-73129
+msgctxt "12912341-0-73129"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-73128
+msgctxt "12912341-0-73128"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-72100
+msgctxt "12912341-0-72100"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-71880
+msgctxt "12912341-0-71880"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-68653
+msgctxt "12912341-0-68653"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-53049
+msgctxt "7949764-0-53049"
+msgid "Retrieve <<1>>"
+msgstr "<<1>>を手に入れる"
+
+#: 7949764-0-53048
+msgctxt "7949764-0-53048"
+msgid "Retrieve <<1>>"
+msgstr "<<1>>を手に入れる"
+
+#: 7949764-0-53047
+msgctxt "7949764-0-53047"
+msgid "Retrieve Heirlooms"
+msgstr "家宝を手に入れる"
+
+#: 7949764-0-53046
+msgctxt "7949764-0-53046"
+msgid "Find Nerandas"
+msgstr "ネランダスを探す"
+
+#: 7949764-0-53044
+msgctxt "7949764-0-53044"
+msgid "Read the Note for Clues"
+msgstr "手掛かりのメモを読む"
+
+#: 7949764-0-53043
+msgctxt "7949764-0-53043"
+msgid "Read the Note for Clues"
+msgstr "手掛かりのメモを読む"
+
+#: 7949764-0-53042
+msgctxt "7949764-0-53042"
+msgid "Read the Note for Clues"
+msgstr "手掛かりのメモを読む"
+
+#: 7949764-0-53041
+msgctxt "7949764-0-53041"
+msgid "Talk to Sun-in-Shadow in Private"
+msgstr "内密に影の中の太陽と話す"
+
+#: 7949764-0-53039
+msgctxt "7949764-0-53039"
+msgid "Deliver the Writ to Sun-in-Shadow"
+msgstr "推薦状を影の中の太陽に届ける"
+
+#: 7949764-0-53029
+msgctxt "7949764-0-53029"
+msgid "Talk to Sun-in-Shadow"
+msgstr "影の中の太陽と話す"
+
+#: 7949764-0-53016
+msgctxt "7949764-0-53016"
+msgid "Go to Esutanamus Shrine"
+msgstr "エスタナマスの祠に行く"
+
+#: 7949764-0-53014
+msgctxt "7949764-0-53014"
+msgid "Talk to Barys Rendo"
+msgstr "バリース・レンドと話す"
+
+#: 7949764-0-53012
+msgctxt "7949764-0-53012"
+msgid "Talk to Eoki or Ask Citizens in Vos"
+msgstr "エイオキと話すか、ヴォスの市民に聞く"
+
+#: 7949764-0-53011
+msgctxt "7949764-0-53011"
+msgid "Activate Levers"
+msgstr "レバーを発動させる"
+
+#: 7949764-0-53010
+msgctxt "7949764-0-53010"
+msgid "Place Trap"
+msgstr "罠を配置する"
+
+#: 7949764-0-53009
+msgctxt "7949764-0-53009"
+msgid "Place Trap"
+msgstr "罠を配置する"
+
+#: 7949764-0-53008
+msgctxt "7949764-0-53008"
+msgid "Place Trap"
+msgstr "罠を配置する"
+
+#: 7949764-0-53007
+msgctxt "7949764-0-53007"
+msgid "Place Trap"
+msgstr "罠を配置する"
+
+#: 7949764-0-53006
+msgctxt "7949764-0-53006"
+msgid "Find Her in Glenumbra"
+msgstr "グレナンブラで彼女を探す"
+
+#: 7949764-0-53005
+msgctxt "7949764-0-53005"
+msgid "Find Her in Stonefalls"
+msgstr "ストンフォールで彼女を探す"
+
+#: 7949764-0-53004
+msgctxt "7949764-0-53004"
+msgid "Find Her in Auridon"
+msgstr "オーリドンで彼女を探す"
+
+#: 7949764-0-53000
+msgctxt "7949764-0-53000"
+msgid "Eat <<1>> near the bandit leader."
+msgstr "山賊の首領の近くで<<1>>を食べる"
+
+#: 7949764-0-52999
+msgctxt "7949764-0-52999"
+msgid "Locate <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-52987
+msgctxt "7949764-0-52987"
+msgid "Show Your Appreciation to Another Player"
+msgstr "他のプレイヤーに感謝を表す"
+
+#: 7949764-0-52983
+msgctxt "7949764-0-52983"
+msgid "Enter Khartag Point"
+msgstr "カータグ・ポイントに入る"
+
+#: 7949764-0-52982
+msgctxt "7949764-0-52982"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52981
+msgctxt "7949764-0-52981"
+msgid "Show Your Appreciation"
+msgstr "感謝を表す"
+
+#: 7949764-0-52980
+msgctxt "7949764-0-52980"
+msgid "Nibble <<1>>"
+msgstr "<<1>>をしゃぶる"
+
+#: 7949764-0-52979
+msgctxt "7949764-0-52979"
+msgid "Eat Slice of <<1>>"
+msgstr "<<1>>を一切れ食べる"
+
+#: 7949764-0-52978
+msgctxt "7949764-0-52978"
+msgid "Drink Some <<1>>"
+msgstr "<<1>>を少し飲む"
+
+#: 7949764-0-52977
+msgctxt "7949764-0-52977"
+msgid "Deliver Food to <<1>>"
+msgstr "食べ物を<<1>>に届ける"
+
+#: 7949764-0-52976
+msgctxt "7949764-0-52976"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52975
+msgctxt "7949764-0-52975"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52974
+msgctxt "7949764-0-52974"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52973
+msgctxt "7949764-0-52973"
+msgid "Travel to Stonetooth Fortress on Betnikh"
+msgstr "ベトニクのストントゥース要塞へ移動する"
+
+#: 7949764-0-52971
+msgctxt "7949764-0-52971"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52970
+msgctxt "7949764-0-52970"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52969
+msgctxt "7949764-0-52969"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52947
+msgctxt "7949764-0-52947"
+msgid "Donate to the <<1>> in Grahtwood"
+msgstr "グラーウッドの<<1>>に献金する"
+
+#: 7949764-0-52945
+msgctxt "7949764-0-52945"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52944
+msgctxt "7949764-0-52944"
+msgid "Extract Archmage Camaano's Liver From His Corpse"
+msgstr "死体からアークメイジのカマーノの肝臓を手に入れる"
+
+#: 7949764-0-52943
+msgctxt "7949764-0-52943"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52939
+msgctxt "7949764-0-52939"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52938
+msgctxt "7949764-0-52938"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52937
+msgctxt "7949764-0-52937"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52934
+msgctxt "7949764-0-52934"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52933
+msgctxt "7949764-0-52933"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52932
+msgctxt "7949764-0-52932"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52931
+msgctxt "7949764-0-52931"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52930
+msgctxt "7949764-0-52930"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52929
+msgctxt "7949764-0-52929"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52928
+msgctxt "7949764-0-52928"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52927
+msgctxt "7949764-0-52927"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52919
+msgctxt "7949764-0-52919"
+msgid "Donate to the <<1>> in Grahtwood"
+msgstr "グラーウッドの<<1>>に献金する"
+
+#: 7949764-0-52918
+msgctxt "7949764-0-52918"
+msgid "Talk to <<1>> at <<A:2>> in Grahtwood"
+msgstr "グラーウッドの<<1>>で<<2>>と話す"
+
+#: 7949764-0-52912
+msgctxt "7949764-0-52912"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52911
+msgctxt "7949764-0-52911"
+msgid "Travel to <<1>>"
+msgstr "<<1>>へ行く"
+
+#: 7949764-0-52904
+msgctxt "7949764-0-52904"
+msgid "Talk To Sun-in-Shadow in the Audience Chamber"
+msgstr "接見室で影の中の太陽と話す"
+
+#: 7949764-0-52903
+msgctxt "7949764-0-52903"
+msgid "Perform With Other Players at <<1>>"
+msgstr "他のプレイヤーと<<1>>で芸を披露する"
+
+#: 7949764-0-52901
+msgctxt "7949764-0-52901"
+msgid "Perform in Alcaire Castle's Throne Room"
+msgstr "アルカイア城玉座の間で芸を披露する"
+
+#: 7949764-0-52900
+msgctxt "7949764-0-52900"
+msgid "Perform in Alcaire Castle's Square"
+msgstr "アルカイア城広場で芸を披露する"
+
+#: 7949764-0-52899
+msgctxt "7949764-0-52899"
+msgid "Perform in the Old Goat Inn"
+msgstr "年老いたヤギ亭で芸を披露する"
+
+#: 7949764-0-52891
+msgctxt "7949764-0-52891"
+msgid "Return Items to Nerise Venim"
+msgstr "品物をネリーセ・ヴェニムに返す"
+
+#: 7949764-0-52890
+msgctxt "7949764-0-52890"
+msgid "Light North Signal Fire"
+msgstr "北の狼煙に火をつける"
+
+#: 7949764-0-52889
+msgctxt "7949764-0-52889"
+msgid "Light East Signal Fire"
+msgstr "東の狼煙に火をつける"
+
+#: 7949764-0-52888
+msgctxt "7949764-0-52888"
+msgid "Light South Signal Fire"
+msgstr "南の狼煙に火をつける"
+
+#: 7949764-0-52886
+msgctxt "7949764-0-52886"
+msgid "Return to Tel Mora"
+msgstr "テル・モラに戻る"
+
+#: 7949764-0-52884
+msgctxt "7949764-0-52884"
+msgid "Enter the Portal"
+msgstr "ポータルに入る"
+
+#: 7949764-0-52883
+msgctxt "7949764-0-52883"
+msgid "Talk to Mistress Dratha"
+msgstr "ミストレス・ドラサと話す"
+
+#: 7949764-0-52881
+msgctxt "7949764-0-52881"
+msgid "Retrieve the Stones of Cold Fire"
+msgstr "冷炎石を手に入れる"
+
+#: 7949764-0-52878
+msgctxt "7949764-0-52878"
+msgid "Talk to Menwendel"
+msgstr "メンウェンデルと話す"
+
+#: 7949764-0-52877
+msgctxt "7949764-0-52877"
+msgid "Bring the Toxin Sample to Tel Mora"
+msgstr "テル・モラへ毒のサンプルを届ける"
+
+#: 7949764-0-52876
+msgctxt "7949764-0-52876"
+msgid "Find a Clue to the Toxin's Location"
+msgstr "毒の場所を示す手掛かりを探す"
+
+#: 7949764-0-52875
+msgctxt "7949764-0-52875"
+msgid "Defeat Nerandas"
+msgstr "ネランダスを倒す"
+
+#: 7949764-0-52874
+msgctxt "7949764-0-52874"
+msgid "Talk to Menwendel"
+msgstr "メンウェンデルと話す"
+
+#: 7949764-0-52873
+msgctxt "7949764-0-52873"
+msgid "Search for Menwendel"
+msgstr "メンウェンデルを探す"
+
+#: 7949764-0-52872
+msgctxt "7949764-0-52872"
+msgid "Talk to Gray-Skies"
+msgstr "灰色の空と話す"
+
+#: 7949764-0-52871
+msgctxt "7949764-0-52871"
+msgid "Go to Menwendel's Nursery"
+msgstr "メンウェンデルの種苗場に行く"
+
+#: 7949764-0-52870
+msgctxt "7949764-0-52870"
+msgid "Talk to Llayne"
+msgstr "ルレインと話す"
+
+#: 7949764-0-52868
+msgctxt "7949764-0-52868"
+msgid "Talk to Llayne"
+msgstr "ルレインと話す"
+
+#: 7949764-0-52867
+msgctxt "7949764-0-52867"
+msgid "Find Evidence of Corruption"
+msgstr "腐敗の証拠を探す"
+
+#: 7949764-0-52863
+msgctxt "7949764-0-52863"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52862
+msgctxt "7949764-0-52862"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52861
+msgctxt "7949764-0-52861"
+msgid "You failed to light the fires in time."
+msgstr "時間内に火をつけられなかった"
+
+#: 7949764-0-52860
+msgctxt "7949764-0-52860"
+msgid "Light West Signal Fire"
+msgstr "西の狼煙に火をつける"
+
+#: 7949764-0-52858
+msgctxt "7949764-0-52858"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52857
+msgctxt "7949764-0-52857"
+msgid "Travel to <<1>>"
+msgstr "<<1>>へ行く"
+
+#: 7949764-0-52854
+msgctxt "7949764-0-52854"
+msgid "Pelt an Alliance Ambassador"
+msgstr "同盟の大使に投げつける"
+
+#: 7949764-0-52853
+msgctxt "7949764-0-52853"
+msgid "Talk to Stromgruf"
+msgstr "ストロムグラフと話す"
+
+#: 7949764-0-52851
+msgctxt "7949764-0-52851"
+msgid "Find Nerise's Sword"
+msgstr "ネリーセの剣を探す"
+
+#: 7949764-0-52850
+msgctxt "7949764-0-52850"
+msgid "Recover Nerise's Pack"
+msgstr "ネリーセのバックパックを回収する"
+
+#: 7949764-0-52849
+msgctxt "7949764-0-52849"
+msgid "Defeat the Goblin Chief"
+msgstr "ゴブリンの族長を倒す"
+
+#: 7949764-0-52848
+msgctxt "7949764-0-52848"
+msgid "Locate the Goblin Camp"
+msgstr "ゴブリンのキャンプを見つける"
+
+#: 7949764-0-52847
+msgctxt "7949764-0-52847"
+msgid "Follow the Trail of Bottles"
+msgstr "儀式のボトルを追う"
+
+#: 7949764-0-52846
+msgctxt "7949764-0-52846"
+msgid "Look for Stromgruf's Trail"
+msgstr "ストロムグラフの痕跡を探す"
+
+#: 7949764-0-52845
+msgctxt "7949764-0-52845"
+msgid "Empty Mead Bottle"
+msgstr "空のハチミツ酒瓶"
+
+#: 7949764-0-52844
+msgctxt "7949764-0-52844"
+msgid "Empty Mead Bottle"
+msgstr "空のハチミツ酒瓶"
+
+#: 7949764-0-52843
+msgctxt "7949764-0-52843"
+msgid "Empty Mead Bottle"
+msgstr "空のハチミツ酒瓶"
+
+#: 7949764-0-52842
+msgctxt "7949764-0-52842"
+msgid "Empty Mead Bottle"
+msgstr "空のハチミツ酒瓶"
+
+#: 7949764-0-52841
+msgctxt "7949764-0-52841"
+msgid "Pelt Ebonheart Ambassador <<1>>"
+msgstr "エボンハート大使<<1>>に投げつける"
+
+#: 7949764-0-52840
+msgctxt "7949764-0-52840"
+msgid "Pelt Daggerfall Ambassador <<1>>"
+msgstr "ダガーフォール大使<<1>>に投げつける"
+
+#: 7949764-0-52839
+msgctxt "7949764-0-52839"
+msgid "Pelt Dominion Ambassador <<1>>"
+msgstr "ドミニオン大使<<1>>に投げつける"
+
+#: 7949764-0-52836
+msgctxt "7949764-0-52836"
+msgid "Share the Joy of Mud Balls in <<1>>"
+msgstr "<<1>>で泥玉の楽しみを分かち合う"
+
+#: 7949764-0-52835
+msgctxt "7949764-0-52835"
+msgid "Talk to Nerise Venim"
+msgstr "ネリーセ・ヴェニムと話す"
+
+#: 7949764-0-52834
+msgctxt "7949764-0-52834"
+msgid "Dance With Other Players at any Stonefalls Tavern"
+msgstr "ストンフォールのどこかの酒場で他のプレイヤーと踊る"
+
+#: 7949764-0-52832
+msgctxt "7949764-0-52832"
+msgid "Dance At Hlaalu House in Ebonheart"
+msgstr "エボンハートのフラールの家で踊る"
+
+#: 7949764-0-52831
+msgctxt "7949764-0-52831"
+msgid "Dance at the Ebony Flask in Ebonheart"
+msgstr "エボンハートの黒檀のフラスコで踊る"
+
+#: 7949764-0-52830
+msgctxt "7949764-0-52830"
+msgid "Dance At the Fish Stink in Davon's Watch"
+msgstr "ダボンズ・ウォッチのフィッシュスティンクで踊る"
+
+#: 7949764-0-52829
+msgctxt "7949764-0-52829"
+msgid "Dance at the Watch House Inn in Davon's Watch"
+msgstr "ダボンズ・ウォッチのウォッチハウス宿屋で踊る"
+
+#: 7949764-0-52827
+msgctxt "7949764-0-52827"
+msgid "Give <<1>> to <<2>>"
+msgstr "<<1>>を<<2>>に渡す"
+
+#: 7949764-0-52826
+msgctxt "7949764-0-52826"
+msgid "Trade Shells to <<1>>"
+msgstr "<<1>>と殻を取引する"
+
+#: 7949764-0-52824
+msgctxt "7949764-0-52824"
+msgid "Steal <<1>>'s <<2>>"
+msgstr "<<1>>の<<2>>を盗む"
+
+#: 7949764-0-52823
+msgctxt "7949764-0-52823"
+msgid "Agree to Buy Tirwin for <<1>>"
+msgstr "<<1>>のためにティルウィンを買うことに同意する"
+
+#: 7949764-0-52822
+msgctxt "7949764-0-52822"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52821
+msgctxt "7949764-0-52821"
+msgid "Collect <<1>>s"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52820
+msgctxt "7949764-0-52820"
+msgid "Tell <<1>> His Mother's Price for <<2>>"
+msgstr "<<1>>に、彼の母親が<<2>>につけた値段を伝える"
+
+#: 7949764-0-52819
+msgctxt "7949764-0-52819"
+msgid "Talk to Faras Givyn"
+msgstr "ファラス・ギヴィンと話す"
+
+#: 7949764-0-52816
+msgctxt "7949764-0-52816"
+msgid "You left <<1>>."
+msgstr "<<1>>を去った"
+
+#: 7949764-0-52810
+msgctxt "7949764-0-52810"
+msgid "Search for the Witch"
+msgstr "魔女を探す"
+
+#: 7949764-0-52808
+msgctxt "7949764-0-52808"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52807
+msgctxt "7949764-0-52807"
+msgid "Present Coins to <<1>>"
+msgstr "コインを<<1>>に見せる"
+
+#: 7949764-0-52806
+msgctxt "7949764-0-52806"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52805
+msgctxt "7949764-0-52805"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52804
+msgctxt "7949764-0-52804"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52803
+msgctxt "7949764-0-52803"
+msgid "You ran out of time."
+msgstr "時間切れ"
+
+#: 7949764-0-52801
+msgctxt "7949764-0-52801"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52800
+msgctxt "7949764-0-52800"
+msgid "Travel to <<1>> in Reaper's March"
+msgstr "リーパーズ・マーチの<<1>>へ移動する"
+
+#: 7949764-0-52798
+msgctxt "7949764-0-52798"
+msgid "Rescue <<1>>"
+msgstr "<<1>>を救出する"
+
+#: 7949764-0-52797
+msgctxt "7949764-0-52797"
+msgid "Find a Way to Access the Central Chamber"
+msgstr "中央の部屋への道を探す"
+
+#: 7949764-0-52796
+msgctxt "7949764-0-52796"
+msgid "Enter Zaintiraris"
+msgstr "ザインティラリスに入る"
+
+#: 7949764-0-52794
+msgctxt "7949764-0-52794"
+msgid "Investigate Cambray Hills Dolmen"
+msgstr "カンブレイ・ヒルズのドルメンを調査する"
+
+#: 7949764-0-52793
+msgctxt "7949764-0-52793"
+msgid "Investigate King's Guard Dolmen"
+msgstr "キングズガードのドルメンを調査する"
+
+#: 7949764-0-52792
+msgctxt "7949764-0-52792"
+msgid "Investigate Daenia Dolmen"
+msgstr "デーニアのドルメンを調査する"
+
+#: 7949764-0-52789
+msgctxt "7949764-0-52789"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-52786
+msgctxt "7949764-0-52786"
+msgid "Find Benar at Rethan Manor"
+msgstr "レサン邸でベナーを探す"
+
+#: 7949764-0-52785
+msgctxt "7949764-0-52785"
+msgid "Talk to Malur Rethan"
+msgstr "マルー・レサンと話す"
+
+#: 7949764-0-52782
+msgctxt "7949764-0-52782"
+msgid "Talk to Gavros"
+msgstr "ガヴロスと話す"
+
+#: 7949764-0-52779
+msgctxt "7949764-0-52779"
+msgid "Find Gavros"
+msgstr "ガヴロスを探す"
+
+#: 7949764-0-52776
+msgctxt "7949764-0-52776"
+msgid "Obtain Benar Rethan's Key"
+msgstr "ベナー・レサンの鍵を手に入れる"
+
+#: 7949764-0-52774
+msgctxt "7949764-0-52774"
+msgid "Recover <<1>> from <<c:2>> in the Rift"
+msgstr "<<1>>をリフトの<<2>>から回収する"
+
+#: 7949764-0-52772
+msgctxt "7949764-0-52772"
+msgid "Recover <<1>> from <<2>> in Stormhaven"
+msgstr "<<1>>をストームヘヴンの<<2>>から回収する"
+
+#: 7949764-0-52770
+msgctxt "7949764-0-52770"
+msgid "Recover <<1>> from <<2>> in Stonefalls"
+msgstr "<<1>>をストンフォールの<<2>>から回収する"
+
+#: 7949764-0-52768
+msgctxt "7949764-0-52768"
+msgid "Recover <<1>> from <<2>> in Shadowfen"
+msgstr "<<1>>をシャドウフェンの<<2>>から回収する"
+
+#: 7949764-0-52766
+msgctxt "7949764-0-52766"
+msgid "Recover <<1>> from <<2>> in Rivenspire"
+msgstr "<<1>>をリベンスパイアーの<<2>>から回収する"
+
+#: 7949764-0-52764
+msgctxt "7949764-0-52764"
+msgid "Recover <<a:1>> from <<c:2>> in Reaper's March"
+msgstr "<<1>>をリーパーズ・マーチの<<2>>から回収する"
+
+#: 7949764-0-52762
+msgctxt "7949764-0-52762"
+msgid "Recover <<1>> from <<2>> in Malabal Tor"
+msgstr "<<1>>をマラバル・トールの<<2>>から回収する"
+
+#: 7949764-0-52760
+msgctxt "7949764-0-52760"
+msgid "Recover <<1>> from <<2>> in Greenshade"
+msgstr "<<1>>をグリーンシェイドの<<2>>から回収する"
+
+#: 7949764-0-52758
+msgctxt "7949764-0-52758"
+msgid "Recover <<1>> from <<2>> in Grahtwood"
+msgstr "<<1>>をグラーウッドの<<2>>から回収する"
+
+#: 7949764-0-52756
+msgctxt "7949764-0-52756"
+msgid "Recover <<Ac:1>> from <<2>> in Glenumbra"
+msgstr "<<1>>をグレナンブラの<<2>>から回収する"
+
+#: 7949764-0-52748
+msgctxt "7949764-0-52748"
+msgid "Recover <<1>>  from <<2>> in Eastmarch"
+msgstr "<<1>>をイーストマーチの<<2>>から回収する"
+
+#: 7949764-0-52745
+msgctxt "7949764-0-52745"
+msgid "Recover <<Ac:1>> from <<Ac:2>> in Deshaan"
+msgstr "<<1>>をデシャーンの<<2>>から回収する"
+
+#: 7949764-0-52743
+msgctxt "7949764-0-52743"
+msgid "Recover <<1>> from <<2>> in Bangkorai"
+msgstr "<<1>>をバンコライの<<2>>から回収する"
+
+#: 7949764-0-52740
+msgctxt "7949764-0-52740"
+msgid "Recover <<1>> from <<2>> in Auridon"
+msgstr "<<1>>をオーリドンの<<2>>から回収する"
+
+#: 7949764-0-52738
+msgctxt "7949764-0-52738"
+msgid "Take the Relic to Tel Branora"
+msgstr "遺物をテル・ブラノラに持って行く"
+
+#: 7949764-0-52736
+msgctxt "7949764-0-52736"
+msgid "Find the Finger Bone of Saint Felms"
+msgstr "聖フェルムスの指骨を探す"
+
+#: 7949764-0-52735
+msgctxt "7949764-0-52735"
+msgid "Travel to Zaintiraris"
+msgstr "ザインティラリスへ行く"
+
+#: 7949764-0-52734
+msgctxt "7949764-0-52734"
+msgid "Talk to Sun-in-Shadow"
+msgstr "影の中の太陽と話す"
+
+#: 7949764-0-52733
+msgctxt "7949764-0-52733"
+msgid "Talk to Nazdura"
+msgstr "ナズデュラと話す"
+
+#: 7949764-0-52728
+msgctxt "7949764-0-52728"
+msgid "Recover <<c:1>> from <<Ac:2>> in Alik'r Desert"
+msgstr "<<1>>をアリクル砂漠の<<2>>から回収する"
+
+#: 7949764-0-52708
+msgctxt "7949764-0-52708"
+msgid "Defeat  <<1>> while affected by <<z:2>>."
+msgstr "<<1>>を、<<2>>の影響がある間に倒す"
+
+#: 7949764-0-52703
+msgctxt "7949764-0-52703"
+msgid "Complete the Trial of the True Path"
+msgstr "真実の道の試練を乗り越える"
+
+#: 7949764-0-52701
+msgctxt "7949764-0-52701"
+msgid "Complete the Trial of Air"
+msgstr "大気の試練を乗り越える"
+
+#: 7949764-0-52698
+msgctxt "7949764-0-52698"
+msgid "Begin the Trial of Air"
+msgstr "大気の試練を始める"
+
+#: 7949764-0-52697
+msgctxt "7949764-0-52697"
+msgid "Warm yourself at the Dead Man's Fall bonfire"
+msgstr "デッドマンズ・フォールの焚火で体を温める"
+
+#: 7949764-0-52695
+msgctxt "7949764-0-52695"
+msgid "Warm yourself at the Horker's Drop bonfire"
+msgstr "ホーカーズ・ドロップの焚火で体を温める"
+
+#: 7949764-0-52694
+msgctxt "7949764-0-52694"
+msgid "You left Dead Man's Fall."
+msgstr "デッドマンズ・フォールから去る"
+
+#: 7949764-0-52693
+msgctxt "7949764-0-52693"
+msgid "Leap From Dead Man's Fall Into the Water"
+msgstr "デッドマンズ・フォールから水に飛び込む"
+
+#: 7949764-0-52692
+msgctxt "7949764-0-52692"
+msgid "Travel to Dead Man's Fall"
+msgstr "デッドマンズ・フォールへ移動する"
+
+#: 7949764-0-52691
+msgctxt "7949764-0-52691"
+msgid "Travel to Horker's Drop"
+msgstr "ホーカーズ・ドロップへ移動する"
+
+#: 7949764-0-52690
+msgctxt "7949764-0-52690"
+msgid "Travel to Cub's Tumble"
+msgstr "カブズ・タンブルへ移動する"
+
+#: 7949764-0-52689
+msgctxt "7949764-0-52689"
+msgid "You left Horker's Drop."
+msgstr "ホーカーズ・ドロップから去る"
+
+#: 7949764-0-52688
+msgctxt "7949764-0-52688"
+msgid "You left Cub's Tumble."
+msgstr "カブズ・タンブルから去る"
+
+#: 7949764-0-52687
+msgctxt "7949764-0-52687"
+msgid "Leap From Horker's Drop Into the Water"
+msgstr "ホーカーズ・ドロップから水に飛び込む"
+
+#: 7949764-0-52686
+msgctxt "7949764-0-52686"
+msgid "Warm yourself at the Cub's Tumble bonfire"
+msgstr "カブズ・タンブルの焚火で体を温める"
+
+#: 7949764-0-52685
+msgctxt "7949764-0-52685"
+msgid "Leap From Cub's Tumble Into the Water"
+msgstr "カブズ・タンブルから水に飛び込む"
+
+#: 7949764-0-52683
+msgctxt "7949764-0-52683"
+msgid "Place the Books of Martial Knowledge"
+msgstr "武術の知識の本を置く"
+
+#: 7949764-0-52682
+msgctxt "7949764-0-52682"
+msgid "Find the Books of Martial Knowledge"
+msgstr "武術の知識の本を探す"
+
+#: 7949764-0-52681
+msgctxt "7949764-0-52681"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52679
+msgctxt "7949764-0-52679"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52678
+msgctxt "7949764-0-52678"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52677
+msgctxt "7949764-0-52677"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52676
+msgctxt "7949764-0-52676"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52672
+msgctxt "7949764-0-52672"
+msgid "Defeat Bandit Leader <<1>>"
+msgstr "山賊の首領<<1>>を倒す"
+
+#: 7949764-0-52671
+msgctxt "7949764-0-52671"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52670
+msgctxt "7949764-0-52670"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52669
+msgctxt "7949764-0-52669"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52668
+msgctxt "7949764-0-52668"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52664
+msgctxt "7949764-0-52664"
+msgid "Light the Brazier"
+msgstr "かがり火をつける"
+
+#: 7949764-0-52663
+msgctxt "7949764-0-52663"
+msgid "Summon the Flame-Bearer"
+msgstr "炎を持つ者を召喚する"
+
+#: 7949764-0-52662
+msgctxt "7949764-0-52662"
+msgid "Defeat Kalith, the Champion of the Trial of Fire"
+msgstr "炎の試練の勇者、カリスを倒す"
+
+#: 7949764-0-52661
+msgctxt "7949764-0-52661"
+msgid "Defeat <<1>> while the pyres remain lit."
+msgstr "薪が燃えている間に<<1>>を倒す"
+
+#: 7949764-0-52660
+msgctxt "7949764-0-52660"
+msgid "Defeat <<1>> while the pyres remain lit."
+msgstr "薪が燃えている間に<<1>>を倒す"
+
+#: 7949764-0-52659
+msgctxt "7949764-0-52659"
+msgid "Defeat  <<1>> while affected by <<z:2>>."
+msgstr "<<1>>を、<<2>>の影響がある間に倒す"
+
+#: 7949764-0-52657
+msgctxt "7949764-0-52657"
+msgid "Eat <<1>>"
+msgstr "<<1>>を食べる"
+
+#: 7949764-0-52656
+msgctxt "7949764-0-52656"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52655
+msgctxt "7949764-0-52655"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52654
+msgctxt "7949764-0-52654"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52653
+msgctxt "7949764-0-52653"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52652
+msgctxt "7949764-0-52652"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52651
+msgctxt "7949764-0-52651"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52648
+msgctxt "7949764-0-52648"
+msgid "Pick <<1>>"
+msgstr "<<1>>を摘む"
+
+#: 7949764-0-52647
+msgctxt "7949764-0-52647"
+msgid "Defeat <<1>> While Affected By <<2>>"
+msgstr "<<1>>を、<<2>>の影響がある間に倒す"
+
+#: 7949764-0-52638
+msgctxt "7949764-0-52638"
+msgid "Kill Exarch Braadoth and Kurzoth"
+msgstr "エグザーチ・ブラードスとカーゾスを殺す"
+
+#: 7949764-0-52637
+msgctxt "7949764-0-52637"
+msgid "Enter the Throne Room"
+msgstr "玉座の間へ入る"
+
+#: 7949764-0-52636
+msgctxt "7949764-0-52636"
+msgid "Kill Ilthag Ironblood"
+msgstr "イルサグ・アイアンブラッドを殺す"
+
+#: 7949764-0-52620
+msgctxt "7949764-0-52620"
+msgid "Hardmode Challenge Only Available in Veteran Mode"
+msgstr "ハードモードチャレンジに挑戦できるのはベテランモードのみ"
+
+#: 7949764-0-52619
+msgctxt "7949764-0-52619"
+msgid "Deface the Altar of Adoration and Defeat Velidreth"
+msgstr "礼拝の祭壇を汚してヴェリドレスを倒す"
+
+#: 7949764-0-52618
+msgctxt "7949764-0-52618"
+msgid "Enter the Cradle of Shadows in Veteran Mode"
+msgstr "ベテランモードで影のゆりかごに入る"
+
+#: 7949764-0-52617
+msgctxt "7949764-0-52617"
+msgid "Pull the Second Switch"
+msgstr "2つ目のスイッチを引く"
+
+#: 7949764-0-52616
+msgctxt "7949764-0-52616"
+msgid "Kill the Votary of Velidreth"
+msgstr "ヴェリドレスの信奉者を倒す"
+
+#: 7949764-0-52614
+msgctxt "7949764-0-52614"
+msgid "Spar with Naryu"
+msgstr "ナリューと模擬戦を行う"
+
+#: 7949764-0-52609
+msgctxt "7949764-0-52609"
+msgid "Talk to Naryu Virian"
+msgstr "ナリュー・ヴィリアンと話す"
+
+#: 7949764-0-52608
+msgctxt "7949764-0-52608"
+msgid "Talk to Eoki"
+msgstr "エイオキと話す"
+
+#: 7949764-0-52607
+msgctxt "7949764-0-52607"
+msgid "Obtain the Gate Key"
+msgstr "門の鍵を手に入れる"
+
+#: 7949764-0-52605
+msgctxt "7949764-0-52605"
+msgid "Equip the Slaver's Greatsword"
+msgstr "奴隷商人の大剣を装備する"
+
+#: 7949764-0-52602
+msgctxt "7949764-0-52602"
+msgid "Obtain the Gate Key"
+msgstr "門の鍵を手に入れる"
+
+#: 7949764-0-52601
+msgctxt "7949764-0-52601"
+msgid "Talk to Naryu Virian"
+msgstr "ナリュー・ヴィリアンと話す"
+
+#: 7949764-0-52600
+msgctxt "7949764-0-52600"
+msgid "Fight Naryu Virian"
+msgstr "ナリュー・ヴィリアンと戦う"
+
+#: 7949764-0-52599
+msgctxt "7949764-0-52599"
+msgid "Talk to Naryu Virian"
+msgstr "ナリュー・ヴィリアンと話す"
+
+#: 7949764-0-52598
+msgctxt "7949764-0-52598"
+msgid "Listen to the Passenger"
+msgstr "乗客の話を聞く"
+
+#: 7949764-0-52595
+msgctxt "7949764-0-52595"
+msgid "Talk to Vivec"
+msgstr "ヴィベクと話す"
+
+#: 7949764-0-52591
+msgctxt "7949764-0-52591"
+msgid "Escort Canon Llevule to the Summoning Chamber"
+msgstr "カノン・ルレヴルを召喚室まで護衛する"
+
+#: 7949764-0-52589
+msgctxt "7949764-0-52589"
+msgid "Talk to Canon Llevule"
+msgstr "カノン・ルレヴルと話す"
+
+#: 7949764-0-52588
+msgctxt "7949764-0-52588"
+msgid "Go to the Andrano Ancestral Tomb"
+msgstr "アンドラノ家の墳墓に行く"
+
+#: 7949764-0-52584
+msgctxt "7949764-0-52584"
+msgid "Light <<1>>"
+msgstr "<<1>>を灯す"
+
+#: 7949764-0-52583
+msgctxt "7949764-0-52583"
+msgid "Light <<1>>"
+msgstr "<<1>>を灯す"
+
+#: 7949764-0-52581
+msgctxt "7949764-0-52581"
+msgid "Defeat <<1>> While Pyres Remain Lit"
+msgstr "薪が燃えている間に<<1>>を倒す"
+
+#: 7949764-0-52576
+msgctxt "7949764-0-52576"
+msgid "Take Therana's Letter to Eraven"
+msgstr "セラナの手紙をイレイヴンに届ける"
+
+#: 7949764-0-52575
+msgctxt "7949764-0-52575"
+msgid "Find Eraven Onthim's Chambers"
+msgstr "イレイヴン・オンシムの部屋を探す"
+
+#: 7949764-0-52546
+msgctxt "7949764-0-52546"
+msgid "Place Cursed Relics"
+msgstr "呪われた遺物を置く"
+
+#: 7949764-0-52545
+msgctxt "7949764-0-52545"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52540
+msgctxt "7949764-0-52540"
+msgid "Talk to Sun-in-Shadow"
+msgstr "影の中の太陽と話す"
+
+#: 7949764-0-52537
+msgctxt "7949764-0-52537"
+msgid "Confront Regent Boward"
+msgstr "摂政ボワードと対決する"
+
+#: 7949764-0-52536
+msgctxt "7949764-0-52536"
+msgid "Banish the Daedra in <<1>>"
+msgstr "<<1>>でデイドラを倒す"
+
+#: 7949764-0-52535
+msgctxt "7949764-0-52535"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>を破壊する"
+
+#: 7949764-0-52534
+msgctxt "7949764-0-52534"
+msgid "Kill the Scorpion Matron"
+msgstr "スコーピオン・マトロンを殺す"
+
+#: 7949764-0-52532
+msgctxt "7949764-0-52532"
+msgid "Throw <<1>> on the <<2>>"
+msgstr "<<1>>を<<2>>に投げ入れる"
+
+#: 7949764-0-52531
+msgctxt "7949764-0-52531"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-52527
+msgctxt "7949764-0-52527"
+msgid "Talk to Therana about Sun-in-Shadow"
+msgstr "影の中の太陽について、セラナと話す"
+
+#: 7949764-0-52516
+msgctxt "7949764-0-52516"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52515
+msgctxt "7949764-0-52515"
+msgid "Set the Prisoners Free"
+msgstr "囚人たちを解放する"
+
+#: 7949764-0-52514
+msgctxt "7949764-0-52514"
+msgid "Set the Prisoners Free"
+msgstr "囚人たちを解放する"
+
+#: 7949764-0-52513
+msgctxt "7949764-0-52513"
+msgid "Set the Prisoners Free"
+msgstr "囚人たちを解放する"
+
+#: 7949764-0-52512
+msgctxt "7949764-0-52512"
+msgid "Set the Prisoners Free"
+msgstr "囚人たちを解放する"
+
+#: 7949764-0-52511
+msgctxt "7949764-0-52511"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52510
+msgctxt "7949764-0-52510"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52509
+msgctxt "7949764-0-52509"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52508
+msgctxt "7949764-0-52508"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52507
+msgctxt "7949764-0-52507"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52506
+msgctxt "7949764-0-52506"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52505
+msgctxt "7949764-0-52505"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52504
+msgctxt "7949764-0-52504"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52503
+msgctxt "7949764-0-52503"
+msgid "Search Dig Site"
+msgstr "発掘現場を探す"
+
+#: 7949764-0-52502
+msgctxt "7949764-0-52502"
+msgid "Kill the Progenitor Mantikora"
+msgstr "真祖マンティコラを殺す"
+
+#: 7949764-0-52501
+msgctxt "7949764-0-52501"
+msgid "Destroy the Scorpion Nests"
+msgstr "サソリの巣を破壊する"
+
+#: 7949764-0-52486
+msgctxt "7949764-0-52486"
+msgid "Destroy the Wamasu Eggs"
+msgstr "ワマスの卵を破壊する"
+
+#: 7949764-0-52484
+msgctxt "7949764-0-52484"
+msgid "Destroy the Northern Scorpion Nest"
+msgstr "北のサソリの巣を破壊する"
+
+#: 7949764-0-52483
+msgctxt "7949764-0-52483"
+msgid "Destroy the Southern Scorpion Nest"
+msgstr "南のサソリの巣を破壊する"
+
+#: 7949764-0-52473
+msgctxt "7949764-0-52473"
+msgid "Step Off Tile"
+msgstr "タイルから降りる"
+
+#: 7949764-0-52472
+msgctxt "7949764-0-52472"
+msgid "Tiles Reset In"
+msgstr "タイルのリセット:"
+
+#: 7949764-0-52439
+msgctxt "7949764-0-52439"
+msgid "Recover the <<1>>"
+msgstr "<<1>>を取り戻す"
+
+#: 7949764-0-52438
+msgctxt "7949764-0-52438"
+msgid "Recover the <<1>>"
+msgstr "<<1>>を取り戻す"
+
+#: 7949764-0-52437
+msgctxt "7949764-0-52437"
+msgid "Recover the <<1>>"
+msgstr "<<1>>を取り戻す"
+
+#: 7949764-0-52436
+msgctxt "7949764-0-52436"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-52435
+msgctxt "7949764-0-52435"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52434
+msgctxt "7949764-0-52434"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52430
+msgctxt "7949764-0-52430"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52429
+msgctxt "7949764-0-52429"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52428
+msgctxt "7949764-0-52428"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52427
+msgctxt "7949764-0-52427"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52425
+msgctxt "7949764-0-52425"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-52424
+msgctxt "7949764-0-52424"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-52423
+msgctxt "7949764-0-52423"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-52422
+msgctxt "7949764-0-52422"
+msgid "Recover the Stolen Relics"
+msgstr "盗まれた遺物を取り戻す"
+
+#: 7949764-0-52421
+msgctxt "7949764-0-52421"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52412
+msgctxt "7949764-0-52412"
+msgid "Activate <<1>>"
+msgstr "<<1>>を発動させる"
+
+#: 7949764-0-52404
+msgctxt "7949764-0-52404"
+msgid "Kill Tank"
+msgstr "盾兵を殺す"
+
+#: 7949764-0-52403
+msgctxt "7949764-0-52403"
+msgid "Kill Assassin"
+msgstr "アサシンを倒す"
+
+#: 7949764-0-52402
+msgctxt "7949764-0-52402"
+msgid "Kill Mage"
+msgstr "魔術師を殺す"
+
+#: 7949764-0-52401
+msgctxt "7949764-0-52401"
+msgid "Left Before Teleporting"
+msgstr "転移する前に離れてしまった"
+
+#: 7949764-0-52400
+msgctxt "7949764-0-52400"
+msgid "Defeat the Exalted Viper"
+msgstr "崇高なるヴァイパーを倒す"
+
+#: 7949764-0-52398
+msgctxt "7949764-0-52398"
+msgid "Kill Armorer Uthik"
+msgstr "防具屋ウシクを倒す"
+
+#: 7949764-0-52397
+msgctxt "7949764-0-52397"
+msgid "Kill Runescriber Kulth"
+msgstr "ルーン筆写家のクルスを殺す"
+
+#: 7949764-0-52391
+msgctxt "7949764-0-52391"
+msgid "Enter Exarch's Stronghold"
+msgstr "エグザーチの要塞に侵入する"
+
+#: 7949764-0-52390
+msgctxt "7949764-0-52390"
+msgid "Talk to Little Leaf"
+msgstr "リトルリーフと話す"
+
+#: 7949764-0-52383
+msgctxt "7949764-0-52383"
+msgid "Kill the Wamasu Eggbearer"
+msgstr "抱卵中のワマスを殺す"
+
+#: 7949764-0-52381
+msgctxt "7949764-0-52381"
+msgid "The Pledge of Perfection"
+msgstr "完璧への誓い"
+
+#: 7949764-0-52380
+msgctxt "7949764-0-52380"
+msgid "The Pledge of Simplicity"
+msgstr "純真への誓い"
+
+#: 7949764-0-52379
+msgctxt "7949764-0-52379"
+msgid "The Pledge of Piety"
+msgstr "敬虔への誓い"
+
+#: 7949764-0-52378
+msgctxt "7949764-0-52378"
+msgid "The Pledge of Obedience"
+msgstr "忠実への誓い"
+
+#: 7949764-0-52377
+msgctxt "7949764-0-52377"
+msgid "The Pledge of Vigilance"
+msgstr "警戒への誓い"
+
+#: 7949764-0-52376
+msgctxt "7949764-0-52376"
+msgid "The Pledge of Courage"
+msgstr "勇気への誓い"
+
+#: 7949764-0-52375
+msgctxt "7949764-0-52375"
+msgid "Complete the Pilgrimage"
+msgstr "巡礼の旅を終える"
+
+#: 7949764-0-52374
+msgctxt "7949764-0-52374"
+msgid "Read the Old Book"
+msgstr "古びた本を読む"
+
+#: 7949764-0-52371
+msgctxt "7949764-0-52371"
+msgid "Visit the Gray Menhir"
+msgstr "グレイ・メンヒルを訪れる"
+
+#: 7949764-0-52370
+msgctxt "7949764-0-52370"
+msgid "Complete the Pilgrimage"
+msgstr "巡礼の旅を終える"
+
+#: 7949764-0-52363
+msgctxt "7949764-0-52363"
+msgid "Retrieve the Warrior's Blade"
+msgstr "戦士の剣を手に入れる"
+
+#: 7949764-0-52362
+msgctxt "7949764-0-52362"
+msgid "Talk to the Celestial Warrior"
+msgstr "セレスティアルの戦士と話す"
+
+#: 7949764-0-52361
+msgctxt "7949764-0-52361"
+msgid "Talk to Titus Valerius"
+msgstr "ティトゥス・ヴァレリウスと話す"
+
+#: 7949764-0-52360
+msgctxt "7949764-0-52360"
+msgid "Find Titus Valerius"
+msgstr "ティトゥス・ヴァレリウスを見つける"
+
+#: 7949764-0-52359
+msgctxt "7949764-0-52359"
+msgid "Talk to Titus in Belkarth"
+msgstr "ベルカースにいるティトゥスと話す"
+
+#: 7949764-0-52355
+msgctxt "7949764-0-52355"
+msgid "Return to the Star-Gazer's Observatory"
+msgstr "星読みの天文台に戻る"
+
+#: 7949764-0-52353
+msgctxt "7949764-0-52353"
+msgid "Defeat Aetherion"
+msgstr "エセリオンを倒す"
+
+#: 7949764-0-52347
+msgctxt "7949764-0-52347"
+msgid "Activate Bridge"
+msgstr "橋を架ける"
+
+#: 7949764-0-52346
+msgctxt "7949764-0-52346"
+msgid "Exit Skyreach Pinnacle"
+msgstr "スカイリーチ頂上から出る"
+
+#: 7949764-0-52345
+msgctxt "7949764-0-52345"
+msgid "Defend Mederic Vyger"
+msgstr "メデリック・ヴィガーを守る"
+
+#: 7949764-0-52344
+msgctxt "7949764-0-52344"
+msgid "Clear the Way for Mederic Vyger"
+msgstr "メデリック・ヴィガーのために道を開く"
+
+#: 7949764-0-52343
+msgctxt "7949764-0-52343"
+msgid "Enter Skyreach Pinnacle"
+msgstr "スカイリーチ頂上に入る"
+
+#: 7949764-0-52342
+msgctxt "7949764-0-52342"
+msgid "Enter Skyreach Temple"
+msgstr "スカイリーチ聖堂に入る"
+
+#: 7949764-0-52341
+msgctxt "7949764-0-52341"
+msgid "Enter Loth'Na Caverns"
+msgstr "ロスナ洞窟に入る"
+
+#: 7949764-0-52340
+msgctxt "7949764-0-52340"
+msgid "Observe the Farsight"
+msgstr "遠見の幻視を見る"
+
+#: 7949764-0-52339
+msgctxt "7949764-0-52339"
+msgid "Activate the Ritual Fires"
+msgstr "儀式の炎を灯す"
+
+#: 7949764-0-52338
+msgctxt "7949764-0-52338"
+msgid "Enter the Howling Sepulchers"
+msgstr "遠吠えの墓地に入る"
+
+#: 7949764-0-52337
+msgctxt "7949764-0-52337"
+msgid "Defeat the Gravelord"
+msgstr "グレイブロードを倒す"
+
+#: 7949764-0-52336
+msgctxt "7949764-0-52336"
+msgid "Defeat the Fallen Kings"
+msgstr "堕ちし王たちを倒す"
+
+#: 7949764-0-52335
+msgctxt "7949764-0-52335"
+msgid "Exit Skyreach Catacombs"
+msgstr "スカイリーチカタコンベから出る"
+
+#: 7949764-0-52334
+msgctxt "7949764-0-52334"
+msgid "Defeat Virmaril the Betrayer"
+msgstr "裏切り者ヴィルマリルを倒す"
+
+#: 7949764-0-52333
+msgctxt "7949764-0-52333"
+msgid "Remove the Soul Ward"
+msgstr "魂の結界を解除する"
+
+#: 7949764-0-52332
+msgctxt "7949764-0-52332"
+msgid "Find Virmaril the Betrayer"
+msgstr "裏切り者ヴィルマリルを見つける"
+
+#: 7949764-0-52331
+msgctxt "7949764-0-52331"
+msgid "Enter the Lower Catacombs"
+msgstr "墓地下層へ入る"
+
+#: 7949764-0-52330
+msgctxt "7949764-0-52330"
+msgid "Open the Way to the Lower Catacombs"
+msgstr "墓地下層への道を開く"
+
+#: 7949764-0-52329
+msgctxt "7949764-0-52329"
+msgid "Enter Skyreach Catacombs"
+msgstr "スカイリーチカタコンベに入る"
+
+#: 7949764-0-52327
+msgctxt "7949764-0-52327"
+msgid "Set the Prisoners Free"
+msgstr "囚人たちを解放する"
+
+#: 7949764-0-52326
+msgctxt "7949764-0-52326"
+msgid "Slay Agganor and Take His Helmet"
+msgstr "アガノールを倒し、兜を奪う"
+
+#: 7949764-0-52325
+msgctxt "7949764-0-52325"
+msgid "Leave Skyreach Hold"
+msgstr "スカイリーチ要塞を出る"
+
+#: 7949764-0-52324
+msgctxt "7949764-0-52324"
+msgid "Explore Skyreach Hold"
+msgstr "スカイリーチ要塞を捜索する"
+
+#: 7949764-0-52323
+msgctxt "7949764-0-52323"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52322
+msgctxt "7949764-0-52322"
+msgid "Meet Regent Cassipia Near Dragonstar"
+msgstr "ドラゴンスターの近くにいる摂政カシピアに会う"
+
+#: 7949764-0-52321
+msgctxt "7949764-0-52321"
+msgid "Enter Skyreach Hold"
+msgstr "スカイリーチ要塞に入る"
+
+#: 7949764-0-52319
+msgctxt "7949764-0-52319"
+msgid "Meet Little Leaf at the Valley of Scars"
+msgstr "傷の渓谷でリトルリーフと待ち合わせる"
+
+#: 7949764-0-52318
+msgctxt "7949764-0-52318"
+msgid "Meet Little Leaf in Ilthag's Undertower"
+msgstr "イルサグの塔地下でリトルリーフと会う"
+
+#: 7949764-0-52315
+msgctxt "7949764-0-52315"
+msgid "Follow Ralai into the Chambers"
+msgstr "部屋までラライの後を追う"
+
+#: 7949764-0-52314
+msgctxt "7949764-0-52314"
+msgid "Find Zal'ik's Crypt"
+msgstr "ザリクの墓を見つける"
+
+#: 7949764-0-52313
+msgctxt "7949764-0-52313"
+msgid "Talk to Nhalan"
+msgstr "ナーランと話す"
+
+#: 7949764-0-52312
+msgctxt "7949764-0-52312"
+msgid "Talk to Nhalan"
+msgstr "ナーランと話す"
+
+#: 7949764-0-52311
+msgctxt "7949764-0-52311"
+msgid "Find Shada's Chambers"
+msgstr "シャダの部屋を見つける"
+
+#: 7949764-0-52310
+msgctxt "7949764-0-52310"
+msgid "Enter the Temple Wing of Shada's Tear"
+msgstr "シャダの涙の聖堂区画に入る"
+
+#: 7949764-0-52309
+msgctxt "7949764-0-52309"
+msgid "Talk to Sali'ma"
+msgstr "サリマと話す"
+
+#: 7949764-0-52308
+msgctxt "7949764-0-52308"
+msgid "Return to the Researchers"
+msgstr "調査団の元へ戻る"
+
+#: 7949764-0-52307
+msgctxt "7949764-0-52307"
+msgid "Talk to Sali'ma"
+msgstr "サリマと話す"
+
+#: 7949764-0-52306
+msgctxt "7949764-0-52306"
+msgid "Defeat Shada"
+msgstr "シャダを倒す"
+
+#: 7949764-0-52305
+msgctxt "7949764-0-52305"
+msgid "Awaken and Defeat Zal'ik"
+msgstr "ザリクを目覚めさせ、倒す"
+
+#: 7949764-0-52304
+msgctxt "7949764-0-52304"
+msgid "Destroy the Abomination Protecting the Curse"
+msgstr "呪いを守る悪鬼を倒す"
+
+#: 7949764-0-52303
+msgctxt "7949764-0-52303"
+msgid "Find Researcher Zifri"
+msgstr "研究者ジフリを見つける"
+
+#: 7949764-0-52302
+msgctxt "7949764-0-52302"
+msgid "Find Researcher Squan"
+msgstr "研究者スクワーンを見つける"
+
+#: 7949764-0-52301
+msgctxt "7949764-0-52301"
+msgid "Find Researcher Klause"
+msgstr "研究者クラウセを見つける"
+
+#: 7949764-0-52299
+msgctxt "7949764-0-52299"
+msgid "Burn the Western Standard"
+msgstr "西の軍旗を燃やす"
+
+#: 7949764-0-52298
+msgctxt "7949764-0-52298"
+msgid "Burn the Southern Standard"
+msgstr "南の軍旗を燃やす"
+
+#: 7949764-0-52297
+msgctxt "7949764-0-52297"
+msgid "Cleanse the Waters of the Crypt Wing"
+msgstr "墓地区画の水を浄化する"
+
+#: 7949764-0-52296
+msgctxt "7949764-0-52296"
+msgid "Cleanse the Waters of the City Wing"
+msgstr "街区画の水を浄化する"
+
+#: 7949764-0-52295
+msgctxt "7949764-0-52295"
+msgid "Burn the Northern Standard"
+msgstr "北の軍旗を燃やす"
+
+#: 7949764-0-52294
+msgctxt "7949764-0-52294"
+msgid "Mount Agganor's Helmet On a Pike"
+msgstr "アガノールの兜を槍の先に飾る"
+
+#: 7949764-0-52293
+msgctxt "7949764-0-52293"
+msgid "Find the Books of Martial Knowledge"
+msgstr "武術の知識の本を探す"
+
+#: 7949764-0-52292
+msgctxt "7949764-0-52292"
+msgid "Find the Books of Martial Knowledge"
+msgstr "武術の知識の本を探す"
+
+#: 7949764-0-52291
+msgctxt "7949764-0-52291"
+msgid "Find the Books of Martial Knowledge"
+msgstr "武術の知識の本を探す"
+
+#: 7949764-0-52290
+msgctxt "7949764-0-52290"
+msgid "Find the Books of Martial Knowledge"
+msgstr "武術の知識の本を探す"
+
+#: 7949764-0-52289
+msgctxt "7949764-0-52289"
+msgid "Cleanse the Waters of the City Wing"
+msgstr "街区画の水を浄化する"
+
+#: 7949764-0-52288
+msgctxt "7949764-0-52288"
+msgid "Cleanse the Waters of the City Wing"
+msgstr "街区画の水を浄化する"
+
+#: 7949764-0-52287
+msgctxt "7949764-0-52287"
+msgid "Collect Storm Infusion"
+msgstr "嵐の元素を集める"
+
+#: 7949764-0-52286
+msgctxt "7949764-0-52286"
+msgid "Collect Frost Infusion"
+msgstr "氷の元素を集める"
+
+#: 7949764-0-52285
+msgctxt "7949764-0-52285"
+msgid "Collect Flame Infusion"
+msgstr "炎の元素を集める"
+
+#: 7949764-0-52284
+msgctxt "7949764-0-52284"
+msgid "Meet Sara"
+msgstr "サラに会う"
+
+#: 7949764-0-52283
+msgctxt "7949764-0-52283"
+msgid "Talk to Valla"
+msgstr "ヴァラと話す"
+
+#: 7949764-0-52279
+msgctxt "7949764-0-52279"
+msgid "Find the Caravan Guards"
+msgstr "キャラバンの衛兵たちを見つける"
+
+#: 7949764-0-52278
+msgctxt "7949764-0-52278"
+msgid "Left the Ritual"
+msgstr "儀式から去った"
+
+#: 7949764-0-52276
+msgctxt "7949764-0-52276"
+msgid "Talk to Nahlia"
+msgstr "ナーリアと話す"
+
+#: 7949764-0-52275
+msgctxt "7949764-0-52275"
+msgid "Search Remains for Personal Effects"
+msgstr "遺体から遺品を探す"
+
+#: 7949764-0-52274
+msgctxt "7949764-0-52274"
+msgid "Defeat Gulzog the Butcher"
+msgstr "グルゾグ・ザ・ブッチャーを倒す"
+
+#: 7949764-0-52273
+msgctxt "7949764-0-52273"
+msgid "Kill Mazaluhad"
+msgstr "マザルハッドを殺す"
+
+#: 7949764-0-52272
+msgctxt "7949764-0-52272"
+msgid "Kill Anyaq"
+msgstr "アニャクを殺す"
+
+#: 7949764-0-52271
+msgctxt "7949764-0-52271"
+msgid "Kill Raziyya"
+msgstr "ラジヤを殺す"
+
+#: 7949764-0-52270
+msgctxt "7949764-0-52270"
+msgid "Staff Half Open"
+msgstr "半分開かれた杖"
+
+#: 7949764-0-52269
+msgctxt "7949764-0-52269"
+msgid "Logged Out"
+msgstr "ログアウトした"
+
+#: 7949764-0-52268
+msgctxt "7949764-0-52268"
+msgid "Observe What Happened to the Mage"
+msgstr "魔術師に何があったのか見る"
+
+#: 7949764-0-52267
+msgctxt "7949764-0-52267"
+msgid "Return to the Spellscar"
+msgstr "スペルスカーへ戻る"
+
+#: 7949764-0-52266
+msgctxt "7949764-0-52266"
+msgid "Return to the Spellscar"
+msgstr "スペルスカーへ戻る"
+
+#: 7949764-0-52265
+msgctxt "7949764-0-52265"
+msgid "Return to the Spellscar"
+msgstr "スペルスカーへ戻る"
+
+#: 7949764-0-52264
+msgctxt "7949764-0-52264"
+msgid "Left the Spellscar"
+msgstr "スペルスカーを出る"
+
+#: 7949764-0-52263
+msgctxt "7949764-0-52263"
+msgid "Left the Spellscar"
+msgstr "スペルスカーを出る"
+
+#: 7949764-0-52262
+msgctxt "7949764-0-52262"
+msgid "Left the Spellscar"
+msgstr "スペルスカーを出る"
+
+#: 7949764-0-52261
+msgctxt "7949764-0-52261"
+msgid "You Placed a Storm Infusion"
+msgstr "嵐の元素を集める"
+
+#: 7949764-0-52260
+msgctxt "7949764-0-52260"
+msgid "You Placed a Frost Infusion"
+msgstr "氷の元素を置いた"
+
+#: 7949764-0-52259
+msgctxt "7949764-0-52259"
+msgid "You Placed a Flame Infusion"
+msgstr "炎の元素を置いた"
+
+#: 7949764-0-52251
+msgctxt "7949764-0-52251"
+msgid "Bring Storm, Fire, and Frost Infusions to Sara"
+msgstr "嵐、炎、氷の元素をサラに渡す"
+
+#: 7949764-0-52250
+msgctxt "7949764-0-52250"
+msgid "Defeat the Guardians to Charge the Gems"
+msgstr "ガーディアンを倒し、宝石に力を溜める"
+
+#: 7949764-0-52249
+msgctxt "7949764-0-52249"
+msgid "Defeat the Guardians to Charge the Gems"
+msgstr "ガーディアンを倒し、宝石に力を溜める"
+
+#: 7949764-0-52248
+msgctxt "7949764-0-52248"
+msgid "Defeat the Guardians to Charge the Gems"
+msgstr "ガーディアンを倒し、宝石に力を溜める"
+
+#: 7949764-0-52247
+msgctxt "7949764-0-52247"
+msgid "Defeat the Guardians to Charge the Gems"
+msgstr "ガーディアンを倒し、宝石に力を溜める"
+
+#: 7949764-0-52246
+msgctxt "7949764-0-52246"
+msgid "Defeat the Guardians to Charge the Gems"
+msgstr "ガーディアンを倒し、宝石に力を溜める"
+
+#: 7949764-0-52245
+msgctxt "7949764-0-52245"
+msgid "Talk to Valla"
+msgstr "ヴァラと話す"
+
+#: 7949764-0-52244
+msgctxt "7949764-0-52244"
+msgid "Observe What Happened to the Mage"
+msgstr "魔術師に何があったのか見る"
+
+#: 7949764-0-52243
+msgctxt "7949764-0-52243"
+msgid "Observe the High Elves"
+msgstr "ハイエルフの様子を観察する"
+
+#: 7949764-0-52242
+msgctxt "7949764-0-52242"
+msgid "Find the High Elves In the Crossroads Tavern"
+msgstr "クロスローズ酒場にいるハイエルフを見つける"
+
+#: 7949764-0-52241
+msgctxt "7949764-0-52241"
+msgid "Defeat the Storm Monarch"
+msgstr "嵐の支配者を倒す"
+
+#: 7949764-0-52240
+msgctxt "7949764-0-52240"
+msgid "Defeat the Frost Monarch"
+msgstr "氷結の支配者を倒す"
+
+#: 7949764-0-52239
+msgctxt "7949764-0-52239"
+msgid "Defeat the Flame Monarch"
+msgstr "炎の支配者を倒す"
+
+#: 7949764-0-52238
+msgctxt "7949764-0-52238"
+msgid "Talk to the Thief"
+msgstr "盗賊と話す"
+
+#: 7949764-0-52237
+msgctxt "7949764-0-52237"
+msgid "Listen to Titus Valerius"
+msgstr "ティトゥス・ヴァレリウスの話を聞く"
+
+#: 7949764-0-52236
+msgctxt "7949764-0-52236"
+msgid "Wait for Minerva to Finish Talking"
+msgstr "ミネルヴァが話を終えるまで待つ"
+
+#: 7949764-0-52235
+msgctxt "7949764-0-52235"
+msgid "Return to Minerva"
+msgstr "ミネルヴァの元へ戻る"
+
+#: 7949764-0-52234
+msgctxt "7949764-0-52234"
+msgid "Find Minerva"
+msgstr "ミネルヴァを見つける"
+
+#: 7949764-0-52233
+msgctxt "7949764-0-52233"
+msgid "Place the Seeker's Sight and Observe"
+msgstr "シーカーの目を置き、様子を見届ける"
+
+#: 7949764-0-52232
+msgctxt "7949764-0-52232"
+msgid "Place the Seeker's Sight and Observe"
+msgstr "シーカーの目を置き、様子を見届ける"
+
+#: 7949764-0-52231
+msgctxt "7949764-0-52231"
+msgid "Talk to Valla"
+msgstr "ヴァラと話す"
+
+#: 7949764-0-52230
+msgctxt "7949764-0-52230"
+msgid "Summon the Flame Monarch"
+msgstr "炎の支配者を召喚する"
+
+#: 7949764-0-52229
+msgctxt "7949764-0-52229"
+msgid "Summon the Frost Monarch"
+msgstr "氷結の支配者を召喚する"
+
+#: 7949764-0-52228
+msgctxt "7949764-0-52228"
+msgid "Summon the Storm Monarch"
+msgstr "嵐の支配者を召喚する"
+
+#: 7949764-0-52227
+msgctxt "7949764-0-52227"
+msgid "Find and Defeat the Lost One"
+msgstr "失われし者を見つけ、倒す"
+
+#: 7949764-0-52226
+msgctxt "7949764-0-52226"
+msgid "Find the Apex Stone"
+msgstr "冠石を見つける"
+
+#: 7949764-0-52225
+msgctxt "7949764-0-52225"
+msgid "Find the Sewer Entrance Beneath Elinhir"
+msgstr "エリンヒルの地下の下水道への入口を見つける"
+
+#: 7949764-0-52224
+msgctxt "7949764-0-52224"
+msgid "Talk to Valla"
+msgstr "ヴァラと話す"
+
+#: 7949764-0-52223
+msgctxt "7949764-0-52223"
+msgid "Meet the Aspects at the Winery"
+msgstr "ワイナリーにいる星の姿に会う"
+
+#: 7949764-0-52222
+msgctxt "7949764-0-52222"
+msgid "Destroy East Tower Magic Focus"
+msgstr "東塔の魔法のフォーカスを破壊する"
+
+#: 7949764-0-52221
+msgctxt "7949764-0-52221"
+msgid "Destroy West Tower Magic Focus"
+msgstr "西塔の魔法のフォーカスを破壊する"
+
+#: 7949764-0-52220
+msgctxt "7949764-0-52220"
+msgid "Place the Seeker's Sight and Observe"
+msgstr "シーカーの目を置き、様子を見届ける"
+
+#: 7949764-0-52219
+msgctxt "7949764-0-52219"
+msgid "Place the Seeker's Sight and Observe"
+msgstr "シーカーの目を置き、様子を見届ける"
+
+#: 7949764-0-52218
+msgctxt "7949764-0-52218"
+msgid "Find the Second Mage Aspect"
+msgstr "二人目の魔術師の姿を見つける"
+
+#: 7949764-0-52217
+msgctxt "7949764-0-52217"
+msgid "Find the First Mage Aspect"
+msgstr "一人目の魔術師の姿を見つける"
+
+#: 7949764-0-52216
+msgctxt "7949764-0-52216"
+msgid "Talk to Ahlora"
+msgstr "アーロラと話す"
+
+#: 7949764-0-52215
+msgctxt "7949764-0-52215"
+msgid "Find Hara at the Star-Gazer's Observatory"
+msgstr "星読みの天文台にいるハーラを見つける"
+
+#: 7949764-0-52214
+msgctxt "7949764-0-52214"
+msgid "Place the Seeker's Sight and Observe"
+msgstr "シーカーの目を置き、様子を見届ける"
+
+#: 7949764-0-52213
+msgctxt "7949764-0-52213"
+msgid "Talk to Hara"
+msgstr "ハーラと話す"
+
+#: 7949764-0-52212
+msgctxt "7949764-0-52212"
+msgid "Meet the Aspects at the Star-Gazers' Observatory"
+msgstr "星読みの天文台にいる星の姿に会う"
+
+#: 7949764-0-52211
+msgctxt "7949764-0-52211"
+msgid "Defeat the Guardians to Charge the Gems"
+msgstr "ガーディアンを倒し、宝石に力を溜める"
+
+#: 7949764-0-52210
+msgctxt "7949764-0-52210"
+msgid "Talk to Ahlora"
+msgstr "アーロラと話す"
+
+#: 7949764-0-52209
+msgctxt "7949764-0-52209"
+msgid "Talk to Ahlora"
+msgstr "アーロラと話す"
+
+#: 7949764-0-52208
+msgctxt "7949764-0-52208"
+msgid "Meet the Mage's Aspects at the Winery"
+msgstr "ワイナリーにいる魔術師の姿に会う"
+
+#: 7949764-0-52207
+msgctxt "7949764-0-52207"
+msgid "Gather the Seeker's Sight Gems"
+msgstr "シーカーの目を集める"
+
+#: 7949764-0-52206
+msgctxt "7949764-0-52206"
+msgid "Gather the Seeker's Sight Gems"
+msgstr "シーカーの目を集める"
+
+#: 7949764-0-52205
+msgctxt "7949764-0-52205"
+msgid "Gather the Seeker's Sight Gems"
+msgstr "シーカーの目を集める"
+
+#: 7949764-0-52204
+msgctxt "7949764-0-52204"
+msgid "Talk to Ahlora"
+msgstr "アーロラと話す"
+
+#: 7949764-0-52203
+msgctxt "7949764-0-52203"
+msgid "Gather the Seeker's Sight Gems"
+msgstr "シーカーの目を集める"
+
+#: 7949764-0-52202
+msgctxt "7949764-0-52202"
+msgid "Defeat Master Abrunul"
+msgstr "マスター・アブルヌルを倒す"
+
+#: 7949764-0-52201
+msgctxt "7949764-0-52201"
+msgid "Place the Trial Book"
+msgstr "試練の書を置く"
+
+#: 7949764-0-52200
+msgctxt "7949764-0-52200"
+msgid "Place the Trial Book"
+msgstr "試練の書を置く"
+
+#: 7949764-0-52199
+msgctxt "7949764-0-52199"
+msgid "Place the Trial Book"
+msgstr "試練の書を置く"
+
+#: 7949764-0-52198
+msgctxt "7949764-0-52198"
+msgid "Place the Trial Book"
+msgstr "試練の書を置く"
+
+#: 7949764-0-52197
+msgctxt "7949764-0-52197"
+msgid "Enter the School of Rahni'Za"
+msgstr "ラーニザ道場に入る"
+
+#: 7949764-0-52195
+msgctxt "7949764-0-52195"
+msgid "Light the Braziers of Rahni'Za"
+msgstr "ラーニザのかがり火を灯す"
+
+#: 7949764-0-52194
+msgctxt "7949764-0-52194"
+msgid "Light the Braziers of Rahni'Za"
+msgstr "ラーニザのかがり火を灯す"
+
+#: 7949764-0-52193
+msgctxt "7949764-0-52193"
+msgid "Light the Braziers of Rahni'Za"
+msgstr "ラーニザのかがり火を灯す"
+
+#: 7949764-0-52185
+msgctxt "7949764-0-52185"
+msgid "Talk to Sara"
+msgstr "サラと話す"
+
+#: 7949764-0-52184
+msgctxt "7949764-0-52184"
+msgid "Talk to Kelmen Locke"
+msgstr "ケルメン・ロケと話す"
+
+#: 7949764-0-52183
+msgctxt "7949764-0-52183"
+msgid "Listen to the Atronachs"
+msgstr "精霊の話を聞く"
+
+#: 7949764-0-52182
+msgctxt "7949764-0-52182"
+msgid "Talk to Titus Valerius"
+msgstr "ティトゥス・ヴァレリウスと話す"
+
+#: 7949764-0-52178
+msgctxt "7949764-0-52178"
+msgid "Find Shada's Chambers"
+msgstr "シャダの部屋を見つける"
+
+#: 7949764-0-52176
+msgctxt "7949764-0-52176"
+msgid "Enter the Temple Wing of Shada's Tear"
+msgstr "シャダの涙の聖堂区画に入る"
+
+#: 7949764-0-52175
+msgctxt "7949764-0-52175"
+msgid "Talk to Sali'ma"
+msgstr "サリマと話す"
+
+#: 7949764-0-52174
+msgctxt "7949764-0-52174"
+msgid "Return to the Researchers"
+msgstr "調査団の元へ戻る"
+
+#: 7949764-0-52173
+msgctxt "7949764-0-52173"
+msgid "Talk to Nhalan"
+msgstr "ナーランと話す"
+
+#: 7949764-0-52172
+msgctxt "7949764-0-52172"
+msgid "Talk to Nhalan"
+msgstr "ナーランと話す"
+
+#: 7949764-0-52171
+msgctxt "7949764-0-52171"
+msgid "Find Zal'ik's Crypt"
+msgstr "ザリクの墓を見つける"
+
+#: 7949764-0-52170
+msgctxt "7949764-0-52170"
+msgid "Watch Visions to Find Zal'ik"
+msgstr "幻影を通してザリクを見つけ出す"
+
+#: 7949764-0-52169
+msgctxt "7949764-0-52169"
+msgid "Watch Visions to Find Zal'ik"
+msgstr "幻影を通してザリクを見つけ出す"
+
+#: 7949764-0-52168
+msgctxt "7949764-0-52168"
+msgid "Talk to Nhalan"
+msgstr "ナーランと話す"
+
+#: 7949764-0-52167
+msgctxt "7949764-0-52167"
+msgid "Watch Visions to Find Zal'ik"
+msgstr "幻影を通してザリクを見つけ出す"
+
+#: 7949764-0-52166
+msgctxt "7949764-0-52166"
+msgid "Watch Visions to Find Zal'ik"
+msgstr "幻影を通してザリクを見つけ出す"
+
+#: 7949764-0-52165
+msgctxt "7949764-0-52165"
+msgid "Talk to Hara"
+msgstr "ハーラと話す"
+
+#: 7949764-0-52164
+msgctxt "7949764-0-52164"
+msgid "Search for the Apex Stone"
+msgstr "冠石を探す"
+
+#: 7949764-0-52163
+msgctxt "7949764-0-52163"
+msgid "Stop the Serpent and Free the Thief's Apex Stone"
+msgstr "大蛇を止め、盗賊の冠石を解放する"
+
+#: 7949764-0-52162
+msgctxt "7949764-0-52162"
+msgid "Defeat Madleena Blackvein"
+msgstr "マドリーナ・ブラックヴェインを倒す"
+
+#: 7949764-0-52161
+msgctxt "7949764-0-52161"
+msgid "Search the Ruins"
+msgstr "遺跡を探索する"
+
+#: 7949764-0-52160
+msgctxt "7949764-0-52160"
+msgid "Enter Reinhold's Retreat"
+msgstr "ラインホルドの隠れ家に入る"
+
+#: 7949764-0-52159
+msgctxt "7949764-0-52159"
+msgid "Find a Way Inside Reinhold's Retreat"
+msgstr "ラインホルドの隠れ家の中へ入る方法を調べる"
+
+#: 7949764-0-52158
+msgctxt "7949764-0-52158"
+msgid "Meet Titus and Kelmen at the Lake"
+msgstr "湖でティトゥスとケルメンと合流する"
+
+#: 7949764-0-52157
+msgctxt "7949764-0-52157"
+msgid "Protect Sara as She Stabilizes the Core"
+msgstr "コアを安定化するサラを守る"
+
+#: 7949764-0-52156
+msgctxt "7949764-0-52156"
+msgid "Approach the Core"
+msgstr "コアに近づく"
+
+#: 7949764-0-52155
+msgctxt "7949764-0-52155"
+msgid "Enter the Staff"
+msgstr "杖の中に入る"
+
+#: 7949764-0-52154
+msgctxt "7949764-0-52154"
+msgid "Watch Sara Open the Mage's Staff"
+msgstr "サラが魔術師の杖を開く様子を見守る"
+
+#: 7949764-0-52153
+msgctxt "7949764-0-52153"
+msgid "Find Kelmen Locke at Ritual Site"
+msgstr "儀式の場にいるケルメン・ロケを探す"
+
+#: 7949764-0-52152
+msgctxt "7949764-0-52152"
+msgid "Find Kelmen Locke"
+msgstr "ケルメン・ロケを探す"
+
+#: 7949764-0-52151
+msgctxt "7949764-0-52151"
+msgid "Kill the Air Monarch"
+msgstr "大気の支配者を殺す"
+
+#: 7949764-0-52150
+msgctxt "7949764-0-52150"
+msgid "Talk to Kelmen"
+msgstr "ケルメンと話す"
+
+#: 7949764-0-52149
+msgctxt "7949764-0-52149"
+msgid "Talk to Kelmen Locke"
+msgstr "ケルメン・ロケと話す"
+
+#: 7949764-0-52148
+msgctxt "7949764-0-52148"
+msgid "Find Nahlia and Free Her"
+msgstr "ナーリアを見つけ、自由にする"
+
+#: 7949764-0-52147
+msgctxt "7949764-0-52147"
+msgid "Defeat Yamanu-ko"
+msgstr "ヤマヌー・コを倒す"
+
+#: 7949764-0-52146
+msgctxt "7949764-0-52146"
+msgid "Enter the Apex Tower"
+msgstr "頂きの塔に入る"
+
+#: 7949764-0-52145
+msgctxt "7949764-0-52145"
+msgid "Watch Minerva Dispel Ward"
+msgstr "ミネルヴァが結界を打ち消す様子を見守る"
+
+#: 7949764-0-52144
+msgctxt "7949764-0-52144"
+msgid "Return to Gate"
+msgstr "門へ戻る"
+
+#: 7949764-0-52143
+msgctxt "7949764-0-52143"
+msgid "Talk to Minerva"
+msgstr "ミネルヴァと話す"
+
+#: 7949764-0-52142
+msgctxt "7949764-0-52142"
+msgid "West Tower Wave Event"
+msgstr "西塔イベント"
+
+#: 7949764-0-52141
+msgctxt "7949764-0-52141"
+msgid "Defeat Avys Areleth"
+msgstr "アヴィス・アレレスを倒す"
+
+#: 7949764-0-52140
+msgctxt "7949764-0-52140"
+msgid "Defeat Leta Doniticus"
+msgstr "レタ・ドニチクスを倒す"
+
+#: 7949764-0-52139
+msgctxt "7949764-0-52139"
+msgid "Exit Elinhir Sewerworks"
+msgstr "エリンヒル下水道作業現場から出る"
+
+#: 7949764-0-52138
+msgctxt "7949764-0-52138"
+msgid "Talk to Minerva"
+msgstr "ミネルヴァと話す"
+
+#: 7949764-0-52137
+msgctxt "7949764-0-52137"
+msgid "Enter Shada's Tear"
+msgstr "シャダの涙に入る"
+
+#: 7949764-0-52136
+msgctxt "7949764-0-52136"
+msgid "Talk to Ralai to Learn More"
+msgstr "詳しい話をラライに聞く"
+
+#: 7949764-0-52135
+msgctxt "7949764-0-52135"
+msgid "Enter the Elinhir Sewerworks"
+msgstr "エリンヒル下水道作業現場に入る"
+
+#: 7949764-0-52134
+msgctxt "7949764-0-52134"
+msgid "Talk to Nahlia"
+msgstr "ナーリアと話す"
+
+#: 7949764-0-52133
+msgctxt "7949764-0-52133"
+msgid "Follow Ralai into the Chambers"
+msgstr "部屋までラライの後を追う"
+
+#: 7949764-0-52132
+msgctxt "7949764-0-52132"
+msgid "Unlock the Door By Completing the Puzzle"
+msgstr "謎を解いて扉を開ける"
+
+#: 7949764-0-52131
+msgctxt "7949764-0-52131"
+msgid "Reach Hermaeus Mora's Shrine"
+msgstr "ハルメアス・モラの祠にたどり着く"
+
+#: 7949764-0-52130
+msgctxt "7949764-0-52130"
+msgid "Reach Hermaeus Mora's Shrine"
+msgstr "ハルメアス・モラの祠にたどり着く"
+
+#: 7949764-0-52129
+msgctxt "7949764-0-52129"
+msgid "Talk to Ibrula"
+msgstr "イブルーラと話す"
+
+#: 7949764-0-52128
+msgctxt "7949764-0-52128"
+msgid "Activate Southwestern Beam"
+msgstr "南西の光を発動させる"
+
+#: 7949764-0-52127
+msgctxt "7949764-0-52127"
+msgid "Activate Northwestern Beam"
+msgstr "北西の光を発動させる"
+
+#: 7949764-0-52126
+msgctxt "7949764-0-52126"
+msgid "Activate Northeastern Beam"
+msgstr "北東の光を発動させる"
+
+#: 7949764-0-52118
+msgctxt "7949764-0-52118"
+msgid "Light the Braziers of Rahni'Za"
+msgstr "ラーニザのかがり火を灯す"
+
+#: 7949764-0-52117
+msgctxt "7949764-0-52117"
+msgid "Begin the Trial of Air"
+msgstr "大気の試練を始める"
+
+#: 7949764-0-52116
+msgctxt "7949764-0-52116"
+msgid "Talk to Sali'ma"
+msgstr "サリマと話す"
+
+#: 7949764-0-52115
+msgctxt "7949764-0-52115"
+msgid "Return to the Star-Gazers"
+msgstr "星読みの元へ戻る"
+
+#: 7949764-0-52114
+msgctxt "7949764-0-52114"
+msgid "Experience the Ritual"
+msgstr "儀式を経験する"
+
+#: 7949764-0-52113
+msgctxt "7949764-0-52113"
+msgid "Talk to the Thief"
+msgstr "盗賊と話す"
+
+#: 7949764-0-52112
+msgctxt "7949764-0-52112"
+msgid "Talk to Hermaeus Mora's Statue"
+msgstr "ハルメアス・モラの像と話す"
+
+#: 7949764-0-52111
+msgctxt "7949764-0-52111"
+msgid "Talk to Master Timen"
+msgstr "ティメン師範と話す"
+
+#: 7949764-0-52109
+msgctxt "7949764-0-52109"
+msgid "Enter the Temple"
+msgstr "聖堂に入る"
+
+#: 7949764-0-52107
+msgctxt "7949764-0-52107"
+msgid "Complete the Trial of Martial Knowledge"
+msgstr "武術の知識の試練を乗り越える"
+
+#: 7949764-0-52106
+msgctxt "7949764-0-52106"
+msgid "Complete the Trial of Air"
+msgstr "大気の試練を乗り越える"
+
+#: 7949764-0-52105
+msgctxt "7949764-0-52105"
+msgid "Complete the Trial of the Arena"
+msgstr "アリーナの試練を乗り越える"
+
+#: 7949764-0-52104
+msgctxt "7949764-0-52104"
+msgid "Talk to Erold"
+msgstr "エロルドと話す"
+
+#: 7949764-0-52103
+msgctxt "7949764-0-52103"
+msgid "Talk to the Thief"
+msgstr "盗賊と話す"
+
+#: 7949764-0-52102
+msgctxt "7949764-0-52102"
+msgid "Listen to the Thief"
+msgstr "盗賊の話を聞く"
+
+#: 7949764-0-52101
+msgctxt "7949764-0-52101"
+msgid "Meet Titus In the Tombs of the Na-Totambu"
+msgstr "ナ・トタンブの墳墓でティトゥスと合流する"
+
+#: 7949764-0-52100
+msgctxt "7949764-0-52100"
+msgid "Free Titus Valerius"
+msgstr "ティトゥス・ヴァレリウスを解放する"
+
+#: 7949764-0-52099
+msgctxt "7949764-0-52099"
+msgid "Defeat Emperor Tarish-Zi"
+msgstr "皇帝タリシュ・ツィを倒す"
+
+#: 7949764-0-52098
+msgctxt "7949764-0-52098"
+msgid "Search for Emperor Tarish-Zi"
+msgstr "皇帝タリシュ・ツィを見つける"
+
+#: 7949764-0-52097
+msgctxt "7949764-0-52097"
+msgid "Retrieve Riza's Royal Seal"
+msgstr "リザの王家の紋章を手に入れる"
+
+#: 7949764-0-52096
+msgctxt "7949764-0-52096"
+msgid "Retrieve Tahmin's Royal Seal"
+msgstr "ターミンの王家の紋章を手に入れる"
+
+#: 7949764-0-52095
+msgctxt "7949764-0-52095"
+msgid "Help Titus Locate the Legend of Tarish-Zi"
+msgstr "ティトゥスと「タリシュ・ツィの伝説」を見つける"
+
+#: 7949764-0-52094
+msgctxt "7949764-0-52094"
+msgid "Enter the Ruined Library"
+msgstr "破壊された蔵書庫に入る"
+
+#: 7949764-0-52093
+msgctxt "7949764-0-52093"
+msgid "Find the Ruined Library"
+msgstr "破壊された蔵書庫を探す"
+
+#: 7949764-0-52092
+msgctxt "7949764-0-52092"
+msgid "Listen to Titus Valerius"
+msgstr "ティトゥス・ヴァレリウスの話を聞く"
+
+#: 7949764-0-52091
+msgctxt "7949764-0-52091"
+msgid "Search for the Burial Chamber"
+msgstr "埋葬室を探す"
+
+#: 7949764-0-52090
+msgctxt "7949764-0-52090"
+msgid "Travel to Buried Sands"
+msgstr "埋葬の砂へ行く"
+
+#: 7949764-0-52089
+msgctxt "7949764-0-52089"
+msgid "Search for the Skystone Amulet"
+msgstr "スカイストーンのアミュレットを探す"
+
+#: 7949764-0-52088
+msgctxt "7949764-0-52088"
+msgid "Restore the Warrior's Apex Stone"
+msgstr "戦士の冠石を回復する"
+
+#: 7949764-0-52087
+msgctxt "7949764-0-52087"
+msgid "Ask About Star-Gazers In Town"
+msgstr "街にいる星読みたちについて聞く"
+
+#: 7949764-0-52086
+msgctxt "7949764-0-52086"
+msgid "Talk to Hara"
+msgstr "ハーラと話す"
+
+#: 7949764-0-52085
+msgctxt "7949764-0-52085"
+msgid "Talk to Hara"
+msgstr "ハーラと話す"
+
+#: 7949764-0-52084
+msgctxt "7949764-0-52084"
+msgid "Find Hara"
+msgstr "ハーラを探す"
+
+#: 7949764-0-52083
+msgctxt "7949764-0-52083"
+msgid "Board the Cart"
+msgstr "荷馬車に乗る"
+
+#: 7949764-0-52082
+msgctxt "7949764-0-52082"
+msgid "Reach the Warrior's Apex Stone"
+msgstr "戦士の冠石に辿りつく"
+
+#: 7949764-0-52081
+msgctxt "7949764-0-52081"
+msgid "Search the Inner Ruins of Kardala"
+msgstr "カルダラの遺跡内部を探索する"
+
+#: 7949764-0-52080
+msgctxt "7949764-0-52080"
+msgid "Visit the Steed Mundus Stone"
+msgstr "駿馬のムンダス・ストーンを訪れる"
+
+#: 7949764-0-52079
+msgctxt "7949764-0-52079"
+msgid "Visit the Lady Mundus Stone"
+msgstr "淑女のムンダス・ストーンを訪れる"
+
+#: 7949764-0-52078
+msgctxt "7949764-0-52078"
+msgid "Visit the Lord Mundus Stone"
+msgstr "大公のムンダス・ストーンを訪れる"
+
+#: 7949764-0-52077
+msgctxt "7949764-0-52077"
+msgid "Activate <<1>>"
+msgstr "<<1>>を発動させる"
+
+#: 7949764-0-52076
+msgctxt "7949764-0-52076"
+msgid "Activate <<1>>"
+msgstr "<<1>>を発動させる"
+
+#: 7949764-0-52072
+msgctxt "7949764-0-52072"
+msgid "Retrieve <<1>>"
+msgstr "<<1>>を手に入れる"
+
+#: 7949764-0-52071
+msgctxt "7949764-0-52071"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-52064
+msgctxt "7949764-0-52064"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-52063
+msgctxt "7949764-0-52063"
+msgid "Use <<A:1>> to Summon <<2>>"
+msgstr "<<1>>を集めて<<2>>を呼び出す"
+
+#: 7949764-0-44692
+msgctxt "7949764-0-44692"
+msgid "Return to Two-Blades"
+msgstr "双剣の元へ戻る"
+
+#: 12320021-0-21368
+msgctxt "12320021-0-21368"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-21248
+msgctxt "74865733-0-21248"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-21242
+msgctxt "74865733-0-21242"
+msgid "Eat"
+msgstr "食べる"
+
+#: 74865733-0-21241
+msgctxt "74865733-0-21241"
+msgid "Drink"
+msgstr "飲み物"
+
+#: 74865733-0-21239
+msgctxt "74865733-0-21239"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-21218
+msgctxt "74865733-0-21218"
+msgid "Light"
+msgstr "発光"
+
+#: 74865733-0-21217
+msgctxt "74865733-0-21217"
+msgid "Light"
+msgstr "発光"
+
+#: 74865733-0-21216
+msgctxt "74865733-0-21216"
+msgid "Light"
+msgstr "発光"
+
+#: 108533454-0-21197
+msgctxt "108533454-0-21197"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21196
+msgctxt "108533454-0-21196"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-21195
+msgctxt "74865733-0-21195"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-21194
+msgctxt "108533454-0-21194"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21193
+msgctxt "108533454-0-21193"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21192
+msgctxt "108533454-0-21192"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21191
+msgctxt "108533454-0-21191"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21190
+msgctxt "108533454-0-21190"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21189
+msgctxt "108533454-0-21189"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21188
+msgctxt "108533454-0-21188"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21187
+msgctxt "108533454-0-21187"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21186
+msgctxt "108533454-0-21186"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21185
+msgctxt "108533454-0-21185"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21184
+msgctxt "108533454-0-21184"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21183
+msgctxt "108533454-0-21183"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21182
+msgctxt "108533454-0-21182"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21181
+msgctxt "108533454-0-21181"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21180
+msgctxt "108533454-0-21180"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21179
+msgctxt "108533454-0-21179"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21178
+msgctxt "108533454-0-21178"
+msgid "Opening…"
+msgstr "Opening…"
+
+#: 108533454-0-21177
+msgctxt "108533454-0-21177"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21176
+msgctxt "108533454-0-21176"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21175
+msgctxt "108533454-0-21175"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21174
+msgctxt "108533454-0-21174"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21173
+msgctxt "108533454-0-21173"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21172
+msgctxt "108533454-0-21172"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21171
+msgctxt "108533454-0-21171"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21170
+msgctxt "108533454-0-21170"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21169
+msgctxt "108533454-0-21169"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21168
+msgctxt "108533454-0-21168"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21167
+msgctxt "108533454-0-21167"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21166
+msgctxt "108533454-0-21166"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-21163
+msgctxt "74865733-0-21163"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-21135
+msgctxt "74865733-0-21135"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-21129
+msgctxt "74865733-0-21129"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-21068
+msgctxt "74865733-0-21068"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-21062
+msgctxt "108533454-0-21062"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21061
+msgctxt "108533454-0-21061"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-21060
+msgctxt "108533454-0-21060"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-21059
+msgctxt "74865733-0-21059"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-21057
+msgctxt "74865733-0-21057"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-21047
+msgctxt "74865733-0-21047"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-21041
+msgctxt "74865733-0-21041"
+msgid "Kick"
+msgstr "キック"
+
+#: 74865733-0-21034
+msgctxt "74865733-0-21034"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-21018
+msgctxt "74865733-0-21018"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-21014
+msgctxt "74865733-0-21014"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20981
+msgctxt "74865733-0-20981"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-20980
+msgctxt "74865733-0-20980"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-20979
+msgctxt "74865733-0-20979"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-20976
+msgctxt "74865733-0-20976"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20953
+msgctxt "74865733-0-20953"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 74865733-0-20926
+msgctxt "74865733-0-20926"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-20910
+msgctxt "74865733-0-20910"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20898
+msgctxt "74865733-0-20898"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 74865733-0-20880
+msgctxt "74865733-0-20880"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20879
+msgctxt "74865733-0-20879"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20876
+msgctxt "74865733-0-20876"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20875
+msgctxt "74865733-0-20875"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20861
+msgctxt "74865733-0-20861"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-20849
+msgctxt "74865733-0-20849"
+msgid "Summon"
+msgstr "召喚"
+
+#: 74865733-0-20834
+msgctxt "74865733-0-20834"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-20789
+msgctxt "74865733-0-20789"
+msgid "Enter"
+msgstr "入る"
+
+#: 74865733-0-20788
+msgctxt "74865733-0-20788"
+msgid "Enter"
+msgstr "入る"
+
+#: 74865733-0-20786
+msgctxt "74865733-0-20786"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20742
+msgctxt "74865733-0-20742"
+msgid "Talk"
+msgstr "話す"
+
+#: 108533454-0-20740
+msgctxt "108533454-0-20740"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20739
+msgctxt "108533454-0-20739"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20738
+msgctxt "108533454-0-20738"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20737
+msgctxt "108533454-0-20737"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20736
+msgctxt "108533454-0-20736"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20735
+msgctxt "108533454-0-20735"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20734
+msgctxt "108533454-0-20734"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20733
+msgctxt "108533454-0-20733"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20732
+msgctxt "108533454-0-20732"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20731
+msgctxt "108533454-0-20731"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20730
+msgctxt "108533454-0-20730"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20729
+msgctxt "108533454-0-20729"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20728
+msgctxt "108533454-0-20728"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20727
+msgctxt "108533454-0-20727"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20726
+msgctxt "108533454-0-20726"
+msgid "Searching…."
+msgstr "調査中…"
+
+#: 74865733-0-20725
+msgctxt "74865733-0-20725"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-20717
+msgctxt "74865733-0-20717"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20716
+msgctxt "74865733-0-20716"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20715
+msgctxt "74865733-0-20715"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20713
+msgctxt "74865733-0-20713"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20708
+msgctxt "74865733-0-20708"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-20693
+msgctxt "74865733-0-20693"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-20690
+msgctxt "74865733-0-20690"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20687
+msgctxt "108533454-0-20687"
+msgid "Searching…."
+msgstr "調査中…"
+
+#: 74865733-0-20685
+msgctxt "74865733-0-20685"
+msgid "Summon"
+msgstr "召喚"
+
+#: 74865733-0-20684
+msgctxt "74865733-0-20684"
+msgid "Summon"
+msgstr "召喚"
+
+#: 74865733-0-20682
+msgctxt "74865733-0-20682"
+msgid "Summon"
+msgstr "召喚"
+
+#: 74865733-0-20674
+msgctxt "74865733-0-20674"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-20668
+msgctxt "108533454-0-20668"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20667
+msgctxt "108533454-0-20667"
+msgid "Collecting Skyshard…"
+msgstr "Collecting Skyshard…"
+
+#: 108533454-0-20663
+msgctxt "108533454-0-20663"
+msgid "Searching…."
+msgstr "調査中…"
+
+#: 108533454-0-20662
+msgctxt "108533454-0-20662"
+msgid "Searching…."
+msgstr "調査中…"
+
+#: 108533454-0-20660
+msgctxt "108533454-0-20660"
+msgid "Opening..."
+msgstr "開けている…"
+
+#: 108533454-0-20659
+msgctxt "108533454-0-20659"
+msgid "Opening..."
+msgstr "開けている…"
+
+#: 108533454-0-20658
+msgctxt "108533454-0-20658"
+msgid "Opening..."
+msgstr "開けている…"
+
+#: 108533454-0-20657
+msgctxt "108533454-0-20657"
+msgid "Opening..."
+msgstr "開けている…"
+
+#: 108533454-0-20656
+msgctxt "108533454-0-20656"
+msgid "Opening..."
+msgstr "開けている…"
+
+#: 108533454-0-20655
+msgctxt "108533454-0-20655"
+msgid "Opening..."
+msgstr "開けている…"
+
+#: 74865733-0-20646
+msgctxt "74865733-0-20646"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-20576
+msgctxt "108533454-0-20576"
+msgid "Searching …"
+msgstr "調査中…"
+
+#: 108533454-0-20575
+msgctxt "108533454-0-20575"
+msgid "Searching …"
+msgstr "調査中…"
+
+#: 108533454-0-20554
+msgctxt "108533454-0-20554"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20553
+msgctxt "108533454-0-20553"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20552
+msgctxt "108533454-0-20552"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20551
+msgctxt "108533454-0-20551"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20550
+msgctxt "108533454-0-20550"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20549
+msgctxt "108533454-0-20549"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20548
+msgctxt "108533454-0-20548"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20547
+msgctxt "108533454-0-20547"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 108533454-0-20546
+msgctxt "108533454-0-20546"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 12320021-0-20506
+msgctxt "12320021-0-20506"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12320021-0-20505
+msgctxt "12320021-0-20505"
+msgid "Examine"
+msgstr "調べる"
+
+#: 8158238-0-2049
+msgctxt "8158238-0-2049"
+msgid "Searching…"
+msgstr "調査中…"

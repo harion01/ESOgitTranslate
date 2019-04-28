@@ -1,0 +1,1348 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 116521668-0-12870
+msgctxt "116521668-0-12870"
+msgid "Excellent! You are now a Student of the Mages Guild! Every book you find will now earn you reputation in the guild."
+msgstr "素晴らしい！ これで魔術師ギルドの一員になったな！ 本を探して集めれば、ギルド内で名声を得られるだろう"
+
+#: 232026500-0-12870
+msgctxt "232026500-0-12870"
+msgid "I wish to join the Mages Guild."
+msgstr "魔術師ギルドに入りたい"
+
+#: 116521668-0-12868
+msgctxt "116521668-0-12868"
+msgid "Then let me be the first to officially welcome you as an Associate of the Fighters Guild! Get out there and take the fight to the Daedra!"
+msgstr "それなら、戦士ギルドの見習いとして正式にお前を歓迎しよう！ ぜひデイドラと戦ってくれ！"
+
+#: 232026500-0-12868
+msgctxt "232026500-0-12868"
+msgid "I want to join the Fighters Guild."
+msgstr "戦士ギルドに入りたい"
+
+#: 116521668-0-12640
+msgctxt "116521668-0-12640"
+msgid "Oh! Well, everyone's experience is different, to be sure. "
+"\n"
+"\nBut don't let that keep you from getting out there and making a legend for yourself. The Whitestrake will walk in your steps and goad you to righteous fury!"
+msgstr "ええ！ まあ、確かに経験は人それぞれよ\\r"
+"\n\\r"
+"\nそれでも、あそこへ行って伝説になることはできるわ。ホワイトストレークはあなたと共に歩み、正義の怒りを煽るでしょう！"
+
+#: 232026500-0-12640
+msgctxt "232026500-0-12640"
+msgid "Nothing's happened so far."
+msgstr "今のところ、何も起きていない"
+
+#: 116521668-0-12635
+msgctxt "116521668-0-12635"
+msgid "Nailed to the Bounty board is a scrawled note from General Khamagash:"
+"\n"
+"\n""When you've killed your quota of enemy Wardens, take your reward."""
+msgstr "賞金ボードにカマガッシュ大将が走り書きしたメモが貼ってある:\\r"
+"\n\\r"
+"\n「割当分の敵ウォーデンを殺害した者には報酬を与える」"
+
+#: 232026500-0-12635
+msgctxt "232026500-0-12635"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-12634
+msgctxt "116521668-0-12634"
+msgid "Attached to the Bounty board is a message from General Dar-Liurz:"
+"\n"
+"\n""Your prowess in hunting enemy Wardens has gained you great renown. On behalf of Grand Warlord Zimmeron, I leave this reward for your efforts."""
+msgstr "賞金ボードにダー・リウルズ大将からのメッセージが貼ってある:\\r"
+"\n\\r"
+"\n「敵ウォーデンを征伐するという勇敢さは、そなたに名声をもたらした。ジマーロン大将軍に代わって、そなたに報酬を与える」"
+
+#: 232026500-0-12634
+msgctxt "232026500-0-12634"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-12633
+msgctxt "116521668-0-12633"
+msgid "Pinned to the Bounty board is a note from General Thoron:"
+"\n"
+"\n""I received word of your success in slaying enemy Wardens, soldier. Accept this bonus pay. It has been well-earned!"""
+msgstr "賞金ボードにソロン大将からのメモが貼ってある:\\r"
+"\n\\r"
+"\n「兵士よ、敵ウォーデンの殺害に成功したと聞いたぞ。この報酬を受け取るが良い。当然の評価だ！」"
+
+#: 232026500-0-12633
+msgctxt "232026500-0-12633"
+msgid "<Claim Bounty>"
+msgstr "<賞金を請求する>"
+
+#: 116521668-0-12631
+msgctxt "116521668-0-12631"
+msgid "I'm sure you did all that you could. We have to be grateful for what we have saved, not for what we have lost. I'll begin my research on his notes to see what damage his magic may have caused."
+"\n"
+"\nI thank you for your service."
+msgstr "できることはすべてやってくれたのね。失ったものではなく救えたものに感謝しなければ。魔法が引き起こした損害を見極めるため、メモの研究を始めるわ\\r"
+"\n\\r"
+"\n仕事をしてくれてありがとう"
+
+#: 232026500-0-12631
+msgctxt "232026500-0-12631"
+msgid "I stopped the experiment and gathered research notes. Dubdil Alar didn't survive."
+msgstr "実験を止めて、研究メモを集めた。ダブディル・アラーは生き残れなかった"
+
+#: 116521668-0-12627
+msgctxt "116521668-0-12627"
+msgid "Meet with the Ashlander tribes. Hear their problems and offer your aid. Show your respect for their traditions, and you will surely find someone willing to speak with you. "
+"\n"
+"\nHelp all you can, and let them see not everyone is our enemy."
+msgstr "アッシュランダーの部族と会え。問題を聞き、援助を申し出るのだ。そして伝統に敬意を払えば、自ずとお前と話したい者が見つかるだろう\\r"
+"\n\\r"
+"\n彼らをできるだけ助けてくれ。誰もが我々の敵ではないことを示すのだ"
+
+#: 232026500-0-12627
+msgctxt "232026500-0-12627"
+msgid "I'll go and speak with them."
+msgstr "行って、彼らと話そう"
+
+#: 116521668-0-12626
+msgctxt "116521668-0-12626"
+msgid "I would hope. You came to us, after all."
+"\n"
+"\nTraylan and Beleru are just down the hall. They should already have assignments for you. Speak to either of them to get started."
+msgstr "そうだろうな。来てくれたんだから\\r"
+"\n\\r"
+"\nトレイランとベレルは廊下を進んだところにいる。もう仕事を用意しているはずだ。どちらかと話をして、仕事を始めてくれ"
+
+#: 232026500-0-12626
+msgctxt "232026500-0-12626"
+msgid "I'm interested in taking a job."
+msgstr "仕事に興味がある"
+
+#: 116521668-0-12617
+msgctxt "116521668-0-12617"
+msgid "If you're lying, you do so remarkably well. If you're not, it is of no concern to me. You will receive the same coinage either way."
+"\n"
+"\nTake it and be about your business. And tell Edryno that if she fails again, I shall locate another mushroom seller."
+msgstr "嘘をついているなら驚くほど上手だな。そうでなくても、私には関係ない。どちらにせよ君が受け取るのは同じ金だ\\r"
+"\n\\r"
+"\n受け取ったら、自分の仕事に戻ってくれ。それからエドリノに、もしまた失敗したら、他のキノコ商人を探すと伝えろ"
+
+#: 232026500-0-12617
+msgctxt "232026500-0-12617"
+msgid "Actually, she said I could keep the payment."
+msgstr "彼女は報酬を受け取って良いと言っていた"
+
+#: 116521668-0-12611
+msgctxt "116521668-0-12611"
+msgid "Then let it be known that from this moment forth, you shall be called the Champion of Vivec! And along with my thanks, take this modest reward. "
+"\n"
+"\nI foresee even greater achievements in your future, but for now be content to be the hero of Morrowind!"
+msgstr "ではこの瞬間から、汝はヴィベクの勇者と呼ばれることを人々に知らせるがいい。そして我が感謝と共に、わずかばかりの報酬を受け取ってほしい\\r"
+"\n\\r"
+"\n汝の未来には更なる偉業が見て取れる。しかし今は、モロウウィンドの英雄で満足してもらうぞ"
+
+#: 232026500-0-12611
+msgctxt "232026500-0-12611"
+msgid "I accept, Lord Vivec."
+msgstr "了解した、ヴィベク卿"
+
+#: 116521668-0-12605
+msgctxt "116521668-0-12605"
+msgid "Yes, the house is yours ""in deed."""
+"\n"
+"\nDo you … oh, never mind."
+msgstr "この契約でこの家はようやく完全にあんたのものだ\\r"
+"\n\\r"
+"\nああ… いや、気にしないでくれ"
+
+#: 232026500-0-12605
+msgctxt "232026500-0-12605"
+msgid "So we're finished?"
+msgstr "それでは、これで終わりか？"
+
+#: 116521668-0-12582
+msgctxt "116521668-0-12582"
+msgid "As promised, here's your payment. I even threw in some extra for going above and beyond what we could have ever asked of you."
+"\n"
+"\nIf we ever decide to start an official Ghost Hunters Guild, you'll be the first to know, my friend."
+msgstr "約束した通り、これが報酬だ。頼んだ以上のことをやってくれたから、少し追加しておいたよ\\r"
+"\n\\r"
+"\n正式にゴーストハンターギルドを立ち上げる時は、真っ先に知らせよう"
+
+#: 232026500-0-12582
+msgctxt "232026500-0-12582"
+msgid "I'm glad I could help."
+msgstr "役に立ててよかった"
+
+#: 116521668-0-12577
+msgctxt "116521668-0-12577"
+msgid "No, I told Master Fyr I wouldn't go. He just walked away. I … think he fired me? I'm just glad he didn't ask my sister."
+"\n"
+"\nIf you have your heart set on an untimely death, Master Fyr's still intent on going."
+msgstr "ええ、マスター・ファーに行かないと言ったの。そうしたら立ち去ってしまったわ。たぶん… クビになったの？ 妹が頼まれなくてよかったけど\\r"
+"\n\\r"
+"\nあなたが早く死にたいなら、マスター・ファーはまだ行くつもりよ"
+
+#: 232026500-0-12577
+msgctxt "232026500-0-12577"
+msgid "So you're not organizing the expedition?"
+msgstr "探検隊は組織していないのか？"
+
+#: 116521668-0-12516
+msgctxt "116521668-0-12516"
+msgid "Rhea sees but a sliver of what's to come. Princes unbound by Sotha Sil's compact move against Nirn. I retire to Moonshadow to prepare."
+"\n"
+"\nVile's work in Vvardenfell was the first taste of something far worse. Ready yourself, child. Night draws near."
+msgstr "レアはこれから来ることの一部を見たにすぎません。ソーサ・シルの協定に縛られないデイドラ公はニルンを狙っています。私はムーンシャドウに戻って備えましょう\\r"
+"\n\\r"
+"\nヴァーデンフェルでヴァイルが行ったことは、大きな動きの第一歩に過ぎません。備えるのです。夜が、近づいています"
+
+#: 232026500-0-12516
+msgctxt "232026500-0-12516"
+msgid "But what of Rhea's vision? What does it mean?"
+msgstr "レアの幻視は？ どのような意味があった？"
+
+#: 116521668-0-12504
+msgctxt "116521668-0-12504"
+msgid "I appreciate your help and your concern, but what possible harm could glancing at a few dusty scrolls cause? Here, for your trouble. I seem to have some extra gold after adjusting my staff's compensation."
+"\n"
+"\nOh, Stibbons, since you like to read …."
+msgstr "あなたの協力と気遣いには感謝してるけど、埃をかぶった巻物を見るくらいじゃ何も起こらないでしょう？ さあ、報酬よ。助手の報酬を査定したら、ちょっとお金が余ったの\\r"
+"\n\\r"
+"\nそれから、スティボンズ。読書が好きなあなたには…"
+
+#: 232026500-0-12504
+msgctxt "232026500-0-12504"
+msgid "Is it really wise to let Stibbons read the Mad God's scrolls?"
+msgstr "スティボンズにマッドゴッドの巻物を読ませることは賢明なのか？"
+
+#: 116521668-0-12498
+msgctxt "116521668-0-12498"
+msgid "Oh, this is a nice, strong specimen you've selected for me. Isn't it adorable! And you have the notes too, excellent! I'll begin my research at once."
+"\n"
+"\nYou've done a huge favor not only for me, but for all kwama kind. Thank you."
+msgstr "<<npc{おお、これはいい。強い種を選んでくれたな。惚れ惚れする！ メモも持っているようだな。素晴らしい！ すぐに研究を始められる\\r"
+"\n\\r"
+"\n私だけでなく、すべてのクワマーのために最高の仕事をしてくれた。ありがとう/ああ、これはいい。強い種を選んでくれたわね。惚れ惚れする！ メモも持っているようね。素晴らしい！ すぐに研究を始められる\\r"
+"\n\\r"
+"\n私だけでなく、すべてのクワマーのために最高の仕事をしてくれた。ありがとう}>>"
+
+#: 232026500-0-12498
+msgctxt "232026500-0-12498"
+msgid "I've done what you requested."
+msgstr "頼まれた仕事を終えた"
+
+#: 116521668-0-12493
+msgctxt "116521668-0-12493"
+msgid "Anything to stop skooma from invading Vvardenfell is worthy of a reward. Hopefully one day we can stop this operation in its tracks, but for now you've done a great deal to prevent these bandits from reaching their despicable goals."
+msgstr "スクゥーマがヴァーデンフェルに浸透するのを止めるものは、どんなものでもあっても報酬の価値がある。この作戦の必要がなくなるといいんだが、今は山賊に悪しき目標を達成させない大仕事をやってくれたな"
+
+#: 232026500-0-12493
+msgctxt "232026500-0-12493"
+msgid "I planted the misleading notes."
+msgstr "誤情報のメモを置いた"
+
+#: 116521668-0-12483
+msgctxt "116521668-0-12483"
+msgid "This is one of the times I hate to be right. Was hoping someone would have run them out of the cavern already, honestly. I'll let my business partners know, and we'll decide what to do from here. Thanks for the help."
+msgstr "認めたくはないが、誰かが洞窟から奴らを追い出してくれていたら良かったんだがな。相棒に知らせるよ。そしてこれからの動きを決める。助けてくれてありがとう"
+
+#: 168415844-0-12483
+msgctxt "168415844-0-12483"
+msgid "I was able to determine that Khartag Point continues to be a key location in the regions illegal slave trade."
+msgstr "カータグ・ポイントがこの地域で行われている、違法な奴隷貿易の中心であり続けていると分かった"
+
+#: 232026500-0-12483
+msgctxt "232026500-0-12483"
+msgid "I killed the Camonna Tong commander and retrieved evidence of their illegal slave trade."
+msgstr "カモンナ・トングの指揮官を倒し、違法な奴隷貿易の証拠を手に入れた"
+
+#: 116521668-0-12474
+msgctxt "116521668-0-12474"
+msgid "Vivec's mighty spear, you're serious. I should be jealous, but truth be told I had my hands full just culling the Daedra that escaped the Sunken Vaults."
+"\n"
+"\nThanks for putting an end to those Worm Cult s'wits. I can handle cleaning up the stragglers."
+msgstr "ヴィベク様の強き槍にかけて、お前は大したものだ。妬みたいところだが、沈んだ宝物庫から逃げたデイドラを殺すだけで手一杯だった\\r"
+"\n\\r"
+"\n虫の教団の連中を片付けてくれてありがとう。はぐれた奴らの始末は任せてくれ"
+
+#: 232026500-0-12474
+msgctxt "232026500-0-12474"
+msgid "I was able to stop the Daedra summoning rituals."
+msgstr "デイドラ召喚の儀式は止められた"
+
+#: 116521668-0-12466
+msgctxt "116521668-0-12466"
+msgid "Always, hero. Oh, hey, I want you to have this. Something to remember Veya by. For an Outlander, I think she kind of liked you."
+"\n"
+"\nI suppose I kind of like you, too. Really, I'm not always this morose. Next time we meet, you'll see. Take care, hero."
+msgstr "ありがとう、英雄さん。あ、そうそう。これを受け取って。たまにはヴェヤのことを思い出してあげてね。よそ者にしては、あなたのことを気に入ってたと思う\\r"
+"\n\\r"
+"\n私も気に入ってるわ。私だって、いつもこんなに不機嫌なわけじゃないんだからね。次に会ったら証明してあげる。またね、英雄さん"
+
+#: 232026500-0-12466
+msgctxt "232026500-0-12466"
+msgid "Take care of yourself, Naryu."
+msgstr "気をつけて、ナリュー"
+
+#: 116521668-0-12451
+msgctxt "116521668-0-12451"
+msgid "Well done! Though a team is made of no single individual, it's still important that each spoke in the wheel bears its share of the burden. "
+"\n"
+"\nYou'd do well to remember that lesson. Here's your reward."
+msgstr "良くやった！ チームは個人の集合ではないが、車輪のスポークがそれぞれ重荷を分かち合うことは大切だ\\r"
+"\n\\r"
+"\nこの教訓をよく覚えておけ。報酬を渡そう"
+
+#: 232026500-0-12451
+msgctxt "232026500-0-12451"
+msgid "I've completed your challenge."
+msgstr "挑戦を完了した"
+
+#: 116521668-0-12450
+msgctxt "116521668-0-12450"
+msgid "As with any skill, practice makes perfect. It's important to stay sharp out there. Champions don't just spring up overnight!"
+"\n"
+"\nYou've earned your reward."
+msgstr "どんな技であろうと、訓練が高めてくれることに変わりはない。常に準備することが重要だ。チャンピオンは一夜にして生まれない！\\r"
+"\n\\r"
+"\n報酬を受け取ってくれ"
+
+#: 232026500-0-12450
+msgctxt "232026500-0-12450"
+msgid "I've completed your challenge."
+msgstr "挑戦を完了した"
+
+#: 116521668-0-12449
+msgctxt "116521668-0-12449"
+msgid "And such skill deserves ample reward. Keep it up, champion. Strive for victory in every match, no matter who may be your opponent."
+msgstr "このような腕には素晴らしい報酬を与えるべきだ。この調子で続けてくれ。相手が誰であろうと、あらゆる試合で勝利を狙うんだ"
+
+#: 232026500-0-12449
+msgctxt "232026500-0-12449"
+msgid "I've completed your challenge."
+msgstr "挑戦を完了した"
+
+#: 116521668-0-12436
+msgctxt "116521668-0-12436"
+msgid "My research indicates that thirty of our most revered families each left a clue to the location of the Library of Andule."
+"\n"
+"\nFind the remaining twenty-nine tombs, take rubbings, and before long our model will be complete and the location revealed."
+msgstr "私の研究によると、最も崇拝されし三十家が、それぞれアンドゥルの蔵書庫の位置への手がかりを残したことを示している\\r"
+"\n\\r"
+"\n残り29個の墳墓を探して、拓本を取ってくれ。そうすればすぐに模型は完成し、位置が明らかになるはずだ"
+
+#: 232026500-0-12436
+msgctxt "232026500-0-12436"
+msgid "How can I help you complete the rest of the model?"
+msgstr "どうすれば、残りの模型を完成させられる？"
+
+#: 116521668-0-12435
+msgctxt "116521668-0-12435"
+msgid "That's what I like to hear! The more you play, the more rewards. It's as simple as that. Occasionally I'll give you specific goals with greater rewards if you can accomplish them."
+"\n"
+"\nCome and see me anytime you wish for such a challenge."
+msgstr "ありがとう！ 参加するほど報酬を得られる。単純だ。たまに特定の目標を与えることもある。達成すれば、より多くの報酬を得られる\\r"
+"\n\\r"
+"\nもし挑戦したければ、いつでも来てくれ"
+
+#: 232026500-0-12435
+msgctxt "232026500-0-12435"
+msgid "I participated in a Battleground game."
+msgstr "バトルグラウンドのゲームに参加した"
+
+#: 116521668-0-12433
+msgctxt "116521668-0-12433"
+msgid "Always, hero. Oh, hey, I want you to have this. Something to remember me by until we meet again."
+"\n"
+"\nI hope you don't leave here with the impression that all Dark Elves are conniving dirt bags. Some of us are also kind of sexy. Like me, for instance."
+msgstr "ありがとう、英雄さん。あ、そうそう。これを受け取って。また会う日まで私のことを忘れないように\\r"
+"\n\\r"
+"\nダークエルフは、みんな狡猾なクズだって印象が残らないように願うわ。ちょっとセクシーなのもいるからね。例えば、私みたいに"
+
+#: 232026500-0-12433
+msgctxt "232026500-0-12433"
+msgid "Take care of yourself, Naryu."
+msgstr "気をつけて、ナリュー"
+
+#: 116521668-0-12395
+msgctxt "116521668-0-12395"
+msgid "The governor called upon the Morag Tong to hide his involvement, but it appears they simply brought it to light. As this note and the other evidence you uncovered clearly states, he was working with the slavers."
+"\n"
+"\nOn behalf of Seyda Neen, thank you."
+msgstr "総督は自分の関与を隠すため、モラグ・トングに依頼した。でも、彼らは明らかにしてしまったようね。このメモと見つけてくれた他の証拠は、彼が奴隷商人と組んでいたことを示している\\r"
+"\n\\r"
+"\nセイダ・ニーンを代表して、お礼を言わせて"
+
+#: 232026500-0-12395
+msgctxt "232026500-0-12395"
+msgid "I found this note on the island."
+msgstr "このメモを島で見つけた"
+
+#: 116521668-0-12394
+msgctxt "116521668-0-12394"
+msgid "So the Governor hoped to use the Morag Tong to cover his tracks, but this note just adds to the evidence you've already uncovered. Well done!"
+"\n"
+"\nYou have provided a great service to Seyda Neen. I'll take it from here."
+msgstr "つまり総督は、モラグ・トングを使って自分の関与を隠そうとした。でも、このメモはあなたが見つけてくれた他の証拠の裏付けになる。よくやったわね！\\r"
+"\n\\r"
+"\nセイダ・ニーンのため、素晴らしい仕事をしてくれた。ここからは任せて"
+
+#: 232026500-0-12394
+msgctxt "232026500-0-12394"
+msgid "I found this note on the island."
+msgstr "このメモを島で見つけた"
+
+#: 116521668-0-12377
+msgctxt "116521668-0-12377"
+msgid "Rhea sees but a sliver of what's to come. Even now, Princes unbound by Sotha Sil's compact move against Nirn. I retire to Moonshadow to prepare."
+"\n"
+"\nWe'll meet again soon, in a distant land. Perhaps sooner than you'd like. Until then, walk in twilight."
+msgstr "レアはこれから来ることの一部を見たに過ぎません。今この時も、ソーサ・シルの協定に縛られないデイドラ公はニルンに対して行動を起こしている。私はムーンシャドウに戻って備えましょう\\r"
+"\n\\r"
+"\n私達は、遠く離れた地ですぐに再会することになるでしょう。おそらく、あなたが思っているより早く。その時まで、黄昏を歩きなさい"
+
+#: 232026500-0-12377
+msgctxt "232026500-0-12377"
+msgid "But what of Rhea's vision? What does it mean?"
+msgstr "レアの幻視は？ どのような意味があった？"
+
+#: 116521668-0-12375
+msgctxt "116521668-0-12375"
+msgid "Oh, thank the Three. If I had to tell the Temple we might have to delay construction of Vivec City … well, Veloth isn't the only saint I'll be honoring tonight."
+"\n"
+"\nSafe travels, friend."
+msgstr "<<npc{ああ、三大神に感謝を。ヴィベク・シティの建設に遅れが出るかもしれないと聖堂に言うことを考えたら… まあ、今夜褒め称える聖人はヴェロシだけじゃないな\\r"
+"\n\\r"
+"\n友よ、旅の無事を祈る/ああ、三大神に感謝を。ヴィベク・シティの建設に遅れが出るかもしれないと聖堂に言うことを考えたら… まあ、今夜褒め称える聖人はヴェロシだけじゃない\\r"
+"\n\\r"
+"\n旅の無事を祈るわ}>>"
+
+#: 232026500-0-12375
+msgctxt "232026500-0-12375"
+msgid "I have the stolen taxes and records right here."
+msgstr "盗まれた税と記録を持って来た"
+
+#: 116521668-0-12365
+msgctxt "116521668-0-12365"
+msgid "Brivan was Ulran's best friend. Would he really betray my brother?"
+"\n"
+"\nRegardless, I want you to have this. You could have handed me to my father and you didn't. Other than Naryu and Ashur, you might be the only friend I have left."
+msgstr "ブリバンはウルランの親友だった。本当に兄を裏切ったの？\\r"
+"\n\\r"
+"\nどっちにしても、これを受け取って。あたしを父に引き渡してもよかったのに、あんたはそうしなかった。ナリューとアシュール以外に、残った友人はあんただけかもね"
+
+#: 232026500-0-12365
+msgctxt "232026500-0-12365"
+msgid "Evidence we uncovered suggests Captain Brivan was somehow involved in Ulran's troubles."
+msgstr "ブリバン隊長が、ウルランの問題に関わっていることを示す証拠"
+
+#: 116521668-0-12352
+msgctxt "116521668-0-12352"
+msgid "This note clearly implicates the governor. Along with the other evidence you uncovered, it's obvious that he was working with the slavers. Well done!"
+"\n"
+"\nSeyda Neen owes you for this great service, but I'll take it from here."
+msgstr "このメモは明らかに総督を示している。見つけてくれた他の証拠と合わせれば、彼が奴隷商人と組んでいたのは明白よ。よくやったわね！\\r"
+"\n\\r"
+"\nセイダ・ニーンはあなたに感謝している。でも、ここからは任せて"
+
+#: 232026500-0-12352
+msgctxt "232026500-0-12352"
+msgid "I found this note on the island."
+msgstr "このメモを島で見つけた"
+
+#: 116521668-0-12350
+msgctxt "116521668-0-12350"
+msgid "You saved these relics from dark cultists. We shall purify them and preserve them for future generations, thanks to you."
+"\n"
+"\nAccept this humble token as a symbol of our gratitude."
+msgstr "闇の信者から遺物を確保してくれました。浄化し、未来の世代のために保存しましょう。あなたのおかげです\\r"
+"\n\\r"
+"\n私たちの感謝を示すため、この報酬を受け取ってください"
+
+#: 232026500-0-12350
+msgctxt "232026500-0-12350"
+msgid "Here are the relics I recovered."
+msgstr "これが手に入れた遺物だ"
+
+#: 116521668-0-12349
+msgctxt "116521668-0-12349"
+msgid "Every piece of history tells a part of the story. Thank you for retrieving these. I will have the taint of the vampires removed from them as soon as possible."
+"\n"
+"\nThank you for your help, Outlander. Take this in gratitude for your efforts."
+msgstr "歴史のどんな側面も、歴史の一部を物語ってくれます。手に入れてくれてありがとう。できるだけ早く、吸血鬼の穢れを取り除きましょう\\r"
+"\n\\r"
+"\n手伝ってくれてありがとう。感謝の印として、これを受け取ってください"
+
+#: 232026500-0-12349
+msgctxt "232026500-0-12349"
+msgid "Here are the relics I recovered."
+msgstr "これが手に入れた遺物だ"
+
+#: 116521668-0-12348
+msgctxt "116521668-0-12348"
+msgid "Pieces of history once thought lost are found again. Thank you."
+"\n"
+"\nAnd for you, please accept this humble reward."
+msgstr "失われたはずの歴史のかけらが再び見つかりました。ありがとう\\r"
+"\n\\r"
+"\nどうか、このささやかな報酬を受け取ってください"
+
+#: 232026500-0-12348
+msgctxt "232026500-0-12348"
+msgid "Here are the relics I recovered."
+msgstr "これが手に入れた遺物だ"
+
+#: 116521668-0-12347
+msgctxt "116521668-0-12347"
+msgid "It pains me to see our brethren fall, but they brought this fate upon themselves."
+"\n"
+"\nThank you. I will see these relics placed under the care of our Wise Woman."
+msgstr "同胞が堕落した姿を見るのは辛いことです。しかし、彼らはこの運命を自ら招き寄せました\\r"
+"\n\\r"
+"\nありがとう。遺物は賢女に管理を任せます"
+
+#: 232026500-0-12347
+msgctxt "232026500-0-12347"
+msgid "Here are the relics I recovered."
+msgstr "これが手に入れた遺物だ"
+
+#: 116521668-0-12346
+msgctxt "116521668-0-12346"
+msgid "You have done my tribe and all our people a great service, Outlander. One day, these relics shall be returned and the Daedric shrines will be opened. One day."
+"\n"
+"\nIn the meantime, take this humble reward with our thanks."
+msgstr "部族と全ての民のため、素晴らしい仕事をしてくれました。いつかこうした遺物は本来の場所に戻り、デイドラの祠が再び開くでしょう。いつの日か\\r"
+"\n\\r"
+"\nその前に、感謝の印としてちょっとした報酬を受けてください"
+
+#: 232026500-0-12346
+msgctxt "232026500-0-12346"
+msgid "Here are the relics I recovered."
+msgstr "これが手に入れた遺物だ"
+
+#: 116521668-0-12345
+msgctxt "116521668-0-12345"
+msgid "Well done."
+"\n"
+"\nHow easily our people forget the past. How eager they are to bury it in the endless ash. We never forget. We never forgive. Now take this, with our thanks."
+msgstr "ありがとう\\r"
+"\n\\r"
+"\n我々民は、簡単に過去を忘れてしまうのですね。終わりなき灰へ、熱心に沈めているように見えます。私達は忘れない。許さない。さあ、感謝の印に、これを受け取ってください"
+
+#: 232026500-0-12345
+msgctxt "232026500-0-12345"
+msgid "Here are the relics I recovered."
+msgstr "これが手に入れた遺物だ"
+
+#: 116521668-0-12344
+msgctxt "116521668-0-12344"
+msgid "Thanks to you, the worship of Mehrunes Dagon shall be preserved for future generations, when all Dark Elves willingly return to the true faith."
+"\n"
+"\nThis small reward is inconsequential compared to the service you have provided, Outlander."
+msgstr "ありがとう。メエルーンズ・デイゴンの崇拝は未来の世代に引き継がなければなりません。全てのダークエルフが、真実の信仰に戻った時のために\\r"
+"\n\\r"
+"\nあなたがしてくれたことには見合いませんが、ちょっとした報酬をお渡しします"
+
+#: 232026500-0-12344
+msgctxt "232026500-0-12344"
+msgid "Here are the relics from the shrine."
+msgstr "これが祠にあった遺物だ"
+
+#: 116521668-0-12343
+msgctxt "116521668-0-12343"
+msgid "Yes. Eoki may curse me, but he'll see the wisdom in this eventually. I'll sweep his role in the escape under the rug—keep him safe from reprisals. One day, he'll thank me."
+"\n"
+"\nI appreciate your help in all of this, sera. You're a true friend."
+msgstr "ええ。エイオキは私を呪うかもしれないけど、いずれ分かってくれる。脱出での役割は隠蔽する。報復を受けないようにね。いつか私に感謝するわ\\r"
+"\n\\r"
+"\n色々助けてくれてありがとう。あなたは真の友達よ"
+
+#: 232026500-0-12343
+msgctxt "232026500-0-12343"
+msgid "Are you sure this is what you want?"
+msgstr "本当にこれが望みなのか？"
+
+#: 116521668-0-12342
+msgctxt "116521668-0-12342"
+msgid "I suppose I did, but it brings me no joy. Little wonder that other members of my House do the wrong thing so often."
+"\n"
+"\nThank you for all you've done, sera. I will never forget your loyalty and friendship."
+msgstr "そうかもしれないけど、全く嬉しくない。名家の他の連中が、いつも間違ったことをするのも頷けるわ\\r"
+"\n\\r"
+"\n色々ありがとう。あなたの忠誠と友情は忘れない"
+
+#: 232026500-0-12342
+msgctxt "232026500-0-12342"
+msgid "I think you did the right thing, Sun-in-Shadow."
+msgstr "正しいことをしたと思う、影の中の太陽"
+
+#: 116521668-0-12339
+msgctxt "116521668-0-12339"
+msgid "Nothing yet! I need to catalog them, study the ancient script, and make suitable translations. But given time, the Great Houses will see the value in this project and reward our efforts accordingly."
+"\n"
+"\nIn the meantime, take this with my gratitude."
+msgstr "まだ何も！ 目録を作成して古代文字を調査し、適切に翻訳するんだ。だがその内、名家がこの計画の価値を分かってくれる。努力に見合った報酬をくれるだろう\\r"
+"\n\\r"
+"\nまずは、感謝の気持ちとしてこれを受け取ってくれ"
+
+#: 232026500-0-12339
+msgctxt "232026500-0-12339"
+msgid "What do the genealogies tell you?"
+msgstr "系図で分かることは？"
+
+#: 116521668-0-12335
+msgctxt "116521668-0-12335"
+msgid "This note, along with the other evidence you uncovered, clearly implicates the Governor as working with the slavers. Well done!"
+"\n"
+"\nYou have provided a great service to Seyda Neen. I'll take it from here."
+msgstr "このメモと見つけてくれた他の証拠は、明らかに総督が奴隷商人と共謀していたことを示している。よくやったわね！\\r"
+"\n\\r"
+"\nセイダ・ニーンのために素晴らしい仕事をしてくれた。後は任せて"
+
+#: 232026500-0-12335
+msgctxt "232026500-0-12335"
+msgid "I found this note on the island."
+msgstr "このメモを島で見つけた"
+
+#: 116521668-0-12330
+msgctxt "116521668-0-12330"
+msgid "Tell my daughter I'm sorry. Tell her she needs to stay away until I can calm things down. I don't want to see anything happen to her. Promise me."
+"\n"
+"\nAnd take this. Consider it payment for your efforts thus far."
+msgstr "娘にすまないと伝えてくれ。私が事態を落ち着かせるまで離れているようにと。何かあってはいけない。約束してくれ\\r"
+"\n\\r"
+"\nそれから、これを持って行け。これまでの努力に対する報酬だと思ってくれ"
+
+#: 232026500-0-12330
+msgctxt "232026500-0-12330"
+msgid "What else do you need me to do, Councilor?"
+msgstr "他に必要なことはあるか、評議員？"
+
+#: 116521668-0-12324
+msgctxt "116521668-0-12324"
+msgid "You—you actually did it? You defeated the Hunger? I'll be honest, I didn't expect that. Thank you for the help! We'll be sure to contact you if any other horrifyingly grotesque creatures show up."
+"\n"
+"\nMaybe I should start saving up for that bakery."
+msgstr "本当に… 本当にやったの？ ハンガーを倒した？ 正直、期待してなかったわ。手伝ってくれてありがとう！ 今度また恐ろしくて醜い怪物が現れたら、きっと連絡するからね\\r"
+"\n\\r"
+"\nパン屋のために、貯金を始めるべきかもしれない"
+
+#: 232026500-0-12324
+msgctxt "232026500-0-12324"
+msgid "I dealt with the Hunger."
+msgstr "ハンガーは片付けた"
+
+#: 116521668-0-12320
+msgctxt "116521668-0-12320"
+msgid "I'm grateful that we were able to solve this through peaceful measures. I'll start my research on his notes straight away. I'm sure to find some clue about how he came about this knowledge in the first place."
+msgstr "平和的な手段で解決できて感謝してるわ。すぐにメモを見て研究を始めるつもりよ。そもそも、どうして彼がこの情報に遭遇したんでしょうね"
+
+#: 232026500-0-12320
+msgctxt "232026500-0-12320"
+msgid "I was able to stop Dubdil Alar and gather his research notes."
+msgstr "ダブディル・アラーを止めて、研究メモを集めてきた"
+
+#: 116521668-0-12315
+msgctxt "116521668-0-12315"
+msgid "Thank you, Outlander. Hopefully I can sell these items for a fair price to some scholars within the city. Not that I'm too worried about haggling, mind you. I've been at this for a long time."
+"\n"
+"\nKeep the ash from your eyes."
+msgstr "ありがとう、よそ者よ。街で学者にいい値段で売れるといいんだが。値切り交渉はそれほど心配していない。この商売を長くやってるからな\\r"
+"\n\\r"
+"\nお前の目に、灰が入りませんように"
+
+#: 232026500-0-12315
+msgctxt "232026500-0-12315"
+msgid "I have the items you asked for."
+msgstr "頼まれた品を手に入れた"
+
+#: 116521668-0-12314
+msgctxt "116521668-0-12314"
+msgid "Sage advice. I've had my fill of schemes for now. I plan to dedicate myself to my studies and try to patch things up with Eoki. The last time I saw him, I said some … hurtful things."
+"\n"
+"\nAgain, thank you. Next time you're in Sadrith Mora, come visit."
+msgstr "賢い助言ね。もう計画は十分。学問に励み、エイオキと仲直りするわ。最後に会った時… 酷いことを言ってしまったから\\r"
+"\n\\r"
+"\n本当にありがとう。次にサドリス・モラに来た時は、私のところに顔を出してね"
+
+#: 232026500-0-12314
+msgctxt "232026500-0-12314"
+msgid "You might want to lie low for a while, Sun-in-Shadow."
+msgstr "しばらく目立たないようにしておいた方がいい、影の中の太陽"
+
+#: 116521668-0-12312
+msgctxt "116521668-0-12312"
+msgid "A King Razor-Tusk trophy serves as a great talisman for hunters about to set off into the wild. Our crafters will make good use of this specimen."
+"\n"
+"\nAnd for you, this gift. As is our custom when a hunter successfully returns to camp."
+msgstr "キング・レイザータスクから手に入れたものは、荒野に旅立つ狩人の強力な護符となる。これは職人が上手に利用するだろう\\r"
+"\n\\r"
+"\nお前には、この贈り物を渡す。狩人がキャンプへの帰還に成功した際の習慣だ"
+
+#: 232026500-0-12312
+msgctxt "232026500-0-12312"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12311
+msgctxt "116521668-0-12311"
+msgid "Old Stomper falls and my people rejoice. Most impressive, hunter. You show your respect for our tribe and this land with every hunt you complete. Perhaps you have Ashlander blood flowing through you, after all."
+"\n"
+"\nTake this with our thanks."
+msgstr "オールド・ストンパーは敗北し、民は歓喜するだろう。実に見事だ、狩人よ。お前は狩りを完了することで、私たちの部族と土地に敬意を示している。アッシュランダーの血が流れているのかもしれないな\\r"
+"\n\\r"
+"\n感謝の証を受け取ってくれ"
+
+#: 232026500-0-12311
+msgctxt "232026500-0-12311"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12310
+msgctxt "116521668-0-12310"
+msgid "It's unusual for an outsider to seek to honor our customs and follow our traditions. Continue on this path and never show weakness, and you will always be welcome among the Erabenimsun."
+"\n"
+"\nAccept this as a token of our mutual respect."
+msgstr "我々の習慣に敬意を示して伝統に従うよそ者は珍しい。それを続けて失敗しなければ、エラベニムスンでは常に歓迎されるだろう\\r"
+"\n\\r"
+"\n互いを敬う証として、これを受け取ってくれ"
+
+#: 232026500-0-12310
+msgctxt "232026500-0-12310"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12309
+msgctxt "116521668-0-12309"
+msgid "Excellent! The tribe will eat well tonight and praise your hunting prowess with every delicious morsel."
+"\n"
+"\nSuch effort does not go unrewarded. Take this, with our compliments."
+msgstr "すばらしい！ これで部族は今夜十分な食事にありつき、一口ごとにお前の卓越した狩りの能力を称賛するだろう\\r"
+"\n\\r"
+"\nそのような努力は当然報われる。我々の賛辞と一緒に、これを受け取ってくれ"
+
+#: 232026500-0-12309
+msgctxt "232026500-0-12309"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12308
+msgctxt "116521668-0-12308"
+msgid "A trophy from a greater hive golem? Impressive. A word of advice, though. The stink of fetcherflies clings to you like a tangled shawl. Soak in a hot spring and eliminate that scent before you hunt again."
+"\n"
+"\nHere's your reward."
+msgstr "グレーターハイブゴーレムの戦利品か？ 見事だ。それでも助言をしよう。からまったショールのように、フェッチャーフライの臭いが染みついているぞ。熱い温泉に浸かって臭いを取ってから、狩りを再開することだ\\r"
+"\n\\r"
+"\n報酬を渡そう"
+
+#: 232026500-0-12308
+msgctxt "232026500-0-12308"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12305
+msgctxt "116521668-0-12305"
+msgid "You follow the path and honor the hunt. Continue this course and you'll always find a place at our fires, Outlander."
+"\n"
+"\nFor now, take this as a token of our mutual respect."
+msgstr "お前は道に従い、狩りを讃える。この道を継続すれば、いつでも我々の火にはお前の居場所がある\\r"
+"\n\\r"
+"\n今のところは互いに尊重し合う証として、これを受け取ってくれ"
+
+#: 232026500-0-12305
+msgctxt "232026500-0-12305"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12304
+msgctxt "116521668-0-12304"
+msgid "An impressive trophy from a worthy hunt! I'm beginning to forget you're an Outlander."
+"\n"
+"\nAllow me to honor you, in turn, with this humble reward."
+msgstr "立派な狩りの、見事な戦利品だ！ お前がよそ者であることを忘れてしまいそうだよ\\r"
+"\n\\r"
+"\nささやかな報酬で、敬意を表そう"
+
+#: 232026500-0-12304
+msgctxt "232026500-0-12304"
+msgid "Here's a trophy from my kill."
+msgstr "戦利品だ"
+
+#: 116521668-0-12302
+msgctxt "116521668-0-12302"
+msgid "Finally, a competent worker! You'd be surprised how difficult those are to come by these days. You should sleep better knowing that creature won't be ruining anymore careers. And I'm sure the extra gold in your pocket doesn't hurt either."
+msgstr "やっと有能な人を見つけた！ 最近では、そんな人を探すのがどれだけ難しいことか。あの怪物がもう誰の人生も破壊しないと知れば、もっとぐっすり眠れるわね。おまけの金貨がポケットに入っているのも、悪いことじゃないでしょ"
+
+#: 232026500-0-12302
+msgctxt "232026500-0-12302"
+msgid "I defeated the nereid and recovered these goods."
+msgstr "ネレイドを倒し、品物を回収した"
+
+#: 116521668-0-12300
+msgctxt "116521668-0-12300"
+msgid "As my next sermon shall proclaim, ""Modesty is the false cloak of a flatterer or the sincere garment of the humble."""
+"\n"
+"\nAgain, you have my gratitude and that of all my people. Indeed, even those who rail against the Tribunal owe you their lives."
+msgstr "次の説話では、「慎み深さは追従が被る偽のマントか、真の謙譲がまとう装飾である」と語ろう\\r"
+"\n\\r"
+"\nもう1度、汝達に感謝しよう。我と、我が民からな。トリビュナルに反対している者の命すらも救ってくれた"
+
+#: 232026500-0-12300
+msgctxt "232026500-0-12300"
+msgid "I did what I could."
+msgstr "できるだけのことはした"
+
+#: 116521668-0-12299
+msgctxt "116521668-0-12299"
+msgid "Oh, well, that's another matter entirely. Why didn't you just say so? So much to do, I need to prepare for the journey!"
+"\n"
+"\nAh, here's your pay. Goodbye."
+msgstr "<<npc{ああ、それなら全然話が違う。なぜそれを言わなかった？ やることがありすぎる。旅の支度をしよう！\\r"
+"\n\\r"
+"\nああ、これが報酬だ。じゃあな/ああ、それなら全然話が違う。なぜそれを言わなかったの？ やることがありすぎるわ。旅の支度をしましょう！\\r"
+"\n\\r"
+"\nええ、これが報酬よ。またね}>>"
+
+#: 232026500-0-12299
+msgctxt "232026500-0-12299"
+msgid "No, I'm here to tell you that the Salothan ghosts have been laid to rest."
+msgstr "いや、サロサンの亡霊が安らかに眠ったと伝えに来た"
+
+#: 116521668-0-12296
+msgctxt "116521668-0-12296"
+msgid "I'm almost afraid to do so. What couldn't he just say to us all this time?"
+"\n"
+"\nStill, these were his last wishes. Thank you for making that possible."
+msgstr "怖くてあまり見たくないわ。私たちにこれまで話せなかったことって、一体何なの？\\r"
+"\n\\r"
+"\nでも、父さんの最後の願いだったものね。実現してくれてありがとう"
+
+#: 232026500-0-12296
+msgctxt "232026500-0-12296"
+msgid "He wanted you to view his memories."
+msgstr "彼は記憶を見てほしいようだ"
+
+#: 116521668-0-12295
+msgctxt "116521668-0-12295"
+msgid "As Lord Vivec has written, ""The bravest heart never falters."" You are truly Vivec's champion."
+"\n"
+"\nI didn't know if the Blessing Stone was going to work, but I appreciate your help. Now go and talk to Lord Vivec. I'm sure he has a plan to share with us."
+msgstr "ヴィベク様がお書きになったように、「最も勇敢な魂はつまずくことがない」。お前はまさにヴィベクの勇者だ\\r"
+"\n\\r"
+"\n祝福の石が効くかどうかは分からないが、助けてくれて感謝する。ヴィベク様と話しに行こう。おそらく計画があるはずだ"
+
+#: 232026500-0-12295
+msgctxt "232026500-0-12295"
+msgid "I'm ready to do whatever I can."
+msgstr "あらゆる準備が出来ている"
+
+#: 116521668-0-12294
+msgctxt "116521668-0-12294"
+msgid "I did. But only because you wouldn't have done it otherwise. Ralasa would have killed Eoki and me eventually. She forced my hand. A Telvanni must act or die."
+"\n"
+"\nPlease, take this and my apologies. I hope you'll see the wisdom in this eventually."
+msgstr "ええ。そうしなければあなたはやってくれなかった。いずれララサが私とエイオキを殺していたでしょう。仕方がなかった。テルヴァンニ家では、行動か死だから\\r"
+"\n\\r"
+"\nお詫びにこれを受け取って。いつか、私の行動の正しさを分かってくれることを願ってるわ"
+
+#: 232026500-0-12294
+msgctxt "232026500-0-12294"
+msgid "You tricked me into delivering poisoned food."
+msgstr "騙して毒入りの食べ物を届けさせたな"
+
+#: 116521668-0-12293
+msgctxt "116521668-0-12293"
+msgid "Arith assures me that the Council will accept my petition now. So yes, I'd call this a success. Hopefully, no one will give me cause to do this again in the future."
+"\n"
+"\nOnce again, you have my thanks, sera."
+msgstr "評議会は私の請願を承認すると、アリスが約束してくれた。だから成功と言っていいと思う。今後は、こんなことをしなくて済めばいいんだけどね\\r"
+"\n\\r"
+"\nありがとう。本当に感謝してる"
+
+#: 232026500-0-12293
+msgctxt "232026500-0-12293"
+msgid "I hope it was worth it."
+msgstr "苦労に見合うといいが"
+
+#: 116521668-0-12288
+msgctxt "116521668-0-12288"
+msgid "That wasn't Nevena. She died here. You fulfilled her last wishes. I don't know that I could have done it, even without the gut wound."
+"\n"
+"\nThank you for bringing her peace."
+msgstr "あれはネヴェナじゃなかった。彼女はここで死んだんだ。君は彼女の最後の願いを叶えてくれた。腹の怪我がなかったとしても、私がやれたかどうかはわからない\\r"
+"\n\\r"
+"\n彼女に平穏をもたらしてくれた"
+
+#: 232026500-0-12288
+msgctxt "232026500-0-12288"
+msgid "She didn't leave me any choice. I'm sorry. <Give Tythis the diary and clues.>"
+msgstr "彼女は選択肢を与えてくれなかった。すまない。<ティシスに日記と手掛かりを渡す>"
+
+#: 116521668-0-12264
+msgctxt "116521668-0-12264"
+msgid "Now this is a find. It's clear you intend to curry my favor, and I'll admit it—it's working. I have something you should find equally interesting. Consider it a fair exchange."
+msgstr "これは中々の発見だ。機嫌を取りに来たんだろうが、認めよう。成功している。君も等しく興味を持ちそうなものがある。これは公正な取引だと思ってくれ"
+
+#: 232026500-0-12264
+msgctxt "232026500-0-12264"
+msgid "I have this artifact for you."
+msgstr "このアーティファクトを届けに来た"
+
+#: 116521668-0-12263
+msgctxt "116521668-0-12263"
+msgid "Yes, this could have potential. You're not trying to butter me up for any reason in particular, are you? No matter."
+"\n"
+"\nTake this as recompense."
+msgstr "ほう、これは面白い。何か具体的な理由があって取り入る訳ではないんだな？ まあいい\\r"
+"\n\\r"
+"\n報酬として、これを受け取ってくれ"
+
+#: 232026500-0-12263
+msgctxt "232026500-0-12263"
+msgid "I have this artifact for you."
+msgstr "このアーティファクトを届けに来た"
+
+#: 116521668-0-12262
+msgctxt "116521668-0-12262"
+msgid "This doesn't look particularly illuminating, but I'll add it to my research collection."
+"\n"
+"\nShould you find something else interesting in your travels, do think of me."
+msgstr "特に役立ちそうには見えないが、研究コレクションに加えておこう\\r"
+"\n\\r"
+"\n他にも旅の中で興味深いものを見つけたら、ぜひ私のことを思い出してくれ"
+
+#: 232026500-0-12262
+msgctxt "232026500-0-12262"
+msgid "I have this artifact for you."
+msgstr "このアーティファクトを届けに来た"
+
+#: 116521668-0-12260
+msgctxt "116521668-0-12260"
+msgid "You sniveling little s'wit. Do you know how valuable—? Nevermind. What's done is done. But don't expect any extra coin from me now. You'll have what was promised for killing Malur and not a drake more."
+"\n"
+"\nThis had better buy your silence as well."
+msgstr "哀れでこざかしい奴め。どれぐらいの価値があるか分かって… まあいい。終わったことは終わったことだ。だがこれ以上は期待するなよ。マルー殺害のために約束した分だけだ。それ以上ドレイクは渡さない\\r"
+"\n\\r"
+"\nこの金は、口を封じるためのものでもある。忘れるな"
+
+#: 232026500-0-12260
+msgctxt "232026500-0-12260"
+msgid "It's best that no one can use it again."
+msgstr "誰も使えないようにするのが一番だ"
+
+#: 116521668-0-12259
+msgctxt "116521668-0-12259"
+msgid "Hmm? Oh, yes. With this machine shutdown the threat to Tel Fyr is contained. "
+"\n"
+"\nTake this as thanks. I could not have asked for more capable assistants in this endeavor."
+msgstr "ん？ ああ、安全だ。この機械を停止したおかげで、テル・ファーへの脅威は阻止できている\\r"
+"\n\\r"
+"\nこれを礼として受け取ってくれ。今回の件では、素晴らしい働きをしてくれた"
+
+#: 232026500-0-12259
+msgctxt "232026500-0-12259"
+msgid "Is the rift secure now?"
+msgstr "裂け目はもう安全なのか？"
+
+#: 116521668-0-12258
+msgctxt "116521668-0-12258"
+msgid "Hmm? Oh, yes. With this machine shutdown the threat to Tel Fyr is contained. Consider these treasures reward for your assistance."
+msgstr "ん？ ああ、安全だ。この機械を停止したおかげで、テル・ファーへの脅威は阻止できている。宝は助力への報酬と考えてくれ"
+
+#: 232026500-0-12258
+msgctxt "232026500-0-12258"
+msgid "Is the rift secure now?"
+msgstr "裂け目はもう安全なのか？"
+
+#: 116521668-0-12257
+msgctxt "116521668-0-12257"
+msgid "Hmm? Oh, yes. With this machine shutdown the threat to Tel Fyr is contained. Keep whatever valuables you collected as compensation."
+msgstr "ん？ ああ、安全だ。この機械を停止したおかげで、テル・ファーへの脅威は阻止できている。手に入れた品は、報酬として受け取るがいい"
+
+#: 232026500-0-12257
+msgctxt "232026500-0-12257"
+msgid "Is the rift secure now?"
+msgstr "裂け目はもう安全なのか？"
+
+#: 116521668-0-12254
+msgctxt "116521668-0-12254"
+msgid "That was simply a consequence. They needed Tribunal energy to locate the Clockwork City … I was the easiest target. If Barbas enters Sotha Sil's city … disaster will follow."
+"\n"
+"\nI appreciate your help, but I must conserve what remains of my energy."
+msgstr "それは副産物にすぎない。彼らはクロックワーク・シティの所在を突き止めるために、トリビュナルのエナジーを必要としたのだ… 我が最も簡単な標的だった。バルバスがソーサ・シルの都市に入れば… 災厄が巻き起こる\\r"
+"\n\\r"
+"\n支援に感謝している。しかし、残ったエナジーの消費を抑えねばならない"
+
+#: 232026500-0-12254
+msgctxt "232026500-0-12254"
+msgid "Plan? They tried to kill you!"
+msgstr "計画？ 彼らは殺そうとしたのに！"
+
+#: 116521668-0-12244
+msgctxt "116521668-0-12244"
+msgid "That sounds like my Narsis! Always wanting to explore just one more nook and cranny! I assume he'll be along shortly for one of my shoulder rubs."
+"\n"
+"\nAllow me to pay you for your service. It is the standard rate for Narsis's apprentices."
+msgstr "それでこそナルシスね！ いつもどこかを隅々まで調べたがってる！ そろそろ私のマッサージを受けに来る頃ね\\r"
+"\n\\r"
+"\nあなたの仕事に対価を払わせてもらうわ。ナルシスの見習いに対して支払う、一般的な額よ"
+
+#: 232026500-0-12244
+msgctxt "232026500-0-12244"
+msgid "Narsis is doing quite well. He wanted to check out one more hole in the ground."
+msgstr "ナルシスは素晴らしい仕事をしている。彼はもう1つ穴を調べたいようだ"
+
+#: 116521668-0-12243
+msgctxt "116521668-0-12243"
+msgid "How this upstart Ashlander learned to attune Sotha Sil's tool confounds my understanding. And he dares use my power?"
+"\n"
+"\nStill, your help is appreciated. Every strike and parry takes us one step closer to ending this threat and restoring my vitality."
+msgstr "この成り上がりのアッシュランダーが、ソーサ・シルの道具を調整する方法を知っていたというのが妙だ。そして、我の力を使ったと？\\r"
+"\n\\r"
+"\nともかく、汝の助力は役立った。あらゆる攻撃と防御が、この脅威を終止符を打ち、我の力を回復する一歩となる"
+
+#: 232026500-0-12243
+msgctxt "232026500-0-12243"
+msgid "We discredited Chodala as the Nerevarine, but he escaped with Sunna'rah."
+msgstr "チョダラがネレヴァリンであるという主張は退けたが、彼はスナラーを持って逃げた"
+
+#: 116521668-0-12241
+msgctxt "116521668-0-12241"
+msgid "As you say. No other outsiders. But there are rules, Outlander. I must do everything within reason to maintain the honor of House Redoran."
+"\n"
+"\nHere. Your first payment. Soon, however, I'll expect more than just a verbal confirmation of Veya's safety."
+msgstr "君の言う通りにしよう。他のよそ者は下がらせる。だが掟があるのだ。レドラン家の名誉を守るため、できることはやらねばならん\\r"
+"\n\\r"
+"\nさあ、最初の報酬だ。しかし近い内に、口頭での安否確認よりも大きな進展があることを期待している"
+
+#: 232026500-0-12241
+msgctxt "232026500-0-12241"
+msgid "Your daughter is safe. Just let me handle this and I'll try to get her to agree to meet with you."
+msgstr "娘は安全だ。任せてくれれば、会合に応じるよう説得してみる"
+
+#: 116521668-0-12240
+msgctxt "116521668-0-12240"
+msgid "Yes, of course. Never let it be said that Neramo doesn't compensate his assistants! Your aid proved invaluable."
+"\n"
+"\nI trust this is adequate? Until we meet again, my friend."
+msgstr "ああ、もちろんだ。ネラモは助手に補償しないとは言わせない！ 本当に助かった\\r"
+"\n\\r"
+"\nこれで十分かな？ 友よ、また会おう"
+
+#: 232026500-0-12240
+msgctxt "232026500-0-12240"
+msgid "You mentioned splitting profits …."
+msgstr "利益を分配すると言ったが…"
+
+#: 116521668-0-12235
+msgctxt "116521668-0-12235"
+msgid "Yes. ""In the shadow of Skar, we found our home."" There are few things more sacred than a dead hero's wish. I will see our home rebuilt—our tomb restored. I will honor my ancestors."
+"\n"
+"\nHouse Hleran owes you a great debt, my friend. Thank you."
+msgstr "分かった。「スカーの影に我々の家を見つけた」か。死んだ英雄の願いより尊いものはあまりない。私は家を再建し、墳墓を回復するだろう。先人に礼を尽くすよ\\r"
+"\n\\r"
+"\nフレラン家は大きな借りができた。ありがとう"
+
+#: 232026500-0-12235
+msgctxt "232026500-0-12235"
+msgid "The Hleran's settled here after the battle. Your ancestor wanted you to know it is your home."
+msgstr "フレラン家は戦闘の後でここに落ち着いた。祖先は、ここが故郷だと伝えてほしがっていた"
+
+#: 116521668-0-12213
+msgctxt "116521668-0-12213"
+msgid "Halinjirr? I thought him a clueless sugar-sop. If he's managed to grow moon sugar here in Vvardenfell, he's more cunning than he seems. Make no mistake, we'll find him."
+"\n"
+"\nThe Tribunal thanks you for your help, Outlander. Take this as your reward."
+msgstr "ハリンジル？ 愚かな砂糖狂いかと思っていた。彼がヴァーデンフェルでムーンシュガーを育てられるなら、見かけ以上に知恵がいるな。間違いなく彼を見つけよう\\r"
+"\n\\r"
+"\nよそ者よ、トリビュナルはお前の協力に感謝する。報酬として、これを受け取ってくれ"
+
+#: 232026500-0-12213
+msgctxt "232026500-0-12213"
+msgid "A Khajiit named Halinjirr is growing moon sugar in Zainsipilu. Here's the proof."
+msgstr "ハリンジルというカジートは、ザインシピルーでムーンシュガーを栽培していた。これが証拠だ"
+
+#: 116521668-0-12212
+msgctxt "116521668-0-12212"
+msgid "Oh, a hundred blessings on you, walker! It is good to see that not everyone in Vvardenfell is an uptight prude."
+"\n"
+"\nPlease, take this for your trouble."
+msgstr "ああ、百の祝福を！ ヴァーデンフェルの全員が苛々した澄まし屋ではないとわかってよかった\\r"
+"\n\\r"
+"\n手間をかけた例に、これを受け取ってくれ"
+
+#: 232026500-0-12212
+msgctxt "232026500-0-12212"
+msgid "I won't report you. Here's your notes. You're free to go."
+msgstr "通報はしない。これがメモだ。行っていい"
+
+#: 116521668-0-12211
+msgctxt "116521668-0-12211"
+msgid "Here, take this. Without you, we'd still be dragging half-mad miners out of there."
+"\n"
+"\nIt'll take some time to get the mine up and running, but with a new queen, I bet we'll be even more prosperous than before. Thanks, friend, and safe travels."
+msgstr "ほら、これを受け取ってくれ。お前がいなければ、今頃まだおかしくなった連中をあそこから引きずり出しているところだ\\r"
+"\n\\r"
+"\n鉱山を立ち上げて稼働させるには時間がかかるだろうが、新しいクィーンがいればきっと以前よりも繁盛するだろう。ありがとう、友よ。気をつけてな"
+
+#: 232026500-0-12211
+msgctxt "232026500-0-12211"
+msgid "Looks like the Gnisis Egg-Mine is back in business."
+msgstr "グニシス卵鉱山は仕事に戻ったようだ"
+
+#: 116521668-0-12210
+msgctxt "116521668-0-12210"
+msgid "Oh yes! Before you arrived, he was telling us all about it. I am certain it's going to make for a great story—his best yet! And he was so feisty!"
+"\n"
+"\nAllow me to pay you for your service. It is the standard rate for Narsis's apprentices."
+msgstr "ええ！ あなたが到着する前に、話はすべて聞いたわ。また素晴らしい物語になるわね。彼の最高傑作になる！ 彼はとっても元気だったわ！\\r"
+"\n\\r"
+"\nあなたの仕事に対価を払わせてもらうわ。ナルシスの見習いに対して支払う、標準的な額よ"
+
+#: 232026500-0-12210
+msgctxt "232026500-0-12210"
+msgid "I suppose this will make another exciting tale for the famous Narsis Dren."
+msgstr "これは高名なナルシス・ドレンの、新たな冒険物語になるようだ"
+
+#: 116521668-0-12204
+msgctxt "116521668-0-12204"
+msgid "An Ashlander? That seems unlikely, but I trust your instincts. We need to find out more about this Chodala and the ancient enemy that aids him."
+"\n"
+"\nTake this. Another token of my appreciation. And look, here comes the Archcanon now."
+msgstr "アッシュランダー？ ありそうにない話だが、汝の勘を信じよう。このチョダラと、彼の者を支援している古き敵を探し出さねばならぬ\\r"
+"\n\\r"
+"\nこれを受け取れ。さらなる謝意の印だ。どうやら、アークカノンも到着したようだ"
+
+#: 232026500-0-12204
+msgctxt "232026500-0-12204"
+msgid "I think that an Ashlander named Chodala might be responsible for your condition."
+msgstr "現在の状況は、チョダラというアッシュランダーが引き起こしたものだと思う"
+
+#: 116521668-0-12184
+msgctxt "116521668-0-12184"
+msgid "Home. The ritual of sacrifice is almost complete, and the Daedra Lords you so foolishly ignore will, we hope, spare us their wrath for another decade."
+"\n"
+"\nWe will hope they turn their dire gaze upon Molag Mar before we return again."
+msgstr "故郷だ。生贄の儀式はほぼ完了した。お前たちが愚かにも無視するデイドラ公の怒りは、今後しばらく我々に向けられないだろう\\r"
+"\n\\r"
+"\n我々が再び戻る前に、奴らの恐ろしい視線がモラグ・マールに向くといい"
+
+#: 232026500-0-12184
+msgctxt "232026500-0-12184"
+msgid "Where will you go now?"
+msgstr "これからどこに行く？"
+
+#: 116521668-0-12180
+msgctxt "116521668-0-12180"
+msgid "Well this has been an ugly business, hasn't it? A talented breedsman dead, a brood exterminated, mercenaries slaughtered … sometimes I miss the academy."
+"\n"
+"\nPlease, take this. House Hlaalu owes you a great debt. Safe travels, sera."
+msgstr "とんだ汚れ仕事だったわね？ 才能ある繁殖家が死に、血の粛清が行われ、傭兵が虐殺され… 時々学問の世界が懐かしくなる\\r"
+"\n\\r"
+"\nこれを受け取って。フラール家はあなたに大きな借りができた。安全な旅を"
+
+#: 232026500-0-12180
+msgctxt "232026500-0-12180"
+msgid "Yes, I killed Drovos and exterminated his kwama."
+msgstr "ああ、ドロヴォスを倒してクワマーを全滅させた"
+
+#: 116521668-0-12157
+msgctxt "116521668-0-12157"
+msgid "It's only because of you, friend. I'll raise a bottle of mead to you every night, from now until World's End."
+"\n"
+"\nPlease, take this. You've more than earned it for what you've done."
+msgstr "全てお前のおかげだよ。これから世界の終わりまで、毎晩ハチミツ酒の瓶を掲げよう\\r"
+"\n\\r"
+"\nさあ、これを受け取ってくれ。お前の功績は、この報酬より大きいがな"
+
+#: 232026500-0-12157
+msgctxt "232026500-0-12157"
+msgid "I'm just glad that everyone got out all right."
+msgstr "全員無事に出られて良かった"
+
+#: 116521668-0-12140
+msgctxt "116521668-0-12140"
+msgid "Thank you, friend! You've done me, nay, the world, a huge favor today. I already know that the breakthroughs I'll make with these specimens will be talked about across the ages."
+"\n"
+"\nAnd I'll of course make sure to credit you in my dissertation."
+msgstr "<<npc{ありがとう！ 今日は私のため、いや、世界のためにとても役立つことをしてくれた。この標本を使う大発見は、世代を超えて語り継がれることはもう分かっている\\r"
+"\n\\r"
+"\nもちろん、論文の謝辞には君の名を載せるよ/ありがとう！ あなたは今日私のため、いえ、世界のためにとても役立つことをしてくれたわ。この標本を使う大発見は、世代を超えて語り継がれることがもう分かってる\\r"
+"\n\\r"
+"\nもちろん、論文の謝辞にはあなたの名前を載せるわ}>>"
+
+#: 232026500-0-12140
+msgctxt "232026500-0-12140"
+msgid "I took care of the nix-ox and have the mushroom samples."
+msgstr "ニックス・オックスを倒してキノコのサンプルを集めた"
+
+#: 116521668-0-12138
+msgctxt "116521668-0-12138"
+msgid "Thank goodness. Luring cats to his door everyday would have gotten awfully tiresome."
+"\n"
+"\nIn the end he'll see it's for the best. Collaboration always yields better results than competition. You and I are proof of that, right? Thanks again, sera."
+msgstr "よかった。毎日奴の家の扉へ猫を誘い込むのは、かなり面倒だったと思う\\r"
+"\n\\r"
+"\n最後には、奴もこれが最善だとわかるでしょう。協力は競争よりも良い結果をもたらすもの。あなたと私がその証拠でしょう？ 改めて言うわ。ありがとう"
+
+#: 232026500-0-12138
+msgctxt "232026500-0-12138"
+msgid "He agreed to come out and apologize."
+msgstr "彼は出て来て謝罪することに同意した"
+
+#: 116521668-0-12137
+msgctxt "116521668-0-12137"
+msgid "That's good news indeed! You must understand that discretion is paramount here. No need for word to get around of our little mishap. You keep quiet, and I'll see that more work comes your way."
+msgstr "<<npc{それは本当にいい知らせだ！ 口の固さが最重要事項であることを理解してくれ。ちょっとした不運な事故の噂が広まっては困るんだ。黙っていてくれたら、さらに仕事の依頼が来るだろう/それは本当にいい知らせね！ 口の固さが最重要事項であることを理解してね。ちょっとした不運な事故の噂が広まっては困るの。黙っていてくれたら、さらに仕事の依頼が来るはずよ}>>"
+
+#: 232026500-0-12137
+msgctxt "232026500-0-12137"
+msgid "Your mine should be safe for now."
+msgstr "もう鉱山は安全だ"
+
+#: 116521668-0-12135
+msgctxt "116521668-0-12135"
+msgid "If Galgalah is truly banished, he won't torment anyone else again. Farwen must have known that."
+"\n"
+"\nHere's your payment. You did everything I could have asked for, so thank you for that. I'm going to find Sharz after this and give him the news."
+msgstr "ガルガラーが本当に倒されたなら、奴が誰かを苦しめることはもうない。ファーウェンはそれを分かっていたはずだ\\r"
+"\n\\r"
+"\n報酬を支払おう。頼んだことは全てやってくれた。本当にありがとう。この後はシャーズを探して、彼に話そう"
+
+#: 232026500-0-12135
+msgctxt "232026500-0-12135"
+msgid "I'm sorry it ended like this."
+msgstr "こんな終わり方ですまない"
+
+#: 116521668-0-12134
+msgctxt "116521668-0-12134"
+msgid "Yes. But I do so knowing that the legacy of the Scarlet Judge is in good hands."
+"\n"
+"\nWe Dark Elves are beset on all sides by greed and scheming malice. I fought it all my life, but now it falls to you. Keep up the work, and be the hero Vvardenfell needs."
+msgstr "ああ。だがそうするのは、スカーレットジャッジの遺産が良き手に渡ったと分かっているからだ\\r"
+"\n\\r"
+"\n我々ダークエルフは、あらゆるところで欲や悪意の陰謀に悩まされる。これまでずっと戦ってきたが、これからは任せる。頑張って、ヴァーデンフェルの人々に必要とされる英雄になってくれ"
+
+#: 232026500-0-12134
+msgctxt "232026500-0-12134"
+msgid "So you really plan to retire?"
+msgstr "それで、本当に引退するのか？"
+
+#: 116521668-0-12112
+msgctxt "116521668-0-12112"
+msgid "Well, that makes two of us! I took no pleasure in spending all that coin, but as a retainer, I'll be able to double that sum before long."
+"\n"
+"\nNow if you'll excuse me, I have a writ to deliver! Thank you again, my friend."
+msgstr "ええ、これで互いに満足ね！ あれだけの大金を使うのは気が引けたけど、家臣になればあの倍はすぐに稼げる\\r"
+"\n\\r"
+"\n推薦状を届けないといけないから失礼するわ！ 本当にありがとう"
+
+#: 232026500-0-12112
+msgctxt "232026500-0-12112"
+msgid "Here's the writ of endorsement. Firuth seemed pleased with the deal."
+msgstr "推薦状だ。フィルスは取引に満足してるようだった"
+
+#: 116521668-0-12100
+msgctxt "116521668-0-12100"
+msgid "He's dead? Damn. At least he died knowing you'd rescued this lot. I'll keep smuggling slaves out of Vvardenfell, sure. And I'll make sure they know why, too."
+"\n"
+"\nTake this. Khartag would want you to have it. Good luck on the road, friend."
+msgstr "奴が死んだ？ くそ。少なくとも、お前がこいつらを助けてくれたと知って死んだんだな。俺は奴隷をヴァーデンフェルから逃がし続ける。奴らにもその理由を知らせるよ\\r"
+"\n\\r"
+"\nこいつを持っていけ。カータグはお前に持っていてほしいはずだ。道中の幸運を祈るよ"
+
+#: 232026500-0-12068
+msgctxt "232026500-0-12068"
+msgid "I should have been told what I was helping you to do."
+msgstr "何を手伝っているのか教えられるべきだった"
+
+#: 116521668-0-12067
+msgctxt "116521668-0-12067"
+msgid "What a relief. With Mistress Dratha's approval, I'll send runners to nearby towns and let the people know it's safe to return. Thank you, my friend. Truly."
+"\n"
+"\nTake this. And I believe my Mistress Dratha would like a proper word as well."
+msgstr "安心したわ。ミストレス・ドラサの許可を得て、近くの街に伝令を派遣するわね。人々に戻っても安全だと伝えましょう。本当にありがとう。感謝するわ\\r"
+"\n\\r"
+"\nこれを受け取って。ミストレス・ドラサからもお話があるでしょう"
+
+#: 232026500-0-12067
+msgctxt "232026500-0-12067"
+msgid "Yes. Savarak won't trouble the people of Vos any longer."
+msgstr "ああ。サヴァラクがヴォスの人々を悩ませることはもうない"
+
+#: 116521668-0-12056
+msgctxt "116521668-0-12056"
+msgid "I'll need it. You didn't ask for anything, but I want you to have this. Just the gold I managed to hide away over the years, minus what I'll need for passage."
+"\n"
+"\nNot payment, a gift. For a friend. Goodbye … and thank you, so much."
+msgstr "必要になるわ。あなたは何も要求しなかったけど、これをあげる。長年かけて何とか隠してきたお金から、旅に必要な分を差し引いたものよ\\r"
+"\n\\r"
+"\n支払いではなく、贈り物よ。友人にね。さようなら… そしてありがとう、本当に"
+
+#: 232026500-0-12056
+msgctxt "232026500-0-12056"
+msgid "Good luck in your travels, Tirwin."
+msgstr "では幸運を、ティルウィン"
+
+#: 116521668-0-12055
+msgctxt "116521668-0-12055"
+msgid "You sound just like Mother. Well, both of you are going to see how wrong you are."
+"\n"
+"\nNothing can keep us apart now!"
+msgstr "母さんみたいなことを言うんだな。そのうち、どちらも自分がいかに間違っているかわかるだろう\\r"
+"\n\\r"
+"\n今、私たちを引き離せるものは何もない！"
+
+#: 232026500-0-12055
+msgctxt "232026500-0-12055"
+msgid "Here it is. Don't say I didn't warn you."
+msgstr "さあ。警告しなかったとは言わないように"
+
+#: 116521668-0-12048
+msgctxt "116521668-0-12048"
+msgid "You've proven to be a reliable assistant. House Hlaalu values reliability. I would say it's been a pleasure, but this whole affair has left me with quite a headache. Still, I may call upon you again in the future."
+"\n"
+"\nHere. Double pay, as promised."
+msgstr "お前は信頼できる助手だ。フラール家は信頼を大事にしている。喜ばしいが、この問題は頭痛の種だ。それでも、いつか力を借りる時が来るかもしれないな\\r"
+"\n\\r"
+"\nさあ、約束したように、倍払おう"
+
+#: 232026500-0-12048
+msgctxt "232026500-0-12048"
+msgid "I'm here to collect."
+msgstr "報酬を受け取りに来た"
+
+#: 168415844-0-11989
+msgctxt "168415844-0-11989"
+msgid "."
+msgstr "."
+
+#: 116521668-0-12068
+msgctxt "116521668-0-12068"
+msgid "That would be your opinion, wouldn't it? My path is clear. A Daedric pact may seem a grim choice, but I'm prepared for the consequences."
+"\n"
+"\nNow, you adventurers love trinkets and gold, yes? I trust this will suffice. Farewell."
+msgstr "そういう意見もあるね。でも、私の進む道ははっきりしている。デイドラとの取引は良くない選択に思えるが、その結果には備えてある\\r"
+"\n\\r"
+"\nさて。お前のような冒険者は装飾やゴールドが好きなんだろう？ なら、これでいいね。さようなら"
+
+#: 116521668-0-11986
+msgctxt "116521668-0-11986"
+msgid "Listen well and speak not a word! My divine energy, it drains away. Whether from illness or foul malady, I know not. You must travel the land and seek answers on my behalf."
+"\n"
+"\nBut first, ""Gratitude before service,"" as I have written. So, thank you."
+msgstr "耳を研ぎ澄ませ。一言も発するな！ 我が聖なるエナジーが失われている。不備か病かは分からぬ。汝には、我に代わってこの地を旅し、答えを探してもらいたい\\r"
+"\n\\r"
+"\nだが、我は初めに斯様に綴ったのだ。「奉仕の前には謝意を以て報いよ」と。感謝する"

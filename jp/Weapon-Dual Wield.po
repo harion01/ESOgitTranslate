@@ -1,0 +1,384 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-85187
+msgctxt "132143172-0-85187"
+msgid "Slash enemies in front of you, dealing <<1>> over <<2>> and healing you for <<3>> of the damage done."
+msgstr "前方の敵を全て切り裂き、<<1>>を<<2>>の間与える。与えたダメージの<<3>>だけ自身を回復する。"
+
+#: 198758357-0-85187
+msgctxt "198758357-0-85187"
+msgid "Rend"
+msgstr "引き裂き"
+
+#: 132143172-0-85179
+msgctxt "132143172-0-85179"
+msgid "Slash enemies in front of you, dealing <<1>> over <<2>> and healing you for <<3>> of the damage done."
+"\n"
+"\nEach enemy hit increases your damage done by <<4>>% for the duration, up to a maximum of |cffffff30|r% more damage done."
+msgstr "前方の敵を切り裂き、<<1>>を<<2>>の間与える。与えたダメージの<<3>>だけ自身を回復する。\\r"
+"\n\\r"
+"\n持続時間の間、敵を攻撃する度にダメージが<<4>>%増加する。ダメージは最大|cffffff30|r%まで増加する。"
+
+#: 198758357-0-85179
+msgctxt "198758357-0-85179"
+msgid "Thrive in Chaos"
+msgstr "混沌の苦闘"
+
+#: 132143172-0-83600
+msgctxt "132143172-0-83600"
+msgid "Slash enemies in front of you, dealing <<1>> over <<2>> and healing you for <<3>> of the damage done."
+msgstr "前方の敵を全て切り裂き、<<1>>を<<2>>の間与える。与えたダメージの<<3>>だけ自身を回復する。"
+
+#: 198758357-0-83600
+msgctxt "198758357-0-83600"
+msgid "Lacerate"
+msgstr "切り裂く刃"
+
+#: 132143172-0-45482
+msgctxt "132143172-0-45482"
+msgid "Grants a bonus based on the type of weapon equipped:"
+"\n"
+"\nEach axe gives your melee attacks a |cffffff8|r% chance to bleed enemies for <<1>> over <<2>>."
+"\n"
+"\nEach mace causes your attacks to ignore |cffffff10|r% of an enemy's Physical Resistance. "
+"\n"
+"\nEach sword increases your damage done by |cffffff3|r%."
+"\n"
+"\nEach dagger increases your Weapon Critical rating. Current bonus: <<3>>."
+msgstr "武器の種類によってボーナスが付与される:\\r"
+"\n\\r"
+"\n斧を装備していると、|cffffff8|r%の確率で出血させ、<<1>>を<<2>>の間与える。\\r"
+"\n\\r"
+"\n戦棍を装備していると、敵の物理耐性の|cffffff10|r%を無視してダメージを与えられる。\\r"
+"\n\\r"
+"\n剣を装備していると、武器攻撃のダメージが|cffffff3|r%増加する。\\r"
+"\n\\r"
+"\n短剣を装備していると、武器クリティカルが上がる。現在のボーナス: <<3>>"
+
+#: 198758357-0-45482
+msgctxt "198758357-0-45482"
+msgid "Twin Blade and Blunt"
+msgstr "ツインウェポン"
+
+#: 132143172-0-45481
+msgctxt "132143172-0-45481"
+msgid "Gives you an <<1>> damage bonus when attacking stunned, immobilized, disoriented, or silenced enemies."
+msgstr "気絶、移動不能、混乱、もしくは沈黙している敵に対するダメージが<<1>>上昇する。"
+
+#: 198758357-0-45481
+msgctxt "198758357-0-45481"
+msgid "Ruffian"
+msgstr "悪党"
+
+#: 132143172-0-45478
+msgctxt "132143172-0-45478"
+msgid "Reduces the cost of Dual Wield abilities by <<1>>."
+msgstr "二刀流アビリティの消費を<<1>>減少させる。"
+
+#: 198758357-0-45478
+msgctxt "198758357-0-45478"
+msgid "Controlled Fury"
+msgstr "激昂の制御"
+
+#: 132143172-0-45477
+msgctxt "132143172-0-45477"
+msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
+msgstr "逆手武器のダメージの<<1>>%分、武器ダメージが増加する。"
+
+#: 198758357-0-45477
+msgctxt "198758357-0-45477"
+msgid "Dual Wield Expert"
+msgstr "二刀流の匠"
+
+#: 132143172-0-45476
+msgctxt "132143172-0-45476"
+msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
+msgstr "体力が|cffffff25|r%以下の敵に二刀流アビリティを使用すると、ダメージが<<1>>上昇する。"
+
+#: 198758357-0-45476
+msgctxt "198758357-0-45476"
+msgid "Slaughter"
+msgstr "殺戮者"
+
+#: 132143172-0-38914
+msgctxt "132143172-0-38914"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>. "
+"\n"
+"\nThe dagger bounces up to |cffffff2|r times to other nearby enemies, dealing <<4>> on the first bounce and <<5>> on the second bounce."
+"\n"
+"\nAlso grants Major Brutality, increasing your Weapon Damage by <<6>> for <<7>>."
+msgstr "袖口に隠した短剣を敵に投げ、<<1>>を与えて相手の移動速度を<<2>>、<<3>>の間低下する。\\r"
+"\n\\r"
+"\n短剣は周囲の敵に最大|cffffff2|r回まで跳ね返って、最初の跳ね返りで<<4>>、次の跳ね返りで<<5>>を与える。\\r"
+"\n\\r"
+"\nさらに残忍(強)を獲得し、武器ダメージが<<6>>、<<7>>の間上昇する。"
+
+#: 198758357-0-38914
+msgctxt "198758357-0-38914"
+msgid "Shrouded Daggers"
+msgstr "仕込み短剣"
+
+#: 132143172-0-38910
+msgctxt "132143172-0-38910"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAlso grants Major Brutality, increasing your Weapon Damage by <<4>> for <<5>>."
+msgstr "袖口に隠した短剣を敵に投げつけて<<1>>を与え、相手の移動速度を<<2>>、<<3>>間低下させる。\\r"
+"\n\\r"
+"\nさらに残忍(強)が付与され、武器ダメージが<<4>>、<<5>>間上昇する。"
+
+#: 198758357-0-38910
+msgctxt "198758357-0-38910"
+msgid "Flying Blade"
+msgstr "投擲の刃"
+
+#: 132143172-0-38906
+msgctxt "132143172-0-38906"
+msgid "Create a ring of floating razors around you, dealing <<1>> to all nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nGain Major Evasion, reducing damage from area attacks by <<4>>."
+msgstr "浮遊する刃の輪を作り出し、近くにいる敵全てに<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\n回避(強) を得て、範囲攻撃による被ダメージを<<4>>低下させる。"
+
+#: 198758357-0-38906
+msgctxt "198758357-0-38906"
+msgid "Deadly Cloak"
+msgstr "死のクローク"
+
+#: 132143172-0-38901
+msgctxt "132143172-0-38901"
+msgid "Create a ring of floating razors around you, dealing <<1>> to all nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nGain Major Evasion, reducing damage from area attacks by <<4>>."
+"\n"
+"\nFor a brief period after activation you gain Major Expedition, increasing your Movement Speed by <<5>> for <<6>>"
+msgstr "浮遊する刃の輪を作り出し、近くにいる敵全てに<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\n回避(強) を得て、範囲攻撃による被ダメージを<<4>>低下させる。\\r"
+"\n\\r"
+"\n有効になった後の短い時間、迅速(強)が付与され、移動速度が<<5>>、<<6>>間上昇する。"
+
+#: 198758357-0-38901
+msgctxt "198758357-0-38901"
+msgid "Quick Cloak"
+msgstr "疾きクローク"
+
+#: 132143172-0-38891
+msgctxt "132143172-0-38891"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies based on each percentage of their missing Health."
+"\n"
+"\nYou gain Major Endurance, increasing your Stamina Recovery by <<3>> for <<4>>."
+msgstr "体を激しく回転させ、近くの敵に<<1>>を与える。体力が低下している敵に対しては、失った体力に応じて最大<<2>>%の追加ダメージを与える。\\r"
+"\n\\r"
+"\n耐久(強)を獲得し、自身のスタミナ再生を<<3>>、<<4>>の間増大する。"
+
+#: 198758357-0-38891
+msgctxt "198758357-0-38891"
+msgid "Whirling Blades"
+msgstr "旋風斬り"
+
+#: 132143172-0-38861
+msgctxt "132143172-0-38861"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies based on each percentage of their missing Health."
+msgstr "体を激しく回転させ、近くの敵に<<1>>を与える。体力が低下している敵に対しては、失った体力に応じて最大<<2>>%の追加ダメージを与える。"
+
+#: 198758357-0-38861
+msgctxt "198758357-0-38861"
+msgid "Steel Tornado"
+msgstr "鋼の竜巻"
+
+#: 132143172-0-38857
+msgctxt "132143172-0-38857"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. Each hit increases the damage of the subsequent hit by <<2>>."
+"\n"
+"\nThe final hit deals <<3>> more damage."
+msgstr "敵に鋼の連撃を浴びせる。5連続攻撃で、それぞれ<<1>>を与える。それぞれの攻撃が命中するたび、次の攻撃のダメージが<<2>>増加する。\\r"
+"\n\\r"
+"\n最後の攻撃はダメージが<<3>>増加する。"
+
+#: 198758357-0-38857
+msgctxt "198758357-0-38857"
+msgid "Rapid Strikes"
+msgstr "連続打撃"
+
+#: 132143172-0-38846
+msgctxt "132143172-0-38846"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. "
+"\n"
+"\nThe final hit deals <<2>> more damage and heals you for <<3>> of the damage caused."
+msgstr "敵に鋼の連撃を浴びせる。5連続攻撃で、それぞれ<<1>>を与える。\\r"
+"\n\\r"
+"\n最後の攻撃はダメージが<<2>>増加し、与えたダメージの<<3>>を回復する。"
+
+#: 198758357-0-38846
+msgctxt "198758357-0-38846"
+msgid "Bloodthirst"
+msgstr "血の渇望"
+
+#: 132143172-0-38845
+msgctxt "132143172-0-38845"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+"\n"
+"\nYou also heal for <<4>> Health every <<5>> for the duration."
+msgstr "両方の武器で敵を切り裂く。各武器で<<1>>を与えて出血させ、追加で<<2>>を<<3>>の間与える。\\r"
+"\n\\r"
+"\nまた、持続時間中は体力を<<4>>、 <<5>>ごとに回復する。"
+
+#: 198758357-0-38845
+msgctxt "198758357-0-38845"
+msgid "Blood Craze"
+msgstr "血の狂気"
+
+#: 132143172-0-38839
+msgctxt "132143172-0-38839"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+"\n"
+"\nYou also reduce their Movement Speed by <<4>> for <<5>>."
+msgstr "両方の武器で敵を切り裂く。各武器で<<1>>を与えて出血させ、追加で<<2>>を<<3>>の間与える。\\r"
+"\n\\r"
+"\nまた、持続時間中は敵の移動速度を<<4>>、<<5>>の間低下させる。"
+
+#: 198758357-0-38839
+msgctxt "198758357-0-38839"
+msgid "Rending Slashes"
+msgstr "引裂き斬り"
+
+#: 132143172-0-30893
+msgctxt "132143172-0-30893"
+msgid "Grants a bonus based on the type of weapon equipped:"
+"\n"
+"\nEach axe gives your melee attacks a |cffffff4|r% chance to bleed enemies for <<1>> over <<2>>."
+"\n"
+"\nEach mace causes your attacks to ignore |cffffff5|r% of an enemy's Physical Resistance. "
+"\n"
+"\nEach sword increases your damage done by |cffffff1|r%."
+"\n"
+"\nEach dagger increases your Weapon Critical rating. Current bonus: <<3>>."
+msgstr "武器の種類によってボーナスが付与される:\\r"
+"\n\\r"
+"\n装備中の斧につき、|cffffff4|r%の確率で出血させ、<<1>>を<<2>>の間与える。\\r"
+"\n\\r"
+"\n装備中の戦棍につき、敵の物理耐性の|cffffff5|r%を無視してダメージを与えられる。\\r"
+"\n\\r"
+"\n装備中の剣につき、武器攻撃のダメージが|cffffff1|r%増加する。\\r"
+"\n\\r"
+"\n装備中の短剣につき、武器クリティカルが上がる。現在のボーナス: <<3>>"
+
+#: 198758357-0-30893
+msgctxt "198758357-0-30893"
+msgid "Twin Blade and Blunt"
+msgstr "ツインウェポン"
+
+#: 132143172-0-30873
+msgctxt "132143172-0-30873"
+msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
+msgstr "逆手武器のダメージの<<1>>%分、武器ダメージが増加する。"
+
+#: 198758357-0-30873
+msgctxt "198758357-0-30873"
+msgid "Dual Wield Expert"
+msgstr "二刀流の匠"
+
+#: 132143172-0-30872
+msgctxt "132143172-0-30872"
+msgid "Reduces the cost of Dual Wield abilities by <<1>>."
+msgstr "二刀流アビリティの消費を<<1>>減少させる。"
+
+#: 198758357-0-30872
+msgctxt "198758357-0-30872"
+msgid "Controlled Fury"
+msgstr "激昂の制御"
+
+#: 132143172-0-28613
+msgctxt "132143172-0-28613"
+msgid "Create a ring of floating razors around you, dealing <<1>> to all nearby enemies every <<2>> for <<3>>."
+"\n"
+"\nGain Major Evasion, reducing damage from area attacks by <<4>>."
+msgstr "浮遊する刃の輪を作り出し、近くにいる敵全てに<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\n回避(強) を得て、範囲攻撃による被ダメージを<<4>>低下させる。"
+
+#: 198758357-0-28613
+msgctxt "198758357-0-28613"
+msgid "Blade Cloak"
+msgstr "刃のクローク"
+
+#: 132143172-0-28607
+msgctxt "132143172-0-28607"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. "
+"\n"
+"\nThe final hit deals <<2>> more damage."
+msgstr "敵に鋼の連撃を浴びせる。5連続攻撃で、それぞれ<<1>>を与える。\\r"
+"\n\\r"
+"\n最後の攻撃はダメージが<<2>>増加する。"
+
+#: 198758357-0-28607
+msgctxt "198758357-0-28607"
+msgid "Flurry"
+msgstr "猛攻"
+
+#: 132143172-0-28591
+msgctxt "132143172-0-28591"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies based on each percentage of their missing Health."
+msgstr "体を激しく回転させ、近くの敵に<<1>>を与える。体力が低下している敵に対しては、失った体力に応じて最大<<2>>%の追加ダメージを与える。"
+
+#: 198758357-0-28591
+msgctxt "198758357-0-28591"
+msgid "Whirlwind"
+msgstr "旋風"
+
+#: 132143172-0-28379
+msgctxt "132143172-0-28379"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+msgstr "両方の武器で敵を切り裂く。各武器で<<1>>を与えて出血させ、追加で<<2>>を<<3>>の間与える。"
+
+#: 198758357-0-28379
+msgctxt "198758357-0-28379"
+msgid "Twin Slashes"
+msgstr "双斬"
+
+#: 132143172-0-21157
+msgctxt "132143172-0-21157"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAlso grants Major Brutality, increasing your Weapon Damage by <<4>> for <<5>>."
+msgstr "袖口に隠した短剣を敵に投げつけて<<1>>を与え、相手の移動速度を<<2>>、<<3>>間低下させる。\\r"
+"\n\\r"
+"\nさらに残忍(強)が付与され、武器ダメージが<<4>>、<<5>>間上昇する。"
+
+#: 198758357-0-21157
+msgctxt "198758357-0-21157"
+msgid "Hidden Blade"
+msgstr "隠し刃"
+
+#: 132143172-0-21114
+msgctxt "132143172-0-21114"
+msgid "Gives you an <<1>> damage bonus when attacking stunned, immobilized, disoriented, or silenced enemies."
+msgstr "気絶、移動不能、混乱、もしくは沈黙している敵に対するダメージが<<1>>上昇する。"
+
+#: 198758357-0-21114
+msgctxt "198758357-0-21114"
+msgid "Ruffian"
+msgstr "悪党"
+
+#: 132143172-0-18929
+msgctxt "132143172-0-18929"
+msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
+msgstr "体力が|cffffff25|r%以下の敵に二刀流アビリティを使用すると、ダメージが<<1>>上昇する。"
+
+#: 198758357-0-18929
+msgctxt "198758357-0-18929"
+msgid "Slaughter"
+msgstr "殺戮者"

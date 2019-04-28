@@ -1,0 +1,467 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-61927
+msgctxt "132143172-0-61927"
+msgid "Build up deadly momentum to gain Minor Berserk and Minor Endurance, increasing your damage done by <<1>> and Stamina Recovery by <<2>> for <<3>>. "
+"\n"
+"\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks changes this ability into <<4>>, allowing you to fire a single shot from a spectral bow for half cost at an enemy to deal <<5>>."
+msgstr ""
+"죽음의 기운을 모아 Minor Berserk, Minor Endurance 효과를 얻습니다. <<3>> 동안 가하는 피해량이 <<1>> "
+"증가하고 스태미나 재생량이 <<2>> 증가합니다."
+"\n"
+""
+"\n"
+"지속 시간 동안 약공격이나 강공격으로 적을 |cffffff5|r번 공격하면 <<4>> 어빌리티로 변합니다. 사용 시 적에게 무형의 활을 "
+"발사해 <<5>>를 줍니다."
+
+#: 198758357-0-61927
+msgctxt "198758357-0-61927"
+msgid "Relentless Focus"
+msgstr "Relentless Focus"
+
+#: 132143172-0-61919
+msgctxt "132143172-0-61919"
+msgid "Build up deadly momentum to gain Minor Berserk, increasing your damage done by <<1>> for <<2>>. "
+"\n"
+"\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks changes this ability into <<3>>, allowing you to fire a single shot from a spectral bow for half cost at an enemy to deal <<4>>."
+msgstr ""
+"죽음의 기운을 모아 Minor Berserk 효과를 얻습니다. <<2>> 동안 가하는 피해량이 <<1>> 증가합니다."
+"\n"
+""
+"\n"
+"지속 시간 동안 약공격이나 강공격으로 적을 |cffffff5|r번 공격하면 <<3>> 어빌리티로 변합니다. 사용 시 적에게 무형의 활을 "
+"발사해 <<4>>를 줍니다."
+
+#: 198758357-0-61919
+msgctxt "198758357-0-61919"
+msgid "Merciless Resolve"
+msgstr "Merciless Resolve"
+
+#: 132143172-0-61902
+msgctxt "132143172-0-61902"
+msgid "Build up deadly momentum to gain Minor Berserk, increasing your damage done by <<1>> for <<2>>."
+"\n"
+"\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks changes this ability into <<3>>, allowing you to fire a single shot from a spectral bow for half cost at an enemy to deal <<4>>."
+msgstr ""
+"죽음의 기운을 모아 Minor Berserk 효과를 얻습니다. <<2>> 동안 가하는 피해량이 <<1>> 증가합니다."
+"\n"
+""
+"\n"
+"지속 시간 동안 약공격이나 강공격으로 적을 |cffffff5|r번 공격하면 <<3>> 어빌리티로 변합니다. 사용 시 적에게 무형의 활을 "
+"발사해 <<4>>를 줍니다."
+
+#: 198758357-0-61902
+msgctxt "198758357-0-61902"
+msgid "Grim Focus"
+msgstr "Grim Focus"
+
+#: 132143172-0-45060
+msgctxt "132143172-0-45060"
+msgid "Increases your Critical Damage by <<1>>. "
+"\n"
+"\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by <<2>>  for <<3>>."
+msgstr ""
+"치명타 피해량이 <<1>> 증가합니다. "
+"\n"
+""
+"\n"
+"치명타 피해를 가하면 당신과 그룹원들이 Minor Savagery 효과를 얻어 무기 치명타 확률이 <<3>> 동안 <<2>> 증가합니다 ."
+""
+
+#: 198758357-0-45060
+msgctxt "198758357-0-45060"
+msgid "Hemorrhage"
+msgstr "Hemorrhage"
+
+#: 132143172-0-45053
+msgctxt "132143172-0-45053"
+msgid "Increases your Weapon and Spell Critical ratings by <<1>> for each Assassination ability slotted."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr ""
+"슬롯에 있는 Assassination 어빌리티 한 개당 무기 및 마법 치명타 확률이 <<1>>씩 증가합니다."
+"\n"
+""
+"\n"
+"현재 증가량: <<2>>"
+
+#: 198758357-0-45053
+msgctxt "198758357-0-45053"
+msgid "Pressure Points"
+msgstr "Pressure Points"
+
+#: 132143172-0-45048
+msgctxt "132143172-0-45048"
+msgid "When an enemy dies within <<1>> of being damaged by one of your Assassination abilities, you restore <<2>> Magicka or Stamina, whichever maximum is higher."
+msgstr ""
+"Assassination 어빌리티로 피해를 입힌 적이 <<1>> 이내에 죽으면, 매지카와 스태미나 중 최대치가 높은 것을 <<2>>만큼 "
+"회복합니다."
+
+#: 198758357-0-45048
+msgctxt "198758357-0-45048"
+msgid "Executioner"
+msgstr "Executioner"
+
+#: 132143172-0-45038
+msgctxt "132143172-0-45038"
+msgid "Increases your Weapon and Spell Damage by <<1>>% while you are Sneaking or invisible."
+"\n"
+"\nIncreases the duration of the stun from Sneak by |cffffff100|r%."
+msgstr ""
+"은신 상태일 때 무기 및 마법 피해량이 <<1>>% 증가합니다."
+"\n"
+""
+"\n"
+"은신 공격의 기절 지속 시간이 |cffffff100|r% 증가합니다."
+
+#: 198758357-0-45038
+msgctxt "198758357-0-45038"
+msgid "Master Assassin"
+msgstr "Master Assassin"
+
+#: 132143172-0-36968
+msgctxt "132143172-0-36968"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing their Physical Resistance and Spell Resistance by <<1>> for <<2>>."
+"\n"
+"\nYou can detect marked enemies even if they use stealth or invisibility for <<3>>. When a marked enemy dies, you heal for <<4>>% of your Max Health."
+"\n"
+"\nYou can only have one <<5>> active at a time."
+msgstr ""
+"적의 약점을 노출시켜 적에게 Major Fracture, Major Breach 효과를 가합니다. <<2>> 동안 물리 저항력과 마법 "
+"저항력을 <<1>> 감소시킵니다."
+"\n"
+""
+"\n"
+"당신은 <<3>>동안 약점이 노출당한 적을  은신한 경우에도 감지할 수 있습니다. 약점이 노출당한 적이 죽으면 최대 체력의 <<4>>%를 "
+"회복합니다."
+"\n"
+""
+"\n"
+"<<5>> 어빌리티는 한 번에 하나 밖에 발동할 수 없습니다."
+
+#: 198758357-0-36968
+msgctxt "198758357-0-36968"
+msgid "Piercing Mark"
+msgstr "Piercing Mark"
+
+#: 132143172-0-36967
+msgctxt "132143172-0-36967"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing Physical Resistance and Spell Resistance by <<1>> for <<2>>."
+"\n"
+"\nWhen a marked enemy dies, you heal for <<3>>% of your Max Health and you gain Major Berserk, increasing your damage done by <<4>>  for  <<5>>."
+"\n"
+"\nYou can only have one <<6>> active at a time."
+msgstr ""
+"적의 약점을 노출시켜 적에게 Major Fracture, Major Breach 효과를 가합니다. <<2>> 동안 물리 저항력과 마법 "
+"저항력을 <<1>> 감소시킵니다."
+"\n"
+""
+"\n"
+"약점이 노출당한 적이 죽으면 최대 체력의 <<3>>%를 회복하고 Major Berserk 효과를 얻어 <<5>> 동안 피해량이 <<4>> "
+"증가합니다."
+"\n"
+""
+"\n"
+"<<6>> 어빌리티는 한 번에 하나 밖에 발동할 수 없습니다."
+
+#: 198758357-0-36967
+msgctxt "198758357-0-36967"
+msgid "Reaper's Mark"
+msgstr "Reaper's Mark"
+
+#: 132143172-0-36641
+msgctxt "132143172-0-36641"
+msgid "Increases your Critical Damage by <<1>>. "
+"\n"
+"\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by <<2>> for <<3>>."
+msgstr ""
+"치명타 피해량이 <<1>> 증가합니다. "
+"\n"
+""
+"\n"
+"치명타 피해를 가하면 당신과 그룹원들이 Minor Savagery 효과를 얻어 무기 치명타 확률이 <<3>> 동안 <<2>> 증가합니다 ."
+""
+
+#: 198758357-0-36641
+msgctxt "198758357-0-36641"
+msgid "Hemorrhage"
+msgstr "Hemorrhage"
+
+#: 132143172-0-36636
+msgctxt "132143172-0-36636"
+msgid "Increases your Weapon and Spell Critical ratings by <<1>> for each Assassination ability slotted."
+"\n"
+"\nCurrent bonus: <<2>>."
+msgstr ""
+"슬롯에 있는 Assassination 어빌리티 한 개당 무기 및 마법 치명타 확률이 <<1>>씩 증가합니다."
+"\n"
+""
+"\n"
+"현재 증가량: <<2>>"
+
+#: 198758357-0-36636
+msgctxt "198758357-0-36636"
+msgid "Pressure Points"
+msgstr "Pressure Points"
+
+#: 132143172-0-36630
+msgctxt "132143172-0-36630"
+msgid "When an enemy dies within <<1>> of being damaged by one of your Assassination abilities, you restore <<2>> Magicka or Stamina, whichever maximum is higher."
+msgstr ""
+"Assassination 어빌리티로 피해를 입힌 적이 <<1>> 이내에 죽으면, 매지카와 스태미나 중 최대치가 높은 것을 <<2>>만큼 "
+"회복합니다."
+
+#: 198758357-0-36630
+msgctxt "198758357-0-36630"
+msgid "Executioner"
+msgstr "Executioner"
+
+#: 132143172-0-36616
+msgctxt "132143172-0-36616"
+msgid "Increases your Weapon and Spell Damage by <<1>>% while you are Sneaking or invisible."
+"\n"
+"\nIncreases the duration of the stun from Sneak by |cffffff100|r%."
+msgstr "은신 상태일 때 무기 및 마법 피해량이 <<1>>% 증가합니다."
+"\n"
+""
+"\n"
+"은신 공격의 기절 지속 시간이 <<2>> 증가합니다."
+
+#: 198758357-0-36616
+msgctxt "198758357-0-36616"
+msgid "Master Assassin"
+msgstr "Master Assassin"
+
+#: 132143172-0-36514
+msgctxt "132143172-0-36514"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>> and increasing your damage against them by <<2>> for <<3>>."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<4>>."
+"\n"
+"\nWhile slotted, any time you kill an enemy you gain <<5>> Ultimate."
+msgstr ""
+"회전 공격으로 적에게 큰 타격을 입힙니다. <<1>>를 주고 <<3>> 동안 당신이 대상에게 주는 피해량이 <<2>> 증가합니다."
+"\n"
+""
+"\n"
+"또한 대상에게 Major Defile 효과를 가해 받는 치유량을  <<4>> 감소시킵니다."
+"\n"
+""
+"\n"
+"슬롯에 있으면 적을 처치할 때마다 궁극기 게이지를 <<5>>만큼 얻습니다."
+
+#: 198758357-0-36514
+msgctxt "198758357-0-36514"
+msgid "Soul Harvest"
+msgstr "Soul Harvest"
+
+#: 132143172-0-36508
+msgctxt "132143172-0-36508"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>>, and increasing your damage against them by <<2>> for <<3>>. Stuns enemies for <<4>> when cast with 120 Ultimate or more."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<5>>."
+msgstr ""
+"회전 공격으로 적에게 큰 타격을 입힙니다. <<1>>를 주고 <<3>> 동안 당신이 대상에게 주는 피해량이 <<2>> 증가합니다. 120 "
+"이상의 궁극기 게이지를 소모해 발동시킬 경우 적을 <<4>>동안 기절시킵니다."
+"\n"
+""
+"\n"
+"또한 대상에게 Major Defile 효과를 가해 받는 치유량을  <<5>> 감소시킵니다."
+"\n"
+
+#: 198758357-0-36508
+msgctxt "198758357-0-36508"
+msgid "Incapacitating Strike"
+msgstr "Incapacitating Strike"
+
+#: 132143172-0-35419
+msgctxt "132143172-0-35419"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by <<1>> for <<2>>."
+"\n"
+"\nGrants Major Expedition, increasing your Movement Speed <<3>> for <<4>>."
+msgstr ""
+"환영의 아우라로 당신을 감싸 Major Evasion 효과를 얻습니다. <<2>> 동안 받는 범위 공격의 피해량이 <<1>>  감소합니다."
+""
+"\n"
+""
+"\n"
+"Major Expedition 효과를 얻어 <<4>> 동안 이동 속도가 <<3>> 증가합니다."
+
+#: 198758357-0-35419
+msgctxt "198758357-0-35419"
+msgid "Double Take"
+msgstr "Double Take"
+
+#: 132143172-0-35414
+msgctxt "132143172-0-35414"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, Minor Resolve, and Minor Ward, reducing damage from area attacks by <<1>> and increasing your Physical and Spell Resistance by <<2>> for <<3>>."
+msgstr ""
+"환영의 아우라로 당신을 감싸 Major Evasion, Minor Resolve, Minor Ward 효과를 얻습니다. <<3>> 동안 "
+"받는 범위 공격의 피해량이<<1>> 감소하고 물리 및 마법 저항력이 <<2>> 증가합니다."
+
+#: 198758357-0-35414
+msgctxt "198758357-0-35414"
+msgid "Mirage"
+msgstr "Mirage"
+
+#: 132143172-0-34851
+msgctxt "132143172-0-34851"
+msgid "Throw a magic blade with lethal precision to strike an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+msgstr ""
+"마법의 칼을 적의 급소에 정확히 던져 <<1>>를 줍니다. 체력이 <<3>>% 이하인 대상에게는 <<2>>%의 추가 피해를 줍니다."
+
+#: 198758357-0-34851
+msgctxt "198758357-0-34851"
+msgid "Impale"
+msgstr "Impale"
+
+#: 132143172-0-34843
+msgctxt "132143172-0-34843"
+msgid "Thrust a caustic blade with lethal precision to stab an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+"\n"
+"\nHeals you for <<4>>% of your Max Health if the enemy dies within <<5>> of being struck."
+msgstr ""
+"부식성 칼을 적의 급소에 정확히 찔러 <<1>>를 줍니다. 체력이 |cffffff25|r% 이하인 대상에게는 |cffffff300|r%의 "
+"추가 피해를 줍니다."
+"\n"
+""
+"\n"
+"대상이 <<3>> 이내에 죽으면 최대 체력의 <<2>>%를 회복합니다."
+
+#: 198758357-0-34843
+msgctxt "198758357-0-34843"
+msgid "Killer's Blade"
+msgstr "Killer's Blade"
+
+#: 132143172-0-33398
+msgctxt "132143172-0-33398"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>> and increasing your damage against them by <<2>> for <<3>>."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<4>>."
+msgstr ""
+"회전 공격으로 적에게 큰 타격을 입힙니다. <<1>>를 주고 <<3>> 동안 당신이 대상에게 주는 피해량이 <<2>> 증가합니다."
+"\n"
+""
+"\n"
+"또한 대상에게 Major Defile 효과를 가해 받는 치유량을  <<4>> 감소시킵니다."
+
+#: 198758357-0-33398
+msgctxt "198758357-0-33398"
+msgid "Death Stroke"
+msgstr "Death Stroke"
+
+#: 132143172-0-33386
+msgctxt "132143172-0-33386"
+msgid "Thrust a magic blade with lethal precision to stab an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+msgstr ""
+"마법의 칼을 적의 급소에 정확히 찔러 <<1>>를 줍니다. 체력이 <<3>>% 이하인 대상에게는 <<2>>%의 추가 피해를 줍니다."
+
+#: 198758357-0-33386
+msgctxt "198758357-0-33386"
+msgid "Assassin's Blade"
+msgstr "Assassin's Blade"
+
+#: 132143172-0-33375
+msgctxt "132143172-0-33375"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, decreasing damage from area attacks by <<1>> for <<2>>."
+msgstr ""
+"환영의 아우라로 당신을 감싸 Major Evasion 효과를 얻습니다. <<3>> 동안 받는 범위 공격의 피해량이<<1>> 감소합니다."
+""
+"\n"
+
+#: 198758357-0-33375
+msgctxt "198758357-0-33375"
+msgid "Blur"
+msgstr "Blur"
+
+#: 132143172-0-33357
+msgctxt "132143172-0-33357"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing their Physical Resistance and Spell Resistance by <<1>> for <<2>>."
+"\n"
+"\nWhen a marked enemy dies, you heal for <<3>>% of your Max Health."
+"\n"
+"\nYou can only have one <<4>> active at a time."
+msgstr ""
+"적의 약점을 노출시켜 적에게 Major Fracture, Major Breach 효과를 가합니다. <<2>> 동안 물리 저항력과 마법 "
+"저항력을 <<1>> 감소시킵니다."
+"\n"
+""
+"\n"
+"약점이 노출당한 적이 죽으면 최대 체력의 <<3>>%를 회복합니다."
+"\n"
+""
+"\n"
+"<<4>> 어빌리티는 한 번에 하나 밖에 발동할 수 없습니다."
+
+#: 198758357-0-33357
+msgctxt "198758357-0-33357"
+msgid "Mark Target"
+msgstr "Mark Target"
+
+#: 132143172-0-25493
+msgctxt "132143172-0-25493"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAfter teleporting you unleash a fan of knives, dealing an additional <<4>> over <<5>> to the target and nearby enemies."
+msgstr ""
+"그림자 속으로 순간이동해 적을 기습합니다. 적에게 <<1>>를 주고 <<3>> 동안 이동 속도를 <<2>> 감소시킵니다."
+"\n"
+""
+"\n"
+"순간이동 후 칼날을 흩뿌려 대상과 주변의 적들에게 <<4>>를 <<5>>에 걸쳐 줍니다."
+
+#: 198758357-0-25493
+msgctxt "198758357-0-25493"
+msgid "Lotus Fan"
+msgstr "Lotus Fan"
+
+#: 132143172-0-25484
+msgctxt "132143172-0-25484"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nAlso grants you Empower, increasing the damage of your next Light Attack by <<3>>."
+"\n"
+"\nIf the target is a player, they are briefly snared instead of being stunned."
+msgstr ""
+"그림자 속으로 순간이동해 적을 기습합니다. 적에게 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"Empower 효과를 얻어 다음 약공격의  피해량이 <<3>> 증가합니다."
+"\n"
+""
+"\n"
+"대상이 플레이어일 경우 기절시키는 대신 짧은 시간 동안 둔화시킵니다."
+
+#: 198758357-0-25484
+msgctxt "198758357-0-25484"
+msgid "Ambush"
+msgstr "Ambush"
+
+#: 132143172-0-18342
+msgctxt "132143172-0-18342"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and stunning them for <<2>>. "
+"\n"
+"\nIf the target is a player, they are briefly snared instead of being stunned."
+msgstr ""
+"그림자 속으로 순간이동해 적을 기습합니다. 적에게 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"대상이 플레이어일 경우 기절시키는 대신 짧은 시간 동안 둔화시킵니다."
+
+#: 198758357-0-18342
+msgctxt "198758357-0-18342"
+msgid "Teleport Strike"
+msgstr "Teleport Strike"

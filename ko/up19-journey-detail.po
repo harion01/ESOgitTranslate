@@ -1,0 +1,753 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 103224356-0-48735
+#, fuzzy
+msgctxt "103224356-0-48735"
+msgid "Now that I'm back in Shadowfen, I should return to Concordia's camp outside Stormhold. I need to tell her what happened at Norg-Tzel."
+msgstr ""
+"이제 나는 어둠의 집에 돌아 왔고, 나는 스톰 홀드 밖의 콘 코르 디아의 진영으로 돌아 가야한다. Norg-Tzel에서 있었던 일을 "
+"그녀에게 말해야합니다.-G-"
+
+#: 103224356-0-48709
+#, fuzzy
+msgctxt "103224356-0-48709"
+msgid "The Hedge Maze Guardian blocks my way. I should defeat it if I wish to proceed further into Moon Hunter Keep."
+msgstr ""
+"Hedge Maze Guardian이 내 방식을 차단합니다. 문 헌터 킵에 더 들어가기를 원한다면 나는 그것을 물리쳐야합니다.-G-"
+
+#: 103224356-0-48660
+#, fuzzy
+msgctxt "103224356-0-48660"
+msgid "There's Concordia's camp. I should go and talk to her and show her this idol I found in the ruins."
+msgstr "콘 코디 아의 진영이 있습니다. 나는 그녀에게 가서 이야기를하고 폐허에서 발견 한이 우상을 보여줘야한다.-G-"
+
+#: 103224356-0-48657
+#, fuzzy
+msgctxt "103224356-0-48657"
+msgid "I recovered the Argonian nightmare idol that the Blackguards found in the Chid-Moska Ruins. I need to go to Stormhold and find Concordia's camp so I can tell her all about what we discovered."
+msgstr ""
+"나는 흑기병이 Chid-Moska Ruins에서 발견 한 Argonian 악몽의 우상을 되찾았습니다. Stormhold에 가서 "
+"Concordia 's 캠프를 찾아서 우리가 발견 한 것을 그녀에게 모두 알릴 수 있어야합니다.-G-"
+
+#: 103224356-0-48621
+#, fuzzy
+msgctxt "103224356-0-48621"
+msgid "Disengaging the ritual cylinders unlocked a door at the back of the chamber and revealed the hiding place of the cursed skull. I need to defeat the final guardian before I can claim the relic."
+msgstr ""
+"의식의 실린더를 풀면 방의 뒷쪽 문이 열리고 저주받은 두개골의 은신처가 드러났다. 나는 유물을 요구하기 전에 최종 보호자를 물리 칠 "
+"필요가있다.-G-"
+
+#: 103224356-0-48620
+#, fuzzy
+msgctxt "103224356-0-48620"
+msgid "Now I need to disengage the fourth ritual cylinder and that should end the flow of energy and stop the ritual."
+msgstr "이제 제 4 의식 실린더를 풀어 줘야 만 에너지 흐름을 끝내고 의식을 중단해야합니다.-G-"
+
+#: 103224356-0-48619
+#, fuzzy
+msgctxt "103224356-0-48619"
+msgid "Now I need to disengage the third ritual cylinder."
+msgstr "이제 세 번째 의식 실린더를 풀어야합니다.-G-"
+
+#: 103224356-0-48618
+#, fuzzy
+msgctxt "103224356-0-48618"
+msgid "Now I need to disengage the second ritual cylinder."
+msgstr "이제 두 번째 의식 실린더를 풀어야합니다.-G-"
+
+#: 103224356-0-48617
+#, fuzzy
+msgctxt "103224356-0-48617"
+msgid "The ritual consumed Margus Derius, but I still have to stop it. Jar-Lee suggests that I need to disengage each cylinder to deactivate the flow of energy."
+msgstr ""
+"의식은 마거스 델리 우스를 소비했으나 여전히 멈추어야합니다. Jar-Lee는 에너지의 흐름을 차단하기 위해 각 실린더를 풀어야한다고 "
+"제안합니다.-G-"
+
+#: 103224356-0-48580
+#, fuzzy
+msgctxt "103224356-0-48580"
+msgid "Balorgh has killed Hanu and stolen the indrik heart in order to win Hircine's boon. I should hunt him down and prevent this from happening."
+msgstr ""
+"Balorgh는 Hircine의 이익을 이기기 위해 Hanu를 죽이고 indrik 심장을 도난당했습니다. 내가 그를 사냥해서이 일이 "
+"일어나지 않도록해야합니다.-G-"
+
+#: 103224356-0-48529
+#, fuzzy
+msgctxt "103224356-0-48529"
+msgid "The bug repellent candle seems to work. I should talk to Tamira Dobar."
+msgstr "버그 방수 촛불이 효과가있는 것 같습니다. Tamira Dobar와 얘기해야 겠어.-G-"
+
+#: 103224356-0-48522
+#, fuzzy
+msgctxt "103224356-0-48522"
+msgid "I agreed to drink with Hervod. I should grab his spare mug and help myself to his mead."
+msgstr "나는 Hervod와 마시기로 동의했다. 나는 그의 예비 머그잔을 움켜 잡고 자신의 미드를 도와야한다.-G-"
+
+#: 103224356-0-48519
+#, fuzzy
+msgctxt "103224356-0-48519"
+msgid "I caught the copper-tongued skink. I should deliver it to Jee-Lar."
+msgstr "나는 구리 텅 빈 skink를 잡았다. 나는 그것을 Jee-Lar에게 배달해야한다.-G-"
+
+#: 103224356-0-48517
+#, fuzzy
+msgctxt "103224356-0-48517"
+msgid "I lured the toxin-sniffing skink out with the venom sac. Now I just need to catch it."
+msgstr "나는 독약 냄새를 맡는 독을 독액낭으로 유혹했다. 이제 나는 그것을 잡을 필요가있다.-G-"
+
+#: 103224356-0-48516
+#, fuzzy
+msgctxt "103224356-0-48516"
+msgid "I acquired the venom sacs. I should place them at the location Arlowe marked on the map."
+msgstr "나는 독 액을 획득했다. 나는 그들을지도 위에 표시된 Arlowe 위치에 놓아야한다.-G-"
+
+#: 103224356-0-48515
+#, fuzzy
+msgctxt "103224356-0-48515"
+msgid "The copper-tongued skink escaped! Arlowe insists that venom sacs from the assassin beetles and giant scorpions of Alik'r will lure the lizard back out of hiding. I should acquire three of these sacs."
+msgstr ""
+"구리 텅 빈 skink는 탈출했다! Arlowe는 암살자의 딱정벌레와 Alik'r의 거대한 전갈에서 나오는 독의 낭은 도마뱀을 숨겨서 "
+"다시 유인 할 것이라고 주장한다. 나는이 주머니 세 개를 얻어야한다.-G-"
+
+#: 103224356-0-48514
+#, fuzzy
+msgctxt "103224356-0-48514"
+msgid "Jee-Lar told me that a trapper named Arlowe Viducia has copper-tongued skinks on hand. I should seek him out in the Redguard city of Sentinel."
+msgstr ""
+"지라 (Jee-Lar)는 Arlowe Viducia라는 이름의 사냥꾼이 구리 텅 스켈을 가지고 있다고 말했습니다. 센 튜넬의 레드 "
+"가드시에서 그를 찾아야합니다.-G-"
+
+#: 103224356-0-48507
+#, fuzzy
+msgctxt "103224356-0-48507"
+msgid "Priestess Hodyette has agreed to give a weather prediction to Cyrodilic Collections. I should return to Jee-Lar and tell him the good news."
+msgstr ""
+"Priestess Hodyette는 Cyrodilic Collections에 일기 예보를 주기로 동의했습니다. 지라에게 돌아가서 좋은 "
+"소식을 전해야합니다.-G-"
+
+#: 103224356-0-48506
+#, fuzzy
+msgctxt "103224356-0-48506"
+msgid "I successfully communed with Kyne and absorbed her energy within the rune. I should return to Priestess Hodyette's camp and talk to her."
+msgstr ""
+"나는 Kyne와 성공적으로 소통했고 룬 내에서 그녀의 에너지를 흡수했습니다. 나는 여사 제 Hodyette의 캠프로 돌아가서 그녀와 "
+"이야기해야합니다.-G-"
+
+#: 103224356-0-48505
+#, fuzzy
+msgctxt "103224356-0-48505"
+msgid "Priestess Hodyette requested that I scream into the wind in order to commune with Kyne, absorbing her energy within a rune. In order to do this I must find several scenic vistas around Eastmarch."
+msgstr ""
+"여사 제 Hodyette는 Kyne와 의견을 나누기 위해 바람 소리를 질러달라고 요청하여 룬 내에서 에너지를 흡수했습니다. 이렇게하기 "
+"위해서는 Eastmarch 주변에 여러 풍경이 보일 것입니다.-G-"
+
+#: 103224356-0-48504
+#, fuzzy
+msgctxt "103224356-0-48504"
+msgid "I found Priestess Hodyette's camp. I should talk to her and see if she will agree to help the expedition."
+msgstr ""
+"여사 제 Hodyette의 진영을 찾았습니다. 나는 그녀와 이야기하고 그녀가 탐험을 도울 것에 동의 할 것인지를 알아봐야한다.-G-"
+
+#: 103224356-0-48503
+#, fuzzy
+msgctxt "103224356-0-48503"
+msgid "Priestess Hodyette is currently at her camp in the mountains of Eastmarch. I should go there and implore her to help the expedition."
+msgstr ""
+"Priestess Hodyette는 현재 Eastmarch 산속에있는 그녀의 진영에 있습니다. 나는 거기에 가야하고 탐험을 도우라고 "
+"그녀에게 간청해야한다.-G-"
+
+#: 103224356-0-48497
+#, fuzzy
+msgctxt "103224356-0-48497"
+msgid "I caught up to Hervod's level of inebriation. I should talk to him."
+msgstr "나는 Hervod의 취하게하는 수준을 따라 잡았다. 나는 그와 이야기해야한다.-G-"
+
+#: 103224356-0-48496
+#, fuzzy
+msgctxt "103224356-0-48496"
+msgid "Hervod invited me to drink with him. I can either grease his palm for the salt so I can be on my way, or accept his hospitality and stay for a drink."
+msgstr ""
+"Hervod는 그와 함께 술을 마시라고했습니다. 나는 그의 손바닥에 소금을 칠해 도중에있을 수 있거나, 환대를 받아들이고 술을 마실 수 "
+"있습니다.-G-"
+
+#: 103224356-0-48495
+#, fuzzy
+msgctxt "103224356-0-48495"
+msgid "I gathered the meat Jee-Lar requested. I should meet with the salt-maker, Hervod, to acquire some curing salt."
+msgstr "지라가 요청한 고기를 모았습니다. 나는 소금 제조사, Hervod와 만나서 약간의 경화 소금을 섭취해야합니다.-G-"
+
+#: 103224356-0-48494
+#, fuzzy
+msgctxt "103224356-0-48494"
+msgid "I must stalk the hills and forests of The Rift to find mammoth meat for Jee-Lar."
+msgstr "Jee-Lar의 거대한 고기를 찾기 위해 The Rift의 언덕과 숲을 스토킹해야합니다.-G-"
+
+#: 103224356-0-48493
+#, fuzzy
+msgctxt "103224356-0-48493"
+msgid "I gathered both the meat and the salt that Jee-Lar requested. I should deliver these items to him so I can collect my reward."
+msgstr "지라가 요청한 고기와 소금을 모두 모았습니다. 보상을받을 수 있도록이 물건들을 그에게 가져 가야합니다.-G-"
+
+#: 103224356-0-48435
+#, fuzzy
+msgctxt "103224356-0-48435"
+msgid "Tamira wanted to test the effectiveness of the candle and unleashed a swarm of bugs on me! I should light the candle and make sure it works as intended."
+msgstr ""
+"Tamira는 촛불의 효과를 테스트하고 나에게 벌레들의 무리를 내주고 싶었습니다! 나는 촛불을 켜고 그것이 의도 한대로 작동하는지 "
+"확인해야합니다.-G-"
+
+#: 103224356-0-48434
+#, fuzzy
+msgctxt "103224356-0-48434"
+msgid "I gathered the materials for making the bug repellent candles. I should bring them to Tamira Dobar in Davon's Watch."
+msgstr ""
+"나는 버그 구충제 양초를 만들기위한 자료를 모았다. Davon 's Watch에서 Tamira Dobar로 가져 가야합니다.-G-"
+
+#: 103224356-0-48433
+#, fuzzy
+msgctxt "103224356-0-48433"
+msgid "I should gather superior dreugh wax and ash basil leaves. I can find both in Stonefalls."
+msgstr ""
+"나는 우수한 dre wax와 ash basil leaves를 모아야한다. 나는 둘 다 Stonefalls에서 찾을 수 있습니다.-G-"
+
+#: 103224356-0-48432
+#, fuzzy
+msgctxt "103224356-0-48432"
+msgid "Tamira Dobar gave me the bug repellent candles. I should deliver them to Jee-Lar."
+msgstr "Tamira Dobar는 나에게 버그 구충제 양초를 주었다. 나는 그들을 Jee-Lar에게 배달해야합니다.-G-"
+
+#: 103224356-0-48419
+#, fuzzy
+msgctxt "103224356-0-48419"
+msgid "I completed my final dance. I should return to Jee-Lar to claim my payment."
+msgstr "나는 나의 마지막 댄스를 끝냈다. 지라에게 돌아가서 지불금을 청구해야합니다.-G-"
+
+#: 103224356-0-48418
+#, fuzzy
+msgctxt "103224356-0-48418"
+msgid "I should post handbills and dance in costume outside the Salted Wings in Vulkhel Guard, the Flaming Nix in Mournhold, and the Screaming Mermaid in Stros M'Kai"
+msgstr ""
+"Vulkhel Guard의 Salted Wings, Mournhold의 Flaming Nix, Stros M'Kai의 Screaming "
+"Mermaid 외에도 의상으로 전단지와 춤을 게시해야합니다.-G-"
+
+#: 103224356-0-48416
+#, fuzzy
+msgctxt "103224356-0-48416"
+msgid "Mindileth insisted that I drink the noxious slurry she created. Bottoms up?"
+msgstr "민 딜레 스는 내가 만든 유해한 슬러리를 마셔야한다고 주장했다. 상향식?-G-"
+
+#: 103224356-0-48410
+#, fuzzy
+msgctxt "103224356-0-48410"
+msgid "I should return to Concordia and share the information I received from contacts in the Outlaws Refuge with her. Namely, Margus Derius is working with the Blackguards and has hidden a number of Argonian relics in a place called the Sunless Hollow."
+msgstr ""
+"나는 Concordia로 돌아가서 무법자 피난소의 연락처에서받은 정보를 그녀와 공유해야합니다. 즉, Margus Derius는 "
+"Blackguards와 협력하여 Sunless Hollow라는 장소에 Argonian 유적을 숨겼습니다.-G-"
+
+#: 103224356-0-48409
+#, fuzzy
+msgctxt "103224356-0-48409"
+msgid "My guts are on fire! I need to make my way to the nearby cauldron and throw up into it."
+msgstr "내 배가 불타고있어! 근처의 가마솥으로 가서 그 안에 넣어야합니다.-G-"
+
+#: 103224356-0-48408
+#, fuzzy
+msgctxt "103224356-0-48408"
+msgid "I gathered the various reagents for Mindileth's anti-venom. I should deliver the items to her."
+msgstr "나는 Mindileth의 독소에 대한 다양한 시약을 모았다. 그녀에게 물건을 배달해야합니다.-G-"
+
+#: 103224356-0-48404
+#, fuzzy
+msgctxt "103224356-0-48404"
+msgid "I gave Mindileth the contents of my stomach to create the anti-venom. I should talk to Jee-Lar about payment for the services I provided."
+msgstr ""
+"나는 Mindileth에게 내 독소를 만들기 위해 위장 내용을주었습니다. 내가 제공 한 서비스에 대한 지불에 대해 지라에게 "
+"이야기해야합니다.-G-"
+
+#: 103224356-0-48403
+#, fuzzy
+msgctxt "103224356-0-48403"
+msgid "I should track down the reagents Mindileth needs to create her anti-venom: gloom morel, barbleberries, and the venom of Scuttle Pit spiders."
+msgstr ""
+"나는 Mindileth가 그녀의 항독을 만들기 위해 필요로하는 시약을 추적해야한다:우울증, 바블 베리, 그리고 Scuttle Pit "
+"거미의 독.-G-"
+
+#: 103224356-0-48339
+#, fuzzy
+msgctxt "103224356-0-48339"
+msgid "Now that we reached the island, we need to look around and find Margus and the Blackguards."
+msgstr "우리가 섬에 도착했을 때, 우리는 주변을 둘러보고 Margus와 Blackguards를 찾아야합니다.-G-"
+
+#: 103224356-0-48323
+#, fuzzy
+msgctxt "103224356-0-48323"
+msgid "Concordia assembled a map from the pieces that Jee-Lar and I recovered. With the map and the information I received from the Argonian slaves, I should be able to find the Blackguard expedition ship along the river near Deep Graves."
+msgstr ""
+"Concordia는 Jee-Lar와 내가 복구 한 조각에서지도를 조립했습니다. 나는 Argonian 노예로부터받은지도와 정보로 Deep "
+"Graves 근처의 강을 따라 Blackguard 원정대를 찾을 수 있어야합니다.-G-"
+
+#: 103224356-0-48258
+#, fuzzy
+msgctxt "103224356-0-48258"
+msgid "I should give the Golden Skull of Beela-Kaar to Concordia and Cyrodilic Collections for safekeeping."
+msgstr "Beela-Kaar의 황금 두개골을 Concordia와 Cyrodilic Collection에 보관해야합니다.-G-"
+
+#: 103224356-0-48254
+#, fuzzy
+msgctxt "103224356-0-48254"
+msgid "Now that I stopped Margus Derius and retrieved the Golden Skull of Beela-Kaar, I should return to the boat and leave this forbidden island."
+msgstr ""
+"이제 나는 Margus Derius를 멈추고 Beela-Kaar의 황금 두개골을 꺼 냈습니다. 나는 보트로 돌아가서이 금단의 섬을 "
+"떠나야합니다.-G-"
+
+#: 103224356-0-48253
+#, fuzzy
+msgctxt "103224356-0-48253"
+msgid "I entered the ritual chamber. Now I need to put an end to Margus's ritual."
+msgstr "나는 의식실에 입장했다. 이제 마거스의 의식을 끝내야합니다.-G-"
+
+#: 103224356-0-48252
+#, fuzzy
+msgctxt "103224356-0-48252"
+msgid "I can hear Margus Derius. He's definitely started the ritual. I need to reach him."
+msgstr "마거스 델러스가 들려요. 그는 확실히 의식을 시작했습니다. 나는 그에게 다가 가야한다.-G-"
+
+#: 103224356-0-48248
+#, fuzzy
+msgctxt "103224356-0-48248"
+msgid "Jee-Lar thinks that Margus Derius has entered the xanmeer to perform the ritual that will unleash the power of the cursed skull. I should enter the xanmeer and find him."
+msgstr ""
+"Jee-Lar는 Margus Derius가 저주받은 두개골의 힘을 발휘할 의식을 수행하기 위해 xanmeer에 들어갔다고 생각합니다. "
+"나는 xanmeer에 들어가서 그를 찾아야한다.-G-"
+
+#: 103224356-0-48247
+#, fuzzy
+msgctxt "103224356-0-48247"
+msgid "I need to explore the island and find Margus Derius. I should also look around and see if I can determine what the Blackguards are up to."
+msgstr ""
+"섬을 탐험하고 마거스 델리우스를 찾아야 해. 나는 주변을 둘러보고 내가 블랙 가드가 무엇인지 결정할 수 있는지 알아봐야한다.-G-"
+
+#: 103224356-0-48245
+#, fuzzy
+msgctxt "103224356-0-48245"
+msgid "I need to sneak aboard the Blackguards' ship and convince the pilot to take us to the forbidden island, Norg-Tzel."
+msgstr "나는 블랙 가드의 배에 몰래 들어가서 조종사에게 우리를 금지 된 섬인 Norg-Tzel에 데려다 주도록 설득해야합니다.-G-"
+
+#: 103224356-0-48244
+#, fuzzy
+msgctxt "103224356-0-48244"
+msgid "I located the Blackguards' expedition ship. Now I need to find Jee-Lar and discuss our next move with him."
+msgstr "나는 블랙 가드의 원정대를 배치했다. 이제는 지라를 찾아서 다음 이야기를 그와 함께 토론해야합니다.-G-"
+
+#: 103224356-0-48243
+#, fuzzy
+msgctxt "103224356-0-48243"
+msgid "Concordia assembled a map from the pieces that Jee-Lar and I recovered. It should help me locate the Blackguard expedition ship that's somewhere in the southern region of Shadowfen."
+msgstr ""
+"Concordia는 Jee-Lar와 내가 복구 한 조각에서지도를 조립했습니다. Shadowfen의 남쪽 지역 어딘가에있는 "
+"Blackguard 원정대를 찾는데 도움이 될 것입니다.-G-"
+
+#: 103224356-0-48242
+#, fuzzy
+msgctxt "103224356-0-48242"
+msgid "I should return to Concordia's camp outside Stormhold and see if she can make sense of these map pieces I found."
+msgstr "나는 스톰 홀드 외부의 콘 코르 디아 캠프로 돌아와 내가 발견 한이지도 조각을 이해할 수 있는지 알아봐야한다.-G-"
+
+#: 103224356-0-48241
+#, fuzzy
+msgctxt "103224356-0-48241"
+msgid "Jee-Lar learned that three Blackguards carry pieces of a map that, once combined, show the location of where their expedition ship is moored. I need to recover two of the map pieces while Jee-Lar goes after the third."
+msgstr ""
+"지라 (Jee-Lar)는 세 명의 블랙 가드가 한 번 결합 해 자신의 원정대가 정박 한 곳의 위치를 보여주는지도 조각을 가지고 있음을 "
+"알게되었습니다. Jee-Lar가 세 번째를 뒤쫓는 동안 나는 두 장의지도를 복구해야합니다.-G-"
+
+#: 103224356-0-48240
+#, fuzzy
+msgctxt "103224356-0-48240"
+msgid "I spoke to all of the Argonians on my list and found out that Margus is looking for a place called Norg-Tzel to perform a ritual that will reveal the location of the cursed skull. I should  return to <<1>> and compare notes."
+msgstr ""
+"나는 모든 Argonians에게 내 목록에 대해 말하고 Margus가 저주받은 두개골의 위치를 밝힐 의식을 수행하기 위해 Norg-"
+"Tzel이라는 장소를 찾고 있음을 알았습니다. 나는 <<1>>로 돌아가서 노트를 비교해야합니다.-G-"
+
+#: 103224356-0-48239
+#, fuzzy
+msgctxt "103224356-0-48239"
+msgid "<<1>> asked me to interview the Argonians on the list he provided while he talks to a few others. We need to see if the Blackguards approached them so we can figure out what Margus plans to do next."
+msgstr ""
+"<<1>>은 Argonians이 그가 제공 한 목록에서 다른 사람들과 이야기하는 동안 인터뷰 해줄 것을 요청했습니다. 마르 가우스가 "
+"다음에 할 계획을 알아낼 수 있도록 블랙 가드가 접근했는지 확인해야합니다.-G-"
+
+#: 103224356-0-48238
+#, fuzzy
+msgctxt "103224356-0-48238"
+msgid "I need to find <<1>> down by the water and see if he can direct me to local Argonians who may have knowledge of the Golden Skull of Beela-Kaar."
+msgstr ""
+"나는 물로 <<1>>을 찾아 내 Beela-Kaar의 황금 해골에 대한 지식을 가진 아르고니아 인에게 안내 할 수 있는지 알아볼 필요가 "
+"있습니다.-G-"
+
+#: 103224356-0-48228
+#, fuzzy
+msgctxt "103224356-0-48228"
+msgid "Something terrible has occurred in the Outlaws Refuge! I should see if <<1>> can tell me what happened."
+msgstr "끔찍한 무언가가 무법자 피난소에서 발생했습니다! <<1>>이 무슨 일이 있었는지 알 수 있어야합니다.-G-"
+
+#: 103224356-0-48192
+#, fuzzy
+msgctxt "103224356-0-48192"
+msgid "Find Belladonna Berries"
+msgstr "벨라돈 딸기 찾기-G-"
+
+#: 103224356-0-48188
+#, fuzzy
+msgctxt "103224356-0-48188"
+msgid "Find Wolfsbane"
+msgstr "볼프 스 밴 찾기-G-"
+
+#: 103224356-0-48186
+#, fuzzy
+msgctxt "103224356-0-48186"
+msgid "The Blackguards have uncovered an Argonian nightmare idol. I need to retrieve the idol and take it back to Concordia Mercius."
+msgstr ""
+"Blackguards는 Argonian 악몽의 우상을 밝혀 냈습니다. 우상을 회수해서 Concordia Mercius에게 가져 가야합니다."
+"-G-"
+
+#: 103224356-0-48185
+#, fuzzy
+msgctxt "103224356-0-48185"
+msgid "The Blackguards are searching for something inside the Chid-Moska Ruins. I need to find out what they're up to and put a stop to it."
+msgstr ""
+"Blackguards는 Chid-Moska Ruins 내부의 무언가를 찾고 있습니다. 나는 그들이 무엇을하고 있는지 파악하고 그걸 막을 "
+"필요가있다.-G-"
+
+#: 103224356-0-48183
+#, fuzzy
+msgctxt "103224356-0-48183"
+msgid "Jee-Lar arranged for our transportation to Shadowfen. Now to locate the Chid-Moska Ruins and get inside."
+msgstr ""
+"Jee-Lar는 Shadowfen으로가는 교통편을 마련했습니다. Chid-Moska Ruins를 찾아서 안으로 들어 가자.-G-"
+
+#: 103224356-0-48182
+#, fuzzy
+msgctxt "103224356-0-48182"
+msgid "Jee-Lar arrived. I should let him know what I found out."
+msgstr "지라가 도착했습니다. 나는 그가 내가 발견 한 것을 그가 알려주도록해야한다.-G-"
+
+#: 103224356-0-48181
+#, fuzzy
+msgctxt "103224356-0-48181"
+msgid "Urzashi thinks that Margus Derius is on the trail of something that the antiquities he's been collecting are leading him to. With nothing else to go on, she suggested that the Blackguard who killed Eshundir might have left some clues."
+msgstr ""
+"Urzashi는 Margus Derius가 자신이 수집 한 고대 유물이 그를 이끌고있는 무언가의 흔적에 있다고 생각합니다. 계속할 다른 "
+"것없이, 그녀는 에쉬 ir을 죽인 블랙 가드가 단서를 남겼을 것이라고 제안했다.-G-"
+
+#: 103224356-0-48180
+#, fuzzy
+msgctxt "103224356-0-48180"
+msgid "Concordia thinks that there's something significant about the two antiquities I recovered in the Sunless Hollow. She wants me to return to the nearby Outlaws Refuge and consult with one of the experts who helped us earlier."
+msgstr ""
+"Concordia는 Sunless Hollow에서 회수 한 두 개의 유물에 대해 중요한 점이 있다고 생각합니다. 그녀는 내가 근처의 "
+"무법자 피난소로 돌아가서 우리를 조기에 도와 준 전문가 중 한 명과 상담하기를 원합니다.-G-"
+
+#: 103224356-0-48179
+#, fuzzy
+msgctxt "103224356-0-48179"
+msgid "I should return to Concordia Mercius and show her these Argonian antiquities I recovered from the Sunless Hollow."
+msgstr ""
+"나는 Concordia Mercius로 돌아가서 Sunless Hollow에서 회수 한 이들 Argonian 유물을 보여 주어야합니다.-"
+"G-"
+
+#: 103224356-0-48158
+#, fuzzy
+msgctxt "103224356-0-48158"
+msgid "Now that I'm inside the Sunless Hollow, I need to find any Argonian antiquities that Margus and the Blackguards have hidden here."
+msgstr ""
+"이제 내가 Sunless Hollow에 들어서 자, Margus와 Blackguards가 여기 숨긴 Argonian 유물을 찾아야합니다.-"
+"G-"
+
+#: 103224356-0-48143
+#, fuzzy
+msgctxt "103224356-0-48143"
+msgid "The leaflet said to meet <<1>> in Vulkhel Guard, Davon's Watch, or Daggerfall."
+msgstr ""
+"이 전단지는 Vulkhel Guard, Davon 's Watch 또는 Daggerfall에서 <<1>>을 만난다고합니다.-G-"
+
+#: 103224356-0-48142
+#, fuzzy
+msgctxt "103224356-0-48142"
+msgid "<<1>> asked me to go to the Sunless Hollow to try to recover the Argonian antiquities that Margus Derius and the Blackguards have acquired."
+msgstr ""
+"<<1>>은 Margus Derius와 Blackguards가 획득 한 Argonian 유물을 복구하려고 Sunless Hollow에 "
+"가도록 요청했습니다.-G-"
+
+#: 103224356-0-48141
+#, fuzzy
+msgctxt "103224356-0-48141"
+msgid "I need to talk to a smuggler, a black marketeer, and an information broker that deals in stolen antiquities in the Outlaws Refuge to learn more about Cyrodilic Collections' competition, Margus Derius."
+msgstr ""
+"밀수꾼, 흑인 시장, 그리고 무법자 피난민의 도난당한 유물을 다루는 정보 중개인과 이야기를 나눠서 Cyrodilic "
+"Collections의 경쟁 인 Margus Derius에 대해 더 자세히 알아볼 필요가 있습니다.-G-"
+
+#: 103224356-0-48140
+#, fuzzy
+msgctxt "103224356-0-48140"
+msgid "<<1>> asked me to go to the nearby Outlaws Refuge to talk to a black marketeer, an information broker, and a smuggler to see what I can learn about an unscrupulous competitor of Cyrodilic Collections named Margus Derius."
+msgstr ""
+"<<1>>은 근처의 무법자 피난민에게 Black marketeer, 정보 중개인, 밀수업자와 이야기하여 Margus Derius라는 "
+"Cyrodili Collections의 파렴치한 경쟁자에 관해 무엇을 배울 수 있는지를 물었습니다.-G-"
+
+#: 103224356-0-48095
+#, fuzzy
+msgctxt "103224356-0-48095"
+msgid "I've defeated Vykosa and saved Moon Hunter Keep from her vicious pack. I should speak to Adonatus Varian in order to receive my reward."
+msgstr ""
+"나는 비코 사 (Vykosa)를 물리 치고 문 헌터 (Munter Keep)를 악의적 인 팩에서 구해 냈습니다. 보상을 받으려면 "
+"Adonatus Varian에게 이야기해야합니다.-G-"
+
+#: 103224356-0-48094
+#, fuzzy
+msgctxt "103224356-0-48094"
+msgid "I should speak to <<1>> in <<2>>."
+msgstr "<<2>>에서 <<1>>에 대해 이야기해야합니다.-G-"
+
+#: 103224356-0-48086
+#, fuzzy
+msgctxt "103224356-0-48086"
+msgid "With the Wyrd Sisters defeated, I can continue my hunt for the indrik. I should move further in Bloodscent Pass."
+msgstr ""
+"Wyrd 자매가 패배함에 따라, 나는 indrk에 대한 나의 사냥을 계속할 수있다. 나는 Bloodscent Pass에서 더 나아야합니다."
+"-G-"
+
+#: 103224356-0-48063
+#, fuzzy
+msgctxt "103224356-0-48063"
+msgid "I should talk to Concordia Mercius and see if she can help me determine what Margus Derius is trying to accomplish."
+msgstr ""
+"Concordia Mercius와 이야기하고 그녀가 Margus Derius가 성취하려는 것을 결정할 수 있는지 알아봐야합니다.-G-"
+
+#: 103224356-0-47662
+msgctxt "103224356-0-47662"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-47660
+msgctxt "103224356-0-47660"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-47659
+msgctxt "103224356-0-47659"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-47658
+#, fuzzy
+msgctxt "103224356-0-47658"
+msgid "<<1>> presented me with another challenge: destroy the Moon Hunter Pack Banner and kill the enraged Balorgh"
+msgstr ""
+"<<1>>은 또 다른 도전 과제를 제시했습니다:Moon Hunter Pack Banner를 파괴하고 분노한 Balorgh를 죽이십시오.-"
+"G-"
+
+#: 103224356-0-47657
+#, fuzzy
+msgctxt "103224356-0-47657"
+msgid "I've successfully fought my way through Hircine's March of Sacrifices."
+"\n"
+"\nI should find <<1>> in my alliance's capital city."
+msgstr ""
+"Hircine 's March of Sacrifices를 통해 성공적으로 싸웠습니다."
+"\n"
+""
+"\n"
+"내 동맹의 수도에서 <<1>>을 찾아야합니다.-G-"
+
+#: 103224356-0-47656
+#, fuzzy
+msgctxt "103224356-0-47656"
+msgid "I have agreed to fight my way through the March of Sacrifices. To be truly Undaunted I must defeat the Wyrd Sisters, <<1>>, Tarcyr's Thralls, <<2>>, and finally <<3>>."
+msgstr ""
+"나는 March of Sacrifices를 통해 내 방식대로 싸우기로 동의했다. 정말로 배신 당하지 않으려면 나는 Wyrd "
+"Sisters, <<1>>, Tarcyr 's Thralls, <<2>> 그리고 마지막으로 <<3>>을 물리쳐야합니다.-G-"
+
+#: 103224356-0-47655
+#, fuzzy
+msgctxt "103224356-0-47655"
+msgid "Hircine has refused to give Balorgh a boon, since he did not kill the indrik. Balorgh has sworn to kill the ones who did hunt the indrik, my companions and I. I should defend myself."
+msgstr ""
+"Hircine은 그가 Indrik를 죽이지 않았기 때문에, Balorgh에게 보탬을주는 것을 거부했다. Balorgh는 indrik, "
+"나의 동행자 및 I. 사냥 한 그들을 죽이기 위하여 맹세했다. 나는 나 자신 방어해야한다.-G-"
+
+#: 103224356-0-47654
+#, fuzzy
+msgctxt "103224356-0-47654"
+msgid "I have defeated Tarcyr and Hanu has collected the creature's heart. I should accompany her to Hircine."
+msgstr "나는 Tarcyr를 물리 쳤고 Hanu은 생물의 마음을 수집했다. 나는 그녀를 Hircine에 동행해야한다.-G-"
+
+#: 103224356-0-47652
+#, fuzzy
+msgctxt "103224356-0-47652"
+msgid "I've become trapped in a hole with a powerful spriggan. I must defeat it if I'm to continue the Great Hunt."
+msgstr "나는 강력한 spriggan으로 구멍에 갇혀있다. 내가 그레이트 헌트를 계속한다면 나는 그것을 물리 칠 필요가있다.-G-"
+
+#: 103224356-0-47651
+#, fuzzy
+msgctxt "103224356-0-47651"
+msgid "A group of murderous Wyrd Sisters block my path. I'll need to defeat them if I hope to continue the Great Hunt."
+msgstr "살해당한 와이더 시스터즈 집단이 내 길을 막는다. 그레이트 헌트를 계속하기를 원한다면 그들을 물리 칠 필요가 있습니다.-G-"
+
+#: 103224356-0-47650
+#, fuzzy
+msgctxt "103224356-0-47650"
+msgid "Hircine's Great Hunt has begun. I should explore Bloodscent Pass and attempt to find the indrik."
+msgstr ""
+"Hircine의 위대한 사냥이 시작되었습니다. 나는 블러드 센트 패스 (Bloodscent Pass)를 탐험하고 탐험가를 찾으려한다.-G-"
+""
+
+#: 103224356-0-47649
+#, fuzzy
+msgctxt "103224356-0-47649"
+msgid "Now that I've defeated Tarcyr's thralls, it's time to hunt down the creature itself. I should follow the wisp that Hanu's father gave us in order to find the indrik."
+msgstr ""
+"이제 나는 타르시 (Tarcyr)의 굴을 패배 시켰으므로 생물을 사냥 할 때가되었습니다. Hanu의 아버지가 indrik을 찾기 위해 "
+"우리에게 준 wisp을 따라야합니다.-G-"
+
+#: 103224356-0-47648
+#, fuzzy
+msgctxt "103224356-0-47648"
+msgid "I should speak to <<1>> in <<2>>."
+msgstr "<<2>>에서 <<1>>에 대해 이야기해야합니다.-G-"
+
+#: 103224356-0-47647
+#, fuzzy
+msgctxt "103224356-0-47647"
+msgid "I've finally found the indrik and am ready to conclude the Great Hunt. I must defeat it if I'm to collect its heart."
+msgstr ""
+"드디어 indrik을 발견하고 Great Hunt를 결론 지을 준비가되었습니다. 나는 그 마음을 모아야한다면 그것을 물리쳐야합니다.-G-"
+
+#: 103224356-0-47646
+#, fuzzy
+msgctxt "103224356-0-47646"
+msgid "The indrik Tarcyr has killed a group of Nords and now uses their corpse to protect itself. I must defeat these thralls if I'm to hunt down the indrik."
+msgstr ""
+"indrik Tarcyr는 한 무리의 노드를 죽였고 이제는 시체를 사용하여 자신을 보호합니다. 내가 indrk을 사냥하는 경우이 "
+"thralls을 물리 칠해야합니다.-G-"
+
+#: 103224356-0-47645
+#, fuzzy
+msgctxt "103224356-0-47645"
+msgid "With the spriggan defeated, I can continue the Great Hunt with Hanu. I should explore the Wispwood and see if I can pick up the indrik's trail."
+msgstr ""
+"그 spriggan을 물리 치고, 나는 Hanu와 함께 Great Hunt를 계속할 수 있습니다. 나는 Wispwood를 탐험하고 "
+"indrik 's 흔적을 집어들 수 있는지 알아봐야한다.-G-"
+
+#: 103224356-0-47643
+msgctxt "103224356-0-47643"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-47641
+msgctxt "103224356-0-47641"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-47640
+msgctxt "103224356-0-47640"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-47639
+#, fuzzy
+msgctxt "103224356-0-47639"
+msgid "<<1>> presented me with another challenge: read the Scroll of Glorious Battle and slay Vykosa the Ascendant."
+msgstr "<<1>>은 나에게 또 다른 도전 과제를 안겨주었습니다:영광스런 전투 스크롤을 읽고 어센 던트 비 코사를 죽이십시오.-G-"
+
+#: 103224356-0-47638
+#, fuzzy
+msgctxt "103224356-0-47638"
+msgid "I defeated the werewolf pack of Moon Hunter Keep. I should find <<1>> in my alliance's capital city."
+msgstr "나는 문 헌터 킵의 늑대 무리를 물리 쳤다. 나는 동맹의 수도에서 <<1>>을 찾아야한다.-G-"
+
+#: 103224356-0-47637
+#, fuzzy
+msgctxt "103224356-0-47637"
+msgid "I agreed to make my way through the dangers of Moon Hunter Keep. To be truly Undaunted I must defeat <<1>>,  the <<2>>, <<3>>, <<4>>, and finally <<5>>."
+msgstr ""
+"문 헌터 킵의 위험을 극복하기로 동의했습니다. 진정으로 미완성이 되려면 <<1>>, <<2>>, <<3>>, <<4>> 및 마지막으로 "
+"<<5>>를 반드시 따라야합니다.-G-"
+
+#: 103224356-0-47636
+#, fuzzy
+msgctxt "103224356-0-47636"
+msgid "I've finally come upon Vykosa, leader of the Moon Hunter Pack. I should defeat her."
+msgstr ""
+"마침내 달 헌터 팩 (Moon Hunter Pack)의 리더 인 비 코사 (Vykosa)가 나왔습니다. 나는 그녀를 물리쳐야한다.-G-"
+
+#: 103224356-0-47635
+#, fuzzy
+msgctxt "103224356-0-47635"
+msgid "Vykosa awaits me atop the Moon Hunter Overlook. I should make my way to her."
+msgstr "Vykosa는 Moon Hunter Overlook 꼭대기에서 나를 기다리고 있습니다. 나는 그녀에게 나아가 야한다.-G-"
+
+#: 103224356-0-47633
+#, fuzzy
+msgctxt "103224356-0-47633"
+msgid "The keep's hedge maze lies ahead, a garden covered in all manner of dangerous creatures. I should make my way through the hedge maze in order to proceed into Moon Hunter Keep."
+msgstr ""
+"Keep의 헤지 미로는 모든 형태의 위험한 생물로 덮인 정원 앞에 있습니다. 문 헌터 킵에 들어가기 위해서는 헤지 미로를 통과해야합니다.-"
+"G-"
+
+#: 103224356-0-47632
+#, fuzzy
+msgctxt "103224356-0-47632"
+msgid "The head guard of the prison, Jailer Melitus, blocks my way into the keep. I should defeat him."
+msgstr "감옥의 수비대 인 Jailer Melitus는 길을 막습니다. 나는 그를 물리쳐야한다.-G-"
+
+#: 103224356-0-47631
+#, fuzzy
+msgctxt "103224356-0-47631"
+msgid "While Adonatus frees his fellow prisoners, I must keep the guards distracted. I should start making my way through the prison."
+msgstr "Adonatus가 동료 포로를 석방하는 동안, 나는 경비원을 산만하게해야합니다. 나는 감옥에서 길을 시작해야한다.-G-"
+
+#: 103224356-0-47630
+#, fuzzy
+msgctxt "103224356-0-47630"
+msgid "I've defeated Mylenne Moon-Caller in a harrowing battle. I must make my way within the confines of the keep if I'm to defeat Vykosa."
+msgstr ""
+"나는 격렬한 전투에서 Mylenne Moon-Caller를 물리 쳤습니다. 나는 비코 사 (Vykosa)를 물리 치려면 계속 유지해야한다."
+"-G-"
+
+#: 103224356-0-47629
+#, fuzzy
+msgctxt "103224356-0-47629"
+msgid "I should speak to <<1>> in <<2>>."
+msgstr "<<2>>에서 <<1>>에 대해 이야기해야합니다.-G-"
+
+#: 103224356-0-47628
+#, fuzzy
+msgctxt "103224356-0-47628"
+msgid "The Archivist wishes to stop me from getting to Vykosa. I should defeat him in order to move on."
+msgstr "Archivist는 Vykosa에 도착하는 것을 막으려합니다. 나는 계속 전진하기 위해 그를 물리쳐야한다.-G-"
+
+#: 103224356-0-47627
+#, fuzzy
+msgctxt "103224356-0-47627"
+msgid "Mylenne Moon-Caller, by order of Vykosa herself, has blocked my path. I should defeat this massive werewolf if I wish to proceed."
+msgstr ""
+"Vykosa 자신의 명령에 따라 Mylenne Moon-Caller는 나의 길을 막았습니다. 계속 진행하려면이 거대한 늑대 인간을 "
+"물리쳐야합니다.-G-"
+
+#: 103224356-0-47626
+#, fuzzy
+msgctxt "103224356-0-47626"
+msgid "I've defeated the Hedge Maze Guardian. I should enter the Moon Hunter Bailey in order to make my way further in the keep."
+msgstr "나는 헤지 메이스 가디언을 물리 쳤다. 나는 계속해서 더 나아갈 수 있도록 문 헌터 베일리에 입장해야합니다.-G-"

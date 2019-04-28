@@ -1,0 +1,3664 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 103224356-0-41587
+#, fuzzy
+msgctxt "103224356-0-41587"
+msgid "I've been defeated by the forces of the Celestial Serpent in Sanctum Ophidia. I need to report to Turuk Redclaws."
+msgstr "Sanctum Ophidia의 천상의 독사 군대에 의해 패배했습니다. Turuk Redclaws에게보고해야합니다.-G-"
+
+#: 103224356-0-41585
+#, fuzzy
+msgctxt "103224356-0-41585"
+msgid "I've defeated the Celestial Serpent and returned him to his prison within the Apex Stone. The Scaled Court of Sanctum Ophidia has been scattered. I should speak to Turuk."
+msgstr ""
+"나는 천상의 독사를 물리 치고 그를 에이펙 스톤 (Apex Stone) 안에있는 그의 감옥으로 돌려 보냈다. Sanctum "
+"Ophidia의 Scaled Court가 산산이 부서졌습니다. 나는 투룩 (Turuk)과 이야기해야한다.-G-"
+
+#: 103224356-0-41583
+#, fuzzy
+msgctxt "103224356-0-41583"
+msgid "I've defeated the Celestial Serpent and returned him to his prison within the Apex Stone. The Scaled Court of Sanctum Ophidia has been scattered. I should speak with Atildel."
+msgstr ""
+"나는 천상의 독사를 물리 치고 그를 에이펙 스톤 (Apex Stone) 안에있는 그의 감옥으로 돌려 보냈다. Sanctum "
+"Ophidia의 Scaled Court가 산산이 부서졌습니다. 나는 Atildel과 이야기해야한다.-G-"
+
+#: 103224356-0-41581
+#, fuzzy
+msgctxt "103224356-0-41581"
+msgid "Everyone who has taken on the dangers of the Sanctum Ophidia have been defeated. Though the Scaled Court controls the caves, I must enter the Sanctum and slay the Serpent."
+msgstr ""
+"Sanctum Ophidia의 위험을 감수 한 사람은 모두 패배했습니다. 스케일 된 법원이 동굴을 통제하지만, 나는 성소에 들어가서 뱀을 "
+"죽여야합니다.-G-"
+
+#: 103224356-0-41565
+#, fuzzy
+msgctxt "103224356-0-41565"
+msgid "Velidreth is dead, but Tsatva-Lan has not answered for what he has done. I should speak to <<1>> about what she intends to do with him."
+msgstr ""
+"Velidreth는 죽었지 만 Tsatva-Lan은 그가 한 일에 대해 대답하지 않았습니다. 나는 그녀가 그와 함께하고자하는 것에 대해 "
+"<<1>>에 대해 이야기해야합니다.-G-"
+
+#: 103224356-0-41564
+#, fuzzy
+msgctxt "103224356-0-41564"
+msgid "I discovered a shadowy cave network full of Mephala's servants and horrifying beasts. I must fight my way through the darkness to find the exit."
+msgstr ""
+"나는 Mephala의 하인들과 무시 무시한 짐승으로 가득 찬 그림자 같은 동굴 네트워크를 발견했습니다. 나는 출구를 찾기 위해 어둠을 "
+"헤치고 나가야한다.-G-"
+
+#: 103224356-0-41562
+#, fuzzy
+msgctxt "103224356-0-41562"
+msgid "A small Daedric creature told me to go to the Daggerfall Mages Guild. It must be one of Tharn's servants."
+msgstr ""
+"작은 Daedric 생물이 나에게 Daggerfall Mages 길드에 가라고 말했습니다. 그것은 Tharn의 하인 중 하나 여야합니다.-"
+"G-"
+
+#: 103224356-0-41561
+#, fuzzy
+msgctxt "103224356-0-41561"
+msgid "A small Daedric creature told me to go to the Vulkhel Guard Mages Guild. It must be one of Tharn's servants."
+msgstr ""
+"작은 Daedric 생물이 Vulkhel Guard Mages 길드에 가라고했습니다. 그것은 Tharn의 하인 중 하나 여야합니다.-G-"
+
+#: 103224356-0-41533
+msgctxt "103224356-0-41533"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "Undaunted 거처에 있는 <<1>>에게 돌아가서 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41532
+msgctxt "103224356-0-41532"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>에게 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41531
+msgctxt "103224356-0-41531"
+msgid "I need to retrieve heirlooms stolen by the Red Rook Bandits. I should also defeat their leader."
+msgstr "붉은 떼까마귀 도적단이 훔쳐간 가보를 되찾아야 한다. 그리고 놈들의 지도자도 처치해야 한다."
+
+#: 103224356-0-41525
+msgctxt "103224356-0-41525"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "Undaunted 거처에 있는 <<1>>에게 돌아가서 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41524
+msgctxt "103224356-0-41524"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>에게 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41522
+msgctxt "103224356-0-41522"
+msgid "I need to place <<mz:1>> within the crypt. I should also find and defeat any creature that would seek to destroy the wards."
+msgstr "납골당 안에 <<mz:1>>을 가져다두어야 한다. 그리고 방어석을 파괴하려 할 괴물들을 찾아내서 처치해야 한다."
+
+#: 103224356-0-41516
+msgctxt "103224356-0-41516"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>에게 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41515
+msgctxt "103224356-0-41515"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "Undaunted 거처에 있는 <<1>>에게 돌아가서 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41514
+msgctxt "103224356-0-41514"
+msgid "I need to collect <<Cmz:1>> from the ruin. I should also defeat the toughest Dwarven creature I can find."
+msgstr "유적에서 <<1>>을 수집해야 한다. 그리고 그곳에서 찾을 수 있는 가장 강한 드워븐 괴물도 처치해야 한다."
+
+#: 103224356-0-41513
+msgctxt "103224356-0-41513"
+msgid "I need to place <<mz:1>> within the crypt. I should also find and defeat any creature that would seek to destroy the wards."
+msgstr "납골당 안에 <<1>>을 가져다두어야 한다. 그리고 방어석을 파괴하려 할 괴물들을 찾아내서 처치해야 한다."
+
+#: 103224356-0-41512
+msgctxt "103224356-0-41512"
+msgid "I need to place <<mz:1>> within the crypt. I should also find and defeat any creature that would seek to destroy the wards."
+msgstr "납골당 안에 <<1>>을 가져다두어야 한다. 그리고 방어석을 파괴하려 할 괴물들을 찾아내서 처치해야 한다."
+
+#: 103224356-0-41509
+msgctxt "103224356-0-41509"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>에게 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41506
+msgctxt "103224356-0-41506"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "Undaunted 거처에 있는 <<1>>에게 돌아가서 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41503
+msgctxt "103224356-0-41503"
+msgid "I need to place <<mz:1>> within the crypt. I should also find and defeat any creature that would seek to destroy the wards."
+msgstr "납골당 안에 <<mz:1>>을 가져다두어야 한다. 그리고 방어석을 파괴하려 할 괴물들을 찾아내서 처치해야 한다."
+
+#: 103224356-0-41497
+msgctxt "103224356-0-41497"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>에게 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41496
+msgctxt "103224356-0-41496"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "Undaunted 거처에 있는 <<1>>에게 돌아가서 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41495
+msgctxt "103224356-0-41495"
+msgid "I need to place <<z:1>> around the ruins to bind the restless spirits. I should also find and defeat whatever woke them in the first place."
+msgstr ""
+"쉬지 못하는 영혼들을 속박하기 위해 <<z:1>>을 유적 곳곳에 가져다 놓아야 한다. 그리고 처음에 영혼들을 깨워낸 것을 찾아내서 "
+"처치해야 한다."
+
+#: 103224356-0-41493
+msgctxt "103224356-0-41493"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "Undaunted 거처에 있는 <<1>>에게 돌아가서 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41482
+msgctxt "103224356-0-41482"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>에게 내가 도전을 완수했다는 것을 알려줘야 한다."
+
+#: 103224356-0-41481
+msgctxt "103224356-0-41481"
+msgid "I need to find cursed <<z:1>> sought by collectors. I should defeat the toughest creature within to break the curse."
+msgstr ""
+"수집가들이 찾고 있는 저주받은  <<z:1>>를 찾아야 한다. 저주를 깨뜨리려면 지하묘지 안에 있는 가장 강력한 괴물도 처치해야 한다."
+
+#: 103224356-0-41476
+#, fuzzy
+msgctxt "103224356-0-41476"
+msgid "My progress is blocked by two locked gates. I must find a way to progress deeper into the Cradle of Shadows."
+msgstr "내 진행은 두 개의 고정 된 게이트에 의해 차단됩니다. 나는 그림자의 요람으로 깊숙이 진출 할 길을 찾아야 만한다.-G-"
+
+#: 103224356-0-41475
+#, fuzzy
+msgctxt "103224356-0-41475"
+msgid "I discovered a switch. I should pull it to open one of the blocked gates."
+msgstr "나는 스위치를 발견했다. 차단 된 게이트 중 하나를 열려면 그걸 당겨야합니다.-G-"
+
+#: 103224356-0-41474
+#, fuzzy
+msgctxt "103224356-0-41474"
+msgid "I unlocked the remaining gate, and witnessed Tsatva-Lan's treachery. I should regroup with Hides-the-Ashes in the Central Chamber to discuss our next move."
+msgstr ""
+"나는 남은 문을 열었고, Tsatva-Lan의 배신을 목격했다. 중앙 집회소에서 숨겨둔 재로 재편성하여 다음에 논의 할 내용을 "
+"논의해야합니다.-G-"
+
+#: 103224356-0-41473
+#, fuzzy
+msgctxt "103224356-0-41473"
+msgid "Switching the lever opened the North Gate. I should explore that wing of the Cradle."
+msgstr "레버를 바꾸면 노스 게이트가 열렸습니다. 나는 요람의 날개를 탐험해야한다.-G-"
+
+#: 103224356-0-41472
+#, fuzzy
+msgctxt "103224356-0-41472"
+msgid "I must kill Velidreth's top assassin, <<1>>."
+msgstr "나는 Velidreth의 최고의 암살자, <<1>>을 죽여야 만합니다.-G-"
+
+#: 103224356-0-41471
+#, fuzzy
+msgctxt "103224356-0-41471"
+msgid "I must find the lair of Velidreth, the Lady of Lace."
+msgstr "레이스 오브 레이드 벨리 드레의 은신처를 찾아야합니다.-G-"
+
+#: 103224356-0-41470
+#, fuzzy
+msgctxt "103224356-0-41470"
+msgid "I found Velidreth's Lair. I must slay her to end the threat of the Silken Ring and discover the fate of Hides-the-Ashes's traitorous mentor, Tsatva-Lan."
+msgstr ""
+"Velidreth 's Lair를 찾았습니다. 나는 실큰 반지의 위협을 끝내기 위해 그녀를 죽여야 만하고 숨어있는 재물의 배신자 인 "
+"샛바란 (Tsatva-Lan)의 운명을 발견해야합니다.-G-"
+
+#: 103224356-0-41427
+#, fuzzy
+msgctxt "103224356-0-41427"
+msgid "I lit a fire to keep <<1>> from freezing. Now we can discuss the Worm Cult."
+msgstr "나는 <<1>>이 얼어 붙지 않도록 불을 피웠다. 이제 우리는 웜 숭배에 관해 논의 할 수 있습니다.-G-"
+
+#: 103224356-0-41426
+#, fuzzy
+msgctxt "103224356-0-41426"
+msgid "I killed a Dremora imposter posing as the General. I should search the General's body for proof of his death."
+msgstr "나는 장군으로 포즈를 취하는 드레 모라 사기꾼을 죽였다. 장군의 시신을 조사해서 그의 죽음을 증명해야한다.-G-"
+
+#: 103224356-0-41418
+#, fuzzy
+msgctxt "103224356-0-41418"
+msgid "I have all the reagents mentioned in the grimoire. I should use them to summon the leader's spirit from within his ritual circle, and then I should speak to the spirit."
+msgstr ""
+"나는 그 시렁에 언급 된 모든 시약을 가지고있다. 나는 그들을 사용하여 의식의 순환계에서 리더의 정신을 소환해야하며, 정신을 말할 "
+"필요가있다.-G-"
+
+#: 103224356-0-41413
+#, fuzzy
+msgctxt "103224356-0-41413"
+msgid "Before a Grand Gladiator will face me, I must survive lower tier fights against shackled gladiators and Order of the Hour soldiers. Also, I may need to wait for the fight to start."
+msgstr ""
+"그랜드 검투 원이 나를 대면하기 전에, 나는 구속 된 검투사와 주문 병사들에 대항하여 낮은 계층의 전투에서 살아남 아야합니다. 또한 "
+"싸움이 시작되기를 기다려야 할 수도 있습니다.-G-"
+
+#: 103224356-0-41291
+#, fuzzy
+msgctxt "103224356-0-41291"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41288
+#, fuzzy
+msgctxt "103224356-0-41288"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41286
+#, fuzzy
+msgctxt "103224356-0-41286"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41283
+#, fuzzy
+msgctxt "103224356-0-41283"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41279
+#, fuzzy
+msgctxt "103224356-0-41279"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41275
+#, fuzzy
+msgctxt "103224356-0-41275"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41272
+#, fuzzy
+msgctxt "103224356-0-41272"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41270
+#, fuzzy
+msgctxt "103224356-0-41270"
+msgid "The Tenement's residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "임차인의 거주자들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고합니다.-G-"
+
+#: 103224356-0-41267
+#, fuzzy
+msgctxt "103224356-0-41267"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41266
+#, fuzzy
+msgctxt "103224356-0-41266"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41265
+#, fuzzy
+msgctxt "103224356-0-41265"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41264
+#, fuzzy
+msgctxt "103224356-0-41264"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41263
+#, fuzzy
+msgctxt "103224356-0-41263"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41262
+#, fuzzy
+msgctxt "103224356-0-41262"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41260
+#, fuzzy
+msgctxt "103224356-0-41260"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41259
+#, fuzzy
+msgctxt "103224356-0-41259"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41258
+#, fuzzy
+msgctxt "103224356-0-41258"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41257
+#, fuzzy
+msgctxt "103224356-0-41257"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41256
+#, fuzzy
+msgctxt "103224356-0-41256"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41254
+#, fuzzy
+msgctxt "103224356-0-41254"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41251
+#, fuzzy
+msgctxt "103224356-0-41251"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41249
+#, fuzzy
+msgctxt "103224356-0-41249"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41246
+#, fuzzy
+msgctxt "103224356-0-41246"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41242
+#, fuzzy
+msgctxt "103224356-0-41242"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41238
+#, fuzzy
+msgctxt "103224356-0-41238"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41235
+#, fuzzy
+msgctxt "103224356-0-41235"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41233
+#, fuzzy
+msgctxt "103224356-0-41233"
+msgid "The Tenement's residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "임차인의 거주자들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고합니다.-G-"
+
+#: 103224356-0-41230
+#, fuzzy
+msgctxt "103224356-0-41230"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41229
+#, fuzzy
+msgctxt "103224356-0-41229"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41228
+#, fuzzy
+msgctxt "103224356-0-41228"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41227
+#, fuzzy
+msgctxt "103224356-0-41227"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41226
+#, fuzzy
+msgctxt "103224356-0-41226"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41225
+#, fuzzy
+msgctxt "103224356-0-41225"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41223
+#, fuzzy
+msgctxt "103224356-0-41223"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41222
+#, fuzzy
+msgctxt "103224356-0-41222"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41221
+#, fuzzy
+msgctxt "103224356-0-41221"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41220
+#, fuzzy
+msgctxt "103224356-0-41220"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41219
+#, fuzzy
+msgctxt "103224356-0-41219"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41217
+#, fuzzy
+msgctxt "103224356-0-41217"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41214
+#, fuzzy
+msgctxt "103224356-0-41214"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41212
+#, fuzzy
+msgctxt "103224356-0-41212"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41209
+#, fuzzy
+msgctxt "103224356-0-41209"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41205
+#, fuzzy
+msgctxt "103224356-0-41205"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41201
+#, fuzzy
+msgctxt "103224356-0-41201"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41198
+#, fuzzy
+msgctxt "103224356-0-41198"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41196
+#, fuzzy
+msgctxt "103224356-0-41196"
+msgid "The Tenement's residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "임차인의 거주자들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고합니다.-G-"
+
+#: 103224356-0-41193
+#, fuzzy
+msgctxt "103224356-0-41193"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41192
+#, fuzzy
+msgctxt "103224356-0-41192"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41191
+#, fuzzy
+msgctxt "103224356-0-41191"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41190
+#, fuzzy
+msgctxt "103224356-0-41190"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41189
+#, fuzzy
+msgctxt "103224356-0-41189"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41188
+#, fuzzy
+msgctxt "103224356-0-41188"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41186
+#, fuzzy
+msgctxt "103224356-0-41186"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41185
+#, fuzzy
+msgctxt "103224356-0-41185"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41184
+#, fuzzy
+msgctxt "103224356-0-41184"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41183
+#, fuzzy
+msgctxt "103224356-0-41183"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41182
+#, fuzzy
+msgctxt "103224356-0-41182"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41069
+#, fuzzy
+msgctxt "103224356-0-41069"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41066
+#, fuzzy
+msgctxt "103224356-0-41066"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41064
+#, fuzzy
+msgctxt "103224356-0-41064"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41061
+#, fuzzy
+msgctxt "103224356-0-41061"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41057
+#, fuzzy
+msgctxt "103224356-0-41057"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41053
+#, fuzzy
+msgctxt "103224356-0-41053"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41050
+#, fuzzy
+msgctxt "103224356-0-41050"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41048
+#, fuzzy
+msgctxt "103224356-0-41048"
+msgid "The <<1>>'s residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "<<1>>의 주민들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고하고 있습니다.-G-"
+
+#: 103224356-0-41045
+#, fuzzy
+msgctxt "103224356-0-41045"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41044
+#, fuzzy
+msgctxt "103224356-0-41044"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41043
+#, fuzzy
+msgctxt "103224356-0-41043"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41042
+#, fuzzy
+msgctxt "103224356-0-41042"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41041
+#, fuzzy
+msgctxt "103224356-0-41041"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41040
+#, fuzzy
+msgctxt "103224356-0-41040"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41038
+#, fuzzy
+msgctxt "103224356-0-41038"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41037
+#, fuzzy
+msgctxt "103224356-0-41037"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41036
+#, fuzzy
+msgctxt "103224356-0-41036"
+msgid "The Speaker is waiting to hear my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 듣기를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41035
+#, fuzzy
+msgctxt "103224356-0-41035"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41034
+#, fuzzy
+msgctxt "103224356-0-41034"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41032
+#, fuzzy
+msgctxt "103224356-0-41032"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41029
+#, fuzzy
+msgctxt "103224356-0-41029"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41027
+#, fuzzy
+msgctxt "103224356-0-41027"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-41024
+#, fuzzy
+msgctxt "103224356-0-41024"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41020
+#, fuzzy
+msgctxt "103224356-0-41020"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41016
+#, fuzzy
+msgctxt "103224356-0-41016"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41013
+#, fuzzy
+msgctxt "103224356-0-41013"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-41011
+#, fuzzy
+msgctxt "103224356-0-41011"
+msgid "The <<1>>'s residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "<<1>>의 주민들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고하고 있습니다.-G-"
+
+#: 103224356-0-41008
+#, fuzzy
+msgctxt "103224356-0-41008"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41007
+#, fuzzy
+msgctxt "103224356-0-41007"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41006
+#, fuzzy
+msgctxt "103224356-0-41006"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41005
+#, fuzzy
+msgctxt "103224356-0-41005"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41004
+#, fuzzy
+msgctxt "103224356-0-41004"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41003
+#, fuzzy
+msgctxt "103224356-0-41003"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-41001
+#, fuzzy
+msgctxt "103224356-0-41001"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-41000
+#, fuzzy
+msgctxt "103224356-0-41000"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40999
+#, fuzzy
+msgctxt "103224356-0-40999"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40998
+#, fuzzy
+msgctxt "103224356-0-40998"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40997
+#, fuzzy
+msgctxt "103224356-0-40997"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40995
+#, fuzzy
+msgctxt "103224356-0-40995"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40992
+#, fuzzy
+msgctxt "103224356-0-40992"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40990
+#, fuzzy
+msgctxt "103224356-0-40990"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40987
+#, fuzzy
+msgctxt "103224356-0-40987"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40983
+#, fuzzy
+msgctxt "103224356-0-40983"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40979
+#, fuzzy
+msgctxt "103224356-0-40979"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40976
+#, fuzzy
+msgctxt "103224356-0-40976"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40974
+#, fuzzy
+msgctxt "103224356-0-40974"
+msgid "The <<1>>'s residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "<<1>>의 주민들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고하고 있습니다.-G-"
+
+#: 103224356-0-40971
+#, fuzzy
+msgctxt "103224356-0-40971"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40970
+#, fuzzy
+msgctxt "103224356-0-40970"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40969
+#, fuzzy
+msgctxt "103224356-0-40969"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40968
+#, fuzzy
+msgctxt "103224356-0-40968"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40967
+#, fuzzy
+msgctxt "103224356-0-40967"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40966
+#, fuzzy
+msgctxt "103224356-0-40966"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40964
+#, fuzzy
+msgctxt "103224356-0-40964"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40963
+#, fuzzy
+msgctxt "103224356-0-40963"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40962
+#, fuzzy
+msgctxt "103224356-0-40962"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40961
+#, fuzzy
+msgctxt "103224356-0-40961"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40960
+#, fuzzy
+msgctxt "103224356-0-40960"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40843
+#, fuzzy
+msgctxt "103224356-0-40843"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40840
+#, fuzzy
+msgctxt "103224356-0-40840"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40838
+#, fuzzy
+msgctxt "103224356-0-40838"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40835
+#, fuzzy
+msgctxt "103224356-0-40835"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40831
+#, fuzzy
+msgctxt "103224356-0-40831"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40827
+#, fuzzy
+msgctxt "103224356-0-40827"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40824
+#, fuzzy
+msgctxt "103224356-0-40824"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40822
+#, fuzzy
+msgctxt "103224356-0-40822"
+msgid "The Cove's residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "Cove의 주민들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고하고 있습니다.-G-"
+
+#: 103224356-0-40819
+#, fuzzy
+msgctxt "103224356-0-40819"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40818
+#, fuzzy
+msgctxt "103224356-0-40818"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40817
+#, fuzzy
+msgctxt "103224356-0-40817"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40816
+#, fuzzy
+msgctxt "103224356-0-40816"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40815
+#, fuzzy
+msgctxt "103224356-0-40815"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40814
+#, fuzzy
+msgctxt "103224356-0-40814"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40812
+#, fuzzy
+msgctxt "103224356-0-40812"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40811
+#, fuzzy
+msgctxt "103224356-0-40811"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40810
+#, fuzzy
+msgctxt "103224356-0-40810"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40809
+#, fuzzy
+msgctxt "103224356-0-40809"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40808
+#, fuzzy
+msgctxt "103224356-0-40808"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40806
+#, fuzzy
+msgctxt "103224356-0-40806"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40803
+#, fuzzy
+msgctxt "103224356-0-40803"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40801
+#, fuzzy
+msgctxt "103224356-0-40801"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40798
+#, fuzzy
+msgctxt "103224356-0-40798"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40794
+#, fuzzy
+msgctxt "103224356-0-40794"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40790
+#, fuzzy
+msgctxt "103224356-0-40790"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40787
+#, fuzzy
+msgctxt "103224356-0-40787"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 "
+"상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-40785
+#, fuzzy
+msgctxt "103224356-0-40785"
+msgid "The Cove's residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "Cove의 주민들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고하고 있습니다.-G-"
+
+#: 103224356-0-40782
+#, fuzzy
+msgctxt "103224356-0-40782"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40781
+#, fuzzy
+msgctxt "103224356-0-40781"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40780
+#, fuzzy
+msgctxt "103224356-0-40780"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40779
+#, fuzzy
+msgctxt "103224356-0-40779"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40778
+#, fuzzy
+msgctxt "103224356-0-40778"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40777
+#, fuzzy
+msgctxt "103224356-0-40777"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40775
+#, fuzzy
+msgctxt "103224356-0-40775"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40774
+#, fuzzy
+msgctxt "103224356-0-40774"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-40773
+#, fuzzy
+msgctxt "103224356-0-40773"
+msgid "The Speaker awaits my return at the Sanctuary."
+msgstr "연사는 성역에서 나의 귀환을 기다리고 있습니다.-G-"
+
+#: 103224356-0-40772
+#, fuzzy
+msgctxt "103224356-0-40772"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40771
+#, fuzzy
+msgctxt "103224356-0-40771"
+msgid "The Speaker is waiting for my report at the Sanctuary."
+msgstr "연사는 성역에서 내 보고서를 기다리고 있습니다.-G-"
+
+#: 103224356-0-40770
+msgctxt "103224356-0-40770"
+msgid "We killed Louna. Now I should meet Naryu at the Kvatch inn and make sure the case of the Sweetroll Killer is really closed."
+msgstr "로우나를 죽였다. 다음은 크바치 여관에서 나류를 만나 스위트롤 킬러의 건이 정말로 끝났는지에 대해 확인해야 한다."
+
+#: 103224356-0-40769
+#, fuzzy
+msgctxt "103224356-0-40769"
+msgid "We let Louna go. Now I should meet Razum-dar at the enchanter's shop in Kvatch and make sure the case of the Sweetroll Killer is really closed."
+msgstr ""
+"우리는 루나를 가게했다. 이제는 Kvatch의 마술사 가게에서 Razum-dar를 만나 Sweetroll Killer의 사례가 실제로 "
+"닫혀 있는지 확인해야합니다.-G-"
+
+#: 103224356-0-40766
+#, fuzzy
+msgctxt "103224356-0-40766"
+msgid "We saw how Primate Artorius convinced Lyra to become his Black Dragon. I should talk to Green-Venom-Tongue and see what he thinks about all this."
+msgstr ""
+"우리는 영장류 인 Artorius가 Lyra를 그의 Black Dragon이 될 수있는 방법으로 확신 시켰습니다. 나는 그린-독-텅 "
+"(Green-Venom-Tongue)과 이야기하고 그가 이것에 대해 어떻게 생각 하는지를 알아야한다.-G-"
+
+#: 103224356-0-40765
+#, fuzzy
+msgctxt "103224356-0-40765"
+msgid "Green-Venom-Tongue wants me to meet him in Kvatch, in front of the Cathedral of Akatosh. He hopes to use the last of his resin to see what occurred during Lyra's contract to kill Primate Jonas."
+msgstr ""
+"Green-Venom-Tongue는 Akatosh 대성당 앞의 Kvatch에서 그를 만나길 원합니다. 그는 자신의 수 지의 마지막 부분을 "
+"사용하여 라이라가 영장류 조나 스를 죽이기로 계약을 맺은 동안 무슨 일이 일어 났는지보고 싶어합니다.-G-"
+
+#: 103224356-0-40761
+#, fuzzy
+msgctxt "103224356-0-40761"
+msgid "Once more the fumes of the burning resin reveal events from the past. I should pay attention and find out what happened to Lyra in Kvatch."
+msgstr ""
+"불타는 수지의 연기는 과거의 사건을 드러냅니다. 나는주의를 기울여야하며 Kvatch에서 Lyra에게 무슨 일이 일어 났는지 알아 내야한다."
+"-G-"
+
+#: 103224356-0-40758
+#, fuzzy
+msgctxt "103224356-0-40758"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr ""
+"나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-40745
+#, fuzzy
+msgctxt "103224356-0-40745"
+msgid "We located a note concerning drop locations, but it's written in some kind of code. I should check around the city to see if I can find locations that match these references."
+msgstr ""
+"우리는 놓기 위치에 관한 메모를 찾았지만 어떤 종류의 코드로 작성되었습니다. 도시 주변을 조사하여이 참조와 일치하는 위치를 찾을 수 "
+"있는지 확인해야합니다.-G-"
+
+#: 103224356-0-40744
+#, fuzzy
+msgctxt "103224356-0-40744"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40743
+#, fuzzy
+msgctxt "103224356-0-40743"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40742
+#, fuzzy
+msgctxt "103224356-0-40742"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40741
+#, fuzzy
+msgctxt "103224356-0-40741"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40740
+#, fuzzy
+msgctxt "103224356-0-40740"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40739
+#, fuzzy
+msgctxt "103224356-0-40739"
+msgid "I  identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40738
+#, fuzzy
+msgctxt "103224356-0-40738"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40737
+#, fuzzy
+msgctxt "103224356-0-40737"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40736
+#, fuzzy
+msgctxt "103224356-0-40736"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40735
+#, fuzzy
+msgctxt "103224356-0-40735"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40734
+#, fuzzy
+msgctxt "103224356-0-40734"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40733
+#, fuzzy
+msgctxt "103224356-0-40733"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40732
+#, fuzzy
+msgctxt "103224356-0-40732"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40731
+#, fuzzy
+msgctxt "103224356-0-40731"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40730
+#, fuzzy
+msgctxt "103224356-0-40730"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40729
+#, fuzzy
+msgctxt "103224356-0-40729"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40728
+#, fuzzy
+msgctxt "103224356-0-40728"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40727
+#, fuzzy
+msgctxt "103224356-0-40727"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40726
+#, fuzzy
+msgctxt "103224356-0-40726"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40725
+#, fuzzy
+msgctxt "103224356-0-40725"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40724
+#, fuzzy
+msgctxt "103224356-0-40724"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40723
+#, fuzzy
+msgctxt "103224356-0-40723"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40722
+#, fuzzy
+msgctxt "103224356-0-40722"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40718
+#, fuzzy
+msgctxt "103224356-0-40718"
+msgid "My victims must be within Shor's Stone when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Shor 's Stone 안에 있어야합니다.-G-"
+
+#: 103224356-0-40717
+#, fuzzy
+msgctxt "103224356-0-40717"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40711
+#, fuzzy
+msgctxt "103224356-0-40711"
+msgid "My victims must be within Riften when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Riften 내에 있어야합니다.-G-"
+
+#: 103224356-0-40708
+#, fuzzy
+msgctxt "103224356-0-40708"
+msgid "My victims must be within Nimalten when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Nimalten 내에 있어야합니다.-G-"
+
+#: 103224356-0-40704
+#, fuzzy
+msgctxt "103224356-0-40704"
+msgid "My victims must be within Wayrest when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Wayrest 내에 있어야합니다.-G-"
+
+#: 103224356-0-40703
+#, fuzzy
+msgctxt "103224356-0-40703"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40697
+#, fuzzy
+msgctxt "103224356-0-40697"
+msgid "My victims must be within Koeglin Village when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Koeglin Village에 있어야합니다.-G-"
+
+#: 103224356-0-40694
+#, fuzzy
+msgctxt "103224356-0-40694"
+msgid "My victims must be within Alcaire Castle when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Alcaire Castle에 있어야합니다.-G-"
+
+#: 103224356-0-40693
+#, fuzzy
+msgctxt "103224356-0-40693"
+msgid "My target is dead. I should report my success to <<1>> in the Sanctuary."
+msgstr "내 표적이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40692
+#, fuzzy
+msgctxt "103224356-0-40692"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40690
+#, fuzzy
+msgctxt "103224356-0-40690"
+msgid "I must locate my target within the city of Kvatch."
+msgstr "Kvatch시에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40686
+#, fuzzy
+msgctxt "103224356-0-40686"
+msgid "My victims must be within Kragenmoor when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Kragenmoor에 있어야합니다.-G-"
+
+#: 103224356-0-40685
+#, fuzzy
+msgctxt "103224356-0-40685"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40679
+#, fuzzy
+msgctxt "103224356-0-40679"
+msgid "My victims must be within Ebonheart when I kill them to fulfill this contract."
+msgstr "내 희생자들은이 계약을 이행하기 위해 그들을 죽일 때 에본 하트에 있어야합니다.-G-"
+
+#: 103224356-0-40676
+#, fuzzy
+msgctxt "103224356-0-40676"
+msgid "My victims must be within Davon's Watch when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Davon 's Watch에 있어야합니다.-G-"
+
+#: 103224356-0-40672
+#, fuzzy
+msgctxt "103224356-0-40672"
+msgid "My victims must be within Stormhold when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Stormhold에 있어야합니다.-G-"
+
+#: 103224356-0-40671
+#, fuzzy
+msgctxt "103224356-0-40671"
+msgid "My contract is complete. I must report my success to the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40665
+#, fuzzy
+msgctxt "103224356-0-40665"
+msgid "My victims must be within Mud Tree Village when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 진흙 나무 마을에 있어야합니다.-G-"
+
+#: 103224356-0-40662
+#, fuzzy
+msgctxt "103224356-0-40662"
+msgid "My victims must be within Hissmir when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 내가 그들을 죽일 때 히지 미르 지역에 있어야합니다.-G-"
+
+#: 103224356-0-40658
+#, fuzzy
+msgctxt "103224356-0-40658"
+msgid "My victims must be within Shornhelm when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Shornhelm 안에 있어야합니다.-G-"
+
+#: 103224356-0-40657
+#, fuzzy
+msgctxt "103224356-0-40657"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40651
+#, fuzzy
+msgctxt "103224356-0-40651"
+msgid "My victims must be within Oldgate when I kill them to fulfill this contract."
+msgstr "내 희생자는 내가이 계약을 이행하기 위해 그들을 죽일 때 올드 게이트에 있어야합니다.-G-"
+
+#: 103224356-0-40648
+#, fuzzy
+msgctxt "103224356-0-40648"
+msgid "My victims must be within Hoarfrost Downs when I kill them to fulfill this contract."
+msgstr "내 희생자는이 계약을 이행하기 위해 그들을 죽일 때 더 늦은 길 아래에 있어야합니다.-G-"
+
+#: 103224356-0-40642
+#, fuzzy
+msgctxt "103224356-0-40642"
+msgid "My victims must be within Thizzrini Arena when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Thizzrini Arena 안에 있어야합니다.-G-"
+
+#: 103224356-0-40641
+#, fuzzy
+msgctxt "103224356-0-40641"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40635
+#, fuzzy
+msgctxt "103224356-0-40635"
+msgid "My victims must be within Rawl'kha when I kill them to fulfill this contract."
+msgstr "내 희생자들은이 계약을 이행하기 위해 그들을 죽일 때 Rawl'kha 안에 있어야합니다.-G-"
+
+#: 103224356-0-40632
+#, fuzzy
+msgctxt "103224356-0-40632"
+msgid "My victims must be within Greenhill when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 내가 그들을 죽일 때 Greenhill 안에 있어야합니다.-G-"
+
+#: 103224356-0-40628
+#, fuzzy
+msgctxt "103224356-0-40628"
+msgid "My victims must be within Vulkwasten when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Vulkwasten에 있어야합니다.-G-"
+
+#: 103224356-0-40627
+#, fuzzy
+msgctxt "103224356-0-40627"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40621
+#, fuzzy
+msgctxt "103224356-0-40621"
+msgid "My victims must be within Tanglehaven when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Tanglehaven 안에 있어야합니다.-G-"
+
+#: 103224356-0-40618
+#, fuzzy
+msgctxt "103224356-0-40618"
+msgid "My victims must be within the Baandari Trading Post when I kill them to fulfill this contract."
+msgstr "이 계약을 이행하기 위해 희생자가 그들을 죽일 때 나의 희생자들은 반 땅리 거래소에 있어야합니다.-G-"
+
+#: 103224356-0-40614
+#, fuzzy
+msgctxt "103224356-0-40614"
+msgid "My victims must be within Woodhearth when I kill them to fulfill this contract."
+msgstr "내 계약자가이 계약을 이행하기 위해 그들을 죽일 때 나의 희생자는 우드 하트에 있어야합니다.-G-"
+
+#: 103224356-0-40613
+#, fuzzy
+msgctxt "103224356-0-40613"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40607
+#, fuzzy
+msgctxt "103224356-0-40607"
+msgid "My victims must be within Marbruk when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Marbruk 안에 있어야합니다.-G-"
+
+#: 103224356-0-40604
+#, fuzzy
+msgctxt "103224356-0-40604"
+msgid "My victims must be within Bramblebreach when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Bramblebreach 안에 있어야합니다.-G-"
+
+#: 103224356-0-40601
+#, fuzzy
+msgctxt "103224356-0-40601"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40595
+#, fuzzy
+msgctxt "103224356-0-40595"
+msgid "My victims must be within Redfur Trading Post when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Redfur Trading Post에 있어야합니다.-G-"
+
+#: 103224356-0-40592
+#, fuzzy
+msgctxt "103224356-0-40592"
+msgid "My victims must be within Elden Root when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 엘든 루트에 있어야합니다.-G-"
+
+#: 103224356-0-40588
+#, fuzzy
+msgctxt "103224356-0-40588"
+msgid "My victims must be within Lion Guard Redoubt when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 라이온 가드 리다 우트에 있어야합니다.-G-"
+
+#: 103224356-0-40587
+#, fuzzy
+msgctxt "103224356-0-40587"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40581
+#, fuzzy
+msgctxt "103224356-0-40581"
+msgid "My victims must be within Daggerfall when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Daggerfall 내에 있어야합니다.-G-"
+
+#: 103224356-0-40578
+#, fuzzy
+msgctxt "103224356-0-40578"
+msgid "My victims must be within Aldcroft when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Aldcroft 안에 있어야합니다.-G-"
+
+#: 103224356-0-40574
+#, fuzzy
+msgctxt "103224356-0-40574"
+msgid "My victims must be within Windhelm when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 윈델 헬름 안에 있어야합니다.-G-"
+
+#: 103224356-0-40573
+#, fuzzy
+msgctxt "103224356-0-40573"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40567
+#, fuzzy
+msgctxt "103224356-0-40567"
+msgid "My victims must be within Jorunn's Stand when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 내가 그들을 죽일 때 조런 스탠드에 있어야합니다.-G-"
+
+#: 103224356-0-40564
+msgctxt "103224356-0-40564"
+msgid "My victims must be within Fort Amol when I kill them to fulfill this contract."
+msgstr "죽일때 피해자들이 아몰 요새에 없으면 임무가 완성되지 않는다."
+
+#: 103224356-0-40560
+#, fuzzy
+msgctxt "103224356-0-40560"
+msgid "My victims must be within Tal'Deic when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Tal'Deic 안에 있어야합니다.-G-"
+
+#: 103224356-0-40559
+#, fuzzy
+msgctxt "103224356-0-40559"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40553
+#, fuzzy
+msgctxt "103224356-0-40553"
+msgid "My victims must be within Mournhold when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 내가 그들을 죽일 때 Mournhold 안에 있어야합니다.-G-"
+
+#: 103224356-0-40550
+#, fuzzy
+msgctxt "103224356-0-40550"
+msgid "My victims must be within Narsis when I kill them to fulfill this contract."
+msgstr "내 희생자는이 계약을 이행하기 위해 그들을 죽일 때 나 시우스에 있어야합니다.-G-"
+
+#: 103224356-0-40549
+#, fuzzy
+msgctxt "103224356-0-40549"
+msgid "I have identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 나의 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40548
+#, fuzzy
+msgctxt "103224356-0-40548"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40547
+#, fuzzy
+msgctxt "103224356-0-40547"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40546
+#, fuzzy
+msgctxt "103224356-0-40546"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40545
+#, fuzzy
+msgctxt "103224356-0-40545"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40543
+#, fuzzy
+msgctxt "103224356-0-40543"
+msgid "I must locate my target at the Riften Fighters Guild."
+msgstr "Riften Fighters Guild에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-40542
+#, fuzzy
+msgctxt "103224356-0-40542"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40533
+#, fuzzy
+msgctxt "103224356-0-40533"
+msgid "My victims must be within Evermore when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 에버 모어에 있어야합니다.-G-"
+
+#: 103224356-0-40532
+#, fuzzy
+msgctxt "103224356-0-40532"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40531
+#, fuzzy
+msgctxt "103224356-0-40531"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40530
+#, fuzzy
+msgctxt "103224356-0-40530"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40529
+#, fuzzy
+msgctxt "103224356-0-40529"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40527
+#, fuzzy
+msgctxt "103224356-0-40527"
+msgid "I must locate my target in Shor's Stone."
+msgstr "쇼어 스톤 (Shor 's Stone)에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40526
+#, fuzzy
+msgctxt "103224356-0-40526"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40520
+#, fuzzy
+msgctxt "103224356-0-40520"
+msgid "My victims must be within Vulkhel Guard when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Vulkhel Guard 안에 있어야합니다.-G-"
+
+#: 103224356-0-40517
+#, fuzzy
+msgctxt "103224356-0-40517"
+msgid "My victims must be within Skywatch when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Skywatch 내에 있어야합니다.-G-"
+
+#: 103224356-0-40516
+#, fuzzy
+msgctxt "103224356-0-40516"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40510
+#, fuzzy
+msgctxt "103224356-0-40510"
+msgid "My victims must be within Sentinel when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 센티넬에 있어야합니다.-G-"
+
+#: 103224356-0-40507
+#, fuzzy
+msgctxt "103224356-0-40507"
+msgid "My victims must be within Bergama when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Bergama에 있어야합니다.-G-"
+
+#: 103224356-0-40500
+#, fuzzy
+msgctxt "103224356-0-40500"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40499
+#, fuzzy
+msgctxt "103224356-0-40499"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40498
+#, fuzzy
+msgctxt "103224356-0-40498"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40497
+#, fuzzy
+msgctxt "103224356-0-40497"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40495
+#, fuzzy
+msgctxt "103224356-0-40495"
+msgid "I must locate my target at the Riften Docks."
+msgstr "목표물을 Riften Docks에 위치시켜야합니다.-G-"
+
+#: 103224356-0-40494
+#, fuzzy
+msgctxt "103224356-0-40494"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40493
+#, fuzzy
+msgctxt "103224356-0-40493"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40492
+#, fuzzy
+msgctxt "103224356-0-40492"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40491
+#, fuzzy
+msgctxt "103224356-0-40491"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40489
+#, fuzzy
+msgctxt "103224356-0-40489"
+msgid "I must locate my target in Nimalten."
+msgstr "Nimalten에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40488
+#, fuzzy
+msgctxt "103224356-0-40488"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40487
+#, fuzzy
+msgctxt "103224356-0-40487"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40486
+#, fuzzy
+msgctxt "103224356-0-40486"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40485
+#, fuzzy
+msgctxt "103224356-0-40485"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40483
+#, fuzzy
+msgctxt "103224356-0-40483"
+msgid "I must locate my target in the Kragenmoor's Grandmaster Palace."
+msgstr "Kragenmoor의 Grandmaster Palace에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-40482
+#, fuzzy
+msgctxt "103224356-0-40482"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40481
+#, fuzzy
+msgctxt "103224356-0-40481"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40480
+#, fuzzy
+msgctxt "103224356-0-40480"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40479
+#, fuzzy
+msgctxt "103224356-0-40479"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40477
+#, fuzzy
+msgctxt "103224356-0-40477"
+msgid "I must locate my target in Fort Arand Headquarters."
+msgstr "Fort Arand Headquarters에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40475
+#, fuzzy
+msgctxt "103224356-0-40475"
+msgid "My contract is complete. I must report my success to <<1>> at the Sanctuary."
+msgstr "내 계약이 완료되었습니다. 내 성역을 성소에서 <<1>>로보고해야합니다.-G-"
+
+#: 103224356-0-40474
+#, fuzzy
+msgctxt "103224356-0-40474"
+msgid "My victims must be within Kvatch when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 Kvatch 내에 있어야합니다.-G-"
+
+#: 103224356-0-40473
+#, fuzzy
+msgctxt "103224356-0-40473"
+msgid "My victims must be within Anvil when I kill them to fulfill this contract."
+msgstr "피해자는이 계약을 이행하기 위해 그들을 죽일 때 앤빌에 있어야합니다.-G-"
+
+#: 103224356-0-40471
+#, fuzzy
+msgctxt "103224356-0-40471"
+msgid "I need to go to the Sanctuary and answer Speaker Terenus's call."
+msgstr "나는 성역으로 가서 테레 누스 (Terenus)의 부름에 응답해야합니다.-G-"
+
+#: 103224356-0-40470
+#, fuzzy
+msgctxt "103224356-0-40470"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40469
+#, fuzzy
+msgctxt "103224356-0-40469"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40468
+#, fuzzy
+msgctxt "103224356-0-40468"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40467
+#, fuzzy
+msgctxt "103224356-0-40467"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40465
+#, fuzzy
+msgctxt "103224356-0-40465"
+msgid "I must locate my target in the Ebonheart Tribunal Temple."
+msgstr "내 목표물을 에본 하트 재판소에서 찾아야합니다.-G-"
+
+#: 103224356-0-40457
+#, fuzzy
+msgctxt "103224356-0-40457"
+msgid "I have identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 나의 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40456
+#, fuzzy
+msgctxt "103224356-0-40456"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40455
+#, fuzzy
+msgctxt "103224356-0-40455"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40454
+#, fuzzy
+msgctxt "103224356-0-40454"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40453
+#, fuzzy
+msgctxt "103224356-0-40453"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40451
+#, fuzzy
+msgctxt "103224356-0-40451"
+msgid "I must locate my target at the Davon's Watch docks."
+msgstr "Davon 's Watch 부두에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40449
+#, fuzzy
+msgctxt "103224356-0-40449"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40448
+#, fuzzy
+msgctxt "103224356-0-40448"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40447
+#, fuzzy
+msgctxt "103224356-0-40447"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40446
+#, fuzzy
+msgctxt "103224356-0-40446"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40444
+#, fuzzy
+msgctxt "103224356-0-40444"
+msgid "I must locate my target at the Stormhold Riverside Market."
+msgstr "스톰 홀드 리버 사이드 마켓에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40443
+#, fuzzy
+msgctxt "103224356-0-40443"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40442
+#, fuzzy
+msgctxt "103224356-0-40442"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40441
+#, fuzzy
+msgctxt "103224356-0-40441"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40440
+#, fuzzy
+msgctxt "103224356-0-40440"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40438
+#, fuzzy
+msgctxt "103224356-0-40438"
+msgid "I must locate my target at the Stormhold Guildhall."
+msgstr "나는 Stormhold Guildhall에서 나의 표적을 찾아야 만한다.-G-"
+
+#: 103224356-0-40437
+#, fuzzy
+msgctxt "103224356-0-40437"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40436
+#, fuzzy
+msgctxt "103224356-0-40436"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40435
+#, fuzzy
+msgctxt "103224356-0-40435"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40434
+#, fuzzy
+msgctxt "103224356-0-40434"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40432
+#, fuzzy
+msgctxt "103224356-0-40432"
+msgid "I must locate my target in Mud Tree Village."
+msgstr "진흙 나무 마을에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40431
+#, fuzzy
+msgctxt "103224356-0-40431"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40430
+#, fuzzy
+msgctxt "103224356-0-40430"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40429
+#, fuzzy
+msgctxt "103224356-0-40429"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40428
+#, fuzzy
+msgctxt "103224356-0-40428"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40426
+#, fuzzy
+msgctxt "103224356-0-40426"
+msgid "I must locate my target in Hissmir."
+msgstr "히스 미르에서 내 표적을 찾아야 해.-G-"
+
+#: 103224356-0-40425
+#, fuzzy
+msgctxt "103224356-0-40425"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40424
+#, fuzzy
+msgctxt "103224356-0-40424"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40423
+#, fuzzy
+msgctxt "103224356-0-40423"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40422
+#, fuzzy
+msgctxt "103224356-0-40422"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40420
+#, fuzzy
+msgctxt "103224356-0-40420"
+msgid "I must locate my target at Thizzrini Arena."
+msgstr "Thizzrini Arena에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40417
+msgctxt "103224356-0-40417"
+msgid "I should talk to Naryu Virian and make sure the case of the Sweetroll Killer is actually closed."
+msgstr "나류 비리안과 이야기 하고 스위트롤 킬러의 건이 정말로 끝났는지에 대해 확인해야 한다."
+
+#: 103224356-0-40415
+#, fuzzy
+msgctxt "103224356-0-40415"
+msgid "I can either kill Louna or let her live. There are advantages and disadvantages to both options, but the decision is up to me."
+msgstr "루나를 죽이거나 살릴 수 있습니다. 두 가지 옵션에는 장단점이 있지만 결정은 내게 달려 있습니다.-G-"
+
+#: 103224356-0-40414
+msgctxt "103224356-0-40414"
+msgid "I should confer with Naryu and Razum-dar about what to do with the Sweetroll Killer."
+msgstr "스위트롤 킬러를 어떻게 할지 나류와 라줌달과 이야기 해야 한다."
+
+#: 103224356-0-40413
+#, fuzzy
+msgctxt "103224356-0-40413"
+msgid "We fended off an attack outside the farmhouse. Now we need to enter the farmhouse and confront the Sweetroll Killer, Louna."
+msgstr ""
+"우리는 농가 바깥에서의 공격을 막아 냈습니다. 이제 농가에 들어가 Sweetroll Killer, Louna와 대결해야합니다.-G-"
+
+#: 103224356-0-40412
+msgctxt "103224356-0-40412"
+msgid "The Sweetroll Killer has a farmhouse southeast of Anvil. I should head out and meet Naryu and Raz there."
+msgstr "스위트롤 킬러가 앤빌의 남동쪽에 있는 농장을 가지고 있다. 그곳으로 가서 나류와 만나야 한다."
+
+#: 103224356-0-40411
+msgctxt "103224356-0-40411"
+msgid "Reman was somehow involved with the Sweetroll Killer. He was using me to eliminate the killer and hide his involvement. But the killer found out and killed him instead. I should meet Naryu and Raz at Engar's Hostel and tell them what I learned."
+msgstr ""
+"레만은 어떻게든 스위트롤 킬러와 관련되어 있었다. 날 이용해서 살인범을 제거하고 연루 사실을 숨겼다. 하지만 살인자는 그를 알아내고 대신 "
+"죽였다. 나는 엥가의 숙박지에서 나류와 레즈를 만나 내가 알아낸 것을 그들에게 말해야 한다."
+
+#: 103224356-0-40410
+msgctxt "103224356-0-40410"
+msgid "While Naryu and Razum-dar gather the killer's targets and get them to Engar's Hostel for safekeeping, they asked me to talk to Reman Mevavius at the Gold Coast Trading Company and find out what else he knows about the killer."
+msgstr ""
+"나류와 라줌다르가 범인의 표적을 모아 안전하게 보관하기 위해 엔가 숙박지로 가지고 가는 동안, 그들은 내게 황금해안 무역회사의 레만 "
+"메바비우스와 대화하여 범인에 대해 알고 있는 다른 것이 있는지 알아봐 달라고 부탁했다."
+
+#: 103224356-0-40409
+#, fuzzy
+msgctxt "103224356-0-40409"
+msgid "Now that we're all in Anvil, I need to talk to my allies and come up with a plan to catch the Sweetroll Killer."
+msgstr ""
+"이제 우리 모두가 앤빌에 있었으므로, 나는 동맹국들과 이야기하고 Sweetroll Killer를 잡을 계획을 세워야합니다.-G-"
+
+#: 103224356-0-40408
+msgctxt "103224356-0-40408"
+msgid "Naryu and Raz have agreed to work together to track the Sweetroll Killer down. I should meet them in Anvil, where most of the current targets have gone to hide. We'll plan our next move there."
+msgstr ""
+"나류와 라즈는 함께 스위트롤 킬러를 추적하기로 동의했다. 나는 현재 목표의 대부분이 숨어 버린 앤빌에서 그들을 만나야 한다. 거기서 다음 "
+"행동을 계획할 것이다."
+
+#: 103224356-0-40407
+#, fuzzy
+msgctxt "103224356-0-40407"
+msgid "The notes contain background information on the targets, but not who commissioned the research. Each note provides a code phrase at the bottom. If I can figure out how to break the code, I might be able to find the recipient of these messages."
+msgstr ""
+"노트에는 대상에 대한 배경 정보가 포함되어 있지만 연구를 위임 한 사람은 아닙니다. 각 음표는 하단에 코드 구를 제공합니다. 코드를 깨는 "
+"방법을 알아낼 수 있다면이 메시지의 수신자를 찾을 수 있습니다.-G-"
+
+#: 103224356-0-40406
+#, fuzzy
+msgctxt "103224356-0-40406"
+msgid "Razum-dar thinks the messengers delivering notes throughout Kvatch might be connected to the Sweetroll Killer. He wants me to meet him outside so we can track the messengers and see what their notes have to say."
+msgstr ""
+"Razum-dar는 Kvatch에서 노트를 전달하는 메신저가 Sweetroll Killer와 연결될 수 있다고 생각합니다. 그는 우리가 "
+"메신저를 추적하고 그들의 메모가 무엇을 말해야 하는지를 알 수 있도록 내가 그를 밖에서 만나기를 원한다.-G-"
+
+#: 103224356-0-40405
+#, fuzzy
+msgctxt "103224356-0-40405"
+msgid "Razum-dar seems to be hunting the Sweetroll Killer, too. He suggested we meet at his hide-out above the enchanter's shop and discuss a plan of action."
+msgstr ""
+"Razum-dar도 Sweetroll Killer를 사냥하고있는 것 같습니다. 그는 마술사의 상점 위의 은신처에서 만났고 행동 계획을 "
+"논의 할 것을 제안했습니다.-G-"
+
+#: 103224356-0-40397
+#, fuzzy
+msgctxt "103224356-0-40397"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40396
+#, fuzzy
+msgctxt "103224356-0-40396"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40395
+#, fuzzy
+msgctxt "103224356-0-40395"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40394
+#, fuzzy
+msgctxt "103224356-0-40394"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40392
+#, fuzzy
+msgctxt "103224356-0-40392"
+msgid "I must locate my target in S'ren-ja."
+msgstr "내 목표물을 S'ren-ja에 위치시켜야합니다.-G-"
+
+#: 103224356-0-40391
+#, fuzzy
+msgctxt "103224356-0-40391"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40390
+#, fuzzy
+msgctxt "103224356-0-40390"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40389
+#, fuzzy
+msgctxt "103224356-0-40389"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40388
+#, fuzzy
+msgctxt "103224356-0-40388"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40386
+#, fuzzy
+msgctxt "103224356-0-40386"
+msgid "I must locate my target at the Rawl'kha Stables."
+msgstr "Rawl'kha Stables에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-40385
+#, fuzzy
+msgctxt "103224356-0-40385"
+msgid "Reman provided a list of people who have received the threatening sweetrolls. I should talk to them and try to determine what connects them so I can identify the murderer who targeted them."
+msgstr ""
+"Reman은 위협적인 sweetroll을받은 사람들의 목록을 제공했습니다. 나는 그들과 이야기하고 그들을 연결하는 것을 결정하려고 "
+"노력해야한다. 그래서 그들을 목표로 한 살인자를 밝힐 수있다.-G-"
+
+#: 103224356-0-40384
+msgctxt "103224356-0-40384"
+msgid "To learn more about this ""urgent matter,"" I need to travel to the inn in Kvatch and seek out an Imperial named Reman Mavavius."
+msgstr ""
+
+#: 103224356-0-40383
+#, fuzzy
+msgctxt "103224356-0-40383"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40382
+#, fuzzy
+msgctxt "103224356-0-40382"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40381
+#, fuzzy
+msgctxt "103224356-0-40381"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40380
+#, fuzzy
+msgctxt "103224356-0-40380"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40379
+#, fuzzy
+msgctxt "103224356-0-40379"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40377
+#, fuzzy
+msgctxt "103224356-0-40377"
+msgid "I must locate my target at the Woodhearth Thalmor Office."
+msgstr "나는 Woodhearth Thalmor Office에서 표적을 찾아야 만한다.-G-"
+
+#: 103224356-0-40375
+#, fuzzy
+msgctxt "103224356-0-40375"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40374
+#, fuzzy
+msgctxt "103224356-0-40374"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40373
+#, fuzzy
+msgctxt "103224356-0-40373"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40372
+#, fuzzy
+msgctxt "103224356-0-40372"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40371
+#, fuzzy
+msgctxt "103224356-0-40371"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40369
+#, fuzzy
+msgctxt "103224356-0-40369"
+msgid "I must locate my target at the Woodhearth Docks."
+msgstr "나는 Woodhearth Dock에서 표적을 찾아야 만한다.-G-"
+
+#: 103224356-0-40368
+#, fuzzy
+msgctxt "103224356-0-40368"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40367
+#, fuzzy
+msgctxt "103224356-0-40367"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40366
+#, fuzzy
+msgctxt "103224356-0-40366"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40365
+#, fuzzy
+msgctxt "103224356-0-40365"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40363
+#, fuzzy
+msgctxt "103224356-0-40363"
+msgid "I must locate my target at the Rawl'kha Bazaar."
+msgstr "Rawl'kha Bazaar에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40361
+#, fuzzy
+msgctxt "103224356-0-40361"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40360
+#, fuzzy
+msgctxt "103224356-0-40360"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40359
+#, fuzzy
+msgctxt "103224356-0-40359"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40358
+#, fuzzy
+msgctxt "103224356-0-40358"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40356
+#, fuzzy
+msgctxt "103224356-0-40356"
+msgid "I must locate my target at the Marbruk Fighters Guild."
+msgstr "Marbruk Fighters Guild에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-40353
+#, fuzzy
+msgctxt "103224356-0-40353"
+msgid "Grazda informed me that Astara has requested my presence in the Dark Brotherhood Sanctuary. I should go and talk to her."
+msgstr ""
+"Grazda는 Astara가 Dark Brotherhood Sanctuary에서 내 존재를 요청했다고 알려줍니다. 나는 가서 얘기해야한다."
+"-G-"
+
+#: 103224356-0-40352
+#, fuzzy
+msgctxt "103224356-0-40352"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40351
+#, fuzzy
+msgctxt "103224356-0-40351"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40350
+#, fuzzy
+msgctxt "103224356-0-40350"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40349
+#, fuzzy
+msgctxt "103224356-0-40349"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40347
+#, fuzzy
+msgctxt "103224356-0-40347"
+msgid "I must locate my target in Bramblebreach."
+msgstr "Bramblebreach에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40346
+#, fuzzy
+msgctxt "103224356-0-40346"
+msgid "I need to return to the Sanctuary and tell Astara what happened with the Black Dragon and Green-Venom-Tongue. She also needs to know that Artorius now knows the location of our Sanctuary."
+msgstr ""
+"나는 Sanctuary로 돌아가서 Astara에게 Black Dragon과 Green-Venom-Tongue와 어떤 일이 일어 났는지 "
+"알려줄 필요가있다. 그녀는 또한 Artorius가 지금 우리의 성소의 위치를 ​​알고 있다는 것을 알아야합니다.-G-"
+
+#: 103224356-0-40345
+#, fuzzy
+msgctxt "103224356-0-40345"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40344
+#, fuzzy
+msgctxt "103224356-0-40344"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40343
+#, fuzzy
+msgctxt "103224356-0-40343"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40342
+#, fuzzy
+msgctxt "103224356-0-40342"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40340
+#, fuzzy
+msgctxt "103224356-0-40340"
+msgid "I must locate my target at Upper Elden Root."
+msgstr "타겟을 어퍼 엘든 루트에 위치시켜야합니다.-G-"
+
+#: 103224356-0-40339
+#, fuzzy
+msgctxt "103224356-0-40339"
+msgid "Grazda informed me that Astara has a task for me. I should go to the Sanctuary and talk to her."
+msgstr "Grazda는 Astara가 나를 위해 일을한다고 나에게 알렸다. 나는 성역에 가서 그녀와 이야기해야합니다.-G-"
+
+#: 103224356-0-40338
+#, fuzzy
+msgctxt "103224356-0-40338"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40337
+#, fuzzy
+msgctxt "103224356-0-40337"
+msgid "My contract target is dead. I must report my success to <<1>> in the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성역을 성소의 <<1>>에보고해야합니다.-G-"
+
+#: 103224356-0-40336
+#, fuzzy
+msgctxt "103224356-0-40336"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40335
+#, fuzzy
+msgctxt "103224356-0-40335"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40333
+#, fuzzy
+msgctxt "103224356-0-40333"
+msgid "I must locate my target at the Elden Root Embassy."
+msgstr "Elden Root 대사관에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40327
+#, fuzzy
+msgctxt "103224356-0-40327"
+msgid "<<1>> agreed to lead me to the Black Dragon's chambers. Now that she's shown me the way, I should see what lies within."
+msgstr "<<1>>은 나를 블랙 드래곤의 방으로 안내하기로 동의했다. 그녀가 내 길을 보여 주니, 내 안에있는 것을보아야합니다.-G-"
+
+#: 103224356-0-40326
+#, fuzzy
+msgctxt "103224356-0-40326"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40325
+#, fuzzy
+msgctxt "103224356-0-40325"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40324
+#, fuzzy
+msgctxt "103224356-0-40324"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40323
+#, fuzzy
+msgctxt "103224356-0-40323"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40321
+#, fuzzy
+msgctxt "103224356-0-40321"
+msgid "I must locate my target at the Windhelm Fighters Guild."
+msgstr "윈드밀 전투기 길드에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-40313
+#, fuzzy
+msgctxt "103224356-0-40313"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40312
+#, fuzzy
+msgctxt "103224356-0-40312"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40311
+#, fuzzy
+msgctxt "103224356-0-40311"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40310
+#, fuzzy
+msgctxt "103224356-0-40310"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40308
+#, fuzzy
+msgctxt "103224356-0-40308"
+msgid "I must locate my target at the Windhelm Docks."
+msgstr "윈드 렘 부두에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40307
+#, fuzzy
+msgctxt "103224356-0-40307"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40306
+#, fuzzy
+msgctxt "103224356-0-40306"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40305
+#, fuzzy
+msgctxt "103224356-0-40305"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40304
+#, fuzzy
+msgctxt "103224356-0-40304"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40302
+#, fuzzy
+msgctxt "103224356-0-40302"
+msgid "I must locate my target at Jorunn's Stand."
+msgstr "Jorunn 's Stand에서 목표를 찾아야합니다.-G-"
+
+#: 103224356-0-40301
+#, fuzzy
+msgctxt "103224356-0-40301"
+msgid "It sounds like Quintus was planning some sort of meeting below his estate. I should search the wine cellar."
+msgstr "퀸 투스가 그의 재산 밑에서 어떤 종류의 회의를 계획하고 있었던 것 같습니다. 와인 저장고를 검색해야합니다.-G-"
+
+#: 103224356-0-40300
+#, fuzzy
+msgctxt "103224356-0-40300"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40299
+#, fuzzy
+msgctxt "103224356-0-40299"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40298
+#, fuzzy
+msgctxt "103224356-0-40298"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40297
+#, fuzzy
+msgctxt "103224356-0-40297"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40295
+#, fuzzy
+msgctxt "103224356-0-40295"
+msgid "I must locate my target at Tanglehaven."
+msgstr "나는 타겟을 Tanglehaven에 위치시켜야한다.-G-"
+
+#: 103224356-0-40294
+msgctxt "103224356-0-40294"
+msgid "I'm inside the home of the Imperial noble, Quintus Jarol. Now I need to find him or uncover clues as to his current location."
+msgstr "임페리얼 귀족인 퀸투스 재롤의 집에 잠입했다. 이제 그가 어디 있는지 찾아내거나 그의 위치를 드러내줄 단서를 찾아야 한다."
+
+#: 103224356-0-40292
+#, fuzzy
+msgctxt "103224356-0-40292"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40291
+#, fuzzy
+msgctxt "103224356-0-40291"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40290
+#, fuzzy
+msgctxt "103224356-0-40290"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40289
+#, fuzzy
+msgctxt "103224356-0-40289"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40287
+#, fuzzy
+msgctxt "103224356-0-40287"
+msgid "I must locate my target at Vulkwasten."
+msgstr "Vulkwasten에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40286
+#, fuzzy
+msgctxt "103224356-0-40286"
+msgid "I should talk to Razum-dar and make sure the case of the Sweetroll Killer is actually closed."
+msgstr "Razum-dar와 이야기하고 Sweetroll Killer의 사례가 실제로 닫혀 있는지 확인해야합니다.-G-"
+
+#: 103224356-0-40284
+msgctxt "103224356-0-40284"
+msgid "Astara suggested I look around the Sanctuary and introduce myself to the rest of the guild. When I'm ready, I should talk to Elam Drals and get my first contract."
+msgstr ""
+"아스타라는 성소를 둘러보고 길드원들에게 나를 소개하는 게 어떻겠냐고 제안하였다. 준비가 되면 엘람 드랄스(Elam Drals)와 "
+"이야기해서 첫 번째 계약을 받자."
+
+#: 103224356-0-40282
+#, fuzzy
+msgctxt "103224356-0-40282"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40281
+#, fuzzy
+msgctxt "103224356-0-40281"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40280
+#, fuzzy
+msgctxt "103224356-0-40280"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40279
+#, fuzzy
+msgctxt "103224356-0-40279"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40277
+#, fuzzy
+msgctxt "103224356-0-40277"
+msgid "I must locate my target at Valeguard."
+msgstr "내 목표물을 밸리 가드에 위치시켜야합니다.-G-"
+
+#: 103224356-0-40276
+#, fuzzy
+msgctxt "103224356-0-40276"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40275
+#, fuzzy
+msgctxt "103224356-0-40275"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40274
+#, fuzzy
+msgctxt "103224356-0-40274"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40273
+#, fuzzy
+msgctxt "103224356-0-40273"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40271
+#, fuzzy
+msgctxt "103224356-0-40271"
+msgid "I must locate my target at the Baandari Trading Post."
+msgstr "Baandari Trading Post에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40270
+#, fuzzy
+msgctxt "103224356-0-40270"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40269
+#, fuzzy
+msgctxt "103224356-0-40269"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40268
+#, fuzzy
+msgctxt "103224356-0-40268"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40267
+#, fuzzy
+msgctxt "103224356-0-40267"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40265
+#, fuzzy
+msgctxt "103224356-0-40265"
+msgid "I must locate my target at the Elden Root Outside Inn."
+msgstr "Elden Root Outside Inn에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40264
+msgctxt "103224356-0-40264"
+msgid "I should talk to Elam Drals about taking on my first contract."
+msgstr "내 첫 번째 계약에 대해 엘람 드랄스와 대화해야 한다."
+
+#: 103224356-0-40261
+#, fuzzy
+msgctxt "103224356-0-40261"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40260
+#, fuzzy
+msgctxt "103224356-0-40260"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40259
+#, fuzzy
+msgctxt "103224356-0-40259"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40258
+#, fuzzy
+msgctxt "103224356-0-40258"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40256
+#, fuzzy
+msgctxt "103224356-0-40256"
+msgid "I must locate my target at Elden Tree Ground Level."
+msgstr "Elden Tree Ground Level에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40255
+#, fuzzy
+msgctxt "103224356-0-40255"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40254
+#, fuzzy
+msgctxt "103224356-0-40254"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40253
+#, fuzzy
+msgctxt "103224356-0-40253"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40252
+#, fuzzy
+msgctxt "103224356-0-40252"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40250
+#, fuzzy
+msgctxt "103224356-0-40250"
+msgid "I must locate my target at Redfur Trading Post."
+msgstr "Redfur Trading Post에서 내 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40249
+#, fuzzy
+msgctxt "103224356-0-40249"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40248
+#, fuzzy
+msgctxt "103224356-0-40248"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40247
+#, fuzzy
+msgctxt "103224356-0-40247"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40246
+#, fuzzy
+msgctxt "103224356-0-40246"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40244
+#, fuzzy
+msgctxt "103224356-0-40244"
+msgid "I must locate my target at the Vulkhel Guard Market."
+msgstr "Vulkhel Guard Market에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40243
+#, fuzzy
+msgctxt "103224356-0-40243"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40242
+#, fuzzy
+msgctxt "103224356-0-40242"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40241
+#, fuzzy
+msgctxt "103224356-0-40241"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40240
+#, fuzzy
+msgctxt "103224356-0-40240"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40238
+#, fuzzy
+msgctxt "103224356-0-40238"
+msgid "I must locate my target at Vulkhel Guard Manor."
+msgstr "나는 Vulkhel Guard Manor에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40237
+#, fuzzy
+msgctxt "103224356-0-40237"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40236
+#, fuzzy
+msgctxt "103224356-0-40236"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40235
+#, fuzzy
+msgctxt "103224356-0-40235"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40234
+#, fuzzy
+msgctxt "103224356-0-40234"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40232
+#, fuzzy
+msgctxt "103224356-0-40232"
+msgid "I must locate my target at the Vulkhel Guard Docks."
+msgstr "Vulkhel Guard Dock에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40231
+#, fuzzy
+msgctxt "103224356-0-40231"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40230
+#, fuzzy
+msgctxt "103224356-0-40230"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40229
+#, fuzzy
+msgctxt "103224356-0-40229"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40228
+#, fuzzy
+msgctxt "103224356-0-40228"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40226
+#, fuzzy
+msgctxt "103224356-0-40226"
+msgid "I must locate my target at the Market-Side Meadery in Skywatch."
+msgstr "Skywatch의 Market-Side Meadery에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-40225
+#, fuzzy
+msgctxt "103224356-0-40225"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40224
+#, fuzzy
+msgctxt "103224356-0-40224"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40223
+#, fuzzy
+msgctxt "103224356-0-40223"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40222
+#, fuzzy
+msgctxt "103224356-0-40222"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40220
+#, fuzzy
+msgctxt "103224356-0-40220"
+msgid "I must locate my target at the Skywatch Manor."
+msgstr "Skywatch Manor에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40219
+#, fuzzy
+msgctxt "103224356-0-40219"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40218
+#, fuzzy
+msgctxt "103224356-0-40218"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40217
+#, fuzzy
+msgctxt "103224356-0-40217"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40216
+#, fuzzy
+msgctxt "103224356-0-40216"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40214
+msgctxt "103224356-0-40214"
+msgid "I must locate my target at Fort Amol."
+msgstr "아몰 요새에서 표적을 찾아야 한다."
+
+#: 103224356-0-40213
+#, fuzzy
+msgctxt "103224356-0-40213"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40212
+#, fuzzy
+msgctxt "103224356-0-40212"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40211
+#, fuzzy
+msgctxt "103224356-0-40211"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40210
+#, fuzzy
+msgctxt "103224356-0-40210"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40208
+#, fuzzy
+msgctxt "103224356-0-40208"
+msgid "I must locate my target at the Tribunal Temple."
+msgstr "재판소에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40207
+#, fuzzy
+msgctxt "103224356-0-40207"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40206
+#, fuzzy
+msgctxt "103224356-0-40206"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40205
+#, fuzzy
+msgctxt "103224356-0-40205"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40204
+#, fuzzy
+msgctxt "103224356-0-40204"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40202
+#, fuzzy
+msgctxt "103224356-0-40202"
+msgid "I must locate my target at the Mournhold Fighters Guild."
+msgstr "Mournhold Fighters Guild에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-40201
+#, fuzzy
+msgctxt "103224356-0-40201"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40200
+#, fuzzy
+msgctxt "103224356-0-40200"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40199
+#, fuzzy
+msgctxt "103224356-0-40199"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40198
+#, fuzzy
+msgctxt "103224356-0-40198"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40196
+#, fuzzy
+msgctxt "103224356-0-40196"
+msgid "I must locate my target at the Mournhold City Center."
+msgstr "나는 Mournhold City Center에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40195
+#, fuzzy
+msgctxt "103224356-0-40195"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40194
+#, fuzzy
+msgctxt "103224356-0-40194"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-40193
+#, fuzzy
+msgctxt "103224356-0-40193"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40192
+#, fuzzy
+msgctxt "103224356-0-40192"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-40190
+#, fuzzy
+msgctxt "103224356-0-40190"
+msgid "I must locate my target at Tal'Deic Fortress."
+msgstr "Tal'Deic Fortress에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-40179
+msgctxt "103224356-0-40179"
+msgid "I murdered an innocent in Anvil, just as Amelie suggested, but other than the spilled blood and having a sense of being watched, nothing happened. Maybe Amelie has an idea about what I should do next. She said I could find her near the Anvil docks."
+msgstr ""
+"아멜리가 말한대로, 앤빌에서 무고한 사람을 죽이는 데 성공했다. 하지만 나는 부상을 입었고 누군가 나를 지켜보고 있다는 느낌만 들 뿐, "
+"아무런 일도 일어나지 않았다. 아멜리는 내가 무엇을 해야 하는지 알고 있을지도 모른다. 그녀는 부두로 자기를 찾아 오라고 말했었다."
+
+#: 103224356-0-40178
+msgctxt "103224356-0-40178"
+msgid "I arrived on the Gold Coast. Now I should head to Anvil and see if anyone can provide me with more details concerning  the rumors about Dark Brotherhood activity in the city."
+msgstr ""
+"골드 코스트에 도착했다. 이제 앤빌로 가서 도시 내 다크 브라더후드의 활동에 대한 소문을 더욱 자세하게 알려줄 누군가가 있는지 봐야겠다."
+
+#: 103224356-0-40177
+msgctxt "103224356-0-40177"
+msgid "Word around town suggests that the Dark Brotherhood is seeking recruits in Anvil, a city on the Gold Coast. I should travel to Anvil and see if the rumors hold any truth."
+msgstr ""
+"도시에서 떠도는 소문으로는 다크 브라더후드가 앤빌에서 신입을 모집하고 있다는 것 같다. 앤빌로 가서 그 소문이 진실인지 확인해 봐야겠다."
+
+#: 103224356-0-40176
+#, fuzzy
+msgctxt "103224356-0-40176"
+msgid "Chanter Nemus has an office beneath the Chapel of Dibella in Anvil. I should travel there and deal with him for trying to deceive the Dark Brotherhood."
+msgstr ""
+"Chanter Nemus는 Anvil에있는 Dibella의 채플 아래에 사무실을두고 있습니다. 다크 브라더 후드를기만 하려다가 거기를 "
+"여행해야합니다.-G-"
+
+#: 103224356-0-40175
+#, fuzzy
+msgctxt "103224356-0-40175"
+msgid "I should talk to Hildegard to find out what I can about Chanter Nemus."
+msgstr "나는 Hildegard와 이야기해서 Chanter Nemus에 관해 무엇을 할 수 있는지 알아봐야한다.-G-"
+
+#: 103224356-0-40174
+#, fuzzy
+msgctxt "103224356-0-40174"
+msgid "It appears that the rest of the captives are being held underground. I must delve deeper into the ruins to find them."
+msgstr "나머지 포로들은 지하에 갇혀있는 것으로 보인다. 나는 그들을 찾기 위해 폐허 속으로 더 깊이 파고 들어야한다.-G-"
+
+#: 103224356-0-40172
+msgctxt "103224356-0-40172"
+msgid "I should find Kor in the Sanctuary as soon as I can."
+msgstr "가능한 한 빨리 성소에 있는 코르를 찾아야 한다."
+
+#: 103224356-0-40171
+msgctxt "103224356-0-40171"
+msgid "Astara and the Dark Brotherhood have need of me. I must travel to the Sanctuary and speak to Astara."
+msgstr "아스타라와 다크 브라더후드는 내가 필요하다. 나는 성소로 가서 아스타라와 이야기해봐야 한다."
+
+#: 103224356-0-40170
+msgctxt "103224356-0-40170"
+msgid "I should head into the Sanctuary and talk to Green-Venom-Tongue."
+msgstr "성역으로 향해 그린-베놈-텅과 대화해야 한다."
+
+#: 103224356-0-40169
+msgctxt "103224356-0-40169"
+msgid "Grazda informed me that Matron Astara has another task for me to perform. I should go to the Sanctuary and find out what Astara needs this time."
+msgstr ""
+"그라즈다는 여주인 아스타라가 내가 수행해야 할 다른 임무를 가지고 있다고 알려 주었다. 나는 성역으로 가서 이번엔 아스타라가 무엇을 "
+"필요로 하는지 알아내야 한다."
+
+#: 103224356-0-40154
+#, fuzzy
+msgctxt "103224356-0-40154"
+msgid "<<1>> agreed to lead me to the Black Dragon's chambers."
+msgstr "<<1>>은 나를 블랙 드래곤의 방으로 안내하기로 동의했다.-G-"
+
+#: 103224356-0-40144
+#, fuzzy
+msgctxt "103224356-0-40144"
+msgid "While I'm here, I might as well destroy the Red Sails pardon."
+msgstr "내가 여기있는 동안, 나는 붉은 돛의 사면을 파괴 할 수도있다.-G-"
+
+#: 103224356-0-40142
+#, fuzzy
+msgctxt "103224356-0-40142"
+msgid "It seems the Order is amassing an arsenal. I should destroy some of these weapons before I head inside."
+msgstr "그것은 명령서가 무기고를 모으고있는 것 같습니다. 내가 안으로 들어가기 전에이 무기들 중 일부를 파괴해야합니다.-G-"
+
+#: 103224356-0-39774
+#, fuzzy
+msgctxt "103224356-0-39774"
+msgid "Governor Fortunata is so pleased that I completed her contract, she's invited me to share a drink on her private balcony. I should follow her to the balcony."
+msgstr ""
+"Fortunata 지사는 계약을 완료하게되어 매우 기쁩니다. 그녀는 나에게 개인 발코니에서 음료를 나누기를 권유했습니다. 나는 그녀를 "
+"따라 발코니에 가야한다.-G-"
+
+#: 103224356-0-39692
+#, fuzzy
+msgctxt "103224356-0-39692"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39688
+#, fuzzy
+msgctxt "103224356-0-39688"
+msgid "I must locate my target at the Evermore Mages Guild."
+msgstr "Evermore Mages Guild에서 대상을 찾아야합니다.-G-"
+
+#: 103224356-0-39682
+#, fuzzy
+msgctxt "103224356-0-39682"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39678
+#, fuzzy
+msgctxt "103224356-0-39678"
+msgid "I must locate my target at the Evermore Smithy."
+msgstr "내 목표물을 에버 모어 스미 지 (Evermore Smithy)에서 찾아야합니다.-G-"
+
+#: 103224356-0-39676
+#, fuzzy
+msgctxt "103224356-0-39676"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39672
+#, fuzzy
+msgctxt "103224356-0-39672"
+msgid "I must locate my target at the Evermore Docks."
+msgstr "에버 모어 부두에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39669
+#, fuzzy
+msgctxt "103224356-0-39669"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39665
+#, fuzzy
+msgctxt "103224356-0-39665"
+msgid "I must locate my target at the Anchor's Point Inn."
+msgstr "앵커 포인트 인 (Anchor 's Point Inn)에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39663
+#, fuzzy
+msgctxt "103224356-0-39663"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39659
+#, fuzzy
+msgctxt "103224356-0-39659"
+msgid "I must locate my target at the Shornhelm Town Square."
+msgstr "Shornhelm Town Square에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39655
+#, fuzzy
+msgctxt "103224356-0-39655"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39651
+#, fuzzy
+msgctxt "103224356-0-39651"
+msgid "I must locate my target at the Stone Oasis Inn."
+msgstr "Stone Oasis Inn에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39649
+#, fuzzy
+msgctxt "103224356-0-39649"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39645
+#, fuzzy
+msgctxt "103224356-0-39645"
+msgid "I must locate my target at the Shornhelm Fighters Guild."
+msgstr "Shornhelm Fighters Guild에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-39643
+#, fuzzy
+msgctxt "103224356-0-39643"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39639
+#, fuzzy
+msgctxt "103224356-0-39639"
+msgid "I must locate my target at the Halls of Judgment."
+msgstr "나는 표적을 홀의 심판에 위치시켜야한다.-G-"
+
+#: 103224356-0-39637
+#, fuzzy
+msgctxt "103224356-0-39637"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39633
+#, fuzzy
+msgctxt "103224356-0-39633"
+msgid "I must locate my target at Sentinel Palace."
+msgstr "센티넬 팰리스에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39631
+#, fuzzy
+msgctxt "103224356-0-39631"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39627
+#, fuzzy
+msgctxt "103224356-0-39627"
+msgid "I must locate my target at the Dead Wolf Inn."
+msgstr "Dead Wolf Inn에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39625
+#, fuzzy
+msgctxt "103224356-0-39625"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39621
+#, fuzzy
+msgctxt "103224356-0-39621"
+msgid "I must locate my target at the Sisters of the Sands Inn."
+msgstr "나는 Sands Inn의 Sisters에서 나의 표적을 찾아야 만한다.-G-"
+
+#: 103224356-0-39560
+#, fuzzy
+msgctxt "103224356-0-39560"
+msgid "Green-Venom-Tongue was able to scale the gate and continue on without me. I'll need to find another path and meet up with him deeper within the ruins. Maybe the path the minotaurs opened is the way to go."
+msgstr ""
+"Green-Venom-Tongue는 게이트를 확장하고 나 없이도 계속할 수있었습니다. 나는 다른 길을 찾아 그와 함께 폐허 안에서 더 "
+"깊이 만나야 할 것이다. 어쩌면 미노타 우르가 열어 준 길이 갈 길입니다.-G-"
+
+#: 103224356-0-39554
+msgctxt "103224356-0-39554"
+msgid "I found instructions detailing a passage behind a false cask. Two other false casks can unlock it if I knock on each of them twice. I need to find the right casks marked by lanterns on the wall."
+msgstr ""
+"가짜 통 뒤에 통로가 있다는 점을 알아냈다. 다른 두 개의 가짜 통을 두 번 두드려서 이 통의 잠금을 해제할 수 있다. 벽에 붙은 등불을 "
+"통해 올바른 통들을 찾아야겠다."
+
+#: 103224356-0-39474
+#, fuzzy
+msgctxt "103224356-0-39474"
+msgid "I defeated the Black Dragon and the Wrath of Sithis has claimed her soul. Now I need to find my way out of these ruins."
+msgstr "나는 블랙 드래곤을 물리 쳤고 시드의 분노가 그녀의 영혼을 주장했다. 이제 나는이 폐허에서 탈출구를 찾아야합니다.-G-"
+
+#: 103224356-0-39473
+#, fuzzy
+msgctxt "103224356-0-39473"
+msgid "I tracked the Black Dragon to an even more ancient ruin beneath the ruins of Knightsgrave. It appears the Order of the Hour built its original headquarters atop a temple to the Dragon God of Time. Now we can have our final confrontation."
+msgstr ""
+"나는 Black Dragon을 Knightsgrave 폐허 아래에있는 고대 파멸로 추적했습니다. 시간의 명령 (Order of the "
+"Hour)이 시간의 용의 신에게 성전 꼭대기에 본래의 본부를 세웠던 것처럼 보입니다. 이제 우리는 우리의 마지막 대결을 가질 수 있습니다."
+"-G-"
+
+#: 103224356-0-39472
+#, fuzzy
+msgctxt "103224356-0-39472"
+msgid "I defeated the Black Dragon's shadow forms. Now I can resume my hunt for the Black Dragon."
+msgstr "나는 블랙 드래곤의 그림자 형태를 물리 쳤다. 이제 검은 용에 대한 사냥을 재개 할 수 있습니다.-G-"
+
+#: 103224356-0-39471
+#, fuzzy
+msgctxt "103224356-0-39471"
+msgid "The Black Dragon has decided to send her shadow forms against me. I need to defeat them before I can continue my hunt for the Black Dragon."
+msgstr ""
+"Black Dragon은 그녀의 그림자 형태를 저에게 비난하기로했습니다. 블랙 드래곤에서 사냥을 계속하기 전에 그들을 물리 칠 필요가 "
+"있습니다.-G-"
+
+#: 103224356-0-39470
+#, fuzzy
+msgctxt "103224356-0-39470"
+msgid "Green-Venom-Tongue reached the Black Dragon before I could get to him. She killed him. That's one more death I owe her for. Now I have to finish this on my own."
+msgstr ""
+"Green-Venom-Tongue는 내가 Black Dragon에 도착하기 전에 Black Dragon에 도착했습니다. 그녀가 그를 "
+"죽였어. 그게 내가 그녀에게 빚지고있는 또 하나의 죽음이야. 지금 나는 이것을 독자적으로 끝내야한다.-G-"
+
+#: 103224356-0-39469
+#, fuzzy
+msgctxt "103224356-0-39469"
+msgid "Two minotaurs smashed through the wall. I'll need to defeat the minotaurs before I can follow after Green-Venom-Tongue and proceed with the hunt for the Black Dragon."
+msgstr ""
+"두 명의 미노타 우르가 벽을 통해 박살났다. 그린-독-텅을 따라 블랙 드래곤을 사냥하기 전에 미노타 우르를 물리 칠 필요가 있습니다.-G-"
+""
+
+#: 103224356-0-39468
+#, fuzzy
+msgctxt "103224356-0-39468"
+msgid "The chamber ahead might contain a clue as to where the Black Dragon is hiding. I should explore it."
+msgstr "블랙 드래곤이 어디에 숨어 있는지에 대한 실마리가있을 수 있습니다. 나는 그것을 탐험해야한다.-G-"
+
+#: 103224356-0-39467
+#, fuzzy
+msgctxt "103224356-0-39467"
+msgid "The doors leading deeper into the ruins have been opened. I should follow Green-Venom-Tongue and help him hunt down the Black Dragon."
+msgstr ""
+"폐허로 깊숙이 이어지는 문이 열렸습니다. 나는 Green-Venom-Tongue를 따라 가야만 Black Dragon을 사냥 할 수 "
+"있습니다.-G-"
+
+#: 103224356-0-39465
+#, fuzzy
+msgctxt "103224356-0-39465"
+msgid "I entered the ruins of Knightsgrave. Now I need to find Green-Venom-Tongue."
+msgstr "나는 Knightsgrave의 유적지에 입장했다. 이제 나는 그린-독-혀를 찾을 필요가있다.-G-"
+
+#: 103224356-0-39464
+#, fuzzy
+msgctxt "103224356-0-39464"
+msgid "I need to travel to Knightsgrave and follow Green-Venom-Tongue into the ruins to make sure he's able to complete the kill."
+msgstr ""
+"Knightsgrave로 가서 Green-Venom-Tongue를 따라 유적지로 이동하여 살인을 완료 할 수있게해야합니다.-G-"
+
+#: 103224356-0-39392
+#, fuzzy
+msgctxt "103224356-0-39392"
+msgid "We saw reflections of what occurred here. Lyra was the Black Hand's instrument in purging this Sanctuary. I should talk to Green-Venom-Tongue and see what he thinks we should do next."
+msgstr ""
+"우리는 여기에서 일어난 일에 대해 생각해 봤습니다. Lyra는이 Sanctuary를 제거하는 Black Hand의 도구였습니다. 나는 "
+"그린-독-텅 (Green-Venom-Tongue)과 이야기하고, 우리가 다음에해야한다고 생각하는 것을보아야합니다.-G-"
+
+#: 103224356-0-39389
+#, fuzzy
+msgctxt "103224356-0-39389"
+msgid "We saw through the resin fumes how Lyra completed her mission to purge this Sanctuary and then received a new contract that took her to Kvatch. I should talk to Green-Venom-Tongue to see if we've learned everything we can here."
+msgstr ""
+"우리는 수지 흄을 통해 리라가이 성역을 제거하는 임무를 완수 한 후 그녀를 Kvatch로 데려 간 새로운 계약서를 받았다. 우리가 여기서 "
+"할 수있는 모든 것을 배웠는지 그린-독-텅 (Green-Venom-Tongue)과 이야기해야합니다.-G-"
+
+#: 103224356-0-39388
+#, fuzzy
+msgctxt "103224356-0-39388"
+msgid "Green-Venom-Tongue wants to use the last of the resin fumes to see if any signs of Lyra remain around the shrine of Sithis. He said to approach the shrine and see what is revealed."
+msgstr ""
+"Green-Venom-Tongue는 Sithis의 신전 주변에 Lyra의 흔적이 남아 있는지 확인하기 위해 수지 흄의 마지막 부분을 "
+"사용하려고합니다. 그는 신전에 접근하여 공개 된 것을 보았다고 말했습니다.-G-"
+
+#: 103224356-0-39387
+#, fuzzy
+msgctxt "103224356-0-39387"
+msgid "Green-Venom-Tongue burns resin from the Hist. He claims the fumes will allow us to see truths hidden in the ruins. We should search the Sanctuary and see what the fumes reveal."
+msgstr ""
+"Green-Venom-Tongue는 Hist에서 수지를 태운다. 그는 가스가 우리가 폐허에서 숨겨진 진실을 볼 수있게 해줄 것이라고 "
+"주장한다. 우리는 성소를 찾고 연무가 밝혀야하는 것을보아야합니다.-G-"
+
+#: 103224356-0-39386
+#, fuzzy
+msgctxt "103224356-0-39386"
+msgid "We passed through the Black Door and into the old Sanctuary. I should talk to Green-Venom-Tongue and find out how he thinks we should proceed."
+msgstr ""
+"우리는 까만 문 및 오래된 성역으로 통과했다. 나는 그린-독-텅 (Green-Venom-Tongue)과 이야기하고 그가 어떻게 "
+"진행해야한다고 생각하는지 찾아야합니다.-G-"
+
+#: 103224356-0-39384
+#, fuzzy
+msgctxt "103224356-0-39384"
+msgid "After traveling by horse and cart to Blackwood and then by boat up the river, we've reached the vicinity of Green-Venom-Tongue's former Sanctuary. Now I should follow him to the exact location."
+msgstr ""
+"말과 카트를 타고 Blackwood까지 여행 한 후 강을 따라 배를 타고 Green-Venom-Tongue의 전 성역 부근에 도착했습니다."
+" 이제 그를 따라 정확한 위치로 가야합니다.-G-"
+
+#: 103224356-0-39383
+#, fuzzy
+msgctxt "103224356-0-39383"
+msgid "I met up with Green-Venom-Tongue in Anvil. He arranged for an Argonian tracker named Shazara-Ta to transport us to his former Sanctuary. I should climb aboard her cart when we're ready to make the trip."
+msgstr ""
+"나는 Anvil에서 Green-Venom-Tongue와 만났다. 그는 우리를 그의 이전 성역으로 이송하기 위해 샤 자라 따 "
+"(Shazara-Ta)라는 아르고니아 추적자를 배치했습니다. 우리가 여행 할 준비가되면 나는 그녀의 카트를 타고 올라야한다.-G-"
+
+#: 103224356-0-39382
+#, fuzzy
+msgctxt "103224356-0-39382"
+msgid "Green-Venom-Tongue is arranging transportation for us to his former Sanctuary. When I'm ready to depart, I should meet him near the gates of Anvil."
+msgstr ""
+"Green-Venom-Tongue는 우리의 전 성역으로가는 교통편을 마련하고 있습니다. 내가 출발 할 준비가되면, 나는 앤빌의 성문 "
+"근처에서 그를 만나야한다.-G-"
+
+#: 103224356-0-39352
+#, fuzzy
+msgctxt "103224356-0-39352"
+msgid "The wine decanter has been poisoned. Now to let Governor Fortunata know that I killed Marcus Scipio and see if I can get her to drink to her good fortune."
+msgstr ""
+"와인 디켄터가 중독되었습니다. 이제 Fortunata 지사가 Marcus Scipio를 죽인 사실을 알리고 그녀에게 그녀의 행운을 빌어 "
+"줄 수 있는지 알아 봅니다.-G-"
+
+#: 103224356-0-39351
+#, fuzzy
+msgctxt "103224356-0-39351"
+msgid "I need to reach Governor Fortunata's private pantry on the upper level of the castle and put poison in her favorite wine. Mirabelle suggests I use the secret passages to get around. I can find an entrance wherever I see a red drape over an alcove."
+msgstr ""
+"성의 상위 층에있는 포츈 타타 주지사의 개인 식료품 저장실에 도착하여 좋아하는 와인에 독을 넣어야합니다. 미라벨은 비밀 통로를 사용하여 "
+"주변을 돌아 다니라고 제안합니다. 골목 위에 빨간 드레이프가 보이는 곳이면 어디든 입구를 찾을 수 있습니다.-G-"
+
+#: 103224356-0-39301
+#, fuzzy
+msgctxt "103224356-0-39301"
+msgid "I should talk to Astara and find out what she thinks we should do about Primate Artorius and the Order of the Hour."
+msgstr ""
+"나는 Astara와 이야기하고 Prime Artorius와 Order of the Hour에 관해 우리가해야한다고 생각하는 것을 "
+"찾아야합니다.-G-"
+
+#: 103224356-0-39300
+#, fuzzy
+msgctxt "103224356-0-39300"
+msgid "I should return to the Sanctuary and tell Astara what we learned about the Black Dragon."
+msgstr "성역으로 돌아와 아스타라에게 우리가 블랙 드래곤에 대해 배운 것을 말해야합니다.-G-"
+
+#: 103224356-0-39299
+#, fuzzy
+msgctxt "103224356-0-39299"
+msgid "Governor Fortunata is dead and Count Carolus's contract has been fulfilled. I should return to the Sanctuary and let Astara know what happened here."
+msgstr ""
+"Fortunata 주지사는 사망했고 Carolus의 계약은 성취되었습니다. 나는 성역으로 돌아와 아스타 라에게 여기에서 일어난 일을 "
+"알려야한다.-G-"
+
+#: 103224356-0-38484
+msgctxt "103224356-0-38484"
+msgid "The Speaker granted my request for advice and told me of an alternate route beneath the walls of the estate. Apparently a tunnel runs from a small hostel called the Withered Rose right to Jarol Estate."
+msgstr ""
+"스피커는 조언해달라는 요청을 승락했고 영지를 둘러싼 벽 아래에 다른 통로가 있다는 사실을 알려주었다. 시든 장미라는 작은 호스텔에 재롤의 "
+"영지로 바로 향하는 터널이 있다고 한다."
+
+#: 103224356-0-38483
+msgctxt "103224356-0-38483"
+msgid "I wonder if the Speaker would be willing to give me any advice if I tried asking."
+msgstr "내가 물어본다면 스피커가 기꺼이 조언을 해줄 지 궁금하다."

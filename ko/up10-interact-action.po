@@ -1,0 +1,6649 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 219689294-1-471
+msgctxt "219689294-1-471"
+msgid "Open"
+msgstr "열기"
+
+#: 219689294-1-463
+msgctxt "219689294-1-463"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-21091
+msgctxt "108533454-0-21091"
+msgid "Using…"
+msgstr "사용중…"
+
+#: 108533454-0-21078
+msgctxt "108533454-0-21078"
+msgid "Searching…."
+msgstr "수색 중…."
+
+#: 70307621-0-2067
+msgctxt "70307621-0-2067"
+msgid "Mine"
+msgstr "캐내기"
+
+#: 8158238-0-2066
+msgctxt "8158238-0-2066"
+msgid "Collecting…"
+msgstr "수집중…"
+
+#: 70307621-0-2066
+msgctxt "70307621-0-2066"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 8158238-0-2065
+msgctxt "8158238-0-2065"
+msgid "Cutting…"
+msgstr "자르는 중…"
+
+#: 70307621-0-2065
+msgctxt "70307621-0-2065"
+msgid "Cut"
+msgstr "자르기"
+
+#: 74865733-0-20640
+msgctxt "74865733-0-20640"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20627
+msgctxt "108533454-0-20627"
+msgid "0"
+msgstr "0-G-"
+
+#: 74865733-0-20625
+msgctxt "74865733-0-20625"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20620
+msgctxt "108533454-0-20620"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20619
+msgctxt "74865733-0-20619"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20619
+msgctxt "108533454-0-20619"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20618
+msgctxt "74865733-0-20618"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20618
+msgctxt "108533454-0-20618"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20617
+msgctxt "74865733-0-20617"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20617
+msgctxt "108533454-0-20617"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20615
+msgctxt "74865733-0-20615"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20615
+msgctxt "108533454-0-20615"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20614
+msgctxt "74865733-0-20614"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20614
+msgctxt "108533454-0-20614"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20613
+msgctxt "74865733-0-20613"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20613
+msgctxt "108533454-0-20613"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20612
+msgctxt "74865733-0-20612"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20612
+msgctxt "108533454-0-20612"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20611
+msgctxt "74865733-0-20611"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20611
+msgctxt "108533454-0-20611"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20610
+msgctxt "74865733-0-20610"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20603
+msgctxt "108533454-0-20603"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20602
+msgctxt "74865733-0-20602"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20598
+msgctxt "108533454-0-20598"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20597
+msgctxt "74865733-0-20597"
+msgid "Read"
+msgstr "읽기"
+
+#: 108533454-0-20596
+msgctxt "108533454-0-20596"
+msgid "Reading…"
+msgstr "읽는 중…"
+
+#: 74865733-0-20593
+msgctxt "74865733-0-20593"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20587
+msgctxt "108533454-0-20587"
+msgid "0"
+msgstr "0-G-"
+
+#: 74865733-0-20586
+msgctxt "74865733-0-20586"
+msgid "Enter"
+msgstr "들어가기"
+
+#: 108533454-0-20585
+msgctxt "108533454-0-20585"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 74865733-0-20582
+msgctxt "74865733-0-20582"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20568
+msgctxt "108533454-0-20568"
+msgid "Taking …"
+msgstr "가져가는 중…"
+
+#: 74865733-0-20567
+msgctxt "74865733-0-20567"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20567
+msgctxt "108533454-0-20567"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-20566
+msgctxt "74865733-0-20566"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20566
+msgctxt "108533454-0-20566"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20565
+msgctxt "74865733-0-20565"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20565
+msgctxt "108533454-0-20565"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20564
+msgctxt "74865733-0-20564"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20564
+msgctxt "108533454-0-20564"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20563
+msgctxt "74865733-0-20563"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20563
+msgctxt "108533454-0-20563"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20562
+msgctxt "74865733-0-20562"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20562
+msgctxt "108533454-0-20562"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20561
+msgctxt "74865733-0-20561"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20561
+msgctxt "108533454-0-20561"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20560
+msgctxt "74865733-0-20560"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20560
+msgctxt "108533454-0-20560"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20559
+msgctxt "74865733-0-20559"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20559
+msgctxt "108533454-0-20559"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20558
+msgctxt "74865733-0-20558"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20558
+msgctxt "108533454-0-20558"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20557
+msgctxt "74865733-0-20557"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20557
+msgctxt "108533454-0-20557"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20556
+msgctxt "74865733-0-20556"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20556
+msgctxt "108533454-0-20556"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20555
+msgctxt "74865733-0-20555"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20555
+msgctxt "108533454-0-20555"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20554
+msgctxt "74865733-0-20554"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20545
+msgctxt "108533454-0-20545"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20544
+msgctxt "74865733-0-20544"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20544
+msgctxt "108533454-0-20544"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20543
+msgctxt "74865733-0-20543"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20543
+msgctxt "108533454-0-20543"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20542
+msgctxt "74865733-0-20542"
+msgid "Place"
+msgstr "놓기"
+
+#: 108533454-0-20542
+msgctxt "108533454-0-20542"
+msgid "Placing…"
+msgstr "놓는 중…"
+
+#: 74865733-0-20540
+msgctxt "74865733-0-20540"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20540
+msgctxt "108533454-0-20540"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20539
+msgctxt "74865733-0-20539"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20539
+msgctxt "108533454-0-20539"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20538
+msgctxt "74865733-0-20538"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20538
+msgctxt "108533454-0-20538"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20531
+msgctxt "74865733-0-20531"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 108533454-0-20531
+msgctxt "108533454-0-20531"
+msgid "0"
+msgstr "0-G-"
+
+#: 74865733-0-20526
+msgctxt "74865733-0-20526"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20526
+msgctxt "108533454-0-20526"
+msgid "Examining..."
+msgstr "검사 중 ...-G-"
+
+#: 74865733-0-20525
+msgctxt "74865733-0-20525"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20525
+msgctxt "108533454-0-20525"
+msgid "Examining..."
+msgstr "검사 중 ..."
+
+#: 74865733-0-20524
+msgctxt "74865733-0-20524"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20524
+msgctxt "108533454-0-20524"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 74865733-0-20523
+msgctxt "74865733-0-20523"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20523
+msgctxt "108533454-0-20523"
+msgid "Examining..."
+msgstr "검사 중 ..."
+
+#: 74865733-0-20519
+msgctxt "74865733-0-20519"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-20519
+msgctxt "108533454-0-20519"
+msgid "Travelling …"
+msgstr "이동 중 …"
+
+#: 74865733-0-20518
+msgctxt "74865733-0-20518"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-20518
+msgctxt "108533454-0-20518"
+msgid "Travelling …"
+msgstr "이동 중 …"
+
+#: 74865733-0-20517
+msgctxt "74865733-0-20517"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-20517
+msgctxt "108533454-0-20517"
+msgid "Travelling …"
+msgstr "이동 중 …"
+
+#: 74865733-0-20516
+msgctxt "74865733-0-20516"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-20516
+msgctxt "108533454-0-20516"
+msgid "Travelling …"
+msgstr "이동 중 …"
+
+#: 74865733-0-20514
+msgctxt "74865733-0-20514"
+msgid "Burn"
+msgstr "불태우기"
+
+#: 108533454-0-20514
+msgctxt "108533454-0-20514"
+msgid "Burning…"
+msgstr "불태우는 중..."
+
+#: 74865733-0-20512
+msgctxt "74865733-0-20512"
+msgid "Search"
+msgstr "수색하기"
+
+#: 108533454-0-20504
+msgctxt "108533454-0-20504"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-20501
+msgctxt "74865733-0-20501"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 108533454-0-20498
+msgctxt "108533454-0-20498"
+msgid "Searching…"
+msgstr "수색 중…"
+
+#: 74865733-0-20495
+msgctxt "74865733-0-20495"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-20491
+msgctxt "108533454-0-20491"
+msgid "Examining..."
+msgstr "검사 중 ...-G-"
+
+#: 74865733-0-20488
+msgctxt "74865733-0-20488"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 108533454-0-20486
+msgctxt "108533454-0-20486"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 74865733-0-20484
+msgctxt "74865733-0-20484"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-20474
+msgctxt "108533454-0-20474"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-20446
+msgctxt "74865733-0-20446"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-20446
+msgctxt "108533454-0-20446"
+msgid "Searching…"
+msgstr "수색 중…"
+
+#: 74865733-0-20444
+msgctxt "74865733-0-20444"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20444
+msgctxt "108533454-0-20444"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 108533454-0-20441
+msgctxt "108533454-0-20441"
+msgid "Searching…."
+msgstr "수색 중…."
+
+#: 109216308-0-20421
+msgctxt "109216308-0-20421"
+msgid "<Leave note.>"
+msgstr "<노트를 그대로 두자.>"
+
+#: 74865733-0-20418
+msgctxt "74865733-0-20418"
+msgid "Knock"
+msgstr "두드리기"
+
+#: 108533454-0-20399
+msgctxt "108533454-0-20399"
+msgid "Stealing…"
+msgstr "훔치는 중…"
+
+#: 74865733-0-20397
+msgctxt "74865733-0-20397"
+msgid "Animate"
+msgstr "생기를 불어넣다"
+
+#: 108533454-0-20241
+msgctxt "108533454-0-20241"
+msgid "Burning…"
+msgstr "불태우는 중..."
+
+#: 70307621-0-2024
+msgctxt "70307621-0-2024"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1964
+msgctxt "70307621-0-1964"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 8158238-0-1962
+msgctxt "8158238-0-1962"
+msgid "Climbing…"
+msgstr "올라가는 중…"
+
+#: 70307621-0-1962
+msgctxt "70307621-0-1962"
+msgid "Climb"
+msgstr "올라가기"
+
+#: 8158238-0-1958
+msgctxt "8158238-0-1958"
+msgid "Collecting…"
+msgstr "수집중…"
+
+#: 70307621-0-1958
+msgctxt "70307621-0-1958"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 8158238-0-1957
+msgctxt "8158238-0-1957"
+msgid "Collecting…"
+msgstr "수집중…"
+
+#: 70307621-0-1957
+msgctxt "70307621-0-1957"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 70307621-0-1954
+msgctxt "70307621-0-1954"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-18925
+msgctxt "108533454-0-18925"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-18924
+msgctxt "74865733-0-18924"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-18924
+msgctxt "108533454-0-18924"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-18923
+msgctxt "74865733-0-18923"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-18923
+msgctxt "108533454-0-18923"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-18922
+msgctxt "74865733-0-18922"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-18922
+msgctxt "108533454-0-18922"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-18921
+msgctxt "74865733-0-18921"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-18921
+msgctxt "108533454-0-18921"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-18920
+msgctxt "74865733-0-18920"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-18920
+msgctxt "108533454-0-18920"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 219689294-1-462
+msgctxt "219689294-1-462"
+msgid "Cage Door"
+msgstr "케이지 도어-G-"
+
+#: 12912341-0-71319
+msgctxt "12912341-0-71319"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 12912341-0-71316
+msgctxt "12912341-0-71316"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 12912341-0-71315
+msgctxt "12912341-0-71315"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 12912341-0-71314
+msgctxt "12912341-0-71314"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 12912341-0-70892
+msgctxt "12912341-0-70892"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 12912341-0-70891
+msgctxt "12912341-0-70891"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 12912341-0-70410
+msgctxt "12912341-0-70410"
+msgid "Take"
+msgstr "가지기"
+
+#: 12912341-0-70024
+msgctxt "12912341-0-70024"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 7949764-0-52061
+msgctxt "7949764-0-52061"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와 대화하기"
+
+#: 7949764-0-52058
+#, fuzzy
+msgctxt "7949764-0-52058"
+msgid "Defeat the Celestial Serpent"
+msgstr "하늘의 독사를 물리 치십시오.-G-"
+
+#: 7949764-0-52057
+#, fuzzy
+msgctxt "7949764-0-52057"
+msgid "Defeat the Celestial Serpent"
+msgstr "하늘의 독사를 물리 치십시오.-G-"
+
+#: 7949764-0-52056
+#, fuzzy
+msgctxt "7949764-0-52056"
+msgid "Defeat the Celestial Serpent"
+msgstr "하늘의 독사를 물리 치십시오.-G-"
+
+#: 7949764-0-52054
+#, fuzzy
+msgctxt "7949764-0-52054"
+msgid "Defeat the Celestial Serpent"
+msgstr "하늘의 독사를 물리 치십시오.-G-"
+
+#: 7949764-0-52053
+#, fuzzy
+msgctxt "7949764-0-52053"
+msgid "Defeat the Celestial Serpent"
+msgstr "하늘의 독사를 물리 치십시오.-G-"
+
+#: 7949764-0-52052
+msgctxt "7949764-0-52052"
+msgid "Collect <<a:1>>"
+msgstr "<<1>>를 수집하기"
+
+#: 7949764-0-52051
+msgctxt "7949764-0-52051"
+msgid "Collect Some Guts"
+msgstr "내장을 조금 수집하기"
+
+#: 7949764-0-52050
+msgctxt "7949764-0-52050"
+msgid "Defeat a Boss in any Delve to Find <<a:1>>"
+msgstr "델브에서 보스를 처치하고 <<1>>를 찾기"
+
+#: 7949764-0-52048
+msgctxt "7949764-0-52048"
+msgid "Collect a Pumpkin"
+msgstr "호박을 수집하기"
+
+#: 7949764-0-52047
+msgctxt "7949764-0-52047"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52046
+msgctxt "7949764-0-52046"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52045
+msgctxt "7949764-0-52045"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52044
+msgctxt "7949764-0-52044"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52043
+msgctxt "7949764-0-52043"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52042
+msgctxt "7949764-0-52042"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52041
+msgctxt "7949764-0-52041"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52040
+#, fuzzy
+msgctxt "7949764-0-52040"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-52039
+msgctxt "7949764-0-52039"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52038
+msgctxt "7949764-0-52038"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52037
+msgctxt "7949764-0-52037"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52036
+msgctxt "7949764-0-52036"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52035
+msgctxt "7949764-0-52035"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52034
+msgctxt "7949764-0-52034"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52033
+msgctxt "7949764-0-52033"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52032
+msgctxt "7949764-0-52032"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52031
+msgctxt "7949764-0-52031"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52030
+msgctxt "7949764-0-52030"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52029
+msgctxt "7949764-0-52029"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52028
+msgctxt "7949764-0-52028"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-52027
+msgctxt "7949764-0-52027"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52026
+msgctxt "7949764-0-52026"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-52025
+msgctxt "7949764-0-52025"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52024
+msgctxt "7949764-0-52024"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52023
+msgctxt "7949764-0-52023"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52022
+msgctxt "7949764-0-52022"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52021
+msgctxt "7949764-0-52021"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52020
+msgctxt "7949764-0-52020"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52019
+msgctxt "7949764-0-52019"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52018
+msgctxt "7949764-0-52018"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52017
+msgctxt "7949764-0-52017"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52016
+msgctxt "7949764-0-52016"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52015
+msgctxt "7949764-0-52015"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52014
+msgctxt "7949764-0-52014"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52013
+msgctxt "7949764-0-52013"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52012
+msgctxt "7949764-0-52012"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-52011
+msgctxt "7949764-0-52011"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-52010
+msgctxt "7949764-0-52010"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52009
+msgctxt "7949764-0-52009"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-52008
+msgctxt "7949764-0-52008"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52007
+msgctxt "7949764-0-52007"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-52006
+msgctxt "7949764-0-52006"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-52005
+msgctxt "7949764-0-52005"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-52004
+#, fuzzy
+msgctxt "7949764-0-52004"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-52003
+msgctxt "7949764-0-52003"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52002
+msgctxt "7949764-0-52002"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52001
+msgctxt "7949764-0-52001"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-52000
+msgctxt "7949764-0-52000"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51999
+msgctxt "7949764-0-51999"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51998
+msgctxt "7949764-0-51998"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51997
+msgctxt "7949764-0-51997"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51996
+#, fuzzy
+msgctxt "7949764-0-51996"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51995
+msgctxt "7949764-0-51995"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51994
+msgctxt "7949764-0-51994"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51993
+msgctxt "7949764-0-51993"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51992
+msgctxt "7949764-0-51992"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51991
+msgctxt "7949764-0-51991"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51990
+msgctxt "7949764-0-51990"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51989
+msgctxt "7949764-0-51989"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51988
+msgctxt "7949764-0-51988"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51987
+msgctxt "7949764-0-51987"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51986
+msgctxt "7949764-0-51986"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51985
+msgctxt "7949764-0-51985"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51984
+msgctxt "7949764-0-51984"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51983
+msgctxt "7949764-0-51983"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-51982
+msgctxt "7949764-0-51982"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51981
+msgctxt "7949764-0-51981"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51980
+msgctxt "7949764-0-51980"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51979
+msgctxt "7949764-0-51979"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51978
+msgctxt "7949764-0-51978"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51977
+msgctxt "7949764-0-51977"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51976
+msgctxt "7949764-0-51976"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51975
+msgctxt "7949764-0-51975"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51974
+msgctxt "7949764-0-51974"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51973
+msgctxt "7949764-0-51973"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51972
+msgctxt "7949764-0-51972"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51971
+msgctxt "7949764-0-51971"
+msgid "Kill Lucky"
+msgstr ""
+
+#: 7949764-0-51970
+msgctxt "7949764-0-51970"
+msgid "Kill Lucky"
+msgstr ""
+
+#: 7949764-0-51969
+msgctxt "7949764-0-51969"
+msgid "Kill Lucky"
+msgstr ""
+
+#: 7949764-0-51968
+msgctxt "7949764-0-51968"
+msgid "Kill Lucky"
+msgstr ""
+
+#: 7949764-0-51967
+msgctxt "7949764-0-51967"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51966
+msgctxt "7949764-0-51966"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51965
+msgctxt "7949764-0-51965"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51964
+msgctxt "7949764-0-51964"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51963
+msgctxt "7949764-0-51963"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51962
+msgctxt "7949764-0-51962"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51961
+msgctxt "7949764-0-51961"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51960
+msgctxt "7949764-0-51960"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51959
+msgctxt "7949764-0-51959"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51958
+#, fuzzy
+msgctxt "7949764-0-51958"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완료-G-"
+
+#: 7949764-0-51957
+msgctxt "7949764-0-51957"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51956
+msgctxt "7949764-0-51956"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51955
+msgctxt "7949764-0-51955"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51954
+msgctxt "7949764-0-51954"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51953
+#, fuzzy
+msgctxt "7949764-0-51953"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51952
+msgctxt "7949764-0-51952"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51951
+msgctxt "7949764-0-51951"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51950
+msgctxt "7949764-0-51950"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51949
+msgctxt "7949764-0-51949"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51948
+msgctxt "7949764-0-51948"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51947
+msgctxt "7949764-0-51947"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51946
+msgctxt "7949764-0-51946"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51945
+#, fuzzy
+msgctxt "7949764-0-51945"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51944
+msgctxt "7949764-0-51944"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51943
+msgctxt "7949764-0-51943"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51942
+msgctxt "7949764-0-51942"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51941
+msgctxt "7949764-0-51941"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51940
+msgctxt "7949764-0-51940"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51939
+msgctxt "7949764-0-51939"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51938
+msgctxt "7949764-0-51938"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51937
+msgctxt "7949764-0-51937"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51936
+msgctxt "7949764-0-51936"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51935
+msgctxt "7949764-0-51935"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51934
+msgctxt "7949764-0-51934"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51933
+msgctxt "7949764-0-51933"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51932
+msgctxt "7949764-0-51932"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51931
+msgctxt "7949764-0-51931"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51930
+msgctxt "7949764-0-51930"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51929
+msgctxt "7949764-0-51929"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51928
+msgctxt "7949764-0-51928"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51927
+msgctxt "7949764-0-51927"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51926
+msgctxt "7949764-0-51926"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51925
+msgctxt "7949764-0-51925"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51924
+msgctxt "7949764-0-51924"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51923
+#, fuzzy
+msgctxt "7949764-0-51923"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51922
+msgctxt "7949764-0-51922"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51921
+msgctxt "7949764-0-51921"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51920
+msgctxt "7949764-0-51920"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51919
+msgctxt "7949764-0-51919"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51918
+msgctxt "7949764-0-51918"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51917
+msgctxt "7949764-0-51917"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51916
+msgctxt "7949764-0-51916"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51915
+msgctxt "7949764-0-51915"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51914
+msgctxt "7949764-0-51914"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51913
+msgctxt "7949764-0-51913"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51912
+msgctxt "7949764-0-51912"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51911
+msgctxt "7949764-0-51911"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51910
+msgctxt "7949764-0-51910"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51909
+msgctxt "7949764-0-51909"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51908
+msgctxt "7949764-0-51908"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51907
+msgctxt "7949764-0-51907"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51906
+msgctxt "7949764-0-51906"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51905
+msgctxt "7949764-0-51905"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51904
+msgctxt "7949764-0-51904"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51903
+msgctxt "7949764-0-51903"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51902
+msgctxt "7949764-0-51902"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51901
+msgctxt "7949764-0-51901"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51900
+msgctxt "7949764-0-51900"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51899
+msgctxt "7949764-0-51899"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51898
+msgctxt "7949764-0-51898"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51897
+msgctxt "7949764-0-51897"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51896
+msgctxt "7949764-0-51896"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51895
+msgctxt "7949764-0-51895"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51894
+msgctxt "7949764-0-51894"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51893
+msgctxt "7949764-0-51893"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51892
+msgctxt "7949764-0-51892"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51891
+msgctxt "7949764-0-51891"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51890
+msgctxt "7949764-0-51890"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51889
+msgctxt "7949764-0-51889"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51888
+msgctxt "7949764-0-51888"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51887
+msgctxt "7949764-0-51887"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51886
+msgctxt "7949764-0-51886"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51885
+msgctxt "7949764-0-51885"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51884
+msgctxt "7949764-0-51884"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51883
+msgctxt "7949764-0-51883"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51882
+msgctxt "7949764-0-51882"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51881
+msgctxt "7949764-0-51881"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51880
+#, fuzzy
+msgctxt "7949764-0-51880"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51879
+msgctxt "7949764-0-51879"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51878
+msgctxt "7949764-0-51878"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51877
+msgctxt "7949764-0-51877"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51876
+msgctxt "7949764-0-51876"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51875
+msgctxt "7949764-0-51875"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51874
+msgctxt "7949764-0-51874"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51873
+msgctxt "7949764-0-51873"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51872
+#, fuzzy
+msgctxt "7949764-0-51872"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51871
+msgctxt "7949764-0-51871"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51870
+msgctxt "7949764-0-51870"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51869
+msgctxt "7949764-0-51869"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51868
+msgctxt "7949764-0-51868"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51867
+msgctxt "7949764-0-51867"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51866
+msgctxt "7949764-0-51866"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51865
+msgctxt "7949764-0-51865"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51864
+#, fuzzy
+msgctxt "7949764-0-51864"
+msgid "Return to <<1>>"
+msgstr "<<1>>로 돌아 가기-G-"
+
+#: 7949764-0-51863
+msgctxt "7949764-0-51863"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51862
+msgctxt "7949764-0-51862"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51861
+msgctxt "7949764-0-51861"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51860
+msgctxt "7949764-0-51860"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51859
+msgctxt "7949764-0-51859"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51858
+msgctxt "7949764-0-51858"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51857
+msgctxt "7949764-0-51857"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51856
+msgctxt "7949764-0-51856"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51855
+msgctxt "7949764-0-51855"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51854
+msgctxt "7949764-0-51854"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51853
+msgctxt "7949764-0-51853"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51852
+msgctxt "7949764-0-51852"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51851
+msgctxt "7949764-0-51851"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51850
+msgctxt "7949764-0-51850"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51849
+msgctxt "7949764-0-51849"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51848
+msgctxt "7949764-0-51848"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51847
+msgctxt "7949764-0-51847"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51846
+msgctxt "7949764-0-51846"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51845
+msgctxt "7949764-0-51845"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51844
+msgctxt "7949764-0-51844"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51843
+msgctxt "7949764-0-51843"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51842
+msgctxt "7949764-0-51842"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51841
+msgctxt "7949764-0-51841"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51840
+msgctxt "7949764-0-51840"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51839
+msgctxt "7949764-0-51839"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51838
+msgctxt "7949764-0-51838"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51837
+msgctxt "7949764-0-51837"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51836
+msgctxt "7949764-0-51836"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51835
+msgctxt "7949764-0-51835"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51834
+msgctxt "7949764-0-51834"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51833
+msgctxt "7949764-0-51833"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51832
+msgctxt "7949764-0-51832"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51831
+msgctxt "7949764-0-51831"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51830
+msgctxt "7949764-0-51830"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51829
+msgctxt "7949764-0-51829"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51828
+msgctxt "7949764-0-51828"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51827
+msgctxt "7949764-0-51827"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51826
+msgctxt "7949764-0-51826"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51825
+msgctxt "7949764-0-51825"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51824
+msgctxt "7949764-0-51824"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51823
+msgctxt "7949764-0-51823"
+msgid "Kill <<1>> with the Blade of Woe"
+msgstr "Blade of Woe로 <<1>>을(를) 죽여라"
+
+#: 7949764-0-51822
+msgctxt "7949764-0-51822"
+msgid "Kill <<1>> with Poison"
+msgstr "독으로 <<1>>을(를) 죽이기"
+
+#: 7949764-0-51821
+#, fuzzy
+msgctxt "7949764-0-51821"
+msgid "Escape the Spider Caves"
+msgstr "거미 동굴 탈출-G-"
+
+#: 7949764-0-51817
+msgctxt "7949764-0-51817"
+msgid "Defend the South Door"
+msgstr "남쪽 문 방어하기"
+
+#: 7949764-0-51816
+msgctxt "7949764-0-51816"
+msgid "Defend the West Door"
+msgstr "서쪽 문 방어하기"
+
+#: 7949764-0-51815
+msgctxt "7949764-0-51815"
+msgid "Defend the North Door"
+msgstr "북쪽 문 방어하기"
+
+#: 7949764-0-51803
+#, fuzzy
+msgctxt "7949764-0-51803"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51802
+#, fuzzy
+msgctxt "7949764-0-51802"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51801
+#, fuzzy
+msgctxt "7949764-0-51801"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51800
+#, fuzzy
+msgctxt "7949764-0-51800"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51799
+msgctxt "7949764-0-51799"
+msgid "Place <<1>>"
+msgstr "<<1>>을 놓기"
+
+#: 7949764-0-51798
+#, fuzzy
+msgctxt "7949764-0-51798"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51797
+msgctxt "7949764-0-51797"
+msgid "Place <<1>>"
+msgstr "<<1>>을 가져다두기"
+
+#: 7949764-0-51796
+msgctxt "7949764-0-51796"
+msgid "Place <<1>>"
+msgstr "<<1>>을 가져다두기"
+
+#: 7949764-0-51795
+msgctxt "7949764-0-51795"
+msgid "Place <<1>>"
+msgstr "<<1>>을 가져다두기"
+
+#: 7949764-0-51794
+#, fuzzy
+msgctxt "7949764-0-51794"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51793
+#, fuzzy
+msgctxt "7949764-0-51793"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51792
+#, fuzzy
+msgctxt "7949764-0-51792"
+msgid "Place <<1>>"
+msgstr "장소 <<1>>-G-"
+
+#: 7949764-0-51785
+msgctxt "7949764-0-51785"
+msgid "Leave Before the Overseer Arrives"
+msgstr "오버시어가 도착하기 전에 떠나기"
+
+#: 7949764-0-51784
+#, fuzzy
+msgctxt "7949764-0-51784"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51783
+#, fuzzy
+msgctxt "7949764-0-51783"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51776
+msgctxt "7949764-0-51776"
+msgid "Place <<m:1>>"
+msgstr "<<1>>을 가져다두기"
+
+#: 7949764-0-51775
+#, fuzzy
+msgctxt "7949764-0-51775"
+msgid "Place <<m:1>>"
+msgstr "장소에 <<m:1>>-G-"
+
+#: 7949764-0-51774
+msgctxt "7949764-0-51774"
+msgid "Place <<m:1>>"
+msgstr "<<1>>을 가져다두기"
+
+#: 7949764-0-51773
+msgctxt "7949764-0-51773"
+msgid "Place <<m:1>>"
+msgstr "<<1>>을 배치하기"
+
+#: 7949764-0-51755
+msgctxt "7949764-0-51755"
+msgid "Retrieve <<1>>"
+msgstr "<<1>> 회수하기"
+
+#: 7949764-0-51735
+msgctxt "7949764-0-51735"
+msgid "Find <<1>>"
+msgstr " <<1>> 찾기"
+
+#: 7949764-0-51734
+msgctxt "7949764-0-51734"
+msgid "Find <<1>>"
+msgstr " <<1>> 찾기"
+
+#: 7949764-0-51733
+msgctxt "7949764-0-51733"
+msgid "Find <<1>>"
+msgstr " <<1>> 찾기"
+
+#: 7949764-0-51731
+msgctxt "7949764-0-51731"
+msgid "Find <<1>>"
+msgstr " <<1>> 찾기"
+
+#: 7949764-0-51729
+msgctxt "7949764-0-51729"
+msgid "Burn the Siege Weapons"
+msgstr "공성 무기 불태우기"
+
+#: 7949764-0-51728
+msgctxt "7949764-0-51728"
+msgid "Find <<1>>"
+msgstr " <<1>> 찾기"
+
+#: 7949764-0-51727
+msgctxt "7949764-0-51727"
+msgid "Burn the Siege Weapons"
+msgstr "공성 무기 불태우기"
+
+#: 7949764-0-51715
+msgctxt "7949764-0-51715"
+msgid "Destroy <<1>>"
+msgstr "<<1>>를 파괴하기"
+
+#: 7949764-0-51713
+msgctxt "7949764-0-51713"
+msgid "Collect <<1>>"
+msgstr "<<1>>을 수집하기"
+
+#: 7949764-0-51697
+msgctxt "7949764-0-51697"
+msgid "Defeat <<1>>"
+msgstr " <<1>> 처치하기"
+
+#: 7949764-0-51694
+msgctxt "7949764-0-51694"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 7949764-0-51690
+msgctxt "7949764-0-51690"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51688
+msgctxt "7949764-0-51688"
+msgid "Defeat <<1>>"
+msgstr " <<1>> 처치하기"
+
+#: 7949764-0-51686
+msgctxt "7949764-0-51686"
+msgid "Collect <<1>>"
+msgstr "<<1>>를 수집하기"
+
+#: 7949764-0-51683
+msgctxt "7949764-0-51683"
+msgid "Kill Helane Immediately"
+msgstr "Helane을 즉시 죽이기"
+
+#: 7949764-0-51682
+#, fuzzy
+msgctxt "7949764-0-51682"
+msgid "Investigate the Enclave"
+msgstr "고립 된 영토를 조사하십시오.-G-"
+
+#: 7949764-0-51678
+msgctxt "7949764-0-51678"
+msgid "Find a Way Out of the Central Chamber"
+msgstr "중앙 회의실로부터  나오는 길을 찾기"
+
+#: 7949764-0-51677
+#, fuzzy
+msgctxt "7949764-0-51677"
+msgid "Unlock the Northern Gate"
+msgstr "북문을 열어 라.-G-"
+
+#: 7949764-0-51676
+#, fuzzy
+msgctxt "7949764-0-51676"
+msgid "Return to the Central Chamber"
+msgstr "중앙 회의소로 돌아 가기-G-"
+
+#: 7949764-0-51675
+#, fuzzy
+msgctxt "7949764-0-51675"
+msgid "Search Beyond the North Gate"
+msgstr "북쪽 문 밖에서 검색-G-"
+
+#: 7949764-0-51674
+msgctxt "7949764-0-51674"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-51673
+#, fuzzy
+msgctxt "7949764-0-51673"
+msgid "Find Velidreth's Lair"
+msgstr "벨리 드리스의 은신처 찾기-G-"
+
+#: 7949764-0-51672
+#, fuzzy
+msgctxt "7949764-0-51672"
+msgid "Defeat <<1>>, the Lady of Lace"
+msgstr "레이스 오브 레이이스 <<1>>을 패배 시키십시오.-G-"
+
+#: 7949764-0-51671
+msgctxt "7949764-0-51671"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51670
+msgctxt "7949764-0-51670"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51669
+msgctxt "7949764-0-51669"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51668
+msgctxt "7949764-0-51668"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51667
+msgctxt "7949764-0-51667"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51666
+msgctxt "7949764-0-51666"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51665
+msgctxt "7949764-0-51665"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51664
+msgctxt "7949764-0-51664"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51663
+msgctxt "7949764-0-51663"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51662
+msgctxt "7949764-0-51662"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51661
+msgctxt "7949764-0-51661"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51660
+msgctxt "7949764-0-51660"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51659
+msgctxt "7949764-0-51659"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51658
+msgctxt "7949764-0-51658"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51657
+msgctxt "7949764-0-51657"
+msgid "Murder Any Citizen to Achieve Your Goal"
+msgstr "목표 달성을 위해서 아무 시민이나 죽이십시오"
+
+#: 7949764-0-51642
+msgctxt "7949764-0-51642"
+msgid "Search the General's Body"
+msgstr "장군의 시신을 조사하기"
+
+#: 7949764-0-51641
+#, fuzzy
+msgctxt "7949764-0-51641"
+msgid "Defeat the Imposter"
+msgstr "사기꾼 패배-G-"
+
+#: 7949764-0-51640
+#, fuzzy
+msgctxt "7949764-0-51640"
+msgid "Defeat the Imposter"
+msgstr "사기꾼 패배-G-"
+
+#: 7949764-0-51639
+#, fuzzy
+msgctxt "7949764-0-51639"
+msgid "Go to the Deciphered Location"
+msgstr "해독 된 위치로 이동-G-"
+
+#: 7949764-0-51638
+msgctxt "7949764-0-51638"
+msgid "Talk to Razum-Dar"
+msgstr "라줌-다르와 대화하기"
+
+#: 7949764-0-51636
+#, fuzzy
+msgctxt "7949764-0-51636"
+msgid "Collect Cross-Cultural Relic"
+msgstr "이문화 유물 수집-G-"
+
+#: 7949764-0-51635
+#, fuzzy
+msgctxt "7949764-0-51635"
+msgid "Collect Personal Relic"
+msgstr "개인 유물 수집-G-"
+
+#: 7949764-0-51634
+msgctxt "7949764-0-51634"
+msgid "Examine the Journal"
+msgstr "일지 조사하기"
+
+#: 7949764-0-51630
+#, fuzzy
+msgctxt "7949764-0-51630"
+msgid "Left Lyra"
+msgstr "왼쪽 라이라-G-"
+
+#: 7949764-0-51629
+msgctxt "7949764-0-51629"
+msgid "Wait for Mirabelle"
+msgstr "미라벨을 기다리기"
+
+#: 7949764-0-51628
+msgctxt "7949764-0-51628"
+msgid "Follow Lyra"
+msgstr "리리스를 따라가기"
+
+#: 7949764-0-51626
+msgctxt "7949764-0-51626"
+msgid "Examine Statues"
+msgstr "조각상을 조사하기"
+
+#: 7949764-0-51625
+msgctxt "7949764-0-51625"
+msgid "Find Mirabelle"
+msgstr "미라벨을 찾기"
+
+#: 7949764-0-51624
+msgctxt "7949764-0-51624"
+msgid "Talk to Mirabelle"
+msgstr "미라벨과 대화하기"
+
+#: 7949764-0-51616
+#, fuzzy
+msgctxt "7949764-0-51616"
+msgid "Conquer the Kvatch Arena"
+msgstr "Kvatch Arena를 정복하십시오-G-"
+
+#: 7949764-0-51615
+#, fuzzy
+msgctxt "7949764-0-51615"
+msgid "Survive multiple fights to face a Grand Gladiator."
+msgstr "웅장한 검투 사와 대결하기 위해 여러 경기에서 살아남습니다.-G-"
+
+#: 7949764-0-51614
+msgctxt "7949764-0-51614"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51613
+msgctxt "7949764-0-51613"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51612
+msgctxt "7949764-0-51612"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51611
+msgctxt "7949764-0-51611"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51610
+msgctxt "7949764-0-51610"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51609
+msgctxt "7949764-0-51609"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51608
+msgctxt "7949764-0-51608"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51592
+msgctxt "7949764-0-51592"
+msgid "Talk to Rigurt"
+msgstr "리거트와 대화하기"
+
+#: 7949764-0-51578
+msgctxt "7949764-0-51578"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51577
+msgctxt "7949764-0-51577"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51576
+msgctxt "7949764-0-51576"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51575
+msgctxt "7949764-0-51575"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51574
+msgctxt "7949764-0-51574"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51573
+msgctxt "7949764-0-51573"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51572
+msgctxt "7949764-0-51572"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51571
+msgctxt "7949764-0-51571"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51570
+msgctxt "7949764-0-51570"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51569
+msgctxt "7949764-0-51569"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51567
+msgctxt "7949764-0-51567"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51565
+msgctxt "7949764-0-51565"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51563
+msgctxt "7949764-0-51563"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51561
+msgctxt "7949764-0-51561"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51559
+#, fuzzy
+msgctxt "7949764-0-51559"
+msgid "Search Shrine of Akatosh"
+msgstr "Akatosh의 신사 검색-G-"
+
+#: 7949764-0-51523
+msgctxt "7949764-0-51523"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51522
+msgctxt "7949764-0-51522"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51521
+msgctxt "7949764-0-51521"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51520
+msgctxt "7949764-0-51520"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51519
+msgctxt "7949764-0-51519"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51518
+msgctxt "7949764-0-51518"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51517
+msgctxt "7949764-0-51517"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>을(를) 파괴하기"
+
+#: 7949764-0-51516
+msgctxt "7949764-0-51516"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51514
+msgctxt "7949764-0-51514"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51512
+msgctxt "7949764-0-51512"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51510
+msgctxt "7949764-0-51510"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51509
+msgctxt "7949764-0-51509"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51508
+msgctxt "7949764-0-51508"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51504
+msgctxt "7949764-0-51504"
+msgid "Complete the Optional Objectives"
+msgstr "선택 목표 완수하기"
+
+#: 7949764-0-51316
+msgctxt "7949764-0-51316"
+msgid "<<1>> Alerted"
+msgstr "<<1>>은 경계중"
+
+#: 7949764-0-51310
+#, fuzzy
+msgctxt "7949764-0-51310"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51308
+msgctxt "7949764-0-51308"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-51307
+msgctxt "7949764-0-51307"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51306
+msgctxt "7949764-0-51306"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51305
+msgctxt "7949764-0-51305"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51304
+msgctxt "7949764-0-51304"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51303
+#, fuzzy
+msgctxt "7949764-0-51303"
+msgid "Return to SpeakerTerenus"
+msgstr "SpeakerTerenus (으)로 돌아 가기-G-"
+
+#: 7949764-0-51302
+msgctxt "7949764-0-51302"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51301
+#, fuzzy
+msgctxt "7949764-0-51301"
+msgid "Return to SpeakerTerenus"
+msgstr "SpeakerTerenus (으)로 돌아 가기-G-"
+
+#: 7949764-0-51289
+#, fuzzy
+msgctxt "7949764-0-51289"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51287
+#, fuzzy
+msgctxt "7949764-0-51287"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-51286
+#, fuzzy
+msgctxt "7949764-0-51286"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-51285
+#, fuzzy
+msgctxt "7949764-0-51285"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-51284
+#, fuzzy
+msgctxt "7949764-0-51284"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-51276
+#, fuzzy
+msgctxt "7949764-0-51276"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-51275
+#, fuzzy
+msgctxt "7949764-0-51275"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-51266
+#, fuzzy
+msgctxt "7949764-0-51266"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-51256
+#, fuzzy
+msgctxt "7949764-0-51256"
+msgid "<<1>> Alerted"
+msgstr "<<1>> 경고-G-"
+
+#: 7949764-0-51250
+#, fuzzy
+msgctxt "7949764-0-51250"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51248
+msgctxt "7949764-0-51248"
+msgid "Talk to <<1>> to Travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-51247
+msgctxt "7949764-0-51247"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51246
+msgctxt "7949764-0-51246"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51245
+msgctxt "7949764-0-51245"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51244
+msgctxt "7949764-0-51244"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51243
+msgctxt "7949764-0-51243"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51242
+msgctxt "7949764-0-51242"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51241
+msgctxt "7949764-0-51241"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51229
+#, fuzzy
+msgctxt "7949764-0-51229"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51227
+#, fuzzy
+msgctxt "7949764-0-51227"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-51226
+#, fuzzy
+msgctxt "7949764-0-51226"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-51225
+#, fuzzy
+msgctxt "7949764-0-51225"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-51224
+#, fuzzy
+msgctxt "7949764-0-51224"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-51216
+#, fuzzy
+msgctxt "7949764-0-51216"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-51215
+#, fuzzy
+msgctxt "7949764-0-51215"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-51206
+#, fuzzy
+msgctxt "7949764-0-51206"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-51196
+#, fuzzy
+msgctxt "7949764-0-51196"
+msgid "<<1>> Alerted"
+msgstr "<<1>> 경고-G-"
+
+#: 7949764-0-51190
+#, fuzzy
+msgctxt "7949764-0-51190"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51188
+msgctxt "7949764-0-51188"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-51187
+msgctxt "7949764-0-51187"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51186
+msgctxt "7949764-0-51186"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51185
+msgctxt "7949764-0-51185"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51184
+msgctxt "7949764-0-51184"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51183
+msgctxt "7949764-0-51183"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51182
+msgctxt "7949764-0-51182"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51181
+msgctxt "7949764-0-51181"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-51169
+#, fuzzy
+msgctxt "7949764-0-51169"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-51167
+#, fuzzy
+msgctxt "7949764-0-51167"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-51166
+#, fuzzy
+msgctxt "7949764-0-51166"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-51165
+#, fuzzy
+msgctxt "7949764-0-51165"
+msgid "<<1>> is Calm"
+msgstr "<<1>>은 고요합니다.-G-"
+
+#: 7949764-0-51164
+#, fuzzy
+msgctxt "7949764-0-51164"
+msgid "<<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-51156
+#, fuzzy
+msgctxt "7949764-0-51156"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-51155
+#, fuzzy
+msgctxt "7949764-0-51155"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-51146
+#, fuzzy
+msgctxt "7949764-0-51146"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-50956
+msgctxt "7949764-0-50956"
+msgid "<<1>> Alerted"
+msgstr "<<1>>은 경계중"
+
+#: 7949764-0-50950
+#, fuzzy
+msgctxt "7949764-0-50950"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50948
+msgctxt "7949764-0-50948"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-50947
+msgctxt "7949764-0-50947"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50946
+msgctxt "7949764-0-50946"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50945
+msgctxt "7949764-0-50945"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50944
+msgctxt "7949764-0-50944"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50943
+msgctxt "7949764-0-50943"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50942
+msgctxt "7949764-0-50942"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50941
+#, fuzzy
+msgctxt "7949764-0-50941"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50929
+#, fuzzy
+msgctxt "7949764-0-50929"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50927
+#, fuzzy
+msgctxt "7949764-0-50927"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50926
+#, fuzzy
+msgctxt "7949764-0-50926"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50925
+#, fuzzy
+msgctxt "7949764-0-50925"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-50924
+#, fuzzy
+msgctxt "7949764-0-50924"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50916
+#, fuzzy
+msgctxt "7949764-0-50916"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50915
+#, fuzzy
+msgctxt "7949764-0-50915"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-50906
+#, fuzzy
+msgctxt "7949764-0-50906"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-50896
+#, fuzzy
+msgctxt "7949764-0-50896"
+msgid "<<1>> Alerted"
+msgstr "<<1>> 경고-G-"
+
+#: 7949764-0-50890
+#, fuzzy
+msgctxt "7949764-0-50890"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50888
+msgctxt "7949764-0-50888"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-50887
+#, fuzzy
+msgctxt "7949764-0-50887"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50886
+#, fuzzy
+msgctxt "7949764-0-50886"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50885
+#, fuzzy
+msgctxt "7949764-0-50885"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50884
+#, fuzzy
+msgctxt "7949764-0-50884"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50883
+#, fuzzy
+msgctxt "7949764-0-50883"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50882
+#, fuzzy
+msgctxt "7949764-0-50882"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50881
+#, fuzzy
+msgctxt "7949764-0-50881"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50869
+#, fuzzy
+msgctxt "7949764-0-50869"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50867
+#, fuzzy
+msgctxt "7949764-0-50867"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50866
+#, fuzzy
+msgctxt "7949764-0-50866"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50865
+#, fuzzy
+msgctxt "7949764-0-50865"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-50864
+#, fuzzy
+msgctxt "7949764-0-50864"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50856
+#, fuzzy
+msgctxt "7949764-0-50856"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50855
+#, fuzzy
+msgctxt "7949764-0-50855"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-50846
+msgctxt "7949764-0-50846"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>>은 경계하고 있지 않다"
+
+#: 7949764-0-50836
+msgctxt "7949764-0-50836"
+msgid "<<1>> Alerted"
+msgstr "<<1>>은 경계중"
+
+#: 7949764-0-50830
+#, fuzzy
+msgctxt "7949764-0-50830"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50828
+msgctxt "7949764-0-50828"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-50827
+#, fuzzy
+msgctxt "7949764-0-50827"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50826
+#, fuzzy
+msgctxt "7949764-0-50826"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50825
+#, fuzzy
+msgctxt "7949764-0-50825"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50824
+#, fuzzy
+msgctxt "7949764-0-50824"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50823
+#, fuzzy
+msgctxt "7949764-0-50823"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50822
+#, fuzzy
+msgctxt "7949764-0-50822"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50821
+#, fuzzy
+msgctxt "7949764-0-50821"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50809
+msgctxt "7949764-0-50809"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독관이 오기 전에 떠나기"
+
+#: 7949764-0-50807
+#, fuzzy
+msgctxt "7949764-0-50807"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50806
+#, fuzzy
+msgctxt "7949764-0-50806"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50805
+#, fuzzy
+msgctxt "7949764-0-50805"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-50804
+msgctxt "7949764-0-50804"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 경계하고 있지 않다"
+
+#: 7949764-0-50796
+#, fuzzy
+msgctxt "7949764-0-50796"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50795
+#, fuzzy
+msgctxt "7949764-0-50795"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-50786
+#, fuzzy
+msgctxt "7949764-0-50786"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-50602
+msgctxt "7949764-0-50602"
+msgid "Use a Wayshrine or Boat to Travel to Anvil"
+msgstr "여행자의 성소나 배를 이용해 앤빌로 이동하기"
+
+#: 7949764-0-50595
+#, fuzzy
+msgctxt "7949764-0-50595"
+msgid "<<1>> Alerted"
+msgstr "<<1>> 경고-G-"
+
+#: 7949764-0-50589
+msgctxt "7949764-0-50589"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독관이 오기 전에 떠나기"
+
+#: 7949764-0-50587
+msgctxt "7949764-0-50587"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-50586
+#, fuzzy
+msgctxt "7949764-0-50586"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50585
+#, fuzzy
+msgctxt "7949764-0-50585"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50584
+#, fuzzy
+msgctxt "7949764-0-50584"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50583
+#, fuzzy
+msgctxt "7949764-0-50583"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50582
+#, fuzzy
+msgctxt "7949764-0-50582"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50581
+#, fuzzy
+msgctxt "7949764-0-50581"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50580
+#, fuzzy
+msgctxt "7949764-0-50580"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50568
+#, fuzzy
+msgctxt "7949764-0-50568"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50566
+#, fuzzy
+msgctxt "7949764-0-50566"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50565
+#, fuzzy
+msgctxt "7949764-0-50565"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50564
+#, fuzzy
+msgctxt "7949764-0-50564"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-50563
+#, fuzzy
+msgctxt "7949764-0-50563"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50555
+#, fuzzy
+msgctxt "7949764-0-50555"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50554
+#, fuzzy
+msgctxt "7949764-0-50554"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-50547
+msgctxt "7949764-0-50547"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50545
+#, fuzzy
+msgctxt "7949764-0-50545"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-50543
+msgctxt "7949764-0-50543"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50542
+msgctxt "7949764-0-50542"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50535
+#, fuzzy
+msgctxt "7949764-0-50535"
+msgid "<<1>> Alerted"
+msgstr "<<1>> 경고-G-"
+
+#: 7949764-0-50529
+#, fuzzy
+msgctxt "7949764-0-50529"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50527
+msgctxt "7949764-0-50527"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-50526
+msgctxt "7949764-0-50526"
+msgid "Return to Speaker Terenus"
+msgstr "스피커 테레누스에게 돌아가기"
+
+#: 7949764-0-50525
+#, fuzzy
+msgctxt "7949764-0-50525"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50524
+#, fuzzy
+msgctxt "7949764-0-50524"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50523
+#, fuzzy
+msgctxt "7949764-0-50523"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50522
+#, fuzzy
+msgctxt "7949764-0-50522"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50521
+#, fuzzy
+msgctxt "7949764-0-50521"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50520
+#, fuzzy
+msgctxt "7949764-0-50520"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-50508
+msgctxt "7949764-0-50508"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독관이 오기 전에 떠나기"
+
+#: 7949764-0-50506
+#, fuzzy
+msgctxt "7949764-0-50506"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50505
+#, fuzzy
+msgctxt "7949764-0-50505"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-50504
+#, fuzzy
+msgctxt "7949764-0-50504"
+msgid "The <<1>> is Calm"
+msgstr "<<1>>은 조용합니다.-G-"
+
+#: 7949764-0-50503
+#, fuzzy
+msgctxt "7949764-0-50503"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 Alert에 있습니다.-G-"
+
+#: 7949764-0-50495
+msgctxt "7949764-0-50495"
+msgid "The <<1>> is on Alert"
+msgstr "<<1>>은 경계하고 있다"
+
+#: 7949764-0-50494
+#, fuzzy
+msgctxt "7949764-0-50494"
+msgid "Alert Status"
+msgstr "알림 상태-G-"
+
+#: 7949764-0-50487
+msgctxt "7949764-0-50487"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50485
+#, fuzzy
+msgctxt "7949764-0-50485"
+msgid "Don't Alert the <<1>>"
+msgstr "<<1>> 경고하지 마라.-G-"
+
+#: 7949764-0-50483
+msgctxt "7949764-0-50483"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50482
+msgctxt "7949764-0-50482"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50481
+#, fuzzy
+msgctxt "7949764-0-50481"
+msgid "Meet Naryu At the Kvatch Inn"
+msgstr "Naryu을 Kvatch Inn에서 만나십시오.-G-"
+
+#: 7949764-0-50480
+#, fuzzy
+msgctxt "7949764-0-50480"
+msgid "Meet Raz at the Enchanter's Shop"
+msgstr "마도사의 샵에서 Raz 만나기-G-"
+
+#: 7949764-0-50479
+msgctxt "7949764-0-50479"
+msgid "Kill Louna"
+msgstr "로우나 죽이기"
+
+#: 7949764-0-50478
+#, fuzzy
+msgctxt "7949764-0-50478"
+msgid "Let Louna Live"
+msgstr "Louna를 살게하십시오-G-"
+
+#: 7949764-0-50477
+msgctxt "7949764-0-50477"
+msgid "Talk to Your Companions"
+msgstr "동료들과 대화하기"
+
+#: 7949764-0-50474
+#, fuzzy
+msgctxt "7949764-0-50474"
+msgid "Investigate the Farmhouse"
+msgstr "농가 조사-G-"
+
+#: 7949764-0-50473
+#, fuzzy
+msgctxt "7949764-0-50473"
+msgid "Wait to be Judged"
+msgstr "기다릴 심판-G-"
+
+#: 7949764-0-50472
+msgctxt "7949764-0-50472"
+msgid "Talk to Green-Venom-Tongue"
+msgstr "그린-베놈-텅과 대화하기"
+
+#: 7949764-0-50471
+msgctxt "7949764-0-50471"
+msgid "Meet Green-Venom-Tongue in Kvatch"
+msgstr "크바치에서 그린-베놈-텅 만나기"
+
+#: 7949764-0-50468
+#, fuzzy
+msgctxt "7949764-0-50468"
+msgid "Learn Lyra's Fate"
+msgstr "Lyra의 운명을 배우십시오.-G-"
+
+#: 7949764-0-50459
+#, fuzzy
+msgctxt "7949764-0-50459"
+msgid "<<1>> Alerted"
+msgstr "<<1>> 경고-G-"
+
+#: 7949764-0-50453
+#, fuzzy
+msgctxt "7949764-0-50453"
+msgid "Leave Before the Overseer Arrives"
+msgstr "감독자가 도착하기 전에 떠나십시오.-G-"
+
+#: 7949764-0-50451
+#, fuzzy
+msgctxt "7949764-0-50451"
+msgid "Inquire at the Blacksmith"
+msgstr "대장장이에게 물어보기-G-"
+
+#: 7949764-0-50450
+#, fuzzy
+msgctxt "7949764-0-50450"
+msgid "Find Jakja"
+msgstr "자자 찾기-G-"
+
+#: 7949764-0-50449
+#, fuzzy
+msgctxt "7949764-0-50449"
+msgid "Find Hiwoud"
+msgstr "Hiwoud 찾기-G-"
+
+#: 7949764-0-50447
+#, fuzzy
+msgctxt "7949764-0-50447"
+msgid "Report to Your Allies"
+msgstr "동맹국에보고하기-G-"
+
+#: 7949764-0-50446
+msgctxt "7949764-0-50446"
+msgid "Recover the Signet Ring of Bravil"
+msgstr "브라빌 인감 반지 회수하기"
+
+#: 7949764-0-50445
+msgctxt "7949764-0-50445"
+msgid "Recover the Tax Collector's Ledger"
+msgstr "세무 관리의 장부 회수하기"
+
+#: 7949764-0-50444
+msgctxt "7949764-0-50444"
+msgid "Recover the City of Bravil Seal"
+msgstr "브라빌 도시 인장 회수하기"
+
+#: 7949764-0-50441
+msgctxt "7949764-0-50441"
+msgid "Find Reman at the Gold Coast Trading Company"
+msgstr "골드 코스트 무역 회사에서 레만 찾기"
+
+#: 7949764-0-50440
+msgctxt "7949764-0-50440"
+msgid "Meet Naryu and Razum-dar in Anvil"
+msgstr "앤빌에서 나류와 라줌-다르 만나기"
+
+#: 7949764-0-50294
+#, fuzzy
+msgctxt "7949764-0-50294"
+msgid "Perch Above the Sport Fighters"
+msgstr "스포츠 퍼레이드 위의 퍼 치-G-"
+
+#: 7949764-0-50293
+#, fuzzy
+msgctxt "7949764-0-50293"
+msgid "Eternal Knight"
+msgstr "영원한 기사-G-"
+
+#: 7949764-0-50292
+#, fuzzy
+msgctxt "7949764-0-50292"
+msgid "Where We Gaze Down On the Streets"
+msgstr "우리가 거리에서 시선을 피우는 곳-G-"
+
+#: 7949764-0-50291
+#, fuzzy
+msgctxt "7949764-0-50291"
+msgid "Wolf's Everlasting Stream"
+msgstr "늑대의 영원한 시내-G-"
+
+#: 7949764-0-50289
+#, fuzzy
+msgctxt "7949764-0-50289"
+msgid "Find the Hidden Messages"
+msgstr "숨겨진 메시지 찾기-G-"
+
+#: 7949764-0-50288
+msgctxt "7949764-0-50288"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50287
+msgctxt "7949764-0-50287"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50286
+msgctxt "7949764-0-50286"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50285
+msgctxt "7949764-0-50285"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50284
+msgctxt "7949764-0-50284"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50283
+msgctxt "7949764-0-50283"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50282
+msgctxt "7949764-0-50282"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50281
+msgctxt "7949764-0-50281"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50280
+msgctxt "7949764-0-50280"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50279
+msgctxt "7949764-0-50279"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50278
+msgctxt "7949764-0-50278"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50277
+msgctxt "7949764-0-50277"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50276
+msgctxt "7949764-0-50276"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50275
+msgctxt "7949764-0-50275"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50274
+msgctxt "7949764-0-50274"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50273
+msgctxt "7949764-0-50273"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50272
+msgctxt "7949764-0-50272"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50271
+msgctxt "7949764-0-50271"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50270
+msgctxt "7949764-0-50270"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50269
+msgctxt "7949764-0-50269"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50268
+msgctxt "7949764-0-50268"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50267
+msgctxt "7949764-0-50267"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50266
+msgctxt "7949764-0-50266"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50265
+#, fuzzy
+msgctxt "7949764-0-50265"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50264
+#, fuzzy
+msgctxt "7949764-0-50264"
+msgid "Murder Citizens"
+msgstr "살인 시민-G-"
+
+#: 7949764-0-50263
+#, fuzzy
+msgctxt "7949764-0-50263"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50262
+msgctxt "7949764-0-50262"
+msgid "Murder Citizens in Shor's Stone"
+msgstr "Shor's Stone에서 시민 살해하기"
+
+#: 7949764-0-50261
+#, fuzzy
+msgctxt "7949764-0-50261"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50260
+#, fuzzy
+msgctxt "7949764-0-50260"
+msgid "Murder Citizens"
+msgstr "살인 시민-G-"
+
+#: 7949764-0-50259
+#, fuzzy
+msgctxt "7949764-0-50259"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50258
+msgctxt "7949764-0-50258"
+msgid "Murder Citizens in Riften"
+msgstr "리프튼(Riften)에서 시민 살해하기"
+
+#: 7949764-0-50257
+#, fuzzy
+msgctxt "7949764-0-50257"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50256
+#, fuzzy
+msgctxt "7949764-0-50256"
+msgid "Murder Citizens"
+msgstr "살인 시민-G-"
+
+#: 7949764-0-50255
+#, fuzzy
+msgctxt "7949764-0-50255"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50254
+msgctxt "7949764-0-50254"
+msgid "Murder Citizens in Nimalten"
+msgstr "Nimalten에서 시민 살해하기"
+
+#: 7949764-0-50253
+#, fuzzy
+msgctxt "7949764-0-50253"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50252
+#, fuzzy
+msgctxt "7949764-0-50252"
+msgid "Murder Citizens"
+msgstr "살인 시민-G-"
+
+#: 7949764-0-50251
+#, fuzzy
+msgctxt "7949764-0-50251"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50250
+msgctxt "7949764-0-50250"
+msgid "Murder Citizens in Wayrest"
+msgstr "Wayrest에서 시민 살해하기"
+
+#: 7949764-0-50249
+#, fuzzy
+msgctxt "7949764-0-50249"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50248
+#, fuzzy
+msgctxt "7949764-0-50248"
+msgid "Murder Citizens"
+msgstr "살인 시민-G-"
+
+#: 7949764-0-50247
+#, fuzzy
+msgctxt "7949764-0-50247"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50246
+#, fuzzy
+msgctxt "7949764-0-50246"
+msgid "Murder Citizens in Koeglin Village"
+msgstr "Koeglin 마을에서 살인 시민-G-"
+
+#: 7949764-0-50245
+#, fuzzy
+msgctxt "7949764-0-50245"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50244
+msgctxt "7949764-0-50244"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50243
+#, fuzzy
+msgctxt "7949764-0-50243"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50242
+#, fuzzy
+msgctxt "7949764-0-50242"
+msgid "Murder Citizens in Alcaire Castle"
+msgstr "Alcaire 성에서 살인 시민-G-"
+
+#: 7949764-0-50241
+msgctxt "7949764-0-50241"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50240
+#, fuzzy
+msgctxt "7949764-0-50240"
+msgid "Go to Kvatch"
+msgstr "Kvatch로 이동-G-"
+
+#: 7949764-0-50239
+#, fuzzy
+msgctxt "7949764-0-50239"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50238
+msgctxt "7949764-0-50238"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50237
+#, fuzzy
+msgctxt "7949764-0-50237"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50236
+msgctxt "7949764-0-50236"
+msgid "Murder Citizens in Kragenmoor"
+msgstr "Kragenmoor에서 시민 살해하기"
+
+#: 7949764-0-50235
+#, fuzzy
+msgctxt "7949764-0-50235"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50234
+msgctxt "7949764-0-50234"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50233
+#, fuzzy
+msgctxt "7949764-0-50233"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50232
+msgctxt "7949764-0-50232"
+msgid "Murder Citizens in Ebonheart"
+msgstr "에본하트의 시민을 죽이십시오"
+
+#: 7949764-0-50231
+#, fuzzy
+msgctxt "7949764-0-50231"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50230
+msgctxt "7949764-0-50230"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50229
+#, fuzzy
+msgctxt "7949764-0-50229"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50228
+msgctxt "7949764-0-50228"
+msgid "Murder Citizens in Davon's Watch"
+msgstr "Davon's Watch의 시민 살해하기"
+
+#: 7949764-0-50227
+#, fuzzy
+msgctxt "7949764-0-50227"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50226
+msgctxt "7949764-0-50226"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50225
+#, fuzzy
+msgctxt "7949764-0-50225"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50224
+msgctxt "7949764-0-50224"
+msgid "Murder Citizens in Stormhold"
+msgstr "스톰홀드(Stormhold)의 시민 살해하기"
+
+#: 7949764-0-50223
+#, fuzzy
+msgctxt "7949764-0-50223"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50222
+msgctxt "7949764-0-50222"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50221
+#, fuzzy
+msgctxt "7949764-0-50221"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50220
+msgctxt "7949764-0-50220"
+msgid "Murder Citizens in Mud Tree Village"
+msgstr "Mud Tree Village에서 시민 살해하기"
+
+#: 7949764-0-50219
+#, fuzzy
+msgctxt "7949764-0-50219"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50218
+msgctxt "7949764-0-50218"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50217
+#, fuzzy
+msgctxt "7949764-0-50217"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50216
+msgctxt "7949764-0-50216"
+msgid "Murder Citizens in Hissmir"
+msgstr "히스미르에서 시민 살해하기"
+
+#: 7949764-0-50215
+#, fuzzy
+msgctxt "7949764-0-50215"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50214
+msgctxt "7949764-0-50214"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50213
+#, fuzzy
+msgctxt "7949764-0-50213"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50212
+msgctxt "7949764-0-50212"
+msgid "Murder Citizens in Shornhelm"
+msgstr "Shornhelm에서 시민 살해하기"
+
+#: 7949764-0-50211
+#, fuzzy
+msgctxt "7949764-0-50211"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50210
+msgctxt "7949764-0-50210"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50209
+#, fuzzy
+msgctxt "7949764-0-50209"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50208
+msgctxt "7949764-0-50208"
+msgid "Murder Citizens in Oldgate"
+msgstr "Oldgate에서 시민 살해하기"
+
+#: 7949764-0-50207
+#, fuzzy
+msgctxt "7949764-0-50207"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50206
+msgctxt "7949764-0-50206"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50205
+#, fuzzy
+msgctxt "7949764-0-50205"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50204
+msgctxt "7949764-0-50204"
+msgid "Murder Citizens in Hoarfrost Downs"
+msgstr "Hoarfrost Downs에서 시민 살해하기"
+
+#: 7949764-0-50202
+#, fuzzy
+msgctxt "7949764-0-50202"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50201
+msgctxt "7949764-0-50201"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50200
+#, fuzzy
+msgctxt "7949764-0-50200"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50199
+#, fuzzy
+msgctxt "7949764-0-50199"
+msgid "Murder Citizens in Thizzrini Arena"
+msgstr "Thizzrini Arena에서 살인 시민-G-"
+
+#: 7949764-0-50198
+#, fuzzy
+msgctxt "7949764-0-50198"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50197
+msgctxt "7949764-0-50197"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50196
+#, fuzzy
+msgctxt "7949764-0-50196"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50195
+#, fuzzy
+msgctxt "7949764-0-50195"
+msgid "Murder Citizens in Rawl'kha"
+msgstr "Rawl'kha에서 살인 시민-G-"
+
+#: 7949764-0-50194
+#, fuzzy
+msgctxt "7949764-0-50194"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50193
+msgctxt "7949764-0-50193"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50192
+#, fuzzy
+msgctxt "7949764-0-50192"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50191
+#, fuzzy
+msgctxt "7949764-0-50191"
+msgid "Murder Citizens in Greenhill"
+msgstr "Greenhill에서 살인 시민-G-"
+
+#: 7949764-0-50190
+#, fuzzy
+msgctxt "7949764-0-50190"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50189
+msgctxt "7949764-0-50189"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50188
+#, fuzzy
+msgctxt "7949764-0-50188"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50187
+#, fuzzy
+msgctxt "7949764-0-50187"
+msgid "Murder Citizens in Vulkwasten"
+msgstr "Vulkwasten에 살인 시민-G-"
+
+#: 7949764-0-50186
+#, fuzzy
+msgctxt "7949764-0-50186"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50185
+msgctxt "7949764-0-50185"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50184
+#, fuzzy
+msgctxt "7949764-0-50184"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50183
+msgctxt "7949764-0-50183"
+msgid "Murder Citizens in Tanglehaven"
+msgstr "엉킨안식처에서 시민을 살해하기"
+
+#: 7949764-0-50182
+#, fuzzy
+msgctxt "7949764-0-50182"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50181
+msgctxt "7949764-0-50181"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50180
+#, fuzzy
+msgctxt "7949764-0-50180"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50179
+#, fuzzy
+msgctxt "7949764-0-50179"
+msgid "Murder Citizens in Baandari Trading Post"
+msgstr "Baandari Trading Post에서 살인 시민-G-"
+
+#: 7949764-0-50178
+#, fuzzy
+msgctxt "7949764-0-50178"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50177
+msgctxt "7949764-0-50177"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50176
+#, fuzzy
+msgctxt "7949764-0-50176"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50175
+msgctxt "7949764-0-50175"
+msgid "Murder Citizens in Woodhearth"
+msgstr "우드하스에서 시민을 살해하기"
+
+#: 7949764-0-50174
+#, fuzzy
+msgctxt "7949764-0-50174"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50173
+msgctxt "7949764-0-50173"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50172
+#, fuzzy
+msgctxt "7949764-0-50172"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50171
+#, fuzzy
+msgctxt "7949764-0-50171"
+msgid "Murder Citizens in Marbruk"
+msgstr "Marbruk에서 살인 시민-G-"
+
+#: 7949764-0-50170
+#, fuzzy
+msgctxt "7949764-0-50170"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50169
+msgctxt "7949764-0-50169"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50168
+#, fuzzy
+msgctxt "7949764-0-50168"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50167
+msgctxt "7949764-0-50167"
+msgid "Murder Citizens in Bramblebreach"
+msgstr "가시덤불틈새에서 시민을 죽이기"
+
+#: 7949764-0-50166
+#, fuzzy
+msgctxt "7949764-0-50166"
+msgid "Explore the Cradle of Shadows"
+msgstr "그림자의 요람 탐험-G-"
+
+#: 7949764-0-50165
+msgctxt "7949764-0-50165"
+msgid "Exit Subzone"
+msgstr "서브존에서 나오기"
+
+#: 7949764-0-50164
+msgctxt "7949764-0-50164"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50163
+#, fuzzy
+msgctxt "7949764-0-50163"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50162
+#, fuzzy
+msgctxt "7949764-0-50162"
+msgid "Murder Citizens in Redfur Trading Post"
+msgstr "Redfur Trading Post에서 살인 시민-G-"
+
+#: 7949764-0-50161
+#, fuzzy
+msgctxt "7949764-0-50161"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50160
+msgctxt "7949764-0-50160"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50159
+#, fuzzy
+msgctxt "7949764-0-50159"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50158
+msgctxt "7949764-0-50158"
+msgid "Murder Citizens in Elden Root"
+msgstr "엘든 루트의 시민을 죽이십시오"
+
+#: 7949764-0-50157
+#, fuzzy
+msgctxt "7949764-0-50157"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50156
+msgctxt "7949764-0-50156"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50155
+#, fuzzy
+msgctxt "7949764-0-50155"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50154
+#, fuzzy
+msgctxt "7949764-0-50154"
+msgid "Murder Citizens in the Lion Guard Redoubt"
+msgstr "사자 가드 Redoubt에서 시민을 살해하십시오.-G-"
+
+#: 7949764-0-50153
+#, fuzzy
+msgctxt "7949764-0-50153"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50152
+msgctxt "7949764-0-50152"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50151
+#, fuzzy
+msgctxt "7949764-0-50151"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50150
+msgctxt "7949764-0-50150"
+msgid "Murder Citizens in Daggerfall"
+msgstr "대거폴의 시민을 죽이십시오"
+
+#: 7949764-0-50149
+#, fuzzy
+msgctxt "7949764-0-50149"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50148
+msgctxt "7949764-0-50148"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50147
+#, fuzzy
+msgctxt "7949764-0-50147"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50146
+#, fuzzy
+msgctxt "7949764-0-50146"
+msgid "Murder Citizens in Aldcroft"
+msgstr "Aldcroft의 살인 시민-G-"
+
+#: 7949764-0-50145
+#, fuzzy
+msgctxt "7949764-0-50145"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50144
+msgctxt "7949764-0-50144"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50143
+#, fuzzy
+msgctxt "7949764-0-50143"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50142
+msgctxt "7949764-0-50142"
+msgid "Murder Citizens in Windhelm"
+msgstr "윈드헬름의 시민을 죽이십시오"
+
+#: 7949764-0-50141
+#, fuzzy
+msgctxt "7949764-0-50141"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50140
+msgctxt "7949764-0-50140"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50139
+#, fuzzy
+msgctxt "7949764-0-50139"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50138
+#, fuzzy
+msgctxt "7949764-0-50138"
+msgid "Murder Citizens in Jorunn's Stand"
+msgstr "Jorunn 's Stand에서 살인 시민-G-"
+
+#: 7949764-0-50137
+#, fuzzy
+msgctxt "7949764-0-50137"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50136
+msgctxt "7949764-0-50136"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50135
+#, fuzzy
+msgctxt "7949764-0-50135"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50134
+msgctxt "7949764-0-50134"
+msgid "Murder Citizens in Fort Amol"
+msgstr "아몰 요새의 주민을 살해하기"
+
+#: 7949764-0-50133
+#, fuzzy
+msgctxt "7949764-0-50133"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50132
+msgctxt "7949764-0-50132"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50131
+#, fuzzy
+msgctxt "7949764-0-50131"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50130
+#, fuzzy
+msgctxt "7949764-0-50130"
+msgid "Murder Citizens in Tal'Deic Fortress"
+msgstr "Tal'Deic Fortress의 살인 시민-G-"
+
+#: 7949764-0-50129
+#, fuzzy
+msgctxt "7949764-0-50129"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50128
+msgctxt "7949764-0-50128"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50127
+msgctxt "7949764-0-50127"
+msgid "Enter Subzone"
+msgstr "서브존에 들어가기"
+
+#: 7949764-0-50126
+msgctxt "7949764-0-50126"
+msgid "Murder Citizens in Mournhold"
+msgstr "모운홀드의 시민을 죽이십시오"
+
+#: 7949764-0-50125
+#, fuzzy
+msgctxt "7949764-0-50125"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50124
+msgctxt "7949764-0-50124"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50123
+#, fuzzy
+msgctxt "7949764-0-50123"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50122
+msgctxt "7949764-0-50122"
+msgid "Murder Citizens in Narsis"
+msgstr "나르시스에서 시민을 살해하기"
+
+#: 7949764-0-50121
+msgctxt "7949764-0-50121"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50120
+msgctxt "7949764-0-50120"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50119
+msgctxt "7949764-0-50119"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50118
+msgctxt "7949764-0-50118"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50117
+msgctxt "7949764-0-50117"
+msgid "Go to the Riften Fighters Guild"
+msgstr "리프튼(Riften) 파이터 길드로 이동하기"
+
+#: 7949764-0-50112
+#, fuzzy
+msgctxt "7949764-0-50112"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50111
+msgctxt "7949764-0-50111"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50110
+#, fuzzy
+msgctxt "7949764-0-50110"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50109
+msgctxt "7949764-0-50109"
+msgid "Murder Citizens in Evermore"
+msgstr "에버모어의 시민을 죽이십시오"
+
+#: 7949764-0-50108
+msgctxt "7949764-0-50108"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50107
+msgctxt "7949764-0-50107"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50106
+msgctxt "7949764-0-50106"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50105
+#, fuzzy
+msgctxt "7949764-0-50105"
+msgid "Go to Shor's Stone"
+msgstr "쇼어 스톤에게 가자.-G-"
+
+#: 7949764-0-50104
+#, fuzzy
+msgctxt "7949764-0-50104"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50103
+msgctxt "7949764-0-50103"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50102
+#, fuzzy
+msgctxt "7949764-0-50102"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50101
+msgctxt "7949764-0-50101"
+msgid "Murder Citizens in Vulkhel Guard"
+msgstr "벌켈 가드의 시민을 죽이십시오"
+
+#: 7949764-0-50100
+#, fuzzy
+msgctxt "7949764-0-50100"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50099
+msgctxt "7949764-0-50099"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50098
+#, fuzzy
+msgctxt "7949764-0-50098"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50097
+msgctxt "7949764-0-50097"
+msgid "Murder Citizens in Skywatch"
+msgstr "스카이워치의 시민을 죽이십시오"
+
+#: 7949764-0-50096
+#, fuzzy
+msgctxt "7949764-0-50096"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50095
+msgctxt "7949764-0-50095"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50094
+#, fuzzy
+msgctxt "7949764-0-50094"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50093
+#, fuzzy
+msgctxt "7949764-0-50093"
+msgid "Murder Citizens in Sentinel"
+msgstr "센티넬에 살해 시민-G-"
+
+#: 7949764-0-50092
+#, fuzzy
+msgctxt "7949764-0-50092"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50091
+msgctxt "7949764-0-50091"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50090
+#, fuzzy
+msgctxt "7949764-0-50090"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50089
+#, fuzzy
+msgctxt "7949764-0-50089"
+msgid "Murder Citizens in Bergama"
+msgstr "Bergama에서 살인 시민-G-"
+
+#: 7949764-0-50088
+msgctxt "7949764-0-50088"
+msgid "Murder Citizens in Kvatch"
+msgstr "크바치의 시민을 죽이십시오"
+
+#: 7949764-0-50087
+#, fuzzy
+msgctxt "7949764-0-50087"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50086
+#, fuzzy
+msgctxt "7949764-0-50086"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50085
+#, fuzzy
+msgctxt "7949764-0-50085"
+msgid "Exit Subzone"
+msgstr "하위 영역 종료-G-"
+
+#: 7949764-0-50084
+#, fuzzy
+msgctxt "7949764-0-50084"
+msgid "Enter Subzone"
+msgstr "하위 존 입력-G-"
+
+#: 7949764-0-50083
+msgctxt "7949764-0-50083"
+msgid "Murder Citizens in Anvil"
+msgstr "앤빌의 시민을 죽이십시오"
+
+#: 7949764-0-50082
+msgctxt "7949764-0-50082"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50081
+msgctxt "7949764-0-50081"
+msgid "Murder Citizens"
+msgstr "시민을 죽이십시오"
+
+#: 7949764-0-50080
+msgctxt "7949764-0-50080"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50079
+msgctxt "7949764-0-50079"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50078
+msgctxt "7949764-0-50078"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50077
+#, fuzzy
+msgctxt "7949764-0-50077"
+msgid "Go to the Riften Docks"
+msgstr "Riften Docks로 가십시오.-G-"
+
+#: 7949764-0-50076
+msgctxt "7949764-0-50076"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50075
+msgctxt "7949764-0-50075"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50074
+msgctxt "7949764-0-50074"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50073
+#, fuzzy
+msgctxt "7949764-0-50073"
+msgid "Go to Nimalten"
+msgstr "Nimalten (으)로 이동-G-"
+
+#: 7949764-0-50072
+msgctxt "7949764-0-50072"
+msgid "Investigate the River"
+msgstr "강 조사하기"
+
+#: 7949764-0-50071
+msgctxt "7949764-0-50071"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50070
+msgctxt "7949764-0-50070"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50069
+msgctxt "7949764-0-50069"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50068
+#, fuzzy
+msgctxt "7949764-0-50068"
+msgid "Go to Kragenmoor's Grandmaster Palace"
+msgstr "Kragenmoor의 그랜드 마스터 팰리스로 이동-G-"
+
+#: 7949764-0-50067
+msgctxt "7949764-0-50067"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50066
+msgctxt "7949764-0-50066"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50065
+msgctxt "7949764-0-50065"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50064
+#, fuzzy
+msgctxt "7949764-0-50064"
+msgid "Go to Fort Arand Headquarters"
+msgstr "포트 아 랜드 본사로 이동-G-"
+
+#: 7949764-0-50060
+msgctxt "7949764-0-50060"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-50059
+msgctxt "7949764-0-50059"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50058
+msgctxt "7949764-0-50058"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50057
+msgctxt "7949764-0-50057"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50056
+msgctxt "7949764-0-50056"
+msgid "Go to the Ebonheart Tribunal Temple"
+msgstr "에본하트의 트라이뷰널 신전으로 가기"
+
+#: 7949764-0-50048
+#, fuzzy
+msgctxt "7949764-0-50048"
+msgid "Follow Yarmia"
+msgstr "야먀를 따라 가라.-G-"
+
+#: 7949764-0-50047
+msgctxt "7949764-0-50047"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50046
+msgctxt "7949764-0-50046"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50045
+msgctxt "7949764-0-50045"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50044
+msgctxt "7949764-0-50044"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50043
+#, fuzzy
+msgctxt "7949764-0-50043"
+msgid "Go to Davon's Watch Docks"
+msgstr "Davon 's Watch Docks로 가십시오.-G-"
+
+#: 7949764-0-50042
+#, fuzzy
+msgctxt "7949764-0-50042"
+msgid "Talk to Yarmia"
+msgstr "Yarmia와 대화-G-"
+
+#: 7949764-0-50041
+#, fuzzy
+msgctxt "7949764-0-50041"
+msgid "Find Yarmia"
+msgstr "야 머 찾기-G-"
+
+#: 7949764-0-50040
+#, fuzzy
+msgctxt "7949764-0-50040"
+msgid "Follow Yarmia"
+msgstr "야먀를 따라 가라.-G-"
+
+#: 7949764-0-50039
+msgctxt "7949764-0-50039"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50038
+msgctxt "7949764-0-50038"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50037
+msgctxt "7949764-0-50037"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50036
+#, fuzzy
+msgctxt "7949764-0-50036"
+msgid "Go to the Riverside Market"
+msgstr "리버 사이드 시장으로 이동-G-"
+
+#: 7949764-0-50035
+msgctxt "7949764-0-50035"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50034
+msgctxt "7949764-0-50034"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50033
+msgctxt "7949764-0-50033"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50032
+msgctxt "7949764-0-50032"
+msgid "Go to the Stormhold Guildhall"
+msgstr "스톰홀드 길드 집회소로 이동하기"
+
+#: 7949764-0-50031
+msgctxt "7949764-0-50031"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50030
+msgctxt "7949764-0-50030"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50029
+msgctxt "7949764-0-50029"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50028
+#, fuzzy
+msgctxt "7949764-0-50028"
+msgid "Go to Mud Tree Village"
+msgstr "머드 트리 빌리지 (Mud Tree Village) 가기-G-"
+
+#: 7949764-0-50027
+msgctxt "7949764-0-50027"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50026
+msgctxt "7949764-0-50026"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50025
+msgctxt "7949764-0-50025"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50024
+#, fuzzy
+msgctxt "7949764-0-50024"
+msgid "Go to Hissmir"
+msgstr "히스 미르로 이동-G-"
+
+#: 7949764-0-50023
+msgctxt "7949764-0-50023"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50022
+msgctxt "7949764-0-50022"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50021
+msgctxt "7949764-0-50021"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-50020
+#, fuzzy
+msgctxt "7949764-0-50020"
+msgid "Go to Thizzrini Arena"
+msgstr "Thizzrini Arena로 이동-G-"
+
+#: 7949764-0-50018
+#, fuzzy
+msgctxt "7949764-0-50018"
+msgid "Search Shrine of Akatosh"
+msgstr "Akatosh의 신사 검색-G-"
+
+#: 7949764-0-50017
+#, fuzzy
+msgctxt "7949764-0-50017"
+msgid "Search Shrine of Akatosh"
+msgstr "Akatosh의 신사 검색-G-"
+
+#: 7949764-0-50016
+#, fuzzy
+msgctxt "7949764-0-50016"
+msgid "Kill Commander Marcus Scipio"
+msgstr "살해 사령관 마커스 스키피오-G-"
+
+#: 7949764-0-50009
+#, fuzzy
+msgctxt "7949764-0-50009"
+msgid "Confront Louna Inside the Farmhouse"
+msgstr "농가 내부에 직면 한 루나-G-"
+
+#: 7949764-0-50006
+#, fuzzy
+msgctxt "7949764-0-50006"
+msgid "Discuss the Plan with Your Allies"
+msgstr "동맹국과 계획에 대해 토론하십시오.-G-"
+
+#: 7949764-0-50004
+#, fuzzy
+msgctxt "7949764-0-50004"
+msgid "Decipher the Coded Notes"
+msgstr "코드화 된 노트 해독-G-"
+
+#: 7949764-0-50003
+#, fuzzy
+msgctxt "7949764-0-50003"
+msgid "Track the Messengers"
+msgstr "메신저 추적-G-"
+
+#: 7949764-0-50002
+msgctxt "7949764-0-50002"
+msgid "Talk to Razum-dar at the Enchanter's Shop"
+msgstr "라줌-다르와 대화하기"
+
+#: 7949764-0-50001
+msgctxt "7949764-0-50001"
+msgid "Talk to Razum-dar"
+msgstr "라줌-다르와 이야기하기"
+
+#: 7949764-0-50000
+#, fuzzy
+msgctxt "7949764-0-50000"
+msgid "Follow Yarmia to Find Her Master"
+msgstr "Yarmia를 따라 그녀의 주인을 찾으세요.-G-"
+
+#: 7949764-0-49998
+#, fuzzy
+msgctxt "7949764-0-49998"
+msgid "Talk to Louna"
+msgstr "Louna에게 말하기-G-"
+
+#: 7949764-0-49997
+#, fuzzy
+msgctxt "7949764-0-49997"
+msgid "Talk to Tuindal"
+msgstr "투 인달과 대화-G-"
+
+#: 7949764-0-49996
+msgctxt "7949764-0-49996"
+msgid "Talk to <<1>> to travel to <<2>>"
+msgstr "<<1>>와(과) 대화하여 <<2>>로 떠나기"
+
+#: 7949764-0-49995
+#, fuzzy
+msgctxt "7949764-0-49995"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49994
+#, fuzzy
+msgctxt "7949764-0-49994"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49993
+#, fuzzy
+msgctxt "7949764-0-49993"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49992
+#, fuzzy
+msgctxt "7949764-0-49992"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49991
+#, fuzzy
+msgctxt "7949764-0-49991"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49990
+#, fuzzy
+msgctxt "7949764-0-49990"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49989
+#, fuzzy
+msgctxt "7949764-0-49989"
+msgid "Return to Speaker Terenus"
+msgstr "연사 Terenus에게 돌아 가기-G-"
+
+#: 7949764-0-49988
+#, fuzzy
+msgctxt "7949764-0-49988"
+msgid "Talk to Dobias"
+msgstr "도비 아스와 대화-G-"
+
+#: 7949764-0-49987
+msgctxt "7949764-0-49987"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49986
+msgctxt "7949764-0-49986"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49985
+msgctxt "7949764-0-49985"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49984
+#, fuzzy
+msgctxt "7949764-0-49984"
+msgid "Go to S'ren-ja"
+msgstr "S'ren-ja (으)로 이동-G-"
+
+#: 7949764-0-49983
+msgctxt "7949764-0-49983"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49982
+msgctxt "7949764-0-49982"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49981
+msgctxt "7949764-0-49981"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49980
+#, fuzzy
+msgctxt "7949764-0-49980"
+msgid "Go to the Rawl'kha Stables"
+msgstr "Rawl'kha Stables로 이동-G-"
+
+#: 7949764-0-49979
+#, fuzzy
+msgctxt "7949764-0-49979"
+msgid "Interview Targets on List"
+msgstr "목록에있는 인터뷰 대상-G-"
+
+#: 7949764-0-49978
+#, fuzzy
+msgctxt "7949764-0-49978"
+msgid "Talk to Reman Mevavius"
+msgstr "Reman Mevavius와 (과) 이야기하십시오.-G-"
+
+#: 7949764-0-49977
+msgctxt "7949764-0-49977"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49976
+msgctxt "7949764-0-49976"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49975
+msgctxt "7949764-0-49975"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49974
+msgctxt "7949764-0-49974"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49973
+msgctxt "7949764-0-49973"
+msgid "Go to Woodhearth's Thalmor Office"
+msgstr "우드하스 탈모어 사무실에 가기"
+
+#: 7949764-0-49972
+msgctxt "7949764-0-49972"
+msgid "Kill an Innocent in Anvil"
+msgstr "앤빌에서 무고한 사람 죽이기"
+
+#: 7949764-0-49971
+msgctxt "7949764-0-49971"
+msgid "Kill an Innocent in Anvil"
+msgstr "앤빌에서 무고한 사람 죽이기"
+
+#: 7949764-0-49970
+msgctxt "7949764-0-49970"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49969
+msgctxt "7949764-0-49969"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49968
+msgctxt "7949764-0-49968"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49967
+msgctxt "7949764-0-49967"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49966
+msgctxt "7949764-0-49966"
+msgid "Go to the Woodhearth Docks"
+msgstr "우드하스 부두에 가기"
+
+#: 7949764-0-49965
+msgctxt "7949764-0-49965"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49964
+msgctxt "7949764-0-49964"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49963
+msgctxt "7949764-0-49963"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49962
+#, fuzzy
+msgctxt "7949764-0-49962"
+msgid "Go to the Rawl'kha Bazaar"
+msgstr "Rawl'kha Bazaar로 이동-G-"
+
+#: 7949764-0-49952
+msgctxt "7949764-0-49952"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49951
+msgctxt "7949764-0-49951"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49950
+msgctxt "7949764-0-49950"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49949
+#, fuzzy
+msgctxt "7949764-0-49949"
+msgid "Go to the Marbruk Fighters Guild"
+msgstr "Marbruk Fighters Guild로 이동하십시오.-G-"
+
+#: 7949764-0-49948
+msgctxt "7949764-0-49948"
+msgid "Read the Letter"
+msgstr "편지를 읽기"
+
+#: 7949764-0-49947
+msgctxt "7949764-0-49947"
+msgid "Talk to Astara"
+msgstr "아스타라와 대화하기"
+
+#: 7949764-0-49946
+msgctxt "7949764-0-49946"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49945
+msgctxt "7949764-0-49945"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49944
+msgctxt "7949764-0-49944"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49943
+msgctxt "7949764-0-49943"
+msgid "Go to Bramblebreach"
+msgstr "가시덤불틈새로 가기"
+
+#: 7949764-0-49942
+msgctxt "7949764-0-49942"
+msgid "Talk to Astara in the Sanctuary"
+msgstr "성역의 아스타라와 대화하기"
+
+#: 7949764-0-49941
+msgctxt "7949764-0-49941"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49940
+msgctxt "7949764-0-49940"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49939
+msgctxt "7949764-0-49939"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49938
+#, fuzzy
+msgctxt "7949764-0-49938"
+msgid "Go to Upper Elden Root"
+msgstr "상단 엘든 루트로 이동-G-"
+
+#: 7949764-0-49937
+msgctxt "7949764-0-49937"
+msgid "Talk to Astara"
+msgstr "아스타라와 대화하기"
+
+#: 7949764-0-49936
+msgctxt "7949764-0-49936"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49935
+msgctxt "7949764-0-49935"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49934
+msgctxt "7949764-0-49934"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49933
+#, fuzzy
+msgctxt "7949764-0-49933"
+msgid "Go to the Elden Root Embassy"
+msgstr "Elden Root 대사관으로 가십시오.-G-"
+
+#: 7949764-0-49927
+#, fuzzy
+msgctxt "7949764-0-49927"
+msgid "Enter the Black Dragon's Chambers"
+msgstr "흑룡의 방으로 들어가십시오.-G-"
+
+#: 7949764-0-49908
+msgctxt "7949764-0-49908"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49907
+msgctxt "7949764-0-49907"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49906
+msgctxt "7949764-0-49906"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49905
+#, fuzzy
+msgctxt "7949764-0-49905"
+msgid "Go to the Windhelm Fighters Guild"
+msgstr "윈드 헬름 전투원 길드로 이동-G-"
+
+#: 7949764-0-49878
+msgctxt "7949764-0-49878"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49877
+msgctxt "7949764-0-49877"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49876
+msgctxt "7949764-0-49876"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49875
+msgctxt "7949764-0-49875"
+msgid "Go to the Windhelm Docks"
+msgstr "윈드 헬름 부두로 이동하기"
+
+#: 7949764-0-49874
+msgctxt "7949764-0-49874"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49873
+msgctxt "7949764-0-49873"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49872
+msgctxt "7949764-0-49872"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49871
+#, fuzzy
+msgctxt "7949764-0-49871"
+msgid "Go to Jorunn's Stand"
+msgstr "조런 스탠드 (Jorunn 's Stand)-G-"
+
+#: 7949764-0-49870
+msgctxt "7949764-0-49870"
+msgid "Knock on the Second Cask"
+msgstr "두 번째 통 두드리기"
+
+#: 7949764-0-49869
+msgctxt "7949764-0-49869"
+msgid "Knock on the First Cask"
+msgstr "첫 번째 통 두드리기"
+
+#: 7949764-0-49868
+msgctxt "7949764-0-49868"
+msgid "Use the Secret Passage in the Wine Cellar"
+msgstr "와인 저장고에서 비밀 통로 사용하기"
+
+#: 7949764-0-49867
+msgctxt "7949764-0-49867"
+msgid "Read Cellar Note"
+msgstr "저장고 쪽지 읽기"
+
+#: 7949764-0-49866
+msgctxt "7949764-0-49866"
+msgid "Search the Wine Cellar"
+msgstr "와인 저장고 수색하기"
+
+#: 7949764-0-49865
+msgctxt "7949764-0-49865"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49864
+msgctxt "7949764-0-49864"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49863
+msgctxt "7949764-0-49863"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49862
+msgctxt "7949764-0-49862"
+msgid "Go to Tanglehaven"
+msgstr "엉킨안식처로 가기"
+
+#: 7949764-0-49861
+msgctxt "7949764-0-49861"
+msgid "Search the Manor House"
+msgstr "저택 수색하기"
+
+#: 7949764-0-49860
+#, fuzzy
+msgctxt "7949764-0-49860"
+msgid "Burn the Pardon"
+msgstr "용서를 구워 라.-G-"
+
+#: 7949764-0-49859
+msgctxt "7949764-0-49859"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49858
+msgctxt "7949764-0-49858"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49857
+msgctxt "7949764-0-49857"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49856
+msgctxt "7949764-0-49856"
+msgid "Go to Vulkwasten"
+msgstr " Vulkwasten로 가기"
+
+#: 7949764-0-49853
+msgctxt "7949764-0-49853"
+msgid "Meet Tanek"
+msgstr "타넥 만나기"
+
+#: 7949764-0-49852
+msgctxt "7949764-0-49852"
+msgid "Meet Mirabelle and Cimbar"
+msgstr "미라벨과 심바 만나기"
+
+#: 7949764-0-49851
+msgctxt "7949764-0-49851"
+msgid "Meet Kor and Hildegard"
+msgstr "코르와 힐데가드 만나기"
+
+#: 7949764-0-49850
+msgctxt "7949764-0-49850"
+msgid "Meet Green-Venom-Tongue"
+msgstr "그린-베놈-텅 만나기"
+
+#: 7949764-0-49849
+msgctxt "7949764-0-49849"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
+
+#: 7949764-0-49848
+msgctxt "7949764-0-49848"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49847
+msgctxt "7949764-0-49847"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49846
+#, fuzzy
+msgctxt "7949764-0-49846"
+msgid "Go to Valeguard"
+msgstr "Valeguard로 이동-G-"
+
+#: 7949764-0-49845
+msgctxt "7949764-0-49845"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49844
+msgctxt "7949764-0-49844"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49843
+msgctxt "7949764-0-49843"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49842
+#, fuzzy
+msgctxt "7949764-0-49842"
+msgid "Go to the Baandari Trading Post"
+msgstr "Baandari Trading Post로 이동하십시오.-G-"
+
+#: 7949764-0-49841
+msgctxt "7949764-0-49841"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49840
+msgctxt "7949764-0-49840"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49839
+msgctxt "7949764-0-49839"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49838
+msgctxt "7949764-0-49838"
+msgid "Go to the Elden Root Outside Inn"
+msgstr "엘든 루트 밖의 여관으로 가기"
+
+#: 7949764-0-49837
+msgctxt "7949764-0-49837"
+msgid "Talk to Elam Drals"
+msgstr "엘람 드랄스와 대화하기"
+
+#: 7949764-0-49835
+msgctxt "7949764-0-49835"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49834
+msgctxt "7949764-0-49834"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49833
+msgctxt "7949764-0-49833"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49832
+#, fuzzy
+msgctxt "7949764-0-49832"
+msgid "Go to Elden Tree Ground Level"
+msgstr "엘든 트리 그라운드 레벨로 이동하십시오.-G-"
+
+#: 7949764-0-49831
+msgctxt "7949764-0-49831"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49830
+msgctxt "7949764-0-49830"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49829
+msgctxt "7949764-0-49829"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49828
+#, fuzzy
+msgctxt "7949764-0-49828"
+msgid "Go to Redfur Trading Post"
+msgstr "Redfur Trading Post로 이동하십시오.-G-"
+
+#: 7949764-0-49827
+msgctxt "7949764-0-49827"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49826
+msgctxt "7949764-0-49826"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49825
+msgctxt "7949764-0-49825"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49824
+#, fuzzy
+msgctxt "7949764-0-49824"
+msgid "Go to the Vulkhel Guard Market"
+msgstr "Vulkhel Guard Market으로 이동-G-"
+
+#: 7949764-0-49823
+#, fuzzy
+msgctxt "7949764-0-49823"
+msgid "Talk to an Akatosh Chanter"
+msgstr "Akatosh Chanter와 이야기하십시오.-G-"
+
+#: 7949764-0-49822
+msgctxt "7949764-0-49822"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49821
+msgctxt "7949764-0-49821"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49820
+msgctxt "7949764-0-49820"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49819
+msgctxt "7949764-0-49819"
+msgid "Go to Vulkhel Guard Manor"
+msgstr "벌켈 가드 저택으로 가기"
+
+#: 7949764-0-49818
+msgctxt "7949764-0-49818"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49817
+msgctxt "7949764-0-49817"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49816
+msgctxt "7949764-0-49816"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49815
+#, fuzzy
+msgctxt "7949764-0-49815"
+msgid "Go to the Vulkhel Guard Docks"
+msgstr "Vulkhel Guard Docks로 가십시오.-G-"
+
+#: 7949764-0-49814
+msgctxt "7949764-0-49814"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49813
+msgctxt "7949764-0-49813"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49812
+msgctxt "7949764-0-49812"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49811
+#, fuzzy
+msgctxt "7949764-0-49811"
+msgid "Go to the Market-Side Meadery"
+msgstr "Market-Side Meadery로 이동하십시오.-G-"
+
+#: 7949764-0-49810
+msgctxt "7949764-0-49810"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49809
+msgctxt "7949764-0-49809"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49808
+msgctxt "7949764-0-49808"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49807
+msgctxt "7949764-0-49807"
+msgid "Go to Skywatch Manor"
+msgstr "스카이워치 저택으로 가기"
+
+#: 7949764-0-49806
+msgctxt "7949764-0-49806"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49805
+msgctxt "7949764-0-49805"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49804
+msgctxt "7949764-0-49804"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49803
+msgctxt "7949764-0-49803"
+msgid "Go to Fort Amol"
+msgstr "아몰 요새로 이동하기"
+
+#: 7949764-0-49802
+msgctxt "7949764-0-49802"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49801
+msgctxt "7949764-0-49801"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49800
+msgctxt "7949764-0-49800"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽여라"
+
+#: 7949764-0-49799
+msgctxt "7949764-0-49799"
+msgid "Go to the Tribunal Temple"
+msgstr "트라이뷰널 신전으로 가기"
+
+#: 7949764-0-49798
+msgctxt "7949764-0-49798"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49797
+msgctxt "7949764-0-49797"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49796
+msgctxt "7949764-0-49796"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49795
+msgctxt "7949764-0-49795"
+msgid "Go to the Mournhold Fighters Guild"
+msgstr "모운홀드(Mournhold)의 파이터 길드로 이동하기"
+
+#: 7949764-0-49793
+msgctxt "7949764-0-49793"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49792
+msgctxt "7949764-0-49792"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49791
+msgctxt "7949764-0-49791"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49790
+#, fuzzy
+msgctxt "7949764-0-49790"
+msgid "Go to the Mournhold City Center"
+msgstr "Mournhold City Centre 바로 가기-G-"
+
+#: 7949764-0-49789
+msgctxt "7949764-0-49789"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49788
+msgctxt "7949764-0-49788"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49787
+msgctxt "7949764-0-49787"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-49786
+#, fuzzy
+msgctxt "7949764-0-49786"
+msgid "Go to Tal'Deic Fortress"
+msgstr "Tal'Deic Fortress (으)로 이동-G-"
+
+#: 7949764-0-49785
+#, fuzzy
+msgctxt "7949764-0-49785"
+msgid "Talk to Mahata"
+msgstr "Mahata와 (과) 이야기하십시오.-G-"
+
+#: 7949764-0-49784
+#, fuzzy
+msgctxt "7949764-0-49784"
+msgid "Talk to Anya"
+msgstr "안야와 대화-G-"
+
+#: 7949764-0-49781
+#, fuzzy
+msgctxt "7949764-0-49781"
+msgid "Retrieve Stolen Ingots"
+msgstr "도난당한 덩어리를 회수하십시오-G-"
+
+#: 7949764-0-49780
+#, fuzzy
+msgctxt "7949764-0-49780"
+msgid "Inquire at the Blacksmith"
+msgstr "대장장이에게 물어보기-G-"
+
+#: 7949764-0-49777
+msgctxt "7949764-0-49777"
+msgid "Collect <<1>>"
+msgstr "<<1>>을(를) 수집하기"
+
+#: 7949764-0-49776
+#, fuzzy
+msgctxt "7949764-0-49776"
+msgid "Inquire in the Tavern"
+msgstr "주점에서 문의하기-G-"
+
+#: 7949764-0-49772
+#, fuzzy
+msgctxt "7949764-0-49772"
+msgid "Clear the Excavation Site"
+msgstr "굴착 사이트 지우기-G-"
+
+#: 7949764-0-49771
+#, fuzzy
+msgctxt "7949764-0-49771"
+msgid "Get Spotted in the Castle"
+msgstr "성에서 발견되었습니다.-G-"
+
+#: 7949764-0-49769
+#, fuzzy
+msgctxt "7949764-0-49769"
+msgid "Investigate Deer"
+msgstr "사슴 조사-G-"
+
+#: 7949764-0-49767
+#, fuzzy
+msgctxt "7949764-0-49767"
+msgid "Investigate Flowers"
+msgstr "꽃 조사-G-"
+
+#: 7949764-0-49766
+#, fuzzy
+msgctxt "7949764-0-49766"
+msgid "Investigate Dead Nord"
+msgstr "Dead Nord 조사-G-"
+
+#: 7949764-0-49765
+msgctxt "7949764-0-49765"
+msgid "Search for <<1>> Near the Anvil Docks"
+msgstr "앤빌 부두 근처에 있는 <<1>> 찾아가기"
+
+#: 7949764-0-49764
+msgctxt "7949764-0-49764"
+msgid "Inquire About Rumors in Anvil"
+msgstr "앤빌에서 소문 알아보기"
+
+#: 7949764-0-49763
+msgctxt "7949764-0-49763"
+msgid "Travel to the Gold Coast"
+msgstr "골드 코스트로 이동하기"
+
+#: 7949764-0-49762
+#, fuzzy
+msgctxt "7949764-0-49762"
+msgid "Kill Chanter Nemus"
+msgstr "Kill Chanter Nemus-G-"
+
+#: 7949764-0-49761
+msgctxt "7949764-0-49761"
+msgid "Talk to Hildegard"
+msgstr "힐데가드(Hildegard)와 대화하기"
+
+#: 7949764-0-49760
+#, fuzzy
+msgctxt "7949764-0-49760"
+msgid "Explore the Ruins"
+msgstr "유적 탐험-G-"
+
+#: 7949764-0-49756
+msgctxt "7949764-0-49756"
+msgid "Talk to Kor"
+msgstr "코르와 대화하기"
+
+#: 7949764-0-49755
+msgctxt "7949764-0-49755"
+msgid "Talk to Astara"
+msgstr "아스타라와 대화하기"
+
+#: 7949764-0-49754
+msgctxt "7949764-0-49754"
+msgid "Talk to Green-Venom-Tongue"
+msgstr "그린-베놈-텅과 대화하기"
+
+#: 7949764-0-49753
+msgctxt "7949764-0-49753"
+msgid "Talk to Astara"
+msgstr "아스타라와 대화하기"
+
+#: 7949764-0-49752
+#, fuzzy
+msgctxt "7949764-0-49752"
+msgid "Use the Secret Passage in the Wine Cellar"
+msgstr "와인 저장고에서 비밀 통로 사용-G-"
+
+#: 7949764-0-49751
+msgctxt "7949764-0-49751"
+msgid "Eavesdrop on the Secret Meeting"
+msgstr "비밀 회의 엿듣기"
+
+#: 7949764-0-49750
+#, fuzzy
+msgctxt "7949764-0-49750"
+msgid "Reach the Last Checkpoint"
+msgstr "마지막 검사 점 도달-G-"
+
+#: 7949764-0-49749
+msgctxt "7949764-0-49749"
+msgid "Eavesdrop on the Secret Meeting"
+msgstr "비밀 회의 엿듣기"
+
+#: 7949764-0-49748
+#, fuzzy
+msgctxt "7949764-0-49748"
+msgid "Reach the Next Checkpoint"
+msgstr "다음 검사 점 도달-G-"
+
+#: 7949764-0-49747
+msgctxt "7949764-0-49747"
+msgid "Eavesdrop on the Secret Meeting"
+msgstr "비밀 회의 엿듣기"
+
+#: 7949764-0-49746
+#, fuzzy
+msgctxt "7949764-0-49746"
+msgid "Reach the First Checkpoint"
+msgstr "첫 번째 검사 점 도달-G-"
+
+#: 7949764-0-49745
+#, fuzzy
+msgctxt "7949764-0-49745"
+msgid "Destroy Waarosh"
+msgstr "Waarosh 파괴-G-"
+
+#: 7949764-0-49744
+#, fuzzy
+msgctxt "7949764-0-49744"
+msgid "Discover Waarosh"
+msgstr "Waarosh를 발견하십시오-G-"
+
+#: 7949764-0-49743
+#, fuzzy
+msgctxt "7949764-0-49743"
+msgid "Learn about Waarosh"
+msgstr "Waarosh에 대해 알아보기-G-"
+
+#: 7949764-0-49742
+#, fuzzy
+msgctxt "7949764-0-49742"
+msgid "Kill Waarosh"
+msgstr "와일로 죽이기-G-"
+
+#: 7949764-0-49740
+#, fuzzy
+msgctxt "7949764-0-49740"
+msgid "Left the Room"
+msgstr "방을 떠나다-G-"
+
+#: 7949764-0-49739
+#, fuzzy
+msgctxt "7949764-0-49739"
+msgid "Logged out"
+msgstr "로그 아웃 됨-G-"
+
+#: 7949764-0-48890
+#, fuzzy
+msgctxt "7949764-0-48890"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-48889
+#, fuzzy
+msgctxt "7949764-0-48889"
+msgid "Left the <<1>>"
+msgstr "<<1>> 왼쪽-G-"
+
+#: 7949764-0-47279
+msgctxt "7949764-0-47279"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-47271
+msgctxt "7949764-0-47271"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 7949764-0-47270
+msgctxt "7949764-0-47270"
+msgid "Talk to Speaker Terenus"
+msgstr "스피커 테레누스와 대화하기"
+
+#: 219689294-0-471
+msgctxt "219689294-0-471"
+msgid "Closed"
+msgstr "닫힘"
+
+#: 219689294-0-463
+msgctxt "219689294-0-463"
+msgid "Read"
+msgstr "읽기"
+
+#: 219689294-0-462
+msgctxt "219689294-0-462"
+msgid "Cage Door"
+msgstr "우리의 문"
+
+#: 74865733-0-21091
+msgctxt "74865733-0-21091"
+msgid "Use"
+msgstr "사용하기"
+
+#: 8158238-0-2067
+msgctxt "8158238-0-2067"
+msgid "Mining…"
+msgstr "채광 중…"
+
+#: 74865733-0-20627
+msgctxt "74865733-0-20627"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 74865733-0-20620
+msgctxt "74865733-0-20620"
+msgid "Take"
+msgstr "가지기"
+
+#: 74865733-0-20609
+msgctxt "74865733-0-20609"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20608
+msgctxt "74865733-0-20608"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20607
+msgctxt "74865733-0-20607"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20606
+msgctxt "74865733-0-20606"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20605
+msgctxt "74865733-0-20605"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20604
+msgctxt "74865733-0-20604"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20603
+msgctxt "74865733-0-20603"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20601
+msgctxt "74865733-0-20601"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20600
+msgctxt "74865733-0-20600"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20599
+msgctxt "74865733-0-20599"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20598
+msgctxt "74865733-0-20598"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20596
+msgctxt "74865733-0-20596"
+msgid "Read"
+msgstr "읽기"
+
+#: 74865733-0-20592
+msgctxt "74865733-0-20592"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20591
+msgctxt "74865733-0-20591"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20590
+msgctxt "74865733-0-20590"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20589
+msgctxt "74865733-0-20589"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20588
+msgctxt "74865733-0-20588"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20587
+msgctxt "74865733-0-20587"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 74865733-0-20585
+msgctxt "74865733-0-20585"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20576
+msgctxt "74865733-0-20576"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20575
+msgctxt "74865733-0-20575"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20572
+msgctxt "74865733-0-20572"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20571
+msgctxt "74865733-0-20571"
+msgid "Open"
+msgstr "열기"
+
+#: 74865733-0-20570
+msgctxt "74865733-0-20570"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20568
+msgctxt "74865733-0-20568"
+msgid "Take"
+msgstr "가지기"
+
+#: 74865733-0-20553
+msgctxt "74865733-0-20553"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20552
+msgctxt "74865733-0-20552"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20551
+msgctxt "74865733-0-20551"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20550
+msgctxt "74865733-0-20550"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20549
+msgctxt "74865733-0-20549"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20548
+msgctxt "74865733-0-20548"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20547
+msgctxt "74865733-0-20547"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20546
+msgctxt "74865733-0-20546"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20545
+msgctxt "74865733-0-20545"
+msgid "Place"
+msgstr "놓기"
+
+#: 74865733-0-20511
+msgctxt "74865733-0-20511"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20510
+msgctxt "74865733-0-20510"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 74865733-0-20509
+msgctxt "74865733-0-20509"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 74865733-0-20508
+msgctxt "74865733-0-20508"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 74865733-0-20507
+msgctxt "74865733-0-20507"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 74865733-0-20504
+msgctxt "74865733-0-20504"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20500
+msgctxt "74865733-0-20500"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 74865733-0-20498
+msgctxt "74865733-0-20498"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20494
+msgctxt "74865733-0-20494"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 74865733-0-20493
+msgctxt "74865733-0-20493"
+msgid "Animate"
+msgstr "생기를 불어넣다"
+
+#: 74865733-0-20491
+msgctxt "74865733-0-20491"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20487
+msgctxt "74865733-0-20487"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 74865733-0-20486
+msgctxt "74865733-0-20486"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20483
+msgctxt "74865733-0-20483"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 74865733-0-20480
+msgctxt "74865733-0-20480"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20479
+msgctxt "74865733-0-20479"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20478
+msgctxt "74865733-0-20478"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-20474
+msgctxt "74865733-0-20474"
+msgid "Take"
+msgstr "가지기"
+
+#: 74865733-0-20421
+msgctxt "74865733-0-20421"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20417
+msgctxt "74865733-0-20417"
+msgid "Knock"
+msgstr "두드리기"
+
+#: 74865733-0-20410
+msgctxt "74865733-0-20410"
+msgid "Take"
+msgstr "가지기"
+
+#: 74865733-0-20403
+msgctxt "74865733-0-20403"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20399
+msgctxt "74865733-0-20399"
+msgid "Steal"
+msgstr "훔치기"
+
+#: 70307621-0-2026
+msgctxt "70307621-0-2026"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2025
+msgctxt "70307621-0-2025"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20241
+msgctxt "74865733-0-20241"
+msgid "Burn"
+msgstr "불태우기"
+
+#: 70307621-0-2023
+msgctxt "70307621-0-2023"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-20219
+msgctxt "108533454-0-20219"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 70307621-0-2021
+msgctxt "70307621-0-2021"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2020
+msgctxt "70307621-0-2020"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2019
+msgctxt "70307621-0-2019"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2018
+msgctxt "70307621-0-2018"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2017
+msgctxt "70307621-0-2017"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2016
+msgctxt "70307621-0-2016"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20137
+msgctxt "74865733-0-20137"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2013
+msgctxt "70307621-0-2013"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-20128
+msgctxt "74865733-0-20128"
+msgid "Burn"
+msgstr "불태우기"
+
+#: 70307621-0-2012
+msgctxt "70307621-0-2012"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2011
+msgctxt "70307621-0-2011"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2010
+msgctxt "70307621-0-2010"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2009
+msgctxt "70307621-0-2009"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2008
+msgctxt "70307621-0-2008"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2007
+msgctxt "70307621-0-2007"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2006
+msgctxt "70307621-0-2006"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2005
+msgctxt "70307621-0-2005"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2004
+msgctxt "70307621-0-2004"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2003
+msgctxt "70307621-0-2003"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2002
+msgctxt "70307621-0-2002"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2001
+msgctxt "70307621-0-2001"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2000
+msgctxt "70307621-0-2000"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1999
+msgctxt "70307621-0-1999"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1998
+msgctxt "70307621-0-1998"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1997
+msgctxt "70307621-0-1997"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1996
+msgctxt "70307621-0-1996"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1995
+msgctxt "70307621-0-1995"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-19943
+msgctxt "74865733-0-19943"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 70307621-0-1994
+msgctxt "70307621-0-1994"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1993
+msgctxt "70307621-0-1993"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1992
+msgctxt "70307621-0-1992"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1990
+msgctxt "70307621-0-1990"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1989
+msgctxt "70307621-0-1989"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1988
+msgctxt "70307621-0-1988"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1987
+msgctxt "70307621-0-1987"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1986
+msgctxt "70307621-0-1986"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1985
+msgctxt "70307621-0-1985"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1984
+msgctxt "70307621-0-1984"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1983
+msgctxt "70307621-0-1983"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1982
+msgctxt "70307621-0-1982"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1981
+msgctxt "70307621-0-1981"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1980
+msgctxt "70307621-0-1980"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1979
+msgctxt "70307621-0-1979"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1978
+msgctxt "70307621-0-1978"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1977
+msgctxt "70307621-0-1977"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1976
+msgctxt "70307621-0-1976"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1975
+msgctxt "70307621-0-1975"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1974
+msgctxt "70307621-0-1974"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1973
+msgctxt "70307621-0-1973"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1972
+msgctxt "70307621-0-1972"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1971
+msgctxt "70307621-0-1971"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1970
+msgctxt "70307621-0-1970"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1969
+msgctxt "70307621-0-1969"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-1968
+msgctxt "70307621-0-1968"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 8158238-0-1964
+msgctxt "8158238-0-1964"
+msgid "Collecting…"
+msgstr "수집중…"
+
+#: 70307621-0-1942
+msgctxt "70307621-0-1942"
+msgid "Climb"
+msgstr "올라가기"
+
+#: 70307621-0-1925
+msgctxt "70307621-0-1925"
+msgid "Enter"
+msgstr "들어가기"
+
+#: 74865733-0-18925
+msgctxt "74865733-0-18925"
+msgid "Open"
+msgstr "열기"

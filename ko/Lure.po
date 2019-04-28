@@ -1,0 +1,102 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 228378404-0-42877
+msgctxt "228378404-0-42877"
+msgid "General fishing Bait"
+msgstr "일반적인 낚시 미끼"
+
+#: 242841733-0-42877
+msgctxt "242841733-0-42877"
+msgid "simple bait"
+msgstr "단순한 미끼"
+
+#: 228378404-0-42876
+msgctxt "228378404-0-42876"
+msgid "Found in saltwater, best used for fishing in lake water"
+msgstr "바다에서 찾을수 있습니다. 호수 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42876
+msgctxt "242841733-0-42876"
+msgid "minnow, Lake Bait"
+msgstr "피라미, 호수 낚시 미끼"
+
+#: 228378404-0-42875
+msgctxt "228378404-0-42875"
+msgid "Found in foul water, best used for fishing in saltwater."
+msgstr "웅덩이에서 찾을 수 있습니다. 바다 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42875
+msgctxt "242841733-0-42875"
+msgid "chub, Saltwater Bait"
+msgstr "처브, 바다 낚시 미끼"
+
+#: 228378404-0-42874
+msgctxt "228378404-0-42874"
+msgid "Found in lakes, best used for fishing in rivers."
+msgstr "호수에서 찾을 수 있습니다. 강 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42874
+msgctxt "242841733-0-42874"
+msgid "shad, River Bait"
+msgstr "청어, 강 낚시 미끼"
+
+#: 228378404-0-42873
+msgctxt "228378404-0-42873"
+msgid "Found in running water, best used for fishing in foul water."
+msgstr "흐르는 물에서 발견됩니다. 웅덩이 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42873
+msgctxt "242841733-0-42873"
+msgid "fish roe, Foul Bait"
+msgstr "생선 알, 웅덩이 낚시 미끼"
+
+#: 228378404-0-42872
+msgctxt "228378404-0-42872"
+msgid "Bait best used for fishing in River water"
+msgstr "강 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42872
+msgctxt "242841733-0-42872"
+msgid "insect parts, River Bait"
+msgstr "곤충 조각, 강 낚시 미끼"
+
+#: 228378404-0-42871
+msgctxt "228378404-0-42871"
+msgid "Bait best used for fishing in Foul water"
+msgstr "웅덩이 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42871
+msgctxt "242841733-0-42871"
+msgid "crawlers, Foul Bait"
+msgstr "지네, 웅덩이 낚시 미끼"
+
+#: 228378404-0-42870
+msgctxt "228378404-0-42870"
+msgid "Bait best used for fishing in Lake water"
+msgstr "호수 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42870
+msgctxt "242841733-0-42870"
+msgid "guts, Lake Bait"
+msgstr "내장, 호수 낚시 미끼"
+
+#: 228378404-0-42869
+msgctxt "228378404-0-42869"
+msgid "Bait best used for fishing in Saltwater"
+msgstr "바다 낚시에 사용하기 좋습니다."
+
+#: 242841733-0-42869
+msgctxt "242841733-0-42869"
+msgid "worms, Saltwater Bait"
+msgstr "벌레, 바다 낚시 미끼"

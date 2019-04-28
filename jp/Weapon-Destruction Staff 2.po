@@ -1,0 +1,453 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 198758357-0-86495
+msgctxt "198758357-0-86495"
+msgid "Ice Storm"
+msgstr "アイスストーム"
+
+#: 132143172-0-85130
+msgctxt "132143172-0-85130"
+msgid "Create a cataclysmic storm at the target location that builds after |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>. Ability lasts  |cffffff2|r seconds longer from using a Lightning Staff."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒の間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。稲妻の杖を使うと、アビリティの持続時間が|cffffff2|r秒延長される。"
+
+#: 198758357-0-85130
+msgctxt "198758357-0-85130"
+msgid "Thunderous Rage"
+msgstr "雷の憤怒"
+
+#: 132143172-0-85128
+msgctxt "132143172-0-85128"
+msgid "Create a cataclysmic storm at the target location that builds after |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+"\n"
+"\nEnemies hit are immobilized for <<4>>."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒の間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。\\r"
+"\n\\r"
+"\n命中した敵は<<4>>の間移動不能になる。"
+
+#: 198758357-0-85128
+msgctxt "198758357-0-85128"
+msgid "Icy Rage"
+msgstr "氷の憤怒"
+
+#: 132143172-0-85126
+msgctxt "132143172-0-85126"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-85126
+msgctxt "198758357-0-85126"
+msgid "Fiery Rage"
+msgstr "灼熱の憤怒"
+
+#: 132143172-0-83686
+msgctxt "132143172-0-83686"
+msgid "Create a cataclysmic storm above you that builds after |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
+msgstr "頭上に破壊的な嵐を|cffffff2|r秒の間生み出し、周囲の敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83686
+msgctxt "198758357-0-83686"
+msgid "Eye of Lightning"
+msgstr "稲妻の眼"
+
+#: 132143172-0-83684
+msgctxt "132143172-0-83684"
+msgid "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
+msgstr "頭上に破壊的な嵐を|cffffff2|r秒間生み出し、周囲の敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83684
+msgctxt "198758357-0-83684"
+msgid "Eye of Frost"
+msgstr "氷結の眼"
+
+#: 132143172-0-83682
+msgctxt "132143172-0-83682"
+msgid "Create a cataclysmic storm around you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
+msgstr "周囲に破壊的な嵐を|cffffff2|r秒間生み出し、周囲の敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83682
+msgctxt "198758357-0-83682"
+msgid "Eye of Flame"
+msgstr "炎の眼"
+
+#: 132143172-0-83630
+msgctxt "132143172-0-83630"
+msgid "Create a cataclysmic storm at the target location that builds after |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒の間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83630
+msgctxt "198758357-0-83630"
+msgid "Thunder Storm"
+msgstr "雷の嵐"
+
+#: 132143172-0-83628
+msgctxt "132143172-0-83628"
+msgid "Create a cataclysmic storm at the target location that builds after |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒の間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83628
+msgctxt "198758357-0-83628"
+msgid "Ice Storm"
+msgstr "アイスストーム"
+
+#: 132143172-0-83625
+msgctxt "132143172-0-83625"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83625
+msgctxt "198758357-0-83625"
+msgid "Fire Storm"
+msgstr "火の嵐"
+
+#: 132143172-0-39167
+msgctxt "132143172-0-39167"
+msgid "Release a surge of storm energy, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
+msgstr "嵐のエネルギーを急激に放出し、近くの敵に<<1>>を与えて<<2>>を付与し、敵の最大体力を<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-39167
+msgctxt "198758357-0-39167"
+msgid "Storm Pulsar"
+msgstr "嵐のパルサー"
+
+#: 132143172-0-39163
+msgctxt "132143172-0-39163"
+msgid "Release a surge of frost, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
+msgstr "氷結のエネルギーを急激に放出し、近くの敵に<<1>>を与えて<<2>>を付与し、敵の最大体力を<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-39163
+msgctxt "198758357-0-39163"
+msgid "Frost Pulsar"
+msgstr "氷結のパルサー"
+
+#: 132143172-0-39162
+msgctxt "132143172-0-39162"
+msgid "Release a surge of flame, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
+msgstr "炎のエネルギーを急激に放出し、近くの敵に<<1>>を与えて<<2>>を付与し、敵の最大体力を<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-39162
+msgctxt "198758357-0-39162"
+msgid "Flame Pulsar"
+msgstr "炎のパルサー"
+
+#: 132143172-0-39147
+msgctxt "132143172-0-39147"
+msgid "Release a surge of storm energy, dealing <<1>> to enemies at the target location."
+msgstr "嵐のエネルギーを急激に放出し、狙った場所の敵に<<1>>を与える。"
+
+#: 198758357-0-39147
+msgctxt "198758357-0-39147"
+msgid "Shock Ring"
+msgstr "雷撃の指輪"
+
+#: 132143172-0-39146
+msgctxt "132143172-0-39146"
+msgid "Release a surge of frost, dealing <<1>> to enemies at the target location."
+msgstr "氷結のエネルギーを急激に放出し、狙った場所の敵に<<1>>を与える。"
+
+#: 198758357-0-39146
+msgctxt "198758357-0-39146"
+msgid "Frost Ring"
+msgstr "氷結の指輪"
+
+#: 132143172-0-39145
+msgctxt "132143172-0-39145"
+msgid "Release a surge of flame, dealing <<1>> to enemies at the target location."
+msgstr "炎のエネルギーを急激に放出し、狙った場所の敵に<<1>>を与える。"
+
+#: 198758357-0-39145
+msgctxt "198758357-0-39145"
+msgid "Fire Ring"
+msgstr "炎の指輪"
+
+#: 132143172-0-39073
+msgctxt "132143172-0-39073"
+msgid "Slam your staff down to create an unstable storm barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> and setting concussed enemies Off Balance for <<3>>."
+"\n"
+"\nWhen the effect ends, the barrier explodes, dealing <<4>>."
+msgstr "杖をたたきつけて目の前に不安定な炎の障壁を作って標的エリアの敵に<<1>>を<<2>>毎に与え、<<3>>の間脳振とうを起こしている敵をフラフラ状態にする。\\r"
+"\n\\r"
+"\n効果が切れると障壁は爆発し、<<4>>を与える。"
+
+#: 198758357-0-39073
+msgctxt "198758357-0-39073"
+msgid "Unstable Wall of Storms"
+msgstr "不安定な嵐の壁"
+
+#: 132143172-0-39067
+msgctxt "132143172-0-39067"
+msgid "Slam your staff down to create an unstable ice barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> and reducing their Movement Speed by <<3>>."
+"\n"
+"\nChilled enemies become frozen and are immobilized for <<4>>."
+"\n"
+"\nWhen the effect ends, the barrier explodes, dealing <<5>>."
+msgstr "杖をたたきつけて目の前に不安定な氷の障壁を作り、範囲内の敵に<<1>>を<<2>>毎に与えて敵の移動速度を<<3>>低下する。\\r"
+"\n\\r"
+"\n冷気状態の敵は凍りつき、<<4>>の間移動不能になる。\\r"
+"\n\\r"
+"\n効果が切れると障壁は爆発し、<<5>>を与える。"
+
+#: 198758357-0-39067
+msgctxt "198758357-0-39067"
+msgid "Unstable Wall of Frost"
+msgstr "不安定な氷の壁"
+
+#: 132143172-0-39053
+msgctxt "132143172-0-39053"
+msgid "Slam your staff down to create an unstable flaming barrier in front of you, dealing <<1>> to enemies in the target area every <<2>>."
+"\n"
+"\nBurning enemies take <<3>> more damage from this ability."
+"\n"
+"\nWhen the effect ends, the barrier explodes, dealing <<4>>."
+msgstr "杖をたたきつけて目の前に不安定な炎の障壁を作り、範囲内の敵に<<1>>を<<2>>毎に与える。\\r"
+"\n\\r"
+"\n炎上している敵はこのアビリティによってダメージを追加で<<3>>受ける。\\r"
+"\n\\r"
+"\n効果が切れると障壁は爆発し、<<4>>を与える。"
+
+#: 198758357-0-39053
+msgctxt "198758357-0-39053"
+msgid "Unstable Wall of Fire"
+msgstr "不安定な火の壁"
+
+#: 132143172-0-39028
+msgctxt "132143172-0-39028"
+msgid "Slam your staff down to create an ice barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> and reducing their Movement Speed by <<3>>."
+"\n"
+"\nChilled enemies become frozen and are immobilized for <<4>>."
+msgstr "杖をたたきつけて目の前に氷の障壁を作り、範囲内の敵に<<1>>を<<2>>毎に与えて敵の移動速度を<<3>>低下する。\\r"
+"\n\\r"
+"\n冷気状態の敵は凍りつき、<<4>>の間移動不能になる。"
+
+#: 198758357-0-39028
+msgctxt "198758357-0-39028"
+msgid "Blockade of Frost"
+msgstr "氷結の防壁"
+
+#: 132143172-0-39018
+msgctxt "132143172-0-39018"
+msgid "Slam your staff down to create a storm barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> and setting concussed enemies Off Balance for <<3>>."
+msgstr "地面に杖を打ちつけて目の前に嵐の障壁を作り出す。範囲内にいる敵に<<1>>を<<2>>ごとに与え、脳震とう状態の敵を<<3>>間フラフラ状態にする。"
+
+#: 198758357-0-39018
+msgctxt "198758357-0-39018"
+msgid "Blockade of Storms"
+msgstr "嵐の防壁"
+
+#: 132143172-0-39012
+msgctxt "132143172-0-39012"
+msgid "Slam your staff down to create a flaming barrier in front of you, dealing <<1>> to enemies in the target area every <<2>>."
+"\n"
+"\nBurning enemies take <<3>> more damage from this ability."
+msgstr "地面に杖を打ちつけて目の前に火の障壁を作り出す。範囲内にいる敵に<<1>>を<<2>>ごとに与える。\\r"
+"\n\\r"
+"\n炎上中の敵にこのアビリティを使用すると追加で<<3>>ダメージを与えることができる。"
+
+#: 198758357-0-39012
+msgctxt "198758357-0-39012"
+msgid "Blockade of Fire"
+msgstr "火の防壁"
+
+#: 132143172-0-38993
+msgctxt "132143172-0-38993"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>. "
+"\n"
+"\nAlso stuns the target for <<4>> and deals <<5>> to nearby enemies."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nさらに標的を<<4>>の間気絶させ、その周囲の敵に<<5>>を与える。"
+
+#: 198758357-0-38993
+msgctxt "198758357-0-38993"
+msgid "Shock Clench"
+msgstr "雷撃のクレンチ"
+
+#: 132143172-0-38989
+msgctxt "132143172-0-38989"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>. "
+"\n"
+"\nAlso immobilizes target for <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nさらに標的を<<4>>の間移動不能にする。"
+
+#: 198758357-0-38989
+msgctxt "198758357-0-38989"
+msgid "Frost Clench"
+msgstr "氷結のクレンチ"
+
+#: 132143172-0-38985
+msgctxt "132143172-0-38985"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nAlso knocks enemy back <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nさらに敵を<<4>>ノックバックさせる。"
+
+#: 198758357-0-38985
+msgctxt "198758357-0-38985"
+msgid "Flame Clench"
+msgstr "炎のクレンチ"
+
+#: 132143172-0-38978
+msgctxt "132143172-0-38978"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>. "
+"\n"
+"\nAlso stuns the enemy for <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nさらに敵を<<4>>の間気絶させる。"
+
+#: 198758357-0-38978
+msgctxt "198758357-0-38978"
+msgid "Shock Reach"
+msgstr "雷撃のリーチ"
+
+#: 132143172-0-38970
+msgctxt "132143172-0-38970"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>. "
+"\n"
+"\nAlso immobilizes enemy for <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nさらに敵を<<4>>の間移動不能にする。"
+
+#: 198758357-0-38970
+msgctxt "198758357-0-38970"
+msgid "Frost Reach"
+msgstr "氷結のリーチ"
+
+#: 132143172-0-38944
+msgctxt "132143172-0-38944"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>. "
+"\n"
+"\nAlso knocks enemy back <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nまた、敵が<<4>>ノックバックする。"
+
+#: 198758357-0-38944
+msgctxt "198758357-0-38944"
+msgid "Flame Reach"
+msgstr "炎のリーチ"
+
+#: 132143172-0-29089
+msgctxt "132143172-0-29089"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nAlso stuns the enemy for <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nまた、敵が<<4>>の間気絶する。"
+
+#: 198758357-0-29089
+msgctxt "198758357-0-29089"
+msgid "Shock Touch"
+msgstr "雷撃の接触"
+
+#: 132143172-0-29078
+msgctxt "132143172-0-29078"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>."
+"\n"
+"\nAlso immobilizes enemy for <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nまた、敵が<<4>>の間移動不能になる。"
+
+#: 198758357-0-29078
+msgctxt "198758357-0-29078"
+msgid "Frost Touch"
+msgstr "氷結の接触"
+
+#: 132143172-0-29073
+msgctxt "132143172-0-29073"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> over <<3>>. "
+"\n"
+"\nAlso knocks enemy back <<4>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、<<2>>を追加で<<3>>の間与える。\\r"
+"\n\\r"
+"\nまた、敵が<<4>>ノックバックする。"
+
+#: 198758357-0-29073
+msgctxt "198758357-0-29073"
+msgid "Flame Touch"
+msgstr "炎の接触"
+
+#: 132143172-0-28854
+msgctxt "132143172-0-28854"
+msgid "Slam your staff down to create a storm barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> and setting concussed enemies Off Balance for <<3>>."
+msgstr "地面に杖を打ちつけて目の前に嵐の障壁を作り出す。範囲内にいる敵に<<1>>を<<2>>ごとに与え、脳震とう状態の敵を<<3>>間フラフラ状態にする。"
+
+#: 198758357-0-28854
+msgctxt "198758357-0-28854"
+msgid "Wall of Storms"
+msgstr "嵐の障壁"
+
+#: 132143172-0-28849
+msgctxt "132143172-0-28849"
+msgid "Slam your staff down to create an icy barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> and reducing their Movement Speed by <<3>>."
+"\n"
+"\nChilled enemies become frozen and are immobilized for <<4>>."
+msgstr "地面に杖を打ちつけて目の前に氷の障壁を作り出す。範囲内にいる敵に<<1>>を<<2>>ごとに与え、移動速度を<<3>>低下させる。\\r"
+"\n\\r"
+"\n冷気状態の敵は凍結し、<<4>>間移動不能になる。"
+
+#: 198758357-0-28849
+msgctxt "198758357-0-28849"
+msgid "Wall of Frost"
+msgstr "氷の壁"
+
+#: 132143172-0-28807
+msgctxt "132143172-0-28807"
+msgid "Slam your staff down to create a flaming barrier in front of you, dealing <<1>> to enemies in the target area every <<2>>."
+"\n"
+"\nBurning enemies take <<3>> more damage from this ability."
+msgstr "地面に杖を打ちつけて目の前に火の障壁を作り出す。範囲内にいる敵に<<1>>を<<2>>ごとに与える。\\r"
+"\n\\r"
+"\n炎上中の敵にこのアビリティを使用すると追加で<<3>>ダメージを与えることができる。"
+
+#: 198758357-0-28807
+msgctxt "198758357-0-28807"
+msgid "Wall of Fire"
+msgstr "火の壁"
+
+#: 132143172-0-28799
+msgctxt "132143172-0-28799"
+msgid "Release a surge of storm energy, dealing <<1>> to nearby enemies."
+msgstr "嵐の波動を放ち、近くにいる敵に<<1>>を与える。"
+
+#: 198758357-0-28799
+msgctxt "198758357-0-28799"
+msgid "Shock Impulse"
+msgstr "雷撃の衝撃"
+
+#: 132143172-0-28798
+msgctxt "132143172-0-28798"
+msgid "Release a surge of frost, dealing <<1>> to nearby enemies."
+msgstr "氷結の波動を放ち、近くにいる敵に<<1>>を与える。"
+
+#: 198758357-0-28798
+msgctxt "198758357-0-28798"
+msgid "Frost Impulse"
+msgstr "氷結の衝撃"
+
+#: 132143172-0-28794
+msgctxt "132143172-0-28794"
+msgid "Release a surge of flame, dealing <<1>> to nearby enemies."
+msgstr "炎の波動を放ち、近くにいる敵に<<1>>を与える。"
+
+#: 198758357-0-28794
+msgctxt "198758357-0-28794"
+msgid "Fire Impulse"
+msgstr "火の衝撃"

@@ -1,0 +1,409 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-83310
+msgctxt "132143172-0-83310"
+msgid "Reinforce your shield, allowing you to automatically block all attacks at no cost for <<1>>."
+"\n"
+"\nYour One Hand and Shield ability costs are reduced by <<2>> while active."
+msgstr ""
+"방패를 강화해서 <<1>> 동안 리소스 소모 없이 모든 공격을 자동으로 막아냅니다."
+"\n"
+""
+"\n"
+"활성화 되어있는 동안 한손무기 및 방패 어빌리티의 소모량이 <<2>> 감소합니다."
+
+#: 198758357-0-83310
+msgctxt "198758357-0-83310"
+msgid "Shield Discipline"
+msgstr "Shield Discipline"
+
+#: 132143172-0-83292
+msgctxt "132143172-0-83292"
+msgid "Reinforce your shield, allowing you to automatically block all attacks at no cost and reflect all projectiles cast at you for <<1>>."
+msgstr ""
+"방패를 강화해서 <<1>> 동안 소모되는 값 없이 모든 공격을 자동으로 막아내고 당신에게 시전되어 날아오는 투사체를 반사합니다."
+
+#: 198758357-0-83292
+msgctxt "198758357-0-83292"
+msgid "Spell Wall"
+msgstr "Spell Wall"
+
+#: 132143172-0-83272
+msgctxt "132143172-0-83272"
+msgid "Reinforce your shield, allowing you to automatically block all attacks at no cost for <<1>>."
+msgstr "방패를 강화해서 <<1>> 동안 소모되는 값 없이 모든 공격을 자동으로 막아냅니다."
+
+#: 198758357-0-83272
+msgctxt "198758357-0-83272"
+msgid "Shield Wall"
+msgstr "Shield Wall"
+
+#: 132143172-0-45473
+msgctxt "132143172-0-45473"
+msgid "Increases your Movement Speed while blocking by <<1>>."
+msgstr "막기 중 이동 속도가 <<1>> 증가합니다."
+
+#: 198758357-0-45473
+msgctxt "198758357-0-45473"
+msgid "Battlefield Mobility"
+msgstr "Battlefield Mobility"
+
+#: 132143172-0-45472
+msgctxt "132143172-0-45472"
+msgid "Increases the amount of damage you can block from projectiles and ranged attacks by <<1>>."
+msgstr "막아낼 수 있는 투사체와 원거리 공격의 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-45472
+msgctxt "198758357-0-45472"
+msgid "Deflect Bolts"
+msgstr "Deflect Bolts"
+
+#: 132143172-0-45471
+msgctxt "132143172-0-45471"
+msgid "Reduces the Stamina cost of your One Hand and Shield abilities by <<1>> and reduces the cost of blocking by |cffffff36|r%."
+msgstr "한손무기 및 방패 어빌리티의 스태미나 소모량이 <<1>> 감소하고 막기의 소모량이 <<2>> 감소합니다."
+
+#: 198758357-0-45471
+msgctxt "198758357-0-45471"
+msgid "Fortress"
+msgstr "Fortress"
+
+#: 132143172-0-45469
+msgctxt "132143172-0-45469"
+msgid "Improves your standard bash attacks. Bashing deals <<1>> additional damage and costs |cffffff40|r% less Stamina."
+msgstr ""
+"일반 배쉬 공격이 강화됩니다. 배쉬가 추가로 <<1>> 피해를 입히고 스태미나 소모량이  |cffffff40|r%  감소합니다."
+
+#: 198758357-0-45469
+msgctxt "198758357-0-45469"
+msgid "Deadly Bash"
+msgstr "Deadly Bash"
+
+#: 132143172-0-45452
+msgctxt "132143172-0-45452"
+msgid "Increases your Weapon Damage by <<1>>% and the amount of damage you can block by <<2>>."
+msgstr "무기 피해량이 <<1>>% 증가하고 막아낼 수 있는 피해량이 <<2>> 증가합니다."
+
+#: 198758357-0-45452
+msgctxt "198758357-0-45452"
+msgid "Sword and Board"
+msgstr "Sword and Board"
+
+#: 132143172-0-38455
+msgctxt "132143172-0-38455"
+msgid "Strike an enemy full-force with your shield, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<3>> for <<4>>."
+msgstr ""
+"혼신의 힘을 다해 방패로 적을 강타해 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"또한 적에게 Major Defile 효과를 가해 <<4>> 동안 받는 치유량을 <<3>> 감소시킵니다."
+
+#: 198758357-0-38455
+msgctxt "198758357-0-38455"
+msgid "Reverberating Bash"
+msgstr "Reverberating Bash"
+
+#: 132143172-0-38452
+msgctxt "132143172-0-38452"
+msgid "Strike an enemy full-force with your shield, dealing <<1>>."
+"\n"
+"\nWhile slotted, blocking any attack increases the damage of your next <<2>> by <<3>> for <<4>>."
+msgstr ""
+"혼신의 힘을 다해 방패로 적을 강타해 <<1>>를 줍니다."
+"\n"
+""
+"\n"
+"슬롯에 장착되어 있으면 막기에 성공할 때마다 <<4>> 동안 다음 <<2>>의 피해량이 <<3>> 증가합니다."
+
+#: 198758357-0-38452
+msgctxt "198758357-0-38452"
+msgid "Power Slam"
+msgstr "Power Slam"
+
+#: 132143172-0-38405
+msgctxt "132143172-0-38405"
+msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nStuns up to |cffffff88|r% longer based on the distance traveled."
+msgstr ""
+"적에게 돌진해서 들이받아 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"돌진한 거리에 비례해 기절 시간이 |cffffff88|r%까지 증가합니다."
+
+#: 198758357-0-38405
+msgctxt "198758357-0-38405"
+msgid "Invasion"
+msgstr "Invasion"
+
+#: 132143172-0-38401
+msgctxt "132143172-0-38401"
+msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>."
+"\n"
+"\nYou gain a damage shield after the attack, absorbing <<3>> damage for <<4>>."
+msgstr ""
+"적에게 돌진해서 들이받아 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"공격 후 보호막을 얻어 <<4>> 동안 <<3>> 피해를 흡수합니다."
+
+#: 198758357-0-38401
+msgctxt "198758357-0-38401"
+msgid "Shielded Assault"
+msgstr "Shielded Assault"
+
+#: 132143172-0-38317
+msgctxt "132143172-0-38317"
+msgid "Bolster your defenses, absorbing up to <<1>> damage from the next spell projectile cast at you and healing for <<2>>% of your Max Health."
+"\n"
+"\nWhile you have a shield equipped and this ability slotted, the amount of damage you can block is increased by <<3>> and the cost of blocking is reduced by <<4>>."
+msgstr ""
+"방어를 강화해 다음 당신에게 시전되어 날아오는 투사체의 피해량을 <<1>> 까지 흡수하고 최대 체력의 <<2>>% 만큼 회복합니다."
+"\n"
+""
+"\n"
+"방패를 장착하고 있는 동안 이 어빌리티가 슬롯에 있으면 막아낼 수 있는 피해가 <<3>> 증가하고 막기에 필요한 소모값이 <<4>> "
+"감소합니다."
+
+#: 198758357-0-38317
+msgctxt "198758357-0-38317"
+msgid "Absorb Magic"
+msgstr "Absorb Magic"
+
+#: 132143172-0-38312
+msgctxt "132143172-0-38312"
+msgid "Bolster your defenses, reflecting the next spell projectile cast at you back to the enemy. The reflected spell projectile stuns the enemy for <<1>>."
+"\n"
+"\nWhile you have a shield equipped and this ability slotted, the amount of damage you can block is increased by <<2>> and the cost of blocking is reduced by <<3>>."
+msgstr ""
+"방어를 강화해 다음 당신에게 시전되어 날아오는 투사체를 시전자에게 반사합니다. 반사된 투사체는 맞은 적을 <<1>> 동안 기절시킵니다."
+"\n"
+""
+"\n"
+"방패를 장착하고 있는 동안 이 어빌리티가 슬롯에 있으면 막아낼 수 있는 피해가 <<2>> 증가하고 막기에 필요한 소모값이 <<3>> "
+"감소합니다."
+
+#: 198758357-0-38312
+msgctxt "198758357-0-38312"
+msgid "Defensive Stance"
+msgstr "Defensive Stance"
+
+#: 132143172-0-38268
+msgctxt "132143172-0-38268"
+msgid "Surprise an enemy with a sweeping lunge, dealing <<1>> to them and <<2>> to |cffffff2|r other nearby enemies. You reduce the Movement Speed of all enemies hit by <<3>> for <<4>>."
+"\n"
+"\nAlso afflicts all enemies hit with <<5>>, reducing their damage done by <<6>> for <<7>>."
+msgstr ""
+"낮은 휩쓸기 공격으로 적을 기습해 <<1>>를 주고 대상 주변의 |cffffff2|r명의 적에게 <<2>>를 줍니다. 맞은 적은 이동 "
+"속도가 <<4>> 동안 <<3>> 감소합니다."
+"\n"
+""
+"\n"
+"또한 적에게 <<5>> 효과를 가해 <<4>> 동안 적이 가하는 피해를 <<6>> 감소시킵니다."
+
+#: 198758357-0-38268
+msgctxt "198758357-0-38268"
+msgid "Deep Slash"
+msgstr "Deep Slash"
+
+#: 132143172-0-38264
+msgctxt "132143172-0-38264"
+msgid "Surprise an enemy with a deep lunge, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAlso afflicts the enemy with <<4>>, reducing their damage done by <<5>> for <<6>>. "
+"\n"
+"\nYou gain <<7>>, granting you <<8>> Ultimate every <<9>> for <<10>>."
+msgstr ""
+"낮은 자세로 적을 기습해 <<1>>를 주고 <<3>> 동안 이동 속도를 <<2>> 감소시킵니다."
+"\n"
+""
+"\n"
+"또한 적에게 <<4>> 효과를 가해 <<6>> 동안 적이 가하는 피해를 <<5>> 감소시킵니다."
+"\n"
+""
+"\n"
+"당신은 <<7>> 효과를 얻어 <<10>> 동안 궁극기 게이지를 매 <<9>>마다 <<8>> 획득합니다."
+
+#: 198758357-0-38264
+msgctxt "198758357-0-38264"
+msgid "Heroic Slash"
+msgstr "Heroic Slash"
+
+#: 132143172-0-38256
+msgctxt "132143172-0-38256"
+msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>."
+"\n"
+"\nAlso afflicts the enemy with <<3>>, reducing their Physical Resistance by <<4>> for <<5>>."
+"\n"
+"\nYou also gain <<6>>, increasing your Physical Resistance by <<7>> for <<8>>."
+msgstr ""
+"적을 정확하게 찔러 <<1>>를 주고 <<2>> 동안 자신을 공격하도록 도발합니다."
+"\n"
+""
+"\n"
+"또한 적에게 <<3>> 효과를 가해 <<5>> 동안 물리 저항력을<<5>>동안 <<4>> 감소시킵니다."
+"\n"
+""
+"\n"
+"당신은 <<6>> 효과를 얻어 <<8>> 동안 물리 저항력이<<8>>동안 <<7>> 증가합니다."
+
+#: 198758357-0-38256
+msgctxt "198758357-0-38256"
+msgid "Ransack"
+msgstr "Ransack"
+
+#: 132143172-0-38250
+msgctxt "132143172-0-38250"
+msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>."
+"\n"
+"\nAlso afflicts the enemy with <<3>> and <<4>>, reducing their Physical Resistance and Spell Resistance by <<5>> for <<6>>."
+msgstr ""
+"적을 정확하게 찔러 <<1>>를 주고 <<2>> 동안 자신을 공격하도록 도발합니다."
+"\n"
+""
+"\n"
+"또한 적에게 <<3>>, <<4>> 효과를 가해 <<6>> 동안 물리 저항력과 마법 저항력<<6>>동안  <<5>> 감소시킵니다."
+
+#: 198758357-0-38250
+msgctxt "198758357-0-38250"
+msgid "Pierce Armor"
+msgstr "Pierce Armor"
+
+#: 132143172-0-29422
+msgctxt "132143172-0-29422"
+msgid "Increases your Movement Speed while blocking by <<1>>."
+msgstr "막기 중 이동 속도가 <<1>> 증가합니다."
+
+#: 198758357-0-29422
+msgctxt "198758357-0-29422"
+msgid "Battlefield Mobility"
+msgstr "Battlefield Mobility"
+
+#: 132143172-0-29420
+msgctxt "132143172-0-29420"
+msgid "Reduces the Stamina cost of your One Hand and Shield abilities by <<1>> and reduces the cost of blocking by |cffffff18|r%."
+msgstr "한손무기 및 방패 어빌리티의 스태미나 소모량이 <<1>> 감소하고 막기의 소모량이 <<2>> 감소합니다."
+
+#: 198758357-0-29420
+msgctxt "198758357-0-29420"
+msgid "Fortress"
+msgstr "Fortress"
+
+#: 132143172-0-29415
+msgctxt "132143172-0-29415"
+msgid "Improves your standard bash attacks. Bashing deals <<1>> additional damage and costs |cffffff20|r% less Stamina."
+msgstr ""
+"일반 배쉬 공격이 강화됩니다. 배쉬가 추가로 <<1>> 피해를 입히고 스태미나 소모량이 |cffffff20|r%  감소합니다."
+
+#: 198758357-0-29415
+msgctxt "198758357-0-29415"
+msgid "Deadly Bash"
+msgstr "Deadly Bash"
+
+#: 132143172-0-29399
+msgctxt "132143172-0-29399"
+msgid "Increases the amount of damage you can block from projectiles and ranged attacks by <<1>>."
+msgstr "막아낼 수 있는 투사체와 원거리 공격의 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-29399
+msgctxt "198758357-0-29399"
+msgid "Deflect Bolts"
+msgstr "Deflect Bolts"
+
+#: 132143172-0-29397
+msgctxt "132143172-0-29397"
+msgid "Increases your Weapon Damage by <<1>>% and the amount of damage you can block by <<2>>."
+msgstr "무기 피해량이 <<1>>% 증가하고 막아낼 수 있는 피해량이 <<2>> 증가합니다."
+
+#: 198758357-0-29397
+msgctxt "198758357-0-29397"
+msgid "Sword and Board"
+msgstr "Sword and Board"
+
+#: 132143172-0-28727
+msgctxt "132143172-0-28727"
+msgid "Bolster your defenses, reflecting the next spell projectile cast at you back to the enemy."
+"\n"
+"\nWhile you have a shield equipped and this ability slotted, the amount of damage you can block is increased by <<1>> and the cost of blocking is reduced by <<2>>."
+msgstr ""
+"방어를 강화해 다음 당신에게 시전되어 날아오는 투사체를 시전자에게 반사합니다."
+"\n"
+""
+"\n"
+"방패를 장착하고 있는 동안 이 어빌리티가 슬롯에 있으면 막아낼 수 있는 피해가 <<1>> 증가하고 막기에 필요한 소모값이 <<2>> "
+"감소합니다."
+
+#: 198758357-0-28727
+msgctxt "198758357-0-28727"
+msgid "Defensive Posture"
+msgstr "Defensive Posture"
+
+#: 132143172-0-28719
+msgctxt "132143172-0-28719"
+msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>."
+msgstr "적에게 돌진해서 들이받아 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+
+#: 198758357-0-28719
+msgctxt "198758357-0-28719"
+msgid "Shield Charge"
+msgstr "Shield Charge"
+
+#: 132143172-0-28365
+msgctxt "132143172-0-28365"
+msgid "Strike an enemy full-force with your shield, dealing <<1>> and stunning them for <<2>>."
+msgstr "혼신의 힘을 다해 방패로 적을 강타해 <<1>>를 주고 <<2>> 동안 기절시킵니다."
+
+#: 198758357-0-28365
+msgctxt "198758357-0-28365"
+msgid "Power Bash"
+msgstr "Power Bash"
+
+#: 132143172-0-28306
+msgctxt "132143172-0-28306"
+msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>."
+"\n"
+"\nAlso afflicts the enemy with <<3>>, reducing their Physical Resistance by <<4>> for <<5>>."
+msgstr ""
+"적을 정확하게 찔러 <<1>>를 주고 <<2>> 동안 자신을 공격하도록 도발합니다."
+"\n"
+""
+"\n"
+"또한 적에게 <<3>> 효과를 가해 <<5>> 동안 물리 저항력을 <<4>> 감소시킵니다."
+
+#: 198758357-0-28306
+msgctxt "198758357-0-28306"
+msgid "Puncture"
+msgstr "Puncture"
+
+#: 132143172-0-28304
+msgctxt "132143172-0-28304"
+msgid "Surprise an enemy with a deep lunge, dealing <<1>> and reducing their Movement Speed by <<2>> for <<3>>."
+"\n"
+"\nAlso afflicts the enemy with <<4>>, reducing their damage done by <<5>> for <<6>>."
+msgstr ""
+"낮은 자세로 적을 기습해 <<1>>를 주고 <<3>> 동안 이동 속도를 <<2>> 감소시킵니다."
+"\n"
+""
+"\n"
+"또한 적에게 <<4>> 효과를 가해 <<6>> 동안 적이 가하는 피해를 <<5>> 감소시킵니다."
+
+#: 198758357-0-28304
+msgctxt "198758357-0-28304"
+msgid "Low Slash"
+msgstr "Low Slash"

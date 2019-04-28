@@ -1,0 +1,1637 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 8290981-0-80236
+msgctxt "8290981-0-80236"
+msgid "Invisible"
+msgstr "Invisible"
+
+#: 8290981-0-80194
+msgctxt "8290981-0-80194"
+msgid "Ledge Caster"
+msgstr "突端のキャスター"
+
+#: 8290981-0-80130
+msgctxt "8290981-0-80130"
+msgid "Dwarven Arquebus"
+msgstr "ドワーフのアルケブス"
+
+#: 8290981-0-80129
+msgctxt "8290981-0-80129"
+msgid "Dwarven Spider"
+msgstr "ドワーフ・スパイダー"
+
+#: 8290981-0-80128
+msgctxt "8290981-0-80128"
+msgid "Dwarven Sphere"
+msgstr "ドワーフ・スフィア"
+
+#: 8290981-0-80127
+msgctxt "8290981-0-80127"
+msgid "Dwarven Arquebus"
+msgstr "ドワーフのアルケブス"
+
+#: 8290981-0-80125
+msgctxt "8290981-0-80125"
+msgid "FalkreathFemale"
+msgstr "FalkreathFemale"
+
+#: 8290981-0-80108
+msgctxt "8290981-0-80108"
+msgid "Falkreath Citizen"
+msgstr "ファルクリースの市民"
+
+#: 8290981-0-80107
+msgctxt "8290981-0-80107"
+msgid "Falkreath Citizen"
+msgstr "ファルクリースの市民"
+
+#: 8290981-0-80106
+msgctxt "8290981-0-80106"
+msgid "Falkreath Citizen"
+msgstr "ファルクリースの市民"
+
+#: 8290981-0-80094
+msgctxt "8290981-0-80094"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-80093
+msgctxt "8290981-0-80093"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-80092
+msgctxt "8290981-0-80092"
+msgid "Falkreath Archer"
+msgstr "ファルクリースの射手"
+
+#: 8290981-0-80091
+msgctxt "8290981-0-80091"
+msgid "Falkreath Archer"
+msgstr "ファルクリースの射手"
+
+#: 8290981-0-80089
+msgctxt "8290981-0-80089"
+msgid "Erbogar"
+msgstr "Erbogar"
+
+#: 8290981-0-80059
+msgctxt "8290981-0-80059"
+msgid "Dreadhorn Trampler"
+msgstr "ドレッドホーンのトランプラー"
+
+#: 8290981-0-80057
+msgctxt "8290981-0-80057"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-80056
+msgctxt "8290981-0-80056"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-80045
+msgctxt "8290981-0-80045"
+msgid "RedoranMediumMale"
+msgstr "レドラン女(中)"
+
+#: 8290981-0-80044
+msgctxt "8290981-0-80044"
+msgid "RedoranHvyMale"
+msgstr "レドラン男(重)"
+
+#: 8290981-0-80038
+msgctxt "8290981-0-80038"
+msgid "Lamia Domina"
+msgstr "ラミア・ドミナ"
+
+#: 8290981-0-80037
+msgctxt "8290981-0-80037"
+msgid "Lamia Curare"
+msgstr "ラミア・クラレ"
+
+#: 8290981-0-80035
+msgctxt "8290981-0-80035"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80027
+msgctxt "8290981-0-80027"
+msgid "Diseased Spore"
+msgstr "Diseased Spore"
+
+#: 8290981-0-80020
+msgctxt "8290981-0-80020"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80019
+msgctxt "8290981-0-80019"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80018
+msgctxt "8290981-0-80018"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80017
+msgctxt "8290981-0-80017"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80016
+msgctxt "8290981-0-80016"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80015
+msgctxt "8290981-0-80015"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80014
+msgctxt "8290981-0-80014"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80013
+msgctxt "8290981-0-80013"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-80011
+msgctxt "8290981-0-80011"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-79935
+msgctxt "8290981-0-79935"
+msgid "Target Iron Atronach"
+msgstr "標的用・鉄の精霊"
+
+#: 8290981-0-79934
+msgctxt "8290981-0-79934"
+msgid "Target Stone Atronach"
+msgstr "標的用・石の精霊"
+
+#: 8290981-0-79933
+msgctxt "8290981-0-79933"
+msgid "Robust Target Minotaur Handler"
+msgstr "頑丈な標的用ミノタウロス使い"
+
+#: 8290981-0-79913
+msgctxt "8290981-0-79913"
+msgid "WolfCInder"
+msgstr "WolfCInder"
+
+#: 8290981-0-79896
+msgctxt "8290981-0-79896"
+msgid "Tuxedo Bear"
+msgstr "タキシードグマ"
+
+#: 8290981-0-79892
+msgctxt "8290981-0-79892"
+msgid "ShadowHorse"
+msgstr "ShadowHorse"
+
+#: 8290981-0-79885
+msgctxt "8290981-0-79885"
+msgid "Ixniaa's Handmaiden"
+msgstr "イクシニアの付き添い"
+
+#: 8290981-0-79880
+msgctxt "8290981-0-79880"
+msgid "Menacing Lamia"
+msgstr "恐ろしきラミア"
+
+#: 8290981-0-79879
+msgctxt "8290981-0-79879"
+msgid "Menacing Lamia Curare"
+msgstr "恐ろしきラミア・クラレ"
+
+#: 8290981-0-79850
+msgctxt "8290981-0-79850"
+msgid "Shadowghost Guar"
+msgstr "幽影グアル"
+
+#: 8290981-0-79841
+msgctxt "8290981-0-79841"
+msgid "Shadowghost Guar Mount"
+msgstr "幽影騎乗グアル"
+
+#: 8290981-0-79822
+msgctxt "8290981-0-79822"
+msgid "Shadowghost Senche-Panther"
+msgstr "幽影センチパンサー"
+
+#: 8290981-0-79821
+msgctxt "8290981-0-79821"
+msgid "Shadowghost Pack Wolf"
+msgstr "幽影オオカミの群れ"
+
+#: 8290981-0-79749
+msgctxt "8290981-0-79749"
+msgid "Shadowghost Wolf Mount"
+msgstr "幽影騎乗オオカミ"
+
+#: 8290981-0-79745
+msgctxt "8290981-0-79745"
+msgid "Cecil"
+msgstr "セシル"
+
+#: 8290981-0-79736
+msgctxt "8290981-0-79736"
+msgid "Cernunnon"
+msgstr "Cernunnon"
+
+#: 8290981-0-79716
+msgctxt "8290981-0-79716"
+msgid "Cinder Skeletal Senche"
+msgstr "灰覆いの骸骨センチ"
+
+#: 8290981-0-79697
+msgctxt "8290981-0-79697"
+msgid "Frost Draugr Skeletal Senche"
+msgstr "フロストドラウグルの骸骨センチ"
+
+#: 8290981-0-79672
+msgctxt "8290981-0-79672"
+msgid "Shadowghost Pony"
+msgstr "幽影ポニー"
+
+#: 8290981-0-79663
+msgctxt "8290981-0-79663"
+msgid "Crow"
+msgstr "Crow"
+
+#: 8290981-0-79661
+msgctxt "8290981-0-79661"
+msgid "Dire Pony"
+msgstr "ダイアポニー"
+
+#: 8290981-0-79660
+msgctxt "8290981-0-79660"
+msgid "Stone Atronach"
+msgstr "石の精霊"
+
+#: 8290981-0-79651
+msgctxt "8290981-0-79651"
+msgid "Shadowghost Senche Mount"
+msgstr "幽影騎乗センチ"
+
+#: 8290981-0-79642
+msgctxt "8290981-0-79642"
+msgid "Plague Husk Skeletal Horse"
+msgstr "骸骨馬の疫病ハスク"
+
+#: 8290981-0-79604
+msgctxt "8290981-0-79604"
+msgid "Factotum"
+msgstr "ファクトタム"
+
+#: 8290981-0-79603
+msgctxt "8290981-0-79603"
+msgid "Factotum"
+msgstr "ファクトタム"
+
+#: 8290981-0-79602
+msgctxt "8290981-0-79602"
+msgid "Factotum"
+msgstr "ファクトタム"
+
+#: 8290981-0-79601
+msgctxt "8290981-0-79601"
+msgid "Factotum"
+msgstr "ファクトタム"
+
+#: 8290981-0-79600
+msgctxt "8290981-0-79600"
+msgid "Factotum"
+msgstr "ファクトタム"
+
+#: 8290981-0-79590
+msgctxt "8290981-0-79590"
+msgid "Plague Husk Skeletal Senche"
+msgstr "骸骨センチの疫病ハスク"
+
+#: 8290981-0-79556
+msgctxt "8290981-0-79556"
+msgid "Frost Draugr Skeletal Horse"
+msgstr "フロストドラウグルの骸骨馬"
+
+#: 8290981-0-79544
+msgctxt "8290981-0-79544"
+msgid "Witch Knight Charger"
+msgstr "ウィッチナイトの突撃兵"
+
+#: 8290981-0-79530
+msgctxt "8290981-0-79530"
+msgid "Draugr MiniBoss"
+msgstr "Draugr MiniBoss"
+
+#: 8290981-0-79518
+msgctxt "8290981-0-79518"
+msgid "Ignace Geves"
+msgstr "Ignace Geves"
+
+#: 8290981-0-79495
+msgctxt "8290981-0-79495"
+msgid "Shadowghost Horse"
+msgstr "幽影馬"
+
+#: 8290981-0-79489
+msgctxt "8290981-0-79489"
+msgid "Haunted House Cat"
+msgstr "幽霊屋敷の猫"
+
+#: 8290981-0-79482
+msgctxt "8290981-0-79482"
+msgid "Scholar"
+msgstr "Scholar"
+
+#: 8290981-0-79397
+msgctxt "8290981-0-79397"
+msgid "Cinder Skeletal Horse"
+msgstr "灰覆いの骸骨馬"
+
+#: 8290981-0-79276
+msgctxt "8290981-0-79276"
+msgid "Maliah"
+msgstr "マリア"
+
+#: 8290981-0-79231
+msgctxt "8290981-0-79231"
+msgid "Pinnacle Fabricant"
+msgstr "Pinnacle Fabricant"
+
+#: 8290981-0-79222
+msgctxt "8290981-0-79222"
+msgid "Crow"
+msgstr "Crow"
+
+#: 8290981-0-79204
+msgctxt "8290981-0-79204"
+msgid "Shadow"
+msgstr "影"
+
+#: 8290981-0-79194
+msgctxt "8290981-0-79194"
+msgid "Plague Husk Skeletal Wolf"
+msgstr "骸骨狼 の疫病ハスク"
+
+#: 8290981-0-79158
+msgctxt "8290981-0-79158"
+msgid "Crow"
+msgstr "カラス"
+
+#: 8290981-0-79155
+msgctxt "8290981-0-79155"
+msgid "Skeletal Pony Guar"
+msgstr "骸骨コグアル"
+
+#: 8290981-0-79153
+msgctxt "8290981-0-79153"
+msgid "Crow"
+msgstr "カラス"
+
+#: 8290981-0-79152
+msgctxt "8290981-0-79152"
+msgid "Lilatha's Shadow"
+msgstr "リラサの影"
+
+#: 8290981-0-79137
+msgctxt "8290981-0-79137"
+msgid "Crow"
+msgstr "カラス"
+
+#: 8290981-0-79128
+msgctxt "8290981-0-79128"
+msgid "Mertis Othren"
+msgstr "メルティス・オスレン"
+
+#: 8290981-0-79112
+msgctxt "8290981-0-79112"
+msgid "Crow"
+msgstr "カラス"
+
+#: 8290981-0-79089
+msgctxt "8290981-0-79089"
+msgid "Frost Draugr Skeletal Wolf"
+msgstr "フロストドラウグルの骸骨狼"
+
+#: 8290981-0-79026
+msgctxt "8290981-0-79026"
+msgid "Generic Invisible Target"
+msgstr "Generic Invisible Target"
+
+#: 8290981-0-79014
+msgctxt "8290981-0-79014"
+msgid "Skeletal Senche-Leopard"
+msgstr "骸骨センチレオパルド"
+
+#: 8290981-0-79013
+msgctxt "8290981-0-79013"
+msgid "Skeletal Pack Wolf"
+msgstr "骸骨パックウルフ"
+
+#: 8290981-0-79010
+msgctxt "8290981-0-79010"
+msgid "Karthwolf Shepherd"
+msgstr "カースウルフ・シェパード"
+
+#: 8290981-0-78998
+msgctxt "8290981-0-78998"
+msgid "Cinder Skeletal Wolf"
+msgstr "灰覆いの骸骨狼"
+
+#: 8290981-0-78987
+msgctxt "8290981-0-78987"
+msgid "Karthwolf Charger"
+msgstr "カースウルフの突撃兵"
+
+#: 8290981-0-78970
+msgctxt "8290981-0-78970"
+msgid "Jackdaw Daedrat"
+msgstr "ジャックドー・デイドラット"
+
+#: 8290981-0-78946
+msgctxt "8290981-0-78946"
+msgid "Avulrund"
+msgstr "アヴルンド"
+
+#: 8290981-0-78935
+msgctxt "8290981-0-78935"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-78934
+msgctxt "8290981-0-78934"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-78931
+msgctxt "8290981-0-78931"
+msgid "Revus Demnevanni"
+msgstr "リヴス・デムネヴァンニ"
+
+#: 8290981-0-78888
+msgctxt "8290981-0-78888"
+msgid "Abah's Landing Guard"
+msgstr "Abah's Landing Guard"
+
+#: 8290981-0-78887
+msgctxt "8290981-0-78887"
+msgid "Abah's Landing Guard"
+msgstr "Abah's Landing Guard"
+
+#: 8290981-0-78886
+msgctxt "8290981-0-78886"
+msgid "Abah's Landing Guard"
+msgstr "Abah's Landing Guard"
+
+#: 8290981-0-78885
+msgctxt "8290981-0-78885"
+msgid "Abah's Landing Guard"
+msgstr "Abah's Landing Guard"
+
+#: 8290981-0-78882
+msgctxt "8290981-0-78882"
+msgid "Mochveda"
+msgstr "Mochveda"
+
+#: 8290981-0-78772
+msgctxt "8290981-0-78772"
+msgid "Eerika Skjoralmor"
+msgstr "エーリカ・スクジョラルモル"
+
+#: 8290981-0-78755
+msgctxt "8290981-0-78755"
+msgid "Delver 9 Cannon C"
+msgstr "Delver 9 Cannon C"
+
+#: 8290981-0-78717
+msgctxt "8290981-0-78717"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78716
+msgctxt "8290981-0-78716"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78699
+msgctxt "8290981-0-78699"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-78698
+msgctxt "8290981-0-78698"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-78693
+msgctxt "8290981-0-78693"
+msgid "Burning Debris"
+msgstr "燃える瓦礫"
+
+#: 8290981-0-78680
+msgctxt "8290981-0-78680"
+msgid "Citizen"
+msgstr "市民"
+
+#: 8290981-0-78678
+msgctxt "8290981-0-78678"
+msgid "Citizen"
+msgstr "市民"
+
+#: 8290981-0-78667
+msgctxt "8290981-0-78667"
+msgid "Vanskyr"
+msgstr "ヴァンスキル"
+
+#: 8290981-0-78563
+msgctxt "8290981-0-78563"
+msgid "Nightmare Senche"
+msgstr "ナイトメア・センチ"
+
+#: 8290981-0-78561
+msgctxt "8290981-0-78561"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78546
+msgctxt "8290981-0-78546"
+msgid "Rena Hammerhands"
+msgstr "レナ・ハンマーハンズ"
+
+#: 8290981-0-78509
+msgctxt "8290981-0-78509"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78508
+msgctxt "8290981-0-78508"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78505
+msgctxt "8290981-0-78505"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78504
+msgctxt "8290981-0-78504"
+msgid "Captive"
+msgstr "Captive"
+
+#: 8290981-0-78502
+msgctxt "8290981-0-78502"
+msgid "Captive"
+msgstr "Captive"
+
+#: 8290981-0-78501
+msgctxt "8290981-0-78501"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78500
+msgctxt "8290981-0-78500"
+msgid "Captive"
+msgstr "Captive"
+
+#: 8290981-0-78499
+msgctxt "8290981-0-78499"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78498
+msgctxt "8290981-0-78498"
+msgid "Captive"
+msgstr "Captive"
+
+#: 8290981-0-78497
+msgctxt "8290981-0-78497"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78495
+msgctxt "8290981-0-78495"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78494
+msgctxt "8290981-0-78494"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78493
+msgctxt "8290981-0-78493"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78492
+msgctxt "8290981-0-78492"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-78490
+msgctxt "8290981-0-78490"
+msgid "Dreadhorn Clanslayer"
+msgstr "Dreadhorn Clanslayer"
+
+#: 8290981-0-78489
+msgctxt "8290981-0-78489"
+msgid "Dreadhorn Chanter"
+msgstr "ドレッドホーンの詠唱師"
+
+#: 8290981-0-78488
+msgctxt "8290981-0-78488"
+msgid "Dreadhorn Thornslinger"
+msgstr "ドレッドホーンのソーンスリンガー"
+
+#: 8290981-0-78487
+msgctxt "8290981-0-78487"
+msgid "Dreadhorn Manhunter"
+msgstr "ドレッドホーンのマンハンター"
+
+#: 8290981-0-78485
+msgctxt "8290981-0-78485"
+msgid "Jarl Skjoralmor"
+msgstr "スクジョラルモル首長"
+
+#: 8290981-0-78471
+msgctxt "8290981-0-78471"
+msgid "Bonafryd"
+msgstr "ボナフリド"
+
+#: 8290981-0-78452
+msgctxt "8290981-0-78452"
+msgid "Obscuros Projection"
+msgstr "オブスキュロスの幻影"
+
+#: 8290981-0-78450
+msgctxt "8290981-0-78450"
+msgid "Obscuros Projection"
+msgstr "オブスキュロスの幻影"
+
+#: 8290981-0-78449
+msgctxt "8290981-0-78449"
+msgid "Obscuros Projection"
+msgstr "Obscuros Projection"
+
+#: 8290981-0-78437
+msgctxt "8290981-0-78437"
+msgid "Lilatha's Shadow"
+msgstr "リラサの影"
+
+#: 8290981-0-78409
+msgctxt "8290981-0-78409"
+msgid "Skeletal Camel"
+msgstr "骸骨ラクダ"
+
+#: 8290981-0-78408
+msgctxt "8290981-0-78408"
+msgid "Skeletal Wolf"
+msgstr "骸骨狼"
+
+#: 8290981-0-78371
+msgctxt "8290981-0-78371"
+msgid "Skeletal Guar"
+msgstr "骸骨グアル"
+
+#: 8290981-0-78370
+msgctxt "8290981-0-78370"
+msgid "Skeletal Senche"
+msgstr "骸骨センチ"
+
+#: 8290981-0-78369
+msgctxt "8290981-0-78369"
+msgid "Skeletal Horse"
+msgstr "骸骨馬"
+
+#: 8290981-0-78327
+msgctxt "8290981-0-78327"
+msgid "Lilatha"
+msgstr "リラサ"
+
+#: 8290981-0-78326
+msgctxt "8290981-0-78326"
+msgid "Crosstree Bravo"
+msgstr "クロスツリーの刺客"
+
+#: 8290981-0-78252
+msgctxt "8290981-0-78252"
+msgid "Lilatha"
+msgstr "リラサ"
+
+#: 8290981-0-78247
+msgctxt "8290981-0-78247"
+msgid "Cernunnon"
+msgstr "ケルヌノン"
+
+#: 8290981-0-78246
+msgctxt "8290981-0-78246"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-78245
+msgctxt "8290981-0-78245"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78244
+msgctxt "8290981-0-78244"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78243
+msgctxt "8290981-0-78243"
+msgid "Draugr Scourge"
+msgstr "ドラウグル・スカージ"
+
+#: 8290981-0-78242
+msgctxt "8290981-0-78242"
+msgid "Draugr Scourge"
+msgstr "ドラウグル・スカージ"
+
+#: 8290981-0-78241
+msgctxt "8290981-0-78241"
+msgid "Draugr Wight"
+msgstr "ドラウグル・ワイト"
+
+#: 8290981-0-78240
+msgctxt "8290981-0-78240"
+msgid "Draugr Wight"
+msgstr "ドラウグル・ワイト"
+
+#: 8290981-0-78239
+msgctxt "8290981-0-78239"
+msgid "Draugr Feral-Fiend"
+msgstr "ドラウグルのフェラルフィーンド"
+
+#: 8290981-0-78235
+msgctxt "8290981-0-78235"
+msgid "Draugr Feral-Fiend"
+msgstr "ドラウグルのフェラルフィーンド"
+
+#: 8290981-0-78230
+msgctxt "8290981-0-78230"
+msgid "Captain Xarei"
+msgstr "ザレイ隊長"
+
+#: 8290981-0-78229
+msgctxt "8290981-0-78229"
+msgid "Neelo"
+msgstr "ニーロ"
+
+#: 8290981-0-78228
+msgctxt "8290981-0-78228"
+msgid "Wenridil"
+msgstr "ウェンリディル"
+
+#: 8290981-0-78221
+msgctxt "8290981-0-78221"
+msgid "Adeber Loumont"
+msgstr "アデバー・ロウモント"
+
+#: 8290981-0-78220
+msgctxt "8290981-0-78220"
+msgid "Eloic Montieu"
+msgstr "エロイック・モンティーユ"
+
+#: 8290981-0-78216
+msgctxt "8290981-0-78216"
+msgid "Bonafryd"
+msgstr "ボナフリド"
+
+#: 8290981-0-78214
+msgctxt "8290981-0-78214"
+msgid "Stone Totem"
+msgstr "岩石のトーテム"
+
+#: 8290981-0-78213
+msgctxt "8290981-0-78213"
+msgid "Shock Totem"
+msgstr "衝撃のトーテム"
+
+#: 8290981-0-78212
+msgctxt "8290981-0-78212"
+msgid "Frost Totem"
+msgstr "氷結トーテム"
+
+#: 8290981-0-78211
+msgctxt "8290981-0-78211"
+msgid "Kwama Egg"
+msgstr "Kwama Egg"
+
+#: 8290981-0-78189
+msgctxt "8290981-0-78189"
+msgid "Cernunnos"
+msgstr "Cernunnos"
+
+#: 8290981-0-78188
+msgctxt "8290981-0-78188"
+msgid "Flame Totem"
+msgstr "火炎のトーテム"
+
+#: 8290981-0-78186
+msgctxt "8290981-0-78186"
+msgid "Torik"
+msgstr "トリク"
+
+#: 8290981-0-78185
+msgctxt "8290981-0-78185"
+msgid "Citizen"
+msgstr "市民"
+
+#: 8290981-0-78184
+msgctxt "8290981-0-78184"
+msgid "Citizen"
+msgstr "市民"
+
+#: 8290981-0-78169
+msgctxt "8290981-0-78169"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78167
+msgctxt "8290981-0-78167"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78165
+msgctxt "8290981-0-78165"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78164
+msgctxt "8290981-0-78164"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78163
+msgctxt "8290981-0-78163"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78162
+msgctxt "8290981-0-78162"
+msgid "Draugr Thrall"
+msgstr "ドラウグルの虜囚"
+
+#: 8290981-0-78160
+msgctxt "8290981-0-78160"
+msgid "Stone Atronach"
+msgstr "石の精霊"
+
+#: 8290981-0-78155
+msgctxt "8290981-0-78155"
+msgid "Flame Atronach"
+msgstr "炎の精霊"
+
+#: 8290981-0-78154
+msgctxt "8290981-0-78154"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-78150
+msgctxt "8290981-0-78150"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-78137
+msgctxt "8290981-0-78137"
+msgid "Frost Atronach"
+msgstr "氷結の精霊"
+
+#: 8290981-0-78134
+msgctxt "8290981-0-78134"
+msgid "Storm Atronach"
+msgstr "嵐の精霊"
+
+#: 8290981-0-78095
+msgctxt "8290981-0-78095"
+msgid "Dreadhorn Town-Razer"
+msgstr "ドレッドホーンのタウンレイザー"
+
+#: 8290981-0-78093
+msgctxt "8290981-0-78093"
+msgid "Dreadhorn Town-Razer"
+msgstr "ドレッドホーンのタウンレイザー"
+
+#: 8290981-0-78089
+msgctxt "8290981-0-78089"
+msgid "Bonafryd"
+msgstr "ボナフリド"
+
+#: 8290981-0-78087
+msgctxt "8290981-0-78087"
+msgid "Lilatha's Shadow"
+msgstr "リラサの影"
+
+#: 8290981-0-78076
+msgctxt "8290981-0-78076"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-78075
+msgctxt "8290981-0-78075"
+msgid "Falkreath Defender"
+msgstr "ファルクリースの守り手"
+
+#: 8290981-0-78073
+msgctxt "8290981-0-78073"
+msgid "Wenridil's Shadow"
+msgstr "ウェンリディルの影"
+
+#: 8290981-0-78072
+msgctxt "8290981-0-78072"
+msgid "Catapult"
+msgstr "カタパルト"
+
+#: 8290981-0-78066
+msgctxt "8290981-0-78066"
+msgid "Draugr MiniBoss"
+msgstr "Draugr MiniBoss"
+
+#: 8290981-0-78060
+msgctxt "8290981-0-78060"
+msgid "Dreadhorn Firebrand"
+msgstr "ドレッドホーンのファイアブランド"
+
+#: 8290981-0-78059
+msgctxt "8290981-0-78059"
+msgid "Dreadhorn Firebrand"
+msgstr "ドレッドホーンのファイアブランド"
+
+#: 8290981-0-78056
+msgctxt "8290981-0-78056"
+msgid "Dreadhorn Wallbreaker"
+msgstr "ドレッドホーンのウォールブレイカー"
+
+#: 8290981-0-78055
+msgctxt "8290981-0-78055"
+msgid "Dreadhorn Scrapper"
+msgstr "ドレッドホーンのスクラッパー"
+
+#: 8290981-0-78054
+msgctxt "8290981-0-78054"
+msgid "Dreadhorn Scrapper"
+msgstr "ドレッドホーンのスクラッパー"
+
+#: 8290981-0-78053
+msgctxt "8290981-0-78053"
+msgid "Deathlord Bjarfrud Skjoralmor"
+msgstr "死の王ブジャーフルド・スクジョラルモル"
+
+#: 8290981-0-78052
+msgctxt "8290981-0-78052"
+msgid "Dreadhorn Scrapper"
+msgstr "ドレッドホーンのスクラッパー"
+
+#: 8290981-0-78051
+msgctxt "8290981-0-78051"
+msgid "Draugr Add"
+msgstr "Draugr Add"
+
+#: 8290981-0-78050
+msgctxt "8290981-0-78050"
+msgid "Draugr MiniBoss"
+msgstr "Draugr MiniBoss"
+
+#: 8290981-0-78048
+msgctxt "8290981-0-78048"
+msgid "Dreadhorn Scrapper"
+msgstr "ドレッドホーンのスクラッパー"
+
+#: 8290981-0-78047
+msgctxt "8290981-0-78047"
+msgid "Dreadhorn Trampler"
+msgstr "ドレッドホーンのトランプラー"
+
+#: 8290981-0-78046
+msgctxt "8290981-0-78046"
+msgid "Dreadhorn Earthbinder"
+msgstr "ドレッドホーンのアースバインダー"
+
+#: 8290981-0-78045
+msgctxt "8290981-0-78045"
+msgid "Dreadhorn Wallbreaker"
+msgstr "ドレッドホーンのウォールブレイカー"
+
+#: 8290981-0-78043
+msgctxt "8290981-0-78043"
+msgid "Dreadhorn Wildtamer"
+msgstr "ドレッドホーンのワイルドテイマー"
+
+#: 8290981-0-78042
+msgctxt "8290981-0-78042"
+msgid "Dreadhorn Wildtamer"
+msgstr "ドレッドホーンのワイルドテイマー"
+
+#: 8290981-0-78035
+msgctxt "8290981-0-78035"
+msgid "Cernunnos"
+msgstr "Cernunnos"
+
+#: 8290981-0-78031
+msgctxt "8290981-0-78031"
+msgid "Cernunnon"
+msgstr "ケルヌノン"
+
+#: 8290981-0-78029
+msgctxt "8290981-0-78029"
+msgid "Dreadhorn Thornslinger"
+msgstr "ドレッドホーンのソーンスリンガー"
+
+#: 8290981-0-78023
+msgctxt "8290981-0-78023"
+msgid "Stone Totem"
+msgstr "岩石のトーテム"
+
+#: 8290981-0-78022
+msgctxt "8290981-0-78022"
+msgid "Shock Totem"
+msgstr "衝撃のトーテム"
+
+#: 8290981-0-78021
+msgctxt "8290981-0-78021"
+msgid "Flame Totem"
+msgstr "火炎のトーテム"
+
+#: 8290981-0-78018
+msgctxt "8290981-0-78018"
+msgid "Frost Totem"
+msgstr "氷結トーテム"
+
+#: 8290981-0-78012
+msgctxt "8290981-0-78012"
+msgid "Skaldir's Shadow"
+msgstr "スカルディアの影"
+
+#: 8290981-0-78011
+msgctxt "8290981-0-78011"
+msgid "Skaldir"
+msgstr "スカルディル"
+
+#: 8290981-0-78003
+msgctxt "8290981-0-78003"
+msgid "Fiery Necro Reach"
+msgstr "Fiery Necro Reach"
+
+#: 8290981-0-78001
+msgctxt "8290981-0-78001"
+msgid "Falkreath Archer"
+msgstr "ファルクリースの射手"
+
+#: 8290981-0-78000
+msgctxt "8290981-0-78000"
+msgid "Falkreath Archer"
+msgstr "ファルクリースの射手"
+
+#: 8290981-0-77999
+msgctxt "8290981-0-77999"
+msgid "Cernunnos"
+msgstr "Cernunnos"
+
+#: 8290981-0-77976
+msgctxt "8290981-0-77976"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-77975
+msgctxt "8290981-0-77975"
+msgid "Skeleton"
+msgstr "スケルトン"
+
+#: 8290981-0-77964
+msgctxt "8290981-0-77964"
+msgid "Ravenous Revenant"
+msgstr "凶暴なレブナント"
+
+#: 8290981-0-77963
+msgctxt "8290981-0-77963"
+msgid "Wraith"
+msgstr "レイス"
+
+#: 8290981-0-77914
+msgctxt "8290981-0-77914"
+msgid "Dreadhorn Thornslinger"
+msgstr "ドレッドホーンのソーンスリンガー"
+
+#: 8290981-0-77821
+msgctxt "8290981-0-77821"
+msgid "Mochveda"
+msgstr "モクヴェダ"
+
+#: 8290981-0-77820
+msgctxt "8290981-0-77820"
+msgid "Erbogar"
+msgstr "アーボガル"
+
+#: 8290981-0-77819
+msgctxt "8290981-0-77819"
+msgid "Tuecille"
+msgstr "トゥサイル"
+
+#: 8290981-0-77787
+msgctxt "8290981-0-77787"
+msgid "Cernunnon"
+msgstr "ケルヌノン"
+
+#: 8290981-0-77055
+msgctxt "8290981-0-77055"
+msgid "Rena Hammerhands"
+msgstr "レナ・ハンマーハンズ"
+
+#: 8290981-0-77047
+msgctxt "8290981-0-77047"
+msgid "Earthgore Amalgam"
+msgstr "アースゴア・アマルガム"
+
+#: 8290981-0-77015
+msgctxt "8290981-0-77015"
+msgid "Lava"
+msgstr "溶岩"
+
+#: 8290981-0-76999
+msgctxt "8290981-0-76999"
+msgid "Rebelling Captive"
+msgstr "反乱した捕虜"
+
+#: 8290981-0-76992
+msgctxt "8290981-0-76992"
+msgid "Rebelling Captive"
+msgstr "反乱した捕虜"
+
+#: 8290981-0-76991
+msgctxt "8290981-0-76991"
+msgid "Nirnblooded Bear"
+msgstr "ニルンブラッドの熊"
+
+#: 8290981-0-76982
+msgctxt "8290981-0-76982"
+msgid "Nirnblooded Senche"
+msgstr "ニルンブラッドのセンチ"
+
+#: 8290981-0-76981
+msgctxt "8290981-0-76981"
+msgid "Nirnblooded Guar"
+msgstr "ニルンブラッドのグアル"
+
+#: 8290981-0-76921
+msgctxt "8290981-0-76921"
+msgid "Rebelling Captive"
+msgstr "反乱した捕虜"
+
+#: 8290981-0-76920
+msgctxt "8290981-0-76920"
+msgid "Rebelling Captive"
+msgstr "反乱した捕虜"
+
+#: 8290981-0-76894
+msgctxt "8290981-0-76894"
+msgid "Reach Fire Healer"
+msgstr "Reach Fire Healer"
+
+#: 8290981-0-76871
+msgctxt "8290981-0-76871"
+msgid "Minotaur Shaman"
+msgstr "Minotaur Shaman"
+
+#: 8290981-0-76862
+msgctxt "8290981-0-76862"
+msgid "Earthgore Amalgam"
+msgstr "アースゴア・アマルガム"
+
+#: 8290981-0-76825
+msgctxt "8290981-0-76825"
+msgid "Reach Assassin"
+msgstr "Reach Assassin"
+
+#: 8290981-0-76820
+msgctxt "8290981-0-76820"
+msgid "Minotaur Shaman"
+msgstr "Minotaur Shaman"
+
+#: 8290981-0-76783
+msgctxt "8290981-0-76783"
+msgid "Lava Ball"
+msgstr "溶岩球"
+
+#: 8290981-0-76701
+msgctxt "8290981-0-76701"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76619
+msgctxt "8290981-0-76619"
+msgid "Lava Geyser"
+msgstr "ラヴァ・ゲイザー"
+
+#: 8290981-0-76557
+msgctxt "8290981-0-76557"
+msgid "Minotaur Shaman"
+msgstr "Minotaur Shaman"
+
+#: 8290981-0-76546
+msgctxt "8290981-0-76546"
+msgid "Stoneheart"
+msgstr "Stoneheart"
+
+#: 8290981-0-76533
+msgctxt "8290981-0-76533"
+msgid "Stone Atronach"
+msgstr "石の精霊"
+
+#: 8290981-0-76498
+msgctxt "8290981-0-76498"
+msgid "Nirnblooded Bear"
+msgstr "ニルンブラッドの熊"
+
+#: 8290981-0-76497
+msgctxt "8290981-0-76497"
+msgid "Lava Geyser"
+msgstr "ラヴァ・ゲイザー"
+
+#: 8290981-0-76496
+msgctxt "8290981-0-76496"
+msgid "Dreadhorn Harpy"
+msgstr "Dreadhorn Harpy"
+
+#: 8290981-0-76490
+msgctxt "8290981-0-76490"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76485
+msgctxt "8290981-0-76485"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76484
+msgctxt "8290981-0-76484"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76481
+msgctxt "8290981-0-76481"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76432
+msgctxt "8290981-0-76432"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76430
+msgctxt "8290981-0-76430"
+msgid "Earthgore Amalgam"
+msgstr "アースゴア・アマルガム"
+
+#: 8290981-0-76413
+msgctxt "8290981-0-76413"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76407
+msgctxt "8290981-0-76407"
+msgid "Nirnblooded Guar"
+msgstr "ニルンブラッドのグアル"
+
+#: 8290981-0-76406
+msgctxt "8290981-0-76406"
+msgid "Nirnblooded Senche"
+msgstr "ニルンブラッドのセンチ"
+
+#: 8290981-0-76405
+msgctxt "8290981-0-76405"
+msgid "Nirnblooded Spriggan"
+msgstr "Nirnblooded Spriggan"
+
+#: 8290981-0-76396
+msgctxt "8290981-0-76396"
+msgid "Galchobhar"
+msgstr "Galchobhar"
+
+#: 8290981-0-76380
+msgctxt "8290981-0-76380"
+msgid "Stone Atronach"
+msgstr "Stone Atronach"
+
+#: 8290981-0-76376
+msgctxt "8290981-0-76376"
+msgid "Stone Atronach"
+msgstr "Stone Atronach"
+
+#: 8290981-0-76364
+msgctxt "8290981-0-76364"
+msgid "Stone Atronach"
+msgstr "Stone Atronach"
+
+#: 8290981-0-76336
+msgctxt "8290981-0-76336"
+msgid "Stoneheart"
+msgstr "Stoneheart"
+
+#: 8290981-0-76308
+msgctxt "8290981-0-76308"
+msgid "Nirncrux Shards"
+msgstr "Nirncrux Shards"
+
+#: 8290981-0-76293
+msgctxt "8290981-0-76293"
+msgid "Fire Shalk"
+msgstr "Fire Shalk"
+
+#: 8290981-0-76283
+msgctxt "8290981-0-76283"
+msgid "Mathgamain"
+msgstr "Mathgamain"
+
+#: 8290981-0-76282
+msgctxt "8290981-0-76282"
+msgid "Nirnblooded Senche"
+msgstr "Nirnblooded Senche"
+
+#: 8290981-0-76274
+msgctxt "8290981-0-76274"
+msgid "Stoneheart"
+msgstr "ストーンハート"
+
+#: 8290981-0-76269
+msgctxt "8290981-0-76269"
+msgid "Fire Shalk"
+msgstr "ファイアー・ショーク"
+
+#: 8290981-0-76267
+msgctxt "8290981-0-76267"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-76266
+msgctxt "8290981-0-76266"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 8290981-0-76201
+msgctxt "8290981-0-76201"
+msgid "Dreadhorn Clanslayer"
+msgstr "ドレッドホーンのクランスレイヤー"
+
+#: 8290981-0-76200
+msgctxt "8290981-0-76200"
+msgid "Dreadhorn Clanslayer"
+msgstr "ドレッドホーンのクランスレイヤー"
+
+#: 8290981-0-76197
+msgctxt "8290981-0-76197"
+msgid "Nature's Preservation"
+msgstr "自然の保持"
+
+#: 8290981-0-76166
+msgctxt "8290981-0-76166"
+msgid "Attendant of Blood"
+msgstr "血の守り手"
+
+#: 8290981-0-76165
+msgctxt "8290981-0-76165"
+msgid "Attendant of Flame"
+msgstr "炎の守り手"
+
+#: 8290981-0-76159
+msgctxt "8290981-0-76159"
+msgid "Crow"
+msgstr "カラス"
+
+#: 8290981-0-76149
+msgctxt "8290981-0-76149"
+msgid "Caillaoife"
+msgstr "カイラオイフェ"
+
+#: 8290981-0-76140
+msgctxt "8290981-0-76140"
+msgid "Strangler"
+msgstr "ストラングラー"
+
+#: 8290981-0-76033
+msgctxt "8290981-0-76033"
+msgid "Earthgore Amalgam"
+msgstr "アースゴア・アマルガム"
+
+#: 8290981-0-75958
+msgctxt "8290981-0-75958"
+msgid "Root Cage"
+msgstr "Root Cage"
+
+#: 8290981-0-75937
+msgctxt "8290981-0-75937"
+msgid "Dreadhorn Sorcerer"
+msgstr "ドレッドホーンのソーサラー"
+
+#: 8290981-0-75909
+msgctxt "8290981-0-75909"
+msgid "Fire Shalk"
+msgstr "ファイアー・ショーク"
+
+#: 8290981-0-75907
+msgctxt "8290981-0-75907"
+msgid "Dreadhorn Chanter"
+msgstr "ドレッドホーンの詠唱師"
+
+#: 8290981-0-75906
+msgctxt "8290981-0-75906"
+msgid "Dreadhorn Thornslinger"
+msgstr "ドレッドホーンのソーンスリンガー"
+
+#: 8290981-0-75905
+msgctxt "8290981-0-75905"
+msgid "Dreadhorn Manhunter"
+msgstr "ドレッドホーンのマンハンター"
+
+#: 8290981-0-75904
+msgctxt "8290981-0-75904"
+msgid "Dreadhorn Earthgorer"
+msgstr "ドレッドホーンのアースゴアー"
+
+#: 8290981-0-75903
+msgctxt "8290981-0-75903"
+msgid "Dreadhorn Firehide"
+msgstr "ドレッドホーンのファイアハイド"
+
+#: 8290981-0-75871
+msgctxt "8290981-0-75871"
+msgid "Nirncrux Shards"
+msgstr "ニルンクラッツの欠片"
+
+#: 8290981-0-75860
+msgctxt "8290981-0-75860"
+msgid "Strangler"
+msgstr "ストラングラー"
+
+#: 8290981-0-75859
+msgctxt "8290981-0-75859"
+msgid "Nirnblooded Spriggan"
+msgstr "ニルンブラッドのスプリガン"
+
+#: 8290981-0-75844
+msgctxt "8290981-0-75844"
+msgid "Lava Ball"
+msgstr "溶岩球"
+
+#: 8290981-0-75841
+msgctxt "8290981-0-75841"
+msgid "Dreadhorn Flamechanter"
+msgstr "ドレッドホーンのフレイムチャンター"
+
+#: 8290981-0-75840
+msgctxt "8290981-0-75840"
+msgid "Dreadhorn Flamechanter"
+msgstr "ドレッドホーンのフレイムチャンター"
+
+#: 8290981-0-75839
+msgctxt "8290981-0-75839"
+msgid "Dreadhorn Rimeweaver"
+msgstr "ドレッドホーンのライムウィーバー"
+
+#: 8290981-0-75838
+msgctxt "8290981-0-75838"
+msgid "Dreadhorn Rimeweaver"
+msgstr "ドレッドホーンのライムウィーバー"
+
+#: 8290981-0-75836
+msgctxt "8290981-0-75836"
+msgid "Dreadhorn Blade-Bearer"
+msgstr "ドレッドホーンの刀剣使い"
+
+#: 8290981-0-75835
+msgctxt "8290981-0-75835"
+msgid "Dreadhorn Briarcaller"
+msgstr "ドレッドホーンのブライアコーラー"
+
+#: 8290981-0-75834
+msgctxt "8290981-0-75834"
+msgid "Dreadhorn Briarcaller"
+msgstr "ドレッドホーンのブライアコーラー"
+
+#: 8290981-0-75831
+msgctxt "8290981-0-75831"
+msgid "Dreadhorn Blade-Bearer"
+msgstr "ドレッドホーンの刀剣使い"
+
+#: 8290981-0-75822
+msgctxt "8290981-0-75822"
+msgid "Dreadhorn Harpy"
+msgstr "ドレッドホーンのハーピー"
+
+#: 8290981-0-75814
+msgctxt "8290981-0-75814"
+msgid "Boss Anim Testing"
+msgstr "Boss Anim Testing"
+
+#: 8290981-0-75813
+msgctxt "8290981-0-75813"
+msgid "Shaman Anim Testing"
+msgstr "Shaman Anim Testing"
+
+#: 8290981-0-75488
+msgctxt "8290981-0-75488"
+msgid "Domihaus the Bloody-Horned"
+msgstr "血塗られた角ドミーハウス"
+
+#: 8290981-0-75485
+msgctxt "8290981-0-75485"
+msgid "Deathlord Bjarfrud Skjoralmor"
+msgstr "死の王ブジャーフルド・スクジョラルモル"
+
+#: 8290981-0-75484
+msgctxt "8290981-0-75484"
+msgid "Siege Mammoth"
+msgstr "攻城マンモス"
+
+#: 8290981-0-75483
+msgctxt "8290981-0-75483"
+msgid "Morrigh Bullblood"
+msgstr "モリグ・ブルブラッド"
+
+#: 8290981-0-75482
+msgctxt "8290981-0-75482"
+msgid "Gurund"
+msgstr "Gurund"
+
+#: 8290981-0-75481
+msgctxt "8290981-0-75481"
+msgid "Eerika Skjoralmor"
+msgstr "エーリカ・スクジョラルモル"
+
+#: 8290981-0-75480
+msgctxt "8290981-0-75480"
+msgid "Gurund"
+msgstr "グルンド"
+
+#: 8290981-0-75351
+msgctxt "8290981-0-75351"
+msgid "Earthgore Amalgam"
+msgstr "アースゴア・アマルガム"
+
+#: 8290981-0-75350
+msgctxt "8290981-0-75350"
+msgid "Gherig Bullblood"
+msgstr "ゲリグ・ブルブラッド"
+
+#: 8290981-0-75349
+msgctxt "8290981-0-75349"
+msgid "Galchobhar"
+msgstr "ガルチョブハル"
+
+#: 8290981-0-75347
+msgctxt "8290981-0-75347"
+msgid "Stoneheart"
+msgstr "ストーンハート"
+
+#: 8290981-0-75346
+msgctxt "8290981-0-75346"
+msgid "Caillaoife"
+msgstr "カイラオイフェ"
+
+#: 8290981-0-75345
+msgctxt "8290981-0-75345"
+msgid "Mathgamain"
+msgstr "マスガメイン"
+
+#: 8290981-0-75344
+msgctxt "8290981-0-75344"
+msgid "Filand"
+msgstr "フィランド"
+
+#: 8290981-0-75334
+msgctxt "8290981-0-75334"
+msgid "Filand"
+msgstr "フィランド"
+
+#: 8290981-0-75333
+msgctxt "8290981-0-75333"
+msgid "Filand"
+msgstr "フィランド"
+
+#: 8290981-0-75319
+msgctxt "8290981-0-75319"
+msgid "Nirnblooded Senche"
+msgstr "ニルンブラッドのセンチ"
+
+#: 8290981-0-75318
+msgctxt "8290981-0-75318"
+msgid "Nirnblooded Guar"
+msgstr "ニルンブラッドのグアル"

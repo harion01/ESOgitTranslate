@@ -1,0 +1,157 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-64281
+msgctxt "132143172-0-64281"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "스태미나 재생량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-64281
+msgctxt "198758357-0-64281"
+msgid "Y'ffre's Endurance"
+msgstr "Y'ffre's Endurance"
+
+#: 132143172-0-64280
+msgctxt "132143172-0-64280"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "스태미나 재생량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-64280
+msgctxt "198758357-0-64280"
+msgid "Y'ffre's Endurance"
+msgstr "Y'ffre's Endurance"
+
+#: 132143172-0-64279
+msgctxt "132143172-0-64279"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "스태미나 재생량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-64279
+msgctxt "198758357-0-64279"
+msgid "Y'ffre's Endurance"
+msgstr "Y'ffre's Endurance"
+
+#: 132143172-0-45319
+msgctxt "132143172-0-45319"
+msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>."
+"\n"
+"\nGain immunity to the Poisoned status effect."
+msgstr "최대 스태미나가 <<1>> 증가하고 독 저항력이 <<2>> 증가합니다."
+"\n"
+""
+"\n"
+"독 상태 효과에 면역을 갖습니다."
+
+#: 198758357-0-45319
+msgctxt "198758357-0-45319"
+msgid "Resist Affliction"
+msgstr "Resist Affliction"
+
+#: 132143172-0-45317
+msgctxt "132143172-0-45317"
+msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>."
+"\n"
+"\nGain immunity to the Poisoned status effect."
+msgstr "최대 스태미나가 <<1>> 증가하고 독과 질병 저항력이 <<2>> 증가합니다."
+"\n"
+""
+"\n"
+"독 상태 효과에 면역을 갖습니다."
+
+#: 198758357-0-45317
+msgctxt "198758357-0-45317"
+msgid "Resist Affliction"
+msgstr "Resist Affliction"
+
+#: 132143172-0-45296
+msgctxt "132143172-0-45296"
+msgid "Increases your stealth detection radius by <<1>>."
+"\n"
+"\nIncreases your movement speed by <<2>> and your Physical and Spell Penetration by <<3>> for <<4>> after you use Roll Dodge."
+msgstr ""
+"은신 감지 범위가 <<1>> 증가합니다."
+"\n"
+""
+"\n"
+"이동 속도가 <<2>> 증가하고 구르기 사용 후 물리 및 마법 관통력이 <<4>> 동안 <<3>> 증가합니다."
+
+#: 198758357-0-45296
+msgctxt "198758357-0-45296"
+msgid "Hunter's Eye"
+msgstr "Hunter's Eye"
+
+#: 132143172-0-45295
+msgctxt "132143172-0-45295"
+msgid "Increases your stealth detection radius by <<1>>."
+"\n"
+"\nIncreases your movement speed by <<2>> and your Physical and Spell Penetration by <<3>> for <<4>> after you use Roll Dodge."
+msgstr ""
+"은신 감지 범위가 <<1>> 증가합니다."
+"\n"
+""
+"\n"
+"이동 속도가 <<2>> 증가하고 구르기 사용 후 물리 및 마법 관통력이 <<4>> 동안 <<3>> 증가합니다."
+
+#: 198758357-0-45295
+msgctxt "198758357-0-45295"
+msgid "Hunter's Eye"
+msgstr "Hunter's Eye"
+
+#: 132143172-0-36022
+msgctxt "132143172-0-36022"
+msgid "Increases your stealth detection radius by <<1>>.  "
+"\n"
+"\nIncreases your movement speed by <<2>> and your Physical and Spell Penetration by <<3>> for <<4>> after you use Roll Dodge."
+msgstr ""
+"은신 감지 범위가 <<1>> 증가합니다."
+"\n"
+""
+"\n"
+"이동 속도가 <<2>> 증가하고 구르기 사용 후 물리 및 마법 관통력이 <<4>> 동안 <<3>> 증가합니다."
+
+#: 198758357-0-36022
+msgctxt "198758357-0-36022"
+msgid "Hunter's Eye"
+msgstr "Hunter's Eye"
+
+#: 132143172-0-36011
+msgctxt "132143172-0-36011"
+msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>."
+"\n"
+"\nGain immunity to the Poisoned status effect."
+msgstr "최대 스태미나가 <<1>> 증가하고 독과 질병 저항력이 <<2>> 증가합니다."
+"\n"
+""
+"\n"
+"독 상태 효과에 면역을 갖습니다."
+
+#: 198758357-0-36011
+msgctxt "198758357-0-36011"
+msgid "Resist Affliction"
+msgstr "Resist Affliction"
+
+#: 132143172-0-36008
+msgctxt "132143172-0-36008"
+msgid "Increases your experience gain with the Bow skill line by |cffffff15|r%."
+"\n"
+"\nDecreases your fall damage taken by <<1>>."
+msgstr "활 스킬 라인의 경험치 획득량이 |cffffff15|r% 증가합니다."
+"\n"
+""
+"\n"
+"받는 추락 피해량이 <<1>> 감소합니다."
+
+#: 198758357-0-36008
+msgctxt "198758357-0-36008"
+msgid "Acrobat"
+msgstr "Acrobat"
