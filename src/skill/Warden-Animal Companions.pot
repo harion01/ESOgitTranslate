@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-86069
+msgctxt "132143172-0-86069"
+msgid "Increases your damage done by <<1>> for each Animal Companion ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-86069
+msgctxt "198758357-0-86069"
+msgid "Advanced Species"
+msgstr ""
+
+#: 132143172-0-86068
+msgctxt "132143172-0-86068"
+msgid "Increases your damage done by <<1>> for each Animal Companion ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-86068
+msgctxt "198758357-0-86068"
+msgid "Advanced Species"
+msgstr ""
+
+#: 132143172-0-86067
+msgctxt "132143172-0-86067"
+msgid "Increases your Magicka and Stamina recovery by <<1>> if an Animal Companion ability is slotted."
+msgstr ""
+
+#: 198758357-0-86067
+msgctxt "198758357-0-86067"
+msgid "Flourish"
+msgstr ""
+
+#: 132143172-0-86066
+msgctxt "132143172-0-86066"
+msgid "Increases your Magicka and Stamina recovery by <<1>> if an Animal Companion ability is slotted."
+msgstr ""
+
+#: 198758357-0-86066
+msgctxt "198758357-0-86066"
+msgid "Flourish"
+msgstr ""
+
+#: 132143172-0-86065
+msgctxt "132143172-0-86065"
+msgid "Anytime one of your Animal Companion skills end, you are healed for <<1>> Health."
+msgstr ""
+
+#: 198758357-0-86065
+msgctxt "198758357-0-86065"
+msgid "Bond With Nature"
+msgstr ""
+
+#: 132143172-0-86064
+msgctxt "132143172-0-86064"
+msgid "Anytime one of your Animal Companion skills end, you are healed for <<1>> Health."
+msgstr ""
+
+#: 198758357-0-86064
+msgctxt "198758357-0-86064"
+msgid "Bond With Nature"
+msgstr ""
+
+#: 132143172-0-86063
+msgctxt "132143172-0-86063"
+msgid "When you cast an Animal Companions ability while you are in combat, you generate <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-86063
+msgctxt "198758357-0-86063"
+msgid "Savage Beast"
+msgstr ""
+
+#: 132143172-0-86062
+msgctxt "132143172-0-86062"
+msgid "When you cast an Animal Companions ability while you are in combat, you generate <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-86062
+msgctxt "198758357-0-86062"
+msgid "Savage Beast"
+msgstr ""
+
+#: 132143172-0-86058
+msgctxt "132143172-0-86058"
+msgid "Call a bull netch to your side, which restores <<1>> Stamina to you over <<2>> and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<3>>.\n\nEvery <<4>>, the netch removes |cffffff1|r negative effect from you."
+msgstr ""
+
+#: 198758357-0-86058
+msgctxt "198758357-0-86058"
+msgid "Bull Netch"
+msgstr ""
+
+#: 132143172-0-86054
+msgctxt "132143172-0-86054"
+msgid "Call a betty netch to your side, which restores <<1>> Magicka to you over <<2>> and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<3>>.\n\nEvery <<4>>, the netch removes |cffffff1|r negative effect from you."
+msgstr ""
+
+#: 198758357-0-86054
+msgctxt "198758357-0-86054"
+msgid "Blue Betty"
+msgstr ""
+
+#: 132143172-0-86050
+msgctxt "132143172-0-86050"
+msgid "Call a betty netch to your side, which grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>.  \n\nEvery <<3>>, the netch removes |cffffff1|r negative effect from you."
+msgstr ""
+
+#: 198758357-0-86050
+msgctxt "198758357-0-86050"
+msgid "Betty Netch"
+msgstr ""
+
+#: 132143172-0-86045
+msgctxt "132143172-0-86045"
+msgid "Invoke the spirit of agility to gain Major Expedition <<1>>, increasing your Movement Speed by <<2>>.\n\nWhile slotted gain Minor Berserk, increasing your damage done by <<3>>."
+msgstr ""
+
+#: 198758357-0-86045
+msgctxt "198758357-0-86045"
+msgid "Bird of Prey"
+msgstr ""
+
+#: 132143172-0-86041
+msgctxt "132143172-0-86041"
+msgid "Invoke the spirit of agility to gain Major Expedition for <<1>>, increasing your Movement Speed by <<2>>.\n\nWhile slotted gain Minor Evasion, reducing damage from area attacks by <<3>>."
+msgstr ""
+
+#: 198758357-0-86041
+msgctxt "198758357-0-86041"
+msgid "Deceptive Predator"
+msgstr ""
+
+#: 132143172-0-86037
+msgctxt "132143172-0-86037"
+msgid "Invoke the spirit of agility to gain Major Expedition for <<1>>,  increasing your Movement Speed by <<2>>."
+msgstr ""
+
+#: 198758357-0-86037
+msgctxt "198758357-0-86037"
+msgid "Falcon's Swiftness"
+msgstr ""
+
+#: 132143172-0-86031
+msgctxt "132143172-0-86031"
+msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, causing them to bleed for <<1>> over <<2>>. \n\nThe fetcherflies rip through the original enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<3>>.\n\nEnemies near the carrier take <<4>> every <<5>> for the duration."
+msgstr ""
+
+#: 198758357-0-86031
+msgctxt "198758357-0-86031"
+msgid "Growing Swarm"
+msgstr ""
+
+#: 132143172-0-86027
+msgctxt "132143172-0-86027"
+msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing <<1>> over <<2>>.\n\nEvery second cast of this ability deals <<3>> increased damage.\n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<4>>."
+msgstr ""
+
+#: 198758357-0-86027
+msgctxt "198758357-0-86027"
+msgid "Fetcher Infection"
+msgstr ""
+
+#: 132143172-0-86023
+msgctxt "132143172-0-86023"
+msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing <<1>> over <<2>>.  \n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<3>>."
+msgstr ""
+
+#: 198758357-0-86023
+msgctxt "198758357-0-86023"
+msgid "Swarm"
+msgstr ""
+
+#: 132143172-0-86019
+msgctxt "132143172-0-86019"
+msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you.\n\nEnemies damaged are afflicted with Major Fracture, reducing their Physical Resistance by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-86019
+msgctxt "198758357-0-86019"
+msgid "Subterranean Assault"
+msgstr ""
+
+#: 132143172-0-86015
+msgctxt "132143172-0-86015"
+msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you.\n\nEnemies damaged are afflicted with Major Breach, reducing their Spell Resistance by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-86015
+msgctxt "198758357-0-86015"
+msgid "Deep Fissure"
+msgstr ""
+
+#: 132143172-0-86009
+msgctxt "132143172-0-86009"
+msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you."
+msgstr ""
+
+#: 198758357-0-86009
+msgctxt "198758357-0-86009"
+msgid "Scorch"
+msgstr ""
+
+#: 132143172-0-86003
+msgctxt "132143172-0-86003"
+msgid "Command a cliff racer to dive bomb an enemy, dealing <<1>>.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for <<2>>.\n\nDeals up to |cFFFFFF15%|r more damage based on how far away the enemy is."
+msgstr ""
+
+#: 198758357-0-86003
+msgctxt "198758357-0-86003"
+msgid "Screaming Cliff Racer"
+msgstr ""
+
+#: 132143172-0-85999
+msgctxt "132143172-0-85999"
+msgid "Command a cliff racer to dive bomb an enemy, dealing <<1>>.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for <<2>>.  If the enemy is already Off Balance, the cliff racer rips through them, causing them to bleed for <<3>> over <<4>>.  This effect can stack."
+msgstr ""
+
+#: 198758357-0-85999
+msgctxt "198758357-0-85999"
+msgid "Cutting Dive"
+msgstr ""
+
+#: 132143172-0-85995
+msgctxt "132143172-0-85995"
+msgid "Command a cliff racer to dive bomb an enemy, dealing <<1>>.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for <<2>>."
+msgstr ""
+
+#: 198758357-0-85995
+msgctxt "198758357-0-85995"
+msgid "Dive"
+msgstr ""
+
+#: 132143172-0-85990
+msgctxt "132143172-0-85990"
+msgid "Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing <<1>>, and sometimes swipes all enemies in front of it, dealing <<2>> and stunning them for <<3>>.\n\nOnce summoned you can activate <<4>> for <<5>> Ultimate, causing the grizzly to maul an enemy for <<6>>. Deals <<7>>% more damage to enemies below <<8>>% Health."
+msgstr ""
+
+#: 198758357-0-85990
+msgctxt "198758357-0-85990"
+msgid "Wild Guardian"
+msgstr ""
+
+#: 132143172-0-85986
+msgctxt "132143172-0-85986"
+msgid "Rouse a grizzly to fight by your side. The grizzly swipes an enemy, dealing <<1>>, and sometimes swipes all enemies in front of it, dealing <<2>> and stunning them for <<3>>.\n\nOnce summoned you can activate <<4>> for <<5>> Ultimate, causing the grizzly to maul an enemy for <<6>>. Deals <<7>>% more damage to enemies below <<8>>% Health.\n\n The grizzly respawns when killed, once per minute."
+msgstr ""
+
+#: 198758357-0-85986
+msgctxt "198758357-0-85986"
+msgid "Eternal Guardian"
+msgstr ""
+
+#: 132143172-0-85982
+msgctxt "132143172-0-85982"
+msgid "Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing <<1>>, and sometimes swipes all enemies in front of it, dealing <<2>> and stunning them for <<3>>.\n\nOnce summoned you can activate <<4>> for <<5>> Ultimate, causing the grizzly to maul an enemy for <<6>>. Deals <<7>>% more damage to enemies below <<8>>% Health."
+msgstr ""
+
+#: 198758357-0-85982
+msgctxt "198758357-0-85982"
+msgid "Feral Guardian"
+msgstr ""

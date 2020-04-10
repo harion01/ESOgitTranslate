@@ -1,0 +1,3771 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 8290981-0-73666
+#, fuzzy
+msgctxt "8290981-0-73666"
+msgid "Announcer Yeldan"
+msgstr "アナウンサー・イェルダン"
+
+#: 8290981-0-72136
+msgctxt "8290981-0-72136"
+msgid "Order Dragonstriker"
+msgstr "騎士団の竜の従卒"
+
+#: 8290981-0-72135
+msgctxt "8290981-0-72135"
+msgid "Order Battlecaster"
+msgstr "騎士団の戦闘術者"
+
+#: 8290981-0-72134
+msgctxt "8290981-0-72134"
+msgid "Order Battlecaster"
+msgstr "騎士団の戦闘術者"
+
+#: 8290981-0-72133
+msgctxt "8290981-0-72133"
+msgid "Order Dragonstriker"
+msgstr "騎士団の竜の従卒"
+
+#: 8290981-0-72132
+msgctxt "8290981-0-72132"
+msgid "Phedre Trebellius"
+msgstr "フェドレ・トレベリウス"
+
+#: 8290981-0-72130
+msgctxt "8290981-0-72130"
+msgid "Marianus Gracchanus"
+msgstr "マリアヌス・グラカヌス"
+
+#: 8290981-0-72127
+msgctxt "8290981-0-72127"
+msgid "Bizazan"
+msgstr "ビザザン"
+
+#: 8290981-0-72126
+msgctxt "8290981-0-72126"
+msgid "Hostia Auria"
+msgstr "ホスティア・オーリア"
+
+#: 8290981-0-72107
+msgctxt "8290981-0-72107"
+msgid "Scamp"
+msgstr "スキャンプ"
+
+#: 8290981-0-72106
+msgctxt "8290981-0-72106"
+msgid "Clannfear"
+msgstr "クランフィア"
+
+#: 8290981-0-72105
+msgctxt "8290981-0-72105"
+msgid "Essence of Dranos"
+msgstr "ドラノスのエキス"
+
+#: 8290981-0-72100
+msgctxt "8290981-0-72100"
+msgid "Witchmother Olyve"
+msgstr "ウィッチマザー・オリヴェ"
+
+#: 8290981-0-72098
+msgctxt "8290981-0-72098"
+msgid "Dead Argonian"
+msgstr "死んだアルゴニアン"
+
+#: 8290981-0-72097
+msgctxt "8290981-0-72097"
+msgid "Dead Argonian"
+msgstr "死んだアルゴニアン"
+
+#: 8290981-0-72095
+msgctxt "8290981-0-72095"
+msgid "Lord Nunex Faleria"
+msgstr "ヌネックス・ファレリア卿"
+
+#: 8290981-0-72094
+msgctxt "8290981-0-72094"
+msgid "Nilthog the Unbroken"
+msgstr "不壊なる者ニルソグ"
+
+#: 8290981-0-72093
+msgctxt "8290981-0-72093"
+msgid "Generic Invisible Target"
+msgstr "Generic Invisible Target"
+
+#: 8290981-0-72092
+#, fuzzy
+msgctxt "8290981-0-72092"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-72091
+msgctxt "8290981-0-72091"
+msgid "Cassus Andronicus"
+msgstr "カッサス・アンドロニクス"
+
+#: 8290981-0-72090
+msgctxt "8290981-0-72090"
+msgid "Allaria Erwen"
+msgstr "アラリア・エルウェン"
+
+#: 8290981-0-72089
+msgctxt "8290981-0-72089"
+msgid "Sticky-Paws"
+msgstr "スティッキー・パウ"
+
+#: 8290981-0-72088
+#, fuzzy
+msgctxt "8290981-0-72088"
+msgid "Clouded Senche-Leopard Cub"
+msgstr "クラウド・センチレオパルドの子供"
+
+#: 8290981-0-72087
+#, fuzzy
+msgctxt "8290981-0-72087"
+msgid "Senche Cub (Jungle Tiger)"
+msgstr "センチの子供 (ジャングルタイガー)"
+
+#: 8290981-0-72086
+#, fuzzy
+msgctxt "8290981-0-72086"
+msgid "Senche Cub (White Lion)"
+msgstr "センチの子供 (ホワイトライオン)"
+
+#: 8290981-0-72085
+#, fuzzy
+msgctxt "8290981-0-72085"
+msgid "Black Senche-Panther Kitten"
+msgstr "ブラック・センチパンサーの子供"
+
+#: 8290981-0-72084
+#, fuzzy
+msgctxt "8290981-0-72084"
+msgid "Dro-m'Athra Senche Cub"
+msgstr "ドロ・マスラ・センチの子供"
+
+#: 8290981-0-72083
+#, fuzzy
+msgctxt "8290981-0-72083"
+msgid "Senche Cub (White Tiger)"
+msgstr "センチの子供 (ホワイトタイガー)"
+
+#: 8290981-0-72082
+#, fuzzy
+msgctxt "8290981-0-72082"
+msgid "Senche Cub (Tiger)"
+msgstr "センチの子供 (タイガー)"
+
+#: 8290981-0-72081
+#, fuzzy
+msgctxt "8290981-0-72081"
+msgid "Senche-Leopard Cub"
+msgstr "センチレオパルドの子"
+
+#: 8290981-0-72080
+#, fuzzy
+msgctxt "8290981-0-72080"
+msgid "Striped Senche-Panther Cub"
+msgstr "ストライプ・センチパンサーの子供"
+
+#: 8290981-0-72079
+msgctxt "8290981-0-72079"
+msgid "Lynx"
+msgstr "リンクス"
+
+#: 8290981-0-72078
+msgctxt "8290981-0-72078"
+msgid "Daggerback"
+msgstr "ダガーバック"
+
+#: 8290981-0-72077
+msgctxt "8290981-0-72077"
+msgid "Badger"
+msgstr "アナグマ"
+
+#: 8290981-0-72076
+msgctxt "8290981-0-72076"
+msgid "The Queen's Consort"
+msgstr "クィーンの配偶者"
+
+#: 8290981-0-72072
+msgctxt "8290981-0-72072"
+msgid "Green-Venom-Tongue"
+msgstr "毒ある緑舌の者"
+
+#: 8290981-0-72070
+msgctxt "8290981-0-72070"
+msgid "Invis"
+msgstr "Invis"
+
+#: 8290981-0-72069
+msgctxt "8290981-0-72069"
+msgid "Order Archer"
+msgstr "騎士団の射手"
+
+#: 8290981-0-72068
+msgctxt "8290981-0-72068"
+msgid "Order Archer"
+msgstr "騎士団の射手"
+
+#: 8290981-0-72067
+msgctxt "8290981-0-72067"
+msgid "Order Knight"
+msgstr "騎士団の騎士"
+
+#: 8290981-0-72066
+msgctxt "8290981-0-72066"
+msgid "Order Knight"
+msgstr "騎士団の騎士"
+
+#: 8290981-0-72065
+msgctxt "8290981-0-72065"
+msgid "Order Arcanist"
+msgstr "騎士団の神秘師"
+
+#: 8290981-0-72064
+msgctxt "8290981-0-72064"
+msgid "Order Arcanist"
+msgstr "騎士団の神秘師"
+
+#: 8290981-0-72062
+msgctxt "8290981-0-72062"
+msgid "Flesh Colossus"
+msgstr "肉の巨人"
+
+#: 8290981-0-72061
+msgctxt "8290981-0-72061"
+msgid "Titan"
+msgstr "タイタン"
+
+#: 8290981-0-72057
+msgctxt "8290981-0-72057"
+msgid "Stalfgrif"
+msgstr "スタルフグリフ"
+
+#: 8290981-0-72056
+msgctxt "8290981-0-72056"
+msgid "Skeeheieeus"
+msgstr "スケーヘイウス"
+
+#: 8290981-0-72053
+msgctxt "8290981-0-72053"
+msgid "Mephala's Bloodcleaver"
+msgstr "メファーラのブラッドクリーヴァー"
+
+#: 8290981-0-72052
+msgctxt "8290981-0-72052"
+msgid "Mephala's Shadowspinner"
+msgstr "メファーラの影の紡ぎ手"
+
+#: 8290981-0-72051
+msgctxt "8290981-0-72051"
+msgid "Mephala's Venomblade"
+msgstr "シルケンリングの毒使い"
+
+#: 8290981-0-72047
+msgctxt "8290981-0-72047"
+msgid "Mephala's Bonecleaver"
+msgstr "メファーラのボーンクリーヴァー"
+
+#: 8290981-0-72039
+msgctxt "8290981-0-72039"
+msgid "Mephala's Bonecleaver"
+msgstr "メファーラのボーンクリーヴァー"
+
+#: 8290981-0-72038
+msgctxt "8290981-0-72038"
+msgid "Gaea Numida"
+msgstr "ガイア・ヌミダ"
+
+#: 8290981-0-72036
+msgctxt "8290981-0-72036"
+msgid "Paolus Nuccius"
+msgstr "パオラス・ナシウス"
+
+#: 8290981-0-72030
+msgctxt "8290981-0-72030"
+msgid "Lion"
+msgstr "ライオン"
+
+#: 8290981-0-72020
+msgctxt "8290981-0-72020"
+msgid "Ogre"
+msgstr "オーガ"
+
+#: 8290981-0-72014
+msgctxt "8290981-0-72014"
+msgid "Scamp"
+msgstr "スキャンプ"
+
+#: 8290981-0-72013
+#, fuzzy
+msgctxt "8290981-0-72013"
+msgid "Watcher"
+msgstr "監視人"
+
+#: 8290981-0-72012
+msgctxt "8290981-0-72012"
+msgid "Geon Alinie"
+msgstr "ジョーン・アリニー"
+
+#: 8290981-0-72010
+msgctxt "8290981-0-72010"
+msgid "Geon Alinie"
+msgstr "ジョーン・アリニー"
+
+#: 8290981-0-72009
+msgctxt "8290981-0-72009"
+msgid "Lioness"
+msgstr "ライオン"
+
+#: 8290981-0-72006
+msgctxt "8290981-0-72006"
+msgid "Sabre Cat"
+msgstr "サーベルキャット"
+
+#: 8290981-0-72005
+msgctxt "8290981-0-72005"
+msgid "Troll"
+msgstr "トロール"
+
+#: 8290981-0-72004
+msgctxt "8290981-0-72004"
+msgid "Geel-Ma"
+msgstr "ギール・マー"
+
+#: 8290981-0-72001
+msgctxt "8290981-0-72001"
+msgid "Amelie Crowe"
+msgstr "アメリエ・クロウ"
+
+#: 8290981-0-72000
+#, fuzzy
+msgctxt "8290981-0-72000"
+msgid "Dremora Narkynaz"
+msgstr "ドレモラ・ナーキナズ"
+
+#: 8290981-0-71999
+#, fuzzy
+msgctxt "8290981-0-71999"
+msgid "Dremora Narkynaz"
+msgstr "ドレモラ・ナーキナズ"
+
+#: 8290981-0-71998
+#, fuzzy
+msgctxt "8290981-0-71998"
+msgid "Legion Commander"
+msgstr "軍団指揮官"
+
+#: 8290981-0-71997
+msgctxt "8290981-0-71997"
+msgid "Barracks Door"
+msgstr "兵舎の扉"
+
+#: 8290981-0-71995
+#, fuzzy
+msgctxt "8290981-0-71995"
+msgid "Harvester"
+msgstr "収穫者"
+
+#: 8290981-0-71994
+msgctxt "8290981-0-71994"
+msgid "Flesh Colossus"
+msgstr "肉の巨人"
+
+#: 8290981-0-71985
+msgctxt "8290981-0-71985"
+msgid "Chokethorn"
+msgstr "チョークソーン"
+
+#: 8290981-0-71984
+msgctxt "8290981-0-71984"
+msgid "COS direct"
+msgstr "COS direct"
+
+#: 8290981-0-71983
+msgctxt "8290981-0-71983"
+msgid "Mephala's Venomblade"
+msgstr "シルケンリングの毒使い"
+
+#: 8290981-0-71982
+msgctxt "8290981-0-71982"
+msgid "Mephala's Venomblade"
+msgstr "シルケンリングの毒使い"
+
+#: 8290981-0-71975
+msgctxt "8290981-0-71975"
+msgid "Dremora Kyngald"
+msgstr "ドレモラ・キンガルド"
+
+#: 8290981-0-71973
+msgctxt "8290981-0-71973"
+msgid "Dremora Kyngald"
+msgstr "ドレモラ・キンガルド"
+
+#: 8290981-0-71972
+msgctxt "8290981-0-71972"
+msgid "Dremora Caitiff"
+msgstr "ドレモラ・ケイテフ"
+
+#: 8290981-0-71969
+msgctxt "8290981-0-71969"
+msgid "Dwemer Spider"
+msgstr "ドゥエマーの蜘蛛"
+
+#: 8290981-0-71966
+msgctxt "8290981-0-71966"
+msgid "Shadowrend"
+msgstr "シャドウレンド"
+
+#: 8290981-0-71964
+msgctxt "8290981-0-71964"
+msgid "Daedric Arch"
+msgstr "デイドラのアーチ"
+
+#: 8290981-0-71963
+msgctxt "8290981-0-71963"
+msgid "Scamp"
+msgstr "スキャンプ"
+
+#: 8290981-0-71960
+msgctxt "8290981-0-71960"
+msgid "Xivkyn Banelord"
+msgstr "シヴキン・ベインロード"
+
+#: 8290981-0-71959
+#, fuzzy
+msgctxt "8290981-0-71959"
+msgid "Winged Twilight"
+msgstr "翼もつ黄昏"
+
+#: 8290981-0-71958
+msgctxt "8290981-0-71958"
+msgid "Clannfear"
+msgstr "クランフィア"
+
+#: 8290981-0-71957
+#, fuzzy
+msgctxt "8290981-0-71957"
+msgid "Grievous Twilight"
+msgstr "悲劇の黄昏"
+
+#: 8290981-0-71956
+msgctxt "8290981-0-71956"
+msgid "Daedroth"
+msgstr "デイドロス"
+
+#: 8290981-0-71955
+msgctxt "8290981-0-71955"
+msgid "Scamp"
+msgstr "スキャンプ"
+
+#: 8290981-0-71951
+msgctxt "8290981-0-71951"
+msgid "Aquilia Andus"
+msgstr "アキリア・アンダス"
+
+#: 8290981-0-71950
+msgctxt "8290981-0-71950"
+msgid "Captain Evani"
+msgstr "エバニ船長"
+
+#: 8290981-0-71949
+msgctxt "8290981-0-71949"
+msgid "Velidreth's Devotion"
+msgstr "ヴェリドレスの信者"
+
+#: 8290981-0-71941
+msgctxt "8290981-0-71941"
+msgid "Barracks Door"
+msgstr "兵舎の扉"
+
+#: 8290981-0-71939
+#, fuzzy
+msgctxt "8290981-0-71939"
+msgid "Legion Zero Deadeye"
+msgstr "第零軍団の名射手"
+
+#: 8290981-0-71938
+#, fuzzy
+msgctxt "8290981-0-71938"
+msgid "Legion Zero Deadeye"
+msgstr "第零軍団の名射手"
+
+#: 8290981-0-71937
+#, fuzzy
+msgctxt "8290981-0-71937"
+msgid "Legion Zero Saboteur"
+msgstr "第零軍団の破壊工作員"
+
+#: 8290981-0-71935
+msgctxt "8290981-0-71935"
+msgid "Ghostbear"
+msgstr "ゴーストベアー"
+
+#: 8290981-0-71933
+#, fuzzy
+msgctxt "8290981-0-71933"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71928
+#, fuzzy
+msgctxt "8290981-0-71928"
+msgid "Justianas Gratus"
+msgstr "ジャスティアナス・グラトゥス"
+
+#: 8290981-0-71927
+#, fuzzy
+msgctxt "8290981-0-71927"
+msgid "Arrianus Capius"
+msgstr "アリアヌス・キャピアス"
+
+#: 8290981-0-71926
+msgctxt "8290981-0-71926"
+msgid "Astara Caerellius"
+msgstr "アスタラ・カエレリウス"
+
+#: 8290981-0-71925
+msgctxt "8290981-0-71925"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71924
+msgctxt "8290981-0-71924"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71923
+msgctxt "8290981-0-71923"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71922
+msgctxt "8290981-0-71922"
+msgid "COS direct"
+msgstr "COS direct"
+
+#: 8290981-0-71920
+msgctxt "8290981-0-71920"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71919
+#, fuzzy
+msgctxt "8290981-0-71919"
+msgid "Statius Vettiena"
+msgstr "スタティウス・ベッティーナ"
+
+#: 8290981-0-71918
+msgctxt "8290981-0-71918"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71917
+msgctxt "8290981-0-71917"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71916
+#, fuzzy
+msgctxt "8290981-0-71916"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71915
+msgctxt "8290981-0-71915"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71914
+msgctxt "8290981-0-71914"
+msgid "COS direct"
+msgstr "COS direct"
+
+#: 8290981-0-71913
+msgctxt "8290981-0-71913"
+msgid "Fallen Warrior"
+msgstr "倒れた戦士"
+
+#: 8290981-0-71912
+msgctxt "8290981-0-71912"
+msgid "Fallen Warrior"
+msgstr "倒れた戦士"
+
+#: 8290981-0-71911
+msgctxt "8290981-0-71911"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71909
+msgctxt "8290981-0-71909"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71908
+msgctxt "8290981-0-71908"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71907
+msgctxt "8290981-0-71907"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71902
+msgctxt "8290981-0-71902"
+msgid "Estate Spellbreaker"
+msgstr "屋敷のスペルブレイカー"
+
+#: 8290981-0-71900
+msgctxt "8290981-0-71900"
+msgid "Lidyeilah"
+msgstr "リデイラー"
+
+#: 8290981-0-71899
+msgctxt "8290981-0-71899"
+msgid "Catacombs"
+msgstr "カタコンベ"
+
+#: 8290981-0-71898
+msgctxt "8290981-0-71898"
+msgid "Serpent War-Priest"
+msgstr "大蛇の戦闘司祭"
+
+#: 8290981-0-71897
+#, fuzzy
+msgctxt "8290981-0-71897"
+msgid "Ogrim"
+msgstr "オグリム"
+
+#: 8290981-0-71894
+msgctxt "8290981-0-71894"
+msgid "Shade of Dranos"
+msgstr "ドラノスの影"
+
+#: 8290981-0-71891
+#, fuzzy
+msgctxt "8290981-0-71891"
+msgid "Flame Atronach"
+msgstr "炎の精霊"
+
+#: 8290981-0-71890
+#, fuzzy
+msgctxt "8290981-0-71890"
+msgid "Captain Caudex"
+msgstr "カウデクス隊長"
+
+#: 8290981-0-71889
+msgctxt "8290981-0-71889"
+msgid "MUSIC TRIGGER MONSTER"
+msgstr "ミュージック・トリガー・モンスター"
+
+#: 8290981-0-71880
+msgctxt "8290981-0-71880"
+msgid "Remains-Silent"
+msgstr "引き続き黙る者"
+
+#: 8290981-0-71879
+#, fuzzy
+msgctxt "8290981-0-71879"
+msgid "Hides-the-Ashes"
+msgstr "灰を隠す者"
+
+#: 8290981-0-71878
+#, fuzzy
+msgctxt "8290981-0-71878"
+msgid "Tsatva-Lan"
+msgstr "ツァトバ・ラン"
+
+#: 8290981-0-71877
+#, fuzzy
+msgctxt "8290981-0-71877"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71876
+msgctxt "8290981-0-71876"
+msgid "COS direct"
+msgstr "COS direct"
+
+#: 8290981-0-71874
+#, fuzzy
+msgctxt "8290981-0-71874"
+msgid "Dulcilla Iullus"
+msgstr "ダルシア・ユルス"
+
+#: 8290981-0-71873
+#, fuzzy
+msgctxt "8290981-0-71873"
+msgid "Kyleus Herminia"
+msgstr "キレウス・ヘルミニア"
+
+#: 8290981-0-71869
+msgctxt "8290981-0-71869"
+msgid "Barracks Door"
+msgstr "兵舎の扉"
+
+#: 8290981-0-71866
+msgctxt "8290981-0-71866"
+msgid "Chunkeesei"
+msgstr "チャンキーセイ"
+
+#: 8290981-0-71865
+msgctxt "8290981-0-71865"
+msgid "Sovor Adren"
+msgstr "ソヴォル・アドレン"
+
+#: 8290981-0-71864
+#, fuzzy
+msgctxt "8290981-0-71864"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-71863
+msgctxt "8290981-0-71863"
+msgid "Hildegard"
+msgstr "ヒルデガルド"
+
+#: 8290981-0-71862
+msgctxt "8290981-0-71862"
+msgid "Brema"
+msgstr "ブレマ"
+
+#: 8290981-0-71861
+msgctxt "8290981-0-71861"
+msgid "Statue of Mephala"
+msgstr "メファーラの像"
+
+#: 8290981-0-71859
+msgctxt "8290981-0-71859"
+msgid "Pact Soldier"
+msgstr "パクトの兵士"
+
+#: 8290981-0-71858
+msgctxt "8290981-0-71858"
+msgid "Pact Soldier"
+msgstr "パクトの兵士"
+
+#: 8290981-0-71857
+msgctxt "8290981-0-71857"
+msgid "Pact Soldier"
+msgstr "パクトの兵士"
+
+#: 8290981-0-71856
+msgctxt "8290981-0-71856"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-71855
+msgctxt "8290981-0-71855"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-71854
+#, fuzzy
+msgctxt "8290981-0-71854"
+msgid "Legion Zero Dreadnaught"
+msgstr "第零軍団の戦艦"
+
+#: 8290981-0-71853
+#, fuzzy
+msgctxt "8290981-0-71853"
+msgid "Legion Zero Dreadnaught"
+msgstr "第零軍団の戦艦"
+
+#: 8290981-0-71852
+msgctxt "8290981-0-71852"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-71851
+msgctxt "8290981-0-71851"
+msgid "Kor"
+msgstr "コー"
+
+#: 8290981-0-71847
+#, fuzzy
+msgctxt "8290981-0-71847"
+msgid "Legion Zero Templar"
+msgstr "第零軍団のテンプラー"
+
+#: 8290981-0-71846
+#, fuzzy
+msgctxt "8290981-0-71846"
+msgid "Legion Zero Templar"
+msgstr "第零軍団のテンプラー"
+
+#: 8290981-0-71842
+#, fuzzy
+msgctxt "8290981-0-71842"
+msgid "Astara Caerellius"
+msgstr "アスタラ・カエレリウス"
+
+#: 8290981-0-71841
+#, fuzzy
+msgctxt "8290981-0-71841"
+msgid "Green-Venom-Tongue"
+msgstr "毒ある緑舌の者"
+
+#: 8290981-0-71836
+#, fuzzy
+msgctxt "8290981-0-71836"
+msgid "Spider Daedra"
+msgstr "スパイダー・デイドラ"
+
+#: 8290981-0-71833
+#, fuzzy
+msgctxt "8290981-0-71833"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-71832
+msgctxt "8290981-0-71832"
+msgid "Clannfear"
+msgstr "Clannfear"
+
+#: 8290981-0-71831
+msgctxt "8290981-0-71831"
+msgid "Twilight Matriarch"
+msgstr "Twilight Matriarch"
+
+#: 8290981-0-71828
+msgctxt "8290981-0-71828"
+msgid "Twilight Matriarch"
+msgstr "Twilight Matriarch"
+
+#: 8290981-0-71827
+#, fuzzy
+msgctxt "8290981-0-71827"
+msgid "Bolgrul"
+msgstr "ボルグルル"
+
+#: 8290981-0-71825
+#, fuzzy
+msgctxt "8290981-0-71825"
+msgid "Hides-the-Ashes"
+msgstr "灰を隠す者"
+
+#: 8290981-0-71820
+msgctxt "8290981-0-71820"
+msgid "COS direct"
+msgstr "COS direct"
+
+#: 8290981-0-71818
+msgctxt "8290981-0-71818"
+msgid "Tanek"
+msgstr "タネク"
+
+#: 8290981-0-71816
+msgctxt "8290981-0-71816"
+msgid "Grazda"
+msgstr "グラズダ"
+
+#: 8290981-0-71814
+msgctxt "8290981-0-71814"
+msgid "Index"
+msgstr "Index"
+
+#: 8290981-0-71808
+#, fuzzy
+msgctxt "8290981-0-71808"
+msgid "Green-Venom-Tongue"
+msgstr "毒ある緑舌の者"
+
+#: 8290981-0-71807
+#, fuzzy
+msgctxt "8290981-0-71807"
+msgid "Mirabelle Motierre"
+msgstr "ミラベル・モティエール"
+
+#: 8290981-0-71806
+#, fuzzy
+msgctxt "8290981-0-71806"
+msgid "Cimbar"
+msgstr "シンバー"
+
+#: 8290981-0-71804
+msgctxt "8290981-0-71804"
+msgid "Shadowscale 04"
+msgstr "Shadowscale 04"
+
+#: 8290981-0-71803
+msgctxt "8290981-0-71803"
+msgid "Shadowscale 03"
+msgstr "Shadowscale 03"
+
+#: 8290981-0-71802
+msgctxt "8290981-0-71802"
+msgid "Shadowscale 01"
+msgstr "Shadowscale 01"
+
+#: 8290981-0-71801
+msgctxt "8290981-0-71801"
+msgid "Shadowscale 01"
+msgstr "Shadowscale 01"
+
+#: 8290981-0-71800
+msgctxt "8290981-0-71800"
+msgid "Ledge Caster"
+msgstr "突端のキャスター"
+
+#: 8290981-0-71799
+msgctxt "8290981-0-71799"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71798
+msgctxt "8290981-0-71798"
+msgid "Grazda"
+msgstr "グラズダ"
+
+#: 8290981-0-71797
+msgctxt "8290981-0-71797"
+msgid "Chunkeesei"
+msgstr "チャンキーセイ"
+
+#: 8290981-0-71796
+msgctxt "8290981-0-71796"
+msgid "Sovor Adren"
+msgstr "ソヴォル・アドレン"
+
+#: 8290981-0-71793
+msgctxt "8290981-0-71793"
+msgid "Yrssteir"
+msgstr "ユルステア"
+
+#: 8290981-0-71792
+msgctxt "8290981-0-71792"
+msgid "Buxutheeus"
+msgstr "ブクジース"
+
+#: 8290981-0-71791
+msgctxt "8290981-0-71791"
+msgid "Wispmother"
+msgstr "ウィスプマザー"
+
+#: 8290981-0-71790
+msgctxt "8290981-0-71790"
+msgid "Wispmother"
+msgstr "ウィスプマザー"
+
+#: 8290981-0-71786
+#, fuzzy
+msgctxt "8290981-0-71786"
+msgid "Vicecanon Heita-Meen"
+msgstr "バイスカノン・ヘイタ・ミーン"
+
+#: 8290981-0-71785
+msgctxt "8290981-0-71785"
+msgid "Vicecanon Servyna"
+msgstr "バイスカノン・セルヴィナ"
+
+#: 8290981-0-71783
+msgctxt "8290981-0-71783"
+msgid "Black Cat"
+msgstr "黒猫"
+
+#: 8290981-0-71748
+msgctxt "8290981-0-71748"
+msgid "Dark Guardian"
+msgstr "闇のガーディアン"
+
+#: 8290981-0-71747
+msgctxt "8290981-0-71747"
+msgid "Gloom Wraith"
+msgstr "闇のレイス"
+
+#: 8290981-0-71746
+#, fuzzy
+msgctxt "8290981-0-71746"
+msgid "Governor Fortunata ap Dugal"
+msgstr "フォーチュナタ・アプドゥガル総督"
+
+#: 8290981-0-71743
+#, fuzzy
+msgctxt "8290981-0-71743"
+msgid "Tree-Minder Na-Kesh"
+msgstr "木の番人ナ・ケッシュ"
+
+#: 8290981-0-71742
+msgctxt "8290981-0-71742"
+msgid "Sojourn"
+msgstr "ソジョルン"
+
+#: 8290981-0-71741
+msgctxt "8290981-0-71741"
+msgid "Triumph"
+msgstr "トライアンフ"
+
+#: 8290981-0-71740
+msgctxt "8290981-0-71740"
+msgid "Enraged Hoarvor"
+msgstr "激昂したホーヴァー"
+
+#: 8290981-0-71739
+msgctxt "8290981-0-71739"
+msgid "Pact Storm Mage"
+msgstr "パクトの嵐の魔術師"
+
+#: 8290981-0-71738
+msgctxt "8290981-0-71738"
+msgid "Pact Storm Mage"
+msgstr "パクトの嵐の魔術師"
+
+#: 8290981-0-71737
+#, fuzzy
+msgctxt "8290981-0-71737"
+msgid "Pact Sniper"
+msgstr "パクトの狙撃手"
+
+#: 8290981-0-71736
+#, fuzzy
+msgctxt "8290981-0-71736"
+msgid "Pact Sniper"
+msgstr "パクトの狙撃手"
+
+#: 8290981-0-71735
+msgctxt "8290981-0-71735"
+msgid "Pact Ravager"
+msgstr "パクトの破壊者"
+
+#: 8290981-0-71734
+msgctxt "8290981-0-71734"
+msgid "Pact Ravager"
+msgstr "パクトの破壊者"
+
+#: 8290981-0-71733
+msgctxt "8290981-0-71733"
+msgid "M'aiq the Badger"
+msgstr "ムアイクアナグマ"
+
+#: 8290981-0-71732
+msgctxt "8290981-0-71732"
+msgid "Heartland Brindle Badger"
+msgstr "ハートランドブリンドルアナグマ"
+
+#: 8290981-0-71731
+msgctxt "8290981-0-71731"
+msgid "Badger"
+msgstr "アナグマ"
+
+#: 8290981-0-71730
+msgctxt "8290981-0-71730"
+msgid "Badger"
+msgstr "アナグマ"
+
+#: 8290981-0-71729
+msgctxt "8290981-0-71729"
+msgid "Navlos"
+msgstr "Navlos"
+
+#: 8290981-0-71728
+msgctxt "8290981-0-71728"
+msgid "Smiles-With-Knife"
+msgstr "Smiles-With-Knife"
+
+#: 8290981-0-71727
+msgctxt "8290981-0-71727"
+msgid "Maheelius"
+msgstr "Maheelius"
+
+#: 8290981-0-71724
+#, fuzzy
+msgctxt "8290981-0-71724"
+msgid "Supplicant"
+msgstr "嘆願者"
+
+#: 8290981-0-71723
+msgctxt "8290981-0-71723"
+msgid "Speaker Terenus"
+msgstr "伝えし者テレヌス"
+
+#: 8290981-0-71721
+msgctxt "8290981-0-71721"
+msgid "Seafoam"
+msgstr "シーフォーム"
+
+#: 8290981-0-71716
+#, fuzzy
+msgctxt "8290981-0-71716"
+msgid "Shadow Fang"
+msgstr "影の牙"
+
+#: 8290981-0-71714
+msgctxt "8290981-0-71714"
+msgid "Old Widow Silk"
+msgstr "オールド・ウィドウ・シルク"
+
+#: 8290981-0-71713
+msgctxt "8290981-0-71713"
+msgid "Biting Bloodweaver"
+msgstr "咬み付くブラッドウィーバー"
+
+#: 8290981-0-71709
+msgctxt "8290981-0-71709"
+msgid "Mannequin"
+msgstr "マネキン"
+
+#: 8290981-0-71708
+msgctxt "8290981-0-71708"
+msgid "Mannequin"
+msgstr "マネキン"
+
+#: 8290981-0-71706
+msgctxt "8290981-0-71706"
+msgid "Cimbar's Simulacrum"
+msgstr "シンバーの幻"
+
+#: 8290981-0-71705
+msgctxt "8290981-0-71705"
+msgid "Silver Dawn Marauder"
+msgstr "銀なる暁の略奪者"
+
+#: 8290981-0-71704
+msgctxt "8290981-0-71704"
+msgid "Silver Dawn Marauder"
+msgstr "銀なる暁の略奪者"
+
+#: 8290981-0-71703
+msgctxt "8290981-0-71703"
+msgid "Silver Dawn Warrior"
+msgstr "銀なる暁の戦士"
+
+#: 8290981-0-71702
+msgctxt "8290981-0-71702"
+msgid "Alexia Floria"
+msgstr "アレクシア・フロリア"
+
+#: 8290981-0-71701
+msgctxt "8290981-0-71701"
+msgid "Silver Dawn Warrior"
+msgstr "銀なる暁の戦士"
+
+#: 8290981-0-71700
+msgctxt "8290981-0-71700"
+msgid "Plautus Floria"
+msgstr "プラウトゥス・フロリア"
+
+#: 8290981-0-71697
+msgctxt "8290981-0-71697"
+msgid "Silver Dawn Scout"
+msgstr "銀なる暁の斥候"
+
+#: 8290981-0-71696
+msgctxt "8290981-0-71696"
+msgid "Silver Dawn Scout"
+msgstr "銀なる暁の斥候"
+
+#: 8290981-0-71695
+msgctxt "8290981-0-71695"
+msgid "Daedrat"
+msgstr "デイドラット"
+
+#: 8290981-0-71694
+msgctxt "8290981-0-71694"
+msgid "Olveidi the Ratmaster"
+msgstr "ラットマスターのオルヴェイディ"
+
+#: 8290981-0-71693
+msgctxt "8290981-0-71693"
+msgid "Wisp"
+msgstr "ウィスプ"
+
+#: 8290981-0-71691
+msgctxt "8290981-0-71691"
+msgid "Marrow Fiend"
+msgstr "マロウ・フィーンド"
+
+#: 8290981-0-71690
+msgctxt "8290981-0-71690"
+msgid "Shadow Warrior"
+msgstr "影の戦士"
+
+#: 8290981-0-71686
+msgctxt "8290981-0-71686"
+msgid "Shadow Weaver"
+msgstr "シャドウウィーバー"
+
+#: 8290981-0-71684
+#, fuzzy
+msgctxt "8290981-0-71684"
+msgid "Shadow Bloodfiend"
+msgstr "影の狂血鬼"
+
+#: 8290981-0-71683
+#, fuzzy
+msgctxt "8290981-0-71683"
+msgid "Shadow Bloodfiend"
+msgstr "影の狂血鬼"
+
+#: 8290981-0-71682
+msgctxt "8290981-0-71682"
+msgid "Shadow Shadecaller"
+msgstr "影のシェイドコーラー"
+
+#: 8290981-0-71681
+msgctxt "8290981-0-71681"
+msgid "Shadow Shadecaller"
+msgstr "影のシェイドコーラー"
+
+#: 8290981-0-71679
+msgctxt "8290981-0-71679"
+msgid "Shadow Knight"
+msgstr "シャドウナイト"
+
+#: 8290981-0-71675
+msgctxt "8290981-0-71675"
+msgid "Valentina the Crone"
+msgstr "ヴァレンティナ婆"
+
+#: 8290981-0-71674
+#, fuzzy
+msgctxt "8290981-0-71674"
+msgid "Giant Scorpion"
+msgstr "巨大サソリ"
+
+#: 8290981-0-71673
+#, fuzzy
+msgctxt "8290981-0-71673"
+msgid "Spider"
+msgstr "蜘蛛"
+
+#: 8290981-0-71672
+#, fuzzy
+msgctxt "8290981-0-71672"
+msgid "Spider"
+msgstr "蜘蛛"
+
+#: 8290981-0-71671
+#, fuzzy
+msgctxt "8290981-0-71671"
+msgid "Spider"
+msgstr "蜘蛛"
+
+#: 8290981-0-71670
+#, fuzzy
+msgctxt "8290981-0-71670"
+msgid "Sithera"
+msgstr "シセラ"
+
+#: 8290981-0-71669
+msgctxt "8290981-0-71669"
+msgid "Generic Invisible Target"
+msgstr "Generic Invisible Target"
+
+#: 8290981-0-71668
+msgctxt "8290981-0-71668"
+msgid "Generic Invisible Target"
+msgstr "Generic Invisible Target"
+
+#: 8290981-0-71667
+#, fuzzy
+msgctxt "8290981-0-71667"
+msgid "Shadow Bloodfiend"
+msgstr "影の狂血鬼"
+
+#: 8290981-0-71666
+#, fuzzy
+msgctxt "8290981-0-71666"
+msgid "Shadow Bloodfiend"
+msgstr "影の狂血鬼"
+
+#: 8290981-0-71662
+msgctxt "8290981-0-71662"
+msgid "Shadow Wraith"
+msgstr "影のレイス"
+
+#: 8290981-0-71661
+msgctxt "8290981-0-71661"
+msgid "Shadow Bat"
+msgstr "シャドウバット"
+
+#: 8290981-0-71660
+#, fuzzy
+msgctxt "8290981-0-71660"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71659
+msgctxt "8290981-0-71659"
+msgid "Infernal Sep Adder"
+msgstr "インファーナル・セプ・アダー"
+
+#: 8290981-0-71657
+msgctxt "8290981-0-71657"
+msgid "30m Encounter"
+msgstr "30m Encounter"
+
+#: 8290981-0-71655
+msgctxt "8290981-0-71655"
+msgid "Sep Adder"
+msgstr "セプ・アダー"
+
+#: 8290981-0-71654
+#, fuzzy
+msgctxt "8290981-0-71654"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71652
+msgctxt "8290981-0-71652"
+msgid "Astius Octavinua"
+msgstr "アスティウス・オクタヴィヌア"
+
+#: 8290981-0-71650
+msgctxt "8290981-0-71650"
+msgid "Gregorius Voteporix"
+msgstr "グレゴリウス・ボートポリクス"
+
+#: 8290981-0-71649
+msgctxt "8290981-0-71649"
+msgid "Pulcheria Berne"
+msgstr "プルチェリア・ベルネ"
+
+#: 8290981-0-71648
+msgctxt "8290981-0-71648"
+msgid "Senna Monbault"
+msgstr "セナ・モンバルツ"
+
+#: 8290981-0-71647
+msgctxt "8290981-0-71647"
+msgid "Falx Brolus"
+msgstr "ファルクス・ブロラス"
+
+#: 8290981-0-71646
+msgctxt "8290981-0-71646"
+msgid "Azimaz"
+msgstr "アジマズ"
+
+#: 8290981-0-71645
+msgctxt "8290981-0-71645"
+msgid "Lusilla Cipius"
+msgstr "ルシリア・シピウス"
+
+#: 8290981-0-71641
+#, fuzzy
+msgctxt "8290981-0-71641"
+msgid "Astara Caerellius"
+msgstr "アスタラ・カエレリウス"
+
+#: 8290981-0-71639
+msgctxt "8290981-0-71639"
+msgid "Legate Turrianus"
+msgstr "トゥリアヌス軍団長"
+
+#: 8290981-0-71638
+msgctxt "8290981-0-71638"
+msgid "Magos Polus"
+msgstr "メイゴス・ポラス"
+
+#: 8290981-0-71637
+msgctxt "8290981-0-71637"
+msgid "Ignaria Denian"
+msgstr "イグナリア・デニアン"
+
+#: 8290981-0-71636
+#, fuzzy
+msgctxt "8290981-0-71636"
+msgid "Smuggler Ravager"
+msgstr "密売人の破壊者"
+
+#: 8290981-0-71635
+#, fuzzy
+msgctxt "8290981-0-71635"
+msgid "Smuggler Ravager"
+msgstr "密売人の破壊者"
+
+#: 8290981-0-71634
+#, fuzzy
+msgctxt "8290981-0-71634"
+msgid "Smuggler Bravo"
+msgstr "密売人の刺客"
+
+#: 8290981-0-71633
+#, fuzzy
+msgctxt "8290981-0-71633"
+msgid "Smuggler Bravo"
+msgstr "密売人の刺客"
+
+#: 8290981-0-71632
+#, fuzzy
+msgctxt "8290981-0-71632"
+msgid "Smuggler Bruiser"
+msgstr "密売人のブルーザー"
+
+#: 8290981-0-71631
+#, fuzzy
+msgctxt "8290981-0-71631"
+msgid "Smuggler Bruiser"
+msgstr "密売人のブルーザー"
+
+#: 8290981-0-71629
+#, fuzzy
+msgctxt "8290981-0-71629"
+msgid "Smuggler Archer"
+msgstr "密売人の射手"
+
+#: 8290981-0-71627
+msgctxt "8290981-0-71627"
+msgid "Sabrina"
+msgstr "サブリナ"
+
+#: 8290981-0-71624
+#, fuzzy
+msgctxt "8290981-0-71624"
+msgid "Mirabelle Motierre"
+msgstr "ミラベル・モティエール"
+
+#: 8290981-0-71623
+msgctxt "8290981-0-71623"
+msgid "Diseased Spore"
+msgstr "病気の胞子"
+
+#: 8290981-0-71622
+msgctxt "8290981-0-71622"
+msgid "Mirabelle's Simulacrum"
+msgstr "ミラベルの幻"
+
+#: 8290981-0-71621
+msgctxt "8290981-0-71621"
+msgid "Julia Gloriosus"
+msgstr "ジュリア・グロリオサス"
+
+#: 8290981-0-71620
+msgctxt "8290981-0-71620"
+msgid "Saulius Rusonius"
+msgstr "サウリウス・ルソニウス"
+
+#: 8290981-0-71619
+msgctxt "8290981-0-71619"
+msgid "Agrius Albutian"
+msgstr "アグリアス・アルブイタン"
+
+#: 8290981-0-71615
+#, fuzzy
+msgctxt "8290981-0-71615"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71614
+msgctxt "8290981-0-71614"
+msgid "Rat"
+msgstr "鼠"
+
+#: 8290981-0-71613
+msgctxt "8290981-0-71613"
+msgid "Vistilia Falto"
+msgstr "ヴィスティリア・ファルトー"
+
+#: 8290981-0-71611
+msgctxt "8290981-0-71611"
+msgid "Generic Invisible Target"
+msgstr "Generic Invisible Target"
+
+#: 8290981-0-71608
+#, fuzzy
+msgctxt "8290981-0-71608"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71607
+#, fuzzy
+msgctxt "8290981-0-71607"
+msgid "Spider"
+msgstr "蜘蛛"
+
+#: 8290981-0-71606
+#, fuzzy
+msgctxt "8290981-0-71606"
+msgid "Spider"
+msgstr "蜘蛛"
+
+#: 8290981-0-71605
+#, fuzzy
+msgctxt "8290981-0-71605"
+msgid "Wasp"
+msgstr "ワスプ"
+
+#: 8290981-0-71604
+#, fuzzy
+msgctxt "8290981-0-71604"
+msgid "Scorpion"
+msgstr "サソリ"
+
+#: 8290981-0-71603
+msgctxt "8290981-0-71603"
+msgid "Snake"
+msgstr "蛇"
+
+#: 8290981-0-71602
+msgctxt "8290981-0-71602"
+msgid "Frog"
+msgstr "カエル"
+
+#: 8290981-0-71601
+msgctxt "8290981-0-71601"
+msgid "Snake"
+msgstr "蛇"
+
+#: 8290981-0-71600
+msgctxt "8290981-0-71600"
+msgid "Woe"
+msgstr "ウー"
+
+#: 8290981-0-71599
+#, fuzzy
+msgctxt "8290981-0-71599"
+msgid "Dreugh Warrior"
+msgstr "ドゥルーの戦士"
+
+#: 8290981-0-71598
+#, fuzzy
+msgctxt "8290981-0-71598"
+msgid "Dreugh"
+msgstr "ドゥルー"
+
+#: 8290981-0-71595
+#, fuzzy
+msgctxt "8290981-0-71595"
+msgid "Thunderbug"
+msgstr "サンダーバグ"
+
+#: 8290981-0-71594
+#, fuzzy
+msgctxt "8290981-0-71594"
+msgid "Thunderbug"
+msgstr "サンダーバグ"
+
+#: 8290981-0-71593
+msgctxt "8290981-0-71593"
+msgid "Enlaf"
+msgstr "エンラフ"
+
+#: 8290981-0-71592
+msgctxt "8290981-0-71592"
+msgid "Laurina Alextus"
+msgstr "ローリナ・アレクストゥス"
+
+#: 8290981-0-71591
+msgctxt "8290981-0-71591"
+msgid "Votary's Broodlings"
+msgstr "信奉者の子蜘蛛"
+
+#: 8290981-0-71590
+msgctxt "8290981-0-71590"
+msgid "Eutropia Senyan"
+msgstr "ユートロピア・センニャン"
+
+#: 8290981-0-71589
+msgctxt "8290981-0-71589"
+msgid "Vodiaka Planicus"
+msgstr "ヴォディアカ・プラニカス"
+
+#: 8290981-0-71587
+msgctxt "8290981-0-71587"
+msgid "Lucky"
+msgstr "ラッキー"
+
+#: 8290981-0-71586
+msgctxt "8290981-0-71586"
+msgid "Lucky"
+msgstr "ラッキー"
+
+#: 8290981-0-71585
+msgctxt "8290981-0-71585"
+msgid "Lucky"
+msgstr "ラッキー"
+
+#: 8290981-0-71584
+msgctxt "8290981-0-71584"
+msgid "The Off-Key Outlaw"
+msgstr "調子外れの無法者"
+
+#: 8290981-0-71582
+msgctxt "8290981-0-71582"
+msgid "Hereld Malloni"
+msgstr "使者マローニ"
+
+#: 8290981-0-71581
+msgctxt "8290981-0-71581"
+msgid "Skaldara"
+msgstr "スカルダラ"
+
+#: 8290981-0-71579
+msgctxt "8290981-0-71579"
+msgid "Isabelle Vyau"
+msgstr "イサベル・ヴュー"
+
+#: 8290981-0-71578
+msgctxt "8290981-0-71578"
+msgid "Capiton Sibylla"
+msgstr "キャピトン・シビラ"
+
+#: 8290981-0-71577
+msgctxt "8290981-0-71577"
+msgid "Brema"
+msgstr "ブレマ"
+
+#: 8290981-0-71575
+msgctxt "8290981-0-71575"
+msgid "Flavia Russus"
+msgstr "フラヴィア・ラスサス"
+
+#: 8290981-0-71574
+msgctxt "8290981-0-71574"
+msgid "Lepida Melitus"
+msgstr "レピダ・メリトゥス"
+
+#: 8290981-0-71565
+msgctxt "8290981-0-71565"
+msgid "Aurius Valerius"
+msgstr "オーリウス・ヴァレリウス"
+
+#: 8290981-0-71564
+msgctxt "8290981-0-71564"
+msgid "Horatia Lampronius"
+msgstr "ホラティア・ランプロニウス"
+
+#: 8290981-0-71563
+msgctxt "8290981-0-71563"
+msgid "Scarius Barbatus"
+msgstr "スカリアス・バルバトゥス"
+
+#: 8290981-0-71562
+msgctxt "8290981-0-71562"
+msgid "Rilia Lentinus"
+msgstr "リリア・レンティヌス"
+
+#: 8290981-0-71561
+msgctxt "8290981-0-71561"
+msgid "Pavo Vedius"
+msgstr "パボ・ベディウス"
+
+#: 8290981-0-71560
+msgctxt "8290981-0-71560"
+msgid "Larina Jeranus"
+msgstr "ラリナ・ジェラヌス"
+
+#: 8290981-0-71559
+msgctxt "8290981-0-71559"
+msgid "Kastav Torquatus"
+msgstr "カスタブ・トルクアトゥス"
+
+#: 8290981-0-71558
+#, fuzzy
+msgctxt "8290981-0-71558"
+msgid "Tree-Minder Na-Kesh"
+msgstr "木の番人ナ・ケッシュ"
+
+#: 8290981-0-71557
+msgctxt "8290981-0-71557"
+msgid "Illia Polus"
+msgstr "イリア・ポラス"
+
+#: 8290981-0-71553
+msgctxt "8290981-0-71553"
+msgid "Sharikeh"
+msgstr "シャリケー"
+
+#: 8290981-0-71551
+msgctxt "8290981-0-71551"
+msgid "Philien Girien"
+msgstr "フィリエン・ギリエン"
+
+#: 8290981-0-71546
+msgctxt "8290981-0-71546"
+msgid "Vontan Facian"
+msgstr "ヴォンタン・フェイシャン"
+
+#: 8290981-0-71545
+#, fuzzy
+msgctxt "8290981-0-71545"
+msgid "Dranos Velador"
+msgstr "ドラノス・ヴェラドール"
+
+#: 8290981-0-71544
+msgctxt "8290981-0-71544"
+msgid "Regulus Familius"
+msgstr "レグルス・ファミリアス"
+
+#: 8290981-0-71542
+msgctxt "8290981-0-71542"
+msgid "Nix Hound"
+msgstr "ニックスハウンド"
+
+#: 8290981-0-71541
+msgctxt "8290981-0-71541"
+msgid "Jackal"
+msgstr "ジャッカル"
+
+#: 8290981-0-71540
+msgctxt "8290981-0-71540"
+msgid "Guar"
+msgstr "グアル"
+
+#: 8290981-0-71538
+msgctxt "8290981-0-71538"
+msgid "Welwa"
+msgstr "ウェルワ"
+
+#: 8290981-0-71537
+msgctxt "8290981-0-71537"
+msgid "Bear"
+msgstr "熊"
+
+#: 8290981-0-71535
+msgctxt "8290981-0-71535"
+msgid "Diana Gravius"
+msgstr "ダイアナ・グラヴィウス"
+
+#: 8290981-0-71534
+msgctxt "8290981-0-71534"
+msgid "Belenius Pelius"
+msgstr "ベレニウス・ペリウス"
+
+#: 8290981-0-71525
+msgctxt "8290981-0-71525"
+msgid "Lamzakha"
+msgstr "ラムザカ"
+
+#: 8290981-0-71524
+msgctxt "8290981-0-71524"
+msgid "Herminius Andus"
+msgstr "ヘルミニウス・アンダス"
+
+#: 8290981-0-71523
+msgctxt "8290981-0-71523"
+msgid "Andilo Andrano"
+msgstr "アンディロ・アンドラノ"
+
+#: 8290981-0-71522
+#, fuzzy
+msgctxt "8290981-0-71522"
+msgid "Aojee-Ei"
+msgstr "アオジー・エイ"
+
+#: 8290981-0-71521
+msgctxt "8290981-0-71521"
+msgid "Dolwinora"
+msgstr "ドルウィノラ"
+
+#: 8290981-0-71520
+msgctxt "8290981-0-71520"
+msgid "Alard Cerone"
+msgstr "アラード・セロン"
+
+#: 8290981-0-71519
+msgctxt "8290981-0-71519"
+msgid "Talrahal"
+msgstr "タルアハル"
+
+#: 8290981-0-71518
+msgctxt "8290981-0-71518"
+msgid "The Black Dragon"
+msgstr "ブラックドラゴン"
+
+#: 8290981-0-71517
+#, fuzzy
+msgctxt "8290981-0-71517"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71516
+msgctxt "8290981-0-71516"
+msgid "The Black Dragon"
+msgstr "ブラックドラゴン"
+
+#: 8290981-0-71508
+msgctxt "8290981-0-71508"
+msgid "Serpent Fang"
+msgstr "大蛇の牙"
+
+#: 8290981-0-71507
+msgctxt "8290981-0-71507"
+msgid "Abizzaka"
+msgstr "アビザッカ"
+
+#: 8290981-0-71506
+msgctxt "8290981-0-71506"
+msgid "Eslendore"
+msgstr "エスレンドラ"
+
+#: 8290981-0-71505
+msgctxt "8290981-0-71505"
+msgid "Borcholim"
+msgstr "ボルコリム"
+
+#: 8290981-0-71504
+msgctxt "8290981-0-71504"
+msgid "Brunka"
+msgstr "ブルンカ"
+
+#: 8290981-0-71503
+msgctxt "8290981-0-71503"
+msgid "Daynil Uveleth"
+msgstr "デイニル・ウヴェレス"
+
+#: 8290981-0-71502
+msgctxt "8290981-0-71502"
+msgid "Bur-Waska"
+msgstr "ブル・ワスカ"
+
+#: 8290981-0-71501
+msgctxt "8290981-0-71501"
+msgid "Savilian Colus"
+msgstr "サヴィリアン・コラス"
+
+#: 8290981-0-71500
+msgctxt "8290981-0-71500"
+msgid "Rat"
+msgstr "鼠"
+
+#: 8290981-0-71496
+#, fuzzy
+msgctxt "8290981-0-71496"
+msgid "Skeever"
+msgstr "スキーヴァー"
+
+#: 8290981-0-71493
+#, fuzzy
+msgctxt "8290981-0-71493"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71492
+#, fuzzy
+msgctxt "8290981-0-71492"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71491
+msgctxt "8290981-0-71491"
+msgid "Idessa Vassinus"
+msgstr "イデッサ・ヴァッシヌス"
+
+#: 8290981-0-71489
+#, fuzzy
+msgctxt "8290981-0-71489"
+msgid "Votary of Velidreth"
+msgstr "ヴェリドレスの信奉者"
+
+#: 8290981-0-71488
+msgctxt "8290981-0-71488"
+msgid "valvius Paterculus"
+msgstr "ヴァルヴィウス・パテルクラス"
+
+#: 8290981-0-71487
+msgctxt "8290981-0-71487"
+msgid "Gold Coast Archer"
+msgstr "ゴールドコーストの射手"
+
+#: 8290981-0-71486
+msgctxt "8290981-0-71486"
+msgid "Aulus Amphia"
+msgstr "アウラス・アンフィア"
+
+#: 8290981-0-71485
+msgctxt "8290981-0-71485"
+msgid "Su-Zahleel Captive"
+msgstr "スー・ザーリールの捕虜"
+
+#: 8290981-0-71484
+msgctxt "8290981-0-71484"
+msgid "Su-Zahleel Captive"
+msgstr "スー・ザーリールの捕虜"
+
+#: 8290981-0-71483
+msgctxt "8290981-0-71483"
+msgid "Su-Zahleel Captive"
+msgstr "スー・ザーリールの捕虜"
+
+#: 8290981-0-71482
+msgctxt "8290981-0-71482"
+msgid "Swarming Beetle"
+msgstr "群がる甲虫"
+
+#: 8290981-0-71481
+msgctxt "8290981-0-71481"
+msgid "Gristle"
+msgstr "グリスル"
+
+#: 8290981-0-71472
+#, fuzzy
+msgctxt "8290981-0-71472"
+msgid "Goat"
+msgstr "山羊"
+
+#: 8290981-0-71471
+msgctxt "8290981-0-71471"
+msgid "MUSIC TRIGGER MONSTER"
+msgstr "ミュージック・トリガー・モンスター"
+
+#: 8290981-0-71470
+msgctxt "8290981-0-71470"
+msgid "Krog"
+msgstr "クロッグ"
+
+#: 8290981-0-71469
+msgctxt "8290981-0-71469"
+msgid "Azuni"
+msgstr "アズニ"
+
+#: 8290981-0-71468
+msgctxt "8290981-0-71468"
+msgid "Generic Invisible Target"
+msgstr "Generic Invisible Target"
+
+#: 8290981-0-71466
+msgctxt "8290981-0-71466"
+msgid "Sirollus Catius"
+msgstr "シロラス・カティウス"
+
+#: 8290981-0-71465
+msgctxt "8290981-0-71465"
+msgid "August Afronia"
+msgstr "オーガスト・アフロニア"
+
+#: 8290981-0-71464
+msgctxt "8290981-0-71464"
+msgid "Moria Mamula"
+msgstr "モリア・マムラ"
+
+#: 8290981-0-71463
+msgctxt "8290981-0-71463"
+msgid "Bruccius Caerellius"
+msgstr "ブルッシウス・カエレリウス"
+
+#: 8290981-0-71462
+msgctxt "8290981-0-71462"
+msgid "Volrina Asiagenus"
+msgstr "ヴォルリナ・アジアゲヌス"
+
+#: 8290981-0-71460
+msgctxt "8290981-0-71460"
+msgid "Gloom Wraith"
+msgstr "闇のレイス"
+
+#: 8290981-0-71459
+msgctxt "8290981-0-71459"
+msgid "Boss Stunner"
+msgstr "ボスのスタナー"
+
+#: 8290981-0-71458
+msgctxt "8290981-0-71458"
+msgid "Minotaur"
+msgstr "ミノタウロス"
+
+#: 8290981-0-71454
+msgctxt "8290981-0-71454"
+msgid "Mephala's Shadowspinner"
+msgstr "メファーラの影の紡ぎ手"
+
+#: 8290981-0-71453
+msgctxt "8290981-0-71453"
+msgid "Mephala's Shadowspinner"
+msgstr "メファーラの影の紡ぎ手"
+
+#: 8290981-0-71452
+msgctxt "8290981-0-71452"
+msgid "Mephala's Bonecleaver"
+msgstr "メファーラのボーンクリーヴァー"
+
+#: 8290981-0-71451
+msgctxt "8290981-0-71451"
+msgid "Mephala's Bonecleaver"
+msgstr "メファーラのボーンクリーヴァー"
+
+#: 8290981-0-71450
+msgctxt "8290981-0-71450"
+msgid "Mephala's Venomblade"
+msgstr "シルケンリングの毒使い"
+
+#: 8290981-0-71449
+msgctxt "8290981-0-71449"
+msgid "Mephala's Venomblade"
+msgstr "シルケンリングの毒使い"
+
+#: 8290981-0-71448
+msgctxt "8290981-0-71448"
+msgid "Silken Ring Deadeye"
+msgstr "シルケンリングの名射手"
+
+#: 8290981-0-71447
+msgctxt "8290981-0-71447"
+msgid "Silken Ring Deadeye"
+msgstr "シルケンリングの名射手"
+
+#: 8290981-0-71446
+msgctxt "8290981-0-71446"
+msgid "Silken Ring Shadowcaller"
+msgstr "シルケンリングのシャドウコーラー"
+
+#: 8290981-0-71445
+msgctxt "8290981-0-71445"
+msgid "Silken Ring Shadowcaller"
+msgstr "シルケンリングのシャドウコーラー"
+
+#: 8290981-0-71443
+msgctxt "8290981-0-71443"
+msgid "Nixad"
+msgstr "ニクサド"
+
+#: 8290981-0-71442
+msgctxt "8290981-0-71442"
+msgid "Nixad"
+msgstr "ニクサド"
+
+#: 8290981-0-71441
+msgctxt "8290981-0-71441"
+msgid "Silken Ring Stalker"
+msgstr "シルケンリングの追跡者"
+
+#: 8290981-0-71440
+msgctxt "8290981-0-71440"
+msgid "Silken Ring Stalker"
+msgstr "シルケンリングの追跡者"
+
+#: 8290981-0-71438
+msgctxt "8290981-0-71438"
+msgid "Silken Ring Assassin"
+msgstr "シルケンリングのアサシン"
+
+#: 8290981-0-71437
+msgctxt "8290981-0-71437"
+msgid "Silken Ring Assassin"
+msgstr "シルケンリングのアサシン"
+
+#: 8290981-0-71436
+#, fuzzy
+msgctxt "8290981-0-71436"
+msgid "Chicken"
+msgstr "鶏"
+
+#: 8290981-0-71433
+msgctxt "8290981-0-71433"
+msgid "Olfrid the Long-Watcher"
+msgstr "オルフリッド・ロングウォッチャー"
+
+#: 8290981-0-71432
+msgctxt "8290981-0-71432"
+msgid "Not-Really-Here"
+msgstr "ここにはいない者"
+
+#: 8290981-0-71431
+msgctxt "8290981-0-71431"
+msgid "Hate Me Dummy"
+msgstr "ヘイト・ミー・ダミー"
+
+#: 8290981-0-71430
+msgctxt "8290981-0-71430"
+msgid "Colovian Badger"
+msgstr "コロヴィアアナグマ"
+
+#: 8290981-0-71429
+msgctxt "8290981-0-71429"
+msgid "Northern Lynx"
+msgstr "ノーザンリンクス"
+
+#: 8290981-0-71428
+msgctxt "8290981-0-71428"
+msgid "Long Tooth Hunter"
+msgstr "ロングトゥースの狩人"
+
+#: 8290981-0-71427
+msgctxt "8290981-0-71427"
+msgid "Long Tooth Butcher"
+msgstr "ロングトゥースのブッチャー"
+
+#: 8290981-0-71426
+msgctxt "8290981-0-71426"
+msgid "Long Tooth Savage"
+msgstr "ロングトゥースの野蛮人"
+
+#: 8290981-0-71425
+msgctxt "8290981-0-71425"
+msgid "Sharp Stick Hunter"
+msgstr "シャープスティックの狩人"
+
+#: 8290981-0-71424
+msgctxt "8290981-0-71424"
+msgid "Sharp Stick Ravager"
+msgstr "シャープスティックの破壊者"
+
+#: 8290981-0-71423
+msgctxt "8290981-0-71423"
+msgid "Long Tooth Shaman"
+msgstr "ロングトゥースの呪術師"
+
+#: 8290981-0-71421
+msgctxt "8290981-0-71421"
+msgid "Sharp Stick Witch"
+msgstr "シャープスティックの魔女"
+
+#: 8290981-0-71420
+msgctxt "8290981-0-71420"
+msgid "Sharp Stick Butcher"
+msgstr "シャープスティックのブッチャー"
+
+#: 8290981-0-71419
+msgctxt "8290981-0-71419"
+msgid "MUSIC TRIGGER MONSTER"
+msgstr "ミュージック・トリガー・モンスター"
+
+#: 8290981-0-71417
+msgctxt "8290981-0-71417"
+msgid "Lord Nunex Faleria"
+msgstr "ヌネックス・ファレリア卿"
+
+#: 8290981-0-71416
+#, fuzzy
+msgctxt "8290981-0-71416"
+msgid "Astara Caerellius"
+msgstr "アスタラ・カエレリウス"
+
+#: 8290981-0-71415
+#, fuzzy
+msgctxt "8290981-0-71415"
+msgid "Zeriba"
+msgstr "ゼリバ"
+
+#: 8290981-0-71414
+#, fuzzy
+msgctxt "8290981-0-71414"
+msgid "Azara"
+msgstr "アザーラ"
+
+#: 8290981-0-71413
+#, fuzzy
+msgctxt "8290981-0-71413"
+msgid "Bakhig-ja"
+msgstr "バックヒグ"
+
+#: 8290981-0-71411
+msgctxt "8290981-0-71411"
+msgid "Fate-Bearer Initiate"
+msgstr "運命を担う者の入門者"
+
+#: 8290981-0-71410
+msgctxt "8290981-0-71410"
+msgid "Fate-Bearer Initiate"
+msgstr "運命を担う者の入門者"
+
+#: 8290981-0-71409
+msgctxt "8290981-0-71409"
+msgid "Fate-Bearer Subjugator"
+msgstr "運命を担う者の征服者"
+
+#: 8290981-0-71408
+msgctxt "8290981-0-71408"
+msgid "Fate-Bearer Subjugator"
+msgstr "運命を担う者の征服者"
+
+#: 8290981-0-71407
+msgctxt "8290981-0-71407"
+msgid "Fate-Bearer Stalker"
+msgstr "運命を担う者の追跡者"
+
+#: 8290981-0-71406
+msgctxt "8290981-0-71406"
+msgid "Fate-bearer Stalker"
+msgstr "運命を担う者の追跡者"
+
+#: 8290981-0-71405
+msgctxt "8290981-0-71405"
+msgid "Fate-Bearer Runecaster"
+msgstr "運命を担う者のルーン術者"
+
+#: 8290981-0-71404
+msgctxt "8290981-0-71404"
+msgid "Fate-Bearer Runecaster"
+msgstr "運命を担う者のルーン術者"
+
+#: 8290981-0-71384
+msgctxt "8290981-0-71384"
+msgid "Shazara-Ta"
+msgstr "シャザラ・タ"
+
+#: 8290981-0-71383
+#, fuzzy
+msgctxt "8290981-0-71383"
+msgid "Naryu Virian"
+msgstr "ナリュー・ヴィリアン"
+
+#: 8290981-0-71382
+#, fuzzy
+msgctxt "8290981-0-71382"
+msgid "River Troll"
+msgstr "リバー・トロール"
+
+#: 8290981-0-71381
+msgctxt "8290981-0-71381"
+msgid "Yarmia"
+msgstr "ヤーミア"
+
+#: 8290981-0-71380
+#, fuzzy
+msgctxt "8290981-0-71380"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71377
+#, fuzzy
+msgctxt "8290981-0-71377"
+msgid "Antelope"
+msgstr "アンテロープ"
+
+#: 8290981-0-71376
+msgctxt "8290981-0-71376"
+msgid "Antelope"
+msgstr "アンテロープ"
+
+#: 8290981-0-71375
+#, fuzzy
+msgctxt "8290981-0-71375"
+msgid "Naryu Virian"
+msgstr "ナリュー・ヴィリアン"
+
+#: 8290981-0-71374
+#, fuzzy
+msgctxt "8290981-0-71374"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71373
+msgctxt "8290981-0-71373"
+msgid "Louna"
+msgstr "ロウナ"
+
+#: 8290981-0-71372
+msgctxt "8290981-0-71372"
+msgid "Fate-Bearer Subjugator"
+msgstr "運命を担う者の征服者"
+
+#: 8290981-0-71371
+msgctxt "8290981-0-71371"
+msgid "Velidreth's Devotion"
+msgstr "ヴェリドレスの信者"
+
+#: 8290981-0-71370
+msgctxt "8290981-0-71370"
+msgid "The Black Dragon"
+msgstr "ブラックドラゴン"
+
+#: 8290981-0-71369
+msgctxt "8290981-0-71369"
+msgid "Justina Vitellius"
+msgstr "ジュスティナ・ヴィタリウス"
+
+#: 8290981-0-71368
+msgctxt "8290981-0-71368"
+msgid "Chaero Sextius"
+msgstr "チャエロ・セクスティウス"
+
+#: 8290981-0-71367
+msgctxt "8290981-0-71367"
+msgid "Buzrukana"
+msgstr "ブズルカナ"
+
+#: 8290981-0-71366
+msgctxt "8290981-0-71366"
+msgid "Hassariq"
+msgstr "ハサリク"
+
+#: 8290981-0-71365
+msgctxt "8290981-0-71365"
+msgid "Nafefta"
+msgstr "ナフェフタ"
+
+#: 8290981-0-71363
+msgctxt "8290981-0-71363"
+msgid "Herminia Pevengius"
+msgstr "ヘルミニア・ペヴェンギウス"
+
+#: 8290981-0-71361
+#, fuzzy
+msgctxt "8290981-0-71361"
+msgid "Gabrielle Benele"
+msgstr "ガブリエル・ベネレ"
+
+#: 8290981-0-71360
+msgctxt "8290981-0-71360"
+msgid "Falco Curatius"
+msgstr "ファルコ・キュラティウス"
+
+#: 8290981-0-71359
+msgctxt "8290981-0-71359"
+msgid "Caldana Rulician"
+msgstr "カルダナ・ルリシアン"
+
+#: 8290981-0-71354
+msgctxt "8290981-0-71354"
+msgid "Pinarus Statlilia"
+msgstr "ピナラス・スタティリリア"
+
+#: 8290981-0-71353
+#, fuzzy
+msgctxt "8290981-0-71353"
+msgid "Artorius"
+msgstr "アルトリウス"
+
+#: 8290981-0-71352
+msgctxt "8290981-0-71352"
+msgid "Q5664 - SpawnAnvilMeetupScene1"
+msgstr "Q5664 - SpawnAnvilMeetupScene1"
+
+#: 8290981-0-71351
+msgctxt "8290981-0-71351"
+msgid "Q5664 - SpawnAnvilMeetupScene1"
+msgstr "Q5664 - SpawnAnvilMeetupScene1"
+
+#: 8290981-0-71348
+#, fuzzy
+msgctxt "8290981-0-71348"
+msgid "Naryu Virian"
+msgstr "ナリュー・ヴィリアン"
+
+#: 8290981-0-71347
+#, fuzzy
+msgctxt "8290981-0-71347"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71346
+msgctxt "8290981-0-71346"
+msgid "Tuindal"
+msgstr "トゥインダル"
+
+#: 8290981-0-71345
+msgctxt "8290981-0-71345"
+msgid "Dobias Sophus"
+msgstr "ドビアス・ソフス"
+
+#: 8290981-0-71344
+msgctxt "8290981-0-71344"
+msgid "Yarmia"
+msgstr "ヤーミア"
+
+#: 8290981-0-71343
+msgctxt "8290981-0-71343"
+msgid "Louna"
+msgstr "ロウナ"
+
+#: 8290981-0-71341
+msgctxt "8290981-0-71341"
+msgid "Jakja"
+msgstr "ジャクジャ"
+
+#: 8290981-0-71340
+msgctxt "8290981-0-71340"
+msgid "Hiwoud"
+msgstr "ハイウォウド"
+
+#: 8290981-0-71338
+msgctxt "8290981-0-71338"
+msgid "Xit-Xaht Warrior"
+msgstr "ジット・ザートの戦士"
+
+#: 8290981-0-71336
+msgctxt "8290981-0-71336"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-71335
+msgctxt "8290981-0-71335"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-71334
+msgctxt "8290981-0-71334"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-71333
+msgctxt "8290981-0-71333"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-71332
+msgctxt "8290981-0-71332"
+msgid "Crocodile"
+msgstr "クロコダイル"
+
+#: 8290981-0-71331
+msgctxt "8290981-0-71331"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-71330
+msgctxt "8290981-0-71330"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-71329
+msgctxt "8290981-0-71329"
+msgid "Xit-Xaht Lookout"
+msgstr "ジット・ザートの見張り"
+
+#: 8290981-0-71328
+msgctxt "8290981-0-71328"
+msgid "Tuindal"
+msgstr "トゥインダル"
+
+#: 8290981-0-71327
+msgctxt "8290981-0-71327"
+msgid "Dobias Sophus"
+msgstr "ドビアス・ソフス"
+
+#: 8290981-0-71326
+msgctxt "8290981-0-71326"
+msgid "Yarmia"
+msgstr "ヤーミア"
+
+#: 8290981-0-71323
+#, fuzzy
+msgctxt "8290981-0-71323"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71319
+msgctxt "8290981-0-71319"
+msgid "Reman Mevavius"
+msgstr "レマン・メヴァヴィウス"
+
+#: 8290981-0-71318
+#, fuzzy
+msgctxt "8290981-0-71318"
+msgid "Naryu Virian"
+msgstr "ナリュー・ヴィリアン"
+
+#: 8290981-0-71316
+msgctxt "8290981-0-71316"
+msgid "Yarmia"
+msgstr "ヤーミア"
+
+#: 8290981-0-71315
+#, fuzzy
+msgctxt "8290981-0-71315"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71314
+#, fuzzy
+msgctxt "8290981-0-71314"
+msgid "Naryu Virian"
+msgstr "ナリュー・ヴィリアン"
+
+#: 8290981-0-71281
+msgctxt "8290981-0-71281"
+msgid "Vile's Contriver"
+msgstr "ヴァイルの考察者"
+
+#: 8290981-0-71280
+msgctxt "8290981-0-71280"
+msgid "Vile's Contriver"
+msgstr "ヴァイルの考察者"
+
+#: 8290981-0-71279
+msgctxt "8290981-0-71279"
+msgid "Vile's Contriver"
+msgstr "ヴァイルの考察者"
+
+#: 8290981-0-71278
+msgctxt "8290981-0-71278"
+msgid "Vile's Contriver"
+msgstr "ヴァイルの考察者"
+
+#: 8290981-0-71277
+msgctxt "8290981-0-71277"
+msgid "Vile's Contriver"
+msgstr "ヴァイルの考察者"
+
+#: 8290981-0-71276
+msgctxt "8290981-0-71276"
+msgid "Vile's Contriver"
+msgstr "ヴァイルの考察者"
+
+#: 8290981-0-71275
+msgctxt "8290981-0-71275"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71274
+msgctxt "8290981-0-71274"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71273
+msgctxt "8290981-0-71273"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71272
+msgctxt "8290981-0-71272"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71271
+msgctxt "8290981-0-71271"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71270
+msgctxt "8290981-0-71270"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71269
+msgctxt "8290981-0-71269"
+msgid "Resolute Votary"
+msgstr "篤信者の信徒"
+
+#: 8290981-0-71268
+msgctxt "8290981-0-71268"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71267
+msgctxt "8290981-0-71267"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71266
+msgctxt "8290981-0-71266"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71265
+msgctxt "8290981-0-71265"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71264
+msgctxt "8290981-0-71264"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71263
+msgctxt "8290981-0-71263"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71262
+msgctxt "8290981-0-71262"
+msgid "Gold Coast Trader"
+msgstr "ゴールドコースト商人"
+
+#: 8290981-0-71261
+#, fuzzy
+msgctxt "8290981-0-71261"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-71260
+msgctxt "8290981-0-71260"
+msgid "Resolute Warden"
+msgstr "篤信者の番人"
+
+#: 8290981-0-71259
+msgctxt "8290981-0-71259"
+msgid "Resolute Warden"
+msgstr "篤信者の番人"
+
+#: 8290981-0-71258
+msgctxt "8290981-0-71258"
+msgid "Resolute Warden"
+msgstr "篤信者の番人"
+
+#: 8290981-0-71257
+msgctxt "8290981-0-71257"
+msgid "Gold Coast Warden"
+msgstr "ゴールドコーストの番人"
+
+#: 8290981-0-71256
+msgctxt "8290981-0-71256"
+msgid "Gold Coast Warden"
+msgstr "ゴールドコーストの番人"
+
+#: 8290981-0-71255
+msgctxt "8290981-0-71255"
+msgid "Gold Coast Warden"
+msgstr "ゴールドコーストの番人"
+
+#: 8290981-0-71254
+msgctxt "8290981-0-71254"
+msgid "Vile's Warden"
+msgstr "ヴァイルの番人"
+
+#: 8290981-0-71253
+msgctxt "8290981-0-71253"
+msgid "Vile's Warden"
+msgstr "ヴァイルの番人"
+
+#: 8290981-0-71252
+msgctxt "8290981-0-71252"
+msgid "Vile's Warden"
+msgstr "ヴァイルの番人"
+
+#: 8290981-0-71251
+msgctxt "8290981-0-71251"
+msgid "Resolute Overseer"
+msgstr "篤信者の監督官"
+
+#: 8290981-0-71250
+msgctxt "8290981-0-71250"
+msgid "Gold Coast Overseer"
+msgstr "ゴールドコーストの監督官"
+
+#: 8290981-0-71249
+msgctxt "8290981-0-71249"
+msgid "Vile's Overseer"
+msgstr "ヴァイルの監督官"
+
+#: 8290981-0-71248
+msgctxt "8290981-0-71248"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71247
+msgctxt "8290981-0-71247"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71246
+msgctxt "8290981-0-71246"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71245
+msgctxt "8290981-0-71245"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71244
+msgctxt "8290981-0-71244"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71243
+msgctxt "8290981-0-71243"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71242
+msgctxt "8290981-0-71242"
+msgid "Shadowbanish Vinter"
+msgstr "影滅の醸造業者"
+
+#: 8290981-0-71228
+msgctxt "8290981-0-71228"
+msgid "Shadowbanish Warden"
+msgstr "影滅の番人"
+
+#: 8290981-0-71227
+msgctxt "8290981-0-71227"
+msgid "Shadowbanish Warden"
+msgstr "影滅の番人"
+
+#: 8290981-0-71226
+msgctxt "8290981-0-71226"
+msgid "Shadowbanish Warden"
+msgstr "影滅の番人"
+
+#: 8290981-0-71219
+msgctxt "8290981-0-71219"
+msgid "Shadowbanish Overseer"
+msgstr "影滅の監督官"
+
+#: 8290981-0-71216
+msgctxt "8290981-0-71216"
+msgid "League Miner"
+msgstr "同盟の鉱山労働者"
+
+#: 8290981-0-71215
+msgctxt "8290981-0-71215"
+msgid "League Miner"
+msgstr "同盟の鉱山労働者"
+
+#: 8290981-0-71214
+msgctxt "8290981-0-71214"
+msgid "League Miner"
+msgstr "同盟の鉱山労働者"
+
+#: 8290981-0-71213
+msgctxt "8290981-0-71213"
+msgid "League Miner"
+msgstr "同盟の鉱山労働者"
+
+#: 8290981-0-71212
+msgctxt "8290981-0-71212"
+msgid "League Miner"
+msgstr "同盟の鉱山労働者"
+
+#: 8290981-0-71211
+msgctxt "8290981-0-71211"
+msgid "League Miner"
+msgstr "同盟の鉱山労働者"
+
+#: 8290981-0-71210
+msgctxt "8290981-0-71210"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71209
+msgctxt "8290981-0-71209"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71208
+msgctxt "8290981-0-71208"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71207
+msgctxt "8290981-0-71207"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71206
+msgctxt "8290981-0-71206"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71205
+msgctxt "8290981-0-71205"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71204
+msgctxt "8290981-0-71204"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71203
+msgctxt "8290981-0-71203"
+msgid "University Scrivener"
+msgstr "大学の書記"
+
+#: 8290981-0-71196
+#, fuzzy
+msgctxt "8290981-0-71196"
+msgid "Kotu Gava"
+msgstr "コツ・ガヴァ"
+
+#: 8290981-0-71194
+msgctxt "8290981-0-71194"
+msgid "League Warden"
+msgstr "同盟の番人"
+
+#: 8290981-0-71193
+msgctxt "8290981-0-71193"
+msgid "League Warden"
+msgstr "同盟の番人"
+
+#: 8290981-0-71192
+msgctxt "8290981-0-71192"
+msgid "League Warden"
+msgstr "同盟の番人"
+
+#: 8290981-0-71191
+msgctxt "8290981-0-71191"
+msgid "University Warden"
+msgstr "大学の番人"
+
+#: 8290981-0-71190
+msgctxt "8290981-0-71190"
+msgid "University Warden"
+msgstr "大学の番人"
+
+#: 8290981-0-71189
+msgctxt "8290981-0-71189"
+msgid "University Warden"
+msgstr "大学の番人"
+
+#: 8290981-0-71185
+msgctxt "8290981-0-71185"
+msgid "League Overseer"
+msgstr "同盟の監督官"
+
+#: 8290981-0-71184
+msgctxt "8290981-0-71184"
+msgid "University Overseer"
+msgstr "大学の監督官"
+
+#: 8290981-0-71165
+msgctxt "8290981-0-71165"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71164
+msgctxt "8290981-0-71164"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71163
+msgctxt "8290981-0-71163"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71162
+msgctxt "8290981-0-71162"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71161
+msgctxt "8290981-0-71161"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71160
+msgctxt "8290981-0-71160"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71159
+msgctxt "8290981-0-71159"
+msgid "Dragonstar Caravaneer"
+msgstr "ドラゴンスターキャラバンの隊員"
+
+#: 8290981-0-71152
+msgctxt "8290981-0-71152"
+msgid "Dragonstar Warden"
+msgstr "ドラゴンスターの番人"
+
+#: 8290981-0-71151
+msgctxt "8290981-0-71151"
+msgid "Dragonstar Warden"
+msgstr "ドラゴンスターの番人"
+
+#: 8290981-0-71150
+msgctxt "8290981-0-71150"
+msgid "Dragonstar Warden"
+msgstr "ドラゴンスターの番人"
+
+#: 8290981-0-71147
+msgctxt "8290981-0-71147"
+msgid "Dragonstar Overseer"
+msgstr "ドラゴンスターの監督官"
+
+#: 8290981-0-71145
+msgctxt "8290981-0-71145"
+msgid "Haj Mota"
+msgstr "ハジ・モタ"
+
+#: 8290981-0-71144
+msgctxt "8290981-0-71144"
+msgid "Lara-Ma"
+msgstr "ララ・マー"
+
+#: 8290981-0-71142
+#, fuzzy
+msgctxt "8290981-0-71142"
+msgid "Flesh Atronach"
+msgstr "肉の精霊"
+
+#: 8290981-0-71141
+#, fuzzy
+msgctxt "8290981-0-71141"
+msgid "Crocodile"
+msgstr "クロコダイル"
+
+#: 8290981-0-71137
+#, fuzzy
+msgctxt "8290981-0-71137"
+msgid "Governor Fortunata ap Dugal"
+msgstr "フォーチュナタ・アプドゥガル総督"
+
+#: 8290981-0-71134
+#, fuzzy
+msgctxt "8290981-0-71134"
+msgid "Count Carolus Aquilarios"
+msgstr "カロラス・アクィラリオス伯爵"
+
+#: 8290981-0-71133
+msgctxt "8290981-0-71133"
+msgid "Baandari Overseer"
+msgstr "バーンダリの監督官"
+
+#: 8290981-0-71132
+msgctxt "8290981-0-71132"
+msgid "Sanguine's Overseer"
+msgstr "サングインの監督官"
+
+#: 8290981-0-71130
+#, fuzzy
+msgctxt "8290981-0-71130"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71128
+#, fuzzy
+msgctxt "8290981-0-71128"
+msgid "Naryu Virian"
+msgstr "ナリュー・ヴィリアン"
+
+#: 8290981-0-71124
+#, fuzzy
+msgctxt "8290981-0-71124"
+msgid "Cimbar"
+msgstr "シンバー"
+
+#: 8290981-0-71123
+#, fuzzy
+msgctxt "8290981-0-71123"
+msgid "Khephidaen"
+msgstr "ケフィダエン"
+
+#: 8290981-0-71115
+msgctxt "8290981-0-71115"
+msgid "Red Pit Wolf"
+msgstr "レッドピットウルフ"
+
+#: 8290981-0-71107
+msgctxt "8290981-0-71107"
+msgid "Ice Wolf"
+msgstr "アイスウルフ"
+
+#: 8290981-0-71099
+msgctxt "8290981-0-71099"
+msgid "Highland Wolf"
+msgstr "ハイランドウルフ"
+
+#: 8290981-0-71091
+msgctxt "8290981-0-71091"
+msgid "Doom Wolf"
+msgstr "ドゥームウルフ"
+
+#: 8290981-0-71084
+msgctxt "8290981-0-71084"
+msgid "Gray Yokudan Charger"
+msgstr "ヨクダ産馬"
+
+#: 8290981-0-71083
+msgctxt "8290981-0-71083"
+msgid "Gray Yokudan Charger"
+msgstr "ヨクダ産馬"
+
+#: 8290981-0-71080
+msgctxt "8290981-0-71080"
+msgid "White Mane Horse"
+msgstr "白鬣馬"
+
+#: 8290981-0-71075
+msgctxt "8290981-0-71075"
+msgid "White Mane Horse"
+msgstr "白鬣馬"
+
+#: 8290981-0-71057
+msgctxt "8290981-0-71057"
+msgid "Gourdudh"
+msgstr "ゴールダッド"
+
+#: 8290981-0-71056
+msgctxt "8290981-0-71056"
+msgid "Tsazrebi"
+msgstr "ツァズレビ"
+
+#: 8290981-0-71055
+msgctxt "8290981-0-71055"
+msgid "Berjac Garick"
+msgstr "ベルジャ・ギャリック"
+
+#: 8290981-0-71054
+msgctxt "8290981-0-71054"
+msgid "Nazd"
+msgstr "ナズド"
+
+#: 8290981-0-71053
+msgctxt "8290981-0-71053"
+msgid "Licinia Prentus"
+msgstr "リシニア・プレンタス"
+
+#: 8290981-0-71052
+msgctxt "8290981-0-71052"
+msgid "Aisarbana"
+msgstr "エイサルバナ"
+
+#: 8290981-0-71051
+msgctxt "8290981-0-71051"
+msgid "Shadow Archer"
+msgstr "影の射手"
+
+#: 8290981-0-71050
+msgctxt "8290981-0-71050"
+msgid "Shadow Archer"
+msgstr "影の射手"
+
+#: 8290981-0-71049
+msgctxt "8290981-0-71049"
+msgid "Shadow Shadecaller"
+msgstr "影のシェイドコーラー"
+
+#: 8290981-0-71048
+msgctxt "8290981-0-71048"
+msgid "Shadow Shadecaller"
+msgstr "影のシェイドコーラー"
+
+#: 8290981-0-71047
+msgctxt "8290981-0-71047"
+msgid "Shadow Assassin"
+msgstr "影のアサシン"
+
+#: 8290981-0-71046
+msgctxt "8290981-0-71046"
+msgid "Shadow Assassin"
+msgstr "影のアサシン"
+
+#: 8290981-0-71045
+msgctxt "8290981-0-71045"
+msgid "Shadow Knight"
+msgstr "シャドウナイト"
+
+#: 8290981-0-71044
+msgctxt "8290981-0-71044"
+msgid "Laurri"
+msgstr "ラウリ"
+
+#: 8290981-0-71043
+msgctxt "8290981-0-71043"
+msgid "Michou Thybault"
+msgstr "ミチョウ・サイボールト"
+
+#: 8290981-0-71042
+msgctxt "8290981-0-71042"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-71041
+msgctxt "8290981-0-71041"
+msgid "Helainie Simiseph"
+msgstr "ヘライニー・シミセフ"
+
+#: 8290981-0-71040
+msgctxt "8290981-0-71040"
+msgid "Leonhard Nathans"
+msgstr "レオナード・ネイサンズ"
+
+#: 8290981-0-71039
+msgctxt "8290981-0-71039"
+msgid "Ubhasad"
+msgstr "ウバサッド"
+
+#: 8290981-0-71038
+msgctxt "8290981-0-71038"
+msgid "Junia Truiand"
+msgstr "ジュニヤ・トゥルイアンド"
+
+#: 8290981-0-71037
+msgctxt "8290981-0-71037"
+msgid "Natalo Fauseius"
+msgstr "ナタロ・ファウセイウス"
+
+#: 8290981-0-71036
+msgctxt "8290981-0-71036"
+msgid "Regine Emax"
+msgstr "レジナ・エマクス"
+
+#: 8290981-0-71035
+msgctxt "8290981-0-71035"
+msgid "Poneria Andus"
+msgstr "ポネリア・アンダス"
+
+#: 8290981-0-71034
+msgctxt "8290981-0-71034"
+msgid "Plautis Denian"
+msgstr "プラウティス・デニアン"
+
+#: 8290981-0-71033
+msgctxt "8290981-0-71033"
+msgid "Nesulmawen"
+msgstr "ナスルマウェン"
+
+#: 8290981-0-71032
+msgctxt "8290981-0-71032"
+msgid "Pantea Salvius"
+msgstr "パンテア・サルヴィウス"
+
+#: 8290981-0-71031
+msgctxt "8290981-0-71031"
+msgid "Priscus Urthinius"
+msgstr "プリスカス・ウーシニウス"
+
+#: 8290981-0-71030
+msgctxt "8290981-0-71030"
+msgid "Elethir"
+msgstr "エレシル"
+
+#: 8290981-0-71029
+msgctxt "8290981-0-71029"
+msgid "Ganna Falvius"
+msgstr "ガンナ・ファルヴィウス"
+
+#: 8290981-0-71028
+msgctxt "8290981-0-71028"
+msgid "Roliand Maraennius"
+msgstr "ロリアンド・マレニウス"
+
+#: 8290981-0-71027
+msgctxt "8290981-0-71027"
+msgid "Elsmira"
+msgstr "エルスミラ"
+
+#: 8290981-0-71026
+msgctxt "8290981-0-71026"
+msgid "Augustina Salvius"
+msgstr "オーガスティナ・サルヴィウス"
+
+#: 8290981-0-71025
+msgctxt "8290981-0-71025"
+msgid "Plautisanus Reburrus"
+msgstr "プラウティサナス・レブラス"
+
+#: 8290981-0-71024
+msgctxt "8290981-0-71024"
+msgid "Cania Varian"
+msgstr "カニア・ヴァリアン"
+
+#: 8290981-0-71023
+msgctxt "8290981-0-71023"
+msgid "Humius Arquitius"
+msgstr "フミウス・アークイストゥス"
+
+#: 8290981-0-71022
+msgctxt "8290981-0-71022"
+msgid "Izdirah"
+msgstr "イズドリア"
+
+#: 8290981-0-71021
+msgctxt "8290981-0-71021"
+msgid "Horatia Angius"
+msgstr "ホラティア・アンギウス"
+
+#: 8290981-0-71020
+msgctxt "8290981-0-71020"
+msgid "Sergus Vonius"
+msgstr "セルグス・ヴォニウス"
+
+#: 8290981-0-71019
+msgctxt "8290981-0-71019"
+msgid "Bivale Moren"
+msgstr "ビヴァレ・モレン"
+
+#: 8290981-0-71018
+msgctxt "8290981-0-71018"
+msgid "Mirarkier"
+msgstr "ミラーキー"
+
+#: 8290981-0-71017
+msgctxt "8290981-0-71017"
+msgid "Fruscia Tiragrius"
+msgstr "フルシア・ティラグリウス"
+
+#: 8290981-0-71016
+msgctxt "8290981-0-71016"
+msgid "Laurri"
+msgstr "ラウリ"
+
+#: 8290981-0-71015
+msgctxt "8290981-0-71015"
+msgid "Nazz"
+msgstr "ナズズ"
+
+#: 8290981-0-71014
+msgctxt "8290981-0-71014"
+msgid "Evulan"
+msgstr "エヴラン"
+
+#: 8290981-0-71013
+#, fuzzy
+msgctxt "8290981-0-71013"
+msgid "Tsatva-Lan"
+msgstr "ツァトバ・ラン"
+
+#: 8290981-0-71012
+msgctxt "8290981-0-71012"
+msgid "Braithayidra"
+msgstr "ブレイセイドラ"
+
+#: 8290981-0-71011
+msgctxt "8290981-0-71011"
+msgid "Shadow Knight"
+msgstr "シャドウナイト"
+
+#: 8290981-0-71009
+msgctxt "8290981-0-71009"
+msgid "Tappius Avidius"
+msgstr "タッピウス・アヴィディウス"
+
+#: 8290981-0-71007
+#, fuzzy
+msgctxt "8290981-0-71007"
+msgid "Hides-the-Ashes"
+msgstr "灰を隠す者"
+
+#: 8290981-0-71004
+#, fuzzy
+msgctxt "8290981-0-71004"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-71002
+msgctxt "8290981-0-71002"
+msgid "Yarmia"
+msgstr "ヤーミア"
+
+#: 8290981-0-71001
+msgctxt "8290981-0-71001"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-70998
+msgctxt "8290981-0-70998"
+msgid "Lynx"
+msgstr "リンクス"
+
+#: 8290981-0-70997
+msgctxt "8290981-0-70997"
+msgid "Badger"
+msgstr "アナグマ"
+
+#: 8290981-0-70996
+msgctxt "8290981-0-70996"
+msgid "Nixad"
+msgstr "ニクサド"
+
+#: 8290981-0-70995
+msgctxt "8290981-0-70995"
+msgid "Nixad"
+msgstr "ニクサド"
+
+#: 8290981-0-70994
+msgctxt "8290981-0-70994"
+msgid "Nixad"
+msgstr "ニクサド"
+
+#: 8290981-0-70991
+msgctxt "8290981-0-70991"
+msgid "Razum-dar"
+msgstr "ラズム・ダー"
+
+#: 8290981-0-70990
+msgctxt "8290981-0-70990"
+msgid "Serpent Fang"
+msgstr "大蛇の牙"
+
+#: 8290981-0-70989
+msgctxt "8290981-0-70989"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-70986
+msgctxt "8290981-0-70986"
+msgid "Mudcrab Matron"
+msgstr "マッドクラブ・マトロン"
+
+#: 8290981-0-70984
+msgctxt "8290981-0-70984"
+msgid "Yarmia"
+msgstr "ヤーミア"
+
+#: 8290981-0-70983
+msgctxt "8290981-0-70983"
+msgid "Amelie Crowe"
+msgstr "アメリエ・クロウ"
+
+#: 8290981-0-70978
+msgctxt "8290981-0-70978"
+msgid "Louna"
+msgstr "ロウナ"
+
+#: 8290981-0-70976
+msgctxt "8290981-0-70976"
+msgid "Antus Glaucia"
+msgstr "アンタス・グラウシア"
+
+#: 8290981-0-70975
+msgctxt "8290981-0-70975"
+msgid "Erina Glaucia"
+msgstr "エリナ・グラウシア"
+
+#: 8290981-0-70974
+msgctxt "8290981-0-70974"
+msgid "Beran Larocque"
+msgstr "ベラン・ラロケ"
+
+#: 8290981-0-70972
+msgctxt "8290981-0-70972"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-70971
+msgctxt "8290981-0-70971"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-70970
+#, fuzzy
+msgctxt "8290981-0-70970"
+msgid "Peasant"
+msgstr "農民"
+
+#: 8290981-0-70969
+msgctxt "8290981-0-70969"
+msgid "Tuindal"
+msgstr "トゥインダル"
+
+#: 8290981-0-70968
+msgctxt "8290981-0-70968"
+msgid "Minotaur Shaman"
+msgstr "ミノタウロスの呪術師"
+
+#: 8290981-0-70967
+#, fuzzy
+msgctxt "8290981-0-70967"
+msgid "River Troll"
+msgstr "リバー・トロール"
+
+#: 8290981-0-70966
+msgctxt "8290981-0-70966"
+msgid "Minotaur"
+msgstr "ミノタウロス"
+
+#: 8290981-0-70965
+msgctxt "8290981-0-70965"
+msgid "Sanguine's Warden"
+msgstr "サングインの番人"
+
+#: 8290981-0-70964
+msgctxt "8290981-0-70964"
+msgid "Sanguine's Warden"
+msgstr "サングインの番人"
+
+#: 8290981-0-70963
+msgctxt "8290981-0-70963"
+msgid "Sanguine's Warden"
+msgstr "サングインの番人"
+
+#: 8290981-0-70962
+msgctxt "8290981-0-70962"
+msgid "Baandari Warden"
+msgstr "バーンダリの番人"
+
+#: 8290981-0-70961
+msgctxt "8290981-0-70961"
+msgid "Banndari Warden"
+msgstr "バーンダリの番人"
+
+#: 8290981-0-70960
+msgctxt "8290981-0-70960"
+msgid "Baandari Warden"
+msgstr "バーンダリの番人"
+
+#: 8290981-0-70958
+msgctxt "8290981-0-70958"
+msgid "Canodia Castorius"
+msgstr "カノディア・カストリウス"
+
+#: 8290981-0-70957
+msgctxt "8290981-0-70957"
+msgid "Dobias Sophus"
+msgstr "ドビアス・ソフス"
+
+#: 8290981-0-70952
+msgctxt "8290981-0-70952"
+msgid "Wrath of Sithis"
+msgstr "シシスの憤怒"
+
+#: 8290981-0-70949
+msgctxt "8290981-0-70949"
+msgid "Reman Mevavius"
+msgstr "レマン・メヴァヴィウス"
+
+#: 8290981-0-70948
+msgctxt "8290981-0-70948"
+msgid "Test Corruption"
+msgstr "Test Corruption"
+
+#: 8290981-0-70947
+#, fuzzy
+msgctxt "8290981-0-70947"
+msgid "Velidreth"
+msgstr "ヴェリドレス"
+
+#: 8290981-0-70946
+msgctxt "8290981-0-70946"
+msgid "The Black Dragon"
+msgstr "ブラックドラゴン"
+
+#: 8290981-0-70936
+msgctxt "8290981-0-70936"
+msgid "Naheesh Dakeeto"
+msgstr "ナヒーシュ・ダキート"
+
+#: 8290981-0-70933
+#, fuzzy
+msgctxt "8290981-0-70933"
+msgid "Dire Wolf"
+msgstr "ダイアウルフ"
+
+#: 8290981-0-70931
+#, fuzzy
+msgctxt "8290981-0-70931"
+msgid "Heem-Jas"
+msgstr "ヘーム・ジャス"
+
+#: 8290981-0-70930
+msgctxt "8290981-0-70930"
+msgid "Astara Caerellius"
+msgstr "アスタラ・カエレリウス"
+
+#: 8290981-0-70921
+msgctxt "8290981-0-70921"
+msgid "Lonel Begnaud"
+msgstr "ロネル・ベグノード"
+
+#: 8290981-0-70918
+msgctxt "8290981-0-70918"
+msgid "Hulela"
+msgstr "フレラ"
+
+#: 8290981-0-70917
+msgctxt "8290981-0-70917"
+msgid "Makam"
+msgstr "マカム"
+
+#: 8290981-0-70916
+msgctxt "8290981-0-70916"
+msgid "Naheesh Dakeeto"
+msgstr "ナヒーシュ・ダキート"
+
+#: 8290981-0-70915
+msgctxt "8290981-0-70915"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-70901
+msgctxt "8290981-0-70901"
+msgid "Tanek"
+msgstr "タネク"
+
+#: 8290981-0-70900
+msgctxt "8290981-0-70900"
+msgid "Elam Drals"
+msgstr "エラム・ドラルス"
+
+#: 8290981-0-70899
+msgctxt "8290981-0-70899"
+msgid "Limenauruus"
+msgstr "ライムナウルス"
+
+#: 8290981-0-70898
+msgctxt "8290981-0-70898"
+msgid "Kvatch Guard"
+msgstr "クヴァッチ衛兵"
+
+#: 8290981-0-70897
+msgctxt "8290981-0-70897"
+msgid "Kvatch Guard"
+msgstr "クヴァッチ衛兵"
+
+#: 8290981-0-70896
+msgctxt "8290981-0-70896"
+msgid "Anvil Guard"
+msgstr "アンヴィル衛兵"
+
+#: 8290981-0-70895
+msgctxt "8290981-0-70895"
+msgid "Mudcrab"
+msgstr "マッドクラブ"
+
+#: 8290981-0-70894
+msgctxt "8290981-0-70894"
+msgid "Anvil Guard"
+msgstr "アンヴィル衛兵"
+
+#: 8290981-0-70892
+msgctxt "8290981-0-70892"
+msgid "Slaughtered Deer"
+msgstr "倒された鹿"
+
+#: 8290981-0-70891
+msgctxt "8290981-0-70891"
+msgid "Silver Dawn Hunter"
+msgstr "銀なる暁の狩人"
+
+#: 8290981-0-70889
+msgctxt "8290981-0-70889"
+msgid "Chanter Nemus"
+msgstr "ネムス詠唱師"
+
+#: 8290981-0-70888
+msgctxt "8290981-0-70888"
+msgid "Grazda"
+msgstr "グラズダ"
+
+#: 8290981-0-70887
+#, fuzzy
+msgctxt "8290981-0-70887"
+msgid "Swamp Troll"
+msgstr "湿地トロール"
+
+#: 8290981-0-70881
+msgctxt "8290981-0-70881"
+msgid "Estate Defender"
+msgstr "屋敷の守り手"
+
+#: 8290981-0-70879
+msgctxt "8290981-0-70879"
+msgid "Estate Defender"
+msgstr "屋敷の守り手"
+
+#: 8290981-0-70878
+msgctxt "8290981-0-70878"
+msgid "Estate Spellbreaker"
+msgstr "屋敷のスペルブレイカー"
+
+#: 8290981-0-70877
+msgctxt "8290981-0-70877"
+msgid "Estate Spellbreaker"
+msgstr "屋敷のスペルブレイカー"
+
+#: 8290981-0-70876
+msgctxt "8290981-0-70876"
+msgid "Estate Mender"
+msgstr "屋敷の癒し手"
+
+#: 8290981-0-70875
+msgctxt "8290981-0-70875"
+msgid "Estate Mender"
+msgstr "屋敷の癒し手"
+
+#: 8290981-0-70874
+msgctxt "8290981-0-70874"
+msgid "Estate Rover"
+msgstr "屋敷のローバー"
+
+#: 8290981-0-70873
+msgctxt "8290981-0-70873"
+msgid "Estate Rover"
+msgstr "屋敷のローバー"
+
+#: 8290981-0-70872
+msgctxt "8290981-0-70872"
+msgid "Estate Fire Mage"
+msgstr "屋敷の炎の魔術師"
+
+#: 8290981-0-70871
+msgctxt "8290981-0-70871"
+msgid "Estate Fire Mage"
+msgstr "屋敷の炎の魔術師"
+
+#: 8290981-0-70869
+msgctxt "8290981-0-70869"
+msgid "Estate Rover"
+msgstr "屋敷のローバー"
+
+#: 8290981-0-70864
+msgctxt "8290981-0-70864"
+msgid "Estate Marshal"
+msgstr "屋敷の護衛長"
+
+#: 8290981-0-70863
+msgctxt "8290981-0-70863"
+msgid "Estate Marshal"
+msgstr "屋敷の護衛長"
+
+#: 8290981-0-70858
+msgctxt "8290981-0-70858"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-70857
+msgctxt "8290981-0-70857"
+msgid "Watchman Protector"
+msgstr "番兵の護衛"
+
+#: 8290981-0-70852
+msgctxt "8290981-0-70852"
+msgid "Xit-Xaht Root-Mason"
+msgstr "ジット・ザートの根工"
+
+#: 8290981-0-70848
+msgctxt "8290981-0-70848"
+msgid "Juvenile Wamasu"
+msgstr "若いワマス"
+
+#: 8290981-0-70847
+msgctxt "8290981-0-70847"
+msgid "Vaneria Essagan"
+msgstr "ヴァネリア・エサガン"
+
+#: 8290981-0-70846
+msgctxt "8290981-0-70846"
+msgid "Brice Evrard"
+msgstr "ブライス・エヴラール"
+
+#: 8290981-0-70845
+msgctxt "8290981-0-70845"
+msgid "Felsen Lonavo"
+msgstr "フェルセン・ロナヴォ"
+
+#: 8290981-0-70844
+msgctxt "8290981-0-70844"
+msgid "Guleya"
+msgstr "グレヤ"
+
+#: 8290981-0-70843
+msgctxt "8290981-0-70843"
+msgid "Axeline Laul"
+msgstr "アゼライン・ラウル"
+
+#: 8290981-0-70842
+msgctxt "8290981-0-70842"
+msgid "Ayleid Spirit"
+msgstr "アイレイドの霊魂"
+
+#: 8290981-0-70841
+msgctxt "8290981-0-70841"
+msgid "Hist Pond"
+msgstr "ヒストの池"
+
+#: 8290981-0-70839
+msgctxt "8290981-0-70839"
+msgid "Zit-Xaht Shellmaster"
+msgstr "Zit-Xaht Shellmaster"
+
+#: 8290981-0-70838
+#, fuzzy
+msgctxt "8290981-0-70838"
+msgid "Phantom of Xal-Nur"
+msgstr "クサル・ヌルの幻影"
+
+#: 8290981-0-70837
+#, fuzzy
+msgctxt "8290981-0-70837"
+msgid "Phantom of Mighty Chudan"
+msgstr "強きチュダンの幻影"
+
+#: 8290981-0-70836
+msgctxt "8290981-0-70836"
+msgid "Mariana Casca"
+msgstr "マリアナ・キャスカ"
+
+#: 8290981-0-70833
+msgctxt "8290981-0-70833"
+msgid "Waarosh"
+msgstr "ワーロシュ"
+
+#: 8290981-0-70831
+msgctxt "8290981-0-70831"
+msgid "Xit-Xaht Trapper"
+msgstr "ジット・ザートの罠師"
+
+#: 8290981-0-70830
+msgctxt "8290981-0-70830"
+msgid "Xit-Xaht Drudge"
+msgstr "ジット・ザートの奴隷"
+
+#: 8290981-0-70829
+msgctxt "8290981-0-70829"
+msgid "Xit-Xaht Drudge"
+msgstr "ジット・ザートの奴隷"
+
+#: 8290981-0-70828
+msgctxt "8290981-0-70828"
+msgid "Zit-Xaht Hist Tosser"
+msgstr "Zit-Xaht Hist Tosser"
+
+#: 8290981-0-70827
+msgctxt "8290981-0-70827"
+msgid "Xit-Xaht Sludge-Slinger"
+msgstr "ジット・ザートのスラッジスリンガー"
+
+#: 8290981-0-70826
+msgctxt "8290981-0-70826"
+msgid "Dredena"
+msgstr "ドレデナ"
+
+#: 8290981-0-70825
+msgctxt "8290981-0-70825"
+msgid "Halora"
+msgstr "ハロラ"
+
+#: 8290981-0-70824
+msgctxt "8290981-0-70824"
+msgid "Glathuhl"
+msgstr "グラスール"
+
+#: 8290981-0-70823
+msgctxt "8290981-0-70823"
+msgid "Tsigara"
+msgstr "チガラ"
+
+#: 8290981-0-70822
+msgctxt "8290981-0-70822"
+msgid "Welwa"
+msgstr "ウェルワ"
+
+#: 8290981-0-70821
+msgctxt "8290981-0-70821"
+msgid "Senche"
+msgstr "センチ"
+
+#: 8290981-0-70820
+msgctxt "8290981-0-70820"
+msgid "Senche"
+msgstr "センチ"
+
+#: 8290981-0-70818
+msgctxt "8290981-0-70818"
+msgid "Nix Hound"
+msgstr "ニックスハウンド"
+
+#: 8290981-0-70816
+msgctxt "8290981-0-70816"
+msgid "Jackal"
+msgstr "ジャッカル"
+
+#: 8290981-0-70815
+msgctxt "8290981-0-70815"
+msgid "Hoarvor"
+msgstr "ホーヴァー"
+
+#: 8290981-0-70814
+msgctxt "8290981-0-70814"
+msgid "Guar"
+msgstr "グアル"
+
+#: 8290981-0-70812
+msgctxt "8290981-0-70812"
+msgid "Duneracer"
+msgstr "デューンレーサー"
+
+#: 8290981-0-70804
+msgctxt "8290981-0-70804"
+msgid "Jolippe"
+msgstr "ジョリッペ"
+
+#: 8290981-0-70803
+msgctxt "8290981-0-70803"
+msgid "Chukka-Li"
+msgstr "チュッカ・リー"
+
+#: 8290981-0-70802
+msgctxt "8290981-0-70802"
+msgid "Cidius"
+msgstr "シディアス"
+
+#: 8290981-0-70801
+msgctxt "8290981-0-70801"
+msgid "Axkiral"
+msgstr "アクスキラル"

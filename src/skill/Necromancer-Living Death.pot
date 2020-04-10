@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-118912
+msgctxt "132143172-0-118912"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nWhile active, |cffffff10|r% of the damage you take is transferred to the spirit instead.\n\nCreates a corpse on death."
+msgstr ""
+
+#: 198758357-0-118912
+msgctxt "198758357-0-118912"
+msgid "Spirit Guardian"
+msgstr ""
+
+#: 132143172-0-118840
+msgctxt "132143172-0-118840"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
+msgstr ""
+
+#: 198758357-0-118840
+msgctxt "198758357-0-118840"
+msgid "Intensive Mender"
+msgstr ""
+
+#: 132143172-0-118809
+msgctxt "132143172-0-118809"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>. You can consume up to |cffffff5|r additional corpses on cast, with each corpse extending the duration of the heal over time by |cffffff5|r seconds."
+msgstr ""
+
+#: 198758357-0-118809
+msgctxt "198758357-0-118809"
+msgid "Enduring Undeath"
+msgstr ""
+
+#: 132143172-0-118379
+msgctxt "132143172-0-118379"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou consume up to |cffffff3|r other corpses in the area and summon a Blastbones for each corpse consumed."
+msgstr ""
+
+#: 198758357-0-118379
+msgctxt "198758357-0-118379"
+msgid "Animate Blastbones"
+msgstr ""
+
+#: 132143172-0-118367
+msgctxt "132143172-0-118367"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou restore <<1>> Magicka and Stamina for each ally you attempt to resurrect."
+msgstr ""
+
+#: 198758357-0-118367
+msgctxt "198758357-0-118367"
+msgid "Renewing Animation"
+msgstr ""
+
+#: 132143172-0-118122
+msgctxt "132143172-0-118122"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This portion of the ability scales off your highest offensive stats.\n\nYou also restore <<3>> Stamina over <<2>> while siphoning the corpse.  \n\nWhile slotted, your healing done is increased by <<4>>."
+msgstr ""
+
+#: 198758357-0-118122
+msgctxt "198758357-0-118122"
+msgid "Mortal Coil"
+msgstr ""
+
+#: 132143172-0-118070
+msgctxt "132143172-0-118070"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself, all allies around you, and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
+msgstr ""
+
+#: 198758357-0-118070
+msgctxt "198758357-0-118070"
+msgid "Braided Tether"
+msgstr ""
+
+#: 132143172-0-118017
+msgctxt "132143172-0-118017"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to immediately remove up |cffffff3|r negative effects and continue to heal you and your allies in the area for <<2>> Health over <<3>>."
+msgstr ""
+
+#: 198758357-0-118017
+msgctxt "198758357-0-118017"
+msgid "Renewing Undeath"
+msgstr ""
+
+#: 132143172-0-117940
+msgctxt "132143172-0-117940"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself and restoring <<2>> Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by <<3>>."
+msgstr ""
+
+#: 198758357-0-117940
+msgctxt "198758357-0-117940"
+msgid "Expunge and Modify"
+msgstr ""
+
+#: 132143172-0-117919
+msgctxt "132143172-0-117919"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by <<2>>."
+msgstr ""
+
+#: 198758357-0-117919
+msgctxt "198758357-0-117919"
+msgid "Hexproof"
+msgstr ""
+
+#: 132143172-0-117888
+msgctxt "132143172-0-117888"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>.\n\nConsumes a corpse near you when cast to heal a second target."
+msgstr ""
+
+#: 198758357-0-117888
+msgctxt "198758357-0-117888"
+msgid "Blood Sacrifice"
+msgstr ""
+
+#: 132143172-0-117883
+msgctxt "132143172-0-117883"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>.\n\nYou grant the target Spell and Physical Resistance equal to half the amount healed for <<4>>."
+msgstr ""
+
+#: 198758357-0-117883
+msgctxt "198758357-0-117883"
+msgid "Resistant Flesh"
+msgstr ""
+
+#: 132143172-0-116287
+msgctxt "132143172-0-116287"
+msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
+msgstr ""
+
+#: 198758357-0-116287
+msgctxt "198758357-0-116287"
+msgid "Curative Curse"
+msgstr ""
+
+#: 132143172-0-116286
+msgctxt "132143172-0-116286"
+msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
+msgstr ""
+
+#: 198758357-0-116286
+msgctxt "198758357-0-116286"
+msgid "Curative Curse"
+msgstr ""
+
+#: 132143172-0-116285
+msgctxt "132143172-0-116285"
+msgid "When you use an ability on a corpse, you generate <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-116285
+msgctxt "198758357-0-116285"
+msgid "Corpse Consumption"
+msgstr ""
+
+#: 132143172-0-116284
+msgctxt "132143172-0-116284"
+msgid "When you use an ability on a corpse, you generate <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-116284
+msgctxt "198758357-0-116284"
+msgid "Corpse Consumption"
+msgstr ""
+
+#: 132143172-0-116283
+msgctxt "132143172-0-116283"
+msgid "While you have a Blastbones, Skeletal Mage, or Spirit Mender active, your Magicka and Stamina Recovery is increased by <<1>>."
+msgstr ""
+
+#: 198758357-0-116283
+msgctxt "198758357-0-116283"
+msgid "Undead Confederate"
+msgstr ""
+
+#: 132143172-0-116282
+msgctxt "132143172-0-116282"
+msgid "While you have a Blastbones, Skeletal Mage, or Spirit Mender active, your Magicka and Stamina Recovery is increased by <<1>>."
+msgstr ""
+
+#: 198758357-0-116282
+msgctxt "198758357-0-116282"
+msgid "Undead Confederate"
+msgstr ""
+
+#: 132143172-0-116275
+msgctxt "132143172-0-116275"
+msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff20|r% in proportion to the severity of the target's wounds."
+msgstr ""
+
+#: 198758357-0-116275
+msgctxt "198758357-0-116275"
+msgid "Near-Death Experience"
+msgstr ""
+
+#: 132143172-0-116273
+msgctxt "132143172-0-116273"
+msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff10|r% in proportion to the severity of the target's wounds."
+msgstr ""
+
+#: 198758357-0-116273
+msgctxt "198758357-0-116273"
+msgid "Near-Death Experience"
+msgstr ""
+
+#: 132143172-0-115926
+msgctxt "132143172-0-115926"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
+msgstr ""
+
+#: 198758357-0-115926
+msgctxt "198758357-0-115926"
+msgid "Restoring Tether"
+msgstr ""
+
+#: 132143172-0-115710
+msgctxt "132143172-0-115710"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
+msgstr ""
+
+#: 198758357-0-115710
+msgctxt "198758357-0-115710"
+msgid "Spirit Mender"
+msgstr ""
+
+#: 132143172-0-115410
+msgctxt "132143172-0-115410"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location."
+msgstr ""
+
+#: 198758357-0-115410
+msgctxt "198758357-0-115410"
+msgid "Reanimate"
+msgstr ""
+
+#: 132143172-0-115315
+msgctxt "132143172-0-115315"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>."
+msgstr ""
+
+#: 198758357-0-115315
+msgctxt "198758357-0-115315"
+msgid "Life amid Death"
+msgstr ""
+
+#: 132143172-0-115307
+msgctxt "132143172-0-115307"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by <<2>>."
+msgstr ""
+
+#: 198758357-0-115307
+msgctxt "198758357-0-115307"
+msgid "Expunge"
+msgstr ""
+
+#: 132143172-0-114196
+msgctxt "132143172-0-114196"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>."
+msgstr ""
+
+#: 198758357-0-114196
+msgctxt "198758357-0-114196"
+msgid "Render Flesh"
+msgstr ""

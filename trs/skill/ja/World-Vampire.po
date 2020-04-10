@@ -1,0 +1,195 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-46045
+msgctxt "132143172-0-46045"
+msgid "After feeding, your target is set Off Balance and stunned for <<1>>."
+msgstr "標的は吸血されるとフラフラ状態になって、<<1>>の間気絶する。"
+
+#: 198758357-0-46045
+msgctxt "198758357-0-46045"
+msgid "Savage Feeding"
+msgstr "残忍な吸血"
+
+#: 132143172-0-46041
+msgctxt "132143172-0-46041"
+msgid "Increases your Magicka and Stamina Recovery by |cffffff10|r%."
+msgstr "マジカとスタミナ再生を|cffffff10|r%増加する。"
+
+#: 198758357-0-46041
+msgctxt "198758357-0-46041"
+msgid "Supernatural Recovery"
+msgstr "超常的な再生"
+
+#: 132143172-0-46040
+msgctxt "132143172-0-46040"
+msgid "Reduces your damage taken by up to |cffffff33|r% based on your missing Health while you are below |cffffff50|r% Health."
+msgstr "体力が|cffffff50|r%以下の場合、被ダメージが失った体力に比例して最大|cffffff33|r%減少する。"
+
+#: 198758357-0-46040
+msgctxt "198758357-0-46040"
+msgid "Undeath"
+msgstr "不死"
+
+#: 132143172-0-42054
+msgctxt "132143172-0-42054"
+msgid "After feeding, your target is set Off Balance and stunned for <<1>>."
+msgstr "標的は吸血されるとフラフラ状態になって、<<1>>の間気絶する。"
+
+#: 198758357-0-42054
+msgctxt "198758357-0-42054"
+msgid "Savage Feeding"
+msgstr "残忍な吸血"
+
+#: 132143172-0-38965
+msgctxt "132143172-0-38965"
+msgid "Dissolve into a dark mist, reducing your damage taken by <<1>> and dealing <<2>> to nearby enemies every <<3>> for <<4>>.\n\nEntering this form removes and grants immunity to all disabling and immobilization effects, but you cannot be healed and your Magicka Recovery is disabled."
+msgstr "暗闇の霧に姿を変え、あらゆる被ダメージを<<1>>減少させる。また、近くの敵に<<2>>を<<3>>ごとに、<<4>>の間与える。\r\n\r\nこの姿になると、状態異常と移動不能の効果は解除され、以降は無効になる。ただし、治癒されることはなく、マジカ再生は無効になる。"
+
+#: 198758357-0-38965
+msgctxt "198758357-0-38965"
+msgid "Baleful Mist"
+msgstr "有害な霧"
+
+#: 132143172-0-38963
+msgctxt "132143172-0-38963"
+msgid "Dissolve into a dark mist, reducing your damage taken by <<1>> and granting you <<2>>, increasing your Movement Speed by <<3>> for <<4>>.\n\nEntering this form removes and grants immunity to all disabling and immobilization effects, but you cannot be healed and your Magicka Recovery is disabled."
+msgstr "暗闇の霧に姿を変え、あらゆる被ダメージを<<1>>減少させる。そして<<2>>を獲得し、移動速度が<<3>>、<<4>>の間上昇する。\r\n\r\nこの姿になると、状態異常と移動不能の効果は解除され、以降は無効になる。ただし、治癒されることはなく、マジカ再生は無効になる。"
+
+#: 198758357-0-38963
+msgctxt "198758357-0-38963"
+msgid "Elusive Mist"
+msgstr "深き霧"
+
+#: 132143172-0-38956
+#, fuzzy
+msgctxt "132143172-0-38956"
+msgid "Consume an enemy's life force, dealing <<1>> and restoring <<2>> of your missing Health every <<3>> for <<4>>. \n\nAfter you finish draining, the enemy is stunned for <<5>>.\n\nWhen the drain ends you gain <<6>>, increasing your Movement Speed by <<7>> for <<8>>."
+msgstr "敵の生命力を取り込んで<<1>>を与え、失われた体力を<<2>>、<<3>>ごとに<<4>>の間回復する。\r\n\r\n吸収が終了すると、敵は<<5>>の間気絶する。\r\n\r\n効果が終了すると<<6>>を獲得し、移動速度が<<7>>、<<8>>の間上昇する。"
+
+#: 198758357-0-38956
+msgctxt "198758357-0-38956"
+msgid "Accelerating Drain"
+msgstr "吸収加速"
+
+#: 132143172-0-38949
+#, fuzzy
+msgctxt "132143172-0-38949"
+msgid "Consume an enemy's life force, dealing <<1>>, restoring <<2>> of your missing Health, and generating <<3>> Ultimate every <<4>> for <<5>>. \n\nWhen you finishing draining, the enemy is stunned for <<6>>."
+msgstr "敵の生命力を取り込んで<<1>>を与え、失われた体力を<<2>>回復して、<<3>>アルティマを<<4>>ごとに<<5>>の間生成する。\r\n\r\n吸収が終了すると、敵は<<6>>の間気絶する。"
+
+#: 198758357-0-38949
+msgctxt "198758357-0-38949"
+msgid "Invigorating Drain"
+msgstr "活力吸収"
+
+#: 132143172-0-38932
+msgctxt "132143172-0-38932"
+msgid "Darken the sky with a cloud of bats, dealing <<1>> to nearby enemies every <<2>> for <<3>>.\n\nWhile the bats swarm around you this ability changes into <<4>>, allowing you to instantly teleport to an enemy and strike them for <<5>>."
+msgstr "蝙蝠の大群で空を暗くし、近くの敵に<<1>>を<<2>>ごとに<<3>>の間与える。\r\n\r\n周囲に蝙蝠が群がると、このアビリティは<<4>>に変わる。敵の元へ即座にテレポートし、攻撃して<<5>>を与える。"
+
+#: 198758357-0-38932
+msgctxt "198758357-0-38932"
+msgid "Clouding Swarm"
+msgstr "黒衣の群れ"
+
+#: 132143172-0-38931
+msgctxt "132143172-0-38931"
+msgid "Darken the sky with a cloud of bats, dealing <<1>> to nearby enemies every <<2>> for <<3>>.\n\nThe bats heal you for <<4>> Health for each enemy they damage."
+msgstr "蝙蝠の大群で空を暗くし、近くの敵に<<1>>を<<2>>ごとに<<3>>の間与える。\r\n\r\n敵にダメージを与えるごとに、蝙蝠はあなたの体力を<<4>>回復する。"
+
+#: 198758357-0-38931
+msgctxt "198758357-0-38931"
+msgid "Devouring Swarm"
+msgstr "破滅の群れ"
+
+#: 132143172-0-33096
+msgctxt "132143172-0-33096"
+msgid "Reduces your damage taken by up to |cffffff33|r% based on your missing Health while you are below |cffffff30|r% Health."
+msgstr "体力が|cffffff30|r%以下の場合、被ダメージが失った体力に比例して最大|cffffff33|r%減少する。"
+
+#: 198758357-0-33096
+msgctxt "198758357-0-33096"
+msgid "Undeath"
+msgstr "不死"
+
+#: 132143172-0-33095
+msgctxt "132143172-0-33095"
+msgid "Increases your Magicka and Stamina Recovery by |cffffff5|r%."
+msgstr "マジカとスタミナの再生が|cffffff5|r%上昇する。"
+
+#: 198758357-0-33095
+msgctxt "198758357-0-33095"
+msgid "Supernatural Recovery"
+msgstr "超常的な再生"
+
+#: 132143172-0-33093
+msgctxt "132143172-0-33093"
+msgid "Reduces the severity of the Health Recovery determent in Vampirism stages 2 through 4.\n\nStage 2  no longer reduces your Health Recovery.\n\nStage 3 reduces Health Recovery by |cffffff25|r%.\n\nStage 4 reduces Health Recovery by |cffffff50|r%."
+msgstr "吸血症のステージ2からステージ4に発生する体力再生の低下を緩和する。\r\n\r\nステージ2 体力再生が低下しなくなる。\r\n\r\nステージ3 体力再生が|cffffff25|r%低下する。\r\n\r\nステージ4 体力再生が|cffffff50|r%低下する。"
+
+#: 198758357-0-33093
+msgctxt "198758357-0-33093"
+msgid "Unnatural Resistance"
+msgstr "超常耐性"
+
+#: 132143172-0-33091
+msgctxt "132143172-0-33091"
+msgid "Allows you to infect another player with Noxiphilic Sanguivoria once every |cffffff7|r days by returning to the Vampire ritual site. \n\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria."
+msgstr "吸血鬼の儀式場に行くことで、|cffffff7|r日に一度、他のプレイヤーを吸血症に感染させることができる。\r\n\r\nすでにライカンスロープ症を発症しているプレイヤーは吸血症に感染しない。"
+
+#: 198758357-0-33091
+msgctxt "198758357-0-33091"
+msgid "Blood Ritual"
+msgstr "血の儀式"
+
+#: 132143172-0-33090
+msgctxt "132143172-0-33090"
+msgid "Ignore the Movement Speed penalty while in Crouch.\n\nDecreases the time it takes to Crouch by <<1>> during the night."
+msgstr "かがみ状態の移動速度ペナルティを無視する。\r\n\r\n夜間はかがみ状態になるまでの時間を<<1>>短縮する。"
+
+#: 198758357-0-33090
+msgctxt "198758357-0-33090"
+msgid "Dark Stalker"
+msgstr "ダークストーカー"
+
+#: 132143172-0-32986
+msgctxt "132143172-0-32986"
+msgid "Dissolve into a dark mist, reducing your damage taken by <<1>> for <<2>>.\n\nEntering this form removes and grants immunity to all disabling and immobilization effects, but you cannot be healed and your Magicka Recovery is disabled."
+msgstr "暗闇の霧に姿を変え、あらゆる被ダメージを<<1>>、<<2>>の間減少させる。\r\n\r\nこの姿になると、状態異常と移動不能の効果は解除され、以降は無効になる。ただし、治癒されることはなく、マジカ再生は無効になる。"
+
+#: 198758357-0-32986
+msgctxt "198758357-0-32986"
+msgid "Mist Form"
+msgstr "闇の霧"
+
+#: 132143172-0-32893
+#, fuzzy
+msgctxt "132143172-0-32893"
+msgid "Consume an enemy's life force, dealing <<1>> and restoring <<2>> of your missing Health every <<3>> for <<4>>. \n\nAfter you finish draining, the enemy is stunned for <<5>>."
+msgstr "敵の生命力を取り込んで<<1>>を与え、失われた体力を<<2>>、<<3>>ごとに<<4>>の間回復する。\r\n\r\n吸収が終了すると、敵が<<5>>の間気絶する。"
+
+#: 198758357-0-32893
+msgctxt "198758357-0-32893"
+msgid "Drain Essence"
+msgstr "エキス吸収"
+
+#: 132143172-0-32624
+msgctxt "132143172-0-32624"
+msgid "Darken the sky with a cloud of bats, dealing <<1>> to nearby enemies every <<2>> for <<3>>."
+msgstr "コウモリの大群で空を黒く染め、近くにいる敵に<<1>>を<<2>>ごとに、<<3>>の間与える。"
+
+#: 198758357-0-32624
+msgctxt "198758357-0-32624"
+msgid "Bat Swarm"
+msgstr "蝙蝠の群れ"

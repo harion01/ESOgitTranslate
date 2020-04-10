@@ -1,0 +1,202 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-55676
+msgctxt "132143172-0-55676"
+msgid "Activating an ally's synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: <<1>> Health, <<2>> Stamina, and <<3>> Magicka."
+msgstr "아군의 시너지를 발동 시키면, 당신의 최대 체력, 스태미나, 매지카의 |cffffff4|r%를 회복합니다.\n\n현재 회복량: 체력 <<1>>, 스태미나 <<2>>, 매지카 <<3>>"
+
+#: 198758357-0-55676
+msgctxt "198758357-0-55676"
+msgid "Undaunted Command"
+msgstr "Undaunted Command"
+
+#: 132143172-0-55584
+msgctxt "132143172-0-55584"
+msgid "Activating an ally's synergy restores |cffffff2|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: <<1>> Health, <<2>> Stamina, and <<3>> Magicka."
+msgstr "아군의 시너지를 발동 시키면, 당신의 최대 체력, 스태미나, 매지카의 |cffffff2|r%를 회복합니다.\n\n현재 회복량: 체력 <<1>>, 스태미나 <<2>>, 매지카 <<3>>"
+
+#: 198758357-0-55584
+msgctxt "198758357-0-55584"
+msgid "Undaunted Command"
+msgstr "Undaunted Command"
+
+#: 132143172-0-55386
+msgctxt "132143172-0-55386"
+msgid "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: <<1>>."
+msgstr "장착한 갑옷의 유형(중갑옷, 경갑옷, 천옷) 마다 |cffffff2|r%만큼 최대 체력, 최대 매지카, 최대 스태미나가 증가합니다.\n\n현재 증가량: <<1>>"
+
+#: 198758357-0-55386
+msgctxt "198758357-0-55386"
+msgid "Undaunted Mettle"
+msgstr "Undaunted Mettle"
+
+#: 132143172-0-55366
+msgctxt "132143172-0-55366"
+msgid "Increases your Max Health, Stamina, and Magicka by |cffffff1|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: <<1>>."
+msgstr "장착한 갑옷의 유형(중갑옷, 경갑옷, 천옷) 마다 |cffffff1|r%만큼 최대 체력, 최대 매지카, 최대 스태미나가 증가합니다.\n\n현재 증가량: <<1>>"
+
+#: 198758357-0-55366
+msgctxt "198758357-0-55366"
+msgid "Undaunted Mettle"
+msgstr "Undaunted Mettle"
+
+#: 132143172-0-42176
+msgctxt "132143172-0-42176"
+msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage <<2>>.  This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffSpinal Surge|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield that absorbs up to <<3>> of their Max Health for <<4>> and <<5>>, increasing their healing received by <<6>>."
+msgstr "스스로를 뼈의 회오리바람으로 보호하여, 최대 체력의 <<1>>  만큼의 피해를 흡수하는 실드를 <<2>> 동안 얻습니다.\n\n당신 근처의 아군이 |cffffffSpinal Surge|r   시너지를 활성화 하면, 대상과 최대 |cffffff5|r명의 대상 주변 아군이 최대 체력의 <<3>> 만큼 피해를 흡수하는 실드를 <<4>> 동안 얻으며, 추가로 <<5>>를 얻어 받는 치유량이 <<6>> 만큼 증가합니다."
+
+#: 198758357-0-42176
+msgctxt "198758357-0-42176"
+msgid "Bone Surge"
+msgstr "Bone Surge"
+
+#: 132143172-0-42138
+msgctxt "132143172-0-42138"
+msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage for <<2>> and returns <<3>>% of direct damage absorbed back to the enemy.  This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffBone Wall|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to <<4>> of their Max Health <<5>>."
+msgstr "스스로를 뼈의 회오리바람으로 보호하여, 최대 체력의 <<1>>  만큼의 피해를 흡수하는 실드를 <<2>> 동안 얻습니다. 흡수된 피해량의 <<3>>%에 해당하는 반사하여 적에게 피해를 줍니다.\n\n당신 근처의 아군이 |cffffffBone Wall|r  시너지를 활성화 하면, 대상과 최대 |cffffff3|r면의 대상 주변 아군이 최대 체력의 <<5>> 만큼 피해를 흡수하는 실드를 <<4>> 동안 얻습니다."
+
+#: 198758357-0-42138
+msgctxt "198758357-0-42138"
+msgid "Spiked Bone Shield"
+msgstr "Spiked Bone Shield"
+
+#: 132143172-0-42060
+msgctxt "132143172-0-42060"
+msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.  The enemy takes <<3>> more damage from your attacks while this effect persists.\n\nA ranged ally targeting the taunted enemy has a |cffffff50|r% chance to activate the |cffffffRadiate|r synergy, dealing <<4>> to them over <<5>> then an additional <<6>> to them and other nearby enemies."
+msgstr "적의 마음 속에 증오의 불길을 지펴, <<1>>를 주고 그 적을 시전자를 <<2>> 동안 강제로 공격하게 합니다. 효과가 지속되는 동안 대상은 시전자에게 <<3>> 의 추가 피해를 입습니다.\n\n해당 적을 타겟팅한 원거리에 있는 아군은 |cffffff50|r% 확률로  |cffffffRadiate|r 시너지를 사용할 수 있으며, <<5>> 동안 <<4>> 피해를 주며 대상을 폭발시켜 주변 모든 적에게 <<6>>를 줍니다."
+
+#: 198758357-0-42060
+msgctxt "198758357-0-42060"
+msgid "Inner Beast"
+msgstr "Inner Beast"
+
+#: 132143172-0-42056
+msgctxt "132143172-0-42056"
+msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.\n\nA ranged ally targeting the taunted enemy can activate the |cffffffRadiate|r synergy, dealing <<3>> to them over <<4>> then an additional <<5>> to them and other nearby enemies."
+msgstr "적의 마음 속에 증오의 불길을 지펴, <<1>>를 주고 그 적을 시전자를 <<2>> 동안 강제로 공격하게 합니다.\n\n해당 적을 타겟팅한 원거리에 있는 아군은  |cffffffRadiate|r 시너지를 사용할 수 있으며, <<4>> 동안 <<3>> 피해를 주며 대상을 폭발시켜 주변 모든 적에게 <<5>>를 줍니다."
+
+#: 198758357-0-42056
+msgctxt "198758357-0-42056"
+msgid "Inner Rage"
+msgstr "Inner Rage"
+
+#: 132143172-0-42038
+msgctxt "132143172-0-42038"
+msgid "Project a globe of regeneration that slowly floats forward, healing for <<1>> Health every half second to you and nearby allies.\n\nAn ally near the globe can activate the |cffffffHealing Combustion|r synergy, causing the orb to explode and heal for <<2>> Health to all friendly targets and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
+msgstr "앞으로 천천히 날아가는 치유의 구체를 전방에 투사합니다. 구체는 매 0.5초 마다 주변의 아군을 <<1>>만큼 회복합니다.\n\n구체 주변의 아군은|cffffffHealing Combustion|r 시너지를 사용하여, 구체를 폭발시켜 주변 모든 아군을 <<2>> 만큼 회복시키고, 또한 자신의 매지카와 스태미나 중 가장 높은 것을 <<3>> 만큼 회복합니다."
+
+#: 198758357-0-42038
+msgctxt "198758357-0-42038"
+msgid "Energy Orb"
+msgstr "Energy Orb"
+
+#: 132143172-0-42028
+msgctxt "132143172-0-42028"
+msgid "Project a globe of annihilation that slowly floats forward, dealing <<1>> every half second to nearby enemies. \n\nAn ally near the globe can activate the |cffffffCombustion|r synergy, causing the orb to explode for <<2>> to nearby enemies and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
+msgstr "앞으로 천천히 날아가며 모든 것을 소멸시키는 구체를 전방에 투사합니다. 구체 주변의 적은 0.5초 마다 <<1>>를 입습니다.\n\n구체 주변의 아군은 |cffffffCombustion|r 시너지를 사용하여, 구체를 폭발시켜 주변 적에게 <<2>>를 주고, 또한 자신의 매지카와 스태미나 중 가장 높은 것을 <<3>> 만큼 회복합니다."
+
+#: 198758357-0-42028
+msgctxt "198758357-0-42028"
+msgid "Mystic Orb"
+msgstr "Mystic Orb"
+
+#: 132143172-0-42012
+msgctxt "132143172-0-42012"
+msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>. After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffArachnophobia|r synergy, dealing <<5>> to them, fearing them for <<6>>, and summoning a spider to attack for <<7>>. The spider bites enemies for <<8>>."
+msgstr "적들에게 거미줄 가닥을 날려, 대상 지역 적들의 이동속도가 <<1>> 만큼 감소시키고 <<2>> 를 입힙니다. <<3>> 뒤에 거미줄이 폭파하며, 근처 적들에게 <<4>>를 입힙니다.\n\n아군은 |cffffffArachnophobia|r 시너지를 발동하여 거미줄에 붙잡힌 적들에게 <<5>>를 주고 <<6>> 동안 공포에 질리게 만들며, <<7>> 동안 <<8>>을 주는 거미를 소환 할 수 있습니다."
+
+#: 198758357-0-42012
+msgctxt "198758357-0-42012"
+msgid "Tangling Webs"
+msgstr "Tangling Webs"
+
+#: 132143172-0-41990
+msgctxt "132143172-0-41990"
+msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>. After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffBlack Widows|r synergy, dealing <<5>> to them and summoning a spider to attack for <<6>>. The spider bites enemies for <<7>> and can poison them for <<8>> over <<9>>."
+msgstr "적들에게 거미줄 가닥을 날려, 대상 지역 적들의 이동속도가 <<1>> 만큼 감소시키고 <<2>> 를 입힙니다. <<3>> 뒤에 거미줄이 폭파하며, 근처 적들에게 <<4>>를 입힙니다.\n\n아군은  |cffffffBlack Widows|r 시너지를 발동하여 거미줄에 붙잡힌 적들에게 <<5>>를 주고, <<6>> 동안 <<7>>을 주고 <<9>> 동안 <<8>>의 피해를 입히는 독을 묻히는 거미를 소환 할 수 있습니다."
+
+#: 198758357-0-41990
+msgctxt "198758357-0-41990"
+msgid "Shadow Silk"
+msgstr "Shadow Silk"
+
+#: 132143172-0-41967
+msgctxt "132143172-0-41967"
+msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Funnel|r synergy, healing for <<4>> of their Max Health."
+msgstr "자신의 생명력을 희생하여 주변 적에게 <<1>>를 거는 피의 분수를 소환합니다. 해당 적을 공격한 아군은 <<3>> 마다 <<2>> 만큼 회복합니다.\n\n범위 내 아군은  |cffffffBlood Funnel|r  시너지를 발동시켜, 최대 체력의 <<4>>를 회복할 수 잇습니다."
+
+#: 198758357-0-41967
+msgctxt "198758357-0-41967"
+msgid "Sanguine Altar"
+msgstr "Sanguine Altar"
+
+#: 132143172-0-41958
+msgctxt "132143172-0-41958"
+msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Feast|r synergy, healing for |cffffff65|r% of their Max Health."
+msgstr "자신의 생명력을 희생하여 주변 적에게 <<1>>를 거는 피의 분수를 소환합니다. 해당 적을 공격한 아군은 <<3>> 마다 <<2>> 만큼 회복합니다.\n\n범위 내 아군은  |cffffffBlood Feast|r  시너지를 발동시켜, 최대 체력의 |cffffff65|r%를 회복할 수 잇습니다."
+
+#: 198758357-0-41958
+msgctxt "198758357-0-41958"
+msgid "Overflowing Altar"
+msgstr "Overflowing Altar"
+
+#: 132143172-0-39489
+msgctxt "132143172-0-39489"
+msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Funnel|r synergy, healing for <<4>> of their Max Health."
+msgstr "자신의 생명력을 희생하여 주변 적에게 <<1>>를 거는 피의 분수를 소환합니다. 해당 적을 공격한 아군은 <<3>> 마다 <<2>> 만큼 회복합니다.\n\n범위 내 아군은  |cffffffBlood Funnel|r  시너지를 발동시켜, 최대 체력의 <<4>>를 회복할 수 잇습니다."
+
+#: 198758357-0-39489
+msgctxt "198758357-0-39489"
+msgid "Blood Altar"
+msgstr "Blood Altar"
+
+#: 132143172-0-39475
+msgctxt "132143172-0-39475"
+msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.\n\nA ranged ally targeting the taunted enemy has a |cffffff50|r% chance to activate the |cffffffRadiate|r synergy, dealing <<3>> to them over <<4>> then an additional <<5>> to them and other nearby enemies."
+msgstr "적의 마음 속에 증오의 불길을 지펴, <<1>>를 주고 그 적을 시전자를 <<2>> 동안 강제로 공격하게 합니다.\n\n해당 적을 타겟팅한 원거리에 있는 아군은 |cffffff50|r% 확률로  |cffffffRadiate|r 시너지를 사용할 수 있으며, <<4>> 동안 <<3>> 피해를 주며 대상을 폭발시켜 주변 모든 적에게 <<5>>를 줍니다."
+
+#: 198758357-0-39475
+msgctxt "198758357-0-39475"
+msgid "Inner Fire"
+msgstr "Inner Fire"
+
+#: 132143172-0-39425
+msgctxt "132143172-0-39425"
+msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>.   After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffSpawn Broodlings|r synergy, dealing <<5>> to them and summoning a spider to attack for <<6>>. The spider bites enemies for <<7>>."
+msgstr "적들에게 거미줄 가닥을 날려, 대상 지역 적들의 이동속도가 <<1>> 만큼 감소시키고 <<2>> 를 입힙니다. <<3>> 뒤에 거미줄이 폭파하며, 근처 적들에게 <<4>>를 입힙니다.\n\n아군은  |cffffffSpawn Broodlings|r 시너지를 발동하여 거미줄에 붙잡힌 적들에게 <<5>>를 주고, <<6>> 동안 <<7>>를 입히는 거미를 소환 할 수 있습니다."
+
+#: 198758357-0-39425
+msgctxt "198758357-0-39425"
+msgid "Trapping Webs"
+msgstr "Trapping Webs"
+
+#: 132143172-0-39369
+msgctxt "132143172-0-39369"
+msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage for <<2>>.   This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffBone Wall|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to <<3>> of their Max Health <<4>>."
+msgstr "스스로를 뼈의 회오리바람으로 보호하여, 최대 체력의 <<1>>  만큼의 피해를 흡수하는 실드를 <<2>> 동안 얻습니다.\n\n당신 근처의 아군이 |cffffffBone Wall|r  시너지를 활성화 하면, 대상과 최대 |cffffff5|r명의 대상 주변 아군이 최대 체력의 <<3>> 만큼 피해를 흡수하는 실드를 <<4>> 동안 얻습니다."
+
+#: 198758357-0-39369
+msgctxt "198758357-0-39369"
+msgid "Bone Shield"
+msgstr "Bone Shield"
+
+#: 132143172-0-39298
+msgctxt "132143172-0-39298"
+msgid "Project a globe of annihilation that slowly floats forward, dealing <<1>> every half second to nearby enemies. \n\nAn ally near the globe can activate the |cffffffCombustion|r synergy, causing the orb to explode for <<2>> to nearby enemies and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
+msgstr "앞으로 천천히 날아가며 모든 것을 소멸시키는 구체를 전방에 투사합니다. 구체 주변의 적은 0.5초 마다 <<1>>를 입습니다.\n\n구체 주변의 아군은  |cffffffCombustion|r 시너지를 사용하여, 구체를 폭발시켜 주변 적에게 <<2>>를 주고, 또한 자신의 매지카와 스태미나 중 가장 높은 것을 <<3>> 만큼 회복합니다."
+
+#: 198758357-0-39298
+msgctxt "198758357-0-39298"
+msgid "Necrotic Orb"
+msgstr "Necrotic Orb"

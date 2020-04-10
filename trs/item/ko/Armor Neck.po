@@ -1,0 +1,5876 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 242841733-0-99839
+msgctxt "242841733-0-99839"
+msgid "Thunderbug's Necklace"
+msgstr ""
+
+#: 242841733-0-99648
+msgctxt "242841733-0-99648"
+msgid "Spinner's Necklace"
+msgstr "Spinner: 목걸이"
+
+#: 242841733-0-7727
+msgctxt "242841733-0-7727"
+msgid "Kyne's Honor"
+msgstr ""
+
+#: 242841733-0-7717
+msgctxt "242841733-0-7717"
+msgid "Talisman of the Sisters"
+msgstr "Sanctuary: 자매의 부적"
+
+#: 242841733-0-7589
+msgctxt "242841733-0-7589"
+msgid "Loop of Devotion"
+msgstr ""
+
+#: 242841733-0-75224
+msgctxt "242841733-0-75224"
+msgid "Necklace of the Night Mother"
+msgstr "Night Mother: 목걸이"
+
+#: 242841733-0-7383
+msgctxt "242841733-0-7383"
+msgid "Bala's Engagement Chain"
+msgstr ""
+
+#: 242841733-0-73154
+msgctxt "242841733-0-73154"
+msgid "Ebon Necklace"
+msgstr "Ebon: 흑단 목걸이"
+
+#: 242841733-0-7314
+msgctxt "242841733-0-7314"
+msgid "Fell's Run Hero Necklace of the Vampire's Cloak"
+msgstr ""
+
+#: 242841733-0-73131
+msgctxt "242841733-0-73131"
+msgid "Hircine's Necklace"
+msgstr "Hircine: 히르신의 목걸이"
+
+#: 242841733-0-64488
+msgctxt "242841733-0-64488"
+msgid "Mara's Blessing"
+msgstr ""
+
+#: 242841733-0-64259
+msgctxt "242841733-0-64259"
+msgid "The Birthsign Amulet"
+msgstr "탄생궁 아뮬렛"
+
+#: 242841733-0-61088
+msgctxt "242841733-0-61088"
+msgid "Collar of Bones"
+msgstr "뼈의 목걸이"
+
+#: 228378404-0-61023
+msgctxt "228378404-0-61023"
+msgid "This amulet is cold to the touch."
+msgstr ""
+
+#: 242841733-0-61023
+msgctxt "242841733-0-61023"
+msgid "Necromancer's Lich-Heart"
+msgstr "The Lich: Necromancer's Lich-Heart"
+
+#: 228378404-0-61013
+msgctxt "228378404-0-61013"
+msgid "Putting aside its foul smell and extreme discoloration, this leather choker is horrifying. It appears to be made of human flesh."
+msgstr ""
+
+#: 242841733-0-61013
+msgctxt "242841733-0-61013"
+msgid "Uncle Leo's Choker"
+msgstr ""
+
+#: 228378404-0-61010
+msgctxt "228378404-0-61010"
+msgid "Imbued in long-lost Eyevea, the ancient sanctuary of the Tamriel Mages Guild."
+msgstr ""
+
+#: 242841733-0-61010
+msgctxt "242841733-0-61010"
+msgid "The Amulet of Eyevea"
+msgstr ""
+
+#: 228378404-0-61006
+msgctxt "228378404-0-61006"
+msgid "Created from a chunk of rock broken off of a Dark Anchor dolmen, this amulet still whispers with Coldharbour's secrets."
+msgstr ""
+
+#: 242841733-0-61006
+msgctxt "242841733-0-61006"
+msgid "Anchorstone Amulet"
+msgstr ""
+
+#: 242841733-0-59940
+msgctxt "242841733-0-59940"
+msgid "Dominion's Beads"
+msgstr ""
+
+#: 242841733-0-55432
+msgctxt "242841733-0-55432"
+msgid "Necromancer's Heart"
+msgstr ""
+
+#: 242841733-0-55413
+msgctxt "242841733-0-55413"
+msgid "Throat-Scales of the Viper"
+msgstr ""
+
+#: 242841733-0-54919
+msgctxt "242841733-0-54919"
+msgid "Necklace of the Two-Fanged Snake"
+msgstr ""
+
+#: 228378404-0-54914
+msgctxt "228378404-0-54914"
+msgid "This necklace was found in the ancient temple of the Scaled Court, Sanctum Ophidia."
+msgstr ""
+
+#: 242841733-0-54914
+msgctxt "242841733-0-54914"
+msgid "Ophidian Necklace of Venom"
+msgstr ""
+
+#: 228378404-0-54903
+msgctxt "228378404-0-54903"
+msgid "This necklace once belonged to the Firstmages of the Aetherian Archive."
+msgstr ""
+
+#: 242841733-0-54903
+msgctxt "242841733-0-54903"
+msgid "Aether Necklace of Mending"
+msgstr ""
+
+#: 228378404-0-54899
+msgctxt "228378404-0-54899"
+msgid "This necklace once belonged to the Firstmages of the Aetherian Archive."
+msgstr ""
+
+#: 242841733-0-54899
+msgctxt "242841733-0-54899"
+msgid "Aether Necklace of Undoing"
+msgstr ""
+
+#: 228378404-0-54887
+msgctxt "228378404-0-54887"
+msgid "This ancient necklace was made for decorated Yokudan heavy infantry."
+msgstr ""
+
+#: 242841733-0-54887
+msgctxt "242841733-0-54887"
+msgid "Necklace of the Resilient Yokeda"
+msgstr ""
+
+#: 228378404-0-54882
+msgctxt "228378404-0-54882"
+msgid "This ancient necklace was made for decorated Yokudan infantry."
+msgstr ""
+
+#: 242841733-0-54882
+msgctxt "242841733-0-54882"
+msgid "Necklace of the Advancing Yokeda"
+msgstr ""
+
+#: 228378404-0-54730
+msgctxt "228378404-0-54730"
+msgid "Though the task Meridia set before you is complete, you sense that she still watches you through this pendant."
+msgstr ""
+
+#: 242841733-0-54730
+msgctxt "242841733-0-54730"
+msgid "Meridia's Emblem of Searing Light"
+msgstr ""
+
+#: 228378404-0-54729
+msgctxt "228378404-0-54729"
+msgid "Meridia created this token from the first light of dawn at the height of summer."
+msgstr ""
+
+#: 242841733-0-54729
+msgctxt "242841733-0-54729"
+msgid "Meridia's Charm of the Dawn"
+msgstr ""
+
+#: 242841733-0-54515
+msgctxt "242841733-0-54515"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-45749
+msgctxt "242841733-0-45749"
+msgid "Emelin's Clasp of Cyrodiil's Light"
+msgstr ""
+
+#: 228378404-0-45731
+msgctxt "228378404-0-45731"
+msgid "This intricately woven chain feels slimy upon the neck."
+msgstr ""
+
+#: 242841733-0-45731
+msgctxt "242841733-0-45731"
+msgid "Barasatii's Chain of Cyrodiil's Crest"
+msgstr "Cyrodiil's Crest: 바라사티의 체인"
+
+#: 242841733-0-44756
+msgctxt "242841733-0-44756"
+msgid "Death's Amulet"
+msgstr ""
+
+#: 242841733-0-43039
+msgctxt "242841733-0-43039"
+msgid "Snow Bear's Fang of Stendarr"
+msgstr ""
+
+#: 228378404-0-43034
+msgctxt "228378404-0-43034"
+msgid "A necklace awarded for defeating the giant wolf, Rageclaw."
+msgstr ""
+
+#: 242841733-0-43034
+msgctxt "242841733-0-43034"
+msgid "Rageclaw's Collar of Stendarr"
+msgstr ""
+
+#: 228378404-0-43022
+msgctxt "228378404-0-43022"
+msgid "A necklace awarded for defeating the giant kagouti, Short-Tusk."
+msgstr ""
+
+#: 242841733-0-43022
+msgctxt "242841733-0-43022"
+msgid "Kagouti Slayer Medallion of Mother's Sorrow"
+msgstr ""
+
+#: 228378404-0-43004
+msgctxt "228378404-0-43004"
+msgid "The torc feels warm against one's skin, no matter the weather."
+msgstr ""
+
+#: 242841733-0-43004
+msgctxt "242841733-0-43004"
+msgid "Spinner's Sea Tamer's Torc"
+msgstr ""
+
+#: 228378404-0-42993
+msgctxt "228378404-0-42993"
+msgid "This tooth still has sinews attached to it and can fit around your neck."
+msgstr "아직 힘줄이 붙어 있는 이 이빨은 당신의 목에 딱 맞습니다."
+
+#: 242841733-0-42993
+msgctxt "242841733-0-42993"
+msgid "Nindaeril's Tooth of the Green Pact"
+msgstr "Green Pact: 닌데릴의 이빨"
+
+#: 228378404-0-42981
+msgctxt "228378404-0-42981"
+msgid "A necklace awarded for defeating the ice wraith champion, Duriatundur."
+msgstr "얼음 망령 투사 듀리아텐더를 쓰러뜨린 대가로 받은 목걸이입니다."
+
+#: 242841733-0-42981
+msgctxt "242841733-0-42981"
+msgid "Prisoner Duriatundar's Frigid Amulet"
+msgstr "죄수 듀리아텐더의 싸늘한 아뮬렛"
+
+#: 228378404-0-42968
+msgctxt "228378404-0-42968"
+msgid "A neck item awarded for defeating the giant spider, Aesar the Hatespinner."
+msgstr ""
+
+#: 242841733-0-42968
+msgctxt "242841733-0-42968"
+msgid "Darkstride Hatespinner Amulet"
+msgstr ""
+
+#: 228378404-0-42959
+msgctxt "228378404-0-42959"
+msgid "Jewelry awarded for defeating the Bloodthorn zombie lord, Asard the Putrid."
+msgstr "피가시 좀비 군주, 부패한 아사드를 처치하고 보상으로 얻은 보석 장신구입니다."
+
+#: 242841733-0-42959
+msgctxt "242841733-0-42959"
+msgid "Bloodthorn Brooch"
+msgstr "피가시 브로치"
+
+#: 228378404-0-40258
+msgctxt "228378404-0-40258"
+msgid "Putting aside its foul smell and extreme discoloration, this leather choker is horrifying. It appears to be made of human flesh."
+msgstr ""
+
+#: 242841733-0-40258
+msgctxt "242841733-0-40258"
+msgid "Uncle Leo's Choker"
+msgstr ""
+
+#: 228378404-0-40255
+msgctxt "228378404-0-40255"
+msgid "Imbued in long-lost Eyevea, the ancient sanctuary of the Tamriel Mages Guild."
+msgstr ""
+
+#: 242841733-0-40255
+msgctxt "242841733-0-40255"
+msgid "The Amulet of Eyevea"
+msgstr ""
+
+#: 228378404-0-40250
+msgctxt "228378404-0-40250"
+msgid "Created from a chunk of rock broken off of a Dark Anchor dolmen, this amulet still whispers with Coldharbour's secrets."
+msgstr ""
+
+#: 242841733-0-40250
+msgctxt "242841733-0-40250"
+msgid "Anchorstone Amulet"
+msgstr "앵커 스톤 아물렛"
+
+#: 228378404-0-34933
+msgctxt "228378404-0-34933"
+msgid "This necklace seems to draw life energy from the very space around it."
+msgstr ""
+
+#: 242841733-0-34933
+msgctxt "242841733-0-34933"
+msgid "Essentia of the Hatchling's Shell"
+msgstr ""
+
+#: 228378404-0-34889
+msgctxt "228378404-0-34889"
+msgid "A necklace awarded for defeating the Bitterhand Bandit leader, Miremonwe Spellslinger, in Flyleaf Catacombs."
+msgstr ""
+
+#: 242841733-0-34889
+msgctxt "242841733-0-34889"
+msgid "Miremonwe's Magicka Pendant of Necropotence"
+msgstr ""
+
+#: 228378404-0-34752
+msgctxt "228378404-0-34752"
+msgid "This necklace somehow manages to look … shunned."
+msgstr ""
+
+#: 242841733-0-34752
+msgctxt "242841733-0-34752"
+msgid "Thunderbug Carapace Heretic's Necklace"
+msgstr ""
+
+#: 228378404-0-34621
+msgctxt "228378404-0-34621"
+msgid "A necklace awarded for defeating the troll champion, Frostbite Mangler, in the cave known as the Frigid Grotto."
+msgstr ""
+
+#: 242841733-0-34621
+msgctxt "242841733-0-34621"
+msgid "Fiord's Frigid Troll Bones"
+msgstr ""
+
+#: 228378404-0-34618
+msgctxt "228378404-0-34618"
+msgid "A necklace awarded for defeating the frost atronach, Nomeg Chal, in the cave known as Chill Hollow."
+msgstr "냉기의 동굴이라고 알려진 동굴에서 서리 아트로나크, 노메그 찰을 처치한 보상으로 받은 목걸이입니다."
+
+#: 242841733-0-34618
+msgctxt "242841733-0-34618"
+msgid "Chill Hollow Pendant of Stendarr"
+msgstr "Stendarr: 냉기의 동굴 펜던트"
+
+#: 228378404-0-34575
+msgctxt "228378404-0-34575"
+msgid "For defeating the giant kagouti called Bonetooth in the Triple Circle Mine, this necklace was awarded."
+msgstr ""
+
+#: 242841733-0-34575
+msgctxt "242841733-0-34575"
+msgid "Bonetooth's Charm of the Night Mother"
+msgstr ""
+
+#: 228378404-0-34574
+msgctxt "228378404-0-34574"
+msgid "For defeating the Dwarven centurion in the cave known as Lower Bthanual, this necklace was awarded."
+msgstr ""
+
+#: 242841733-0-34574
+msgctxt "242841733-0-34574"
+msgid "Plague Doctor's Talisman of Bthanual"
+msgstr ""
+
+#: 228378404-0-34532
+msgctxt "228378404-0-34532"
+msgid "An amulet awarded for defeating the wraith champion, Mal Sorra, in Mal Sorra's Tomb."
+msgstr ""
+
+#: 242841733-0-34532
+msgctxt "242841733-0-34532"
+msgid "Mal Sorra's Curse of Meridia"
+msgstr ""
+
+#: 242841733-0-34484
+msgctxt "242841733-0-34484"
+msgid "Vampire Lord's Rune Charm Choker"
+msgstr ""
+
+#: 242841733-0-34300
+msgctxt "242841733-0-34300"
+msgid "Odilon's Spectral Amulet of the Wyrd Tree"
+msgstr ""
+
+#: 242841733-0-33188
+msgctxt "242841733-0-33188"
+msgid "Commodore's Medal"
+msgstr ""
+
+#: 242841733-0-29989
+msgctxt "242841733-0-29989"
+msgid "Burial Jewel of the Brief Queen"
+msgstr ""
+
+#: 242841733-0-29959
+msgctxt "242841733-0-29959"
+msgid "Lightfingered Necklace"
+msgstr "Lightfingered: 목걸이"
+
+#: 242841733-0-27276
+msgctxt "242841733-0-27276"
+msgid "Sword Saint's Choker"
+msgstr "Sword Saint의 목걸이"
+
+#: 228378404-0-27272
+msgctxt "228378404-0-27272"
+msgid "Imbued with some of the animal cruelty that comes from a life as a vampire and cultist."
+msgstr ""
+
+#: 242841733-0-27272
+msgctxt "242841733-0-27272"
+msgid "Aldmion's Amulet"
+msgstr ""
+
+#: 242841733-0-2542
+msgctxt "242841733-0-2542"
+msgid "Carved Bone Medallion"
+msgstr ""
+
+#: 242841733-0-22757
+msgctxt "242841733-0-22757"
+msgid "Chain of Hist's Power"
+msgstr ""
+
+#: 242841733-0-22189
+msgctxt "242841733-0-22189"
+msgid "Jewels of the Iliac Bay"
+msgstr "Undaunted Unweaver: Jewels of the Iliac Bay"
+
+#: 242841733-0-1673
+msgctxt "242841733-0-1673"
+msgid "Ear of the Queen"
+msgstr "여왕의 귀"
+
+#: 242841733-0-16146
+msgctxt "242841733-0-16146"
+msgid "Ixniaa's Jewels"
+msgstr "Lamia: Ixniaa's Jewels"
+
+#: 242841733-0-15765
+msgctxt "242841733-0-15765"
+msgid "Ayleid's Hope"
+msgstr "에일리드의 희망"
+
+#: 242841733-0-157536
+msgctxt "242841733-0-157536"
+msgid "Draugrkin Amulet"
+msgstr ""
+
+#: 242841733-0-153836
+msgctxt "242841733-0-153836"
+msgid "Eminence of Elsweyr"
+msgstr ""
+
+#: 242841733-0-153285
+msgctxt "242841733-0-153285"
+msgid "Azureblight Necklace"
+msgstr ""
+
+#: 242841733-0-152248
+msgctxt "242841733-0-152248"
+msgid "Sweetsilver Pendant"
+msgstr ""
+
+#: 242841733-0-151370
+msgctxt "242841733-0-151370"
+msgid "Perfected Nahviintaas's Amulet"
+msgstr ""
+
+#: 242841733-0-150419
+msgctxt "242841733-0-150419"
+msgid "Shard of the Crossing"
+msgstr ""
+
+#: 242841733-0-150169
+msgctxt "242841733-0-150169"
+msgid "Nahviintaas's Amulet"
+msgstr ""
+
+#: 242841733-0-139663
+msgctxt "242841733-0-139663"
+msgid "Exemplary Bloodthirsty Necklace"
+msgstr ""
+
+#: 228378404-0-139662
+msgctxt "228378404-0-139662"
+msgid "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Harmony Trait for Necklaces."
+msgstr ""
+
+#: 242841733-0-139662
+msgctxt "242841733-0-139662"
+msgid "Exemplary Harmony Necklace"
+msgstr ""
+
+#: 228378404-0-139661
+msgctxt "228378404-0-139661"
+msgid "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Swift Trait for Necklaces."
+msgstr ""
+
+#: 242841733-0-139661
+msgctxt "242841733-0-139661"
+msgid "Exemplary Swift Necklace"
+msgstr ""
+
+#: 228378404-0-139660
+msgctxt "228378404-0-139660"
+msgid "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Infused Trait for Necklaces."
+msgstr ""
+
+#: 242841733-0-139660
+msgctxt "242841733-0-139660"
+msgid "Exemplary Infused Necklace"
+msgstr ""
+
+#: 228378404-0-139659
+msgctxt "228378404-0-139659"
+msgid "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Protective Trait for Necklaces."
+msgstr ""
+
+#: 242841733-0-139659
+msgctxt "242841733-0-139659"
+msgid "Exemplary Protective Necklace"
+msgstr ""
+
+#: 228378404-0-139658
+msgctxt "228378404-0-139658"
+msgid "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Triune Trait for Necklaces."
+msgstr ""
+
+#: 242841733-0-139658
+msgctxt "242841733-0-139658"
+msgid "Exemplary Triune Necklace"
+msgstr ""
+
+#: 242841733-0-139407
+msgctxt "242841733-0-139407"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-138789
+msgctxt "242841733-0-138789"
+msgid "Abyssal Necklace"
+msgstr ""
+
+#: 242841733-0-138736
+msgctxt "242841733-0-138736"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-1258
+msgctxt "242841733-0-1258"
+msgid "Sigil of House Dres"
+msgstr "드레스 가문의 인장"
+
+#: 242841733-0-125694
+msgctxt "242841733-0-125694"
+msgid "Impregnable Armor Necklace"
+msgstr ""
+
+#: 242841733-0-114285
+msgctxt "242841733-0-114285"
+msgid "Mara's Blessing of Spell Power Cure"
+msgstr ""
+
+#: 242841733-0-113927
+msgctxt "242841733-0-113927"
+msgid "Necklace of the Immortal Yokeda"
+msgstr "Immortal Yokeda: 목걸이"
+
+#: 242841733-0-1102
+msgctxt "242841733-0-1102"
+msgid "Noellaume Family Heirloom"
+msgstr "Noellaume가의 가보"
+
+#: 242841733-0-110024
+msgctxt "242841733-0-110024"
+msgid "Necklace of Nikulas"
+msgstr ""
+
+#: 242841733-0-10930
+msgctxt "242841733-0-10930"
+msgid "Chain of the Hallowed"
+msgstr "성자의 목걸이"
+
+#: 242841733-0-109278
+msgctxt "242841733-0-109278"
+msgid "Ice Furnace Necklace"
+msgstr ""
+
+#: 242841733-0-99466
+msgctxt "242841733-0-99466"
+msgid "Necklace of the Order of Diagna"
+msgstr "Order of Diagna: 목걸이"
+
+#: 242841733-0-99284
+msgctxt "242841733-0-99284"
+msgid "Sword-Singer's Necklace"
+msgstr "Sword-Singer: 소드싱어의 목걸이"
+
+#: 242841733-0-99065
+msgctxt "242841733-0-99065"
+msgid "Necklace of the Hatchling's Shell"
+msgstr "Hatchling's Shell: 목걸이"
+
+#: 242841733-0-98883
+msgctxt "242841733-0-98883"
+msgid "Swamp Raider's Necklace"
+msgstr "Swamp Raider: 늪지 약탈자의 목걸이"
+
+#: 242841733-0-98692
+msgctxt "242841733-0-98692"
+msgid "Necklace of Hist Sap"
+msgstr "Hist Sap: 목걸이"
+
+#: 242841733-0-98510
+msgctxt "242841733-0-98510"
+msgid "Necklace of the Vampire's Cloak"
+msgstr "Vampire's Cloak: 목걸이"
+
+#: 242841733-0-98328
+msgctxt "242841733-0-98328"
+msgid "Beekeeper's Necklace"
+msgstr "Beekeeper: 목걸이"
+
+#: 242841733-0-98146
+msgctxt "242841733-0-98146"
+msgid "Necklace of the Ranger"
+msgstr "The Ranger: 목걸이"
+
+#: 242841733-0-97955
+msgctxt "242841733-0-97955"
+msgid "Dreamer's Necklace"
+msgstr "Dreamer: 꿈꾸는 자의 목걸이"
+
+#: 242841733-0-97773
+msgctxt "242841733-0-97773"
+msgid "Necklace of Night Terror"
+msgstr "Night Terror: 목걸이"
+
+#: 242841733-0-97591
+msgctxt "242841733-0-97591"
+msgid "Necklace of the Green Pact"
+msgstr "Green Pact: 목걸이"
+
+#: 242841733-0-97409
+msgctxt "242841733-0-97409"
+msgid "Necklace of the Wilderqueen"
+msgstr "Wilderqueen: 목걸이"
+
+#: 242841733-0-97218
+msgctxt "242841733-0-97218"
+msgid "Necklace of a Mother's Sorrow"
+msgstr "Mother's Sorrow: 목걸이"
+
+#: 242841733-0-97036
+msgctxt "242841733-0-97036"
+msgid "Plague Doctor's Necklace"
+msgstr "Plague Doctor: 역병의사의 목걸이"
+
+#: 242841733-0-96971
+msgctxt "242841733-0-96971"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-96770
+msgctxt "242841733-0-96770"
+msgid "Necklace of the Wyrd Tree"
+msgstr "Wyrd Tree: 목걸이"
+
+#: 242841733-0-96588
+msgctxt "242841733-0-96588"
+msgid "Shalk's Necklace"
+msgstr "Shalk: 목걸이"
+
+#: 242841733-0-96397
+msgctxt "242841733-0-96397"
+msgid "Bloodthorn Necklace"
+msgstr "Bloodthorn: 목걸이"
+
+#: 242841733-0-96383
+msgctxt "242841733-0-96383"
+msgid "Necklace of the Trainee"
+msgstr ""
+
+#: 242841733-0-96202
+msgctxt "242841733-0-96202"
+msgid "Necklace of the Trainee"
+msgstr ""
+
+#: 242841733-0-96011
+msgctxt "242841733-0-96011"
+msgid "Necklace of the Trainee"
+msgstr "The Trainee: 목걸이"
+
+#: 242841733-0-95644
+msgctxt "242841733-0-95644"
+msgid "Necklace of the Air"
+msgstr "The Air: 목걸이"
+
+#: 242841733-0-95453
+msgctxt "242841733-0-95453"
+msgid "Necklace of Martial Knowledge"
+msgstr "Martial Knowledge: 목걸이"
+
+#: 242841733-0-95271
+msgctxt "242841733-0-95271"
+msgid "Necklace of the Fire"
+msgstr "The Fire: 목걸이"
+
+#: 242841733-0-94255
+msgctxt "242841733-0-94255"
+msgid "Necklace of the Veiled Heritance"
+msgstr "Veiled Heritance: 목걸이"
+
+#: 242841733-0-93904
+msgctxt "242841733-0-93904"
+msgid "Necklace of the Sentry"
+msgstr "The Sentry: 목걸이"
+
+#: 242841733-0-93722
+msgctxt "242841733-0-93722"
+msgid "Necklace of Cyrodiil's Ward"
+msgstr "Cyrodiil's Ward: 목걸이"
+
+#: 242841733-0-93540
+msgctxt "242841733-0-93540"
+msgid "Necklace of Kyne's Kiss"
+msgstr "Kyne's Kiss: 목걸이"
+
+#: 242841733-0-93358
+msgctxt "242841733-0-93358"
+msgid "Necklace of the Morag Tong"
+msgstr "Morag Tong: 목걸이"
+
+#: 242841733-0-93176
+msgctxt "242841733-0-93176"
+msgid "Necklace of the Hawk's Eye"
+msgstr "Hawk's Eye: 목걸이"
+
+#: 242841733-0-92994
+msgctxt "242841733-0-92994"
+msgid "Necklace of the Crusader"
+msgstr "The Crusader: 목걸이"
+
+#: 242841733-0-92812
+msgctxt "242841733-0-92812"
+msgid "Necklace of the Shadow Walker"
+msgstr "Shadow Walker: 목걸이"
+
+#: 242841733-0-92630
+msgctxt "242841733-0-92630"
+msgid "Necklace of the Valiant"
+msgstr "The Valiant: 목걸이"
+
+#: 242841733-0-92448
+msgctxt "242841733-0-92448"
+msgid "Barkskin Necklace"
+msgstr "Barkskin: 목걸이"
+
+#: 242841733-0-92266
+msgctxt "242841733-0-92266"
+msgid "Necklace of the Twin Sisters"
+msgstr "Twin Sisters: 목걸이"
+
+#: 242841733-0-92147
+msgctxt "242841733-0-92147"
+msgid "Necklace of Vengeance Leech"
+msgstr "Vengeance Leech: 목걸이"
+
+#: 242841733-0-92136
+msgctxt "242841733-0-92136"
+msgid "Eagle-Eyed Necklace"
+msgstr "Eagle-Eyed: 목걸이"
+
+#: 242841733-0-91945
+msgctxt "242841733-0-91945"
+msgid "Necklace of the Swift"
+msgstr "The Swift: 목걸이"
+
+#: 242841733-0-91754
+msgctxt "242841733-0-91754"
+msgid "Necklace of Cyrodiil's Light"
+msgstr "Cyrodiil's Light: 목걸이"
+
+#: 242841733-0-91563
+msgctxt "242841733-0-91563"
+msgid "Necklace of the Arch-Mage"
+msgstr "The Arch-Mage: 목걸이"
+
+#: 242841733-0-91372
+msgctxt "242841733-0-91372"
+msgid "Necklace of Alteration Mastery"
+msgstr "Alteration Mastery: 목걸이"
+
+#: 242841733-0-91181
+msgctxt "242841733-0-91181"
+msgid "Necklace of the Noble Duelist"
+msgstr "Noble Duelist: 목걸이"
+
+#: 242841733-0-90990
+msgctxt "242841733-0-90990"
+msgid "Necklace of Almalexia's Mercy"
+msgstr "Almalexia's Mercy: 목걸이"
+
+#: 242841733-0-90799
+msgctxt "242841733-0-90799"
+msgid "Curse-Eating Necklace"
+msgstr "Curse-Eating: 목걸이"
+
+#: 242841733-0-90608
+msgctxt "242841733-0-90608"
+msgid "Necklace of the Onslaught"
+msgstr "The Onslaught: 목걸이"
+
+#: 242841733-0-90417
+msgctxt "242841733-0-90417"
+msgid "Necklace of Prayer"
+msgstr "Prayer: 목걸이"
+
+#: 242841733-0-90226
+msgctxt "242841733-0-90226"
+msgid "Necklace of the Desert Rose"
+msgstr "Desert Rose: 목걸이"
+
+#: 242841733-0-90107
+msgctxt "242841733-0-90107"
+msgid "Necklace of Ancient Grace"
+msgstr "Ancient Grace: 목걸이"
+
+#: 242841733-0-89988
+msgctxt "242841733-0-89988"
+msgid "Necklace of Imperial Wrath"
+msgstr "Imperial Wrath: 목걸이"
+
+#: 242841733-0-89806
+msgctxt "242841733-0-89806"
+msgid "Necklace of Elf Bane"
+msgstr "Elf Bane: 목걸이"
+
+#: 242841733-0-89624
+msgctxt "242841733-0-89624"
+msgid "Necklace of the Sergeant"
+msgstr "The Sergeant: 목걸이"
+
+#: 242841733-0-89442
+msgctxt "242841733-0-89442"
+msgid "Ravaging Necklace"
+msgstr "Ravaging: 목걸이"
+
+#: 242841733-0-89260
+msgctxt "242841733-0-89260"
+msgid "Afflicted Necklace"
+msgstr "Afflicted: 목걸이"
+
+#: 242841733-0-89078
+msgctxt "242841733-0-89078"
+msgid "Necklace of Truth"
+msgstr "Truth: 목걸이"
+
+#: 242841733-0-88896
+msgctxt "242841733-0-88896"
+msgid "Necklace of the Juggernaut"
+msgstr "The Juggernaut: 목걸이"
+
+#: 242841733-0-88714
+msgctxt "242841733-0-88714"
+msgid "Necklace of Beckoning Steel"
+msgstr "Beckoning Steel: 목걸이"
+
+#: 242841733-0-88532
+msgctxt "242841733-0-88532"
+msgid "Necklace of the Heartland"
+msgstr "The Heartland: 목걸이"
+
+#: 242841733-0-88350
+msgctxt "242841733-0-88350"
+msgid "Necklace of Cyrodiil's Crest"
+msgstr "Cyrodiil's Crest: 목걸이"
+
+#: 242841733-0-88168
+msgctxt "242841733-0-88168"
+msgid "Necklace of Durok's Bane"
+msgstr "Durok's Bane: 목걸이"
+
+#: 242841733-0-87986
+msgctxt "242841733-0-87986"
+msgid "Alessian Necklace"
+msgstr ""
+
+#: 242841733-0-87867
+msgctxt "242841733-0-87867"
+msgid "Deadly Necklace"
+msgstr "Deadly: 목걸이"
+
+#: 242841733-0-87748
+msgctxt "242841733-0-87748"
+msgid "Necklace of the Potentates"
+msgstr "The Potentates: 목걸이"
+
+#: 242841733-0-87499
+msgctxt "242841733-0-87499"
+msgid "Necklace of the Archer's Mind"
+msgstr "Archer's Mind: 목걸이"
+
+#: 242841733-0-87308
+msgctxt "242841733-0-87308"
+msgid "Necklace of Destruction Mastery"
+msgstr "Destruction Mastery: 목걸이"
+
+#: 242841733-0-87117
+msgctxt "242841733-0-87117"
+msgid "Necklace of the Healer"
+msgstr ""
+
+#: 242841733-0-86935
+msgctxt "242841733-0-86935"
+msgid "Necklace of the Footman"
+msgstr "The Footman: 목걸이"
+
+#: 242841733-0-86744
+msgctxt "242841733-0-86744"
+msgid "Necklace of Necropotence"
+msgstr "Necropotence: 목걸이"
+
+#: 242841733-0-86562
+msgctxt "242841733-0-86562"
+msgid "Necklace of the Storm Knight"
+msgstr "Storm Knight: 목걸이"
+
+#: 242841733-0-86380
+msgctxt "242841733-0-86380"
+msgid "Ice Furnace Necklace"
+msgstr "Ice Furnace: 목걸이"
+
+#: 242841733-0-86189
+msgctxt "242841733-0-86189"
+msgid "Necklace of the Withered Hand"
+msgstr "Withered Hand: 목걸이"
+
+#: 242841733-0-86007
+msgctxt "242841733-0-86007"
+msgid "Werewolf Hide Necklace"
+msgstr "Werewolf Hide: 목걸이"
+
+#: 242841733-0-85825
+msgctxt "242841733-0-85825"
+msgid "Darkstride Necklace"
+msgstr ""
+
+#: 242841733-0-85634
+msgctxt "242841733-0-85634"
+msgid "Necklace of the Warlock"
+msgstr "The Warlock: 목걸이"
+
+#: 242841733-0-85452
+msgctxt "242841733-0-85452"
+msgid "Necklace of Salvation"
+msgstr "Salvation: 목걸이"
+
+#: 242841733-0-85270
+msgctxt "242841733-0-85270"
+msgid "Necklace of Nikulas"
+msgstr "Nikulas: 목걸이"
+
+#: 242841733-0-85079
+msgctxt "242841733-0-85079"
+msgid "Necklace of Syrabane"
+msgstr "Syrabane: 목걸이"
+
+#: 242841733-0-84897
+msgctxt "242841733-0-84897"
+msgid "Necklace of the Red Mountain"
+msgstr "Red Mountain: 목걸이"
+
+#: 242841733-0-84706
+msgctxt "242841733-0-84706"
+msgid "Necklace of the Sun"
+msgstr ""
+
+#: 242841733-0-84524
+msgctxt "242841733-0-84524"
+msgid "Necklace of the Dragon"
+msgstr "The Dragon: 목걸이"
+
+#: 242841733-0-83158
+msgctxt "242841733-0-83158"
+msgid "Widowmaker Necklace"
+msgstr "Widowmaker: 목걸이"
+
+#: 242841733-0-82967
+msgctxt "242841733-0-82967"
+msgid "Gossamer Necklace"
+msgstr "Gossamer: 목걸이"
+
+#: 242841733-0-82785
+msgctxt "242841733-0-82785"
+msgid "Necklace of Mephala's Hand"
+msgstr "Mephala's Hand: 목걸이"
+
+#: 242841733-0-82603
+msgctxt "242841733-0-82603"
+msgid "Heem-Jas' Necklace"
+msgstr "Heem-Jas: 목걸이"
+
+#: 242841733-0-82412
+msgctxt "242841733-0-82412"
+msgid "Amber Plasm Necklace"
+msgstr "Amber Plasm: 목걸이"
+
+#: 242841733-0-82230
+msgctxt "242841733-0-82230"
+msgid "Necklace Of Mazzatun"
+msgstr "Mazzatun: 목걸이"
+
+#: 242841733-0-81314
+msgctxt "242841733-0-81314"
+msgid "Pendant of the Sundered of the Air"
+msgstr "The Air: 찢겨진 자의 펜던트"
+
+#: 242841733-0-81179
+msgctxt "242841733-0-81179"
+msgid "Senche's Necklace"
+msgstr "Senche: 목걸이"
+
+#: 242841733-0-81178
+msgctxt "242841733-0-81178"
+msgid "Necklace Of The Dreugh King Slayer"
+msgstr "Dreugh King Slayer: 목걸이"
+
+#: 242841733-0-81177
+msgctxt "242841733-0-81177"
+msgid "Elegant Necklace"
+msgstr "Elegant: 품위있는 목걸이"
+
+#: 242841733-0-81176
+msgctxt "242841733-0-81176"
+msgid "Necklace Of The Viper"
+msgstr "The Viper[1]: 목걸이"
+
+#: 242841733-0-81175
+msgctxt "242841733-0-81175"
+msgid "Necklace Of The Knightmare"
+msgstr "The Knightmare: 목걸이"
+
+#: 242841733-0-81174
+msgctxt "242841733-0-81174"
+msgid "Necklace Of The Infallible Aether"
+msgstr "Infallible Aether: 목걸이"
+
+#: 242841733-0-81173
+msgctxt "242841733-0-81173"
+msgid "Necklace Of The Vicious Ophidian"
+msgstr "Vicious Ophidian: 오피디아인의 목걸이"
+
+#: 242841733-0-81172
+msgctxt "242841733-0-81172"
+msgid "Necklace Of The Eternal Yokeda"
+msgstr "Eternal Yokeda: 목걸이"
+
+#: 242841733-0-79191
+msgctxt "242841733-0-79191"
+msgid "Necklace of Imperial Physique"
+msgstr ""
+
+#: 242841733-0-79189
+msgctxt "242841733-0-79189"
+msgid "Necklace of Imperial Physique"
+msgstr ""
+
+#: 242841733-0-79187
+msgctxt "242841733-0-79187"
+msgid "Necklace of Imperial Physique"
+msgstr "Imperial Physique: 목걸이"
+
+#: 242841733-0-78905
+msgctxt "242841733-0-78905"
+msgid "Necklace of the Harbinger"
+msgstr ""
+
+#: 242841733-0-78903
+msgctxt "242841733-0-78903"
+msgid "Necklace of the Harbinger"
+msgstr ""
+
+#: 242841733-0-78901
+msgctxt "242841733-0-78901"
+msgid "Necklace of the Harbinger"
+msgstr "The Harbinger: 목걸이"
+
+#: 242841733-0-78899
+msgctxt "242841733-0-78899"
+msgid "The Vicecanon's Necklace"
+msgstr ""
+
+#: 242841733-0-78897
+msgctxt "242841733-0-78897"
+msgid "The Vicecanon's Necklace"
+msgstr ""
+
+#: 242841733-0-78895
+msgctxt "242841733-0-78895"
+msgid "The Vicecanon's Necklace"
+msgstr "The Vicecanon: 목걸이"
+
+#: 242841733-0-78893
+msgctxt "242841733-0-78893"
+msgid "Galerion's Necklace"
+msgstr ""
+
+#: 242841733-0-78891
+msgctxt "242841733-0-78891"
+msgid "Galerion's Necklace"
+msgstr ""
+
+#: 242841733-0-78889
+msgctxt "242841733-0-78889"
+msgid "Galerion's Necklace"
+msgstr "Galerion: 목걸이"
+
+#: 242841733-0-77525
+msgctxt "242841733-0-77525"
+msgid "Sithis' Necklace"
+msgstr ""
+
+#: 242841733-0-77523
+msgctxt "242841733-0-77523"
+msgid "Sithis' Necklace"
+msgstr ""
+
+#: 242841733-0-77521
+msgctxt "242841733-0-77521"
+msgid "Sithis' Necklace"
+msgstr "Sithis: 목걸이"
+
+#: 242841733-0-77519
+msgctxt "242841733-0-77519"
+msgid "Necklace of Flanking"
+msgstr "Flanking: 목걸이"
+
+#: 242841733-0-77517
+msgctxt "242841733-0-77517"
+msgid "Necklace of Morihaus"
+msgstr "Morihaus: 목걸이"
+
+#: 228378404-0-7727
+msgctxt "228378404-0-7727"
+msgid "You received this amulet for helping Captain Alhana and her soldiers at Kynesgrove."
+msgstr ""
+
+#: 228378404-0-7589
+msgctxt "228378404-0-7589"
+msgid "This fine necklace, engraved symbols to Auri-El, was blessed in one of his temples."
+msgstr ""
+
+#: 242841733-0-7508
+msgctxt "242841733-0-7508"
+msgid "Suturah's Hubris"
+msgstr ""
+
+#: 242841733-0-75062
+msgctxt "242841733-0-75062"
+msgid "Necklace of the Shadow Dancer"
+msgstr "Shadow Dancer: 목걸이"
+
+#: 242841733-0-74892
+msgctxt "242841733-0-74892"
+msgid "Darkstride Necklace"
+msgstr "Darkstride: 목걸이"
+
+#: 242841733-0-7485
+msgctxt "242841733-0-7485"
+msgid "Hatching's Keepsake Torc"
+msgstr ""
+
+#: 242841733-0-74255
+msgctxt "242841733-0-74255"
+msgid "Necklace of Transmutation"
+msgstr "Transmutation: 목걸이"
+
+#: 242841733-0-74182
+msgctxt "242841733-0-74182"
+msgid "Necklace of Vicious Death"
+msgstr "Vicious Death: 목걸이"
+
+#: 242841733-0-74109
+msgctxt "242841733-0-74109"
+msgid "Necklace of Fury"
+msgstr "Fury: 목걸이"
+
+#: 242841733-0-74019
+msgctxt "242841733-0-74019"
+msgid "Necklace of Fasalla's Guile"
+msgstr "Fasalla's Guile: 목걸이"
+
+#: 242841733-0-73957
+msgctxt "242841733-0-73957"
+msgid "Leki's Necklace"
+msgstr "Leki: 목걸이"
+
+#: 242841733-0-73895
+msgctxt "242841733-0-73895"
+msgid "Marksman's Necklace"
+msgstr "Marksman: 목걸이"
+
+#: 228378404-0-7383
+msgctxt "228378404-0-7383"
+msgid "This necklace imbues its wearer with better health and a more positive mental outlook."
+msgstr ""
+
+#: 228378404-0-7314
+msgctxt "228378404-0-7314"
+msgid "A pendant bestowed by Constable Aguza for aiding the people of Fell's Run."
+msgstr ""
+
+#: 242841733-0-73108
+msgctxt "242841733-0-73108"
+msgid "Necklace of the Worm"
+msgstr "The worm: 목걸이"
+
+#: 242841733-0-73082
+msgctxt "242841733-0-73082"
+msgid "Necklace of the Lunar Bastion"
+msgstr "Lunar Bastion: 목걸이"
+
+#: 242841733-0-73059
+msgctxt "242841733-0-73059"
+msgid "Necklace of Alkosh"
+msgstr "Alkosh: 목걸이"
+
+#: 242841733-0-73036
+msgctxt "242841733-0-73036"
+msgid "Necklace of Twilight Remedy"
+msgstr "Twilight Remedy: 목걸이"
+
+#: 242841733-0-73010
+msgctxt "242841733-0-73010"
+msgid "Moondancer Necklace"
+msgstr "Moondancer: 달무희의 목걸이"
+
+#: 242841733-0-72984
+msgctxt "242841733-0-72984"
+msgid "Necklace of Syvarra's Scales"
+msgstr ""
+
+#: 242841733-0-72982
+msgctxt "242841733-0-72982"
+msgid "Necklace of Syvarra's Scales"
+msgstr ""
+
+#: 242841733-0-72980
+msgctxt "242841733-0-72980"
+msgid "Necklace of Syvarra's Scales"
+msgstr "Syvarra's Scales: 목걸이"
+
+#: 242841733-0-72912
+msgctxt "242841733-0-72912"
+msgid "Necklace of Bahraha's Curse"
+msgstr ""
+
+#: 242841733-0-72910
+msgctxt "242841733-0-72910"
+msgid "Necklace of Bahraha's Curse"
+msgstr ""
+
+#: 242841733-0-72908
+msgctxt "242841733-0-72908"
+msgid "Necklace of Bahraha's Curse"
+msgstr "Bahraha's Curse: 목걸이"
+
+#: 242841733-0-71311
+msgctxt "242841733-0-71311"
+msgid "Collar of the Hunt"
+msgstr ""
+
+#: 242841733-0-71310
+msgctxt "242841733-0-71310"
+msgid "Pendant of Permafrost"
+msgstr ""
+
+#: 242841733-0-71309
+msgctxt "242841733-0-71309"
+msgid "Necklace of Succession"
+msgstr ""
+
+#: 242841733-0-71308
+msgctxt "242841733-0-71308"
+msgid "Necklace of Glory"
+msgstr ""
+
+#: 242841733-0-71307
+msgctxt "242841733-0-71307"
+msgid "Para Bellum Choker"
+msgstr ""
+
+#: 242841733-0-71306
+msgctxt "242841733-0-71306"
+msgid "Locket of the Pariah"
+msgstr ""
+
+#: 242841733-0-71305
+msgctxt "242841733-0-71305"
+msgid "Winterborn Pendant"
+msgstr ""
+
+#: 242841733-0-71304
+msgctxt "242841733-0-71304"
+msgid "Briarheart Collar"
+msgstr ""
+
+#: 242841733-0-71303
+msgctxt "242841733-0-71303"
+msgid "Proof of Trinimac's Valor"
+msgstr ""
+
+#: 242841733-0-71293
+msgctxt "242841733-0-71293"
+msgid "Collar of the Hunt"
+msgstr ""
+
+#: 242841733-0-71292
+msgctxt "242841733-0-71292"
+msgid "Pendant of Permafrost"
+msgstr ""
+
+#: 242841733-0-71291
+msgctxt "242841733-0-71291"
+msgid "Necklace of Succession"
+msgstr ""
+
+#: 242841733-0-71290
+msgctxt "242841733-0-71290"
+msgid "Necklace of Glory"
+msgstr ""
+
+#: 242841733-0-71289
+msgctxt "242841733-0-71289"
+msgid "Para Bellum Choker"
+msgstr ""
+
+#: 242841733-0-71288
+msgctxt "242841733-0-71288"
+msgid "Locket of the Pariah"
+msgstr ""
+
+#: 242841733-0-71287
+msgctxt "242841733-0-71287"
+msgid "Winterborn Pendant"
+msgstr ""
+
+#: 242841733-0-71286
+msgctxt "242841733-0-71286"
+msgid "Briarheart Collar"
+msgstr ""
+
+#: 242841733-0-71285
+msgctxt "242841733-0-71285"
+msgid "Proof of Trinimac's Valor"
+msgstr ""
+
+#: 242841733-0-71275
+msgctxt "242841733-0-71275"
+msgid "Collar of the Hunt"
+msgstr "The Hunt: 목줄"
+
+#: 242841733-0-71274
+msgctxt "242841733-0-71274"
+msgid "Pendant of Permafrost"
+msgstr "Permafrost: 펜던트"
+
+#: 242841733-0-71273
+msgctxt "242841733-0-71273"
+msgid "Necklace of Succession"
+msgstr "Succession: 목걸이"
+
+#: 242841733-0-71272
+msgctxt "242841733-0-71272"
+msgid "Necklace of Glory"
+msgstr "Glory: 목걸이"
+
+#: 242841733-0-71271
+msgctxt "242841733-0-71271"
+msgid "Para Bellum Choker"
+msgstr ""
+
+#: 242841733-0-71270
+msgctxt "242841733-0-71270"
+msgid "Locket of the Pariah"
+msgstr "The Pariah: 로켓목걸이"
+
+#: 242841733-0-71269
+msgctxt "242841733-0-71269"
+msgid "Winterborn Pendant"
+msgstr "Winterborn: 펜던트"
+
+#: 242841733-0-71268
+msgctxt "242841733-0-71268"
+msgid "Briarheart Collar"
+msgstr ""
+
+#: 242841733-0-71267
+msgctxt "242841733-0-71267"
+msgid "Proof of Trinimac's Valor"
+msgstr "Trinimac's Valor: 트리니막의 증표"
+
+#: 242841733-0-71020
+msgctxt "242841733-0-71020"
+msgid "Thukhozod's Amulet"
+msgstr ""
+
+#: 242841733-0-69390
+msgctxt "242841733-0-69390"
+msgid "Necklace of Agility"
+msgstr ""
+
+#: 242841733-0-69388
+msgctxt "242841733-0-69388"
+msgid "Necklace of Agility"
+msgstr ""
+
+#: 242841733-0-69386
+msgctxt "242841733-0-69386"
+msgid "Necklace of Agility"
+msgstr "Agility: 목걸이"
+
+#: 242841733-0-69280
+msgctxt "242841733-0-69280"
+msgid "Necklace of Willpower"
+msgstr ""
+
+#: 242841733-0-69278
+msgctxt "242841733-0-69278"
+msgid "Necklace of Willpower"
+msgstr ""
+
+#: 242841733-0-69276
+msgctxt "242841733-0-69276"
+msgid "Necklace of Willpower"
+msgstr "Willpower: 목걸이"
+
+#: 242841733-0-69170
+msgctxt "242841733-0-69170"
+msgid "Necklace of Endurance"
+msgstr ""
+
+#: 242841733-0-69168
+msgctxt "242841733-0-69168"
+msgid "Necklace of Endurance"
+msgstr ""
+
+#: 242841733-0-69166
+msgctxt "242841733-0-69166"
+msgid "Necklace of Endurance"
+msgstr "Endurance: 목걸이"
+
+#: 228378404-0-64488
+msgctxt "228378404-0-64488"
+msgid "This delicate, gold-chased cameo depicts the goddess Mara and is a traditional Imperial wedding gift."
+msgstr ""
+
+#: 228378404-0-61088
+msgctxt "228378404-0-61088"
+msgid "This strand was taken from the neck of the Child of Bones. It's surprisingly cold."
+msgstr "이 목걸이는 뼈의 아이의 목에서 벗겨졌습니다. 놀랍도록 차갑습니다."
+
+#: 242841733-0-59939
+msgctxt "242841733-0-59939"
+msgid "Dominion's Choker"
+msgstr ""
+
+#: 242841733-0-59934
+msgctxt "242841733-0-59934"
+msgid "Pact's Beads"
+msgstr ""
+
+#: 242841733-0-59933
+msgctxt "242841733-0-59933"
+msgid "Pact's Choker"
+msgstr ""
+
+#: 242841733-0-59928
+msgctxt "242841733-0-59928"
+msgid "Covenant's Beads"
+msgstr ""
+
+#: 242841733-0-59927
+msgctxt "242841733-0-59927"
+msgid "Covenant's Choker"
+msgstr ""
+
+#: 242841733-0-57537
+msgctxt "242841733-0-57537"
+msgid "Izad's Treasure"
+msgstr "Izad의 보물(Izad's Treasure)"
+
+#: 242841733-0-55960
+msgctxt "242841733-0-55960"
+msgid "Necklace of the Healer"
+msgstr "The Healer: 목걸이"
+
+#: 242841733-0-55958
+msgctxt "242841733-0-55958"
+msgid "Locket of the Footman"
+msgstr "The Footman: 병사의 로켓"
+
+#: 242841733-0-55913
+msgctxt "242841733-0-55913"
+msgid "Locket of Cyrodiil's Crest"
+msgstr ""
+
+#: 242841733-0-55889
+msgctxt "242841733-0-55889"
+msgid "Ravaging Choker"
+msgstr ""
+
+#: 242841733-0-55823
+msgctxt "242841733-0-55823"
+msgid "Necklace of the Two-Fanged Snake"
+msgstr "Two-Fanged Snake: 목걸이"
+
+#: 242841733-0-55818
+msgctxt "242841733-0-55818"
+msgid "Ophidian Necklace of Venom"
+msgstr "Ophidian Venom: 오피디아인의 목걸이"
+
+#: 242841733-0-55807
+msgctxt "242841733-0-55807"
+msgid "Aether Necklace of Mending"
+msgstr "Mending: 천공 목걸이"
+
+#: 242841733-0-55803
+msgctxt "242841733-0-55803"
+msgid "Aether Necklace of Undoing"
+msgstr "Aether: 목걸이 of Undoing"
+
+#: 242841733-0-55791
+msgctxt "242841733-0-55791"
+msgid "Necklace of the Resilient Yokeda"
+msgstr "Resilient Yokeda: 목걸이"
+
+#: 242841733-0-55786
+msgctxt "242841733-0-55786"
+msgid "Necklace of the Advancing Yokeda"
+msgstr "Advancing Yokeda: 목걸이"
+
+#: 228378404-0-55432
+msgctxt "228378404-0-55432"
+msgid "This amulet is cold to the touch."
+msgstr ""
+
+#: 242841733-0-55407
+msgctxt "242841733-0-55407"
+msgid "Necklace of the Sun"
+msgstr "The Sun: 목걸이"
+
+#: 242841733-0-55388
+msgctxt "242841733-0-55388"
+msgid "Clasp of the Dragon"
+msgstr "The Dragon: 용의 손아귀"
+
+#: 242841733-0-55373
+msgctxt "242841733-0-55373"
+msgid "Amulet of Conflagration"
+msgstr ""
+
+#: 242841733-0-55372
+msgctxt "242841733-0-55372"
+msgid "Necklace of Sardavar"
+msgstr ""
+
+#: 242841733-0-55000
+msgctxt "242841733-0-55000"
+msgid "Pendant of the Sundered Triad"
+msgstr ""
+
+#: 228378404-0-54919
+msgctxt "228378404-0-54919"
+msgid "This necklace was found in the ancient temple of the Scaled Court, Sanctum Ophidia."
+msgstr ""
+
+#: 242841733-0-54514
+msgctxt "242841733-0-54514"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-54513
+msgctxt "242841733-0-54513"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-54512
+msgctxt "242841733-0-54512"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-54479
+msgctxt "242841733-0-54479"
+msgid "Token of Gratitude"
+msgstr ""
+
+#: 242841733-0-54478
+msgctxt "242841733-0-54478"
+msgid "Timeless Braided Cord"
+msgstr ""
+
+#: 242841733-0-54475
+msgctxt "242841733-0-54475"
+msgid "Clan's Pride Necklace"
+msgstr "Clan's Pride: 목걸이"
+
+#: 242841733-0-54449
+msgctxt "242841733-0-54449"
+msgid "Pact's Beads"
+msgstr "Pact: 조약 비즈"
+
+#: 242841733-0-54446
+msgctxt "242841733-0-54446"
+msgid "Pact's Choker"
+msgstr "Pact: 조약 초커(Choker)"
+
+#: 242841733-0-54413
+msgctxt "242841733-0-54413"
+msgid "Covenant's Beads"
+msgstr "Covenant: 동맹 비즈"
+
+#: 242841733-0-54410
+msgctxt "242841733-0-54410"
+msgid "Covenant's Choker"
+msgstr "Covenant: 동맹 초커(Choker)"
+
+#: 242841733-0-54303
+msgctxt "242841733-0-54303"
+msgid "Dominion's Beads"
+msgstr "Dominion: 자치령 비즈"
+
+#: 242841733-0-54300
+msgctxt "242841733-0-54300"
+msgid "Dominion's Choker"
+msgstr "Dominion: 자치령 초커(Choker)"
+
+#: 242841733-0-54251
+msgctxt "242841733-0-54251"
+msgid "Watcher's Eye"
+msgstr ""
+
+#: 242841733-0-54250
+msgctxt "242841733-0-54250"
+msgid "Achaeraizur's Chain"
+msgstr ""
+
+#: 242841733-0-54249
+msgctxt "242841733-0-54249"
+msgid "Forbidden Jewels"
+msgstr "Rattlecage: Forbidden Jewels"
+
+#: 242841733-0-5116
+msgctxt "242841733-0-5116"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 228378404-0-45749
+msgctxt "228378404-0-45749"
+msgid "This translucent necklace always feels damp to the touch."
+msgstr ""
+
+#: 242841733-0-44234
+msgctxt "242841733-0-44234"
+msgid "Pendant of Soulshine"
+msgstr "Soulshine: 펜던트"
+
+#: 242841733-0-44229
+msgctxt "242841733-0-44229"
+msgid "Locket of Cyrodiil's Crest"
+msgstr "Cyrodiil's Ward: 로켓목걸이"
+
+#: 242841733-0-44221
+msgctxt "242841733-0-44221"
+msgid "Nightshade Necklace"
+msgstr "Nightshade: 목걸이"
+
+#: 242841733-0-44191
+msgctxt "242841733-0-44191"
+msgid "Ravaging Choker"
+msgstr ""
+
+#: 242841733-0-44157
+msgctxt "242841733-0-44157"
+msgid "Necklace of the Magicka Furnace"
+msgstr "Magicka Furnace: 목걸이"
+
+#: 242841733-0-44149
+msgctxt "242841733-0-44149"
+msgid "Badge of the Unassailable"
+msgstr "The Unassailable: 난공불락의 뱃지"
+
+#: 242841733-0-44144
+msgctxt "242841733-0-44144"
+msgid "Afflicted Choker"
+msgstr ""
+
+#: 242841733-0-44117
+msgctxt "242841733-0-44117"
+msgid "Pendant of the Arch-Mage"
+msgstr "The Arch-Mage: 목걸이"
+
+#: 242841733-0-44097
+msgctxt "242841733-0-44097"
+msgid "Necklace of Akatosh's Blessing"
+msgstr "Akatosh's Blessing: 아카토쉬의 축복 목걸이"
+
+#: 242841733-0-44090
+msgctxt "242841733-0-44090"
+msgid "Pendant of the Storm Knight"
+msgstr "Storm Knight: 펜던트"
+
+#: 242841733-0-44042
+msgctxt "242841733-0-44042"
+msgid "Locket of Almalexia's Mercy"
+msgstr "Almalexia's Mercy: 로켓"
+
+#: 242841733-0-43937
+msgctxt "242841733-0-43937"
+msgid "Pendant of the Shadow Walker"
+msgstr "Shadow Walker: 펜던트"
+
+#: 242841733-0-43928
+msgctxt "242841733-0-43928"
+msgid "Necklace of Adroitness"
+msgstr "Adroitness: 목걸이"
+
+#: 242841733-0-43908
+msgctxt "242841733-0-43908"
+msgid "Pendant of the Dreugh King Slayer"
+msgstr "드레우그 킹 살해자: 펜던트"
+
+#: 242841733-0-43884
+msgctxt "242841733-0-43884"
+msgid "Necklace of Stendarr"
+msgstr "Stendarr: 목걸이"
+
+#: 242841733-0-43866
+msgctxt "242841733-0-43866"
+msgid "Beads of Beckoning Steel"
+msgstr "Beckoning Steel: 비즈"
+
+#: 242841733-0-43857
+msgctxt "242841733-0-43857"
+msgid "Pendant of the Morag Tong"
+msgstr "Morag Tong: 펜던트"
+
+#: 242841733-0-43838
+msgctxt "242841733-0-43838"
+msgid "Alessian Choker"
+msgstr "Alessian: 초커(Choker)"
+
+#: 242841733-0-43826
+msgctxt "242841733-0-43826"
+msgid "Alessian Pendant"
+msgstr "Alessian: 펜던트"
+
+#: 242841733-0-43814
+msgctxt "242841733-0-43814"
+msgid "Alessian Necklace"
+msgstr "Alessian: 목걸이"
+
+#: 242841733-0-43784
+msgctxt "242841733-0-43784"
+msgid "Thunderous Pendant"
+msgstr "Thunderous: 펜던트"
+
+#: 242841733-0-43561
+msgctxt "242841733-0-43561"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-43045
+msgctxt "242841733-0-43045"
+msgid "Ysgramor's Frost Gem Necklace"
+msgstr "Ysgramor's Frost Gem: 목걸이"
+
+#: 228378404-0-43039
+msgctxt "228378404-0-43039"
+msgid "A necklace awarded for defeating the giant snow bear, Beralagr."
+msgstr ""
+
+#: 228378404-0-34300
+msgctxt "228378404-0-34300"
+msgid "A ghostly pendant awarded for defeating Odilon the ghost in Enduum."
+msgstr "엔둠에서 유령 오딜론을 격파하고 수여된 유령펜던트 입니다."
+
+#: 242841733-0-33163
+msgctxt "242841733-0-33163"
+msgid "Ancient Necklace"
+msgstr "고대의 목걸이"
+
+#: 242841733-0-33160
+msgctxt "242841733-0-33160"
+msgid "Apprentice's Chain"
+msgstr "Magicka Furnace: Apprentice's Chain"
+
+#: 242841733-0-33159
+msgctxt "242841733-0-33159"
+msgid "Troll-Tooth Necklace"
+msgstr "Ice Furnace: 트롤 이빨 목걸이"
+
+#: 242841733-0-33155
+msgctxt "242841733-0-33155"
+msgid "Lion-Tooth Pendant"
+msgstr "Lion-Tooth: 펜던트"
+
+#: 228378404-0-29989
+msgctxt "228378404-0-29989"
+msgid "The spirit of Queen Nurnhilde gave you this amulet for aid provided in the royal tombs beneath Fort Morvunskar."
+msgstr ""
+
+#: 242841733-0-29515
+msgctxt "242841733-0-29515"
+msgid "Focus of the Warlock"
+msgstr "The Warlock: 수호부"
+
+#: 242841733-0-29465
+msgctxt "242841733-0-29465"
+msgid "Uulgarg's Bones"
+msgstr ""
+
+#: 242841733-0-29462
+msgctxt "242841733-0-29462"
+msgid "Oraneth's Lost Jewels"
+msgstr "Undaunted Bastion: Oraneth's Lost Jewels"
+
+#: 242841733-0-29461
+msgctxt "242841733-0-29461"
+msgid "Alit Tongue Charm"
+msgstr "Netch's Touch: Alit Tongue Charm"
+
+#: 242841733-0-29460
+msgctxt "242841733-0-29460"
+msgid "Reaper's Choker"
+msgstr ""
+
+#: 242841733-0-29458
+msgctxt "242841733-0-29458"
+msgid "Daedroth Tooth Necklace"
+msgstr "Undaunted Bastion: 데이드로쓰 이빨 목걸이"
+
+#: 242841733-0-29097
+msgctxt "242841733-0-29097"
+msgid "Gilded Choker"
+msgstr "Spelunker: Gilded Choker"
+
+#: 242841733-0-29096
+msgctxt "242841733-0-29096"
+msgid "Huntmaster's Leash"
+msgstr "The Viper[4]: Huntmaster's Leash"
+
+#: 242841733-0-29095
+msgctxt "242841733-0-29095"
+msgid "Crabclaw Charm"
+msgstr "드레우그 킹 살해자: Crabclaw Charm"
+
+#: 242841733-0-29072
+msgctxt "242841733-0-29072"
+msgid "Silky Threads"
+msgstr "Prayer: Silky Threads"
+
+#: 242841733-0-29071
+msgctxt "242841733-0-29071"
+msgid "Renanimating Pendant"
+msgstr "Jailbreaker: Renanimating 펜던트"
+
+#: 242841733-0-28978
+msgctxt "242841733-0-28978"
+msgid "Chain of the Snake Charmer"
+msgstr "Undaunted Infiltrator: Chain of the Snake Charmer"
+
+#: 242841733-0-28123
+msgctxt "242841733-0-28123"
+msgid "Keeper's Medallion"
+msgstr "The Tormentor: Keeper's Medallion"
+
+#: 242841733-0-28116
+msgctxt "242841733-0-28116"
+msgid "Fleshlinks"
+msgstr "Prayer: Fleshlinks"
+
+#: 242841733-0-28115
+msgctxt "242841733-0-28115"
+msgid "Spidersilk Garland"
+msgstr "The Viper[4]: Spidersilk Garland"
+
+#: 228378404-0-27276
+msgctxt "228378404-0-27276"
+msgid "A relic interred within the Ancestral Crypt. Disturbed by the dark magics of Mannimarco and once worn by a Sword Saint of old."
+msgstr "선조의 묘 안에 매장되있던 유물입니다. 한때 옛 Sword Saint가 걸고 있었던 이 목걸이는 매니마코의 어둠의 마법에 의해 더럽혀졌습니다."
+
+#: 242841733-0-23734
+msgctxt "242841733-0-23734"
+msgid "Rothariel's Necklace"
+msgstr "Embershield: Rothariel의 목걸이"
+
+#: 242841733-0-23668
+msgctxt "242841733-0-23668"
+msgid "Adventurer's Lost Medallion"
+msgstr "Hircine: Adventurer's Lost Medallion"
+
+#: 228378404-0-22757
+msgctxt "228378404-0-22757"
+msgid "This necklace oozes with the primordial power of the Hist."
+msgstr ""
+
+#: 242841733-0-22184
+msgctxt "242841733-0-22184"
+msgid "Necklace of Giant Toes"
+msgstr "Nikulas: Necklace of Giant Toes"
+
+#: 242841733-0-22169
+msgctxt "242841733-0-22169"
+msgid "Captain's Medallion"
+msgstr "Sword Dancer: Captain's Medallion"
+
+#: 242841733-0-22157
+msgctxt "242841733-0-22157"
+msgid "Hollow-Heart Pendant"
+msgstr "Undaunted Unweaver: Hollow-Heart 펜던트"
+
+#: 242841733-0-22128
+msgctxt "242841733-0-22128"
+msgid "Pendant of Vines"
+msgstr ""
+
+#: 242841733-0-22125
+msgctxt "242841733-0-22125"
+msgid "Grandmother's Lace"
+msgstr "Light Speaker: Grandmother's Lace"
+
+#: 242841733-0-22121
+msgctxt "242841733-0-22121"
+msgid "Lambent Netch Tentacles"
+msgstr "Automaton: 희미하게 빛나는 네치 촉수"
+
+#: 242841733-0-22118
+msgctxt "242841733-0-22118"
+msgid "Rattail Necklace"
+msgstr "Toothrow: 쥐꼬리 목걸이"
+
+#: 242841733-0-22108
+msgctxt "242841733-0-22108"
+msgid "Smuggler's Luck Beads"
+msgstr ""
+
+#: 228378404-0-1673
+msgctxt "228378404-0-1673"
+msgid "There is a tiny etching of an ear on the back of this amulet. In dim light, the etching glows faintly."
+msgstr "이 부적의 뒷면에는 작은 귀가 새겨져 있습니다. 새겨진 귀 모양은 어둑한 빛 속에서 희미하게 빛을 발합니다."
+
+#: 242841733-0-16145
+msgctxt "242841733-0-16145"
+msgid "Dremora Collar"
+msgstr "Ebon: 드레모라 목줄"
+
+#: 242841733-0-16047
+msgctxt "242841733-0-16047"
+msgid "Bonehand's Amulet"
+msgstr "Ebon: 본핸드의 목걸이"
+
+#: 242841733-0-159118
+msgctxt "242841733-0-159118"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159116
+msgctxt "242841733-0-159116"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159114
+msgctxt "242841733-0-159114"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159112
+msgctxt "242841733-0-159112"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159110
+msgctxt "242841733-0-159110"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159108
+msgctxt "242841733-0-159108"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159106
+msgctxt "242841733-0-159106"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159104
+msgctxt "242841733-0-159104"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159102
+msgctxt "242841733-0-159102"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-159100
+msgctxt "242841733-0-159100"
+msgid "Dauntless Combatant's Amulet"
+msgstr ""
+
+#: 242841733-0-158744
+msgctxt "242841733-0-158744"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158742
+msgctxt "242841733-0-158742"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158740
+msgctxt "242841733-0-158740"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158738
+msgctxt "242841733-0-158738"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158736
+msgctxt "242841733-0-158736"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158734
+msgctxt "242841733-0-158734"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158732
+msgctxt "242841733-0-158732"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158730
+msgctxt "242841733-0-158730"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158728
+msgctxt "242841733-0-158728"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158726
+msgctxt "242841733-0-158726"
+msgid "Unchained Aggressor's Amulet"
+msgstr ""
+
+#: 242841733-0-158370
+msgctxt "242841733-0-158370"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158368
+msgctxt "242841733-0-158368"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158366
+msgctxt "242841733-0-158366"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158364
+msgctxt "242841733-0-158364"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158362
+msgctxt "242841733-0-158362"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158360
+msgctxt "242841733-0-158360"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158358
+msgctxt "242841733-0-158358"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158356
+msgctxt "242841733-0-158356"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158354
+msgctxt "242841733-0-158354"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-158352
+msgctxt "242841733-0-158352"
+msgid "Amulet of Critical Riposte"
+msgstr ""
+
+#: 242841733-0-157915
+msgctxt "242841733-0-157915"
+msgid "Grave Guardian's Amulet"
+msgstr ""
+
+#: 242841733-0-157730
+msgctxt "242841733-0-157730"
+msgid "Aegis Caller's Amulet"
+msgstr ""
+
+#: 228378404-0-15765
+msgctxt "228378404-0-15765"
+msgid "King Dynar gave you this amulet for gathering the forces of the Mages Guild and the Fighters Guild in the Hollow City."
+msgstr "공허한 도시에서 메이지 길드와 파이터 길드 병력을 모은 공로로 다이나 왕이 이 아뮬렛을 주었습니다."
+
+#: 242841733-0-157229
+msgctxt "242841733-0-157229"
+msgid "Bani's Amulet"
+msgstr ""
+
+#: 242841733-0-157044
+msgctxt "242841733-0-157044"
+msgid "Titanborn's Amulet"
+msgstr ""
+
+#: 242841733-0-156850
+msgctxt "242841733-0-156850"
+msgid "Hiti's Amulet"
+msgstr ""
+
+#: 242841733-0-156206
+msgctxt "242841733-0-156206"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156204
+msgctxt "242841733-0-156204"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156202
+msgctxt "242841733-0-156202"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156200
+msgctxt "242841733-0-156200"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156198
+msgctxt "242841733-0-156198"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156196
+msgctxt "242841733-0-156196"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156194
+msgctxt "242841733-0-156194"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156192
+msgctxt "242841733-0-156192"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156190
+msgctxt "242841733-0-156190"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-156188
+msgctxt "242841733-0-156188"
+msgid "New Moon Acolyte's Amulet"
+msgstr ""
+
+#: 242841733-0-15584
+msgctxt "242841733-0-15584"
+msgid "Amulet of Z'en"
+msgstr "젠'의 아뮬렛"
+
+#: 242841733-0-155832
+msgctxt "242841733-0-155832"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155830
+msgctxt "242841733-0-155830"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155828
+msgctxt "242841733-0-155828"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155826
+msgctxt "242841733-0-155826"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155824
+msgctxt "242841733-0-155824"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155822
+msgctxt "242841733-0-155822"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155820
+msgctxt "242841733-0-155820"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155818
+msgctxt "242841733-0-155818"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155816
+msgctxt "242841733-0-155816"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-155814
+msgctxt "242841733-0-155814"
+msgid "Ancient Dragonguard's Amulet"
+msgstr ""
+
+#: 242841733-0-15579
+msgctxt "242841733-0-15579"
+msgid "Valenwood Heartleaf"
+msgstr "발렌우드의 심장잎"
+
+#: 242841733-0-15548
+msgctxt "242841733-0-15548"
+msgid "Ulthorn's Regret"
+msgstr "울쏜의 회한"
+
+#: 242841733-0-155458
+msgctxt "242841733-0-155458"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155456
+msgctxt "242841733-0-155456"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155454
+msgctxt "242841733-0-155454"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155452
+msgctxt "242841733-0-155452"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155450
+msgctxt "242841733-0-155450"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155448
+msgctxt "242841733-0-155448"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155446
+msgctxt "242841733-0-155446"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155444
+msgctxt "242841733-0-155444"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155442
+msgctxt "242841733-0-155442"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-155440
+msgctxt "242841733-0-155440"
+msgid "Daring Corsair's Amulet"
+msgstr ""
+
+#: 242841733-0-15543
+msgctxt "242841733-0-15543"
+msgid "Rootsong Amulet"
+msgstr "뿌리노래 아뮬렛"
+
+#: 242841733-0-15542
+msgctxt "242841733-0-15542"
+msgid "Totem of Y'ffre"
+msgstr "이'프레의 토템"
+
+#: 242841733-0-155216
+msgctxt "242841733-0-155216"
+msgid "Dragonguard Elite's Amulet"
+msgstr ""
+
+#: 242841733-0-155022
+msgctxt "242841733-0-155022"
+msgid "Amulet of Marauder's Haste"
+msgstr ""
+
+#: 242841733-0-154837
+msgctxt "242841733-0-154837"
+msgid "Senchal Defender's Amulet"
+msgstr ""
+
+#: 228378404-0-153836
+msgctxt "228378404-0-153836"
+msgid "A medal of the highest honor bestowed by Queen Khamira for helping to save Elsweyr from a rage of Dragons."
+msgstr ""
+
+#: 242841733-0-153094
+msgctxt "242841733-0-153094"
+msgid "Z'en's Necklace"
+msgstr ""
+
+#: 242841733-0-152912
+msgctxt "242841733-0-152912"
+msgid "Defiled Dragon's Necklace"
+msgstr ""
+
+#: 242841733-0-152730
+msgctxt "242841733-0-152730"
+msgid "Dro'zakar's Necklace"
+msgstr ""
+
+#: 242841733-0-152539
+msgctxt "242841733-0-152539"
+msgid "Hollowfang Necklace"
+msgstr ""
+
+#: 242841733-0-152357
+msgctxt "242841733-0-152357"
+msgid "Renald's Necklace"
+msgstr ""
+
+#: 228378404-0-152248
+msgctxt "228378404-0-152248"
+msgid "A delicate silver necklace. Ironically, this lucky pendant was likely stolen."
+msgstr ""
+
+#: 242841733-0-151179
+msgctxt "242841733-0-151179"
+msgid "Perfected False God's Amulet"
+msgstr ""
+
+#: 242841733-0-150997
+msgctxt "242841733-0-150997"
+msgid "Perfected Lokkestiiz's Amulet"
+msgstr ""
+
+#: 242841733-0-150815
+msgctxt "242841733-0-150815"
+msgid "Perfected Yolnahkriin's Amulet"
+msgstr ""
+
+#: 228378404-0-150419
+msgctxt "228378404-0-150419"
+msgid "This amulet contains a sliver of crystallized power from the Crossing—the realm between realms."
+msgstr ""
+
+#: 242841733-0-149978
+msgctxt "242841733-0-149978"
+msgid "False God's Amulet"
+msgstr ""
+
+#: 242841733-0-149796
+msgctxt "242841733-0-149796"
+msgid "Lokkestiiz's Amulet"
+msgstr ""
+
+#: 242841733-0-149614
+msgctxt "242841733-0-149614"
+msgid "Yolnahkriin's Amulet"
+msgstr ""
+
+#: 242841733-0-149432
+msgctxt "242841733-0-149432"
+msgid "Darloc Brae's Amulet"
+msgstr ""
+
+#: 242841733-0-149241
+msgctxt "242841733-0-149241"
+msgid "Crafty Alfiq's Amulet"
+msgstr ""
+
+#: 242841733-0-149059
+msgctxt "242841733-0-149059"
+msgid "Undertaker's Amulet"
+msgstr ""
+
+#: 242841733-0-148742
+msgctxt "242841733-0-148742"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148740
+msgctxt "242841733-0-148740"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148738
+msgctxt "242841733-0-148738"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148736
+msgctxt "242841733-0-148736"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148734
+msgctxt "242841733-0-148734"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148732
+msgctxt "242841733-0-148732"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148730
+msgctxt "242841733-0-148730"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148728
+msgctxt "242841733-0-148728"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148726
+msgctxt "242841733-0-148726"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148724
+msgctxt "242841733-0-148724"
+msgid "Vastarie's Amulet"
+msgstr ""
+
+#: 242841733-0-148372
+msgctxt "242841733-0-148372"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148370
+msgctxt "242841733-0-148370"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148368
+msgctxt "242841733-0-148368"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148366
+msgctxt "242841733-0-148366"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148364
+msgctxt "242841733-0-148364"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148362
+msgctxt "242841733-0-148362"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148360
+msgctxt "242841733-0-148360"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148358
+msgctxt "242841733-0-148358"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148356
+msgctxt "242841733-0-148356"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148354
+msgctxt "242841733-0-148354"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148002
+msgctxt "242841733-0-148002"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-148000
+msgctxt "242841733-0-148000"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147998
+msgctxt "242841733-0-147998"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147996
+msgctxt "242841733-0-147996"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147994
+msgctxt "242841733-0-147994"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147992
+msgctxt "242841733-0-147992"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147990
+msgctxt "242841733-0-147990"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147988
+msgctxt "242841733-0-147988"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147986
+msgctxt "242841733-0-147986"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147984
+msgctxt "242841733-0-147984"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147513
+msgctxt "242841733-0-147513"
+msgid "Deadly Necklace"
+msgstr ""
+
+#: 242841733-0-147045
+msgctxt "242841733-0-147045"
+msgid "Auroran's Necklace"
+msgstr ""
+
+#: 242841733-0-146863
+msgctxt "242841733-0-146863"
+msgid "Necklace of Scavenging Demise"
+msgstr ""
+
+#: 242841733-0-146681
+msgctxt "242841733-0-146681"
+msgid "Frozen Watcher's Necklace"
+msgstr ""
+
+#: 242841733-0-146442
+msgctxt "242841733-0-146442"
+msgid "Icy Conjuror's Necklace"
+msgstr ""
+
+#: 242841733-0-146260
+msgctxt "242841733-0-146260"
+msgid "Tzogvin's Necklace"
+msgstr ""
+
+#: 242841733-0-146078
+msgctxt "242841733-0-146078"
+msgid "Mighty Glacier's Necklace"
+msgstr ""
+
+#: 242841733-0-144830
+msgctxt "242841733-0-144830"
+msgid "Battalion Defender Necklace"
+msgstr ""
+
+#: 242841733-0-144648
+msgctxt "242841733-0-144648"
+msgid "Steadfast Hero Necklace"
+msgstr ""
+
+#: 242841733-0-144466
+msgctxt "242841733-0-144466"
+msgid "Soldier of Anguish Necklace"
+msgstr ""
+
+#: 242841733-0-144284
+msgctxt "242841733-0-144284"
+msgid "Battlefield Acrobat Necklace"
+msgstr ""
+
+#: 242841733-0-144093
+msgctxt "242841733-0-144093"
+msgid "Spell Strategist Necklace"
+msgstr ""
+
+#: 242841733-0-143902
+msgctxt "242841733-0-143902"
+msgid "Indomitable Fury Necklace"
+msgstr ""
+
+#: 242841733-0-143585
+msgctxt "242841733-0-143585"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143583
+msgctxt "242841733-0-143583"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143581
+msgctxt "242841733-0-143581"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143579
+msgctxt "242841733-0-143579"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143577
+msgctxt "242841733-0-143577"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143575
+msgctxt "242841733-0-143575"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143573
+msgctxt "242841733-0-143573"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143571
+msgctxt "242841733-0-143571"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143569
+msgctxt "242841733-0-143569"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143567
+msgctxt "242841733-0-143567"
+msgid "Might of the Lost Legion Necklace"
+msgstr ""
+
+#: 242841733-0-143215
+msgctxt "242841733-0-143215"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143213
+msgctxt "242841733-0-143213"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143211
+msgctxt "242841733-0-143211"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143209
+msgctxt "242841733-0-143209"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143207
+msgctxt "242841733-0-143207"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143205
+msgctxt "242841733-0-143205"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143203
+msgctxt "242841733-0-143203"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143201
+msgctxt "242841733-0-143201"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143199
+msgctxt "242841733-0-143199"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-143197
+msgctxt "242841733-0-143197"
+msgid "Naga Shaman Necklace"
+msgstr ""
+
+#: 242841733-0-142845
+msgctxt "242841733-0-142845"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142843
+msgctxt "242841733-0-142843"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142841
+msgctxt "242841733-0-142841"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142839
+msgctxt "242841733-0-142839"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142837
+msgctxt "242841733-0-142837"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142835
+msgctxt "242841733-0-142835"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142833
+msgctxt "242841733-0-142833"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142831
+msgctxt "242841733-0-142831"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142829
+msgctxt "242841733-0-142829"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142827
+msgctxt "242841733-0-142827"
+msgid "Grave-Stake Collector Necklace"
+msgstr ""
+
+#: 242841733-0-142601
+msgctxt "242841733-0-142601"
+msgid "Bright-Throat's Boast Necklace"
+msgstr ""
+
+#: 242841733-0-142419
+msgctxt "242841733-0-142419"
+msgid "Dead-Water's Guile Necklace"
+msgstr ""
+
+#: 242841733-0-142237
+msgctxt "242841733-0-142237"
+msgid "Champion of the Hist Necklace"
+msgstr ""
+
+#: 242841733-0-141441
+msgctxt "242841733-0-141441"
+msgid "Savage Werewolf's Necklace"
+msgstr ""
+
+#: 242841733-0-141250
+msgctxt "242841733-0-141250"
+msgid "Moon Hunter Necklace"
+msgstr ""
+
+#: 242841733-0-141068
+msgctxt "242841733-0-141068"
+msgid "Jailer's Necklace"
+msgstr ""
+
+#: 242841733-0-140886
+msgctxt "242841733-0-140886"
+msgid "Blood Moon Necklace"
+msgstr ""
+
+#: 242841733-0-140695
+msgctxt "242841733-0-140695"
+msgid "Hanu's Necklace"
+msgstr ""
+
+#: 242841733-0-140513
+msgctxt "242841733-0-140513"
+msgid "Necklace of Ursus"
+msgstr ""
+
+#: 242841733-0-140215
+msgctxt "242841733-0-140215"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-140213
+msgctxt "242841733-0-140213"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-140211
+msgctxt "242841733-0-140211"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-140209
+msgctxt "242841733-0-140209"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-140208
+msgctxt "242841733-0-140208"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-140207
+msgctxt "242841733-0-140207"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-140206
+msgctxt "242841733-0-140206"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-140205
+msgctxt "242841733-0-140205"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-140204
+msgctxt "242841733-0-140204"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-140203
+msgctxt "242841733-0-140203"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-140202
+msgctxt "242841733-0-140202"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-140201
+msgctxt "242841733-0-140201"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-140200
+msgctxt "242841733-0-140200"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-140199
+msgctxt "242841733-0-140199"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-140198
+msgctxt "242841733-0-140198"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-140197
+msgctxt "242841733-0-140197"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-140196
+msgctxt "242841733-0-140196"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-140195
+msgctxt "242841733-0-140195"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-140194
+msgctxt "242841733-0-140194"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-140193
+msgctxt "242841733-0-140193"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-140192
+msgctxt "242841733-0-140192"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-140191
+msgctxt "242841733-0-140191"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-140190
+msgctxt "242841733-0-140190"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-140189
+msgctxt "242841733-0-140189"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-140188
+msgctxt "242841733-0-140188"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-140187
+msgctxt "242841733-0-140187"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-140186
+msgctxt "242841733-0-140186"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-140185
+msgctxt "242841733-0-140185"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-140184
+msgctxt "242841733-0-140184"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-140183
+msgctxt "242841733-0-140183"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-140182
+msgctxt "242841733-0-140182"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-140181
+msgctxt "242841733-0-140181"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-140180
+msgctxt "242841733-0-140180"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-140179
+msgctxt "242841733-0-140179"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-140178
+msgctxt "242841733-0-140178"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-140177
+msgctxt "242841733-0-140177"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-140176
+msgctxt "242841733-0-140176"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-140175
+msgctxt "242841733-0-140175"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-140174
+msgctxt "242841733-0-140174"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-140173
+msgctxt "242841733-0-140173"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-140172
+msgctxt "242841733-0-140172"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-140171
+msgctxt "242841733-0-140171"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-140170
+msgctxt "242841733-0-140170"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-140169
+msgctxt "242841733-0-140169"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-140168
+msgctxt "242841733-0-140168"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-140125
+msgctxt "242841733-0-140125"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-140123
+msgctxt "242841733-0-140123"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-140121
+msgctxt "242841733-0-140121"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-140119
+msgctxt "242841733-0-140119"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-140118
+msgctxt "242841733-0-140118"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-140117
+msgctxt "242841733-0-140117"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-140116
+msgctxt "242841733-0-140116"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-140115
+msgctxt "242841733-0-140115"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-140114
+msgctxt "242841733-0-140114"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-140113
+msgctxt "242841733-0-140113"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-140112
+msgctxt "242841733-0-140112"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-140111
+msgctxt "242841733-0-140111"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-140110
+msgctxt "242841733-0-140110"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-140109
+msgctxt "242841733-0-140109"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-140108
+msgctxt "242841733-0-140108"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-140107
+msgctxt "242841733-0-140107"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-140106
+msgctxt "242841733-0-140106"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-140105
+msgctxt "242841733-0-140105"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-140104
+msgctxt "242841733-0-140104"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-140103
+msgctxt "242841733-0-140103"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-140102
+msgctxt "242841733-0-140102"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-140101
+msgctxt "242841733-0-140101"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-140100
+msgctxt "242841733-0-140100"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-140099
+msgctxt "242841733-0-140099"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-140098
+msgctxt "242841733-0-140098"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-140097
+msgctxt "242841733-0-140097"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-140096
+msgctxt "242841733-0-140096"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-140095
+msgctxt "242841733-0-140095"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-140094
+msgctxt "242841733-0-140094"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-140093
+msgctxt "242841733-0-140093"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-140092
+msgctxt "242841733-0-140092"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-140091
+msgctxt "242841733-0-140091"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-140090
+msgctxt "242841733-0-140090"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-140089
+msgctxt "242841733-0-140089"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-140088
+msgctxt "242841733-0-140088"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-140087
+msgctxt "242841733-0-140087"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-140086
+msgctxt "242841733-0-140086"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-140085
+msgctxt "242841733-0-140085"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-140084
+msgctxt "242841733-0-140084"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-140083
+msgctxt "242841733-0-140083"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-140082
+msgctxt "242841733-0-140082"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-140081
+msgctxt "242841733-0-140081"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-140080
+msgctxt "242841733-0-140080"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-140079
+msgctxt "242841733-0-140079"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-140078
+msgctxt "242841733-0-140078"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-140035
+msgctxt "242841733-0-140035"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-140033
+msgctxt "242841733-0-140033"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-140031
+msgctxt "242841733-0-140031"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-140029
+msgctxt "242841733-0-140029"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-140028
+msgctxt "242841733-0-140028"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-140027
+msgctxt "242841733-0-140027"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-140026
+msgctxt "242841733-0-140026"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-140025
+msgctxt "242841733-0-140025"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-140024
+msgctxt "242841733-0-140024"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-140023
+msgctxt "242841733-0-140023"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-140022
+msgctxt "242841733-0-140022"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-140021
+msgctxt "242841733-0-140021"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-140020
+msgctxt "242841733-0-140020"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-140019
+msgctxt "242841733-0-140019"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-140018
+msgctxt "242841733-0-140018"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-140017
+msgctxt "242841733-0-140017"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-140016
+msgctxt "242841733-0-140016"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-140015
+msgctxt "242841733-0-140015"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-140014
+msgctxt "242841733-0-140014"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-140013
+msgctxt "242841733-0-140013"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-140012
+msgctxt "242841733-0-140012"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-140011
+msgctxt "242841733-0-140011"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-140010
+msgctxt "242841733-0-140010"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-140009
+msgctxt "242841733-0-140009"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-140008
+msgctxt "242841733-0-140008"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-140007
+msgctxt "242841733-0-140007"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-140006
+msgctxt "242841733-0-140006"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-140005
+msgctxt "242841733-0-140005"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-140004
+msgctxt "242841733-0-140004"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-140003
+msgctxt "242841733-0-140003"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-140002
+msgctxt "242841733-0-140002"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-140001
+msgctxt "242841733-0-140001"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-140000
+msgctxt "242841733-0-140000"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-139999
+msgctxt "242841733-0-139999"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-139998
+msgctxt "242841733-0-139998"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-139997
+msgctxt "242841733-0-139997"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-139996
+msgctxt "242841733-0-139996"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-139995
+msgctxt "242841733-0-139995"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-139994
+msgctxt "242841733-0-139994"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-139993
+msgctxt "242841733-0-139993"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-139992
+msgctxt "242841733-0-139992"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-139991
+msgctxt "242841733-0-139991"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-139990
+msgctxt "242841733-0-139990"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-139989
+msgctxt "242841733-0-139989"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-139988
+msgctxt "242841733-0-139988"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-139945
+msgctxt "242841733-0-139945"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-139943
+msgctxt "242841733-0-139943"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-139941
+msgctxt "242841733-0-139941"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-139939
+msgctxt "242841733-0-139939"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-139938
+msgctxt "242841733-0-139938"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-139937
+msgctxt "242841733-0-139937"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-139936
+msgctxt "242841733-0-139936"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-139935
+msgctxt "242841733-0-139935"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-139934
+msgctxt "242841733-0-139934"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-139933
+msgctxt "242841733-0-139933"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-139932
+msgctxt "242841733-0-139932"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-139931
+msgctxt "242841733-0-139931"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-139930
+msgctxt "242841733-0-139930"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-139929
+msgctxt "242841733-0-139929"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-139928
+msgctxt "242841733-0-139928"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-139927
+msgctxt "242841733-0-139927"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-139926
+msgctxt "242841733-0-139926"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-139925
+msgctxt "242841733-0-139925"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-139924
+msgctxt "242841733-0-139924"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-139923
+msgctxt "242841733-0-139923"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-139922
+msgctxt "242841733-0-139922"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-139921
+msgctxt "242841733-0-139921"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-139920
+msgctxt "242841733-0-139920"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-139919
+msgctxt "242841733-0-139919"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-139918
+msgctxt "242841733-0-139918"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-139917
+msgctxt "242841733-0-139917"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-139916
+msgctxt "242841733-0-139916"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-139915
+msgctxt "242841733-0-139915"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-139914
+msgctxt "242841733-0-139914"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-139913
+msgctxt "242841733-0-139913"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-139912
+msgctxt "242841733-0-139912"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-139911
+msgctxt "242841733-0-139911"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-139910
+msgctxt "242841733-0-139910"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-139909
+msgctxt "242841733-0-139909"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-139908
+msgctxt "242841733-0-139908"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-139907
+msgctxt "242841733-0-139907"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-139906
+msgctxt "242841733-0-139906"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-139905
+msgctxt "242841733-0-139905"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-139904
+msgctxt "242841733-0-139904"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-139903
+msgctxt "242841733-0-139903"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-139902
+msgctxt "242841733-0-139902"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-139901
+msgctxt "242841733-0-139901"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-139900
+msgctxt "242841733-0-139900"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-139899
+msgctxt "242841733-0-139899"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-139898
+msgctxt "242841733-0-139898"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-139855
+msgctxt "242841733-0-139855"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-139853
+msgctxt "242841733-0-139853"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-139851
+msgctxt "242841733-0-139851"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-139849
+msgctxt "242841733-0-139849"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-139848
+msgctxt "242841733-0-139848"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-139847
+msgctxt "242841733-0-139847"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-139846
+msgctxt "242841733-0-139846"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-139845
+msgctxt "242841733-0-139845"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-139844
+msgctxt "242841733-0-139844"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-139843
+msgctxt "242841733-0-139843"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-139842
+msgctxt "242841733-0-139842"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-139841
+msgctxt "242841733-0-139841"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-139840
+msgctxt "242841733-0-139840"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-139839
+msgctxt "242841733-0-139839"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-139838
+msgctxt "242841733-0-139838"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-139837
+msgctxt "242841733-0-139837"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-139836
+msgctxt "242841733-0-139836"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-139835
+msgctxt "242841733-0-139835"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-139834
+msgctxt "242841733-0-139834"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-139833
+msgctxt "242841733-0-139833"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-139832
+msgctxt "242841733-0-139832"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-139831
+msgctxt "242841733-0-139831"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-139830
+msgctxt "242841733-0-139830"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-139829
+msgctxt "242841733-0-139829"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-139828
+msgctxt "242841733-0-139828"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-139827
+msgctxt "242841733-0-139827"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-139826
+msgctxt "242841733-0-139826"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-139825
+msgctxt "242841733-0-139825"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-139824
+msgctxt "242841733-0-139824"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-139823
+msgctxt "242841733-0-139823"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-139822
+msgctxt "242841733-0-139822"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-139821
+msgctxt "242841733-0-139821"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-139820
+msgctxt "242841733-0-139820"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-139819
+msgctxt "242841733-0-139819"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-139818
+msgctxt "242841733-0-139818"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-139817
+msgctxt "242841733-0-139817"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-139816
+msgctxt "242841733-0-139816"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-139815
+msgctxt "242841733-0-139815"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-139814
+msgctxt "242841733-0-139814"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-139813
+msgctxt "242841733-0-139813"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-139812
+msgctxt "242841733-0-139812"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-139811
+msgctxt "242841733-0-139811"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-139810
+msgctxt "242841733-0-139810"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-139809
+msgctxt "242841733-0-139809"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-139808
+msgctxt "242841733-0-139808"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-139765
+msgctxt "242841733-0-139765"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-139763
+msgctxt "242841733-0-139763"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-139761
+msgctxt "242841733-0-139761"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-139759
+msgctxt "242841733-0-139759"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-139758
+msgctxt "242841733-0-139758"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-139757
+msgctxt "242841733-0-139757"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-139756
+msgctxt "242841733-0-139756"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-139755
+msgctxt "242841733-0-139755"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-139754
+msgctxt "242841733-0-139754"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-139753
+msgctxt "242841733-0-139753"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-139752
+msgctxt "242841733-0-139752"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-139751
+msgctxt "242841733-0-139751"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-139750
+msgctxt "242841733-0-139750"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-139749
+msgctxt "242841733-0-139749"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-139748
+msgctxt "242841733-0-139748"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-139747
+msgctxt "242841733-0-139747"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-139746
+msgctxt "242841733-0-139746"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-139745
+msgctxt "242841733-0-139745"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-139744
+msgctxt "242841733-0-139744"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-139743
+msgctxt "242841733-0-139743"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-139742
+msgctxt "242841733-0-139742"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-139741
+msgctxt "242841733-0-139741"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-139740
+msgctxt "242841733-0-139740"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-139739
+msgctxt "242841733-0-139739"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-139738
+msgctxt "242841733-0-139738"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-139737
+msgctxt "242841733-0-139737"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-139736
+msgctxt "242841733-0-139736"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-139735
+msgctxt "242841733-0-139735"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-139734
+msgctxt "242841733-0-139734"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-139733
+msgctxt "242841733-0-139733"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-139732
+msgctxt "242841733-0-139732"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-139731
+msgctxt "242841733-0-139731"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-139730
+msgctxt "242841733-0-139730"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-139729
+msgctxt "242841733-0-139729"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-139728
+msgctxt "242841733-0-139728"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-139727
+msgctxt "242841733-0-139727"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-139726
+msgctxt "242841733-0-139726"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-139725
+msgctxt "242841733-0-139725"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-139724
+msgctxt "242841733-0-139724"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-139723
+msgctxt "242841733-0-139723"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-139722
+msgctxt "242841733-0-139722"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-139721
+msgctxt "242841733-0-139721"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-139720
+msgctxt "242841733-0-139720"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-139719
+msgctxt "242841733-0-139719"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-139718
+msgctxt "242841733-0-139718"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 228378404-0-139663
+msgctxt "228378404-0-139663"
+msgid "This necklace is intended to be researched at a Jewelry Crafting station. By researching it, you can learn the Bloodthirsty Trait for Necklaces."
+msgstr ""
+
+#: 242841733-0-139406
+msgctxt "242841733-0-139406"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-139405
+msgctxt "242841733-0-139405"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-139404
+msgctxt "242841733-0-139404"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-139403
+msgctxt "242841733-0-139403"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-139402
+msgctxt "242841733-0-139402"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 242841733-0-138797
+msgctxt "242841733-0-138797"
+msgid "necklace"
+msgstr "목걸이"
+
+#: 228378404-0-138789
+msgctxt "228378404-0-138789"
+msgid "A coral necklace that is strangely cold to the touch."
+msgstr ""
+
+#: 242841733-0-138734
+msgctxt "242841733-0-138734"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-138732
+msgctxt "242841733-0-138732"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-138730
+msgctxt "242841733-0-138730"
+msgid "Nocturnal's Favored Necklace"
+msgstr ""
+
+#: 242841733-0-138728
+msgctxt "242841733-0-138728"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-138726
+msgctxt "242841733-0-138726"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-138724
+msgctxt "242841733-0-138724"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-138722
+msgctxt "242841733-0-138722"
+msgid "Sload's Necklace"
+msgstr ""
+
+#: 242841733-0-138720
+msgctxt "242841733-0-138720"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-138718
+msgctxt "242841733-0-138718"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-138716
+msgctxt "242841733-0-138716"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-138714
+msgctxt "242841733-0-138714"
+msgid "Adept Rider's Necklace"
+msgstr ""
+
+#: 242841733-0-138520
+msgctxt "242841733-0-138520"
+msgid "Olorime's Perfect Necklace"
+msgstr ""
+
+#: 242841733-0-138329
+msgctxt "242841733-0-138329"
+msgid "Siroria's Perfect Necklace"
+msgstr ""
+
+#: 242841733-0-138147
+msgctxt "242841733-0-138147"
+msgid "Relequen's Perfect Necklace"
+msgstr ""
+
+#: 242841733-0-137965
+msgctxt "242841733-0-137965"
+msgid "Galenwe's Perfect Necklace"
+msgstr ""
+
+#: 242841733-0-137850
+msgctxt "242841733-0-137850"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-137849
+msgctxt "242841733-0-137849"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-137848
+msgctxt "242841733-0-137848"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-137847
+msgctxt "242841733-0-137847"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-137846
+msgctxt "242841733-0-137846"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-137845
+msgctxt "242841733-0-137845"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-137844
+msgctxt "242841733-0-137844"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-137843
+msgctxt "242841733-0-137843"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-137842
+msgctxt "242841733-0-137842"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-137841
+msgctxt "242841733-0-137841"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-137840
+msgctxt "242841733-0-137840"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-137839
+msgctxt "242841733-0-137839"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-137838
+msgctxt "242841733-0-137838"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-137837
+msgctxt "242841733-0-137837"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-137836
+msgctxt "242841733-0-137836"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-137835
+msgctxt "242841733-0-137835"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-137834
+msgctxt "242841733-0-137834"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-137833
+msgctxt "242841733-0-137833"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-137832
+msgctxt "242841733-0-137832"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-137831
+msgctxt "242841733-0-137831"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-137830
+msgctxt "242841733-0-137830"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-137829
+msgctxt "242841733-0-137829"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-137828
+msgctxt "242841733-0-137828"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-137827
+msgctxt "242841733-0-137827"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-137826
+msgctxt "242841733-0-137826"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-137825
+msgctxt "242841733-0-137825"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-137824
+msgctxt "242841733-0-137824"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-137823
+msgctxt "242841733-0-137823"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-137822
+msgctxt "242841733-0-137822"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-137821
+msgctxt "242841733-0-137821"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-137820
+msgctxt "242841733-0-137820"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-137819
+msgctxt "242841733-0-137819"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-137818
+msgctxt "242841733-0-137818"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-137817
+msgctxt "242841733-0-137817"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-137816
+msgctxt "242841733-0-137816"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-137815
+msgctxt "242841733-0-137815"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-137814
+msgctxt "242841733-0-137814"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-137813
+msgctxt "242841733-0-137813"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-137812
+msgctxt "242841733-0-137812"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-137811
+msgctxt "242841733-0-137811"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-137810
+msgctxt "242841733-0-137810"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-137809
+msgctxt "242841733-0-137809"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-137808
+msgctxt "242841733-0-137808"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-137807
+msgctxt "242841733-0-137807"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-137806
+msgctxt "242841733-0-137806"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-137805
+msgctxt "242841733-0-137805"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-137804
+msgctxt "242841733-0-137804"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-137803
+msgctxt "242841733-0-137803"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-137802
+msgctxt "242841733-0-137802"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-137801
+msgctxt "242841733-0-137801"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-137800
+msgctxt "242841733-0-137800"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-137799
+msgctxt "242841733-0-137799"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-137798
+msgctxt "242841733-0-137798"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-137797
+msgctxt "242841733-0-137797"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-137796
+msgctxt "242841733-0-137796"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-137795
+msgctxt "242841733-0-137795"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-137794
+msgctxt "242841733-0-137794"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-137793
+msgctxt "242841733-0-137793"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-137792
+msgctxt "242841733-0-137792"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-137791
+msgctxt "242841733-0-137791"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-137790
+msgctxt "242841733-0-137790"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-137789
+msgctxt "242841733-0-137789"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-137788
+msgctxt "242841733-0-137788"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-137787
+msgctxt "242841733-0-137787"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-137786
+msgctxt "242841733-0-137786"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-137785
+msgctxt "242841733-0-137785"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-137784
+msgctxt "242841733-0-137784"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-137783
+msgctxt "242841733-0-137783"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-137782
+msgctxt "242841733-0-137782"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-137781
+msgctxt "242841733-0-137781"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-137780
+msgctxt "242841733-0-137780"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-137779
+msgctxt "242841733-0-137779"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-137778
+msgctxt "242841733-0-137778"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-137777
+msgctxt "242841733-0-137777"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-137776
+msgctxt "242841733-0-137776"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-137775
+msgctxt "242841733-0-137775"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-137774
+msgctxt "242841733-0-137774"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-137773
+msgctxt "242841733-0-137773"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-137772
+msgctxt "242841733-0-137772"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-137771
+msgctxt "242841733-0-137771"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-137770
+msgctxt "242841733-0-137770"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-137769
+msgctxt "242841733-0-137769"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-137768
+msgctxt "242841733-0-137768"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-137767
+msgctxt "242841733-0-137767"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-137766
+msgctxt "242841733-0-137766"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-137765
+msgctxt "242841733-0-137765"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-137764
+msgctxt "242841733-0-137764"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-137763
+msgctxt "242841733-0-137763"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-137762
+msgctxt "242841733-0-137762"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-137761
+msgctxt "242841733-0-137761"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-137760
+msgctxt "242841733-0-137760"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-137759
+msgctxt "242841733-0-137759"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-137758
+msgctxt "242841733-0-137758"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-137757
+msgctxt "242841733-0-137757"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-137756
+msgctxt "242841733-0-137756"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-137755
+msgctxt "242841733-0-137755"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-137754
+msgctxt "242841733-0-137754"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-137753
+msgctxt "242841733-0-137753"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-137752
+msgctxt "242841733-0-137752"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-137751
+msgctxt "242841733-0-137751"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-137750
+msgctxt "242841733-0-137750"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-137749
+msgctxt "242841733-0-137749"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-137748
+msgctxt "242841733-0-137748"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-137747
+msgctxt "242841733-0-137747"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-137746
+msgctxt "242841733-0-137746"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-137745
+msgctxt "242841733-0-137745"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-137744
+msgctxt "242841733-0-137744"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-137743
+msgctxt "242841733-0-137743"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-137742
+msgctxt "242841733-0-137742"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-137741
+msgctxt "242841733-0-137741"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-137740
+msgctxt "242841733-0-137740"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-137739
+msgctxt "242841733-0-137739"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-137738
+msgctxt "242841733-0-137738"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-137737
+msgctxt "242841733-0-137737"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-137736
+msgctxt "242841733-0-137736"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-137735
+msgctxt "242841733-0-137735"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-137734
+msgctxt "242841733-0-137734"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-137733
+msgctxt "242841733-0-137733"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-137732
+msgctxt "242841733-0-137732"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-137731
+msgctxt "242841733-0-137731"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-137730
+msgctxt "242841733-0-137730"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-137729
+msgctxt "242841733-0-137729"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-137728
+msgctxt "242841733-0-137728"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-137727
+msgctxt "242841733-0-137727"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-137726
+msgctxt "242841733-0-137726"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-137725
+msgctxt "242841733-0-137725"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-137724
+msgctxt "242841733-0-137724"
+msgid "Necklace of Mechanical Acuity"
+msgstr ""
+
+#: 242841733-0-137723
+msgctxt "242841733-0-137723"
+msgid "Fortified Brass Necklace"
+msgstr ""
+
+#: 242841733-0-137722
+msgctxt "242841733-0-137722"
+msgid "Innate Axiom Necklace"
+msgstr ""
+
+#: 242841733-0-137721
+msgctxt "242841733-0-137721"
+msgid "Shacklebreaker Necklace"
+msgstr ""
+
+#: 242841733-0-137720
+msgctxt "242841733-0-137720"
+msgid "Necklace of Daedric Trickery"
+msgstr ""
+
+#: 242841733-0-137719
+msgctxt "242841733-0-137719"
+msgid "Assassin's Necklace"
+msgstr ""
+
+#: 242841733-0-137718
+msgctxt "242841733-0-137718"
+msgid "Pelinal's Necklace"
+msgstr ""
+
+#: 242841733-0-137717
+msgctxt "242841733-0-137717"
+msgid "Necklace of Varen's Legacy"
+msgstr ""
+
+#: 242841733-0-137716
+msgctxt "242841733-0-137716"
+msgid "Gladiator's Necklace"
+msgstr ""
+
+#: 242841733-0-137715
+msgctxt "242841733-0-137715"
+msgid "Eternal Hunt Necklace"
+msgstr ""
+
+#: 242841733-0-137714
+msgctxt "242841733-0-137714"
+msgid "Clever Alchemist Necklace"
+msgstr ""
+
+#: 242841733-0-137713
+msgctxt "242841733-0-137713"
+msgid "Necklace of Tava's Favor"
+msgstr ""
+
+#: 242841733-0-137712
+msgctxt "242841733-0-137712"
+msgid "Necklace of Morkuldin"
+msgstr ""
+
+#: 242841733-0-137711
+msgctxt "242841733-0-137711"
+msgid "Necklace of the Code"
+msgstr ""
+
+#: 242841733-0-137710
+msgctxt "242841733-0-137710"
+msgid "Necklace of Trials"
+msgstr ""
+
+#: 242841733-0-137709
+msgctxt "242841733-0-137709"
+msgid "Necklace of Julianos"
+msgstr ""
+
+#: 242841733-0-137708
+msgctxt "242841733-0-137708"
+msgid "Necklace of the Armor Master"
+msgstr ""
+
+#: 242841733-0-137707
+msgctxt "242841733-0-137707"
+msgid "Necklace of Redistribution"
+msgstr ""
+
+#: 242841733-0-137706
+msgctxt "242841733-0-137706"
+msgid "Necklace of the Noble's Conquest"
+msgstr ""
+
+#: 242841733-0-137705
+msgctxt "242841733-0-137705"
+msgid "Necklace of the Twice-Born Star"
+msgstr ""
+
+#: 242841733-0-137704
+msgctxt "242841733-0-137704"
+msgid "Necklace of the Arena"
+msgstr ""
+
+#: 242841733-0-137703
+msgctxt "242841733-0-137703"
+msgid "Necklace of Shalidor's Curse"
+msgstr ""
+
+#: 242841733-0-137702
+msgctxt "242841733-0-137702"
+msgid "Necklace of Kagrenac's Hope"
+msgstr ""
+
+#: 242841733-0-137701
+msgctxt "242841733-0-137701"
+msgid "Necklace of the Eyes of Mara"
+msgstr ""
+
+#: 242841733-0-137700
+msgctxt "242841733-0-137700"
+msgid "Necklace of Orgnum's Scales"
+msgstr ""
+
+#: 242841733-0-137699
+msgctxt "242841733-0-137699"
+msgid "Necklace of Alessia's Bulwark"
+msgstr ""
+
+#: 242841733-0-137698
+msgctxt "242841733-0-137698"
+msgid "Necklace of the Song of Lamae"
+msgstr ""
+
+#: 242841733-0-137697
+msgctxt "242841733-0-137697"
+msgid "Necklace of Hunding's Rage"
+msgstr "Hunding's Rage: 목걸이"
+
+#: 242841733-0-137696
+msgctxt "242841733-0-137696"
+msgid "Necklace of the Willow's Path"
+msgstr ""
+
+#: 242841733-0-137695
+msgctxt "242841733-0-137695"
+msgid "Necklace of Hist Bark"
+msgstr ""
+
+#: 242841733-0-137694
+msgctxt "242841733-0-137694"
+msgid "Necklace of Torug's Pact"
+msgstr ""
+
+#: 242841733-0-137693
+msgctxt "242841733-0-137693"
+msgid "Necklace of the Spectre's Eye"
+msgstr ""
+
+#: 242841733-0-137692
+msgctxt "242841733-0-137692"
+msgid "Necklace of Oblivion's Foe"
+msgstr ""
+
+#: 242841733-0-137691
+msgctxt "242841733-0-137691"
+msgid "Necklace of Ashen Grip"
+msgstr ""
+
+#: 242841733-0-137690
+msgctxt "242841733-0-137690"
+msgid "Necklace of the Night Mother"
+msgstr ""
+
+#: 242841733-0-137689
+msgctxt "242841733-0-137689"
+msgid "Magnus' Necklace"
+msgstr ""
+
+#: 242841733-0-137688
+msgctxt "242841733-0-137688"
+msgid "Necklace of Vampire's Kiss"
+msgstr ""
+
+#: 242841733-0-137687
+msgctxt "242841733-0-137687"
+msgid "Necklace of the Seducer"
+msgstr ""
+
+#: 242841733-0-137686
+msgctxt "242841733-0-137686"
+msgid "Whitestrake's Necklace"
+msgstr ""
+
+#: 242841733-0-137685
+msgctxt "242841733-0-137685"
+msgid "Necklace of Night's Silence"
+msgstr ""
+
+#: 242841733-0-137684
+msgctxt "242841733-0-137684"
+msgid "Necklace of Twilight's Embrace"
+msgstr ""
+
+#: 242841733-0-137683
+msgctxt "242841733-0-137683"
+msgid "Necklace of Death's Wind"
+msgstr ""
+
+#: 242841733-0-137323
+msgctxt "242841733-0-137323"
+msgid "Olorime's Necklace"
+msgstr ""
+
+#: 242841733-0-137132
+msgctxt "242841733-0-137132"
+msgid "Siroria's Necklace"
+msgstr ""
+
+#: 242841733-0-136950
+msgctxt "242841733-0-136950"
+msgid "Relequen's Necklace"
+msgstr ""
+
+#: 242841733-0-136768
+msgctxt "242841733-0-136768"
+msgid "Galenwe's Necklace"
+msgstr ""
+
+#: 242841733-0-135527
+msgctxt "242841733-0-135527"
+msgid "Vanus's Necklace"
+msgstr ""
+
+#: 242841733-0-135345
+msgctxt "242841733-0-135345"
+msgid "Gryphon's Necklace"
+msgstr ""
+
+#: 242841733-0-135163
+msgctxt "242841733-0-135163"
+msgid "Gloom-Graced Necklace"
+msgstr ""
+
+#: 242841733-0-134723
+msgctxt "242841733-0-134723"
+msgid "Heartless Widow's Locket"
+msgstr ""
+
+#: 242841733-0-133601
+msgctxt "242841733-0-133601"
+msgid "Necklace of Unfathomable Darkness"
+msgstr ""
+
+#: 242841733-0-133599
+msgctxt "242841733-0-133599"
+msgid "Mad Tinkerer's Necklace"
+msgstr ""
+
+#: 242841733-0-133597
+msgctxt "242841733-0-133597"
+msgid "Livewire Necklace"
+msgstr ""
+
+#: 242841733-0-133040
+msgctxt "242841733-0-133040"
+msgid "Necklace of Unfathomable Darkness"
+msgstr "Unfathomable Darkness: 불가해한 어둠의 목걸이"
+
+#: 242841733-0-132849
+msgctxt "242841733-0-132849"
+msgid "Mad Tinkerer's Necklace"
+msgstr "Mad Tinkerer: 목걸이"
+
+#: 242841733-0-132667
+msgctxt "242841733-0-132667"
+msgid "Livewire Necklace"
+msgstr "Livewire: 목걸이"
+
+#: 242841733-0-129301
+msgctxt "242841733-0-129301"
+msgid "Plague Slinger Necklace"
+msgstr "Plague Slinger: 역병투척꾼 목걸이"
+
+#: 242841733-0-129110
+msgctxt "242841733-0-129110"
+msgid "Jorvuld's Guidance Necklace"
+msgstr "Jorvuld: 조르불드의 인도 목걸이"
+
+#: 242841733-0-128928
+msgctxt "242841733-0-128928"
+msgid "Curse of Doylemish Necklace"
+msgstr "Doylemish: 돌레미쉬의 저주 목걸이"
+
+#: 242841733-0-128746
+msgctxt "242841733-0-128746"
+msgid "Trappings Of Invigoration Necklace"
+msgstr "Trappings: 활력과시의 목걸이"
+
+#: 242841733-0-128555
+msgctxt "242841733-0-128555"
+msgid "Caluurion's Legacy Necklace"
+msgstr "Caluurion: 칼루리온의 유물 목걸이"
+
+#: 242841733-0-128373
+msgctxt "242841733-0-128373"
+msgid "Ulfnor's Favor Necklace"
+msgstr "Ulfnor's Favor: 목걸이"
+
+#: 242841733-0-128127
+msgctxt "242841733-0-128127"
+msgid "Blooddrinker Necklace"
+msgstr "Blooddrinker: 목걸이"
+
+#: 242841733-0-127936
+msgctxt "242841733-0-127936"
+msgid "Flame Blossom Necklace"
+msgstr "Flame Blossom: 목걸이"
+
+#: 242841733-0-127754
+msgctxt "242841733-0-127754"
+msgid "Hagraven's Garden Necklace"
+msgstr "Hagraven: 헤그레이븐의 정원 목걸이"
+
+#: 242841733-0-127524
+msgctxt "242841733-0-127524"
+msgid "Pillar Of Nirn Necklace"
+msgstr "Pillar Of Nirn: 목걸이"
+
+#: 242841733-0-127333
+msgctxt "242841733-0-127333"
+msgid "Draugr's Rest Necklace"
+msgstr "Draugr's Rest: 드라우그의 목걸이"
+
+#: 242841733-0-127151
+msgctxt "242841733-0-127151"
+msgid "Ironblood Necklace"
+msgstr "Ironblood: 목걸이"
+
+#: 242841733-0-126832
+msgctxt "242841733-0-126832"
+msgid "Heirloom Necklace"
+msgstr "Heirloom: 목걸이"
+
+#: 242841733-0-126079
+msgctxt "242841733-0-126079"
+msgid "Seal of Hleran"
+msgstr ""
+
+#: 242841733-0-126077
+msgctxt "242841733-0-126077"
+msgid "The Scarlet Necklace"
+msgstr "The Scarlet: 목걸이"
+
+#: 228378404-0-1258
+msgctxt "228378404-0-1258"
+msgid "This amulet hums with restrained power."
+msgstr "이 아뮬렛은 억제된 힘으로 울림니다."
+
+#: 242841733-0-125692
+msgctxt "242841733-0-125692"
+msgid "Impregnable Armor Necklace"
+msgstr ""
+
+#: 242841733-0-125690
+#, fuzzy
+msgctxt "242841733-0-125690"
+msgid "Impregnable Armor Necklace"
+msgstr "Impregnable Armor: 목걸이"
+
+#: 242841733-0-124468
+#, fuzzy
+msgctxt "242841733-0-124468"
+msgid "Inventor's Guard Necklace"
+msgstr "Inventor's Guard: 발명가의 목걸이"
+
+#: 242841733-0-124277
+#, fuzzy
+msgctxt "242841733-0-124277"
+msgid "Master Architect Necklace"
+msgstr "Master Architect: 목걸이"
+
+#: 242841733-0-124095
+#, fuzzy
+msgctxt "242841733-0-124095"
+msgid "War Machine Necklace"
+msgstr "War Machine: 목걸이"
+
+#: 242841733-0-123913
+#, fuzzy
+msgctxt "242841733-0-123913"
+msgid "Automated Defense Necklace"
+msgstr "Automated Defense: 목걸이"
+
+#: 242841733-0-123722
+#, fuzzy
+msgctxt "242841733-0-123722"
+msgid "Wizard's Riposte Necklace"
+msgstr "Wizard's Riposte: 마법사의 응수 목걸이"
+
+#: 242841733-0-123531
+#, fuzzy
+msgctxt "242841733-0-123531"
+msgid "Knight Slayer Necklace"
+msgstr "Knight Slayer: 목걸이"
+
+#: 242841733-0-123349
+#, fuzzy
+msgctxt "242841733-0-123349"
+msgid "Coward's Gear Necklace"
+msgstr "Coward's Gear: 겁쟁이의 목걸이"
+
+#: 242841733-0-123167
+#, fuzzy
+msgctxt "242841733-0-123167"
+msgid "Vanguard's Challenge Necklace"
+msgstr "Vanguard's Challenge: 선봉대원 목걸이"
+
+#: 242841733-0-122984
+msgctxt "242841733-0-122984"
+msgid "Defiler's Necklace"
+msgstr "Defiler: 모독자의 목걸이"
+
+#: 242841733-0-122793
+msgctxt "242841733-0-122793"
+msgid "War Maiden's Necklace"
+msgstr "War Maiden: 목걸이"
+
+#: 242841733-0-122611
+msgctxt "242841733-0-122611"
+msgid "Warrior-Poet's Necklace"
+msgstr "Warrior-Poet: 시인전사의 목걸이"
+
+#: 242841733-0-117642
+msgctxt "242841733-0-117642"
+msgid "Necklace of the Shield Breaker"
+msgstr ""
+
+#: 242841733-0-117640
+msgctxt "242841733-0-117640"
+msgid "Reactive Necklace"
+msgstr ""
+
+#: 242841733-0-117638
+msgctxt "242841733-0-117638"
+msgid "Necklace of the Powerful Assault"
+msgstr ""
+
+#: 242841733-0-117636
+msgctxt "242841733-0-117636"
+msgid "Necklace of the Phoenix"
+msgstr ""
+
+#: 242841733-0-117634
+msgctxt "242841733-0-117634"
+msgid "Necklace of Meritorious Service"
+msgstr ""
+
+#: 242841733-0-117452
+msgctxt "242841733-0-117452"
+msgid "Necklace of the Shield Breaker"
+msgstr "Shield Breaker: 목걸이"
+
+#: 242841733-0-117270
+msgctxt "242841733-0-117270"
+msgid "Reactive Necklace"
+msgstr "Reactive: 목걸이"
+
+#: 242841733-0-117088
+msgctxt "242841733-0-117088"
+msgid "Necklace of the Powerful Assault"
+msgstr "Powerful Assault: 목걸이"
+
+#: 242841733-0-116897
+msgctxt "242841733-0-116897"
+msgid "Necklace of the Phoenix"
+msgstr "The Phoenix: 목걸이"
+
+#: 242841733-0-116706
+msgctxt "242841733-0-116706"
+msgid "Necklace of Meritorious Service"
+msgstr "Meritorious Service: 목걸이"
+
+#: 242841733-0-116524
+msgctxt "242841733-0-116524"
+msgid "Necklace of the Black Rose"
+msgstr ""
+
+#: 242841733-0-116520
+msgctxt "242841733-0-116520"
+msgid "Necklace of the Black Rose"
+msgstr "Black Rose: 목걸이"
+
+#: 242841733-0-114652
+msgctxt "242841733-0-114652"
+msgid "Necklace of Syvarra's Scales"
+msgstr ""
+
+#: 242841733-0-114461
+msgctxt "242841733-0-114461"
+msgid "Necklace of Bahraha's Curse"
+msgstr ""
+
+#: 228378404-0-114285
+msgctxt "228378404-0-114285"
+msgid "This delicate, gold-chased cameo depicts the goddess Mara and is a traditional Imperial wedding gift."
+msgstr ""
+
+#: 242841733-0-113745
+msgctxt "242841733-0-113745"
+msgid "Necklace of the Two-Fanged Snake"
+msgstr ""
+
+#: 242841733-0-113554
+msgctxt "242841733-0-113554"
+msgid "Aether Necklace of Strategy"
+msgstr "Strategy: 천공 목걸이"
+
+#: 242841733-0-113372
+msgctxt "242841733-0-113372"
+msgid "Necklace of the Advancing Yokeda"
+msgstr ""
+
+#: 242841733-0-113190
+msgctxt "242841733-0-113190"
+msgid "Ophidian Necklace of Venom"
+msgstr ""
+
+#: 242841733-0-112999
+msgctxt "242841733-0-112999"
+msgid "Aether Necklace of Destruction"
+msgstr "Destruction: 천공 목걸이"
+
+#: 242841733-0-112817
+msgctxt "242841733-0-112817"
+msgid "Necklace of the Resilient Yokeda"
+msgstr ""
+
+#: 242841733-0-112635
+msgctxt "242841733-0-112635"
+msgid "Ophidian Necklace of Celerity"
+msgstr "Ophidian Celerity: 오피디아인의 목걸이"
+
+#: 242841733-0-112444
+msgctxt "242841733-0-112444"
+msgid "Necklace of Mending"
+msgstr "Mending: 목걸이"
+
+#: 242841733-0-112244
+msgctxt "242841733-0-112244"
+msgid "Necklace of the Imperium"
+msgstr "The Imperium: 목걸이"
+
+#: 242841733-0-112062
+msgctxt "242841733-0-112062"
+msgid "Necklace of the Essence Thief"
+msgstr "Essence Thief: 목걸이"
+
+#: 242841733-0-111871
+msgctxt "242841733-0-111871"
+msgid "Spell Power Cure Necklace"
+msgstr "Spell Power Cure: 목걸이"
+
+#: 242841733-0-111689
+msgctxt "242841733-0-111689"
+msgid "Necklace of Leeching"
+msgstr "Leeching: 목걸이"
+
+#: 242841733-0-111507
+msgctxt "242841733-0-111507"
+msgid "Necklace of Sheer Venom"
+msgstr "Sheer Venom: 목걸이"
+
+#: 242841733-0-111316
+msgctxt "242841733-0-111316"
+msgid "Necklace of the Scathing Mage"
+msgstr "Scathing Mage: 목걸이"
+
+#: 242841733-0-111134
+msgctxt "242841733-0-111134"
+msgid "Rattlecage Necklace"
+msgstr "Rattlecage: 목걸이"
+
+#: 242841733-0-110952
+msgctxt "242841733-0-110952"
+msgid "Necklace of Oblivion"
+msgstr "Oblivion: 목걸이"
+
+#: 242841733-0-110761
+msgctxt "242841733-0-110761"
+msgid "Necklace of the Worm Cult"
+msgstr "Worm Cult: 목걸이"
+
+#: 242841733-0-110579
+msgctxt "242841733-0-110579"
+msgid "Jolting Necklace"
+msgstr "Jolting: 목걸이"
+
+#: 242841733-0-110397
+msgctxt "242841733-0-110397"
+msgid "Storm Master's Necklace"
+msgstr "Storm Master: 폭풍대가의 목걸이"
+
+#: 242841733-0-110206
+msgctxt "242841733-0-110206"
+msgid "Overwhelming Necklace"
+msgstr "Overwhelming: 목걸이"
+
+#: 228378404-0-1102
+msgctxt "228378404-0-1102"
+msgid "Lady Eloise awarded this pendant for recovering her lockbox from the Red Rook Bandits."
+msgstr "레이디 Eloise가 붉은 떼까마귀 도적단에게서 금고를 회수해준 대가로 이 목걸이를 주었습니다."
+
+#: 242841733-0-11000
+msgctxt "242841733-0-11000"
+msgid "Jorunn's Commendation"
+msgstr ""
+
+#: 242841733-0-10997
+msgctxt "242841733-0-10997"
+msgid "Odvild's Pendant"
+msgstr "Odvild의 펜던트"
+
+#: 242841733-0-109833
+msgctxt "242841733-0-109833"
+msgid "Necklace of the Noble Duelist"
+msgstr ""
+
+#: 242841733-0-109651
+msgctxt "242841733-0-109651"
+msgid "Necklace of Durok's Bane"
+msgstr ""
+
+#: 242841733-0-109460
+msgctxt "242841733-0-109460"
+msgid "Necklace of the Warlock"
+msgstr ""
+
+#: 228378404-0-10930
+msgctxt "228378404-0-10930"
+msgid "Each link is like forged moonlight, lustrous in light, dim and shadowed elsewise."
+msgstr "목걸이의 각 고리가 마치 달빛으로 제련된 것 같습니다. 빛 속에서는 윤기가 흐르고, 어둑하고 그림자 진 곳에서는 다르게 보입니다."
+
+#: 242841733-0-109096
+msgctxt "242841733-0-109096"
+msgid "Necklace of the Crusader"
+msgstr ""
+
+#: 242841733-0-10898
+msgctxt "242841733-0-10898"
+msgid "Circlet of the Wooded Eye"
+msgstr "삼림의 눈 목걸이"
+
+#: 242841733-0-108914
+msgctxt "242841733-0-108914"
+msgid "Necklace of Truth"
+msgstr ""
+
+#: 242841733-0-108732
+msgctxt "242841733-0-108732"
+msgid "Necklace of the Sergeant"
+msgstr ""
+
+#: 242841733-0-108550
+msgctxt "242841733-0-108550"
+msgid "Barkskin Necklace"
+msgstr ""
+
+#: 242841733-0-10839
+msgctxt "242841733-0-10839"
+msgid "Amulet of the Alchemist"
+msgstr "연금술사의 아뮬렛"
+
+#: 242841733-0-108368
+msgctxt "242841733-0-108368"
+msgid "Necklace of the Dreugh King Slayer"
+msgstr "Dreugh King Slayer: 목걸이"
+
+#: 242841733-0-108186
+msgctxt "242841733-0-108186"
+msgid "Necklace of the Viper"
+msgstr "The Viper[1]: 목걸이"
+
+#: 242841733-0-108004
+msgctxt "242841733-0-108004"
+msgid "Necklace of the Knightmare"
+msgstr "The Knightmare: 목걸이"
+
+#: 242841733-0-107813
+msgctxt "242841733-0-107813"
+msgid "Necklace of Prayer"
+msgstr ""
+
+#: 242841733-0-107631
+msgctxt "242841733-0-107631"
+msgid "Knight-Errant's Necklace"
+msgstr "Knight-Errant: 편력기사의 목걸이"
+
+#: 242841733-0-107449
+msgctxt "242841733-0-107449"
+msgid "Bone Pirate's Necklace"
+msgstr "Bone Pirate: 뼈다귀 해적의 목걸이"
+
+#: 242841733-0-107258
+msgctxt "242841733-0-107258"
+msgid "Necklace of the Undaunted Unweaver"
+msgstr "Undaunted Unweaver: 목걸이"
+
+#: 242841733-0-107076
+msgctxt "242841733-0-107076"
+msgid "Hulking Draugr's Necklace"
+msgstr "Hulking Draugr: 거대 드로거의 목걸이"
+
+#: 242841733-0-106885
+msgctxt "242841733-0-106885"
+msgid "Necklace of the Magicka Furnace"
+msgstr ""
+
+#: 242841733-0-106703
+msgctxt "242841733-0-106703"
+msgid "Necklace of Medusa"
+msgstr "Medusa: 목걸이"
+
+#: 242841733-0-106521
+msgctxt "242841733-0-106521"
+msgid "Necklace of the Undaunted Infiltrator"
+msgstr "Undaunted Infiltrator: 목걸이"
+
+#: 242841733-0-106330
+msgctxt "242841733-0-106330"
+msgid "Lamia's Necklace"
+msgstr "Lamia: 라미아의 목걸이"
+
+#: 242841733-0-106148
+msgctxt "242841733-0-106148"
+msgid "Ebon Necklace"
+msgstr ""
+
+#: 242841733-0-105966
+msgctxt "242841733-0-105966"
+msgid "Leviathan Necklace"
+msgstr "Leviathan: 레비아탄의 목걸이"
+
+#: 242841733-0-105775
+msgctxt "242841733-0-105775"
+msgid "Necklace of the Lich"
+msgstr "The Lich: 목걸이"
+
+#: 242841733-0-105593
+msgctxt "242841733-0-105593"
+msgid "Duneripper Necklace"
+msgstr "Duneripper: 목걸이"
+
+#: 242841733-0-105402
+msgctxt "242841733-0-105402"
+msgid "Treasure Hunter's Necklace"
+msgstr "Treasure Hunter: 보물사냥꾼의 목걸이"
+
+#: 242841733-0-105220
+msgctxt "242841733-0-105220"
+msgid "Sword Dancer's Necklace"
+msgstr "Sword Dancer: 소드댄서의 목걸이"
+
+#: 242841733-0-105038
+msgctxt "242841733-0-105038"
+msgid "Hircine's Necklace"
+msgstr ""
+
+#: 242841733-0-104856
+msgctxt "242841733-0-104856"
+msgid "Embershield Necklace"
+msgstr "Embershield: 목걸이"
+
+#: 242841733-0-104674
+msgctxt "242841733-0-104674"
+msgid "Sunderflame Necklace"
+msgstr "Sunderflame: 목걸이"
+
+#: 242841733-0-104483
+msgctxt "242841733-0-104483"
+msgid "Burning Spellweave Necklace"
+msgstr "Burning Spellweave: 목걸이"
+
+#: 242841733-0-104301
+msgctxt "242841733-0-104301"
+msgid "Automaton's Necklace"
+msgstr "Automaton: 오토마톤의 목걸이"
+
+#: 242841733-0-104110
+msgctxt "242841733-0-104110"
+msgid "Necklace of the Netch's Touch"
+msgstr "Netch's Touch: 목걸이"
+
+#: 242841733-0-103928
+msgctxt "242841733-0-103928"
+msgid "Toothrow Necklace"
+msgstr "Toothrow: 목걸이"
+
+#: 242841733-0-103737
+msgctxt "242841733-0-103737"
+msgid "Necklace of the Combat Physician"
+msgstr "Combat Physician: 목걸이"
+
+#: 242841733-0-103555
+msgctxt "242841733-0-103555"
+msgid "Necklace of the Undaunted Bastion"
+msgstr "Undaunted Bastion: 목걸이"
+
+#: 242841733-0-103364
+msgctxt "242841733-0-103364"
+msgid "Light Speaker's Necklace"
+msgstr "Light Speaker: 목걸이"
+
+#: 242841733-0-103173
+msgctxt "242841733-0-103173"
+msgid "Spider Cultist's Necklace"
+msgstr "Spider Cultist: 목걸이"
+
+#: 242841733-0-102991
+msgctxt "242841733-0-102991"
+msgid "Spelunker's Necklace"
+msgstr "Spelunker: 스필렁커의 목걸이"
+
+#: 242841733-0-102809
+msgctxt "242841733-0-102809"
+msgid "Necklace of the Tormentor"
+msgstr "The Tormentor: 목걸이"
+
+#: 242841733-0-102627
+msgctxt "242841733-0-102627"
+msgid "Jailbreaker Necklace"
+msgstr "Jailbreaker: 목걸이"
+
+#: 242841733-0-102436
+msgctxt "242841733-0-102436"
+msgid "Necklace of Sanctuary"
+msgstr "Sanctuary: 성역의 목걸이"
+
+#: 242841733-0-102254
+msgctxt "242841733-0-102254"
+msgid "Blessed Necklace"
+msgstr "Blessed: 목걸이"
+
+#: 242841733-0-102072
+msgctxt "242841733-0-102072"
+msgid "Stygian Necklace"
+msgstr "Stygian: 목걸이"
+
+#: 242841733-0-101881
+msgctxt "242841733-0-101881"
+msgid "Prisoner's Necklace"
+msgstr "Prisoner: 수감자의 목걸이"
+
+#: 242841733-0-101698
+msgctxt "242841733-0-101698"
+msgid "Necklace of Draugr Heritage"
+msgstr "Draugr Heritage: 목걸이"
+
+#: 242841733-0-101516
+msgctxt "242841733-0-101516"
+msgid "Witchman's Necklace"
+msgstr "Witchman: 부족주술사의 목걸이"
+
+#: 242841733-0-101325
+msgctxt "242841733-0-101325"
+msgid "Ysgramor's Necklace"
+msgstr "Ysgramor: 이스그라모어의 목걸이"
+
+#: 242841733-0-101143
+msgctxt "242841733-0-101143"
+msgid "Necklace of Soulshine"
+msgstr "Soulshine: 목걸이"
+
+#: 242841733-0-100952
+msgctxt "242841733-0-100952"
+msgid "Smuggler's Necklace"
+msgstr "Smuggler: 밀수업자의 목걸이"
+
+#: 242841733-0-100770
+msgctxt "242841733-0-100770"
+msgid "Seventh Legion's Necklace"
+msgstr "Seventh Legion: 칠군단 목걸이"
+
+#: 242841733-0-10067
+msgctxt "242841733-0-10067"
+msgid "Chain of the Coven"
+msgstr "Prayer: Chain of the Coven"
+
+#: 242841733-0-100588
+msgctxt "242841733-0-100588"
+msgid "Spriggan's Necklace"
+msgstr "Spriggan: 스프리건의 목걸이"
+
+#: 242841733-0-100397
+msgctxt "242841733-0-100397"
+msgid "Vampire Lord's Necklace"
+msgstr "Vampire Lord: 뱀파이어 군주의 목걸이"
+
+#: 242841733-0-100212
+msgctxt "242841733-0-100212"
+msgid "Fiord's Necklace"
+msgstr "Fiord: 피오르드 목걸이"
+
+#: 242841733-0-100021
+msgctxt "242841733-0-100021"
+msgid "Necklace of Stendarr"
+msgstr ""

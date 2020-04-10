@@ -1,0 +1,1704 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 3952276-1-6915
+msgctxt "3952276-1-6915"
+msgid "That's what I'd like to find out. You and I should pay her a visit. See if the Iron Wheel funds her retirement.\n\nThere's a breach in the city wall, outside the flooded district. Meet me there when you're ready."
+msgstr "それが知りたいの。彼女の元を訪ねましょう。〈鉄の車輪〉が彼女に金を支払っているかどうか確認したい\r\n\r\n水没した地区の外に、街の壁の裂け目がある。あなたの準備が整い次第、そこで会いましょう"
+
+#: 20958740-1-6915
+msgctxt "20958740-1-6915"
+msgid "I'll meet you there."
+msgstr "そこで会おう"
+
+#: 3952276-1-6886
+#, fuzzy
+msgctxt "3952276-1-6886"
+msgid """Go pick a few pockets. Your best bet is Abah's Landing, but anywhere in Hew's Bane will do. Note: scorpions don't have pockets.\n\n""Nab a few personal items, or a lot of treasures. Fence what you find, but report back to me.\n\n""—Kari"""
+msgstr "スリの腕を試してきて。アバーズ・ランディングが一番いいでしょうけど、ヒューズベインのどこでも構わない。ただし注意して。サソリにポケットはないわよ\r\n\r\nちょっとした私物でも、たくさんの宝でもいいから持って来て。見つけた者は盗品商へ売っていいけど、報告には戻るように\r\n\r\n—カリ"
+
+#: 20958740-1-6886
+msgctxt "20958740-1-6886"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6849
+#, fuzzy
+msgctxt "3952276-1-6849"
+msgid """We've noted areas where these busybodies are sticking their noses, but fleecing anybody around there should send a message.\n\n""Finders keepers, all the Guild cares about is locals learning when to turn a blind eye."""
+msgstr "「おせっかい者が詮索してくるエリアをメモしたが、周辺の誰から巻き上げてもメッセージは伝わるだろう\r\n\r\n盗んだものは自分のもの、ギルドが気にしているのは地元民が見て見ぬふりを学ぶことだけだ」"
+
+#: 20958740-1-6849
+#, fuzzy
+msgctxt "20958740-1-6849"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6848
+#, fuzzy
+msgctxt "3952276-1-6848"
+msgid """We've noted areas where these busybodies are sticking their noses, but fleecing anybody around there should send a message.\n\n""Finders keepers, all the Guild cares about is locals learning when to turn a blind eye."""
+msgstr "「おせっかい者が詮索してくるエリアをメモしたが、周辺の誰から巻き上げてもメッセージは伝わるだろう\r\n\r\n盗んだものは自分のもの、ギルドが気にしているのは地元民が見て見ぬふりを学ぶことだけだ」"
+
+#: 20958740-1-6848
+#, fuzzy
+msgctxt "20958740-1-6848"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6847
+#, fuzzy
+msgctxt "3952276-1-6847"
+msgid """Noted a few locations where the loud mouths hang around, but skimming from anyone should put a cramp in their business.\n\n""Can fence the good yourself, Guildmaster only cares that these entertainers learn to leave the bad mouthing to their critics."""
+msgstr "「お喋りな者達の居場所を幾つかメモしたが、誰からかすめ取っても営業の打撃となるはずだ\r\n\r\n盗品は自ら売買してよい、ギルドマスターが気にしているのは芸人達が悪口を批評家に任せるのを学ぶことだけだ」"
+
+#: 20958740-1-6847
+msgctxt "20958740-1-6847"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6845
+#, fuzzy
+msgctxt "3952276-1-6845"
+msgid """Noted a few locations where the loud mouths hang around, but skimming from anyone should put a cramp in their business.\n\n""Can fence the good yourself, Guildmaster only cares that these entertainers learn to leave the bad mouthing to their critics."""
+msgstr "「お喋りな者達の居場所を幾つかメモしたが、誰からかすめ取っても営業の打撃となるはずだ\r\n\r\n盗品は自ら売買してよい、ギルドマスターが気にしているのは芸人達が悪口を批評家に任せるのを学ぶことだけだ」"
+
+#: 20958740-1-6845
+msgctxt "20958740-1-6845"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6843
+#, fuzzy
+msgctxt "3952276-1-6843"
+msgid """Attached are locations where the troublemakers tend to congregate, but nicking from anyone ought to stir up some healthy paranoia.\n\n""Keep what you nab, the Guildmaster only cares that the message is delivered to these laborers loud and clear."""
+msgstr "「添付したのは厄介者達がよく集まる場所の情報だが、誰から盗んでも正当な被害妄想を引き起こすことができるはずだ\r\n\r\n盗品は持っていてよい、ギルドマスターが気にしているのはあの労働者達に明確なメッセージを送ることだけだ」"
+
+#: 20958740-1-6843
+#, fuzzy
+msgctxt "20958740-1-6843"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6840
+#, fuzzy
+msgctxt "3952276-1-6840"
+msgid """Attached are locations where the troublemakers tend to congregate, but nicking from anyone ought to stir up some healthy paranoia.\n\n""Keep what you nab, the Guildmaster only cares that the message is delivered to these laborers loud and clear."""
+msgstr "「添付したのは厄介者達がよく集まる場所の情報だが、誰から盗んでも正当な被害妄想を引き起こすことができるはずだ\r\n\r\n盗品は持っていてよい、ギルドマスターが気にしているのはあの労働者達に明確なメッセージを送ることだけだ」"
+
+#: 20958740-1-6840
+#, fuzzy
+msgctxt "20958740-1-6840"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6835
+#, fuzzy
+msgctxt "3952276-1-6835"
+msgid """We've noted areas where these busybodies are sticking their noses, but fleecing anybody around there should send a message.\n\n""Finders keepers, all the Guild cares about is locals learning when to turn a blind eye."""
+msgstr "「おせっかい者が詮索してくるエリアをメモしたが、周辺の誰から巻き上げてもメッセージは伝わるだろう\r\n\r\n盗んだものは自分のもの、ギルドが気にしているのは地元民が見て見ぬふりを学ぶことだけだ」"
+
+#: 20958740-1-6835
+msgctxt "20958740-1-6835"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6832
+msgctxt "3952276-1-6832"
+msgid "The rules are simple: win or die. Enter each arena, defeat all opponents, then move on to the next. \n\nSurvive them all, and I'll offer you a place in my officer corps. So—interested? Or would you rather just return to Tamriel and fight mudcrabs?"
+msgstr "ルールは簡単よ。勝つか死ぬか。各アリーナに入って、敵をすべて倒したら次に進む\r\n\r\n全ての戦いで生き残れば、私の将校の一員になれる。どう？ 興味はある？ それとも、ただタムリエルに戻ってマッドクラブと戦う方がいい？"
+
+#: 20958740-1-6832
+#, fuzzy
+msgctxt "20958740-1-6832"
+msgid "I accept your challenge."
+msgstr "挑戦を受けて立とう"
+
+#: 3952276-1-6831
+#, fuzzy
+msgctxt "3952276-1-6831"
+msgid "The tribe claiming the ruins are lead by a mad alchemist, Tree-Minder Na-Kesh. She's up to something with the amber glop pooling under the Hist tree. Using it to drive her people and their slaves mad.\n\nBurn her notes and be done with her."
+msgstr "遺跡を占拠している部族は、おかしくなった錬金術師、木の番人ナ・ケッシュに導かれている。彼女はヒストの木に注ぐ琥珀の液体で、何かを企んでいるようね。それを使って、彼女の民と奴隷をおかしくしている\r\n\r\n彼女のメモを焼いてから、彼女を倒して"
+
+#: 20958740-1-6831
+msgctxt "20958740-1-6831"
+msgid "I pledge to seek out the Ruins of Mazzatun and return Undaunted."
+msgstr "マザッタン遺跡を探索して、アンドーンテッドとして戻ってくることを誓う"
+
+#: 3952276-1-6830
+#, fuzzy
+msgctxt "3952276-1-6830"
+msgid """To redeem this voucher and receive your special cake, look for the chef and his bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall. We guarantee it will be delicious!"""
+msgstr "「この引換券で特別なケーキを受け取るには、バルケルガードの港、ダボンズ・ウォッチ、ダガーフォールの港湾地区でシェフと彼のベーカリーのバッジを探してください。味は保証付きです！」"
+
+#: 20958740-1-6830
+msgctxt "20958740-1-6830"
+msgid "I should go look for Chef Donolon."
+msgstr "シェフ・ドノロンのところへ行く"
+
+#: 3952276-1-6829
+msgctxt "3952276-1-6829"
+msgid "A test, perhaps? A message, most certainly. Your Brothers and Sisters have gazed upon it and seen nothing but blank pages. They found it to be comforting, calming, but totally empty.\n\nPerhaps your eyes will see something more?"
+msgstr "試練かしら？ メッセージなのは確か。あなたの兄弟や姉妹がじっくりと見てみたけど、空白のページしか見えなかった。気分が慰められて落ち着くけど、中身はないって\r\n\r\nあなたの目になら、それ以上の何かが見えるかもね"
+
+#: 20958740-1-6829
+msgctxt "20958740-1-6829"
+msgid "I'll take a look at the book."
+msgstr "書を見よう"
+
+#: 3952276-1-6803
+#, fuzzy
+msgctxt "3952276-1-6803"
+msgid """Attached are locations where the troublemakers tend to congregate, but nicking from anyone ought to stir up some healthy paranoia.\n\n""Keep what you nab, the Guildmaster only cares that the message is delivered to these laborers loud and clear."""
+msgstr "「添付したのは厄介者達がよく集まる場所の情報だが、誰から盗んでも正当な被害妄想を引き起こすことができるはずだ\r\n\r\n盗品は持っていてよい、ギルドマスターが気にしているのはあの労働者達に明確なメッセージを送ることだけだ」"
+
+#: 20958740-1-6803
+msgctxt "20958740-1-6803"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6800
+#, fuzzy
+msgctxt "3952276-1-6800"
+msgid """Noted a few locations where the loud mouths hang around, but skimming from anyone should put a cramp in their business.\n\n""Can fence the good yourself, Guildmaster only cares that these entertainers learn to leave the bad mouthing to their critics."""
+msgstr "「お喋りな者達の居場所を幾つかメモしたが、誰からかすめ取っても営業の打撃となるはずだ\r\n\r\n盗品は自ら売買してよい、ギルドマスターが気にしているのは芸人達が悪口を批評家に任せるのを学ぶことだけだ」"
+
+#: 20958740-1-6800
+msgctxt "20958740-1-6800"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-1-6795
+#, fuzzy
+msgctxt "3952276-1-6795"
+msgid """A substantial victory purse is on the line. Those who are up to the challenge need simply enter the arena during any of our regular events, or speak to Arena Master Codus at the Kvatch Arena.\n\n""Make no mistake. This fight is to the death!"""
+msgstr "「多額の賞金を用意している。挑戦を受ける用意のある者は、通常イベントの期間中にアリーナに入るか、クヴァッチ・アリーナでアリーナのマスターであるコダスと話すだけ」\r\n\r\n「間違えるな。これは命をかけた戦いだ！」"
+
+#: 20958740-1-6795
+#, fuzzy
+msgctxt "20958740-1-6795"
+msgid "<Take the contract.>"
+msgstr "<任務を引き受ける>"
+
+#: 3952276-1-6793
+#, fuzzy
+msgctxt "3952276-1-6793"
+msgid """The source of these intrusions must be discovered and dealt with so that the excavation may resume. Recovery of relics from the abandoned site is also desired.\n\n""Interested parties should make their claims to Finia Sele in Kvatch's Market Square."""
+msgstr "「こうした問題の出どころを突き止めて対処し、発掘を再開できるようにしなければなりません。放置された現場からの遺物回収もお願いします」\r\n\r\n「興味のある者は、クヴァッチ広場の市場にいるフィニア・セレに連絡をください」"
+
+#: 20958740-1-6793
+#, fuzzy
+msgctxt "20958740-1-6793"
+msgid "<Take the contract.>"
+msgstr "<任務を引き受ける>"
+
+#: 3952276-1-6790
+#, fuzzy
+msgctxt "3952276-1-6790"
+msgid """A sum of gold has been set aside for anyone capable of destroying the beast known as <<1>> before it escapes to ravage the land. Seizure of company ledgers is also required to complete the job.\n\n""See Laronen with questions or to claim the reward."""
+msgstr "「<<1>>と呼ばれる獣が逃げ出してこの地に惨事をもたらす前に、そいつを倒せる者に対して金を用意した。会社の台帳を押収することも、この任務達成の必要条件である」\r\n\r\n「問い合わせや報酬受け取りはラロネンへ」"
+
+#: 20958740-1-6790
+#, fuzzy
+msgctxt "20958740-1-6790"
+msgid "<Take the contract.>"
+msgstr "<任務を引き受ける>"
+
+#: 3952276-1-6784
+#, fuzzy
+msgctxt "3952276-1-6784"
+msgid """Whoever bears proof of Exulus's destruction may claim their reward from Cleric Arvina. We also ask that you retrieve the pauldrons of Arkay's warriors who fell fighting Exulus, so that they may be honored for their sacrifice.\n\n""Arkay bless you!"""
+msgstr "「エグラスを倒したことを証明できる者は、聖職者アーヴィナから報酬を受け取ることができる。さらに、エグラスと戦って死亡したアーケイの戦士たちの犠牲に敬意を示すために、そのポールドロンを回収すること」\r\n\r\n「アーケイのご加護を！」"
+
+#: 20958740-1-6784
+msgctxt "20958740-1-6784"
+msgid "<Take the bounty contract.>"
+msgstr "<賞金任務を引き受ける>"
+
+#: 3952276-1-6778
+msgctxt "3952276-1-6778"
+msgid "You never heard of Tamriel's most elite guild of assassins? Rumor has it that if you take an innocent life and they notice, they'll offer you a place in the Dark Brotherhood. There, killers are free to pursue their true passion.\n\nThink about it."
+msgstr "タムリエルで最も優秀なアサシンギルドのことを知らないの？ 一般市民を殺して彼らに認められれば、闇の一党への招待状が届くって噂があるの。そうなれば、真の情熱を思う存分追い求められるわ\r\n\r\n考えておいて"
+
+#: 20958740-1-6778
+msgctxt "20958740-1-6778"
+msgid "Thanks for the information."
+msgstr "情報をありがとう"
+
+#: 3952276-1-6776
+msgctxt "3952276-1-6776"
+msgid "One man hiding behind thick walls and guarded by a small army. \n\nTanek is in Kvatch, seeking a way for you to breach the Cathedral's defenses. Astara and the rest of your brethren will follow after you. Reach Artorius and kill well, Assassin."
+msgstr "奴は分厚い壁の後ろに隠れ、ちょっとした軍隊に守られている\r\n\r\nクヴァッチにいるタネクが、お前のために大聖堂の防衛を突破する方法を探し、アスタラと他の兄弟達をお前が先導する。アルトリウスを見つけ、必ず始末しろ"
+
+#: 20958740-1-6776
+msgctxt "20958740-1-6776"
+msgid "Artorius will die."
+msgstr "アルトリウスは終わりだ"
+
+#: 3952276-1-6774
+msgctxt "3952276-1-6774"
+msgid "She loves temples, but the trouble in Kvatch has made her avoid the big Cathedral. Lately she's been visiting the Great Chapel of Dibella in Anvil. I think the rituals soothe her.\n\nWill you come to Anvil and help me find Hildegard?"
+msgstr "彼女は聖堂が好きだった。だが、クヴァッチの騒動以来、規模の大きい大聖堂は避けていた。最近彼女はアンヴィルにあるディベラ大礼拝堂をよく訪れていた。その行いが彼女の心を癒やしていたのだろう\r\n\r\nアンヴィルに来て、ヒルデガルドの捜索を手伝ってくれないか？"
+
+#: 20958740-1-6774
+msgctxt "20958740-1-6774"
+msgid "I'll help you find Hildegard."
+msgstr "ヒルデガルドの捜索を手伝う"
+
+#: 3952276-1-6773
+msgctxt "3952276-1-6773"
+msgid "I want you to follow Green-Venom-Tongue and make sure the deed is done. I don't doubt his loyalty, but they were friends once. If he falters in the slightest, it will be his blood that stains the ground.\n\nNo matter what, the Black Dragon must die."
+msgstr "毒ある緑舌の者の後を追い、任務が完了したことを確認して。彼の忠誠心は疑っていない。でも彼らはかつて友人だった。少しでもためらうようなことがあれば、大地は彼の血で染まる\r\n\r\n何が起ころうとも、ブラックドラゴンは死ななければならない"
+
+#: 20958740-1-6773
+msgctxt "20958740-1-6773"
+msgid "If Green-Venom-Tongue doesn't kill Lyra, I will."
+msgstr "毒ある緑舌の者がライラを殺さないなら、自分がやろう"
+
+#: 3952276-1-6772
+msgctxt "3952276-1-6772"
+msgid "I want to pretend I never read that journal, but I can't resist a mystery. The Black Dragon killed Lyra and destroyed my former Sanctuary, or Lyra is the Black Dragon. Either way, I need to know the truth.\n\nWill you come with me, Assassin?"
+msgstr "この日記を読まなかったことにしたいが、謎の誘惑には逆らえない。ブラックドラゴンはライラを殺し、私の以前の聖域を破壊した。もしくはライラがブラックドラゴンだ。どちらにしても真実を知る必要がある\r\n\r\n一緒に来ないか？"
+
+#: 20958740-1-6772
+msgctxt "20958740-1-6772"
+msgid "I'll go with you."
+msgstr "一緒に行こう"
+
+#: 3952276-1-6771
+#, fuzzy
+msgctxt "3952276-1-6771"
+msgid "Oh, didn't I mention? It's none other than the self-proclaimed Provincial Governor of Anvil, the Pirate Queen Fortunata ap Dugal.\n\nI expect you to handle this like any other contract. Acquire your target, plan your attack, and make your kill."
+msgstr "言ってなかったかしら？ アンヴィル地方総督を自称する、海賊女王フォーチュナタ・アプドゥガルその人よ\r\n\r\nあなたなら他の任務と同じようにこなせるはず。標的を見つけたら、方法を決めて殺しなさい"
+
+#: 20958740-1-6771
+#, fuzzy
+msgctxt "20958740-1-6771"
+msgid "I won't fail you, Matron."
+msgstr "期待に応えよう"
+
+#: 3952276-1-6770
+#, fuzzy
+msgctxt "3952276-1-6770"
+msgid """The delicate nature of this situation requires that I solicit aid from only a trustworthy companion. Therefore, your assistance would be most appreciated. Meet me near the Velmont Mansion and we can discuss this in more detail.\n\n""—Walks-Softly"""
+msgstr "「この状況の繊細な性質から、信頼できる仲間にしか協力を求められない。つまり、協力してくれれば大変ありがたい。ヴェルモント邸の近くで会ってくれ、この件の詳細について相談しよう\r\n\r\n――静かに歩む者」"
+
+#: 20958740-1-6770
+msgctxt "20958740-1-6770"
+msgid "I should meet Walks-Softly in the upper district of Abah's Landing."
+msgstr "アバーズ・ランディングの上層地区で静かに歩む者と話す"
+
+#: 3952276-1-6767
+msgctxt "3952276-1-6767"
+msgid "Be wary. The Order of the Hour has increased its presence in Kvatch. Avoid the warrior-priests if you can.\n\nMeet up with Tanek and silence the priests that speak against us, including the Grand Sermonizer. That will put the fear of Sithis in them."
+msgstr "気を付けなさい。時の騎士団がクヴァッチで勢力を拡大している。修道戦士には近づかないようにするのよ\r\n\r\nタネクと合流して、我々を非難する司祭達を黙らせるの。大説教師も含めてね。そうすれば、シシスの恐ろしさが分かるでしょう"
+
+#: 20958740-1-6767
+msgctxt "20958740-1-6767"
+msgid "I'll go to Kvatch right away."
+msgstr "すぐクヴァッチに行こう"
+
+#: 3952276-1-6759
+msgctxt "3952276-1-6759"
+msgid "Always! When something gets well and truly lost, it occasionally requires a bit more adventure than I can stomach. I post those jobs on the notice board outside, but since you're here now, I think I have something you might fancy."
+msgstr "いつもそうだ！ 何かが本当に行方不明になると、たいてい私に耐えられる以上の冒険が必要になる。そういう仕事は外の掲示板に張り出すんだが。せっかくここに来たんだ。気に入りそうな仕事がある"
+
+#: 20958740-1-6759
+msgctxt "20958740-1-6759"
+msgid "Give me the details."
+msgstr "詳細を教えてくれ"
+
+#: 3952276-1-6749
+#, fuzzy
+msgctxt "3952276-1-6749"
+msgid """Payment for stolen goods as requested will be rendered to the guild immediately, provided they have had all traces of ownership severed prior to delivery.""\n\n""No partial deliveries will be accepted."""
+msgstr "「要求した盗品の支払いは、配達前に所有者のすべての痕跡が消されていた場合、即座にギルドに与えられる」\r\n\r\n「品物の一部のみの配達は認められない」"
+
+#: 20958740-1-6749
+msgctxt "20958740-1-6749"
+msgid "<Make a note of the requested items.>"
+msgstr "<要求されたアイテムをメモする>"
+
+#: 3952276-1-6748
+#, fuzzy
+msgctxt "3952276-1-6748"
+msgid "Among the blackmail, I noticed the name <<1>>. He's a ""claw-cutter""—a thief who robs other thieves. Wouldn't you know? He's signed on as our master of heists.\n\nNow, and don't strain yourself … who should you speak with next?"
+msgstr "脅迫の中の<<1>>という名前に気付いたわ。彼は「クロー・カッター」… 盗賊から盗む盗賊よ。どおりでね。彼は私達に強奪担当として加入している\r\n\r\nまあ、無理は禁物よ… 次は誰と話すべきか分かるわね？"
+
+#: 20958740-1-6748
+#, fuzzy
+msgctxt "20958740-1-6748"
+msgid "I'll go meet Fa'ren-dar."
+msgstr "ファレン・ダーに会いに行こう"
+
+#: 3952276-1-6747
+#, fuzzy
+msgctxt "3952276-1-6747"
+msgid """Come by our rooms here in <<c:1>>. We had to vacate my place in the alleys as there were too many Iron Wheel fetchers sniffing around for my taste.\n\n""—V."""
+msgstr "「ここ<<1>>の私達の部屋へ来て。嗅ぎ回る鉄の車輪が多過ぎて、路地の家を立ち退かなくてはいけなかったの\r\n\r\n――V」"
+
+#: 20958740-1-6747
+msgctxt "20958740-1-6747"
+msgid "I should go and see what Narahni wants to talk about."
+msgstr "ナラーニの話を聞きに行こう"
+
+#: 3952276-1-6742
+msgctxt "3952276-1-6742"
+msgid "<The page gives directions to the stash via a crudely drawn map.>"
+msgstr "<このページには大雑把な地図で隠し財産への道順が記されている>"
+
+#: 20958740-1-6742
+msgctxt "20958740-1-6742"
+msgid "I should look into this."
+msgstr "調べて来よう"
+
+#: 3952276-1-6735
+#, fuzzy
+msgctxt "3952276-1-6735"
+msgid "The priest told me how Prince Hew locked his uncle and the necromancers inside the royal tomb. But pirates recently broke in and damaged the seal that kept the cultists from leaving.\n\nI was supposed to fix things, but I'm no match for those horrors!"
+msgstr "司祭からヒュー王子が叔父と死霊術師達を王室の墳墓に閉じ込めたことを聞いた。しかし最近海賊が押し入り、狂信者達を留めていた封印を傷付けた\r\n\r\n私は封印を修復するはずだったが、こんなに恐ろしい仕事は無理だ！"
+
+#: 20958740-1-6735
+#, fuzzy
+msgctxt "20958740-1-6735"
+msgid "I can help. Let me know what I can do."
+msgstr "協力しよう。何をすればいいか教えてくれ"
+
+#: 3952276-1-6734
+#, fuzzy
+msgctxt "3952276-1-6734"
+msgid """Meet me near the docks. You can find me in one of the warehouses overlooking the waterfront. I'll see you there and explain everything.\n\n""—Walks-Softly"""
+msgstr "「港の近くへ来てくれ。水辺に面した倉庫の中にいる。そこで会ってすべてを説明する\r\n\r\n――静かに歩む者」"
+
+#: 20958740-1-6734
+msgctxt "20958740-1-6734"
+msgid "I should meet Walks-Softly by the docks."
+msgstr "港の近くで静かに歩む者と会おう"
+
+#: 3952276-1-6733
+#, fuzzy
+msgctxt "3952276-1-6733"
+msgid "This is your territory. I don't want to rankle your superiors by making a social blunder.\n\nSo here's my brilliant plan. I kill my target and you take all the credit. Lets me complete my contract while giving you the chance to make a good impression."
+msgstr "ここはあなた達の縄張りよ。失敗して騒ぎを起こし、あなたの上官達を怒らせたくないの\r\n\r\nそこで名案がある。私は標的を倒して、あなたは信用を得られる。私の仕事を終わらせてくれたら、あなたは良い印象を与えられる"
+
+#: 20958740-1-6733
+#, fuzzy
+msgctxt "20958740-1-6733"
+msgid "All right. I'll help you."
+msgstr "分かった。手を貸そう"
+
+#: 3952276-1-6732
+#, fuzzy
+msgctxt "3952276-1-6732"
+msgid "Well, this is your territory, after all. I don't want to rankle your superiors by making a social blunder.\n\nYou're new to the Brotherhood, right? Here's your chance to make a good impression. I'll kill my target and you can take the credit."
+msgstr "とにかく、ここはあなた達の縄張りよ。失敗して騒ぎを起こし、あなたの上官達を怒らせたくないの\r\n\r\nあなたは闇の一党に入ったばかりね？ 好印象を与える絶好の機会よ。私は標的を倒して、あなたは信用を得られる"
+
+#: 20958740-1-6732
+#, fuzzy
+msgctxt "20958740-1-6732"
+msgid "All right. I'll help you complete your assassination."
+msgstr "分かった。暗殺に協力しよう"
+
+#: 3952276-1-6730
+#, fuzzy
+msgctxt "3952276-1-6730"
+msgid "We're not sure, but that's where he requested to meet. He has a camp there which he's using for his own clandestine purposes.\n\nBefore you go, talk to Mirabelle. She has information concerning the Count that could prove useful to your mission."
+msgstr "分からない。ただ彼は合流場所をそこに指定した。そこにキャンプを張っているのには、彼なりの理由があるのよ\r\n\r\n出発する前にミラベルと話しなさい。任務に役立つ伯爵に関する情報を知っているはずよ"
+
+#: 20958740-1-6730
+#, fuzzy
+msgctxt "20958740-1-6730"
+msgid "I'll talk to Mirabelle before I head out."
+msgstr "出発する前にミラベルと話す"
+
+#: 3952276-1-6728
+msgctxt "3952276-1-6728"
+msgid "Oh, most definitely! Luckily, the prince discovered his uncle's treachery and trapped the necromancers inside the tomb. Priests were gathered to create a great seal to make sure they couldn't escape.\n\nUnfortunately, pirates decided to loot the tomb."
+msgstr "ええ、確実に！ 幸運にも王子はおじの裏切りを発見し、死霊術師達を墳墓の中に閉じ込めたの。偉大な封印を作るために司祭達が集められ、奴らが逃げられないようにした\r\n\r\nでも残念ながら、海賊が墳墓を略奪したのよ"
+
+#: 20958740-1-6728
+msgctxt "20958740-1-6728"
+msgid "I'll help if I can. What do you need me to do?"
+msgstr "協力できることはする。何をすればいい？"
+
+#: 3952276-0-6934
+#, fuzzy
+msgctxt "3952276-0-6934"
+msgid """<<1>>,\n\n""What you recovered from the Iron Wheel will prove lucrative for us all. Let's talk about heists. Meet me outside the Den when you're ready.\n\n""—Velsa"""
+msgstr "<<1>>、\r\n\r\n鉄の車輪から手に入れたものは、私達全員にとって魅力的なものになるでしょう。強奪について話しましょう。準備が出来たら、隠れ家の外で私と会って\r\n\r\n—ヴェルサ"
+
+#: 20958740-0-6934
+msgctxt "20958740-0-6934"
+msgid "I should speak with Velsa about heists."
+msgstr "強奪についてヴェルサと話す"
+
+#: 205344756-0-6934
+msgctxt "205344756-0-6934"
+msgid "Velsa left me a note to discuss one of the perks of being a member of the Thieves Guild: Heists."
+msgstr "ヴェルサは盗賊ギルドのメンバーの特権の一つ、強奪についてメモを残した"
+
+#: 3952276-0-6915
+msgctxt "3952276-0-6915"
+msgid "My gold is on <<1>>. She was part of our Thieves Council, the guild's inner circle—but she retired just before the dowry heist.\n\nIt might be coincidence. Or it might be she sold us out for large stacks of coin."
+msgstr "私は<<1>>が怪しいと思っている。彼女はギルドの中枢、盗賊評議会の一翼を担っていたけど、持参金盗難の直前に引退したの\r\n\r\nもしかしたら偶然かもしれない。でも、もしかしたら彼女は、私達を多額の金のために裏切ったのかもしれない"
+
+#: 20958740-0-6915
+msgctxt "20958740-0-6915"
+msgid "Are you certain <<1>> betrayed the Thieves Guild?"
+msgstr "<<1>>が盗賊ギルドを裏切ったのは確かなのか？"
+
+#: 249936564-0-6915
+msgctxt "249936564-0-6915"
+msgid "Do you have any suspects?"
+msgstr "疑っている者はいるか？"
+
+#: 3952276-0-6886
+#, fuzzy
+msgctxt "3952276-0-6886"
+msgid """Some new faces in the Thieves Guild. Before we send you to pick the pockets of bigger and richer targets, we need to know you can handle yourself.\n\n""Lucky for you, the Iron Wheel has pulled their patrols out of Abah's Landing."""
+msgstr "盗賊ギルドにも新しい顔が増えたわね。より大物でお金を持った標的を狙わせる前に、あなたの腕を試したいの\r\n\r\n幸運なことに、鉄の車輪はアバーズ・ランディングから巡回部隊を撤退させたわ"
+
+#: 20958740-0-6886
+msgctxt "20958740-0-6886"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6856
+#, fuzzy
+msgctxt "3952276-0-6856"
+msgid """Rumors that the guild isn't a threat are starting to gain credence. A good string of safebox robberies ought to dispel that myth real quick. If you've got deft fingers, put them to work!"""
+msgstr "「ギルドがもはや脅威ではないという噂が信じられ始めている。連続で金庫強盗を行えば、そんな作り話もすぐに消えるだろう。器用な指先を持つ者は、仕事にかかれ！」"
+
+#: 20958740-0-6856
+#, fuzzy
+msgctxt "20958740-0-6856"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-0-6853
+#, fuzzy
+msgctxt "3952276-0-6853"
+msgid """Rumors that the guild isn't a threat are starting to gain credence. A good string of safebox robberies ought to dispel that myth real quick. If you've got deft fingers, put them to work!"""
+msgstr "「ギルドがもはや脅威ではないという噂が信じられ始めている。連続で金庫強盗を行えば、そんな作り話もすぐに消えるだろう。器用な指先を持つ者は、仕事にかかれ！」"
+
+#: 20958740-0-6853
+#, fuzzy
+msgctxt "20958740-0-6853"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-0-6850
+#, fuzzy
+msgctxt "3952276-0-6850"
+msgid """Rumors that the guild isn't a threat are starting to gain credence. A good string of safebox robberies ought to dispel that myth real quick. If you've got deft fingers, put them to work!"""
+msgstr "「ギルドがもはや脅威ではないという噂が信じられ始めている。連続で金庫強盗を行えば、そんな作り話もすぐに消えるだろう。器用な指先を持つ者は、仕事にかかれ！」"
+
+#: 20958740-0-6850
+#, fuzzy
+msgctxt "20958740-0-6850"
+msgid "<Make a note of the request.>"
+msgstr "<要求をメモする>"
+
+#: 3952276-0-6849
+#, fuzzy
+msgctxt "3952276-0-6849"
+msgid """Got some straitlaced types organizing watches, snitching to the guards, and otherwise making our lives difficult. We need to make a show of our displeasure. Maybe they'll hold their tongues when their own personal items start going missing."""
+msgstr "「お堅い連中が見張りを組織し衛兵に密告するなどして、我々の暮らしを困難にしている。不満を表明する必要がある。個人的アイテムが行方不明になれば、彼らも口をつぐむかも知れない」"
+
+#: 20958740-0-6849
+msgctxt "20958740-0-6849"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6848
+#, fuzzy
+msgctxt "3952276-0-6848"
+msgid """Got some straitlaced types organizing watches, snitching to the guards, and otherwise making our lives difficult. We need to make a show of our displeasure. Maybe they'll hold their tongues when their own personal items start going missing."""
+msgstr "「お堅い連中が見張りを組織し衛兵に密告するなどして、我々の暮らしを困難にしている。不満を表明する必要がある。個人的アイテムが行方不明になれば、彼らも口をつぐむかも知れない」"
+
+#: 20958740-0-6848
+msgctxt "20958740-0-6848"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6847
+#, fuzzy
+msgctxt "3952276-0-6847"
+msgid """Some of the entertainers working our territory think they don't need to keep up their payments and need a reminder that they don't work without our say so. Having to buy their tools of the trade out of hock ought to make the point."""
+msgstr "「領地で働いている芸人の一部が支払いをしなくてよいと考えており、我々の許可なく働けないということを分からせる必要がある。仕事の道具を買い戻すことになれば、思い知るだろう」"
+
+#: 20958740-0-6847
+msgctxt "20958740-0-6847"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6845
+#, fuzzy
+msgctxt "3952276-0-6845"
+msgid """Some of the entertainers working our territory think they don't need to keep up their payments and need a reminder that they don't work without our say so. Having to buy their tools of the trade out of hock ought to make the point."""
+msgstr "「領地で働いている芸人の一部が支払いをしなくてよいと考えており、我々の許可なく働けないということを分からせる必要がある。仕事の道具を買い戻すことになれば、思い知るだろう」"
+
+#: 20958740-0-6845
+msgctxt "20958740-0-6845"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6843
+#, fuzzy
+msgctxt "3952276-0-6843"
+msgid """We've got a problem with some laborers coming to a head. They aren't scared anymore, they've started refusing to pay their protection money. Need some filchers to deprive them of their tools as a gentle reminder of who's in charge."""
+msgstr "「労働者達との問題が明らかになった。彼らは恐怖を感じなくなり、保護金を支払うのを拒み始めている。盗人が彼らの道具を奪い、偉いのは誰か優しく教えてやる必要がある」"
+
+#: 20958740-0-6843
+msgctxt "20958740-0-6843"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6840
+#, fuzzy
+msgctxt "3952276-0-6840"
+msgid """We've got a problem with some laborers coming to a head. They aren't scared anymore, they've started refusing to pay their protection money. Need some filchers to deprive them of their tools as a gentle reminder of who's in charge."""
+msgstr "「労働者達との問題が明らかになった。彼らは恐怖を感じなくなり、保護金を支払うのを拒み始めている。盗人が彼らの道具を奪い、偉いのは誰か優しく教えてやる必要がある」"
+
+#: 20958740-0-6840
+msgctxt "20958740-0-6840"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6835
+#, fuzzy
+msgctxt "3952276-0-6835"
+msgid """Got some straitlaced types organizing watches, snitching to the guards, and otherwise making our lives difficult. We need to make a show of our displeasure. Maybe they'll hold their tongues when their own personal items start going missing."""
+msgstr "「お堅い連中が見張りを組織し衛兵に密告するなどして、我々の暮らしを困難にしている。不満を表明する必要がある。個人的アイテムが行方不明になれば、彼らも口をつぐむかも知れない」"
+
+#: 20958740-0-6835
+msgctxt "20958740-0-6835"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6832
+msgctxt "3952276-0-6832"
+msgid "I'm a connoisseur of battle, so I keep track of likely recruits. Your reputation precedes you. \n\nI've converted my realm into an arena where I plan to train the greatest warriors in the Aurbis. I offer you an opportunity to take my arena challenge."
+msgstr "私は戦闘の鑑定士で、候補者の動向を追ってるの。ずいぶん評判になっているみたいね\r\n\r\nアービスで選りすぐりの戦士達を訓練するために、私の領域をアリーナに作り替えた。アリーナの挑戦を受ける機会を与えましょう"
+
+#: 20958740-0-6832
+msgctxt "20958740-0-6832"
+msgid "How do I win?"
+msgstr "どうやって勝つのだ？"
+
+#: 249936564-0-6832
+#, fuzzy
+msgctxt "249936564-0-6832"
+msgid "What do you mean?"
+msgstr "どういう意味だ？"
+
+#: 3952276-0-6831
+#, fuzzy
+msgctxt "3952276-0-6831"
+msgid "The Ruins of Mazzatun! A city under constant construction. Built up and torn down without any rhyme or reason. The Argonians living there decided it must not be going fast enough. Started enslaving other tribes. Can't have that, can we?"
+msgstr "マザッタン遺跡！ 延々と建設を続ける都市よ。別に何か理由がある訳じゃないのに延々作ってる。けど、そこに住んでいるアルゴニアンは、今のペースじゃ遅いと思ったみたいね。他の部族を奴隷にし始めたの。許せないでしょ？"
+
+#: 20958740-0-6831
+#, fuzzy
+msgctxt "20958740-0-6831"
+msgid "And if I can handle more than that?"
+msgstr "それだけでは満足できない場合は？"
+
+#: 249936564-0-6831
+msgctxt "249936564-0-6831"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-6830
+#, fuzzy
+msgctxt "3952276-0-6830"
+msgid """This voucher provides the bearer with one cake for special occasions from the renowned baker, Chef Donolon."""
+msgstr "「この引換券を持つ方には、高名なパン職人、シェフ・ドノロンのケーキを食べる特別な機会が与えられます」"
+
+#: 20958740-0-6830
+#, fuzzy
+msgctxt "20958740-0-6830"
+msgid "<Continue reading the voucher.>"
+msgstr "<引換券を読み続ける>"
+
+#: 249936564-0-6830
+#, fuzzy
+msgctxt "249936564-0-6830"
+msgid "<Read the voucher.>"
+msgstr "<引換券を読む>"
+
+#: 3952276-0-6829
+msgctxt "3952276-0-6829"
+msgid "The Listener sent me to deliver the Litany of Blood. I placed it before the Night Mother's shrine. She said the book is meant for the killer who tasted death.\n\nWhile that could refer to anyone in the Sanctuary, I believe she intends it for you."
+msgstr "聞こえし者から〈血の連祷〉を届けるよう派遣されてきたの。夜母の祠の前に置いた。あの本は死を味わった殺人者のためのものだと言ってた\r\n\r\nそれは聖域の誰にも当てはまるかもしれないけど、私はあなたに向けたものだと思う"
+
+#: 20958740-0-6829
+msgctxt "20958740-0-6829"
+msgid "What's the Litany of Blood?"
+msgstr "「血の連祷」とは？"
+
+#: 249936564-0-6829
+msgctxt "249936564-0-6829"
+msgid "What did you say about the Listener?"
+msgstr "聞こえし者は他に何と言った？"
+
+#: 3952276-0-6828
+#, fuzzy
+msgctxt "3952276-0-6828"
+msgid """I've been cursed, not out of malice, but through incompetence. One of those hired fools at the Mages Guild in Evermore passed off my task to an apprentice who botched the job. My life is in shambles! Enact my retribution."""
+msgstr "「呪われている。悪意によるものではなく、無能によって。エバーモアの魔術師ギルドで雇われた愚か者たちが、私の仕事を見習いに与えて、その見習いがヘマをした。もう人生が台無しだ！ 報復をしてほしい」"
+
+#: 20958740-0-6828
+msgctxt "20958740-0-6828"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6828
+msgctxt "249936564-0-6828"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6827
+#, fuzzy
+msgctxt "3952276-0-6827"
+msgid """I've been denied apprenticeship at the prestigious Evermore smithy. Not for lack of potential, oh no, but because my would-be mentor already has a lax apprentice. I hope he will have an opening again soon, if you take my meaning."""
+msgstr "「エバーモアの一流鍛冶屋での見習いを拒否された。自分が将来性に欠けるからではない。なんと、親方になるべき職人には、すでに怠け者の見習いがいるからだそうだ。近いうちに見習いの空きができるようにしたい。意味は分かるだろう」"
+
+#: 20958740-0-6827
+msgctxt "20958740-0-6827"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6827
+msgctxt "249936564-0-6827"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6826
+#, fuzzy
+msgctxt "3952276-0-6826"
+msgid """I'm at peak capacity for my next voyage, but I've got a deadbeat I'm contractually obligated to bring along. I'd like to have the dead weight become a lot more dead so that I can cut it loose."""
+msgstr "「次の度は人数が一杯だが、契約上連れて行かないといけない役立たずがいる。そのお荷物にただの荷物になってもらって、切り捨てられるようにしたい」"
+
+#: 20958740-0-6826
+msgctxt "20958740-0-6826"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6826
+msgctxt "249936564-0-6826"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6825
+#, fuzzy
+msgctxt "3952276-0-6825"
+msgid """The cheeriness of the brewer at the Anchor's Point Inn annoys me. Kindly murder one of her friends during their visit. Maybe that will muffle her insipid blather for a while."""
+msgstr "「アンカーズポイントの醸造家の陽気さにはイライラする。彼女の友人の1人を訪問中に始末してほしい。それでしばらくの間、つまらない無駄口を叩かなくなるだろう」"
+
+#: 20958740-0-6825
+msgctxt "20958740-0-6825"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6825
+msgctxt "249936564-0-6825"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6824
+#, fuzzy
+msgctxt "3952276-0-6824"
+msgid """Covenant dissidents have begun to gather openly in Shornhelm, spreading their slander to anyone who will listen in the town square. Silence one, permanently, and perhaps the rest will scurry back to their nests."""
+msgstr "「カバナントに異論を唱える者たちがショーンヘルムで公に集まり始め、街の広場で耳を貸す者に悪口を広めている。1人を永遠に黙らせてやれば、残りの者は大慌てで巣穴に戻っていくだろう」"
+
+#: 20958740-0-6824
+msgctxt "20958740-0-6824"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6824
+msgctxt "249936564-0-6824"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6822
+#, fuzzy
+msgctxt "3952276-0-6822"
+msgid """The Stone Oasis Inn. A lone traveler. My reasons are my own. Your gold will be waiting."""
+msgstr "「ストーンオアシス。単独の旅人。理由は個人的なことだ。金を支払う」"
+
+#: 20958740-0-6822
+msgctxt "20958740-0-6822"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6822
+msgctxt "249936564-0-6822"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6821
+#, fuzzy
+msgctxt "3952276-0-6821"
+msgid """My advancement in the Fighters Guild seems to have plateaued. Thrice now, I've watched whelps pass me by in rank. It won't happen again! Kill my rival in Stormhaven so that I might finally get my due."""
+msgstr "「戦士ギルドでの昇進が頭打ちになったようだ。若造に階級をすでに3度も追い越された。もう同じことは起こさせない！ ストームヘヴンのライバルを始末して、待ちに待った昇進ができるようにしろ」"
+
+#: 20958740-0-6821
+msgctxt "20958740-0-6821"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6821
+msgctxt "249936564-0-6821"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6820
+#, fuzzy
+msgctxt "3952276-0-6820"
+msgid """Halls of Judgment? Pah, a gilded, empty promise! Any sense of justice there has long since been strangled by the bickering of lawyers. Deliver my judgment to one of these vermin and give me hope for change."""
+msgstr "「法廷？ ふん、うわべだけで中身のない約束だ！ あそこの正義はとっくの昔に法律家たちの口論で押し流された。社会の害虫に審判を下して、変化の希望を見せてほしい」"
+
+#: 20958740-0-6820
+msgctxt "20958740-0-6820"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6820
+msgctxt "249936564-0-6820"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6819
+#, fuzzy
+msgctxt "3952276-0-6819"
+msgid """There are spies in the court of Fahara'jad. Perhaps he does not see, or merely chooses not to give them notice, but my eyes are sharp—and so are your blades. Cut out this disease."""
+msgstr "「ファハラジャードの宮廷に密偵がいる。気付いていないのか、意図的に注意を払ってないのか知らないが、この目はごまかせない。お前の刀剣も同じだ。この問題を片付けてくれ」"
+
+#: 20958740-0-6819
+msgctxt "20958740-0-6819"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6819
+msgctxt "249936564-0-6819"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6818
+#, fuzzy
+msgctxt "3952276-0-6818"
+msgid """They don't listen! They never listen! Those creatures walking in their midst, plain as day, not a concern in the world! They may not see it, but I do! And if they won't do anything about it, I will! Or, you will, thanks to me!"""
+msgstr "「まったく聞く耳を持ってくれない！ 連中が目の前にいて、一目瞭然なのに全然気にしてない！ 彼らには見えなくても自分には見える！ 放置するつもりなら自分で何とかしてやる！ 引き受ける者を手配することでな！」"
+
+#: 20958740-0-6818
+msgctxt "20958740-0-6818"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6818
+msgctxt "249936564-0-6818"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6817
+#, fuzzy
+msgctxt "3952276-0-6817"
+msgid """I have been dishonored in battle. Maimed in a duel that leaves me unable to even avenge myself. There is no redemption in this, but I will not let this grievance  go unanswered. Deliver my vengeance and you will earn more than my gratitude."""
+msgstr "「戦いで面目を失った。決闘で重傷を負い、報復することさえできない体になってしまった。回復の見込みはないが、だからといって恨みを晴らさないでおくつもりはない。敵討ちをしてくれれば、感謝の気持ち以上の謝礼を与えよう」"
+
+#: 20958740-0-6817
+msgctxt "20958740-0-6817"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6817
+msgctxt "249936564-0-6817"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6816
+#, fuzzy
+msgctxt "3952276-0-6816"
+msgid """Lost the best job I ever had at Alcaire Castle over a simple misunderstanding! Gossipers think their lies are harmless, but it's my life they're playing with. It's my turn to play with theirs."""
+msgstr "「人生で最高のアルカイア城での仕事を、単なる誤解のせいで失ってしまった！ 噂好きな連中は自分たちの嘘が無害だと思ってるが、人生を狂わされた。連中の人生を狂わせてやる番だ」"
+
+#: 20958740-0-6816
+msgctxt "20958740-0-6816"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6816
+msgctxt "249936564-0-6816"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6815
+#, fuzzy
+msgctxt "3952276-0-6815"
+msgid """A jealous busybody in Koeglin Village conspired with the Ember-Eye Slavers to take my love from me. Taking their life is the least I can do in return. I will pay any price."""
+msgstr "「エンバーアイの奴隷商人と共謀したコイグリン村の出しゃばりに、愛する者を奪われた。仕返しとしては連中の命を奪うことくらいしかできない。報酬はいくらでも払う」"
+
+#: 20958740-0-6815
+msgctxt "20958740-0-6815"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6815
+msgctxt "249936564-0-6815"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6814
+#, fuzzy
+msgctxt "3952276-0-6814"
+msgid """An agitator stalks my docks. Talks about organizing a guild of dock workers. I won't have it. Shut this fool up with extreme prejudice."""
+msgstr "「扇動家が港に近づいている。港湾労働者の組合を結成するという話だ。そうはさせない。悪意を持って、その愚か者を始末しろ」"
+
+#: 20958740-0-6814
+msgctxt "20958740-0-6814"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6814
+msgctxt "249936564-0-6814"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6813
+#, fuzzy
+msgctxt "3952276-0-6813"
+msgid """Those who serve powerful people should learn to keep out of earshot. There's an eavesdropper in Castle Wayrest that must be silenced. My gratitude will be substantial."""
+msgstr "「有力者に仕える者は、会話が誰にも聞かれないようにする術を身につけるべきだ。ウェイレスト城には盗み聞きをする者がいて、黙らせなくてはいけない。礼はたっぷりとする」"
+
+#: 20958740-0-6813
+msgctxt "20958740-0-6813"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6813
+msgctxt "249936564-0-6813"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6812
+#, fuzzy
+msgctxt "3952276-0-6812"
+msgid """House Dorell has an agent keeping careful watch of the traffic through Oldgate. I wish them blinded for a time. My payment upon the watcher's death."""
+msgstr "「ドレル家には、オールドゲートでの行き来を監視している者がいる。しばらく連中の目をくらましたい。監視人の死に対して報酬を支払う」"
+
+#: 20958740-0-6812
+msgctxt "20958740-0-6812"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6812
+msgctxt "249936564-0-6812"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6811
+#, fuzzy
+msgctxt "3952276-0-6811"
+msgid """My prey has fled farther than I have reach, but the Brotherhood does not share my limitation. Find them in the Dusklight Inn and deliver your form of judgment. Prove you can't run from the past."""
+msgstr "「獲物が届かないところまで逃げてしまったが、闇の一党に限界はない。ダスクライトで彼らを見つけ、独自に裁きを下せ。過去から逃げられないことを証明しろ」"
+
+#: 20958740-0-6811
+msgctxt "20958740-0-6811"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6811
+msgctxt "249936564-0-6811"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6809
+#, fuzzy
+msgctxt "3952276-0-6809"
+msgid """The Cloudy Dregs Inn is a pox on Stormhaven. Drunken cavorting at all hours! I'm hoping a good murder will quiet the place down for a while. Killing the staff would be too obvious, but otherwise I don't really care who winds up dead."""
+msgstr "「クラウディ・ドレッグの宿はストームヘヴンの毒だ。一日中酒で浮かれ騒いでる！ 殺人でも起きれば、しばらくは落ち着くだろう。従業員を殺すとあまりにもわざとらしいが、それ以外は誰が死ぬ羽目になっても構わない」"
+
+#: 20958740-0-6809
+msgctxt "20958740-0-6809"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6809
+msgctxt "249936564-0-6809"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6808
+msgctxt "3952276-0-6808"
+msgid "You mean … you aren't here about the notice?\n\nWell, allow me to explain! I need a partner for a difficult job. It pays well, but it involves travel, and there is some danger. Does that sound like the sort of thing that might interest you?"
+msgstr "つまり… 掲示の件で来たわけじゃないのね？\r\n\r\n説明させて！ 難しい仕事の相棒が必要なの。報酬は良いけど、旅が絡むし、危険もある。興味はある？"
+
+#: 20958740-0-6808
+msgctxt "20958740-0-6808"
+msgid "Sounds good. I'm in."
+msgstr "いいだろう。協力する"
+
+#: 249936564-0-6808
+msgctxt "249936564-0-6808"
+msgid "Job? What job?"
+msgstr "仕事？ 何の仕事だ？"
+
+#: 3952276-0-6803
+#, fuzzy
+msgctxt "3952276-0-6803"
+msgid """We've got a problem with some laborers coming to a head. They aren't scared anymore, they've started refusing to pay their protection money. Need some filchers to deprive them of their tools as a gentle reminder of who's in charge."""
+msgstr "「労働者達との問題が明らかになった。彼らは恐怖を感じなくなり、保護金を支払うのを拒み始めている。盗人が彼らの道具を奪い、偉いのは誰か優しく教えてやる必要がある」"
+
+#: 20958740-0-6803
+msgctxt "20958740-0-6803"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6800
+#, fuzzy
+msgctxt "3952276-0-6800"
+msgid """Some of the entertainers working our territory think they don't need to keep up their payments and need a reminder that they don't work without our say so. Having to buy their tools of the trade out of hock ought to make the point."""
+msgstr "「領地で働いている芸人の一部が支払いをしなくてよいと考えており、我々の許可なく働けないということを分からせる必要がある。仕事の道具を買い戻すことになれば、思い知るだろう」"
+
+#: 20958740-0-6800
+msgctxt "20958740-0-6800"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 3952276-0-6797
+#, fuzzy
+msgctxt "3952276-0-6797"
+msgid "<<1>>—the one with the missing dowry? <<2>> ""found"" it, returned it, and now she's agreed to marry him. ""For the future of Taneth,"" or some drivel.\n\n<<3>> thinks our old guildmaster is behind this. She wants <<4>> to pay for betraying us. So do I!"
+msgstr "<<1>>… 持参金が行方不明になった人ね。<<2>>が「発見」して返却したら、彼女は彼との結婚に承知したの。「タネスの未来のために」とか何とか言って\r\n\r\n<<3>>は元ギルドマスターがすべての黒幕だと考えている。彼女は<<4>>に私達を裏切った代償を求めてるの。同感ね！"
+
+#: 20958740-0-6797
+msgctxt "20958740-0-6797"
+msgid "I'll speak with <<1>>."
+msgstr "<<1>>と話す"
+
+#: 249936564-0-6797
+msgctxt "249936564-0-6797"
+msgid "Wedding? What wedding?"
+msgstr "結婚式？ 結婚式とは？"
+
+#: 3952276-0-6795
+#, fuzzy
+msgctxt "3952276-0-6795"
+msgid """WANTED: Experienced warriors to thrill our spectators with their martial prowess!\n\n""Are you an experienced mercenary or gladiator looking to make a name for yourself? Prove your prowess by braving the gauntlet of the Kvatch Arena!"""
+msgstr "「求む: 戦闘技術で観客を喜ばせられる経験豊富な戦士！」\r\n\r\n「有名になりたいと思っている、経験豊かな傭兵もしくは闘士たちへ。クヴァッチ・アリーナの挑戦に応じて、自分の技術を証明せよ！」"
+
+#: 20958740-0-6795
+msgctxt "20958740-0-6795"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 249936564-0-6795
+#, fuzzy
+msgctxt "249936564-0-6795"
+msgid "<Read the bounty board.>"
+msgstr "<賞金ボードを読む>"
+
+#: 3952276-0-6794
+#, fuzzy
+msgctxt "3952276-0-6794"
+msgid "The Iron Wheel is about to put <<1>> on a prison ship to Taneth. <<2>> found out when it's going to happen.\n\nThis is the only chance we'll have to recover our guildmaster before she's locked away in a Taneth dungeon."
+msgstr "〈鉄の車輪〉は<<1>>をタネスへの囚人輸送船に乗せようとしている。<<2>>が予定日を突き止めた\r\n\r\nこれがギルドマスターがタネスの地下牢に閉じ込められる前に奪還する、唯一のチャンスだ"
+
+#: 20958740-0-6794
+#, fuzzy
+msgctxt "20958740-0-6794"
+msgid "I'll talk to <<1>>. Tell <<2>>, <<3>>, and <<4>> to meet us."
+msgstr "<<1>>と話す。<<2>>、<<3>>、<<4>>に落ち合うように伝えてくれ"
+
+#: 249936564-0-6794
+#, fuzzy
+msgctxt "249936564-0-6794"
+msgid "What does <<1>> know?"
+msgstr "<<1>>は何を知っている？"
+
+#: 3952276-0-6793
+#, fuzzy
+msgctxt "3952276-0-6793"
+msgid """WANTED: Mercenaries needed to investigate unnatural occurrences reported at Tribune's Folly.\n\n""Our dig has been disrupted by the otherworldly intrusion of disembodied voices, hostile shadows, and rumblings that shake the foundation of the site."""
+msgstr "「求む: トリビュナルズ・フォリーで報告された異常現象を調査する傭兵」\r\n\r\n「この世のものとは思えない、どこからともなく聞こえてくる声や危険な影、現場の地盤を揺るがすとどろきに悩まされ、発掘作業が妨げられています」"
+
+#: 20958740-0-6793
+msgctxt "20958740-0-6793"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 249936564-0-6793
+#, fuzzy
+msgctxt "249936564-0-6793"
+msgid "<Read the bounty board.>"
+msgstr "<賞金ボードを読む>"
+
+#: 3952276-0-6790
+#, fuzzy
+msgctxt "3952276-0-6790"
+msgid """The Gold Coast Trading Company has invited disaster to our shores.  By secretly using the ruins of Garlas Agea to house dangerous monstrosities, the company has put the very safety of the general public in question."""
+msgstr "「ゴールドコースト貿易会社は我々の岸に惨事を招き入れている。ガーラス・アジーアの遺跡を、秘密裏に危険な怪物を捕獲しておくために利用し、同地域にいる一般人の安全を脅かす状況を作り出したのだ」"
+
+#: 20958740-0-6790
+msgctxt "20958740-0-6790"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 249936564-0-6790
+#, fuzzy
+msgctxt "249936564-0-6790"
+msgid "<Read the bounty board.>"
+msgstr "<賞金ボードを読む>"
+
+#: 3952276-0-6784
+#, fuzzy
+msgctxt "3952276-0-6784"
+msgid """WANTED: A group of warriors to cleanse an abomination from Hrota Cave.\n\n""For years, Exulus the Wispmother haunted Hrota Cave, draining the life from all who enter. This undead evil must be wiped away. Its many victims cry for justice!"""
+msgstr "「求む: ロータ洞窟から邪悪な存在を取り除く戦士グループ」\r\n\r\n「ロータ洞窟では長年にわたり、ウィスプマザーのエグラスが出没し、中に入る者の命を奪ってきた。この悪者を始末しなくてはならない。多数の被害者のために裁きを下そう！」"
+
+#: 20958740-0-6784
+msgctxt "20958740-0-6784"
+msgid "<Keep reading.>"
+msgstr "<続きを読む>"
+
+#: 249936564-0-6784
+msgctxt "249936564-0-6784"
+msgid "<Read the bounty board.>"
+msgstr "<賞金ボードを読む>"
+
+#: 205344756-0-6782
+#, fuzzy
+msgctxt "205344756-0-6782"
+msgid "My alliance is locked in an epic struggle for control of the Imperial City. The forces of Molag Bal hold the city in an iron grip, but enemy bannermen also vie for power. My alliance needs my help."
+msgstr "同盟は帝都の覇権を巡って長い間もがき続けている。モラグ・バル軍が街を強固に支配しているが、敵の旗手達も力を欲している。同盟は助けを必要としている"
+
+#: 20958740-0-6778
+msgctxt "20958740-0-6778"
+msgid "The Dark Brotherhood?"
+msgstr "闇の一党？"
+
+#: 249936564-0-6778
+msgctxt "249936564-0-6778"
+msgid "People like us?"
+msgstr "私達のような者？"
+
+#: 3952276-0-6776
+msgctxt "3952276-0-6776"
+msgid "I want you to kill Artorius and fill the Void with his blood. Let the Order see what it means to challenge the Dark Brotherhood. Show them what happens when you hunt the hunters.\n\nBut reaching Artorius will require all of your Brothers and Sisters."
+msgstr "アルトリウスを始末して、奴の血で虚無を満たしてもらいたい。闇の一党に戦いを挑むとどうなるか時の騎士団に教えてやるのだ。奴らに狩人の狩り方を見せてやれ\r\n\r\nだが兄弟と姉妹が全員協力しなければ、アルトリウスには辿り着けんだろう"
+
+#: 20958740-0-6776
+msgctxt "20958740-0-6776"
+msgid "All of us? Artorius is just one man."
+msgstr "全員で？ アルトリウスはただの男だ"
+
+#: 249936564-0-6776
+msgctxt "249936564-0-6776"
+msgid "What do you want me to do when I reach Artorius?"
+msgstr "アルトリウスを見つけたらどうすればいい？"
+
+#: 205344756-0-6775
+msgctxt "205344756-0-6775"
+msgid "A thief named <<1>> needs a partner for a difficult job."
+msgstr "<<1>>という盗賊が難しい仕事の相棒を必要としている"
+
+#: 20958740-0-6774
+msgctxt "20958740-0-6774"
+msgid "Where does Hildegard usually go to pray?"
+msgstr "ヒルデガルドがいつも祈りにいってるのはどこだ？"
+
+#: 249936564-0-6774
+#, fuzzy
+msgctxt "249936564-0-6774"
+msgid "How long has Hildegard been missing?"
+msgstr "ヒルデガルドがいなくなったのはいつだ？"
+
+#: 3952276-0-6773
+msgctxt "3952276-0-6773"
+msgid "No. Due to his seniority and knowledge of the target, that honor's been bestowed upon Green-Venom-Tongue. He's already tracked Lyra to Knightsgrave and is preparing to strike.\n\nI have a different task in mind for you."
+msgstr "いえ。彼は経験を積んでいるし、標的のこともよく知っている。その名誉は、毒ある緑舌の者のものよ。彼はすでにライラを追って、ナイツグレイブに向かった。今は攻撃の準備をしている\r\n\r\nあなたには、別の仕事をやってもらうわ"
+
+#: 20958740-0-6773
+msgctxt "20958740-0-6773"
+msgid "How can I serve, Matron?"
+msgstr "どうすればいい？"
+
+#: 249936564-0-6773
+msgctxt "249936564-0-6773"
+msgid "Do you want me to kill the Black Dragon?"
+msgstr "ブラックドラゴンを殺してほしいのか？"
+
+#: 3952276-0-6772
+msgctxt "3952276-0-6772"
+msgid "Lyra was the most skilled of my Brothers and Sisters. I assumed she died in the purification of my former Sanctuary, along with the rest of my old family.\n\nIf the Black Dragon killed Lyra, why does she use her name? Curiouser and curiouser …."
+msgstr "ライラは兄弟や姉妹の中で一番優秀だった。彼女は以前の聖域が浄化された時に、前の家族達と一緒に死んでしまったと思っていた\r\n\r\nブラックドラゴンがライラを殺したのであれば、彼女はなぜその名前を使っている？ ますます奇妙だ…"
+
+#: 20958740-0-6772
+msgctxt "20958740-0-6772"
+msgid "What do you want to do?"
+msgstr "何をしてほしい？"
+
+#: 249936564-0-6772
+#, fuzzy
+msgctxt "249936564-0-6772"
+msgid "Tell me about the Lyra you knew."
+msgstr "ライラについて教えてくれ"
+
+#: 3952276-0-6771
+#, fuzzy
+msgctxt "3952276-0-6771"
+msgid "It's rare, but not unheard of. And the Black Hand agreed to the request, so who am I to complain?\n\nI'd like you to deal with this one, Initiate. Go to Anvil Castle and meet with our client. I'm sure she's got a good reason for altering our protocol."
+msgstr "珍しいことよ。けど、前例がないわけじゃない。それに黒き手も求めに反対しなかった。私がどうこう言うつもりはないわ\r\n\r\nこの件はあなたに任せたい。アンヴィル城に行って客に会って。手順を変更するのには、相応の理由があるはずよ"
+
+#: 20958740-0-6771
+#, fuzzy
+msgctxt "20958740-0-6771"
+msgid "Who's the client I'm supposed to meet?"
+msgstr "誰に会えばいい？"
+
+#: 249936564-0-6771
+#, fuzzy
+msgctxt "249936564-0-6771"
+msgid "I take it that's not the way things are usually done?"
+msgstr "これまでとはやり方が違うようだ"
+
+#: 3952276-0-6770
+#, fuzzy
+msgctxt "3952276-0-6770"
+msgid """<<1>>,\n\n""A personal matter has arisen that requires a gentle touch. It involves an old friend and an incident from our past that we need to put behind us."""
+msgstr "「<<1>>、\r\n\r\n「慎重な対処を必要とする個人的な問題が発生した。古い友人と、忘れるべき過去の事件が関係している」"
+
+#: 20958740-0-6770
+msgctxt "20958740-0-6770"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 249936564-0-6770
+msgctxt "249936564-0-6770"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 3952276-0-6769
+msgctxt "3952276-0-6769"
+msgid "You know of our botched raid on <<1>>'s tomb. But the Iron Wheel is here to recover her missing dowry. So if we didn't take it, who did?\n\n<<2>> wants answers. She's in <<c:3>>. Go on, now."
+msgstr "<<1>>の墓を襲撃して、失敗したことについては知っているわよね。でも〈鉄の車輪〉が、行方不明の持参金を回収しにやって来た。私達じゃないなら、誰が盗んだの？\r\n\r\n<<2>>が答えを求めている。<<3>>にいるわ。さあ、行って"
+
+#: 20958740-0-6769
+msgctxt "20958740-0-6769"
+msgid "All right, I'll meet her there."
+msgstr "よし、そこで彼女と会おう"
+
+#: 249936564-0-6769
+msgctxt "249936564-0-6769"
+msgid "Did she say why?"
+msgstr "彼女は理由を言ったか？"
+
+#: 3952276-0-6768
+#, fuzzy
+msgctxt "3952276-0-6768"
+msgid "<<1>> thinks someone sold out the guild to the Iron Wheel. She wants to deal with this mess fast, before everyone starts pointing fingers."
+msgstr "<<1>>はギルドの誰かが〈鉄の車輪〉に寝返ったと思っている。皆が犯人探しを始める前に、すぐこの問題に対処したいようだ"
+
+#: 20958740-0-6768
+#, fuzzy
+msgctxt "20958740-0-6768"
+msgid "I'll speak with her."
+msgstr "彼女と話そう"
+
+#: 249936564-0-6768
+#, fuzzy
+msgctxt "249936564-0-6768"
+msgid "What's going on?"
+msgstr "どうした？"
+
+#: 3952276-0-6767
+msgctxt "3952276-0-6767"
+msgid "As if the Grand Sermonizer didn't have enough vices to rage about, now she's preaching against the Brotherhood. She says we are weak, powerless. A toothless dragon that inspires ridicule instead of fear.\n\nThese lies must be silenced—permanently."
+msgstr "どうやら大説教師は怒りを向ける悪が足りなくなったようね。今、彼女は闇の一党を批判する演説を行っている。我々は弱くて無能ですって。恐れではなく、冷笑を引き起こす牙のない竜だそうよ\r\n\r\n嘘つきは黙らせなければならないわ。永遠にね"
+
+#: 20958740-0-6767
+msgctxt "20958740-0-6767"
+msgid "I can go to Kvatch."
+msgstr "クヴァッチに行こう"
+
+#: 249936564-0-6767
+msgctxt "249936564-0-6767"
+msgid "What's going on in Kvatch?"
+msgstr "クヴァッチで何が起こっている？"
+
+#: 3952276-0-6766
+#, fuzzy
+msgctxt "3952276-0-6766"
+msgid """A coward hides among the Lion Guard. My kin's blood is on their hands. So shall their blood be on yours."""
+msgstr "「獅子の守護団に臆病者が隠れている。奴らの手は私の家族の血で赤く染まっている。今度は奴らの血で手を染めてほしい」"
+
+#: 20958740-0-6766
+msgctxt "20958740-0-6766"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6766
+msgctxt "249936564-0-6766"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6765
+#, fuzzy
+msgctxt "3952276-0-6765"
+msgid """I'm being muscled out of my trade by a well-connected competitor. I'll pay handsomely for the Brotherhood to show how cutthroat business can really be."""
+msgstr "「有力なコネを持つ商売敵のせいで商売ができなくなってしまった。殺し屋の仕事がどんなものか見せてくれたら、闇の一党に多額の報酬を払う」"
+
+#: 20958740-0-6765
+msgctxt "20958740-0-6765"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6765
+msgctxt "249936564-0-6765"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6764
+#, fuzzy
+msgctxt "3952276-0-6764"
+msgid """I can't tolerate thieves—and there's one who's been smuggling my goods from Daggerfall's port. The only thing I would like to see disappear from the docks is this sticky-fingered cur."""
+msgstr "「泥棒は許せない。それに私の商品をダガーフォール港から密輸している奴もだ。この手癖の悪い野良犬には、とにかく港から退場してもらいたい」"
+
+#: 20958740-0-6764
+msgctxt "20958740-0-6764"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6764
+msgctxt "249936564-0-6764"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6763
+#, fuzzy
+msgctxt "3952276-0-6763"
+msgid """I am positive that one of the staff has been stealing from Daggerfall Castle, and as seneschal it falls on me to resolve the problem. I can't afford to reveal this failure to my liege, so please ensure the problem is resolved … unconventionally."""
+msgstr "「職員の1人がダガーフォール城で窃盗を働いたことが分かった、執事長である私がこの問題を解決しなければならない。この失態を君主に知られるわけにはいかない。だからこの問題を解決する手助けをしてほしい… 方法は問わない」"
+
+#: 20958740-0-6763
+msgctxt "20958740-0-6763"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6763
+msgctxt "249936564-0-6763"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6762
+#, fuzzy
+msgctxt "3952276-0-6762"
+msgid """A spy hides among the refugees at the camp in Aldcroft. It would not be flattering for the Covenant to raise their hand against the helpless, but the Brotherhood has no such reservations. Root out this canker and you shall be rewarded."""
+msgstr "「アルドクロフトの避難民の中に密偵が紛れている。カバナントはこの避難民に手を下すつもりはないようだが、闇の一党にそんな取り決めはない。これを排除すれば報酬を与える」"
+
+#: 20958740-0-6762
+msgctxt "20958740-0-6762"
+msgid "<Accept this contract.>"
+msgstr "<この任務を受ける>"
+
+#: 249936564-0-6762
+msgctxt "249936564-0-6762"
+msgid "<Page through the book.>"
+msgstr "<本をパラパラとめくる>"
+
+#: 3952276-0-6761
+msgctxt "3952276-0-6761"
+msgid "Something about the bastard who forced <<1>> from his own warehouse. <<2>>, I think? Some fancy-pantalooned merchant lord who might be after the guild's old rackets."
+msgstr "〈<<1>>〉を彼の倉庫から追い出した奴がどうとか。<<2>>と言ったっけ？ ギルドの古い商売を狙っているかも知れない、気取った商人王よ"
+
+#: 20958740-0-6761
+msgctxt "20958740-0-6761"
+msgid "I'll talk to <<1>>."
+msgstr "<<1>>に話す"
+
+#: 249936564-0-6761
+msgctxt "249936564-0-6761"
+msgid "Did she say what?"
+msgstr "彼女は何て言った？"
+
+#: 3952276-0-6759
+#, fuzzy
+msgctxt "3952276-0-6759"
+msgid """Rye's Reacquisitions!"" I track down items that have gone missing. As you might expect, quite a bit turns up here, but I specialize in objects of purely sentimental value. My finder's fee for the guild is usually well above the items' material worth."
+msgstr "「ライの再取得！」 私は行方不明のアイテムを見つけ出す。もちろん、ここではたくさんのものが見つかるが、私の専門は金銭的価値を伴わない思い出の品だ。ギルドに支払う行方探しの代金が、アイテムそのものの値段を上回ることが多い"
+
+#: 20958740-0-6759
+msgctxt "20958740-0-6759"
+msgid "Need any help?"
+msgstr "何か手伝いが必要か？"
+
+#: 249936564-0-6759
+msgctxt "249936564-0-6759"
+msgid "And what business is that?"
+msgstr "どういう仕事だ？"
+
+#: 3952276-0-6756
+#, fuzzy
+msgctxt "3952276-0-6756"
+msgid """An old sailor seeks the return of the favorite wooden pipe of his youth, lost in a scuffle in <<1>>. A reward is offered for anyone who finds it. Deliver it to <<2>> to collect."""
+msgstr "「年老いた船乗りが、<<1>>の乱闘でなくした若い頃からお気に入りの木製キセルの返却を望んでいる。発見した者には報酬を与える。<<2>>に届ければ受け取れる」"
+
+#: 20958740-0-6756
+msgctxt "20958740-0-6756"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 3952276-0-6755
+#, fuzzy
+msgctxt "3952276-0-6755"
+msgid """An elderly noblewoman was recently robbed of her engagement ring. The burglars were last seen heading towards <<1>>. A reward is offered for the return of the ring. Deliver it to <<2>> to collect."""
+msgstr "「年老いた貴族の女性が最近婚約指輪を盗まれた。泥棒は<<1>>へ向かうのを最後に目撃された。指輪を返却した者には報酬を与える。<<2>>に届ければ受け取れる」"
+
+#: 20958740-0-6755
+#, fuzzy
+msgctxt "20958740-0-6755"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 3952276-0-6754
+#, fuzzy
+msgctxt "3952276-0-6754"
+msgid """A captain and his crew ran afoul of Maormer at Thrall Cove. The captain wants any crewmen that survived rescued, but also the return of his treasured spyglass. Only seasoned adventurers need apply. See <<1>> with the spyglass to collect the reward."""
+msgstr "「ある船長と船員達が虜囚の入り江でマオマーと接触した。船長は生き残っている船員の救出および大事にしている望遠鏡の返却を望んでいる。熟練の冒険者のみが応募できる。<<1>>に望遠鏡を届ければ報酬を受け取れる」"
+
+#: 20958740-0-6754
+msgctxt "20958740-0-6754"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 3952276-0-6753
+#, fuzzy
+msgctxt "3952276-0-6753"
+msgid """A man seeks the return of his late wife's necklace, lost among the swamps after his courier was attacked. The necklace could be damaged or broken. Deliver to <<1>> to collect. No reimbursement for death, dismemberment, or disease."
+msgstr "「ある男が、従者が襲われた際に沼地でなくした妻の形見であるネックレスの返却を求めている。ネックレスは傷があるか壊れている可能性がある。<<1>>に届ければ報酬を受け取れる。死、怪我、病気に対する補償はない」"
+
+#: 20958740-0-6753
+msgctxt "20958740-0-6753"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 3952276-0-6752
+msgctxt "3952276-0-6752"
+msgid "That oily fat cat tried to bribe me with a fine wine to keep an eye out for you!\n\nOf course I took his bribe. Why do you think we're talking? Said to meet him in <<c:1>>, quick as you can."
+msgstr "あの油じみたデブ野郎、高級ワインを渡して私にあなたを見張らせようとしたのよ！\r\n\r\nもちろん賄賂を受け取ったわ。なぜこうやって話してると思うの？ なるべく急いで、<<1>>で彼と会うように言っていたわ"
+
+#: 20958740-0-6752
+msgctxt "20958740-0-6752"
+msgid "I'll find <<1>> in <<c:2>>."
+msgstr "<<1>>を<<2>>で見つける"
+
+#: 249936564-0-6752
+#, fuzzy
+msgctxt "249936564-0-6752"
+msgid "What's up?"
+msgstr "調子はどうだ？"
+
+#: 3952276-0-6749
+#, fuzzy
+msgctxt "3952276-0-6749"
+msgid """Esteemed thieves, I need your help. My wealth is vast and my wants are few. What I cherish most is that which I cannot simply buy. Well-lived objects, near and dear to their owners, from all walks of life. It is my last pleasure. Details attached."""
+msgstr "「立派な盗賊達、助けが必要だ。私の富は莫大で欲しいものは少ない。私が最も大切に思うものは買うことができない。あらゆる階層の人々の、所有者の手元に置かれ愛用される、使い込まれた品々。それが最後の楽しみだ。詳細を添付する」"
+
+#: 20958740-0-6749
+msgctxt "20958740-0-6749"
+msgid "<Read the contract.>"
+msgstr "<契約書を読む>"
+
+#: 249936564-0-6749
+msgctxt "249936564-0-6749"
+msgid "<Check the Tip Board.>"
+msgstr "<ギルドのジョブボードを確認する>"
+
+#: 3952276-0-6748
+#, fuzzy
+msgctxt "3952276-0-6748"
+msgid "<<1>>'s ledger? The blackmail you stole from <<2>>? This is our blueprint to pulling heists, just like we used to.\n\nWe can hit our rivals where it hurts. Take their ill-gotten gains for ourselves. Use it to rebuild."
+msgstr "<<1>>の台帳があるわね？ <<2>>から盗んだ脅迫材料よ。それが強奪の計画書なの。昔からね\r\n\r\nライバルの弱点を突く。彼らが不正な手段で得た利益を自分達のものにする。それを再建に使うの"
+
+#: 20958740-0-6748
+#, fuzzy
+msgctxt "20958740-0-6748"
+msgid "That does sound lucrative."
+msgstr "確かに儲かりそうだ"
+
+#: 249936564-0-6748
+#, fuzzy
+msgctxt "249936564-0-6748"
+msgid "You'll have to be specific."
+msgstr "詳しく教えてくれ"
+
+#: 3952276-0-6747
+#, fuzzy
+msgctxt "3952276-0-6747"
+msgid """<<1>>,\n\n""Narahni and I are doing well. She wants to talk to you."""
+msgstr "「<<1>>、\r\n\r\n「ナラーニと私は元気よ。彼女が話をしたいらしいの」"
+
+#: 20958740-0-6747
+#, fuzzy
+msgctxt "20958740-0-6747"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 249936564-0-6747
+msgctxt "249936564-0-6747"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 3952276-0-6743
+#, fuzzy
+msgctxt "3952276-0-6743"
+msgid """Have a lead on some buried treasure. No digging required. It's being stashed in the <<1>> and we have a buyer interested in a re-appropriation. This one's not going to sit long, send a professional."""
+msgstr "「埋もれた財宝の手掛かりがある。地面を掘る必要はない。<<1>>に隠されており、取得に興味を持っている買い手がいる。この者は長く放置する気はない。専門家を送れ」"
+
+#: 20958740-0-6743
+msgctxt "20958740-0-6743"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 249936564-0-6743
+msgctxt "249936564-0-6743"
+msgid "<Check today's listing.>"
+msgstr "<今日のリストを確認する>"
+
+#: 3952276-0-6742
+#, fuzzy
+msgctxt "3952276-0-6742"
+msgid """My sources say <<1>> has a little more shine today. Rare gems, kept on site, not yet accounted for. Our buyer would like them to disappear without security being unnecessarily compromised."""
+msgstr "「情報源によると今日は<<1>>がさらに輝いているらしい。貴重な宝石が説明なく現場に残されているようだ。買い手は必要以上に警備を警戒させず宝石が消えることを望んでいる」"
+
+#: 20958740-0-6742
+msgctxt "20958740-0-6742"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 249936564-0-6742
+msgctxt "249936564-0-6742"
+msgid "<Check today's listing.>"
+msgstr "<今日のリストを確認する>"
+
+#: 3952276-0-6740
+#, fuzzy
+msgctxt "3952276-0-6740"
+msgid """Word has it that there's a growing stockpile of valuables accumulating in the <<1>>. Clean 'em out, but get it done before anyone catches wise or we'll take a hit from the buyers."""
+msgstr "「<<1>>に貴重品がどんどん集まっているという噂だ。根こそぎ手に入れろ。ただし、他の誰かが気付く前にな。さもなくば買い手達に非難される」"
+
+#: 20958740-0-6740
+msgctxt "20958740-0-6740"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 249936564-0-6740
+msgctxt "249936564-0-6740"
+msgid "<Check today's listing.>"
+msgstr "<今日のリストを確認する>"
+
+#: 3952276-0-6739
+#, fuzzy
+msgctxt "3952276-0-6739"
+msgid """Sniffed out another bunch of squatters making use of <<1>>. Looks like they're holding product too. We should move on it immediately, but try to keep a low profile and we might leech off them for a while before they catch wise."""
+msgstr "「また無断で<<1>>を利用する奴らを嗅ぎつけた。品物も持っているようだ。直ちに奪うべきだが、目立たずに行えば奴らが気付くまでしばらく食いものにできるかも知れない」"
+
+#: 20958740-0-6739
+#, fuzzy
+msgctxt "20958740-0-6739"
+msgid "<Take the listing.>"
+msgstr "<リストを受け取る>"
+
+#: 249936564-0-6739
+msgctxt "249936564-0-6739"
+msgid "<Check today's listing.>"
+msgstr "<今日のリストを確認する>"
+
+#: 3952276-0-6735
+#, fuzzy
+msgctxt "3952276-0-6735"
+msgid "Grim? It's worse than that. It's catastrophic!\n\nPrince Hew buried his secret shame in there, but now it's trying to get out and destroy us all! His mad uncle, Magnifico Bahraha the necromancer, damn his eyes! This is all his fault."
+msgstr "暗い？ それよりもひどい。壊滅的だ！\r\n\r\nヒュー王子はあそこに秘密の恥を埋めたが、今それが出て来て皆を破滅させようとしている！ 彼のイカれた叔父、忌わしい死霊術師のマグニフィコ・バーラハめ！ すべて奴のせいだ"
+
+#: 20958740-0-6735
+#, fuzzy
+msgctxt "20958740-0-6735"
+msgid "Is there something going on in that old tomb?"
+msgstr "あの古い墳墓の中で何かが起きているのか？"
+
+#: 249936564-0-6735
+#, fuzzy
+msgctxt "249936564-0-6735"
+msgid "That's a pretty grim view of things."
+msgstr "かなり暗いものの見方だな"
+
+#: 3952276-0-6734
+#, fuzzy
+msgctxt "3952276-0-6734"
+msgid """<<1>>,\n\n""I must once again ask you for your help and advice. I have a solution to the situation with my old friend, but it's hard to explain. I'd prefer to show you in person instead of writing the details here."""
+msgstr "「<<1>>、\r\n\r\n「再び協力と助言を求めなければならない。古い友人の状況に対する解決策があるが、説明が難しい。ここに詳細を記すより直接会って話したい」"
+
+#: 20958740-0-6734
+msgctxt "20958740-0-6734"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 249936564-0-6734
+msgctxt "249936564-0-6734"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 3952276-0-6733
+msgctxt "3952276-0-6733"
+msgid "I have a contract. It concerns a corrupt Hlaalu noble hiding in Castle Kvatch. A noble who has to die.\n\nI know you work for the Dark Brotherhood now. Our organizations may despise each other, but you and I are friends. And friends help each other."
+msgstr "任務があるのよ。この任務にはクヴァッチ城に隠れている、腐敗したフラールの貴族が関係している。死ななければならない貴族よ\r\n\r\nあなたが闇の一党だってことは知ってる。組織はお互いを嫌ってるけど、私達は友達よ。友達は助け合うものよ"
+
+#: 20958740-0-6733
+msgctxt "20958740-0-6733"
+msgid "What kind of help do you need?"
+msgstr "どういう手伝いが必要だ？"
+
+#: 249936564-0-6733
+msgctxt "249936564-0-6733"
+msgid "What are you doing in Kvatch, Naryu?"
+msgstr "クヴァッチで何をやっている、ナリュー？"
+
+#: 3952276-0-6732
+msgctxt "3952276-0-6732"
+msgid "Don't play coy with me. At least not about this. I know you're with the Dark Brotherhood. I'm not, but I'm no threat to you. My target is a corrupt noble of House Hlaalu. He fled Narsis. Caused something of a scandal.\n\nCare to give me a hand?"
+msgstr "隠す必要はない。このことに関してはね。あなたが闇の一党の一員だってことは知ってる。私は違うけど、脅威となる存在じゃない。私の標的は腐敗したフラール家の貴族よ。彼はナルシスから逃げた。問題を起こしたせいでね\r\n力を貸してくれない？"
+
+#: 20958740-0-6732
+#, fuzzy
+msgctxt "20958740-0-6732"
+msgid "You want me to help you kill someone?"
+msgstr "誰かを倒す手伝いが要るのか？"
+
+#: 249936564-0-6732
+#, fuzzy
+msgctxt "249936564-0-6732"
+msgid "You think I'm an assassin?"
+msgstr "アサシンだと思うのか？"
+
+#: 3952276-0-6730
+#, fuzzy
+msgctxt "3952276-0-6730"
+msgid "Mirabelle's outburst doesn't concern you, Assassin. Focus on the task at hand.\n\nCount Carolus still owes us for the Sacrament. He claimed to have information about the Black Dragon. Meet him at the ruins of Dasek Moor and find out what he knows."
+msgstr "ミラベルが怒っている理由はあなたに関係ない。目の前の仕事に集中しなさい\r\n\r\nカロラス伯爵は、まだ契約を履行していない。彼はブラックドラゴンに関する情報を持っていると言っていた。ダセクムーアの遺跡で彼に会い、何を知っているか確かめてきて"
+
+#: 20958740-0-6730
+#, fuzzy
+msgctxt "20958740-0-6730"
+msgid "Why does he want to meet at the ruins?"
+msgstr "彼が遺跡で会いたがっている理由は？"
+
+#: 249936564-0-6730
+#, fuzzy
+msgctxt "249936564-0-6730"
+msgid "Of course, Matron, but why was Mirabelle so upset?"
+msgstr "分かった。ただ、ミラベルはなぜあんなに取り乱していた？"
+
+#: 3952276-0-6729
+#, fuzzy
+msgctxt "3952276-0-6729"
+msgid """<<1>>,\n\n""Come to my garden as soon as you can. I need to talk to you. —V."""
+msgstr "「<<1>>、\r\n\r\n「できるだけ早く私の庭へ来て。話があるの。――V」"
+
+#: 20958740-0-6729
+msgctxt "20958740-0-6729"
+msgid "I should visit Velsa and see what she wants."
+msgstr "ヴェルサを訪ねて用件を聞こう"
+
+#: 249936564-0-6729
+msgctxt "249936564-0-6729"
+msgid "<Continue reading.>"
+msgstr "<読み続ける>"
+
+#: 3952276-0-6728
+msgctxt "3952276-0-6728"
+msgid "Perhaps, but that doesn't make it less true.\n\nDid you know that Prince Hew buried his family's secret shame in his own ancestral tomb? It involved his mad uncle Magnifico Bahraha, who tried to form a necromantic cult under the prince's very nose."
+msgstr "そうかも知れない。でも真実に変わりないわ\r\n\r\nヒュー王子が一族の秘密の恥を先祖の墳墓に埋めたことを知ってる？ 王子の鼻の先で死霊術の教団を作ろうとした、イカれたおじのマグニフィコ・バーラハに関することよ"
+
+#: 20958740-0-6728
+msgctxt "20958740-0-6728"
+msgid "And that would have been bad?"
+msgstr "それが悪いことか？"
+
+#: 249936564-0-6728
+msgctxt "249936564-0-6728"
+msgid "That's a grim prognosis."
+msgstr "暗い予測だな"
+
+#: 3952276-0-6726
+#, fuzzy
+msgctxt "3952276-0-6726"
+msgid "Do you think she tells me things? Can't keep a secret when I'm drinking.\n\nSomething about how someone sold out the guild to the Iron Wheel. And how to put us all back on our feet. Think I'll pass on that."
+msgstr "彼女が私に話をすると思う？ 酒を飲むと秘密が守れないのに\r\n\r\n誰かがギルドを〈鉄の車輪〉に売ったとか何とか。それから、私達が立ち直るための方法について。私は遠慮したいけどね"
+
+#: 20958740-0-6726
+#, fuzzy
+msgctxt "20958740-0-6726"
+msgid "I'll speak with <<1>>."
+msgstr "<<1>>と話す"
+
+#: 249936564-0-6726
+#, fuzzy
+msgctxt "249936564-0-6726"
+msgid "What's going on?"
+msgstr "どうした？"
+
+#: 3952276-0-6724
+#, fuzzy
+msgctxt "3952276-0-6724"
+msgid """<<1>>:\n\n""I have new information on <<2>> that requires your attention and discretion. Meet me at Hew's Mane, just off the Promenade in Abah's Landing.\n\n""—<<3>>"""
+msgstr "「<<1>>:\r\n\r\n<<2>>に関して注意と判断を必要とする新しい情報を入手したわ。ヒューズメインで会いましょう。アバーズ・ランディングのプロムナードから少し外れたところよ\r\n\r\n――<<3>>」"
+
+#: 20958740-0-6724
+msgctxt "20958740-0-6724"
+msgid "I should meet <<1>> at Hew's Mane."
+msgstr "<<1>>とヒューズメインで会おう"
+
+#: 249936564-0-6724
+msgctxt "249936564-0-6724"
+msgid "<Examine the note.>"
+msgstr "<メモを調べる>"
+
+#: 205344756-0-6421
+#, fuzzy
+msgctxt "205344756-0-6421"
+msgid "I found an ancient lunar talisman amid Rakkhat's remains. This almost certainly belonged to Kulan-dro before he was corrupted by the Bent Dance. The Moon-Bishops will likely want it returned."
+msgstr "ラカートの遺体から古代の月の護符を発見した。ベントの踊りで堕落する前のクラン・ドロが持っていたに違いない。月の司祭は返却を望むだろう"
+
+#: 205344756-0-6781
+msgctxt "205344756-0-6781"
+msgid "Forge-Mother Alga, in the name of the mighty King Kurog, invites you to test your mettle in the wilds of majestic Wrothgar.\n\nTo begin your journey, find Ambassador Lazgara in one of the following cities: Daggerfall, Davon's Watch, or Vulkhel Guard."
+msgstr "鍛冶の母アルガが、偉大なるクログ王の名の下に、雄大なるロスガーの荒野で勇気を試すよう招待している。\r\n\r\nこの旅を始めるには、以下のいずれかの街でラズガラ大使に会う: ダガーフォール、ダボンズ・ウォッチ、バルケルガード"
+
+#: 3952276-0-6778
+msgctxt "3952276-0-6778"
+msgid "Don't play coy. I see it in your eyes. You've killed people. Or you will. You've got the same urges as I do.\n\nJust between us, I hear the Dark Brotherhood is recruiting for some new blood. I'm going to try my best to get their attention."
+msgstr "隠さなくていいわ。その目を見れば分かるもの。あなたは人々を殺してきた。もしくはこれから殺す。あなたはあたしと同じ欲望の持ち主よ\r\n\r\nここだけの話だけど、闇の一党が新しい血を求めてるらしいの。彼らに認めてもらうために、できる限りのことをやるつもりよ"
+
+#: 3952276-0-6774
+#, fuzzy
+msgctxt "3952276-0-6774"
+msgid "After Tanek was injured during the Grand Sermonizer incident, Hilde went to pray for him and I haven't seen her since. No one has! It's not like Hilde to just disappear without saying a word to me or Astara."
+msgstr "タネクが大説教師の件で怪我をした後、ヒルデは彼のために祈りにいった。それ以来、彼女を見ていない。どこにもいないんだ！ ヒルデが俺やアスタラに何も言わず、姿を消すはずがない"
+
+#: 205344756-0-6420
+#, fuzzy
+msgctxt "205344756-0-6420"
+msgid "I found an ancient lunar talisman amid Rakkhat's remains. This almost certainly belonged to Kulan-dro before he was corrupted by the Bent Dance. The Moon-Bishops will likely want it returned."
+msgstr "ラカートの遺体から古代の月の護符を発見した。ベントの踊りで堕落する前のクラン・ドロが持っていたに違いない。月の司祭は返却を望むだろう"

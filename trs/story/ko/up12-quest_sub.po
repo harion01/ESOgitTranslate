@@ -1,0 +1,180 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 3952276-1-7131
+#, fuzzy
+msgctxt "3952276-1-7131"
+msgid "I last spoke with her at the old farm near Dragonstar—try there.\n\nIf she departed, I'm certain she left word of her travels."
+msgstr "나는 Dragonstar 근처의 오래된 농장에서 그녀와 마지막으로 이야기했다.\n\n그녀가 출발했다면 나는 그녀의 여행에 대한 말을 남겼다.-G-"
+
+#: 20958740-1-7131
+#, fuzzy
+msgctxt "20958740-1-7131"
+msgid "I'll look for <<1>> near Dragonstar."
+msgstr "Dragonstar 근처에서 <<1>>을 찾을 것입니다.-G-"
+
+#: 3952276-1-7127
+msgctxt "3952276-1-7127"
+msgid "The circle summoned atronachs to destroy the Dark Anchor. Instead, they turned on the circle! One of the Celestials must have caused it.\n\nI'm no conjurer—I wasn't next to the summoning when it happened. It's the only reason I escaped to seek help!"
+msgstr "우리 소서러 집단은 어둠의 닻을 파괴하기 위해 아트로나크들을 소환했어요. 그런데 아트로나크들이 우리를 공격하기 시작했어요! 천인 하나가 저주를 한 것이 분명해요.\n\n저는 마법사가 아니라 소환을 진행했을 때 그 장소에 없었어요. 도움을 구하러 제가 탈출할 수 있었던 이유기도 하죠!"
+
+#: 20958740-1-7127
+msgctxt "20958740-1-7127"
+msgid "I'll travel to the <<1>> and see what I can learn."
+msgstr " <<1>>으로 가서 뭘 알아낼 수 있는지 보도록 하겠습니다."
+
+#: 3952276-1-7123
+msgctxt "3952276-1-7123"
+msgid "Out of thin air, shouting nonsense about defeating the Anka-Ra. The Guard took him to Bangkorai Gate, if you're headed that way. He's the indecent Imperial going on about Celestial This-And-That.\n\nIf you see him, tell him he owes me a thousand gold!"
+msgstr "난데없이 앙카-라를 물리쳐야 한다는 헛소리를 하면서 말이야.  경비가 그 자식을 뱅코라이 정문으로 데려갔어. 네가 그 쪽 길로 향한다면 말이야. 그 음란한 임페리얼은 천인 어쩌구 저쩌구를 계속 떠들어댔지.\n\n그 자식을 만나면 나한테 천 골드를 빚졌다고 전해 줘!"
+
+#: 20958740-1-7123
+msgctxt "20958740-1-7123"
+msgid "Indecently exposed Imperial in Bangkorai Gate. Got it."
+msgstr "뱅코라이 정문에서 음란하게 노출한 임페리얼 말이지? 알겠어."
+
+#: 3952276-0-7162
+#, fuzzy
+msgctxt "3952276-0-7162"
+msgid "I'm hearing rumors of more Daedra in <<1>>. Time to banish them, just like you did their friends.\n\nToss some <<z:2>> on their <<z:3>>. Then smash the relics they used to bring them here. While you're there, kill whoever's behind all the summoning."
+msgstr "나는 <<1>>에 Daedra에 대한 소문을 듣고 있습니다. 친구를 사귀는 것처럼 그들을 추방 할 시간입니다.\n\n<<z:2>>에 <<z:2>>를 두십시오. 그런 다음 여기에 가져온 유물을 부숴 버리십시오. 거기에있는 동안 모든 소환 뒤에있는 사람을 죽이십시오.-G-"
+
+#: 20958740-0-7162
+#, fuzzy
+msgctxt "20958740-0-7162"
+msgid "All right, I'll do it."
+msgstr "좋아, 할게.-G-"
+
+#: 249936564-0-7162
+#, fuzzy
+msgctxt "249936564-0-7162"
+msgid "Keep talking."
+msgstr "계속 얘기.-G-"
+
+#: 3952276-0-7143
+#, fuzzy
+msgctxt "3952276-0-7143"
+msgid "<A simple map directs revelers to Breda, a New Life Herald in Eastmarch. There is a small note scrawled on the map.>\n\n""All are welcome to celebrate the New Life Festival!"""
+msgstr "<간단한지도는 이스트 매치의 새로운 생명의 선구자 인 브레다 (Breda)에게 안내자를 안내합니다. 지도에 작은 글씨가 새겨 져 있습니다.>\n\n\"\"새 생명 축제를 축하해 주시기 바랍니다!\"\"-G-"
+
+#: 20958740-0-7143
+#, fuzzy
+msgctxt "20958740-0-7143"
+msgid "I should find <<1>> in Eastmarch."
+msgstr "나는 Eastmarch에서 <<1>>을 찾아야한다.-G-"
+
+#: 249936564-0-7143
+#, fuzzy
+msgctxt "249936564-0-7143"
+msgid "<Examine the scroll.>"
+msgstr "<스크롤을 검사하십시오.>-G-"
+
+#: 3952276-0-7138
+#, fuzzy
+msgctxt "3952276-0-7138"
+msgid "It marks a fresh start to the new year, for all who walk beneath the sun. Everyone in Tamriel celebrates!\n\nWell, perhaps not the Maormer—but everyone else. You should try it for yourself and see!"
+msgstr "그것은 새해를 맞이하여 태양 아래서 걷는 모든 사람들에게 신선한 출발점입니다. Tamriel의 모든 사람들이 기념합니다!\n\n자, 아마도 Maormer가 아니라 다른 모든 사람들. 너 자신을 위해 그것을 시도해야 볼 수 있습니다!-G-"
+
+#: 20958740-0-7138
+#, fuzzy
+msgctxt "20958740-0-7138"
+msgid "I'm interested. Tell me more about it."
+msgstr "내가 관심. 그것에 대해 좀 더 말해줘.-G-"
+
+#: 249936564-0-7138
+#, fuzzy
+msgctxt "249936564-0-7138"
+msgid "What is the New Life Festival?"
+msgstr "뉴 라이프 페스티벌이란 무엇입니까?-G-"
+
+#: 3952276-0-7131
+#, fuzzy
+msgctxt "3952276-0-7131"
+msgid "<<1>>? She has plans for the Scaled Court—plans that conflict with those of the Serpent.\n\nBut my patron can explain the details when you meet her."
+msgstr "<<1>>? 그녀는 독재자의 계획과 충돌하는 규모의 재판 계획을 가지고 있습니다.\n\n그러나 그녀를 만날 때 후원자가 세부 사항을 설명 할 수 있습니다.-G-"
+
+#: 20958740-0-7131
+#, fuzzy
+msgctxt "20958740-0-7131"
+msgid "And where exactly can I meet your patron?"
+msgstr "그리고 어디에서 당신의 후원자를 만날 수 있습니까?-G-"
+
+#: 205344756-0-7131
+#, fuzzy
+msgctxt "205344756-0-7131"
+msgid "A woman named <<1>> has plans for the Scaled Court. It seems she opposes the Serpent."
+msgstr "<<1>>이라는 여성은 Scaled Court에 대한 계획을 가지고 있습니다. 그녀가 독사에 반대하는 것 같습니다.-G-"
+
+#: 249936564-0-7131
+#, fuzzy
+msgctxt "249936564-0-7131"
+msgid "Who is your patron?"
+msgstr "당신의 후원자는 누구입니까?-G-"
+
+#: 3952276-0-7127
+msgctxt "3952276-0-7127"
+msgid "My colleague, <<1>>? We're sorcerers, he leads my circle. Or … or led, I ….\n\nWe sought to shatter a Dark Anchor at its base. To show the Fighters Guild we can do it more efficiently. So we traveled to the <<2>>, but our plan went horribly awry."
+msgstr "내 동료인 <<1>>? 우리는 소서러들이고, 그가 우리 집단을 이끌고 있었어요. 혹은 ... 제가 이끌거나요.\n\n우린 어둠의 닻을 바닥부터 산산조각내려고 했어요. 파이터 길드에게 우리가 더 효율적이란 걸 보여주려고요. 그래서 우리는 <<2>>로 떠났지만, 계획이 끔찍하게 빗나가 버렸어요."
+
+#: 20958740-0-7127
+msgctxt "20958740-0-7127"
+msgid "How so?"
+msgstr "어떻게 말입니까?"
+
+#: 205344756-0-7127
+msgctxt "205344756-0-7127"
+msgid "When called to destroy a Dark Anchor in Craglorn, atronachs turned on the mages who summoned them. One mage who escaped believes a Celestial caused it to happen."
+msgstr "크래글론의 어둠의 닻을 파괴하기 위해 소환된 아트로나크들은 자신들을 소환한 마법사들을 공격했어요. 탈출한 한 마법사는 천인이 저주를 내려 이런 일이 일어났다고 믿고 있어요."
+
+#: 249936564-0-7127
+msgctxt "249936564-0-7127"
+msgid "Tell me what happened."
+msgstr "무슨 일이 있었는지 말씀해 주세요."
+
+#: 3952276-0-7123
+msgctxt "3952276-0-7123"
+msgid "Dragonstar Arena? Where I lost everything? A sure win, they said … only fools wouldn't bet, they said. \n\nThen that bare-arsed imbecile dropped out of nowhere and threw the match!"
+msgstr "드래곤스타 투기장? 내가 모든 걸 잃은 곳 말이야? 반드시 이길 거라고 그들이 말했어 ... 바보들만 돈을 걸지 않을 거라고, 그들이 말했지.\n\n그러고 나서 그 벌거숭이 얼간이가 어디선가 떨어져서 경기를 내팽겨쳐 버렸다고!"
+
+#: 20958740-0-7123
+msgctxt "20958740-0-7123"
+msgid "A naked man fell from the sky?"
+msgstr "벌거 벗은 남자가 하늘에서 떨어졌다고?"
+
+#: 205344756-0-7123
+msgctxt "205344756-0-7123"
+msgid "I learned of a strange Imperial being held captive by the Dragonstar Arena Guard. He claims to know how to defeat the cursed army of Anka-Ra that has laid siege to Craglorn since the Celestials appeared."
+msgstr "나는 드래곤스타 투기장 경비에 붙잡힌 이상한 임페리얼에 대해 알게 되었다. 그는 천인이 나타난 이후로 크래글론을 포위한 저주 받은 앙카-라의 군대를 처치할 방법을 알고 있다고 주장하고 있다."
+
+#: 249936564-0-7123
+msgctxt "249936564-0-7123"
+msgid "I don't know what you're talking about."
+msgstr "네가 무슨 말을 하는지 모르겠어."
+
+#: 3952276-0-7103
+#, fuzzy
+msgctxt "3952276-0-7103"
+msgid "More Veiled Heritance scum spotted in Naril Nagaia. Seems they didn't realize the locals want to have them for lunch.\n\nBring back a pile of their heads—enough for them to notice—and the liver of whoever leads them. That should scare them away."
+msgstr "나일 나가이 아 (Naril Nagaia)에서 더 많은 정복 된 헤르니아 츠 쓰레기가 발견되었습니다. 현지인들이 점심 도시락을 먹고 싶어한다는 것을 알지 못했던 것으로 보입니다.\n\n눈에 띄는 머리카락과 그들을 인도하는 사람의 간을 되찾아주십시오. 그것은 그들을 두려워해야합니다.-G-"
+
+#: 20958740-0-7103
+#, fuzzy
+msgctxt "20958740-0-7103"
+msgid "All right, I'll do it."
+msgstr "좋아, 할게.-G-"
+
+#: 249936564-0-7103
+#, fuzzy
+msgctxt "249936564-0-7103"
+msgid "What do you need?"
+msgstr "뭐가 필요해?-G-"

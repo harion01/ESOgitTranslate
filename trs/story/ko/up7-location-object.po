@@ -1,0 +1,347 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 10860933-0-1705
+msgctxt "10860933-0-1705"
+msgid "Monstrous Tooth Trophy Vault"
+msgstr "괴물 이빨 전리품 금고"
+
+#: 10860933-0-1704
+msgctxt "10860933-0-1704"
+msgid "Clawed Trophy Vault"
+msgstr "발톱 전리품 금고"
+
+#: 108566804-0-1699
+msgctxt "108566804-0-1699"
+msgid "You braved the dangers of the White-Gold Tower."
+msgstr "당신은 백금탑의 위험에 용감히 맞섰습니다."
+
+#: 129979412-0-1699
+msgctxt "129979412-0-1699"
+msgid "Explore the White-Gold Tower."
+msgstr "백금탑을 탐험하세요."
+
+#: 10860933-0-1698
+msgctxt "10860933-0-1698"
+msgid "Dungeon: White-Gold Tower"
+msgstr "던전: 백금탑 (White-Gold Tower)"
+
+#: 108566804-0-1698
+msgctxt "108566804-0-1698"
+msgid "You braved the dangers of the White-Gold Tower."
+msgstr "당신은 백금탑의 위험에 용감히 맞섰습니다."
+
+#: 129979412-0-1698
+msgctxt "129979412-0-1698"
+msgid "Explore the White-Gold Tower."
+msgstr "백금탑을 탐험하세요."
+
+#: 10860933-0-1697
+msgctxt "10860933-0-1697"
+msgid "Dungeon: White-Gold Tower"
+msgstr "던전: 백금탑 (White-Gold Tower)"
+
+#: 108566804-0-1697
+msgctxt "108566804-0-1697"
+msgid "You braved the dangers of the White-Gold Tower."
+msgstr "당신은 백금탑의 위험에 용감히 맞섰습니다."
+
+#: 129979412-0-1697
+msgctxt "129979412-0-1697"
+msgid "Explore the White-Gold Tower."
+msgstr "백금탑을 탐험하세요."
+
+#: 10860933-0-1696
+msgctxt "10860933-0-1696"
+msgid "Dungeon: Imperial City Prison"
+msgstr "던전: 임페리얼 시티 감옥 (Imperial City Prison)"
+
+#: 108566804-0-1696
+msgctxt "108566804-0-1696"
+msgid "You braved the dangers of the Imperial City Prison."
+msgstr "임페리얼 시티 감옥의 위험에 대항했습니다."
+
+#: 129979412-0-1696
+msgctxt "129979412-0-1696"
+msgid "Explore the Imperial City Prison."
+msgstr "임페리얼 시티 감옥을 탐험해보세요."
+
+#: 10860933-0-1695
+msgctxt "10860933-0-1695"
+msgid "Daedric Embers Trophy Vault"
+msgstr "데이드릭 잉걸불 전리품 금고"
+
+#: 108566804-0-1683
+msgctxt "108566804-0-1683"
+msgid "You saved Father Egnatius and gained a critical ally."
+msgstr "에그나티우스 신부를 구출하고 아주 주요한 동맹군을 얻었습니다."
+
+#: 129979412-0-1683
+msgctxt "129979412-0-1683"
+msgid "Save captured clergy from torture by Molag Bal's minions."
+msgstr "몰라그 발의 하수인들에게 고문당하는 성직자들을 구출하세요."
+
+#: 10860933-0-1682
+msgctxt "10860933-0-1682"
+msgid "Nobles District"
+msgstr "귀족 지구 (Nobles District)"
+
+#: 108566804-0-1682
+msgctxt "108566804-0-1682"
+msgid "You recovered a magic scroll crucial to stopping Molag Bal."
+msgstr "몰라그 발을 멈추게 하는 중요한 마법 두루마리를 회수했습니다."
+
+#: 129979412-0-1682
+msgctxt "129979412-0-1682"
+msgid "Discover how Imperial soldiers survived Molag Bal's attacks."
+msgstr "제국군 병사들이 어떻게 몰라그 발의 공격에서 살아남았는지 알아내세요."
+
+#: 10860933-0-1681
+msgctxt "10860933-0-1681"
+msgid "Memorial District"
+msgstr "기념 지구 (Memorial District)"
+
+#: 108566804-0-1681
+msgctxt "108566804-0-1681"
+msgid "You destroyed Molag Bal's tunnel and thwarted his plans."
+msgstr "몰라그 발의 땅굴을 파괴하고 그의 계획을 좌절시켰습니다."
+
+#: 129979412-0-1681
+msgctxt "129979412-0-1681"
+msgid "Discover what Molag Bal is digging for beneath the city."
+msgstr "몰라그 발이 도시 아래를 파내고 있는 것을 발견하세요."
+
+#: 10860933-0-1680
+msgctxt "10860933-0-1680"
+msgid "Elven Gardens District"
+msgstr "엘븐 정원 지구 (Elven Gardens District)"
+
+#: 108566804-0-1680
+msgctxt "108566804-0-1680"
+msgid "You stole an ancient key from Molag Bal and left a fake key."
+msgstr "몰라그 발에게서 고대의 열쇠를 훔쳐내고 가짜 열쇠를 남겨뒀습니다."
+
+#: 129979412-0-1680
+msgctxt "129979412-0-1680"
+msgid "Help a spy within Legion Zero steal an important artifact."
+msgstr "제 0군단 내부의 첩자가 중요한 유물을 훔쳐내는 것을 도우세요."
+
+#: 10860933-0-1679
+msgctxt "10860933-0-1679"
+msgid "Arena District"
+msgstr "투기장 지구 (Arena District)"
+
+#: 108566804-0-1679
+msgctxt "108566804-0-1679"
+msgid "You learned Molag Bal hopes to sabotage the Dragonfires."
+msgstr "몰라그 발이 드래곤파이어를 파괴하려 한다는 것을 알아냈습니다."
+
+#: 129979412-0-1679
+msgctxt "129979412-0-1679"
+msgid "Discover Molag Bal's secret plan for Imperial City."
+msgstr "임페리얼 시티에 대한 몰라그 발의 비밀스런 계획을 알아내세요."
+
+#: 10860933-0-1678
+msgctxt "10860933-0-1678"
+msgid "Arboretum"
+msgstr "수목원 (Arboretum)"
+
+#: 108566804-0-1678
+msgctxt "108566804-0-1678"
+msgid "You saved the book 'The Sublime Brazier' from destruction."
+msgstr "파괴로부터 '숭고한 화로'라는 책을 지켜냈습니다."
+
+#: 129979412-0-1678
+msgctxt "129979412-0-1678"
+msgid "Prevent the Daedra from destroying a rare book."
+msgstr "데이드라가 희귀한 책을 파괴하지 못하게 막으세요."
+
+#: 10860933-0-1677
+msgctxt "10860933-0-1677"
+msgid "General Zamachar"
+msgstr "자마카르 장군"
+
+#: 108566804-0-1671
+msgctxt "108566804-0-1671"
+msgid "You survived the dangers of the Maelstrom Arena."
+msgstr "당신은 마엘스톰 투기장의 위험에서 살아남았습니다."
+
+#: 129979412-0-1671
+msgctxt "129979412-0-1671"
+msgid "Survive the Maelstrom Arena."
+msgstr "마엘스톰 투기장에서 살아남으세요."
+
+#: 10860933-0-1670
+msgctxt "10860933-0-1670"
+msgid "Merchant's Gate Wayshrine"
+msgstr "상인의 관문 성소"
+
+#: 108566804-0-1666
+msgctxt "108566804-0-1666"
+msgid "You braved the dangers of the White-Gold Tower."
+msgstr "당신은 백금탑의 위험에 용감히 맞섰습니다."
+
+#: 129979412-0-1666
+msgctxt "129979412-0-1666"
+msgid "Explore the White-Gold Tower."
+msgstr "백금탑을 탐험하세요."
+
+#: 10860933-0-1662
+msgctxt "10860933-0-1662"
+msgid "Merchant's Gate"
+msgstr "상인의 관문 (Merchant's Gate)"
+
+#: 129979412-0-1563
+msgctxt "129979412-0-1563"
+msgid "Help the survivors of the frozen fleet."
+msgstr "얼어붙은 함대의 생존자를 도우십시오."
+
+#: 108566804-0-1561
+msgctxt "108566804-0-1561"
+msgid "You ended the draugr dilemma and aided the Orcs."
+msgstr "당신은 드로거의 갈등을 끝내고 오크들을 도왔습니다."
+
+#: 129979412-0-1561
+msgctxt "129979412-0-1561"
+msgid "Find a way to return the draugr to their resting place."
+msgstr "드로거가 그들의 묘지로 돌려보낼 방법을 찾으세요."
+
+#: 108566804-0-1558
+msgctxt "108566804-0-1558"
+msgid "You helped the Orc hunting party at Bonerock Cavern."
+msgstr "뼈바위 동굴에서 오크 사냥 파티를 도왔습니다."
+
+#: 129979412-0-1558
+msgctxt "129979412-0-1558"
+msgid "Help the Orc hunting party at Bonerock Cavern."
+msgstr "뼈바위 동굴에서 오크 사냥 파티를 도와주세요."
+
+#: 108566804-0-1540
+msgctxt "108566804-0-1540"
+msgid "You reached Sorrow's summit and found the Armlet of Torug."
+msgstr "당신은 슬픔의 정상에 도달하여 토루그의 팔찌를 발견했습니다."
+
+#: 129979412-0-1540
+msgctxt "129979412-0-1540"
+msgid "Help Lady Laurent climb to the top of Sorrow."
+msgstr "레이디 로렌이 슬픔의 정상으로 올라갈 수 있도록 도와주세요."
+
+#: 108566804-0-1537
+msgctxt "108566804-0-1537"
+msgid "You revealed mysteries of the past at Honor's Rest."
+msgstr "명예의 휴식처에서 과거의 신비를 드러냈습니다."
+
+#: 129979412-0-1537
+msgctxt "129979412-0-1537"
+msgid "Uncover the mystery behind Honor's Rest."
+msgstr "명예의 휴식처 뒤에 있는 신비를 밝혀내세요."
+
+#: 108566804-0-1534
+msgctxt "108566804-0-1534"
+msgid "You defeated the Vosh Rakh at Paragon's Remembrance."
+msgstr "당신은 파라곤의 기억에서 보쉬 라크를 물리쳤습니다."
+
+#: 129979412-0-1534
+msgctxt "129979412-0-1534"
+msgid "Save the Vosh Rakh prisoners at Paragon's Remembrance."
+msgstr "파라곤의 기억에서 보쉬 라크에 사로잡힌 포로들을 구하세요."
+
+#: 10860933-0-1703
+msgctxt "10860933-0-1703"
+msgid "Ethereal Trophy Vault"
+msgstr "에테리얼 전리품 금고"
+
+#: 10860933-0-1702
+msgctxt "10860933-0-1702"
+msgid "Bone Shard Trophy Vault"
+msgstr "뼛조각 전리품 금고"
+
+#: 10860933-0-1701
+msgctxt "10860933-0-1701"
+msgid "Planar Armor Trophy Vault"
+msgstr "차원 방어구 전리품 금고"
+
+#: 10860933-0-1700
+msgctxt "10860933-0-1700"
+msgid "Legionary Trophy Vault"
+msgstr "군단병 전리품 금고"
+
+#: 10860933-0-1699
+msgctxt "10860933-0-1699"
+msgid "Dungeon: White-Gold Tower"
+msgstr "던전: 백금탑 (White-Gold Tower)"
+
+#: 10860933-0-1694
+msgctxt "10860933-0-1694"
+msgid "Daedric Shackle Trophy Vault"
+msgstr "데이드릭 족쇄 전리품 금고"
+
+#: 10860933-0-1692
+msgctxt "10860933-0-1692"
+msgid "Inquisitor's Retreat"
+msgstr "심문관의 은거처 (Inquisitor's Retreat)"
+
+#: 10860933-0-1691
+msgctxt "10860933-0-1691"
+msgid "Headsman's Bone Pile"
+msgstr "사형 집행인의 뼈무더기 (Headsman's Bone Pile)"
+
+#: 10860933-0-1690
+msgctxt "10860933-0-1690"
+msgid "Bloodmist Slaughterhouse"
+msgstr "핏빛안개 도살장 (Bloodmist Slaughterhouse)"
+
+#: 10860933-0-1683
+msgctxt "10860933-0-1683"
+msgid "Temple District"
+msgstr "신전 지구 (Temple District)"
+
+#: 10860933-0-1676
+msgctxt "10860933-0-1676"
+msgid "General Kryozote"
+msgstr "크료조테 장군"
+
+#: 10860933-0-1674
+msgctxt "10860933-0-1674"
+msgid "General Nazenaechar"
+msgstr "나제네챠 장군 (General Nazenaechar)"
+
+#: 10860933-0-1671
+msgctxt "10860933-0-1671"
+msgid "Arena: Maelstrom"
+msgstr "투기장: 마엘스톰"
+
+#: 10860933-0-1669
+msgctxt "10860933-0-1669"
+msgid "Morkuldin Forge"
+msgstr "모쿨딘 대장간 (Morkuldin Forge)"
+
+#: 10860933-0-1668
+msgctxt "10860933-0-1668"
+msgid "Boreal Forge"
+msgstr "북풍의 대장간 (Boreal Forge)"
+
+#: 10860933-0-1667
+msgctxt "10860933-0-1667"
+msgid "Malacath Statue"
+msgstr "말라카스 동상 (Malacath Statue)"
+
+#: 10860933-0-1666
+msgctxt "10860933-0-1666"
+msgid "Dungeon: White-Gold Tower"
+msgstr "던전: 백금탑 (White-Gold Tower)"
+
+#: 108566804-0-1563
+msgctxt "108566804-0-1563"
+msgid "You saved the ambassador and the frozen fleet survivors."
+msgstr "외교대사와 얼어붙은 함대 생존자들을 구했습니다."

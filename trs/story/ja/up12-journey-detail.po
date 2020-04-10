@@ -1,0 +1,700 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 103224356-0-43250
+msgctxt "103224356-0-43250"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-43244
+msgctxt "103224356-0-43244"
+msgid "I must have a <<1>>, <<2>>, and <<3>> in my possession before I can deliver them to <<4>>."
+msgstr "<<1>>、<<2>>、<<3>>を揃えて<<4>>に届ける"
+
+#: 103224356-0-43203
+msgctxt "103224356-0-43203"
+msgid "I should defeat the bandit leader while I'm affected by <<1>>."
+msgstr "<<1>>の影響を受けている間に、山賊の首領を倒す"
+
+#: 103224356-0-43202
+msgctxt "103224356-0-43202"
+msgid "I should eat <<z:1>> before I enter battle with the bandit leader."
+msgstr "山賊の首領と戦う前に、<<1>>を食べる"
+
+#: 103224356-0-43192
+msgctxt "103224356-0-43192"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>に挑戦を完了したと伝える"
+
+#: 103224356-0-43188
+msgctxt "103224356-0-43188"
+msgid "I should return to <<1>> at the Undaunted Enclave and tell him I've completed his challenge."
+msgstr "アンドーンテッド居留地にいる<<1>>の元へ戻り、挑戦を完了したと伝える"
+
+#: 103224356-0-43179
+msgctxt "103224356-0-43179"
+msgid "I should defeat the toughest draugr I can find while the pyres are lit."
+msgstr "薪が燃えている間に見つけた、最強のドラウグルを倒す"
+
+#: 103224356-0-43031
+#, fuzzy
+msgctxt "103224356-0-43031"
+msgid "I should speak to Hides-the-Ashes inside the Cradle of Shadows for more information."
+msgstr "影のゆりかごの中で灰を隠す者と話して、さらに情報を得る"
+
+#: 103224356-0-43027
+#, fuzzy
+msgctxt "103224356-0-43027"
+msgid "I should travel to the Ruins of Mazzatun and speak to a member of the Su-Zahleel tribe."
+msgstr "マザッタン遺跡へ向かって、スー・ザーリール族の者と話す"
+
+#: 103224356-0-43006
+#, fuzzy
+msgctxt "103224356-0-43006"
+msgid "I must talk to Regent Cassipia outside the scorpion matron's lair."
+msgstr "スコーピオン・マトロンの巣の外にいる摂政カシピアと話す"
+
+#: 103224356-0-42987
+#, fuzzy
+msgctxt "103224356-0-42987"
+msgid "Glirion presented me with another challenge: invoke the Scroll of Glorious Battle and defeat Captain Blackheart in his empowered state."
+msgstr "グリリオンから新たな挑戦を受けた。輝かしき戦いの巻物を発動してから、強化されたブラックハート船長を倒す"
+
+#: 103224356-0-42982
+#, fuzzy
+msgctxt "103224356-0-42982"
+msgid "Maj al-Ragath presented me with another challenge: invoke the Scroll of Glorious Battle and defeat Kra'gh the Dreugh King in his empowered state."
+msgstr "マジ・アルラガスから新たな挑戦を受けた。輝かしき戦いの巻物を発動してから、強化されたドゥルー王のクラグを倒す"
+
+#: 103224356-0-42980
+#, fuzzy
+msgctxt "103224356-0-42980"
+msgid "Glirion mentioned someone named Urgarlag also gives pledges. I should see what she has to say."
+msgstr "グリリオンは、ウルガルラグという者も誓いを提供していると言っていた。彼女から話を聞く"
+
+#: 103224356-0-42961
+#, fuzzy
+msgctxt "103224356-0-42961"
+msgid "Maj al-Ragath presented me with another challenge: invoke the Scroll of Glorious Battle and defeat Allene Pellingare in her empowered state."
+msgstr "マジ・アルラガスから新たな挑戦を受けた。輝かしき戦いの巻物を発動してから、強化されたエリーン・ペリンゲールを倒す"
+
+#: 103224356-0-42935
+#, fuzzy
+msgctxt "103224356-0-42935"
+msgid "The Thief wants me to activate the triggers to summon a bridge across the chasm."
+msgstr "盗賊の指示によると、溝の向こう側に行くには橋を召喚するための装置を発動させなくてはいけない"
+
+#: 103224356-0-42927
+msgctxt "103224356-0-42927"
+msgid "I should return to Eastmarch and speak with <<1>>."
+msgstr "イーストマーチに戻り<<1>>と話す"
+
+#: 103224356-0-42926
+msgctxt "103224356-0-42926"
+msgid "I should return to Eastmarch and speak with <<1>>."
+msgstr "イーストマーチに戻り<<1>>と話す"
+
+#: 103224356-0-42844
+#, fuzzy
+msgctxt "103224356-0-42844"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42843
+#, fuzzy
+msgctxt "103224356-0-42843"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42840
+#, fuzzy
+msgctxt "103224356-0-42840"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42834
+#, fuzzy
+msgctxt "103224356-0-42834"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42833
+#, fuzzy
+msgctxt "103224356-0-42833"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42832
+#, fuzzy
+msgctxt "103224356-0-42832"
+msgid "Maj presented me with another challenge: invoke the Scroll of Glorious Battle and slay Canonreeve Oraneth in her empowered state."
+msgstr "マジから新たな挑戦を受けた。輝かしき戦いの巻物を発動してから、強化されたキャノンリーブ・オラネスを倒す"
+
+#: 103224356-0-42830
+#, fuzzy
+msgctxt "103224356-0-42830"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42829
+msgctxt "103224356-0-42829"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42816
+#, fuzzy
+msgctxt "103224356-0-42816"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42799
+#, fuzzy
+msgctxt "103224356-0-42799"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42798
+#, fuzzy
+msgctxt "103224356-0-42798"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42770
+#, fuzzy
+msgctxt "103224356-0-42770"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42766
+#, fuzzy
+msgctxt "103224356-0-42766"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42759
+#, fuzzy
+msgctxt "103224356-0-42759"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42758
+#, fuzzy
+msgctxt "103224356-0-42758"
+msgid "Maj al-Ragath challenged me to use the <<1>> before facing the <<2>> if I want to prove I am truly Undaunted."
+msgstr "マジ・アルラガスから、真のアンドーンテッドであると証明するため、<<1>>を<<2>>と対決する前に使用するよう促された"
+
+#: 103224356-0-42756
+#, fuzzy
+msgctxt "103224356-0-42756"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42755
+#, fuzzy
+msgctxt "103224356-0-42755"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42750
+#, fuzzy
+msgctxt "103224356-0-42750"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42748
+#, fuzzy
+msgctxt "103224356-0-42748"
+msgid "Maj al-Ragath presented me with another challenge: invoke the Scroll of Glorious Battle and slay the Whisperer in her empowered state."
+msgstr "マジ・アルラガスから新たな挑戦を受けた。輝かしき戦いの巻物を発動してから、強化されたウィスパラーを倒す"
+
+#: 103224356-0-42746
+#, fuzzy
+msgctxt "103224356-0-42746"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42745
+#, fuzzy
+msgctxt "103224356-0-42745"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42744
+#, fuzzy
+msgctxt "103224356-0-42744"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42743
+#, fuzzy
+msgctxt "103224356-0-42743"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42742
+#, fuzzy
+msgctxt "103224356-0-42742"
+msgid "Glirion the Redbeard is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で赤髭グリリオンがもう一度話をしようと待っている"
+
+#: 103224356-0-42741
+#, fuzzy
+msgctxt "103224356-0-42741"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42740
+#, fuzzy
+msgctxt "103224356-0-42740"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42726
+#, fuzzy
+msgctxt "103224356-0-42726"
+msgid "I should look for her near Dragonstar."
+msgstr "ドラゴンスターの近くで彼女を探して見る"
+
+#: 103224356-0-42704
+msgctxt "103224356-0-42704"
+msgid "The Celestial Thief appeared before me at the <<1>> in Craglorn. I should speak with her."
+msgstr "クラグローンの<<1>>に、セレスティアルの盗賊が現れた。彼女と話す"
+
+#: 103224356-0-42703
+msgctxt "103224356-0-42703"
+msgid "I should travel to the <<1>> in Craglorn and learn what happened to the mages."
+msgstr "クラグローンの<<1>>へ向かって、魔術師達に起きたことを調べる"
+
+#: 103224356-0-42684
+msgctxt "103224356-0-42684"
+msgid "I should speak with him at Bangkorai Gate."
+msgstr "バンコライの門で彼と話す"
+
+#: 103224356-0-42670
+#, fuzzy
+msgctxt "103224356-0-42670"
+msgid "Maj al-Ragath is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42635
+msgctxt "103224356-0-42635"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42634
+msgctxt "103224356-0-42634"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42633
+msgctxt "103224356-0-42633"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42632
+msgctxt "103224356-0-42632"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42631
+msgctxt "103224356-0-42631"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42630
+msgctxt "103224356-0-42630"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42629
+msgctxt "103224356-0-42629"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42628
+msgctxt "103224356-0-42628"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42627
+msgctxt "103224356-0-42627"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42626
+msgctxt "103224356-0-42626"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42625
+msgctxt "103224356-0-42625"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42624
+msgctxt "103224356-0-42624"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42623
+msgctxt "103224356-0-42623"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42622
+#, fuzzy
+msgctxt "103224356-0-42622"
+msgid "Maj al-Ragat is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都でマジ・アルラガスがもう一度話をしようと待っている"
+
+#: 103224356-0-42611
+msgctxt "103224356-0-42611"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42610
+msgctxt "103224356-0-42610"
+msgid "I should return to <<1>> in my Alliance capital and tell her I've destroyed the Dark Anchors."
+msgstr "同盟の首都にいる<<1>>の元へ戻り、ダークアンカーを破壊したと伝える"
+
+#: 103224356-0-42604
+msgctxt "103224356-0-42604"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42603
+msgctxt "103224356-0-42603"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42602
+msgctxt "103224356-0-42602"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42601
+msgctxt "103224356-0-42601"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42600
+msgctxt "103224356-0-42600"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42599
+msgctxt "103224356-0-42599"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42598
+msgctxt "103224356-0-42598"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42597
+msgctxt "103224356-0-42597"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42596
+msgctxt "103224356-0-42596"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42595
+msgctxt "103224356-0-42595"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42594
+msgctxt "103224356-0-42594"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42593
+msgctxt "103224356-0-42593"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42592
+msgctxt "103224356-0-42592"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42591
+msgctxt "103224356-0-42591"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42590
+msgctxt "103224356-0-42590"
+msgid "I should return the relic to <<1>> in my Alliance capital."
+msgstr "同盟の首都で、遺物を<<1>>に返す"
+
+#: 103224356-0-42389
+msgctxt "103224356-0-42389"
+msgid "I should tell <<1>> I've completed his challenge."
+msgstr "<<1>>に挑戦を完了したと伝える"
+
+#: 103224356-0-42387
+msgctxt "103224356-0-42387"
+msgid "I need to collect <<m:1>>. I should also extract Archmage Camaano's liver from his corpse."
+msgstr "<<1>>を集める。また、アークメイジのカマーノの肝臓を死体から手に入れる"
+
+#: 103224356-0-42385
+msgctxt "103224356-0-42385"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42379
+msgctxt "103224356-0-42379"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42373
+msgctxt "103224356-0-42373"
+msgid "To complete the War Orphan's Sojourn, I must first travel to <<A:1>> in Grahtwood and speak with <<2>>."
+msgstr "戦争孤児の道を歩き終えるには、最初にグラーウッドの<<1>>へ旅して<<2>>と話す"
+
+#: 103224356-0-42282
+msgctxt "103224356-0-42282"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42278
+msgctxt "103224356-0-42278"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42252
+msgctxt "103224356-0-42252"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42251
+msgctxt "103224356-0-42251"
+msgid "I should return to Eastmarch and speak with <<1>>."
+msgstr "イーストマーチに戻り<<1>>と話す"
+
+#: 103224356-0-42250
+msgctxt "103224356-0-42250"
+msgid "I retrieved a unique coin from each of the locked chests. I should present them to <<1>>."
+msgstr "鍵のかかった宝箱それぞれから珍しいコインを手に入れた。<<1>>に見せる"
+
+#: 103224356-0-42249
+msgctxt "103224356-0-42249"
+msgid "I must retrieve the contents of three locked chests within a short amount of time. I will need lockpicks to open the chests."
+msgstr "鍵のかかった宝箱3つの中身を短時間で取り出さなければならない。宝箱を開けるにはロックピックが必要だ"
+
+#: 103224356-0-42247
+msgctxt "103224356-0-42247"
+msgid "I should speak with <<1>>, the Festival Chief of <<2>>."
+msgstr "<<1>>と話す。彼女は<<2>>の祭りの責任者だ"
+
+#: 103224356-0-42246
+msgctxt "103224356-0-42246"
+msgid "She said I should travel to <<1>> and speak with <<2>>."
+msgstr "彼女から<<1>>まで移動して<<2>>と話せと言われた"
+
+#: 103224356-0-42149
+msgctxt "103224356-0-42149"
+msgid "I should speak with Nazdura in Belkarth. She should know what's going on."
+msgstr "ベルカースのナズデュラと話す。彼女は何が起こっているのか知っているはずだ"
+
+#: 103224356-0-42117
+msgctxt "103224356-0-42117"
+msgid "I should speak with <<1>> about celebrating the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルの祝い方について<<1>>と話す"
+
+#: 103224356-0-42114
+#, fuzzy
+msgctxt "103224356-0-42114"
+msgid "I should return to <<1>> and let her know I completed the Snow Bear Plunge."
+msgstr "<<1>>に戻り、雪熊の飛び込みを終えたことを伝える"
+
+#: 103224356-0-42111
+msgctxt "103224356-0-42111"
+msgid "To complete the Snow Bear Plunge, I must leap from Dead Man's Fall into the freezing water below."
+msgstr "雪熊の飛び込みを終えるには、デッドマンズ・フォールから真下の冷たい水に飛び込む"
+
+#: 103224356-0-42110
+msgctxt "103224356-0-42110"
+msgid "To complete the Snow Bear Plunge, I must leap into the freezing water from three places in Eastmarch. Finally, I should head to Dead Man's Fall."
+msgstr "雪熊の飛び込みを終えるには、イーストマーチの3ヶ所から冷たい水に飛び込まなければならない。最後にデッドマンズ・フォールに向かう"
+
+#: 103224356-0-42109
+msgctxt "103224356-0-42109"
+msgid "To complete the Snow Bear Plunge, I must leap from Horker's Drop into the freezing water below."
+msgstr "雪熊の飛び込みを終えるには、ホーカーズ・ドロップから真下の冷たい水に飛び込む"
+
+#: 103224356-0-42106
+msgctxt "103224356-0-42106"
+msgid "To complete the Snow Bear Plunge, I must leap into the freezing water from three places in Eastmarch. Next, I should head to Horker's Drop."
+msgstr "雪熊の飛び込みを終えるには、イーストマーチの3ヶ所から冷たい水に飛び込まなければならない。次にホーカーズ・ドロップに向かう"
+
+#: 103224356-0-42105
+msgctxt "103224356-0-42105"
+msgid "To complete the Snow Bear Plunge, I must leap from Cub's Tumble into the freezing water below."
+msgstr "雪熊の飛び込みを終えるには、カブズ・タンブルから真下の冷たい水に飛び込む"
+
+#: 103224356-0-42104
+msgctxt "103224356-0-42104"
+msgid "To complete the Snow Bear Plunge, I must leap into the freezing water from three places in Eastmarch. First, I should head to Cub's Tumble."
+msgstr "雪熊の飛び込みを終えるには、イーストマーチの3ヶ所から冷たい水に飛び込まなければならない。最初にカブズ・タンブルに向かう"
+
+#: 103224356-0-41973
+msgctxt "103224356-0-41973"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41972
+msgctxt "103224356-0-41972"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41971
+msgctxt "103224356-0-41971"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41970
+msgctxt "103224356-0-41970"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41969
+msgctxt "103224356-0-41969"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41968
+msgctxt "103224356-0-41968"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41967
+msgctxt "103224356-0-41967"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41966
+msgctxt "103224356-0-41966"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41965
+msgctxt "103224356-0-41965"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41964
+msgctxt "103224356-0-41964"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41963
+msgctxt "103224356-0-41963"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41962
+msgctxt "103224356-0-41962"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41961
+msgctxt "103224356-0-41961"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41960
+msgctxt "103224356-0-41960"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41959
+msgctxt "103224356-0-41959"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41958
+msgctxt "103224356-0-41958"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41957
+msgctxt "103224356-0-41957"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41956
+msgctxt "103224356-0-41956"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41955
+msgctxt "103224356-0-41955"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41954
+msgctxt "103224356-0-41954"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41953
+msgctxt "103224356-0-41953"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41952
+msgctxt "103224356-0-41952"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41951
+msgctxt "103224356-0-41951"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41950
+msgctxt "103224356-0-41950"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41949
+msgctxt "103224356-0-41949"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41948
+msgctxt "103224356-0-41948"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41947
+msgctxt "103224356-0-41947"
+msgid "I should tell <<1>> I've destroyed the Dark Anchors."
+msgstr "<<1>>にダークアンカーを倒したと伝える"
+
+#: 103224356-0-41946
+msgctxt "103224356-0-41946"
+msgid "I should destroy any Dark Anchors I find while I'm there."
+msgstr "現地で見つけたダークアンカーを全て破壊する"
+
+#: 103224356-0-41795
+#, fuzzy
+msgctxt "103224356-0-41795"
+msgid "Now that I collected the infusions, I should meet Sara."
+msgstr "元素を集めたので、サラと会う"

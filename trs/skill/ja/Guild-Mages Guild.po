@@ -1,0 +1,252 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-45607
+msgctxt "132143172-0-45607"
+msgid "Casting a Mages Guild ability grants you <<1>>, increasing the damage of your next Light Attack by <<2>> for <<3>>."
+msgstr "魔術師ギルドのアビリティを唱えると<<1>>を獲得し、<<3>>の間、次の軽攻撃のダメージを<<2>>増加させる。"
+
+#: 198758357-0-45607
+msgctxt "198758357-0-45607"
+msgid "Might of the Guild"
+msgstr "ギルドの証"
+
+#: 132143172-0-45603
+msgctxt "132143172-0-45603"
+msgid "Increases your Max Magicka and Magicka Recovery by <<1>> for each Mages Guild ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している魔術師ギルドアビリティ1つにつき、最大マジカとマジカ再生が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45603
+msgctxt "198758357-0-45603"
+msgid "Magicka Controller"
+msgstr "マジカ制御"
+
+#: 132143172-0-45602
+msgctxt "132143172-0-45602"
+msgid "Increases the duration of your Mages Guild abilities by <<1>>."
+msgstr "魔術師ギルドのアビリティの持続時間を<<1>>延長する。"
+
+#: 198758357-0-45602
+msgctxt "198758357-0-45602"
+msgid "Everlasting Magic"
+msgstr "不朽の魔法"
+
+#: 132143172-0-45601
+msgctxt "132143172-0-45601"
+msgid "Reduces the Magicka and Health cost of your Mages Guild abilities by <<1>>."
+msgstr "魔術師ギルドのアビリティによるマジカと体力の消費が<<1>>減少する。"
+
+#: 198758357-0-45601
+msgctxt "198758357-0-45601"
+msgid "Mage Adept"
+msgstr "熟練魔術師"
+
+#: 132143172-0-43561
+msgctxt "132143172-0-43561"
+msgid "Casting a Mages Guild ability has a |cffffff50|r% chance of granting you <<1>>, increasing the damage of your next Light Attack by <<2>> for <<3>>."
+msgstr "魔術師ギルドのアビリティを唱えると|cffffff50|r%の確率で<<1>>を獲得し、<<3>>の間、次の軽攻撃のダメージを<<2>>増加させる。"
+
+#: 198758357-0-43561
+msgctxt "198758357-0-43561"
+msgid "Might of the Guild"
+msgstr "ギルドの証"
+
+#: 132143172-0-40493
+msgctxt "132143172-0-40493"
+msgid "Call a comet down from the constellations to blast an enemy, dealing <<1>> to all enemies in the area, knocking them down, and stunning them for <<2>>.\n\nAfter impact, enemies in the target area take <<3>> every <<4>> for <<5>>.\n\nYou generate <<6>> Ultimate for each enemy hit by the initial blast."
+msgstr "星座から隕石を召喚して敵を吹き飛ばし、範囲内にいる敵に<<1>>を与えてノックダウンさせ、<<2>>の間気絶させる。\r\n\r\n落下してから<<5>>の間、範囲内の敵へ<<4>>ごとに<<3>>を与える。\r\n\r\n最初の攻撃が命中した敵1体につき、<<6>>のアルティマを得る。"
+
+#: 198758357-0-40493
+msgctxt "198758357-0-40493"
+msgid "Shooting Star"
+msgstr "流星群"
+
+#: 132143172-0-40489
+msgctxt "132143172-0-40489"
+msgid "Call a comet down from the constellations to blast an enemy, dealing <<1>> to all enemies in the area, knocking them down, stunning them for <<2>>, and reducing their Movement Speed by <<3>> for <<4>>. \n\nAfter impact, enemies in the target area take <<5>> every <<6>> for <<7>>."
+msgstr "星座から隕石を召喚して敵を吹き飛ばし、範囲内にいる敵に<<1>>を与えてノックダウンさせ、<<2>>の間気絶させる。さらに移動速度を<<3>>、<<4>>の間低下させる。\r\n\r\n落下してから<<7>>の間、範囲内の敵へ<<6>>ごとに<<5>>を与える。"
+
+#: 198758357-0-40489
+msgctxt "198758357-0-40489"
+msgid "Ice Comet"
+msgstr "アイスコメット"
+
+#: 132143172-0-40483
+msgctxt "132143172-0-40483"
+msgid "Summon a mote of magelight, revealing stealthed and invisible enemies around you for <<1>>. Exposed enemies cannot return to stealth or invisibility for <<2>>.\n\nWhile slotted you gain <<3>>, increasing your Spell Critical rating by <<4>>. You also prevent the stun from stealth attacks for you and nearby allies."
+msgstr "自身を囲む灯明を作り出し、<<1>>の間ステルス中の敵や透明な敵が見えるようになる。発見された敵は<<2>>の間、ステルスや透明状態に戻ることができない。\r\n\r\nスロットに装備している間は<<3>>を得て、呪文クリティカルを<<4>>増加させる。また自分と近くの味方がステルス攻撃によって気絶しなくなる。"
+
+#: 198758357-0-40483
+msgctxt "198758357-0-40483"
+msgid "Radiant Magelight"
+msgstr "光り輝く灯明"
+
+#: 132143172-0-40478
+msgctxt "132143172-0-40478"
+msgid "Summon a mote of magelight, revealing stealthed and invisible enemies around you for <<1>>. Exposed enemies cannot return to stealth or invisibility for <<2>>.\n\nWhile slotted your Max Magicka is increased by <<3>> and you gain <<4>>, increasing your Spell Critical rating by <<5>>."
+msgstr "自身を囲む灯明を作り出し、<<1>>の間ステルス中の敵や透明な敵が見えるようになる。発見された敵は<<2>>の間、ステルスや透明状態に戻ることができない。\r\n\r\nスロットに装備している間は最大マジカが<<3>>増加し、<<4>>を得て、呪文クリティカルを<<5>>増加させる。"
+
+#: 198758357-0-40478
+msgctxt "198758357-0-40478"
+msgid "Inner Light"
+msgstr "内なる発光"
+
+#: 132143172-0-40470
+msgctxt "132143172-0-40470"
+msgid "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the rune blasts all enemies in the target area for <<2>>, knocks them into the air, and stuns them for <<3>>."
+msgstr "大地に宇宙の炎のルーンを刻み込む。発動まで|cffffff2|r秒かかり、<<1>>の間続く。\r\n\r\n発動すると、ルーンは範囲の敵を全て吹き飛ばして<<2>>を与え、空中に跳ね上げて<<3>>の間気絶させる。"
+
+#: 198758357-0-40470
+msgctxt "198758357-0-40470"
+msgid "Volcanic Rune"
+msgstr "火山のルーン"
+
+#: 132143172-0-40465
+msgctxt "132143172-0-40465"
+msgid "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the rune blasts all enemies in the target area for <<2>> and an additional <<3>> over <<4>>."
+msgstr "大地に宇宙の炎のルーンを刻み込む。発動まで|cffffff2|r秒かかり、<<1>>の間続く。\r\n\r\n発動すると、ルーンは範囲の敵を全て吹き飛ばして<<2>>を与え、さらに<<3>>を<<4>>の間与える。"
+
+#: 198758357-0-40465
+msgctxt "198758357-0-40465"
+msgid "Scalding Rune"
+msgstr "熱傷のルーン"
+
+#: 132143172-0-40457
+msgctxt "132143172-0-40457"
+msgid "Bind an enemy with chaotic magic, dealing <<1>> over <<2>>.\n\nExcess magic spills out from them, granting you <<3>>, increasing your Spell Damage by <<4>> for <<5>>."
+msgstr "混沌魔法で敵を拘束して<<1>>を<<2>>の間与える。\r\n\r\n魔法が超過した分は<<3>>が付与され、呪文ダメージが<<4>>、<<5>>の間上昇する。"
+
+#: 198758357-0-40457
+msgctxt "198758357-0-40457"
+msgid "Degeneration"
+msgstr "衰退"
+
+#: 132143172-0-40452
+msgctxt "132143172-0-40452"
+msgid "Bind an enemy with chaotic magic, dealing <<1>> over <<2>>, and healing you for <<3>> every <<4>>."
+msgstr "混沌魔法で敵を拘束して<<1>>を<<2>>の間与え、<<3>>を<<4>>ごとに回復する。"
+
+#: 198758357-0-40452
+msgctxt "198758357-0-40452"
+msgid "Structured Entropy"
+msgstr "構造乱雑"
+
+#: 132143172-0-40445
+msgctxt "132143172-0-40445"
+msgid "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for <<1>> Magicka.\n\nAfter the exchange is complete, the cost of your next Magicka ability is reduced by <<2>> for <<3>>.\n\nThe exchange reduces your healing done and damage shield strength by <<4>> for <<5>>."
+msgstr "力と引き換えに生命力をオブリビオンに差し出す。自らの体力を犠牲にし、<<1>>のマジカを得る。\r\n\r\n交換終了後、次に使用するアビリティのマジカ消費を<<2>>、<<3>>の間減少させる。\r\n\r\nこの交換により、回復力とダメージシールドの強度が<<4>>、<<5>>の間低下する。"
+
+#: 198758357-0-40445
+msgctxt "198758357-0-40445"
+msgid "Spell Symmetry"
+msgstr "対称呪文"
+
+#: 132143172-0-40441
+msgctxt "132143172-0-40441"
+msgid "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for <<1>> Magicka.\n\nAfter the exchange is complete, you gain <<2>> for <<3>>, increasing your Physical and Spell Resistance by <<4>>.\n\nThe exchange reduces your healing done and damage shield strength by <<5>> for <<6>>."
+msgstr "力と引き換えに生命力をオブリビオンに差し出す。自らの体力を犠牲にし、<<1>>のマジカを得る。\r\n\r\n交換終了後、<<2>>を<<3>>の間獲得し、物理耐性と呪文耐性を<<4>>増加させる。\r\n\r\nこの交換により、回復力とダメージシールドの強度が<<5>>、<<6>>の間低下する。"
+
+#: 198758357-0-40441
+msgctxt "198758357-0-40441"
+msgid "Balance"
+msgstr "均衡"
+
+#: 132143172-0-40438
+msgctxt "132143172-0-40438"
+msgid "Increases your Max Magicka and Magicka Recovery by <<1>> for each Mages Guild ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している魔術師ギルドアビリティ1つにつき、最大マジカとマジカ再生が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-40438
+msgctxt "198758357-0-40438"
+msgid "Magicka Controller"
+msgstr "マジカ制御"
+
+#: 132143172-0-40437
+msgctxt "132143172-0-40437"
+msgid "Increases the duration of your Mages Guild abilities by <<1>>."
+msgstr "魔術師ギルドのアビリティの持続時間を<<1>>延長する。"
+
+#: 198758357-0-40437
+msgctxt "198758357-0-40437"
+msgid "Everlasting Magic"
+msgstr "不朽の魔法"
+
+#: 132143172-0-40436
+msgctxt "132143172-0-40436"
+msgid "Reduces the Magicka and Health cost of your Mages Guild abilities by <<1>>."
+msgstr "魔術師ギルドのアビリティによるマジカと体力の消費が<<1>>減少する。"
+
+#: 198758357-0-40436
+msgctxt "198758357-0-40436"
+msgid "Mage Adept"
+msgstr "熟練魔術師"
+
+#: 132143172-0-31642
+msgctxt "132143172-0-31642"
+msgid "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for <<1>> Magicka.\n\nThe exchange reduces your healing done and damage shield strength by <<2>> for <<3>>."
+msgstr "力と引き換えに生命力をオブリビオンに差し出す。自らの体力を犠牲にし、<<1>>のマジカを得る。\r\n\r\nこの交換により、回復力とダメージシールドの強度が<<2>>、<<3>>の間低下する。"
+
+#: 198758357-0-31642
+msgctxt "198758357-0-31642"
+msgid "Equilibrium"
+msgstr "魔力変換"
+
+#: 132143172-0-31632
+msgctxt "132143172-0-31632"
+msgid "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the rune blasts all enemies in the target area for <<2>>."
+msgstr "大地に宇宙の炎のルーンを刻み込む。発動まで|cffffff2|r秒かかり、<<1>>の間続く。\r\n\r\n発動すると、ルーンは範囲の敵を全て吹き飛ばして<<2>>を与える。"
+
+#: 198758357-0-31632
+msgctxt "198758357-0-31632"
+msgid "Fire Rune"
+msgstr "炎のルーン"
+
+#: 132143172-0-30920
+msgctxt "132143172-0-30920"
+msgid "Summon a mote of magelight, revealing stealthed and invisible enemies around you for <<1>>. Exposed enemies cannot return to stealth or invisibility for <<2>>.\n\nWhile slotted you gain <<3>>, increasing your Spell Critical rating by <<4>>."
+msgstr "自身を囲む灯明を作り出し、<<1>>の間ステルス中の敵や透明な敵が見えるようになる。発見された敵は<<2>>の間、ステルスや透明状態に戻ることができない。\r\n\r\nスロットに入っている間は<<3>>を得て、呪文クリティカルが<<4>>増加する。"
+
+#: 198758357-0-30920
+msgctxt "198758357-0-30920"
+msgid "Magelight"
+msgstr "灯明"
+
+#: 132143172-0-29061
+msgctxt "132143172-0-29061"
+msgid "Allows you to Persuade NPCs in conversation."
+msgstr "会話中にNPCを説得できる。"
+
+#: 198758357-0-29061
+msgctxt "198758357-0-29061"
+msgid "Persuasive Will"
+msgstr "説得術"
+
+#: 132143172-0-28567
+msgctxt "132143172-0-28567"
+msgid "Bind an enemy with chaotic magic, dealing <<1>> over <<2>>."
+msgstr "混沌魔法で敵を拘束して、<<1>>を<<2>>の間与える。"
+
+#: 198758357-0-28567
+msgctxt "198758357-0-28567"
+msgid "Entropy"
+msgstr "乱雑"
+
+#: 132143172-0-16536
+msgctxt "132143172-0-16536"
+msgid "Call a comet down from the constellations to blast an enemy, dealing <<1>> to all enemies in the area, knocking them down, and stunning them for <<2>>.\n\nAfter impact, enemies in the target area take <<3>> every <<4>> for <<5>>."
+msgstr "星座から隕石を召喚して敵を吹き飛ばし、範囲内にいる敵に<<1>>を与えてノックダウンさせ、<<2>>の間気絶させる。\r\n\r\n落下してから<<5>>の間、範囲内の敵へ<<4>>ごとに<<3>>を与える。"
+
+#: 198758357-0-16536
+msgctxt "198758357-0-16536"
+msgid "Meteor"
+msgstr "メテオ"

@@ -1,0 +1,8084 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 219689294-2-415
+msgctxt "219689294-2-415"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-9702
+msgctxt "74865733-0-9702"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-6832
+msgctxt "108533454-0-6832"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-6785
+msgctxt "74865733-0-6785"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 263004526-0-67193
+msgctxt "263004526-0-67193"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-67184
+msgctxt "12912341-0-67184"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-67184
+msgctxt "263004526-0-67184"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-67178
+msgctxt "12912341-0-67178"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-67178
+msgctxt "263004526-0-67178"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-67167
+msgctxt "12912341-0-67167"
+msgid "Move"
+msgstr "移動"
+
+#: 263004526-0-67144
+msgctxt "263004526-0-67144"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-67125
+msgctxt "12912341-0-67125"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-67123
+msgctxt "263004526-0-67123"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-67121
+msgctxt "12912341-0-67121"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-67119
+msgctxt "263004526-0-67119"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-67085
+msgctxt "12912341-0-67085"
+msgid "Destroy"
+msgstr "破壊"
+
+#: 263004526-0-67085
+msgctxt "263004526-0-67085"
+msgid "Destroying…"
+msgstr "破壊中…"
+
+#: 12912341-0-67018
+msgctxt "12912341-0-67018"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-67018
+msgctxt "263004526-0-67018"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-66830
+msgctxt "12912341-0-66830"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-66424
+msgctxt "263004526-0-66424"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 12912341-0-66351
+msgctxt "12912341-0-66351"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-65722
+msgctxt "263004526-0-65722"
+msgid "Dessicated Corpse"
+msgstr "干からびた死体"
+
+#: 12912341-0-65720
+msgctxt "12912341-0-65720"
+msgid "Burn"
+msgstr "燃やす"
+
+#: 263004526-0-65720
+msgctxt "263004526-0-65720"
+msgid "Dessicated Corpse"
+msgstr "干からびた死体"
+
+#: 74865733-0-6570
+msgctxt "74865733-0-6570"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-6565
+msgctxt "108533454-0-6565"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 12912341-0-65530
+msgctxt "12912341-0-65530"
+msgid "Move"
+msgstr "Move"
+
+#: 263004526-0-65366
+msgctxt "263004526-0-65366"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-65342
+msgctxt "12912341-0-65342"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-65342
+msgctxt "263004526-0-65342"
+msgid "Talking…"
+msgstr "会話中…"
+
+#: 12912341-0-65302
+msgctxt "12912341-0-65302"
+msgid "Rescue"
+msgstr "救出"
+
+#: 263004526-0-65233
+msgctxt "263004526-0-65233"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 12912341-0-65198
+msgctxt "12912341-0-65198"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-65188
+msgctxt "263004526-0-65188"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 12912341-0-65176
+msgctxt "12912341-0-65176"
+msgid "Talk"
+msgstr "話す"
+
+#: 108533454-0-5503
+msgctxt "108533454-0-5503"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 12912341-0-50531
+msgctxt "12912341-0-50531"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-46214
+msgctxt "12912341-0-46214"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-46212
+msgctxt "7949764-0-46212"
+msgid "Use the <<1>>"
+msgstr "<<1>>を使う"
+
+#: 12912341-0-45849
+msgctxt "12912341-0-45849"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-45843
+msgctxt "12912341-0-45843"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-45140
+msgctxt "263004526-0-45140"
+msgid "Talking …"
+msgstr "会話中…"
+
+#: 7949764-0-44855
+#, fuzzy
+msgctxt "7949764-0-44855"
+msgid "Collect Fragment from <<1>>"
+msgstr "<<1>>から破片を手に入れる"
+
+#: 263004526-0-44662
+msgctxt "263004526-0-44662"
+msgid "Talking …"
+msgstr "会話中…"
+
+#: 7949764-0-43648
+#, fuzzy
+msgctxt "7949764-0-43648"
+msgid "Hide Before the Duelists Arrive"
+msgstr "決闘者達が到着する前に隠れる"
+
+#: 263004526-0-43235
+msgctxt "263004526-0-43235"
+msgid "Talking …"
+msgstr "会話中…"
+
+#: 12912341-0-42625
+msgctxt "12912341-0-42625"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-42191
+msgctxt "263004526-0-42191"
+msgid "Talking …"
+msgstr "会話中…"
+
+#: 219689294-0-418
+msgctxt "219689294-0-418"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19835
+msgctxt "108533454-0-19835"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19834
+msgctxt "74865733-0-19834"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19834
+msgctxt "108533454-0-19834"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19833
+msgctxt "74865733-0-19833"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19833
+msgctxt "108533454-0-19833"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19832
+msgctxt "74865733-0-19832"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19832
+msgctxt "108533454-0-19832"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19831
+msgctxt "74865733-0-19831"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19831
+msgctxt "108533454-0-19831"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19830
+msgctxt "74865733-0-19830"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19830
+msgctxt "108533454-0-19830"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 108533454-0-19731
+msgctxt "108533454-0-19731"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19704
+msgctxt "108533454-0-19704"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19702
+msgctxt "74865733-0-19702"
+msgid "0"
+msgstr "0"
+
+#: 108533454-0-19700
+msgctxt "108533454-0-19700"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19699
+msgctxt "74865733-0-19699"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19699
+msgctxt "108533454-0-19699"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19682
+msgctxt "74865733-0-19682"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19682
+msgctxt "108533454-0-19682"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19681
+msgctxt "74865733-0-19681"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19681
+msgctxt "108533454-0-19681"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19675
+msgctxt "74865733-0-19675"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19674
+msgctxt "108533454-0-19674"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19673
+msgctxt "74865733-0-19673"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19673
+msgctxt "108533454-0-19673"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19668
+msgctxt "74865733-0-19668"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19617
+msgctxt "108533454-0-19617"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19605
+msgctxt "74865733-0-19605"
+msgid "Kick"
+msgstr "キック"
+
+#: 108533454-0-19605
+msgctxt "108533454-0-19605"
+msgid "Kicking …"
+msgstr "キック中…"
+
+#: 108533454-0-19604
+msgctxt "108533454-0-19604"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19594
+msgctxt "108533454-0-19594"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19593
+msgctxt "74865733-0-19593"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19593
+msgctxt "108533454-0-19593"
+msgid "Examining"
+msgstr "調査中…"
+
+#: 74865733-0-19591
+msgctxt "74865733-0-19591"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19591
+msgctxt "108533454-0-19591"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 6658117-0-19588
+msgctxt "6658117-0-19588"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 12320021-0-19588
+msgctxt "12320021-0-19588"
+msgid "Loot"
+msgstr "盗品"
+
+#: 6658117-0-19587
+msgctxt "6658117-0-19587"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 12320021-0-19587
+msgctxt "12320021-0-19587"
+msgid "Loot"
+msgstr "盗品"
+
+#: 74865733-0-19583
+msgctxt "74865733-0-19583"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19583
+msgctxt "108533454-0-19583"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-19582
+msgctxt "74865733-0-19582"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19574
+msgctxt "108533454-0-19574"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19569
+msgctxt "74865733-0-19569"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19562
+msgctxt "108533454-0-19562"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19561
+msgctxt "74865733-0-19561"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19561
+msgctxt "108533454-0-19561"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-19560
+msgctxt "74865733-0-19560"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19552
+msgctxt "108533454-0-19552"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19551
+msgctxt "74865733-0-19551"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19551
+msgctxt "108533454-0-19551"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19550
+msgctxt "74865733-0-19550"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19550
+msgctxt "108533454-0-19550"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19549
+msgctxt "74865733-0-19549"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19549
+msgctxt "108533454-0-19549"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19548
+msgctxt "74865733-0-19548"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19548
+msgctxt "108533454-0-19548"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19547
+msgctxt "74865733-0-19547"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19547
+msgctxt "108533454-0-19547"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19546
+msgctxt "74865733-0-19546"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19546
+msgctxt "108533454-0-19546"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19545
+msgctxt "74865733-0-19545"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19545
+msgctxt "108533454-0-19545"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19544
+msgctxt "74865733-0-19544"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19544
+msgctxt "108533454-0-19544"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19543
+msgctxt "74865733-0-19543"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19543
+msgctxt "108533454-0-19543"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19540
+msgctxt "74865733-0-19540"
+msgid "0"
+msgstr "0"
+
+#: 108533454-0-19517
+msgctxt "108533454-0-19517"
+msgid "Repairing…"
+msgstr "修理中…"
+
+#: 74865733-0-19516
+msgctxt "74865733-0-19516"
+msgid "Repair"
+msgstr "修理する"
+
+#: 108533454-0-19516
+msgctxt "108533454-0-19516"
+msgid "Repairing…"
+msgstr "修理中…"
+
+#: 108533454-0-19514
+msgctxt "108533454-0-19514"
+msgid "Enter"
+msgstr "入る"
+
+#: 108533454-0-19512
+msgctxt "108533454-0-19512"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19511
+msgctxt "74865733-0-19511"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19511
+msgctxt "108533454-0-19511"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19509
+msgctxt "74865733-0-19509"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19509
+msgctxt "108533454-0-19509"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-19508
+msgctxt "74865733-0-19508"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19507
+msgctxt "108533454-0-19507"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19506
+msgctxt "74865733-0-19506"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19506
+msgctxt "108533454-0-19506"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19505
+msgctxt "74865733-0-19505"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19505
+msgctxt "108533454-0-19505"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-19501
+msgctxt "74865733-0-19501"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19501
+msgctxt "108533454-0-19501"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19500
+msgctxt "74865733-0-19500"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19500
+msgctxt "108533454-0-19500"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19499
+msgctxt "74865733-0-19499"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19499
+msgctxt "108533454-0-19499"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19498
+msgctxt "74865733-0-19498"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19498
+msgctxt "108533454-0-19498"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19497
+msgctxt "74865733-0-19497"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19497
+msgctxt "108533454-0-19497"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19496
+msgctxt "74865733-0-19496"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19496
+msgctxt "108533454-0-19496"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19495
+msgctxt "74865733-0-19495"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19495
+msgctxt "108533454-0-19495"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19494
+msgctxt "74865733-0-19494"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19494
+msgctxt "108533454-0-19494"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19493
+msgctxt "74865733-0-19493"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19493
+msgctxt "108533454-0-19493"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19491
+msgctxt "74865733-0-19491"
+msgid "0"
+msgstr "0"
+
+#: 108533454-0-19456
+msgctxt "108533454-0-19456"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19455
+msgctxt "74865733-0-19455"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19455
+msgctxt "108533454-0-19455"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19449
+msgctxt "74865733-0-19449"
+msgid "Enter"
+msgstr "入る"
+
+#: 108533454-0-19449
+msgctxt "108533454-0-19449"
+msgid "Enter"
+msgstr "入る"
+
+#: 74865733-0-19448
+msgctxt "74865733-0-19448"
+msgid "Enter"
+msgstr "入る"
+
+#: 108533454-0-19448
+msgctxt "108533454-0-19448"
+msgid "Enter"
+msgstr "入る"
+
+#: 74865733-0-19434
+msgctxt "74865733-0-19434"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19434
+msgctxt "108533454-0-19434"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19433
+msgctxt "74865733-0-19433"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19433
+msgctxt "108533454-0-19433"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19432
+msgctxt "74865733-0-19432"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19432
+msgctxt "108533454-0-19432"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19428
+msgctxt "74865733-0-19428"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19428
+msgctxt "108533454-0-19428"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19425
+msgctxt "74865733-0-19425"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19424
+msgctxt "108533454-0-19424"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19422
+msgctxt "74865733-0-19422"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19422
+msgctxt "108533454-0-19422"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19421
+msgctxt "74865733-0-19421"
+msgid "Take"
+msgstr "取る"
+
+#: 12320021-0-19400
+msgctxt "12320021-0-19400"
+msgid "Loot"
+msgstr "盗品"
+
+#: 108533454-0-19400
+msgctxt "108533454-0-19400"
+msgid "Opening…"
+msgstr "開けている…"
+
+#: 74865733-0-19399
+msgctxt "74865733-0-19399"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19381
+msgctxt "108533454-0-19381"
+msgid "Unlocking …"
+msgstr "開錠中…"
+
+#: 74865733-0-19380
+msgctxt "74865733-0-19380"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 108533454-0-19380
+msgctxt "108533454-0-19380"
+msgid "Unlocking …"
+msgstr "開錠中…"
+
+#: 74865733-0-19379
+msgctxt "74865733-0-19379"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 108533454-0-19379
+msgctxt "108533454-0-19379"
+msgid "Unlocking …"
+msgstr "開錠中…"
+
+#: 74865733-0-19375
+msgctxt "74865733-0-19375"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19357
+msgctxt "108533454-0-19357"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19356
+msgctxt "74865733-0-19356"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19356
+msgctxt "108533454-0-19356"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19355
+msgctxt "74865733-0-19355"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19355
+msgctxt "108533454-0-19355"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19352
+msgctxt "74865733-0-19352"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19352
+msgctxt "108533454-0-19352"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19347
+msgctxt "74865733-0-19347"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19347
+msgctxt "108533454-0-19347"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19346
+msgctxt "74865733-0-19346"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19346
+msgctxt "108533454-0-19346"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19344
+msgctxt "74865733-0-19344"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19344
+msgctxt "108533454-0-19344"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19343
+msgctxt "74865733-0-19343"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19343
+msgctxt "108533454-0-19343"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19341
+msgctxt "74865733-0-19341"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19341
+msgctxt "108533454-0-19341"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19337
+msgctxt "74865733-0-19337"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19337
+msgctxt "108533454-0-19337"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19335
+msgctxt "74865733-0-19335"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19335
+msgctxt "108533454-0-19335"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19334
+msgctxt "74865733-0-19334"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19334
+msgctxt "108533454-0-19334"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19333
+msgctxt "74865733-0-19333"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19333
+msgctxt "108533454-0-19333"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19332
+msgctxt "74865733-0-19332"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19332
+msgctxt "108533454-0-19332"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19330
+msgctxt "74865733-0-19330"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19330
+msgctxt "108533454-0-19330"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19329
+msgctxt "74865733-0-19329"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19329
+msgctxt "108533454-0-19329"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19328
+msgctxt "74865733-0-19328"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19328
+msgctxt "108533454-0-19328"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19322
+msgctxt "74865733-0-19322"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19322
+msgctxt "108533454-0-19322"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 6658117-0-19321
+msgctxt "6658117-0-19321"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 12320021-0-19321
+msgctxt "12320021-0-19321"
+msgid "Loot"
+msgstr "盗品"
+
+#: 74865733-0-19320
+msgctxt "74865733-0-19320"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19320
+msgctxt "108533454-0-19320"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19319
+msgctxt "74865733-0-19319"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19319
+msgctxt "108533454-0-19319"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19318
+msgctxt "74865733-0-19318"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19318
+msgctxt "108533454-0-19318"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19317
+msgctxt "74865733-0-19317"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19317
+msgctxt "108533454-0-19317"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19316
+msgctxt "74865733-0-19316"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19316
+msgctxt "108533454-0-19316"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19315
+msgctxt "74865733-0-19315"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19315
+msgctxt "108533454-0-19315"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19314
+msgctxt "74865733-0-19314"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19314
+msgctxt "108533454-0-19314"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19313
+msgctxt "74865733-0-19313"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19313
+msgctxt "108533454-0-19313"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19312
+msgctxt "74865733-0-19312"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19312
+msgctxt "108533454-0-19312"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19311
+msgctxt "74865733-0-19311"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19311
+msgctxt "108533454-0-19311"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19310
+msgctxt "74865733-0-19310"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19310
+msgctxt "108533454-0-19310"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19309
+msgctxt "74865733-0-19309"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19309
+msgctxt "108533454-0-19309"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19308
+msgctxt "74865733-0-19308"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19308
+msgctxt "108533454-0-19308"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19307
+msgctxt "74865733-0-19307"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19307
+msgctxt "108533454-0-19307"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19306
+msgctxt "74865733-0-19306"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19306
+msgctxt "108533454-0-19306"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19305
+msgctxt "74865733-0-19305"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19305
+msgctxt "108533454-0-19305"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19304
+msgctxt "74865733-0-19304"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19304
+msgctxt "108533454-0-19304"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19303
+msgctxt "74865733-0-19303"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19303
+msgctxt "108533454-0-19303"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19300
+msgctxt "74865733-0-19300"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19300
+msgctxt "108533454-0-19300"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 6658117-0-19299
+msgctxt "6658117-0-19299"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 12320021-0-19299
+msgctxt "12320021-0-19299"
+msgid "Loot"
+msgstr "盗品"
+
+#: 6658117-0-19297
+msgctxt "6658117-0-19297"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 12320021-0-19297
+msgctxt "12320021-0-19297"
+msgid "Loot"
+msgstr "盗品"
+
+#: 6658117-0-19295
+msgctxt "6658117-0-19295"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 12320021-0-19295
+msgctxt "12320021-0-19295"
+msgid "Loot"
+msgstr "盗品"
+
+#: 74865733-0-19289
+msgctxt "74865733-0-19289"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19289
+msgctxt "108533454-0-19289"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19288
+msgctxt "74865733-0-19288"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19288
+msgctxt "108533454-0-19288"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19287
+msgctxt "74865733-0-19287"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19287
+msgctxt "108533454-0-19287"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19286
+msgctxt "74865733-0-19286"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19286
+msgctxt "108533454-0-19286"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19282
+msgctxt "74865733-0-19282"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19282
+msgctxt "108533454-0-19282"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19281
+msgctxt "74865733-0-19281"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19281
+msgctxt "108533454-0-19281"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19280
+msgctxt "74865733-0-19280"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19280
+msgctxt "108533454-0-19280"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19277
+msgctxt "74865733-0-19277"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19277
+msgctxt "108533454-0-19277"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19274
+msgctxt "74865733-0-19274"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19274
+msgctxt "108533454-0-19274"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19273
+msgctxt "74865733-0-19273"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-19273
+msgctxt "108533454-0-19273"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19268
+msgctxt "74865733-0-19268"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19268
+msgctxt "108533454-0-19268"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-19252
+msgctxt "74865733-0-19252"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19248
+msgctxt "108533454-0-19248"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19246
+msgctxt "74865733-0-19246"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19246
+msgctxt "108533454-0-19246"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19244
+msgctxt "74865733-0-19244"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19244
+msgctxt "108533454-0-19244"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 74865733-0-19243
+msgctxt "74865733-0-19243"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19220
+msgctxt "108533454-0-19220"
+msgid "Drinking …"
+msgstr "飲んでいる…"
+
+#: 74865733-0-19219
+msgctxt "74865733-0-19219"
+msgid "Drink"
+msgstr "飲み物"
+
+#: 108533454-0-19219
+msgctxt "108533454-0-19219"
+msgid "Drinking …"
+msgstr "飲んでいる…"
+
+#: 74865733-0-19214
+msgctxt "74865733-0-19214"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19214
+msgctxt "108533454-0-19214"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 74865733-0-19213
+msgctxt "74865733-0-19213"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19213
+msgctxt "108533454-0-19213"
+msgid "Placing …"
+msgstr "設置中…"
+
+#: 74865733-0-19212
+msgctxt "74865733-0-19212"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-19196
+msgctxt "108533454-0-19196"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19195
+msgctxt "74865733-0-19195"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19195
+msgctxt "108533454-0-19195"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19194
+msgctxt "74865733-0-19194"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19194
+msgctxt "108533454-0-19194"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-19190
+msgctxt "74865733-0-19190"
+msgid "Extinguish"
+msgstr "消す"
+
+#: 108533454-0-19170
+msgctxt "108533454-0-19170"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19168
+msgctxt "74865733-0-19168"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19168
+msgctxt "108533454-0-19168"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19167
+msgctxt "74865733-0-19167"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19167
+msgctxt "108533454-0-19167"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19166
+msgctxt "74865733-0-19166"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19166
+msgctxt "108533454-0-19166"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19164
+msgctxt "74865733-0-19164"
+msgid "Drink"
+msgstr "飲み物"
+
+#: 108533454-0-19164
+msgctxt "108533454-0-19164"
+msgid "Drinking …"
+msgstr "飲んでいる…"
+
+#: 74865733-0-19162
+msgctxt "74865733-0-19162"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 108533454-0-19160
+msgctxt "108533454-0-19160"
+msgid "Entering …"
+msgstr "入っている…"
+
+#: 74865733-0-19159
+msgctxt "74865733-0-19159"
+msgid "Enter"
+msgstr "入る"
+
+#: 108533454-0-19159
+msgctxt "108533454-0-19159"
+msgid "Entering …"
+msgstr "入っている…"
+
+#: 74865733-0-19147
+msgctxt "74865733-0-19147"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19138
+msgctxt "108533454-0-19138"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19137
+msgctxt "74865733-0-19137"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19137
+msgctxt "108533454-0-19137"
+msgid "Taking …"
+msgstr "取得中…"
+
+#: 74865733-0-19136
+msgctxt "74865733-0-19136"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19136
+msgctxt "108533454-0-19136"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19133
+msgctxt "74865733-0-19133"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19133
+msgctxt "108533454-0-19133"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19130
+msgctxt "74865733-0-19130"
+msgid "Climb"
+msgstr "登る"
+
+#: 108533454-0-19128
+msgctxt "108533454-0-19128"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-19123
+msgctxt "74865733-0-19123"
+msgid "Read"
+msgstr "読む"
+
+#: 12320021-0-19120
+msgctxt "12320021-0-19120"
+msgid "Loot"
+msgstr "盗品"
+
+#: 74865733-0-19116
+msgctxt "74865733-0-19116"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19109
+msgctxt "108533454-0-19109"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 74865733-0-19108
+msgctxt "74865733-0-19108"
+msgid "Place"
+msgstr "置く"
+
+#: 108533454-0-19022
+msgctxt "108533454-0-19022"
+msgid "Closing …"
+msgstr "閉じている…"
+
+#: 74865733-0-19021
+msgctxt "74865733-0-19021"
+msgid "Close"
+msgstr "閉じる"
+
+#: 108533454-0-19021
+msgctxt "108533454-0-19021"
+msgid "Closing …"
+msgstr "閉じている…"
+
+#: 74865733-0-19020
+msgctxt "74865733-0-19020"
+msgid "Close"
+msgstr "閉じる"
+
+#: 108533454-0-19020
+msgctxt "108533454-0-19020"
+msgid "Closing …"
+msgstr "閉じている…"
+
+#: 74865733-0-19019
+msgctxt "74865733-0-19019"
+msgid "Close"
+msgstr "閉じる"
+
+#: 108533454-0-19019
+msgctxt "108533454-0-19019"
+msgid "Closing …"
+msgstr "閉じている…"
+
+#: 108533454-0-19014
+msgctxt "108533454-0-19014"
+msgid "0"
+msgstr "0"
+
+#: 108533454-0-18995
+msgctxt "108533454-0-18995"
+msgid "Searching,,,"
+msgstr "調査中…"
+
+#: 74865733-0-18994
+msgctxt "74865733-0-18994"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-18994
+msgctxt "108533454-0-18994"
+msgid "Burning…"
+msgstr "炎上中…"
+
+#: 74865733-0-18990
+msgctxt "74865733-0-18990"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-18972
+msgctxt "108533454-0-18972"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-18971
+msgctxt "74865733-0-18971"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-18971
+msgctxt "108533454-0-18971"
+msgid "Searching…"
+msgstr "調査中…"
+
+#: 74865733-0-18967
+msgctxt "74865733-0-18967"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-18967
+msgctxt "108533454-0-18967"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 74865733-0-18960
+msgctxt "74865733-0-18960"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-18958
+msgctxt "108533454-0-18958"
+msgid "Unlocking …"
+msgstr "開錠中…"
+
+#: 74865733-0-18957
+msgctxt "74865733-0-18957"
+msgid "Activate"
+msgstr "発動する"
+
+#: 108533454-0-18957
+msgctxt "108533454-0-18957"
+msgid "Activating …"
+msgstr "起動中…"
+
+#: 74865733-0-18949
+msgctxt "74865733-0-18949"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-18946
+msgctxt "108533454-0-18946"
+msgid "Repairing…"
+msgstr "修理中…"
+
+#: 74865733-0-18945
+msgctxt "74865733-0-18945"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 108533454-0-18945
+msgctxt "108533454-0-18945"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-18933
+msgctxt "74865733-0-18933"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 108533454-0-18932
+msgctxt "108533454-0-18932"
+msgid "Taking…"
+msgstr "取得中…"
+
+#: 108533454-0-18918
+msgctxt "108533454-0-18918"
+msgid "Opening"
+msgstr "開けている…"
+
+#: 108533454-0-17109
+msgctxt "108533454-0-17109"
+msgid "Examining…"
+msgstr "調査中…"
+
+#: 70307621-0-1710
+msgctxt "70307621-0-1710"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1699
+msgctxt "70307621-0-1699"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1698
+msgctxt "70307621-0-1698"
+msgid "Take"
+msgstr "取る"
+
+#: 70307621-0-1647
+msgctxt "70307621-0-1647"
+msgid "Place"
+msgstr "置く"
+
+#: 12912341-0-14328
+msgctxt "12912341-0-14328"
+msgid "Talk"
+msgstr "話す"
+
+#: 108533454-0-13621
+msgctxt "108533454-0-13621"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-10951
+msgctxt "74865733-0-10951"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-10951
+msgctxt "108533454-0-10951"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-10160
+msgctxt "74865733-0-10160"
+msgid "0"
+msgstr "0"
+
+#: 74865733-0-8844
+msgctxt "74865733-0-8844"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-6832
+msgctxt "74865733-0-6832"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-6784
+msgctxt "74865733-0-6784"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-6783
+msgctxt "74865733-0-6783"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 12912341-0-67423
+msgctxt "12912341-0-67423"
+msgid "Talk"
+msgstr "話す"
+
+#: 263004526-0-67300
+msgctxt "263004526-0-67300"
+msgid "Untying…."
+msgstr "結び目を解いている…"
+
+#: 263004526-0-67299
+msgctxt "263004526-0-67299"
+msgid "Untying…."
+msgstr "結び目を解いている…"
+
+#: 12912341-0-67243
+msgctxt "12912341-0-67243"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-67193
+msgctxt "12912341-0-67193"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-67144
+msgctxt "12912341-0-67144"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-67123
+msgctxt "12912341-0-67123"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-67119
+msgctxt "12912341-0-67119"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66728
+msgctxt "12912341-0-66728"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66692
+msgctxt "12912341-0-66692"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66570
+msgctxt "12912341-0-66570"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-66569
+msgctxt "12912341-0-66569"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-66549
+msgctxt "12912341-0-66549"
+msgid "Set Free"
+msgstr "自由を与える"
+
+#: 12912341-0-66547
+msgctxt "12912341-0-66547"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-6651
+msgctxt "74865733-0-6651"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 12912341-0-66505
+msgctxt "12912341-0-66505"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-66488
+msgctxt "12912341-0-66488"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-66487
+msgctxt "12912341-0-66487"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-66485
+msgctxt "12912341-0-66485"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66468
+msgctxt "12912341-0-66468"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66424
+msgctxt "12912341-0-66424"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-66350
+msgctxt "12912341-0-66350"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66349
+msgctxt "12912341-0-66349"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66345
+msgctxt "12912341-0-66345"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66344
+msgctxt "12912341-0-66344"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66341
+msgctxt "12912341-0-66341"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66334
+msgctxt "12912341-0-66334"
+msgid "Talk"
+msgstr "Talk"
+
+#: 12912341-0-66333
+msgctxt "12912341-0-66333"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66332
+msgctxt "12912341-0-66332"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66178
+msgctxt "12912341-0-66178"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66097
+msgctxt "12912341-0-66097"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-66010
+msgctxt "12912341-0-66010"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65892
+msgctxt "12912341-0-65892"
+msgid "Collect"
+msgstr "集める"
+
+#: 263004526-0-65766
+msgctxt "263004526-0-65766"
+msgid "0"
+msgstr "0"
+
+#: 12912341-0-65722
+msgctxt "12912341-0-65722"
+msgid "Burn"
+msgstr "燃やす"
+
+#: 74865733-0-6569
+msgctxt "74865733-0-6569"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-6568
+msgctxt "74865733-0-6568"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-6565
+msgctxt "74865733-0-6565"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-6543
+msgctxt "74865733-0-6543"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-65425
+msgctxt "12912341-0-65425"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65424
+msgctxt "12912341-0-65424"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65398
+msgctxt "12912341-0-65398"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-65397
+msgctxt "12912341-0-65397"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-65366
+msgctxt "12912341-0-65366"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65296
+msgctxt "12912341-0-65296"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65283
+msgctxt "12912341-0-65283"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65234
+msgctxt "12912341-0-65234"
+msgid "Search"
+msgstr "調べる"
+
+#: 12912341-0-65233
+msgctxt "12912341-0-65233"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-65197
+msgctxt "12912341-0-65197"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65188
+msgctxt "12912341-0-65188"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-65175
+msgctxt "12912341-0-65175"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65174
+msgctxt "12912341-0-65174"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65173
+msgctxt "12912341-0-65173"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65172
+msgctxt "12912341-0-65172"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65171
+msgctxt "12912341-0-65171"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65124
+msgctxt "12912341-0-65124"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65123
+msgctxt "12912341-0-65123"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-65048
+msgctxt "12912341-0-65048"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-64949
+msgctxt "12912341-0-64949"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-64872
+msgctxt "12912341-0-64872"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-64871
+msgctxt "12912341-0-64871"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-64860
+msgctxt "12912341-0-64860"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-64859
+msgctxt "12912341-0-64859"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-6454
+msgctxt "74865733-0-6454"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-60596
+msgctxt "12912341-0-60596"
+msgid "Talk"
+msgstr "Talk"
+
+#: 12912341-0-60081
+msgctxt "12912341-0-60081"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-59961
+msgctxt "12912341-0-59961"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-59909
+msgctxt "12912341-0-59909"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-59908
+msgctxt "12912341-0-59908"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-59905
+msgctxt "12912341-0-59905"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-59840
+msgctxt "12912341-0-59840"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-59318
+msgctxt "12912341-0-59318"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-58718
+msgctxt "12912341-0-58718"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-56155
+msgctxt "12912341-0-56155"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-5503
+msgctxt "74865733-0-5503"
+msgid "Examine"
+msgstr "調べる"
+
+#: 12912341-0-49708
+msgctxt "12912341-0-49708"
+msgid "Search"
+msgstr "調べる"
+
+#: 12912341-0-48301
+msgctxt "12912341-0-48301"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-48300
+msgctxt "12912341-0-48300"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-48299
+msgctxt "12912341-0-48299"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-47653
+msgctxt "12912341-0-47653"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-47652
+msgctxt "12912341-0-47652"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-47420
+msgctxt "12912341-0-47420"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-47326
+#, fuzzy
+msgctxt "7949764-0-47326"
+msgid "Defeat the Guardian's Soul"
+msgstr "ガーディアン・ソウルを倒す"
+
+#: 7949764-0-47325
+#, fuzzy
+msgctxt "7949764-0-47325"
+msgid "Defeat the Guardian's Spark"
+msgstr "ガーディアン・スパークを倒す"
+
+#: 7949764-0-47324
+#, fuzzy
+msgctxt "7949764-0-47324"
+msgid "Defeat the Guardian's Strength"
+msgstr "ガーディアン・ストレングスを倒す"
+
+#: 7949764-0-47182
+msgctxt "7949764-0-47182"
+msgid "Enter the Portal Valley"
+msgstr "ポータルの谷に入る"
+
+#: 7949764-0-47177
+msgctxt "7949764-0-47177"
+msgid "Take the <<1>>"
+msgstr "<<1>>を手にする"
+
+#: 7949764-0-47176
+msgctxt "7949764-0-47176"
+msgid "Take the <<1>>"
+msgstr "<<1>>を手にする"
+
+#: 7949764-0-47175
+msgctxt "7949764-0-47175"
+msgid "Warn King Kurog"
+msgstr "クログ王に警告する"
+
+#: 7949764-0-47174
+msgctxt "7949764-0-47174"
+msgid "Talk to King Kurog"
+msgstr "クログ王と話す"
+
+#: 7949764-0-47171
+msgctxt "7949764-0-47171"
+msgid "Find a Way Into the Inn"
+msgstr "宿屋へ入る方法を探す"
+
+#: 7949764-0-47170
+#, fuzzy
+msgctxt "7949764-0-47170"
+msgid "Find the Merchant"
+msgstr "商人を探す"
+
+#: 7949764-0-47166
+#, fuzzy
+msgctxt "7949764-0-47166"
+msgid "Steal the Key from Sergeant Vulmon"
+msgstr "ヴルモン軍曹から鍵を盗む"
+
+#: 7949764-0-47165
+#, fuzzy
+msgctxt "7949764-0-47165"
+msgid "Investigate the Stable Ramparts"
+msgstr "馬屋の防壁を調査する"
+
+#: 7949764-0-47164
+#, fuzzy
+msgctxt "7949764-0-47164"
+msgid "Ask Mulzah For Ideas"
+msgstr "ムルザーから提案を聞く"
+
+#: 7949764-0-47163
+#, fuzzy
+msgctxt "7949764-0-47163"
+msgid "Ask Mulzah For Ideas"
+msgstr "ムルザーから提案を聞く"
+
+#: 7949764-0-47162
+msgctxt "7949764-0-47162"
+msgid "Find a Way Into the Inn"
+msgstr "宿屋へ入る方法を探す"
+
+#: 7949764-0-47161
+#, fuzzy
+msgctxt "7949764-0-47161"
+msgid "Defend the Sublime Brazier"
+msgstr "崇高なるかがり火を守る"
+
+#: 7949764-0-47160
+#, fuzzy
+msgctxt "7949764-0-47160"
+msgid "Defeat the Gate Crasher"
+msgstr "ゲートクラッシャーを倒す"
+
+#: 7949764-0-47159
+#, fuzzy
+msgctxt "7949764-0-47159"
+msgid "Go to the Siege Platform"
+msgstr "攻城兵器の台に行く"
+
+#: 7949764-0-47158
+#, fuzzy
+msgctxt "7949764-0-47158"
+msgid "Travel to the Dragonfire Cathedral"
+msgstr "ドラゴンファイア大聖堂に行く"
+
+#: 7949764-0-47157
+#, fuzzy
+msgctxt "7949764-0-47157"
+msgid "Follow The Drake of Blades into the Cathedral"
+msgstr "剣のドレイクを追って大聖堂に入る"
+
+#: 7949764-0-47156
+#, fuzzy
+msgctxt "7949764-0-47156"
+msgid "Find the Information You Seek"
+msgstr "探している情報を見つける"
+
+#: 7949764-0-47155
+msgctxt "7949764-0-47155"
+msgid "Enter Morkuldin"
+msgstr "モークルディンに入る"
+
+#: 7949764-0-47152
+#, fuzzy
+msgctxt "7949764-0-47152"
+msgid "Talk to Talviah"
+msgstr "タルヴィアと話す"
+
+#: 7949764-0-47151
+#, fuzzy
+msgctxt "7949764-0-47151"
+msgid "Look for More Relics"
+msgstr "さらに遺物を探す"
+
+#: 7949764-0-47149
+#, fuzzy
+msgctxt "7949764-0-47149"
+msgid "Talk to Elder Azulg"
+msgstr "アズルグ長老と話す"
+
+#: 7949764-0-47148
+msgctxt "7949764-0-47148"
+msgid "Open the Way to Morkuldin"
+msgstr "モークルディンへの道を開く"
+
+#: 7949764-0-47145
+#, fuzzy
+msgctxt "7949764-0-47145"
+msgid "Find a Researcher Interested in Nord Antiquities"
+msgstr "ノルドの古代美術品に興味のある研究者を探す"
+
+#: 7949764-0-47143
+msgctxt "7949764-0-47143"
+msgid "Find Your Companions"
+msgstr "仲間たちを探す"
+
+#: 7949764-0-47133
+#, fuzzy
+msgctxt "7949764-0-47133"
+msgid "Find a Vosh Rakh Disguise"
+msgstr "ヴォシュ・ラクの変装を探す"
+
+#: 7949764-0-47124
+msgctxt "7949764-0-47124"
+msgid "Find Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリを見つける"
+
+#: 7949764-0-47123
+#, fuzzy
+msgctxt "7949764-0-47123"
+msgid "Ask Owayine for More Information"
+msgstr "オウェインにさらなる情報を聞く"
+
+#: 7949764-0-47122
+msgctxt "7949764-0-47122"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-47119
+#, fuzzy
+msgctxt "7949764-0-47119"
+msgid "Find Ulsha Outside Fharun"
+msgstr "ファルンの外でウルシャを探す"
+
+#: 7949764-0-47118
+msgctxt "7949764-0-47118"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-47113
+msgctxt "7949764-0-47113"
+msgid "Report to Lord Trystan"
+msgstr "トリスタン卿に報告する"
+
+#: 7949764-0-47112
+#, fuzzy
+msgctxt "7949764-0-47112"
+msgid "Disarmed the Spikes"
+msgstr "スパイクを解除した"
+
+#: 7949764-0-47111
+msgctxt "7949764-0-47111"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-47110
+msgctxt "7949764-0-47110"
+msgid "Close the Sarcophagus"
+msgstr "石棺を閉じる"
+
+#: 7949764-0-47108
+msgctxt "7949764-0-47108"
+msgid "Trick Narsis"
+msgstr "ナルシスをだます"
+
+#: 7949764-0-47107
+#, fuzzy
+msgctxt "7949764-0-47107"
+msgid "Give Atarus's Skull to Shifty Tom"
+msgstr "ずる賢いトムにアタルスの頭蓋骨を渡す"
+
+#: 7949764-0-47106
+#, fuzzy
+msgctxt "7949764-0-47106"
+msgid "Guide <<1>> to a <<2>>"
+msgstr "<<1>>を<<2>>に導く"
+
+#: 7949764-0-47104
+#, fuzzy
+msgctxt "7949764-0-47104"
+msgid "Rescue the Orc Chief"
+msgstr "オークの族長を救出する"
+
+#: 7949764-0-47101
+#, fuzzy
+msgctxt "7949764-0-47101"
+msgid "Choose the Scorned Clans"
+msgstr "軽蔑を受けるクランを選ぶ"
+
+#: 7949764-0-47100
+msgctxt "7949764-0-47100"
+msgid "Follow <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-47099
+msgctxt "7949764-0-47099"
+msgid "Defend the Silvenar"
+msgstr "シルヴェナールを守る"
+
+#: 7949764-0-47098
+msgctxt "7949764-0-47098"
+msgid "Kill the Drublog Chief"
+msgstr "ドラブログの族長を倒す"
+
+#: 7949764-0-47097
+#, fuzzy
+msgctxt "7949764-0-47097"
+msgid "Talk to Frilan Ruman"
+msgstr "フリラン・ルーマンと話す"
+
+#: 7949764-0-47095
+msgctxt "7949764-0-47095"
+msgid "Search for Clues"
+msgstr "手掛かりを探す"
+
+#: 7949764-0-47094
+msgctxt "7949764-0-47094"
+msgid "Talk to King Kurog"
+msgstr "クログ王と話す"
+
+#: 7949764-0-47093
+msgctxt "7949764-0-47093"
+msgid "Return to Shatul"
+msgstr "シャトゥルに戻る"
+
+#: 7949764-0-47092
+msgctxt "7949764-0-47092"
+msgid "Talk to King Kurog"
+msgstr "クログ王と話す"
+
+#: 7949764-0-47091
+#, fuzzy
+msgctxt "7949764-0-47091"
+msgid "Wrong"
+msgstr "外れ"
+
+#: 7949764-0-47090
+#, fuzzy
+msgctxt "7949764-0-47090"
+msgid "Wrong"
+msgstr "外れ"
+
+#: 7949764-0-47089
+#, fuzzy
+msgctxt "7949764-0-47089"
+msgid "Wrong"
+msgstr "外れ"
+
+#: 7949764-0-47088
+#, fuzzy
+msgctxt "7949764-0-47088"
+msgid "Wrong"
+msgstr "外れ"
+
+#: 7949764-0-47087
+#, fuzzy
+msgctxt "7949764-0-47087"
+msgid "Wrong"
+msgstr "外れ"
+
+#: 7949764-0-47086
+#, fuzzy
+msgctxt "7949764-0-47086"
+msgid "Wrong"
+msgstr "外れ"
+
+#: 7949764-0-47082
+#, fuzzy
+msgctxt "7949764-0-47082"
+msgid "Watch <<1>> and <<2>>"
+msgstr "<<1>>と<<2>>を見守る"
+
+#: 7949764-0-47081
+msgctxt "7949764-0-47081"
+msgid "Talk to Forge-Mother Alga"
+msgstr "鍛冶の母アルガと話す"
+
+#: 7949764-0-47079
+msgctxt "7949764-0-47079"
+msgid "Wait for <<1>>"
+msgstr "<<1>>を待つ"
+
+#: 7949764-0-47077
+msgctxt "7949764-0-47077"
+msgid "Rescue Prisoners"
+msgstr "囚人達を救出する"
+
+#: 7949764-0-47076
+msgctxt "7949764-0-47076"
+msgid "Rescue Prisoners"
+msgstr "囚人達を救出する"
+
+#: 7949764-0-47075
+msgctxt "7949764-0-47075"
+msgid "Rescue Prisoners"
+msgstr "囚人達を救出する"
+
+#: 7949764-0-47074
+msgctxt "7949764-0-47074"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-47073
+msgctxt "7949764-0-47073"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-47072
+msgctxt "7949764-0-47072"
+msgid "Rescue Prisoners"
+msgstr "囚人達を救出する"
+
+#: 7949764-0-47071
+msgctxt "7949764-0-47071"
+msgid "Bagrakh"
+msgstr "バグラク"
+
+#: 7949764-0-47070
+msgctxt "7949764-0-47070"
+msgid "Igrun"
+msgstr "イグルン"
+
+#: 7949764-0-47069
+msgctxt "7949764-0-47069"
+msgid "Gate 2 Open"
+msgstr "Gate 2 Open"
+
+#: 7949764-0-47068
+msgctxt "7949764-0-47068"
+msgid "Shatul"
+msgstr "シャトゥル"
+
+#: 7949764-0-47067
+msgctxt "7949764-0-47067"
+msgid "Fharun"
+msgstr "ファルン"
+
+#: 7949764-0-47066
+msgctxt "7949764-0-47066"
+msgid "Avoid Torch Bearers to Keep Priests Alive"
+msgstr "司祭達を守るために、たいまつを持った者を避ける"
+
+#: 7949764-0-47065
+#, fuzzy
+msgctxt "7949764-0-47065"
+msgid "Shatul is Cursed and Scorned"
+msgstr "シャトゥルは呪われ、軽蔑された"
+
+#: 7949764-0-47064
+#, fuzzy
+msgctxt "7949764-0-47064"
+msgid "Curse Shatul"
+msgstr "シャトゥルを呪う"
+
+#: 7949764-0-47063
+#, fuzzy
+msgctxt "7949764-0-47063"
+msgid "Bagrahk is Cursed and Scorned"
+msgstr "バグラクは呪われ、軽蔑された"
+
+#: 7949764-0-47062
+#, fuzzy
+msgctxt "7949764-0-47062"
+msgid "Igrun is Cursed and Scorned"
+msgstr "イグルンは呪われ、軽蔑された"
+
+#: 7949764-0-47061
+#, fuzzy
+msgctxt "7949764-0-47061"
+msgid "Curse Bagrahk"
+msgstr "バグラクを呪う"
+
+#: 7949764-0-47060
+#, fuzzy
+msgctxt "7949764-0-47060"
+msgid "Fharun is Cursed and Scorned"
+msgstr "ファルンは呪われ、軽蔑された"
+
+#: 7949764-0-47059
+#, fuzzy
+msgctxt "7949764-0-47059"
+msgid "Curse Fharun"
+msgstr "ファルンを呪う"
+
+#: 7949764-0-47058
+#, fuzzy
+msgctxt "7949764-0-47058"
+msgid "Curse Igrun"
+msgstr "イグルンを呪う"
+
+#: 7949764-0-47057
+msgctxt "7949764-0-47057"
+msgid "Avoid Torch Bearers to Keep Priests Alive"
+msgstr "司祭達を守るために、たいまつを持った者を避ける"
+
+#: 7949764-0-47056
+#, fuzzy
+msgctxt "7949764-0-47056"
+msgid "Investigate Tremor Sites"
+msgstr "地震のあった場所を調査する"
+
+#: 7949764-0-47055
+#, fuzzy
+msgctxt "7949764-0-47055"
+msgid "Investigate Tremor Sites"
+msgstr "地震のあった場所を調査する"
+
+#: 7949764-0-47054
+#, fuzzy
+msgctxt "7949764-0-47054"
+msgid "Investigate Tremor Sites"
+msgstr "地震のあった場所を調査する"
+
+#: 7949764-0-47052
+msgctxt "7949764-0-47052"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-47051
+msgctxt "7949764-0-47051"
+msgid "Defeat Nyzchaleft"
+msgstr "ニジャレフトを倒す"
+
+#: 7949764-0-47050
+#, fuzzy
+msgctxt "7949764-0-47050"
+msgid "Investigate the Dwarven Mechanisms"
+msgstr "ドワーフの仕掛けを調査する"
+
+#: 7949764-0-47049
+msgctxt "7949764-0-47049"
+msgid "Take the <<1>>"
+msgstr "<<1>>を手にする"
+
+#: 7949764-0-47048
+msgctxt "7949764-0-47048"
+msgid "Get the Key to the Rectory"
+msgstr "司祭館の鍵を入手する"
+
+#: 7949764-0-47047
+#, fuzzy
+msgctxt "7949764-0-47047"
+msgid "Disrupt Strange Obelisks"
+msgstr "奇妙なオベリスクを停止させる"
+
+#: 7949764-0-47046
+#, fuzzy
+msgctxt "7949764-0-47046"
+msgid "Disrupt Strange Obelisks"
+msgstr "奇妙なオベリスクを停止させる"
+
+#: 7949764-0-47045
+#, fuzzy
+msgctxt "7949764-0-47045"
+msgid "Disrupt Strange Obelisks"
+msgstr "奇妙なオベリスクを停止させる"
+
+#: 7949764-0-47044
+msgctxt "7949764-0-47044"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-47043
+msgctxt "7949764-0-47043"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-47042
+#, fuzzy
+msgctxt "7949764-0-47042"
+msgid "Disrupt Strange Obelisks"
+msgstr "奇妙なオベリスクを停止させる"
+
+#: 7949764-0-47040
+#, fuzzy
+msgctxt "7949764-0-47040"
+msgid "Choose the Honored Clans"
+msgstr "名誉を受けるクランを選ぶ"
+
+#: 7949764-0-47039
+#, fuzzy
+msgctxt "7949764-0-47039"
+msgid "Gate Open"
+msgstr "門を開く"
+
+#: 7949764-0-47038
+msgctxt "7949764-0-47038"
+msgid "Igrun"
+msgstr "イグルン"
+
+#: 7949764-0-47037
+msgctxt "7949764-0-47037"
+msgid "Shatul"
+msgstr "シャトゥル"
+
+#: 7949764-0-47036
+msgctxt "7949764-0-47036"
+msgid "Morkul"
+msgstr "モークル"
+
+#: 7949764-0-47035
+msgctxt "7949764-0-47035"
+msgid "Tumnosh"
+msgstr "タムノッシュ"
+
+#: 7949764-0-47032
+msgctxt "7949764-0-47032"
+msgid "Find a Way Into the Temple"
+msgstr "聖堂に入る方法を探す"
+
+#: 7949764-0-47031
+msgctxt "7949764-0-47031"
+msgid "Find a Way Into the Temple"
+msgstr "聖堂に入る方法を探す"
+
+#: 7949764-0-47030
+#, fuzzy
+msgctxt "7949764-0-47030"
+msgid "Tumnosh is Honored and Remembered"
+msgstr "タムノッシュは名誉を受け、記憶に留められた"
+
+#: 7949764-0-47029
+#, fuzzy
+msgctxt "7949764-0-47029"
+msgid "Morkul is Honored and Remembered"
+msgstr "モークルは名誉を受け、記憶に留められた"
+
+#: 7949764-0-47028
+#, fuzzy
+msgctxt "7949764-0-47028"
+msgid "Shatul is Honored and Remembered"
+msgstr "シャトゥルは名誉を受け、記憶に留められた"
+
+#: 7949764-0-47027
+#, fuzzy
+msgctxt "7949764-0-47027"
+msgid "Igrun is Honored and Remembered"
+msgstr "イグルンは名誉を受け、記憶に留められた"
+
+#: 7949764-0-47026
+#, fuzzy
+msgctxt "7949764-0-47026"
+msgid "Honor Morkul"
+msgstr "モークルに名誉を授ける"
+
+#: 7949764-0-47025
+#, fuzzy
+msgctxt "7949764-0-47025"
+msgid "Honor Tumnosh"
+msgstr "タムノッシュに名誉を授ける"
+
+#: 7949764-0-47024
+#, fuzzy
+msgctxt "7949764-0-47024"
+msgid "Honor Shatul"
+msgstr "シャトゥルに名誉を授ける"
+
+#: 7949764-0-47023
+#, fuzzy
+msgctxt "7949764-0-47023"
+msgid "Honor Igrun"
+msgstr "イグルンに名誉を授ける"
+
+#: 7949764-0-47022
+#, fuzzy
+msgctxt "7949764-0-47022"
+msgid "Begin the Rites of Praise and Scorn"
+msgstr "賛美と軽蔑の儀式を始める"
+
+#: 7949764-0-47019
+#, fuzzy
+msgctxt "7949764-0-47019"
+msgid "Cleanse Corruption"
+msgstr "腐敗を浄化する"
+
+#: 7949764-0-47018
+#, fuzzy
+msgctxt "7949764-0-47018"
+msgid "Cleanse Corruption"
+msgstr "腐敗を浄化する"
+
+#: 7949764-0-47016
+#, fuzzy
+msgctxt "7949764-0-47016"
+msgid "Cleanse Corruption"
+msgstr "腐敗を浄化する"
+
+#: 7949764-0-47015
+msgctxt "7949764-0-47015"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-47014
+msgctxt "7949764-0-47014"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-47013
+#, fuzzy
+msgctxt "7949764-0-47013"
+msgid "Cleanse <<1>>"
+msgstr "<<1>>を浄化する"
+
+#: 7949764-0-47012
+#, fuzzy
+msgctxt "7949764-0-47012"
+msgid "Light the Great Pyre"
+msgstr "大薪を点火する"
+
+#: 7949764-0-47011
+#, fuzzy
+msgctxt "7949764-0-47011"
+msgid "Unlock Temper's Fork"
+msgstr "苛立ちの分岐路を解錠する"
+
+#: 7949764-0-47010
+#, fuzzy
+msgctxt "7949764-0-47010"
+msgid "Curse Orsinium's Fallen Clans"
+msgstr "オルシニウムの堕落したクランたちを呪う"
+
+#: 7949764-0-47009
+#, fuzzy
+msgctxt "7949764-0-47009"
+msgid "Talk to the Aspect of Malacath"
+msgstr "マラキャスの姿と話す"
+
+#: 7949764-0-47008
+#, fuzzy
+msgctxt "7949764-0-47008"
+msgid "Unlock Hammer's Bypass"
+msgstr "槌の迂回路を解錠する"
+
+#: 7949764-0-47007
+#, fuzzy
+msgctxt "7949764-0-47007"
+msgid "Honor Orsinium's Founding Clans"
+msgstr "オルシニウムを建設したクランたちに名誉を授ける"
+
+#: 7949764-0-47006
+msgctxt "7949764-0-47006"
+msgid "Talk to the Aspect of Malacath"
+msgstr "マラキャスの姿と話す"
+
+#: 7949764-0-47005
+#, fuzzy
+msgctxt "7949764-0-47005"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "ハードモードチャレンジはベテランモード限定"
+
+#: 7949764-0-47004
+#, fuzzy
+msgctxt "7949764-0-47004"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "ハードモードチャレンジはベテランモード限定"
+
+#: 7949764-0-47003
+#, fuzzy
+msgctxt "7949764-0-47003"
+msgid "Gather Torn Pages"
+msgstr "引き裂かれたページを集める"
+
+#: 7949764-0-47002
+#, fuzzy
+msgctxt "7949764-0-47002"
+msgid "Gather Torn Pages"
+msgstr "引き裂かれたページを集める"
+
+#: 7949764-0-47000
+#, fuzzy
+msgctxt "7949764-0-47000"
+msgid "Gather Torn Pages"
+msgstr "破れたページを集める"
+
+#: 7949764-0-46999
+msgctxt "7949764-0-46999"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46998
+msgctxt "7949764-0-46998"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46997
+#, fuzzy
+msgctxt "7949764-0-46997"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46996
+msgctxt "7949764-0-46996"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46995
+msgctxt "7949764-0-46995"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46994
+msgctxt "7949764-0-46994"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46993
+msgctxt "7949764-0-46993"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46992
+#, fuzzy
+msgctxt "7949764-0-46992"
+msgid "Stop the Poachers"
+msgstr "密猟者を止める"
+
+#: 7949764-0-46991
+#, fuzzy
+msgctxt "7949764-0-46991"
+msgid "Hunting Grounds"
+msgstr "ハンティング・グラウンド"
+
+#: 7949764-0-46990
+#, fuzzy
+msgctxt "7949764-0-46990"
+msgid "Hunting Grounds"
+msgstr "ハンティング・グラウンド"
+
+#: 7949764-0-46989
+#, fuzzy
+msgctxt "7949764-0-46989"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46988
+#, fuzzy
+msgctxt "7949764-0-46988"
+msgid "Hunting Grounds"
+msgstr "ハンティング・グラウンド"
+
+#: 7949764-0-46987
+#, fuzzy
+msgctxt "7949764-0-46987"
+msgid "Hunting Grounds"
+msgstr "ハンティング・グラウンド"
+
+#: 7949764-0-46986
+#, fuzzy
+msgctxt "7949764-0-46986"
+msgid "Hunting Grounds"
+msgstr "ハンティング・グラウンド"
+
+#: 7949764-0-46985
+msgctxt "7949764-0-46985"
+msgid "Hunting Grounds"
+msgstr "ハンティング・グラウンド"
+
+#: 7949764-0-46983
+#, fuzzy
+msgctxt "7949764-0-46983"
+msgid "Enter White-Gold Tower in Veteran Mode"
+msgstr "ベテランモードで白金の塔に入る"
+
+#: 12912341-0-46981
+msgctxt "12912341-0-46981"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-46980
+msgctxt "7949764-0-46980"
+msgid "Find a <<1>>"
+msgstr "<<1>>を見つける"
+
+#: 7949764-0-46979
+#, fuzzy
+msgctxt "7949764-0-46979"
+msgid "Wake the Echatere"
+msgstr "エチャテレを起こす"
+
+#: 7949764-0-46978
+msgctxt "7949764-0-46978"
+msgid "Find <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46977
+#, fuzzy
+msgctxt "7949764-0-46977"
+msgid "Return to <<1>>'s Tent"
+msgstr "<<1>>のテントに戻る"
+
+#: 7949764-0-46976
+msgctxt "7949764-0-46976"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46975
+msgctxt "7949764-0-46975"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46974
+msgctxt "7949764-0-46974"
+msgid "Crouch to See the Giant's Trail"
+msgstr "かがんで巨人が通った跡を見る"
+
+#: 7949764-0-46972
+msgctxt "7949764-0-46972"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46971
+msgctxt "7949764-0-46971"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46970
+msgctxt "7949764-0-46970"
+msgid "Crouch to See the Giant's Trail"
+msgstr "かがんで巨人が通った跡を見る"
+
+#: 7949764-0-46967
+msgctxt "7949764-0-46967"
+msgid "Crouch to See the Giant's Trail"
+msgstr "かがんで巨人が通った跡を見る"
+
+#: 7949764-0-46966
+msgctxt "7949764-0-46966"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46964
+#, fuzzy
+msgctxt "7949764-0-46964"
+msgid "Enter Imperial City Prison in Veteran Mode"
+msgstr "ベテランモードで帝都監獄に入る"
+
+#: 7949764-0-46961
+msgctxt "7949764-0-46961"
+msgid "Talk to High Priestess Solgra"
+msgstr "ソルグラ大司祭と話す"
+
+#: 7949764-0-46960
+msgctxt "7949764-0-46960"
+msgid "Find <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46936
+msgctxt "7949764-0-46936"
+msgid "Confront the Traitor, Gulug"
+msgstr "裏切り者のグルグを問い詰める"
+
+#: 7949764-0-46935
+#, fuzzy
+msgctxt "7949764-0-46935"
+msgid "Follow the Scent"
+msgstr "匂いをたどる"
+
+#: 7949764-0-46934
+#, fuzzy
+msgctxt "7949764-0-46934"
+msgid "Talk to Karina"
+msgstr "カリナと話す"
+
+#: 7949764-0-46933
+#, fuzzy
+msgctxt "7949764-0-46933"
+msgid "Use the Lever to Reset the Rings"
+msgstr "レバーで輪をリセットする"
+
+#: 7949764-0-46932
+#, fuzzy
+msgctxt "7949764-0-46932"
+msgid "Lead the Rescued Captives to Safety"
+msgstr "救出した人たちを安全な場所まで連れて行く"
+
+#: 7949764-0-46931
+#, fuzzy
+msgctxt "7949764-0-46931"
+msgid "Find Gulug"
+msgstr "グルグを探す"
+
+#: 7949764-0-46927
+#, fuzzy
+msgctxt "7949764-0-46927"
+msgid "Ask About the Traitor"
+msgstr "裏切り者について聞く"
+
+#: 7949764-0-46926
+#, fuzzy
+msgctxt "7949764-0-46926"
+msgid "Do not delete"
+msgstr "消去してはいけない"
+
+#: 7949764-0-46925
+msgctxt "7949764-0-46925"
+msgid "Visit the Inn in Orsinium"
+msgstr "オルシニウムの宿屋を訪れる"
+
+#: 7949764-0-46923
+#, fuzzy
+msgctxt "7949764-0-46923"
+msgid "Read the Path of the Faithful for Clues"
+msgstr "「忠実なる者の道」を読んで手掛かりを探す"
+
+#: 7949764-0-46922
+#, fuzzy
+msgctxt "7949764-0-46922"
+msgid "Find the High Elf"
+msgstr "ハイエルフを探す"
+
+#: 7949764-0-46897
+#, fuzzy
+msgctxt "7949764-0-46897"
+msgid "Discover the Location of the Stolen Supplies"
+msgstr "盗まれた物資の在りかを突き止める"
+
+#: 7949764-0-46895
+msgctxt "7949764-0-46895"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46894
+msgctxt "7949764-0-46894"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46893
+#, fuzzy
+msgctxt "7949764-0-46893"
+msgid "Defeat Undead and Use <<1>> to Free Them"
+msgstr "アンデッドを倒し、<<1>>を使って解放する"
+
+#: 7949764-0-46892
+msgctxt "7949764-0-46892"
+msgid "Meet the Soul-Meld Mage"
+msgstr "魂の融合した魔術師と会う"
+
+#: 7949764-0-46891
+#, fuzzy
+msgctxt "7949764-0-46891"
+msgid "Talk to Garhar"
+msgstr "ガハールと話す"
+
+#: 7949764-0-46890
+#, fuzzy
+msgctxt "7949764-0-46890"
+msgid "Talk to Unsulag"
+msgstr "ウンスラグと話す"
+
+#: 7949764-0-46889
+#, fuzzy
+msgctxt "7949764-0-46889"
+msgid "Find Unsulag and Garhar"
+msgstr "ウンスラグとガハールを探す"
+
+#: 7949764-0-46887
+msgctxt "7949764-0-46887"
+msgid "Hit Kinetic Resonators to Rotate Rings"
+msgstr "動く共鳴装置を叩いて輪を回転させる"
+
+#: 7949764-0-46886
+msgctxt "7949764-0-46886"
+msgid "Witness the Sacrifice"
+msgstr "生贄の儀式を目撃する"
+
+#: 7949764-0-46885
+msgctxt "7949764-0-46885"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46884
+msgctxt "7949764-0-46884"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46883
+msgctxt "7949764-0-46883"
+msgid "Collect <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46882
+#, fuzzy
+msgctxt "7949764-0-46882"
+msgid "Analyze Dwarven Constructs"
+msgstr "ドワーフコンストラクトを分析する"
+
+#: 7949764-0-46881
+#, fuzzy
+msgctxt "7949764-0-46881"
+msgid "Rescue the Remaining Orc Peasants"
+msgstr "オークの残りの農民を救出する"
+
+#: 7949764-0-46880
+msgctxt "7949764-0-46880"
+msgid "Investigate the Temple District"
+msgstr "聖堂地区を調べる"
+
+#: 7949764-0-46879
+msgctxt "7949764-0-46879"
+msgid "Investigate the Nobles District"
+msgstr "貴族地区を調べる"
+
+#: 7949764-0-46878
+msgctxt "7949764-0-46878"
+msgid "Investigate the Elven Gardens District"
+msgstr "エルフの庭園地区を調べる"
+
+#: 7949764-0-46877
+msgctxt "7949764-0-46877"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46876
+msgctxt "7949764-0-46876"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>を破壊する"
+
+#: 7949764-0-46875
+#, fuzzy
+msgctxt "7949764-0-46875"
+msgid "Investigate the Arena District"
+msgstr "アリーナ地区を調べる"
+
+#: 7949764-0-46872
+#, fuzzy
+msgctxt "7949764-0-46872"
+msgid "Investigate the Arboretum"
+msgstr "樹木園を調べる"
+
+#: 7949764-0-46871
+msgctxt "7949764-0-46871"
+msgid "Rendezvous with the Caravan"
+msgstr "キャラバンと待ち合わせる"
+
+#: 7949764-0-46870
+msgctxt "7949764-0-46870"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46869
+msgctxt "7949764-0-46869"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46868
+#, fuzzy
+msgctxt "7949764-0-46868"
+msgid "Gather Unusual Eggs"
+msgstr "変わった卵を集める"
+
+#: 7949764-0-46867
+msgctxt "7949764-0-46867"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46866
+#, fuzzy
+msgctxt "7949764-0-46866"
+msgid "Investigate the Memorial District"
+msgstr "記念地区を調べる"
+
+#: 7949764-0-46865
+#, fuzzy
+msgctxt "7949764-0-46865"
+msgid "Talk to Razasha"
+msgstr "ラザーシャと話す"
+
+#: 7949764-0-46864
+msgctxt "7949764-0-46864"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46863
+msgctxt "7949764-0-46863"
+msgid "Burn Bandit Supplies"
+msgstr "山賊の物資を燃やす"
+
+#: 7949764-0-46861
+msgctxt "7949764-0-46861"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46858
+msgctxt "7949764-0-46858"
+msgid "Kill <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46857
+#, fuzzy
+msgctxt "7949764-0-46857"
+msgid "Collect High Quality Werewolf Pelts"
+msgstr "ウェアウルフの高品質な毛皮を集める"
+
+#: 7949764-0-46856
+#, fuzzy
+msgctxt "7949764-0-46856"
+msgid "Panel D is Correct"
+msgstr "パネルDは正しい"
+
+#: 7949764-0-46851
+#, fuzzy
+msgctxt "7949764-0-46851"
+msgid "Join <<1>> Outside"
+msgstr "外で<<1>>と合流する"
+
+#: 7949764-0-46850
+#, fuzzy
+msgctxt "7949764-0-46850"
+msgid "Grab mask"
+msgstr "仮面をつかむ"
+
+#: 7949764-0-46848
+msgctxt "7949764-0-46848"
+msgid "Talk to Narsis Dren"
+msgstr "ナルシス・ドレンと話す"
+
+#: 7949764-0-46844
+msgctxt "7949764-0-46844"
+msgid "Find Shabon"
+msgstr "シャボンを探す"
+
+#: 7949764-0-46843
+msgctxt "7949764-0-46843"
+msgid "Find Hunt-Wife Bolgar"
+msgstr "狩猟夫人ボルガーを探す"
+
+#: 7949764-0-46841
+#, fuzzy
+msgctxt "7949764-0-46841"
+msgid "Talk to Ghorn"
+msgstr "ゴーンと話す"
+
+#: 7949764-0-46840
+#, fuzzy
+msgctxt "7949764-0-46840"
+msgid "Investigate the Quarry"
+msgstr "採石場を調査する"
+
+#: 7949764-0-46839
+msgctxt "7949764-0-46839"
+msgid "Narsis Theater"
+msgstr "ナルシスシアター"
+
+#: 7949764-0-46838
+#, fuzzy
+msgctxt "7949764-0-46838"
+msgid "Follow Narsis to the Treasure Vault"
+msgstr "ナルシスを追って宝物庫に行く"
+
+#: 7949764-0-46822
+#, fuzzy
+msgctxt "7949764-0-46822"
+msgid "Player Died"
+msgstr "死亡した"
+
+#: 7949764-0-46821
+#, fuzzy
+msgctxt "7949764-0-46821"
+msgid "Logged Out"
+msgstr "ログアウトした"
+
+#: 7949764-0-46820
+#, fuzzy
+msgctxt "7949764-0-46820"
+msgid "Collect Concentrated Kindlepitch"
+msgstr "濃縮キンドルピッチを手に入れる"
+
+#: 7949764-0-46819
+#, fuzzy
+msgctxt "7949764-0-46819"
+msgid "Collect Concentrated Kindlepitch"
+msgstr "濃縮キンドルピッチを手に入れる"
+
+#: 7949764-0-46818
+#, fuzzy
+msgctxt "7949764-0-46818"
+msgid "Collect Concentrated Kindlepitch"
+msgstr "濃縮キンドルピッチを手に入れる"
+
+#: 7949764-0-46817
+#, fuzzy
+msgctxt "7949764-0-46817"
+msgid "Collect Concentrated Kindlepitch"
+msgstr "濃縮キンドルピッチを手に入れる"
+
+#: 7949764-0-46814
+#, fuzzy
+msgctxt "7949764-0-46814"
+msgid "Kill Xivkyn in the Memorial District"
+msgstr "記念地区でシヴキンを始末する"
+
+#: 7949764-0-46811
+msgctxt "7949764-0-46811"
+msgid "Retrieve <<1>>"
+msgstr "<<1>>を手に入れる"
+
+#: 7949764-0-46810
+#, fuzzy
+msgctxt "7949764-0-46810"
+msgid "Press the Panels in Proper Sequence"
+msgstr "パネルを正しい順番で押す"
+
+#: 7949764-0-46809
+#, fuzzy
+msgctxt "7949764-0-46809"
+msgid "Fix Ascension Panel"
+msgstr "上昇パネルを直す"
+
+#: 7949764-0-46808
+#, fuzzy
+msgctxt "7949764-0-46808"
+msgid "Fix Restoration Panel"
+msgstr "回復パネルを直す"
+
+#: 7949764-0-46807
+#, fuzzy
+msgctxt "7949764-0-46807"
+msgid "Fix the Broken Panels"
+msgstr "壊れたパネルを直す"
+
+#: 7949764-0-46805
+msgctxt "7949764-0-46805"
+msgid "Destroy the Briar Heart Tree"
+msgstr "ブライア・ハートの木を破壊する"
+
+#: 7949764-0-46796
+msgctxt "7949764-0-46796"
+msgid "Return to Alinon and Eveli"
+msgstr "アリノンとエヴェリの元に戻る"
+
+#: 7949764-0-46795
+#, fuzzy
+msgctxt "7949764-0-46795"
+msgid "Kill Legion Zero Soldiers"
+msgstr "第零軍団兵を始末する"
+
+#: 7949764-0-46788
+msgctxt "7949764-0-46788"
+msgid "Find South Barrow Pieces"
+msgstr "南の墓地のかけらを探す"
+
+#: 7949764-0-46787
+msgctxt "7949764-0-46787"
+msgid "Find East Barrow Pieces"
+msgstr "東の墓地のかけらを探す"
+
+#: 7949764-0-46785
+#, fuzzy
+msgctxt "7949764-0-46785"
+msgid "You Left the Tomb Area"
+msgstr "墓のエリアを離れた"
+
+#: 7949764-0-46784
+#, fuzzy
+msgctxt "7949764-0-46784"
+msgid "Enter Coldwind's Den"
+msgstr "コールドウィンドの巣に入る"
+
+#: 7949764-0-46781
+msgctxt "7949764-0-46781"
+msgid "Destroy Briar Heart Saplings"
+msgstr "ブライア・ハートの苗木を破壊する"
+
+#: 7949764-0-46780
+msgctxt "7949764-0-46780"
+msgid "Destroy Briar Heart Saplings"
+msgstr "ブライア・ハートの苗木を破壊する"
+
+#: 7949764-0-46779
+msgctxt "7949764-0-46779"
+msgid "Destroy Briar Heart Saplings"
+msgstr "ブライア・ハートの苗木を破壊する"
+
+#: 7949764-0-46778
+msgctxt "7949764-0-46778"
+msgid "Destroy Briar Heart Saplings"
+msgstr "ブライア・ハートの苗木を破壊する"
+
+#: 7949764-0-46777
+msgctxt "7949764-0-46777"
+msgid "Destroy Briar Heart Saplings"
+msgstr "ブライア・ハートの苗木を破壊する"
+
+#: 7949764-0-46776
+#, fuzzy
+msgctxt "7949764-0-46776"
+msgid "Find Coldwind's Den"
+msgstr "コールドウィンドの巣を探す"
+
+#: 7949764-0-46775
+#, fuzzy
+msgctxt "7949764-0-46775"
+msgid "Find the Pendant"
+msgstr "ペンダントを探す"
+
+#: 7949764-0-46774
+#, fuzzy
+msgctxt "7949764-0-46774"
+msgid "Return to Torug's Shrine"
+msgstr "トラグの祠へ戻る"
+
+#: 7949764-0-46773
+#, fuzzy
+msgctxt "7949764-0-46773"
+msgid "Get Alinon Inside the Fort"
+msgstr "アリノンを砦の中に入らせる"
+
+#: 7949764-0-46770
+#, fuzzy
+msgctxt "7949764-0-46770"
+msgid "Wait for Camp Scene"
+msgstr "キャンプのシーンを待つ"
+
+#: 7949764-0-46769
+#, fuzzy
+msgctxt "7949764-0-46769"
+msgid "Ask Others About the Pendant"
+msgstr "他の者たちにペンダントについて聞いてみる"
+
+#: 7949764-0-46768
+msgctxt "7949764-0-46768"
+msgid "Find the Remaining Stanzas"
+msgstr "残りの節を探す"
+
+#: 7949764-0-46767
+msgctxt "7949764-0-46767"
+msgid "Find the Remaining Stanzas"
+msgstr "残りの節を探す"
+
+#: 7949764-0-46766
+#, fuzzy
+msgctxt "7949764-0-46766"
+msgid "Rescue Imperial Citizens"
+msgstr "帝国の市民を救出する"
+
+#: 7949764-0-46762
+#, fuzzy
+msgctxt "7949764-0-46762"
+msgid "Place <<1>>"
+msgstr "<<1>>を置く"
+
+#: 7949764-0-46759
+#, fuzzy
+msgctxt "7949764-0-46759"
+msgid "Rendezvous with the Orc Squads"
+msgstr "オークの部隊と合流する"
+
+#: 7949764-0-46758
+msgctxt "7949764-0-46758"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46757
+msgctxt "7949764-0-46757"
+msgid "Place the Agra Crun on Display"
+msgstr "アグラ・クルンを展示場に置く"
+
+#: 7949764-0-46756
+#, fuzzy
+msgctxt "7949764-0-46756"
+msgid "Destroy the Debris"
+msgstr "瓦礫を破壊する"
+
+#: 7949764-0-46755
+msgctxt "7949764-0-46755"
+msgid "Talk to Lord Ethian"
+msgstr "エシアン卿と話す"
+
+#: 7949764-0-46754
+msgctxt "7949764-0-46754"
+msgid "Report to Siege Commander Dulph"
+msgstr "攻城指揮官ドルフに会う"
+
+#: 7949764-0-46750
+msgctxt "7949764-0-46750"
+msgid "Read the Note"
+msgstr "メモを読む"
+
+#: 7949764-0-46749
+msgctxt "7949764-0-46749"
+msgid "Read the Note"
+msgstr "メモを読む"
+
+#: 7949764-0-46748
+#, fuzzy
+msgctxt "7949764-0-46748"
+msgid "Talk to Siege Commander Dulph"
+msgstr "攻城指揮官ドルフと話す"
+
+#: 7949764-0-46747
+#, fuzzy
+msgctxt "7949764-0-46747"
+msgid "Locate the Merchants"
+msgstr "商人たちの居場所を探す"
+
+#: 7949764-0-46746
+#, fuzzy
+msgctxt "7949764-0-46746"
+msgid "Find The Rat's Message"
+msgstr "ラットのメッセージを探す"
+
+#: 7949764-0-46745
+#, fuzzy
+msgctxt "7949764-0-46745"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46744
+#, fuzzy
+msgctxt "7949764-0-46744"
+msgid "Get to the Mooring Base"
+msgstr "係留地の中心部へ向かう"
+
+#: 7949764-0-46743
+#, fuzzy
+msgctxt "7949764-0-46743"
+msgid "Bait and Set Ogrim Traps"
+msgstr "オグリムの罠に餌を仕掛けて設置する"
+
+#: 7949764-0-46742
+#, fuzzy
+msgctxt "7949764-0-46742"
+msgid "Bait and Set Ogrim Traps"
+msgstr "オグリムの罠に餌を仕掛けて設置する"
+
+#: 7949764-0-46741
+#, fuzzy
+msgctxt "7949764-0-46741"
+msgid "Bait and Set Ogrim Traps"
+msgstr "オグリムの罠に餌を仕掛けて設置する"
+
+#: 7949764-0-46740
+#, fuzzy
+msgctxt "7949764-0-46740"
+msgid "Bait and Set Ogrim Traps"
+msgstr "オグリムの罠に餌を仕掛けて設置する"
+
+#: 7949764-0-46739
+#, fuzzy
+msgctxt "7949764-0-46739"
+msgid "Bait and Set Ogrim Traps"
+msgstr "オグリムの罠に餌を仕掛けて設置する"
+
+#: 7949764-0-46737
+#, fuzzy
+msgctxt "7949764-0-46737"
+msgid "Logged Out"
+msgstr "ログアウトした"
+
+#: 7949764-0-46735
+#, fuzzy
+msgctxt "7949764-0-46735"
+msgid "Sabotage the Western Forge"
+msgstr "西の鍛冶場で妨害工作をする"
+
+#: 7949764-0-46734
+#, fuzzy
+msgctxt "7949764-0-46734"
+msgid "Find <<1>> in the Alliance Base"
+msgstr "同盟の基地で<<1>>を見つける"
+
+#: 7949764-0-46731
+#, fuzzy
+msgctxt "7949764-0-46731"
+msgid "Find the Final Inscription"
+msgstr "最後の碑文を探す"
+
+#: 7949764-0-46729
+#, fuzzy
+msgctxt "7949764-0-46729"
+msgid "Find <<a:1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46726
+#, fuzzy
+msgctxt "7949764-0-46726"
+msgid "Destroy the Ballistae"
+msgstr "バリスタを破壊する"
+
+#: 7949764-0-46725
+#, fuzzy
+msgctxt "7949764-0-46725"
+msgid "Destroy the Ballistae"
+msgstr "バリスタを破壊する"
+
+#: 7949764-0-46724
+#, fuzzy
+msgctxt "7949764-0-46724"
+msgid "Destroy the Ballistae"
+msgstr "バリスタを破壊する"
+
+#: 7949764-0-46723
+#, fuzzy
+msgctxt "7949764-0-46723"
+msgid "Destroy the Ballistae"
+msgstr "バリスタを破壊する"
+
+#: 7949764-0-46719
+#, fuzzy
+msgctxt "7949764-0-46719"
+msgid "Destroy the Ballistae"
+msgstr "バリスタを破壊する"
+
+#: 7949764-0-46718
+#, fuzzy
+msgctxt "7949764-0-46718"
+msgid "Bas-Relief Panel"
+msgstr "浅浮き彫りパネル"
+
+#: 7949764-0-46717
+#, fuzzy
+msgctxt "7949764-0-46717"
+msgid "Bas-Relief Panel"
+msgstr "浅浮き彫りパネル"
+
+#: 7949764-0-46716
+#, fuzzy
+msgctxt "7949764-0-46716"
+msgid "Bas-Relief Panel"
+msgstr "浅浮き彫りパネル"
+
+#: 7949764-0-46715
+#, fuzzy
+msgctxt "7949764-0-46715"
+msgid "Bas-Relief Panel"
+msgstr "浅浮き彫りパネル"
+
+#: 7949764-0-46714
+#, fuzzy
+msgctxt "7949764-0-46714"
+msgid "Gather Materials for <<1>>'s Artwork"
+msgstr "<<1>>の芸術作品のための素材を集める"
+
+#: 7949764-0-46713
+#, fuzzy
+msgctxt "7949764-0-46713"
+msgid "Find Ogre Materials"
+msgstr "オーガ素材を探す"
+
+#: 7949764-0-46712
+#, fuzzy
+msgctxt "7949764-0-46712"
+msgid "Find Ogre Materials"
+msgstr "オーガ素材を探す"
+
+#: 7949764-0-46711
+#, fuzzy
+msgctxt "7949764-0-46711"
+msgid "Find Ogre Materials"
+msgstr "オーガ素材を探す"
+
+#: 7949764-0-46710
+#, fuzzy
+msgctxt "7949764-0-46710"
+msgid "Find Ogre Materials"
+msgstr "オーガ素材を探す"
+
+#: 7949764-0-46709
+#, fuzzy
+msgctxt "7949764-0-46709"
+msgid "Meet Captain Regilus at the Safe House"
+msgstr "隠れ家でレギルス隊長に会う"
+
+#: 7949764-0-46708
+#, fuzzy
+msgctxt "7949764-0-46708"
+msgid "Switch the Keys"
+msgstr "鍵を交換する"
+
+#: 7949764-0-46707
+msgctxt "7949764-0-46707"
+msgid "Talk to Kharsthun"
+msgstr "カースサンと話す"
+
+#: 7949764-0-46706
+msgctxt "7949764-0-46706"
+msgid "Find the Remaining Stanzas"
+msgstr "残りの節を探す"
+
+#: 7949764-0-46705
+#, fuzzy
+msgctxt "7949764-0-46705"
+msgid "Search for Expedition Survivors"
+msgstr "探検隊の生存者を探す"
+
+#: 7949764-0-46704
+#, fuzzy
+msgctxt "7949764-0-46704"
+msgid "Find <<1>> in the Alliance Base"
+msgstr "同盟の基地で<<1>>を見つける"
+
+#: 7949764-0-46701
+#, fuzzy
+msgctxt "7949764-0-46701"
+msgid "Find Missing Imperial Records"
+msgstr "行方不明の帝国の記録を探す"
+
+#: 7949764-0-46700
+msgctxt "7949764-0-46700"
+msgid "Find <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46698
+#, fuzzy
+msgctxt "7949764-0-46698"
+msgid "Find Missing Imperial Records"
+msgstr "行方不明の帝国の記録を探す"
+
+#: 7949764-0-46697
+#, fuzzy
+msgctxt "7949764-0-46697"
+msgid "Find Missing Imperial Records"
+msgstr "行方不明の帝国の記録を探す"
+
+#: 7949764-0-46696
+#, fuzzy
+msgctxt "7949764-0-46696"
+msgid "Find Missing Imperial Records"
+msgstr "行方不明の帝国の記録を探す"
+
+#: 7949764-0-46686
+#, fuzzy
+msgctxt "7949764-0-46686"
+msgid "Find Missing Imperial Records"
+msgstr "行方不明の帝国の記録を探す"
+
+#: 7949764-0-46685
+#, fuzzy
+msgctxt "7949764-0-46685"
+msgid "Slay Daedroth and Flame Atronachs in the Arboretum"
+msgstr "樹木園でデイドロスと炎の精霊を倒す"
+
+#: 7949764-0-46678
+#, fuzzy
+msgctxt "7949764-0-46678"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46676
+#, fuzzy
+msgctxt "7949764-0-46676"
+msgid "Find the Merchants"
+msgstr "商人たちを探す"
+
+#: 7949764-0-46675
+#, fuzzy
+msgctxt "7949764-0-46675"
+msgid "Treat the Key with Acid"
+msgstr "鍵に酸をかける"
+
+#: 7949764-0-46673
+#, fuzzy
+msgctxt "7949764-0-46673"
+msgid "Create the False Key"
+msgstr "偽物の鍵を作る"
+
+#: 7949764-0-46672
+#, fuzzy
+msgctxt "7949764-0-46672"
+msgid "Collect Scrap Metal"
+msgstr "鉄クズを手に入れる"
+
+#: 7949764-0-46671
+#, fuzzy
+msgctxt "7949764-0-46671"
+msgid "Find <<1>> in the Alliance Base"
+msgstr "同盟の基地で<<1>>を見つける"
+
+#: 7949764-0-46669
+#, fuzzy
+msgctxt "7949764-0-46669"
+msgid "Find Regilus in the Groundskeeper's Storehouse"
+msgstr "管理人の倉庫にいるレギルスを見つける"
+
+#: 7949764-0-46663
+#, fuzzy
+msgctxt "7949764-0-46663"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46662
+#, fuzzy
+msgctxt "7949764-0-46662"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46660
+#, fuzzy
+msgctxt "7949764-0-46660"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46659
+#, fuzzy
+msgctxt "7949764-0-46659"
+msgid "Gather <<m:1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46658
+#, fuzzy
+msgctxt "7949764-0-46658"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46657
+#, fuzzy
+msgctxt "7949764-0-46657"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46655
+#, fuzzy
+msgctxt "7949764-0-46655"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46648
+msgctxt "7949764-0-46648"
+msgid "Talk to King Bazrag"
+msgstr "バズラグ王と話す"
+
+#: 7949764-0-46647
+#, fuzzy
+msgctxt "7949764-0-46647"
+msgid "Participate in the Funeral"
+msgstr "葬式に参加する"
+
+#: 7949764-0-46646
+#, fuzzy
+msgctxt "7949764-0-46646"
+msgid "Go to the Castle Overlook"
+msgstr "城の見晴らし台へ行く"
+
+#: 7949764-0-46645
+#, fuzzy
+msgctxt "7949764-0-46645"
+msgid "Get Kurog's Favorite Ale"
+msgstr "クログのお気に入りのエールを手に入れる"
+
+#: 7949764-0-46644
+#, fuzzy
+msgctxt "7949764-0-46644"
+msgid "Go to the King's Cornerclub"
+msgstr "王のコーナークラブへ行く"
+
+#: 7949764-0-46641
+#, fuzzy
+msgctxt "7949764-0-46641"
+msgid "Anoint Casks of Oil with <<A:1>>"
+msgstr "油の大樽に<<1>>を塗る"
+
+#: 7949764-0-46640
+#, fuzzy
+msgctxt "7949764-0-46640"
+msgid "Anoint Casks of Oil with <<A:1>>"
+msgstr "油の大樽に<<1>>を塗る"
+
+#: 7949764-0-46639
+#, fuzzy
+msgctxt "7949764-0-46639"
+msgid "Anoint Casks of Oil with <<A:1>>"
+msgstr "油の大樽に<<1>>を塗る"
+
+#: 7949764-0-46638
+#, fuzzy
+msgctxt "7949764-0-46638"
+msgid "Anoint Casks of Oil with <<A:1>>"
+msgstr "油の大樽に<<1>>を塗る"
+
+#: 7949764-0-46637
+#, fuzzy
+msgctxt "7949764-0-46637"
+msgid "Anoint Casks of Oil with <<A:1>>"
+msgstr "油の大樽に<<1>>を塗る"
+
+#: 7949764-0-46636
+#, fuzzy
+msgctxt "7949764-0-46636"
+msgid "Anoint Artifacts with <<A:1>>"
+msgstr "アーティファクトに<<1>>を塗る"
+
+#: 7949764-0-46635
+#, fuzzy
+msgctxt "7949764-0-46635"
+msgid "Bring the Key to the Drake of Blades"
+msgstr "鍵を剣のドレイクに届ける"
+
+#: 7949764-0-46634
+#, fuzzy
+msgctxt "7949764-0-46634"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46633
+#, fuzzy
+msgctxt "7949764-0-46633"
+msgid "Talk to General Nedras"
+msgstr "ネドラス将軍と話す"
+
+#: 7949764-0-46631
+#, fuzzy
+msgctxt "7949764-0-46631"
+msgid "Gather Your Allies"
+msgstr "仲間たちを集める"
+
+#: 7949764-0-46630
+#, fuzzy
+msgctxt "7949764-0-46630"
+msgid "Gather Your Allies"
+msgstr "仲間たちを集める"
+
+#: 7949764-0-46629
+#, fuzzy
+msgctxt "7949764-0-46629"
+msgid "Gather Your Allies"
+msgstr "仲間たちを集める"
+
+#: 7949764-0-46628
+#, fuzzy
+msgctxt "7949764-0-46628"
+msgid "Gather Your Allies"
+msgstr "仲間たちを集める"
+
+#: 7949764-0-46627
+#, fuzzy
+msgctxt "7949764-0-46627"
+msgid "Gather Your Allies"
+msgstr "仲間たちを集める"
+
+#: 7949764-0-46626
+#, fuzzy
+msgctxt "7949764-0-46626"
+msgid "Gather Your Allies"
+msgstr "仲間たちを集める"
+
+#: 7949764-0-46625
+#, fuzzy
+msgctxt "7949764-0-46625"
+msgid "Cast the Translation Spell"
+msgstr "翻訳呪文を使う"
+
+#: 7949764-0-46623
+#, fuzzy
+msgctxt "7949764-0-46623"
+msgid "Find the Chief Archivist in the Archives"
+msgstr "保管庫で公文書保管人を見つける"
+
+#: 7949764-0-46618
+#, fuzzy
+msgctxt "7949764-0-46618"
+msgid "Find <<1>> in the Alliance Base"
+msgstr "同盟の基地で<<1>>を見つける"
+
+#: 7949764-0-46617
+#, fuzzy
+msgctxt "7949764-0-46617"
+msgid "Anoint Casks of Oil with <<A:1>>"
+msgstr "油の大樽に<<1>>を塗る"
+
+#: 7949764-0-46616
+#, fuzzy
+msgctxt "7949764-0-46616"
+msgid "Bring the Components to the Ritual Brazier"
+msgstr "儀式のかがり火に材料を持っていく"
+
+#: 7949764-0-46615
+#, fuzzy
+msgctxt "7949764-0-46615"
+msgid "Find <<a:1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46614
+#, fuzzy
+msgctxt "7949764-0-46614"
+msgid "Collect <<m:1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46613
+#, fuzzy
+msgctxt "7949764-0-46613"
+msgid "Enter the Garrison"
+msgstr "駐屯地に入る"
+
+#: 7949764-0-46609
+#, fuzzy
+msgctxt "7949764-0-46609"
+msgid "Gather Your Allies for the Funeral"
+msgstr "葬式のための仲間たちを集める"
+
+#: 7949764-0-46608
+msgctxt "7949764-0-46608"
+msgid "Return to the Keep"
+msgstr "砦に戻る"
+
+#: 7949764-0-46607
+#, fuzzy
+msgctxt "7949764-0-46607"
+msgid "Search Slain Daedra for the Black Iron Key"
+msgstr "デイドラの死体を探って黒鉄の鍵を手に入れる"
+
+#: 7949764-0-46606
+#, fuzzy
+msgctxt "7949764-0-46606"
+msgid "Defeat King Kurog"
+msgstr "クログ王を倒す"
+
+#: 7949764-0-46605
+#, fuzzy
+msgctxt "7949764-0-46605"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46604
+msgctxt "7949764-0-46604"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46603
+#, fuzzy
+msgctxt "7949764-0-46603"
+msgid "Talk to General Aklash"
+msgstr "アクラシュ将軍と話す"
+
+#: 7949764-0-46601
+#, fuzzy
+msgctxt "7949764-0-46601"
+msgid "Ask <<1>> About Items"
+msgstr "アイテムについて<<1>>に聞く"
+
+#: 7949764-0-46600
+msgctxt "7949764-0-46600"
+msgid "Destroy the <<1>>"
+msgstr "<<1>>を破壊する"
+
+#: 7949764-0-46599
+#, fuzzy
+msgctxt "7949764-0-46599"
+msgid "Find <<1>> at the Alliance Base"
+msgstr "同盟の基地で<<1>>を探す"
+
+#: 7949764-0-46597
+msgctxt "7949764-0-46597"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46594
+#, fuzzy
+msgctxt "7949764-0-46594"
+msgid "Sarcophogus"
+msgstr "石棺"
+
+#: 7949764-0-46591
+msgctxt "7949764-0-46591"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46590
+#, fuzzy
+msgctxt "7949764-0-46590"
+msgid "Retrieve <<A:1>>"
+msgstr "<<1>>を手に入れる"
+
+#: 7949764-0-46589
+#, fuzzy
+msgctxt "7949764-0-46589"
+msgid "Search for <<A:1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46583
+#, fuzzy
+msgctxt "7949764-0-46583"
+msgid "Place Auricular Geodes in Skeletons"
+msgstr "スケルトンに心耳の晶石を使う"
+
+#: 7949764-0-46579
+#, fuzzy
+msgctxt "7949764-0-46579"
+msgid "Look for the Remaining Hunters"
+msgstr "残りの狩人達を探す"
+
+#: 7949764-0-46578
+#, fuzzy
+msgctxt "7949764-0-46578"
+msgid "Find the Spell Ciphers"
+msgstr "呪文暗号文を見つける"
+
+#: 7949764-0-46577
+#, fuzzy
+msgctxt "7949764-0-46577"
+msgid "Find the Spell Ciphers"
+msgstr "呪文暗号文を見つける"
+
+#: 7949764-0-46576
+#, fuzzy
+msgctxt "7949764-0-46576"
+msgid "Find the Spell Ciphers"
+msgstr "呪文暗号文を見つける"
+
+#: 7949764-0-46575
+#, fuzzy
+msgctxt "7949764-0-46575"
+msgid "Find the Spell Ciphers"
+msgstr "呪文暗号文を見つける"
+
+#: 7949764-0-46574
+#, fuzzy
+msgctxt "7949764-0-46574"
+msgid "Find the Spell Ciphers"
+msgstr "呪文暗号文を見つける"
+
+#: 7949764-0-46572
+#, fuzzy
+msgctxt "7949764-0-46572"
+msgid "Look for Zubesha"
+msgstr "ズベーシャを探す"
+
+#: 7949764-0-46571
+#, fuzzy
+msgctxt "7949764-0-46571"
+msgid "Take ""The Sublime Brazier"" to the Drake of Blades"
+msgstr "「崇高なるかがり火」を剣のドレイクに届ける"
+
+#: 7949764-0-46567
+#, fuzzy
+msgctxt "7949764-0-46567"
+msgid "Rescue the Chief Archivist"
+msgstr "公文書保管人を助ける"
+
+#: 7949764-0-46566
+#, fuzzy
+msgctxt "7949764-0-46566"
+msgid "Recover the Coded Book"
+msgstr "暗号化された本を手に入れる"
+
+#: 7949764-0-46563
+msgctxt "7949764-0-46563"
+msgid "Place the Vases"
+msgstr "花瓶を置く"
+
+#: 7949764-0-46562
+#, fuzzy
+msgctxt "7949764-0-46562"
+msgid "PlaceShort Vase Right"
+msgstr "短い花瓶を右に置く"
+
+#: 7949764-0-46561
+#, fuzzy
+msgctxt "7949764-0-46561"
+msgid "PlaceShort Vase Left"
+msgstr "短い花瓶を左に置く"
+
+#: 7949764-0-46557
+#, fuzzy
+msgctxt "7949764-0-46557"
+msgid "Talk to Captain Caudex"
+msgstr "カウデクス隊長と話す"
+
+#: 7949764-0-46553
+#, fuzzy
+msgctxt "7949764-0-46553"
+msgid "Talk to Captain Caudex"
+msgstr "カウデクス隊長と話す"
+
+#: 7949764-0-46552
+#, fuzzy
+msgctxt "7949764-0-46552"
+msgid "Short Moon Vase 2"
+msgstr "短い月の花瓶2"
+
+#: 7949764-0-46551
+#, fuzzy
+msgctxt "7949764-0-46551"
+msgid "Tall Vase"
+msgstr "細長い花瓶"
+
+#: 7949764-0-46550
+#, fuzzy
+msgctxt "7949764-0-46550"
+msgid "Short Moon Vase 1"
+msgstr "短い月の花瓶1"
+
+#: 7949764-0-46549
+#, fuzzy
+msgctxt "7949764-0-46549"
+msgid "PlaceTall Vase"
+msgstr "細長い花瓶を置く"
+
+#: 7949764-0-46548
+#, fuzzy
+msgctxt "7949764-0-46548"
+msgid "Empty Table"
+msgstr "空のテーブル"
+
+#: 7949764-0-46547
+#, fuzzy
+msgctxt "7949764-0-46547"
+msgid "Wall-Hanging"
+msgstr "壁掛け"
+
+#: 7949764-0-46546
+#, fuzzy
+msgctxt "7949764-0-46546"
+msgid "Hunt Tomb"
+msgstr "墓を探る"
+
+#: 7949764-0-46545
+msgctxt "7949764-0-46545"
+msgid "Examine the Statues for Clues"
+msgstr "像を調べて手掛かりを探す"
+
+#: 7949764-0-46537
+#, fuzzy
+msgctxt "7949764-0-46537"
+msgid "Meet with Captain Regilus"
+msgstr "レギルス隊長に会う"
+
+#: 7949764-0-46535
+#, fuzzy
+msgctxt "7949764-0-46535"
+msgid "Draw the Dragonguard Seal"
+msgstr "ドラゴンガードの封印を描く"
+
+#: 7949764-0-46534
+#, fuzzy
+msgctxt "7949764-0-46534"
+msgid "Soldier Tomb"
+msgstr "兵士の墓"
+
+#: 7949764-0-46531
+#, fuzzy
+msgctxt "7949764-0-46531"
+msgid "Survive the Theater of Despair"
+msgstr "「絶望の劇場」で生き残る"
+
+#: 7949764-0-46530
+#, fuzzy
+msgctxt "7949764-0-46530"
+msgid "Enter the Theater of Despair"
+msgstr "「絶望の劇場」に入る"
+
+#: 7949764-0-46529
+#, fuzzy
+msgctxt "7949764-0-46529"
+msgid "Survive the Vault of Umbrage"
+msgstr "「日陰の地下室」で生き残る"
+
+#: 7949764-0-46528
+#, fuzzy
+msgctxt "7949764-0-46528"
+msgid "Enter the Vault of Umbrage"
+msgstr "「日陰の地下室」に入る"
+
+#: 7949764-0-46527
+msgctxt "7949764-0-46527"
+msgid "Talk to Stibbons"
+msgstr "スティボンズと話す"
+
+#: 7949764-0-46526
+msgctxt "7949764-0-46526"
+msgid "Look Down at Torug's Shrine to Use the Scroll"
+msgstr "トラグの祠を見下ろして巻物を使う"
+
+#: 7949764-0-46525
+msgctxt "7949764-0-46525"
+msgid "Unlock <<1>>"
+msgstr "<<1>>を解除する"
+
+#: 7949764-0-46524
+msgctxt "7949764-0-46524"
+msgid "Unlock <<1>>"
+msgstr "<<1>>を解除する"
+
+#: 7949764-0-46523
+msgctxt "7949764-0-46523"
+msgid "Unlock <<1>>"
+msgstr "<<1>>を解除する"
+
+#: 7949764-0-46522
+msgctxt "7949764-0-46522"
+msgid "Activate the Bellows"
+msgstr "送風機を発動させる"
+
+#: 7949764-0-46521
+msgctxt "7949764-0-46521"
+msgid "Give the Totem to Orgotha"
+msgstr "トーテムをオルゴサに渡す"
+
+#: 7949764-0-46520
+#, fuzzy
+msgctxt "7949764-0-46520"
+msgid "Left Dead Scene"
+msgstr "死者のシーンを離れた"
+
+#: 7949764-0-46519
+#, fuzzy
+msgctxt "7949764-0-46519"
+msgid "Watch Dead Scene"
+msgstr "死者のシーンを見る"
+
+#: 7949764-0-46518
+#, fuzzy
+msgctxt "7949764-0-46518"
+msgid "Search for Expedition Survivors"
+msgstr "探検隊の生存者を探す"
+
+#: 7949764-0-46517
+#, fuzzy
+msgctxt "7949764-0-46517"
+msgid "Look for Zubesha"
+msgstr "ズベーシャを探す"
+
+#: 7949764-0-46516
+msgctxt "7949764-0-46516"
+msgid "Talk to Zhasim"
+msgstr "ザシムと話す"
+
+#: 7949764-0-46515
+#, fuzzy
+msgctxt "7949764-0-46515"
+msgid "Talk to the Vision of Alga"
+msgstr "アルガの幻視と話す"
+
+#: 7949764-0-46514
+#, fuzzy
+msgctxt "7949764-0-46514"
+msgid "Left Camp Scene"
+msgstr "キャンプのシーンを離れた"
+
+#: 7949764-0-46513
+#, fuzzy
+msgctxt "7949764-0-46513"
+msgid "Watch Camp Scene"
+msgstr "キャンプのシーンを見る"
+
+#: 7949764-0-46512
+#, fuzzy
+msgctxt "7949764-0-46512"
+msgid "Talk to Elder Akarah"
+msgstr "アカラ長老と話す"
+
+#: 7949764-0-46510
+#, fuzzy
+msgctxt "7949764-0-46510"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46509
+#, fuzzy
+msgctxt "7949764-0-46509"
+msgid "Failed the Gauntlet"
+msgstr "試練に失敗した"
+
+#: 7949764-0-46508
+#, fuzzy
+msgctxt "7949764-0-46508"
+msgid "Talk to Elder Yozth"
+msgstr "ヨズス長老と話す"
+
+#: 7949764-0-46506
+msgctxt "7949764-0-46506"
+msgid "Examine the Scroll of Usunok"
+msgstr "ウスノクの巻物を調べる"
+
+#: 7949764-0-46505
+msgctxt "7949764-0-46505"
+msgid "Examine the Scroll of Vaia"
+msgstr "ヴァイアの巻物を調べる"
+
+#: 7949764-0-46504
+msgctxt "7949764-0-46504"
+msgid "Examine the Scroll of Avalian"
+msgstr "アヴァリアンの巻物を調べる"
+
+#: 7949764-0-46503
+msgctxt "7949764-0-46503"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46502
+#, fuzzy
+msgctxt "7949764-0-46502"
+msgid "Search for <<A:1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46501
+msgctxt "7949764-0-46501"
+msgid "Talk to Kharsthun"
+msgstr "カースサンと話す"
+
+#: 7949764-0-46500
+#, fuzzy
+msgctxt "7949764-0-46500"
+msgid "Light the Campfire"
+msgstr "キャンプファイアを灯す"
+
+#: 7949764-0-46499
+#, fuzzy
+msgctxt "7949764-0-46499"
+msgid "Talk to General Nesh-Tan"
+msgstr "ネシュ・タン将軍と話す"
+
+#: 7949764-0-46497
+#, fuzzy
+msgctxt "7949764-0-46497"
+msgid "Kill Invading Dremora"
+msgstr "侵入してくるドレモラを倒す"
+
+#: 7949764-0-46496
+#, fuzzy
+msgctxt "7949764-0-46496"
+msgid "Fall Back to Sublime Brazier"
+msgstr "崇高なるかがり火まで退却する"
+
+#: 7949764-0-46495
+msgctxt "7949764-0-46495"
+msgid "Talk to Azeeda"
+msgstr "アジーダと話す"
+
+#: 7949764-0-46494
+msgctxt "7949764-0-46494"
+msgid "Talk to Youss"
+msgstr "ヨウスと話す"
+
+#: 7949764-0-46493
+msgctxt "7949764-0-46493"
+msgid "Return the Pendant to Youss"
+msgstr "ペンダントをヨウスに返す"
+
+#: 7949764-0-46492
+msgctxt "7949764-0-46492"
+msgid "Talk to Azeeda"
+msgstr "アジーダと話す"
+
+#: 7949764-0-46491
+msgctxt "7949764-0-46491"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46490
+msgctxt "7949764-0-46490"
+msgid "Free the Clergy near the shrine of Julianos"
+msgstr "ジュリアノスの祠の近くにいる聖職者を解放する"
+
+#: 7949764-0-46489
+msgctxt "7949764-0-46489"
+msgid "Free the Clergy near the Shrine of Dibella"
+msgstr "ディベラの祠の近くにいる聖職者を解放する"
+
+#: 7949764-0-46488
+msgctxt "7949764-0-46488"
+msgid "Free the Clergy near the Shrine of Mara"
+msgstr "マーラの祠の近くにいる聖職者を解放する"
+
+#: 7949764-0-46466
+#, fuzzy
+msgctxt "7949764-0-46466"
+msgid "Recruit the Chief of Clan Shatul"
+msgstr "クラン・シャトゥルの族長を説得する"
+
+#: 7949764-0-46465
+#, fuzzy
+msgctxt "7949764-0-46465"
+msgid "Aid the Shatul Clan"
+msgstr "クラン・シャトゥルを支援する"
+
+#: 7949764-0-46463
+#, fuzzy
+msgctxt "7949764-0-46463"
+msgid "Aid the Morkul Clan"
+msgstr "モークル・クランを支援する"
+
+#: 7949764-0-46461
+#, fuzzy
+msgctxt "7949764-0-46461"
+msgid "Aid the Tumnosh Clan"
+msgstr "クラン・タムノッシュを支援する"
+
+#: 7949764-0-46459
+#, fuzzy
+msgctxt "7949764-0-46459"
+msgid "Take the <<1>> to Malacath's Shrine"
+msgstr "<<1>>をマラキャスの祠に持っていく"
+
+#: 7949764-0-46458
+msgctxt "7949764-0-46458"
+msgid "Take the <<1>> to Orsinium"
+msgstr "<<1>>をオルシニウムに持っていく"
+
+#: 7949764-0-46452
+#, fuzzy
+msgctxt "7949764-0-46452"
+msgid "Find the Pendant"
+msgstr "ペンダントを探す"
+
+#: 7949764-0-46450
+msgctxt "7949764-0-46450"
+msgid "Leave Tamahl's Memory"
+msgstr "タマールの記憶から出る"
+
+#: 7949764-0-46449
+msgctxt "7949764-0-46449"
+msgid "Leave Arakaul's Memory"
+msgstr "アラカウルの記憶から出る"
+
+#: 7949764-0-46448
+msgctxt "7949764-0-46448"
+msgid "Leave Arakaul's Memory"
+msgstr "アラカウルの記憶から出る"
+
+#: 7949764-0-46447
+msgctxt "7949764-0-46447"
+msgid "Leave Tamahl's Memory"
+msgstr "タマールの記憶から出る"
+
+#: 7949764-0-46442
+#, fuzzy
+msgctxt "7949764-0-46442"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-46441
+#, fuzzy
+msgctxt "7949764-0-46441"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-46440
+#, fuzzy
+msgctxt "7949764-0-46440"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-46439
+#, fuzzy
+msgctxt "7949764-0-46439"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-46438
+msgctxt "7949764-0-46438"
+msgid "Examine the Monument Stone"
+msgstr "記念の石を調べる"
+
+#: 7949764-0-46437
+#, fuzzy
+msgctxt "7949764-0-46437"
+msgid "Find the Entrance to the Catacombs"
+msgstr "カタコンベの入口を探す"
+
+#: 7949764-0-46435
+#, fuzzy
+msgctxt "7949764-0-46435"
+msgid "Watch the Scene"
+msgstr "シーンを見る"
+
+#: 7949764-0-46434
+msgctxt "7949764-0-46434"
+msgid "Talk to Skordo the Knife"
+msgstr "ナイフのスコルドと話す"
+
+#: 7949764-0-46422
+#, fuzzy
+msgctxt "7949764-0-46422"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46420
+#, fuzzy
+msgctxt "7949764-0-46420"
+msgid "Rescue the Chiefs"
+msgstr "族長たちを救出する"
+
+#: 7949764-0-46419
+msgctxt "7949764-0-46419"
+msgid "Go to the Moot"
+msgstr "ムートに行く"
+
+#: 7949764-0-46417
+#, fuzzy
+msgctxt "7949764-0-46417"
+msgid "Check on Solgra in the Temple"
+msgstr "聖堂にいるソルグラの様子を確かめる"
+
+#: 7949764-0-46416
+#, fuzzy
+msgctxt "7949764-0-46416"
+msgid "Confront the Assassin"
+msgstr "アサシンと対決する"
+
+#: 7949764-0-46415
+#, fuzzy
+msgctxt "7949764-0-46415"
+msgid "Confront the Assassin"
+msgstr "アサシンと対決する"
+
+#: 7949764-0-46414
+#, fuzzy
+msgctxt "7949764-0-46414"
+msgid "Find the Attackers"
+msgstr "襲撃者を探す"
+
+#: 7949764-0-46413
+#, fuzzy
+msgctxt "7949764-0-46413"
+msgid "Find the Attackers"
+msgstr "襲撃者を探す"
+
+#: 7949764-0-46411
+msgctxt "7949764-0-46411"
+msgid "Find High Priestess Solgra and Eveli"
+msgstr "ソルグラ大司祭とエヴェリを探す"
+
+#: 7949764-0-46408
+#, fuzzy
+msgctxt "7949764-0-46408"
+msgid "Use the Lever to Reset the Rings"
+msgstr "レバーで輪をリセットする"
+
+#: 7949764-0-46401
+#, fuzzy
+msgctxt "7949764-0-46401"
+msgid "Search for Lady Sovelle"
+msgstr "レディ・ソヴェレを探す"
+
+#: 7949764-0-46400
+#, fuzzy
+msgctxt "7949764-0-46400"
+msgid "Check the Signal Tower"
+msgstr "信号塔を調べる"
+
+#: 7949764-0-46399
+#, fuzzy
+msgctxt "7949764-0-46399"
+msgid "Skordo Comment 1"
+msgstr "スコルドのコメント1"
+
+#: 7949764-0-46395
+#, fuzzy
+msgctxt "7949764-0-46395"
+msgid "Take <<1>>"
+msgstr "<<1>>を運ぶ"
+
+#: 7949764-0-46393
+#, fuzzy
+msgctxt "7949764-0-46393"
+msgid "Search Wrecks for Survivors"
+msgstr "難破船で生存者を探す"
+
+#: 7949764-0-46392
+#, fuzzy
+msgctxt "7949764-0-46392"
+msgid "Kill Coris Rufinius"
+msgstr "コリス・ルフィニウスを倒す"
+
+#: 7949764-0-46387
+msgctxt "7949764-0-46387"
+msgid "Talk to The Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46386
+#, fuzzy
+msgctxt "7949764-0-46386"
+msgid "Witness the Ritual"
+msgstr "儀式を目撃する"
+
+#: 7949764-0-46383
+#, fuzzy
+msgctxt "7949764-0-46383"
+msgid "Use the Ballistae to Defend the Entrance"
+msgstr "バリスタを使って入口を守る"
+
+#: 7949764-0-46382
+#, fuzzy
+msgctxt "7949764-0-46382"
+msgid "Watch Father Egnatius Prepare the Ritual"
+msgstr "エグナティウス神父が儀式の準備を終わらせるまで待つ"
+
+#: 7949764-0-46378
+msgctxt "7949764-0-46378"
+msgid "Check on Eveli in the Temple"
+msgstr "聖堂にいるエヴェリの様子を確かめる"
+
+#: 7949764-0-46377
+msgctxt "7949764-0-46377"
+msgid "Find the Ambassador or Skordo"
+msgstr "大使かスコルドを探す"
+
+#: 7949764-0-46374
+msgctxt "7949764-0-46374"
+msgid "Find High Priestess Solgra"
+msgstr "ソルグラ大司祭を探す"
+
+#: 7949764-0-46373
+msgctxt "7949764-0-46373"
+msgid "Find High Priestess Solgra"
+msgstr "ソルグラ大司祭を探す"
+
+#: 7949764-0-46372
+#, fuzzy
+msgctxt "7949764-0-46372"
+msgid "Go to the Temple Library"
+msgstr "聖堂蔵書庫に行く"
+
+#: 7949764-0-46370
+msgctxt "7949764-0-46370"
+msgid "Find High Priestess Solgra"
+msgstr "ソルグラ大司祭を探す"
+
+#: 7949764-0-46369
+msgctxt "7949764-0-46369"
+msgid "Enter the Temple"
+msgstr "聖堂に入る"
+
+#: 7949764-0-46367
+#, fuzzy
+msgctxt "7949764-0-46367"
+msgid "Talk to Meram Farr"
+msgstr "メラム・ファーと話す"
+
+#: 7949764-0-46366
+#, fuzzy
+msgctxt "7949764-0-46366"
+msgid "Find Khoruzoth's Mother"
+msgstr "コルゾスの母を探す"
+
+#: 7949764-0-46365
+#, fuzzy
+msgctxt "7949764-0-46365"
+msgid "Search for Khoruzoth"
+msgstr "コルゾスを探す"
+
+#: 7949764-0-46362
+msgctxt "7949764-0-46362"
+msgid "Talk to Egnatius"
+msgstr "エグナティウスと話す"
+
+#: 7949764-0-46360
+msgctxt "7949764-0-46360"
+msgid "Rescue Chief Bazrag and Eveli"
+msgstr "バズラグ族長とエヴェリを救出する"
+
+#: 7949764-0-46359
+msgctxt "7949764-0-46359"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46352
+msgctxt "7949764-0-46352"
+msgid "Find the Path in the Throne Room"
+msgstr "玉座の間で道を探す"
+
+#: 7949764-0-46350
+#, fuzzy
+msgctxt "7949764-0-46350"
+msgid "Replay the Past"
+msgstr "過去を再生する"
+
+#: 7949764-0-46349
+msgctxt "7949764-0-46349"
+msgid "Talk to the Shade of Torug"
+msgstr "トラグの影と話す"
+
+#: 7949764-0-46348
+#, fuzzy
+msgctxt "7949764-0-46348"
+msgid "Enter Coldwind's Tomb"
+msgstr "コールドウィンドの墓地に入る"
+
+#: 7949764-0-46347
+msgctxt "7949764-0-46347"
+msgid "Talk to Shield-Wife Razbela"
+msgstr "盾夫人ラズベラと話す"
+
+#: 7949764-0-46346
+#, fuzzy
+msgctxt "7949764-0-46346"
+msgid "Go to the Dining Hall"
+msgstr "食堂に行く"
+
+#: 7949764-0-46344
+#, fuzzy
+msgctxt "7949764-0-46344"
+msgid "Talk to Owayine"
+msgstr "オウェインと話す"
+
+#: 7949764-0-46342
+msgctxt "7949764-0-46342"
+msgid "Find Skordo"
+msgstr "スコルドを探す"
+
+#: 7949764-0-46340
+msgctxt "7949764-0-46340"
+msgid "Talk to Skordo"
+msgstr "スコルドと話す"
+
+#: 7949764-0-46334
+#, fuzzy
+msgctxt "7949764-0-46334"
+msgid "Search Wrecks for Survivors"
+msgstr "難破船で生存者を探す"
+
+#: 7949764-0-46316
+msgctxt "7949764-0-46316"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46312
+#, fuzzy
+msgctxt "7949764-0-46312"
+msgid "Bring Burial Urns to <<1>>"
+msgstr "<<1>>に埋葬壷を渡す"
+
+#: 7949764-0-46311
+#, fuzzy
+msgctxt "7949764-0-46311"
+msgid "Exit Area"
+msgstr "エリアを脱出する"
+
+#: 7949764-0-46310
+#, fuzzy
+msgctxt "7949764-0-46310"
+msgid "Fourth Balcony Room"
+msgstr "4つ目のバルコニー部屋"
+
+#: 7949764-0-46309
+#, fuzzy
+msgctxt "7949764-0-46309"
+msgid "Meet Allies in the Greedy Gut"
+msgstr "〈グリーディ・ガット〉で仲間と会う"
+
+#: 7949764-0-46306
+#, fuzzy
+msgctxt "7949764-0-46306"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46305
+#, fuzzy
+msgctxt "7949764-0-46305"
+msgid "Go to the Dining Hall"
+msgstr "食堂に行く"
+
+#: 7949764-0-46304
+#, fuzzy
+msgctxt "7949764-0-46304"
+msgid "Go to the Chapel"
+msgstr "礼拝堂に行く"
+
+#: 7949764-0-46303
+msgctxt "7949764-0-46303"
+msgid "Wait for The Rat to Contact You"
+msgstr "ラットからの接触を待つ"
+
+#: 7949764-0-46302
+#, fuzzy
+msgctxt "7949764-0-46302"
+msgid "Player Logged Out"
+msgstr "プレイヤーがログアウトした"
+
+#: 7949764-0-46301
+#, fuzzy
+msgctxt "7949764-0-46301"
+msgid "Player Died"
+msgstr "死亡した"
+
+#: 7949764-0-46298
+msgctxt "7949764-0-46298"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46297
+#, fuzzy
+msgctxt "7949764-0-46297"
+msgid "Talk to The Rat"
+msgstr "ラットと話す"
+
+#: 7949764-0-46296
+#, fuzzy
+msgctxt "7949764-0-46296"
+msgid "Find The Rat's Hideout"
+msgstr "ラットの隠れ家を見つける"
+
+#: 7949764-0-46295
+msgctxt "7949764-0-46295"
+msgid "Defeat All Daedra in the Arena"
+msgstr "アリーナにいるデイドラを全員始末する"
+
+#: 7949764-0-46294
+#, fuzzy
+msgctxt "7949764-0-46294"
+msgid "Meet Allies in the Greedy Gut"
+msgstr "〈グリーディ・ガット〉で仲間と会う"
+
+#: 7949764-0-46293
+#, fuzzy
+msgctxt "7949764-0-46293"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46290
+#, fuzzy
+msgctxt "7949764-0-46290"
+msgid "Talk to Thorkh"
+msgstr "ソルクと話す"
+
+#: 7949764-0-46289
+#, fuzzy
+msgctxt "7949764-0-46289"
+msgid "Free Thorkh"
+msgstr "ソルクを解放する"
+
+#: 7949764-0-46283
+#, fuzzy
+msgctxt "7949764-0-46283"
+msgid "Locate the Kidnapped Travelers"
+msgstr "捕らえられた旅人たちの居場所を突き止める"
+
+#: 7949764-0-46282
+msgctxt "7949764-0-46282"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46279
+#, fuzzy
+msgctxt "7949764-0-46279"
+msgid "Return to the Harborage"
+msgstr "避難所へ戻る"
+
+#: 7949764-0-46278
+#, fuzzy
+msgctxt "7949764-0-46278"
+msgid "Return to the Harborage"
+msgstr "避難所へ戻る"
+
+#: 7949764-0-46277
+#, fuzzy
+msgctxt "7949764-0-46277"
+msgid "Return to the Harborage"
+msgstr "避難所へ戻る"
+
+#: 7949764-0-46275
+#, fuzzy
+msgctxt "7949764-0-46275"
+msgid "Take Care of Glothunh"
+msgstr "グロスンを片付ける"
+
+#: 7949764-0-46274
+#, fuzzy
+msgctxt "7949764-0-46274"
+msgid "Meet the Drake in the Crematorium"
+msgstr "火葬場でドレイクに会う"
+
+#: 7949764-0-46273
+msgctxt "7949764-0-46273"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46272
+msgctxt "7949764-0-46272"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46271
+#, fuzzy
+msgctxt "7949764-0-46271"
+msgid "Follow <<1>> and <<2>>"
+msgstr "<<1>>と<<2>>の後をつける"
+
+#: 7949764-0-46267
+#, fuzzy
+msgctxt "7949764-0-46267"
+msgid "Place <<1>>"
+msgstr "<<1>>を置く"
+
+#: 7949764-0-46266
+msgctxt "7949764-0-46266"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46264
+msgctxt "7949764-0-46264"
+msgid "Find <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-46263
+msgctxt "7949764-0-46263"
+msgid "Talk to the Prophet"
+msgstr "預言者と話す"
+
+#: 7949764-0-46262
+msgctxt "7949764-0-46262"
+msgid "Rendezvous with Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと待ち合わせる"
+
+#: 7949764-0-46261
+msgctxt "7949764-0-46261"
+msgid "Rendezvous with Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと待ち合わせる"
+
+#: 7949764-0-46259
+msgctxt "7949764-0-46259"
+msgid "Brand a Skeleton to Hear its Confession"
+msgstr "スケルトンに焼き印を押して自白させる"
+
+#: 7949764-0-46257
+msgctxt "7949764-0-46257"
+msgid "Take the Totem to the Orsinium Mages Guild"
+msgstr "トーテムをオルシニウムの魔術師ギルドに持っていく"
+
+#: 7949764-0-46256
+#, fuzzy
+msgctxt "7949764-0-46256"
+msgid "Found the Messenger's Body"
+msgstr "使者の死体を見つけた"
+
+#: 7949764-0-46255
+#, fuzzy
+msgctxt "7949764-0-46255"
+msgid "Note to Marq"
+msgstr "マルク宛てのメモ"
+
+#: 7949764-0-46253
+#, fuzzy
+msgctxt "7949764-0-46253"
+msgid "Seek Help in Orsinium's Outlaw Den"
+msgstr "オルシニウムのならず者の巣窟にて助力を探す"
+
+#: 7949764-0-46252
+#, fuzzy
+msgctxt "7949764-0-46252"
+msgid "Seek Help to Decipher the Message"
+msgstr "伝言を解読するための助力を探す"
+
+#: 7949764-0-46251
+msgctxt "7949764-0-46251"
+msgid "Read the Letter in Your Inventory"
+msgstr "アイテム欄の手紙を読む"
+
+#: 7949764-0-46250
+msgctxt "7949764-0-46250"
+msgid "Find Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリを見つける"
+
+#: 7949764-0-46249
+msgctxt "7949764-0-46249"
+msgid "Find the Vosh Rakh Council"
+msgstr "ヴォシュ・ラク議会を見つける"
+
+#: 7949764-0-46245
+msgctxt "7949764-0-46245"
+msgid "Kill the Vosh Rakh"
+msgstr "ヴォシュ・ラクを殺す"
+
+#: 7949764-0-46244
+#, fuzzy
+msgctxt "7949764-0-46244"
+msgid "Sacrifice Talviah to Learn Valuable Information"
+msgstr "タルヴィアを犠牲にして、貴重な情報を得る"
+
+#: 7949764-0-46243
+#, fuzzy
+msgctxt "7949764-0-46243"
+msgid "Break the Seal"
+msgstr "封印を解く"
+
+#: 7949764-0-46241
+#, fuzzy
+msgctxt "7949764-0-46241"
+msgid "Hide Before the Duelists Arrive"
+msgstr "決闘者達が到着する前に隠れる"
+
+#: 7949764-0-46240
+#, fuzzy
+msgctxt "7949764-0-46240"
+msgid "Sell Mug to <<1>>"
+msgstr "<<1>>にマグを売る"
+
+#: 7949764-0-46239
+msgctxt "7949764-0-46239"
+msgid "Flip the Upper North Switch"
+msgstr "北上部のスイッチを回す"
+
+#: 7949764-0-46238
+#, fuzzy
+msgctxt "7949764-0-46238"
+msgid "Flip the Upper East Switch"
+msgstr "東上部のスイッチを回す"
+
+#: 7949764-0-46237
+#, fuzzy
+msgctxt "7949764-0-46237"
+msgid "Flip the North Switch"
+msgstr "北のスイッチを回す"
+
+#: 7949764-0-46234
+#, fuzzy
+msgctxt "7949764-0-46234"
+msgid "Flip the South Switch"
+msgstr "南のスイッチを回す"
+
+#: 7949764-0-46227
+msgctxt "7949764-0-46227"
+msgid "Did not Taste"
+msgstr "味見をしなかった"
+
+#: 7949764-0-46226
+#, fuzzy
+msgctxt "7949764-0-46226"
+msgid "Tasted"
+msgstr "味見をした"
+
+#: 7949764-0-46225
+#, fuzzy
+msgctxt "7949764-0-46225"
+msgid "Get <<1>> from <<2>>"
+msgstr "<<1>>を<<2>>から手に入れる"
+
+#: 7949764-0-46224
+#, fuzzy
+msgctxt "7949764-0-46224"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46223
+#, fuzzy
+msgctxt "7949764-0-46223"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46222
+#, fuzzy
+msgctxt "7949764-0-46222"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46218
+#, fuzzy
+msgctxt "7949764-0-46218"
+msgid "Follow the <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-46217
+#, fuzzy
+msgctxt "7949764-0-46217"
+msgid "Use the <<1>>"
+msgstr "<<1>>を使う"
+
+#: 7949764-0-46216
+#, fuzzy
+msgctxt "7949764-0-46216"
+msgid "Use the <<1>>"
+msgstr "<<1>>を使う"
+
+#: 7949764-0-46215
+#, fuzzy
+msgctxt "7949764-0-46215"
+msgid "Follow the <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-46214
+#, fuzzy
+msgctxt "7949764-0-46214"
+msgid "Talk to Rescued Mage"
+msgstr "救出した魔術師と話す"
+
+#: 7949764-0-46211
+#, fuzzy
+msgctxt "7949764-0-46211"
+msgid "Follow the <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-46210
+#, fuzzy
+msgctxt "7949764-0-46210"
+msgid "Use the <<1>>"
+msgstr "<<1>>を使う"
+
+#: 7949764-0-46209
+#, fuzzy
+msgctxt "7949764-0-46209"
+msgid "Follow the <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-46207
+#, fuzzy
+msgctxt "7949764-0-46207"
+msgid "Did Not Taste"
+msgstr "味見をしなかった"
+
+#: 7949764-0-46206
+#, fuzzy
+msgctxt "7949764-0-46206"
+msgid "Tasted"
+msgstr "味見をした"
+
+#: 7949764-0-46202
+#, fuzzy
+msgctxt "7949764-0-46202"
+msgid "Complete the Trials"
+msgstr "試練を完了する"
+
+#: 7949764-0-46200
+#, fuzzy
+msgctxt "7949764-0-46200"
+msgid "Discover the Purpose of the Meeting"
+msgstr "会合の目的を明らかにする"
+
+#: 7949764-0-46194
+msgctxt "7949764-0-46194"
+msgid "Logged Out"
+msgstr "ログアウトした"
+
+#: 7949764-0-46193
+#, fuzzy
+msgctxt "7949764-0-46193"
+msgid "Player Died"
+msgstr "死亡した"
+
+#: 7949764-0-46192
+#, fuzzy
+msgctxt "7949764-0-46192"
+msgid "Third Balcony Room"
+msgstr "3つ目のバルコニー部屋"
+
+#: 7949764-0-46191
+#, fuzzy
+msgctxt "7949764-0-46191"
+msgid "Meet the Drake in the Undertaker's Office"
+msgstr "墓荒らしの部屋でドレイクに会う"
+
+#: 7949764-0-46190
+#, fuzzy
+msgctxt "7949764-0-46190"
+msgid "Balcony Bridge"
+msgstr "バルコニーの橋"
+
+#: 7949764-0-46189
+#, fuzzy
+msgctxt "7949764-0-46189"
+msgid "Balcony Upper Room"
+msgstr "バルコニー上階の部屋"
+
+#: 7949764-0-46188
+#, fuzzy
+msgctxt "7949764-0-46188"
+msgid "Enter the Chambers of Loyalty"
+msgstr "忠誠の部屋の中に入る"
+
+#: 7949764-0-46186
+#, fuzzy
+msgctxt "7949764-0-46186"
+msgid "Did Not Taste"
+msgstr "味見をしなかった"
+
+#: 7949764-0-46185
+#, fuzzy
+msgctxt "7949764-0-46185"
+msgid "Taste"
+msgstr "味見をする"
+
+#: 7949764-0-46181
+#, fuzzy
+msgctxt "7949764-0-46181"
+msgid "Enter Paragon's Remembrance"
+msgstr "パラゴンの記憶に入る"
+
+#: 7949764-0-46176
+msgctxt "7949764-0-46176"
+msgid "Talk to Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと話す"
+
+#: 7949764-0-46172
+#, fuzzy
+msgctxt "7949764-0-46172"
+msgid "Rescue Shaldagan and Morushna"
+msgstr "シャルダガンとモルシャナを救出する"
+
+#: 7949764-0-46171
+#, fuzzy
+msgctxt "7949764-0-46171"
+msgid "Fill Bucket"
+msgstr "手桶をいっぱいにする"
+
+#: 7949764-0-46169
+#, fuzzy
+msgctxt "7949764-0-46169"
+msgid "Meet the Scouts at Paragon's Remembrance"
+msgstr "パラゴンの記憶にて斥候たちに会う"
+
+#: 7949764-0-46168
+msgctxt "7949764-0-46168"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46167
+msgctxt "7949764-0-46167"
+msgid "Talk to Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと話す"
+
+#: 7949764-0-46166
+msgctxt "7949764-0-46166"
+msgid "Talk to High Priestess Solgra"
+msgstr "ソルグラ大司祭と話す"
+
+#: 7949764-0-46163
+msgctxt "7949764-0-46163"
+msgid "Q5464 Flee Event 4"
+msgstr "Q5464 Flee Event 4"
+
+#: 7949764-0-46157
+#, fuzzy
+msgctxt "7949764-0-46157"
+msgid "Decipher the Letter to Find Eveli"
+msgstr "手紙を解読し、エヴェリを見つける"
+
+#: 7949764-0-46156
+#, fuzzy
+msgctxt "7949764-0-46156"
+msgid "Enter the Secret Room"
+msgstr "秘密の部屋に入る"
+
+#: 7949764-0-46148
+#, fuzzy
+msgctxt "7949764-0-46148"
+msgid "Talk to Shaldagan"
+msgstr "シャルダガンと話す"
+
+#: 7949764-0-46146
+#, fuzzy
+msgctxt "7949764-0-46146"
+msgid "Talk to King Kurog"
+msgstr "クログ王と話す"
+
+#: 7949764-0-46143
+#, fuzzy
+msgctxt "7949764-0-46143"
+msgid "Find the Stolen Goods"
+msgstr "盗まれた品々を探す"
+
+#: 7949764-0-46141
+#, fuzzy
+msgctxt "7949764-0-46141"
+msgid "First Balcony Room"
+msgstr "1つ目のバルコニー部屋"
+
+#: 7949764-0-46140
+#, fuzzy
+msgctxt "7949764-0-46140"
+msgid "Destroy the Secret Dig Site"
+msgstr "秘密の採掘場を破壊する"
+
+#: 7949764-0-46139
+#, fuzzy
+msgctxt "7949764-0-46139"
+msgid "Collect Concentrated Kindlepitch"
+msgstr "濃縮キンドルピッチを手に入れる"
+
+#: 7949764-0-46138
+#, fuzzy
+msgctxt "7949764-0-46138"
+msgid "Talk to the Drake of Blades"
+msgstr "剣のドレイクと話す"
+
+#: 7949764-0-46134
+#, fuzzy
+msgctxt "7949764-0-46134"
+msgid "Training Room Area"
+msgstr "訓練室エリア"
+
+#: 7949764-0-46133
+msgctxt "7949764-0-46133"
+msgid "Rendezvous with Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと待ち合わせる"
+
+#: 7949764-0-46132
+#, fuzzy
+msgctxt "7949764-0-46132"
+msgid "Find a Way to Descend Into the Well"
+msgstr "井戸の中に下りる方法を探す"
+
+#: 7949764-0-46131
+msgctxt "7949764-0-46131"
+msgid "Rendezvous with Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと待ち合わせる"
+
+#: 7949764-0-46130
+#, fuzzy
+msgctxt "7949764-0-46130"
+msgid "Did Not Taste"
+msgstr "味見をしなかった"
+
+#: 7949764-0-46129
+#, fuzzy
+msgctxt "7949764-0-46129"
+msgid "Tasted"
+msgstr "味見をした"
+
+#: 7949764-0-46128
+#, fuzzy
+msgctxt "7949764-0-46128"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46127
+#, fuzzy
+msgctxt "7949764-0-46127"
+msgid "Gather <<1>>"
+msgstr "<<1>>を集める"
+
+#: 7949764-0-46126
+#, fuzzy
+msgctxt "7949764-0-46126"
+msgid "Collect a Daedric Brand"
+msgstr "デイドラの印を手に入れる"
+
+#: 7949764-0-46124
+#, fuzzy
+msgctxt "7949764-0-46124"
+msgid "Collect the Chapel Key"
+msgstr "礼拝堂の鍵を手に入れる"
+
+#: 7949764-0-46123
+msgctxt "7949764-0-46123"
+msgid "Search for Clues"
+msgstr "手掛かりを探す"
+
+#: 7949764-0-46120
+msgctxt "7949764-0-46120"
+msgid "Search for Clues"
+msgstr "手掛かりを探す"
+
+#: 7949764-0-46119
+msgctxt "7949764-0-46119"
+msgid "Search for Clues"
+msgstr "手掛かりを探す"
+
+#: 7949764-0-46118
+#, fuzzy
+msgctxt "7949764-0-46118"
+msgid "Talk to Shaldagan at the Back Exit"
+msgstr "裏口にいるシャルダガンと話す"
+
+#: 7949764-0-46117
+#, fuzzy
+msgctxt "7949764-0-46117"
+msgid "Find Paragon's Remembrance's Back Exit"
+msgstr "パラゴンの記憶の裏口を探す"
+
+#: 7949764-0-46115
+msgctxt "7949764-0-46115"
+msgid "Search for Clues"
+msgstr "手掛かりを探す"
+
+#: 7949764-0-46114
+msgctxt "7949764-0-46114"
+msgid "Eavesdrop on Conversation"
+msgstr "会話を盗み聞きする"
+
+#: 7949764-0-46113
+#, fuzzy
+msgctxt "7949764-0-46113"
+msgid "Talk to the Angry Cultist"
+msgstr "怒った信者と話す"
+
+#: 7949764-0-46112
+#, fuzzy
+msgctxt "7949764-0-46112"
+msgid "Locate the Hidden Prison"
+msgstr "秘密の牢獄を探す"
+
+#: 7949764-0-46111
+#, fuzzy
+msgctxt "7949764-0-46111"
+msgid "Use the <<1>> on the <<2>>"
+msgstr "<<1>>を<<2>>に使う"
+
+#: 7949764-0-46109
+msgctxt "7949764-0-46109"
+msgid "Search the Giant Camp"
+msgstr "巨人の野営地を調べる"
+
+#: 7949764-0-46108
+#, fuzzy
+msgctxt "7949764-0-46108"
+msgid "Search <<1>>'s Tent"
+msgstr "<<1>>のテントを調べる"
+
+#: 7949764-0-46106
+#, fuzzy
+msgctxt "7949764-0-46106"
+msgid "Retrieve the Runaway Sphere"
+msgstr "逃げだしたスフィアを手に入れる"
+
+#: 7949764-0-46105
+msgctxt "7949764-0-46105"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46104
+msgctxt "7949764-0-46104"
+msgid "Confront <<1>>"
+msgstr "<<1>>と対決する"
+
+#: 7949764-0-46103
+msgctxt "7949764-0-46103"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46102
+#, fuzzy
+msgctxt "7949764-0-46102"
+msgid "Warn <<1>> of <<2>>'s Betrayal"
+msgstr "<<1>>に<<2>>の裏切りについて警告する"
+
+#: 7949764-0-46101
+#, fuzzy
+msgctxt "7949764-0-46101"
+msgid "Explore Honor's Rest"
+msgstr "名誉の休息地を探索する"
+
+#: 7949764-0-46100
+msgctxt "7949764-0-46100"
+msgid "Q5464 Flee Event 2"
+msgstr "Q5464 Flee Event 2"
+
+#: 7949764-0-46099
+msgctxt "7949764-0-46099"
+msgid "Q5464 Flee Event 3"
+msgstr "Q5464 Flee Event 3"
+
+#: 7949764-0-46097
+#, fuzzy
+msgctxt "7949764-0-46097"
+msgid "Challenge <<1>>"
+msgstr "<<1>>を挑発する"
+
+#: 7949764-0-46096
+msgctxt "7949764-0-46096"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-46095
+#, fuzzy
+msgctxt "7949764-0-46095"
+msgid "Intimidate <<1>>"
+msgstr "<<1>>に脅しをかける"
+
+#: 7949764-0-46094
+msgctxt "7949764-0-46094"
+msgid "Persuade <<1>>"
+msgstr "<<1>>を説得する"
+
+#: 7949764-0-46093
+msgctxt "7949764-0-46093"
+msgid "Confront <<1>>"
+msgstr "<<1>>と対決する"
+
+#: 7949764-0-46092
+#, fuzzy
+msgctxt "7949764-0-46092"
+msgid "Bribe <<1>>"
+msgstr "<<1>>を買収する"
+
+#: 7949764-0-46091
+#, fuzzy
+msgctxt "7949764-0-46091"
+msgid "Side with <<1>>"
+msgstr "<<1>>の側につく"
+
+#: 7949764-0-46090
+msgctxt "7949764-0-46090"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46085
+#, fuzzy
+msgctxt "7949764-0-46085"
+msgid "Enter Honor's Rest"
+msgstr "名誉の休息地に入る"
+
+#: 7949764-0-46084
+msgctxt "7949764-0-46084"
+msgid "Use the <<1>> on the <<2>>"
+msgstr "<<1>>を<<2>>に使う"
+
+#: 7949764-0-46083
+msgctxt "7949764-0-46083"
+msgid "Enter the Pool (Redguard)"
+msgstr "池(レッドガード)に入る"
+
+#: 7949764-0-46082
+msgctxt "7949764-0-46082"
+msgid "Enter the Pool (Orc)"
+msgstr "池(オーク)に入る"
+
+#: 7949764-0-46080
+#, fuzzy
+msgctxt "7949764-0-46080"
+msgid "Go to Warehouse"
+msgstr "倉庫に向かう"
+
+#: 7949764-0-46079
+msgctxt "7949764-0-46079"
+msgid "Talk to Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと話す"
+
+#: 7949764-0-46078
+msgctxt "7949764-0-46078"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46077
+msgctxt "7949764-0-46077"
+msgid "Drink from the Second Memorial Pool"
+msgstr "2つ目の記念の池から飲む"
+
+#: 7949764-0-46076
+msgctxt "7949764-0-46076"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46074
+msgctxt "7949764-0-46074"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46073
+msgctxt "7949764-0-46073"
+msgid "Drink from the Second Memorial Pool"
+msgstr "2つ目の記念の池から飲む"
+
+#: 7949764-0-46072
+msgctxt "7949764-0-46072"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46065
+#, fuzzy
+msgctxt "7949764-0-46065"
+msgid "Use Switch"
+msgstr "スイッチを使う"
+
+#: 7949764-0-46064
+#, fuzzy
+msgctxt "7949764-0-46064"
+msgid "Use Switch"
+msgstr "スイッチを使う"
+
+#: 7949764-0-46063
+#, fuzzy
+msgctxt "7949764-0-46063"
+msgid "Use Switch"
+msgstr "スイッチを使う"
+
+#: 7949764-0-46062
+#, fuzzy
+msgctxt "7949764-0-46062"
+msgid "Use Switch"
+msgstr "スイッチを使う"
+
+#: 7949764-0-46060
+#, fuzzy
+msgctxt "7949764-0-46060"
+msgid "Avoid Killing Vosh Rakh to Remain Undetected"
+msgstr "見つからないよう、ヴォシュ・ラクの殺害を避ける"
+
+#: 7949764-0-46058
+#, fuzzy
+msgctxt "7949764-0-46058"
+msgid "Avoid Killing Vosh Rakh to Remain Undetected"
+msgstr "見つからないよう、ヴォシュ・ラクの殺害を避ける"
+
+#: 7949764-0-46053
+#, fuzzy
+msgctxt "7949764-0-46053"
+msgid "Enter Vale of the Surreal"
+msgstr "「超現実の谷間」に入る"
+
+#: 7949764-0-46052
+#, fuzzy
+msgctxt "7949764-0-46052"
+msgid "Survive Seht's Flywheel"
+msgstr "「セトの弾み車」で生き残る"
+
+#: 7949764-0-46051
+#, fuzzy
+msgctxt "7949764-0-46051"
+msgid "Survive Vale of the Surreal"
+msgstr "「超現実の谷間」で生き残る"
+
+#: 7949764-0-46050
+#, fuzzy
+msgctxt "7949764-0-46050"
+msgid "Enter Seht's Flywheel"
+msgstr "「セトの弾み車」に入る"
+
+#: 7949764-0-46049
+#, fuzzy
+msgctxt "7949764-0-46049"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46048
+msgctxt "7949764-0-46048"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46047
+msgctxt "7949764-0-46047"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46046
+#, fuzzy
+msgctxt "7949764-0-46046"
+msgid "Follow the <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-46043
+#, fuzzy
+msgctxt "7949764-0-46043"
+msgid "Follow the <<1>>"
+msgstr "<<1>>の後を追う"
+
+#: 7949764-0-46039
+msgctxt "7949764-0-46039"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46037
+msgctxt "7949764-0-46037"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-46036
+#, fuzzy
+msgctxt "7949764-0-46036"
+msgid "Follow the Dwarven Sphere"
+msgstr "ドワーフ・スフィアを追う"
+
+#: 7949764-0-46035
+#, fuzzy
+msgctxt "7949764-0-46035"
+msgid "Use <<1>> Near Wreckage"
+msgstr "残骸のそばで<<1>>を使う"
+
+#: 7949764-0-46034
+msgctxt "7949764-0-46034"
+msgid "Talk to Kireth Vanos"
+msgstr "キレス・ヴァノスと話す"
+
+#: 7949764-0-46033
+#, fuzzy
+msgctxt "7949764-0-46033"
+msgid "Get Through Poison Room"
+msgstr "毒の部屋を通る"
+
+#: 7949764-0-46022
+#, fuzzy
+msgctxt "7949764-0-46022"
+msgid "Extinguish Fire"
+msgstr "火を消す"
+
+#: 7949764-0-46020
+#, fuzzy
+msgctxt "7949764-0-46020"
+msgid "Enter Poison Room"
+msgstr "毒の部屋に入る"
+
+#: 7949764-0-46019
+#, fuzzy
+msgctxt "7949764-0-46019"
+msgid "Talk to Chief Bazrag"
+msgstr "バズラグ族長と話す"
+
+#: 7949764-0-46017
+#, fuzzy
+msgctxt "7949764-0-46017"
+msgid "Go Into Poison Room"
+msgstr "毒の部屋の中に入る"
+
+#: 7949764-0-46004
+#, fuzzy
+msgctxt "7949764-0-46004"
+msgid "Find Other Captives"
+msgstr "他の捕虜たちを探す"
+
+#: 7949764-0-45999
+msgctxt "7949764-0-45999"
+msgid "Survive the Igneous Cistern"
+msgstr "「火の貯水池」で生き残る"
+
+#: 7949764-0-45998
+#, fuzzy
+msgctxt "7949764-0-45998"
+msgid "Enter the Igneous Cistern"
+msgstr "「火の貯水池」に入る"
+
+#: 7949764-0-45997
+#, fuzzy
+msgctxt "7949764-0-45997"
+msgid "Enter the Underground Prison"
+msgstr "地下牢獄に入る"
+
+#: 7949764-0-45996
+msgctxt "7949764-0-45996"
+msgid "Rendezvous with Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと待ち合わせる"
+
+#: 7949764-0-45994
+msgctxt "7949764-0-45994"
+msgid "Meet Eveli at Fharun Stronghold"
+msgstr "ファルン要塞でエヴェリと会う"
+
+#: 7949764-0-45992
+#, fuzzy
+msgctxt "7949764-0-45992"
+msgid "Place <<1>>"
+msgstr "<<1>>を置く"
+
+#: 7949764-0-45988
+msgctxt "7949764-0-45988"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-45983
+msgctxt "7949764-0-45983"
+msgid "Talk to Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと話す"
+
+#: 7949764-0-45982
+msgctxt "7949764-0-45982"
+msgid "Talk to High Priestess Solgra"
+msgstr "ソルグラ大司祭と話す"
+
+#: 7949764-0-45979
+msgctxt "7949764-0-45979"
+msgid "Report to King Kurog"
+msgstr "クログ王に報告する"
+
+#: 7949764-0-45976
+msgctxt "7949764-0-45976"
+msgid "Recruit the Chief of Clan Morkul"
+msgstr "モークル・クランの族長を説得する"
+
+#: 7949764-0-45975
+msgctxt "7949764-0-45975"
+msgid "Recruit the Chief of Clan Tumnosh"
+msgstr "クラン・タムノッシュの族長を説得する"
+
+#: 7949764-0-45974
+#, fuzzy
+msgctxt "7949764-0-45974"
+msgid "Talk to Kurog"
+msgstr "クログと話す"
+
+#: 7949764-0-45960
+#, fuzzy
+msgctxt "7949764-0-45960"
+msgid "You Died"
+msgstr "死亡した"
+
+#: 7949764-0-45954
+msgctxt "7949764-0-45954"
+msgid "Find Zhasim"
+msgstr "ザシムを探す"
+
+#: 12912341-0-45952
+msgctxt "12912341-0-45952"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-45948
+msgctxt "7949764-0-45948"
+msgid "Talk to Zhasim"
+msgstr "ザシムと話す"
+
+#: 7949764-0-45947
+msgctxt "7949764-0-45947"
+msgid "Search the Coffer"
+msgstr "貴品箱を探す"
+
+#: 7949764-0-45946
+msgctxt "7949764-0-45946"
+msgid "Determine the Next Puzzle"
+msgstr "次のパズルを見つける"
+
+#: 7949764-0-45938
+#, fuzzy
+msgctxt "7949764-0-45938"
+msgid "Talk to Azrath"
+msgstr "アズラスと話す"
+
+#: 7949764-0-45931
+msgctxt "7949764-0-45931"
+msgid "Talk to High Priestess Solgra"
+msgstr "ソルグラ大司祭と話す"
+
+#: 7949764-0-45930
+#, fuzzy
+msgctxt "7949764-0-45930"
+msgid "Report to the Keep"
+msgstr "砦に向かう"
+
+#: 7949764-0-45929
+#, fuzzy
+msgctxt "7949764-0-45929"
+msgid "Show the Note to Chief Bazrag"
+msgstr "バズラグ族長にメモを見せる"
+
+#: 7949764-0-45925
+#, fuzzy
+msgctxt "7949764-0-45925"
+msgid "Deposit Blood"
+msgstr "血を入れる"
+
+#: 7949764-0-45924
+#, fuzzy
+msgctxt "7949764-0-45924"
+msgid "Deposit Blood"
+msgstr "血を入れる"
+
+#: 7949764-0-45923
+#, fuzzy
+msgctxt "7949764-0-45923"
+msgid "Deposit Blood"
+msgstr "血を入れる"
+
+#: 7949764-0-45922
+#, fuzzy
+msgctxt "7949764-0-45922"
+msgid "Open the Way to the Sanctuary"
+msgstr "聖域への道を開ける"
+
+#: 7949764-0-45921
+#, fuzzy
+msgctxt "7949764-0-45921"
+msgid "Deposit Blood"
+msgstr "血を入れる"
+
+#: 7949764-0-45920
+msgctxt "7949764-0-45920"
+msgid "Talk to Zhasim"
+msgstr "ザシムと話す"
+
+#: 7949764-0-45919
+msgctxt "7949764-0-45919"
+msgid "Search the Coffer"
+msgstr "貴品箱を探す"
+
+#: 7949764-0-45912
+msgctxt "7949764-0-45912"
+msgid "Read Poem 1"
+msgstr "詩1を読む"
+
+#: 7949764-0-45897
+msgctxt "7949764-0-45897"
+msgid "Search the Coffer"
+msgstr "貴品箱を探す"
+
+#: 7949764-0-45895
+msgctxt "7949764-0-45895"
+msgid "Talk to Zhasim"
+msgstr "ザシムと話す"
+
+#: 7949764-0-45894
+#, fuzzy
+msgctxt "7949764-0-45894"
+msgid "Rescue the Orc Peasants"
+msgstr "オークの農民を救出する"
+
+#: 7949764-0-45889
+#, fuzzy
+msgctxt "7949764-0-45889"
+msgid "Set the Third Switch"
+msgstr "3つ目のスイッチをセットする"
+
+#: 7949764-0-45886
+#, fuzzy
+msgctxt "7949764-0-45886"
+msgid "Set the Second Switch"
+msgstr "2つ目のスイッチをセットする"
+
+#: 7949764-0-45885
+#, fuzzy
+msgctxt "7949764-0-45885"
+msgid "Set the First Switch"
+msgstr "1つ目のスイッチをセットする"
+
+#: 7949764-0-45884
+msgctxt "7949764-0-45884"
+msgid "Look for Clues to Solve the Puzzle"
+msgstr "パズルを解くための手掛かりを探す"
+
+#: 7949764-0-45883
+msgctxt "7949764-0-45883"
+msgid "Talk to Azrath"
+msgstr "アズラスと話す"
+
+#: 7949764-0-45880
+msgctxt "7949764-0-45880"
+msgid "Search for Malacath's Hidden Sanctuary"
+msgstr "マラキャスの秘密の聖域を探す"
+
+#: 7949764-0-45879
+msgctxt "7949764-0-45879"
+msgid "Retrieve the Sacred Words"
+msgstr "聖言を手に入れる"
+
+#: 7949764-0-45877
+#, fuzzy
+msgctxt "7949764-0-45877"
+msgid "Find Malacath's Shrine in the Keep"
+msgstr "砦にあるマラキャスの祠を探す"
+
+#: 7949764-0-45866
+msgctxt "7949764-0-45866"
+msgid "Give the Totem to Orgotha"
+msgstr "トーテムをオルゴサに渡す"
+
+#: 7949764-0-45865
+msgctxt "7949764-0-45865"
+msgid "Rescue Zubesha"
+msgstr "ズベーシャを救出する"
+
+#: 7949764-0-45863
+msgctxt "7949764-0-45863"
+msgid "Left Throne Room"
+msgstr "玉座の間を離れた"
+
+#: 7949764-0-45862
+msgctxt "7949764-0-45862"
+msgid "Left Throne Room"
+msgstr "玉座の間を離れた"
+
+#: 7949764-0-45860
+msgctxt "7949764-0-45860"
+msgid "Talk to King Kurog"
+msgstr "クログ王と話す"
+
+#: 7949764-0-45859
+#, fuzzy
+msgctxt "7949764-0-45859"
+msgid "Listen to King Kurog's Exchange"
+msgstr "クログ王のやり取りを聞く"
+
+#: 7949764-0-45858
+msgctxt "7949764-0-45858"
+msgid "Talk to Forge-Mother Alga"
+msgstr "鍛冶の母アルガと話す"
+
+#: 7949764-0-45853
+#, fuzzy
+msgctxt "7949764-0-45853"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 7949764-0-45852
+#, fuzzy
+msgctxt "7949764-0-45852"
+msgid "Meet <<1>>"
+msgstr "<<1>>と会う"
+
+#: 7949764-0-45851
+msgctxt "7949764-0-45851"
+msgid "Return to Morkul Stronghold"
+msgstr "モークル要塞に戻る"
+
+#: 7949764-0-45850
+#, fuzzy
+msgctxt "7949764-0-45850"
+msgid "Convince <<1>> To Hide Morkuldin From Her Clan"
+msgstr "モークルディンについてクランから隠すよう、<<1>>を説得する"
+
+#: 7949764-0-45849
+#, fuzzy
+msgctxt "7949764-0-45849"
+msgid "Encourage <<1>> To Embrace the Morkul Clan's Past"
+msgstr "モークル・クランの過去を受け入れるよう、<<1>>に勧める"
+
+#: 7949764-0-45841
+#, fuzzy
+msgctxt "7949764-0-45841"
+msgid "Survive the Drome of Toxic Shock"
+msgstr "「毒と衝撃のドローム」で生き残る"
+
+#: 7949764-0-45840
+#, fuzzy
+msgctxt "7949764-0-45840"
+msgid "Enter the Drome of Toxic Shock"
+msgstr "「毒と衝撃のドローム」に入る"
+
+#: 7949764-0-45835
+msgctxt "7949764-0-45835"
+msgid "Search the Riekr Lair"
+msgstr "リークルの住み処を調べる"
+
+#: 7949764-0-45834
+msgctxt "7949764-0-45834"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-45833
+msgctxt "7949764-0-45833"
+msgid "Help Zhasim Explore the Ruins"
+msgstr "ザシムが遺跡を探索するのを手助けする"
+
+#: 7949764-0-45832
+msgctxt "7949764-0-45832"
+msgid "Solve the Puzzle"
+msgstr "パズルを解く"
+
+#: 7949764-0-45831
+msgctxt "7949764-0-45831"
+msgid "Show the Medallion to Zhasim"
+msgstr "ザシムにメダルを見せる"
+
+#: 7949764-0-45827
+#, fuzzy
+msgctxt "7949764-0-45827"
+msgid "Lakora of the Hunt Led the Way into Morkuldin"
+msgstr "狩人のラコラがモークルディンへと導いた"
+
+#: 7949764-0-45825
+msgctxt "7949764-0-45825"
+msgid "Retrieve <<1>>"
+msgstr "<<1>>を手に入れる"
+
+#: 7949764-0-45824
+#, fuzzy
+msgctxt "7949764-0-45824"
+msgid "Return to <<1>> and Leave <<2>> Alive"
+msgstr "<<1>>の元に戻って<<2>>を生かす"
+
+#: 7949764-0-45817
+#, fuzzy
+msgctxt "7949764-0-45817"
+msgid "Survive Seht's Balcony"
+msgstr "「セトのバルコニー」で生き残る"
+
+#: 7949764-0-45816
+#, fuzzy
+msgctxt "7949764-0-45816"
+msgid "Enter Seht's Balcony"
+msgstr "「セトのバルコニー」に入る"
+
+#: 7949764-0-45812
+msgctxt "7949764-0-45812"
+msgid "Find Zhasim"
+msgstr "ザシムを探す"
+
+#: 7949764-0-45811
+msgctxt "7949764-0-45811"
+msgid "Find Avreg"
+msgstr "アヴレグを探す"
+
+#: 7949764-0-45808
+msgctxt "7949764-0-45808"
+msgid "Find Murukh"
+msgstr "ムルクを探す"
+
+#: 7949764-0-45807
+msgctxt "7949764-0-45807"
+msgid "Find High Priestess Solgra"
+msgstr "ソルグラ大司祭を探す"
+
+#: 7949764-0-45804
+#, fuzzy
+msgctxt "7949764-0-45804"
+msgid "Left Chose Scene"
+msgstr "選択のシーンを離れた"
+
+#: 7949764-0-45803
+#, fuzzy
+msgctxt "7949764-0-45803"
+msgid "Watch Chose Scene"
+msgstr "選択のシーンを見る"
+
+#: 7949764-0-45802
+#, fuzzy
+msgctxt "7949764-0-45802"
+msgid "Left Translate Scene"
+msgstr "翻訳のシーンを離れた"
+
+#: 7949764-0-45801
+#, fuzzy
+msgctxt "7949764-0-45801"
+msgid "Left Entrance Scene"
+msgstr "入口のシーンを離れた"
+
+#: 7949764-0-45799
+#, fuzzy
+msgctxt "7949764-0-45799"
+msgid "Left Return Scene"
+msgstr "帰還のシーンを離れた"
+
+#: 7949764-0-45798
+#, fuzzy
+msgctxt "7949764-0-45798"
+msgid "Watch Return Scene"
+msgstr "帰還のシーンを見る"
+
+#: 7949764-0-45797
+msgctxt "7949764-0-45797"
+msgid "Talk to Lady Laurent"
+msgstr "レディ・ローレントと話す"
+
+#: 7949764-0-45796
+msgctxt "7949764-0-45796"
+msgid "Talk to Lady Laurent"
+msgstr "レディ・ローレントと話す"
+
+#: 7949764-0-45795
+#, fuzzy
+msgctxt "7949764-0-45795"
+msgid "Watch Rubbing Scene"
+msgstr "拓本のシーンを見る"
+
+#: 7949764-0-45794
+#, fuzzy
+msgctxt "7949764-0-45794"
+msgid "Watch Entrance Scene"
+msgstr "入口のシーンを見る"
+
+#: 7949764-0-45793
+#, fuzzy
+msgctxt "7949764-0-45793"
+msgid "Watch Translate Theatre"
+msgstr "翻訳シアターを見る"
+
+#: 7949764-0-45792
+msgctxt "7949764-0-45792"
+msgid "Survive the Rink of Frozen Blood"
+msgstr "「凍血のリンク」で生き残る"
+
+#: 7949764-0-45791
+msgctxt "7949764-0-45791"
+msgid "Enter the Rink of Frozen Blood"
+msgstr "「凍血のリンク」に入る"
+
+#: 7949764-0-45790
+msgctxt "7949764-0-45790"
+msgid "Survive the Spiral Shadows"
+msgstr "「螺旋の影」で生き残る"
+
+#: 7949764-0-45789
+msgctxt "7949764-0-45789"
+msgid "Enter the Spiral Shadows"
+msgstr "「螺旋の影」に入る"
+
+#: 7949764-0-45787
+#, fuzzy
+msgctxt "7949764-0-45787"
+msgid "Close the <<1>>"
+msgstr "<<1>>を閉じる"
+
+#: 7949764-0-45786
+#, fuzzy
+msgctxt "7949764-0-45786"
+msgid "Close the <<1>>"
+msgstr "<<1>>を閉じる"
+
+#: 7949764-0-45785
+#, fuzzy
+msgctxt "7949764-0-45785"
+msgid "Close the <<1>>"
+msgstr "<<1>>を閉じる"
+
+#: 7949764-0-45784
+msgctxt "7949764-0-45784"
+msgid "Talk to Forge-Mother Alga"
+msgstr "鍛冶の母アルガと話す"
+
+#: 7949764-0-45783
+msgctxt "7949764-0-45783"
+msgid "Talk to High Priestess Solgra"
+msgstr "ソルグラ大司祭と話す"
+
+#: 7949764-0-45782
+msgctxt "7949764-0-45782"
+msgid "Rescue High Priestess Solgra"
+msgstr "ソルグラ大司祭を救出する"
+
+#: 7949764-0-45779
+msgctxt "7949764-0-45779"
+msgid "Save Priest Uugus"
+msgstr "ウーガス司祭を救う"
+
+#: 7949764-0-45778
+#, fuzzy
+msgctxt "7949764-0-45778"
+msgid "Shot Bad Guy"
+msgstr "悪者を撃つ"
+
+#: 7949764-0-45777
+msgctxt "7949764-0-45777"
+msgid "Talk to Eveli"
+msgstr "エヴェリと話す"
+
+#: 7949764-0-45775
+#, fuzzy
+msgctxt "7949764-0-45775"
+msgid "Close <<1>> to Kill <<2>>"
+msgstr "<<1>>を閉じて<<2>>を倒す"
+
+#: 7949764-0-45773
+msgctxt "7949764-0-45773"
+msgid "Defeat <<1>>"
+msgstr "<<1>>を倒す"
+
+#: 7949764-0-45772
+#, fuzzy
+msgctxt "7949764-0-45772"
+msgid "Explore the Tonal Auditorium"
+msgstr "音の講堂を探索する"
+
+#: 7949764-0-45770
+#, fuzzy
+msgctxt "7949764-0-45770"
+msgid "Search for <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-45764
+msgctxt "7949764-0-45764"
+msgid "Find a Way Into the Temple"
+msgstr "聖堂に入る方法を探す"
+
+#: 7949764-0-45763
+#, fuzzy
+msgctxt "7949764-0-45763"
+msgid "Talk to Captain Zugnor"
+msgstr "ズグノー隊長と話す"
+
+#: 7949764-0-45762
+#, fuzzy
+msgctxt "7949764-0-45762"
+msgid "Listen to the Shield-Wives' Report"
+msgstr "盾夫人の報告を聞く"
+
+#: 7949764-0-45761
+msgctxt "7949764-0-45761"
+msgid "Go to the Temple"
+msgstr "聖堂に行く"
+
+#: 7949764-0-45759
+msgctxt "7949764-0-45759"
+msgid "Talk to Forge-Mother Alga"
+msgstr "鍛冶の母アルガと話す"
+
+#: 7949764-0-45740
+msgctxt "7949764-0-45740"
+msgid "Talk to King Kurog"
+msgstr "クログ王と話す"
+
+#: 7949764-0-45738
+msgctxt "7949764-0-45738"
+msgid "Recover Alinon's Alchemy Bag"
+msgstr "アリノンの錬金鞄を手に入れる"
+
+#: 7949764-0-45737
+msgctxt "7949764-0-45737"
+msgid "Talk to Eveli Sharp-Arrow"
+msgstr "鋭い矢のエヴェリと話す"
+
+#: 7949764-0-45736
+msgctxt "7949764-0-45736"
+msgid "Talk to Alinon the Alchemist"
+msgstr "錬金術師アリノンと話す"
+
+#: 7949764-0-45735
+msgctxt "7949764-0-45735"
+msgid "Find Alinon the Alchemist"
+msgstr "錬金術師アリノンを探す"
+
+#: 7949764-0-45734
+msgctxt "7949764-0-45734"
+msgid "Talk to Alinon the Alchemist"
+msgstr "錬金術師アリノンと話す"
+
+#: 7949764-0-45733
+msgctxt "7949764-0-45733"
+msgid "Help Investigate the Briar Heart"
+msgstr "ブライア・ハートの調査を手伝う"
+
+#: 7949764-0-45732
+msgctxt "7949764-0-45732"
+msgid "Find Skordo the Knife"
+msgstr "ナイフのスコルドを探す"
+
+#: 7949764-0-45731
+msgctxt "7949764-0-45731"
+msgid "Talk to Alinon the Alchemist"
+msgstr "錬金術師アリノンと話す"
+
+#: 7949764-0-45730
+#, fuzzy
+msgctxt "7949764-0-45730"
+msgid "Left Hall of Treasures"
+msgstr "財宝の間を出た"
+
+#: 7949764-0-45726
+#, fuzzy
+msgctxt "7949764-0-45726"
+msgid "Logged Out"
+msgstr "ログアウトした"
+
+#: 7949764-0-45724
+msgctxt "7949764-0-45724"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-45723
+#, fuzzy
+msgctxt "7949764-0-45723"
+msgid "Search for <<1>>"
+msgstr "<<1>>を探す"
+
+#: 7949764-0-45722
+#, fuzzy
+msgctxt "7949764-0-45722"
+msgid "Leave Theater Area"
+msgstr "劇場から出る"
+
+#: 7949764-0-45721
+#, fuzzy
+msgctxt "7949764-0-45721"
+msgid "Watch Theater"
+msgstr "劇場を見る"
+
+#: 7949764-0-45719
+#, fuzzy
+msgctxt "7949764-0-45719"
+msgid "West Tower Event"
+msgstr "西塔のイベント"
+
+#: 7949764-0-45718
+#, fuzzy
+msgctxt "7949764-0-45718"
+msgid "East Tower Event"
+msgstr "東塔のイベント"
+
+#: 7949764-0-45716
+msgctxt "7949764-0-45716"
+msgid "Unlock <<1>>"
+msgstr "<<1>>を解除する"
+
+#: 7949764-0-45712
+#, fuzzy
+msgctxt "7949764-0-45712"
+msgid "Talk to Forge-Wife Kharza"
+msgstr "鍛冶夫人カーザと話す"
+
+#: 7949764-0-45703
+msgctxt "7949764-0-45703"
+msgid "Talk to Lady Sovelle"
+msgstr "レディ・ソヴェレと話す"
+
+#: 7949764-0-45700
+msgctxt "7949764-0-45700"
+msgid "Return to Skordo and Holbert"
+msgstr "スコルドとホルベルトの元に戻る"
+
+#: 7949764-0-45699
+msgctxt "7949764-0-45699"
+msgid "Talk to Lord Ethian"
+msgstr "エシアン卿と話す"
+
+#: 7949764-0-45697
+msgctxt "7949764-0-45697"
+msgid "Follow Lord Ethian to the Signal Tower"
+msgstr "エシアン卿を追って信号塔に行く"
+
+#: 7949764-0-45696
+msgctxt "7949764-0-45696"
+msgid "Talk to Lord Ethian"
+msgstr "エシアン卿と話す"
+
+#: 7949764-0-45692
+msgctxt "7949764-0-45692"
+msgid "Talk to Captain Henrisa"
+msgstr "ヘンリサ船長と話す"
+
+#: 7949764-0-45689
+#, fuzzy
+msgctxt "7949764-0-45689"
+msgid "Defeat the Bosmer"
+msgstr "ボズマーを倒す"
+
+#: 7949764-0-45688
+#, fuzzy
+msgctxt "7949764-0-45688"
+msgid "Place Trail Markers for the Expedition"
+msgstr "探検隊用に道の目印を置く"
+
+#: 12912341-0-45685
+msgctxt "12912341-0-45685"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-45684
+#, fuzzy
+msgctxt "7949764-0-45684"
+msgid "Look for More Relics"
+msgstr "さらに遺物を探す"
+
+#: 7949764-0-45680
+msgctxt "7949764-0-45680"
+msgid "Meet Berrice in Orsinium"
+msgstr "オルシニウムでベリスと会う"
+
+#: 7949764-0-45677
+msgctxt "7949764-0-45677"
+msgid "Grant Relic to Lady Laurent"
+msgstr "遺物をレディ・ローレントに渡す"
+
+#: 7949764-0-45676
+msgctxt "7949764-0-45676"
+msgid "Grant Relic to Kharsthun"
+msgstr "遺物をカースサンに渡す"
+
+#: 7949764-0-45675
+msgctxt "7949764-0-45675"
+msgid "Return to Torug's Shrine"
+msgstr "トラグの祠へ戻る"
+
+#: 7949764-0-45674
+msgctxt "7949764-0-45674"
+msgid "Retrieve the Armlet of Torug"
+msgstr "トラグの腕輪を手に入れる"
+
+#: 7949764-0-45673
+msgctxt "7949764-0-45673"
+msgid "Talk to Lady Laurent"
+msgstr "レディ・ローレントと話す"
+
+#: 7949764-0-45671
+msgctxt "7949764-0-45671"
+msgid "Climb to Torug's Shrine"
+msgstr "トラグの祠まで登る"
+
+#: 7949764-0-45670
+msgctxt "7949764-0-45670"
+msgid "Talk to Lady Laurent"
+msgstr "レディ・ローレントと話す"
+
+#: 7949764-0-45668
+msgctxt "7949764-0-45668"
+msgid "Sell the Amulet to Meram Farr"
+msgstr "メラム・ファーにアミュレットを売る"
+
+#: 7949764-0-45666
+msgctxt "7949764-0-45666"
+msgid "Persuade King Jorunn to Provide Assistance"
+msgstr "ジョルン王を説得して支援してもらう"
+
+#: 7949764-0-45659
+#, fuzzy
+msgctxt "7949764-0-45659"
+msgid "Panel C is Correct"
+msgstr "パネルCは正しい"
+
+#: 7949764-0-45658
+#, fuzzy
+msgctxt "7949764-0-45658"
+msgid "Panel B is Correct"
+msgstr "パネルBは正しい"
+
+#: 7949764-0-45657
+#, fuzzy
+msgctxt "7949764-0-45657"
+msgid "Panel A is Correct"
+msgstr "パネルAは正しい"
+
+#: 7949764-0-45656
+msgctxt "7949764-0-45656"
+msgid "Talk to Rigurt"
+msgstr "リガートと話す"
+
+#: 7949764-0-45655
+msgctxt "7949764-0-45655"
+msgid "Find Orc Perfume"
+msgstr "オークの香水を探す"
+
+#: 7949764-0-45654
+msgctxt "7949764-0-45654"
+msgid "Find Orc Perfume"
+msgstr "オークの香水を探す"
+
+#: 7949764-0-45653
+#, fuzzy
+msgctxt "7949764-0-45653"
+msgid "Fix Exodus Panel"
+msgstr "脱出パネルを直す"
+
+#: 7949764-0-45647
+#, fuzzy
+msgctxt "7949764-0-45647"
+msgid "Meet <<1>>"
+msgstr "<<1>>と会う"
+
+#: 7949764-0-45645
+msgctxt "7949764-0-45645"
+msgid "Return to Morkul Stronghold"
+msgstr "モークル要塞に戻る"
+
+#: 7949764-0-45643
+msgctxt "7949764-0-45643"
+msgid "Activate the Blast Furnace"
+msgstr "溶鉱炉を発動させる"
+
+#: 7949764-0-45641
+msgctxt "7949764-0-45641"
+msgid "Explore Morkuldin"
+msgstr "モークルディンを探索する"
+
+#: 7949764-0-45637
+msgctxt "7949764-0-45637"
+msgid "Travel to <<1>>"
+msgstr "<<1>>へ行く"
+
+#: 7949764-0-45636
+#, fuzzy
+msgctxt "7949764-0-45636"
+msgid "Battle the Bear"
+msgstr "熊と戦う"
+
+#: 7949764-0-45635
+msgctxt "7949764-0-45635"
+msgid "Find Orc Love Poem"
+msgstr "オークの愛の詩を探す"
+
+#: 7949764-0-45634
+msgctxt "7949764-0-45634"
+msgid "Find Orc Ale"
+msgstr "オークのエールを探す"
+
+#: 7949764-0-45633
+msgctxt "7949764-0-45633"
+msgid "Find Orc Cheese"
+msgstr "オークのチーズを探す"
+
+#: 7949764-0-45632
+msgctxt "7949764-0-45632"
+msgid "Ask Narsis About the Bas-Relief"
+msgstr "ナルシスに浅浮き彫りについて聞く"
+
+#: 7949764-0-45630
+msgctxt "7949764-0-45630"
+msgid "Ask Narsis About the Bas-Relief"
+msgstr "ナルシスに浅浮き彫りについて聞く"
+
+#: 7949764-0-45628
+msgctxt "7949764-0-45628"
+msgid "Ask Narsis About the Bas-Relief"
+msgstr "ナルシスに浅浮き彫りについて聞く"
+
+#: 7949764-0-45627
+msgctxt "7949764-0-45627"
+msgid "Ask Narsis About the Bas-Relief"
+msgstr "ナルシスに浅浮き彫りについて聞く"
+
+#: 7949764-0-45623
+#, fuzzy
+msgctxt "7949764-0-45623"
+msgid "Wear Dunmer Cultural Garb"
+msgstr "ダンマーの民族衣装を着る"
+
+#: 7949764-0-45622
+#, fuzzy
+msgctxt "7949764-0-45622"
+msgid "Recover Dunmer Cultural Garb"
+msgstr "ダンマーの民族衣装を手に入れる"
+
+#: 7949764-0-45615
+msgctxt "7949764-0-45615"
+msgid "Talk to Mazgroth"
+msgstr "マズグロスと話す"
+
+#: 7949764-0-45614
+msgctxt "7949764-0-45614"
+msgid "Return to Mazgroth's Village"
+msgstr "マズグロスの村に戻る"
+
+#: 7949764-0-45613
+msgctxt "7949764-0-45613"
+msgid "Push him into Sarcophagus"
+msgstr "石棺の中に押し込む"
+
+#: 7949764-0-45611
+msgctxt "7949764-0-45611"
+msgid "Talk to Narsis Dren"
+msgstr "ナルシス・ドレンと話す"
+
+#: 7949764-0-45610
+#, fuzzy
+msgctxt "7949764-0-45610"
+msgid "Unlock the Main Burial Chamber"
+msgstr "大埋葬室を解錠する"
+
+#: 7949764-0-45608
+msgctxt "7949764-0-45608"
+msgid "Talk to Narsis Dren"
+msgstr "ナルシス・ドレンと話す"
+
+#: 7949764-0-45606
+msgctxt "7949764-0-45606"
+msgid "Find Narsis Dren"
+msgstr "ナルシス・ドレンを探す"
+
+#: 7949764-0-45605
+msgctxt "7949764-0-45605"
+msgid "Obtain and Use Disguise from the Merchant's Chest"
+msgstr "商人の宝箱から服を入手し、変装する"
+
+#: 7949764-0-45576
+msgctxt "7949764-0-45576"
+msgid "Find Recruit Gorak Again"
+msgstr "もう一度徴募兵ゴラックを見つける"
+
+#: 7949764-0-45574
+msgctxt "7949764-0-45574"
+msgid "Seal the Oblivion Tears"
+msgstr "オブリビオンの裂け目を封じる"
+
+#: 7949764-0-45571
+msgctxt "7949764-0-45571"
+msgid "Leave Do'Krin Monastery"
+msgstr "ド・クリン修道院から出る"
+
+#: 7949764-0-45570
+#, fuzzy
+msgctxt "7949764-0-45570"
+msgid "Find Parquier's Shoes"
+msgstr "パルクイエの靴を見つける"
+
+#: 7949764-0-45569
+msgctxt "7949764-0-45569"
+msgid "Find the <<1>>"
+msgstr "<<1>>を見つける"
+
+#: 7949764-0-45564
+#, fuzzy
+msgctxt "7949764-0-45564"
+msgid "Collect a Candle"
+msgstr "ロウソクを手に入れる"
+
+#: 12912341-0-45560
+msgctxt "12912341-0-45560"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-45140
+msgctxt "12912341-0-45140"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-44662
+msgctxt "12912341-0-44662"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-43315
+msgctxt "12912341-0-43315"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-43235
+msgctxt "12912341-0-43235"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-42623
+msgctxt "12912341-0-42623"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-42191
+msgctxt "12912341-0-42191"
+msgid "Talk"
+msgstr "話す"
+
+#: 219689294-0-415
+msgctxt "219689294-0-415"
+msgid "Open"
+msgstr "開く"
+
+#: 7949764-0-40964
+msgctxt "7949764-0-40964"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 7949764-0-40963
+msgctxt "7949764-0-40963"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 12912341-0-40414
+msgctxt "12912341-0-40414"
+msgid "Talk"
+msgstr "話す"
+
+#: 7949764-0-39806
+#, fuzzy
+msgctxt "7949764-0-39806"
+msgid "Wait for Tervur to Check Damage"
+msgstr "テルビューが被害を調べるまで待つ"
+
+#: 12912341-0-34814
+msgctxt "12912341-0-34814"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-34813
+msgctxt "12912341-0-34813"
+msgid "Rescue"
+msgstr "救出"
+
+#: 12912341-0-34812
+msgctxt "12912341-0-34812"
+msgid "Rescue"
+msgstr "救出"
+
+#: 7949764-0-32386
+#, fuzzy
+msgctxt "7949764-0-32386"
+msgid "Recover Deed from Tervur"
+msgstr "テルビューから権利書を手に入れる"
+
+#: 12912341-0-22370
+msgctxt "12912341-0-22370"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-19885
+msgctxt "74865733-0-19885"
+msgid "0"
+msgstr "0"
+
+#: 7949764-0-19843
+msgctxt "7949764-0-19843"
+msgid "Speak with Nervyna Selos"
+msgstr "ネルヴィナ・セロスと話す"
+
+#: 74865733-0-19835
+msgctxt "74865733-0-19835"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19730
+msgctxt "108533454-0-19730"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19729
+msgctxt "108533454-0-19729"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19728
+msgctxt "108533454-0-19728"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19727
+msgctxt "108533454-0-19727"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19726
+msgctxt "108533454-0-19726"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19725
+msgctxt "108533454-0-19725"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19724
+msgctxt "108533454-0-19724"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19720
+msgctxt "108533454-0-19720"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19719
+msgctxt "108533454-0-19719"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19718
+msgctxt "108533454-0-19718"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19717
+msgctxt "108533454-0-19717"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19716
+msgctxt "108533454-0-19716"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19715
+msgctxt "108533454-0-19715"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19714
+msgctxt "108533454-0-19714"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19712
+msgctxt "108533454-0-19712"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19711
+msgctxt "108533454-0-19711"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 74865733-0-19704
+msgctxt "74865733-0-19704"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19700
+msgctxt "74865733-0-19700"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-19674
+msgctxt "74865733-0-19674"
+msgid "Open"
+msgstr "開く"
+
+#: 108533454-0-19644
+msgctxt "108533454-0-19644"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19643
+msgctxt "108533454-0-19643"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19642
+msgctxt "108533454-0-19642"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19641
+msgctxt "108533454-0-19641"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19640
+msgctxt "108533454-0-19640"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19639
+msgctxt "108533454-0-19639"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19624
+msgctxt "74865733-0-19624"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-19623
+msgctxt "74865733-0-19623"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-19617
+msgctxt "74865733-0-19617"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19603
+msgctxt "108533454-0-19603"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19602
+msgctxt "108533454-0-19602"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-19601
+msgctxt "108533454-0-19601"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19594
+msgctxt "74865733-0-19594"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19574
+msgctxt "74865733-0-19574"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19568
+msgctxt "74865733-0-19568"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19567
+msgctxt "74865733-0-19567"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19566
+msgctxt "74865733-0-19566"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19565
+msgctxt "74865733-0-19565"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19564
+msgctxt "74865733-0-19564"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19563
+msgctxt "74865733-0-19563"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19562
+msgctxt "74865733-0-19562"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19559
+msgctxt "74865733-0-19559"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19558
+msgctxt "74865733-0-19558"
+msgid "Read"
+msgstr "読む"
+
+#: 108533454-0-19557
+msgctxt "108533454-0-19557"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19556
+msgctxt "108533454-0-19556"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19555
+msgctxt "108533454-0-19555"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 108533454-0-19554
+msgctxt "108533454-0-19554"
+msgid "Collecting Skyshard…"
+msgstr "スカイシャードを集めている…"
+
+#: 74865733-0-19552
+msgctxt "74865733-0-19552"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 74865733-0-19539
+msgctxt "74865733-0-19539"
+msgid "0"
+msgstr "0"
+
+#: 74865733-0-19533
+msgctxt "74865733-0-19533"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19526
+msgctxt "74865733-0-19526"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-19525
+msgctxt "74865733-0-19525"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-19524
+msgctxt "74865733-0-19524"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-19521
+msgctxt "74865733-0-19521"
+msgid "Animate"
+msgstr "命を吹き込む"
+
+#: 74865733-0-19517
+msgctxt "74865733-0-19517"
+msgid "Repair"
+msgstr "修理する"
+
+#: 74865733-0-19513
+msgctxt "74865733-0-19513"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-19512
+msgctxt "74865733-0-19512"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19507
+msgctxt "74865733-0-19507"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 108533454-0-19466
+msgctxt "108533454-0-19466"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19465
+msgctxt "74865733-0-19465"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19464
+msgctxt "74865733-0-19464"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19463
+msgctxt "74865733-0-19463"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19460
+msgctxt "74865733-0-19460"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19458
+msgctxt "108533454-0-19458"
+msgid "Despawning"
+msgstr "取り除く"
+
+#: 74865733-0-19456
+msgctxt "74865733-0-19456"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-19424
+msgctxt "74865733-0-19424"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 74865733-0-19407
+msgctxt "74865733-0-19407"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19402
+msgctxt "74865733-0-19402"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 6658117-0-19400
+msgctxt "6658117-0-19400"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 74865733-0-19397
+msgctxt "74865733-0-19397"
+msgid "Place"
+msgstr "置く"
+
+#: 74865733-0-19396
+msgctxt "74865733-0-19396"
+msgid "Place"
+msgstr "置く"
+
+#: 74865733-0-19395
+msgctxt "74865733-0-19395"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19393
+msgctxt "74865733-0-19393"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19385
+msgctxt "74865733-0-19385"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19384
+msgctxt "74865733-0-19384"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19383
+msgctxt "74865733-0-19383"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19382
+msgctxt "74865733-0-19382"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19381
+msgctxt "74865733-0-19381"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 74865733-0-19373
+msgctxt "74865733-0-19373"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-19371
+msgctxt "108533454-0-19371"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19366
+msgctxt "74865733-0-19366"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-19365
+msgctxt "74865733-0-19365"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19359
+msgctxt "74865733-0-19359"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-19358
+msgctxt "74865733-0-19358"
+msgid "Open"
+msgstr "開く"
+
+#: 74865733-0-19357
+msgctxt "74865733-0-19357"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19251
+msgctxt "108533454-0-19251"
+msgid "Searching…."
+msgstr "調査中…"
+
+#: 108533454-0-19250
+msgctxt "108533454-0-19250"
+msgid "Prepare Kindlepitch"
+msgstr "キンドルピッチを準備する"
+
+#: 108533454-0-19249
+msgctxt "108533454-0-19249"
+msgid "Prepare Kindlepitch"
+msgstr "キンドルピッチを準備する"
+
+#: 74865733-0-19248
+msgctxt "74865733-0-19248"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19241
+msgctxt "74865733-0-19241"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19224
+msgctxt "74865733-0-19224"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-19220
+msgctxt "74865733-0-19220"
+msgid "Drink"
+msgstr "飲み物"
+
+#: 74865733-0-19211
+msgctxt "74865733-0-19211"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-19210
+msgctxt "74865733-0-19210"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-19209
+msgctxt "74865733-0-19209"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-19206
+msgctxt "74865733-0-19206"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19205
+msgctxt "74865733-0-19205"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19204
+msgctxt "74865733-0-19204"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19197
+msgctxt "74865733-0-19197"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19196
+msgctxt "74865733-0-19196"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-19188
+msgctxt "74865733-0-19188"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19186
+msgctxt "74865733-0-19186"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19183
+msgctxt "108533454-0-19183"
+msgid "Branding"
+msgstr "焼き印を押している"
+
+#: 74865733-0-19182
+msgctxt "74865733-0-19182"
+msgid "Extinguish"
+msgstr "消す"
+
+#: 74865733-0-19179
+msgctxt "74865733-0-19179"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19178
+msgctxt "74865733-0-19178"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19175
+msgctxt "74865733-0-19175"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19173
+msgctxt "74865733-0-19173"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-19171
+msgctxt "108533454-0-19171"
+msgid "Searching…."
+msgstr "調査中…"
+
+#: 74865733-0-19170
+msgctxt "74865733-0-19170"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-19160
+msgctxt "74865733-0-19160"
+msgid "Enter"
+msgstr "入る"
+
+#: 74865733-0-19144
+msgctxt "74865733-0-19144"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 74865733-0-19138
+msgctxt "74865733-0-19138"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19129
+msgctxt "74865733-0-19129"
+msgid "Climb"
+msgstr "登る"
+
+#: 74865733-0-19128
+msgctxt "74865733-0-19128"
+msgid "Search"
+msgstr "調査"
+
+#: 6658117-0-19120
+msgctxt "6658117-0-19120"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 74865733-0-19115
+msgctxt "74865733-0-19115"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19109
+msgctxt "74865733-0-19109"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19107
+msgctxt "74865733-0-19107"
+msgid "Place"
+msgstr "置く"
+
+#: 74865733-0-19106
+msgctxt "74865733-0-19106"
+msgid "Place"
+msgstr "置く"
+
+#: 74865733-0-19096
+msgctxt "74865733-0-19096"
+msgid "Place"
+msgstr "置く"
+
+#: 74865733-0-19075
+msgctxt "74865733-0-19075"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19064
+msgctxt "74865733-0-19064"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19063
+msgctxt "74865733-0-19063"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-19045
+msgctxt "74865733-0-19045"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19041
+msgctxt "108533454-0-19041"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19040
+msgctxt "108533454-0-19040"
+msgid "Examine"
+msgstr "調べる"
+
+#: 108533454-0-19039
+msgctxt "108533454-0-19039"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-19038
+msgctxt "74865733-0-19038"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19037
+msgctxt "74865733-0-19037"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19036
+msgctxt "74865733-0-19036"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19035
+msgctxt "74865733-0-19035"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19034
+msgctxt "74865733-0-19034"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-19022
+msgctxt "74865733-0-19022"
+msgid "Close"
+msgstr "閉じる"
+
+#: 108533454-0-19008
+msgctxt "108533454-0-19008"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-18995
+msgctxt "74865733-0-18995"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-18984
+msgctxt "74865733-0-18984"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-18983
+msgctxt "74865733-0-18983"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-18979
+msgctxt "108533454-0-18979"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-18978
+msgctxt "74865733-0-18978"
+msgid "Search"
+msgstr "調査"
+
+#: 108533454-0-18976
+msgctxt "108533454-0-18976"
+msgid "Examine"
+msgstr "調べる"
+
+#: 74865733-0-18972
+msgctxt "74865733-0-18972"
+msgid "Search"
+msgstr "調査"
+
+#: 74865733-0-18958
+msgctxt "74865733-0-18958"
+msgid "Unlock"
+msgstr "開錠"
+
+#: 74865733-0-18946
+msgctxt "74865733-0-18946"
+msgid "Repair"
+msgstr "修理する"
+
+#: 74865733-0-18932
+msgctxt "74865733-0-18932"
+msgid "Take"
+msgstr "取る"
+
+#: 108533454-0-18917
+msgctxt "108533454-0-18917"
+msgid "Opening"
+msgstr "開けている…"
+
+#: 74865733-0-18000
+msgctxt "74865733-0-18000"
+msgid "Read"
+msgstr "読む"
+
+#: 108533454-0-17852
+msgctxt "108533454-0-17852"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 74865733-0-17841
+msgctxt "74865733-0-17841"
+msgid "Take"
+msgstr "取る"
+
+#: 74865733-0-17800
+msgctxt "74865733-0-17800"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-17799
+msgctxt "74865733-0-17799"
+msgid "Use"
+msgstr "使う"
+
+#: 74865733-0-17798
+msgctxt "74865733-0-17798"
+msgid "Use"
+msgstr "使う"
+
+#: 108533454-0-17731
+msgctxt "108533454-0-17731"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 108533454-0-17730
+msgctxt "108533454-0-17730"
+msgid "Searching …"
+msgstr "調査中…"
+
+#: 108533454-0-17729
+msgctxt "108533454-0-17729"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 108533454-0-17728
+msgctxt "108533454-0-17728"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 108533454-0-17727
+msgctxt "108533454-0-17727"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 108533454-0-17726
+msgctxt "108533454-0-17726"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 8158238-0-1762
+msgctxt "8158238-0-1762"
+msgid "Fishing …"
+msgstr "釣りをしている…"
+
+#: 70307621-0-1761
+msgctxt "70307621-0-1761"
+msgid "Open"
+msgstr "開く"
+
+#: 70307621-0-1758
+msgctxt "70307621-0-1758"
+msgid "Search"
+msgstr "調査"
+
+#: 70307621-0-1747
+msgctxt "70307621-0-1747"
+msgid "Open"
+msgstr "開く"
+
+#: 70307621-0-1741
+msgctxt "70307621-0-1741"
+msgid "Light"
+msgstr "発光"
+
+#: 70307621-0-1740
+msgctxt "70307621-0-1740"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1737
+msgctxt "70307621-0-1737"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1736
+msgctxt "70307621-0-1736"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1735
+msgctxt "70307621-0-1735"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1734
+msgctxt "70307621-0-1734"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1732
+msgctxt "70307621-0-1732"
+msgid "Destroy"
+msgstr "破壊する"
+
+#: 70307621-0-1731
+msgctxt "70307621-0-1731"
+msgid "Take"
+msgstr "取る"
+
+#: 70307621-0-1730
+msgctxt "70307621-0-1730"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 70307621-0-1729
+msgctxt "70307621-0-1729"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 70307621-0-1728
+msgctxt "70307621-0-1728"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 70307621-0-1727
+msgctxt "70307621-0-1727"
+msgid "Burn"
+msgstr "火をつける"
+
+#: 70307621-0-1723
+msgctxt "70307621-0-1723"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1722
+msgctxt "70307621-0-1722"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1721
+msgctxt "70307621-0-1721"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1720
+msgctxt "70307621-0-1720"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1718
+msgctxt "70307621-0-1718"
+msgid "Use"
+msgstr "使う"
+
+#: 70307621-0-1714
+msgctxt "70307621-0-1714"
+msgid "Kill"
+msgstr "始末する"
+
+#: 70307621-0-1713
+msgctxt "70307621-0-1713"
+msgid "Use"
+msgstr "使う"
+
+#: 70307621-0-1712
+msgctxt "70307621-0-1712"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1711
+msgctxt "70307621-0-1711"
+msgid "Activate"
+msgstr "発動する"
+
+#: 74865733-0-17109
+msgctxt "74865733-0-17109"
+msgid "Examine"
+msgstr "調べる"
+
+#: 70307621-0-1709
+msgctxt "70307621-0-1709"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1708
+msgctxt "70307621-0-1708"
+msgid "Activate"
+msgstr "発動する"
+
+#: 70307621-0-1707
+msgctxt "70307621-0-1707"
+msgid "Cast"
+msgstr "呪文を唱える"
+
+#: 70307621-0-1705
+msgctxt "70307621-0-1705"
+msgid "Activate"
+msgstr "発動する"
+
+#: 8158238-0-1699
+msgctxt "8158238-0-1699"
+msgid "Examining …"
+msgstr "調査中…"
+
+#: 70307621-0-1697
+msgctxt "70307621-0-1697"
+msgid "Take"
+msgstr "取る"
+
+#: 70307621-0-1696
+msgctxt "70307621-0-1696"
+msgid "Take"
+msgstr "取る"
+
+#: 70307621-0-1695
+msgctxt "70307621-0-1695"
+msgid "Take"
+msgstr "取る"
+
+#: 70307621-0-1688
+msgctxt "70307621-0-1688"
+msgid "Open"
+msgstr "開く"
+
+#: 70307621-0-1675
+msgctxt "70307621-0-1675"
+msgid "Open"
+msgstr "開く"
+
+#: 8158238-0-1647
+msgctxt "8158238-0-1647"
+msgid "Placing…"
+msgstr "設置中…"
+
+#: 12912341-0-14327
+msgctxt "12912341-0-14327"
+msgid "Talk"
+msgstr "話す"
+
+#: 12912341-0-14326
+msgctxt "12912341-0-14326"
+msgid "Talk"
+msgstr "話す"
+
+#: 74865733-0-13621
+msgctxt "74865733-0-13621"
+msgid "Examine"
+msgstr "調べる"

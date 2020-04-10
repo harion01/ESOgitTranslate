@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-85883
+msgctxt "132143172-0-85883"
+msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-85883
+msgctxt "198758357-0-85883"
+msgid "Accelerated Growth"
+msgstr ""
+
+#: 132143172-0-85882
+msgctxt "132143172-0-85882"
+msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-85882
+msgctxt "198758357-0-85882"
+msgid "Accelerated Growth"
+msgstr ""
+
+#: 132143172-0-85881
+msgctxt "132143172-0-85881"
+msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-85881
+msgctxt "198758357-0-85881"
+msgid "Maturation"
+msgstr ""
+
+#: 132143172-0-85880
+msgctxt "132143172-0-85880"
+msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-85880
+msgctxt "198758357-0-85880"
+msgid "Maturation"
+msgstr ""
+
+#: 132143172-0-85879
+msgctxt "132143172-0-85879"
+msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<2>> Stamina, whichever resource pool is lower. This effect can occur once every <<3>>."
+msgstr ""
+
+#: 198758357-0-85879
+msgctxt "198758357-0-85879"
+msgid "Nature's Gift"
+msgstr ""
+
+#: 132143172-0-85878
+msgctxt "132143172-0-85878"
+msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<1>> Stamina, whichever resource pool is lower. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-85878
+msgctxt "198758357-0-85878"
+msgid "Nature's Gift"
+msgstr ""
+
+#: 132143172-0-85877
+msgctxt "132143172-0-85877"
+msgid "Increases your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-85877
+msgctxt "198758357-0-85877"
+msgid "Emerald Moss"
+msgstr ""
+
+#: 132143172-0-85876
+msgctxt "132143172-0-85876"
+msgid "Increase your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-85876
+msgctxt "198758357-0-85876"
+msgid "Emerald Moss"
+msgstr ""
+
+#: 132143172-0-85863
+msgctxt "132143172-0-85863"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health.\n\nHeals for <<2>> more on allies that are within |cffffff8|r meters of you."
+msgstr ""
+
+#: 198758357-0-85863
+msgctxt "198758357-0-85863"
+msgid "Soothing Spores"
+msgstr ""
+
+#: 132143172-0-85862
+msgctxt "132143172-0-85862"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health. \n\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-85862
+msgctxt "198758357-0-85862"
+msgid "Enchanted Growth"
+msgstr ""
+
+#: 132143172-0-85859
+msgctxt "132143172-0-85859"
+msgid "Launch a vine to swing yourself to an ally, instantly healing them for <<1>> Health.  \n\nGain <<2>> Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-85859
+msgctxt "198758357-0-85859"
+msgid "Bursting Vines"
+msgstr ""
+
+#: 132143172-0-85858
+msgctxt "132143172-0-85858"
+msgid "Launch a vine to swing yourself to an ally, healing you and them for <<1>> Health over <<2>>. Gain <<3>> Ultimate when each of these effects complete if you are in combat.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-85858
+msgctxt "198758357-0-85858"
+msgid "Nature's Embrace"
+msgstr ""
+
+#: 132143172-0-85855
+msgctxt "132143172-0-85855"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>.\n\nYou gain Major Prophecy, increasing your Spell Critical rating by <<4>> for <<5>>"
+msgstr ""
+
+#: 198758357-0-85855
+msgctxt "198758357-0-85855"
+msgid "Lotus Blossom"
+msgstr ""
+
+#: 132143172-0-85854
+msgctxt "132143172-0-85854"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>.\n\nYou gain Major Savagery, increasing your Weapon Critical rating by <<4>> for <<5>>."
+msgstr ""
+
+#: 198758357-0-85854
+msgctxt "198758357-0-85854"
+msgid "Green Lotus"
+msgstr ""
+
+#: 132143172-0-85851
+msgctxt "132143172-0-85851"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nWhen the vines expire, they heal the target for an additional <<4>> Health."
+msgstr ""
+
+#: 198758357-0-85851
+msgctxt "198758357-0-85851"
+msgid "Living Trellis"
+msgstr ""
+
+#: 132143172-0-85850
+msgctxt "132143172-0-85850"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nThe vines apply Minor Lifesteal to enemies that damage the target for <<4>>, healing you and your allies for <<5>> Health every <<6>> when damaging that enemy."
+msgstr ""
+
+#: 198758357-0-85850
+msgctxt "198758357-0-85850"
+msgid "Leeching Vines"
+msgstr ""
+
+#: 132143172-0-85845
+msgctxt "132143172-0-85845"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nEnemies who enter the field are afflicted with Major Defile, reducing their healing received by <<3>>.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<4>> Health over <<5>>."
+msgstr ""
+
+#: 198758357-0-85845
+msgctxt "198758357-0-85845"
+msgid "Corrupting Pollen"
+msgstr ""
+
+#: 132143172-0-85840
+msgctxt "132143172-0-85840"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nWhile the field grows, you and allies are healed for <<3>> Health every <<4>>.  \n\nYou can activate this ability again to cause it to instantly bloom.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<5>> Health over <<6>>."
+msgstr ""
+
+#: 198758357-0-85840
+msgctxt "198758357-0-85840"
+msgid "Budding Seeds"
+msgstr ""
+
+#: 132143172-0-85807
+msgctxt "132143172-0-85807"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> every <<3>> for <<4>>.\n\nThe healing over time will continue to heal you or your allies for <<5>> after leaving the forest."
+msgstr ""
+
+#: 198758357-0-85807
+msgctxt "198758357-0-85807"
+msgid "Healing Thicket"
+msgstr ""
+
+#: 132143172-0-85804
+msgctxt "132143172-0-85804"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>.\n\nYou generate <<5>> Ultimate if the initial heal is used on a friendly target under |cffffff50|r% Health."
+msgstr ""
+
+#: 198758357-0-85804
+msgctxt "198758357-0-85804"
+msgid "Enchanted Forest"
+msgstr ""
+
+#: 132143172-0-85578
+msgctxt "132143172-0-85578"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<3>> Health over <<4>>."
+msgstr ""
+
+#: 198758357-0-85578
+msgctxt "198758357-0-85578"
+msgid "Healing Seed"
+msgstr ""
+
+#: 132143172-0-85564
+msgctxt "132143172-0-85564"
+msgid "Launch a vine to swing yourself to an ally, healing them for <<1>> Health over <<2>>. Gain <<3>> Ultimate when this effect completes if you are in combat.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-85564
+msgctxt "198758357-0-85564"
+msgid "Nature's Grasp"
+msgstr ""
+
+#: 132143172-0-85552
+msgctxt "132143172-0-85552"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>."
+msgstr ""
+
+#: 198758357-0-85552
+msgctxt "198758357-0-85552"
+msgid "Living Vines"
+msgstr ""
+
+#: 132143172-0-85539
+msgctxt "132143172-0-85539"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>."
+msgstr ""
+
+#: 198758357-0-85539
+msgctxt "198758357-0-85539"
+msgid "Lotus Flower"
+msgstr ""
+
+#: 132143172-0-85536
+msgctxt "132143172-0-85536"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health."
+msgstr ""
+
+#: 198758357-0-85536
+msgctxt "198758357-0-85536"
+msgid "Fungal Growth"
+msgstr ""
+
+#: 132143172-0-85532
+msgctxt "132143172-0-85532"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-85532
+msgctxt "198758357-0-85532"
+msgid "Secluded Grove"
+msgstr ""

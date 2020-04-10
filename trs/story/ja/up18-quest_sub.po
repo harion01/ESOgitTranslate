@@ -1,0 +1,3128 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 3952276-1-7572
+msgctxt "3952276-1-7572"
+msgid "Well, yes. But the Relicmaster didn't seem too upset by the whole ordeal. He probably already saw how we were going to get them back. Maybe you have something to with that?\n\nJust go ahead into the College ruins over there. You can't miss him!"
+msgstr "まあ、そうよ。でも遺物マスターは、この事件にそれほど取り乱しているようには見えなかった。多分もう、どうやって取り戻せばいいか分かっているのよ。あなたも関係しているの？\r\n\r\nあちらの大学の遺跡に行って。彼は見逃しようがないから！"
+
+#: 20958740-1-7572
+msgctxt "20958740-1-7572"
+msgid "All right, I'll speak to the Relic Master."
+msgstr "分かった、遺物マスターと話してみる"
+
+#: 3952276-1-7571
+#, fuzzy
+msgctxt "3952276-1-7571"
+msgid "Destroy the geysers. Find them and obliterate them as quickly as you can.\n\nYou'll need to fight through the creatures spawned by the geysers, so bring allies with you if you can. And make sure to destroy the pearls. That's the source of the magic."
+msgstr "ガイザーを破壊する。あれを探し出し、なるべく急いで始末するのよ\r\n\r\nガイザーから出てきた怪物たちとも戦わないとね。だから、できるなら仲間を連れていきなさい。それから真珠を破壊するのも忘れずに。あれが魔法の源だから"
+
+#: 20958740-1-7571
+#, fuzzy
+msgctxt "20958740-1-7571"
+msgid "I'll destroy the abyssal geysers."
+msgstr "アビサルガイザーを破壊しよう"
+
+#: 3952276-1-7570
+msgctxt "3952276-1-7570"
+msgid "Please don't tell anyone, but I think she stole a seeing stone called the Eye of Remembrance and took it to Traitor's Vault. \n\nI told her to put it back! The Relicmaster will be furious! I thought she'd seen reason, but when she missed breakfast …."
+msgstr "誰にも言わないでほしいんだが、彼女は追憶の瞳と呼ばれる石を盗んで、それを裏切り者の宝物庫へ持っていったと思う\r\n\r\n私は返すように言ったんだが彼女が朝食に来なかったとなると…"
+
+#: 20958740-1-7570
+msgctxt "20958740-1-7570"
+msgid "All right. I'll look for her at the Psijic Vault."
+msgstr "わかった。サイジックの宝物庫で彼女を探そう"
+
+#: 3952276-1-7569
+msgctxt "3952276-1-7569"
+msgid "He and a few of the others have staked out a camp up on the ridge. He is foolish to stay. This place is cursed."
+msgstr "彼と他の何人かは、あの尾根にテントを張った。ここに留まるなんて愚かだよ。ここは呪われてる"
+
+#: 20958740-1-7569
+msgctxt "20958740-1-7569"
+msgid "I'll speak with him."
+msgstr "彼と話そう"
+
+#: 3952276-1-7568
+msgctxt "3952276-1-7568"
+msgid "I'm sure the Ritemaster will provide details, though I can tell you it involves the augury spell he plans to cast upon the abyssal pearl that you and Valsirenn discovered.\n\nYou can find the Ritemaster in Ceporah Tower, in the main gallery."
+msgstr "お前とヴァルサイレンが発見したアビサルの真珠にかけようとしている、占いの呪文に関することだ。詳しいことはライトマスターに聞いてくれ\r\n\r\nセポラタワーのメインギャラリーにいる。セポラタワーだぞ"
+
+#: 20958740-1-7568
+msgctxt "20958740-1-7568"
+msgid "I'll go and speak to the Ritemaster."
+msgstr "ライトマスターの元へ向かって話そう"
+
+#: 3952276-1-7566
+#, fuzzy
+msgctxt "3952276-1-7566"
+msgid "I don't have time to curry favor with Proxy Queen Alwinarwe. I need you to talk to the Proxy Queen and secure her permission to enter the College of Sapiarchs. The Ritemaster has already requested an audience, so the Palace will be expecting you."
+msgstr "私には女王代理アルウィナルウェの機嫌を取っている時間がないの。女王代理と話して、サピアルチ大学へ入る許可を取りつけて。ライトマスターがすでに謁見を要請している。王宮はあなたを待っているはずよ"
+
+#: 20958740-1-7566
+#, fuzzy
+msgctxt "20958740-1-7566"
+msgid "I'll leave for Alinor at once."
+msgstr "すぐにアリノールを出よう"
+
+#: 3952276-1-7565
+#, fuzzy
+msgctxt "3952276-1-7565"
+msgid "I'd like you to make polite conversation with Proxy Queen Alwinarwe. Get her to give you permission to enter the College of Sapiarchs. The Ritemaster has already requested an audience, so the Palace should be expecting you."
+msgstr "あなたには女王代理と話してもらいたいの。サピアルチ大学へ立ち入る許可を取りつけて。ライトマスターがすでに謁見を要請しているわ。王宮はあなたを待っているはずよ"
+
+#: 20958740-1-7565
+#, fuzzy
+msgctxt "20958740-1-7565"
+msgid "I'll go to Alinor immediately."
+msgstr "すぐにアリノールへ向かおう"
+
+#: 3952276-1-7564
+#, fuzzy
+msgctxt "3952276-1-7564"
+msgid "I don't have time to make polite conversation with the Proxy Queen. I need you to talk to Alwinarwe and secure her permission to enter the College of Sapiarchs. The Ritemaster has already requested an audience, so the Palace should be expecting you."
+msgstr "私には女王代理と儀礼的な会話をしている時間なんてないの。アルウィナルウェに会って、サピアルチ大学へ入る許可をもらって。ライトマスターがすでに謁見を要請している。王宮はあなたを待っているはずよ"
+
+#: 20958740-1-7564
+#, fuzzy
+msgctxt "20958740-1-7564"
+msgid "I'll head to the Royal Palace at once."
+msgstr "すぐに王宮へ行こう"
+
+#: 3952276-1-7563
+#, fuzzy
+msgctxt "3952276-1-7563"
+msgid "Him and Valsirenn were going to try to use the scrying pool to track down the missing pearl. Please, return to Artaeum and go to Ceporah Tower. The Ritemaster was very insistent that I find you and send you there at the first opportunity."
+msgstr "ヴァルサイレンと一緒にいるわ。占い盤を使ってなくなった真珠を探すつもりだったの。お願い、アルテウムに戻って、セポラタワーへ行って。ライトマスターから、あなたに来てもらうように強く言われたのよ"
+
+#: 20958740-1-7563
+#, fuzzy
+msgctxt "20958740-1-7563"
+msgid "I'll return to Artauem and talk to the Ritemaster in Ceporah Tower."
+msgstr "アルテウムに戻って、セポラタワーでライトマスターと話そう"
+
+#: 3952276-1-7562
+#, fuzzy
+msgctxt "3952276-1-7562"
+msgid "The Goblins, ah, dragged her off. Along with all my notes too. I've been reciting every tale I know for inspiration on a valorous rescue, but I find them sorely lacking in the specifics.\n\nPlease help me. I'm lost without Naliara and my notes."
+msgstr "ゴブリンが彼女をさらっていったんだ。全てのメモも一緒に。勇敢なる救出劇を演じるために知っている物語を次々と思い返しているんだが、どうも具体性に欠けている\r\n\r\n助けてくれ。ナリアラとメモがないと、どうしたらいいかわからないんだ"
+
+#: 20958740-1-7562
+#, fuzzy
+msgctxt "20958740-1-7562"
+msgid "I'll rescue your scribe. What else can you tell me?"
+msgstr "書記を助けよう。他に話せることはあるか？"
+
+#: 3952276-1-7560
+#, fuzzy
+msgctxt "3952276-1-7560"
+msgid "I'm sure the Ritemaster will provide more details, but I suppose it involves the augury spell he plans to cast upon the abyssal pearl that you and Valsirenn discovered.\n\nYou can find the Ritemaster in Ceporah Tower on Artaeum."
+msgstr "詳しいことはライトマスターが話すだろうが、お前とヴァルサイレンが見つけたアビサルの真珠にかけようとしている、占いの呪文に関することだ\r\n\r\nライトマスターは、アルテウムのセポラタワーにいる"
+
+#: 20958740-1-7560
+msgctxt "20958740-1-7560"
+msgid "I'll go and speak to the Ritemaster."
+msgstr "ライトマスターの元へ向かって話そう"
+
+#: 3952276-1-7559
+#, fuzzy
+msgctxt "3952276-1-7559"
+msgid "No. He thinks the language is ancient and he feels we need to determine what the memory means before we attempt to breach the barrier.\n\nThe Ritemaster is waiting for you in the Dreaming Cave. Go and talk to him as soon as you can."
+msgstr "ええ。古代のものらしいわ。障壁の破壊を試みる前に、その記憶の意味を判断しなければならないと考えているようね\r\n\r\nライトマスターは夢見の洞窟で待っている。できるだけ早く彼と話をして"
+
+#: 20958740-1-7559
+msgctxt "20958740-1-7559"
+msgid "I'll go speak to the Ritemaster."
+msgstr "ライトマスターと話す"
+
+#: 3952276-1-7558
+#, fuzzy
+msgctxt "3952276-1-7558"
+msgid "We also need to convince the Clockwork God to share the news he brought with us. But without the Ritemaster, he may simply take his leave. Like the other members of the Dark Elf Tribunal, he can be very enigmatic.\n\nPerhaps if you talked to him …."
+msgstr "クロックワークの神に、情報を教えてくれるように頼まないとね。でもライトマスターがいないなら、立ち去ってしまうかもしれない。他のダークエルフのトリビュナルと同じで、彼は謎めいてるわ\r\n\r\nあなたが話してくれれば、もしかしたら…"
+
+#: 20958740-1-7558
+msgctxt "20958740-1-7558"
+msgid "I'll speak to Sotha Sil."
+msgstr "ソーサ・シルと話そう"
+
+#: 3952276-1-7555
+#, fuzzy
+msgctxt "3952276-1-7555"
+msgid "The Ritemaster is in his study in Ceporah Tower. Go there and see what you can do to help him remember what happened."
+msgstr "ライトマスターはセポラタワーの書斎にいる。記憶を取り戻すために手伝えることがないか確かめてきて"
+
+#: 20958740-1-7555
+msgctxt "20958740-1-7555"
+msgid "I'll go to Ceporah Tower and talk to the Ritemaster."
+msgstr "セポラタワーに向かってライトマスターと話そう"
+
+#: 3952276-1-7554
+msgctxt "3952276-1-7554"
+msgid "Yes, I'm sure of it. I couldn't find them anywhere.\n\nI did meet a High Elf named Esterdel. He wouldn't tell me much, but he was definitely searching around the grove. He may know more about the situation than I do."
+msgstr "ああ、間違いない。見当たらないからな\r\n\r\nエスターデルというハイエルフには会った。大したことは言わなかったが、間違いなく森の周辺を探していた。俺より、この状況について知っているかもしれない"
+
+#: 20958740-1-7554
+msgctxt "20958740-1-7554"
+msgid "I'll go to Archon's Grove and talk to Esterdel."
+msgstr "アルコンの森に向かって、エスターデルと話そう"
+
+#: 3952276-1-7551
+msgctxt "3952276-1-7551"
+msgid "Indeed. Until they find a suitable third investigator, the jurisreeves and revelators are left to sit on their hands. Nonsense.\n\nWhy not go lend them a hand? They'll likely just tell you to go jump into the sea, but it can't hurt to ask."
+msgstr "ああそうさ。第三の調査官として適当な人材を見つけるまで、ジュリスリーブと啓示官は膝を抱えて座ってる。馬鹿か\r\n\r\n立候補したらどうだ？ 相手にされんだろうが、聞くだけなら損はないぞ"
+
+#: 20958740-1-7551
+msgctxt "20958740-1-7551"
+msgid "All right. I'll head to Russafeld and speak to these investigators."
+msgstr "わかった。ラッサフェルドに向かって、調査官と話そう"
+
+#: 3952276-1-7546
+#, fuzzy
+msgctxt "3952276-1-7546"
+msgid "Not for long. A familiar place can serve as a temporal anchor. If she went to Divad's Chagrin, she almost certainly plans to use it as a springboard into an unfamiliar place … an unfamiliar time.\n\nTake the Augur and these seals and find this mine."
+msgstr "長居はしないだろう。見知った場所は時間の碇になる。ディヴァドの無念へ行ったなら、それは確実に見知らぬ場所へ移動する踏み台として使うためだ… 見知らぬ時間へのな\r\n\r\n予言者と封印を持っていけ。この鉱山を探してくれ"
+
+#: 20958740-1-7546
+#, fuzzy
+msgctxt "20958740-1-7546"
+msgid "Don't worry. I'll travel to Divad's Chagrin Mine and stop Josajeh before it's too late."
+msgstr "心配するな。ディヴァドの無念なる鉱山に向かって、手遅れになる前にジョサジェーを止める"
+
+#: 3952276-1-7545
+#, fuzzy
+msgctxt "3952276-1-7545"
+msgid "You will no doubt find more time breaches near these landmarks. Once the Augur attunes to them, it should light a path to the hidden artifacts.\n\nYou must move quickly, initiate. Only the Psijic Order is prepared to deal with objects this dangerous."
+msgstr "間違いなく、さらなる時の裂け目が見つかるだろう。予言者を調整すれば、隠されたアーティファクトへの道を照らし出すはずだ\r\n\r\n急いだほうがいい。これほど危険な物体に対処できるのは、サイジックだけだ"
+
+#: 20958740-1-7545
+#, fuzzy
+msgctxt "20958740-1-7545"
+msgid "All right. I'll go and recover the four remaining fragments."
+msgstr "わかった。向かって残った4つの欠片を手に入れよう"
+
+#: 3952276-1-7544
+#, fuzzy
+msgctxt "3952276-1-7544"
+msgid "Pelin Graveyard in Bangkorai, Leki's Blade in Alik'r, the great Hist in Shadowfen, and the Fang Spires in Deshaan.\n\nOnce you arrive at a breach, activate the Augur and it should light a path to the artifacts. Josajeh can tell you more. Safe travels."
+msgstr "バンコライのペリン墓地、アリクルのレキの刀剣、シャドウフェンの大いなるヒスト、デシャーンの牙の尖塔だ\r\n\r\n目的地に着いたら予言者を発動しろ。アーティファクトへの道を照らすだろう。ジョサジェーが詳しく教えてくれる。気をつけてな"
+
+#: 20958740-1-7544
+#, fuzzy
+msgctxt "20958740-1-7544"
+msgid "All right. I'll go speak with Josajeh."
+msgstr "わかった。ジョサジェーと話そう"
+
+#: 3952276-1-7543
+#, fuzzy
+msgctxt "3952276-1-7543"
+msgid "Yes. Precisely. \n\nJosajeh will provide the items you need. I was hesitant to give her this task at first. But keeping her involved to some degree seemed prudent … and perhaps humane? You should go speak with her. She needs friendly counsel."
+msgstr "ああ、そのとおりだ\r\n\r\n必要なものはジョサジェーから受け取ってくれ。私はこの仕事を彼女に任せることをためらった。だが彼女にもある程度関与させるべきだと判断したんだ。彼女と話してくるといい。友人の助言が必要だ"
+
+#: 20958740-1-7543
+#, fuzzy
+msgctxt "20958740-1-7543"
+msgid "All right. I will speak with Josajeh and seal these breaches in Craglorn."
+msgstr "わかった。ジョサジェーと話して、クラグローンの時の裂け目を塞ごう"
+
+#: 3952276-1-7542
+#, fuzzy
+msgctxt "3952276-1-7542"
+msgid "We do. As always, the Augur, map, and Psijic Seals are prepared for your use. Josajeh will provide them.\n\nReturn to me once you have closed the breaches. We will solve this problem of the staff soon. You have my word."
+msgstr "そうだ。いつもどおり、予言者、地図、サイジックの封印を用意してある。ジョサジェーが渡してくれるだろう\r\n\r\n裂け目を塞いだら戻ってこい。我々はもうすぐこの杖の問題を解決する。約束しよう"
+
+#: 20958740-1-7542
+#, fuzzy
+msgctxt "20958740-1-7542"
+msgid "All right. I'll go speak with Josajeh."
+msgstr "わかった。ジョサジェーと話そう"
+
+#: 3952276-1-7541
+#, fuzzy
+msgctxt "3952276-1-7541"
+msgid "Please, just take a moment and discuss this matter of the staff with Josajeh. I fear that she still resents my decision to lock the fragments away.\n\nShe suffered a … trauma. The promise of this staff could create an unwelcome distraction."
+msgstr "この杖の問題についてジョサジェーと話し合ってほしい。彼女は欠片を封印するという決定に、まだわだかまりを抱いているかもしれない\r\n\r\n彼女には… トラウマがある。この杖の誓約は、余計な混乱を生むかもしれない"
+
+#: 20958740-1-7541
+#, fuzzy
+msgctxt "20958740-1-7541"
+msgid "All right, I'll talk to Josajeh and seal these breaches."
+msgstr "わかった。ジョサジェーと話して時の裂け目を塞ごう"
+
+#: 3952276-1-7540
+msgctxt "3952276-1-7540"
+msgid "Yes, I'm afraid I do. Could you travel to Cloudrest and seek out my mother, Belarin?\n\nI must warn you though, should my dreams be true, such a journey may come at great risk. You'll want to gather many allies by your side before heading off."
+msgstr "ああ、考えたくはないが。クラウドレストに行って、母のベラリンを探してくれないか？\r\n\r\nもし私の夢が本当なら、この旅はかなり危険なものになる。出発する前に、仲間を集めておいたほうがいい"
+
+#: 20958740-1-7540
+msgctxt "20958740-1-7540"
+msgid "I'll go to Cloudrest and seek out your mother, Belarin."
+msgstr "クラウドレストに行って、ベラリンを探そう"
+
+#: 3952276-1-7537
+msgctxt "3952276-1-7537"
+msgid "An order of Summerset knights, which I'm honored to be a part of.\n\nZ'Maja was able to capture and somehow replicate my three companions. Even if fought alone, these shadows will be difficult to defeat. Do you think yourself capable of such a task?"
+msgstr "サマーセットの騎士団。私もその一員よ\r\n\r\nズマジャは私の仲間を3人捕らえ、複製してしまったの。単独で戦っても、あの影を倒すのはとても困難よ。あなたにできると思う？"
+
+#: 20958740-1-7537
+msgctxt "20958740-1-7537"
+msgid "I can help you defeat these shadow warriors and take down Z'Maja."
+msgstr "影の戦士を倒す支援をして、ズマジャを倒そう"
+
+#: 3952276-1-7535
+#, fuzzy
+msgctxt "3952276-1-7535"
+msgid "Ancestor of ours, Gjadil the Keel-Hauler, cached her loot around here.\n\nIf you grab the chest for us, there's no chance for a sneak attack. The map over there will lead you right to it. And, obviously, I'll pay you for the trouble."
+msgstr "私たちの祖先、船底くぐりのグジャディルが、この辺に戦利品を隠したの\r\n\r\nあなたが宝箱を取ってきてくれるなら、そこの地図を貸してあげるわ。もちろん、お礼はするわよ"
+
+#: 20958740-1-7535
+#, fuzzy
+msgctxt "20958740-1-7535"
+msgid "I'll collect the treasure chest for you."
+msgstr "宝箱を手に入れよう"
+
+#: 3952276-1-7533
+#, fuzzy
+msgctxt "3952276-1-7533"
+msgid "It might be worth talking to the Loremaster. He would never admit it, but I think something is bothering him. Something about the staff fragments."
+msgstr "ロアマスターと話しておくといいかもしれない。決して認めないだろうけど、彼は悩んでると思うわ。杖の欠片に関することでね"
+
+#: 20958740-1-7533
+#, fuzzy
+msgctxt "20958740-1-7533"
+msgid "All right. I'll set out for Black Marsh after I speak with Celarus."
+msgstr "わかった。セララスと話してからブラック・マーシュに向かおう"
+
+#: 3952276-1-7526
+msgctxt "3952276-1-7526"
+msgid "The Loremaster and I. While you made your way across Alik'r, we reached out with projections—looking for objects of power. We found one. The Staff of Towers.\n\nThe Loremaster's confident we can find it. You should speak with him when you return."
+msgstr "ロアマスターと私よ。あなたがアリクルへ行ってる間、私たちは幻を使って、力を放つ物体を探してたの。1つあったわ。塔の杖よ\r\n\r\nロアマスターには見つける自信があるみたい。戻ってきたら、彼と話したほうがいいわ"
+
+#: 20958740-1-7526
+msgctxt "20958740-1-7526"
+msgid "All right, I'll travel to Skyrim and Morrowind and seal these time breaches."
+msgstr "わかった。スカイリムとモロウウィンドに向かって時の裂け目を塞ごう"
+
+#: 3952276-1-7522
+#, fuzzy
+msgctxt "3952276-1-7522"
+msgid "Yes. Take this map of the region, more Psijic Seals, and the Augur. I hope the breaches haven't grown more powerful.\n\nStay safe. And … just make sure Alik'r weathers this, all right? I know I shouldn't … I have to stay detached. Never mind."
+msgstr "ええ。あの地域の地図と、サイジックの封印、それに予言者を渡すわ。裂け目がもっと強力になってなければいいけど\r\n\r\n気を付けてね。それから… アリクルを守って。言っちゃいけないのはわかってるけど… そう、私は中立じゃないとね。忘れて"
+
+#: 20958740-1-7522
+#, fuzzy
+msgctxt "20958740-1-7522"
+msgid "Don't worry. I'll seal these time breaches."
+msgstr "心配するな。時の裂け目は封印する"
+
+#: 3952276-1-7521
+#, fuzzy
+msgctxt "3952276-1-7521"
+msgid "Into the wilderness, off toward that old Wayshrine. How far could they have really gone?\n\nI would give anything to have my precious Eustasia safely in my arms again. Find her for me and I will make it worth your while."
+msgstr "荒野よ。あの古い旅の祠の辺り。そんなに遠くへ行くはずがないでしょう？\r\n\r\n私の大切なエウスタシアを無事この手に抱くためなら何でもあげるわ。あの子を探してくれれば、十分なお礼をする"
+
+#: 20958740-1-7521
+#, fuzzy
+msgctxt "20958740-1-7521"
+msgid "I'll find your dog and your husband."
+msgstr "犬と夫を探そう"
+
+#: 3952276-1-7520
+#, fuzzy
+msgctxt "3952276-1-7520"
+msgid "Really? I have to warn you, the gryphons in there are quite nasty. They'd do anything to protect their nests from invaders.\n\nBut if you're willing, I'd be mighty grateful. Even pay you for your efforts!"
+msgstr "本当？ 警告しておくけど、あそこにいるグリフォンはかなり凶暴よ。あいつらは侵入者から巣を守るためなら何だってする\r\n\r\nでもそうしてくれるなら、大いに感謝するわ。報酬を払ってもいい！"
+
+#: 20958740-1-7520
+#, fuzzy
+msgctxt "20958740-1-7520"
+msgid "I'll search the gryphon nesting grounds and find your friends."
+msgstr "グリフォンの巣を探して、友人を見つけよう"
+
+#: 3952276-1-7519
+#, fuzzy
+msgctxt "3952276-1-7519"
+msgid "He's with Valsirenn, using the scrying pool to try to track down the missing pearl. If it's anywhere on Artaeum, the Ritemaster will find it. That's what the scrying pool is for.\n\nPlease, head into Ceporah Tower and see what the Ritemaster needs."
+msgstr "ヴァルサイレンと一緒にいるわ。占い盤を使って、消えた真珠の追跡を試みてる。真珠がアルテウムにあるなら見つけられるわ。占い盤はそのためにあるの\r\n\r\nセポラタワーに行って、ライトマスターの希望を聞いてみて"
+
+#: 20958740-1-7519
+#, fuzzy
+msgctxt "20958740-1-7519"
+msgid "I'll go to Ceporah Tower and talk to the Ritemaster."
+msgstr "セポラタワーに向かってライトマスターと話そう"
+
+#: 3952276-1-7517
+#, fuzzy
+msgctxt "3952276-1-7517"
+msgid "Let me attune you to my spell. There! Now we're connected through the mental links.\n\nFind the three adventurers, Cainar, Grog, and Miriya. When you get close, the spell should send you into their individual mind traps. I can direct you from there."
+msgstr "あなたを私の呪文と同調させるわよ。はい！ これで私たちはリンクしたわ\r\n\r\nいい？ カイナー、グログ、ミリヤを探して。あなたが近づけば、呪文があなたを精神の罠へと転送するはず。そこからは私が指示するわ"
+
+#: 20958740-1-7517
+#, fuzzy
+msgctxt "20958740-1-7517"
+msgid "I'll set Cainar, Grog, and Miriya free from their mind traps."
+msgstr "カイナー、グログ、ミリヤを精神の罠から解放しよう"
+
+#: 3952276-1-7516
+#, fuzzy
+msgctxt "3952276-1-7516"
+msgid "Not just a garden, the very art of gardening! Eslion is waging a war on Altmer horticulture. I represent everything he despises, so he's targeting my work. He's gone too far this time, planting stranglers to ward me away.\n\nThey could kill someone."
+msgstr "庭1つじゃないわ。ガーデニングそのものよ！ エスリオンはアルトマーの園芸に宣戦布告してるんだわ！ 私があいつの嫌うものを全部表現してるから、私の作品を標的にしてるのね。でも今回は行き過ぎよ。私を近寄らせないように、ストラングラーを植えるなんて\r\n\r\n死人が出たらどうするの"
+
+#: 20958740-1-7516
+#, fuzzy
+msgctxt "20958740-1-7516"
+msgid "I could deal with the stranglers for you."
+msgstr "ストラングラーを駆除しよう"
+
+#: 3952276-1-7515
+msgctxt "3952276-1-7515"
+msgid "While I head inside to begin the augury ritual, I'd like you to go to Sotha Sil's study in the tower. Find my acolyte, Oriandra, and ask her for Sotha Sil's amplification elixir. We may need it if the pearl proves to be resistant to our magic."
+msgstr "私は中で占いの儀式を始める。ソーサ・シルの書斎に行き、私の侍者オリアンドラから増幅の霊薬を受け取ってくれ。真珠が我々の儀式に抵抗したら、霊薬が必要になるだろう"
+
+#: 20958740-1-7515
+msgctxt "20958740-1-7515"
+msgid "I'll find Oriandra and get the amplification elixir."
+msgstr "オリアンドラを探し、増幅の霊薬を手に入れる"
+
+#: 3952276-1-7512
+#, fuzzy
+msgctxt "3952276-1-7512"
+msgid "I'm not entirely sure. By Oblivion, I'm not even sure what day it is. The bottles must be somewhere along the winery grounds. I probably dropped them as we went along. \n\nI can barely see straight right now. Could you fetch them for me?"
+msgstr "よくわからないんだ。今日が何日かもわからない。ワイナリーの地下のどこかにあるはずだ。あそこを通る時に落としたんだろう\r\n\r\nくらくらする。ボトルを探してくれないか？"
+
+#: 20958740-1-7512
+#, fuzzy
+msgctxt "20958740-1-7512"
+msgid "I'll collect your wine bottles for you."
+msgstr "ワインボトルを集めよう"
+
+#: 3952276-1-7511
+#, fuzzy
+msgctxt "3952276-1-7511"
+msgid "Let me attune you to my spell. There! Now we're connected through my mental link.\n\nFind the three adventurers, Cainar, Grog, and Miriya. When you examine them, the spell should take you into their individual mind traps. I can direct you from there."
+msgstr "あなたを私の呪文と同調させるわよ。はい！ これで私とリンクできたわ\r\n\r\nいい？ カイナー、グログ、ミリヤを探して。呪文があなたを精神の罠へと転送するはず。そこからは私が指示するわ"
+
+#: 20958740-1-7511
+#, fuzzy
+msgctxt "20958740-1-7511"
+msgid "I'll set Cainar, Grog, and Miriya free from the mind trap."
+msgstr "カイナー、グログ、ミリヤを精神の罠から助けよう"
+
+#: 3952276-1-7510
+#, fuzzy
+msgctxt "3952276-1-7510"
+msgid "A member of the Mages Guild murdered a Sapiarch, but now the murderer's friend is railing against the conviction. Loudly.\n\nTalk some sense into her, would you? She might listen to another … guest. You'll find her outside the Fighters Guild."
+msgstr "魔術師ギルドのとある会員がサピアルチを1人殺したが、今その者の友人が有罪判決に反対している。大声でな\r\n\r\nお前から言ってやってくれないか？ 彼女も耳を傾けるかもしれん。彼女は戦士ギルドの外にいるぞ"
+
+#: 20958740-1-7510
+#, fuzzy
+msgctxt "20958740-1-7510"
+msgid "I'll see if I can calm her down."
+msgstr "落ち着かせられるかどうか、見てみよう"
+
+#: 3952276-1-7508
+msgctxt "3952276-1-7508"
+msgid "Eager to begin? Good. Eagerness is just what we need.\n\nYour first lesson begins now. The Order has detected a number of … irregularities on Tamriel. Small breaches in the fabric of time. I would like you to seal them for me."
+msgstr "積極的だな。よし。熱意こそ我々が求めるものだ\r\n\r\n今から最初のレッスンを開始する。サイジックはいくつかの… 異常をタムリエルに検知している。時間の構造の小さな裂け目だ。それを塞いでほしい"
+
+#: 20958740-1-7508
+msgctxt "20958740-1-7508"
+msgid "All right, I'll seal these breaches. How should I proceed?"
+msgstr "わかった。時の裂け目を塞ごう。どのように進めればいい？"
+
+#: 3952276-1-7503
+#, fuzzy
+msgctxt "3952276-1-7503"
+msgid "Destroy the geysers. Find them and obliterate them as quickly as you can.\n\nYou'll need to fight through the creatures spawned by the geysers, so bring allies with you if you can. And make sure to destroy the pearls. That's the source of the magic."
+msgstr "ガイザーを破壊する。探し出して、始末するのよ\r\n\r\nガイザーから出てきた怪物たちとも戦わないとね。だから、できれば仲間を連れていって。それから真珠の破壊も忘れずに。あれが魔法の源だから"
+
+#: 20958740-1-7503
+#, fuzzy
+msgctxt "20958740-1-7503"
+msgid "I'll destroy the abyssal geysers."
+msgstr "アビサルガイザーを破壊しよう"
+
+#: 3952276-1-7500
+#, fuzzy
+msgctxt "3952276-1-7500"
+msgid "You would have words with that thin-legged sorcerer? Fine! You will find him in the courtyard of the gaudy Elf-Hall up the hill.\n\nNow, if you'll excuse me, I have an adventure to return to!"
+msgstr "あの足の細い魔術師に話があるのか？ いいだろう！ あの男なら丘の上にある、派手なエルフの館の中庭にいる\r\n\r\nさて、これで失礼するぞ。冒険へと戻らねば！"
+
+#: 20958740-1-7500
+#, fuzzy
+msgctxt "20958740-1-7500"
+msgid "All right. I'll find this Erudil. Good luck?"
+msgstr "わかった。そのエリューディルを探そう。幸運を祈る"
+
+#: 3952276-1-7499
+msgctxt "3952276-1-7499"
+msgid "I sent a group of adventurers and a squad of marines to investigate the threat. They reported in. Said they were exploring a promising lead. That was the last I heard.\n\nCainar, Grog, and Miriya seem capable enough, but I'm concerned for their safety."
+msgstr "私は冒険者の一団と、海兵隊の部隊を送ってシースロードの脅威を調査させた。最初の報告までは入ったけど、音信はそれっきり途絶えたの\r\n\r\nカイナー、グログ、ミリヤは有能に見えたけど、さすがに不安よ"
+
+#: 20958740-1-7499
+msgctxt "20958740-1-7499"
+msgid "I'll locate the adventurers and find out what they uncovered."
+msgstr "冒険者たちを探して、見つけたことを確認しよう"
+
+#: 3952276-1-7498
+#, fuzzy
+msgctxt "3952276-1-7498"
+msgid "I can tell you that the Battlereeve sent three adventurers and a squad of marines to determine the extent of the problem. After an initial report, contact with the group was lost.\n\nWhat the Battlereeve will ask of you, well, that's for her to impart."
+msgstr "バトルリーブが3人の冒険者と海兵隊の部隊を送って、問題の大きさを調べさせていたことは伝えておきます。最初の報告の後、彼らとの連絡は途絶えました\r\n\r\n依頼内容に関しては、当人からお聞きください"
+
+#: 20958740-1-7498
+#, fuzzy
+msgctxt "20958740-1-7498"
+msgid "I'll talk to Battlereeve Tanerlin."
+msgstr "バトルリーブ・タネルラインと話そう"
+
+#: 3952276-1-7497
+#, fuzzy
+msgctxt "3952276-1-7497"
+msgid "I sent a group of adventurers and a squad of marines to investigate the Sea Sload threat. After an initial report about a promising lead, they sent no further word.\n\nCainar, Grog, and Miriya seem capable enough, but their silence has me concerned."
+msgstr "私は冒険者の一団と、海兵隊の部隊を送ってシースロードの脅威を調査させた。最初の報告までは入ったけど、音信はそれっきり途絶えたの\r\n\r\nカイナー、グログ、ミリヤは有能に見えたけど、さすがに不安よ"
+
+#: 20958740-1-7497
+#, fuzzy
+msgctxt "20958740-1-7497"
+msgid "I'll locate the adventurers and find out what they uncovered."
+msgstr "冒険者たちを探して、見つけたことを確認しよう"
+
+#: 3952276-1-7494
+#, fuzzy
+msgctxt "3952276-1-7494"
+msgid "Renzir's most precious treasure is his wife, sweet Nubani. Last he saw, she was near our ship. This one suspects she has cleverly hidden herself, but will need help to escape.\n\nDo all this, and Renzir will make sure you are rewarded."
+msgstr "レンジルの最も貴重な宝は、愛しい妻のヌバニだ。最後に見た時、彼女は船の近くにいた。うまく隠れたとは思うが、逃げるには助けが必要だ\r\n\r\n全部やってくれれば、レンジルは報酬を約束する"
+
+#: 20958740-1-7494
+#, fuzzy
+msgctxt "20958740-1-7494"
+msgid "I'll recover your shipments, kill Madja, and find out what happened to Nubani."
+msgstr "積荷を取り戻し、マジャを倒してヌバニに何が起こったか確認しよう"
+
+#: 3952276-1-7492
+msgctxt "3952276-1-7492"
+msgid "No, no. A colleague of mine, Esulo, has already seen to that. He just needs some help ensuring the books are safely removed from Summerset.\n\nYou'll find him in Golden Gryphon—at the bar, no doubt."
+msgstr "いや違う。それは同僚のエスロがすでに行ってる。彼には、あの本をサマーセットから安全に取り除くための協力者が必要なのだ\r\n\r\n彼は〈黄金のグリフォン〉にいる。どうせバーで飲んでいるのだろう"
+
+#: 20958740-1-7492
+msgctxt "20958740-1-7492"
+msgid "All right. I'll recover the texts."
+msgstr "わかった。書を手に入れよう"
+
+#: 3952276-1-7491
+#, fuzzy
+msgctxt "3952276-1-7491"
+msgid "Yes, indeed! The Sea Elves regularly goad their nasty pets into our water ways. If left unchecked they'll devastate the local fauna and move on to do it all again.\n\nWe need to root out these nests before the vipers spread to the mainland coast."
+msgstr "そのとおりだ！ シーエルフは自分たちの汚いペットを定期的に我々の水系に追い立てている。放っておけば、生態系に及ぼす被害は甚大なものになるだろう\r\n\r\nバイパーが本土の沿岸に広がる前に、巣を一掃するのだ"
+
+#: 20958740-1-7491
+#, fuzzy
+msgctxt "20958740-1-7491"
+msgid "I'll destroy the nests."
+msgstr "巣を破壊しよう"
+
+#: 3952276-1-7490
+#, fuzzy
+msgctxt "3952276-1-7490"
+msgid "They've stolen many valuable relics, and we need you to recover them.\n \nWe also wish to keep tabs on their movements. I suspect most of the Sagacians have written plans on their person. Collect those plans using any means necessary."
+msgstr "奴らは多くの価値ある遺物を盗んでいる。それを取り返してもらいたい\r\n\r\nそれから、奴らの動向も把握しておきたい。大部分の伝説探求団員は計画書を所持しているだろう。計画書を集めてくれ。手段は問わない"
+
+#: 20958740-1-7490
+#, fuzzy
+msgctxt "20958740-1-7490"
+msgid "I'll take the job."
+msgstr "仕事を受けよう"
+
+#: 3952276-1-7489
+#, fuzzy
+msgctxt "3952276-1-7489"
+msgid "I'm afraid that Archon's Grove has been recently taken over by a pack of werewolves. Most dreadful, but the Divine Prosecution cannot reassign resources to manage the outbreak. You'll have to go in alone.\n\nAre you willing to take on this assignment?"
+msgstr "遺憾ながらアルコンの森は、現在ウェアウルフの群れに占領されてしまっている。神聖執行局は、感染を防ぐために人材を割くわけにはいかない。単独で行ってもらうことになる\r\n\r\nこの任務を引き受けるつもりはあるか？"
+
+#: 20958740-1-7489
+#, fuzzy
+msgctxt "20958740-1-7489"
+msgid "I can collect the blossoms in Archon's Grove."
+msgstr "アルコンの森で花を集めよう"
+
+#: 3952276-1-7488
+#, fuzzy
+msgctxt "3952276-1-7488"
+msgid "We've gotten some troubling reports of the Daedra creating cocoons. There's dozens of them now, spreading throughout the cave. We need you to destroy them.\n\nOh, and burn any sacrilegious text you find. No need for that material to remain."
+msgstr "デイドラが繭を作っているという厄介な報告が来ているのだ。その数は数十に及び、洞窟中に広がっている。それを破壊してもらいたい\r\n\r\nああ、それから冒涜的な文書を見つけたら焼いてくれ。無用の長物だ"
+
+#: 20958740-1-7488
+#, fuzzy
+msgctxt "20958740-1-7488"
+msgid "I'll destroy the Daedra's cocoons and burn any sacrilegious text I find."
+msgstr "デイドラの繭を破壊し、冒涜的な文書を見つけたら焼こう"
+
+#: 3952276-1-7485
+msgctxt "3952276-1-7485"
+msgid "We've already seen the devastation that's possible when the tower falls into the wrong hands. And the recent attack by Nocturnal only reinforces the need for greater protection.\n\nI want you there to help plead our case. Will you join us?"
+msgstr "塔が誤った者の手に渡れば惨劇が起こる。それにノクターナルの最近の襲撃から、防御の強化が必要なのは明らかだわ\r\n\r\n会合でこちらの主張を通すために、力を貸してほしいの。参加してくれる？"
+
+#: 20958740-1-7485
+msgctxt "20958740-1-7485"
+msgid "I'll help you convince the Sapiarchs, if I can."
+msgstr "可能なら、サピアルチの説得を手伝おう"
+
+#: 3952276-1-7484
+msgctxt "3952276-1-7484"
+msgid "No. They're assuredly dead. King's Haven Pass is very dangerous, teeming with goblins and gryphons, but the cult considers the pilgrimage a test of faith. \n\nRecovering their articles would be viewed favorably by the religious authorities."
+msgstr "いや、間違いなく死んでいる。キングズヘヴン・パスは、ゴブリンやグリフォンで溢れかえっているからな。だがあの教団は、巡礼を信仰の試練と考えている\r\n\r\n遺品を回収すれば、宗教的権威からの好意も得られるだろう"
+
+#: 20958740-1-7484
+msgctxt "20958740-1-7484"
+msgid "I'll recover the pilgrims' articles of faith."
+msgstr "巡礼者の信仰の品を取り戻そう"
+
+#: 3952276-1-7481
+msgctxt "3952276-1-7481"
+msgid "How in Oblivion would I know? These Elves have rules for everything—how to eat, how to sleep …. Of course they've got rules about how to beat each other up.\n\nSay, you wouldn't be interested in helping me figure this out would you?"
+msgstr "俺が知ってるわけねえだろ？ あのエルフどもには何にでも決まりがある。食べ方に眠り方… もちろん殴り合いの仕方にもな\r\n\r\nなあ、調べるのを手伝ってくれないか？"
+
+#: 20958740-1-7481
+msgctxt "20958740-1-7481"
+msgid "Sure, I'll help you sort this out."
+msgstr "わかった、解決を手伝おう"
+
+#: 3952276-1-7479
+msgctxt "3952276-1-7479"
+msgid "Destroy the Maormer's supplies, gathered along the shore. Rescue any citizen you find captured. And free Sunnawel, a gryphon, from capture. She's not only the city's symbol, she's also the best weapon we have at our disposal.\n\nWill you help?"
+msgstr "海辺にあるマオマーの物資を破壊し、捕虜になった市民を見つけたら救出して。それから、捕まったグリフォンのサンナウェルの解放も。あれは街の象徴であり、私たちが使える武器でもある\r\n\r\n力を貸してくれる？"
+
+#: 20958740-1-7479
+msgctxt "20958740-1-7479"
+msgid "I'll help save Sunhold from the invading Maormer."
+msgstr "侵略するマオマーから、サンホールドを救おう"
+
+#: 3952276-1-7478
+msgctxt "3952276-1-7478"
+msgid "I'm probably over-concerned. The weather's been fair and the winds mild. Perhaps their fishing has been so fruitful they dare not waste their good fortune, but I'd feel better if I knew what to make of their delay."
+msgstr "心配しすぎかもね。天候は快晴だし、風は穏やかだもの。もしかすると漁がとてもうまくいってるだけかもしれない。でも、遅れの原因がわかれば安心できるわ"
+
+#: 20958740-1-7478
+msgctxt "20958740-1-7478"
+msgid "I'll check on your father for you. Where is Wasten Coridale?"
+msgstr "父親を探そう。ワステン・コラルデイルとはどこだ？"
+
+#: 3952276-1-7473
+#, fuzzy
+msgctxt "3952276-1-7473"
+msgid "Certainly not risk my life, if that's what your implying.\n\nYou know, you have the look of a ruffian. Want to take on the task? If you collect Niralin, or at least what's left of her, I'll make sure you're paid handsomely."
+msgstr "私の命を危険に晒す気はない。それを聞きたいのかは分からないが\r\n\r\nどうだ、良い面構えをしてるな。ニラリンを助けるか、最低でも形見を回収すれば、それなりの報酬を与えよう"
+
+#: 20958740-1-7473
+#, fuzzy
+msgctxt "20958740-1-7473"
+msgid "I'll rescue Niralin, or bring back evidence of her death."
+msgstr "ニラリンを救出するか、彼女の死の証拠を持ち帰る"
+
+#: 3952276-1-7472
+#, fuzzy
+msgctxt "3952276-1-7472"
+msgid "They've stood quiet for decades. But now? New, yawning sinkholes. Eerie sounds at night. I don't jump at shadows, but missing people? That's a warning I can heed. \n\nIf you head down there, take a look around for our friends. Will you?"
+msgstr "もう何十年も静かだったのに、今は新しい大穴が開いて、夜には不気味な音がしてる。それに、現実に人が行方不明になってるんだ。何かがあると思うだろう\r\n\r\nあそこに向かうなら、友人たちを探してくれないか？"
+
+#: 20958740-1-7472
+#, fuzzy
+msgctxt "20958740-1-7472"
+msgid "I can look for your friends."
+msgstr "友人を探そう"
+
+#: 3952276-1-7471
+msgctxt "3952276-1-7471"
+msgid "The item we were ordered to transport. It's tied to the yaghra, mysterious creatures that keep attacking our shores. \n\nWe have no idea what devastation the pearl's capable of, but we can't allow it to be used to dark ends. It must be destroyed."
+msgstr "とある物を輸送するよう命令を受けた。私たちの海岸を脅かし続ける奇妙な生物、ヤグーラに関する物だ\r\n\r\nあの真珠にどんな力があるのかはわからない。だが邪悪な目的のために使わせるわけにはいかない。破壊するべきだ"
+
+#: 20958740-1-7471
+msgctxt "20958740-1-7471"
+msgid "I'll stop Justiciar Avanaire and destroy the pearl."
+msgstr "司法高官アヴァナイレを阻止して、真珠を破壊する"
+
+#: 3952276-1-7469
+msgctxt "3952276-1-7469"
+msgid "They're research for Mehdze's recital at the Illumination Academy. I've been transcribing them for weeks.\n\nThe Goblins tossed them all over—not big readers, I guess—but this tribe is bigger than I thought."
+msgstr "メッツェが照覧の大学でやる朗読会のための調査よ。もう何週間も記録してるの\r\n\r\nゴブリンはそこら中に投げ捨てた。読書は好きじゃないみたいね。でも、この部族は思ったより大きいわ"
+
+#: 20958740-1-7469
+msgctxt "20958740-1-7469"
+msgid "I can recover your notes."
+msgstr "メモを取り返そう"
+
+#: 3952276-1-7468
+msgctxt "3952276-1-7468"
+msgid "I sent Valsirenn to Lillandril, where the College of Sapiarchs is located, to scout the area and see if the Court of Bedlam has made any moves against them.\n\nI need you to travel to Alinor to secure the Proxy Queen's permission to enter the College."
+msgstr "私はサピアルチ大学があるリランドリルへヴァルサイレンを送った。〈ベドラムの宮廷〉を調査するためだ\r\n\r\nアリノールへ向かい、大学へ入るための女王代理の許可を得てほしい"
+
+#: 20958740-1-7468
+msgctxt "20958740-1-7468"
+msgid "I'll go to Alinor immediately."
+msgstr "すぐにアリノールへ向かおう"
+
+#: 3952276-1-7467
+msgctxt "3952276-1-7467"
+msgid "These tall, skinny Elves, they have so many rules! Did you know Queen Ayrenn isn't even on Summerset? And to get an audience with her Proxy Queen requires some sort of proper introduction.\n\nVindilween won't let me set foot in the palace without one."
+msgstr "あのひょろ長いエルフには、決まり事が多すぎる！ そもそもアイレン女王はサマーセットにいないって知ってたか？ しかも女王代理に謁見するには、正式な紹介が必要らしい\r\n\r\nそれがなければ、ヴィンディルウィーンが王宮に入れてくれないんだ"
+
+#: 20958740-1-7467
+#, fuzzy
+msgctxt "20958740-1-7467"
+msgid "I'll help you figure this out."
+msgstr "解決を手伝おう"
+
+#: 3952276-1-7466
+#, fuzzy
+msgctxt "3952276-1-7466"
+msgid "In truth, I only wish to attend to check on Tableau. Her invitation came with a note, outlining concerns for her safety. \n\nCould you perhaps … go in and check on her? Make sure things run smoothly? It would mean a good deal to me if you would."
+msgstr "俺はタブローの様子を見たいだけだ。招待状に、自分の身の安全を心配してるってメモが付いてたんだ\r\n\r\nできればお前が… 様子を見にいってくれないか？ 順調なのかどうか。お前に頼めればありがたい"
+
+#: 20958740-1-7466
+#, fuzzy
+msgctxt "20958740-1-7466"
+msgid "I'll check on Tableau for you."
+msgstr "代わりにタブローの様子を見てこよう"
+
+#: 3952276-1-7465
+msgctxt "3952276-1-7465"
+msgid "High Elves who were cast out from their families as children. A horrible fate in our society.\n\nSummerset may appear as perfect as a pastoral painting, but darkness lies backstage. I want to face our taboos without blinking. Will you help me?"
+msgstr "子供の頃に家から追放されたハイエルフよ。私たちの社会では、とても悲惨なことだとされてるわ\r\n\r\n牧歌的な絵を描くなら、サマーセットは理想的な場所に見えるかもしれない。けど、その裏には闇が潜んでる。私はタブーに向き合いたいの。手を貸してくれる？"
+
+#: 20958740-1-7465
+msgctxt "20958740-1-7465"
+msgid "I'll find the hulkynd and arrange a meeting at the sinkhole."
+msgstr "ハルキンドを探し、大穴で会合を手配する"
+
+#: 3952276-1-7463
+#, fuzzy
+msgctxt "3952276-1-7463"
+msgid "Well, she's certainly missing, and I'm not risking my scaly hide going in to find her. \n\nHmm. You look scrappy enough. If you can grab those tokens and what's left of my apprentice, I'll make it worth your while. What do you say?"
+msgstr "まあ、姿が見えないのは確かだ。だが、彼女を探しに行ってこの鱗を危険にさらすつもりはない\r\n\r\nふむ。お前は荒事に向いてそうだな。トークンと俺の弟子が残したものを取ってきてくれたら、それなりに礼はするぞ。どうだ？"
+
+#: 20958740-1-7463
+#, fuzzy
+msgctxt "20958740-1-7463"
+msgid "I can collect the tokens and look for Erilthel."
+msgstr "トークンを手に入れて、エリルセルを探そう"
+
+#: 3952276-1-7461
+msgctxt "3952276-1-7461"
+msgid "Exactly so! And you'll be the one to help us collect them again, hopefully before anyone comes to harm. Why, these items could cause all sorts of mischief.\n\nFirst though, let's have you read the Psijic Codex. That should help bring you up to speed."
+msgstr "そのとおり！ そして、再び回収するのを手伝ってもらうわけだ。できれば誰かが負傷する前に。何せ、あそこの品はあらゆるたぐいの悪さをするからな！\r\n\r\nでも、まずはサイジックの写本を読んでもらおう。その方が話は早いはずだ"
+
+#: 20958740-1-7461
+msgctxt "20958740-1-7461"
+msgid "All right, I'll read the Psijic Codex."
+msgstr "わかった。サイジックの写本を読もう"
+
+#: 3952276-1-7460
+#, fuzzy
+msgctxt "3952276-1-7460"
+msgid "You would take on the duties of the admanen, the listening eye. An auspicious role! The admanen serves as the fulcrum, balancing competing theories. They also collect evidence, interview suspects, and the like.\n\nWhat do you say?"
+msgstr "君にはアドマネンが向いていそうだ。「聞く目」さ。いい仕事だぞ！ アドマネンは、対立する仮説のバランスを取る、いわば支点だ。証拠集めや、容疑者の聴取なども行っている\r\n\r\n悪くないだろう？"
+
+#: 20958740-1-7460
+#, fuzzy
+msgctxt "20958740-1-7460"
+msgid "All right. I'll help you solve this murder."
+msgstr "分かった。この殺人事件を解決する手伝いをしよう"
+
+#: 3952276-1-7457
+msgctxt "3952276-1-7457"
+msgid "Meet me in the main gallery. We can consult with the rest of the Conclave and use the scrying pool to continue our probe of the pearl.\n\nAs much as this situation concerns me, I must admit, I somewhat enjoy being in the middle of the action again."
+msgstr "メインギャラリーで会おう。評議会と相談する。占い盤を使って、真珠の調査を続けよう\r\n\r\nこの状況は気がかりだ。だが、自身で状況を司るのも悪くない。腕が鳴るよ"
+
+#: 20958740-1-7457
+msgctxt "20958740-1-7457"
+msgid "I'll meet you in the main gallery."
+msgstr "メインギャラリーで会おう"
+
+#: 3952276-1-7454
+#, fuzzy
+msgctxt "3952276-1-7454"
+msgid "It's no natural formation. The Sea Elves are conjuring it. If I could get within striking distance of their Sea Mage, I could break his hold on the storm and prevent the destruction to come … but that's a desperate hope for one Mer."
+msgstr "あれは自然のものではない。シーエルフが召喚しているのだ。奴らのシーメイジを攻撃できるくらい接近できれば、嵐への集中を妨げ、破滅を回避できる… だが、単独では不可能だ"
+
+#: 20958740-1-7454
+#, fuzzy
+msgctxt "20958740-1-7454"
+msgid "You don't have to go alone. I'll help however I can."
+msgstr "単独で進む必要はない。できるだけ助けよう"
+
+#: 3952276-1-7451
+#, fuzzy
+msgctxt "3952276-1-7451"
+msgid "Reagents! Ingredients! Naturally, of course. I require that you gather the supplies needed to make the vivid paint this masterwork requires.\n\nJust take this list. Oh, and this tea of course. You'll need it to acquire the first item. Now, hurry along."
+msgstr "試薬よ！ 材料よ！ 決まってるじゃない。傑作に必要な、生き生きした絵の具を作る材料を集めてきてほしいの\r\n\r\nこれがリストよ。このお茶も持っていって。最初の品を手に入れるために必要だから。さあ、急いで"
+
+#: 20958740-1-7451
+#, fuzzy
+msgctxt "20958740-1-7451"
+msgid "All right, I'll collect the materials for your painting."
+msgstr "わかった。画材を集めよう"
+
+#: 3952276-1-7448
+msgctxt "3952276-1-7448"
+msgid "Good question. I found this memory stone in the grand reliquary. It's called the Eye of Remembrance. Using it near the library pedestals here might show us why these ruins were sealed.\n\nYou look stronger than most. How about you lend me a hand?"
+msgstr "いい質問だね。大聖遺物箱の中で、この記憶石を見つけた。これは追憶の瞳と呼ばれてる。蔵書庫の台座の近くで使えば、あの遺跡が閉鎖された理由がわかるかも\r\n\r\nあんた強そうだね。手を貸してくれない？"
+
+#: 20958740-1-7448
+msgctxt "20958740-1-7448"
+msgid "I'm game. What do you need me to do?"
+msgstr "よし。何をすればいい？"
+
+#: 3952276-1-7447
+msgctxt "3952276-1-7447"
+msgid "Both decided to return? I'm surprised. Meridia's knight has a stake in this, but why would Leythen volunteer to return? It makes no sense.\n\nWell, go and talk to Sotha Sil. Perhaps he can shed light on what we can expect in the Crystal Tower."
+msgstr "2人とも戻ると決めたの？ 驚きね。メリディアの騎士はいいとして、なぜレイセンまで？ 意味がわからないわ\r\n\r\nさあ、ソーサ・シルと話をしてきて。水晶の塔がどうなるのか、説明してくれるかもしれない"
+
+#: 20958740-1-7447
+msgctxt "20958740-1-7447"
+msgid "I'll go talk to Sotha Sil."
+msgstr "ソーサ・シルと話そう"
+
+#: 3952276-1-7446
+msgctxt "3952276-1-7446"
+msgid "We also need to convince Sotha Sil to share the news he brought with us. But without the Ritemaster, he may decide to simply depart. Like all the members of the Dark Elf Tribunal, he can be very enigmatic.\n\nMaybe you should talk to him."
+msgstr "情報を教えてもらえるように、ソーサ・シルを説得しないと。でもライトマスターがいなかったら、立ち去ってしまうかもしれないわ。他のダークエルフのトリビュナルと同じで、彼も謎めいてるの\r\n\r\nあなたが話をしたらどうかしら？"
+
+#: 20958740-1-7446
+msgctxt "20958740-1-7446"
+msgid "I'll speak to Sotha Sil."
+msgstr "ソーサ・シルと話そう"
+
+#: 3952276-1-7442
+#, fuzzy
+msgctxt "3952276-1-7442"
+msgid "Lotus has only ever known kindness. Gentle as a lamb. I hand reared her from birth.\n\nShe fled in the chaos, but she won't make it on her own. I have to find Lotus before she's hurt … or worse."
+msgstr "ロータスは優しい子なんだ。僕はあの子が生まれた時からずっと世話をしてきた\r\n\r\n混乱の中を逃げていったけど、自力じゃ戻れないだろう。早く見つけないと大変なことに…"
+
+#: 20958740-1-7442
+msgctxt "20958740-1-7442"
+msgid "I can help search for your indrik."
+msgstr "インドリクの捜索を手伝おう"
+
+#: 3952276-1-7441
+#, fuzzy
+msgctxt "3952276-1-7441"
+msgid "Andewen should have known better. An Altmer fights for glory, not coin. Crawling through the muck, just to find some insignificant little temple? Simply outrageous.\n\nSo, are we agreed? You'll take this off my hands?"
+msgstr "アンデウェンはもっとよく考えるべきだった。アルトマーは栄光のために戦うの。金貨のためじゃない。汚物をかき分けて進んだのに、見つかるのはつまらない聖堂？ 許しがたいことだわ\r\n\r\nそれで、合意はできた？ この件を私から引き取ってくれるの？"
+
+#: 20958740-1-7441
+#, fuzzy
+msgctxt "20958740-1-7441"
+msgid "I'll escort Andewen during her expedition."
+msgstr "探検の間、アンデウェンを護衛しよう"
+
+#: 3952276-1-7439
+msgctxt "3952276-1-7439"
+msgid "Travelers become lost, sometimes for days. From what I heard, the forest appears to … shift as you move through it. We'll need to keep close together.\n\nSo? Want to help me unlock an ancient mystery? I must say, I do pay well."
+msgstr "何日も迷い続ける旅人もいるわ。聞いた話じゃ、この森は通るたびに… 姿を変えるらしいの。お互いの側を離れないようにしないとね\r\n\r\nそれで？ 古代の謎を解き明かす手伝いをしてくれない？ 報酬は弾むわよ"
+
+#: 20958740-1-7439
+msgctxt "20958740-1-7439"
+msgid "Sure, I'll escort you through Ebon Stadmont."
+msgstr "わかった。エボン・スタドモントで護衛しよう"
+
+#: 3952276-1-7438
+#, fuzzy
+msgctxt "3952276-1-7438"
+msgid "Some folk say she was an innocent girl, buried alive by an evil sister. Others say she was a necromancer, put to the sword. Who knows?\n\nIf you manage to run her off, you'll be doing all of Summerset a favor. Just don't expect us to go in after you."
+msgstr "彼女は罪のない少女で、悪い姉が生き埋めにしたと言う者もいる。死霊術師で裁かれたと言う者もいる。真相は誰にもわからない\r\n\r\n彼女を追い払えれば、お前はサマーセット全土に貢献する。しかし、我々が援軍に着いていくとは思わないでくれ"
+
+#: 20958740-1-7438
+#, fuzzy
+msgctxt "20958740-1-7438"
+msgid "Thanks. I'll have a look around."
+msgstr "わかった。周囲を調査しよう"
+
+#: 3952276-1-7437
+msgctxt "3952276-1-7437"
+msgid "We don't exactly see eye-to-eye when it comes to hunting baddies. So now they're going to spend weeks questioning soldiers and measuring footprints while more people get turned to jerky.\n\nActually, maybe you could help me with that?"
+msgstr "あたしたちは意見が合わないの。彼らは何週間も、兵士への尋問や調査をするのよ。その間に、たくさんの人々が干し肉にされてしまうわ\r\n\r\nそうだ、手を貸してくれない？"
+
+#: 20958740-1-7437
+msgctxt "20958740-1-7437"
+msgid "All right. What do you need me to do?"
+msgstr "分かった。何をすればいい？"
+
+#: 3952276-1-7436
+msgctxt "3952276-1-7436"
+msgid "No. He vanished! They say he escaped. Can you believe it? Why would he turn himself in only to escape a few hours later? They're hiding something, I know it!\n\nPlease, ceruval, help me find my boy. He would never hurt anyone, I swear it!"
+msgstr "いないわ。あの子は消えてしまったの！ 彼らは逃げたって言ってるわ。信じられる？ 数時間後に逃げ出すなら、なぜ自首するの？ あの人たちは何か隠しているのよ。間違いないわ！\r\n\r\nセルヴァル。息子を探すのを手伝って。あの子が誰かを傷つけるはずがない！"
+
+#: 20958740-1-7436
+msgctxt "20958740-1-7436"
+msgid "All right. I'll look for your son."
+msgstr "わかった。息子を探そう"
+
+#: 3952276-1-7435
+#, fuzzy
+msgctxt "3952276-1-7435"
+msgid "It drove my classmates mad! They were all quite sane before, but now they seem possessed by characters from novels and storybooks. They're snorting like pigs, running from cats … it's lunacy!\n\nI have some ideas on how to fix this, but I need help."
+msgstr "クラスメイトをおかしくしたんだ！ みんな小説や物語のキャラクターに取りつかれたみたいになってる。ブタのように鼻を鳴らし、猫からは逃げる… どうかしてる！\r\n\r\n元通りにするための考えがあるんだけど、助けが必要なんだ"
+
+#: 20958740-1-7435
+#, fuzzy
+msgctxt "20958740-1-7435"
+msgid "All right, I'll help you break this enchantment."
+msgstr "わかった。魔法を解く手伝いをしよう"
+
+#: 3952276-1-7434
+msgctxt "3952276-1-7434"
+msgid "I fear he's already signed up, and that's why I require you as an ally. I'll need you to infiltrate the acting troupe. Larydel—my brother—knows my face, but he does not know yours. \n\nYou must find him for me so I can talk him out of this!"
+msgstr "もうサインしてしまったかも…。だからあなたは味方になって、あの一座に潜り込むの。ラリデルは私の顔を知っているけど、あなたの顔は知らないんだから\r\n\r\n弟を見つけて、こんなことやめるように言い聞かせて！"
+
+#: 20958740-1-7434
+msgctxt "20958740-1-7434"
+msgid "All right, I'll help you find your brother."
+msgstr "わかった。弟の捜索を手伝おう"
+
+#: 3952276-1-7433
+msgctxt "3952276-1-7433"
+msgid "I suspect that the language is ancient. It may actually predate the languages of Tamriel. I feel that the memory is connected to the barrier in the Dreaming Cave and where I hid the Heart.\n\nMy friend, we need to discover the meaning of these words."
+msgstr "あれは古代の言葉のようだ。タムリエルのあらゆる言語より古いだろう。あの声は、夢見の洞窟の障壁に、私が心臓を隠した場所に関わるものではないか\r\n\r\nあの声の意味を知る必要がある"
+
+#: 20958740-1-7433
+msgctxt "20958740-1-7433"
+msgid "I'll help you in any way that I can."
+msgstr "できるだけ手伝おう"
+
+#: 3952276-1-7432
+msgctxt "3952276-1-7432"
+msgid "We're about to enter a crucial stage of the augury ritual, so none of us can leave this chamber. If you could find my acolyte, Oriandra, she'll provide you with the amplification elixir we require.\n\nShe's in Sotha Sil's study, upstairs."
+msgstr "占いの儀式は重要な段階にある。だから誰もこの部屋を離れられないのだ。オリアンドラを探してくれ。増幅の霊薬を渡してくれるはずだ\r\n\r\nソーサ・シルの書斎にいる。上の階だ"
+
+#: 20958740-1-7432
+msgctxt "20958740-1-7432"
+msgid "I'll find Oriandra and get the amplification elixir."
+msgstr "オリアンドラを探し、増幅の霊薬を手に入れる"
+
+#: 3952276-1-7430
+#, fuzzy
+msgctxt "3952276-1-7430"
+msgid "He's a pacifist, for Mara's sake!\n\nThe Sapiarchs' investigation was a joke. They just took Emile at his word and handed down the sentence. Of course, the local Guild Magister rolled over like she always does. Coward. Please, I need your help."
+msgstr "あいつは平和主義者よ！\r\n\r\nなのにサピアルチはロクに調べもせず、エミールの言葉を鵜呑みにして刑を申し渡した。もちろん、ギルドの賢者はいつものように一切異議を唱えなかったわ。臆病者よ。お願い、あなたの助けが必要なの"
+
+#: 20958740-1-7430
+#, fuzzy
+msgctxt "20958740-1-7430"
+msgid "All right, I'll help you investigate the murder."
+msgstr "わかった。殺人の調査を手伝おう"
+
+#: 3952276-1-7426
+msgctxt "3952276-1-7426"
+msgid "I opened a portal, but I can't recall where it went. Something intentionally blocked the destination from my sight. I entered the portal and time passed. Then I was back in the cave and the Heart was gone.\n\nWill you accompany me to the Dreaming Cave?"
+msgstr "私はポータルを開いた。どこに通じているかは思い出せない。何者かが意図的に私の目を塞いだのだ。時が過ぎて、洞窟に戻ると、心臓は失われていた\r\n\r\n夢見の洞窟まで同行してくれないか？"
+
+#: 20958740-1-7426
+msgctxt "20958740-1-7426"
+msgid "I'll meet you in the Dreaming Cave."
+msgstr "夢見の洞窟で会おう"
+
+#: 3952276-1-7413
+msgctxt "3952276-1-7413"
+msgid "Ask some questions. Determine the mood in Shimmerene and see how the newcomers are faring.\n\nRumors have reached the Queen and she is concerned. So Razum-dar comes to see what is happening and fights strange creatures. Now Raz is concerned as well."
+msgstr "質問だ。シマーリーンの状況や、新参者の様子を聞きだしてくれ\r\n\r\n噂を聞いて、女王は懸念を抱いた。そこでラズム・ダーは何が起きてるのかを調べに来て、変な獣と戦った。今ではラズも懸念を抱いている"
+
+#: 20958740-1-7413
+msgctxt "20958740-1-7413"
+msgid "I'll ask some questions around the city."
+msgstr "街の周囲について、幾つか質問がある"
+
+#: 3952276-1-7400
+#, fuzzy
+msgctxt "3952276-1-7400"
+msgid "Yes. A massive sea adder. It suns itself in the bay south of Sea Keep. Our navy won't be safe until it's dealt with.\n\nWorse, the ships it destroyed carried sensitive intelligence. I need you to search the shore and recover any logs you can."
+msgstr "そう。巨大なシー・アダーよ。シー・キープ南の湾岸にいるはず。我々の海軍にとっては脅威よ\r\n\r\nしかも、破壊された船が重要な情報を運んでいた。海辺を探して、できる限り航海記録を回収してほしいの"
+
+#: 20958740-1-7400
+msgctxt "20958740-1-7400"
+msgid "All right. I'll slay Keelsplitter and recover your intelligence."
+msgstr "わかった。キールスプリッターを倒して情報を回収しよう"
+
+#: 3952276-1-7399
+#, fuzzy
+msgctxt "3952276-1-7399"
+msgid "Investigators on their way to Sil-Var-Woad's Royal Menagerie were killed by an escaped beast. I don't know what those zoo keepers are doing, but Graveld is running amok in the wilderness.\n\nKill it and retrieve the Scrolls of Oath from our Justiciars."
+msgstr "シル・ヴァー・ウォードの王立動物園に向かう途中で、調査官が脱走した獣に殺された。番人は何をしてるの？ グラヴェルドが暴れてるわ\r\n\r\n早く倒して、司法高官の誓いの巻物を取り戻して"
+
+#: 20958740-1-7399
+#, fuzzy
+msgctxt "20958740-1-7399"
+msgid "I'll take care of it."
+msgstr "何とかしよう"
+
+#: 3952276-1-7398
+#, fuzzy
+msgctxt "3952276-1-7398"
+msgid "We've also been requested to collect the beasts' feathers. Some Wood Elf merchants have offered us quite a bit of gold for them. It seems the Bosmer prize such things.\n\nIt should be easy enough to find some in the surrounding nests."
+msgstr "あの獣たちの羽根を集めるという依頼も受けている。一部のウッドエルフ商人が、かなりの金額を提示しているの。ああいうのが、ボズマーには価値があるようね\r\n\r\n周囲の巣の中で、簡単に見つかるはずよ"
+
+#: 20958740-1-7398
+msgctxt "20958740-1-7398"
+msgid "I'll defeat the gryphons and collect their feathers."
+msgstr "グリフォンを倒して羽根を集めよう"
+
+#: 3952276-1-7397
+#, fuzzy
+msgctxt "3952276-1-7397"
+msgid "I need you to destroy the tainted coral that serves as the primary ingredient for B'Korgen's alchemical concoctions. Then eliminate the Sload alchemist before he can unleash more terrors upon the island.\n\nI suggest you take companions on this one."
+msgstr "ブコルゲンが錬金術で作る調合薬の材料、穢れたサンゴの破壊。それからスロードの錬金術師の抹殺。この島にこれ以上恐怖が解き放たれないようにして\r\n\r\n今回は、仲間を連れていったほうがいいわよ"
+
+#: 20958740-1-7397
+#, fuzzy
+msgctxt "20958740-1-7397"
+msgid "I'll deal with B'Korgen and destroy the patches of tainted coral."
+msgstr "ブコルゲンを倒して、穢れたサンゴを破壊しよう"
+
+#: 3952276-1-7396
+#, fuzzy
+msgctxt "3952276-1-7396"
+msgid "Yes. Ancient indriks like Caanerin enjoy a deep connection to Y'ffre—the forest god. They are very resilient—much like weeds. Luckily, the Sapiarchs erected warding stones to keep her from returning. \n\nKill Caanerin and activate those stones."
+msgstr "ええ。ケイネリンのような古代のインドリクは森の神イフレと深いつながりを持っている。雑草みたいに、とても粘り強いの。幸い、サピアルチは彼女の帰還を防ぐ結界石を建てている\r\n\r\nケイネリンを倒して、結界石を発動させて"
+
+#: 20958740-1-7396
+#, fuzzy
+msgctxt "20958740-1-7396"
+msgid "All right. I'll defeat Caanerin and activate the warding stones."
+msgstr "わかった。ケイネリンを倒して結界石を発動しよう"
+
+#: 3952276-1-7395
+msgctxt "3952276-1-7395"
+msgid "Coral crab eggs, from the reef between Corgrad and Lillandril. Handle them carefully, and beware the Queen of the Reef. That giant coral crab has killed many an ambitious gourmand, but if she has been perverted by unholy powers she must be purged."
+msgstr "コルグラドとリランドリルの間のサンゴ礁で手に入る、コーラル・クラブの卵よ。卵は丁寧に扱って。サンゴ礁の女王にも要注意よ。あの大蟹は、美食家を何人も殺してきた。もしあれが不浄な力で変容したのなら、退治しなくては"
+
+#: 20958740-1-7395
+msgctxt "20958740-1-7395"
+msgid "I'll take care of it."
+msgstr "何とかしよう"
+
+#: 3952276-0-7601
+#, fuzzy
+msgctxt "3952276-0-7601"
+msgid "Seeking skilled jewelry crafters to hammer out some rings and necklaces. Remember, the wealth you wear is always with you! Carefully examine specific orders as you take them from the board!"
+msgstr "指輪とネックレスを作れる優れた宝飾師を募集。身につける富は常に持ち歩けるものだ！ ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-7601
+#, fuzzy
+msgctxt "20958740-0-7601"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-7601
+msgctxt "249936564-0-7601"
+msgid "<Examine the Jewelry Crafting Writs.>"
+msgstr "<宝飾師のクラフト依頼を調べる>"
+
+#: 3952276-0-7600
+#, fuzzy
+msgctxt "3952276-0-7600"
+msgid "Seeking skilled jewelry crafters to hammer out some rings and necklaces. Remember, the wealth you wear is always with you! Carefully examine specific orders as you take them from the board!"
+msgstr "指輪とネックレスを作れる優れた宝飾師を募集。身につける富は常に持ち歩けるものだ！ ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-7600
+#, fuzzy
+msgctxt "20958740-0-7600"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-7600
+msgctxt "249936564-0-7600"
+msgid "<Examine the Jewelry Crafting Writs.>"
+msgstr "<宝飾師のクラフト依頼を調べる>"
+
+#: 3952276-0-7598
+#, fuzzy
+msgctxt "3952276-0-7598"
+msgid """Do you hunger for knowledge? The Mages Guild seeks only the most talented, smartest, and skilled for its ranks.\n\nDo you have what it takes? Seek out Curinure at the Mages Guild."""
+msgstr "「知識に飢えていますか？ 魔術師ギルドは才能と知性、技を持つ者だけを求めています\r\n\r\n自分が当てはまると思うなら、魔術師ギルドのクリヌレまでご連絡ください"
+
+#: 20958740-0-7598
+#, fuzzy
+msgctxt "20958740-0-7598"
+msgid "I should find Curinure at the Mages Guild."
+msgstr "魔術師ギルドでクリヌレを探す"
+
+#: 205344756-0-7598
+#, fuzzy
+msgctxt "205344756-0-7598"
+msgid "I found a handbill that talks about the Mages Guild."
+msgstr "魔術師ギルドに関するチラシを見つけた"
+
+#: 3952276-0-7597
+#, fuzzy
+msgctxt "3952276-0-7597"
+msgid """Ready for adventure? The Fighters Guild is looking for strong hearts and stout arms to combat the Daedric threat.\n\nSeek out Aicessar at the Fighters Guild today!"""
+msgstr "「冒険の準備はいいか？ 戦士ギルドはデイドラの脅威に立ち向かう、勇敢な心と強靭な肉体を持つ者を求めている\r\n\r\n今すぐ戦士ギルドで、アイセサルを探し出せ！」"
+
+#: 20958740-0-7597
+#, fuzzy
+msgctxt "20958740-0-7597"
+msgid "I should find Aicessar at the Fighters Guild."
+msgstr "戦士ギルドのアイセサルを見つける"
+
+#: 205344756-0-7597
+#, fuzzy
+msgctxt "205344756-0-7597"
+msgid "I found a handbill that talks about the Fighters Guild."
+msgstr "戦士ギルドに関するチラシを見つけた"
+
+#: 3952276-0-7596
+#, fuzzy
+msgctxt "3952276-0-7596"
+msgid """Do not dishonor Grand Warlord Sorcalin by forcing her to report the loss of all of our border keeps to the Queen. General Thoron demands we retaliate and recapture Castle Bloodmayne, Black Boot, and Faregyl! Restore the Dominion!\n\n- Scribe Fireluin"""
+msgstr """Do not dishonor Grand Warlord Sorcalin by forcing her to report the loss of all of our border keeps to the Queen. General Thoron demands we retaliate and recapture Castle Bloodmayne, Black Boot, and Faregyl! Restore the Dominion!\r\n\r\n- Scribe Fireluin"""
+
+#: 20958740-0-7596
+msgctxt "20958740-0-7596"
+msgid "<Accept Mission.>"
+msgstr "<Accept Mission.>"
+
+#: 249936564-0-7596
+msgctxt "249936564-0-7596"
+msgid "<Examine Notice.>"
+msgstr "<Examine Notice.>"
+
+#: 3952276-0-7595
+#, fuzzy
+msgctxt "3952276-0-7595"
+msgid """We have shamed Grand Warlord Dortene by allowing the keeps within our territory fall into enemy hands! We cannot let this stand. Liberate Fort Warden, Fort Glademist, and Fort Rayles immediately!\n\n- General Am-Shadal"""
+msgstr "「我らが領域内にある砦を敵に奪わせたことで、我々はドルテーヌ大将軍に恥辱を与えてしまった！ これを見過ごすわけにはいかない。ウォーデン砦、グレイドミスト砦、レイレス砦を即座に解放せよ！\r\n\r\n- アム・シャダル将軍」"
+
+#: 20958740-0-7595
+msgctxt "20958740-0-7595"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7595
+msgctxt "249936564-0-7595"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7594
+#, fuzzy
+msgctxt "3952276-0-7594"
+msgid """An urgent recall order from Grand Warlord Zimmeron! All Pact warriors are to rally and secure our territory by recapturing Arrius, Farragut, and Kingscrest keeps! Make haste!\n\n- Scribe Dreet-Wulm"""
+msgstr "「ジマーロン大将軍より緊急招集だ！ 全パクトの戦士は集結し、アリウス、ファッラガト、キングズクレスト砦を奪還し、我らの領域を防衛せよ！ 急げ！\r\n\r\n――ドリート・ウルム書記官」"
+
+#: 20958740-0-7594
+msgctxt "20958740-0-7594"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7594
+msgctxt "249936564-0-7594"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7593
+#, fuzzy
+msgctxt "3952276-0-7593"
+msgid """Grand Warlord Sorcalin believes that now is the opportune moment to strike the Pact's strongholds. All Dominion warriors are to muster for an all-out assault on Arrius, Farragut, and Kingscrest keeps. Do your part!\n\n- Scribe Fireluin"""
+msgstr "「ソルカリン大将軍は、今こそパクトの要塞を攻める好機だと考えている。全ドミニオンの戦士たちはアリウス、ファッラガト、キングズクレスト砦への総攻撃のため集結せよ。役目を果たせ！\r\n\r\n- フィアルイン書記官」"
+
+#: 20958740-0-7593
+msgctxt "20958740-0-7593"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7593
+msgctxt "249936564-0-7593"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7592
+#, fuzzy
+msgctxt "3952276-0-7592"
+msgid """Grand Warlord Dortene has endured the stench of the heathen Pact long enough. Today we will push those barbarians back to their hovels by prying Arrius, Farragut, and Kingscrest keeps from their grasp! Show no mercy!\n\n- General Am-Shadal"""
+msgstr "「ドルテーヌ大将軍はパクトの異教徒の悪臭にもう十分に耐えてきた。今日、我々はアリウス、ファッラガト、キングズクレスト砦の支配を奪い、あの蛮族どもを家畜小屋に押し返すのだ！ 容赦するな！\r\n\r\n- アム・シャダル将軍」"
+
+#: 20958740-0-7592
+msgctxt "20958740-0-7592"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7592
+msgctxt "249936564-0-7592"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7591
+#, fuzzy
+msgctxt "3952276-0-7591"
+msgid """Grand Warlord Dortene wants the prideful Aldmeri Dominion humbled this day! She calls for Castle Faregyl, Castle Black Boot, and Castle Bloodmayne be smashed by a warrior wave not seen since Yokudan times. Go forth!\n\n- General Am-Shadal"""
+msgstr "「ドルテーヌ大将軍は今日、高慢なアルドメリ・ドミニオンの敗北をご所望だ！ 大将軍はフェアユール城、ブラックブート城、ブラッドメイン城を、ヨクダの時代以来絶えて久しい、戦士の波状攻撃によって粉砕せよと呼びかけている。進め！\r\n\r\n- アム・シャダル将軍」"
+
+#: 20958740-0-7591
+msgctxt "20958740-0-7591"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7591
+msgctxt "249936564-0-7591"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7590
+#, fuzzy
+msgctxt "3952276-0-7590"
+msgid """Grand Warlord Sorcalin has designated Covenant fortifications a strategic priority! All Dominion warriors are hereby directed to capture Fort Glademist, Fort Warden, and Fort Rayles with all due haste!\n\n- Scribe Fireluin"""
+msgstr "「ソルカリン大将軍は、カバナントの砦を戦略的優先目標に指定した！ 全てのドミニオン戦士たちはこれよりグレイドミスト砦、ウォーデン砦、レイレス砦を至急奪取するよう求められている！\r\n\r\n- フィアルイン書記官」"
+
+#: 20958740-0-7590
+msgctxt "20958740-0-7590"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7590
+msgctxt "249936564-0-7590"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7589
+#, fuzzy
+msgctxt "3952276-0-7589"
+msgid """Grand Warlord Zimmeron commands that we focus our wrath toward the Dominion this day! All warriors are ordered to sack Castle Faregyl, Castle Black Boot, and Castle Bloodmayne for the glory of the Pact!\n\n- Scribe Dreet-Wulm"""
+msgstr "「ジマーロン大将軍は今日、我らが怒りをドミニオンに集中する指令を出している！ 全ての戦士たちはフェアユール城、ブラックブート城、ブラッドメイン城を、パクトの栄光のために奪うよう命じられている！\r\n\r\n――ドリート・ウルム書記官」"
+
+#: 20958740-0-7589
+msgctxt "20958740-0-7589"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7589
+msgctxt "249936564-0-7589"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7588
+#, fuzzy
+msgctxt "3952276-0-7588"
+msgid """Grand Warlord Zimmeron is calling for an all-out assault on the Covenant! All Pact warriors are urged to join the attack and capture Fort Glademist, Fort Warden, and Fort Rayles!\n\n- Scribe Dreet-Wulm"""
+msgstr "「ジマーロン大将軍はカバナントへの総攻撃を呼び掛けている！ すべてのパクトの戦士たちが攻撃に参加し、グレイドミスト砦、ウォーデン砦、レイレス砦を確保するよう要請されている！\r\n\r\n――ドリート・ウルム書記官」"
+
+#: 20958740-0-7588
+msgctxt "20958740-0-7588"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7588
+msgctxt "249936564-0-7588"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7587
+msgctxt "3952276-0-7587"
+msgid "Seeking skilled jewelry crafters to hammer out some rings and necklaces. Remember, the wealth you wear is always with you! Carefully examine specific orders as you take them from the board!"
+msgstr "指輪とネックレスを作れる優れた宝飾師を募集。身につける富は常に持ち歩けるものだ！ ボードから外す際に細かい指示を確認しておくように！"
+
+#: 20958740-0-7587
+msgctxt "20958740-0-7587"
+msgid "<Pull a Writ from the Board.>"
+msgstr "<依頼を掲示板からはがす>"
+
+#: 249936564-0-7587
+msgctxt "249936564-0-7587"
+msgid "<Examine the Jewelry Crafting Writs.>"
+msgstr "<宝飾師のクラフト依頼を調べる>"
+
+#: 3952276-0-7586
+#, fuzzy
+msgctxt "3952276-0-7586"
+msgid """The people of Cyrodiil cry out to be liberated from the Pact and Dominion dregs who have overstayed their welcome. Drive these unclean vermin from the towns of Vlastarus, Cropsford and Bruma and claim them for the Covenant!\n\n- General Am-Shadal"""
+msgstr "「シロディールの民は、いつまでも居座っているパクトとドミニオンの小物からの解放を求めて叫んでいる。あの不潔な害虫どもをヴラスタルス、クロップスフォード、ブルーマから追い払い、街をカバナントのために奪取せよ！\r\n\r\n- アム・シャダル将軍」"
+
+#: 20958740-0-7586
+msgctxt "20958740-0-7586"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7586
+msgctxt "249936564-0-7586"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7585
+#, fuzzy
+msgctxt "3952276-0-7585"
+msgid """It takes more than gold to maintain an army. Food, lumber, and are all in high demand. Grand Warlord Dortene, requires nine more mills, mines, and farms to supply the Covenant! Go and claim them!\n\n- Scribe Grulzul"""
+msgstr "「軍隊を維持するために必要なのはゴールドだけではない。食事や木材も大量に必要だ。ドルテーヌ大将軍はカバナントの物資を補給するため、9つの製材所、鉱山、農場の占拠を求めている！ 奪ってこい！\r\n\r\n- グラルズール書記官」"
+
+#: 20958740-0-7585
+msgctxt "20958740-0-7585"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7585
+msgctxt "249936564-0-7585"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7584
+#, fuzzy
+msgctxt "3952276-0-7584"
+msgid """Our enemies soil our rightful domain with their banners and their filth. Grand Warlord Dortene cannot abide this insult and neither should any true warrior of the Covenant. Purge three keeps of the unworthy scum!\n\n- General Am-Shadal"""
+msgstr "「敵は我らの正当なる領域を、奴らの旗で汚している。ドルテーヌ大将軍はこの侮辱に甘んじることはできぬ。カバナントの真の戦士ならば誰であっても、甘んじてはならない。3つの砦から、身の程をわきまえぬ下郎どもを排除せよ！\r\n\r\n- アム・シャダル将軍」"
+
+#: 20958740-0-7584
+msgctxt "20958740-0-7584"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7584
+msgctxt "249936564-0-7584"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7583
+#, fuzzy
+msgctxt "3952276-0-7583"
+msgid """Notice to all Covenant warriors:\n\nGrand Warlord Dortene is offering a bounty for the decimation of enemy ranks. Slaying 40 Pact or Dominion soldiers will entitle you to this substantial bonus."""
+msgstr "「カバナントの全ての戦士たちへ\r\n\r\n「ドルテーヌ大将軍は敵の戦列を壊滅させれば報奨金を支払うと申し出ている。パクトかドミニオンの兵士40人を殺せば、多額の報奨金を手にできる」"
+
+#: 20958740-0-7583
+msgctxt "20958740-0-7583"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7583
+msgctxt "249936564-0-7583"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7582
+#, fuzzy
+msgctxt "3952276-0-7582"
+msgid """Grand Warlord Sorcalin believes any Dominion soldier is the match of 40 of our enemies and has offered a substantial bounty to any warriors who prove her estimation to be true.\n\nNow, go and claim the lives of 40 warriors of the Pact or Covenant."""
+msgstr "「ソルカリン大将軍は、いかなるドミニオン兵士も40人の敵と互角に戦えると信じている。この計算の正しさを証明した戦士には、多額の報奨金を提示している\r\n\r\nさあ、パクトかカバナントの戦士40人の命を奪ってこい」"
+
+#: 20958740-0-7582
+msgctxt "20958740-0-7582"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7582
+msgctxt "249936564-0-7582"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7581
+#, fuzzy
+msgctxt "3952276-0-7581"
+msgid "Grand Warlord Sorcalain has declared the towns of Bruma, Cropsford and Vlastarus as eminent domain. Capture these towns for the Dominion!\n\n- Scribe Fireluin"
+msgstr "ソルカリン大将軍はブルーマ、クロップスフォード、ヴラスタルスの街がとりわけ重要な目標であると宣言した。これらの街をドミニオンのために奪取せよ！\r\n\r\n- フィアルイン書記官"
+
+#: 20958740-0-7581
+msgctxt "20958740-0-7581"
+msgid "<Accept Mission>"
+msgstr "<任務を受け入れる>"
+
+#: 249936564-0-7581
+#, fuzzy
+msgctxt "249936564-0-7581"
+msgid "<Examine Notice>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7580
+#, fuzzy
+msgctxt "3952276-0-7580"
+msgid """Farms, lumber mills and mines sustain the war efforts of our enemies, just as they sustain our own. Grand Warlord Sorcalin's orders the capture of any nine of these resources, so that they are not wasted by our inferior foes.\n\n- Scribe Fireluin"""
+msgstr "「農場、製材所、鉱山は我々の戦いを支えていると同様、敵の戦いも支えている。ソルカリン大将軍はこれらの資源が下等な敵によって無駄遣いされることのないよう、9つ奪取することを命じている\r\n\r\n- フィアルイン書記官」"
+
+#: 20958740-0-7580
+msgctxt "20958740-0-7580"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7580
+msgctxt "249936564-0-7580"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7579
+#, fuzzy
+msgctxt "3952276-0-7579"
+msgid """By decree of Grand Warlord Sorcalin, three keeps are to be captured this day. Bravest and most noble warriors, answer this call!\n\n- Scribe Fireluin"""
+msgstr "「ソルカリン大将軍の命により、今日は3つの砦を奪取せねばならない。最も勇敢にして高潔な戦士たちよ、この呼びかけに答えよ！\r\n\r\n- フィアルイン書記官」"
+
+#: 20958740-0-7579
+msgctxt "20958740-0-7579"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7579
+msgctxt "249936564-0-7579"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7578
+#, fuzzy
+msgctxt "3952276-0-7578"
+msgid """Warriors:\n\nGrand Warlord Zimmeron demands the blood of yet more Dominion and Covenant soldiers. Slay 40 or more of our enemies and you will be handsomely rewarded."""
+msgstr "戦士達よ:\r\n\r\nジマーロン大将軍は、ドミニオンとカバナント兵士の血を求めている。40人以上の敵を倒すのだ。そうすれば報酬が与えられるであろう"
+
+#: 20958740-0-7578
+msgctxt "20958740-0-7578"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7578
+msgctxt "249936564-0-7578"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7577
+#, fuzzy
+msgctxt "3952276-0-7577"
+msgid """Your blades, ballistae, and rations do not grow on trees! Well, not entirely.Some trees are involved. In any case, we need more. Grand Warlord Zimmeron has ordered the capture of nine farms, lumber mills, or mines to this end!\n\n- Scribe Dreet-Wulm"""
+msgstr "「諸君の刀剣、バリスタ、食料は木になっているものではない！ 厳密に言うと一部の木は例外だが、いずれにせよさらに量が必要だ。ジマーロン大将軍は9つの農場、製材所、鉱山をそのために確保するよう命じている！\r\n\r\n――ドリート・ウルム書記官」"
+
+#: 20958740-0-7577
+msgctxt "20958740-0-7577"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7577
+msgctxt "249936564-0-7577"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7576
+#, fuzzy
+msgctxt "3952276-0-7576"
+msgid """Imperial City may be the core of empire, but the value of its outlying towns are not to be underestimated. Grand Warlord Zimmeron commands the Pact to occupy Vlastarus, Cropsford, and Bruma with minimal pillaging.\n\n- Scribe Dreet-Wulm"""
+msgstr "「帝都は帝国の中核だが、その周辺の街の価値もまた過小評価してはならない。ジマーロン大将軍はパクトに対し、ヴラスタルス、クロップスフォード、ブルーマを占拠することを命じている。ただし、略奪は最小限で\r\n\r\n――ドリート・ウルム書記官」"
+
+#: 20958740-0-7576
+msgctxt "20958740-0-7576"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7576
+msgctxt "249936564-0-7576"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7575
+#, fuzzy
+msgctxt "3952276-0-7575"
+msgid """Requested: One piece of fine jewelry under highly specific parameters. You know where I'll be."" — Rolis Hlaalu."
+msgstr "「特定の数値を満たす、素晴らしい宝飾品を作って欲しい、と依頼された。私の居場所は知っているだろう」 — ロリス・フラール"
+
+#: 20958740-0-7575
+msgctxt "20958740-0-7575"
+msgid "<Accept the contract.>"
+msgstr "<契約を受諾する>"
+
+#: 249936564-0-7575
+msgctxt "249936564-0-7575"
+msgid "<Open and accept the contract.>"
+msgstr "<契約を開いて受諾する>"
+
+#: 3952276-0-7574
+#, fuzzy
+msgctxt "3952276-0-7574"
+msgid """Requested: One piece of fine jewelry, fit for a master adventurer. Measurements included. See me when done."" — Rolis Hlaalu."
+msgstr "「大冒険家にふさわしい、素晴らしい宝飾品を作って欲しい、と依頼された。寸法は同封している。作成したら連絡してほしい」 — ロリス・フラール"
+
+#: 20958740-0-7574
+msgctxt "20958740-0-7574"
+msgid "<Accept the contract.>"
+msgstr "<契約を受諾する>"
+
+#: 249936564-0-7574
+msgctxt "249936564-0-7574"
+msgid "<Open and accept the contract.>"
+msgstr "<契約を開いて受諾する>"
+
+#: 3952276-0-7573
+#, fuzzy
+msgctxt "3952276-0-7573"
+msgid """Grand Warlord Zimmeron seeks the capture of three keeps today and you had best not disappoint him! To bring about this crushing victory, all Pact warriors are encouraged to reap their share of the glory!\n\n- Scribe Dreet-Wulm"""
+msgstr "「ジマーロン大将軍は今日、3つの砦の確保を目指している。彼を失望させてはならない！ 圧倒的勝利をもたらすため、すべてのパクトの戦士たちが栄誉を分かち合うことが求められている！\r\n\r\n――ドリート・ウルム書記官」"
+
+#: 20958740-0-7573
+msgctxt "20958740-0-7573"
+msgid "<Accept Mission.>"
+msgstr "<ミッションを受諾する>"
+
+#: 249936564-0-7573
+msgctxt "249936564-0-7573"
+msgid "<Examine Notice.>"
+msgstr "<告知を検討する>"
+
+#: 3952276-0-7572
+#, fuzzy
+msgctxt "3952276-0-7572"
+msgid "You know, I didn't think to ask. Maybe it has to do with the missing relics? Yes, that sounds about right."
+msgstr "そういえば、聞こうと思わなかった。紛失した遺物と関係があるのかな？ うん、きっとそうだわ"
+
+#: 20958740-0-7572
+msgctxt "20958740-0-7572"
+msgid "Relics have gone missing from Artaeum?"
+msgstr "遺物がアルテウムから消えた？"
+
+#: 249936564-0-7572
+msgctxt "249936564-0-7572"
+msgid "The Relicmaster is looking for me? Why?"
+msgstr "遺物マスターが探している？ なぜだ？"
+
+#: 3952276-0-7571
+#, fuzzy
+msgctxt "3952276-0-7571"
+msgid "The Sea Sloads have unleashed abyssal geysers that can sink the island. They assumed we'd be so concerned with the creatures that bubbled out of them that we'd fail to realize the true danger until it was too late.\n\nLet's disappoint them, shall we?"
+msgstr "シースロードはこの島を沈没させかねない、アビサルガイザーを解き放った。彼らはガイザーから出てきた怪物に私たちが気を取られて、手遅れになるまで真の危険に気づかないだろうと思い込んでいる\r\n\r\n彼らの期待を裏切ってやりましょう"
+
+#: 20958740-0-7571
+#, fuzzy
+msgctxt "20958740-0-7571"
+msgid "What do you have in mind?"
+msgstr "何を考えている？"
+
+#: 249936564-0-7571
+#, fuzzy
+msgctxt "249936564-0-7571"
+msgid "How do we act on the information Cainar and Miriya uncovered?"
+msgstr "カイナーとミリヤが集めた情報を元に、どう動けばいい？"
+
+#: 3952276-0-7570
+msgctxt "3952276-0-7570"
+msgid "Ulliceta gra-Kogg. We're not friends, exactly. More like colleagues. Well … perhaps we are friends. I'm not sure. She doesn't make it easy.\n\nAnyway, none of that matters. What matters is that she's put herself in harm's way. Again."
+msgstr "ウリセタ・グラコグ。同僚のようなものだ。まあ… 友人かもしれない。彼女は付き合い難い\r\n\r\nとにかく、そんなことはどうでもいい。大事なのは、彼女が危険に身をさらしているということだ"
+
+#: 20958740-0-7570
+msgctxt "20958740-0-7570"
+msgid "What kind of trouble?"
+msgstr "どんな問題だ？"
+
+#: 249936564-0-7570
+msgctxt "249936564-0-7570"
+msgid "Who's your friend?"
+msgstr "友人とは誰だ？"
+
+#: 3952276-0-7569
+msgctxt "3952276-0-7569"
+msgid "Many of my friends have gone missing near these ruins. Ruliel still holds out hope that they will return, but I am leaving this place before I share their fate."
+msgstr "あの遺跡付近で何人も行方不明になっている。ルリエルはみんなが見つかると信じているが、私はさっさとここを去るつもりだ"
+
+#: 20958740-0-7569
+msgctxt "20958740-0-7569"
+msgid "Where can I find this Ruliel?"
+msgstr "ルリエルはどこにいる？"
+
+#: 249936564-0-7569
+msgctxt "249936564-0-7569"
+msgid "Vanished? People are disappearing?"
+msgstr "消えた？ 失踪しているのか？"
+
+#: 3952276-0-7568
+msgctxt "3952276-0-7568"
+msgid "I am a sage of the Psijic Order, as I assumed you would have realized since we're standing upon Artaeum.\n\nBut I have a message. The Ritemaster requires your assistance. As I was going out anyway, I agreed to act as a messenger for you."
+msgstr "私はサイジックの賢者だ。ここはアルテウムだから、そんなことはわかってるだろうが\r\n\r\nちょうど出るところだったから、ついでにお前への伝言を引き受けた。ライトマスターがね、何か、手を貸してほしいんだって"
+
+#: 20958740-0-7568
+msgctxt "20958740-0-7568"
+msgid "What does the Ritemaster need me me to do?"
+msgstr "ライトマスターは何をしてほしい？"
+
+#: 249936564-0-7568
+msgctxt "249936564-0-7568"
+msgid "Do I know you?"
+msgstr "どこかで会ったか？"
+
+#: 3952276-0-7567
+#, fuzzy
+msgctxt "3952276-0-7567"
+msgid "It concerns the Crystal Tower. I fear that the Sapiarchs can no longer handle the tower's protection alone, given its current state.\n\nBut please, return to the Dreaming Cave. We'll discuss the details once you arrive."
+msgstr "水晶の塔に関係することよ。サピアルチはもう、単独で塔の守りを維持できないかもしれない\r\n\r\nとにかく、夢見の洞窟に戻って。到着したら、詳しいことを話しましょう"
+
+#: 20958740-0-7567
+#, fuzzy
+msgctxt "20958740-0-7567"
+msgid "I'll come find you in the Dreaming Cave."
+msgstr "夢見の洞窟で会おう"
+
+#: 249936564-0-7567
+msgctxt "249936564-0-7567"
+msgid "Is something wrong?"
+msgstr "どうした？"
+
+#: 3952276-0-7566
+#, fuzzy
+msgctxt "3952276-0-7566"
+msgid "The Ritemaster sent me to warn the Sapiarchs of the danger to the Crystal Tower. I want to get to Lillandril as soon as possible so I can scout the area and look for signs of the Court of Bedlam.\n\nI need you to go to the Royal Palace in Alinor."
+msgstr "ライトマスターはサピアルチに水晶の塔の危機を知らせるために私を派遣した。できるだけ早くリランドリルに行って、〈ベドラムの宮廷〉の痕跡を探すつもりよ\r\n\r\nあなたには、アリノールの王宮に行ってもらいたいの"
+
+#: 20958740-0-7566
+#, fuzzy
+msgctxt "20958740-0-7566"
+msgid "What do you want me to do at the Royal Palace?"
+msgstr "王宮で何をさせたい？"
+
+#: 249936564-0-7566
+msgctxt "249936564-0-7566"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 3952276-0-7565
+#, fuzzy
+msgctxt "3952276-0-7565"
+msgid "The Ritemaster wants us to warn the Sapiarchs about the danger to the Crystal Tower. I need to get to Lillandril and make sure the Court of Bedlam isn't about to do something terrible.\n\nIn the meantime, I'd like you to go to Alinor's Royal Palace."
+msgstr "ライトマスターは、私たちがサピアルチに水晶の塔の危機を伝えることを望んでいるの。私はリランドリルに行って、〈ベドラムの宮廷〉が何を企んでいるのか、確かめないといけない\r\n\r\nあなたはアリノールの王宮に行って"
+
+#: 20958740-0-7565
+#, fuzzy
+msgctxt "20958740-0-7565"
+msgid "Why do you want me to go to the Royal Palace in Alinor?"
+msgstr "アリノールの王宮になぜ行かせたい？"
+
+#: 249936564-0-7565
+msgctxt "249936564-0-7565"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 3952276-0-7564
+#, fuzzy
+msgctxt "3952276-0-7564"
+msgid "The Ritemaster sent me to warn the Sapiarchs of the danger to the Crystal Tower. I want to get to Lillandril and scout out the area, make sure the Court of Bedlam isn't around.\n\nI need you to go to the Royal Palace in Alinor."
+msgstr "ライトマスターはサピアルチに水晶の塔の危機を伝えるために私を派遣した。リランドリルに行ってあの一帯を調査し、〈ベドラムの宮廷〉の動きがないか確かめたいの\r\n\r\nあなたには、アリノールにある王宮に行ってもらいたい"
+
+#: 20958740-0-7564
+#, fuzzy
+msgctxt "20958740-0-7564"
+msgid "Why do you need me to go to the Royal Palace in Alinor?"
+msgstr "アリノールの王宮になぜ行かせたい？"
+
+#: 249936564-0-7564
+msgctxt "249936564-0-7564"
+msgid "What kind of help do you need?"
+msgstr "何を手伝ってほしい？"
+
+#: 3952276-0-7563
+#, fuzzy
+msgctxt "3952276-0-7563"
+msgid "I'm not sure. It was in the scrying pool in the main gallery of the tower one moment, and then the next it was gone.\n\nThat's why the Ritemaster sent me to look for you. He needs your help."
+msgstr "わからない。塔のメインギャラリーの占い盤にあったと思ったら、次の瞬間にはなくなってたの\r\n\r\nそれでライトマスターにあなたを探せって言われたのよ。あなたの助けが必要だって"
+
+#: 20958740-0-7563
+#, fuzzy
+msgctxt "20958740-0-7563"
+msgid "Where's the Ritemaster now?"
+msgstr "ライトマスターはどこにいる？"
+
+#: 205344756-0-7563
+#, fuzzy
+msgctxt "205344756-0-7563"
+msgid "Ritemaster Iachesis of the Psijic Order hopes to use the abyssal pearl to determine where K'Tora and the Sea Sload cabal are hiding. Unfortunately, the pearl is no longer in the main gallery. It vanished!"
+msgstr "サイジックのライトマスター・イアケシスは、アビサルの真珠からク・トラとシースロードの徒党の隠れ場所を知りたいようだ。残念ながら、真珠はメインギャラリーから姿を消した。消えたのだ！"
+
+#: 249936564-0-7563
+#, fuzzy
+msgctxt "249936564-0-7563"
+msgid "The abyssal pearl vanished? Tell me what happened."
+msgstr "アビサルの真珠が消えた？ 何が起こった"
+
+#: 3952276-0-7562
+#, fuzzy
+msgctxt "3952276-0-7562"
+msgid "Me too! Well, usually I only write about them, but I decided to finally try my hand at the real thing. So here I am. In Goblin territory. Taking record of the grand battles between the High Elves and the Goblins with my scribe. Or I was …."
+msgstr "私もそうなんだ！ まあ、私は普段旅人について書くだけだが、ついに自分で体験しようと決めたんだ。それでここにいる。ゴブリンの縄張りにね。書記と一緒に、ハイエルフとゴブリンの大規模な戦いの記録を取っているんだ。取っていた、というべきか…"
+
+#: 20958740-0-7562
+#, fuzzy
+msgctxt "20958740-0-7562"
+msgid "What happened?"
+msgstr "何があった？"
+
+#: 249936564-0-7562
+#, fuzzy
+msgctxt "249936564-0-7562"
+msgid "I am. Why?"
+msgstr "ああ。なぜだ？"
+
+#: 3952276-0-7561
+#, fuzzy
+msgctxt "3952276-0-7561"
+msgid "I suppose, but it feels strange to be making deals with creatures that were our enemies only moments ago.\n\nPlease, go speak to Valsirenn. She carries the burden of the Ritemaster's death like a weight upon her shoulders. She could use your help."
+msgstr "確かにそうかもしれないけど、ほんの一瞬前まで敵だった連中と取引するなんて、妙な気分ね\r\n\r\nねえ、ヴァルサイレンと話をして。彼女はライトマスターの死という重荷を背負ってる。助けになってあげて"
+
+#: 20958740-0-7561
+#, fuzzy
+msgctxt "20958740-0-7561"
+msgid "I'll talk to Valsirenn."
+msgstr "ヴァルサイレンと話そう"
+
+#: 249936564-0-7561
+#, fuzzy
+msgctxt "249936564-0-7561"
+msgid "Our only chance to get into the Crystal Tower is an alliance with Clavicus Vile and Mephala."
+msgstr "水晶の塔へ入るには、クラヴィカス・ヴァイルやメファーラと組むしかない"
+
+#: 3952276-0-7560
+#, fuzzy
+msgctxt "3952276-0-7560"
+msgid "I am a sage of the Psijic Order, though you might not recognize me in this role of messenger.\n\nThe Ritemaster has requested your assistance. As I had business in the area, I said I would keep an eye out for you."
+msgstr "私はサイジックの賢者だ。ただのお使いには見えなかろう\r\n\r\nライトマスターが、お前に協力を要請している。私はここに用事があったから、ついでにお前に伝えにきたんだ、うん"
+
+#: 20958740-0-7560
+#, fuzzy
+msgctxt "20958740-0-7560"
+msgid "What does the Ritemaster need me to do?"
+msgstr "ライトマスターは何をしてほしい？"
+
+#: 249936564-0-7560
+#, fuzzy
+msgctxt "249936564-0-7560"
+msgid "Do I know you?"
+msgstr "どこかで会ったか？"
+
+#: 3952276-0-7559
+#, fuzzy
+msgctxt "3952276-0-7559"
+msgid "You need to speak to Iachesis about this. All he said to me was that he remembers a whisper, a woman speaking the same words over and over. He thinks it has something to do with the barrier and where he hid the Heart of Transparent Law."
+msgstr "それに関しては、イアケシスと話して。私が聞いたのは、何度も同じ言葉を繰り返す女の囁き声を思い出した、っていうことだけよ。あの障壁や、透明なる法の心臓を隠した場所に関係があると、彼は考えているようね"
+
+#: 20958740-0-7559
+#, fuzzy
+msgctxt "20958740-0-7559"
+msgid "He doesn't know what the words mean?"
+msgstr "その言葉がどういう意味かは知らないのか？"
+
+#: 249936564-0-7559
+#, fuzzy
+msgctxt "249936564-0-7559"
+msgid "The Ritemaster remembered something else?"
+msgstr "ライトマスターが何かを思い出したのか？"
+
+#: 3952276-0-7558
+#, fuzzy
+msgctxt "3952276-0-7558"
+msgid "That's the conundrum. Sotha Sil said he had information, but it was for the Ritemaster's ears only. He asked me to send the Ritemaster to see him when he returned from traveling the Dreaming Cave.\n\nI haven't told him what happened yet."
+msgstr "難題ね。ソーサ・シルは、情報があるけどライトマスターにしか伝えないって言ってたわ。ライトマスターが夢見の洞窟から戻ったらすぐ、自分に会いに来させるようにって\r\n\r\n彼にはまだ、何が起きたのか話してないの"
+
+#: 20958740-0-7558
+msgctxt "20958740-0-7558"
+msgid "We need to tell Sotha Sil that the Ritemaster is dead."
+msgstr "ソーサ・シルにライトマスターが死んだと伝えよう"
+
+#: 249936564-0-7558
+msgctxt "249936564-0-7558"
+msgid "Is Sotha Sil willing to help us?"
+msgstr "ソーサ・シルは助けてくれるだろうか？"
+
+#: 3952276-0-7557
+msgctxt "3952276-0-7557"
+msgid "Suddenly the ground opened, spewing water and strange creatures! They attacked us! Luckily, one of the newcomers, a Khajiit, leaped in and drove them back. Called himself Razum-dar.\n\nHe could probably use some help, if you're so inclined."
+msgstr "突然地面が裂けて、水と奇妙な獣が噴き出した！ そして襲いかかってきたんだ。運良く飛び込んできたカジートが追い返してくれた。ラズム・ダーって言ってたよ\r\n\r\nその気になったら、手伝ってやるといい"
+
+#: 20958740-0-7557
+msgctxt "20958740-0-7557"
+msgid "I'll go talk to Razum-dar."
+msgstr "ラズム・ダーと話そう"
+
+#: 249936564-0-7557
+msgctxt "249936564-0-7557"
+msgid "Monsters? Cat? Slow down and tell me what happened."
+msgstr "怪物？ 猫？ 落ち着いて、何が起こったか話してくれ"
+
+#: 205344756-0-7556
+msgctxt "205344756-0-7556"
+msgid "Queen Ayrenn requests your aid in important matters in the newly opened province of Summerset Isle. A boat leaves regularly from most major cities. Seek out the Eye of the Queen, Razum-dar, when you reach the beautiful city of Shimmerene."
+msgstr "新たに開かれたサマーセット諸島地域で、アイレン女王から重要な問題に対して支援を求められている。船はほとんどの大都市から定期的に出ている。美しい街シマーリーンに着いたら、〈女王の瞳〉のラズム・ダーを探す"
+
+#: 20958740-0-7555
+#, fuzzy
+msgctxt "20958740-0-7555"
+msgid "Where can I find the Ritemaster?"
+msgstr "ライトマスターはどこにいる？"
+
+#: 249936564-0-7555
+#, fuzzy
+msgctxt "249936564-0-7555"
+msgid "Does he remember where he hid the Heart of Transparent Law?"
+msgstr "どこに透明なる法の心臓を隠したのか、彼が思い出したのか？"
+
+#: 3952276-0-7554
+msgctxt "3952276-0-7554"
+msgid "Brengas got caught up in a love affair, see. Decided to run off with some High Elf named Niralin. I was supposed to meet them in Archon's Grove, help them get off the island.\n\nBut when I got there all I saw were werewolves!"
+msgstr "ブレンガスはニラリンとかいう、ハイエルフと駆け落ちしたのさ。俺はアルコンの森で彼らと落ち合って、この島から出るのを助ける手筈だった\r\n\r\nだが行ってみたら、そこはウェアウルフだらけだったんだ！"
+
+#: 20958740-0-7554
+msgctxt "20958740-0-7554"
+msgid "So Brengas and Niralin were captured by these werewolves?"
+msgstr "では、ブレンガスとニラリンはウェアウルフに捕らえられているのか？"
+
+#: 205344756-0-7554
+msgctxt "205344756-0-7554"
+msgid "While attempting to leave Summerset, Brengas and his lover Niralin were captured by werewolves. Niralin's former betrothed Esterdel is looking for them. He'll probably have more information."
+msgstr "サマーセットを出ようとしたところで、ブレンガスと恋人のニラリンはウェアウルフに捕らえられたようだ。ニラリンの元婚約者、エスターデルが彼を探している。おそらくもっと情報を持っているだろう"
+
+#: 249936564-0-7554
+msgctxt "249936564-0-7554"
+msgid "What happened?"
+msgstr "何があった？"
+
+#: 3952276-0-7553
+#, fuzzy
+msgctxt "3952276-0-7553"
+msgid """Adventure awaits! Queen Ayrenn has opened Summerset, home of the High Elves, to trade and travel. Come and explore the jewel of the sea, the birthplace of magic! A boat leaves regularly from most major cities. Talk to a navigator to book passage."""
+msgstr "「冒険が待っている！ アイレン女王はハイエルフの故郷、サマーセットを交易商人と旅行者に解放した。サマーセット諸島を訪れて、魔法が生まれた宝石のような海を探索しよう。船はほとんどの大都市から定期的に出ている。ナビゲーターと話して予約しよう」"
+
+#: 20958740-0-7553
+#, fuzzy
+msgctxt "20958740-0-7553"
+msgid "I should find a navigator and take a boat to Summerset."
+msgstr "ナビゲーターを探して、サマーセットへの船に乗ろう"
+
+#: 249936564-0-7553
+#, fuzzy
+msgctxt "249936564-0-7553"
+msgid "I should read the flyer."
+msgstr "チラシを読もう"
+
+#: 205344756-0-7552
+#, fuzzy
+msgctxt "205344756-0-7552"
+msgid "I found a note by a dead Dominion soldier, written by Captain Telomure. It describes a betrayal by Justiciar Avanaire. She's now hiding within the ruins of Tor-Hame-Khard."
+msgstr "ドミニオン兵士の死体から、テロムレ隊長によって書かれたメモを見つけた。司法高官アヴァナイレの裏切りについて記述されていた。彼女はトー・ヘイム・カードの遺跡の中に潜伏している"
+
+#: 20958740-0-7551
+msgctxt "20958740-0-7551"
+msgid "The Rule of Three?"
+msgstr "三人制度？"
+
+#: 249936564-0-7551
+msgctxt "249936564-0-7551"
+msgid "You mean there's been a murder?"
+msgstr "殺人が起こったことの話か？"
+
+#: 3952276-0-7546
+#, fuzzy
+msgctxt "3952276-0-7546"
+msgid "I looked through her things. An abominable breach of confidence, I know.\n\nIn any event, I found some renderings of a mine her family once owned—Divad's Chagrin. It is both remote and largely untouched by world events. Perfect for her endeavor."
+msgstr "彼女の持ち物を見た。すべきでない行為だとはわかっている\r\n\r\n彼女の家がかつて所有していた鉱山の見取り図を見つけた。ディヴァドの無念だ。世界の出来事から無縁で、ほぼ手付かず。彼女の計画にはぴったりだ"
+
+#: 20958740-0-7546
+#, fuzzy
+msgctxt "20958740-0-7546"
+msgid "Do you think she's hiding in this mine?"
+msgstr "この鉱山に隠れていると思っているのか？"
+
+#: 249936564-0-7546
+#, fuzzy
+msgctxt "249936564-0-7546"
+msgid "All right. How are we going to find her?"
+msgstr "わかった。彼女をどう探せばいい？"
+
+#: 3952276-0-7545
+#, fuzzy
+msgctxt "3952276-0-7545"
+msgid "According to our scryers' visions, fragments lay buried near the Brothers of Strife in Stonefalls, the Weeping Giant in Stormhaven, Greenheart in Greenshade, and the Spellscar in Craglorn.\n\nEach of these locations hold great Aurbic significance."
+msgstr "ストンフォールの闘争家の兄弟、ストームヘヴンの嘆きの巨人、グリーンシェイドのグリーンハート、そしてクラグローンのスペルスカー。欠片はそれらの近くに埋められているそうだ\r\n\r\nそれぞれの場所は、アウルビクにとって非常に大きな意味がある"
+
+#: 20958740-0-7545
+#, fuzzy
+msgctxt "20958740-0-7545"
+msgid "What should I do when I reach these locations?"
+msgstr "そうした場所についたら、何をすればいい？"
+
+#: 249936564-0-7545
+#, fuzzy
+msgctxt "249936564-0-7545"
+msgid "All right. Where can I find these fragments?"
+msgstr "わかった。欠片はどこで見つかる？"
+
+#: 3952276-0-7544
+#, fuzzy
+msgctxt "3952276-0-7544"
+msgid "The staff comprises eight pieces—one for each of Nirn's girding towers. Whatever force drew the staff back to Tamriel scattered these pieces across the continent.\n\nWe managed to scry the locations of four of them. The others elude us. For now."
+msgstr "あの杖は8つの欠片から成る。それぞれがニルンを取り囲む塔に対応しているのだ。あの杖をタムリエルへ戻した何らかの力が、大陸中に欠片を散乱させた\r\n\r\n位置を特定できたのは4つだけだ。今のところな"
+
+#: 20958740-0-7544
+#, fuzzy
+msgctxt "20958740-0-7544"
+msgid "All right, where are these four pieces?"
+msgstr "わかった。その4つの位置は？"
+
+#: 249936564-0-7544
+#, fuzzy
+msgctxt "249936564-0-7544"
+msgid "Yes. Where do I start?"
+msgstr "わかった。どこから始めればいい？"
+
+#: 3952276-0-7543
+#, fuzzy
+msgctxt "3952276-0-7543"
+msgid "Now that we can labor over the staff without the … complications Josajeh introduced, I am confident we will render the artifact harmless soon.\n\nUnfortunately, one cluster of time breaches remains. This time, in the barren land of Craglorn."
+msgstr "あの杖の問題に、ジョサジェーが持ち込んだ厄介事なしに向き合えるようになった。もうすぐ、あのアーティファクトは無害にできるだろう\r\n\r\n残念ながら、まだ時の裂け目が残っている。今回は不毛の地、クラグローンだ"
+
+#: 20958740-0-7543
+#, fuzzy
+msgctxt "20958740-0-7543"
+msgid "So I should travel to Craglorn and seal these breaches?"
+msgstr "クラグローンに向かって、時の裂け目を塞げばいいのか？"
+
+#: 249936564-0-7543
+#, fuzzy
+msgctxt "249936564-0-7543"
+msgid "Yes, I am prepared, Loremaster."
+msgstr "わかった。準備はできている、ロアマスター"
+
+#: 3952276-0-7542
+#, fuzzy
+msgctxt "3952276-0-7542"
+msgid "Even with the staff fragments removed from Tamriel, time breaches continue to open across the continent. This time, in the forbidding land of Rivenspire.\n\nI only pray that they do not grow stronger now that the staff is so close to completion."
+msgstr "杖の欠片はタムリエルから取り除かれたが、時の裂け目は大陸中に開き続けている。今回は、禁じられた地リベンスパイアーだ\r\n\r\n杖が完成に近づいた今、裂け目がさらに広がらないことを祈るしかない"
+
+#: 20958740-0-7542
+#, fuzzy
+msgctxt "20958740-0-7542"
+msgid "So you need me to seal more breaches?"
+msgstr "さらに時の裂け目を塞ぐのか？"
+
+#: 249936564-0-7542
+#, fuzzy
+msgctxt "249936564-0-7542"
+msgid "What do you need me to do, Loremaster?"
+msgstr "次は何をすればいい、ロアマスター？"
+
+#: 3952276-0-7541
+#, fuzzy
+msgctxt "3952276-0-7541"
+msgid "Another cluster of time breaches appeared in the Wood Elves' homeland. Valenwood. We need you to seal these breaches, just as you did before. Josajeh will provide the tools you need.\n\nMay I ask another favor of you?"
+msgstr "ウッドエルフの故郷ヴァレンウッドに、またしても時の裂け目が現れた。以前と同じように、裂け目を閉じてもらいたい。ジョサジェーが必要な道具を渡してくれるだろう\r\n\r\nまた引き受けてもらえるか？"
+
+#: 20958740-0-7541
+#, fuzzy
+msgctxt "20958740-0-7541"
+msgid "Of course. What else do you need?"
+msgstr "もちろん。他に何をさせたい？"
+
+#: 249936564-0-7541
+#, fuzzy
+msgctxt "249936564-0-7541"
+msgid "Yes. Where do you need me to go?"
+msgstr "ああ。どこへ行けばいい？"
+
+#: 3952276-0-7540
+msgctxt "3952276-0-7540"
+msgid "Bad dreams. A great darkness, devouring Cloudrest as it filled the streets.\n\nMy mother's last letter spoke of the Welkynars capturing the Sea Sload Z'Maja, just a few days ago. If there's anything powerful enough to destroy a city, it's a Sload."
+msgstr "悪夢だ。闇がクラウドレストを飲み込んでしまった\r\n\r\n母の最後の手紙には、ウェルキナーがシースロードのズマジャを捕獲したとあった。街を滅ぼすほどの存在がいるとすれば、それはスロードだ"
+
+#: 20958740-0-7540
+msgctxt "20958740-0-7540"
+msgid "So you believe this Sload may have attacked Cloudrest."
+msgstr "このスロードがクラウドレストを攻撃したと考えているのか？"
+
+#: 249936564-0-7540
+msgctxt "249936564-0-7540"
+msgid "Why do you believe that?"
+msgstr "なぜ信じている？"
+
+#: 3952276-0-7539
+#, fuzzy
+msgctxt "3952276-0-7539"
+msgid "<Z'Maja's amulet has cracked and is no longer able to summon shadows. It's useless to you, but may be valuable to one who wishes to learn more about Z'Maja's magic.>"
+msgstr "<ズマジャのアミュレットにはひびが入っており、もはや影を召喚することはできない。役には立たないが、ズマジャの魔法について知りたい者には価値があるかもしれない>"
+
+#: 20958740-0-7539
+#, fuzzy
+msgctxt "20958740-0-7539"
+msgid "I should bring this artifact to Olorime so that she can examine it."
+msgstr "このアーティファクトを調べられるよう、オロライムの元に持ち帰る"
+
+#: 205344756-0-7539
+#, fuzzy
+msgctxt "205344756-0-7539"
+msgid "I have recovered Z'Maja's amulet. I should bring it to <<1>>."
+msgstr "ズマジャのアミュレットを手に入れた。<<1>>に渡す"
+
+#: 3952276-0-7538
+#, fuzzy
+msgctxt "3952276-0-7538"
+msgid "<Z'Maja's amulet has shattered, and only its chain remains. It's useless to you, but may be valuable to one who wishes to learn more about Z'Maja's magic.>"
+msgstr "<ズマジャのアミュレットは砕け散り、鎖だけが残っている。役には立たないが、ズマジャの魔法について知りたい者には価値があるかもしれない>"
+
+#: 20958740-0-7538
+#, fuzzy
+msgctxt "20958740-0-7538"
+msgid "I should bring this artifact to Olorime so that she can examine it."
+msgstr "このアーティファクトを調べられるよう、オロライムの元に持ち帰る"
+
+#: 205344756-0-7538
+#, fuzzy
+msgctxt "205344756-0-7538"
+msgid "I have recovered Z'Maja's necklace chain. I should bring it to <<1>>."
+msgstr "ズマジャのネックレスの鎖を手に入れた。<<1>>の元に持ち帰る"
+
+#: 3952276-0-7537
+msgctxt "3952276-0-7537"
+msgid "I admire your bravery, but defeating her will be no easy task.\n\nZ'Maja was almost impossible to take down alone. Now she commands shadow replicas of the Welkynars, dark imitations that possess all of their legendary skill in combat."
+msgstr "あなたの勇気には敬意を払うけど、奴を倒すのは容易じゃない\r\n\r\nズマジャを単独で倒すのは不可能よ。今のあいつは、ウェルキナーの影の模造品を操っている。それは彼らの伝説的な戦闘能力を保持しているのよ"
+
+#: 20958740-0-7537
+msgctxt "20958740-0-7537"
+msgid "The Welkynars?"
+msgstr "ウェルキナー？"
+
+#: 249936564-0-7537
+msgctxt "249936564-0-7537"
+msgid "I could help you fight this Sea Sload."
+msgstr "このシースロードとの戦いに協力しよう"
+
+#: 3952276-0-7535
+#, fuzzy
+msgctxt "3952276-0-7535"
+msgid "A family squabble, of sorts. You see, one of these cozies went and killed Vareda.\n\nProblem is, none of us are about to go treasure hunting with a murderer at our back. When killing for gold, you don't stop at one. Or so I hear."
+msgstr "ほら、あいつらの誰かがヴァレダを殺したの\r\n\r\n問題は人殺しがいると知ってて宝探しに行く奴なんていないってこと。お金絡みの殺しは、1人じゃ終わらないって言うでしょ"
+
+#: 20958740-0-7535
+#, fuzzy
+msgctxt "20958740-0-7535"
+msgid "You mentioned a treasure?"
+msgstr "宝と言ったか？"
+
+#: 205344756-0-7535
+#, fuzzy
+msgctxt "205344756-0-7535"
+msgid "Three descendants of Gjadil the Keel-Hauler have traveled to Summerset to collect her buried treasure. Unable to trust each other after a death of a party member, they've requested I find the chest and bring it back to them."
+msgstr "船底くぐりのグジャディルの子孫3人が、サマーセット諸島まで彼女が埋めた財宝を手に入れるため旅してきた。パーティーメンバーの死後、彼らは互いを信用できていない。箱を集めて、持ち帰ってくれるよう依頼してきた"
+
+#: 249936564-0-7535
+#, fuzzy
+msgctxt "249936564-0-7535"
+msgid "What happened here?"
+msgstr "ここで何が起こった？"
+
+#: 3952276-0-7533
+#, fuzzy
+msgctxt "3952276-0-7533"
+msgid "A new cluster of time distortions appeared in the swamps and fields north of Black Marsh—Shadowfen and Deshaan specifically.\n\nTake the Augur, the seals, and this map of the region. At this point, I'm sure you know what to do with them."
+msgstr "ブラック・マーシュの北にある沼と草原に、新しい時の裂け目が現れたの。より正確に言うと、シャドウフェンとデシャーンよ\r\n\r\n予言者と封印、それからあの地域の地図を渡すわ。これでわかるわよね"
+
+#: 20958740-0-7533
+#, fuzzy
+msgctxt "20958740-0-7533"
+msgid "I'll seal these new time breaches. Do you need anything else?"
+msgstr "新しい時の裂け目を塞ごう。他に必要なことは？"
+
+#: 249936564-0-7533
+#, fuzzy
+msgctxt "249936564-0-7533"
+msgid "Yes. Where am I headed this time?"
+msgstr "ああ。今度はどこへ向かえばいい？"
+
+#: 3952276-0-7526
+msgctxt "3952276-0-7526"
+msgid "Our seers detected a new cluster of breaches in the lands of Morrowind and Skyrim. The elder members of the Order don't want to admit it, but I'm afraid these distortions are growing stronger.\n\nBut there's good news! We think we found the cause."
+msgstr "サイジックはモロウウィンドとスカイリムの地に、時の裂け目が新たに集中してるのを発見したの。古参の会員たちは認めたがらないけど、この現象は拡大してると思う\r\n\r\nでもいい知らせもあるわ！ 原因を見つけたと思うの"
+
+#: 20958740-0-7526
+msgctxt "20958740-0-7526"
+msgid "We?"
+msgstr "私達？"
+
+#: 249936564-0-7526
+msgctxt "249936564-0-7526"
+msgid "Yes, I'm prepared. What do I need to do?"
+msgstr "準備は出来ている。何をすればいい？"
+
+#: 3952276-0-7522
+#, fuzzy
+msgctxt "3952276-0-7522"
+msgid "Our seers detected more of these time breaches. This time, in the Iliac Bay region. My homeland.\n\nThe Loremaster and I will keep searching for the cause of the disturbances. In the meantime, we need you to seal them."
+msgstr "サイジックはさらなる時の裂け目を検知した。今度はイリアック湾地域よ。私の故郷なの\r\n\r\nロアマスターと私はこの障害の原因を探し続ける。その間、あなたに裂け目を閉じてもらいたいの"
+
+#: 20958740-0-7522
+#, fuzzy
+msgctxt "20958740-0-7522"
+msgid "All right. Should I use the same gear as last time?"
+msgstr "わかった。前回と同じ道具を使えるか？"
+
+#: 249936564-0-7522
+#, fuzzy
+msgctxt "249936564-0-7522"
+msgid "Yes. What's the problem?"
+msgstr "何か問題があるのか？"
+
+#: 3952276-0-7521
+#, fuzzy
+msgctxt "3952276-0-7521"
+msgid "Of course they're missing. My fool husband let our prized hound off her leash to frolic along the beach. Poor Eustasia didn't know what to make of her freedom and went charging off after a hare. Durell took off in pursuit and I've seen neither since."
+msgstr "そうなのよ。愚かな夫が、大切な犬の綱を解いて浜辺に放したの。エウスタシアはどうしたらいいかわからなくなって、野ウサギを追いかけて行ってしまった。ダレルはそれを追いかけて、どちらも戻ってこないのよ"
+
+#: 20958740-0-7521
+#, fuzzy
+msgctxt "20958740-0-7521"
+msgid "Which way were they headed?"
+msgstr "どちらに向かった？"
+
+#: 249936564-0-7521
+#, fuzzy
+msgctxt "249936564-0-7521"
+msgid "Are they missing?"
+msgstr "いなくなったのか？"
+
+#: 3952276-0-7520
+#, fuzzy
+msgctxt "3952276-0-7520"
+msgid "Me? Why, I just got a little lost, is all.\n\nI would have left already, if not for my friends. We were separated, you see, running away from those damn beasts. I'm not much of a fighter, so I'm just hoping they'll make their way out."
+msgstr "私が？ いえ、ちょっと迷っただけよ\r\n\r\n友達のことがなければ、とっくに立ち去ってるわ。あの獣から逃げる時に、離れ離れになってしまったの。私は戦士じゃないから、彼らが脱出するのを祈るしかできないわ"
+
+#: 20958740-0-7520
+#, fuzzy
+msgctxt "20958740-0-7520"
+msgid "I could search for them."
+msgstr "彼らを探そう"
+
+#: 249936564-0-7520
+#, fuzzy
+msgctxt "249936564-0-7520"
+msgid "If this place is so dangerous, what are you doing here?"
+msgstr "もしここがそこまで危険なら、ここで何をしている？"
+
+#: 3952276-0-7519
+#, fuzzy
+msgctxt "3952276-0-7519"
+msgid "I'm not sure. It was in the scrying pool in the main gallery one moment, and then the next it was gone.\n\nThat's why the Ritemaster sent me to look for you. He needs your help."
+msgstr "わからない。メインギャラリーの占い盤にあったと思ったら、次の瞬間にはなくなってたの\r\n\r\nそれでライトマスターにあなたを探せって言われたの。助けが必要だって"
+
+#: 20958740-0-7519
+#, fuzzy
+msgctxt "20958740-0-7519"
+msgid "Where's the Ritemaster now?"
+msgstr "ライトマスターはどこにいる？"
+
+#: 205344756-0-7519
+#, fuzzy
+msgctxt "205344756-0-7519"
+msgid "Ritemaster Iachesis of the Psijic Order hopes to use the abyssal pearl to determine where K'Tora and the Sea Sload cabal are hiding. Unfortunately, the pearl is no longer in the main gallery. It vanished!"
+msgstr "サイジックのライトマスター・イアケシスは、アビサルの真珠からク・トラとシースロードの徒党の隠れ場所を知りたいようだ。残念ながら、真珠はメインギャラリーから姿を消した。消えたのだ！"
+
+#: 249936564-0-7519
+#, fuzzy
+msgctxt "249936564-0-7519"
+msgid "The abyssal pearl vanished? Tell me what happened."
+msgstr "アビサルの真珠が消えた？ 何が起こった"
+
+#: 3952276-0-7518
+#, fuzzy
+msgctxt "3952276-0-7518"
+msgid "A certification will allow you to fulfill jewelry crafting writs. But first, you must demonstrate an understanding of the fundamentals.\n\nCreate for me a simple ring. Yes, that task will be suitable to show me your craft."
+msgstr "認定があれば、宝飾の依頼を受けられる。だがまずは、基礎を理解していることを俺に証明してくれないか？\r\n\r\n簡単な指輪を作ってみるんだ。この依頼は、お前の技量を示すためのものとなる"
+
+#: 20958740-0-7518
+#, fuzzy
+msgctxt "20958740-0-7518"
+msgid "I want to be certified for jewelry crafting. I'll create a ring."
+msgstr "宝飾師として認定されたい"
+
+#: 249936564-0-7518
+#, fuzzy
+msgctxt "249936564-0-7518"
+msgid "Tell me more about jewelry crafting certification."
+msgstr "宝飾師の認定についてもっと教えて欲しい"
+
+#: 3952276-0-7517
+#, fuzzy
+msgctxt "3952276-0-7517"
+msgid "K'Tora has imprisoned a group of adventurers in mind traps, just as the dark entity did to you. I've established mental links with each member of the group, but I can't maintain the links and also perform the tasks necessary to set them free."
+msgstr "ク・トラは冒険者の集団を精神の罠に閉じ込めたの。あいつはあなたにも同じことをしたでしょう。彼らの精神とはそれぞれリンクを確立したけど、それを維持しながら彼らを解放することはできないの"
+
+#: 20958740-0-7517
+#, fuzzy
+msgctxt "20958740-0-7517"
+msgid "I can perform the tasks, just tell me what I need to do."
+msgstr "作業は行える。やるべきことを教えてくれ"
+
+#: 249936564-0-7517
+msgctxt "249936564-0-7517"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 3952276-0-7516
+#, fuzzy
+msgctxt "3952276-0-7516"
+msgid "My garden—my art—has been violated. Desecrated by some vulgar Wood Elf who thinks being raised in the wild gives him the right to pervert my designs.\n\nNow he's threatening my life. Can you believe it?"
+msgstr "私の庭… 私の芸術がめちゃくちゃにされた。野蛮なウッドエルフに冒涜されたのよ。野生で育ったからって、私のデザインを歪曲する権利があると思ってるんだわ\r\n\r\nしかも私の命まで狙ってる。信じられる？"
+
+#: 20958740-0-7516
+#, fuzzy
+msgctxt "20958740-0-7516"
+msgid "He wants to harm you over a garden?"
+msgstr "彼は庭園を破壊しようとしたのか？"
+
+#: 249936564-0-7516
+#, fuzzy
+msgctxt "249936564-0-7516"
+msgid "What exactly has been vandalized?"
+msgstr "何が破壊された？"
+
+#: 3952276-0-7515
+msgctxt "3952276-0-7515"
+msgid "We are the Psijic Order, friend of Valsirenn. There is very little we cannot accomplish through the application of the Old Ways.\n\nEvery object remembers its history. The trick involves selecting the correct ritual to reveal those buried memories."
+msgstr "我々はサイジックだ。古き習わしによって成し遂げられない物事は、ほとんど存在しない\r\n\r\nあらゆる物体はその歴史を記憶している。難しいのは埋め込まれた記憶を明かすため、正しい儀式を選ぶことだ"
+
+#: 20958740-0-7515
+msgctxt "20958740-0-7515"
+msgid "Can I do anything to help?"
+msgstr "何か手伝えることは？"
+
+#: 249936564-0-7515
+msgctxt "249936564-0-7515"
+msgid "You can use magic to get the pearl to reveal all that?"
+msgstr "魔法を使って、真珠を解析できるのか？"
+
+#: 3952276-0-7512
+#, fuzzy
+msgctxt "3952276-0-7512"
+msgid "My wine bottles! They should be right here. Father's going to kill me if I come home empty-handed. Again.\n\nI must have lost them during the winery tour. I may have had one too many tastings. It's all still very … hazy."
+msgstr "ワインボトルだよ！ ああどうしよう、また手ぶらで帰ったら親父に殺されちまう\r\n\r\nあちこち見てる間に失くしたに違いない。飲みすぎたかな。頭痛い…"
+
+#: 20958740-0-7512
+#, fuzzy
+msgctxt "20958740-0-7512"
+msgid "Where are your wine bottles now?"
+msgstr "ワインボトルはどこにある？"
+
+#: 249936564-0-7512
+#, fuzzy
+msgctxt "249936564-0-7512"
+msgid "Lost what?"
+msgstr "何をなくした？"
+
+#: 3952276-0-7511
+#, fuzzy
+msgctxt "3952276-0-7511"
+msgid "A dark entity called K'Tora set a trap for a group of adventurers. It locked them in their own minds. I've established a mental link with the group, but I can't maintain it and also perform the tasks necessary to set them free.\n\nI need your help."
+msgstr "ク・トラと呼ばれる闇の存在が、冒険者の集団を罠にかけた。彼らを自分たちの精神に閉じ込めたの。私は彼らの精神とリンクを確立したけど、それを維持しながら解放することはできない\r\n\r\n助けが必要なの"
+
+#: 20958740-0-7511
+#, fuzzy
+msgctxt "20958740-0-7511"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7511
+#, fuzzy
+msgctxt "249936564-0-7511"
+msgid "Mind trap? I don't understand."
+msgstr "精神の罠？ よくわからない"
+
+#: 3952276-0-7510
+#, fuzzy
+msgctxt "3952276-0-7510"
+msgid "What keen ears you have! You heard us discussing a private matter from way over there? Impressive.\n\nPerhaps you can put that inquisitive nature to good use. A newcomer, much like you, is stirring up trouble here in Lillandril."
+msgstr "耳がいいな！ 我々の私的な問題についての会話を聞いていたのか？ 大したものだな\r\n\r\nその詮索好きの性格を役立ててはどうだ。お前のような新参者が、ここリランドリルで騒ぎを起こしているのだ"
+
+#: 20958740-0-7510
+#, fuzzy
+msgctxt "20958740-0-7510"
+msgid "What's the problem?"
+msgstr "何か問題が？"
+
+#: 249936564-0-7510
+#, fuzzy
+msgctxt "249936564-0-7510"
+msgid "Did you say something about guards being attacked?"
+msgstr "衛兵への攻撃と言ったか？"
+
+#: 3952276-0-7508
+msgctxt "3952276-0-7508"
+msgid "The Ritemaster holds you in high regard. That is proof enough of your worthiness.\n\nThe Psijic Order requires practical wisdom. Outside perspective. Unless I miss my guess, you can provide both. You would be a worthy addition to our ranks."
+msgstr "ライトマスターはお前を高く評価している。価値の証明としては十分だ\r\n\r\nサイジックは実践的な知恵を求めている。そして外部の観点も。お前はその両方をもたらせる。貴重な人材となるだろう"
+
+#: 20958740-0-7508
+msgctxt "20958740-0-7508"
+msgid "Thank you. What do I need to do?"
+msgstr "ありがとう。何をすればいい？"
+
+#: 249936564-0-7508
+msgctxt "249936564-0-7508"
+msgid "You're offering me a place in the Psijic Order? Do I even qualify for membership?"
+msgstr "サイジックへの入会を誘われているのか？ そもそも入れる資格はあるのか？"
+
+#: 3952276-0-7503
+#, fuzzy
+msgctxt "3952276-0-7503"
+msgid "The Sea Sloads have unleashed abyssal geysers that can sink the island. They assumed we'd be so concerned with the creatures that bubbled out of them that we'd fail to realize the true danger until it was too late.\n\nLet's disappoint them, shall we?"
+msgstr "シースロードはこの島を沈没させかねない、アビサルガイザーを仕掛けたわ。奴らは私たちがガイザーから出る怪物に気を取られて、手遅れになるまで真の危険に気づかないだろうと思い込んでいる\r\n\r\n奴らのその期待を裏切ってやりましょう"
+
+#: 20958740-0-7503
+#, fuzzy
+msgctxt "20958740-0-7503"
+msgid "What do you have in mind?"
+msgstr "何を考えている？"
+
+#: 249936564-0-7503
+#, fuzzy
+msgctxt "249936564-0-7503"
+msgid "How do we act on the information Cainar and Miriya uncovered?"
+msgstr "カイナーとミリヤが集めた情報を元に、どう動けばいい？"
+
+#: 3952276-0-7500
+msgctxt "3952276-0-7500"
+msgid "Confused? Bah! You sound like that scrawny mage, Erudil!\n\nMy course is plain! I must make my way to the dwelling place of my honored ancestors, to bathe my beard in meade and sing the shield-thane's song of battle! Make way, or taste skyforged steel!"
+msgstr "混乱だと？ はっ！ お前は貧弱なエリューディルと同じことを言うな！\r\n\r\n我が道は明らかだ！ 栄光ある先人が眠る場所へ向かう。髭をハチミツ酒に浸し、盾の従士の戦いの歌を歌う！ 道を開けぬのなら、スカイフォージの鋼を味わうぞ！"
+
+#: 20958740-0-7500
+msgctxt "20958740-0-7500"
+msgid "Where can I find this Elf, Erudil?"
+msgstr "そのエリューディルはどこで見つかる？"
+
+#: 249936564-0-7500
+msgctxt "249936564-0-7500"
+msgid "Puny Elves? I think you might be confused. Why are you talking like a Nord?"
+msgstr "貧弱なエルフ？ 混乱しているようだ。なぜノルドのように話す？"
+
+#: 3952276-0-7499
+msgctxt "3952276-0-7499"
+msgid "Oh, I see. You must be the newcomer the Queen's cat was going on and on about.\n\nIf this threat is real and you actually killed one of the Sea Sload, then I suppose I could use your help. Will you lend your talents to the defense of our island?"
+msgstr "ああ、なるほど。女王の猫がいつも話している新参者はあなたね\r\n\r\nこの脅威が本物で、あなたが本当にシースロードを倒したのなら、協力してもらえると助かる。私たちの島を守るため、あなたの力を貸してもらえる？"
+
+#: 20958740-0-7499
+msgctxt "20958740-0-7499"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7499
+msgctxt "249936564-0-7499"
+msgid "Razum-dar told you about the Sea Sload?"
+msgstr "ラズム・ダーがシースロードについて話したのか？"
+
+#: 3952276-0-7498
+#, fuzzy
+msgctxt "3952276-0-7498"
+msgid "There are eager ears everywhere, so keep your voice low. The situation involves Sea Sload. The Battlereeve has been informed that you dispatched one of the foul creatures.\n\nI find that implausible, but as a lowly squire my opinion doesn't matter."
+msgstr "誰が聞いているか分かりません。お静かに。この問題にはシースロードが関与しています。バトルリーブは、あなたがあの怪物を撃退したという情報を得ました\r\n\r\nあり得ないことだと思いますが、私の意見は問題ではありませんので"
+
+#: 20958740-0-7498
+msgctxt "20958740-0-7498"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 249936564-0-7498
+#, fuzzy
+msgctxt "249936564-0-7498"
+msgid "What situation are you referring to?"
+msgstr "どんな状況について話している？"
+
+#: 3952276-0-7497
+#, fuzzy
+msgctxt "3952276-0-7497"
+msgid "And you have my thanks for that, but Summerset isn't out of danger yet. The Sea Sload remain a threat.\n\nWill you once again lend your talents to the defense of our island?"
+msgstr "それには感謝しているわ。でもサマーセットはまだ危険なまま。シースロードは未だに脅威よ\r\n\r\n島を守るため、もう一度あなたの力を貸してくれる？"
+
+#: 20958740-0-7497
+#, fuzzy
+msgctxt "20958740-0-7497"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7497
+#, fuzzy
+msgctxt "249936564-0-7497"
+msgid "I did what needed to be done."
+msgstr "やらねばならないことをしただけだ"
+
+#: 3952276-0-7494
+#, fuzzy
+msgctxt "3952276-0-7494"
+msgid "This one has three trade shipments scattered across the port in caches. Recover them, and he can start a new life.  \n\nMadja must also be disposed of, for she will not rest until Renzir is hunted down."
+msgstr "この者は積荷を3つ、港のあちこちに隠した。それを見つけてくれたら、新しい人生を始められる\r\n\r\nマジャも始末しなければ。彼女はレンジルを狩り出すまで、休むことはない"
+
+#: 20958740-0-7494
+#, fuzzy
+msgctxt "20958740-0-7494"
+msgid "Anything else?"
+msgstr "他には？"
+
+#: 249936564-0-7494
+#, fuzzy
+msgctxt "249936564-0-7494"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 3952276-0-7492
+msgctxt "3952276-0-7492"
+msgid "We've seen a precipitous rise in the sale and exchange of forbidden books. And not just the coarse literature from the mainland. I'm talking about something dangerous—Worm Cult tomes.\n\nNeedless to say, we can't have books like that floating about."
+msgstr "我々は禁書の販売と交換が急増していることを確認した。本土から来る下等な本だけではない。私が言うのは危険なもの。虫の教団の書だ\r\n\r\nそんな本を出回らせておくわけにはいかない"
+
+#: 20958740-0-7492
+msgctxt "20958740-0-7492"
+msgid "So you want me to track down the books?"
+msgstr "では、書を捜索してほしいのか？"
+
+#: 249936564-0-7492
+msgctxt "249936564-0-7492"
+msgid "Is there any work available?"
+msgstr "何か仕事はあるか？"
+
+#: 3952276-0-7491
+#, fuzzy
+msgctxt "3952276-0-7491"
+msgid "We've got another invasive species making their homes here on Summerset and disrupting the natural order! It's the reef vipers this time. Vicious vermin.\n\nI have reports that they're breeding in record numbers out in Wasten Coraldale."
+msgstr "またしても侵略的な種がここサマーセットに住み着き、自然の秩序を乱している！ 今回はリーフバイパーだ\r\n\r\n報告によると、奴らはワステン・コラルデイルで記録的な繁殖を見せているらしい"
+
+#: 20958740-0-7491
+#, fuzzy
+msgctxt "20958740-0-7491"
+msgid "You want their numbers culled?"
+msgstr "間引きしたいのか？"
+
+#: 249936564-0-7491
+#, fuzzy
+msgctxt "249936564-0-7491"
+msgid "What's the job?"
+msgstr "仕事は何だ？"
+
+#: 3952276-0-7490
+#, fuzzy
+msgctxt "3952276-0-7490"
+msgid "The Divine Prosecution has been following the Sagacians for quite some time, a group of researchers who are truly no better than bandits.\n\nWe've discovered that they are currently holed up in the ruins of Tor-Hame-Khard."
+msgstr "神聖執行局は少し前から伝説探求団を追跡している。研究者の一団だが、実態は山賊と変わらない\r\n\r\n我々は奴らが、トー・ヘイム・カードの遺跡にいることを突き止めた"
+
+#: 20958740-0-7490
+#, fuzzy
+msgctxt "20958740-0-7490"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7490
+#, fuzzy
+msgctxt "249936564-0-7490"
+msgid "I'd like to take an assignment."
+msgstr "任務を受けよう"
+
+#: 3952276-0-7489
+#, fuzzy
+msgctxt "3952276-0-7489"
+msgid "The Divine Prosecution has been tasked to recover Rose-Of-Archon blossoms on behalf of the Sapiarchs. Not life threatening perhaps, but still of vital importance to several of their religious ceremonies. Well worth the risks, I assure you."
+msgstr "神聖執行局は、サピアルチのためにアルコンのバラの花を回収する役目を任された。命にかかわるような危険はないと思うが、宗教的儀式にとってはとても重要なものだ。報酬は危険に見合うと保証するぞ"
+
+#: 20958740-0-7489
+#, fuzzy
+msgctxt "20958740-0-7489"
+msgid "The risks?"
+msgstr "危険？"
+
+#: 249936564-0-7489
+#, fuzzy
+msgctxt "249936564-0-7489"
+msgid "What's the job?"
+msgstr "仕事は何だ？"
+
+#: 3952276-0-7488
+#, fuzzy
+msgctxt "3952276-0-7488"
+msgid "We've been gathering reports of a Meridia cult for years, but only recently were we able to find them in Eton Nir Grotto. However, it seems that their worship attracted the attention of Daedra. Most of the cultists, if not all, are dead."
+msgstr "我々は何年もメリディア教団を追っているが、奴らをエトン・ニル洞窟で発見したのは最近だ。奴らの崇拝がデイドラの注意を引いてしまったらしい。信者たちの大部分は死んだ"
+
+#: 20958740-0-7488
+#, fuzzy
+msgctxt "20958740-0-7488"
+msgid "So what do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7488
+#, fuzzy
+msgctxt "249936564-0-7488"
+msgid "I'm interested in work."
+msgstr "興味がある"
+
+#: 3952276-0-7485
+msgctxt "3952276-0-7485"
+msgid "It will take an influence far stronger than you and I, of that I'm sure.\n\nWe'll call a meeting of Summerset's most influential leaders. Perhaps, with such a force behind us, we can persuade the Sapiarchs to see reason."
+msgstr "あなたと私より、遥かに強い影響力が必要なのは間違いないわ\r\n\r\nサマーセットで最も影響力のある指導者たちに会合を呼びかけましょう。それだけの後ろ盾があれば、サピアルチを説得できるかもしれない"
+
+#: 20958740-0-7485
+msgctxt "20958740-0-7485"
+msgid "And if they don't agree?"
+msgstr "同意しなかったら？"
+
+#: 249936564-0-7485
+msgctxt "249936564-0-7485"
+msgid "How can we convince the Sapiarchs to accept help?"
+msgstr "どうすればサピアルチに支援を受けるよう説得できる？"
+
+#: 3952276-0-7484
+msgctxt "3952276-0-7484"
+msgid "The cult of Phynaster has petitioned us to recover articles of faith from King's Haven Pass, so they may pay proper respects to their pilgrims lost there.\n\nVery significant work, just not pressing … so perfect for you!"
+msgstr "フィナスタール教団から、キングズヘヴン・パスで信仰の品を回収してほしいと嘆願があった。あそこで亡くなった巡礼者たちを正式に祀るためだ\r\n\r\n非常に意義深い仕事だが、急ぎではない… お前たちにぴったりだ！"
+
+#: 20958740-0-7484
+msgctxt "20958740-0-7484"
+msgid "Could any of these pilgrims still be alive?"
+msgstr "まだ生きている巡礼者はいるか？"
+
+#: 249936564-0-7484
+msgctxt "249936564-0-7484"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 3952276-0-7481
+msgctxt "3952276-0-7481"
+msgid "Because I'm not an idiot. Guards see an Orc thumping the ears off an Elf in the middle of the street? You know how that turns out.\n\nThought if I challenged him to a duel we could make it legal, but he won't fight unless I challenge him properly."
+msgstr "俺は馬鹿じゃねえ。道のど真ん中で、オークがエルフの耳を叩き潰してるところを衛兵が見たらどうなる？ 結果は明らかだろ\r\n\r\n決闘を申し込めば合法的にやれると思ったんだが、正式な決闘以外で、奴は戦おうとしやがらねえ"
+
+#: 20958740-0-7481
+msgctxt "20958740-0-7481"
+msgid "And how do you challenge him properly?"
+msgstr "正式に申し込む方法は？"
+
+#: 249936564-0-7481
+msgctxt "249936564-0-7481"
+msgid "If you're that angry why did you let him walk away?"
+msgstr "そこまで怒っているなら、なぜ彼を逃がした？"
+
+#: 3952276-0-7479
+msgctxt "3952276-0-7479"
+msgid "For centuries, Sunhold has been the first line of defense against Maormer raiders. Many of their soldiers have fallen by my family's command. And now, with our fleet gone and soldiers depleted, they've decided to strike.\n\nI need your help."
+msgstr "何世紀もの間、サンホールドはマオマーに対する盾だった。兵士たちの多くが、私の家の指揮によって倒れた。そして街の守りが手薄になった今、彼らは攻撃を決めたのよ\r\n\r\n助けが必要なの"
+
+#: 20958740-0-7479
+msgctxt "20958740-0-7479"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7479
+msgctxt "249936564-0-7479"
+msgid "Why does Viscarne hold a grudge against your family?"
+msgstr "なぜヴィスカルネに家を恨まれている？"
+
+#: 3952276-0-7478
+msgctxt "3952276-0-7478"
+msgid "My father, Curtaros, runs a boat in an angler fleet. They're long overdue, and while his stride tends to be a leisurely one, I've never seen the whole fleet gone for so long."
+msgstr "父のクータロスは漁船団で船頭をしてるの。けど、時間を過ぎてもなかなか帰ってこなくて。ゆっくり漕ぐ方だけど、船団全体がこんなに遅れたことはないわ"
+
+#: 20958740-0-7478
+msgctxt "20958740-0-7478"
+msgid "You think they ran into trouble?"
+msgstr "何か問題が起きたと考えているのか？"
+
+#: 249936564-0-7478
+msgctxt "249936564-0-7478"
+msgid "No, why do you ask?"
+msgstr "何だ？"
+
+#: 3952276-0-7473
+#, fuzzy
+msgctxt "3952276-0-7473"
+msgid "In all honesty, I'd rather leave her in this cave. She's certainly earned such a fate. \n\nBut if word got out that I left her to die, or if she managed to escape and actually marry that Wood Elf …. Suffice to say, I simply can't just leave her."
+msgstr "本音を言えば、私は彼女をこの洞窟に置いて立ち去りたい\r\n\r\nだが、私が見捨てたと噂が立ちかねん。それに脱出に成功して、本当にウッドエルフと結婚したら… つまり、ただ放ってはおけないのだ"
+
+#: 20958740-0-7473
+#, fuzzy
+msgctxt "20958740-0-7473"
+msgid "What do you plan to do?"
+msgstr "計画を聞かせてくれ"
+
+#: 249936564-0-7473
+#, fuzzy
+msgctxt "249936564-0-7473"
+msgid "You don't sound very worried about Niralin."
+msgstr "ニラリンについて、あまり心配していないようだ"
+
+#: 3952276-0-7472
+#, fuzzy
+msgctxt "3952276-0-7472"
+msgid "More than a few of us have disappeared recently. Karnhar's group are just the latest. They set out to search for the missing and vanished themselves.\n\nWe're giving those buried ruins a wide berth now."
+msgstr "最近、仲間が何人も姿を消している。この間はカーンハルたちが消えた。行方不明者を探しに行って、それっきりなんだ\r\n\r\n今はあの埋もれた遺跡には近寄らないようにしてる"
+
+#: 20958740-0-7472
+#, fuzzy
+msgctxt "20958740-0-7472"
+msgid "You think the ruins are the source of the disappearances?"
+msgstr "失踪の原因は遺跡だと考えているのか？"
+
+#: 249936564-0-7472
+#, fuzzy
+msgctxt "249936564-0-7472"
+msgid "Who are you looking for?"
+msgstr "誰を探している？"
+
+#: 3952276-0-7471
+msgctxt "3952276-0-7471"
+msgid "Justiciar Avanaire. She struck me down, ran off to this ruin.\n\nI was able to follow her this far. The rest of my squad went in after her, but I fear the worst. With that pearl, who knows what she's capable of?"
+msgstr "司法高官アヴァナイレ。彼女は私を襲撃し、この遺跡に逃げ込んだ\r\n\r\n私が追跡できたのはここまでだ。部隊の者は彼女を追ったが、最悪の事態を恐れている。あの真珠があれば、何が起こってもおかしくない"
+
+#: 20958740-0-7471
+msgctxt "20958740-0-7471"
+msgid "A pearl?"
+msgstr "真珠？"
+
+#: 249936564-0-7471
+msgctxt "249936564-0-7471"
+msgid "What happened to you?"
+msgstr "何が起こった？"
+
+#: 3952276-0-7469
+msgctxt "3952276-0-7469"
+msgid "The fool I followed out here. I lost track of him after these wretched Goblins stole my pack. Hopefully he can manage not to get himself killed long enough for me recover our notes."
+msgstr "私がここで同行してた馬鹿よ。あの憎たらしいゴブリンどもが私の荷物を盗んだ後、見失ったの。私がメモを回収するまで、殺されないでいてくれるといいんだけど"
+
+#: 20958740-0-7469
+msgctxt "20958740-0-7469"
+msgid "Why are the notes so important?"
+msgstr "なぜメモがそこまで重要だ？"
+
+#: 249936564-0-7469
+msgctxt "249936564-0-7469"
+msgid "No, who is Mehdze?"
+msgstr "いや。メッツェとは誰だ？"
+
+#: 3952276-0-7468
+msgctxt "3952276-0-7468"
+msgid "The Sapiarchs are Summerset's foremost scholars. They are the keepers of the Crystal Tower and the custodians of the College of Sapiarchs. Among their many responsibilities, they have trained every heir who ever sat upon Alinor's throne."
+msgstr "水晶の塔の番人も、サピアルチ大学の管理者もサピアルチだ。彼らには多くの責務がある。例えばアリノールの玉座に座った全ての者は、彼らの教えを受けている"
+
+#: 20958740-0-7468
+msgctxt "20958740-0-7468"
+msgid "Do you need me to warn the Sapiarchs?"
+msgstr "何をすればいい？"
+
+#: 249936564-0-7468
+msgctxt "249936564-0-7468"
+msgid "Who are the Sapiarchs?"
+msgstr "サピアルチの役割は？"
+
+#: 3952276-0-7467
+msgctxt "3952276-0-7467"
+msgid "The glorious Pact sent Rigurt to bargain with Queen Ayrenn. To use my considerable charms to woo High Elves to talk of peace and an end to the Three Banners War. I even brought gifts to bestow upon the pretty Queen.\n\nBut Rigurt has failed. Again."
+msgstr "栄光あるパクトが、アイレン女王と取引するためにリガートを派遣したのだ。私の桁外れの魅力でハイエルフたちを感心させて、和平と三旗戦争の終結を話し合うためにな。女王には贈り物まで持ってきたんだぞ\r\n\r\nだがリガートはしくじった。またしてもな"
+
+#: 20958740-0-7467
+#, fuzzy
+msgctxt "20958740-0-7467"
+msgid "How did you fail?"
+msgstr "どうして失敗した？"
+
+#: 249936564-0-7467
+#, fuzzy
+msgctxt "249936564-0-7467"
+msgid "What mission are you talking about?"
+msgstr "どんな任務について話している？"
+
+#: 3952276-0-7466
+#, fuzzy
+msgctxt "3952276-0-7466"
+msgid "Tableau has left the House of Reveries, and tonight is her art debut. I received an invitation, but I suspect her patron caught wind of my arrival. \n\nLilawen doesn't quite … accept me as an acquaintance."
+msgstr "タブローは夢見の館を去った。今夜は芸術家タブローのお披露目なんだ。招待されたんたが、後援者は俺が来るって聞いたんだろう\r\n\r\nリラウェンは… 俺を彼女の知人と認めていない"
+
+#: 20958740-0-7466
+msgctxt "20958740-0-7466"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 249936564-0-7466
+#, fuzzy
+msgctxt "249936564-0-7466"
+msgid "What is the invitation for?"
+msgstr "何の招待だ？"
+
+#: 3952276-0-7465
+msgctxt "3952276-0-7465"
+msgid "As a matter of fact, I do.\n\nI've heard rumors of a hulkynd in the forest outside Rellenthil, a perfect subject for my work. I'd like you to serve as my proxy and arrange a meeting between us. The sinkhole nearby should serve my purpose."
+msgstr "ええ、そうよ。あるわ\r\n\r\nリレンシルの外の森にハルキンドがいるって噂を聞いたの。私の作品にぴったりの題材だわ。ねえ、あなたが代理になって、会えるように手配してもらえないかしら。近くの大穴が役に立つはずよ"
+
+#: 20958740-0-7465
+msgctxt "20958740-0-7465"
+msgid "A hulkynd? What's that?"
+msgstr "ハルキンド？ それは何だ？"
+
+#: 249936564-0-7465
+msgctxt "249936564-0-7465"
+msgid "Do you have someone in mind?"
+msgstr "誰かが念頭にあるのか？"
+
+#: 3952276-0-7463
+#, fuzzy
+msgctxt "3952276-0-7463"
+msgid "No idea. Erilthel asked to take the lead, and I obligingly took a nap. Didn't think it would be any trouble, even for a lackwit like her. Sneak past some cultists, grab the tokens, get out clean. Easy.\n\nBut now the place is swarming with Daedra."
+msgstr "さあな。エリルセルは先行の許可を願い、俺は友好的に昼寝をした。あいつのように間抜けでも、この仕事は問題ないだろうと思った。気づかれずに信者を突破し、トークンを取って出ればいい。簡単だ\r\n\r\nだが今、あの場所はデイドラで溢れ返っている"
+
+#: 20958740-0-7463
+#, fuzzy
+msgctxt "20958740-0-7463"
+msgid "So you think Erilthel is dead?"
+msgstr "では、エリルセルは死んだと思っているのか？"
+
+#: 249936564-0-7463
+#, fuzzy
+msgctxt "249936564-0-7463"
+msgid "What happened to your apprentice?"
+msgstr "弟子に何があった？"
+
+#: 3952276-0-7461
+msgctxt "3952276-0-7461"
+msgid "Well, yes, I would dare say you wouldn't! Not yet, anyway.\n\nYou see, this happens to be the Vault of Moawita, where the Psijic Order keeps its most cursed relics. It's a tad bit emptier than usual though. It seems we've had a break in."
+msgstr "ああ、そうだ。知らないはずさ！ 少なくとも、今はまだな\r\n\r\nいいか、モアウィタの宝物庫で事件が起こった。サイジックが、最も呪われているという遺物を保管している場所だ。だが、普段よりもがらんとしている。どうも押し入られたようでな"
+
+#: 20958740-0-7461
+msgctxt "20958740-0-7461"
+msgid "So someone stole the relics?"
+msgstr "では、誰かが遺物を盗んだのか？"
+
+#: 249936564-0-7461
+msgctxt "249936564-0-7461"
+msgid "I don't know about any missing relics."
+msgstr "失われた遺物が何か知らない"
+
+#: 3952276-0-7460
+#, fuzzy
+msgctxt "3952276-0-7460"
+msgid "As you can see, a murder took place here. My proteges, Lorne and Soravil, came to investigate, but I fear they may lack perspective. The particulars of this murder …. Forgive me, I'm getting ahead of myself.\n\nThey need fresh eyes. Yours, I believe."
+msgstr "見てのとおり、ここで殺人事件が起こった。私のところのローネとソラヴィルに調査をさせたんだが、視点がずれているようで、心配しているんだ。この事件の詳細は… すまない、先走りすぎたようだ\r\n\r\n彼らには先入観のない視点が必要だ。君のようにな"
+
+#: 20958740-0-7460
+#, fuzzy
+msgctxt "20958740-0-7460"
+msgid "What would I have to do?"
+msgstr "何をすればいい？"
+
+#: 249936564-0-7460
+#, fuzzy
+msgctxt "249936564-0-7460"
+msgid "What's going on?"
+msgstr "どうしたんだ？"
+
+#: 3952276-0-7457
+msgctxt "3952276-0-7457"
+msgid "The augury ritual revealed the connection to the Court of Bedlam and pointed to trouble in Rellenthil. Now we need to determine where K'Tora and the Sea Sloads are hiding. \n\nThe abyssal pearl should be able to point us in the right direction."
+msgstr "占いは〈ベドラムの宮廷〉とのつながりと、リレンシルの騒動を明らかにした。我々はク・トラとシースロードの居場所を突き止めねばならない\r\n\r\n真珠が、我々を導いてくれる"
+
+#: 20958740-0-7457
+msgctxt "20958740-0-7457"
+msgid "How can I help?"
+msgstr "何をすればいい？"
+
+#: 205344756-0-7457
+msgctxt "205344756-0-7457"
+msgid "Ritemaster Iachesis of the Psijic Order hopes to learn more from the abyssal pearl. Specifically, he wants to determine where K'Tora and the Sea Sload cabal are hiding. I agreed to help in any way I can."
+msgstr "サイジックのライトマスター・イアケシスは、アビサルの真珠からさらに多くのことを学ぼうとしている。特に、ク・トラとシースロードの徒党の隠れ場所を知りたいようだ。可能な限り支援する"
+
+#: 249936564-0-7457
+msgctxt "249936564-0-7457"
+msgid "What more do you hope to learn from the abyssal pearl?"
+msgstr "アビサルの真珠から、何がわかると思う？"
+
+#: 3952276-0-7454
+#, fuzzy
+msgctxt "3952276-0-7454"
+msgid "I suppose it is, but we were driven from the keep long before the tempest began forming. Sea Elves infiltrated our defenses and slaughtered the garrison. We're all that survived.\n\nThat storm will finish the job unless I manage to stop it."
+msgstr "まあそうだが、我々は嵐が生じるずっと前に砦を放棄している。シーエルフの侵攻で、砦は蹂躙された。生存者は我々だけだ\r\n\r\nあの嵐を止められなければ、全滅するだけだ"
+
+#: 20958740-0-7454
+#, fuzzy
+msgctxt "20958740-0-7454"
+msgid "Is that possible?"
+msgstr "そんなことが可能なのか？"
+
+#: 249936564-0-7454
+#, fuzzy
+msgctxt "249936564-0-7454"
+msgid "Is this an evacuation?"
+msgstr "これは避難なのか？"
+
+#: 3952276-0-7451
+#, fuzzy
+msgctxt "3952276-0-7451"
+msgid "Oh, well. I can hardly keep track of every face I hire. An artist's work is endless.\n\nI need colors! Rich, rare, vibrant. After all, this painting will be the masterpiece of my career. I simply cannot work with mediocre shades."
+msgstr "あら。ごめんなさい。人の顔をいちいち覚えきれないの。芸術家の仕事には終わりがなくて\r\n\r\n色が必要なの！ 豊かで、珍しくて、鮮やかな色が。この絵は私の傑作になるわ。凡庸な色合いじゃダメなのよ"
+
+#: 20958740-0-7451
+#, fuzzy
+msgctxt "20958740-0-7451"
+msgid "What do you mean, you need colors?"
+msgstr "色が必要だ、とはどういう意味だ？"
+
+#: 249936564-0-7451
+#, fuzzy
+msgctxt "249936564-0-7451"
+msgid "I'm not your courier, but what's this job you're talking about?"
+msgstr "人違いだ。何の仕事の話をしている？"
+
+#: 3952276-0-7448
+msgctxt "3952276-0-7448"
+msgid "Our betters don't like to talk about it. When they do, they call it Traitor's Vault.\n\nAccording to my research, it used to serve as a retreat for the Order's most talented pupils. But then, without warning, the Ritemaster barred it shut."
+msgstr "あたしたちの上司は話したがらない。話す時は、みんな裏切り者の宝物庫って呼んでる\r\n\r\nあたしの調査では、かつて教団で才能のある学生たちの隠れ家として使われてた。でもいきなり、ライトマスターが閉鎖したの"
+
+#: 20958740-0-7448
+msgctxt "20958740-0-7448"
+msgid "Why doesn't he want people to enter this place?"
+msgstr "なぜ人々をこの場所から締め出した？"
+
+#: 249936564-0-7448
+msgctxt "249936564-0-7448"
+msgid "What is this place?"
+msgstr "この場所について教えて欲しい"
+
+#: 3952276-0-7447
+msgctxt "3952276-0-7447"
+msgid "Something to do with the Crystal Tower, no doubt. Sotha Sil has never been forthcoming, though for some reason it appears that he's taken a liking to you.\n\nBut tell me, what of Darien and Leythen?"
+msgstr "水晶の塔に関係してることは間違いないわ。ソーサ・シルが積極的になるなんて珍しいことよ。なぜかはわからないけど、あなたを気に入っているみたいね\r\n\r\nそれはそうと、ダリアンとレイセンはどうしたの？"
+
+#: 20958740-0-7447
+msgctxt "20958740-0-7447"
+msgid "Darien is on his way back, and he's bringing Leythen with him."
+msgstr "ダリアンは戻る途中だ。レイセンが同行している"
+
+#: 249936564-0-7447
+msgctxt "249936564-0-7447"
+msgid "Do you know why Sotha Sil wants to see me?"
+msgstr "ソーサ・シルがなぜ会いたいか知っているか？"
+
+#: 3952276-0-7446
+msgctxt "3952276-0-7446"
+msgid "Sotha Sil said he had information meant only for Ritemaster Iachesis's ears. He asked me to send the Ritemaster to see him when he returned from traveling the Dreaming Cave."
+msgstr "ソーサ・シルは、ライトマスターの耳にだけ入れるべき情報があるって言ってた。ライトマスターが夢見の洞窟から戻ったら、会いに来させるよう、私に伝言を頼んだの"
+
+#: 20958740-0-7446
+msgctxt "20958740-0-7446"
+msgid "Someone needs to tell Sotha Sil that the Ritemaster is dead."
+msgstr "誰かがソーサ・シルに、ライトマスターの死を伝えなければならない"
+
+#: 249936564-0-7446
+msgctxt "249936564-0-7446"
+msgid "Did Sotha Sil have any news to share?"
+msgstr "ソーサ・シルは何か情報を持っているのか？"
+
+#: 3952276-0-7442
+#, fuzzy
+msgctxt "3952276-0-7442"
+msgid "The Royal Menagerie. It holds exotic species from all over Tamriel. Now they're running loose, attacking the keepers, and each other. It's a slaughter.\n\nIt's too dangerous for a gentle indrik like Lotus. Please, can you help me search for her?"
+msgstr "タムリエル中の動物を飼育してる、王立動物園だ。動物が逃げ出して大変なことになってる\r\n\r\nロータスみたいなおとなしいインドリクには危険だ。探すのを手伝ってくれないか？"
+
+#: 20958740-0-7442
+#, fuzzy
+msgctxt "20958740-0-7442"
+msgid "You're certain she's not dangerous, like the others?"
+msgstr "危険でないことに自信があるようだ。他の動物も同様か？"
+
+#: 249936564-0-7442
+#, fuzzy
+msgctxt "249936564-0-7442"
+msgid "Animals? What is this place?"
+msgstr "動物？ ここは何だ"
+
+#: 3952276-0-7441
+#, fuzzy
+msgctxt "3952276-0-7441"
+msgid "She wished to meet at her camp. Given the manner of the riffraff one sees on the road these days, I cut through the forest. \n\nIt's a maze in there! I was hired to defend a respectable research expedition, not to tramp through the woods in full armor."
+msgstr "彼女は自分のキャンプで会いたがってる。最近路上で見かける下層民の行動を踏まえて、私は森を通り抜けることにしたの\r\n\r\nけど、あそこは迷路なってたのよ！ 私が雇われたのは尊敬する研究調査団を守るため。森の中を重装備で突破するためじゃないわ"
+
+#: 20958740-0-7441
+#, fuzzy
+msgctxt "20958740-0-7441"
+msgid "And you're okay with leaving her there?"
+msgstr "それで、彼女を置いてきたのか？"
+
+#: 249936564-0-7441
+#, fuzzy
+msgctxt "249936564-0-7441"
+msgid "Where is this academic?"
+msgstr "その学者はどこにいる？"
+
+#: 3952276-0-7439
+msgctxt "3952276-0-7439"
+msgid "Put simply, I've found records of an ancient temple, somewhere in this very forest. I've come to study what secrets it may hold.\n\nI will warn you, Ebon Stadmont can be tricky to navigate. You'll have to keep a look out."
+msgstr "かいつまんで説明するけど、私はこの森のどこかに古代の聖堂があるという記録を見つけたの。どんな秘密が隠されているかを調べに来たのよ\r\n\r\n警告しておくけど、エボン・スタドモントにはなかなかたどり着けないわよ"
+
+#: 20958740-0-7439
+msgctxt "20958740-0-7439"
+msgid "Tricky to navigate? How so?"
+msgstr "たどり着けない？ なぜだ？"
+
+#: 249936564-0-7439
+msgctxt "249936564-0-7439"
+msgid "What kind of expedition?"
+msgstr "どんな探検隊だ？"
+
+#: 3952276-0-7438
+#, fuzzy
+msgctxt "3952276-0-7438"
+msgid "Ah, I see it—that look in your eye. You mean to go in there and break the curse of the Direnni Acropolis, don't you? Ha. You newcomers are an ambitious lot, I'll give you that.\n\nThere's a ghost in there called Lauriel. She's the root of it."
+msgstr "ああ、なるほど。その目でわかる。あそこに行って、ディレニ・アクロポリスの呪いを解こうというつもりだろう？ ふむ。お前たち新参者は意欲があるな。それは認めてやる\r\n\r\nあそこにはラウリエルと呼ばれる亡霊がいる。彼女が元凶だ"
+
+#: 20958740-0-7438
+#, fuzzy
+msgctxt "20958740-0-7438"
+msgid "How is she the cause of this?"
+msgstr "彼女はなぜここを呪った？"
+
+#: 249936564-0-7438
+#, fuzzy
+msgctxt "249936564-0-7438"
+msgid "Tell me about this curse."
+msgstr "この呪いについて教えてほしい"
+
+#: 3952276-0-7437
+msgctxt "3952276-0-7437"
+msgid "From what I gather, soldiers at Cey-Tarn Keep have been disappearing in the night, only to have their desiccated bodies show up days later. The garrison's completely spooked.\n\nI came to look into it, but the Divine Prosecution beat me here."
+msgstr "あたしの情報では、セイ・ターン砦の兵士たちが夜中に姿を消して、数日後に干からびた死体で見つかったらしいの。守備隊はすっかり怯えてるわ\r\n\r\nそれを調べたいんだけど、神聖執行局に先を越されたのよ"
+
+#: 20958740-0-7437
+msgctxt "20958740-0-7437"
+msgid "Why's that a problem?"
+msgstr "それの何が問題だ？"
+
+#: 249936564-0-7437
+msgctxt "249936564-0-7437"
+msgid "Gruesome killings? What's going on here?"
+msgstr "恐ろしい殺し？ ここで何が起こっている？"
+
+#: 3952276-0-7436
+msgctxt "3952276-0-7436"
+msgid "Yes, I'm sorry.\n\nThe last time I saw him, he was agitated. Scared. I asked him what was wrong, but he left without a word. The guards arrived later. They said he turned himself in—that he was involved in a plot to kill our Sapiarch, Aicantar."
+msgstr "ああ、ごめんなさい\r\n\r\n最後に見た時、あの子は興奮して怖がってた。どうしたのか聞いたけど、何も言わずに去ってしまった。その後衛兵がやってきて、あの子が自首したと言っていた… 私たちのサピアルチ、アイカンターを殺す陰謀に関与していたって"
+
+#: 20958740-0-7436
+msgctxt "20958740-0-7436"
+msgid "You say he turned himself in. He's not in his cell?"
+msgstr "自首したと言ったのに、牢にいないのか？"
+
+#: 249936564-0-7436
+msgctxt "249936564-0-7436"
+msgid "Slow down. Tell me what happened."
+msgstr "落ち着け。何が起こった"
+
+#: 3952276-0-7435
+#, fuzzy
+msgctxt "3952276-0-7435"
+msgid "I may have unleashed a powerful enchantment on the Academy. Quite by accident, mind you!\n\nThere's this book you see—the Illuminus. I stole just the briefest of peeks. Barely even a peek, honestly. More like a fleeting glimpse!"
+msgstr "大学に強力な魔法をかけてしまったかもしれない。もちろん、わざとじゃないけどね！\r\n\r\n照らされし書という書物がある。それをほんの少し盗み見たんだ。実際、まともに見てはいない。ほん一瞬、ちらっと見えただけだ！"
+
+#: 20958740-0-7435
+#, fuzzy
+msgctxt "20958740-0-7435"
+msgid "Fine. What did this book do?"
+msgstr "よし。この本は何をした？"
+
+#: 249936564-0-7435
+#, fuzzy
+msgctxt "249936564-0-7435"
+msgid "What's going on here?"
+msgstr "何をしている？"
+
+#: 3952276-0-7434
+msgctxt "3952276-0-7434"
+msgid "Worse. An acting troupe.\n\nThe House of Reveries may be famous across Summerset, but my brother is one of the most gifted academics of our generation. For him to waste his talents performing for rich nobles is just … irresponsible!"
+msgstr "もっとタチが悪いわ。役者の一座よ\r\n\r\n夢見の館は、サマーセット中で知られてるけど、弟は将来を約束された研究者なの！ 成り上がりと貴族相手に、舞台で才能を浪費するなんて信じられない"
+
+#: 20958740-0-7434
+msgctxt "20958740-0-7434"
+msgid "Where's your brother now?"
+msgstr "弟はどこにいる？"
+
+#: 249936564-0-7434
+msgctxt "249936564-0-7434"
+msgid "What kind of organization? Cultists? Insurgents?"
+msgstr "どんな組織だ？ 信者か？ 暴徒か？"
+
+#: 3952276-0-7433
+msgctxt "3952276-0-7433"
+msgid "My memories return slowly, a little at a time. While you searched for the knight, a memory came back to me. A woman's voice, barely a whisper. Beautiful but speaking in a language I can't understand. Repeating the same words over and over."
+msgstr "記憶はゆっくり戻っている、少しずつ。君が騎士を探している間に、ひとつ思い出したのだ。女性の、囁くような声だ。美しい声だが、理解できない言葉だった。同じフレーズを幾度も繰り返していた"
+
+#: 20958740-0-7433
+msgctxt "20958740-0-7433"
+msgid "What do you think the memory means?"
+msgstr "その記憶は何を意味すると思う？"
+
+#: 249936564-0-7433
+msgctxt "249936564-0-7433"
+msgid "You remembered something else?"
+msgstr "他に覚えていることはあるか？"
+
+#: 3952276-0-7432
+#, fuzzy
+msgctxt "3952276-0-7432"
+msgid "A few insignificant echoes and a name to apply to it, but nothing to tell us who created it or what kind of magic it employs. It isn't Daedric in origin, though, despite the false Aldarch's allegiance.\n\nIt's time to utilize more drastic means."
+msgstr "わずかに響くことと、真珠の名称くらいだ。誰が作り、どのような種類の魔法を使っているのかはわからない。しかし、デイドラ起源のものではない。あのアルダークの主張とは違ってな\r\n\r\nもっと抜本的な方法を用いるべき時だ"
+
+#: 20958740-0-7432
+msgctxt "20958740-0-7432"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7432
+#, fuzzy
+msgctxt "249936564-0-7432"
+msgid "You haven't been able to determine anything useful about the pearl?"
+msgstr "真珠について、何か役に立つ情報はないのか？"
+
+#: 3952276-0-7430
+#, fuzzy
+msgctxt "3952276-0-7430"
+msgid "Another Sapiarch named Haladan. Emile arrived at the gates of Lillandril carrying Haladan's body and confessed to the crime. But he seemed shocked—confused.\n\nI know Emile better than anyone. He's not capable of something like this, I swear it."
+msgstr "ハラダンというサピアルチよ。エミールはハラダンの死体を抱え、リランドリルの門に辿り着くと罪を告白した。でもあいつは動揺して、混乱してるようにみえた\r\n\r\nあいつにそんなことはできないわ。私が保証する"
+
+#: 20958740-0-7430
+#, fuzzy
+msgctxt "20958740-0-7430"
+msgid "If Emile confessed, why do you think he's innocent?"
+msgstr "エミールが自白したなら、なぜ無実を信じている？"
+
+#: 249936564-0-7430
+#, fuzzy
+msgctxt "249936564-0-7430"
+msgid "Who do the Sapiarchs believe your friend murdered?"
+msgstr "その友人が殺したとされているサピアルチとは何者だ？"
+
+#: 3952276-0-7426
+msgctxt "3952276-0-7426"
+msgid "Not exactly. While scrying through my memories I saw half-formed thoughts and splintered recollections. I saw myself enter the Dreaming Cave beneath Ceporah Tower. And I held the Heart of Transparent Law in my hands."
+msgstr "いや、正確には何も。記憶を占うことで、思考の断片や千切れた回想を知ることはできた。自分がセポラタワーの下にある、夢見の洞窟に入る姿も見た。そこで私は〈透明なる法の心臓〉を手にしていた"
+
+#: 20958740-0-7426
+msgctxt "20958740-0-7426"
+msgid "Tell me everything you remember."
+msgstr "覚えていることを全て話してくれ"
+
+#: 249936564-0-7426
+msgctxt "249936564-0-7426"
+msgid "You remember where you hid the Heart of Transparent Law?"
+msgstr "透明なる法の心臓をどこに隠したか覚えているか？"
+
+#: 3952276-0-7413
+msgctxt "3952276-0-7413"
+msgid "Ominous? No, nothing of the sort. Well, maybe a little of the sort. Depends on how things develop.\n\nThis one has come to Summerset at the behest of Queen Ayrenn. To make sure her decree regarding the opening of the island proceeds as she directed."
+msgstr "不吉？ いや、そんなことはない。まあ、保証はできないがな。今後の展開次第だ\r\n\r\nこの者はアイレン女王の命令でサマーセットに来た。国境を開く女王の布告が、正しく執行されているかどうか確かめるためだ"
+
+#: 20958740-0-7413
+msgctxt "20958740-0-7413"
+msgid "So how can I help?"
+msgstr "何をすればいい？"
+
+#: 249936564-0-7413
+msgctxt "249936564-0-7413"
+msgid "Cloak-and-dagger work? Sounds ominous."
+msgstr "マントと短剣の仕事？ 不吉な響きだ"
+
+#: 3952276-0-7400
+msgctxt "3952276-0-7400"
+msgid "Ha! Have I few dozen warships lying about?\n\nWe've lost an embarrassing number of vessels in the last few months. Foul weather claimed most of them, but those Maormer de'nts have certainly done their part. It's their pet, you see? Keelsplitter."
+msgstr "軍艦が何十隻か転がっていないかしら？\r\n\r\n我々はここ数ヶ月で、かなりの数の船を失ったわ。大部分は悪天候のせいだけど、マオマーの連中も一枚噛んでる… キールスプリッター。奴らのペットよ"
+
+#: 20958740-0-7400
+msgctxt "20958740-0-7400"
+msgid "Keelsplitter?"
+msgstr "キールスプリッター？"
+
+#: 249936564-0-7400
+#, fuzzy
+msgctxt "249936564-0-7400"
+msgid "What's needed?"
+msgstr "何が必要だ？"
+
+#: 3952276-0-7399
+#, fuzzy
+msgctxt "3952276-0-7399"
+msgid "The problem is I have the ignominious duty of offering up the redemption of this office's honor to any interested party. All because we're playing minder to newcomers in record numbers.\n\nWhat I'm trying to say is I require help to honor our fallen."
+msgstr "問題は、この職務をこなす名誉を受け取る資格を、関心さえあれば誰にでも提供する不名誉な義務を負っていることよ。記録的な数の新参者の面倒を見てるせいね\r\n\r\nつまり、殉職者を祀るために手伝いが必要ってこと"
+
+#: 20958740-0-7399
+#, fuzzy
+msgctxt "20958740-0-7399"
+msgid "How can I assist you?"
+msgstr "何を手伝えばいい？"
+
+#: 249936564-0-7399
+#, fuzzy
+msgctxt "249936564-0-7399"
+msgid "What's the problem?"
+msgstr "何か問題が？"
+
+#: 3952276-0-7398
+#, fuzzy
+msgctxt "3952276-0-7398"
+msgid "All gryphons are dangerous, but Haeliata and his mate Nagravia stand out from the rest of their kind. To make matters worse, they've developed a taste for mer flesh. We've received reports of them hunting down travelers.\n\nYou need to take them out."
+msgstr "グリフォンはどれでも危険だけど、ヘリアータとナグラヴィアのつがいは、他とは比べ物にならないわ。しかも、あいつらはエルフの肉に味をしめてしまった。旅行者を襲っているという報告を受けている\r\n\r\nあのつがいを始末して"
+
+#: 20958740-0-7398
+#, fuzzy
+msgctxt "20958740-0-7398"
+msgid "Anything else?"
+msgstr "他には？"
+
+#: 249936564-0-7398
+#, fuzzy
+msgctxt "249936564-0-7398"
+msgid "I'm here for an assignment."
+msgstr "依頼を受けに来た"
+
+#: 3952276-0-7397
+#, fuzzy
+msgctxt "3952276-0-7397"
+msgid "The Sea Sload B'Korgen has turned the Welenkin Cove west of Alinor into a lair of sorts. My scouts report that the vile Sload uses alchemy to empower the other members of the Abyssal Cabal and transform yaghra into even more fearsome creatures."
+msgstr "シースロードのブコルゲンが、アリノールの西にあるウェレンキンの入江を、巣か何かに変えてしまったの。偵察の報告では、奴はアビサルの徒党の他の者を錬金術で強化して、ヤグーラをさらに恐ろしい怪物に変えようとしているらしいわ"
+
+#: 20958740-0-7397
+#, fuzzy
+msgctxt "20958740-0-7397"
+msgid "What do you need me to do?"
+msgstr "何をしたら良い？"
+
+#: 249936564-0-7397
+#, fuzzy
+msgctxt "249936564-0-7397"
+msgid "What's the target?"
+msgstr "何が狙いだ？"
+
+#: 3952276-0-7396
+#, fuzzy
+msgctxt "3952276-0-7396"
+msgid "Caanerin, the indrik matriarch, has returned to her ancestral glade near the center of the Isle. \n\nThe last time this happened, she fawned a whole herd of lesser indrik and destroyed half of Russafeld. Obviously, that will not do."
+msgstr "インドリクの長、ケイネリンが、島の中央付近にある祖先の湿地に戻った\r\n\r\n前に戻ってきた時、ケイネリンはレッサー・インドリクの大群を産み落として、ラッサフェルドを半壊させたの。当然、そうなっては困る"
+
+#: 20958740-0-7396
+#, fuzzy
+msgctxt "20958740-0-7396"
+msgid "So you need someone to kill Caanerin?"
+msgstr "では、誰かにケイネリンを倒させたいのか？"
+
+#: 249936564-0-7396
+#, fuzzy
+msgctxt "249936564-0-7396"
+msgid "What do you need?"
+msgstr "何をすればいい？"
+
+#: 3952276-0-7395
+msgctxt "3952276-0-7395"
+msgid "Then you distinguish yourself from many of the newcomers I see.\n\nYour duty today will be to investigate the unholy perversion of our beloved isles. There are unsettling rumors that the curse of Corgrad is spreading. The Sapiarchs desire evidence."
+msgstr "他の大半の新参者より優秀なようね\r\n\r\n今日の仕事は、我らが愛するこの島の忌まわしき異常を調査することよ。コルグラドの呪いが広がっているという不穏な噂があるの。サピアルチは証拠を求めている"
+
+#: 20958740-0-7395
+msgctxt "20958740-0-7395"
+msgid "What sort of evidence?"
+msgstr "どんな証拠だ？"
+
+#: 249936564-0-7395
+msgctxt "249936564-0-7395"
+msgid "I'm interested in work."
+msgstr "興味がある"
+
+#: 3952276-0-7555
+#, fuzzy
+msgctxt "3952276-0-7555"
+msgid "Not exactly. He saw himself enter the Dreaming Cave beneath Ceporah Tower, carrying the Heart in his own two hands. And he didn't have it when he reemerged a short time later."
+msgstr "部分的にね。彼は自分がタワーの下にある夢見の洞窟に入っていくのを見たの。心臓を持ってね。けど、出てきた時には心臓を持ってなかった"
+
+#: 3952276-0-7551
+msgctxt "3952276-0-7551"
+msgid "Just what I heard from one of the bailiffs. Apparently some daffy Bosmer called the Ghost of the Green did it, but no one knows for sure. The investigation's hit a snag. Something about the Rule of Three.\n\nSuperstitious nonsense if you ask me."
+msgstr "俺は執行官の一人から聞いただけさ。どうも緑の亡霊とかいうふざけたボズマーがやったらしいが、確かなことは誰も知らないんだ。調査は行き詰まってるよ。何が三人制度だ\r\n\r\nふざけた迷信だよ"

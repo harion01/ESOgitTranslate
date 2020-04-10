@@ -1,0 +1,9773 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 8290981-0-92011
+msgctxt "8290981-0-92011"
+msgid "Drublog Screamer"
+msgstr "드루블로그 비명꾼"
+
+#: 8290981-0-92010
+msgctxt "8290981-0-92010"
+msgid "Drublog Screamer"
+msgstr "드루블로그 비명꾼"
+
+#: 8290981-0-92009
+msgctxt "8290981-0-92009"
+msgid "Drublog Ravager"
+msgstr "드루블로그 파괴자"
+
+#: 8290981-0-92008
+msgctxt "8290981-0-92008"
+msgid "Drublog Ravager"
+msgstr "드루블로그 파괴자"
+
+#: 8290981-0-91982
+msgctxt "8290981-0-91982"
+msgid "ESO-614475"
+msgstr ""
+
+#: 8290981-0-91919
+msgctxt "8290981-0-91919"
+msgid "ESO-613973"
+msgstr ""
+
+#: 8290981-0-91904
+msgctxt "8290981-0-91904"
+msgid "ESO-613981"
+msgstr ""
+
+#: 8290981-0-91903
+msgctxt "8290981-0-91903"
+msgid "ESO-614597"
+msgstr ""
+
+#: 8290981-0-91902
+msgctxt "8290981-0-91902"
+msgid "ESO-613292"
+msgstr ""
+
+#: 8290981-0-91901
+msgctxt "8290981-0-91901"
+msgid "ESO-616496"
+msgstr ""
+
+#: 8290981-0-91888
+msgctxt "8290981-0-91888"
+msgid "ESO-616102"
+msgstr ""
+
+#: 8290981-0-91844
+msgctxt "8290981-0-91844"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-91843
+msgctxt "8290981-0-91843"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-91808
+msgctxt "8290981-0-91808"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-91766
+#, fuzzy
+msgctxt "8290981-0-91766"
+msgid "Green Dragon Imp"
+msgstr "녹색 드래곤 임프"
+
+#: 8290981-0-91759
+msgctxt "8290981-0-91759"
+msgid "Blue Dragon Imp"
+msgstr "푸른 드래곤 임프"
+
+#: 8290981-0-91734
+msgctxt "8290981-0-91734"
+msgid "Dragon Imp Green"
+msgstr "녹색 드래곤 임프"
+
+#: 8290981-0-91733
+msgctxt "8290981-0-91733"
+msgid "Dragon Imp Green"
+msgstr "녹색 드래곤 임프"
+
+#: 8290981-0-91732
+msgctxt "8290981-0-91732"
+msgid "Blue Dragon Imp"
+msgstr "푸른 드래곤 임프"
+
+#: 8290981-0-91731
+msgctxt "8290981-0-91731"
+msgid "Blue Dragon Imp"
+msgstr "푸른 드래곤 임프"
+
+#: 8290981-0-91421
+#, fuzzy
+msgctxt "8290981-0-91421"
+msgid "Air Atronach"
+msgstr "공기 아트로나크"
+
+#: 8290981-0-91420
+#, fuzzy
+msgctxt "8290981-0-91420"
+msgid "Storm Atronach"
+msgstr "폭풍 아트로나크"
+
+#: 8290981-0-91315
+msgctxt "8290981-0-91315"
+msgid "Stricken Agitator"
+msgstr ""
+
+#: 8290981-0-91314
+msgctxt "8290981-0-91314"
+msgid "Ghostly Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-91300
+#, fuzzy
+msgctxt "8290981-0-91300"
+msgid "Iron Atronach"
+msgstr "아이언 아트로나크"
+
+#: 8290981-0-91294
+msgctxt "8290981-0-91294"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-91293
+msgctxt "8290981-0-91293"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-91282
+msgctxt "8290981-0-91282"
+msgid "Jerboa"
+msgstr ""
+
+#: 8290981-0-91281
+msgctxt "8290981-0-91281"
+msgid "Jerboa"
+msgstr ""
+
+#: 8290981-0-91280
+msgctxt "8290981-0-91280"
+msgid "Jerboa"
+msgstr ""
+
+#: 8290981-0-91279
+msgctxt "8290981-0-91279"
+msgid "Jerboa"
+msgstr ""
+
+#: 8290981-0-91275
+msgctxt "8290981-0-91275"
+msgid "Gryphon"
+msgstr "그리폰"
+
+#: 8290981-0-91274
+msgctxt "8290981-0-91274"
+msgid "Golden Saint"
+msgstr "골든 세인트"
+
+#: 8290981-0-91270
+msgctxt "8290981-0-91270"
+msgid "Golden Saint"
+msgstr "골든 세인트"
+
+#: 8290981-0-91269
+msgctxt "8290981-0-91269"
+msgid "Invis"
+msgstr "인비스"
+
+#: 8290981-0-91263
+msgctxt "8290981-0-91263"
+msgid "Gryphon"
+msgstr "그리폰"
+
+#: 8290981-0-91258
+msgctxt "8290981-0-91258"
+msgid "Ogre"
+msgstr "오거"
+
+#: 8290981-0-91236
+#, fuzzy
+msgctxt "8290981-0-91236"
+msgid "Antelope"
+msgstr "영양"
+
+#: 8290981-0-91222
+#, fuzzy
+msgctxt "8290981-0-91222"
+msgid "Minotaur"
+msgstr "미노타우르"
+
+#: 8290981-0-91211
+msgctxt "8290981-0-91211"
+msgid "Nulaga"
+msgstr ""
+
+#: 8290981-0-91210
+msgctxt "8290981-0-91210"
+msgid "J'luk"
+msgstr ""
+
+#: 8290981-0-91208
+msgctxt "8290981-0-91208"
+msgid "Daahin"
+msgstr ""
+
+#: 8290981-0-91206
+msgctxt "8290981-0-91206"
+msgid "Duzhargo"
+msgstr ""
+
+#: 8290981-0-91205
+msgctxt "8290981-0-91205"
+msgid "Gryphon"
+msgstr "그리폰"
+
+#: 8290981-0-91167
+msgctxt "8290981-0-91167"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-91122
+#, fuzzy
+msgctxt "8290981-0-91122"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-91121
+#, fuzzy
+msgctxt "8290981-0-91121"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-91119
+#, fuzzy
+msgctxt "8290981-0-91119"
+msgid "Assassin Beetle"
+msgstr "암살풍뎅이"
+
+#: 8290981-0-91118
+#, fuzzy
+msgctxt "8290981-0-91118"
+msgid "Assassin Beetle"
+msgstr "암살풍뎅이"
+
+#: 8290981-0-91112
+#, fuzzy
+msgctxt "8290981-0-91112"
+msgid "Minotaur"
+msgstr "미노타우르"
+
+#: 8290981-0-91108
+#, fuzzy
+msgctxt "8290981-0-91108"
+msgid "Frost Atronach"
+msgstr "서리 아트로나크"
+
+#: 8290981-0-91107
+msgctxt "8290981-0-91107"
+msgid "Storm Atronach"
+msgstr "폭풍 아트로나크"
+
+#: 8290981-0-91094
+msgctxt "8290981-0-91094"
+msgid "Snake"
+msgstr "뱀"
+
+#: 8290981-0-91078
+msgctxt "8290981-0-91078"
+msgid "Jaudet"
+msgstr ""
+
+#: 8290981-0-91049
+msgctxt "8290981-0-91049"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-91040
+#, fuzzy
+msgctxt "8290981-0-91040"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-91039
+#, fuzzy
+msgctxt "8290981-0-91039"
+msgid "Senche-Panther"
+msgstr "센치 표범"
+
+#: 8290981-0-91008
+#, fuzzy
+msgctxt "8290981-0-91008"
+msgid "Wolf Pup"
+msgstr "새끼 늑대"
+
+#: 8290981-0-90984
+#, fuzzy
+msgctxt "8290981-0-90984"
+msgid "Senche-Panther"
+msgstr "센치 표범"
+
+#: 8290981-0-90975
+#, fuzzy
+msgctxt "8290981-0-90975"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-90963
+msgctxt "8290981-0-90963"
+msgid "Target Dro-m'Athra"
+msgstr "표적용 드로 마스라"
+
+#: 8290981-0-90962
+msgctxt "8290981-0-90962"
+msgid "Bone Armor"
+msgstr "뼈 갑옷"
+
+#: 8290981-0-90961
+msgctxt "8290981-0-90961"
+msgid "Predicant Maera"
+msgstr "설교사 마에라"
+
+#: 8290981-0-90956
+#, fuzzy
+msgctxt "8290981-0-90956"
+msgid "Dire Wolf"
+msgstr "이리"
+
+#: 8290981-0-90954
+msgctxt "8290981-0-90954"
+msgid "Nixad"
+msgstr ""
+
+#: 8290981-0-90949
+msgctxt "8290981-0-90949"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-90948
+msgctxt "8290981-0-90948"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-90944
+msgctxt "8290981-0-90944"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-90915
+msgctxt "8290981-0-90915"
+msgid "Moon-Sentinel Adept"
+msgstr ""
+
+#: 8290981-0-90913
+msgctxt "8290981-0-90913"
+msgid "Troll"
+msgstr "트롤"
+
+#: 8290981-0-90909
+#, fuzzy
+msgctxt "8290981-0-90909"
+msgid "Rat"
+msgstr "쥐"
+
+#: 8290981-0-90908
+msgctxt "8290981-0-90908"
+msgid "Storm"
+msgstr "폭풍"
+
+#: 8290981-0-90897
+msgctxt "8290981-0-90897"
+msgid "Senche-Raht"
+msgstr "센치-랏"
+
+#: 8290981-0-90896
+msgctxt "8290981-0-90896"
+msgid "Senche-Raht"
+msgstr "센치-랏"
+
+#: 8290981-0-90895
+#, fuzzy
+msgctxt "8290981-0-90895"
+msgid "Monkey"
+msgstr "원숭이"
+
+#: 8290981-0-90890
+msgctxt "8290981-0-90890"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90882
+msgctxt "8290981-0-90882"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90881
+msgctxt "8290981-0-90881"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90880
+#, fuzzy
+msgctxt "8290981-0-90880"
+msgid "Monkey"
+msgstr "원숭이"
+
+#: 8290981-0-90871
+msgctxt "8290981-0-90871"
+msgid "Tropical Bird"
+msgstr "열대 새"
+
+#: 8290981-0-90864
+#, fuzzy
+msgctxt "8290981-0-90864"
+msgid "Iron Atronach"
+msgstr "아이언 아트로나크"
+
+#: 8290981-0-90862
+msgctxt "8290981-0-90862"
+msgid "Storm Breath"
+msgstr ""
+
+#: 8290981-0-90855
+msgctxt "8290981-0-90855"
+msgid "Ruddy Fang Cannibal"
+msgstr ""
+
+#: 8290981-0-90854
+msgctxt "8290981-0-90854"
+msgid "Ruddy Fang Cannibal"
+msgstr ""
+
+#: 8290981-0-90852
+msgctxt "8290981-0-90852"
+msgid "Lieutenant Herennius"
+msgstr ""
+
+#: 8290981-0-90851
+msgctxt "8290981-0-90851"
+msgid "Ruddy Fang Marauder"
+msgstr ""
+
+#: 8290981-0-90850
+msgctxt "8290981-0-90850"
+msgid "Ruddy Fang Marauder"
+msgstr ""
+
+#: 8290981-0-90849
+msgctxt "8290981-0-90849"
+msgid "Ruddy Fang Pyromancer"
+msgstr ""
+
+#: 8290981-0-90848
+msgctxt "8290981-0-90848"
+msgid "Ruddy Fang Pyromancer"
+msgstr ""
+
+#: 8290981-0-90847
+#, fuzzy
+msgctxt "8290981-0-90847"
+msgid "Alit"
+msgstr "알리트"
+
+#: 8290981-0-90846
+#, fuzzy
+msgctxt "8290981-0-90846"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-90845
+msgctxt "8290981-0-90845"
+msgid "Lieutenant Artorius"
+msgstr ""
+
+#: 8290981-0-90844
+#, fuzzy
+msgctxt "8290981-0-90844"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-90843
+#, fuzzy
+msgctxt "8290981-0-90843"
+msgid "Dire Wolf"
+msgstr "이리"
+
+#: 8290981-0-90839
+#, fuzzy
+msgctxt "8290981-0-90839"
+msgid "River Troll"
+msgstr "리버 트롤"
+
+#: 8290981-0-90835
+msgctxt "8290981-0-90835"
+msgid "Searing Breath"
+msgstr ""
+
+#: 8290981-0-90805
+msgctxt "8290981-0-90805"
+msgid "Skeletal Stalker"
+msgstr ""
+
+#: 8290981-0-90804
+msgctxt "8290981-0-90804"
+msgid "Skeletal Stalker"
+msgstr ""
+
+#: 8290981-0-90799
+msgctxt "8290981-0-90799"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-90798
+msgctxt "8290981-0-90798"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-90797
+msgctxt "8290981-0-90797"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-90792
+#, fuzzy
+msgctxt "8290981-0-90792"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-90791
+msgctxt "8290981-0-90791"
+msgid "Reanimated Archer"
+msgstr ""
+
+#: 8290981-0-90790
+msgctxt "8290981-0-90790"
+msgid "Reanimated Archer"
+msgstr ""
+
+#: 8290981-0-90785
+msgctxt "8290981-0-90785"
+msgid "Frog"
+msgstr "개구리"
+
+#: 8290981-0-90784
+msgctxt "8290981-0-90784"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-90782
+msgctxt "8290981-0-90782"
+msgid "Belle"
+msgstr ""
+
+#: 8290981-0-90781
+msgctxt "8290981-0-90781"
+msgid "Invisible"
+msgstr "투명화"
+
+#: 8290981-0-90777
+msgctxt "8290981-0-90777"
+msgid "Goutfang Senche-raht"
+msgstr ""
+
+#: 8290981-0-90774
+#, fuzzy
+msgctxt "8290981-0-90774"
+msgid "Clannfear"
+msgstr "클랜피어"
+
+#: 8290981-0-90760
+msgctxt "8290981-0-90760"
+msgid "Mummy Stalker"
+msgstr ""
+
+#: 8290981-0-90759
+msgctxt "8290981-0-90759"
+msgid "Mummy Guardian"
+msgstr ""
+
+#: 8290981-0-90758
+msgctxt "8290981-0-90758"
+msgid "Mummy Archer"
+msgstr ""
+
+#: 8290981-0-90757
+msgctxt "8290981-0-90757"
+msgid "Mummy Berserker"
+msgstr ""
+
+#: 8290981-0-90753
+msgctxt "8290981-0-90753"
+msgid "Storm Wyrm"
+msgstr ""
+
+#: 8290981-0-90749
+msgctxt "8290981-0-90749"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-90748
+msgctxt "8290981-0-90748"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-90747
+msgctxt "8290981-0-90747"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-90737
+msgctxt "8290981-0-90737"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-90736
+msgctxt "8290981-0-90736"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-90735
+msgctxt "8290981-0-90735"
+msgid "Daegonic Pyromancer"
+msgstr ""
+
+#: 8290981-0-90734
+msgctxt "8290981-0-90734"
+msgid "Daegonic Pyromancer"
+msgstr ""
+
+#: 8290981-0-90733
+msgctxt "8290981-0-90733"
+msgid "Daegonic Razorclaw"
+msgstr ""
+
+#: 8290981-0-90732
+msgctxt "8290981-0-90732"
+msgid "Daegonic Alchemist"
+msgstr ""
+
+#: 8290981-0-90731
+msgctxt "8290981-0-90731"
+msgid "Daegonic Razorclaw"
+msgstr ""
+
+#: 8290981-0-90729
+msgctxt "8290981-0-90729"
+msgid "Daegonic Alchemist"
+msgstr ""
+
+#: 8290981-0-90720
+msgctxt "8290981-0-90720"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-90712
+#, fuzzy
+msgctxt "8290981-0-90712"
+msgid "Spider"
+msgstr "거미"
+
+#: 8290981-0-90704
+#, fuzzy
+msgctxt "8290981-0-90704"
+msgid "Monkey"
+msgstr "원숭이"
+
+#: 8290981-0-90703
+#, fuzzy
+msgctxt "8290981-0-90703"
+msgid "Monkey"
+msgstr "원숭이"
+
+#: 8290981-0-90702
+#, fuzzy
+msgctxt "8290981-0-90702"
+msgid "Monkey"
+msgstr "원숭이"
+
+#: 8290981-0-90700
+msgctxt "8290981-0-90700"
+msgid "Ghostly Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-90695
+#, fuzzy
+msgctxt "8290981-0-90695"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-90688
+msgctxt "8290981-0-90688"
+msgid "Abathoth"
+msgstr ""
+
+#: 8290981-0-90687
+msgctxt "8290981-0-90687"
+msgid "Abathoth"
+msgstr ""
+
+#: 8290981-0-90684
+#, fuzzy
+msgctxt "8290981-0-90684"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-90679
+msgctxt "8290981-0-90679"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90674
+#, fuzzy
+msgctxt "8290981-0-90674"
+msgid "Lizard"
+msgstr "도마뱀"
+
+#: 8290981-0-90672
+#, fuzzy
+msgctxt "8290981-0-90672"
+msgid "Scorpion"
+msgstr "전갈"
+
+#: 8290981-0-90671
+msgctxt "8290981-0-90671"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-90670
+msgctxt "8290981-0-90670"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90669
+msgctxt "8290981-0-90669"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90664
+msgctxt "8290981-0-90664"
+msgid "Storm Wyrm"
+msgstr ""
+
+#: 8290981-0-90663
+#, fuzzy
+msgctxt "8290981-0-90663"
+msgid "Scorpion"
+msgstr "전갈"
+
+#: 8290981-0-90660
+msgctxt "8290981-0-90660"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90659
+msgctxt "8290981-0-90659"
+msgid "Euraxian Alchemist"
+msgstr "유라시아의 연금술사"
+
+#: 8290981-0-90657
+msgctxt "8290981-0-90657"
+msgid "Sunspire Champion Senche-Lion"
+msgstr "태양첨탑 투사 센치 사자"
+
+#: 8290981-0-90655
+msgctxt "8290981-0-90655"
+msgid "Flozah-no"
+msgstr ""
+
+#: 8290981-0-90652
+#, fuzzy
+msgctxt "8290981-0-90652"
+msgid "Rat"
+msgstr "쥐"
+
+#: 8290981-0-90648
+#, fuzzy
+msgctxt "8290981-0-90648"
+msgid "Skeletal Slayer"
+msgstr "해골 살해자"
+
+#: 8290981-0-90647
+#, fuzzy
+msgctxt "8290981-0-90647"
+msgid "Skeletal Ravager"
+msgstr "해골 파괴자"
+
+#: 8290981-0-90646
+#, fuzzy
+msgctxt "8290981-0-90646"
+msgid "Skeletal Brute"
+msgstr "해골 야만병"
+
+#: 8290981-0-90640
+msgctxt "8290981-0-90640"
+msgid "Flame Wyrm"
+msgstr ""
+
+#: 8290981-0-90639
+#, fuzzy
+msgctxt "8290981-0-90639"
+msgid "Skeletal Archer"
+msgstr "해골 궁수"
+
+#: 8290981-0-90638
+#, fuzzy
+msgctxt "8290981-0-90638"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-90630
+#, fuzzy
+msgctxt "8290981-0-90630"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-90629
+#, fuzzy
+msgctxt "8290981-0-90629"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-90628
+#, fuzzy
+msgctxt "8290981-0-90628"
+msgid "Sunspire Archer"
+msgstr "태양첨탑 궁수"
+
+#: 8290981-0-90608
+msgctxt "8290981-0-90608"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90607
+msgctxt "8290981-0-90607"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90605
+msgctxt "8290981-0-90605"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90602
+msgctxt "8290981-0-90602"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90598
+msgctxt "8290981-0-90598"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90597
+msgctxt "8290981-0-90597"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90579
+msgctxt "8290981-0-90579"
+msgid "Fire Trap"
+msgstr ""
+
+#: 8290981-0-90570
+msgctxt "8290981-0-90570"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90569
+msgctxt "8290981-0-90569"
+msgid "Chasky"
+msgstr ""
+
+#: 8290981-0-90568
+#, fuzzy
+msgctxt "8290981-0-90568"
+msgid "Jackal"
+msgstr "자칼"
+
+#: 8290981-0-90567
+msgctxt "8290981-0-90567"
+msgid "Senche-Raht"
+msgstr "센치-랏"
+
+#: 8290981-0-90566
+#, fuzzy
+msgctxt "8290981-0-90566"
+msgid "Sunspire Mender"
+msgstr "태양첨탑 수복자"
+
+#: 8290981-0-90555
+msgctxt "8290981-0-90555"
+msgid "Target"
+msgstr ""
+
+#: 8290981-0-90553
+msgctxt "8290981-0-90553"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90552
+msgctxt "8290981-0-90552"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90551
+#, fuzzy
+msgctxt "8290981-0-90551"
+msgid "Scorpion"
+msgstr "전갈"
+
+#: 8290981-0-90549
+msgctxt "8290981-0-90549"
+msgid "Skeletal Arcanist"
+msgstr "해골 비술사"
+
+#: 8290981-0-90548
+msgctxt "8290981-0-90548"
+msgid "Skeletal Arcanist"
+msgstr "해골 비술사"
+
+#: 8290981-0-90545
+msgctxt "8290981-0-90545"
+msgid "Skeletal Mage"
+msgstr "해골 마법사"
+
+#: 8290981-0-90544
+msgctxt "8290981-0-90544"
+msgid "Skeletal Mage"
+msgstr "해골 마법사"
+
+#: 8290981-0-90543
+msgctxt "8290981-0-90543"
+msgid "Portal"
+msgstr "포탈"
+
+#: 8290981-0-90542
+msgctxt "8290981-0-90542"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90541
+msgctxt "8290981-0-90541"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90540
+msgctxt "8290981-0-90540"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90539
+msgctxt "8290981-0-90539"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90538
+msgctxt "8290981-0-90538"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90537
+msgctxt "8290981-0-90537"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90535
+msgctxt "8290981-0-90535"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90533
+msgctxt "8290981-0-90533"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90532
+msgctxt "8290981-0-90532"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90531
+msgctxt "8290981-0-90531"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90530
+msgctxt "8290981-0-90530"
+msgid "Star Haven Adept"
+msgstr "스타 헤이븐의 수도자"
+
+#: 8290981-0-90526
+msgctxt "8290981-0-90526"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-90525
+#, fuzzy
+msgctxt "8290981-0-90525"
+msgid "Jackal"
+msgstr "자칼"
+
+#: 8290981-0-90524
+msgctxt "8290981-0-90524"
+msgid "Alkosh's Supplicant"
+msgstr ""
+
+#: 8290981-0-90523
+msgctxt "8290981-0-90523"
+msgid "Alkosh's Supplicant"
+msgstr ""
+
+#: 8290981-0-90522
+msgctxt "8290981-0-90522"
+msgid "Euraxian Berserker"
+msgstr "유라시아의 광전사"
+
+#: 8290981-0-90521
+msgctxt "8290981-0-90521"
+msgid "Euraxian Berserker"
+msgstr "유라시아의 광전사r"
+
+#: 8290981-0-90514
+msgctxt "8290981-0-90514"
+msgid "Time Breach"
+msgstr ""
+
+#: 8290981-0-90513
+msgctxt "8290981-0-90513"
+msgid "Jeb'wits"
+msgstr ""
+
+#: 8290981-0-90512
+msgctxt "8290981-0-90512"
+msgid "Eternal Servant"
+msgstr ""
+
+#: 8290981-0-90511
+msgctxt "8290981-0-90511"
+msgid "Blastbones"
+msgstr ""
+
+#: 8290981-0-90509
+msgctxt "8290981-0-90509"
+msgid "Supernova Timer"
+msgstr ""
+
+#: 8290981-0-90507
+msgctxt "8290981-0-90507"
+msgid "Vulture"
+msgstr "독수리"
+
+#: 8290981-0-90506
+msgctxt "8290981-0-90506"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-90505
+msgctxt "8290981-0-90505"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-90504
+msgctxt "8290981-0-90504"
+msgid "Blastbones"
+msgstr ""
+
+#: 8290981-0-90501
+msgctxt "8290981-0-90501"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-90500
+msgctxt "8290981-0-90500"
+msgid "Sep Adder"
+msgstr "셉 에더"
+
+#: 8290981-0-90499
+msgctxt "8290981-0-90499"
+msgid "TEST_DRAGON"
+msgstr ""
+
+#: 8290981-0-90497
+msgctxt "8290981-0-90497"
+msgid "Jerboa"
+msgstr ""
+
+#: 8290981-0-90496
+#, fuzzy
+msgctxt "8290981-0-90496"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90495
+#, fuzzy
+msgctxt "8290981-0-90495"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90494
+msgctxt "8290981-0-90494"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90493
+msgctxt "8290981-0-90493"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-90492
+msgctxt "8290981-0-90492"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-90491
+#, fuzzy
+msgctxt "8290981-0-90491"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-90488
+#, fuzzy
+msgctxt "8290981-0-90488"
+msgid "Goat"
+msgstr "염소"
+
+#: 8290981-0-90487
+#, fuzzy
+msgctxt "8290981-0-90487"
+msgid "Goat"
+msgstr "염소"
+
+#: 8290981-0-90486
+#, fuzzy
+msgctxt "8290981-0-90486"
+msgid "Goat"
+msgstr "염소"
+
+#: 8290981-0-90484
+msgctxt "8290981-0-90484"
+msgid "Ogre"
+msgstr "오거"
+
+#: 8290981-0-90483
+msgctxt "8290981-0-90483"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90482
+msgctxt "8290981-0-90482"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-90481
+msgctxt "8290981-0-90481"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-90479
+#, fuzzy
+msgctxt "8290981-0-90479"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-90476
+msgctxt "8290981-0-90476"
+msgid "Pocco"
+msgstr ""
+
+#: 8290981-0-90475
+#, fuzzy
+msgctxt "8290981-0-90475"
+msgid "Snake"
+msgstr "뱀"
+
+#: 8290981-0-90474
+msgctxt "8290981-0-90474"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-90472
+msgctxt "8290981-0-90472"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-90471
+#, fuzzy
+msgctxt "8290981-0-90471"
+msgid "Skeletal Senche"
+msgstr "해골 센치"
+
+#: 8290981-0-90470
+#, fuzzy
+msgctxt "8290981-0-90470"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-90469
+msgctxt "8290981-0-90469"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-90468
+msgctxt "8290981-0-90468"
+msgid "Darkness"
+msgstr ""
+
+#: 8290981-0-90467
+msgctxt "8290981-0-90467"
+msgid "Eternal Servant"
+msgstr ""
+
+#: 8290981-0-90465
+msgctxt "8290981-0-90465"
+msgid "Fennec Fox"
+msgstr "사막여우"
+
+#: 8290981-0-90463
+msgctxt "8290981-0-90463"
+msgid "Senche-Tiger Cub"
+msgstr ""
+
+#: 8290981-0-90462
+msgctxt "8290981-0-90462"
+msgid "Fif Byrp't"
+msgstr ""
+
+#: 8290981-0-90460
+#, fuzzy
+msgctxt "8290981-0-90460"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-90459
+#, fuzzy
+msgctxt "8290981-0-90459"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-90458
+msgctxt "8290981-0-90458"
+msgid "Volatile Undeath"
+msgstr ""
+
+#: 8290981-0-90457
+msgctxt "8290981-0-90457"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-90455
+msgctxt "8290981-0-90455"
+msgid "Wily Kee'va Minion"
+msgstr ""
+
+#: 8290981-0-90453
+msgctxt "8290981-0-90453"
+msgid "Jora-ri"
+msgstr ""
+
+#: 8290981-0-90449
+msgctxt "8290981-0-90449"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-90448
+msgctxt "8290981-0-90448"
+msgid "Desiccated Knight"
+msgstr ""
+
+#: 8290981-0-90447
+msgctxt "8290981-0-90447"
+msgid "Nahviintaas"
+msgstr ""
+
+#: 8290981-0-90446
+msgctxt "8290981-0-90446"
+msgid "Jode's Fire-Fang"
+msgstr ""
+
+#: 8290981-0-90445
+msgctxt "8290981-0-90445"
+msgid "Jone's Gale-Claw"
+msgstr ""
+
+#: 8290981-0-90444
+msgctxt "8290981-0-90444"
+msgid "Sandroach"
+msgstr "모래바퀴"
+
+#: 8290981-0-90443
+#, fuzzy
+msgctxt "8290981-0-90443"
+msgid "Target Iron Atronach"
+msgstr "목표 아이언 아트로나크 -G-"
+
+#: 8290981-0-90438
+msgctxt "8290981-0-90438"
+msgid "Grikahzidmoro"
+msgstr ""
+
+#: 8290981-0-90435
+msgctxt "8290981-0-90435"
+msgid "Skeletal Stalker"
+msgstr ""
+
+#: 8290981-0-90429
+msgctxt "8290981-0-90429"
+msgid "Searing Breath"
+msgstr ""
+
+#: 8290981-0-90425
+#, fuzzy
+msgctxt "8290981-0-90425"
+msgid "Sunspire Mender"
+msgstr "태양첨탑 수복자"
+
+#: 8290981-0-90424
+#, fuzzy
+msgctxt "8290981-0-90424"
+msgid "Sunspire Mender"
+msgstr "태양첨탑 수복자"
+
+#: 8290981-0-90417
+msgctxt "8290981-0-90417"
+msgid "Duneripper"
+msgstr "듄리퍼"
+
+#: 8290981-0-90410
+#, fuzzy
+msgctxt "8290981-0-90410"
+msgid "Lizard"
+msgstr "도마뱀"
+
+#: 8290981-0-90409
+msgctxt "8290981-0-90409"
+msgid "Khasda Lieutenant"
+msgstr ""
+
+#: 8290981-0-90408
+msgctxt "8290981-0-90408"
+msgid "Khasda Lieutenant"
+msgstr ""
+
+#: 8290981-0-90406
+msgctxt "8290981-0-90406"
+msgid "Badger"
+msgstr ""
+
+#: 8290981-0-90405
+msgctxt "8290981-0-90405"
+msgid "Badger"
+msgstr ""
+
+#: 8290981-0-90404
+msgctxt "8290981-0-90404"
+msgid "Badger"
+msgstr ""
+
+#: 8290981-0-90403
+msgctxt "8290981-0-90403"
+msgid "Duneripper"
+msgstr "듄리퍼"
+
+#: 8290981-0-90392
+msgctxt "8290981-0-90392"
+msgid "Alkosh's Roar"
+msgstr ""
+
+#: 8290981-0-90390
+msgctxt "8290981-0-90390"
+msgid "Beetle"
+msgstr "딱정벌레"
+
+#: 8290981-0-90389
+msgctxt "8290981-0-90389"
+msgid "Ghashugg"
+msgstr ""
+
+#: 8290981-0-90387
+msgctxt "8290981-0-90387"
+msgid "Elianna Pevengius"
+msgstr ""
+
+#: 8290981-0-90386
+msgctxt "8290981-0-90386"
+msgid "Nahviintaas"
+msgstr ""
+
+#: 8290981-0-90380
+msgctxt "8290981-0-90380"
+msgid "Voracious Venomspit Spider"
+msgstr ""
+
+#: 8290981-0-90378
+msgctxt "8290981-0-90378"
+msgid "Inalzin"
+msgstr "이나르진"
+
+#: 8290981-0-90374
+#, fuzzy
+msgctxt "8290981-0-90374"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90373
+#, fuzzy
+msgctxt "8290981-0-90373"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90372
+#, fuzzy
+msgctxt "8290981-0-90372"
+msgid "Dire Wolf"
+msgstr "이리"
+
+#: 8290981-0-90371
+msgctxt "8290981-0-90371"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90370
+#, fuzzy
+msgctxt "8290981-0-90370"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90369
+#, fuzzy
+msgctxt "8290981-0-90369"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90368
+#, fuzzy
+msgctxt "8290981-0-90368"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90367
+#, fuzzy
+msgctxt "8290981-0-90367"
+msgid "Citizen"
+msgstr "시민"
+
+#: 8290981-0-90366
+#, fuzzy
+msgctxt "8290981-0-90366"
+msgid "Dire Wolf"
+msgstr "이리"
+
+#: 8290981-0-90364
+msgctxt "8290981-0-90364"
+msgid "Senche-raht"
+msgstr ""
+
+#: 8290981-0-90363
+msgctxt "8290981-0-90363"
+msgid "Senche-raht"
+msgstr ""
+
+#: 8290981-0-90362
+#, fuzzy
+msgctxt "8290981-0-90362"
+msgid "Alit"
+msgstr "알리트"
+
+#: 8290981-0-90359
+msgctxt "8290981-0-90359"
+msgid "Moon-Sentinel Suncaster"
+msgstr ""
+
+#: 8290981-0-90358
+msgctxt "8290981-0-90358"
+msgid "Moon-Sentinel Suncaster"
+msgstr ""
+
+#: 8290981-0-90355
+msgctxt "8290981-0-90355"
+msgid "Target"
+msgstr ""
+
+#: 8290981-0-90354
+#, fuzzy
+msgctxt "8290981-0-90354"
+msgid "Sunna'rah"
+msgstr "순나'라"
+
+#: 8290981-0-90353
+msgctxt "8290981-0-90353"
+msgid "Euraxia Tharn"
+msgstr "유라시아 탄"
+
+#: 8290981-0-90349
+msgctxt "8290981-0-90349"
+msgid "Gravechill"
+msgstr ""
+
+#: 8290981-0-90348
+#, fuzzy
+msgctxt "8290981-0-90348"
+msgid "Storm Atronach"
+msgstr "폭풍 아트로나크"
+
+#: 8290981-0-90347
+msgctxt "8290981-0-90347"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-90346
+#, fuzzy
+msgctxt "8290981-0-90346"
+msgid "Heron"
+msgstr "왜가리"
+
+#: 8290981-0-90345
+msgctxt "8290981-0-90345"
+msgid "Target"
+msgstr ""
+
+#: 8290981-0-90344
+#, fuzzy
+msgctxt "8290981-0-90344"
+msgid "Alit"
+msgstr "알리트"
+
+#: 8290981-0-90343
+msgctxt "8290981-0-90343"
+msgid "Kahada"
+msgstr ""
+
+#: 8290981-0-90342
+msgctxt "8290981-0-90342"
+msgid "Ashalra"
+msgstr ""
+
+#: 8290981-0-90341
+msgctxt "8290981-0-90341"
+msgid "Tsirina"
+msgstr ""
+
+#: 8290981-0-90340
+msgctxt "8290981-0-90340"
+msgid "Demusa"
+msgstr ""
+
+#: 8290981-0-90339
+msgctxt "8290981-0-90339"
+msgid "Elzak"
+msgstr ""
+
+#: 8290981-0-90338
+msgctxt "8290981-0-90338"
+msgid "Dahldar"
+msgstr ""
+
+#: 8290981-0-90337
+#, fuzzy
+msgctxt "8290981-0-90337"
+msgid "Abadai"
+msgstr "아바다이"
+
+#: 8290981-0-90336
+msgctxt "8290981-0-90336"
+msgid "Zazaahni"
+msgstr ""
+
+#: 8290981-0-90335
+msgctxt "8290981-0-90335"
+msgid "Tsaba"
+msgstr ""
+
+#: 8290981-0-90334
+msgctxt "8290981-0-90334"
+msgid "Nabdi"
+msgstr ""
+
+#: 8290981-0-90333
+msgctxt "8290981-0-90333"
+msgid "Marzak"
+msgstr ""
+
+#: 8290981-0-90332
+msgctxt "8290981-0-90332"
+msgid "Kirrdul"
+msgstr ""
+
+#: 8290981-0-90331
+msgctxt "8290981-0-90331"
+msgid "Himalaz"
+msgstr ""
+
+#: 8290981-0-90330
+msgctxt "8290981-0-90330"
+msgid "Adubid"
+msgstr ""
+
+#: 8290981-0-90329
+#, fuzzy
+msgctxt "8290981-0-90329"
+msgid "Air Atronach"
+msgstr "공기 아트로나크"
+
+#: 8290981-0-90328
+msgctxt "8290981-0-90328"
+msgid "Canary"
+msgstr "카나리아"
+
+#: 8290981-0-90327
+#, fuzzy
+msgctxt "8290981-0-90327"
+msgid "Centipede"
+msgstr "지네"
+
+#: 8290981-0-90326
+msgctxt "8290981-0-90326"
+msgid "Pitter"
+msgstr ""
+
+#: 8290981-0-90324
+#, fuzzy
+msgctxt "8290981-0-90324"
+msgid "Iron Atronach"
+msgstr "아이언 아트로나크"
+
+#: 8290981-0-90323
+msgctxt "8290981-0-90323"
+msgid "Haj Mota"
+msgstr "하지 모타"
+
+#: 8290981-0-90322
+msgctxt "8290981-0-90322"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-90319
+msgctxt "8290981-0-90319"
+msgid "Invisible"
+msgstr "투명화"
+
+#: 8290981-0-90315
+msgctxt "8290981-0-90315"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-90314
+msgctxt "8290981-0-90314"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-90312
+msgctxt "8290981-0-90312"
+msgid "Rezirjhan"
+msgstr ""
+
+#: 8290981-0-90311
+msgctxt "8290981-0-90311"
+msgid "Zashawi"
+msgstr ""
+
+#: 8290981-0-90310
+msgctxt "8290981-0-90310"
+msgid "Azdanati"
+msgstr ""
+
+#: 8290981-0-90309
+msgctxt "8290981-0-90309"
+msgid "Fehdni"
+msgstr ""
+
+#: 8290981-0-90304
+msgctxt "8290981-0-90304"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-90301
+msgctxt "8290981-0-90301"
+msgid "Harpy Windcaller"
+msgstr ""
+
+#: 8290981-0-90300
+msgctxt "8290981-0-90300"
+msgid "Harpy Stormweaver"
+msgstr ""
+
+#: 8290981-0-90295
+#, fuzzy
+msgctxt "8290981-0-90295"
+msgid "Scorpion"
+msgstr "전갈"
+
+#: 8290981-0-90294
+msgctxt "8290981-0-90294"
+msgid "Harpy Windcaller"
+msgstr ""
+
+#: 8290981-0-90293
+msgctxt "8290981-0-90293"
+msgid "Harpy Stormweaver"
+msgstr ""
+
+#: 8290981-0-90292
+#, fuzzy
+msgctxt "8290981-0-90292"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90288
+msgctxt "8290981-0-90288"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90287
+msgctxt "8290981-0-90287"
+msgid "Generic Invisible Target"
+msgstr ""
+
+#: 8290981-0-90285
+msgctxt "8290981-0-90285"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-90284
+#, fuzzy
+msgctxt "8290981-0-90284"
+msgid "Frost Atronach"
+msgstr "서리 아트로나크"
+
+#: 8290981-0-90283
+msgctxt "8290981-0-90283"
+msgid "Indalzahr"
+msgstr ""
+
+#: 8290981-0-90282
+msgctxt "8290981-0-90282"
+msgid "Dazjhera"
+msgstr ""
+
+#: 8290981-0-90281
+msgctxt "8290981-0-90281"
+msgid "J'baashli"
+msgstr ""
+
+#: 8290981-0-90266
+msgctxt "8290981-0-90266"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-90262
+msgctxt "8290981-0-90262"
+msgid "Tenarr Slayer"
+msgstr ""
+
+#: 8290981-0-90261
+msgctxt "8290981-0-90261"
+msgid "Tenarr Slayer"
+msgstr ""
+
+#: 8290981-0-90260
+msgctxt "8290981-0-90260"
+msgid "Humble Zaham"
+msgstr ""
+
+#: 8290981-0-90258
+msgctxt "8290981-0-90258"
+msgid "Yaniburr"
+msgstr ""
+
+#: 8290981-0-90255
+msgctxt "8290981-0-90255"
+msgid "Bezjhan"
+msgstr ""
+
+#: 8290981-0-90254
+msgctxt "8290981-0-90254"
+msgid "Indalzahr"
+msgstr ""
+
+#: 8290981-0-90253
+msgctxt "8290981-0-90253"
+msgid "Dazjhera"
+msgstr ""
+
+#: 8290981-0-90246
+msgctxt "8290981-0-90246"
+msgid "Kagazmar"
+msgstr ""
+
+#: 8290981-0-90240
+msgctxt "8290981-0-90240"
+msgid "Clementus Liore"
+msgstr ""
+
+#: 8290981-0-90239
+msgctxt "8290981-0-90239"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-90238
+msgctxt "8290981-0-90238"
+msgid "Beeks"
+msgstr ""
+
+#: 8290981-0-90236
+msgctxt "8290981-0-90236"
+msgid "Yolnahkriin"
+msgstr ""
+
+#: 8290981-0-90228
+msgctxt "8290981-0-90228"
+msgid "Zav'i"
+msgstr ""
+
+#: 8290981-0-90227
+#, fuzzy
+msgctxt "8290981-0-90227"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-90226
+msgctxt "8290981-0-90226"
+msgid "Khajiit Pilgrim"
+msgstr ""
+
+#: 8290981-0-90225
+msgctxt "8290981-0-90225"
+msgid "Khajiit Pilgrim"
+msgstr ""
+
+#: 8290981-0-90224
+msgctxt "8290981-0-90224"
+msgid "Baandari Nomad"
+msgstr ""
+
+#: 8290981-0-90223
+msgctxt "8290981-0-90223"
+msgid "Baandari Nomad"
+msgstr ""
+
+#: 8290981-0-90222
+msgctxt "8290981-0-90222"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90221
+msgctxt "8290981-0-90221"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-90217
+msgctxt "8290981-0-90217"
+msgid "Volatile Undeath"
+msgstr ""
+
+#: 8290981-0-90216
+msgctxt "8290981-0-90216"
+msgid "Volatile Undeath"
+msgstr ""
+
+#: 8290981-0-90215
+msgctxt "8290981-0-90215"
+msgid "Volatile Undeath"
+msgstr ""
+
+#: 8290981-0-90213
+msgctxt "8290981-0-90213"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90212
+msgctxt "8290981-0-90212"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90211
+msgctxt "8290981-0-90211"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-90210
+msgctxt "8290981-0-90210"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-90209
+msgctxt "8290981-0-90209"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-90208
+msgctxt "8290981-0-90208"
+msgid "Diseased Arbalest"
+msgstr ""
+
+#: 8290981-0-90207
+msgctxt "8290981-0-90207"
+msgid "Diseased Arbalest"
+msgstr ""
+
+#: 8290981-0-90206
+msgctxt "8290981-0-90206"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-90205
+msgctxt "8290981-0-90205"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-90204
+msgctxt "8290981-0-90204"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-90203
+msgctxt "8290981-0-90203"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-90202
+msgctxt "8290981-0-90202"
+msgid "Shadow Servant"
+msgstr ""
+
+#: 8290981-0-90199
+msgctxt "8290981-0-90199"
+msgid "Khajiit Peasant"
+msgstr ""
+
+#: 8290981-0-90198
+msgctxt "8290981-0-90198"
+msgid "Khajiit Peasant"
+msgstr ""
+
+#: 8290981-0-90196
+msgctxt "8290981-0-90196"
+msgid "Philius Dormier"
+msgstr ""
+
+#: 8290981-0-90195
+msgctxt "8290981-0-90195"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90194
+msgctxt "8290981-0-90194"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90193
+msgctxt "8290981-0-90193"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-90183
+msgctxt "8290981-0-90183"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-90182
+msgctxt "8290981-0-90182"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-90181
+msgctxt "8290981-0-90181"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-90180
+msgctxt "8290981-0-90180"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-90179
+msgctxt "8290981-0-90179"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-90178
+msgctxt "8290981-0-90178"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-90177
+msgctxt "8290981-0-90177"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-90176
+msgctxt "8290981-0-90176"
+msgid "Enthralled Zombie"
+msgstr ""
+
+#: 8290981-0-90175
+msgctxt "8290981-0-90175"
+msgid "Enthralled Zombie"
+msgstr ""
+
+#: 8290981-0-90173
+msgctxt "8290981-0-90173"
+msgid "Nahviintaas"
+msgstr ""
+
+#: 8290981-0-90172
+msgctxt "8290981-0-90172"
+msgid "Yolnahkriin"
+msgstr ""
+
+#: 8290981-0-90171
+msgctxt "8290981-0-90171"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-90170
+msgctxt "8290981-0-90170"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-90169
+msgctxt "8290981-0-90169"
+msgid "Bahlokdaan"
+msgstr "바로크단"
+
+#: 8290981-0-90168
+msgctxt "8290981-0-90168"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-90167
+msgctxt "8290981-0-90167"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-90165
+msgctxt "8290981-0-90165"
+msgid "Zhirhar"
+msgstr ""
+
+#: 8290981-0-90164
+msgctxt "8290981-0-90164"
+msgid "Zhirhar"
+msgstr ""
+
+#: 8290981-0-90160
+msgctxt "8290981-0-90160"
+msgid "Airavi"
+msgstr ""
+
+#: 8290981-0-90155
+msgctxt "8290981-0-90155"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-90154
+msgctxt "8290981-0-90154"
+msgid "Euraxian Spellblade"
+msgstr "유라시아의 마법사"
+
+#: 8290981-0-90153
+msgctxt "8290981-0-90153"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90152
+msgctxt "8290981-0-90152"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-90149
+msgctxt "8290981-0-90149"
+msgid "Dathtesh"
+msgstr ""
+
+#: 8290981-0-90148
+msgctxt "8290981-0-90148"
+msgid "Tahaibba"
+msgstr ""
+
+#: 8290981-0-90147
+msgctxt "8290981-0-90147"
+msgid "Skyterror Dragonslayer Pup"
+msgstr ""
+
+#: 8290981-0-90146
+msgctxt "8290981-0-90146"
+msgid "Grisly Mummy Tabby"
+msgstr ""
+
+#: 8290981-0-90144
+msgctxt "8290981-0-90144"
+msgid "Ridkhassi"
+msgstr ""
+
+#: 8290981-0-90138
+msgctxt "8290981-0-90138"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-90137
+msgctxt "8290981-0-90137"
+msgid "Wadarkier"
+msgstr ""
+
+#: 8290981-0-90134
+#, fuzzy
+msgctxt "8290981-0-90134"
+msgid "Mercenary"
+msgstr "용병"
+
+#: 8290981-0-90133
+#, fuzzy
+msgctxt "8290981-0-90133"
+msgid "Mercenary"
+msgstr "용병"
+
+#: 8290981-0-90125
+msgctxt "8290981-0-90125"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-90124
+#, fuzzy
+msgctxt "8290981-0-90124"
+msgid "Honor"
+msgstr "명예"
+
+#: 8290981-0-90123
+msgctxt "8290981-0-90123"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-90122
+#, fuzzy
+msgctxt "8290981-0-90122"
+msgid "Pilgrim"
+msgstr "순례자"
+
+#: 8290981-0-90121
+#, fuzzy
+msgctxt "8290981-0-90121"
+msgid "Merchant"
+msgstr "상인"
+
+#: 8290981-0-90120
+#, fuzzy
+msgctxt "8290981-0-90120"
+msgid "Traveler"
+msgstr "여행자"
+
+#: 8290981-0-90117
+msgctxt "8290981-0-90117"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-90116
+msgctxt "8290981-0-90116"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-90115
+#, fuzzy
+msgctxt "8290981-0-90115"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-90114
+msgctxt "8290981-0-90114"
+msgid "Euraxian Archer"
+msgstr "유라시아의 궁수"
+
+#: 8290981-0-90113
+msgctxt "8290981-0-90113"
+msgid "Euraxian Spellblade"
+msgstr "유라시아의 마법사"
+
+#: 8290981-0-90112
+msgctxt "8290981-0-90112"
+msgid "Euraxian Alchemist"
+msgstr "유라시아의 연금술사"
+
+#: 8290981-0-90111
+msgctxt "8290981-0-90111"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-90109
+msgctxt "8290981-0-90109"
+msgid "Nahviintaas"
+msgstr ""
+
+#: 8290981-0-90105
+msgctxt "8290981-0-90105"
+msgid "Ruddy Fang Archer"
+msgstr ""
+
+#: 8290981-0-90104
+msgctxt "8290981-0-90104"
+msgid "Ruddy Fang Firemage"
+msgstr ""
+
+#: 8290981-0-90103
+msgctxt "8290981-0-90103"
+msgid "Sallum the Sugar-Slinger"
+msgstr ""
+
+#: 8290981-0-90102
+msgctxt "8290981-0-90102"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-90101
+msgctxt "8290981-0-90101"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-90100
+#, fuzzy
+msgctxt "8290981-0-90100"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-90099
+msgctxt "8290981-0-90099"
+msgid "Harpy Windcaller"
+msgstr ""
+
+#: 8290981-0-90098
+msgctxt "8290981-0-90098"
+msgid "Harpy Stormweaver"
+msgstr ""
+
+#: 8290981-0-90097
+msgctxt "8290981-0-90097"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-90095
+msgctxt "8290981-0-90095"
+msgid "Ogre Brute"
+msgstr ""
+
+#: 8290981-0-90094
+msgctxt "8290981-0-90094"
+msgid "Ogre Shaman"
+msgstr ""
+
+#: 8290981-0-90093
+msgctxt "8290981-0-90093"
+msgid "Wasp Queen"
+msgstr ""
+
+#: 8290981-0-90092
+msgctxt "8290981-0-90092"
+msgid "Stricken Maniac"
+msgstr ""
+
+#: 8290981-0-90091
+msgctxt "8290981-0-90091"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-90085
+msgctxt "8290981-0-90085"
+msgid "Acolyte of Alkosh"
+msgstr ""
+
+#: 8290981-0-90084
+msgctxt "8290981-0-90084"
+msgid "Acolyte of Alkosh"
+msgstr ""
+
+#: 8290981-0-90083
+msgctxt "8290981-0-90083"
+msgid "Priest Kazafar"
+msgstr ""
+
+#: 8290981-0-90082
+msgctxt "8290981-0-90082"
+msgid "Priest Adahni"
+msgstr ""
+
+#: 8290981-0-90080
+msgctxt "8290981-0-90080"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-90079
+msgctxt "8290981-0-90079"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-90078
+msgctxt "8290981-0-90078"
+msgid "Dremora Bulwark"
+msgstr ""
+
+#: 8290981-0-90077
+msgctxt "8290981-0-90077"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-90076
+msgctxt "8290981-0-90076"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-90075
+msgctxt "8290981-0-90075"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-90073
+#, fuzzy
+msgctxt "8290981-0-90073"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-90072
+msgctxt "8290981-0-90072"
+msgid "Skeletal Raider"
+msgstr ""
+
+#: 8290981-0-90071
+msgctxt "8290981-0-90071"
+msgid "Skeletal Dreadnaught"
+msgstr ""
+
+#: 8290981-0-90070
+msgctxt "8290981-0-90070"
+msgid "Skeletal Charger"
+msgstr "해골 돌격병"
+
+#: 8290981-0-90068
+#, fuzzy
+msgctxt "8290981-0-90068"
+msgid "Razum-dar"
+msgstr "라줌-다르"
+
+#: 8290981-0-90063
+msgctxt "8290981-0-90063"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90062
+msgctxt "8290981-0-90062"
+msgid "Relentless Gale"
+msgstr ""
+
+#: 8290981-0-90061
+msgctxt "8290981-0-90061"
+msgid "Bahlokdaan"
+msgstr "바로크단"
+
+#: 8290981-0-90060
+msgctxt "8290981-0-90060"
+msgid "Invisible Man"
+msgstr "투명 인간"
+
+#: 8290981-0-90059
+msgctxt "8290981-0-90059"
+msgid "Fezez"
+msgstr "페제즈"
+
+#: 8290981-0-90037
+msgctxt "8290981-0-90037"
+msgid "Ezabi"
+msgstr "에자비"
+
+#: 8290981-0-90034
+msgctxt "8290981-0-90034"
+msgid "Naraku"
+msgstr "나라쿠"
+
+#: 8290981-0-90032
+msgctxt "8290981-0-90032"
+msgid "Elazura"
+msgstr "엘라주라"
+
+#: 8290981-0-90030
+msgctxt "8290981-0-90030"
+msgid "Desert Wind Adept"
+msgstr ""
+
+#: 8290981-0-90029
+msgctxt "8290981-0-90029"
+msgid "Desert Wind Adept"
+msgstr ""
+
+#: 8290981-0-90028
+msgctxt "8290981-0-90028"
+msgid "Euraxian Archer"
+msgstr "유라시아의 궁수"
+
+#: 8290981-0-90027
+msgctxt "8290981-0-90027"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-90026
+msgctxt "8290981-0-90026"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-90020
+msgctxt "8290981-0-90020"
+msgid "Keshjo"
+msgstr ""
+
+#: 8290981-0-90019
+msgctxt "8290981-0-90019"
+msgid "Zadeva"
+msgstr ""
+
+#: 8290981-0-90018
+msgctxt "8290981-0-90018"
+msgid "Sulema"
+msgstr ""
+
+#: 8290981-0-90017
+msgctxt "8290981-0-90017"
+msgid "Mo'khu"
+msgstr ""
+
+#: 8290981-0-90016
+#, fuzzy
+msgctxt "8290981-0-90016"
+msgid "Rajhin's Shadow"
+msgstr "라진의 그림자"
+
+#: 8290981-0-90015
+msgctxt "8290981-0-90015"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-90014
+msgctxt "8290981-0-90014"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-90013
+msgctxt "8290981-0-90013"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-90012
+msgctxt "8290981-0-90012"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-90011
+msgctxt "8290981-0-90011"
+msgid "Diseased Berserker"
+msgstr ""
+
+#: 8290981-0-90010
+msgctxt "8290981-0-90010"
+msgid "Diseased Berserker"
+msgstr ""
+
+#: 8290981-0-90008
+msgctxt "8290981-0-90008"
+msgid "Storm Fury"
+msgstr ""
+
+#: 8290981-0-90005
+msgctxt "8290981-0-90005"
+msgid "Gravechill"
+msgstr ""
+
+#: 8290981-0-90004
+msgctxt "8290981-0-90004"
+msgid "Frozen Prison"
+msgstr ""
+
+#: 8290981-0-90002
+msgctxt "8290981-0-90002"
+msgid "Frost Bolt"
+msgstr ""
+
+#: 8290981-0-89999
+msgctxt "8290981-0-89999"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-89998
+msgctxt "8290981-0-89998"
+msgid "Bahlokdaan"
+msgstr "바로크단"
+
+#: 8290981-0-89997
+msgctxt "8290981-0-89997"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-89996
+msgctxt "8290981-0-89996"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-89995
+msgctxt "8290981-0-89995"
+msgid "Lava Pool"
+msgstr "용암 웅덩이"
+
+#: 8290981-0-89994
+msgctxt "8290981-0-89994"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-89993
+msgctxt "8290981-0-89993"
+msgid "Captain Carvain"
+msgstr ""
+
+#: 8290981-0-89992
+msgctxt "8290981-0-89992"
+msgid "M'aiq the Liar"
+msgstr "거짓말쟁이 마'이크"
+
+#: 8290981-0-89986
+#, fuzzy
+msgctxt "8290981-0-89986"
+msgid "Wraith"
+msgstr "망령"
+
+#: 8290981-0-89984
+msgctxt "8290981-0-89984"
+msgid "Lich"
+msgstr "리치"
+
+#: 8290981-0-89983
+msgctxt "8290981-0-89983"
+msgid "Lich"
+msgstr "리치"
+
+#: 8290981-0-89980
+msgctxt "8290981-0-89980"
+msgid "Grand Adept Ma'jha-dro"
+msgstr "고위 수도자 마자-드로"
+
+#: 8290981-0-89979
+#, fuzzy
+msgctxt "8290981-0-89979"
+msgid "Vastarie"
+msgstr "바스타리"
+
+#: 8290981-0-89978
+msgctxt "8290981-0-89978"
+msgid "Risen Arcanist"
+msgstr ""
+
+#: 8290981-0-89977
+msgctxt "8290981-0-89977"
+msgid "Risen Arcanist"
+msgstr ""
+
+#: 8290981-0-89976
+msgctxt "8290981-0-89976"
+msgid "Reanimated Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89975
+msgctxt "8290981-0-89975"
+msgid "Reanimated Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89974
+#, fuzzy
+msgctxt "8290981-0-89974"
+msgid "Bone Colossus"
+msgstr "뼈 거상"
+
+#: 8290981-0-89973
+#, fuzzy
+msgctxt "8290981-0-89973"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-89972
+#, fuzzy
+msgctxt "8290981-0-89972"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-89971
+msgctxt "8290981-0-89971"
+msgid "Skeletal Raider"
+msgstr ""
+
+#: 8290981-0-89970
+msgctxt "8290981-0-89970"
+msgid "Skeletal Dreadnaught"
+msgstr ""
+
+#: 8290981-0-89969
+msgctxt "8290981-0-89969"
+msgid "Skeletal Charger"
+msgstr "해골 돌격병"
+
+#: 8290981-0-89968
+msgctxt "8290981-0-89968"
+msgid "Skeletal Dreadmage"
+msgstr ""
+
+#: 8290981-0-89967
+msgctxt "8290981-0-89967"
+msgid "Skeletal Sorcerer"
+msgstr "해골 마도사"
+
+#: 8290981-0-89966
+msgctxt "8290981-0-89966"
+msgid "Risen Soldier"
+msgstr "되살아난 병사"
+
+#: 8290981-0-89965
+#, fuzzy
+msgctxt "8290981-0-89965"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-89964
+msgctxt "8290981-0-89964"
+msgid "Risen Soldier"
+msgstr "되살아난 병사"
+
+#: 8290981-0-89963
+msgctxt "8290981-0-89963"
+msgid "Risen Archer"
+msgstr "되살아난 궁수"
+
+#: 8290981-0-89961
+msgctxt "8290981-0-89961"
+msgid "Risen Archer"
+msgstr "되살아난 궁수"
+
+#: 8290981-0-89960
+msgctxt "8290981-0-89960"
+msgid "Arentus Rian"
+msgstr ""
+
+#: 8290981-0-89959
+msgctxt "8290981-0-89959"
+msgid "Khishmina"
+msgstr ""
+
+#: 8290981-0-89958
+msgctxt "8290981-0-89958"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-89957
+msgctxt "8290981-0-89957"
+msgid "Mulabus"
+msgstr ""
+
+#: 8290981-0-89955
+msgctxt "8290981-0-89955"
+msgid "Reanimated Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89954
+msgctxt "8290981-0-89954"
+msgid "Reanimated Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89946
+msgctxt "8290981-0-89946"
+msgid "Na'ruzz the Boneweaver"
+msgstr ""
+
+#: 8290981-0-89945
+msgctxt "8290981-0-89945"
+msgid "Zhiraz"
+msgstr ""
+
+#: 8290981-0-89944
+msgctxt "8290981-0-89944"
+msgid "Florentia Candidius"
+msgstr ""
+
+#: 8290981-0-89943
+msgctxt "8290981-0-89943"
+msgid "Diseased Butcher"
+msgstr ""
+
+#: 8290981-0-89942
+msgctxt "8290981-0-89942"
+msgid "Diseased Butcher"
+msgstr ""
+
+#: 8290981-0-89941
+msgctxt "8290981-0-89941"
+msgid "Diseased Pyromancer"
+msgstr ""
+
+#: 8290981-0-89940
+msgctxt "8290981-0-89940"
+msgid "Diseased Pyromancer"
+msgstr ""
+
+#: 8290981-0-89939
+#, fuzzy
+msgctxt "8290981-0-89939"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-89938
+msgctxt "8290981-0-89938"
+msgid "Flame Imp"
+msgstr ""
+
+#: 8290981-0-89937
+#, fuzzy
+msgctxt "8290981-0-89937"
+msgid "Kotu Gava"
+msgstr "코투 가바"
+
+#: 8290981-0-89936
+msgctxt "8290981-0-89936"
+msgid "Ogre"
+msgstr "오거"
+
+#: 8290981-0-89935
+msgctxt "8290981-0-89935"
+msgid "Diseased Arbalest"
+msgstr ""
+
+#: 8290981-0-89934
+msgctxt "8290981-0-89934"
+msgid "Diseased Arbalest"
+msgstr ""
+
+#: 8290981-0-89933
+msgctxt "8290981-0-89933"
+msgid "Diseased Berserker"
+msgstr ""
+
+#: 8290981-0-89932
+msgctxt "8290981-0-89932"
+msgid "Diseased Berserker"
+msgstr ""
+
+#: 8290981-0-89931
+msgctxt "8290981-0-89931"
+msgid "Plague Harpy"
+msgstr ""
+
+#: 8290981-0-89930
+#, fuzzy
+msgctxt "8290981-0-89930"
+msgid "Necrotic Hoarvor"
+msgstr "네크로틱 호버"
+
+#: 8290981-0-89929
+msgctxt "8290981-0-89929"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-89928
+msgctxt "8290981-0-89928"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-89927
+msgctxt "8290981-0-89927"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-89926
+msgctxt "8290981-0-89926"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-89925
+msgctxt "8290981-0-89925"
+msgid "Diseased Feral"
+msgstr ""
+
+#: 8290981-0-89924
+msgctxt "8290981-0-89924"
+msgid "Diseased Feral"
+msgstr ""
+
+#: 8290981-0-89923
+#, fuzzy
+msgctxt "8290981-0-89923"
+msgid "Hunger"
+msgstr "헝거"
+
+#: 8290981-0-89922
+msgctxt "8290981-0-89922"
+msgid "Diseased Savage"
+msgstr ""
+
+#: 8290981-0-89921
+msgctxt "8290981-0-89921"
+msgid "Diseased Savage"
+msgstr ""
+
+#: 8290981-0-89920
+msgctxt "8290981-0-89920"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-89919
+msgctxt "8290981-0-89919"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-89917
+msgctxt "8290981-0-89917"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-89916
+msgctxt "8290981-0-89916"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-89915
+msgctxt "8290981-0-89915"
+msgid "Sharjo"
+msgstr ""
+
+#: 8290981-0-89914
+msgctxt "8290981-0-89914"
+msgid "Raiffi"
+msgstr ""
+
+#: 8290981-0-89913
+msgctxt "8290981-0-89913"
+msgid "Pajmina"
+msgstr ""
+
+#: 8290981-0-89912
+msgctxt "8290981-0-89912"
+msgid "Mojzin"
+msgstr ""
+
+#: 8290981-0-89911
+msgctxt "8290981-0-89911"
+msgid "Ilarana"
+msgstr ""
+
+#: 8290981-0-89910
+#, fuzzy
+msgctxt "8290981-0-89910"
+msgid "Ogrim"
+msgstr "오그림"
+
+#: 8290981-0-89909
+#, fuzzy
+msgctxt "8290981-0-89909"
+msgid "Scamp"
+msgstr "스캠프"
+
+#: 8290981-0-89907
+#, fuzzy
+msgctxt "8290981-0-89907"
+msgid "Grievous Twilight"
+msgstr "고통의 황혼"
+
+#: 8290981-0-89906
+msgctxt "8290981-0-89906"
+msgid "Thannar the Graveprowler"
+msgstr ""
+
+#: 8290981-0-89903
+msgctxt "8290981-0-89903"
+msgid "Hunger"
+msgstr "헝거"
+
+#: 8290981-0-89901
+msgctxt "8290981-0-89901"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-89900
+msgctxt "8290981-0-89900"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-89899
+msgctxt "8290981-0-89899"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-89898
+msgctxt "8290981-0-89898"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-89896
+#, fuzzy
+msgctxt "8290981-0-89896"
+msgid "Winged Twilight"
+msgstr "날개달린 황혼"
+
+#: 8290981-0-89895
+#, fuzzy
+msgctxt "8290981-0-89895"
+msgid "Daedroth"
+msgstr "데이드로쓰"
+
+#: 8290981-0-89890
+msgctxt "8290981-0-89890"
+msgid "Moon-Priest Rilasu"
+msgstr ""
+
+#: 8290981-0-89889
+msgctxt "8290981-0-89889"
+msgid "Skullguard Adept"
+msgstr ""
+
+#: 8290981-0-89888
+msgctxt "8290981-0-89888"
+msgid "Moon-Priest Tahari"
+msgstr ""
+
+#: 8290981-0-89885
+msgctxt "8290981-0-89885"
+msgid "Moon-Priest Radah"
+msgstr ""
+
+#: 8290981-0-89884
+msgctxt "8290981-0-89884"
+msgid "Moon-Priest Zargha"
+msgstr ""
+
+#: 8290981-0-89883
+#, fuzzy
+msgctxt "8290981-0-89883"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-89881
+msgctxt "8290981-0-89881"
+msgid "Two Moons Acolyte"
+msgstr ""
+
+#: 8290981-0-89880
+msgctxt "8290981-0-89880"
+msgid "Two Moons Acolyte"
+msgstr ""
+
+#: 8290981-0-89879
+msgctxt "8290981-0-89879"
+msgid "Two Moons Acolyte"
+msgstr ""
+
+#: 8290981-0-89878
+msgctxt "8290981-0-89878"
+msgid "Diseased Savage"
+msgstr ""
+
+#: 8290981-0-89877
+msgctxt "8290981-0-89877"
+msgid "Diseased Savage"
+msgstr ""
+
+#: 8290981-0-89876
+msgctxt "8290981-0-89876"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-89875
+msgctxt "8290981-0-89875"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-89873
+msgctxt "8290981-0-89873"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-89872
+msgctxt "8290981-0-89872"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-89871
+msgctxt "8290981-0-89871"
+msgid "Dremora Spellsword"
+msgstr ""
+
+#: 8290981-0-89870
+msgctxt "8290981-0-89870"
+msgid "Dremora Spellsword"
+msgstr ""
+
+#: 8290981-0-89869
+msgctxt "8290981-0-89869"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-89868
+msgctxt "8290981-0-89868"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-89867
+msgctxt "8290981-0-89867"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-89866
+msgctxt "8290981-0-89866"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-89865
+#, fuzzy
+msgctxt "8290981-0-89865"
+msgid "Iron Atronach"
+msgstr "아이언 아트로나크"
+
+#: 8290981-0-89864
+#, fuzzy
+msgctxt "8290981-0-89864"
+msgid "Banekin"
+msgstr "베인킨"
+
+#: 8290981-0-89863
+msgctxt "8290981-0-89863"
+msgid "Euraxian Infantry"
+msgstr "유라시아의 보병"
+
+#: 8290981-0-89862
+#, fuzzy
+msgctxt "8290981-0-89862"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-89856
+msgctxt "8290981-0-89856"
+msgid "Dhanril the Dangerous"
+msgstr ""
+
+#: 8290981-0-89855
+msgctxt "8290981-0-89855"
+msgid "Chirrdazi the Chopper"
+msgstr ""
+
+#: 8290981-0-89854
+msgctxt "8290981-0-89854"
+msgid "Mad Minurrun"
+msgstr ""
+
+#: 8290981-0-89853
+msgctxt "8290981-0-89853"
+msgid "Dieased Reaver"
+msgstr ""
+
+#: 8290981-0-89852
+msgctxt "8290981-0-89852"
+msgid "Diseased Feral"
+msgstr ""
+
+#: 8290981-0-89846
+msgctxt "8290981-0-89846"
+msgid "Akaviri Swordmistress"
+msgstr ""
+
+#: 8290981-0-89845
+msgctxt "8290981-0-89845"
+msgid "Skullguard Grundu"
+msgstr ""
+
+#: 8290981-0-89844
+msgctxt "8290981-0-89844"
+msgid "Gravecaller Duvia"
+msgstr ""
+
+#: 8290981-0-89825
+msgctxt "8290981-0-89825"
+msgid "Tsazura"
+msgstr ""
+
+#: 8290981-0-89824
+msgctxt "8290981-0-89824"
+msgid "Bahzdal"
+msgstr "바즈달"
+
+#: 8290981-0-89823
+msgctxt "8290981-0-89823"
+msgid "Shohazi"
+msgstr ""
+
+#: 8290981-0-89822
+msgctxt "8290981-0-89822"
+msgid "Bizahen"
+msgstr ""
+
+#: 8290981-0-89821
+msgctxt "8290981-0-89821"
+msgid "Deca Dezno"
+msgstr ""
+
+#: 8290981-0-89820
+msgctxt "8290981-0-89820"
+msgid "Asazeh"
+msgstr "아사제"
+
+#: 8290981-0-89819
+msgctxt "8290981-0-89819"
+msgid "Thaeduna"
+msgstr "쎄두나"
+
+#: 8290981-0-89818
+#, fuzzy
+msgctxt "8290981-0-89818"
+msgid "Ogrim"
+msgstr "오그림"
+
+#: 8290981-0-89817
+msgctxt "8290981-0-89817"
+msgid "Thaleth"
+msgstr ""
+
+#: 8290981-0-89816
+msgctxt "8290981-0-89816"
+msgid "Diseased Reaver"
+msgstr ""
+
+#: 8290981-0-89815
+msgctxt "8290981-0-89815"
+msgid "Diseased Feral"
+msgstr ""
+
+#: 8290981-0-89814
+msgctxt "8290981-0-89814"
+msgid "Fauleroth"
+msgstr ""
+
+#: 8290981-0-89813
+msgctxt "8290981-0-89813"
+msgid "Belwinan"
+msgstr ""
+
+#: 8290981-0-89810
+msgctxt "8290981-0-89810"
+msgid "Moon-Priest Rilasu"
+msgstr ""
+
+#: 8290981-0-89809
+msgctxt "8290981-0-89809"
+msgid "Dalffer"
+msgstr ""
+
+#: 8290981-0-89808
+msgctxt "8290981-0-89808"
+msgid "Keeaz"
+msgstr ""
+
+#: 8290981-0-89807
+msgctxt "8290981-0-89807"
+msgid "Thajukki"
+msgstr ""
+
+#: 8290981-0-89806
+msgctxt "8290981-0-89806"
+msgid "Sezdi-dra"
+msgstr ""
+
+#: 8290981-0-89805
+msgctxt "8290981-0-89805"
+msgid "Hurkhu"
+msgstr ""
+
+#: 8290981-0-89804
+msgctxt "8290981-0-89804"
+msgid "S'rathzo"
+msgstr ""
+
+#: 8290981-0-89803
+msgctxt "8290981-0-89803"
+msgid "Nirshanti"
+msgstr ""
+
+#: 8290981-0-89802
+msgctxt "8290981-0-89802"
+msgid "Kadhassi"
+msgstr ""
+
+#: 8290981-0-89801
+msgctxt "8290981-0-89801"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-89800
+msgctxt "8290981-0-89800"
+msgid "Ruddy Fang Champion"
+msgstr ""
+
+#: 8290981-0-89798
+msgctxt "8290981-0-89798"
+msgid "Arbim"
+msgstr ""
+
+#: 8290981-0-89797
+msgctxt "8290981-0-89797"
+msgid "Nallelfin"
+msgstr ""
+
+#: 8290981-0-89796
+msgctxt "8290981-0-89796"
+msgid "Algrakh"
+msgstr ""
+
+#: 8290981-0-89795
+msgctxt "8290981-0-89795"
+msgid "Minshak"
+msgstr ""
+
+#: 8290981-0-89794
+msgctxt "8290981-0-89794"
+msgid "Shazari"
+msgstr ""
+
+#: 8290981-0-89793
+msgctxt "8290981-0-89793"
+msgid "J'darit"
+msgstr ""
+
+#: 8290981-0-89792
+msgctxt "8290981-0-89792"
+msgid "Lanasi"
+msgstr ""
+
+#: 8290981-0-89791
+msgctxt "8290981-0-89791"
+msgid "Flame Imp"
+msgstr ""
+
+#: 8290981-0-89790
+#, fuzzy
+msgctxt "8290981-0-89790"
+msgid "Kotu Gava"
+msgstr "코투 가바"
+
+#: 8290981-0-89789
+#, fuzzy
+msgctxt "8290981-0-89789"
+msgid "Hunger"
+msgstr "헝거"
+
+#: 8290981-0-89784
+msgctxt "8290981-0-89784"
+msgid "Bishaba Basement-Dweller"
+msgstr ""
+
+#: 8290981-0-89783
+msgctxt "8290981-0-89783"
+msgid "Lepida Afronia"
+msgstr ""
+
+#: 8290981-0-89782
+msgctxt "8290981-0-89782"
+msgid "Bremman Galenus"
+msgstr ""
+
+#: 8290981-0-89781
+#, fuzzy
+msgctxt "8290981-0-89781"
+msgid "Iron Atronach"
+msgstr "아이언 아트로나크"
+
+#: 8290981-0-89780
+msgctxt "8290981-0-89780"
+msgid "Nirahni"
+msgstr ""
+
+#: 8290981-0-89779
+msgctxt "8290981-0-89779"
+msgid "J'baanluk"
+msgstr ""
+
+#: 8290981-0-89778
+msgctxt "8290981-0-89778"
+msgid "Serunira"
+msgstr ""
+
+#: 8290981-0-89777
+#, fuzzy
+msgctxt "8290981-0-89777"
+msgid "Honor"
+msgstr "명예"
+
+#: 8290981-0-89776
+msgctxt "8290981-0-89776"
+msgid "Lharahad"
+msgstr "라라헤드"
+
+#: 8290981-0-89774
+#, fuzzy
+msgctxt "8290981-0-89774"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-89773
+msgctxt "8290981-0-89773"
+msgid "Diseased Butcher"
+msgstr ""
+
+#: 8290981-0-89772
+msgctxt "8290981-0-89772"
+msgid "Diseased Butcher"
+msgstr ""
+
+#: 8290981-0-89770
+msgctxt "8290981-0-89770"
+msgid "Diseased Hedge Wizard"
+msgstr ""
+
+#: 8290981-0-89769
+msgctxt "8290981-0-89769"
+msgid "Diseased Hedge Wizard"
+msgstr ""
+
+#: 8290981-0-89768
+msgctxt "8290981-0-89768"
+msgid "Diseased Dreadnaught"
+msgstr ""
+
+#: 8290981-0-89767
+msgctxt "8290981-0-89767"
+msgid "Diseased Dreadnaught"
+msgstr ""
+
+#: 8290981-0-89766
+msgctxt "8290981-0-89766"
+msgid "Diseased Assassin"
+msgstr ""
+
+#: 8290981-0-89765
+msgctxt "8290981-0-89765"
+msgid "Diseased Assassin"
+msgstr ""
+
+#: 8290981-0-89764
+msgctxt "8290981-0-89764"
+msgid "Diseased Arbalest"
+msgstr ""
+
+#: 8290981-0-89763
+msgctxt "8290981-0-89763"
+msgid "Diseased Arbalest"
+msgstr ""
+
+#: 8290981-0-89761
+msgctxt "8290981-0-89761"
+msgid "Diseased Alchemist"
+msgstr ""
+
+#: 8290981-0-89760
+msgctxt "8290981-0-89760"
+msgid "Diseased Alchemist"
+msgstr ""
+
+#: 8290981-0-89759
+msgctxt "8290981-0-89759"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-89758
+msgctxt "8290981-0-89758"
+msgid "Diseased Brigand"
+msgstr ""
+
+#: 8290981-0-89757
+msgctxt "8290981-0-89757"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-89756
+msgctxt "8290981-0-89756"
+msgid "Euraxian Alchemist"
+msgstr "유라시아의 연금술사"
+
+#: 8290981-0-89755
+msgctxt "8290981-0-89755"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-89754
+msgctxt "8290981-0-89754"
+msgid "Diseased Savage"
+msgstr ""
+
+#: 8290981-0-89753
+msgctxt "8290981-0-89753"
+msgid "Diseased Savage"
+msgstr ""
+
+#: 8290981-0-89752
+msgctxt "8290981-0-89752"
+msgid "Spirit Guardian"
+msgstr ""
+
+#: 8290981-0-89748
+msgctxt "8290981-0-89748"
+msgid "Madashara"
+msgstr ""
+
+#: 8290981-0-89747
+msgctxt "8290981-0-89747"
+msgid "Akakhmar"
+msgstr ""
+
+#: 8290981-0-89746
+msgctxt "8290981-0-89746"
+msgid "Necromancy"
+msgstr ""
+
+#: 8290981-0-89744
+msgctxt "8290981-0-89744"
+msgid "Necromancer Otho"
+msgstr ""
+
+#: 8290981-0-89743
+#, fuzzy
+msgctxt "8290981-0-89743"
+msgid "Winged Twilight"
+msgstr "날개달린 황혼"
+
+#: 8290981-0-89742
+#, fuzzy
+msgctxt "8290981-0-89742"
+msgid "Banekin"
+msgstr "베인킨"
+
+#: 8290981-0-89740
+msgctxt "8290981-0-89740"
+msgid "Dremora Spellsword"
+msgstr ""
+
+#: 8290981-0-89739
+msgctxt "8290981-0-89739"
+msgid "Dremora Spellsword"
+msgstr ""
+
+#: 8290981-0-89727
+msgctxt "8290981-0-89727"
+msgid "Fallen Challenger"
+msgstr ""
+
+#: 8290981-0-89722
+msgctxt "8290981-0-89722"
+msgid "Fallen Challenger"
+msgstr ""
+
+#: 8290981-0-89721
+msgctxt "8290981-0-89721"
+msgid "Zalsheem"
+msgstr ""
+
+#: 8290981-0-89706
+msgctxt "8290981-0-89706"
+msgid "Shoddhiran"
+msgstr ""
+
+#: 8290981-0-89705
+msgctxt "8290981-0-89705"
+msgid "Thabazi"
+msgstr ""
+
+#: 8290981-0-89703
+msgctxt "8290981-0-89703"
+msgid "Shando-ri"
+msgstr ""
+
+#: 8290981-0-89702
+msgctxt "8290981-0-89702"
+msgid "Arum-Khal"
+msgstr ""
+
+#: 8290981-0-89696
+msgctxt "8290981-0-89696"
+msgid "Saziza"
+msgstr ""
+
+#: 8290981-0-89695
+msgctxt "8290981-0-89695"
+msgid "Tashdu"
+msgstr ""
+
+#: 8290981-0-89694
+msgctxt "8290981-0-89694"
+msgid "Camel"
+msgstr "낙타"
+
+#: 8290981-0-89693
+msgctxt "8290981-0-89693"
+msgid "Camel"
+msgstr "낙타"
+
+#: 8290981-0-89691
+msgctxt "8290981-0-89691"
+msgid "Intensive Mender"
+msgstr ""
+
+#: 8290981-0-89689
+msgctxt "8290981-0-89689"
+msgid "Camel"
+msgstr "낙타"
+
+#: 8290981-0-89684
+msgctxt "8290981-0-89684"
+msgid "Cataclysm"
+msgstr ""
+
+#: 8290981-0-89683
+msgctxt "8290981-0-89683"
+msgid "Supernova"
+msgstr ""
+
+#: 8290981-0-89679
+msgctxt "8290981-0-89679"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-89676
+msgctxt "8290981-0-89676"
+msgid "Fallen Challenger"
+msgstr ""
+
+#: 8290981-0-89675
+msgctxt "8290981-0-89675"
+msgid "Akumjhargo"
+msgstr ""
+
+#: 8290981-0-89673
+msgctxt "8290981-0-89673"
+msgid "Vigya Windrime"
+msgstr ""
+
+#: 8290981-0-89672
+msgctxt "8290981-0-89672"
+msgid "Tenarr Stalker"
+msgstr ""
+
+#: 8290981-0-89671
+msgctxt "8290981-0-89671"
+msgid "Tenarr Stalker"
+msgstr ""
+
+#: 8290981-0-89670
+msgctxt "8290981-0-89670"
+msgid "Hofgrad Kjisorssen"
+msgstr ""
+
+#: 8290981-0-89667
+msgctxt "8290981-0-89667"
+msgid "Invisible"
+msgstr "투명화"
+
+#: 8290981-0-89666
+msgctxt "8290981-0-89666"
+msgid "Light Xivkyn Dummy"
+msgstr ""
+
+#: 8290981-0-89664
+msgctxt "8290981-0-89664"
+msgid "Bashgara"
+msgstr ""
+
+#: 8290981-0-89663
+msgctxt "8290981-0-89663"
+msgid "Ras'jaba"
+msgstr ""
+
+#: 8290981-0-89662
+msgctxt "8290981-0-89662"
+msgid "No-Holds Zabzhar"
+msgstr ""
+
+#: 8290981-0-89661
+msgctxt "8290981-0-89661"
+msgid "Bare-Knuckle Bidandar"
+msgstr ""
+
+#: 8290981-0-89660
+msgctxt "8290981-0-89660"
+msgid "Bishu Taia"
+msgstr ""
+
+#: 8290981-0-89655
+msgctxt "8290981-0-89655"
+msgid "Gordon"
+msgstr ""
+
+#: 8290981-0-89654
+msgctxt "8290981-0-89654"
+msgid "Sanzagh"
+msgstr ""
+
+#: 8290981-0-89653
+msgctxt "8290981-0-89653"
+msgid "Hadamnargo"
+msgstr ""
+
+#: 8290981-0-89652
+msgctxt "8290981-0-89652"
+msgid "Moon-Priest"
+msgstr ""
+
+#: 8290981-0-89651
+msgctxt "8290981-0-89651"
+msgid "Moon-Priest"
+msgstr ""
+
+#: 8290981-0-89650
+msgctxt "8290981-0-89650"
+msgid "Skeletal Arcanist"
+msgstr "해골 비전술사"
+
+#: 8290981-0-89649
+msgctxt "8290981-0-89649"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-89648
+msgctxt "8290981-0-89648"
+msgid "Moon-Priest"
+msgstr ""
+
+#: 8290981-0-89647
+msgctxt "8290981-0-89647"
+msgid "Moon-Priest"
+msgstr ""
+
+#: 8290981-0-89646
+msgctxt "8290981-0-89646"
+msgid "Cavorus Voria"
+msgstr ""
+
+#: 8290981-0-89645
+msgctxt "8290981-0-89645"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-89641
+msgctxt "8290981-0-89641"
+msgid "Heavy Xivkyn Dummy"
+msgstr ""
+
+#: 8290981-0-89640
+msgctxt "8290981-0-89640"
+msgid "Gibbering Shadow Mage"
+msgstr ""
+
+#: 8290981-0-89639
+msgctxt "8290981-0-89639"
+msgid "Gibbering Mender"
+msgstr ""
+
+#: 8290981-0-89638
+msgctxt "8290981-0-89638"
+msgid "Gibbering Infantry"
+msgstr ""
+
+#: 8290981-0-89637
+msgctxt "8290981-0-89637"
+msgid "Gibbering Spellblade"
+msgstr ""
+
+#: 8290981-0-89635
+#, fuzzy
+msgctxt "8290981-0-89635"
+msgid "Guar"
+msgstr "구아"
+
+#: 8290981-0-89622
+#, fuzzy
+msgctxt "8290981-0-89622"
+msgid "Butterfly"
+msgstr "나비"
+
+#: 8290981-0-89621
+msgctxt "8290981-0-89621"
+msgid "Ghostly Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89619
+msgctxt "8290981-0-89619"
+msgid "Varina Varus"
+msgstr ""
+
+#: 8290981-0-89618
+msgctxt "8290981-0-89618"
+msgid "Azramdu"
+msgstr ""
+
+#: 8290981-0-89617
+msgctxt "8290981-0-89617"
+msgid "Narazreshi"
+msgstr ""
+
+#: 8290981-0-89616
+msgctxt "8290981-0-89616"
+msgid "Monamjo"
+msgstr ""
+
+#: 8290981-0-89615
+#, fuzzy
+msgctxt "8290981-0-89615"
+msgid "Vastarie"
+msgstr "바스타리"
+
+#: 8290981-0-89612
+msgctxt "8290981-0-89612"
+msgid "Wily Kee'va"
+msgstr ""
+
+#: 8290981-0-89610
+msgctxt "8290981-0-89610"
+msgid "Adiah the Warbler"
+msgstr ""
+
+#: 8290981-0-89605
+msgctxt "8290981-0-89605"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-89604
+msgctxt "8290981-0-89604"
+msgid "Telona Two-Looks"
+msgstr ""
+
+#: 8290981-0-89603
+msgctxt "8290981-0-89603"
+msgid "Gloorz"
+msgstr ""
+
+#: 8290981-0-89602
+msgctxt "8290981-0-89602"
+msgid "Inisargo"
+msgstr ""
+
+#: 8290981-0-89601
+msgctxt "8290981-0-89601"
+msgid "Hurgedor"
+msgstr ""
+
+#: 8290981-0-89600
+msgctxt "8290981-0-89600"
+msgid "Chinjarsi"
+msgstr ""
+
+#: 8290981-0-89599
+msgctxt "8290981-0-89599"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-89598
+msgctxt "8290981-0-89598"
+msgid "Elthar"
+msgstr ""
+
+#: 8290981-0-89597
+msgctxt "8290981-0-89597"
+msgid "Shirran"
+msgstr ""
+
+#: 8290981-0-89596
+#, fuzzy
+msgctxt "8290981-0-89596"
+msgid "Sheogorath"
+msgstr "쉐오고라스"
+
+#: 8290981-0-89592
+msgctxt "8290981-0-89592"
+msgid "Blighted Sharpshooter"
+msgstr ""
+
+#: 8290981-0-89591
+msgctxt "8290981-0-89591"
+msgid "Blighted Sharpshooter"
+msgstr ""
+
+#: 8290981-0-89590
+msgctxt "8290981-0-89590"
+msgid "Blighted Butcher"
+msgstr ""
+
+#: 8290981-0-89589
+msgctxt "8290981-0-89589"
+msgid "Blighted Butcher"
+msgstr ""
+
+#: 8290981-0-89586
+msgctxt "8290981-0-89586"
+msgid "Mazza-Mirri"
+msgstr ""
+
+#: 8290981-0-89584
+#, fuzzy
+msgctxt "8290981-0-89584"
+msgid "Dro-m'Athra Vigilant"
+msgstr "드로 마스라 파수꾼"
+
+#: 8290981-0-89582
+#, fuzzy
+msgctxt "8290981-0-89582"
+msgid "Dro-m'Athra Battlemage"
+msgstr "드로 마스라 전투마법사"
+
+#: 8290981-0-89577
+#, fuzzy
+msgctxt "8290981-0-89577"
+msgid "Dro-m'Athra Shadow Walker"
+msgstr "드로 마스라 그림자 보행자"
+
+#: 8290981-0-89575
+#, fuzzy
+msgctxt "8290981-0-89575"
+msgid "Dro-m'Athra Thundermaul"
+msgstr "드로 마스라 천둥망치"
+
+#: 8290981-0-89572
+msgctxt "8290981-0-89572"
+msgid "Scorching Barrier"
+msgstr ""
+
+#: 8290981-0-89570
+msgctxt "8290981-0-89570"
+msgid "Luven Sulla"
+msgstr ""
+
+#: 8290981-0-89568
+#, fuzzy
+msgctxt "8290981-0-89568"
+msgid "Dro-m'Athra Runecaster"
+msgstr "드로 마스라 룬술사"
+
+#: 8290981-0-89565
+#, fuzzy
+msgctxt "8290981-0-89565"
+msgid "Dro-m'Athra Dreadnaught"
+msgstr "드로 마스라 공포파괴자"
+
+#: 8290981-0-89564
+msgctxt "8290981-0-89564"
+msgid "Lieutenant Fazumir"
+msgstr ""
+
+#: 8290981-0-89561
+msgctxt "8290981-0-89561"
+msgid "Mulnus Veterna"
+msgstr ""
+
+#: 8290981-0-89559
+msgctxt "8290981-0-89559"
+msgid "Tsaesci Armor Bruiser"
+msgstr ""
+
+#: 8290981-0-89558
+msgctxt "8290981-0-89558"
+msgid "Tsaesci Armor Bruiser"
+msgstr ""
+
+#: 8290981-0-89557
+#, fuzzy
+msgctxt "8290981-0-89557"
+msgid "Lizard"
+msgstr "도마뱀"
+
+#: 8290981-0-89554
+msgctxt "8290981-0-89554"
+msgid "Enthralled Zombie"
+msgstr ""
+
+#: 8290981-0-89553
+msgctxt "8290981-0-89553"
+msgid "Enthralled Zombie"
+msgstr ""
+
+#: 8290981-0-89551
+msgctxt "8290981-0-89551"
+msgid "Plexica Scavius"
+msgstr ""
+
+#: 8290981-0-89550
+msgctxt "8290981-0-89550"
+msgid "Feziri"
+msgstr ""
+
+#: 8290981-0-89548
+msgctxt "8290981-0-89548"
+msgid "Narluz"
+msgstr ""
+
+#: 8290981-0-89547
+msgctxt "8290981-0-89547"
+msgid "Hurzhar"
+msgstr ""
+
+#: 8290981-0-89540
+msgctxt "8290981-0-89540"
+msgid "J'darji"
+msgstr ""
+
+#: 8290981-0-89538
+msgctxt "8290981-0-89538"
+msgid "Lieutenant Kurzatha"
+msgstr ""
+
+#: 8290981-0-89537
+msgctxt "8290981-0-89537"
+msgid "Skullguard Marama"
+msgstr ""
+
+#: 8290981-0-89536
+msgctxt "8290981-0-89536"
+msgid "Voice of Awakening"
+msgstr ""
+
+#: 8290981-0-89533
+msgctxt "8290981-0-89533"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-89532
+msgctxt "8290981-0-89532"
+msgid "Daydos"
+msgstr ""
+
+#: 8290981-0-89531
+msgctxt "8290981-0-89531"
+msgid "Medwick"
+msgstr ""
+
+#: 8290981-0-89530
+msgctxt "8290981-0-89530"
+msgid "Parsnip"
+msgstr ""
+
+#: 8290981-0-89529
+msgctxt "8290981-0-89529"
+msgid "Sugarpaws"
+msgstr ""
+
+#: 8290981-0-89526
+msgctxt "8290981-0-89526"
+msgid "Lady Izza"
+msgstr ""
+
+#: 8290981-0-89525
+msgctxt "8290981-0-89525"
+msgid "Luna"
+msgstr ""
+
+#: 8290981-0-89523
+#, fuzzy
+msgctxt "8290981-0-89523"
+msgid "Skeletal Senche"
+msgstr "해골 센치"
+
+#: 8290981-0-89522
+#, fuzzy
+msgctxt "8290981-0-89522"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-89520
+msgctxt "8290981-0-89520"
+msgid "Skeletal Mauler"
+msgstr "해골 난폭자"
+
+#: 8290981-0-89519
+msgctxt "8290981-0-89519"
+msgid "Blighted Bloodcleaver"
+msgstr ""
+
+#: 8290981-0-89518
+msgctxt "8290981-0-89518"
+msgid "Blighted Bloodcleaver"
+msgstr ""
+
+#: 8290981-0-89517
+msgctxt "8290981-0-89517"
+msgid "Kashraska"
+msgstr ""
+
+#: 8290981-0-89516
+msgctxt "8290981-0-89516"
+msgid "Mashawi"
+msgstr ""
+
+#: 8290981-0-89512
+msgctxt "8290981-0-89512"
+msgid "J'dazh"
+msgstr ""
+
+#: 8290981-0-89511
+msgctxt "8290981-0-89511"
+msgid "Bhakargo"
+msgstr ""
+
+#: 8290981-0-89509
+msgctxt "8290981-0-89509"
+msgid "Naihana"
+msgstr ""
+
+#: 8290981-0-89506
+msgctxt "8290981-0-89506"
+msgid "Euraxia Tharn"
+msgstr "유라시아 탄"
+
+#: 8290981-0-89505
+msgctxt "8290981-0-89505"
+msgid "Khilenaba"
+msgstr ""
+
+#: 8290981-0-89504
+msgctxt "8290981-0-89504"
+msgid "Jahleya Snakedancer"
+msgstr ""
+
+#: 8290981-0-89503
+msgctxt "8290981-0-89503"
+msgid "Skeletal Bonelord"
+msgstr ""
+
+#: 8290981-0-89502
+msgctxt "8290981-0-89502"
+msgid "Skeletal Savage"
+msgstr ""
+
+#: 8290981-0-89501
+msgctxt "8290981-0-89501"
+msgid "Ghamokh Skullchucker"
+msgstr ""
+
+#: 8290981-0-89500
+msgctxt "8290981-0-89500"
+msgid "Skeletal Guardian"
+msgstr "해골 수호자"
+
+#: 8290981-0-89499
+msgctxt "8290981-0-89499"
+msgid "Frongeir the Giant"
+msgstr ""
+
+#: 8290981-0-89498
+msgctxt "8290981-0-89498"
+msgid "Brigette Stormsong"
+msgstr ""
+
+#: 8290981-0-89497
+msgctxt "8290981-0-89497"
+msgid "Skeletal Steward"
+msgstr ""
+
+#: 8290981-0-89496
+msgctxt "8290981-0-89496"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89495
+msgctxt "8290981-0-89495"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89494
+msgctxt "8290981-0-89494"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89493
+msgctxt "8290981-0-89493"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89492
+msgctxt "8290981-0-89492"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89490
+msgctxt "8290981-0-89490"
+msgid "Grand Adept Sehana"
+msgstr "고위 수도자 세하나"
+
+#: 8290981-0-89489
+msgctxt "8290981-0-89489"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89488
+msgctxt "8290981-0-89488"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89486
+msgctxt "8290981-0-89486"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89485
+msgctxt "8290981-0-89485"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89484
+msgctxt "8290981-0-89484"
+msgid "Khajiit Warrior"
+msgstr ""
+
+#: 8290981-0-89483
+msgctxt "8290981-0-89483"
+msgid "Siluza"
+msgstr ""
+
+#: 8290981-0-89482
+msgctxt "8290981-0-89482"
+msgid "Rabbah"
+msgstr ""
+
+#: 8290981-0-89471
+msgctxt "8290981-0-89471"
+msgid "Ghalri"
+msgstr ""
+
+#: 8290981-0-89470
+msgctxt "8290981-0-89470"
+msgid "Asaldak"
+msgstr ""
+
+#: 8290981-0-89467
+msgctxt "8290981-0-89467"
+msgid "Blighted Bloodcleaver"
+msgstr ""
+
+#: 8290981-0-89466
+msgctxt "8290981-0-89466"
+msgid "Blighted Bloodcleaver"
+msgstr ""
+
+#: 8290981-0-89465
+msgctxt "8290981-0-89465"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-89464
+msgctxt "8290981-0-89464"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-89463
+msgctxt "8290981-0-89463"
+msgid "Lord Juz-do"
+msgstr ""
+
+#: 8290981-0-89462
+msgctxt "8290981-0-89462"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-89461
+msgctxt "8290981-0-89461"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-89460
+msgctxt "8290981-0-89460"
+msgid "Iraya"
+msgstr ""
+
+#: 8290981-0-89459
+msgctxt "8290981-0-89459"
+msgid "Zaisashi"
+msgstr ""
+
+#: 8290981-0-89458
+msgctxt "8290981-0-89458"
+msgid "Thadarra"
+msgstr ""
+
+#: 8290981-0-89455
+#, fuzzy
+msgctxt "8290981-0-89455"
+msgid "Rigurt the Brash"
+msgstr "자신만만한 리거트"
+
+#: 8290981-0-89454
+msgctxt "8290981-0-89454"
+msgid "Abadurr"
+msgstr ""
+
+#: 8290981-0-89449
+msgctxt "8290981-0-89449"
+msgid "Zayan"
+msgstr ""
+
+#: 8290981-0-89448
+#, fuzzy
+msgctxt "8290981-0-89448"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-89447
+#, fuzzy
+msgctxt "8290981-0-89447"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-89446
+msgctxt "8290981-0-89446"
+msgid "Zemmarga"
+msgstr ""
+
+#: 8290981-0-89445
+msgctxt "8290981-0-89445"
+msgid "Sugarsnout"
+msgstr "슈가스노트"
+
+#: 8290981-0-89442
+msgctxt "8290981-0-89442"
+msgid "Khajiit Adept"
+msgstr ""
+
+#: 8290981-0-89441
+msgctxt "8290981-0-89441"
+msgid "Khajiit Adept"
+msgstr ""
+
+#: 8290981-0-89440
+msgctxt "8290981-0-89440"
+msgid "Qa'jahd"
+msgstr ""
+
+#: 8290981-0-89435
+msgctxt "8290981-0-89435"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-89434
+msgctxt "8290981-0-89434"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-89415
+#, fuzzy
+msgctxt "8290981-0-89415"
+msgid "Marthine"
+msgstr "마틴"
+
+#: 8290981-0-89410
+msgctxt "8290981-0-89410"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-89409
+msgctxt "8290981-0-89409"
+msgid "Chrimarbina"
+msgstr ""
+
+#: 8290981-0-89408
+msgctxt "8290981-0-89408"
+msgid "Baa'jhan"
+msgstr ""
+
+#: 8290981-0-89407
+msgctxt "8290981-0-89407"
+msgid "Quatrius Sisenna"
+msgstr ""
+
+#: 8290981-0-89389
+msgctxt "8290981-0-89389"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-89383
+msgctxt "8290981-0-89383"
+msgid "Vigil Statue"
+msgstr ""
+
+#: 8290981-0-89379
+msgctxt "8290981-0-89379"
+msgid "Lyrrsazhi"
+msgstr "릴사지 "
+
+#: 8290981-0-89377
+msgctxt "8290981-0-89377"
+msgid "Euraxian Infantry"
+msgstr "유라시아의 보병"
+
+#: 8290981-0-89376
+msgctxt "8290981-0-89376"
+msgid "Euraxian Infantry"
+msgstr "유라시아의 보병"
+
+#: 8290981-0-89375
+msgctxt "8290981-0-89375"
+msgid "Vozie"
+msgstr ""
+
+#: 8290981-0-89374
+msgctxt "8290981-0-89374"
+msgid "Indargo"
+msgstr ""
+
+#: 8290981-0-89373
+msgctxt "8290981-0-89373"
+msgid "Sweetclaw"
+msgstr ""
+
+#: 8290981-0-89372
+msgctxt "8290981-0-89372"
+msgid "Sasha"
+msgstr ""
+
+#: 8290981-0-89371
+msgctxt "8290981-0-89371"
+msgid "Tak-tak"
+msgstr ""
+
+#: 8290981-0-89370
+msgctxt "8290981-0-89370"
+msgid "Snowfall"
+msgstr ""
+
+#: 8290981-0-89369
+msgctxt "8290981-0-89369"
+msgid "Mistha"
+msgstr ""
+
+#: 8290981-0-89367
+msgctxt "8290981-0-89367"
+msgid "Vanraja"
+msgstr ""
+
+#: 8290981-0-89366
+msgctxt "8290981-0-89366"
+msgid "Mojha"
+msgstr ""
+
+#: 8290981-0-89365
+#, fuzzy
+msgctxt "8290981-0-89365"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89357
+#, fuzzy
+msgctxt "8290981-0-89357"
+msgid "Hunter"
+msgstr "사냥꾼"
+
+#: 8290981-0-89356
+msgctxt "8290981-0-89356"
+msgid "Sharrasti"
+msgstr ""
+
+#: 8290981-0-89355
+msgctxt "8290981-0-89355"
+msgid "Shavali the Befouled"
+msgstr ""
+
+#: 8290981-0-89354
+msgctxt "8290981-0-89354"
+msgid "Mahazza"
+msgstr ""
+
+#: 8290981-0-89353
+#, fuzzy
+msgctxt "8290981-0-89353"
+msgid "Hunter"
+msgstr "사냥꾼"
+
+#: 8290981-0-89352
+#, fuzzy
+msgctxt "8290981-0-89352"
+msgid "River Troll"
+msgstr "리버 트롤"
+
+#: 8290981-0-89350
+msgctxt "8290981-0-89350"
+msgid "Baandari Pedlar Brindle Wolf"
+msgstr ""
+
+#: 8290981-0-89349
+msgctxt "8290981-0-89349"
+msgid "Baandari Pedlar Senche-Lion"
+msgstr ""
+
+#: 8290981-0-89348
+msgctxt "8290981-0-89348"
+msgid "Alkosh's Supplicant"
+msgstr ""
+
+#: 8290981-0-89347
+msgctxt "8290981-0-89347"
+msgid "Alkosh's Supplicant"
+msgstr ""
+
+#: 8290981-0-89344
+#, fuzzy
+msgctxt "8290981-0-89344"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89343
+msgctxt "8290981-0-89343"
+msgid "Khajiiti Explorer"
+msgstr ""
+
+#: 8290981-0-89342
+msgctxt "8290981-0-89342"
+msgid "Khajiiti Explorer"
+msgstr ""
+
+#: 8290981-0-89341
+#, fuzzy
+msgctxt "8290981-0-89341"
+msgid "Butterfly"
+msgstr "나비"
+
+#: 8290981-0-89340
+#, fuzzy
+msgctxt "8290981-0-89340"
+msgid "Butterfly"
+msgstr "나비"
+
+#: 8290981-0-89331
+msgctxt "8290981-0-89331"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-89322
+msgctxt "8290981-0-89322"
+msgid "Lieutenant Lepida"
+msgstr ""
+
+#: 8290981-0-89318
+#, fuzzy
+msgctxt "8290981-0-89318"
+msgid "River Troll"
+msgstr "리버 트롤"
+
+#: 8290981-0-89317
+msgctxt "8290981-0-89317"
+msgid "Reanimated Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89316
+msgctxt "8290981-0-89316"
+msgid "Reanimated Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89315
+msgctxt "8290981-0-89315"
+msgid "Cannibal Brute"
+msgstr ""
+
+#: 8290981-0-89314
+msgctxt "8290981-0-89314"
+msgid "Cannibal Brute"
+msgstr ""
+
+#: 8290981-0-89313
+msgctxt "8290981-0-89313"
+msgid "Cannibal Archer"
+msgstr ""
+
+#: 8290981-0-89312
+msgctxt "8290981-0-89312"
+msgid "Cannibal Archer"
+msgstr ""
+
+#: 8290981-0-89311
+msgctxt "8290981-0-89311"
+msgid "Eludin the Cannibal King"
+msgstr ""
+
+#: 8290981-0-89306
+msgctxt "8290981-0-89306"
+msgid "Tormented Vestige"
+msgstr ""
+
+#: 8290981-0-89302
+msgctxt "8290981-0-89302"
+msgid "Elhalem"
+msgstr ""
+
+#: 8290981-0-89301
+msgctxt "8290981-0-89301"
+msgid "Stalking Blastbones"
+msgstr ""
+
+#: 8290981-0-89300
+msgctxt "8290981-0-89300"
+msgid "Harpy Windcaller"
+msgstr ""
+
+#: 8290981-0-89299
+msgctxt "8290981-0-89299"
+msgid "Harpy Stormweaver"
+msgstr ""
+
+#: 8290981-0-89298
+msgctxt "8290981-0-89298"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-89295
+msgctxt "8290981-0-89295"
+msgid "Spike Wall"
+msgstr ""
+
+#: 8290981-0-89292
+msgctxt "8290981-0-89292"
+msgid "Blighted Blastbones"
+msgstr ""
+
+#: 8290981-0-89291
+msgctxt "8290981-0-89291"
+msgid "Spike Wall"
+msgstr ""
+
+#: 8290981-0-89285
+msgctxt "8290981-0-89285"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-89284
+msgctxt "8290981-0-89284"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-89283
+msgctxt "8290981-0-89283"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-89282
+msgctxt "8290981-0-89282"
+msgid "Ruddy Fang Watcher"
+msgstr ""
+
+#: 8290981-0-89281
+msgctxt "8290981-0-89281"
+msgid "Ruddy Fang Watcher"
+msgstr ""
+
+#: 8290981-0-89280
+msgctxt "8290981-0-89280"
+msgid "Ruddy Fang Mender"
+msgstr ""
+
+#: 8290981-0-89279
+msgctxt "8290981-0-89279"
+msgid "Ruddy Fang Mender"
+msgstr ""
+
+#: 8290981-0-89278
+msgctxt "8290981-0-89278"
+msgid "Zabusur the Drunk"
+msgstr ""
+
+#: 8290981-0-89277
+msgctxt "8290981-0-89277"
+msgid "Ruddy Fang Champion"
+msgstr ""
+
+#: 8290981-0-89276
+msgctxt "8290981-0-89276"
+msgid "Ruddy Fang Champion"
+msgstr ""
+
+#: 8290981-0-89275
+msgctxt "8290981-0-89275"
+msgid "Ruddy Fang Tempest"
+msgstr ""
+
+#: 8290981-0-89274
+msgctxt "8290981-0-89274"
+msgid "Ruddy Fang Tempest"
+msgstr ""
+
+#: 8290981-0-89273
+msgctxt "8290981-0-89273"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-89272
+msgctxt "8290981-0-89272"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-89271
+msgctxt "8290981-0-89271"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-89270
+msgctxt "8290981-0-89270"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-89266
+msgctxt "8290981-0-89266"
+msgid "Mount: Senche (Tan and Brown)"
+msgstr ""
+
+#: 8290981-0-89265
+#, fuzzy
+msgctxt "8290981-0-89265"
+msgid "Antelope"
+msgstr "영양"
+
+#: 8290981-0-89264
+msgctxt "8290981-0-89264"
+msgid "Vulture"
+msgstr "독수리"
+
+#: 8290981-0-89261
+msgctxt "8290981-0-89261"
+msgid "Vulture"
+msgstr "독수리"
+
+#: 8290981-0-89259
+msgctxt "8290981-0-89259"
+msgid "Sword Master Vhysradue"
+msgstr ""
+
+#: 8290981-0-89244
+msgctxt "8290981-0-89244"
+msgid "Lyrrsazhi"
+msgstr "릴사지 "
+
+#: 8290981-0-89242
+#, fuzzy
+msgctxt "8290981-0-89242"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-89241
+msgctxt "8290981-0-89241"
+msgid "Thaleth"
+msgstr ""
+
+#: 8290981-0-89240
+msgctxt "8290981-0-89240"
+msgid "Baandari Pedlar Guar"
+msgstr ""
+
+#: 8290981-0-89239
+msgctxt "8290981-0-89239"
+msgid "Adwihill"
+msgstr ""
+
+#: 8290981-0-89238
+msgctxt "8290981-0-89238"
+msgid "Elder Dragon Hunter Horse"
+msgstr ""
+
+#: 8290981-0-89237
+msgctxt "8290981-0-89237"
+msgid "Skyterror Dragonslayer Horse"
+msgstr ""
+
+#: 8290981-0-89236
+#, fuzzy
+msgctxt "8290981-0-89236"
+msgid "Blazeborn Senche-lion"
+msgstr "태양첨탑 얼음불꽃 센치 사자"
+
+#: 8290981-0-89235
+msgctxt "8290981-0-89235"
+msgid "Steed of the Afflicted"
+msgstr ""
+
+#: 8290981-0-89234
+msgctxt "8290981-0-89234"
+msgid "Baandari Dwarven Spider"
+msgstr ""
+
+#: 8290981-0-89233
+msgctxt "8290981-0-89233"
+msgid "Arena Gladiator Horse"
+msgstr ""
+
+#: 8290981-0-89232
+msgctxt "8290981-0-89232"
+msgid "Anka-Ra Senche-Lion"
+msgstr ""
+
+#: 8290981-0-89231
+msgctxt "8290981-0-89231"
+msgid "Ebony Dwarven Spider"
+msgstr ""
+
+#: 8290981-0-89230
+msgctxt "8290981-0-89230"
+msgid "Anka-Ra Sandcamel"
+msgstr ""
+
+#: 8290981-0-89229
+msgctxt "8290981-0-89229"
+msgid "Tamanat"
+msgstr ""
+
+#: 8290981-0-89228
+msgctxt "8290981-0-89228"
+msgid "Risen Storm Mage"
+msgstr ""
+
+#: 8290981-0-89227
+msgctxt "8290981-0-89227"
+msgid "Bizaku"
+msgstr ""
+
+#: 8290981-0-89225
+msgctxt "8290981-0-89225"
+msgid "White Spotted Courser"
+msgstr ""
+
+#: 8290981-0-89224
+msgctxt "8290981-0-89224"
+msgid "Indigo Senche-Panther"
+msgstr ""
+
+#: 8290981-0-89223
+msgctxt "8290981-0-89223"
+msgid "Deer"
+msgstr "사슴"
+
+#: 8290981-0-89222
+msgctxt "8290981-0-89222"
+msgid "Sphynx Lynx"
+msgstr ""
+
+#: 8290981-0-89221
+msgctxt "8290981-0-89221"
+msgid "Senche-Serval Kitten"
+msgstr ""
+
+#: 8290981-0-89220
+msgctxt "8290981-0-89220"
+msgid "Breton Terrier"
+msgstr ""
+
+#: 8290981-0-89219
+msgctxt "8290981-0-89219"
+msgid "Elder Dragon Hunter Wolf Pup"
+msgstr ""
+
+#: 8290981-0-89218
+msgctxt "8290981-0-89218"
+msgid "Sunspire Ice-Fire Senche-Cub"
+msgstr "태양첨탑 얼음불꽃 아기 센치"
+
+#: 8290981-0-89217
+msgctxt "8290981-0-89217"
+msgid "Alabaster Jerboa"
+msgstr ""
+
+#: 8290981-0-89216
+msgctxt "8290981-0-89216"
+msgid "Risen Moon-Priest"
+msgstr ""
+
+#: 8290981-0-89215
+#, fuzzy
+msgctxt "8290981-0-89215"
+msgid "Scamp"
+msgstr "스캠프"
+
+#: 8290981-0-89212
+msgctxt "8290981-0-89212"
+msgid "Pedlar Pack Senche-Lion Cub"
+msgstr ""
+
+#: 8290981-0-89211
+msgctxt "8290981-0-89211"
+msgid "Pedlar Pack Spider"
+msgstr ""
+
+#: 8290981-0-89210
+msgctxt "8290981-0-89210"
+msgid "Pedlar Pack Wolf Cub"
+msgstr ""
+
+#: 8290981-0-89209
+msgctxt "8290981-0-89209"
+msgid "Pedlar Pack Pony"
+msgstr ""
+
+#: 8290981-0-89208
+msgctxt "8290981-0-89208"
+msgid "Cerulean Scorpion"
+msgstr ""
+
+#: 8290981-0-89203
+msgctxt "8290981-0-89203"
+msgid "Baandari Pedlar Steed"
+msgstr ""
+
+#: 8290981-0-89202
+#, fuzzy
+msgctxt "8290981-0-89202"
+msgid "Jakarn"
+msgstr "자칸"
+
+#: 8290981-0-89201
+#, fuzzy
+msgctxt "8290981-0-89201"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89200
+#, fuzzy
+msgctxt "8290981-0-89200"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89194
+#, fuzzy
+msgctxt "8290981-0-89194"
+msgid "Guar"
+msgstr "구아"
+
+#: 8290981-0-89193
+#, fuzzy
+msgctxt "8290981-0-89193"
+msgid "Goat"
+msgstr "염소"
+
+#: 8290981-0-89192
+msgctxt "8290981-0-89192"
+msgid "Snow Owl"
+msgstr ""
+
+#: 8290981-0-89191
+#, fuzzy
+msgctxt "8290981-0-89191"
+msgid "Welwa"
+msgstr "웰와"
+
+#: 8290981-0-89187
+msgctxt "8290981-0-89187"
+msgid "Cadwell the Betrayer"
+msgstr "배신자 캐드웰"
+
+#: 8290981-0-89185
+msgctxt "8290981-0-89185"
+msgid "Ruddy Fang Raider"
+msgstr ""
+
+#: 8290981-0-89184
+msgctxt "8290981-0-89184"
+msgid "Ruddy Fang Raider"
+msgstr ""
+
+#: 8290981-0-89183
+msgctxt "8290981-0-89183"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-89182
+msgctxt "8290981-0-89182"
+msgid "Ruddy Fang Shadecaller"
+msgstr ""
+
+#: 8290981-0-89181
+msgctxt "8290981-0-89181"
+msgid "Ruddy Fang Shadecaller"
+msgstr ""
+
+#: 8290981-0-89180
+msgctxt "8290981-0-89180"
+msgid "Ruddy Fang Stalker"
+msgstr ""
+
+#: 8290981-0-89179
+msgctxt "8290981-0-89179"
+msgid "Ruddy Fang Stalker"
+msgstr ""
+
+#: 8290981-0-89178
+msgctxt "8290981-0-89178"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-89177
+msgctxt "8290981-0-89177"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-89176
+msgctxt "8290981-0-89176"
+msgid "Humble Zaham"
+msgstr ""
+
+#: 8290981-0-89174
+#, fuzzy
+msgctxt "8290981-0-89174"
+msgid "Clannfear"
+msgstr "클랜피어"
+
+#: 8290981-0-89173
+#, fuzzy
+msgctxt "8290981-0-89173"
+msgid "Banekin"
+msgstr "베인킨"
+
+#: 8290981-0-89171
+msgctxt "8290981-0-89171"
+msgid "Fez'skar"
+msgstr ""
+
+#: 8290981-0-89170
+msgctxt "8290981-0-89170"
+msgid "Dragonguard Orland"
+msgstr "드래곤가드 올랜드"
+
+#: 8290981-0-89163
+msgctxt "8290981-0-89163"
+msgid "Plague of Crows"
+msgstr ""
+
+#: 8290981-0-89159
+msgctxt "8290981-0-89159"
+msgid "Plague of Crows"
+msgstr ""
+
+#: 8290981-0-89156
+#, fuzzy
+msgctxt "8290981-0-89156"
+msgid "Dead Miner"
+msgstr "죽은 광부"
+
+#: 8290981-0-89155
+#, fuzzy
+msgctxt "8290981-0-89155"
+msgid "Dead Miner"
+msgstr "죽은 광부"
+
+#: 8290981-0-89154
+#, fuzzy
+msgctxt "8290981-0-89154"
+msgid "Iron Atronach"
+msgstr "아이언 아트로나크"
+
+#: 8290981-0-89153
+#, fuzzy
+msgctxt "8290981-0-89153"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89152
+#, fuzzy
+msgctxt "8290981-0-89152"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89151
+#, fuzzy
+msgctxt "8290981-0-89151"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89150
+#, fuzzy
+msgctxt "8290981-0-89150"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89148
+#, fuzzy
+msgctxt "8290981-0-89148"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-89147
+msgctxt "8290981-0-89147"
+msgid "Sagara"
+msgstr ""
+
+#: 8290981-0-89144
+msgctxt "8290981-0-89144"
+msgid "Tu'heiba"
+msgstr ""
+
+#: 8290981-0-89143
+msgctxt "8290981-0-89143"
+msgid "Bihargo"
+msgstr ""
+
+#: 8290981-0-89141
+msgctxt "8290981-0-89141"
+msgid "Euraxian Guard"
+msgstr ""
+
+#: 8290981-0-89137
+msgctxt "8290981-0-89137"
+msgid "Euraxian Summoner"
+msgstr ""
+
+#: 8290981-0-89136
+msgctxt "8290981-0-89136"
+msgid "Euraxian Summoner"
+msgstr ""
+
+#: 8290981-0-89135
+msgctxt "8290981-0-89135"
+msgid "Balarik"
+msgstr ""
+
+#: 8290981-0-89134
+msgctxt "8290981-0-89134"
+msgid "Thaedaza"
+msgstr ""
+
+#: 8290981-0-89133
+msgctxt "8290981-0-89133"
+msgid "Daibiza"
+msgstr ""
+
+#: 8290981-0-89132
+msgctxt "8290981-0-89132"
+msgid "J'baanu"
+msgstr ""
+
+#: 8290981-0-89131
+msgctxt "8290981-0-89131"
+msgid "Esalo"
+msgstr ""
+
+#: 8290981-0-89130
+msgctxt "8290981-0-89130"
+msgid "Cherjhad"
+msgstr ""
+
+#: 8290981-0-89119
+msgctxt "8290981-0-89119"
+msgid "Mohsaz"
+msgstr ""
+
+#: 8290981-0-89118
+msgctxt "8290981-0-89118"
+msgid "Tsradarri"
+msgstr ""
+
+#: 8290981-0-89117
+msgctxt "8290981-0-89117"
+msgid "Khilena-ka"
+msgstr ""
+
+#: 8290981-0-89116
+msgctxt "8290981-0-89116"
+msgid "Proconsul Beloren-Kaie"
+msgstr ""
+
+#: 8290981-0-89115
+msgctxt "8290981-0-89115"
+msgid "Zadazi"
+msgstr ""
+
+#: 8290981-0-89114
+msgctxt "8290981-0-89114"
+msgid "Carrion Swarm"
+msgstr ""
+
+#: 8290981-0-89113
+msgctxt "8290981-0-89113"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-89112
+msgctxt "8290981-0-89112"
+msgid "Eljhan"
+msgstr ""
+
+#: 8290981-0-89111
+msgctxt "8290981-0-89111"
+msgid "Ak'an"
+msgstr ""
+
+#: 8290981-0-89110
+msgctxt "8290981-0-89110"
+msgid "Tasam-ri"
+msgstr ""
+
+#: 8290981-0-89109
+msgctxt "8290981-0-89109"
+msgid "Augurius the Mad"
+msgstr ""
+
+#: 8290981-0-89108
+#, fuzzy
+msgctxt "8290981-0-89108"
+msgid "Thug"
+msgstr "폭력배"
+
+#: 8290981-0-89107
+msgctxt "8290981-0-89107"
+msgid "Hired Guide"
+msgstr ""
+
+#: 8290981-0-89106
+msgctxt "8290981-0-89106"
+msgid "Awakened Sharpshooter"
+msgstr ""
+
+#: 8290981-0-89105
+msgctxt "8290981-0-89105"
+msgid "Awakened Sharpshooter"
+msgstr ""
+
+#: 8290981-0-89104
+msgctxt "8290981-0-89104"
+msgid "Awakened Charger"
+msgstr ""
+
+#: 8290981-0-89103
+msgctxt "8290981-0-89103"
+msgid "Awakened Charger"
+msgstr ""
+
+#: 8290981-0-89102
+msgctxt "8290981-0-89102"
+msgid "Awakened Raider"
+msgstr ""
+
+#: 8290981-0-89101
+msgctxt "8290981-0-89101"
+msgid "Awakened Raider"
+msgstr ""
+
+#: 8290981-0-89095
+msgctxt "8290981-0-89095"
+msgid "Ghostly Senche-Tiger"
+msgstr ""
+
+#: 8290981-0-89094
+msgctxt "8290981-0-89094"
+msgid "Euraxian Summoner"
+msgstr ""
+
+#: 8290981-0-89093
+msgctxt "8290981-0-89093"
+msgid "Euraxian Summoner"
+msgstr ""
+
+#: 8290981-0-89092
+msgctxt "8290981-0-89092"
+msgid "Euraxian Assassin"
+msgstr "유라시아의 암살자"
+
+#: 8290981-0-89091
+#, fuzzy
+msgctxt "8290981-0-89091"
+msgid "Jakarn"
+msgstr "자칸"
+
+#: 8290981-0-89090
+msgctxt "8290981-0-89090"
+msgid "Euraxian Guard"
+msgstr ""
+
+#: 8290981-0-89087
+msgctxt "8290981-0-89087"
+msgid "Tarazur"
+msgstr ""
+
+#: 8290981-0-89086
+msgctxt "8290981-0-89086"
+msgid "Melleron"
+msgstr ""
+
+#: 8290981-0-89083
+msgctxt "8290981-0-89083"
+msgid "Founder's Champion"
+msgstr ""
+
+#: 8290981-0-89082
+msgctxt "8290981-0-89082"
+msgid "Founder's Champion"
+msgstr ""
+
+#: 8290981-0-89072
+msgctxt "8290981-0-89072"
+msgid "Baandari Pedlar Camel"
+msgstr ""
+
+#: 8290981-0-89071
+msgctxt "8290981-0-89071"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-89070
+msgctxt "8290981-0-89070"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-89069
+msgctxt "8290981-0-89069"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-89068
+msgctxt "8290981-0-89068"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-89067
+msgctxt "8290981-0-89067"
+msgid "Fire Trap"
+msgstr ""
+
+#: 8290981-0-89066
+#, fuzzy
+msgctxt "8290981-0-89066"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89065
+#, fuzzy
+msgctxt "8290981-0-89065"
+msgid "Websnare Spider"
+msgstr "거미줄덫 거미"
+
+#: 8290981-0-89064
+#, fuzzy
+msgctxt "8290981-0-89064"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89063
+msgctxt "8290981-0-89063"
+msgid "Venomspit Spider"
+msgstr "독이 있는 거미"
+
+#: 8290981-0-89062
+#, fuzzy
+msgctxt "8290981-0-89062"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89060
+msgctxt "8290981-0-89060"
+msgid "Aneshi the Shrine Keeper"
+msgstr "사당의 파수꾼 아네시"
+
+#: 8290981-0-89058
+msgctxt "8290981-0-89058"
+msgid "Mojha"
+msgstr ""
+
+#: 8290981-0-89057
+msgctxt "8290981-0-89057"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89056
+msgctxt "8290981-0-89056"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89055
+msgctxt "8290981-0-89055"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89053
+msgctxt "8290981-0-89053"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89052
+msgctxt "8290981-0-89052"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89051
+msgctxt "8290981-0-89051"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89048
+msgctxt "8290981-0-89048"
+msgid "Khajiit Citizen"
+msgstr ""
+
+#: 8290981-0-89045
+#, fuzzy
+msgctxt "8290981-0-89045"
+msgid "Websnare Spider"
+msgstr "거미줄덫 거미"
+
+#: 8290981-0-89044
+#, fuzzy
+msgctxt "8290981-0-89044"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89043
+msgctxt "8290981-0-89043"
+msgid "Venomspit Spider"
+msgstr "독이 있는 거미"
+
+#: 8290981-0-89041
+#, fuzzy
+msgctxt "8290981-0-89041"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89040
+msgctxt "8290981-0-89040"
+msgid "Venomspit Spider"
+msgstr "독이 있는 거미"
+
+#: 8290981-0-89037
+msgctxt "8290981-0-89037"
+msgid "Nahviintaas"
+msgstr ""
+
+#: 8290981-0-89036
+msgctxt "8290981-0-89036"
+msgid "Ruin of Alkosh"
+msgstr ""
+
+#: 8290981-0-89035
+msgctxt "8290981-0-89035"
+msgid "Venomspit Spider"
+msgstr "독이 있는 거미"
+
+#: 8290981-0-89034
+#, fuzzy
+msgctxt "8290981-0-89034"
+msgid "Websnare Spider"
+msgstr "거미줄덫 거미"
+
+#: 8290981-0-89033
+#, fuzzy
+msgctxt "8290981-0-89033"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89029
+#, fuzzy
+msgctxt "8290981-0-89029"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89028
+#, fuzzy
+msgctxt "8290981-0-89028"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-89027
+msgctxt "8290981-0-89027"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-89025
+msgctxt "8290981-0-89025"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-89024
+msgctxt "8290981-0-89024"
+msgid "Fury of Alkosh"
+msgstr ""
+
+#: 8290981-0-89022
+#, fuzzy
+msgctxt "8290981-0-89022"
+msgid "Vastarie"
+msgstr "바스타리"
+
+#: 8290981-0-89007
+msgctxt "8290981-0-89007"
+msgid "Fa'tabe"
+msgstr ""
+
+#: 8290981-0-89006
+#, fuzzy
+msgctxt "8290981-0-89006"
+msgid "Dominion Soldier"
+msgstr "알드메리 자치령 병사"
+
+#: 8290981-0-89005
+msgctxt "8290981-0-89005"
+msgid "Envoy Cashia"
+msgstr ""
+
+#: 8290981-0-89004
+#, fuzzy
+msgctxt "8290981-0-89004"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-89003
+#, fuzzy
+msgctxt "8290981-0-89003"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-89002
+msgctxt "8290981-0-89002"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-89000
+msgctxt "8290981-0-89000"
+msgid "Shade of Arum-Khal"
+msgstr ""
+
+#: 8290981-0-88999
+msgctxt "8290981-0-88999"
+msgid "Shade of Arum-Khal"
+msgstr ""
+
+#: 8290981-0-88998
+#, fuzzy
+msgctxt "8290981-0-88998"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-88997
+msgctxt "8290981-0-88997"
+msgid "Skeletal Raider"
+msgstr ""
+
+#: 8290981-0-88996
+msgctxt "8290981-0-88996"
+msgid "Skeletal Dreadnaught"
+msgstr ""
+
+#: 8290981-0-88995
+msgctxt "8290981-0-88995"
+msgid "Skeletal Charger"
+msgstr "해골 돌격병"
+
+#: 8290981-0-88994
+msgctxt "8290981-0-88994"
+msgid "Skeletal Dreadmage"
+msgstr ""
+
+#: 8290981-0-88993
+msgctxt "8290981-0-88993"
+msgid "Skeletal Sorcerer"
+msgstr "해골 마도사"
+
+#: 8290981-0-88992
+msgctxt "8290981-0-88992"
+msgid "Dremora Bulwark"
+msgstr ""
+
+#: 8290981-0-88991
+msgctxt "8290981-0-88991"
+msgid "Dremora Bulwark"
+msgstr ""
+
+#: 8290981-0-88990
+msgctxt "8290981-0-88990"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-88989
+msgctxt "8290981-0-88989"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-88988
+msgctxt "8290981-0-88988"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-88987
+msgctxt "8290981-0-88987"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-88986
+msgctxt "8290981-0-88986"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-88985
+msgctxt "8290981-0-88985"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-88984
+msgctxt "8290981-0-88984"
+msgid "Dremora Conduit"
+msgstr ""
+
+#: 8290981-0-88983
+msgctxt "8290981-0-88983"
+msgid "Dremora Conduit"
+msgstr ""
+
+#: 8290981-0-88982
+msgctxt "8290981-0-88982"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-88981
+msgctxt "8290981-0-88981"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-88979
+msgctxt "8290981-0-88979"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-88978
+msgctxt "8290981-0-88978"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-88977
+msgctxt "8290981-0-88977"
+msgid "Ruddy Fang Cutthroat"
+msgstr ""
+
+#: 8290981-0-88976
+msgctxt "8290981-0-88976"
+msgid "Ruddy Fang Cutthroat"
+msgstr ""
+
+#: 8290981-0-88975
+msgctxt "8290981-0-88975"
+msgid "Casta Tiragrius"
+msgstr ""
+
+#: 8290981-0-88972
+#, fuzzy
+msgctxt "8290981-0-88972"
+msgid "Zaorir"
+msgstr "자오릴"
+
+#: 8290981-0-88971
+msgctxt "8290981-0-88971"
+msgid "Sugarsnout"
+msgstr "슈가스노트"
+
+#: 8290981-0-88969
+msgctxt "8290981-0-88969"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-88967
+#, fuzzy
+msgctxt "8290981-0-88967"
+msgid "Salamander"
+msgstr "살라맨더"
+
+#: 8290981-0-88956
+msgctxt "8290981-0-88956"
+msgid "Master Groom Zarbi'dahuz"
+msgstr "달인 마부 자르비'다후즈"
+
+#: 8290981-0-88953
+#, fuzzy
+msgctxt "8290981-0-88953"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-88950
+#, fuzzy
+msgctxt "8290981-0-88950"
+msgid "Mudcrab"
+msgstr "진흙게"
+
+#: 8290981-0-88946
+msgctxt "8290981-0-88946"
+msgid "Vulture"
+msgstr "독수리"
+
+#: 8290981-0-88945
+msgctxt "8290981-0-88945"
+msgid "Frost Well"
+msgstr ""
+
+#: 8290981-0-88943
+msgctxt "8290981-0-88943"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-88942
+msgctxt "8290981-0-88942"
+msgid "Vulture"
+msgstr "독수리"
+
+#: 8290981-0-88941
+msgctxt "8290981-0-88941"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-88939
+msgctxt "8290981-0-88939"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88938
+msgctxt "8290981-0-88938"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-88934
+#, fuzzy
+msgctxt "8290981-0-88934"
+msgid "Spider"
+msgstr "거미"
+
+#: 8290981-0-88932
+#, fuzzy
+msgctxt "8290981-0-88932"
+msgid "Scorpion"
+msgstr "전갈"
+
+#: 8290981-0-88931
+#, fuzzy
+msgctxt "8290981-0-88931"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-88930
+msgctxt "8290981-0-88930"
+msgid "Venomspit Spider"
+msgstr "독이 있는 거미"
+
+#: 8290981-0-88929
+#, fuzzy
+msgctxt "8290981-0-88929"
+msgid "Websnare Spider"
+msgstr "거미줄덫 거미"
+
+#: 8290981-0-88928
+msgctxt "8290981-0-88928"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88922
+#, fuzzy
+msgctxt "8290981-0-88922"
+msgid "Antelope"
+msgstr "영양"
+
+#: 8290981-0-88921
+#, fuzzy
+msgctxt "8290981-0-88921"
+msgid "Daggerback"
+msgstr "가시돼지"
+
+#: 8290981-0-88907
+msgctxt "8290981-0-88907"
+msgid "Khasda Bodyguard"
+msgstr ""
+
+#: 8290981-0-88905
+msgctxt "8290981-0-88905"
+msgid "Khasda Bodyguard"
+msgstr ""
+
+#: 8290981-0-88903
+msgctxt "8290981-0-88903"
+msgid "Khasda Coldcaster"
+msgstr ""
+
+#: 8290981-0-88902
+msgctxt "8290981-0-88902"
+msgid "Khasda Coldcaster"
+msgstr ""
+
+#: 8290981-0-88900
+msgctxt "8290981-0-88900"
+msgid "Khasda Waylayer"
+msgstr ""
+
+#: 8290981-0-88899
+msgctxt "8290981-0-88899"
+msgid "Khasda Waylayer"
+msgstr ""
+
+#: 8290981-0-88893
+msgctxt "8290981-0-88893"
+msgid "Khasda Bruiser"
+msgstr ""
+
+#: 8290981-0-88892
+msgctxt "8290981-0-88892"
+msgid "Khasda Bruiser"
+msgstr ""
+
+#: 8290981-0-88891
+msgctxt "8290981-0-88891"
+msgid "Khasda Deadeye"
+msgstr ""
+
+#: 8290981-0-88890
+msgctxt "8290981-0-88890"
+msgid "Khasda Deadeye"
+msgstr ""
+
+#: 8290981-0-88889
+msgctxt "8290981-0-88889"
+msgid "Meirvale Keep Defender"
+msgstr ""
+
+#: 8290981-0-88888
+msgctxt "8290981-0-88888"
+msgid "Meirvale Keep Defender"
+msgstr ""
+
+#: 8290981-0-88887
+msgctxt "8290981-0-88887"
+msgid "Meirvale Keep Sniper"
+msgstr ""
+
+#: 8290981-0-88886
+msgctxt "8290981-0-88886"
+msgid "Meirvale Keep Sniper"
+msgstr ""
+
+#: 8290981-0-88884
+msgctxt "8290981-0-88884"
+msgid "Meirvale Keep Shadowbender"
+msgstr ""
+
+#: 8290981-0-88881
+#, fuzzy
+msgctxt "8290981-0-88881"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-88879
+#, fuzzy
+msgctxt "8290981-0-88879"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-88878
+msgctxt "8290981-0-88878"
+msgid "Alkosh's Fate"
+msgstr ""
+
+#: 8290981-0-88875
+msgctxt "8290981-0-88875"
+msgid "Fury of Alkosh"
+msgstr ""
+
+#: 8290981-0-88874
+msgctxt "8290981-0-88874"
+msgid "Alkosh's Will"
+msgstr ""
+
+#: 8290981-0-88873
+msgctxt "8290981-0-88873"
+msgid "Moon-Sentinel Shaman"
+msgstr ""
+
+#: 8290981-0-88872
+msgctxt "8290981-0-88872"
+msgid "Moon-Sentinel Shaman"
+msgstr ""
+
+#: 8290981-0-88871
+msgctxt "8290981-0-88871"
+msgid "Ruin of Alkosh"
+msgstr ""
+
+#: 8290981-0-88870
+msgctxt "8290981-0-88870"
+msgid "Moon-Sentinel Frightener"
+msgstr ""
+
+#: 8290981-0-88869
+msgctxt "8290981-0-88869"
+msgid "Moon-Sentinel Frightener"
+msgstr ""
+
+#: 8290981-0-88868
+msgctxt "8290981-0-88868"
+msgid "Alkosh's Fate"
+msgstr ""
+
+#: 8290981-0-88866
+msgctxt "8290981-0-88866"
+msgid "Meirvale Keep Shadowbender"
+msgstr ""
+
+#: 8290981-0-88865
+msgctxt "8290981-0-88865"
+msgid "Moon-Sentinel Adept"
+msgstr ""
+
+#: 8290981-0-88864
+msgctxt "8290981-0-88864"
+msgid "Moon-Sentinel Adept"
+msgstr ""
+
+#: 8290981-0-88863
+msgctxt "8290981-0-88863"
+msgid "Moon-Sentinel Suncaster"
+msgstr ""
+
+#: 8290981-0-88862
+msgctxt "8290981-0-88862"
+msgid "Moon-Sentinel Suncaster"
+msgstr ""
+
+#: 8290981-0-88859
+msgctxt "8290981-0-88859"
+msgid "Doorman"
+msgstr ""
+
+#: 8290981-0-88854
+msgctxt "8290981-0-88854"
+msgid "Euraxian Archer"
+msgstr "유라시아의 궁수"
+
+#: 8290981-0-88853
+msgctxt "8290981-0-88853"
+msgid "Euraxian Archer"
+msgstr "유라시아의 궁수"
+
+#: 8290981-0-88852
+msgctxt "8290981-0-88852"
+msgid "Euraxian Spellblade"
+msgstr "유라시아의 마법사"
+
+#: 8290981-0-88851
+msgctxt "8290981-0-88851"
+msgid "Euraxian Spellblade"
+msgstr "유라시아의 마법사"
+
+#: 8290981-0-88844
+#, fuzzy
+msgctxt "8290981-0-88844"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-88843
+msgctxt "8290981-0-88843"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-88842
+#, fuzzy
+msgctxt "8290981-0-88842"
+msgid "Dire Wolf"
+msgstr "이리"
+
+#: 8290981-0-88840
+msgctxt "8290981-0-88840"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-88839
+msgctxt "8290981-0-88839"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-88837
+msgctxt "8290981-0-88837"
+msgid "Moon-Sentinel Vanquisher"
+msgstr ""
+
+#: 8290981-0-88835
+msgctxt "8290981-0-88835"
+msgid "Champion of Mehrunnez"
+msgstr ""
+
+#: 8290981-0-88834
+msgctxt "8290981-0-88834"
+msgid "Moon-Sentinel Guardian"
+msgstr ""
+
+#: 8290981-0-88833
+msgctxt "8290981-0-88833"
+msgid "Moon-Sentinel Shadowmauler"
+msgstr ""
+
+#: 8290981-0-88832
+msgctxt "8290981-0-88832"
+msgid "Moon-Sentinel Mender"
+msgstr ""
+
+#: 8290981-0-88829
+#, fuzzy
+msgctxt "8290981-0-88829"
+msgid "Antelope"
+msgstr "영양"
+
+#: 8290981-0-88828
+#, fuzzy
+msgctxt "8290981-0-88828"
+msgid "Antelope"
+msgstr "영양"
+
+#: 8290981-0-88827
+msgctxt "8290981-0-88827"
+msgid "Meirvale Keep Sentry"
+msgstr ""
+
+#: 8290981-0-88826
+msgctxt "8290981-0-88826"
+msgid "Meirvale Keep Sentry"
+msgstr ""
+
+#: 8290981-0-88818
+#, fuzzy
+msgctxt "8290981-0-88818"
+msgid "Dire Wolf"
+msgstr "이리"
+
+#: 8290981-0-88817
+#, fuzzy
+msgctxt "8290981-0-88817"
+msgid "Fellrunner"
+msgstr "펠러너"
+
+#: 8290981-0-88815
+#, fuzzy
+msgctxt "8290981-0-88815"
+msgid "Daggerback"
+msgstr "가시돼지"
+
+#: 8290981-0-88806
+#, fuzzy
+msgctxt "8290981-0-88806"
+msgid "Senche-Tiger"
+msgstr "센치 호랑이"
+
+#: 8290981-0-88802
+#, fuzzy
+msgctxt "8290981-0-88802"
+msgid "Bone Colossus"
+msgstr "뼈 거상"
+
+#: 8290981-0-88801
+#, fuzzy
+msgctxt "8290981-0-88801"
+msgid "Daedroth"
+msgstr "데이드로쓰"
+
+#: 8290981-0-88800
+msgctxt "8290981-0-88800"
+msgid "Ruddy Fang Cutthroat"
+msgstr ""
+
+#: 8290981-0-88799
+msgctxt "8290981-0-88799"
+msgid "Ruddy Fang Cutthroat"
+msgstr ""
+
+#: 8290981-0-88798
+msgctxt "8290981-0-88798"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-88797
+msgctxt "8290981-0-88797"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-88796
+#, fuzzy
+msgctxt "8290981-0-88796"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-88792
+#, fuzzy
+msgctxt "8290981-0-88792"
+msgid "Antelope"
+msgstr "영양"
+
+#: 8290981-0-88789
+#, fuzzy
+msgctxt "8290981-0-88789"
+msgid "Marthine"
+msgstr "마틴"
+
+#: 8290981-0-88788
+msgctxt "8290981-0-88788"
+msgid "Lotus"
+msgstr ""
+
+#: 8290981-0-88785
+msgctxt "8290981-0-88785"
+msgid "Awakened Blademaster"
+msgstr ""
+
+#: 8290981-0-88784
+msgctxt "8290981-0-88784"
+msgid "Awakened Blademaster"
+msgstr ""
+
+#: 8290981-0-88783
+msgctxt "8290981-0-88783"
+msgid "Awakened Sharpshooter"
+msgstr ""
+
+#: 8290981-0-88782
+msgctxt "8290981-0-88782"
+msgid "Awakened Sharpshooter"
+msgstr ""
+
+#: 8290981-0-88781
+msgctxt "8290981-0-88781"
+msgid "Khamasha"
+msgstr ""
+
+#: 8290981-0-88780
+msgctxt "8290981-0-88780"
+msgid "Zoadran"
+msgstr ""
+
+#: 8290981-0-88779
+msgctxt "8290981-0-88779"
+msgid "Dar'ava"
+msgstr ""
+
+#: 8290981-0-88778
+#, fuzzy
+msgctxt "8290981-0-88778"
+msgid "Filbert Cienne"
+msgstr "필버트 키엔"
+
+#: 8290981-0-88777
+msgctxt "8290981-0-88777"
+msgid "Euraxian Skullguard"
+msgstr ""
+
+#: 8290981-0-88776
+msgctxt "8290981-0-88776"
+msgid "Euraxian Skullguard"
+msgstr ""
+
+#: 8290981-0-88775
+msgctxt "8290981-0-88775"
+msgid "Euraxian Skullguard"
+msgstr ""
+
+#: 8290981-0-88774
+msgctxt "8290981-0-88774"
+msgid "Euraxian Skullguard"
+msgstr ""
+
+#: 8290981-0-88773
+msgctxt "8290981-0-88773"
+msgid "Euraxian Skullguard"
+msgstr ""
+
+#: 8290981-0-88772
+msgctxt "8290981-0-88772"
+msgid "Euraxian Skullguard"
+msgstr ""
+
+#: 8290981-0-88770
+msgctxt "8290981-0-88770"
+msgid "Risen Archer"
+msgstr "되살아난 궁수"
+
+#: 8290981-0-88765
+msgctxt "8290981-0-88765"
+msgid "J'baashli"
+msgstr ""
+
+#: 8290981-0-88761
+msgctxt "8290981-0-88761"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-88760
+msgctxt "8290981-0-88760"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-88759
+msgctxt "8290981-0-88759"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-88758
+msgctxt "8290981-0-88758"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-88752
+msgctxt "8290981-0-88752"
+msgid "Gornikaus Oxtooth"
+msgstr ""
+
+#: 8290981-0-88745
+msgctxt "8290981-0-88745"
+msgid "Healer"
+msgstr "치유사"
+
+#: 8290981-0-88744
+msgctxt "8290981-0-88744"
+msgid "Healer"
+msgstr "치유사"
+
+#: 8290981-0-88743
+msgctxt "8290981-0-88743"
+msgid "Lyrrsazhi"
+msgstr "릴사지 "
+
+#: 8290981-0-88742
+msgctxt "8290981-0-88742"
+msgid "Euraxian Infantry"
+msgstr "유라시아의 보병"
+
+#: 8290981-0-88741
+msgctxt "8290981-0-88741"
+msgid "Battlereeve Tanerline"
+msgstr ""
+
+#: 8290981-0-88713
+msgctxt "8290981-0-88713"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-88710
+msgctxt "8290981-0-88710"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-88706
+msgctxt "8290981-0-88706"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-88705
+#, fuzzy
+msgctxt "8290981-0-88705"
+msgid "M'zum"
+msgstr "무'즘"
+
+#: 8290981-0-88704
+msgctxt "8290981-0-88704"
+msgid "Grand Adept Ma'jha-dro"
+msgstr "고위 수도자 마자-드로"
+
+#: 8290981-0-88703
+msgctxt "8290981-0-88703"
+msgid "Dazjhera"
+msgstr ""
+
+#: 8290981-0-88702
+msgctxt "8290981-0-88702"
+msgid "J'baashli"
+msgstr ""
+
+#: 8290981-0-88701
+msgctxt "8290981-0-88701"
+msgid "Warrior"
+msgstr "전사"
+
+#: 8290981-0-88700
+msgctxt "8290981-0-88700"
+msgid "Indalzahr"
+msgstr ""
+
+#: 8290981-0-88699
+msgctxt "8290981-0-88699"
+msgid "Bezjhan"
+msgstr ""
+
+#: 8290981-0-88697
+msgctxt "8290981-0-88697"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-88696
+msgctxt "8290981-0-88696"
+msgid "Necromancer"
+msgstr ""
+
+#: 8290981-0-88695
+#, fuzzy
+msgctxt "8290981-0-88695"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-88694
+msgctxt "8290981-0-88694"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-88692
+msgctxt "8290981-0-88692"
+msgid "Horse"
+msgstr "말"
+
+#: 8290981-0-88690
+msgctxt "8290981-0-88690"
+msgid "Anais Davaux"
+msgstr "아나이스 다보스"
+
+#: 8290981-0-88688
+msgctxt "8290981-0-88688"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-88684
+msgctxt "8290981-0-88684"
+msgid "Dreet-Meena"
+msgstr ""
+
+#: 8290981-0-88683
+msgctxt "8290981-0-88683"
+msgid "Ribazhur"
+msgstr ""
+
+#: 8290981-0-88682
+msgctxt "8290981-0-88682"
+msgid "Nafobia"
+msgstr ""
+
+#: 8290981-0-88681
+msgctxt "8290981-0-88681"
+msgid "Frenillas"
+msgstr ""
+
+#: 8290981-0-88680
+msgctxt "8290981-0-88680"
+msgid "Majadhi-ka"
+msgstr ""
+
+#: 8290981-0-88679
+msgctxt "8290981-0-88679"
+msgid "Avita Pitio"
+msgstr ""
+
+#: 8290981-0-88678
+msgctxt "8290981-0-88678"
+msgid "Carmalo Nirol"
+msgstr ""
+
+#: 8290981-0-88677
+msgctxt "8290981-0-88677"
+msgid "Justinia Acilius"
+msgstr ""
+
+#: 8290981-0-88676
+msgctxt "8290981-0-88676"
+msgid "Telin-Nashae Sialius"
+msgstr ""
+
+#: 8290981-0-88675
+msgctxt "8290981-0-88675"
+msgid "Kail-Haraka Artoria"
+msgstr ""
+
+#: 8290981-0-88674
+msgctxt "8290981-0-88674"
+msgid "Silus Inventius"
+msgstr ""
+
+#: 8290981-0-88673
+msgctxt "8290981-0-88673"
+msgid "Tork"
+msgstr ""
+
+#: 8290981-0-88672
+msgctxt "8290981-0-88672"
+msgid "Narol"
+msgstr ""
+
+#: 8290981-0-88671
+msgctxt "8290981-0-88671"
+msgid "Surerdahen"
+msgstr ""
+
+#: 8290981-0-88670
+msgctxt "8290981-0-88670"
+msgid "Beshari"
+msgstr ""
+
+#: 8290981-0-88669
+msgctxt "8290981-0-88669"
+msgid "Barulor"
+msgstr ""
+
+#: 8290981-0-88668
+msgctxt "8290981-0-88668"
+msgid "Narazbiri"
+msgstr ""
+
+#: 8290981-0-88667
+msgctxt "8290981-0-88667"
+msgid "Adainril"
+msgstr ""
+
+#: 8290981-0-88666
+msgctxt "8290981-0-88666"
+msgid "Hebasi"
+msgstr "헤바시"
+
+#: 8290981-0-88665
+msgctxt "8290981-0-88665"
+msgid "Adept Pinumar"
+msgstr ""
+
+#: 8290981-0-88664
+msgctxt "8290981-0-88664"
+msgid "Shasuna-ja"
+msgstr ""
+
+#: 8290981-0-88663
+msgctxt "8290981-0-88663"
+msgid "Griskha"
+msgstr ""
+
+#: 8290981-0-88660
+msgctxt "8290981-0-88660"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88649
+msgctxt "8290981-0-88649"
+msgid "Isadati"
+msgstr ""
+
+#: 8290981-0-88624
+msgctxt "8290981-0-88624"
+msgid "Zaorir"
+msgstr "자오릴"
+
+#: 8290981-0-88622
+msgctxt "8290981-0-88622"
+msgid "Skeletal Brute"
+msgstr "해골 야만병"
+
+#: 8290981-0-88611
+#, fuzzy
+msgctxt "8290981-0-88611"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-88608
+#, fuzzy
+msgctxt "8290981-0-88608"
+msgid "Skeletal Senche"
+msgstr "해골 센치"
+
+#: 8290981-0-88603
+#, fuzzy
+msgctxt "8290981-0-88603"
+msgid "Skeletal Senche"
+msgstr "해골 센치"
+
+#: 8290981-0-88601
+msgctxt "8290981-0-88601"
+msgid "Khasda"
+msgstr ""
+
+#: 8290981-0-88595
+msgctxt "8290981-0-88595"
+msgid "Elsweyr Guard"
+msgstr ""
+
+#: 8290981-0-88594
+msgctxt "8290981-0-88594"
+msgid "Elsweyr Guard"
+msgstr ""
+
+#: 8290981-0-88593
+msgctxt "8290981-0-88593"
+msgid "Elsweyr Guard"
+msgstr ""
+
+#: 8290981-0-88592
+msgctxt "8290981-0-88592"
+msgid "Elsweyr Guard"
+msgstr ""
+
+#: 8290981-0-88591
+msgctxt "8290981-0-88591"
+msgid "Elsweyr Guard"
+msgstr ""
+
+#: 8290981-0-88590
+msgctxt "8290981-0-88590"
+msgid "Elsweyr Guard"
+msgstr ""
+
+#: 8290981-0-88589
+msgctxt "8290981-0-88589"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-88587
+#, fuzzy
+msgctxt "8290981-0-88587"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-88586
+#, fuzzy
+msgctxt "8290981-0-88586"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-88585
+msgctxt "8290981-0-88585"
+msgid "Giant Wasp"
+msgstr ""
+
+#: 8290981-0-88576
+msgctxt "8290981-0-88576"
+msgid "Raebanji"
+msgstr ""
+
+#: 8290981-0-88575
+msgctxt "8290981-0-88575"
+msgid "Pilazaz"
+msgstr ""
+
+#: 8290981-0-88574
+msgctxt "8290981-0-88574"
+msgid "Najirra"
+msgstr ""
+
+#: 8290981-0-88573
+msgctxt "8290981-0-88573"
+msgid "Lara-Tan"
+msgstr ""
+
+#: 8290981-0-88572
+msgctxt "8290981-0-88572"
+msgid "Iokkas"
+msgstr ""
+
+#: 8290981-0-88571
+msgctxt "8290981-0-88571"
+msgid "Spirit Mender"
+msgstr "영혼의 복원사"
+
+#: 8290981-0-88570
+msgctxt "8290981-0-88570"
+msgid "Dirty-Drakes Berserker"
+msgstr ""
+
+#: 8290981-0-88569
+msgctxt "8290981-0-88569"
+msgid "Dirty-Drakes Berserker"
+msgstr ""
+
+#: 8290981-0-88568
+msgctxt "8290981-0-88568"
+msgid "Dirty-Drakes Thundermaul"
+msgstr ""
+
+#: 8290981-0-88567
+msgctxt "8290981-0-88567"
+msgid "Senche-raht"
+msgstr ""
+
+#: 8290981-0-88566
+msgctxt "8290981-0-88566"
+msgid "Dirty-Drakes Thundermaul"
+msgstr ""
+
+#: 8290981-0-88564
+msgctxt "8290981-0-88564"
+msgid "Tanisie Manas"
+msgstr ""
+
+#: 8290981-0-88563
+msgctxt "8290981-0-88563"
+msgid "Flicks-the-Dagger"
+msgstr ""
+
+#: 8290981-0-88562
+msgctxt "8290981-0-88562"
+msgid "Zarida"
+msgstr ""
+
+#: 8290981-0-88561
+msgctxt "8290981-0-88561"
+msgid "Skalf"
+msgstr ""
+
+#: 8290981-0-88560
+msgctxt "8290981-0-88560"
+msgid "Gratorga"
+msgstr ""
+
+#: 8290981-0-88559
+msgctxt "8290981-0-88559"
+msgid "Benzoq"
+msgstr ""
+
+#: 8290981-0-88558
+msgctxt "8290981-0-88558"
+msgid "Panolya"
+msgstr ""
+
+#: 8290981-0-88557
+msgctxt "8290981-0-88557"
+msgid "Rolelnthir"
+msgstr ""
+
+#: 8290981-0-88556
+msgctxt "8290981-0-88556"
+msgid "Serenade"
+msgstr ""
+
+#: 8290981-0-88555
+msgctxt "8290981-0-88555"
+msgid "Thodothor"
+msgstr ""
+
+#: 8290981-0-88554
+msgctxt "8290981-0-88554"
+msgid "Recruiter Ultholon"
+msgstr ""
+
+#: 8290981-0-88553
+msgctxt "8290981-0-88553"
+msgid "Sarralthir"
+msgstr ""
+
+#: 8290981-0-88552
+msgctxt "8290981-0-88552"
+msgid "Hilo Sylla"
+msgstr ""
+
+#: 8290981-0-88551
+msgctxt "8290981-0-88551"
+msgid "Fralvia Celata"
+msgstr ""
+
+#: 8290981-0-88550
+msgctxt "8290981-0-88550"
+msgid "Carusian Matius"
+msgstr ""
+
+#: 8290981-0-88549
+msgctxt "8290981-0-88549"
+msgid "Urania Barbula"
+msgstr ""
+
+#: 8290981-0-88548
+msgctxt "8290981-0-88548"
+msgid "Samari"
+msgstr ""
+
+#: 8290981-0-88547
+msgctxt "8290981-0-88547"
+msgid "Bindabi"
+msgstr ""
+
+#: 8290981-0-88546
+msgctxt "8290981-0-88546"
+msgid "Ra'ri"
+msgstr ""
+
+#: 8290981-0-88545
+msgctxt "8290981-0-88545"
+msgid "Zansora"
+msgstr ""
+
+#: 8290981-0-88544
+msgctxt "8290981-0-88544"
+msgid "Kunaar"
+msgstr ""
+
+#: 8290981-0-88543
+msgctxt "8290981-0-88543"
+msgid "Yuramla"
+msgstr ""
+
+#: 8290981-0-88542
+msgctxt "8290981-0-88542"
+msgid "Sinud"
+msgstr ""
+
+#: 8290981-0-88541
+msgctxt "8290981-0-88541"
+msgid "Zabhi"
+msgstr ""
+
+#: 8290981-0-88540
+msgctxt "8290981-0-88540"
+msgid "Adept Lakjo"
+msgstr "수도자 라쿠조"
+
+#: 8290981-0-88539
+msgctxt "8290981-0-88539"
+msgid "Adept Urbinna"
+msgstr ""
+
+#: 8290981-0-88538
+msgctxt "8290981-0-88538"
+msgid "Ra'jhad"
+msgstr ""
+
+#: 8290981-0-88537
+msgctxt "8290981-0-88537"
+msgid "Munili"
+msgstr ""
+
+#: 8290981-0-88536
+msgctxt "8290981-0-88536"
+msgid "Shaashuz"
+msgstr ""
+
+#: 8290981-0-88535
+msgctxt "8290981-0-88535"
+msgid "Chirba"
+msgstr ""
+
+#: 8290981-0-88534
+msgctxt "8290981-0-88534"
+msgid "Tazzhid"
+msgstr ""
+
+#: 8290981-0-88533
+msgctxt "8290981-0-88533"
+msgid "Thadharanji"
+msgstr ""
+
+#: 8290981-0-88532
+msgctxt "8290981-0-88532"
+msgid "Aburzin"
+msgstr ""
+
+#: 8290981-0-88531
+msgctxt "8290981-0-88531"
+msgid "Hinsora"
+msgstr ""
+
+#: 8290981-0-88530
+msgctxt "8290981-0-88530"
+msgid "Tamruz"
+msgstr ""
+
+#: 8290981-0-88529
+msgctxt "8290981-0-88529"
+msgid "Grashorag"
+msgstr ""
+
+#: 8290981-0-88528
+msgctxt "8290981-0-88528"
+msgid "Ahmanra"
+msgstr ""
+
+#: 8290981-0-88527
+msgctxt "8290981-0-88527"
+msgid "Shuzirri"
+msgstr ""
+
+#: 8290981-0-88524
+msgctxt "8290981-0-88524"
+msgid "Lara-Tan"
+msgstr ""
+
+#: 8290981-0-88522
+msgctxt "8290981-0-88522"
+msgid "Alkosh's Will"
+msgstr ""
+
+#: 8290981-0-88520
+msgctxt "8290981-0-88520"
+msgid "Raebanji"
+msgstr ""
+
+#: 8290981-0-88519
+msgctxt "8290981-0-88519"
+msgid "Pilazaz"
+msgstr ""
+
+#: 8290981-0-88518
+msgctxt "8290981-0-88518"
+msgid "Noordigloop the Clog"
+msgstr ""
+
+#: 8290981-0-88517
+msgctxt "8290981-0-88517"
+msgid "Najirra"
+msgstr ""
+
+#: 8290981-0-88515
+msgctxt "8290981-0-88515"
+msgid "Iokkas"
+msgstr ""
+
+#: 8290981-0-88514
+msgctxt "8290981-0-88514"
+msgid "Dirty-Drakes Shade Sentinel"
+msgstr ""
+
+#: 8290981-0-88513
+msgctxt "8290981-0-88513"
+msgid "Dirty-Drakes Shade Sentinel"
+msgstr ""
+
+#: 8290981-0-88512
+msgctxt "8290981-0-88512"
+msgid "Dirty-Drakes Shadow Mage"
+msgstr ""
+
+#: 8290981-0-88511
+msgctxt "8290981-0-88511"
+msgid "Dirty-Drakes Shadow Mage"
+msgstr ""
+
+#: 8290981-0-88510
+msgctxt "8290981-0-88510"
+msgid "Dirty-Drakes Mender"
+msgstr ""
+
+#: 8290981-0-88509
+msgctxt "8290981-0-88509"
+msgid "Dirty-Drakes Mender"
+msgstr ""
+
+#: 8290981-0-88508
+msgctxt "8290981-0-88508"
+msgid "Dirty-Drakes Warpriest"
+msgstr ""
+
+#: 8290981-0-88505
+msgctxt "8290981-0-88505"
+msgid "Dirty-Drakes Warpriest"
+msgstr ""
+
+#: 8290981-0-88504
+msgctxt "8290981-0-88504"
+msgid "Voriplasm"
+msgstr ""
+
+#: 8290981-0-88501
+msgctxt "8290981-0-88501"
+msgid "Plague of Crows"
+msgstr ""
+
+#: 8290981-0-88500
+msgctxt "8290981-0-88500"
+msgid "Gilbonil"
+msgstr ""
+
+#: 8290981-0-88499
+msgctxt "8290981-0-88499"
+msgid "Keshazh"
+msgstr ""
+
+#: 8290981-0-88498
+msgctxt "8290981-0-88498"
+msgid "Fabia Viria"
+msgstr ""
+
+#: 8290981-0-88497
+msgctxt "8290981-0-88497"
+msgid "Ferrus Mallon"
+msgstr ""
+
+#: 8290981-0-88494
+msgctxt "8290981-0-88494"
+msgid "Blighted Knight"
+msgstr ""
+
+#: 8290981-0-88493
+msgctxt "8290981-0-88493"
+msgid "Blighted Knight"
+msgstr ""
+
+#: 8290981-0-88483
+msgctxt "8290981-0-88483"
+msgid "Sahzbar"
+msgstr ""
+
+#: 8290981-0-88481
+msgctxt "8290981-0-88481"
+msgid "Alchemist Zhininda"
+msgstr ""
+
+#: 8290981-0-88480
+msgctxt "8290981-0-88480"
+msgid "Raebanji"
+msgstr ""
+
+#: 8290981-0-88479
+msgctxt "8290981-0-88479"
+msgid "Pafirra"
+msgstr ""
+
+#: 8290981-0-88468
+msgctxt "8290981-0-88468"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-88467
+msgctxt "8290981-0-88467"
+msgid "Diseased Archer"
+msgstr ""
+
+#: 8290981-0-88466
+msgctxt "8290981-0-88466"
+msgid "Diseased Nightblade"
+msgstr ""
+
+#: 8290981-0-88465
+msgctxt "8290981-0-88465"
+msgid "Diseased Nightblade"
+msgstr ""
+
+#: 8290981-0-88464
+msgctxt "8290981-0-88464"
+msgid "Diseased Conjurer"
+msgstr ""
+
+#: 8290981-0-88463
+msgctxt "8290981-0-88463"
+msgid "Diseased Conjurer"
+msgstr ""
+
+#: 8290981-0-88462
+msgctxt "8290981-0-88462"
+msgid "Diseased Lurker"
+msgstr ""
+
+#: 8290981-0-88461
+msgctxt "8290981-0-88461"
+msgid "Diseased Lurker"
+msgstr ""
+
+#: 8290981-0-88460
+msgctxt "8290981-0-88460"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-88459
+msgctxt "8290981-0-88459"
+msgid "Diseased Pyromancer"
+msgstr ""
+
+#: 8290981-0-88458
+msgctxt "8290981-0-88458"
+msgid "Diseased Pyromancer"
+msgstr ""
+
+#: 8290981-0-88457
+msgctxt "8290981-0-88457"
+msgid "Diseased Berserker"
+msgstr ""
+
+#: 8290981-0-88456
+msgctxt "8290981-0-88456"
+msgid "Diseased Berserker"
+msgstr ""
+
+#: 8290981-0-88455
+msgctxt "8290981-0-88455"
+msgid "Mad Anchorite"
+msgstr ""
+
+#: 8290981-0-88453
+msgctxt "8290981-0-88453"
+msgid "The Charred Prince"
+msgstr ""
+
+#: 8290981-0-88452
+#, fuzzy
+msgctxt "8290981-0-88452"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-88451
+msgctxt "8290981-0-88451"
+msgid "Diseased Skeever"
+msgstr ""
+
+#: 8290981-0-88450
+msgctxt "8290981-0-88450"
+msgid "Ogre"
+msgstr "오거"
+
+#: 8290981-0-88446
+msgctxt "8290981-0-88446"
+msgid "Pilazaz"
+msgstr ""
+
+#: 8290981-0-88445
+msgctxt "8290981-0-88445"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-88444
+msgctxt "8290981-0-88444"
+msgid "Tullar-dra"
+msgstr ""
+
+#: 8290981-0-88443
+msgctxt "8290981-0-88443"
+msgid "Zebiden-jo"
+msgstr ""
+
+#: 8290981-0-88440
+msgctxt "8290981-0-88440"
+msgid "Blighted Butcher"
+msgstr ""
+
+#: 8290981-0-88439
+msgctxt "8290981-0-88439"
+msgid "Seducer Fearmage"
+msgstr ""
+
+#: 8290981-0-88438
+#, fuzzy
+msgctxt "8290981-0-88438"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-88437
+msgctxt "8290981-0-88437"
+msgid "Blighted Butcher"
+msgstr ""
+
+#: 8290981-0-88435
+msgctxt "8290981-0-88435"
+msgid "Roznali"
+msgstr ""
+
+#: 8290981-0-88434
+msgctxt "8290981-0-88434"
+msgid "Boski Broom-Lover"
+msgstr ""
+
+#: 8290981-0-88433
+msgctxt "8290981-0-88433"
+msgid "Seducer Nightblade"
+msgstr "세듀서 나이트블레이드"
+
+#: 8290981-0-88432
+msgctxt "8290981-0-88432"
+msgid "Jinninji-ri"
+msgstr ""
+
+#: 8290981-0-88431
+msgctxt "8290981-0-88431"
+msgid "Aspect of Darloc Brae"
+msgstr ""
+
+#: 8290981-0-88428
+msgctxt "8290981-0-88428"
+msgid "Jubani's Tough"
+msgstr ""
+
+#: 8290981-0-88427
+msgctxt "8290981-0-88427"
+msgid "Dragon"
+msgstr "드래곤"
+
+#: 8290981-0-88424
+msgctxt "8290981-0-88424"
+msgid "Bhos"
+msgstr ""
+
+#: 8290981-0-88423
+msgctxt "8290981-0-88423"
+msgid "Vincelle Quirin"
+msgstr ""
+
+#: 8290981-0-88422
+msgctxt "8290981-0-88422"
+msgid "Dorahin"
+msgstr ""
+
+#: 8290981-0-88421
+msgctxt "8290981-0-88421"
+msgid "Rinambar"
+msgstr ""
+
+#: 8290981-0-88420
+msgctxt "8290981-0-88420"
+msgid "Jirolin Cadiusus"
+msgstr ""
+
+#: 8290981-0-88418
+msgctxt "8290981-0-88418"
+msgid "Iokkas"
+msgstr ""
+
+#: 8290981-0-88414
+#, fuzzy
+msgctxt "8290981-0-88414"
+msgid "River Troll"
+msgstr "리버 트롤"
+
+#: 8290981-0-88413
+msgctxt "8290981-0-88413"
+msgid "Diseased Corpse"
+msgstr ""
+
+#: 8290981-0-88412
+msgctxt "8290981-0-88412"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-88411
+msgctxt "8290981-0-88411"
+msgid "Euraxian Knight"
+msgstr "유라시아의 기사"
+
+#: 8290981-0-88410
+msgctxt "8290981-0-88410"
+msgid "Diseased Corpse"
+msgstr ""
+
+#: 8290981-0-88409
+msgctxt "8290981-0-88409"
+msgid "Euraxian Alchemist"
+msgstr "유라시아의 연금술사"
+
+#: 8290981-0-88408
+msgctxt "8290981-0-88408"
+msgid "Euraxian Alchemist"
+msgstr "유라시아의 연금술사"
+
+#: 8290981-0-88407
+msgctxt "8290981-0-88407"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-88406
+msgctxt "8290981-0-88406"
+msgid "Euraxian Battlemage"
+msgstr "유라시아의 전투마법사"
+
+#: 8290981-0-88405
+msgctxt "8290981-0-88405"
+msgid "Diseased Corpse"
+msgstr ""
+
+#: 8290981-0-88404
+#, fuzzy
+msgctxt "8290981-0-88404"
+msgid "Dwarven Arquebus"
+msgstr "드워프 화승총잡이"
+
+#: 8290981-0-88403
+msgctxt "8290981-0-88403"
+msgid "Blighted Bloodcleaver"
+msgstr ""
+
+#: 8290981-0-88401
+msgctxt "8290981-0-88401"
+msgid "Blighted Bloodcleaver"
+msgstr ""
+
+#: 8290981-0-88400
+msgctxt "8290981-0-88400"
+msgid "Blighted Vanguard"
+msgstr ""
+
+#: 8290981-0-88399
+msgctxt "8290981-0-88399"
+msgid "Diseased Corpse"
+msgstr ""
+
+#: 8290981-0-88398
+msgctxt "8290981-0-88398"
+msgid "Blighted Sharpshooter"
+msgstr ""
+
+#: 8290981-0-88397
+msgctxt "8290981-0-88397"
+msgid "Diseased Corpse"
+msgstr ""
+
+#: 8290981-0-88396
+msgctxt "8290981-0-88396"
+msgid "Iron Heart Atronach"
+msgstr ""
+
+#: 8290981-0-88393
+#, fuzzy
+msgctxt "8290981-0-88393"
+msgid "Salamander"
+msgstr "살라맨더"
+
+#: 8290981-0-88392
+#, fuzzy
+msgctxt "8290981-0-88392"
+msgid "Mudcrab"
+msgstr "진흙게"
+
+#: 8290981-0-88391
+#, fuzzy
+msgctxt "8290981-0-88391"
+msgid "Skeever"
+msgstr "스키버"
+
+#: 8290981-0-88389
+msgctxt "8290981-0-88389"
+msgid "Blighted Choker"
+msgstr ""
+
+#: 8290981-0-88388
+msgctxt "8290981-0-88388"
+msgid "Blighted Sharpshooter"
+msgstr ""
+
+#: 8290981-0-88387
+msgctxt "8290981-0-88387"
+msgid "Blighted Choker"
+msgstr ""
+
+#: 8290981-0-88382
+msgctxt "8290981-0-88382"
+msgid "Blighted Vanguard"
+msgstr ""
+
+#: 8290981-0-88379
+msgctxt "8290981-0-88379"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-88376
+msgctxt "8290981-0-88376"
+msgid "Jora-ri"
+msgstr ""
+
+#: 8290981-0-88372
+msgctxt "8290981-0-88372"
+msgid "Saviwa"
+msgstr ""
+
+#: 8290981-0-88371
+msgctxt "8290981-0-88371"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-88369
+msgctxt "8290981-0-88369"
+msgid "Queen Numara"
+msgstr ""
+
+#: 8290981-0-88367
+msgctxt "8290981-0-88367"
+msgid "King Hemakar"
+msgstr ""
+
+#: 8290981-0-88365
+msgctxt "8290981-0-88365"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88363
+#, fuzzy
+msgctxt "8290981-0-88363"
+msgid "Skeletal Senche"
+msgstr "해골 센치"
+
+#: 8290981-0-88362
+msgctxt "8290981-0-88362"
+msgid "Saevus"
+msgstr ""
+
+#: 8290981-0-88359
+msgctxt "8290981-0-88359"
+msgid "Gohjin-jo"
+msgstr ""
+
+#: 8290981-0-88358
+msgctxt "8290981-0-88358"
+msgid "Rhani"
+msgstr ""
+
+#: 8290981-0-88353
+#, fuzzy
+msgctxt "8290981-0-88353"
+msgid "Sunspire Archer"
+msgstr "태양첨탑 궁수"
+
+#: 8290981-0-88352
+#, fuzzy
+msgctxt "8290981-0-88352"
+msgid "Sunspire Archer"
+msgstr "태양첨탑 궁수"
+
+#: 8290981-0-88348
+msgctxt "8290981-0-88348"
+msgid "Priestess Shalani"
+msgstr ""
+
+#: 8290981-0-88347
+msgctxt "8290981-0-88347"
+msgid "Natrada"
+msgstr ""
+
+#: 8290981-0-88346
+msgctxt "8290981-0-88346"
+msgid "Moon-Bishop Azin-jo"
+msgstr ""
+
+#: 8290981-0-88345
+msgctxt "8290981-0-88345"
+msgid "Nahviintaas"
+msgstr ""
+
+#: 8290981-0-88342
+msgctxt "8290981-0-88342"
+msgid "Lokkestiiz"
+msgstr ""
+
+#: 8290981-0-88341
+msgctxt "8290981-0-88341"
+msgid "Yolnahkriin"
+msgstr ""
+
+#: 8290981-0-88340
+msgctxt "8290981-0-88340"
+msgid "Moon-Bishop Azin-jo"
+msgstr ""
+
+#: 8290981-0-88338
+#, fuzzy
+msgctxt "8290981-0-88338"
+msgid "Ogrim"
+msgstr "오그림"
+
+#: 8290981-0-88303
+msgctxt "8290981-0-88303"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-88300
+msgctxt "8290981-0-88300"
+msgid "Daegonic Apprentice"
+msgstr ""
+
+#: 8290981-0-88299
+msgctxt "8290981-0-88299"
+msgid "Daegonic Apprentice"
+msgstr ""
+
+#: 8290981-0-88296
+msgctxt "8290981-0-88296"
+msgid "Zadrahd the Iron Hearted"
+msgstr ""
+
+#: 8290981-0-88295
+#, fuzzy
+msgctxt "8290981-0-88295"
+msgid "Daedroth"
+msgstr "데이드로쓰"
+
+#: 8290981-0-88294
+msgctxt "8290981-0-88294"
+msgid "Daegonic Spellblade"
+msgstr ""
+
+#: 8290981-0-88293
+msgctxt "8290981-0-88293"
+msgid "Daegonic Spellblade"
+msgstr ""
+
+#: 8290981-0-88292
+msgctxt "8290981-0-88292"
+msgid "Jo'isi"
+msgstr ""
+
+#: 8290981-0-88291
+msgctxt "8290981-0-88291"
+msgid "Daegonic Razorclaw"
+msgstr ""
+
+#: 8290981-0-88290
+msgctxt "8290981-0-88290"
+msgid "Daegonic Razorclaw"
+msgstr ""
+
+#: 8290981-0-88289
+msgctxt "8290981-0-88289"
+msgid "Daegonic Alchemist"
+msgstr ""
+
+#: 8290981-0-88288
+msgctxt "8290981-0-88288"
+msgid "Daegonic Alchemist"
+msgstr ""
+
+#: 8290981-0-88285
+msgctxt "8290981-0-88285"
+msgid "Daegonic Pyromancer"
+msgstr ""
+
+#: 8290981-0-88284
+msgctxt "8290981-0-88284"
+msgid "Daegonic Pyromancer"
+msgstr ""
+
+#: 8290981-0-88283
+msgctxt "8290981-0-88283"
+msgid "Ruddy Fang Tenderizer"
+msgstr ""
+
+#: 8290981-0-88282
+msgctxt "8290981-0-88282"
+msgid "Ruddy Fang Tenderizer"
+msgstr ""
+
+#: 8290981-0-88281
+msgctxt "8290981-0-88281"
+msgid "Ruddy Fang Pot-Watcher"
+msgstr ""
+
+#: 8290981-0-88280
+msgctxt "8290981-0-88280"
+msgid "Ruddy Fang Pot-Watcher"
+msgstr ""
+
+#: 8290981-0-88279
+msgctxt "8290981-0-88279"
+msgid "Ruddy Fang Glutton"
+msgstr ""
+
+#: 8290981-0-88278
+msgctxt "8290981-0-88278"
+msgid "Ruddy Fang Glutton"
+msgstr ""
+
+#: 8290981-0-88277
+msgctxt "8290981-0-88277"
+msgid "Ruddy Fang Cannibal"
+msgstr ""
+
+#: 8290981-0-88276
+msgctxt "8290981-0-88276"
+msgid "Ruddy Fang Cannibal"
+msgstr ""
+
+#: 8290981-0-88272
+msgctxt "8290981-0-88272"
+msgid "Minotaur Shaman"
+msgstr "미노타우르스 샤먼"
+
+#: 8290981-0-88271
+#, fuzzy
+msgctxt "8290981-0-88271"
+msgid "Minotaur"
+msgstr "미노타우르"
+
+#: 8290981-0-88270
+#, fuzzy
+msgctxt "8290981-0-88270"
+msgid "Imp"
+msgstr "임프"
+
+#: 8290981-0-88269
+#, fuzzy
+msgctxt "8290981-0-88269"
+msgid "Bone Colossus"
+msgstr "뼈 거상"
+
+#: 8290981-0-88268
+#, fuzzy
+msgctxt "8290981-0-88268"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-88263
+msgctxt "8290981-0-88263"
+msgid "Reanimated Mauler"
+msgstr ""
+
+#: 8290981-0-88262
+msgctxt "8290981-0-88262"
+msgid "Reanimated Cryomancer"
+msgstr ""
+
+#: 8290981-0-88261
+msgctxt "8290981-0-88261"
+msgid "Reanimated Javelinier"
+msgstr ""
+
+#: 8290981-0-88259
+#, fuzzy
+msgctxt "8290981-0-88259"
+msgid "Skeletal Archer"
+msgstr "해골 궁수\n"
+
+#: 8290981-0-88258
+msgctxt "8290981-0-88258"
+msgid "Skeletal Raider"
+msgstr ""
+
+#: 8290981-0-88257
+msgctxt "8290981-0-88257"
+msgid "Skeletal Dreadnaught"
+msgstr ""
+
+#: 8290981-0-88255
+msgctxt "8290981-0-88255"
+msgid "Skeletal Charger"
+msgstr "해골 돌격병"
+
+#: 8290981-0-88254
+msgctxt "8290981-0-88254"
+msgid "Skeletal Dreadmage"
+msgstr ""
+
+#: 8290981-0-88253
+msgctxt "8290981-0-88253"
+msgid "Reanimated Arbalest"
+msgstr ""
+
+#: 8290981-0-88251
+msgctxt "8290981-0-88251"
+msgid "Lamia"
+msgstr "라미아"
+
+#: 8290981-0-88248
+#, fuzzy
+msgctxt "8290981-0-88248"
+msgid "Senche-Panther"
+msgstr "센치 표범"
+
+#: 8290981-0-88246
+msgctxt "8290981-0-88246"
+msgid "Echatere"
+msgstr "에차테레"
+
+#: 8290981-0-88245
+msgctxt "8290981-0-88245"
+msgid "Giant Wasp"
+msgstr ""
+
+#: 8290981-0-88244
+msgctxt "8290981-0-88244"
+msgid "Skeletal Sorcerer"
+msgstr "해골 마도사"
+
+#: 8290981-0-88243
+#, fuzzy
+msgctxt "8290981-0-88243"
+msgid "Ice Wraith"
+msgstr "얼음 망령"
+
+#: 8290981-0-88242
+msgctxt "8290981-0-88242"
+msgid "Iokkas"
+msgstr ""
+
+#: 8290981-0-88241
+#, fuzzy
+msgctxt "8290981-0-88241"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-88240
+msgctxt "8290981-0-88240"
+msgid "Gormandizer Blyhicius"
+msgstr ""
+
+#: 8290981-0-88239
+#, fuzzy
+msgctxt "8290981-0-88239"
+msgid "Scamp"
+msgstr "스캠프"
+
+#: 8290981-0-88238
+#, fuzzy
+msgctxt "8290981-0-88238"
+msgid "Ogrim"
+msgstr "오그림"
+
+#: 8290981-0-88237
+msgctxt "8290981-0-88237"
+msgid "Bakea the Forge Guardian"
+msgstr ""
+
+#: 8290981-0-88236
+msgctxt "8290981-0-88236"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-88235
+#, fuzzy
+msgctxt "8290981-0-88235"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-88234
+#, fuzzy
+msgctxt "8290981-0-88234"
+msgid "Daedroth"
+msgstr "데이드로쓰"
+
+#: 8290981-0-88233
+msgctxt "8290981-0-88233"
+msgid "Reanimated Shadecaller"
+msgstr ""
+
+#: 8290981-0-88232
+msgctxt "8290981-0-88232"
+msgid "Reanimated Shadecaller"
+msgstr ""
+
+#: 8290981-0-88231
+msgctxt "8290981-0-88231"
+msgid "Dremora Bulwark"
+msgstr ""
+
+#: 8290981-0-88227
+msgctxt "8290981-0-88227"
+msgid "Dremora Bulwark"
+msgstr ""
+
+#: 8290981-0-88226
+msgctxt "8290981-0-88226"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-88225
+msgctxt "8290981-0-88225"
+msgid "Dremora Archer"
+msgstr ""
+
+#: 8290981-0-88224
+msgctxt "8290981-0-88224"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-88222
+msgctxt "8290981-0-88222"
+msgid "Dremora Alchemist"
+msgstr ""
+
+#: 8290981-0-88216
+msgctxt "8290981-0-88216"
+msgid "Reanimated Veteran"
+msgstr ""
+
+#: 8290981-0-88215
+msgctxt "8290981-0-88215"
+msgid "Reanimated Veteran"
+msgstr ""
+
+#: 8290981-0-88207
+msgctxt "8290981-0-88207"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-88206
+msgctxt "8290981-0-88206"
+msgid "Reanimated Duelist"
+msgstr ""
+
+#: 8290981-0-88205
+msgctxt "8290981-0-88205"
+msgid "Reanimated Duelist"
+msgstr ""
+
+#: 8290981-0-88204
+msgctxt "8290981-0-88204"
+msgid "Dremora Ravager"
+msgstr ""
+
+#: 8290981-0-88203
+msgctxt "8290981-0-88203"
+msgid "Dremora Conduit"
+msgstr ""
+
+#: 8290981-0-88200
+msgctxt "8290981-0-88200"
+msgid "Dremora Conduit"
+msgstr ""
+
+#: 8290981-0-88198
+msgctxt "8290981-0-88198"
+msgid "Najirra"
+msgstr ""
+
+#: 8290981-0-88193
+msgctxt "8290981-0-88193"
+msgid "Iron Servant"
+msgstr ""
+
+#: 8290981-0-88191
+msgctxt "8290981-0-88191"
+msgid "Izanji"
+msgstr ""
+
+#: 8290981-0-88190
+msgctxt "8290981-0-88190"
+msgid "Iraya"
+msgstr ""
+
+#: 8290981-0-88189
+msgctxt "8290981-0-88189"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-88188
+msgctxt "8290981-0-88188"
+msgid "Dremora Battlemage"
+msgstr ""
+
+#: 8290981-0-88187
+msgctxt "8290981-0-88187"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-88184
+#, fuzzy
+msgctxt "8290981-0-88184"
+msgid "Rajhin's Shadow"
+msgstr "라진의 그림자"
+
+#: 8290981-0-88183
+msgctxt "8290981-0-88183"
+msgid "Saevus Minutius"
+msgstr ""
+
+#: 8290981-0-88182
+msgctxt "8290981-0-88182"
+msgid "Ancestral Raider"
+msgstr ""
+
+#: 8290981-0-88181
+msgctxt "8290981-0-88181"
+msgid "Ancestral Raider"
+msgstr ""
+
+#: 8290981-0-88180
+msgctxt "8290981-0-88180"
+msgid "Pashroni"
+msgstr ""
+
+#: 8290981-0-88179
+msgctxt "8290981-0-88179"
+msgid "Ancestral Sentinel"
+msgstr "선조 감시병"
+
+#: 8290981-0-88178
+msgctxt "8290981-0-88178"
+msgid "Banji"
+msgstr ""
+
+#: 8290981-0-88177
+msgctxt "8290981-0-88177"
+msgid "Nurra"
+msgstr ""
+
+#: 8290981-0-88176
+msgctxt "8290981-0-88176"
+msgid "Ancestral Sentinel"
+msgstr "선조 감시병"
+
+#: 8290981-0-88175
+msgctxt "8290981-0-88175"
+msgid "Ancestral Nullifier"
+msgstr ""
+
+#: 8290981-0-88174
+msgctxt "8290981-0-88174"
+msgid "Ancestral Nullifier"
+msgstr ""
+
+#: 8290981-0-88173
+msgctxt "8290981-0-88173"
+msgid "Ancestral Sorcerer"
+msgstr ""
+
+#: 8290981-0-88172
+msgctxt "8290981-0-88172"
+msgid "Pahleena"
+msgstr ""
+
+#: 8290981-0-88169
+msgctxt "8290981-0-88169"
+msgid "Grand Adept Sehana"
+msgstr "고위 수도자 세하나"
+
+#: 8290981-0-88168
+msgctxt "8290981-0-88168"
+msgid "Grand Adept Ma'jha-dro"
+msgstr "고위 수도자 마자-드로"
+
+#: 8290981-0-88165
+msgctxt "8290981-0-88165"
+msgid "Ancestral Sorcerer"
+msgstr ""
+
+#: 8290981-0-88162
+msgctxt "8290981-0-88162"
+msgid "Grand Adept Sehana"
+msgstr "고위 수도자 세하나"
+
+#: 8290981-0-88157
+msgctxt "8290981-0-88157"
+msgid "Harpy Windcaller"
+msgstr ""
+
+#: 8290981-0-88156
+msgctxt "8290981-0-88156"
+msgid "Harpy Stormweaver"
+msgstr ""
+
+#: 8290981-0-88155
+msgctxt "8290981-0-88155"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-88149
+msgctxt "8290981-0-88149"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-88139
+msgctxt "8290981-0-88139"
+msgid "Ri'hirr"
+msgstr ""
+
+#: 8290981-0-88137
+msgctxt "8290981-0-88137"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-88132
+msgctxt "8290981-0-88132"
+msgid "Blue Dragon Imp"
+msgstr "푸른 드래곤 임프"
+
+#: 8290981-0-88131
+msgctxt "8290981-0-88131"
+msgid "Lieutenant Lepida"
+msgstr ""
+
+#: 8290981-0-88130
+msgctxt "8290981-0-88130"
+msgid "Lieutenant Lepida"
+msgstr ""
+
+#: 8290981-0-88129
+#, fuzzy
+msgctxt "8290981-0-88129"
+msgid "Flame Atronach"
+msgstr "화염 아트로나크"
+
+#: 8290981-0-88127
+msgctxt "8290981-0-88127"
+msgid "Awakened Militia"
+msgstr ""
+
+#: 8290981-0-88126
+msgctxt "8290981-0-88126"
+msgid "Awakened Militia"
+msgstr ""
+
+#: 8290981-0-88124
+msgctxt "8290981-0-88124"
+msgid "Awakened Lurker"
+msgstr ""
+
+#: 8290981-0-88123
+msgctxt "8290981-0-88123"
+msgid "Awakened Lurker"
+msgstr ""
+
+#: 8290981-0-88122
+msgctxt "8290981-0-88122"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-88121
+msgctxt "8290981-0-88121"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-88120
+msgctxt "8290981-0-88120"
+msgid "Euraxian Necromancer"
+msgstr "유라시아의 네크로맨서"
+
+#: 8290981-0-88115
+#, fuzzy
+msgctxt "8290981-0-88115"
+msgid "Bone Colossus"
+msgstr "뼈 거상"
+
+#: 8290981-0-88114
+msgctxt "8290981-0-88114"
+msgid "Awakened Charger"
+msgstr ""
+
+#: 8290981-0-88113
+msgctxt "8290981-0-88113"
+msgid "Awakened Charger"
+msgstr ""
+
+#: 8290981-0-88112
+msgctxt "8290981-0-88112"
+msgid "Bahlokdaan"
+msgstr "바로크단"
+
+#: 8290981-0-88111
+#, fuzzy
+msgctxt "8290981-0-88111"
+msgid "Flesh Atronach"
+msgstr "살점 아트로나크"
+
+#: 8290981-0-88110
+#, fuzzy
+msgctxt "8290981-0-88110"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-88109
+#, fuzzy
+msgctxt "8290981-0-88109"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-88108
+msgctxt "8290981-0-88108"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-88107
+#, fuzzy
+msgctxt "8290981-0-88107"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-88106
+msgctxt "8290981-0-88106"
+msgid "Awakened Raider"
+msgstr ""
+
+#: 8290981-0-88105
+msgctxt "8290981-0-88105"
+msgid "Awakened Raider"
+msgstr ""
+
+#: 8290981-0-88104
+#, fuzzy
+msgctxt "8290981-0-88104"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-88103
+#, fuzzy
+msgctxt "8290981-0-88103"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-88099
+#, fuzzy
+msgctxt "8290981-0-88099"
+msgid "Air Atronach"
+msgstr "공기 아트로나크"
+
+#: 8290981-0-88098
+#, fuzzy
+msgctxt "8290981-0-88098"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-88097
+msgctxt "8290981-0-88097"
+msgid "Tenarr Diablarist"
+msgstr ""
+
+#: 8290981-0-88096
+msgctxt "8290981-0-88096"
+msgid "Tenarr Diablarist"
+msgstr ""
+
+#: 8290981-0-88095
+msgctxt "8290981-0-88095"
+msgid "Adept Runji"
+msgstr ""
+
+#: 8290981-0-88094
+msgctxt "8290981-0-88094"
+msgid "Adept Birun"
+msgstr ""
+
+#: 8290981-0-88093
+msgctxt "8290981-0-88093"
+msgid "Tenarr Bloodletter"
+msgstr ""
+
+#: 8290981-0-88092
+msgctxt "8290981-0-88092"
+msgid "Tenarr Bloodletter"
+msgstr ""
+
+#: 8290981-0-88091
+msgctxt "8290981-0-88091"
+msgid "Tenarr Caitiff"
+msgstr ""
+
+#: 8290981-0-88090
+msgctxt "8290981-0-88090"
+msgid "Tenarr Caitiff"
+msgstr ""
+
+#: 8290981-0-88089
+msgctxt "8290981-0-88089"
+msgid "Tenarr Tenebrant"
+msgstr ""
+
+#: 8290981-0-88088
+msgctxt "8290981-0-88088"
+msgid "Tenarr Tenebrant"
+msgstr ""
+
+#: 8290981-0-88087
+msgctxt "8290981-0-88087"
+msgid "Herald Vitelia"
+msgstr ""
+
+#: 8290981-0-88084
+#, fuzzy
+msgctxt "8290981-0-88084"
+msgid "Harpy"
+msgstr "하피"
+
+#: 8290981-0-88083
+#, fuzzy
+msgctxt "8290981-0-88083"
+msgid "Air Atronach"
+msgstr "공기 아트로나크"
+
+#: 8290981-0-88081
+msgctxt "8290981-0-88081"
+msgid "Euraxian Sentry"
+msgstr "유라시아의 보초병"
+
+#: 8290981-0-88080
+#, fuzzy
+msgctxt "8290981-0-88080"
+msgid "Senche-Leopard"
+msgstr "센치 표범"
+
+#: 8290981-0-88079
+#, fuzzy
+msgctxt "8290981-0-88079"
+msgid "Senche-Lion"
+msgstr "센치 사자"
+
+#: 8290981-0-88078
+msgctxt "8290981-0-88078"
+msgid "Euraxia Tharn"
+msgstr "유라시아 탄"
+
+#: 8290981-0-88077
+msgctxt "8290981-0-88077"
+msgid "Ogre"
+msgstr "오거"
+
+#: 8290981-0-88074
+#, fuzzy
+msgctxt "8290981-0-88074"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-88073
+#, fuzzy
+msgctxt "8290981-0-88073"
+msgid "Bone Flayer"
+msgstr "해골 박피자"
+
+#: 8290981-0-88072
+msgctxt "8290981-0-88072"
+msgid "Nisuzi"
+msgstr ""
+
+#: 8290981-0-88071
+msgctxt "8290981-0-88071"
+msgid "Lila Santone"
+msgstr ""
+
+#: 8290981-0-88068
+msgctxt "8290981-0-88068"
+msgid "Cadwell the Betrayer"
+msgstr "배신자 캐드웰"
+
+#: 8290981-0-88067
+msgctxt "8290981-0-88067"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-88065
+msgctxt "8290981-0-88065"
+msgid "Giant Wasp"
+msgstr ""
+
+#: 8290981-0-88064
+msgctxt "8290981-0-88064"
+msgid "Stricken Maniac"
+msgstr ""
+
+#: 8290981-0-88063
+msgctxt "8290981-0-88063"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-88062
+msgctxt "8290981-0-88062"
+msgid "Adept Izjadi"
+msgstr ""
+
+#: 8290981-0-88060
+msgctxt "8290981-0-88060"
+msgid "Captain Carvain"
+msgstr ""
+
+#: 8290981-0-88057
+msgctxt "8290981-0-88057"
+msgid "Ruddy Fang Watcher"
+msgstr ""
+
+#: 8290981-0-88056
+#, fuzzy
+msgctxt "8290981-0-88056"
+msgid "Strangler"
+msgstr "교살초"
+
+#: 8290981-0-88055
+msgctxt "8290981-0-88055"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-88054
+msgctxt "8290981-0-88054"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88052
+msgctxt "8290981-0-88052"
+msgid "Dead Caravanner"
+msgstr ""
+
+#: 8290981-0-88051
+#, fuzzy
+msgctxt "8290981-0-88051"
+msgid "Skeleton"
+msgstr "해골"
+
+#: 8290981-0-88050
+msgctxt "8290981-0-88050"
+msgid "Senche-lion"
+msgstr ""
+
+#: 8290981-0-88049
+msgctxt "8290981-0-88049"
+msgid "Senche-lion"
+msgstr ""
+
+#: 8290981-0-88048
+msgctxt "8290981-0-88048"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-88047
+msgctxt "8290981-0-88047"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-88046
+msgctxt "8290981-0-88046"
+msgid "Ruddy Fang Lurker"
+msgstr ""
+
+#: 8290981-0-88045
+msgctxt "8290981-0-88045"
+msgid "Ruddy Fang Marauder"
+msgstr ""
+
+#: 8290981-0-88044
+msgctxt "8290981-0-88044"
+msgid "Ruddy Fang Marauder"
+msgstr ""
+
+#: 8290981-0-88043
+msgctxt "8290981-0-88043"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-88042
+msgctxt "8290981-0-88042"
+msgid "Ruddy Fang Ravager"
+msgstr ""
+
+#: 8290981-0-88041
+msgctxt "8290981-0-88041"
+msgid "Ruddy Fang Watcher"
+msgstr ""
+
+#: 8290981-0-88040
+msgctxt "8290981-0-88040"
+msgid "Ruddy Fang Watcher"
+msgstr ""
+
+#: 8290981-0-88039
+msgctxt "8290981-0-88039"
+msgid "Zayreba Sharpclaw"
+msgstr ""
+
+#: 8290981-0-88037
+msgctxt "8290981-0-88037"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88036
+msgctxt "8290981-0-88036"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-88035
+msgctxt "8290981-0-88035"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-88034
+msgctxt "8290981-0-88034"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-88032
+msgctxt "8290981-0-88032"
+msgid "Lieutenant Talia"
+msgstr ""
+
+#: 8290981-0-88030
+msgctxt "8290981-0-88030"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88029
+msgctxt "8290981-0-88029"
+msgid "Grand Adept Ma'jha-dro"
+msgstr "고위 수도자 마자-드로"
+
+#: 8290981-0-88026
+msgctxt "8290981-0-88026"
+msgid "Moon-Priest Rilasu"
+msgstr ""
+
+#: 8290981-0-88024
+msgctxt "8290981-0-88024"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-88016
+msgctxt "8290981-0-88016"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-88008
+msgctxt "8290981-0-88008"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-88007
+msgctxt "8290981-0-88007"
+msgid "Captain Saulinia"
+msgstr "사울리니아 장군 "
+
+#: 8290981-0-88002
+msgctxt "8290981-0-88002"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-87999
+msgctxt "8290981-0-87999"
+msgid "Dragon Flame"
+msgstr "드래곤의 불꽃"
+
+#: 8290981-0-87998
+msgctxt "8290981-0-87998"
+msgid "Gravestalker Gemmia"
+msgstr "무덤스토커 게미아"
+
+#: 8290981-0-87994
+msgctxt "8290981-0-87994"
+msgid "Euraxian Soldier"
+msgstr "유라시아의 병사"
+
+#: 8290981-0-87992
+msgctxt "8290981-0-87992"
+msgid "Risen Archer"
+msgstr "되살아난 궁수"
+
+#: 8290981-0-87991
+msgctxt "8290981-0-87991"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87990
+msgctxt "8290981-0-87990"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87989
+msgctxt "8290981-0-87989"
+msgid "Dharo"
+msgstr ""
+
+#: 8290981-0-87988
+msgctxt "8290981-0-87988"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87987
+#, fuzzy
+msgctxt "8290981-0-87987"
+msgid "Skooma Cat"
+msgstr "스쿠마 고양이"
+
+#: 8290981-0-87986
+msgctxt "8290981-0-87986"
+msgid "Warrior"
+msgstr "전사"
+
+#: 8290981-0-87985
+msgctxt "8290981-0-87985"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87984
+msgctxt "8290981-0-87984"
+msgid "Raedazi"
+msgstr ""
+
+#: 8290981-0-87983
+msgctxt "8290981-0-87983"
+msgid "Jackal Packleader"
+msgstr ""
+
+#: 8290981-0-87982
+#, fuzzy
+msgctxt "8290981-0-87982"
+msgid "Jackal"
+msgstr "자칼"
+
+#: 8290981-0-87981
+msgctxt "8290981-0-87981"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-87980
+msgctxt "8290981-0-87980"
+msgid "Bonechime Hunter"
+msgstr ""
+
+#: 8290981-0-87979
+msgctxt "8290981-0-87979"
+msgid "Bonechime Hunter"
+msgstr ""
+
+#: 8290981-0-87978
+msgctxt "8290981-0-87978"
+msgid "Bonechime Butcher"
+msgstr ""
+
+#: 8290981-0-87977
+msgctxt "8290981-0-87977"
+msgid "Bonechime Butcher"
+msgstr ""
+
+#: 8290981-0-87976
+msgctxt "8290981-0-87976"
+msgid "Bonechime Skinner"
+msgstr ""
+
+#: 8290981-0-87975
+msgctxt "8290981-0-87975"
+msgid "Bonechime Skinner"
+msgstr ""
+
+#: 8290981-0-87974
+msgctxt "8290981-0-87974"
+msgid "Bonechime Marksman"
+msgstr ""
+
+#: 8290981-0-87973
+msgctxt "8290981-0-87973"
+msgid "Bonechime Marksman"
+msgstr ""
+
+#: 8290981-0-87972
+msgctxt "8290981-0-87972"
+msgid "Elhirr"
+msgstr ""
+
+#: 8290981-0-87971
+msgctxt "8290981-0-87971"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-87970
+msgctxt "8290981-0-87970"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87968
+msgctxt "8290981-0-87968"
+msgid "Moon-Priest Zargha"
+msgstr ""
+
+#: 8290981-0-87967
+msgctxt "8290981-0-87967"
+msgid "Moon-Priest Tahari"
+msgstr ""
+
+#: 8290981-0-87966
+msgctxt "8290981-0-87966"
+msgid "Moon-Priest Radah"
+msgstr ""
+
+#: 8290981-0-87960
+#, fuzzy
+msgctxt "8290981-0-87960"
+msgid "Vastarie"
+msgstr "바스타리"
+
+#: 8290981-0-87959
+msgctxt "8290981-0-87959"
+msgid "Arum-Khal"
+msgstr ""
+
+#: 8290981-0-87951
+msgctxt "8290981-0-87951"
+msgid "Dark Spirit of Arum-Khal"
+msgstr ""
+
+#: 8290981-0-87933
+msgctxt "8290981-0-87933"
+msgid "Arum-Khal"
+msgstr ""
+
+#: 8290981-0-87932
+msgctxt "8290981-0-87932"
+msgid "Shade of Arum-Khal"
+msgstr ""
+
+#: 8290981-0-87930
+msgctxt "8290981-0-87930"
+msgid "Shade of Arum-Khal"
+msgstr ""
+
+#: 8290981-0-87922
+msgctxt "8290981-0-87922"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87918
+msgctxt "8290981-0-87918"
+msgid "Captain Brogomir"
+msgstr ""
+
+#: 8290981-0-87917
+msgctxt "8290981-0-87917"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-87916
+msgctxt "8290981-0-87916"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-87913
+msgctxt "8290981-0-87913"
+msgid "Muzzi"
+msgstr ""
+
+#: 8290981-0-87906
+msgctxt "8290981-0-87906"
+msgid "Blastbones"
+msgstr ""
+
+#: 8290981-0-87899
+#, fuzzy
+msgctxt "8290981-0-87899"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-87897
+#, fuzzy
+msgctxt "8290981-0-87897"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87896
+msgctxt "8290981-0-87896"
+msgid "Moon-Priest Haduras"
+msgstr ""
+
+#: 8290981-0-87895
+msgctxt "8290981-0-87895"
+msgid "Shando-Ri"
+msgstr ""
+
+#: 8290981-0-87893
+msgctxt "8290981-0-87893"
+msgid "Berani"
+msgstr ""
+
+#: 8290981-0-87891
+msgctxt "8290981-0-87891"
+msgid "Itzi-da"
+msgstr ""
+
+#: 8290981-0-87885
+msgctxt "8290981-0-87885"
+msgid "Terror Bird"
+msgstr "공포의 새"
+
+#: 8290981-0-87881
+msgctxt "8290981-0-87881"
+msgid "Saevus Minutius"
+msgstr ""
+
+#: 8290981-0-87880
+msgctxt "8290981-0-87880"
+msgid "Patia Cecia"
+msgstr ""
+
+#: 8290981-0-87879
+msgctxt "8290981-0-87879"
+msgid "Timtem the Terrible"
+msgstr ""
+
+#: 8290981-0-87878
+msgctxt "8290981-0-87878"
+msgid "Dolor the Boorish"
+msgstr ""
+
+#: 8290981-0-87877
+msgctxt "8290981-0-87877"
+msgid "J'dathal"
+msgstr ""
+
+#: 8290981-0-87876
+msgctxt "8290981-0-87876"
+msgid "Redhand Mercenary"
+msgstr ""
+
+#: 8290981-0-87875
+msgctxt "8290981-0-87875"
+msgid "Redhand Mercenary"
+msgstr ""
+
+#: 8290981-0-87874
+msgctxt "8290981-0-87874"
+msgid "Rakhzargo"
+msgstr "라크자르고"
+
+#: 8290981-0-87872
+#, fuzzy
+msgctxt "8290981-0-87872"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87869
+msgctxt "8290981-0-87869"
+msgid "Kideya"
+msgstr ""
+
+#: 8290981-0-87865
+msgctxt "8290981-0-87865"
+msgid "Razum-dar"
+msgstr "라줌-다르"
+
+#: 8290981-0-87864
+msgctxt "8290981-0-87864"
+msgid "Razum-dar"
+msgstr "라줌-다르"
+
+#: 8290981-0-87863
+msgctxt "8290981-0-87863"
+msgid "Razum-dar"
+msgstr "라줌-다르"
+
+#: 8290981-0-87855
+#, fuzzy
+msgctxt "8290981-0-87855"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87851
+msgctxt "8290981-0-87851"
+msgid "Hidden Moon Adept"
+msgstr ""
+
+#: 8290981-0-87850
+msgctxt "8290981-0-87850"
+msgid "Elhalem"
+msgstr ""
+
+#: 8290981-0-87844
+#, fuzzy
+msgctxt "8290981-0-87844"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87827
+#, fuzzy
+msgctxt "8290981-0-87827"
+msgid "Skooma Cat"
+msgstr "스쿠마 고양이"
+
+#: 8290981-0-87824
+#, fuzzy
+msgctxt "8290981-0-87824"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87821
+msgctxt "8290981-0-87821"
+msgid "Queen Khamira"
+msgstr "카미라 여왕"
+
+#: 8290981-0-87819
+msgctxt "8290981-0-87819"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-87818
+msgctxt "8290981-0-87818"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87815
+msgctxt "8290981-0-87815"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-87807
+#, fuzzy
+msgctxt "8290981-0-87807"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87806
+msgctxt "8290981-0-87806"
+msgid "Vala Candidius"
+msgstr ""
+
+#: 8290981-0-87805
+msgctxt "8290981-0-87805"
+msgid "Eranion"
+msgstr ""
+
+#: 8290981-0-87804
+msgctxt "8290981-0-87804"
+msgid "Seludalin"
+msgstr ""
+
+#: 8290981-0-87803
+msgctxt "8290981-0-87803"
+msgid "Bizdar"
+msgstr ""
+
+#: 8290981-0-87802
+msgctxt "8290981-0-87802"
+msgid "Two Moons Adept"
+msgstr "두 달의 수도자"
+
+#: 8290981-0-87801
+msgctxt "8290981-0-87801"
+msgid "Two Moons Adept"
+msgstr "두 달의 수도자"
+
+#: 8290981-0-87800
+msgctxt "8290981-0-87800"
+msgid "Two Moons Adept"
+msgstr "두 달의 수도자"
+
+#: 8290981-0-87798
+msgctxt "8290981-0-87798"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-87797
+msgctxt "8290981-0-87797"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87796
+msgctxt "8290981-0-87796"
+msgid "Finnalir"
+msgstr ""
+
+#: 8290981-0-87795
+msgctxt "8290981-0-87795"
+msgid "Lalaine Senyan"
+msgstr ""
+
+#: 8290981-0-87794
+msgctxt "8290981-0-87794"
+msgid "Halani"
+msgstr ""
+
+#: 8290981-0-87793
+msgctxt "8290981-0-87793"
+msgid "Omu-dar"
+msgstr ""
+
+#: 8290981-0-87792
+msgctxt "8290981-0-87792"
+msgid "Manasi"
+msgstr ""
+
+#: 8290981-0-87791
+#, fuzzy
+msgctxt "8290981-0-87791"
+msgid "Skooma Cat"
+msgstr "스쿠마 고양이"
+
+#: 8290981-0-87790
+msgctxt "8290981-0-87790"
+msgid "Panewen"
+msgstr ""
+
+#: 8290981-0-87789
+msgctxt "8290981-0-87789"
+msgid "Begok"
+msgstr ""
+
+#: 8290981-0-87788
+msgctxt "8290981-0-87788"
+msgid "Dahzini"
+msgstr ""
+
+#: 8290981-0-87787
+msgctxt "8290981-0-87787"
+msgid "Bolefin"
+msgstr ""
+
+#: 8290981-0-87786
+msgctxt "8290981-0-87786"
+msgid "Migarra"
+msgstr ""
+
+#: 8290981-0-87784
+msgctxt "8290981-0-87784"
+msgid "Tiburr"
+msgstr ""
+
+#: 8290981-0-87783
+msgctxt "8290981-0-87783"
+msgid "Maralie Rendar"
+msgstr ""
+
+#: 8290981-0-87782
+msgctxt "8290981-0-87782"
+msgid "Cholzei"
+msgstr ""
+
+#: 8290981-0-87781
+msgctxt "8290981-0-87781"
+msgid "Domitiana Vitellius"
+msgstr ""
+
+#: 8290981-0-87780
+msgctxt "8290981-0-87780"
+msgid "Kaszo"
+msgstr ""
+
+#: 8290981-0-87775
+msgctxt "8290981-0-87775"
+msgid "Razzamin"
+msgstr ""
+
+#: 8290981-0-87774
+msgctxt "8290981-0-87774"
+msgid "Artura Pamarc"
+msgstr ""
+
+#: 8290981-0-87769
+msgctxt "8290981-0-87769"
+msgid "Fortis Asina"
+msgstr ""
+
+#: 8290981-0-87768
+msgctxt "8290981-0-87768"
+msgid "Maelanrith"
+msgstr ""
+
+#: 8290981-0-87767
+msgctxt "8290981-0-87767"
+msgid "Adiblargo"
+msgstr ""
+
+#: 8290981-0-87766
+msgctxt "8290981-0-87766"
+msgid "Tesusah"
+msgstr ""
+
+#: 8290981-0-87765
+msgctxt "8290981-0-87765"
+msgid "Mach-Loh"
+msgstr ""
+
+#: 8290981-0-87764
+msgctxt "8290981-0-87764"
+msgid "Yatava"
+msgstr ""
+
+#: 8290981-0-87763
+msgctxt "8290981-0-87763"
+msgid "Slera Cinna"
+msgstr ""
+
+#: 8290981-0-87762
+msgctxt "8290981-0-87762"
+msgid "Kargiz"
+msgstr ""
+
+#: 8290981-0-87761
+msgctxt "8290981-0-87761"
+msgid "Abazbi"
+msgstr ""
+
+#: 8290981-0-87760
+msgctxt "8290981-0-87760"
+msgid "Zarbidan"
+msgstr ""
+
+#: 8290981-0-87759
+msgctxt "8290981-0-87759"
+msgid "Hiryeril"
+msgstr ""
+
+#: 8290981-0-87758
+msgctxt "8290981-0-87758"
+msgid "Shalafa"
+msgstr ""
+
+#: 8290981-0-87757
+msgctxt "8290981-0-87757"
+msgid "Mizarr"
+msgstr "미자르"
+
+#: 8290981-0-87756
+msgctxt "8290981-0-87756"
+msgid "Saizeh"
+msgstr "사이제"
+
+#: 8290981-0-87748
+msgctxt "8290981-0-87748"
+msgid "Malizaz"
+msgstr ""
+
+#: 8290981-0-87745
+msgctxt "8290981-0-87745"
+msgid "Malizaz"
+msgstr ""
+
+#: 8290981-0-87744
+msgctxt "8290981-0-87744"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-87743
+msgctxt "8290981-0-87743"
+msgid "Tasheer"
+msgstr ""
+
+#: 8290981-0-87737
+msgctxt "8290981-0-87737"
+msgid "Greily Gray-Tongs"
+msgstr ""
+
+#: 8290981-0-87736
+msgctxt "8290981-0-87736"
+msgid "Lathahim"
+msgstr ""
+
+#: 8290981-0-87735
+msgctxt "8290981-0-87735"
+msgid "Nirshala"
+msgstr ""
+
+#: 8290981-0-87734
+msgctxt "8290981-0-87734"
+msgid "Amajhan"
+msgstr ""
+
+#: 8290981-0-87733
+msgctxt "8290981-0-87733"
+msgid "Taarenyawen"
+msgstr ""
+
+#: 8290981-0-87732
+msgctxt "8290981-0-87732"
+msgid "Terror Bird Matriarch"
+msgstr ""
+
+#: 8290981-0-87731
+msgctxt "8290981-0-87731"
+msgid "Sharazzur"
+msgstr ""
+
+#: 8290981-0-87730
+msgctxt "8290981-0-87730"
+msgid "Turami"
+msgstr ""
+
+#: 8290981-0-87729
+msgctxt "8290981-0-87729"
+msgid "Cornelius Congonius"
+msgstr ""
+
+#: 8290981-0-87728
+msgctxt "8290981-0-87728"
+msgid "Nithonda"
+msgstr ""
+
+#: 8290981-0-87727
+msgctxt "8290981-0-87727"
+msgid "Nakiri"
+msgstr ""
+
+#: 8290981-0-87716
+msgctxt "8290981-0-87716"
+msgid "Rakazsa"
+msgstr ""
+
+#: 8290981-0-87714
+msgctxt "8290981-0-87714"
+msgid "Zaorir"
+msgstr "자오릴"
+
+#: 8290981-0-87713
+msgctxt "8290981-0-87713"
+msgid "Marzula-jo"
+msgstr "마르쥬라-조"
+
+#: 8290981-0-87712
+msgctxt "8290981-0-87712"
+msgid "Narama-ko"
+msgstr "나라마-코"
+
+#: 8290981-0-87706
+msgctxt "8290981-0-87706"
+msgid "Kuhari"
+msgstr ""
+
+#: 8290981-0-87705
+msgctxt "8290981-0-87705"
+msgid "S'zaram"
+msgstr ""
+
+#: 8290981-0-87704
+msgctxt "8290981-0-87704"
+msgid "Kaalgrontiid"
+msgstr " 칼그론티드"
+
+#: 8290981-0-87703
+msgctxt "8290981-0-87703"
+msgid "Mulaamnir"
+msgstr "뮬라미르"
+
+#: 8290981-0-87701
+msgctxt "8290981-0-87701"
+msgid "Ra'kardru"
+msgstr ""
+
+#: 8290981-0-87700
+msgctxt "8290981-0-87700"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-87698
+msgctxt "8290981-0-87698"
+msgid "Zayrah"
+msgstr ""
+
+#: 8290981-0-87697
+msgctxt "8290981-0-87697"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-87696
+msgctxt "8290981-0-87696"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-87695
+msgctxt "8290981-0-87695"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-87694
+msgctxt "8290981-0-87694"
+msgid "Cygnus Irregular"
+msgstr "시그너스 비정규군"
+
+#: 8290981-0-87693
+msgctxt "8290981-0-87693"
+msgid "Defense Force Warrior"
+msgstr "방어군 전사"
+
+#: 8290981-0-87692
+msgctxt "8290981-0-87692"
+msgid "Healer Arresh"
+msgstr ""
+
+#: 8290981-0-87691
+msgctxt "8290981-0-87691"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-87688
+msgctxt "8290981-0-87688"
+msgid "Mazza-Mirri"
+msgstr ""
+
+#: 8290981-0-87686
+msgctxt "8290981-0-87686"
+msgid "Shando-ri"
+msgstr ""
+
+#: 8290981-0-87681
+#, fuzzy
+msgctxt "8290981-0-87681"
+msgid "Zombie"
+msgstr "좀비"
+
+#: 8290981-0-87677
+msgctxt "8290981-0-87677"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-87673
+msgctxt "8290981-0-87673"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87671
+msgctxt "8290981-0-87671"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-87670
+msgctxt "8290981-0-87670"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87666
+msgctxt "8290981-0-87666"
+msgid "Skeletal Mage"
+msgstr "해골 마법사"
+
+#: 8290981-0-87660
+msgctxt "8290981-0-87660"
+msgid "Junkshop Thug"
+msgstr ""
+
+#: 8290981-0-87659
+msgctxt "8290981-0-87659"
+msgid "Mazdurr the Moonstruck"
+msgstr ""
+
+#: 8290981-0-87657
+msgctxt "8290981-0-87657"
+msgid "Meat of the Discarded"
+msgstr ""
+
+#: 8290981-0-87653
+msgctxt "8290981-0-87653"
+msgid "Plague Harpy"
+msgstr ""
+
+#: 8290981-0-87652
+#, fuzzy
+msgctxt "8290981-0-87652"
+msgid "Necrotic Hoarvor"
+msgstr "네크로틱 호버"
+
+#: 8290981-0-87651
+msgctxt "8290981-0-87651"
+msgid "Shiluk"
+msgstr ""
+
+#: 8290981-0-87646
+msgctxt "8290981-0-87646"
+msgid "Rakazsa"
+msgstr ""
+
+#: 8290981-0-87645
+msgctxt "8290981-0-87645"
+msgid "Yushiha"
+msgstr ""
+
+#: 8290981-0-87643
+msgctxt "8290981-0-87643"
+msgid "Jahlar"
+msgstr ""
+
+#: 8290981-0-87642
+msgctxt "8290981-0-87642"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87641
+msgctxt "8290981-0-87641"
+msgid "Tersius Municus"
+msgstr ""
+
+#: 8290981-0-87638
+msgctxt "8290981-0-87638"
+msgid "Mizzik Thunderboots"
+msgstr "미지크 썬더부츠"
+
+#: 8290981-0-87636
+msgctxt "8290981-0-87636"
+msgid "Burtle"
+msgstr "버틀"
+
+#: 8290981-0-87632
+msgctxt "8290981-0-87632"
+msgid "Khasda Lieutenant"
+msgstr ""
+
+#: 8290981-0-87630
+#, fuzzy
+msgctxt "8290981-0-87630"
+msgid "Tahara"
+msgstr "타하라"
+
+#: 8290981-0-87629
+msgctxt "8290981-0-87629"
+msgid "Quillmane"
+msgstr ""
+
+#: 8290981-0-87628
+msgctxt "8290981-0-87628"
+msgid "Guard Captain Kahiri"
+msgstr ""
+
+#: 8290981-0-87625
+msgctxt "8290981-0-87625"
+msgid "Zahalar Oak-Eye"
+msgstr "자할라 오크-아이"
+
+#: 8290981-0-87624
+msgctxt "8290981-0-87624"
+msgid "Kuzo the Thunderclaw"
+msgstr "번개발톱의 쿠로"
+
+#: 8290981-0-87623
+msgctxt "8290981-0-87623"
+msgid "Split-Ear Tahuda"
+msgstr "갈라진-귀 타후다"
+
+#: 8290981-0-87622
+msgctxt "8290981-0-87622"
+msgid "Sarazi"
+msgstr "사라지"
+
+#: 8290981-0-87621
+msgctxt "8290981-0-87621"
+msgid "Rideza"
+msgstr ""
+
+#: 8290981-0-87620
+msgctxt "8290981-0-87620"
+msgid "Zinthia"
+msgstr "진티아"
+
+#: 8290981-0-87619
+msgctxt "8290981-0-87619"
+msgid "Ishu"
+msgstr "이슈"
+
+#: 8290981-0-87618
+msgctxt "8290981-0-87618"
+msgid "Mizzik Thunderboots"
+msgstr "미지크 썬더부츠"
+
+#: 8290981-0-87617
+msgctxt "8290981-0-87617"
+msgid "Tajirri"
+msgstr "타리지"
+
+#: 8290981-0-87613
+msgctxt "8290981-0-87613"
+msgid "Mad Anchorite"
+msgstr ""
+
+#: 8290981-0-87612
+msgctxt "8290981-0-87612"
+msgid "Rideza"
+msgstr ""
+
+#: 8290981-0-87610
+msgctxt "8290981-0-87610"
+msgid "Sheogorath"
+msgstr "쉐오고라스"
+
+#: 8290981-0-87607
+msgctxt "8290981-0-87607"
+msgid "Sereyne"
+msgstr ""
+
+#: 8290981-0-87606
+msgctxt "8290981-0-87606"
+msgid "Moon-Bishop Sizenza"
+msgstr "달의 사제 시젠자"
+
+#: 8290981-0-87600
+msgctxt "8290981-0-87600"
+msgid "Mizzik Thunderboots"
+msgstr "미지크 썬더부츠"
+
+#: 8290981-0-87599
+msgctxt "8290981-0-87599"
+msgid "Moon-Priest Tahari"
+msgstr ""
+
+#: 8290981-0-87598
+msgctxt "8290981-0-87598"
+msgid "Kiseravi"
+msgstr ""
+
+#: 8290981-0-87597
+msgctxt "8290981-0-87597"
+msgid "Mizzik Thunderboots"
+msgstr "미지크 썬더부츠"
+
+#: 8290981-0-87596
+#, fuzzy
+msgctxt "8290981-0-87596"
+msgid "Skooma Cat"
+msgstr "스쿠마 고양이"
+
+#: 8290981-0-87593
+msgctxt "8290981-0-87593"
+msgid "Moon-Priest Haduras"
+msgstr ""
+
+#: 8290981-0-87592
+msgctxt "8290981-0-87592"
+msgid "Moon-Priest Radah"
+msgstr ""
+
+#: 8290981-0-87591
+msgctxt "8290981-0-87591"
+msgid "Liodes Catraso"
+msgstr ""
+
+#: 8290981-0-87588
+msgctxt "8290981-0-87588"
+msgid "Scipion Averno"
+msgstr ""
+
+#: 8290981-0-87587
+msgctxt "8290981-0-87587"
+msgid "Iulius Averno"
+msgstr ""
+
+#: 8290981-0-87584
+#, fuzzy
+msgctxt "8290981-0-87584"
+msgid "Skooma Cat"
+msgstr "스쿠마 고양이"
+
+#: 8290981-0-87582
+msgctxt "8290981-0-87582"
+msgid "Shade of the Founder"
+msgstr ""
+
+#: 8290981-0-87581
+msgctxt "8290981-0-87581"
+msgid "Cadwell the Betrayer"
+msgstr "배신자 캐드웰"
+
+#: 8290981-0-87578
+msgctxt "8290981-0-87578"
+msgid "Mell the Musical"
+msgstr "아름다운 노래를 부르는 멜"
+
+#: 8290981-0-87576
+msgctxt "8290981-0-87576"
+msgid "Cud"
+msgstr ""
+
+#: 8290981-0-87575
+msgctxt "8290981-0-87575"
+msgid "Khasda"
+msgstr ""
+
+#: 8290981-0-87574
+msgctxt "8290981-0-87574"
+msgid "Nazdar"
+msgstr ""
+
+#: 8290981-0-87573
+msgctxt "8290981-0-87573"
+msgid "Nazdar"
+msgstr ""
+
+#: 8290981-0-87572
+msgctxt "8290981-0-87572"
+msgid "Nazdar"
+msgstr ""
+
+#: 8290981-0-87571
+msgctxt "8290981-0-87571"
+msgid "Sereyne"
+msgstr ""
+
+#: 8290981-0-87570
+msgctxt "8290981-0-87570"
+msgid "Sereyne"
+msgstr ""
+
+#: 8290981-0-87569
+msgctxt "8290981-0-87569"
+msgid "Sereyne"
+msgstr ""
+
+#: 8290981-0-87568
+msgctxt "8290981-0-87568"
+msgid "Vole"
+msgstr ""
+
+#: 8290981-0-87567
+msgctxt "8290981-0-87567"
+msgid "Vole"
+msgstr ""
+
+#: 8290981-0-87566
+msgctxt "8290981-0-87566"
+msgid "Vole"
+msgstr ""
+
+#: 8290981-0-87563
+msgctxt "8290981-0-87563"
+msgid "Tasnasi"
+msgstr ""
+
+#: 8290981-0-87562
+msgctxt "8290981-0-87562"
+msgid "Tasnasi"
+msgstr ""
+
+#: 8290981-0-87560
+msgctxt "8290981-0-87560"
+msgid "Cadwell the Betrayer"
+msgstr "배신자 캐드웰"
+
+#: 8290981-0-87559
+msgctxt "8290981-0-87559"
+msgid "Akaviri Spirit"
+msgstr ""
+
+#: 8290981-0-87552
+msgctxt "8290981-0-87552"
+msgid "Moon-Priest Rilasu"
+msgstr ""
+
+#: 8290981-0-87539
+msgctxt "8290981-0-87539"
+msgid "Captain Verus"
+msgstr ""
+
+#: 8290981-0-87530
+msgctxt "8290981-0-87530"
+msgid "Mizzik Thunderboots"
+msgstr "미지크 썬더부츠"
+
+#: 8290981-0-87526
+msgctxt "8290981-0-87526"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87524
+msgctxt "8290981-0-87524"
+msgid "Valoria Marius"
+msgstr ""
+
+#: 8290981-0-87523
+msgctxt "8290981-0-87523"
+msgid "Moon-Priest Zargha"
+msgstr ""
+
+#: 8290981-0-87521
+msgctxt "8290981-0-87521"
+msgid "Cadwell the Betrayer"
+msgstr "배신자 캐드웰"
+
+#: 8290981-0-87520
+msgctxt "8290981-0-87520"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-87519
+#, fuzzy
+msgctxt "8290981-0-87519"
+msgid "Skooma Cat"
+msgstr "스쿠마 고양이"
+
+#: 8290981-0-87518
+msgctxt "8290981-0-87518"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-87515
+msgctxt "8290981-0-87515"
+msgid "Vek-Drassi Secunia"
+msgstr ""
+
+#: 8290981-0-87507
+msgctxt "8290981-0-87507"
+msgid "Moon-Priest Haduras"
+msgstr ""
+
+#: 8290981-0-87504
+msgctxt "8290981-0-87504"
+msgid "Euraxia Tharn"
+msgstr "유라시아 탄"
+
+#: 8290981-0-87496
+msgctxt "8290981-0-87496"
+msgid "Domitia Nasica"
+msgstr ""
+
+#: 8290981-0-87493
+msgctxt "8290981-0-87493"
+msgid "Cadwell the Betrayer"
+msgstr "배신자 캐드웰"
+
+#: 8290981-0-87492
+msgctxt "8290981-0-87492"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-87491
+msgctxt "8290981-0-87491"
+msgid "Magnate Feina-Darak"
+msgstr ""
+
+#: 8290981-0-87489
+msgctxt "8290981-0-87489"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-87487
+msgctxt "8290981-0-87487"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-87486
+#, fuzzy
+msgctxt "8290981-0-87486"
+msgid "Ashur"
+msgstr "아슈르"
+
+#: 8290981-0-87484
+msgctxt "8290981-0-87484"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-87483
+msgctxt "8290981-0-87483"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87482
+msgctxt "8290981-0-87482"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87476
+msgctxt "8290981-0-87476"
+msgid "Invisible"
+msgstr "투명화"
+
+#: 8290981-0-87454
+msgctxt "8290981-0-87454"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87418
+msgctxt "8290981-0-87418"
+msgid "Milksop"
+msgstr ""
+
+#: 8290981-0-87416
+msgctxt "8290981-0-87416"
+msgid "Rahti the Peeler"
+msgstr ""
+
+#: 8290981-0-87414
+msgctxt "8290981-0-87414"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87407
+msgctxt "8290981-0-87407"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-87406
+msgctxt "8290981-0-87406"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87405
+msgctxt "8290981-0-87405"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-87402
+msgctxt "8290981-0-87402"
+msgid "Sugar-Belly"
+msgstr ""
+
+#: 8290981-0-87401
+msgctxt "8290981-0-87401"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87394
+msgctxt "8290981-0-87394"
+msgid "Shavali the Befouled"
+msgstr ""
+
+#: 8290981-0-87393
+msgctxt "8290981-0-87393"
+msgid "Aneshi the Shrine Keeper"
+msgstr "사당의 파수꾼 아네시"
+
+#: 8290981-0-87392
+msgctxt "8290981-0-87392"
+msgid "Marmalade"
+msgstr ""
+
+#: 8290981-0-87391
+msgctxt "8290981-0-87391"
+msgid "Lara-Tan"
+msgstr ""
+
+#: 8290981-0-87390
+msgctxt "8290981-0-87390"
+msgid "Najirra"
+msgstr ""
+
+#: 8290981-0-87389
+msgctxt "8290981-0-87389"
+msgid "Honeydew"
+msgstr ""
+
+#: 8290981-0-87387
+msgctxt "8290981-0-87387"
+msgid "Stricken Lunatic"
+msgstr ""
+
+#: 8290981-0-87386
+msgctxt "8290981-0-87386"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-87366
+msgctxt "8290981-0-87366"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87365
+msgctxt "8290981-0-87365"
+msgid "Lavender"
+msgstr ""
+
+#: 8290981-0-87363
+msgctxt "8290981-0-87363"
+msgid "Narayun"
+msgstr ""
+
+#: 8290981-0-87358
+msgctxt "8290981-0-87358"
+msgid "Captain Nala-do"
+msgstr "나라-도 장군"
+
+#: 8290981-0-87357
+msgctxt "8290981-0-87357"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-87353
+msgctxt "8290981-0-87353"
+msgid "Dragonguard Orland"
+msgstr "드래곤가드 올랜드"
+
+#: 8290981-0-87351
+msgctxt "8290981-0-87351"
+msgid "Dragonguard Orland"
+msgstr "드래곤가드 올랜드"
+
+#: 8290981-0-87350
+msgctxt "8290981-0-87350"
+msgid "Spike Trap"
+msgstr ""
+
+#: 8290981-0-87349
+msgctxt "8290981-0-87349"
+msgid "Hulzar"
+msgstr ""
+
+#: 8290981-0-87348
+msgctxt "8290981-0-87348"
+msgid "Hulzar"
+msgstr ""
+
+#: 8290981-0-87347
+msgctxt "8290981-0-87347"
+msgid "Silhu-jo"
+msgstr ""
+
+#: 8290981-0-87346
+msgctxt "8290981-0-87346"
+msgid "Silhu-jo"
+msgstr ""
+
+#: 8290981-0-87345
+msgctxt "8290981-0-87345"
+msgid "Captain Saulinia"
+msgstr "사울리니아 장군 "
+
+#: 8290981-0-87343
+msgctxt "8290981-0-87343"
+msgid "Vazbi"
+msgstr ""
+
+#: 8290981-0-87342
+msgctxt "8290981-0-87342"
+msgid "Vazbi"
+msgstr ""
+
+#: 8290981-0-87340
+msgctxt "8290981-0-87340"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87339
+msgctxt "8290981-0-87339"
+msgid "Iokkas"
+msgstr ""
+
+#: 8290981-0-87335
+msgctxt "8290981-0-87335"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87320
+msgctxt "8290981-0-87320"
+msgid "Numaia"
+msgstr ""
+
+#: 8290981-0-87310
+msgctxt "8290981-0-87310"
+msgid "Hadaz"
+msgstr ""
+
+#: 8290981-0-87309
+msgctxt "8290981-0-87309"
+msgid "Mazdurr the Moonstruck"
+msgstr ""
+
+#: 8290981-0-87307
+msgctxt "8290981-0-87307"
+msgid "Mara'dahni"
+msgstr ""
+
+#: 8290981-0-87296
+msgctxt "8290981-0-87296"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87295
+msgctxt "8290981-0-87295"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-87294
+msgctxt "8290981-0-87294"
+msgid "Bahlokdaan"
+msgstr "바로크단"
+
+#: 8290981-0-87282
+msgctxt "8290981-0-87282"
+msgid "Coldharbour Bantam Guar"
+msgstr ""
+
+#: 8290981-0-87280
+msgctxt "8290981-0-87280"
+msgid "Eerie Violet Bantam Guar"
+msgstr ""
+
+#: 8290981-0-87271
+msgctxt "8290981-0-87271"
+msgid "Prefect Calo"
+msgstr "칼로 제독"
+
+#: 8290981-0-87269
+msgctxt "8290981-0-87269"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87267
+msgctxt "8290981-0-87267"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87266
+msgctxt "8290981-0-87266"
+msgid "Lord Gharesh-ri"
+msgstr "가레쉬-리 경"
+
+#: 8290981-0-87260
+msgctxt "8290981-0-87260"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87257
+msgctxt "8290981-0-87257"
+msgid "Drasji"
+msgstr "드라스지"
+
+#: 8290981-0-87256
+msgctxt "8290981-0-87256"
+msgid "Lezu"
+msgstr "레주"
+
+#: 8290981-0-87249
+msgctxt "8290981-0-87249"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87247
+msgctxt "8290981-0-87247"
+msgid "Barros"
+msgstr ""
+
+#: 8290981-0-87246
+msgctxt "8290981-0-87246"
+msgid "Miniza"
+msgstr "미니자"
+
+#: 8290981-0-87244
+msgctxt "8290981-0-87244"
+msgid "Corpse"
+msgstr "시체"
+
+#: 8290981-0-87243
+msgctxt "8290981-0-87243"
+msgid "Hursh"
+msgstr "허쉬"
+
+#: 8290981-0-87232
+msgctxt "8290981-0-87232"
+msgid "Zamarak"
+msgstr "자마락 "
+
+#: 8290981-0-87211
+msgctxt "8290981-0-87211"
+msgid "Abnur Tharn"
+msgstr "아브너 탄"
+
+#: 8290981-0-87206
+msgctxt "8290981-0-87206"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87201
+msgctxt "8290981-0-87201"
+msgid "Kinaro"
+msgstr "키나로"
+
+#: 8290981-0-87199
+msgctxt "8290981-0-87199"
+msgid "Tsazii"
+msgstr "트사지"
+
+#: 8290981-0-87181
+msgctxt "8290981-0-87181"
+msgid "Zumog Phoom"
+msgstr "쥬모그 품"
+
+#: 8290981-0-87180
+msgctxt "8290981-0-87180"
+msgid "Cadwell"
+msgstr "캐드웰"
+
+#: 8290981-0-87174
+msgctxt "8290981-0-87174"
+msgid "Khamira"
+msgstr "카미라"
+
+#: 8290981-0-87164
+msgctxt "8290981-0-87164"
+msgid "Captain Nala-do"
+msgstr "나라도 장군"
+
+#: 8290981-0-87163
+msgctxt "8290981-0-87163"
+msgid "Mizzik Thunderboots"
+msgstr "미지크 썬더부츠"
+
+#: 8290981-0-87015
+msgctxt "8290981-0-87015"
+msgid "Ashen Scar Jerboa"
+msgstr ""
+
+#: 8290981-0-87014
+#, fuzzy
+msgctxt "8290981-0-87014"
+msgid "Green Dragon Imp"
+msgstr "녹색 드래곤 임프"
+
+#: 8290981-0-86964
+msgctxt "8290981-0-86964"
+msgid "Bar-Goh"
+msgstr ""
+
+#: 8290981-0-86962
+msgctxt "8290981-0-86962"
+msgid "Am-Lai"
+msgstr ""
+
+#: 8290981-0-86961
+msgctxt "8290981-0-86961"
+msgid "Strillian Callidus"
+msgstr ""
+
+#: 8290981-0-86553
+#, fuzzy
+msgctxt "8290981-0-86553"
+msgid "Vastarie"
+msgstr "바스타리"
+
+#: 8290981-0-51267
+msgctxt "8290981-0-51267"
+msgid "Balefire the Implacable Guardian"
+msgstr ""

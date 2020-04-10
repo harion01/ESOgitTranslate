@@ -1,0 +1,292 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-84434
+msgctxt "132143172-0-84434"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nFiery Rage increases the damage by <<4>>.\n\nIcy Rage immobilizes enemies hit for <<5>>.\n\nThunderous Rage increases the duration by |cffffff2|r seconds."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。\r\n\r\n灼熱の憤怒はダメージを<<4>>増加させる。\r\n\r\n氷の憤怒は命中した敵を<<5>>間移動不能にする。\r\n\r\n雷の憤怒の持続時間が|cffffff2|r秒延長される。"
+
+#: 198758357-0-84434
+msgctxt "198758357-0-84434"
+msgid "Elemental Rage"
+msgstr "属性の憤怒"
+
+#: 132143172-0-83642
+msgctxt "132143172-0-83642"
+msgid "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
+msgstr "頭上に破壊的な嵐を|cffffff2|r秒間生み出し、周囲の敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83642
+msgctxt "198758357-0-83642"
+msgid "Eye of the Storm"
+msgstr "台風の目"
+
+#: 132143172-0-83619
+msgctxt "132143172-0-83619"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr "標的の場所に破壊的な嵐を|cffffff2|r秒間生み出し、エリアの敵を全て攻撃する。<<1>>を<<2>>ごとに<<3>>の間与える。"
+
+#: 198758357-0-83619
+msgctxt "198758357-0-83619"
+msgid "Elemental Storm"
+msgstr "属性の暴風"
+
+#: 132143172-0-46356
+msgctxt "132143172-0-46356"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>. \n\nUp to 2 nearby enemies will take \n<<4>> if they were already afflicted with Burning, Chilled, or Concussed status effects."
+msgstr "杖で全ての属性エナジーを集中させ、敵に<<1>>、<<2>>、<<3>>を与える。\r\n\r\n近くにいる最大2体の敵が既に炎上、冷気、脳振とうのステータス効果を受けていた場合、<<4>>を与える。"
+
+#: 198758357-0-46356
+msgctxt "198758357-0-46356"
+msgid "Force Pulse"
+msgstr "フォース・パルス"
+
+#: 132143172-0-46348
+msgctxt "132143172-0-46348"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>.\n\nEnemies hit while casting are interrupted, set Off Balance, and stunned for <<4>>."
+msgstr "杖で全ての属性エナジーを集中させ、敵に<<1>>、<<2>>、<<3>>を与える。\r\n\r\n詠唱中の敵は妨害され、フラフラ状態になって<<4>>の間気絶する。"
+
+#: 198758357-0-46348
+msgctxt "198758357-0-46348"
+msgid "Crushing Shock"
+msgstr "壊滅の雷撃"
+
+#: 132143172-0-46340
+msgctxt "132143172-0-46340"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>."
+msgstr "三属性の力を集中させ、敵に<<1>>、<<2>>、<<3>>を与える。"
+
+#: 198758357-0-46340
+msgctxt "198758357-0-46340"
+msgid "Force Shock"
+msgstr "力の発動"
+
+#: 132143172-0-45514
+msgctxt "132143172-0-45514"
+msgid "When you kill an enemy with a Destruction Staff ability, you restore <<1>> Magicka."
+msgstr "攻撃の杖アビリティで敵を倒すと、マジカが<<1>>回復する。"
+
+#: 198758357-0-45514
+msgctxt "198758357-0-45514"
+msgid "Destruction Expert"
+msgstr "破壊の熟練者"
+
+#: 132143172-0-45513
+msgctxt "132143172-0-45513"
+msgid "Equipping a Flame Staff increases your damage done with single target abilities by <<1>>.\n\nEquipping a Lightning Staff increases your damage done with area of effect abilities by <<2>>.\n\nEquipping a Frost Staff reduces the cost of blocking by |cffffff36|r% and increases the amount of damage you block by <<3>>."
+msgstr "火炎の杖を装備中、単体攻撃アビリティのダメージを<<1>>増加させる。\r\n\r\n稲妻の杖を装備中、範囲効果アビリティのダメージを<<2>>増加させる。\r\n\r\n氷結の杖を装備中、ブロックの消費コストを|cffffff36|r%減少させ、ブロックできるダメージ量を<<3>>増加させる。"
+
+#: 198758357-0-45513
+msgctxt "198758357-0-45513"
+msgid "Ancient Knowledge"
+msgstr "古代の知識"
+
+#: 132143172-0-45512
+msgctxt "132143172-0-45512"
+msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
+msgstr "敵を、炎上、脳震とう、冷気状態にする確率が<<1>>高まる。"
+
+#: 198758357-0-45512
+msgctxt "198758357-0-45512"
+msgid "Elemental Force"
+msgstr "自然の力"
+
+#: 132143172-0-45509
+msgctxt "132143172-0-45509"
+msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+msgstr "攻撃の杖アビリティが、敵の呪文耐性の<<1>>%を無視できる。"
+
+#: 198758357-0-45509
+msgctxt "198758357-0-45509"
+msgid "Penetrating Magic"
+msgstr "貫通魔法"
+
+#: 132143172-0-45500
+msgctxt "132143172-0-45500"
+msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
+msgstr "完全にチャージした炎の杖の重攻撃は追加ダメージを<<1>>与える。\r\n\r\n雷撃の杖の重攻撃は、周囲の敵に与えたダメージの<<2>>を与える。\r\n\r\n完全にチャージした氷結の杖の重攻撃は、<<3>>の間敵に自分を攻撃するよう挑発し、 <<4>>ダメージを吸収するダメージシールドを付与する。\r\n\r\n氷結の杖を装備中は、ブロックがスタミナではなくマジカを消費する。"
+
+#: 198758357-0-45500
+msgctxt "198758357-0-45500"
+msgid "Tri Focus"
+msgstr "トライフォーカス"
+
+#: 132143172-0-39161
+msgctxt "132143172-0-39161"
+msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
+msgstr "属性エネルギーを急激に放出し、近くの敵に<<1>>を与えて<<2>>を付与し、敵の最大体力を<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-39161
+msgctxt "198758357-0-39161"
+msgid "Pulsar"
+msgstr "パルサー"
+
+#: 132143172-0-39143
+msgctxt "132143172-0-39143"
+msgid "Release a surge of elemental energy, dealing <<1>> to enemies at the target location."
+msgstr "属性エネルギーを急激に放出し、狙った場所の敵に<<1>>を与える。"
+
+#: 198758357-0-39143
+msgctxt "198758357-0-39143"
+msgid "Elemental Ring"
+msgstr "属性の輪"
+
+#: 132143172-0-39095
+msgctxt "132143172-0-39095"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAlso applies <<4>> to the enemy for <<2>>, causing you and your allies to restore <<5>> Magicka every <<6>> when damaging them."
+msgstr "属性の力で敵の防御を吸収し、<<1>>を<<2>>の間与える。呪文耐性を<<3>>低下させる。\r\n\r\nまた、敵に<<4>>を<<2>>の間付与する。ダメージを与える度に、自身と味方はマジカを<<5>>、<<6>>ごとに回復する。"
+
+#: 198758357-0-39095
+msgctxt "198758357-0-39095"
+msgid "Elemental Drain"
+msgstr "属性ドレイン"
+
+#: 132143172-0-39089
+msgctxt "132143172-0-39089"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAny damage you deal to the enemy refreshes this effect to its maximum duration."
+msgstr "属性の力を利用して敵の防御力を奪い取り、敵に<<1>>を<<2>>の間与える。呪文耐性を<<3>>低下させる。\r\n\r\n敵にダメージを与えると、効果の持続時間は最大に戻る。"
+
+#: 198758357-0-39089
+msgctxt "198758357-0-39089"
+msgid "Elemental Susceptibility"
+msgstr "属性崩壊"
+
+#: 132143172-0-39052
+msgctxt "132143172-0-39052"
+msgid "Create an unstable elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> before exploding for an additional <<3>> Magic Damage.\n\nUnstable Wall of Fire deals additional damage to Burning enemies.\n\nUnstable Wall of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nUnstable Wall of Storms sets Concussed enemies Off Balance."
+msgstr "目の前に不安定な属性障壁を作って範囲内の敵に<<1>>を<<2>>毎に与える。その後爆発して、<<3>>の魔法ダメージを与える。\r\n\r\n不安定な火の壁は炎上している敵に追加ダメージを与える。\r\n\r\n不安定な氷の壁は敵の移動速度を低下し、冷気状態の敵は移動不能になる。\r\n\r\n不安定な嵐の壁は脳振とうを起こしている敵をフラフラ状態にする。"
+
+#: 198758357-0-39052
+msgctxt "198758357-0-39052"
+msgid "Unstable Wall of Elements"
+msgstr "不安定な属性の壁"
+
+#: 132143172-0-39011
+msgctxt "132143172-0-39011"
+msgid "Slam your staff down to create an elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>>.\n\nBlockade of Fire deals additional damage to Burning enemies.\n\nBlockade of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nBlockade of Storms sets Concussed enemies Off Balance."
+msgstr "杖をたたきつけて目の前に属性障壁を作り、範囲内の敵に<<1>>を<<2>>毎に与える。\r\n\r\n火の防壁は炎上している敵に追加ダメージを与える。\r\n\r\n氷結の防壁は敵の移動速度を低下し、冷気状態の敵は移動不能になる。\r\n\r\n嵐の防壁は脳振とうを起こしている敵をフラフラ状態にする。"
+
+#: 198758357-0-39011
+msgctxt "198758357-0-39011"
+msgid "Elemental Blockade"
+msgstr "属性防壁"
+
+#: 132143172-0-38984
+msgctxt "132143172-0-38984"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>>.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench also immobilizes the enemy.\n\nShock Clench converts the attack into an area of effect explosion."
+msgstr "杖にチャージされた強力な力で敵を攻撃し、<<1>>を与える。\r\n\r\n炎のクレンチは敵をノックバックもさせる。\r\n\r\n氷結のクレンチは敵を移動不能にもする。\r\n\r\n雷撃のクレンチは攻撃を範囲攻撃の爆発に変える。"
+
+#: 198758357-0-38984
+msgctxt "198758357-0-38984"
+msgid "Destructive Clench"
+msgstr "破壊の打撃"
+
+#: 132143172-0-38937
+msgctxt "132143172-0-38937"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、魔法ダメージ<<2>>を追加で<<3>>の間与える。"
+
+#: 198758357-0-38937
+msgctxt "198758357-0-38937"
+msgid "Destructive Reach"
+msgstr "破壊のリーチ"
+
+#: 132143172-0-30965
+msgctxt "132143172-0-30965"
+msgid "When you kill an enemy with a Destruction Staff ability, you restore <<1>> Magicka."
+msgstr "攻撃の杖アビリティで敵を倒すと、マジカが<<1>>回復する。"
+
+#: 198758357-0-30965
+msgctxt "198758357-0-30965"
+msgid "Destruction Expert"
+msgstr "破壊の熟練者"
+
+#: 132143172-0-30962
+msgctxt "132143172-0-30962"
+msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
+msgstr "敵を、炎上、脳震とう、冷気状態にする確率が<<1>>高まる。"
+
+#: 198758357-0-30962
+msgctxt "198758357-0-30962"
+msgid "Elemental Force"
+msgstr "自然の力"
+
+#: 132143172-0-30959
+msgctxt "132143172-0-30959"
+msgid "Equipping a Flame Staff increases your damage done with single target abilities by <<1>>.\n\nEquipping a Lightning Staff increases your damage done with area of effect abilities by <<2>>.\n\nEquipping a Frost Staff reduces the cost of blocking by |cffffff18|r% and increases the amount of damage you block by <<3>>."
+msgstr "火炎の杖を装備中、単体攻撃アビリティのダメージを<<1>>増加させる。\r\n\r\n稲妻の杖を装備中、範囲効果アビリティのダメージを<<2>>増加させる。\r\n\r\n氷結の杖を装備中、ブロックの消費コストを|cffffff18|r%減少させ、ブロックできるダメージ量を<<3>>増加させる。"
+
+#: 198758357-0-30959
+msgctxt "198758357-0-30959"
+msgid "Ancient Knowledge"
+msgstr "古代の知識"
+
+#: 132143172-0-30957
+msgctxt "132143172-0-30957"
+msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+msgstr "攻撃の杖アビリティが、敵の呪文耐性の<<1>>%を無視できる。"
+
+#: 198758357-0-30957
+msgctxt "198758357-0-30957"
+msgid "Penetrating Magic"
+msgstr "貫通魔法"
+
+#: 132143172-0-30948
+msgctxt "132143172-0-30948"
+msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
+msgstr "完全にチャージした炎の杖の重攻撃は追加ダメージを<<1>>与える。\r\n\r\n雷撃の杖の重攻撃は、周囲の敵に与えたダメージの<<2>>を与える。\r\n\r\n完全にチャージした氷結の杖の重攻撃は、<<3>>の間敵に自分を攻撃するよう挑発し、 <<4>>ダメージを吸収するダメージシールドを付与する。\r\n\r\n氷結の杖を装備中は、ブロックがスタミナではなくマジカを消費する。"
+
+#: 198758357-0-30948
+msgctxt "198758357-0-30948"
+msgid "Tri Focus"
+msgstr "トライフォーカス"
+
+#: 132143172-0-29173
+msgctxt "132143172-0-29173"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>."
+msgstr "属性の力を利用して敵の防御力を奪い取り、<<1>>を<<2>>の間与えて、呪文耐性を<<3>>低下させる。"
+
+#: 198758357-0-29173
+msgctxt "198758357-0-29173"
+msgid "Weakness to Elements"
+msgstr "属性弱体"
+
+#: 132143172-0-29091
+msgctxt "132143172-0-29091"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
+msgstr "杖にチャージされた強力な力で敵を攻撃する。<<1>>を与えた後、魔法ダメージ<<2>>を追加で<<3>>の間与える。"
+
+#: 198758357-0-29091
+msgctxt "198758357-0-29091"
+msgid "Destructive Touch"
+msgstr "破壊の一撃"
+
+#: 132143172-0-28858
+msgctxt "132143172-0-28858"
+msgid "Slam your staff down to create an elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>>.\n\nWall of Fire deals additional damage to Burning enemies.\n\nWall of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nWall of Storms sets Concussed enemies Off Balance."
+msgstr "地面に杖を打ちつけて目の前に属性の障壁を作り出す。範囲内にいる敵に<<1>>を<<2>>ごとに与える。\r\n\r\n火の壁は炎上中の敵に追加ダメージを与える。\r\n\r\n氷の壁は敵の移動速度を低下させ、冷気状態の敵を移動不能にする。\r\n\r\n嵐の障壁は脳震とう状態の敵をフラフラ状態にする。"
+
+#: 198758357-0-28858
+msgctxt "198758357-0-28858"
+msgid "Wall of Elements"
+msgstr "属性の壁"
+
+#: 132143172-0-28800
+msgctxt "132143172-0-28800"
+msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies."
+msgstr "属性エネルギーの波動を放ち、近くにいる敵に<<1>>を与える。"
+
+#: 198758357-0-28800
+msgctxt "198758357-0-28800"
+msgid "Impulse"
+msgstr "衝撃"

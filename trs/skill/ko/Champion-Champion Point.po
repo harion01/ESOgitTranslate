@@ -1,0 +1,736 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-92431
+msgctxt "132143172-0-92431"
+msgid "Reduces the cost of Break Free by <<1>>."
+msgstr "군중 제어 벗어나기의 리소스 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-92431
+msgctxt "198758357-0-92431"
+msgid "Warlord"
+msgstr "Warlord"
+
+#: 132143172-0-92425
+msgctxt "132143172-0-92425"
+msgid "When you deal damage with a Light or Heavy Attack, you decrease the enemy's Health, Magicka, and Stamina resource restore and Recovery by <<1>> for <<2>>."
+msgstr "약공격이나 강공격으로 피해를 입히면 적의 체력, 매지카, 그리고 스태미나의 회복량과 재생량을 <<2>> 동안 <<1>> 감소시킵니다."
+
+#: 198758357-0-92425
+msgctxt "198758357-0-92425"
+msgid "Siphoner"
+msgstr "Siphoner"
+
+#: 132143172-0-92424
+msgctxt "132143172-0-92424"
+msgid "Increases your damage done with Light and Heavy Attacks for Two Handed, One Hand and Shield, Dual Wield, and Bow weapons, as well as in Werewolf form by <<1>>."
+msgstr "양손무기와 한손무기 및 방패, 쌍수무기, 활로 입히는 약공격과 강공격의 피해량이 <<1>>만큼 증가합니다.\n늑대인간 변신중에도 적용됩니다.\n"
+
+#: 198758357-0-92424
+msgctxt "198758357-0-92424"
+msgid "Physical Weapon Expert"
+msgstr "Physical Weapon Expert"
+
+#: 132143172-0-92423
+msgctxt "132143172-0-92423"
+msgid "Reduces your damage taken against direct damage attacks by <<1>>."
+msgstr "즉발 공격으로 받는 피해가 <<1>> 감소합니다."
+
+#: 198758357-0-92423
+msgctxt "198758357-0-92423"
+msgid "Ironclad"
+msgstr "Ironclad"
+
+#: 132143172-0-92134
+msgctxt "132143172-0-92134"
+msgid "Increases your damage done with direct damage attacks by <<1>>."
+msgstr "즉시 공격의 피해량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-92134
+msgctxt "198758357-0-92134"
+msgid "Master-at-Arms"
+msgstr "Master-at-Arms"
+
+#: 132143172-0-64079
+msgctxt "132143172-0-64079"
+msgid "While you have a Shield or Frost Staff equipped, your Spell and Physical Resistance is increased by <<1>>."
+msgstr "방패나 냉기 지팡이를 착용하고 있으면 주문과 물리 저항력이 <<1>> 증가합니다."
+
+#: 198758357-0-64079
+msgctxt "198758357-0-64079"
+msgid "Bulwark"
+msgstr "Bulwark"
+
+#: 132143172-0-64077
+msgctxt "132143172-0-64077"
+msgid "Reduces the cost of Sprint by <<1>>."
+msgstr "질주의 비용이 <<1>> 감소합니다."
+
+#: 198758357-0-64077
+msgctxt "198758357-0-64077"
+msgid "Sprinter"
+msgstr "Sprinter"
+
+#: 132143172-0-64067
+#, fuzzy
+msgctxt "132143172-0-64067"
+msgid "When you begin Bracing, you gain a damage shield that absorbs <<1>> damage for <<2>>. This effect can occur once every <<3>>."
+msgstr "방어를 하면 <<2>>동안 <<1>> 피해를 흡수하는 방어막을 얻습니다. 이 효과는 <<3>>에 한 번씩 발동됩니다."
+
+#: 198758357-0-64067
+msgctxt "198758357-0-64067"
+msgid "Reinforced"
+msgstr "Reinforced"
+
+#: 132143172-0-63880
+msgctxt "132143172-0-63880"
+msgid "Increases your damage done against Off Balance enemies by <<1>>."
+msgstr "균형을 잃은 적에 대한 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-63880
+msgctxt "198758357-0-63880"
+msgid "Exploiter"
+msgstr "Exploiter"
+
+#: 132143172-0-63879
+msgctxt "132143172-0-63879"
+msgid "Increases your damage done with Light and Heavy Attacks by <<1>> to enemies below |cffffff25|r% Health."
+msgstr "체력이 |cffffff25|r% 이하인 적에게 입히는 약공격과 강공격의 피해량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-63879
+msgctxt "198758357-0-63879"
+msgid "Butcher"
+msgstr "Butcher"
+
+#: 132143172-0-63875
+msgctxt "132143172-0-63875"
+msgid "When you activate a synergy ability, you generate |cffffff2|r Ultimate."
+msgstr "시너지 어빌리티를 활성화하면 궁극기 게이지를 |cffffff2|r 만들어냅니다."
+
+#: 198758357-0-63875
+msgctxt "198758357-0-63875"
+msgid "Synergizer"
+msgstr "Synergizer"
+
+#: 132143172-0-63868
+msgctxt "132143172-0-63868"
+msgid "Increases your Physical, Poison, and Disease Damage done by <<1>>."
+msgstr "물리와 독, 질병 피해의 피해량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-63868
+msgctxt "198758357-0-63868"
+msgid "Mighty"
+msgstr "Mighty"
+
+#: 132143172-0-63863
+msgctxt "132143172-0-63863"
+msgid "Reduces the cost of Roll Dodge by <<1>>."
+msgstr "구르기 회피의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-63863
+msgctxt "198758357-0-63863"
+msgid "Tumbling"
+msgstr "Tumbling"
+
+#: 132143172-0-63854
+msgctxt "132143172-0-63854"
+msgid "Increases the Magicka and Stamina your fully-charged Heavy Attacks restore by <<1>>."
+msgstr "강공격으로 회복되는 매지카와 스태미나가 <<1>>만큼 증가합니다."
+
+#: 198758357-0-63854
+msgctxt "198758357-0-63854"
+msgid "Tenacity"
+msgstr "Tenacity"
+
+#: 132143172-0-63852
+msgctxt "132143172-0-63852"
+msgid "When you use Roll Dodge, your Physical and Spell Resistance is increased by <<1>> for <<2>>."
+msgstr "구르기를 사용하면 무기와 마법 저항력이 <<2>> 동안 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-63852
+msgctxt "198758357-0-63852"
+msgid "Phase"
+msgstr "Phase"
+
+#: 132143172-0-63851
+msgctxt "132143172-0-63851"
+msgid "Increases your healing received by <<1>>."
+msgstr "받는 치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-63851
+msgctxt "198758357-0-63851"
+msgid "Quick Recovery"
+msgstr "Quick Recovery"
+
+#: 132143172-0-63850
+msgctxt "132143172-0-63850"
+msgid "Reduces your damage taken from damage over time effects by <<1>>."
+msgstr "지속 효과로부터 받는 피해가 <<1>> 감소합니다."
+
+#: 198758357-0-63850
+msgctxt "198758357-0-63850"
+msgid "Thick Skinned"
+msgstr "Thick Skinned"
+
+#: 132143172-0-63848
+msgctxt "132143172-0-63848"
+msgid "Increases your Flame, Frost, Shock, and Magic Damage done by <<1>>."
+msgstr "화염, 냉기, 전격, 그리고 마법 피해가 <<1>> 증가합니다."
+
+#: 198758357-0-63848
+msgctxt "198758357-0-63848"
+msgid "Elemental Expert"
+msgstr "Elemental Expert"
+
+#: 132143172-0-63847
+msgctxt "132143172-0-63847"
+msgid "Increases your damage done with damage over time effects by <<1>>."
+msgstr "지속 피해 효과의 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-63847
+msgctxt "198758357-0-63847"
+msgid "Thaumaturge"
+msgstr "Thaumaturge"
+
+#: 132143172-0-63844
+msgctxt "132143172-0-63844"
+msgid "Reduces your damage taken from Physical, Poison, and Disease Damage by <<1>>."
+msgstr "물리, 독, 그리고 질병 공격으로 받는 피해가 <<1>> 감소합니다."
+
+#: 198758357-0-63844
+msgctxt "198758357-0-63844"
+msgid "Hardy"
+msgstr "Hardy"
+
+#: 132143172-0-63843
+msgctxt "132143172-0-63843"
+msgid "Reduces your damage taken from Flame, Frost, Shock, and Magic Damage by <<1>>."
+msgstr "화염, 냉기, 전격, 그리고 마법 공격으로 받는 피해가 <<1>> 감소합니다."
+
+#: 198758357-0-63843
+msgctxt "198758357-0-63843"
+msgid "Elemental Defender"
+msgstr "Elemental Defender"
+
+#: 132143172-0-63663
+msgctxt "132143172-0-63663"
+msgid "You have a |cffffff10|r% chance to gain double the yield from normal resource nodes."
+msgstr "보통 자원 노드의 산출량이 |cffffff10|r% 확률로 두 배 증가합니다."
+
+#: 198758357-0-63663
+msgctxt "198758357-0-63663"
+msgid "Plentiful Harvest"
+msgstr "Plentiful Harvest"
+
+#: 132143172-0-63150
+#, fuzzy
+msgctxt "132143172-0-63150"
+msgid "When you block three spells within <<1>> of each other, your next damaging Magicka ability used within <<2>> will always be a Critical Strike."
+msgstr "<<1>> 안에 주문을 세 번 방어하면 <<2>> 안에 사용하는 다음 매지카 어빌리티는 항상 치명타가 됩니다."
+
+#: 198758357-0-63150
+msgctxt "198758357-0-63150"
+msgid "Vengeance"
+msgstr "Vengeance"
+
+#: 132143172-0-63111
+msgctxt "132143172-0-63111"
+msgid "When you kill an enemy, you have a |cffffff20|r% chance to restore <<1>> Magicka for up to |cffffff3|r friendly targets within |cffffff2.5|r meters of the enemy."
+msgstr "적을 죽이면 |cffffff20|r% 확률로 죽인 적의 |cffffff2.5|r미터 안에 있는 우호적인 목표 |cffffff3|r명의 매지카를 <<1>> 회복시킵니다."
+
+#: 198758357-0-63111
+msgctxt "198758357-0-63111"
+msgid "Arcane Well"
+msgstr "Arcane Well"
+
+#: 132143172-0-63109
+msgctxt "132143172-0-63109"
+msgid "When you take Flame, Frost, Shock, Magic, or Oblivion Damage equal to |cffffff30|r% of your Max Health, you restore <<1>> Magicka. This effect can occur once every <<2>>."
+msgstr "전체 체력의 |cffffff30|r%에 달하는 화염, 냉기, 전격 또는 오블리비언 피해를 입으면 매지카를 <<1>> 회복합니다. 이 효과는 <<2>>에 한 번씩 발동됩니다."
+
+#: 198758357-0-63109
+msgctxt "198758357-0-63109"
+msgid "Spell Absorption"
+msgstr "Spell Absorption"
+
+#: 132143172-0-63104
+msgctxt "132143172-0-63104"
+msgid "When you block a Heavy Attack, your next Light Attack used within <<1>> deals <<2>> additional damage."
+msgstr "강공격을 막으면 <<1>>안에 하는 다음 약공격이 <<2>>의 추가 피해를 입힙니다."
+
+#: 198758357-0-63104
+msgctxt "198758357-0-63104"
+msgid "Retaliation"
+msgstr "Retaliation"
+
+#: 132143172-0-63099
+msgctxt "132143172-0-63099"
+msgid "When you interrupt an enemy, your next Physical Damage ability used within <<1>> deals <<2>> additional damage."
+msgstr "적을 방해할 경우 <<1>>안에 사용하는 다음 물리 피해 어빌리티가 <<2>>만큼의 추가적인 피해를 입힙니다."
+
+#: 198758357-0-63099
+msgctxt "198758357-0-63099"
+msgid "Opportunist"
+msgstr "Opportunist"
+
+#: 132143172-0-62760
+msgctxt "132143172-0-62760"
+msgid "Increases your Spell Resistance by <<1>>."
+msgstr "주문 저항력이 <<1>> 증가합니다."
+
+#: 198758357-0-62760
+msgctxt "198758357-0-62760"
+msgid "Spell Shield"
+msgstr "Spell Shield"
+
+#: 132143172-0-62516
+msgctxt "132143172-0-62516"
+msgid "When you die, you heal all allies within |cffffff8|r meters of you for <<1>> Health."
+msgstr "당신이 죽으면 |cffffff8|r미터 안에 있는 모든 아군들의 체력을 <<1>>만큼 회복시킵니다."
+
+#: 198758357-0-62516
+msgctxt "198758357-0-62516"
+msgid "Mara's Gift"
+msgstr "Mara's Gift"
+
+#: 132143172-0-62274
+msgctxt "132143172-0-62274"
+msgid "Improves your mastery with mounts, removing all mount Stamina costs outside of combat."
+msgstr "탈것의 숙련도를 높여 전투 외의 상황에서 탈것의 스태미나 소모를 모두 없앱니다."
+
+#: 198758357-0-62274
+msgctxt "198758357-0-62274"
+msgid "War Mount"
+msgstr "War Mount"
+
+#: 132143172-0-61680
+msgctxt "132143172-0-61680"
+msgid "Increases your Critical Damage and Critical Healing with Magicka abilities by <<1>>."
+msgstr "매지카 어빌리티의 치명타 피해량과 치명타 치유량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-61680
+msgctxt "198758357-0-61680"
+msgid "Elfborn"
+msgstr "Elfborn"
+
+#: 132143172-0-61660
+msgctxt "132143172-0-61660"
+msgid "When you take Critical Damage, you heal for <<1>> Health."
+msgstr "치명타 피해를 받으면 체력을 <<1>> 회복합니다."
+
+#: 198758357-0-61660
+msgctxt "198758357-0-61660"
+msgid "Resilient"
+msgstr "Resilient"
+
+#: 132143172-0-61555
+msgctxt "132143172-0-61555"
+msgid "Increases your Spell Penetration by <<1>>."
+msgstr "마법 관통력이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-61555
+msgctxt "198758357-0-61555"
+msgid "Spell Erosion"
+msgstr "Spell Erosion"
+
+#: 132143172-0-61548
+msgctxt "132143172-0-61548"
+msgid "Reduces the cost of Sneak by <<1>>."
+msgstr "은신 상태에서 이동시 스태미나 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-61548
+msgctxt "198758357-0-61548"
+msgid "Shade"
+msgstr "Shade"
+
+#: 132143172-0-61546
+msgctxt "132143172-0-61546"
+msgid "Increases your Physical Penetration by <<1>>."
+msgstr "물리 관통력이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-61546
+msgctxt "198758357-0-61546"
+msgid "Piercing"
+msgstr "Piercing"
+
+#: 132143172-0-61426
+msgctxt "132143172-0-61426"
+msgid "When you kill an enemy with a Heavy Attack, you become invisible for <<1>>. This effect can occur once every <<2>>."
+msgstr "적을 강공격으로 죽이면 <<1>>동안 투명해집니다. 이 효과는 <<2>>마다 한 번씩 발동됩니다."
+
+#: 198758357-0-61426
+msgctxt "198758357-0-61426"
+msgid "Shadowstrike"
+msgstr "Shadowstrike"
+
+#: 132143172-0-60662
+msgctxt "132143172-0-60662"
+msgid "Increases your damage done to enemies with a damage shield by <<1>>."
+msgstr "보호막이 있는 적에게 입히는 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-60662
+msgctxt "198758357-0-60662"
+msgid "Shattering Blows"
+msgstr "Shattering Blows"
+
+#: 132143172-0-60649
+msgctxt "132143172-0-60649"
+msgid "Reduces the cost of Block by <<1>>."
+msgstr "막기의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-60649
+msgctxt "198758357-0-60649"
+msgid "Shadow Ward"
+msgstr "Shadow Ward"
+
+#: 132143172-0-60624
+msgctxt "132143172-0-60624"
+msgid "Increases your Physical Resistance by <<1>> while wearing |cffffff5|r or more pieces of Heavy Armor."
+msgstr "중갑을 |cffffff5|r 부위 이상 장착하면 물리 저항력이 <<1>> 증가합니다."
+
+#: 198758357-0-60624
+msgctxt "198758357-0-60624"
+msgid "Heavy Armor Focus"
+msgstr "Heavy Armor Focus"
+
+#: 132143172-0-60566
+msgctxt "132143172-0-60566"
+msgid "Increases the quality of items you find in treasure chests."
+msgstr "보물 상자에서 발견하는 아이템의 품질이 좋아집니다."
+
+#: 198758357-0-60566
+msgctxt "198758357-0-60566"
+msgid "Treasure Hunter"
+msgstr "Treasure Hunter"
+
+#: 132143172-0-60560
+msgctxt "132143172-0-60560"
+msgid "Increases your Movement Speed and Mounted Speed by <<1>>.\n\nIncreases your Health and Magicka Recovery by <<2>> while Sprinting."
+msgstr "이동 속도와 탈것의 이동 속도가 <<1>> 증가합니다.\n\n질주하는 도중 체력 및 매지카 재생이 <<2>> 증가합니다."
+
+#: 198758357-0-60560
+msgctxt "198758357-0-60560"
+msgid "Windrunning"
+msgstr "Windrunning"
+
+#: 132143172-0-60555
+msgctxt "132143172-0-60555"
+msgid "Reduces your gathering time by <<1>>."
+msgstr "채집 시간이 <<1>> 감소합니다."
+
+#: 198758357-0-60555
+msgctxt "198758357-0-60555"
+msgid "Master Gatherer"
+msgstr "Master Gatherer"
+
+#: 132143172-0-60503
+msgctxt "132143172-0-60503"
+msgid "Increases your damage done with Light and Heavy Attacks for Destruction and Restoration Staves, as well as Overload by <<1>>."
+msgstr "파괴 지팡이와 치유 지팡이로 하는 약공격과 강공격의 피해량이 <<1>> 증가합니다."
+
+#: 198758357-0-60503
+msgctxt "198758357-0-60503"
+msgid "Staff Expert"
+msgstr "Staff Expert"
+
+#: 132143172-0-60502
+msgctxt "132143172-0-60502"
+msgid "Increases your Physical Resistance by <<1>> while wearing |cffffff5|r or more pieces of Light Armor."
+msgstr "천옷을 |cffffff5|r 부위 이상 장착하면 물리 저항력이 <<1>> 증가합니다."
+
+#: 198758357-0-60502
+msgctxt "198758357-0-60502"
+msgid "Light Armor Focus"
+msgstr "Light Armor Focus"
+
+#: 132143172-0-60501
+msgctxt "132143172-0-60501"
+msgid "Reduces the cost of repairing your armor by <<1>>."
+msgstr "방어구 수리 비용이 <<1>> 감소합니다."
+
+#: 198758357-0-60501
+msgctxt "198758357-0-60501"
+msgid "Merchant Favored"
+msgstr "Merchant Favored"
+
+#: 132143172-0-60494
+msgctxt "132143172-0-60494"
+msgid "Increases your crafting inspiration gained by <<1>>."
+msgstr "제작 숙련도의 획득량이 <<1>> 증가합니다."
+
+#: 198758357-0-60494
+msgctxt "198758357-0-60494"
+msgid "Inspiration Boost"
+msgstr "Inspiration Boost"
+
+#: 132143172-0-60486
+msgctxt "132143172-0-60486"
+msgid "When you use Roll Dodge to dodge an attack, you set the enemy Off Balance."
+msgstr "구르기를 사용하여 공격을 피하면, 적이 균형을 잃은 상태가 됩니다."
+
+#: 198758357-0-60486
+msgctxt "198758357-0-60486"
+msgid "Tactician"
+msgstr "Tactician"
+
+#: 132143172-0-60427
+msgctxt "132143172-0-60427"
+msgid "When you are resurrected by another player, you gain a damage shield that absorbs <<1>> damage for <<2>>."
+msgstr "다른 플레이어에 의해 부활했을 때 <<2>>동안 <<1>>의 피해를 흡수하는 보호막을 얻습니다."
+
+#: 198758357-0-60427
+msgctxt "198758357-0-60427"
+msgid "Revival"
+msgstr "Revival"
+
+#: 132143172-0-60413
+#, fuzzy
+msgctxt "132143172-0-60413"
+msgid "When you fall below |cffffff20|r% Health you gain Major Heroism, granting <<1>> Ultimate every |cffffff1.5|r seconds for <<2>>. This effect can occur once every <<3>>."
+msgstr "체력이 |cffffff20|r% 아래로 감소하면 Major Heroism 효과를 얻습니다. <<3>> 에 걸쳐 <<2>>마다 궁극기 게이지 <<1>> 을 얻습니다. 이 효과는 <<4>>에 한 번씩 발동됩니다."
+
+#: 198758357-0-60413
+msgctxt "198758357-0-60413"
+msgid "Last Stand"
+msgstr "Last Stand"
+
+#: 132143172-0-60407
+msgctxt "132143172-0-60407"
+msgid "When you use Bash, you have a |cffffff20|r% chance to heal for <<1>> Health."
+msgstr "밀어치기를 사용하면 |cffffff20|r% 확률로 체력을 <<1>> 회복합니다."
+
+#: 198758357-0-60407
+msgctxt "198758357-0-60407"
+msgid "Invigorating Bash"
+msgstr "Invigorating Bash"
+
+#: 132143172-0-60398
+msgctxt "132143172-0-60398"
+msgid "When you use Bash, you have a |cffffff33|r% chance to reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr "밀어치기를 사용하면 |cffffff33|r% 확률로 적의 이동 속도를 <<2>> 동안 <<1>> 감소시킵니다."
+
+#: 198758357-0-60398
+msgctxt "198758357-0-60398"
+msgid "Ensnare"
+msgstr "Ensnare"
+
+#: 132143172-0-60384
+msgctxt "132143172-0-60384"
+msgid "Increases your Critical Resistance by <<1>>."
+msgstr "치명타 저항이 <<1>> 증가합니다."
+
+#: 198758357-0-60384
+msgctxt "198758357-0-60384"
+msgid "Resistant"
+msgstr "Resistant"
+
+#: 132143172-0-60374
+msgctxt "132143172-0-60374"
+msgid "Increases your Health Recovery by <<1>>."
+msgstr "체력 재생량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-60374
+msgctxt "198758357-0-60374"
+msgid "Healthy"
+msgstr "Healthy"
+
+#: 132143172-0-60370
+#, fuzzy
+msgctxt "132143172-0-60370"
+msgid "When you deal Critical Damage, you heal for <<1>> Health. This effect can occur once every <<2>>."
+msgstr "즉발 치명타 피해를 입히면 체력을 <<1>> 회복합니다. 이 효과는 <<2>>마다 한 번씩 발동됩니다."
+
+#: 198758357-0-60370
+msgctxt "198758357-0-60370"
+msgid "Critical Leech"
+msgstr "Critical Leech"
+
+#: 132143172-0-60229
+msgctxt "132143172-0-60229"
+msgid "When you block a melee attack, you have a |cffffff15|r% chance to deal <<1>> to the enemy. This effect can occur once every <<2>>."
+msgstr "공격을 방어하면 |cffffff20|r% 확률로 적에게 <<1>>의 피해를 입힙니다. 이 효과는 <<2>>에 한 번씩 발동됩니다."
+
+#: 198758357-0-60229
+msgctxt "198758357-0-60229"
+msgid "Riposte"
+msgstr "Riposte"
+
+#: 132143172-0-59953
+msgctxt "132143172-0-59953"
+msgid "Reduces your damage taken from player Light and Heavy Attacks by <<1>>."
+msgstr "플레이어에게 약공격과 강공격으로 받는 피해를 <<1>> 감소시킵니다."
+
+#: 198758357-0-59953
+msgctxt "198758357-0-59953"
+msgid "Expert Defender"
+msgstr "Expert Defender"
+
+#: 132143172-0-59948
+msgctxt "132143172-0-59948"
+msgid "Increases the effectiveness of your damage shields by <<1>>."
+msgstr "보호막의 효율이 <<1>> 증가합니다."
+
+#: 198758357-0-59948
+msgctxt "198758357-0-59948"
+msgid "Bastion"
+msgstr "Bastion"
+
+#: 132143172-0-59893
+msgctxt "132143172-0-59893"
+msgid "When you drink a potion, you gain a damage shield that absorbs <<1>> damage for <<2>>."
+msgstr "포션을 마시면 <<2>>동안 <<1>>의 피해를 흡수하는 보호막을 얻습니다."
+
+#: 198758357-0-59893
+msgctxt "198758357-0-59893"
+msgid "Determination"
+msgstr "Determination"
+
+#: 132143172-0-59630
+msgctxt "132143172-0-59630"
+msgid "Increases your healing done by <<1>>."
+msgstr "치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-59630
+msgctxt "198758357-0-59630"
+msgid "Blessed"
+msgstr "Blessed"
+
+#: 132143172-0-59626
+msgctxt "132143172-0-59626"
+msgid "Increases your Spell Critical by <<1>>."
+msgstr "마법 치명타가 <<1>> 증가합니다."
+
+#: 198758357-0-59626
+msgctxt "198758357-0-59626"
+msgid "Spell Precision"
+msgstr "Spell Precision"
+
+#: 132143172-0-59582
+msgctxt "132143172-0-59582"
+msgid "When you resurrect another player, you increase their Magicka Recovery by <<1>> for <<2>>."
+msgstr "다른 플레이어를 부활시키면, 부활시킨 플레이어의 매지카 재생을 <<2>>동안 <<1>>만큼 증가시킵니다."
+
+#: 198758357-0-59582
+msgctxt "198758357-0-59582"
+msgid "Infusion"
+msgstr "Infusion"
+
+#: 132143172-0-59577
+msgctxt "132143172-0-59577"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr "매지카 재생량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-59577
+msgctxt "198758357-0-59577"
+msgid "Arcanist"
+msgstr "Arcanist"
+
+#: 132143172-0-59526
+msgctxt "132143172-0-59526"
+msgid "When you drink a potion, the cost of your next Magicka ability used within <<1>> is reduced by <<2>>."
+msgstr "포션을 마시면 <<1>> 안에 사용하는 다음 매지카 어빌리티의 비용이 <<2>> 감소합니다."
+
+#: 198758357-0-59526
+msgctxt "198758357-0-59526"
+msgid "Foresight"
+msgstr "Foresight"
+
+#: 132143172-0-59418
+msgctxt "132143172-0-59418"
+msgid "Increases your Weapon Critical by <<1>>."
+msgstr "무기 치명타가 <<1>> 증가합니다."
+
+#: 198758357-0-59418
+msgctxt "198758357-0-59418"
+msgid "Perfect Strike"
+msgstr "Perfect Strike"
+
+#: 132143172-0-59346
+msgctxt "132143172-0-59346"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "스태미나 재생량이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-59346
+msgctxt "198758357-0-59346"
+msgid "Mooncalf"
+msgstr "Mooncalf"
+
+#: 132143172-0-59300
+msgctxt "132143172-0-59300"
+msgid "While you are resurrecting another player, your damage taken is reduced by <<1>>."
+msgstr "다른 플레이어를 부활시키는 중에 받는 피해가 <<1>> 감소합니다."
+
+#: 198758357-0-59300
+msgctxt "198758357-0-59300"
+msgid "Field Physician"
+msgstr "Field Physician"
+
+#: 132143172-0-59298
+msgctxt "132143172-0-59298"
+msgid "Increases the effectiveness of your healing reduction abilities by <<1>>."
+msgstr "치유 효과 감소 어빌리티의 효율이 <<1>> 증가합니다."
+
+#: 198758357-0-59298
+msgctxt "198758357-0-59298"
+msgid "Befoul"
+msgstr "Befoul"
+
+#: 132143172-0-59286
+msgctxt "132143172-0-59286"
+msgid "When you use Break Free, the cost of your next Stamina ability used within <<1>> is reduced by <<2>>."
+msgstr "벗어나기를 사용하면 <<1>> 안에 사용하는 다음 스태미나 어빌리티의 비용이 <<2>> 감소합니다."
+
+#: 198758357-0-59286
+msgctxt "198758357-0-59286"
+msgid "Unchained"
+msgstr "Unchained"
+
+#: 132143172-0-59120
+msgctxt "132143172-0-59120"
+msgid "Increases your Physical Resistance by <<1>> while wearing |cffffff5|r or more pieces of Medium Armor."
+msgstr "경갑을 |cffffff5|r 부위 이상 장착하면 물리 저항력이 <<1>> 증가합니다."
+
+#: 198758357-0-59120
+msgctxt "198758357-0-59120"
+msgid "Medium Armor Focus"
+msgstr "Medium Armor Focus"
+
+#: 132143172-0-59105
+msgctxt "132143172-0-59105"
+msgid "Increases your Critical Damage and Critical Healing with Stamina abilities by <<1>>."
+msgstr "스태미나 어빌리티의 치명타 피해량과 치명타 치유량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-59105
+msgctxt "198758357-0-59105"
+msgid "Precise Strikes"
+msgstr "Precise Strikes"
+
+#: 132143172-0-58899
+msgctxt "132143172-0-58899"
+msgid "Reduces the cost of Bash by <<1>>."
+msgstr "밀어치기의 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-58899
+msgctxt "198758357-0-58899"
+msgid "Bashing Focus"
+msgstr "Bashing Focus"
+
+#: 132143172-0-56630
+msgctxt "132143172-0-56630"
+msgid "Increases the amount of gold you find in treasure chests and safeboxes by <<1>>."
+msgstr "보물 상자와 금고에서 발견하는 골드가 <<1>> 증가합니다."
+
+#: 198758357-0-56630
+msgctxt "198758357-0-56630"
+msgid "Fortune Seeker"
+msgstr "Fortune Seeker"

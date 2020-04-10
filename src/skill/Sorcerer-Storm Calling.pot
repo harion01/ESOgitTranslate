@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-45195
+msgctxt "132143172-0-45195"
+msgid "Increases your Weapon and Spell Damage by <<1>> for each Sorcerer ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-45195
+msgctxt "198758357-0-45195"
+msgid "Expert Mage"
+msgstr ""
+
+#: 132143172-0-45192
+msgctxt "132143172-0-45192"
+msgid "Increases your damage done against enemies by |cffffff1|r% for every |cffffff10|r% current Health they have."
+msgstr ""
+
+#: 198758357-0-45192
+msgctxt "198758357-0-45192"
+msgid "Amplitude"
+msgstr ""
+
+#: 132143172-0-45190
+msgctxt "132143172-0-45190"
+msgid "Increases your Physical and Shock Damage by <<1>>."
+msgstr ""
+
+#: 198758357-0-45190
+msgctxt "198758357-0-45190"
+msgid "Energized"
+msgstr ""
+
+#: 132143172-0-45188
+msgctxt "132143172-0-45188"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr ""
+
+#: 198758357-0-45188
+msgctxt "198758357-0-45188"
+msgid "Capacitor"
+msgstr ""
+
+#: 132143172-0-31425
+msgctxt "132143172-0-31425"
+msgid "Increases your Weapon and Spell Damage by <<1>> for each Sorcerer ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-31425
+msgctxt "198758357-0-31425"
+msgid "Expert Mage"
+msgstr ""
+
+#: 132143172-0-31422
+msgctxt "132143172-0-31422"
+msgid "Increases your damage done against enemies by |cffffff1|r% for every |cffffff20|r% current Health they have."
+msgstr ""
+
+#: 198758357-0-31422
+msgctxt "198758357-0-31422"
+msgid "Amplitude"
+msgstr ""
+
+#: 132143172-0-31421
+msgctxt "132143172-0-31421"
+msgid "Increases your Physical and Shock Damage by <<1>>."
+msgstr ""
+
+#: 198758357-0-31421
+msgctxt "198758357-0-31421"
+msgid "Energized"
+msgstr ""
+
+#: 132143172-0-31419
+msgctxt "132143172-0-31419"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr ""
+
+#: 198758357-0-31419
+msgctxt "198758357-0-31419"
+msgid "Capacitor"
+msgstr ""
+
+#: 132143172-0-24806
+msgctxt "132143172-0-24806"
+msgid "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing <<1>> to an enemy up to |cffffff32|r meters away.  \n\nHeavy Attacks blast enemies in a |cffffff6 x 8|r area for <<2>>.\n\nAttacks deplete Ultimate until you run out, or the ability is toggled off."
+msgstr ""
+
+#: 198758357-0-24806
+msgctxt "198758357-0-24806"
+msgid "Power Overload"
+msgstr ""
+
+#: 132143172-0-24804
+msgctxt "132143172-0-24804"
+msgid "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.  Each attack restores <<1>> Magicka.\n\nLight Attacks become lightning bolts, dealing <<2>> to an enemy up to |cffffff28|r meters away.  \n\nHeavy Attacks blast enemies in a |cffffff4 x 6|r area for <<3>>.\n\nAttacks deplete Ultimate until you run out, or the ability is toggled off."
+msgstr ""
+
+#: 198758357-0-24804
+msgctxt "198758357-0-24804"
+msgid "Energy Overload"
+msgstr ""
+
+#: 132143172-0-24785
+msgctxt "132143172-0-24785"
+msgid "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing <<1>> to an enemy up to |cffffff28|r meters away.  \n\nHeavy Attacks blast enemies in a |cffffff4 x 6|r area for <<2>>.\n\nAttacks deplete Ultimate until you run out, or the ability is toggled off."
+msgstr ""
+
+#: 198758357-0-24785
+msgctxt "198758357-0-24785"
+msgid "Overload"
+msgstr ""
+
+#: 132143172-0-23678
+msgctxt "132143172-0-23678"
+msgid "Invoke Meridia's name to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>.\n\nWhile active, dealing Critical Damage heals you for <<3>> Health. This effect can occur once every <<4>>."
+msgstr ""
+
+#: 198758357-0-23678
+msgctxt "198758357-0-23678"
+msgid "Critical Surge"
+msgstr ""
+
+#: 132143172-0-23674
+msgctxt "132143172-0-23674"
+msgid "Invoke Meridia's name to gain Major Brutality and Major Sorcery, increasing your Weapon Damage and Spell Damage by <<1>> for <<2>>.\n\nWhile active, activating a Critical heal causes the ability to heal you and your allies around you for <<3>> Health. This effect can occur once every <<4>>."
+msgstr ""
+
+#: 198758357-0-23674
+msgctxt "198758357-0-23674"
+msgid "Power Surge"
+msgstr ""
+
+#: 132143172-0-23670
+msgctxt "132143172-0-23670"
+msgid "Invoke Meridia's name to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>.\n\nWhile active, dealing Critical Damage heals you for <<3>> Health. This effect can occur once every <<4>>."
+msgstr ""
+
+#: 198758357-0-23670
+msgctxt "198758357-0-23670"
+msgid "Surge"
+msgstr ""
+
+#: 132143172-0-23277
+msgctxt "132143172-0-23277"
+msgid "Transform yourself into pure energy and flash forward.  After reaching your location, you become immune to snare and immobilize effects for <<1>>. A ball of lightning is created at this location as well, which absorbs incoming projectiles for <<2>>.\n\nCasting again within <<3>> costs <<4>> more Magicka."
+msgstr ""
+
+#: 198758357-0-23277
+msgctxt "198758357-0-23277"
+msgid "Ball of Lightning"
+msgstr ""
+
+#: 132143172-0-23236
+msgctxt "132143172-0-23236"
+msgid "Transform yourself into pure energy and flash forward, dealing <<1>> to enemies in your wake and stunning them for <<2>>.\n\nThis effect cannot be blocked.\n\nCasting again within <<3>> costs <<4>> more Magicka.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-23236
+msgctxt "198758357-0-23236"
+msgid "Streak"
+msgstr ""
+
+#: 132143172-0-23234
+msgctxt "132143172-0-23234"
+msgid "Transform yourself into pure energy and flash forward, stunning enemies near your final location for <<1>>. \n\nThis effect cannot be blocked.\n\nCasting again within <<2>> costs <<3>> more Magicka."
+msgstr ""
+
+#: 198758357-0-23234
+msgctxt "198758357-0-23234"
+msgid "Bolt Escape"
+msgstr ""
+
+#: 132143172-0-23231
+msgctxt "132143172-0-23231"
+msgid "Manifest yourself as pure air, buffeting nearby enemies with wind dealing <<1>> every <<2>> for <<3>>. The winds grow in damage and size, increasing up to |cffffff150|r% more damage and up to |cffffff9|r meters in size.\n\nWhile in this form you gain Major Resolve and Minor Expedition, increasing your Physical and Spell Resistance by <<4>> and your Movement Speed by <<5>>."
+msgstr ""
+
+#: 198758357-0-23231
+msgctxt "198758357-0-23231"
+msgid "Hurricane"
+msgstr ""
+
+#: 132143172-0-23213
+msgctxt "132143172-0-23213"
+msgid "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing <<1>> every <<2>> for <<3>>.\n\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by <<4>>.\n\nActivating this grants Major Expedition for a brief period, increasing your Movement Speed <<5>> for <<6>>."
+msgstr ""
+
+#: 198758357-0-23213
+msgctxt "198758357-0-23213"
+msgid "Boundless Storm"
+msgstr ""
+
+#: 132143172-0-23210
+msgctxt "132143172-0-23210"
+msgid "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing <<1>> every <<2>> for <<3>>.  \n\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by <<4>>."
+msgstr ""
+
+#: 198758357-0-23210
+msgctxt "198758357-0-23210"
+msgid "Lightning Form"
+msgstr ""
+
+#: 132143172-0-23205
+msgctxt "132143172-0-23205"
+msgid "Create a nexus of storm energy at the target location, dealing <<1>> to enemies in the area every <<2>> for <<3>>.\n \nAn ally standing within the nexus can activate the |cffffffConduit|r synergy, dealing <<4>> to enemies around them."
+msgstr ""
+
+#: 198758357-0-23205
+msgctxt "198758357-0-23205"
+msgid "Lightning Flood"
+msgstr ""
+
+#: 132143172-0-23200
+msgctxt "132143172-0-23200"
+msgid "Create a nexus of storm energy at the target location, dealing <<1>> to enemies in the area every <<2>> for <<3>>.\n \nAn ally standing within the nexus can activate the |cffffffConduit|r synergy, dealing <<4>> to enemies around them."
+msgstr ""
+
+#: 198758357-0-23200
+msgctxt "198758357-0-23200"
+msgid "Liquid Lightning"
+msgstr ""
+
+#: 132143172-0-23182
+msgctxt "132143172-0-23182"
+msgid "Create a nexus of storm energy at the target location, dealing <<1>> to enemies in the area every <<2>> for <<3>>.\n \nAn ally standing within the nexus can activate the |cffffffConduit|r synergy, dealing <<4>> to enemies around them."
+msgstr ""
+
+#: 198758357-0-23182
+msgctxt "198758357-0-23182"
+msgid "Lightning Splash"
+msgstr ""
+
+#: 132143172-0-19123
+msgctxt "132143172-0-19123"
+msgid "Call down lightning to strike an enemy, dealing <<1>>.\n\nIf the enemy falls to or below |cffffff20|r% Health within <<2>> of being struck, an explosion deals an additional <<3>> to them and <<4>> to other enemies nearby."
+msgstr ""
+
+#: 198758357-0-19123
+msgctxt "198758357-0-19123"
+msgid "Mages' Wrath"
+msgstr ""
+
+#: 132143172-0-19109
+msgctxt "132143172-0-19109"
+msgid "Call down lightning to strike an enemy, dealing <<1>>.\n\nIf the enemy falls to or below |cffffff20|r% Health within <<2>> of being struck, an explosion deals an additional <<3>> to them and <<4>> to other enemies nearby.\n\nIf any enemy is killed within |cffffff5|r seconds of being hit with this ability, you restore <<5>> Magicka."
+msgstr ""
+
+#: 198758357-0-19109
+msgctxt "198758357-0-19109"
+msgid "Endless Fury"
+msgstr ""
+
+#: 132143172-0-18718
+msgctxt "132143172-0-18718"
+msgid "Call down lightning to strike an enemy, dealing <<1>>.\n\nIf the enemy falls to or below |cffffff20|r% Health within <<2>> of being struck, an explosion deals an additional <<3>> to them and <<4>> to other enemies nearby."
+msgstr ""
+
+#: 198758357-0-18718
+msgctxt "198758357-0-18718"
+msgid "Mages' Fury"
+msgstr ""

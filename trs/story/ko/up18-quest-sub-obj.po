@@ -1,0 +1,852 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 256430276-0-48275
+msgctxt "256430276-0-48275"
+msgid "Help Save Sapiarch Imedril"
+msgstr "새피아크 이메드릴 구출 돕기"
+
+#: 256430276-0-48103
+msgctxt "256430276-0-48103"
+msgid "Attend the Kinlady's Meeting"
+msgstr "혈족부인의 회의에 참석하기"
+
+#: 256430276-0-47838
+msgctxt "256430276-0-47838"
+msgid "Find Sapiarch Imedril"
+msgstr "새피아크 이메드릴 찾기"
+
+#: 256430276-0-47784
+msgctxt "256430276-0-47784"
+msgid "Talk to <<1>> and Talk to <<2>>"
+msgstr "<<1>> 그리고 <<2>>과(와) 대화하기"
+
+#: 256430276-0-47699
+msgctxt "256430276-0-47699"
+msgid "Save the City of Cloudrest"
+msgstr "클라우드레스트 도시를 구하기"
+
+#: 256430276-0-47698
+msgctxt "256430276-0-47698"
+msgid "Save the City of Cloudrest"
+msgstr "클라우드레스트 도시를 구하기"
+
+#: 256430276-0-47694
+msgctxt "256430276-0-47694"
+msgid "Defeat Z'Maja"
+msgstr "지'마자 처치하기"
+
+#: 256430276-0-47543
+msgctxt "256430276-0-47543"
+msgid "Talk to Felarian"
+msgstr "페라리안과 대화"
+
+#: 256430276-0-47539
+msgctxt "256430276-0-47539"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 256430276-0-47367
+msgctxt "256430276-0-47367"
+msgid "Place Hannayel's Books"
+msgstr "하나옐의 책 놓기"
+
+#: 256430276-0-47281
+msgctxt "256430276-0-47281"
+msgid "Talk to Battlereeve Tanerline"
+msgstr "Battlereeve Tanerline과 대화하기"
+
+#: 256430276-0-47261
+msgctxt "256430276-0-47261"
+msgid "Find Sapiarch Imedril"
+msgstr "새피아크 이메드릴 찾기"
+
+#: 256430276-0-47260
+msgctxt "256430276-0-47260"
+msgid "Talk to Earl Leythen"
+msgstr "가신 레이선과 대화하기"
+
+#: 256430276-0-47238
+msgctxt "256430276-0-47238"
+msgid "Talk to Grog"
+msgstr "그로그와 대화하기"
+
+#: 256430276-0-47122
+msgctxt "256430276-0-47122"
+msgid "Talk to Talomar"
+msgstr "탈로마와 대화하기"
+
+#: 256430276-0-47026
+msgctxt "256430276-0-47026"
+msgid "Talk to Renzir"
+msgstr "렌지르와 대화하기"
+
+#: 256430276-0-47025
+msgctxt "256430276-0-47025"
+msgid "Talk to Nubani"
+msgstr "누바니와의 대화하기"
+
+#: 256430276-0-46933
+msgctxt "256430276-0-46933"
+msgid "Leave the Crystal Tower"
+msgstr "수정탑을 떠나기"
+
+#: 256430276-0-46733
+msgctxt "256430276-0-46733"
+msgid "Talk to Niralin"
+msgstr "니랄린과 대화하기"
+
+#: 256430276-0-46710
+msgctxt "256430276-0-46710"
+msgid "Gather Hannayel's Books"
+msgstr "하나옐의 책 모으기"
+
+#: 256430276-0-46709
+msgctxt "256430276-0-46709"
+msgid "Go to the Histories Collection Room"
+msgstr "역사 수집실로 이동하기"
+
+#: 256430276-0-46687
+msgctxt "256430276-0-46687"
+msgid "Help Save Sapiarch Imedril"
+msgstr "새피아크 이메드릴 구출 돕기"
+
+#: 256430276-0-46686
+msgctxt "256430276-0-46686"
+msgid "Burn Mephala's Webs"
+msgstr "메팔라의 거미줄 태우기"
+
+#: 256430276-0-46685
+msgctxt "256430276-0-46685"
+msgid "Help Save Sapiarch Imedril"
+msgstr "새피아크 이메드릴 구출 돕기"
+
+#: 256430276-0-46564
+msgctxt "256430276-0-46564"
+msgid "Talk to Mehdze"
+msgstr "멧제와 대화하기"
+
+#: 256430276-0-46536
+msgctxt "256430276-0-46536"
+msgid "Watch Lindafwe"
+msgstr "Lindafwe를 지켜보기"
+
+#: 256430276-0-46425
+msgctxt "256430276-0-46425"
+msgid "Question Bystanders"
+msgstr "구경꾼들에게 질문"
+
+#: 256430276-0-46401
+msgctxt "256430276-0-46401"
+msgid "Talk to Battlereeve Farwenya"
+msgstr "Battlereeve Farwenya와 대화하기"
+
+#: 256430276-0-46399
+msgctxt "256430276-0-46399"
+msgid "Talk to Castire"
+msgstr "캐스티어와 대화하기"
+
+#: 256430276-0-46384
+msgctxt "256430276-0-46384"
+msgid "Talk to the Court of Bedlam"
+msgstr "혼돈의 궁전 일원과 대화하기"
+
+#: 256430276-0-46256
+msgctxt "256430276-0-46256"
+msgid "Watch Silurie's Spell"
+msgstr "사이루리의 마법 지켜보기"
+
+#: 256430276-0-46225
+msgctxt "256430276-0-46225"
+msgid "Follow Silurie"
+msgstr "사이루리 따라가기"
+
+#: 256430276-0-46209
+msgctxt "256430276-0-46209"
+msgid "Read the Illuminus"
+msgstr "빛나는 책을 읽기"
+
+#: 256430276-0-46201
+msgctxt "256430276-0-46201"
+msgid "Locate Erudil's Friends"
+msgstr "Erudil 's 친구들 찾기"
+
+#: 256430276-0-46142
+msgctxt "256430276-0-46142"
+msgid "Talk to Erudil"
+msgstr "에루딜과 대화하기"
+
+#: 256430276-0-42915
+msgctxt "256430276-0-42915"
+msgid "Talk to Narsis Dren"
+msgstr "나르시스 드렌과 대화하기"
+
+#: 121487972-0-13447
+msgctxt "121487972-0-13447"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-13411
+msgctxt "121487972-0-13411"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13410
+msgctxt "121487972-0-13410"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13409
+msgctxt "121487972-0-13409"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13408
+msgctxt "121487972-0-13408"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13407
+msgctxt "121487972-0-13407"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13406
+msgctxt "121487972-0-13406"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13405
+msgctxt "121487972-0-13405"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13404
+msgctxt "121487972-0-13404"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13403
+msgctxt "121487972-0-13403"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13402
+msgctxt "121487972-0-13402"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13400
+msgctxt "121487972-0-13400"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13399
+msgctxt "121487972-0-13399"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13398
+msgctxt "121487972-0-13398"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13397
+msgctxt "121487972-0-13397"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13396
+msgctxt "121487972-0-13396"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13395
+msgctxt "121487972-0-13395"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13394
+msgctxt "121487972-0-13394"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13393
+msgctxt "121487972-0-13393"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13392
+msgctxt "121487972-0-13392"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13386
+msgctxt "121487972-0-13386"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13385
+msgctxt "121487972-0-13385"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13384
+msgctxt "121487972-0-13384"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13383
+msgctxt "121487972-0-13383"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13382
+msgctxt "121487972-0-13382"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-13381
+msgctxt "121487972-0-13381"
+msgid "Return to Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13380
+msgctxt "121487972-0-13380"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13379
+msgctxt "121487972-0-13379"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13378
+msgctxt "121487972-0-13378"
+msgid "Return to the Conquest Mission Board."
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13377
+msgctxt "121487972-0-13377"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13376
+msgctxt "121487972-0-13376"
+msgid "Return to Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13375
+msgctxt "121487972-0-13375"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13374
+msgctxt "121487972-0-13374"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13373
+msgctxt "121487972-0-13373"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13372
+msgctxt "121487972-0-13372"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13371
+msgctxt "121487972-0-13371"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13369
+msgctxt "121487972-0-13369"
+msgid "Deliver the Garment"
+msgstr "의복을 배달하기"
+
+#: 121487972-0-13367
+msgctxt "121487972-0-13367"
+msgid "Deliver the Jewelry"
+msgstr "쥬얼리 배달하기"
+
+#: 121487972-0-13366
+msgctxt "121487972-0-13366"
+msgid "Return to the Conquest Mission Board"
+msgstr "정찰 임무 게시판으로 돌아가기"
+
+#: 121487972-0-13361
+msgctxt "121487972-0-13361"
+msgid "Talk to Battlereeve Tanerline"
+msgstr "Battlereeve Tanerline과 대화하기"
+
+#: 121487972-0-13337
+msgctxt "121487972-0-13337"
+msgid "Talk to Loremaster Celarus"
+msgstr "로어마스터 켈라루스와 대화하기"
+
+#: 121487972-0-13334
+msgctxt "121487972-0-13334"
+msgid "Talk to Loremaster Celarus"
+msgstr "로어마스터 켈라루스와 대화하기"
+
+#: 121487972-0-13328
+msgctxt "121487972-0-13328"
+msgid "Talk to Loremaster Celarus"
+msgstr "로어마스터 켈라루스와 대화하기"
+
+#: 121487972-0-13322
+msgctxt "121487972-0-13322"
+msgid "Talk to Celarus"
+msgstr "켈라루스와 대화하기"
+
+#: 121487972-0-13320
+msgctxt "121487972-0-13320"
+msgid "Talk to Loremaster Celarus"
+msgstr "로어마스터 켈라루스와 대화하기"
+
+#: 121487972-0-13317
+msgctxt "121487972-0-13317"
+msgid "Talk to Loremaster Celarus"
+msgstr "로어마스터 켈라루스와 대화하기"
+
+#: 121487972-0-13315
+msgctxt "121487972-0-13315"
+msgid "Talk to Josajeh"
+msgstr "조사제와 대화하기"
+
+#: 121487972-0-13310
+msgctxt "121487972-0-13310"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13309
+msgctxt "121487972-0-13309"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13308
+msgctxt "121487972-0-13308"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13307
+msgctxt "121487972-0-13307"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13306
+msgctxt "121487972-0-13306"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13305
+msgctxt "121487972-0-13305"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13304
+msgctxt "121487972-0-13304"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13300
+msgctxt "121487972-0-13300"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13297
+msgctxt "121487972-0-13297"
+msgid "Talk to Loremaster Celarus"
+msgstr "로어마스터 켈라루스와 대화하기"
+
+#: 121487972-0-13296
+msgctxt "121487972-0-13296"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13284
+msgctxt "121487972-0-13284"
+msgid "Talk to Celarus"
+msgstr "켈라루스와 대화하기"
+
+#: 121487972-0-13277
+msgctxt "121487972-0-13277"
+msgid "Talk to Josajeh"
+msgstr "조사제와 대화하기"
+
+#: 121487972-0-13276
+msgctxt "121487972-0-13276"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13273
+msgctxt "121487972-0-13273"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13268
+msgctxt "121487972-0-13268"
+msgid "Talk to Felarian"
+msgstr "페라리안과 대화하기"
+
+#: 121487972-0-13267
+msgctxt "121487972-0-13267"
+msgid "Talk to Felarian"
+msgstr "페라리안과 대화하기"
+
+#: 121487972-0-13262
+msgctxt "121487972-0-13262"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13261
+msgctxt "121487972-0-13261"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13247
+msgctxt "121487972-0-13247"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13244
+msgctxt "121487972-0-13244"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13242
+msgctxt "121487972-0-13242"
+msgid "Talk to Oriandra"
+msgstr "오리안드라와 대화하기"
+
+#: 121487972-0-13233
+msgctxt "121487972-0-13233"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13230
+msgctxt "121487972-0-13230"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13214
+msgctxt "121487972-0-13214"
+msgid "Talk to Battlereeve Tanerline"
+msgstr "Battlereeve Tanerline과 대화하기"
+
+#: 121487972-0-13204
+msgctxt "121487972-0-13204"
+msgid "Talk to Battlereeve Tanerline"
+msgstr "Battlereeve Tanerline과 대화하기"
+
+#: 121487972-0-13184
+msgctxt "121487972-0-13184"
+msgid "Talk to Talomar"
+msgstr "탈로마와 대화하기"
+
+#: 121487972-0-13175
+msgctxt "121487972-0-13175"
+msgid "Talk to Renzir"
+msgstr "렌지르와 대화하기"
+
+#: 121487972-0-13170
+msgctxt "121487972-0-13170"
+msgid "Talk to Renzir"
+msgstr "렌지르와 대화하기"
+
+#: 121487972-0-13169
+msgctxt "121487972-0-13169"
+msgid "Talk to Renzir"
+msgstr "렌지르와 대화하기"
+
+#: 121487972-0-13166
+msgctxt "121487972-0-13166"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13165
+msgctxt "121487972-0-13165"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13164
+msgctxt "121487972-0-13164"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13163
+msgctxt "121487972-0-13163"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13162
+msgctxt "121487972-0-13162"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13152
+msgctxt "121487972-0-13152"
+msgid "Talk to Razum-dar"
+msgstr "라줌-다르와 대화하기"
+
+#: 121487972-0-13151
+msgctxt "121487972-0-13151"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13135
+msgctxt "121487972-0-13135"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13133
+msgctxt "121487972-0-13133"
+msgid "Talk to Kinlady Helenaere"
+msgstr "Kinlady Helenaere와 대화하기"
+
+#: 121487972-0-13126
+msgctxt "121487972-0-13126"
+msgid "Talk to Hiranesse"
+msgstr "히라네세와 대화하기"
+
+#: 121487972-0-13120
+msgctxt "121487972-0-13120"
+msgid "Talk to Esterdel"
+msgstr "에스터델과 대화하기"
+
+#: 121487972-0-13119
+msgctxt "121487972-0-13119"
+msgid "Talk to Esterdel"
+msgstr "에스터델과 대화하기"
+
+#: 121487972-0-13115
+msgctxt "121487972-0-13115"
+msgid "Talk to Captain Telomure"
+msgstr "지휘부관 텔로무어와 대화하기"
+
+#: 121487972-0-13114
+msgctxt "121487972-0-13114"
+msgid "Talk to Esterdel"
+msgstr "에스터델과 대화하기"
+
+#: 121487972-0-13113
+msgctxt "121487972-0-13113"
+msgid "Talk to Faidur"
+msgstr "파이두어와 대화하기"
+
+#: 121487972-0-13099
+msgctxt "121487972-0-13099"
+msgid "Talk to Oriandra"
+msgstr "오리안드라와 대화하기"
+
+#: 121487972-0-13095
+msgctxt "121487972-0-13095"
+msgid "Talk to Mehdze"
+msgstr "멧제와 대화하기"
+
+#: 121487972-0-13091
+msgctxt "121487972-0-13091"
+msgid "Talk to the Ritemaster"
+msgstr "라이트마스터와 대화하기"
+
+#: 121487972-0-13087
+msgctxt "121487972-0-13087"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-13086
+msgctxt "121487972-0-13086"
+msgid "Talk to Manacar"
+msgstr "마나카와 대화하기"
+
+#: 121487972-0-13085
+msgctxt "121487972-0-13085"
+msgid "Talk to Tableau"
+msgstr "Tableau와 대화하기"
+
+#: 121487972-0-13084
+msgctxt "121487972-0-13084"
+msgid "Talk to Valtarion"
+msgstr "Valtarion과 대화하기"
+
+#: 121487972-0-13082
+msgctxt "121487972-0-13082"
+msgid "Talk to Mehdze"
+msgstr "멧제와 대화하기"
+
+#: 121487972-0-13080
+msgctxt "121487972-0-13080"
+msgid "Talk to Erator"
+msgstr "Erator와 대화하기"
+
+#: 121487972-0-13076
+msgctxt "121487972-0-13076"
+msgid "Talk to Seeks-the-Dark"
+msgstr "Seeks-the-Dark와 대화하기"
+
+#: 121487972-0-13071
+msgctxt "121487972-0-13071"
+msgid "Talk to Relicmaster Glenadir"
+msgstr "렐릭마스터 글레나디르와 대화하기 "
+
+#: 121487972-0-13065
+msgctxt "121487972-0-13065"
+msgid "Talk to Elsoreth"
+msgstr "엘소레스와 대화"
+
+#: 121487972-0-13063
+msgctxt "121487972-0-13063"
+msgid "Talk to Ritemaster Iachesis"
+msgstr "라이트마스터 아이키시스와 대화하기"
+
+#: 121487972-0-13062
+msgctxt "121487972-0-13062"
+msgid "Talk to Battlereeve Farwenya"
+msgstr "Battlereeve Farwenya와 대화하기"
+
+#: 121487972-0-13061
+msgctxt "121487972-0-13061"
+msgid "Talk to Battlereeve Farwenya"
+msgstr "Battlereeve Farwenya와 대화하기"
+
+#: 121487972-0-13060
+msgctxt "121487972-0-13060"
+msgid "Talk to Battlereeve Farwenya"
+msgstr "Battlereeve Farwenya와 대화하기"
+
+#: 121487972-0-13054
+msgctxt "121487972-0-13054"
+msgid "Talk to Vaerelel"
+msgstr "Vaerelel과 대화하기"
+
+#: 121487972-0-13053
+msgctxt "121487972-0-13053"
+msgid "Talk to Tindoria"
+msgstr "Tindoria와 대화하기"
+
+#: 121487972-0-13049
+msgctxt "121487972-0-13049"
+msgid "Talk to Ulliceta"
+msgstr "울리세타 와 대화하기"
+
+#: 121487972-0-13048
+msgctxt "121487972-0-13048"
+msgid "Talk to Sotha Sil"
+msgstr "소사 실과 대화하기"
+
+#: 121487972-0-13047
+msgctxt "121487972-0-13047"
+msgid "Talk to Valsirenn"
+msgstr "발시렌과 대화하기"
+
+#: 121487972-0-13039
+msgctxt "121487972-0-13039"
+msgid "Talk to Talomar"
+msgstr "탈로마와 대화하기"
+
+#: 121487972-0-13032
+msgctxt "121487972-0-13032"
+msgid "Talk to Andewen"
+msgstr "안데웬과 대화하기"
+
+#: 121487972-0-13030
+msgctxt "121487972-0-13030"
+msgid "Talk to Erator"
+msgstr "Erator와 대화하기"
+
+#: 121487972-0-13029
+msgctxt "121487972-0-13029"
+msgid "Talk to Silurie"
+msgstr "사이루리와 대화하기"
+
+#: 121487972-0-13020
+msgctxt "121487972-0-13020"
+msgid "Talk to the Mother of Rats"
+msgstr "쥐들의 어머니와 대화하기"
+
+#: 121487972-0-13015
+msgctxt "121487972-0-13015"
+msgid "Talk to Erudil"
+msgstr "에루딜과 대화하기"
+
+#: 121487972-0-13013
+msgctxt "121487972-0-13013"
+msgid "Talk to Rinyde"
+msgstr "리나이드와 대화하기"
+
+#: 121487972-0-13012
+msgctxt "121487972-0-13012"
+msgid "Talk to Rinyde"
+msgstr "리나이드와 대화하기"
+
+#: 121487972-0-13010
+msgctxt "121487972-0-13010"
+msgid "Talk to Oriandra"
+msgstr "오리안드라와 대화하기"
+
+#: 121487972-0-13001
+msgctxt "121487972-0-13001"
+msgid "Talk to Ritemaster Iachesis"
+msgstr "라이트마스터 아이키시스와 대화하기"
+
+#: 121487972-0-12995
+msgctxt "121487972-0-12995"
+msgid "Talk to Sapiarch Soraturil"
+msgstr "Sapiarch Soraturil와 대화하기"
+
+#: 121487972-0-12994
+msgctxt "121487972-0-12994"
+msgid "Talk to Sapiarch Soraturil"
+msgstr "Sapiarch Soraturil와 대화하기"
+
+#: 121487972-0-12983
+msgctxt "121487972-0-12983"
+msgid "Talk to Ritemaster Iachesis"
+msgstr "라이트마스터 아이키시스와 대화하기"
+
+#: 121487972-0-12928
+msgctxt "121487972-0-12928"
+msgid "Talk to Ritemaster Iachesis"
+msgstr "라이트마스터 아이키시스와 대화하기"
+
+#: 121487972-0-12899
+msgctxt "121487972-0-12899"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-12898
+msgctxt "121487972-0-12898"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-12897
+msgctxt "121487972-0-12897"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-12896
+msgctxt "121487972-0-12896"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-12895
+msgctxt "121487972-0-12895"
+msgid "Talk to <<1>>"
+msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-12894
+msgctxt "121487972-0-12894"
+msgid "Speak to <<1>>"
+msgstr "<<1>>과 대화하기"

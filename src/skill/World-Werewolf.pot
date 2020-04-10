@@ -1,0 +1,292 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-58879
+msgctxt "132143172-0-58879"
+msgid "Shred enemies in front of you with your tainted claws, dealing <<1>> and an additional <<2>> over <<3>>.  You are healed for <<4>> of the damage over time caused.\n\nEnemies hit by the initial hit are afflicted with the Diseased status effect."
+msgstr ""
+
+#: 198758357-0-58879
+msgctxt "198758357-0-58879"
+msgid "Claws of Life"
+msgstr ""
+
+#: 132143172-0-58864
+msgctxt "132143172-0-58864"
+msgid "Shred enemies in front of you with your tainted claws, dealing <<1>> and an additional <<2>> over <<3>>.\n\nAfflicts enemies with <<4>> for <<5>>, reducing their healing received by <<6>> and Health Recovery by <<7>>.  \n\nEnemies hit by the initial hit are afflicted with the Diseased status effect."
+msgstr ""
+
+#: 198758357-0-58864
+msgctxt "198758357-0-58864"
+msgid "Claws of Anguish"
+msgstr ""
+
+#: 132143172-0-58855
+msgctxt "132143172-0-58855"
+msgid "Shred enemies in front of you with your tainted claws, dealing <<1>> and an additional <<2>> over <<3>>.\n\nEnemies hit by the initial hit are afflicted with the Diseased status effect."
+msgstr ""
+
+#: 198758357-0-58855
+msgctxt "198758357-0-58855"
+msgid "Infectious Claws"
+msgstr ""
+
+#: 132143172-0-58798
+msgctxt "132143172-0-58798"
+msgid "Crush enemy with a deafening howl, dealing <<1>>.\n\nDeals <<2>> more damage to enemies that are feared."
+msgstr ""
+
+#: 198758357-0-58798
+msgctxt "198758357-0-58798"
+msgid "Howl of Agony"
+msgstr ""
+
+#: 132143172-0-58742
+msgctxt "132143172-0-58742"
+msgid "Crush enemy with a deafening howl, dealing <<1>>.\n\nAllies targeting the enemy can activate the |cffffffFeeding Frenzy|r synergy, which grants them unlimited uses of Empower for <<2>>, increasing their damage done with Light Attacks by <<3>>."
+msgstr ""
+
+#: 198758357-0-58742
+msgctxt "198758357-0-58742"
+msgid "Howl of Despair"
+msgstr ""
+
+#: 132143172-0-58405
+msgctxt "132143172-0-58405"
+msgid "Crush enemy with a deafening howl, dealing <<1>>."
+msgstr ""
+
+#: 198758357-0-58405
+msgctxt "198758357-0-58405"
+msgid "Piercing Howl"
+msgstr ""
+
+#: 132143172-0-58325
+msgctxt "132143172-0-58325"
+msgid "Invoke the Huntsman's blessing, healing you for <<1>> Health.  This ability scales off your Max Health."
+msgstr ""
+
+#: 198758357-0-58325
+msgctxt "198758357-0-58325"
+msgid "Hircine's Fortitude"
+msgstr ""
+
+#: 132143172-0-58317
+msgctxt "132143172-0-58317"
+msgid "Invoke the Huntsman's blessing, healing you for <<1>> Health.  This portion of the ability scales off your Max Health. \n\nThe blessing draws out your feral rage, granting you Major Brutality, increasing your Weapon Damage by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-58317
+msgctxt "198758357-0-58317"
+msgid "Hircine's Rage"
+msgstr ""
+
+#: 132143172-0-58310
+msgctxt "132143172-0-58310"
+msgid "Invoke the Huntsman's blessing, healing you for <<1>> Health.  This ability scales off your Max Health."
+msgstr ""
+
+#: 198758357-0-58310
+msgctxt "198758357-0-58310"
+msgid "Hircine's Bounty"
+msgstr ""
+
+#: 132143172-0-46142
+msgctxt "132143172-0-46142"
+msgid "Increases your Movement Speed by <<1>>.\n\nIncreases the Stamina your Heavy Attacks restore by |cffffff50|r%."
+msgstr ""
+
+#: 198758357-0-46142
+msgctxt "198758357-0-46142"
+msgid "Pursuit"
+msgstr ""
+
+#: 132143172-0-46139
+msgctxt "132143172-0-46139"
+msgid "Increases your Weapon Damage by <<1>>.\n\nIncreases your Spell and Physical Resistance by <<2>>."
+msgstr ""
+
+#: 198758357-0-46139
+msgctxt "198758357-0-46139"
+msgid "Savage Strength"
+msgstr ""
+
+#: 132143172-0-46137
+msgctxt "132143172-0-46137"
+msgid "Reduces the cost of remaining in your Werewolf Transformation by |cffffff20|r% for each transformed werewolf in your group, including yourself, up to a maximum of |cffffff80|r%."
+msgstr ""
+
+#: 198758357-0-46137
+msgctxt "198758357-0-46137"
+msgid "Call of the Pack"
+msgstr ""
+
+#: 132143172-0-46135
+msgctxt "132143172-0-46135"
+msgid "When you deal damage, the duration of your Werewolf Transformation is increased by |cffffff4|r seconds. This effect can occur once every <<1>>."
+msgstr ""
+
+#: 198758357-0-46135
+msgctxt "198758357-0-46135"
+msgid "Blood Rage"
+msgstr ""
+
+#: 132143172-0-39114
+msgctxt "132143172-0-39114"
+msgid "Roar with bloodlust to terrify up to |cffffff6|r nearby enemies, fearing them for <<1>> and applying Major Fracture to them, reducing their Physical Resistance by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-39114
+msgctxt "198758357-0-39114"
+msgid "Deafening Roar"
+msgstr ""
+
+#: 132143172-0-39113
+msgctxt "132143172-0-39113"
+msgid "Roar with bloodlust to terrify up to |cffffff6|r nearby enemies, fearing them for <<1>> and setting them Off Balance."
+msgstr ""
+
+#: 198758357-0-39113
+msgctxt "198758357-0-39113"
+msgid "Ferocious Roar"
+msgstr ""
+
+#: 132143172-0-39105
+msgctxt "132143172-0-39105"
+msgid "Pounce on an enemy with primal fury, dealing <<1>> to them and an additional <<2>> to other nearby enemies."
+msgstr ""
+
+#: 198758357-0-39105
+msgctxt "198758357-0-39105"
+msgid "Brutal Pounce"
+msgstr ""
+
+#: 132143172-0-39104
+msgctxt "132143172-0-39104"
+msgid "Pounce on an enemy with primal fury, dealing <<1>>. \n\nPouncing from at least |cffffff10|r meters away adds <<2>> to the duration of your Werewolf Transformation."
+msgstr ""
+
+#: 198758357-0-39104
+msgctxt "198758357-0-39104"
+msgid "Feral Pounce"
+msgstr ""
+
+#: 132143172-0-39076
+msgctxt "132143172-0-39076"
+msgid "Transform into a beast, fearing nearby enemies for <<1>>. \n\nWhile transformed, your Light Attacks apply a bleed for <<2>> over <<3>>, your Heavy Attacks deal |cffffff50|r% splash damage, and your Max Stamina is increased by <<4>>.\n\nWhile slotted, your Stamina Recovery is increased by <<5>>."
+msgstr ""
+
+#: 198758357-0-39076
+msgctxt "198758357-0-39076"
+msgid "Werewolf Berserker"
+msgstr ""
+
+#: 132143172-0-39075
+msgctxt "132143172-0-39075"
+msgid "Transform into a beast, fearing nearby enemies for <<1>>. \n\nWhile transformed your Max Stamina is increased by <<2>> and you summon two direwolves.  The direwolves' basic attacks apply <<3>> for <<4>>, reducing the enemy's damage done by <<5>>.  Their special attacks reduce the enemy's movement speed by <<6>> for <<7>>.  \n\nWhile slotted, your Stamina Recovery is increased by <<8>>."
+msgstr ""
+
+#: 198758357-0-39075
+msgctxt "198758357-0-39075"
+msgid "Pack Leader"
+msgstr ""
+
+#: 132143172-0-32641
+msgctxt "132143172-0-32641"
+msgid "Reduces the cost of remaining in your Werewolf Transformation by |cffffff10|r% for each transformed werewolf in your group, including yourself, up to a maximum of |cffffff40|r%."
+msgstr ""
+
+#: 198758357-0-32641
+msgctxt "198758357-0-32641"
+msgid "Call of the Pack"
+msgstr ""
+
+#: 132143172-0-32639
+msgctxt "132143172-0-32639"
+msgid "Allows you to infect another player with Lycanthropy once every |cffffff7|r days by returning to the Werewolf ritual site. \n\nPlayers already infected with Noxiphilic Sanguivoria cannot be infected with Lycanthropy."
+msgstr ""
+
+#: 198758357-0-32639
+msgctxt "198758357-0-32639"
+msgid "Bloodmoon"
+msgstr ""
+
+#: 132143172-0-32638
+msgctxt "132143172-0-32638"
+msgid "Increases your Weapon Damage by <<1>>.\n\nIncreases your Spell and Physical Resistance by <<2>>."
+msgstr ""
+
+#: 198758357-0-32638
+msgctxt "198758357-0-32638"
+msgid "Savage Strength"
+msgstr ""
+
+#: 132143172-0-32637
+msgctxt "132143172-0-32637"
+msgid "When you deal damage, the duration of your Werewolf Transformation is increased by |cffffff2|r seconds. This effect can occur once every <<1>>."
+msgstr ""
+
+#: 198758357-0-32637
+msgctxt "198758357-0-32637"
+msgid "Blood Rage"
+msgstr ""
+
+#: 132143172-0-32636
+msgctxt "132143172-0-32636"
+msgid "Increases your Movement Speed by <<1>>.\n\nIncreases the Stamina your Heavy Attacks restore by |cffffff25|r%."
+msgstr ""
+
+#: 198758357-0-32636
+msgctxt "198758357-0-32636"
+msgid "Pursuit"
+msgstr ""
+
+#: 132143172-0-32634
+msgctxt "132143172-0-32634"
+msgid "Allows you to devour corpses to increase the duration of your Werewolf Transformation and restore your Health.\n\nEvery second you spend devouring a corpse adds |cffffff3|r seconds to the duration of your Werewolf Transformation and restores |cffffff8|r% of your Max Health. Each corpse can be devoured for up to |cffffff4|r seconds."
+msgstr ""
+
+#: 198758357-0-32634
+msgctxt "198758357-0-32634"
+msgid "Devour"
+msgstr ""
+
+#: 132143172-0-32633
+msgctxt "132143172-0-32633"
+msgid "Roar with bloodlust to terrify up to |cffffff6|r nearby enemies, fearing them for <<1>>."
+msgstr ""
+
+#: 198758357-0-32633
+msgctxt "198758357-0-32633"
+msgid "Roar"
+msgstr ""
+
+#: 132143172-0-32632
+msgctxt "132143172-0-32632"
+msgid "Pounce on an enemy with primal fury, dealing <<1>>."
+msgstr ""
+
+#: 198758357-0-32632
+msgctxt "198758357-0-32632"
+msgid "Pounce"
+msgstr ""
+
+#: 132143172-0-32455
+msgctxt "132143172-0-32455"
+msgid "Transform into a beast, fearing nearby enemies for <<1>>.  \n\nWhile Transformed your Max Stamina is increased by <<2>>.\n\nWhile slotted, your Stamina Recovery is increased by <<3>>."
+msgstr ""
+
+#: 198758357-0-32455
+msgctxt "198758357-0-32455"
+msgid "Werewolf Transformation"
+msgstr ""

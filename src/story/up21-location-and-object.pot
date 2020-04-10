@@ -1,0 +1,1632 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 164009093-1-6022
+msgctxt "164009093-1-6022"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 164009093-1-6008
+msgctxt "164009093-1-6008"
+msgid "Leave Home"
+msgstr ""
+
+#: 164009093-1-6007
+msgctxt "164009093-1-6007"
+msgid "Leave Home"
+msgstr ""
+
+#: 164009093-1-5855
+msgctxt "164009093-1-5855"
+msgid "Boat to Mainland"
+msgstr ""
+
+#: 164009093-1-5826
+msgctxt "164009093-1-5826"
+msgid "Vault of Rending Flames"
+msgstr ""
+
+#: 164009093-1-5825
+msgctxt "164009093-1-5825"
+msgid "The Halls of Colossus"
+msgstr ""
+
+#: 164009093-1-5824
+msgctxt "164009093-1-5824"
+msgid "Entryway"
+msgstr ""
+
+#: 164009093-1-5823
+msgctxt "164009093-1-5823"
+msgid "Elsweyr"
+msgstr ""
+
+#: 164009093-1-5817
+msgctxt "164009093-1-5817"
+msgid "The Pious Arenthi-Inn"
+msgstr ""
+
+#: 164009093-1-5816
+msgctxt "164009093-1-5816"
+msgid "Jode's Light"
+msgstr ""
+
+#: 164009093-1-5811
+msgctxt "164009093-1-5811"
+msgid "Black Vine Ruins"
+msgstr ""
+
+#: 164009093-1-5810
+msgctxt "164009093-1-5810"
+msgid "Wormroot Depths"
+msgstr ""
+
+#: 164009093-1-5754
+msgctxt "164009093-1-5754"
+msgid "Frostvault Ruins"
+msgstr ""
+
+#: 164009093-1-5753
+msgctxt "164009093-1-5753"
+msgid "Frostvault Ruins"
+msgstr ""
+
+#: 164009093-1-5665
+msgctxt "164009093-1-5665"
+msgid "Exit"
+msgstr ""
+
+#: 164009093-1-5662
+msgctxt "164009093-1-5662"
+msgid "Exit"
+msgstr ""
+
+#: 164009093-1-5660
+msgctxt "164009093-1-5660"
+msgid "Iceflow Rift"
+msgstr ""
+
+#: 98383029-0-83
+msgctxt "98383029-0-83"
+msgid "Meridian"
+msgstr ""
+
+#: 98383029-0-82
+msgctxt "98383029-0-82"
+msgid "Coldsnap"
+msgstr ""
+
+#: 164009093-0-6022
+msgctxt "164009093-0-6022"
+msgid "Exit"
+msgstr ""
+
+#: 164009093-0-6008
+msgctxt "164009093-0-6008"
+msgid "Frostvault Chasm"
+msgstr ""
+
+#: 164009093-0-6007
+msgctxt "164009093-0-6007"
+msgid "Elinhir Private Arena"
+msgstr ""
+
+#: 164009093-0-5855
+msgctxt "164009093-0-5855"
+msgid "Chartered Wagon"
+msgstr ""
+
+#: 164009093-0-5826
+msgctxt "164009093-0-5826"
+msgid "Summit of Rending Flames"
+msgstr ""
+
+#: 164009093-0-5825
+msgctxt "164009093-0-5825"
+msgid "Upper Halls"
+msgstr ""
+
+#: 164009093-0-5824
+msgctxt "164009093-0-5824"
+msgid "Ascension Way"
+msgstr ""
+
+#: 164009093-0-5823
+msgctxt "164009093-0-5823"
+msgid "The Halls of Colossus"
+msgstr ""
+
+#: 164009093-0-5817
+msgctxt "164009093-0-5817"
+msgid "Guest Room"
+msgstr ""
+
+#: 164009093-0-5816
+msgctxt "164009093-0-5816"
+msgid "Full-Moons Chamber"
+msgstr ""
+
+#: 164009093-0-5811
+msgctxt "164009093-0-5811"
+msgid "Dark-Moons Chamber"
+msgstr ""
+
+#: 164009093-0-5810
+msgctxt "164009093-0-5810"
+msgid "New-Moons Chamber"
+msgstr ""
+
+#: 164009093-0-5754
+msgctxt "164009093-0-5754"
+msgid "Frostvault Ruins"
+msgstr ""
+
+#: 164009093-0-5753
+msgctxt "164009093-0-5753"
+msgid "Frostvault Ruins"
+msgstr ""
+
+#: 164009093-0-5665
+msgctxt "164009093-0-5665"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 164009093-0-5662
+msgctxt "164009093-0-5662"
+msgid "Frostvault"
+msgstr ""
+
+#: 164009093-0-5660
+msgctxt "164009093-0-5660"
+msgid "Frostvault Ruins"
+msgstr ""
+
+#: 268015829-0-502
+msgctxt "268015829-0-502"
+msgid "Eld Angavar CK 10-49"
+msgstr ""
+
+#: 268015829-0-501
+msgctxt "268015829-0-501"
+msgid "Eld Angavar CTF 10-49"
+msgstr ""
+
+#: 268015829-0-500
+msgctxt "268015829-0-500"
+msgid "Eld Angavar Chaos ball 10-49"
+msgstr ""
+
+#: 268015829-0-499
+msgctxt "268015829-0-499"
+msgid "Eld Angavar DOM  10-49"
+msgstr ""
+
+#: 268015829-0-498
+msgctxt "268015829-0-498"
+msgid "Eld Angavar Deathmatch 10-49"
+msgstr ""
+
+#: 268015829-0-484
+msgctxt "268015829-0-484"
+msgid "Eld Angavar Chaos ball 50"
+msgstr ""
+
+#: 268015829-0-436
+msgctxt "268015829-0-436"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 268015829-0-435
+msgctxt "268015829-0-435"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 268015829-0-434
+msgctxt "268015829-0-434"
+msgid "Frostvault"
+msgstr ""
+
+#: 268015829-0-433
+msgctxt "268015829-0-433"
+msgid "Frostvault"
+msgstr ""
+
+#: 19398485-0-3048
+msgctxt "19398485-0-3048"
+msgid "Adventurer's Almanac, 3rd Edition"
+msgstr ""
+
+#: 19398485-0-3014
+msgctxt "19398485-0-3014"
+msgid "Door"
+msgstr ""
+
+#: 19398485-0-2999
+msgctxt "19398485-0-2999"
+msgid "Khunzar-ri and the Demons"
+msgstr ""
+
+#: 19398485-0-2998
+msgctxt "19398485-0-2998"
+msgid "Letter from Queen Euraxia"
+msgstr ""
+
+#: 19398485-0-2990
+msgctxt "19398485-0-2990"
+msgid "Box"
+msgstr ""
+
+#: 19398485-0-2958
+msgctxt "19398485-0-2958"
+msgid "Khunzar-ri and —  — Moons"
+msgstr ""
+
+#: 19398485-0-2957
+msgctxt "19398485-0-2957"
+msgid "Khunzar-ri and the Dark Moons"
+msgstr ""
+
+#: 19398485-0-2956
+msgctxt "19398485-0-2956"
+msgid "Khunzar-ri and the Demon: Part Three"
+msgstr ""
+
+#: 19398485-0-2955
+msgctxt "19398485-0-2955"
+msgid "Khunzar-ri and the Demon: Part Two"
+msgstr ""
+
+#: 19398485-0-2954
+msgctxt "19398485-0-2954"
+msgid "HM Platform Intro"
+msgstr ""
+
+#: 19398485-0-2952
+msgctxt "19398485-0-2952"
+msgid "HM Platform Intro"
+msgstr ""
+
+#: 19398485-0-2948
+msgctxt "19398485-0-2948"
+msgid "Slivers in a Dark Sky"
+msgstr ""
+
+#: 19398485-0-2946
+msgctxt "19398485-0-2946"
+msgid "Jone's Blessing"
+msgstr ""
+
+#: 19398485-0-2945
+msgctxt "19398485-0-2945"
+msgid "HM Archway"
+msgstr ""
+
+#: 19398485-0-2943
+msgctxt "19398485-0-2943"
+msgid "Jode's Blessing"
+msgstr ""
+
+#: 19398485-0-2938
+msgctxt "19398485-0-2938"
+msgid "Khunzar-ri and the Demon: Part One"
+msgstr ""
+
+#: 19398485-0-2882
+msgctxt "19398485-0-2882"
+msgid "EQT2 TharnLookTarget"
+msgstr ""
+
+#: 19398485-0-2881
+msgctxt "19398485-0-2881"
+msgid "EQT2 DragonSealWall"
+msgstr ""
+
+#: 19398485-0-2879
+msgctxt "19398485-0-2879"
+msgid "EQT2 DragonSealFloor"
+msgstr ""
+
+#: 19398485-0-2865
+msgctxt "19398485-0-2865"
+msgid "Khunzar-ri and the Full Moons"
+msgstr ""
+
+#: 19398485-0-2809
+msgctxt "19398485-0-2809"
+msgid "Send Your Forces, Narilmor"
+msgstr ""
+
+#: 19398485-0-2808
+msgctxt "19398485-0-2808"
+msgid "Umaril is Undone"
+msgstr ""
+
+#: 19398485-0-2807
+msgctxt "19398485-0-2807"
+msgid "Frostbitten Journal"
+msgstr ""
+
+#: 19398485-0-2806
+msgctxt "19398485-0-2806"
+msgid "Unearthing Garlas Malatar"
+msgstr ""
+
+#: 19398485-0-2800
+msgctxt "19398485-0-2800"
+msgid "Burr's Writing Practice"
+msgstr ""
+
+#: 19398485-0-2799
+msgctxt "19398485-0-2799"
+msgid "Picking up the Pieces"
+msgstr ""
+
+#: 87370069-0-25815
+msgctxt "87370069-0-25815"
+msgid "Out of Formation"
+msgstr ""
+
+#: 87370069-0-25646
+msgctxt "87370069-0-25646"
+msgid "Wrathstone"
+msgstr ""
+
+#: 87370069-0-25629
+msgctxt "87370069-0-25629"
+msgid "Elec Beam Heat"
+msgstr ""
+
+#: 87370069-0-25596
+msgctxt "87370069-0-25596"
+msgid "Chest"
+msgstr ""
+
+#: 87370069-0-25591
+msgctxt "87370069-0-25591"
+msgid "Spike Trap"
+msgstr ""
+
+#: 87370069-0-25590
+msgctxt "87370069-0-25590"
+msgid "Spike Trap"
+msgstr ""
+
+#: 87370069-0-25589
+msgctxt "87370069-0-25589"
+msgid "Spike Trap"
+msgstr ""
+
+#: 87370069-0-25588
+msgctxt "87370069-0-25588"
+msgid "Spinning Blade"
+msgstr ""
+
+#: 87370069-0-25584
+msgctxt "87370069-0-25584"
+msgid "Door"
+msgstr ""
+
+#: 87370069-0-25572
+msgctxt "87370069-0-25572"
+msgid "Fort Mistwatch"
+msgstr ""
+
+#: 87370069-0-25566
+msgctxt "87370069-0-25566"
+msgid "Exit"
+msgstr ""
+
+#: 87370069-0-25562
+msgctxt "87370069-0-25562"
+msgid "Coldsnap Banner"
+msgstr ""
+
+#: 87370069-0-25554
+msgctxt "87370069-0-25554"
+msgid "Teleport"
+msgstr ""
+
+#: 87370069-0-25537
+msgctxt "87370069-0-25537"
+msgid "Elec PBAoE"
+msgstr ""
+
+#: 87370069-0-25527
+msgctxt "87370069-0-25527"
+msgid "Skeevaton Modification and Operation"
+msgstr ""
+
+#: 87370069-0-25526
+msgctxt "87370069-0-25526"
+msgid "In Pursuit of Mhuvnak"
+msgstr ""
+
+#: 87370069-0-25524
+msgctxt "87370069-0-25524"
+msgid "Color Kill"
+msgstr ""
+
+#: 87370069-0-25522
+msgctxt "87370069-0-25522"
+msgid "Reaping Rainbow"
+msgstr ""
+
+#: 87370069-0-25520
+msgctxt "87370069-0-25520"
+msgid "Meteor Tracker"
+msgstr ""
+
+#: 87370069-0-25514
+msgctxt "87370069-0-25514"
+msgid "Wrathstone"
+msgstr ""
+
+#: 87370069-0-25497
+msgctxt "87370069-0-25497"
+msgid "Lightning Trap"
+msgstr ""
+
+#: 87370069-0-25496
+msgctxt "87370069-0-25496"
+msgid "Lightning Trap"
+msgstr ""
+
+#: 87370069-0-25495
+msgctxt "87370069-0-25495"
+msgid "Lightning Trap"
+msgstr ""
+
+#: 87370069-0-25494
+msgctxt "87370069-0-25494"
+msgid "Lightning Trap"
+msgstr ""
+
+#: 87370069-0-25493
+msgctxt "87370069-0-25493"
+msgid "Bridge"
+msgstr ""
+
+#: 87370069-0-25491
+msgctxt "87370069-0-25491"
+msgid "Door"
+msgstr ""
+
+#: 87370069-0-25490
+msgctxt "87370069-0-25490"
+msgid "Lightning Trap Switch"
+msgstr ""
+
+#: 87370069-0-25465
+msgctxt "87370069-0-25465"
+msgid "Sigil of Speed"
+msgstr ""
+
+#: 87370069-0-25464
+msgctxt "87370069-0-25464"
+msgid "Sigil of Healing"
+msgstr ""
+
+#: 87370069-0-25463
+msgctxt "87370069-0-25463"
+msgid "Sigil of Power"
+msgstr ""
+
+#: 87370069-0-25462
+msgctxt "87370069-0-25462"
+msgid "Sigil of Defense"
+msgstr ""
+
+#: 87370069-0-25461
+msgctxt "87370069-0-25461"
+msgid "Lava Trap Switch"
+msgstr ""
+
+#: 87370069-0-25459
+msgctxt "87370069-0-25459"
+msgid "Lightning Trap Switch"
+msgstr ""
+
+#: 87370069-0-25437
+msgctxt "87370069-0-25437"
+msgid "Portal"
+msgstr ""
+
+#: 87370069-0-25402
+msgctxt "87370069-0-25402"
+msgid "Vault Door"
+msgstr ""
+
+#: 87370069-0-25376
+msgctxt "87370069-0-25376"
+msgid "Blade Trap Switch"
+msgstr ""
+
+#: 87370069-0-25372
+msgctxt "87370069-0-25372"
+msgid "EQT2 StepAdvancer"
+msgstr ""
+
+#: 87370069-0-25371
+msgctxt "87370069-0-25371"
+msgid "Jubilee Cake 2019"
+msgstr ""
+
+#: 87370069-0-25370
+msgctxt "87370069-0-25370"
+msgid "Jubilee Cake 2019"
+msgstr ""
+
+#: 87370069-0-25335
+msgctxt "87370069-0-25335"
+msgid "Letter from Queen Euraxia"
+msgstr ""
+
+#: 87370069-0-25333
+msgctxt "87370069-0-25333"
+msgid "Khunzar-ri and the Demons"
+msgstr ""
+
+#: 87370069-0-25330
+msgctxt "87370069-0-25330"
+msgid "Cannon"
+msgstr ""
+
+#: 87370069-0-25308
+msgctxt "87370069-0-25308"
+msgid "Slivers in a Dark Sky"
+msgstr ""
+
+#: 87370069-0-25307
+msgctxt "87370069-0-25307"
+msgid "Jone's Blessing"
+msgstr ""
+
+#: 87370069-0-25306
+msgctxt "87370069-0-25306"
+msgid "Jode's Blessing"
+msgstr ""
+
+#: 87370069-0-25305
+msgctxt "87370069-0-25305"
+msgid "Hist"
+msgstr ""
+
+#: 87370069-0-25302
+msgctxt "87370069-0-25302"
+msgid "Moon Guardian"
+msgstr ""
+
+#: 87370069-0-25301
+msgctxt "87370069-0-25301"
+msgid "Moon Guardian"
+msgstr ""
+
+#: 87370069-0-25294
+msgctxt "87370069-0-25294"
+msgid "Dragon Door"
+msgstr ""
+
+#: 87370069-0-25290
+msgctxt "87370069-0-25290"
+msgid "The Wrathstone"
+msgstr ""
+
+#: 87370069-0-25262
+msgctxt "87370069-0-25262"
+msgid "Ancient Trunk"
+msgstr ""
+
+#: 87370069-0-25261
+msgctxt "87370069-0-25261"
+msgid "Ancient Trunk"
+msgstr ""
+
+#: 87370069-0-25259
+msgctxt "87370069-0-25259"
+msgid "Ancient Trunk"
+msgstr ""
+
+#: 87370069-0-25254
+msgctxt "87370069-0-25254"
+msgid "Asylum Sanctorum"
+msgstr ""
+
+#: 87370069-0-25243
+msgctxt "87370069-0-25243"
+msgid "Weatherman"
+msgstr ""
+
+#: 87370069-0-25223
+msgctxt "87370069-0-25223"
+msgid "Elec Beam Heat"
+msgstr ""
+
+#: 87370069-0-25222
+msgctxt "87370069-0-25222"
+msgid "Elec Beam Heat"
+msgstr ""
+
+#: 87370069-0-25221
+msgctxt "87370069-0-25221"
+msgid "Elec Beam Heat"
+msgstr ""
+
+#: 87370069-0-25218
+msgctxt "87370069-0-25218"
+msgid "Elec Beam Heat"
+msgstr ""
+
+#: 87370069-0-25129
+msgctxt "87370069-0-25129"
+msgid "Tharn's Shield"
+msgstr ""
+
+#: 87370069-0-25121
+msgctxt "87370069-0-25121"
+msgid "Moon Guardian"
+msgstr ""
+
+#: 87370069-0-25119
+msgctxt "87370069-0-25119"
+msgid "Portal to Redfur Trading Post"
+msgstr ""
+
+#: 87370069-0-25118
+msgctxt "87370069-0-25118"
+msgid "Dusk Mushroom"
+msgstr ""
+
+#: 87370069-0-25117
+msgctxt "87370069-0-25117"
+msgid "Dusk Mushroom"
+msgstr ""
+
+#: 87370069-0-25116
+msgctxt "87370069-0-25116"
+msgid "Dusk Mushroom"
+msgstr ""
+
+#: 87370069-0-25115
+msgctxt "87370069-0-25115"
+msgid "Dusk Mushroom"
+msgstr ""
+
+#: 87370069-0-25111
+msgctxt "87370069-0-25111"
+msgid "Portal"
+msgstr ""
+
+#: 87370069-0-25070
+msgctxt "87370069-0-25070"
+msgid "Exit"
+msgstr ""
+
+#: 87370069-0-24994
+msgctxt "87370069-0-24994"
+msgid "Portal to Abnur Tharn's Camp"
+msgstr ""
+
+#: 87370069-0-24982
+msgctxt "87370069-0-24982"
+msgid "Tharn's Shield"
+msgstr ""
+
+#: 87370069-0-24981
+msgctxt "87370069-0-24981"
+msgid "Tharn's Shield"
+msgstr ""
+
+#: 87370069-0-24930
+msgctxt "87370069-0-24930"
+msgid "Ancient Khajiiti Chest"
+msgstr ""
+
+#: 87370069-0-24924
+msgctxt "87370069-0-24924"
+msgid "Portal to Abnur Tharn's Camp"
+msgstr ""
+
+#: 87370069-0-24902
+msgctxt "87370069-0-24902"
+msgid "Portal to Rawl'kha"
+msgstr ""
+
+#: 87370069-0-24901
+msgctxt "87370069-0-24901"
+msgid "Ancient Khajiiti Chest"
+msgstr ""
+
+#: 87370069-0-24894
+msgctxt "87370069-0-24894"
+msgid "Portal to Baandari Trading Post"
+msgstr ""
+
+#: 87370069-0-24893
+msgctxt "87370069-0-24893"
+msgid "Ancient Khajiiti Chest"
+msgstr ""
+
+#: 87370069-0-24887
+msgctxt "87370069-0-24887"
+msgid "Ancient Khajiiti Chest"
+msgstr ""
+
+#: 87370069-0-24884
+msgctxt "87370069-0-24884"
+msgid "Moons Guardian"
+msgstr ""
+
+#: 87370069-0-24881
+msgctxt "87370069-0-24881"
+msgid "Target"
+msgstr ""
+
+#: 87370069-0-24876
+msgctxt "87370069-0-24876"
+msgid "Puzzle Pillar"
+msgstr ""
+
+#: 87370069-0-24871
+msgctxt "87370069-0-24871"
+msgid "Shock Conveyor"
+msgstr ""
+
+#: 87370069-0-24860
+msgctxt "87370069-0-24860"
+msgid "Colos Red"
+msgstr ""
+
+#: 87370069-0-24859
+msgctxt "87370069-0-24859"
+msgid "Colos Blue"
+msgstr ""
+
+#: 87370069-0-24855
+msgctxt "87370069-0-24855"
+msgid "Colos Red"
+msgstr ""
+
+#: 87370069-0-24852
+msgctxt "87370069-0-24852"
+msgid "Colos Red"
+msgstr ""
+
+#: 87370069-0-24851
+msgctxt "87370069-0-24851"
+msgid "Colos Blue"
+msgstr ""
+
+#: 87370069-0-24850
+msgctxt "87370069-0-24850"
+msgid "Colos Blue"
+msgstr ""
+
+#: 87370069-0-24847
+msgctxt "87370069-0-24847"
+msgid "The Stonekeeper"
+msgstr ""
+
+#: 87370069-0-24822
+msgctxt "87370069-0-24822"
+msgid "Vault of Mhuvnak"
+msgstr ""
+
+#: 87370069-0-24816
+msgctxt "87370069-0-24816"
+msgid "Vault of Mhuvnak"
+msgstr ""
+
+#: 87370069-0-24761
+msgctxt "87370069-0-24761"
+msgid "Shock Conveyor"
+msgstr ""
+
+#: 87370069-0-24759
+msgctxt "87370069-0-24759"
+msgid "Colors Blue"
+msgstr ""
+
+#: 87370069-0-24747
+msgctxt "87370069-0-24747"
+msgid "Soul Gem"
+msgstr ""
+
+#: 87370069-0-24642
+msgctxt "87370069-0-24642"
+msgid "Shock Conveyor"
+msgstr ""
+
+#: 87370069-0-24635
+msgctxt "87370069-0-24635"
+msgid "The Stonekeeper"
+msgstr ""
+
+#: 87370069-0-24604
+msgctxt "87370069-0-24604"
+msgid "Vault of Mhuvnak"
+msgstr ""
+
+#: 87370069-0-24518
+msgctxt "87370069-0-24518"
+msgid "The Stonekeeper"
+msgstr ""
+
+#: 87370069-0-24517
+msgctxt "87370069-0-24517"
+msgid "Hatch"
+msgstr ""
+
+#: 87370069-0-24388
+msgctxt "87370069-0-24388"
+msgid "Rolling Sentry IO"
+msgstr ""
+
+#: 87370069-0-24284
+msgctxt "87370069-0-24284"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 87370069-0-24283
+msgctxt "87370069-0-24283"
+msgid "Dictates of the Lady of Light"
+msgstr ""
+
+#: 87370069-0-24282
+msgctxt "87370069-0-24282"
+msgid "Frostvault"
+msgstr ""
+
+#: 87370069-0-24281
+msgctxt "87370069-0-24281"
+msgid "Veracity Verifier"
+msgstr ""
+
+#: 28666901-0-1927
+msgctxt "28666901-0-1927"
+msgid "Frostvault Chasm"
+msgstr ""
+
+#: 28666901-0-1924
+msgctxt "28666901-0-1924"
+msgid "Elinhir Private Arena"
+msgstr ""
+
+#: 28666901-0-1913
+msgctxt "28666901-0-1913"
+msgid "Stormlords BG 411"
+msgstr ""
+
+#: 28666901-0-1912
+msgctxt "28666901-0-1912"
+msgid "Pit Daemons BG 411"
+msgstr ""
+
+#: 28666901-0-1911
+msgctxt "28666901-0-1911"
+msgid "Fire Drakes BG 411"
+msgstr ""
+
+#: 28666901-0-1881
+msgctxt "28666901-0-1881"
+msgid "Halls of Colossus Graveyard"
+msgstr ""
+
+#: 28666901-0-1827
+msgctxt "28666901-0-1827"
+msgid "Dungeon: Depths of Malatar"
+msgstr ""
+
+#: 28666901-0-1826
+msgctxt "28666901-0-1826"
+msgid "Dungeon: Frostvault"
+msgstr ""
+
+#: 267200725-0-1622
+msgctxt "267200725-0-1622"
+msgid "Elinhir Private Arena"
+msgstr ""
+
+#: 267200725-0-1621
+msgctxt "267200725-0-1621"
+msgid "Frostvault Chasm"
+msgstr ""
+
+#: 267200725-0-1607
+msgctxt "267200725-0-1607"
+msgid "Iceflow Rift"
+msgstr ""
+
+#: 267200725-0-1606
+msgctxt "267200725-0-1606"
+msgid "Coldsnap Scraphoard"
+msgstr ""
+
+#: 267200725-0-1605
+msgctxt "267200725-0-1605"
+msgid "Warlord Tzogvin's Lair"
+msgstr ""
+
+#: 267200725-0-1604
+msgctxt "267200725-0-1604"
+msgid "Vault of Mhuvnak"
+msgstr ""
+
+#: 267200725-0-1603
+msgctxt "267200725-0-1603"
+msgid "Stonekeeper Substructure"
+msgstr ""
+
+#: 267200725-0-1602
+msgctxt "267200725-0-1602"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 267200725-0-1601
+msgctxt "267200725-0-1601"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 267200725-0-1600
+msgctxt "267200725-0-1600"
+msgid "Colored Rooms"
+msgstr ""
+
+#: 267200725-0-1599
+msgctxt "267200725-0-1599"
+msgid "Cove of the Guiding Light"
+msgstr ""
+
+#: 267200725-0-1598
+msgctxt "267200725-0-1598"
+msgid "Halls of Garlas Malatar"
+msgstr ""
+
+#: 267200725-0-1597
+msgctxt "267200725-0-1597"
+msgid "Ruins of Garlas Malatar"
+msgstr ""
+
+#: 267200725-0-1596
+msgctxt "267200725-0-1596"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 267200725-0-1589
+msgctxt "267200725-0-1589"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 267200725-0-1588
+msgctxt "267200725-0-1588"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 267200725-0-1583
+msgctxt "267200725-0-1583"
+msgid "Eld Angavar"
+msgstr ""
+
+#: 267200725-0-1582
+msgctxt "267200725-0-1582"
+msgid "Eld Angavar"
+msgstr ""
+
+#: 267200725-0-1581
+msgctxt "267200725-0-1581"
+msgid "Full-Moons Chamber"
+msgstr ""
+
+#: 267200725-0-1580
+msgctxt "267200725-0-1580"
+msgid "Dark-Moons Chamber"
+msgstr ""
+
+#: 267200725-0-1579
+msgctxt "267200725-0-1579"
+msgid "New-Moons Chamber"
+msgstr ""
+
+#: 162946485-0-14782
+msgctxt "162946485-0-14782"
+msgid "EQT2 HallsOfColossus"
+msgstr ""
+
+#: 162946485-0-14725
+msgctxt "162946485-0-14725"
+msgid "Elinhir Private Arena"
+msgstr ""
+
+#: 162946485-0-14721
+msgctxt "162946485-0-14721"
+msgid "FrostVaultHouse_KIllPlane"
+msgstr ""
+
+#: 162946485-0-14720
+msgctxt "162946485-0-14720"
+msgid "Frostvault Chasm"
+msgstr ""
+
+#: 162946485-0-14700
+msgctxt "162946485-0-14700"
+msgid "Kill Peeps"
+msgstr ""
+
+#: 162946485-0-14677
+msgctxt "162946485-0-14677"
+msgid "FRSTVLT_Map01"
+msgstr ""
+
+#: 162946485-0-14676
+msgctxt "162946485-0-14676"
+msgid "FRSTVLT_Map02"
+msgstr ""
+
+#: 162946485-0-14675
+msgctxt "162946485-0-14675"
+msgid "FRSTVLT_Map03"
+msgstr ""
+
+#: 162946485-0-14674
+msgctxt "162946485-0-14674"
+msgid "FRSTVLT_Map04"
+msgstr ""
+
+#: 162946485-0-14673
+msgctxt "162946485-0-14673"
+msgid "FRSTVLT_Map05"
+msgstr ""
+
+#: 162946485-0-14665
+msgctxt "162946485-0-14665"
+msgid "MAP_Housing_NCL_ElinhirArena"
+msgstr ""
+
+#: 162946485-0-14662
+msgctxt "162946485-0-14662"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 162946485-0-14661
+msgctxt "162946485-0-14661"
+msgid "ELS_HoC_Pit Killplane"
+msgstr ""
+
+#: 162946485-0-14631
+msgctxt "162946485-0-14631"
+msgid "DOM_Map05"
+msgstr ""
+
+#: 162946485-0-14630
+msgctxt "162946485-0-14630"
+msgid "DOM_Map04"
+msgstr ""
+
+#: 162946485-0-14629
+msgctxt "162946485-0-14629"
+msgid "DOM_Map03"
+msgstr ""
+
+#: 162946485-0-14628
+msgctxt "162946485-0-14628"
+msgid "DOM_Map02"
+msgstr ""
+
+#: 162946485-0-14627
+msgctxt "162946485-0-14627"
+msgid "DOM_Map01"
+msgstr ""
+
+#: 162946485-0-14574
+msgctxt "162946485-0-14574"
+msgid "Frostvault"
+msgstr ""
+
+#: 162946485-0-14573
+msgctxt "162946485-0-14573"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 162946485-0-14569
+msgctxt "162946485-0-14569"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 162946485-0-14568
+msgctxt "162946485-0-14568"
+msgid "Halls of Colossus"
+msgstr ""
+
+#: 162946485-0-14559
+msgctxt "162946485-0-14559"
+msgid "EQT2 TriggerDragonArchConvo"
+msgstr ""
+
+#: 162946485-0-14552
+msgctxt "162946485-0-14552"
+msgid "EQT2 LowerHallwayConvo"
+msgstr ""
+
+#: 162946485-0-14551
+msgctxt "162946485-0-14551"
+msgid "IEQ2 CombatFollowerLOWER SZ"
+msgstr ""
+
+#: 162946485-0-14546
+msgctxt "162946485-0-14546"
+msgid "IEQT2 UpperHoleTheaterSZ"
+msgstr ""
+
+#: 162946485-0-14545
+msgctxt "162946485-0-14545"
+msgid "IEQ2 CombatFollowerUPPER SZ"
+msgstr ""
+
+#: 162946485-0-14524
+msgctxt "162946485-0-14524"
+msgid "Kill Plane"
+msgstr ""
+
+#: 162946485-0-14523
+msgctxt "162946485-0-14523"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-14512
+msgctxt "162946485-0-14512"
+msgid "bc"
+msgstr ""
+
+#: 162946485-0-14433
+msgctxt "162946485-0-14433"
+msgid "EQT6 Trainee LAMIA SZ"
+msgstr ""
+
+#: 162946485-0-14431
+msgctxt "162946485-0-14431"
+msgid "MAP_RPM_ELS_FullMoonsChamber"
+msgstr ""
+
+#: 162946485-0-14430
+msgctxt "162946485-0-14430"
+msgid "EQT5 Trainee LURCHERS SZ"
+msgstr ""
+
+#: 162946485-0-14429
+msgctxt "162946485-0-14429"
+msgid "MAP_MAL_ELS_DarkMoonsChamber"
+msgstr ""
+
+#: 162946485-0-14428
+msgctxt "162946485-0-14428"
+msgid "EQT4 TraineeGOBLINS SZ"
+msgstr ""
+
+#: 162946485-0-14427
+msgctxt "162946485-0-14427"
+msgid "EQT3 TraineeSKELETONS SZ"
+msgstr ""
+
+#: 162946485-0-14419
+msgctxt "162946485-0-14419"
+msgid "MAP_GWD_ELS_NewMoonsChamber"
+msgstr ""
+
+#: 162946485-0-14401
+msgctxt "162946485-0-14401"
+msgid "To lower level"
+msgstr ""
+
+#: 162946485-0-14400
+msgctxt "162946485-0-14400"
+msgid "To mid level"
+msgstr ""
+
+#: 162946485-0-14399
+msgctxt "162946485-0-14399"
+msgid "To Firedrakes"
+msgstr ""
+
+#: 162946485-0-14398
+msgctxt "162946485-0-14398"
+msgid "To mid level"
+msgstr ""
+
+#: 162946485-0-14397
+msgctxt "162946485-0-14397"
+msgid "Teleport down"
+msgstr ""
+
+#: 162946485-0-14396
+msgctxt "162946485-0-14396"
+msgid "To lower level"
+msgstr ""
+
+#: 162946485-0-14393
+msgctxt "162946485-0-14393"
+msgid "Snow Caves"
+msgstr ""
+
+#: 162946485-0-14346
+msgctxt "162946485-0-14346"
+msgid "WrathStone_KILLKILLKILLKILL004"
+msgstr ""
+
+#: 162946485-0-14303
+msgctxt "162946485-0-14303"
+msgid "Auroran Spawn"
+msgstr ""
+
+#: 162946485-0-14302
+msgctxt "162946485-0-14302"
+msgid "Auroran Spawn"
+msgstr ""
+
+#: 162946485-0-14289
+msgctxt "162946485-0-14289"
+msgid "EQT2 TraineeINSECT SZ"
+msgstr ""
+
+#: 162946485-0-14283
+msgctxt "162946485-0-14283"
+msgid "DoM"
+msgstr ""
+
+#: 162946485-0-14280
+msgctxt "162946485-0-14280"
+msgid "DoM"
+msgstr ""
+
+#: 162946485-0-14278
+msgctxt "162946485-0-14278"
+msgid "DoM"
+msgstr ""
+
+#: 162946485-0-14277
+msgctxt "162946485-0-14277"
+msgid "DoM"
+msgstr ""
+
+#: 162946485-0-14276
+msgctxt "162946485-0-14276"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 162946485-0-14243
+msgctxt "162946485-0-14243"
+msgid "EQT2 PoisonSafeZone"
+msgstr ""
+
+#: 162946485-0-14240
+msgctxt "162946485-0-14240"
+msgid "The Color Room"
+msgstr ""
+
+#: 162946485-0-14238
+msgctxt "162946485-0-14238"
+msgid "EQT2 DragonReliefHallway"
+msgstr ""
+
+#: 162946485-0-14236
+msgctxt "162946485-0-14236"
+msgid "EQT2 ReachedLowerHallway"
+msgstr ""
+
+#: 162946485-0-14234
+msgctxt "162946485-0-14234"
+msgid "EQT2 ReachedFirstHallway"
+msgstr ""
+
+#: 162946485-0-14232
+msgctxt "162946485-0-14232"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 162946485-0-14206
+msgctxt "162946485-0-14206"
+msgid "EQT2 ReachedVaultSummit"
+msgstr ""
+
+#: 162946485-0-14204
+msgctxt "162946485-0-14204"
+msgid "EQT2 ReachedVaultPuzzle"
+msgstr ""
+
+#: 162946485-0-14203
+msgctxt "162946485-0-14203"
+msgid "EQT2 StartCultLeaderFight"
+msgstr ""
+
+#: 162946485-0-14202
+msgctxt "162946485-0-14202"
+msgid "EQT2 HallsEntryway"
+msgstr ""
+
+#: 162946485-0-14201
+msgctxt "162946485-0-14201"
+msgid "EQT2 HallsOfColossus"
+msgstr ""
+
+#: 162946485-0-14199
+msgctxt "162946485-0-14199"
+msgid "Hole"
+msgstr ""
+
+#: 162946485-0-14188
+msgctxt "162946485-0-14188"
+msgid "EQT1 TabletRoomSubzone"
+msgstr ""
+
+#: 162946485-0-14182
+msgctxt "162946485-0-14182"
+msgid "EQT1 SpawnTharnChildJodes"
+msgstr ""
+
+#: 162946485-0-14181
+msgctxt "162946485-0-14181"
+msgid "DOM_coloredKillKilKillKillKill"
+msgstr ""
+
+#: 162946485-0-14178
+msgctxt "162946485-0-14178"
+msgid "EQT1 TharnChildBlackVine"
+msgstr ""
+
+#: 162946485-0-14170
+msgctxt "162946485-0-14170"
+msgid "EQT1 SpawnTharnChild"
+msgstr ""
+
+#: 162946485-0-14149
+msgctxt "162946485-0-14149"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 162946485-0-14133
+msgctxt "162946485-0-14133"
+msgid "Wrathstone"
+msgstr ""
+
+#: 162946485-0-14126
+msgctxt "162946485-0-14126"
+msgid "Monster Kill Zone"
+msgstr ""
+
+#: 162946485-0-14111
+msgctxt "162946485-0-14111"
+msgid "wrathstone"
+msgstr ""
+
+#: 162946485-0-14106
+msgctxt "162946485-0-14106"
+msgid "Bridgeways"
+msgstr ""
+
+#: 162946485-0-14087
+msgctxt "162946485-0-14087"
+msgid "Wrathstone"
+msgstr ""
+
+#: 162946485-0-14086
+msgctxt "162946485-0-14086"
+msgid "Wrathstone"
+msgstr ""
+
+#: 162946485-0-14020
+msgctxt "162946485-0-14020"
+msgid "Wrathstone"
+msgstr ""
+
+#: 162946485-0-14014
+msgctxt "162946485-0-14014"
+msgid "WrathStone_killkillkillkill03"
+msgstr ""
+
+#: 162946485-0-13978
+msgctxt "162946485-0-13978"
+msgid "Frost Cave"
+msgstr ""
+
+#: 162946485-0-13799
+msgctxt "162946485-0-13799"
+msgid "Skeevaton spawn"
+msgstr ""
+
+#: 162946485-0-13796
+msgctxt "162946485-0-13796"
+msgid "Skeevatonville"
+msgstr ""
+
+#: 162946485-0-13784
+msgctxt "162946485-0-13784"
+msgid "Iceflow Rift"
+msgstr ""
+
+#: 162946485-0-13783
+msgctxt "162946485-0-13783"
+msgid "Delver Room"
+msgstr ""
+
+#: 162946485-0-13780
+msgctxt "162946485-0-13780"
+msgid "WrathStone_KILLKILLKILLKILL002"
+msgstr ""
+
+#: 162946485-0-13779
+msgctxt "162946485-0-13779"
+msgid "WrathStone_KILLKILLKILLKILLKIL"
+msgstr ""
+
+#: 162946485-0-13603
+msgctxt "162946485-0-13603"
+msgid "Leash Boss Encounter"
+msgstr ""
+
+#: 162946485-0-13602
+msgctxt "162946485-0-13602"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13601
+msgctxt "162946485-0-13601"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13600
+msgctxt "162946485-0-13600"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13599
+msgctxt "162946485-0-13599"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13598
+msgctxt "162946485-0-13598"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13597
+msgctxt "162946485-0-13597"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13596
+msgctxt "162946485-0-13596"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13594
+msgctxt "162946485-0-13594"
+msgid "Depths of Malatar"
+msgstr ""
+
+#: 162946485-0-13592
+msgctxt "162946485-0-13592"
+msgid "No Death Achievement"
+msgstr ""
+
+#: 162946485-0-13591
+msgctxt "162946485-0-13591"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13590
+msgctxt "162946485-0-13590"
+msgid "Tabernacle of Light Unyielding"
+msgstr ""
+
+#: 162946485-0-13589
+msgctxt "162946485-0-13589"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13588
+msgctxt "162946485-0-13588"
+msgid "Garlas Malatar"
+msgstr ""
+
+#: 162946485-0-13587
+msgctxt "162946485-0-13587"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13586
+msgctxt "162946485-0-13586"
+msgid "Fort Mistwatch"
+msgstr ""
+
+#: 162946485-0-13585
+msgctxt "162946485-0-13585"
+msgid "Leash Boss Encounter"
+msgstr ""
+
+#: 162946485-0-13584
+msgctxt "162946485-0-13584"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13583
+msgctxt "162946485-0-13583"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13582
+msgctxt "162946485-0-13582"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13581
+msgctxt "162946485-0-13581"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13580
+msgctxt "162946485-0-13580"
+msgid "Boss Room"
+msgstr ""
+
+#: 162946485-0-13579
+msgctxt "162946485-0-13579"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13578
+msgctxt "162946485-0-13578"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13576
+msgctxt "162946485-0-13576"
+msgid "Loyalty Achievement"
+msgstr ""
+
+#: 162946485-0-13575
+msgctxt "162946485-0-13575"
+msgid "Frostvault"
+msgstr ""
+
+#: 162946485-0-13573
+msgctxt "162946485-0-13573"
+msgid "No Death Achievement"
+msgstr ""
+
+#: 162946485-0-13572
+msgctxt "162946485-0-13572"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13571
+msgctxt "162946485-0-13571"
+msgid "Vault of Mhuvnak"
+msgstr ""
+
+#: 162946485-0-13570
+msgctxt "162946485-0-13570"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13569
+msgctxt "162946485-0-13569"
+msgid "Athenaeum Substructure"
+msgstr ""
+
+#: 162946485-0-13568
+msgctxt "162946485-0-13568"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 162946485-0-13567
+msgctxt "162946485-0-13567"
+msgid "Iceflow Rift"
+msgstr ""

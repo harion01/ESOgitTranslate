@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-70046
+msgctxt "132143172-0-70046"
+msgid "Allows the use of Sanded Ruby Ash."
+msgstr "上質なルビーアッシュ材が使用可能になる。"
+
+#: 198758357-0-70046
+msgctxt "198758357-0-70046"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-58783
+msgctxt "132143172-0-58783"
+msgid "Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once."
+msgstr "研究時間を25%減らし、研究時間を30日に制限する。さらに1度に3つのアイテムの研究が可能になる。"
+
+#: 198758357-0-58783
+msgctxt "198758357-0-58783"
+msgid "Carpentry"
+msgstr "大工仕事"
+
+#: 132143172-0-48186
+msgctxt "132143172-0-48186"
+msgid "A Lumberjack hireling will search for resources for you. \nA new delivery from your hireling can be claimed the next time you log in or change zones, provided it has been no less than twelve hours since the last bundle."
+msgstr "木こりの助手は、代わりに資源を探してくれる。\r\n助手からの配送品は、前回の配送から12時間以上経過していれば、次回ログイン時、もしくはゾーン変更時に獲得できる。"
+
+#: 198758357-0-48186
+msgctxt "198758357-0-48186"
+msgid "Lumberjack Hireling"
+msgstr "木こりの助手"
+
+#: 132143172-0-48185
+msgctxt "132143172-0-48185"
+msgid "A lumberjack hireling will send you more wood and possibly better items every day."
+msgstr "木こりの助手は、もっと多くの木材と、もしかするともっと優れた他のアイテムも一緒に毎日送ってくる。"
+
+#: 198758357-0-48185
+msgctxt "198758357-0-48185"
+msgid "Lumberjack Hireling"
+msgstr "木こりの助手"
+
+#: 132143172-0-48184
+msgctxt "132143172-0-48184"
+msgid "A lumberjack hireling will send you wood and possibly other items every day."
+msgstr "木こりの助手は、木材や他のアイテムを毎日送ってくれる。"
+
+#: 198758357-0-48184
+msgctxt "198758357-0-48184"
+msgid "Lumberjack Hireling"
+msgstr "木こりの助手"
+
+#: 132143172-0-48183
+msgctxt "132143172-0-48183"
+msgid "Reduces research times by 20% and allows the research of three items at once."
+msgstr "研究時間を20%減らし、3つのアイテムを同時に研究可能にする。"
+
+#: 198758357-0-48183
+msgctxt "198758357-0-48183"
+msgid "Carpentry"
+msgstr "大工仕事"
+
+#: 132143172-0-48182
+msgctxt "132143172-0-48182"
+msgid "Reduces research times by 10% and allows the research of two items at once."
+msgstr "研究時間を10%減らし、2つのアイテムを同時に研究可能にする。"
+
+#: 198758357-0-48182
+msgctxt "198758357-0-48182"
+msgid "Carpentry"
+msgstr "大工仕事"
+
+#: 132143172-0-48181
+msgctxt "132143172-0-48181"
+msgid "Reduces research times by 5% and allows the research of two items at once."
+msgstr "研究時間を5%減らし、2つのアイテムを同時に研究可能にする。"
+
+#: 198758357-0-48181
+msgctxt "198758357-0-48181"
+msgid "Carpentry"
+msgstr "大工仕事"
+
+#: 132143172-0-48180
+msgctxt "132143172-0-48180"
+msgid "Maximizes the chances of extracting Woodworking ingredients and allows the refining of the most powerful resins from raw materials."
+msgstr "木工の材料を抽出する確率を最大まで上げて、原料からさらに強力な樹脂の精錬を可能にする。"
+
+#: 198758357-0-48180
+msgctxt "198758357-0-48180"
+msgid "Wood Extraction"
+msgstr "樹脂抽出"
+
+#: 132143172-0-48179
+msgctxt "132143172-0-48179"
+msgid "Greatly improves the chances of extracting Woodworking ingredients and allows the refining of more powerful resins from raw materials."
+msgstr "木工の材料を抽出する確率を大きく上げて、原料からより強力な樹脂の精錬を可能にする。"
+
+#: 198758357-0-48179
+msgctxt "198758357-0-48179"
+msgid "Wood Extraction"
+msgstr "樹脂抽出"
+
+#: 132143172-0-48178
+msgctxt "132143172-0-48178"
+msgid "Improves the chances of extracting Woodworking ingredients and allows the refining of more powerful resins from raw materials."
+msgstr "木工の材料を抽出する確率を上げて、原料からより強力な樹脂の精錬を可能にする。"
+
+#: 198758357-0-48178
+msgctxt "198758357-0-48178"
+msgid "Wood Extraction"
+msgstr "樹脂抽出"
+
+#: 132143172-0-48177
+msgctxt "132143172-0-48177"
+msgid "More than doubles the chances to improve items with resins."
+msgstr "樹脂によるアイテム改良の成功率が2倍以上高まる。"
+
+#: 198758357-0-48177
+msgctxt "198758357-0-48177"
+msgid "Resin Expertise"
+msgstr "樹脂の専門家"
+
+#: 132143172-0-48176
+msgctxt "132143172-0-48176"
+msgid "Greatly increases the chances of improving items with resins."
+msgstr "樹脂によるアイテム改良の成功率が大きく高まる。"
+
+#: 198758357-0-48176
+msgctxt "198758357-0-48176"
+msgid "Resin Expertise"
+msgstr "樹脂の専門家"
+
+#: 132143172-0-48175
+msgctxt "132143172-0-48175"
+msgid "Increases the chances of improving items with resins."
+msgstr "樹脂によるアイテム改良の成功率が高まる。"
+
+#: 198758357-0-48175
+msgctxt "198758357-0-48175"
+msgid "Resin Expertise"
+msgstr "樹脂の専門家"
+
+#: 132143172-0-48174
+msgctxt "132143172-0-48174"
+msgid "Allows the use of Sanded Nightwood."
+msgstr "上質なナイトウッド材が使用可能になる。"
+
+#: 198758357-0-48174
+msgctxt "198758357-0-48174"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-48173
+msgctxt "132143172-0-48173"
+msgid "Allows the use of Sanded Mahogany wood."
+msgstr "上質なマホガニー材が使用可能になる。"
+
+#: 198758357-0-48173
+msgctxt "198758357-0-48173"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-48172
+msgctxt "132143172-0-48172"
+msgid "Allows the use of Sanded Ash wood."
+msgstr "上質なアッシュ材が使用可能になる。"
+
+#: 198758357-0-48172
+msgctxt "198758357-0-48172"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-47859
+msgctxt "132143172-0-47859"
+msgid "Wood in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にある木を見つけやすくなる。"
+
+#: 198758357-0-47859
+msgctxt "198758357-0-47859"
+msgid "Keen Eye: Wood"
+msgstr "鋭敏な目: 木材"
+
+#: 132143172-0-47858
+msgctxt "132143172-0-47858"
+msgid "Wood in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にある木を見つけやすくなる。"
+
+#: 198758357-0-47858
+msgctxt "198758357-0-47858"
+msgid "Keen Eye: Wood"
+msgstr "鋭敏な目: 木材"
+
+#: 132143172-0-47857
+msgctxt "132143172-0-47857"
+msgid "Wood in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にある木を見つけやすくなる。"
+
+#: 198758357-0-47857
+msgctxt "198758357-0-47857"
+msgid "Keen Eye: Wood"
+msgstr "鋭敏な目: 木材"
+
+#: 132143172-0-47287
+msgctxt "132143172-0-47287"
+msgid "Allows the use of Sanded Birch wood."
+msgstr "上質なカバ材が使用可能になる。"
+
+#: 198758357-0-47287
+msgctxt "198758357-0-47287"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-47286
+msgctxt "132143172-0-47286"
+msgid "Allows the use of Sanded Yew wood."
+msgstr "上質なイチイ材が使用可能になる。"
+
+#: 198758357-0-47286
+msgctxt "198758357-0-47286"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-47285
+msgctxt "132143172-0-47285"
+msgid "Allows the use of Sanded Hickory wood."
+msgstr "上質なヒッコリー材が使用可能になる。"
+
+#: 198758357-0-47285
+msgctxt "198758357-0-47285"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-47284
+msgctxt "132143172-0-47284"
+msgid "Allows the use of Sanded Beech wood."
+msgstr "上質なブナ材が使用可能になる。"
+
+#: 198758357-0-47284
+msgctxt "198758357-0-47284"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-47283
+msgctxt "132143172-0-47283"
+msgid "Allows the use of Sanded Oak wood."
+msgstr "上質なカシ材が使用可能になる。"
+
+#: 198758357-0-47283
+msgctxt "198758357-0-47283"
+msgid "Woodworking"
+msgstr "木工"
+
+#: 132143172-0-47282
+msgctxt "132143172-0-47282"
+msgid "Allows the use of Sanded Maple wood."
+msgstr "上質なカエデ材が使用可能になる。"
+
+#: 198758357-0-47282
+msgctxt "198758357-0-47282"
+msgid "Woodworking"
+msgstr "木工"

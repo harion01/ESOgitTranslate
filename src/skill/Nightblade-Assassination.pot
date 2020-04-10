@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-61927
+msgctxt "132143172-0-61927"
+msgid "Focus your senses for <<1>>, reducing your damage taken by |cffffff2|r% with every Light or Heavy Attack, up to 5 times.\n\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks converts this ability into <<2>>, allowing you to fire a spectral arrow for half cost that deals <<3>>, and heals for |cffffff33|r% of the damage dealt if you are within |cffffff7|r meters of the enemy."
+msgstr ""
+
+#: 198758357-0-61927
+msgctxt "198758357-0-61927"
+msgid "Relentless Focus"
+msgstr ""
+
+#: 132143172-0-61919
+msgctxt "132143172-0-61919"
+msgid "Focus your senses for <<1>>, reducing your damage taken by |cffffff2|r% with every Light or Heavy Attack, up to 5 times.\n\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks converts this ability into <<2>>, allowing you to fire a spectral arrow for half cost that deals <<3>>, and heals for |cffffff50|r% of the damage dealt if you are within |cffffff7|r meters of the enemy."
+msgstr ""
+
+#: 198758357-0-61919
+msgctxt "198758357-0-61919"
+msgid "Merciless Resolve"
+msgstr ""
+
+#: 132143172-0-61902
+msgctxt "132143172-0-61902"
+msgid "Focus your senses for <<1>>, reducing your damage taken by |cffffff2|r% with every Light or Heavy Attack, up to 5 times.\n\nWhile active, hitting an enemy with |cffffff5|r Light or Heavy Attacks converts this ability into <<2>>, allowing you to fire a spectral arrow for half cost to deal <<3>>, and healing for |cffffff33|r% of the damage dealt if you are within |cffffff7|r meters of the enemy."
+msgstr ""
+
+#: 198758357-0-61902
+msgctxt "198758357-0-61902"
+msgid "Grim Focus"
+msgstr ""
+
+#: 132143172-0-45060
+msgctxt "132143172-0-45060"
+msgid "Increases your Critical Damage by <<1>>. \n\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by <<2>>  for <<3>>."
+msgstr ""
+
+#: 198758357-0-45060
+msgctxt "198758357-0-45060"
+msgid "Hemorrhage"
+msgstr ""
+
+#: 132143172-0-45053
+msgctxt "132143172-0-45053"
+msgid "Increases your Weapon and Spell Critical ratings by <<1>> for each Assassination ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-45053
+msgctxt "198758357-0-45053"
+msgid "Pressure Points"
+msgstr ""
+
+#: 132143172-0-45048
+msgctxt "132143172-0-45048"
+msgid "When an enemy dies within <<1>> of being damaged by one of your Assassination abilities, you restore <<2>> Magicka or Stamina, whichever maximum is higher."
+msgstr ""
+
+#: 198758357-0-45048
+msgctxt "198758357-0-45048"
+msgid "Executioner"
+msgstr ""
+
+#: 132143172-0-45038
+msgctxt "132143172-0-45038"
+msgid "Increases your Weapon and Spell Damage by <<1>>% while you are Sneaking or invisible.\n\nIncreases the duration of the stun from Sneak by |cffffff100|r%."
+msgstr ""
+
+#: 198758357-0-45038
+msgctxt "198758357-0-45038"
+msgid "Master Assassin"
+msgstr ""
+
+#: 132143172-0-36968
+msgctxt "132143172-0-36968"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing their Physical Resistance and Spell Resistance by <<1>> for <<2>>.\n\nYou can detect marked enemies even if they use stealth or invisibility for <<3>>. When a marked enemy dies, you heal for <<4>>.  This portion of the ability scales off your Max Health.\n\nYou can only have one <<5>> active at a time."
+msgstr ""
+
+#: 198758357-0-36968
+msgctxt "198758357-0-36968"
+msgid "Piercing Mark"
+msgstr ""
+
+#: 132143172-0-36967
+msgctxt "132143172-0-36967"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing Physical Resistance and Spell Resistance by <<1>> for <<2>>.\n\nWhen a marked enemy dies, you heal for <<3>>, and you gain Major Berserk, increasing your damage done by <<4>>  for  <<5>>.  This portion of the ability scales off your Max Health.\n\nYou can only have one <<6>> active at a time."
+msgstr ""
+
+#: 198758357-0-36967
+msgctxt "198758357-0-36967"
+msgid "Reaper's Mark"
+msgstr ""
+
+#: 132143172-0-36641
+msgctxt "132143172-0-36641"
+msgid "Increases your Critical Damage by <<1>>. \n\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-36641
+msgctxt "198758357-0-36641"
+msgid "Hemorrhage"
+msgstr ""
+
+#: 132143172-0-36636
+msgctxt "132143172-0-36636"
+msgid "Increases your Weapon and Spell Critical ratings by <<1>> for each Assassination ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-36636
+msgctxt "198758357-0-36636"
+msgid "Pressure Points"
+msgstr ""
+
+#: 132143172-0-36630
+msgctxt "132143172-0-36630"
+msgid "When an enemy dies within <<1>> of being damaged by one of your Assassination abilities, you restore <<2>> Magicka or Stamina, whichever maximum is higher."
+msgstr ""
+
+#: 198758357-0-36630
+msgctxt "198758357-0-36630"
+msgid "Executioner"
+msgstr ""
+
+#: 132143172-0-36616
+msgctxt "132143172-0-36616"
+msgid "Increases your Weapon and Spell Damage by <<1>>% while you are Sneaking or invisible.\n\nIncreases the duration of the stun from Sneak by |cffffff100|r%."
+msgstr ""
+
+#: 198758357-0-36616
+msgctxt "198758357-0-36616"
+msgid "Master Assassin"
+msgstr ""
+
+#: 132143172-0-36514
+msgctxt "132143172-0-36514"
+msgid "Ravage an enemy with a spinning attack, dealing <<1>> and increasing your damage against them by <<2>> for <<3>>.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and Health Recovery by <<4>>.\n\nWhile slotted, any time you kill an enemy you gain <<5>> Ultimate."
+msgstr ""
+
+#: 198758357-0-36514
+msgctxt "198758357-0-36514"
+msgid "Soul Harvest"
+msgstr ""
+
+#: 132143172-0-36508
+msgctxt "132143172-0-36508"
+msgid "Ravage an enemy with a swift strike, dealing <<1>> and causing them to take <<2>> more damage from your attacks for <<3>>.\n\nIf cast with |cffffff120|r or more Ultimate, the enemy is stunned for <<4>>.\n\nWhile slotted you gain <<5>>, which restores <<6>> Magicka and Stamina when you deal damage with a Light or Heavy Attack on an enemy with a negative effect active on them."
+msgstr ""
+
+#: 198758357-0-36508
+msgctxt "198758357-0-36508"
+msgid "Incapacitating Strike"
+msgstr ""
+
+#: 132143172-0-35419
+msgctxt "132143172-0-35419"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by <<1>> for <<2>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<3>>."
+msgstr ""
+
+#: 198758357-0-35419
+msgctxt "198758357-0-35419"
+msgid "Phantasmal Escape"
+msgstr ""
+
+#: 132143172-0-35414
+msgctxt "132143172-0-35414"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion and Minor Resolve, reducing damage from area attacks by <<1>> and increasing your Physical and Spell Resistance by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-35414
+msgctxt "198758357-0-35414"
+msgid "Mirage"
+msgstr ""
+
+#: 132143172-0-34851
+msgctxt "132143172-0-34851"
+msgid "Throw a magic blade with lethal precision to strike an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+msgstr ""
+
+#: 198758357-0-34851
+msgctxt "198758357-0-34851"
+msgid "Impale"
+msgstr ""
+
+#: 132143172-0-34843
+msgctxt "132143172-0-34843"
+msgid "Thrust a caustic blade with lethal precision to stab an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health.\n\nHeals you for <<4>>  if the enemy dies within <<5>> of being struck.  This portion of the ability scales off your Max Health."
+msgstr ""
+
+#: 198758357-0-34843
+msgctxt "198758357-0-34843"
+msgid "Killer's Blade"
+msgstr ""
+
+#: 132143172-0-33398
+msgctxt "132143172-0-33398"
+msgid "Ravage an enemy with a swift strike, dealing <<1>> and causing them to take <<2>> more damage from your attacks for <<3>>."
+msgstr ""
+
+#: 198758357-0-33398
+msgctxt "198758357-0-33398"
+msgid "Death Stroke"
+msgstr ""
+
+#: 132143172-0-33386
+msgctxt "132143172-0-33386"
+msgid "Thrust a magic blade with lethal precision to stab an enemy, dealing <<1>>. Deals <<2>>% more damage to enemies below <<3>>% Health."
+msgstr ""
+
+#: 198758357-0-33386
+msgctxt "198758357-0-33386"
+msgid "Assassin's Blade"
+msgstr ""
+
+#: 132143172-0-33375
+msgctxt "132143172-0-33375"
+msgid "Surround yourself in a phantasmic aura to gain Major Evasion, decreasing damage from area attacks by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-33375
+msgctxt "198758357-0-33375"
+msgid "Blur"
+msgstr ""
+
+#: 132143172-0-33357
+msgctxt "132143172-0-33357"
+msgid "Expose an enemy's weaknesses to afflict them with Major Fracture and Major Breach, reducing their Physical Resistance and Spell Resistance by <<1>> for <<2>>.\n\nWhen a marked enemy dies, you heal for <<3>>.  This portion of the ability scales off your Max Health.\n\nYou can only have one <<4>> active at a time."
+msgstr ""
+
+#: 198758357-0-33357
+msgctxt "198758357-0-33357"
+msgid "Mark Target"
+msgstr ""
+
+#: 132143172-0-25493
+msgctxt "132143172-0-25493"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>>.\n\nAfter teleporting you unleash a fan of knives, dealing an additional <<2>> over <<3>> to the target and nearby enemies.\n\nAll enemies hit are afflicted with <<4>> for <<5>>, increasing their damage taken by <<6>>."
+msgstr ""
+
+#: 198758357-0-25493
+msgctxt "198758357-0-25493"
+msgid "Lotus Fan"
+msgstr ""
+
+#: 132143172-0-25484
+msgctxt "132143172-0-25484"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and afflicting them with <<2>> for <<3>>, increasing their damage taken by <<4>>.\n\nAlso grants you Empower, increasing the damage of your next Light Attack by <<5>>."
+msgstr ""
+
+#: 198758357-0-25484
+msgctxt "198758357-0-25484"
+msgid "Ambush"
+msgstr ""
+
+#: 132143172-0-18342
+msgctxt "132143172-0-18342"
+msgid "Flash through the shadows and ambush an enemy, dealing <<1>> and afflicting them with <<2>> for <<3>>, increasing their damage taken by <<4>>."
+msgstr ""
+
+#: 198758357-0-18342
+msgctxt "198758357-0-18342"
+msgid "Teleport Strike"
+msgstr ""

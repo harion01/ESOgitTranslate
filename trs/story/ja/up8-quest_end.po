@@ -1,0 +1,646 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 116521668-0-11244
+#, fuzzy
+msgctxt "116521668-0-11244"
+msgid "They'll accept her … for now.\n\nIf she allows it, I shall advise her. She'll need all the help she can get."
+msgstr "認めるはずよ… とりあえずはね\r\n\r\n彼女が望むなら助言をする。色々と助けが必要になるだろうから"
+
+#: 232026500-0-11244
+#, fuzzy
+msgctxt "232026500-0-11244"
+msgid "Will Shatul accept <<1>> as chief?"
+msgstr "シャトゥルは<<1>>を族長として認めるだろうか？"
+
+#: 116521668-0-11208
+#, fuzzy
+msgctxt "116521668-0-11208"
+msgid "I hope she had an unceremonious drop shortly after! Did you make a few choice gestures Coldharbour's way while your were up there? Believe I would.\n\nI've got an empress's ransom right here. Take it! Until tomorrow."
+msgstr "きっと彼女はすぐ無作法に倒れたんでしょうね！ 対面した時は、コールドハーバー流のジェスチャーでもした？ もちろん、私ならやる\r\n\r\n女帝の身代金を手に入れたわ。受け取って！ じゃあ、また明日ね"
+
+#: 232026500-0-11208
+#, fuzzy
+msgctxt "232026500-0-11208"
+msgid "So am I worthy of a reward?"
+msgstr "報酬を得られるだけのことはできただろうか？"
+
+#: 116521668-0-11196
+#, fuzzy
+msgctxt "116521668-0-11196"
+msgid "Reassuring, isn't it? Knowing the Daedra can suffer. I could kill them all day. You too, it seems.\n\nYour key and your cut. See me tomorrow, I'll find you something equally rewarding."
+msgstr "デイドラも傷つくと分かって、心強いわ。私は連中を一日中でも殺してられるわよ。もちろん、あなたもね\r\n\r\n鍵と報酬を受け取って。明日また会いましょう。今日と同じく、価値のある報酬を探しておくわ"
+
+#: 232026500-0-11196
+#, fuzzy
+msgctxt "232026500-0-11196"
+msgid "What is my reward for defeating Lord Warden Dusk?"
+msgstr "ダスク看守長を倒した報酬は？"
+
+#: 116521668-0-11186
+msgctxt "116521668-0-11186"
+msgid "You helped restore the Thieves Guild—make it more than it once was. Of course I trust your judgment. Now, all the old business is put to rest.\n\nLet's go. We have a guild to run."
+msgstr "あなたは盗賊ギルドの再建を助けた。昔以上のものにした。もちろんあなたの判断を信じるわ。これで古い問題が片付いた\r\n\r\n行くわよ。ギルドの仕事がある"
+
+#: 232026500-0-11186
+msgctxt "232026500-0-11186"
+msgid "Are you all right with how I handled <<1>>?"
+msgstr "<<1>>の処遇は問題なかったか？"
+
+#: 116521668-0-11185
+msgctxt "116521668-0-11185"
+msgid "You helped restore the Thieves Guild—make it more than it once was. Of course I trust your judgment. Now, all the old business is put to rest.\n\nLet's go. We have a guild to run."
+msgstr "あなたは盗賊ギルドの再建を助けた。昔以上のものにした。もちろんあなたの判断を信じるわ。これで古い問題が片付いた\r\n\r\n行くわよ。ギルドの仕事がある"
+
+#: 232026500-0-11185
+msgctxt "232026500-0-11185"
+msgid "Are you all right with how I handled <<1>>?"
+msgstr "<<1>>の処遇は問題なかったか？"
+
+#: 116521668-0-11184
+msgctxt "116521668-0-11184"
+msgid "The Iron Wheel is a hurricane that blew into port and smashed everything in its path. <<1>> and <<2>> are the ones who set it in motion.\n\nNow? We learn what they hold most dear. Then we take it from them."
+msgstr "〈鉄の車輪〉は港を襲い、すべてを破壊した嵐よ。動かしたのは<<1>>と<<2>>だわ\r\n\r\nこれから？ 奴らの最も大事なものを突き止める。そして奪うのよ"
+
+#: 232026500-0-11184
+msgctxt "232026500-0-11184"
+msgid "What is the next step for the Thieves Guild?"
+msgstr "盗賊ギルドの次の一歩は何だ？"
+
+#: 116521668-0-11183
+msgctxt "116521668-0-11183"
+msgid "The Iron Wheel is a hurricane that blew into port and smashed everything in its path. <<1>> and <<2>> are the ones who set it in motion.\n\nNow? We learn what they hold most dear. Then we take it from them."
+msgstr "〈鉄の車輪〉は港を襲い、すべてを破壊した嵐よ。動かしたのは<<1>>と<<2>>だわ\r\n\r\nこれから？ 奴らの最も大事なものを突き止める。そして奪うのよ"
+
+#: 232026500-0-11183
+msgctxt "232026500-0-11183"
+msgid "What is the next step for the Thieves Guild?"
+msgstr "盗賊ギルドの次の一歩は何だ？"
+
+#: 116521668-0-11180
+msgctxt "116521668-0-11180"
+msgid "The Iron Wheel is a hurricane that blew into port and smashed everything in its path. <<1>> and <<2>> are the ones who set it in motion.\n\nNow? We learn what they hold most dear. Then we take it from them."
+msgstr "〈鉄の車輪〉は港を襲い、すべてを破壊した嵐よ。動かしたのは<<1>>と<<2>>だわ\r\n\r\nこれから？ 奴らの最も大事なものを突き止める。そして奪うのよ"
+
+#: 232026500-0-11180
+msgctxt "232026500-0-11180"
+msgid "What is the next step for the Thieves Guild?"
+msgstr "盗賊ギルドの次の一歩は何だ？"
+
+#: 116521668-0-11174
+#, fuzzy
+msgctxt "116521668-0-11174"
+msgid "Taka? Bakhum thinks not. He does not thrash and snarl like the others, but his eyes seem lost at sea, yes? This one will return him to his family. With time and good food … who can say, eh?\n\nTake this, friend, and may Baan Dar dust your tracks."
+msgstr "タカ？ バクームはそう思わない。他の者のように叩いたり怒鳴ったりしないが、彼は海で遭難したような目だ。この者は彼を家族のもとへ返す。時間をかけて美味しい食べものを食べれば… 治るかもしれない\r\n\r\nこれを受け取れ。バーン・ダルの導きがありますように"
+
+#: 232026500-0-11174
+msgctxt "232026500-0-11174"
+msgid "This is your friend, right? Will he be all right?"
+msgstr "友達だろう？ 彼は大丈夫か？"
+
+#: 116521668-0-11169
+msgctxt "116521668-0-11169"
+msgid "You helped restore the Thieves Guild—make it more than it once was. Of course I trust your judgment. Now, all the old business is put to rest.\n\nLet's go. We have a guild to run."
+msgstr "あなたは盗賊ギルドの再建を助けた。昔以上のものにした。もちろんあなたの判断を信じるわ。これで古い問題が片付いた\r\n\r\n行くわよ。ギルドの仕事がある"
+
+#: 232026500-0-11169
+msgctxt "232026500-0-11169"
+msgid "Are you all right with how I handled <<1>>?"
+msgstr "<<1>>の処遇は問題なかったか？"
+
+#: 116521668-0-11166
+msgctxt "116521668-0-11166"
+msgid "Greed. Another admirable trait. Anyone who claims to work for free either wants to rob or cheat you. Never trust an unselfish cur, that's my motto.\n\nHere's your gold. You want more, come back tomorrow. Probably need to replace the sigils by then."
+msgstr "強欲？ またもや称賛に値する性質ね。ただで仕事をすると主張する者は盗みか詐欺を働くつもりよ。自己中心的ではない奴は信用しない。それが信条\r\n\r\n取り分の金よ。もっと欲しければ、明日来て。その頃には印を交換する必要があるはずよ"
+
+#: 232026500-0-11166
+msgctxt "232026500-0-11166"
+msgid "You owe me some gold, too, don't you?"
+msgstr "金の借りがあるだろう？"
+
+#: 116521668-0-11160
+msgctxt "116521668-0-11160"
+msgid "<<1>> said you were in charge until she returned to <<c:2>>. That makes you the acting guildmaster.\n\nBoss."
+msgstr "<<1>>の話では、彼女が<<2>>に戻るまでお前が責任者だそうだ。つまりギルドマスター代理だ\r\n\r\nボス"
+
+#: 232026500-0-11154
+msgctxt "232026500-0-11154"
+msgid "We killed the war criminal and recovered the stolen items."
+msgstr "戦犯を始末して盗まれた品を取り戻した"
+
+#: 116521668-0-11153
+#, fuzzy
+msgctxt "116521668-0-11153"
+msgid """Never waste an opportunity."" Huh. <<1>> used to say that.\n\nWell, then … let's see what Taneth nobles think ""lucrative"" means."
+msgstr "「チャンスを無駄にするな」か。フン。<<1>>が昔言っていたことよ\r\n\r\nそれなら… タネスの貴族が考える「儲かる」ことを聞いてみましょう"
+
+#: 232026500-0-11153
+msgctxt "232026500-0-11153"
+msgid "Yes, she said it was a very lucrative offer."
+msgstr "ああ、彼女は非常に儲かる申し出だと言った"
+
+#: 116521668-0-11150
+msgctxt "116521668-0-11150"
+msgid "From the vampire lord? Yes. But these are turbulent times. Other threats endanger Anvil and the Gold Coast—some even worse than Zalar-do.\n\nRemain vigilant, hunter. Perhaps we shall meet again."
+msgstr "吸血鬼の王からか？ それなら安全だ。だが今は不穏な世の中だ。アンヴィルとゴールドコーストが新たな脅威に晒されることも考えられる。それはザラル・ドーよりも恐ろしい相手かもしれない\r\n\r\n注意を怠るなよ。またいつか会うことになるかもしれん"
+
+#: 232026500-0-11150
+msgctxt "232026500-0-11150"
+msgid "Does this mean Anvil is safe now?"
+msgstr "つまりアンヴィルはもう安全なのか？"
+
+#: 116521668-0-11149
+#, fuzzy
+msgctxt "116521668-0-11149"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11149
+msgctxt "232026500-0-11149"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11148
+#, fuzzy
+msgctxt "116521668-0-11148"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11148
+msgctxt "232026500-0-11148"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11147
+#, fuzzy
+msgctxt "116521668-0-11147"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11147
+msgctxt "232026500-0-11147"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11146
+#, fuzzy
+msgctxt "116521668-0-11146"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11146
+msgctxt "232026500-0-11146"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11145
+msgctxt "116521668-0-11145"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11145
+msgctxt "232026500-0-11145"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11144
+#, fuzzy
+msgctxt "116521668-0-11144"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11144
+msgctxt "232026500-0-11144"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11143
+#, fuzzy
+msgctxt "116521668-0-11143"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11143
+msgctxt "232026500-0-11143"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11142
+#, fuzzy
+msgctxt "116521668-0-11142"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11142
+msgctxt "232026500-0-11142"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11141
+#, fuzzy
+msgctxt "116521668-0-11141"
+msgid "You did more for us than anyone in this wretched city. Raynor and I will do our jobs and complete our contracts.\n\nThen it's off to Hammerfell! There are ruins to explore, adventures to partake in! I'm all tingly with anticipation!"
+msgstr "あなたは、この悲惨な街の誰よりも優しかった。レイノーと私は働いて、必ず仕事を終えるわ\r\n\r\nそうしたらハンマーフェルに向けて出発よ！ あそこには興味深い遺跡があるし、冒険もたくさんある！ 考えただけでワクワクする！"
+
+#: 232026500-0-11141
+msgctxt "232026500-0-11141"
+msgid "Is there anything else I can help you with?"
+msgstr "他に何かできることは？"
+
+#: 116521668-0-11127
+#, fuzzy
+msgctxt "116521668-0-11127"
+msgid "Here. That's most of what's left after I paid off that walking canker. Thanks to you, I might break even on this voyage.\n\nEnjoy your time in Anvil, friend. I hope to never see these despicable docks again."
+msgstr "ほら。あいつに返済した後、大体これだけのお金が残った。あなたのおかげでこの航海の元も取れそうよ\r\n\r\nアンヴィルの滞在を楽しんでね。私はこんな卑劣な港には、二度と来たくない"
+
+#: 232026500-0-11127
+msgctxt "232026500-0-11127"
+msgid "Let's split the loot."
+msgstr "戦利品を分けよう"
+
+#: 116521668-0-11124
+msgctxt "116521668-0-11124"
+msgid "There are few who could meet the needs of these buyers on such short notice. Your skills have made us all a hearty sum. The guild is sure to take note."
+msgstr "この短期間で買い手の期待に応えられる者はあまりいない。お前の技術でだいぶ儲かった。ギルドは必ず注目するだろう"
+
+#: 232026500-0-11124
+msgctxt "232026500-0-11124"
+msgid "Thanks, Fa'ren."
+msgstr "ありがとう、ファレン"
+
+#: 116521668-0-11120
+#, fuzzy
+msgctxt "116521668-0-11120"
+msgid "That's sweet, but you've already done more than enough. You helped me show my sister the truth about the Society of the Dragon. She's safe now and our plan worked exactly as I'd hoped.\n\nI couldn't have saved Josseline without your help. Thank you."
+msgstr "素晴らしい。でももう十分よ。あなたのおかげで妹にドラゴン協会の正体を見せられた。彼女はもう安全よ。計画は思った通りに進んだわ\r\n\r\nあなたがいなければ、ジョセリンを助けられなかった。ありがとう"
+
+#: 232026500-0-11120
+msgctxt "232026500-0-11120"
+msgid "Is there anything else I can do to help?"
+msgstr "他に手伝えることはあるか？"
+
+#: 116521668-0-11114
+msgctxt "116521668-0-11114"
+msgid "In return, I expect only unwavering loyalty and ruthless efficiency. Now, let us discuss the task before you. A killing that shall form a covenant between us, signed in blood."
+msgstr "その代わりに、揺るがぬ忠誠と無慈悲な効率のみを期待している。では、今から仕事について説明しよう。殺すことで、血で署名された契約が結ばれる"
+
+#: 232026500-0-11114
+msgctxt "232026500-0-11114"
+msgid "I wish to join the Dark Brotherhood. I accept."
+msgstr "闇の一党に加わりたい。受け入れよう"
+
+#: 116521668-0-11113
+msgctxt "116521668-0-11113"
+msgid "I don't know.\n\nI think I'll stay in Abah's Landing for now. It's where my friends are."
+msgstr "分からない\r\n\r\n今はアバーズ・ランディングに残るわ。友達がいる場所だから"
+
+#: 232026500-0-11113
+msgctxt "232026500-0-11113"
+msgid "What will you do now?"
+msgstr "これからどうする？"
+
+#: 116521668-0-11112
+msgctxt "116521668-0-11112"
+msgid "I'll give her my bunk. Honestly, I prefer hammocks.\n\n<<1>> won't have the luxuries of her manor, but she'll be safe in <<c:2>>. As my father would have wanted."
+msgstr "私の寝床をあげるわ。正直、ハンモックの方が好きなの\r\n\r\n<<1>>は自分の邸宅のような贅沢はできないけど、<<2>>は安全だわ。父もそう望んだはずよ"
+
+#: 232026500-0-11112
+msgctxt "232026500-0-11112"
+msgid "Where will she stay?"
+msgstr "彼女はどこに滞在する？"
+
+#: 116521668-0-11109
+msgctxt "116521668-0-11109"
+msgid "The deal is off, but it's no trouble, boss. I'll find another outlet for these goods. <<1>> always comes through."
+msgstr "取引は無効だが、問題ない。あの品物に関しては別の販路を見つける。<<1>>はいつだってやり遂げる"
+
+#: 232026500-0-11109
+msgctxt "232026500-0-11109"
+msgid "The buyers still around?"
+msgstr "買い手はまだいるか？"
+
+#: 116521668-0-11108
+msgctxt "116521668-0-11108"
+msgid "It must be important if the Iron Wheel wants it. Father did love his puzzles. I should see if it means anything.\n\nThank you for this. It's not the answer I wanted, but I'm glad you were by my side."
+msgstr "〈鉄の車輪〉が欲しがるなら重要なものに違いないわ。確かに父はパズルを愛してた。何か意味があるか調べてみるわ\r\n\r\nありがとう。求めていた答えではないけど、側にいてくれて嬉しかった"
+
+#: 232026500-0-11108
+msgctxt "232026500-0-11108"
+msgid "<<1>> wanted you to have this ledger."
+msgstr "<<1>>がこの台帳をあなたにと"
+
+#: 116521668-0-11103
+msgctxt "116521668-0-11103"
+msgid "I'm … happy to hear <<1>> plans to join us. Her skills will be invaluable.\n\nNot very convincing, was it? I'll need to practice."
+msgstr "<<1>>が仲間になってくれるそうね… 嬉しい。彼女の技術は貴重だわ\r\n\r\n説得力が足りない？ 練習しないと"
+
+#: 232026500-0-11103
+msgctxt "232026500-0-11103"
+msgid "No, I convinced her. She said she would be here."
+msgstr "いや、彼女を説得した。ここに来ると言っていた"
+
+#: 116521668-0-11100
+msgctxt "116521668-0-11100"
+msgid "I'll go through what you recovered. See if it offers a clue to <<1>>'s plans, or anything involving the missing dowry. I need to make sense of all this.\n\nGet some rest. I'll need you ready when we make our move. And … good job."
+msgstr "回収してきたものを確認するわ。<<1>>の計画、または行方不明の持参金に関する手掛かりを探してみる。状況を理解しないと\r\n\r\n少し休んで。行動する時のために準備しておいて。それから… よくやったわ"
+
+#: 232026500-0-11100
+msgctxt "232026500-0-11100"
+msgid "What now?"
+msgstr "次はどうする？"
+
+#: 116521668-0-11093
+msgctxt "116521668-0-11093"
+msgid "Good—you aren't afraid of a challenge. The more you do for us, the more gold and respect you'll earn. Reputation goes a long way with us."
+msgstr "良かった… 挑戦が怖くないのね。仕事をすればするほど、金と尊敬を獲得できる。私達にとって良い評判は重要よ"
+
+#: 232026500-0-11093
+msgctxt "232026500-0-11093"
+msgid "I'll join the Thieves Guild."
+msgstr "盗賊ギルドに加わろう"
+
+#: 116521668-0-11092
+msgctxt "116521668-0-11092"
+msgid "Good—you aren't afraid of a challenge. The more you do for us, the more gold and respect you'll earn. Reputation goes a long way with us.\n\nBringing us the <<1>> is a good start. Here's your cut. Don't worry, <<2>> will get her portion."
+msgstr "良かった… 挑戦が怖くないのね。仕事をすればするほど、金と尊敬を獲得できる。私達にとって良い評判は重要よ\r\n\r\n<<1>>を取って来たのは幸先がいいわ。これがあなたの分よ。心配しないで、<<2>>の分もあるわ"
+
+#: 232026500-0-11092
+msgctxt "232026500-0-11092"
+msgid "I'll join the Thieves Guild."
+msgstr "盗賊ギルドに加わろう"
+
+#: 116521668-0-11089
+#, fuzzy
+msgctxt "116521668-0-11089"
+msgid "<The client provided a crate of Alchemy supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主から錬金術用品の入った木箱とメモが与えられた>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11089
+msgctxt "232026500-0-11089"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11088
+#, fuzzy
+msgctxt "116521668-0-11088"
+msgid "<The client provided a crate of Alchemy supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主から錬金術用品の入った木箱とメモが与えられた>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11088
+msgctxt "232026500-0-11088"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11087
+#, fuzzy
+msgctxt "116521668-0-11087"
+msgid "<The client provided a crate of Alchemy supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主から錬金術用品の入った木箱とメモが与えられた>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11087
+msgctxt "232026500-0-11087"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11086
+#, fuzzy
+msgctxt "116521668-0-11086"
+msgid "<The client provided a crate of Alchemy supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主から錬金術用品の入った木箱とメモが与えられた>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11086
+msgctxt "232026500-0-11086"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11085
+#, fuzzy
+msgctxt "116521668-0-11085"
+msgid "<The client provided a crate of Provisioner supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主からの支払いとして、調理師器材の入った箱とメモが支給された>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11085
+msgctxt "232026500-0-11085"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11084
+#, fuzzy
+msgctxt "116521668-0-11084"
+msgid "<The client provided a crate of Provisioner supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主からの支払いとして、調理師器材の入った箱とメモが支給された>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11084
+msgctxt "232026500-0-11084"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11083
+#, fuzzy
+msgctxt "116521668-0-11083"
+msgid "<The client provided a crate of Provisioner supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼主からの支払いとして、調理師器材の入った箱とメモが支給された>\r\n\r\n「オルシニウム復興と復讐議会はあなたの働きに感謝している。これらの物資はオルシニウムの再建に役立つだろう。マラキャスから、あなたの敵に呪いを！」"
+
+#: 232026500-0-11083
+msgctxt "232026500-0-11083"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11082
+#, fuzzy
+msgctxt "116521668-0-11082"
+msgid "<The client provided a crate of Enchanting supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として付呪の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11082
+msgctxt "232026500-0-11082"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11081
+#, fuzzy
+msgctxt "116521668-0-11081"
+msgid "<The client provided a crate of Enchanting supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として付呪の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11081
+msgctxt "232026500-0-11081"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11080
+#, fuzzy
+msgctxt "116521668-0-11080"
+msgid "<The client provided a crate of Enchanting supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として付呪の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11080
+msgctxt "232026500-0-11080"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11079
+#, fuzzy
+msgctxt "116521668-0-11079"
+msgid "<The client provided a crate of Woodworking supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として木工の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11079
+msgctxt "232026500-0-11079"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11078
+#, fuzzy
+msgctxt "116521668-0-11078"
+msgid "<The client provided a crate of Woodworker supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として木工の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11078
+msgctxt "232026500-0-11078"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11077
+#, fuzzy
+msgctxt "116521668-0-11077"
+msgid "<The client provided a crate of Woodworker supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として木工の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11077
+msgctxt "232026500-0-11077"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11076
+#, fuzzy
+msgctxt "116521668-0-11076"
+msgid "<The client provided a crate of Clothier supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼者は仕立屋の物資が入った木箱を報酬として置いていった。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事を評価している。これらの物資はオルシニウム市を改修するために使われる。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11076
+msgctxt "232026500-0-11076"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11075
+#, fuzzy
+msgctxt "116521668-0-11075"
+msgid "<The client provided a crate of Clothier supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼者は仕立屋の物資が入った木箱を報酬として置いていった。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事を評価している。これらの物資はオルシニウム市を改修するために使われる。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11075
+msgctxt "232026500-0-11075"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11074
+#, fuzzy
+msgctxt "116521668-0-11074"
+msgid "<The client provided a crate of Clothier supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼者は仕立屋の物資が入った木箱を報酬として置いていった。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事を評価している。これらの物資はオルシニウム市を改修するために使われる。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11074
+msgctxt "232026500-0-11074"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11073
+#, fuzzy
+msgctxt "116521668-0-11073"
+msgid "<The client provided a crate of Blacksmith supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として鍛冶の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11073
+msgctxt "232026500-0-11073"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11072
+#, fuzzy
+msgctxt "116521668-0-11072"
+msgid "Exemplary work. You truly possess the gift of death.\n\nReturn tomorrow. I'm certain we can find more ways to put your skills to the test."
+msgstr "見事だ。お前には間違いなく死をもたらす才能がある\r\n\r\n明日また来てくれ。その能力を確かめるために、新たな試練を用意しておく"
+
+#: 232026500-0-11072
+msgctxt "232026500-0-11072"
+msgid "The Sacrament is fulfilled."
+msgstr "聖餐は完了した"
+
+#: 116521668-0-11069
+msgctxt "116521668-0-11069"
+msgid "Excellent. The Night Mother will be pleased.\n\nReturn tomorrow. I am eager to see you reach your full potential."
+msgstr "素晴らしい。夜母も喜ぶだろう\r\n\r\n明日また来てくれ。お前の本当の力を見てみたい"
+
+#: 232026500-0-11069
+msgctxt "232026500-0-11069"
+msgid "The Sacrament is fulfilled."
+msgstr "聖餐は完了した"
+
+#: 116521668-0-11068
+#, fuzzy
+msgctxt "116521668-0-11068"
+msgid "It seems your work was far from perfect, but a life is a life.\n\nReturn tomorrow. The truest path to improvement is practice, and the Night Mother provides ample opportunity for that."
+msgstr "お前の仕事は完璧とはほど遠い。だが命は命だ\r\n\r\n明日また来てくれ。訓練こそが上達の真なる道だ。夜母は上達するために、十分な機会を与えてくれる"
+
+#: 232026500-0-11068
+msgctxt "232026500-0-11068"
+msgid "The Sacrament is fulfilled."
+msgstr "聖餐は完了した"
+
+#: 116521668-0-11066
+#, fuzzy
+msgctxt "116521668-0-11066"
+msgid "<The client provided a crate of Blacksmith supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として鍛冶の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11066
+msgctxt "232026500-0-11066"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11065
+#, fuzzy
+msgctxt "116521668-0-11065"
+msgid "<The client provided a crate of Blacksmith supplies as payment, along with a note.>\n\n""The Orsinium Civic Renewal and Vengeance Committee appreciates your work. These supplies now go toward renewing the city of Orsinium. Malacath curse your enemies!"""
+msgstr "<依頼人は報酬として鍛冶の物資が入った木箱を提供してくれた。メモが入っている>\r\n\r\n「オルシニウム復興と復讐議会はあなたの仕事に感謝している。この物資はこれより、オルシニウムの街の復興に使われるだろう。マラキャスがあなたの敵を呪うように！」"
+
+#: 232026500-0-11065
+msgctxt "232026500-0-11065"
+msgid "<Sign the Manifest.>"
+msgstr "<伝票に署名する>"
+
+#: 116521668-0-11064
+msgctxt "116521668-0-11064"
+msgid "Good job."
+msgstr "Good job."
+
+#: 232026500-0-11064
+msgctxt "232026500-0-11064"
+msgid "I've eliminated my target."
+msgstr "I've eliminated my target."
+
+#: 116521668-0-11060
+msgctxt "116521668-0-11060"
+msgid "You may believe her lies, but I won't let her get away with murder. She'll pay me the blood price or she'll die!"
+msgstr "あなたが彼女の嘘を信じ込まされても、私はあの女の殺人を見逃したりはしない。血の代償を払うか、死ぬかよ！"
+
+#: 232026500-0-11060
+msgctxt "232026500-0-11060"
+msgid "It won't be me."
+msgstr "私は違う"
+
+#: 116521668-0-11154
+msgctxt "116521668-0-11154"
+msgid "Apinia is dead, so she won't slaughter any more citizens. That will please Queen Ayrenn, which pleases Raz. And we recovered Bravil's trinkets. A good day's work, yes?\n\nThis one might stick around. Look into Trading Company. Stay fragrant, my friend!"
+msgstr "アピニアは死んだ。彼女が市民を殺すことはもうない。アイレン女王も喜ぶはずだ、ラズも嬉しい。それにブラヴィルの品も回収した。一日の仕事としては上出来だ\r\n\r\nこの者はここに留まるつもりだ。貿易会社を調べる。楽しんで行ってくれ！"

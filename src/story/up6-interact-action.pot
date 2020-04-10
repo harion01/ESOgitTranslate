@@ -1,0 +1,2137 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 74865733-0-9044
+msgctxt "74865733-0-9044"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-8962
+msgctxt "74865733-0-8962"
+msgid "Open"
+msgstr ""
+
+#: 263004526-0-40644
+msgctxt "263004526-0-40644"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-40431
+msgctxt "12912341-0-40431"
+msgid "Talk"
+msgstr ""
+
+#: 108533454-0-3319
+msgctxt "108533454-0-3319"
+msgid "Talking…"
+msgstr ""
+
+#: 7949764-0-30184
+msgctxt "7949764-0-30184"
+msgid "Unlock Seal of Binding"
+msgstr ""
+
+#: 263004526-0-27773
+msgctxt "263004526-0-27773"
+msgid "Talking…"
+msgstr ""
+
+#: 7949764-0-26126
+msgctxt "7949764-0-26126"
+msgid "Door Hint 1"
+msgstr ""
+
+#: 263004526-0-23888
+msgctxt "263004526-0-23888"
+msgid "Talking…"
+msgstr ""
+
+#: 12912341-0-21265
+msgctxt "12912341-0-21265"
+msgid "Talk"
+msgstr ""
+
+#: 263004526-0-21265
+msgctxt "263004526-0-21265"
+msgid "Talking…"
+msgstr ""
+
+#: 74865733-0-18908
+msgctxt "74865733-0-18908"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18908
+msgctxt "108533454-0-18908"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18907
+msgctxt "74865733-0-18907"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18907
+msgctxt "108533454-0-18907"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18906
+msgctxt "74865733-0-18906"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18906
+msgctxt "108533454-0-18906"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18905
+msgctxt "74865733-0-18905"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18905
+msgctxt "108533454-0-18905"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18904
+msgctxt "74865733-0-18904"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18904
+msgctxt "108533454-0-18904"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18903
+msgctxt "74865733-0-18903"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18903
+msgctxt "108533454-0-18903"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18902
+msgctxt "74865733-0-18902"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18902
+msgctxt "108533454-0-18902"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18901
+msgctxt "74865733-0-18901"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18901
+msgctxt "108533454-0-18901"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18900
+msgctxt "74865733-0-18900"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18900
+msgctxt "108533454-0-18900"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18899
+msgctxt "74865733-0-18899"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18899
+msgctxt "108533454-0-18899"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18898
+msgctxt "74865733-0-18898"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18898
+msgctxt "108533454-0-18898"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18897
+msgctxt "74865733-0-18897"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18897
+msgctxt "108533454-0-18897"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18896
+msgctxt "74865733-0-18896"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18896
+msgctxt "108533454-0-18896"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18895
+msgctxt "74865733-0-18895"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18895
+msgctxt "108533454-0-18895"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18894
+msgctxt "74865733-0-18894"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18894
+msgctxt "108533454-0-18894"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18893
+msgctxt "74865733-0-18893"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18893
+msgctxt "108533454-0-18893"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18892
+msgctxt "74865733-0-18892"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18892
+msgctxt "108533454-0-18892"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18891
+msgctxt "74865733-0-18891"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18891
+msgctxt "108533454-0-18891"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18890
+msgctxt "74865733-0-18890"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18890
+msgctxt "108533454-0-18890"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18889
+msgctxt "74865733-0-18889"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18889
+msgctxt "108533454-0-18889"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18888
+msgctxt "74865733-0-18888"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18888
+msgctxt "108533454-0-18888"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18887
+msgctxt "74865733-0-18887"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18887
+msgctxt "108533454-0-18887"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18886
+msgctxt "74865733-0-18886"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18886
+msgctxt "108533454-0-18886"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18885
+msgctxt "74865733-0-18885"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18885
+msgctxt "108533454-0-18885"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18884
+msgctxt "74865733-0-18884"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18884
+msgctxt "108533454-0-18884"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18883
+msgctxt "74865733-0-18883"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18883
+msgctxt "108533454-0-18883"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18882
+msgctxt "74865733-0-18882"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18882
+msgctxt "108533454-0-18882"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18881
+msgctxt "74865733-0-18881"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18881
+msgctxt "108533454-0-18881"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18880
+msgctxt "74865733-0-18880"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18880
+msgctxt "108533454-0-18880"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18879
+msgctxt "74865733-0-18879"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18879
+msgctxt "108533454-0-18879"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18878
+msgctxt "74865733-0-18878"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18878
+msgctxt "108533454-0-18878"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18877
+msgctxt "74865733-0-18877"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18877
+msgctxt "108533454-0-18877"
+msgid "Examining..."
+msgstr ""
+
+#: 74865733-0-18875
+msgctxt "74865733-0-18875"
+msgid "Read"
+msgstr ""
+
+#: 108533454-0-18873
+msgctxt "108533454-0-18873"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18872
+msgctxt "74865733-0-18872"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18872
+msgctxt "108533454-0-18872"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18871
+msgctxt "74865733-0-18871"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18871
+msgctxt "108533454-0-18871"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18870
+msgctxt "74865733-0-18870"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18870
+msgctxt "108533454-0-18870"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18869
+msgctxt "74865733-0-18869"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18869
+msgctxt "108533454-0-18869"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18868
+msgctxt "74865733-0-18868"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18868
+msgctxt "108533454-0-18868"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18867
+msgctxt "74865733-0-18867"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18867
+msgctxt "108533454-0-18867"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18866
+msgctxt "74865733-0-18866"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18866
+msgctxt "108533454-0-18866"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18865
+msgctxt "74865733-0-18865"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18865
+msgctxt "108533454-0-18865"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18864
+msgctxt "74865733-0-18864"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18864
+msgctxt "108533454-0-18864"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18863
+msgctxt "74865733-0-18863"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18863
+msgctxt "108533454-0-18863"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18862
+msgctxt "74865733-0-18862"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18862
+msgctxt "108533454-0-18862"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18861
+msgctxt "74865733-0-18861"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18861
+msgctxt "108533454-0-18861"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18860
+msgctxt "74865733-0-18860"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18860
+msgctxt "108533454-0-18860"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18859
+msgctxt "74865733-0-18859"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18859
+msgctxt "108533454-0-18859"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18858
+msgctxt "74865733-0-18858"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18858
+msgctxt "108533454-0-18858"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18857
+msgctxt "74865733-0-18857"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18857
+msgctxt "108533454-0-18857"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18856
+msgctxt "74865733-0-18856"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18856
+msgctxt "108533454-0-18856"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18855
+msgctxt "74865733-0-18855"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18855
+msgctxt "108533454-0-18855"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18854
+msgctxt "74865733-0-18854"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18854
+msgctxt "108533454-0-18854"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18853
+msgctxt "74865733-0-18853"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18853
+msgctxt "108533454-0-18853"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18852
+msgctxt "74865733-0-18852"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18852
+msgctxt "108533454-0-18852"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18851
+msgctxt "74865733-0-18851"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18851
+msgctxt "108533454-0-18851"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18850
+msgctxt "74865733-0-18850"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18850
+msgctxt "108533454-0-18850"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18849
+msgctxt "74865733-0-18849"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18849
+msgctxt "108533454-0-18849"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18848
+msgctxt "74865733-0-18848"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18848
+msgctxt "108533454-0-18848"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18847
+msgctxt "74865733-0-18847"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18847
+msgctxt "108533454-0-18847"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18846
+msgctxt "74865733-0-18846"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18846
+msgctxt "108533454-0-18846"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18845
+msgctxt "74865733-0-18845"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18845
+msgctxt "108533454-0-18845"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18844
+msgctxt "74865733-0-18844"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18844
+msgctxt "108533454-0-18844"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18843
+msgctxt "74865733-0-18843"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18843
+msgctxt "108533454-0-18843"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18842
+msgctxt "74865733-0-18842"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18842
+msgctxt "108533454-0-18842"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18841
+msgctxt "74865733-0-18841"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18841
+msgctxt "108533454-0-18841"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18840
+msgctxt "74865733-0-18840"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18840
+msgctxt "108533454-0-18840"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18839
+msgctxt "74865733-0-18839"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18839
+msgctxt "108533454-0-18839"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18838
+msgctxt "74865733-0-18838"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18838
+msgctxt "108533454-0-18838"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18837
+msgctxt "74865733-0-18837"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18837
+msgctxt "108533454-0-18837"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18836
+msgctxt "74865733-0-18836"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18836
+msgctxt "108533454-0-18836"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18835
+msgctxt "74865733-0-18835"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18835
+msgctxt "108533454-0-18835"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18834
+msgctxt "74865733-0-18834"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18834
+msgctxt "108533454-0-18834"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18833
+msgctxt "74865733-0-18833"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18833
+msgctxt "108533454-0-18833"
+msgid "Stealing …"
+msgstr ""
+
+#: 74865733-0-18832
+msgctxt "74865733-0-18832"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18832
+msgctxt "108533454-0-18832"
+msgid "Stealing …"
+msgstr ""
+
+#: 108533454-0-18830
+msgctxt "108533454-0-18830"
+msgid "Searching..."
+msgstr ""
+
+#: 108533454-0-18824
+msgctxt "108533454-0-18824"
+msgid "Using…"
+msgstr ""
+
+#: 108533454-0-18822
+msgctxt "108533454-0-18822"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18821
+msgctxt "108533454-0-18821"
+msgid "Searching …"
+msgstr ""
+
+#: 74865733-0-18819
+msgctxt "74865733-0-18819"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18780
+msgctxt "108533454-0-18780"
+msgid "Examining…"
+msgstr ""
+
+#: 74865733-0-18779
+msgctxt "74865733-0-18779"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18779
+msgctxt "108533454-0-18779"
+msgid "Examining…"
+msgstr ""
+
+#: 74865733-0-18778
+msgctxt "74865733-0-18778"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18778
+msgctxt "108533454-0-18778"
+msgid "Examining…"
+msgstr ""
+
+#: 74865733-0-18777
+msgctxt "74865733-0-18777"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18777
+msgctxt "108533454-0-18777"
+msgid "Examining…"
+msgstr ""
+
+#: 74865733-0-18776
+msgctxt "74865733-0-18776"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18776
+msgctxt "108533454-0-18776"
+msgid "Examining…"
+msgstr ""
+
+#: 74865733-0-18775
+msgctxt "74865733-0-18775"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18775
+msgctxt "108533454-0-18775"
+msgid "Examining…"
+msgstr ""
+
+#: 74865733-0-18774
+msgctxt "74865733-0-18774"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18774
+msgctxt "108533454-0-18774"
+msgid "Examining…"
+msgstr ""
+
+#: 108533454-0-18752
+msgctxt "108533454-0-18752"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18720
+msgctxt "108533454-0-18720"
+msgid "Examining…."
+msgstr ""
+
+#: 108533454-0-18708
+msgctxt "108533454-0-18708"
+msgid "Opening…"
+msgstr ""
+
+#: 108533454-0-14529
+msgctxt "108533454-0-14529"
+msgid "Read"
+msgstr ""
+
+#: 74865733-0-14134
+msgctxt "74865733-0-14134"
+msgid "Search"
+msgstr ""
+
+#: 108533454-0-14134
+msgctxt "108533454-0-14134"
+msgid "Searching…"
+msgstr ""
+
+#: 74865733-0-13682
+msgctxt "74865733-0-13682"
+msgid "Read"
+msgstr ""
+
+#: 108533454-0-13682
+msgctxt "108533454-0-13682"
+msgid "Read"
+msgstr ""
+
+#: 74865733-0-13118
+msgctxt "74865733-0-13118"
+msgid "Search"
+msgstr ""
+
+#: 108533454-0-13118
+msgctxt "108533454-0-13118"
+msgid "Searching…"
+msgstr ""
+
+#: 74865733-0-11997
+msgctxt "74865733-0-11997"
+msgid "Use"
+msgstr ""
+
+#: 12912341-0-7955
+msgctxt "12912341-0-7955"
+msgid "Talk"
+msgstr ""
+
+#: 263004526-0-62547
+msgctxt "263004526-0-62547"
+msgid "0"
+msgstr ""
+
+#: 12912341-0-61912
+msgctxt "12912341-0-61912"
+msgid "Search"
+msgstr ""
+
+#: 12912341-0-56151
+msgctxt "12912341-0-56151"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-5557
+msgctxt "74865733-0-5557"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-5315
+msgctxt "74865733-0-5315"
+msgid "Burn"
+msgstr ""
+
+#: 12912341-0-52829
+msgctxt "12912341-0-52829"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-5203
+msgctxt "74865733-0-5203"
+msgid "Knock"
+msgstr ""
+
+#: 12912341-0-49462
+msgctxt "12912341-0-49462"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-48741
+msgctxt "12912341-0-48741"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-4789
+msgctxt "74865733-0-4789"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-4788
+msgctxt "74865733-0-4788"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-4754
+msgctxt "74865733-0-4754"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-4752
+msgctxt "74865733-0-4752"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-4748
+msgctxt "74865733-0-4748"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-4732
+msgctxt "74865733-0-4732"
+msgid "Burn"
+msgstr ""
+
+#: 12912341-0-45917
+msgctxt "12912341-0-45917"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-45916
+msgctxt "12912341-0-45916"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-45678
+msgctxt "7949764-0-45678"
+msgid "Pay the toll of flesh by killing bats"
+msgstr ""
+
+#: 7949764-0-45665
+msgctxt "7949764-0-45665"
+msgid "Don Servant Disguise"
+msgstr ""
+
+#: 7949764-0-45620
+msgctxt "7949764-0-45620"
+msgid "Left Hosni's Dream"
+msgstr ""
+
+#: 7949764-0-45619
+msgctxt "7949764-0-45619"
+msgid "Left Hosni's Dream"
+msgstr ""
+
+#: 7949764-0-45618
+msgctxt "7949764-0-45618"
+msgid "Left Hosni's Dream"
+msgstr ""
+
+#: 7949764-0-45604
+msgctxt "7949764-0-45604"
+msgid "Defeat the Lamia Matriarch and her allies"
+msgstr ""
+
+#: 7949764-0-45603
+msgctxt "7949764-0-45603"
+msgid "Defeat the Lamia Matriarch and her allies"
+msgstr ""
+
+#: 7949764-0-45581
+msgctxt "7949764-0-45581"
+msgid "Retrieve the Torch of Heirs"
+msgstr ""
+
+#: 7949764-0-45575
+msgctxt "7949764-0-45575"
+msgid "Use the Rift to Escape to Tamriel"
+msgstr ""
+
+#: 7949764-0-45568
+msgctxt "7949764-0-45568"
+msgid "Defeat The Pack"
+msgstr ""
+
+#: 7949764-0-45567
+msgctxt "7949764-0-45567"
+msgid "Defeat The Pack"
+msgstr ""
+
+#: 7949764-0-45566
+msgctxt "7949764-0-45566"
+msgid "Kill Ilambris-Athor and Ilambris-Zaven"
+msgstr ""
+
+#: 7949764-0-45563
+msgctxt "7949764-0-45563"
+msgid "Loot a Weapon from the Dremora"
+msgstr ""
+
+#: 7949764-0-45562
+msgctxt "7949764-0-45562"
+msgid "Shut Down the Dark Anchor"
+msgstr ""
+
+#: 7949764-0-45561
+msgctxt "7949764-0-45561"
+msgid "Kill Matriarch"
+msgstr ""
+
+#: 7949764-0-45560
+msgctxt "7949764-0-45560"
+msgid "No Advance"
+msgstr ""
+
+#: 7949764-0-45559
+msgctxt "7949764-0-45559"
+msgid "Place Hagraven Heads on Pikes"
+msgstr ""
+
+#: 7949764-0-45558
+msgctxt "7949764-0-45558"
+msgid "Defeat Vaekar the Forgemaster"
+msgstr ""
+
+#: 7949764-0-45557
+msgctxt "7949764-0-45557"
+msgid "Defend Lyris"
+msgstr ""
+
+#: 7949764-0-45556
+msgctxt "7949764-0-45556"
+msgid "Wait for the Exchange"
+msgstr ""
+
+#: 7949764-0-45555
+msgctxt "7949764-0-45555"
+msgid "Get Valeyn's Help to Escape the Cell"
+msgstr ""
+
+#: 7949764-0-45554
+msgctxt "7949764-0-45554"
+msgid "Examine the Gate"
+msgstr ""
+
+#: 7949764-0-45553
+msgctxt "7949764-0-45553"
+msgid "Talk to the Students"
+msgstr ""
+
+#: 7949764-0-45550
+msgctxt "7949764-0-45550"
+msgid "Friend Lowered North Ward"
+msgstr ""
+
+#: 7949764-0-45549
+msgctxt "7949764-0-45549"
+msgid "Friend Lowered South Ward"
+msgstr ""
+
+#: 7949764-0-45545
+msgctxt "7949764-0-45545"
+msgid "Destroy the Coldharbour Sentinel"
+msgstr ""
+
+#: 7949764-0-45544
+msgctxt "7949764-0-45544"
+msgid "Light Campfires to Stay Warm"
+msgstr ""
+
+#: 7949764-0-45543
+msgctxt "7949764-0-45543"
+msgid "Destroy <<1>>"
+msgstr ""
+
+#: 7949764-0-45542
+msgctxt "7949764-0-45542"
+msgid "Reach the Prophet's Cell"
+msgstr ""
+
+#: 7949764-0-45541
+msgctxt "7949764-0-45541"
+msgid "Reach the Prophet's Cell"
+msgstr ""
+
+#: 7949764-0-45540
+msgctxt "7949764-0-45540"
+msgid "Kill Assassins"
+msgstr ""
+
+#: 7949764-0-45537
+msgctxt "7949764-0-45537"
+msgid "Collect Knight of the Flame Tabards"
+msgstr ""
+
+#: 7949764-0-45536
+msgctxt "7949764-0-45536"
+msgid "Collect Knight of the Flame Tabards"
+msgstr ""
+
+#: 7949764-0-45535
+msgctxt "7949764-0-45535"
+msgid "Collect Knight of the Flame Tabards"
+msgstr ""
+
+#: 7949764-0-45534
+msgctxt "7949764-0-45534"
+msgid "Follow the <<1>>"
+msgstr ""
+
+#: 7949764-0-45533
+msgctxt "7949764-0-45533"
+msgid "Follow Lyris"
+msgstr ""
+
+#: 7949764-0-45532
+msgctxt "7949764-0-45532"
+msgid "Collect Soil Samples"
+msgstr ""
+
+#: 7949764-0-45531
+msgctxt "7949764-0-45531"
+msgid "Collect Soil Samples"
+msgstr ""
+
+#: 7949764-0-45530
+msgctxt "7949764-0-45530"
+msgid "Collect Root Samples"
+msgstr ""
+
+#: 7949764-0-45529
+msgctxt "7949764-0-45529"
+msgid "Collect Root Samples"
+msgstr ""
+
+#: 7949764-0-45527
+msgctxt "7949764-0-45527"
+msgid "Enter the Locked House"
+msgstr ""
+
+#: 7949764-0-45526
+msgctxt "7949764-0-45526"
+msgid "Activate the Pinions"
+msgstr ""
+
+#: 7949764-0-45525
+msgctxt "7949764-0-45525"
+msgid "Get to the Mooring Base"
+msgstr ""
+
+#: 7949764-0-45524
+msgctxt "7949764-0-45524"
+msgid "Destroy the Coldharbour Sentinel"
+msgstr ""
+
+#: 7949764-0-45523
+msgctxt "7949764-0-45523"
+msgid "Wait for the Exchange"
+msgstr ""
+
+#: 7949764-0-45522
+msgctxt "7949764-0-45522"
+msgid "Use the Rift to Escape to Tamriel"
+msgstr ""
+
+#: 7949764-0-45521
+msgctxt "7949764-0-45521"
+msgid "Talk to the Prophet"
+msgstr ""
+
+#: 7949764-0-45520
+msgctxt "7949764-0-45520"
+msgid "Defend Lyris"
+msgstr ""
+
+#: 7949764-0-45519
+msgctxt "7949764-0-45519"
+msgid "Defeat the Child of Bones"
+msgstr ""
+
+#: 7949764-0-45518
+msgctxt "7949764-0-45518"
+msgid "Defeat the Child of Bones"
+msgstr ""
+
+#: 7949764-0-45517
+msgctxt "7949764-0-45517"
+msgid "Activate South Anchor Pinion"
+msgstr ""
+
+#: 7949764-0-45516
+msgctxt "7949764-0-45516"
+msgid "Activate North Anchor Pinion"
+msgstr ""
+
+#: 7949764-0-45515
+msgctxt "7949764-0-45515"
+msgid "Follow Lyris"
+msgstr ""
+
+#: 7949764-0-45514
+msgctxt "7949764-0-45514"
+msgid "Talk to the Prophet"
+msgstr ""
+
+#: 7949764-0-45513
+msgctxt "7949764-0-45513"
+msgid "Enter the Anchor Mooring"
+msgstr ""
+
+#: 7949764-0-45511
+msgctxt "7949764-0-45511"
+msgid "Defeat the Child of Bones"
+msgstr ""
+
+#: 7949764-0-45510
+msgctxt "7949764-0-45510"
+msgid "Talk to Lyris"
+msgstr ""
+
+#: 7949764-0-45509
+msgctxt "7949764-0-45509"
+msgid "Talk to Cadwell"
+msgstr ""
+
+#: 7949764-0-45508
+msgctxt "7949764-0-45508"
+msgid "Talk to Lyris"
+msgstr ""
+
+#: 7949764-0-45507
+msgctxt "7949764-0-45507"
+msgid "Enter the Undercroft"
+msgstr ""
+
+#: 7949764-0-45506
+msgctxt "7949764-0-45506"
+msgid "Talk to The Prophet"
+msgstr ""
+
+#: 7949764-0-45505
+msgctxt "7949764-0-45505"
+msgid "Collect the Skyshard"
+msgstr ""
+
+#: 7949764-0-45504
+msgctxt "7949764-0-45504"
+msgid "Find the Prophet's Cell"
+msgstr ""
+
+#: 7949764-0-45503
+msgctxt "7949764-0-45503"
+msgid "Wait for the Prophet"
+msgstr ""
+
+#: 7949764-0-45502
+msgctxt "7949764-0-45502"
+msgid "Approach the Portal"
+msgstr ""
+
+#: 7949764-0-45500
+msgctxt "7949764-0-45500"
+msgid "Reach the Towers of Eyes"
+msgstr ""
+
+#: 7949764-0-45498
+msgctxt "7949764-0-45498"
+msgid "Continue through the Bleeding Forge"
+msgstr ""
+
+#: 7949764-0-45497
+msgctxt "7949764-0-45497"
+msgid "Talk to Lyris"
+msgstr ""
+
+#: 7949764-0-45496
+msgctxt "7949764-0-45496"
+msgid "Follow Lyris"
+msgstr ""
+
+#: 7949764-0-45495
+msgctxt "7949764-0-45495"
+msgid "Defeat the Prison Guards"
+msgstr ""
+
+#: 7949764-0-45492
+msgctxt "7949764-0-45492"
+msgid "Find a Way to Escape Coldharbour"
+msgstr ""
+
+#: 7949764-0-45491
+msgctxt "7949764-0-45491"
+msgid "Defeat the Prison Guard"
+msgstr ""
+
+#: 7949764-0-45490
+msgctxt "7949764-0-45490"
+msgid "Follow Lyris"
+msgstr ""
+
+#: 7949764-0-45489
+msgctxt "7949764-0-45489"
+msgid "Wait for Lyris"
+msgstr ""
+
+#: 7949764-0-45488
+msgctxt "7949764-0-45488"
+msgid "Find a Way out of the Cell"
+msgstr ""
+
+#: 7949764-0-45486
+msgctxt "7949764-0-45486"
+msgid "Find a Way to Escape Coldharbour"
+msgstr ""
+
+#: 7949764-0-45484
+msgctxt "7949764-0-45484"
+msgid "Talk to Many-Eyes"
+msgstr ""
+
+#: 7949764-0-45481
+msgctxt "7949764-0-45481"
+msgid "Found an Undead Covenant Soldier"
+msgstr ""
+
+#: 7949764-0-45480
+msgctxt "7949764-0-45480"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-45479
+msgctxt "7949764-0-45479"
+msgid "Subdue <<1>>"
+msgstr ""
+
+#: 7949764-0-45478
+msgctxt "7949764-0-45478"
+msgid "Find Evidence"
+msgstr ""
+
+#: 7949764-0-45477
+msgctxt "7949764-0-45477"
+msgid "Investigate the Shack"
+msgstr ""
+
+#: 7949764-0-45476
+msgctxt "7949764-0-45476"
+msgid "Find Evidence"
+msgstr ""
+
+#: 7949764-0-45472
+msgctxt "7949764-0-45472"
+msgid "Defeat all Corrupted Manifestations"
+msgstr ""
+
+#: 7949764-0-45471
+msgctxt "7949764-0-45471"
+msgid "Kill Assassin"
+msgstr ""
+
+#: 7949764-0-45470
+msgctxt "7949764-0-45470"
+msgid "Kill Assassin"
+msgstr ""
+
+#: 7949764-0-45469
+msgctxt "7949764-0-45469"
+msgid "Kill Assassin"
+msgstr ""
+
+#: 7949764-0-45468
+msgctxt "7949764-0-45468"
+msgid "Dummy"
+msgstr ""
+
+#: 7949764-0-45467
+msgctxt "7949764-0-45467"
+msgid "Collect Servant Disguise"
+msgstr ""
+
+#: 7949764-0-45466
+msgctxt "7949764-0-45466"
+msgid "Prod <<1>> the Guar"
+msgstr ""
+
+#: 7949764-0-45465
+msgctxt "7949764-0-45465"
+msgid "Prod <<1>> the Guar"
+msgstr ""
+
+#: 7949764-0-45464
+msgctxt "7949764-0-45464"
+msgid "Prod <<1>> the Guar"
+msgstr ""
+
+#: 7949764-0-45463
+msgctxt "7949764-0-45463"
+msgid "Prod <<1>> the Guar"
+msgstr ""
+
+#: 7949764-0-45460
+msgctxt "7949764-0-45460"
+msgid "Dummy"
+msgstr ""
+
+#: 7949764-0-45457
+msgctxt "7949764-0-45457"
+msgid "Dummy"
+msgstr ""
+
+#: 7949764-0-45449
+msgctxt "7949764-0-45449"
+msgid "Protect your Atronach!"
+msgstr ""
+
+#: 7949764-0-45448
+msgctxt "7949764-0-45448"
+msgid "Collect and Deposit Resources"
+msgstr ""
+
+#: 7949764-0-45447
+msgctxt "7949764-0-45447"
+msgid "Protect your Atronach!"
+msgstr ""
+
+#: 7949764-0-45446
+msgctxt "7949764-0-45446"
+msgid "Collect and Deposit Resources"
+msgstr ""
+
+#: 7949764-0-45445
+msgctxt "7949764-0-45445"
+msgid "Protect your Atronach!"
+msgstr ""
+
+#: 7949764-0-45444
+msgctxt "7949764-0-45444"
+msgid "Collect and Deposit Resources"
+msgstr ""
+
+#: 7949764-0-45362
+msgctxt "7949764-0-45362"
+msgid "Use Tribute to Hircine"
+msgstr ""
+
+#: 7949764-0-45360
+msgctxt "7949764-0-45360"
+msgid "Enter the Portal"
+msgstr ""
+
+#: 7949764-0-45359
+msgctxt "7949764-0-45359"
+msgid "Observe Balreth's Attack"
+msgstr ""
+
+#: 7949764-0-45358
+msgctxt "7949764-0-45358"
+msgid "Close Portals"
+msgstr ""
+
+#: 7949764-0-45357
+msgctxt "7949764-0-45357"
+msgid "Enter the Wyrd Tree"
+msgstr ""
+
+#: 7949764-0-45353
+msgctxt "7949764-0-45353"
+msgid "Use the Holy Water on the Brazier"
+msgstr ""
+
+#: 7949764-0-45352
+msgctxt "7949764-0-45352"
+msgid "Find Tanval Indoril"
+msgstr ""
+
+#: 7949764-0-45346
+msgctxt "7949764-0-45346"
+msgid "Observe Balreth's Attack"
+msgstr ""
+
+#: 7949764-0-45344
+msgctxt "7949764-0-45344"
+msgid "Burn Trebuchet"
+msgstr ""
+
+#: 7949764-0-45343
+msgctxt "7949764-0-45343"
+msgid "Burn Trebuchet"
+msgstr ""
+
+#: 7949764-0-45342
+msgctxt "7949764-0-45342"
+msgid "Burn Siege Equipment"
+msgstr ""
+
+#: 7949764-0-45341
+msgctxt "7949764-0-45341"
+msgid "Collect the Skull of Nam Indoril"
+msgstr ""
+
+#: 7949764-0-45330
+msgctxt "7949764-0-45330"
+msgid "Investigate The River"
+msgstr ""
+
+#: 7949764-0-45329
+msgctxt "7949764-0-45329"
+msgid "Meet <<1>>"
+msgstr ""
+
+#: 7949764-0-45327
+msgctxt "7949764-0-45327"
+msgid "Return to Wyress Gwen"
+msgstr ""
+
+#: 7949764-0-45326
+msgctxt "7949764-0-45326"
+msgid "Collect <<m:1>>"
+msgstr ""
+
+#: 7949764-0-45325
+msgctxt "7949764-0-45325"
+msgid "Silence the Whispers"
+msgstr ""
+
+#: 7949764-0-45324
+msgctxt "7949764-0-45324"
+msgid "Clear the Corruption of Air"
+msgstr ""
+
+#: 7949764-0-45323
+msgctxt "7949764-0-45323"
+msgid "Clear the Corruption of Water"
+msgstr ""
+
+#: 7949764-0-45322
+msgctxt "7949764-0-45322"
+msgid "Clear the Corruption of Earth"
+msgstr ""
+
+#: 7949764-0-45321
+msgctxt "7949764-0-45321"
+msgid "Skip Theater Exit"
+msgstr ""
+
+#: 7949764-0-45320
+msgctxt "7949764-0-45320"
+msgid "Skip Theater Logout"
+msgstr ""
+
+#: 7949764-0-45315
+msgctxt "7949764-0-45315"
+msgid "Open the West Portal"
+msgstr ""
+
+#: 7949764-0-45314
+msgctxt "7949764-0-45314"
+msgid "Open the East Portal"
+msgstr ""
+
+#: 7949764-0-45313
+msgctxt "7949764-0-45313"
+msgid "Open the North Portal"
+msgstr ""
+
+#: 7949764-0-45312
+msgctxt "7949764-0-45312"
+msgid "Open the South Portal"
+msgstr ""
+
+#: 7949764-0-45311
+msgctxt "7949764-0-45311"
+msgid "Read Obelisk Tome and Defeat Molag Kena"
+msgstr ""
+
+#: 7949764-0-45309
+msgctxt "7949764-0-45309"
+msgid "Kill the Adjudicator"
+msgstr ""
+
+#: 7949764-0-45308
+msgctxt "7949764-0-45308"
+msgid "Kill the Planar Inhibitor"
+msgstr ""
+
+#: 7949764-0-45307
+msgctxt "7949764-0-45307"
+msgid "Kill Molag Kena"
+msgstr ""
+
+#: 7949764-0-45304
+msgctxt "7949764-0-45304"
+msgid "Defend Fisherfolk"
+msgstr ""
+
+#: 7949764-0-45303
+msgctxt "7949764-0-45303"
+msgid "Defend Denskar and Littrek"
+msgstr ""
+
+#: 7949764-0-45302
+msgctxt "7949764-0-45302"
+msgid "Activate Welkynd Stone"
+msgstr ""
+
+#: 7949764-0-45301
+msgctxt "7949764-0-45301"
+msgid "Meet <<1>>"
+msgstr ""
+
+#: 7949764-0-45300
+msgctxt "7949764-0-45300"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 7949764-0-45299
+msgctxt "7949764-0-45299"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 7949764-0-45296
+msgctxt "7949764-0-45296"
+msgid "Investigate Altars"
+msgstr ""
+
+#: 7949764-0-45295
+msgctxt "7949764-0-45295"
+msgid "Kill the <<1>>"
+msgstr ""
+
+#: 7949764-0-45294
+msgctxt "7949764-0-45294"
+msgid "Open Door"
+msgstr ""
+
+#: 7949764-0-45293
+msgctxt "7949764-0-45293"
+msgid "Shut Down the Blood Fonts"
+msgstr ""
+
+#: 7949764-0-45292
+msgctxt "7949764-0-45292"
+msgid "Shut Down the Blood Fonts"
+msgstr ""
+
+#: 7949764-0-45291
+msgctxt "7949764-0-45291"
+msgid "Shut Down the Blood Fonts"
+msgstr ""
+
+#: 7949764-0-45289
+msgctxt "7949764-0-45289"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-45288
+msgctxt "7949764-0-45288"
+msgid "Defeat the Dreugh King"
+msgstr ""
+
+#: 7949764-0-45287
+msgctxt "7949764-0-45287"
+msgid "Lead the Goblins against the Dreugh"
+msgstr ""
+
+#: 7949764-0-45286
+msgctxt "7949764-0-45286"
+msgid "Mount the Head on a Spike"
+msgstr ""
+
+#: 7949764-0-45285
+msgctxt "7949764-0-45285"
+msgid "Kill the Goblin War Chief"
+msgstr ""
+
+#: 7949764-0-45284
+msgctxt "7949764-0-45284"
+msgid "Follow <<1>>"
+msgstr ""
+
+#: 7949764-0-45277
+msgctxt "7949764-0-45277"
+msgid "Escort Ayleid Spirit to Door"
+msgstr ""
+
+#: 7949764-0-45276
+msgctxt "7949764-0-45276"
+msgid "Talk to Ayleid Spirit"
+msgstr ""
+
+#: 7949764-0-45275
+msgctxt "7949764-0-45275"
+msgid "Use Welkynd Stone"
+msgstr ""
+
+#: 7949764-0-45274
+msgctxt "7949764-0-45274"
+msgid "Escort Ayleid Spirit to Door"
+msgstr ""
+
+#: 7949764-0-45273
+msgctxt "7949764-0-45273"
+msgid "Talk to Ayleid Spirit"
+msgstr ""
+
+#: 7949764-0-45272
+msgctxt "7949764-0-45272"
+msgid "Use Welkynd Stone"
+msgstr ""
+
+#: 7949764-0-45271
+msgctxt "7949764-0-45271"
+msgid "Escort Ayleid Spirit to Door"
+msgstr ""
+
+#: 7949764-0-45270
+msgctxt "7949764-0-45270"
+msgid "Use Welkynd Stone"
+msgstr ""
+
+#: 7949764-0-45269
+msgctxt "7949764-0-45269"
+msgid "Talk to Ayleid Spirit"
+msgstr ""
+
+#: 7949764-0-45265
+msgctxt "7949764-0-45265"
+msgid "Escape the Daedric Realm"
+msgstr ""
+
+#: 7949764-0-45264
+msgctxt "7949764-0-45264"
+msgid "Defeat the Daedra to Free Kargand"
+msgstr ""
+
+#: 7949764-0-45259
+msgctxt "7949764-0-45259"
+msgid "Find Kargand"
+msgstr ""
+
+#: 7949764-0-45258
+msgctxt "7949764-0-45258"
+msgid "Defeat <<1>>"
+msgstr ""
+
+#: 7949764-0-45257
+msgctxt "7949764-0-45257"
+msgid "Find a Portal Out of the Daedric Realm"
+msgstr ""
+
+#: 7949764-0-45256
+msgctxt "7949764-0-45256"
+msgid "Speak to Bakkhara"
+msgstr ""
+
+#: 7949764-0-45255
+msgctxt "7949764-0-45255"
+msgid "Defeat the Daedra to Free Bakkhara"
+msgstr ""
+
+#: 7949764-0-45254
+msgctxt "7949764-0-45254"
+msgid "Search the Daedric Realm"
+msgstr ""
+
+#: 7949764-0-45253
+msgctxt "7949764-0-45253"
+msgid "Search for Another Portal"
+msgstr ""
+
+#: 7949764-0-45251
+msgctxt "7949764-0-45251"
+msgid "Speak with Kargand"
+msgstr ""
+
+#: 12912341-0-45118
+msgctxt "12912341-0-45118"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-43251
+msgctxt "12912341-0-43251"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-40651
+msgctxt "12912341-0-40651"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-40647
+msgctxt "12912341-0-40647"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-40644
+msgctxt "12912341-0-40644"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-34274
+msgctxt "12912341-0-34274"
+msgid "Rescue"
+msgstr ""
+
+#: 12912341-0-34260
+msgctxt "12912341-0-34260"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-34259
+msgctxt "12912341-0-34259"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-34004
+msgctxt "7949764-0-34004"
+msgid "Collect the Essence of Aetherius for the Wyrd Ward"
+msgstr ""
+
+#: 7949764-0-34003
+msgctxt "7949764-0-34003"
+msgid "Collect the Essence of Aetherius for the Wyrd Ward"
+msgstr ""
+
+#: 7949764-0-34002
+msgctxt "7949764-0-34002"
+msgid "Collect the Essence of Aetherius for the Wyrd Ward"
+msgstr ""
+
+#: 74865733-0-3319
+msgctxt "74865733-0-3319"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-30183
+msgctxt "7949764-0-30183"
+msgid "Unlock Seal of Binding"
+msgstr ""
+
+#: 7949764-0-30182
+msgctxt "7949764-0-30182"
+msgid "Unlock Seal of Binding"
+msgstr ""
+
+#: 7949764-0-30181
+msgctxt "7949764-0-30181"
+msgid "Unlock Seal of Binding"
+msgstr ""
+
+#: 12912341-0-30167
+msgctxt "12912341-0-30167"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-28445
+msgctxt "7949764-0-28445"
+msgid "Theater END"
+msgstr ""
+
+#: 12912341-0-28004
+msgctxt "12912341-0-28004"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-27773
+msgctxt "12912341-0-27773"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-25881
+msgctxt "12912341-0-25881"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-23888
+msgctxt "12912341-0-23888"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-18873
+msgctxt "74865733-0-18873"
+msgid "Steal From"
+msgstr ""
+
+#: 108533454-0-18829
+msgctxt "108533454-0-18829"
+msgid "Searching..."
+msgstr ""
+
+#: 108533454-0-18828
+msgctxt "108533454-0-18828"
+msgid "Searching..."
+msgstr ""
+
+#: 74865733-0-18824
+msgctxt "74865733-0-18824"
+msgid "Use"
+msgstr ""
+
+#: 74865733-0-18821
+msgctxt "74865733-0-18821"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-18799
+msgctxt "74865733-0-18799"
+msgid "Activate"
+msgstr ""
+
+#: 74865733-0-18798
+msgctxt "74865733-0-18798"
+msgid "Activate"
+msgstr ""
+
+#: 74865733-0-18797
+msgctxt "74865733-0-18797"
+msgid "Use"
+msgstr ""
+
+#: 74865733-0-18790
+msgctxt "74865733-0-18790"
+msgid "Deposit Resource"
+msgstr ""
+
+#: 74865733-0-18789
+msgctxt "74865733-0-18789"
+msgid "Deposit Resource"
+msgstr ""
+
+#: 74865733-0-18785
+msgctxt "74865733-0-18785"
+msgid "Deposit Resource"
+msgstr ""
+
+#: 74865733-0-18780
+msgctxt "74865733-0-18780"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18751
+msgctxt "108533454-0-18751"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18750
+msgctxt "108533454-0-18750"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18749
+msgctxt "108533454-0-18749"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18748
+msgctxt "108533454-0-18748"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18747
+msgctxt "108533454-0-18747"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18746
+msgctxt "108533454-0-18746"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18745
+msgctxt "108533454-0-18745"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18744
+msgctxt "108533454-0-18744"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 108533454-0-18723
+msgctxt "108533454-0-18723"
+msgid "Freeing Captive..."
+msgstr ""
+
+#: 74865733-0-18720
+msgctxt "74865733-0-18720"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-18707
+msgctxt "108533454-0-18707"
+msgid "Opening…"
+msgstr ""
+
+#: 108533454-0-18706
+msgctxt "108533454-0-18706"
+msgid "Opening…"
+msgstr ""
+
+#: 108533454-0-18705
+msgctxt "108533454-0-18705"
+msgid "Opening…"
+msgstr ""
+
+#: 12912341-0-17354
+msgctxt "12912341-0-17354"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-1569
+msgctxt "74865733-0-1569"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-14531
+msgctxt "74865733-0-14531"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-14529
+msgctxt "74865733-0-14529"
+msgid "Read"
+msgstr ""
+
+#: 12912341-0-10098
+msgctxt "12912341-0-10098"
+msgid "Talk"
+msgstr ""

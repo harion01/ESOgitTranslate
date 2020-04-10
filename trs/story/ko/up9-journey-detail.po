@@ -1,0 +1,3737 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 103224356-0-40746
+msgctxt "103224356-0-40746"
+msgid "I should speak with Velsa outside of the Den."
+msgstr "소굴 밖에서 벨사와 이야기해야 한다."
+
+#: 103224356-0-40315
+msgctxt "103224356-0-40315"
+msgid "I have what I need. I should meet <<1>> in the Abah's Landing Thieves Den and inform her of my success."
+msgstr "나는 필요한 것을 훔쳤다. 아바스 랜딩의 도둑 소굴에서 <<1>>를 만나 내 성공을 알려야 한다."
+
+#: 103224356-0-40314
+msgctxt "103224356-0-40314"
+msgid "I can prove I'm a discerning pickpocket by nabbing a few personal items, or an industrious pickpocket by taking a lot of treasures. I was recommended to look for targets in Abah's Landing, but I can technically pickpocket anyone in Hew's Bane."
+msgstr "몇 가지 개인 물품을 낚아 채거나 많은 보물들을 부지런하게 소매치기 해서 내가 안목 있는 소매치기란 것을 증명할 수 있을 것이다. 아바스 랜딩에서 타겟을 찾을 것을 추천 받았지만, 휴즈 베인에 있는 누구를 털든 상관 없다."
+
+#: 103224356-0-40140
+#, fuzzy
+msgctxt "103224356-0-40140"
+msgid "Count Carolus revealed that the Black Dragon is the First Sword of the Order of the Hour, and that the Order has once again occupied their old enclave outside of Kvatch. I should go there and investigate."
+msgstr "Carolus 백작은 Black Dragon이 Hour of Order의 First Sword이며 Order가 다시 Kvatch 외부의 옛 영토를 점령했다고 밝혔습니다. 나는 거기 가서 조사해야한다.-G-"
+
+#: 103224356-0-40136
+#, fuzzy
+msgctxt "103224356-0-40136"
+msgid "We must travel to the Temple of Seven Riddles to discover the fate of Bakhum's beloved, albeit distant relation."
+msgstr "우리는 바쿰의 사랑하는, 멀지 만 먼 관계의 운명을 발견하기 위해 7 개의 수수께끼의 사원으로 여행해야합니다.-G-"
+
+#: 103224356-0-40135
+#, fuzzy
+msgctxt "103224356-0-40135"
+msgid "Bakhum has prepared a ship in Abah's Landing to take us to our destination."
+msgstr "바쿰은 우리를 목적지로 데려 가기 위해 아바의 상륙함에서 배를 준비했습니다.-G-"
+
+#: 103224356-0-40134
+#, fuzzy
+msgctxt "103224356-0-40134"
+msgid "<<1>> and I should search <<2>>'s desert retreat for any signs of him or <<3>>'s dowry."
+msgstr "<<1>>과 나는 <<2>>의 사막 후퇴를 찾아야한다. <<3>> 지참금.-G-"
+
+#: 103224356-0-40099
+#, fuzzy
+msgctxt "103224356-0-40099"
+msgid "I need to break into a safebox somewhere in Glenumbra to start the crime spree."
+msgstr "나는 범죄 수사를 시작하기 위해 글레 넘그 라 어딘가의 금고에 침입해야합니다.-G-"
+
+#: 103224356-0-40098
+msgctxt "103224356-0-40098"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Stormhaven."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 스톰헤이븐의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40097
+#, fuzzy
+msgctxt "103224356-0-40097"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Rivenspire."
+msgstr "두 가지 주요 절도로 나는 이것을 성취했다고 부를 수 있습니다 ... 아니면 리벤스 파이어에있는 또 다른 금고를 때려 눕힐 수 있습니다.-G-"
+
+#: 103224356-0-40096
+#, fuzzy
+msgctxt "103224356-0-40096"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Shadowfen."
+msgstr "두 가지 주요 절도로, 나는 이것을 달성했다고 부를 수 있습니다 ... 또는 Shadowfen의 다른 금고를 두드려 버릴 수 있습니다.-G-"
+
+#: 103224356-0-40095
+msgctxt "103224356-0-40095"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Deshaan."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 데샨의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40094
+#, fuzzy
+msgctxt "103224356-0-40094"
+msgid "I need to break into a safebox somewhere in Stonefalls to start the crime spree."
+msgstr "스톤 폴스 (Stonefalls) 어딘가에 금고에 침입하여 범죄를 저지르기 시작해야합니다.-G-"
+
+#: 103224356-0-40093
+#, fuzzy
+msgctxt "103224356-0-40093"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Greenshade."
+msgstr "두 가지 주요 절도로, 나는 이것을 달성했다고 부를 수 있습니다 ... 아니면 그린 세이드에서 다른 금고를 두드려 버릴 수 있습니다.-G-"
+
+#: 103224356-0-40092
+msgctxt "103224356-0-40092"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Grahtwood."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 그랏우드의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40089
+#, fuzzy
+msgctxt "103224356-0-40089"
+msgid "I pulled off a theft to boost the Thieves Guild's notoriety. It should be enough to say I did my part."
+msgstr "Thieves Guild의 평판을 높이기 위해 도난을당했습니다. 내가 내 역할을했다고 말하는 것만으로도 충분할 것이다.-G-"
+
+#: 103224356-0-40088
+#, fuzzy
+msgctxt "103224356-0-40088"
+msgid "I need to break into a safebox somewhere in Auridon to start the crime spree."
+msgstr "Auridon 어딘가의 금고에 침입하여 범죄를 저지르기 시작해야합니다.-G-"
+
+#: 103224356-0-40086
+#, fuzzy
+msgctxt "103224356-0-40086"
+msgid "I pulled off a couple of thefts to boost the Thieves Guild's notoriety. I'm sure the guild will appreciate my contribution."
+msgstr "나는 Thieves Guild의 명성을 높이기 위해 몇 가지 도난을당했습니다. 나는 길드가 내 기부에 감사 할 것이라고 확신한다.-G-"
+
+#: 103224356-0-40084
+#, fuzzy
+msgctxt "103224356-0-40084"
+msgid "I've pulled off a string of thefts to boost the Thieves Guild's notoriety. I should expect more than a pat on the back when I get back."
+msgstr "Thieves Guild의 평판을 높이기 위해 일련의 도난을당했습니다. 내가 돌아 왔을 때 뒤에서 두드리는 것 이상을 기대해야한다.-G-"
+
+#: 103224356-0-40079
+#, fuzzy
+msgctxt "103224356-0-40079"
+msgid "I need to break into a safebox somewhere in Rivenspire to start the crime spree."
+msgstr "리벤스 파이어 (Rivenspire)의 어딘가에있는 금고로 침입하여 범죄를 저지르기 시작해야합니다.-G-"
+
+#: 103224356-0-40078
+msgctxt "103224356-0-40078"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Alik'r Desert."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 알리키어 사막의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40077
+#, fuzzy
+msgctxt "103224356-0-40077"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Bangkorai."
+msgstr "두 가지 주요 절도로 나는 이것을 성취 할 수있다 ... 아니면 Bangkorai에있는 또 다른 금고를 때려 눕힐 수있다.-G-"
+
+#: 103224356-0-40076
+#, fuzzy
+msgctxt "103224356-0-40076"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in the Rift."
+msgstr "두 가지 주요 절도로 나는 성취했다고 부를 수 있습니다 ... 또는 나는 리프트의 다른 금고를 두드릴 수 있습니다.-G-"
+
+#: 103224356-0-40075
+msgctxt "103224356-0-40075"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Eastmarch."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 이스트마치의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40074
+#, fuzzy
+msgctxt "103224356-0-40074"
+msgid "I need to break into a safebox somewhere in Shadowfen to start the crime spree."
+msgstr "범죄 수사를 시작하기 위해 어둠의 어딘가의 금고에 침입해야합니다.-G-"
+
+#: 103224356-0-40073
+#, fuzzy
+msgctxt "103224356-0-40073"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Reaper's March."
+msgstr "두 가지 주요 절도로 나는 이것을 달성했다고 부를 수 있습니다 ... 아니면 Reaper의 3 월에 다른 금고를 두드려 버릴 수 있습니다.-G-"
+
+#: 103224356-0-40072
+msgctxt "103224356-0-40072"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Malabal Tor."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 말라발 토르의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40069
+#, fuzzy
+msgctxt "103224356-0-40069"
+msgid "I pulled off a theft to boost the Thieves Guild's notoriety. It should be enough to say I did my part."
+msgstr "Thieves Guild의 평판을 높이기 위해 도난을당했습니다. 내가 내 역할을했다고 말하는 것만으로도 충분할 것이다.-G-"
+
+#: 103224356-0-40068
+#, fuzzy
+msgctxt "103224356-0-40068"
+msgid "I need to break into a safebox somewhere in Greenshade to start the crime spree."
+msgstr "범죄 수사를 시작하려면 Greenshade 어딘가의 금고로 침입해야합니다.-G-"
+
+#: 103224356-0-40066
+#, fuzzy
+msgctxt "103224356-0-40066"
+msgid "I pulled off a couple of thefts to boost the Thieves Guild's notoriety. I'm sure the guild will appreciate my contribution."
+msgstr "나는 Thieves Guild의 명성을 높이기 위해 몇 가지 도난을당했습니다. 나는 길드가 내 기부에 감사 할 것이라고 확신한다.-G-"
+
+#: 103224356-0-40064
+#, fuzzy
+msgctxt "103224356-0-40064"
+msgid "I've pulled off a string of thefts to boost the Thieves Guild's notoriety. I should expect more than a pat on the back when I get back."
+msgstr "Thieves Guild의 평판을 높이기 위해 일련의 도난을당했습니다. 내가 돌아 왔을 때 뒤에서 두드리는 것 이상을 기대해야한다.-G-"
+
+#: 103224356-0-40059
+#, fuzzy
+msgctxt "103224356-0-40059"
+msgid "I need to break into a safebox somewhere in Stormhaven to start the crime spree."
+msgstr "스톰 하임 어딘가의 금고에 침입하여 범죄를 저지르기 시작해야합니다.-G-"
+
+#: 103224356-0-40058
+msgctxt "103224356-0-40058"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Rivenspire."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 리븐스파이어의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40057
+#, fuzzy
+msgctxt "103224356-0-40057"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Alik'r Desert."
+msgstr "두 가지 주요 절도로 나는 성취했다고 부를 수 있습니다 ... 또는 Alik'r Desert의 다른 금고를 두드려 버릴 수 있습니다.-G-"
+
+#: 103224356-0-40056
+#, fuzzy
+msgctxt "103224356-0-40056"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Eastmarch."
+msgstr "두 가지 주요 절도로 나는 성취했다고 부를 수 있습니다 ... 아니면 Eastmarch에있는 또 다른 금고를 두 드릴 수 있습니다.-G-"
+
+#: 103224356-0-40055
+msgctxt "103224356-0-40055"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Shadowfen."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 셰도우펜의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40054
+#, fuzzy
+msgctxt "103224356-0-40054"
+msgid "I need to break into a safebox somewhere in Deshaan to start the crime spree."
+msgstr "Deshaan 어딘가에서 금고를 타야 범죄가 시작됩니다.-G-"
+
+#: 103224356-0-40053
+#, fuzzy
+msgctxt "103224356-0-40053"
+msgid "With two major thefts, I can call this accomplished… or I can knock over another safebox in Malabal Tor."
+msgstr "두 가지 주요 절도로, 나는 이것을 달성했다고 부를 수 있습니다 ... 아니면 말라 바르 토르의 다른 금고를 두드려 버릴 수 있습니다.-G-"
+
+#: 103224356-0-40052
+msgctxt "103224356-0-40052"
+msgid "With one major theft down, I can call this accomplished… or I can knock over another safebox in Greenshade."
+msgstr "큰 것을 하나 도둑질해서, 이 임무를 완수할 수 있다... 아니면 그린셰이드의 다른 금고를 털어도 된다."
+
+#: 103224356-0-40049
+#, fuzzy
+msgctxt "103224356-0-40049"
+msgid "I pulled off a theft to boost the Thieves Guild's notoriety. It should be enough to say I did my part."
+msgstr "Thieves Guild의 평판을 높이기 위해 도난을당했습니다. 내가 내 역할을했다고 말하는 것만으로도 충분할 것이다.-G-"
+
+#: 103224356-0-40048
+#, fuzzy
+msgctxt "103224356-0-40048"
+msgid "I need to break into a safebox somewhere in Grahtwood to start the crime spree."
+msgstr "Grahtwood 어딘가에 금고에 들어가서 범죄를 저지르기 시작해야합니다.-G-"
+
+#: 103224356-0-40046
+#, fuzzy
+msgctxt "103224356-0-40046"
+msgid "I pulled off a couple of thefts to boost the Thieves Guild's notoriety. I'm sure the guild will appreciate my contribution."
+msgstr "나는 Thieves Guild의 명성을 높이기 위해 몇 가지 도난을당했습니다. 나는 길드가 내 기부에 감사 할 것이라고 확신한다.-G-"
+
+#: 103224356-0-40044
+#, fuzzy
+msgctxt "103224356-0-40044"
+msgid "I've pulled off a string of thefts to boost the Thieves Guild's notoriety. I should expect more than a pat on the back when I get back."
+msgstr "Thieves Guild의 평판을 높이기 위해 일련의 도난을당했습니다. 내가 돌아 왔을 때 뒤에서 두드리는 것 이상을 기대해야한다.-G-"
+
+#: 103224356-0-40028
+#, fuzzy
+msgctxt "103224356-0-40028"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-40027
+#, fuzzy
+msgctxt "103224356-0-40027"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-40026
+msgctxt "103224356-0-40026"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40025
+msgctxt "103224356-0-40025"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40024
+msgctxt "103224356-0-40024"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40023
+msgctxt "103224356-0-40023"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40022
+msgctxt "103224356-0-40022"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40021
+msgctxt "103224356-0-40021"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40018
+#, fuzzy
+msgctxt "103224356-0-40018"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-40017
+msgctxt "103224356-0-40017"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40016
+msgctxt "103224356-0-40016"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-40015
+msgctxt "103224356-0-40015"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39996
+#, fuzzy
+msgctxt "103224356-0-39996"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39995
+#, fuzzy
+msgctxt "103224356-0-39995"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39994
+msgctxt "103224356-0-39994"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39993
+msgctxt "103224356-0-39993"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39992
+msgctxt "103224356-0-39992"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39991
+msgctxt "103224356-0-39991"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39990
+msgctxt "103224356-0-39990"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39989
+msgctxt "103224356-0-39989"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39986
+#, fuzzy
+msgctxt "103224356-0-39986"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39985
+msgctxt "103224356-0-39985"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39984
+msgctxt "103224356-0-39984"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39983
+msgctxt "103224356-0-39983"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39964
+msgctxt "103224356-0-39964"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39963
+msgctxt "103224356-0-39963"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39962
+msgctxt "103224356-0-39962"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39961
+msgctxt "103224356-0-39961"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39960
+msgctxt "103224356-0-39960"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39959
+msgctxt "103224356-0-39959"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39958
+#, fuzzy
+msgctxt "103224356-0-39958"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39957
+#, fuzzy
+msgctxt "103224356-0-39957"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39955
+#, fuzzy
+msgctxt "103224356-0-39955"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39953
+msgctxt "103224356-0-39953"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39952
+msgctxt "103224356-0-39952"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39951
+msgctxt "103224356-0-39951"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39932
+msgctxt "103224356-0-39932"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39931
+msgctxt "103224356-0-39931"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39930
+msgctxt "103224356-0-39930"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39929
+msgctxt "103224356-0-39929"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39928
+msgctxt "103224356-0-39928"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39927
+msgctxt "103224356-0-39927"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39926
+#, fuzzy
+msgctxt "103224356-0-39926"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39925
+#, fuzzy
+msgctxt "103224356-0-39925"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39923
+#, fuzzy
+msgctxt "103224356-0-39923"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39921
+msgctxt "103224356-0-39921"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39920
+msgctxt "103224356-0-39920"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39919
+msgctxt "103224356-0-39919"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39902
+#, fuzzy
+msgctxt "103224356-0-39902"
+msgid "I swiped goods from a bunch of laborers to teach them a lesson about shortchanging the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 많은 노동자들의 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39901
+#, fuzzy
+msgctxt "103224356-0-39901"
+msgid "I swiped goods from a number of laborers to teach them a lesson about shortchanging the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 많은 노동자들의 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39900
+msgctxt "103224356-0-39900"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39899
+msgctxt "103224356-0-39899"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39898
+msgctxt "103224356-0-39898"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39897
+msgctxt "103224356-0-39897"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39896
+msgctxt "103224356-0-39896"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39895
+msgctxt "103224356-0-39895"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39892
+#, fuzzy
+msgctxt "103224356-0-39892"
+msgid "I swiped goods from a few laborers to teach them a lesson about shortchanging the Guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 몇몇 노동자로부터 물품을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39891
+msgctxt "103224356-0-39891"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39890
+msgctxt "103224356-0-39890"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39889
+msgctxt "103224356-0-39889"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39884
+#, fuzzy
+msgctxt "103224356-0-39884"
+msgid "When I'm ready, I should head down the tunnels to start the heist."
+msgstr "준비가되면, 나는 강도질을 시작하기 위해 터널을 내려야합니다.-G-"
+
+#: 103224356-0-39865
+#, fuzzy
+msgctxt "103224356-0-39865"
+msgid "I swiped goods from a bunch of laborers to teach them a lesson about shortchanging the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 많은 노동자들의 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39864
+#, fuzzy
+msgctxt "103224356-0-39864"
+msgid "I swiped goods from a number of laborers to teach them a lesson about shortchanging the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 많은 노동자들의 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39863
+msgctxt "103224356-0-39863"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39862
+msgctxt "103224356-0-39862"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39861
+msgctxt "103224356-0-39861"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39860
+msgctxt "103224356-0-39860"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39859
+msgctxt "103224356-0-39859"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39858
+msgctxt "103224356-0-39858"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39855
+#, fuzzy
+msgctxt "103224356-0-39855"
+msgid "I swiped goods from a few laborers to teach them a lesson about shortchanging the Guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 몇몇 노동자로부터 물품을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39854
+msgctxt "103224356-0-39854"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39853
+msgctxt "103224356-0-39853"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39852
+msgctxt "103224356-0-39852"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39827
+#, fuzzy
+msgctxt "103224356-0-39827"
+msgid "When I'm ready, I should head down the tunnels to start the heist."
+msgstr "준비가되면, 나는 강도질을 시작하기 위해 터널을 내려야합니다.-G-"
+
+#: 103224356-0-39803
+#, fuzzy
+msgctxt "103224356-0-39803"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39802
+#, fuzzy
+msgctxt "103224356-0-39802"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39801
+msgctxt "103224356-0-39801"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39800
+msgctxt "103224356-0-39800"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39799
+msgctxt "103224356-0-39799"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39798
+msgctxt "103224356-0-39798"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39797
+msgctxt "103224356-0-39797"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39796
+msgctxt "103224356-0-39796"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39793
+#, fuzzy
+msgctxt "103224356-0-39793"
+msgid "I swiped goods from a number of private citizens to teach them a lesson about messing with the guild. <<1>> will want to hear about my success."
+msgstr "길드원을 괴롭히는 것에 대한 교훈을 가르치기 위해 여러 개인 시민들의 물건을 훔쳤습니다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39792
+msgctxt "103224356-0-39792"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39791
+msgctxt "103224356-0-39791"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39790
+msgctxt "103224356-0-39790"
+msgid "The guild gave me leads on where I can find the private citizens I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 시민들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39785
+msgctxt "103224356-0-39785"
+msgid "I gave Chef Donolon the ingredients he requested. Now I just need to wait for him to complete my Jubilee Cake."
+msgstr "도노론 주방장이 필요하다던 재료를 전해줬다. 이제 주방장이 내 기념일 케이크를 만들어 주는 것을 기다리기만 하면 된다."
+
+#: 103224356-0-39778
+msgctxt "103224356-0-39778"
+msgid "I can collect my cake by finding the baker and his bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
+msgstr "벌켈 가드 항구, 데본스 워치, 그리고 대거폴의 항구 구역에서 제빵사와 그의 제빵선을 찾을 수 있다. 제빵사를 만나면 내 케이크를 받을 수 있을 것이다."
+
+#: 103224356-0-39772
+msgctxt "103224356-0-39772"
+msgid "I need to survive this challenge, The Theater of Despair."
+msgstr "나는 이 도전, Theater of Despair에서 살아남아야 한다."
+
+#: 103224356-0-39771
+msgctxt "103224356-0-39771"
+msgid "I should enter the next arena, The Theater of Despair."
+msgstr "나는 다음 경기장, Theater of Despair에 들어가봐야 한다."
+
+#: 103224356-0-39770
+msgctxt "103224356-0-39770"
+msgid "I need to survive this challenge, The Vault of Umbrage."
+msgstr "나는 이 도전, Vault of Umbrage에서 살아남아야 한다."
+
+#: 103224356-0-39769
+msgctxt "103224356-0-39769"
+msgid "I should enter the next arena, The Vault of Umbrage."
+msgstr "나는 다음 경기장, Vault of Umbrage에 들어가봐야 한다."
+
+#: 103224356-0-39768
+msgctxt "103224356-0-39768"
+msgid "I should enter the next arena, Vale of the Surreal."
+msgstr "나는 다음 경기장, Vale of the Surreal에 들어가봐야 한다."
+
+#: 103224356-0-39767
+msgctxt "103224356-0-39767"
+msgid "I need to survive this challenge, Vale of the Surreal."
+msgstr "나는 이 도전, Vale of the Surreal에서 살아남아야 한다."
+
+#: 103224356-0-39766
+msgctxt "103224356-0-39766"
+msgid "I need to survive this challenge, Seht's Flywheel."
+msgstr "나는 이 도전, Seht's Flywheel에서 살아남아야 한다."
+
+#: 103224356-0-39765
+msgctxt "103224356-0-39765"
+msgid "I should enter the next arena, Seht's Flywheel."
+msgstr "나는 다음 경기장, Seht's Flywheel에 들어가봐야 한다."
+
+#: 103224356-0-39764
+msgctxt "103224356-0-39764"
+msgid "I need to survive this challenge, The Igneous Cistern."
+msgstr "나는 이 도전, Igneous Cistern에서 살아남아야 한다."
+
+#: 103224356-0-39763
+msgctxt "103224356-0-39763"
+msgid "I should enter the next arena, The Igneous Cistern."
+msgstr "나는 다음 경기장, Igneous Cistern에 들어가봐야 한다."
+
+#: 103224356-0-39762
+msgctxt "103224356-0-39762"
+msgid "I need to survive this challenge, The Drome of Toxic Shock."
+msgstr "나는 이 도전, Drome of Toxic Shock에서 살아남아야 한다."
+
+#: 103224356-0-39761
+msgctxt "103224356-0-39761"
+msgid "I should enter the next arena, The Drome of Toxic Shock."
+msgstr "나는 다음 경기장, Drome of Toxic Shock에 들어가봐야 한다."
+
+#: 103224356-0-39760
+msgctxt "103224356-0-39760"
+msgid "I should enter the next arena, Seht's Balcony."
+msgstr "나는 다음 경기장, Seht's Balcony에 들어가봐야 한다."
+
+#: 103224356-0-39759
+msgctxt "103224356-0-39759"
+msgid "I should speak to <<1>>."
+msgstr "나는 <<1>>와(과) 이야기해야 한다."
+
+#: 103224356-0-39758
+msgctxt "103224356-0-39758"
+msgid "I need to survive this challenge, The Rink of Frozen Blood."
+msgstr "나는 이 도전,  Rink of Frozen Blood에서 살아남아야 한다."
+
+#: 103224356-0-39757
+msgctxt "103224356-0-39757"
+msgid "I should enter the next arena, The Rink of Frozen Blood."
+msgstr "나는 다음 경기장,  Rink of Frozen Blood에 들어가봐야 한다."
+
+#: 103224356-0-39756
+msgctxt "103224356-0-39756"
+msgid "I need to survive this challenge, The Spiral Shadows."
+msgstr "나는 이 도전, Spiral Shadow에서 살아남아야 한다."
+
+#: 103224356-0-39755
+msgctxt "103224356-0-39755"
+msgid "I should enter the next arena, The Spiral Shadows."
+msgstr "나는 다음 경기장,  Spiral Shadows에 들어가봐야 한다."
+
+#: 103224356-0-39754
+msgctxt "103224356-0-39754"
+msgid "I need to survive the challenge of Seht's Balcony."
+msgstr "나는 셋의 발코니의 도전을 이겨내야 한다."
+
+#: 103224356-0-39751
+#, fuzzy
+msgctxt "103224356-0-39751"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-39749
+#, fuzzy
+msgctxt "103224356-0-39749"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-39748
+#, fuzzy
+msgctxt "103224356-0-39748"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-39746
+#, fuzzy
+msgctxt "103224356-0-39746"
+msgid "<<1>> presented me with another challenge: destroy the Alchemist's Notes and slay Tree-Minder Na-Kesh."
+msgstr "<<1>>은 나에게 또 다른 도전 과제를 제시했다:연금술사 노트를 파괴하고 트리 매너 나 케쉬를 처치하라.-G-"
+
+#: 103224356-0-39745
+#, fuzzy
+msgctxt "103224356-0-39745"
+msgid "I've cleared the Xit-Xaht out of the Ruins of Mazzatun. I should find <<1>> in my alliance's capital city."
+msgstr "나는 Mazzatun의 폐허에서 Xit-Xaht를 삭제했다. 나는 내 동맹의 수도에서 <<1>>을 찾아야한다.-G-"
+
+#: 103224356-0-39744
+#, fuzzy
+msgctxt "103224356-0-39744"
+msgid "I have agreed to do battle in the Ruins of Mazzatun. To be truly Undaunted I must destroy <<1>>, <<2>>, and <<3>>."
+msgstr "나는 Mazzatun의 폐허에서 전투를하기로 동의했다. 진정으로 내가 미완 인 상태가 되려면 <<1>>, <<2>> 및 <<3>>을 파괴해야합니다.-G-"
+
+#: 103224356-0-39734
+msgctxt "103224356-0-39734"
+msgid "Many ingredients can be purchased from local vendors."
+msgstr "많은 재료들은 현지에 있는 상인들에게서 구매할 수 있다."
+
+#: 103224356-0-39727
+msgctxt "103224356-0-39727"
+msgid "It looks like Chef Donolon has completed my cake. I should talk to him so I can claim it."
+msgstr "도노론 주방장이 내 케이크를 다 만든 것 같다. 주방장과 대화하면 케이크를 받을 수 있을 것이다."
+
+#: 103224356-0-39726
+msgctxt "103224356-0-39726"
+msgid "Chef Donolon will make me a special Jubilee Cake, but I need to bring him the ingredients he needs to prepare a fresh one. I need to gather or buy bananas, flour, and honey and bring them back to the chef."
+msgstr "도노론 주방장이 특별한 기념일 케이크를 만들어 줄 것이다, 하지만 그가 갓 만든 케이크를 만들려면 내가 재료를 모아주어야 한다. 바나나, 밀가루, 그리고 꿀을 구매해서 그에게 가져다 주거나 혹은 찾아내서 주방장에게 가져다줘야 한다."
+
+#: 103224356-0-39724
+#, fuzzy
+msgctxt "103224356-0-39724"
+msgid "Nevusa claimed that the Litany of Blood was a book of blank pages, but the pages were full of words to my eyes. I should tell Nevusa what I saw and read."
+msgstr "Nevusa는 Blood의 Litany가 빈 페이지의 책이라고 주장했지만 페이지는 내 눈에 띄었습니다. 나는 Nevusa에게 내가 봤고 읽은 것을 말해야 만한다.-G-"
+
+#: 103224356-0-39723
+#, fuzzy
+msgctxt "103224356-0-39723"
+msgid "Nevusa claimed that the Litany of Blood was a book of blank pages, but the pages were full of words to my eyes. I should tell Nevusa what I saw and read."
+msgstr "Nevusa는 Blood의 Litany가 빈 페이지의 책이라고 주장했지만 페이지는 내 눈에 띄었습니다. 나는 Nevusa에게 내가 봤고 읽은 것을 말해야 만한다.-G-"
+
+#: 103224356-0-39722
+#, fuzzy
+msgctxt "103224356-0-39722"
+msgid "Nevusa said I should examine the Litany of Blood for myself. The blank book rests at the base of the Night Mother's shrine in the Sanctuary."
+msgstr "Nevusa는 나 자신을 위해 피의 말을 시험해야한다고 말했다. 빈 책은 성소에있는 야간 어머니의 신전 바닥에 놓여 있습니다.-G-"
+
+#: 103224356-0-39718
+#, fuzzy
+msgctxt "103224356-0-39718"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr "나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-39714
+#, fuzzy
+msgctxt "103224356-0-39714"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete."
+msgstr "나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다.-G-"
+
+#: 103224356-0-39706
+#, fuzzy
+msgctxt "103224356-0-39706"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr "나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-39702
+#, fuzzy
+msgctxt "103224356-0-39702"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr "나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-39698
+#, fuzzy
+msgctxt "103224356-0-39698"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr "나는 또한 몇 가지 선택할 수 있는 목표를 부여 받았는데, 내가 얼마나 많이 완수했냐에 따라 보상이 늘어날 것이다. 독이 발린 비통의 단검으로 표적을 죽이는 것은 관련된 선택할 수 있는 목표에 이바지할 것이다."
+
+#: 103224356-0-39694
+#, fuzzy
+msgctxt "103224356-0-39694"
+msgid "I have also been given several optional objectives which will enhance my rewards depending on how many I complete. Slaying a target with the Blade of Woe while I have poison equipped will count toward the relevant optional objective."
+msgstr "나는 또한 몇 가지 선택적인 목표를 부여 받았는데, 이는 내가 얼마나 많은 사람들을 완성했는지에 따라 보상을 향상시킬 것입니다. 독이있는 상태에서 Blade of Woe로 표적을 죽이면 관련된 선택적인 목표에 포함됩니다.-G-"
+
+#: 103224356-0-39693
+#, fuzzy
+msgctxt "103224356-0-39693"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39691
+#, fuzzy
+msgctxt "103224356-0-39691"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39690
+#, fuzzy
+msgctxt "103224356-0-39690"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39686
+#, fuzzy
+msgctxt "103224356-0-39686"
+msgid "The Cove's residents are aware of the Brotherhood's activity here and are now on alert."
+msgstr "Cove의 주민들은 여기에있는 형제애의 활동을 알고 있으며 지금 경고하고 있습니다.-G-"
+
+#: 103224356-0-39683
+#, fuzzy
+msgctxt "103224356-0-39683"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39681
+#, fuzzy
+msgctxt "103224356-0-39681"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39680
+#, fuzzy
+msgctxt "103224356-0-39680"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39677
+#, fuzzy
+msgctxt "103224356-0-39677"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39675
+#, fuzzy
+msgctxt "103224356-0-39675"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39674
+#, fuzzy
+msgctxt "103224356-0-39674"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39671
+#, fuzzy
+msgctxt "103224356-0-39671"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39670
+#, fuzzy
+msgctxt "103224356-0-39670"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39668
+#, fuzzy
+msgctxt "103224356-0-39668"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39667
+#, fuzzy
+msgctxt "103224356-0-39667"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39664
+#, fuzzy
+msgctxt "103224356-0-39664"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39662
+#, fuzzy
+msgctxt "103224356-0-39662"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39661
+#, fuzzy
+msgctxt "103224356-0-39661"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39656
+#, fuzzy
+msgctxt "103224356-0-39656"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39654
+#, fuzzy
+msgctxt "103224356-0-39654"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39653
+#, fuzzy
+msgctxt "103224356-0-39653"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39650
+#, fuzzy
+msgctxt "103224356-0-39650"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39648
+#, fuzzy
+msgctxt "103224356-0-39648"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39647
+#, fuzzy
+msgctxt "103224356-0-39647"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39644
+#, fuzzy
+msgctxt "103224356-0-39644"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39642
+#, fuzzy
+msgctxt "103224356-0-39642"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39641
+#, fuzzy
+msgctxt "103224356-0-39641"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39638
+#, fuzzy
+msgctxt "103224356-0-39638"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39636
+#, fuzzy
+msgctxt "103224356-0-39636"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39635
+#, fuzzy
+msgctxt "103224356-0-39635"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39632
+#, fuzzy
+msgctxt "103224356-0-39632"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39630
+#, fuzzy
+msgctxt "103224356-0-39630"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39629
+#, fuzzy
+msgctxt "103224356-0-39629"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39626
+#, fuzzy
+msgctxt "103224356-0-39626"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39624
+#, fuzzy
+msgctxt "103224356-0-39624"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39623
+#, fuzzy
+msgctxt "103224356-0-39623"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39620
+#, fuzzy
+msgctxt "103224356-0-39620"
+msgid "I have identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 나의 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39619
+#, fuzzy
+msgctxt "103224356-0-39619"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39618
+#, fuzzy
+msgctxt "103224356-0-39618"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39617
+#, fuzzy
+msgctxt "103224356-0-39617"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39616
+#, fuzzy
+msgctxt "103224356-0-39616"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39614
+#, fuzzy
+msgctxt "103224356-0-39614"
+msgid "I must locate my target at the Alcaire Courtyard."
+msgstr "알 카이 안뜰에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39613
+#, fuzzy
+msgctxt "103224356-0-39613"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39612
+#, fuzzy
+msgctxt "103224356-0-39612"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39611
+#, fuzzy
+msgctxt "103224356-0-39611"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39610
+#, fuzzy
+msgctxt "103224356-0-39610"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39608
+#, fuzzy
+msgctxt "103224356-0-39608"
+msgid "I must locate my target at Koeglin Village."
+msgstr "Koeglin Village에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39607
+#, fuzzy
+msgctxt "103224356-0-39607"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39606
+#, fuzzy
+msgctxt "103224356-0-39606"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39605
+#, fuzzy
+msgctxt "103224356-0-39605"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39604
+#, fuzzy
+msgctxt "103224356-0-39604"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39602
+#, fuzzy
+msgctxt "103224356-0-39602"
+msgid "I must locate my target at the Wayrest Docks."
+msgstr "Wayrest Docks에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39601
+#, fuzzy
+msgctxt "103224356-0-39601"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39600
+#, fuzzy
+msgctxt "103224356-0-39600"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39599
+#, fuzzy
+msgctxt "103224356-0-39599"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39598
+#, fuzzy
+msgctxt "103224356-0-39598"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39596
+#, fuzzy
+msgctxt "103224356-0-39596"
+msgid "I must locate my target at Wayrest Castle."
+msgstr "Wayrest Castle에서 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39595
+#, fuzzy
+msgctxt "103224356-0-39595"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39594
+#, fuzzy
+msgctxt "103224356-0-39594"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39593
+#, fuzzy
+msgctxt "103224356-0-39593"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39592
+#, fuzzy
+msgctxt "103224356-0-39592"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39590
+#, fuzzy
+msgctxt "103224356-0-39590"
+msgid "I must locate my target at Oldgate."
+msgstr "내 목표물을 올드 게이트에서 찾아야 해.-G-"
+
+#: 103224356-0-39589
+#, fuzzy
+msgctxt "103224356-0-39589"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39588
+#, fuzzy
+msgctxt "103224356-0-39588"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39587
+#, fuzzy
+msgctxt "103224356-0-39587"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39586
+#, fuzzy
+msgctxt "103224356-0-39586"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39584
+#, fuzzy
+msgctxt "103224356-0-39584"
+msgid "I must locate my target at the Dusklight Inn."
+msgstr "Dusklight Inn에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39572
+#, fuzzy
+msgctxt "103224356-0-39572"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39571
+#, fuzzy
+msgctxt "103224356-0-39571"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39570
+#, fuzzy
+msgctxt "103224356-0-39570"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39569
+#, fuzzy
+msgctxt "103224356-0-39569"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39567
+#, fuzzy
+msgctxt "103224356-0-39567"
+msgid "I must locate my target at the Cloudy Dregs Inn."
+msgstr "흐린 Dregs Inn에서 내 목표물을 찾아야합니다.-G-"
+
+#: 103224356-0-39559
+#, fuzzy
+msgctxt "103224356-0-39559"
+msgid "I found Count Carolus in the midst of performing the Black Sacrament—the ritual used to summon the Dark Brotherhood. I should talk to him and see what this is all about."
+msgstr "Dark Brotherhood를 소환하는 의식 인 Black Sacrament를 수행하면서 Carolus 백작을 발견했습니다. 나는 그와 이야기하고 이것이 무엇에 관한 지 알아봐야한다.-G-"
+
+#: 103224356-0-39557
+msgctxt "103224356-0-39557"
+msgid "I gained entry to the Dark Brotherhood Sanctuary. Now I should find Astara and talk to her about what they expect of me."
+msgstr "다크 브라더후드 성역에 들어갈 수 있게 되었다. 이제 Astara를 찾아 그들이 나에게 기대하는 것에 대해 이야기해봐야겠다."
+
+#: 103224356-0-39547
+#, fuzzy
+msgctxt "103224356-0-39547"
+msgid "More of the Su-Zahleel captives are being held by <<1>>. I must slay Zatzu to rescue them."
+msgstr "Su-Zahleel 포로 중 더 많은 것이 <<1>>에 의해 열리고 있습니다. 나는 그들을 구출하기 위해 자 투족을 죽여야 만한다.-G-"
+
+#: 103224356-0-39546
+#, fuzzy
+msgctxt "103224356-0-39546"
+msgid "I should search the Ruins of Mazzatun and rescue any captives I find."
+msgstr "나는 Mazzatun의 폐허를 찾고 내가 발견 한 포로들을 구출해야한다.-G-"
+
+#: 103224356-0-39539
+#, fuzzy
+msgctxt "103224356-0-39539"
+msgid "I swiped goods from a bunch of laborers to teach them a lesson about shortchanging the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 많은 노동자들의 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39538
+#, fuzzy
+msgctxt "103224356-0-39538"
+msgid "I swiped goods from a number of laborers to teach them a lesson about shortchanging the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 많은 노동자들의 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39537
+msgctxt "103224356-0-39537"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39536
+msgctxt "103224356-0-39536"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39535
+msgctxt "103224356-0-39535"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39534
+msgctxt "103224356-0-39534"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39533
+msgctxt "103224356-0-39533"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39532
+msgctxt "103224356-0-39532"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39529
+#, fuzzy
+msgctxt "103224356-0-39529"
+msgid "I swiped goods from a few laborers to teach them a lesson about shortchanging the Guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 짧게 바꾸는 것에 대한 교훈을 그들에게 가르치기 위해 몇몇 노동자로부터 물품을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39528
+msgctxt "103224356-0-39528"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39527
+msgctxt "103224356-0-39527"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39526
+msgctxt "103224356-0-39526"
+msgid "The guild gave me leads on where I can find the laborers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 노동자들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39520
+msgctxt "103224356-0-39520"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39519
+msgctxt "103224356-0-39519"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39518
+msgctxt "103224356-0-39518"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39517
+msgctxt "103224356-0-39517"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내게 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39516
+msgctxt "103224356-0-39516"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39515
+msgctxt "103224356-0-39515"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39514
+#, fuzzy
+msgctxt "103224356-0-39514"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39513
+#, fuzzy
+msgctxt "103224356-0-39513"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39511
+#, fuzzy
+msgctxt "103224356-0-39511"
+msgid "I swiped goods from a number of entertainers to teach them a lesson about badmouthing the guild. <<1>> will want to hear about my success."
+msgstr "나는 길드를 나쁜쪽으로 몰아 넣는 것에 대해 그들에게 교훈을 가르치기 위해 많은 연예인들로부터 물건을 훔쳤다. <<1>>은 내 성공에 대해 듣고 싶습니다.-G-"
+
+#: 103224356-0-39508
+msgctxt "103224356-0-39508"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39507
+msgctxt "103224356-0-39507"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39506
+msgctxt "103224356-0-39506"
+msgid "The guild gave me leads on where I can find the entertainers I should steal from, but aren't particular about who I target and the goods I take are mine to keep."
+msgstr "길드는 내가 물건을 훔쳐야 할 재간꾼들이 어디 있는지 알려 줬다. 하지만 특별히 누구를 목표로 해야 하는지는 알려주지 않았고, 훔친 물건은 내가 가져도 된다고 했다."
+
+#: 103224356-0-39492
+#, fuzzy
+msgctxt "103224356-0-39492"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-39489
+#, fuzzy
+msgctxt "103224356-0-39489"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-39486
+#, fuzzy
+msgctxt "103224356-0-39486"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-39483
+#, fuzzy
+msgctxt "103224356-0-39483"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-39480
+#, fuzzy
+msgctxt "103224356-0-39480"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-39479
+#, fuzzy
+msgctxt "103224356-0-39479"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-39477
+msgctxt "103224356-0-39477"
+msgid "I'm in <<1>> in Abah's Landing. I should escort <<2>> to the palace, where people seem to be gathering."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>를 궁전으로, 사람들이 모이는 것 같은 곳으로 호위해야 한다."
+
+#: 103224356-0-39466
+#, fuzzy
+msgctxt "103224356-0-39466"
+msgid "I should listen to Green-Venom-Tongue and help him figure out how to open the door that leads deeper into the ruins."
+msgstr "나는 그린-독-텅 (Green-Venom-Tongue)의 말을 듣고 더 깊은 곳으로 이어지는 문을 여는 방법을 알아 내야합니다.-G-"
+
+#: 103224356-0-39463
+msgctxt "103224356-0-39463"
+msgid "I should speak to <<1>> now that she is freed and back in charge."
+msgstr "이제 <<1>>가 풀려나 다시 길드 마스터 자리로 돌아 왔으니 그녀와 대화해야 한다."
+
+#: 103224356-0-39461
+#, fuzzy
+msgctxt "103224356-0-39461"
+msgid "I can take the initiative and kill additional Sermonizers to drive the Brotherhood's message home. That should impress Astara."
+msgstr "나는 주도권을 잡아서 형제애의 메시지를 집으로 몰아 넣기 위해 추가 설교자를 죽일 수 있습니다. 그것은 Astara에게 인상을 주어야합니다.-G-"
+
+#: 103224356-0-39459
+#, fuzzy
+msgctxt "103224356-0-39459"
+msgid "Tanek will recover, given rest and time. I should see if there's anything else he needs before we consider the Grand Sermonizer situation dealt with."
+msgstr "Tanek는 휴식과 시간을 감안할 때 회복 할 것입니다. 우리는 Grand Sermonizer 상황을 고려하기 전에 그가 필요로하는 것이 있는지 확인해야합니다.-G-"
+
+#: 103224356-0-39455
+#, fuzzy
+msgctxt "103224356-0-39455"
+msgid "I should tell Astara what transpired at the Enclave of the Hourglass."
+msgstr "나는 아스타 라에게 모래 시계의 영토에서 일어난 일을 말해야한다.-G-"
+
+#: 103224356-0-39450
+#, fuzzy
+msgctxt "103224356-0-39450"
+msgid "Codus ap Dugal, master of the Kvatch Arena, may be able to tell me more about what I may face in this contest."
+msgstr "Codus ap Dugal, Kvatch Arena의 마스터가이 콘테스트에서 내가 직면 할 수있는 것에 대해 더 많이 알릴 수 있습니다.-G-"
+
+#: 103224356-0-39449
+#, fuzzy
+msgctxt "103224356-0-39449"
+msgid "I must defeat one of the best gladiators and conquer the challenge of the Kvatch Arena to claim a significant victory purse."
+msgstr "최고의 검투사 중 한 명을 물리 치고 Kvatch Arena의 도전을 극복하여 중요한 승리의 지갑을 확보해야합니다.-G-"
+
+#: 103224356-0-39448
+#, fuzzy
+msgctxt "103224356-0-39448"
+msgid "I defeated one of the best gladiators and conquered the challenge of the Kvatch Arena. I should speak to <<1>> to claim my prize."
+msgstr "나는 최고의 검투사 중 한 명을 물리 쳤고 Kvatch Arena의 도전을 정복했습니다. 내 상금을 청구하려면 <<1>>로해야합니다.-G-"
+
+#: 103224356-0-39428
+#, fuzzy
+msgctxt "103224356-0-39428"
+msgid "I recovered the relics and cleared the dig site of threats. I should return to Kvatch and speak with Finia Sele to claim my reward."
+msgstr "유적을 회수하고 위협 발굴 지점을 정리했습니다. 나는 Kvatch로 돌아가서 Finia Sele와 이야기하여 보상을 요구해야합니다.-G-"
+
+#: 103224356-0-39426
+#, fuzzy
+msgctxt "103224356-0-39426"
+msgid "Finia Sele posted the bounty. I can find her in Kvatch's Market Square. She might have useful information about what obstacles I may face."
+msgstr "Finia Sele이 현상금을 게시했습니다. Kvatch의 시장 광장에서 그녀를 찾을 수 있습니다. 그녀는 제가 직면 할 수있는 장애물에 대한 유용한 정보를 얻을 수 있습니다.-G-"
+
+#: 103224356-0-39425
+#, fuzzy
+msgctxt "103224356-0-39425"
+msgid "I need to clear the excavation site of the source of the trouble and recover abandoned artifacts unearthed from the dig."
+msgstr "문제의 근원 인 발굴 지점을 깨끗이하고 발굴에서 유래 한 유물을 복구해야합니다.-G-"
+
+#: 103224356-0-39423
+#, fuzzy
+msgctxt "103224356-0-39423"
+msgid "The contract names <<1>> as the contact person. He may have additional information helpful for claiming this bounty."
+msgstr "담당자 이름은 <<1>>입니다. 그는이 현상금을 청구하는 데 도움이되는 추가 정보가있을 수 있습니다.-G-"
+
+#: 103224356-0-39422
+#, fuzzy
+msgctxt "103224356-0-39422"
+msgid "<<1>> is dead and I collected several ledgers containing the transactions of the Gold Coast Trading Company. I should find <<2>> to collect my reward."
+msgstr "<<1>>은 죽었고 Gold Coast Trading Company의 거래를 담고있는 여러 장부를 채취했습니다. 내 보상을 받기 위해서 <<2>>를 찾아야합니다.-G-"
+
+#: 103224356-0-39421
+#, fuzzy
+msgctxt "103224356-0-39421"
+msgid "I need to go to Garlas Agea to find and destroy <<1>>. I should also take any company ledgers I come across during my search or seize them from company functionaries in order to complete the job."
+msgstr "나는 <<1>>을 찾아 파괴하기 위해 Garlas Agea에 갈 필요가있다. 또한 수색 중에 회사 장부를 가져 가거나 직장을 완성하기 위해 회사 수호자에게서 회사 장악자를 붙잡아 야합니다.-G-"
+
+#: 103224356-0-39418
+#, fuzzy
+msgctxt "103224356-0-39418"
+msgid "I destroyed Exulus and retrieved the pauldrons of the fallen Arkay warriors. Now I should meet Cleric Arvina in Anvil's Mages Guild and claim my reward."
+msgstr "나는 Exulus를 파괴하고 타락한 Arkay 전사의 pauldrons를 회수했다. 이제 저는 Anvil의 Mages Guild에서 Cliv Arvina를 만나서 보상을 요청해야합니다.-G-"
+
+#: 103224356-0-39415
+#, fuzzy
+msgctxt "103224356-0-39415"
+msgid "Cleric Arvina may know more about the enemy I face. I should consult him in Anvil's Mages Guild before I enter the cave."
+msgstr "성직자 아르비나는 내가 직면 한 적에 대해 더 많이 알 것입니다. 나는 동굴에 들어가기 전에 Anvil의 Mages Guild에서 그를 상담해야합니다.-G-"
+
+#: 103224356-0-39413
+#, fuzzy
+msgctxt "103224356-0-39413"
+msgid "I must destroy Exulus the Wispmother and retrieve pauldrons from the fallen warriors of Arkay in Hrota Cave."
+msgstr "나는 Wispmother의 Exulus를 파괴하고 Hrota Cave의 Arkay의 타락한 전사들에게서 pauldron을 가져와야합니다.-G-"
+
+#: 103224356-0-39412
+#, fuzzy
+msgctxt "103224356-0-39412"
+msgid "The Su-Zahleel tribal elders have been taken deeper into the ruins. I must hurry if I want to keep Tree-Minder Na-Kesh from sacrificing them."
+msgstr "Su-Zahleel 종족 장로들은 폐허로 더 깊이 들어가 있습니다. 트리 메너 나 케쉬 (Na-Kesh)가 그들을 희생시키지 못하게하려면 나는 서둘러야한다.-G-"
+
+#: 103224356-0-39405
+msgctxt "103224356-0-39405"
+msgid "The half-naked Nord said that he met the Khajiit woman who paid him to deliver the letter to Velsa in Evermore. I should travel to Bangkorai and see if I can find this mysterious Khajiit."
+msgstr "반나체의 노드는 에버모어에서 한 카짓 여인을 만났다고 했다. 그 여인이 돈을 주며 벨사에게 편지를 전해 달라고 했다고 한다. 나는 뱅코라이로 가서 이 알 수 없는 카짓을 찾아야 한다."
+
+#: 103224356-0-39404
+msgctxt "103224356-0-39404"
+msgid "The half-naked Nord said that he met the Khajiit woman who paid him to deliver the letter to Velsa in Rawl'kha. I should travel to Reaper's March and see if I can find this mysterious Khajiit."
+msgstr "반나체의 노드는 라울카에서 한 카짓 여인을 만났다고 했다. 그 여인이 돈을 주며 벨사에게 편지를 전해 달라고 했다고 한다. 나는 리퍼스 마치로 가서 이 알 수 없는 카짓을 찾아야 한다."
+
+#: 103224356-0-39403
+msgctxt "103224356-0-39403"
+msgid "I couldn't find Amelie, but a courier approached me. I should see what the courier wants."
+msgstr "아멜리를 찾을 수 없었지만, 배달부가 나에게 다가왔다. 그와 대화해 봐야겠다."
+
+#: 103224356-0-39402
+#, fuzzy
+msgctxt "103224356-0-39402"
+msgid "I should conclude my conversation with the Drake of Blades."
+msgstr "블레이드 드레 이크 (Drake of Blades)와의 대화를 마무리해야합니다.-G-"
+
+#: 103224356-0-39401
+#, fuzzy
+msgctxt "103224356-0-39401"
+msgid "The Drake of Blades whispered for me to meet her nearby. I should go speak with her."
+msgstr "드레이크 블레이드 (Drake of Blades)는 그녀를 가까이에서 만나기 위해 속삭였다. 나는 그녀와 이야기해야한다.-G-"
+
+#: 103224356-0-39400
+#, fuzzy
+msgctxt "103224356-0-39400"
+msgid "I must travel to the Daggerfall Covenant base in the Imperial City and meet with the commanding officer, General Aklash, for a briefing."
+msgstr "나는 제국 도시의 대 거거 언약 기지로 가서 지휘관 인 Aklash 장군과 만나 브리핑을해야합니다.-G-"
+
+#: 103224356-0-39399
+#, fuzzy
+msgctxt "103224356-0-39399"
+msgid "I should conclude my conversation with the Drake of Blades."
+msgstr "블레이드 드레 이크 (Drake of Blades)와의 대화를 마무리해야합니다.-G-"
+
+#: 103224356-0-39398
+#, fuzzy
+msgctxt "103224356-0-39398"
+msgid "The Drake of Blades whispered for me to meet her nearby. I should go speak to her."
+msgstr "드레이크 블레이드 (Drake of Blades)는 그녀를 가까이에서 만나기 위해 속삭였다. 나는 그녀와 이야기해야한다.-G-"
+
+#: 103224356-0-39397
+#, fuzzy
+msgctxt "103224356-0-39397"
+msgid "I must travel to the Ebonheart Pact base in the Imperial City and meet with the commanding officer, General Nesh-Tan, for a briefing."
+msgstr "제국 도시의 에본 하트 협약 기지로 가서 브리핑을 위해 지휘관 인 네스 탄 장군을 만나야합니다.-G-"
+
+#: 103224356-0-39396
+#, fuzzy
+msgctxt "103224356-0-39396"
+msgid "I should conclude my conversation with the Drake of Blades."
+msgstr "블레이드 드레 이크 (Drake of Blades)와의 대화를 마무리해야합니다.-G-"
+
+#: 103224356-0-39395
+#, fuzzy
+msgctxt "103224356-0-39395"
+msgid "The Drake of Blades whispered for me to meet her nearby. I should go speak with her."
+msgstr "드레이크 블레이드 (Drake of Blades)는 그녀를 가까이에서 만나기 위해 속삭였다. 나는 그녀와 이야기해야한다.-G-"
+
+#: 103224356-0-39394
+#, fuzzy
+msgctxt "103224356-0-39394"
+msgid "I must travel to the Aldmeri Dominion base in the Imperial City and meet with the commanding officer, General Nedras, for a briefing."
+msgstr "제국 도시의 Aldmeri Dominion 기지로 이동하여 브리핑을 위해 Nedras 장군과 만나야합니다.-G-"
+
+#: 103224356-0-39381
+msgctxt "103224356-0-39381"
+msgid "It seems that the best way to get the attention of the Dark Brotherhood is to kill an innocent person in cold blood. If I'm going to do this, I should go to Anvil on the Gold Coast and see if they think I'm worthy to join them."
+msgstr "다크 브라더후드(Dark Brotherhood)의 주의를 끌기 위한 가장 좋은 방법은 무고한 사람을 가차 없이 살해하는 것으로 보인다. 다크 브라더후드에 가입하려면, 골드 코스트에 있는 앤빌로 가서 살인을 저지른 뒤에 그들이 나를 찾아오는지 두고 보면 될 것이다."
+
+#: 103224356-0-39379
+msgctxt "103224356-0-39379"
+msgid "I could speak with <<1>> before I leave and see if she has any advice."
+msgstr "떠나기 전에 <<1>>와 대화해 조언해줄 것이 있는지 알아봐야 한다."
+
+#: 103224356-0-39374
+#, fuzzy
+msgctxt "103224356-0-39374"
+msgid "Hildegard was tricked by Chanter Nemus for some unknown reason, but Kor and I were able to keep her safe. I should let Astara know what happened."
+msgstr "Hildegard는 Chanter Nemus에게 속임을 당했지만 Kor와 나는 그녀를 안전하게 지킬 수있었습니다. 나는 Astara가 무슨 일이 일어 났는지 알려야한다.-G-"
+
+#: 103224356-0-39373
+#, fuzzy
+msgctxt "103224356-0-39373"
+msgid "I should return to the Sanctuary and let Speaker Terenus know everything that occurred at the Cathedral."
+msgstr "나는 성역으로 돌아가서 테레 누스 (Terenus)의 연설자에게 대성당에서 일어난 모든 일을 알게해야합니다.-G-"
+
+#: 103224356-0-39372
+#, fuzzy
+msgctxt "103224356-0-39372"
+msgid "Now that <<1>> has been defeated, I should finish him off once and for all."
+msgstr "이제 <<1>>이 (가) 패배 했으므로 나는 그를 끝내야합니다.-G-"
+
+#: 103224356-0-39371
+#, fuzzy
+msgctxt "103224356-0-39371"
+msgid "I found a way into the Cathedral of Akatosh. Now I need to deal with Primate Artorius and make him pay for his transgressions against the Dark Brotherhood."
+msgstr "나는 Akatosh의 성당으로가는 길을 발견했다. 이제 나는 영장류 Artorius를 다뤄서 Dark Brotherhood에 대한 자신의 허물을 치러야합니다.-G-"
+
+#: 103224356-0-39370
+#, fuzzy
+msgctxt "103224356-0-39370"
+msgid "Hildegard was tricked by Chanter Nemus and then set upon by the Silver Dawn. It was all some sort of elaborate trap, but we don't know what motivated the chanter. I need to either offer Hilde words of encouragement or scold her to teach her a lesson."
+msgstr "Hildegard는 Chanter Nemus에 속고은 새벽에 착수했습니다. 그것은 일종의 정교한 함정 이었지만, 우리는 그 성찬가에게 동기를 부여한 동기를 모른다. 나는 격려의 힐레 단어를 제공하거나 그녀에게 교훈을 가르쳐 줄 필요가 있습니다.-G-"
+
+#: 103224356-0-39369
+#, fuzzy
+msgctxt "103224356-0-39369"
+msgid "The way into the Cathedral is just ahead. Time to go upstairs and find Primate Artorius."
+msgstr "대성당으로의 길은 단지 앞에있다. 위층으로 올라가 영장류 Artorius를 찾을 시간.-G-"
+
+#: 103224356-0-39368
+#, fuzzy
+msgctxt "103224356-0-39368"
+msgid "A group of Order of the Hour warriors has cornered Grazda, one of my Brotherhood sisters, in the chamber ahead. We'll need to defeat them and their leader before we can proceed."
+msgstr "시간 전사의 그룹은 Grazda, 나의 형제애 자매 중 하나를, 앞으로 약실에서 모서리가 내 렸습니다. 우리가 진행하기 전에 그들과 그들의 지도자를 물리 칠 필요가 있습니다.-G-"
+
+#: 103224356-0-39367
+#, fuzzy
+msgctxt "103224356-0-39367"
+msgid "The <<1>> is dead. Now I can continue exploring the catacombs until I find a way into the Cathedral above."
+msgstr "<<1>>은 죽었습니다. 위의 대성당으로가는 길을 찾을 때까지 카타콤을 계속 탐험 할 수 있습니다.-G-"
+
+#: 103224356-0-39366
+#, fuzzy
+msgctxt "103224356-0-39366"
+msgid "While exploring the Cathedral Catacombs, I encountered a <<1>>. It blocks the way ahead so I need to kill it to proceed."
+msgstr "대성당을 탐험하는 동안 나는 <<1>>을 만났습니다. 진행 방향을 차단하여 진행하기 위해 죽일 필요가 있습니다.-G-"
+
+#: 103224356-0-39365
+#, fuzzy
+msgctxt "103224356-0-39365"
+msgid "Tanek found a way into the catacombs that lie beneath the Cathedral. I need to explore these catacombs to find a way to enter the Cathedral proper."
+msgstr "타넥 (Tanek)은 대성당 (Cathedral) 아래에있는 지하 묘지 (catacombs)로가는 길을 발견했습니다. 나는 대성당에 들어가기위한 방법을 찾기 위해이 지하 묘지를 탐험해야한다.-G-"
+
+#: 103224356-0-39364
+#, fuzzy
+msgctxt "103224356-0-39364"
+msgid "Tanek was sent ahead to scout out the heavily fortified Cathedral in Kvatch and try to find a way inside. I should travel to Kvatch and meet up with him."
+msgstr "Tanek은 Kvatch의 심하게 요새화 된 대성당을 정찰하고 내부의 길을 찾으려고했습니다. 나는 Kvatch에 가서 그를 만나야한다.-G-"
+
+#: 103224356-0-39363
+#, fuzzy
+msgctxt "103224356-0-39363"
+msgid "I should talk to Speaker Terenus and see if there's anything else he needs me to do."
+msgstr "나는 테레 누스 (Terenus) 대변인과 이야기해야하고 그가해야 할 다른 것이 있는지 알아봐야한다.-G-"
+
+#: 103224356-0-39361
+#, fuzzy
+msgctxt "103224356-0-39361"
+msgid "I have the treasures, but my window has expired. <<1>> is waiting to lead me back to <<Ac:2>> from here. Hopefully the haul is still worth something to someone."
+msgstr "나는 보물을 가지고 있지만 내 창은 만료되었다. <<1>>은 <<Ac:2>>로 다시 돌아 오기를 기다리고 있습니다. 바라건대 아직은 누군가에게 가치있는 가치가 있기를 바랍니다.-G-"
+
+#: 103224356-0-39358
+#, fuzzy
+msgctxt "103224356-0-39358"
+msgid "I have the treasure, but my window has expired. <<1>> is waiting to lead me back to <<Ac:2>> from here. Hopefully the haul is still worth something to someone."
+msgstr "나는 보물을 가지고 있지만 내 창은 만료되었다. <<1>>은 <<Ac:2>>로 다시 돌아 오기를 기다리고 있습니다. 바라건대 아직은 누군가에게 가치있는 가치가 있기를 바랍니다.-G-"
+
+#: 103224356-0-39357
+msgctxt "103224356-0-39357"
+msgid "I have the Daedric treasures, but my window has expired. <<1>> is waiting to lead me back to <<Ac:2>> from here. Hopefully the haul is still worth something to someone."
+msgstr "데이드릭 보물을 가져왔지만 시간이 만료되었다. <<1>>가 나를 <<Ac:2>>로 다시 데려가기 위해 기다리고 있다. 이 전리품이 누군가에게 아직 가치가 있기를 바란다."
+
+#: 103224356-0-39350
+#, fuzzy
+msgctxt "103224356-0-39350"
+msgid "My new contract calls for the death of Governor Fortunata. I should meet Mirabelle at Anvil Castle and see if she has any advice on breaching the Pirate Queen's defenses."
+msgstr "나의 새로운 계약은 Fortunata 주지사의 죽음을 요구합니다. 나는 Anvil Castle의 Mirabelle을 만나서 해적 여왕의 방벽을 위반하는 것에 대해 조언을해야하는지 알아봐야합니다.-G-"
+
+#: 103224356-0-39349
+#, fuzzy
+msgctxt "103224356-0-39349"
+msgid "It appears that Speaker Terenus came in response to the Count's Black Sacrament ritual. He wants to speak with me."
+msgstr "테레 누스 (Terenus) 연사는 백작의 성례전 (Black Sacrament) 의식에 대한 응답으로 나타났습니다. 그는 나와 이야기하고 싶어한다.-G-"
+
+#: 103224356-0-39348
+#, fuzzy
+msgctxt "103224356-0-39348"
+msgid "I murdered the commander of the Order of the Hour. Now I need to find Count Carolus and tell him what happened to Commander Scipio to complete this contract."
+msgstr "나는 '시간의 명령'지휘관을 살해했다. 이제 Carolus 백작을 찾아이 계약을 완성하기 위해 Scipio 사령관에게 무슨 일이 일어 났는지 알려줄 필요가 있습니다.-G-"
+
+#: 103224356-0-39347
+#, fuzzy
+msgctxt "103224356-0-39347"
+msgid "I'm inside Castle Kvatch. Now I need to locate and murder Commander Marcus Scipio, leader of the Order of the Hour."
+msgstr "나는 Castle Kvatch 안에있다. 이제는 시간의 명령자 인 마커스 스키 피오 (Marcus Scipio) 사령관을 찾아서 살해해야합니다.-G-"
+
+#: 103224356-0-39346
+#, fuzzy
+msgctxt "103224356-0-39346"
+msgid "In order to carry out Governor Fortunata's contract, I first have to find a way to get inside Castle Kvatch. She suggested getting a key to the gatehouse from the castellan or I can talk to one of the officers at the gate and try to gain entry there."
+msgstr "Fortunata 주지사와 계약을 맺기 위해서는 Castle Kvatch 내부로 들어가는 방법을 찾아야합니다. 그녀는 카스텔란에서 문간의 열쇠를 얻으라고 제안 했었습니다. 아니면 문에서 장교 중 한 사람과 이야기하고 거기에 입장하려고 할 수있었습니다.-G-"
+
+#: 103224356-0-39342
+#, fuzzy
+msgctxt "103224356-0-39342"
+msgid "I should go to Anvil Castle and find out who Governor Fortunata ap Dugal wants me to kill."
+msgstr "나는 앤빌 캐슬에 가야한다. 그리고 듀갈이 내가 죽이기를 원하는 포츈 타타 주지사를 찾아야한다.-G-"
+
+#: 103224356-0-39341
+#, fuzzy
+msgctxt "103224356-0-39341"
+msgid "I should return to the Sanctuary and tell Astara what transpired at the Enclave of the Hourglass. I should also turn over the journal I recovered from the Black Dragon."
+msgstr "나는 성역으로 돌아와 아스타 라에게 모래 시계의 영토에서 일어난 일을 말해야한다. 나는 흑룡 단에서 회복 한 저널을 뒤집어 놓아야한다.-G-"
+
+#: 103224356-0-39339
+#, fuzzy
+msgctxt "103224356-0-39339"
+msgid "Kor mentioned the Silver Dawn. I should talk to him to see what he found out."
+msgstr "코르는은 새벽을 언급했다. 나는 그가 무엇을 발견했는지 알아보기 위해 그와 이야기해야한다.-G-"
+
+#: 103224356-0-39338
+#, fuzzy
+msgctxt "103224356-0-39338"
+msgid "I think the caravan master helped Hildegard leave Anvil, but I can't get a straight answer out of her. Maybe Kor can convince her to help us. I should stand back and let him give it a try."
+msgstr "나는 캐러밴 마스터가 힐데가르트가 앤빌을 떠날 수 있도록 도와 주었지만 나는 그녀에게서 곧바로 답을 얻을 수는 없다고 생각한다. 어쩌면 코는 우리를 도우라고 그녀를 설득 할 수 있습니다. 나는 뒤로 물러 설 필요가있다.-G-"
+
+#: 103224356-0-39335
+#, fuzzy
+msgctxt "103224356-0-39335"
+msgid "I should find her in an Outlaws Refuge."
+msgstr "나는 그녀를 무법자 피난처에서 찾아야 해.-G-"
+
+#: 103224356-0-39327
+#, fuzzy
+msgctxt "103224356-0-39327"
+msgid "Hildegard was tricked by Chanter Nemus for some unknown reason, but Kor and I were able to keep her safe. I should let Astara know what happened."
+msgstr "Hildegard는 Chanter Nemus에게 속임을 당했지만 Kor와 나는 그녀를 안전하게 지킬 수있었습니다. 나는 Astara가 무슨 일이 일어 났는지 알려야한다.-G-"
+
+#: 103224356-0-39326
+#, fuzzy
+msgctxt "103224356-0-39326"
+msgid "I should return to the Sanctuary and let Astara know what happened."
+msgstr "나는 성역으로 돌아가 아스타라로 하여금 무슨 일이 일어 났는지 알려야한다.-G-"
+
+#: 103224356-0-39323
+#, fuzzy
+msgctxt "103224356-0-39323"
+msgid "I should talk to Kor and make sure he gets Hildegard safely back to the Sanctuary."
+msgstr "나는 코르에게 말을 걸어야하고 힐데가르트가 성역으로 안전하게 돌아갈 수 있도록해야합니다.-G-"
+
+#: 103224356-0-39322
+#, fuzzy
+msgctxt "103224356-0-39322"
+msgid "I let Hildegard know what I think of her actions. It's time for us to return to Anvil."
+msgstr "나는 힐데가르트에게 내가 그녀의 행동에 대해 어떻게 생각하는지 알렸다. 우리가 앤빌로 돌아갈 때입니다.-G-"
+
+#: 103224356-0-39320
+#, fuzzy
+msgctxt "103224356-0-39320"
+msgid "I watched as Kor calmed Hildegard and got her to change back into human form. I should talk to her and find out what this was all about."
+msgstr "나는 Kor가 Hildegard를 진정시키고 그녀가 인간의 모습으로 되돌아 갈 때까지 지켜 보았다. 나는 그녀와 이야기하고 이것이 무엇에 관한 지 알아 내야한다.-G-"
+
+#: 103224356-0-39319
+#, fuzzy
+msgctxt "103224356-0-39319"
+msgid "The Silver Dawn has apparently been tracking Hildegard, too. They reached this spot and set up a camp. A surviving member of their hunting party suggested that her trail continues to the south. I should hurry and find Hildegard."
+msgstr "은빛 새벽이 힐데가르트를 추적 한 것 같습니다. 그들은이 지점에 도달하여 캠프를 시작했습니다. 그들의 사냥 당의 살아남은 회원은 그녀의 흔적이 남쪽으로 계속 될 것을 제안했다. 서둘러서 힐데가르트를 찾아야 해.-G-"
+
+#: 103224356-0-39318
+#, fuzzy
+msgctxt "103224356-0-39318"
+msgid "I tracked Hildegard to a camp that's overrun with Silver Dawn hunters. I should deal with these hunters before I continue to search for Hildegard."
+msgstr "나는 실버 던 사냥꾼들에게 넘쳐나는 힐 야드를 캠프로 추적했다. Hildegard를 계속 검색하기 전에이 사냥꾼과 거래해야합니다.-G-"
+
+#: 103224356-0-39317
+#, fuzzy
+msgctxt "103224356-0-39317"
+msgid "We arrived in the Jerall Mountains of Skyrim. Now we need to track Hildegard and find her before the Silver Dawn hunters kill her."
+msgstr "우리는 스카이 림 (Skyrim)의 제럴 산 (Jerall Mountains)에 도착했습니다. 이제 우리는 실버 던 사냥꾼들이 그녀를 죽이기 전에 힐데가르트를 추적해야합니다.-G-"
+
+#: 103224356-0-39316
+#, fuzzy
+msgctxt "103224356-0-39316"
+msgid "Hildegard told the caravan master about Kor, and she recognized him. She's agreed to take us to the Jerall Mountains in Skyrim, where she took Hildegard. I should talk to her when we're ready to go."
+msgstr "Hildegard는 캐러밴 대장에게 Kor에 대해 말했고, 그녀는 그를 알아 보았습니다. 그녀는 스카이 림 (Skyrim)의 제랄 산 (Jerall Mountains)으로 우리를 데려가 힐데가르트 (Hildegard)를 데려다 준 것에 동의했습니다. 우리가 갈 준비가되었을 때 나는 그녀와 이야기해야한다.-G-"
+
+#: 103224356-0-39314
+#, fuzzy
+msgctxt "103224356-0-39314"
+msgid "A very worried Kor thinks that Hildegard may have gone back to where he first found her—the wilderness of Skyrim. While he checks at the docks, he wants me to talk to the caravan master to see if she arranged travel there."
+msgstr "매우 걱정되는 코는 힐데가르트가 스카이 라이트의 황야 인 그녀를 처음으로 발견했다고 생각합니다. 그는 선착장에서 수표를 조사하는 동안 캐러밴 마스터와 이야기를 나누며 여행을 계획했는지 확인하기를 원합니다.-G-"
+
+#: 103224356-0-39312
+#, fuzzy
+msgctxt "103224356-0-39312"
+msgid "I found out that a woman saw Hildegard talking to Chanter Nemus near the Akatosh shrine. I should let Kor know and ask him if he discovered anything that can help us locate Hildegard."
+msgstr "한 여인이 Hildegard가 Akatosh 신전 근처의 Chanter Nemus와 이야기하는 것을 보았습니다. 나는 코르에게 우리가 힐데가르트를 찾는데 도움이되는 것을 발견했는지를 물어보아야한다.-G-"
+
+#: 103224356-0-39311
+msgctxt "103224356-0-39311"
+msgid "Kor suggested we talk to the worshipers to find out if any of them saw Hildegard in the chapel recently."
+msgstr "코르는 최근에 성당에 온 사람들 중에 힐데 가드가 있었는지 예배를 하는 사람에게 물어보는 게 어떻겠냐고 제안하였다."
+
+#: 103224356-0-39310
+msgctxt "103224356-0-39310"
+msgid "Kor suggested we start our search at Anvil's Great Chapel of Dibella. Hildegard often goes there to pray and contemplate the Divines."
+msgstr "코르는 우리에게 앤빌에 있는 디벨라의 대성당에서부터 수색을 시작하는 게 어떠냐고 제안하였다. 힐데가드는 종종 그곳에서 디바인들에게 고민을 털어놓거나 기도하곤 했다고 한다."
+
+#: 103224356-0-39305
+msgctxt "103224356-0-39305"
+msgid "I gained entry to the Dark Brotherhood Sanctuary. Now I should find Astara and talk to her about what they expect of me."
+msgstr "다크 브라더후드 성역에 들어왔다. 이제 아스타라를 찾아 그들이 내게 뭘 기대하고 있는지에 대해 대화해야 한다."
+
+#: 103224356-0-39304
+msgctxt "103224356-0-39304"
+msgid "I need to find the Black Door and gain entry to the Gold Coast Sanctuary of the Dark Brotherhood."
+msgstr "검은 문을 찾아 골드 코스트의 다크 브라더후드 성역에 들어가야 한다."
+
+#: 103224356-0-39303
+msgctxt "103224356-0-39303"
+msgid "I should return to Speaker Terenus at the Anvil Lighthouse and tell him that the noble he wanted me to kill is dead."
+msgstr "앤빌 등대에 있는 스피커 테레누스에게 덜아가 그가 죽이길 원했던 귀족이 죽었다고 말해야 한다."
+
+#: 103224356-0-39302
+msgctxt "103224356-0-39302"
+msgid "I made it inside the Jarol Estate. Now I need to locate my quarry, the noble Quintus Jarol."
+msgstr "나는 재롤 영지 안으로 들어왔다. 이제 내 사냥감인 퀸투스 재롤의 위치를 찾아야 한다."
+
+#: 103224356-0-39298
+msgctxt "103224356-0-39298"
+msgid "I found two items that could be the keepsakes Walks-Softly was looking for. I should meet  <<1>> in the family quarters of the mansion and see if there's anything else he wants to steal from Anais Velmont."
+msgstr "웍스-소프틀리가 찾고 있는 기념품인 것 같은 물건 두 개를 찾았다. 맨션의 가족실에서 <<1>>를 만나 아나이스 벨몬트에게서 훔치려는 것이 거기 더 있는지 알아봐야 한다."
+
+#: 103224356-0-39297
+#, fuzzy
+msgctxt "103224356-0-39297"
+msgid "While looking for the Black Dragon, I ran into a woman named <<1>>. Maybe she can tell me something about the Black Dragon and the Order of the Hour."
+msgstr "블랙 드래곤을 찾으면서 <<1>>이라는 여자를 만났습니다. 어쩌면 그녀는 블랙 드래곤과 시간의 명령에 대해 나에게 말할 수 있습니다.-G-"
+
+#: 103224356-0-39296
+msgctxt "103224356-0-39296"
+msgid "Walks-Softly wants me to take the amulet so we can leave the mansion."
+msgstr "우리가 저택을 떠날 수 있도록 웍스-소프틀리는 내가 아뮬렛을 가지고 와주길 바란다."
+
+#: 103224356-0-39291
+msgctxt "103224356-0-39291"
+msgid "I reached Kvatch. Now I should talk to Tanek and determine how we're going to proceed."
+msgstr "나는 크바치에 도착했다. 이제 타넥에게 말을 걸어 우리가 어떻게 해야할 지 결정해야 한다."
+
+#: 103224356-0-39290
+msgctxt "103224356-0-39290"
+msgid "Tanek will recover, given rest and time. I should see if there's anything else he needs before we consider the Grand Sermonizer situation dealt with."
+msgstr "휴식을 취하고 시간을 가진다면 타넥은 회복할 것이다. 우리가 대 설교사의 상황을 처리하기 전에 그가 필요로 하는 것이 더 있는지 확인해야 한다."
+
+#: 103224356-0-39289
+msgctxt "103224356-0-39289"
+msgid "Tanek sent Kor and Hildegarde away and asked to speak to me privately. I should find out what he wants."
+msgstr "타넥은 코르외 힐데가드를 멀리 보내고 내게 개인적으로 할 말이 있다고 했다. 그가 원하는 것을 알아내야 한다."
+
+#: 103224356-0-39288
+msgctxt "103224356-0-39288"
+msgid "Tanek recovers under the watchful eyes of Kor and Hildegard. I should wait for them to finish their visit."
+msgstr "타넥은 코르와 힐데가드의 보살핌 아래 회복하고 있다. 그들의 방문이 끝나기를 기다려야 한다."
+
+#: 103224356-0-39287
+msgctxt "103224356-0-39287"
+msgid "Kor helped Tanek make it back to the Sanctuary, though Tanek was badly injured by the Grand Sermonizer's trap. Tanek has asked to see me. I should check on him."
+msgstr "코르가 타넥이 성역에 돌아올 수 있도록 도왔지만, 타넥은 대 설교사의 함정에 심각한 부상을 입었다. 타넥이 날 보고 싶다고 했다고 한다. 그를 확인해야 한다."
+
+#: 103224356-0-39286
+msgctxt "103224356-0-39286"
+msgid "Astara needs to hear about what happened at the Grand Sermonizer's estate. I should tell her what happened to Brother Cimbar and about the warrior in black armor."
+msgstr "아스타라에게 대 설교사의 사유지에서 있었던 일을 알려야 한다. 그녀에게 형제 심바에게 있었던 일과 검은 갑옷을 입은 전사에 관해 이야기해야 한다."
+
+#: 103224356-0-39285
+msgctxt "103224356-0-39285"
+msgid "The Grand Sermonizer is dead. I should return to the Dark Brotherhood Sanctuary and report what happened to Astara."
+msgstr "대 설교사가 죽었다. 다크 브라더후드 성역으로 돌아가 아스타라에게 무슨 일이 있었는지 보고해야 한다."
+
+#: 103224356-0-39284
+msgctxt "103224356-0-39284"
+msgid "I caught up to the Grand Sermonizer and her cadre of Order of the Hour soldiers. Let the final battle begin!"
+msgstr "나는 대 설교사와 시간 결사단 간부 군인들을 따라 잡았다. 마지막 전투를 시작하자!"
+
+#: 103224356-0-39283
+msgctxt "103224356-0-39283"
+msgid "I found the Grand Sermonizer's escape tunnel that runs beneath the estate. I should follow after her and try to catch her before she gets away."
+msgstr "나는 사유지 아래에 있는 대 설교사의 탈출 터널을 발견했다. 그녀가 떠나기 전에 추적해 붙잡아야 한다."
+
+#: 103224356-0-39282
+msgctxt "103224356-0-39282"
+msgid "Kor arrived to help Tanek. He ordered me to finish the mission and chase down the Grand Sermonizer. I need to follow her escape route before she gets away."
+msgstr "코르가 타넥을 돕기 위해 도착했다. 그는 내게 대 설교사를 추적하여 임무를 완수하라고 명령했다. 그녀가 사라지기 전에 탈출 경로를 따라가야 한다."
+
+#: 103224356-0-39281
+msgctxt "103224356-0-39281"
+msgid "The Grand Sermonizer disappeared before I could finish her off, but Tanek still suffers under her spell. I should make sure he's all right before I chase after the Grand Sermonizer."
+msgstr "내가 대 설교사를 끝장내기 전에 그녀는 사라졌다. 하지만 타넥은 여전히 그녀의 마법에 시달리고 있다. 대 설교사를 추적하기 전에 그가 괜찮은지 확인해야 한다."
+
+#: 103224356-0-39280
+msgctxt "103224356-0-39280"
+msgid "Some sort of spell has paralyzed Tanek. It's a trap! I need to defend Tanek until he can throw off the effects of the spell."
+msgstr "어떤 종류의 마법이 타넥을 마비시켰다. 함정이었다! 타넥이 마법의 영향력을 떨쳐버릴 수 있을 때까지 그를 보호해야 한다."
+
+#: 103224356-0-39279
+msgctxt "103224356-0-39279"
+msgid "The Grand Sermonizer vanished, but she left behind the assassin she tortured to death. I should stand aside and let Tanek investigate the scene."
+msgstr "대 설교사는 사라졌지만, 그녀가 고문하여 죽음에 이르게 한 암살자가 남아 있다. 나는 옆에 서서 타넥이 현장을 조사하도록 해야 한다."
+
+#: 103224356-0-39278
+msgctxt "103224356-0-39278"
+msgid "The Grand Sermonizer is alone in the interrogation hall. Now's our opportunity to complete our mission and assassinate her for speaking out against the Dark Brotherhood."
+msgstr "대 설교사는 고문실에 혼자 있다. 지금이 우리의 임무를 완수하고 다크 브라더후드에 반대하는 뜻을 밝힌 그녀를 암살할 기회이다."
+
+#: 103224356-0-39277
+msgctxt "103224356-0-39277"
+msgid "We entered the estate where the Grand Sermonizer is hiding. I should look around and see if I can determine what's going on here."
+msgstr "우리는 대 설교사가 숨어있는 사유지로 들어갔다. 주변을 둘러보고 여기서 무슨 일이 일어나고 있는지 확인해야 한다."
+
+#: 103224356-0-39276
+msgctxt "103224356-0-39276"
+msgid "Tanek discovered that the Grand Sermonizer has taken refuge in her family's estate outside the walls of Kvatch. I need to travel to her estate and find a way inside."
+msgstr "타넥은 대 설교사가 크바치 성벽 밖에 자신의 가문 사유지에 은신처를 마련했다는 것을 알아냈다. 나는 그녀의 사유지로 가서 안으로 들어가는 길을 찾아야 한다."
+
+#: 103224356-0-39275
+msgctxt "103224356-0-39275"
+msgid "I need to kill Akatosh Sermonizers in the streets of Kvatch, being careful to avoid guards and witnesses. The death of her priests should draw out the Grand Sermonizer so that Tanek can find her hiding spot."
+msgstr "경비병과 목격자를 피하려고 조심하며, 크바치 거리에서 아카토쉬 설교사들을 죽여야 한다. 타넥이 대 설교사가 숨어 있는 장소를 찾아낼 수 있도록 사제들을 죽여 그녀를 밖으로 끌어내야 한다."
+
+#: 103224356-0-39274
+msgctxt "103224356-0-39274"
+msgid "Astara ordered me to go to Kvatch to meet up with Tanek. Then we can determine how to demonstrate the Dark Brotherhood's true power to the Grand Sermonizer and her followers."
+msgstr "아스타라는 내게 크바치로 가서 타넥을 만나라고 명령했다. 그러면 우리는 다크 브라더후드의 진정한 힘을 대 설교사와 그녀의 추종자들에게 보여줄 방법을 찾을 수 있을 것이다."
+
+#: 103224356-0-39273
+#, fuzzy
+msgctxt "103224356-0-39273"
+msgid "Before I head out to meet with Count Carolus, Astara asked me to talk to Mirabelle. She has information that might be of use to me when I meet with the Count."
+msgstr "Carolus 백작님과 만나기 전에, Astara는 나에게 Mirabelle과 이야기하라고했습니다. 그녀는 백작님을 만날 때 저에게 쓸모있는 정보를 가지고 있습니다.-G-"
+
+#: 103224356-0-39272
+#, fuzzy
+msgctxt "103224356-0-39272"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39271
+#, fuzzy
+msgctxt "103224356-0-39271"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39270
+#, fuzzy
+msgctxt "103224356-0-39270"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39269
+#, fuzzy
+msgctxt "103224356-0-39269"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39267
+#, fuzzy
+msgctxt "103224356-0-39267"
+msgid "I must locate my target at Lion Guard Redoubt."
+msgstr "라이온 가드 Redoubt에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39266
+#, fuzzy
+msgctxt "103224356-0-39266"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39265
+#, fuzzy
+msgctxt "103224356-0-39265"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39264
+#, fuzzy
+msgctxt "103224356-0-39264"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39263
+#, fuzzy
+msgctxt "103224356-0-39263"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39261
+#, fuzzy
+msgctxt "103224356-0-39261"
+msgid "I must locate my target at the Daggerfall Market."
+msgstr "Daggerfall Market에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39260
+#, fuzzy
+msgctxt "103224356-0-39260"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39259
+#, fuzzy
+msgctxt "103224356-0-39259"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39258
+#, fuzzy
+msgctxt "103224356-0-39258"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39257
+#, fuzzy
+msgctxt "103224356-0-39257"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39255
+#, fuzzy
+msgctxt "103224356-0-39255"
+msgid "I must locate my target at the Daggerfall Docks."
+msgstr "Daggerfall Docks에서 내 표적을 찾아야합니다.-G-"
+
+#: 103224356-0-39254
+#, fuzzy
+msgctxt "103224356-0-39254"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39253
+#, fuzzy
+msgctxt "103224356-0-39253"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39252
+#, fuzzy
+msgctxt "103224356-0-39252"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39251
+#, fuzzy
+msgctxt "103224356-0-39251"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39249
+#, fuzzy
+msgctxt "103224356-0-39249"
+msgid "I must locate my target within Daggerfall Castle."
+msgstr "Daggerfall Castle 내에서 타겟을 찾아야합니다.-G-"
+
+#: 103224356-0-39248
+#, fuzzy
+msgctxt "103224356-0-39248"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39247
+#, fuzzy
+msgctxt "103224356-0-39247"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39246
+#, fuzzy
+msgctxt "103224356-0-39246"
+msgid "My contract target is dead. I must report my success to the Sanctuary."
+msgstr "내 계약 대상이 죽었어. 내 성공을 성역에보고해야합니다.-G-"
+
+#: 103224356-0-39245
+#, fuzzy
+msgctxt "103224356-0-39245"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39244
+#, fuzzy
+msgctxt "103224356-0-39244"
+msgid "I identified my target. I'll make the kill at the first opportunity."
+msgstr "나는 표적을 확인했다. 나는 첫번째 기회에 살인을 할 것이다.-G-"
+
+#: 103224356-0-39242
+#, fuzzy
+msgctxt "103224356-0-39242"
+msgid "I must locate my target at the Aldcroft refugee camp."
+msgstr "나는 표적을 Aldcroft 난민 캠프에 위치시켜야합니다.-G-"
+
+#: 103224356-0-39235
+msgctxt "103224356-0-39235"
+msgid "I recovered the <<Ac:1>> mentioned in the finder's contract. I should return to <<2>> to receive my payment."
+msgstr "발견자의 계약서에 언급된 <<Ac:1>>을(를) 되찾았다. 보수를 받으려면 <<2>>에게 돌아 가야 한다."
+
+#: 103224356-0-39234
+msgctxt "103224356-0-39234"
+msgid "I was sent to recover <<Ac:1>> from <<2>>."
+msgstr "<<Ac:1>>를 <<2>>에서 회수해야 한다."
+
+#: 103224356-0-39233
+msgctxt "103224356-0-39233"
+msgid "I've recovered the <<Ac:1>> mentioned in the finder's contract. I should return to <<2>> to receive my payment."
+msgstr "발견자의 계약서에 언급된 <<Ac:1>>을(를) 되찾았다. 보수를 받으려면 <<2>>에게 돌아 가야 한다."
+
+#: 103224356-0-39232
+#, fuzzy
+msgctxt "103224356-0-39232"
+msgid "I've been sent to recover an <<Ac:1>> from <<2>>."
+msgstr "<<Ac:1>>을 <<2>>에서 복구하도록 보냈습니다.-G-"
+
+#: 103224356-0-39231
+msgctxt "103224356-0-39231"
+msgid "I've recovered the <<Ac:1>> mentioned in the finder's contract. I should return to <<2>> to receive my payment."
+msgstr "발견자의 계약서에 언급된 <<Ac:1>>을(를) 되찾았다. 보수를 받으려면 <<2>>에게 돌아 가야 한다."
+
+#: 103224356-0-39230
+msgctxt "103224356-0-39230"
+msgid "I've been sent to recover the <<Ac:1>> from <<2>>. No doubt the bandits there have it on their person. Additionally, the captain has requested I free any captured crew I can find, before they are sold as chattel."
+msgstr "나는 <<Ac:1>>을 되찾으러 <<2>>로 가야 한다. 의심의 여지 없이 그곳의 도적들이 그걸 가져갔을 것이다. 추가로, 선장은 붙잡힌 선원을 찾으면 모두 풀어 달라고 요청했다. 도적들이 그들을 팔기 전에 말이다."
+
+#: 103224356-0-39229
+msgctxt "103224356-0-39229"
+msgid "I've recovered the <<Ac:1>> mentioned in the finder's contract. I should return to <<2>> to receive my payment."
+msgstr "발견자의 계약서에 언급된 <<Ac:1>>을(를) 되찾았다. 보수를 받으려면 <<2>>에게 돌아 가야 한다."
+
+#: 103224356-0-39228
+msgctxt "103224356-0-39228"
+msgid "I've been sent to recover a <<Ac:1>> from <<2>>. Additionally, Spencer requested I collect any <<m:3>> I can find."
+msgstr "나는 <<Ac:1>>에서 <<2>>를 회수하도록 보내졌다. 또한 스펜서는 발견하는 모든<<m:3>>를 모아 오라고 했다."
+
+#: 103224356-0-39227
+msgctxt "103224356-0-39227"
+msgid "<<1>> is waiting to lead me back to <<Ac:2>> from here. We should get going while the going is good."
+msgstr "나를 <<Ac:2>>로 다시 데려가기 위해 <<1>>가 기다리고 있다. 얼른 떠나는 게 좋을 것이다."
+
+#: 103224356-0-39226
+msgctxt "103224356-0-39226"
+msgid "<<1>> is waiting to lead me back to <<Ac:2>> from here. We should get going while the going is good."
+msgstr "나를 <<Ac:2>>로 다시 데려가기 위해 <<1>>가 기다리고 있다. 얼른 떠나는 게 좋을 것이다."
+
+#: 103224356-0-39225
+#, fuzzy
+msgctxt "103224356-0-39225"
+msgid "I should speak with <<1>> in <<Ac:2>>."
+msgstr "나는 <<Ac:2>>에서 <<1>>을 말해야한다.-G-"
+
+#: 103224356-0-39219
+#, fuzzy
+msgctxt "103224356-0-39219"
+msgid "Now that I have the requested drinkware, utensils, and dishes, I must deliver the untraceable goods to the client in Evermore."
+msgstr "내가 요청한 음료 도구,기구 및 요리를 갖게되었으므로, 추적 할 수없는 물건을 에버 모어의 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39218
+#, fuzzy
+msgctxt "103224356-0-39218"
+msgid "Now that I have the requested drinkware, utensils, and dishes, I must deliver the untraceable goods to the client in Riften."
+msgstr "내가 요청한 음료 도구,기구 및 요리를 갖기 때문에, 추적 할 수없는 물건을 Riften의 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39217
+#, fuzzy
+msgctxt "103224356-0-39217"
+msgid "Now that I have the requested drinkware, utensils, and dishes, I must deliver the untraceable goods to the client in Rawl'kha."
+msgstr "내가 요청한 음료 도구,기구 및 요리를 갖기 때문에, 추적 할 수없는 물건을 롤랑카의 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39216
+#, fuzzy
+msgctxt "103224356-0-39216"
+msgid "Now that I have the requested cosmetics, linens, and garment accessories, I must deliver the untraceable goods to my client in Sentinel."
+msgstr "이제는 요청한 화장품, 리넨 및 의류 액세서리를 갖기 때문에 추적 할 수없는 물품을 센티넬의 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39215
+#, fuzzy
+msgctxt "103224356-0-39215"
+msgid "Now that I have the requested cosmetics, linens, and garment accessories, I must deliver the untraceable goods to my client in Windhelm."
+msgstr "이제 내가 요청한 화장품, 린넨 및 의상 액세서리를 갖게되었으므로 나는 윈드 헬름의 내 고객에게 추적 할 수없는 물건을 전달해야합니다.-G-"
+
+#: 103224356-0-39214
+#, fuzzy
+msgctxt "103224356-0-39214"
+msgid "Now that I have the requested cosmetics, linens, and garment accessories, I must deliver the untraceable goods to my client in Baandari Trading Post."
+msgstr "요청한 화장품, 리넨 및 의류 액세서리를 갖게되었으므로 추적 할 수없는 물건을 반얀 트리 트레이딩 포스트의 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39213
+#, fuzzy
+msgctxt "103224356-0-39213"
+msgid "Now that I have the requested writings and maps, I must deliver the untraceable goods to my client in Shornhelm"
+msgstr "요청한 저술과지도가 생겼으므로 추적 할 수없는 물건을 Shornhelm의 내 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39212
+#, fuzzy
+msgctxt "103224356-0-39212"
+msgid "Now that I have the requested writings and maps, I must deliver the untraceable goods to my client in Stormhold."
+msgstr "요청한 저술과지도가 생겼으므로 추적 할 수없는 물건을 Stormhold의 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39211
+#, fuzzy
+msgctxt "103224356-0-39211"
+msgid "Now that I have the requested writings and maps, I must deliver the untraceable goods to my client in Marbruk."
+msgstr "요청 된 저술과지도가 생겼으므로 추적 할 수없는 물건을 Marbruk의 내 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39210
+#, fuzzy
+msgctxt "103224356-0-39210"
+msgid "Now that I have the requested ritual objects and oddities, I must deliver the untraceable goods to my client in Wayrest."
+msgstr "이제 나는 요구 된 의식 물건과 이상한 점이 있기 때문에 추적 할 수없는 물건을 Wayrest의 내 의뢰인에게 전달해야합니다.-G-"
+
+#: 103224356-0-39209
+#, fuzzy
+msgctxt "103224356-0-39209"
+msgid "Now that I have the requested ritual objects and oddities, I must deliver the untraceable goods to my client in Mournhold."
+msgstr "이제 나는 의식 된 물건과 이상한 것들을 얻었으므로 추적 할 수없는 물건을 Mournhold의 내 의뢰인에게 전달해야합니다.-G-"
+
+#: 103224356-0-39208
+#, fuzzy
+msgctxt "103224356-0-39208"
+msgid "Now that I have the requested ritual objects and oddities, I must deliver the untraceable goods to my client in Elden Root."
+msgstr "요청한 의식 물건과 이상한 점이 있기 때문에 추적 할 수없는 물건을 Elden Root의 내 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39207
+#, fuzzy
+msgctxt "103224356-0-39207"
+msgid "Now that I have the requested games, dolls, and statues, I must deliver the untraceable goods to my client in Daggerfall."
+msgstr "요청한 게임, 인형 및 동상이 생겼으므로 추적 할 수없는 물건을 Daggerfall에서 내 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39206
+#, fuzzy
+msgctxt "103224356-0-39206"
+msgid "Now that I have the requested games, dolls, and statues, I must deliver the untraceable goods to my client in Davon's Watch."
+msgstr "요청한 게임, 인형 및 동상이 생겼으므로 Davon 's Watch에서 추적 할 수없는 물건을 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39205
+msgctxt "103224356-0-39205"
+msgid "The contract requests that I steal drinkware, utensils, and dishes, launder those items to remove all traces of the original owners, and deliver them to the client, but any clean goods should do."
+msgstr "계약서에 따르면 나는 마실 것과 식기류, 그리고 접시를 훔쳐 그것들을 세탁해 원래 소유자의 모든 흔적을 지우고 고객에게 배달해야 한다. 하지만 어떤 깨끗한 물건이든 좋을 것이다."
+
+#: 103224356-0-39204
+msgctxt "103224356-0-39204"
+msgid "The contract requests that I steal cosmetic items, linens, and garment accessories, launder those items to remove all traces of the original owners, and deliver them to the client, but any clean goods should do."
+msgstr "계약서에 따르면 나는 화장품, 리넨, 그리고 의복 장신구를 훔쳐 그것들을 세탁해 원래 소유자의 모든 흔적을 지우고 고객에게 배달해야 한다. 하지만 어떤 깨끗한 물건이든 좋을 것이다."
+
+#: 103224356-0-39203
+msgctxt "103224356-0-39203"
+msgid "The contract requests that I steal writings and maps, launder those items to remove all traces of the original owners, and deliver them to the client, but any clean goods should do."
+msgstr "계약서에 따르면 나는 저서와 지도를 훔쳐 그것들을 세탁해 원래 소유자의 모든 흔적을 지우고 고객에게 배달해야 한다. 하지만 어떤 깨끗한 물건이든 좋을 것이다."
+
+#: 103224356-0-39202
+msgctxt "103224356-0-39202"
+msgid "The contract requests that I steal ritual objects and other oddities, launder those items to remove all traces of the original owners, and deliver them to the client, but any clean goods should do."
+msgstr "계약서에 따르면 나는 의식 도구와 다른 특이한 것들을 훔쳐 그것들을 세탁해 원래 소유자의 모든 흔적을 지우고 고객에게 배달해야 한다. 하지만 어떤 깨끗한 물건이든 좋을 것이다."
+
+#: 103224356-0-39196
+#, fuzzy
+msgctxt "103224356-0-39196"
+msgid "I completed the odd requests from that eccentric collector. Hopefully it was worth the bother. I should return to the Den for my cut of the payout."
+msgstr "저 편심 수집가로부터의 이상한 요청을 완료했습니다. 바라건대 그것은 귀찮은 가치가있었습니다. 나는 지불금 삭감을 위해 덴으로 돌아 가야한다.-G-"
+
+#: 103224356-0-39195
+#, fuzzy
+msgctxt "103224356-0-39195"
+msgid "Now that I have the requested games, dolls, and statues, I must deliver the untraceable goods to my client in Vulkhel Guard."
+msgstr "요청한 게임, 인형 및 동상이 생겼으므로 Vulkhel Guard에서 추적 할 수없는 물건을 내 고객에게 전달해야합니다.-G-"
+
+#: 103224356-0-39194
+msgctxt "103224356-0-39194"
+msgid "The contract requests that I steal games, dolls, and statues, launder those items to remove all traces of the original owners, and deliver them to the client, but any clean goods should do."
+msgstr "계약서에 따르면 나는 게임, 인형, 조각상을 훔쳐 그것들을 세탁해 원래 소유자의 모든 흔적을 지우고 고객에게 배달해야 한다. 하지만 어떤 깨끗한 물건이든 좋을 것이다."
+
+#: 103224356-0-39193
+msgctxt "103224356-0-39193"
+msgid "Faradan's letter says that bounty hunters in Windhelm captured Narahni's son, Tashmin. A young Breton woman was seen with Tashmin just before he was captured. I should travel to Eastmarchand see if I can pick up their trial."
+msgstr "파라단의 편지에 따르면 윈드헬름의 현상금 사냥꾼들이 나라니의 아들인 타시민을 붙잡았다고 한다. 타시민이 붙잡히기 직전 한 젊은 브레튼 여성이 함께 목격되었다고 한다. 이스트마치로 가서 이 문제를 해결할 수 있을지 알아봐야 한다."
+
+#: 103224356-0-39192
+msgctxt "103224356-0-39192"
+msgid "Faradan's letter says that bounty hunters in Wayrest captured Narahni's son, Tashmin. A young Breton woman was seen with Tashmin just before he was captured. I should travel to Stormhaven and see if I can pick up their trial."
+msgstr "파라단의 편지에 따르면 웨이레스트의 현상금 사냥꾼들이 나라니의 아들인 타시민을 붙잡았다고 한다. 타시민이 붙잡히기 직전 한 젊은 브레튼 여성이 함께 목격되었다고 한다. 스톰헤이븐으로 가서 이 문제를 해결할 수 있을지 알아봐야 한다."
+
+#: 103224356-0-39191
+msgctxt "103224356-0-39191"
+msgid "Faradan's letter says that bounty hunters in Skywatch captured Narahni's son, Tashmin. A young Breton woman was seen with Tashmin just before he was captured. I should travel to Auridon and see if I can pick up their trial."
+msgstr "파라단의 편지에 따르면 스카이워치의 현상금 사냥꾼들이 나라니의 아들인 타시민을 붙잡았다고 한다. 타시민이 붙잡히기 직전 한 젊은 브레튼 여성이 함께 목격되었다고 한다. 아우리돈으로 가서 이 문제를 해결할 수 있을지 알아봐야 한다."
+
+#: 103224356-0-39182
+msgctxt "103224356-0-39182"
+msgid "Fa'ren-dar explained what his role is as heist master and invited me to try my hand at a job. I'm to meet him at the tip board back the Thieve's Den."
+msgstr "파'렌-다르는 도둑질의 달인으로서 자신의 역할이 무엇인지 설명했고 일을 한번 해보라고 나를 초대했다. 도둑 소굴 뒤에 있는 팁 게시판에서 그를 만나야 한다."
+
+#: 103224356-0-39181
+msgctxt "103224356-0-39181"
+msgid "I'm supposed to meet Fa'ren-dar in Abah's Landing and make my introduction."
+msgstr "아바스 랜딩에서 파'렌-다르와 만나 나를 소개해야 한다."
+
+#: 103224356-0-39171
+msgctxt "103224356-0-39171"
+msgid "I need to get to the site without drawing attention to myself. I should speak with <<1>>."
+msgstr "나는 주의를 끌지 않고 목표물의 위치에 도착해야 한다. <<1>>와 대화해야 한다."
+
+#: 103224356-0-39168
+msgctxt "103224356-0-39168"
+msgid "I need to get to the site without drawing attention to myself. I should speak with <<1>>."
+msgstr "나는 주의를 끌지 않고 목표물의 위치에 도착해야 한다. <<1>>와 대화해야 한다."
+
+#: 103224356-0-39167
+msgctxt "103224356-0-39167"
+msgid "<<1>> is waiting to lead me back to <<Ac:2>> from here. We should get going while the going is good."
+msgstr "나를 <<Ac:2>>로 다시 데려가기 위해 <<1>>가 기다리고 있다. 얼른 떠나는 게 좋을 것이다."
+
+#: 103224356-0-39166
+msgctxt "103224356-0-39166"
+msgid "I need to get to the target hideout without drawing attention to myself. <<1>> will be able to help with that."
+msgstr "나는 주의를 끌지 않고 목표물이 있는 은닉처에 도착해야 한다. <<1>>가 도와 줄 수 있을 것이다."
+
+#: 103224356-0-39161
+msgctxt "103224356-0-39161"
+msgid "I should talk to Tashmin and see if he's ready to be reunited with his mother."
+msgstr "타시민과 대화하여 어머니와 재회할 준비가 되었는지 확인해야 한다."
+
+#: 103224356-0-39155
+msgctxt "103224356-0-39155"
+msgid "I acquired the ledger page detailing Erendette's debt to her skooma dealer. I should bring it to her."
+msgstr "스쿠마 중개인에게서 에렌디트의 빚에 대해 상세히 기술한 장부 페이지를 얻었다. 그녀에게 이것을 가져다 줘야 한다."
+
+#: 103224356-0-39154
+msgctxt "103224356-0-39154"
+msgid "I need to rip the page detailing Erendette's debt out of the ledger her skooma dealer keeps in a locked chest. Then she'll tell me what she knows about Tashmin."
+msgstr "에렌디트의 스쿠마 중개인이 잠긴 상자에 보관하고 있는 장부에서 그녀의 빚에 대해 상세하게 기술한 페이지를 찢어와야 한다. 그러면 그녀는 타시민에 대해 알고 있는 것을 말해 줄 것이다."
+
+#: 103224356-0-39153
+msgctxt "103224356-0-39153"
+msgid "Before we leave, I should get some answers from <<1>> about Abah's Landing."
+msgstr "떠나기 전에 <<1>>에게서 아바스 랜딩에 대한 대답을 들어야 한다."
+
+#: 103224356-0-39151
+msgctxt "103224356-0-39151"
+msgid "<<1>> may have insight into what's happening. I should speak with him before we enter the catacombs."
+msgstr "<<1>>는 무슨 일이 일어나고 있는지 알고 있을 지도 모른다. 카타콤에 들어가기 전에 그와 대화해야 한다."
+
+#: 103224356-0-39150
+msgctxt "103224356-0-39150"
+msgid "I have the treasures, but I was seen stealing them. <<1>> is waiting to lead me back to <<Ac:2>> from here."
+msgstr "나는 보물을 훔쳤지만, 훔치는 것을 들키고 말았다. 나를 <<Ac:2>>로 다시 데려가기 위해 <<1>>가 기다리고 있다. "
+
+#: 103224356-0-39149
+msgctxt "103224356-0-39149"
+msgid "<<1>> is waiting to lead me back to <<Ac:2>> from here. We should get going while the going is good."
+msgstr "나를 <<Ac:2>>로 다시 데려가기 위해 <<1>>가 기다리고 있다. 얼른 떠나는 게 좋을 것이다."
+
+#: 103224356-0-39144
+msgctxt "103224356-0-39144"
+msgid "I need to get to the target location without drawing attention to myself. I should speak with <<1>>."
+msgstr "나는 주의를 끌지 않고 목표물의 위치에 도착해야 한다. <<1>>와 대화해야 한다."
+
+#: 103224356-0-39143
+msgctxt "103224356-0-39143"
+msgid "While Narahni and her son reacquaint themselves, I should talk to Velsa."
+msgstr "나라니와 그녀의 아들이 재회하는 동안, 나는 벨사와 대화해야 한다."
+
+#: 103224356-0-39142
+msgctxt "103224356-0-39142"
+msgid "While Narahni and her son reacquaint themselves, I should talk to Velsa and make sure this arrangement works for her."
+msgstr "나라니와 그녀의 아들이 재회하는 동안, 나는 벨사와 대화해 이 주선이 적절했는지 확인해야 한다."
+
+#: 103224356-0-39141
+msgctxt "103224356-0-39141"
+msgid "Tashmin is ready to be reunited with his mother. I should take him to see her now."
+msgstr "타시민은 그의 어머니와 재회할 준비가 되었다. 이제 나라니에게 타시민을 데려가야 한다."
+
+#: 103224356-0-39140
+msgctxt "103224356-0-39140"
+msgid "Now that Tashmin is free, I should return to the Thieves Den in Abah's Landing and let Narahni know that he's all right."
+msgstr "이제 타시민은 자유이다. 그러니 아바스 랜딩의 도둑 소굴로 돌아가 나라니에게 타시민이 괜찮다고 알려야 한다."
+
+#: 103224356-0-39139
+msgctxt "103224356-0-39139"
+msgid "Tashmin ran off. I should meet him at the location he mentioned before he left me at the docks."
+msgstr "타시민이 도망갔다. 타시민이 나를 부두에 내버려 두기 전에 그가 언급했던 장소에서 그를 만나야 한다."
+
+#: 103224356-0-39138
+msgctxt "103224356-0-39138"
+msgid "I recovered the arrest writ from the bounty hunter. Now I should untie Tashmin and set him free."
+msgstr "현상금 사냥꾼에게서 구속 영장을 회수했다. 타시민을 풀어주고 자유롭게 해줘야 한다."
+
+#: 103224356-0-39137
+msgctxt "103224356-0-39137"
+msgid "I need to get the arrest writ with Tashmin's name on it from the Dark Elf bounty hunter. I'll need to sneak up on him and pick his pocket before his partner returns."
+msgstr "다크 엘프 현상금 사냥꾼에게서 타시민의 이름이 올라 있는 구속 영장을 가져와야 한다. 사냥꾼의 파트너가 돌아오기 전에 몰래 접근해서 주머니를 털어야 한다."
+
+#: 103224356-0-39136
+msgctxt "103224356-0-39136"
+msgid "According to Tashmin's friend, the two Dark Elves that captured him have tied him up and left him near the docks while they search for other unfortunates they can turn into slaves. I should search near the docks and see if I can find Tash."
+msgstr "타시민의 친구의 말에 따르면, 그를 붙잡은 다크 엘프 2명은 항구에 그를 묶어놓고 노예로 만들 다른 불운한 이들을 찾고 있다고 했다. 부두 근처를 수색해서 타시를 찾을 수 있는지 알아봐야 한다."
+
+#: 103224356-0-39135
+msgctxt "103224356-0-39135"
+msgid "Faradan's letter mentioned that a young Breton woman was seen with Tashmin just before he was captured. I should try to find her."
+msgstr "파라단의 편지에 따르면 한 젊은 브레튼 여성이 타시민이 붙잡히기 직전에 함께 목격되었다고 한다. 그 브레튼 여성을 찾아야 한다."
+
+#: 103224356-0-39134
+msgctxt "103224356-0-39134"
+msgid "I should examine the letter Narahni received from Faradan. It might shed more light on her son Tashmin's predicament."
+msgstr "파라단이 나라니에게 보낸 편지를 조사해야 한다. 나라니의 아들 타시민의 곤경을 해결할 정보가 있을 지도 모른다."
+
+#: 103224356-0-39133
+msgctxt "103224356-0-39133"
+msgid "I should go and talk to Narahni and see what she needs."
+msgstr "나라니에게 가서 무엇이 필요한지 대화해야 한다."
+
+#: 103224356-0-39124
+msgctxt "103224356-0-39124"
+msgid "I convinced Walks-Softly to rescue Anais from the pirates and escort her safely back to her estate. I should go back to the Thieves Den and meet up with Walks-Softly so that we can put this despicable business behind us."
+msgstr "나는 웍스-소프틀리가 해적에게서 아나이스를 구하고 안전하게 집까지 호위하도록 설득했다. 우리가 이 비열한 사업을 잊을 수 있도록 도둑 소굴로 돌아가 웍스-소프틀리를 만나야 한다."
+
+#: 103224356-0-39123
+msgctxt "103224356-0-39123"
+msgid "Walks-Softly located Anais in the pirate hide-out in Shark's Teeth Grotto. I should find out how he wants to proceed."
+msgstr "웍스-소프틀리는 상어 이빨 동굴에 있는 해적 은신처에서 아나이스를 찾았다. 그가 어떻게 하고 싶어 하는지 알아내야 한다."
+
+#: 103224356-0-39122
+msgctxt "103224356-0-39122"
+msgid "I arrived to find Walks-Softly talking with Anais Velmont. I should listen to their exchange."
+msgstr "웍스-소프틀리가 아나이스 벨몬트와 대화하고 있다. 그들의 대화에 귀 기울여야 한다."
+
+#: 103224356-0-39101
+msgctxt "103224356-0-39101"
+msgid "I secured the gems, but left traces of my activity along the way. <<1>> is waiting to lead me back to <<Ac:2>> from here. We should get going while the going is still good."
+msgstr "나는 보석을 확보했지만, 길에 내 작업의 흔적을 남겼다. <<1>>이 나를 여기서 <<Ac:2>>로 다시 데려가기 위해 기다리고 있다. 얼른 떠나는 게 좋을 것이다."
+
+#: 103224356-0-39100
+msgctxt "103224356-0-39100"
+msgid "I acquired the gems without disturbing the traps strewn about the hideout. <<1>> is waiting to lead me back to <<Ac:2>> from here."
+msgstr "은신처에 깔린 함정에 걸리지 않고 보석을 얻었다. 나를 <<Ac:2>>로 다시 데려가기 위해 <<1>>가 기다리고 있다."
+
+#: 103224356-0-39092
+msgctxt "103224356-0-39092"
+msgid "Walks-Softly left me another message. This one indicates that pirates have taken Anais Velmont captive and spirited her to Shark's Teeth Grotto. I should head to the grotto and help Walks-Softly rescue his old friend."
+msgstr "웍스-소프틀리는 또 다른 쪽지를 남겼다. 이 쪽지에 따르면 해적이 아나이스 벨몬트를 납치해 상어 이빨 동굴에 감금했다고 한다. 동굴로 향해 웍스-소프틀리가 옛 친구를 구할 수 있게 도와야 한다."
+
+#: 103224356-0-39091
+msgctxt "103224356-0-39091"
+msgid "Walks-Softly requested that I meet him back in the Thieves Den after I delivered the forged letters to the Velmont Mansion."
+msgstr "웍스-소프틀리는 위조 편지를 벨몬트 저택에 전달한 뒤 도둑 소굴에서 다시 만나자고 부탁했다."
+
+#: 103224356-0-39090
+msgctxt "103224356-0-39090"
+msgid "Walks-Softly wants to keep Anais's family from looking for her while he teaches her a lesson. He asked me to plant these letters he forged in the Velmont Mansion to explain her absence."
+msgstr "웍스-소프틀리는 아나이스에게 교훈을 가르쳐 주는 동안 벨몬트 가문이 그녀를 찾지 않길 바란다. 그는 내게 자신이 위조한 이 편지들을 벨몬트 저택에 두고 오길 바란다. 그녀의 부재를 설명할 수 있도록 말이다."
+
+#: 103224356-0-39087
+msgctxt "103224356-0-39087"
+msgid "It appears that Walks-Softly has kidnapped Anais and asked for a ransom to be paid. I'm not sure how this teaches her the lesson that Walks-Softly keeps talking about. I should speak to him and find out what he's actually thinking."
+msgstr "웍스-소프틀리는 아나이스를 납치했고 몸값을 지불하라고 한 것 같다. 이게 어떻게 웍스-소프틀리가 말하는 교훈을 그녀에게 가르쳐줄 수 있다는 건지 확신이 안 된다. 그와 대화해 정말로 무슨 생각을 하고 있는지 알아내야 한다."
+
+#: 103224356-0-39086
+msgctxt "103224356-0-39086"
+msgid "I should watch Walks-Softly as he interacts with Anais Velmont so I can see what he's planning to do."
+msgstr "웍스-소프틀리가 뭘 할 계획인지 알아낼 수 있게 아나이스 벨몬트와 대화하는 것을 지켜봐야 한다."
+
+#: 103224356-0-39085
+msgctxt "103224356-0-39085"
+msgid "I need to meet Walks-Softly in a warehouse near the docks to find out about the solution he's come up with for dealing with his old friend, Anais Velmont."
+msgstr "부두 근처 창고에서 웍스-소프틀리를 만나 옛 친구 아나이스 벨몬트를 다루려고 생각해 낸 해결책이 무엇인지 알아내야 한다."
+
+#: 103224356-0-39084
+msgctxt "103224356-0-39084"
+msgid "I need to get to the site without drawing attention to myself. I should speak with <<1>>."
+msgstr "나는 주의를 끌지 않고 목표물의 위치에 도착해야 한다. <<1>>와 대화해야 한다."
+
+#: 103224356-0-39079
+msgctxt "103224356-0-39079"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39077
+msgctxt "103224356-0-39077"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39076
+#, fuzzy
+msgctxt "103224356-0-39076"
+msgid "I have the treasure the buyers are interested in. Now I need to get the haul safely to Fa'ren-dar."
+msgstr "구매자가 관심을 갖고있는 보물이 있습니다. 이제는 Fa'ren-dar로 안전하게 운반해야합니다.-G-"
+
+#: 103224356-0-39071
+msgctxt "103224356-0-39071"
+msgid "The treasures I'm looking for should be in secure chests somewhere within this hideout. I need to break in once they're located."
+msgstr "내가 찾는 보물들은 이 은신처 어딘가의 보안 상자에 있을 것이다. 상자를 찾으면 침입해야 한다. "
+
+#: 103224356-0-39069
+msgctxt "103224356-0-39069"
+msgid "The valuables are secured in the hideout beyond this entry. They are sure to be guarded. I need to maintain a low profile."
+msgstr "귀중품은 입구 너머 은신처에 안전하게 보관되어 있다. 물론 누군가 그것들을 지키고 있다. 나는 저자세를 유지해야 한다."
+
+#: 103224356-0-39068
+#, fuzzy
+msgctxt "103224356-0-39068"
+msgid "I could speak with <<1>> about our next step."
+msgstr "나는 우리의 다음 단계에 대해 <<1>>로 말할 수 있었다.-G-"
+
+#: 103224356-0-39057
+#, fuzzy
+msgctxt "103224356-0-39057"
+msgid "I have the gems! I just need to get them safely to <<1>>."
+msgstr "나는 보석을 가지고있다! 나는 그 (것)들을 <<1>>에 안전하게 보내야합니다.-G-"
+
+#: 103224356-0-39052
+msgctxt "103224356-0-39052"
+msgid "I need to locate the rare gems being held at this hideout. The area is heavily trapped, so I must be on my guard."
+msgstr "이 은거지에서 보관된 희귀한 보석을 찾아야 한다. 이 지역에는 함정이 많기 때문에 조심해야 한다."
+
+#: 103224356-0-39050
+msgctxt "103224356-0-39050"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39049
+msgctxt "103224356-0-39049"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39032
+msgctxt "103224356-0-39032"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39026
+msgctxt "103224356-0-39026"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>> ."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39024
+#, fuzzy
+msgctxt "103224356-0-39024"
+msgid "I have the treasure! I just need to get it to <<1>> before he meets the buyers."
+msgstr "나는 보물이있다! 구매자를 만나기 전에 <<1>>로 가져 가면됩니다.-G-"
+
+#: 103224356-0-39023
+msgctxt "103224356-0-39023"
+msgid "The treasures I'm looking for should be in a secure chest somewhere within this hideout. I need to break in once they're located."
+msgstr "내가 찾는 보물들은 이 은신처 어딘가의 보안 궤짝에 있을 것이다. 궤짝을 찾으면 침입해야 한다. "
+
+#: 103224356-0-39022
+msgctxt "103224356-0-39022"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39021
+msgctxt "103224356-0-39021"
+msgid "The valuables are secured in the hideout beyond this entry. They are sure to be guarded. I need to maintain a low profile."
+msgstr "귀중품은 입구 너머 은신처에 안전하게 보관되어 있다. 물론 누군가 그것들을 지키고 있다. 나는 저자세를 유지해야 한다."
+
+#: 103224356-0-39018
+#, fuzzy
+msgctxt "103224356-0-39018"
+msgid "I have the loot. Now I need to get the haul to Fa'ren-dar."
+msgstr "나는 전리품을 가지고있다. 이제 Fa'ren-dar로 가야합니다.-G-"
+
+#: 103224356-0-39015
+#, fuzzy
+msgctxt "103224356-0-39015"
+msgid "I need to find valuables being stashed in the Hideaway, but it'd be best if I don't attract any undue attention and let the owners know the guild is on to them."
+msgstr "나는 은신처에 은닉되어있는 귀중품을 찾아야하지만, 내가 과도한주의를 끌지 않으면 소유자가 길드가 그들에게 있다는 것을 알려주지 않는 것이 최선일 것입니다.-G-"
+
+#: 103224356-0-39011
+msgctxt "103224356-0-39011"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-39004
+msgctxt "103224356-0-39004"
+msgid "I should talk to Narahni before taking her to see Velsa."
+msgstr "벨사에게 나라니를 데려가기 전에 그녀와 대화해야 한다."
+
+#: 103224356-0-38989
+msgctxt "103224356-0-38989"
+msgid "I convinced Walks-Softly to leave Anais with the pirates to teach her a lesson. I should go back to the Thieves Den and meet up with Walks-Softly so that we can put this despicable business behind us."
+msgstr "나는 아나이스가 교훈을 얻을 수 있도록 그녀를 해적에게 두고 가자고 웍스-소프틀리를 설득했다. 우리가 이 비열한 사업을 잊을 수 있도록 도둑 소굴로 돌아가 웍스-소프틀리를 만나야 한다."
+
+#: 103224356-0-38984
+msgctxt "103224356-0-38984"
+msgid "Naryu confirmed that no one spotted her leaving the castle. Her secret is safe, thanks to my help. I should find out what she plans to do next."
+msgstr "나류는 아무에게도 발견되지 않은채 성을 탈출한 것을 확인했다. 내 도움 덕분에 그녀의 비밀은 안전하다. 그녀가 다음에 무엇을 할 계획인지 알아야 한다."
+
+#: 103224356-0-38983
+msgctxt "103224356-0-38983"
+msgid "I made sure I was seen leaving Castle Kvatch so that I'm sure to be blamed for the assassination of the Dark Elf noble. I should meet Naryu at the inn and wrap up our business arrangement."
+msgstr "내가 크바치 성을 탈출하는 것을 다른 사람이 보았기 때문에 다크 엘프 귀족의 암살에 대한 비난의 대상이 될 것으로 확신했다. 여관에서 나류와 합류하여 공동작전에 대해 마루리를 지어야 한다."
+
+#: 103224356-0-38982
+msgctxt "103224356-0-38982"
+msgid "Naryu allowed Dathus to call for the Castle Kvatch sentinels before she killed him. To fulfill my part of the bargain, I need to leave by the main entrance and make sure someone spots me so I can take credit for assassinating Dathus."
+msgstr "나류는 다쑤스를 죽이기 전에 그가 크바치 보초병을 부르는 것을 허락했다. 흥정에 대한 내 몫을 다하기 위해서 정문으로 나가서 누군가가 나를 발견하게 해야 한다. 그래야 다투스를 암살한 공로를 인정받을 수 있다."
+
+#: 103224356-0-38981
+msgctxt "103224356-0-38981"
+msgid "Naryu has arrived to dispatch Dathus Ildrim. I should stand back and let her complete her contract without interference."
+msgstr "다쑤스 이드림을 처치하기 위해 나류가 도착했다. 그녀의 임무 완수를 방해하지 않도록 해야 한다."
+
+#: 103224356-0-38980
+msgctxt "103224356-0-38980"
+msgid "Dathus is fast asleep. I need to open the secret passage so Naryu can enter his room and dispatch him."
+msgstr "다쑤스는 잠들어 있다. 나류가 그의 방에 들어가서 그를 처치할 수 있도록 비밀 통로를 열어야한다."
+
+#: 103224356-0-38979
+msgctxt "103224356-0-38979"
+msgid "I need to reach the room where Dathus Ildrim is hiding and open a secret passage. This will allow Naryu to covertly enter the castle, dispatch her target, and leave without being spotted."
+msgstr "다쑤스 이드림이 숨어 있는 비밀 통로를 열어야 한다. 이것은 나류가 은밀하게 성으로 들어가고, 표적을 처리하고, 발견되지 않게 떠나도록 하는 것이다."
+
+#: 103224356-0-38978
+msgctxt "103224356-0-38978"
+msgid "I agreed to help Naryu complete her contract and then take credit for the crime. I should ask her to tell me more about her target and find out if she has a plan for sneaking into Castle Kvatch."
+msgstr "나류가 임무를 수행할 수 있도록 힘을 보태는데 동의했다. 나는 그녀에게 표적에 대한 상세한 정보를 물어보고 크바치 성에에 침투할 방법도 물어보아야 한다."
+
+#: 103224356-0-38964
+#, fuzzy
+msgctxt "103224356-0-38964"
+msgid "I need to meet Count Carolus south of Kvatch, in the ruins of Dasek Moor so that he can fulfill his obligation and tell us about the Black Dragon."
+msgstr "나는 Dasek Moor의 유적지에있는 Kvatch 남쪽의 Carolus Count를 만날 필요가있다. 그래서 그는 그의 의무를 이행하고 우리에게 Black Dragon에 관해 이야기 할 수있다.-G-"
+
+#: 103224356-0-38961
+msgctxt "103224356-0-38961"
+msgid "The Warden's Office in No Shira Prison has <<1>>'s transfer orders which should reveal her location."
+msgstr "노 쉬라 감옥의 관리자 사무실에 <<1>>의 호송 명령서가 있을 것이다. 명령서에 그녀의 위치가 적혀 있을 것이다."
+
+#: 103224356-0-38960
+msgctxt "103224356-0-38960"
+msgid "<<1>> went to <<2>>'s shop. I should speak with her there."
+msgstr "<<1>>는 <<2>>의 가게에 갔다. 거기서 그녀와 대화해야 한다."
+
+#: 103224356-0-38950
+#, fuzzy
+msgctxt "103224356-0-38950"
+msgid "I entered the Enclave of the Hourglass and walked in on a meeting between one of the Red Sails captains and an officer of the Order of the Hour. I should put an end their negotiations."
+msgstr "나는 모래 시계의 영토에 들어가서 붉은 돛 선장 중 한 명과 시간의 명령 장교와의 만남에 들어갔다. 나는 협상을 끝내야한다.-G-"
+
+#: 103224356-0-38949
+#, fuzzy
+msgctxt "103224356-0-38949"
+msgid "I disrupted the initiation. Now I should look around and try to find the Black Dragon or any information that will give the Brotherhood an advantage against the Order's First Sword."
+msgstr "나는 시작을 방해했다. 이제 주변을 둘러보고 Black Dragon 또는 Brotherhood에게 Order 's First Sword에 대한 이점을 제공 할 정보를 찾아보아야합니다.-G-"
+
+#: 103224356-0-38948
+#, fuzzy
+msgctxt "103224356-0-38948"
+msgid "I should tell Astara what transpired at the Enclave of the Hourglass."
+msgstr "나는 아스타 라에게 모래 시계의 영토에서 일어난 일을 말해야한다.-G-"
+
+#: 103224356-0-38947
+#, fuzzy
+msgctxt "103224356-0-38947"
+msgid "I should read the Black Dragon's journal and take it back to the Sanctuary to find additional information about the mysterious warrior."
+msgstr "블랙 드래곤의 일지를 읽고 신비한 전사에 대한 추가 정보를 찾으려면 성역으로 가져 가야합니다.-G-"
+
+#: 103224356-0-38946
+#, fuzzy
+msgctxt "103224356-0-38946"
+msgid "Apparently, a group of Red Sails pirates is about to be initiated into the Order of the Hour. If I can stop the initiation, I can keep the Order from growing and gaining more recruits."
+msgstr "분명히, 레드 돛 해적단이 곧 시간의 명령으로 시작될 것입니다. 내가 입문을 중단 할 수 있다면 나는 교단의 성장과 신병 모금을 계속 유지할 수있다.-G-"
+
+#: 103224356-0-38943
+#, fuzzy
+msgctxt "103224356-0-38943"
+msgid "Velsa and Narahni have found each other again, and in spite of the years they lost, they both appear to be happy. I should talk to Velsa and see if she needs anything else from me."
+msgstr "벨사 (Velsa)와 나라 니 (Narahni)는 서로를 다시 찾았고 잃어버린 몇 년 동안 행복해 보였습니다. 나는 Velsa와 이야기해야하고, 그녀가 나에게서 다른 것을 필요로하는지 알아야한다.-G-"
+
+#: 103224356-0-38942
+msgctxt "103224356-0-38942"
+msgid "Velsa and Narahni seem to have worked out their past differences. I should speak to Velsa and see if she needs anything else from me."
+msgstr "벨사와 나라니는 과거의 불화를 잘 해결한 것 같다. 벨사와 대화해 더 필요한 일이 있는지 알아봐야 한다."
+
+#: 103224356-0-38941
+msgctxt "103224356-0-38941"
+msgid "Now that Narahni is ready, I should lead her through the warehouse and secret passage to Velsa's secluded garden so the old friends can be reunited."
+msgstr "이제 나라니가 준비되었으니 옛 친구와 재회할 수 있도록 그녀를 벨사의 한적한 정원으로 통하는 창고와 비밀 통로로 이끌어야 한다."
+
+#: 103224356-0-38940
+msgctxt "103224356-0-38940"
+msgid "Narahni did send the letter to Velsa. I convinced her to come to Abah's Landing to see Velsa in person. I should meet her there."
+msgstr "벨사에게 편지를 보낸 사람은 나라니였다. 나는 직접 벨사를 만나러 아바스 랜딩으로 가라고 나라니를 설득했다. 아바스 랜딩에서 나라니를 만나야 한다."
+
+#: 103224356-0-38939
+msgctxt "103224356-0-38939"
+msgid "I entered the servants' quarters. Now I should talk to Narahni and ask her if she sent the letter to Velsa."
+msgstr "나는 하인 숙소에 들어 왔다. 이제 나라니와 대화해 왜 벨사에게 편지를 보냈는지 물어봐야 한다."
+
+#: 103224356-0-38938
+msgctxt "103224356-0-38938"
+msgid "I should ask at the inn and see if anyone knows anything about this mysterious Khajiit."
+msgstr "이 알 수 없는 카짓에 대해 아는 사람이 있는지 여관에서 물어봐야 한다."
+
+#: 103224356-0-38937
+msgctxt "103224356-0-38937"
+msgid "The half-naked Nord said that he met the Khajiit woman who paid him to deliver the letter to Velsa in Riften. I should travel to the Rift and see if I can find this mysterious Khajiit."
+msgstr "반나체의 노드는 리프튼에서 한 카짓 여인을 만났다고 했다. 그 여인이 돈을 주며 벨사에게 편지를 전해 달라고 했다고 한다. 나는 리프트로 가서 이 알 수 없는 카짓을 찾아야 한다."
+
+#: 103224356-0-38936
+msgctxt "103224356-0-38936"
+msgid "Velsa doesn't remember anything suspicious except for the half-naked Nord who bumped into her. She thinks I can find him in the merchant camp outside the city. I should ask him if he knows anything about the letter."
+msgstr "벨사는 자신에게 부딪친 반쯤 벗은 노드가 의심스럽다고 했다. 그녀는 도시 밖 상인 야영지에서 그 노드를 찾을 수 있을 거라 생각한다. 편지에 대해 아는 게 있는지 그에게 물어봐야 한다."
+
+#: 103224356-0-38935
+msgctxt "103224356-0-38935"
+msgid "Someone in the market slipped a folded letter into Velsa's things. She thinks it may be related to her family or that it could be a trap. I should read the letter before I investigate further."
+msgstr "시장에서 누군가 벨사의 물건에 접힌 편지를 슬쩍 넣었다. 벨사는 그 편지가 그녀의 가족과 관련이 있거나 어떤 함정일 것이라 생각한다. 자세한 조사를 하기 전에 편지를 읽어봐야 한다."
+
+#: 103224356-0-38934
+msgctxt "103224356-0-38934"
+msgid "I should speak with Velsa in her garden."
+msgstr "벨사의 정원에서 그녀와 대화해야 한다."
+
+#: 103224356-0-38933
+msgctxt "103224356-0-38933"
+msgid "<<1>> learned <<2>> was spotted in town. He suspects a local named Bellulor may know more, but has been unable to track him down. I should search for Bellulor in the Stormhold Outlaws Refuge, in Shadowfen."
+msgstr "<<1>>는 <<2>>가 마을에서 발견되었다는 것을 알았다. 그는 벨루로(Bellulor)라는 이름의 지역 주민이 더 많은 것을 알고 있을 거라 생각하지만, 그를 추적할 수 없었다. 나는 셰도우펜에 있는 스톰홀드 무법자의 안식처에서 벨루로를 찾아야 한다."
+
+#: 103224356-0-38932
+msgctxt "103224356-0-38932"
+msgid "<<1>> learned <<2>> was spotted in town. He suspects a local named Bellulor may know more, but has been unable to track him down. I should search for Bellulor in the Shornhelm Outlaws Refuge, in Rivenspire."
+msgstr "<<1>>는 <<2>>가 마을에서 발견되었다는 것을 알았다. 그는 벨루로(Bellulor)라는 이름의 지역 주민이 더 많은 것을 알고 있을 거라 생각하지만, 그를 추적할 수 없었다. 나는 리븐스파이어에 있는 숀헬름 무법자의 안식처에서 벨루로를 찾아야 한다."
+
+#: 103224356-0-38929
+msgctxt "103224356-0-38929"
+msgid "I restored the seal protecting <<1>> with the energy from <<2>>. I should return the amulet to the priest and let her know what happened."
+msgstr "<<2>>의 에너지로 <<1>>을 보호하는 봉인을 복구했다. 아뮬렛을 사제에게 돌려 주고 그녀에게 무슨 일이 일어났는지 알려야 한다."
+
+#: 103224356-0-38928
+msgctxt "103224356-0-38928"
+msgid "<<1>> has absorbed a fair amount of energy. I can use it now to recharge the seal protecting <<2>>."
+msgstr "<<1>>가 상당한 양의 에너지를 흡수했다. 이제 스피릿캐처를 <<2>>을 보호하는 봉인을 충전하는 데 사용해야 한다."
+
+#: 103224356-0-38927
+msgctxt "103224356-0-38927"
+msgid "I need to use this <<1>> to absorb the energy of the spirits released by the necromancers in <<2>>."
+msgstr "<<2>>에 있는 강령술사들이 풀어 놓은 영혼들의 에너지를 흡수하기 위해 <<1>>를 사용해야 한다."
+
+#: 103224356-0-38925
+msgctxt "103224356-0-38925"
+msgid "I should bring the <<c:1>> with me. It's in <<Ac:2>>."
+msgstr "나는 <<c:1>>를 가져가야 한다. 그것은 <<Ac:2>>에 있다."
+
+#: 103224356-0-38924
+msgctxt "103224356-0-38924"
+msgid "I should speak with <<1>> in the <<2>>."
+msgstr "<<2>>에서 <<1>>와 이야기해야 한다."
+
+#: 103224356-0-38922
+msgctxt "103224356-0-38922"
+msgid "I should meet <<1>> at her rooftop retreat."
+msgstr "<<1>>의 옥상 휴식처에서 그녀를 만나야 한다."
+
+#: 103224356-0-38920
+msgctxt "103224356-0-38920"
+msgid "I should talk to <<1>> in <<Ac:2>>."
+msgstr "<<Ac:2>>에서 <<1>>과 대화해야 한다."
+
+#: 103224356-0-38916
+msgctxt "103224356-0-38916"
+msgid "I should meet <<1>> at the place where she goes to think."
+msgstr "<<1>>이 생각을 할 때 가곤 하는 장소에서 그녀를 만나야 한다."
+
+#: 103224356-0-38915
+msgctxt "103224356-0-38915"
+msgid "We made it out of the Velmont Mansion. Now I should return to the Thieves Den and speak to <<1>> about our meeting with <<2>>."
+msgstr "우리는 벨몬트 저택에서 탈출했다. 이제 도둑 소굴로 돌아가 <<1>>에게 <<2>>와의 만남에 대해 말해야 한다."
+
+#: 103224356-0-38914
+msgctxt "103224356-0-38914"
+msgid "<<1>> would like to visit the balcony where he and <<2>> used to spend time playing when they were young."
+msgstr "<<1>>는 그와 <<2>>가 어린 시절 함께 놀곤 했던 발코니를 방문하고 싶어 한다."
+
+#: 103224356-0-38913
+msgctxt "103224356-0-38913"
+msgid "<<1>> and I were set up! I should follow her lead."
+msgstr "<<1>>과 나는 해 냈다! 나는 그녀를 따라가야 한다."
+
+#: 103224356-0-38910
+msgctxt "103224356-0-38910"
+msgid "I need to talk to Walks-Softly at the Thieves Den about our encounter with his old friend, Anais Velmont."
+msgstr "옛 친구인 아나이스 벨몬트와의 만남에 대해 도둑 소굴에서 웍스-소프틀리와 대화해야 한다."
+
+#: 103224356-0-38909
+msgctxt "103224356-0-38909"
+msgid "<<1>> approached us while we were on the balcony. She said some terrible things to <<2>>. I should confront her about this."
+msgstr "우리가 발코니에 있는 동안 <<1>>가 다가왔다. 그녀는 무언가 끔찍한 것들을 <<2>>에게 말했다. 여기에 대해 그녀와 대화해봐야 한다."
+
+#: 103224356-0-38908
+msgctxt "103224356-0-38908"
+msgid "I think we overstayed our welcome. <<1>> and I should leave Anais's family mansion immediately."
+msgstr "너무 오래 머무른 것 같다 .<<1>>와 나는 아나이스의 가문 저택을 즉시 떠나야 한다."
+
+#: 103224356-0-38907
+msgctxt "103224356-0-38907"
+msgid "<<1>> wants me to search the mansion's courtyard and kitchen area for a few of the keepsakes from his time living here with Anais. As I search, I should take care to remain hidden so as not to attract attention."
+msgstr "<<1>>는 아나이스와 함께 살았던 시절의 기념품 몇 개를 찾기 위해 저택의 안뜰과 부엌을 수색해 달라고 했다. 수색을 하는 동안, 나는 주의를 끌지 않도록 잘 숨어야 한다."
+
+#: 103224356-0-38905
+msgctxt "103224356-0-38905"
+msgid "Walks-Softly wants me to break into the Velmont Mansion and help him search for keepsakes that his friend Anais has held onto for all these years. We just need to be careful that we're not spotted."
+msgstr "웍스-소프틀리는 내가 벨몬트 저택에 잠입해 그의 친구인 아나이스가 오랫동안 지금까지 보관했던 기념품을 찾는 것을 도와주길 바란다. 발각 당하지 않도록 조심해야 한다."
+
+#: 103224356-0-38885
+msgctxt "103224356-0-38885"
+msgid "<<1>> heard someone approaching <<2>>'s office. I should find a place to hide."
+msgstr "<<1>>는 누군가 <<2>>의 사무실에 다가오는 소리를 들었다. 나는 숨을 곳을 찾아야 한다."
+
+#: 103224356-0-38827
+msgctxt "103224356-0-38827"
+msgid "I should speak with <<1>> and see what she plans to do."
+msgstr "<<1>>와 대화하여 무슨 계획을 가지고 있는지 알아 봐야 한다."
+
+#: 103224356-0-38826
+#, fuzzy
+msgctxt "103224356-0-38826"
+msgid "<<1>> suspects a dockyard boss may be a candidate for <<2>>'s blackmail. To confirm this, I could spy on a meeting he called with ""the Imperial client,"" or search the Imperial's private room at the Serpent and Senche."
+msgstr ""
+
+#: 103224356-0-38825
+msgctxt "103224356-0-38825"
+msgid "I should speak with <<1>> and see what she turned up. I can find her at the Abah's Landing harbor."
+msgstr "나는 <<1>>과 대화하여 뭘 발견했는지 알아내야 한다. 아바스 랜딩의 항구에서 그녀를 찾을 수 있을 것이다."
+
+#: 103224356-0-38782
+msgctxt "103224356-0-38782"
+msgid "Now that we've bypassed Tu'whacca's Pillars, we should venture deeper into <<c:1>>."
+msgstr "투'와카의 기둥을 지나쳤으니 이제 <<c:1>> 더 깊은 곳으로 가야 한다."
+
+#: 103224356-0-38767
+#, fuzzy
+msgctxt "103224356-0-38767"
+msgid "It seems the Iron Wheel dragged <<1>> to a remote area where they like to ""soften up"" their captives. If I plan to rescue him, I should head there as soon as I can."
+msgstr ""
+
+#: 103224356-0-38766
+#, fuzzy
+msgctxt "103224356-0-38766"
+msgid "I decided to kill <<1>>. I will make it quick."
+msgstr "나는 <<1>>을 죽이기로 결심했다. 나는 그것을 빨리 할 것이다.-G-"
+
+#: 103224356-0-38765
+#, fuzzy
+msgctxt "103224356-0-38765"
+msgid "The matter with <<1>> seems resolved, but I should speak with <<2>> in Abah's Landing to be certain."
+msgstr "<<1>>에 관한 문제는 해결 된 것으로 보이지만, 확실하기 위해서는 나는 Abah 's Landing에서 <<2>>와 이야기해야합니다.-G-"
+
+#: 103224356-0-38764
+msgctxt "103224356-0-38764"
+msgid "<<1>> is unharmed. I should return to Abah's Landing and inform <<2>> of his fate."
+msgstr "<<1>>는 무사하다. 나는 아바스 랜딩으로 돌아가 <<2>>에게 그의 운명을 알려줘야 한다."
+
+#: 103224356-0-38763
+#, fuzzy
+msgctxt "103224356-0-38763"
+msgid "The matter with <<1>> seems resolved, but I should speak with <<2>> in Abah's Landing to be certain."
+msgstr "<<1>>에 관한 문제는 해결 된 것으로 보이지만, 확실하기 위해서는 나는 Abah 's Landing에서 <<2>>와 이야기해야합니다.-G-"
+
+#: 103224356-0-38762
+msgctxt "103224356-0-38762"
+msgid "<<1>> is ruined. I should return to Abah's Landing and inform <<2>> of his fate."
+msgstr "<<1>>는 파멸했다. 나는 아바스 랜딩으로 돌아가 <<2>>에게 그의 운명을 알려줘야 한다."
+
+#: 103224356-0-38761
+msgctxt "103224356-0-38761"
+msgid "I decided <<1>> should lose everything important to him. I should speak with <<2>> and convince her that her husband isn't what he seems."
+msgstr "나는 <<1>>가 자신에게 중요한 모든 것을 잃어야 한다고 결정했다. <<2>>와 대화하여 그녀의 남편이 눈에 보이는 것과 다른 사람이라는 것을 알려야 한다."
+
+#: 103224356-0-38760
+msgctxt "103224356-0-38760"
+msgid "<<1>> plans to inform the Thieves Guild of <<2>>' betrayal. I should speak with her at <<c:3>> and find out what we do next."
+msgstr "<<1>>는 도둑 길드에 <<2>>의 배신을 알릴 계획이다. <<c:3>>에서 그녀와 대화하여 다음 할 일을 알아내야 한다."
+
+#: 103224356-0-38759
+msgctxt "103224356-0-38759"
+msgid "<<1>> plans to inform the Thieves Guild of <<2>>' betrayal. I should speak with her at <<c:3>> and find out what we do next."
+msgstr "<<1>>는 도둑 길드에 <<2>>의 배신을 알릴 계획이다. <<c:3>>에서 그녀와 대화하여 다음 할 일을 알아내야 한다."
+
+#: 103224356-0-38753
+msgctxt "103224356-0-38753"
+msgid "<<1>> plans to inform the Thieves Guild of <<2>>' betrayal. I should speak with her at <<c:3>> and find out what we do next."
+msgstr "<<1>>는 도둑 길드에 <<2>>의 배신을 알릴 계획이다. <<c:3>>에서 그녀와 대화하여 다음 할 일을 알아내야 한다."
+
+#: 103224356-0-38752
+msgctxt "103224356-0-38752"
+msgid "<<1>> betrayed the Thieves Guild! <<2>> plans to inform them of his secret deal with the merchant lord, <<3>>. I should meet her at <<Ac:4>>."
+msgstr "<<1>>는 도둑 길드를 배신했다!  도둑 길드를 배신했습니다! <<2>>는 길드원들에게 상인 영주 <<3>>와 은밀하게 거래를 했다는 니콜라스의 비밀을 알릴 계획이다. <<Ac:4>>에서 그녀를 만나야 한다."
+
+#: 103224356-0-38746
+msgctxt "103224356-0-38746"
+msgid "<<1>> and I should search <<2>>'s desert retreat for any signs of him or <<3>>'s dowry."
+msgstr "<<1>>와 나는 <<2>>나 <<3>>의 지참금의 흔적이 있는지 그의 사막 은신처를 수색해야 한다."
+
+#: 103224356-0-38745
+msgctxt "103224356-0-38745"
+msgid "<<1>> asked me to meet her at <<2>>'s desert retreat, in the badlands of Hew's Bane."
+msgstr "<<1>>는 휴즈 베인 황무지에 있는 <<2>>의 사막 은거지에서 만나자고 했다."
+
+#: 103224356-0-38742
+msgctxt "103224356-0-38742"
+msgid "<<1>>'s dowry is gone, and <<2>>—the former guildmaster—may have had something to do with it. I should return to Hew's Bane as soon as I can. From there, I will meet <<3>> at <<2>>'s desert retreat."
+msgstr "<<1>>의 지참금은 사라졌고 전대 길드 마스터인 <<2>>가 관련이 있을 지도 모른다. 최대한 빨리 휴즈 베인으로 돌아가야 한다. <<2>>의 사막 은거지에서 <<3>>를 만날 것이다."
+
+#: 103224356-0-38741
+msgctxt "103224356-0-38741"
+msgid "We should search the al-Danobia treasure vaults for <<1>>'s dowry, or clues to its absence."
+msgstr "우리는 알-다노비아 보물 창고에서 <<1>>의 지참금이나 그것이 사라졌다는 단서를 찾아야 한다."
+
+#: 103224356-0-38740
+msgctxt "103224356-0-38740"
+msgid "We awoke an ancient tomb guardian! We must defeat it!"
+msgstr "우리는 고대의 무덤 수호자를 깨웠다! 수호자를 물리쳐야 한다."
+
+#: 103224356-0-38739
+msgctxt "103224356-0-38739"
+msgid "Now that I've crossed Shinji's Truth, I should enter the al-Danobia treasure vaults."
+msgstr "이제 신지의 진실을 건넜으니 알-다노비아의 보물 창고로 가야 한다."
+
+#: 103224356-0-38738
+msgctxt "103224356-0-38738"
+msgid "Shinji's Truth is an invisible path that can only be revealed by spreading <<1>> upon it. I should do so and cross."
+msgstr "신지의 진실은 그 위에 <<1>>를 뿌려야 드러나는 보이지 않는 길이다. 재를 뿌려 반대로 건너 가야 한다."
+
+#: 103224356-0-38737
+msgctxt "103224356-0-38737"
+msgid "I should return to Shinji's Truth with <<1>>."
+msgstr "<<1>>와 신지의 진실로 돌아 가야 한다."
+
+#: 103224356-0-38736
+msgctxt "103224356-0-38736"
+msgid "<<1>> and I made it through Malooc's Path. We should recover <<2>>, which will reveal Shinji's Truth."
+msgstr "<<1>>와 나는 말룩의 길을 통과했다. 우리는 <<2>>를 회수해 신지의 진실을 드러내야 한다."
+
+#: 103224356-0-38735
+msgctxt "103224356-0-38735"
+msgid "<<1>> needs me to watch her back as we walk Malooc's Path. I should stay close to <<1>> until we make it through."
+msgstr "<<1>>는 우리가 말룩의 길을 걸을 때 내가 엄호해주길 바란다. 길을 통과할 때까지 <<1>> 가까이에 있어야 한다."
+
+#: 103224356-0-38734
+msgctxt "103224356-0-38734"
+msgid "After exploring further into <<c:1>>, we reached an impassable chasm known as Shinji's Truth. I should see what <<2>> has to say and follow her lead."
+msgstr "<<c:1>>에 대해 더 자세히 살펴본 뒤 신지의 진실이라는 지나갈 수 없는 균열에 도착했다. 나는 <<2>>가 무슨 말을 하는지 듣고 그녀를 따라가야 한다."
+
+#: 103224356-0-38733
+msgctxt "103224356-0-38733"
+msgid "A great door blocks our way. If we are to advance further into <<c:1>>, I must solve the mystery of Tu'whacca's Pillars. I should refer to <<2>>' journal for hints."
+msgstr "커다란 문이 길을 막고 있다. <<c:1>> 더 깊은 곳까지 가려면 투'와카의 기둥에 얽힌 수수께끼를 풀어야 한다. 단서를 얻으려면 <<2>>의2 일지를 참고해야 한다."
+
+#: 103224356-0-38732
+msgctxt "103224356-0-38732"
+msgid "I should explore <<c:1>>."
+msgstr "나는 <<c:1>>을 살펴야 한다."
+
+#: 103224356-0-38731
+msgctxt "103224356-0-38731"
+msgid "The Iron Wheel has set up camp outside <<c:1>>. I should sneak past the camp in order to reach the entrance."
+msgstr "아이언 휠은 <<c:1>> 밖에 야영지를 설치했다. 입구까지 가려면 야영지를 몰래 지나가야 한다."
+
+#: 103224356-0-38730
+msgctxt "103224356-0-38730"
+msgid "When I'm ready, I should speak with <<1>> and let her know I'm ready to travel to <<c:2>>."
+msgstr "준비가 되면 <<1>>에게 <<c:2>>으로 떠날 준비가 됐다고 알려야 한다."
+
+#: 103224356-0-38729
+msgctxt "103224356-0-38729"
+msgid "The matter with <<1>> is resolved. I should talk to <<2>> at Prince's Gate when I'm ready to depart Abah's Landing."
+msgstr "<<1>>의 문제가 되었다. 아바스 랜딩을 떠날 준비가 되면 왕자의 문 앞에 있는 <<2>>와 대화해야 한다."
+
+#: 103224356-0-38727
+msgctxt "103224356-0-38727"
+msgid "Perhaps someone can point me in the direction of <<1>>. I should ask any possible witnesses of his capture."
+msgstr "아마도 누군가 <<1>>가 어디로 갔는지 알려줄 수 있을 것이다. 그의 납치를 목격한 사람에게 물어봐야 한다."
+
+#: 103224356-0-38726
+msgctxt "103224356-0-38726"
+msgid "There's no sign of <<1>>. I can only assume the worst. If I can track him down, perhaps I can free him from the Iron Wheel. Alternatively, I could leave him to his fate. If that's the case, I can tell <<2>> we should leave without him."
+msgstr "<<1>>의 흔적이 없다. 최악의 상황만 짐작될 뿐이다. 그를 추적한다면, 아이언 휠에게서 그를 풀어줄 수 있을 지도 모른다. 혹은 그의 운명을 내버려둘 수도 있다. 만약 그러고 싶다면 <<2>>에게 퍼시우스 없이 떠나야 한다고 말해야 한다."
+
+#: 103224356-0-38725
+msgctxt "103224356-0-38725"
+msgid "I found <<1>> before the Iron Wheel did. I should speak with him, quickly."
+msgstr "나는 아이언 휠보다 먼저 <<1>>를 발견했다. 빨리 그와 이야기해야 한다."
+
+#: 103224356-0-38724
+msgctxt "103224356-0-38724"
+msgid "There's very little time to find <<1>> before the Iron Wheel catches him. I should follow his trail of bright green footprints as fast as I can!"
+msgstr "아이언 휠이 퍼시우스를 잡기 전에 그를 찾을 시간이 거의 없다. 최대한 빨리 밝은 녹색의 발자국인 그의 흔적을 따라가야 한다!"
+
+#: 103224356-0-38723
+msgctxt "103224356-0-38723"
+msgid "The Iron Wheel is after <<1>>! In his rush to escape from his shop, he stumbled through a vat of bright green dye. I should find where his trail begins!"
+msgstr "아이언 휠이 <<1>>를 추적한 것이었다! 그는 가게에서 서둘러 도망가다가 밝은 녹색 염료통에 발이 걸렸다. 그의 흔적이 어디에서 시작되는지 찾아야 한다!"
+
+#: 103224356-0-38721
+msgctxt "103224356-0-38721"
+msgid "<<1>> isn't here, and his shop is in shambles! I should speak with his clerk, <<2>> of his whereabouts."
+msgstr "<<1>>는 여기 없고 가게는 아수라장이다! 점원인 <<2>>와 그의 행방에 대해 얘기해봐야 한다."
+
+#: 103224356-0-38720
+msgctxt "103224356-0-38720"
+msgid "<<1>> plans to return to the al-Danobia family tomb where <<2>> and the rest of the guild perished. She believes <<3>> can help, and asked <<4>> and I to meet him at his shop in Abah's Landing."
+msgstr "<<1>>는 <<2>>와 나머지 길드원들이 죽었던 알-다노비아 가족묘에 돌아갈 계획이다. 그녀는 <<3>>가 도움이 될 거라 생각하여 <<4>>과 내게 아바스 랜딩에 있는 그의 가게에서 그를 만나라고 했다."
+
+#: 103224356-0-38718
+msgctxt "103224356-0-38718"
+msgid "I should head to <<Ac:1>> and speak with <<2>> about her plan."
+msgstr "<<Ac:1>>로 가서 <<2>>와 그녀의 계획에 대해 말해야 한다."
+
+#: 103224356-0-38701
+msgctxt "103224356-0-38701"
+msgid "<<1>>'s plan worked, but she was captured by the Iron Wheel. I should speak with <<2>> in <<Ac:3>> as soon as possible."
+msgstr "<<1>>의 계획은 효과가 있었지만 그녀는아이언 휠에게 붙잡혔다. 가능한 한 빨리 도둑 소굴에서 <<2>>와 대화해야 한다."
+
+#: 103224356-0-38700
+msgctxt "103224356-0-38700"
+msgid "<<1>>'s plan worked, but she was captured by the Iron Wheel. I should return to <<Ac:2>> as soon as I can."
+msgstr "<<1>>의 계획은 효과가 있었지만 그녀는 아이언 휠에게 붙잡혔다. 가능한 한 빨리 <<Ac:2>>로 돌아가야 한다."
+
+#: 103224356-0-38699
+msgctxt "103224356-0-38699"
+msgid "I'm in <<1>> in Abah's Landing. <<2>> ordered the Iron Wheel to arrest everyone at the wedding. I should escape the palace with my date."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>는 아이언 휠에게 결혼식에 있는 모두를 체포하라고 명령했다. 내 동행과 궁전을 탈출해야 한다."
+
+#: 103224356-0-38698
+msgctxt "103224356-0-38698"
+msgid "I'm in <<1>> in Abah's Landing. <<2>> ordered the Iron Wheel to arrest everyone at the wedding. I should escape to the palace courtyard with my date."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>는 아이언 휠에게 결혼식에 있는 모두를 체포하라고 명령했다. 내 동행과 궁전 안뜰로 탈출해야 한다."
+
+#: 103224356-0-38697
+msgctxt "103224356-0-38697"
+msgid "I'm in <<1>> in Abah's Landing. We found irrefutable proof that <<2>> stole <<3>>'s dowry. <<4>> wants my date and I to attend the wedding while she presents Danobia's crown to <<3>>."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>가 <<3>>의 지참금을 숨겼다는 반박할 수 없는 증거를 찾았다. <<4>>는 그녀가 <<3>>에게 다노비아의 왕관을 보여주는 동안 나와 내 동행이 결혼식에 참석하길 원한다."
+
+#: 103224356-0-38696
+msgctxt "103224356-0-38696"
+msgid "I'm in <<1>> in Abah's Landing. We found irrefutable proof that <<2>> stole <<3>>'s dowry. I should speak with <<4>> about our next steps."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>가 <<3>>의 지참금을 숨겼다는 반박할 수 없는 증거를 찾았다. 다음 단계에 대해 <<4>>와 대화해 봐야 한다. "
+
+#: 103224356-0-38695
+msgctxt "103224356-0-38695"
+msgid "I'm in <<1>> in Abah's Landing. I should search for a hidden way out of <<2>>'s room."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>의 방을 나갈 수 있는 숨겨진 길을 찾아야 한다."
+
+#: 103224356-0-38694
+msgctxt "103224356-0-38694"
+msgid "I'm in <<1>> in Abah's Landing. I should speak with <<2>> and inform her of <<3>>'s treacherous nature."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>와 대화해 <<3>>의 기만적인 본성을 알려야 한다."
+
+#: 103224356-0-38693
+msgctxt "103224356-0-38693"
+msgid "I'm in <<1>> in Abah's Landing. I should sneak to <<2>>'s room."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>의 방에 몰래 숨어 들어가야 한다."
+
+#: 103224356-0-38692
+msgctxt "103224356-0-38692"
+msgid "I'm in <<1>> in Abah's Landing. I should enter the palace kitchens before the wedding starts."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. 결혼식이 시작되기 전에 궁전 주방에 들어가야 한다."
+
+#: 103224356-0-38691
+msgctxt "103224356-0-38691"
+msgid "I'm in <<1>> in Abah's Landing. I should speak with <<2>> about our next step."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. 다음 계획에 대해 <<2>>와 대화해 봐야 한다."
+
+#: 103224356-0-38690
+msgctxt "103224356-0-38690"
+msgid "I'm in <<1>> in Abah's Landing. I should mingle with the guests to determine <<2>>'s whereabouts and find a way inside the palace."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. <<2>>의 위치를 찾고 궁전 안의 길을 찾기 위해 손님들과 어울려야 한다."
+
+#: 103224356-0-38684
+msgctxt "103224356-0-38684"
+msgid "I'm in <<1>> in Abah's Landing. I should speak with <<2>> about the plan."
+msgstr "나는 아바스 랜딩의 <<1>>에 있다. 계획에 대해 <<2>>와 대화해 봐야 한다."
+
+#: 103224356-0-38683
+msgctxt "103224356-0-38683"
+msgid "I'm in <<1>> in Abah's Landing. If we can cause trouble in a discreet way, the doorman may leave his post. At that point we could get <<2>> inside."
+msgstr "나는 아바스 랜딩의 <<1>>에 왔다. 우리가 신중한 방식으로 문제를 일으킬 수 있다면, 문지기는 자리를 떠날 것이다. 그러면 그 때 <<2>>가 안으로 들어올 수 있을 것이다."
+
+#: 103224356-0-38682
+msgctxt "103224356-0-38682"
+msgid "I'm in <<1>> in Abah's Landing. I should speak with my date about getting <<2>> inside the palace."
+msgstr "나는 아바스 랜딩의 <<1>>에 왔다. <<2>>가 궁전 안으로 들어올 수 있게 하려면 내 데이트 상대와 대화해야 한다."
+
+#: 103224356-0-38677
+msgctxt "103224356-0-38677"
+msgid "The matter with <<1>> seems resolved, but I should speak with <<2>> in Abah's Landing to be certain."
+msgstr "<<1>>에 관한 문제는 해결된 것 같지만, 확실히 하려면 아바스 랜딩에 돌아가 <<2>>와 대화해야 한다."
+
+#: 103224356-0-38676
+msgctxt "103224356-0-38676"
+msgid "<<1>> is dead. I should return to Abah's Landing and inform <<2>> of his fate."
+msgstr "<<1>>는 죽었다. 나는 아바스 랜딩으로 돌아가 <<2>>에게 그의 운명을 알려줘야 한다."
+
+#: 103224356-0-38675
+msgctxt "103224356-0-38675"
+msgid "<<1>> and Vantus are the same person. I should decide what to do with him. <<2>> left his fate to my discretion."
+msgstr "<<1>>와 밴투스는 같은 사람이었다. 나는 그를 어떻게 할 것인지 결정해야 한다. <<2>>는 니콜라스의 운명을 내 재량에 맡겼다."
+
+#: 103224356-0-38673
+msgctxt "103224356-0-38673"
+msgid "<<1>> said her husband is an Imperial man named Vantus, not <<2>>. When I asked to speak with him, she insisted I leave. I should find a way into her manor."
+msgstr "<<1>>는 자신의 남편은 <<2>>가 아니라 밴투스(Vantus)라는 임페리얼 남자라고 했다. 내가 그와 대화하고 싶다고 하자, 그녀는 내가 떠나야 한다고 주장했다. 그녀의 저택으로 들어가는 길을 찾아야 한다."
+
+#: 103224356-0-38672
+msgctxt "103224356-0-38672"
+msgid "I located the manor belonging to <<1>>, the High Elf seen with <<2>>. I should speak with her and see what I can learn of his whereabouts."
+msgstr "나는 <<2>>와 함께 목격 된 <<1>>의 저택을 찾았다. 그녀와 대화해 니콜라스의 행방을 알아내야 한다."
+
+#: 103224356-0-38671
+msgctxt "103224356-0-38671"
+msgid "I should speak with Bellulor. He may know where I can find <<1>>."
+msgstr "벨루로와 대화해야 한다. 그는 <<1>>가 있는 곳을 알고 있을 지도 모른다."
+
+#: 103224356-0-38670
+#, fuzzy
+msgctxt "103224356-0-38670"
+msgid "Bellulor confirmed <<1>> was in town with a High Elf he called ""Volu."" They were to be married when they returned to her manor in Deshaan, somewhere near Tal'Deic Fortress."
+msgstr ""
+
+#: 103224356-0-38669
+#, fuzzy
+msgctxt "103224356-0-38669"
+msgid "Bellulor confirmed <<1>> was in town with a High Elf he called ""Volu."" They were to be married when they returned to her manor in the Alik'r Desert, somewhere near the city of Sentinel."
+msgstr ""
+
+#: 103224356-0-38668
+#, fuzzy
+msgctxt "103224356-0-38668"
+msgid "Bellulor confirmed <<1>> was in town with a High Elf he called ""Volu."" They were to be married when they returned to her manor in Grahtwood, somewhere near the city of Haven."
+msgstr ""
+
+#: 103224356-0-38667
+#, fuzzy
+msgctxt "103224356-0-38667"
+msgid "<<1>> suspects <<2>> escaped from the Iron Wheel. She learned of someone called the ""Desert Falcon"" who has been asking about <<2>>. She asked me to find and approach the Desert Falcon in the Shadowfen city of Stormhold."
+msgstr ""
+
+#: 103224356-0-38666
+#, fuzzy
+msgctxt "103224356-0-38666"
+msgid "<<1>> suspects <<2>> escaped from the Iron Wheel. She learned of someone called the ""Desert Falcon"" who has been asking about <<2>>. She asked me to find and approach the Desert Falcon in the Greenshade city of Marbruk."
+msgstr ""
+
+#: 103224356-0-38665
+msgctxt "103224356-0-38665"
+msgid "I should meet <<1>> at Hew's Mane, a tavern in Abah's Landing."
+msgstr "아바스 랜딩의 선술집인 휴즈 메인(Hew's Mane)에서 <<1>>를 만나야 한다."
+
+#: 103224356-0-38664
+msgctxt "103224356-0-38664"
+msgid "<<1>> learned <<2>> was spotted in town. He suspects a local named Bellulor may know more, but has been unable to track him down. I should search for Bellulor in the Marbruk Outlaws Refuge, in Greenshade."
+msgstr "<<1>>는 <<2>>가 마을에서 발견되었다는 것을 알았다. 그는 벨루로(Bellulor)라는 이름의 지역 주민이 더 많은 것을 알고 있을 거라 생각하지만, 그를 추적할 수 없었다. 나는 그린셰이드에 있는 말브룩 무법자의 안식처에서 벨루로를 찾아야 한다."
+
+#: 103224356-0-38663
+msgctxt "103224356-0-38663"
+msgid "<<1>> was unwilling to help. He also said I should stay away from his things. I should search them and see what I can find."
+msgstr "<<1>>는 도움을 주지 않았다. 그는 또한 자신의 물건에서 멀리 떨어지라고 말했다. 나는 그 물건들을 찾아 무엇을 알아낼 수 있는지 봐야 한다."
+
+#: 103224356-0-38662
+msgctxt "103224356-0-38662"
+msgid "<<1>> seemed willing to help. He provided me with a key to his strongbox, which contains all his notes on the trail <<2>> left behind."
+msgstr "<<1>>는 기꺼이 도와줄 것 같다. 그는 내게 자신의 금고를 여는 열쇠를 주었다. 그 금고에는 <<2>>가 남긴 흔적을 추적하는 그의 모든 쪽지가 담겨 있다."
+
+#: 103224356-0-38661
+#, fuzzy
+msgctxt "103224356-0-38661"
+msgid "The ""Desert Falcon"" is <<1>>, former Chief Inspector of the Iron Wheel! I should speak with him and learn his interest in this matter."
+msgstr ""
+
+#: 103224356-0-38660
+#, fuzzy
+msgctxt "103224356-0-38660"
+msgid "<<1>> suspects <<2>> escaped from the Iron Wheel. She learned of someone called the ""Desert Falcon"" who has been asking about <<2>>. She asked me to find and approach the Desert Falcon in the Rivenspire city of Shornhelm."
+msgstr ""
+
+#: 103224356-0-38659
+msgctxt "103224356-0-38659"
+msgid "I should enter <<1>> in Abah's Landing to attend the wedding."
+msgstr "결혼식에 참석하려면 아바스 랜딩에 있는 <<1>>에 들어가야 한다."
+
+#: 103224356-0-38652
+msgctxt "103224356-0-38652"
+msgid "I went to the Diamond Thimble in Abah's Landing. I should speak with the tailor about finding an appropriate outfit for the wedding."
+msgstr "아바스 랜딩의 다이아몬드 골무에 갔다. 결혼식에 적절한 복장을 찾기 위해 재단사와 대화해야 한다."
+
+#: 103224356-0-38642
+msgctxt "103224356-0-38642"
+msgid "I should present my forged wedding invitation to the gatekeeper at <<1>> in Abah's Landing."
+msgstr "아바스 랜딩의 <<1>>에서 문지기에게 위조된 청첩장을 보여줘야 한다."
+
+#: 103224356-0-38641
+msgctxt "103224356-0-38641"
+msgid "I went to the Diamond Thimble in Abah's Landing. I should speak with <<1>>."
+msgstr "아바스 랜딩에 있는 다이아몬드 골무로 갔다. <<1>>와 대화해야 한다."
+
+#: 103224356-0-38640
+msgctxt "103224356-0-38640"
+msgid "I went to the Diamond Thimble in Abah's Landing. I should choose an outfit to wear the wedding."
+msgstr "아바스 랜딩에 있는 다이아몬드 골무로 갔다. 결혼식에서 입을 옷을 골라야 한다."
+
+#: 103224356-0-38639
+msgctxt "103224356-0-38639"
+msgid "I should head to the Diamond Thimble in Abah's Landing to find an appropriate outfit for the wedding."
+msgstr "결혼식에 적합한 옷을 찾으려면 아바스 랜딩에 있는 다이아몬드 골무로 향해야 한다."
+
+#: 103224356-0-38638
+msgctxt "103224356-0-38638"
+msgid "The wedding invitation allows one guest. I should choose a date to support me inside <<1>>. Any of my compatriots in the Thieves Guild should do."
+msgstr "청첩장에는 동행 한 명을 허용한다고 쓰여 있었다. <<1>> 안에서 나를 도와 줄 동행을 선택해야 한다. 도둑 길드에 있는 내 동류 중 한 명을 고르면 될 것이다."
+
+#: 103224356-0-38637
+msgctxt "103224356-0-38637"
+msgid "I should talk to <<1>> in <<Ac:2>>."
+msgstr "<<Ac:2>>에서 <<1>>와 대화해야 한다."
+
+#: 103224356-0-38613
+msgctxt "103224356-0-38613"
+msgid "If I provide <<1>> with a single lockpick, he will tell me where to find <<2>>. Before I make my decision, I could consult with the others in No Shira Prison."
+msgstr "락픽 하나만 <<1>>에게 제공하면 그는 어디서 <<2>>를 찾을 수 있는지 알려 줄 것이다. 결정을 하기 전에 노 쉬라 감옥에 있는 다른 이들과 상담해 볼 수 있다."
+
+#: 103224356-0-38609
+msgctxt "103224356-0-38609"
+msgid "I should speak with <<1>> inside the  entrance to <<2>>."
+msgstr "<<2>>의 입구 안에서 <<1>>와 대화해야 한다."
+
+#: 103224356-0-38607
+msgctxt "103224356-0-38607"
+msgid "I stole an invite to the wedding. I should return to <<Ac:1>>."
+msgstr "나는 청첩장을 훔쳤다. <<Ac:1>>로 돌아가야 한다."
+
+#: 103224356-0-38606
+msgctxt "103224356-0-38606"
+msgid "<<1>> can forge a wedding invitation if I can steal an original. I should pickpocket <<2>> in the Abah's Landing markets or steal <<3>>'s invitation from her nearby mansion."
+msgstr "내가 청첩장 원본을 훔쳐 오면 <<1>>는 그것을 위조할 수 있다. 아바스 랜딩 시장에서 <<2>>을 소매치기하거나 <<3>>의 청첩장을 그녀의 저택 근처에서 훔쳐야 한다."
+
+#: 103224356-0-38605
+msgctxt "103224356-0-38605"
+msgid "<<1>>  has details on acquiring a wedding invitation. I should meet him at his shop in Abah's Landing."
+msgstr "<<1>>가 청첩장을 어떻게 얻을 수 있는지 자세한 정보를 가지고 있다. 아바스 랜딩에 있는 실버-클로의 가게에서 그를 만나야 한다."
+
+#: 103224356-0-38604
+msgctxt "103224356-0-38604"
+msgid "<<1>>'s plan worked, but she was captured by the Iron Wheel. I should speak with <<2>> in the Thieves Den as soon as possible."
+msgstr "<<1>>의 계획은 효과가 있었지만 그녀는아이언 휠에게 붙잡혔다. 가능한 한 빨리 도둑 소굴에서 <<2>>와 대화해야 한다."
+
+#: 103224356-0-38601
+msgctxt "103224356-0-38601"
+msgid "<<1>> found a way into the Iron Wheel's headquarters. I should meet <<2>> outside <<3>>."
+msgstr "<<1>>가 아이언 휠 본부로 가는 길을 찾았다. 나는 <<3>> 밖에서 <<2>>를 만나야 한다."
+
+#: 103224356-0-38588
+msgctxt "103224356-0-38588"
+msgid "I should speak with <<1>> in <<Ac:2>>."
+msgstr "<<Ac:2>>에서 <<1>>에게 말해야 한다."
+
+#: 103224356-0-38587
+msgctxt "103224356-0-38587"
+msgid "I should return to <<Ac:1>> and speak with <<2>>."
+msgstr "<<Ac:1>>에 돌아가 <<2>>에게 말해야 한다."
+
+#: 103224356-0-38586
+msgctxt "103224356-0-38586"
+msgid "<<1>>  and I should escape <<2>> before the Iron Wheel realizes. Other prisoners have been freed as well and are retrieving much of the amassed treasure."
+msgstr "아이언 휠이 눈치채기 전에 <<1>>와 나는 <<2>>를 탈출해야 한다. 다른 포로들도 풀려나서 축적된 보물들을 많이 챙기고 있다."
+
+#: 103224356-0-38584
+msgctxt "103224356-0-38584"
+msgid "I need to free <<1>> from the prison ship outside <<2>>."
+msgstr "<<2>> 밖에 있는 감옥선에서 <<1>>를 풀어줘야 한다."
+
+#: 103224356-0-38580
+msgctxt "103224356-0-38580"
+msgid "<<1>> is aboard a prison ship that is about to leave No Shira Prison. I should hurry there."
+msgstr "<<1>>는 노 시라 감옥을 떠나려고 하는 감옥선에 타고 있다. 거기로 서둘러 가야 한다."
+
+#: 103224356-0-38579
+msgctxt "103224356-0-38579"
+msgid "<<1>> was not in her cell block, but <<2>> was. I should speak with him and see what he knows."
+msgstr "독방에 <<1>>는 없었지만 <<2>>는 있었다. 그와 대화해 그가 뭘 알고 있는지 알아 봐야 한다."
+
+#: 103224356-0-38577
+msgctxt "103224356-0-38577"
+msgid "The Iron Wheel holds <<1>> in No Shira Prison. I should search for her cell block. Once I'm there I should be able to locate her cell."
+msgstr "아이언 휠은 노 시라 감옥에 <<1>>을 가둬두고 있었다. 그녀의 독방을 수색해야 한다. 일단 거기 가면 그녀의 독방을 찾을 수 있을 것이다."
+
+#: 103224356-0-38576
+msgctxt "103224356-0-38576"
+msgid "<<1>> was inside <<2>>. Although wary of my intentions, it seems she wants to talk."
+msgstr "<<1>>가 <<2>> 안에 있었다. 내 의도를 경계하면서도 그녀는 대화를 하고 싶어하는 것 같다."
+
+#: 103224356-0-38575
+msgctxt "103224356-0-38575"
+msgid "I should find <<1>>'s office in <<2>>."
+msgstr "<<2>>에서 <<1>>의 사무실을 찾아야 한다."
+
+#: 103224356-0-38574
+msgctxt "103224356-0-38574"
+msgid "<<1>> has a plan to get past the Iron Wheel sentry outside <<2>>."
+msgstr "<<1>>에게 <<2>> 밖에 있는 아이언 휠 보초를 지나갈 계획이 있다."
+
+#: 103224356-0-38573
+msgctxt "103224356-0-38573"
+msgid "I should speak to <<1>> outside <<2>>."
+msgstr "<<2>> 밖에서 <<1>>과 대화해야 한다."
+
+#: 103224356-0-38572
+msgctxt "103224356-0-38572"
+msgid "I should meet <<1>> outside <<2>>."
+msgstr "<<2>> 밖에서 <<1>>을 만나야 한다."
+
+#: 103224356-0-38571
+msgctxt "103224356-0-38571"
+msgid "The Thieves Guild has assembled in <<c:1>>. I should speak to each of them and organize <<2>>'s prison break."
+msgstr "도둑 길드가 <<c:1>>에 모였다. 그들과 각각 대화해서 <<2>>의 감옥 탈출단을 조직해야 한다."
+
+#: 103224356-0-38567
+#, fuzzy
+msgctxt "103224356-0-38567"
+msgid "I helped the vampire hunter Mel Adrys defeat the vampire lord Zalar-do in the Hrota Cave. I should meet him at the cave's entrance and make sure the threat to Anvil has been eliminated."
+msgstr "나는 뱀파이어 사냥꾼 멜 애드 래스 (Mel Adrys)가 롯파 굴 (Hrota Cave)에서 뱀파이어 영주 (Zalar-do)를 물리 칠 수 있도록 도와주었습니다. 동굴 입구에서 그를 만나서 앤빌에 대한 위협이 제거되었는지 확인해야합니다.-G-"
+
+#: 103224356-0-38566
+#, fuzzy
+msgctxt "103224356-0-38566"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38565
+#, fuzzy
+msgctxt "103224356-0-38565"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38564
+#, fuzzy
+msgctxt "103224356-0-38564"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38563
+#, fuzzy
+msgctxt "103224356-0-38563"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38562
+#, fuzzy
+msgctxt "103224356-0-38562"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38561
+#, fuzzy
+msgctxt "103224356-0-38561"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38560
+#, fuzzy
+msgctxt "103224356-0-38560"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38559
+#, fuzzy
+msgctxt "103224356-0-38559"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38558
+#, fuzzy
+msgctxt "103224356-0-38558"
+msgid "I secured jobs for Raynor and Kireth Vanos. Now they can raise the gold they need to complete their journey to Hammerfell. I should see if Kireth needs anything else before I take my leave."
+msgstr "나는 Raynor와 Kireth Vanos의 일자리를 확보했다. 이제 그들은 Hammerfell 로의 여행을 완료하는 데 필요한 금을 모을 수 있습니다. 나는 떠나기 전에 Kireth가 다른 것을 필요로하는지보아야합니다.-G-"
+
+#: 103224356-0-38538
+msgctxt "103224356-0-38538"
+msgid "The valuables are secured in the hideout beyond this entry. They are sure to be guarded and the buyer wants discretion, so I need to maintain a low profile."
+msgstr "귀중품은 이 입구 너머 은신처에 안전하게 보관되어 있다. 물론 누군가 그것들을 지키고 있기 때문에 구매자는 신중하게 움직일 것을 원한다. 그러니 나는 저자세를 유지해야 한다."
+
+#: 103224356-0-38536
+msgctxt "103224356-0-38536"
+msgid "I should return the ledger to <<1>> at <<Ac:2>>."
+msgstr "<<Ac:2>>에서 장부를 <<1>>에게 돌려줘야 한다."
+
+#: 103224356-0-38534
+msgctxt "103224356-0-38534"
+msgid "<<1>>'s distraction worked. I should escape the warehouse before anyone returns to the office."
+msgstr "<<1>>가 주위를 분산시킨 것이 효과가 있었다. 누군가 사무실로 돌아오기 전에 창고를 탈출해야 한다."
+
+#: 103224356-0-38529
+msgctxt "103224356-0-38529"
+msgid "<<1>> will head to <<Ac:2>> if I help her repay a favor. I should meet <<1>> outside <<3>>'s warehouse."
+msgstr "만약 내가 호의에 보답할 수 있게 <<1>>를 도와준다면, 그녀는 <<Ac:2>>로 향할 것이다. 나는 <<3>>의 창고 밖에서 <<1>>를 만나야 한다."
+
+#: 103224356-0-38515
+msgctxt "103224356-0-38515"
+msgid "I should meet <<1>> near the Velmont Mansion in Abah's Landing to find out more about this delicate situation."
+msgstr "이 민감한 상황에 대해 더 자세히 알아 보려면 아바스 랜딩의 벨몬트 저택 근처에서 <<1>>를 만나야 한다."
+
+#: 103224356-0-38509
+msgctxt "103224356-0-38509"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-38482
+msgctxt "103224356-0-38482"
+msgid "Quintus Jarol is dead. Now I need to find a way out of his estate."
+msgstr "퀸투스 재롤이 죽었다. 이제 그의 영지를 벗어날 방법을 찾아야겠다."
+
+#: 103224356-0-38481
+msgctxt "103224356-0-38481"
+msgid "Quintus Jarol has just finished a meeting with the Provincial Governor of Anvil and the Count of Kvatch. Now that the meeting has broken up, I should finish my mission and kill the noble."
+msgstr "퀸투스 재롤이 막 앤빌의 총독 그리고 크바지의 백작과 회의를 마쳤다. 회의가 끝났으니, 그 귀족을 죽이고 내 임무를 완수해야 한다."
+
+#: 103224356-0-38472
+msgctxt "103224356-0-38472"
+msgid "I should talk to Speaker Terenus and find out more about why I was invited to come here."
+msgstr "스피커 테레누스와 대화하여  내가 왜 이곳에 초대 받았는지에 대해 더 알아내야 한다."
+
+#: 103224356-0-38471
+msgctxt "103224356-0-38471"
+msgid "There's someone waiting for me inside the Anvil Lighthouse. I should talk to him."
+msgstr "앤빌 등대 안에서 누군가 나를 기다리고 있었다. 그 자와 대화해 봐야겠다."
+
+#: 103224356-0-38470
+msgctxt "103224356-0-38470"
+msgid "I received a mysterious letter and an invitation to visit the lighthouse south of Anvil. I should go and find out if this has anything to do with the Dark Brotherhood."
+msgstr "나는 의문의 편지와 함께 앤빌 남쪽에 있는 등대로 오라는 요청을 받았다. 거기로 가서 이 모든 일들이 다크 브라더후드와 관련되어 있는지 알아봐야겠다."
+
+#: 103224356-0-38469
+msgctxt "103224356-0-38469"
+msgid "<<1>> showed no mercy to <<2>>. I should speak with <<1>>."
+msgstr "<<1>>은 <<2>>에게 자비를 베풀지 않았다. <<1>>과 대화해야 한다."
+
+#: 103224356-0-38468
+msgctxt "103224356-0-38468"
+msgid "<<1>> saw that <<2>> was driven through desperation, and offered her sanctuary in <<Ac:3>>. I should speak with her."
+msgstr "<<1>>은 <<2>>가 절박한 상황으로 내몰렸다는 걸 알았고, 그녀에게 <<Ac:3>>을 피난처로 제안했다. 그녀와 대화해야 한다."
+
+#: 103224356-0-38467
+msgctxt "103224356-0-38467"
+msgid "It seems <<1>> sent her mercenaries to take Saroldo's treasure. <<2>> and I should confront her."
+msgstr "<<1>>가 사롤도의 보물을 가져 오라고 자신의 용병들을 보낸 것 같다. <<2>> 나는 그녀를 대면해야 한다."
+
+#: 103224356-0-38466
+msgctxt "103224356-0-38466"
+msgid "<<1>> spotted <<2>>'s mercenaries near where we located Saroldo's treasure. We should confront them and see what they're doing out here."
+msgstr "<<1>>은 사롤도의 보물을 발견한 곳 근처에서 <<2>>의 용병들을 보았다. 그들을 상대해 여기서 무슨 일을 하고 있었는지 알아 봐야 한다."
+
+#: 103224356-0-38465
+msgctxt "103224356-0-38465"
+msgid "We found the treasure buried by <<1>>'s father! All we need to do now is take it."
+msgstr "<<1>>의 아버지가 묻어 둔 보물을 찾았다! 이제 그걸 가져가기만 하면 된다."
+
+#: 103224356-0-38464
+msgctxt "103224356-0-38464"
+msgid "<<1>> believes her father buried treasure somewhere outside of Abah's Landing. We should search for it."
+msgstr "<<1>>은 그녀의 아버지가 아바스 랜딩 밖 어딘가에 보물을 묻어 놨다고 생각한다. 그 보물을 찾아야 한다."
+
+#: 103224356-0-38458
+msgctxt "103224356-0-38458"
+msgid "I have the Daedric treasures! I just need to get them to <<1>> before he meets the buyers."
+msgstr "데이드릭 보물을 가져 왔다! 구매자를 만나기 전에 <<1>>에게 가져 가야 한다."
+
+#: 103224356-0-38457
+msgctxt "103224356-0-38457"
+msgid "I turned over the goods to Fa'ren-dar. He'll be waiting with my share at <<Ac:1>>."
+msgstr "물건을 파'렌-다르에게 넘겨 줬다. 그는 내 몫을 가지고 <<Ac:1>>에서 기다리고 있을 것이다."
+
+#: 103224356-0-38456
+msgctxt "103224356-0-38456"
+msgid "The Daedric treasures I'm looking for should be in secure chests within this hideout."
+msgstr "내가 찾고 있는 데이드릭 귀중품은 이 은신처의 보안 궤짝 안에 있을 것이다."
+
+#: 103224356-0-38455
+msgctxt "103224356-0-38455"
+msgid "It seems <<1>> knew <<2>>'s father! I should speak with her."
+msgstr "<<1>>는 <<2>>의 아버지를 알고 있는 것 같다! 그녀와 이야기해야 한다."
+
+#: 103224356-0-38454
+msgctxt "103224356-0-38454"
+msgid "According to <<1>>, <<2>>'s father died at the hands of the Iron Wheel. She suspects they were after his ledger, which she gave to me. I should speak with <<2>> about what she wants to do now."
+msgstr "<<1>>에 따르면, <<2>>의 아버지는 아이언 휠의 손에 죽었다고 한다. 그녀는 그들이 그의 장부를 찾아러 왔다고 생각했고, 내게 그 장부를 주었다. 나는 <<2>>이 이제 뭘 하고 싶어하는지 대화해야 한다."
+
+#: 103224356-0-38453
+msgctxt "103224356-0-38453"
+msgid "<<1>> and I should search Sulima Mansion for clues regarding the whereabouts of <<1>>'s father."
+msgstr "<<1>>과 나는 술리마 저택에서 <<1>>의 아버지의 소재에 관한 단서를 찾아야 한다."
+
+#: 103224356-0-38452
+msgctxt "103224356-0-38452"
+msgid "<<1>> and I need to break into Sulima Mansion. When I'm ready, she will slip inside and unbar the gate."
+msgstr "<<1>>과 나는 술리마 저택에 침입해야 한다. 내가 준비를 마치면 쿠엔은 안으로 들어가 문을 열 것이다."
+
+#: 103224356-0-38451
+msgctxt "103224356-0-38451"
+msgid "<<1>> came to Abah's Landing to find her father. She believes information of his whereabouts is in the manor of <<2>>, a wealthy citizen of Abah's Landing. I should meet <<1>> outside Sulima Mansion."
+msgstr "<<1>>은 아버지를 찾으러 아바스 랜딩에 왔다. 그녀는 아버지의 행방에 대한 정보가 아바스 랜딩의 부유한 시민인 <<2>>의 저택에 있다고 생각한다. 술리마의 저택 밖에서 <<1>>을 만나야 한다."
+
+#: 103224356-0-38449
+msgctxt "103224356-0-38449"
+msgid "Now that we're inside, <<1>>'s warehouse, I should speak with <<2>> about how best to proceed."
+msgstr "우리는 이제 <<1>>의 창고 안으로 들어왔다. 나는 다음에 어떻게 하면 좋을지 <<2>>와 대화해야 한다."
+
+#: 103224356-0-38445
+#, fuzzy
+msgctxt "103224356-0-38445"
+msgid "<<1>> wants me to distract Foreman <<2>>. I should throw this ""<<z:3>>"" at him. Once he's distracted, I should be able to slip past him into <<4>>'s old office."
+msgstr ""
+
+#: 103224356-0-38440
+msgctxt "103224356-0-38440"
+msgid "I need to steal <<1>> from the office."
+msgstr "나는 사무실에서 <<1>>를 훔쳐야 한다."
+
+#: 103224356-0-38439
+msgctxt "103224356-0-38439"
+msgid "I should search the warehouse office for <<1>>."
+msgstr "창고 사무실에서 <<1>>를 찾아야 한다."
+
+#: 103224356-0-38438
+msgctxt "103224356-0-38438"
+msgid "Someone forced <<1>> out of his own warehouse. <<2>> and I need to break in, steal his ledger, and return it to him. I should enter <<1>>'s warehouse through the rear window."
+msgstr "누군가 <<1>> 소유의 창고에서 그를 내쫓았다. <<2>>와 나는 창고로 잠입해 실버-클로의 장부를 훔쳐 그에게 돌려줘야 한다. 뒤쪽 창문을 통해 <<1>>의 창고로 들어가야 한다."
+
+#: 103224356-0-38437
+msgctxt "103224356-0-38437"
+msgid "I should warn <<1>> that the Iron Wheel is searching for her."
+msgstr "나는 아이언 휠이 그녀를 찾고 있다고 <<1>>에게 경고해야 한다."
+
+#: 103224356-0-38436
+msgctxt "103224356-0-38436"
+msgid "It's a short jump into <<1>>'s private garden. I should speak with her there."
+msgstr "<<1>>의 개인 정원으로 가려면 뛰어 내리기만 하면 된다. 거기서 그녀와 대화해야 한다."
+
+#: 103224356-0-38435
+msgctxt "103224356-0-38435"
+msgid "<<1>> realized the Iron Wheel and <<2>> are not allies. <<1>> wants me to find <<2>>, warn her of the Iron Wheel, and convince her to return to <<Ac:3>>."
+msgstr "<<1>>는 아이언 휠과 <<2>>가 협력자가 아니란 것을 깨달았다. <<1>>는 내가 <<2>>를 찾아 아이언 휠에 대해 경고해 주길 바란다. 그리고 그녀가 <<Ac:3>>로 돌아올 것을 설득해 주길 원한다."
+
+#: 103224356-0-38434
+msgctxt "103224356-0-38434"
+msgid "When I arrived outside the flooded district of Abah's Landing, an Iron Wheel messenger staggered out of the alley and collapsed. I should speak to <<1>>."
+msgstr "아바스 랜딩의 수해지구 밖에 도착했을 때, 아이언 휠 전령이 골목에 비틀거리며 쓰러졌다. 나는 <<1>>와 대화해야 한다."
+
+#: 103224356-0-38432
+msgctxt "103224356-0-38432"
+msgid "<<1>> thinks a former guildmate is responsible. <<2>> should be at her home in the flooded district of Abah's Landing. When I'm ready, I should meet <<1>> outside the flooded district."
+msgstr "<<1>>는 전직 길드원이 관련되어 있다고 생각한다.  <<2>>는 아바스 랜딩의 수해 지구에 있는 집에 있을 것이다. 준비가 되면 수해 지구 밖에서 <<1>>를 만나야 한다."
+
+#: 103224356-0-38322
+#, fuzzy
+msgctxt "103224356-0-38322"
+msgid "The Black Sacrament has been performed for <<1>> at the <<2>>."
+msgstr "Black Sacrament는 <<2>>에서 <<1>>에 대해 수행되었습니다.-G-"
+
+#: 103224356-0-35755
+#, fuzzy
+msgctxt "103224356-0-35755"
+msgid "I must help the Twilight Cantor Adara'hai cleanse the temple and banish the dro-m'Athra back to the void."
+msgstr "나는 Twilight Cantor Adara'hai가 성전을 정화하고 dro-m'Athra를 공허로 추방하는 것을 도와야 만합니다.-G-"
+
+#: 103224356-0-35754
+#, fuzzy
+msgctxt "103224356-0-35754"
+msgid "I must help the Twilight Cantor Adara'hai cleanse the temple and banish the dro-m'Athra back to the void."
+msgstr "나는 Twilight Cantor Adara'hai가 성전을 정화하고 dro-m'Athra를 공허로 추방하는 것을 도와야 만합니다.-G-"
+
+#: 103224356-0-35752
+#, fuzzy
+msgctxt "103224356-0-35752"
+msgid "I have pushed back the dro-m'Athra and defeated their leader, Rakkhat, the Fang of Lorkhaj. I should speak with Adara'hai about what comes next."
+msgstr "나는 dro-m'Athra를 밀고 Lokhaj의 송곳니 인 Rakkhat을 물리 쳤다. 나는 다음에 오는 일에 관해 Adara'hai와 이야기해야합니다.-G-"
+
+#: 103224356-0-35751
+#, fuzzy
+msgctxt "103224356-0-35751"
+msgid "I have pushed back the dro-m'Athra and defeated their leader, Rakkhat, the Fang of Lorkhaj. I should speak with Adara'hai about what comes next."
+msgstr "나는 dro-m'Athra를 밀고 Lokhaj의 송곳니 인 Rakkhat을 물리 쳤다. 나는 다음에 오는 일에 관해 Adara'hai와 이야기해야합니다.-G-"
+
+#: 103224356-0-35750
+#, fuzzy
+msgctxt "103224356-0-35750"
+msgid "I have pushed back the dro-m'Athra and defeated their leader, Rakkhat, the Fang of Lorkhaj. I should speak with Adara'hai about what comes next."
+msgstr "나는 dro-m'Athra를 밀고 Lokhaj의 송곳니 인 Rakkhat을 물리 쳤다. 나는 다음에 오는 일에 관해 Adara'hai와 이야기해야합니다.-G-"
+
+#: 103224356-0-35749
+#, fuzzy
+msgctxt "103224356-0-35749"
+msgid "I must help the Twilight Cantor Adara'hai cleanse the temple and banish the dro-m'Athra back to the void."
+msgstr "나는 Twilight Cantor Adara'hai가 성전을 정화하고 dro-m'Athra를 공허로 추방하는 것을 도와야 만합니다.-G-"

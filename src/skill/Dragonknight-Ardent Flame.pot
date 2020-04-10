@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-45029
+msgctxt "132143172-0-45029"
+msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the cost of your Stamina Poison abilities by <<2>>."
+msgstr ""
+
+#: 198758357-0-45029
+msgctxt "198758357-0-45029"
+msgid "World in Ruin"
+msgstr ""
+
+#: 132143172-0-45023
+msgctxt "132143172-0-45023"
+msgid "Increases the damage over time of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>> and the duration by <<2>>."
+msgstr ""
+
+#: 198758357-0-45023
+msgctxt "198758357-0-45023"
+msgid "Searing Heat"
+msgstr ""
+
+#: 132143172-0-45012
+msgctxt "132143172-0-45012"
+msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-45012
+msgctxt "198758357-0-45012"
+msgid "Warmth"
+msgstr ""
+
+#: 132143172-0-45011
+msgctxt "132143172-0-45011"
+msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
+msgstr ""
+
+#: 198758357-0-45011
+msgctxt "198758357-0-45011"
+msgid "Combustion"
+msgstr ""
+
+#: 132143172-0-32958
+msgctxt "132143172-0-32958"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nActivating this ability again allows you to move the standard to your location.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
+msgstr ""
+
+#: 198758357-0-32958
+msgctxt "198758357-0-32958"
+msgid "Shifting Standard"
+msgstr ""
+
+#: 132143172-0-32947
+msgctxt "132143172-0-32947"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nStanding in the area increases your damage done and reduces damage taken by <<5>>.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<6>> to enemies in the area and immobilizing them for <<7>>."
+msgstr ""
+
+#: 198758357-0-32947
+msgctxt "198758357-0-32947"
+msgid "Standard of Might"
+msgstr ""
+
+#: 132143172-0-32881
+msgctxt "132143172-0-32881"
+msgid "Activate an aura of flames which launches a fireball at yourself or an ally to cauterize their wounds every <<1>>, healing them for <<2>> Health.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-32881
+msgctxt "198758357-0-32881"
+msgid "Cauterize"
+msgstr ""
+
+#: 132143172-0-32853
+msgctxt "132143172-0-32853"
+msgid "Activate an aura of flames which launches a fireball at |cffffff2|r enemies every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical ratings by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-32853
+msgctxt "198758357-0-32853"
+msgid "Flames of Oblivion"
+msgstr ""
+
+#: 132143172-0-29451
+msgctxt "132143172-0-29451"
+msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the Stamina cost of your Poison abilities by <<2>>."
+msgstr ""
+
+#: 198758357-0-29451
+msgctxt "198758357-0-29451"
+msgid "World in Ruin"
+msgstr ""
+
+#: 132143172-0-29439
+msgctxt "132143172-0-29439"
+msgid "Increases the duration of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-29439
+msgctxt "198758357-0-29439"
+msgid "Searing Heat"
+msgstr ""
+
+#: 132143172-0-29430
+msgctxt "132143172-0-29430"
+msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-29430
+msgctxt "198758357-0-29430"
+msgid "Warmth"
+msgstr ""
+
+#: 132143172-0-29424
+msgctxt "132143172-0-29424"
+msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
+msgstr ""
+
+#: 198758357-0-29424
+msgctxt "198758357-0-29424"
+msgid "Combustion"
+msgstr ""
+
+#: 132143172-0-28988
+msgctxt "132143172-0-28988"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
+msgstr ""
+
+#: 198758357-0-28988
+msgctxt "198758357-0-28988"
+msgid "Dragonknight Standard"
+msgstr ""
+
+#: 132143172-0-28967
+msgctxt "132143172-0-28967"
+msgid "Activate an aura of flames which launches a fireball at the nearest enemy every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr ""
+
+#: 198758357-0-28967
+msgctxt "198758357-0-28967"
+msgid "Inferno"
+msgstr ""
+
+#: 132143172-0-23806
+msgctxt "132143172-0-23806"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance."
+msgstr ""
+
+#: 198758357-0-23806
+msgctxt "198758357-0-23806"
+msgid "Lava Whip"
+msgstr ""
+
+#: 132143172-0-20944
+msgctxt "132143172-0-20944"
+msgid "Exhale a corrosive blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAfflicts enemies with Major Fracture, reducing their Physical Resistance by <<4>>."
+msgstr ""
+
+#: 198758357-0-20944
+msgctxt "198758357-0-20944"
+msgid "Noxious Breath"
+msgstr ""
+
+#: 132143172-0-20930
+msgctxt "132143172-0-20930"
+msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAffected enemies take more damage from all Flame Damage attacks based on your offensive stats, with a maximum of |cffffff10|r% bonus damage taken.\n\nCurrent value <<4>>."
+msgstr ""
+
+#: 198758357-0-20930
+msgctxt "198758357-0-20930"
+msgid "Engulfing Flames"
+msgstr ""
+
+#: 132143172-0-20917
+msgctxt "132143172-0-20917"
+msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>."
+msgstr ""
+
+#: 198758357-0-20917
+msgctxt "198758357-0-20917"
+msgid "Fiery Breath"
+msgstr ""
+
+#: 132143172-0-20816
+msgctxt "132143172-0-20816"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobilized or stunned, you set them Off Balance.\n\nTargeting an Off Balance or immobilized enemy changes this ability into <<2>>, allowing you to lash an enemy at half cost to deal <<3>> and heal you for <<4>> Health over <<5>>.  This effect can occur once every <<6>>."
+msgstr ""
+
+#: 198758357-0-20816
+msgctxt "198758357-0-20816"
+msgid "Flame Lash"
+msgstr ""
+
+#: 132143172-0-20805
+msgctxt "132143172-0-20805"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance.\n\nWhile slotted, whenever you activate a different Ardent Flame ability, you gain a stack of Seething Fury, which increases the damage of your next Molten Whip by |cffffff33|r% and your Weapon and Spell Damage by <<2>> for 5 seconds.  This effect can stack up to 3 times."
+msgstr ""
+
+#: 198758357-0-20805
+msgctxt "198758357-0-20805"
+msgid "Molten Whip"
+msgstr ""
+
+#: 132143172-0-20668
+msgctxt "132143172-0-20668"
+msgid "Rake an enemy with your claw, dealing <<1>> and an additional <<2>> over <<3>>.\n\nThe poison seeps into the target and deals increased damage the longer it lasts, dealing <<4>> more damage every <<5>>.\n\nEnemies hit by the initial hit are afflicted with the Poisoned status effect."
+msgstr ""
+
+#: 198758357-0-20668
+msgctxt "198758357-0-20668"
+msgid "Venomous Claw"
+msgstr ""
+
+#: 132143172-0-20660
+msgctxt "132143172-0-20660"
+msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>. \n\nHeals you for <<4>>% of the total damage inflicted when the effect ends.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
+msgstr ""
+
+#: 198758357-0-20660
+msgctxt "198758357-0-20660"
+msgid "Burning Embers"
+msgstr ""
+
+#: 132143172-0-20657
+msgctxt "132143172-0-20657"
+msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
+msgstr ""
+
+#: 198758357-0-20657
+msgctxt "198758357-0-20657"
+msgid "Searing Strike"
+msgstr ""
+
+#: 132143172-0-20499
+msgctxt "132143172-0-20499"
+msgid "Launch a fiery chain to grasp and pull you to an enemy, dealing <<1>> and granting you |cFFFFFF2|r uses of Empower, increasing the damage of your next |cFFFFFF2|r Light Attacks by <<2>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<3>> for <<4>>.\n\nThis attack cannot be dodged or reflected."
+msgstr ""
+
+#: 198758357-0-20499
+msgctxt "198758357-0-20499"
+msgid "Empowering Chains"
+msgstr ""
+
+#: 132143172-0-20496
+msgctxt "132143172-0-20496"
+msgid "Launch a fiery chain to grasp and pull an enemy to you, dealing <<1>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<2>> for <<3>>.\n\nIf the target cannot be pulled, you restore <<4>>% of the ability's cost as Magicka.\n\nThis attack cannot be dodged or reflected."
+msgstr ""
+
+#: 198758357-0-20496
+msgctxt "198758357-0-20496"
+msgid "Unrelenting Grip"
+msgstr ""
+
+#: 132143172-0-20492
+msgctxt "132143172-0-20492"
+msgid "Launch a fiery chain to grasp and pull an enemy to you, dealing <<1>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<2>> for <<3>>.\n\nThis attack cannot be dodged or reflected."
+msgstr ""
+
+#: 198758357-0-20492
+msgctxt "198758357-0-20492"
+msgid "Fiery Grip"
+msgstr ""

@@ -1,0 +1,757 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 52420949-0-5859
+msgctxt "52420949-0-5859"
+msgid "Rising to Retainer"
+msgstr ""
+
+#: 52420949-0-5857
+msgctxt "52420949-0-5857"
+msgid "A Smuggler's Last Stand"
+msgstr ""
+
+#: 265851556-0-5856
+msgctxt "265851556-0-5856"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of the New Life Festival in Betnikh."
+msgstr ""
+
+#: 52420949-0-5855
+msgctxt "52420949-0-5855"
+msgid "Fish Boon Feast"
+msgstr ""
+
+#: 265851556-0-5855
+msgctxt "265851556-0-5855"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Shadowfen."
+msgstr ""
+
+#: 52420949-0-5853
+msgctxt "52420949-0-5853"
+msgid "Culinary Justice in Greenshade"
+msgstr ""
+
+#: 265851556-0-5853
+msgctxt "265851556-0-5853"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Naril Nagaia, located in Greenshade."
+msgstr ""
+
+#: 52420949-0-5852
+msgctxt "52420949-0-5852"
+msgid "War Orphan's Sojourn"
+msgstr ""
+
+#: 265851556-0-5838
+msgctxt "265851556-0-5838"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of a Skywatch New Life Festival in Auridon."
+msgstr ""
+
+#: 52420949-0-5837
+msgctxt "52420949-0-5837"
+msgid "Lava Foot Stomp"
+msgstr ""
+
+#: 265851556-0-5837
+msgctxt "265851556-0-5837"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of an <<2>> New Life Festival in Stonefalls."
+msgstr ""
+
+#: 52420949-0-5836
+msgctxt "52420949-0-5836"
+msgid "Bound by Love"
+msgstr ""
+
+#: 265851556-0-5836
+msgctxt "265851556-0-5836"
+msgid "Llonas Givyn desires to marry his love, Tirwin. Unfortunately, Tirwin is a slave belonging to Llonas's mother, Faras, who disapproves of the pairing."
+msgstr ""
+
+#: 52420949-0-5835
+msgctxt "52420949-0-5835"
+msgid "If the Spell Fits"
+msgstr ""
+
+#: 265851556-0-5833
+msgctxt "265851556-0-5833"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Glenumbra."
+msgstr ""
+
+#: 52420949-0-5832
+msgctxt "52420949-0-5832"
+msgid "Like Blood from a Stone"
+msgstr ""
+
+#: 265851556-0-5831
+msgctxt "265851556-0-5831"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from the Rift."
+msgstr ""
+
+#: 52420949-0-5830
+msgctxt "52420949-0-5830"
+msgid "Madness in Stormhaven"
+msgstr ""
+
+#: 265851556-0-5830
+msgctxt "265851556-0-5830"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Stormhaven."
+msgstr ""
+
+#: 52420949-0-5829
+msgctxt "52420949-0-5829"
+msgid "Madness in Stonefalls"
+msgstr ""
+
+#: 265851556-0-5829
+msgctxt "265851556-0-5829"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Stonefalls."
+msgstr ""
+
+#: 52420949-0-5828
+msgctxt "52420949-0-5828"
+msgid "Madness in Shadowfen"
+msgstr ""
+
+#: 265851556-0-5828
+msgctxt "265851556-0-5828"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Shadowfen."
+msgstr ""
+
+#: 52420949-0-5827
+msgctxt "52420949-0-5827"
+msgid "Madness in Rivenspire"
+msgstr ""
+
+#: 265851556-0-5827
+msgctxt "265851556-0-5827"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Rivenspire."
+msgstr ""
+
+#: 52420949-0-5826
+msgctxt "52420949-0-5826"
+msgid "Madness in Reaper's March"
+msgstr ""
+
+#: 265851556-0-5826
+msgctxt "265851556-0-5826"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Reaper's March."
+msgstr ""
+
+#: 52420949-0-5825
+msgctxt "52420949-0-5825"
+msgid "Madness in Malabal Tor"
+msgstr ""
+
+#: 265851556-0-5825
+msgctxt "265851556-0-5825"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Malabal Tor."
+msgstr ""
+
+#: 52420949-0-5824
+msgctxt "52420949-0-5824"
+msgid "Madness in Greenshade"
+msgstr ""
+
+#: 265851556-0-5824
+msgctxt "265851556-0-5824"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Greenshade."
+msgstr ""
+
+#: 52420949-0-5823
+msgctxt "52420949-0-5823"
+msgid "Madness in Grahtwood"
+msgstr ""
+
+#: 265851556-0-5823
+msgctxt "265851556-0-5823"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Grahtwood."
+msgstr ""
+
+#: 52420949-0-5822
+msgctxt "52420949-0-5822"
+msgid "Madness in Glenumbra"
+msgstr ""
+
+#: 265851556-0-5822
+msgctxt "265851556-0-5822"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Glenumbra."
+msgstr ""
+
+#: 52420949-0-5820
+msgctxt "52420949-0-5820"
+msgid "Madness in Eastmarch"
+msgstr ""
+
+#: 265851556-0-5820
+msgctxt "265851556-0-5820"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Eastmarch."
+msgstr ""
+
+#: 52420949-0-5819
+msgctxt "52420949-0-5819"
+msgid "Madness in Deshaan"
+msgstr ""
+
+#: 265851556-0-5819
+msgctxt "265851556-0-5819"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Deshaan."
+msgstr ""
+
+#: 52420949-0-5818
+msgctxt "52420949-0-5818"
+msgid "Madness in Bangkorai"
+msgstr ""
+
+#: 265851556-0-5818
+msgctxt "265851556-0-5818"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Bangkorai."
+msgstr ""
+
+#: 52420949-0-5816
+msgctxt "52420949-0-5816"
+msgid "Madness in Auridon"
+msgstr ""
+
+#: 265851556-0-5816
+msgctxt "265851556-0-5816"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Auridon."
+msgstr ""
+
+#: 52420949-0-5814
+msgctxt "52420949-0-5814"
+msgid "Madness in Alik'r Desert"
+msgstr ""
+
+#: 265851556-0-5814
+msgctxt "265851556-0-5814"
+msgid "<<1>> of the Mages Guild wants me to recover a dangerous relic from Alik'r Desert."
+msgstr ""
+
+#: 52420949-0-5811
+msgctxt "52420949-0-5811"
+msgid "Snow Bear Plunge"
+msgstr ""
+
+#: 265851556-0-5811
+msgctxt "265851556-0-5811"
+msgid "<<1>>, a New Life Herald, spoke of a Lower Yorgrim New Life Festival in Eastmarch."
+msgstr ""
+
+#: 52420949-0-5808
+msgctxt "52420949-0-5808"
+msgid "Darkness Blooms in Rivenspire"
+msgstr ""
+
+#: 265851556-0-5808
+msgctxt "265851556-0-5808"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Orc's Finger Ruins, located in Rivenspire."
+msgstr ""
+
+#: 52420949-0-5804
+msgctxt "52420949-0-5804"
+msgid "Broken Bonds"
+msgstr ""
+
+#: 265851556-0-5802
+msgctxt "265851556-0-5802"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Shroud Hearth Barrow, located in the Rift."
+msgstr ""
+
+#: 52420949-0-5800
+msgctxt "52420949-0-5800"
+msgid "Cursed Baubles of Stormhaven"
+msgstr ""
+
+#: 265851556-0-5800
+msgctxt "265851556-0-5800"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Norvulk Ruins, located in Stormhaven."
+msgstr ""
+
+#: 52420949-0-5799
+msgctxt "52420949-0-5799"
+msgid "A Hireling of House Telvanni"
+msgstr ""
+
+#: 265851556-0-5798
+msgctxt "265851556-0-5798"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in <<2>>, located in Auridon."
+msgstr ""
+
+#: 52420949-0-5797
+msgctxt "52420949-0-5797"
+msgid "Dark Anchors in Reaper's March"
+msgstr ""
+
+#: 265851556-0-5780
+msgctxt "265851556-0-5780"
+msgid "<<1>> of the Undaunted has challenged me to explore the Cradle of Shadows."
+msgstr ""
+
+#: 52420949-0-5779
+msgctxt "52420949-0-5779"
+msgid "Icy Intrigue in Eastmarch"
+msgstr ""
+
+#: 265851556-0-5779
+msgctxt "265851556-0-5779"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Chill Hollow, located in Eastmarch."
+msgstr ""
+
+#: 52420949-0-5778
+msgctxt "52420949-0-5778"
+msgid "Give and Take in Shadowfen"
+msgstr ""
+
+#: 265851556-0-5778
+msgctxt "265851556-0-5778"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Atanaz Ruins, located in Shadowfen."
+msgstr ""
+
+#: 52420949-0-5777
+msgctxt "52420949-0-5777"
+msgid "The Gray Passage"
+msgstr ""
+
+#: 265851556-0-5777
+msgctxt "265851556-0-5777"
+msgid "I found a book describing an ancient Nedic hero named Ranev the Coal-Eyed Wanderer and her legendary pilgrimage along ""The Gray Passage."" According to the text, those who complete the pilgrimage in the allotted time gain the favor of the Stars."
+msgstr ""
+
+#: 52420949-0-5776
+msgctxt "52420949-0-5776"
+msgid "The Time-Lost Warrior"
+msgstr ""
+
+#: 265851556-0-5776
+msgctxt "265851556-0-5776"
+msgid "The Celestial Warrior is worried about his champion, Titus Valerius. Lost in time, Titus' memory has begun to break apart. He no longer remembers who he is or his connection to the Warrior. Without his memory, the Warrior can't send him home."
+msgstr ""
+
+#: 52420949-0-5775
+msgctxt "52420949-0-5775"
+msgid "Holding Court"
+msgstr ""
+
+#: 265851556-0-5775
+msgctxt "265851556-0-5775"
+msgid "Little Leaf has asked me to find her friend, Regent Cassipia, in Dragonstar. She claims that the two of them are working from the inside to stop the Scaled Court."
+msgstr ""
+
+#: 52420949-0-5774
+msgctxt "52420949-0-5774"
+msgid "A Leaf in the Wind"
+msgstr ""
+
+#: 265851556-0-5774
+msgctxt "265851556-0-5774"
+msgid "Regent Cassipia has asked me to find her seneschal, Little Leaf, somewhere along the road through the northeast passage. She wants me to offer my aid to Little Leaf and help her foil another one of the Scaled Court's plans."
+msgstr ""
+
+#: 52420949-0-5772
+msgctxt "52420949-0-5772"
+msgid "Uncaged"
+msgstr ""
+
+#: 265851556-0-5772
+msgctxt "265851556-0-5772"
+msgid "Outside the ancient ruins of Skyreach Pinnacle, I met a member of the Scaled Court. He told me that the Court accidentally released creatures from magical wards the Nedes set up long ago. He plans to reestablish the wards, but he needs help."
+msgstr ""
+
+#: 52420949-0-5771
+msgctxt "52420949-0-5771"
+msgid "Dawn of the Exalted Viper"
+msgstr ""
+
+#: 265851556-0-5771
+msgctxt "265851556-0-5771"
+msgid "I met Titus Valerius in Belkarth. He was hoping to find Kelmen to assist him and the Thief with a ritual to locate a magical disturbance near Skyreach, but the mage is nowhere to be found."
+msgstr ""
+
+#: 52420949-0-5770
+msgctxt "52420949-0-5770"
+msgid "Souls of the Betrayed"
+msgstr ""
+
+#: 265851556-0-5770
+msgctxt "265851556-0-5770"
+msgid "A devout knight of the Divines discovered that the dead have awakened in the depths of Skyreach Catacombs. If the legend of Virmaril is true, then a powerful Elven necromancer could be the source of the trouble."
+msgstr ""
+
+#: 52420949-0-5769
+msgctxt "52420949-0-5769"
+msgid "The Serpent's Fang"
+msgstr ""
+
+#: 265851556-0-5769
+msgctxt "265851556-0-5769"
+msgid "A Wood Elf named Little Leaf claims she's on a mission to stop the Iron Orcs from building a troll army. She tried to appeal to the Orc leaders, but diplomacy didn't work. Now she wants me to come along and try a more forceful approach."
+msgstr ""
+
+#: 52420949-0-5768
+msgctxt "52420949-0-5768"
+msgid "Slithering Brood"
+msgstr ""
+
+#: 265851556-0-5768
+msgctxt "265851556-0-5768"
+msgid "A woman claiming to be the leader of the Scaled Court requested my help. This Regent Cassipia wants me to help her stop the Scaled Court's process for creating a new type of creature for the Serpent's growing army—the mantikora."
+msgstr ""
+
+#: 52420949-0-5767
+msgctxt "52420949-0-5767"
+msgid "The Blood of Nirn"
+msgstr ""
+
+#: 265851556-0-5767
+msgctxt "265851556-0-5767"
+msgid "The scholar Nendirume warned me that the Scaled Court has taken over the ruined city of Skyreach. She believes they're searching Skyreach Hold for more of the nirncrux element, which they refer to as ""the blood of Nirn."""
+msgstr ""
+
+#: 52420949-0-5766
+msgctxt "52420949-0-5766"
+msgid "Iron and Scales"
+msgstr ""
+
+#: 265851556-0-5766
+msgctxt "265851556-0-5766"
+msgid "I met an Iron Orc shaman who had been banished by a younger rival. What's more, this rival, named Agganor, seems to be responsible for the Iron Orc and Scaled Court alliance. The old shaman wants me to avenge him."
+msgstr ""
+
+#: 52420949-0-5765
+msgctxt "52420949-0-5765"
+msgid "Taken Alive"
+msgstr ""
+
+#: 265851556-0-5765
+msgctxt "265851556-0-5765"
+msgid "Iron Orcs, who usually don't take prisoners, have started abducting travelers near the Valley of Scars. I encountered a caravan master who survived an attack, though a number of his guards were dragged off by the Orcs."
+msgstr ""
+
+#: 52420949-0-5764
+msgctxt "52420949-0-5764"
+msgid "The Truer Fangs"
+msgstr ""
+
+#: 265851556-0-5764
+msgctxt "265851556-0-5764"
+msgid "Safa al-Satakalaam, a priest of Satakal, is at odds with the Scaled Court. Three of her most powerful acolytes have deserted her to worship the Celestial Serpent. She wants me to punish these traitors and deny their power to the Scaled Court."
+msgstr ""
+
+#: 52420949-0-5763
+msgctxt "52420949-0-5763"
+msgid "The Shattered and the Lost"
+msgstr ""
+
+#: 265851556-0-5763
+msgctxt "265851556-0-5763"
+msgid "I encountered a Star-Gazer who told me that two High Elf women inside the Crossroad Tavern claim to be aspects of the Celestial Mage. I should talk to them and investigate their claims."
+msgstr ""
+
+#: 52420949-0-5762
+msgctxt "52420949-0-5762"
+msgid "The Reason We Fight"
+msgstr ""
+
+#: 265851556-0-5761
+msgctxt "265851556-0-5761"
+msgid "The Celestial Thief appeared to me and asked for my help discovering why the atronachs that were summoned to destroy the Dark Anchors turned against the mages of Craglorn."
+msgstr ""
+
+#: 52420949-0-5760
+msgctxt "52420949-0-5760"
+msgid "The Missing Guardian"
+msgstr ""
+
+#: 265851556-0-5760
+msgctxt "265851556-0-5760"
+msgid "Hara has decided it's time to do something about the third guardian, the Thief. The Thief has been mysteriously absent except for when she appears to speak to me in private."
+msgstr ""
+
+#: 52420949-0-5759
+msgctxt "52420949-0-5759"
+msgid "Message Unknown"
+msgstr ""
+
+#: 265851556-0-5759
+msgctxt "265851556-0-5759"
+msgid "Hermaeus Mora asked me to bring him unique relics from across Craglorn in exchange for knowledge of the Celestials. Perhaps he'll be interested in this strange writing."
+msgstr ""
+
+#: 52420949-0-5758
+msgctxt "52420949-0-5758"
+msgid "Strange Lexicon"
+msgstr ""
+
+#: 265851556-0-5756
+msgctxt "265851556-0-5756"
+msgid "A giant object fell from the heavens when the Mage constellation disappeared. Sara Benele is examining the object, which she calls the ""Mage's Staff."" She believes the staff is unstable and needs my help to fix it."
+msgstr ""
+
+#: 52420949-0-5755
+msgctxt "52420949-0-5755"
+msgid "Supreme Power"
+msgstr ""
+
+#: 265851556-0-5755
+msgctxt "265851556-0-5755"
+msgid "Refugees outside of Elinhir told me that the city has been ransacked by mad mages. They sent me to Minerva Lauzon, who is gathering survivors in the sewers."
+msgstr ""
+
+#: 52420949-0-5754
+msgctxt "52420949-0-5754"
+msgid "Waters Run Foul"
+msgstr ""
+
+#: 265851556-0-5751
+msgctxt "265851556-0-5751"
+msgid "Outside the school of blades called Rahni'Za, I encountered an intiate of the school who told me that the Sword-Disciples have been turned into thralls by a traitor. This betrayer now hides in the cavern at the end of the school's five trials."
+msgstr ""
+
+#: 52420949-0-5750
+msgctxt "52420949-0-5750"
+msgid "The Fallen City of Shada"
+msgstr ""
+
+#: 265851556-0-5750
+msgctxt "265851556-0-5750"
+msgid "I found the ruins of a city called Shada's Tear in the middle of the Craglorn desert. A mercenary told me that some researchers from Belkarth went into the ruins, but that strange things started happening when they did."
+msgstr ""
+
+#: 52420949-0-5749
+msgctxt "52420949-0-5749"
+msgid "The Seeker's Archive"
+msgstr ""
+
+#: 265851556-0-5749
+msgctxt "265851556-0-5749"
+msgid "I met Ibrula, a friend of the Star-Gazers who is trying to get into a ruined temple called the Seeker's Archive. She hopes to discover information inside that will help defeat the Celestials."
+msgstr ""
+
+#: 52420949-0-5748
+msgctxt "52420949-0-5748"
+msgid "The Warrior's Call"
+msgstr ""
+
+#: 265851556-0-5748
+msgctxt "265851556-0-5748"
+msgid "I met a strange Imperial who was being held captive by the Daggerfall Covenant. He believes he knows how to defeat the cursed army of Anka-Ra that has laid siege to Craglorn since the Celestials appeared."
+msgstr ""
+
+#: 52420949-0-5747
+msgctxt "52420949-0-5747"
+msgid "The Star-Gazers"
+msgstr ""
+
+#: 265851556-0-5747
+msgctxt "265851556-0-5747"
+msgid "A Herald has come with tales of a dire threat in the distant land of Craglorn."
+msgstr ""
+
+#: 52420949-0-5746
+msgctxt "52420949-0-5746"
+msgid "The Corrupted Stone"
+msgstr ""
+
+#: 265851556-0-5746
+msgctxt "265851556-0-5746"
+msgid "The guardian star sign of the Warrior has failed to appear to protect the mortal world from the Serpent. One of the Star-Gazers needs help uncovering what might be happening."
+msgstr ""
+
+#: 52420949-0-5745
+msgctxt "52420949-0-5745"
+msgid "Molten Pearls of Alik'r Desert"
+msgstr ""
+
+#: 265851556-0-5745
+msgctxt "265851556-0-5745"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Aldunz, located in Alik'r Desert."
+msgstr ""
+
+#: 52420949-0-5744
+msgctxt "52420949-0-5744"
+msgid "Mascot Theft in Reaper's March"
+msgstr ""
+
+#: 265851556-0-5744
+msgctxt "265851556-0-5744"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Claw's Strike, located in Reaper's March."
+msgstr ""
+
+#: 265851556-0-5742
+msgctxt "265851556-0-5742"
+msgid "I summoned one of the fabled witchmothers, who are rumored to appear only during the Witches Festival! Legends say these strange beings can be bargained with for power."
+msgstr ""
+
+#: 52420949-0-5856
+msgctxt "52420949-0-5856"
+msgid "Stonetooth Bash"
+msgstr ""
+
+#: 52420949-0-5845
+msgctxt "52420949-0-5845"
+msgid "Castle Charm Challenge"
+msgstr ""
+
+#: 52420949-0-5841
+msgctxt "52420949-0-5841"
+msgid "At Any Cost"
+msgstr ""
+
+#: 52420949-0-5840
+msgctxt "52420949-0-5840"
+msgid "Reclaiming Vos"
+msgstr ""
+
+#: 52420949-0-5839
+msgctxt "52420949-0-5839"
+msgid "Signal Fire Sprint"
+msgstr ""
+
+#: 52420949-0-5838
+msgctxt "52420949-0-5838"
+msgid "Mud Ball Merriment"
+msgstr ""
+
+#: 52420949-0-5834
+msgctxt "52420949-0-5834"
+msgid "The Trial of Five-Clawed Guile"
+msgstr ""
+
+#: 52420949-0-5833
+msgctxt "52420949-0-5833"
+msgid "Dark Anchors in Glenumbra"
+msgstr ""
+
+#: 52420949-0-5831
+msgctxt "52420949-0-5831"
+msgid "Madness in the Rift"
+msgstr ""
+
+#: 52420949-0-5803
+msgctxt "52420949-0-5803"
+msgid "Divine Conundrum"
+msgstr ""
+
+#: 52420949-0-5802
+msgctxt "52420949-0-5802"
+msgid "Inflamed Pyres of the Rift"
+msgstr ""
+
+#: 52420949-0-5798
+msgctxt "52420949-0-5798"
+msgid "Veiled Darkness in Auridon"
+msgstr ""
+
+#: 52420949-0-5796
+msgctxt "52420949-0-5796"
+msgid "Dark Anchors in Greenshade"
+msgstr ""
+
+#: 52420949-0-5795
+msgctxt "52420949-0-5795"
+msgid "Dark Anchors in Malabal Tor"
+msgstr ""
+
+#: 52420949-0-5794
+msgctxt "52420949-0-5794"
+msgid "Dark Anchors in Grahtwood"
+msgstr ""
+
+#: 52420949-0-5793
+msgctxt "52420949-0-5793"
+msgid "Dark Anchors in Auridon"
+msgstr ""
+
+#: 52420949-0-5792
+msgctxt "52420949-0-5792"
+msgid "Dark Anchors in the Rift"
+msgstr ""
+
+#: 52420949-0-5791
+msgctxt "52420949-0-5791"
+msgid "Dark Anchors in Eastmarch"
+msgstr ""
+
+#: 52420949-0-5790
+msgctxt "52420949-0-5790"
+msgid "Dark Anchors in Shadowfen"
+msgstr ""
+
+#: 52420949-0-5789
+msgctxt "52420949-0-5789"
+msgid "Dark Anchors in Deshaan"
+msgstr ""
+
+#: 52420949-0-5788
+msgctxt "52420949-0-5788"
+msgid "Dark Anchors in Stonefalls"
+msgstr ""
+
+#: 52420949-0-5787
+msgctxt "52420949-0-5787"
+msgid "Dark Anchors in Bangkorai"
+msgstr ""
+
+#: 52420949-0-5786
+msgctxt "52420949-0-5786"
+msgid "Dark Anchors in Alik'r Desert"
+msgstr ""
+
+#: 52420949-0-5785
+msgctxt "52420949-0-5785"
+msgid "Dark Anchors in Rivenspire"
+msgstr ""
+
+#: 52420949-0-5784
+msgctxt "52420949-0-5784"
+msgid "Dark Anchors in Stormhaven"
+msgstr ""
+
+#: 52420949-0-5780
+msgctxt "52420949-0-5780"
+msgid "Pledge: Cradle of Shadows"
+msgstr ""
+
+#: 52420949-0-5761
+msgctxt "52420949-0-5761"
+msgid "Elemental Army"
+msgstr ""
+
+#: 52420949-0-5757
+msgctxt "52420949-0-5757"
+msgid "Gem of the Stars"
+msgstr ""
+
+#: 52420949-0-5756
+msgctxt "52420949-0-5756"
+msgid "Critical Mass"
+msgstr ""
+
+#: 52420949-0-5751
+msgctxt "52420949-0-5751"
+msgid "The Trials of Rahni'Za"
+msgstr ""
+
+#: 265851556-0-5739
+msgctxt "265851556-0-5739"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Ilessan Tower, located in Glenumbra."
+msgstr ""
+
+#: 265851556-0-5738
+msgctxt "265851556-0-5738"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in Wormroot Depths, located in Grahtwood."
+msgstr ""
+
+#: 265851556-0-5735
+msgctxt "265851556-0-5735"
+msgid "<<1>>, one of the Undaunted, gave me a challenge to complete in the Corpse Garden, located in Deshaan."
+msgstr ""

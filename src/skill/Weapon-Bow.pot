@@ -1,0 +1,292 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-85451
+msgctxt "132143172-0-85451"
+msgid "Summon a turret to unleash a barrage of arrows at an enemy, dealing <<1>> over <<2>>."
+msgstr ""
+
+#: 198758357-0-85451
+msgctxt "198758357-0-85451"
+msgid "Ballista"
+msgstr ""
+
+#: 132143172-0-85257
+msgctxt "132143172-0-85257"
+msgid "Unleash a barrage of arrows at an enemy, dealing <<1>> over <<2>>. \n\nAfter the barrage ends you poison the enemy, dealing an additional <<3>> over <<4>>.\n\nYou can move at full speed and are immune to all disabling effects while channeling this attack."
+msgstr ""
+
+#: 198758357-0-85257
+msgctxt "198758357-0-85257"
+msgid "Toxic Barrage"
+msgstr ""
+
+#: 132143172-0-83465
+msgctxt "132143172-0-83465"
+msgid "Unleash a barrage of arrows at an enemy, dealing <<1>> over <<2>>. \n\nYou can move at full speed and are immune to all disabling effects while channeling this attack."
+msgstr ""
+
+#: 198758357-0-83465
+msgctxt "198758357-0-83465"
+msgid "Rapid Fire"
+msgstr ""
+
+#: 132143172-0-45498
+msgctxt "132143172-0-45498"
+msgid "Grants you Major Expedition for <<1>> after you use Roll Dodge.\n\nMajor Expedition increases your Movement Speed by <<2>>."
+msgstr ""
+
+#: 198758357-0-45498
+msgctxt "198758357-0-45498"
+msgid "Hasty Retreat"
+msgstr ""
+
+#: 132143172-0-45497
+msgctxt "132143172-0-45497"
+msgid "Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by <<1>> for <<2>>, stacking up to |cffffff5|r times."
+msgstr ""
+
+#: 198758357-0-45497
+msgctxt "198758357-0-45497"
+msgid "Hawk Eye"
+msgstr ""
+
+#: 132143172-0-45494
+msgctxt "132143172-0-45494"
+msgid "Gives you a damage bonus of up to <<1>> against enemies at longer range."
+msgstr ""
+
+#: 198758357-0-45494
+msgctxt "198758357-0-45494"
+msgid "Long Shots"
+msgstr ""
+
+#: 132143172-0-45493
+msgctxt "132143172-0-45493"
+msgid "Reduces the Stamina cost of Bow abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-45493
+msgctxt "198758357-0-45493"
+msgid "Ranger"
+msgstr ""
+
+#: 132143172-0-45492
+msgctxt "132143172-0-45492"
+msgid "Increases Weapon Critical rating by <<1>>."
+msgstr ""
+
+#: 198758357-0-45492
+msgctxt "198758357-0-45492"
+msgid "Accuracy"
+msgstr ""
+
+#: 132143172-0-38705
+msgctxt "132143172-0-38705"
+msgid "Fire a burst of arrows in one shot, dealing <<1>> to enemies in front of you. \n\nEnemies afflicted are immobilized and have their Movement Speed reduced by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-38705
+msgctxt "198758357-0-38705"
+msgid "Bombard"
+msgstr ""
+
+#: 132143172-0-38701
+msgctxt "132143172-0-38701"
+msgid "Fire a burst of arrows in one shot, dealing <<1>> to enemies in front of you, and dealing an additional <<2>> over <<3>>."
+msgstr ""
+
+#: 198758357-0-38701
+msgctxt "198758357-0-38701"
+msgid "Acid Spray"
+msgstr ""
+
+#: 132143172-0-38695
+msgctxt "132143172-0-38695"
+msgid "Launch a multitude of arrows into the sky to rain down, dealing <<1>> to enemies in the target area every <<2>> for <<3>>, after a |cffffff2|r second delay."
+msgstr ""
+
+#: 198758357-0-38695
+msgctxt "198758357-0-38695"
+msgid "Arrow Barrage"
+msgstr ""
+
+#: 132143172-0-38689
+msgctxt "132143172-0-38689"
+msgid "Launch a multitude of arrows into the sky to rain down, dealing <<1>> to enemies in the target area every <<2>> for <<3>>, after a |cffffff2|r second delay."
+msgstr ""
+
+#: 198758357-0-38689
+msgctxt "198758357-0-38689"
+msgid "Endless Hail"
+msgstr ""
+
+#: 132143172-0-38687
+msgctxt "132143172-0-38687"
+msgid "Plant a masterfully aimed arrow in an enemy's vital spot, dealing <<1>>.\n\nAlso afflicts the enemy with <<2>>, which reduces their Physical Resistance by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-38687
+msgctxt "198758357-0-38687"
+msgid "Focused Aim"
+msgstr ""
+
+#: 132143172-0-38685
+msgctxt "132143172-0-38685"
+msgid "Plant a masterfully aimed arrow in an enemy's vital spot, dealing <<1>> and applying the Poisoned status effect.\n\nAlso afflicts enemy with <<2>>, which reduces their healing received and Health Recovery by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-38685
+msgctxt "198758357-0-38685"
+msgid "Lethal Arrow"
+msgstr ""
+
+#: 132143172-0-38672
+msgctxt "132143172-0-38672"
+msgid "Blast an enemy with an explosive arrow, dealing <<1>> and  knocking them back <<2>>."
+msgstr ""
+
+#: 198758357-0-38672
+msgctxt "198758357-0-38672"
+msgid "Magnum Shot"
+msgstr ""
+
+#: 132143172-0-38669
+msgctxt "132143172-0-38669"
+msgid "Blast an enemy with an enchanted arrow, dealing <<1>> and reducing their movement speed by <<2>> for <<3>>.\n\nIf the enemy is hit, you heal for <<4>>."
+msgstr ""
+
+#: 198758357-0-38669
+msgctxt "198758357-0-38669"
+msgid "Draining Shot"
+msgstr ""
+
+#: 132143172-0-38660
+msgctxt "132143172-0-38660"
+msgid "Shoot an arrow coated in Baandari poison at an enemy, dealing <<1>> and an additional <<2>> over <<3>>.\n\nDeals up to <<4>>% more damage to enemies under <<5>>% Health."
+msgstr ""
+
+#: 198758357-0-38660
+msgctxt "198758357-0-38660"
+msgid "Poison Injection"
+msgstr ""
+
+#: 132143172-0-38645
+msgctxt "132143172-0-38645"
+msgid "Shoot an arrow coated in Shadowscale poison at an enemy, dealing <<1>> and an additional <<2>> over <<3>>.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for <<4>>."
+msgstr ""
+
+#: 198758357-0-38645
+msgctxt "198758357-0-38645"
+msgid "Venom Arrow"
+msgstr ""
+
+#: 132143172-0-31271
+msgctxt "132143172-0-31271"
+msgid "Fire a burst of arrows in one shot, dealing <<1>> to enemies in front of you."
+msgstr ""
+
+#: 198758357-0-31271
+msgctxt "198758357-0-31271"
+msgid "Arrow Spray"
+msgstr ""
+
+#: 132143172-0-30942
+msgctxt "132143172-0-30942"
+msgid "Reduces the Stamina cost of Bow abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-30942
+msgctxt "198758357-0-30942"
+msgid "Ranger"
+msgstr ""
+
+#: 132143172-0-30937
+msgctxt "132143172-0-30937"
+msgid "Gives you a damage bonus of up to <<1>> against enemies at longer range."
+msgstr ""
+
+#: 198758357-0-30937
+msgctxt "198758357-0-30937"
+msgid "Long Shots"
+msgstr ""
+
+#: 132143172-0-30936
+msgctxt "132143172-0-30936"
+msgid "Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by <<1>> for <<2>>, stacking up to |cffffff5|r times."
+msgstr ""
+
+#: 198758357-0-30936
+msgctxt "198758357-0-30936"
+msgid "Hawk Eye"
+msgstr ""
+
+#: 132143172-0-30930
+msgctxt "132143172-0-30930"
+msgid "Increases Weapon Critical rating by <<1>>."
+msgstr ""
+
+#: 198758357-0-30930
+msgctxt "198758357-0-30930"
+msgid "Accuracy"
+msgstr ""
+
+#: 132143172-0-30923
+msgctxt "132143172-0-30923"
+msgid "Grants you Major Expedition for <<1>> after you use Roll Dodge.\n\nMajor Expedition increases your Movement Speed by <<2>>."
+msgstr ""
+
+#: 198758357-0-30923
+msgctxt "198758357-0-30923"
+msgid "Hasty Retreat"
+msgstr ""
+
+#: 132143172-0-28882
+msgctxt "132143172-0-28882"
+msgid "Plant a masterfully aimed arrow in an enemy's vital spot, dealing <<1>>."
+msgstr ""
+
+#: 198758357-0-28882
+msgctxt "198758357-0-28882"
+msgid "Snipe"
+msgstr ""
+
+#: 132143172-0-28879
+msgctxt "132143172-0-28879"
+msgid "Blast an enemy with an explosive arrow, dealing <<1>>, knocking them back <<2>>."
+msgstr ""
+
+#: 198758357-0-28879
+msgctxt "198758357-0-28879"
+msgid "Scatter Shot"
+msgstr ""
+
+#: 132143172-0-28876
+msgctxt "132143172-0-28876"
+msgid "Launch a multitude of arrows into the sky to rain down, dealing <<1>> to enemies in the target area every <<2>> for <<3>>, after a |cffffff2|r second delay."
+msgstr ""
+
+#: 198758357-0-28876
+msgctxt "198758357-0-28876"
+msgid "Volley"
+msgstr ""
+
+#: 132143172-0-28869
+msgctxt "132143172-0-28869"
+msgid "Shoot an arrow coated in Baandari poison at an enemy, dealing <<1>> and an additional <<2>> over <<3>>."
+msgstr ""
+
+#: 198758357-0-28869
+msgctxt "198758357-0-28869"
+msgid "Poison Arrow"
+msgstr ""

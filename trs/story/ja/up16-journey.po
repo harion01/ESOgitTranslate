@@ -1,0 +1,544 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 52420949-0-6134
+msgctxt "52420949-0-6134"
+msgid "The New Life Festival"
+msgstr "ニュー・ライフ・フェスティバル"
+
+#: 265851556-0-6134
+#, fuzzy
+msgctxt "265851556-0-6134"
+msgid "The New Life Festival is celebrated across Tamriel and all are welcome to join in. I should find out more about this celebration."
+msgstr "ニュー・ライフ・フェスティバルはタムリエル中で祝われ、誰もが参加を歓迎されている。この祝典について、さらに情報を集める"
+
+#: 52420949-0-6130
+msgctxt "52420949-0-6130"
+msgid "Room to Spare"
+msgstr "空き部屋"
+
+#: 265851556-0-6130
+msgctxt "265851556-0-6130"
+msgid "Felande Demarie, a friendly landlord, is looking for a tenant of good reputation to give her inn room to."
+msgstr "親切な大家のフェランデ・デマリエが、宿屋の部屋を貸すため、評判の良い借り手を探している"
+
+#: 52420949-0-6110
+msgctxt "52420949-0-6110"
+msgid "Glitter and Gleam"
+msgstr "ピカピカ輝くもの"
+
+#: 265851556-0-6110
+msgctxt "265851556-0-6110"
+msgid "The Bursar of Tributes seeks ornate items to add to the Blackfeather Court's hoard."
+msgstr "貢物の財務官は、ブラックフェザー宮廷の宝物庫に装飾品を加えたいようだ"
+
+#: 52420949-0-6107
+msgctxt "52420949-0-6107"
+msgid "A Matter of Leisure"
+msgstr "余暇の問題"
+
+#: 265851556-0-6107
+#, fuzzy
+msgctxt "265851556-0-6107"
+msgid "The Bursar of Tribute demands compensation for the Blackfeather Court from mortals who refuse to allow them to play with their games and toys."
+msgstr "貢物の財務官は、彼らがゲームと玩具で遊ぶことを認められないことに対して、ブラックフェザー宮廷のために償いを求めている"
+
+#: 52420949-0-6106
+msgctxt "52420949-0-6106"
+msgid "A Matter of Tributes"
+msgstr "貢物の問題"
+
+#: 265851556-0-6106
+msgctxt "265851556-0-6106"
+msgid "The Bursar of Tribute demands compensation for the Blackfeather Court from mortals who insult them and chase them away."
+msgstr "貢物の財務官は、ブラックフェザー宮廷を侮辱し、追い払った定命の者の償いを求めている"
+
+#: 52420949-0-6095
+#, fuzzy
+msgctxt "52420949-0-6095"
+msgid "The Registrar's Request"
+msgstr "記録保管ユニットの要請"
+
+#: 265851556-0-6095
+#, fuzzy
+msgctxt "265851556-0-6095"
+msgid "I found a sequence plaque on the road in the Clockwork City Radius. An engraving on the plaque asks that it be returned to the Clockwork Registrar in the Brass Fortress."
+msgstr "クロックワーク・シティのラディアスの道で、シークエンスプレートを見つけた。プレートには、真鍮要塞の記録保管ユニットに返却してほしいと彫られている"
+
+#: 52420949-0-6094
+msgctxt "52420949-0-6094"
+msgid "The Broken Brassilisk"
+msgstr "壊れたブラシリスク"
+
+#: 265851556-0-6094
+#, fuzzy
+msgctxt "265851556-0-6094"
+msgid "I found an inactive brassilisk in the Radius of the Clockwork City with the name ""Frynga"" carved into its jaw. If I find Frynga and return her mechanical pet, perhaps she will reward me."
+msgstr "クロックワーク・シティのラディアスで動かないブラシリスクを見つけた。「フリンガ」と名前が顎に彫られている。フリンガを見つけて機械のペットを戻せば、報酬をもらえるかもしれない"
+
+#: 52420949-0-6093
+msgctxt "52420949-0-6093"
+msgid "The Mage's Dog"
+msgstr "魔術師の犬"
+
+#: 265851556-0-6093
+msgctxt "265851556-0-6093"
+msgid "I found the journal of Orinol, a dead mage from the city of Cormount, in Grahtwood. He arrived in Clockwork City by accident and died in the Radius sometime later. His dying wish was that someone would care for his dog, Jona."
+msgstr "グラーウッド、コルマウント出身の魔術師、死亡したオリノルの日記を見つけた。彼は偶然クロックワーク・シティに到着し、後にラディアスで死亡した。彼の遺言によれば、誰かに飼い犬ジョナの世話を引き受けてほしいようだ"
+
+#: 52420949-0-6092
+#, fuzzy
+msgctxt "52420949-0-6092"
+msgid "The Merchant's Heirloom"
+msgstr "商人の家宝"
+
+#: 265851556-0-6092
+#, fuzzy
+msgctxt "265851556-0-6092"
+msgid "I found the abandoned journal of Dulza, an Orc merchant who somehow entered the Clockwork City during a fierce storm in Craglorn. Her greatest regret is that her clan in Fell's Run will never see their ancestral sword again."
+msgstr "捨てられたドゥルザの日記。オーク商人の彼女はクラグローンの激しい嵐により、どういうわけかクロックワーク・シティに入った。彼女の一番大きな後悔は、フェルズランにいるクランに二度と古代の剣を返せないことだ"
+
+#: 52420949-0-6090
+#, fuzzy
+msgctxt "52420949-0-6090"
+msgid "Saints' Mercy"
+msgstr "聖者の慈悲"
+
+#: 265851556-0-6090
+msgctxt "265851556-0-6090"
+msgid "Three Dark Elf Saints were granted the gift of immortality, in the form of ageless mechanical bodies created by the god Sotha Sil, at the price of their sanity. Now their madness poses a significant threat to the Clockwork City."
+msgstr "ダークエルフの聖者3人が、神であるソーサ・シルによって作られた、年を取らない機械の身体の姿で不死を与えられた。しかし、その代償として正気が失われた。今や、彼らはクロックワーク・シティに対する大きな脅威となった"
+
+#: 52420949-0-6089
+#, fuzzy
+msgctxt "52420949-0-6089"
+msgid "Replacing the Commutators"
+msgstr "整流器を交換する"
+
+#: 265851556-0-6089
+#, fuzzy
+msgctxt "265851556-0-6089"
+msgid "The Clockwork Apostles have tasked me to continue maintenance in the Halls of Regulation. I need to replace several brass commutators to prevent the galvanic engine from shutting down."
+msgstr "クロックワークの使徒より、ホール・オブ・レギュレーションの継続メンテナンス任務を受けた。真鍮整流器を交換し、ガルバニックエンジンの停止を防ぐ"
+
+#: 52420949-0-6088
+#, fuzzy
+msgctxt "52420949-0-6088"
+msgid "Changing the Filters"
+msgstr "フィルター交換"
+
+#: 265851556-0-6088
+#, fuzzy
+msgctxt "265851556-0-6088"
+msgid "The Clockwork Apostles have tasked me to continue maintenance in the Halls of Regulation. I need to replace several water filters in order to stop the possibility of contamination."
+msgstr "クロックワークの使徒より、ホール・オブ・レギュレーションの継続メンテナンス任務を受けた。濾過フィルターを交換し、汚染を阻止する"
+
+#: 52420949-0-6081
+#, fuzzy
+msgctxt "52420949-0-6081"
+msgid "Oiling the Fans"
+msgstr "換気扇の油差し"
+
+#: 265851556-0-6081
+#, fuzzy
+msgctxt "265851556-0-6081"
+msgid "The Clockwork Apostles have tasked me to continue maintenance in the Halls of Regulation. I need to grease a ventilation fan using oil found within the repair factotums."
+msgstr "クロックワークの使徒より、ホール・オブ・レギュレーションの継続メンテナンス任務を受けた。修理ファクトタムの体内に見つかる油を使い、換気扇に油を差す"
+
+#: 52420949-0-6080
+#, fuzzy
+msgctxt "52420949-0-6080"
+msgid "A Shadow Malfunction"
+msgstr "影の異常"
+
+#: 265851556-0-6080
+#, fuzzy
+msgctxt "265851556-0-6080"
+msgid "A Clockwork Apostle entered the Shadow Cleft and hasn't returned. What's worse, he forgot to take his perception tabulator with him."
+msgstr "クロックワークの使徒がシャドウクレフトに入ったまま戻っていない。より悪いことに、彼は知覚タビュレーターを忘れていった"
+
+#: 52420949-0-6079
+#, fuzzy
+msgctxt "52420949-0-6079"
+msgid "Again Into the Shadows"
+msgstr "再び影へ"
+
+#: 265851556-0-6079
+#, fuzzy
+msgctxt "265851556-0-6079"
+msgid "The Clockwork Apostles sent a member of the Mages Guild through the portal to explore the Shadow Cleft. She hasn't returned."
+msgstr "クロックワークの使徒は、魔術師ギルドの一員をポータル経由でシャドウクレフトの探索に派遣した。彼女はまだ戻っていない"
+
+#: 52420949-0-6078
+#, fuzzy
+msgctxt "52420949-0-6078"
+msgid "Family Feud"
+msgstr "兄妹喧嘩"
+
+#: 265851556-0-6078
+#, fuzzy
+msgctxt "265851556-0-6078"
+msgid "After an argument with his sister Kireth concerning Raynor's behavior during the Shadow Crisis, the young artificer stormed off and vowed to finish exploring the Clockwork City on his own. Kireth asked me to go help him."
+msgstr "若き発明家レイノーは、影の危機における自らの行動について妹のキレスと口論になり、怒って飛び出した上、クロックワーク・シティの探索は単独で終わらせると誓った。彼を助けるようキレスに頼まれた"
+
+#: 52420949-0-6077
+#, fuzzy
+msgctxt "52420949-0-6077"
+msgid "A Fine-Feathered Foe"
+msgstr "華麗なる羽根の敵"
+
+#: 265851556-0-6077
+#, fuzzy
+msgctxt "265851556-0-6077"
+msgid "I have accepted a contract to defeat the creature Wraith-of-Crows and other Daedric incursions in Clockwork City's Radius."
+msgstr "クロックワーク・シティのラディアスで、死霊カラスという獣や他のデイドラの襲撃を阻止する契約を結んだ"
+
+#: 52420949-0-6076
+#, fuzzy
+msgctxt "52420949-0-6076"
+msgid "Inciting the Imperfect"
+msgstr "〈不完全〉の扇動"
+
+#: 265851556-0-6076
+#, fuzzy
+msgctxt "265851556-0-6076"
+msgid "I've accepted a contract to defeat Sotha Sil's creation, the Imperfect, in order to test its capabilities. I've also been asked to gather its lost sequence plaques."
+msgstr "ソーサ・シルの作成物である〈不完全〉の能力を試すため、〈不完全〉を倒す契約を結んだ。失われたシークエンスプレートの回収も頼まれた"
+
+#: 52420949-0-6075
+#, fuzzy
+msgctxt "52420949-0-6075"
+msgid "The Oscillating Son"
+msgstr "揺れる息子"
+
+#: 265851556-0-6075
+msgctxt "265851556-0-6075"
+msgid "Now that I found all of the Precursor's parts, Associate Zanon wishes to present the factotum to his mentor."
+msgstr "〈先駆者〉の部品を全て見つけた。見習いザノンは、彼の師にファクトタムを見せたいと願っている"
+
+#: 52420949-0-6074
+msgctxt "52420949-0-6074"
+msgid "Cogs of Fate"
+msgstr "運命の歯車"
+
+#: 265851556-0-6074
+msgctxt "265851556-0-6074"
+msgid "The people of Slag Town apparently seek predictions about the future from a factotum known as the Grand Prognosticator. Kamid, whose mother died during the last pilgrimage, plans to prove that the oracle is a fraud."
+msgstr "どうやらスラグタウンの民は、偉大なる予知者と呼ばれるファクトタムの未来予知を求めているようだ。先の巡礼で母を失ったカミドは、予知者が詐欺師だと証明したがっている"
+
+#: 52420949-0-6073
+#, fuzzy
+msgctxt "52420949-0-6073"
+msgid "A Shadow Misplaced"
+msgstr "場所の違う影"
+
+#: 265851556-0-6073
+#, fuzzy
+msgctxt "265851556-0-6073"
+msgid "The Clockwork Apostles have sent explorers into the Shadow Cleft to find out more about the mysterious realm and the reason it's connected to Clockwork City. One explorer hasn't returned, and I agreed to try to find him."
+msgstr "クロックワークの使徒はシャドウクレフトに探検家を派遣し、謎の領域とクロックワーク・シティに通じている理由について調査している。探検者の1人が戻って来ていない。彼の捜索に同意した"
+
+#: 52420949-0-6072
+#, fuzzy
+msgctxt "52420949-0-6072"
+msgid "A Matter of Respect"
+msgstr "敬意の問題"
+
+#: 265851556-0-6072
+#, fuzzy
+msgctxt "265851556-0-6072"
+msgid "The Bursar of Tribute demands compensation for the Blackfeather Court from mortals who refuse to die so they can be pecked apart and eaten."
+msgstr "貢物の財務官は、定命の者が死亡を拒み、つつき回して食べられないことに対して、ブラックフェザー宮廷のために償いを求めている"
+
+#: 52420949-0-6071
+#, fuzzy
+msgctxt "52420949-0-6071"
+msgid "Morsels and Pecks"
+msgstr "残飯とついばみ"
+
+#: 265851556-0-6071
+#, fuzzy
+msgctxt "265851556-0-6071"
+msgid "The Bursar of Tributes seeks items of flesh to add to the Blackfeather Court's hoard."
+msgstr "貢物の財務官は、ブラックフェザー宮廷の宝物庫に肉を加えたいようだ"
+
+#: 52420949-0-6070
+#, fuzzy
+msgctxt "52420949-0-6070"
+msgid "Nibbles and Bits"
+msgstr "つまみと肉片"
+
+#: 265851556-0-6070
+#, fuzzy
+msgctxt "265851556-0-6070"
+msgid "The Bursar of Tributes seeks items of flesh to add to the Blackfeather Court's hoard."
+msgstr "貢物の財務官は、ブラックフェザー宮廷の宝物庫に肉を加えたいようだ"
+
+#: 52420949-0-6066
+#, fuzzy
+msgctxt "52420949-0-6066"
+msgid "The Precursor"
+msgstr "〈先駆者〉"
+
+#: 265851556-0-6066
+#, fuzzy
+msgctxt "265851556-0-6066"
+msgid "Associate Zanon has asked for my assistance in rebuilding an ancient factotum. Doing so will allow him to better understand the creation of factotums, a mystery to all but Sotha Sil."
+msgstr "見習いザノンはある古代のファクトタムを復元するため協力を求めてきた。そうすることで彼はソーサ・シル以外の者には謎のままになっている、ファクトタムの創造について理解を深められる"
+
+#: 52420949-0-6063
+msgctxt "52420949-0-6063"
+msgid "The Strangeness of Seht"
+msgstr "セトの奇行"
+
+#: 265851556-0-6063
+msgctxt "265851556-0-6063"
+msgid "Divayth Fyr is convinced that something sinister is driving Sotha Sil's recent change of character. He asked me to help him root out the cause of the Clockwork God's new and peculiar behavior."
+msgstr "ディヴァイス・ファーは、近頃のソーサ・シルの性格の変化が、何か不吉なものによって引き起こされたと確信している。彼はクロックワークの神の新しい、奇怪な行動の原因を探るよう依頼してきた"
+
+#: 52420949-0-6061
+#, fuzzy
+msgctxt "52420949-0-6061"
+msgid "A Matter of Tenderness"
+msgstr "柔らかさの問題"
+
+#: 265851556-0-6061
+#, fuzzy
+msgctxt "265851556-0-6061"
+msgid "Brengolin, the cook in Slag Town, needs some assistance in creating some unconventional cuisine. His meat stores are presently empty, so I agreed to assist him with restocking."
+msgstr "スラグタウンの料理人ブレンゴリンは一風変わった料理を作るために助力を求めている。彼の肉の貯蔵庫は現在空になっており、補充に協力することにした"
+
+#: 52420949-0-6060
+#, fuzzy
+msgctxt "52420949-0-6060"
+msgid "Tasty Tongue Varnish"
+msgstr "美味しい舌のニス"
+
+#: 265851556-0-6060
+#, fuzzy
+msgctxt "265851556-0-6060"
+msgid "Brengolin, the cook in Slag Town, needs some assistance in creating some unconventional cuisine. This time he's asked me to procure him some Bosmer Root Liqueur."
+msgstr "スラグタウンの料理人ブレンゴリンは一風変わった料理を作るために助力を求めている。今回はボズマーのルート・リカーを入手するよう頼まれた"
+
+#: 52420949-0-6059
+msgctxt "52420949-0-6059"
+msgid "Tarnished Truffles"
+msgstr "汚れし者のトリュフ"
+
+#: 265851556-0-6059
+#, fuzzy
+msgctxt "265851556-0-6059"
+msgid "Brengolin, the cook in Slag Town, needs some assistance in creating some unconventional cuisine and I have agreed to lend him a hand."
+msgstr "スラグタウンの料理人ブレンゴリンは、一風変わった料理を作るために助力を求めている。手を貸すことにした"
+
+#: 52420949-0-6058
+msgctxt "52420949-0-6058"
+msgid "The Halls of Regulation"
+msgstr "ホール・オブ・レギュレーション"
+
+#: 265851556-0-6058
+msgctxt "265851556-0-6058"
+msgid "The Halls of Regulation have begun to break down, threatening the water supply throughout Clockwork City. I've agreed to help <<1>> make repairs by protecting her as we gather parts and fix machinery."
+msgstr "ホール・オブ・レギュレーションが機能を停止し、クロックワーク・シティ全体の水資源が脅かされている。<<1>>が修理を行えるように、彼女を護衛して部品を集め、装置を修復すると承諾した"
+
+#: 52420949-0-6057
+msgctxt "52420949-0-6057"
+msgid "In Search of a Sponsor"
+msgstr "保証人求む"
+
+#: 265851556-0-6057
+msgctxt "265851556-0-6057"
+msgid "The High Elf explorer, Neramo, and his two associates, Kireth and Raynor, have a plan to win the sponsorship of an influential Clockwork Apostle named Varuni Arvel. We'll need her support to become bonafide citizens of the Clockwork City."
+msgstr "ハイエルフの探検家ネラモと、二人の助手キレスとレイノーは、ヴァルーニ・アーヴェルという有力なクロックワークの使徒から保証を得ようとしている。クロックワーク・シティの真の市民となるため、彼女の支援が必要だ"
+
+#: 52420949-0-6056
+msgctxt "52420949-0-6056"
+msgid "The Astronomer's Apprentice"
+msgstr "〈星詠み〉の見習い"
+
+#: 265851556-0-6056
+msgctxt "265851556-0-6056"
+msgid "Cultists have attacked the Mnemonic Planisphere in order to steal Sotha Sil's memories, manifested as glowing stars. Amili Lloryn has tasked me to rescue these stars and return them to the Planisphere's sky."
+msgstr "光る星の形を取ったソーサ・シルの記憶を盗むため、信者が記憶のプラニスフィアを攻撃した。アミリ・ローリンは星を回収し、プラニスフィアの空に戻してほしいと依頼してきた"
+
+#: 52420949-0-6052
+msgctxt "52420949-0-6052"
+msgid "Lost in the Gloam"
+msgstr "グロームの落とし物"
+
+#: 265851556-0-6052
+msgctxt "265851556-0-6052"
+msgid "According to Gascone, a murder of crows stole a mysterious key from his office in the Clockwork Basilica—the same key that Clavicus Vile and the mysterious shadow cultists seek. I must find this key before the enemy does."
+msgstr "ガスコーンによると、カラスの群れはクロックワーク・バシリカにある彼の執務室から、奇妙な鍵を盗んだらしい。クラヴィカス・ヴァイルと謎めいた影の信者たちが探している鍵だ。敵よりも先に鍵を見つける"
+
+#: 52420949-0-6050
+msgctxt "52420949-0-6050"
+msgid "To The Clockwork City"
+msgstr "クロックワーク・シティへ"
+
+#: 265851556-0-6049
+#, fuzzy
+msgctxt "265851556-0-6049"
+msgid "One of Sotha Sil's Clockwork Apostles, an adjunct named Daro, asked me to use an unusual device called a perception tabulator to find his associate and investigate a mysterious portal that appeared in the Radius."
+msgstr "ソーサ・シルのクロックワークの使徒の一人、助師ダロが知覚タビュレーターという見慣れない装置を使って助手を見つけ、ラディアスに出現した謎のポータルを調べてほしいと頼んできた"
+
+#: 52420949-0-6048
+msgctxt "52420949-0-6048"
+msgid "The Light of Knowledge"
+msgstr "知識の光"
+
+#: 265851556-0-6048
+msgctxt "265851556-0-6048"
+msgid "My companions and I turned back the Daedric incursion into the Clockwork City and rescued Sotha Sil from his own shadow. Now, the Clockwork God has some wisdom to share before he leaves."
+msgstr "クロックワーク・シティへのデイドラの侵略を追い返し、ソーサ・シルを影から救出した。クロックワークの神は、立ち去る前に知恵を授けてくれるようだ"
+
+#: 52420949-0-6047
+msgctxt "52420949-0-6047"
+msgid "Where Shadows Lie"
+msgstr "影のさす場所"
+
+#: 265851556-0-6047
+msgctxt "265851556-0-6047"
+msgid "Luciana and I cleared the way to the Cogitum Centralis. Now we must delve deep into the core of the Clockwork City to stop the Shadow of Sotha Sil."
+msgstr "ルシアーナとコギタム・セントラリスへの道を開いた。これからクロックワーク・シティの中心へ入り、ソーサ・シルの影を阻止する"
+
+#: 52420949-0-6046
+msgctxt "52420949-0-6046"
+msgid "Unto the Dark"
+msgstr "闇の中へ"
+
+#: 265851556-0-6046
+msgctxt "265851556-0-6046"
+msgid "The Shadow of Sotha Sil, having claimed the Skeleton Key from the Blackfeather Court, is making his way to the center of the Clockwork City—The Cogitum Centralis. Proctor Luciana and I must find some way to follow him."
+msgstr "ブラックフェザー宮廷から不壊のピックを手に入れたソーサ・シルの影は、クロックワーク・シティの中心部、コギタム・セントラリスへ向かっている。代弁者ルシアーナと、彼を追うための道を探す"
+
+#: 52420949-0-6045
+msgctxt "52420949-0-6045"
+msgid "Oasis in a Metal Desert"
+msgstr "金属砂漠のオアシス"
+
+#: 265851556-0-6045
+msgctxt "265851556-0-6045"
+msgid "Lector Naril oversees the Everwound Wellspring, an oasis in the mechanical desert that is the Clockwork City. He has found a way to grow plants in the metallic soil. Once every year, he shares his harvest and selects a new apprentice."
+msgstr "読師ナリルはクロックワーク・シティの機械の砂漠に存在するオアシス、〈巻かれ続ける源泉〉を監督している。彼は金属の土壌に植物を育てる方法を発見した。毎年一度、彼は収穫物を共有し、新しい見習いを選ぶ"
+
+#: 52420949-0-6042
+#, fuzzy
+msgctxt "52420949-0-6042"
+msgid "A Bitter Pill"
+msgstr "苦い薬"
+
+#: 265851556-0-6042
+#, fuzzy
+msgctxt "265851556-0-6042"
+msgid "<<1>> requested I gather herbalist's satchels which contain alchemical plants in Clockwork City. I'll also need to collect a sweet syrup to help subdue the bitterness of the tonic created from the satchel's plants."
+msgstr "錬金術の植物が入った植物学者のかばんをクロックワーク・シティで集めるよう<<1>>に依頼された。また、かばんに入った植物で作られるトニックの苦みを抑える、甘いシロップも集める"
+
+#: 52420949-0-6041
+#, fuzzy
+msgctxt "52420949-0-6041"
+msgid "Enchanted Accumulation"
+msgstr "付呪の重複"
+
+#: 265851556-0-6041
+#, fuzzy
+msgctxt "265851556-0-6041"
+msgid "<<1>> requested I gather a magical substance from the runestones in Clockwork City. I'll also need to collect a special crystal that causes the residue to glow."
+msgstr "クロックワーク・シティのルーンストーンから、ある魔法の物質を集めるよう<<1>>に依頼された。残滓を光らせるための特殊なクリスタルも集める"
+
+#: 52420949-0-6040
+#, fuzzy
+msgctxt "52420949-0-6040"
+msgid "A Sticky Solution"
+msgstr "粘つく解決法"
+
+#: 265851556-0-6040
+#, fuzzy
+msgctxt "265851556-0-6040"
+msgid "<<1>> requested I gather gather the husks of Clockwork trees for an adhesive. I'll also need to collect artificial coal to help keep the sap warm."
+msgstr "接着剤のため、クロックワークの木のハスクを集めるよう<<1>>に依頼された。樹液を温めるため、人工石炭も集める"
+
+#: 52420949-0-6039
+#, fuzzy
+msgctxt "52420949-0-6039"
+msgid "Loose Strands"
+msgstr "ほどけた糸"
+
+#: 265851556-0-6039
+#, fuzzy
+msgctxt "265851556-0-6039"
+msgid "<<1>> requested I gather the metal strands weaved within cloths in Clockwork City. I also need to collect components for an artificial lodestone that is used in harvesting the metal strands."
+msgstr "クロックワーク・シティの布に縫い込まれた金属紐を集めるよう<<1>>に依頼された。金属紐を回収するために使われる、人工磁鉄鉱の材料も集める"
+
+#: 52420949-0-6038
+#, fuzzy
+msgctxt "52420949-0-6038"
+msgid "A Daily Grind"
+msgstr "日々の作業"
+
+#: 265851556-0-6038
+#, fuzzy
+msgctxt "265851556-0-6038"
+msgid "<<1>> requested I gather a strange material called flash stone which can be turned into a useful powder. I'll also need to collect metal pellets that help in the grinding process."
+msgstr "フラッシュストーンという、便利な粉になる奇妙な素材を集めるよう<<1>>に依頼された。挽いて使う金属ペレットも集める"
+
+#: 52420949-0-6037
+#, fuzzy
+msgctxt "52420949-0-6037"
+msgid "Fuel for our Fires"
+msgstr "我らが火の燃料"
+
+#: 265851556-0-6037
+#, fuzzy
+msgctxt "265851556-0-6037"
+msgid "<<1>> requested I gather oil from the water within Clockwork City. I'll also need to gather supplies to create more tools for future collecting."
+msgstr "<<1>>はクロックワーク・シティの水から油を集めるよう依頼してきた。回収作業に使う道具をもっと作るため、物資も集める"
+
+#: 52420949-0-6036
+#, fuzzy
+msgctxt "52420949-0-6036"
+msgid "Most Complicated Machine"
+msgstr "最も込み入った機械"
+
+#: 265851556-0-6036
+#, fuzzy
+msgctxt "265851556-0-6036"
+msgid "Proctor Sovor Saryoni, a ranking Clockwork Apostle, is dying and has asked me to help save his life. He believes his only hope to continue his existence lies in an experiment conducted by a former apostle, but she was exiled long ago because of it."
+msgstr "クロックワークの使徒の幹部である代弁者ソヴォー・サリョーニは瀕死の状態にあり、自分の命を救うため協力を求めてきた。彼が生き続けるための唯一の希望は、ある元使徒が行った実験にある。しかし彼女はずっと以前に、その実験のため追放されている"
+
+#: 52420949-0-6025
+msgctxt "52420949-0-6025"
+msgid "Deepening Shadows"
+msgstr "深まる影"
+
+#: 265851556-0-6025
+msgctxt "265851556-0-6025"
+msgid "In the wake of the Shadow of Sotha Sil's attack, Gascone has gone missing.  I should find him and see if he has any insight into what the shadow is and why it was in the Brass Fortress."
+msgstr "ソーサ・シルの影の攻撃に続いて、ガスコーンが行方不明になっている。彼を探し出し、影の正体となぜ真鍮要塞にいるのか、知っているかどうかを確かめる"
+
+#: 52420949-0-6024
+#, fuzzy
+msgctxt "52420949-0-6024"
+msgid "Glitter and Gleam"
+msgstr "ピカピカ輝くもの"
+
+#: 265851556-0-6024
+#, fuzzy
+msgctxt "265851556-0-6024"
+msgid "The Bursar of Tributes seeks a particular treasure to add to the Blackfeather Court's hoard."
+msgstr "貢物の財務官は、ブラックフェザー宮廷の宝物庫に特定の宝を加えたいようだ"
+
+#: 52420949-0-6049
+msgctxt "52420949-0-6049"
+msgid "The Shadow Cleft"
+msgstr "シャドウクレフト"

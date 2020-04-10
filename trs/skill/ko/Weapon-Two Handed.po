@@ -1,0 +1,293 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-83238
+msgctxt "132143172-0-83238"
+msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for <<2>>.\n\nYou are immune to all disabling, snare, and immobilization effects for the duration."
+msgstr "주변의 적들에게 용감한 일격을 날려 <<1>>를 줍니다.\n\n이 공격은 표적의 저항력을 무시하며, 무시한 양만큼 당신의 물리 및 마법 저항력이 <<2>> 동안 증가합니다.\n\n효과가 지속되는 동안 모든 이동 방해 효과에 면역이 됩니다."
+
+#: 198758357-0-83238
+msgctxt "198758357-0-83238"
+msgid "Berserker Rage"
+msgstr "Berserker Rage"
+
+#: 132143172-0-83229
+msgctxt "132143172-0-83229"
+msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for your Direct Damage attacks equal to <<2>> of the amount ignored from the initial target for <<3>>."
+msgstr "주변의 적에게 용감한 일격을 날려 <<1>>를 줍니다.\n\n이 공격은 표적의 저항력을 무시하며, 무시한 양의 <<2>>만큼 직접 공격의 물리 및 마법 관통력이 <<3>> 동안 증가합니다."
+
+#: 198758357-0-83229
+msgctxt "198758357-0-83229"
+msgid "Onslaught"
+msgstr "Onslaught"
+
+#: 132143172-0-83216
+msgctxt "132143172-0-83216"
+msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies\n\nThis attack ignores the target's Physical Resistance, and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for <<2>>."
+msgstr "적에게 용감한 일격을 날려 <<1>>를 줍니다.\n\n이 공격은 표적의 저항력을 무시하며, 무시한 양만큼 당신의 물리 및 마법 저항력이 <<2>> 동안 증가합니다."
+
+#: 198758357-0-83216
+msgctxt "198758357-0-83216"
+msgid "Berserker Strike"
+msgstr "Berserker Strike"
+
+#: 132143172-0-45448
+msgctxt "132143172-0-45448"
+msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
+msgstr "표적을 죽인 후 스태미나 재생이 <<2>> 동안 <<1>> 증가합니다."
+
+#: 198758357-0-45448
+msgctxt "198758357-0-45448"
+msgid "Battle Rush"
+msgstr "Battle Rush"
+
+#: 132143172-0-45446
+msgctxt "132143172-0-45446"
+msgid "When you deal damage with a fully-charged Heavy Attack, your next direct damage attack used within <<1>> deals an additional <<2>> damage."
+msgstr "완전히 충전된 강공격에 성공하면 다음 공격의 피해량이 <<2>> 동안 <<1>> 증가합니다."
+
+#: 198758357-0-45446
+msgctxt "198758357-0-45446"
+msgid "Follow Up"
+msgstr "Follow Up"
+
+#: 132143172-0-45444
+msgctxt "132143172-0-45444"
+msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
+msgstr "약공격과 강공격이 최대 |cffffff3|r명 까지 주변의 적에게도 표적이 받은 피해의 <<1>>% 만큼 피해를 줍니다."
+
+#: 198758357-0-45444
+msgctxt "198758357-0-45444"
+msgid "Forceful"
+msgstr "Forceful"
+
+#: 132143172-0-45443
+msgctxt "132143172-0-45443"
+msgid "Reduces the Stamina cost of your Two-Handed abilities by <<1>>."
+msgstr "양손무기 어빌리티의 스태미나 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-45443
+msgctxt "198758357-0-45443"
+msgid "Balanced Blade"
+msgstr "Balanced Blade"
+
+#: 132143172-0-45430
+msgctxt "132143172-0-45430"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks a |cffffff16|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+msgstr "착용한 무기에 따라 다음의 효과를 얻습니다:\n\n검으로 가하는 피해량이 <<1>> 증가합니다.\n\n도끼로 근접 공격을 할 때 |cffffff16|r% 확률로 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n둔기로 가하는 공격은 표적의 물리 저항력을 <<4>>% 무시합니다."
+
+#: 198758357-0-45430
+msgctxt "198758357-0-45430"
+msgid "Heavy Weapons"
+msgstr "Heavy Weapons"
+
+#: 132143172-0-38823
+msgctxt "132143172-0-38823"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health.\n\nOther enemies nearby take <<4>>% of the damage inflicted to the primary target."
+msgstr "회전하며 적을 공격해 <<1>>를 줍니다. 체력이<<3>>% 이하인 적에게 적이 입은 피해에 비례해 피해량이 최대 <<2>>% 까지 증가합니다.\n\n표적 주변의 적에게 표적이 받은 피해의 <<4>>% 피해를 줍니다."
+
+#: 198758357-0-38823
+msgctxt "198758357-0-38823"
+msgid "Reverse Slice"
+msgstr "Reverse Slice"
+
+#: 132143172-0-38819
+msgctxt "132143172-0-38819"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
+msgstr "회전하며 적을 공격해 <<1>>를 줍니다. 체력이<<3>>% 이하인 적에게 적이 입은 피해에 비례해 피해량이 최대 <<2>>% 까지 증가합니다."
+
+#: 198758357-0-38819
+msgctxt "198758357-0-38819"
+msgid "Executioner"
+msgstr "Executioner"
+
+#: 132143172-0-38814
+#, fuzzy
+msgctxt "132143172-0-38814"
+msgid "Slam an enemy with an upward swing, dealing <<1>> and setting them Off Balance for <<2>>.  \n\nHitting an enemy that is already Off Balance stuns them for <<3>>.\n\nTargets that are immune to Off Balance are snared by <<4>> for <<5>>."
+msgstr "적을 위로 올려 베어 <<1>>를 줍니다. 맞은 적은 <<2>> 동안 Off Balance 효과를 받습니다."
+
+#: 198758357-0-38814
+msgctxt "198758357-0-38814"
+msgid "Dizzying Swing"
+msgstr "Dizzying Swing"
+
+#: 132143172-0-38807
+msgctxt "132143172-0-38807"
+msgid "Slam an enemy with an upward swing, dealing <<1>>.\n\nGrants you Empower for <<2>>, increasing the damage of your next Light Attack by <<3>>."
+msgstr "적을 위로 올려 쳐 <<1>>를 줍니다.\n\n<<2>> 동안 Empower 효과를 얻어 다음 약공격이 입히는 피해가 <<3>> 증가합니다."
+
+#: 198758357-0-38807
+msgctxt "198758357-0-38807"
+msgid "Wrecking Blow"
+msgstr "Wrecking Blow"
+
+#: 132143172-0-38802
+msgctxt "132143172-0-38802"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nYou heal for <<4>> Health when Rally ends. The final heal is increased by |cffffff15|r% every <<5>>, up to a maximum of |cffffff300|r%."
+msgstr "힘을 집중해서 Major Brutality 효과를 얻어 무기 데미지가 <<3>> 동안 <<1>> 증가하고, <<3>>동안 Minor Endurance효과를 얻어 스테미나 회복량이 <<2>> 증가합니다.\n\n효과가 끝날 때 <<4>> 체력을 회복합니다. 회복량은 매 <<5>>마다 |cffffff15|r% 증가하며, 최대 |cffffff300|r% 까지 증가합니다."
+
+#: 198758357-0-38802
+msgctxt "198758357-0-38802"
+msgid "Rally"
+msgstr "Rally"
+
+#: 132143172-0-38794
+msgctxt "132143172-0-38794"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<4>>."
+msgstr "힘을 집중해서 Major Brutality 효과를 얻어 무기 데미지가 <<3>> 동안 <<1>> 증가하고, <<3>>동안 Minor Endurance효과를 얻어 스테미나 회복량이 <<2>> 증가합니다.\n\n이 어빌리티를 발동시키면 모든 이동 방해 효과가 제거되고 <<4>> 동안 면역 효과를 얻습니다."
+
+#: 198758357-0-38794
+msgctxt "198758357-0-38794"
+msgid "Forward Momentum"
+msgstr "Forward Momentum"
+
+#: 132143172-0-38788
+msgctxt "132143172-0-38788"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>.  This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing <<2>> to all enemies in the area every <<3>> for <<4>>."
+msgstr "지면을 가르며 돌진해 적을 강타하며 <<1>>를 줍니다. 이 공격은 항상 치명타로 적중합니다.\n\n대상에게 돌진하는동안 갈라진 지면에 있는 적들은 <<4>>동안 매 <<3>> 마다 <<2>> 피해를 입습니다."
+
+#: 198758357-0-38788
+msgctxt "198758357-0-38788"
+msgid "Stampede"
+msgstr "Stampede"
+
+#: 132143172-0-38778
+msgctxt "132143172-0-38778"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>. Deals up to |cffffff50|r% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike."
+msgstr "지면을 가르며 돌진해 적을 강타하며 <<1>>를 줍니다. 이동한 거리에 비례해 최대 |cffffff50|r%까지의 추가 피해를 줍니다.\n\n이 공격은 항상 치명타로 적중합니다."
+
+#: 198758357-0-38778
+msgctxt "198758357-0-38778"
+msgid "Critical Rush"
+msgstr "Critical Rush"
+
+#: 132143172-0-38754
+msgctxt "132143172-0-38754"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you.\n\nYou also gain a damage shield that absorbs <<2>> damage for <<3>>. Each enemy hit increases the damage shield's strength by <<4>>%, up to |cffffff300|r%."
+msgstr "전방의 적들에게 강력한 휘둘러베기로 <<1>>를 줍니다.\n\n또한 <<2>> 피해를 흡수하는 보호막을 <<3>> 동안 얻습니다. 맞은 적의 수 만큼 보호막의 강도가 <<4>>% 증가합니다. 최대 |cffffff300|r% 까지 증가합니다."
+
+#: 198758357-0-38754
+msgctxt "198758357-0-38754"
+msgid "Brawler"
+msgstr "Brawler"
+
+#: 132143172-0-38745
+msgctxt "132143172-0-38745"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you, and causing them to bleed for an additional <<2>> over <<3>>."
+msgstr "전방의 적들에게 강력한 휘둘러베기로 <<1>>를 주고 출혈시켜 추가로 <<3>>에 걸쳐 <<2>>를 줍니다."
+
+#: 198758357-0-38745
+msgctxt "198758357-0-38745"
+msgid "Carve"
+msgstr "Carve"
+
+#: 132143172-0-29391
+msgctxt "132143172-0-29391"
+msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
+msgstr "표적을 죽인 후 스태미나 재생이 <<2>> 동안 <<1>> 증가합니다."
+
+#: 198758357-0-29391
+msgctxt "198758357-0-29391"
+msgid "Battle Rush"
+msgstr "Battle Rush"
+
+#: 132143172-0-29389
+msgctxt "132143172-0-29389"
+msgid "When you deal damage with a fully-charged Heavy Attack, your next direct damage attack used within <<1>> deals an additional <<2>> damage."
+msgstr "완전히 충전된 강공격에 성공하면 다음 공격의 피해량이 <<2>> 동안 <<1>> 증가합니다."
+
+#: 198758357-0-29389
+msgctxt "198758357-0-29389"
+msgid "Follow Up"
+msgstr "Follow Up"
+
+#: 132143172-0-29388
+msgctxt "132143172-0-29388"
+msgid "Reduces the Stamina cost of your Two-Handed abilities by <<1>>."
+msgstr "양손무기 어빌리티의 스태미나 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-29388
+msgctxt "198758357-0-29388"
+msgid "Balanced Blade"
+msgstr "Balanced Blade"
+
+#: 132143172-0-29387
+msgctxt "132143172-0-29387"
+msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
+msgstr "약공격과 강공격이 최대 |cffffff3|r명까지 주변의 적에게도 표적이 받은 피해의 <<1>>% 만큼 피해를 줍니다."
+
+#: 198758357-0-29387
+msgctxt "198758357-0-29387"
+msgid "Forceful"
+msgstr "Forceful"
+
+#: 132143172-0-29375
+msgctxt "132143172-0-29375"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks an |cffffff8|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+msgstr "착용한 무기에 따라 다음의 효과를 얻습니다:\n\n검이 가하는 피해량이 <<1>> 증가합니다.\n\n도끼로 근접 공격을 할 때 |cffffff8|r% 확률로 출혈을 일으켜 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n둔기로 가하는 공격은 표적의 물리 저항력을 <<4>>% 무시합니다."
+
+#: 198758357-0-29375
+msgctxt "198758357-0-29375"
+msgid "Heavy Weapons"
+msgstr "Heavy Weapons"
+
+#: 132143172-0-28448
+msgctxt "132143172-0-28448"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>. \n\nThis attack is always a Critical Strike."
+msgstr "지면을 가르며 돌진해 적을 강타하며 <<1>>를 줍니다.\n\n이 공격은 항상 치명타로 적중합니다."
+
+#: 198758357-0-28448
+msgctxt "198758357-0-28448"
+msgid "Critical Charge"
+msgstr "Critical Charge"
+
+#: 132143172-0-28302
+msgctxt "132143172-0-28302"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
+msgstr "회전하며 적을 공격해 <<1>>를 줍니다. 체력이<<3>>% 이하인 적에게 적이 입은 피해에 비례해 피해량이 최대 <<2>>% 까지 증가합니다."
+
+#: 198758357-0-28302
+msgctxt "198758357-0-28302"
+msgid "Reverse Slash"
+msgstr "Reverse Slash"
+
+#: 132143172-0-28297
+msgctxt "132143172-0-28297"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>."
+msgstr "힘을 집중해서 Major Brutality 효과를 얻어 무기 데미지가 <<3>> 동안 <<1>> 증가하고, <<3>>동안 Minor Endurance효과를 얻어 스테미나 회복량이 <<2>> 증가합니다."
+
+#: 198758357-0-28297
+msgctxt "198758357-0-28297"
+msgid "Momentum"
+msgstr "Momentum"
+
+#: 132143172-0-28279
+msgctxt "132143172-0-28279"
+msgid "Slam an enemy with an upward swing, dealing <<1>>."
+msgstr "적을 위로 올려 베어 <<1>>를 줍니다."
+
+#: 198758357-0-28279
+msgctxt "198758357-0-28279"
+msgid "Uppercut"
+msgstr "Uppercut"
+
+#: 132143172-0-20919
+msgctxt "132143172-0-20919"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you."
+msgstr "전방의 적들에게 강력한 휘둘러베기로 <<1>>를 줍니다."
+
+#: 198758357-0-20919
+msgctxt "198758357-0-20919"
+msgid "Cleave"
+msgstr "Cleave"

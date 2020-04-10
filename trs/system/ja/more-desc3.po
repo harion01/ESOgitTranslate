@@ -1,0 +1,3258 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 171157587-0-2038
+msgctxt "171157587-0-2038"
+msgid "Consumable, Dye Stamp, Color, RED, BLUE, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、赤、青、黄"
+
+#: 171157587-0-2037
+msgctxt "171157587-0-2037"
+msgid "Consumable, Dye Stamp, Color, RED, YELLOW, BLUE"
+msgstr "消費アイテム、染料スタンプ、色、赤、黄、青"
+
+#: 171157587-0-2036
+msgctxt "171157587-0-2036"
+msgid "Consumable, Dye Stamp, Color, YELLOW, RED, BLUE"
+msgstr "消費アイテム、染料スタンプ、色、黄、赤、青"
+
+#: 171157587-0-2035
+msgctxt "171157587-0-2035"
+msgid "Consumable, Dye Stamp, Color, YELLOW, BLUE, RED"
+msgstr "消費アイテム、染料スタンプ、色、黄、青、赤"
+
+#: 171157587-0-2034
+msgctxt "171157587-0-2034"
+msgid "Consumable, Dye Stamp, Color, YELLOW, PURPLE, PURPLE"
+msgstr "消費アイテム、染料スタンプ、色、黄、紫、紫"
+
+#: 171157587-0-2033
+msgctxt "171157587-0-2033"
+msgid "Consumable, Dye Stamp, Color, PURPLE, YELLOW, PURPLE"
+msgstr "消費アイテム、染料スタンプ、色、紫、黄、紫"
+
+#: 50040644-0-20328
+msgctxt "50040644-0-20328"
+msgid "@EYou gain a damage shield after casting."
+msgstr "@E詠唱後に、ダメージシールドを展開する。"
+
+#: 50040644-0-20323
+msgctxt "50040644-0-20323"
+msgid "@EYou release a spray of spikes around you, causing enemies hit to take damage over time."
+msgstr "@Eさらに周囲にスパイクを放ち、敵に継続ダメージを与える。"
+
+#: 171157587-0-2032
+msgctxt "171157587-0-2032"
+msgid "Consumable, Dye Stamp, Color, PURPLE, PURPLE, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、紫、紫、黄"
+
+#: 171157587-0-2031
+msgctxt "171157587-0-2031"
+msgid "Consumable, Dye Stamp, Color, PURPLE, PURPLE, PURPLE"
+msgstr "消費アイテム、染料スタンプ、色、紫、紫、紫"
+
+#: 171157587-0-2030
+msgctxt "171157587-0-2030"
+msgid "Consumable, Dye Stamp, Color, PURPLE, YELLOW, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、紫、黄、黄"
+
+#: 125518133-0-203
+msgctxt "125518133-0-203"
+msgid "Indrik Luminous Item 01"
+msgstr "Indrik Luminous Item 01"
+
+#: 171157587-0-2028
+msgctxt "171157587-0-2028"
+msgid "Consumable, Dye Stamp, Color, YELLOW, YELLOW, PURPLE"
+msgstr "消費アイテム、染料スタンプ、色、黄、黄、紫"
+
+#: 171157587-0-2027
+msgctxt "171157587-0-2027"
+msgid "Consumable, Dye Stamp, Color, YELLOW, YELLOW, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、黄、黄、黄"
+
+#: 171157587-0-2026
+msgctxt "171157587-0-2026"
+msgid "Consumable, Dye Stamp, Color, YELLOW, GREEN, GREEN"
+msgstr "消費アイテム、染料スタンプ、色、黄、緑、緑"
+
+#: 50040644-0-20253
+msgctxt "50040644-0-20253"
+msgid "@EAdds damage over time."
+msgstr "@E持続性ダメージを追加で与える。"
+
+#: 50040644-0-20251
+msgctxt "50040644-0-20251"
+msgid "@EAffected enemies deal less damage."
+msgstr "@Eこの攻撃を受けた敵は与ダメージ量が減少する。"
+
+#: 171157587-0-2025
+msgctxt "171157587-0-2025"
+msgid "Consumable, Dye Stamp, Color, GREEN, YELLOW, GREEN"
+msgstr "消費アイテム、染料スタンプ、色、緑、黄、緑"
+
+#: 171157587-0-2024
+msgctxt "171157587-0-2024"
+msgid "Consumable, Dye Stamp, Color, GREEN, GREEN, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、緑、緑、黄"
+
+#: 171157587-0-2023
+msgctxt "171157587-0-2023"
+msgid "Consumable, Dye Stamp, Color, GREEN, GREEN, GREEN"
+msgstr "消費アイテム、染料スタンプ、色、緑、緑、緑"
+
+#: 171157587-0-2022
+msgctxt "171157587-0-2022"
+msgid "Consumable, Dye Stamp, Color, GREEN, YELLOW, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、緑、黄、黄"
+
+#: 171157587-0-2021
+msgctxt "171157587-0-2021"
+msgid "Consumable, Dye Stamp, Color, YELLOW, GREEN, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、黄、緑、黄"
+
+#: 171157587-0-2020
+msgctxt "171157587-0-2020"
+msgid "Consumable, Dye Stamp, Color, YELLOW, YELLOW, GREEN"
+msgstr "消費アイテム、染料スタンプ、色、黄、黄、緑"
+
+#: 125518133-0-202
+msgctxt "125518133-0-202"
+msgid "Indrik Dawnwood Item 04"
+msgstr "Indrik Dawnwood Item 04"
+
+#: 171157587-0-2017
+msgctxt "171157587-0-2017"
+msgid "Quest Starters,Quest Starters,Quest,Event,Voucher,Bestower,Content,Event,Gathering,Celebration,Party,"
+msgstr "スタータークエスト、クエスト、イベント、達成証、贈与、コンテンツ、イベント、収集、セレブレーション、パーティー、"
+
+#: 171157587-0-2016
+msgctxt "171157587-0-2016"
+msgid "Quest Starters,Quest Starters,Quest,Event,Voucher,Bestower,Content,Event,Gathering,Celebration,Party,"
+msgstr "スタータークエスト、クエスト、イベント、達成証、贈与、コンテンツ、イベント、収集、セレブレーション、パーティー、"
+
+#: 171157587-0-2015
+msgctxt "171157587-0-2015"
+msgid "Consumable, Dye Stamp, Color, RED"
+msgstr "消費アイテム、染料スタンプ、色、赤"
+
+#: 171157587-0-2014
+msgctxt "171157587-0-2014"
+msgid "Consumable, Dye Stamp, Color, RED"
+msgstr "消費アイテム、染料スタンプ、色、赤"
+
+#: 171157587-0-2013
+msgctxt "171157587-0-2013"
+msgid "Consumable, Dye Stamp, Color, RED"
+msgstr "消費アイテム、染料スタンプ、色、赤"
+
+#: 171157587-0-1998
+msgctxt "171157587-0-1998"
+msgid "Consumable, Dye Stamp, Color, BLUE, YELLOW"
+msgstr "消費アイテム、染料スタンプ、色、青、黄"
+
+#: 171157587-0-1991
+msgctxt "171157587-0-1991"
+msgid "Non-Combat Pets,Pet,Companion,Follower,Friend,Dragonfly,Flying,Wings,"
+msgstr "非戦闘ペット、ペット、仲間、フォロワー、友、トンボ、飛翔、翼、"
+
+#: 171157587-0-1985
+msgctxt "171157587-0-1985"
+msgid "Non-Combat Pets,Pet,Companion,Follower,Friend,Senche,Feline,Cat,Roar,Purr,Fur,Paws,"
+msgstr "非戦闘ペット、ペット、仲間、フォロワー、友、センチ、猫、喉声、爪、"
+
+#: 171157587-0-1982
+msgctxt "171157587-0-1982"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1970
+msgctxt "171157587-0-1970"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1964
+msgctxt "171157587-0-1964"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1962
+msgctxt "171157587-0-1962"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1961
+msgctxt "171157587-0-1961"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 125518133-0-196
+msgctxt "125518133-0-196"
+msgid "Indrik Nascent Item 02"
+msgstr "Indrik Nascent Item 02"
+
+#: 171157587-0-1958
+msgctxt "171157587-0-1958"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1956
+msgctxt "171157587-0-1956"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1955
+msgctxt "171157587-0-1955"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1954
+msgctxt "171157587-0-1954"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1952
+msgctxt "171157587-0-1952"
+msgid "Furniture,Furnishings,Items,Assets,Decorations,Placeable, Bundle,Collection,Deal"
+msgstr "家具、アイテム、資産、装飾、配置可能、セット、コレクション、オファー"
+
+#: 171157587-0-1950
+msgctxt "171157587-0-1950"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,Mansion,Large,Opulent,Premiere,Special,Palatial,Estate"
+msgstr "家、住宅、ハウジング、住居、土地、邸宅、大、広大、プレミア、スペシャル、豪邸、屋敷"
+
+#: 125518133-0-195
+msgctxt "125518133-0-195"
+msgid "Indrik Nascent Item 01"
+msgstr "Indrik Nascent Item 01"
+
+#: 171157587-0-1947
+msgctxt "171157587-0-1947"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,Mansion,Large,Opulent,Premiere,Special,Palatial,Estate"
+msgstr "家、住宅、ハウジング、住居、土地、邸宅、大、広大、プレミア、スペシャル、豪邸、屋敷"
+
+#: 171157587-0-1946
+msgctxt "171157587-0-1946"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,Mansion,Large,Opulent,Premiere,Special,Palatial,Estate"
+msgstr "家、住宅、ハウジング、住居、土地、邸宅、大、広大、プレミア、スペシャル、豪邸、屋敷"
+
+#: 171157587-0-1945
+msgctxt "171157587-0-1945"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,House,Cottage,Fancy,Stylish,Larger,Ample,Redguard, Ra Gada, Forebear"
+msgstr "家、住宅、ハウジング、住居、土地、コテージ、ファンシー、スタイリッシュ、大、広、レッドガード・ラ・ガーダ、フォアベアー"
+
+#: 171157587-0-1944
+msgctxt "171157587-0-1944"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,House,Cottage,Fancy,Stylish,Larger,Ample,Redguard, Ra Gada, Forebear"
+msgstr "家、住宅、ハウジング、住居、土地、コテージ、ファンシー、スタイリッシュ、大、広、レッドガード・ラ・ガーダ、フォアベアー"
+
+#: 171157587-0-1943
+msgctxt "171157587-0-1943"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,Room,Inn,Starter,Small,Redguard, Ra Gada, Forebear"
+msgstr "家、住宅、ハウジング、住居、土地、部屋、宿、スターター、小、レッドガード・ラ・ガーダ、フォアベアー"
+
+#: 171157587-0-1942
+msgctxt "171157587-0-1942"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,House,Cottage,Fancy,Stylish,Larger,Ample,Orc,Orcish,Orsimer"
+msgstr "家、住宅、ハウジング、住居、土地、コテージ、ファンシー、スタイリッシュ、大、広、オーク、オーシマー"
+
+#: 171157587-0-1918
+msgctxt "171157587-0-1918"
+msgid "Houses,Home,House,Houses,Homes,Housing,Residence,Property,House,Cottage,Fancy,Stylish,Larger,Ample,High Elf,Altmer,Altmeri"
+msgstr "家、住宅、ハウジング、住居、土地、コテージ、ファンシー、スタイリッシュ、大、広、ハイエルフ、アルトマー、アルトメリ"
+
+#: 191189508-0-1912
+msgctxt "191189508-0-1912"
+msgid "Raw Enchanter Materials"
+msgstr "付呪師用素材"
+
+#: 171157587-0-1911
+msgctxt "171157587-0-1911"
+msgid "Mounts,Mount,Ride,Transport,Movement,Bear,Bears,Furry,Woodland,"
+msgstr "騎乗動物、騎乗、輸送、移動、熊、毛皮、森、"
+
+#: 171157587-0-1910
+msgctxt "171157587-0-1910"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 171157587-0-1901
+msgctxt "171157587-0-1901"
+msgid "Utility,Supplies,Utility,Consumables,Consumables,Useful,Utility,Supplies,"
+msgstr "ユーティリティ、物資、消耗品、有用、物資、"
+
+#: 171157587-0-1899
+msgctxt "171157587-0-1899"
+msgid "Utility,Supplies,Utility,Consumables,Consumables,Useful,Utility,Supplies,"
+msgstr "ユーティリティ、物資、消耗品、有用、物資、"
+
+#: 171157587-0-1895
+msgctxt "171157587-0-1895"
+msgid "Style Parlor,Marking,Appearance,Character,Customization,Design,Markings,Tattoos,Tattoo,Ink,Drawn,Lines,"
+msgstr "スタイルパーラー、タトゥー、外見、キャラクター、カスタマイズ、デザイン、インク、ライン、"
+
+#: 171157587-0-1891
+msgctxt "171157587-0-1891"
+msgid "Style Parlor,Marking,Appearance,Character,Customization,Design,Markings,Tattoos,Tattoo,Ink,Drawn,Lines,"
+msgstr "スタイルパーラー、タトゥー、外見、キャラクター、カスタマイズ、デザイン、インク、ライン、"
+
+#: 171157587-0-1881
+msgctxt "171157587-0-1881"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1875
+msgctxt "171157587-0-1875"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers, Bundle,Collection,Deal,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、セット、コレクション、オファー、"
+
+#: 171157587-0-1839
+msgctxt "171157587-0-1839"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 50040644-0-17874
+msgctxt "50040644-0-17874"
+msgid "@EWhen activated nearby allies gain a powerful damage shield."
+msgstr "@E発動すると近くの味方は強力なダメージシールドを得る。"
+
+#: 171157587-0-1787
+msgctxt "171157587-0-1787"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1727
+msgctxt "171157587-0-1727"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-16795
+msgctxt "206046340-0-16795"
+msgid "You took <<1>> and lost |cffffff20|r% of your Maximum Stamina. Your Movement Speed is reduced by <<2>> for <<3>>."
+msgstr "<<1>>を受け、最大スタミナの|cffffff20|r%を失う。移動速度が<<2>>、<<3>>の間減速する。"
+
+#: 171157587-0-1679
+msgctxt "171157587-0-1679"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1678
+msgctxt "171157587-0-1678"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1677
+msgctxt "171157587-0-1677"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1666
+msgctxt "171157587-0-1666"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1651
+msgctxt "171157587-0-1651"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-16355
+msgctxt "206046340-0-16355"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+
+#: 50040644-0-16353
+msgctxt "50040644-0-16353"
+msgid "@UCooldown@<<1>>@<<2>>"
+msgstr "@UCooldown@<<1>>@<<2>>"
+
+#: 206046340-0-16350
+msgctxt "206046340-0-16350"
+msgid "Increases Physical and Spell Resistance by <<1>> while in Player vs. Player locations."
+msgstr "プレイヤー対戦エリアにいる間、物理耐性と呪文耐性が<<1>>上昇。"
+
+#: 171157587-0-1635
+msgctxt "171157587-0-1635"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1634
+msgctxt "171157587-0-1634"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 50040644-0-16191
+msgctxt "50040644-0-16191"
+msgid "@EAffected allies take <<1>> less damage"
+msgstr "@EAffected allies take <<1>> less damage"
+
+#: 171157587-0-1619
+msgctxt "171157587-0-1619"
+msgid "Memento,Trophy,Prize,Reward,Bauble,Trinket,Memento,Trophy,Prize"
+msgstr "記念品、トロフィー、賞、報酬、装飾品、小物"
+
+#: 171157587-0-1588
+msgctxt "171157587-0-1588"
+msgid "Non-Combat Pets,Pet,Companion,Follower,Friend,Senche,Feline,Cat,Roar,Purr,Fur,Paws,"
+msgstr "非戦闘ペット、ペット、仲間、フォロワー、友、センチ、猫、喉声、爪、"
+
+#: 206046340-0-15774
+msgctxt "206046340-0-15774"
+msgid "Take <<1>> every <<2>> over <<3>>, with healing reduced by 50%"
+msgstr "<<1>>を<<2>>毎に<<3>>間受け、治癒量が50%減る"
+
+#: 171157587-0-1577
+msgctxt "171157587-0-1577"
+msgid "Consumable, Dye Stamp, Color, PURPLE, GREY, GREY, Cemetery Sunset"
+msgstr "消費アイテム、染料スタンプ、色、紫、灰、灰、墓地の日没"
+
+#: 171157587-0-1574
+msgctxt "171157587-0-1574"
+msgid "Consumable, Dye Stamp, Color, YELLOW, GREY, GREY, Dusky Dunes"
+msgstr "消費アイテム、染料スタンプ、色、黄、灰、灰、薄暗い砂丘"
+
+#: 171157587-0-1573
+msgctxt "171157587-0-1573"
+msgid "Consumable, Dye Stamp, Color, YELLOW, GREY, GREY, Ash Blond from Balmora"
+msgstr "消費アイテム、染料スタンプ、色、黄、灰、灰、バルモラのアッシュブロンド"
+
+#: 171157587-0-1554
+msgctxt "171157587-0-1554"
+msgid "Consumable, Dye Stamp, Color, YELLOW, RED, RED, Sundas Breakfast"
+msgstr "消費アイテム、染料スタンプ、色、黄、赤、赤、日耀の朝食"
+
+#: 171157587-0-1545
+msgctxt "171157587-0-1545"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Fledgling"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、雛"
+
+#: 171157587-0-1542
+msgctxt "171157587-0-1542"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Fledgling"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、雛"
+
+#: 171157587-0-1541
+msgctxt "171157587-0-1541"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Fledgling"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、雛"
+
+#: 171157587-0-1536
+msgctxt "171157587-0-1536"
+msgid "Consumable, Dye Stamp, Color, YELLOW, BROWN, PURPLE, Fledgling"
+msgstr "消費アイテム、染料スタンプ、色、黄、茶、紫、雛"
+
+#: 171157587-0-1506
+msgctxt "171157587-0-1506"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Blossoming"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、開花"
+
+#: 171157587-0-1505
+msgctxt "171157587-0-1505"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Blossoming"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、開花"
+
+#: 171157587-0-1489
+msgctxt "171157587-0-1489"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, BROWN, Insectile"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、茶、昆虫"
+
+#: 171157587-0-1486
+msgctxt "171157587-0-1486"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, PURPLE, Insectile"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、紫、昆虫"
+
+#: 171157587-0-1477
+msgctxt "171157587-0-1477"
+msgid "Consumable, Dye Stamp, Color, GREY, YELLOW, GREY, Insectile"
+msgstr "消費アイテム、染料スタンプ、色、灰、黄、灰、昆虫"
+
+#: 171157587-0-1464
+msgctxt "171157587-0-1464"
+msgid "Consumable, Dye Stamp, Color, GREEN, BROWN, GREEN, Lordly"
+msgstr "消費アイテム、染料スタンプ、色、緑、茶、緑、豪奢"
+
+#: 171157587-0-1461
+msgctxt "171157587-0-1461"
+msgid "Consumable, Dye Stamp, Color, GREY, GREEN, GREY, Lordly"
+msgstr "消費アイテム、染料スタンプ、色、灰、緑、灰、豪奢"
+
+#: 206046340-0-14550
+msgctxt "206046340-0-14550"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 171157587-0-1455
+msgctxt "171157587-0-1455"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, GREY, Spring"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、灰、春"
+
+#: 171157587-0-1437
+msgctxt "171157587-0-1437"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, GREY, Burgeoning"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、灰、芽"
+
+#: 206046340-0-14362
+msgctxt "206046340-0-14362"
+msgid "Take <<1>> every <<2>> for <<3>> and lose 10% Magicka per tick. You are also snared by 50% for <<4>>"
+msgstr "<<1>>を<<2>>毎に<<3>>間受け、その度にマジカを10%失う。また<<4>>の間50%の減速を受ける。"
+
+#: 171157587-0-1436
+msgctxt "171157587-0-1436"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, BLUE, Burgeoning"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、青、芽"
+
+#: 171157587-0-1423
+msgctxt "171157587-0-1423"
+msgid "Consumable, Dye Stamp, Color, GREY, GREEN, GREY, Burgeoning"
+msgstr "消費アイテム、染料スタンプ、色、灰、緑、灰、芽"
+
+#: 8379076-0-142
+msgctxt "8379076-0-142"
+msgid "Lore books, notes, journals, and memoranda associated with the northern region of Elsweyr."
+msgstr "エルスウェアの北部地域で集めた、伝承の本、メモ、日記、覚え書き。"
+
+#: 171157587-0-1406
+msgctxt "171157587-0-1406"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREEN, Sprouting"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、緑、新芽"
+
+#: 171157587-0-1405
+msgctxt "171157587-0-1405"
+msgid "Consumable, Dye Stamp, Color, GREY, GREEN, GREY, Sprouting"
+msgstr "消費アイテム、染料スタンプ、色、灰、緑、灰、新芽"
+
+#: 171157587-0-1404
+msgctxt "171157587-0-1404"
+msgid "Consumable, Dye Stamp, Color, GREEN, GREY, GREY, Sprouting"
+msgstr "消費アイテム、染料スタンプ、色、緑、灰、灰、新芽"
+
+#: 171157587-0-1403
+msgctxt "171157587-0-1403"
+msgid "Consumable, Dye Stamp, Color, GREEN, GREY, GREY, Sprouting"
+msgstr "消費アイテム、染料スタンプ、色、緑、灰、灰、新芽"
+
+#: 171157587-0-1402
+msgctxt "171157587-0-1402"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、緑、苗"
+
+#: 171157587-0-1401
+msgctxt "171157587-0-1401"
+msgid "Consumable, Dye Stamp, Color, GREY, GREEN, GREY, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、緑、灰、苗"
+
+#: 171157587-0-1400
+msgctxt "171157587-0-1400"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、緑、苗"
+
+#: 8379076-0-140
+msgctxt "8379076-0-140"
+msgid "These book fragments enable crafting in the Silver Dawn style."
+msgstr "銀なる暁スタイルのクラフティングができるようになる本の一部。"
+
+#: 206046340-0-13985
+msgctxt "206046340-0-13985"
+msgid "Increases your Maximum Stamina by <<1>>."
+msgstr "最大スタミナを<<1>>上昇させる。"
+
+#: 206046340-0-13984
+msgctxt "206046340-0-13984"
+msgid "Increases your Critical Damage by <<1>>."
+msgstr "クリティカルダメージを<<1>>上昇させる。"
+
+#: 206046340-0-13982
+msgctxt "206046340-0-13982"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr "マジカ再生を<<1>>アップする。"
+
+#: 206046340-0-13981
+msgctxt "206046340-0-13981"
+msgid "Increases your Spell and Physical Penetration by <<1>>."
+msgstr "呪文貫通力と物理貫通力が<<1>>上昇する。"
+
+#: 206046340-0-13980
+msgctxt "206046340-0-13980"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 171157587-0-1398
+msgctxt "171157587-0-1398"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、緑、苗"
+
+#: 206046340-0-13979
+msgctxt "206046340-0-13979"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr "呪文ダメージを<<1>>上昇させる。"
+
+#: 206046340-0-13978
+msgctxt "206046340-0-13978"
+msgid "Increases your Maximum Health by <<1>>."
+msgstr "最大体力を<<1>>上昇させる。"
+
+#: 206046340-0-13977
+msgctxt "206046340-0-13977"
+msgid "Increases your Movement Speed by <<1>> and Health Recovery by <<2>>."
+msgstr "移動速度<<1>>、体力再生<<2>>上昇"
+
+#: 206046340-0-13976
+msgctxt "206046340-0-13976"
+msgid "Increases your Spell and Physical Resistance by <<1>>."
+msgstr "呪文耐性と物理耐性を<<1>>上昇させる。"
+
+#: 206046340-0-13975
+msgctxt "206046340-0-13975"
+msgid "Increases your Weapon and Spell Critical Strike ratings by <<1>>."
+msgstr "武器クリティカルレートと呪文クリティカルレートを<<1>>上昇させる。"
+
+#: 206046340-0-13974
+msgctxt "206046340-0-13974"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 171157587-0-1397
+msgctxt "171157587-0-1397"
+msgid "Consumable, Dye Stamp, Color, GREY, GREEN, GREY, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、緑、灰、苗"
+
+#: 171157587-0-1396
+msgctxt "171157587-0-1396"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、緑、苗"
+
+#: 206046340-0-13940
+msgctxt "206046340-0-13940"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 171157587-0-1394
+msgctxt "171157587-0-1394"
+msgid "Consumable, Dye Stamp, Color, GREEN, GREY, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、緑、灰、緑、苗"
+
+#: 171157587-0-1390
+msgctxt "171157587-0-1390"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、緑、苗"
+
+#: 8379076-0-139
+msgctxt "8379076-0-139"
+msgid "These book fragments enable crafting in the Huntsman style."
+msgstr "ハンツマンスタイルのクラフティングができるようになる本の一部。"
+
+#: 171157587-0-1388
+msgctxt "171157587-0-1388"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREEN, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、緑、苗"
+
+#: 171157587-0-1385
+msgctxt "171157587-0-1385"
+msgid "Consumable, Dye Stamp, Color, GREEN, GREY, GREY, Seedling"
+msgstr "消費アイテム、染料スタンプ、色、緑、灰、灰、苗"
+
+#: 171157587-0-1378
+msgctxt "171157587-0-1378"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, PURPLE, Formal Nocturnal"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、紫、ノクターナルのフォーマル服"
+
+#: 171157587-0-1374
+msgctxt "171157587-0-1374"
+msgid "Consumable, Dye Stamp, Color, RED, BROWN, PURPLE, Blutwurst and Liver"
+msgstr "消費アイテム、染料スタンプ、色、赤、茶、紫、ブラッドソーセージとレバー"
+
+#: 171157587-0-1366
+msgctxt "171157587-0-1366"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Mostly Serious"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、ほぼ真剣"
+
+#: 171157587-0-1365
+msgctxt "171157587-0-1365"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, A Hint of the Frivolous"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、不真面目の兆候"
+
+#: 171157587-0-1364
+msgctxt "171157587-0-1364"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, RED, Premature Gray"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、赤、未熟な灰"
+
+#: 206046340-0-136348
+msgctxt "206046340-0-136348"
+msgid "<<1>> boost to all experience points."
+msgstr "全経験値が<<1>>上昇。"
+
+#: 171157587-0-1363
+msgctxt "171157587-0-1363"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, BROWN, Welwa Hide"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、茶、ウェルワの皮"
+
+#: 171157587-0-1362
+msgctxt "171157587-0-1362"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Chub Loon Blushing"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、赤面するウグイアビ"
+
+#: 171157587-0-1361
+msgctxt "171157587-0-1361"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Darkness Before Dawn"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、夜明け前の闇"
+
+#: 171157587-0-1357
+msgctxt "171157587-0-1357"
+msgid "Consumable, Dye Stamp, Color, RED, RED, GREY, Take My Heart's Blood"
+msgstr "消費アイテム、染料スタンプ、色、赤、赤、灰、心臓の血を持っていけ"
+
+#: 171157587-0-1356
+msgctxt "171157587-0-1356"
+msgid "Consumable, Dye Stamp, Color, RED, BROWN, RED, What's for Dessert?"
+msgstr "消費アイテム、染料スタンプ、色、赤、茶、赤、デザートには何を？"
+
+#: 171157587-0-1355
+msgctxt "171157587-0-1355"
+msgid "Consumable, Dye Stamp, Color, RED, RED, BROWN, Inside-Out Mouse"
+msgstr "消費アイテム、染料スタンプ、色、赤、赤、茶、裏返しのネズミ"
+
+#: 171157587-0-1353
+msgctxt "171157587-0-1353"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Dremora's Bathrobe"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、ドレモラのバスローブ"
+
+#: 171157587-0-1352
+msgctxt "171157587-0-1352"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Bloodstains on Stone"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、石の血痕"
+
+#: 171157587-0-1351
+msgctxt "171157587-0-1351"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Charcoal of Remorse"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、木炭の後悔"
+
+#: 171157587-0-1350
+msgctxt "171157587-0-1350"
+msgid "Consumable, Dye Stamp, Color, RED, GREY, GREY, Wine-Dark Season"
+msgstr "消費アイテム、染料スタンプ、色、赤、灰、灰、ワインダークの季節"
+
+#: 125518133-0-135
+msgctxt "125518133-0-135"
+msgid "Green Indrik Spawner"
+msgstr "Green Indrik Spawner"
+
+#: 171157587-0-1348
+msgctxt "171157587-0-1348"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, PURPLE, Ribbons in the Cemetery"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、紫、墓地のリボン"
+
+#: 171157587-0-1347
+msgctxt "171157587-0-1347"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Gray but Blithe"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、灰だが陽気"
+
+#: 206046340-0-134627
+msgctxt "206046340-0-134627"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 206046340-0-134626
+msgctxt "206046340-0-134626"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 171157587-0-1346
+msgctxt "171157587-0-1346"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, PURPLE, Stone Chips and Bark"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、紫、石チップと樹皮"
+
+#: 171157587-0-1345
+msgctxt "171157587-0-1345"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, BROWN, Shaved Ice and Sherbet"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、茶、削られた氷とシャーベット"
+
+#: 206046340-0-134336
+msgctxt "206046340-0-134336"
+msgid "Increases your Physical Resistance by 1320."
+msgstr "物理耐性が1320上昇する。"
+
+#: 171157587-0-1343
+msgctxt "171157587-0-1343"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Rosy Snowdrift"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、薔薇の雪溜まり"
+
+#: 171157587-0-1342
+msgctxt "171157587-0-1342"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, PURPLE, Frosted Sweetroll"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、紫、凍らされたスイートロール"
+
+#: 171157587-0-1341
+msgctxt "171157587-0-1341"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, BROWN, Candy Kitchen"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、茶、キャンディのキッチン"
+
+#: 206046340-0-134094
+msgctxt "206046340-0-134094"
+msgid "Increases your damage done by <<1>>."
+msgstr "与ダメージが<<1>>上昇する。"
+
+#: 206046340-0-134040
+msgctxt "206046340-0-134040"
+msgid "Reduces your Critical Damage done by <<1>>."
+msgstr "クリティカルダメージを<<1>>低下させる。"
+
+#: 206046340-0-134034
+msgctxt "206046340-0-134034"
+msgid "Reduces your Weapon and Spell Critical rating by <<1>>,\n\nreducing your Weapon and Spell Critical chance by |cffffff6|r%."
+msgstr "武器クリティカルレートと呪文クリティカルレートが<<1>>低下する。\r\n\r\n武器クリティカル率と呪文クリティカル率が|cffffff6|r%低下する。"
+
+#: 171157587-0-1340
+msgctxt "171157587-0-1340"
+msgid "Consumable, Dye Stamp, Color, PURPLE, GREY, PURPLE, Delicate Reverie"
+msgstr "消費アイテム、染料スタンプ、色、紫、灰、紫、繊細な夢想"
+
+#: 125518133-0-134
+msgctxt "125518133-0-134"
+msgid "White Indrik Spawner"
+msgstr "White Indrik Spawner"
+
+#: 171157587-0-1333
+msgctxt "171157587-0-1333"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Purity Incarnate"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、純潔の具現化"
+
+#: 206046340-0-133292
+msgctxt "206046340-0-133292"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 171157587-0-1332
+msgctxt "171157587-0-1332"
+msgid "Consumable, Dye Stamp, Color, PURPLE, GREY, GREY, Piglet and Bristles"
+msgstr "消費アイテム、染料スタンプ、色、紫、灰、灰、子豚と毛"
+
+#: 171157587-0-1330
+msgctxt "171157587-0-1330"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Next Door to Monochrome"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、モノクロームへ続く扉"
+
+#: 171157587-0-1328
+msgctxt "171157587-0-1328"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, RED, Crypt Floor and Door"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、赤、墓の床と扉"
+
+#: 171157587-0-1327
+msgctxt "171157587-0-1327"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, BROWN, Surgeon's Gown"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、茶、外科医のガウン"
+
+#: 171157587-0-1326
+msgctxt "171157587-0-1326"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, RED, Sun's Dawn Glistening"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、赤、薄明の月のきらめき"
+
+#: 171157587-0-1325
+msgctxt "171157587-0-1325"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Peppermint Stick"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、ペパーミントスティック"
+
+#: 171157587-0-1324
+msgctxt "171157587-0-1324"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, RED, Hoarfrost and Rose Hips"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、赤、白霜とローズヒップ"
+
+#: 50040644-0-132310
+msgctxt "50040644-0-132310"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@eスタミナアビリティに切り替わり、病気ダメージを与える。吸収が終わると死体が爆発し、追加ダメージを与える。"
+
+#: 171157587-0-1323
+msgctxt "171157587-0-1323"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, BROWN, Wine on the Snow"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、茶、雪のワイン"
+
+#: 171157587-0-1322
+msgctxt "171157587-0-1322"
+msgid "Consumable, Dye Stamp, Color, RED, GREY, RED, Dried Bloodstains"
+msgstr "消費アイテム、染料スタンプ、色、赤、灰、赤、渇いた血痕"
+
+#: 171157587-0-1321
+msgctxt "171157587-0-1321"
+msgid "Consumable, Dye Stamp, Color, RED, RED, GREY, Hothouse Flowers"
+msgstr "消費アイテム、染料スタンプ、色、赤、赤、灰、温室の花"
+
+#: 50040644-0-132069
+msgctxt "50040644-0-132069"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@eスタミナアビリティに切り替わり、病気ダメージを与える。吸収が終わると死体が爆発し、追加ダメージを与える。"
+
+#: 50040644-0-132054
+msgctxt "50040644-0-132054"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@eスタミナアビリティに切り替わり、病気ダメージを与える。吸収が終わると死体が爆発し、追加ダメージを与える。"
+
+#: 171157587-0-1320
+msgctxt "171157587-0-1320"
+msgid "Consumable, Dye Stamp, Color, RED, BROWN, RED, Troll's Red Thoughts"
+msgstr "消費アイテム、染料スタンプ、色、赤、茶、赤、トロールの赤い思考"
+
+#: 8379076-0-132
+msgctxt "8379076-0-132"
+msgid "These books enable crafting in the Scalecaller style."
+msgstr "スケイルコーラーのクラフティングができるようになる本。"
+
+#: 50040644-0-131991
+msgctxt "50040644-0-131991"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+
+#: 50040644-0-131978
+msgctxt "50040644-0-131978"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+
+#: 171157587-0-1319
+msgctxt "171157587-0-1319"
+msgid "Consumable, Dye Stamp, Color, RED, RED, BROWN, Ruby and Rose"
+msgstr "消費アイテム、染料スタンプ、色、赤、赤、茶、ルビーと薔薇"
+
+#: 50040644-0-131744
+msgctxt "50040644-0-131744"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@eスタミナアビリティに切り替わり、病気ダメージを与える。吸収が終わると死体が爆発し、追加ダメージを与える。"
+
+#: 171157587-0-1317
+msgctxt "171157587-0-1317"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, The Sun Sets Early"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、早い日没"
+
+#: 206046340-0-131695
+msgctxt "206046340-0-131695"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-131694
+msgctxt "206046340-0-131694"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-131613
+msgctxt "206046340-0-131613"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-131607
+msgctxt "206046340-0-131607"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-131606
+msgctxt "206046340-0-131606"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 52183620-0-1316
+#, fuzzy
+msgctxt "52183620-0-1316"
+msgid "Awarded for completing the ""Falkreath Hold Challenger"" Achievement."
+msgstr "実績「ファルクリース要塞の挑戦者」をクリアすると手に入る。"
+
+#: 171157587-0-1315
+msgctxt "171157587-0-1315"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Snowflowers"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、雪花"
+
+#: 206046340-0-131478
+msgctxt "206046340-0-131478"
+msgid "Grants the ability to break magical seals placed by Voria.\n\nMagicka and Stamina Recovery is increased by <<1>>\n\nAs a Necromancer your Magicka and Stamina Recovery is increased by <<2>>"
+msgstr "ヴォリアに設置された魔法の印を破る能力を付与する。\r\n\r\nマジカ再生とスタミナ再生が<<1>>上昇する\r\n\r\nネクロマンサーとして、マジカ再生とスタミナ再生が<<2>>上昇する"
+
+#: 171157587-0-1314
+msgctxt "171157587-0-1314"
+msgid "Consumable, Dye Stamp, Color, RED, GREY, GREY, Lipstick's Demise"
+msgstr "消費アイテム、染料スタンプ、色、赤、灰、灰、口紅の残骸"
+
+#: 206046340-0-131383
+msgctxt "206046340-0-131383"
+msgid "Grants immunity to Snares and Immobilizes"
+msgstr "減速と移動不能に対する耐性を与える"
+
+#: 206046340-0-131353
+msgctxt "206046340-0-131353"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 50040644-0-131350
+msgctxt "50040644-0-131350"
+msgid "@EYou and your allies also gain Major Brutality, increasing your Weapon Damage."
+msgstr "@eさらに自身と味方に残忍(強)を付与し、武器ダメージを上昇する。"
+
+#: 206046340-0-131343
+msgctxt "206046340-0-131343"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 206046340-0-131342
+msgctxt "206046340-0-131342"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 206046340-0-131341
+msgctxt "206046340-0-131341"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 206046340-0-131340
+msgctxt "206046340-0-131340"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 50040644-0-131314
+msgctxt "50040644-0-131314"
+msgid "@EDeals increased damage and reduces the cost."
+msgstr "@eダメージを上昇させ、消費を低下させる。"
+
+#: 206046340-0-131311
+msgctxt "206046340-0-131311"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr "呪文ダメージを<<1>>上昇させる。"
+
+#: 206046340-0-131310
+msgctxt "206046340-0-131310"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr "呪文ダメージを<<1>>上昇させる。"
+
+#: 171157587-0-1313
+msgctxt "171157587-0-1313"
+msgid "Consumable, Dye Stamp, Color, RED, GREY, GREY, Sanguine's Rose"
+msgstr "消費アイテム、染料スタンプ、色、赤、灰、灰、サングインのバラ"
+
+#: 50040644-0-131281
+msgctxt "50040644-0-131281"
+msgid "@EPulls you to the enemy instead. Grants Empower after being pulled."
+msgstr "@e自身を敵まで引き寄せるようになる。引き寄せられた後、強化を与える。"
+
+#: 206046340-0-131275
+msgctxt "206046340-0-131275"
+msgid "Unbreakable Stun. You are unable to attack or move while stunned. Break Free has no effect on this stun."
+msgstr "打破できない気絶を受けた。気絶中は攻撃も移動もできない。この気絶には打破を使えない。"
+
+#: 206046340-0-131247
+msgctxt "206046340-0-131247"
+msgid "Your grappling bow is empowered, damaging monsters in your path and near the post. It also reveals nearby grapple posts hidden by Voria.\n\nWeapon and Spell Damage increased by <<1>>\n\nAs a Necromancer your Weapon and Spell Damage is increased by <<2>>"
+msgstr "グラップリングボウが強化される、敵を通過するとダメージを与える。また、ヴォリアに隠された近くのグラップルポストも明らかにする。\r\n\r\n武器ダメージと呪文ダメージが<<1>>上昇する\r\n\r\nネクロマンサーとして、武器ダメージと呪文ダメージが<<2>>上昇する"
+
+#: 52183620-0-1312
+#, fuzzy
+msgctxt "52183620-0-1312"
+msgid "Purchase Requires:\n""The God of Schemes"" Achievement\nAvailable After 2018 Anniversary Jubilee Starts"
+msgstr "購入条件:\r\n実績「企みの神」\r\n2018記念祭開始後に入手可能"
+
+#: 171157587-0-1309
+msgctxt "171157587-0-1309"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, BROWN, Slate Roof and Tiles"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、茶、吹いた屋根とタイル"
+
+#: 206046340-0-130818
+msgctxt "206046340-0-130818"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-130815
+msgctxt "206046340-0-130815"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 206046340-0-130809
+msgctxt "206046340-0-130809"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 52183620-0-1308
+msgctxt "52183620-0-1308"
+msgid "Obtained by helping Lord Vivec distribute his divine blessings."
+msgstr "ヴィベク卿が聖なる祝福を与える手伝いをすると手に入る。"
+
+#: 171157587-0-1307
+msgctxt "171157587-0-1307"
+msgid "Consumable, Dye Stamp, Color, GREY, YELLOW, GREY, The Butcher's Cleaver"
+msgstr "消費アイテム、染料スタンプ、色、灰、黄、灰、肉切り包丁"
+
+#: 206046340-0-130633
+msgctxt "206046340-0-130633"
+msgid "Increases your Physical and Spell Resistance by <<1>>"
+msgstr "物理耐性と呪文耐性が<<1>>上昇する。"
+
+#: 171157587-0-1306
+msgctxt "171157587-0-1306"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, BROWN, Muddy Puddle"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、茶、ぬかるんだ水たまり"
+
+#: 171157587-0-1305
+msgctxt "171157587-0-1305"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, BROWN, Ironbound Oak"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、茶、鉄で縛られた樫"
+
+#: 171157587-0-1303
+msgctxt "171157587-0-1303"
+msgid "Consumable, Dye Stamp, Color, GREY, YELLOW, GREY, Forgemaster's Apron"
+msgstr "消費アイテム、染料スタンプ、色、灰、黄、灰、鍛冶頭のエプロン"
+
+#: 206046340-0-130168
+msgctxt "206046340-0-130168"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 206046340-0-130155
+msgctxt "206046340-0-130155"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 52183620-0-1301
+msgctxt "52183620-0-1301"
+msgid "Awarded for completing Bloodroot Forge."
+msgstr "ブラッドルート・フォージをクリアすると手に入る。"
+
+#: 52183620-0-1299
+msgctxt "52183620-0-1299"
+msgid "Awarded for completing Halls of Fabrication."
+msgstr "ホール・オブ・ファブリケーションをクリアすると手に入る。"
+
+#: 206046340-0-129536
+msgctxt "206046340-0-129536"
+msgid "Grants you <<1>> Ultimate every |cffffff1.5|r seconds while in combat."
+msgstr "戦闘中、|cffffff1.5|r秒ごとに<<1>>アルティマを得る。"
+
+#: 52183620-0-1295
+msgctxt "52183620-0-1295"
+msgid "Awarded for completing Aetherian Archive."
+msgstr "エセリアルの保管庫をクリアすると手に入る。"
+
+#: 50040644-0-129414
+msgctxt "50040644-0-129414"
+msgid "@EPulls you to the enemy instead. Grants Empower after being pulled."
+msgstr "@e自身を敵まで引き寄せるようになる。引き寄せられた後、強化を与える。"
+
+#: 52183620-0-1294
+msgctxt "52183620-0-1294"
+msgid "Awarded for completing Sanctum Ophidia."
+msgstr "聖域オフィディアをクリアすると手に入る。"
+
+#: 206046340-0-129315
+msgctxt "206046340-0-129315"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 50040644-0-129304
+msgctxt "50040644-0-129304"
+msgid "@EIncrease off balance chance vs low health targets"
+msgstr "@e体力の少ない敵を攻撃すると、フラフラ状態にする確率が上昇する"
+
+#: 52183620-0-1293
+msgctxt "52183620-0-1293"
+msgid "Awarded for completing Maw of Lorkhaj."
+msgstr "モー・オブ・ローカジュをクリアすると手に入る。"
+
+#: 206046340-0-129209
+msgctxt "206046340-0-129209"
+msgid "Damage taken by Fire Breath is increased"
+msgstr "ファイアブレスの被ダメージ増"
+
+#: 52183620-0-1292
+msgctxt "52183620-0-1292"
+msgid "Awarded for completing Hel Ra Citadel."
+msgstr "ヘル・ラ要塞をクリアすると手に入る。"
+
+#: 206046340-0-129160
+msgctxt "206046340-0-129160"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 52183620-0-1291
+msgctxt "52183620-0-1291"
+msgid "Awarded for completing City of Ash II."
+msgstr "灰の街2をクリアすると手に入る。"
+
+#: 52183620-0-1286
+msgctxt "52183620-0-1286"
+msgid "Awarded for completing Fungal Grotto II."
+msgstr "フンガル洞窟2をクリアすると手に入る。"
+
+#: 52183620-0-1280
+msgctxt "52183620-0-1280"
+msgid "Awarded for completing Cradle of Shadows."
+msgstr "影のゆりかごをクリアすると手に入る。"
+
+#: 52183620-0-1278
+msgctxt "52183620-0-1278"
+msgid "Awarded for completing Wayrest Sewers II."
+msgstr "ウェイレスト下水道2をクリアすると手に入る。"
+
+#: 206046340-0-127595
+msgctxt "206046340-0-127595"
+msgid "Increase Max Magicka by <<1>> and Max Health by <<2>>. You have also, effectively, freshly fed … if you crave blood, that is."
+msgstr "最大マジカを<<1>>、最大体力を<<2>>上昇させる。また、肉体の乾きも癒せる… 血に飢えているなら、だが。"
+
+#: 206046340-0-127572
+msgctxt "206046340-0-127572"
+msgid "Increase Max Stamina by <<1>> and Max Health by <<2>>. If you are a werewolf, the rich marrow will also slightly ease your transformation."
+msgstr "最大スタミナが<<1>>、最大体力が<<2>>間上昇する。ウェアウルフの場合、豊富な髄がわずかに変身を容易にしてくれる。"
+
+#: 206046340-0-127571
+msgctxt "206046340-0-127571"
+msgid "Increase Max Stamina by <<1>> and Max Health by <<2>>."
+msgstr "最大スタミナを<<1>>、最大体力を<<2>>増加させる。"
+
+#: 206046340-0-127531
+msgctxt "206046340-0-127531"
+msgid "Increase Max Magicka by <<1>>, Max Health by <<2>>, and Health Recovery by <<3>>."
+msgstr "最大マジカが<<1>>、最大体力が<<2>>、体力再生が<<3>>上昇する。"
+
+#: 206046340-0-127530
+msgctxt "206046340-0-127530"
+msgid "Increase Max Magicka by <<1>>, Max Health by <<2>>, and Health Recovery by <<3>> for <<4>>. \nYou have also, effectively, been without blood for many nights … if you crave blood, that is."
+msgstr "最大マジカを<<1>>、最大体力を<<2>>、体力再生を<<3>>、<<4>>の間増加させる。\r\nまた、血を吸わずに何夜も動けるようになる… もちろん、血を求めていた場合の話だが。"
+
+#: 52183620-0-1275
+msgctxt "52183620-0-1275"
+msgid "Awarded for completing Spindleclutch I."
+msgstr "スピンドルクラッチ1をクリアすると手に入る。"
+
+#: 206046340-0-127244
+msgctxt "206046340-0-127244"
+msgid "You have recently been turned into a statue, and cannot avoid death this way again."
+msgstr "You have recently been turned into a statue, and cannot avoid death this way again."
+
+#: 206046340-0-127232
+msgctxt "206046340-0-127232"
+msgid "You have recently been turned into a statue, and cannot avoid death this way again."
+msgstr "You have recently been turned into a statue, and cannot avoid death this way again."
+
+#: 206046340-0-127201
+msgctxt "206046340-0-127201"
+msgid "Heem-Jas' Retribution"
+msgstr "Heem-Jas' Retribution"
+
+#: 52183620-0-1272
+msgctxt "52183620-0-1272"
+msgid "Awarded for completing Darkshade Caverns II."
+msgstr "ダークシェイド洞窟2をクリアすると手に入る。"
+
+#: 206046340-0-127162
+msgctxt "206046340-0-127162"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 52183620-0-1271
+msgctxt "52183620-0-1271"
+msgid "Awarded for completing Darkshade Caverns I."
+msgstr "ダークシェイド洞窟1をクリアすると手に入る。"
+
+#: 206046340-0-127022
+msgctxt "206046340-0-127022"
+msgid "You have recently been reborn as a phoenix, and cannot avoid death this way again."
+msgstr "You have recently been reborn as a phoenix, and cannot avoid death this way again."
+
+#: 52183620-0-1270
+msgctxt "52183620-0-1270"
+msgid "Awarded for completing Volenfell."
+msgstr "ヴォレンフェルをクリアすると手に入る。"
+
+#: 206046340-0-126925
+msgctxt "206046340-0-126925"
+msgid "Increases your healing received by <<1>>."
+msgstr "被回復力を<<1>>増加させる。"
+
+#: 50040644-0-126905
+msgctxt "50040644-0-126905"
+msgid "@EPulls you to the enemy instead. Grants Empower after being pulled."
+msgstr "@e自身を敵まで引き寄せるようになる。引き寄せられた後、強化を与える。"
+
+#: 52183620-0-1269
+msgctxt "52183620-0-1269"
+msgid "Awarded for completing Fungal Grotto I."
+msgstr "フンガル洞窟1をクリアすると手に入る。"
+
+#: 52183620-0-1268
+msgctxt "52183620-0-1268"
+msgid "Awarded for completing Banished Cells II."
+msgstr "追放者の監房2をクリアすると手に入る。"
+
+#: 52183620-0-1267
+msgctxt "52183620-0-1267"
+msgid "Awarded for completing Banished Cells I."
+msgstr "追放者の監房1をクリアすると手に入る。"
+
+#: 206046340-0-126684
+msgctxt "206046340-0-126684"
+msgid "Reduces your Physical Resistance by <<1>>."
+msgstr "物理耐性が<<1>>低下する。"
+
+#: 206046340-0-126670
+msgctxt "206046340-0-126670"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 206046340-0-126647
+msgctxt "206046340-0-126647"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 52183620-0-1266
+msgctxt "52183620-0-1266"
+msgid "Awarded for completing Blackheart Haven."
+msgstr "ブラックハート・ヘヴンをクリアすると手に入る。"
+
+#: 206046340-0-126534
+msgctxt "206046340-0-126534"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 206046340-0-126527
+msgctxt "206046340-0-126527"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 52183620-0-1265
+msgctxt "52183620-0-1265"
+msgid "Awarded for completing Maelstrom Arena."
+msgstr "メイルストローム・アリーナをクリアすると手に入る。"
+
+#: 171157587-0-1261
+msgctxt "171157587-0-1261"
+msgid "Consumable, Dye Stamp, Color, GREY, RED, GREY, Hobnailed Boot"
+msgstr "消費アイテム、染料スタンプ、色、灰、赤、灰、鋲を打ったブーツ"
+
+#: 52183620-0-1259
+msgctxt "52183620-0-1259"
+msgid "Awarded for completing Veteran Bloodroot Forge."
+msgstr "ブラッドルート・フォージをベテランでクリアすると手に入る。"
+
+#: 52183620-0-1258
+msgctxt "52183620-0-1258"
+msgid "Awarded for completing Veteran Falkreath Hold."
+msgstr "ファルクリース要塞をベテランでクリアすると手に入る。"
+
+#: 171157587-0-1256
+msgctxt "171157587-0-1256"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, YELLOW, Unexpectedly Somber"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、黄、予想外の薄暗さ"
+
+#: 171157587-0-1254
+msgctxt "171157587-0-1254"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, YELLOW, Frosty Gravel"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、黄、凍った砂利"
+
+#: 171157587-0-1253
+msgctxt "171157587-0-1253"
+msgid "Consumable, Dye Stamp, Color, GREY, YELLOW, GREY, A Distinguished Pallor"
+msgstr "消費アイテム、染料スタンプ、色、灰、黄、灰、目立つ蒼白"
+
+#: 206046340-0-125205
+msgctxt "206046340-0-125205"
+msgid "Poison"
+msgstr "毒"
+
+#: 206046340-0-125204
+msgctxt "206046340-0-125204"
+msgid "Grants you <<1>> Ultimate every |cffffff1.5|r seconds while in combat."
+msgstr "戦闘中、|cffffff1.5|r秒ごとに<<1>>アルティマを得る。"
+
+#: 171157587-0-1252
+msgctxt "171157587-0-1252"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, YELLOW, Paper and Leather"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、黄、紙と革"
+
+#: 171157587-0-1251
+msgctxt "171157587-0-1251"
+msgid "Consumable, Dye Stamp, Color, GREY, YELLOW, BROWN, Snow on the Senche"
+msgstr "消費アイテム、染料スタンプ、色、灰、黄、茶、センチに積もる雪"
+
+#: 206046340-0-125041
+msgctxt "206046340-0-125041"
+msgid "Grants you <<1>> Ultimate every |cffffff1.5|r seconds while in combat."
+msgstr "戦闘中、|cffffff1.5|r秒ごとに<<1>>アルティマを得る。"
+
+#: 206046340-0-125027
+msgctxt "206046340-0-125027"
+msgid "Grants you <<1>> Ultimate every |cffffff1.5|r seconds while in combat."
+msgstr "戦闘中、|cffffff1.5|r秒ごとに<<1>>アルティマを得る。"
+
+#: 171157587-0-1250
+msgctxt "171157587-0-1250"
+msgid "Consumable, Dye Stamp, Color, YELLOW, GREY, YELLOW, Noble Metals"
+msgstr "消費アイテム、染料スタンプ、色、黄、灰、黄、高貴な金属"
+
+#: 206046340-0-124804
+msgctxt "206046340-0-124804"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 206046340-0-124803
+msgctxt "206046340-0-124803"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 206046340-0-124801
+msgctxt "206046340-0-124801"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 52183620-0-1248
+msgctxt "52183620-0-1248"
+msgid "Acquired by completing the Star-Made Knight achievement during the Midyear Mayhem Holiday Event."
+msgstr "年央の騒乱ホリデーイベントの間に実績「星の騎士」を達成すると獲得できる。"
+
+#: 206046340-0-124703
+msgctxt "206046340-0-124703"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 206046340-0-124702
+msgctxt "206046340-0-124702"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr "マジカ再生を<<1>>アップする。"
+
+#: 206046340-0-124701
+msgctxt "206046340-0-124701"
+msgid "Increases your Health Recovery by <<1>>."
+msgstr "体力再生を<<1>>アップする。"
+
+#: 171157587-0-1247
+msgctxt "171157587-0-1247"
+msgid "Consumable, Dye Stamp, Color, YELLOW, YELLOW, BROWN, Wealth and Jaundice"
+msgstr "消費アイテム、染料スタンプ、色、黄、黄、茶、富と黄疸"
+
+#: 52183620-0-1243
+#, fuzzy
+msgctxt "52183620-0-1243"
+msgid "Purchase Requires:\n""Savior of Morrowind"" Achievement"
+msgstr "購入条件:\r\n実績「モロウウィンドの救世主」"
+
+#: 52183620-0-1242
+#, fuzzy
+msgctxt "52183620-0-1242"
+msgid "Purchase Requires:\n""Room to Spare"" House Quest Completion"
+msgstr "購入条件:\r\n住宅クエスト「空き部屋」のクリア"
+
+#: 206046340-0-123946
+msgctxt "206046340-0-123946"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 171157587-0-1239
+msgctxt "171157587-0-1239"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Adept's Apprentice"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、熟練者の見習い"
+
+#: 50040644-0-123718
+msgctxt "50040644-0-123718"
+msgid "@EThe third cast of the skull will bounce to other nearby enemies."
+msgstr "@e頭蓋骨アビリティが3回詠唱されると、近くの敵に跳ねていく。"
+
+#: 50040644-0-123704
+msgctxt "50040644-0-123704"
+msgid "@EConverts into a Stamina ability and deals Poison Damage. Casting any Necromancer ability counts towards the third cast."
+msgstr "@eスタミナアビリティに切り替わり、毒ダメージを与える。長時間持続するほど大きな継続ダメージを与えられる。いずれかのネクロマンサーのアビリティを詠唱すると、このアビリティを詠唱したものとして扱われる。"
+
+#: 52183620-0-1237
+msgctxt "52183620-0-1237"
+msgid "Awarded for completing Veteran Halls of Fabrication."
+msgstr "ホール・オブ・ファブリケーションをベテランでクリアすると手に入る。"
+
+#: 50040644-0-123653
+msgctxt "50040644-0-123653"
+msgid "@EIncreases the damage."
+msgstr "@eダメージを増加させる。"
+
+#: 52183620-0-1236
+#, fuzzy
+msgctxt "52183620-0-1236"
+msgid "Acquired by completing the quest ""Divine Intervention"" in Vvardenfell."
+msgstr "ヴァーデンフェルでクエスト「聖なる介入」をクリアすると手に入る。"
+
+#: 52183620-0-1235
+msgctxt "52183620-0-1235"
+msgid "Obtained by helping Lord Vivec distribute his divine blessings."
+msgstr "ヴィベク卿が聖なる祝福を与える手伝いをすると手に入る。"
+
+#: 50040644-0-122908
+msgctxt "50040644-0-122908"
+msgid "@EGain an AoE Bash attack"
+msgstr "@EGain an AoE Bash attack"
+
+#: 52183620-0-1229
+msgctxt "52183620-0-1229"
+msgid "Awarded for completing the quest that deals with the Forgotten Wastes Public Dungeon."
+msgstr "フォーゴットンウェイストのパブリックダンジョンに関わるクエストをクリアすると手に入る。"
+
+#: 171157587-0-1225
+msgctxt "171157587-0-1225"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Evening Star Bride"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、星霜の月の花嫁"
+
+#: 171157587-0-1224
+msgctxt "171157587-0-1224"
+msgid "Consumable, Dye Stamp, Color, PURPLE, GREY, GREY, Fuschia Cloud"
+msgstr "消費アイテム、染料スタンプ、色、紫、灰、灰、赤紫雲"
+
+#: 50040644-0-122395
+msgctxt "50040644-0-122395"
+msgid "@EDeals Disease Damage. The Colossus deals more damage with each smash."
+msgstr "@E病気ダメージを与える。巨像は攻撃ごとのダメージが増加する。"
+
+#: 206046340-0-122389
+msgctxt "206046340-0-122389"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 50040644-0-122388
+msgctxt "50040644-0-122388"
+msgid "@EThe final smash stuns all enemies hit."
+msgstr "@E最後の一撃が、命中した敵全員を気絶させる"
+
+#: 171157587-0-1223
+msgctxt "171157587-0-1223"
+msgid "Consumable, Dye Stamp, Color, PURPLE, GREY, GREY, Dancer in Webbing"
+msgstr "消費アイテム、染料スタンプ、色、紫、灰、灰、水かきの踊り手"
+
+#: 171157587-0-1221
+msgctxt "171157587-0-1221"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Princely Gray"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、豪壮な灰"
+
+#: 206046340-0-121871
+msgctxt "206046340-0-121871"
+msgid "Increases your damage done to Dungeon, Trial, and Arena Monsters by <<1>>."
+msgstr "ダンジョン、試練、アリーナのモンスターへの与ダメージが<<1>>上昇する。"
+
+#: 206046340-0-121827
+msgctxt "206046340-0-121827"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 171157587-0-1218
+msgctxt "171157587-0-1218"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, PURPLE, Ordinator's Opinion"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、紫、オーディネーターの意見"
+
+#: 171157587-0-1217
+msgctxt "171157587-0-1217"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Pitch Purple"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、紫のピッチ"
+
+#: 171157587-0-1216
+msgctxt "171157587-0-1216"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, PURPLE, Darkened Accents"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、紫、暗くなったアクセント"
+
+#: 206046340-0-121503
+msgctxt "206046340-0-121503"
+msgid "Your Weapon Damage and Spell Damage are increased."
+msgstr "武器ダメージと呪文ダメージが上昇する。"
+
+#: 171157587-0-1215
+msgctxt "171157587-0-1215"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, BROWN, Royal Ink Pigments"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、茶、ロイヤルインクの絵具"
+
+#: 171157587-0-1214
+msgctxt "171157587-0-1214"
+msgid "Consumable, Dye Stamp, Color, PURPLE, GREY, PURPLE, Fruit of the Vine"
+msgstr "消費アイテム、染料スタンプ、色、紫、灰、紫、蔓の果実"
+
+#: 171157587-0-1212
+msgctxt "171157587-0-1212"
+msgid "Consumable, Dye Stamp, Color, PURPLE, BROWN, PURPLE, Filled Soul Gem"
+msgstr "消費アイテム、染料スタンプ、色、紫、茶、紫、満たされた魂石"
+
+#: 171157587-0-1211
+msgctxt "171157587-0-1211"
+msgid "Consumable, Dye Stamp, Color, PURPLE, PURPLE, BROWN, Dunmeri Eyeliner"
+msgstr "消費アイテム、染料スタンプ、色、紫、紫、茶、ダンマーのアイライナー"
+
+#: 206046340-0-121076
+msgctxt "206046340-0-121076"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-121075
+msgctxt "206046340-0-121075"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-121074
+msgctxt "206046340-0-121074"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-121066
+msgctxt "206046340-0-121066"
+msgid "Increases your damage done by <<1>>."
+msgstr "与ダメージが<<1>>上昇する。"
+
+#: 206046340-0-121065
+msgctxt "206046340-0-121065"
+msgid "Increases your damage done by <<1>>."
+msgstr "与ダメージが<<1>>上昇する。"
+
+#: 50040644-0-12104
+msgctxt "50040644-0-12104"
+msgid "@ESometimes heals target when hit."
+msgstr "@ESometimes heals target when hit."
+
+#: 171157587-0-1210
+msgctxt "171157587-0-1210"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, PURPLE, Dusk in Dawnstar"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、紫、ドーンスターの黄昏"
+
+#: 50040644-0-12093
+msgctxt "50040644-0-12093"
+msgid "@ECooldown reduced when killing target."
+msgstr "@ECooldown reduced when killing target."
+
+#: 171157587-0-1209
+msgctxt "171157587-0-1209"
+msgid "Consumable, Dye Stamp, Color, GREY, PURPLE, GREY, Mortician's Morndas"
+msgstr "消費アイテム、染料スタンプ、色、灰、紫、灰、葬儀屋の月耀"
+
+#: 171157587-0-1208
+msgctxt "171157587-0-1208"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, PURPLE, Deep Night Sky"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、紫、深い夜の空"
+
+#: 171157587-0-1202
+msgctxt "171157587-0-1202"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, BLUE, Woolly Lichen"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、青、毛の多い苔"
+
+#: 171157587-0-1201
+msgctxt "171157587-0-1201"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, BROWN, Night's Depth"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、茶、夜の深さ"
+
+#: 206046340-0-120028
+msgctxt "206046340-0-120028"
+msgid "Increases your Spell Critical rating by 1320, increasing your Spell Critical chance by 6%."
+msgstr "呪文クリティカルレートが1320上昇し、呪文クリティカル率が6%上昇する。"
+
+#: 206046340-0-120023
+msgctxt "206046340-0-120023"
+msgid "Increases your Weapon Damage by 10%."
+msgstr "武器ダメージが10%上昇する。"
+
+#: 206046340-0-120020
+msgctxt "206046340-0-120020"
+msgid "Increases your Max Health by 10%."
+msgstr "最大体力が10%上昇する。"
+
+#: 206046340-0-120017
+msgctxt "206046340-0-120017"
+msgid "Increases your Spell Damage by 10%."
+msgstr "呪文ダメージが10%上昇する。"
+
+#: 206046340-0-120015
+msgctxt "206046340-0-120015"
+msgid "Increases your Weapon and Spell Damage by 258."
+msgstr "武器ダメージと呪文ダメージが258上昇する。"
+
+#: 206046340-0-120013
+msgctxt "206046340-0-120013"
+msgid "Increases your Critical Hit Damage by 15%."
+msgstr "クリティカル攻撃ダメージを15%上昇させる。"
+
+#: 206046340-0-120008
+msgctxt "206046340-0-120008"
+msgid "Increases your damage done by 8%."
+msgstr "与ダメージが8%上昇する。"
+
+#: 206046340-0-120005
+msgctxt "206046340-0-120005"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-120004
+msgctxt "206046340-0-120004"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-120003
+msgctxt "206046340-0-120003"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-120002
+msgctxt "206046340-0-120002"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 171157587-0-1200
+msgctxt "171157587-0-1200"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, BLUE, Black Mantra"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、青、黒の真言"
+
+#: 206046340-0-119719
+msgctxt "206046340-0-119719"
+msgid "Pretend that it's the Clockwork City Anniversary."
+msgstr "Pretend that it's the Clockwork City Anniversary."
+
+#: 171157587-0-1197
+msgctxt "171157587-0-1197"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, BROWN, Widow's Weeds"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、茶、ウィドウズ・ウィード"
+
+#: 171157587-0-1194
+msgctxt "171157587-0-1194"
+msgid "Consumable, Dye Stamp, Color, BLUE, BROWN, BLUE, Bluebottle Blush"
+msgstr "消費アイテム、染料スタンプ、色、青、茶、青、ブルーボトル・ブラッシュ"
+
+#: 206046340-0-119156
+msgctxt "206046340-0-119156"
+msgid "Restoring Magicka and Stamina"
+msgstr "マジカとスタミナを回復する"
+
+#: 171157587-0-1191
+msgctxt "171157587-0-1191"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, GREY, Naval Dress Uniform"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、灰、海軍の制服"
+
+#: 50040644-0-118912
+msgctxt "50040644-0-118912"
+msgid "@ESome of the damage you take is transferred to the spirit instead."
+msgstr "@E受けたダメージの一部を霊魂が肩代わりする。"
+
+#: 171157587-0-1189
+msgctxt "171157587-0-1189"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, GREY, Dark of the Moons"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、灰、月の闇"
+
+#: 50040644-0-118809
+msgctxt "50040644-0-118809"
+msgid "@ECan consume multiple corpses to increase the duration of the heal over time."
+msgstr "@E複数の死体を吸収して、回復の持続時間を延長できる。"
+
+#: 171157587-0-1188
+msgctxt "171157587-0-1188"
+msgid "Consumable, Dye Stamp, Color, BLUE, GREY, GREY, Narsis Navy"
+msgstr "消費アイテム、染料スタンプ、色、青、灰、灰、ナルシス・ネイビー"
+
+#: 50040644-0-118781
+msgctxt "50040644-0-118781"
+msgid "@EIncreases the duration."
+msgstr "@e持続時間を延長する。"
+
+#: 50040644-0-118763
+msgctxt "50040644-0-118763"
+msgid "@EConverts into a Stamina ability and deals Disease Damage. The corpse explodes at the end of the siphon, dealing additional damage."
+msgstr "@Eスタミナアビリティに切り替わり、病気ダメージを与える。吸収が終わると死体が爆発し、追加ダメージを与える。"
+
+#: 50040644-0-118726
+msgctxt "50040644-0-118726"
+msgid "@EThe mage deals damage to all enemies around the initial target."
+msgstr "@E魔術師は当初の対象の周囲にいる全ての敵にダメージを与える。"
+
+#: 171157587-0-1187
+msgctxt "171157587-0-1187"
+msgid "Consumable, Dye Stamp, Color, BLUE, GREY, GREY, Night in Necrom"
+msgstr "消費アイテム、染料スタンプ、色、青、灰、灰、死霊術の夜"
+
+#: 50040644-0-118664
+msgctxt "50040644-0-118664"
+msgid "@EGain an AoE Bash attack"
+msgstr "@E範囲バッシュ攻撃を得る"
+
+#: 50040644-0-118639
+msgctxt "50040644-0-118639"
+msgid "@EGain more Ultimate per corpse."
+msgstr "@E死体を吸収するごとにアルティマをさらに得る"
+
+#: 206046340-0-118629
+msgctxt "206046340-0-118629"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 50040644-0-118623
+msgctxt "50040644-0-118623"
+msgid "@EGain Major Protection"
+msgstr "@E防護(強)を得る"
+
+#: 206046340-0-118613
+msgctxt "206046340-0-118613"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 206046340-0-118600
+msgctxt "206046340-0-118600"
+msgid "Immobilized. You cannot move while immobilized."
+msgstr "移動不能になった。移動不能の間は移動できない。"
+
+#: 171157587-0-1186
+msgctxt "171157587-0-1186"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Thunderhead"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、サンダーヘッド"
+
+#: 206046340-0-118592
+msgctxt "206046340-0-118592"
+msgid "Immobilized. You cannot move while immobilized."
+msgstr "移動不能になった。移動不能の間は移動できない。"
+
+#: 171157587-0-1185
+msgctxt "171157587-0-1185"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Imperial Cadet"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、帝国のカデット"
+
+#: 206046340-0-118437
+msgctxt "206046340-0-118437"
+msgid "Puncture"
+msgstr "穿孔"
+
+#: 206046340-0-118409
+msgctxt "206046340-0-118409"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 50040644-0-118404
+msgctxt "50040644-0-118404"
+msgid "@EAllies can activate a synergy to damage and apply Minor Vulnerability to enemies.  Increases the duration of the totem as the ability ranks up."
+msgstr "@E味方はシナジーを発動し、敵にダメージを与えて脆弱(弱)を付与する。アビリティのランクが上昇すると、トーテムの持続時間が延長される。"
+
+#: 171157587-0-1184
+msgctxt "171157587-0-1184"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, GREY, Almost Pallid"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、灰、ほとんど青白い"
+
+#: 50040644-0-118380
+msgctxt "50040644-0-118380"
+msgid "@EThe totem can be summoned up to 28 meters away.  Reduces the cost as the ability ranks up."
+msgstr "@Eトーテムを最大28メートル先まで召喚できる。アビリティのランクが上昇すると、消費が減少する。"
+
+#: 50040644-0-118379
+msgctxt "50040644-0-118379"
+msgid "@EYou consume other corpses in the area and summon Blastbones."
+msgstr "@Eエリアの他の死体を吸収し、骨爆弾を召喚する。"
+
+#: 50040644-0-118367
+msgctxt "50040644-0-118367"
+msgid "@EYou restore Magicka and Stamina for each ally you attempt to resurrect."
+msgstr "@E味方を蘇生させようとするごとに、マジカとスタミナを回復する。"
+
+#: 206046340-0-118366
+msgctxt "206046340-0-118366"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 206046340-0-118358
+msgctxt "206046340-0-118358"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 50040644-0-118352
+msgctxt "50040644-0-118352"
+msgid "@EEmpowers allies and strengthens your summons."
+msgstr "@E味方を強化し、召喚した対象を強くする。"
+
+#: 206046340-0-118313
+msgctxt "206046340-0-118313"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 50040644-0-118308
+msgctxt "50040644-0-118308"
+msgid "@ECan immobilize targets."
+msgstr "@E対象を移動不能にできる。"
+
+#: 171157587-0-1183
+msgctxt "171157587-0-1183"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, BROWN, Pearly Pear"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、茶、真珠のような梨"
+
+#: 206046340-0-118246
+msgctxt "206046340-0-118246"
+msgid "Increases your Physical and Spell Resistance by <<1>>."
+msgstr "物理耐性と呪文耐性を<<1>>上昇させる。"
+
+#: 50040644-0-118244
+msgctxt "50040644-0-118244"
+msgid "@EReduces the cost of your Necromancer summon abilities."
+msgstr "@Eネクロマンサーの召喚アビリティのコストが低下する。"
+
+#: 206046340-0-118239
+msgctxt "206046340-0-118239"
+msgid "Increases your Physical and Spell Resistance by <<1>>."
+msgstr "物理耐性と呪文耐性を<<1>>上昇させる。"
+
+#: 50040644-0-118237
+msgctxt "50040644-0-118237"
+msgid "@EPulls in ranged enemies.  Reduces the cost as the ability ranks up."
+msgstr "@E遠距離の敵を引き寄せる。アビリティのランクが上昇すると、消費が減少する。"
+
+#: 50040644-0-118226
+msgctxt "50040644-0-118226"
+msgid "@EConverts to a Stamina ability and deals Physical Damage. Every third cast will set enemies Off Balance."
+msgstr "@Eスタミナアビリティに切り替え、物理ダメージを与える。このアビリティを3回詠唱するごとに、敵はフラフラ状態になる。"
+
+#: 50040644-0-118223
+msgctxt "50040644-0-118223"
+msgid "@EGain a heal over time."
+msgstr "@E継続回復を得る。"
+
+#: 171157587-0-1182
+msgctxt "171157587-0-1182"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Ashen Spectrum"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、アッシュのスペクトル"
+
+#: 171157587-0-1181
+msgctxt "171157587-0-1181"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, High-Contrast Concept"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、強調概念"
+
+#: 50040644-0-118017
+msgctxt "50040644-0-118017"
+msgid "@EConsuming a corpse also removes negative effects."
+msgstr "@E死体から吸収すると、マイナス効果も除去される。"
+
+#: 50040644-0-118008
+msgctxt "50040644-0-118008"
+msgid "@EYou restore Magicka while siphoning the corpse."
+msgstr "@E死体からの吸収中にマジカも回復する。"
+
+#: 171157587-0-1180
+msgctxt "171157587-0-1180"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, GREY, Fustian Flax"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、灰、フスティアン・フラックス"
+
+#: 50040644-0-117940
+msgctxt "50040644-0-117940"
+msgid "@EYou restore Magicka and Stamina for each negative effect removed."
+msgstr "@Eマイナス効果を解除するごとに、マジカとスタミナを回復する。"
+
+#: 50040644-0-117919
+msgctxt "50040644-0-117919"
+msgid "@EIncreases the amount of negative effects removed."
+msgstr "@E解除するマイナス効果の数を増大させる。"
+
+#: 171157587-0-1179
+msgctxt "171157587-0-1179"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, BROWN, Rime and Bark"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、茶、ライムと樹皮"
+
+#: 50040644-0-117888
+msgctxt "50040644-0-117888"
+msgid "@EConsumes a corpse to heal a second target."
+msgstr "@E死体を吸収すると、2人目の対象を治癒する。"
+
+#: 206046340-0-117885
+msgctxt "206046340-0-117885"
+msgid "Reduces your healing received and Health Recovery by <<1>>."
+msgstr "被回復と体力再生が<<1>>低下する。"
+
+#: 50040644-0-117883
+msgctxt "50040644-0-117883"
+msgid "@EGrant resistances to the target equal to half the amount healed."
+msgstr "@E対象に回復した量の半分の耐性を付与する。"
+
+#: 50040644-0-117850
+msgctxt "50040644-0-117850"
+msgid "@EYou can use your own synergy."
+msgstr "@E自身のシナジーを使用できる。"
+
+#: 206046340-0-117819
+msgctxt "206046340-0-117819"
+msgid "Reduces your Physical Resistance by <<1>>."
+msgstr "物理耐性が<<1>>低下する。"
+
+#: 206046340-0-117818
+msgctxt "206046340-0-117818"
+msgid "Reduces your Spell Resistance by <<1>>."
+msgstr "呪文耐性が<<1>>低下する。"
+
+#: 50040644-0-117805
+msgctxt "50040644-0-117805"
+msgid "@EReduces the resistances of enemies in the area."
+msgstr "@Eエリアの敵の耐性を低下させる。"
+
+#: 171157587-0-1178
+msgctxt "171157587-0-1178"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Cryptic Grays"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、謎の灰"
+
+#: 206046340-0-117727
+msgctxt "206046340-0-117727"
+msgid "Reduces your healing received and Health Recovery by <<1>>."
+msgstr "被回復と体力再生が<<1>>低下する。"
+
+#: 171157587-0-1177
+msgctxt "171157587-0-1177"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Lies Told in the Dark"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、闇で語られる嘘"
+
+#: 50040644-0-11768
+msgctxt "50040644-0-11768"
+msgid "@EIncreased poison application chance."
+msgstr "@EIncreased poison application chance."
+
+#: 50040644-0-117637
+msgctxt "50040644-0-117637"
+msgid "@EThe third cast of the skull will bounce to other nearby enemies."
+msgstr "@E頭蓋骨アビリティが3回詠唱されると、近くの敵に跳ねていく。"
+
+#: 206046340-0-117636
+msgctxt "206046340-0-117636"
+msgid "Defensive shields activated."
+msgstr "防御シールド発動。"
+
+#: 206046340-0-117635
+msgctxt "206046340-0-117635"
+msgid "Defensive shields activated."
+msgstr "防御シールド発動。"
+
+#: 206046340-0-117634
+msgctxt "206046340-0-117634"
+msgid "Defensive shields activated."
+msgstr "防御シールド発動。"
+
+#: 206046340-0-117633
+msgctxt "206046340-0-117633"
+msgid "Defensive shields activated."
+msgstr "防御シールド発動。"
+
+#: 206046340-0-117632
+msgctxt "206046340-0-117632"
+msgid "Defensive shields activated."
+msgstr "防御シールド発動。"
+
+#: 50040644-0-117624
+msgctxt "50040644-0-117624"
+msgid "@EConverts into a Stamina ability and deals Poison Damage. Casting any Necromancer ability counts towards the third cast."
+msgstr "@Eスタミナアビリティに切り替わり、毒ダメージを与える。長時間持続するほど大きな継続ダメージを与えられる。いずれかのネクロマンサーのアビリティを詠唱すると、このアビリティを詠唱したものとして扱われる。"
+
+#: 171157587-0-1176
+msgctxt "171157587-0-1176"
+msgid "Consumable, Dye Stamp, Color, GREY, BROWN, GREY, Falkreath Headstones"
+msgstr "消費アイテム、染料スタンプ、色、灰、茶、灰、ファルクリースの墓石"
+
+#: 206046340-0-117326
+msgctxt "206046340-0-117326"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-117325
+msgctxt "206046340-0-117325"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-117323
+msgctxt "206046340-0-117323"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 171157587-0-1173
+msgctxt "171157587-0-1173"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Winter in Windhelm"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、ウィンドヘルムの冬"
+
+#: 206046340-0-117098
+msgctxt "206046340-0-117098"
+msgid "Dungeons and Trials & Sai Sahan"
+msgstr "Dungeons and Trials & Sai Sahan"
+
+#: 206046340-0-117097
+msgctxt "206046340-0-117097"
+msgid "Cyrodiil and PvP & Abner Tharn"
+msgstr "Cyrodiil and PvP & Abner Tharn"
+
+#: 206046340-0-117096
+msgctxt "206046340-0-117096"
+msgid "Delve / World Boss Dailies & Lyris Titanborn"
+msgstr "Delve / World Boss Dailies & Lyris Titanborn"
+
+#: 206046340-0-117095
+msgctxt "206046340-0-117095"
+msgid "Crafting Writs & The Prophet"
+msgstr "Crafting Writs & The Prophet"
+
+#: 206046340-0-117025
+msgctxt "206046340-0-117025"
+msgid "Increases your damage taken by <<1>>."
+msgstr "被ダメージが<<1>>上昇する"
+
+#: 171157587-0-1170
+msgctxt "171157587-0-1170"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Gray Becomes You"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、お前は灰になる"
+
+#: 171157587-0-1169
+msgctxt "171157587-0-1169"
+msgid "Consumable, Dye Stamp, Color, GREY, GREY, GREY, Shadows Dance"
+msgstr "消費アイテム、染料スタンプ、色、灰、灰、灰、影の踊り"
+
+#: 52183620-0-1168
+msgctxt "52183620-0-1168"
+msgid "Obtained by participating in the New Life Festival."
+msgstr "ニュー・ライフ・フェスティバルに参加することで入手できる。"
+
+#: 52183620-0-1167
+msgctxt "52183620-0-1167"
+msgid "Obtained by completing the Jester's Festival Event."
+msgstr "道化師祭りイベントをクリアすると獲得できる"
+
+#: 206046340-0-116636
+msgctxt "206046340-0-116636"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-116634
+msgctxt "206046340-0-116634"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 52183620-0-1166
+#, fuzzy
+msgctxt "52183620-0-1166"
+msgid "Acquired by completing the quest ""The Scarlet Judge"" in Suran."
+msgstr "スランでクエスト「スカーレットジャッジ」を完了して獲得。"
+
+#: 206046340-0-116586
+msgctxt "206046340-0-116586"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 171157587-0-1165
+msgctxt "171157587-0-1165"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, BROWN, Alabaster and Grape"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、茶、アラバスターとブドウ"
+
+#: 206046340-0-116374
+msgctxt "206046340-0-116374"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 206046340-0-116371
+msgctxt "206046340-0-116371"
+msgid "Increases your Weapon Damage by <<1>>."
+msgstr "武器ダメージが<<1>>増加する。"
+
+#: 171157587-0-1163
+msgctxt "171157587-0-1163"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, GREY, Frosty Patina"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、灰、冷たい錆"
+
+#: 171157587-0-1160
+msgctxt "171157587-0-1160"
+msgid "Consumable, Dye Stamp, Color, BLUE, GREY, BLUE, Spectrum of Sleet"
+msgstr "消費アイテム、染料スタンプ、色、青、灰、青、凍雨のスペクトル"
+
+#: 52183620-0-1156
+msgctxt "52183620-0-1156"
+msgid "NOT IN USE"
+msgstr "NOT IN USE"
+
+#: 171157587-0-1153
+msgctxt "171157587-0-1153"
+msgid "Consumable, Dye Stamp, Color, GREY, BLUE, GREY, Somber Stalhrim"
+msgstr "消費アイテム、染料スタンプ、色、灰、青、灰、薄暗いスタルリム"
+
+#: 171157587-0-1152
+msgctxt "171157587-0-1152"
+msgid "Consumable, Dye Stamp, Color, BLUE, GREY, GREY, Iceberg Hues"
+msgstr "消費アイテム、染料スタンプ、色、青、灰、灰、氷山の色"
+
+#: 171157587-0-1151
+msgctxt "171157587-0-1151"
+msgid "Consumable, Dye Stamp, Color, BLUE, GREY, GREY, Glacial Tinges"
+msgstr "消費アイテム、染料スタンプ、色、青、灰、灰、氷河の薄染め"
+
+#: 171157587-0-1150
+msgctxt "171157587-0-1150"
+msgid "Mounts,Mount,Ride,Transport,Movement,Horse,Equine,Stoic,"
+msgstr "騎乗動物、騎乗、輸送、移動、馬、禁欲、"
+
+#: 206046340-0-114858
+msgctxt "206046340-0-114858"
+msgid "Reduces your damage taken from area of effect attacks by <<1>>."
+msgstr "範囲攻撃の被ダメージが<<1>>低下する。"
+
+#: 206046340-0-114854
+msgctxt "206046340-0-114854"
+msgid "Recover <<1>> Magicka every <<2>> for <<3>>."
+msgstr "マジカが<<1>>、<<2>>毎に<<3>>の間回復する。"
+
+#: 206046340-0-114841
+msgctxt "206046340-0-114841"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 206046340-0-114838
+msgctxt "206046340-0-114838"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 171157587-0-1148
+msgctxt "171157587-0-1148"
+msgid "Utility,Supplies,Utility,Consumables,Consumables,Useful,Utility,Supplies,"
+msgstr "ユーティリティ、物資、消耗品、有用、物資、"
+
+#: 206046340-0-114795
+msgctxt "206046340-0-114795"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114794
+msgctxt "206046340-0-114794"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114793
+msgctxt "206046340-0-114793"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114792
+msgctxt "206046340-0-114792"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114791
+msgctxt "206046340-0-114791"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114787
+msgctxt "206046340-0-114787"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114786
+msgctxt "206046340-0-114786"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114785
+msgctxt "206046340-0-114785"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114784
+msgctxt "206046340-0-114784"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114783
+msgctxt "206046340-0-114783"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114782
+msgctxt "206046340-0-114782"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114781
+msgctxt "206046340-0-114781"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114780
+msgctxt "206046340-0-114780"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114779
+msgctxt "206046340-0-114779"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114778
+msgctxt "206046340-0-114778"
+msgid "Pretend that it's the given week of the Luxury Goods Vendor."
+msgstr "Pretend that it's the given week of the Luxury Goods Vendor."
+
+#: 206046340-0-114717
+msgctxt "206046340-0-114717"
+msgid "Frozen. Damage taken increased."
+msgstr "凍結する。被ダメージが増加する。"
+
+#: 50040644-0-114716
+msgctxt "50040644-0-114716"
+msgid "@EOther Magicka abilities have a chance to make your next Crystal Fragments instant, deal more damage, and cost less."
+msgstr "@e他のマジカアビリティを使用すると、一定確率で次の水晶の断片が即時発動し、ダメージが増加し消費も減少する"
+
+#: 171157587-0-1147
+msgctxt "171157587-0-1147"
+msgid "Utility,Supplies,Utility,Consumables,Consumables,Useful,Utility,Supplies,"
+msgstr "ユーティリティ、物資、消耗品、有用、物資、"
+
+#: 171157587-0-1145
+msgctxt "171157587-0-1145"
+msgid "Pay-to-Win,,"
+msgstr "ペイ・トゥ・ウィン、"
+
+#: 206046340-0-114440
+msgctxt "206046340-0-114440"
+msgid "Damage done reduced by <<1>>."
+msgstr "与ダメージを<<1>>減少させる。"
+
+#: 206046340-0-114439
+msgctxt "206046340-0-114439"
+msgid "Healing received is reduced by <<1>>."
+msgstr "被回復力を<<1>>減少させる。"
+
+#: 206046340-0-114435
+msgctxt "206046340-0-114435"
+msgid "Increases Movement Speed by 20%"
+msgstr "20%移動速度上昇"
+
+#: 171157587-0-1144
+msgctxt "171157587-0-1144"
+msgid "Pay-to-Win,,"
+msgstr "ペイ・トゥ・ウィン、"
+
+#: 52183620-0-1143
+msgctxt "52183620-0-1143"
+msgid "Awarded for completing Veteran Selene's Web."
+msgstr "セレーンの巣をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1142
+msgctxt "52183620-0-1142"
+msgid "Awarded for completing Veteran Vaults of Madness."
+msgstr "狂気の地下室をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1139
+msgctxt "52183620-0-1139"
+msgid "Awarded for completing Veteran Sanctum Ophidia."
+msgstr "聖域オフィディアをベテランでクリアすると手に入る。"
+
+#: 52183620-0-1137
+msgctxt "52183620-0-1137"
+msgid "Awarded for completing Veteran Hel Ra Citadel."
+msgstr "ヘル・ラ要塞をベテランでクリアすると手に入る。"
+
+#: 206046340-0-113617
+msgctxt "206046340-0-113617"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 52183620-0-1136
+msgctxt "52183620-0-1136"
+msgid "Awarded for completing Veteran City of Ash II."
+msgstr "灰の街2をベテランでクリアすると手に入る。"
+
+#: 206046340-0-113535
+msgctxt "206046340-0-113535"
+msgid "Pretend that it's the Clockwork City Anniversary."
+msgstr "Pretend that it's the Clockwork City Anniversary."
+
+#: 206046340-0-11353
+msgctxt "206046340-0-11353"
+msgid "Increases experience, alliance points, and gold by 14%. Increase Weapon Critical and Spell Critical by 8% while in player vs. player locations."
+msgstr "経験値、同盟ポイント、ゴールドの取得量が14%増加。プレイヤー対戦エリアにいる間、武器と呪文クリティカルが8%上昇。"
+
+#: 206046340-0-11352
+msgctxt "206046340-0-11352"
+msgid "Increases experience, alliance points, and gold by 13%. Increase Weapon Critical and Spell Critical by 7% while in player vs. player locations."
+msgstr "経験値、同盟ポイント、ゴールドの取得量が13%増加。プレイヤー対戦エリアにいる間、武器と呪文クリティカルが7%上昇。"
+
+#: 206046340-0-113509
+msgctxt "206046340-0-113509"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 206046340-0-11350
+msgctxt "206046340-0-11350"
+msgid "Increases experience, alliance points, and gold by 12%. Increase Weapon Critical and Spell Critical by 6% while in player vs. player locations."
+msgstr "経験値、同盟ポイント、ゴールドの取得量が12%増加。プレイヤー対戦エリアにいる間、武器と呪文クリティカルが6%上昇。"
+
+#: 52183620-0-1135
+msgctxt "52183620-0-1135"
+msgid "Awarded for completing Veteran Blessed Crucible."
+msgstr "聖なるるつぼをベテランでクリアすると手に入る。"
+
+#: 206046340-0-11347
+msgctxt "206046340-0-11347"
+msgid "Increases experience, alliance points, and gold by 10%. Increase Weapon Critical and Spell Critical by 4% while in player vs. player locations."
+msgstr "経験値、同盟ポイント、ゴールドの取得量が10%増加。プレイヤー対戦エリアにいる間、武器と呪文クリティカルが4%上昇。"
+
+#: 206046340-0-11346
+msgctxt "206046340-0-11346"
+msgid "Increases experience, alliance points, and gold by 5% while in player vs. player locations."
+msgstr "プレイヤー対戦エリアにいる間、経験値、同盟ポイント、ゴールドの取得量が5%増加。"
+
+#: 206046340-0-113455
+msgctxt "206046340-0-113455"
+msgid "Boosters engaged!"
+msgstr "ブースターが掛かった！"
+
+#: 206046340-0-11345
+msgctxt "206046340-0-11345"
+msgid "Increases experience, alliance points, and gold by 9%. Increase Weapon Critical and Spell Critical by 3% while in player vs. player locations."
+msgstr "経験値、同盟ポイント、ゴールドの取得量が9%増加。プレイヤー対戦エリアにいる間、武器と呪文クリティカルが3%上昇。"
+
+#: 206046340-0-11343
+msgctxt "206046340-0-11343"
+msgid "Increases experience, alliance points, and gold by 8%. Increase Weapon Critical and Spell Critical by 2% while in player vs. player locations."
+msgstr "経験値、同盟ポイント、ゴールドの取得量が8%増加。プレイヤー対戦エリアにいる間、武器と呪文クリティカルが2%上昇。"
+
+#: 206046340-0-11341
+msgctxt "206046340-0-11341"
+msgid "Increases experience, alliance points, and gold by 7%. Increase Weapon Critical and Spell Critical by 1% while in player vs. player locations."
+msgstr "プレイヤー対戦エリアにいる間、経験値、同盟ポイント、ゴールドの取得量が7%増加。武器クリティカルと呪文クリティカルが1%上昇。"
+
+#: 52183620-0-1134
+msgctxt "52183620-0-1134"
+msgid "Awarded for completing Veteran Elden Hollow II."
+msgstr "エルデン洞穴2をベテランでクリアすると手に入る。"
+
+#: 206046340-0-113382
+msgctxt "206046340-0-113382"
+msgid "Marked"
+msgstr "マーク済"
+
+#: 206046340-0-113356
+msgctxt "206046340-0-113356"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 206046340-0-113355
+msgctxt "206046340-0-113355"
+msgid "Grants you <<1>> Ultimate every |cffffff1.5|r seconds while in combat."
+msgstr "戦闘中、|cffffff1.5|r秒ごとに<<1>>アルティマを得る。"
+
+#: 206046340-0-113319
+msgctxt "206046340-0-113319"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-113312
+msgctxt "206046340-0-113312"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 206046340-0-113307
+msgctxt "206046340-0-113307"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 206046340-0-113306
+msgctxt "206046340-0-113306"
+msgid "Increases your healing received by <<1>>."
+msgstr "被回復力を<<1>>増加させる。"
+
+#: 52183620-0-1133
+msgctxt "52183620-0-1133"
+msgid "Awarded for completing Veteran Elden Hollow I."
+msgstr "エルデン洞穴1をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1132
+msgctxt "52183620-0-1132"
+msgid "Awarded for completing Veteran Tempest Island."
+msgstr "テンペスト島をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1130
+msgctxt "52183620-0-1130"
+msgid "Awarded for completing Veteran Crypt of Hearts II."
+msgstr "ハーツ墓地2をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1129
+msgctxt "52183620-0-1129"
+msgid "Awarded for completing Veteran White-Gold Tower."
+msgstr "白金の塔をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1127
+msgctxt "52183620-0-1127"
+msgid "Awarded for completing Veteran Arx Corinium."
+msgstr "アークス・コリニウムをベテランでクリアすると手に入る。"
+
+#: 52183620-0-1121
+msgctxt "52183620-0-1121"
+msgid "Awarded for completing Veteran Imperial City Prison."
+msgstr "帝都監獄をベテランでクリアすると手に入る。"
+
+#: 206046340-0-111942
+msgctxt "206046340-0-111942"
+msgid "Ignore the Movement Speed penalty while in Crouch.\n\nDecreases the time it takes to Crouch by <<1>>\n\nMovement while in Stealth no longer costs Stamina.\n\nWerewolves gain immunity to Indrik's teleportation magic and can interact with Hunting Wisps."
+msgstr "かがみ状態の移動速度ペナルティを無視する。\r\n\r\nかがみ状態になるまでの時間を<<1>>短縮する。\r\n\r\nステルス状態の移動はスタミナを消費しなくなる。\r\n\r\nウェアウルフはインドリクの転移魔法が無効になり、ハンティングウィスプとアクションが行える。"
+
+#: 52183620-0-1119
+msgctxt "52183620-0-1119"
+msgid "Awarded for completing Veteran Wayrest Sewers I."
+msgstr "ウェイレスト下水道1をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1118
+msgctxt "52183620-0-1118"
+msgid "Awarded for completing Veteran Spindleclutch II."
+msgstr "スピンドルクラッチ2をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1117
+msgctxt "52183620-0-1117"
+msgid "Awarded for completing Veteran Darkshade Caverns II."
+msgstr "ダークシェイド洞窟2をベテランでクリアすると手に入る。"
+
+#: 52183620-0-1116
+msgctxt "52183620-0-1116"
+msgid "Awarded for completing Veteran Darkshade Caverns I."
+msgstr "ダークシェイド洞窟1をベテランでクリアすると手に入る。"
+
+#: 206046340-0-111481
+msgctxt "206046340-0-111481"
+msgid "Zel is currently being restrained and cannot move forward while Ary is pulling on the shared chain."
+msgstr "ゼルは現在拘束されていて、前に動けない。一方、アリは同じ鎖を引っ張っている。"
+
+#: 206046340-0-111478
+msgctxt "206046340-0-111478"
+msgid "Zel is currently dominant and is dictating the length of the shared chain."
+msgstr "ゼルは現在支配していて、同じ鎖をより長く使っている。"
+
+#: 206046340-0-111477
+msgctxt "206046340-0-111477"
+msgid "Zel is currently being restrained and cannot move forward while Ary is pulling on the shared chain."
+msgstr "ゼルは現在拘束されていて、前に動けない。一方、アリは同じ鎖を引っ張っている。"
+
+#: 206046340-0-111461
+msgctxt "206046340-0-111461"
+msgid "Ary is currently dominant and is dictating the length of the shared chain."
+msgstr "アリは現在支配していて、同じ鎖をより長く使っている。"
+
+#: 206046340-0-111456
+msgctxt "206046340-0-111456"
+msgid "Ary is currently being restrained and cannot move forward while Zel is pulling on the shared chain."
+msgstr "アリは現在拘束されていて、前に動けない。一方、ゼルは同じ鎖を引っ張っている。"
+
+#: 206046340-0-111401
+msgctxt "206046340-0-111401"
+msgid "Evasion"
+msgstr "回避"
+
+#: 52183620-0-1114
+msgctxt "52183620-0-1114"
+msgid "Awarded for completing Veteran Fungal Grotto I."
+msgstr "フンガル洞窟1をベテランでクリアすると手に入る。"
+
+#: 206046340-0-111377
+msgctxt "206046340-0-111377"
+msgid "Grants you <<1>> Ultimate every |cffffff1.5|r seconds while in combat."
+msgstr "戦闘中、|cffffff1.5|r秒ごとに<<1>>アルティマを得る。"
+
+#: 206046340-0-111354
+msgctxt "206046340-0-111354"
+msgid "Reduces your Weapon and Spell Damage."
+msgstr "武器ダメージと呪文ダメージが低下する。"
+
+#: 52183620-0-1113
+msgctxt "52183620-0-1113"
+msgid "Awarded for completing Veteran Banished Cells II."
+msgstr "追放者の監房2をベテランでクリアすると手に入る。"
+
+#: 206046340-0-111221
+msgctxt "206046340-0-111221"
+msgid "Increases your healing received by <<1>>."
+msgstr "被回復力を<<1>>増加させる。"
+
+#: 52183620-0-1112
+msgctxt "52183620-0-1112"
+msgid "Awarded for completing Veteran Banished Cells I."
+msgstr "追放者の監房1をベテランでクリアすると手に入る。"
+
+#: 206046340-0-110968
+msgctxt "206046340-0-110968"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-110923
+msgctxt "206046340-0-110923"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-110920
+msgctxt "206046340-0-110920"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 52183620-0-1109
+msgctxt "52183620-0-1109"
+msgid "Obtained by completing the 2017 Anniversary event."
+msgstr "2017年記念イベントをクリアすると手に入る。"
+
+#: 171157587-0-1104
+msgctxt "171157587-0-1104"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-110384
+msgctxt "206046340-0-110384"
+msgid "Your grizzly has respawned recently and cannot automatically respawn again."
+msgstr "グリズリーは復活したばかりのため、自動的に復活できない"
+
+#: 171157587-0-1103
+msgctxt "171157587-0-1103"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-110256
+msgctxt "206046340-0-110256"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 171157587-0-1102
+msgctxt "171157587-0-1102"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1100
+#, fuzzy
+msgctxt "171157587-0-1100"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-109989
+msgctxt "206046340-0-109989"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 206046340-0-109976
+msgctxt "206046340-0-109976"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 206046340-0-109966
+msgctxt "206046340-0-109966"
+msgid "Increases your Weapon and Spell Damage by <<1>>."
+msgstr "武器と呪文ダメージが<<1>>増加する。"
+
+#: 171157587-0-1099
+#, fuzzy
+msgctxt "171157587-0-1099"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-109835
+msgctxt "206046340-0-109835"
+msgid "Unbreakable Stun. You are unable to attack or move while stunned. Break Free has no effect on this stun."
+msgstr "打破できない気絶を受けた。気絶中は攻撃も移動もできない。この気絶には打破を使えない。"
+
+#: 52183620-0-1098
+#, fuzzy
+msgctxt "52183620-0-1098"
+msgid "Purchase Requires:\n""Hero of the Ebonheart Pact"" Achievement"
+msgstr "購入条件:\r\n実績「エボンハート・パクトの英雄」"
+
+#: 206046340-0-109419
+msgctxt "206046340-0-109419"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 206046340-0-109418
+msgctxt "206046340-0-109418"
+msgid "Increases your Light Attack damage by <<1>>."
+msgstr "軽攻撃のダメージが<<1>>上昇する。"
+
+#: 171157587-0-1094
+msgctxt "171157587-0-1094"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1093
+msgctxt "171157587-0-1093"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 52183620-0-1092
+#, fuzzy
+msgctxt "52183620-0-1092"
+msgid "Purchase Requires:\n""Bangkorai Adventurer"" Achievement"
+msgstr "購入条件:\r\n実績「バンコライの冒険者」"
+
+#: 206046340-0-108951
+msgctxt "206046340-0-108951"
+msgid "Reduces your Spell Resistance by <<1>>."
+msgstr "呪文耐性が<<1>>低下する。"
+
+#: 206046340-0-108939
+msgctxt "206046340-0-108939"
+msgid "Reduces your damage done by <<1>>."
+msgstr "与ダメージが<<1>>低下する。"
+
+#: 206046340-0-108935
+msgctxt "206046340-0-108935"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 206046340-0-108934
+msgctxt "206046340-0-108934"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 206046340-0-108913
+msgctxt "206046340-0-108913"
+msgid "Reduces your damage taken by <<1>>."
+msgstr "受けるダメージを<<1>>減少させる。"
+
+#: 52183620-0-1089
+#, fuzzy
+msgctxt "52183620-0-1089"
+msgid "Purchase Requires:\n""The Rift Adventurer"" Achievement"
+msgstr "購入条件:\r\n実績「リフトの冒険者」"
+
+#: 206046340-0-108832
+msgctxt "206046340-0-108832"
+msgid "Increases your healing received by <<1>>."
+msgstr "被回復力を<<1>>増加させる。"
+
+#: 206046340-0-108825
+msgctxt "206046340-0-108825"
+msgid "Reduces your Spell Resistance by <<1>>."
+msgstr "呪文耐性が<<1>>低下する。"
+
+#: 171157587-0-1088
+msgctxt "171157587-0-1088"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1087
+msgctxt "171157587-0-1087"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-108676
+msgctxt "206046340-0-108676"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 206046340-0-108675
+msgctxt "206046340-0-108675"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 52183620-0-1086
+#, fuzzy
+msgctxt "52183620-0-1086"
+msgid "Purchase Requires:\n""Imperial Edition"""
+msgstr "購入条件:\r\n「インペリアル・エディション」"
+
+#: 171157587-0-1081
+msgctxt "171157587-0-1081"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-107793
+msgctxt "206046340-0-107793"
+msgid "Increase Max Health by <<1>>, Health Recovery by <<2>>, Max Magicka by <<3>> and Magicka Recovery by <<4>>."
+msgstr "最大体力を<<1>>、体力再生を<<2>>、最大マジカを<<3>>、マジカ再生を<<4>>増加させる。"
+
+#: 206046340-0-107789
+msgctxt "206046340-0-107789"
+msgid "Increase Max Health by <<1>>, Health Recovery by <<2>>, Max Stamina by <<3>> and Stamina Recovery by <<4>>."
+msgstr "最大体力を<<1>>、体力再生を<<2>>、最大スタミナを<<3>>、スタミナ再生を<<4>>増加させる。"
+
+#: 206046340-0-107748
+msgctxt "206046340-0-107748"
+msgid "Increase Max Health by <<1>> and Max Magicka by <<2>>. Additionally, fish seem to be attracted to you."
+msgstr "最大体力を<<1>>、最大マジカを<<2>>増加させる。さらに、魚が寄ってくるようだ。"
+
+#: 52183620-0-1077
+#, fuzzy
+msgctxt "52183620-0-1077"
+msgid "Purchase Requires:\n""Stormhaven Adventurer"" Achievement"
+msgstr "購入条件:\r\n実績「ストームヘヴンの冒険者」"
+
+#: 206046340-0-107632
+msgctxt "206046340-0-107632"
+msgid "Increases your Physical and Spell Resistance by <<1>>."
+msgstr "物理耐性と呪文耐性を<<1>>上昇させる。"
+
+#: 171157587-0-1076
+msgctxt "171157587-0-1076"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-107508
+msgctxt "206046340-0-107508"
+msgid "Deals <<1>> bonus damage done."
+msgstr "ボーナス与ダメージを<<1>>与える。"
+
+#: 171157587-0-1075
+msgctxt "171157587-0-1075"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 52183620-0-1074
+#, fuzzy
+msgctxt "52183620-0-1074"
+msgid "Purchase Requires:\n""Grahtwood Adventurer"" Achievement"
+msgstr "購入条件:\r\n実績「グラーウッドの冒険者」"
+
+#: 171157587-0-1073
+msgctxt "171157587-0-1073"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-106861
+msgctxt "206046340-0-106861"
+msgid "Increases your Critical Damage done by <<1>>."
+msgstr "クリティカルダメージを<<1>>上昇させる。"
+
+#: 206046340-0-106860
+msgctxt "206046340-0-106860"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 206046340-0-106806
+msgctxt "206046340-0-106806"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 52183620-0-1068
+#, fuzzy
+msgctxt "52183620-0-1068"
+msgid "Purchase Requires:\n""Auridon Adventurer"" Achievement"
+msgstr "購入条件:\r\n実績「オーリドンの冒険者」"
+
+#: 206046340-0-106776
+msgctxt "206046340-0-106776"
+msgid "Reduces your damage taken from area of effect attacks by <<1>>."
+msgstr "範囲攻撃の被ダメージが<<1>>低下する。"
+
+#: 206046340-0-106761
+msgctxt "206046340-0-106761"
+msgid "Applies Major Vulnerability to Giant Salamander in Summerset when you damage them."
+msgstr "サマーセットのジャイアントサラマンダーにダメージを与えると、脆弱(強)を適用する。"
+
+#: 206046340-0-106759
+msgctxt "206046340-0-106759"
+msgid "Applies Major Vulnerability to Gryphon in Summerset when you damage them."
+msgstr "サマーセットのグリフォンにダメージを与えると、脆弱(強)を適用する。"
+
+#: 206046340-0-106757
+msgctxt "206046340-0-106757"
+msgid "Applies Major Vulnerability to Indrik in Summerset when you damage them."
+msgstr "サマーセットのインドリクにダメージを与えると、脆弱(強)を適用する。"
+
+#: 206046340-0-106752
+msgctxt "206046340-0-106752"
+msgid "Applies Major Vulnerability to Welwa in Summerset when you damage them."
+msgstr "サマーセットのウェルワにダメージを与えると、脆弱(強)を適用する。"
+
+#: 171157587-0-1067
+msgctxt "171157587-0-1067"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-106372
+msgctxt "206046340-0-106372"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-106367
+msgctxt "206046340-0-106367"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-106365
+msgctxt "206046340-0-106365"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-106364
+msgctxt "206046340-0-106364"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 206046340-0-106349
+msgctxt "206046340-0-106349"
+msgid "Pretend that it's the Orsinium Anniversary."
+msgstr "Pretend that it's the Orsinium Anniversary."
+
+#: 171157587-0-1063
+msgctxt "171157587-0-1063"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 52183620-0-1062
+#, fuzzy
+msgctxt "52183620-0-1062"
+msgid "Purchase Requires:\n""Room to Spare"" House Quest Completion"
+msgstr "購入条件:\r\n住宅クエスト「空き部屋」のクリア"
+
+#: 206046340-0-105910
+msgctxt "206046340-0-105910"
+msgid "Cannot Be Taunted"
+msgstr "挑発不可"
+
+#: 171157587-0-1059
+msgctxt "171157587-0-1059"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1057
+msgctxt "171157587-0-1057"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-105037
+msgctxt "206046340-0-105037"
+msgid "Damage: <<1>>"
+msgstr "ダメージ: <<1>>"
+
+#: 206046340-0-105036
+msgctxt "206046340-0-105036"
+msgid "Damage: <<1>>"
+msgstr "ダメージ: <<1>>"
+
+#: 171157587-0-1050
+msgctxt "171157587-0-1050"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-104825
+msgctxt "206046340-0-104825"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 171157587-0-1048
+msgctxt "171157587-0-1048"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1047
+msgctxt "171157587-0-1047"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-104696
+msgctxt "206046340-0-104696"
+msgid "Take <<1>> and take 20% more damage from all sources for <<2>>."
+msgstr "<<1>>を受け、あらゆる攻撃から受けるダメージが<<2>>の間20%増える。"
+
+#: 206046340-0-104693
+msgctxt "206046340-0-104693"
+msgid "Take <<1>> every <<2>> while in the impact area, with healing reduced by 50% and Health Regen reduced by 50% for 6 seconds."
+msgstr "着弾エリアにいる間は<<1>>を<<2>>毎に受け、6秒の間治癒量と体力再生量が50%減少する。"
+
+#: 50040644-0-104690
+msgctxt "50040644-0-104690"
+msgid "@EPath affects a larger conal area and deals more damage."
+msgstr "@E効果範囲が広がり、ダメージが増加する。"
+
+#: 171157587-0-1046
+msgctxt "171157587-0-1046"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 50040644-0-104059
+msgctxt "50040644-0-104059"
+msgid "@ENegates healing done on enemies that are stunned."
+msgstr "@E気絶した敵への回復を無効化する。"
+
+#: 206046340-0-104013
+msgctxt "206046340-0-104013"
+msgid "Increases your Weapon Damage by 20%."
+msgstr "武器ダメージが20%上昇する。"
+
+#: 171157587-0-1040
+msgctxt "171157587-0-1040"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-103910
+msgctxt "206046340-0-103910"
+msgid "Frightened"
+msgstr "恐怖した"
+
+#: 171157587-0-1039
+msgctxt "171157587-0-1039"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-103752
+msgctxt "206046340-0-103752"
+msgid "Increases your Physical and Spell Resistance by <<1>>."
+msgstr "物理耐性と呪文耐性を<<1>>上昇させる。"
+
+#: 50040644-0-103747
+msgctxt "50040644-0-103747"
+msgid "@EIncreases your ally's Physical and Spell Resistance while you heal them."
+msgstr "@E回復中に、味方の物理耐性と呪文耐性を上昇させる。"
+
+#: 206046340-0-103712
+msgctxt "206046340-0-103712"
+msgid "Increases your Critical Damage done by <<1>>."
+msgstr "クリティカルダメージを<<1>>上昇させる。"
+
+#: 206046340-0-103711
+msgctxt "206046340-0-103711"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 50040644-0-103710
+msgctxt "50040644-0-103710"
+msgid "@EGrants immunity to snares and immobilizations for a short duration."
+msgstr "@Eわずかな時間の間、減速と移動不能耐性を付与する。"
+
+#: 206046340-0-103708
+msgctxt "206046340-0-103708"
+msgid "Increases your Critical Damage done by <<1>>."
+msgstr "クリティカルダメージを<<1>>上昇させる。"
+
+#: 206046340-0-103707
+msgctxt "206046340-0-103707"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 50040644-0-103706
+msgctxt "50040644-0-103706"
+msgid "@ETriples the duration, but adds a cast time."
+msgstr "@E持続時間が3倍になるが、詠唱時間が増大する。"
+
+#: 171157587-0-1037
+msgctxt "171157587-0-1037"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 50040644-0-103652
+msgctxt "50040644-0-103652"
+msgid "@EIncreases the amount of Magicka and Stamina restored."
+msgstr "@E回復するマジカとスタミナの量が増加する。"
+
+#: 50040644-0-103623
+msgctxt "50040644-0-103623"
+msgid "@EHeals you for a percentage of the damage done."
+msgstr "@E与えたダメージの一部だけ体力を回復する。"
+
+#: 171157587-0-1036
+msgctxt "171157587-0-1036"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 206046340-0-103570
+msgctxt "206046340-0-103570"
+msgid "Reduces your damage taken by 8%."
+msgstr "被ダメージが8%低下する。"
+
+#: 50040644-0-103564
+msgctxt "50040644-0-103564"
+msgid "@EWhile slotted your damage taken is reduced."
+msgstr "@Eスロットに装備している間、被ダメージを減少させる。"
+
+#: 50040644-0-103557
+msgctxt "50040644-0-103557"
+msgid "@EYou can cast the ability while crowd controlled and will automatically gain crowd control immunity."
+msgstr "@Eこのアビリティは無力化の効果を受けた状態で詠唱でき、自動的に無力化耐性を得る。"
+
+#: 206046340-0-103521
+msgctxt "206046340-0-103521"
+msgid "Increases your Critical Damage done by <<1>>."
+msgstr "クリティカルダメージを<<1>>上昇させる。"
+
+#: 206046340-0-103520
+msgctxt "206046340-0-103520"
+msgid "Increases your Movement Speed by <<1>>."
+msgstr "移動速度が<<1>>上昇する。"
+
+#: 171157587-0-1035
+msgctxt "171157587-0-1035"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1033
+msgctxt "171157587-0-1033"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1028
+msgctxt "171157587-0-1028"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、"
+
+#: 171157587-0-1025
+msgctxt "171157587-0-1025"
+msgid "Quest Starters,Quest Starters,Quest,Event,Voucher,Bestower,Content,Event,Gathering,Celebration,Party,"
+msgstr "スタータークエスト、クエスト、イベント、達成証、贈与、コンテンツ、イベント、収集、セレブレーション、パーティー、"
+
+#: 171157587-0-1024
+msgctxt "171157587-0-1024"
+msgid "Upgrades,Improvements,Upgrades,Useful,Consumables,Useful,Utility,Supplies,"
+msgstr "アップグレード、強化、有用、消耗品、有用、ユーティリティ、物資、"
+
+#: 206046340-0-102395
+msgctxt "206046340-0-102395"
+msgid "Frigid cold saps your strength and makes moving difficult."
+msgstr "厳しい寒さが自分の体力を吸い取り移動を困難にする。"
+
+#: 206046340-0-102394
+msgctxt "206046340-0-102394"
+msgid "Frigid cold saps your strength and makes moving difficult."
+msgstr "厳しい寒さが自分の体力を吸い取り移動を困難にする。"
+
+#: 171157587-0-1023
+msgctxt "171157587-0-1023"
+msgid "Upgrades,Improvements,Upgrades,Useful,Consumables,Useful,Utility,Supplies,"
+msgstr "アップグレード、強化、有用、消耗品、有用、ユーティリティ、物資、"
+
+#: 171157587-0-1021
+msgctxt "171157587-0-1021"
+msgid "Utility,Supplies,Utility,Consumables,Consumables,Useful,Utility,Supplies,"
+msgstr "ユーティリティ、物資、消耗品、有用、物資、"
+
+#: 171157587-0-1020
+msgctxt "171157587-0-1020"
+msgid "Utility,Supplies,Utility,Consumables,Consumables,Useful,Utility,Supplies,"
+msgstr "ユーティリティ、物資、消耗品、有用、物資、"
+
+#: 206046340-0-101894
+msgctxt "206046340-0-101894"
+msgid "Reduces the healing received by 30%"
+msgstr "被回復を30%低下させる"
+
+#: 206046340-0-101888
+msgctxt "206046340-0-101888"
+msgid "Immobilized."
+msgstr "移動不能。"
+
+#: 206046340-0-101874
+msgctxt "206046340-0-101874"
+msgid "Your next hit deals 5% extra flame damage."
+msgstr "次の攻撃は5%追加で炎のダメージを与える。"
+
+#: 171157587-0-1018
+msgctxt "171157587-0-1018"
+msgid "Style Parlor,Adornment,Adornments,Style Parlor,Appearance,Character,Customization,Jewelry,Earrings,Brow,Lashes,Veil,Coronet,Circlet,Eye,Flowers, Bundle,Collection,Deal,"
+msgstr "スタイルパーラー、装飾、外見、キャラクター、カスタマイズ、宝飾、イヤリング、まゆ毛、まつ毛、ヴェール、コロネット、サークレット、目、花、セット、コレクション、オファー、"
+
+#: 171157587-0-1017
+msgctxt "171157587-0-1017"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 206046340-0-101667
+msgctxt "206046340-0-101667"
+msgid "Damage and stamina recovery increased!"
+msgstr "ダメージとスタミナ再生が上昇しました！"
+
+#: 206046340-0-101663
+msgctxt "206046340-0-101663"
+msgid "Damage and ultimate regeneration increased!"
+msgstr "ダメージとアルティマ再生が上昇しました！"
+
+#: 171157587-0-1016
+msgctxt "171157587-0-1016"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 206046340-0-101546
+msgctxt "206046340-0-101546"
+msgid "Increases the cost of Magicka abilities by 30%"
+msgstr "マジカアビリティの消費を30%増大させる"
+
+#: 171157587-0-1015
+msgctxt "171157587-0-1015"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 206046340-0-101321
+msgctxt "206046340-0-101321"
+msgid "Mortieus' arrows ravage the health of the target."
+msgstr "モーティウの矢が標的の体力を奪う。"
+
+#: 206046340-0-101319
+msgctxt "206046340-0-101319"
+msgid "Mortieus' arrows decrease the stamina and magicka recovery of the target."
+msgstr "モーティウの矢が標的のスタミナ再生とマジカ再生を低下させる。"
+
+#: 171157587-0-1013
+msgctxt "171157587-0-1013"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 171157587-0-1011
+msgctxt "171157587-0-1011"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 206046340-0-100972
+msgctxt "206046340-0-100972"
+msgid "Immobilized. You cannot move while immobilized. Use Roll Dodge to remove immobilization."
+msgstr "移動不能になった。移動不能の間は移動できない。ロール回避を使って移動不能を解除すること。"
+
+#: 171157587-0-1009
+msgctxt "171157587-0-1009"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 206046340-0-100800
+msgctxt "206046340-0-100800"
+msgid "Unbreakable Stun. You are unable to attack or move while stunned. Break Free has no effect on this stun."
+msgstr "打破できない気絶を受けた。気絶中は攻撃も移動もできない。この気絶には打破を使えない。"
+
+#: 171157587-0-1008
+msgctxt "171157587-0-1008"
+msgid "Wardrobe,Hat ,Covering,Cap,"
+msgstr "ワードローブ、帽子、カバー、キャップ、"
+
+#: 206046340-0-100658
+msgctxt "206046340-0-100658"
+msgid "Soothing waves of restorative energy wash over you, healing you for <<1>>, plus an additional <<2>> every <<3>> for <<4>>.  You are also shielded by a magical barrier, protecting you from <<5>> damage over <<6>>."
+msgstr "治癒シナジーの暖かいウェーブが術者に押し寄せる。術者の体力を即座に<<1>>回復し、さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。また術者は魔力障壁によって守られ、被ダメージが<<5>>、<<6>>の間減少する。"
+
+#: 171157587-0-1006
+msgctxt "171157587-0-1006"
+msgid "Style Parlor,Hair Styles,Hair Style,Style,Head,Coif,Hairs,Spikes,Mane,Head,"
+msgstr "スタイルパーラー、髪型、スタイル、頭、頭巾、髪、スパイク、たてがみ、"
+
+#: 171157587-0-1005
+msgctxt "171157587-0-1005"
+msgid "Style Parlor,Hair Styles,Hair Style,Style,Head,Coif,Hairs,Spikes,Mane,Head,"
+msgstr "スタイルパーラー、髪型、スタイル、頭、頭巾、髪、スパイク、たてがみ、"
+
+#: 206046340-0-100488
+msgctxt "206046340-0-100488"
+msgid "Increase Max Health by <<1>>, and Max Magicka and Stamina by <<2>>."
+msgstr "最大体力を<<1>>、最大マジカと最大スタミナを<<2>>増加させる。"
+
+#: 206046340-0-100487
+msgctxt "206046340-0-100487"
+msgid "Increase Max Health by <<1>>, Health Recovery by <<2>>, Max Magicka by <<3>> and Magicka Recovery by <<4>>."
+msgstr "最大体力を<<1>>、体力再生を<<2>>、最大マジカを<<3>>、マジカ再生を<<4>>増加させる。"
+
+#: 206046340-0-100485
+msgctxt "206046340-0-100485"
+msgid "Increase Health Recovery by <<1>> and Magicka Recovery by <<2>>."
+msgstr "体力再生を<<1>>、マジカ再生を<<2>>増加させる。"
+
+#: 206046340-0-100483
+msgctxt "206046340-0-100483"
+msgid "Increase Max Health by <<1>>, and Max Magicka and Stamina by <<2>>. You can also sense constructs."
+msgstr "最大体力を<<1>>、最大マジカとスタミナを<<2>>、<<3>>の間増加させる。"
+
+#: 206046340-0-100413
+msgctxt "206046340-0-100413"
+msgid "Soothing waves of restorative energy wash over you, healing you for <<1>>, plus an additional <<2>> every <<3>> for <<4>>.  You are also shielded by a magical barrier, protecting you from <<5>> damage over <<6>>."
+msgstr "治癒シナジーの暖かいウェーブが術者に押し寄せる。術者の体力を即座に<<1>>回復し、さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。また術者は魔力障壁によって守られ、被ダメージが<<5>>、<<6>>の間減少する。"
+
+#: 206046340-0-100411
+msgctxt "206046340-0-100411"
+msgid "Soothing waves of restorative energy wash over you, healing you for <<1>>, plus an additional <<2>> every <<3>> for <<4>>.  You are also shielded by a magical barrier, protecting you from <<5>> damage over <<6>>."
+msgstr "治癒シナジーの暖かいウェーブが術者に押し寄せる。術者の体力を即座に<<1>>回復し、さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。また術者は魔力障壁によって守られ、被ダメージが<<5>>、<<6>>の間減少する。"
+
+#: 171157587-0-1004
+msgctxt "171157587-0-1004"
+msgid "Style Parlor,Hair Styles,Hair Style,Style,Head,Coif,Hairs,Spikes,Mane,Head,"
+msgstr "スタイルパーラー、髪型、スタイル、頭、頭巾、髪、スパイク、たてがみ、"
+
+#: 171157587-0-1003
+msgctxt "171157587-0-1003"
+msgid "Style Parlor,Hair Styles,Hair Style,Style,Head,Coif,Hairs,Spikes,Mane,Head,"
+msgstr "スタイルパーラー、髪型、スタイル、頭、頭巾、髪、スパイク、たてがみ、"
+
+#: 171157587-0-1002
+msgctxt "171157587-0-1002"
+msgid "Style Parlor,Hair Styles,Hair Style,Style,Head,Coif,Hairs,Spikes,Mane,Head,"
+msgstr "スタイルパーラー、髪型、スタイル、頭、頭巾、髪、スパイク、たてがみ、"
+
+#: 171157587-0-1001
+msgctxt "171157587-0-1001"
+msgid "Style Parlor,Hair Styles,Hair Style,Style,Head,Coif,Hairs,Spikes,Mane,Head,"
+msgstr "スタイルパーラー、髪型、スタイル、頭、頭巾、髪、スパイク、たてがみ、"

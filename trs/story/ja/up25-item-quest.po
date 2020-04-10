@@ -1,0 +1,185 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 139139780-0-7331
+msgctxt "139139780-0-7331"
+msgid "A robe of fine silks and elaborate patterns. Smells like ale and piss even through the bag that it's been stuffed in."
+msgstr "精妙な模様が施された上質な絹のローブ。袋の中に入っていても、エールと小便の臭いが漂ってくる"
+
+#: 267697733-0-7331
+msgctxt "267697733-0-7331"
+msgid "Zurnash's Robes"
+msgstr "ザーナシュのローブ"
+
+#: 139139780-0-7310
+msgctxt "139139780-0-7310"
+msgid "A ragged, old wig."
+msgstr "ぼろぼろになった古いかつら"
+
+#: 267697733-0-7310
+msgctxt "267697733-0-7310"
+msgid "Old Wig"
+msgstr "古いかつら"
+
+#: 139139780-0-7309
+msgctxt "139139780-0-7309"
+msgid "A blanket that smells strongly of horse."
+msgstr "強烈な馬の臭いがする毛布"
+
+#: 267697733-0-7309
+msgctxt "267697733-0-7309"
+msgid "Old Horse Blanket"
+msgstr "古い馬毛布"
+
+#: 139139780-0-7308
+msgctxt "139139780-0-7308"
+msgid "A long-abandoned shirt."
+msgstr "長い間放置されたシャツ"
+
+#: 267697733-0-7308
+msgctxt "267697733-0-7308"
+msgid "Moth-Eaten Shirt"
+msgstr "蛾に食われたシャツ"
+
+#: 139139780-0-7307
+msgctxt "139139780-0-7307"
+msgid "Foul-smelling rags."
+msgstr "悪臭のするぼろきれ"
+
+#: 267697733-0-7307
+msgctxt "267697733-0-7307"
+msgid "Sodden Rags"
+msgstr "水浸しのぼろ切れ"
+
+#: 139139780-0-7300
+msgctxt "139139780-0-7300"
+msgid "A manifest of items shipped by Arniel Branck."
+msgstr " アーニエル・ブランクが積載している品の目録"
+
+#: 267697733-0-7300
+msgctxt "267697733-0-7300"
+msgid "Arniel Branck's Manifest"
+msgstr "アーニエル・ブランクの目録"
+
+#: 139139780-0-7224
+msgctxt "139139780-0-7224"
+msgid "This crude approximation of the Dragonguard Grappling Bow allows the user to navigate the perilous cliffs and crevasses of the Unhallowed Grave."
+msgstr "ドラゴンガードのグラップリングボウの、粗雑なレプリカ。これを使えば、不浄の墓の危険な崖や裂け目を移動できる"
+
+#: 267697733-0-7224
+msgctxt "267697733-0-7224"
+msgid "Draugrkin Grappling Bow"
+msgstr "ドラウグルキンのグラップリングボウ"
+
+#: 139139780-0-7175
+msgctxt "139139780-0-7175"
+msgid "You found this key to the dungeons beneath the Palace of Kings on a sentry killed by the Icereach Coven."
+msgstr "王の宮殿の地下牢で使うこの鍵は、アイスリーチ魔術結社に殺された哨戒兵が持っていた"
+
+#: 267697733-0-7175
+msgctxt "267697733-0-7175"
+msgid "Palace Dungeons Key"
+msgstr "王の宮殿の地下牢の鍵"
+
+#: 139139780-0-7174
+msgctxt "139139780-0-7174"
+msgid "This book of maps details the holds of Western Skyrim."
+msgstr "この地図には西スカイリムの要塞について詳しく書かれている"
+
+#: 267697733-0-7174
+msgctxt "267697733-0-7174"
+msgid "Maps of Western Skyrim"
+msgstr "西スカイリムの地図"
+
+#: 139139780-0-7172
+msgctxt "139139780-0-7172"
+msgid "A combination between a crossbow and grappling hook, used to easily reach high distances."
+msgstr "A combination between a crossbow and grappling hook, used to easily reach high distances."
+
+#: 267697733-0-7172
+msgctxt "267697733-0-7172"
+msgid "Dragonguard Grappling Bow"
+msgstr "Dragonguard Grappling Bow"
+
+#: 139139780-0-7171
+#, fuzzy
+msgctxt "139139780-0-7171"
+msgid "A note from Sister Balra to someone she refers to as ""Matron."" It describes the ritual for harrowstorms and their connection to harrowfiends."
+msgstr "シスター・バルラから「マトロン」と呼ばれる存在に宛てられたメモ。喪心の嵐を起こす儀式や、嵐と喪心鬼の関係が記されている"
+
+#: 267697733-0-7171
+msgctxt "267697733-0-7171"
+msgid "Icereach Coven Note"
+msgstr "アイスリーチ魔術結社のメモ"
+
+#: 139139780-0-7166
+msgctxt "139139780-0-7166"
+msgid "This flier describes a lucrative opportunity for workers in Eastmarch. Interested parties are directed to report to the Grinning Horker inn."
+msgstr "このチラシには、イーストマーチで労働者に大儲けのチャンスがあると記されている。興味がある者は宿屋〈笑うホーカー〉へ行けば良いようだ"
+
+#: 267697733-0-7166
+msgctxt "267697733-0-7166"
+msgid "Lucrative Opportunity In Eastmarch"
+msgstr "イーストマーチで大儲けのチャンス"
+
+#: 139139780-0-7165
+msgctxt "139139780-0-7165"
+msgid "A key that dropped from Goharth Ironbelly's corpse. Maybe it can open locked doors in the Ratway."
+msgstr "ゴハース・アイアンベリーの死体から落ちた鍵。ラットウェイの鍵がかかった扉を開けられるかもしれない"
+
+#: 267697733-0-7165
+msgctxt "267697733-0-7165"
+msgid "Goharth Ironbelly's Key"
+msgstr "ゴハース・アイアンベリーの鍵"
+
+#: 139139780-0-7159
+msgctxt "139139780-0-7159"
+msgid "A shard snapped off a broken ritual object that radiates the same magic as that used by the Icereach Coven."
+msgstr "アイスリーチ魔術結社が使っていたのと同じ魔法を放出する、壊れた儀式道具から折り取った欠片"
+
+#: 267697733-0-7159
+msgctxt "267697733-0-7159"
+msgid "Witch Pike Shard"
+msgstr "魔女の長槍の破片"
+
+#: 139139780-0-7158
+#, fuzzy
+msgctxt "139139780-0-7158"
+msgid "This sheet, found on a strange bloodfiend, has been mangled and soaked in blood. The only words still legible are ""come to,"" ""lucrative,"" and ""participate in a simple ritual."""
+msgstr "奇妙な狂血鬼が持っていたこの紙片はしわくちゃにされ、血まみれになっている。まだ読める言葉は「来て」、「大儲け」、「簡単な儀式に参加」だけだ"
+
+#: 267697733-0-7158
+msgctxt "267697733-0-7158"
+msgid "Mangled, Bloody Note"
+msgstr "しわくちゃになった血まみれのメモ"
+
+#: 139139780-0-7157
+#, fuzzy
+msgctxt "139139780-0-7157"
+msgid "Most of the words on this sheet of paper have been rendered unreadable by whatever immolated the body, but the words ""a lucrative opportunity"" are still legible."
+msgstr "この紙片に書かれた言葉の大半は死体を焼いた何かによって読めなくなっているが、「大儲けのチャンス」という言葉がまだ何とか読める"
+
+#: 267697733-0-7157
+msgctxt "267697733-0-7157"
+msgid "Charred Note"
+msgstr "黒焦げのメモ"
+
+#: 139139780-0-7156
+msgctxt "139139780-0-7156"
+msgid "A relic recovered from a witch of the Icereach Coven and imbued with location magic by the Skald-King's wizards."
+msgstr "アイスリーチ魔術結社の魔女から手に入れた遺物。スカルド王の魔道師の手により、場所を探す魔法がかけられている"
+
+#: 267697733-0-7156
+msgctxt "267697733-0-7156"
+msgid "Icereach Coven Medallion"
+msgstr "アイスリーチ魔術結社のメダルを使う"

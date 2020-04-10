@@ -1,0 +1,9585 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 260523861-8-4
+msgctxt "260523861-8-4"
+msgid "Furnisher"
+msgstr "家具商人"
+
+#: 260523861-4-40
+msgctxt "260523861-4-40"
+msgid "Special Event"
+msgstr "特別イベント"
+
+#: 211899940-0-25170
+msgctxt "211899940-0-25170"
+msgid "S'rendarr blesses you with his wisdom and vision. For a generous contribution in his name, the God of Mercy, Charity, and Justice will grant you the power to revisit your choices regarding Skills."
+msgstr "ステンダールは英知と預言で祝福する。彼に対する貢献に基づき、慈悲と慈善と正義の神がスキルに関して選択を再考する権限を与える"
+
+#: 87370069-0-25169
+msgctxt "87370069-0-25169"
+msgid "Shrine to Alkosh"
+msgstr "アルコシュの祠"
+
+#: 211899940-0-25169
+msgctxt "211899940-0-25169"
+msgid "<Alkosh blesses you with his wisdom and vision. For a generous contribution in his name, the Dragon Cat will grant you the power to revisit your choices regarding Attributes.>"
+msgstr "<アルコシュは英知と預言で祝福する。彼に対する貢献に基づき、ドラゴンの猫が能力に関する選択を再考する権限を与える>"
+
+#: 87370069-0-25163
+msgctxt "87370069-0-25163"
+msgid "Portal to Arum-Khal's Realm"
+msgstr "アルム・カルの領域へのポータル"
+
+#: 146361138-0-1268
+msgctxt "146361138-0-1268"
+msgid "Baandari Caravan"
+msgstr "バーンダリのキャラバン"
+
+#: 81344020-0-1267
+msgctxt "81344020-0-1267"
+msgid "Five-Claw Whittling Company"
+msgstr "五つ爪の削り"
+
+#: 146361138-0-1266
+msgctxt "146361138-0-1266"
+msgid "The Goiter's Gulp"
+msgstr "〈ゴイターのがぶ飲み〉"
+
+#: 81344020-0-1265
+msgctxt "81344020-0-1265"
+msgid "Catspaw Counting House"
+msgstr "猫爪会計事務所"
+
+#: 146361138-0-1265
+msgctxt "146361138-0-1265"
+msgid "Baandari Caravan Stop"
+msgstr "バーンダリのキャラバンの立ち寄り所"
+
+#: 81344020-0-1264
+msgctxt "81344020-0-1264"
+msgid "Iron-Fang Armory"
+msgstr "鉄の牙の武器屋"
+
+#: 146361138-0-1259
+msgctxt "146361138-0-1259"
+msgid "Rimmen Fighters Guild"
+msgstr "リンメン戦士ギルド"
+
+#: 81344020-0-1258
+msgctxt "81344020-0-1258"
+msgid "Fine Furniture"
+msgstr "素敵な家具"
+
+#: 146361138-0-1258
+msgctxt "146361138-0-1258"
+msgid "Rimmen Mages Guild"
+msgstr "リンメン魔術師ギルド"
+
+#: 81344020-0-1257
+msgctxt "81344020-0-1257"
+msgid "Steel Pelt Outfitters"
+msgstr "鋼と皮の紳士服店"
+
+#: 146361138-0-1257
+msgctxt "146361138-0-1257"
+msgid "The Sugar Bowl"
+msgstr "〈シュガーボウル〉"
+
+#: 81344020-0-1256
+msgctxt "81344020-0-1256"
+msgid "Mara's Harvest"
+msgstr "マーラの収穫"
+
+#: 146361138-0-1256
+msgctxt "146361138-0-1256"
+msgid "Catspaw Counting House"
+msgstr "猫爪会計事務所"
+
+#: 81344020-0-1255
+msgctxt "81344020-0-1255"
+msgid "Moondance Magicks"
+msgstr "月の踊りの魔法"
+
+#: 146361138-0-1255
+msgctxt "146361138-0-1255"
+msgid "Baandari Bazaar"
+msgstr "バーンダリ・バザール"
+
+#: 81344020-0-1254
+msgctxt "81344020-0-1254"
+msgid "Sleek and Chic"
+msgstr "洗練された滑らかさ"
+
+#: 146361138-0-1254
+msgctxt "146361138-0-1254"
+msgid "Shrine of the Cats Divine"
+msgstr "猫神の祠"
+
+#: 81344020-0-1253
+msgctxt "81344020-0-1253"
+msgid "The Scratching Post"
+msgstr "爪研ぎ柱"
+
+#: 146361138-0-1253
+msgctxt "146361138-0-1253"
+msgid "Rimmen Artisans District"
+msgstr "リンメンの職人区域"
+
+#: 81344020-0-1252
+msgctxt "81344020-0-1252"
+msgid "The Roaring Forge"
+msgstr "叫ぶ鍛冶"
+
+#: 146361138-0-1252
+msgctxt "146361138-0-1252"
+msgid "Rimmen Commerce Exchange"
+msgstr "リンメンの商業地域"
+
+#: 81344020-0-1251
+msgctxt "81344020-0-1251"
+msgid "The Hissing Phial"
+msgstr "ささやく小瓶"
+
+#: 146361138-0-1251
+msgctxt "146361138-0-1251"
+msgid "Rimmen Stables"
+msgstr "リンメンの馬屋"
+
+#: 146361138-0-1250
+#, fuzzy
+msgctxt "146361138-0-1250"
+msgid "Gladiator's Quarters"
+msgstr "剣闘士室"
+
+#: 146361138-0-1245
+msgctxt "146361138-0-1245"
+msgid "Rimmen Outlaws Refuge"
+msgstr "リンメンの無法者の隠れ家"
+
+#: 146361138-0-1244
+msgctxt "146361138-0-1244"
+msgid "Rimmen Outlaws Refuge"
+msgstr "リンメンの無法者の隠れ家"
+
+#: 260523861-3-40
+msgctxt "260523861-3-40"
+msgid "Group Boss"
+msgstr "グループボス"
+
+#: 260523861-2-40
+msgctxt "260523861-2-40"
+msgid "Crafting Set"
+msgstr "クラフティングセット"
+
+#: 164009093-1-6099
+msgctxt "164009093-1-6099"
+msgid "Viewing Tower"
+msgstr "展望塔"
+
+#: 164009093-1-6098
+msgctxt "164009093-1-6098"
+msgid "Viewing Tower"
+msgstr "展望塔"
+
+#: 164009093-1-6085
+msgctxt "164009093-1-6085"
+msgid "Royal Chambers"
+msgstr "王家の部屋"
+
+#: 164009093-1-6077
+msgctxt "164009093-1-6077"
+msgid "Lower Mine"
+msgstr "鉱山下層"
+
+#: 164009093-1-6075
+msgctxt "164009093-1-6075"
+msgid "Core of Jode"
+msgstr "ジョーデのコア"
+
+#: 164009093-1-6069
+msgctxt "164009093-1-6069"
+msgid "Jode's Embrace Courtyard"
+msgstr "ジョーデの抱擁の中庭"
+
+#: 164009093-1-6066
+msgctxt "164009093-1-6066"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-6064
+msgctxt "164009093-1-6064"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6063
+msgctxt "164009093-1-6063"
+msgid "Jode's Embrace Courtyard"
+msgstr "ジョーデの抱擁の中庭"
+
+#: 164009093-1-6061
+msgctxt "164009093-1-6061"
+msgid "Leave Home"
+msgstr "家を出る"
+
+#: 164009093-1-6060
+msgctxt "164009093-1-6060"
+msgid "Portal to Hall of the Lunar Champion"
+msgstr "月の勇者の広間へのポータル"
+
+#: 164009093-1-6058
+msgctxt "164009093-1-6058"
+msgid "Jode's Embrace Courtyard"
+msgstr "ジョーデの抱擁の中庭"
+
+#: 164009093-1-6057
+msgctxt "164009093-1-6057"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-6056
+msgctxt "164009093-1-6056"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6055
+msgctxt "164009093-1-6055"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6054
+msgctxt "164009093-1-6054"
+msgid "Shrine of Jode"
+msgstr "ジョーデの祠"
+
+#: 164009093-1-6053
+msgctxt "164009093-1-6053"
+msgid "Sunspire Temple"
+msgstr "サンスパイア聖堂"
+
+#: 164009093-1-6052
+msgctxt "164009093-1-6052"
+msgid "Portal to Jode's Embrace"
+msgstr "ジョーデの抱擁へのポータル"
+
+#: 164009093-1-6051
+msgctxt "164009093-1-6051"
+msgid "Shrine of Jone"
+msgstr "ジョーンの祠"
+
+#: 164009093-1-6050
+msgctxt "164009093-1-6050"
+msgid "Sunspire Temple"
+msgstr "サンスパイア聖堂"
+
+#: 164009093-1-6049
+msgctxt "164009093-1-6049"
+msgid "Leave Home"
+msgstr "家を出る"
+
+#: 164009093-1-6047
+msgctxt "164009093-1-6047"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-6046
+msgctxt "164009093-1-6046"
+msgid "Leave Home"
+msgstr "家を出る"
+
+#: 164009093-1-6041
+msgctxt "164009093-1-6041"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-6040
+msgctxt "164009093-1-6040"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-6039
+msgctxt "164009093-1-6039"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6038
+msgctxt "164009093-1-6038"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-6037
+msgctxt "164009093-1-6037"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-6036
+msgctxt "164009093-1-6036"
+msgid "Plane of Jode"
+msgstr "ジョーデの次元"
+
+#: 164009093-1-6035
+msgctxt "164009093-1-6035"
+msgid "Plane of Jode"
+msgstr "ジョーデの次元"
+
+#: 164009093-1-6033
+msgctxt "164009093-1-6033"
+msgid "Portal to the Plane of Jode"
+msgstr "ジョーデの次元へのポータル"
+
+#: 164009093-1-6032
+msgctxt "164009093-1-6032"
+msgid "Upper Moon Gate Landing"
+msgstr "月の門の入口(上)"
+
+#: 164009093-1-6031
+msgctxt "164009093-1-6031"
+msgid "Portal to Elsweyr"
+msgstr "エルスウェアへのポータル"
+
+#: 164009093-1-6030
+msgctxt "164009093-1-6030"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6029
+msgctxt "164009093-1-6029"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6027
+msgctxt "164009093-1-6027"
+msgid "Portal to Moon Gate of Anequina"
+msgstr "月の門"
+
+#: 164009093-1-6026
+msgctxt "164009093-1-6026"
+msgid "Star Haven Catacombs"
+msgstr "スターヘヴンの地下墓地"
+
+#: 164009093-1-6024
+msgctxt "164009093-1-6024"
+msgid "Portal to Shadow Dance Ruins"
+msgstr "影の踊りの遺跡へのポータル"
+
+#: 164009093-1-6023
+msgctxt "164009093-1-6023"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6021
+msgctxt "164009093-1-6021"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6019
+msgctxt "164009093-1-6019"
+msgid "Upper Crypts"
+msgstr "墓地上層"
+
+#: 164009093-1-6018
+msgctxt "164009093-1-6018"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 164009093-1-6017
+msgctxt "164009093-1-6017"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-6016
+msgctxt "164009093-1-6016"
+msgid "Dov-Vahl Hall"
+msgstr "ドヴ・ヴァールの間"
+
+#: 164009093-1-6015
+msgctxt "164009093-1-6015"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6014
+msgctxt "164009093-1-6014"
+msgid "Hidden Moon Catacombs"
+msgstr "隠された月の地下墓地"
+
+#: 164009093-1-6013
+msgctxt "164009093-1-6013"
+msgid "Hidden Moon Catacombs"
+msgstr "隠された月の地下墓地"
+
+#: 164009093-1-6012
+msgctxt "164009093-1-6012"
+msgid "Hidden Moon Catacombs"
+msgstr "隠された月の地下墓地"
+
+#: 164009093-1-6011
+msgctxt "164009093-1-6011"
+msgid "Training Chamber"
+msgstr "訓練室"
+
+#: 164009093-1-6010
+msgctxt "164009093-1-6010"
+msgid "Hall of Atonement"
+msgstr "償いの間"
+
+#: 164009093-1-6009
+msgctxt "164009093-1-6009"
+msgid "Temple Foyer"
+msgstr "聖堂の休憩室"
+
+#: 164009093-1-6005
+msgctxt "164009093-1-6005"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-6004
+msgctxt "164009093-1-6004"
+msgid "Gate"
+msgstr "門"
+
+#: 164009093-1-6003
+msgctxt "164009093-1-6003"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-6000
+msgctxt "164009093-1-6000"
+msgid "Meirvale Keep Palace"
+msgstr "メイアヴェイル・キープの宮殿"
+
+#: 164009093-1-5998
+msgctxt "164009093-1-5998"
+msgid "Northern Close"
+msgstr "北の閉まった扉"
+
+#: 164009093-1-5997
+msgctxt "164009093-1-5997"
+msgid "Lower Dungeons"
+msgstr "ダンジョン下層"
+
+#: 164009093-1-5996
+msgctxt "164009093-1-5996"
+msgid "Lower Dungeons"
+msgstr "ダンジョン下層"
+
+#: 164009093-1-5995
+msgctxt "164009093-1-5995"
+msgid "Lower Dungeons"
+msgstr "ダンジョン下層"
+
+#: 164009093-1-5994
+msgctxt "164009093-1-5994"
+msgid "Lower Dungeons"
+msgstr "ダンジョン下層"
+
+#: 164009093-1-5993
+msgctxt "164009093-1-5993"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5992
+msgctxt "164009093-1-5992"
+msgid "Lower Moon Gate Landing"
+msgstr "月の門下層の埠頭"
+
+#: 164009093-1-5991
+msgctxt "164009093-1-5991"
+msgid "Upper Caves"
+msgstr "洞窟の上層"
+
+#: 164009093-1-5990
+msgctxt "164009093-1-5990"
+msgid "Side Pasage"
+msgstr "脇道"
+
+#: 164009093-1-5989
+msgctxt "164009093-1-5989"
+msgid "Star Haven Catacombs"
+msgstr "スターヘヴンの地下墓地"
+
+#: 164009093-1-5988
+msgctxt "164009093-1-5988"
+msgid "Star Haven Catacombs"
+msgstr "スターヘヴンの地下墓地"
+
+#: 164009093-1-5987
+msgctxt "164009093-1-5987"
+msgid "Chancel of Alkosh"
+msgstr "アルコシュの内陣"
+
+#: 164009093-1-5985
+msgctxt "164009093-1-5985"
+msgid "Smuggler Cave"
+msgstr "密売人の洞窟"
+
+#: 164009093-1-5984
+msgctxt "164009093-1-5984"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5983
+msgctxt "164009093-1-5983"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5981
+msgctxt "164009093-1-5981"
+msgid "Meirvale Keep Courtyard"
+msgstr "メイアヴェイル・キープの中庭"
+
+#: 164009093-1-5979
+msgctxt "164009093-1-5979"
+msgid "Invis"
+msgstr "Invis"
+
+#: 164009093-1-5978
+msgctxt "164009093-1-5978"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5977
+msgctxt "164009093-1-5977"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5976
+msgctxt "164009093-1-5976"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5975
+msgctxt "164009093-1-5975"
+msgid "Shadow Dance Temple Procession"
+msgstr "影の踊りの聖堂への行列"
+
+#: 164009093-1-5974
+msgctxt "164009093-1-5974"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5970
+msgctxt "164009093-1-5970"
+msgid "Rimmen Necropolis"
+msgstr "リンメン・ネクロポリス"
+
+#: 164009093-1-5968
+msgctxt "164009093-1-5968"
+msgid "House of Histories"
+msgstr "歴史の館"
+
+#: 164009093-1-5966
+msgctxt "164009093-1-5966"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5964
+msgctxt "164009093-1-5964"
+msgid "Palace Courtyard"
+msgstr "宮殿の中庭"
+
+#: 164009093-1-5963
+msgctxt "164009093-1-5963"
+msgid "Dragonhorn Tower"
+msgstr "ドラゴンホーン塔"
+
+#: 164009093-1-5962
+msgctxt "164009093-1-5962"
+msgid "Sunspire Vestibule"
+msgstr "サンスパイアの前庭"
+
+#: 164009093-1-5961
+msgctxt "164009093-1-5961"
+msgid "Exit"
+msgstr "出る"
+
+#: 164009093-1-5951
+msgctxt "164009093-1-5951"
+msgid "Merryvale Farms"
+msgstr "メイアヴェイル農園"
+
+#: 164009093-1-5950
+msgctxt "164009093-1-5950"
+msgid "Funerary Chamber"
+msgstr "葬儀室"
+
+#: 164009093-1-5946
+msgctxt "164009093-1-5946"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5945
+msgctxt "164009093-1-5945"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5944
+msgctxt "164009093-1-5944"
+msgid "Grand Adept's Chambers"
+msgstr "グランドアデプトの部屋"
+
+#: 164009093-1-5943
+msgctxt "164009093-1-5943"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5942
+msgctxt "164009093-1-5942"
+msgid "Desert Wind Grand Hall"
+msgstr "砂漠の風の大広間"
+
+#: 164009093-1-5941
+msgctxt "164009093-1-5941"
+msgid "Star Haven Adeptorium"
+msgstr "スターヘヴン僧房"
+
+#: 164009093-1-5940
+msgctxt "164009093-1-5940"
+msgid "Desert Wind Adeptorium"
+msgstr "砂漠の風の僧房"
+
+#: 164009093-1-5939
+msgctxt "164009093-1-5939"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 164009093-1-5938
+msgctxt "164009093-1-5938"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5937
+msgctxt "164009093-1-5937"
+msgid "Star Haven Adeptorium"
+msgstr "スターヘヴン僧房"
+
+#: 164009093-1-5936
+msgctxt "164009093-1-5936"
+msgid "Star Haven Grounds"
+msgstr "スターヘヴン運動場"
+
+#: 164009093-1-5935
+msgctxt "164009093-1-5935"
+msgid "Tenarr Zalviit Ossuary"
+msgstr "テナル・ザルヴィト納骨堂"
+
+#: 164009093-1-5934
+msgctxt "164009093-1-5934"
+msgid "Rakazsa's Den"
+msgstr "ラカズサの拠点"
+
+#: 164009093-1-5933
+msgctxt "164009093-1-5933"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5932
+msgctxt "164009093-1-5932"
+msgid "Rimmen Palace Throne Room"
+msgstr "リンメン宮殿の玉座の間"
+
+#: 164009093-1-5931
+msgctxt "164009093-1-5931"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-1-5930
+msgctxt "164009093-1-5930"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5929
+msgctxt "164009093-1-5929"
+msgid "Star Haven Catacombs"
+msgstr "スターヘヴンの地下墓地"
+
+#: 164009093-1-5928
+msgctxt "164009093-1-5928"
+msgid "Khasda's Torture Chamber"
+msgstr "カスダの拷問室"
+
+#: 164009093-1-5927
+msgctxt "164009093-1-5927"
+msgid "Rimmen Palace Crypts"
+msgstr "リンメン宮殿の墓地"
+
+#: 164009093-1-5926
+msgctxt "164009093-1-5926"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-1-5925
+msgctxt "164009093-1-5925"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-1-5924
+msgctxt "164009093-1-5924"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-1-5922
+msgctxt "164009093-1-5922"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-1-5921
+msgctxt "164009093-1-5921"
+msgid "Star Haven Gardens"
+msgstr "スターヘヴン庭園"
+
+#: 164009093-1-5920
+msgctxt "164009093-1-5920"
+msgid "Star Haven Training Halls"
+msgstr "スターヘヴンの訓練の間"
+
+#: 164009093-1-5919
+msgctxt "164009093-1-5919"
+msgid "Lower Baan Dar Caverns"
+msgstr "バーン・ダル洞窟下層"
+
+#: 164009093-1-5918
+msgctxt "164009093-1-5918"
+msgid "Upper Baan Dar Caverns"
+msgstr "バーン・ダル洞窟上層"
+
+#: 164009093-1-5917
+msgctxt "164009093-1-5917"
+msgid "Two Moons Temple Hall"
+msgstr "双子月の聖堂広間"
+
+#: 164009093-1-5916
+msgctxt "164009093-1-5916"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5915
+msgctxt "164009093-1-5915"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5914
+msgctxt "164009093-1-5914"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-1-5913
+msgctxt "164009093-1-5913"
+msgid "Sleepy Senche Mine"
+msgstr "眠そうなセンチ鉱山"
+
+#: 164009093-1-5912
+msgctxt "164009093-1-5912"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5911
+msgctxt "164009093-1-5911"
+msgid "Temple Nave"
+msgstr "聖堂の身廊"
+
+#: 164009093-1-5910
+msgctxt "164009093-1-5910"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5909
+msgctxt "164009093-1-5909"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5908
+msgctxt "164009093-1-5908"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5907
+msgctxt "164009093-1-5907"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5906
+msgctxt "164009093-1-5906"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5905
+msgctxt "164009093-1-5905"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5904
+msgctxt "164009093-1-5904"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5903
+msgctxt "164009093-1-5903"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5902
+msgctxt "164009093-1-5902"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5901
+msgctxt "164009093-1-5901"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5900
+msgctxt "164009093-1-5900"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5899
+msgctxt "164009093-1-5899"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5898
+msgctxt "164009093-1-5898"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5897
+msgctxt "164009093-1-5897"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5896
+msgctxt "164009093-1-5896"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5895
+msgctxt "164009093-1-5895"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5894
+msgctxt "164009093-1-5894"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5893
+msgctxt "164009093-1-5893"
+msgid "Two Moons Temple Hall"
+msgstr "双子月の聖堂広間"
+
+#: 164009093-1-5892
+msgctxt "164009093-1-5892"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5891
+msgctxt "164009093-1-5891"
+msgid "Hakoshae Tombs"
+msgstr "ハコシャエの墳墓"
+
+#: 164009093-1-5890
+msgctxt "164009093-1-5890"
+msgid "Storage Cellars"
+msgstr "貯蔵庫"
+
+#: 164009093-1-5888
+msgctxt "164009093-1-5888"
+msgid "Red Senche Alley"
+msgstr "レッドセンチ通り"
+
+#: 164009093-1-5887
+msgctxt "164009093-1-5887"
+msgid "The Lower City"
+msgstr "都市下層"
+
+#: 164009093-1-5886
+msgctxt "164009093-1-5886"
+msgid "Market District"
+msgstr "市場地区"
+
+#: 164009093-1-5885
+msgctxt "164009093-1-5885"
+msgid "The Lower City"
+msgstr "都市下層"
+
+#: 164009093-1-5884
+msgctxt "164009093-1-5884"
+msgid "Market District"
+msgstr "市場地区"
+
+#: 164009093-1-5883
+msgctxt "164009093-1-5883"
+msgid "Moon Guardian's Tomb"
+msgstr "月のガーディアンの墳墓"
+
+#: 164009093-1-5882
+msgctxt "164009093-1-5882"
+msgid "Kideya's Cellar"
+msgstr "キデヤの貯蔵庫"
+
+#: 164009093-1-5881
+msgctxt "164009093-1-5881"
+msgid "Merryvale Farms"
+msgstr "メイアヴェイル農園"
+
+#: 164009093-1-5880
+msgctxt "164009093-1-5880"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5879
+msgctxt "164009093-1-5879"
+msgid "Merryvale Farms"
+msgstr "メイアヴェイル農園"
+
+#: 164009093-1-5878
+msgctxt "164009093-1-5878"
+msgid "Dov-Vahl Hall"
+msgstr "ドヴ・ヴァールの間"
+
+#: 164009093-1-5877
+msgctxt "164009093-1-5877"
+msgid "Manor Ground Floor"
+msgstr "邸宅の地階"
+
+#: 164009093-1-5876
+msgctxt "164009093-1-5876"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5875
+msgctxt "164009093-1-5875"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5873
+msgctxt "164009093-1-5873"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5872
+msgctxt "164009093-1-5872"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5870
+msgctxt "164009093-1-5870"
+msgid "Rimmen Palace Crypts"
+msgstr "リンメン宮殿の墓地"
+
+#: 164009093-1-5869
+msgctxt "164009093-1-5869"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 164009093-1-5868
+msgctxt "164009093-1-5868"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5866
+msgctxt "164009093-1-5866"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5865
+msgctxt "164009093-1-5865"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5861
+msgctxt "164009093-1-5861"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5860
+msgctxt "164009093-1-5860"
+msgid "Meirvale Keep Dugout"
+msgstr "メイアヴェイル・キープの待避壕"
+
+#: 164009093-1-5858
+msgctxt "164009093-1-5858"
+msgid "Meirvale Keep Courtyard"
+msgstr "メイアヴェイル・キープの中庭"
+
+#: 164009093-1-5857
+msgctxt "164009093-1-5857"
+msgid "Meirvale Keep Dungeons"
+msgstr "メイアヴェイル・キープの地下牢"
+
+#: 164009093-1-5856
+msgctxt "164009093-1-5856"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5854
+msgctxt "164009093-1-5854"
+msgid "Hakoshae Tombs"
+msgstr "ハコシャエの墳墓"
+
+#: 164009093-1-5852
+msgctxt "164009093-1-5852"
+msgid "Hakoshae"
+msgstr "ハコシャエ"
+
+#: 164009093-1-5851
+msgctxt "164009093-1-5851"
+msgid "Shadow Dance Temple"
+msgstr "影の踊りの聖堂"
+
+#: 164009093-1-5850
+msgctxt "164009093-1-5850"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5849
+msgctxt "164009093-1-5849"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5848
+msgctxt "164009093-1-5848"
+msgid "Manor Cellar"
+msgstr "邸宅の地下"
+
+#: 164009093-1-5847
+msgctxt "164009093-1-5847"
+msgid "Dancing Moon Entrance"
+msgstr "踊る月の入口"
+
+#: 164009093-1-5846
+msgctxt "164009093-1-5846"
+msgid "Hakoshae"
+msgstr "ハコシャエ"
+
+#: 164009093-1-5844
+msgctxt "164009093-1-5844"
+msgid "Necromancer Workshop"
+msgstr "死霊術師の工房"
+
+#: 164009093-1-5843
+msgctxt "164009093-1-5843"
+msgid "Crypt Library"
+msgstr "墓地の蔵書庫"
+
+#: 164009093-1-5839
+msgctxt "164009093-1-5839"
+msgid "Castle Rimmen"
+msgstr "リンメン城"
+
+#: 164009093-1-5838
+msgctxt "164009093-1-5838"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5835
+msgctxt "164009093-1-5835"
+msgid "Lower Crypts"
+msgstr "墓地下層"
+
+#: 164009093-1-5834
+msgctxt "164009093-1-5834"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-1-5833
+msgctxt "164009093-1-5833"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5832
+msgctxt "164009093-1-5832"
+msgid "Castle Rimmen"
+msgstr "リンメン城"
+
+#: 164009093-1-5827
+msgctxt "164009093-1-5827"
+msgid "Bonechime Outpost"
+msgstr "ボーンチャイムの基地"
+
+#: 164009093-1-5822
+msgctxt "164009093-1-5822"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5820
+msgctxt "164009093-1-5820"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 164009093-1-5819
+msgctxt "164009093-1-5819"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 164009093-1-5818
+msgctxt "164009093-1-5818"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5815
+msgctxt "164009093-1-5815"
+msgid "Outer Sanctuary"
+msgstr "外部聖域"
+
+#: 164009093-1-5813
+msgctxt "164009093-1-5813"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-1-5808
+msgctxt "164009093-1-5808"
+msgid "Sandswirl Manor Cellar"
+msgstr "砂の渦の邸宅の地下"
+
+#: 164009093-1-5807
+msgctxt "164009093-1-5807"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 260523861-1-40
+msgctxt "260523861-1-40"
+msgid "Striking Locale"
+msgstr "攻撃場所"
+
+#: 39619172-0-9666
+msgctxt "39619172-0-9666"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9665
+msgctxt "39619172-0-9665"
+msgid "Book Stack"
+msgstr "書架"
+
+#: 39619172-0-9664
+msgctxt "39619172-0-9664"
+msgid "Bookshelf"
+msgstr "本棚"
+
+#: 39619172-0-9663
+msgctxt "39619172-0-9663"
+msgid "Bookshelf"
+msgstr "本棚"
+
+#: 39619172-0-9662
+msgctxt "39619172-0-9662"
+msgid "Bookshelf"
+msgstr "本棚"
+
+#: 39619172-0-9661
+msgctxt "39619172-0-9661"
+msgid "Bookshelf"
+msgstr "本棚"
+
+#: 39619172-0-9660
+msgctxt "39619172-0-9660"
+msgid "Bookshelf"
+msgstr "本棚"
+
+#: 39619172-0-9659
+msgctxt "39619172-0-9659"
+msgid "Book Stack"
+msgstr "書架"
+
+#: 39619172-0-9658
+msgctxt "39619172-0-9658"
+msgid "Book Stack"
+msgstr "書架"
+
+#: 39619172-0-9657
+msgctxt "39619172-0-9657"
+msgid "Book Stack"
+msgstr "書架"
+
+#: 39619172-0-9656
+msgctxt "39619172-0-9656"
+msgid "Book Stack"
+msgstr "書架"
+
+#: 39619172-0-9655
+msgctxt "39619172-0-9655"
+msgid "Book"
+msgstr "本"
+
+#: 39619172-0-9654
+msgctxt "39619172-0-9654"
+msgid "Book"
+msgstr "本"
+
+#: 39619172-0-9653
+msgctxt "39619172-0-9653"
+msgid "Book"
+msgstr "本"
+
+#: 39619172-0-9652
+msgctxt "39619172-0-9652"
+msgid "Book"
+msgstr "本"
+
+#: 39619172-0-9651
+msgctxt "39619172-0-9651"
+msgid "Book"
+msgstr "本"
+
+#: 39619172-0-9650
+msgctxt "39619172-0-9650"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9649
+msgctxt "39619172-0-9649"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9648
+msgctxt "39619172-0-9648"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9647
+msgctxt "39619172-0-9647"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9646
+msgctxt "39619172-0-9646"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9645
+msgctxt "39619172-0-9645"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9644
+msgctxt "39619172-0-9644"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9643
+msgctxt "39619172-0-9643"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9642
+msgctxt "39619172-0-9642"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9641
+msgctxt "39619172-0-9641"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9640
+msgctxt "39619172-0-9640"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9639
+msgctxt "39619172-0-9639"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9638
+msgctxt "39619172-0-9638"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9637
+msgctxt "39619172-0-9637"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9636
+msgctxt "39619172-0-9636"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9635
+msgctxt "39619172-0-9635"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 39619172-0-9634
+msgctxt "39619172-0-9634"
+msgid "Stew"
+msgstr "シチュー"
+
+#: 98383029-0-89
+msgctxt "98383029-0-89"
+msgid "Stags of Z'en"
+msgstr "ズェンの鹿"
+
+#: 98383029-0-87
+msgctxt "98383029-0-87"
+msgid "Dragon Bone"
+msgstr "竜の骨"
+
+#: 98383029-0-86
+msgctxt "98383029-0-86"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 98383029-0-85
+msgctxt "98383029-0-85"
+msgid "Pellitine"
+msgstr "ペレタイン"
+
+#: 98383029-0-84
+msgctxt "98383029-0-84"
+msgid "Anequina"
+msgstr "アネクイナ"
+
+#: 76200101-0-68
+msgctxt "76200101-0-68"
+msgid "Shrine to S'rendarr"
+msgstr "ステンダールの祠"
+
+#: 76200101-0-67
+msgctxt "76200101-0-67"
+msgid "Shrine to Alkosh"
+msgstr "アルコシュの祠"
+
+#: 164009093-0-6099
+msgctxt "164009093-0-6099"
+msgid "Lunar Plaza"
+msgstr "月の広場"
+
+#: 164009093-0-6098
+msgctxt "164009093-0-6098"
+msgid "Lunar Plaza"
+msgstr "月の広場"
+
+#: 164009093-0-6085
+msgctxt "164009093-0-6085"
+msgid "Rimmen Castle"
+msgstr "リンメン城"
+
+#: 164009093-0-6077
+msgctxt "164009093-0-6077"
+msgid "Upper Mine"
+msgstr "鉱山上層"
+
+#: 164009093-0-6075
+msgctxt "164009093-0-6075"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-6069
+msgctxt "164009093-0-6069"
+msgid "Jode's Embrace Adeptorium"
+msgstr "ジョーデの抱擁の僧房"
+
+#: 164009093-0-6066
+msgctxt "164009093-0-6066"
+msgid "Banished Regrets Inn"
+msgstr "宿屋〈消えた後悔〉"
+
+#: 164009093-0-6064
+msgctxt "164009093-0-6064"
+msgid "Flophouse"
+msgstr "簡易宿泊所"
+
+#: 164009093-0-6063
+msgctxt "164009093-0-6063"
+msgid "Jode's Embrace Adeptorium"
+msgstr "ジョーデの抱擁の僧房"
+
+#: 164009093-0-6061
+msgctxt "164009093-0-6061"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 164009093-0-6060
+msgctxt "164009093-0-6060"
+msgid "Halls Of Colossus"
+msgstr "ホール・オブ・コロッサス"
+
+#: 164009093-0-6058
+msgctxt "164009093-0-6058"
+msgid "Jode's Embrace Adeptorium"
+msgstr "ジョーデの抱擁の僧房"
+
+#: 164009093-0-6057
+msgctxt "164009093-0-6057"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-6056
+msgctxt "164009093-0-6056"
+msgid "Goiter's Gulp Cellar"
+msgstr "〈ゴイターのがぶ飲み〉の貯蔵庫"
+
+#: 164009093-0-6055
+msgctxt "164009093-0-6055"
+msgid "Reaper's March"
+msgstr "リーパーズ・マーチ"
+
+#: 164009093-0-6054
+msgctxt "164009093-0-6054"
+msgid "Sunspire Temple"
+msgstr "サンスパイア聖堂"
+
+#: 164009093-0-6053
+msgctxt "164009093-0-6053"
+msgid "Shrine of Jode"
+msgstr "ジョーデの祠"
+
+#: 164009093-0-6052
+msgctxt "164009093-0-6052"
+msgid "Portal to Plane of Jode"
+msgstr "ジョーデの次元へのポータル"
+
+#: 164009093-0-6051
+msgctxt "164009093-0-6051"
+msgid "Sunspire Temple"
+msgstr "サンスパイア聖堂"
+
+#: 164009093-0-6050
+msgctxt "164009093-0-6050"
+msgid "Shrine of Jone"
+msgstr "ジョーンの祠"
+
+#: 164009093-0-6049
+msgctxt "164009093-0-6049"
+msgid "Hall of the Lunar Champion"
+msgstr "月の勇者の広間"
+
+#: 164009093-0-6047
+msgctxt "164009093-0-6047"
+msgid "Tonenaka Shrine"
+msgstr "トネナカの祠"
+
+#: 164009093-0-6046
+msgctxt "164009093-0-6046"
+msgid "Sugar Bowl Suite"
+msgstr "〈シュガーボウル〉 の特別室"
+
+#: 164009093-0-6041
+msgctxt "164009093-0-6041"
+msgid "Madashara's House"
+msgstr "マダシャラの家"
+
+#: 164009093-0-6040
+msgctxt "164009093-0-6040"
+msgid "Zansora's House"
+msgstr "ザンソラの家"
+
+#: 164009093-0-6039
+msgctxt "164009093-0-6039"
+msgid "Thabazi's House"
+msgstr "サバジの家"
+
+#: 164009093-0-6038
+msgctxt "164009093-0-6038"
+msgid "Shasuna-ja's House"
+msgstr "シャスナ・ジャの家"
+
+#: 164009093-0-6037
+msgctxt "164009093-0-6037"
+msgid "Serunira's House"
+msgstr "セルニラの家"
+
+#: 164009093-0-6036
+msgctxt "164009093-0-6036"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-6035
+msgctxt "164009093-0-6035"
+msgid "Jode's Core"
+msgstr "ジョーデのコア"
+
+#: 164009093-0-6033
+msgctxt "164009093-0-6033"
+msgid "Portal to Elsweyr"
+msgstr "エルスウェアへのポータル"
+
+#: 164009093-0-6032
+msgctxt "164009093-0-6032"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-6031
+msgctxt "164009093-0-6031"
+msgid "Portal to Skooma Cat's Cloister"
+msgstr "スクゥーマの猫の回廊へのポータル"
+
+#: 164009093-0-6030
+msgctxt "164009093-0-6030"
+msgid "Rimmen Masterworks"
+msgstr "リンメン・マスターワークス"
+
+#: 164009093-0-6029
+msgctxt "164009093-0-6029"
+msgid "Lonely Fahamargo's House"
+msgstr "孤独なファハマルゴの家"
+
+#: 164009093-0-6027
+msgctxt "164009093-0-6027"
+msgid "Portal to the Plane of Jode"
+msgstr "ジョーデの次元へのポータル"
+
+#: 164009093-0-6026
+msgctxt "164009093-0-6026"
+msgid "Halls of Eternal Rest"
+msgstr "永遠の休息の間"
+
+#: 164009093-0-6024
+msgctxt "164009093-0-6024"
+msgid "Portal to Shadow Dance Temple"
+msgstr "影の踊りの聖堂へのポータル"
+
+#: 164009093-0-6023
+msgctxt "164009093-0-6023"
+msgid "Shadow Dance Ruins"
+msgstr "影の踊りの遺跡"
+
+#: 164009093-0-6021
+msgctxt "164009093-0-6021"
+msgid "Adept's Dormitory"
+msgstr "アデプトの寮"
+
+#: 164009093-0-6019
+msgctxt "164009093-0-6019"
+msgid "Lower Crypts"
+msgstr "墓地下層"
+
+#: 164009093-0-6018
+msgctxt "164009093-0-6018"
+msgid "Holding Cell"
+msgstr "監房"
+
+#: 164009093-0-6017
+msgctxt "164009093-0-6017"
+msgid "House of Histories"
+msgstr "歴史の館"
+
+#: 164009093-0-6016
+msgctxt "164009093-0-6016"
+msgid "Training Chamber"
+msgstr "訓練室"
+
+#: 164009093-0-6015
+msgctxt "164009093-0-6015"
+msgid "Goiter's Gulp Cellar"
+msgstr "〈ゴイターのがぶ飲み〉の貯蔵庫"
+
+#: 164009093-0-6014
+msgctxt "164009093-0-6014"
+msgid "The Dark Adept's Crypt"
+msgstr "闇アデプトの墓地"
+
+#: 164009093-0-6013
+msgctxt "164009093-0-6013"
+msgid "Jone's Vault of Repentance"
+msgstr "ジョーデの悔恨の宝物庫"
+
+#: 164009093-0-6012
+msgctxt "164009093-0-6012"
+msgid "Jode's Vault of Contrition"
+msgstr "ジョーデの悔恨の宝物庫"
+
+#: 164009093-0-6011
+msgctxt "164009093-0-6011"
+msgid "Dov-Vahl Shrine"
+msgstr "ドヴ・ヴァールの祠"
+
+#: 164009093-0-6010
+msgctxt "164009093-0-6010"
+msgid "Moon Guardian's Tomb"
+msgstr "月のガーディアンの墳墓"
+
+#: 164009093-0-6009
+msgctxt "164009093-0-6009"
+msgid "Hall of Atonement"
+msgstr "償いの間"
+
+#: 164009093-0-6005
+msgctxt "164009093-0-6005"
+msgid "Temple of the Purifying Moons"
+msgstr "浄化月の聖堂"
+
+#: 164009093-0-6004
+msgctxt "164009093-0-6004"
+msgid "Gate"
+msgstr "門"
+
+#: 164009093-0-6003
+msgctxt "164009093-0-6003"
+msgid "Sandswirl Manor"
+msgstr "砂の渦の邸宅"
+
+#: 164009093-0-6000
+msgctxt "164009093-0-6000"
+msgid "Meirvale Keep Dugout"
+msgstr "メイアヴェイル・キープの待避壕"
+
+#: 164009093-0-5998
+msgctxt "164009093-0-5998"
+msgid "Meirvale Keep Courtyard"
+msgstr "メイアヴェイル・キープの中庭"
+
+#: 164009093-0-5997
+msgctxt "164009093-0-5997"
+msgid "Upper Dungeons"
+msgstr "ダンジョン上層"
+
+#: 164009093-0-5996
+msgctxt "164009093-0-5996"
+msgid "Upper Dungeons"
+msgstr "ダンジョン上層"
+
+#: 164009093-0-5995
+msgctxt "164009093-0-5995"
+msgid "Upper Dungeons"
+msgstr "ダンジョン上層"
+
+#: 164009093-0-5994
+msgctxt "164009093-0-5994"
+msgid "Upper Dungeons"
+msgstr "ダンジョン上層"
+
+#: 164009093-0-5993
+msgctxt "164009093-0-5993"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 164009093-0-5992
+msgctxt "164009093-0-5992"
+msgid "Upper Moon Gate Landing"
+msgstr "月の門の入口(上)"
+
+#: 164009093-0-5991
+msgctxt "164009093-0-5991"
+msgid "Skooma Workshop"
+msgstr "スクゥーマ工房"
+
+#: 164009093-0-5990
+msgctxt "164009093-0-5990"
+msgid "Side Passage"
+msgstr "脇道"
+
+#: 164009093-0-5989
+msgctxt "164009093-0-5989"
+msgid "Tomb of the Grand Adepts"
+msgstr "グランドアデプトの墳墓"
+
+#: 164009093-0-5988
+msgctxt "164009093-0-5988"
+msgid "Relic Vault"
+msgstr "遺物の地下室"
+
+#: 164009093-0-5987
+msgctxt "164009093-0-5987"
+msgid "Chancel of Alkosh"
+msgstr "アルコシュの内陣"
+
+#: 164009093-0-5985
+msgctxt "164009093-0-5985"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 164009093-0-5984
+msgctxt "164009093-0-5984"
+msgid "Cellar"
+msgstr "地下"
+
+#: 164009093-0-5983
+msgctxt "164009093-0-5983"
+msgid "Ishu's House"
+msgstr "イシュの家"
+
+#: 164009093-0-5981
+msgctxt "164009093-0-5981"
+msgid "Southern Close"
+msgstr "南の閉まった扉"
+
+#: 164009093-0-5979
+msgctxt "164009093-0-5979"
+msgid "Portal to Rimmen"
+msgstr "リンメンへのポータル"
+
+#: 164009093-0-5978
+msgctxt "164009093-0-5978"
+msgid "Greenleaf Farmhouse"
+msgstr "グリーンリーフ農場の家"
+
+#: 164009093-0-5977
+msgctxt "164009093-0-5977"
+msgid "Tajirri's House"
+msgstr "タジッリの家"
+
+#: 164009093-0-5976
+msgctxt "164009093-0-5976"
+msgid "Tajirri's House"
+msgstr "タジッリの家"
+
+#: 164009093-0-5975
+msgctxt "164009093-0-5975"
+msgid "Shadow Dance Temple"
+msgstr "影の踊りの聖堂"
+
+#: 164009093-0-5974
+msgctxt "164009093-0-5974"
+msgid "Banished Regrets Inn"
+msgstr "宿屋〈消えた後悔〉"
+
+#: 164009093-0-5970
+msgctxt "164009093-0-5970"
+msgid "Tomb of the Manes"
+msgstr "たてがみの墳墓"
+
+#: 164009093-0-5968
+msgctxt "164009093-0-5968"
+msgid "The Kingdoms Exhibit"
+msgstr "王国の展示"
+
+#: 164009093-0-5966
+msgctxt "164009093-0-5966"
+msgid "The Goiter's Gulp"
+msgstr "〈ゴイターのがぶ飲み〉"
+
+#: 164009093-0-5964
+msgctxt "164009093-0-5964"
+msgid "Palace Throne Room"
+msgstr "宮殿の玉座の間"
+
+#: 164009093-0-5963
+msgctxt "164009093-0-5963"
+msgid "Star Haven Grounds"
+msgstr "スターヘヴン運動場"
+
+#: 164009093-0-5962
+msgctxt "164009093-0-5962"
+msgid "Sunspire Temple"
+msgstr "サンスパイア聖堂"
+
+#: 164009093-0-5961
+msgctxt "164009093-0-5961"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 164009093-0-5951
+msgctxt "164009093-0-5951"
+msgid "M'zum's Mansion"
+msgstr "ムズムの邸宅"
+
+#: 164009093-0-5950
+msgctxt "164009093-0-5950"
+msgid "Necromancer Workshop"
+msgstr "死霊術師の工房"
+
+#: 164009093-0-5946
+msgctxt "164009093-0-5946"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
+
+#: 164009093-0-5945
+msgctxt "164009093-0-5945"
+msgid "Desert Wind Adeptorium"
+msgstr "砂漠の風の僧房"
+
+#: 164009093-0-5944
+msgctxt "164009093-0-5944"
+msgid "Desert Wind Adeptorium"
+msgstr "砂漠の風の僧房"
+
+#: 164009093-0-5943
+msgctxt "164009093-0-5943"
+msgid "Grahtwood"
+msgstr "グラーウッド"
+
+#: 164009093-0-5942
+msgctxt "164009093-0-5942"
+msgid "Grand Adept's Chambers"
+msgstr "グランドアデプトの部屋"
+
+#: 164009093-0-5941
+msgctxt "164009093-0-5941"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-5940
+msgctxt "164009093-0-5940"
+msgid "Desert Wind Main Hall"
+msgstr "砂漠の風の広間"
+
+#: 164009093-0-5939
+msgctxt "164009093-0-5939"
+msgid "Desert Wind Adeptorium"
+msgstr "砂漠の風の僧房"
+
+#: 164009093-0-5938
+msgctxt "164009093-0-5938"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 164009093-0-5937
+msgctxt "164009093-0-5937"
+msgid "Star Haven Courtyard"
+msgstr "スターヘヴンの中庭"
+
+#: 164009093-0-5936
+msgctxt "164009093-0-5936"
+msgid "Star Haven Adeptorium"
+msgstr "スターヘヴン僧房"
+
+#: 164009093-0-5935
+msgctxt "164009093-0-5935"
+msgid "Rakazsa's Den"
+msgstr "ラカズサの拠点"
+
+#: 164009093-0-5934
+msgctxt "164009093-0-5934"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-5933
+msgctxt "164009093-0-5933"
+msgid "North Weapons Platform"
+msgstr "北の武器プラットフォーム"
+
+#: 164009093-0-5932
+msgctxt "164009093-0-5932"
+msgid "Royal Study"
+msgstr "王家の書斎"
+
+#: 164009093-0-5931
+msgctxt "164009093-0-5931"
+msgid "Rimmen Palace Throne Room"
+msgstr "リンメン宮殿の玉座の間"
+
+#: 164009093-0-5930
+msgctxt "164009093-0-5930"
+msgid "South Weapons Platform"
+msgstr "南の武器プラットフォーム"
+
+#: 164009093-0-5929
+msgctxt "164009093-0-5929"
+msgid "Star Haven Grounds"
+msgstr "スターヘヴン運動場"
+
+#: 164009093-0-5928
+msgctxt "164009093-0-5928"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-5927
+msgctxt "164009093-0-5927"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-0-5926
+msgctxt "164009093-0-5926"
+msgid "Rimmen Palace Courtyard"
+msgstr "リンメン宮殿の中庭"
+
+#: 164009093-0-5925
+msgctxt "164009093-0-5925"
+msgid "Royal Chambers"
+msgstr "王家の部屋"
+
+#: 164009093-0-5924
+msgctxt "164009093-0-5924"
+msgid "The Great Hall"
+msgstr "大広間"
+
+#: 164009093-0-5922
+msgctxt "164009093-0-5922"
+msgid "Chapel of the Guiding Moons"
+msgstr "導く月の礼拝堂"
+
+#: 164009093-0-5921
+msgctxt "164009093-0-5921"
+msgid "Star Haven Catacombs"
+msgstr "スターヘヴンの地下墓地"
+
+#: 164009093-0-5920
+msgctxt "164009093-0-5920"
+msgid "Star Haven Gardens"
+msgstr "スターヘヴン庭園"
+
+#: 164009093-0-5919
+msgctxt "164009093-0-5919"
+msgid "Upper Baan Dar Caverns"
+msgstr "バーン・ダル洞窟上層"
+
+#: 164009093-0-5918
+msgctxt "164009093-0-5918"
+msgid "Baan Dar Overlook"
+msgstr "バーン・ダルの高台"
+
+#: 164009093-0-5917
+msgctxt "164009093-0-5917"
+msgid "Temple Balcony"
+msgstr "聖堂のバルコニー"
+
+#: 164009093-0-5916
+msgctxt "164009093-0-5916"
+msgid "Rimmen Necropolis"
+msgstr "リンメン・ネクロポリス"
+
+#: 164009093-0-5915
+msgctxt "164009093-0-5915"
+msgid "K'har Zhab Hall"
+msgstr "カーザブ・ホール"
+
+#: 164009093-0-5914
+msgctxt "164009093-0-5914"
+msgid "K'har Zhab Hall"
+msgstr "カーザブ・ホール"
+
+#: 164009093-0-5913
+msgctxt "164009093-0-5913"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-5912
+msgctxt "164009093-0-5912"
+msgid "Sleepy Senche Mine"
+msgstr "眠そうなセンチ鉱山"
+
+#: 164009093-0-5911
+msgctxt "164009093-0-5911"
+msgid "Temple Cellar"
+msgstr "聖堂の貯蔵庫"
+
+#: 164009093-0-5910
+msgctxt "164009093-0-5910"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 164009093-0-5909
+msgctxt "164009093-0-5909"
+msgid "Tomb of the Serpents"
+msgstr "大蛇の墳墓"
+
+#: 164009093-0-5908
+msgctxt "164009093-0-5908"
+msgid "Catspaw Counting House"
+msgstr "猫爪会計事務所"
+
+#: 164009093-0-5907
+msgctxt "164009093-0-5907"
+msgid "Hadamnargo's Farmhouse"
+msgstr "ハダムナーゴの農園"
+
+#: 164009093-0-5906
+msgctxt "164009093-0-5906"
+msgid "Mages Guild"
+msgstr "魔術師ギルド"
+
+#: 164009093-0-5905
+msgctxt "164009093-0-5905"
+msgid "Fighters Guild"
+msgstr "戦士ギルド"
+
+#: 164009093-0-5904
+msgctxt "164009093-0-5904"
+msgid "House"
+msgstr "家"
+
+#: 164009093-0-5903
+msgctxt "164009093-0-5903"
+msgid "House"
+msgstr "家"
+
+#: 164009093-0-5902
+msgctxt "164009093-0-5902"
+msgid "House"
+msgstr "家"
+
+#: 164009093-0-5901
+msgctxt "164009093-0-5901"
+msgid "The Sugar Bowl"
+msgstr "〈シュガーボウル〉"
+
+#: 164009093-0-5900
+msgctxt "164009093-0-5900"
+msgid "The Sugar Bowl"
+msgstr "〈シュガーボウル〉"
+
+#: 164009093-0-5899
+msgctxt "164009093-0-5899"
+msgid "Urania Barbula's House"
+msgstr "ウラニア・バーブラの家"
+
+#: 164009093-0-5898
+msgctxt "164009093-0-5898"
+msgid "House"
+msgstr "家"
+
+#: 164009093-0-5897
+msgctxt "164009093-0-5897"
+msgid "Kashraska's House"
+msgstr "カシュラスカの家"
+
+#: 164009093-0-5896
+msgctxt "164009093-0-5896"
+msgid "Feziri's House"
+msgstr "フェジリの家"
+
+#: 164009093-0-5895
+msgctxt "164009093-0-5895"
+msgid "Mashawi's House"
+msgstr "マシャウィの家"
+
+#: 164009093-0-5894
+msgctxt "164009093-0-5894"
+msgid "Zansora's House"
+msgstr "ザンソラの家"
+
+#: 164009093-0-5893
+msgctxt "164009093-0-5893"
+msgid "Undercroft"
+msgstr "地下室"
+
+#: 164009093-0-5892
+msgctxt "164009093-0-5892"
+msgid "Hidden Moon Crypts"
+msgstr "隠された月の墓地"
+
+#: 164009093-0-5891
+msgctxt "164009093-0-5891"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 164009093-0-5890
+msgctxt "164009093-0-5890"
+msgid "Merryvale Farms"
+msgstr "メイアヴェイル農園"
+
+#: 164009093-0-5888
+msgctxt "164009093-0-5888"
+msgid "Sewer Access"
+msgstr "下水道への入口"
+
+#: 164009093-0-5887
+msgctxt "164009093-0-5887"
+msgid "Sewer Access"
+msgstr "下水道への入口"
+
+#: 164009093-0-5886
+msgctxt "164009093-0-5886"
+msgid "Sewer Access"
+msgstr "下水道への入口"
+
+#: 164009093-0-5885
+msgctxt "164009093-0-5885"
+msgid "The Upper City"
+msgstr "都市上層"
+
+#: 164009093-0-5884
+msgctxt "164009093-0-5884"
+msgid "Red Senche Alley"
+msgstr "レッドセンチ通り"
+
+#: 164009093-0-5883
+msgctxt "164009093-0-5883"
+msgid "Tomb of the Hidden Moon"
+msgstr "隠された月の墳墓"
+
+#: 164009093-0-5882
+msgctxt "164009093-0-5882"
+msgid "Secret Tunnel"
+msgstr "秘密のトンネル"
+
+#: 164009093-0-5881
+msgctxt "164009093-0-5881"
+msgid "Storage Cellar"
+msgstr "貯蔵庫"
+
+#: 164009093-0-5880
+msgctxt "164009093-0-5880"
+msgid "Portal to the Temple of the Hidden Moon"
+msgstr "隠された月の聖堂へのポータル"
+
+#: 164009093-0-5879
+msgctxt "164009093-0-5879"
+msgid "Fragrant Moons Plantation"
+msgstr "香る月の大農園"
+
+#: 164009093-0-5878
+msgctxt "164009093-0-5878"
+msgid "Dov-Vahl Sanctuary"
+msgstr "ドヴ・ヴァール聖域"
+
+#: 164009093-0-5877
+msgctxt "164009093-0-5877"
+msgid "Manor Main Hall"
+msgstr "邸宅の大広間"
+
+#: 164009093-0-5876
+msgctxt "164009093-0-5876"
+msgid "Rimmen Outlaws Refuge"
+msgstr "リンメンの無法者の隠れ家"
+
+#: 164009093-0-5875
+msgctxt "164009093-0-5875"
+msgid "Rimmen Outlaws Refuge"
+msgstr "リンメンの無法者の隠れ家"
+
+#: 164009093-0-5873
+msgctxt "164009093-0-5873"
+msgid "Abode of Ignominy"
+msgstr "不名誉の家"
+
+#: 164009093-0-5872
+msgctxt "164009093-0-5872"
+msgid "Tomb of the Hidden Moon"
+msgstr "隠された月の墳墓"
+
+#: 164009093-0-5870
+msgctxt "164009093-0-5870"
+msgid "Rimmen Palace Sewer"
+msgstr "リンメン宮殿の下水道"
+
+#: 164009093-0-5869
+msgctxt "164009093-0-5869"
+msgid "Rimmen Palace Recesses"
+msgstr "リンメン宮殿収納所"
+
+#: 164009093-0-5868
+msgctxt "164009093-0-5868"
+msgid "Tenarr Zalviit Ossuary"
+msgstr "テナル・ザルヴィト納骨堂"
+
+#: 164009093-0-5866
+msgctxt "164009093-0-5866"
+msgid "Moon Gate of Anequina"
+msgstr "アネクイナの月の門"
+
+#: 164009093-0-5865
+msgctxt "164009093-0-5865"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 164009093-0-5861
+msgctxt "164009093-0-5861"
+msgid "The Tangle"
+msgstr "タングル"
+
+#: 164009093-0-5860
+msgctxt "164009093-0-5860"
+msgid "Khasda's Torture Chamber"
+msgstr "カスダの拷問室"
+
+#: 164009093-0-5858
+msgctxt "164009093-0-5858"
+msgid "Meirvale Keep Palace"
+msgstr "メイアヴェイル・キープの宮殿"
+
+#: 164009093-0-5857
+msgctxt "164009093-0-5857"
+msgid "Meirvale Keep Courtyard"
+msgstr "メイアヴェイル・キープの中庭"
+
+#: 164009093-0-5856
+msgctxt "164009093-0-5856"
+msgid "Meirvale Keep Dungeons"
+msgstr "メイアヴェイル・キープの地下牢"
+
+#: 164009093-0-5854
+msgctxt "164009093-0-5854"
+msgid "Founder Chamber"
+msgstr "創設者の部屋"
+
+#: 164009093-0-5852
+msgctxt "164009093-0-5852"
+msgid "Hakoshae Tombs"
+msgstr "ハコシャエの墳墓"
+
+#: 164009093-0-5851
+msgctxt "164009093-0-5851"
+msgid "Vault of the Heavenly Scourge"
+msgstr "天罰の宝物庫"
+
+#: 164009093-0-5850
+msgctxt "164009093-0-5850"
+msgid "Jubani's Junkshop Basement"
+msgstr "ジュバニのジャンク屋の地下室"
+
+#: 164009093-0-5849
+msgctxt "164009093-0-5849"
+msgid "Jubani's Junkshop"
+msgstr "ジュバニのジャンク屋"
+
+#: 164009093-0-5848
+msgctxt "164009093-0-5848"
+msgid "History Vault"
+msgstr "歴史の宝物庫"
+
+#: 164009093-0-5847
+msgctxt "164009093-0-5847"
+msgid "Dancing Moon Temple"
+msgstr "踊る月の聖堂"
+
+#: 164009093-0-5846
+msgctxt "164009093-0-5846"
+msgid "Manor Cellar"
+msgstr "邸宅の地下"
+
+#: 164009093-0-5844
+msgctxt "164009093-0-5844"
+msgid "Zumog Phoom's Lair"
+msgstr "ズモグ・フームの拠点"
+
+#: 164009093-0-5843
+msgctxt "164009093-0-5843"
+msgid "Funerary Chamber"
+msgstr "葬儀室"
+
+#: 164009093-0-5839
+msgctxt "164009093-0-5839"
+msgid "Royal Chambers"
+msgstr "王家の部屋"
+
+#: 164009093-0-5838
+msgctxt "164009093-0-5838"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 164009093-0-5835
+msgctxt "164009093-0-5835"
+msgid "Crypt Library"
+msgstr "墓地の蔵書庫"
+
+#: 164009093-0-5834
+msgctxt "164009093-0-5834"
+msgid "The Great Hall"
+msgstr "大広間"
+
+#: 164009093-0-5833
+msgctxt "164009093-0-5833"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 164009093-0-5832
+msgctxt "164009093-0-5832"
+msgid "Castle Chapel"
+msgstr "城の礼拝堂"
+
+#: 164009093-0-5827
+msgctxt "164009093-0-5827"
+msgid "Rahti's Command Post"
+msgstr "ラーチの指揮所"
+
+#: 164009093-0-5822
+msgctxt "164009093-0-5822"
+msgid "Bonechime Outpost"
+msgstr "ボーンチャイムの基地"
+
+#: 164009093-0-5820
+msgctxt "164009093-0-5820"
+msgid "Central Chamber"
+msgstr "中央の部屋"
+
+#: 164009093-0-5819
+msgctxt "164009093-0-5819"
+msgid "Laboratory"
+msgstr "研究所"
+
+#: 164009093-0-5818
+msgctxt "164009093-0-5818"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 164009093-0-5815
+msgctxt "164009093-0-5815"
+msgid "Inner Sanctum"
+msgstr "聖域最深部"
+
+#: 164009093-0-5813
+msgctxt "164009093-0-5813"
+msgid "Dov-Vahl Shrine"
+msgstr "ドヴ・ヴァールの祠"
+
+#: 164009093-0-5808
+msgctxt "164009093-0-5808"
+msgid "Sandswirl Manor"
+msgstr "砂の渦の邸宅"
+
+#: 164009093-0-5807
+msgctxt "164009093-0-5807"
+msgid "Sandswirl Manor Cellar"
+msgstr "砂の渦の邸宅の地下"
+
+#: 77659573-0-462
+msgctxt "77659573-0-462"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-461
+msgctxt "77659573-0-461"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-460
+msgctxt "77659573-0-460"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-459
+msgctxt "77659573-0-459"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-458
+msgctxt "77659573-0-458"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-457
+msgctxt "77659573-0-457"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-456
+msgctxt "77659573-0-456"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-455
+msgctxt "77659573-0-455"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-454
+msgctxt "77659573-0-454"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-453
+msgctxt "77659573-0-453"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-452
+msgctxt "77659573-0-452"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-451
+msgctxt "77659573-0-451"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-450
+msgctxt "77659573-0-450"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-449
+msgctxt "77659573-0-449"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-448
+msgctxt "77659573-0-448"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-447
+msgctxt "77659573-0-447"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-446
+msgctxt "77659573-0-446"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-445
+msgctxt "77659573-0-445"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-444
+msgctxt "77659573-0-444"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-443
+msgctxt "77659573-0-443"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-442
+msgctxt "77659573-0-442"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-441
+msgctxt "77659573-0-441"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-440
+msgctxt "77659573-0-440"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 77659573-0-439
+msgctxt "77659573-0-439"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 260523861-0-40
+msgctxt "260523861-0-40"
+msgid "Dragon"
+msgstr "ドラゴン"
+
+#: 19398485-0-3160
+msgctxt "19398485-0-3160"
+msgid "Ladder"
+msgstr "梯子"
+
+#: 19398485-0-3128
+msgctxt "19398485-0-3128"
+msgid "The Frostfall Coup"
+msgstr "降霜の月のクーデター"
+
+#: 19398485-0-3127
+msgctxt "19398485-0-3127"
+msgid "Euraxian Necromancers"
+msgstr "ユーラクシアの死霊術師"
+
+#: 19398485-0-3126
+msgctxt "19398485-0-3126"
+msgid "Cat Food"
+msgstr "キャットフード"
+
+#: 19398485-0-3124
+msgctxt "19398485-0-3124"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 19398485-0-3123
+msgctxt "19398485-0-3123"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3117
+msgctxt "19398485-0-3117"
+msgid "Noordigloop the Clog"
+msgstr "道塞ぎのノーディグループ"
+
+#: 19398485-0-3116
+msgctxt "19398485-0-3116"
+msgid "Mysterious Akavir"
+msgstr "アカヴィルの不思議"
+
+#: 19398485-0-3115
+msgctxt "19398485-0-3115"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3106
+msgctxt "19398485-0-3106"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 19398485-0-3091
+msgctxt "19398485-0-3091"
+msgid "Khadabi's Rules"
+msgstr "カダビのルール"
+
+#: 19398485-0-3090
+msgctxt "19398485-0-3090"
+msgid "Location"
+msgstr "場所"
+
+#: 19398485-0-3089
+msgctxt "19398485-0-3089"
+msgid "Shomae's Journal"
+msgstr "ショマエの日記"
+
+#: 19398485-0-3087
+msgctxt "19398485-0-3087"
+msgid "Khunzar-ri: Tales, Two"
+msgstr "クンザ・リ: 第二の物語"
+
+#: 19398485-0-3086
+msgctxt "19398485-0-3086"
+msgid "Anequina Animal Identification and Tasting"
+msgstr "アネクイナの動物の見分け方とその味"
+
+#: 19398485-0-3085
+msgctxt "19398485-0-3085"
+msgid "Guide to Northern Elsweyr"
+msgstr "北エルスウェアへの案内"
+
+#: 19398485-0-3084
+msgctxt "19398485-0-3084"
+msgid "Praise to Mafala!"
+msgstr "マファラを称えよ！"
+
+#: 19398485-0-3083
+msgctxt "19398485-0-3083"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 19398485-0-3081
+msgctxt "19398485-0-3081"
+msgid "Wisdom of the Flying Gods"
+msgstr "空飛ぶ神々の叡智"
+
+#: 19398485-0-3080
+msgctxt "19398485-0-3080"
+msgid "Khunzar-ri: Tales"
+msgstr "クンザ・リ: 物語"
+
+#: 19398485-0-3079
+msgctxt "19398485-0-3079"
+msgid "Origins of the Khajiiti Martial Tradition"
+msgstr "カジート武術の起源"
+
+#: 19398485-0-3078
+msgctxt "19398485-0-3078"
+msgid "A Dragonhorn! Oh, Dragonhorn!"
+msgstr "ドラゴンホーン！ おお、ドラゴンホーン！"
+
+#: 19398485-0-3077
+msgctxt "19398485-0-3077"
+msgid "The Angry Alfiq: A Collection"
+msgstr "怒りアルフィク: コレクション"
+
+#: 19398485-0-3076
+msgctxt "19398485-0-3076"
+msgid "One Dragon Two Dragon"
+msgstr "ドラゴンが1匹、ドラゴンが2匹"
+
+#: 19398485-0-3075
+msgctxt "19398485-0-3075"
+msgid "Clever Kail-Perwa and the Great Boast, Volume 4"
+msgstr "賢きカイル・ペルワと大いなる自慢 第4巻"
+
+#: 19398485-0-3074
+msgctxt "19398485-0-3074"
+msgid "Clever Kail-Perwa and the Great Boast, Volume 3"
+msgstr "賢きカイル・ペルワと大いなる自慢 第3巻"
+
+#: 19398485-0-3073
+msgctxt "19398485-0-3073"
+msgid "Clever Kail-Perwa and the Great Boast, Volume 2"
+msgstr "賢きカイル・ペルワと大いなる自慢 第2巻"
+
+#: 19398485-0-3072
+msgctxt "19398485-0-3072"
+msgid "Clever Kail-Perwa and the Great Boast, Volume 1"
+msgstr "賢きカイル・ペルワと大いなる自慢 第1巻"
+
+#: 19398485-0-3071
+msgctxt "19398485-0-3071"
+msgid "Val Vijah Va Rhook, Baandari"
+msgstr "ヴァル・ヴィジャー・ヴァ・ルフーク、バーンダリ"
+
+#: 19398485-0-3070
+msgctxt "19398485-0-3070"
+msgid "The Song of Khunzar-ri"
+msgstr "クンザ・リの歌"
+
+#: 19398485-0-3069
+msgctxt "19398485-0-3069"
+msgid "What's Yours is Mine (A Little Larceny)"
+msgstr "お前のものは俺のもの(ちょっとした泥棒)"
+
+#: 19398485-0-3068
+msgctxt "19398485-0-3068"
+msgid "A Cat's Serenade"
+msgstr "猫のセレナーデ"
+
+#: 19398485-0-3067
+msgctxt "19398485-0-3067"
+msgid "Dancing Among the Flowers"
+msgstr "素敵な花に囲まれて踊ろう"
+
+#: 19398485-0-3066
+msgctxt "19398485-0-3066"
+msgid "The Furstock Song"
+msgstr "毛皮を持つ者たちの歌"
+
+#: 19398485-0-3065
+msgctxt "19398485-0-3065"
+msgid "Sweet Moon-Sugar Cane"
+msgstr "甘いムーンシュガーの茎"
+
+#: 19398485-0-3064
+msgctxt "19398485-0-3064"
+msgid "Terror-Birds: Up Close and Personal"
+msgstr "恐ろしい鳥: その生態"
+
+#: 19398485-0-3063
+msgctxt "19398485-0-3063"
+msgid "Moon-Sugar: A Report"
+msgstr "ムーンシュガー: 報告"
+
+#: 19398485-0-3062
+msgctxt "19398485-0-3062"
+msgid "Anequina and Pellitine: An Introduction"
+msgstr "アネクイナとペレタイン: 紹介"
+
+#: 19398485-0-3061
+msgctxt "19398485-0-3061"
+msgid "A Sacrament Remains"
+msgstr "やり残した聖餐"
+
+#: 19398485-0-3060
+msgctxt "19398485-0-3060"
+msgid "Senche-rahts: Not Just Mounts"
+msgstr "センチラート: ただの騎乗動物にあらず"
+
+#: 19398485-0-3059
+msgctxt "19398485-0-3059"
+msgid "On the Trail of the Forgotten Mane"
+msgstr "忘れ去られたたてがみの痕跡"
+
+#: 19398485-0-3058
+msgctxt "19398485-0-3058"
+msgid "Shazah's Diary"
+msgstr "シャザハの日記"
+
+#: 19398485-0-3057
+msgctxt "19398485-0-3057"
+msgid "To Jun-Jo the Empty Fang"
+msgstr "空の牙のジュン・ジョーへ"
+
+#: 19398485-0-3056
+msgctxt "19398485-0-3056"
+msgid "Chronicles of Juha-ri, Chapter 3"
+msgstr "ジュハ・リ年代記 第三章"
+
+#: 19398485-0-3055
+msgctxt "19398485-0-3055"
+msgid "Chronicles of Juha-ri, Chapter 2"
+msgstr "ジュハ・リ年代記 第二章"
+
+#: 19398485-0-3054
+msgctxt "19398485-0-3054"
+msgid "Chronicles of Juha-ri, Chapter 1"
+msgstr "ジュハ・リ年代記 第一章"
+
+#: 19398485-0-3053
+msgctxt "19398485-0-3053"
+msgid "Anonymous Torn Journal"
+msgstr "匿名の引き裂かれた日記"
+
+#: 19398485-0-3051
+msgctxt "19398485-0-3051"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3050
+msgctxt "19398485-0-3050"
+msgid "Burnt Barrel"
+msgstr "焦げた樽"
+
+#: 19398485-0-3049
+msgctxt "19398485-0-3049"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3047
+msgctxt "19398485-0-3047"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3046
+msgctxt "19398485-0-3046"
+msgid "EQ6 State 3 Failsafe"
+msgstr "EQ6 State 3 Failsafe"
+
+#: 19398485-0-3045
+msgctxt "19398485-0-3045"
+msgid "EQ6 State 3 Failsafe"
+msgstr "EQ6 State 3 Failsafe"
+
+#: 19398485-0-3044
+msgctxt "19398485-0-3044"
+msgid "EQ6 State 2 Failsafe"
+msgstr "EQ6 State 2 Failsafe"
+
+#: 19398485-0-3043
+msgctxt "19398485-0-3043"
+msgid "Urn Glow"
+msgstr "光る壺"
+
+#: 19398485-0-3042
+msgctxt "19398485-0-3042"
+msgid "On Those Who Know Baan Dar"
+msgstr "バーン・ダルを知る者"
+
+#: 19398485-0-3041
+msgctxt "19398485-0-3041"
+msgid "The Tonenaka Shrine: A Study in Akaviri Mystique"
+msgstr "トネナカの祠: アカヴィリ秘術の研究"
+
+#: 19398485-0-3040
+msgctxt "19398485-0-3040"
+msgid "EQ7 - Gate Stand Theater 0"
+msgstr "EQ7 - Gate Stand Theater 0"
+
+#: 19398485-0-3038
+msgctxt "19398485-0-3038"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3034
+msgctxt "19398485-0-3034"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3028
+msgctxt "19398485-0-3028"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 19398485-0-3027
+msgctxt "19398485-0-3027"
+msgid "Portal to Twisted Two Moons Temple"
+msgstr "歪められた双子月の聖堂へのポータル"
+
+#: 19398485-0-3026
+msgctxt "19398485-0-3026"
+msgid "The Sixteen Kingdoms"
+msgstr "十六王国"
+
+#: 19398485-0-3025
+msgctxt "19398485-0-3025"
+msgid "Unsent Letter to Zazazrala"
+msgstr "ザザズララへの手紙"
+
+#: 19398485-0-3024
+msgctxt "19398485-0-3024"
+msgid "Khunzar-ri: Origin"
+msgstr "クンザ・リ: 起源"
+
+#: 19398485-0-3023
+msgctxt "19398485-0-3023"
+msgid "Trail and Tide"
+msgstr "道筋と潮汐"
+
+#: 19398485-0-3022
+msgctxt "19398485-0-3022"
+msgid "Sorcery is Not Necromancy!"
+msgstr "魔術は死霊術ではない！"
+
+#: 19398485-0-3020
+msgctxt "19398485-0-3020"
+msgid "Moon Portal"
+msgstr "月のポータル"
+
+#: 19398485-0-3019
+msgctxt "19398485-0-3019"
+msgid "Portal to Plane of Jode"
+msgstr "ジョーデの次元へのポータル"
+
+#: 19398485-0-3018
+msgctxt "19398485-0-3018"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 19398485-0-3017
+msgctxt "19398485-0-3017"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 19398485-0-3016
+msgctxt "19398485-0-3016"
+msgid "Ballista"
+msgstr "バリスタ"
+
+#: 19398485-0-3013
+msgctxt "19398485-0-3013"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 19398485-0-3007
+msgctxt "19398485-0-3007"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3003
+msgctxt "19398485-0-3003"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-3002
+msgctxt "19398485-0-3002"
+msgid "Rope"
+msgstr "ロープ"
+
+#: 19398485-0-2996
+msgctxt "19398485-0-2996"
+msgid "EQ7 - Dragon Explosion"
+msgstr "EQ7 - Dragon Explosion"
+
+#: 19398485-0-2995
+msgctxt "19398485-0-2995"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-2994
+msgctxt "19398485-0-2994"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-2986
+msgctxt "19398485-0-2986"
+msgid "Azin-jo's Journal"
+msgstr "アジン・ジョーの日記"
+
+#: 19398485-0-2985
+msgctxt "19398485-0-2985"
+msgid "The Blessings of Jone and Jode"
+msgstr "ジョーンとジョーデの祝福"
+
+#: 19398485-0-2984
+msgctxt "19398485-0-2984"
+msgid "A Window for Escape"
+msgstr "脱走の機会"
+
+#: 19398485-0-2983
+msgctxt "19398485-0-2983"
+msgid "Mojha is a Fool"
+msgstr "モジャは愚かだ"
+
+#: 19398485-0-2982
+msgctxt "19398485-0-2982"
+msgid "Letter to Bakul"
+msgstr "バクルへの手紙"
+
+#: 19398485-0-2967
+msgctxt "19398485-0-2967"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-2966
+msgctxt "19398485-0-2966"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-2965
+msgctxt "19398485-0-2965"
+msgid "Jail Cell"
+msgstr "監獄の独房"
+
+#: 19398485-0-2964
+msgctxt "19398485-0-2964"
+msgid "Trigger"
+msgstr "トリガー"
+
+#: 19398485-0-2961
+msgctxt "19398485-0-2961"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-2951
+msgctxt "19398485-0-2951"
+msgid "Door"
+msgstr "扉"
+
+#: 19398485-0-2867
+msgctxt "19398485-0-2867"
+msgid "Ladder"
+msgstr "梯子"
+
+#: 19398485-0-2866
+msgctxt "19398485-0-2866"
+msgid "Door"
+msgstr "扉"
+
+#: 87370069-0-26106
+msgctxt "87370069-0-26106"
+msgid "U22 DragonFlyBy IO"
+msgstr "U22 DragonFlyBy IO"
+
+#: 87370069-0-26104
+msgctxt "87370069-0-26104"
+msgid "Riddles of the Rithana-di-Renada"
+msgstr "リサナ・ディ・レナダの謎"
+
+#: 87370069-0-26076
+msgctxt "87370069-0-26076"
+msgid "Bright-Throat Riddle Fragment"
+msgstr "ブライトスロートの謎の欠片"
+
+#: 87370069-0-26074
+msgctxt "87370069-0-26074"
+msgid "Invitation to the Kinlady's Conference"
+msgstr "上級公女の会合への招待状"
+
+#: 87370069-0-26073
+msgctxt "87370069-0-26073"
+msgid "Rhanbiq's Notes"
+msgstr "ランビクのメモ"
+
+#: 87370069-0-26025
+msgctxt "87370069-0-26025"
+msgid "Theater trigger"
+msgstr "シアターのトリガー"
+
+#: 87370069-0-26012
+msgctxt "87370069-0-26012"
+msgid "Behold Khunzar-ri's Betrayal"
+msgstr "クンザ・リと裏切りを見よ"
+
+#: 87370069-0-26011
+msgctxt "87370069-0-26011"
+msgid "Portal to Halls of Colossus"
+msgstr "ホール・オブ・コロッサスへのポータル"
+
+#: 87370069-0-25996
+msgctxt "87370069-0-25996"
+msgid "Behold the Lunar Champion"
+msgstr "月の勇者を見よ"
+
+#: 87370069-0-25987
+msgctxt "87370069-0-25987"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 87370069-0-25986
+msgctxt "87370069-0-25986"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25985
+msgctxt "87370069-0-25985"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25984
+msgctxt "87370069-0-25984"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25983
+msgctxt "87370069-0-25983"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25982
+msgctxt "87370069-0-25982"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25981
+msgctxt "87370069-0-25981"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25980
+msgctxt "87370069-0-25980"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25979
+msgctxt "87370069-0-25979"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25978
+msgctxt "87370069-0-25978"
+msgid "Hidden Treasure"
+msgstr "隠された宝"
+
+#: 87370069-0-25977
+msgctxt "87370069-0-25977"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25976
+msgctxt "87370069-0-25976"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25975
+msgctxt "87370069-0-25975"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25974
+msgctxt "87370069-0-25974"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25973
+msgctxt "87370069-0-25973"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25972
+msgctxt "87370069-0-25972"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25971
+msgctxt "87370069-0-25971"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25970
+msgctxt "87370069-0-25970"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25969
+msgctxt "87370069-0-25969"
+msgid "Dirt Mound"
+msgstr "盛られた土"
+
+#: 87370069-0-25968
+msgctxt "87370069-0-25968"
+msgid "Portal to Hidden Moon Crypts"
+msgstr "隠された月の墓地へのポータル"
+
+#: 87370069-0-25962
+msgctxt "87370069-0-25962"
+msgid "Dark Phylactery"
+msgstr "闇の聖句箱"
+
+#: 87370069-0-25961
+msgctxt "87370069-0-25961"
+msgid "Dark Phylactery"
+msgstr "闇の聖句箱"
+
+#: 87370069-0-25960
+msgctxt "87370069-0-25960"
+msgid "Dark Phylactery"
+msgstr "闇の聖句箱"
+
+#: 87370069-0-25933
+msgctxt "87370069-0-25933"
+msgid "Moon Reflector"
+msgstr "月の反射鏡"
+
+#: 87370069-0-25932
+msgctxt "87370069-0-25932"
+msgid "Moon Reflector"
+msgstr "月の反射鏡"
+
+#: 87370069-0-25927
+msgctxt "87370069-0-25927"
+msgid "Moon Reflector"
+msgstr "月の反射鏡"
+
+#: 87370069-0-25917
+msgctxt "87370069-0-25917"
+msgid "Discarded Orders"
+msgstr "放棄された命令"
+
+#: 87370069-0-25910
+msgctxt "87370069-0-25910"
+msgid "Letter from Abnur Tharn"
+msgstr "アブナー・サルンからの手紙"
+
+#: 87370069-0-25895
+msgctxt "87370069-0-25895"
+msgid "Jewelry Crafting Station (Senche-raht's Grit)"
+msgstr "宝飾台 (センチラートの底力)"
+
+#: 87370069-0-25861
+msgctxt "87370069-0-25861"
+msgid "Rope"
+msgstr "ロープ"
+
+#: 87370069-0-25858
+msgctxt "87370069-0-25858"
+msgid "Desert Wind Temple Exit"
+msgstr "砂漠の風の聖堂の出口"
+
+#: 87370069-0-25857
+msgctxt "87370069-0-25857"
+msgid "Portal to Sewers"
+msgstr "下水道へのポータル"
+
+#: 87370069-0-25855
+msgctxt "87370069-0-25855"
+msgid "Door"
+msgstr "扉"
+
+#: 87370069-0-25854
+msgctxt "87370069-0-25854"
+msgid "EQ7 Gate State Controller"
+msgstr "EQ7 Gate State Controller"
+
+#: 87370069-0-25853
+msgctxt "87370069-0-25853"
+msgid "King Hemakar's Grave"
+msgstr "ヘマカル王の墓"
+
+#: 87370069-0-25852
+msgctxt "87370069-0-25852"
+msgid "Tajirri's Note"
+msgstr "タジッリのメモ"
+
+#: 87370069-0-25851
+msgctxt "87370069-0-25851"
+msgid "Barrier"
+msgstr "障壁"
+
+#: 87370069-0-25847
+msgctxt "87370069-0-25847"
+msgid "Ancient Urn"
+msgstr "古代の壺"
+
+#: 87370069-0-25844
+msgctxt "87370069-0-25844"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 87370069-0-25831
+msgctxt "87370069-0-25831"
+msgid "AREA TEST"
+msgstr "AREA TEST"
+
+#: 87370069-0-25823
+msgctxt "87370069-0-25823"
+msgid "Weatherman"
+msgstr "ウェザーマン"
+
+#: 87370069-0-25822
+msgctxt "87370069-0-25822"
+msgid "Ballista"
+msgstr "バリスタ"
+
+#: 87370069-0-25821
+msgctxt "87370069-0-25821"
+msgid "AREA TEST"
+msgstr "AREA TEST"
+
+#: 87370069-0-25820
+msgctxt "87370069-0-25820"
+msgid "AREA TEST"
+msgstr "AREA TEST"
+
+#: 87370069-0-25817
+msgctxt "87370069-0-25817"
+msgid "Cooking Fire"
+msgstr "調理用の火"
+
+#: 87370069-0-25816
+msgctxt "87370069-0-25816"
+msgid "Riddles of the Rithana-di-Renada"
+msgstr "リサナ・ディ・レナダの謎"
+
+#: 87370069-0-25812
+msgctxt "87370069-0-25812"
+msgid "Khunzar-ri Sayings, Verse Four"
+msgstr "クンザ・リ語録、第四節"
+
+#: 87370069-0-25811
+msgctxt "87370069-0-25811"
+msgid "Khunzar-ri Sayings, Verse Three"
+msgstr "クンザ・リ語録、第三節"
+
+#: 87370069-0-25810
+msgctxt "87370069-0-25810"
+msgid "Khnuzar-ri Sayings, Verse Two"
+msgstr "クンザ・リ語録、第二節"
+
+#: 87370069-0-25809
+msgctxt "87370069-0-25809"
+msgid "Khunzar-ri Sayings, Verse One"
+msgstr "クンザ・リ語録、第一節"
+
+#: 87370069-0-25807
+msgctxt "87370069-0-25807"
+msgid "The Singing Crystal"
+msgstr "歌うクリスタル"
+
+#: 87370069-0-25806
+msgctxt "87370069-0-25806"
+msgid "Flare"
+msgstr "フレア"
+
+#: 87370069-0-25805
+msgctxt "87370069-0-25805"
+msgid "Jewelry Crafting Station (Vastarie's Tutelage)"
+msgstr "宝飾台 (ヴァスタリーの教え)"
+
+#: 87370069-0-25804
+msgctxt "87370069-0-25804"
+msgid "Blacksmithing Station (Vastarie's Tutelage)"
+msgstr "鍛冶台 (ヴァスタリーの教え)"
+
+#: 87370069-0-25803
+msgctxt "87370069-0-25803"
+msgid "Woodworking Station (Vastarie's Tutelage)"
+msgstr "木工台 (ヴァスタリーの教え)"
+
+#: 87370069-0-25802
+msgctxt "87370069-0-25802"
+msgid "Clothing Station (Vastarie's Tutelage)"
+msgstr "仕立台 (ヴァスタリーの教え)"
+
+#: 87370069-0-25801
+msgctxt "87370069-0-25801"
+msgid "Jewelry Crafting Station (Senche-raht's Grit)"
+msgstr "宝飾台 (センチラートの底力)"
+
+#: 87370069-0-25800
+msgctxt "87370069-0-25800"
+msgid "Blacksmithing Station (Senche-raht's Grit)"
+msgstr "鍛冶台 (センチラートの底力)"
+
+#: 87370069-0-25799
+msgctxt "87370069-0-25799"
+msgid "Woodworking Station (Senche-raht's Grit)"
+msgstr "木工台 (センチラートの底力)"
+
+#: 87370069-0-25798
+msgctxt "87370069-0-25798"
+msgid "Clothing Station (Senche-raht's Grit)"
+msgstr "仕立台 (センチラートの底力)"
+
+#: 87370069-0-25797
+msgctxt "87370069-0-25797"
+msgid "Jewelry Crafting Station (Coldharbour's Favorite)"
+msgstr "宝飾台 (コールドハーバーの流行)"
+
+#: 87370069-0-25796
+msgctxt "87370069-0-25796"
+msgid "Blacksmithing Station (Coldharbour's Favorite)"
+msgstr "鍛冶台 (コールドハーバーの流行)"
+
+#: 87370069-0-25795
+msgctxt "87370069-0-25795"
+msgid "Woodworking Station (Coldharbour's Favorite)"
+msgstr "木工台 (コールドハーバーの流行)"
+
+#: 87370069-0-25794
+msgctxt "87370069-0-25794"
+msgid "Clothing Station (Coldharbour's Favorite)"
+msgstr "仕立台 (コールドハーバーの流行)"
+
+#: 87370069-0-25793
+msgctxt "87370069-0-25793"
+msgid "Offering"
+msgstr "捧げ物"
+
+#: 87370069-0-25791
+msgctxt "87370069-0-25791"
+msgid "EQ7 Quick Escape Portal"
+msgstr "EQ7 Quick Escape Portal"
+
+#: 87370069-0-25790
+msgctxt "87370069-0-25790"
+msgid "Time Wound"
+msgstr "時の傷"
+
+#: 87370069-0-25789
+msgctxt "87370069-0-25789"
+msgid "Rings Controller"
+msgstr "リングコントローラー"
+
+#: 87370069-0-25788
+msgctxt "87370069-0-25788"
+msgid "Note to Tajirri"
+msgstr "タジッリへのメモ"
+
+#: 87370069-0-25787
+msgctxt "87370069-0-25787"
+msgid "Wayrest"
+msgstr "ウェイレスト"
+
+#: 87370069-0-25786
+msgctxt "87370069-0-25786"
+msgid "Elden Root"
+msgstr "エルデンルート"
+
+#: 87370069-0-25785
+msgctxt "87370069-0-25785"
+msgid "Mournhold"
+msgstr "モーンホールド"
+
+#: 87370069-0-25784
+msgctxt "87370069-0-25784"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 87370069-0-25780
+msgctxt "87370069-0-25780"
+msgid "Trap"
+msgstr "罠"
+
+#: 87370069-0-25777
+msgctxt "87370069-0-25777"
+msgid "Rithana-di-Renada"
+msgstr "リサナ・ディ・レナダ"
+
+#: 87370069-0-25776
+msgctxt "87370069-0-25776"
+msgid "Meirvale Fragment"
+msgstr "メイアヴェイルの断片"
+
+#: 87370069-0-25775
+msgctxt "87370069-0-25775"
+msgid "Verkarth Fragment"
+msgstr "ヴァーカースの断片"
+
+#: 87370069-0-25774
+msgctxt "87370069-0-25774"
+msgid "Anequina Fragment"
+msgstr "アネクイナの断片"
+
+#: 87370069-0-25773
+msgctxt "87370069-0-25773"
+msgid "Torval Fragment"
+msgstr "トルヴァルの断片"
+
+#: 87370069-0-25772
+msgctxt "87370069-0-25772"
+msgid "Tenmar Fragment"
+msgstr "テンマールの断片"
+
+#: 87370069-0-25771
+msgctxt "87370069-0-25771"
+msgid "Bruk'ra Fragment"
+msgstr "ブルクラの断片"
+
+#: 87370069-0-25770
+msgctxt "87370069-0-25770"
+msgid "Helkarn Fragment"
+msgstr "ヘルカーンの断片"
+
+#: 87370069-0-25769
+msgctxt "87370069-0-25769"
+msgid "Corinthe Fragment"
+msgstr "コリンスの断片"
+
+#: 87370069-0-25768
+msgctxt "87370069-0-25768"
+msgid "Orcrest Fragment"
+msgstr "オークレストの断片"
+
+#: 87370069-0-25767
+msgctxt "87370069-0-25767"
+msgid "Senchal Fragment"
+msgstr "センシャルの断片"
+
+#: 87370069-0-25766
+msgctxt "87370069-0-25766"
+msgid "Alabaster Fragment"
+msgstr "アラバスターの断片"
+
+#: 87370069-0-25765
+msgctxt "87370069-0-25765"
+msgid "Pellitine Fragment"
+msgstr "ペレタインの断片"
+
+#: 87370069-0-25762
+msgctxt "87370069-0-25762"
+msgid "Dune Fragment"
+msgstr "デューンの断片"
+
+#: 87370069-0-25761
+msgctxt "87370069-0-25761"
+msgid "Khenarthia Fragment"
+msgstr "ケナーシアの断片"
+
+#: 87370069-0-25760
+msgctxt "87370069-0-25760"
+msgid "Rimmen Fragment"
+msgstr "リンメンの断片"
+
+#: 87370069-0-25759
+msgctxt "87370069-0-25759"
+msgid "Riverhold Fragment"
+msgstr "リバーホールドの断片"
+
+#: 87370069-0-25757
+msgctxt "87370069-0-25757"
+msgid "Stalker Server"
+msgstr "ストーカーサーバー"
+
+#: 87370069-0-25753
+msgctxt "87370069-0-25753"
+msgid "Chancel of Alkosh"
+msgstr "アルコシュの内陣"
+
+#: 87370069-0-25752
+msgctxt "87370069-0-25752"
+msgid "Imperial Legion Backpack"
+msgstr "帝国軍のバックパック"
+
+#: 87370069-0-25751
+msgctxt "87370069-0-25751"
+msgid "Offering"
+msgstr "捧げ物"
+
+#: 87370069-0-25750
+msgctxt "87370069-0-25750"
+msgid "EQ7 Core State Controller"
+msgstr "EQ7 Core State Controller"
+
+#: 87370069-0-25749
+msgctxt "87370069-0-25749"
+msgid "Line Controller"
+msgstr "ラインコントローラー"
+
+#: 87370069-0-25748
+msgctxt "87370069-0-25748"
+msgid "EQ6 Mini Portal FX"
+msgstr "EQ6 Mini Portal FX"
+
+#: 87370069-0-25745
+msgctxt "87370069-0-25745"
+msgid "Bone Shards"
+msgstr "骨の破片"
+
+#: 87370069-0-25744
+msgctxt "87370069-0-25744"
+msgid "TEST"
+msgstr "TEST"
+
+#: 87370069-0-25743
+msgctxt "87370069-0-25743"
+msgid "Essence of Shock"
+msgstr "衝撃のエキス"
+
+#: 87370069-0-25740
+msgctxt "87370069-0-25740"
+msgid "Bowl of Cream"
+msgstr "クリームが入った器"
+
+#: 87370069-0-25739
+msgctxt "87370069-0-25739"
+msgid "Necromancers: A Report for the Queen"
+msgstr "死霊術師: 女王への報告"
+
+#: 87370069-0-25737
+msgctxt "87370069-0-25737"
+msgid "Portal to Twisted Two Moons Temple"
+msgstr "歪められた双子月の聖堂へのポータル"
+
+#: 87370069-0-25736
+msgctxt "87370069-0-25736"
+msgid "Ladder"
+msgstr "梯子"
+
+#: 87370069-0-25734
+msgctxt "87370069-0-25734"
+msgid "Ladder"
+msgstr "梯子"
+
+#: 87370069-0-25732
+msgctxt "87370069-0-25732"
+msgid "Ancient Spikes"
+msgstr "古代の棘"
+
+#: 87370069-0-25731
+msgctxt "87370069-0-25731"
+msgid "Ancient Spikes"
+msgstr "古代の棘"
+
+#: 87370069-0-25729
+msgctxt "87370069-0-25729"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25728
+msgctxt "87370069-0-25728"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25727
+msgctxt "87370069-0-25727"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25726
+msgctxt "87370069-0-25726"
+msgid "Castle"
+msgstr "城"
+
+#: 87370069-0-25725
+msgctxt "87370069-0-25725"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25724
+msgctxt "87370069-0-25724"
+msgid "EQ6 Oubliette Thtr Manager"
+msgstr "EQ6 Oubliette Thtr Manager"
+
+#: 87370069-0-25722
+msgctxt "87370069-0-25722"
+msgid "Bust: Abnur Tharn"
+msgstr "胸像: アブナー・サルン"
+
+#: 87370069-0-25721
+msgctxt "87370069-0-25721"
+msgid "Cadwell's Portal"
+msgstr "キャドウェルのポータル"
+
+#: 87370069-0-25720
+msgctxt "87370069-0-25720"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 87370069-0-25719
+msgctxt "87370069-0-25719"
+msgid "EQ5 Dragon Guard FX Holder"
+msgstr "EQ5 Dragon Guard FX Holder"
+
+#: 87370069-0-25718
+msgctxt "87370069-0-25718"
+msgid "Deadfall"
+msgstr "倒れた木"
+
+#: 87370069-0-25717
+msgctxt "87370069-0-25717"
+msgid "EQ7 Fire Wall"
+msgstr "EQ7 Fire Wall"
+
+#: 87370069-0-25716
+msgctxt "87370069-0-25716"
+msgid "Star Haven Outer Gate"
+msgstr "スターヘヴン外門"
+
+#: 87370069-0-25715
+msgctxt "87370069-0-25715"
+msgid "Wall"
+msgstr "壁"
+
+#: 87370069-0-25714
+msgctxt "87370069-0-25714"
+msgid "Weatherman"
+msgstr "ウェザーマン"
+
+#: 87370069-0-25713
+msgctxt "87370069-0-25713"
+msgid "Deadfall"
+msgstr "倒れた木"
+
+#: 87370069-0-25712
+msgctxt "87370069-0-25712"
+msgid "Unrelenting Force Targ"
+msgstr "不屈の力のターゲット"
+
+#: 87370069-0-25711
+msgctxt "87370069-0-25711"
+msgid "Urn of Questionable Remains"
+msgstr "中身に疑問が残る壺"
+
+#: 87370069-0-25710
+msgctxt "87370069-0-25710"
+msgid "Disturbed Graves"
+msgstr "荒らされた墓"
+
+#: 87370069-0-25709
+msgctxt "87370069-0-25709"
+msgid "Disturbed Graves"
+msgstr "荒らされた墓"
+
+#: 87370069-0-25708
+msgctxt "87370069-0-25708"
+msgid "Disturbed Graves"
+msgstr "荒らされた墓"
+
+#: 87370069-0-25707
+msgctxt "87370069-0-25707"
+msgid "Teleport FX"
+msgstr "Teleport FX"
+
+#: 87370069-0-25706
+msgctxt "87370069-0-25706"
+msgid "Mysterious Pile of Skulls"
+msgstr "謎の頭蓋骨の山"
+
+#: 87370069-0-25705
+msgctxt "87370069-0-25705"
+msgid "Cracked Barrel of Hidden Loot"
+msgstr "隠された戦利品の割れた樽"
+
+#: 87370069-0-25704
+msgctxt "87370069-0-25704"
+msgid "The Ruddy Fangs"
+msgstr "ルディファング"
+
+#: 87370069-0-25702
+msgctxt "87370069-0-25702"
+msgid "Standard"
+msgstr "スタンダード"
+
+#: 87370069-0-25701
+msgctxt "87370069-0-25701"
+msgid "Standard"
+msgstr "スタンダード"
+
+#: 87370069-0-25700
+msgctxt "87370069-0-25700"
+msgid "Standard"
+msgstr "スタンダード"
+
+#: 87370069-0-25699
+msgctxt "87370069-0-25699"
+msgid "Catafalque"
+msgstr "棺台"
+
+#: 87370069-0-25698
+msgctxt "87370069-0-25698"
+msgid "Catafalque"
+msgstr "棺台"
+
+#: 87370069-0-25696
+msgctxt "87370069-0-25696"
+msgid "Mysterious Pile of Skulls"
+msgstr "謎の頭蓋骨の山"
+
+#: 87370069-0-25695
+msgctxt "87370069-0-25695"
+msgid "Contraband Crate"
+msgstr "密売品の木枠箱"
+
+#: 87370069-0-25694
+msgctxt "87370069-0-25694"
+msgid "Contraband Crate"
+msgstr "密売品の木枠箱"
+
+#: 87370069-0-25693
+msgctxt "87370069-0-25693"
+msgid "Contraband Crate"
+msgstr "密売品の木枠箱"
+
+#: 87370069-0-25692
+msgctxt "87370069-0-25692"
+msgid "Catafalque"
+msgstr "棺台"
+
+#: 87370069-0-25691
+msgctxt "87370069-0-25691"
+msgid "Door"
+msgstr "扉"
+
+#: 87370069-0-25690
+msgctxt "87370069-0-25690"
+msgid "Mysterious Pile of Skulls"
+msgstr "謎の頭蓋骨の山"
+
+#: 87370069-0-25689
+msgctxt "87370069-0-25689"
+msgid "Urn"
+msgstr "壷"
+
+#: 87370069-0-25688
+msgctxt "87370069-0-25688"
+msgid "Mystery Urn of Wonderous Treasures"
+msgstr "不思議な財宝の謎の壺"
+
+#: 87370069-0-25687
+msgctxt "87370069-0-25687"
+msgid "Mysterious Pile of Skulls"
+msgstr "謎の頭蓋骨の山"
+
+#: 87370069-0-25686
+msgctxt "87370069-0-25686"
+msgid "Disturbed Burial Mound"
+msgstr "荒らされた埋葬塚"
+
+#: 87370069-0-25685
+msgctxt "87370069-0-25685"
+msgid "Disturbed Burial Mound"
+msgstr "荒らされた埋葬塚"
+
+#: 87370069-0-25684
+msgctxt "87370069-0-25684"
+msgid "Disturbed Burial Mound"
+msgstr "荒らされた埋葬塚"
+
+#: 87370069-0-25683
+msgctxt "87370069-0-25683"
+msgid "Teaching Stone"
+msgstr "教えの石"
+
+#: 87370069-0-25682
+msgctxt "87370069-0-25682"
+msgid "Campfire"
+msgstr "キャンプファイア"
+
+#: 87370069-0-25681
+msgctxt "87370069-0-25681"
+msgid "Daedric Portal"
+msgstr "デイドラのポータル"
+
+#: 87370069-0-25680
+msgctxt "87370069-0-25680"
+msgid "Glimmering Book"
+msgstr "光る本"
+
+#: 87370069-0-25679
+msgctxt "87370069-0-25679"
+msgid "Door"
+msgstr "扉"
+
+#: 87370069-0-25678
+msgctxt "87370069-0-25678"
+msgid "Buried Lump of Potential Riches"
+msgstr "埋められた富を秘めているランプ"
+
+#: 87370069-0-25677
+msgctxt "87370069-0-25677"
+msgid "Buried Lump of Potential Riches"
+msgstr "埋められた富を秘めているランプ"
+
+#: 87370069-0-25676
+msgctxt "87370069-0-25676"
+msgid "Mystery Urn of Wonderous Treasures"
+msgstr "不思議な財宝の謎の壺"
+
+#: 87370069-0-25675
+msgctxt "87370069-0-25675"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 87370069-0-25674
+msgctxt "87370069-0-25674"
+msgid "Mystery Urn of Wonderous Treasures"
+msgstr "不思議な財宝の謎の壺"
+
+#: 87370069-0-25673
+msgctxt "87370069-0-25673"
+msgid "Cracked Barrel of Hidden Loot"
+msgstr "隠された戦利品の割れた樽"
+
+#: 87370069-0-25672
+msgctxt "87370069-0-25672"
+msgid "Cracked Barrel of Hidden Loot"
+msgstr "隠された戦利品の割れた樽"
+
+#: 87370069-0-25671
+msgctxt "87370069-0-25671"
+msgid "Mystery Urn of Wonderous Treasures"
+msgstr "不思議な財宝の謎の壺"
+
+#: 87370069-0-25670
+msgctxt "87370069-0-25670"
+msgid "Mystery Urn of Wonderous Treasures"
+msgstr "不思議な財宝の謎の壺"
+
+#: 87370069-0-25669
+msgctxt "87370069-0-25669"
+msgid "Door"
+msgstr "扉"
+
+#: 87370069-0-25668
+msgctxt "87370069-0-25668"
+msgid "Door"
+msgstr "扉"
+
+#: 87370069-0-25667
+msgctxt "87370069-0-25667"
+msgid "Cadwell's Complex Trap"
+msgstr "キャドウェルの複雑な罠"
+
+#: 87370069-0-25666
+msgctxt "87370069-0-25666"
+msgid "Cadwell's Complex Trap"
+msgstr "キャドウェルの複雑な罠"
+
+#: 87370069-0-25664
+msgctxt "87370069-0-25664"
+msgid "Imposing Daedric Vase of Riches"
+msgstr "人目を惹くデイドラの富の花瓶"
+
+#: 87370069-0-25663
+msgctxt "87370069-0-25663"
+msgid "Campfire"
+msgstr "キャンプファイア"
+
+#: 87370069-0-25662
+msgctxt "87370069-0-25662"
+msgid "Imposing Daedric Vase of Riches"
+msgstr "人目を惹くデイドラの富の花瓶"
+
+#: 87370069-0-25661
+msgctxt "87370069-0-25661"
+msgid "Imposing Daedric Vase of Riches"
+msgstr "人目を惹くデイドラの富の花瓶"
+
+#: 87370069-0-25659
+msgctxt "87370069-0-25659"
+msgid "WE test"
+msgstr "WEテスト"
+
+#: 87370069-0-25653
+msgctxt "87370069-0-25653"
+msgid "Funereal Urn"
+msgstr "埋葬壺"
+
+#: 87370069-0-25652
+msgctxt "87370069-0-25652"
+msgid "Funereal Urn"
+msgstr "埋葬壺"
+
+#: 87370069-0-25651
+msgctxt "87370069-0-25651"
+msgid "Funereal Urn"
+msgstr "埋葬壺"
+
+#: 87370069-0-25650
+msgctxt "87370069-0-25650"
+msgid "Cadwell's Stolen Energy"
+msgstr "キャドウェルの盗まれた力"
+
+#: 87370069-0-25648
+msgctxt "87370069-0-25648"
+msgid "Daedric Portal"
+msgstr "Daedric Portal"
+
+#: 87370069-0-25647
+msgctxt "87370069-0-25647"
+msgid "Imposing Daedric Vase of Riches"
+msgstr "Imposing Daedric Vase of Riches"
+
+#: 87370069-0-25645
+msgctxt "87370069-0-25645"
+msgid "Cadwell's Stolen Energy"
+msgstr "キャドウェルの盗まれた力"
+
+#: 87370069-0-25642
+msgctxt "87370069-0-25642"
+msgid "Mystery Barrel of Wonderous Treasures"
+msgstr "Mystery Barrel of Wonderous Treasures"
+
+#: 87370069-0-25641
+msgctxt "87370069-0-25641"
+msgid "Portal"
+msgstr "ポータル"
+
+#: 87370069-0-25639
+msgctxt "87370069-0-25639"
+msgid "Hunter's Trap"
+msgstr "狩人の罠"
+
+#: 87370069-0-25638
+msgctxt "87370069-0-25638"
+msgid "Foul-Smelling Sack"
+msgstr "悪臭のする袋"
+
+#: 87370069-0-25637
+msgctxt "87370069-0-25637"
+msgid "Discarded Orders"
+msgstr "放棄された命令"
+
+#: 87370069-0-25634
+msgctxt "87370069-0-25634"
+msgid "Sapiarch's Recommendation"
+msgstr "サピアルチの推薦状"
+
+#: 87370069-0-25633
+msgctxt "87370069-0-25633"
+msgid "Writ of Valid Credentials"
+msgstr "人物確認証書"
+
+#: 87370069-0-25621
+msgctxt "87370069-0-25621"
+msgid "Dark Barrier"
+msgstr "闇の障壁"
+
+#: 87370069-0-25620
+msgctxt "87370069-0-25620"
+msgid "Ritual Circle"
+msgstr "儀式のサークル"
+
+#: 87370069-0-25613
+msgctxt "87370069-0-25613"
+msgid "The Tale of Three Moons"
+msgstr "三つの月の物語"
+
+#: 87370069-0-25612
+msgctxt "87370069-0-25612"
+msgid "Obscure Wine"
+msgstr "不明瞭なワイン"
+
+#: 87370069-0-25611
+msgctxt "87370069-0-25611"
+msgid "Red Wine"
+msgstr "赤ワイン"
+
+#: 87370069-0-25610
+msgctxt "87370069-0-25610"
+msgid "White Wine"
+msgstr "白ワイン"
+
+#: 87370069-0-25609
+msgctxt "87370069-0-25609"
+msgid "Reward for Stolen Wine"
+msgstr "盗まれたワインの報酬"
+
+#: 87370069-0-25608
+msgctxt "87370069-0-25608"
+msgid "Monastery Wall"
+msgstr "修道院の壁"
+
+#: 87370069-0-25607
+msgctxt "87370069-0-25607"
+msgid "Monastery Door"
+msgstr "修道院の扉"
+
+#: 87370069-0-25606
+msgctxt "87370069-0-25606"
+msgid "Wasp Nest"
+msgstr "ワスプの巣"
+
+#: 87370069-0-25605
+msgctxt "87370069-0-25605"
+msgid "Empty Bowl"
+msgstr "空の器"
+
+#: 87370069-0-25604
+msgctxt "87370069-0-25604"
+msgid "Wasp Nest"
+msgstr "ワスプの巣"
+
+#: 87370069-0-25603
+msgctxt "87370069-0-25603"
+msgid "Wasp Nest"
+msgstr "ワスプの巣"
+
+#: 87370069-0-25602
+msgctxt "87370069-0-25602"
+msgid "Wasp Nest"
+msgstr "ワスプの巣"
+
+#: 87370069-0-25601
+msgctxt "87370069-0-25601"
+msgid "Tempting Bait Cheese"
+msgstr "罠のチーズ"
+
+#: 87370069-0-25600
+msgctxt "87370069-0-25600"
+msgid "Milk-Toast Cream"
+msgstr "ミルクトーストクリーム"
+
+#: 87370069-0-25599
+msgctxt "87370069-0-25599"
+msgid "Delightfully Long Yarn"
+msgstr "素敵に長い糸玉"
+
+#: 87370069-0-25598
+#, fuzzy
+msgctxt "87370069-0-25598"
+msgid "Moon-Bishop Sizenza"
+msgstr "月の司祭シゼンザ"
+
+#: 87370069-0-25595
+msgctxt "87370069-0-25595"
+msgid "Tempting Bait Cheese"
+msgstr "罠のチーズ"
+
+#: 87370069-0-25594
+msgctxt "87370069-0-25594"
+msgid "Festive Severed Head"
+msgstr "祭り用の落とされた首"
+
+#: 87370069-0-25593
+msgctxt "87370069-0-25593"
+msgid "Vantage Point"
+msgstr "見晴らしの良い地点"
+
+#: 87370069-0-25592
+msgctxt "87370069-0-25592"
+msgid "Ancient Urn"
+msgstr "古代の壺"
+
+#: 87370069-0-25587
+msgctxt "87370069-0-25587"
+msgid "Euraxian Supply Cart"
+msgstr "ユーラクシアの荷車"
+
+#: 87370069-0-25586
+msgctxt "87370069-0-25586"
+msgid "Cart"
+msgstr "荷車"
+
+#: 87370069-0-25585
+msgctxt "87370069-0-25585"
+msgid "Euraxian Supply Cart"
+msgstr "ユーラクシアの荷車"
+
+#: 87370069-0-25583
+msgctxt "87370069-0-25583"
+msgid "Firepit"
+msgstr "ファイアピット"
+
+#: 87370069-0-25582
+msgctxt "87370069-0-25582"
+msgid "Temple Relic"
+msgstr "聖堂の遺物"
+
+#: 87370069-0-25581
+msgctxt "87370069-0-25581"
+msgid "Cyrodiil"
+msgstr "シロディール"
+
+#: 87370069-0-25580
+msgctxt "87370069-0-25580"
+msgid "Empty Weapon Rack"
+msgstr "空の武器ラック"
+
+#: 87370069-0-25579
+msgctxt "87370069-0-25579"
+msgid "Volendrung"
+msgstr "ヴォレンドラング"
+
+#: 87370069-0-25578
+msgctxt "87370069-0-25578"
+msgid "Cheesemonger's Hollow"
+msgstr "チーズ職人の洞穴"
+
+#: 87370069-0-25577
+msgctxt "87370069-0-25577"
+msgid "Makeshift Barricade"
+msgstr "即席バリケード"
+
+#: 87370069-0-25576
+msgctxt "87370069-0-25576"
+msgid "Makeshift Barricade"
+msgstr "即席バリケード"
+
+#: 87370069-0-25575
+msgctxt "87370069-0-25575"
+msgid "Nikussha's Research Note 3"
+msgstr "ニクッシャの研究メモ3"
+
+#: 87370069-0-25574
+msgctxt "87370069-0-25574"
+msgid "Nikussha's Research Note 2"
+msgstr "ニクッシャの研究メモ2"
+
+#: 87370069-0-25573
+msgctxt "87370069-0-25573"
+msgid "Nikussha's Research Note 1"
+msgstr "ニクッシャの研究メモ1"
+
+#: 87370069-0-25569
+msgctxt "87370069-0-25569"
+msgid "Temple Relic"
+msgstr "聖堂の遺物"
+
+#: 87370069-0-25568
+msgctxt "87370069-0-25568"
+msgid "Temple Relic"
+msgstr "聖堂の遺物"
+
+#: 87370069-0-25567
+msgctxt "87370069-0-25567"
+msgid "Temple Relic"
+msgstr "聖堂の遺物"
+
+#: 87370069-0-25565
+msgctxt "87370069-0-25565"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25564
+msgctxt "87370069-0-25564"
+msgid "Skullchucker's Drum"
+msgstr "スカルチャッカーのドラム"
+
+#: 87370069-0-25563
+msgctxt "87370069-0-25563"
+msgid "EQ6 Event 1 Done"
+msgstr "EQ6 Event 1 Done"
+
+#: 87370069-0-25561
+msgctxt "87370069-0-25561"
+msgid "EQ6 Event 1 Done"
+msgstr "EQ6 Event 1 Done"
+
+#: 87370069-0-25557
+msgctxt "87370069-0-25557"
+msgid "Skullchucker's Drum"
+msgstr "スカルチャッカーのドラム"
+
+#: 87370069-0-25556
+msgctxt "87370069-0-25556"
+msgid "The Giant's Lute"
+msgstr "巨人のリュート"
+
+#: 87370069-0-25555
+msgctxt "87370069-0-25555"
+msgid "The Screaming Mammoth's Chest"
+msgstr "叫ぶマンモスの宝箱"
+
+#: 87370069-0-25553
+msgctxt "87370069-0-25553"
+msgid "Torval Fragment"
+msgstr "トルヴァルの断片"
+
+#: 87370069-0-25552
+msgctxt "87370069-0-25552"
+msgid "Tenmar Fragment"
+msgstr "テンマールの断片"
+
+#: 87370069-0-25551
+msgctxt "87370069-0-25551"
+msgid "Bruk'ra Fragment"
+msgstr "ブルクラの断片"
+
+#: 87370069-0-25550
+msgctxt "87370069-0-25550"
+msgid "Helkarn Fragment"
+msgstr "ヘルカーンの断片"
+
+#: 87370069-0-25549
+msgctxt "87370069-0-25549"
+msgid "Corinthe Fragment"
+msgstr "コリンスの断片"
+
+#: 87370069-0-25548
+msgctxt "87370069-0-25548"
+msgid "Orcrest Fragment"
+msgstr "オークレストの断片"
+
+#: 87370069-0-25547
+msgctxt "87370069-0-25547"
+msgid "Senchal Fragment"
+msgstr "センシャルの断片"
+
+#: 87370069-0-25546
+msgctxt "87370069-0-25546"
+msgid "Alabaster Fragment"
+msgstr "アラバスターの断片"
+
+#: 87370069-0-25545
+msgctxt "87370069-0-25545"
+msgid "Pellitine Fragment"
+msgstr "ペレタインの断片"
+
+#: 87370069-0-25544
+msgctxt "87370069-0-25544"
+msgid "Meirvale Fragment"
+msgstr "メイアヴェイルの断片"
+
+#: 87370069-0-25543
+msgctxt "87370069-0-25543"
+msgid "Verkarth Fragment"
+msgstr "ヴァーカースの断片"
+
+#: 87370069-0-25542
+msgctxt "87370069-0-25542"
+msgid "Dune Fragment"
+msgstr "デューンの断片"
+
+#: 87370069-0-25541
+msgctxt "87370069-0-25541"
+msgid "Khenarthia Fragment"
+msgstr "ケナーシアの断片"
+
+#: 87370069-0-25540
+msgctxt "87370069-0-25540"
+msgid "Rimmen Fragment"
+msgstr "リンメンの断片"
+
+#: 87370069-0-25539
+msgctxt "87370069-0-25539"
+msgid "Riverhold Fragment"
+msgstr "リバーホールドの断片"
+
+#: 87370069-0-25538
+msgctxt "87370069-0-25538"
+msgid "Platter"
+msgstr "大皿"
+
+#: 87370069-0-25536
+msgctxt "87370069-0-25536"
+msgid "Sugar Claw"
+msgstr "砂糖の爪"
+
+#: 87370069-0-25534
+msgctxt "87370069-0-25534"
+msgid "Rigurt's Sweetbread"
+msgstr "リガートのスイートブレッド"
+
+#: 87370069-0-25533
+msgctxt "87370069-0-25533"
+msgid "Honey Flower"
+msgstr "蜜花"
+
+#: 87370069-0-25532
+msgctxt "87370069-0-25532"
+msgid "Honey Flower"
+msgstr "蜜花"
+
+#: 87370069-0-25531
+msgctxt "87370069-0-25531"
+msgid "Honey Flower"
+msgstr "蜜花"
+
+#: 87370069-0-25530
+msgctxt "87370069-0-25530"
+msgid "Honey Flower"
+msgstr "蜜花"
+
+#: 87370069-0-25528
+msgctxt "87370069-0-25528"
+msgid "Cauldron"
+msgstr "大がま"
+
+#: 87370069-0-25525
+msgctxt "87370069-0-25525"
+msgid "Unstable Portal"
+msgstr "不安定なポータル"
+
+#: 87370069-0-25521
+msgctxt "87370069-0-25521"
+msgid "Unstable Portal"
+msgstr "不安定なポータル"
+
+#: 87370069-0-25519
+msgctxt "87370069-0-25519"
+msgid "Overly Complicated Trap"
+msgstr "複雑すぎる罠"
+
+#: 87370069-0-25518
+msgctxt "87370069-0-25518"
+msgid "Letter to Jakarn"
+msgstr "ジャカーンへの手紙"
+
+#: 87370069-0-25516
+msgctxt "87370069-0-25516"
+msgid "Nikussha's Research Note 3"
+msgstr "ニクッシャの研究メモ3"
+
+#: 87370069-0-25515
+msgctxt "87370069-0-25515"
+msgid "Nikussha's Research Note 2"
+msgstr "ニクッシャの研究メモ2"
+
+#: 87370069-0-25513
+msgctxt "87370069-0-25513"
+msgid "Antidote"
+msgstr "解毒剤"
+
+#: 87370069-0-25511
+msgctxt "87370069-0-25511"
+msgid "Casket Top"
+msgstr "大樽のふた"
+
+#: 87370069-0-25508
+msgctxt "87370069-0-25508"
+msgid "In Death Is the Promise"
+msgstr "死の中にこそ約束がある"
+
+#: 87370069-0-25507
+msgctxt "87370069-0-25507"
+msgid "Fight As Prey"
+msgstr "獲物として戦え"
+
+#: 87370069-0-25506
+msgctxt "87370069-0-25506"
+msgid "Kingdoms Fall People Wander"
+msgstr "王国は倒れ民はさまよう"
+
+#: 87370069-0-25505
+msgctxt "87370069-0-25505"
+msgid "Faith in Dust and Stone"
+msgstr "埃と石を信じよ"
+
+#: 87370069-0-25504
+msgctxt "87370069-0-25504"
+msgid "Journey to Endings"
+msgstr "終焉への旅へ"
+
+#: 87370069-0-25503
+msgctxt "87370069-0-25503"
+msgid "Devastation is the Scream"
+msgstr "叫びが破滅への道"
+
+#: 87370069-0-25502
+msgctxt "87370069-0-25502"
+msgid "Gone from Sainted Memory"
+msgstr "聖なる記憶からの逃避"
+
+#: 87370069-0-25492
+msgctxt "87370069-0-25492"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25489
+msgctxt "87370069-0-25489"
+msgid "Clothing Chest"
+msgstr "衣類の宝箱"
+
+#: 87370069-0-25488
+msgctxt "87370069-0-25488"
+msgid "Goiter's Gulp Ledger"
+msgstr "〈ゴイターのがぶ飲み〉の台帳"
+
+#: 87370069-0-25487
+msgctxt "87370069-0-25487"
+msgid "Moon-Phase Decorations Storage"
+msgstr "月相の装飾倉庫"
+
+#: 87370069-0-25486
+msgctxt "87370069-0-25486"
+msgid "Chest"
+msgstr "宝箱"
+
+#: 87370069-0-25485
+msgctxt "87370069-0-25485"
+msgid "Spike Plate Chain"
+msgstr "スパイクプレートの鎖"
+
+#: 87370069-0-25484
+msgctxt "87370069-0-25484"
+msgid "Chapel"
+msgstr "礼拝堂"
+
+#: 87370069-0-25483
+msgctxt "87370069-0-25483"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25482
+msgctxt "87370069-0-25482"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25481
+msgctxt "87370069-0-25481"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25480
+msgctxt "87370069-0-25480"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25479
+msgctxt "87370069-0-25479"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25478
+msgctxt "87370069-0-25478"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25477
+msgctxt "87370069-0-25477"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25476
+msgctxt "87370069-0-25476"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25475
+msgctxt "87370069-0-25475"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25474
+msgctxt "87370069-0-25474"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25473
+msgctxt "87370069-0-25473"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25472
+msgctxt "87370069-0-25472"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25471
+msgctxt "87370069-0-25471"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25470
+msgctxt "87370069-0-25470"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25469
+msgctxt "87370069-0-25469"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25468
+msgctxt "87370069-0-25468"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25467
+msgctxt "87370069-0-25467"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25466
+msgctxt "87370069-0-25466"
+msgid "Skyshard"
+msgstr "スカイシャード"
+
+#: 87370069-0-25460
+msgctxt "87370069-0-25460"
+msgid "Slavers' Chest"
+msgstr "奴隷商人の宝箱"
+
+#: 87370069-0-25440
+msgctxt "87370069-0-25440"
+msgid "Anequina Dragonhorn"
+msgstr "アネクイナのドラゴンホーン"
+
+#: 87370069-0-25439
+msgctxt "87370069-0-25439"
+msgid "Stone Pedestal"
+msgstr "石の台座"
+
+#: 87370069-0-25438
+msgctxt "87370069-0-25438"
+msgid "Crowmaker"
+msgstr "クロウメーカー"
+
+#: 87370069-0-25436
+msgctxt "87370069-0-25436"
+msgid "Slavemaster's Bag"
+msgstr "奴隷頭の袋"
+
+#: 87370069-0-25435
+msgctxt "87370069-0-25435"
+msgid "Wagon"
+msgstr "ワゴン"
+
+#: 87370069-0-25427
+msgctxt "87370069-0-25427"
+msgid "Crate"
+msgstr "木枠箱"
+
+#: 87370069-0-25426
+msgctxt "87370069-0-25426"
+msgid "For the Old of Akavir"
+msgstr "古きアカヴィルは"
+
+#: 87370069-0-25425
+msgctxt "87370069-0-25425"
+msgid "To Wear Dread Mantle"
+msgstr "畏怖のマントを纏え"
+
+#: 87370069-0-25424
+msgctxt "87370069-0-25424"
+msgid "Gifts of Death and Fear"
+msgstr "死と恐怖の贈り物"
+
+#: 87370069-0-25423
+msgctxt "87370069-0-25423"
+msgid "War, Hunt, Deliverance"
+msgstr "戦争、狩り、解放"
+
+#: 87370069-0-25421
+msgctxt "87370069-0-25421"
+msgid "Fear the Foe, Heed the Teacher"
+msgstr "敵を恐れ、師の言葉を聞け"
+
+#: 87370069-0-25420
+msgctxt "87370069-0-25420"
+msgid "Dread Their Return and Prepare"
+msgstr "その帰還を恐れ、備えよ"
+
+#: 87370069-0-25419
+msgctxt "87370069-0-25419"
+msgid "Coins"
+msgstr "ゴールド"
+
+#: 87370069-0-25418
+msgctxt "87370069-0-25418"
+msgid "Coins"
+msgstr "ゴールド"
+
+#: 87370069-0-25417
+msgctxt "87370069-0-25417"
+msgid "Coins"
+msgstr "ゴールド"
+
+#: 87370069-0-25416
+msgctxt "87370069-0-25416"
+msgid "Coins"
+msgstr "ゴールド"
+
+#: 87370069-0-25414
+msgctxt "87370069-0-25414"
+msgid "Keg of Sweet Rotmeth"
+msgstr "甘ロトメスの樽"
+
+#: 87370069-0-25413
+msgctxt "87370069-0-25413"
+msgid "Suspicious Barrel"
+msgstr "怪しい樽"
+
+#: 87370069-0-25407
+msgctxt "87370069-0-25407"
+msgid "Melleron's Journal"
+msgstr "メレロンの日記"
+
+#: 87370069-0-25406
+msgctxt "87370069-0-25406"
+msgid "Keg of Sweet Rotmeth"
+msgstr "甘ロトメスの樽"
+
+#: 87370069-0-25405
+msgctxt "87370069-0-25405"
+msgid "Water Tablet"
+msgstr "水の石板"
+
+#: 87370069-0-25404
+msgctxt "87370069-0-25404"
+msgid "Earth Tablet"
+msgstr "地の石板"
+
+#: 87370069-0-25403
+msgctxt "87370069-0-25403"
+msgid "Wind Tablet"
+msgstr "風の石板"
+
+#: 87370069-0-25401
+msgctxt "87370069-0-25401"
+msgid "Fire Tablet"
+msgstr "火の石板"
+
+#: 87370069-0-25399
+msgctxt "87370069-0-25399"
+msgid "Brazier"
+msgstr "かがり火"
+
+#: 87370069-0-25398
+msgctxt "87370069-0-25398"
+msgid "Samar Tea Plant"
+msgstr "サマルティーの花"
+
+#: 87370069-0-25397
+msgctxt "87370069-0-25397"
+msgid "Samar Tea Plant"
+msgstr "サマルティーの花"
+
+#: 87370069-0-25396
+msgctxt "87370069-0-25396"
+msgid "Samar Tea Plant"
+msgstr "サマルティーの花"
+
+#: 87370069-0-25393
+msgctxt "87370069-0-25393"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25392
+msgctxt "87370069-0-25392"
+msgid "Oil Pool"
+msgstr "油溜まり"
+
+#: 87370069-0-25391
+msgctxt "87370069-0-25391"
+msgid "Ensorcelled Relic"
+msgstr "魔法にかけられた遺物"
+
+#: 87370069-0-25390
+msgctxt "87370069-0-25390"
+msgid "Ensorcelled Relic"
+msgstr "魔法にかけられた遺物"
+
+#: 87370069-0-25389
+msgctxt "87370069-0-25389"
+msgid "Ensorcelled Relic"
+msgstr "魔法にかけられた遺物"
+
+#: 87370069-0-25388
+msgctxt "87370069-0-25388"
+msgid "Ensorcelled Relic"
+msgstr "魔法にかけられた遺物"
+
+#: 87370069-0-25387
+msgctxt "87370069-0-25387"
+msgid "Altar to Hircine"
+msgstr "ハーシーンへの祭壇"
+
+#: 87370069-0-25386
+msgctxt "87370069-0-25386"
+msgid "Altar to Hircine"
+msgstr "ハーシーンへの祭壇"
+
+#: 87370069-0-25385
+msgctxt "87370069-0-25385"
+msgid "Altar to Hircine"
+msgstr "ハーシーンへの祭壇"
+
+#: 87370069-0-25384
+msgctxt "87370069-0-25384"
+msgid "Altar to Hircine"
+msgstr "ハーシーンへの祭壇"
+
+#: 87370069-0-25382
+msgctxt "87370069-0-25382"
+msgid "Ancient Urn"
+msgstr "古代の壺"
+
+#: 87370069-0-25381
+msgctxt "87370069-0-25381"
+msgid "Ancient Urn"
+msgstr "古代の壺"
+
+#: 87370069-0-25380
+msgctxt "87370069-0-25380"
+msgid "Ancient Urn"
+msgstr "古代の壺"
+
+#: 87370069-0-25379
+msgctxt "87370069-0-25379"
+msgid "Ancient Lockbox"
+msgstr "古代の施錠箱"
+
+#: 87370069-0-25378
+msgctxt "87370069-0-25378"
+msgid "Ancient Lockbox"
+msgstr "古代の施錠箱"
+
+#: 87370069-0-25377
+msgctxt "87370069-0-25377"
+msgid "Ancient Lockbox"
+msgstr "古代の施錠箱"
+
+#: 87370069-0-25374
+msgctxt "87370069-0-25374"
+msgid "Euraxian Supply Cart"
+msgstr "ユーラクシアの荷車"
+
+#: 87370069-0-25373
+msgctxt "87370069-0-25373"
+msgid "Horses"
+msgstr "馬"
+
+#: 87370069-0-25369
+msgctxt "87370069-0-25369"
+msgid "Horses"
+msgstr "馬"
+
+#: 87370069-0-25368
+msgctxt "87370069-0-25368"
+msgid "Well Bucket"
+msgstr "泉の手桶"
+
+#: 87370069-0-25367
+msgctxt "87370069-0-25367"
+msgid "Letter for Vittoria"
+msgstr "ヴィトーリアへの手紙"
+
+#: 87370069-0-25366
+msgctxt "87370069-0-25366"
+msgid "Marzula-jo's Notes"
+msgstr "マーズラ・ジョーのメモ"
+
+#: 87370069-0-25365
+msgctxt "87370069-0-25365"
+msgid "EQ7 - Mulam Theater Object"
+msgstr "EQ7 - Mulam Theater Object"
+
+#: 87370069-0-25358
+msgctxt "87370069-0-25358"
+msgid "Euraxia's Personal Journal"
+msgstr "ユーラクシアの私的な日記"
+
+#: 87370069-0-25357
+msgctxt "87370069-0-25357"
+msgid "Captain's Letter"
+msgstr "隊長の手紙"
+
+#: 87370069-0-25356
+msgctxt "87370069-0-25356"
+msgid "Dragons: A Report for the Queen"
+msgstr "ドラゴン: 女王への報告"
+
+#: 87370069-0-25355
+msgctxt "87370069-0-25355"
+msgid "Magic Trap"
+msgstr "魔法の罠"
+
+#: 87370069-0-25354
+msgctxt "87370069-0-25354"
+msgid "VO"
+msgstr "VO"
+
+#: 87370069-0-25353
+msgctxt "87370069-0-25353"
+msgid "Jewelry Box"
+msgstr "宝石箱"
+
+#: 87370069-0-25349
+msgctxt "87370069-0-25349"
+msgid "Euraxian Supply Cart"
+msgstr "ユーラクシアの荷車"
+
+#: 87370069-0-25348
+msgctxt "87370069-0-25348"
+msgid "Time Breach"
+msgstr "時の裂け目"
+
+#: 87370069-0-25347
+msgctxt "87370069-0-25347"
+msgid "Marthine's Cage"
+msgstr "マーシーンの檻"
+
+#: 87370069-0-25346
+msgctxt "87370069-0-25346"
+msgid "Letter to Peryite"
+msgstr "ペライトへの手紙"
+
+#: 87370069-0-25345
+msgctxt "87370069-0-25345"
+msgid "Flu Victim's Note"
+msgstr "ナハテン風邪の犠牲者のメモ"
+
+#: 87370069-0-25344
+msgctxt "87370069-0-25344"
+msgid "First Signs of the Flu"
+msgstr "ナハテン風邪の最初の兆候"
+
+#: 87370069-0-25341
+msgctxt "87370069-0-25341"
+msgid "Merchant Cart"
+msgstr "商人の荷車"
+
+#: 87370069-0-25340
+msgctxt "87370069-0-25340"
+msgid "Marthine's Chalice"
+msgstr "マーシーンの杯"
+
+#: 87370069-0-25339
+msgctxt "87370069-0-25339"
+msgid "Marthine's Candlestick"
+msgstr "マーシーンの燭台"
+
+#: 87370069-0-25338
+msgctxt "87370069-0-25338"
+msgid "Marthine's Dagger"
+msgstr "マーシーンの短剣"
+
+#: 87370069-0-25337
+msgctxt "87370069-0-25337"
+msgid "Chest"
+msgstr "宝箱"
+
+#: 87370069-0-25331
+msgctxt "87370069-0-25331"
+msgid "The Proving Festival"
+msgstr "試練の祭典"
+
+#: 87370069-0-25329
+msgctxt "87370069-0-25329"
+msgid "Mathoc the Immortal"
+msgstr "不死のマソック"
+
+#: 87370069-0-25328
+msgctxt "87370069-0-25328"
+msgid "Supplies for Survivors"
+msgstr "生存者への物資"
+
+#: 87370069-0-25327
+msgctxt "87370069-0-25327"
+msgid "Supplies for Survivors"
+msgstr "生存者への物資"
+
+#: 87370069-0-25326
+msgctxt "87370069-0-25326"
+msgid "Supplies for Survivors"
+msgstr "生存者への物資"
+
+#: 87370069-0-25325
+msgctxt "87370069-0-25325"
+msgid "On Akaviri Burial Rites"
+msgstr "アカヴィリの埋葬儀式"
+
+#: 87370069-0-25324
+msgctxt "87370069-0-25324"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25323
+msgctxt "87370069-0-25323"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25322
+msgctxt "87370069-0-25322"
+msgid "Healing Circle"
+msgstr "治癒サークル"
+
+#: 87370069-0-25321
+msgctxt "87370069-0-25321"
+msgid "Ladder"
+msgstr "梯子"
+
+#: 87370069-0-25320
+msgctxt "87370069-0-25320"
+msgid "Ladder"
+msgstr "梯子"
+
+#: 87370069-0-25319
+msgctxt "87370069-0-25319"
+msgid "Merrunz's Fiendish Brazier"
+msgstr "マールンズの非道のかがり火"
+
+#: 87370069-0-25318
+msgctxt "87370069-0-25318"
+msgid "Merrunz's Ruinous Brazier"
+msgstr "マールンズの荒廃のかがり火"
+
+#: 87370069-0-25317
+msgctxt "87370069-0-25317"
+msgid "Scarred Coin"
+msgstr "傷がついたコイン"
+
+#: 87370069-0-25316
+msgctxt "87370069-0-25316"
+msgid "Swaddling Cloth"
+msgstr "産着"
+
+#: 87370069-0-25315
+msgctxt "87370069-0-25315"
+msgid "Crumpled Nursery Rhyme"
+msgstr "しわになった童謡"
+
+#: 87370069-0-25314
+msgctxt "87370069-0-25314"
+msgid "Weathered Cameo"
+msgstr "すり切れたカメオ"
+
+#: 87370069-0-25313
+msgctxt "87370069-0-25313"
+msgid "Fire"
+msgstr "火"
+
+#: 87370069-0-25312
+msgctxt "87370069-0-25312"
+msgid "Oil Pool"
+msgstr "油溜まり"
+
+#: 87370069-0-25311
+msgctxt "87370069-0-25311"
+msgid "Tasnasi"
+msgstr "タスナシ"
+
+#: 87370069-0-25309
+msgctxt "87370069-0-25309"
+msgid "Crate"
+msgstr "木枠箱"
+
+#: 87370069-0-25303
+msgctxt "87370069-0-25303"
+msgid "Barrel"
+msgstr "樽"
+
+#: 87370069-0-25300
+msgctxt "87370069-0-25300"
+msgid "Portal to Rimmen"
+msgstr "リンメンへのポータル"
+
+#: 87370069-0-25298
+msgctxt "87370069-0-25298"
+msgid "Sahzbar"
+msgstr "サーズバー"
+
+#: 87370069-0-25297
+msgctxt "87370069-0-25297"
+msgid "Tajirri's Journal"
+msgstr "タジッリの日記"
+
+#: 87370069-0-25296
+msgctxt "87370069-0-25296"
+msgid "Raebanji"
+msgstr "ラエバンジ"
+
+#: 87370069-0-25295
+msgctxt "87370069-0-25295"
+msgid "Najirra"
+msgstr "ナジッラ"
+
+#: 87370069-0-25293
+msgctxt "87370069-0-25293"
+msgid "Pilazaz"
+msgstr "ピラザズ"
+
+#: 87370069-0-25292
+msgctxt "87370069-0-25292"
+msgid "Fire Circle"
+msgstr "火のサークル"
+
+#: 87370069-0-25291
+msgctxt "87370069-0-25291"
+msgid "Jewelry Box"
+msgstr "宝石箱"
+
+#: 87370069-0-25288
+msgctxt "87370069-0-25288"
+msgid "Urn"
+msgstr "壷"
+
+#: 87370069-0-25287
+msgctxt "87370069-0-25287"
+msgid "Burial Urn"
+msgstr "埋葬壷"
+
+#: 87370069-0-25286
+msgctxt "87370069-0-25286"
+msgid "The Thief's Riddle"
+msgstr "盗賊の謎"
+
+#: 87370069-0-25285
+msgctxt "87370069-0-25285"
+msgid "Visit the House of Histories!"
+msgstr "歴史の館を訪れましょう！"
+
+#: 87370069-0-25283
+msgctxt "87370069-0-25283"
+msgid "Burial Urn"
+msgstr "埋葬壷"
+
+#: 87370069-0-25282
+msgctxt "87370069-0-25282"
+msgid "Burial Urn"
+msgstr "埋葬壷"
+
+#: 87370069-0-25281
+msgctxt "87370069-0-25281"
+msgid "Burial Urn"
+msgstr "埋葬壷"
+
+#: 87370069-0-25280
+msgctxt "87370069-0-25280"
+msgid "Burial Urn"
+msgstr "埋葬壷"
+
+#: 87370069-0-25278
+msgctxt "87370069-0-25278"
+msgid "Jewel Socket"
+msgstr "宝石の穴"
+
+#: 87370069-0-25277
+msgctxt "87370069-0-25277"
+msgid "The Singing Crystal"
+msgstr "歌うクリスタル"
+
+#: 87370069-0-25275
+msgctxt "87370069-0-25275"
+msgid "Burial Urn"
+msgstr "埋葬壷"
+
+#: 87370069-0-25274
+msgctxt "87370069-0-25274"
+msgid "Necromantic Glass"
+msgstr "死霊術の碧水晶"
+
+#: 87370069-0-25273
+msgctxt "87370069-0-25273"
+msgid "Target"
+msgstr "ターゲット"
+
+#: 87370069-0-25272
+msgctxt "87370069-0-25272"
+msgid "Necromantic Glass"
+msgstr "死霊術の碧水晶"
+
+#: 87370069-0-25271
+msgctxt "87370069-0-25271"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 87370069-0-25270
+msgctxt "87370069-0-25270"
+msgid "Offering"
+msgstr "捧げ物"
+
+#: 87370069-0-25269
+msgctxt "87370069-0-25269"
+msgid "Cart to Sunspire"
+msgstr "サンスパイアへの荷車"
+
+#: 87370069-0-25264
+msgctxt "87370069-0-25264"
+msgid "Deadfall"
+msgstr "倒れた木"
+
+#: 87370069-0-25263
+msgctxt "87370069-0-25263"
+msgid "A Job Offer"
+msgstr "仕事のオファー"
+
+#: 87370069-0-25260
+msgctxt "87370069-0-25260"
+msgid "Rithana-di-Renada"
+msgstr "リサナ・ディ・レナダ"
+
+#: 87370069-0-25258
+msgctxt "87370069-0-25258"
+msgid "Anequina Fragment"
+msgstr "アネクイナの断片"
+
+#: 87370069-0-25255
+msgctxt "87370069-0-25255"
+msgid "Anequina Fragment"
+msgstr "アネクイナの断片"
+
+#: 87370069-0-25252
+msgctxt "87370069-0-25252"
+msgid "Skip Combat Tutorial"
+msgstr "戦闘チュートリアルのスキップ"
+
+#: 87370069-0-25249
+msgctxt "87370069-0-25249"
+msgid "Aneshi's Note"
+msgstr "アネシのメモ"
+
+#: 87370069-0-25247
+msgctxt "87370069-0-25247"
+msgid "Necromancy Circle"
+msgstr "死霊術サークル"
+
+#: 87370069-0-25244
+msgctxt "87370069-0-25244"
+msgid "Star Haven Dragonhorn"
+msgstr "スターヘヴンのドラゴンホーン"
+
+#: 87370069-0-25242
+msgctxt "87370069-0-25242"
+msgid "Stolen Treasure"
+msgstr "Stolen Treasure"
+
+#: 87370069-0-25241
+msgctxt "87370069-0-25241"
+msgid "Lute"
+msgstr "Lute"
+
+#: 87370069-0-25240
+msgctxt "87370069-0-25240"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25239
+msgctxt "87370069-0-25239"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25238
+msgctxt "87370069-0-25238"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25234
+msgctxt "87370069-0-25234"
+msgid "Catapult"
+msgstr "カタパルト"
+
+#: 87370069-0-25232
+msgctxt "87370069-0-25232"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25231
+msgctxt "87370069-0-25231"
+msgid "Portal to Elsweyr"
+msgstr "エルスウェアへのポータル"
+
+#: 87370069-0-25229
+msgctxt "87370069-0-25229"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25227
+msgctxt "87370069-0-25227"
+msgid "Chest"
+msgstr "宝箱"
+
+#: 87370069-0-25226
+msgctxt "87370069-0-25226"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25225
+msgctxt "87370069-0-25225"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-25220
+msgctxt "87370069-0-25220"
+msgid "Ruin Stairs"
+msgstr "遺跡の階段"
+
+#: 87370069-0-25219
+msgctxt "87370069-0-25219"
+msgid "Flower"
+msgstr "花"
+
+#: 87370069-0-25217
+msgctxt "87370069-0-25217"
+msgid "Aneshi's Note"
+msgstr "アネシのメモ"
+
+#: 87370069-0-25216
+msgctxt "87370069-0-25216"
+msgid "Delightfully Long Yarn"
+msgstr "素敵に長い糸玉"
+
+#: 87370069-0-25215
+msgctxt "87370069-0-25215"
+msgid "Star Haven Training Sword"
+msgstr "スターヘヴンの訓練用の剣"
+
+#: 87370069-0-25214
+msgctxt "87370069-0-25214"
+msgid "Lieutenant Talia's Lockbox"
+msgstr "タリア副隊長の施錠箱"
+
+#: 87370069-0-25213
+msgctxt "87370069-0-25213"
+msgid "Bowl of Cream"
+msgstr "クリームが入った器"
+
+#: 87370069-0-25212
+msgctxt "87370069-0-25212"
+msgid "Distracting Butterfly"
+msgstr "注意を引く蝶"
+
+#: 87370069-0-25210
+msgctxt "87370069-0-25210"
+msgid "Terror Bird Nest"
+msgstr "恐ろしい鳥の巣"
+
+#: 87370069-0-25208
+msgctxt "87370069-0-25208"
+msgid "Training Halls"
+msgstr "訓練の間"
+
+#: 87370069-0-25207
+msgctxt "87370069-0-25207"
+msgid "Room Key"
+msgstr "部屋の鍵"
+
+#: 87370069-0-25206
+msgctxt "87370069-0-25206"
+msgid "Letter from Abnur Tharn"
+msgstr "アブナー・サルンからの手紙"
+
+#: 87370069-0-25202
+msgctxt "87370069-0-25202"
+msgid "Cadwell's Complex Trap"
+msgstr "キャドウェルの複雑な罠"
+
+#: 87370069-0-25199
+msgctxt "87370069-0-25199"
+msgid "Portal to Elsweyr"
+msgstr "エルスウェアへのポータル"
+
+#: 87370069-0-25193
+msgctxt "87370069-0-25193"
+msgid "Bloody Habit"
+msgstr "血まみれの修道衣"
+
+#: 87370069-0-25191
+msgctxt "87370069-0-25191"
+msgid "Makeshift Barricade"
+msgstr "即席バリケード"
+
+#: 87370069-0-25190
+msgctxt "87370069-0-25190"
+msgid "Mail Sack"
+msgstr "手紙の袋"
+
+#: 87370069-0-25189
+msgctxt "87370069-0-25189"
+msgid "Mail Sack"
+msgstr "手紙の袋"
+
+#: 87370069-0-25188
+msgctxt "87370069-0-25188"
+msgid "Mail Sack"
+msgstr "手紙の袋"
+
+#: 87370069-0-25187
+msgctxt "87370069-0-25187"
+msgid "Mail Sack"
+msgstr "手紙の袋"
+
+#: 87370069-0-25185
+msgctxt "87370069-0-25185"
+msgid "Ancient Gravestone"
+msgstr "古代の墓石"
+
+#: 87370069-0-25181
+msgctxt "87370069-0-25181"
+msgid "Malizaz's Journal"
+msgstr "マリザズの日記"
+
+#: 87370069-0-25180
+msgctxt "87370069-0-25180"
+msgid "Scaredragon"
+msgstr "ドラゴン避け"
+
+#: 87370069-0-25177
+msgctxt "87370069-0-25177"
+msgid "Moonlight Blade"
+msgstr "月光の剣"
+
+#: 87370069-0-25176
+msgctxt "87370069-0-25176"
+msgid "Portal to Elsweyr"
+msgstr "エルスウェアへのポータル"
+
+#: 87370069-0-25170
+msgctxt "87370069-0-25170"
+msgid "Shrine to S'rendarr"
+msgstr "ステンダールの祠"
+
+#: 87370069-0-25162
+msgctxt "87370069-0-25162"
+msgid "Moonlight Blade"
+msgstr "月光の剣"
+
+#: 87370069-0-25157
+msgctxt "87370069-0-25157"
+msgid "Moonlight Blade"
+msgstr "月光の剣"
+
+#: 87370069-0-25153
+msgctxt "87370069-0-25153"
+msgid "Captain Saulinia's Instructions"
+msgstr "サウリニア隊長の指示"
+
+#: 87370069-0-25144
+msgctxt "87370069-0-25144"
+msgid "Beast Acquisitions Log"
+msgstr "獲得した動物の記録"
+
+#: 87370069-0-25143
+msgctxt "87370069-0-25143"
+msgid "Help Wanted: Merryvale!"
+msgstr "救援求む: メイアヴェイル"
+
+#: 87370069-0-25139
+msgctxt "87370069-0-25139"
+msgid "Tapestry"
+msgstr "タペストリー"
+
+#: 87370069-0-25138
+msgctxt "87370069-0-25138"
+msgid "Urn"
+msgstr "壷"
+
+#: 87370069-0-25137
+msgctxt "87370069-0-25137"
+msgid "Barrel"
+msgstr "樽"
+
+#: 87370069-0-25136
+msgctxt "87370069-0-25136"
+msgid "Crates"
+msgstr "木枠箱"
+
+#: 87370069-0-25135
+msgctxt "87370069-0-25135"
+msgid "The Moonlight Blade"
+msgstr "月光の剣"
+
+#: 87370069-0-25128
+msgctxt "87370069-0-25128"
+msgid "Aromatic Olroy Anchor"
+msgstr "香るオルロイのアンカー"
+
+#: 87370069-0-25127
+msgctxt "87370069-0-25127"
+msgid "M'zum's Ledger"
+msgstr "ムズムの台帳"
+
+#: 87370069-0-25126
+msgctxt "87370069-0-25126"
+msgid "Magical Barrier"
+msgstr "魔力障壁"
+
+#: 87370069-0-25125
+msgctxt "87370069-0-25125"
+msgid "Portal to the Temple of the Hidden Moon"
+msgstr "隠された月の聖堂へのポータル"
+
+#: 87370069-0-25124
+msgctxt "87370069-0-25124"
+msgid "Stone of Atonement"
+msgstr "償いの石"
+
+#: 87370069-0-25123
+msgctxt "87370069-0-25123"
+msgid "Stone of Banishment"
+msgstr "追放の石"
+
+#: 87370069-0-25122
+msgctxt "87370069-0-25122"
+msgid "Stone of Commitment"
+msgstr "誓約の石"
+
+#: 87370069-0-25108
+msgctxt "87370069-0-25108"
+msgid "Poacher Tent"
+msgstr "密猟者のテント"
+
+#: 87370069-0-25107
+msgctxt "87370069-0-25107"
+msgid "Poacher Tent"
+msgstr "密猟者のテント"
+
+#: 87370069-0-25106
+msgctxt "87370069-0-25106"
+msgid "Poacher Tent"
+msgstr "密猟者のテント"
+
+#: 87370069-0-25104
+msgctxt "87370069-0-25104"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25102
+msgctxt "87370069-0-25102"
+msgid "Dark Phylactery"
+msgstr "闇の聖句箱"
+
+#: 87370069-0-25100
+msgctxt "87370069-0-25100"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25099
+msgctxt "87370069-0-25099"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25098
+msgctxt "87370069-0-25098"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25097
+msgctxt "87370069-0-25097"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25095
+msgctxt "87370069-0-25095"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25094
+msgctxt "87370069-0-25094"
+msgid "Descrying Stone"
+msgstr "遠見の石"
+
+#: 87370069-0-25091
+msgctxt "87370069-0-25091"
+msgid "Memory Stone"
+msgstr "記憶石"
+
+#: 87370069-0-25090
+msgctxt "87370069-0-25090"
+msgid "Memory Stone"
+msgstr "記憶石"
+
+#: 87370069-0-25089
+msgctxt "87370069-0-25089"
+msgid "Memory Stone"
+msgstr "記憶石"
+
+#: 87370069-0-25088
+msgctxt "87370069-0-25088"
+msgid "Memory Stone"
+msgstr "記憶石"
+
+#: 87370069-0-25087
+msgctxt "87370069-0-25087"
+msgid "Captive Kennel"
+msgstr "捕虜の犬小屋"
+
+#: 87370069-0-25084
+msgctxt "87370069-0-25084"
+msgid "Captive Kennel"
+msgstr "捕虜の犬小屋"
+
+#: 87370069-0-25083
+msgctxt "87370069-0-25083"
+msgid "Oil Pool"
+msgstr "油溜まり"
+
+#: 87370069-0-25082
+msgctxt "87370069-0-25082"
+msgid "Merrunz's Malevolent Brazier"
+msgstr "マールンズの悪意のかがり火"
+
+#: 87370069-0-25081
+msgctxt "87370069-0-25081"
+msgid "Oil Pool"
+msgstr "油溜まり"
+
+#: 87370069-0-25080
+msgctxt "87370069-0-25080"
+msgid "Deadland Hammer"
+msgstr "デッドランドの槌"
+
+#: 87370069-0-25074
+msgctxt "87370069-0-25074"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 87370069-0-25073
+msgctxt "87370069-0-25073"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 87370069-0-25072
+msgctxt "87370069-0-25072"
+msgid "Hadaz's Final Letter"
+msgstr "ハダズの最後の手紙"
+
+#: 87370069-0-25071
+msgctxt "87370069-0-25071"
+msgid "Through the Weeping Scar"
+msgstr "ウィーピング・スカーを抜けて"
+
+#: 87370069-0-25069
+msgctxt "87370069-0-25069"
+msgid "Cage"
+msgstr "檻"
+
+#: 87370069-0-25066
+msgctxt "87370069-0-25066"
+msgid "Ruddy Fang Coffer"
+msgstr "ルディファングの貴品箱"
+
+#: 87370069-0-25065
+msgctxt "87370069-0-25065"
+msgid "Ruddy Fang Pack"
+msgstr "ルディファングのパック"
+
+#: 87370069-0-25052
+msgctxt "87370069-0-25052"
+msgid "Odoriferous Meal"
+msgstr "香りの強い料理"
+
+#: 87370069-0-25051
+msgctxt "87370069-0-25051"
+msgid "Scent Trail"
+msgstr "臭いの跡"
+
+#: 87370069-0-25050
+msgctxt "87370069-0-25050"
+msgid "Gnawed Bone"
+msgstr "かじられた骨"
+
+#: 87370069-0-25049
+msgctxt "87370069-0-25049"
+msgid "Tracks"
+msgstr "痕跡"
+
+#: 87370069-0-25048
+msgctxt "87370069-0-25048"
+msgid "Tahara's Traveling Menagerie"
+msgstr "タハラの移動動物園"
+
+#: 87370069-0-25035
+msgctxt "87370069-0-25035"
+msgid "Hidden Panel"
+msgstr "隠しパネル"
+
+#: 87370069-0-25034
+msgctxt "87370069-0-25034"
+msgid "Treasure Vault Key"
+msgstr "宝物庫の鍵"
+
+#: 87370069-0-25032
+msgctxt "87370069-0-25032"
+msgid "Alfiq Statue"
+msgstr "アルフィクの像"
+
+#: 87370069-0-25031
+msgctxt "87370069-0-25031"
+msgid "Barrel"
+msgstr "樽"
+
+#: 87370069-0-25030
+msgctxt "87370069-0-25030"
+msgid "Barrel"
+msgstr "樽"
+
+#: 87370069-0-25027
+msgctxt "87370069-0-25027"
+msgid "Crate"
+msgstr "木枠箱"
+
+#: 87370069-0-25026
+msgctxt "87370069-0-25026"
+msgid "Coffer"
+msgstr "貴品箱"
+
+#: 87370069-0-25023
+msgctxt "87370069-0-25023"
+msgid "Akaviri Chest"
+msgstr "アカヴィリの箱"
+
+#: 87370069-0-25022
+msgctxt "87370069-0-25022"
+msgid "Akaviri Chest"
+msgstr "アカヴィリの箱"
+
+#: 87370069-0-25021
+msgctxt "87370069-0-25021"
+msgid "Akaviri Chest"
+msgstr "アカヴィリの箱"
+
+#: 87370069-0-25020
+msgctxt "87370069-0-25020"
+msgid "Tajirri's Note"
+msgstr "タジッリのメモ"
+
+#: 87370069-0-25018
+msgctxt "87370069-0-25018"
+msgid "Fork of Horripilation"
+msgstr "鳥肌のフォーク"
+
+#: 87370069-0-25017
+msgctxt "87370069-0-25017"
+msgid "Nazdar's Lute"
+msgstr "ナズダーのリュート"
+
+#: 87370069-0-25015
+msgctxt "87370069-0-25015"
+msgid "Odorous Bucket"
+msgstr "悪臭がする手桶"
+
+#: 87370069-0-25014
+msgctxt "87370069-0-25014"
+msgid "Sereyne"
+msgstr "セレイネ"
+
+#: 87370069-0-25010
+msgctxt "87370069-0-25010"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 87370069-0-25009
+msgctxt "87370069-0-25009"
+msgid "Vole"
+msgstr "ヴォレ"
+
+#: 87370069-0-25008
+msgctxt "87370069-0-25008"
+msgid "Letter to Feina-Darak"
+msgstr "フェイナ・ダラクへの手紙"
+
+#: 87370069-0-25007
+msgctxt "87370069-0-25007"
+msgid "West Socket"
+msgstr "西の穴"
+
+#: 87370069-0-25006
+msgctxt "87370069-0-25006"
+msgid "East Socket"
+msgstr "東の穴"
+
+#: 87370069-0-25005
+msgctxt "87370069-0-25005"
+msgid "South Socket"
+msgstr "南の穴"
+
+#: 87370069-0-25003
+msgctxt "87370069-0-25003"
+msgid "North Socket"
+msgstr "北の穴"
+
+#: 87370069-0-24996
+msgctxt "87370069-0-24996"
+msgid "Tale of the Elements"
+msgstr "属性の物語"
+
+#: 87370069-0-24995
+msgctxt "87370069-0-24995"
+msgid "Flower"
+msgstr "花"
+
+#: 87370069-0-24990
+msgctxt "87370069-0-24990"
+msgid "Potion"
+msgstr "薬"
+
+#: 87370069-0-24989
+msgctxt "87370069-0-24989"
+msgid "Candle"
+msgstr "ロウソク"
+
+#: 87370069-0-24987
+msgctxt "87370069-0-24987"
+msgid "Bowl"
+msgstr "器"
+
+#: 87370069-0-24986
+msgctxt "87370069-0-24986"
+msgid "Sugar Daisy"
+msgstr "シュガーデイジー"
+
+#: 87370069-0-24979
+msgctxt "87370069-0-24979"
+msgid "Cadwell's Stolen Energy"
+msgstr "キャドウェルの盗まれた力"
+
+#: 87370069-0-24976
+msgctxt "87370069-0-24976"
+msgid "King Hemakar's Grave"
+msgstr "ヘマカル王の墓"
+
+#: 87370069-0-24968
+msgctxt "87370069-0-24968"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-24966
+msgctxt "87370069-0-24966"
+msgid "Siege Weapon"
+msgstr "攻城兵器"
+
+#: 87370069-0-24962
+msgctxt "87370069-0-24962"
+msgid "Cage"
+msgstr "檻"
+
+#: 87370069-0-24958
+msgctxt "87370069-0-24958"
+msgid "Rahti's Command Post Key"
+msgstr "ラーチの指揮所の鍵"
+
+#: 87370069-0-24953
+msgctxt "87370069-0-24953"
+msgid "Cage"
+msgstr "檻"
+
+#: 87370069-0-24952
+msgctxt "87370069-0-24952"
+msgid "Torn Habit"
+msgstr "裂けた修道衣"
+
+#: 87370069-0-24950
+msgctxt "87370069-0-24950"
+msgid "Aneshi's Mound"
+msgstr "アネシの塚"
+
+#: 87370069-0-24949
+msgctxt "87370069-0-24949"
+msgid "Tahnisa's Journal"
+msgstr "ターニサの日記"
+
+#: 87370069-0-24948
+msgctxt "87370069-0-24948"
+msgid "Nikussha's Research Note 1"
+msgstr "ニクッシャの研究メモ1"
+
+#: 87370069-0-24947
+msgctxt "87370069-0-24947"
+msgid "Argonian Corpse"
+msgstr "アルゴニアンの死体"
+
+#: 87370069-0-24945
+msgctxt "87370069-0-24945"
+msgid "Cage"
+msgstr "檻"
+
+#: 87370069-0-24944
+msgctxt "87370069-0-24944"
+msgid "Fallen Rubble"
+msgstr "落ちて来る瓦礫"
+
+#: 87370069-0-24943
+msgctxt "87370069-0-24943"
+msgid "Cage"
+msgstr "檻"
+
+#: 87370069-0-24941
+msgctxt "87370069-0-24941"
+msgid "Poacher Supplies"
+msgstr "密猟者の物資"
+
+#: 87370069-0-24940
+msgctxt "87370069-0-24940"
+msgid "Poacher Supplies"
+msgstr "密猟者の物資"
+
+#: 87370069-0-24939
+msgctxt "87370069-0-24939"
+msgid "Poacher Supplies"
+msgstr "密猟者の物資"
+
+#: 87370069-0-24934
+msgctxt "87370069-0-24934"
+msgid "Rahti's Orders"
+msgstr "ラーチの命令"
+
+#: 87370069-0-24932
+msgctxt "87370069-0-24932"
+msgid "Arkay's Lash"
+msgstr "アーケイズ・ラッシュ"
+
+#: 87370069-0-24931
+msgctxt "87370069-0-24931"
+msgid "Stolen Supplies"
+msgstr "盗まれた物資"
+
+#: 87370069-0-24928
+msgctxt "87370069-0-24928"
+msgid "Baan-Dar Sluice Gate"
+msgstr "バーン・ダルの水門"
+
+#: 87370069-0-24927
+msgctxt "87370069-0-24927"
+msgid "Aqueduct Sluice Gate"
+msgstr "水道の水門"
+
+#: 87370069-0-24925
+msgctxt "87370069-0-24925"
+msgid "Aqueduct Sluice Gate"
+msgstr "水道の水門"
+
+#: 87370069-0-24923
+msgctxt "87370069-0-24923"
+msgid "Poacher Tent"
+msgstr "密猟者のテント"
+
+#: 87370069-0-24922
+msgctxt "87370069-0-24922"
+msgid "Poacher Supplies"
+msgstr "密猟者の物資"
+
+#: 87370069-0-24921
+msgctxt "87370069-0-24921"
+msgid "Poacher Tent"
+msgstr "密猟者のテント"
+
+#: 87370069-0-24920
+msgctxt "87370069-0-24920"
+msgid "Poacher Supplies"
+msgstr "密猟者の物資"
+
+#: 87370069-0-24918
+msgctxt "87370069-0-24918"
+msgid "Stone Pedestal"
+msgstr "石の台座"
+
+#: 87370069-0-24915
+msgctxt "87370069-0-24915"
+msgid "Poacher Tent"
+msgstr "密猟者のテント"
+
+#: 87370069-0-24913
+msgctxt "87370069-0-24913"
+msgid "Poacher Supplies"
+msgstr "密猟者の物資"
+
+#: 87370069-0-24900
+msgctxt "87370069-0-24900"
+msgid "Ballista"
+msgstr "バリスタ"
+
+#: 87370069-0-24899
+msgctxt "87370069-0-24899"
+msgid "Moon-Pillar of Winter's Peace"
+msgstr "月の柱(冬の宮殿)"
+
+#: 87370069-0-24898
+msgctxt "87370069-0-24898"
+msgid "Moon-Pillar of Twilight Gold"
+msgstr "月の柱(黄昏の黄金)"
+
+#: 87370069-0-24897
+msgctxt "87370069-0-24897"
+msgid "Moon-Pillar of Spring Rains"
+msgstr "月の柱(春の雨)"
+
+#: 87370069-0-24896
+msgctxt "87370069-0-24896"
+msgid "Scroll of Moon-Blessed Earth"
+msgstr "月に祝福された地の巻物"
+
+#: 87370069-0-24895
+msgctxt "87370069-0-24895"
+msgid "Dragonguard Report"
+msgstr "ドラゴンガードの報告"
+
+#: 87370069-0-24885
+msgctxt "87370069-0-24885"
+msgid "Euraxian Supply Cart"
+msgstr "ユーラクシアの荷車"
+
+#: 87370069-0-24158
+msgctxt "87370069-0-24158"
+msgid "The Big Important Thing"
+msgstr "大きく重要なこと"
+
+#: 211899940-0-22526
+msgctxt "211899940-0-22526"
+msgid "<The Warrior-Poet blesses you with his wisdom and vision. For a generous contribution in his name, Vivec will grant you the power to revisit your choices regarding Attributes.>"
+msgstr "<戦詩人は英知と預言で祝福する。彼に対する貢献に基づき、ヴィベクが能力に関する選択を再考する権限を与える>"
+
+#: 28666901-0-1951
+msgctxt "28666901-0-1951"
+msgid "Euraxia Graveyard"
+msgstr "ユーラクシアの墓"
+
+#: 28666901-0-1949
+msgctxt "28666901-0-1949"
+msgid "Adeptorium Interior Graveyard"
+msgstr "僧房内部の墓"
+
+#: 28666901-0-1943
+msgctxt "28666901-0-1943"
+msgid "ES-AS Objective GY"
+msgstr "ES-AS Objective GY"
+
+#: 28666901-0-1941
+msgctxt "28666901-0-1941"
+msgid "Hidden Moon Graveyard"
+msgstr "隠された月の墓"
+
+#: 28666901-0-1940
+msgctxt "28666901-0-1940"
+msgid "Hall of the Lunar Champion"
+msgstr "月の勇者の広間"
+
+#: 28666901-0-1939
+msgctxt "28666901-0-1939"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 28666901-0-1938
+msgctxt "28666901-0-1938"
+msgid "Sepulcher of Mischance 2 GY"
+msgstr "Sepulcher of Mischance 2 GY"
+
+#: 28666901-0-1937
+msgctxt "28666901-0-1937"
+msgid "Plane of Jode Graveyard"
+msgstr "ジョーデの次元の墓"
+
+#: 28666901-0-1936
+msgctxt "28666901-0-1936"
+msgid "Plane of Jode Graveyard"
+msgstr "ジョーデの次元の墓"
+
+#: 28666901-0-1935
+msgctxt "28666901-0-1935"
+msgid "Rimmen Palace Recesses GY"
+msgstr "Rimmen Palace Recesses GY"
+
+#: 28666901-0-1934
+msgctxt "28666901-0-1934"
+msgid "EQ2 EscortGY"
+msgstr "EQ2 EscortGY"
+
+#: 28666901-0-1933
+msgctxt "28666901-0-1933"
+msgid "Sugar Bowl Suite"
+msgstr "〈シュガーボウル〉 の特別室"
+
+#: 28666901-0-1932
+msgctxt "28666901-0-1932"
+msgid "Dragonguard Outpost"
+msgstr "ドラゴンガードの基地"
+
+#: 28666901-0-1930
+msgctxt "28666901-0-1930"
+msgid "Moon Gate Graveyard"
+msgstr "月の門の墓"
+
+#: 28666901-0-1929
+msgctxt "28666901-0-1929"
+msgid "Cheesemonger's Hollow"
+msgstr "チーズ職人の洞穴"
+
+#: 28666901-0-1928
+msgctxt "28666901-0-1928"
+msgid "Sugar-Slinger's Den GY"
+msgstr "Sugar-Slinger's Den GY"
+
+#: 28666901-0-1925
+msgctxt "28666901-0-1925"
+msgid "Rimmen Necropolis Graveyard"
+msgstr "リンメン・ネクロポリスの墓"
+
+#: 28666901-0-1921
+msgctxt "28666901-0-1921"
+msgid "Hidden Moon Catacombs"
+msgstr "隠された月の地下墓地"
+
+#: 28666901-0-1920
+msgctxt "28666901-0-1920"
+msgid "Hidden Moon Catacombs"
+msgstr "隠された月の地下墓地"
+
+#: 28666901-0-1919
+msgctxt "28666901-0-1919"
+msgid "Courtyard Graveyard"
+msgstr "中庭の墓"
+
+#: 28666901-0-1918
+msgctxt "28666901-0-1918"
+msgid "Catacombs Graveyard"
+msgstr "地下墓地の墓"
+
+#: 28666901-0-1917
+msgctxt "28666901-0-1917"
+msgid "Training Halls Graveyard"
+msgstr "訓練の間の墓"
+
+#: 28666901-0-1916
+msgctxt "28666901-0-1916"
+msgid "Trial: Sunspire"
+msgstr "試練: サンスパイア"
+
+#: 28666901-0-1910
+msgctxt "28666901-0-1910"
+msgid "Khasda's Keep Graveyard"
+msgstr "カスダの砦の墓"
+
+#: 28666901-0-1909
+msgctxt "28666901-0-1909"
+msgid "Desert Wind Graveyard"
+msgstr "砂漠の風の墓"
+
+#: 28666901-0-1908
+msgctxt "28666901-0-1908"
+msgid "Cadwell Oubliette Graveyard"
+msgstr "キャドウェルの地下牢の墓"
+
+#: 28666901-0-1907
+msgctxt "28666901-0-1907"
+msgid "Dancing Moon Graveyard"
+msgstr "踊る月の墓"
+
+#: 28666901-0-1906
+msgctxt "28666901-0-1906"
+msgid "Moon Gate Graveyard"
+msgstr "月の門の墓"
+
+#: 28666901-0-1905
+msgctxt "28666901-0-1905"
+msgid "Sugar Farms Cave Graveyard"
+msgstr "砂糖農園の洞窟の墓"
+
+#: 28666901-0-1904
+msgctxt "28666901-0-1904"
+msgid "Hakoshae Tombs Graveyard"
+msgstr "ハコシャエの墳墓の墓"
+
+#: 28666901-0-1903
+msgctxt "28666901-0-1903"
+msgid "Ashen Scar Tombs Graveyard"
+msgstr "アッシェン・スカーの墳墓の墓"
+
+#: 28666901-0-1902
+msgctxt "28666901-0-1902"
+msgid "Weeping Scar Ossuary Graveyard"
+msgstr "ウィーピング・スカー納骨堂の墓"
+
+#: 28666901-0-1901
+msgctxt "28666901-0-1901"
+msgid "Cicatrice Oasis Graveyard"
+msgstr "シカトリス・オアシスの墓"
+
+#: 28666901-0-1900
+msgctxt "28666901-0-1900"
+msgid "Dragonguard Sanctuary GY"
+msgstr "Dragonguard Sanctuary GY"
+
+#: 28666901-0-1899
+msgctxt "28666901-0-1899"
+msgid "Moon Haven Monastery Graveyard"
+msgstr "ムーンヘヴン修道院の墓"
+
+#: 28666901-0-1898
+msgctxt "28666901-0-1898"
+msgid "Two Moons Reflection Graveyard"
+msgstr "双子月の反射の墓"
+
+#: 28666901-0-1895
+msgctxt "28666901-0-1895"
+msgid "Sepulcher of Mischance GY"
+msgstr "Sepulcher of Mischance GY"
+
+#: 28666901-0-1894
+msgctxt "28666901-0-1894"
+msgid "Rimmen Underground Graveyard"
+msgstr "リンメンの地下施設の墓"
+
+#: 28666901-0-1892
+msgctxt "28666901-0-1892"
+msgid "Rimmen Castle Graveyard"
+msgstr "リンメン城の墓"
+
+#: 28666901-0-1891
+msgctxt "28666901-0-1891"
+msgid "Riverhold Graveyard"
+msgstr "リバーホールドの墓"
+
+#: 28666901-0-1890
+msgctxt "28666901-0-1890"
+msgid "Sleepy Senche Mine Graveyard"
+msgstr "眠そうなセンチ鉱山の墓"
+
+#: 28666901-0-1889
+msgctxt "28666901-0-1889"
+msgid "Abode of Ignominy Graveyard"
+msgstr "不名誉の家の墓"
+
+#: 28666901-0-1888
+msgctxt "28666901-0-1888"
+msgid "Tomb of the Serpents Graveyard"
+msgstr "大蛇の墳墓の墓"
+
+#: 28666901-0-1887
+msgctxt "28666901-0-1887"
+msgid "The Tangle Graveyard"
+msgstr "タングルの墓"
+
+#: 28666901-0-1886
+msgctxt "28666901-0-1886"
+msgid "Darkpool Mine Graveyard"
+msgstr "ダークプール鉱山の墓"
+
+#: 28666901-0-1885
+msgctxt "28666901-0-1885"
+msgid "Star Haven Wayshrine"
+msgstr "スターヘヴンの旅の祠"
+
+#: 28666901-0-1884
+msgctxt "28666901-0-1884"
+msgid "Predator's Mesa Graveyard"
+msgstr "プレデター・メサの墓"
+
+#: 28666901-0-1883
+msgctxt "28666901-0-1883"
+msgid "Orcrest Graveyard"
+msgstr "オークレストの墓"
+
+#: 28666901-0-1882
+msgctxt "28666901-0-1882"
+msgid "Rimmen Outlaw's Refuge"
+msgstr "リンメンの無法者の隠れ家"
+
+#: 28666901-0-1875
+msgctxt "28666901-0-1875"
+msgid "Hakoshae Wayshrine"
+msgstr "ハコシャエの旅の祠"
+
+#: 28666901-0-1863
+msgctxt "28666901-0-1863"
+msgid "Scar's End Wayshrine"
+msgstr "スカーズエンドの旅の祠"
+
+#: 28666901-0-1861
+msgctxt "28666901-0-1861"
+msgid "Tenmar Temple Wayshrine"
+msgstr "テンマール聖堂の旅の祠"
+
+#: 28666901-0-1860
+msgctxt "28666901-0-1860"
+msgid "The Stitches Wayshrine"
+msgstr "ステッチズの旅の祠"
+
+#: 28666901-0-1859
+msgctxt "28666901-0-1859"
+msgid "Rimmen Wayshrine"
+msgstr "リンメンの旅の祠"
+
+#: 28666901-0-1858
+msgctxt "28666901-0-1858"
+msgid "Riverhold Wayshrine"
+msgstr "リバーホールドの旅の祠"
+
+#: 267200725-0-1673
+msgctxt "267200725-0-1673"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 267200725-0-1672
+msgctxt "267200725-0-1672"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 267200725-0-1671
+msgctxt "267200725-0-1671"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1670
+msgctxt "267200725-0-1670"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 267200725-0-1669
+msgctxt "267200725-0-1669"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 267200725-0-1668
+msgctxt "267200725-0-1668"
+msgid "Jode's Core"
+msgstr "ジョーデのコア"
+
+#: 267200725-0-1667
+msgctxt "267200725-0-1667"
+msgid "Moon Gate of Anequina"
+msgstr "アネクイナの月の門"
+
+#: 267200725-0-1666
+msgctxt "267200725-0-1666"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 267200725-0-1665
+msgctxt "267200725-0-1665"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 267200725-0-1664
+msgctxt "267200725-0-1664"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 267200725-0-1663
+msgctxt "267200725-0-1663"
+msgid "The Stitches"
+msgstr "ステッチズ"
+
+#: 267200725-0-1662
+msgctxt "267200725-0-1662"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 267200725-0-1661
+msgctxt "267200725-0-1661"
+msgid "Cheesemonger Hollow"
+msgstr "チーズ職人の洞穴"
+
+#: 267200725-0-1660
+msgctxt "267200725-0-1660"
+msgid "Smuggler's Hideout"
+msgstr "密売人の隠れ家"
+
+#: 267200725-0-1659
+msgctxt "267200725-0-1659"
+msgid "Vault of Heavenly Scourge"
+msgstr "天罰の宝物庫"
+
+#: 267200725-0-1658
+msgctxt "267200725-0-1658"
+msgid "Sunspire Temple Grounds"
+msgstr "サンスパイア聖堂の庭"
+
+#: 267200725-0-1657
+msgctxt "267200725-0-1657"
+msgid "Shrine of Jode"
+msgstr "ジョーデの祠"
+
+#: 267200725-0-1656
+msgctxt "267200725-0-1656"
+msgid "Desert Wind Temple"
+msgstr "砂漠の風の聖堂"
+
+#: 267200725-0-1655
+msgctxt "267200725-0-1655"
+msgid "Shrine of Jone"
+msgstr "ジョーンの祠"
+
+#: 267200725-0-1653
+msgctxt "267200725-0-1653"
+msgid "Shrine of Jone Vestibule"
+msgstr "ジョーンの祠の前庭"
+
+#: 267200725-0-1652
+msgctxt "267200725-0-1652"
+msgid "Shrine of Jode Vestibule"
+msgstr "ジョーデの祠の前庭"
+
+#: 267200725-0-1651
+msgctxt "267200725-0-1651"
+msgid "Chancel of Alkosh Vestibule"
+msgstr "アルコシュの内陣の前庭"
+
+#: 267200725-0-1650
+msgctxt "267200725-0-1650"
+msgid "Sunspire Temple Vestibule"
+msgstr "サンスパイア聖堂の前庭"
+
+#: 267200725-0-1649
+msgctxt "267200725-0-1649"
+msgid "Sunspire Temple Grounds"
+msgstr "サンスパイア聖堂の庭"
+
+#: 267200725-0-1648
+msgctxt "267200725-0-1648"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1647
+msgctxt "267200725-0-1647"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1646
+msgctxt "267200725-0-1646"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1645
+msgctxt "267200725-0-1645"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1644
+msgctxt "267200725-0-1644"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1643
+msgctxt "267200725-0-1643"
+msgid "Skooma Cat's Cloister"
+msgstr "スクゥーマ猫"
+
+#: 267200725-0-1642
+msgctxt "267200725-0-1642"
+msgid "Desert Wind Temple"
+msgstr "砂漠の風の聖堂"
+
+#: 267200725-0-1641
+msgctxt "267200725-0-1641"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 211899940-0-16401
+msgctxt "211899940-0-16401"
+msgid "<Auriel blesses you with his wisdom and vision. For a generous contribution in his name, the God of Time will grant you the power to revisit your choices regarding Attributes.>"
+msgstr "<アーリエルは英知と預言で祝福する。彼に対する貢献に基づき、時の神が能力に関する選択を再考する権限を与える>"
+
+#: 211899940-0-16400
+msgctxt "211899940-0-16400"
+msgid "<Kyne blesses you with her wisdom and vision. For a generous contribution in her name, the Goddess of Storm will grant you the power to revisit your choices regarding Attributes.>"
+msgstr "<カイネは英知と預言で祝福する。彼女に対する貢献に基づき、嵐の女神が能力に関する選択を再考する権限を与える>"
+
+#: 267200725-0-1640
+msgctxt "267200725-0-1640"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 211899940-0-16398
+msgctxt "211899940-0-16398"
+msgid "<Akatosh blesses you with his wisdom and vision. For a generous contribution in his name, the Dragon God of Time will grant you the power to revisit your choices regarding Attributes.>"
+msgstr "<アカトシュは英知と預言で祝福する。彼に対する貢献に基づき、時の竜神が能力に関する選択を再考する権限を与える>"
+
+#: 267200725-0-1639
+msgctxt "267200725-0-1639"
+msgid "Rimmen Necropolis"
+msgstr "リンメン・ネクロポリス"
+
+#: 267200725-0-1638
+msgctxt "267200725-0-1638"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 267200725-0-1637
+msgctxt "267200725-0-1637"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 267200725-0-1636
+msgctxt "267200725-0-1636"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 267200725-0-1635
+msgctxt "267200725-0-1635"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 267200725-0-1634
+msgctxt "267200725-0-1634"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 267200725-0-1633
+msgctxt "267200725-0-1633"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 267200725-0-1632
+msgctxt "267200725-0-1632"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 267200725-0-1631
+msgctxt "267200725-0-1631"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 267200725-0-1630
+msgctxt "267200725-0-1630"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 267200725-0-1629
+msgctxt "267200725-0-1629"
+msgid "Tenarr Zalviit Pens"
+msgstr "テナル・ザルヴィトの囲い"
+
+#: 267200725-0-1628
+msgctxt "267200725-0-1628"
+msgid "Merryvale Sugar Farm Caves"
+msgstr "メイアヴェイル砂糖農園の洞窟"
+
+#: 267200725-0-1627
+msgctxt "267200725-0-1627"
+msgid "Tenarr Zalviit Warrens"
+msgstr "テナル・ザルヴィトの荒野"
+
+#: 267200725-0-1626
+msgctxt "267200725-0-1626"
+msgid "The Tangle"
+msgstr "タングル"
+
+#: 267200725-0-1625
+msgctxt "267200725-0-1625"
+msgid "Arum-Khal's Realm"
+msgstr "アルム・カルの領域"
+
+#: 267200725-0-1624
+msgctxt "267200725-0-1624"
+msgid "Hidden Moon Crypts"
+msgstr "隠された月の墓地"
+
+#: 267200725-0-1623
+msgctxt "267200725-0-1623"
+msgid "Skooma Cat's Cloister"
+msgstr "スクゥーマ猫の回廊"
+
+#: 267200725-0-1620
+msgctxt "267200725-0-1620"
+msgid "Star Haven Catacombs"
+msgstr "スターヘヴンの地下墓地"
+
+#: 267200725-0-1619
+msgctxt "267200725-0-1619"
+msgid "Star Haven Training Halls"
+msgstr "スターヘヴンの訓練の間"
+
+#: 267200725-0-1618
+msgctxt "267200725-0-1618"
+msgid "Star Haven Adeptorium"
+msgstr "スターヘヴン僧房"
+
+#: 267200725-0-1617
+msgctxt "267200725-0-1617"
+msgid "Sleepy Senche Mine"
+msgstr "眠そうなセンチ鉱山"
+
+#: 267200725-0-1616
+msgctxt "267200725-0-1616"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
+
+#: 267200725-0-1615
+msgctxt "267200725-0-1615"
+msgid "Meirvale Keep Dugout"
+msgstr "メイアヴェイル・キープの待避壕"
+
+#: 267200725-0-1614
+msgctxt "267200725-0-1614"
+msgid "Meirvale Keep Palace"
+msgstr "メイアヴェイル・キープの宮殿"
+
+#: 267200725-0-1613
+msgctxt "267200725-0-1613"
+msgid "Meirvale Keep Palace"
+msgstr "メイアヴェイル・キープの宮殿"
+
+#: 267200725-0-1612
+msgctxt "267200725-0-1612"
+msgid "Meirvale Keep Palace"
+msgstr "メイアヴェイル・キープの宮殿"
+
+#: 267200725-0-1611
+msgctxt "267200725-0-1611"
+msgid "Meirvale Keep Courtyard"
+msgstr "メイアヴェイル・キープの中庭"
+
+#: 267200725-0-1610
+msgctxt "267200725-0-1610"
+msgid "Meirvale Keep Dungeons"
+msgstr "メイアヴェイル・キープの地下牢"
+
+#: 267200725-0-1609
+msgctxt "267200725-0-1609"
+msgid "Sepulcher of Mischance"
+msgstr "不運の墓地"
+
+#: 267200725-0-1608
+msgctxt "267200725-0-1608"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 267200725-0-1595
+msgctxt "267200725-0-1595"
+msgid "Abode of Ignominy"
+msgstr "不名誉の家"
+
+#: 267200725-0-1594
+msgctxt "267200725-0-1594"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 267200725-0-1593
+msgctxt "267200725-0-1593"
+msgid "Shadow Dance Temple"
+msgstr "影の踊りの聖堂"
+
+#: 267200725-0-1592
+msgctxt "267200725-0-1592"
+msgid "Shadow Dance Temple"
+msgstr "影の踊りの聖堂"
+
+#: 267200725-0-1591
+msgctxt "267200725-0-1591"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 267200725-0-1590
+msgctxt "267200725-0-1590"
+msgid "Tomb of the Serpents"
+msgstr "大蛇の墳墓"
+
+#: 267200725-0-1587
+msgctxt "267200725-0-1587"
+msgid "Dov-Vahl Shrine"
+msgstr "ドヴ・ヴァールの祠"
+
+#: 267200725-0-1586
+msgctxt "267200725-0-1586"
+msgid "Hakoshae Tombs"
+msgstr "ハコシャエの墳墓"
+
+#: 267200725-0-1585
+msgctxt "267200725-0-1585"
+msgid "Rimmen Palace Courtyard"
+msgstr "リンメン宮殿の中庭"
+
+#: 267200725-0-1584
+msgctxt "267200725-0-1584"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 267200725-0-1578
+msgctxt "267200725-0-1578"
+msgid "Cicatrice Caverns"
+msgstr "シカトリス洞窟"
+
+#: 267200725-0-1577
+msgctxt "267200725-0-1577"
+msgid "Tenarr Zalviit Ossuary"
+msgstr "テナル・ザルヴィト納骨堂"
+
+#: 267200725-0-1576
+msgctxt "267200725-0-1576"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 267200725-0-1575
+msgctxt "267200725-0-1575"
+msgid "Rimmen Outlaws Refuge"
+msgstr "リンメンの無法者の隠れ家"
+
+#: 267200725-0-1571
+msgctxt "267200725-0-1571"
+msgid "Rimmen Palace Crypts"
+msgstr "リンメン宮殿の墓地"
+
+#: 267200725-0-1570
+msgctxt "267200725-0-1570"
+msgid "Rimmen Palace Recesses"
+msgstr "リンメン宮殿収納所"
+
+#: 267200725-0-1555
+msgctxt "267200725-0-1555"
+msgid "Northern Elsweyr"
+msgstr "北エルスウェア"
+
+#: 162946485-0-15248
+msgctxt "162946485-0-15248"
+msgid "The Bowel"
+msgstr "バエル"
+
+#: 162946485-0-15164
+msgctxt "162946485-0-15164"
+msgid "Gate Out Tutorial"
+msgstr "当初チュートリアル"
+
+#: 162946485-0-15153
+msgctxt "162946485-0-15153"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-15106
+msgctxt "162946485-0-15106"
+msgid "Cannibal King"
+msgstr "肉の王"
+
+#: 162946485-0-15105
+msgctxt "162946485-0-15105"
+msgid "Cannibal King"
+msgstr "肉の王"
+
+#: 162946485-0-15104
+msgctxt "162946485-0-15104"
+msgid "VFX Performance: Dragons"
+msgstr "VFX Performance: Dragons"
+
+#: 162946485-0-15103
+msgctxt "162946485-0-15103"
+msgid "MAP_ELS_RimmenCity"
+msgstr "MAP_ELS_RimmenCity"
+
+#: 162946485-0-15102
+msgctxt "162946485-0-15102"
+msgid "Cannibal King"
+msgstr "肉の王"
+
+#: 162946485-0-15100
+msgctxt "162946485-0-15100"
+msgid "Anchor Theater"
+msgstr "アンカーシアター"
+
+#: 162946485-0-15098
+msgctxt "162946485-0-15098"
+msgid "Vision 2"
+msgstr "Vision 2"
+
+#: 162946485-0-15095
+msgctxt "162946485-0-15095"
+msgid "DesertWind"
+msgstr "DesertWind"
+
+#: 162946485-0-15080
+msgctxt "162946485-0-15080"
+msgid "EQ5 - MazeRoom0"
+msgstr "EQ5 - MazeRoom0"
+
+#: 162946485-0-15078
+msgctxt "162946485-0-15078"
+msgid "Q6308 Wait Monk TC"
+msgstr "Q6308 Wait Monk TC"
+
+#: 162946485-0-15076
+msgctxt "162946485-0-15076"
+msgid "Halls of Colossus"
+msgstr "ホール・オブ・コロッサス"
+
+#: 162946485-0-15075
+msgctxt "162946485-0-15075"
+msgid "Lunar Champion Tutorial"
+msgstr "月の勇者のチュートリアル"
+
+#: 162946485-0-15073
+msgctxt "162946485-0-15073"
+msgid "Plane of Jode"
+msgstr "ジョーデの次元"
+
+#: 162946485-0-15072
+msgctxt "162946485-0-15072"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 162946485-0-15071
+msgctxt "162946485-0-15071"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 162946485-0-15068
+msgctxt "162946485-0-15068"
+msgid "Dragon Encounter Space"
+msgstr "ドラゴンの遭遇スペース"
+
+#: 162946485-0-15055
+msgctxt "162946485-0-15055"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-15053
+msgctxt "162946485-0-15053"
+msgid "Colossus Altar"
+msgstr "巨大祭壇"
+
+#: 162946485-0-15052
+msgctxt "162946485-0-15052"
+msgid "First Altar"
+msgstr "最初の祭壇"
+
+#: 162946485-0-15050
+msgctxt "162946485-0-15050"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-15049
+msgctxt "162946485-0-15049"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-15048
+msgctxt "162946485-0-15048"
+msgid "Kill Plane"
+msgstr "殺しの次元"
+
+#: 162946485-0-15040
+msgctxt "162946485-0-15040"
+msgid "Dismiss Ice Thtr"
+msgstr "氷を無視する"
+
+#: 162946485-0-15039
+msgctxt "162946485-0-15039"
+msgid "Dismiss Fire Thtr"
+msgstr "火を無視する"
+
+#: 162946485-0-15038
+msgctxt "162946485-0-15038"
+msgid "Dismiss Intro/Outro"
+msgstr "Dismiss Intro/Outro"
+
+#: 162946485-0-15034
+msgctxt "162946485-0-15034"
+msgid "Q6323 AK Miniboss Room"
+msgstr "Q6323 AK Miniboss Room"
+
+#: 162946485-0-15033
+msgctxt "162946485-0-15033"
+msgid "VastarieTheater"
+msgstr "VastarieTheater"
+
+#: 162946485-0-15032
+msgctxt "162946485-0-15032"
+msgid "Jodes Embrace Kill Plane 1"
+msgstr "Jodes Embrace Kill Plane 1"
+
+#: 162946485-0-15029
+msgctxt "162946485-0-15029"
+msgid "Elsweyr Treasure Map VI"
+msgstr "エルスウェアの宝の地図6"
+
+#: 162946485-0-15028
+msgctxt "162946485-0-15028"
+msgid "Elsweyr Treasure Map V"
+msgstr "エルスウェアの宝の地図5"
+
+#: 162946485-0-15027
+msgctxt "162946485-0-15027"
+msgid "Elsweyr Treasure Map IV"
+msgstr "エルスウェアの宝の地図4"
+
+#: 162946485-0-15026
+msgctxt "162946485-0-15026"
+msgid "Elsweyr Treasure Map III"
+msgstr "エルスウェアの宝の地図3"
+
+#: 162946485-0-15025
+msgctxt "162946485-0-15025"
+msgid "Elsweyr Treasure Map II"
+msgstr "エルスウェアの宝の地図2"
+
+#: 162946485-0-15024
+msgctxt "162946485-0-15024"
+msgid "Elsweyr Treasure Map I"
+msgstr "エルスウェアの宝の地図1"
+
+#: 162946485-0-15023
+msgctxt "162946485-0-15023"
+msgid "Elsweyr CE Treasure Map III"
+msgstr "エルスウェアの宝の地図3(CE)"
+
+#: 162946485-0-15022
+msgctxt "162946485-0-15022"
+msgid "Elsweyr CE Treasure Map II"
+msgstr "エルスウェアの宝の地図2(CE)"
+
+#: 162946485-0-15021
+msgctxt "162946485-0-15021"
+msgid "Elsweyr CE Treasure Map I"
+msgstr "エルスウェアの宝の地図1(CE)"
+
+#: 162946485-0-15019
+msgctxt "162946485-0-15019"
+msgid "Chancel"
+msgstr "内陣"
+
+#: 162946485-0-15017
+msgctxt "162946485-0-15017"
+msgid "EQ7 Entire Instance moonsurfac"
+msgstr "EQ7 Entire Instance moonsurfac"
+
+#: 162946485-0-15015
+msgctxt "162946485-0-15015"
+msgid "North Bastion Exterior"
+msgstr "北砦の外側"
+
+#: 162946485-0-15007
+msgctxt "162946485-0-15007"
+msgid "Riverhold Trespass"
+msgstr "リバーホールドへの侵入"
+
+#: 162946485-0-15005
+msgctxt "162946485-0-15005"
+msgid "Cicatrice Oasis"
+msgstr "シカトリス・オアシス"
+
+#: 162946485-0-15003
+msgctxt "162946485-0-15003"
+msgid "Cicatrice Oasis"
+msgstr "シカトリス・オアシス"
+
+#: 162946485-0-15000
+msgctxt "162946485-0-15000"
+msgid "Cicatrice Oasis"
+msgstr "シカトリス・オアシス"
+
+#: 162946485-0-14998
+msgctxt "162946485-0-14998"
+msgid "EQ1 ReachedNecroBossAggro"
+msgstr "EQ1 ReachedNecroBossAggro"
+
+#: 162946485-0-14997
+msgctxt "162946485-0-14997"
+msgid "Mazza-Mirri's Test"
+msgstr "Mazza-Mirri's Test"
+
+#: 162946485-0-14987
+msgctxt "162946485-0-14987"
+msgid "Kill Plane"
+msgstr "殺しの次元"
+
+#: 162946485-0-14986
+msgctxt "162946485-0-14986"
+msgid "Kill Plane"
+msgstr "殺しの次元"
+
+#: 162946485-0-14983
+msgctxt "162946485-0-14983"
+msgid "Cannibal King"
+msgstr "肉の王"
+
+#: 162946485-0-14982
+msgctxt "162946485-0-14982"
+msgid "Kill Plane"
+msgstr "殺しの次元"
+
+#: 162946485-0-14981
+msgctxt "162946485-0-14981"
+msgid "Desert Wind Cavern"
+msgstr "砂漠の風の洞窟"
+
+#: 162946485-0-14979
+msgctxt "162946485-0-14979"
+msgid "HM GY"
+msgstr "HM GY"
+
+#: 162946485-0-14978
+msgctxt "162946485-0-14978"
+msgid "Smuggler's Hideout"
+msgstr "密売人の隠れ家"
+
+#: 162946485-0-14977
+msgctxt "162946485-0-14977"
+msgid "Vault of Heavenly Scourge"
+msgstr "天罰の宝物庫"
+
+#: 162946485-0-14975
+msgctxt "162946485-0-14975"
+msgid "SunSpireOverWorld2"
+msgstr "SunSpireOverWorld2"
+
+#: 162946485-0-14963
+msgctxt "162946485-0-14963"
+msgid "Riverhold Bridge"
+msgstr "リバーホールド橋"
+
+#: 162946485-0-14962
+msgctxt "162946485-0-14962"
+msgid "SunSpireRoom02"
+msgstr "SunSpireRoom02"
+
+#: 162946485-0-14961
+msgctxt "162946485-0-14961"
+msgid "force dismount"
+msgstr "強制騎乗解除"
+
+#: 162946485-0-14960
+msgctxt "162946485-0-14960"
+msgid "Desert Wind Temple"
+msgstr "砂漠の風の聖堂"
+
+#: 162946485-0-14956
+msgctxt "162946485-0-14956"
+msgid "SunSpireRoom01"
+msgstr "SunSpireRoom01"
+
+#: 162946485-0-14952
+msgctxt "162946485-0-14952"
+msgid "SunSpireHall4"
+msgstr "SunSpireHall4"
+
+#: 162946485-0-14947
+msgctxt "162946485-0-14947"
+msgid "SunSpireHall3"
+msgstr "SunSpireHall3"
+
+#: 162946485-0-14945
+msgctxt "162946485-0-14945"
+msgid "SunSpireHall2"
+msgstr "SunSpireHall2"
+
+#: 162946485-0-14937
+msgctxt "162946485-0-14937"
+msgid "SunSpireHall001"
+msgstr "SunSpireHall001"
+
+#: 162946485-0-14935
+msgctxt "162946485-0-14935"
+msgid "SunSpireOverWorld"
+msgstr "SunSpireOverWorld"
+
+#: 162946485-0-14934
+msgctxt "162946485-0-14934"
+msgid "EQ5 - MazeRoom0"
+msgstr "EQ5 - MazeRoom0"
+
+#: 162946485-0-14933
+msgctxt "162946485-0-14933"
+msgid "ELS_map_SkoomaCatsCloister2"
+msgstr "ELS_map_SkoomaCatsCloister2"
+
+#: 162946485-0-14932
+msgctxt "162946485-0-14932"
+msgid "ELS_map_SkoomaCatsCloister"
+msgstr "ELS_map_SkoomaCatsCloister"
+
+#: 162946485-0-14931
+msgctxt "162946485-0-14931"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14930
+msgctxt "162946485-0-14930"
+msgid "CRAFT JC-Survey-VVardenfell"
+msgstr "CRAFT JC-Survey-VVardenfell"
+
+#: 162946485-0-14929
+msgctxt "162946485-0-14929"
+msgid "CRAFT-EN-Survey-Elsweyr"
+msgstr "CRAFT-EN-Survey-Elsweyr"
+
+#: 162946485-0-14928
+msgctxt "162946485-0-14928"
+msgid "CRAFT-AL-Survey-ES"
+msgstr "CRAFT-AL-Survey-ES"
+
+#: 162946485-0-14927
+msgctxt "162946485-0-14927"
+msgid "CRAFT-WW-Survey-Vvardenfell"
+msgstr "CRAFT-WW-Survey-Vvardenfell"
+
+#: 162946485-0-14926
+msgctxt "162946485-0-14926"
+msgid "CRAFT-CL-Survey-Elsweyr"
+msgstr "CRAFT-CL-Survey-Elsweyr"
+
+#: 162946485-0-14925
+msgctxt "162946485-0-14925"
+msgid "CRAFT BS-Survey-Elsweyr"
+msgstr "CRAFT BS-Survey-Elsweyr"
+
+#: 162946485-0-14924
+msgctxt "162946485-0-14924"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14923
+msgctxt "162946485-0-14923"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14922
+msgctxt "162946485-0-14922"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14921
+msgctxt "162946485-0-14921"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14920
+msgctxt "162946485-0-14920"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14919
+msgctxt "162946485-0-14919"
+msgid "Mulaamnir"
+msgstr "ムラームニル"
+
+#: 162946485-0-14918
+msgctxt "162946485-0-14918"
+msgid "Boss Room"
+msgstr "Boss Room"
+
+#: 162946485-0-14917
+msgctxt "162946485-0-14917"
+msgid "Rimmen House Trespass"
+msgstr "リンメンの家への侵入"
+
+#: 162946485-0-14916
+msgctxt "162946485-0-14916"
+msgid "EQ7 Wave Event 2 Dragon"
+msgstr "EQ7 Wave Event 2 Dragon"
+
+#: 162946485-0-14915
+msgctxt "162946485-0-14915"
+msgid "EQ7 Wave Event 1 Dragon"
+msgstr "EQ7 Wave Event 1 Dragon"
+
+#: 162946485-0-14912
+msgctxt "162946485-0-14912"
+msgid "ELS_Rimmen_MapPinLock_Guild"
+msgstr "ELS_Rimmen_MapPinLock_Guild"
+
+#: 162946485-0-14911
+msgctxt "162946485-0-14911"
+msgid "ELS_Rimmen_MapPinLock_Inn"
+msgstr "ELS_Rimmen_MapPinLock_Inn"
+
+#: 162946485-0-14909
+msgctxt "162946485-0-14909"
+msgid "ES-D4 Subzone8"
+msgstr "ES-D4 Subzone8"
+
+#: 162946485-0-14908
+msgctxt "162946485-0-14908"
+msgid "ES-D4 Subzone7"
+msgstr "ES-D4 Subzone7"
+
+#: 162946485-0-14907
+msgctxt "162946485-0-14907"
+msgid "ES-D4 Subzone6"
+msgstr "ES-D4 Subzone6"
+
+#: 162946485-0-14906
+msgctxt "162946485-0-14906"
+msgid "ES-D4 Subzone5"
+msgstr "ES-D4 Subzone5"
+
+#: 162946485-0-14905
+msgctxt "162946485-0-14905"
+msgid "ES-D4 Subzone4"
+msgstr "ES-D4 Subzone4"
+
+#: 162946485-0-14904
+msgctxt "162946485-0-14904"
+msgid "ES-D4 Subzone3"
+msgstr "ES-D4 Subzone3"
+
+#: 162946485-0-14903
+msgctxt "162946485-0-14903"
+msgid "Desert Wind Temple"
+msgstr "砂漠の風の聖堂"
+
+#: 162946485-0-14902
+msgctxt "162946485-0-14902"
+msgid "Desert Wind Temple"
+msgstr "砂漠の風の聖堂"
+
+#: 162946485-0-14901
+msgctxt "162946485-0-14901"
+msgid "DesertWind"
+msgstr "DesertWind"
+
+#: 162946485-0-14900
+msgctxt "162946485-0-14900"
+msgid "RimmenNecropolis"
+msgstr "RimmenNecropolis"
+
+#: 162946485-0-14899
+msgctxt "162946485-0-14899"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 162946485-0-14898
+msgctxt "162946485-0-14898"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 162946485-0-14897
+msgctxt "162946485-0-14897"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 162946485-0-14895
+msgctxt "162946485-0-14895"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14894
+msgctxt "162946485-0-14894"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14892
+msgctxt "162946485-0-14892"
+msgid "ELS_MAP_SugarSlinger_Upper02c"
+msgstr "ELS_MAP_SugarSlinger_Upper02c"
+
+#: 162946485-0-14891
+msgctxt "162946485-0-14891"
+msgid "ELS_MAP_SugarSlinger_Upper02b"
+msgstr "ELS_MAP_SugarSlinger_Upper02b"
+
+#: 162946485-0-14890
+msgctxt "162946485-0-14890"
+msgid "ELS_MAP_SugarSlinger_Upper02b"
+msgstr "ELS_MAP_SugarSlinger_Upper02b"
+
+#: 162946485-0-14889
+msgctxt "162946485-0-14889"
+msgid "ELS_MAP_SugarSlinger_Upper02"
+msgstr "ELS_MAP_SugarSlinger_Upper02"
+
+#: 162946485-0-14888
+msgctxt "162946485-0-14888"
+msgid "ELS_MAP_SugarSlinger_Secret01b"
+msgstr "ELS_MAP_SugarSlinger_Secret01b"
+
+#: 162946485-0-14887
+msgctxt "162946485-0-14887"
+msgid "ELS_MAP_SugarSlinger_Secret01a"
+msgstr "ELS_MAP_SugarSlinger_Secret01a"
+
+#: 162946485-0-14886
+msgctxt "162946485-0-14886"
+msgid "ELS_MAP_SugarSlinger_MainLow01"
+msgstr "ELS_MAP_SugarSlinger_MainLow01"
+
+#: 162946485-0-14885
+msgctxt "162946485-0-14885"
+msgid "Kill Plane"
+msgstr "殺しの次元"
+
+#: 162946485-0-14884
+msgctxt "162946485-0-14884"
+msgid "Cicatrice Oasis"
+msgstr "シカトリス・オアシス"
+
+#: 162946485-0-14883
+msgctxt "162946485-0-14883"
+msgid "Q6303 Ambush Site"
+msgstr "Q6303 Ambush Site"
+
+#: 162946485-0-14882
+msgctxt "162946485-0-14882"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14881
+msgctxt "162946485-0-14881"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14880
+msgctxt "162946485-0-14880"
+msgid "Merryvale Sugar Farms Cave"
+msgstr "メイアヴェイル砂糖農園の洞窟"
+
+#: 162946485-0-14879
+msgctxt "162946485-0-14879"
+msgid "Weeping Scar"
+msgstr "嘆きの傷"
+
+#: 162946485-0-14878
+msgctxt "162946485-0-14878"
+msgid "Weeping Scar"
+msgstr "嘆きの傷"
+
+#: 162946485-0-14877
+msgctxt "162946485-0-14877"
+msgid "Weeping Scar"
+msgstr "嘆きの傷"
+
+#: 162946485-0-14876
+msgctxt "162946485-0-14876"
+msgid "Silhu-jo"
+msgstr "シルフ・ジョー"
+
+#: 162946485-0-14875
+msgctxt "162946485-0-14875"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-14874
+msgctxt "162946485-0-14874"
+msgid "ES Dragonscour Home 3-4"
+msgstr "ES Dragonscour Home 3-4"
+
+#: 162946485-0-14873
+msgctxt "162946485-0-14873"
+msgid "ES Dragonscour Home 3-3"
+msgstr "ES Dragonscour Home 3-3"
+
+#: 162946485-0-14872
+msgctxt "162946485-0-14872"
+msgid "ES Dragonscour Home 3-2"
+msgstr "ES Dragonscour Home 3-2"
+
+#: 162946485-0-14871
+msgctxt "162946485-0-14871"
+msgid "ES Dragonscour Home 3-1"
+msgstr "ES Dragonscour Home 3-1"
+
+#: 162946485-0-14870
+msgctxt "162946485-0-14870"
+msgid "ES Dragonscour Home 3-0"
+msgstr "ES Dragonscour Home 3-0"
+
+#: 162946485-0-14869
+msgctxt "162946485-0-14869"
+msgid "ES Dragonscour Home 2-3"
+msgstr "ES Dragonscour Home 2-3"
+
+#: 162946485-0-14868
+msgctxt "162946485-0-14868"
+msgid "ES Dragonscour Home 2-2"
+msgstr "ES Dragonscour Home 2-2"
+
+#: 162946485-0-14867
+msgctxt "162946485-0-14867"
+msgid "ES Dragonscour Home 2-1"
+msgstr "ES Dragonscour Home 2-1"
+
+#: 162946485-0-14866
+msgctxt "162946485-0-14866"
+msgid "ES Dragonscour Home 2-0"
+msgstr "ES Dragonscour Home 2-0"
+
+#: 162946485-0-14865
+msgctxt "162946485-0-14865"
+msgid "ES Dragonhunt 1-4"
+msgstr "ES Dragonhunt 1-4"
+
+#: 162946485-0-14864
+msgctxt "162946485-0-14864"
+msgid "ES Dragonhunt 1-3"
+msgstr "ES Dragonhunt 1-3"
+
+#: 162946485-0-14863
+msgctxt "162946485-0-14863"
+msgid "ES Dragonhunt 1-2"
+msgstr "ES Dragonhunt 1-2"
+
+#: 162946485-0-14862
+msgctxt "162946485-0-14862"
+msgid "ES Dragonhunt 1-1"
+msgstr "ES Dragonhunt 1-1"
+
+#: 162946485-0-14861
+msgctxt "162946485-0-14861"
+msgid "ES Dragonhunt 1-0"
+msgstr "ES Dragonhunt 1-0"
+
+#: 162946485-0-14860
+msgctxt "162946485-0-14860"
+msgid "Jone Shrine"
+msgstr "ジョーンの祠"
+
+#: 162946485-0-14859
+msgctxt "162946485-0-14859"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14858
+msgctxt "162946485-0-14858"
+msgid "Lockpick Tutorial"
+msgstr "鍵開けチュートリアル"
+
+#: 162946485-0-14856
+msgctxt "162946485-0-14856"
+msgid "EQ1 IgnoredMulaamnir"
+msgstr "EQ1 IgnoredMulaamnir"
+
+#: 162946485-0-14855
+msgctxt "162946485-0-14855"
+msgid "Zen Arena"
+msgstr "ゼン・アリーナ"
+
+#: 162946485-0-14854
+msgctxt "162946485-0-14854"
+msgid "Marked Containers"
+msgstr "印がついたコンテナ"
+
+#: 162946485-0-14853
+msgctxt "162946485-0-14853"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 162946485-0-14852
+msgctxt "162946485-0-14852"
+msgid "Mixzik"
+msgstr "ミクスジク"
+
+#: 162946485-0-14851
+msgctxt "162946485-0-14851"
+msgid "Hall of the Lunar Champion"
+msgstr "月の勇者の広間"
+
+#: 162946485-0-14850
+msgctxt "162946485-0-14850"
+msgid "Greenleaf Farm Cave"
+msgstr "グリーンリーフ農場の洞窟"
+
+#: 162946485-0-14849
+msgctxt "162946485-0-14849"
+msgid "Q6355 Urn3 Theater"
+msgstr "Q6355 Urn3 Theater"
+
+#: 162946485-0-14848
+msgctxt "162946485-0-14848"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14847
+msgctxt "162946485-0-14847"
+msgid "Q6355 Urn2 Theater"
+msgstr "Q6355 Urn2 Theater"
+
+#: 162946485-0-14846
+msgctxt "162946485-0-14846"
+msgid "Q6355 Urn1 Theater"
+msgstr "Q6355 Urn1 Theater"
+
+#: 162946485-0-14845
+msgctxt "162946485-0-14845"
+msgid "SS_Kill13_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill13_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14844
+msgctxt "162946485-0-14844"
+msgid "EQ7 - Dragon Guard 0"
+msgstr "EQ7 - Dragon Guard 0"
+
+#: 162946485-0-14842
+msgctxt "162946485-0-14842"
+msgid "Dragonhorn Tower"
+msgstr "ドラゴンホーン塔"
+
+#: 162946485-0-14840
+msgctxt "162946485-0-14840"
+msgid "ES CraftingWritsSubzone"
+msgstr "ES CraftingWritsSubzone"
+
+#: 162946485-0-14835
+msgctxt "162946485-0-14835"
+msgid "Q6308 Stay Post Check"
+msgstr "Q6308 Stay Post Check"
+
+#: 162946485-0-14834
+msgctxt "162946485-0-14834"
+msgid "EQ6 Khamira Bodies Line"
+msgstr "EQ6 Khamira Bodies Line"
+
+#: 162946485-0-14833
+msgctxt "162946485-0-14833"
+msgid "EQ6 Cadwell Theater 1"
+msgstr "EQ6 Cadwell Theater 1"
+
+#: 162946485-0-14830
+msgctxt "162946485-0-14830"
+msgid "Find Sizenza"
+msgstr "シゼンザを探す"
+
+#: 162946485-0-14829
+msgctxt "162946485-0-14829"
+msgid "EQ2 RESPAWNTharnFollower"
+msgstr "EQ2 RESPAWNTharnFollower"
+
+#: 162946485-0-14828
+msgctxt "162946485-0-14828"
+msgid "EQ1 RespawnKhajiit"
+msgstr "EQ1 RespawnKhajiit"
+
+#: 162946485-0-14827
+msgctxt "162946485-0-14827"
+msgid "SS_Kill12_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill12_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14826
+msgctxt "162946485-0-14826"
+msgid "EQ5 - Final SAT"
+msgstr "EQ5 - Final SAT"
+
+#: 162946485-0-14825
+msgctxt "162946485-0-14825"
+msgid "Volenfell"
+msgstr "ヴォレンフェル"
+
+#: 162946485-0-14824
+msgctxt "162946485-0-14824"
+msgid "EQ6 Boss Aggro Barks"
+msgstr "EQ6 Boss Aggro Barks"
+
+#: 162946485-0-14823
+msgctxt "162946485-0-14823"
+msgid "Boss Room"
+msgstr "Boss Room"
+
+#: 162946485-0-14822
+msgctxt "162946485-0-14822"
+msgid "Dragonguard Outpost"
+msgstr "ドラゴンガードの基地"
+
+#: 162946485-0-14818
+msgctxt "162946485-0-14818"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14817
+msgctxt "162946485-0-14817"
+msgid "Rimmen Castle"
+msgstr "リンメン城"
+
+#: 162946485-0-14816
+msgctxt "162946485-0-14816"
+msgid "Sugar Bowl Suite"
+msgstr "〈シュガーボウル〉の特別室"
+
+#: 162946485-0-14813
+msgctxt "162946485-0-14813"
+msgid "Moon Gate"
+msgstr "月の門"
+
+#: 162946485-0-14812
+msgctxt "162946485-0-14812"
+msgid "Chancel"
+msgstr "内陣"
+
+#: 162946485-0-14811
+msgctxt "162946485-0-14811"
+msgid "EQ5 DG Sanctuary 2"
+msgstr "EQ5 DG Sanctuary 2"
+
+#: 162946485-0-14810
+msgctxt "162946485-0-14810"
+msgid "EQ5 - AbnurOutsideFort"
+msgstr "EQ5 - AbnurOutsideFort"
+
+#: 162946485-0-14809
+msgctxt "162946485-0-14809"
+msgid "Outside Nest"
+msgstr "巣の外側"
+
+#: 162946485-0-14808
+msgctxt "162946485-0-14808"
+msgid "EQ2 FakeWallCollisionCHECK"
+msgstr "EQ2 FakeWallCollisionCHECK"
+
+#: 162946485-0-14807
+msgctxt "162946485-0-14807"
+msgid "Moon Gate"
+msgstr "月の門"
+
+#: 162946485-0-14805
+msgctxt "162946485-0-14805"
+msgid "Rimmen Castle"
+msgstr "リンメン城"
+
+#: 162946485-0-14804
+msgctxt "162946485-0-14804"
+msgid "ES Rimmen Throneroom"
+msgstr "Es リンメン玉座の間"
+
+#: 162946485-0-14802
+msgctxt "162946485-0-14802"
+msgid "Riverhold Exterior"
+msgstr "リバーホールドの外側"
+
+#: 162946485-0-14801
+msgctxt "162946485-0-14801"
+msgid "Dragonguard retreat"
+msgstr "ドラゴンガードの隠れ家"
+
+#: 162946485-0-14800
+msgctxt "162946485-0-14800"
+msgid "EQ6 - AtMoonPortal"
+msgstr "EQ6 - AtMoonPortal"
+
+#: 162946485-0-14798
+msgctxt "162946485-0-14798"
+msgid "ES EQ7 Moon Gate Landing 2 GY"
+msgstr "ES EQ7 Moon Gate Landing 2 GY"
+
+#: 162946485-0-14797
+msgctxt "162946485-0-14797"
+msgid "ES EQ7 Moon Gate Landing 1 GY"
+msgstr "ES EQ7 Moon Gate Landing 1 GY"
+
+#: 162946485-0-14796
+msgctxt "162946485-0-14796"
+msgid "EQ7 - Jode SAT 7"
+msgstr "EQ7 - Jode SAT 7"
+
+#: 162946485-0-14795
+msgctxt "162946485-0-14795"
+msgid "EQ7 - Jode SAT 6"
+msgstr "EQ7 - Jode SAT 6"
+
+#: 162946485-0-14794
+msgctxt "162946485-0-14794"
+msgid "EQ7 Jode SAT 5"
+msgstr "EQ7 Jode SAT 5"
+
+#: 162946485-0-14793
+msgctxt "162946485-0-14793"
+msgid "EQ7 Jode SAT 4"
+msgstr "EQ7 Jode SAT 4"
+
+#: 162946485-0-14792
+msgctxt "162946485-0-14792"
+msgid "EQ7 Jode Shout 3"
+msgstr "EQ7 Jode Shout 3"
+
+#: 162946485-0-14791
+msgctxt "162946485-0-14791"
+msgid "EQ7 Jode SAT 2"
+msgstr "EQ7 Jode SAT 2"
+
+#: 162946485-0-14790
+msgctxt "162946485-0-14790"
+msgid "Red Hands Run"
+msgstr "レッドハンズ・ラン"
+
+#: 162946485-0-14789
+msgctxt "162946485-0-14789"
+msgid "Scar's Edge"
+msgstr "スカーズエッジ"
+
+#: 162946485-0-14788
+msgctxt "162946485-0-14788"
+msgid "EQ7 - Jode SAT 1"
+msgstr "EQ7 - Jode SAT 1"
+
+#: 162946485-0-14787
+msgctxt "162946485-0-14787"
+msgid "EQ7 Plane of Jode"
+msgstr "EQ7 Plane of Jode"
+
+#: 162946485-0-14786
+msgctxt "162946485-0-14786"
+msgid "ELS_map_TheTangle"
+msgstr "ELS_map_TheTangle"
+
+#: 162946485-0-14785
+msgctxt "162946485-0-14785"
+msgid "Arum-Khal's Realm"
+msgstr "アルム・カルの領域"
+
+#: 162946485-0-14784
+msgctxt "162946485-0-14784"
+msgid "Hidden Moon Crypts"
+msgstr "隠された月の墓地"
+
+#: 162946485-0-14783
+msgctxt "162946485-0-14783"
+msgid "Phoom"
+msgstr "フーム"
+
+#: 162946485-0-14780
+msgctxt "162946485-0-14780"
+msgid "Trap"
+msgstr "罠"
+
+#: 162946485-0-14779
+msgctxt "162946485-0-14779"
+msgid "Q6365 LeftJakarnBehindDarkpool"
+msgstr "Q6365 LeftJakarnBehindDarkpool"
+
+#: 162946485-0-14778
+msgctxt "162946485-0-14778"
+msgid "Sneak Room"
+msgstr "隠密室"
+
+#: 162946485-0-14777
+msgctxt "162946485-0-14777"
+msgid "EQ7 Plane of Jode Entrance"
+msgstr "EQ7 Plane of Jode Entrance"
+
+#: 162946485-0-14776
+msgctxt "162946485-0-14776"
+msgid "EQ7 Upper Landing Router"
+msgstr "EQ7 Upper Landing Router"
+
+#: 162946485-0-14775
+msgctxt "162946485-0-14775"
+msgid "Moonlit Gardens"
+msgstr "月光の庭園"
+
+#: 162946485-0-14774
+msgctxt "162946485-0-14774"
+msgid "Training Halls"
+msgstr "訓練の間"
+
+#: 162946485-0-14773
+msgctxt "162946485-0-14773"
+msgid "EQ7 Entire Instance moongate"
+msgstr "EQ7 Entire Instance moongate"
+
+#: 162946485-0-14772
+msgctxt "162946485-0-14772"
+msgid "EQ7 Path Cave In"
+msgstr "EQ7 Path Cave In"
+
+#: 162946485-0-14771
+msgctxt "162946485-0-14771"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-14770
+msgctxt "162946485-0-14770"
+msgid "Rimmen Workshop"
+msgstr "リンメン工房"
+
+#: 162946485-0-14769
+msgctxt "162946485-0-14769"
+msgid "Valenwood Border Artisan Camp"
+msgstr "ヴァレンウッド国境の職人野営地"
+
+#: 162946485-0-14768
+msgctxt "162946485-0-14768"
+msgid "Starlight Adeptorium"
+msgstr "スターライト僧房"
+
+#: 162946485-0-14767
+msgctxt "162946485-0-14767"
+msgid "Arrival in Reflection"
+msgstr "反映への到着"
+
+#: 162946485-0-14766
+msgctxt "162946485-0-14766"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-14765
+msgctxt "162946485-0-14765"
+msgid "EQ1 HonorSubzone"
+msgstr "EQ1 HonorSubzone"
+
+#: 162946485-0-14764
+msgctxt "162946485-0-14764"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-14763
+msgctxt "162946485-0-14763"
+msgid "EQ7 - Enter Instance"
+msgstr "EQ7 - Enter Instance"
+
+#: 162946485-0-14762
+msgctxt "162946485-0-14762"
+msgid "Goiter Gulp Basement"
+msgstr "〈ゴイターのがぶ飲み〉の地下室"
+
+#: 162946485-0-14761
+msgctxt "162946485-0-14761"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-14760
+msgctxt "162946485-0-14760"
+msgid "EQ7 Dragon Horn Unpowered"
+msgstr "EQ7 Dragon Horn Unpowered"
+
+#: 162946485-0-14759
+msgctxt "162946485-0-14759"
+msgid "EQ7 - Go Moon Portal 2"
+msgstr "EQ7 - Go Moon Portal 2"
+
+#: 162946485-0-14758
+msgctxt "162946485-0-14758"
+msgid "EQ7 - Go Moon Portal 1"
+msgstr "EQ7 - Go Moon Portal 1"
+
+#: 162946485-0-14755
+msgctxt "162946485-0-14755"
+msgid "Q6321 SpawnVastarieBestower"
+msgstr "Q6321 SpawnVastarieBestower"
+
+#: 162946485-0-14754
+msgctxt "162946485-0-14754"
+msgid "Q6321 SpawnVastarieBestower"
+msgstr "Q6321 SpawnVastarieBestower"
+
+#: 162946485-0-14752
+msgctxt "162946485-0-14752"
+msgid "Tomb of the Hidden Moon"
+msgstr "隠された月の墳墓"
+
+#: 162946485-0-14750
+msgctxt "162946485-0-14750"
+msgid "NPC"
+msgstr "NPC"
+
+#: 162946485-0-14749
+msgctxt "162946485-0-14749"
+msgid "NPC"
+msgstr "NPC"
+
+#: 162946485-0-14748
+msgctxt "162946485-0-14748"
+msgid "NPC"
+msgstr "NPC"
+
+#: 162946485-0-14747
+msgctxt "162946485-0-14747"
+msgid "EQ6 Cadwell Oubliette"
+msgstr "EQ6 Cadwell Oubliette"
+
+#: 162946485-0-14745
+msgctxt "162946485-0-14745"
+msgid "Mulaamnir's Lair"
+msgstr "ムラームニルの巣窟"
+
+#: 162946485-0-14743
+msgctxt "162946485-0-14743"
+msgid "Mulaamnir's Lair"
+msgstr "ムラームニルの巣窟"
+
+#: 162946485-0-14742
+msgctxt "162946485-0-14742"
+msgid "Mulaamnir's Lair"
+msgstr "ムラームニルの巣窟"
+
+#: 162946485-0-14741
+msgctxt "162946485-0-14741"
+msgid "Mulaamnir's Lair"
+msgstr "ムラームニルの巣窟"
+
+#: 162946485-0-14740
+msgctxt "162946485-0-14740"
+msgid "Q6373 KillSoldiersSubzone"
+msgstr "Q6373 KillSoldiersSubzone"
+
+#: 162946485-0-14739
+msgctxt "162946485-0-14739"
+msgid "Cheesemonger's Hollow"
+msgstr "チーズ職人の洞穴"
+
+#: 162946485-0-14738
+msgctxt "162946485-0-14738"
+msgid "Defense Force Outpost"
+msgstr "防衛軍の基地"
+
+#: 162946485-0-14737
+msgctxt "162946485-0-14737"
+msgid "Shadow Dance Ruins"
+msgstr "影の踊りの遺跡"
+
+#: 162946485-0-14736
+msgctxt "162946485-0-14736"
+msgid "Panther Found"
+msgstr "見つけた豹"
+
+#: 162946485-0-14735
+msgctxt "162946485-0-14735"
+msgid "Vision 1"
+msgstr "Vision 1"
+
+#: 162946485-0-14734
+msgctxt "162946485-0-14734"
+msgid "EQ6 Moon Temple Overland"
+msgstr "EQ6 Moon Temple Overland"
+
+#: 162946485-0-14733
+msgctxt "162946485-0-14733"
+msgid "Mulaamnir's Lair"
+msgstr "ムラームニルの巣窟"
+
+#: 162946485-0-14731
+msgctxt "162946485-0-14731"
+msgid "Mulaamnir's Lair"
+msgstr "ムラームニルの巣窟"
+
+#: 162946485-0-14730
+msgctxt "162946485-0-14730"
+msgid "Q6321 SpawnVastarieBestower"
+msgstr "Q6321 SpawnVastarieBestower"
+
+#: 162946485-0-14729
+msgctxt "162946485-0-14729"
+msgid "The Bone Pits"
+msgstr "ボーンピット"
+
+#: 162946485-0-14728
+msgctxt "162946485-0-14728"
+msgid "Talon Gulch"
+msgstr "鉤爪の渓谷"
+
+#: 162946485-0-14727
+msgctxt "162946485-0-14727"
+msgid "The Nightmare Plateau"
+msgstr "悪夢の高原"
+
+#: 162946485-0-14726
+msgctxt "162946485-0-14726"
+msgid "The Hill of Shattered Swords"
+msgstr "砕けた剣の丘"
+
+#: 162946485-0-14724
+msgctxt "162946485-0-14724"
+msgid "Zamarak Pillar Zones"
+msgstr "Zamarak Pillar Zones"
+
+#: 162946485-0-14723
+msgctxt "162946485-0-14723"
+msgid "EQ6 - Khamia Follower"
+msgstr "EQ6 - Khamia Follower"
+
+#: 162946485-0-14722
+msgctxt "162946485-0-14722"
+msgid "End"
+msgstr "End"
+
+#: 162946485-0-14719
+msgctxt "162946485-0-14719"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-14718
+msgctxt "162946485-0-14718"
+msgid "EQ5 - MazeRoom2"
+msgstr "EQ5 - MazeRoom2"
+
+#: 162946485-0-14717
+msgctxt "162946485-0-14717"
+msgid "EQ5 - MazeRoom2"
+msgstr "EQ5 - MazeRoom2"
+
+#: 162946485-0-14716
+msgctxt "162946485-0-14716"
+msgid "EQ5 - MazeRoom2"
+msgstr "EQ5 - MazeRoom2"
+
+#: 162946485-0-14714
+msgctxt "162946485-0-14714"
+msgid "EQ6 Cadwell NonCom Follower"
+msgstr "EQ6 Cadwell NonCom Follower"
+
+#: 162946485-0-14713
+msgctxt "162946485-0-14713"
+msgid "Tomb of the Hidden Moon"
+msgstr "隠された月の墳墓"
+
+#: 162946485-0-14712
+msgctxt "162946485-0-14712"
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#: 162946485-0-14711
+msgctxt "162946485-0-14711"
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#: 162946485-0-14710
+msgctxt "162946485-0-14710"
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#: 162946485-0-14709
+msgctxt "162946485-0-14709"
+msgid "Q6371 EndRigurtScene SZ"
+msgstr "Q6371 EndRigurtScene SZ"
+
+#: 162946485-0-14708
+msgctxt "162946485-0-14708"
+msgid "Sunspire Bestower"
+msgstr "サンスパイア・ベストワー"
+
+#: 162946485-0-14707
+msgctxt "162946485-0-14707"
+msgid "Riverhold Inn"
+msgstr "リバーホールド宿屋"
+
+#: 162946485-0-14706
+msgctxt "162946485-0-14706"
+msgid "End"
+msgstr "End"
+
+#: 162946485-0-14705
+msgctxt "162946485-0-14705"
+msgid "Elsweyr"
+msgstr "エルスウェア"
+
+#: 162946485-0-14703
+msgctxt "162946485-0-14703"
+msgid "End"
+msgstr "End"
+
+#: 162946485-0-14702
+msgctxt "162946485-0-14702"
+msgid "Q6320 Return From Hideout"
+msgstr "Q6320 Return From Hideout"
+
+#: 162946485-0-14701
+msgctxt "162946485-0-14701"
+msgid "Q6320 Qaaz to Hideout"
+msgstr "Q6320 Qaaz to Hideout"
+
+#: 162946485-0-14699
+msgctxt "162946485-0-14699"
+msgid "ELS_map_Sleepy Senche Mine"
+msgstr "ELS_map_Sleepy Senche Mine"
+
+#: 162946485-0-14698
+msgctxt "162946485-0-14698"
+msgid "EQ6 Cadwell Vision"
+msgstr "EQ6 Cadwell Vision"
+
+#: 162946485-0-14697
+msgctxt "162946485-0-14697"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
+
+#: 162946485-0-14696
+msgctxt "162946485-0-14696"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
+
+#: 162946485-0-14695
+msgctxt "162946485-0-14695"
+msgid "EQ5 - Search missing Piece"
+msgstr "EQ5 - Search missing Piece"
+
+#: 162946485-0-14694
+msgctxt "162946485-0-14694"
+msgid "Khasdas Keep"
+msgstr "カスダの砦"
+
+#: 162946485-0-14693
+msgctxt "162946485-0-14693"
+msgid "Khasdas Keep"
+msgstr "カスダの砦"
+
+#: 162946485-0-14692
+msgctxt "162946485-0-14692"
+msgid "Khasdas Keep"
+msgstr "カスダの砦"
+
+#: 162946485-0-14691
+msgctxt "162946485-0-14691"
+msgid "Khasdas Keep"
+msgstr "カスダの砦"
+
+#: 162946485-0-14690
+msgctxt "162946485-0-14690"
+msgid "Khasdas Keep"
+msgstr "カスダの砦"
+
+#: 162946485-0-14689
+msgctxt "162946485-0-14689"
+msgid "Khasdas Keep"
+msgstr "カスダの砦"
+
+#: 162946485-0-14688
+msgctxt "162946485-0-14688"
+msgid "Key Backup"
+msgstr "鍵のバックアップ"
+
+#: 162946485-0-14687
+msgctxt "162946485-0-14687"
+msgid "End"
+msgstr "End"
+
+#: 162946485-0-14686
+msgctxt "162946485-0-14686"
+msgid "EQ5 Zamarak Scar Follow"
+msgstr "EQ5 Zamarak Scar Follow"
+
+#: 162946485-0-14685
+msgctxt "162946485-0-14685"
+msgid "Follower Subzone"
+msgstr "Follower Subzone"
+
+#: 162946485-0-14684
+msgctxt "162946485-0-14684"
+msgid "ELS_map_Phoom01"
+msgstr "ELS_map_Phoom01"
+
+#: 162946485-0-14683
+msgctxt "162946485-0-14683"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 162946485-0-14682
+msgctxt "162946485-0-14682"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 162946485-0-14681
+msgctxt "162946485-0-14681"
+msgid "EQ5 Return Rimmen QZ Dismiss"
+msgstr "EQ5 Return Rimmen QZ Dismiss"
+
+#: 162946485-0-14680
+msgctxt "162946485-0-14680"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 162946485-0-14679
+msgctxt "162946485-0-14679"
+msgid "Rimmen Necropolis"
+msgstr "リンメン・ネクロポリス"
+
+#: 162946485-0-14678
+msgctxt "162946485-0-14678"
+msgid "Q6308 Free Thief"
+msgstr "Q6308 Free Thief"
+
+#: 162946485-0-14672
+msgctxt "162946485-0-14672"
+msgid "EQ5 Readable 13"
+msgstr "EQ5 Readable 13"
+
+#: 162946485-0-14671
+msgctxt "162946485-0-14671"
+msgid "EQ5 Readable 12"
+msgstr "EQ5 Readable 12"
+
+#: 162946485-0-14670
+msgctxt "162946485-0-14670"
+msgid "EQ5 Readable 11"
+msgstr "EQ5 Readable 11"
+
+#: 162946485-0-14669
+msgctxt "162946485-0-14669"
+msgid "EQ5 Readable 10"
+msgstr "EQ5 Readable 10"
+
+#: 162946485-0-14668
+msgctxt "162946485-0-14668"
+msgid "EQ5 Readable 9"
+msgstr "EQ5 Readable 9"
+
+#: 162946485-0-14667
+msgctxt "162946485-0-14667"
+msgid "EQ5 Readable 8"
+msgstr "EQ5 Readable 8"
+
+#: 162946485-0-14666
+msgctxt "162946485-0-14666"
+msgid "EQ5 Readable 7"
+msgstr "EQ5 Readable 7"
+
+#: 162946485-0-14664
+msgctxt "162946485-0-14664"
+msgid "Collect Sample Area"
+msgstr "サンプル収集エリア"
+
+#: 162946485-0-14660
+msgctxt "162946485-0-14660"
+msgid "ES-D2 Harpy Fly In"
+msgstr "ES-D2 Harpy Fly In"
+
+#: 162946485-0-14657
+msgctxt "162946485-0-14657"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-14656
+msgctxt "162946485-0-14656"
+msgid "TG1 Reject Theater ES"
+msgstr "TG1 Reject Theater ES"
+
+#: 162946485-0-14655
+msgctxt "162946485-0-14655"
+msgid "EQ5 Quintis DG Library Line"
+msgstr "EQ5 Quintis DG Library Line"
+
+#: 162946485-0-14654
+msgctxt "162946485-0-14654"
+msgid "Whistle Spot 3"
+msgstr "Whistle Spot 3"
+
+#: 162946485-0-14653
+msgctxt "162946485-0-14653"
+msgid "Whistle Spot 2"
+msgstr "Whistle Spot 2"
+
+#: 162946485-0-14652
+msgctxt "162946485-0-14652"
+msgid "Whistle Spot 1"
+msgstr "Whistle Spot 1"
+
+#: 162946485-0-14651
+msgctxt "162946485-0-14651"
+msgid "Outside Compound Entrance"
+msgstr "施設の入口外側"
+
+#: 162946485-0-14650
+msgctxt "162946485-0-14650"
+msgid "Compound Entrance"
+msgstr "施設の入口"
+
+#: 162946485-0-14649
+msgctxt "162946485-0-14649"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-14644
+msgctxt "162946485-0-14644"
+msgid "Temple Exterior"
+msgstr "聖堂の外側"
+
+#: 162946485-0-14642
+msgctxt "162946485-0-14642"
+msgid "Q6365 JakarnAndBossTalk"
+msgstr "Q6365 JakarnAndBossTalk"
+
+#: 162946485-0-14640
+msgctxt "162946485-0-14640"
+msgid "Q6324 Spawn CombatTutMajChild"
+msgstr "Q6324 Spawn CombatTutMajChild"
+
+#: 162946485-0-14639
+msgctxt "162946485-0-14639"
+msgid "Q6365 FriendJumpSubzone"
+msgstr "Q6365 FriendJumpSubzone"
+
+#: 162946485-0-14636
+msgctxt "162946485-0-14636"
+msgid "ES-D4 Subzone9"
+msgstr "ES-D4 Subzone9"
+
+#: 162946485-0-14635
+msgctxt "162946485-0-14635"
+msgid "EQ5 - Spawn Quintis Follower"
+msgstr "EQ5 - Spawn Quintis Follower"
+
+#: 162946485-0-14633
+msgctxt "162946485-0-14633"
+msgid "Q6365 SpawnJakarnAndFriend"
+msgstr "Q6365 SpawnJakarnAndFriend"
+
+#: 162946485-0-14626
+msgctxt "162946485-0-14626"
+msgid "EQ5 Readable 5"
+msgstr "EQ5 Readable 5"
+
+#: 162946485-0-14625
+msgctxt "162946485-0-14625"
+msgid "EQ5 Readable 4"
+msgstr "EQ5 Readable 4"
+
+#: 162946485-0-14624
+msgctxt "162946485-0-14624"
+msgid "EQ5 Readable 3"
+msgstr "EQ5 Readable 3"
+
+#: 162946485-0-14623
+msgctxt "162946485-0-14623"
+msgid "EQ5 Readable 2"
+msgstr "EQ5 Readable 2"
+
+#: 162946485-0-14622
+msgctxt "162946485-0-14622"
+msgid "EQ5 Readable 1"
+msgstr "EQ5 Readable 1"
+
+#: 162946485-0-14619
+msgctxt "162946485-0-14619"
+msgid "Q6365 CrateSpawn"
+msgstr "Q6365 CrateSpawn"
+
+#: 162946485-0-14618
+msgctxt "162946485-0-14618"
+msgid "The Sugar Bowl"
+msgstr "〈シュガーボウル〉"
+
+#: 162946485-0-14617
+#, fuzzy
+msgctxt "162946485-0-14617"
+msgid "Abode of Ignimony"
+msgstr "不名誉の家"
+
+#: 162946485-0-14616
+msgctxt "162946485-0-14616"
+msgid "ELS_Map_RiverholdInstance"
+msgstr "ELS_Map_RiverholdInstance"
+
+#: 162946485-0-14615
+msgctxt "162946485-0-14615"
+msgid "ELS_Map_DancingMoon02"
+msgstr "ELS_Map_DancingMoon02"
+
+#: 162946485-0-14614
+msgctxt "162946485-0-14614"
+msgid "ELS_Map_DancingMoon01"
+msgstr "ELS_Map_DancingMoon01"
+
+#: 162946485-0-14613
+msgctxt "162946485-0-14613"
+msgid "Lotus Place"
+msgstr "蓮の宮殿"
+
+#: 162946485-0-14612
+msgctxt "162946485-0-14612"
+msgid "ES-D4 Subzone2"
+msgstr "ES-D4 Subzone2"
+
+#: 162946485-0-14611
+msgctxt "162946485-0-14611"
+msgid "Q6275 End Theater"
+msgstr "Q6275 End Theater"
+
+#: 162946485-0-14610
+msgctxt "162946485-0-14610"
+msgid "ES-D4 Subzone1"
+msgstr "ES-D4 Subzone1"
+
+#: 162946485-0-14606
+msgctxt "162946485-0-14606"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14605
+msgctxt "162946485-0-14605"
+msgid "Town Hall First Floor"
+msgstr "タウンホール一階"
+
+#: 162946485-0-14604
+msgctxt "162946485-0-14604"
+msgid "Distract Guard Zone"
+msgstr "Distract Guard Zone"
+
+#: 162946485-0-14603
+msgctxt "162946485-0-14603"
+msgid "Q6323 VastCommentAK1"
+msgstr "Q6323 VastCommentAK1"
+
+#: 162946485-0-14602
+msgctxt "162946485-0-14602"
+msgid "EQ5 - Quintis Meeting"
+msgstr "EQ5 - Quintis Meeting"
+
+#: 162946485-0-14601
+msgctxt "162946485-0-14601"
+msgid "CRAFT-SpawnsHarvestNodes-ES"
+msgstr "CRAFT-SpawnsHarvestNodes-ES"
+
+#: 162946485-0-14600
+msgctxt "162946485-0-14600"
+msgid "Temple"
+msgstr "聖堂"
+
+#: 162946485-0-14599
+msgctxt "162946485-0-14599"
+msgid "Temple"
+msgstr "聖堂"
+
+#: 162946485-0-14598
+msgctxt "162946485-0-14598"
+msgid "Tomb Chamber"
+msgstr "墳墓の部屋"
+
+#: 162946485-0-14594
+msgctxt "162946485-0-14594"
+msgid "Q6322 TempleFirstRoom"
+msgstr "Q6322 TempleFirstRoom"
+
+#: 162946485-0-14593
+msgctxt "162946485-0-14593"
+msgid "EQ7 - Enter Final Battle"
+msgstr "EQ7 - Enter Final Battle"
+
+#: 162946485-0-14590
+msgctxt "162946485-0-14590"
+msgid "EQ7 - KaalMul Shout2"
+msgstr "EQ7 - KaalMul Shout2"
+
+#: 162946485-0-14584
+msgctxt "162946485-0-14584"
+msgid "SS_Kill11_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill11_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14583
+msgctxt "162946485-0-14583"
+msgid "SS_Kill10_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill10_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14582
+msgctxt "162946485-0-14582"
+msgid "SS_Kill09_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill09_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14581
+msgctxt "162946485-0-14581"
+msgid "SS_Kill08_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill08_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14580
+msgctxt "162946485-0-14580"
+msgid "SS_Kill07_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill07_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14577
+msgctxt "162946485-0-14577"
+msgid "Resting Chamber"
+msgstr "休憩室"
+
+#: 162946485-0-14576
+msgctxt "162946485-0-14576"
+msgid "EQ1 BackupScoutSpawn"
+msgstr "EQ1 BackupScoutSpawn"
+
+#: 162946485-0-14575
+msgctxt "162946485-0-14575"
+msgid "SS_Kill05_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill05_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14571
+msgctxt "162946485-0-14571"
+msgid "Escape"
+msgstr "脱出"
+
+#: 162946485-0-14570
+msgctxt "162946485-0-14570"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 162946485-0-14567
+msgctxt "162946485-0-14567"
+msgid "Secret Chamber Backup"
+msgstr "隠し部屋のバックアップ"
+
+#: 162946485-0-14566
+msgctxt "162946485-0-14566"
+msgid "Hakoshae Tombs Maps"
+msgstr "ハコシャエの墳墓の地図"
+
+#: 162946485-0-14565
+msgctxt "162946485-0-14565"
+msgid "SS_Kill04_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill04_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14564
+msgctxt "162946485-0-14564"
+msgid "SS_Kill03_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill03_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14563
+msgctxt "162946485-0-14563"
+msgid "SS_Kill02_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill02_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14562
+msgctxt "162946485-0-14562"
+msgid "SS_Kill01_KILLKILLKILLKILLKILL"
+msgstr "SS_Kill01_KILLKILLKILLKILLKILL"
+
+#: 162946485-0-14561
+msgctxt "162946485-0-14561"
+msgid "Q6308 Mage Subzone"
+msgstr "Q6308 Mage Subzone"
+
+#: 162946485-0-14558
+msgctxt "162946485-0-14558"
+msgid "Hakoshae Theater Backup"
+msgstr "ハコシャエのシアターバックアップ"
+
+#: 162946485-0-14557
+msgctxt "162946485-0-14557"
+msgid "End"
+msgstr "End"
+
+#: 162946485-0-14556
+msgctxt "162946485-0-14556"
+msgid "End"
+msgstr "End"
+
+#: 162946485-0-14554
+msgctxt "162946485-0-14554"
+msgid "EQ7 - Stage 2 Inst GettingNear"
+msgstr "EQ7 - Stage 2 Inst GettingNear"
+
+#: 162946485-0-14553
+msgctxt "162946485-0-14553"
+msgid "Tsazii's House"
+msgstr "ツァジーの家"
+
+#: 162946485-0-14549
+msgctxt "162946485-0-14549"
+msgid "EQ7 - Stage1 Hostile SZ1"
+msgstr "EQ7 - Stage1 Hostile SZ1"
+
+#: 162946485-0-14544
+msgctxt "162946485-0-14544"
+msgid "Outside Rakazsa's Chamber"
+msgstr "ラカズサの部屋の外"
+
+#: 162946485-0-14543
+msgctxt "162946485-0-14543"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14541
+msgctxt "162946485-0-14541"
+msgid "MAP_ELS_RimmenPalaceInterior"
+msgstr "MAP_ELS_RimmenPalaceInterior"
+
+#: 162946485-0-14539
+msgctxt "162946485-0-14539"
+msgid "Search Crypts"
+msgstr "墓地を捜索する"
+
+#: 162946485-0-14538
+msgctxt "162946485-0-14538"
+msgid "Q6324 Sprint Tutorial"
+msgstr "Q6324 Sprint Tutorial"
+
+#: 162946485-0-14537
+msgctxt "162946485-0-14537"
+msgid "Perspective"
+msgstr "視点"
+
+#: 162946485-0-14536
+msgctxt "162946485-0-14536"
+msgid "Smugglers Cove"
+msgstr "密売人の洞窟"
+
+#: 162946485-0-14535
+msgctxt "162946485-0-14535"
+msgid "Smugglers Cove"
+msgstr "密売人の洞窟"
+
+#: 162946485-0-14534
+msgctxt "162946485-0-14534"
+msgid "Smugglers Cove"
+msgstr "密売人の洞窟"
+
+#: 162946485-0-14533
+msgctxt "162946485-0-14533"
+msgid "Theater"
+msgstr "シアター"
+
+#: 162946485-0-14532
+msgctxt "162946485-0-14532"
+msgid "Theater"
+msgstr "シアター"
+
+#: 162946485-0-14531
+msgctxt "162946485-0-14531"
+msgid "Theater"
+msgstr "シアター"
+
+#: 162946485-0-14530
+msgctxt "162946485-0-14530"
+msgid "Theater"
+msgstr "シアター"
+
+#: 162946485-0-14526
+msgctxt "162946485-0-14526"
+msgid "Q6308 Storage Room"
+msgstr "Q6308 Storage Room"
+
+#: 162946485-0-14525
+msgctxt "162946485-0-14525"
+msgid "Smuggler Cove"
+msgstr "密売人の洞窟"
+
+#: 162946485-0-14521
+msgctxt "162946485-0-14521"
+msgid "Q6308 Listen Mage Fail Forward"
+msgstr "Q6308 Listen Mage Fail Forward"
+
+#: 162946485-0-14520
+msgctxt "162946485-0-14520"
+msgid "Marked Barrel"
+msgstr "印のついた樽"
+
+#: 162946485-0-14518
+msgctxt "162946485-0-14518"
+msgid "Q6311 Riverhold River"
+msgstr "Q6311 Riverhold River"
+
+#: 162946485-0-14517
+msgctxt "162946485-0-14517"
+msgid "Q6308 Dungeon Door 3"
+msgstr "Q6308 Dungeon Door 3"
+
+#: 162946485-0-14516
+msgctxt "162946485-0-14516"
+msgid "Q6308 Dungeon Door 2"
+msgstr "Q6308 Dungeon Door 2"
+
+#: 162946485-0-14515
+msgctxt "162946485-0-14515"
+msgid "Q6308 Dungeon Door 1"
+msgstr "Q6308 Dungeon Door 1"
+
+#: 162946485-0-14514
+msgctxt "162946485-0-14514"
+msgid "Tajirri's House"
+msgstr "タジッリの家"
+
+#: 162946485-0-14513
+msgctxt "162946485-0-14513"
+msgid "Riverhold Inn"
+msgstr "リバーホールド宿屋"
+
+#: 162946485-0-14511
+msgctxt "162946485-0-14511"
+msgid "EQ6 - Khamia Follower"
+msgstr "EQ6 - Khamia Follower"
+
+#: 162946485-0-14508
+msgctxt "162946485-0-14508"
+msgid "Melliriel Hangout"
+msgstr "メリリエルのたまり場"
+
+#: 162946485-0-14507
+msgctxt "162946485-0-14507"
+msgid "Old Cicatrice"
+msgstr "オールド・シカトリス"
+
+#: 162946485-0-14506
+msgctxt "162946485-0-14506"
+msgid "Sugar-Slinger's Den"
+msgstr "砂糖を投げる者の拠点"
+
+#: 162946485-0-14505
+msgctxt "162946485-0-14505"
+msgid "Rescue 3"
+msgstr "Rescue 3"
+
+#: 162946485-0-14504
+msgctxt "162946485-0-14504"
+msgid "Rescue 2"
+msgstr "Rescue 2"
+
+#: 162946485-0-14503
+msgctxt "162946485-0-14503"
+msgid "Rescue 1"
+msgstr "Rescue 1"
+
+#: 162946485-0-14498
+msgctxt "162946485-0-14498"
+msgid "Castle Rimmen"
+msgstr "リンメン城"
+
+#: 162946485-0-14494
+msgctxt "162946485-0-14494"
+msgid "Foyer"
+msgstr "休憩室"
+
+#: 162946485-0-14492
+msgctxt "162946485-0-14492"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14491
+msgctxt "162946485-0-14491"
+msgid "Leash Boss Encounter"
+msgstr "Leash Boss Encounter"
+
+#: 162946485-0-14490
+msgctxt "162946485-0-14490"
+msgid "Boss Room"
+msgstr "Boss Room"
+
+#: 162946485-0-14487
+msgctxt "162946485-0-14487"
+msgid "Boss Room"
+msgstr "Boss Room"
+
+#: 162946485-0-14486
+msgctxt "162946485-0-14486"
+msgid "Boss Room"
+msgstr "Boss Room"
+
+#: 162946485-0-14485
+msgctxt "162946485-0-14485"
+msgid "Theater Trigger"
+msgstr "シアタートリガー"
+
+#: 162946485-0-14482
+msgctxt "162946485-0-14482"
+msgid "Deathless Achievement"
+msgstr "非死亡実績"
+
+#: 162946485-0-14481
+msgctxt "162946485-0-14481"
+msgid "Sunspire"
+msgstr "サンスパイア"
+
+#: 162946485-0-14480
+msgctxt "162946485-0-14480"
+msgid "Theater Trigger"
+msgstr "シアタートリガー"
+
+#: 162946485-0-14476
+msgctxt "162946485-0-14476"
+msgid "Theater Trigger"
+msgstr "シアタートリガー"
+
+#: 162946485-0-14475
+msgctxt "162946485-0-14475"
+msgid "Sunspire Temple Exterior"
+msgstr "サンスパイア聖堂の外側"
+
+#: 162946485-0-14436
+msgctxt "162946485-0-14436"
+msgid "EQ6 - Phoom Battle SZ"
+msgstr "EQ6 - Phoom Battle SZ"
+
+#: 162946485-0-14435
+msgctxt "162946485-0-14435"
+msgid "Q6325 Rich Farm Int"
+msgstr "Q6325 Rich Farm Int"
+
+#: 162946485-0-14434
+msgctxt "162946485-0-14434"
+msgid "The Kingdoms Exhibit"
+msgstr "王国の展示"
+
+#: 162946485-0-14426
+msgctxt "162946485-0-14426"
+msgid "Corridor"
+msgstr "通路"
+
+#: 162946485-0-14425
+msgctxt "162946485-0-14425"
+msgid "Throne Room Entrance"
+msgstr "玉座の間入口"
+
+#: 162946485-0-14424
+msgctxt "162946485-0-14424"
+msgid "Exterior Instance"
+msgstr "外側インスタンス"
+
+#: 162946485-0-14423
+msgctxt "162946485-0-14423"
+msgid "Portico"
+msgstr "ポルチコ"
+
+#: 162946485-0-14422
+msgctxt "162946485-0-14422"
+msgid "Royal Rooms"
+msgstr "王家の部屋"
+
+#: 162946485-0-14421
+msgctxt "162946485-0-14421"
+msgid "EQ5 - MazeRoom1"
+msgstr "EQ5 - MazeRoom1"
+
+#: 162946485-0-14420
+msgctxt "162946485-0-14420"
+msgid "Great Hall"
+msgstr "大広間"
+
+#: 162946485-0-14417
+msgctxt "162946485-0-14417"
+msgid "Moon Chapel"
+msgstr "月の礼拝堂"
+
+#: 162946485-0-14416
+msgctxt "162946485-0-14416"
+msgid "Sewer Exterior"
+msgstr "下水道出口"
+
+#: 162946485-0-14414
+msgctxt "162946485-0-14414"
+msgid "EQ2 FoundImperialBoss"
+msgstr "EQ2 FoundImperialBoss"
+
+#: 162946485-0-14413
+msgctxt "162946485-0-14413"
+msgid "EQ2 MartialArtistHoldDoor"
+msgstr "EQ2 MartialArtistHoldDoor"
+
+#: 162946485-0-14412
+msgctxt "162946485-0-14412"
+msgid "Dragon Boss Room"
+msgstr "Dragon Boss Room"
+
+#: 162946485-0-14411
+msgctxt "162946485-0-14411"
+msgid "EQ2 DesertWindUnderground"
+msgstr "EQ2 DesertWindUnderground"
+
+#: 162946485-0-14410
+msgctxt "162946485-0-14410"
+msgid "EQ2 ReachedSewerExit"
+msgstr "EQ2 ReachedSewerExit"
+
+#: 162946485-0-14409
+msgctxt "162946485-0-14409"
+msgid "Rimmen Castle Crypts"
+msgstr "リンメン城の墓地"
+
+#: 162946485-0-14408
+msgctxt "162946485-0-14408"
+msgid "EQ2 TharnFollowerSewers"
+msgstr "EQ2 TharnFollowerSewers"
+
+#: 162946485-0-14406
+msgctxt "162946485-0-14406"
+msgid "EQ2 EuraxiaThroneAmbush"
+msgstr "EQ2 EuraxiaThroneAmbush"
+
+#: 162946485-0-14405
+msgctxt "162946485-0-14405"
+msgid "Rimmen Castle Crypt Entry"
+msgstr "リンメン城の墓地入口"
+
+#: 162946485-0-14404
+msgctxt "162946485-0-14404"
+msgid "Miniboss Room"
+msgstr "Miniboss Room"
+
+#: 162946485-0-14402
+msgctxt "162946485-0-14402"
+msgid "Caravan Theater Req"
+msgstr "隊商シアターが必要"
+
+#: 162946485-0-14395
+msgctxt "162946485-0-14395"
+msgid "EQ EuraxiasPalaceInterior"
+msgstr "EQ EuraxiasPalaceInterior"
+
+#: 162946485-0-14394
+msgctxt "162946485-0-14394"
+msgid "Cicatrice Oasis"
+msgstr "シカトリス・オアシス"
+
+#: 162946485-0-14392
+msgctxt "162946485-0-14392"
+msgid "Weeping Scar"
+msgstr "嘆きの傷"
+
+#: 162946485-0-14391
+msgctxt "162946485-0-14391"
+msgid "North Bastion"
+msgstr "北砦"
+
+#: 162946485-0-14388
+msgctxt "162946485-0-14388"
+msgid "Map"
+msgstr "地図"
+
+#: 162946485-0-14387
+msgctxt "162946485-0-14387"
+msgid "Sneak Attack"
+msgstr "不意打ち"
+
+#: 162946485-0-14386
+msgctxt "162946485-0-14386"
+msgid "Sneak"
+msgstr "隠密"
+
+#: 162946485-0-14385
+msgctxt "162946485-0-14385"
+msgid "Old Ruins Pillar"
+msgstr "古い遺跡の柱"
+
+#: 162946485-0-14384
+msgctxt "162946485-0-14384"
+msgid "EQ2 TharnEscortRimmen"
+msgstr "EQ2 TharnEscortRimmen"
+
+#: 162946485-0-14383
+msgctxt "162946485-0-14383"
+msgid "Q6303 Caves 2"
+msgstr "Q6303 Caves 2"
+
+#: 162946485-0-14381
+msgctxt "162946485-0-14381"
+msgid "EQ1 SpawnCadwellPostGharish"
+msgstr "EQ1 SpawnCadwellPostGharish"
+
+#: 162946485-0-14380
+msgctxt "162946485-0-14380"
+msgid "Q6303 Confrontation"
+msgstr "Q6303 Confrontation"
+
+#: 162946485-0-14379
+msgctxt "162946485-0-14379"
+msgid "Q6308 Silhu Posture"
+msgstr "Q6308 Silhu Posture"
+
+#: 162946485-0-14378
+msgctxt "162946485-0-14378"
+msgid "Q6303 Follow Stranger 2 Sub"
+msgstr "Q6303 Follow Stranger 2 Sub"
+
+#: 162946485-0-14376
+msgctxt "162946485-0-14376"
+msgid "Q6080 UseQuestItem3"
+msgstr "Q6080 UseQuestItem3"
+
+#: 162946485-0-14375
+msgctxt "162946485-0-14375"
+msgid "Q6080 UseQuestItem2-Cottage"
+msgstr "Q6080 UseQuestItem2-Cottage"
+
+#: 162946485-0-14374
+msgctxt "162946485-0-14374"
+msgid "Q6080 UseQuestItem1-Gate"
+msgstr "Q6080 UseQuestItem1-Gate"
+
+#: 162946485-0-14372
+msgctxt "162946485-0-14372"
+msgid "Riverhold Instance"
+msgstr "リバーホールド・インスタンス"
+
+#: 162946485-0-14371
+msgctxt "162946485-0-14371"
+msgid "EQ1 DespawnDragonandCaptain"
+msgstr "EQ1 DespawnDragonandCaptain"
+
+#: 162946485-0-14370
+msgctxt "162946485-0-14370"
+msgid "EQ1 StunPlayerSpawnDragon"
+msgstr "EQ1 StunPlayerSpawnDragon"
+
+#: 162946485-0-14368
+msgctxt "162946485-0-14368"
+msgid "EQ1 SpawnNecroBoss"
+msgstr "EQ1 SpawnNecroBoss"
+
+#: 162946485-0-14367
+msgctxt "162946485-0-14367"
+msgid "EQ1 SpawnNecroBoss"
+msgstr "EQ1 SpawnNecroBoss"
+
+#: 162946485-0-14366
+msgctxt "162946485-0-14366"
+msgid "EQ1 SpawnNecroBoss"
+msgstr "EQ1 SpawnNecroBoss"
+
+#: 162946485-0-14365
+msgctxt "162946485-0-14365"
+msgid "EQ1 ReachedNecroBoss"
+msgstr "EQ1 ReachedNecroBoss"
+
+#: 162946485-0-14364
+msgctxt "162946485-0-14364"
+msgid "EQ1 SpawnCaptainAtBoss"
+msgstr "EQ1 SpawnCaptainAtBoss"
+
+#: 162946485-0-14363
+msgctxt "162946485-0-14363"
+msgid "IEQ1 SpawnBridge02Hostiles"
+msgstr "IEQ1 SpawnBridge02Hostiles"
+
+#: 162946485-0-14362
+msgctxt "162946485-0-14362"
+msgid "IEQ1 SpawnBridge02Hostiles"
+msgstr "IEQ1 SpawnBridge02Hostiles"
+
+#: 162946485-0-14361
+msgctxt "162946485-0-14361"
+msgid "Tutorial Start"
+msgstr "チュートリアル開始"
+
+#: 162946485-0-14360
+msgctxt "162946485-0-14360"
+msgid "Q6303 Find Missing Monk 1"
+msgstr "Q6303 Find Missing Monk 1"
+
+#: 162946485-0-14359
+msgctxt "162946485-0-14359"
+msgid "Q6303 Find Missing Monk 0"
+msgstr "Q6303 Find Missing Monk 0"
+
+#: 162946485-0-14358
+msgctxt "162946485-0-14358"
+msgid "IEQ1 SpawnBridge01Hostiles"
+msgstr "IEQ1 SpawnBridge01Hostiles"
+
+#: 162946485-0-14357
+msgctxt "162946485-0-14357"
+msgid "IEQ1 SpawnBridge01Hostiles"
+msgstr "IEQ1 SpawnBridge01Hostiles"
+
+#: 162946485-0-14356
+msgctxt "162946485-0-14356"
+msgid "Farmstead"
+msgstr "農場"
+
+#: 162946485-0-14355
+msgctxt "162946485-0-14355"
+msgid "EQ1 EnteredLair"
+msgstr "EQ1 EnteredLair"
+
+#: 162946485-0-14354
+msgctxt "162946485-0-14354"
+msgid "Anchor Spotted"
+msgstr "見つけたアンカー"
+
+#: 162946485-0-14353
+msgctxt "162946485-0-14353"
+msgid "Temple Basement"
+msgstr "聖堂の地下室"
+
+#: 162946485-0-14352
+msgctxt "162946485-0-14352"
+msgid "EQ5 - SeeBigTrapMaze"
+msgstr "EQ5 - SeeBigTrapMaze"
+
+#: 162946485-0-14351
+msgctxt "162946485-0-14351"
+msgid "EQ5 - SeeDeadBodiesTraps"
+msgstr "EQ5 - SeeDeadBodiesTraps"
+
+#: 162946485-0-14350
+msgctxt "162946485-0-14350"
+msgid "Temple Entrance"
+msgstr "聖堂の入口"
+
+#: 162946485-0-14349
+msgctxt "162946485-0-14349"
+msgid "EQ1 KDLCampTharnVsDragon"
+msgstr "EQ1 KDLCampTharnVsDragon"
+
+#: 162946485-0-14348
+msgctxt "162946485-0-14348"
+msgid "EQ1 CadwellsGrave"
+msgstr "EQ1 CadwellsGrave"
+
+#: 162946485-0-14347
+msgctxt "162946485-0-14347"
+msgid "Temple Steps"
+msgstr "聖堂の段差"
+
+#: 162946485-0-14343
+msgctxt "162946485-0-14343"
+msgid "Hakoshae Wayshrine"
+msgstr "ハコシャエの旅の祠"
+
+#: 162946485-0-14342
+msgctxt "162946485-0-14342"
+msgid "Tenmar Temple Wayshrine"
+msgstr "テンマール聖堂の旅の祠"
+
+#: 162946485-0-14341
+msgctxt "162946485-0-14341"
+msgid "Star Haven Wayshrine"
+msgstr "スターヘヴンの旅の祠"
+
+#: 162946485-0-14340
+msgctxt "162946485-0-14340"
+msgid "Scar's End Wayshrine"
+msgstr "スカーズエンドの旅の祠"
+
+#: 162946485-0-14339
+msgctxt "162946485-0-14339"
+msgid "The Stitches Wayshrine"
+msgstr "ステッチズの旅の祠"
+
+#: 162946485-0-14338
+msgctxt "162946485-0-14338"
+msgid "Riverhold Wayshrine"
+msgstr "リバーホールドの旅の祠"
+
+#: 162946485-0-14337
+msgctxt "162946485-0-14337"
+msgid "Rimmen Wayshrine"
+msgstr "リンメンの旅の祠"
+
+#: 162946485-0-14336
+msgctxt "162946485-0-14336"
+msgid "Sleepy Senche Mine"
+msgstr "眠そうなセンチ鉱山"
+
+#: 162946485-0-14335
+msgctxt "162946485-0-14335"
+msgid "Valenwood Gate"
+msgstr "ヴァレンウッド門"
+
+#: 162946485-0-14334
+msgctxt "162946485-0-14334"
+msgid "Moon Gate of Anequina"
+msgstr "アネクイナの月の門"
+
+#: 162946485-0-14333
+msgctxt "162946485-0-14333"
+msgid "Sandswirl Manor"
+msgstr "砂の渦の邸宅"
+
+#: 162946485-0-14332
+msgctxt "162946485-0-14332"
+msgid "Star Haven Adeptorium"
+msgstr "スターヘヴン僧房"
+
+#: 162946485-0-14331
+msgctxt "162946485-0-14331"
+msgid "Desert Wind Adeptorium"
+msgstr "砂漠の風の僧房"
+
+#: 162946485-0-14330
+msgctxt "162946485-0-14330"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 162946485-0-14327
+msgctxt "162946485-0-14327"
+msgid "The Tangle"
+msgstr "タングル"
+
+#: 162946485-0-14326
+msgctxt "162946485-0-14326"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 162946485-0-14325
+msgctxt "162946485-0-14325"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
+
+#: 162946485-0-14324
+msgctxt "162946485-0-14324"
+msgid "Abode of Ignominy"
+msgstr "不名誉の家"
+
+#: 162946485-0-14323
+msgctxt "162946485-0-14323"
+msgid "Tomb of the Serpents"
+msgstr "大蛇の墳墓"
+
+#: 162946485-0-14322
+msgctxt "162946485-0-14322"
+msgid "Hakoshae"
+msgstr "ハコシャエ"
+
+#: 162946485-0-14321
+msgctxt "162946485-0-14321"
+msgid "Anequina Aqueduct"
+msgstr "アネクイナ水道"
+
+#: 162946485-0-14320
+msgctxt "162946485-0-14320"
+msgid "Cicatrice"
+msgstr "シカトリス"
+
+#: 162946485-0-14319
+msgctxt "162946485-0-14319"
+msgid "Weeping Scar"
+msgstr "嘆きの傷"
+
+#: 162946485-0-14318
+msgctxt "162946485-0-14318"
+msgid "Rimmen"
+msgstr "リンメン"
+
+#: 162946485-0-14317
+msgctxt "162946485-0-14317"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-14316
+msgctxt "162946485-0-14316"
+msgid "Ashen Scar"
+msgstr "アッシェン・スカー"
+
+#: 162946485-0-14315
+msgctxt "162946485-0-14315"
+msgid "The Prowl"
+msgstr "プロウル"
+
+#: 162946485-0-14314
+msgctxt "162946485-0-14314"
+msgid "Two Moons at Tenmar"
+msgstr "テンマールの双子月"
+
+#: 162946485-0-14313
+msgctxt "162946485-0-14313"
+msgid "Merryvale Farms"
+msgstr "メイアヴェイル農園"
+
+#: 162946485-0-14312
+msgctxt "162946485-0-14312"
+msgid "Q6323 GY2"
+msgstr "Q6323 GY2"
+
+#: 162946485-0-14309
+msgctxt "162946485-0-14309"
+msgid "The Ashen Scar"
+msgstr "アッシェン・スカー"
+
+#: 162946485-0-14308
+msgctxt "162946485-0-14308"
+msgid "Q6325 Raz MeetUp"
+msgstr "Q6325 Raz MeetUp"
+
+#: 162946485-0-14307
+msgctxt "162946485-0-14307"
+msgid "Q6325 Caves"
+msgstr "Q6325 Caves"
+
+#: 162946485-0-14306
+msgctxt "162946485-0-14306"
+msgid "EQ5 - Quintis Fortress"
+msgstr "EQ5 - Quintis Fortress"
+
+#: 162946485-0-14305
+msgctxt "162946485-0-14305"
+msgid "Q6325 Raz Basement"
+msgstr "Q6325 Raz Basement"
+
+#: 162946485-0-14299
+msgctxt "162946485-0-14299"
+msgid "Q6325 Rich Farm Ext"
+msgstr "Q6325 Rich Farm Ext"
+
+#: 162946485-0-14298
+msgctxt "162946485-0-14298"
+msgid "Temple of the Hidden Moon"
+msgstr "隠された月の聖堂"
+
+#: 162946485-0-14294
+msgctxt "162946485-0-14294"
+msgid "MAP_ELS_RimmenCity"
+msgstr "MAP_ELS_RimmenCity"
+
+#: 162946485-0-14293
+msgctxt "162946485-0-14293"
+msgid "MAP_ELS_RimmenOutlawsRefuge"
+msgstr "MAP_ELS_RimmenOutlawsRefuge"
+
+#: 162946485-0-14291
+msgctxt "162946485-0-14291"
+msgid "Reflection of Madness"
+msgstr "狂乱の反映"
+
+#: 162946485-0-14287
+msgctxt "162946485-0-14287"
+msgid "Monks at Steps"
+msgstr "段差のモンク"
+
+#: 162946485-0-14285
+msgctxt "162946485-0-14285"
+msgid "MAP_ELS_RimmenCastle_Crypt"
+msgstr "MAP_ELS_RimmenCastle_Crypt"
+
+#: 162946485-0-14284
+msgctxt "162946485-0-14284"
+msgid "MAP_ELS_RimmenCastle_Sewer"
+msgstr "MAP_ELS_RimmenCastle_Sewer"
+
+#: 162946485-0-14281
+msgctxt "162946485-0-14281"
+msgid "Rakazsa Chamber"
+msgstr "ラカズサの部屋"
+
+#: 162946485-0-14271
+msgctxt "162946485-0-14271"
+msgid "Caravan Location"
+msgstr "隊商の場所"
+
+#: 162946485-0-14270
+msgctxt "162946485-0-14270"
+msgid "Q6308 Find Thief Theater"
+msgstr "Q6308 Find Thief Theater"
+
+#: 162946485-0-14269
+msgctxt "162946485-0-14269"
+msgid "Q6308 Leader Camp"
+msgstr "Q6308 Leader Camp"
+
+#: 162946485-0-14268
+msgctxt "162946485-0-14268"
+msgid "Q6308 Tavern Ext"
+msgstr "Q6308 Tavern Ext"
+
+#: 162946485-0-14267
+msgctxt "162946485-0-14267"
+msgid "Q6308 Khasdas Office"
+msgstr "Q6308 Khasdas Office"
+
+#: 162946485-0-14266
+msgctxt "162946485-0-14266"
+msgid "Riverhold Exterior"
+msgstr "リバーホールドの外側"
+
+#: 162946485-0-14265
+msgctxt "162946485-0-14265"
+msgid "Burtle Spawn 2"
+msgstr "バートルスポーン 2"
+
+#: 162946485-0-14264
+msgctxt "162946485-0-14264"
+msgid "Burtle Subzone"
+msgstr "バートルのサブゾーン"
+
+#: 162946485-0-14263
+msgctxt "162946485-0-14263"
+msgid "Riverhold Exterior"
+msgstr "リバーホールドの外側"
+
+#: 162946485-0-14262
+msgctxt "162946485-0-14262"
+msgid "Q6308 Fort Keep"
+msgstr "Q6308 Fort Keep"
+
+#: 162946485-0-14260
+msgctxt "162946485-0-14260"
+msgid "Two Moons Temple"
+msgstr "双子月の聖堂"
+
+#: 162946485-0-14259
+msgctxt "162946485-0-14259"
+msgid "Q6308 Fort Courtyard"
+msgstr "Q6308 Fort Courtyard"
+
+#: 162946485-0-14258
+msgctxt "162946485-0-14258"
+msgid "Q6308 Enter Fort"
+msgstr "Q6308 Enter Fort"
+
+#: 162946485-0-14257
+msgctxt "162946485-0-14257"
+msgid "Mizzik Follow Zone"
+msgstr "Mizzik Follow Zone"
+
+#: 162946485-0-14256
+msgctxt "162946485-0-14256"
+msgid "Smugglers Camp"
+msgstr "密売人の野営地"
+
+#: 162946485-0-14254
+msgctxt "162946485-0-14254"
+msgid "Unfinished Shrine"
+msgstr "未完成の祠"
+
+#: 162946485-0-14253
+msgctxt "162946485-0-14253"
+msgid "Tomb Chamber"
+msgstr "墳墓の部屋"
+
+#: 162946485-0-14252
+msgctxt "162946485-0-14252"
+msgid "The Stitches"
+msgstr "ステッチズ"
+
+#: 162946485-0-14251
+msgctxt "162946485-0-14251"
+msgid "Tomb Guardian"
+msgstr "墳墓のガーディアン"
+
+#: 162946485-0-14250
+msgctxt "162946485-0-14250"
+msgid "Akaviri Tomb"
+msgstr "アカヴィリの墳墓"
+
+#: 162946485-0-14249
+msgctxt "162946485-0-14249"
+msgid "Tomb Entrance"
+msgstr "墳墓の入口"
+
+#: 162946485-0-14248
+msgctxt "162946485-0-14248"
+msgid "Q6308 Junkshop Int"
+msgstr "Q6308 Junkshop Int"
+
+#: 162946485-0-14247
+msgctxt "162946485-0-14247"
+msgid "Q6308 Junkshop"
+msgstr "Q6308 Junkshop"
+
+#: 162946485-0-14244
+msgctxt "162946485-0-14244"
+msgid "Secret Chamber"
+msgstr "隠し部屋"
+
+#: 162946485-0-14241
+msgctxt "162946485-0-14241"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 162946485-0-14239
+msgctxt "162946485-0-14239"
+msgid "Manor Basement"
+msgstr "邸宅の地下室"
+
+#: 162946485-0-14235
+msgctxt "162946485-0-14235"
+msgid "Hunting Camp"
+msgstr "狩りの野営地"
+
+#: 162946485-0-14228
+msgctxt "162946485-0-14228"
+msgid "Phoom's Lair"
+msgstr "フームの拠点"
+
+#: 162946485-0-14226
+msgctxt "162946485-0-14226"
+msgid "Castle Entrance"
+msgstr "城の入口"
+
+#: 162946485-0-14225
+msgctxt "162946485-0-14225"
+msgid "Graves"
+msgstr "墓"
+
+#: 162946485-0-14221
+msgctxt "162946485-0-14221"
+msgid "Rimmen Castle Sewers"
+msgstr "リンメン城下水道"
+
+#: 162946485-0-14220
+msgctxt "162946485-0-14220"
+msgid "Catapault Area 1"
+msgstr "Catapault Area 1"
+
+#: 162946485-0-14212
+msgctxt "162946485-0-14212"
+msgid "RimmenEncampment"
+msgstr "RimmenEncampment"
+
+#: 162946485-0-14207
+msgctxt "162946485-0-14207"
+msgid "Poacher Chamber"
+msgstr "密猟者の部屋"
+
+#: 162946485-0-14197
+msgctxt "162946485-0-14197"
+msgid "Q6303 Ban Daar Litter"
+msgstr "Q6303 Ban Daar Litter"
+
+#: 162946485-0-14196
+msgctxt "162946485-0-14196"
+msgid "Shrine"
+msgstr "祠"
+
+#: 162946485-0-14194
+msgctxt "162946485-0-14194"
+msgid "Laboratory"
+msgstr "研究所"
+
+#: 162946485-0-14189
+msgctxt "162946485-0-14189"
+msgid "Oasis Cave"
+msgstr "オアシスの洞窟"
+
+#: 162946485-0-14187
+msgctxt "162946485-0-14187"
+msgid "Q6303 Span 2"
+msgstr "Q6303 Span 2"
+
+#: 162946485-0-14186
+msgctxt "162946485-0-14186"
+msgid "Q6303 Span 2"
+msgstr "Q6303 Span 2"
+
+#: 162946485-0-14185
+msgctxt "162946485-0-14185"
+msgid "Q6303 Span 2"
+msgstr "Q6303 Span 2"
+
+#: 162946485-0-14184
+msgctxt "162946485-0-14184"
+msgid "Q6303 Span 1"
+msgstr "Q6303 Span 1"
+
+#: 162946485-0-14183
+msgctxt "162946485-0-14183"
+msgid "Dov-Vahl Hall"
+msgstr "ドヴ・ヴァールの間"
+
+#: 162946485-0-14180
+msgctxt "162946485-0-14180"
+msgid "Captive"
+msgstr "捕虜"
+
+#: 162946485-0-14173
+msgctxt "162946485-0-14173"
+msgid "Pillar 1"
+msgstr "Pillar 1"
+
+#: 162946485-0-14169
+msgctxt "162946485-0-14169"
+msgid "Main Gate Area"
+msgstr "正門エリア"
+
+#: 162946485-0-14163
+msgctxt "162946485-0-14163"
+msgid "North Supply Camp"
+msgstr "北の物資の集積地"
+
+#: 162946485-0-14161
+msgctxt "162946485-0-14161"
+msgid "Loot Wagon 1"
+msgstr "Loot Wagon 1"
+
+#: 162946485-0-14155
+msgctxt "162946485-0-14155"
+msgid "Riverhold Stables"
+msgstr "リバーホールドの馬屋"
+
+#: 162946485-0-14151
+msgctxt "162946485-0-14151"
+msgid "Farmstead"
+msgstr "農場"
+
+#: 162946485-0-13404
+msgctxt "162946485-0-13404"
+msgid "Chorrol"
+msgstr "コロール"
+
+#: 169578494-0-131
+msgctxt "169578494-0-131"
+msgid "The Khajiit of Elsweyr built this awesome temple as a tribute to the legendary hero, Khunzar-ri. Elsweyr's greatest champions may assume stewardship of the Hall, but only the most patient and cunning will discover all of its secrets!"
+msgstr "エルスウェアのカジートはこの素晴らしい聖堂を、伝説の英雄クンザ・リを称えるために作った。エルスウェア最高の勇者はこの広間の管理を引き受けることになっているが、聖堂の秘密を全て発見できるのは、最も忍耐強く賢い者だけだ！"
+
+#: 81344020-0-1292
+msgctxt "81344020-0-1292"
+msgid "Altar of Ambition"
+msgstr "大志の祭壇"
+
+#: 81344020-0-1291
+msgctxt "81344020-0-1291"
+msgid "Altar of Guile"
+msgstr "策謀の祭壇"
+
+#: 81344020-0-1290
+msgctxt "81344020-0-1290"
+msgid "Altar of Betrayal"
+msgstr "裏切りの祭壇"
+
+#: 169578494-0-129
+msgctxt "169578494-0-129"
+msgid "Few adeptoriums can match the hallowed majesty of Jode's Embrace. Rumor has it that the temple's worthiest occupants can peer into the sacred realm of Jode itself. Just keep an eye out for Dragons overhead!"
+msgstr "ジョーデの抱擁ほど神聖で雄大な僧房は少ない。噂によると、この聖堂で最も地位の高い者は、ジョーデ自身の神聖な領域を覗けるらしい。ただし、頭上のドラゴンには気を付けよう！"
+
+#: 81344020-0-1289
+msgctxt "81344020-0-1289"
+msgid "Jonelight Altar"
+msgstr "ジョーンの光の祭壇"
+
+#: 81344020-0-1288
+msgctxt "81344020-0-1288"
+msgid "Grahtwood's Bounty"
+msgstr "グラーウッド・バウンティ"
+
+#: 81344020-0-1287
+msgctxt "81344020-0-1287"
+msgid "Riverhold Stables"
+msgstr "リバーホールドの馬屋"
+
+#: 81344020-0-1286
+msgctxt "81344020-0-1286"
+msgid "Banished Regrets Inn"
+msgstr "宿屋〈消えた後悔〉"
+
+#: 81344020-0-1285
+msgctxt "81344020-0-1285"
+msgid "Market of Fresh Delights"
+msgstr "新鮮な喜びの市場"
+
+#: 81344020-0-1284
+msgctxt "81344020-0-1284"
+msgid "Distant Dunes Emporium"
+msgstr "遠き砂漠のよろず屋"
+
+#: 81344020-0-1283
+msgctxt "81344020-0-1283"
+msgid "Meandering Moons Boutique"
+msgstr "蛇行する月のブティック"
+
+#: 81344020-0-1282
+msgctxt "81344020-0-1282"
+msgid "Tenmar Treasures"
+msgstr "テンマールの財宝"
+
+#: 81344020-0-1281
+msgctxt "81344020-0-1281"
+msgid "Wanderlust Market"
+msgstr "旅行用品マーケット"
+
+#: 81344020-0-1280
+msgctxt "81344020-0-1280"
+msgid "The Yoke & Spoke Mobile Bazaar"
+msgstr "ヨーク&スポーク モバイルバザール"
+
+#: 81344020-0-1279
+msgctxt "81344020-0-1279"
+msgid "Masterpiece Mercantile"
+msgstr "傑作商会"
+
+#: 81344020-0-1278
+msgctxt "81344020-0-1278"
+msgid "Grashorag's Goods"
+msgstr "グラショラグ雑貨店"
+
+#: 81344020-0-1277
+msgctxt "81344020-0-1277"
+msgid "The Goiter's Gulp"
+msgstr "〈ゴイターのがぶ飲み〉"
+
+#: 81344020-0-1276
+msgctxt "81344020-0-1276"
+msgid "Hidden Treasures"
+msgstr "隠された宝"
+
+#: 81344020-0-1275
+msgctxt "81344020-0-1275"
+msgid "The Shadow Market"
+msgstr "影の市場"
+
+#: 81344020-0-1274
+msgctxt "81344020-0-1274"
+msgid "Fang and Fortune"
+msgstr "牙と富"
+
+#: 81344020-0-1273
+msgctxt "81344020-0-1273"
+msgid "Slick-Whisker Mercantile"
+msgstr "つるつるの髭商会"
+
+#: 81344020-0-1272
+msgctxt "81344020-0-1272"
+msgid "Prowl and Profit"
+msgstr "徘徊と利益"
+
+#: 81344020-0-1271
+msgctxt "81344020-0-1271"
+msgid "Mages Guild"
+msgstr "魔術師ギルド"
+
+#: 81344020-0-1270
+msgctxt "81344020-0-1270"
+msgid "Fighters Guild"
+msgstr "戦士ギルド"
+
+#: 169578494-0-127
+msgctxt "169578494-0-127"
+msgid "Those seeking a respite from the heat and bustle of Rimmen's crowded streets can find it in this cozy suite. Easy access to Rimmen's amenities—both legal and illicit—make this the perfect abode for adventurers on the go.\nRoom is too small for Dueling."
+msgstr "リンメンの混雑した街道の熱気と、忙しさからの休息を求めるなら、この温かい部屋に見出せるだろう。合法、違法を問わずリンメンの品へ気軽に触れられる立地により、忙しい冒険者に最適の滞在場所となっている。\r\n決闘を行うには部屋が狭すぎる。"
+
+#: 81344020-0-1269
+msgctxt "81344020-0-1269"
+msgid "Sap and Soul"
+msgstr "樹液と魂"
+
+#: 81344020-0-1268
+msgctxt "81344020-0-1268"
+msgid "Baan Dar's Backpacks"
+msgstr "バーン・ダルのバックパック"
+
+#: 81344020-0-1266
+msgctxt "81344020-0-1266"
+msgid "The Sparkling Eye"
+msgstr "輝く瞳"
+
+#: 81344020-0-1263
+msgctxt "81344020-0-1263"
+msgid "Yarn-Tangle Tailoring"
+msgstr "絡まった糸玉の仕立屋"
+
+#: 81344020-0-1262
+msgctxt "81344020-0-1262"
+msgid "Twilight Imports"
+msgstr "黄昏の輸入品店"
+
+#: 81344020-0-1261
+msgctxt "81344020-0-1261"
+msgid "Wanderlust Tannery"
+msgstr "放浪の皮革店"
+
+#: 81344020-0-1260
+msgctxt "81344020-0-1260"
+msgid "The Sugar Bowl"
+msgstr "〈シュガーボウル〉"
+
+#: 81344020-0-1259
+msgctxt "81344020-0-1259"
+msgid "Senche and Saddle"
+msgstr "センチと鞍"
+
+#: 146361138-0-1249
+msgctxt "146361138-0-1249"
+msgid "Riverhold Stables"
+msgstr "リバーホールドの馬屋"
+
+#: 146361138-0-1248
+msgctxt "146361138-0-1248"
+msgid "Market of Fresh Delights"
+msgstr "新鮮な喜びの市場"
+
+#: 146361138-0-1247
+msgctxt "146361138-0-1247"
+msgid "House of Histories"
+msgstr "歴史の館"
+
+#: 146361138-0-1246
+msgctxt "146361138-0-1246"
+msgid "Banished Regrets Inn"
+msgstr "宿屋〈消えた後悔〉"
+
+#: 81344020-0-1245
+msgctxt "81344020-0-1245"
+msgid "Hitari's Armaments"
+msgstr "ヒタリの装備"
+
+#: 146361138-0-1243
+msgctxt "146361138-0-1243"
+msgid "A Shadow's Whisper"
+msgstr "影のささやき"
+
+#: 146361138-0-1242
+msgctxt "146361138-0-1242"
+msgid "Slick-Whisker Mercantile"
+msgstr "つるつるの髭商会"
+
+#: 146361138-0-1241
+msgctxt "146361138-0-1241"
+msgid "Prowl and Profit"
+msgstr "徘徊と利益"
+
+#: 146361138-0-1240
+msgctxt "146361138-0-1240"
+msgid "Fang and Fortune"
+msgstr "牙と富"
+
+#: 146361138-0-1239
+msgctxt "146361138-0-1239"
+msgid "The Shadow Market"
+msgstr "影の市場"
+
+#: 146361138-0-1238
+msgctxt "146361138-0-1238"
+msgid "Hidden Treasures"
+msgstr "隠し財宝"

@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-45009
+msgctxt "132143172-0-45009"
+msgid "When you cast a non Stamina costing Earthen Heart ability, you restore <<1>> Stamina."
+msgstr ""
+
+#: 198758357-0-45009
+msgctxt "198758357-0-45009"
+msgid "Helping Hands"
+msgstr ""
+
+#: 132143172-0-45001
+msgctxt "132143172-0-45001"
+msgid "When you cast an Earthen Heart ability, you and your group gain Minor Brutality for <<1>>, increasing your Weapon Damage by <<2>> \n\nIf you are in combat, you also generate <<3>> Ultimate. This effect can occur once every <<4>>."
+msgstr ""
+
+#: 198758357-0-45001
+msgctxt "198758357-0-45001"
+msgid "Mountain's Blessing"
+msgstr ""
+
+#: 132143172-0-44996
+msgctxt "132143172-0-44996"
+msgid "Increases duration of your Earthen Heart abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-44996
+msgctxt "198758357-0-44996"
+msgid "Eternal Mountain"
+msgstr ""
+
+#: 132143172-0-44984
+msgctxt "132143172-0-44984"
+msgid "When you cast an Ultimate ability, you restore <<1>> Health, <<2>> Magicka, and <<3>> Stamina for each point of the Ultimate's cost."
+msgstr ""
+
+#: 198758357-0-44984
+msgctxt "198758357-0-44984"
+msgid "Battle Roar"
+msgstr ""
+
+#: 132143172-0-32710
+msgctxt "132143172-0-32710"
+msgid "Summon a scorching cloud of ash at the target location, reducing enemy Movement Speed by <<1>> and dealing <<2>> every <<3>>.\n\nDeals <<4>> immediately."
+msgstr ""
+
+#: 198758357-0-32710
+msgctxt "198758357-0-32710"
+msgid "Eruption"
+msgstr ""
+
+#: 132143172-0-32685
+msgctxt "132143172-0-32685"
+msgid "Encase an enemy in stone, stunning them for <<1>>. When the stun ends, they take <<2>> and are immobilized for <<3>>.\n\nThis stun cannot be blocked or dodged."
+msgstr ""
+
+#: 198758357-0-32685
+msgctxt "198758357-0-32685"
+msgid "Fossilize"
+msgstr ""
+
+#: 132143172-0-32678
+msgctxt "132143172-0-32678"
+msgid "Encase an enemy in stone, stunning them for <<1>>.\n\nWhen the stun ends, they take <<2>> and their next attack used within <<3>> heals its target for <<4>>.\n\nThis stun cannot be blocked or dodged."
+msgstr ""
+
+#: 198758357-0-32678
+msgctxt "198758357-0-32678"
+msgid "Shattering Rocks"
+msgstr ""
+
+#: 132143172-0-32673
+msgctxt "132143172-0-32673"
+msgid "Call the earth to your defense, creating a damage shield for you and nearby allies that absorbs <<1>> damage.  This portion of the ability scales off your Max Health.\n\nYou also gain Major Mending, increasing your healing done by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-32673
+msgctxt "198758357-0-32673"
+msgid "Fragmented Shield"
+msgstr ""
+
+#: 132143172-0-31888
+msgctxt "132143172-0-31888"
+msgid "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>.\n\nYour own damage with Heavy Attacks is increased by <<3>> while active."
+msgstr ""
+
+#: 198758357-0-31888
+msgctxt "198758357-0-31888"
+msgid "Molten Armaments"
+msgstr ""
+
+#: 132143172-0-31874
+msgctxt "132143172-0-31874"
+msgid "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-31874
+msgctxt "198758357-0-31874"
+msgid "Igneous Weapons"
+msgstr ""
+
+#: 132143172-0-31820
+msgctxt "132143172-0-31820"
+msgid "Slam an enemy with molten rock, dealing <<1>> and causing the rock to explode, splashing magma around.\n\nYou then pull back on the magma to heal yourself or up to |cffffff2|r allies near the enemy for <<2>> Health."
+msgstr ""
+
+#: 198758357-0-31820
+msgctxt "198758357-0-31820"
+msgid "Obsidian Shard"
+msgstr ""
+
+#: 132143172-0-31816
+msgctxt "132143172-0-31816"
+msgid "Crush the earth beneath you, dealing <<1>> to all enemies within |cffffff6|r meters of you. Debris ripped from the ground is held around you for <<2>>.\n\nActivating the ability again allows you to launch part of the debris at an enemy, dealing <<3>>, up to |cffffff3|r times. The final cast stuns for <<4>>.\n\nEach hit applies Stagger, increasing damage taken by <<5>> per stack for <<6>>."
+msgstr ""
+
+#: 198758357-0-31816
+msgctxt "198758357-0-31816"
+msgid "Stone Giant"
+msgstr ""
+
+#: 132143172-0-29475
+msgctxt "132143172-0-29475"
+msgid "When you cast a non Stamina costing Earthen Heart ability, you restore <<1>> Stamina."
+msgstr ""
+
+#: 198758357-0-29475
+msgctxt "198758357-0-29475"
+msgid "Helping Hands"
+msgstr ""
+
+#: 132143172-0-29473
+msgctxt "132143172-0-29473"
+msgid "When you cast an Earthen Heart ability, you and your group members gain Minor Brutality for <<1>>, increasing your Weapon Damage by <<2>>  \n\nIf you are in combat, you also generate <<3>> Ultimate. This effect can occur once every <<4>>."
+msgstr ""
+
+#: 198758357-0-29473
+msgctxt "198758357-0-29473"
+msgid "Mountain's Blessing"
+msgstr ""
+
+#: 132143172-0-29468
+msgctxt "132143172-0-29468"
+msgid "Increases duration of your Earthen Heart abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-29468
+msgctxt "198758357-0-29468"
+msgid "Eternal Mountain"
+msgstr ""
+
+#: 132143172-0-29463
+msgctxt "132143172-0-29463"
+msgid "When you cast an Ultimate ability, you restore <<1>> Health, <<2>> Magicka, and <<3>> Stamina for each point of the Ultimate's cost."
+msgstr ""
+
+#: 198758357-0-29463
+msgctxt "198758357-0-29463"
+msgid "Battle Roar"
+msgstr ""
+
+#: 132143172-0-29224
+msgctxt "132143172-0-29224"
+msgid "Call the earth to your defense, granting a damage shield for nearby allies that absorbs <<1>> damage. Your own damage shield absorbs <<2>> damage.  This portion of the ability scales off your Max Health.\n\nYou also gain Major Mending, increasing your healing done by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-29224
+msgctxt "198758357-0-29224"
+msgid "Igneous Shield"
+msgstr ""
+
+#: 132143172-0-29071
+msgctxt "132143172-0-29071"
+msgid "Call the earth to your defense, granting a damage shield for you and nearby allies that absorbs <<1>> damage.  This portion of the ability scales off your Max Health.\n\nYou also gain Major Mending, increasing your healing done by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-29071
+msgctxt "198758357-0-29071"
+msgid "Obsidian Shield"
+msgstr ""
+
+#: 132143172-0-29059
+msgctxt "132143172-0-29059"
+msgid "Summon a scorching cloud of ash at the target location, reducing enemy Movement Speed by <<1>> and healing you and your allies for <<2>> every <<3>>."
+msgstr ""
+
+#: 198758357-0-29059
+msgctxt "198758357-0-29059"
+msgid "Ash Cloud"
+msgstr ""
+
+#: 132143172-0-29043
+msgctxt "132143172-0-29043"
+msgid "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-29043
+msgctxt "198758357-0-29043"
+msgid "Molten Weapons"
+msgstr ""
+
+#: 132143172-0-29037
+msgctxt "132143172-0-29037"
+msgid "Encase an enemy in stone, stunning them for <<1>>. When the stun ends, they take <<2>>.\n\nThis stun cannot be blocked or dodged."
+msgstr ""
+
+#: 198758357-0-29037
+msgctxt "198758357-0-29037"
+msgid "Petrify"
+msgstr ""
+
+#: 132143172-0-29032
+msgctxt "132143172-0-29032"
+msgid "Crush the earth beneath you, dealing <<1>> to all enemies within |cffffff6|r meters of you. Debris ripped from the ground is held around you for <<2>>.\n\nActivating the ability again allows you to launch part of the debris at an enemy, dealing <<3>>, up to |cffffff3|r times. The final cast stuns enemies hit for <<4>>."
+msgstr ""
+
+#: 198758357-0-29032
+msgctxt "198758357-0-29032"
+msgid "Stonefist"
+msgstr ""
+
+#: 132143172-0-20779
+msgctxt "132143172-0-20779"
+msgid "Summon a scorching cloud of ash at the target location, reducing enemy Movement Speed by <<1>> and healing you and your allies for <<2>> every <<3>>."
+msgstr ""
+
+#: 198758357-0-20779
+msgctxt "198758357-0-20779"
+msgid "Cinder Storm"
+msgstr ""
+
+#: 132143172-0-17878
+msgctxt "132143172-0-17878"
+msgid "Oxidize the green Dragon blood in your veins, limiting incoming damage to <<1>>%  of your Max Health and dealing <<2>> to nearby enemies each second for <<3>>. \n\nWhile active, this ability and your Direct Damage dealt ignores enemy Physical Resistance."
+msgstr ""
+
+#: 198758357-0-17878
+msgctxt "198758357-0-17878"
+msgid "Corrosive Armor"
+msgstr ""
+
+#: 132143172-0-17874
+msgctxt "132143172-0-17874"
+msgid "Ignite the molten lava in your veins, limiting incoming damage to <<1>>%  of your Max Health and dealing <<2>> to nearby enemies each second for <<3>>. \n\nWhen activated, nearby allies gain a damage shield for <<4>>% of their Max Health for <<5>>."
+msgstr ""
+
+#: 198758357-0-17874
+msgctxt "198758357-0-17874"
+msgid "Magma Shell"
+msgstr ""
+
+#: 132143172-0-15957
+msgctxt "132143172-0-15957"
+msgid "Ignite the molten lava in your veins, limiting incoming damage to <<1>>% of your Max Health and dealing <<2>> to nearby enemies each second for <<3>>."
+msgstr ""
+
+#: 198758357-0-15957
+msgctxt "198758357-0-15957"
+msgid "Magma Armor"
+msgstr ""

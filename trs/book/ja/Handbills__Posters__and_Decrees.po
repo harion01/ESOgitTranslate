@@ -1,0 +1,1230 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 21337012-0-927
+msgctxt "21337012-0-927"
+msgid "Citizens of Dawnbreak\n\nWith the upcoming visit of Queen Ayrenn, please be sure that you are current in the upkeep of your homes and yards. \n\nWe will conduct a town meeting to review proper etiquette and dress for the event. I expect perfect attendance and will be taking note of any who are absent.\n\n—Tenyemanwe"
+msgstr "ドーンブレイクの住民へ\r\n\r\n来たるアイレン女王の訪問に伴い、家や庭をいい状態に保ってください。\r\n\r\n今回の行事に向けて正しいエチケットと服装を確認するために、町集会を行なう予定です。全員参加してください。欠席者がいれば記録に残します。\r\n\r\n— テンエマンウェ"
+
+#: 51188213-0-927
+msgctxt "51188213-0-927"
+msgid "Dawnbreak Decree"
+msgstr "ドーンブレイクの布告"
+
+#: 21337012-0-916
+msgctxt "21337012-0-916"
+msgid "The Everfull Flagon\n\nFine Mead. Good Company. Come and Enjoy.\n\nFREE MEAD! ASK FOR THE SPECIAL BLEND!\n\n<Clumsy writing scrawls across the bottom of the handbill.>\n\nTurn back. The mead the mead the mead—be wary—"
+msgstr "エバーフル・フラゴン\r\n\r\n上級ハチミツ酒。よい飲み仲間。ぜひ来店を。\r\n\r\nスペシャルブレンドを注文で、無料ハチミツ酒！\r\n\r\n<チラシの下に下手な字がなぐり書きされている>\r\n\r\n引き返せ。ハチミツ酒ハチミツ酒ハチミツ酒 —注意しろ—"
+
+#: 51188213-0-916
+msgctxt "51188213-0-916"
+msgid "Everfull Flagon Handbill"
+msgstr "エバーフル・フラゴンのチラシ"
+
+#: 21337012-0-90
+msgctxt "21337012-0-90"
+msgid "To any explorer unfortunate enough to enter these catacombs, beware! \n\nGoblins have taken over these hallowed grounds, though I couldn't figure out what had drawn them here. Keep your distance, for these savages are ruthless. I barely escaped from the catacombs with my life!"
+msgstr "この地下墓地に足を踏み入れる哀れな冒険者に注意を喚起する！\r\n\r\nゴブリンがここにいる理由は分からなかったが、とにかく奴らがこの神聖な地を制圧している。近付かない方がいい。この蛮人どもは無情だ。私は命からがら地下墓地を脱出した！"
+
+#: 51188213-0-90
+msgctxt "51188213-0-90"
+msgid "Warning: Catacombs Infested!"
+msgstr "警告: 地下墓地に侵入者あり！"
+
+#: 21337012-0-884
+msgctxt "21337012-0-884"
+msgid "Do not use the Giant's Crush as a shortcut. I'm tired of writing letters to families explaining how their loved ones were careless enough to get their head smashed in by a giant. Just walk around the mountain. We can all use the exercise."
+msgstr "「巨人による粉砕」を近道として使わないこと。不注意だったばかりに頭を巨人につぶされたと、遺族に説明の手紙を書くのにはもううんざりだ。とにかく山の周りを歩け。いい運動になる。"
+
+#: 51188213-0-884
+msgctxt "51188213-0-884"
+msgid "No Passing Through Here"
+msgstr "通り抜け禁止"
+
+#: 21337012-0-883
+msgctxt "21337012-0-883"
+msgid "The Giant's Crush is off limits! The giant is extremely dangerous when disturbed. Remember what happened to Sergeant Gorack, who thought it would be good fun to taunt the giant's mammoths? Soldiers without arms aren't much use."
+msgstr "「巨人による粉砕」は立入禁止だ！ 刺激された巨人は極めて危険である。巨人のマンモスをからかったら面白いだろうと思ったゴラック軍曹が、その後どうなったか覚えているか？ 腕のない兵士は役に立たない。"
+
+#: 51188213-0-883
+msgctxt "51188213-0-883"
+msgid "No Admittance—This Means You"
+msgstr "立入禁止—そこのあなた"
+
+#: 21337012-0-882
+msgctxt "21337012-0-882"
+msgid "Keep out! \n\nThe Giant is only dangerous if you disturb it. We do not want a repeat of the Fire Festival fiasco."
+msgstr "立入禁止！\r\n\r\n巨人が危険になるのは、刺激をした場合のみである。炎祭りの大失敗を繰り返したくはない。"
+
+#: 51188213-0-882
+msgctxt "51188213-0-882"
+msgid "Giant Warning"
+msgstr "巨人の警告"
+
+#: 21337012-0-860
+msgctxt "21337012-0-860"
+msgid "Many have spoken of the Ebonheart Pact as a force for peace between our peoples. A force for war against the Aldmeri Dominion, the Daggerfall Covenant, and other such upstart powers.\n\nToday, I ask you to think of the Ebonheart Pact as a force for wealth!\n\nUntil now, Black Marsh has remained largely closed to trade, other than that in Argonian slaves. The inhabitants have never been willing to deal with their enemies. However, Shadowfen is slightly more developed than the rest of the Marsh, and it is Shadowfen that is the gateway to riches!\n\nFor only a small commission, I can take your goods to Shadowfen and sell them to the Argonians. They are a people with relatively few fine goods, yet they are no duller or less covetous than your Dunmeri customers. The Argonians will be lining up for our silks and steels. The potential demand is almost impossible to calculate.\n\nGive me your goods today, and I will bring you gold tomorrow!"
+msgstr "多くの人はエボンハート・パクトを我々に平和をもたらす力だと話してきた。アルドメリ・ドミニオンやダガーフォール・カバナント、そしてその他の新興勢力に対抗する戦力だと。\r\n\r\n今日は、エボンハート・パクトを富のための力だと考えてもらいたい！\r\n\r\n今までブラック・マーシュは、アルゴニアンの奴隷取引を除いて、おおむね商業に対して閉ざされたままだった。住民は敵と決して取引しようとしなかった。しかしシャドウフェンはマーシュの他の場所よりもわずかに発展している。シャドウフェンこそが裕福になるための入口なのだ！\r\n\r\nほんの僅かな手数料で、私はあなたの商品をシャドウフェンへ運びアルゴニアンに売る。彼らはそれほど素晴らしい商品を持たない人々だが、あなたのダンマーの顧客に比べて鈍い訳でも物欲に欠ける訳でもない。我々のシルクや鋼にアルゴニアンは列をなすだろう。潜在需要は計測不可能といっていい\r\n\r\n今日、あなたの商品を私に渡せば、明日はゴールドをあなたに渡そう！"
+
+#: 51188213-0-860
+msgctxt "51188213-0-860"
+msgid "An Invitation to Wealth"
+msgstr "富への招待"
+
+#: 21337012-0-856
+#, fuzzy
+msgctxt "21337012-0-856"
+msgid "Wanted—Dead!\n\nThe bandit referring to himself as ""The Chief.""\n\nWanted for crimes against the people of the Ebonheart Pact, including:\n—Murder\n—Robbery\n—Livestock Violations\n—Insolence to Noblewomen\n\nReward offered for the head (body optional) of ""The Chief."" \n\nBring to nearest Pact official."
+msgstr "死体求む！\r\n\r\n「族長」を自称する山賊\r\n\r\nエボンハート・パクトの人々に対する以下の罪で指名手配する:\r\n—殺人\r\n—強盗\r\n—家畜に対する侵害\r\n—貴婦人に対する無礼\r\n\r\n「族長」の首(体は任意)に対して報酬を支払う\r\n\r\n最寄りのパクト係官のところへ所持されたし"
+
+#: 51188213-0-856
+msgctxt "51188213-0-856"
+msgid "Wanted: The Chief"
+msgstr "手配: 族長"
+
+#: 21337012-0-852
+msgctxt "21337012-0-852"
+msgid "Those who would brave the crypts beneath Windhelm, be warned.\n\nHerein dwells the draugr remnants of the great warrior Reynir of Saarthal, who claimed to have survived the Night of Tears, and sailed to Mereth with the Five Hundred Companions on the ship commanded by Ylgar, son of Ysgramor. \n\nThe draugr retains some semblance of Reynir's intellect, but his humanity has been subsumed by the madness of undying. The creature that remains is no proud Nord. He is an undead abomination who delights in the suffering of others. \n\nHe knows only hate and vengeance. Do not disturb his slumber."
+msgstr "ウィンドヘルム地下の墓地に挑もうとする者に警告する\r\n\r\nここに住むのは偉大な戦士、サールザルのレイニルがドラウグルとなった残滓だ。彼は涙の夜を生き残り、500人の同胞団と共にイスグラモルの息子、ユルガーの指揮する船に乗り、メレスへ航海したという 。\r\n\r\nドラウグルはレイニアの知性的な外見を維持しているが、人間らしさは不死の狂気に呑みこまれた。残った生き物は誇り高きノルドではない。他人の苦しみを喜びとする唾棄すべきアンデッドだ。\r\n\r\n分かるのは憎しみと復讐だけ。彼の眠りを邪魔するな。"
+
+#: 51188213-0-852
+msgctxt "51188213-0-852"
+msgid "Reynir the Destroyer"
+msgstr "破壊者レイニル"
+
+#: 21337012-0-816
+#, fuzzy
+msgctxt "21337012-0-816"
+msgid "By Aicantar of Shimmerene, Sapiarch of Indoctrination\n\nWelcome, Altmeri, Bosmeri, and Khajiiti warriors. Welcome to the elite force of the Aldmeri Irregulars!\n\nOrcs, Dark Elves, and Men—most of all, Men—are best at war. They have drenched the mainland of Tamriel in rivers of blood. As long as their follies were confined to murdering one another, what they did in and around their so-called ""Imperial City"" was beneath the notice of the Altmer of Summerset.\n\nThen came the Dragon Break. That catastrophe was entirely the fault of Men, but the Altmer had to repair it. Now the Men of the Empire have catastrophically blundered again, and all Nirn is threatened. Our good queen had no choice but to form the Aldmeri Dominion to conquer Cyrodiil, and ensure for the good of all who dwell in Nirn that Men never again tamper with forces beyond their comprehension and competence.\n\nOnly the Aldmeri—the High Elves and their noble allies, the Wood Elves and Cat-Men—have the wisdom and restraint to peaceably rule the disparate peoples of Tamriel. Though we are reluctant to take up this burden, events have shown that we must. Recent events prove that the Dragon Break was not a unique event. Men always follow the destructive path of their defender and apologist, the Missing God whom we shall not name. This ends here. Once again, Elves shall rule Tamriel from White-Gold Tower … this time, forever.\n\nThe world has gone wrong, and we must put it right. March proudly beneath the eagle banner of the Aldmeri Dominion!"
+msgstr "教化サピアルチ、シマーリーンのアイカンター著\r\n\r\nアルトマー、ボズマー、カジートの戦士たち、ようこそ。ようこそアルドマー非正規軍の精鋭集団へ！\r\n\r\nオーク、ダークエルフ、そして人間、中でも人間は戦争が得意だ。彼らはタムリエル本土を血の川で濡らした。彼らの愚行が殺し合いに限られるかぎり、いわゆる「帝都」とその周辺で彼らが行ったことはサマーセットのアルトマーの関知するところではなかった。\r\n\r\nその時ドラゴンブレイクがあった。あの大災害はすべて人間の過ちだったが、アルトマーが修復しなければならなかった。今、帝国の人間は再び悲惨な失敗をして、ニルンのすべてが危機的状況にある。我らが良き女王はシロディールを征服し、ニルンの住民全員の利を考え、人間が二度と自分の理解と能力を超えた力へ手を出さないようにするため、アルドメリ・ドミニオンを結成するしかなかった。\r\n\r\nアルドマー、ハイエルフと彼らの貴い仲間、ウッドエルフと猫人間にだけは、知恵とタムリエルの異なる人々を平和に支配する節度がある。我らはこの重責を担いたいわけではないが、起きた出来事の数々を見ればやらなければならない。最近の出来事は、ドラゴンブレイクが独立した事象ではなかったと示している。人間はいつも彼らの守護者であり擁護者であり、我々がその名を呼ぶべきでない不在の神による破壊の道を進んでいる。もう終わりだ。再びエルフがタムリエルを、白金の塔から支配するべきだ… 今度は永遠に。\r\n\r\n世界は誤った方向に進んでしまった、そして我らが正さなければならない。アルドメリ・ドミニオンの誇り高き鷲の旗の下で、誇りを持って行進しよう！"
+
+#: 51188213-0-816
+msgctxt "51188213-0-816"
+msgid "Welcome to New Aldmeri Irregulars"
+msgstr "新しいアルドマー非正規軍にようこそ"
+
+#: 21337012-0-810
+msgctxt "21337012-0-810"
+msgid "By Alla Llaleth\n\nThe Wheel of Time turns: in the dawn, it was the day of the Aldmeri, and then came the time of Men—but now, as the decay and chaos in the Empire makes clear, the time of Men has passed. Of the Men of Tamriel, only the Eastern Nords had the strength of character to join Dunmeri and Argonians in repelling the recent invasion of Snake-Men from Akavir, thereby showing that of all Men, only they may be trusted.\n\nTime and again Men have shown that without proper guidance, their meddling with External Powers leads to disaster. Men's reckless dabbling with beings beyond Nirn must stop forever. Now it is the time of the Ebonheart Pact, which shall and must become the Tamriel Pact. Within the Pact, the Aedra, Daedra, and Hist are all revered … from an appropriate distance. Within the Pact is the Tribunal, three Living Gods who abide among us here on Nirn and whose interest therefore coincides with that of all residents of Nirn. Only they have shown how to treat successfully with powers beyond Nirn.\n\nThe rash actions of those who sit the Ruby Throne, or who pull their strings, have brought Tamriel to the verge of irretrievable doom. They must be scoured from the face of Cyrodiil, and the decaying remains of the Empire of Men must be swept away. It shall be replaced by the Pact, which will enforce peace across the continent and strictly regulate all involvement in dangerous magical pursuits.\n\nOnward, warriors of the Pact! We will never know peace and freedom until we occupy White-Gold Tower!"
+msgstr "アーラ・ラレス著\r\n\r\n時の車輪が回る。夜明けはアルドマーの時代だった、それから人間の時代が来た。だが今は、帝国の衰退と混沌が、人間の時代は過ぎたと明らかにしている。タムリエルの人間の中では東のノルドだけが力強い性質を持ち、アカヴィルからの蛇人間たちの最近の侵入を追い払う際に、ダンマーやアルゴニアンと共闘していた。それゆえに、すべての人間の中で唯一信頼に足るところを見せている。\r\n\r\n時代は再び、人間は適切な導きなくして外部の力に関わると災難につながると証明した。人間が無謀にもニルンの向こうの存在にちょっかいを出すことは永遠にやめなければならない。今はエボンハート・エボンハート・パクトの時代で、いずれはタムリエル・エボンハート・パクトになるべきであり、そうでなければならない。エボンハート・パクトの内部ではエドラ、デイドラ、ヒストがすべて敬われている… 適度な距離から。エボンハート・パクトの内部はトリビュナル、3人の生き神がここニルンに我々と共に暮らしていて、その関心はニルンの住民全員のそれと一致している。彼らだけが、ニルンの向こうの力を上手に取扱う方法を見せた。\r\n\r\nルビーの玉座に座る者や彼らの意図を引く者の性急な行動が、タムリエルを回復不可能な破滅の縁へ追いやった。彼らはシロディールの前面から一掃しなければならない。そして衰退して残った人間の帝国も払拭しなければならない。取って代わるべきはエボンハート・パクトで、大陸中に平和をもたらし、危険な魔法の追求に関わる、全てをしっかりと規制するだろう。\r\n\r\nエボンハート・パクトの戦士よ、前進せよ！ 白金の塔を占拠するまで、我々が平和と自由を知ることはない！"
+
+#: 51188213-0-810
+msgctxt "51188213-0-810"
+msgid "The Time of the Ebonheart Pact"
+msgstr "エボンハート・パクトの時代"
+
+#: 21337012-0-777
+msgctxt "21337012-0-777"
+msgid "Entry Donation: 1 gold\n\nWelcome to Deepwoods, abode of the former and current Green Ladies of Malabal Tor!\n\nOur first Green Lady, Finoriell, was revealed as Green Lady later than customary, by which time she lived in Velyn Harbor. She served well, and upon her passing, the search began for the next Green Lady.\n\nBlessed Deepwoods proved once again to foster the fortitude required in Finoriell's niece, Gwaering, who demonstrated the physical prowess, cunning, and strength expected of the Green Lady.\n\nWithin Deepwoods, you may see Gwaering and Finoriell's home, as well as many of the places where they once hunted. Gwaering in particular showed early aptitude with the bow, with a high kill ratio from her tenderest years.\n\nThe Green Lady is not a mere symbol of virtue, she holds within her the ability to channel her strength to the Bosmer as needed upon completion of her investiture.\n\nWithin a fortnight of her selection, preparations began for Gwaering's handfasting with the Silvenar.\n\nThe celebrations will continue for many months following the formal handfast ceremony, which takes place in the city of Silvenar.\n\nPlease enjoy your visit to Deepwoods, however long or short your stay!"
+msgstr "入場の寄付: 1ゴールド\r\n\r\nディープウッズ、以前と現在の、マラバル・トールのグリーンレディの住居へようこそ！\r\n\r\n当地最初のグリーンレディ、フィノリエルは慣習よりも遅くグリーンレディだと分かりました。当時はヴェリン港に暮らしていました。立派に仕事をこなし、彼女の逝去に伴って次のグリーンレディの捜索が始まったのです。\r\n\r\n祝福されたディープウッズは再び強き者、フィノリエルの姪、グワエリングを育てました。グワエリングはグリーンレディに期待される肉体的技量、巧緻、力を示したのです。\r\n\r\nディープウッズの中にはグワエリングとフィノリエルの家、二人がかつて狩りをした多くの場所が見られます。特にグワエリングは幼い頃から弓に対する才能を発揮し、年若い頃から高い殺傷率を示しました。\r\n\r\nグリーンレディは単に美徳のシンボルではなく、任命終了後に必要とされる、自分の力をボズマーの力とつなぐ能力を内に秘めています。\r\n\r\n選ばれてから2週間以内に、グワエリングとシルヴェナールの婚約の儀の準備が始まりました。\r\n\r\nお祝いは公式の婚礼の儀の後、何ヶ月も続きます。婚約の儀は、シルヴェナールの街で行われます。\r\n\r\n滞在が長くても短くても、どうかディープウッズの訪問を楽しんでください！"
+
+#: 51188213-0-777
+msgctxt "51188213-0-777"
+msgid "The Green Ladies' Abode"
+msgstr "グリーンレディの家"
+
+#: 21337012-0-776
+msgctxt "21337012-0-776"
+msgid "Brigeera gra-Tor, killer of a hundred mammoths. Able to break skulls with just her thumbs.\n\nGrish the Scaled, whose breeches were made from the skins of Argonians he slew.\n\nDuzhal of the Wastes, traveling champion of the woods. Best-known for defeating the previous champion by biting through his neck while it was still encased in armor.\n\nRitrag gro-Forment, eater of spiders and poisonous snakes. Said to spew venom into his challengers' eyes.\n\nMakgruk gro-Basgurum, also known as the Healer. Reduced his opponents' suffering by removing their heads.\n\nThe Maiden Lashki. Intimidated her enemies by wearing a dress made from her victims' scalps."
+msgstr "ブリジーラ・グラトール、百頭のマンモスの殺し屋。彼女は両の親指だけで頭蓋骨を破壊できる\r\n\r\n鱗のグリシュ、彼の膝丈ズボンは殺したアルゴニアンの革でできている\r\n\r\n荒野のドゥザール、森を旅するチャンピオン。前チャンピオンがまだ鎧に包まれている時に、その首を噛み切って勝ったことで一番よく知られている\r\n\r\nリトラグ・グロー・フォーメント、クモと毒蛇の捕食者。挑戦者の目に毒を吐きかけると言われている\r\n\r\nマクグルック・グロー・バスグルム、治癒師としても知られる。頭をもぎとり、敵の苦しみを減じた\r\n\r\nメイデン・ラシュキ。犠牲者の頭皮でできたドレスを着用し、敵を威圧した"
+
+#: 51188213-0-776
+msgctxt "51188213-0-776"
+msgid "Champions of Dra'bul"
+msgstr "ドラブールのチャンピオン"
+
+#: 21337012-0-773
+msgctxt "21337012-0-773"
+msgid "The priest of Orkey is here as part of his sacred duty to the Divines. He is not here to comfort, console, or brighten your day. Should the undead rise from their places of resting, you accept all risk and responsibility to your own safety while inside the hall. The priest is not required to save you from your own idiocy.\n\n- Hjurring"
+msgstr "オーキーの司祭は神々への聖なる勤めの一部としてここにいる。あなたの日を慰め、癒し、あるいは明るくするためではない。アンデッドが安眠の地から起き上がったら、死者の間にいる間、自分の安全に対するすべてのリスクと責任は自身で引き受けること。司祭にはあなた自身の愚行から、あなたを救う義務はない\r\n\r\n- ヒュリング"
+
+#: 51188213-0-773
+msgctxt "51188213-0-773"
+msgid "Notice: Hall of the Dead"
+msgstr "通知: 死者の間"
+
+#: 21337012-0-771
+msgctxt "21337012-0-771"
+msgid "By Aicantar of Shimmerene, Sapiarch of Indoctrination\n\nThree allies whose people rarely agree on anything. Three races as diverse as any within the world. Three states at war for their very lives, but unable to reconcile their differences in moments of peace. More than allies, but less than friends.\n\nAnd that must change.\n\nOur Dominion is beset on many sides. The Ebonheart Pact and the Daggerfall Covenant attack us from the outside, but we have other enemies more deadly and more dangerous to our alliance than those external foes.\n\nIf our wartime bonds are to remain strong, we must forge relationships and alliances in peace. Our Bosmeri hunters must provide food for our civilians as well as our soldiers. Our Khajiiti traders must provide goods as well as weapons. And our Altmeri wizards must spend their magicka wisely to win the peace as well as the war.\n\nOur first step is to join together in celebration as one of our alliance members, the Bosmer, renews their divine pact with a joining between their two spiritual leaders, the Silvenar and the Green Lady. Let all members of the Aldmeri Dominion recognize this wedding and participate in the revels that follow.\n\nOur best wishes to the Silvenar, the Green Lady, and the Bosmeri people. May this new generation know a strength in peace as well as war."
+msgstr "教化サピアルチ、シマーリーンのアイカンター著\r\n\r\n滅多に何にも合意できない3国の同盟。世界で最も異なる3つの種族。生存を掛けた戦争中の三国が、ほんの一瞬も互いの差異に折り合いをつけられない。同盟以上だが友人未満だ。\r\n\r\nそして、それは変えなければならない。\r\n\r\nドミニオンは多くの側面から攻撃にさらされている。エボンハート・パクトとダガーフォール・カバナントは外から攻撃するが、そうした外部の敵よりも、我々同盟にとってより致命的でより危険な他の敵がいる。\r\n\r\n戦時中の絆が強く保たれるのなら、平時にも同盟を結ばなければならない。ボズマーの狩人は兵士だけでなく、一般人にも食料を供給しなければならない。カジートの商人は武器と同じく商品も供給しなければならない。そしてアルトマーの魔術師は戦争の勝利と同様、平和の獲得のために賢くマジカを使わなければならない。\r\n\r\n我々の最初の一歩は共同で祝うことだ。同盟の一員ボズマーが、二人の精神的指導者、シルヴェナールとグリーンレディの結婚により神々との協定を新たにする。アルドメリ・ドミニオンの全員にこの結婚を知らせ、続く騒ぎに参加させよう。\r\n\r\nシルヴェナール、グリーンレディ、ボズマーの人々のご多幸を祈る。この新しい世代が、戦時と同じく平時の力も理解しますように。"
+
+#: 51188213-0-771
+msgctxt "51188213-0-771"
+msgid "An Unusual Alliance"
+msgstr "奇妙な同盟"
+
+#: 21337012-0-751
+msgctxt "21337012-0-751"
+msgid "All guards are to pack and assemble in the courtyard at dawn for evacuation of White Rose Prison. We will be returning home to serve as additional security for the capital.\n\nNo need to worry about the prisoners, they won't be going anywhere, what with the keystone binding them to this place. Have your equipment and belongings packed and be ready to travel at dawn. Tomorrow we march for Cyrodiil.\n\nPorcius Sisenna, Administrator"
+msgstr "ホワイトローズ牢獄からの引き揚げのため、衛兵は全員荷物をまとめて夜明けに中庭へ集合すること。我々は首都のさらなる安全対策のため、故郷に戻る\r\n\r\n囚人については心配要らない。彼らをここに縛りつけるキーストーンのおかげで、どこへも行かない。装備と持ち物をまとめ、夜明けに旅する準備をするように。明日我々は、シロディールへ向けて出発する\r\n\r\n管理責任者 ポルシウス・シセンナ"
+
+#: 51188213-0-751
+msgctxt "51188213-0-751"
+msgid "Evacuation Order"
+msgstr "避難命令"
+
+#: 21337012-0-749
+msgctxt "21337012-0-749"
+msgid "Herewith the Agreement between His Majesty King Kurog, Monarch of Orsinium, and the Oathbound Warchief, Gruznak gro-Volkar, and herein the terms:\n\nInsofar as the deaths of Dark Elves are pleasing unto Mauloch and deemed useful as a matter of policy:\n\nFor each Dark Elf skull obtained by the Oathbound, Gruznak gro-Volkar shall be granted title to Malak's Maw for one year. \n\nFurthermore, Warchief Gruznak and his Oathbound are hereby absolved of crimes against the Daggerfall Covenant, including (but not limited to) murder, banditry, and the felonious impersonation of traveling entertainers. \n\n— Kurog gro-Orsinium"
+msgstr "ここにオルシニウムの唯一無二の支配者、クログ王閣下とオースバウンドの族長、グルズナック・グロー・ヴォルカーとの協定を記す。条項は以下の通り\r\n\r\nダークエルフの死はモーロッチにとって喜ばしいものであり、政策に役立つものとみなされる\r\n\r\nオースバウンドによるダークエルフの首の獲得に対し、グルズナック・グロー・ヴォルカーにマラク・モーの称号を1年間与える\r\n\r\nさらに族長グルズナックとオースバウンドの民はここにダガーフォール・カバナントに対する罪を赦免される。対象には以下を含む(がこの限りではない)。殺人、追剥行為、および重罪にあたる旅回り一座のなりすまし\r\n\r\n— クログ・グロー・オルシニウム"
+
+#: 51188213-0-749
+msgctxt "51188213-0-749"
+msgid "King Kurog's Promise"
+msgstr "クログ王の約束"
+
+#: 21337012-0-739
+msgctxt "21337012-0-739"
+msgid "Remember our vow, brothers and sisters of the Oathbound! Take the heads of the wicked Elves to satisfy the agreement made by our glorious chieftain!"
+msgstr "オースバウンドの兄弟姉妹たちよ、我らの誓いを忘れるな！ 我らの輝かしき首領が結んだ協定を満足させるため、邪悪なエルフたちの首を獲れ！"
+
+#: 51188213-0-739
+msgctxt "51188213-0-739"
+msgid "Our Ironclad Oath"
+msgstr "鉄の誓い"
+
+#: 21337012-0-707
+msgctxt "21337012-0-707"
+msgid "My loyal subjects,\n\nOur negotiation with the Sea Elves is complete. They foolishly believe themselves our equals. That the rightful rulers of Tamriel would share power with mere fisher-folk. Fools.\n\nIt is vital that you continue the pretense in their presence. We have them set on foolish attacks into Auridon. They can't possibly hold the Beacons, but their attacks will result in death, destruction, and disruption. Chaos we can use against the False Queen.\n\nOur plans are in motion.\n\nThe Veiled Queen"
+msgstr "忠臣たちへ\r\n\r\nシーエルフとの交渉は終了した。彼らは愚かにも自分たちが我々と同等だと信じている。タムリエルの正当な支配者が単なる魚の民と権力を分かち合うと。愚か者め\r\n\r\n彼らの前ではごまかし続けることが肝要だ。彼らにオーリドンへの馬鹿げた攻撃を仕掛けさせた。彼らはビーコンの確保すらできないだろうが、彼らの攻撃は死と破壊、分裂を引き起こすだろう。混沌は偽りの女王への反撃に使える\r\n\r\n我々の計画は進行中だ\r\n\r\nベールの女王"
+
+#: 51188213-0-707
+msgctxt "51188213-0-707"
+msgid "Our Dupes, the Sea Elves"
+msgstr "ペテン師、シーエルフ"
+
+#: 21337012-0-706
+#, fuzzy
+msgctxt "21337012-0-706"
+msgid "Regarding our friends, the Khajiit:\nDo NOT refer to them as ""Cats.""\nDo NOT serve them food intended for pet cats.\nIf you own a pet cat, do NOT call Khajiiti by your cat's name.\nDo NOT attempt to grab their tail—unless permission is granted.\n\nRegarding our friends, the Wood Elves:\nDo NOT ask the Wood Elves about adding vegetables to their recipes.\nDo NOT cut down a tree in front of a Wood Elf.\nDo NOT ask how Wood Elf flesh tastes.\nDo NOT ask how to cook a Khajiit.\n\nOur newfound friends in the Dominion stand beside you as comrades in arms and they deserve a measure of respect. Please speak to your local Thalmor representative if further clarification is required."
+msgstr "我々の友人、カジートについて:\r\n彼らを「猫」と呼んではいけない\r\n彼らにペットの猫向けの食事を提供しない\r\nペットの猫を飼っている場合、カジートを猫の名前で呼んではいけない\r\n彼らの尻尾を掴んではいけない。ただし許可を得た場合を除く\r\n\r\n我々の友人ウッドエルフについて:\r\nウッドエルフのレシピに野菜を加えるよう頼んではいけない\r\nウッドエルフの目の前で木を切り倒してはいけない\r\nウッドエルフの肉がどんな味がするのか訊ねてはいけない\r\nカジートの調理方法を訊ねてはいけない\r\n\r\nドミニオンにおける我々の新しい友人は戦友として並ぶものであり一定の敬意を払われるべき存在である。さらに明確にしたい要件がある場合は近隣のサルモール代表に問い合わせを"
+
+#: 51188213-0-706
+msgctxt "51188213-0-706"
+msgid "Thalmor Diplomatic Corps Notice"
+msgstr "サルモール外交使節の通知"
+
+#: 21337012-0-705
+msgctxt "21337012-0-705"
+msgid "Would you stand by while your village or town burned? Then why do you do nothing while Morrowind suffers? The Tribunal may be too busy to do the right thing, but we're not. The Maulborn, a society of like-minded Dark Elves who want to help the poor and protect the weak, was formed to take care of the problems that are too mundane, too inconsequential, or too difficult to attract the attention of the Tribunal and its agents.\n\nWe have a plan for the Llodos plague ravaging our population. We have a plan for the plague husks terrorizing our towns. We have a plan, and that's more than the Great Houses or the Tribunal can say. But we can't accomplish our plans without your help. Join the Maulborn and become part of the solution. Our volunteers are already making a difference in such diverse locations as the Serk, the Obsidian Gorge, and the Narsis wilderness. We'd be happy to allow you to help us in our important work.\n\nWho are the Maulborn? We're your friends and neighbors. Your cousins. Your sons and daughters. We're the gathering storm and the strong arm of judgment. We're the cleansing wind that will soon blow across the entirety of Morrowind. We are healers and wizards, warriors and caregivers. We are the Maulborn, and we are you.\n\nCome make a difference. Come join the Maulborn.\n\nOur recruitment liaisons are anxious to meet you."
+msgstr "自分の村や街が燃やされたら傍観するのか？ ならばモロウウィンドが苦しんでいるのになぜ何もしない？ トリビュナルは忙しすぎて正義を行なえないのかもしれないが、我々は違う。モールボーンは貧者を助け弱者を守りたいダークエルフの同志が集う団体で、あまりにも日常的、あまりにも瑣末、あるいはあまりにも困難なため、トリビュナルやその代弁者の注意を引けない問題を扱うために結成された\r\n\r\n我々には市民に蔓延するロドス病に対抗する計画がある。我々には街を恐怖に陥れている疫病ハスクに対する計画がある。我々には計画があり、それは名家やトリビュナルの話よりも現実的だ。しかし君たちの助けなくして計画の成就は叶わない。モールボーンに参加し、解決策の一部となってほしい。我々の有志は既にセルク、オブシディアン・ゴージ、ナルシスの荒野といった、さまざまな場所で効果を上げている。我々の重要な仕事を君たちが助けてくれるならうれしい\r\n\r\nモールボーンとは何者か？ 我々は君たちの友人であり隣人だ。君たちの親類だ。君たちの息子であり娘だ。我々は大きくなる嵐、正義の強力な実践だ。我々はまもなくモロウウィンド全体に吹く浄化の風だ。我々は治癒師であり魔術師で、戦士であり介護士だ。我々はモールボーン、そして我々は君たちだ\r\n\r\nさあ、違いを見せよう。来たれモールボーンへ\r\n\r\n採用担当が君たちとの出会いを待っている"
+
+#: 51188213-0-705
+msgctxt "51188213-0-705"
+msgid "To Do What is Needed"
+msgstr "必要なことを成すべきだ"
+
+#: 21337012-0-684
+#, fuzzy
+msgctxt "21337012-0-684"
+msgid "If you are intent on joining the Knights of the Dragon, you must understand our purpose and our way. Some confuse us with the Dragonguard. We are not devotees to the Empire of Cyrodiil, nor were we created to slay the Dragons of old. We were created to serve His Majesty the Dragon, the King of Daggerfall. We are the sword and the shield of Daggerfall's King. We are his elite soldiers, his honorable sons and daughters, and his most loyal protectors. \n\nSay your vows only if you are willing to take on this responsibility. This is our oath:\n\nI vow to serve the Dragon. I lay down my life, my gold, and my sacred honor for my King. His word is my order, my sword is his arm. Our lives are one."
+msgstr "竜騎士団に入団する意思があるならば、我々の目的とやり方を理解してもらわねばならない。我々をドラゴンガードと勘違いしている者がいる。我々はシロディール帝国の支持者でもなければ、太古のドラゴンを虐殺するために結成されたわけでもない。ダガーフォールの王であるドラゴン、陛下に仕えるために結成された。我々はダガーフォールの王の剣であり盾だ。王の精鋭兵であり、王の名誉ある息子と娘であり、王の最も忠実な護衛である。\r\n\r\nこの責任を負える者だけに誓いの言葉を述べてもらいたい。誓いの言葉は以下の通りだ。\r\n\r\nドラゴンに仕えることを誓う。命と財産と神聖なる敬意を王に捧げる。王の言葉は絶対であり、私の剣が王の腕となる。王と命を共にする。"
+
+#: 51188213-0-684
+msgctxt "51188213-0-684"
+msgid "Knights of the Dragon"
+msgstr "竜騎士団"
+
+#: 21337012-0-682
+msgctxt "21337012-0-682"
+msgid "Greetings, citizen. We are the Lion Guard, the most elite fighting force serving the Daggerfall Covenant. And we want you!\n\nDo you seek adventure, excitement, and the chance to protect High King Emeric, leader of the Daggerfall Covenant? Then join the ranks of the illustrious Lion Guard.\n\nWe have been deployed across High Rock at the behest of His Majesty to protect the land. We battle against any and all that would challenge the might of the Covenant or threaten its citizens.\n\nDo you have what it takes to become a member of the Lion Guard? Are you brave and strong? Are you willing to follow orders while still being able to react to everchanging situations? Do you have skills and abilities that make you invaluable to our cause? Do you come of good family with unstained reputation? Well, we'll be the judge of that!\n\nSee your local Lion Guard recruiter today!"
+msgstr "市民よ、ごきげんよう。我々は獅子の守護団、ダガーフォール・カバナントに仕える最精鋭の戦闘部隊だ。新入団員を募集する！\r\n\r\n冒険や刺激を求めていないか？ ダガーフォール・カバナントのリーダーである上級王エメリックを護衛したくはないか？ ならば輝かしい獅子の守護団に入団せよ！\r\n\r\n我々は陛下の命令により、この地を守るためハイロック全土に配備されている。我々はカバナントの力に挑戦し、市民を脅かす者全員に立ち向かう。\r\n\r\n獅子の守護団の一員となるにふさわしい資質を持っているか？ 勇敢さと強さを持ち合わせているか？ 絶え間なく変わる状況に対処しながら、指令に従うことを厭わないか？ 大義を果たすために、掛け替えのない人物となれる技術と能力を備えているか？ 高い評判を持った良家の出であるか？ まあ、それは我々が判断しよう！\r\n\r\n本日、獅子の守護団の募集係の所に来たれ！"
+
+#: 51188213-0-682
+msgctxt "51188213-0-682"
+msgid "The Lion Guard Wants You!"
+msgstr "獅子の守護団団員募集！"
+
+#: 21337012-0-677
+msgctxt "21337012-0-677"
+msgid "I have no echo, so I cannot speak?\n\nMy limbs are short, so I cannot reach the sky?\n\nMy wind is bound, won't YOU help me break free?\n\nIf we do not set our Goblin brethren free, who will? Argonians know the yoke of servitude. Will we place it on others while the memory of slavery still lingers in our minds? When we return to the Hist, what will our ancestors say to us?\n\nAnd, you, who are not Argonians, are we not all brothers under our soft or scaly skins? If we use slaves, are we not depriving ourselves of honest work? If we force others into service, will not our overlords do the same to us?\n\nIf you want to know what you can do to save a Goblin, speak to Miharil."
+msgstr "響かせることができなければ話してはいけないのか？\r\n\r\n手足が短ければ空には届かないのか？\r\n\r\n私の風は縛られている、助け出してくれないか？\r\n\r\n我々がゴブリンの同胞を解放しなければ、誰がやるというのだ？ アルゴニアンは奴隷の束縛がどのようなものか知っている。奴隷の記憶がまだ心に残っているのに、他の者に任せるのか？ ヒストに戻った時、祖先達は何と言うだろうか。\r\n\r\nそして、アルゴニアンではない者も、私たちは皆この柔らかい肌や鱗の肌を脱げば同じ仲間ではないか？ 奴隷を使えば、自分自身から誠実な仕事を奪うことにはならないか？ 他人に労働を強いれば、我々の君主も我々に同じことをするのではないか？\r\n\r\nゴブリンを救い出す気があるならば、ミハリルに話をしてくれ。"
+
+#: 51188213-0-677
+msgctxt "51188213-0-677"
+msgid "Free Our Goblin Brothers!"
+msgstr "ゴブリンの同胞を解放せよ！"
+
+#: 21337012-0-653
+msgctxt "21337012-0-653"
+msgid "Fledgling Members of the Academy:\n\nRise and shine! We have another education-filled day ahead of us. Another chance to develop your gifts of mysticism and magicka, leadership and military strategy. \n\nThe first few days of study have flown by, and you have proven worthy of the honor of enrollment at this prestigious Academy. You have not only demonstrated the requisite acumen for your studies, but also confirmed your ability to keep up with the modest tuition payments that keep Shad Astula's welcoming doors open. For these reasons, we are pleased to offer you the opportunity to select your own course of study for the next ten days.\n\nPlease choose the introductory course you wish to pursue and properly petition the instructor of that art. For the next ten days, you will diligently work to master one of the following disciplines.\n\nUnderstand that these designations exist solely for the purposes of teaching. They do not represent any formal schema of organization within the Mages Guild or any similar organization.\n\nALTERATION I: This introductory course teaches simple magical methods of physical manipulation, including techniques for strengthening and weakening basic materials.\n\nCONJURATION I: In this introductory course, students learn to summon simple weapons and shields, such as daggers or bucklers. Note that knife fighting and defense are not covered in this class.\n\nDESTRUCTION I: As a prelude to later studies, students learn the basics of the elemental manipulation of flame and frost. An additional security deposit is required to cover the unlikely event of damage to persons and property.\n\nILLUSION I: Learn simple manipulation of light and shadow, sound and silence, in this introductory course. Your first project will be to create magical candlelight. \n\nRESTORATION I: This introductory course teaches the basics of the healing arts, as well as the fundamental principles of manipulating life force. The purchase of various small animals may be required, in addition to any other course-required materials.\n\nCompletion of any of these basic courses will serve as a prerequisite to later studies. A student is free to select a course from ONE of these options. Upon completion of an introductory class, the student is eligible to pursue a second introductory class, if instruction time and class size allows.\n	\nThe study of the ARCANE ARTS awaits you!\n\nNo doubt you will prove yourself worthy of the instruction and patronage you are receiving.\n\nFailure to complete a course of study may result in additional tuition charges to cover the cost of taking make-up instruction.\n\nGood luck!"
+msgstr "当大学の新入生達へ:\r\n\r\nさあ、目を覚ましてください！ これから学習漬けの日々が待っています。あなたの秘術とマジカの才能、統率力と戦術の才能を伸ばす良い機会です。\r\n\r\n最初の数日間はあっという間に過ぎてしまいましたが、この一流大学の新入生という栄光にふさわしいと証明してくれました。必須の洞察力を示しただけでなく、シャド・アツーラの門戸を開くために少額に設定されている授業料を払う能力があることも裏付けしてくれました。これらの理由から、これから10日間に及ぶ学習課程の選択権を喜んで提供します。\r\n\r\n学習を希望する入門課程を選択し、その技術を学ぶために講師に適切に願い出てください。これから10日間、以下の鍛錬を1つ会得するため熱心に取り組んでもらうことになります。\r\n\r\nこれらの分類は単に指導指針として存在するものだということをご理解ください。魔術師ギルドやその他の組織内の正式な概要を表すものではありません。\r\n\r\n変性I: この入門課程では物質操作に関する初歩的な魔法技術を指導します。基本的な物質の強化や弱体化などを学びます。\r\n\r\n召喚I: この入門課程では短剣やバックラーといった初歩的な武器や盾の召喚方法を学びます。ナイフでの攻撃や防御の指導は含まれていないので注意してください。\r\n\r\n破壊I: さらなる学習に向けての入門課程として、炎と氷の属性操作の基本を学びます。万が一人や物に損害が出た場合に供えて、追加の手付金が必要です。\r\n\r\n幻惑I: この入門課程では光と影、音と静寂の基本的な操作を学びます。最初の課題は魔法のロウソクを作り出すことです。\r\n\r\n回復I: この入門課程では基本的な治癒技術及び生命力操作の基本原理を学びます。指導課程で必要となった場合は、様々な小動物やその他の物質を購入しなければならないことがあります。\r\n\r\nさらなる学習に進むためには、これらの入門課程のどれか1つが必修となります。生徒はこの中から好きな課程を1つだけ選んでください。入門クラスを修了すると、指導時間と生徒数に余裕があれば、次の入門クラスに進む資格が与えられます。\r\n\r\nあなた達は必ずや指導と後援を受け続けるにふさわしい能力があると証明できるでしょう。\r\n\r\n学習過程を修了できなかった場合は、補習授業にかかる費用として追加の授業料を支払ってもらうことがあります。\r\n\r\n頑張ってください！"
+
+#: 51188213-0-653
+msgctxt "51188213-0-653"
+msgid "Shad Astula Curriculum"
+msgstr "シャド・アツーラのカリキュラム"
+
+#: 21337012-0-633
+msgctxt "21337012-0-633"
+msgid "Be very careful when you handle the holy vessel. It is the most important relic in our temple and the reason why our temple exists at all. Saint Veloth is best known for wielding his hammer, Veloth's Judgment, but he also carried this vessel in his time. Like many objects the saint blessed, it has the power to heal. But it also possesses a variety of other interesting magical properties. Indestructibility is not, unfortunately, one of them.\n\n—Tidyn Arthalen"
+msgstr "聖なる器を扱うときは細心の注意を払わなければならない。聖堂の中でも最も重要な遺物で、そもそも聖堂はそのために存在している。聖ヴェロスはヴェロスの審判という槌を操ることで有名だが、それだけではなくこの聖なる器も所有していた。彼が祝福を与えた他の多くの物と同様、この器にも治癒能力が宿っている。しかし他にも、様々な興味深い魔法特性を持っている。残念ながら壊れないという能力は備わっていない。\r\n\r\nタイディン・アーサラン"
+
+#: 51188213-0-633
+msgctxt "51188213-0-633"
+msgid "The Holy Vessel"
+msgstr "聖なる器"
+
+#: 21337012-0-617
+msgctxt "21337012-0-617"
+msgid "By Alla Llaleth\n\nThe brash young kingdoms of the Covenant want to reestablish the Empire of Men. They are too callow and immature to realize that the Empire was a failed experiment whose time has passed. Now is a time of crisis for all of Nirn, and Tamriel cannot afford to have these unlearned barbarians destabilizing Cyrodiil and jeopardizing our efforts to stave off world-destroying doom.\n\nThe Ebonheart Pact will not allow the Daggerfall Covenant to establish another bloody-handed dynasty of Imperial tyrants. Time and again throughout history, armies of men have marched in from the rim of Tamriel to conquer its center, enjoying a brief moment of power before sliding into inevitable discord and decay. It's time to break this destructive cycle once and for all. We need to defeat the armies of the Covenant, depose their kings, and bring their chastened successors into a new Tamriel Pact, where wiser heads shall prevail."
+msgstr "アッラ・ラレス著\r\n\r\nカバナントの生意気で未熟な王国が人間の帝国を再建しようとしている。未熟すぎて、帝国とは失敗した実験にすぎず、その時代は終わったということもわからないのだろう。これはニルンの者全員にとっての危機であり、タムリエルはあのような学ばぬ蛮族の存在を許すわけにはいかない。シロディールを揺るがし、世界の破壊を防ごうという我々の努力を脅かしているあの蛮族共の存在を。\r\n\r\nエボンハート・パクトは、ダガーフォール・カバナントに暴君の血の手に染まった王朝を建設させはしない。歴史上何度も、人間の軍はタムリエルの辺境から中心部を征服しようと攻め入り、束の間の権力を楽しんだのち必ず不和を生じ衰退した。この有害な循環は今回限りで、永遠に葬り去るべきだ。カバナント軍を倒し、奴らの王を退位させ、反省した後継者を新たなタムリエル・パクトに取り込み、賢者が勝利するべき時だ。"
+
+#: 51188213-0-617
+msgctxt "51188213-0-617"
+msgid "Breaking the Cycle of Tyranny"
+msgstr "圧政の循環の破壊"
+
+#: 21337012-0-615
+msgctxt "21337012-0-615"
+msgid "Now that we have been banished to this cave there is little for us to do but chronicle the reasons we have been forced here. It distracts us from the hunger, and we will not break and eat our own kin as our disgusting brethren outside do.\n\nWe Bosmer, though they call us Apostates, seek to join the rest of the world in modern, civilized thought. We do not wish to be tree-worshiping primitives any longer.\n\nTo that end we did what to our cousins who imprisoned us in here is unthinkable: we farmed.\n\nWe planted and sowed and were going to harvest until we were found out and cast down here, beneath the surface, to die for our transgression against the Green Pact.\n\nWe did not agree to the Green Pact, our ancestors did long ago. Yet we must live with the consequences. We cannot even make our own bows thanks to this ridiculous agreement, yet we can buy them from other people. For us to chop down trees is blasphemy, but to pay someone else to do it is fine.\n\nThis hypocrisy is ridiculous and we refused to be bound by it. For our refusal, we die."
+msgstr "この洞窟に追放された今、ここに入れられることになった理由の整理以外にできることは限られている。しかしそうすることで空腹をまぎらわすことができる。決して外にいる汚らわしい同胞のように、同族を食べたりはしない。\r\n\r\n我々ボズマーは――奴らには背教者と呼ばれるが――現代的で文明化された考えを持った世界に戻りたい。木を崇拝する原始人などもうこりごりだ。\r\n\r\nその目標を持って我々がしたこと、仲間にここに閉じ込められることになった理由は、誰にも想像できないだろう。農業だ。\r\n\r\n木を植えて種を蒔き、もうすぐ収穫できるところだった。発見されて、グリーンパクトを破った罪で死ぬためこの地下に追放されるまでは。\r\n\r\n我々がグリーンパクトに同意したのではない。我々の祖先が遠い昔に同意したのだ。しかしそれでも結果は受け入れなければならぬ。この馬鹿げた協定のせいで我々は弓を作ることすらできないが、他の者から買うことはできる。自分達で木を切り倒すと冒涜と見なされるのに、誰かに頼めば問題にならないのだ。\r\n\r\n偽善など馬鹿げたもので、そんなものに縛られるわけにはいかない。それを拒絶したために、我々は死ぬのだ。"
+
+#: 51188213-0-615
+msgctxt "51188213-0-615"
+msgid "Why We Farm"
+msgstr "なぜ耕したか"
+
+#: 21337012-0-593
+msgctxt "21337012-0-593"
+msgid "By decree of <<1>>, the Court Mage <<2>> is henceforth stripped of all titles, duties, and rights accorded to him by his position.\n\nThe outcast <<2>> is furthermore banished from the Summerset Isles for his crimes against the citizenry of the Dominion.\n\nBy the will of the queen, he has one week to remove himself from the heart of the Dominion, or face charges most serious. And consequences most fatal.\n\nBy the Queen's hand!"
+msgstr "<<1>>の布告により、これを以て宮廷魔術師<<2>>からその地位に付随する全称号、義務、権利を剥奪する。\r\n\r\nさらに、ドミニオン市民に対して行った犯罪行為により追放者<<2>>をサマーセット諸島から追放する。\r\n\r\n女王の意志に従い、ドミニオン中心部から1週間以内に離れること。さもなければ極刑を言い渡し、無慈悲な結末を与える。\r\n\r\n女王の手によって！"
+
+#: 51188213-0-593
+msgctxt "51188213-0-593"
+msgid "Royal Decree"
+msgstr "王の布告"
+
+#: 21337012-0-5748
+msgctxt "21337012-0-5748"
+msgid "A lucrative opportunity awaits hard workers with strong backs and good constitutions who wish to earn a generous amount of gold.\n\nCome to the Grinning Horker, an inn in northwestern Eastmarch. Just follow the path up into the mountain, west of Voljar's Meadery.\n\nAll capable and interested parties welcome!"
+msgstr "強靭な足腰と頑丈な身体に恵まれた働き者の労働者に、大儲けのチャンスが待っている。\r\n\r\nイーストマーチの北西にある宿屋、〈笑うホーカー〉に来てほしい。山への道を道なりに進めば良い。ヴォルジャー醸造所の西にある。\r\n\r\n能力があり、興味を持った者は誰でも歓迎する！"
+
+#: 51188213-0-5748
+msgctxt "51188213-0-5748"
+msgid "Lucrative Opportunity In Eastmarch"
+msgstr "イーストマーチで大儲けのチャンス"
+
+#: 21337012-0-566
+msgctxt "21337012-0-566"
+msgid "Attention Bounty Hunters!\n\nAny and all previously announced bounties on Sanguine cultists were posted in error. There is no bounty. None at all.\n\nIn addition, please disregard any steaming vitriol, all declarations of public menace, and any calls for public lambasting, chastisement, or retribution.\n\n…And remember that the party is now in full swing at Sanguine's Demesne. Hope to see you there!\n\n— The Stormhold Council (Genuine)"
+msgstr "賞金稼ぎへの注意！\r\n\r\n以前告知したサングイン信者に関する賞金がすべて誤って掲示されていた。賞金は掛かっていない。まったく掛かっていない。\r\n\r\nさらに、民衆の敵に関する批判や布告、公開の非難や体罰や懲罰に関する呼び掛けはすべて無視するように。\r\n\r\n…そしてサングインの領域での宴が最高潮だということも忘れないように。サングインの領域で会おう！\r\n\r\n――ストームホールド議会(本物)"
+
+#: 51188213-0-566
+msgctxt "51188213-0-566"
+msgid "The Sanguine Cult"
+msgstr "サングインの教団"
+
+#: 21337012-0-563
+msgctxt "21337012-0-563"
+msgid "The Wayrest Guard hereby issues the following alert to all citizens:\n\nCity patrols have noticed several heavily-armed persons of suspicious behavior attempting to traverse the sewer system in the undercity. The Guard suspects these individuals of ill-doing and strongly encourages citizens to report any dubious behavior in and around the sewers to the Wayrest Guard."
+msgstr "ウェイレスト衛兵より全市民に以下の警告を発する:\r\n\r\n街の地下の下水道を通り抜けるために不審な行動をしている、複数の重武装の人物の存在を街の巡回部隊が確認した。ウェイレスト衛兵はこの人物に容疑を掛けている。下水道の中または周辺で不審な行動を目撃した市民は、必ずウェイレスト衛兵に通報するように。"
+
+#: 51188213-0-563
+msgctxt "51188213-0-563"
+msgid "BEWARE: Undercity Ruffians"
+msgstr "注意: 街の地下の悪漢について"
+
+#: 21337012-0-504
+msgctxt "21337012-0-504"
+msgid "Tervur Sadri is wanted for the murder of Master Selos of House Selos.\n\nHe is considered an armed menace.\n\nTervur Sadri was last seen in eastern Deshaan. \n\nAny information on the whereabouts of Tervur Sadri should be given to Nervyna Selos."
+msgstr "テルビュー・サドリは、セロス家のマスター・セロスの殺人容疑で指名手配されている。\r\n\r\n彼は武装した危険人物であると考えられる。\r\n\r\nテルビュー・サドリが最後に目撃されたのは東デシャーンだ。\r\n\r\nテルビュー・サドリの居所に関するいかなる情報も、ネルヴィナ・セロスへ与えられるべし。"
+
+#: 51188213-0-504
+msgctxt "51188213-0-504"
+msgid "WANTED: Tervur Sadri"
+msgstr "手配: テルビュー・サドリ"
+
+#: 21337012-0-4810
+msgctxt "21337012-0-4810"
+msgid "Are you an adventurer of good reputation? Have low to moderate homicidal tendencies? Looking for a cozy home to call your own, but too low on funds to afford one?\n\nHow would you like a free inn room? That's right, completely free! No catch! Just seek out Felande Demarie at your local inn for more information about this exciting ownership opportunity!"
+msgstr "あなたは評判の良い冒険家か？ 低～中程度の暴力的な傾向がある？ 自宅と呼べる居心地の良い家を探しているが、資金が足りない？\r\n\r\n無料の宿屋の部屋を探していないか？ そう、完全に無料だ！ 何の裏もない！ 地元の宿屋でフェランデ・デマリエを探して、この素晴らしい所有の機会についてもっと聞こう！"
+
+#: 51188213-0-4810
+msgctxt "51188213-0-4810"
+msgid "Seeking Tenant!"
+msgstr "借り手募集中！"
+
+#: 21337012-0-4575
+msgctxt "21337012-0-4575"
+msgid "Come to the island of Vvardenfell, in Morrowind, to bask in the presence of the Living Gods of the Tribunal and experience all the wonders that dwell in the shadow of Red Mountain. From Vivec City to Sadrith Mora, the Ashlands to Azura's Coast, the land of the Dark Elves overflows with exciting adventure and endless opportunity.\n\nNeed more incentive? The priests of the Tribunal seek able-bodied adventurers to offer assistance with a number of growing problems, including Daedra-infested ancestral tombs, Ashlander raiders, and ancient ruins overrun with evil cultists.\n\nSee a Navigator today and set sail for adventure—Morrowind needs you!"
+msgstr "モロウウィンドの偉大なる島、ヴァーデンフェルへいらっしゃいませんか。生ける神トリビュナルと、レッドマウンテンの影に潜む様々な不思議があなたを待っています。ヴィベク・シティからサドリス・モラ、アッシュランド、アズラ海岸まで、ダークエルフの地には興奮させられる冒険と機会が溢れています。\r\n\r\nまだ足らない？ トリビュナルの神官はデイドラが住み着いた先人の墳墓、アッシュランダーの襲撃者、悪しき信者に乗っ取られた古代の遺跡など、様々な問題に対し、有能な冒険者に助力を求めています。\r\n\r\n航海士を見つけて、冒険の旅を始めましょう。モロウウィンドにお越しください！"
+
+#: 51188213-0-4575
+msgctxt "51188213-0-4575"
+msgid "Morrowind Needs You!"
+msgstr "モロウウィンドにお越しください！"
+
+#: 21337012-0-4571
+msgctxt "21337012-0-4571"
+msgid "Why brave the dangers of the open road or pay the high costs of an unsettling sea voyage when you can travel overland in safety and comfort aboard a friendly silt-strider? Why ride a caravan of questionable virtue when the Red Mountain Company Express Silt-Strider Service is available at a fraction of the cost?\n\nVisit any of our Silt-Strider Stations, located conveniently in towns throughout Vvardenfell, and connect to destinations far and near. Want to leave the hustle of Vivec City behind? Travel to Balmora and see the canals, or visit the plantations of Suran! Stuck in the outskirts of Gnisis? It's just a short trip via the Caravaner Tower outside town and you can reach Tel Mora before dinner!\n\nThe Red Mountain Company Express Silt-Strider Service, located at Caravaner Towers all across Vvardenfell, can get you where you need to go. Remember, when you climb aboard a silt-strider, your destination is just a hop, skip, and a jump away!"
+msgstr "一般の道で危険を冒し、高額を払って波乱の海の旅に出ず、優しいシルトストライダーに乗って、地上を安全に心地よく旅してみませんか？ はるかに安価なレッドマウンテン社のシルトストライダー急行サービスが利用できるのに、道義心が怪しいキャラバンと同行する必要がありますか？\r\n\r\nヴァーデンフェルのどの街にもある、便利なシルトストライダーステーションを訪れて、様々な目的地へ移動しましょう。ヴィベク・シティの雑踏から離れたい？ それならバルモラで運河を見て、スランの大農園を訪れましょう！ グニシスの郊外でうんざりしている？ すぐ外にあるキャラバン乗りの塔へ少し移動するだけで、夕食前にはテル・モラに到着できます！\r\n\r\nレッドマウンテン社のシルトストライダー急行サービスはヴァーデンフェル中にあるストライダー乗りの塔で利用でき、希望の場所へお連れします。シルトストライダーに乗り込んだら、目的地はもうすぐそこです！"
+
+#: 51188213-0-4571
+msgctxt "51188213-0-4571"
+msgid "Silt-Strider Station"
+msgstr "シルトストライダーステーション"
+
+#: 21337012-0-4431
+msgctxt "21337012-0-4431"
+msgid "I have detailed herein the general location and value of most of the homes and rooms for sale in Tamriel. To seek out property without such a guide is a firm misstep. But fear not, for I have done the heavy lifting for you!\n\nFor the thrifty, one can purchase a modest inn room. These were recently put on the market, and may serve as a quality starter home:\n\nMara's Kiss Public House in Vulkhel Guard, Auridon\nThe Rosy Lion in Daggerfall, Glenumbra\nThe Ebony Flask Inn Room in Ebonheart, Stonefalls\nThe Saint Delyn Penthouse in Vivec, Vvardenfell\nGolden Gryphon Garret in Alinor, Summerset\nSugar Bowl Suite in Rimmen, Northern Elsweyr\n\nIf one has more than a few coins to rub together, there are larger apartments available for the vagrant hoping to become a respectable citizen. These include:\n\nBarbed Hook Private Room in Skywatch, Auridon\nSisters of the Sands Apartment in Sentinel, Alik'r Desert\nFlaming Nix Deluxe Garret in Mournhold, Deshaan\n\nThe following properties are for serious buyers only. Letters of credit will not be accepted for their sale, no matter whose cousin you know:\n\nBlack Vine Villa, Malabal Tor\nHumblemud, Bal Foyen\nSnugpod, Grahtwood\nCaptain Margaux's Place, Glenumbra\nKragenhome, Stonefalls\nCyrodilic Jungle House, Malabal Tor\nMoonmirth House, Khenarthi's Roost\nAutumn's-Gate, The Rift\nHammerdeath Bungalow, Stormhaven\nTwin Arches, Bangkorai\n\nFor those with loftier aspirations and more possessions, you may wish to examine these properties:\n\nCliffshade, Greenshade\nThe Ample Domicile, Shadowfen\nBouldertree Refuge, Greenshade\nRavenhurst, Rivenspire\nVelothi Reverie, Deshaan\nDomus Phrasticus, Craglorn\nSleek Creek House, Reaper's March\nGrymharth's Woe, Eastmarch\nMournoth Keep, Bangkorai\nHouse of the Silent Magnifico, Alik'r Desert\nAld Velothi Harbor House, Vvardenfell\n\nNobility and the like will find the following properties the most acceptable, as they usually provide quarters for servants or livestock:\n\nMathiisen Manor, Auridon\nStay-Moist Mansion, Shadowfen\nThe Gorinir Estate, Grahtwood\nGardner House, Stormhaven\nQuondam Indorilia, Deshaan\nStrident Springs Demesne, Reaper's March\nDawnshadow, Reaper's March\nOld Mistveil Manor, The Rift\nForsaken Stronghold, Bangkorai\nHunding's Palatial Hall, Stros M'Kai\nAmaya Lake Lodge, Vvardenfell\nColdharbour Surreal Estate\nAlinor Crest Townhouse, Summerset\n\nI have seen most of these properties only from afar, as most of their owners are of a private disposition and I wish to respect that. A purchaser would enter a new echelon of society, or become established well outside it if they prefer solitude, in a fortnight:\n\nSerenity Falls Estate, Reaper's March\nDaggerfall Overlook, Glenumbra\nEbonheart Chateau, Stonefalls\nHakkvild's High Hall, the Jerall Mountains, east of Craglorn\nHall of the Lunar Champion in Rimmen, Northern Elsweyr"
+msgstr "タムリエルで売買される土地や不動産価格についてここに詳述しました。このようなガイドなしで不動産を探すことは大変な誤りです。私の仕事は、皆様から重荷を取り除きます！\r\n\r\n倹約する場合は、しっかりした宿の部屋を購入することもできます。これらの物件は最近市場に出たものです。上質な最初の家となるでしょう:\r\n\r\nパブ〈マーラの口づけ〉 (バルケルガード、オーリドン)\r\n酔いどれライオン (ダガーフォール、グレナンブラ)\r\n宿屋〈黒檀のフラスコ〉の部屋 (エボンハート、ストンフォール)\r\n聖デリン・ペントハウス (ヴィベク、ヴァーデンフェル)\r\n〈黄金のグリフォン〉の屋根裏部屋 (アリノール、サマーセット)\r\n〈シュガーボウル〉 の特別室(北エルスウェア、リンメン)\r\n\r\nもしお金に余裕ができたら、下記のアパートがお勧めです。放浪者から尊敬される市民へと変わりたい方向けに、より大きなアパートがあります。下記をご覧ください:\r\n\r\n〈バーブド・フック〉の個室 (スカイウォッチ、オーリドン)\r\nアパート〈砂の姉妹〉 (センチネル、アリクル砂漠)\r\n〈フラミング・ニックス〉の豪華な屋根裏部屋 (モーンホールド、デシャーン)\r\n\r\n下記の不動産は真剣な購入者限定です。どんな親戚がいようと、信用状は利用できません。\r\n\r\nヴィラ〈ブラックヴァイン〉 (マラバル・トール)\r\nハンブルマッド (バル・フォイエン)\r\nスナグポッド (グラーウッド)\r\nマルゴー船長の住まい (グレナンブラ)\r\nクラゲンホーム (ストンフォール)\r\nシロディール風ジャングルハウス (マラバル・トール)\r\nムーンマースの家 (ケナーシズルースト)\r\nオータムゲイト (リフト)\r\nハンマーデスのバンガロー (ストームヘヴン)\r\nツインアーチ (バンコライ)\r\n\r\nより志が高く、所持品が多い方は、下記の不動産をお試しください:\r\n\r\nクリフシェイド (グリーンシェイド)\r\n広大な居住地 (シャドウフェン)\r\n隠れ家〈巨石と木〉 (グリーンシェイド)\r\nレイヴンハースト (リベンスパイアー)\r\nヴェロシの夢城 (デシャーン)\r\nフラスティクスの家屋 (クラグローン)\r\n滑らかな小川の家 (リーパーズ・マーチ)\r\nグリムハースの悲痛 (イーストマーチ)\r\nモウルノス砦 (バンコライ)\r\n〈静謐なる栄光〉 (アリクル砂漠)\r\nアルド・ヴェロシのハーバーハウス (ヴァーデンフェル)\r\n\r\n貴族やそれに準じる方は、下記の不動産が合っていると感じられるかもしれません。通常、こうした方々は召使や家畜のために住居を提供されます:\r\n\r\nマティースン邸 (オーリドン)\r\n〈潤い保つ〉邸 (シャドウフェン)\r\nゴリニル屋敷 (グラーウッド)\r\nガードナーハウス (ストームヘヴン)\r\n旧インドリル邸 (デシャーン)\r\n軋みバネの私有地 (リーパーズ・マーチ)\r\nドーンシャドウ (リーパーズ・マーチ)\r\n旧ミストヴェイル邸 (リフト)\r\n捨てられし要塞 (バンコライ)\r\nフンディング宮殿 (ストロス・エムカイ)\r\nアマヤ湖の小屋 (ヴァーデンフェル)\r\nコールドハーバーの超現実邸宅 (コールドハーバー)\r\nアリノール高台の別邸 (サマーセット)\r\n\r\n下記の不動産は遠くからしか拝見していません。こうした土地の所有者は煩わされることを好まず、私はその意思を尊重したいと思っています。購入者はすぐに新たな社交の場へ引き入れられるか、孤独を好むなら評判となるでしょう。\r\n\r\nセレニティフォールズの邸宅 (リーパーズ・マーチ)\r\nダガーフォール監視台 (グレナンブラ)\r\nシャトーエボンハート (ストンフォール)\r\nハックヴィルドのいと高き館 (ジェラール山脈、クラグローン東部)\r\n月の勇者の広間 (リンメン、北エルスウェア)"
+
+#: 51188213-0-4431
+msgctxt "51188213-0-4431"
+msgid "Anthology of Available Abodes"
+msgstr "利用可能な住居総覧"
+
+#: 21337012-0-420
+msgctxt "21337012-0-420"
+msgid "Our All-Beneficent King Fahara'jad (may he live forever) has ignited the flame of ambition within our breasts. From the waters which delivered us to the coasts of Hammerfell, we embark on a journey of legend and song. All shall sing of our deeds and our consorts will burn with everlasting fervor for our victorious return!\n\nDo not falter, warriors of Yokuda! Our Steel Shrikes (may we be ever triumphant) shall cut to the heart of the untamed jungles and reveal a new land. As we broke upon the shores of Alik'r, so shall we set our mark upon the sands of the Elves. The Redguards' next great domain shall be built on the ashes of our conquered foes! Our strength, our honor, and our courage shall triumph forever!"
+msgstr "全てにおいて寛大な我らがファハラジャード王(永遠に生きられますように)は、我々の胸中にある野心の炎に火をつけられた。ハンマーフェルの海岸へと我々を届けた海から、我々は伝説と歌の旅を始める。すべての者は我らが偉業を歌うべし。我らの凱旋は熱く迎えられ、皆が我らの行いを歌うだろう！\r\n\r\nためらうな、ヨクダの戦士たちよ！ 我らスティールシュライク(永遠に勝利を得ますように)は未開の密林の中心まで切り開き、新しい地を明らかにするだろう。アリクルの岸に打ち寄せられたからこそ、我々はエルフの浜辺の上に跡をつけたのだ。レッドガードの次なる偉大な領土は、打ち負かした敵の灰の上に建てられよう！ 我々の持つ強さ、名誉、勇気は、永遠に勝利を収める！"
+
+#: 51188213-0-420
+msgctxt "51188213-0-420"
+msgid "The Steel Shrikes Proclamation"
+msgstr "スティールシュライクの宣言"
+
+#: 21337012-0-4105
+msgctxt "21337012-0-4105"
+msgid "Calling all adventurers, sellswords and spellslingers, heroes and ne'er-do-wells!\n\nDo you long for a greater challenge? Try your might at the Battlegrounds, where games of glory and gore await you! We seek the greatest champions of the land for our contests of strategy and skill. \n\nSpeak to Battlemaster Rivyn for more information."
+msgstr "冒険者、傭兵、呪文使い、英雄、そして役立たずの諸君！\r\n\r\nもっと大きな挑戦に憧れないか？ 栄光と血のゲームが待ち受けるバトルグラウンドで、ぜひ力を試そう！ 当ゲームでは戦略と技を競う競技で、最強のチャンピオンを求めている。\r\n\r\n詳細は、バトルマスター・リヴィンまで。"
+
+#: 51188213-0-4105
+msgctxt "51188213-0-4105"
+msgid "For Glory!"
+msgstr "栄光のために！"
+
+#: 21337012-0-4015
+msgctxt "21337012-0-4015"
+msgid "By Order of the House Guard and the Redoran High Council:\n\nThe Shulk Ore Mine is closed and all operations toward re-opening the mine have been suspended. Workers should stay away until further notice, and visitors are strongly cautioned to avoid the area on pain of fine, or imprisonment, or both. This includes you, Crew Chief Hondulf!\n\nNote that every effort shall be made to locate the missing mine workers as soon as possible."
+msgstr "名家衛兵隊およびレドラン上級評議会の布告:\r\n\r\nシュルク鉱山は閉鎖され、鉱山再開に向けたあらゆる活動は停止された。作業員たちは追って通達があるまで鉱山から離れること。また訪問者はこの一帯を避けることを強く命じる。違反者は罰金か投獄、あるいはその両方を受ける。この対象には、鉱員長ホンドゥルフも含まれる！\r\n\r\n行方不明の鉱山労働者たちを探す努力は、可能な限り早急に行われるだろう。"
+
+#: 51188213-0-4015
+msgctxt "51188213-0-4015"
+msgid "House Redoran Proclamation"
+msgstr "レドラン家の布告"
+
+#: 21337012-0-4012
+msgctxt "21337012-0-4012"
+msgid "Attention, you drunken louts.\n\nThe task of remembering who offers the pledges for some of your favored stomping grounds has proven more difficult than the butchery and looting you do there. If you find yourself confused by intoxication or a head wound, the pledge givers and their responsibilities will now be outlined here.\n\nMaj al-Ragath:\nBanished Cells\nDarkshade Caverns\nElden Hollow\nFungal Grotto\nSpindleclutch\nWayrest Sewers\n\nGlirion the Redbeard:\nArx Corinium\nBlackheart Haven\nBlessed Crucible\nCity of Ash\nCrypt of Hearts\nDirefrost Keep\nSelene's Web\nTempest Island\nVaults of Madness\nVolenfell\n\nUrgarlag Chief-bane:\nCradle of Shadows\nImperial City Prison\nRuins of Mazzatun\nWhite-Gold Tower\nBloodroot Forge\nFalkreath Hold\nFang Lair\nScalecaller Peak\nMarch of Sacrifices\nMoon Hunter Keep\nFrostvault\nDepths of Malatar\nMoongrave Fane\nLair of Maarselok"
+msgstr "注意せよ、酔っ払いども\r\n\r\nお気に入りの戦場の誓いを誰が提供するか思い出させることは、一部の者にとって暴れ回るより難しいようだ。二日酔いや頭の傷で苦しんでいる場合に備えて伝えるが、誓いの提供者は現在このようになっている。\r\n\r\nマジ・アルラガス:\r\n追放者の監房\r\nダークシェイド洞窟\r\nエルデン洞穴\r\nフンガル洞窟\r\nスピンドルクラッチ\r\nウェイレスト下水道\r\n\r\n赤髭グリリオン:\r\nアークス・コリニウム\r\nブラックハート・ヘヴン\r\n聖なるるつぼ\r\n灰の街\r\nハーツ墓地\r\nダイアフロスト砦\r\nセレーンの巣\r\nテンペスト島\r\n狂気の地下室\r\nヴォレンフェル\r\n\r\n族長殺しのウルガルラグ:\r\n影の揺りかご\r\n帝都監獄\r\nマザッタン遺跡\r\n白金の塔\r\nブラッドルート・フォージ\r\nファルクリース要塞\r\n牙の巣\r\nスケイルコーラー・ピーク\r\nマーチ・オブ・サクリファイス\r\n月狩人の砦\r\nフロストヴォルト\r\nマラタールの深淵\r\nムーングレイブ神殿\r\nマーセロクの巣"
+
+#: 51188213-0-4012
+msgctxt "51188213-0-4012"
+msgid "Notice: Pledge Duties"
+msgstr "注意: 誓いの仕事"
+
+#: 21337012-0-3970
+msgctxt "21337012-0-3970"
+msgid "In this time of war and strife, the opportunity to purchase your own home has never been greater! From commoner to merchant lord, the properties available for lease or ownership are many, throughout the length and breadth of Tamriel.\n\nOur trusted agents are always happy to meet with you, our future clients, to discuss the magnificent opportunities that await you in home ownership. Stop in at your local lending institution today and seek <<1>> for your free consultation!"
+msgstr "この戦争と争いの時代は、自分の家を買う絶好のチャンスです！ 平民から商人王まで、タムリエルの隅々で、賃貸か購入で手に入れられる家がたくさんあります。\r\n\r\n我々の信頼するエージェントが、いつでも未来のお客様であるあなたをお待ちしています。家を手に入れる、素晴らしい機会についてお話ししましょう。あなたの地元の金融機関に立ち寄って、<<1>>をお探しください。無料で相談を受け付けています！"
+
+#: 51188213-0-3970
+msgctxt "51188213-0-3970"
+msgid "Homes for Sale!"
+msgstr "不動産販売中！"
+
+#: 21337012-0-3046
+msgctxt "21337012-0-3046"
+msgid "We, the undersigned, declare our intention to take the Pledge of the Undaunted. Be we longstanding members of the guild, or newly blooded blades, we will dare to do what others will not. We will delve beneath Nirn, we will seek out knowledge and treasure where it lies unseen. We will stand against the darkness.\n\nAnd we will return Undaunted.\n\nSigned,\n\nGadrey Vintalen\nSeeks-Her-Glory\nLady Blade\nKyrin Brightglade\nLodiss the Rock\nMaeglin Telemmaite\nVerana Telemmaite\nSahba the Bonecrusher\nRassi Thimblebock\nMad Zebba\nTarik the Hollow-Sky\nGobur One-Eye\nFerocious Jakidi\nAidan the Fear-Son\nEats-Aged-Meat\nZaliya\nMaximus the Burning \nSobabe \nBradford the Brutal\nZantan the Magnificent\nEeno\nBrittgerd Bear-Master\nLady Baronessa\nDanteriel\nQuinius Keeting\nMonynen\nJeeba\nMordra the Mighty \nRecites-Poetry\nAthan Tennecker\nSalaisoc\nZakir\nTarien Vel"
+msgstr "我々署名者は、アンドーンテッドの誓いを継ぐことをここに宣言する。ギルドのベテランメンバーとして、または新たに血に染まった剣を持つ者として、我々は他の者達がやらないことをする。我々はニルンの地下に潜り込み、未知の知識と宝を見つけ出す。我々は闇に対抗する。\r\n\r\nそして我々はアンドーンテッドとして帰還する。\r\n\r\n署名者:\r\n\r\nガドレイ・ヴィンタレン\r\n栄光を探す者\r\nレディ・ブレイド\r\nキリン・ブライトグレイド\r\n岩のロディス\r\nマエグリン・テレメイト\r\nヴェラナ・テレメイト\r\n骨砕きサーバ\r\nラッシ・シンブルボック\r\n狂乱のゼッバ\r\n虚ろな空のタリク\r\n隻眼のゴブル\r\n凶暴なるジャキディ\r\n恐怖の息子アイダン\r\n熟成肉を食べる者\r\nザリヤ\r\n燃えるマクシマス\r\nソバベ\r\n野蛮なブラッドフォード\r\n壮大なザンタン\r\nイーノ\r\nブリットゲード・ベアマスター\r\nレディ・バロネッサ\r\nダンテリエル\r\nクィニウス・キーティング\r\nモニネン\r\nジーバ\r\n強きモルドラ\r\n詩を朗読する者\r\nエイサン・テネッカー\r\nサライゾック\r\nザキル\r\nタリエン・ヴェル"
+
+#: 51188213-0-3046
+msgctxt "51188213-0-3046"
+msgid "Tome of the Undaunted"
+msgstr "アンドーンテッドの書(署名入り)"
+
+#: 21337012-0-301
+msgctxt "21337012-0-301"
+msgid "The Esteemed Paldeen, Sentinel's all-knowledgeable scholar of history and lore, has been taken from the streets! Anyone with news of his whereabouts should notify lawful and just parties with all possible haste."
+msgstr "センチネルのあらゆる知識を知る歴史と伝承の学者、尊敬されしパルディーンが路上で連れ去られた！ 彼の居場所を知っている者は、できる限り早急に法を守らせる者へと通報するように。"
+
+#: 51188213-0-301
+msgctxt "51188213-0-301"
+msgid "KIDNAPPING!"
+msgstr "誘拐！"
+
+#: 21337012-0-2977
+#, fuzzy
+msgctxt "21337012-0-2977"
+msgid "Got a problem that needs solving? The name's Rayan Diel. I'm a clean-up man. If you got bodies, bloodstains, or incriminating evidence you need to dispose of, I'm your guy.\n\nNeed to get out of town quick? Need an untraceable curse? Fast-acting poison? Talk to me. No matter what you need, I've got a Diel for you.\n\n""Fast, thorough, and clean,"" that's my motto. So just sit back, relax, and let a professional take over."
+msgstr "何かお困りですか？ 私はライアン・ディエル。問題解決屋です。死体、血痕、または消し去りたい不都合な証拠などございましたら、私がお役に立ちます。\r\n\r\n素早く夜逃げしたい？ こちらの身元を知られずに、誰かを呪いにかけたい？ 即効性の毒がほしい？ 私にご相談を。どんなことでもディエルにお任せください。\r\n\r\n「素早く、徹底的に、きれいに」が私のモットーです。あなたはただ座ってリラックスしてください。面倒なことはプロに任せましょう。"
+
+#: 51188213-0-2977
+msgctxt "51188213-0-2977"
+msgid "Problem Solver For Hire!"
+msgstr "雇われ問題解決屋！"
+
+#: 21337012-0-2972
+msgctxt "21337012-0-2972"
+msgid "Welcome to the Verdant Hand! We're happy to pay you for anything you find out there, but get caught and we don't know you.\n\nThe depths of Tamriel can be dangerous all on their own, but the places containing truly valuable yolk—relics and tomes, sometimes Daedric—are protected. Some are claimed by rival treasure seekers, others by the newly-formed Aldmeri Dominion. To my chagrin, they've found time between self-bickering to ruin my earnings by placing guards at every tomb rumored to house a lich or Daedric nest. Public safety, my left foot! It would be just like our new Queen to keep ancient secrets to herself. Luckily, we are few, and our enemies' wavering eyes can't watch every kinlord tomb every time.\n\nThat said, a few things to keep mindful of out there:\n\nPatience is foremost in your arsenal. It will be your most distinguishing virtue among our numbers; forgotten relics wait forever. Those who seek us work in shifts.\n\nSoft shoes are important, inside tombs and out of them. Echoing hallways alert the restless undead as easily as Dominion guards waiting outside.\n\nMoney is a great fallback. Even haughty High Elven guards crumble at the sight of coin.\n\nGood hunting, and remember—waving at me in public is inviting my elbow into the soft part of your neck.\n\n—LL"
+msgstr "ヴァーダント・ハンドにようこそ！ 掘り出し物には何でも金を払いますが、もしあなたが捕まった時、私達は無関係です！\r\n\r\nタムリエルの奥地はただでさえ危険な場所ですが、そこには(時にはデイドラの)遺物や書など、真のお宝が安らかに眠っています。そのうちのいくつかは、競合するトレジャーハンターや最近できたアルドメリ・ドミニオンに見つかってしまいました。残念なことに、彼らは内輪揉めしつつもリッチまたはデイドラの巣があると噂される墳墓すべてに衛兵を配置して、私の稼ぎを台無しにしてしまいました。公衆の安全… そんなものはクソ食らえです！ 古代の秘密を独り占めするなんて、まるで私達の新しい女王と一緒ですね。幸い私達は少数精鋭です。奴らの揺れる眼差しは、王族の墳墓を逐一かつ随時見張っておくことはできません。\r\n\r\nとはいえ、気をつけていただきたいことがいくつかあります:\r\n\r\n忍耐強さは最強の武器であり、私達の仲間から抜きん出るには最も重要な特質です。忘れ去られた遺物は永遠に待ってくれます。そして私達を探している連中は交代制で働いています。\r\n\r\n墳墓の中でも外でも、底が柔らかい靴を履くようにしましょう。回廊に響く足音は、眠りを知らないアンデッドや、外で待っているドミニオンの衛兵の注意をいとも簡単に引いてしまいます。\r\n\r\nお金はいざというときの頼みの綱です。高飛車なハイエルフの衛兵ですら、コインをちらつかせれば心が折れるでしょう。\r\n\r\nそれでは素敵な宝探しを… でも1つ注意してください。公衆の面前で私に向かって手を振ったら、そのときはあなたの首の柔らかい部分に肘打ちをお見舞いします。\r\n\r\nLLより"
+
+#: 51188213-0-2972
+msgctxt "51188213-0-2972"
+msgid "Verdant Hand Orientation"
+msgstr "ヴァーダント・ハンドのオリエンテーション"
+
+#: 21337012-0-2971
+#, fuzzy
+msgctxt "21337012-0-2971"
+msgid "It has come to our attention that a group of political activists known as the ""Veiled Heritance"" has engaged in thievery and the fencing of stolen goods in this area.\n\nWhile the Shadow Artisans normally welcome kindred spirits, this group's recent anti-Dominion activities have not gone unnoticed by Queen Ayrenn's agents. We suspect that drawing the attention of the Eyes of The Queen upon our own operations would be foolish and unnecessarily risky.\n\nWe therefore request all associates refrain from any and all dealings with this group. Their business is not welcome, and the presence of their operatives—or anyone associating with same—will not be tolerated.\n\nThank you for your understanding.\n\nThe Management"
+msgstr "「ベールの継承者」と呼ばれる政治活動団体が、この地域で窃盗及び盗品の売買を行っていることを発見した。\r\n\r\n「影の職人」は普段なら同族を歓迎するが、この団体の最近の反ドミニオン的活動はアイレン女王の密偵の目に留まってしまった。我々の活動が「女王の瞳」の注意を引いてしまうとしたら、それは愚かで無駄に危険な行為だ。\r\n\r\nよって、すべてのメンバーはこの団体とは一切関わらないように。彼らの商売は好ましいものではない。「ベールの継承者」の団員、及びそれに関わるすべての者を我々は許容しない。\r\n\r\nご理解を請う。\r\n\r\n管理担当者より"
+
+#: 51188213-0-2971
+msgctxt "51188213-0-2971"
+msgid "Veiled Heritance - Be Warned"
+msgstr "ベールの継承者 - 注意せよ"
+
+#: 21337012-0-2970
+#, fuzzy
+msgctxt "21337012-0-2970"
+msgid "A Comedy in Three Acts\n\nProudly Presented by\nThe Summerset Repertory Players\n\nSTARRING\n\nSilus Silber as ""The Cannonreeve""\n\nAND INTRODUCING\n\nHazaznaz as ""Furbul-dar, the Frivolous""\n\nOpening the first Fredas of Rain's Hand, 2E 578!"
+msgstr "三幕の喜劇\r\n\r\n提供:\r\nサマーセット専属劇団\r\n\r\n主演\r\n\r\nキャノンリーブ: サイラス・シルベル\r\n\r\n共演\r\n\r\n軽薄なファーバル・ダー:ハザズナズ\r\n\r\n第二紀578年、恵雨の月の最初の金耀に開演！"
+
+#: 51188213-0-2970
+msgctxt "51188213-0-2970"
+msgid "The Cannonreeve's Conundrum"
+msgstr "キャノンリーブのなぞなぞ"
+
+#: 21337012-0-2950
+#, fuzzy
+msgctxt "21337012-0-2950"
+msgid "Esteemed Citizen of the Aldmeri Dominion,\n\nThank you for expressing your interest in the critical functions performed by the Presidium of Aldmeri Cultural Illumination and Dissemination to further solidify the inter-cultural bonds of our magnificent alliance. We strive to give our ear to any citizen with suggestions, questions, or concerns relating to our tireless efforts to provide the Dominion with education to promote cooperation and understanding between Altmer, Bosmer, and Khajiit.\n\nYour two (2) requests and one (1) inquiry have been received and processed, and it is our sincere hope that you find the determinations reached by the Presidium satisfactory. Please note that any additional queries related to your submission, which has been assigned the Citizen Inquiry Identifier 3278B-P, must be accompanied by a completed Additional Inquiry Form approved by your district's Thalmor Representative of Civil Concerns.\n\nRequest One (1)\n\nRegarding the inclusion of a broader survey of Khajiiti heroes in a new edition of ""Combined History of the Aldmeri Dominion, Vol. 4, Historical Persons of Note"":  Your opinion is valued and important. Though we must limit the number of highlighted historical figures described in this already-significant tome by necessity, your feedback will be taken into consideration. We have noted your observation about the preponderance of Altmeri individuals in the book, and will take it under advisement in the event that a new edition is issued.\n\nRequest Two (2)\n\nRegarding celebration of the Khajiiti Festival of Sugar-Singing: Our greatest ambition is to be sensitive to the needs and desires of all citizens. It is, therefore, with the utmost regret that we must inform you that the Sugar-Singing will continue to be prohibited in most major cities due to the disruption of business and domestic peace that has been reported in municipalities where the festival has been provisionally allowed. As with any Thalmor ruling, you may continue to raise specific concerns by visiting your local representative (accompanied, of course, by the proper forms, which may vary depending on the nature of the additional request or complaint).\n\nInquiry One (1)\n\nRegarding becoming more involved in your local governing body: The Thalmor is always pleased to accommodate and encourage citizens who wish to become more active in promoting cooperation and understanding throughout the Dominion. All Thalmor positions and offices are confirmed by the Illustrious Queen Ayrenn's own hand, ensuring only individuals with true dedication to the goals of a productive, prosperous, and victorious Dominion reach any office. By undertaking every possible effort to be an outstanding citizen, even you may one day be recognized by Her Majesty!\n\nThe Presidium of Aldmeri Cultural Illumination and Dissemination thanks you again for your interest. If you find any of our carefully considered responses to be inadequate, do not hesitate to submit an approved Additional Inquiry Form.\n\nGlory to the Dominion!\n\nThese responses endorsed by:\n\nAicantar of Shimmerene, Sapiarch of Indoctrination"
+msgstr "アルドメリ・ドミニオンの名誉ある市民へ\r\n\r\n我らが輝かしき同盟の文化交流をさらに深めるべく、アルドメリ文化普及評議会の重要な活動にご意見をいただきありがとうございます。我々の飽くなき努力に関しての皆様からのどんなご提案、ご質問、またはお悩みでも、我々は耳を傾けます。そしてアルトマー、ボズマー、カジートがお互いに協力し理解し合えるように、ドミニオンを啓蒙していきます。\r\n\r\n2件のご要望と1件のご質問をお受けして、適切に処理させていただきました。評議会の決定にご満足いただけることを切に願っております。追加のご質問に関しては「市民からのご質問番号3278B-P」として、お住まいの地域のサルモール代表市民相談員の承認を受けた記入済みの追加質問書と一緒にご提出ください。\r\n\r\nご要望 (1)\r\n\r\nカジートの英雄達に関するさらなる調査結果を新装版「アルドメリ・ドミニオンの複合的歴史観 第4巻 注目すべき歴史的人物」に含めることについて: ご意見ありがたく頂戴しました。取り上げる歴史上の人物の数は、すでに大著となっている本学術書においてどうしても制限する必要がありますが、ご意見は慎重に検討させていただきます。アルトマーに関する記載が多いというご指摘についても、新装版において反映させていただく所存です。\r\n\r\nご要望 (2)\r\n\r\nカジートのシュガーシンギング祭について: 我々の最大の目的は市民の皆様のご要望へ敏感に対応することです。ですので、シュガーシンギング祭がほとんどの大都市において今後も禁止されていることをお伝えしなければならないのは、非常に残念です。禁止の理由は、祭りの開催許可地で商業活動及び地域の平穏が乱されたことが地方当局に報告されているからです。他のサルモールの法令と同様、今後も各地域の代表者を訪問し(もちろんのこと、所定の書類をお持ちください。追加の要望または苦情の性質によって書面の種類は異なります)、ご意見をお聞かせください。\r\n\r\nご質問 (1)\r\n\r\n地方政治へのさらなる参加について: サルモールはドミニオン全域においてご協力とご理解の促進に努めます。そしてそのために力を貸していただける市民の皆様を常に歓迎します。サルモールではすべての地位と役職を偉大なるアイレン女王ご自身が承認しており、ドミニオンの成功と繁栄のために真剣に尽くす人物しか就任できません。素晴らしき市民になるためにあらゆる努力を惜しまなければ、あなた自身がいつか女王の目に留まることもあるかも知れません！\r\n\r\nアルドメリ文化普及評議会から改めて感謝の意を表します。ご意見ありがとうございました。この回答について何かご不満がある場合は、ご遠慮なく承認済みの追加質問書をご提出ください。\r\n\r\nドミニオンに栄光を！\r\n\r\n本回答は以下の承認を受けています:\r\n\r\n教化サピアルチ、シマーリーンのアイカンター"
+
+#: 51188213-0-2950
+msgctxt "51188213-0-2950"
+msgid "Response to Citizen Inquiries"
+msgstr "市民からのご意見及びご要望について"
+
+#: 21337012-0-2769
+msgctxt "21337012-0-2769"
+msgid "Let it be known to all Firstmages of the upper floors—the Aetherial orbs are not to be tampered with.\n\nThe Learned One has devised them as a means to block cosmic essence from tearing this realm to pieces. Remove these orbs and risk death—or worse. Extraplanar stresses are known to wreak havoc on mortal physiology."
+msgstr "上階にいる原初の魔術師全員に告知する… エセリアル・オーブにみだりに触れてはならない。\r\n\r\n学びし者はそれを、宇宙のエキスがこの領域を引き裂いてしまわないように作った。オーブを除去すると死の危険や、あるいはもっと恐ろしいことが起こるかも知れない。プラナーを越えて作用する力は、定命の者の生理機能を破壊することで知られている。"
+
+#: 51188213-0-2769
+msgctxt "51188213-0-2769"
+msgid "Hands Off"
+msgstr "手を触れないように"
+
+#: 21337012-0-2747
+msgctxt "21337012-0-2747"
+msgid "Let it be known. These individuals have distinguished themselves in my games and have earned the title of Champion of Boethiah!\n\nFaithful Adrasa\nBiiri the Beautiful\nFoloril of the Fine Form\nHolgstad the Horrible\nMoridanus Dres\nHiath the Battlemaster\n<<1>>"
+msgstr "これらの者達は私の大会で優秀な成績を収め、ボエシアの勇者の称号を得たことをここに知らせる！\r\n\r\n誠実なアドラサ\r\n美貌のビーリ\r\n体つきの良いフォローリル\r\n不愉快なホルグスタッド\r\nモリダヌス・ドーレス\r\nバトルマスター・ヒアス\r\n<<1>>"
+
+#: 51188213-0-2747
+msgctxt "51188213-0-2747"
+msgid "Boethiah's Call of Champions"
+msgstr "ボエシアの勇者の称号"
+
+#: 21337012-0-2561
+msgctxt "21337012-0-2561"
+msgid "At this altar to the Goddess of Love, you can use a Ring of Mara to espouse your beloved."
+msgstr "この愛の女神の祭壇で、マーラの指輪を使い愛する人と結婚できる。"
+
+#: 51188213-0-2561
+msgctxt "51188213-0-2561"
+msgid "Shrine of Mara"
+msgstr "マーラの祠"
+
+#: 21337012-0-2551
+msgctxt "21337012-0-2551"
+msgid "The UNREPENTANT CRIMINAL known as <<Z:1>> was recently spotted near the <<Z:2>>.\n\nIf you must travel, stray no further north than the <<Z:3>> lest you end up CRUELLY MURDERED by this SAVAGE MARAUDER.\n\n—<<Z:4>>\nFists of Thalmor, Velyn Harbor Detachment"
+msgstr "<<1>>として知られる重犯罪者が、最近<<2>>の近くで目撃された\r\n\r\n近辺を旅行する場合、残虐な殺人者によって無残な死体とならないためにも、<<3>>より北へは行かないように\r\n\r\n—<<4>>\r\nサルモールの鉄拳、ヴェリン港支隊"
+
+#: 51188213-0-2551
+msgctxt "51188213-0-2551"
+msgid "Warning: Dugan the Red"
+msgstr "警告: 赤のデュガン"
+
+#: 21337012-0-2535
+msgctxt "21337012-0-2535"
+msgid "Vigilant guardian of all Thanes' holds.\nFrom her two towers on high,\ndid she watch over eastern Skyrim.\nShe cleansed the roads of ruffians,\nand all bandits feared her name …."
+msgstr "あらゆる従士の用心深いガーディアンは持ちこたえている\r\n塔2つ分の高さから\r\n彼女は東スカイリムを見守る。\r\n無法者を道から一掃し\r\nあらゆる山賊は彼女の名を恐れる…"
+
+#: 51188213-0-2535
+msgctxt "51188213-0-2535"
+msgid "Here Lies Grethel"
+msgstr "ここにグレセルあり"
+
+#: 21337012-0-2533
+msgctxt "21337012-0-2533"
+msgid "Let it be known that the most committed warriors of the Reach gathered here on the 3rd day of Frostfall to put aside their differences and join together against their shared enemy, the Ebonheart Pact.\n\nThese clans were represented:\nRageclaw, Boneshaper, Stonetalon"
+msgstr "リーチの最も献身的な戦士が互いの違いを乗り越え、降霜の月の第3日にここに集い、共通の敵であるエボンハート・パクトに対し一致団結したことを明らかにする\r\n\r\n以下のクランで構成される:\r\nレイジクロー、ボーンシェイパー、ストーンタロン"
+
+#: 51188213-0-2533
+msgctxt "51188213-0-2533"
+msgid "Treaty of the Three Clans"
+msgstr "3クランの協定"
+
+#: 21337012-0-2514
+msgctxt "21337012-0-2514"
+msgid "Rules of the Hole:\n\n1. Respect the hole. Keep it clean and keep it quiet.\n\n2. Spend at least a few hours a day contemplating the fish.\n\n3. Don't tease the mammoths!\n\n4. Drink, drink, and drink some more.\n\n5. Replace the mead!"
+msgstr "酒場の規則:\r\n\r\n1. 酒場に敬意を払いなさい。常にきれいに保ち、大声を出さないように\r\n\r\n2. 1日のうち最低数時間は魚のことを考えて過ごしなさい\r\n\r\n3. マンモスをからかわないように！\r\n\r\n4. 飲んで、飲んで、またまた飲むように\r\n\r\n5. ハチミツ酒を元の場所に戻すように！"
+
+#: 51188213-0-2514
+msgctxt "51188213-0-2514"
+msgid "Thane Jeggi's Drinking Hole"
+msgstr "イェッギ従士の酒場"
+
+#: 21337012-0-2513
+msgctxt "21337012-0-2513"
+msgid "This place provides shelter to those who seek to perfect their skills.\n\nTake what you need, and leave an offering in return.\n\nKoomu alezer'i!"
+msgstr "この場所は完璧な技を探求する者の避難所である\r\n\r\n必要なものを取り、その見返りとして生け贄を捧げなさい\r\n\r\nコオム・アレゼリ！"
+
+#: 51188213-0-2513
+msgctxt "51188213-0-2513"
+msgid "Sheltered"
+msgstr "避難所"
+
+#: 21337012-0-2497
+msgctxt "21337012-0-2497"
+msgid "House Hlaalu maintains this camp for the express use of traveling traders and merchant caravans.\n\nPlease keep the camp clean! The next traveler will appreciate your kind consideration."
+msgstr "フラール家はこのキャンプを、旅の商人と商人キャラバンによる短期利用目的で維持管理しています。\r\n\r\nどうかキャンプはきれいにしておいてください！ 次の旅人はあなたの思いやりに感謝するでしょう"
+
+#: 51188213-0-2497
+msgctxt "51188213-0-2497"
+msgid "House Hlaalu Notice"
+msgstr "フラール家の通知"
+
+#: 21337012-0-2495
+msgctxt "21337012-0-2495"
+msgid "By order of the Guildmaster, be welcome to the isle of Eyevea! All members of the guild in good standing are to view this isle as a refuge, a sanctuary for magical study and a neutral ground on Tamriel.\n\nAll members, be you warned:\n\n— Alliance in-fighting will not be tolerated! The Three Banners War is in Cyrodiil. Here, all Mages are at peace and in harmony.\n\n— Accept your fellows, no matter their appearance. All the thinking races of Tamriel practice the spellcasting arts. Intolerance towards a fellow guildmember is to be reported to the Guildmaster, and will be dealt with severely!\n\n— Pay the tithe. Members in good standing are welcome to make use of the isle's sytem of portals for trade and transportation. Any member with a standing business must, however, pay a percentage fee to the guild in tithe.\n\nThe return of Eyevea marks a new era for the Guild!"
+msgstr "ギルドマスターの命令により、アイベア島へ歓迎する！ 優良なギルドのメンバーは全て、この島を隠れ家、魔法の研究の聖域であり、タムリエルの中立地として利用できる。\r\n\r\n全てのメンバーへ、以下を注意するように:\r\n\r\n— 同盟の戦いは容認できない！ 三旗戦役はシロディールで行われているものだ。ここで、すべての魔術師が穏やかで調和の取れた行動を取ること。\r\n\r\n— 外見のいかんに関わらず、自分の仲間を受け入れよ。道理の分かるタムリエルのすべての種族は魔術を操る術を実行している。仲間のギルドメンバーへの不寛容はギルドマスターに報告され、厳しく処分されるだろう！\r\n\r\n— 十分の一税を納めよ。納税済みのメンバーは島のポータルを商売や移動の手段として自由に使用できる。しかしながら、営業状態にあるすべてのメンバーは、十分の一税において、ギルドに定率報酬を払わねばならない。\r\n\r\nアイベアの復活は、ギルドに新しい時代を告げる！"
+
+#: 51188213-0-2495
+msgctxt "51188213-0-2495"
+msgid "By Order of Guildmaster Vanus Galerion"
+msgstr "ギルドマスター・ヴァヌス・ガレリオンの命令"
+
+#: 21337012-0-2475
+msgctxt "21337012-0-2475"
+msgid "Berezan's Mine is closed to the public until further notice.\n\nTrespassers will suffer the full wrath of the Three."
+msgstr "ベレザンの鉱山は当面の間、一般の者の立ち入りを禁ずる\r\n\r\n不法侵入者は三大神による最大限の怒りに苦しむことになる"
+
+#: 51188213-0-2475
+msgctxt "51188213-0-2475"
+msgid "By Order of the Tribunal"
+msgstr "トリビュナルの布告"
+
+#: 21337012-0-2418
+msgctxt "21337012-0-2418"
+msgid "Come one, come all! Come to the quarantine in the town of Serkamora—the Serk—and receive a curative that will protect you from the Llodos plague.\n\nNoble or commoner, rich or poor, the curative is provided at no cost to you. Don't risk yourself or your loved ones. The Maulborn are ready to help you. So, whether you are afflicted with the plague or healthy and showing no signs of the disease, the Maulborn curative will make sure you are protected from this dreaded plague.\n\nThe Great Houses can't stop this plague. The Tribunal has no answers. But the Maulborn have a solution.\n\nOn this, you have my word.\n\n—Nostrum Breva"
+msgstr "皆さん、いらっしゃい！ セルカモラの村にある隔離所セルクへお越しください。ロドス病からあなたを守る治療薬をお渡しします。\r\n\r\n貴族から庶民、裕福な方から貧しい方まで、治療薬は誰にでも無料でお渡しします。あなたやあなたの愛する人を病の危険から守りましょう。モールボーンは皆さまの手助けをいたします。すでに疫病に感染している方、健康な方、病気の兆しはまったく無い方でも、モールボーンの治療薬はこの恐ろしい病から皆さんを確実にお守りします。\r\n\r\n名家はこの疫病を止めることはできません。トリビュナルは答えてくれません。けれどもモールボーンには解決策があるのです。\r\n\r\n必ず効果があるとお約束いたします。\r\n\r\n—秘薬師ブレヴァ"
+
+#: 51188213-0-2418
+msgctxt "51188213-0-2418"
+msgid "Come for the Cure!"
+msgstr "治療を受けにいらっしゃい！"
+
+#: 21337012-0-2373
+msgctxt "21337012-0-2373"
+msgid "|acWARNING!\n\nSlaughterfish Infestation:\n\nSwim at your own risk."
+msgstr "警告！\r\n\r\nスローターフィッシュ出没中:\r\n\r\n遊泳は自己責任でお願いいたします。"
+
+#: 51188213-0-2373
+msgctxt "51188213-0-2373"
+msgid "Slaughterfish Warning"
+msgstr "スローターフィッシュ警告"
+
+#: 21337012-0-2250
+msgctxt "21337012-0-2250"
+msgid "|acAll residents are hereby ordered to abandon these homes immediately, by order of Grand Warlord Dortene.\n\n|acAnyone found in these buildings by nightfall will be killed.\n\n|al— General Khamagash"
+msgstr "|acドルテーヌ大将軍の命により、全ての住人は家から立ち退くことを命じる。\r\n\r\n|ac夜にこれらの建物で発見された者は殺される。\r\n\r\n|al— カマガッシュ将軍"
+
+#: 51188213-0-2250
+msgctxt "51188213-0-2250"
+msgid "Aleswell Eviction Notice"
+msgstr "アレスウェルの立ち退き通知"
+
+#: 21337012-0-2246
+#, fuzzy
+msgctxt "21337012-0-2246"
+msgid """The Saint Slays the Leaper""\n\nFinished this 10th day of Sun's Height in 2E 388 to honor Saint Stental, who slew the demon of Overlook Hill and saved the three Sisters of Kynareth from a terrible fate."
+msgstr "「聖者が跳ねる者を倒す」\r\n\r\n第二紀388年 南中の月10日、オーバールック・ヒルの悪魔を殺し、キナレスの姉妹3人を残酷な運命から救った聖ステンタルを称える"
+
+#: 51188213-0-2246
+msgctxt "51188213-0-2246"
+msgid "Saint Stental"
+msgstr "聖ステンタル"
+
+#: 21337012-0-2220
+msgctxt "21337012-0-2220"
+msgid "|acAnd riches beyond your wildest dreams!\n\nBold Heroes Wanted—Wealth Awaits!\n\nJourney to Drakelowe Keep quickly, for our expedition leaves soon. We travel to the ruins of Nornal, to battle the evil creatures that defile the grounds. Vast treasure is said to lie beyond the ancient doors, awaiting the brave!"
+msgstr "|ac想像を超えた富を！\r\n\r\n勇敢な英雄を求む。富があなたを待っている！\r\n\r\n探検隊は近いうち出発するため、早急にドレイクロウ砦まで来るように。我らはかの地を汚す邪悪な生き物たちと戦うため、ノルナルの遺跡へ向かう。古代の扉の向こうでは、膨大な宝が勇敢なる者を待ち受けていると言われている！"
+
+#: 51188213-0-2220
+msgctxt "51188213-0-2220"
+msgid "Call to Adventure!"
+msgstr "冒険へのいざない！"
+
+#: 21337012-0-2204
+msgctxt "21337012-0-2204"
+msgid "You will never be forgotten, Scarius. Nor shall your murderers be forgiven. I bury you here, by the gravestone of our ancestors, facing Nornalhorst. Watch as I avenge you. The severed heads of the Gray Vipers will decorate your grave. This I swear, brother.\n\n— Mercuro"
+msgstr "君のことは決して忘れない、スカリアス。殺されたことも忘れない。ノルナルホルストに面する祖先の墓標近くに君を埋葬する。グレイバイパーの切断された首を君の墓に飾るよ。誓ってだ、兄弟。\r\n\r\n- メルクロ"
+
+#: 51188213-0-2204
+msgctxt "51188213-0-2204"
+msgid "To Scarius"
+msgstr "スカリアスへ"
+
+#: 21337012-0-2176
+msgctxt "21337012-0-2176"
+msgid "Dedicated to Sir Byric of the Flame, who set fire to the fields surrounding the Alcaire Castle, holding back invaders from the Reach in 2E 542.\n\nThe Alcaire Knights were renamed Knights of the Flame to honor his bold action and determination."
+msgstr "第二紀542年にアルカイア城を囲む野原に火を放ち、リーチの侵略者達を食い止めたフレイム・ビリック卿へ捧げる\r\n\r\nアルカイア騎士団は彼の勇敢な行動と決意を称えるためにフレイム騎士団と改名された。"
+
+#: 51188213-0-2176
+msgctxt "51188213-0-2176"
+msgid "Statue of Sir Byric"
+msgstr "ビリック卿の像"
+
+#: 21337012-0-2131
+msgctxt "21337012-0-2131"
+msgid "A partnership between Wood Elf, High Elf, and the Khajiit is preposterous. Can you not see? Queen Ayrenn will take and take, like a well-coifed hoarvor suckling at a heart-wound. The High Elves would like nothing more than to have us under their rule. We're less than cousins, less than Elves, to them.\n\nIt's time for the Bosmer to hunt again. We'll take Valenwood back. For our people, for Hircine. And we'll have Hircine's blessing as we do it.\n\n—Calahawn"
+msgstr "ウッドエルフ、ハイエルフ、カジート間の同盟は馬鹿げている。分からないか？ うまく頭巾を被ったホーヴァーが心の傷から栄養を吸うように、アイレン女王は奪って奪い尽くすだろう。\r\n\r\n再びボズマーが狩りをする時間だ。ヴァレンウッドを取り戻す。民のため、ハーシーンのために。そしてその途上で、ハーシーンの祝福を授かるだろう。\r\n\r\n-カラハウン"
+
+#: 51188213-0-2131
+msgctxt "51188213-0-2131"
+msgid "Hunt With Me"
+msgstr "一緒に狩ろう"
+
+#: 21337012-0-2130
+msgctxt "21337012-0-2130"
+msgid "The formation of the Dominion can end in only one way: with Bosmer necks under High Elf boots! Those arrogant bastards will subjugate all of Tamriel if they could. I won't stand for that, and none of you should, either.\n\nIt's time the Bosmer reclaimed Valenwood. Blacksap or Camoran loyalist, Green Pact stalwart or oathless salad-eaters—it matters not. We'll simply need time, strength, and powerful magic.\n\nAppealing to Hircine may provide us with what we need. Risky, yes, but with great risk comes greater reward. For Valenwood!\n\n—Calahawn"
+msgstr "ハイエルフのブーツにボズマーの首が踏みつけられる以外に、ドミニオン体制の終末はない！ あの高慢ちきな野郎どもは、可能ならばタムリエル全土を征服するだろう。私は耐えられないし、君達のいずれも我慢すべきではない。\r\n\r\nボズマーがヴァレンウッドを取り戻す時だ。ブラックサップであってもカモランの支持者であっても、グリーンパクトの信者でも誓わぬ菜食主義者でも関係ない。ただ時間、兵力、そして強力な魔法が必要だ。\r\n\r\nハーシーンに訴えれば必要な物を提供してくれるかも知れない。危険は伴う。だが多大な危険にはそれ以上の報酬がある。ヴァレンウッドのために！\r\n\r\n-カラハウン"
+
+#: 51188213-0-2130
+msgctxt "51188213-0-2130"
+msgid "One Bosmer's Response to the Dominion"
+msgstr "あるボズマーのドミニオンへの返答"
+
+#: 21337012-0-2128
+msgctxt "21337012-0-2128"
+msgid "I see you down there, living amid the refuse that falls from the Elden Tree. You think you're invisible, or that you're helpless, or that you just aren't worth anything to anyone.\n\nThat's where you're WRONG!\n\nMy friends, don't wallow in filth and obscurity when you can revel in the light of fame! A little ambition, a little toil, and a little blood is all it will take for you to rise up out of the muck and become known, to be someone who is counted!\n\nWith our fair city of Elden Root now the capital of the Aldmeri Dominion, we will draw people from all over Tamriel. They will marvel at the Elden Tree and walk in the shadows of Valenwood and bathe in the great river to their hearts' content—and then they will grow bored.\n\nThat, my friends, is where YOU come in!\n\nMake no mistake—the Dominion is at war, and tales of strife and heroism have reached us even here, deep in the Valenood. But those who come to our city will be eager to see valor with their own eyes. That is why Elden Root is going to start its own GLADIATORIAL ARENA! We'll show our visitors that the heart of Valenwood is a warrior's heart!\n\nDo you have a warrior's heart? Do you want to hear the cheers of the crowds? Do you want to eat the best food, sleep in the best beds, and never have to hide your face in the Middens again? Well, come up into the light and join the Elden Root's own gladiator team!\n\nSee Milgor Sharp-Tongue in the Elden Tree for more information. But don't wait—the ranks of the valorous are filling up fast."
+msgstr "エルデンの木から落下するガラクタの中に君達が見える。自分が無視されている、無力である、または誰にとっても本当に価値が無いと君達は思っている。\r\n\r\nそれは「誤り」だ！\r\n\r\n友人達よ、名声を得て大いに楽しめる時に、汚物や世に知られていないところで転げまわるのはよせ！ 小さな野心、少しの苦労、そして多少の情熱さえあれば、汚物から立ち上がり、抜け出して有名になれる。影響力のある者になれるんだ！\r\n\r\nアルドメリ・ドミニオンの現首都、エルデンルートの美しい街はタムリエル中から人々を引き寄せている。彼らはエルデンの木に驚嘆し、ヴァレンウッドの木陰を歩き、広大な川で心ゆくまで水浴びをする。そして退屈になるのだ。\r\n\r\n友人よ、ここが「君達」の出番だ！\r\n\r\nいいか。ドミニオンは戦争中で、紛争と勇敢な行為の話はヴァレンウッドの奥地、ここにも届いている。しかし街に来る者達は、その目で勇敢さを見たいと思うだろう。よってエルデンルートは独自の「剣闘士のアリーナ」を開始する！ ヴァレンウッドの心臓は戦士達の心だと訪問者達に披露するのだ！\r\n\r\n君達に戦士の心はあるか？ 観衆の声援を聞いてみたいか？ 最高の飯を食べて、最高のベッドで寝て、ミッデンで二度と顔を隠す必要がないようにしたいか？ では、日の当たるところまで来て、エルデンルートの剣闘士団に参加するのだ！\r\n\r\n詳しい情報を知りたければ、エルデンの木で辛辣なミルガーに会え。だが待っていてはだめだ。勇敢な者達の集団は、急速に埋まってきている。"
+
+#: 51188213-0-2128
+msgctxt "51188213-0-2128"
+msgid "Want More than Middens?"
+msgstr "ミッデンでより多くを望むか？"
+
+#: 21337012-0-2099
+msgctxt "21337012-0-2099"
+msgid "By Order of the Mayor:\n\nAll Southpoint Citizens are required to participate in an urgent Town Census. Those who do not will have their Citizenship Revoked and All Property Ownership Nullified!\n\nAll Heads of Households must report to the Cathedral to be counted. Those with Children must Bring their First Born."
+msgstr "市長の指令:\r\n\r\nすべてのサウスポイント市民は緊急の一斉調査に参加するように。参加しない者は市民権が取り消され、すべての財産権が無効になる！\r\n\r\nすべての世帯主は点呼のため大聖堂まで報告するように。子供がいる世帯は第一子を連れてくること。"
+
+#: 51188213-0-2099
+msgctxt "51188213-0-2099"
+msgid "Call for Census"
+msgstr "人口調査の要請"
+
+#: 21337012-0-2047
+msgctxt "21337012-0-2047"
+msgid "Sgolag, an Orc of ill repute, must be brought to justice. This brigand is a known criminal, guilty of countless acts of murder, banditry, and the abduction of your fellow citizens and selling them into slavery. \n\nRumors place Sgolag near Mobar Mine. The Thalmor shall issue a suitable reward to the one who delivers his head.\n\n— Curinaire"
+msgstr "評判の悪いオーク、スゴラグには正義の審判が下されるべきだ。この悪党は有名な犯罪者で、殺人、強盗、そして市民を拉致して奴隷として売り飛ばすなどの数えきれない犯罪行為において有罪である。\r\n\r\n噂では、スゴラグはモバール鉱山の近くにいるらしい。サルモールは、奴の首を持ち帰った者に充分な報酬を与える。\r\n\r\n—クリナイレ"
+
+#: 51188213-0-2047
+msgctxt "51188213-0-2047"
+msgid "Wanted: Sgolag"
+msgstr "手配: スゴラグ"
+
+#: 21337012-0-2017
+msgctxt "21337012-0-2017"
+msgid "Seeking a capable hand to aid in arcane research of Ayleid ruins and the magical properties of Ayleid Wells.\n\nApply in person at the camp outside Wormroot Depths, north along the main road from Redfur Trading Post.\n\nCombat experience required.\n\n— Scholar Archimbert Dantaine II"
+msgstr "アイレイドの遺跡、アイレイドの井戸の不思議な特性の調査を手伝ってくれる、腕のいい人材募集中。\r\n\r\nレッドファー交易所からの主要道路の北側にある、ワームルートの深部の外にあるキャンプにて面接。\r\n\r\n戦闘能力必須。\r\n\r\n—学者、アルシムバートのダンテーンII世"
+
+#: 51188213-0-2017
+msgctxt "51188213-0-2017"
+msgid "Research Assistant Wanted"
+msgstr "研究助手求む"
+
+#: 21337012-0-1954
+#, fuzzy
+msgctxt "21337012-0-1954"
+msgid "Let all who read of this notice be advised: the Lunar Clergy have set a bounty upon the head of the woman known as ""Nimriian"" or ""the Longfang."" This blackhearted cult mistress has been culling the impressionable youth of the back country for the last year, and is now believed to be operating her cult and bandit gang in Reaper's March.\n\nThe cult follows the teachings of Hircine, and are known lycanthropes, or werewolves. They view Hircine's Curse as a blessing, and are attempting to spread it among the people of the March.\n\nIf you seek her to claim the bounty, look to the Weeping Wind caves east of Willowgrove. The people of that village have been warned to stay indoors at night. And, reader, you too should beware."
+msgstr "これを読んでいる全員に伝える。月の聖職者は、「ニムリアン」あるいは「長き牙」と呼ばれる女の首に賞金をかけた。昨年、黒い心を持った教団の女性支配者は、感化されやすい僻地の若者たちを集めていた。そして今はリーパーズ・マーチで教団と山賊の一団を操っている。\r\n\r\n教団はハーシーンの教えに従っており、ライカンスロープかウェアウルフとして知られている。彼らはハーシーンの呪いを祝福だと見ており、マーチの人々にその考えを広めようとしている。\r\n\r\n賞金目当てに彼女を探す気なら、柳の森の東にある嘆きの風の洞窟を探すといい。その村の住民たちには、夜間外出しないように警告している。これを読んでいる者も、注意するように。"
+
+#: 51188213-0-1954
+msgctxt "51188213-0-1954"
+msgid "Wanted: Nimriian the Longfang"
+msgstr "手配: ニムリアン、あるいは長き牙"
+
+#: 21337012-0-1925
+msgctxt "21337012-0-1925"
+msgid "Bold hunters wanted!\n\nOnly the bravest of the brave need apply!\n\nA reward is offered for the death of the dread Longfang. This creature abides in Breakneck Cave, along with many of its foul brood. \n\nBring the carapace of Longfang to Mayor Celatus of Hackdirt for a grand reward!"
+msgstr "大胆な狩人求む！\r\n\r\n飛び抜けて勇敢な者だけの志願を求む！\r\n\r\n恐るべき長き牙を殺した者に報酬が与えられる。この生き物は、不潔な仲間たちとともに首折り洞窟に生息している。\r\n\r\n長き牙の甲羅をセラタス市長に届ければ、たっぷりと報酬が与えられる！"
+
+#: 51188213-0-1925
+msgctxt "51188213-0-1925"
+msgid "Reward for Longfang!"
+msgstr "長き牙へ賞金をかけた！"
+
+#: 21337012-0-1910
+msgctxt "21337012-0-1910"
+msgid "Don't care what you've heard about disappearances in the mine. Don't be frightened like little Wood Elves that break like sticks in a bad storm. It is a Wood Elf trick. \n\nKeep working. Or you will be beaten. If you are beaten and you still don't work, you will be shamed in front of entire clan."
+msgstr "鉱山での失踪事件について何を聞いていようが、知ったことじゃない。ひどい嵐になると枝のように折れちまう、きゃしゃなウッドエルフみたいにおびえるな。ウッドエルフの策略だ。\r\n\r\n仕事を続けろ。さもないとぶちのめされるぞ。ぶちのめされても働かなければ、クラン全員の前で屈辱を味わう羽目になる。"
+
+#: 51188213-0-1910
+msgctxt "51188213-0-1910"
+msgid "Mine Foreman's Orders"
+msgstr "鉱山作業長の命令"
+
+#: 21337012-0-1896
+#, fuzzy
+msgctxt "21337012-0-1896"
+msgid "Thoughts are what separate man and mer from beasts. Without thoughts, we have no empathy, no capacity to care for those around us.\n\nAncient remedies, handed down by word of mouth through the generations, provide us with the peace of mind necessary to sustain our existence.\n\nDue to the sensitive nature of our illness, and the curative properties of our sheltered hamlet, residents are required to remain in the village for the length of their natural lives, lest the illness spread.\n\n""By the light\nBy the dark\nWithin and without,\nBound to one another\nBy hope\nBy thoughts\nBy the land\nUntil our souls take flight""\n\nSpeak the words and believe in them. We restrain ourselves by keeping to ourselves. Our thoughts hold the descent at bay, and allow us this peaceful existence.\n\nThe shelter of the village comes from times long-forgotten, from those driven to this place by their need.\n\nTheir suffering sanctified the land upon which we live. Our promises keep it sacred."
+msgstr "人間やエルフと獣を隔てるものは思考だ。考えることがなければ、我々は他者に共感することもなく、周囲を気遣うこともできない。\r\n\r\n遠い昔から世代を超えて口伝で伝えられてきた治療法は、我々に生き延びるのに必要な心の平安を与えてくれる。\r\n\r\n我々の病の取り扱いの難しさや、我々の保護された村落の治療効果を考慮すると、病の拡散を防ぐためにも、住人は天寿を全うするまで村の中に留まる必要がある。\r\n\r\n「光によって\r\n闇によって\r\n内にあっても、外にあっても\r\n互いに絆で結ばれている\r\n希望によって\r\n思考によって\r\n大地によって\r\n我らの魂が飛び立つその時まで」\r\n\r\n言葉を口に出し、それを信じること。我々は秘密を守ることで自分達を縛っている。我々の思考が堕落を食い止め、こうして平和に存在することを可能にしているのだ。\r\n\r\n村の避難所は長く忘れ去られていた時代に、必要にかられてこの場所にたどり着いた人々から引き継がれたものだ。\r\n\r\n彼らの苦しみが我々の住む土地を神聖なものにしてくれた。我々の約束は、それを神聖なまま保つことだ。"
+
+#: 51188213-0-1896
+msgctxt "51188213-0-1896"
+msgid "The Book of Reason"
+msgstr "理由に関する本"
+
+#: 21337012-0-1875
+#, fuzzy
+msgctxt "21337012-0-1875"
+msgid "By Aemilianus Falto, ""A Concerned Citizen""\n\nCan we be frank, just one citizen to another? It's dismayingly obvious that what we have left for a royal family here in Bangkorai is just not going to suffice. Nothing against the late King Eamond, who was a reasonably strong voice from the throne—though it was a shame the way he planned to allow Moneybags Emeric to get away with giving nominal rulership over the Fallen Wastes to Fahara'jad (who's never even been there, so far as I know). \n\nHowever, now that Eamond's gone, we're in deeper trouble. Princess Elara acts more like a flighty Wood Elf than an honest Breton maid, and Prince Adrien—well, you've heard about his gambling debts, haven't you? And that he's a little too fond of the old spiced wine? All true, from what I've heard. In fact, that story about his half-Orc bastard might even be true too, so far as I know. \n\nAnd as for Queen Arzhela, to be charitable, let's just say she isn't playing bowls with a full set of pins. Sewing with her thimble on the wrong finger. Fishing for mudcrabs without a net. You know, waltzing barefoot on oyster-shards with a duck egg, a nose-flute, and a nine-pound hammer. Got me?\n\nSo where does that leave us? Dangerously bereft of strong leadership, that's where. And I'm not about to accept another bird-brained, gift-wrapped import from Wayrest, I can tell you. \n\nWhere, then, can we turn? Personally, I've got my eye looking east, toward Cyrodiil. The Empire's a proven source of strong leaders when we Bretons are in the soup, going all the way back to Empress Hestra. And they worship the proper Eight Divines, too—none of your weird Tall Papas or Malacaths for me, thank you very much. \n\nThe Empire. Think about it. I'm pretty sure you'll agree."
+msgstr "「憂える一市民」アエミリアヌス・ファルト著\r\n\r\n市民同士、率直に語ることをお許しいただけるだろうか？ このバンコライの王家に残っているものが必要を満たさないだろうことは、がく然とするほど明らかだ。王として強い影響力を持っておられた故イーモンド王に文句があるわけではない。ただ、守銭奴のエメリックがフォールンウェイストの名目上の支配権をまんまと(私が知る限り現地に行ったこともない)ファハラジャードに与えるのをお許しになるつもりだったことは残念だ。\r\n\r\nしかしイーモンドがいなくなった今、我々はさらに深刻な問題に陥っている。エララ王女の行動は誠実なブレトンの娘というより軽率なウッドエルフのようだし、エイドリアン王子は… 彼が賭けごとでこしらえた借金や、古いスパイス入りワインに対する度を越した偏愛について、あなたも耳にしたことがないか？ 私が聞いた範囲ではすべて事実だ。実のところ、私が知る限りではオークとの間に生まれた私生児がいるという噂すら真実の可能性がある。\r\n\r\nアーツェラ女王に関しては、思いやりの気持ちを持ってこう述べるに留めておこう。彼女はピンがそろわない状態でボーリングをしている。間違った指に指抜きをして裁縫をしている。網なしでマッドクラブ捕りをしている。カキの殻の上で、カモの卵と鼻笛と9ポンドの槌を持ってワルツを踊っている。お分かりいただけただろうか？\r\n\r\nその結果、我々はどうなっているか。強い指導力を危険なまでに奪われた状態だ。そしてこれはウェイレストからもう1人、頭の悪い輸入品を受け入れようという話ではない。それは確かだ。\r\n\r\nでは我々はどこへ向かえばよいのだろう？ 私個人は東のシロディールに目を向けている。遠く女帝ヘストラの時代から、帝国は我々ブレトンが苦境にある時、強い指導者を供給できることを証明してきた。彼らは正しい八大神を崇拝してもいる。いや、気味の悪い長身のパパやマラキャスは謹んでお断りするが。\r\n\r\n帝国。考えて見てほしい。きっとあなたも私と同じ意見のはずだ。"
+
+#: 51188213-0-1875
+msgctxt "51188213-0-1875"
+msgid "A Royal Embarrassment"
+msgstr "王家の恥"
+
+#: 21337012-0-1831
+msgctxt "21337012-0-1831"
+msgid "To All Citizens of <<1>>,\n\nThe Dominion's Gold Fleet suffered extreme losses due to the recent hurricane. In this time of need, please do what you are able to aid the survivors.\n\n1) Hosting Dominion Soldiers\nIf you or anyone you know are capable of hosting guests, consider opening your doors to Dominion soldiers in need of shelter.\n\n2) Rescue and Recovery\nIf you encounter shipwreck survivors capable of moving on their own, direct them to <<2>>. If trapped beneath wreckage or suffering from grievous wounds, alert any Dominion officer to assist.\n\n3) Salvage Prohibition\nStripping fallen Dominion soldiers of armor or weaponry will be considered a hostile act. Report any such activity to Dominion officers.\n\nYour cooperation is appreciated in this trying time."
+msgstr "<<1>>の全市民へ\r\n\r\nドミニオンの金色の艦隊は先のハリケーンにより大きな損害を受けた。今こそ生存者を助けるためできることをしてほしい。\r\n\r\n1) ドミニオン兵士の受け入れ\r\n客を迎えられる家庭は、救助が必要なドミニオン兵士の受け入れを考慮すること。\r\n\r\n2) 救助と復興\r\n自力で動ける難破船の生存者を見つけたら、<<2>>に行くよう伝えること。残骸の下に埋もれていたり、重傷で苦しむ者がいたら、近くのドミニオン将校に救助を要請するべし。\r\n\r\n3) 略奪の禁止\r\n戦死したドミニオン兵の武器や防具を剥ぎ取るのは犯罪とみなす。ドミニオンの将校に連絡すること。\r\n\r\nこの苦難の中での協力を感謝する。"
+
+#: 51188213-0-1831
+msgctxt "51188213-0-1831"
+msgid "Hurricane Assistance and Salvage"
+msgstr "ハリケーンに対する救援と略奪"
+
+#: 21337012-0-1830
+msgctxt "21337012-0-1830"
+msgid "Good Citizens of <<1>>!\n\nYou've doubtless noted the presence of THALMOR REPRESENTATIVES on your fair island. These ALDMERI DOMINION deputies herald your bright future!\n\nRejoice, for the majestic GOLD FLEET—pride of the Dominion navy!—shall soon arrive at the FREE PORT OF <<Z:2>> for protracted revictualing!\n\nInnkeepers, empty your beds! Merchants, triple-stock your stalls! NUMEROUS DOMINION SOLDIERS will have gold to spend on their EXTENDED SHORE LEAVE!\n\nProsperity! Security! Unity!"
+msgstr "<<1>>の善良な市民たちよ！\r\n\r\n諸君もこのすばらしい島のサルモールの代表者たちにはもう気がついているだろう。アルドメリ・ドミニオンの代理人は、明るい未来の前触れである！\r\n\r\nドミニオン海軍の誇りである壮麗な金色の艦隊もすぐに<<2>>の自由港に入り、長期にわたって食料を補給してくれるだろう！\r\n\r\n宿の主人よ、ベッドの用意を！ 商人よ、3倍の在庫の確保を！ 多数のドミニオン兵が長期休暇中に金をばらまく！\r\n\r\n繁栄を！ 安泰を！ 調和を！"
+
+#: 51188213-0-1830
+msgctxt "51188213-0-1830"
+msgid "Outdated Dominion Broadsheet"
+msgstr "情報が古くなったドミニオンの新聞"
+
+#: 21337012-0-1802
+msgctxt "21337012-0-1802"
+msgid "No Orc is to go near Gurzag's mine. These orders are from your war chief. \n\nI hear you asking each other, when will we smash the undead in the mine and free our brothers? \n\nI am tired of hearing my orders questioned. The Orcs in the mine toyed with foul magic and Wood Elf trickery. That is why they suffer their fate. \n\nIf you want to avenge them, look to the Wood Elves and their High Elf allies, with their dark magics and wicked schemes. Bloody their doorsteps and fill their ears with the cries of their children."
+msgstr "オークはガーザグ鉱山に行ってはならない。これはお前の族長からの命令だ。\r\n\r\nいつ鉱山のアンデッドを叩きつぶし、兄弟たちを解放するか話し合っているそうだな。\r\n\r\n命令への質問はもう聞き飽きた。鉱山のオークは卑劣な魔法とウッドエルフの策略でもてあそばれている。だから彼らは苦しんでいるのだ。\r\n\r\n報復したいなら、闇の魔法と邪悪な計画を持つ、ウッドエルフとハイエルフの盟友を探すのだ。その家の前を血まみれにして、彼らの耳を子供たちの叫び声で満たせ。"
+
+#: 51188213-0-1802
+msgctxt "51188213-0-1802"
+msgid "Stay Away from Gurzag's Mine"
+msgstr "ガーザグ鉱山に近づくな"
+
+#: 21337012-0-1786
+#, fuzzy
+msgctxt "21337012-0-1786"
+msgid "WHEREAS the citizens and leadership of the sovereign Island of <<1>> recognize the capability of Maormer Enforcement Squadrons for acute destruction and wish to establish a peaceful and fiscally advantageous accord;\n\nWHEREAS both parties acknowledge that the creation of terms for a mutually beneficial treaty is desirable and necessary and that the involvement of outside military or political bodies would be materially detrimental to both the Maormer interests and the trade profitability of Mistral;\n\nUnder the auspices of the illustrious and wise King Orgnum, Voice of the Free Maormer People, commander of Twelve-Dozen-and-One mighty ships, faithful and bold representative of the might of the Maormer (and under those of the lesser peoples of <<1>>), the two parties shall henceforth abide by the terms agreed to and set forth in the Articles of this treaty.\n\nArticle 1 \nAn Embassy shall be prominently established in the Port City of <<2>> to accommodate a Maormer Ambassador and associated retinue. Costs shall be afforded by the people of <<1>>, who agree to supply a personal staff of no less than 15 servants, finely-woven tapestries depicting the generous and wise Maormer people, personalized and embroidered cotton bedding, and a stock of local and imported liquors. \n\nArticle 2\nAll individuals and organizations wishing to engage in commerce via the Port City of <<2>> must henceforth be registered and obtain official Rights of Passage. Registration fees are to be determined by the Ambassador on a ship-by-ship basis. Those who refuse such fees will be treated as enemy agents and are subject to confiscation of materials and imprisonment under the auspices of Maormer law. Maormer leadership reserves the right to inspect any vessel in the port and surrounding waters for any reason, and to confiscate any goods considered contraband.\n\nArticle 3\nMaormer Enforcement Squadrons shall not perpetrate unprovoked acts of aggression towards merchant ships in or around the Port City of <<2>>, and likewise shall not interfere with approved trade affairs. Any current prisoners of the two signatories shall be released immediately upon the signing of this treaty. Said squadrons shall act in self-defense and under reasonable suspicion of activities of enemy agents. As recognition for Maormer non-interference, fifteen percent of all registry fees and excises shall be rendered unto the Embassy on the 15th of every month.\n\nArticle 4\nA joint holiday shall be established to commemorate this signing on today's date. Such holiday shall be afforded at the expense of the people of <<2>> to demonstrate peace between the parties and adherence to the treaty. This celebration shall be named ""Serpent's Glory,"" and on this day, Maormer dignitaries and selected Mer, Men, and others of note shall be invited to the Island of <<1>> for feasting, music, and revelry in the parties' common success and accord.\n\nArticle 4, Addendum 1\nAttendance of general festivities during Serpent's Glory is permitted to residents of the Port City of <<2>>, though feast participation shall be limited to Maormer invitees, the Mayor of <<1>>, and no more than three (3) guests selected by the Mayor and approved by the Ambassador. Foodstuffs shall be prepared by Maormer chefs, music performed by Maormer minstrels, and under no circumstances shall the repugnant dish ""sugared cuttlefish"" be served.\n\nArticle 5\nThe Ambassador and the people of <<1>> agree to review the terms, negotiate any necessary addenda, and reaffirm their mutual commitment to a lasting and profitable peace on a decennial basis."
+msgstr "独立した島<<1>>の市民及び指導者は、マオマーの執行部隊が迅速に破壊行為を行える手腕を認め、平和的かつ財政上有利な協定の成就を望む。\r\n\r\n両者は相互に有益な条約の作成が望ましく必要なことを認識し、外部の軍事的、政治的主体の干渉はマオマーの利益とミストラルの取引の収益に著しく有害なものであることを認めるものとする。\r\n\r\n高名かつ賢明なオルグヌム王、マオマー自由人の声、12ダースと1の強き艦隊の指揮官、誠実で勇敢な代表者、マオマー(および<<1>>の小民族)の主権者たるオルグヌムの庇護のもと、両者はこれ以降この条約の条項を順守するものとする。\r\n\r\n第1条\r\nマオマー大使とその随行員が滞在できるように、大使館は<<2>>港湾都市のわかりやすい場所に設置されるものとする 。建設費は<<1>>が負担するものとし、15人以上の使用人、寛大で賢いマオマーの人々を織りだした上質のタペストリー、個人向けにあつらえられたコットンの寝具、地元および輸入ものの酒類を供出するものとする。\r\n\r\n第2条\r\n<<2>>港湾都市での交易を希望するすべての個人および組織は、今後は登録したうえで公の通行証を得なければならない。登録料は大使が船ごとの基準により決定する。登録料を拒否する場合は闇業者とし、マオマーの法により私有財産の没収および投獄の対象となる。マオマーは港および近海の船舶を調査する権利と、すべての禁制品を没収する権利を持つ。\r\n\r\n第3条\r\nマオマー執行部隊は<<2>>港湾都市および周辺の商人に理由なく武力行為を働いてはならない。同じく、承認ずみの交易に干渉をしてはならない。現在投獄されている両国の囚人は、この条約の締結後ただちに解放されるものとする。前述の執行部隊は自己防衛および敵の不審な行動など相当の理由がある場合に限り機能するものとする。マオマーの不干渉への感謝として、登録料と消費税の15パーセントを毎月15日に大使館に納めるものとする。\r\n\r\n第4条\r\n調印を記念して本日を共通の祝日とする。この祝日は<<2>>の人民が経費を負担することで、両国の平和および条約の支持を示すものとする。祝日は 「サーペントの栄光」と名づけ、この日はマオマーの要人と一部のエルフと人、その他選ばれた者を<<1>>島に招待し、祝宴、音楽、饗宴をもって各種族の共通の成功と調和を祝うものとする。\r\n\r\n第4条、付則1\r\nサーペントの栄光の間、<<2>>港湾都市の住民は一般的な祭への参加が許されるが、饗宴の参加はマオマーの招待客である<<1>>市長と、市長が選択の上大使が承認した3人のゲストに限定するものとする。食事はマオマーのシェフが準備し、音楽はマオマーの吟遊詩人が演奏するものとするが、いかなる場合においても「甘く煮たイカ」のような食事を提供しないこと。\r\n\r\n第5条\r\n大使と<<1>>の人民は、持続的かつ有益な平和のために10年を基準に、条件を見直し、相互の義務を再確認するものとする。"
+
+#: 51188213-0-1786
+msgctxt "51188213-0-1786"
+msgid "Treaty of Khenarthi's Roost"
+msgstr "ケナーシズルーストの条約"
+
+#: 21337012-0-1753
+msgctxt "21337012-0-1753"
+msgid "This grand monument, sculpted by the most talented artist, Jamshald Lainlyn, was erected here in the one hundred and second year of the Second Era to honor the esteemed Ansei, and to commemorate the birthplace of Ansei Maja, may she ever watch over the Alik'r desert and protect us all from the threat of the vile arts."
+msgstr "アンセイの名誉を称え、アンセイ・マジャの生誕地を記念して、第二紀102年に天才芸術家ジャムシャルド・ラインリンに建てられたこの壮大な記念碑が、アリクル砂漠を見張り、永遠に我らを邪なものから守らんことを祈る。"
+
+#: 51188213-0-1753
+msgctxt "51188213-0-1753"
+msgid "Ansei Shrine"
+msgstr "アンセイの祠"
+
+#: 21337012-0-1663
+msgctxt "21337012-0-1663"
+msgid "In memory of Frandar Hunding, who conceived the Way of the Sword and taught the Ansei to summon the shehai sword spirits.\n\nWith the Ansei, he defeated Emperor Hira and led his people to freedom in the distant land of Hammerfell."
+msgstr "フランダー・フンディングの記念。剣の道の構想を打ち立て、アンセイにシェハイの霊剣の召喚を教えた\r\n\r\nアンセイとともに皇帝ヒーラを倒し、遠き地ハンマーフェルで民を自由へ導いた"
+
+#: 51188213-0-1663
+msgctxt "51188213-0-1663"
+msgid "Shrine to Frandar Hunding"
+msgstr "フランダー・フンディングの祠"
+
+#: 21337012-0-1662
+msgctxt "21337012-0-1662"
+msgid "In memory of Divad Hunding, son of Frandar. Aided his father in the defeat of Emperor Hira and the settlement of Hammerfell.\n\nDivad broke the Goblinkins' hold over Hammerfell with the creation of five mighty swords."
+msgstr "フランダーの息子、ディヴァド・フンディングの記念。父親が皇帝ヒーラを倒し、ハンマーフェルに入植するのを手助けした\r\n\r\nディヴァドは5本の強力な剣を作り、ハンマーフェルを支配していた祖種ゴブリンを打ち負かした"
+
+#: 51188213-0-1662
+msgctxt "51188213-0-1662"
+msgid "Shrine to Divad Hunding"
+msgstr "ディヴァド・フンディングの祠"
+
+#: 21337012-0-1661
+msgctxt "21337012-0-1661"
+msgid "In memory of the hero Derik Hallin. Long after the time of Frandar and Divad, Derik quested for and recovered the five mighty swords.\n\nHe and the sword-saints wielded the swords in battle to forever end the beastmen threat against Hammerfell."
+msgstr "英雄デリク・ホーリンの記念。フランダーとディヴァドの時代よりずっと後、デリクは探索に出かけ、5本の強力な剣を取り戻した\r\n\r\nデリクと剣聖たちは戦いでこの剣を持ち、ハンマーフェルへの脅威を永遠に終わらせた"
+
+#: 51188213-0-1661
+msgctxt "51188213-0-1661"
+msgid "Shrine to Derik Hallin"
+msgstr "デリク・ホーリンの祠"
+
+#: 21337012-0-1660
+msgctxt "21337012-0-1660"
+msgid "In memory of the sword-saint Makela Leki. Almost single-handedly, Leki held the Bangkorai Pass against the treachery of King Joile.\n\nBecause of her selfless sacrifice, the backstabbing Bretons never reached Sentinel."
+msgstr "剣聖マケラ・レキの記念。ジョイル王の裏切りに対して、ほぼ単独でバンコライ峠を守った\r\n\r\nレキの無私の犠牲により、裏切ったブレトンはセンチネルに辿り着けなかった"
+
+#: 51188213-0-1660
+msgctxt "51188213-0-1660"
+msgid "Shrine to Makela Leki"
+msgstr "マケラ・レキの祠"
+
+#: 21337012-0-1650
+msgctxt "21337012-0-1650"
+msgid "And you know what that means: the Festival of Blades! \n\nCelebrate the defeat of Malooc's Horde in regal style—right here at the Sisters of the Sands, where our cooks' blades are always festive! Our five-drake prix fixe dinner comes with all the festival fixings:\n\n—	Scuttle Fondue with sandwort croutons\n\n—	Goatherd and mutton pies, with garnishes of red mushroom and smoked viper\n\n—	Horker Loaf on a bed of imported scathecraw\n\n—	A bottle of Gold Coast Muscat to wash it down with\n\n—	And Caramelized Goat Nibbles for the children!\n\nAll this, and we still promise to get you out into the street in plenty of time for the Effigy Dismemberment!\n\nBut we can only seat a limited number of revelers, and time is running out, so get your reservations in before it's too late! \n\nBecause you don't want to be stuck at home with nothing for the family but mountain jerky or stale toad muffins—not on the Festival of Blades. \n\nSee you then!"
+msgstr "意味はご存知ですね。刀剣の祭りを！\r\n\r\nマルークの群れを堂々と打ち負かしたことを祝いましょう。ここ砂の姉妹で、コックの包丁はいつでもお祭り気分です！ 私たちの5ドレイクの夕食コースでは、次のようなお祝い用の料理が出ます！\r\n\r\n・スカトルのフォンデュ、砂地の雑草のクルトン添え\r\n\r\n・山羊飼いとマトン羊肉のパイ、レッドマッシュルームとマムシの燻製の付け合わせ\r\n\r\n・スケイスクローの土台に乗せたホーカーのローフ\r\n\r\n・ぐいっと流し込めるゴールドコースト・マスカットの瓶\r\n\r\n・子供用のキャラメルヤギのおつまみ！\r\n\r\n以上です。また、これだけあっても彫像の分割のため通りに出るには、十分な時間が残ることをお約束します！\r\n\r\nお客様の席の数は限られているため、時間も迫っていますので、遅くなる前に予約をお願いします！\r\n\r\n家に閉じこもり、家族にマウンテン・ジャーキーや固くなったヒキガエルのマフィンのような、刀剣の祭りらしくないものしか用意できないのは望んでいませんよね\r\n\r\nそれでは、お待ちしております！"
+
+#: 51188213-0-1650
+msgctxt "51188213-0-1650"
+msgid "The 26th of First Seed is Upon Us!"
+msgstr "蒔種の月の26日がやって来る！"
+
+#: 21337012-0-1601
+msgctxt "21337012-0-1601"
+msgid "Reminder to all workers! Break time has been reduced, effective immediately, to ten minutes instead of the prior fifteen minute break periods. This will remain in effect until productivity returns to the levels I specified in last month's directive.\n\nYou have only yourselves to blame for this change. With the current challenges we face here in Reaper's March it is up to each and every one of us to pull together and work harder to survive. I trust your cooperation with my instructions will be complete and cheerful!\n\nThank you,\n\nKuna"
+msgstr "すべての労働者に伝えます！ ただちに休憩時間を短縮します。以前の15分ではなく10分とします。これは、生産性が先月の指示で示した水準に戻るまで有効なものとします\r\n\r\nこの変更を非難できるのはあなたたち自身だけです。ここリーパーズ・マーチで困難に直面している今、協力して懸命に働いて生き残れるかは、私たち全員に掛かっています。この指示に、全面的に喜んで協力してくれると信じています！\r\n\r\n感謝をこめて\r\n\r\nクーナ"
+
+#: 51188213-0-1601
+msgctxt "51188213-0-1601"
+msgid "Notice: New Working Conditions"
+msgstr "通知: 新たな労働条件"
+
+#: 21337012-0-1526
+#, fuzzy
+msgctxt "21337012-0-1526"
+msgid "By ""Nworc at-Traeh""\n\nWhat says Yousebh the Stringent, Red Dervish of Rihad? ""A daughter of the House of Akos Kasaz shall not marry an infidel of another house."" Long have we followed the words of Yousebh. And yet now, what do we see, right here in Bergama? A daughter of a respected Crown family—that is to say, one who honors the traditions we brought from lost and lamented Akos Kasaz, Yath, and Kanesh—being married off to a ne'er-do-well son from a Forebear household. Is this to be countenanced? Is she to be allowed to bear children of tainted blood? Will they be taught to turn their backs on Ruptga, Tu'whacca, and Satakal, and mouth false prayers to ""Arkay"" and ""Akatosh""? \n\nI say, we must raise our voices and cry ""No!"" Our ancestors came into the deep desert to found Bergama so that we could preserve our heritage from pollution by Tamrielic practices. The sanctity of Yokudan culture is our sacred trust! For two thousand years we have preserved it in the purifying aridity of the Alik'r. Have we maintained our traditions for so many generations, only to see them diluted and disrespected before our very eyes? \n\nIt is said that the Magistrate is willing to license this ill-advised marriage, despite all precedent. What, we must ask, has induced her to make such a decision? Should a Magistrate with such poor judgment remain a Magistrate? \n\nGather, O my neighbors. For we have weighty decisions to make."
+msgstr "ヌウォーク・アトトラエ著\r\n\r\nリハドの赤の修行僧、「厳格な」ユーセブは何と言っている？「アコス・カサズ家の娘は他の家の不信心者と結婚してはならない」長い間、我々はユーセブの言葉に従ってきた。それにもかかわらず、ここバーガマで何を見ている？ 尊敬されるクラウンの娘、つまり失われ、惜しまれるアコス・カサズ、ヤス、カネシュから受け継がれる伝統を守る者が、フォアベアー家のろくでなしの息子と結婚する。汚れた血を継ぐ子供を持つなど許されるのか？子供たちはラプトガ、トゥワッカ、そしてサタカルに背を向け、「アーケイ」と「アカトシュ」に偽りの祈りを捧げろと教えられるのか？\r\n\r\nそう、「だめだ！」と声を上げて叫ばなければ。先人たちはタムリエルの汚染から伝統を守るため、砂漠の奥深くに行き、バーガマを創設した。ヨクダの文化の神聖さは、我々の聖なる預かりものだ！ 2千年の間、我々はそれを、アリクルのあらゆるものを浄化する乾燥した地で守ってきた。何世代もの間、伝統を守ってきたというのに、目の前で色あせ、軽視されるのを傍観するのか？\r\n\r\n執政官はこの軽率な結婚を認めることを望んでいると言われている。聞かなければ。なぜ彼女はそのような決心をしたのだろうか？そのような未熟な判断をする執政官は、執政官の座に留まってよいものか？\r\n\r\n集まれ、隣人たちよ。重大な決定をしなければならない。"
+
+#: 51188213-0-1526
+msgctxt "51188213-0-1526"
+msgid "A Betrayal of Our Heritage"
+msgstr "我々の伝統への裏切り"
+
+#: 21337012-0-1522
+msgctxt "21337012-0-1522"
+msgid "SPIES ARE EVERYWHERE!\n\nThe ships we are building are destined for the Thrice-Blessed Alliance of the Daggerfall Covenant—agents of the Ebonheart Pact and the Aldmeri Dominion may be spying upon our work AT ANY TIME. \n\nBEWARE OF SABOTEURS!\n\nShips on the ways are vulnerable to sabotage, especially from fire. This is especially likely to be attempted at night. BE ALERT FOR SUSPICIOUS ACTIVITY.\n\nREMEMBER: OPEN EYES TO STOP THE SPIES!"
+msgstr "密偵はどこにでもいる！\r\n\r\n建造している船は、三重に祝福されたダガーフォール・カバナントの同盟のためのものであるが、エボンハート・パクトとアルドメリ・ドミニオンの工作員が偵察している可能性がある。いかなる時であっても。\r\n\r\n破壊活動家に注意せよ！\r\n\r\n建造中の船は、破壊工作、特に火によるものに弱い。特に、夜に実行される可能性がある。怪しげな行動を警戒せよ。\r\n\r\n警告: 細心の注意を払って密偵を阻止せよ！"
+
+#: 51188213-0-1522
+msgctxt "51188213-0-1522"
+msgid "Shipyard Workers, Take Warning!"
+msgstr "造船所の労働者に警告する！"
+
+#: 21337012-0-1501
+msgctxt "21337012-0-1501"
+msgid "All citizens of Haj Uxith must take heed! Our agreement with Molag Bal permits the Lord of Brutality's minions to extract and refine sap from our beloved Hist tree. Furthermore, we are prohibited from entering the sap vat chamber or from interfering with the sap collection and refinement process in any way.\n\nViolating this agreement or disregarding this warning can result in punishment not only for you, but for the entire Argonian community of Haj Uxith.\n\nYou have been warned.\n\nThank you for your attention in this matter."
+msgstr "ハジ・ウクシスの全市民よ！ モラグ・バルとの我々の協定はこの残虐の王の僕たちが我らの大切なヒストの樹から樹液を抽出し、精製することを許可している。それに加えて、我々は樹液桶の部屋に入ることも、樹液の収集や精製工程にいかなる形で関わることも禁じられる。\r\n\r\nこの協定を侵犯すること、もしくはこの警告を無視することは、自分自身だけでなく、ハジ・ウクシスのアルゴニアン共同体の全体に対する処罰を引き起こすものと考えよ。\r\n\r\n警告は以上だ。\r\n\r\n協力を感謝する。"
+
+#: 51188213-0-1501
+msgctxt "51188213-0-1501"
+msgid "Warning to Citizens of Haj Uxith"
+msgstr "ハジ・ウクシスの市民への警告"
+
+#: 21337012-0-1500
+msgctxt "21337012-0-1500"
+msgid "We, the scholars of Haj Uxith, value these spiritual attributes above all others: courage, endurance, preservation. While these values hold a special place in the hearts of all our people, it is the scholars who truly understand how these attributes help our society not only to survive but to thrive in these strange lands.\n\nCourage allows us to deal with those who may not always agree with our point of view and to face the unknown. This dark land constantly presents strange challenges and new obstacles, but we must not cower before these. We must meet them head on and deal with them as bravely and as boldly as we can.\n\nEndurance allows us to withstand the hardships and difficulties of this harsh, barren land. It takes patience and skill and a natural hardiness to overcome the constant challenges of this punishing realm. We must bear the brunt of these difficulties and withstand every unexpected storm if we hope to survive.\n\nPreservation allows us to remember our past and maintain the civilization that our Hist tree has sacrificed so much to safeguard. We look to the words and deeds of our ancestors to be our guides, and we protect the stories and lessons of the past so that they can continue to teach us and remind us of who and what we are."
+msgstr "ハジ・ウクシスの学者である我々は、他の何にもまして以下の精神的属性を尊重する。すなわち勇気、忍耐力、保護である。これらの美徳は我が民族全員の心に特別な場所を占めているが、これらの属性が我々の社会の生存のみならず、この奇妙な地での繁栄をも助けるということを真に理解しているのは、我々学者たちである。\r\n\r\n勇気は我々の意見に常に同意しない者たちと戦い、また未知のものに向き合うことを可能にする。この暗黒の地は常に奇妙な困難と新たな障害を突きつけてくるが、怯えていてはいけない。我々はそこにぶつかっていき、できる限り勇敢かつ大胆に対処しなければならない。\r\n\r\n忍耐力はこの厳しく何もない地での苦労と困難に耐えることを可能にする。この容赦のない領域での終わりなき困難を克服するには我慢強さと技術、そして自然な頑強さが必要である。我々はそうした困難を受けて立ち、予期せぬ嵐に耐えなければ生き残れない。\r\n\r\n保護は我々の過去を記憶し、ヒストの樹が多くを犠牲にして守ってきた我々の文明を維持することを可能にする。我々は祖先たちの言葉と行為を我々の導きとして求め、過去の物語と教訓を維持して、我々が何者かということを我々自身に教え、また思い出させる。"
+
+#: 51188213-0-1500
+msgctxt "51188213-0-1500"
+msgid "The Values of Haj Uxith"
+msgstr "ハジ・ウクシスの尊重する美徳"
+
+#: 21337012-0-145
+msgctxt "21337012-0-145"
+msgid "It is the right and duty of all sentient beings to be masters of their own fate, to live or die according to their own wishes. Slavery is a foul practice that takes this choice from those bound under its terrible yoke, transferring their decision-making capacity to the owner.\n\nThis is neither fair nor right, and should be resisted as violently as possible, everywhere and at all times. Anyone who stands idly by and lets another be enslaved is no better than the one who cracks the whip.\n\nFor generations, the Dark Elves enslaved my people, some suffering from hatching to grave under Elven control. During this time, the Nords did nothing to help us. The so-called Pact has not redressed these past offenses. Instead, we've been told to be happy we are no longer slaves.\n\nWe've been told recompense is out of the question. But even a guar will bite if kicked long enough.\n\nIf the Pact will not help us get what we deserve for our generations of suffering, others will help us. The Varakun seek power for their master, but also grant power to those who serve them. Through their auspices, I will avenge those who died as slaves. I will raise their tormentors as my undead vassals, and they will serve me forever in death."
+msgstr "おのれの運命の主人でいること、すなわち自分自身の望みに従って生きて死んでゆくことは、生きとし生けるものの権利であり義務である。奴隷制度は非道な重荷に縛られた人々からこの選択肢を奪い去り、彼らの意思決定能力を所有者に渡してしまう邪悪な所業である。\r\n\r\nこれは公正でも正当でもなく、場所や時を問わず、可能な限り激しく抵抗されるべきものである。何もせずに他者が奴隷にされていることを容認している者はみな、鞭を鳴らして服従を強いる者と同類である。\r\n\r\n何世代にもわたって、ダークエルフは我々の種族を奴隷とし、中には孵化から墓場までエルフの支配を受けた者もいた。この期間、ノルドは我々を助けなかった。いわゆるパクトも過去の罪を償っていない。それどころか、もはや奴隷ではないのだから喜べと、我々は言われ続けてきた。\r\n\r\n賠償など論外だと、我々は言われ続けてきた。だが一匹のグアルでさえ、長い間蹴られ続ければ噛みつくものだ。\r\n\r\n我々の数世代に渡る苦しみに相応する補償を受けることについて、パクトが手助けせずとも、別の者達が手を差し伸べるであろう。ヴァラクンは主人のために力を探すだけでなく、彼らに仕える者に力を与える。彼らの予言を通じて、私は奴隷として死んでいった者達の仇を討つだろう。彼らを苦しめた者達をアンデッドの奴隷として呼び起こし、死したまま永遠に我がもとで働かせてやろう"
+
+#: 51188213-0-145
+msgctxt "51188213-0-145"
+msgid "A Free Argonian's Manifesto"
+msgstr "自由なアルゴニアンの宣言"
+
+#: 21337012-0-1445
+msgctxt "21337012-0-1445"
+msgid "SPIKEBALL! THE PHENOMENON THAT'S SWEEPING TAMRIEL!\n\nThis action-packed, exciting new game is sure to become the Next Big Betting Sport!\n\nSEE the runners speed around the track with precision and abandon!\n\nFEEL THE PAIN as competitors collapse to their knees in pain!\n\nHEAR the hilarious sound of a spikeball striking a runner in the head!\n\nAnd because runners are people, there is SIMPLY NO WAY anyone can cheat! No pliable wild monsters! No thoroughbred lizards or monkeys!  Spikeball is the betting sport of the future!\n\nSee it Today! At Hadran's Caravan!"
+msgstr "スパイクボール！ タムリエルを席巻する新流行！\r\n\r\nこのアクション満載でエキサイティングな新スポーツは間違いなく次の大きな賭けスポーツになる！\r\n\r\nトラックを疾走するランナーたちの精密かつ無謀な走りを見よ！\r\n\r\n苦痛で膝をつく競技者たちの痛みを感じろ！\r\n\r\nスパイクボールがランナーの頭に直撃する愉快な音を聞け！\r\n\r\nランナーたちは人間だ。だから八百長は絶対にない！ 手なずけられる野生の怪物はなし！ サラブレッドのトカゲも猿もいない！ スパイクボールは未来の賭けスポーツだ！\r\n\r\n今日、その目で見届けろ！ ハドランのキャラバンで！"
+
+#: 51188213-0-1445
+msgctxt "51188213-0-1445"
+msgid "Spikeball Handbill"
+msgstr "スパイクボールのチラシ"
+
+#: 21337012-0-1444
+msgctxt "21337012-0-1444"
+msgid "TO THE AUTHORITIES FROM ANY GOVERNING BODY:\n\nThe residents and visitors of Hadran's Caravan reject your stifling societal rules as FREE PEOPLE.\n\nThose who attempt to remove the citizens of this Caravan face DIRE CONSEQUENCES for their illegal and immoral actions.\n\nReaper's March is a free land for all races and species.  We spit upon the cronies of the Mane, the mind-slaves of the so-called gods. We reject the oppressive boot of ANY AND ALL Kings, Queens, Emperors, Empresses, alliances, and authoritarians!\n\nThis land belongs not to the few, but the many!"
+msgstr "すべての行政機関へ告ぐ:\r\n\r\nハドランのキャラバンの居住者および訪問者は「自由な市民」として、あなた方の息苦しい社会規範を拒絶する。\r\n\r\nこのキャラバンの市民を退去させようと試みる者は誰であれ、その違法にして非道徳的な行為の「重大な帰結」に向き合うことになる。\r\n\r\nリーパーズ・マーチはすべての民族と生物種にとっての自由な地である。我々はたてがみの追従者や、神と呼ばれるものへの精神的奴隷に唾を吐きかける。我々は「いかなる」王、女王、皇帝、女帝、同盟あるいは権威主義者からの抑圧的な恩恵も拒絶する！\r\n\r\nこの地は選ばれた少数者ではなく、大多数の人々のものである！"
+
+#: 51188213-0-1444
+msgctxt "51188213-0-1444"
+msgid "Notice to Authorities"
+msgstr "当局への通知"
+
+#: 21337012-0-1368
+msgctxt "21337012-0-1368"
+msgid "—WARNING—\n\nDevices for the extraction of Hist sap were developed—at great expense—by the alchemical wing of the Crystal Tower. Remuneration for missing or damaged extractors will be garnished from the responsible unit's wages.\n\nBe forewarned. In its natural form, Hist sap has many undesirable properties. Avoid contact with skin or breathing of fumes. Under no circumstances should you imbibe Hist sap.\n\nSome have experienced the strange effects of untreated Hist sap. Unauthorized use of the substance will be punished by flogging the entire squad thus shown incapable of restraining its weakest members.\n\nSpecific violators will then reconsider their poor judgment while immersed in one of the marsh's many festering pools for a period of no less than six (6) hours.\n\n—PROPER USAGE—\n\nOnce the devices extract a suitable quantity of Hist sap, refer to the instructions below:\n\n1. Pulp three (3) handfuls of Giant Wasp larvae.\n2. Liberally coat linen strips with paste.\n3. Wrap resulting poultice around desired portion of the Hist.\n4. Apply one (1) phial of Hist sap.\n\nEffects should be immediate.\n\n— Alchemist <<1>>"
+msgstr "-警告-\r\n\r\n水晶の塔の錬金術棟で、ヒストの樹液を抽出するための装置が莫大な費用をかけて開発された。これらの抽出装置を紛失したり損なったりした代償は、当該チームの俸給から天引きされることになる。\r\n\r\nあらかじめ警告しておくが、ヒストの樹液はなんら手を加えていない状態で、好ましくない特性をいくつもそなえている。肌につけたり、香りを嗅いだりすることは避けるように。ましてや飲むなどというのは、いかなる条件下だろうとすべきではない。\r\n\r\n未処理のヒストの樹液が持つ奇妙な効果については、何人かが体験済みだ。この液体を無断で使用すれば、チームの全員が鞭打ちを受けることになる。チームとして、最も心の弱いメンバーを抑えるだけの能力がないことを露呈したからだ。\r\n\r\nそのうえで、直接の違反者は沼地に数ある淀んだ池の1つに少なくとも6時間は浸かりながら、おのれの浅慮を後悔することになるだろう。\r\n\r\n-正しい使用法-\r\n\r\n装置がヒストの樹液を適量抽出したら、以下の指示に従うこと:\r\n\r\n1. てのひら3杯分のジャイアントワスプの幼虫をどろどろに溶かす。\r\n2. それをリネンの布きれにたっぷり塗りつける。\r\n3. 出来上がった湿布剤で要るだけのヒストを包む。\r\n4. ヒストの樹液1瓶を加える。\r\n\r\n効果はただちに現れる。\r\n\r\n-錬金術師<<1>>"
+
+#: 51188213-0-1368
+msgctxt "51188213-0-1368"
+msgid "List of Instructions"
+msgstr "手順リスト"
+
+#: 21337012-0-1308
+msgctxt "21337012-0-1308"
+msgid "Although nearly as ancient as the Mer, the Argonians of Black Marsh are still a primitive people. Shamanistic thinking and tree worship indicates a sub-mer capacity for critical thinking. The crude craftsmanship in these artifacts further points to a limited appreciation for aesthetics, calling into question their possibility of possessing a soul."
+msgstr "エルフに負けず劣らず古い種族でありながら、ブラック・マーシュのアルゴニアンは今なお未開の状態を脱していない。呪術に彩られた思考と樹木の崇拝は、彼らの批判的思考能力がエルフに劣ることを示している。これらのアーティファクトに見られる粗削りな技法は、彼らの審美眼が限定的であることのさらなる証明であり、彼らが魂を有している可能性に疑問を投げかけるものである。"
+
+#: 51188213-0-1308
+msgctxt "51188213-0-1308"
+msgid "Argonians of Black Marsh"
+msgstr "ブラック・マーシュのアルゴニアン"
+
+#: 21337012-0-1307
+msgctxt "21337012-0-1307"
+msgid "As the (self-proclaimed) purest line descended from the ancient Aldmer, the Altmeri people have built an empire of grace, refinement, and strength. In this room are several artifacts showcasing their remarkable artistic accomplishments and their heavy burden of rulership."
+msgstr "古代アルドマーの血を最も濃く受け継ぐ種族だと主張するアルトマーの人々は、優美と洗練と強さの帝国を築きあげた。この部屋にあるいくつかのアーティファクトには、彼らが到達した芸術的高みと、彼らが背負った統治者としての重責が映し出されている。"
+
+#: 51188213-0-1307
+msgctxt "51188213-0-1307"
+msgid "Altmer: Heirs of a Noble Lineage"
+msgstr "アルトマー: 貴い血筋の後継者"
+
+#: 21337012-0-1306
+msgctxt "21337012-0-1306"
+msgid "Although a barbarous and savage society, the ancient Nedic people (possible ancestors of the modern Nords) were famed for their skill in metallurgy. Seen here are two pristine dueling swords from that era, once wielded by the draugr lord Haltaf in his subterranean lair."
+msgstr "未開で野蛮な人々ながら、古代ネード人(現代のノルドの祖先と思われる人々)は冶金の技術で名を馳せていた。この2振りの少しも古びていない決闘用の剣は当時の作で、かつてドラウグルの王ハルタフが地下のねぐらで振るっていたものだ。"
+
+#: 51188213-0-1306
+msgctxt "51188213-0-1306"
+msgid "Nedic Dueling Swords"
+msgstr "ネードの決闘用の剣"
+
+#: 21337012-0-1303
+msgctxt "21337012-0-1303"
+msgid "Goblins infest the caves to our north. They slip into town in the night and steal food, livestock, even people.\n\nTurn your blades on the foul Goblins and you will be rewarded!\n\nHeadman Bhosek will soon offer a bounty for slain Goblins. This is your chance for riches!\n\nAddendum: Please do not ask Headman Bhosek about the bounty. When it is ready, we will spread word.\n\n— Scribe Nicolard\n\n<Graffiti is scrawled below the notice>\n\nKilled Goblins for years, but never been paid. Demand a reward, lose your fingers!"
+msgstr "北の洞窟群がゴブリンの巣窟になっている。奴らは夜な夜な街に忍び込んでは、食べものをくすね、家畜をさらい、あまつさえ市民までかどかわしていく。\r\n\r\n不浄なゴブリンどもを退治してくれれば、報酬をはずもう！\r\n\r\n近々ボーセク首長から、賞金が提示されるだろう。ゴブリンを倒して金持ちになるチャンスだぞ！\r\n\r\n追記: ボーセク首長に賞金のことは訊ねないでほしい。準備が整い次第、こちらから発表する。\r\n\r\n-書記ニコラード\r\n\r\n<告知の下に落書きがされている>\r\n\r\n何年もゴブリンを退治してるが、金が支払われた試しはない。請求なんかしてみろ、指を切り落とされちまうぞ！"
+
+#: 51188213-0-1303
+msgctxt "51188213-0-1303"
+msgid "A Call to Action!"
+msgstr "行動を求む！"
+
+#: 21337012-0-1298
+#, fuzzy
+msgctxt "21337012-0-1298"
+msgid "You've heard grand claims. Orsinium reborn. The Elf-loving Bretons our friends, the traitor Redguards our allies.\n\nWe are welcome, they claim. We are needed, they claim. All lies.\n\nKurog the False Chief would tell you the Daggerfall Covenant is our future. Kurog, the sellsword who abandoned his tribe, who shed blood for Elves and gold as his people languished and starved. This toothless runt would have us in chains, fighting for the Bretons and Redguards who slaughtered us.\n\nHave you forgotten our brothers and sisters at Orsinium?  Have you forgotten who launched their crusade to crush ""the Pig Children""?\n\nThe same Bretons and Redguards who now pretend friendship sought to wipe us from the face of Tamriel. Now, with our fields salted and our homes burned, the cowards and liars offer to return the land they stole.\n\nShall we make peace with our enemies? Shall we thank them for returning what they stole from us through foul magic and treachery?\n\nLook past Kurog's silken words. Look to his cowardly deeds, and to the ancestors who gave their lives to keep us free. This Daggerfall Covenant is a chain around our necks.\n\nThey wish to make us their dogs. Remind them that we are Orcs! We will never bow before their so-called ""High King""!\n\nDown with Kurog the False Chief!\n\nDown with Emeric the Enslaver!"
+msgstr "大いなる宣言を聞いただろう。オルシニウムは生まれ変わった。これからはエルフ好きのブレトンが我々の友人で、裏切り者のレッドガードが我々の味方だ。\r\n\r\n我々を歓迎する――そう奴らは言う。我々が必要なのだと。全部嘘っぱちだ。\r\n\r\n「偽りの族長」クログなら、ダガーフォール・カバナントは我々の未来だと言うだろう。さすがは自分の部族を見捨てた傭兵だ。クログは困窮し飢えに苦しむ仲間を尻目に、エルフと金のためにその手を血で染めた。この歯なしのチビなら、我々を鎖につないででも、我々を殺戮したブレトンやレッドガードのために戦わせるだろう。\r\n\r\nオルシニウムの兄弟姉妹を忘れてしまったのか？ 「豚の子ら」を征伐すべく聖戦を始めたのが誰か、忘れてしまったのか？\r\n\r\n今友人を装っているその同じブレトンとレッドガードが、我々をタムリエルから一掃しようとしたのだ。我々の田畑が駄目になり、我々の家が焼け落ちた今、臆病で嘘つきな連中が、我々から盗み取った土地を差し出すという。\r\n\r\n我々は敵と和解するというのか？ 汚らわしい魔術と裏切りで我々から盗み取ったものを返すからといって、奴らに感謝すると？\r\n\r\nクログの甘い言葉にだまされてはならない。奴の卑怯な所業の数々に目を向けよ。そして、命をなげうって我々を自由にしてくれた祖先に目を向けるのだ。このダガーフォール・カバナントとやらは、我々の首に巻かれた鎖にほかならない。\r\n\r\n奴らは我々を飼い犬にしたがっている。奴らに思い出させてやれ――我々がオークだということを！ 奴らの言う「上級王」になど、我々は頭を下げはしない！\r\n\r\n「偽りの族長」クログを倒せ！\r\n\r\n「奴隷主」エメリックを倒せ！"
+
+#: 51188213-0-1298
+msgctxt "51188213-0-1298"
+msgid "Kurog's Betrayal"
+msgstr "クログの裏切り"
+
+#: 21337012-0-1296
+msgctxt "21337012-0-1296"
+msgid "Steal from Bhosek: Beheading\n\nTouch Bhosek's Girls: Gelding\n\nInsult Bhosek: 20 Lashes\n\nDon't Pay Taxes: Tide Cage\n\nKill a Fist: The Grave\n\nSteal from a Fist: Hands cut off\n\nRat to the Navy: Tongue cut out\n\nRat to Helane: Keelhauling"
+msgstr "ボーセクから盗みを働く: 斬首\r\n\r\nボーセクの女たちに手を触れる: 去勢\r\n\r\nボーセクを侮辱する: 鞭打ち20回\r\n\r\n脱税: 水牢\r\n\r\nブラッディフィストを殺す: 墓場\r\n\r\nブラッディフィストから盗みをはたらく: 両手首から先を切断\r\n\r\n海軍に密告する: 舌を切断\r\n\r\nヘレインに密告する: 船底くぐり"
+
+#: 51188213-0-1296
+msgctxt "51188213-0-1296"
+msgid "Bhosek's Punishments"
+msgstr "ボーセクの懲罰"
+
+#: 21337012-0-1291
+msgctxt "21337012-0-1291"
+msgid "Big game hunters of Reaper's March, I offer you an opportunity for coin and fame! Like in the days of old, I'm offering an open contract—a bounty— for senche-tiger fangs! Bring me no less than twenty-five tiger fangs …. and I will pay you a handsome sum in coins! Bards will speak your name in taverns across the March. Seek me out at the Fighters Guild drinking hall in Rawl'kha and earn your coin today!\n\n— Panreth the Bold, Freelance Hunter and Benefactor"
+msgstr "リーパーズ・マーチの大物狙いの狩人たちへ。皆に大金と名誉を手にする機会を与えましょう！ 昔のように、賞金を提示したい。対象はセンチタイガーの牙よ！ センチタイガーの牙を25本以上持って来て。そうすれば大金を払うわ！ マーチ中の酒場で、吟遊詩人達があなたの名前を口にするようになるでしょう。ラウル・ハにある戦士ギルドの酒場で私を探して！ すぐにお金が手に入るわよ！\r\n\r\n-狩人兼慈善家、豪胆なパンレス"
+
+#: 51188213-0-1291
+msgctxt "51188213-0-1291"
+msgid "Make the Wilds Safer, Earn Gold"
+msgstr "荒野を安全にして、金を稼げ"
+
+#: 21337012-0-1273
+#, fuzzy
+msgctxt "21337012-0-1273"
+msgid "The peoples of the Daggerfall Covenant are a strong and diverse group. It is our differences that help us be strong. We complement each other. This is not true of the other races of Tamriel.\n\nThe Elves\n\nThe High Elves who rule over the ""lesser"" races in the Aldmeri Dominion are without a doubt the most arrogant of the Elf races, which is saying quite a bit. High Elves believe that they are the direct descendants of the Aedra! They rule over the Wood Elves and Khajiit while giving them token positions within the ruling hierarchy to keep them content. Rumors of harsh punishments for disobedience cannot be confirmed as any dissidents quickly disappear.\n\nThe Wood Elves are a barbaric people who are willing to submit to High Elf rule as long as their practices of cannibalism are allowed to continue. They eat their enemies and even one another. They worship the trees of Valenwood, refusing to cut them down or harm the animals that live there. Who does things like that?\n\nThe Dark Elves of Morrowind are almost as bad as the High Elves. The Tribunal rulers of the Dark Elves have convinced their people that they are ""Living Gods"" possessing great powers and immortality. These old wizards openly imitate what was called the ""Good Daedra"" as part of their Dark Elf ancestral worship.\n\nThe Beast Races\n\nThe Khajiit are the ""cat-people"" of Elsweyr. Many rumors exist about the Khajiit, and they are certainly all true. The Khajiit are a society of thieves and addicts. Most spend their time consuming vast quantities of the addictive substance distilled from moon-sugar. Thievery is second nature to these cats, as stealing often supports their addictions.\n\nArgonians are the ""lizard folk"" of the Black Marsh. Little is known about their culture save for a few rumors and lots of hearsay. It is known that they believe they originate from the trees that grow in Black Marsh. The environment of the marsh has given the Argonians a resistance to the toxic substances found there. The society of Black Marsh is primitive by the standards of the other races.\n\nHumans\n\nThe Nords are the hardened folk of the north. Hailing from Skyrim, these brutes live for war and conquest. When not fighting others, the Nords fight among themselves. The Nords are not a very bright people. It seems that the thin air in Skyrim has led to a stunting of the mental capacity of the Nords.\n\nThe Cyrodiils are a cunning and ruthless people. The central location of Cyrodiil has given them contact with all the races of Tamriel and made them fine traders and diplomats. It has also made them very shrewd with silver tongues and cheating ways. They have a sense of entitlement to rule. Of all the enemies of the Daggerfall Covenant, it is the people of Cyrodiil that are the most dangerous."
+msgstr "ダガーフォール・カバナントの仲間たちは力強く、多様性に富んだ集団だ。互いの違いこそが我々の強みであり、足りない部分を補い合っている。これは、我々以外のタムリエルの諸種族には当てはまらない特性と言える。\r\n\r\nエルフ\r\n\r\nアルドメリ・ドミニオンで「劣等」種族を支配しているハイエルフは、疑いなくエルフ族のなかで最も傲慢な種族である。その一事をもってしても、多くが知れようというもの。なにしろ彼らはあろうことか、自分たちがエドラの直系の子孫だと信じているのである！ 実質的にウッドエルフとカジートを支配しつつ、彼らに名ばかりの地位を与えることで、不満が爆発しないようにしている。自分たちに従わない者には過酷な刑罰を科しているというもっぱらの噂だが、反体制派はたちまち行方不明になってしまうので、裏付けはとれない。\r\n\r\nウッドエルフは人肉食の風習さえ続けさせてもらえるなら、喜んでハイエルフに服従しようという野蛮な種族である。彼らは敵の肉を喰らうだけでは飽き足らず、同じウッドエルフ同士で共食いにおよぶ。彼らはまたヴァレンウッドの木々を崇めており、そうした木々を伐り倒すことも、そこに棲む動物に危害を加えることも拒んでいる。まったく呆れた連中ではないか？\r\n\r\nモロウウィンドに住むダークエルフはハイエルフに負けず劣らずたちが悪い。彼らを統べるトリビュナルは、自分たちが偉大な力と永遠の生命を持つ「生ける神々」だと下々に思い込ませている。こうした高齢の魔術師たちは、ダークエルフの祖先が実践していた信仰の一部として「善のデイドラ」と呼ばれたものを公然と模倣している。\r\n\r\n獣族\r\n\r\nカジートはエルスウェアの「猫族」だ。彼らについてはとかくの噂が絶えないが、それらはどれも間違いなく事実である。カジートには盗人と中毒者しかいない。大半はムーンシュガーから抽出した中毒性物質を大量に消費することに現を抜かしている。盗みが彼らの第二の天性なのは、それによって中毒生活を維持している場合が少なくないからだ。\r\n\r\nアルゴニアンはブラック・マーシュの「トカゲ族」だ。彼らの文化については、いくつかの噂と数多くの風説を除けばほとんど知られていない。ただ、彼らが自分たちをブラック・マーシュに生息する木々から生まれたと信じていることは有名だ。沼地で生まれ育つ彼らは、そこで見つかるさまざまな毒物に対する耐性を有する。ブラック・マーシュの文化は、他の種族の基準に照らせば原始的と言える。\r\n\r\n人間\r\n\r\nノルドは北方に住む頑健な人々だ。スカイリムを本拠とするこの蛮族は、戦争と征服を生きがいとし、外部と戦っていないときには内輪もめに精を出す。非常に賢い人々とは言えず、スカイリムの薄い空気が彼らの知的能力の成長を阻害しているように思われる。\r\n\r\nシロディール人は狡猾で無慈悲な人々だ。シロディールが大陸の中央に位置することから、彼らはタムリエルのあらゆる種族と接触があり、そのおかげで交易と外交に熟達した。また、彼らが雄弁で裏技に通じた非常に抜け目のない人々であるのも、地政学的要因の賜物と言える。彼らは自分たちに支配者たるべき資格があると感じている。ダガーフォール・カバナントに仇なすすべての敵のなかで、最も危険なのがシロディール人である。"
+
+#: 51188213-0-1273
+msgctxt "51188213-0-1273"
+msgid "On Our Enemies"
+msgstr "敵について"
+
+#: 21337012-0-1252
+msgctxt "21337012-0-1252"
+msgid "Wayrest Guard General Order 2247\n\nEqual Treatment for All Covenant Citizens\n\nIt has come to my attention that members of the Guard have failed to show proper respect for citizens of the Orcish persuasion such as are seen more and more often these days within our walls. There have been reports of sneering, of spitting, of improper amorous propositions, and of suggestions that places other than Wayrest might be more appropriate destinations, and that the sooner the Orcish citizen went there, the better. \n\nThis will not be tolerated. These Orcish citizens are now our allies, and deserve the same protection under the law as normal people. I don't care about the tusks. Get over it. Any Guard found mistreating an Orc who didn't deserve it will be suspended without pay for a period appropriate to the gravity of the misconduct. \n\nThis is not a joke. I'm serious.\n\nMathias Etienne\n\nGuard Captain"
+msgstr "ウェイレスト衛兵隊長の命令2247\r\n\r\nカバナントの全住人を平等に扱うこと\r\n\r\n一部の衛兵がオークの住人に対して適切な敬意を払っていないことが分かった。最近、城壁の中ではそういった場面を見かけることが多くなっている。馬鹿にしたり、唾を吐いたり、不適切な誘惑があったとの報告を受けている。ウェイレストより適切な場所があるから、オークの住人はさっさとそこに行くべきだと言っていたという報告もあった。\r\n\r\nこのようなことは容認できない。オークの住人は今や我々の仲間だ、普通の人々と同じように、法の下に保護されるべきだ。私は牙のことは気にしない。慣れるんだ。オークに不適切な暴力を働いた衛兵は、その行為の重さに応じて一定期間、無給の停職処分にする。\r\n\r\nこれは冗談ではない。本気だ。\r\n\r\nマシアス・エチエン\r\n\r\n衛兵隊長"
+
+#: 51188213-0-1252
+msgctxt "51188213-0-1252"
+msgid "Wayrest Guard Orders"
+msgstr "ウェイレスト衛兵への命令"
+
+#: 21337012-0-1245
+msgctxt "21337012-0-1245"
+msgid "A Gladiatorial Spectacle!\n\nWatch the Undefeated Champions of Hammerdeath as they take on all comers! See the action before the arena closes for the war effort!\n\nSpidera—her poison and webs made her victorious in over thirty contests.  A wise man places his bets on her before she drags another victim into her lair.\n\nWild Khran—fresh from the legions of an Orc army, he is merciless, cutting down Man and Elf alike. Only a fool would bet against this seasoned pit fighter.\n\nIntroducing Fatima the Lovely—a rare Redguard witch, and deadly as a desert asp. Is there a bravo who thinks he can best her?"
+msgstr "圧倒的な戦いの舞台！\r\n\r\n様々な挑戦者と戦う、ハンマーデスの無敵のチャンピオン達を見逃すな！ 戦争でアリーナが閉鎖される前に、その力を目に焼き付けろ！\r\n\r\nスパイデラはその毒と糸で30勝以上を達成。賢い男であれば、新たな犠牲者が巣に引き込まれる前に彼女に賭けろ。\r\n\r\nつい最近までオークの兵士だったワイルド・カランは、容赦なく人間とエルフを切り刻む。この熟練の猛獣が負ける方に賭けるのは愚か者だけだ。\r\n\r\n美しきファティマを紹介しよう。珍しいレッドガードの魔女で、砂漠の蛇のように危険だ。彼女を倒さんとする挑戦者は現れるのだろうか？"
+
+#: 51188213-0-1245
+msgctxt "51188213-0-1245"
+msgid "Old Handbill"
+msgstr "古いチラシ"
+
+#: 21337012-0-1238
+#, fuzzy
+msgctxt "21337012-0-1238"
+msgid "People of Silvenar:\n\nYour lives have been disrupted, your celebrations halted, your ways of life threatened. I, Ulthorn, am aware of my role in these troubles, but we are a people at war!\n\nWe must fight for our very way of life. The Aldmeri Dominion seeks to rule us from Elden Root, strip our rulers of their power, and corrupt our sacred rituals. The Dominion ""invited"" our previous Green Lady and Silvenar to join them on the island of Khenarthi's Roost, and it was an Altmer who was responsible for their deaths. Why? So they could replace them with puppets under their control!\n\nOur new Green Lady, Gwaering, was duped by the Dominion. But Indaenir, the current ""choice"" to be the Silvenar, is working with the Domnion, and his presence in the city will be the advent of our doom!\n\nThe evidence is all around you. Would the true Silvenar abandon the Green Lady along the road, as he did in Velyn Harbor? Would he stop to consort with Wood Orcs in Jathsogur, rather than come straight to the city that bears his name? Would he hesitate to come to the Handfast when the Green Lady has already arrived and awaits him? No!\n\nThe Dominion's false Silvenar skulks about Malabal Tor. He may look for a way into this city, but he will not find it. And, any of you who help locate any of the traitors who support Indaenir, or the false Silvenar himself, will gain great favor with me and reward from all the Bosmer.\n\n— Ulthorn"
+msgstr "シルヴェナールの人々へ\r\n\r\n皆の生活が崩壊し、皆の式典が中止され、皆が命の危機にある。私、ウルソーンは、この混乱の中で果たすべき役割を理解している。だが我々は戦争の最中にあるのだ！\r\n\r\n我々は自分達のために戦わなければならない。アルドメリ・ドミニオンはエルデンルートから我々を支配し、我々の指導者を排除し、我々の神聖なる儀式を汚そうとしている。ドミニオンは前グリーンレディとシルヴェナールの協力を得るために、彼らをケナーシズルーストに「招待」した。彼らの死は一人のアルトマーが原因だった。なぜそんなことが起きたのだろうか？ 彼らがドミニオンの息が掛かった人形達と入れ替えられてしまったからだ！\r\n\r\n新しいグリーンレディであるグワエリングはドミニオンに騙された。だがシルヴェナールの現在の「候補者」であるインデニールはドミニオンと協力関係にある、彼が街に現れれば、我々は破滅するだろう！\r\n\r\n証拠はいたるところにある。ヴェリン港でそうしたように、本当のシルヴェナールが道半ばでグリーンレディを見捨てるだろうか？ 自分の名を持つ街には駆けつけずに、ジャスソグルに寄り、ウッドオーク達と協定を結ぶだろうか？ グリーンレディがすでに到着して待っているのに、婚約の儀に来るのをためらうだろうか？ ありえない！\r\n\r\nドミニオンの偽りのシルヴェナールはマラバル・トールに身を潜めている。彼はこの街に入る方法を探しているのだ。だが見つからないだろう。インデニールに協力している裏切者や、偽りのシルヴェナールを見つけた者は、私の寵愛を勝ち取り、全ボズマーから報酬を得られるだろう。\r\n\r\n— ウルソーン"
+
+#: 51188213-0-1238
+msgctxt "51188213-0-1238"
+msgid "Reward for Information: Silvenar"
+msgstr "情報への報酬: シルヴェナール"
+
+#: 21337012-0-1237
+#, fuzzy
+msgctxt "21337012-0-1237"
+msgid "The wedding of Indaenir and Gwaering, the new Silvenar and Green Lady, is an important occasion for the Bosmer, and as such is important to the Aldmeri Dominion.\n\nWith the unrest currently rampant throughout Malabal Tor, it is important the Queen's representatives understand how to interact with the Bosmer.\n\nThe following information is based upon ""Bosmer Traditions and Manners,"" by the highly respected Altmer author Cirantille.\n\nAccording to their legends, the Bosmer were once wild and savage (not at all like they are now) and able to change shape at will. Wishing to become more civilized, they made a bargain with Y'ffre, giving up shapeshifting in exchange for (what they think is) a more civilized demeanor.\n\nThis Green Pact affected every aspect of their lives. They became very ritualistic and, while these rituals may seem odd to … differently civilized … peoples, they do keep the Wood Elves from becoming fully savage again.\n\nOne of their most important rituals is the Handfasting. It happens once a generation and is responsible for both anointing and marrying two of their three most important leaders (the third being the Camoran King or Queen of the Wood Elves).\n\nNo one but the Bosmer know how these two leaders are chosen, but they are, and the Handfast is the ritual that binds the Green Lady and the Silvenar together.\n\nThe Silvenar is the spiritual leader of the Bosmer, and a truly civilizing force on the entire race. Some say he is the embodiment of the Green Pact, others that he's simply a powerful mystic.\n\nWhen a Bosmer becomes the Silvenar, he or she gains a great understanding of the land they inhabit as well as its people.\n\nThe Green Lady, on the other hand, is a pure force of nature. She is the physicality of the Bosmer: a hunter, warrior, and nearly-unstoppable fist of her people.\n\nDo not confuse her passion for savagery, however! The Green Lady inherits the tactical poise of all those who've gone before her. The only thing that can turn her into a true beast is the death of her Silvenar … an occurrence some of us had the misfortune to witness on Khenarthi Island. It is a wonder anyone survived.\n\nTake the Handfast as seriously as the Bosmer do and you should be fine. Eat what is offered (don't ask what it is), but drink sparingly—their ritual drink ""rotmeth"" will sicken the most powerful non-Bosmer stomach if consumed with abandon.\n\nAvoid conflict when you can, but participating in a few non-lethal brawls during the celebration may not be avoidable. Indeed, it may be expected."
+msgstr "インデニールとグワエリング、つまり新たなシルヴェナールとグリーンレディの結婚は、ボズマーにとって重要な出来事であり、それはアルドメリ・ドミニオンにとっても同様である。\r\n\r\nマラバル・トール全土が不穏な空気に包まれている現在、女王の大使達がボズマーとの関係の築き方を理解しておくことは重要である。\r\n\r\n以下の情報は、名高いアルトマーの作者、シランティレの書いた「ボズマーの伝統と風習」を元に構成したものである。\r\n\r\n彼らの伝説によればボズマーは、かつては(今とは全く違い)野性的な上に獰猛で、思いのままに姿を変えることができたと言われている。さらなる文明化を望んだ彼らは、イフレと取引を行い、(彼らの考える)より洗練された理性を手に入れる代わりに変身する力を失ったとされている。\r\n\r\nこのグリーンパクトは彼らの生活のあらゆる面に影響を及ぼした。彼らは非常に儀式主義的になり、その儀式は… 他の文明を築いてきた… 人々にとっては風変わりに見えると思うが、これはウッドエルフが獰猛な性質を取り戻さないようにするために行っているのである。\r\n\r\n彼らの最も重要な儀式の一つが婚約の儀である。1世代に一度だけ執り行われ、重要な3人の指導者達のうちの2人が選定されて結婚する(3人目はウッドエルフのカモラン王か女王になる)。\r\n\r\nこの2人を選ぶ方法はボズマー以外に知られていないが、婚約の儀はグリーンレディとシルヴェナールを一つにするための儀式なのである。\r\n\r\nシルヴェナールはボズマーの精神的指導者であり、全ボズマーに多大な啓蒙的影響を与えている。彼のことをグリーンパクトが具現化された者だと言う者もいれば、単純に力強い神秘的存在であると考える者もいる。\r\n\r\nシルヴェナールになったボズマーは、自分達の住んでいる土地とその人々に関する深い知識を得る。\r\n\r\nその一方でグリーンレディは純粋な自然の力である。彼女はボズマーの肉体的特徴の象徴で、いわばボズマーの狩人であり、戦士であり、今にも暴走しそうな拳でもある。\r\n\r\nただし彼女が野蛮さを求めていると勘違いしてはならない！ グリーンレディは祖先達の戦術的な身のこなしを受け継いでいる。彼女を本当の獣に変えることができるのは、彼女のシルヴェナールの死だけである… 一部の不運な者はそれをケナーシ島で目撃した。生存者がいたとしたら、それは奇跡である。\r\n\r\n婚約の義については、ボズマーのように真剣に取り組めば問題ないと思われる。出された食事を(文句を言わずに)食べればいいが、酒は控えめにすべきである。彼らの儀式の飲み物である「ロトメス」を大量に飲めば、どんなに酒に強くてもボズマー以外は胃をやられてしまうだろう。\r\n\r\nできることなら衝突は避けるべきだが、式典の最中ちょっとした小競り合いは避けられないだろう。というよりも、そうなると考えておくべきである。"
+
+#: 51188213-0-1237
+msgctxt "51188213-0-1237"
+msgid "Diplomacy during the Handfasting"
+msgstr "婚約の儀の間の外交"
+
+#: 21337012-0-1223
+msgctxt "21337012-0-1223"
+msgid "Devoted Spirit Warden\n\nNeither father nor husband\nBut instead, a loyal servant of Azura\n\nRewarded in eternity."
+msgstr "献身的な霊魂の守人\r\n\r\n父でも夫でもない\r\nしかしその代わりに、アズラの忠実な僕\r\n\r\n永遠に報われる。"
+
+#: 51188213-0-1223
+msgctxt "51188213-0-1223"
+msgid "Here Lies Arah"
+msgstr "ここにアラー眠る"
+
+#: 21337012-0-1106
+msgctxt "21337012-0-1106"
+msgid "Greetings, Traveler,\n\nI post this warning in the hope that you will heed it. This ruin is overrun with a number of dangerous Daedra and their followers. Do not venture forth unless you are adequately armed and prepared.\n\nIf, however, you do choose to venture into this cave, keep your eyes open for anything of value. I will reward you for recovering any artifacts that I could not. Find me at the Daedric ruins near Narsis.\n\n— Aralyon the Scholar"
+msgstr "こんにちは、旅人よ。\r\n\r\n耳を傾けてくれることを願ってこの警告を貼っておく。この遺跡は大勢の危険なデイドラとその信者によって占領されている。十分な装備と準備がない場合は入らないように。\r\n\r\nただし、洞窟に入るのであれば、何か価値のあるものがないか見てきてほしい。私が手に入れられなかった秘宝を回収してきてくれたら報酬を出そう。ナルシスの近くのデイドラの遺跡で待っている。\r\n\r\n—学者アラリヨン"
+
+#: 51188213-0-1106
+msgctxt "51188213-0-1106"
+msgid "A Warning and an Offer"
+msgstr "警告と提案"
+
+#: 21337012-0-1099
+msgctxt "21337012-0-1099"
+msgid "Cull the Crocodiles in Hag Fen\n\nHelp make the fens safe for travel. Earn gold for killing the toothy beasts lurking in the shallow waters of Hag Fen. Gold for crocodile teeth!\n\nDeliver proof of your crocodile-killing prowess to Hoster Marceau, Huntmaster, who will be camped near the Dywnnarth Ruins until Fredas next.\n\nTeeth extracted from any other creatures are not accepted and proffering them may result in a sound beating.\n\nNote that the Huntmaster is not responsible for any limbs you may lose as you attempt to fulfill this offer."
+msgstr "ハグ沼のクロコダイルを排除しろ\r\n\r\n旅行者のために沼の安全を確保する手伝いをしてほしい。ハグ沼に潜むこの牙の獣を始末して金を手に入れろ。金はクロコダイルの牙と引き替えだ！\r\n\r\nクロコダイルを殺した証拠を次の金耀までに、ディウンナース遺跡の近くのキャンプにいるハントマスター、ホスター・マルソーに届けてくれ。\r\n\r\n他の動物の牙は受け付けていない。そんなことをすれば痛い目を見ることになるぞ。\r\n\r\nただし、この依頼のせいで手足を失うことになったとしても、ハントマスターは一切責任を負わないものとする。"
+
+#: 51188213-0-1099
+msgctxt "51188213-0-1099"
+msgid "Gold for Teeth!"
+msgstr "歯と金の交換！"
+
+#: 21337012-0-1082
+msgctxt "21337012-0-1082"
+msgid "Pay attention to what you are doing, idiots! The liquids we use to mix the skooma are flammable.\n\nDON'T BREAK THE BOTTLES. We could lose the whole laboratory if a fire starts.\n\n—Rakhad"
+msgstr "自分の行動に注意を払え、愚か者ども！ スクゥーマに混ぜるこの液体は燃えやすいんだ。\r\n\r\n絶対に瓶を割るな。火の手が上がれば、研究所そのものを失いかねない。\r\n\r\n—ラクハッド"
+
+#: 51188213-0-1082
+msgctxt "51188213-0-1082"
+msgid "Laboratory Warning: Be Careful!"
+msgstr "研究所の警告: 気をつけて！"
+
+#: 21337012-0-1060
+msgctxt "21337012-0-1060"
+msgid "Do you love to laugh? Have a talent for trickery? A passion for pranks?\n\nThen come to Baan Dar's Boast! Returning to the ruins at Thormar for the twenty-fifth consecutive year! Three Banners War got you down? Come and enjoy the flowing brews of the Wood Elves, the cunning quips of the Khajiit, and celebrate the will to survive here on the edge of Elsweyr!\n\nThis year, you can join with the funny faithful of the Pariah's Hand, the Khajiiti group in this year's Boast. By the Exile, do they know how to have a good time! Or, sign up with the other side and the woolly Wood Elves of the Subtle Knife! Definitely not a group of assassins during the off season!\n\nWhether you come to prank or just drink your days away—Baan Dar's Boast! Survival of the smartest on the savannahs of Reaper's March."
+msgstr "笑うのが大好き？ 騙すのが得意？ 悪戯に熱心？\r\n\r\nそれならバーン・ダルの〈大言〉へ！ ソルマーの遺跡へ戻るのは今回で25年連続！ 三旗戦役で気が沈んでる？ 流れるウッドエルフの酒やカジートの機知に富んだ言葉を楽しんで、このエルスウェアの端っこで生き残る意気込みを祝おう！\r\n\r\n今年は前年の優勝者、カジートのグループ「追放されし者の手」に加われる。バーン・ダルにかけて、彼らはとにかく楽しみ方を知っている！ もしくは反対にもじゃもじゃウッドエルフ、〈鋭利なる刃先〉の仲間入りをしてもよし！ なお、連中は暇なアサシンって訳じゃないぞ！\r\n\r\n悪戯に来るにしても、ただ酒で日々のことを忘れに来るにしても、バーン・ダルの〈大言〉！ リーパーズ・マーチのサバンナで生き残る、最も賢いものだ。"
+
+#: 51188213-0-1060
+msgctxt "51188213-0-1060"
+msgid "Baan Dar and His Boast"
+msgstr "バーン・ダルの〈大言〉"
+
+#: 21337012-0-1043
+msgctxt "21337012-0-1043"
+msgid "Heed well these words! All fear Agrakh, son of Mauloch and child of the Blade! May his rule be carved into the hearts of his clan, and his might spoken of only in whispers by his enemies.\n\nThough the tree-dwellers strike at us from their cowardly perches, they fall as leaves to his mighty tread! Let the horns sing of his conquests as all who follow him bask in the glory of Mauloch!"
+msgstr "この言葉を心に刻め！ モーロッチの息子であり刀剣の子、アグラカーを皆恐れるがいい！ 彼の支配はクランの心に刻み込まれ、彼の力は敵の囁きでしか語られることはないだろう。\r\n\r\n木の住人は臆病にも枝の上から攻撃するが、彼が力強く歩けば葉のように落ちる！ 征服の角笛を響き渡らせながら、彼に従う者達は皆、モーロッチの栄光に浸るのだ！"
+
+#: 51188213-0-1043
+msgctxt "51188213-0-1043"
+msgid "All Fear Agrakh"
+msgstr "アグラカーを恐れよ"
+
+#: 21337012-0-1031
+msgctxt "21337012-0-1031"
+msgid "—The Residents of Skald's Retreat—\nChallenge All and Sundry to a Poetic Verse Contest\n\nGrand Prize: 200 Gold\nFirst Prize: 100 Gold\nSecond Prize: 50 Gold\n\nEntry Fee: 10 Gold\nSpectator Fee: 1 Gold"
+msgstr "—スカルドの静養所の居住者へ—\r\n詩のコンテストに参加しよう\r\n\r\n特賞: 200ゴールド\r\n一等賞: 100ゴールド\r\n二等賞: 50ゴールド\r\n\r\n参加料: 10ゴールド\r\n観覧料: 1ゴールド"
+
+#: 51188213-0-1031
+msgctxt "51188213-0-1031"
+msgid "Poetic Verse Contest!"
+msgstr "韻文コンテスト！"
+
+#: 21337012-0-1030
+msgctxt "21337012-0-1030"
+msgid "The Riften Town Council has declared the town docks unsafe. Reports of fishermen vanishing from the docks have become common. Witnesses claim that victims have been dragged beneath the waves by unknown culprits.\n\nFrequent the docks at your peril!\n\n—The R.T.C."
+msgstr "リフテン市議会は、街の港が危険であると宣言した。漁師が港から失踪するという報告が珍しくなくなってきている。目撃者によると、被害者は不明な何者かによって波の下へと引きずり込まれたという。\r\n\r\n港の使用は自己責任で！\r\n\r\n—リフテン市議会"
+
+#: 51188213-0-1030
+msgctxt "51188213-0-1030"
+msgid "Warning—Docks Unsafe"
+msgstr "警告―港は危険"
+
+#: 21337012-0-1027
+msgctxt "21337012-0-1027"
+msgid "Visiting traders and merchants, please adhere to the rules of this caravan camp.\n\n— All merchants and their caravan crews are welcome to use the camp and its facilities.\n\n— Absolutely no buying, selling, fighting, dumping, or wild parties allowed within the confines of the camp.\n\n— The nearby ruins are dangerous and off limits to unauthorized visitors. Stay out of the ruins for your own safety.\n\n— Please leave the camp in the same condition as when you arrived. Clean up after your crew and leave nothing behind."
+msgstr "来場の商人の方々へ。当キャラバンキャンプの規則を厳守すること。\r\n\r\n— すべての商人とそのキャラバンの一団が当キャンプとその設備を使用できる。\r\n\r\n— 当キャンプの敷地内においては、購入、販売、争い、ゴミ捨て、派手な騒ぎを一切禁止する。\r\n\r\n— 近くの遺跡は危険であり、許可のない訪問者は立入を禁止する。自身の安全のためにも遺跡に近づかないこと。\r\n\r\n— キャンプを出る際は、到着時と同じ状態に戻すこと。仲間の後始末をし、何も残さないこと。"
+
+#: 51188213-0-1027
+msgctxt "51188213-0-1027"
+msgid "House Hlaalu Merchant Camp"
+msgstr "フラール家の商人キャンプ"
+
+#: 21337012-0-1026
+msgctxt "21337012-0-1026"
+msgid "— Shoring timbers should be at least a handspan in width and breadth.\n\n— Mine shafts should be shored every three paces.\n\n— Mine shafts should not be wider than three paces nor higher than two paces.\n\n— Mine chambers should not be excavated wider than five paces between rock pillars left for roof support.\n\n— No shouting or other loud noises.\n\n— No running or horseplay.\n\n— No racing in the mining carts."
+msgstr "— 支柱の木材の幅は、少なくとも手を開いた幅以上であること。\r\n\r\n— 鉱山のシャフトは3ペースごとに支柱を使うこと。\r\n\r\n— 鉱山のシャフトは幅3ペース以下、高さ2ペース以下にすること。\r\n\r\n— 鉱山の地下空間は、天井を支える岩柱の間が5ペース以上になるようには掘らないこと。\r\n\r\n— 叫び声など大きな音を立てないこと。\r\n\r\n— 走ったり馬鹿騒ぎをしないこと。\r\n\r\n— トロッコで競争しないこと。"
+
+#: 51188213-0-1026
+msgctxt "51188213-0-1026"
+msgid "Mine Safety Regulations"
+msgstr "鉱山の安全装置の規制"
+
+#: 21337012-0-1006
+msgctxt "21337012-0-1006"
+msgid "Do you have what it takes to join the most honored fighting company in Skyrim history?\n\n— The Companions are looking for a few good Nord warriors. We want only the bravest and the strongest!\n\n— If you think you have what it takes, report to Fallowstone Hall and ask for Vigrod Wraithbane.\n\n— The application process is dangerous! New recruits have been maimed and even killed. You've been warned!"
+msgstr "スカイリムの歴史上、最も誉れ高い戦闘集団に加入できる力を持っているか？\r\n\r\n— 同胞団では、ノルドの良い戦士を数名募集している。求めているのは抜きん出た勇気と力を持つ者だけだ！\r\n\r\n— ふさわしい能力を持っていると自負する者は、ファロウストーンの間でヴィグロッド・レイスベインに会うこと。\r\n\r\n— 加入者選出過程は危険である！ 手足を失い死亡した者もいる。覚悟しておくこと！"
+
+#: 51188213-0-1006
+msgctxt "51188213-0-1006"
+msgid "A Summons of Heroes!"
+msgstr "英雄よ、来たれ！"

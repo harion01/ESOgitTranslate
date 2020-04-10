@@ -1,0 +1,272 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-104079
+msgctxt "132143172-0-104079"
+msgid "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area over <<1>> before finally stunning them in place for <<2>> when the duration completes."
+msgstr ""
+
+#: 198758357-0-104079
+msgctxt "198758357-0-104079"
+msgid "Time Freeze"
+msgstr ""
+
+#: 132143172-0-104059
+msgctxt "132143172-0-104059"
+msgid "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for <<1>> when the channel completes.\n\nEnemies that are stunned gain <<2>> Heal Absorption for <<3>>, negating the next  <<2>> points of healing done."
+msgstr ""
+
+#: 198758357-0-104059
+msgctxt "198758357-0-104059"
+msgid "Borrowed Time"
+msgstr ""
+
+#: 132143172-0-103972
+msgctxt "132143172-0-103972"
+msgid "While you are casting or channeling a Psijic Order ability you gain Major Protection, reducing your damage taken by <<1>>."
+msgstr ""
+
+#: 198758357-0-103972
+msgctxt "198758357-0-103972"
+msgid "Deliberation"
+msgstr ""
+
+#: 132143172-0-103964
+msgctxt "132143172-0-103964"
+msgid "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs <<1>> damage. \n\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing."
+msgstr ""
+
+#: 198758357-0-103964
+msgctxt "198758357-0-103964"
+msgid "Concentrated Barrier"
+msgstr ""
+
+#: 132143172-0-103888
+msgctxt "132143172-0-103888"
+msgid "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs <<1>> damage. \n\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing."
+msgstr ""
+
+#: 198758357-0-103888
+msgctxt "198758357-0-103888"
+msgid "Concentrated Barrier"
+msgstr ""
+
+#: 132143172-0-103878
+msgctxt "132143172-0-103878"
+msgid "When you cast a Psijic Order ability while you are in combat, you generate a spell charge. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing <<1>> or <<2>>, whichever is higher.\n\nThe spell charges must be generated within <<3>> of each other or all charges will be lost."
+msgstr ""
+
+#: 198758357-0-103878
+msgctxt "198758357-0-103878"
+msgid "Spell Orb"
+msgstr ""
+
+#: 132143172-0-103819
+msgctxt "132143172-0-103819"
+msgid "When you cast a Psijic Order ability while you are in combat, you generate a spell charge. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing <<1>> or <<2>>, whichever is higher.\n\nThe spell charges must be generated within <<3>> of each other or all charges will be lost."
+msgstr ""
+
+#: 198758357-0-103819
+msgctxt "198758357-0-103819"
+msgid "Spell Orb"
+msgstr ""
+
+#: 132143172-0-103811
+msgctxt "132143172-0-103811"
+msgid "Reduces the cost of your Psijic Order abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-103811
+msgctxt "198758357-0-103811"
+msgid "Clairvoyance"
+msgstr ""
+
+#: 132143172-0-103809
+msgctxt "132143172-0-103809"
+msgid "Reduces the cost of your Psijic Order abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-103809
+msgctxt "198758357-0-103809"
+msgid "Clairvoyance"
+msgstr ""
+
+#: 132143172-0-103793
+msgctxt "132143172-0-103793"
+msgid "The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel."
+msgstr ""
+
+#: 198758357-0-103793
+msgctxt "198758357-0-103793"
+msgid "See the Unseen"
+msgstr ""
+
+#: 132143172-0-103755
+msgctxt "132143172-0-103755"
+msgid "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies.\n\nYour Light Attacks heal for <<1>>.\n\nYour Heavy Attacks heal for <<2>> every <<3>>, and restore <<4>> Magicka to you for successfully healing.\n\nYou heal yourself for <<5>> of the amount of healing done to the ally."
+msgstr ""
+
+#: 198758357-0-103755
+msgctxt "198758357-0-103755"
+msgid "Symbiosis"
+msgstr ""
+
+#: 132143172-0-103747
+msgctxt "132143172-0-103747"
+msgid "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that only can be used on allies.\n\nYour Light Attacks heal for <<1>>.\n\nYour Heavy Attacks heal for <<2>> every <<3>>, and restore <<4>> Magicka to you for successfully healing.\n\nAfter you heal an ally you grant them <<5>>, increasing their Physical and Spell Resistance by <<6>> for <<7>>."
+msgstr ""
+
+#: 198758357-0-103747
+msgctxt "198758357-0-103747"
+msgid "Mend Spirit"
+msgstr ""
+
+#: 132143172-0-103710
+msgctxt "132143172-0-103710"
+msgid "Bend time and space around you to gain Major Expedition for <<1>> and Minor Force for <<2>>, increasing your Movement Speed by <<3>> and Critical Damage by <<4>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<5>>."
+msgstr ""
+
+#: 198758357-0-103710
+msgctxt "198758357-0-103710"
+msgid "Race Against Time"
+msgstr ""
+
+#: 132143172-0-103706
+msgctxt "132143172-0-103706"
+msgid "Bend time and space around you to gain Major Expedition for <<1>> and Minor Force for <<2>>, increasing your Movement Speed by <<3>> and Critical Damage by <<4>>."
+msgstr ""
+
+#: 198758357-0-103706
+msgctxt "198758357-0-103706"
+msgid "Channeled Acceleration"
+msgstr ""
+
+#: 132143172-0-103665
+msgctxt "132143172-0-103665"
+msgid "Focus your body and mind into a meditative state, healing for <<1>> Health and restoring <<2>> Magicka and Stamina every <<3>>.\n\nMaintaining the channel increases the Health restored by <<4>> every tick, up to a maximum of |cffffff50|r%.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted."
+msgstr ""
+
+#: 198758357-0-103665
+msgctxt "198758357-0-103665"
+msgid "Introspection"
+msgstr ""
+
+#: 132143172-0-103652
+msgctxt "132143172-0-103652"
+msgid "Focus your body and mind into a meditative state, healing for <<1>> Health and restoring <<2>> Magicka and Stamina every <<3>>.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted."
+msgstr ""
+
+#: 198758357-0-103652
+msgctxt "198758357-0-103652"
+msgid "Deep Thoughts"
+msgstr ""
+
+#: 132143172-0-103623
+msgctxt "132143172-0-103623"
+msgid "Infuse your weapon with power, causing your next Light Attack used within <<1>> to deal an additional <<2>> and heal you for <<3>> of the damage done.\n\nIf the power is not consumed in time, you store <<4>> Stamina."
+msgstr ""
+
+#: 198758357-0-103623
+msgctxt "198758357-0-103623"
+msgid "Crushing Weapon"
+msgstr ""
+
+#: 132143172-0-103571
+msgctxt "132143172-0-103571"
+msgid "Infuse your weapon with power, causing your next Light Attack used within <<1>> to deal an additional <<2>> and apply the Burning, Concussion, or Chill elemental status effect.\n\nIf the power is not consumed in time, you restore <<3>> Magicka."
+msgstr ""
+
+#: 198758357-0-103571
+msgctxt "198758357-0-103571"
+msgid "Elemental Weapon"
+msgstr ""
+
+#: 132143172-0-103564
+msgctxt "132143172-0-103564"
+msgid "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\n\nWhile slotted you gain Minor Protection, reducing your damage taken by <<1>>."
+msgstr ""
+
+#: 198758357-0-103564
+msgctxt "198758357-0-103564"
+msgid "Temporal Guard"
+msgstr ""
+
+#: 132143172-0-103557
+msgctxt "132143172-0-103557"
+msgid "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\n\nYou can cast this ability while you are crowd controlled and it automatically grants you crowd control immunity."
+msgstr ""
+
+#: 198758357-0-103557
+msgctxt "198758357-0-103557"
+msgid "Precognition"
+msgstr ""
+
+#: 132143172-0-103543
+msgctxt "132143172-0-103543"
+msgid "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can only be used on allies.\n\nYour Light Attacks heal for <<1>>.\n\nYour Heavy Attacks heal for <<2>> every <<3>>, and restore <<4>> Magicka to you for successfully healing."
+msgstr ""
+
+#: 198758357-0-103543
+msgctxt "198758357-0-103543"
+msgid "Mend Wounds"
+msgstr ""
+
+#: 132143172-0-103503
+msgctxt "132143172-0-103503"
+msgid "Bend time and space around you to gain Major Expedition for <<1>> and Minor Force for <<2>>, increasing your Movement Speed by <<3>> and Critical Damage by <<4>>."
+msgstr ""
+
+#: 198758357-0-103503
+msgctxt "198758357-0-103503"
+msgid "Accelerate"
+msgstr ""
+
+#: 132143172-0-103492
+msgctxt "132143172-0-103492"
+msgid "Focus your body and mind into a meditative state, healing for <<1>> Health and restoring <<2>> Magicka and Stamina every <<3>>.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted."
+msgstr ""
+
+#: 198758357-0-103492
+msgctxt "198758357-0-103492"
+msgid "Meditate"
+msgstr ""
+
+#: 132143172-0-103488
+msgctxt "132143172-0-103488"
+msgid "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for <<1>> when the channel completes."
+msgstr ""
+
+#: 198758357-0-103488
+msgctxt "198758357-0-103488"
+msgid "Time Stop"
+msgstr ""
+
+#: 132143172-0-103483
+msgctxt "132143172-0-103483"
+msgid "Infuse your weapon with power, causing your next Light Attack used within <<1>> to deal an additional <<2>>.\n\nIf the power is not consumed in time, you restore <<3>> Stamina."
+msgstr ""
+
+#: 198758357-0-103483
+msgctxt "198758357-0-103483"
+msgid "Imbue Weapon"
+msgstr ""
+
+#: 132143172-0-103478
+msgctxt "132143172-0-103478"
+msgid "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago."
+msgstr ""
+
+#: 198758357-0-103478
+msgctxt "198758357-0-103478"
+msgid "Undo"
+msgstr ""
