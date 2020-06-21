@@ -11,15 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-46331
-msgctxt "132143172-0-46331"
-msgid "Conjure dark crystals to bombard an enemy, dealing <<1>> and stunning them for <<2>>. \n\nAlso damages enemies near the initial target for <<3>>."
-msgstr "다크 크리스탈을 생성해 적에게 던져, <<1>>를 입히고 <<2>> 동안 기절시킵니다.\n\n대상 근처의 적들에게도 <<3>>를 입힙니다."
+#: 132143172-0-27706
+msgctxt "132143172-0-27706"
+msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."
+msgstr "마법을 억제하는 구체를 생성하고, 적의 모든 효과를 즉시 무효화합니다. 구체의 범위 안에 있는 적들을 <<1>> 동안 기절시킵니다. 대상이 플레이어일 경우 기절시키는 대신 침묵시킵니다."
 
-#: 198758357-0-46331
-msgctxt "198758357-0-46331"
-msgid "Crystal Blast"
-msgstr "Crystal Blast"
+#: 198758357-0-27706
+msgctxt "198758357-0-27706"
+msgid "Negate Magic"
+msgstr "Negate Magic"
 
 #: 132143172-0-46324
 msgctxt "132143172-0-46324"
@@ -31,18 +31,87 @@ msgctxt "198758357-0-46324"
 msgid "Crystal Fragments"
 msgstr "Crystal Fragments"
 
-#: 132143172-0-45181
-msgctxt "132143172-0-45181"
-msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
-msgstr "Dark Magic 어빌리티를 시전하면 당신과 그룹에게 Minor Prophecy 효과를 가합니다. <<2>> 동안 마법 치명타가 <<1>> 증가합니다."
+#: 132143172-0-24574
+msgctxt "132143172-0-24574"
+msgid "Place a rune of protection on yourself for <<1>>. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for <<2>>.\n\nThis stun cannot be blocked."
+msgstr "방어의 룬을 <<1>> 동안 당신에게 사용합니다. 활성화되어 있는 동안, 다음에 당신을 공격하는 적은 암흑 마법의 구체에 갇혀, <<2>> 동안 기절합니다.\n\n이 기절은 막거나 회피할 수 없습니다."
 
-#: 198758357-0-45181
-msgctxt "198758357-0-45181"
-msgid "Exploitation"
-msgstr "Exploitation"
+#: 198758357-0-24574
+msgctxt "198758357-0-24574"
+msgid "Defensive Rune"
+msgstr "Defensive Rune"
+
+#: 132143172-0-24578
+msgctxt "132143172-0-24578"
+msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>. Deals <<2>> if the stun lasts the full duration.\n\nThis stun cannot be blocked."
+msgstr "암흑 마법의 구체 안에 적을 가둬, 잠시 후 <<1>> 동안 기절시킵니다. 기절이 최대 지속시간동안 남아있으면, <<2>>를 입힙니다.\n\n이 기절은 막거나 회피할 수 없습니다."
+
+#: 198758357-0-24578
+msgctxt "198758357-0-24578"
+msgid "Rune Cage"
+msgstr "Rune Cage"
+
+#: 132143172-0-24834
+msgctxt "132143172-0-24834"
+msgid "Surprise your foes by placing |cffffff5|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
+msgstr "|cffffff3|r초 후 활성화돼서 <<1>> 동안 지속되는 |cffffff5|r개의 불안정한 데이드릭 지뢰를 주변에 설치하여 적들을 기습합니다.\n\n지뢰가 폭발하면 <<2>>를 주고 <<3>> 동안 적을 이동 불가 상태로 만듭니다."
+
+#: 198758357-0-24834
+msgctxt "198758357-0-24834"
+msgid "Daedric Minefield"
+msgstr "Daedric Minefield"
+
+#: 132143172-0-43714
+msgctxt "132143172-0-43714"
+msgid "Conjure dark crystals to bombard an enemy, dealing <<1>>."
+msgstr "다크 크리스탈을 생성해 적에게 던져, <<1>>를 입힙니다."
+
+#: 198758357-0-43714
+msgctxt "198758357-0-43714"
+msgid "Crystal Shard"
+msgstr "Crystal Shard"
+
+#: 132143172-0-24371
+msgctxt "132143172-0-24371"
+msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>.\n\nThis stun cannot be blocked."
+msgstr "암흑 마법의 구체 안에 적을 가둬, 잠시 후 <<1>> 동안 기절시킵니다.\n\n이 기절은 막거나 회피할 수 없습니다."
+
+#: 198758357-0-24371
+msgctxt "198758357-0-24371"
+msgid "Rune Prison"
+msgstr "Rune Prison"
+
+#: 132143172-0-31378
+msgctxt "132143172-0-31378"
+msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
+msgstr "막은 후에 공격할 때, 사용하는 어빌리티의 매지카혹은 스태미나 소모량이 <<1>>만큼 감소합니다."
+
+#: 198758357-0-31378
+msgctxt "198758357-0-31378"
+msgid "Persistence"
+msgstr "Persistence"
+
+#: 132143172-0-24595
+msgctxt "132143172-0-24595"
+msgid "Bargain with darkness to restore <<1>> Health and <<2>> Stamina instantly, and an additional <<3>> Stamina over <<4>>."
+msgstr "어둠과 협상해 <<1>> 체력과 <<2>> 스태미나를 즉시 회복합니다. 추가로 <<4>>에 걸쳐 <<3>> 스태미나를 회복합니다."
+
+#: 198758357-0-24595
+msgctxt "198758357-0-24595"
+msgid "Dark Deal"
+msgstr "Dark Deal"
+
+#: 132143172-0-28311
+msgctxt "132143172-0-28311"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nGain Major Vitality, increasing your healing received by <<2>> for <<3>> plus |cFFFFFF1|r extra second per enemy in the area, up to a maximum of |cffffff6|r enemies."
+msgstr "대지에서 데이드릭 조각을 불러내어 전방의 적들을 <<1>> 동안 이동 불가 상태로 만듭니다.\n\n효과가 끝나면 <<3>> 동안 Major Vitality 를 얻어 <<2>>만큼 받는 치유량이 증가합니다. 범위에 있는 적 하나 당 |cFFFFFF1|r 초만큼 늘어나며 최대 |cffffff6|r개체까지 적용됩니다."
+
+#: 198758357-0-28311
+msgctxt "198758357-0-28311"
+msgid "Restraining Prison"
+msgstr "Restraining Prison"
 
 #: 132143172-0-45176
-#, fuzzy
 msgctxt "132143172-0-45176"
 msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
 msgstr "어빌리티의 매지카 및 스태미나 소모량이 <<1>> 감소합니다."
@@ -62,66 +131,15 @@ msgctxt "198758357-0-45172"
 msgid "Blood Magic"
 msgstr "Blood Magic"
 
-#: 132143172-0-45165
-msgctxt "132143172-0-45165"
-msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
-msgstr "막은 후에 공격할 때, 사용하는 어빌리티의 매지카혹은 스태미나 소모량이 <<1>>만큼 감소합니다."
+#: 132143172-0-24828
+msgctxt "132143172-0-24828"
+msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
+msgstr "|cffffff3|r초 후 활성화돼서 <<1>> 동안 지속되는 |cffffff3|r개의 불안정한 데이드릭 지뢰를 주변에 설치하여 적들을 기습합니다.\n\n지뢰가 폭발하면 <<2>>를 주고 <<3>> 동안 적을 이동 불가 상태로 만듭니다."
 
-#: 198758357-0-45165
-msgctxt "198758357-0-45165"
-msgid "Persistence"
-msgstr "Persistence"
-
-#: 132143172-0-43714
-msgctxt "132143172-0-43714"
-msgid "Conjure dark crystals to bombard an enemy, dealing <<1>>."
-msgstr "다크 크리스탈을 생성해 적에게 던져, <<1>>를 입힙니다."
-
-#: 198758357-0-43714
-msgctxt "198758357-0-43714"
-msgid "Crystal Shard"
-msgstr "Crystal Shard"
-
-#: 132143172-0-31389
-msgctxt "132143172-0-31389"
-msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
-msgstr "Dark Magic 어빌리티를 시전하면 당신과 그룹에게 Minor Prophecy 효과를 가합니다. <<2>> 동안 마법 치명타가 <<1>> 증가합니다."
-
-#: 198758357-0-31389
-msgctxt "198758357-0-31389"
-msgid "Exploitation"
-msgstr "Exploitation"
-
-#: 132143172-0-31386
-#, fuzzy
-msgctxt "132143172-0-31386"
-msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
-msgstr "어빌리티의 매지카 및 스태미나 소모량이 <<1>> 감소합니다."
-
-#: 198758357-0-31386
-msgctxt "198758357-0-31386"
-msgid "Unholy Knowledge"
-msgstr "Unholy Knowledge"
-
-#: 132143172-0-31383
-msgctxt "132143172-0-31383"
-msgid "When you hit an enemy with a directly applied Dark Magic ability, you heal for <<1>>.  \n\nThis effect scales off your Max Health and can occur once every <<2>>."
-msgstr "Dark Magic 어빌리티로 적을 공격하면 당신의 최대 체력의 <<1>>% 를 회복합니다. 이 효과는 매 <<2>>마다 한 번씩 적용됩니다."
-
-#: 198758357-0-31383
-msgctxt "198758357-0-31383"
-msgid "Blood Magic"
-msgstr "Blood Magic"
-
-#: 132143172-0-31378
-msgctxt "132143172-0-31378"
-msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
-msgstr "막은 후에 공격할 때, 사용하는 어빌리티의 매지카혹은 스태미나 소모량이 <<1>>만큼 감소합니다."
-
-#: 198758357-0-31378
-msgctxt "198758357-0-31378"
-msgid "Persistence"
-msgstr "Persistence"
+#: 198758357-0-24828
+msgctxt "198758357-0-24828"
+msgid "Daedric Mines"
+msgstr "Daedric Mines"
 
 #: 132143172-0-28348
 msgctxt "132143172-0-28348"
@@ -133,56 +151,6 @@ msgctxt "198758357-0-28348"
 msgid "Absorption Field"
 msgstr "Absorption Field"
 
-#: 132143172-0-28341
-msgctxt "132143172-0-28341"
-msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for <<2>> every <<3>>."
-msgstr "마법을 억제하는 구체를 생성하고, 적의 모든 효과를 즉시 무효화합니다. 구체의 범위 안에 있는 적들을 <<1>> 동안 기절시킵니다. 대상이 플레이어일 경우 기절시키는 대신 침묵시킵니다.\n\n구체가 <<3>>마다 적들에게 <<2>>를 줍니다."
-
-#: 198758357-0-28341
-msgctxt "198758357-0-28341"
-msgid "Suppression Field"
-msgstr "Suppression Field"
-
-#: 132143172-0-28311
-msgctxt "132143172-0-28311"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nGain Major Vitality, increasing your healing received by <<2>> for <<3>> plus |cFFFFFF1|r extra second per enemy in the area, up to a maximum of |cffffff6|r enemies."
-msgstr "대지에서 데이드릭 조각을 불러내어 전방의 적들을 <<1>> 동안 이동 불가 상태로 만듭니다.\n\n효과가 끝나면 <<3>> 동안 Major Vitality 를 얻어 <<2>>만큼 받는 치유량이 증가합니다. 범위에 있는 적 하나 당 |cFFFFFF1|r 초만큼 늘어나며 최대 |cffffff6|r개체까지 적용됩니다."
-
-#: 198758357-0-28311
-msgctxt "198758357-0-28311"
-msgid "Restraining Prison"
-msgstr "Restraining Prison"
-
-#: 132143172-0-28308
-msgctxt "132143172-0-28308"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nThe shards deal <<2>> when the effect ends."
-msgstr "대지에서 데이드릭 조각을 불러내어 전방의 적들을 <<1>> 동안 이동 불가 상태로 만듭니다.\n\n효과가 끝나면 조각이 <<2>>를 줍니다."
-
-#: 198758357-0-28308
-msgctxt "198758357-0-28308"
-msgid "Shattering Prison"
-msgstr "Shattering Prison"
-
-#: 132143172-0-28025
-msgctxt "132143172-0-28025"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>."
-msgstr "대지에서 데이드릭 조각을 불러내어 전방의 적들을 <<1>> 동안 이동 불가 상태로 만듭니다."
-
-#: 198758357-0-28025
-msgctxt "198758357-0-28025"
-msgid "Encase"
-msgstr "Encase"
-
-#: 132143172-0-27706
-msgctxt "132143172-0-27706"
-msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."
-msgstr "마법을 억제하는 구체를 생성하고, 적의 모든 효과를 즉시 무효화합니다. 구체의 범위 안에 있는 적들을 <<1>> 동안 기절시킵니다. 대상이 플레이어일 경우 기절시키는 대신 침묵시킵니다."
-
-#: 198758357-0-27706
-msgctxt "198758357-0-27706"
-msgid "Negate Magic"
-msgstr "Negate Magic"
-
 #: 132143172-0-24842
 msgctxt "132143172-0-24842"
 msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines at a target location, which arm instantly and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
@@ -192,36 +160,6 @@ msgstr "즉시 활성화돼서 <<1>> 동안 지속되는 |cffffff3|r개의 불�
 msgctxt "198758357-0-24842"
 msgid "Daedric Tomb"
 msgstr "Daedric Tomb"
-
-#: 132143172-0-24834
-msgctxt "132143172-0-24834"
-msgid "Surprise your foes by placing |cffffff5|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
-msgstr "|cffffff3|r초 후 활성화돼서 <<1>> 동안 지속되는 |cffffff5|r개의 불안정한 데이드릭 지뢰를 주변에 설치하여 적들을 기습합니다.\n\n지뢰가 폭발하면 <<2>>를 주고 <<3>> 동안 적을 이동 불가 상태로 만듭니다."
-
-#: 198758357-0-24834
-msgctxt "198758357-0-24834"
-msgid "Daedric Minefield"
-msgstr "Daedric Minefield"
-
-#: 132143172-0-24828
-msgctxt "132143172-0-24828"
-msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
-msgstr "|cffffff3|r초 후 활성화돼서 <<1>> 동안 지속되는 |cffffff3|r개의 불안정한 데이드릭 지뢰를 주변에 설치하여 적들을 기습합니다.\n\n지뢰가 폭발하면 <<2>>를 주고 <<3>> 동안 적을 이동 불가 상태로 만듭니다."
-
-#: 198758357-0-24828
-msgctxt "198758357-0-24828"
-msgid "Daedric Mines"
-msgstr "Daedric Mines"
-
-#: 132143172-0-24595
-msgctxt "132143172-0-24595"
-msgid "Bargain with darkness to restore <<1>> Health and <<2>> Stamina instantly, and an additional <<3>> Stamina over <<4>>."
-msgstr "어둠과 협상해 <<1>> 체력과 <<2>> 스태미나를 즉시 회복합니다. 추가로 <<4>>에 걸쳐 <<3>> 스태미나를 회복합니다."
-
-#: 198758357-0-24595
-msgctxt "198758357-0-24595"
-msgid "Dark Deal"
-msgstr "Dark Deal"
 
 #: 132143172-0-24589
 msgctxt "132143172-0-24589"
@@ -233,6 +171,56 @@ msgctxt "198758357-0-24589"
 msgid "Dark Conversion"
 msgstr "Dark Conversion"
 
+#: 132143172-0-28308
+msgctxt "132143172-0-28308"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nThe shards deal <<2>> when the effect ends."
+msgstr "대지에서 데이드릭 조각을 불러내어 전방의 적들을 <<1>> 동안 이동 불가 상태로 만듭니다.\n\n효과가 끝나면 조각이 <<2>>를 줍니다."
+
+#: 198758357-0-28308
+msgctxt "198758357-0-28308"
+msgid "Shattering Prison"
+msgstr "Shattering Prison"
+
+#: 132143172-0-28341
+msgctxt "132143172-0-28341"
+msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for <<2>> every <<3>>."
+msgstr "마법을 억제하는 구체를 생성하고, 적의 모든 효과를 즉시 무효화합니다. 구체의 범위 안에 있는 적들을 <<1>> 동안 기절시킵니다. 대상이 플레이어일 경우 기절시키는 대신 침묵시킵니다.\n\n구체가 <<3>>마다 적들에게 <<2>>를 줍니다."
+
+#: 198758357-0-28341
+msgctxt "198758357-0-28341"
+msgid "Suppression Field"
+msgstr "Suppression Field"
+
+#: 132143172-0-31389
+msgctxt "132143172-0-31389"
+msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+msgstr "Dark Magic 어빌리티를 시전하면 당신과 그룹에게 Minor Prophecy 효과를 가합니다. <<2>> 동안 마법 치명타가 <<1>> 증가합니다."
+
+#: 198758357-0-31389
+msgctxt "198758357-0-31389"
+msgid "Exploitation"
+msgstr "Exploitation"
+
+#: 132143172-0-31383
+msgctxt "132143172-0-31383"
+msgid "When you hit an enemy with a directly applied Dark Magic ability, you heal for <<1>>.  \n\nThis effect scales off your Max Health and can occur once every <<2>>."
+msgstr "Dark Magic 어빌리티로 적을 공격하면 당신의 최대 체력의 <<1>>% 를 회복합니다. 이 효과는 매 <<2>>마다 한 번씩 적용됩니다."
+
+#: 198758357-0-31383
+msgctxt "198758357-0-31383"
+msgid "Blood Magic"
+msgstr "Blood Magic"
+
+#: 132143172-0-31386
+msgctxt "132143172-0-31386"
+msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
+msgstr "어빌리티의 매지카 및 스태미나 소모량이 <<1>> 감소합니다."
+
+#: 198758357-0-31386
+msgctxt "198758357-0-31386"
+msgid "Unholy Knowledge"
+msgstr "Unholy Knowledge"
+
 #: 132143172-0-24584
 msgctxt "132143172-0-24584"
 msgid "Bargain with darkness to restore <<1>> Health and <<2>> Magicka instantly, and an additional <<3>> Magicka over <<4>>."
@@ -243,32 +231,42 @@ msgctxt "198758357-0-24584"
 msgid "Dark Exchange"
 msgstr "Dark Exchange"
 
-#: 132143172-0-24578
-msgctxt "132143172-0-24578"
-msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>. Deals <<2>> if the stun lasts the full duration.\n\nThis stun cannot be blocked."
-msgstr "암흑 마법의 구체 안에 적을 가둬, 잠시 후 <<1>> 동안 기절시킵니다. 기절이 최대 지속시간동안 남아있으면, <<2>>를 입힙니다.\n\n이 기절은 막거나 회피할 수 없습니다."
+#: 132143172-0-28025
+msgctxt "132143172-0-28025"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>."
+msgstr "대지에서 데이드릭 조각을 불러내어 전방의 적들을 <<1>> 동안 이동 불가 상태로 만듭니다."
 
-#: 198758357-0-24578
-msgctxt "198758357-0-24578"
-msgid "Rune Cage"
-msgstr "Rune Cage"
+#: 198758357-0-28025
+msgctxt "198758357-0-28025"
+msgid "Encase"
+msgstr "Encase"
 
-#: 132143172-0-24574
-msgctxt "132143172-0-24574"
-msgid "Place a rune of protection on yourself for <<1>>. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for <<2>>.\n\nThis stun cannot be blocked."
-msgstr "방어의 룬을 <<1>> 동안 당신에게 사용합니다. 활성화되어 있는 동안, 다음에 당신을 공격하는 적은 암흑 마법의 구체에 갇혀, <<2>> 동안 기절합니다.\n\n이 기절은 막거나 회피할 수 없습니다."
+#: 132143172-0-46331
+msgctxt "132143172-0-46331"
+msgid "Conjure dark crystals to bombard an enemy, dealing <<1>> and stunning them for <<2>>. \n\nAlso damages enemies near the initial target for <<3>>."
+msgstr "다크 크리스탈을 생성해 적에게 던져, <<1>>를 입히고 <<2>> 동안 기절시킵니다.\n\n대상 근처의 적들에게도 <<3>>를 입힙니다."
 
-#: 198758357-0-24574
-msgctxt "198758357-0-24574"
-msgid "Defensive Rune"
-msgstr "Defensive Rune"
+#: 198758357-0-46331
+msgctxt "198758357-0-46331"
+msgid "Crystal Blast"
+msgstr "Crystal Blast"
 
-#: 132143172-0-24371
-msgctxt "132143172-0-24371"
-msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>.\n\nThis stun cannot be blocked."
-msgstr "암흑 마법의 구체 안에 적을 가둬, 잠시 후 <<1>> 동안 기절시킵니다.\n\n이 기절은 막거나 회피할 수 없습니다."
+#: 132143172-0-45165
+msgctxt "132143172-0-45165"
+msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
+msgstr "막은 후에 공격할 때, 사용하는 어빌리티의 매지카혹은 스태미나 소모량이 <<1>>만큼 감소합니다."
 
-#: 198758357-0-24371
-msgctxt "198758357-0-24371"
-msgid "Rune Prison"
-msgstr "Rune Prison"
+#: 198758357-0-45165
+msgctxt "198758357-0-45165"
+msgid "Persistence"
+msgstr "Persistence"
+
+#: 132143172-0-45181
+msgctxt "132143172-0-45181"
+msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+msgstr "Dark Magic 어빌리티를 시전하면 당신과 그룹에게 Minor Prophecy 효과를 가합니다. <<2>> 동안 마법 치명타가 <<1>> 증가합니다."
+
+#: 198758357-0-45181
+msgctxt "198758357-0-45181"
+msgid "Exploitation"
+msgstr "Exploitation"

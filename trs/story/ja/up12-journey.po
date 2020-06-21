@@ -11,75 +11,40 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 52420949-0-5879
-msgctxt "52420949-0-5879"
-msgid "The New Life Festival"
-msgstr "ニュー・ライフ・フェスティバル"
-
-#: 265851556-0-5879
-msgctxt "265851556-0-5879"
-msgid "<<1>>, a New Life Herald in Eastmarch, spoke of the New Life Festival celebrated across Tamriel."
-msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、タムリエル中で祝われたニュー・ライフ・フェスティバルについて話した"
-
-#: 265851556-0-5852
-msgctxt "265851556-0-5852"
-msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Grahtwood."
-msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、グラーウッドの<<2>>で行われるニュー・ライフ・フェスティバルについて話した"
+#: 265851556-0-5839
+msgctxt "265851556-0-5839"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Alik'r Desert."
+msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、アリクル砂漠の<<2>>で行われるニュー・ライフ・フェスティバルについて話した"
 
 #: 265851556-0-5845
 msgctxt "265851556-0-5845"
 msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Stormhaven."
 msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、ストームヘヴンの<<2>>で行われるニュー・ライフ・フェスティバルについて話した"
 
-#: 265851556-0-5839
-msgctxt "265851556-0-5839"
-msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Alik'r Desert."
-msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、アリクル砂漠の<<2>>で行われるニュー・ライフ・フェスティバルについて話した"
-
 #: 265851556-0-5834
 msgctxt "265851556-0-5834"
 msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Reaper's March."
 msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、リーパーズ・マーチの<<2>>で行われるニュー・ライフ・フェスティバルについて話した"
+
+#: 265851556-0-5787
+msgctxt "265851556-0-5787"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Bangkorai."
+msgstr "戦士ギルドの<<1>>の元に、バンコライで虫の教団が活動しているとの情報が入った"
+
+#: 265851556-0-5852
+msgctxt "265851556-0-5852"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Grahtwood."
+msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、グラーウッドの<<2>>で行われるニュー・ライフ・フェスティバルについて話した"
 
 #: 265851556-0-5797
 msgctxt "265851556-0-5797"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Reaper's March."
 msgstr "戦士ギルドの<<1>>の元に、リーパーズ・マーチで虫の教団が活動しているとの情報が入った"
 
-#: 265851556-0-5796
-msgctxt "265851556-0-5796"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Greenshade."
-msgstr "戦士ギルドの<<1>>の元に、グリーンシェイドで虫の教団が活動しているとの情報が入った"
-
-#: 265851556-0-5795
-msgctxt "265851556-0-5795"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Malabal Tor."
-msgstr "戦士ギルドの<<1>>の元に、マラバル・トールで虫の教団が活動しているとの情報が入った"
-
-#: 265851556-0-5794
-msgctxt "265851556-0-5794"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Grahtwood."
-msgstr "戦士ギルドの<<1>>の元に、グラーウッドで虫の教団が活動しているとの情報が入った"
-
-#: 265851556-0-5793
-msgctxt "265851556-0-5793"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Auridon."
-msgstr "戦士ギルドの<<1>>の元に、オーリドンで虫の教団が活動しているとの情報が入った"
-
-#: 265851556-0-5792
-msgctxt "265851556-0-5792"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in the Rift."
-msgstr "戦士ギルドの<<1>>の元に、リフトで虫の教団が活動しているとの情報が入った"
-
-#: 265851556-0-5791
-msgctxt "265851556-0-5791"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Eastmarch."
-msgstr "戦士ギルドの<<1>>の元に、イーストマーチで虫の教団が活動しているとの情報が入った"
-
-#: 265851556-0-5790
-msgctxt "265851556-0-5790"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Shadowfen."
-msgstr "戦士ギルドの<<1>>の元に、シャドウフェンで虫の教団が活動しているとの情報が入った"
+#: 265851556-0-5786
+msgctxt "265851556-0-5786"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Alik'r Desert."
+msgstr "戦士ギルドの<<1>>の元に、アリクル砂漠で虫の教団が活動しているとの情報が入った"
 
 #: 265851556-0-5789
 msgctxt "265851556-0-5789"
@@ -91,22 +56,57 @@ msgctxt "265851556-0-5788"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Stonefalls."
 msgstr "戦士ギルドの<<1>>の元に、ストンフォールで虫の教団が活動しているとの情報が入った"
 
-#: 265851556-0-5787
-msgctxt "265851556-0-5787"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Bangkorai."
-msgstr "戦士ギルドの<<1>>の元に、バンコライで虫の教団が活動しているとの情報が入った"
+#: 265851556-0-5794
+msgctxt "265851556-0-5794"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Grahtwood."
+msgstr "戦士ギルドの<<1>>の元に、グラーウッドで虫の教団が活動しているとの情報が入った"
 
-#: 265851556-0-5786
-msgctxt "265851556-0-5786"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Alik'r Desert."
-msgstr "戦士ギルドの<<1>>の元に、アリクル砂漠で虫の教団が活動しているとの情報が入った"
+#: 265851556-0-5793
+msgctxt "265851556-0-5793"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Auridon."
+msgstr "戦士ギルドの<<1>>の元に、オーリドンで虫の教団が活動しているとの情報が入った"
+
+#: 265851556-0-5796
+msgctxt "265851556-0-5796"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Greenshade."
+msgstr "戦士ギルドの<<1>>の元に、グリーンシェイドで虫の教団が活動しているとの情報が入った"
 
 #: 265851556-0-5785
 msgctxt "265851556-0-5785"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Rivenspire."
 msgstr "戦士ギルドの<<1>>の元に、リベンスパイアーで虫の教団が活動しているとの情報が入った"
 
+#: 265851556-0-5795
+msgctxt "265851556-0-5795"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Malabal Tor."
+msgstr "戦士ギルドの<<1>>の元に、マラバル・トールで虫の教団が活動しているとの情報が入った"
+
 #: 265851556-0-5784
 msgctxt "265851556-0-5784"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Stormhaven."
 msgstr "戦士ギルドの<<1>>の元に、ストームヘヴンで虫の教団が活動しているとの情報が入った"
+
+#: 265851556-0-5790
+msgctxt "265851556-0-5790"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Shadowfen."
+msgstr "戦士ギルドの<<1>>の元に、シャドウフェンで虫の教団が活動しているとの情報が入った"
+
+#: 265851556-0-5792
+msgctxt "265851556-0-5792"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in the Rift."
+msgstr "戦士ギルドの<<1>>の元に、リフトで虫の教団が活動しているとの情報が入った"
+
+#: 265851556-0-5791
+msgctxt "265851556-0-5791"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Eastmarch."
+msgstr "戦士ギルドの<<1>>の元に、イーストマーチで虫の教団が活動しているとの情報が入った"
+
+#: 52420949-0-5879
+msgctxt "52420949-0-5879"
+msgid "The New Life Festival"
+msgstr "ニュー・ライフ・フェスティバル"
+
+#: 265851556-0-5879
+msgctxt "265851556-0-5879"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of the New Life Festival celebrated across Tamriel."
+msgstr "イーストマーチにいるニュー・ライフの使者である<<1>>が、タムリエル中で祝われたニュー・ライフ・フェスティバルについて話した"

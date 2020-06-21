@@ -11,560 +11,25 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 103224356-0-50598
-msgctxt "103224356-0-50598"
-msgid "I gave Chef Donolon the ingredients he requested. Now I just need to wait for him to complete my Jubilee Cake."
-msgstr "シェフ・ドノロンに要求された材料を渡した。後は彼が記念ケーキを作り終えるまで待つだけだ"
+#: 103224356-0-48751
+msgctxt "103224356-0-48751"
+msgid "We were able to collect the parts Tharayya requested. We should deliver them to her and check on her progress with the repairs."
+msgstr "サライヤに依頼されたパーツを集めた。彼女に渡して修復の進捗を確認する"
 
-#: 103224356-0-50597
-msgctxt "103224356-0-50597"
-msgid "I can collect my cake by finding the baker and his bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
-msgstr "バルケルガードの港、ダボンズ・ウォッチ、ダガーフォールの港湾地区でパン職人とベーカリーバッジを見つければ、ケーキを手に入れられる"
-
-#: 103224356-0-50595
-msgctxt "103224356-0-50595"
-msgid "Many ingredients can be purchased from local vendors."
-msgstr "多くの材料は地元の店で購入できる"
-
-#: 103224356-0-50594
-msgctxt "103224356-0-50594"
-msgid "It looks like Chef Donolon has completed my cake. I should talk to him so I can claim it."
-msgstr "シェフ・ドノロンはケーキを作り終えたようだ。話しかけて手に入れる"
-
-#: 103224356-0-50593
-msgctxt "103224356-0-50593"
-msgid "Chef Donolon will make me a special Jubilee Cake, but I need to bring him the ingredients he needs to prepare a fresh one. I need to gather or buy bananas, flour, and honey and bring them back to the chef."
-msgstr "シェフ・ドノロンは記念ケーキを作ってくれるが、新鮮なケーキを作るためには材料を持ち込まなければならない。バナナ、小麦粉、ハチミツを集めるか購入して、シェフの元へ戻る"
-
-#: 103224356-0-50412
-msgctxt "103224356-0-50412"
-msgid "I've agreed to become Felande's newest tenant. I should speak to her to finalize the deal."
-msgstr "新しくフェランデの店子になることに同意した。彼女と話して契約をまとめる"
-
-#: 103224356-0-50411
-msgctxt "103224356-0-50411"
-msgid "Felande has offered me a free inn room at the Sugar House in Rimmen. I should speak to her to learn more about the offer."
-msgstr "フェランデがリンメンの<シュガーハウス>で無料の部屋提供を申し出た。彼女と話して、申し出の詳細を聞く"
-
-#: 103224356-0-50410
-msgctxt "103224356-0-50410"
-msgid "I should travel to Rimmen in Northern Elsweyr and speak to Felande about the inn room located within the Sugar House."
-msgstr "北エルスウェアのリンメンに移動して、フェランデと〈シュガーハウス〉の部屋のことを話す"
-
-#: 103224356-0-50389
-msgctxt "103224356-0-50389"
-msgid "I destroyed the guardian of Garlas Malatar and found a path out of the Ayleid ruins. I should speak to <<1>> outside <<2>>."
-msgstr "ガーラス・マラタールのガーディアンを破壊して、アイレイドの遺跡の脱出路を見つけた。<<1>>と<<2>>の外で話す"
-
-#: 103224356-0-50388
-msgctxt "103224356-0-50388"
-msgid "I defeated the Stonekeeper construct and disabled the remaining traps. Nothing stands between the Wrathstone and us now. I should speak to <<1>> about what we have found."
-msgstr "コンストラクト「石の番人」を倒して残りの罠を解除した。これで憤怒の石への障害は消えた。分かったことを<<1>>に伝える"
-
-#: 103224356-0-50245
-msgctxt "103224356-0-50245"
-msgid "I found a scroll with techniques for fighting Dragons. I should return the scroll to Zahari so she can forward such techniques to the Northern Elsweyr Defense Force."
-msgstr "ドラゴンと戦う技術が記された巻物を見つけた。ザハリがその技術を北エルスウェア防衛軍に伝えられるよう、巻物を彼女に渡す"
-
-#: 103224356-0-50244
-msgctxt "103224356-0-50244"
-msgid "Zahari asked me to travel to Shroud Hearth Barrow, a Nord burial site in the Rift, and look for a scroll with information on fighting Dragons in its depths."
-msgstr "リフトにあるノルドの墓地、隠匿の炉床へ向かい、ドラゴンとの戦い方が記された巻物を奥地で探すようザハリから頼まれた"
-
-#: 103224356-0-50243
-msgctxt "103224356-0-50243"
-msgid "I found a scroll with techniques for fighting Dragons. I should return the scroll to Zahari so she can forward such techniques to the Northern Elsweyr Defense Force."
-msgstr "ドラゴンと戦う技術が記された巻物を見つけた。ザハリがその技術を北エルスウェア防衛軍に伝えられるよう、巻物を彼女に渡す"
-
-#: 103224356-0-50242
-msgctxt "103224356-0-50242"
-msgid "Zahari asked me to travel to Icehammer Vault, a Nord burial site in Eastmarch, and look for a scroll with information on fighting Dragons in its depths."
-msgstr "イーストマーチにあるノルドの墓地、アイスハンマーの貯蔵所へ向かい、ドラゴンとの戦い方が記された巻物を奥で探すようザハリから頼まれた"
-
-#: 103224356-0-50241
-msgctxt "103224356-0-50241"
-msgid "I found a scroll with techniques for fighting Dragons. I should return the scroll to Zahari so she can forward such techniques to the Northern Elsweyr Defense Force."
-msgstr "ドラゴンと戦う技術が記された巻物を見つけた。ザハリがその技術を北エルスウェア防衛軍に伝えられるよう、巻物を彼女に渡す"
-
-#: 103224356-0-50240
-msgctxt "103224356-0-50240"
-msgid "Zahari asked me to travel to Stormcrag Crypt, a Nord burial site in Eastmarch, and look for a scroll with information on fighting Dragons in its depths."
-msgstr "イーストマーチにあるノルドの墓地、ストームクラグ墓地へ向かい、ドラゴンとの戦い方が記された巻物を奥地で探すようザハリから頼まれた"
-
-#: 103224356-0-50235
-msgctxt "103224356-0-50235"
-msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
-msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
-
-#: 103224356-0-50234
-msgctxt "103224356-0-50234"
-msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat lamia. I should return to Zahari and see what else she needs."
-msgstr "北エルスウェア防衛軍の新兵にラミアの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
-
-#: 103224356-0-50232
-msgctxt "103224356-0-50232"
-msgid "I must travel to Loriasel in Shadowfen in order to help train Northern Elsweyr Defense Force recruits to defeat lamia."
-msgstr "北エルスウェア防衛軍の新兵がラミアを倒せるよう、訓練を手伝うためにシャドウフェンのロリアセルへ向かう"
-
-#: 103224356-0-50230
-msgctxt "103224356-0-50230"
-msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
-msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
-
-#: 103224356-0-50229
-msgctxt "103224356-0-50229"
-msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat lurchers. I should return to Zahari and see what else she needs."
-msgstr "北エルスウェア防衛軍の新兵にラーチャーの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
-
-#: 103224356-0-50227
-msgctxt "103224356-0-50227"
-msgid "I must travel to Rootwater Grove in Greenshade in order to help train Northern Elsweyr Defense Force recruits to defeat lurchers."
-msgstr "北エルスウェア防衛軍の新兵がラーチャーを倒せるよう、訓練を手伝うためにグリーンシェイドのルートウォーターの森へ向かう"
-
-#: 103224356-0-50224
-msgctxt "103224356-0-50224"
-msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
-msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
-
-#: 103224356-0-50223
-msgctxt "103224356-0-50223"
-msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat goblins. I should return to Zahari and see what else she needs."
-msgstr "北エルスウェア防衛軍の新兵にゴブリンの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
-
-#: 103224356-0-50221
-msgctxt "103224356-0-50221"
-msgid "I must travel to the Stonechewer Goblin Camp in Stormhaven in order to help train Northern Elsweyr Defense Force recruits to defeat goblins."
-msgstr "北エルスウェア防衛軍の新兵がゴブリンを倒せるよう、訓練を手伝うためにストームヘヴンの石喰いゴブリンの野営地へ向かう"
-
-#: 103224356-0-50219
-msgctxt "103224356-0-50219"
-msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
-msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
-
-#: 103224356-0-50217
-msgctxt "103224356-0-50217"
-msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat skeletons. I should return to Zahari and see what else she needs."
-msgstr "北エルスウェア防衛軍の新兵にスケルトンの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
-
-#: 103224356-0-50216
-msgctxt "103224356-0-50216"
-msgid "I must travel to Cath Bedraud in Glenumbra in order to help train Northern Elsweyr Defense Force recruits to defeat skeletons."
-msgstr "北エルスウェア防衛軍の新兵がスケルトンを倒せるよう、訓練を手伝うためにグレナンブラのキャス・ベドロードへ向かう"
-
-#: 103224356-0-49899
-msgctxt "103224356-0-49899"
-msgid "Dagaril-dro accepted the gift of the dusk mushrooms and told me where to find the moon-singer storytellers. I can find them at the Redfur Trading Post, the Baandari Trading Post, and in Rawl'kha. I should let Abnur Tharn know what I learned."
-msgstr "ダガリル・ドロは黄昏キノコの贈り物を受け取り、月の歌い手の語り部の居場所を教えてくれた。語り部はレッドファー交易所、バーンダリ交易所、ラウル・ハで見つかる。アブナー・サルンに判明したことを伝える"
-
-#: 103224356-0-49894
-msgctxt "103224356-0-49894"
-msgid "Now that I have the dusk mushrooms, I should travel to Dagaril-dro's camp on the coast of Stonefalls and offer them as a gift."
-msgstr "黄昏キノコを入手した。ストンフォール沿岸にあるダガリル・ドロの野営地へ向かい、贈り物をする"
-
-#: 103224356-0-49893
-msgctxt "103224356-0-49893"
-msgid "Now that I have the dusk mushrooms, I should travel to Dagaril-dro's camp on the Glenumbra coast and offer them as a gift."
-msgstr "黄昏キノコを入手した。グレナンブラ沿岸にあるダガリル・ドロの野営地へ向かい、贈り物をする"
-
-#: 103224356-0-49891
-msgctxt "103224356-0-49891"
-msgid "A Khajiiti loremaster can direct us to the moon-singer storytellers who can recite the secret tales of Khunzar-ri. To secure his help, however, I need to gather dusk mushrooms from a mine in Stonefalls, Hightide Hollow, to offer as a gift."
-msgstr "クンザ・リの秘話を暗唱できる月の歌い手の語り部の居場所は、カジートのロアマスターが知っている。しかし協力を得るには、ストンフォールの鉱山、ハイタイド洞穴で黄昏キノコを集めて贈らなければならない"
-
-#: 103224356-0-49890
-msgctxt "103224356-0-49890"
-msgid "A Khajiiti loremaster can direct us to the moon-singer storytellers who can recite the secret tales of Khunzar-ri. To secure his help, however, I need to gather dusk mushrooms from the Ayleid ruin in Glenumbra, Enduum, to offer as a gift."
-msgstr "クンザ・リの秘話を暗唱できる月の歌い手の語り部の居場所は、カジートのロアマスターが知っている。しかし協力を得るには、グレナンブラにあるアイレイドの遺跡、エンデュウムで黄昏キノコを集めて贈らなければならない"
-
-#: 103224356-0-49889
-msgctxt "103224356-0-49889"
-msgid "Now that I have the dusk mushrooms, I should travel to Dagaril-dro's camp on Auridon's coast and offer them as a gift."
-msgstr "黄昏キノコを入手した。オーリドン沿岸にあるダガリル・ドロの野営地へ向かい、贈り物をする"
-
-#: 103224356-0-49888
-msgctxt "103224356-0-49888"
-msgid "A Khajiiti loremaster can direct us to the moon-singer storytellers who can recite the secret tales of Khunzar-ri. To secure his help, however, I need to gather dusk mushrooms from the ruin in Auridon, Bewan, to offer as a gift."
-msgstr "クンザ・リの秘話を暗唱できる月の歌い手の語り部の居場所は、カジートのロアマスターが知っている。しかし協力を得るには、オーリドンの遺跡、ベワンで黄昏キノコを集めて贈らなければならない"
-
-#: 103224356-0-49878
-msgctxt "103224356-0-49878"
-msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
-msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
-
-#: 103224356-0-49862
-msgctxt "103224356-0-49862"
-msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat spiders. I should return to Zahari and see what else she needs."
-msgstr "北エルスウェア防衛軍の新兵に蜘蛛の倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
-
-#: 103224356-0-49851
-msgctxt "103224356-0-49851"
-msgid "I must travel to Kulati Mines in Alik'r in order to help train Northern Elsweyr Defense Force recruits to defeat spiders."
-msgstr "北エルスウェア防衛軍の新兵が蜘蛛を倒せるよう、訓練を手伝うためにアリクルのクラティ鉱山へ向かう"
-
-#: 103224356-0-49717
-msgctxt "103224356-0-49717"
-msgid "I filled all the soul gems Zahari gave me with Daedric souls. I should return to her camp and deliver the filled soul gems."
-msgstr "ザハリからもらったすべての魂石にデイドラの魂を込めた。彼女の野営地に戻り、満たした魂石を渡す"
-
-#: 103224356-0-49716
-msgctxt "103224356-0-49716"
-msgid "I can kill Daedra anywhere, but concentrations exist at the Brothers of Strife in Stonefalls, Torinaan in Auridon, and the Moonlit Maw in Stormhaven."
-msgstr "どこのデイドラを倒してもいいが、ストンフォールの闘争家の兄弟、オーリドンのトリナーン、ストームヘヴンのムーンリット・モーにはデイドラが集中している"
-
-#: 103224356-0-49416
-msgctxt "103224356-0-49416"
-msgid "Abnur Tharn admitted that his half-sister Euraxia tricked him into following the clues and releasing the Dragons into Elsweyr. I should find out if he has a plan for rectifying the situation."
-msgstr "アブナー・サルンは異母妹であるユーラクシアに騙され、手掛かりを追うことでエルスウェアにドラゴンを解き放ったと認めた。状況に対処する案を確認する"
-
-#: 103224356-0-49415
-msgctxt "103224356-0-49415"
-msgid "Khamira is worried about what the Dragons will do now that they are loose in Elsweyr. I should talk to Abnur Tharn and see if he has any ideas on how to rectify the situation."
-msgstr "カミラは、エルスウェアに解き放たれたドラゴンの行動を心配している。アブナー・サルンと話して、状況に対処する案を聞く"
-
-#: 103224356-0-49414
-msgctxt "103224356-0-49414"
-msgid "We returned from the Halls of Colossus, but weren't able to stop the Dragons from escaping their ancient prison. I should speak to Khamira and see what she thinks of the situation."
-msgstr "ホール・オブ・コロッサスから戻ったが、古代の牢獄からドラゴンの脱出を止められなかった。カミラと話して現状についての理解を聞く"
-
-#: 103224356-0-49413
-msgctxt "103224356-0-49413"
-msgid "The Dragons escaped from their ancient prison and there's nothing else to be done here. Tharn opened a portal to take us out of the Halls of Colossus. I should use it."
-msgstr "ドラゴンが古代の牢獄から脱出した。もうここに用はない。サルンがホール・オブ・コロッサスから出るためのポータルを開いた。それを使う"
-
-#: 103224356-0-49412
-msgctxt "103224356-0-49412"
-msgid "Too late! The vault has opened and the Dragons are escaping! I need to get out of their way."
-msgstr "遅かった！ 開いた宝物庫からドラゴンが逃げ出している！ 対処が必要だ"
-
-#: 103224356-0-49411
-msgctxt "103224356-0-49411"
-msgid "I killed Captain Calsivius, but the vault is almost open. I need to protect Abnur Tharn while he attempts to stop the process and reseal the vault."
-msgstr "カルシヴィアス隊長を倒したが、宝物庫はもう少しで開こうとしている。アブナー・サルンが扉の開放を止め、宝物庫を再封印しようとする間に守る"
-
-#: 103224356-0-49410
-msgctxt "103224356-0-49410"
-msgid "We were wrong. The legend isn't about a weapon—it's about Dragons! I have to stop Captain Calsivius before he unleashes the trapped Dragons."
-msgstr "誤解していた。伝説は武器のことではなく、ドラゴンのことを言っていた！ 捕らわれのドラゴンを解放される前に、カルシヴィアス隊長を止める"
-
-#: 103224356-0-49409
-msgctxt "103224356-0-49409"
-msgid "The door is open. Now to reach Captain Calsivius before he reaches the weapon."
-msgstr "扉は開いた。カルシヴィアス隊長が武器へ辿り着く前に追いつこう"
-
-#: 103224356-0-49408
-msgctxt "103224356-0-49408"
-msgid "To continue our pursuit of Captain Calsivius, I need to solve another Khajiiti light puzzle. This one appears more complex than any of the previous puzzles I dealt with."
-msgstr "カルシヴィアス隊長の追跡を続けるため、またもカジートの光の謎を解く。今までに解いたどの謎よりも複雑に見える"
-
-#: 103224356-0-49407
-msgctxt "103224356-0-49407"
-msgid "The door leading into the interior of the Halls of Colossus is open. Now to reach Captain Calsivius and stop him from attaining the weapon before we do."
-msgstr "ホール・オブ・コロッサス内部に通じる扉は開いた。カルシヴィアス隊長に追いつき、先に武器を入手されないよう阻止する"
-
-#: 103224356-0-49406
-msgctxt "103224356-0-49406"
-msgid "With the undead defeated and the gas trap foiled, now we need to solve the puzzle to open the interior door. Only then can we chase after Captain Calsivius and beat him to the weapon."
-msgstr "アンデッドを倒してガスの罠を止めた。謎を解いて内側の扉を開かなければ、カルシヴィアス隊長を追いかけ、先に武器の元へ辿りつくことができない"
-
-#: 103224356-0-49405
-msgctxt "103224356-0-49405"
-msgid "Captain Calsivius, an Imperial in service to Euraxia Tharn, flooded the chamber with poison gas and sent a horde of undead to attack us. I need to deal with the undead while Abnur Tharn keeps the gas at bay."
-msgstr "ユーラクシア・サルンに仕えるインペリアルのカルシヴィアス隊長が部屋を毒ガスで満たし、アンデッドの群れを仕向けてきた。アブナー・サルンがガスを食い止めている間にアンデッドを片付ける"
-
-#: 103224356-0-49404
-msgctxt "103224356-0-49404"
-msgid "The Halls of Colossus appear ancient and are filled with statuary and ruins. I should help Tharn and Khamira search for some way to get deeper inside."
-msgstr "ホール・オブ・コロッサスは古びていて、あちこちに像と瓦礫がある。サルンとカミラに協力して、奥へ進む道を見つける"
-
-#: 103224356-0-49403
-msgctxt "103224356-0-49403"
-msgid "The chartered wagon took us to a boat, which took us to a remote stretch of beach along the southern coast of Elsweyr. The ruins of the Halls of Colossus are just ahead. We need to enter the ruins and locate the weapon."
-msgstr "借り上げた荷馬車から小船へ行き、エルスウェア南海岸に長く伸びる、人里離れた浜辺に到着した。ホール・オブ・コロッサスの遺跡はすぐ先にある。遺跡に入り武器を探す"
-
-#: 103224356-0-49402
-msgctxt "103224356-0-49402"
-msgid "Abnur Tharn arranged a chartered wagon and boat to take us to the Halls of Colossus. I should find the wagon outside Cormount in Grahtwood when I'm ready to depart."
-msgstr "ホール・オブ・コロッサスまでの交通手段として、アブナー・サルンが荷馬車と小船を借り上げた。出発の準備ができたら、グラーウッドのコルマウント外にある荷馬車を探す"
+#: 103224356-0-48355
+msgctxt "103224356-0-48355"
+msgid "I succeeded in reaching the heart of Frostvault, overcoming everything that stood in my way.\n\nI should find <<1>> in my alliance's capital city."
+msgstr "あらゆる妨害を乗り越えてフロストヴォルトの中心部に到達した\r\n\r\n同盟の首都で<<1>>を探す"
 
 #: 103224356-0-49325
 msgctxt "103224356-0-49325"
 msgid "Abnur Tharn wants to know my opinion concerning Khamira's desire to destroy the ancient weapon. I should let him know what I think."
 msgstr "アブナー・サルンは、古代武器の破壊を望むカミラについて意見を求めている。彼に意見を伝える"
 
-#: 103224356-0-49306
-msgctxt "103224356-0-49306"
-msgid "Khamira was sent by the Speaker of the Mane to determine what Abnur Tharn's plans were regarding the ancient weapon. Khamira wants to help us find it before someone named Euraxia so she can destroy it. I should enter the ruin and consult with Abnur."
-msgstr "古代武器に関するアブナー・サルンの計画を確かめるため、たてがみの代弁者はカミラを送った。ユーラクシアという者よりも先に見つけて武器を破壊できるよう、カミラが協力を申し出ている。遺跡に入り、アブナーの意見を求める"
-
-#: 103224356-0-49273
-msgctxt "103224356-0-49273"
-msgid "Khamira has decided to accompany us to the Halls of Colossus as we search for the ancient weapon. I should talk to Abnur Tharn and find out how he wants to proceed."
-msgstr "古代武器を探す間、カミラはホール・オブ・コロッサスまで同行すると決めた。アブナー・サルンと話して今後の進行を聞く"
-
-#: 103224356-0-49272
-msgctxt "103224356-0-49272"
-msgid "Khamira somehow tracked us to Tharn's camp. I should listen to what she has to say to Abnur Tharn."
-msgstr "カミラがサルンの野営地まで追ってきた。彼女がアブナー・サルンに何を言うのか確認する"
-
-#: 103224356-0-49271
-msgctxt "103224356-0-49271"
-msgid "Abnur Tharn opened a portal to his camp north of Cormount in Grahtwood. I should follow Tharn to his camp and see if the triangulants have helped him determine how to decipher the map."
-msgstr "アブナー・サルンがグラーウッドのコルマウント北にある野営地へのポータルを開いた。野営地までサルンを追い、地図の謎解きにトライアンギュラントが役立ったかどうかを確かめる"
-
-#: 103224356-0-49270
-msgctxt "103224356-0-49270"
-msgid "I solved the puzzle and revealed a chest. The triangulant we need should be inside. I should open the chest and take it."
-msgstr "謎を解くと宝箱が現れた。必要なトライアンギュラントが入っているはずだ。宝箱を開けて手に入れる"
-
-#: 103224356-0-49269
-msgctxt "103224356-0-49269"
-msgid "Another puzzle of light and prisms guards the final triangulant that will help us decipher the map to the weapon. We need to solve the puzzle to gain the information."
-msgstr "武器の地図を解読するための最後のトライアンギュラントは、またも光とプリズムの謎により守られている。情報を得るには、謎を解読する"
-
-#: 103224356-0-49268
-msgctxt "103224356-0-49268"
-msgid "Regardless of whether I agree with Khamira or not, we need to find the ancient weapon before Euraxia Tharn does. To do that, we need to search Jode's Light and locate the final triangulant that will unlock the map."
-msgstr "カミラに賛成するかどうかは別として、ユーラクシア・サルンの前に古代の武器を探すべきだ。そのためにはジョーデの光を調査し、地図の謎を解く最後のトライアンギュラントを見つける"
-
-#: 103224356-0-49267
-msgctxt "103224356-0-49267"
-msgid "Now that we're inside Jode's Light, I should talk to Abnur Tharn and tell him what Khamira told me about Euraxia Tharn, the Speaker of the Mane, and the ancient weapon."
-msgstr "ジョーデの光に入った。アブナー・サルンと話し、ユーラクシア・サルン、たてがみの代弁者、古代の武器についてカミラから聞いたことを伝える"
-
-#: 103224356-0-49266
-msgctxt "103224356-0-49266"
-msgid "On the way to Jode's Light, a Khajiit stopped me. I should talk to her and see what she wants."
-msgstr "ジョーデの光に向かう途中でカジートに呼び止められた。彼女と話して用件を確かめる"
-
-#: 103224356-0-49265
-msgctxt "103224356-0-49265"
-msgid "Abnur Tharn believes that the moon-singer's story points to Jode's Light, a ruin here in Reaper's March. I should enter the ruin and look for the clue the ancient Khajiiti left for us to find."
-msgstr "アブナー・サルンによれば、月の歌い手の物語が指し示すのは、ここリーパーズ・マーチにあるジョーデの光という遺跡だ。その遺跡に入り、古代カジートが残した手掛かりを探す"
-
-#: 103224356-0-49264
-msgctxt "103224356-0-49264"
-msgid "The moon-singer finished her story. I should talk to Abnur Tharn and see if he can make sense of what we heard."
-msgstr "月の歌い手が物語を語り終わった。アブナー・サルンと話をして、物語を読み解かせる"
-
-#: 103224356-0-49263
-msgctxt "103224356-0-49263"
-msgid "Tharn says our final clue will be found by listening to a storyteller in Rawl'kha, in Reaper's March. I should travel there now."
-msgstr "最後の手掛かりは、リーパーズ・マーチにいる語り部の話を聞けば分かるとサルンに言われた。すぐに向かう"
-
-#: 103224356-0-49262
-msgctxt "103224356-0-49262"
-msgid "I solved the puzzle and revealed a chest. The triangulant we need should be inside. I should open the chest and take it."
-msgstr "謎を解くと宝箱が現れた。必要なトライアンギュラントが入っているはずだ。宝箱を開けて手に入れる"
-
-#: 103224356-0-49261
-msgctxt "103224356-0-49261"
-msgid "Another puzzle of light and prisms guards the triangulant that will help us decipher the map to the weapon. We need to solve the puzzle to gain the information."
-msgstr "武器の地図を解読するためのトライアンギュラントは、またも光とプリズムの謎により守られている。情報を得るには、謎を解読する"
-
-#: 103224356-0-49260
-msgctxt "103224356-0-49260"
-msgid "Abnur Tharn believes that the moon-singer's story points to an Ayleid structure in Malabal Tor known as Black Vine Ruins. I should enter the ruin and look for the clue the ancient Khajiiti left for us to find."
-msgstr "アブナー・サルンによれば、月の歌い手の物語が指し示すのは、マラバル・トールにあるブラックヴァイン遺跡というアイレイドの建物だ。その遺跡に入り、古代カジートが残した手掛かりを探す"
-
-#: 103224356-0-49259
-msgctxt "103224356-0-49259"
-msgid "The moon-singer finished her story. I should talk to Abnur Tharn and see if he can make sense of what we heard."
-msgstr "月の歌い手が物語を語り終わった。アブナー・サルンと話をして、物語を読み解かせる"
-
-#: 103224356-0-49258
-msgctxt "103224356-0-49258"
-msgid "The second of the moon-singer storytellers is Mizbina. I can find her at the Baandari Trading Post in Malabal Tor."
-msgstr "第2の月の歌い手の語り部は、ミズビナだ。彼女はマラバル・トールのバーンダリ交易所で見つかる"
-
-#: 103224356-0-49257
-msgctxt "103224356-0-49257"
-msgid "I solved the puzzle and revealed a chest. The triangulant we need should be inside. I should open the chest and take it."
-msgstr "謎を解くと宝箱が現れた。必要なトライアンギュラントが入っているはずだ。宝箱を開けて手に入れる"
-
-#: 103224356-0-49256
-msgctxt "103224356-0-49256"
-msgid "A puzzle of light and prisms guards the triangulant that will help us decipher the map to the weapon. We need to solve the puzzle to gain the information."
-msgstr "武器の地図を解読するためのトライアンギュラントが、光とプリズムの謎により守られている。情報を得るには、謎を解読する"
-
-#: 103224356-0-49255
-msgctxt "103224356-0-49255"
-msgid "Abnur Tharn believes that the moon-singer's story points to an Ayleid ruin in Grahtwood known as Wormroot Depths. I should enter the ruin and look for the clue the ancient Khajiiti left for us to find."
-msgstr "アブナー・サルンによれば、月の歌い手の物語が指し示すのは、グラーウッドにあるワームルートの深部というアイレイド遺跡だ。その遺跡に入り、古代カジートが残した手掛かりを探す"
-
-#: 103224356-0-49254
-msgctxt "103224356-0-49254"
-msgid "Abnur Tharn arrived just as the moon-singer finished his story. I should talk to him and see if he can make sense of what we heard."
-msgstr "月の歌い手が物語を語り終わったところで、アブナー・サルンが到着した。彼と話をして、物語を読み解かせる"
-
-#: 103224356-0-49253
-msgctxt "103224356-0-49253"
-msgid "The first of the moon-singer storytellers is Azargo Long-Tale. I can find him at the Redfur Trading Post in Grahtwood."
-msgstr "第一の月の歌い手の語り部は、長話のアザルゴだ。彼はグラーウッドのレッドファー交易所で見つかる"
-
-#: 103224356-0-49252
-msgctxt "103224356-0-49252"
-msgid "I agreed to help Tharn acquire this mysterious weapon. I should see what he needs me to do to accomplish that."
-msgstr "この不思議な武器を探すサルンに協力することにした。入手に必要な指示を確認する"
-
-#: 103224356-0-49251
-msgctxt "103224356-0-49251"
-msgid "The courier marked the location where Abnur Tharn is waiting to meet with me on my map. I should head there now."
-msgstr "アブナー・サルンが待っている場所を、使者が地図に記した。今からそこへ向かう"
-
-#: 103224356-0-49202
-msgctxt "103224356-0-49202"
-msgid "Our attempts to overload the Dwarven defenses only managed to activate another countermeasure. A massive construct has emerged to stop our attempts at claiming the Wrathstone. Destroying it is our only option."
-msgstr "ドワーフの防衛装置に過負荷を掛けようとして、別の防衛手段を起動させてしまった。巨大なコンストラクトが現れて、憤怒の石の入手を阻む。破壊するしかない"
-
-#: 103224356-0-49180
-msgctxt "103224356-0-49180"
-msgid "Leaping down into the caverns below appeared to be our only option. Tharayya insists there must be another exit from Garlas Malatar."
-msgstr "下の洞窟に飛び降りるしかなさそうだ。サライヤによれば、ガーラス・マラタールには別の出口があるらしい"
-
-#: 103224356-0-49179
-msgctxt "103224356-0-49179"
-msgid "Tharayya found the artifact she was searching for in some sort of Imperial shrine beneath the fort. Claiming the artifact alerted some sort of guardian that caused a cave in, trapping us. I should search for a way out."
-msgstr "サライヤが探していたアーティファクトは、砦の下にある帝国の祠のような場所で見つかった。アーティファクトを獲得すると何らかのガーディアンが警戒し、落盤を引き起こして閉じ込められた。出口を探す"
-
-#: 103224356-0-49178
-msgctxt "103224356-0-49178"
-msgid "With the Scavenging Maw slain I should be able to continue my exploration of Fort Mistwatch."
-msgstr "スカベンジング・モーを倒した。ミストウォッチ砦の探検を続けられる"
-
-#: 103224356-0-48843
-msgctxt "103224356-0-48843"
-msgid "The skeevaton lead me to a scrap pile the Goblins have accumulated. Unfortunately, their shaman and his ice atronach are busy picking through the loot. I'll need to deal with them before we can search for the shock conveyors."
-msgstr "スキーヴァトンについていくと、ゴブリンたちが集めたスクラップの山に行き当たった。不運にも呪術師と氷の精霊がせわしなく宝を漁っている。衝撃伝導器を探す前に、彼らを片付ける"
-
-#: 103224356-0-48780
-msgctxt "103224356-0-48780"
-msgid "Tharayya's plan to blast open the vault using the Dwemer construct was a success, but Dwarven sentries stand ready to repel any attempt to claim the Wrathstone. I must destroy them."
-msgstr "ドゥエマーコンストラクトで遺跡の扉を突破するサライヤの計画は成功したが、ドワーフの哨戒兵が憤怒の石を入手させないように待機している。哨戒兵を破壊する"
-
-#: 103224356-0-48751
-msgctxt "103224356-0-48751"
-msgid "We were able to collect the parts Tharayya requested. We should deliver them to her and check on her progress with the repairs."
-msgstr "サライヤに依頼されたパーツを集めた。彼女に渡して修復の進捗を確認する"
-
 #: 103224356-0-48750
 msgctxt "103224356-0-48750"
 msgid "I cleared the way into the Dwemer ruins and Tharayya's crew has arrived safely. I should follow them inside and see what awaits us within."
 msgstr "ドゥエマーの遺跡への道を確保し、 サライヤの部下が安全に到着した。彼らを追って内部に入り、待ち受けるものを確かめる"
-
-#: 103224356-0-48414
-msgctxt "103224356-0-48414"
-msgid "We found a sealed vault door that Tharayya believes she can bypass with the help of a giant Dwemer construct we discovered. She deployed a skeevaton to help me locate its missing Soul Gem. I should follow it."
-msgstr "封鎖された遺跡の扉を見つけた。サライヤによると、これまでに見つかったドゥエマーコンストラクトの支援を受ければ扉を越えられるらしい。彼女はスキーヴァトンを放ち、行方不明の魂石を見つけようとしている。スキーヴァトンを追いかける"
-
-#: 103224356-0-48379
-msgctxt "103224356-0-48379"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
-
-#: 103224356-0-48377
-msgctxt "103224356-0-48377"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
-
-#: 103224356-0-48376
-msgctxt "103224356-0-48376"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
-
-#: 103224356-0-48375
-msgctxt "103224356-0-48375"
-msgid "<<1>> presented me with another challenge: burn the Dictates of the Lady of Light when fighting the Symphony of Blades."
-msgstr "<<1>>から新たな挑戦を受けた。シンフォニー・オブ・ブレイズと戦う前に、光の淑女の布告を燃やす"
-
-#: 103224356-0-48374
-msgctxt "103224356-0-48374"
-msgid "I defeated my foes in the Depths of Malatar.\n\nI should find <<1>> in my alliance's capital city."
-msgstr "マラタールの深淵の敵を倒した\r\n\r\n同盟の首都で<<1>>を探す"
-
-#: 103224356-0-48373
-msgctxt "103224356-0-48373"
-msgid "I need to complete the Depths of Malatar."
-msgstr "マラタールの深淵をクリアする"
-
-#: 103224356-0-48372
-msgctxt "103224356-0-48372"
-msgid "It appears that killing the Ayleid guardian's mortal form didn't bring an end to his life. King Narilmor has become the avatar of Meridia's power and will stop at nothing to reclaim the artifact. I will have to defeat him to escape."
-msgstr "アイレイドのガーディアンは、定命の姿を倒しても消滅しなかったらしい。ナリルモル王はメリディアの力の化身となり、全力でアーティファクトを回収するだろう。脱出するには彼を倒す"
-
-#: 103224356-0-48371
-msgctxt "103224356-0-48371"
-msgid "I defeated the Ayleid ruler who was guarding Garlas Malatar. Tharayya thinks she feels a breeze passing through the ruins that should lead us to the surface. I should follow it."
-msgstr "ガーラス・マラタールを守っていたアイレイドの王を倒した。サライヤによると風が遺跡に流れ込んでおり、地上に通じているようだ。風を辿る"
-
-#: 103224356-0-48370
-msgctxt "103224356-0-48370"
-msgid "I received a note from Tharayya informing me of another expedition on the Gold Coast. I should meet her at the ruins of Garlas Malatar."
-msgstr "ゴールドコーストで新たに探検を始めるとサライヤから連絡を受けた。ガーラス・マラタールの遺跡で彼女と会う"
-
-#: 103224356-0-48369
-msgctxt "103224356-0-48369"
-msgid "An unnatural permafrost blocks our passage. Its source is an Ayleid woman lamenting the sacrifice of her people. She's determined not to let us take the artifact. I must kill the Weeping Woman if we are to escape."
-msgstr "奇妙な永久凍土層に行く手を阻まれた。民の犠牲を悼むアイレイドの女性が原因のようだ。アーティファクトは絶対に渡さないという。脱出するなら、嘆きの淑女を倒さなければならない"
-
-#: 103224356-0-48368
-msgctxt "103224356-0-48368"
-msgid "The fort's large storeroom has become the lair of a monstrous Daedra that seems to be feasting on anything and everything. I must kill the Scavenging Maw to continue my search."
-msgstr "砦の大きな倉庫はデイドラの怪物の巣窟となり、あらゆるものを貪っているようだ。調査を続けるには、スカベンジング・モーを倒す"
-
-#: 103224356-0-48367
-msgctxt "103224356-0-48367"
-msgid "Tharayya believes the Imperials who built the fort above Garlas Malatar found the artifact before calamity befell them. We should search the ruins of the fort for it."
-msgstr "サライヤは、ガーラス・マラタールの上に砦を建てた帝国が災害の前にアーティファクトを見つけたと考えている。砦の遺跡を探す"
-
-#: 103224356-0-48366
-msgctxt "103224356-0-48366"
-msgid "Destroying the dark orb stopped the Daedra and opened the way forward. The path forward leads us through the <<1>>, so I should expect more servants of Meridia will attempt to take the artifact from us as we pass through."
-msgstr "闇のオーブを壊すとデイドラは消え、道が開けた。この先は<<1>>を経由する。道中、さらなるメリディアの使者がアーティファクトを取り返そうとするだろう"
-
-#: 103224356-0-48365
-msgctxt "103224356-0-48365"
-msgid "I destroyed the guardian of Garlas Malatar and found a path out of the Ayleid ruins. I should speak to <<1>> outside <<2>>."
-msgstr "ガーラス・マラタールのガーディアンを破壊して、アイレイドの遺跡の脱出路を見つけた。<<1>>と<<2>>の外で話す"
-
-#: 103224356-0-48364
-msgctxt "103224356-0-48364"
-msgid "The guardian who has been hounding us since Tharayya took the artifact revealed himself to be an Ayleid king blessed by Meridia herself. I must defeat him to escape with the artifact."
-msgstr "サライヤがアーティファクトを入手してから追いかけてくるガーディアンは、メリディアから直接祝福を受けたアイレイドの王だと判明した。アーティファクトを持って逃げるには、彼を倒さなくてはならない"
-
-#: 103224356-0-48363
-msgctxt "103224356-0-48363"
-msgid "I entered a room containing a magical dark orb. The guardian that caused the cave in earlier has sealed me in with the orb and Daedric warriors are emerging from it. Tharayya believes destroying the orb will set me free."
-msgstr "闇のオーブがある部屋に入った。先ほど落盤を引き起こしたガーディアンによって、デイドラの戦士たちが出現するオーブと閉じ込められた。サライヤの話では、オーブを破壊すれば解放されるらしい"
-
-#: 103224356-0-48362
-msgctxt "103224356-0-48362"
-msgid "Tharayya and I have found the buried Ayleid city of Garlas Malatar. We should explore the ruins in search of another path to the surface."
-msgstr "サライヤとともにガーラス・マラタールというアイレイドの地下に埋もれた街を見つけた。遺跡を探検して地上への別ルートを探す"
-
-#: 103224356-0-48360
-msgctxt "103224356-0-48360"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
-
-#: 103224356-0-48358
-msgctxt "103224356-0-48358"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
-
-#: 103224356-0-48357
-msgctxt "103224356-0-48357"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
-
-#: 103224356-0-48356
-msgctxt "103224356-0-48356"
-msgid "<<1>> presented me with another challenge: use the Veracity Verifier when fighting the Stonekeeper."
-msgstr "<<1>>から新たな挑戦を受けた。真理検証機を使ってから、石の番人を倒す"
-
-#: 103224356-0-48355
-msgctxt "103224356-0-48355"
-msgid "I succeeded in reaching the heart of Frostvault, overcoming everything that stood in my way.\n\nI should find <<1>> in my alliance's capital city."
-msgstr "あらゆる妨害を乗り越えてフロストヴォルトの中心部に到達した\r\n\r\n同盟の首都で<<1>>を探す"
 
 #: 103224356-0-48354
 msgctxt "103224356-0-48354"
@@ -596,27 +61,562 @@ msgctxt "103224356-0-48348"
 msgid "Tharaya warned me that the ice caverns ahead are dangerous and asked me to lead the way to the Dwemer vault."
 msgstr "サライヤから、この先の氷の洞窟が危険だと警告された。ドゥエマーの保管庫まで先導するよう依頼された"
 
+#: 103224356-0-49178
+msgctxt "103224356-0-49178"
+msgid "With the Scavenging Maw slain I should be able to continue my exploration of Fort Mistwatch."
+msgstr "スカベンジング・モーを倒した。ミストウォッチ砦の探検を続けられる"
+
 #: 103224356-0-48347
 msgctxt "103224356-0-48347"
 msgid "Tharayya needs one more part before she can attempt to use the construct to open the vault door. Her skeevaton took off down a corridor, presumably in search of the shock conveyors she's asked for. I should follow it."
 msgstr "サライヤがコンストラクトを使って保管庫の扉を開けるには、パーツがもう1つ必要になる。スキーヴァトンが動き出し、必要な衝撃伝導器を探しているようだ。スキーヴァトンを追いかける"
+
+#: 103224356-0-49179
+msgctxt "103224356-0-49179"
+msgid "Tharayya found the artifact she was searching for in some sort of Imperial shrine beneath the fort. Claiming the artifact alerted some sort of guardian that caused a cave in, trapping us. I should search for a way out."
+msgstr "サライヤが探していたアーティファクトは、砦の下にある帝国の祠のような場所で見つかった。アーティファクトを獲得すると何らかのガーディアンが警戒し、落盤を引き起こして閉じ込められた。出口を探す"
 
 #: 103224356-0-48346
 msgctxt "103224356-0-48346"
 msgid "I defeated the Stonekeeper construct and disabled the remaining traps. Nothing stands between the Wrathstone and us now. I should speak to <<1>> about what we have found."
 msgstr "コンストラクト「石の番人」を倒して残りの罠を解除した。これで憤怒の石への障害は消えた。分かったことを<<1>>に伝える"
 
+#: 103224356-0-49851
+msgctxt "103224356-0-49851"
+msgid "I must travel to Kulati Mines in Alik'r in order to help train Northern Elsweyr Defense Force recruits to defeat spiders."
+msgstr "北エルスウェア防衛軍の新兵が蜘蛛を倒せるよう、訓練を手伝うためにアリクルのクラティ鉱山へ向かう"
+
 #: 103224356-0-48345
 msgctxt "103224356-0-48345"
 msgid "With the help of the skeevaton, we were able to locate suitable parts for Tharayya's repairs. We should return to her."
 msgstr "スキーヴァトンの協力で、サライヤの修復に使えるパーツを探し出した。彼女のところへ戻る"
+
+#: 103224356-0-48366
+msgctxt "103224356-0-48366"
+msgid "Destroying the dark orb stopped the Daedra and opened the way forward. The path forward leads us through the <<1>>, so I should expect more servants of Meridia will attempt to take the artifact from us as we pass through."
+msgstr "闇のオーブを壊すとデイドラは消え、道が開けた。この先は<<1>>を経由する。道中、さらなるメリディアの使者がアーティファクトを取り返そうとするだろう"
+
+#: 103224356-0-48365
+msgctxt "103224356-0-48365"
+msgid "I destroyed the guardian of Garlas Malatar and found a path out of the Ayleid ruins. I should speak to <<1>> outside <<2>>."
+msgstr "ガーラス・マラタールのガーディアンを破壊して、アイレイドの遺跡の脱出路を見つけた。<<1>>と<<2>>の外で話す"
+
+#: 103224356-0-50388
+msgctxt "103224356-0-50388"
+msgid "I defeated the Stonekeeper construct and disabled the remaining traps. Nothing stands between the Wrathstone and us now. I should speak to <<1>> about what we have found."
+msgstr "コンストラクト「石の番人」を倒して残りの罠を解除した。これで憤怒の石への障害は消えた。分かったことを<<1>>に伝える"
+
+#: 103224356-0-48364
+msgctxt "103224356-0-48364"
+msgid "The guardian who has been hounding us since Tharayya took the artifact revealed himself to be an Ayleid king blessed by Meridia herself. I must defeat him to escape with the artifact."
+msgstr "サライヤがアーティファクトを入手してから追いかけてくるガーディアンは、メリディアから直接祝福を受けたアイレイドの王だと判明した。アーティファクトを持って逃げるには、彼を倒さなくてはならない"
+
+#: 103224356-0-50389
+msgctxt "103224356-0-50389"
+msgid "I destroyed the guardian of Garlas Malatar and found a path out of the Ayleid ruins. I should speak to <<1>> outside <<2>>."
+msgstr "ガーラス・マラタールのガーディアンを破壊して、アイレイドの遺跡の脱出路を見つけた。<<1>>と<<2>>の外で話す"
+
+#: 103224356-0-48363
+msgctxt "103224356-0-48363"
+msgid "I entered a room containing a magical dark orb. The guardian that caused the cave in earlier has sealed me in with the orb and Daedric warriors are emerging from it. Tharayya believes destroying the orb will set me free."
+msgstr "闇のオーブがある部屋に入った。先ほど落盤を引き起こしたガーディアンによって、デイドラの戦士たちが出現するオーブと閉じ込められた。サライヤの話では、オーブを破壊すれば解放されるらしい"
+
+#: 103224356-0-48362
+msgctxt "103224356-0-48362"
+msgid "Tharayya and I have found the buried Ayleid city of Garlas Malatar. We should explore the ruins in search of another path to the surface."
+msgstr "サライヤとともにガーラス・マラタールというアイレイドの地下に埋もれた街を見つけた。遺跡を探検して地上への別ルートを探す"
+
+#: 103224356-0-48360
+msgctxt "103224356-0-48360"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
+
+#: 103224356-0-49716
+msgctxt "103224356-0-49716"
+msgid "I can kill Daedra anywhere, but concentrations exist at the Brothers of Strife in Stonefalls, Torinaan in Auridon, and the Moonlit Maw in Stormhaven."
+msgstr "どこのデイドラを倒してもいいが、ストンフォールの闘争家の兄弟、オーリドンのトリナーン、ストームヘヴンのムーンリット・モーにはデイドラが集中している"
+
+#: 103224356-0-49717
+msgctxt "103224356-0-49717"
+msgid "I filled all the soul gems Zahari gave me with Daedric souls. I should return to her camp and deliver the filled soul gems."
+msgstr "ザハリからもらったすべての魂石にデイドラの魂を込めた。彼女の野営地に戻り、満たした魂石を渡す"
+
+#: 103224356-0-48358
+msgctxt "103224356-0-48358"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
+
+#: 103224356-0-48357
+msgctxt "103224356-0-48357"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
+
+#: 103224356-0-49202
+msgctxt "103224356-0-49202"
+msgid "Our attempts to overload the Dwarven defenses only managed to activate another countermeasure. A massive construct has emerged to stop our attempts at claiming the Wrathstone. Destroying it is our only option."
+msgstr "ドワーフの防衛装置に過負荷を掛けようとして、別の防衛手段を起動させてしまった。巨大なコンストラクトが現れて、憤怒の石の入手を阻む。破壊するしかない"
+
+#: 103224356-0-48356
+msgctxt "103224356-0-48356"
+msgid "<<1>> presented me with another challenge: use the Veracity Verifier when fighting the Stonekeeper."
+msgstr "<<1>>から新たな挑戦を受けた。真理検証機を使ってから、石の番人を倒す"
+
+#: 103224356-0-50412
+msgctxt "103224356-0-50412"
+msgid "I've agreed to become Felande's newest tenant. I should speak to her to finalize the deal."
+msgstr "新しくフェランデの店子になることに同意した。彼女と話して契約をまとめる"
+
+#: 103224356-0-49269
+msgctxt "103224356-0-49269"
+msgid "Another puzzle of light and prisms guards the final triangulant that will help us decipher the map to the weapon. We need to solve the puzzle to gain the information."
+msgstr "武器の地図を解読するための最後のトライアンギュラントは、またも光とプリズムの謎により守られている。情報を得るには、謎を解読する"
+
+#: 103224356-0-50410
+msgctxt "103224356-0-50410"
+msgid "I should travel to Rimmen in Northern Elsweyr and speak to Felande about the inn room located within the Sugar House."
+msgstr "北エルスウェアのリンメンに移動して、フェランデと〈シュガーハウス〉の部屋のことを話す"
+
+#: 103224356-0-50411
+msgctxt "103224356-0-50411"
+msgid "Felande has offered me a free inn room at the Sugar House in Rimmen. I should speak to her to learn more about the offer."
+msgstr "フェランデがリンメンの<シュガーハウス>で無料の部屋提供を申し出た。彼女と話して、申し出の詳細を聞く"
+
+#: 103224356-0-49306
+msgctxt "103224356-0-49306"
+msgid "Khamira was sent by the Speaker of the Mane to determine what Abnur Tharn's plans were regarding the ancient weapon. Khamira wants to help us find it before someone named Euraxia so she can destroy it. I should enter the ruin and consult with Abnur."
+msgstr "古代武器に関するアブナー・サルンの計画を確かめるため、たてがみの代弁者はカミラを送った。ユーラクシアという者よりも先に見つけて武器を破壊できるよう、カミラが協力を申し出ている。遺跡に入り、アブナーの意見を求める"
+
+#: 103224356-0-49270
+msgctxt "103224356-0-49270"
+msgid "I solved the puzzle and revealed a chest. The triangulant we need should be inside. I should open the chest and take it."
+msgstr "謎を解くと宝箱が現れた。必要なトライアンギュラントが入っているはずだ。宝箱を開けて手に入れる"
+
+#: 103224356-0-49271
+msgctxt "103224356-0-49271"
+msgid "Abnur Tharn opened a portal to his camp north of Cormount in Grahtwood. I should follow Tharn to his camp and see if the triangulants have helped him determine how to decipher the map."
+msgstr "アブナー・サルンがグラーウッドのコルマウント北にある野営地へのポータルを開いた。野営地までサルンを追い、地図の謎解きにトライアンギュラントが役立ったかどうかを確かめる"
+
+#: 103224356-0-49272
+msgctxt "103224356-0-49272"
+msgid "Khamira somehow tracked us to Tharn's camp. I should listen to what she has to say to Abnur Tharn."
+msgstr "カミラがサルンの野営地まで追ってきた。彼女がアブナー・サルンに何を言うのか確認する"
+
+#: 103224356-0-49273
+msgctxt "103224356-0-49273"
+msgid "Khamira has decided to accompany us to the Halls of Colossus as we search for the ancient weapon. I should talk to Abnur Tharn and find out how he wants to proceed."
+msgstr "古代武器を探す間、カミラはホール・オブ・コロッサスまで同行すると決めた。アブナー・サルンと話して今後の進行を聞く"
+
+#: 103224356-0-48843
+msgctxt "103224356-0-48843"
+msgid "The skeevaton lead me to a scrap pile the Goblins have accumulated. Unfortunately, their shaman and his ice atronach are busy picking through the loot. I'll need to deal with them before we can search for the shock conveyors."
+msgstr "スキーヴァトンについていくと、ゴブリンたちが集めたスクラップの山に行き当たった。不運にも呪術師と氷の精霊がせわしなく宝を漁っている。衝撃伝導器を探す前に、彼らを片付ける"
+
+#: 103224356-0-49412
+msgctxt "103224356-0-49412"
+msgid "Too late! The vault has opened and the Dragons are escaping! I need to get out of their way."
+msgstr "遅かった！ 開いた宝物庫からドラゴンが逃げ出している！ 対処が必要だ"
+
+#: 103224356-0-49258
+msgctxt "103224356-0-49258"
+msgid "The second of the moon-singer storytellers is Mizbina. I can find her at the Baandari Trading Post in Malabal Tor."
+msgstr "第2の月の歌い手の語り部は、ミズビナだ。彼女はマラバル・トールのバーンダリ交易所で見つかる"
 
 #: 103224356-0-48344
 msgctxt "103224356-0-48344"
 msgid "The skeevaton lead me to a Dwarven construct that could have an equilibrium sphere. Unfortunately, it is still operational and appears to function as some sort of protector of this place. I will need to disable it before I can claim the part."
 msgstr "スキーヴァトンを追うと、均衡のスフィアを持つ可能性があるドワーフコンストラクトと遭遇した。今もドワーフコンストラクトは稼働しており、守護者として機能している。パーツを入手するにはまずドワーフコンストラクトを無力化しなければならない"
 
+#: 103224356-0-49413
+msgctxt "103224356-0-49413"
+msgid "The Dragons escaped from their ancient prison and there's nothing else to be done here. Tharn opened a portal to take us out of the Halls of Colossus. I should use it."
+msgstr "ドラゴンが古代の牢獄から脱出した。もうここに用はない。サルンがホール・オブ・コロッサスから出るためのポータルを開いた。それを使う"
+
+#: 103224356-0-49259
+msgctxt "103224356-0-49259"
+msgid "The moon-singer finished her story. I should talk to Abnur Tharn and see if he can make sense of what we heard."
+msgstr "月の歌い手が物語を語り終わった。アブナー・サルンと話をして、物語を読み解かせる"
+
 #: 103224356-0-48343
 msgctxt "103224356-0-48343"
 msgid "Tharayya sent her crew for the gem and they informed me that she also needs an equilibrium sphere for the repairs she is working on. The skeevaton seemed to respond to this and took off. I should see where it leads me."
 msgstr "サライヤが魂石を入手しようと部下を派遣したところ、修復を完了するには均衡のスフィアが必要だと知らされた。スキーヴァトンはこれに反応して動き出したようだ。行き先を確かめる"
+
+#: 103224356-0-50245
+msgctxt "103224356-0-50245"
+msgid "I found a scroll with techniques for fighting Dragons. I should return the scroll to Zahari so she can forward such techniques to the Northern Elsweyr Defense Force."
+msgstr "ドラゴンと戦う技術が記された巻物を見つけた。ザハリがその技術を北エルスウェア防衛軍に伝えられるよう、巻物を彼女に渡す"
+
+#: 103224356-0-49414
+msgctxt "103224356-0-49414"
+msgid "We returned from the Halls of Colossus, but weren't able to stop the Dragons from escaping their ancient prison. I should speak to Khamira and see what she thinks of the situation."
+msgstr "ホール・オブ・コロッサスから戻ったが、古代の牢獄からドラゴンの脱出を止められなかった。カミラと話して現状についての理解を聞く"
+
+#: 103224356-0-49899
+msgctxt "103224356-0-49899"
+msgid "Dagaril-dro accepted the gift of the dusk mushrooms and told me where to find the moon-singer storytellers. I can find them at the Redfur Trading Post, the Baandari Trading Post, and in Rawl'kha. I should let Abnur Tharn know what I learned."
+msgstr "ダガリル・ドロは黄昏キノコの贈り物を受け取り、月の歌い手の語り部の居場所を教えてくれた。語り部はレッドファー交易所、バーンダリ交易所、ラウル・ハで見つかる。アブナー・サルンに判明したことを伝える"
+
+#: 103224356-0-49415
+msgctxt "103224356-0-49415"
+msgid "Khamira is worried about what the Dragons will do now that they are loose in Elsweyr. I should talk to Abnur Tharn and see if he has any ideas on how to rectify the situation."
+msgstr "カミラは、エルスウェアに解き放たれたドラゴンの行動を心配している。アブナー・サルンと話して、状況に対処する案を聞く"
+
+#: 103224356-0-49416
+msgctxt "103224356-0-49416"
+msgid "Abnur Tharn admitted that his half-sister Euraxia tricked him into following the clues and releasing the Dragons into Elsweyr. I should find out if he has a plan for rectifying the situation."
+msgstr "アブナー・サルンは異母妹であるユーラクシアに騙され、手掛かりを追うことでエルスウェアにドラゴンを解き放ったと認めた。状況に対処する案を確認する"
+
+#: 103224356-0-50240
+msgctxt "103224356-0-50240"
+msgid "Zahari asked me to travel to Stormcrag Crypt, a Nord burial site in Eastmarch, and look for a scroll with information on fighting Dragons in its depths."
+msgstr "イーストマーチにあるノルドの墓地、ストームクラグ墓地へ向かい、ドラゴンとの戦い方が記された巻物を奥地で探すようザハリから頼まれた"
+
+#: 103224356-0-50243
+msgctxt "103224356-0-50243"
+msgid "I found a scroll with techniques for fighting Dragons. I should return the scroll to Zahari so she can forward such techniques to the Northern Elsweyr Defense Force."
+msgstr "ドラゴンと戦う技術が記された巻物を見つけた。ザハリがその技術を北エルスウェア防衛軍に伝えられるよう、巻物を彼女に渡す"
+
+#: 103224356-0-50244
+msgctxt "103224356-0-50244"
+msgid "Zahari asked me to travel to Shroud Hearth Barrow, a Nord burial site in the Rift, and look for a scroll with information on fighting Dragons in its depths."
+msgstr "リフトにあるノルドの墓地、隠匿の炉床へ向かい、ドラゴンとの戦い方が記された巻物を奥地で探すようザハリから頼まれた"
+
+#: 103224356-0-50241
+msgctxt "103224356-0-50241"
+msgid "I found a scroll with techniques for fighting Dragons. I should return the scroll to Zahari so she can forward such techniques to the Northern Elsweyr Defense Force."
+msgstr "ドラゴンと戦う技術が記された巻物を見つけた。ザハリがその技術を北エルスウェア防衛軍に伝えられるよう、巻物を彼女に渡す"
+
+#: 103224356-0-50242
+msgctxt "103224356-0-50242"
+msgid "Zahari asked me to travel to Icehammer Vault, a Nord burial site in Eastmarch, and look for a scroll with information on fighting Dragons in its depths."
+msgstr "イーストマーチにあるノルドの墓地、アイスハンマーの貯蔵所へ向かい、ドラゴンとの戦い方が記された巻物を奥で探すようザハリから頼まれた"
+
+#: 103224356-0-49260
+msgctxt "103224356-0-49260"
+msgid "Abnur Tharn believes that the moon-singer's story points to an Ayleid structure in Malabal Tor known as Black Vine Ruins. I should enter the ruin and look for the clue the ancient Khajiiti left for us to find."
+msgstr "アブナー・サルンによれば、月の歌い手の物語が指し示すのは、マラバル・トールにあるブラックヴァイン遺跡というアイレイドの建物だ。その遺跡に入り、古代カジートが残した手掛かりを探す"
+
+#: 103224356-0-49261
+msgctxt "103224356-0-49261"
+msgid "Another puzzle of light and prisms guards the triangulant that will help us decipher the map to the weapon. We need to solve the puzzle to gain the information."
+msgstr "武器の地図を解読するためのトライアンギュラントは、またも光とプリズムの謎により守られている。情報を得るには、謎を解読する"
+
+#: 103224356-0-49262
+msgctxt "103224356-0-49262"
+msgid "I solved the puzzle and revealed a chest. The triangulant we need should be inside. I should open the chest and take it."
+msgstr "謎を解くと宝箱が現れた。必要なトライアンギュラントが入っているはずだ。宝箱を開けて手に入れる"
+
+#: 103224356-0-49263
+msgctxt "103224356-0-49263"
+msgid "Tharn says our final clue will be found by listening to a storyteller in Rawl'kha, in Reaper's March. I should travel there now."
+msgstr "最後の手掛かりは、リーパーズ・マーチにいる語り部の話を聞けば分かるとサルンに言われた。すぐに向かう"
+
+#: 103224356-0-49264
+msgctxt "103224356-0-49264"
+msgid "The moon-singer finished her story. I should talk to Abnur Tharn and see if he can make sense of what we heard."
+msgstr "月の歌い手が物語を語り終わった。アブナー・サルンと話をして、物語を読み解かせる"
+
+#: 103224356-0-49265
+msgctxt "103224356-0-49265"
+msgid "Abnur Tharn believes that the moon-singer's story points to Jode's Light, a ruin here in Reaper's March. I should enter the ruin and look for the clue the ancient Khajiiti left for us to find."
+msgstr "アブナー・サルンによれば、月の歌い手の物語が指し示すのは、ここリーパーズ・マーチにあるジョーデの光という遺跡だ。その遺跡に入り、古代カジートが残した手掛かりを探す"
+
+#: 103224356-0-49266
+msgctxt "103224356-0-49266"
+msgid "On the way to Jode's Light, a Khajiit stopped me. I should talk to her and see what she wants."
+msgstr "ジョーデの光に向かう途中でカジートに呼び止められた。彼女と話して用件を確かめる"
+
+#: 103224356-0-49267
+msgctxt "103224356-0-49267"
+msgid "Now that we're inside Jode's Light, I should talk to Abnur Tharn and tell him what Khamira told me about Euraxia Tharn, the Speaker of the Mane, and the ancient weapon."
+msgstr "ジョーデの光に入った。アブナー・サルンと話し、ユーラクシア・サルン、たてがみの代弁者、古代の武器についてカミラから聞いたことを伝える"
+
+#: 103224356-0-49268
+msgctxt "103224356-0-49268"
+msgid "Regardless of whether I agree with Khamira or not, we need to find the ancient weapon before Euraxia Tharn does. To do that, we need to search Jode's Light and locate the final triangulant that will unlock the map."
+msgstr "カミラに賛成するかどうかは別として、ユーラクシア・サルンの前に古代の武器を探すべきだ。そのためにはジョーデの光を調査し、地図の謎を解く最後のトライアンギュラントを見つける"
+
+#: 103224356-0-49402
+msgctxt "103224356-0-49402"
+msgid "Abnur Tharn arranged a chartered wagon and boat to take us to the Halls of Colossus. I should find the wagon outside Cormount in Grahtwood when I'm ready to depart."
+msgstr "ホール・オブ・コロッサスまでの交通手段として、アブナー・サルンが荷馬車と小船を借り上げた。出発の準備ができたら、グラーウッドのコルマウント外にある荷馬車を探す"
+
+#: 103224356-0-50597
+msgctxt "103224356-0-50597"
+msgid "I can collect my cake by finding the baker and his bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
+msgstr "バルケルガードの港、ダボンズ・ウォッチ、ダガーフォールの港湾地区でパン職人とベーカリーバッジを見つければ、ケーキを手に入れられる"
+
+#: 103224356-0-50234
+msgctxt "103224356-0-50234"
+msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat lamia. I should return to Zahari and see what else she needs."
+msgstr "北エルスウェア防衛軍の新兵にラミアの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
+
+#: 103224356-0-49403
+msgctxt "103224356-0-49403"
+msgid "The chartered wagon took us to a boat, which took us to a remote stretch of beach along the southern coast of Elsweyr. The ruins of the Halls of Colossus are just ahead. We need to enter the ruins and locate the weapon."
+msgstr "借り上げた荷馬車から小船へ行き、エルスウェア南海岸に長く伸びる、人里離れた浜辺に到着した。ホール・オブ・コロッサスの遺跡はすぐ先にある。遺跡に入り武器を探す"
+
+#: 103224356-0-50598
+msgctxt "103224356-0-50598"
+msgid "I gave Chef Donolon the ingredients he requested. Now I just need to wait for him to complete my Jubilee Cake."
+msgstr "シェフ・ドノロンに要求された材料を渡した。後は彼が記念ケーキを作り終えるまで待つだけだ"
+
+#: 103224356-0-50235
+msgctxt "103224356-0-50235"
+msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
+msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
+
+#: 103224356-0-49888
+msgctxt "103224356-0-49888"
+msgid "A Khajiiti loremaster can direct us to the moon-singer storytellers who can recite the secret tales of Khunzar-ri. To secure his help, however, I need to gather dusk mushrooms from the ruin in Auridon, Bewan, to offer as a gift."
+msgstr "クンザ・リの秘話を暗唱できる月の歌い手の語り部の居場所は、カジートのロアマスターが知っている。しかし協力を得るには、オーリドンの遺跡、ベワンで黄昏キノコを集めて贈らなければならない"
+
+#: 103224356-0-49404
+msgctxt "103224356-0-49404"
+msgid "The Halls of Colossus appear ancient and are filled with statuary and ruins. I should help Tharn and Khamira search for some way to get deeper inside."
+msgstr "ホール・オブ・コロッサスは古びていて、あちこちに像と瓦礫がある。サルンとカミラに協力して、奥へ進む道を見つける"
+
+#: 103224356-0-49889
+msgctxt "103224356-0-49889"
+msgid "Now that I have the dusk mushrooms, I should travel to Dagaril-dro's camp on Auridon's coast and offer them as a gift."
+msgstr "黄昏キノコを入手した。オーリドン沿岸にあるダガリル・ドロの野営地へ向かい、贈り物をする"
+
+#: 103224356-0-49405
+msgctxt "103224356-0-49405"
+msgid "Captain Calsivius, an Imperial in service to Euraxia Tharn, flooded the chamber with poison gas and sent a horde of undead to attack us. I need to deal with the undead while Abnur Tharn keeps the gas at bay."
+msgstr "ユーラクシア・サルンに仕えるインペリアルのカルシヴィアス隊長が部屋を毒ガスで満たし、アンデッドの群れを仕向けてきた。アブナー・サルンがガスを食い止めている間にアンデッドを片付ける"
+
+#: 103224356-0-49406
+msgctxt "103224356-0-49406"
+msgid "With the undead defeated and the gas trap foiled, now we need to solve the puzzle to open the interior door. Only then can we chase after Captain Calsivius and beat him to the weapon."
+msgstr "アンデッドを倒してガスの罠を止めた。謎を解いて内側の扉を開かなければ、カルシヴィアス隊長を追いかけ、先に武器の元へ辿りつくことができない"
+
+#: 103224356-0-49407
+msgctxt "103224356-0-49407"
+msgid "The door leading into the interior of the Halls of Colossus is open. Now to reach Captain Calsivius and stop him from attaining the weapon before we do."
+msgstr "ホール・オブ・コロッサス内部に通じる扉は開いた。カルシヴィアス隊長に追いつき、先に武器を入手されないよう阻止する"
+
+#: 103224356-0-49408
+msgctxt "103224356-0-49408"
+msgid "To continue our pursuit of Captain Calsivius, I need to solve another Khajiiti light puzzle. This one appears more complex than any of the previous puzzles I dealt with."
+msgstr "カルシヴィアス隊長の追跡を続けるため、またもカジートの光の謎を解く。今までに解いたどの謎よりも複雑に見える"
+
+#: 103224356-0-49409
+msgctxt "103224356-0-49409"
+msgid "The door is open. Now to reach Captain Calsivius before he reaches the weapon."
+msgstr "扉は開いた。カルシヴィアス隊長が武器へ辿り着く前に追いつこう"
+
+#: 103224356-0-50595
+msgctxt "103224356-0-50595"
+msgid "Many ingredients can be purchased from local vendors."
+msgstr "多くの材料は地元の店で購入できる"
+
+#: 103224356-0-50232
+msgctxt "103224356-0-50232"
+msgid "I must travel to Loriasel in Shadowfen in order to help train Northern Elsweyr Defense Force recruits to defeat lamia."
+msgstr "北エルスウェア防衛軍の新兵がラミアを倒せるよう、訓練を手伝うためにシャドウフェンのロリアセルへ向かう"
+
+#: 103224356-0-50593
+msgctxt "103224356-0-50593"
+msgid "Chef Donolon will make me a special Jubilee Cake, but I need to bring him the ingredients he needs to prepare a fresh one. I need to gather or buy bananas, flour, and honey and bring them back to the chef."
+msgstr "シェフ・ドノロンは記念ケーキを作ってくれるが、新鮮なケーキを作るためには材料を持ち込まなければならない。バナナ、小麦粉、ハチミツを集めるか購入して、シェフの元へ戻る"
+
+#: 103224356-0-50230
+msgctxt "103224356-0-50230"
+msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
+msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
+
+#: 103224356-0-50594
+msgctxt "103224356-0-50594"
+msgid "It looks like Chef Donolon has completed my cake. I should talk to him so I can claim it."
+msgstr "シェフ・ドノロンはケーキを作り終えたようだ。話しかけて手に入れる"
+
+#: 103224356-0-49251
+msgctxt "103224356-0-49251"
+msgid "The courier marked the location where Abnur Tharn is waiting to meet with me on my map. I should head there now."
+msgstr "アブナー・サルンが待っている場所を、使者が地図に記した。今からそこへ向かう"
+
+#: 103224356-0-49890
+msgctxt "103224356-0-49890"
+msgid "A Khajiiti loremaster can direct us to the moon-singer storytellers who can recite the secret tales of Khunzar-ri. To secure his help, however, I need to gather dusk mushrooms from the Ayleid ruin in Glenumbra, Enduum, to offer as a gift."
+msgstr "クンザ・リの秘話を暗唱できる月の歌い手の語り部の居場所は、カジートのロアマスターが知っている。しかし協力を得るには、グレナンブラにあるアイレイドの遺跡、エンデュウムで黄昏キノコを集めて贈らなければならない"
+
+#: 103224356-0-49252
+msgctxt "103224356-0-49252"
+msgid "I agreed to help Tharn acquire this mysterious weapon. I should see what he needs me to do to accomplish that."
+msgstr "この不思議な武器を探すサルンに協力することにした。入手に必要な指示を確認する"
+
+#: 103224356-0-49891
+msgctxt "103224356-0-49891"
+msgid "A Khajiiti loremaster can direct us to the moon-singer storytellers who can recite the secret tales of Khunzar-ri. To secure his help, however, I need to gather dusk mushrooms from a mine in Stonefalls, Hightide Hollow, to offer as a gift."
+msgstr "クンザ・リの秘話を暗唱できる月の歌い手の語り部の居場所は、カジートのロアマスターが知っている。しかし協力を得るには、ストンフォールの鉱山、ハイタイド洞穴で黄昏キノコを集めて贈らなければならない"
+
+#: 103224356-0-49253
+msgctxt "103224356-0-49253"
+msgid "The first of the moon-singer storytellers is Azargo Long-Tale. I can find him at the Redfur Trading Post in Grahtwood."
+msgstr "第一の月の歌い手の語り部は、長話のアザルゴだ。彼はグラーウッドのレッドファー交易所で見つかる"
+
+#: 103224356-0-49254
+msgctxt "103224356-0-49254"
+msgid "Abnur Tharn arrived just as the moon-singer finished his story. I should talk to him and see if he can make sense of what we heard."
+msgstr "月の歌い手が物語を語り終わったところで、アブナー・サルンが到着した。彼と話をして、物語を読み解かせる"
+
+#: 103224356-0-49893
+msgctxt "103224356-0-49893"
+msgid "Now that I have the dusk mushrooms, I should travel to Dagaril-dro's camp on the Glenumbra coast and offer them as a gift."
+msgstr "黄昏キノコを入手した。グレナンブラ沿岸にあるダガリル・ドロの野営地へ向かい、贈り物をする"
+
+#: 103224356-0-49255
+msgctxt "103224356-0-49255"
+msgid "Abnur Tharn believes that the moon-singer's story points to an Ayleid ruin in Grahtwood known as Wormroot Depths. I should enter the ruin and look for the clue the ancient Khajiiti left for us to find."
+msgstr "アブナー・サルンによれば、月の歌い手の物語が指し示すのは、グラーウッドにあるワームルートの深部というアイレイド遺跡だ。その遺跡に入り、古代カジートが残した手掛かりを探す"
+
+#: 103224356-0-49894
+msgctxt "103224356-0-49894"
+msgid "Now that I have the dusk mushrooms, I should travel to Dagaril-dro's camp on the coast of Stonefalls and offer them as a gift."
+msgstr "黄昏キノコを入手した。ストンフォール沿岸にあるダガリル・ドロの野営地へ向かい、贈り物をする"
+
+#: 103224356-0-49410
+msgctxt "103224356-0-49410"
+msgid "We were wrong. The legend isn't about a weapon—it's about Dragons! I have to stop Captain Calsivius before he unleashes the trapped Dragons."
+msgstr "誤解していた。伝説は武器のことではなく、ドラゴンのことを言っていた！ 捕らわれのドラゴンを解放される前に、カルシヴィアス隊長を止める"
+
+#: 103224356-0-49256
+msgctxt "103224356-0-49256"
+msgid "A puzzle of light and prisms guards the triangulant that will help us decipher the map to the weapon. We need to solve the puzzle to gain the information."
+msgstr "武器の地図を解読するためのトライアンギュラントが、光とプリズムの謎により守られている。情報を得るには、謎を解読する"
+
+#: 103224356-0-49411
+msgctxt "103224356-0-49411"
+msgid "I killed Captain Calsivius, but the vault is almost open. I need to protect Abnur Tharn while he attempts to stop the process and reseal the vault."
+msgstr "カルシヴィアス隊長を倒したが、宝物庫はもう少しで開こうとしている。アブナー・サルンが扉の開放を止め、宝物庫を再封印しようとする間に守る"
+
+#: 103224356-0-49257
+msgctxt "103224356-0-49257"
+msgid "I solved the puzzle and revealed a chest. The triangulant we need should be inside. I should open the chest and take it."
+msgstr "謎を解くと宝箱が現れた。必要なトライアンギュラントが入っているはずだ。宝箱を開けて手に入れる"
+
+#: 103224356-0-50223
+msgctxt "103224356-0-50223"
+msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat goblins. I should return to Zahari and see what else she needs."
+msgstr "北エルスウェア防衛軍の新兵にゴブリンの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
+
+#: 103224356-0-50224
+msgctxt "103224356-0-50224"
+msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
+msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
+
+#: 103224356-0-50229
+msgctxt "103224356-0-50229"
+msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat lurchers. I should return to Zahari and see what else she needs."
+msgstr "北エルスウェア防衛軍の新兵にラーチャーの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
+
+#: 103224356-0-49878
+msgctxt "103224356-0-49878"
+msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
+msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
+
+#: 103224356-0-50227
+msgctxt "103224356-0-50227"
+msgid "I must travel to Rootwater Grove in Greenshade in order to help train Northern Elsweyr Defense Force recruits to defeat lurchers."
+msgstr "北エルスウェア防衛軍の新兵がラーチャーを倒せるよう、訓練を手伝うためにグリーンシェイドのルートウォーターの森へ向かう"
+
+#: 103224356-0-50221
+msgctxt "103224356-0-50221"
+msgid "I must travel to the Stonechewer Goblin Camp in Stormhaven in order to help train Northern Elsweyr Defense Force recruits to defeat goblins."
+msgstr "北エルスウェア防衛軍の新兵がゴブリンを倒せるよう、訓練を手伝うためにストームヘヴンの石喰いゴブリンの野営地へ向かう"
+
+#: 103224356-0-48377
+msgctxt "103224356-0-48377"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
+
+#: 103224356-0-48376
+msgctxt "103224356-0-48376"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
+
+#: 103224356-0-48375
+msgctxt "103224356-0-48375"
+msgid "<<1>> presented me with another challenge: burn the Dictates of the Lady of Light when fighting the Symphony of Blades."
+msgstr "<<1>>から新たな挑戦を受けた。シンフォニー・オブ・ブレイズと戦う前に、光の淑女の布告を燃やす"
+
+#: 103224356-0-48374
+msgctxt "103224356-0-48374"
+msgid "I defeated my foes in the Depths of Malatar.\n\nI should find <<1>> in my alliance's capital city."
+msgstr "マラタールの深淵の敵を倒した\r\n\r\n同盟の首都で<<1>>を探す"
+
+#: 103224356-0-48373
+msgctxt "103224356-0-48373"
+msgid "I need to complete the Depths of Malatar."
+msgstr "マラタールの深淵をクリアする"
+
+#: 103224356-0-50219
+msgctxt "103224356-0-50219"
+msgid "I must talk to Captain Shideya. She will pair me with a fledgling Khajiit warrior who will observe how I deal with powerful monsters."
+msgstr "シデヤ隊長と話をする。彼女の指示でカジートの新兵と組み、強力な怪物の倒し方を実演する"
+
+#: 103224356-0-48372
+msgctxt "103224356-0-48372"
+msgid "It appears that killing the Ayleid guardian's mortal form didn't bring an end to his life. King Narilmor has become the avatar of Meridia's power and will stop at nothing to reclaim the artifact. I will have to defeat him to escape."
+msgstr "アイレイドのガーディアンは、定命の姿を倒しても消滅しなかったらしい。ナリルモル王はメリディアの力の化身となり、全力でアーティファクトを回収するだろう。脱出するには彼を倒す"
+
+#: 103224356-0-50216
+msgctxt "103224356-0-50216"
+msgid "I must travel to Cath Bedraud in Glenumbra in order to help train Northern Elsweyr Defense Force recruits to defeat skeletons."
+msgstr "北エルスウェア防衛軍の新兵がスケルトンを倒せるよう、訓練を手伝うためにグレナンブラのキャス・ベドロードへ向かう"
+
+#: 103224356-0-48371
+msgctxt "103224356-0-48371"
+msgid "I defeated the Ayleid ruler who was guarding Garlas Malatar. Tharayya thinks she feels a breeze passing through the ruins that should lead us to the surface. I should follow it."
+msgstr "ガーラス・マラタールを守っていたアイレイドの王を倒した。サライヤによると風が遺跡に流れ込んでおり、地上に通じているようだ。風を辿る"
+
+#: 103224356-0-50217
+msgctxt "103224356-0-50217"
+msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat skeletons. I should return to Zahari and see what else she needs."
+msgstr "北エルスウェア防衛軍の新兵にスケルトンの倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"
+
+#: 103224356-0-48370
+msgctxt "103224356-0-48370"
+msgid "I received a note from Tharayya informing me of another expedition on the Gold Coast. I should meet her at the ruins of Garlas Malatar."
+msgstr "ゴールドコーストで新たに探検を始めるとサライヤから連絡を受けた。ガーラス・マラタールの遺跡で彼女と会う"
+
+#: 103224356-0-48369
+msgctxt "103224356-0-48369"
+msgid "An unnatural permafrost blocks our passage. Its source is an Ayleid woman lamenting the sacrifice of her people. She's determined not to let us take the artifact. I must kill the Weeping Woman if we are to escape."
+msgstr "奇妙な永久凍土層に行く手を阻まれた。民の犠牲を悼むアイレイドの女性が原因のようだ。アーティファクトは絶対に渡さないという。脱出するなら、嘆きの淑女を倒さなければならない"
+
+#: 103224356-0-48368
+msgctxt "103224356-0-48368"
+msgid "The fort's large storeroom has become the lair of a monstrous Daedra that seems to be feasting on anything and everything. I must kill the Scavenging Maw to continue my search."
+msgstr "砦の大きな倉庫はデイドラの怪物の巣窟となり、あらゆるものを貪っているようだ。調査を続けるには、スカベンジング・モーを倒す"
+
+#: 103224356-0-48367
+msgctxt "103224356-0-48367"
+msgid "Tharayya believes the Imperials who built the fort above Garlas Malatar found the artifact before calamity befell them. We should search the ruins of the fort for it."
+msgstr "サライヤは、ガーラス・マラタールの上に砦を建てた帝国が災害の前にアーティファクトを見つけたと考えている。砦の遺跡を探す"
+
+#: 103224356-0-48780
+msgctxt "103224356-0-48780"
+msgid "Tharayya's plan to blast open the vault using the Dwemer construct was a success, but Dwarven sentries stand ready to repel any attempt to claim the Wrathstone. I must destroy them."
+msgstr "ドゥエマーコンストラクトで遺跡の扉を突破するサライヤの計画は成功したが、ドワーフの哨戒兵が憤怒の石を入手させないように待機している。哨戒兵を破壊する"
+
+#: 103224356-0-49180
+msgctxt "103224356-0-49180"
+msgid "Leaping down into the caverns below appeared to be our only option. Tharayya insists there must be another exit from Garlas Malatar."
+msgstr "下の洞窟に飛び降りるしかなさそうだ。サライヤによれば、ガーラス・マラタールには別の出口があるらしい"
+
+#: 103224356-0-48414
+msgctxt "103224356-0-48414"
+msgid "We found a sealed vault door that Tharayya believes she can bypass with the help of a giant Dwemer construct we discovered. She deployed a skeevaton to help me locate its missing Soul Gem. I should follow it."
+msgstr "封鎖された遺跡の扉を見つけた。サライヤによると、これまでに見つかったドゥエマーコンストラクトの支援を受ければ扉を越えられるらしい。彼女はスキーヴァトンを放ち、行方不明の魂石を見つけようとしている。スキーヴァトンを追いかける"
+
+#: 103224356-0-48379
+msgctxt "103224356-0-48379"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "同盟の首都で<<1>>がもう一度話をしようと待っている"
+
+#: 103224356-0-49862
+msgctxt "103224356-0-49862"
+msgid "I showed a Northern Elsweyr Defense Force recruit how to defeat spiders. I should return to Zahari and see what else she needs."
+msgstr "北エルスウェア防衛軍の新兵に蜘蛛の倒し方を見せた。ザハリのところへ戻り、他に必要なことを聞く"

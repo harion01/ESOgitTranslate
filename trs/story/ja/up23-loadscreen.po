@@ -11,15 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 70901198-0-515
-msgctxt "70901198-0-515"
-msgid "Built late in the Second Empire to control the chronic pirate problem on the Strid River, since the outbreak of the Three Banners War the Istirus Outpost has become a forgotten relic, its dwindling resources fought over by all sides."
-msgstr "ストリッド川を襲う賊に対処するため、第二帝国後期に建設された基地。三旗戦役の勃発後、イスティルス基地は忘れられた遺物となり、その減少する資源を巡ってあらゆる陣営が戦った。"
+#: 70901198-0-1123
+msgctxt "70901198-0-1123"
+msgid "The fertile jungles of this mountain valley have long since swallowed up the signs of the Khajiit kingdom that once called it home, but a new, malignant growth is spreading here, and it threatens to consume far more than old ruins."
+msgstr "山の麓の渓谷に茂ったジャングルが、ここにあったカジート王国の痕跡を飲み込んで久しい。しかし新しく、悪しき存在がここには広がっている。古い遺跡以上のものを飲み込む勢いだ。"
 
-#: 162658389-0-515
-msgctxt "162658389-0-515"
-msgid "Istirus Outpost Arena"
-msgstr "イスティルス基地アリーナ"
+#: 162658389-0-1123
+msgctxt "162658389-0-1123"
+msgid "Lair of Maarselok"
+msgstr "マーセロクの巣"
 
 #: 70901198-0-1155
 msgctxt "70901198-0-1155"
@@ -31,16 +31,6 @@ msgctxt "162658389-0-1155"
 msgid "Wraithhome"
 msgstr "死霊の家"
 
-#: 70901198-0-1154
-msgctxt "70901198-0-1154"
-msgid "Dotted with Elsweyr architectural features, this meadow provides plenty of building space in a peaceful and natural setting. Nearby streams gleam in the light of the sun and moons, enhancing this idyllic getaway."
-msgstr "エルスウェア建築の特徴が残ったこの牧草地には、平和で自然豊かな空き地がたくさんある。近くの川は太陽と月に光り輝き、この牧歌的な別荘の魅力を高める。"
-
-#: 162658389-0-1154
-msgctxt "162658389-0-1154"
-msgid "Moon-Sugar Meadow"
-msgstr "ムーンシュガーの牧草地"
-
 #: 70901198-0-1144
 #, fuzzy
 msgctxt "70901198-0-1144"
@@ -51,6 +41,27 @@ msgstr "「この遺跡は呪われている。クワマー鉱山に入り込ん
 msgctxt "162658389-0-1144"
 msgid "Vahlokzin's Lair"
 msgstr "ヴァーロクジンの巣"
+
+#: 70901198-0-1122
+#, fuzzy
+msgctxt "70901198-0-1122"
+msgid """Just as the sixteen kingdoms were not always one, so too were the faiths of Khajiit many-fold. In guiding Khajiit along his one true path of the moons, Riddle'Thar hid from us all the others. But if you are wise, you may catch glimpses of where the walkers of old have tread."" — Tsramusa the Exile"
+msgstr "「十六王国が常に一つではなかったように、カジートの信仰も多様だった。真の月の道へとカジートを導くため、リドル・サールは他の信仰をすべて隠した。しかし、賢き者は古の歩き手が歩いていた道の痕跡を辿ることができる」 — 追放者ツラムサ"
+
+#: 162658389-0-1122
+msgctxt "162658389-0-1122"
+msgid "Moongrave Fane"
+msgstr "ムーングレイブ神殿"
+
+#: 70901198-0-1154
+msgctxt "70901198-0-1154"
+msgid "Dotted with Elsweyr architectural features, this meadow provides plenty of building space in a peaceful and natural setting. Nearby streams gleam in the light of the sun and moons, enhancing this idyllic getaway."
+msgstr "エルスウェア建築の特徴が残ったこの牧草地には、平和で自然豊かな空き地がたくさんある。近くの川は太陽と月に光り輝き、この牧歌的な別荘の魅力を高める。"
+
+#: 162658389-0-1154
+msgctxt "162658389-0-1154"
+msgid "Moon-Sugar Meadow"
+msgstr "ムーンシュガーの牧草地"
 
 #: 70901198-0-1143
 #, fuzzy
@@ -73,6 +84,16 @@ msgctxt "162658389-0-1142"
 msgid "The Valley of Blades"
 msgstr "剣の渓谷"
 
+#: 70901198-0-515
+msgctxt "70901198-0-515"
+msgid "Built late in the Second Empire to control the chronic pirate problem on the Strid River, since the outbreak of the Three Banners War the Istirus Outpost has become a forgotten relic, its dwindling resources fought over by all sides."
+msgstr "ストリッド川を襲う賊に対処するため、第二帝国後期に建設された基地。三旗戦役の勃発後、イスティルス基地は忘れられた遺物となり、その減少する資源を巡ってあらゆる陣営が戦った。"
+
+#: 162658389-0-515
+msgctxt "162658389-0-515"
+msgid "Istirus Outpost Arena"
+msgstr "イスティルス基地アリーナ"
+
 #: 70901198-0-1141
 msgctxt "70901198-0-1141"
 msgid "The cold halls of Dark Water Temple, now silent and bare, once housed the youngest of the Dragonguard as they trained in the art of Dragon slaying. The sanctuary was quickly abandoned after the order disbanded following the death of Emperor Reman III."
@@ -92,24 +113,3 @@ msgstr "フーンディング・ウォッチの下に隠れたこの聖域では
 msgctxt "162658389-0-1140"
 msgid "Wind Scour Temple"
 msgstr "風雨を受けた聖堂"
-
-#: 70901198-0-1123
-msgctxt "70901198-0-1123"
-msgid "The fertile jungles of this mountain valley have long since swallowed up the signs of the Khajiit kingdom that once called it home, but a new, malignant growth is spreading here, and it threatens to consume far more than old ruins."
-msgstr "山の麓の渓谷に茂ったジャングルが、ここにあったカジート王国の痕跡を飲み込んで久しい。しかし新しく、悪しき存在がここには広がっている。古い遺跡以上のものを飲み込む勢いだ。"
-
-#: 162658389-0-1123
-msgctxt "162658389-0-1123"
-msgid "Lair of Maarselok"
-msgstr "マーセロクの巣"
-
-#: 70901198-0-1122
-#, fuzzy
-msgctxt "70901198-0-1122"
-msgid """Just as the sixteen kingdoms were not always one, so too were the faiths of Khajiit many-fold. In guiding Khajiit along his one true path of the moons, Riddle'Thar hid from us all the others. But if you are wise, you may catch glimpses of where the walkers of old have tread."" — Tsramusa the Exile"
-msgstr "「十六王国が常に一つではなかったように、カジートの信仰も多様だった。真の月の道へとカジートを導くため、リドル・サールは他の信仰をすべて隠した。しかし、賢き者は古の歩き手が歩いていた道の痕跡を辿ることができる」 — 追放者ツラムサ"
-
-#: 162658389-0-1122
-msgctxt "162658389-0-1122"
-msgid "Moongrave Fane"
-msgstr "ムーングレイブ神殿"

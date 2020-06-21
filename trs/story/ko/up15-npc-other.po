@@ -11,15 +11,25 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 51188660-5-260
-msgctxt "51188660-5-260"
-msgid "<<1>>"
-msgstr ""
+#: 191999749-0-32360
+msgctxt "191999749-0-32360"
+msgid "Skeleton"
+msgstr "해골"
 
 #: 51188660-3-1087
 msgctxt "51188660-3-1087"
 msgid "<<1>>"
 msgstr ""
+
+#: 51188660-1-1010
+msgctxt "51188660-1-1010"
+msgid "Travel to Wayrest"
+msgstr "웨이레스트로 이동하기"
+
+#: 191999749-0-32359
+msgctxt "191999749-0-32359"
+msgid "Skeleton"
+msgstr "해골"
 
 #: 51188660-3-1066
 msgctxt "51188660-3-1066"
@@ -31,17 +41,7 @@ msgctxt "51188660-2-1010"
 msgid "Travel to Woodhearth"
 msgstr "우드하스로 이동하기"
 
-#: 51188660-1-1010
-msgctxt "51188660-1-1010"
-msgid "Travel to Wayrest"
-msgstr "웨이레스트로 이동하기"
-
-#: 191999749-0-32360
-msgctxt "191999749-0-32360"
-msgid "Skeleton"
-msgstr "해골"
-
-#: 191999749-0-32359
-msgctxt "191999749-0-32359"
-msgid "Skeleton"
-msgstr "해골"
+#: 51188660-5-260
+msgctxt "51188660-5-260"
+msgid "<<1>>"
+msgstr ""

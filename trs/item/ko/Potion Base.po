@@ -11,36 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-883
-msgctxt "228378404-0-883"
-msgid "An Ingredient for crafting level 3 potions"
-msgstr "레벨 3 물약을 만들기 위한 재료입니다."
-
-#: 242841733-0-883
-msgctxt "242841733-0-883"
-msgid "natural water"
-msgstr "천연수 (natural water)"
-
-#: 228378404-0-64501
-msgctxt "228378404-0-64501"
-msgid "A lunar ingredient for crafting Champion potions."
-msgstr "챔피언 물약을 만들기 위한 달의 재료입니다."
-
-#: 242841733-0-64501
-msgctxt "242841733-0-64501"
-msgid "Lorkhan's Tears"
-msgstr "로칸의 눈물 (Lorkhan's Tears)"
-
-#: 228378404-0-64500
-msgctxt "228378404-0-64500"
-msgid "A stellar ingredient for crafting Champion potions."
-msgstr "챔피언 물약을 만들기 위한 별의 재료입니다."
-
-#: 242841733-0-64500
-msgctxt "242841733-0-64500"
-msgid "Star Dew"
-msgstr "별 이슬 (Star Dew)"
-
 #: 228378404-0-4570
 msgctxt "228378404-0-4570"
 msgid "An Ingredient for crafting level 20 potions"
@@ -51,35 +21,25 @@ msgctxt "242841733-0-4570"
 msgid "pristine water"
 msgstr "청명수 (pristine water)"
 
-#: 228378404-0-23268
-msgctxt "228378404-0-23268"
-msgid "An ingredient for crafting Champion potions."
-msgstr "챔피언 물약을 만들기 위한 재료입니다."
+#: 228378404-0-883
+msgctxt "228378404-0-883"
+msgid "An Ingredient for crafting level 3 potions"
+msgstr "레벨 3 물약을 만들기 위한 재료입니다."
 
-#: 242841733-0-23268
-msgctxt "242841733-0-23268"
-msgid "cloud mist"
-msgstr "구름 안개 (cloud mist)"
+#: 242841733-0-883
+msgctxt "242841733-0-883"
+msgid "natural water"
+msgstr "천연수 (natural water)"
 
-#: 228378404-0-23267
-msgctxt "228378404-0-23267"
-msgid "An Ingredient for crafting level 50 potions"
-msgstr "레벨 50 물약을 만들기 위한 재료입니다."
+#: 228378404-0-64500
+msgctxt "228378404-0-64500"
+msgid "A stellar ingredient for crafting Champion potions."
+msgstr "챔피언 물약을 만들기 위한 별의 재료입니다."
 
-#: 242841733-0-23267
-msgctxt "242841733-0-23267"
-msgid "purified water"
-msgstr "정제수 (purified water)"
-
-#: 228378404-0-23266
-msgctxt "228378404-0-23266"
-msgid "An Ingredient for crafting level 40 potions"
-msgstr "레벨 40 물약을 만들기 위한 재료입니다."
-
-#: 242841733-0-23266
-msgctxt "242841733-0-23266"
-msgid "filtered water"
-msgstr "여과수 (filtered water)"
+#: 242841733-0-64500
+msgctxt "242841733-0-64500"
+msgid "Star Dew"
+msgstr "별 이슬 (Star Dew)"
 
 #: 228378404-0-23265
 msgctxt "228378404-0-23265"
@@ -100,3 +60,43 @@ msgstr "레벨 10 물약을 만들기 위한 재료입니다."
 msgctxt "242841733-0-1187"
 msgid "clear water"
 msgstr "청정수 (clear water)"
+
+#: 228378404-0-23266
+msgctxt "228378404-0-23266"
+msgid "An Ingredient for crafting level 40 potions"
+msgstr "레벨 40 물약을 만들기 위한 재료입니다."
+
+#: 242841733-0-23266
+msgctxt "242841733-0-23266"
+msgid "filtered water"
+msgstr "여과수 (filtered water)"
+
+#: 228378404-0-64501
+msgctxt "228378404-0-64501"
+msgid "A lunar ingredient for crafting Champion potions."
+msgstr "챔피언 물약을 만들기 위한 달의 재료입니다."
+
+#: 242841733-0-64501
+msgctxt "242841733-0-64501"
+msgid "Lorkhan's Tears"
+msgstr "로칸의 눈물 (Lorkhan's Tears)"
+
+#: 228378404-0-23267
+msgctxt "228378404-0-23267"
+msgid "An Ingredient for crafting level 50 potions"
+msgstr "레벨 50 물약을 만들기 위한 재료입니다."
+
+#: 242841733-0-23267
+msgctxt "242841733-0-23267"
+msgid "purified water"
+msgstr "정제수 (purified water)"
+
+#: 228378404-0-23268
+msgctxt "228378404-0-23268"
+msgid "An ingredient for crafting Champion potions."
+msgstr "챔피언 물약을 만들기 위한 재료입니다."
+
+#: 242841733-0-23268
+msgctxt "242841733-0-23268"
+msgid "cloud mist"
+msgstr "구름 안개 (cloud mist)"

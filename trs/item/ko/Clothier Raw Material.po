@@ -11,36 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-812
-msgctxt "228378404-0-812"
-msgid "Ten of these items can be refined to make jute."
-msgstr "이 아이템 10개를 가공해 황마를 얻을 수 있습니다."
-
-#: 242841733-0-812
-msgctxt "242841733-0-812"
-msgid "raw jute"
-msgstr "생 황마 (Raw Jute)"
-
-#: 228378404-0-800
-msgctxt "228378404-0-800"
-msgid "Ten of these items can be refined to make superb hide."
-msgstr "이 아이템 10개를 가공해 최상급 가죽을 얻을 수 있습니다."
-
-#: 242841733-0-800
-msgctxt "242841733-0-800"
-msgid "superb hide scraps"
-msgstr "최상급 가죽 조각 (Superb Hide Scraps)"
-
-#: 228378404-0-793
-msgctxt "228378404-0-793"
-msgid "Ten of these items can be refined to make rawhide."
-msgstr "이 아이템 10개를 가공해 생가죽을 얻을 수 있습니다."
-
-#: 242841733-0-793
-msgctxt "242841733-0-793"
-msgid "rawhide scraps"
-msgstr "생가죽 조각 (Rawhide Scraps)"
-
 #: 228378404-0-71239
 msgctxt "228378404-0-71239"
 msgid "Ten of these items can be refined to make rubedo leather."
@@ -49,17 +19,7 @@ msgstr "이 아이템 10개를 가공해 루베도 가죽을 얻을 수 있습�
 #: 242841733-0-71239
 msgctxt "242841733-0-71239"
 msgid "rubedo hide scraps"
-msgstr "루베도 가죽 조각 (Rubedo Hide Scraps)"
-
-#: 228378404-0-71200
-msgctxt "228378404-0-71200"
-msgid "Ten of these items can be refined to make ancestor silk."
-msgstr "이 아이템 10개를 가공해 선조 비단을 얻을 수 있습니다."
-
-#: 242841733-0-71200
-msgctxt "242841733-0-71200"
-msgid "raw ancestor silk"
-msgstr "가공되지 않은 선조 비단 (Raw Ancestor Silk)"
+msgstr "루베도 가죽 조각 (rubedo hide scraps)"
 
 #: 228378404-0-6020
 msgctxt "228378404-0-6020"
@@ -69,17 +29,17 @@ msgstr "이 아이템 10개를 가공해 두꺼운 가죽을 얻을 수 있습�
 #: 242841733-0-6020
 msgctxt "242841733-0-6020"
 msgid "thick leather scraps"
-msgstr "두꺼운 가죽 조각 (Thick Leather Scraps)"
+msgstr "두꺼운 가죽 조각 (thick leather scraps)"
 
-#: 228378404-0-4478
-msgctxt "228378404-0-4478"
-msgid "Ten of these items can be refined to make shadowhide."
-msgstr "이 아이템 10개를 가공해 그림자가죽을 얻을 수 있습니다."
+#: 228378404-0-71200
+msgctxt "228378404-0-71200"
+msgid "Ten of these items can be refined to make ancestor silk."
+msgstr "이 아이템 10개를 가공해 선조 비단을 얻을 수 있습니다."
 
-#: 242841733-0-4478
-msgctxt "242841733-0-4478"
-msgid "shadowhide scraps"
-msgstr "그림자가죽 조각 (Shadowhide Scraps)"
+#: 242841733-0-71200
+msgctxt "242841733-0-71200"
+msgid "raw ancestor silk"
+msgstr "가공되지 않은 선조 비단 (raw ancestor silk)"
 
 #: 228378404-0-4464
 msgctxt "228378404-0-4464"
@@ -89,97 +49,7 @@ msgstr "이 아이템 10개를 가공해 아마를 얻을 수 있습니다."
 #: 242841733-0-4464
 msgctxt "242841733-0-4464"
 msgid "raw flax"
-msgstr "생 아마 (Raw Flax)"
-
-#: 228378404-0-4448
-msgctxt "228378404-0-4448"
-msgid "Ten of these items can be refined to make hide."
-msgstr "이 아이템 10개를 가공해 가죽을 얻을 수 있습니다."
-
-#: 242841733-0-4448
-msgctxt "242841733-0-4448"
-msgid "hide scraps"
-msgstr "가죽 조각 (Hide Scraps)"
-
-#: 228378404-0-33220
-msgctxt "228378404-0-33220"
-msgid "Ten of these items can be refined to make void cloth."
-msgstr "이 아이템 10개를 가공해 공허 천을 얻을 수 있습니다."
-
-#: 242841733-0-33220
-msgctxt "242841733-0-33220"
-msgid "raw void bloom"
-msgstr "생 공허 꽃 (Raw Void Bloom)"
-
-#: 228378404-0-33219
-msgctxt "228378404-0-33219"
-msgid "Ten of these items can be refined to make silverweave."
-msgstr "이 아이템 10개를 가공해 은섬유를 얻을 수 있습니다."
-
-#: 242841733-0-33219
-msgctxt "242841733-0-33219"
-msgid "raw silverweed"
-msgstr "생 은잎줄기 (Raw Silverweed)"
-
-#: 228378404-0-33218
-msgctxt "228378404-0-33218"
-msgid "Ten of these items can be refined to make ironthread."
-msgstr "이 아이템 10개를 가공하여 철실을 얻을 수 있습니다."
-
-#: 242841733-0-33218
-msgctxt "242841733-0-33218"
-msgid "raw ironweed"
-msgstr "생 철잎줄기 (Raw Ironweed)"
-
-#: 228378404-0-33217
-msgctxt "228378404-0-33217"
-msgid "Ten of these items can be refined to make kresh fiber."
-msgstr "이 아이템 10개를 가공해 크레시 섬유를 얻을 수 있습니다."
-
-#: 242841733-0-33217
-msgctxt "242841733-0-33217"
-msgid "raw Kreshweed"
-msgstr "생 크레시 잎줄기 (Raw Kreshweed)"
-
-#: 228378404-0-23143
-msgctxt "228378404-0-23143"
-msgid "Ten of these items can be refined to make iron hide."
-msgstr "이 아이템 10개를 가공해 철 가죽을 얻을 수 있습니다."
-
-#: 242841733-0-23143
-msgctxt "242841733-0-23143"
-msgid "iron hide scraps"
-msgstr "철 가죽 조각 (Iron Hide Scraps)"
-
-#: 228378404-0-23142
-msgctxt "228378404-0-23142"
-msgid "Ten of these items can be refined to make topgrain hide."
-msgstr "이 아이템 10개를 가공해 정밀가공 가죽을 얻을 수 있습니다."
-
-#: 242841733-0-23142
-msgctxt "242841733-0-23142"
-msgid "topgrain hide scraps"
-msgstr "정밀가공 가죽 조각 (Topgrain Hide Scraps)"
-
-#: 228378404-0-23131
-msgctxt "228378404-0-23131"
-msgid "Ten of these items can be refined to make ebonthread."
-msgstr "이 아이템 10개를 가공해 흑단실을 얻을 수 있습니다."
-
-#: 242841733-0-23131
-msgctxt "242841733-0-23131"
-msgid "raw ebonthread"
-msgstr "생 흑단실 (Raw Ebonthread)"
-
-#: 228378404-0-23130
-msgctxt "228378404-0-23130"
-msgid "Ten of these items can be refined to make spidersilk."
-msgstr "이 아이템 10개를 가공해 거미비단을 얻을 수 있습니다."
-
-#: 242841733-0-23130
-msgctxt "242841733-0-23130"
-msgid "raw spidersilk"
-msgstr "생 거미비단 (Raw Spidersilk)"
+msgstr "생 아마 (raw flax)"
 
 #: 228378404-0-23129
 msgctxt "228378404-0-23129"
@@ -189,17 +59,17 @@ msgstr "이 아이템 10개를 가공해 목화를 얻을 수 있습니다."
 #: 242841733-0-23129
 msgctxt "242841733-0-23129"
 msgid "raw cotton"
-msgstr "생 목화 (Raw Cotton)"
+msgstr "생 목화 (raw cotton)"
 
-#: 228378404-0-23097
-msgctxt "228378404-0-23097"
-msgid "Ten of these items can be refined to make fell hide."
-msgstr "이 아이템 10개를 가공해 공그른 가죽을 얻을 수 있습니다."
+#: 228378404-0-793
+msgctxt "228378404-0-793"
+msgid "Ten of these items can be refined to make rawhide."
+msgstr "이 아이템 10개를 가공해 생가죽을 얻을 수 있습니다."
 
-#: 242841733-0-23097
-msgctxt "242841733-0-23097"
-msgid "fell hide scraps"
-msgstr "공그른 가죽 조각 (Fell Hide Scraps)"
+#: 242841733-0-793
+msgctxt "242841733-0-793"
+msgid "rawhide scraps"
+msgstr "생가죽 조각 (rawhide scraps)"
 
 #: 228378404-0-23095
 msgctxt "228378404-0-23095"
@@ -209,4 +79,134 @@ msgstr "이 아이템 10개를 가공해 가공 가죽을 얻을 수 있습니�
 #: 242841733-0-23095
 msgctxt "242841733-0-23095"
 msgid "leather scraps"
-msgstr "가공 가죽 조각 (Leather Scraps)"
+msgstr "가공 가죽 조각 (leather scraps)"
+
+#: 228378404-0-23130
+msgctxt "228378404-0-23130"
+msgid "Ten of these items can be refined to make spidersilk."
+msgstr "이 아이템 10개를 가공해 거미비단을 얻을 수 있습니다."
+
+#: 242841733-0-23130
+msgctxt "242841733-0-23130"
+msgid "raw spidersilk"
+msgstr "생 거미 비단 (raw spidersilk)"
+
+#: 228378404-0-23097
+msgctxt "228378404-0-23097"
+msgid "Ten of these items can be refined to make fell hide."
+msgstr "이 아이템 10개를 가공해 공그른 가죽을 얻을 수 있습니다."
+
+#: 242841733-0-23097
+msgctxt "242841733-0-23097"
+msgid "fell hide scraps"
+msgstr "공그른 가죽 조각 (fell hide scraps)"
+
+#: 228378404-0-33220
+msgctxt "228378404-0-33220"
+msgid "Ten of these items can be refined to make void cloth."
+msgstr "이 아이템 10개를 가공해 공허 천을 얻을 수 있습니다."
+
+#: 242841733-0-33220
+msgctxt "242841733-0-33220"
+msgid "raw void bloom"
+msgstr "생 공허의 꽃 (raw void bloom)"
+
+#: 228378404-0-23142
+msgctxt "228378404-0-23142"
+msgid "Ten of these items can be refined to make topgrain hide."
+msgstr "이 아이템 10개를 가공해 정밀가공 가죽을 얻을 수 있습니다."
+
+#: 242841733-0-23142
+msgctxt "242841733-0-23142"
+msgid "topgrain hide scraps"
+msgstr "정밀가공 가죽 조각 (topgrain hide scraps)"
+
+#: 228378404-0-23131
+msgctxt "228378404-0-23131"
+msgid "Ten of these items can be refined to make ebonthread."
+msgstr "이 아이템 10개를 가공해 흑단실을 얻을 수 있습니다."
+
+#: 242841733-0-23131
+msgctxt "242841733-0-23131"
+msgid "raw ebonthread"
+msgstr "생 에보니 실 (raw ebonthread)"
+
+#: 228378404-0-23143
+msgctxt "228378404-0-23143"
+msgid "Ten of these items can be refined to make iron hide."
+msgstr "이 아이템 10개를 가공해 철 가죽을 얻을 수 있습니다."
+
+#: 242841733-0-23143
+msgctxt "242841733-0-23143"
+msgid "iron hide scraps"
+msgstr "철 가죽 조각 (iron hide scraps)"
+
+#: 228378404-0-800
+msgctxt "228378404-0-800"
+msgid "Ten of these items can be refined to make superb hide."
+msgstr "이 아이템 10개를 가공해 최상급 가죽을 얻을 수 있습니다."
+
+#: 242841733-0-800
+msgctxt "242841733-0-800"
+msgid "superb hide scraps"
+msgstr "최상급 가죽 조각 (superb hide scraps)"
+
+#: 228378404-0-4478
+msgctxt "228378404-0-4478"
+msgid "Ten of these items can be refined to make shadowhide."
+msgstr "이 아이템 10개를 가공해 그림자가죽을 얻을 수 있습니다."
+
+#: 242841733-0-4478
+msgctxt "242841733-0-4478"
+msgid "shadowhide scraps"
+msgstr "그림자가죽 조각 (shadowhide scraps)"
+
+#: 228378404-0-812
+msgctxt "228378404-0-812"
+msgid "Ten of these items can be refined to make jute."
+msgstr "이 아이템 10개를 가공해 황마를 얻을 수 있습니다."
+
+#: 242841733-0-812
+msgctxt "242841733-0-812"
+msgid "raw jute"
+msgstr "생 황마 (raw jute)"
+
+#: 228378404-0-33219
+msgctxt "228378404-0-33219"
+msgid "Ten of these items can be refined to make silverweave."
+msgstr "이 아이템 10개를 가공해 은섬유를 얻을 수 있습니다."
+
+#: 242841733-0-33219
+msgctxt "242841733-0-33219"
+msgid "raw silverweed"
+msgstr "생 은잎줄기 (raw silverweed)"
+
+#: 228378404-0-4448
+msgctxt "228378404-0-4448"
+msgid "Ten of these items can be refined to make hide."
+msgstr "이 아이템 10개를 가공해 가죽을 얻을 수 있습니다."
+
+#: 242841733-0-4448
+msgctxt "242841733-0-4448"
+msgid "hide scraps"
+msgstr "가죽 조각 (hide scraps)"
+
+#: 228378404-0-33217
+msgctxt "228378404-0-33217"
+msgid "Ten of these items can be refined to make kresh fiber."
+msgstr "이 아이템 10개를 가공해 크레시 섬유를 얻을 수 있습니다."
+
+#: 242841733-0-33217
+msgctxt "242841733-0-33217"
+msgid "raw Kreshweed"
+msgstr "생 크래시 잎줄기 (raw Kreshweed)"
+
+#: 228378404-0-33218
+msgctxt "228378404-0-33218"
+msgid "Ten of these items can be refined to make ironthread."
+msgstr "이 아이템 10개를 가공하여 철실을 얻을 수 있습니다."
+
+#: 242841733-0-33218
+msgctxt "242841733-0-33218"
+msgid "raw ironweed"
+msgstr "생 철잎줄기 (raw ironweed)"

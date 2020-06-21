@@ -11,15 +11,105 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-85132
-msgctxt "132143172-0-85132"
-msgid "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for <<1>> Health every <<2>> for <<3>>.\n\nAny friendly target you heal gains Major Force for <<4>>, increasing their Critical Damage by <<5>>."
-msgstr "杖から回復エネルギーを周囲に解放し、自身か味方の体力を<<1>>、<<2>>ごとに<<3>>の間回復する。\r\n\r\n回復した味方は<<4>>の間威力(強)を得て、クリティカルダメージを<<5>>増加させる。"
+#: 132143172-0-37232
+msgctxt "132143172-0-37232"
+msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
+msgstr "杖の力を集中して、自身か周囲の味方の内、最も体力が低い味方に<<1>>のダメージを吸収するダメージシールドを展開する。\r\n\r\nシールドの力は標的が負った怪我の度合いによって<<2>>%まで増加する。"
 
-#: 198758357-0-85132
-msgctxt "198758357-0-85132"
-msgid "Light's Champion"
-msgstr "光の擁護者"
+#: 198758357-0-37232
+msgctxt "198758357-0-37232"
+msgid "Steadfast Ward"
+msgstr "魔力の壁"
+
+#: 132143172-0-28536
+msgctxt "132143172-0-28536"
+msgid "Share your staff's life-giving energy, healing you or a nearby ally for <<1>> Health over <<2>>."
+msgstr "杖が持つ生命エネルギーを共有して、自身と近くの味方の体力を<<1>>、<<2>>の間回復する。"
+
+#: 198758357-0-28536
+msgctxt "198758357-0-28536"
+msgid "Regeneration"
+msgstr "再生"
+
+#: 132143172-0-45519
+msgctxt "132143172-0-45519"
+msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+msgstr "残り体力が|cffffff30|r%未満の味方への回復力が<<1>>増加する。"
+
+#: 198758357-0-45519
+msgctxt "198758357-0-45519"
+msgid "Restoration Expert"
+msgstr "回復の熟練者"
+
+#: 132143172-0-40126
+msgctxt "132143172-0-40126"
+msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for <<3>>% of the shield's remaining strength every second."
+msgstr "杖の力を集中して、自身か周囲の味方の内、最も体力が低い味方に<<1>>のダメージを吸収するダメージシールドを展開する。\r\n\r\nシールドの力は標的の残り体力によって最大<<2>>%まで増大する。\r\n\r\nシールドが残っている間、標的は残った結界の力の<<3>>%、毎秒回復する。"
+
+#: 198758357-0-40126
+msgctxt "198758357-0-40126"
+msgid "Healing Ward"
+msgstr "治癒結界"
+
+#: 132143172-0-40103
+msgctxt "132143172-0-40103"
+msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>>, increasing you and your allies' Physical Resistance and Spell Resistance by <<3>> for <<4>>."
+msgstr "杖を叩きつけて祝福を発動し、自身と目の前の味方の体力を<<1>>回復する。\r\n\r\nさらに<<2>>を付与し、自身と味方の物理耐性と呪文耐性が<<3>>、<<4>>の間増大する。"
+
+#: 198758357-0-40103
+msgctxt "198758357-0-40103"
+msgid "Blessing Of Restoration"
+msgstr "祝福の回復"
+
+#: 132143172-0-40109
+msgctxt "132143172-0-40109"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nAlso applies <<5>> to the enemy for <<6>>, causing you and your allies to restore <<7>> Magicka every <<8>> when damaging them."
+msgstr "杖の力を集中させ、敵に<<1>>を<<2>>の間付与する。ダメージを与える度に、自身と味方は体力を<<3>>、<<4>>ごとに回復する。\r\n\r\nまた、敵に<<5>>を<<6>>の間付与する。ダメージを与える度に、自身と味方はマジカを<<7>>、<<8>>ごとに回復する。"
+
+#: 198758357-0-40109
+msgctxt "198758357-0-40109"
+msgid "Siphon Spirit"
+msgstr "霊力吸引"
+
+#: 132143172-0-45517
+msgctxt "132143172-0-45517"
+msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
+msgstr "完全にチャージした重攻撃を終えたあとに<<1>>の間治癒力(強)を得て、自分の行う治癒の効果が<<2>>増加する。\r\n\r\nまた、完全にチャージした重攻撃の最後の一発で与えたダメージの<<3>>%分、自身か対象の近くの味方を治癒する。"
+
+#: 198758357-0-45517
+msgctxt "198758357-0-45517"
+msgid "Essence Drain"
+msgstr "エッセンスドレイン"
+
+#: 132143172-0-30981
+msgctxt "132143172-0-30981"
+msgid "Increases healing with Restoration Staff spells by <<1>>."
+msgstr "回復の杖による回復呪文の効果が<<1>>強化される。"
+
+#: 198758357-0-30981
+msgctxt "198758357-0-30981"
+msgid "Restoration Master"
+msgstr "回復の達人"
+
+#: 132143172-0-31531
+msgctxt "132143172-0-31531"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them."
+msgstr "杖の力を集中させ、敵に<<1>>を<<2>>の間付与する。ダメージを与える度に、自身と味方は体力を<<3>>、<<4>>ごとに回復する。"
+
+#: 198758357-0-31531
+msgctxt "198758357-0-31531"
+msgid "Force Siphon"
+msgstr "力吸引"
+
+#: 132143172-0-30980
+msgctxt "132143172-0-30980"
+msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+msgstr "残り体力が|cffffff30|r%未満の味方への回復力が<<1>>増加する。"
+
+#: 198758357-0-30980
+msgctxt "198758357-0-30980"
+msgid "Restoration Expert"
+msgstr "回復の熟練者"
 
 #: 132143172-0-83850
 msgctxt "132143172-0-83850"
@@ -41,125 +131,35 @@ msgctxt "198758357-0-83552"
 msgid "Panacea"
 msgstr "万能薬"
 
-#: 132143172-0-45524
-msgctxt "132143172-0-45524"
-msgid "Increases healing with Restoration Staff spells by <<1>>."
-msgstr "回復の杖による回復呪文の効果が<<1>>強化される。"
-
-#: 198758357-0-45524
-msgctxt "198758357-0-45524"
-msgid "Restoration Master"
-msgstr "回復の達人"
-
-#: 132143172-0-45521
-msgctxt "132143172-0-45521"
+#: 132143172-0-30869
+msgctxt "132143172-0-30869"
 msgid "Restores <<1>> Magicka when you block a spell."
 msgstr "呪文を防御すると<<1>>マジカ回復する。"
 
-#: 198758357-0-45521
-msgctxt "198758357-0-45521"
+#: 198758357-0-30869
+msgctxt "198758357-0-30869"
 msgid "Absorb"
 msgstr "吸収"
 
-#: 132143172-0-45520
-msgctxt "132143172-0-45520"
-msgid "Your fully-charged Heavy Attacks restore <<1>>% more Magicka."
-msgstr "完全にチャージした重攻撃がマジカをさらに<<1>>%回復する。"
+#: 132143172-0-40060
+msgctxt "132143172-0-40060"
+msgid "Summon restoring spirits with your staff, healing you and your allies in the target area for <<1>> Health and an additional <<1>> Health every <<2>> for <<3>>. \n\nYou restore <<4>> Magicka every time you or an ally is healed."
+msgstr "杖を使って回復の霊魂を召喚し、自身と範囲内にいる味方の体力を<<1>>、加えて<<1>>を<<2>>ごとに<<3>>の間回復する。\r\n\r\n味方が回復するたびに、自身と味方のマジカが<<4>>回復する。"
 
-#: 198758357-0-45520
-msgctxt "198758357-0-45520"
-msgid "Cycle of Life"
-msgstr "生命の環"
+#: 198758357-0-40060
+msgctxt "198758357-0-40060"
+msgid "Healing Springs"
+msgstr "治癒の泉"
 
-#: 132143172-0-45519
-msgctxt "132143172-0-45519"
-msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
-msgstr "残り体力が|cffffff30|r%未満の味方への回復力が<<1>>増加する。"
+#: 132143172-0-85132
+msgctxt "132143172-0-85132"
+msgid "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for <<1>> Health every <<2>> for <<3>>.\n\nAny friendly target you heal gains Major Force for <<4>>, increasing their Critical Damage by <<5>>."
+msgstr "杖から回復エネルギーを周囲に解放し、自身か味方の体力を<<1>>、<<2>>ごとに<<3>>の間回復する。\r\n\r\n回復した味方は<<4>>の間威力(強)を得て、クリティカルダメージを<<5>>増加させる。"
 
-#: 198758357-0-45519
-msgctxt "198758357-0-45519"
-msgid "Restoration Expert"
-msgstr "回復の熟練者"
-
-#: 132143172-0-45517
-msgctxt "132143172-0-45517"
-msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
-msgstr "完全にチャージした重攻撃を終えたあとに<<1>>の間治癒力(強)を得て、自分の行う治癒の効果が<<2>>増加する。\r\n\r\nまた、完全にチャージした重攻撃の最後の一発で与えたダメージの<<3>>%分、自身か対象の近くの味方を治癒する。"
-
-#: 198758357-0-45517
-msgctxt "198758357-0-45517"
-msgid "Essence Drain"
-msgstr "エッセンスドレイン"
-
-#: 132143172-0-40130
-msgctxt "132143172-0-40130"
-msgid "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
-msgstr "杖の力を集中して、自身と、周囲の味方の内、最も体力が低い味方に<<1>>のダメージを吸収するダメージシールドを展開する。\r\n\r\nシールドの力は標的の残り体力によって最大<<2>>%まで増大する。"
-
-#: 198758357-0-40130
-msgctxt "198758357-0-40130"
-msgid "Ward Ally"
-msgstr "自軍防護"
-
-#: 132143172-0-40126
-msgctxt "132143172-0-40126"
-msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for <<3>>% of the shield's remaining strength every second."
-msgstr "杖の力を集中して、自身か周囲の味方の内、最も体力が低い味方に<<1>>のダメージを吸収するダメージシールドを展開する。\r\n\r\nシールドの力は標的の残り体力によって最大<<2>>%まで増大する。\r\n\r\nシールドが残っている間、標的は残った結界の力の<<3>>%、毎秒回復する。"
-
-#: 198758357-0-40126
-msgctxt "198758357-0-40126"
-msgid "Healing Ward"
-msgstr "治癒結界"
-
-#: 132143172-0-40116
-msgctxt "132143172-0-40116"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nWhen you or an ally is healed by <<1>>, they gain <<5>>, which increases their Movement Speed by |cffffff10|r% for <<6>>."
-msgstr "杖の力を集中させ、敵に<<1>>を<<2>>の間付与する。ダメージを与える度に、自身と味方は体力を<<3>>、<<4>>ごとに回復する。\r\n\r\n自身か味方が<<1>>によって回復すると<<5>>を得て、移動速度が|cffffff10|r%、<<6>>の間上昇する。"
-
-#: 198758357-0-40116
-msgctxt "198758357-0-40116"
-msgid "Quick Siphon"
-msgstr "急速吸引"
-
-#: 132143172-0-40109
-msgctxt "132143172-0-40109"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nAlso applies <<5>> to the enemy for <<6>>, causing you and your allies to restore <<7>> Magicka every <<8>> when damaging them."
-msgstr "杖の力を集中させ、敵に<<1>>を<<2>>の間付与する。ダメージを与える度に、自身と味方は体力を<<3>>、<<4>>ごとに回復する。\r\n\r\nまた、敵に<<5>>を<<6>>の間付与する。ダメージを与える度に、自身と味方はマジカを<<7>>、<<8>>ごとに回復する。"
-
-#: 198758357-0-40109
-msgctxt "198758357-0-40109"
-msgid "Siphon Spirit"
-msgstr "霊力吸引"
-
-#: 132143172-0-40103
-msgctxt "132143172-0-40103"
-msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>>, increasing you and your allies' Physical Resistance and Spell Resistance by <<3>> for <<4>>."
-msgstr "杖を叩きつけて祝福を発動し、自身と目の前の味方の体力を<<1>>回復する。\r\n\r\nさらに<<2>>を付与し、自身と味方の物理耐性と呪文耐性が<<3>>、<<4>>の間増大する。"
-
-#: 198758357-0-40103
-msgctxt "198758357-0-40103"
-msgid "Blessing Of Restoration"
-msgstr "祝福の回復"
-
-#: 132143172-0-40094
-msgctxt "132143172-0-40094"
-msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>> and <<3>> increasing you and your allies' damage done by <<4>> and Physical Resistance and Spell Resistance by <<5>>  for <<6>>."
-msgstr "杖を叩きつけて祝福を発動し、自身と目の前の味方の体力を<<1>>回復する。\r\n\r\nさらに<<2>>と<<3>>を付与し、自身と味方の与ダメージが<<4>>、物理耐性と呪文耐性が<<5>>、<<6>>の間増加する。"
-
-#: 198758357-0-40094
-msgctxt "198758357-0-40094"
-msgid "Combat Prayer"
-msgstr "戦の祈り"
-
-#: 132143172-0-40079
-msgctxt "132143172-0-40079"
-msgid "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for <<1>> over <<2>>."
-msgstr "杖が持つ生命エネルギーを共有して、自身と近くの味方|cffffff3|r人までを<<1>>、<<2>>の間回復する。"
-
-#: 198758357-0-40079
-msgctxt "198758357-0-40079"
-msgid "Radiating Regeneration"
-msgstr "放射再生"
+#: 198758357-0-85132
+msgctxt "198758357-0-85132"
+msgid "Light's Champion"
+msgstr "光の擁護者"
 
 #: 132143172-0-40076
 msgctxt "132143172-0-40076"
@@ -171,15 +171,25 @@ msgctxt "198758357-0-40076"
 msgid "Rapid Regeneration"
 msgstr "高速再生"
 
-#: 132143172-0-40060
-msgctxt "132143172-0-40060"
-msgid "Summon restoring spirits with your staff, healing you and your allies in the target area for <<1>> Health and an additional <<1>> Health every <<2>> for <<3>>. \n\nYou restore <<4>> Magicka every time you or an ally is healed."
-msgstr "杖を使って回復の霊魂を召喚し、自身と範囲内にいる味方の体力を<<1>>、加えて<<1>>を<<2>>ごとに<<3>>の間回復する。\r\n\r\n味方が回復するたびに、自身と味方のマジカが<<4>>回復する。"
+#: 132143172-0-40130
+msgctxt "132143172-0-40130"
+msgid "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
+msgstr "杖の力を集中して、自身と、周囲の味方の内、最も体力が低い味方に<<1>>のダメージを吸収するダメージシールドを展開する。\r\n\r\nシールドの力は標的の残り体力によって最大<<2>>%まで増大する。"
 
-#: 198758357-0-40060
-msgctxt "198758357-0-40060"
-msgid "Healing Springs"
-msgstr "治癒の泉"
+#: 198758357-0-40130
+msgctxt "198758357-0-40130"
+msgid "Ward Ally"
+msgstr "自軍防護"
+
+#: 132143172-0-45524
+msgctxt "132143172-0-45524"
+msgid "Increases healing with Restoration Staff spells by <<1>>."
+msgstr "回復の杖による回復呪文の効果が<<1>>強化される。"
+
+#: 198758357-0-45524
+msgctxt "198758357-0-45524"
+msgid "Restoration Master"
+msgstr "回復の達人"
 
 #: 132143172-0-40058
 msgctxt "132143172-0-40058"
@@ -201,85 +211,45 @@ msgctxt "198758357-0-37243"
 msgid "Blessing of Protection"
 msgstr "守護の祝福"
 
-#: 132143172-0-37232
-msgctxt "132143172-0-37232"
-msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
-msgstr "杖の力を集中して、自身か周囲の味方の内、最も体力が低い味方に<<1>>のダメージを吸収するダメージシールドを展開する。\r\n\r\nシールドの力は標的が負った怪我の度合いによって<<2>>%まで増加する。"
+#: 132143172-0-40079
+msgctxt "132143172-0-40079"
+msgid "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for <<1>> over <<2>>."
+msgstr "杖が持つ生命エネルギーを共有して、自身と近くの味方|cffffff3|r人までを<<1>>、<<2>>の間回復する。"
 
-#: 198758357-0-37232
-msgctxt "198758357-0-37232"
-msgid "Steadfast Ward"
-msgstr "魔力の壁"
+#: 198758357-0-40079
+msgctxt "198758357-0-40079"
+msgid "Radiating Regeneration"
+msgstr "放射再生"
 
-#: 132143172-0-31531
-msgctxt "132143172-0-31531"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them."
-msgstr "杖の力を集中させ、敵に<<1>>を<<2>>の間付与する。ダメージを与える度に、自身と味方は体力を<<3>>、<<4>>ごとに回復する。"
-
-#: 198758357-0-31531
-msgctxt "198758357-0-31531"
-msgid "Force Siphon"
-msgstr "力吸引"
-
-#: 132143172-0-30981
-msgctxt "132143172-0-30981"
-msgid "Increases healing with Restoration Staff spells by <<1>>."
-msgstr "回復の杖による回復呪文の効果が<<1>>強化される。"
-
-#: 198758357-0-30981
-msgctxt "198758357-0-30981"
-msgid "Restoration Master"
-msgstr "回復の達人"
-
-#: 132143172-0-30980
-msgctxt "132143172-0-30980"
-msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
-msgstr "残り体力が|cffffff30|r%未満の味方への回復力が<<1>>増加する。"
-
-#: 198758357-0-30980
-msgctxt "198758357-0-30980"
-msgid "Restoration Expert"
-msgstr "回復の熟練者"
-
-#: 132143172-0-30973
-msgctxt "132143172-0-30973"
-msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
-msgstr "完全にチャージした重攻撃を終えたあとに<<1>>の間治癒力(強)を得て、自分の行う治癒の効果が<<2>>増加する。\r\n\r\nまた、完全にチャージした重攻撃の最後の一発で与えたダメージの<<3>>%分、自身か対象の近くの味方を治癒する。"
-
-#: 198758357-0-30973
-msgctxt "198758357-0-30973"
-msgid "Essence Drain"
-msgstr "エッセンスドレイン"
-
-#: 132143172-0-30972
-msgctxt "132143172-0-30972"
-msgid "Your fully-charged Heavy Attacks restore <<1>>% more Magicka."
-msgstr "完全にチャージした重攻撃がマジカをさらに<<1>>%回復する。"
-
-#: 198758357-0-30972
-msgctxt "198758357-0-30972"
-msgid "Cycle of Life"
-msgstr "生命の環"
-
-#: 132143172-0-30869
-msgctxt "132143172-0-30869"
+#: 132143172-0-45521
+msgctxt "132143172-0-45521"
 msgid "Restores <<1>> Magicka when you block a spell."
 msgstr "呪文を防御すると<<1>>マジカ回復する。"
 
-#: 198758357-0-30869
-msgctxt "198758357-0-30869"
+#: 198758357-0-45521
+msgctxt "198758357-0-45521"
 msgid "Absorb"
 msgstr "吸収"
 
-#: 132143172-0-28536
-msgctxt "132143172-0-28536"
-msgid "Share your staff's life-giving energy, healing you or a nearby ally for <<1>> Health over <<2>>."
-msgstr "杖が持つ生命エネルギーを共有して、自身と近くの味方の体力を<<1>>、<<2>>の間回復する。"
+#: 132143172-0-45520
+msgctxt "132143172-0-45520"
+msgid "Your fully-charged Heavy Attacks restore <<1>> more Magicka."
+msgstr "完全にチャージした重攻撃がマジカを<<1>>多く回復する。"
 
-#: 198758357-0-28536
-msgctxt "198758357-0-28536"
-msgid "Regeneration"
-msgstr "再生"
+#: 198758357-0-45520
+msgctxt "198758357-0-45520"
+msgid "Cycle of Life"
+msgstr "生命の環"
+
+#: 132143172-0-40116
+msgctxt "132143172-0-40116"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nWhen you or an ally is healed by <<1>>, they gain <<5>>, which increases their Movement Speed by |cffffff10|r% for <<6>>."
+msgstr "杖の力を集中させ、敵に<<1>>を<<2>>の間付与する。ダメージを与える度に、自身と味方は体力を<<3>>、<<4>>ごとに回復する。\r\n\r\n自身か味方が<<1>>によって回復すると<<5>>を得て、移動速度が|cffffff10|r%、<<6>>の間上昇する。"
+
+#: 198758357-0-40116
+msgctxt "198758357-0-40116"
+msgid "Quick Siphon"
+msgstr "急速吸引"
 
 #: 132143172-0-28385
 msgctxt "132143172-0-28385"
@@ -290,3 +260,33 @@ msgstr "杖を使って回復の霊魂を召喚し、自身と範囲内にいる
 msgctxt "198758357-0-28385"
 msgid "Grand Healing"
 msgstr "マスヒーリング"
+
+#: 132143172-0-30972
+msgctxt "132143172-0-30972"
+msgid "Your fully-charged Heavy Attacks restore <<1>> more Magicka."
+msgstr "完全にチャージした重攻撃がマジカを<<1>>多く回復する。"
+
+#: 198758357-0-30972
+msgctxt "198758357-0-30972"
+msgid "Cycle of Life"
+msgstr "生命の環"
+
+#: 132143172-0-40094
+msgctxt "132143172-0-40094"
+msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>> and <<3>> increasing you and your allies' damage done by <<4>> and Physical Resistance and Spell Resistance by <<5>>  for <<6>>."
+msgstr "杖を叩きつけて祝福を発動し、自身と目の前の味方の体力を<<1>>回復する。\r\n\r\nさらに<<2>>と<<3>>を付与し、自身と味方の与ダメージが<<4>>、物理耐性と呪文耐性が<<5>>、<<6>>の間増加する。"
+
+#: 198758357-0-40094
+msgctxt "198758357-0-40094"
+msgid "Combat Prayer"
+msgstr "戦の祈り"
+
+#: 132143172-0-30973
+msgctxt "132143172-0-30973"
+msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
+msgstr "完全にチャージした重攻撃を終えたあとに<<1>>の間治癒力(強)を得て、自分の行う治癒の効果が<<2>>増加する。\r\n\r\nまた、完全にチャージした重攻撃の最後の一発で与えたダメージの<<3>>%分、自身か対象の近くの味方を治癒する。"
+
+#: 198758357-0-30973
+msgctxt "198758357-0-30973"
+msgid "Essence Drain"
+msgstr "エッセンスドレイン"

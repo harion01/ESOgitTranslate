@@ -21,46 +21,6 @@ msgctxt "198758357-0-45115"
 msgid "Dark Veil"
 msgstr "Dark Veil"
 
-#: 132143172-0-45103
-msgctxt "132143172-0-45103"
-msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
-msgstr "체력, 스태미나, 매지카 재생량이 <<1>> 증가합니다."
-
-#: 198758357-0-45103
-msgctxt "198758357-0-45103"
-msgid "Refreshing Shadows"
-msgstr "Refreshing Shadows"
-
-#: 132143172-0-45084
-msgctxt "132143172-0-45084"
-msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "슬롯에 있는 Shadow 어빌리티 한 개당 최대 체력이 <<1>> 증가합니다.\n\n현재 증가량:<<2>>"
-
-#: 198758357-0-45084
-msgctxt "198758357-0-45084"
-msgid "Dark Vigor"
-msgstr "Dark Vigor"
-
-#: 132143172-0-45071
-msgctxt "132143172-0-45071"
-msgid "Casting a Shadow ability grants you Major Resolve for |cffffff6|r seconds,  increasing your Physical and Spell Resistance by <<1>>. This duration is increased by |cffffff25|r% for each piece of Heavy Armor equipped.\n\nCurrent Bonus: <<2>>.\nCurrent Duration: <<3>>"
-msgstr "Shadow 어빌리티를 시전하면 Major Resolve 효과를 |cffffff6|r초 동안 얻어 물리 및 마법 저항력이 <<1>> 증가합니다. 착용한 중갑 한 부위당 지속 시간이 |cffffff25|r% 증가합니다.\n\n현재 증가량: <<2>>\n지속 시간: <<3>>"
-
-#: 198758357-0-45071
-msgctxt "198758357-0-45071"
-msgid "Shadow Barrier"
-msgstr "Shadow Barrier"
-
-#: 132143172-0-37475
-msgctxt "132143172-0-37475"
-msgid "Conceal two sinister traps, one at the targeted location and another next to you, which take |cffffff2|r seconds to arm and last for <<1>>.\n\nWhen each trap is triggered, a dark spirit is summoned to terrify up to |cffffff6|r enemies, causing them to cower in fear for <<2>>."
-msgstr "두개의 불길한 덫을 하나는 대상 지역에, 하나는 자신의 주위에 설치합니다. 덫은 |cffffff2|r초 후 활성화되며 <<1>> 동안 지속됩니다.\n\n덫이 발동되면 어둠의 정령이 소환되어 최대 |cffffff6|r명의 적을 <<2>> 동안 공포에 질려 도망가게 합니다."
-
-#: 198758357-0-37475
-msgctxt "198758357-0-37475"
-msgid "Manifestation of Terror"
-msgstr "Manifestation of Terror"
-
 #: 132143172-0-37470
 msgctxt "132143172-0-37470"
 msgid "Summon a dark spirit to terrify up to |cffffff6|r enemies, causing them to cower in fear for <<1>>."
@@ -70,46 +30,6 @@ msgstr "어둠의 정령을 소환해 최대 |cffffff6|r명의 적을 <<1>> 동�
 msgctxt "198758357-0-37470"
 msgid "Mass Hysteria"
 msgstr "Mass Hysteria"
-
-#: 132143172-0-36552
-msgctxt "132143172-0-36552"
-msgid "Increases the duration of your non-invisibility based Shadow abilities by <<1>>."
-msgstr "투명화 스킬을 제외한 Shadow 어빌리티의 지속 시간이 <<1>> 증가합니다."
-
-#: 198758357-0-36552
-msgctxt "198758357-0-36552"
-msgid "Dark Veil"
-msgstr "Dark Veil"
-
-#: 132143172-0-36549
-msgctxt "132143172-0-36549"
-msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
-msgstr "체력, 스태미나, 매지카 재생량이 <<1>> 증가합니다."
-
-#: 198758357-0-36549
-msgctxt "198758357-0-36549"
-msgid "Refreshing Shadows"
-msgstr "Refreshing Shadows"
-
-#: 132143172-0-36532
-msgctxt "132143172-0-36532"
-msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "슬롯에 있는 Shadow 어빌리티 한 개당 최대 체력이 <<1>> 증가합니다.\n\n현재 증가량:<<2>>"
-
-#: 198758357-0-36532
-msgctxt "198758357-0-36532"
-msgid "Dark Vigor"
-msgstr "Dark Vigor"
-
-#: 132143172-0-36493
-msgctxt "132143172-0-36493"
-msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>> while inside the ring and even after leaving it, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
-msgstr "주변에 그림자의 고리를 만들어 냅니다. 고리 안에 있는 적은 이동 속도가 <<1>> 감소하고 당신과 아군들은 <<2>> 효과를 얻어 받는 피해량이 <<3>> 감소합니다.\n\n범위 안의 아군은 |cffffffHidden Refresh|r 연계 효과를 발동시킬 수 있습니다. 연계효과를 발동하면 은신 상태가 되고, 이동 속도가 <<4>> 증가하고, 체력 <<5>>을 <<6>>에 걸쳐 회복합니다."
-
-#: 198758357-0-36493
-msgctxt "198758357-0-36493"
-msgid "Bolstering Darkness"
-msgstr "Bolstering Darkness"
 
 #: 132143172-0-36485
 msgctxt "132143172-0-36485"
@@ -121,55 +41,25 @@ msgctxt "198758357-0-36485"
 msgid "Veil of Blades"
 msgstr "Veil of Blades"
 
-#: 132143172-0-36049
-msgctxt "132143172-0-36049"
-msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nDeals <<3>> to enemies in the target area every <<4>>."
-msgstr "그림자 통로를 만들어 범위 내의 자신과 아군에게  이동 속도를 <<1>> 증가시키는 Major Expedition 효과를 부여합니다. 이 효과는 통로를 벗어난 뒤에도 <<2>> 동안 유지됩니다.\n\n대상 지역의 적들에게는 <<4>>마다 <<3>>를 줍니다."
+#: 132143172-0-37475
+msgctxt "132143172-0-37475"
+msgid "Conceal two sinister traps, one at the targeted location and another next to you, which take |cffffff2|r seconds to arm and last for <<1>>.\n\nWhen each trap is triggered, a dark spirit is summoned to terrify up to |cffffff6|r enemies, causing them to cower in fear for <<2>>."
+msgstr "두개의 불길한 덫을 하나는 대상 지역에, 하나는 자신의 주위에 설치합니다. 덫은 |cffffff2|r초 후 활성화되며 <<1>> 동안 지속됩니다.\n\n덫이 발동되면 어둠의 정령이 소환되어 최대 |cffffff6|r명의 적을 <<2>> 동안 공포에 질려 도망가게 합니다."
 
-#: 198758357-0-36049
-msgctxt "198758357-0-36049"
-msgid "Twisting Path"
-msgstr "Twisting Path"
+#: 198758357-0-37475
+msgctxt "198758357-0-37475"
+msgid "Manifestation of Terror"
+msgstr "Manifestation of Terror"
 
-#: 132143172-0-36028
-msgctxt "132143172-0-36028"
-msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nHeals <<3>> Health to you and allies in area every <<4>>."
-msgstr "그림자 통로를 만들어 범위 내의 자신과 아군에게  이동 속도를 <<1>> 증가시키는 Major Expedition 효과를 부여합니다. 이 효과는 통로를 벗어난 뒤에도 <<2>> 동안 유지됩니다.\n\n대상 지역의 자신과 아군을 <<4>>마다 <<3>>치유합니다."
+#: 132143172-0-25267
+msgctxt "132143172-0-25267"
+msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> from the flank stuns the enemy for <<3>> and sets them Off Balance.\n\nWhile slotted, your Movement Speed while Sneaking or invisible is increased by <<4>>."
+msgstr "적을 베어 <<1>>를 줍니다.\n\n은신 상태에서 <<2>> 어빌리티로 공격하면 적을 <<3>>동안 기절시키고 균형을 잃게 만듭니다.\n\n슬롯에 있으면 은신 중 이동 속도가 <<4>> 증가합니다."
 
-#: 198758357-0-36028
-msgctxt "198758357-0-36028"
-msgid "Refreshing Path"
-msgstr "Refreshing Path"
-
-#: 132143172-0-35441
-msgctxt "132143172-0-35441"
-msgid "Summon a shade version of yourself to stay in place and attack an enemy from range for <<1>>. \n\nThe shade shoots at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nWhile the shade is summoned, you can activate this ability again to teleport to the shade's location.\n\nThis ability scales with your highest offensive stats."
-msgstr "<<1>> 동안 자리에 머물며 원거리에서 적을 공격하는 그림자를 소환합니다. \n\n그림자의 공격은 <<2>>를 주며 적에게 <<3>>을 가해, 적이 가하는 피해를 <<5>>동안 <<4>> 낮춥니다 .\n\n그림자가 소환되어 있는 동안 어빌리티를 다시 사용해서 그림자의 위치로 순간이동할 수 있습니다.\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
-
-#: 198758357-0-35441
-msgctxt "198758357-0-35441"
-msgid "Shadow Image"
-msgstr "Shadow Image"
-
-#: 132143172-0-35434
-msgctxt "132143172-0-35434"
-msgid "Summon a shade versions of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>> and occasionally whirlwinds all enemies around it, dealing <<3>>. The shade's attacks inflict <<4>>, reducing the enemy's damage done by <<5>> for <<6>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "<<1>> 동안 자신의 편에서 적을 향해 싸우는 그림자를 소환합니다. \n\n그림자의 공격은 <<2>>를 주고 가끔 소용돌이를 돌아 주변의 모든 적에게 <<3>>를 줍니다. 그림자의 공격은 <<4>>를 가해, 적이 가하는 피해를 <<6>>동안 <<5>>낮춥니다 .\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
-
-#: 198758357-0-35434
-msgctxt "198758357-0-35434"
-msgid "Dark Shade"
-msgstr "Dark Shade"
-
-#: 132143172-0-33211
-msgctxt "132143172-0-33211"
-msgid "Summon a shade version of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "<<1>> 동안 자신의 편에서 적을 향해 싸우는 그림자를 소환합니다. \n\n그림자의 공격은 <<2>>를 주며 적에게 <<3>>을 가해, 적이 가하는 피해를 <<5>>동안 <<4>> 낮춥니다 .\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
-
-#: 198758357-0-33211
-msgctxt "198758357-0-33211"
-msgid "Summon Shade"
-msgstr "Summon Shade"
+#: 198758357-0-25267
+msgctxt "198758357-0-25267"
+msgid "Concealed Weapon"
+msgstr "Concealed Weapon"
 
 #: 132143172-0-33195
 msgctxt "132143172-0-33195"
@@ -181,15 +71,15 @@ msgctxt "198758357-0-33195"
 msgid "Path of Darkness"
 msgstr "Path of Darkness"
 
-#: 132143172-0-25411
-msgctxt "132143172-0-25411"
-msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>>, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
-msgstr "주변에 그림자의 고리를 만들어 냅니다. 고리 안에 있는 적은 이동 속도가 <<1>> 감소하고 당신과 아군들은 <<2>> 효과를 얻어 받는 피해량이 <<3>> 감소합니다.\n\n범위 안의 아군은 |cffffffHidden Refresh|r 연계 효과를 발동시킬 수 있습니다. 연계효과를 발동하면 은신 상태가 되고, 이동 속도가 <<4>> 증가하고, 체력 <<5>>을 <<6>>에 걸쳐 회복합니다."
+#: 132143172-0-25260
+msgctxt "132143172-0-25260"
+msgid "Slash an enemy, dealing <<1>>.  If you are flanking the enemy, shred through a small portion of their armor, reducing their Physical Resistance by <<2>> for <<3>>.\n\nAttacking with <<4>> from the flank stuns the enemy for <<5>> and sets them Off Balance."
+msgstr "적을 베어 <<1>> 를 줍니다. 만약 측면에서 적에게 피해를 준다면 적 갑옷을 부숴 그들의 물리저항력을 <<3>> 동안 <<2>> 만큼 감소시킵니다.\n\n측면에서 <<4>> 어빌리티로 공격하면 적을 <<5>> 동안 기절시키고 균형을 잃게 만듭니다."
 
-#: 198758357-0-25411
-msgctxt "198758357-0-25411"
-msgid "Consuming Darkness"
-msgstr "Consuming Darkness"
+#: 198758357-0-25260
+msgctxt "198758357-0-25260"
+msgid "Surprise Attack"
+msgstr "Surprise Attack"
 
 #: 132143172-0-25380
 msgctxt "132143172-0-25380"
@@ -201,6 +91,116 @@ msgctxt "198758357-0-25380"
 msgid "Shadowy Disguise"
 msgstr "Shadowy Disguise"
 
+#: 132143172-0-33211
+msgctxt "132143172-0-33211"
+msgid "Summon a shade version of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "<<1>> 동안 자신의 편에서 적을 향해 싸우는 그림자를 소환합니다. \n\n그림자의 공격은 <<2>>를 주며 적에게 <<3>>을 가해, 적이 가하는 피해를 <<5>>동안 <<4>> 낮춥니다 .\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
+
+#: 198758357-0-33211
+msgctxt "198758357-0-33211"
+msgid "Summon Shade"
+msgstr "Summon Shade"
+
+#: 132143172-0-36028
+msgctxt "132143172-0-36028"
+msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nHeals <<3>> Health to you and allies in area every <<4>>."
+msgstr "그림자 통로를 만들어 범위 내의 자신과 아군에게  이동 속도를 <<1>> 증가시키는 Major Expedition 효과를 부여합니다. 이 효과는 통로를 벗어난 뒤에도 <<2>> 동안 유지됩니다.\n\n대상 지역의 자신과 아군을 <<4>>마다 <<3>>치유합니다."
+
+#: 198758357-0-36028
+msgctxt "198758357-0-36028"
+msgid "Refreshing Path"
+msgstr "Refreshing Path"
+
+#: 132143172-0-35434
+msgctxt "132143172-0-35434"
+msgid "Summon a shade version of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>> and occasionally whirlwinds all enemies around it, dealing <<3>>. The shade's attacks inflict <<4>>, reducing the enemy's damage done by <<5>> for <<6>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "<<1>> 동안 자신의 편에서 적을 향해 싸우는 그림자를 소환합니다. \n\n그림자의 공격은 <<2>>를 주고 가끔 소용돌이를 돌아 주변의 모든 적에게 <<3>>를 줍니다. 그림자의 공격은 <<4>>를 가해, 적이 가하는 피해를 <<6>>동안 <<5>>낮춥니다 .\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
+
+#: 198758357-0-35434
+msgctxt "198758357-0-35434"
+msgid "Dark Shade"
+msgstr "Dark Shade"
+
+#: 132143172-0-36049
+msgctxt "132143172-0-36049"
+msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nDeals <<3>> to enemies in the target area every <<4>>."
+msgstr "그림자 통로를 만들어 범위 내의 자신과 아군에게  이동 속도를 <<1>> 증가시키는 Major Expedition 효과를 부여합니다. 이 효과는 통로를 벗어난 뒤에도 <<2>> 동안 유지됩니다.\n\n대상 지역의 적들에게는 <<4>>마다 <<3>>를 줍니다."
+
+#: 198758357-0-36049
+msgctxt "198758357-0-36049"
+msgid "Twisting Path"
+msgstr "Twisting Path"
+
+#: 132143172-0-45071
+msgctxt "132143172-0-45071"
+msgid "Casting a Shadow ability grants you Major Resolve for |cffffff6|r seconds,  increasing your Physical and Spell Resistance by <<1>>. This duration is increased by |cffffff25|r% for each piece of Heavy Armor equipped.\n\nCurrent Bonus: <<2>>.\nCurrent Duration: <<3>>"
+msgstr "Shadow 어빌리티를 시전하면 Major Resolve 효과를 |cffffff6|r초 동안 얻어 물리 및 마법 저항력이 <<1>> 증가합니다. 착용한 중갑 한 부위당 지속 시간이 |cffffff25|r% 증가합니다.\n\n현재 증가량: <<2>>\n지속 시간: <<3>>"
+
+#: 198758357-0-45071
+msgctxt "198758357-0-45071"
+msgid "Shadow Barrier"
+msgstr "Shadow Barrier"
+
+#: 132143172-0-36549
+msgctxt "132143172-0-36549"
+msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
+msgstr "체력, 스태미나, 매지카 재생량이 <<1>> 증가합니다."
+
+#: 198758357-0-36549
+msgctxt "198758357-0-36549"
+msgid "Refreshing Shadows"
+msgstr "Refreshing Shadows"
+
+#: 132143172-0-36493
+msgctxt "132143172-0-36493"
+msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>> while inside the ring and even after leaving it, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
+msgstr "주변에 그림자의 고리를 만들어 냅니다. 고리 안에 있는 적은 이동 속도가 <<1>> 감소하고 당신과 아군들은 <<2>> 효과를 얻어 받는 피해량이 <<3>> 감소합니다.\n\n범위 안의 아군은 |cffffffHidden Refresh|r 연계 효과를 발동시킬 수 있습니다. 연계효과를 발동하면 은신 상태가 되고, 이동 속도가 <<4>> 증가하고, 체력 <<5>>을 <<6>>에 걸쳐 회복합니다."
+
+#: 198758357-0-36493
+msgctxt "198758357-0-36493"
+msgid "Bolstering Darkness"
+msgstr "Bolstering Darkness"
+
+#: 132143172-0-45103
+msgctxt "132143172-0-45103"
+msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
+msgstr "체력, 스태미나, 매지카 재생량이 <<1>> 증가합니다."
+
+#: 198758357-0-45103
+msgctxt "198758357-0-45103"
+msgid "Refreshing Shadows"
+msgstr "Refreshing Shadows"
+
+#: 132143172-0-36552
+msgctxt "132143172-0-36552"
+msgid "Increases the duration of your non-invisibility based Shadow abilities by <<1>>."
+msgstr "투명화 스킬을 제외한 Shadow 어빌리티의 지속 시간이 <<1>> 증가합니다."
+
+#: 198758357-0-36552
+msgctxt "198758357-0-36552"
+msgid "Dark Veil"
+msgstr "Dark Veil"
+
+#: 132143172-0-25411
+msgctxt "132143172-0-25411"
+msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>>, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
+msgstr "주변에 그림자의 고리를 만들어 냅니다. 고리 안에 있는 적은 이동 속도가 <<1>> 감소하고 당신과 아군들은 <<2>> 효과를 얻어 받는 피해량이 <<3>> 감소합니다.\n\n범위 안의 아군은 |cffffffHidden Refresh|r 연계 효과를 발동시킬 수 있습니다. 연계효과를 발동하면 은신 상태가 되고, 이동 속도가 <<4>> 증가하고, 체력 <<5>>을 <<6>>에 걸쳐 회복합니다."
+
+#: 198758357-0-25411
+msgctxt "198758357-0-25411"
+msgid "Consuming Darkness"
+msgstr "Consuming Darkness"
+
+#: 132143172-0-35441
+msgctxt "132143172-0-35441"
+msgid "Summon a shade version of yourself to stay in place and attack an enemy from range for <<1>>. \n\nThe shade shoots at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nWhile the shade is summoned, you can activate this ability again to teleport to the shade's location.\n\nThis ability scales with your highest offensive stats."
+msgstr "<<1>> 동안 자리에 머물며 원거리에서 적을 공격하는 그림자를 소환합니다. \n\n그림자의 공격은 <<2>>를 주며 적에게 <<3>>을 가해, 적이 가하는 피해를 <<5>>동안 <<4>> 낮춥니다 .\n\n그림자가 소환되어 있는 동안 어빌리티를 다시 사용해서 그림자의 위치로 순간이동할 수 있습니다.\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
+
+#: 198758357-0-35441
+msgctxt "198758357-0-35441"
+msgid "Shadow Image"
+msgstr "Shadow Image"
+
 #: 132143172-0-25377
 msgctxt "132143172-0-25377"
 msgid "Shroud yourself in protective shadow to heal for <<1>> every <<2>>, over <<3>>.  This portion of the ability scales off your Max Health.\n\nYou gain Minor Protection while shrouded, reducing your damage taken by <<4>>."
@@ -210,16 +210,6 @@ msgstr "그림자로 몸을 감싸 매<<2>>마다 <<3>>동안  <<1>>만큼 회�
 msgctxt "198758357-0-25377"
 msgid "Dark Cloak"
 msgstr "Dark Cloak"
-
-#: 132143172-0-25375
-msgctxt "132143172-0-25375"
-msgid "Cloak yourself in shadow to become invisible for <<1>>."
-msgstr "그림자에 몸을 숨겨 <<1>> 동안 은신상태가 됩니다."
-
-#: 198758357-0-25375
-msgctxt "198758357-0-25375"
-msgid "Shadow Cloak"
-msgstr "Shadow Cloak"
 
 #: 132143172-0-25352
 msgctxt "132143172-0-25352"
@@ -231,35 +221,35 @@ msgctxt "198758357-0-25352"
 msgid "Aspect of Terror"
 msgstr "Aspect of Terror"
 
-#: 132143172-0-25267
-msgctxt "132143172-0-25267"
-msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> while Sneaking or invisible stuns the enemy for <<3>> and sets them Off Balance.\n\nWhile slotted, your Movement Speed while Sneaking or invisible is increased by <<4>>."
-msgstr "적을 베어 <<1>>를 줍니다.\n\n은신 상태에서 <<2>> 어빌리티로 공격하면 적을 <<3>>동안 기절시키고 균형을 잃게 만듭니다.\n\n슬롯에 있으면 은신 중 이동 속도가 <<4>> 증가합니다."
-
-#: 198758357-0-25267
-msgctxt "198758357-0-25267"
-msgid "Concealed Weapon"
-msgstr "Concealed Weapon"
-
-#: 132143172-0-25260
-msgctxt "132143172-0-25260"
-msgid "Slash an enemy, dealing <<1>>.  If you are flanking the enemy, shred through a small portion of their armor, reducing their Physical Resistance by <<2>> for <<3>>.\n\nAttacking with <<4>> while Sneaking or invisible stuns the enemy for <<5>> and sets them Off Balance."
-msgstr "적을 베어 <<1>> 를 줍니다. 만약 측면에서 적에게 피해를 준다면 적 갑옷을 부숴 그들의 물리저항력을 <<3>> 동안 <<2>> 만큼 감소시킵니다.\n\n은신 상태에서 <<4>> 어빌리티로 공격하면 적을 <<5>> 동안 기절시키고 균형을 잃게 만듭니다."
-
-#: 198758357-0-25260
-msgctxt "198758357-0-25260"
-msgid "Surprise Attack"
-msgstr "Surprise Attack"
-
 #: 132143172-0-25255
 msgctxt "132143172-0-25255"
-msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> while Sneaking or invisible stuns the enemy  for <<3>> and sets them Off Balance."
-msgstr "적을 베어 <<1>>를 줍니다.\n\n은신 상태에서 <<2>> 어빌리티로 공격하면 <<3>>동안 적을 기절시키고 균형을 잃게 만듭니다."
+msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> from the flank stuns the enemy  for <<3>> and sets them Off Balance."
+msgstr "적을 베어 <<1>>를 줍니다.\n\n측면에서 <<2>> 어빌리티로 공격하면 <<3>>동안 적을 기절시키고 균형을 잃게 만듭니다."
 
 #: 198758357-0-25255
 msgctxt "198758357-0-25255"
 msgid "Veiled Strike"
 msgstr "Veiled Strike"
+
+#: 132143172-0-25375
+msgctxt "132143172-0-25375"
+msgid "Cloak yourself in shadow to become invisible for <<1>>."
+msgstr "그림자에 몸을 숨겨 <<1>> 동안 은신상태가 됩니다."
+
+#: 198758357-0-25375
+msgctxt "198758357-0-25375"
+msgid "Shadow Cloak"
+msgstr "Shadow Cloak"
+
+#: 132143172-0-36532
+msgctxt "132143172-0-36532"
+msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "슬롯에 있는 Shadow 어빌리티 한 개당 최대 체력이 <<1>> 증가합니다.\n\n현재 증가량:<<2>>"
+
+#: 198758357-0-36532
+msgctxt "198758357-0-36532"
+msgid "Dark Vigor"
+msgstr "Dark Vigor"
 
 #: 132143172-0-18866
 msgctxt "132143172-0-18866"
@@ -270,3 +260,13 @@ msgstr "Shadow 어빌리티를 시전하면 Major Resolve 효과를 |cffffff3|r�
 msgctxt "198758357-0-18866"
 msgid "Shadow Barrier"
 msgstr "Shadow Barrier"
+
+#: 132143172-0-45084
+msgctxt "132143172-0-45084"
+msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "슬롯에 있는 Shadow 어빌리티 한 개당 최대 체력이 <<1>> 증가합니다.\n\n현재 증가량:<<2>>"
+
+#: 198758357-0-45084
+msgctxt "198758357-0-45084"
+msgid "Dark Vigor"
+msgstr "Dark Vigor"

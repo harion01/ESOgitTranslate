@@ -11,113 +11,13 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-70045
-msgctxt "132143172-0-70045"
-msgid "Allows the use of Rejera, Repora, Jehade, and Itade Potency Runestones to make Glyphs of Champion 150 and 160."
-msgstr "레제라, 레포라, 제하데 그리고 이타데 포텐시 룬스톤을 사용하여 챔피언 레벨 150과 챔피언 레벨 160 글리프를 제작할 수 있게 됩니다."
+#: 132143172-0-46767
+msgctxt "132143172-0-46767"
+msgid "Increases the chance of extracting each type of Runestone by 3%."
+msgstr "각 유형의 룬스톤을 추출할 확률이 3% 증가합니다."
 
-#: 198758357-0-70045
-msgctxt "198758357-0-70045"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"
-
-#: 132143172-0-49114
-msgctxt "132143172-0-49114"
-msgid "Allows the use of Kura and Kude Potency Runestones to make Glyphs of Champion 100-140."
-msgstr "쿠라와 쿠데 포텐시 룬스톤을 사용하여 챔피언 레벨 100 ~ 챔피언 레벨 140까지의 룬스톤을 제작할 수 있게 됩니다."
-
-#: 198758357-0-49114
-msgctxt "198758357-0-49114"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"
-
-#: 132143172-0-49113
-msgctxt "132143172-0-49113"
-msgid "Allows the use of Rekura and Rede Potency Runestones to make Glyphs of Champion 70-90."
-msgstr "레쿠라와 레데 포텐시 룬스톤을 사용하여 챔피언 레벨 70 ~ 챔피언 레벨 90까지의 글리프를 제작할 수 있게 됩니다."
-
-#: 198758357-0-49113
-msgctxt "198758357-0-49113"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"
-
-#: 132143172-0-49112
-msgctxt "132143172-0-49112"
-msgid "Allows the use of Derado and Kedeko Potency Runestones to make Glyphs of Champion 50-70."
-msgstr "데라도와 케데코 포텐시 룬스톤을 사용하여 챔피언 레벨 50 ~ 챔피언 레벨 70까지의 글리프를 제작할 수 있게 됩니다."
-
-#: 198758357-0-49112
-msgctxt "198758357-0-49112"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"
-
-#: 132143172-0-47853
-msgctxt "132143172-0-47853"
-msgid "Runes in the world will be easier to see when you are <<1>> or closer."
-msgstr "<<1>> 이상 가까워지면 세계의 룬을 더 쉽게 볼 수 있습니다."
-
-#: 198758357-0-47853
-msgctxt "198758357-0-47853"
-msgid "Keen Eye: Rune Stones"
-msgstr "Keen Eye: Rune Stones"
-
-#: 132143172-0-47852
-msgctxt "132143172-0-47852"
-msgid "Runes in the world will be easier to see when you are <<1>> or closer."
-msgstr "<<1>> 이상 가까워지면 세계의 룬을 더 쉽게 볼 수 있습니다."
-
-#: 198758357-0-47852
-msgctxt "198758357-0-47852"
-msgid "Keen Eye: Rune Stones"
-msgstr "Keen Eye: Rune Stones"
-
-#: 132143172-0-47851
-msgctxt "132143172-0-47851"
-msgid "Runes in the world will be easier to see when you are <<1>> or closer."
-msgstr "<<1>> 이상 가까워지면 세계의 룬을 더 쉽게 볼 수 있습니다."
-
-#: 198758357-0-47851
-msgctxt "198758357-0-47851"
-msgid "Keen Eye: Rune Stones"
-msgstr "Keen Eye: Rune Stones"
-
-#: 132143172-0-46772
-msgctxt "132143172-0-46772"
-msgid "An Enchanter hireling will search for resources for you. \nA new delivery from your hireling can be claimed the next time you log in or change zones, provided it has been no less than twelve hours since the last bundle."
-msgstr "마법부여가 고용인이 자원을 찾아 줄 것입니다.\n고용인으로부터 오는 새 배달품은 다음 번에 로그인했을 때나 지역을 이동할 때 받을 수 있습니다. 마지막 꾸러미를 받은 이후 12시간이 경과해야 합니다."
-
-#: 198758357-0-46772
-msgctxt "198758357-0-46772"
-msgid "Hireling"
-msgstr "Hireling"
-
-#: 132143172-0-46771
-msgctxt "132143172-0-46771"
-msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours. Your hireling has a good chance of finding rarer Runestones."
-msgstr "오프라인 상태일 때, 고용인이 룬스톤을 찾아 줄 것입니다. 24시간마다 다시 채워집니다. 희귀 룬스톤을 발견할 확률이 증가합니다."
-
-#: 198758357-0-46771
-msgctxt "198758357-0-46771"
-msgid "Hireling"
-msgstr "Hireling"
-
-#: 132143172-0-46770
-msgctxt "132143172-0-46770"
-msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours."
-msgstr "오프라인 상태일 때, 고용인이 룬스톤을 찾아 줄 것입니다. 24시간마다 다시 채워집니다."
-
-#: 198758357-0-46770
-msgctxt "198758357-0-46770"
-msgid "Hireling"
-msgstr "Hireling"
-
-#: 132143172-0-46769
-msgctxt "132143172-0-46769"
-msgid "Increases the chance of extracting each type of Runestone by 10%."
-msgstr "각 유형의 룬스톤을 추출할 확률이 10% 증가합니다."
-
-#: 198758357-0-46769
-msgctxt "198758357-0-46769"
+#: 198758357-0-46767
+msgctxt "198758357-0-46767"
 msgid "Runestone Extraction"
 msgstr "Runestone Extraction"
 
@@ -131,42 +31,62 @@ msgctxt "198758357-0-46768"
 msgid "Runestone Extraction"
 msgstr "Runestone Extraction"
 
-#: 132143172-0-46767
-msgctxt "132143172-0-46767"
-msgid "Increases the chance of extracting each type of Runestone by 3%."
-msgstr "각 유형의 룬스톤을 추출할 확률이 3% 증가합니다."
+#: 132143172-0-47852
+msgctxt "132143172-0-47852"
+msgid "Runes in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>> 이상 가까워지면 세계의 룬을 더 쉽게 볼 수 있습니다."
 
-#: 198758357-0-46767
-msgctxt "198758357-0-46767"
+#: 198758357-0-47852
+msgctxt "198758357-0-47852"
+msgid "Keen Eye: Rune Stones"
+msgstr "Keen Eye: Rune Stones"
+
+#: 132143172-0-47853
+msgctxt "132143172-0-47853"
+msgid "Runes in the world will be easier to see when you are <<1>> or closer."
+msgstr "<<1>> 이상 가까워지면 세계의 룬을 더 쉽게 볼 수 있습니다."
+
+#: 198758357-0-47853
+msgctxt "198758357-0-47853"
+msgid "Keen Eye: Rune Stones"
+msgstr "Keen Eye: Rune Stones"
+
+#: 132143172-0-46772
+msgctxt "132143172-0-46772"
+msgid "An Enchanter hireling will search for resources for you. \nA new delivery from your hireling can be claimed the next time you log in or change zones, provided it has been no less than twelve hours since the last bundle."
+msgstr "마법부여가 고용인이 자원을 찾아 줄 것입니다.\n고용인으로부터 오는 새 배달품은 다음 번에 로그인했을 때나 지역을 이동할 때 받을 수 있습니다. 마지막 꾸러미를 받은 이후 12시간이 경과해야 합니다."
+
+#: 198758357-0-46772
+msgctxt "198758357-0-46772"
+msgid "Hireling"
+msgstr "Hireling"
+
+#: 132143172-0-46770
+msgctxt "132143172-0-46770"
+msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours."
+msgstr "오프라인 상태일 때, 고용인이 룬스톤을 찾아 줄 것입니다. 24시간마다 다시 채워집니다."
+
+#: 198758357-0-46770
+msgctxt "198758357-0-46770"
+msgid "Hireling"
+msgstr "Hireling"
+
+#: 132143172-0-46771
+msgctxt "132143172-0-46771"
+msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours. Your hireling has a good chance of finding rarer Runestones."
+msgstr "오프라인 상태일 때, 고용인이 룬스톤을 찾아 줄 것입니다. 24시간마다 다시 채워집니다. 희귀 룬스톤을 발견할 확률이 증가합니다."
+
+#: 198758357-0-46771
+msgctxt "198758357-0-46771"
+msgid "Hireling"
+msgstr "Hireling"
+
+#: 132143172-0-46769
+msgctxt "132143172-0-46769"
+msgid "Increases the chance of extracting each type of Runestone by 10%."
+msgstr "각 유형의 룬스톤을 추출할 확률이 10% 증가합니다."
+
+#: 198758357-0-46769
+msgctxt "198758357-0-46769"
 msgid "Runestone Extraction"
 msgstr "Runestone Extraction"
-
-#: 132143172-0-46740
-msgctxt "132143172-0-46740"
-msgid "Allows the use of Rera and Pode Potency Runestones to make Glyphs of Champion 30-50."
-msgstr "레라와 포데 포텐시 룬스톤을 사용하여 챔피언 레벨 30 ~ 챔피언 레벨 50까지의 글리프를 제작할 수 있게 됩니다."
-
-#: 198758357-0-46740
-msgctxt "198758357-0-46740"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"
-
-#: 132143172-0-46736
-msgctxt "132143172-0-46736"
-msgid "Allows the use of Pora, Denara, Hade and Idode Potency Runestones to make Glyphs from level 40 to Champion 30."
-msgstr "포라, 데나라, 하데 그리고 이도데 포텐시 룬스톤을 사용하여 레벨 40 ~ 챔피언 레벨 30까지의 글리프를 제작할 수 있게 됩니다."
-
-#: 198758357-0-46736
-msgctxt "198758357-0-46736"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"
-
-#: 132143172-0-46735
-msgctxt "132143172-0-46735"
-msgid "Allows the use of Edora, Jaera, Pojode, and Rekude Potency Runestones to make Glyphs of levels 30-45."
-msgstr "에도라, 자에라, 포조데 그리고 레쿠데 포텐시 룬스톤을 사용하여 레벨 30 ~ 레벨 45까지의 글리프를 제작할 수 있게 됩니다."
-
-#: 198758357-0-46735
-msgctxt "198758357-0-46735"
-msgid "Potency Improvement"
-msgstr "Potency Improvement"

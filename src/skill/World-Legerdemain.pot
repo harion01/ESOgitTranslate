@@ -11,74 +11,24 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-63818
-msgctxt "132143172-0-63818"
-msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
+#: 132143172-0-63810
+msgctxt "132143172-0-63810"
+msgid "Increases the number of fence interactions you can use each day by <<1>>."
 msgstr ""
 
-#: 198758357-0-63818
-msgctxt "198758357-0-63818"
-msgid "Kickback"
+#: 198758357-0-63810
+msgctxt "198758357-0-63810"
+msgid "Trafficker"
 msgstr ""
 
-#: 132143172-0-63817
-msgctxt "132143172-0-63817"
-msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
+#: 132143172-0-63799
+msgctxt "132143172-0-63799"
+msgid "Reduces the cost of Sneak by <<1>>."
 msgstr ""
 
-#: 198758357-0-63817
-msgctxt "198758357-0-63817"
-msgid "Kickback"
-msgstr ""
-
-#: 132143172-0-63816
-msgctxt "132143172-0-63816"
-msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
-msgstr ""
-
-#: 198758357-0-63816
-msgctxt "198758357-0-63816"
-msgid "Kickback"
-msgstr ""
-
-#: 132143172-0-63815
-msgctxt "132143172-0-63815"
-msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
-msgstr ""
-
-#: 198758357-0-63815
-msgctxt "198758357-0-63815"
-msgid "Kickback"
-msgstr ""
-
-#: 132143172-0-63814
-msgctxt "132143172-0-63814"
-msgid "Improves your chances of forcing locks by <<1>>."
-msgstr ""
-
-#: 198758357-0-63814
-msgctxt "198758357-0-63814"
-msgid "Locksmith"
-msgstr ""
-
-#: 132143172-0-63813
-msgctxt "132143172-0-63813"
-msgid "Improves your chances of forcing locks by <<1>>."
-msgstr ""
-
-#: 198758357-0-63813
-msgctxt "198758357-0-63813"
-msgid "Locksmith"
-msgstr ""
-
-#: 132143172-0-63812
-msgctxt "132143172-0-63812"
-msgid "Improves your chances of forcing locks by <<1>>."
-msgstr ""
-
-#: 198758357-0-63812
-msgctxt "198758357-0-63812"
-msgid "Locksmith"
+#: 198758357-0-63799
+msgctxt "198758357-0-63799"
+msgid "Improved Hiding"
 msgstr ""
 
 #: 132143172-0-63811
@@ -91,23 +41,153 @@ msgctxt "198758357-0-63811"
 msgid "Locksmith"
 msgstr ""
 
-#: 132143172-0-63810
-msgctxt "132143172-0-63810"
+#: 132143172-0-63800
+msgctxt "132143172-0-63800"
+msgid "Reduces the cost of Sneak by <<1>>."
+msgstr ""
+
+#: 198758357-0-63800
+msgctxt "198758357-0-63800"
+msgid "Improved Hiding"
+msgstr ""
+
+#: 132143172-0-63812
+msgctxt "132143172-0-63812"
+msgid "Improves your chances of forcing locks by <<1>>."
+msgstr ""
+
+#: 198758357-0-63812
+msgctxt "198758357-0-63812"
+msgid "Locksmith"
+msgstr ""
+
+#: 132143172-0-63801
+msgctxt "132143172-0-63801"
+msgid "Reduces the cost of Sneak by <<1>>."
+msgstr ""
+
+#: 198758357-0-63801
+msgctxt "198758357-0-63801"
+msgid "Improved Hiding"
+msgstr ""
+
+#: 132143172-0-63813
+msgctxt "132143172-0-63813"
+msgid "Improves your chances of forcing locks by <<1>>."
+msgstr ""
+
+#: 198758357-0-63813
+msgctxt "198758357-0-63813"
+msgid "Locksmith"
+msgstr ""
+
+#: 132143172-0-63802
+msgctxt "132143172-0-63802"
+msgid "Reduces the cost of Sneak by <<1>>."
+msgstr ""
+
+#: 198758357-0-63802
+msgctxt "198758357-0-63802"
+msgid "Improved Hiding"
+msgstr ""
+
+#: 132143172-0-63814
+msgctxt "132143172-0-63814"
+msgid "Improves your chances of forcing locks by <<1>>."
+msgstr ""
+
+#: 198758357-0-63814
+msgctxt "198758357-0-63814"
+msgid "Locksmith"
+msgstr ""
+
+#: 132143172-0-63803
+msgctxt "132143172-0-63803"
+msgid "Increases your chance of successfully Pickpocketing by <<1>>."
+msgstr ""
+
+#: 198758357-0-63803
+msgctxt "198758357-0-63803"
+msgid "Light Fingers"
+msgstr ""
+
+#: 132143172-0-63815
+msgctxt "132143172-0-63815"
+msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
+msgstr ""
+
+#: 198758357-0-63815
+msgctxt "198758357-0-63815"
+msgid "Kickback"
+msgstr ""
+
+#: 132143172-0-63804
+msgctxt "132143172-0-63804"
+msgid "Increases your chance of successfully Pickpocketing by <<1>>."
+msgstr ""
+
+#: 198758357-0-63804
+msgctxt "198758357-0-63804"
+msgid "Light Fingers"
+msgstr ""
+
+#: 132143172-0-63816
+msgctxt "132143172-0-63816"
+msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
+msgstr ""
+
+#: 198758357-0-63816
+msgctxt "198758357-0-63816"
+msgid "Kickback"
+msgstr ""
+
+#: 132143172-0-63805
+msgctxt "132143172-0-63805"
+msgid "Increases your chances of successfully Pickpocketing by <<1>>"
+msgstr ""
+
+#: 198758357-0-63805
+msgctxt "198758357-0-63805"
+msgid "Light Fingers"
+msgstr ""
+
+#: 132143172-0-63817
+msgctxt "132143172-0-63817"
+msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
+msgstr ""
+
+#: 198758357-0-63817
+msgctxt "198758357-0-63817"
+msgid "Kickback"
+msgstr ""
+
+#: 132143172-0-63806
+msgctxt "132143172-0-63806"
+msgid "Increases your chances of successfully Pickpocketing by <<1>>"
+msgstr ""
+
+#: 198758357-0-63806
+msgctxt "198758357-0-63806"
+msgid "Light Fingers"
+msgstr ""
+
+#: 132143172-0-63818
+msgctxt "132143172-0-63818"
+msgid "Reduces bounties you willingly pay to guards and fences by <<1>>."
+msgstr ""
+
+#: 198758357-0-63818
+msgctxt "198758357-0-63818"
+msgid "Kickback"
+msgstr ""
+
+#: 132143172-0-63807
+msgctxt "132143172-0-63807"
 msgid "Increases the number of fence interactions you can use each day by <<1>>."
 msgstr ""
 
-#: 198758357-0-63810
-msgctxt "198758357-0-63810"
-msgid "Trafficker"
-msgstr ""
-
-#: 132143172-0-63809
-msgctxt "132143172-0-63809"
-msgid "Increases the number of fence interactions you can use each day by <<1>>."
-msgstr ""
-
-#: 198758357-0-63809
-msgctxt "198758357-0-63809"
+#: 198758357-0-63807
+msgctxt "198758357-0-63807"
 msgid "Trafficker"
 msgstr ""
 
@@ -121,92 +201,12 @@ msgctxt "198758357-0-63808"
 msgid "Trafficker"
 msgstr ""
 
-#: 132143172-0-63807
-msgctxt "132143172-0-63807"
+#: 132143172-0-63809
+msgctxt "132143172-0-63809"
 msgid "Increases the number of fence interactions you can use each day by <<1>>."
 msgstr ""
 
-#: 198758357-0-63807
-msgctxt "198758357-0-63807"
+#: 198758357-0-63809
+msgctxt "198758357-0-63809"
 msgid "Trafficker"
-msgstr ""
-
-#: 132143172-0-63806
-msgctxt "132143172-0-63806"
-msgid "Increases your chances of successfully Pickpocketing by <<1>>"
-msgstr ""
-
-#: 198758357-0-63806
-msgctxt "198758357-0-63806"
-msgid "Light Fingers"
-msgstr ""
-
-#: 132143172-0-63805
-msgctxt "132143172-0-63805"
-msgid "Increases your chances of successfully Pickpocketing by <<1>>"
-msgstr ""
-
-#: 198758357-0-63805
-msgctxt "198758357-0-63805"
-msgid "Light Fingers"
-msgstr ""
-
-#: 132143172-0-63804
-msgctxt "132143172-0-63804"
-msgid "Increases your chance of successfully Pickpocketing by <<1>>."
-msgstr ""
-
-#: 198758357-0-63804
-msgctxt "198758357-0-63804"
-msgid "Light Fingers"
-msgstr ""
-
-#: 132143172-0-63803
-msgctxt "132143172-0-63803"
-msgid "Increases your chance of successfully Pickpocketing by <<1>>."
-msgstr ""
-
-#: 198758357-0-63803
-msgctxt "198758357-0-63803"
-msgid "Light Fingers"
-msgstr ""
-
-#: 132143172-0-63802
-msgctxt "132143172-0-63802"
-msgid "Reduces the cost of Sneak by <<1>>."
-msgstr ""
-
-#: 198758357-0-63802
-msgctxt "198758357-0-63802"
-msgid "Improved Hiding"
-msgstr ""
-
-#: 132143172-0-63801
-msgctxt "132143172-0-63801"
-msgid "Reduces the cost of Sneak by <<1>>."
-msgstr ""
-
-#: 198758357-0-63801
-msgctxt "198758357-0-63801"
-msgid "Improved Hiding"
-msgstr ""
-
-#: 132143172-0-63800
-msgctxt "132143172-0-63800"
-msgid "Reduces the cost of Sneak by <<1>>."
-msgstr ""
-
-#: 198758357-0-63800
-msgctxt "198758357-0-63800"
-msgid "Improved Hiding"
-msgstr ""
-
-#: 132143172-0-63799
-msgctxt "132143172-0-63799"
-msgid "Reduces the cost of Sneak by <<1>>."
-msgstr ""
-
-#: 198758357-0-63799
-msgctxt "198758357-0-63799"
-msgid "Improved Hiding"
 msgstr ""

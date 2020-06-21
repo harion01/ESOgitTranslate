@@ -11,20 +11,85 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 242841733-0-64467
-msgctxt "242841733-0-64467"
-msgid "Ash"
-msgstr "재 (Ash)"
+#: 242841733-0-166961
+msgctxt "242841733-0-166961"
+msgid "Stony Sliver"
+msgstr ""
+
+#: 242841733-0-57620
+msgctxt "242841733-0-57620"
+msgid "Charcoal"
+msgstr "숯덩이 (Charcoal)"
+
+#: 242841733-0-127105
+msgctxt "242841733-0-127105"
+msgid "Clockwork Oscillator"
+msgstr "시계태엽 발진기 (Clockwork Oscillator)"
+
+#: 242841733-0-54383
+msgctxt "242841733-0-54383"
+msgid "Daedra Husk"
+msgstr "데이드라 겉껍질 (Daedra Husk)"
+
+#: 242841733-0-54382
+msgctxt "242841733-0-54382"
+msgid "Carapace"
+msgstr "껍데기 (Carapace)"
+
+#: 242841733-0-54381
+msgctxt "242841733-0-54381"
+msgid "Foul Hide"
+msgstr "더러운 가죽 (Foul Hide)"
 
 #: 242841733-0-64210
 msgctxt "242841733-0-64210"
 msgid "Vampire Fang"
 msgstr "뱀파이어 송곳니 (Vampire Fang)"
 
-#: 242841733-0-42878
-msgctxt "242841733-0-42878"
-msgid "Used Bait"
-msgstr "사용된 미끼 (Used Bait)"
+#: 242841733-0-163427
+msgctxt "242841733-0-163427"
+msgid "Ruined Chaurus Egg"
+msgstr ""
+
+#: 242841733-0-57659
+msgctxt "242841733-0-57659"
+msgid "Gnawed Bone"
+msgstr "부식된 뼈 (Gnawed Bone)"
+
+#: 242841733-0-54387
+msgctxt "242841733-0-54387"
+msgid "Membrane"
+msgstr "피막 (Membrane)"
+
+#: 242841733-0-54386
+msgctxt "242841733-0-54386"
+msgid "Dwarven Gear"
+msgstr "드워븐 기어 (Dwarven Gear)"
+
+#: 242841733-0-54385
+msgctxt "242841733-0-54385"
+msgid "Elemental Essence"
+msgstr "원소의 정수 (Elemental Essence)"
+
+#: 242841733-0-54384
+msgctxt "242841733-0-54384"
+msgid "Ectoplasm"
+msgstr "심령체 (Ectoplasm)"
+
+#: 242841733-0-54388
+msgctxt "242841733-0-54388"
+msgid "Supple Root"
+msgstr "유연한 뿌리 (Supple Root)"
+
+#: 242841733-0-64209
+msgctxt "242841733-0-64209"
+msgid "Vampire Dust"
+msgstr "뱀파이어 가루 (Vampire Dust)"
+
+#: 242841733-0-64467
+msgctxt "242841733-0-64467"
+msgid "Ash"
+msgstr "재 (Ash)"
 
 #: 228378404-0-30332
 msgctxt "228378404-0-30332"
@@ -77,6 +142,16 @@ msgctxt "242841733-0-30328"
 msgid "Broken Shovel"
 msgstr "부서진 삽 (Broken Shovel)"
 
+#: 228378404-0-30325
+msgctxt "228378404-0-30325"
+msgid "The ink on this page is too faded to make out the words."
+msgstr "이 페이지의 잉크는 너무 번져서 알아볼 수 없습니다."
+
+#: 242841733-0-30325
+msgctxt "242841733-0-30325"
+msgid "Torn Page"
+msgstr "찢겨진 페이지 (Torn Page)"
+
 #: 228378404-0-30327
 msgctxt "228378404-0-30327"
 msgid "This wine bottle is empty."
@@ -97,77 +172,12 @@ msgctxt "242841733-0-30326"
 msgid "Tarnished Wedding Band"
 msgstr "변색된 결혼반지 (Tarnished Wedding Band)"
 
-#: 228378404-0-30325
-msgctxt "228378404-0-30325"
-msgid "The ink on this page is too faded to make out the words."
-msgstr "이 페이지의 잉크는 너무 번져서 알아볼 수 없습니다."
-
-#: 242841733-0-30325
-msgctxt "242841733-0-30325"
-msgid "Torn Page"
-msgstr "찢겨진 페이지 (Torn Page)"
-
-#: 242841733-0-127105
-msgctxt "242841733-0-127105"
-msgid "Clockwork Oscillator"
-msgstr "시계태엽 발진기 (Clockwork Oscillator)"
-
-#: 242841733-0-64209
-msgctxt "242841733-0-64209"
-msgid "Vampire Dust"
-msgstr "뱀파이어 가루 (Vampire Dust)"
-
-#: 242841733-0-57659
-msgctxt "242841733-0-57659"
-msgid "Gnawed Bone"
-msgstr "부식된 뼈 (Gnawed Bone)"
-
-#: 242841733-0-57620
-msgctxt "242841733-0-57620"
-msgid "Charcoal"
-msgstr "숯덩이 (Charcoal)"
-
-#: 242841733-0-54388
-msgctxt "242841733-0-54388"
-msgid "Supple Root"
-msgstr "유연한 뿌리 (Supple Root)"
-
-#: 242841733-0-54387
-msgctxt "242841733-0-54387"
-msgid "Membrane"
-msgstr "피막 (Membrane)"
-
-#: 242841733-0-54386
-msgctxt "242841733-0-54386"
-msgid "Dwarven Gear"
-msgstr "드워븐 기어 (Dwarven Gear)"
-
-#: 242841733-0-54385
-msgctxt "242841733-0-54385"
-msgid "Elemental Essence"
-msgstr "원소의 정수 (Elemental Essence)"
-
-#: 242841733-0-54384
-msgctxt "242841733-0-54384"
-msgid "Ectoplasm"
-msgstr "심령체 (Ectoplasm)"
-
-#: 242841733-0-54383
-msgctxt "242841733-0-54383"
-msgid "Daedra Husk"
-msgstr "데이드라 겉껍질 (Daedra Husk)"
-
-#: 242841733-0-54382
-msgctxt "242841733-0-54382"
-msgid "Carapace"
-msgstr "껍데기 (Carapace)"
-
-#: 242841733-0-54381
-msgctxt "242841733-0-54381"
-msgid "Foul Hide"
-msgstr "더러운 가죽 (Foul Hide)"
-
 #: 228378404-0-42878
 msgctxt "228378404-0-42878"
 msgid "There is no longer enough of this soggy bait to use for fishing."
 msgstr "이 질척거리는 미끼는 더 이상 낚시에 쓸 수 없습니다."
+
+#: 242841733-0-42878
+msgctxt "242841733-0-42878"
+msgid "Used Bait"
+msgstr "사용된 미끼 (Used Bait)"

@@ -11,103 +11,8 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-45135
-msgctxt "256430276-0-45135"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 256430276-0-45127
-msgctxt "256430276-0-45127"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
 #: 256430276-0-44808
 msgctxt "256430276-0-44808"
-msgid "Talk to Lilatha"
-msgstr "리라사와 대화하기"
-
-#: 121487972-0-12942
-msgctxt "121487972-0-12942"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12941
-msgctxt "121487972-0-12941"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12940
-msgctxt "121487972-0-12940"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12939
-msgctxt "121487972-0-12939"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12938
-msgctxt "121487972-0-12938"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12937
-msgctxt "121487972-0-12937"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12936
-msgctxt "121487972-0-12936"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12935
-msgctxt "121487972-0-12935"
-msgid "Sign Delivery Manifest"
-msgstr "화물 목록에 서명하기"
-
-#: 121487972-0-12777
-msgctxt "121487972-0-12777"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 121487972-0-12776
-msgctxt "121487972-0-12776"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 121487972-0-12775
-msgctxt "121487972-0-12775"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 121487972-0-12773
-msgctxt "121487972-0-12773"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 121487972-0-12772
-msgctxt "121487972-0-12772"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 121487972-0-12771
-msgctxt "121487972-0-12771"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 121487972-0-12676
-msgctxt "121487972-0-12676"
-msgid "Talk to Lilatha"
-msgstr "리라사와 대화하기"
-
-#: 121487972-0-12675
-msgctxt "121487972-0-12675"
-msgid "Talk to Lilatha"
-msgstr "리라사와 대화하기"
-
-#: 121487972-0-12674
-msgctxt "121487972-0-12674"
 msgid "Talk to Lilatha"
 msgstr "리라사와 대화하기"
 
@@ -116,7 +21,102 @@ msgctxt "121487972-0-12251"
 msgid "Talk to <<1>>"
 msgstr "<<1>>과 대화하기"
 
+#: 121487972-0-12773
+msgctxt "121487972-0-12773"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12674
+msgctxt "121487972-0-12674"
+msgid "Talk to Lilatha"
+msgstr "리라사와 대화하기"
+
+#: 121487972-0-12675
+msgctxt "121487972-0-12675"
+msgid "Talk to Lilatha"
+msgstr "리라사와 대화하기"
+
+#: 121487972-0-12771
+msgctxt "121487972-0-12771"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12772
+msgctxt "121487972-0-12772"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12942
+msgctxt "121487972-0-12942"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-12777
+msgctxt "121487972-0-12777"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12940
+msgctxt "121487972-0-12940"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-12775
+msgctxt "121487972-0-12775"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12676
+msgctxt "121487972-0-12676"
+msgid "Talk to Lilatha"
+msgstr "리라사와 대화하기"
+
 #: 121487972-0-12247
 msgctxt "121487972-0-12247"
 msgid "Talk to <<1>>"
 msgstr "<<1>>과 대화하기"
+
+#: 121487972-0-12941
+msgctxt "121487972-0-12941"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-12776
+msgctxt "121487972-0-12776"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 121487972-0-12935
+msgctxt "121487972-0-12935"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-12936
+msgctxt "121487972-0-12936"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 256430276-0-45127
+msgctxt "256430276-0-45127"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 256430276-0-45135
+msgctxt "256430276-0-45135"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 121487972-0-12939
+msgctxt "121487972-0-12939"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-12937
+msgctxt "121487972-0-12937"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"
+
+#: 121487972-0-12938
+msgctxt "121487972-0-12938"
+msgid "Sign Delivery Manifest"
+msgstr "화물 목록에 서명하기"

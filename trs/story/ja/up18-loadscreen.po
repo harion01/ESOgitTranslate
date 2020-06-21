@@ -11,15 +11,86 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 162658389-0-1079
+msgctxt "162658389-0-1079"
+msgid "Vakka-Bok Xanmeer"
+msgstr "バッカ・ボク・ザンミーア"
+
+#: 162658389-0-1078
+msgctxt "162658389-0-1078"
+msgid "Remnant of Argon"
+msgstr "アルゴンの名残"
+
+#: 162658389-0-1077
+msgctxt "162658389-0-1077"
+msgid "The Swallowed Grove"
+msgstr "呑まれた林"
+
+#: 162658389-0-1076
+msgctxt "162658389-0-1076"
+msgid "The Sunless Hollow"
+msgstr "亡陽洞"
+
+#: 162658389-0-1075
+msgctxt "162658389-0-1075"
+msgid "The Sunless Hollow"
+msgstr "亡陽洞"
+
+#: 162658389-0-1074
+msgctxt "162658389-0-1074"
+msgid "The Sunless Hollow"
+msgstr "亡陽洞"
+
 #: 70901198-0-719
 msgctxt "70901198-0-719"
 msgid "The Imperial Throne Room at the base of White-Gold Tower is one of the most important metaphysical foci in all the Mundus, so much so that it can almost be said to exist adjacent to all time and space in Aedric Creation."
 msgstr "白金の塔の地階にある帝国玉座の間は、全ムンダスで最も重要な形而上的フォシである。エドラ創世の昔から全ての時空間に隣接していたと言われるほどだ。"
 
-#: 162658389-0-1079
-msgctxt "162658389-0-1079"
-msgid "Vakka-Bok Xanmeer"
-msgstr "バッカ・ボク・ザンミーア"
+#: 70901198-0-1022
+msgctxt "70901198-0-1022"
+msgid "Long, long ago, for reasons most have forgotten, Clan Direnni left Summerset and relocated to Balfiera Isle in the Iliac Bay. Ownership of the clan's abandoned real estate above the Diren valley has been locked in Elvish litigation ever since."
+msgstr "遠い昔、理由は忘れ去られているが、クラン・ディレニはサマーセットを去ってイリアック湾のバルフィエラ島に拠点を移した。ディレン渓谷にあるクランの放棄された不動産の所有権は、それ以来ずっとエルフの訴訟の対象になっている。"
+
+#: 162658389-0-1022
+msgctxt "162658389-0-1022"
+msgid "Direnni Acropolis"
+msgstr "ディレニ・アクロポリス"
+
+#: 70901198-0-1021
+msgctxt "70901198-0-1021"
+msgid "The southern city of Sunhold serves as the home port of Summerset's famed Dominion Navy. But with the High Elven fleets over the horizon fighting the Alliance War, Sunhold remains virtually unprotected."
+msgstr "南部の都市サンホールドは、高名なドミニオン海軍の母港である。しかし、ハイエルフの艦隊は同盟戦争を戦うため地平線の彼方へ出発しているため、サンホールドの守りは事実上存在しない。"
+
+#: 162658389-0-1021
+msgctxt "162658389-0-1021"
+msgid "Sunhold"
+msgstr "サンホールド"
+
+#: 70901198-0-1020
+#, fuzzy
+msgctxt "70901198-0-1020"
+msgid """The most rigid and hidebound societies conceal the most illicit activity just below the surface. If you have tariffs and duties, you also will have smugglers who evade them. If one squeezes hard on a bladder wine-sack, the wine must spurt out somewhere, yes?"" —Razum-dar"
+msgstr "「最も厳格で偏狭な社会には、一皮剥けば不法な活動が隠れているものだ。関税と義務があれば、それを回避しようとする密売人がいる。ワインの袋を締め付ければ、どこかにワインがこぼれるものだろう？」—ラズム・ダー"
+
+#: 162658389-0-1020
+msgctxt "162658389-0-1020"
+msgid "Karnwasten"
+msgstr "カーンワステン"
+
+#: 70901198-0-1040
+msgctxt "70901198-0-1040"
+msgid "Evergloam, Nocturnal's ever-shifting domain of twilight and gloom, that somehow seems to be adjacent to every other realm of reality. In the dark, if you turn and look quickly, you can almost glimpse it."
+msgstr "エバーグロームは、ノクターナルの変動を続ける黄昏と薄暮の領域である。なぜか現実の領域と隣り合って感じられる。闇の中で素早く振り返れば、もう少しで見られるほどに。"
+
+#: 162658389-0-1040
+msgctxt "162658389-0-1040"
+msgid "Evergloam"
+msgstr "エバーグローム"
+
+#: 70901198-0-1061
+msgctxt "70901198-0-1061"
+msgid "Once a watering stop for the High Elf navy, this great cavernous grotto on the Summerset coast west of Dusk features shipboard compartments, magnificent Aldmeri ruins, weathered wood from several shipwrecks, and a sparkling subterranean waterfall."
+msgstr "以前はハイエルフ海軍の補給地点だった、ダスクの西にあるこのサマーセット沿岸の大洞窟は、船室、壮大なアルドメリ遺跡、難破船からの乾燥した木材、輝く地下の滝が特徴的だ。"
 
 #: 162658389-0-1061
 msgctxt "162658389-0-1061"
@@ -36,66 +107,25 @@ msgctxt "162658389-0-1060"
 msgid "Alinor Crest Townhouse"
 msgstr "アリノール高台の別邸"
 
-#: 70901198-0-1059
-msgctxt "70901198-0-1059"
-msgid "It's only a single room, but the advantage of this inn apartment is its unrivaled location, just steps from the gates of Alinor. That, and the rare prestige of an Alinor address!"
-msgstr "部屋はシングルでしかないが、この宿の利点は並ぶ者のない立地にある。アリノールの門から目と鼻の先にあるのだ。そして、住所をアリノールにできるという希少な特権も手に入る！"
+#: 70901198-0-1019
+msgctxt "70901198-0-1019"
+msgid "The offshore island of Wasten Coraldale—or Coridale, as the fisher folk call it—contains a wild honeycomb of tunnels and fertile grottoes where sea creatures of all sorts spawn and thrive. It's heavily fished for that reason, despite its many dangers."
+msgstr "ワステン・コラルデイル、もしくは漁師が呼ぶところのコリデイル沖合の島には、自然のトンネルや肥沃な洞窟が林立している。あらゆる種類の海の生き物が暮らしているのだ。危険にも関わらず、釣り人が絶えない理由はここにある。"
 
-#: 162658389-0-1059
-msgctxt "162658389-0-1059"
-msgid "Golden Gryphon Garret"
-msgstr "〈黄金のグリフォン〉の屋根裏部屋"
+#: 162658389-0-1019
+msgctxt "162658389-0-1019"
+msgid "Wasten Coraldale"
+msgstr "ワステン・コラルデイル"
 
-#: 70901198-0-1051
-msgctxt "70901198-0-1051"
-msgid "The Aerie of the Altmer, the city of Cloudrest clings to the highest slopes of the peak of Eton Nir, tallest mountain on Summerset Isle. Somehow, its thin air is as heady and bracing as chilled nirnroot wine."
-msgstr "「アルトマーの高台」とも呼ばれるクラウドレストの街は、サマーセット諸島で最も高い山、エトン・ニル山塊で一番上の斜面にある。理由は分からないが、薄い空気は冷やされたニルンルート・ワインのように陽気で清々しい気分にしてくれる。"
+#: 70901198-0-1018
+msgctxt "70901198-0-1018"
+msgid "Some say Goblins originated in Summerset, and some say the High Elves brought them here to serve as menials and slaves. They no longer perform those functions, but freed or escaped, Goblin tribes still thrive in the island's loneliest corners."
+msgstr "ゴブリンはサマーセットで生まれたという説もあり、召使や奴隷として使うため、ハイエルフがこの地に連れて来たという説もある。少なくとも、彼らは今そんな仕事はしていない。解放されたのであれ逃げ出したのであれ、ゴブリンの部族は諸島のもっとも人里離れた場所に生息している。"
 
-#: 162658389-0-1051
-msgctxt "162658389-0-1051"
-msgid "Cloudrest"
-msgstr "クラウドレスト"
-
-#: 70901198-0-1048
-msgctxt "70901198-0-1048"
-msgid "The palace is the site of the fabled Throne of Alinor, which has been occupied almost continuously by a single line of royal succession dating back to the Merethic Era. Ayrenn, the current monarch, is represented by her cousin, Proxy Queen Alwinarwe."
-msgstr "この宮殿には高名なアリノールの玉座があり、神話紀から単一の王家が引き続いて君臨している。現在の君主であるアイレンは、いとこの女王代理アルウィナルウェに統治を任せている。"
-
-#: 162658389-0-1048
-msgctxt "162658389-0-1048"
-msgid "Alinor Royal Palace"
-msgstr "アリノール王宮"
-
-#: 70901198-0-1047
-#, fuzzy
-msgctxt "70901198-0-1047"
-msgid "The monks of the Serene Harmony Monastery stand as the most renowned ""Aednavorith"" scholars in all of Summerset. The study of genealogy and ancestry remains a subject of endless interest to all High Elves."
-msgstr "聖なる調和の修道院のモンクは、全サマーセットで最も有名な「エドナヴォリス」学者である。系図と祖先に関する研究は、今でも全ハイエルフの興味を引きつける課題となっている。"
-
-#: 162658389-0-1047
-msgctxt "162658389-0-1047"
-msgid "Monastery of Serene Harmony"
-msgstr "聖なる調和の修道院"
-
-#: 70901198-0-1046
-msgctxt "70901198-0-1046"
-msgid "The ancient coral foundations of Summerset Isle are never more apparent than in the half-sunken grottoes so common among the seashore cliffs. They often serve as lairs for creatures, both nautical and mystical."
-msgstr "サマーセット諸島の、古代のサンゴに覆われた基礎が最も分かりやすく表れているのは、洞窟が半分沈んだ沿岸の断崖である。自然の獣であれ神秘の獣であれ、獣の巣になっていることが多い。"
-
-#: 162658389-0-1046
-msgctxt "162658389-0-1046"
-msgid "Saltbreeze Cave"
-msgstr "ソルトブリーズ洞窟"
-
-#: 70901198-0-1040
-msgctxt "70901198-0-1040"
-msgid "Evergloam, Nocturnal's ever-shifting domain of twilight and gloom, that somehow seems to be adjacent to every other realm of reality. In the dark, if you turn and look quickly, you can almost glimpse it."
-msgstr "エバーグロームは、ノクターナルの変動を続ける黄昏と薄暮の領域である。なぜか現実の領域と隣り合って感じられる。闇の中で素早く振り返れば、もう少しで見られるほどに。"
-
-#: 162658389-0-1040
-msgctxt "162658389-0-1040"
-msgid "Evergloam"
-msgstr "エバーグローム"
+#: 162658389-0-1018
+msgctxt "162658389-0-1018"
+msgid "King's Haven Pass"
+msgstr "キングズヘヴン・パス"
 
 #: 70901198-0-1039
 msgctxt "70901198-0-1039"
@@ -107,6 +137,17 @@ msgctxt "162658389-0-1039"
 msgid "Psijic Relic Vaults"
 msgstr "サイジックの遺物庫"
 
+#: 70901198-0-1017
+#, fuzzy
+msgctxt "70901198-0-1017"
+msgid """Archon's Grove? Indeed, that's the site where the legendary poet Nenamil, Archon of Song, discovered and named the Rose-of-Archon, the flower precious to the Goddess Mara. It's said to be southwest of Shimmerene somewhere."" —Innkeeper Vintenwen"
+msgstr "「アルコンの森？ ああ、あそこは伝説の詩人、歌のアルコンであるネラミルが、アルコンのバラを見つけて名づけた場所だ。女神マーラのお気に入りとされる花だな。シマーリーンの南西にあると言われている」—宿屋の主人ヴィンテンウェン"
+
+#: 162658389-0-1017
+msgctxt "162658389-0-1017"
+msgid "Archon's Grove"
+msgstr "アルコンの森"
+
 #: 70901198-0-1038
 msgctxt "70901198-0-1038"
 msgid "The foundations of Summerset Isle have been firm and unchanging for millennia, and phenomena like sinkholes have been rare and infrequent—until quite recently."
@@ -116,6 +157,26 @@ msgstr "サマーセット諸島の基礎は安定していて、長く脅かさ
 msgctxt "162658389-0-1038"
 msgid "Rellenthil Sinkhole"
 msgstr "リレンシルの大穴"
+
+#: 70901198-0-1016
+msgctxt "70901198-0-1016"
+msgid "Based on the quantity of moldering ruins on Artaeum, once there must have been many more Monks of the Psijic Order than are present today. This hall looks to have been abandoned more recently than most."
+msgstr "アルテウムにあるモルダリング遺跡の数を考えると、おそらくサイジック会のモンクは以前、今よりもはるかに多くいたと思われる。このホールは、かなり長い間放棄されていたように見える。"
+
+#: 162658389-0-1016
+msgctxt "162658389-0-1016"
+msgid "Traitor's Vault"
+msgstr "裏切り者の宝物庫"
+
+#: 70901198-0-1059
+msgctxt "70901198-0-1059"
+msgid "It's only a single room, but the advantage of this inn apartment is its unrivaled location, just steps from the gates of Alinor. That, and the rare prestige of an Alinor address!"
+msgstr "部屋はシングルでしかないが、この宿の利点は並ぶ者のない立地にある。アリノールの門から目と鼻の先にあるのだ。そして、住所をアリノールにできるという希少な特権も手に入る！"
+
+#: 162658389-0-1059
+msgctxt "162658389-0-1059"
+msgid "Golden Gryphon Garret"
+msgstr "〈黄金のグリフォン〉の屋根裏部屋"
 
 #: 70901198-0-1037
 #, fuzzy
@@ -128,6 +189,16 @@ msgctxt "162658389-0-1037"
 msgid "The Crystal Tower"
 msgstr "水晶の塔"
 
+#: 70901198-0-1015
+msgctxt "70901198-0-1015"
+msgid "The gleaming city of Cloudrest crowns the Eton Nir massif, the greatest mountain on Summerset Isle. But dark rumors say the mountain's greatest treasures lie hidden in the caves beneath its stony foundations."
+msgstr "輝く都市クラウドレストは、サマーセット諸島で最大の山、エトン・ニル山塊にある。しかし、山で最大の宝が奥深くの洞窟に埋まっている、という闇の噂も存在する。"
+
+#: 162658389-0-1015
+msgctxt "162658389-0-1015"
+msgid "Eton Nir Grotto"
+msgstr "エトン・ニル洞窟"
+
 #: 70901198-0-1036
 msgctxt "70901198-0-1036"
 msgid "Once these halls echoed to the tread of scholars and ceremoniarchs, college functionaries tending to the oghmas and archives of the ancient civilization of the long-lived High Elves. But those days are long gone."
@@ -137,6 +208,16 @@ msgstr "こうした広間に学者や儀式君主が満ちていたころ、大
 msgctxt "162658389-0-1036"
 msgid "Cathedral of Webs"
 msgstr "巣糸の大聖堂"
+
+#: 70901198-0-1014
+msgctxt "70901198-0-1014"
+msgid "In Aldmeric, the name means Warlord's Mountain Lair, as these vast halls were originally built in the early First Era for the legendary Prime Battlereeve Fiirfarya. One morning the estate's entire populace was found slaughtered, and thereafter the site was abandoned."
+msgstr "これはアルドマーの言葉で「武将の山のアジト」を意味している。広大なホールは第一紀の初期、伝説のプライムバトルリーブ・フィーファーヤが元々建てたものだ。ある朝、この地にいた者が全員殺されているところが発見され、それ以降放棄されたという。"
+
+#: 162658389-0-1014
+msgctxt "162658389-0-1014"
+msgid "Tor-Hame-Khard"
+msgstr "トー・ヘイム・カード"
 
 #: 70901198-0-1035
 #, fuzzy
@@ -148,6 +229,16 @@ msgstr "「メファーラ！ 網の紡ぎ手！ 秘法の師！ 殺人の8つ�
 msgctxt "162658389-0-1035"
 msgid "The Spiral Skein"
 msgstr "スパイラル・スケイン"
+
+#: 70901198-0-1013
+msgctxt "70901198-0-1013"
+msgid "Presumably, this is where the scholars of the old Eldbur Monastery gathered for meditation and reflection. It looks like it, anyway, but something doesn't feel right …."
+msgstr "ここは以前、おそらくエルドバー修道院の学者たちが瞑想と内省のために集まった場所だ。そのように見える。だが、何かがおかしい…"
+
+#: 162658389-0-1013
+msgctxt "162658389-0-1013"
+msgid "Eldbur Sanctuary"
+msgstr "エルドバーの聖域"
 
 #: 70901198-0-1034
 msgctxt "70901198-0-1034"
@@ -169,6 +260,17 @@ msgstr "ラッサフェルドとは「緋の祠」を意味するアルドマー
 msgctxt "162658389-0-1033"
 msgid "Red Temple Catacombs"
 msgstr "赤の聖堂の地下墓地"
+
+#: 70901198-0-1011
+#, fuzzy
+msgctxt "70901198-0-1011"
+msgid """The land called Summerset is the birthplace of civilization and magic as we know it in Tamriel. On its idyllic sea-kissed shores live the Altmer, the High Elves."""
+msgstr "「サマーセットと呼ばれる地は、タムリエルの文明と魔法を生み出した。のどかで海に恵まれた島にはアルトマー、すなわちハイエルフが住んでいる」"
+
+#: 162658389-0-1011
+msgctxt "162658389-0-1011"
+msgid "Summerset"
+msgstr "サマーセット"
 
 #: 70901198-0-1032
 #, fuzzy
@@ -203,6 +305,16 @@ msgctxt "162658389-0-1030"
 msgid "Corgrad Wastes"
 msgstr "コルグラド・ウェイスト"
 
+#: 70901198-0-1051
+msgctxt "70901198-0-1051"
+msgid "The Aerie of the Altmer, the city of Cloudrest clings to the highest slopes of the peak of Eton Nir, tallest mountain on Summerset Isle. Somehow, its thin air is as heady and bracing as chilled nirnroot wine."
+msgstr "「アルトマーの高台」とも呼ばれるクラウドレストの街は、サマーセット諸島で最も高い山、エトン・ニル山塊で一番上の斜面にある。理由は分からないが、薄い空気は冷やされたニルンルート・ワインのように陽気で清々しい気分にしてくれる。"
+
+#: 162658389-0-1051
+msgctxt "162658389-0-1051"
+msgid "Cloudrest"
+msgstr "クラウドレスト"
+
 #: 70901198-0-1029
 #, fuzzy
 msgctxt "70901198-0-1029"
@@ -235,6 +347,16 @@ msgctxt "162658389-0-1027"
 msgid "Artaeum"
 msgstr "アルテウム"
 
+#: 70901198-0-1048
+msgctxt "70901198-0-1048"
+msgid "The palace is the site of the fabled Throne of Alinor, which has been occupied almost continuously by a single line of royal succession dating back to the Merethic Era. Ayrenn, the current monarch, is represented by her cousin, Proxy Queen Alwinarwe."
+msgstr "この宮殿には高名なアリノールの玉座があり、神話紀から単一の王家が引き続いて君臨している。現在の君主であるアイレンは、いとこの女王代理アルウィナルウェに統治を任せている。"
+
+#: 162658389-0-1048
+msgctxt "162658389-0-1048"
+msgid "Alinor Royal Palace"
+msgstr "アリノール王宮"
+
 #: 70901198-0-1026
 #, fuzzy
 msgctxt "70901198-0-1026"
@@ -246,6 +368,17 @@ msgctxt "162658389-0-1026"
 msgid "The Vaults of Heinarwe"
 msgstr "ヘイナルウェの地下室"
 
+#: 70901198-0-1047
+#, fuzzy
+msgctxt "70901198-0-1047"
+msgid "The monks of the Serene Harmony Monastery stand as the most renowned ""Aednavorith"" scholars in all of Summerset. The study of genealogy and ancestry remains a subject of endless interest to all High Elves."
+msgstr "聖なる調和の修道院のモンクは、全サマーセットで最も有名な「エドナヴォリス」学者である。系図と祖先に関する研究は、今でも全ハイエルフの興味を引きつける課題となっている。"
+
+#: 162658389-0-1047
+msgctxt "162658389-0-1047"
+msgid "Monastery of Serene Harmony"
+msgstr "聖なる調和の修道院"
+
 #: 70901198-0-1025
 msgctxt "70901198-0-1025"
 msgid "A key fortification on Summerset's oft-invaded northern coast, Cey-Tarn Keep frowns out across the Sea of Pearls toward the distant Thrassian Archipelago and its vile race of Sload, eternal enemies of the High Elves of the isles."
@@ -255,6 +388,16 @@ msgstr "頻繁に侵攻されるサマーセットの北岸において中心と
 msgctxt "162658389-0-1025"
 msgid "Cey-Tarn Keep"
 msgstr "セイ・ターン砦"
+
+#: 70901198-0-1046
+msgctxt "70901198-0-1046"
+msgid "The ancient coral foundations of Summerset Isle are never more apparent than in the half-sunken grottoes so common among the seashore cliffs. They often serve as lairs for creatures, both nautical and mystical."
+msgstr "サマーセット諸島の、古代のサンゴに覆われた基礎が最も分かりやすく表れているのは、洞窟が半分沈んだ沿岸の断崖である。自然の獣であれ神秘の獣であれ、獣の巣になっていることが多い。"
+
+#: 162658389-0-1046
+msgctxt "162658389-0-1046"
+msgid "Saltbreeze Cave"
+msgstr "ソルトブリーズ洞窟"
 
 #: 70901198-0-1024
 msgctxt "70901198-0-1024"
@@ -275,146 +418,3 @@ msgstr "2000年前から徐々に作られ始めたこの地下水道、貯水�
 msgctxt "162658389-0-1023"
 msgid "Shimmerene Waterworks"
 msgstr "シマーリーン上水道"
-
-#: 70901198-0-1022
-msgctxt "70901198-0-1022"
-msgid "Long, long ago, for reasons most have forgotten, Clan Direnni left Summerset and relocated to Balfiera Isle in the Iliac Bay. Ownership of the clan's abandoned real estate above the Diren valley has been locked in Elvish litigation ever since."
-msgstr "遠い昔、理由は忘れ去られているが、クラン・ディレニはサマーセットを去ってイリアック湾のバルフィエラ島に拠点を移した。ディレン渓谷にあるクランの放棄された不動産の所有権は、それ以来ずっとエルフの訴訟の対象になっている。"
-
-#: 162658389-0-1022
-msgctxt "162658389-0-1022"
-msgid "Direnni Acropolis"
-msgstr "ディレニ・アクロポリス"
-
-#: 70901198-0-1021
-msgctxt "70901198-0-1021"
-msgid "The southern city of Sunhold serves as the home port of Summerset's famed Dominion Navy. But with the High Elven fleets over the horizon fighting the Alliance War, Sunhold remains virtually unprotected."
-msgstr "南部の都市サンホールドは、高名なドミニオン海軍の母港である。しかし、ハイエルフの艦隊は同盟戦争を戦うため地平線の彼方へ出発しているため、サンホールドの守りは事実上存在しない。"
-
-#: 162658389-0-1021
-msgctxt "162658389-0-1021"
-msgid "Sunhold"
-msgstr "サンホールド"
-
-#: 70901198-0-1020
-#, fuzzy
-msgctxt "70901198-0-1020"
-msgid """The most rigid and hidebound societies conceal the most illicit activity just below the surface. If you have tariffs and duties, you also will have smugglers who evade them. If one squeezes hard on a bladder wine-sack, the wine must spurt out somewhere, yes?"" —Razum-dar"
-msgstr "「最も厳格で偏狭な社会には、一皮剥けば不法な活動が隠れているものだ。関税と義務があれば、それを回避しようとする密売人がいる。ワインの袋を締め付ければ、どこかにワインがこぼれるものだろう？」—ラズム・ダー"
-
-#: 162658389-0-1020
-msgctxt "162658389-0-1020"
-msgid "Karnwasten"
-msgstr "カーンワステン"
-
-#: 70901198-0-1019
-msgctxt "70901198-0-1019"
-msgid "The offshore island of Wasten Coraldale—or Coridale, as the fisher folk call it—contains a wild honeycomb of tunnels and fertile grottoes where sea creatures of all sorts spawn and thrive. It's heavily fished for that reason, despite its many dangers."
-msgstr "ワステン・コラルデイル、もしくは漁師が呼ぶところのコリデイル沖合の島には、自然のトンネルや肥沃な洞窟が林立している。あらゆる種類の海の生き物が暮らしているのだ。危険にも関わらず、釣り人が絶えない理由はここにある。"
-
-#: 162658389-0-1019
-msgctxt "162658389-0-1019"
-msgid "Wasten Coraldale"
-msgstr "ワステン・コラルデイル"
-
-#: 70901198-0-1018
-msgctxt "70901198-0-1018"
-msgid "Some say Goblins originated in Summerset, and some say the High Elves brought them here to serve as menials and slaves. They no longer perform those functions, but freed or escaped, Goblin tribes still thrive in the island's loneliest corners."
-msgstr "ゴブリンはサマーセットで生まれたという説もあり、召使や奴隷として使うため、ハイエルフがこの地に連れて来たという説もある。少なくとも、彼らは今そんな仕事はしていない。解放されたのであれ逃げ出したのであれ、ゴブリンの部族は諸島のもっとも人里離れた場所に生息している。"
-
-#: 162658389-0-1018
-msgctxt "162658389-0-1018"
-msgid "King's Haven Pass"
-msgstr "キングズヘヴン・パス"
-
-#: 70901198-0-1017
-#, fuzzy
-msgctxt "70901198-0-1017"
-msgid """Archon's Grove? Indeed, that's the site where the legendary poet Nenamil, Archon of Song, discovered and named the Rose-of-Archon, the flower precious to the Goddess Mara. It's said to be southwest of Shimmerene somewhere."" —Innkeeper Vintenwen"
-msgstr "「アルコンの森？ ああ、あそこは伝説の詩人、歌のアルコンであるネラミルが、アルコンのバラを見つけて名づけた場所だ。女神マーラのお気に入りとされる花だな。シマーリーンの南西にあると言われている」—宿屋の主人ヴィンテンウェン"
-
-#: 162658389-0-1017
-msgctxt "162658389-0-1017"
-msgid "Archon's Grove"
-msgstr "アルコンの森"
-
-#: 70901198-0-1016
-msgctxt "70901198-0-1016"
-msgid "Based on the quantity of moldering ruins on Artaeum, once there must have been many more Monks of the Psijic Order than are present today. This hall looks to have been abandoned more recently than most."
-msgstr "アルテウムにあるモルダリング遺跡の数を考えると、おそらくサイジック会のモンクは以前、今よりもはるかに多くいたと思われる。このホールは、かなり長い間放棄されていたように見える。"
-
-#: 162658389-0-1016
-msgctxt "162658389-0-1016"
-msgid "Traitor's Vault"
-msgstr "裏切り者の宝物庫"
-
-#: 70901198-0-1015
-msgctxt "70901198-0-1015"
-msgid "The gleaming city of Cloudrest crowns the Eton Nir massif, the greatest mountain on Summerset Isle. But dark rumors say the mountain's greatest treasures lie hidden in the caves beneath its stony foundations."
-msgstr "輝く都市クラウドレストは、サマーセット諸島で最大の山、エトン・ニル山塊にある。しかし、山で最大の宝が奥深くの洞窟に埋まっている、という闇の噂も存在する。"
-
-#: 162658389-0-1015
-msgctxt "162658389-0-1015"
-msgid "Eton Nir Grotto"
-msgstr "エトン・ニル洞窟"
-
-#: 70901198-0-1014
-msgctxt "70901198-0-1014"
-msgid "In Aldmeric, the name means Warlord's Mountain Lair, as these vast halls were originally built in the early First Era for the legendary Prime Battlereeve Fiirfarya. One morning the estate's entire populace was found slaughtered, and thereafter the site was abandoned."
-msgstr "これはアルドマーの言葉で「武将の山のアジト」を意味している。広大なホールは第一紀の初期、伝説のプライムバトルリーブ・フィーファーヤが元々建てたものだ。ある朝、この地にいた者が全員殺されているところが発見され、それ以降放棄されたという。"
-
-#: 162658389-0-1014
-msgctxt "162658389-0-1014"
-msgid "Tor-Hame-Khard"
-msgstr "トー・ヘイム・カード"
-
-#: 70901198-0-1013
-msgctxt "70901198-0-1013"
-msgid "Presumably, this is where the scholars of the old Eldbur Monastery gathered for meditation and reflection. It looks like it, anyway, but something doesn't feel right …."
-msgstr "ここは以前、おそらくエルドバー修道院の学者たちが瞑想と内省のために集まった場所だ。そのように見える。だが、何かがおかしい…"
-
-#: 162658389-0-1013
-msgctxt "162658389-0-1013"
-msgid "Eldbur Sanctuary"
-msgstr "エルドバーの聖域"
-
-#: 70901198-0-1011
-#, fuzzy
-msgctxt "70901198-0-1011"
-msgid """The land called Summerset is the birthplace of civilization and magic as we know it in Tamriel. On its idyllic sea-kissed shores live the Altmer, the High Elves."""
-msgstr "「サマーセットと呼ばれる地は、タムリエルの文明と魔法を生み出した。のどかで海に恵まれた島にはアルトマー、すなわちハイエルフが住んでいる」"
-
-#: 162658389-0-1011
-msgctxt "162658389-0-1011"
-msgid "Summerset"
-msgstr "サマーセット"
-
-#: 162658389-0-1078
-msgctxt "162658389-0-1078"
-msgid "Remnant of Argon"
-msgstr "アルゴンの名残"
-
-#: 162658389-0-1077
-msgctxt "162658389-0-1077"
-msgid "The Swallowed Grove"
-msgstr "呑まれた林"
-
-#: 162658389-0-1076
-msgctxt "162658389-0-1076"
-msgid "The Sunless Hollow"
-msgstr "亡陽洞"
-
-#: 162658389-0-1075
-msgctxt "162658389-0-1075"
-msgid "The Sunless Hollow"
-msgstr "亡陽洞"
-
-#: 162658389-0-1074
-msgctxt "162658389-0-1074"
-msgid "The Sunless Hollow"
-msgstr "亡陽洞"
-
-#: 70901198-0-1061
-msgctxt "70901198-0-1061"
-msgid "Once a watering stop for the High Elf navy, this great cavernous grotto on the Summerset coast west of Dusk features shipboard compartments, magnificent Aldmeri ruins, weathered wood from several shipwrecks, and a sparkling subterranean waterfall."
-msgstr "以前はハイエルフ海軍の補給地点だった、ダスクの西にあるこのサマーセット沿岸の大洞窟は、船室、壮大なアルドメリ遺跡、難破船からの乾燥した木材、輝く地下の滝が特徴的だ。"

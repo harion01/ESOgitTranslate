@@ -21,46 +21,6 @@ msgctxt "198758357-0-45115"
 msgid "Dark Veil"
 msgstr "闇のベール"
 
-#: 132143172-0-45103
-msgctxt "132143172-0-45103"
-msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
-msgstr "体力、スタミナ、マジカの再生が<<1>>上昇する。"
-
-#: 198758357-0-45103
-msgctxt "198758357-0-45103"
-msgid "Refreshing Shadows"
-msgstr "安らぎの影"
-
-#: 132143172-0-45084
-msgctxt "132143172-0-45084"
-msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "スロットに装備している影アビリティ1つにつき、最大体力値が<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-45084
-msgctxt "198758357-0-45084"
-msgid "Dark Vigor"
-msgstr "闇の活力"
-
-#: 132143172-0-45071
-msgctxt "132143172-0-45071"
-msgid "Casting a Shadow ability grants you Major Resolve for |cffffff6|r seconds,  increasing your Physical and Spell Resistance by <<1>>. This duration is increased by |cffffff25|r% for each piece of Heavy Armor equipped.\n\nCurrent Bonus: <<2>>.\nCurrent Duration: <<3>>"
-msgstr "影のアビリティを唱えると強固(強)が|cffffff6|r秒付与され、物理耐性と呪文耐性が<<1>>上昇する。重装鎧1つごとに持続時間が|cffffff25|r%延長される。\r\n\r\n現在のボーナス: <<2>>\r\n現在の効果時間: <<3>>"
-
-#: 198758357-0-45071
-msgctxt "198758357-0-45071"
-msgid "Shadow Barrier"
-msgstr "影の障壁"
-
-#: 132143172-0-37475
-msgctxt "132143172-0-37475"
-msgid "Conceal two sinister traps, one at the targeted location and another next to you, which take |cffffff2|r seconds to arm and last for <<1>>.\n\nWhen each trap is triggered, a dark spirit is summoned to terrify up to |cffffff6|r enemies, causing them to cower in fear for <<2>>."
-msgstr "1つは狙った場所に、もう1つは自分の近くに計2つの凶悪な罠を仕込む。罠の設置には|cffffff2|r秒かかり、<<1>>の間持続する。\r\n\r\nそれぞれの罠が起動すると、闇の霊魂が召喚され、近くの敵|cffffff6|r体までに、<<2>>の間萎縮を与える。"
-
-#: 198758357-0-37475
-msgctxt "198758357-0-37475"
-msgid "Manifestation of Terror"
-msgstr "恐怖の化身"
-
 #: 132143172-0-37470
 msgctxt "132143172-0-37470"
 msgid "Summon a dark spirit to terrify up to |cffffff6|r enemies, causing them to cower in fear for <<1>>."
@@ -70,46 +30,6 @@ msgstr "闇の霊魂を召喚して|cffffff6|r体までの敵に恐怖を与え�
 msgctxt "198758357-0-37470"
 msgid "Mass Hysteria"
 msgstr "集団恐慌"
-
-#: 132143172-0-36552
-msgctxt "132143172-0-36552"
-msgid "Increases the duration of your non-invisibility based Shadow abilities by <<1>>."
-msgstr "透明ベースでない影アビリティの持続時間が<<1>>延長される。"
-
-#: 198758357-0-36552
-msgctxt "198758357-0-36552"
-msgid "Dark Veil"
-msgstr "闇のベール"
-
-#: 132143172-0-36549
-msgctxt "132143172-0-36549"
-msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
-msgstr "体力、スタミナ、マジカの再生が<<1>>上昇する。"
-
-#: 198758357-0-36549
-msgctxt "198758357-0-36549"
-msgid "Refreshing Shadows"
-msgstr "安らぎの影"
-
-#: 132143172-0-36532
-msgctxt "132143172-0-36532"
-msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "スロットに装備している影アビリティ1つにつき、最大体力値が<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-36532
-msgctxt "198758357-0-36532"
-msgid "Dark Vigor"
-msgstr "闇の活力"
-
-#: 132143172-0-36493
-msgctxt "132143172-0-36493"
-msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>> while inside the ring and even after leaving it, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
-msgstr "影の輪を召喚する。敵の移動速度を<<1>>低下させ、自分と味方に<<2>>が付与される。輪の中にいる時も、輪を出てからでも、被ダメージが<<3>>減少する。\r\n\r\n周囲の味方は|cffffff密かな休息|rシナジーを発動し、透明状態になって<<4>>の移動速度ボーナスを得て、体力が<<5>>、<<6>>の間回復する。"
-
-#: 198758357-0-36493
-msgctxt "198758357-0-36493"
-msgid "Bolstering Darkness"
-msgstr "強化の闇"
 
 #: 132143172-0-36485
 msgctxt "132143172-0-36485"
@@ -121,55 +41,25 @@ msgctxt "198758357-0-36485"
 msgid "Veil of Blades"
 msgstr "刃のベール"
 
-#: 132143172-0-36049
-msgctxt "132143172-0-36049"
-msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nDeals <<3>> to enemies in the target area every <<4>>."
-msgstr "影の回廊を作り出し、自身と範囲の味方に迅速(強)を付与して、移動速度が<<1>>上昇する。効果は回廊を出てから<<2>>続く。\r\n\r\n範囲の敵にダメージを<<3>>、<<4>>ごとに与える。"
+#: 132143172-0-37475
+msgctxt "132143172-0-37475"
+msgid "Conceal two sinister traps, one at the targeted location and another next to you, which take |cffffff2|r seconds to arm and last for <<1>>.\n\nWhen each trap is triggered, a dark spirit is summoned to terrify up to |cffffff6|r enemies, causing them to cower in fear for <<2>>."
+msgstr "1つは狙った場所に、もう1つは自分の近くに計2つの凶悪な罠を仕込む。罠の設置には|cffffff2|r秒かかり、<<1>>の間持続する。\r\n\r\nそれぞれの罠が起動すると、闇の霊魂が召喚され、近くの敵|cffffff6|r体までに、<<2>>の間萎縮を与える。"
 
-#: 198758357-0-36049
-msgctxt "198758357-0-36049"
-msgid "Twisting Path"
-msgstr "ねじれた回廊"
+#: 198758357-0-37475
+msgctxt "198758357-0-37475"
+msgid "Manifestation of Terror"
+msgstr "恐怖の化身"
 
-#: 132143172-0-36028
-msgctxt "132143172-0-36028"
-msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nHeals <<3>> Health to you and allies in area every <<4>>."
-msgstr "影の回廊を作り出し、自身と範囲の味方に迅速(強)を付与して、移動速度が<<1>>上昇する。効果は回廊を出てから<<2>>続く。\r\n\r\n自身と範囲の味方の体力を<<3>>、<<4>>ごとに回復する。"
+#: 132143172-0-25267
+msgctxt "132143172-0-25267"
+msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> from the flank stuns the enemy for <<3>> and sets them Off Balance.\n\nWhile slotted, your Movement Speed while Sneaking or invisible is increased by <<4>>."
+msgstr "敵を切りつけて<<1>>を与える。\r\n\r\n側面から<<2>>を使って攻撃すると、敵を<<3>>の間気絶させ、フラフラ状態にする。\r\n\r\nスロットに装備している間、ステルス中や透明状態での移動速度が<<4>>上昇する。"
 
-#: 198758357-0-36028
-msgctxt "198758357-0-36028"
-msgid "Refreshing Path"
-msgstr "回復の回廊"
-
-#: 132143172-0-35441
-msgctxt "132143172-0-35441"
-msgid "Summon a shade version of yourself to stay in place and attack an enemy from range for <<1>>. \n\nThe shade shoots at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nWhile the shade is summoned, you can activate this ability again to teleport to the shade's location.\n\nThis ability scales with your highest offensive stats."
-msgstr "自分の影を召喚してその場に固定し、<<1>>の間、遠距離から攻撃させる。\r\n\r\n影は敵を攻撃し、<<2>>を与える。影の攻撃は<<3>>を付与し、標的の与ダメージを<<4>>、<<5>>の間低下させる。\r\n\r\n召喚師はもう一度このアビリティを発動することで影の場所へ瞬間移動できる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-35441
-msgctxt "198758357-0-35441"
-msgid "Shadow Image"
-msgstr "シャドウイメージ"
-
-#: 132143172-0-35434
-msgctxt "132143172-0-35434"
-msgid "Summon a shade versions of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>> and occasionally whirlwinds all enemies around it, dealing <<3>>. The shade's attacks inflict <<4>>, reducing the enemy's damage done by <<5>> for <<6>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "自身の影を召喚し、敵を攻撃してから<<1>>の間、味方として戦わせる。\r\n\r\n影は敵を切り裂き、<<2>>を与える。時々周囲の敵全体を竜巻で攻撃することがあり、<<3>>を与える。影の攻撃は<<4>>を与え、敵のダメージを<<5>>、<<6>>の間低下させる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-35434
-msgctxt "198758357-0-35434"
-msgid "Dark Shade"
-msgstr "デュプリシェイド"
-
-#: 132143172-0-33211
-msgctxt "132143172-0-33211"
-msgid "Summon a shade version of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "自分の影を召喚し、<<1>>の間敵と戦わせる。\r\n\r\n影の攻撃は<<2>>を与えて敵に<<3>>を付与し、標的の与ダメージを<<4>>、<<5>>の間低下させる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-33211
-msgctxt "198758357-0-33211"
-msgid "Summon Shade"
-msgstr "影の召喚"
+#: 198758357-0-25267
+msgctxt "198758357-0-25267"
+msgid "Concealed Weapon"
+msgstr "隠し武器"
 
 #: 132143172-0-33195
 msgctxt "132143172-0-33195"
@@ -181,15 +71,15 @@ msgctxt "198758357-0-33195"
 msgid "Path of Darkness"
 msgstr "闇の回廊"
 
-#: 132143172-0-25411
-msgctxt "132143172-0-25411"
-msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>>, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
-msgstr "影の輪を召喚する。敵の移動速度を<<1>>低下させ、自分と味方に<<2>>を与えて、被ダメージが<<3>>減少する。\r\n\r\n周囲の味方は|cffffff密かな休息|rシナジーを発動し、透明状態になって<<4>>の移動速度ボーナスを得て、体力が<<5>>、<<6>>の間回復する。"
+#: 132143172-0-25260
+msgctxt "132143172-0-25260"
+msgid "Slash an enemy, dealing <<1>>.  If you are flanking the enemy, shred through a small portion of their armor, reducing their Physical Resistance by <<2>> for <<3>>.\n\nAttacking with <<4>> from the flank stuns the enemy for <<5>> and sets them Off Balance."
+msgstr "敵を切りつけて<<1>>を与える。敵を側面から攻撃すると、鎧の一部を破砕して物理耐性が<<2>>、<<3>>の間低下する。\r\n\r\n側面から<<4>>を使って攻撃すると、敵を<<5>>の間気絶させ、フラフラ状態にする。"
 
-#: 198758357-0-25411
-msgctxt "198758357-0-25411"
-msgid "Consuming Darkness"
-msgstr "覆い尽くす闇"
+#: 198758357-0-25260
+msgctxt "198758357-0-25260"
+msgid "Surprise Attack"
+msgstr "不意打ち"
 
 #: 132143172-0-25380
 msgctxt "132143172-0-25380"
@@ -201,6 +91,116 @@ msgctxt "198758357-0-25380"
 msgid "Shadowy Disguise"
 msgstr "偽りの影"
 
+#: 132143172-0-33211
+msgctxt "132143172-0-33211"
+msgid "Summon a shade version of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "自分の影を召喚し、<<1>>の間敵と戦わせる。\r\n\r\n影の攻撃は<<2>>を与えて敵に<<3>>を付与し、標的の与ダメージを<<4>>、<<5>>の間低下させる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-33211
+msgctxt "198758357-0-33211"
+msgid "Summon Shade"
+msgstr "影の召喚"
+
+#: 132143172-0-36028
+msgctxt "132143172-0-36028"
+msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nHeals <<3>> Health to you and allies in area every <<4>>."
+msgstr "影の回廊を作り出し、自身と範囲の味方に迅速(強)を付与して、移動速度が<<1>>上昇する。効果は回廊を出てから<<2>>続く。\r\n\r\n自身と範囲の味方の体力を<<3>>、<<4>>ごとに回復する。"
+
+#: 198758357-0-36028
+msgctxt "198758357-0-36028"
+msgid "Refreshing Path"
+msgstr "回復の回廊"
+
+#: 132143172-0-35434
+msgctxt "132143172-0-35434"
+msgid "Summon a shade version of yourself to attack an enemy and fight at your side for <<1>>. \n\nThe shade slashes at an enemy, dealing <<2>> and occasionally whirlwinds all enemies around it, dealing <<3>>. The shade's attacks inflict <<4>>, reducing the enemy's damage done by <<5>> for <<6>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "自身の影を召喚し、敵を攻撃してから<<1>>の間、味方として戦わせる。\r\n\r\n影は敵を切り裂き、<<2>>を与える。時々周囲の敵全体を竜巻で攻撃することがあり、<<3>>を与える。影の攻撃は<<4>>を与え、敵のダメージを<<5>>、<<6>>の間低下させる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-35434
+msgctxt "198758357-0-35434"
+msgid "Dark Shade"
+msgstr "デュプリシェイド"
+
+#: 132143172-0-36049
+msgctxt "132143172-0-36049"
+msgid "Create a corridor of shadows, granting you and allies in area Major Expedition, increasing movement speed by <<1>>. Effect persists for <<2>> after leaving the path.\n\nDeals <<3>> to enemies in the target area every <<4>>."
+msgstr "影の回廊を作り出し、自身と範囲の味方に迅速(強)を付与して、移動速度が<<1>>上昇する。効果は回廊を出てから<<2>>続く。\r\n\r\n範囲の敵にダメージを<<3>>、<<4>>ごとに与える。"
+
+#: 198758357-0-36049
+msgctxt "198758357-0-36049"
+msgid "Twisting Path"
+msgstr "ねじれた回廊"
+
+#: 132143172-0-45071
+msgctxt "132143172-0-45071"
+msgid "Casting a Shadow ability grants you Major Resolve for |cffffff6|r seconds,  increasing your Physical and Spell Resistance by <<1>>. This duration is increased by |cffffff25|r% for each piece of Heavy Armor equipped.\n\nCurrent Bonus: <<2>>.\nCurrent Duration: <<3>>"
+msgstr "影のアビリティを唱えると強固(強)が|cffffff6|r秒付与され、物理耐性と呪文耐性が<<1>>上昇する。重装鎧1つごとに持続時間が|cffffff25|r%延長される。\r\n\r\n現在のボーナス: <<2>>\r\n現在の効果時間: <<3>>"
+
+#: 198758357-0-45071
+msgctxt "198758357-0-45071"
+msgid "Shadow Barrier"
+msgstr "影の障壁"
+
+#: 132143172-0-36549
+msgctxt "132143172-0-36549"
+msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
+msgstr "体力、スタミナ、マジカの再生が<<1>>上昇する。"
+
+#: 198758357-0-36549
+msgctxt "198758357-0-36549"
+msgid "Refreshing Shadows"
+msgstr "安らぎの影"
+
+#: 132143172-0-36493
+msgctxt "132143172-0-36493"
+msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>> while inside the ring and even after leaving it, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
+msgstr "影の輪を召喚する。敵の移動速度を<<1>>低下させ、自分と味方に<<2>>が付与される。輪の中にいる時も、輪を出てからでも、被ダメージが<<3>>減少する。\r\n\r\n周囲の味方は|cffffff密かな休息|rシナジーを発動し、透明状態になって<<4>>の移動速度ボーナスを得て、体力が<<5>>、<<6>>の間回復する。"
+
+#: 198758357-0-36493
+msgctxt "198758357-0-36493"
+msgid "Bolstering Darkness"
+msgstr "強化の闇"
+
+#: 132143172-0-45103
+msgctxt "132143172-0-45103"
+msgid "Increases your Health, Stamina, and Magicka Recovery by <<1>>."
+msgstr "体力、スタミナ、マジカの再生が<<1>>上昇する。"
+
+#: 198758357-0-45103
+msgctxt "198758357-0-45103"
+msgid "Refreshing Shadows"
+msgstr "安らぎの影"
+
+#: 132143172-0-36552
+msgctxt "132143172-0-36552"
+msgid "Increases the duration of your non-invisibility based Shadow abilities by <<1>>."
+msgstr "透明ベースでない影アビリティの持続時間が<<1>>延長される。"
+
+#: 198758357-0-36552
+msgctxt "198758357-0-36552"
+msgid "Dark Veil"
+msgstr "闇のベール"
+
+#: 132143172-0-25411
+msgctxt "132143172-0-25411"
+msgid "Conjure a ring of shadow, reducing the Movement Speed of enemies by <<1>> and granting you and your allies <<2>>, reducing your damage taken by <<3>>.\n\nAllies in the area can activate the |cffffffHidden Refresh|r synergy, granting them invisibility, increasing their Movement Speed by <<4>>, and healing them for <<5>> Health over <<6>>."
+msgstr "影の輪を召喚する。敵の移動速度を<<1>>低下させ、自分と味方に<<2>>を与えて、被ダメージが<<3>>減少する。\r\n\r\n周囲の味方は|cffffff密かな休息|rシナジーを発動し、透明状態になって<<4>>の移動速度ボーナスを得て、体力が<<5>>、<<6>>の間回復する。"
+
+#: 198758357-0-25411
+msgctxt "198758357-0-25411"
+msgid "Consuming Darkness"
+msgstr "覆い尽くす闇"
+
+#: 132143172-0-35441
+msgctxt "132143172-0-35441"
+msgid "Summon a shade version of yourself to stay in place and attack an enemy from range for <<1>>. \n\nThe shade shoots at an enemy, dealing <<2>>. The shade's attacks inflict <<3>>, reducing the enemy's damage done by <<4>> for <<5>>.\n\nWhile the shade is summoned, you can activate this ability again to teleport to the shade's location.\n\nThis ability scales with your highest offensive stats."
+msgstr "自分の影を召喚してその場に固定し、<<1>>の間、遠距離から攻撃させる。\r\n\r\n影は敵を攻撃し、<<2>>を与える。影の攻撃は<<3>>を付与し、標的の与ダメージを<<4>>、<<5>>の間低下させる。\r\n\r\n召喚師はもう一度このアビリティを発動することで影の場所へ瞬間移動できる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-35441
+msgctxt "198758357-0-35441"
+msgid "Shadow Image"
+msgstr "シャドウイメージ"
+
 #: 132143172-0-25377
 msgctxt "132143172-0-25377"
 msgid "Shroud yourself in protective shadow to heal for <<1>> every <<2>>, over <<3>>.  This portion of the ability scales off your Max Health.\n\nYou gain Minor Protection while shrouded, reducing your damage taken by <<4>>."
@@ -210,16 +210,6 @@ msgstr "防護の影に身を包んで、体力を<<1>>、<<2>>ごとに<<3>>の
 msgctxt "198758357-0-25377"
 msgid "Dark Cloak"
 msgstr "ダーククローク"
-
-#: 132143172-0-25375
-msgctxt "132143172-0-25375"
-msgid "Cloak yourself in shadow to become invisible for <<1>>."
-msgstr "影に身を包んで<<1>>の間透明になる。"
-
-#: 198758357-0-25375
-msgctxt "198758357-0-25375"
-msgid "Shadow Cloak"
-msgstr "シャドウクローク"
 
 #: 132143172-0-25352
 msgctxt "132143172-0-25352"
@@ -231,35 +221,35 @@ msgctxt "198758357-0-25352"
 msgid "Aspect of Terror"
 msgstr "戦慄の姿"
 
-#: 132143172-0-25267
-msgctxt "132143172-0-25267"
-msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> while Sneaking or invisible stuns the enemy for <<3>> and sets them Off Balance.\n\nWhile slotted, your Movement Speed while Sneaking or invisible is increased by <<4>>."
-msgstr "敵を切りつけて<<1>>を与える。\r\n\r\n隠密中か透明状態で<<2>>を使って攻撃すると、敵を<<3>>の間気絶させ、フラフラ状態にする。\r\n\r\nスロットに装備している間、ステルス中や透明状態での移動速度が<<4>>上昇する。"
-
-#: 198758357-0-25267
-msgctxt "198758357-0-25267"
-msgid "Concealed Weapon"
-msgstr "隠し武器"
-
-#: 132143172-0-25260
-msgctxt "132143172-0-25260"
-msgid "Slash an enemy, dealing <<1>>.  If you are flanking the enemy, shred through a small portion of their armor, reducing their Physical Resistance by <<2>> for <<3>>.\n\nAttacking with <<4>> while Sneaking or invisible stuns the enemy for <<5>> and sets them Off Balance."
-msgstr "敵を切りつけて<<1>>を与える。敵を側面から攻撃すると、鎧の一部を破砕して物理耐性が<<2>>、<<3>>の間低下する。\r\n\r\n隠密中か透明状態で<<4>>を使って攻撃すると、敵を<<5>>の間気絶させ、フラフラ状態にする。"
-
-#: 198758357-0-25260
-msgctxt "198758357-0-25260"
-msgid "Surprise Attack"
-msgstr "不意打ち"
-
 #: 132143172-0-25255
 msgctxt "132143172-0-25255"
-msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> while Sneaking or invisible stuns the enemy  for <<3>> and sets them Off Balance."
-msgstr "敵を切りつけて<<1>>を与える。\r\n\r\n隠密中か透明状態で<<2>>を使って攻撃すると、敵を<<3>>の間気絶させ、フラフラ状態にする。"
+msgid "Slash an enemy, dealing <<1>>. \n\nAttacking with <<2>> from the flank stuns the enemy  for <<3>> and sets them Off Balance."
+msgstr "敵を切りつけて<<1>>を与える。\r\n\r\n側面から<<2>>を使って攻撃すると、敵を<<3>>の間気絶させ、フラフラ状態にする。"
 
 #: 198758357-0-25255
 msgctxt "198758357-0-25255"
 msgid "Veiled Strike"
 msgstr "ベールストライク"
+
+#: 132143172-0-25375
+msgctxt "132143172-0-25375"
+msgid "Cloak yourself in shadow to become invisible for <<1>>."
+msgstr "影に身を包んで<<1>>の間透明になる。"
+
+#: 198758357-0-25375
+msgctxt "198758357-0-25375"
+msgid "Shadow Cloak"
+msgstr "シャドウクローク"
+
+#: 132143172-0-36532
+msgctxt "132143172-0-36532"
+msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している影アビリティ1つにつき、最大体力値が<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-36532
+msgctxt "198758357-0-36532"
+msgid "Dark Vigor"
+msgstr "闇の活力"
 
 #: 132143172-0-18866
 msgctxt "132143172-0-18866"
@@ -270,3 +260,13 @@ msgstr "影のアビリティを唱えると強固(強)が|cffffff3|r秒付与�
 msgctxt "198758357-0-18866"
 msgid "Shadow Barrier"
 msgstr "影の障壁"
+
+#: 132143172-0-45084
+msgctxt "132143172-0-45084"
+msgid "Increases your Max Health by <<1>> for each Shadow ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している影アビリティ1つにつき、最大体力値が<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45084
+msgctxt "198758357-0-45084"
+msgid "Dark Vigor"
+msgstr "闇の活力"

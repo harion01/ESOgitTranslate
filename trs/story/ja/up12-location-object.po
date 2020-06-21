@@ -11,6 +11,41 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 10860933-0-1905
+msgctxt "10860933-0-1905"
+msgid "Hammerdeath Arena"
+msgstr "ハンマーデス・アリーナ"
+
+#: 10860933-0-1899
+msgctxt "10860933-0-1899"
+msgid "Dungeon: Elden Hollow II"
+msgstr "エルデン洞穴2"
+
+#: 108566804-0-1899
+msgctxt "108566804-0-1899"
+msgid "You braved the dangers of the Elden Hollow."
+msgstr "エルデン洞穴の危険に立ち向かった。"
+
+#: 129979412-0-1899
+msgctxt "129979412-0-1899"
+msgid "Explore Elden Hollow."
+msgstr "エルデン洞穴を探索する。"
+
+#: 10860933-0-1897
+msgctxt "10860933-0-1897"
+msgid "Dungeon: The Banished Cells II"
+msgstr "追放者の監房2ダンジョン"
+
+#: 108566804-0-1897
+msgctxt "108566804-0-1897"
+msgid "You braved the dangers of the Banished Cells."
+msgstr "追放者の監房の危険に立ち向かった。"
+
+#: 129979412-0-1897
+msgctxt "129979412-0-1897"
+msgid "Explore the Banished Cells."
+msgstr "追放者の監房を探索する。"
+
 #: 10860933-0-1906
 msgctxt "10860933-0-1906"
 msgid "Dungeon: City of Ash II"
@@ -26,10 +61,10 @@ msgctxt "129979412-0-1906"
 msgid "The City of Ash is under attack."
 msgstr "灰の街が攻撃を受けている。"
 
-#: 10860933-0-1905
-msgctxt "10860933-0-1905"
-msgid "Hammerdeath Arena"
-msgstr "ハンマーデス・アリーナ"
+#: 10860933-0-1904
+msgctxt "10860933-0-1904"
+msgid "Dungeon: Spindleclutch II"
+msgstr "スピンドルクラッチのダンジョン2"
 
 #: 108566804-0-1904
 msgctxt "108566804-0-1904"
@@ -100,38 +135,3 @@ msgstr "ウェイレスト下水道の危険に立ち向かった。"
 msgctxt "129979412-0-1900"
 msgid "Explore Wayrest Sewers."
 msgstr "ウェイレスト下水道を探索する。"
-
-#: 10860933-0-1899
-msgctxt "10860933-0-1899"
-msgid "Dungeon: Elden Hollow II"
-msgstr "エルデン洞穴2"
-
-#: 108566804-0-1899
-msgctxt "108566804-0-1899"
-msgid "You braved the dangers of the Elden Hollow."
-msgstr "エルデン洞穴の危険に立ち向かった。"
-
-#: 129979412-0-1899
-msgctxt "129979412-0-1899"
-msgid "Explore Elden Hollow."
-msgstr "エルデン洞穴を探索する。"
-
-#: 10860933-0-1897
-msgctxt "10860933-0-1897"
-msgid "Dungeon: The Banished Cells II"
-msgstr "追放者の監房2ダンジョン"
-
-#: 108566804-0-1897
-msgctxt "108566804-0-1897"
-msgid "You braved the dangers of the Banished Cells."
-msgstr "追放者の監房の危険に立ち向かった。"
-
-#: 129979412-0-1897
-msgctxt "129979412-0-1897"
-msgid "Explore the Banished Cells."
-msgstr "追放者の監房を探索する。"
-
-#: 10860933-0-1904
-msgctxt "10860933-0-1904"
-msgid "Dungeon: Spindleclutch II"
-msgstr "スピンドルクラッチのダンジョン2"

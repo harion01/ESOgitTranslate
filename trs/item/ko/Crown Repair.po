@@ -11,16 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-61079
-msgctxt "228378404-0-61079"
-msgid "When used, this repair kit restores all your damaged equipment to its original condition."
-msgstr "이 수리 도구를 사용하면 손상된 모든 장비를 원래 상태로 복원 할 수 있습니다."
-
-#: 242841733-0-61079
-msgctxt "242841733-0-61079"
-msgid "Crown Repair Kit"
-msgstr "크라운 수리도구"
-
 #: 228378404-0-135113
 msgctxt "228378404-0-135113"
 msgid "When used, this repair kit restores all your damaged equipment to its original condition."
@@ -30,3 +20,13 @@ msgstr "이 수리 도구를 사용하면 손상된 모든 장비를 원래 상�
 msgctxt "242841733-0-135113"
 msgid "Crown Repair Kit"
 msgstr "크라운 수리 도구"
+
+#: 228378404-0-61079
+msgctxt "228378404-0-61079"
+msgid "When used, this repair kit restores all your damaged equipment to its original condition."
+msgstr "이 수리 도구를 사용하면 손상된 모든 장비를 원래 상태로 복원 할 수 있습니다."
+
+#: 242841733-0-61079
+msgctxt "242841733-0-61079"
+msgid "Crown Repair Kit"
+msgstr "크라운 수리도구"

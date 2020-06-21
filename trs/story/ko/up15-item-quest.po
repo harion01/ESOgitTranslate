@@ -11,15 +11,25 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 139139780-0-6277
-msgctxt "139139780-0-6277"
-msgid "Ghostly figures drift across the surface of this ancient lens. It clearly fits into a larger device."
-msgstr "이 고대의 렌즈의 표면에는 유령 같은 무언가가 계속 아른거립니다. 이것은 분명히 커다란 장비에 부속품 일 것입니다."
+#: 139139780-0-6274
+msgctxt "139139780-0-6274"
+msgid "This weathered notebook contains all of Wenridil's observations concerning the Daedric artifact."
+msgstr "이 낡은 노트에는  데이드릭 유물에 대해  웬위들리가 관찰해서 적어둔 모든 기록들이 있습니다."
 
-#: 267697733-0-6277
-msgctxt "267697733-0-6277"
-msgid "Liminal Lens"
-msgstr "리미널 렌즈(Liminal Lens)"
+#: 267697733-0-6274
+msgctxt "267697733-0-6274"
+msgid "Wenridil's Notebook"
+msgstr "웬위들리의 노트"
+
+#: 139139780-0-6273
+msgctxt "139139780-0-6273"
+msgid "This tightly-bound journal is stained with Adeber's blood. It contains all his notes concerning the Daedric artifact."
+msgstr "이 열리지 않는 노트는 아데이벌의 피로 더러워졌다. 이 노트에는 그가 데이드릭 유물에 대해 남겨둔 기록들이 있을것이다."
+
+#: 267697733-0-6273
+msgctxt "267697733-0-6273"
+msgid "Adeber's Notebook"
+msgstr "아데이벌의 노트"
 
 #: 139139780-0-6276
 msgctxt "139139780-0-6276"
@@ -41,25 +51,15 @@ msgctxt "267697733-0-6275"
 msgid "Neelo's Notes"
 msgstr "닐로의 노트"
 
-#: 139139780-0-6274
-msgctxt "139139780-0-6274"
-msgid "This weathered notebook contains all of Wenridil's observations concerning the Daedric artifact."
-msgstr "이 낡은 노트에는  데이드릭 유물에 대해  웬위들리가 관찰해서 적어둔 모든 기록들이 있습니다."
+#: 139139780-0-6277
+msgctxt "139139780-0-6277"
+msgid "Ghostly figures drift across the surface of this ancient lens. It clearly fits into a larger device."
+msgstr "이 고대의 렌즈의 표면에는 유령 같은 무언가가 계속 아른거립니다. 이것은 분명히 커다란 장비에 부속품 일 것입니다."
 
-#: 267697733-0-6274
-msgctxt "267697733-0-6274"
-msgid "Wenridil's Notebook"
-msgstr "웬위들리의 노트"
-
-#: 139139780-0-6273
-msgctxt "139139780-0-6273"
-msgid "This tightly-bound journal is stained with Adeber's blood. It contains all his notes concerning the Daedric artifact."
-msgstr "이 열리지 않는 노트는 아데이벌의 피로 더러워졌다. 이 노트에는 그가 데이드릭 유물에 대해 남겨둔 기록들이 있을것이다."
-
-#: 267697733-0-6273
-msgctxt "267697733-0-6273"
-msgid "Adeber's Notebook"
-msgstr "아데이벌의 노트"
+#: 267697733-0-6277
+msgctxt "267697733-0-6277"
+msgid "Liminal Lens"
+msgstr "리미널 렌즈(Liminal Lens)"
 
 #: 139139780-0-6246
 msgctxt "139139780-0-6246"

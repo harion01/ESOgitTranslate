@@ -11,113 +11,13 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-70045
-msgctxt "132143172-0-70045"
-msgid "Allows the use of Rejera, Repora, Jehade, and Itade Potency Runestones to make Glyphs of Champion 150 and 160."
+#: 132143172-0-46767
+msgctxt "132143172-0-46767"
+msgid "Increases the chance of extracting each type of Runestone by 3%."
 msgstr ""
 
-#: 198758357-0-70045
-msgctxt "198758357-0-70045"
-msgid "Potency Improvement"
-msgstr ""
-
-#: 132143172-0-49114
-msgctxt "132143172-0-49114"
-msgid "Allows the use of Kura and Kude Potency Runestones to make Glyphs of Champion 100-140."
-msgstr ""
-
-#: 198758357-0-49114
-msgctxt "198758357-0-49114"
-msgid "Potency Improvement"
-msgstr ""
-
-#: 132143172-0-49113
-msgctxt "132143172-0-49113"
-msgid "Allows the use of Rekura and Rede Potency Runestones to make Glyphs of Champion 70-90."
-msgstr ""
-
-#: 198758357-0-49113
-msgctxt "198758357-0-49113"
-msgid "Potency Improvement"
-msgstr ""
-
-#: 132143172-0-49112
-msgctxt "132143172-0-49112"
-msgid "Allows the use of Derado and Kedeko Potency Runestones to make Glyphs of Champion 50-70."
-msgstr ""
-
-#: 198758357-0-49112
-msgctxt "198758357-0-49112"
-msgid "Potency Improvement"
-msgstr ""
-
-#: 132143172-0-47853
-msgctxt "132143172-0-47853"
-msgid "Runes in the world will be easier to see when you are <<1>> or closer."
-msgstr ""
-
-#: 198758357-0-47853
-msgctxt "198758357-0-47853"
-msgid "Keen Eye: Rune Stones"
-msgstr ""
-
-#: 132143172-0-47852
-msgctxt "132143172-0-47852"
-msgid "Runes in the world will be easier to see when you are <<1>> or closer."
-msgstr ""
-
-#: 198758357-0-47852
-msgctxt "198758357-0-47852"
-msgid "Keen Eye: Rune Stones"
-msgstr ""
-
-#: 132143172-0-47851
-msgctxt "132143172-0-47851"
-msgid "Runes in the world will be easier to see when you are <<1>> or closer."
-msgstr ""
-
-#: 198758357-0-47851
-msgctxt "198758357-0-47851"
-msgid "Keen Eye: Rune Stones"
-msgstr ""
-
-#: 132143172-0-46772
-msgctxt "132143172-0-46772"
-msgid "An Enchanter hireling will search for resources for you. \nA new delivery from your hireling can be claimed the next time you log in or change zones, provided it has been no less than twelve hours since the last bundle."
-msgstr ""
-
-#: 198758357-0-46772
-msgctxt "198758357-0-46772"
-msgid "Hireling"
-msgstr ""
-
-#: 132143172-0-46771
-msgctxt "132143172-0-46771"
-msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours. Your hireling has a good chance of finding rarer Runestones."
-msgstr ""
-
-#: 198758357-0-46771
-msgctxt "198758357-0-46771"
-msgid "Hireling"
-msgstr ""
-
-#: 132143172-0-46770
-msgctxt "132143172-0-46770"
-msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours."
-msgstr ""
-
-#: 198758357-0-46770
-msgctxt "198758357-0-46770"
-msgid "Hireling"
-msgstr ""
-
-#: 132143172-0-46769
-msgctxt "132143172-0-46769"
-msgid "Increases the chance of extracting each type of Runestone by 10%."
-msgstr ""
-
-#: 198758357-0-46769
-msgctxt "198758357-0-46769"
+#: 198758357-0-46767
+msgctxt "198758357-0-46767"
 msgid "Runestone Extraction"
 msgstr ""
 
@@ -131,42 +31,62 @@ msgctxt "198758357-0-46768"
 msgid "Runestone Extraction"
 msgstr ""
 
-#: 132143172-0-46767
-msgctxt "132143172-0-46767"
-msgid "Increases the chance of extracting each type of Runestone by 3%."
+#: 132143172-0-47852
+msgctxt "132143172-0-47852"
+msgid "Runes in the world will be easier to see when you are <<1>> or closer."
 msgstr ""
 
-#: 198758357-0-46767
-msgctxt "198758357-0-46767"
+#: 198758357-0-47852
+msgctxt "198758357-0-47852"
+msgid "Keen Eye: Rune Stones"
+msgstr ""
+
+#: 132143172-0-47853
+msgctxt "132143172-0-47853"
+msgid "Runes in the world will be easier to see when you are <<1>> or closer."
+msgstr ""
+
+#: 198758357-0-47853
+msgctxt "198758357-0-47853"
+msgid "Keen Eye: Rune Stones"
+msgstr ""
+
+#: 132143172-0-46772
+msgctxt "132143172-0-46772"
+msgid "An Enchanter hireling will search for resources for you. \nA new delivery from your hireling can be claimed the next time you log in or change zones, provided it has been no less than twelve hours since the last bundle."
+msgstr ""
+
+#: 198758357-0-46772
+msgctxt "198758357-0-46772"
+msgid "Hireling"
+msgstr ""
+
+#: 132143172-0-46770
+msgctxt "132143172-0-46770"
+msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours."
+msgstr ""
+
+#: 198758357-0-46770
+msgctxt "198758357-0-46770"
+msgid "Hireling"
+msgstr ""
+
+#: 132143172-0-46771
+msgctxt "132143172-0-46771"
+msgid "When you go offline, a hireling will find Runestones for you. Your hireling refreshes every 24 hours. Your hireling has a good chance of finding rarer Runestones."
+msgstr ""
+
+#: 198758357-0-46771
+msgctxt "198758357-0-46771"
+msgid "Hireling"
+msgstr ""
+
+#: 132143172-0-46769
+msgctxt "132143172-0-46769"
+msgid "Increases the chance of extracting each type of Runestone by 10%."
+msgstr ""
+
+#: 198758357-0-46769
+msgctxt "198758357-0-46769"
 msgid "Runestone Extraction"
-msgstr ""
-
-#: 132143172-0-46740
-msgctxt "132143172-0-46740"
-msgid "Allows the use of Rera and Pode Potency Runestones to make Glyphs of Champion 30-50."
-msgstr ""
-
-#: 198758357-0-46740
-msgctxt "198758357-0-46740"
-msgid "Potency Improvement"
-msgstr ""
-
-#: 132143172-0-46736
-msgctxt "132143172-0-46736"
-msgid "Allows the use of Pora, Denara, Hade and Idode Potency Runestones to make Glyphs from level 40 to Champion 30."
-msgstr ""
-
-#: 198758357-0-46736
-msgctxt "198758357-0-46736"
-msgid "Potency Improvement"
-msgstr ""
-
-#: 132143172-0-46735
-msgctxt "132143172-0-46735"
-msgid "Allows the use of Edora, Jaera, Pojode, and Rekude Potency Runestones to make Glyphs of levels 30-45."
-msgstr ""
-
-#: 198758357-0-46735
-msgctxt "198758357-0-46735"
-msgid "Potency Improvement"
 msgstr ""

@@ -11,20 +11,1139 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 219936053-9-21521
-msgctxt "219936053-9-21521"
-msgid "Pristine Ruby Ash Wood"
-msgstr "때묻지 않은 루비 물푸레나무"
+#: 74865733-0-21434
+msgctxt "74865733-0-21434"
+msgid "Examine"
+msgstr "조사하기"
 
-#: 219936053-9-21520
-msgctxt "219936053-9-21520"
-msgid "Pristine Ruby Ash Wood"
-msgstr "때묻지 않은 루비 물푸레나무"
+#: 74865733-0-21435
+msgctxt "74865733-0-21435"
+msgid "Examine"
+msgstr "조사하기"
 
-#: 263004526-0-74660
-msgctxt "263004526-0-74660"
-msgid "Taking…"
-msgstr "가지는 중…"
+#: 74865733-0-21436
+msgctxt "74865733-0-21436"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-21437
+msgctxt "74865733-0-21437"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-21438
+msgctxt "74865733-0-21438"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 7949764-0-53383
+msgctxt "7949764-0-53383"
+msgid "Meet <<1>> Near Dragonstar"
+msgstr "<<1>> 드래곤스타 근처에서 만나요."
+
+#: 7949764-0-52179
+msgctxt "7949764-0-52179"
+msgid "Listen to the Atronachs"
+msgstr "아트로나크들의 말 듣기"
+
+#: 7949764-0-53393
+#, fuzzy
+msgctxt "7949764-0-53393"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53392
+msgctxt "7949764-0-53392"
+msgid "Enter Arx Corinium in Veteran Mode"
+msgstr "악스 코리니움 베테랑 모드에 들어가기"
+
+#: 7949764-0-53391
+#, fuzzy
+msgctxt "7949764-0-53391"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-52180
+msgctxt "7949764-0-52180"
+msgid "Listen to the Atronachs"
+msgstr "아트로나크들의 말 듣기"
+
+#: 7949764-0-53390
+#, fuzzy
+msgctxt "7949764-0-53390"
+msgid "Enter Volenfell in Veteran Mode"
+msgstr "베테랑 모드에서 Volenfell에 들어가기-G-"
+
+#: 7949764-0-52181
+msgctxt "7949764-0-52181"
+msgid "Listen to the Atronachs"
+msgstr "아트로나크들의 말 듣기"
+
+#: 7949764-0-53812
+#, fuzzy
+msgctxt "7949764-0-53812"
+msgid "Left the Spellscar"
+msgstr "Spellscar를 떠났어.-G-"
+
+#: 7949764-0-53811
+#, fuzzy
+msgctxt "7949764-0-53811"
+msgid "Left the Spellscar"
+msgstr "Spellscar를 떠났어.-G-"
+
+#: 7949764-0-53810
+#, fuzzy
+msgctxt "7949764-0-53810"
+msgid "Left the Spellscar"
+msgstr "Spellscar를 떠났어.-G-"
+
+#: 7949764-0-53495
+#, fuzzy
+msgctxt "7949764-0-53495"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53494
+#, fuzzy
+msgctxt "7949764-0-53494"
+msgid "Enter <<1>> in Veteran Mode"
+msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
+
+#: 7949764-0-53364
+msgctxt "7949764-0-53364"
+msgid "Rescue <<1>>"
+msgstr "<<1>>을(를) 구출하기"
+
+#: 7949764-0-53363
+msgctxt "7949764-0-53363"
+msgid "Rescue <<1>>"
+msgstr "<<1>>을(를) 구출하기"
+
+#: 7949764-0-53362
+msgctxt "7949764-0-53362"
+msgid "Rescue the Bantam Guar"
+msgstr "밴텀 구아를 구해내기"
+
+#: 7949764-0-53365
+msgctxt "7949764-0-53365"
+msgid "Rescue <<1>>"
+msgstr "<<1>>을(를) 구출하기"
+
+#: 7949764-0-53117
+msgctxt "7949764-0-53117"
+msgid "Investigate Dawnmead Dolmen"
+msgstr "여명초원 돌멘을 조사하기"
+
+#: 7949764-0-53479
+#, fuzzy
+msgctxt "7949764-0-53479"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53116
+msgctxt "7949764-0-53116"
+msgid "Investigate Jodewood Dolmen"
+msgstr "Jodewood 돌멘을 조사하기"
+
+#: 74865733-0-21421
+msgctxt "74865733-0-21421"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 74865733-0-21422
+msgctxt "74865733-0-21422"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 7949764-0-53474
+#, fuzzy
+msgctxt "7949764-0-53474"
+msgid "Read the <<1>> then kill <<2>>"
+msgstr "<<1>>을 읽고 <<2>>를 죽이십시오.-G-"
+
+#: 7949764-0-53111
+msgctxt "7949764-0-53111"
+msgid "Investigate Wilderking Court Dolmen"
+msgstr "윌더킹 궁궐 돌멘 조사하기"
+
+#: 7949764-0-53473
+#, fuzzy
+msgctxt "7949764-0-53473"
+msgid "Enter <<1>> in Veteran Mode"
+msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
+
+#: 7949764-0-53110
+msgctxt "7949764-0-53110"
+msgid "Destroy Dark Anchors in Greenshade"
+msgstr "그린셰이드의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53472
+#, fuzzy
+msgctxt "7949764-0-53472"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53350
+msgctxt "7949764-0-53350"
+msgid "Talk to the Thief"
+msgstr "도둑과 대화하기"
+
+#: 7949764-0-53478
+#, fuzzy
+msgctxt "7949764-0-53478"
+msgid "Enter <<1>> in Veteran Mode"
+msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
+
+#: 7949764-0-53115
+msgctxt "7949764-0-53115"
+msgid "Investigate Northern Woods Dolmen"
+msgstr "Northern Woods 돌멘을 조사하기"
+
+#: 7949764-0-53114
+msgctxt "7949764-0-53114"
+msgid "Destroy Dark Anchors in Reaper's March"
+msgstr "리퍼스 마치의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53113
+msgctxt "7949764-0-53113"
+msgid "Investigate Green's Marrow Dolmen"
+msgstr "녹색의 정수 돌멘을 조사하기"
+
+#: 7949764-0-53112
+msgctxt "7949764-0-53112"
+msgid "Investigate Drowned Coast Dolmen"
+msgstr "Drowned Coast 돌멘을 조사하기"
+
+#: 7949764-0-53108
+msgctxt "7949764-0-53108"
+msgid "Investigate Xylo River Basin Dolmen"
+msgstr "Xylo River Basin 돌멘을 조사하기"
+
+#: 7949764-0-53349
+msgctxt "7949764-0-53349"
+msgid "Investigate the <<1>>"
+msgstr "<<1>> 조사하기"
+
+#: 7949764-0-53107
+msgctxt "7949764-0-53107"
+msgid "Investigate Broken Coast Dolmen"
+msgstr "Broken Coast 돌멘을 조사하기"
+
+#: 7949764-0-53226
+msgctxt "7949764-0-53226"
+msgid "Hardmode Challenge Only Available in Veteran Mode"
+msgstr "베테랑 모드에서는 하드모드 도전만 가능"
+
+#: 7949764-0-53105
+msgctxt "7949764-0-53105"
+msgid "Destroy Dark Anchors in Malabal Tor"
+msgstr "말라발 토르의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53109
+msgctxt "7949764-0-53109"
+msgid "Investigate Silvenar Vale Dolmen"
+msgstr "실베나 골짜기의 고인돌 조사하기"
+
+#: 7949764-0-53100
+msgctxt "7949764-0-53100"
+msgid "Investigate Smokefrost Peaks Dolmen"
+msgstr "Smokefrost Peaks 돌멘을 조사하기"
+
+#: 7949764-0-53583
+msgctxt "7949764-0-53583"
+msgid "Use the Scroll and Kill the Mad Architect"
+msgstr "스크롤을 읽고 미친 건축가를 죽이기"
+
+#: 7949764-0-53582
+#, fuzzy
+msgctxt "7949764-0-53582"
+msgid "Hardmode Challenge Only Available in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53581
+#, fuzzy
+msgctxt "7949764-0-53581"
+msgid "Enter Vaults of Madness in Veteran Mode"
+msgstr "베테랑 모드에서 광기의 금고에 들어가기-G-"
+
+#: 7949764-0-53225
+#, fuzzy
+msgctxt "7949764-0-53225"
+msgid "Enter the Banished Cells in Veteran Mode"
+msgstr "베테랑 모드에서 버려진 셀 입력-G-"
+
+#: 7949764-0-53104
+msgctxt "7949764-0-53104"
+msgid "Investigate Tarlain Heights Dolmen"
+msgstr "Tarlain Heights 돌멘을 조사하기"
+
+#: 7949764-0-53103
+msgctxt "7949764-0-53103"
+msgid "Investigate Green Hall Dolmen"
+msgstr "Green Hall 돌멘을 조사하기"
+
+#: 7949764-0-53102
+msgctxt "7949764-0-53102"
+msgid "Investigate Long Cast Dolmen"
+msgstr "Long Cast 돌멘을 조사하기"
+
+#: 7949764-0-53101
+msgctxt "7949764-0-53101"
+msgid "Destroy Dark Anchors in Grahtwood"
+msgstr "그랏우드의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-37895
+msgctxt "7949764-0-37895"
+msgid "Follow the Nereids"
+msgstr "네레이드를 따라가기"
+
+#: 7949764-0-53693
+#, fuzzy
+msgctxt "7949764-0-53693"
+msgid "Observe the Farsight"
+msgstr "Farsight를 관찰하십시오.-G-"
+
+#: 7949764-0-53692
+#, fuzzy
+msgctxt "7949764-0-53692"
+msgid "Enter the Sanctum of Farsight"
+msgstr "Sanctum of Farsight에 입장하십시오.-G-"
+
+#: 8158238-0-2097
+msgctxt "8158238-0-2097"
+msgid "Fishing …"
+msgstr "낚시 중.."
+
+#: 7949764-0-53688
+#, fuzzy
+msgctxt "7949764-0-53688"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53687
+#, fuzzy
+msgctxt "7949764-0-53687"
+msgid "Use the <<1>> then Defeat Allene Pellingare"
+msgstr "<<1>>을 사용하고 Allene Pellingare를 물리 치십시오.-G-"
+
+#: 7949764-0-53445
+#, fuzzy
+msgctxt "7949764-0-53445"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53324
+msgctxt "7949764-0-53324"
+msgid "Search for the Indecent Imperial at Bangkorai Gate"
+msgstr "뱅코라이 정문에서 음란한 임페리얼 찾기"
+
+#: 7949764-0-53686
+#, fuzzy
+msgctxt "7949764-0-53686"
+msgid "Enter Wayrest Sewers I in Veteran Mode"
+msgstr "베테랑 모드에서 Wayrest Sewers I에 입장-G-"
+
+#: 7949764-0-53444
+#, fuzzy
+msgctxt "7949764-0-53444"
+msgid "Enter <<1>> in Veteran Mode"
+msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
+
+#: 7949764-0-53690
+#, fuzzy
+msgctxt "7949764-0-53690"
+msgid "Talk to Cassipia"
+msgstr "Cassipia와 대화-G-"
+
+#: 7949764-0-53438
+#, fuzzy
+msgctxt "7949764-0-53438"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53439
+#, fuzzy
+msgctxt "7949764-0-53439"
+msgid "Enter <<1>> in Veteran Mode"
+msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
+
+#: 7949764-0-53426
+#, fuzzy
+msgctxt "7949764-0-53426"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53425
+#, fuzzy
+msgctxt "7949764-0-53425"
+msgid "Use the Scroll Before Killing the Sentinel"
+msgstr "센티넬을 죽이기 전에 스크롤을 사용하십시오.-G-"
+
+#: 7949764-0-53787
+#, fuzzy
+msgctxt "7949764-0-53787"
+msgid "Talk to Hides-the-Ashes"
+msgstr "Hides-the-Ashes와 (과) 이야기하십시오.-G-"
+
+#: 7949764-0-53428
+#, fuzzy
+msgctxt "7949764-0-53428"
+msgid "Enter <<1>> in Veteran Mode"
+msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
+
+#: 7949764-0-53782
+#, fuzzy
+msgctxt "7949764-0-53782"
+msgid "Talk to Heem-Jas"
+msgstr "Heem-Jas와 대화-G-"
+
+#: 7949764-0-53540
+#, fuzzy
+msgctxt "7949764-0-53540"
+msgid "Enter Selene's Web in Veteran Mode"
+msgstr "베테랑 모드에서 셀렌의 웹 입력-G-"
+
+#: 7949764-0-54078
+msgctxt "7949764-0-54078"
+msgid "Kill Encroaching Wildlife"
+msgstr "위협적인 야생 동물을 사냥하기"
+
+#: 7949764-0-53781
+#, fuzzy
+msgctxt "7949764-0-53781"
+msgid "You Have a Flame Infusion"
+msgstr "너는 화염 주입이있다.-G-"
+
+#: 7949764-0-53660
+msgctxt "7949764-0-53660"
+msgid "Fishing Holes"
+msgstr "낚시터"
+
+#: 12912341-0-74121
+msgctxt "12912341-0-74121"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 7949764-0-53785
+#, fuzzy
+msgctxt "7949764-0-53785"
+msgid "You Have a Storm Infusion"
+msgstr "너는 폭풍우 주입이있다-G-"
+
+#: 7949764-0-53784
+#, fuzzy
+msgctxt "7949764-0-53784"
+msgid "You Have A Frost Infusion"
+msgstr "너는 서리 주입을 가진다.-G-"
+
+#: 7949764-0-53542
+#, fuzzy
+msgctxt "7949764-0-53542"
+msgid "Hardmode Challenge Only Available In Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53541
+#, fuzzy
+msgctxt "7949764-0-53541"
+msgid "Use the Scroll Before Killing Selene"
+msgstr "Selene를 죽이기 전 스크롤 사용하기-G-"
+
+#: 7949764-0-53658
+msgctxt "7949764-0-53658"
+msgid "Purchase Bait from <<1>>"
+msgstr "<<1>>에게서 미끼를 구입하기"
+
+#: 7949764-0-53416
+#, fuzzy
+msgctxt "7949764-0-53416"
+msgid "Hardmode Challenge Only Available In Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53415
+#, fuzzy
+msgctxt "7949764-0-53415"
+msgid "Use the Scroll Before Killing the Whisperer"
+msgstr "속삭이는 사람을 죽이기 전에 스크롤을 사용하십시오.-G-"
+
+#: 7949764-0-53656
+#, fuzzy
+msgctxt "7949764-0-53656"
+msgid "Activate Bridge"
+msgstr "다리 활성화-G-"
+
+#: 7949764-0-53414
+#, fuzzy
+msgctxt "7949764-0-53414"
+msgid "Enter Spindleclutch in Veteran Mode"
+msgstr "베테랑 모드에서 스핀들 클러치를 사용하십시오-G-"
+
+#: 7949764-0-53419
+msgctxt "7949764-0-53419"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "하드 모드 챌린지는 베테랑 모드에서만 사용 가능"
+
+#: 7949764-0-53418
+#, fuzzy
+msgctxt "7949764-0-53418"
+msgid "Enter Crypt of Hearts II in Veteran Mode"
+msgstr "베테랑 모드에서 하트 2 크립트 입력-G-"
+
+#: 7949764-0-53659
+msgctxt "7949764-0-53659"
+msgid "Fishing Holes"
+msgstr "낚시터"
+
+#: 7949764-0-53099
+msgctxt "7949764-0-53099"
+msgid "Investigate Ragged Hills Dolmen"
+msgstr "Ragged Hills 돌멘을 조사하기"
+
+#: 7949764-0-53098
+msgctxt "7949764-0-53098"
+msgid "Investigate Stony Basin Dolmen"
+msgstr "Stony Basin 돌멘을 조사하기"
+
+#: 7949764-0-53097
+msgctxt "7949764-0-53097"
+msgid "Destroy Dark Anchors in The Rift"
+msgstr "리프트의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53412
+#, fuzzy
+msgctxt "7949764-0-53412"
+msgid "Read the <<1>> then kill <<2>>"
+msgstr "<<1>>을 읽고 <<2>>를 죽이십시오.-G-"
+
+#: 7949764-0-53411
+msgctxt "7949764-0-53411"
+msgid "Read the <<1>> and then Kill the Twins"
+msgstr "<<1>>를 읽고 쌍둥이를 죽이기"
+
+#: 7949764-0-53410
+#, fuzzy
+msgctxt "7949764-0-53410"
+msgid "Read the <<1>> then Defeat the Trinity"
+msgstr "<<1>>을 읽고 삼위 일체를 물리 치십시오.-G-"
+
+#: 12912341-0-75470
+msgctxt "12912341-0-75470"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 7949764-0-53768
+#, fuzzy
+msgctxt "7949764-0-53768"
+msgid "Kill Enemies Around Shards then Collect Infusions"
+msgstr "Shards 주변의 적을 죽인 다음 주입물을 수집하십시오.-G-"
+
+#: 7949764-0-53526
+#, fuzzy
+msgctxt "7949764-0-53526"
+msgid "Hardmode Challenge Only Available in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53646
+msgctxt "7949764-0-53646"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 7949764-0-53525
+#, fuzzy
+msgctxt "7949764-0-53525"
+msgid "Enter Tempest Island in Veteran Mode"
+msgstr "베테랑 모드에서 폭풍 섬에 들어가기-G-"
+
+#: 7949764-0-53645
+msgctxt "7949764-0-53645"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 7949764-0-53524
+#, fuzzy
+msgctxt "7949764-0-53524"
+msgid "Use the Scroll Before Killing the Stormreeve"
+msgstr "Stormreeve를 죽이기 전에 스크롤을 사용하십시오.-G-"
+
+#: 7949764-0-53644
+msgctxt "7949764-0-53644"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 7949764-0-53409
+msgctxt "7949764-0-53409"
+msgid "Use the Scroll and Kill Sellistrix"
+msgstr "두루마리를 사용하고 셀리스트릭스를 죽이기"
+
+#: 7949764-0-53408
+msgctxt "7949764-0-53408"
+msgid "Read the <<1>> and then Kill <<2>>"
+msgstr "<<1>>을(를) 읽고 <<2>>을(를) 죽이기"
+
+#: 7949764-0-53089
+msgctxt "7949764-0-53089"
+msgid "Investigate Giant's Run Dolmen"
+msgstr "Giant's Run 돌멘을 조사하기"
+
+#: 7949764-0-53088
+msgctxt "7949764-0-53088"
+msgid "Investigate Venomous Fens Dolmen"
+msgstr "Venomous Fens 돌멘을 조사하기"
+
+#: 7949764-0-53087
+msgctxt "7949764-0-53087"
+msgid "Investigate Leafwater Dolmen"
+msgstr "Leafwater 돌멘을 조사하기"
+
+#: 7949764-0-53086
+msgctxt "7949764-0-53086"
+msgid "Investigate Reticulated Spine Dolmen"
+msgstr "Reticulated Spine 돌멘을 조사하기"
+
+#: 7949764-0-53643
+#, fuzzy
+msgctxt "7949764-0-53643"
+msgid "Meet the Thief at the Top of the Rise"
+msgstr "라이즈의 탑에서 도둑 만나기-G-"
+
+#: 7949764-0-53401
+#, fuzzy
+msgctxt "7949764-0-53401"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53884
+#, fuzzy
+msgctxt "7949764-0-53884"
+msgid "Talk to Hara"
+msgstr "하라에게 말하기-G-"
+
+#: 7949764-0-53400
+msgctxt "7949764-0-53400"
+msgid "Enter Darkshade Caverns II in Veteran Mode"
+msgstr "어둠그늘 동굴 II 베테랑 모드에 들어가기"
+
+#: 7949764-0-53883
+msgctxt "7949764-0-53883"
+msgid "Free <<1>>"
+msgstr "<<1>> 풀어주기"
+
+#: 7949764-0-53092
+msgctxt "7949764-0-53092"
+msgid "Destroy Dark Anchors in Eastmarch"
+msgstr "이스트마치의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53091
+msgctxt "7949764-0-53091"
+msgid "Investigate Icewind Peaks Dolmen"
+msgstr "Icewind Peaks 돌멘을 조사하기"
+
+#: 7949764-0-53090
+msgctxt "7949764-0-53090"
+msgid "Investigate Frostwater Tundra Dolmen"
+msgstr "Frostwater Tundra 돌멘을 조사하기"
+
+#: 7949764-0-53096
+msgctxt "7949764-0-53096"
+msgid "Investigate Vafe Dolmen"
+msgstr "Vafe 돌멘을 조사하기"
+
+#: 7949764-0-53095
+msgctxt "7949764-0-53095"
+msgid "Investigate Calambar Dolmen"
+msgstr "Calambar 돌멘을 조사하기"
+
+#: 7949764-0-53094
+msgctxt "7949764-0-53094"
+msgid "Investigate Iluvamir Dolmen"
+msgstr "Iluvamir 돌멘을 조사하기"
+
+#: 7949764-0-53093
+msgctxt "7949764-0-53093"
+msgid "Destroy Dark Anchors in Auridon"
+msgstr "아우리돈의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53519
+#, fuzzy
+msgctxt "7949764-0-53519"
+msgid "Hardmode Challenge Only Available In Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53518
+#, fuzzy
+msgctxt "7949764-0-53518"
+msgid "Use the Scroll Before Killing the Canonreeve"
+msgstr "Canonreeve를 죽이기 전에 스크롤을 사용하십시오.-G-"
+
+#: 7949764-0-53517
+#, fuzzy
+msgctxt "7949764-0-53517"
+msgid "Enter Elden Hollow I in Veteran Mode"
+msgstr "베테랑 모드에서 Elden Hollow를 입력하십시오.-G-"
+
+#: 7949764-0-53078
+msgctxt "7949764-0-53078"
+msgid "Investigate Zabamat Dolmen"
+msgstr "Zabamat 돌멘을 조사하기"
+
+#: 7949764-0-53077
+msgctxt "7949764-0-53077"
+msgid "Investigate Daen Seeth Dolmen"
+msgstr "Daen Seeth 돌멘을 조사하기"
+
+#: 7949764-0-54044
+msgctxt "7949764-0-54044"
+msgid "Collect <<1>>"
+msgstr " <<1>>을 수집하기"
+
+#: 7949764-0-53076
+msgctxt "7949764-0-53076"
+msgid "Destroy Dark Anchors in Stonefalls"
+msgstr "스톤폴즈의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-54043
+msgctxt "7949764-0-54043"
+msgid "Collect <<1>>"
+msgstr " <<1>>를 수집하기"
+
+#: 7949764-0-53075
+msgctxt "7949764-0-53075"
+msgid "Investigate Fallen Wastes Dolmen"
+msgstr "Fallen Wastes 돌멘을 조사하기"
+
+#: 7949764-0-54047
+msgctxt "7949764-0-54047"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 7949764-0-53079
+msgctxt "7949764-0-53079"
+msgid "Investigate Varanis Dolmen"
+msgstr "Varanis 돌멘을 조사하기"
+
+#: 7949764-0-53081
+msgctxt "7949764-0-53081"
+msgid "Investigate Lagomere Dolmen"
+msgstr "Lagomere 돌멘을 조사하기"
+
+#: 7949764-0-53080
+msgctxt "7949764-0-53080"
+msgid "Investigate Redolant Loam Dolmen"
+msgstr "Redolant Loam 돌멘을 조사하기"
+
+#: 7949764-0-54053
+#, fuzzy
+msgctxt "7949764-0-54053"
+msgid "Talk to Ralai to Learn More"
+msgstr "더 많은 것을 배우기 위해 랄 라이와 대화하십시오.-G-"
+
+#: 7949764-0-53085
+msgctxt "7949764-0-53085"
+msgid "Destroy Dark Anchors in Shadowfen"
+msgstr "섀도우펜의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-54052
+#, fuzzy
+msgctxt "7949764-0-54052"
+msgid "Talk to Ralai to Learn More"
+msgstr "더 많은 것을 배우기 위해 랄 라이와 대화하십시오.-G-"
+
+#: 7949764-0-54051
+#, fuzzy
+msgctxt "7949764-0-54051"
+msgid "Talk to Ralai to Learn More"
+msgstr "더 많은 것을 배우기 위해 랄 라이와 대화하십시오.-G-"
+
+#: 7949764-0-53083
+msgctxt "7949764-0-53083"
+msgid "Destroy Dark Anchors in Deshaan"
+msgstr "데샨의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53082
+msgctxt "7949764-0-53082"
+msgid "Investigate Siltreen Dolmen"
+msgstr "Siltreen 돌멘을 조사하기"
+
+#: 7949764-0-53508
+msgctxt "7949764-0-53508"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-53507
+msgctxt "7949764-0-53507"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-53506
+msgctxt "7949764-0-53506"
+msgid "Kill <<1>>"
+msgstr "<<1>>을(를) 죽이기"
+
+#: 7949764-0-53067
+msgctxt "7949764-0-53067"
+msgid "Investigate Boralis Dolmen"
+msgstr "Boralis 돌멘을 조사하기"
+
+#: 7949764-0-53066
+msgctxt "7949764-0-53066"
+msgid "Investigate Westmark Moor Dolmen"
+msgstr "Westmark Moor 돌멘을 조사하기"
+
+#: 7949764-0-53065
+msgctxt "7949764-0-53065"
+msgid "Investigate Eyebright Feld Dolmen"
+msgstr "Eyebright Feld 돌멘을 조사하기"
+
+#: 7949764-0-53064
+msgctxt "7949764-0-53064"
+msgid "Destroy Dark Anchors in Rivenspire"
+msgstr "리븐스파이어의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53069
+msgctxt "7949764-0-53069"
+msgid "Investigate Myrkwasa Dolmen"
+msgstr "Myrkwasa 돌멘을 조사하기"
+
+#: 7949764-0-53068
+msgctxt "7949764-0-53068"
+msgid "Destroy Dark Anchors in Alik'r Desert"
+msgstr "알리키어 사막의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53070
+msgctxt "7949764-0-53070"
+msgid "Investigate Hollow Waste Dolmen"
+msgstr "Hollow Waste 돌멘을 조사하기"
+
+#: 7949764-0-54042
+msgctxt "7949764-0-54042"
+msgid "Collect <<1>>"
+msgstr " <<1>>을 수집하기"
+
+#: 7949764-0-53074
+msgctxt "7949764-0-53074"
+msgid "Investigate Ephesus Dolmen"
+msgstr "Ephesus 돌멘을 조사하기"
+
+#: 7949764-0-54041
+msgctxt "7949764-0-54041"
+msgid "Deliver All Three Fish to <<1>>"
+msgstr "<<1>>에게 세 가지 물고기를 전달하기"
+
+#: 7949764-0-53073
+msgctxt "7949764-0-53073"
+msgid "Investigate Mournoth Dolmen"
+msgstr "Mournoth 돌멘을 조사하기"
+
+#: 7949764-0-53072
+msgctxt "7949764-0-53072"
+msgid "Destroy Dark Anchors in Bangkorai"
+msgstr "뱅코라이의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53071
+msgctxt "7949764-0-53071"
+msgid "Investigate Tigonus Dolmen"
+msgstr "Tigonus 돌멘을 조사하기"
+
+#: 7949764-0-53734
+msgctxt "7949764-0-53734"
+msgid "Talk to the Thief"
+msgstr "도둑과 대화하기"
+
+#: 7949764-0-53975
+msgctxt "7949764-0-53975"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 7949764-0-53056
+msgctxt "7949764-0-53056"
+msgid "Place <<1>>"
+msgstr "<<1>> 놓기"
+
+#: 7949764-0-54265
+#, fuzzy
+msgctxt "7949764-0-54265"
+msgid "Thamin"
+msgstr "Thamin-G-"
+
+#: 7949764-0-53055
+msgctxt "7949764-0-53055"
+msgid "Place <<1>>"
+msgstr " <<1>> 놓기"
+
+#: 7949764-0-53054
+msgctxt "7949764-0-53054"
+msgid "Destroy Dark Anchors in Glenumbra"
+msgstr "글렌움브라의 어둠의 닻을 파괴하기"
+
+#: 7949764-0-53970
+msgctxt "7949764-0-53970"
+msgid "Kill Encroaching Wildlife"
+msgstr "위협적인 야생 동물을 사냥하기"
+
+#: 7949764-0-53057
+msgctxt "7949764-0-53057"
+msgid "Place <<1>>"
+msgstr " <<1>> 놓기"
+
+#: 7949764-0-53063
+msgctxt "7949764-0-53063"
+msgid "Investigate Menevia Dolmen"
+msgstr "Menevia 돌멘을 조사하기"
+
+#: 7949764-0-54151
+#, fuzzy
+msgctxt "7949764-0-54151"
+msgid "Enter the Courtyard"
+msgstr "안뜰 들어가기-G-"
+
+#: 7949764-0-53062
+msgctxt "7949764-0-53062"
+msgid "Investigate Gavaudon Dolmen"
+msgstr "Gavaudon 돌멘을 조사하기"
+
+#: 7949764-0-54150
+#, fuzzy
+msgctxt "7949764-0-54150"
+msgid "Enter the Courtyard"
+msgstr "안뜰 들어가기-G-"
+
+#: 7949764-0-53061
+msgctxt "7949764-0-53061"
+msgid "Investigate Alcaire Dolmen"
+msgstr "알케어 돌멘을 조사하기"
+
+#: 7949764-0-53060
+msgctxt "7949764-0-53060"
+msgid "Destroy Dark Anchors in Stormhaven"
+msgstr "스톰헤이븐의 어둠의 닻을 파괴하기"
+
+#: 74865733-0-21490
+msgctxt "74865733-0-21490"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-21492
+msgctxt "74865733-0-21492"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 7949764-0-53966
+#, fuzzy
+msgctxt "7949764-0-53966"
+msgid "Join the celebration downstairs"
+msgstr "아래층에서 열리는 축제에 참가하기"
+
+#: 7949764-0-53722
+#, fuzzy
+msgctxt "7949764-0-53722"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 74865733-0-21573
+msgctxt "74865733-0-21573"
+msgid "1"
+msgstr "1-G-"
+
+#: 7949764-0-53721
+#, fuzzy
+msgctxt "7949764-0-53721"
+msgid "Use the <<1>> then Defeat Captain Blackheart"
+msgstr "<<1>>을 사용하고 대위 Blackheart를 물리 치십시오.-G-"
+
+#: 7949764-0-53969
+msgctxt "7949764-0-53969"
+msgid "Defeat <<1>>"
+msgstr " <<1>> 처치하기"
+
+#: 7949764-0-53968
+msgctxt "7949764-0-53968"
+msgid "Defeat <<1>>"
+msgstr " <<1>> 처치하기"
+
+#: 7949764-0-53967
+msgctxt "7949764-0-53967"
+msgid "Place <<1>> Around Shael Ruins"
+msgstr "<<1>>을 쉘 유적 곳곳에 놓아두기"
+
+#: 108533454-0-21216
+msgctxt "108533454-0-21216"
+msgid "Lighting …"
+msgstr "불을 붙이는중..."
+
+#: 108533454-0-21217
+msgctxt "108533454-0-21217"
+msgid "Lighting …"
+msgstr "불을 붙이는중..."
+
+#: 108533454-0-21218
+msgctxt "108533454-0-21218"
+msgid "Lighting …"
+msgstr "불을 붙이는중..."
+
+#: 12912341-0-74066
+msgctxt "12912341-0-74066"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 108533454-0-21219
+msgctxt "108533454-0-21219"
+msgid "Lighting …"
+msgstr "불을 붙이는중..."
+
+#: 7949764-0-53720
+#, fuzzy
+msgctxt "7949764-0-53720"
+msgid "Enter Blackheart Haven in Veteran Mode"
+msgstr "재향 군인 모드에서 Blackheart Haven에 입장-G-"
+
+#: 7949764-0-54015
+#, fuzzy
+msgctxt "7949764-0-54015"
+msgid "Light the Brazier"
+msgstr "Brazier 조명-G-"
+
+#: 7949764-0-53292
+#, fuzzy
+msgctxt "7949764-0-53292"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53291
+#, fuzzy
+msgctxt "7949764-0-53291"
+msgid "Enter Banished Cells I in Veteran Mode"
+msgstr "베테랑 모드에서 버려진 셀 입력-G-"
+
+#: 7949764-0-53713
+#, fuzzy
+msgctxt "7949764-0-53713"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 74865733-0-21461
+msgctxt "74865733-0-21461"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 7949764-0-53712
+#, fuzzy
+msgctxt "7949764-0-53712"
+msgid "Use the <<1>> then Defeat Kra'gh the Dreugh King"
+msgstr "<<1>>을 사용하고 Dreugh King에게 Kra'gh를 물리 치십시오.-G-"
+
+#: 7949764-0-53711
+#, fuzzy
+msgctxt "7949764-0-53711"
+msgid "Enter Fungal Grotto I in Veteran Mode"
+msgstr "베테랑 모드에서 곰팡이 그 롯트 I에 입장-G-"
+
+#: 7949764-0-53710
+msgctxt "7949764-0-53710"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
+
+#: 7949764-0-53717
+#, fuzzy
+msgctxt "7949764-0-53717"
+msgid "Enter City of Ash II in Veteran Mode"
+msgstr "베테랑 모드에서 애쉬 II의 도시에 입장하십시오.-G-"
+
+#: 7949764-0-53716
+#, fuzzy
+msgctxt "7949764-0-53716"
+msgid "Logged Out"
+msgstr "로그 아웃 됨-G-"
+
+#: 7949764-0-53715
+#, fuzzy
+msgctxt "7949764-0-53715"
+msgid "Logged Out"
+msgstr "로그 아웃 됨-G-"
+
+#: 7949764-0-53714
+#, fuzzy
+msgctxt "7949764-0-53714"
+msgid "Logged Out"
+msgstr "로그 아웃 됨-G-"
+
+#: 7949764-0-53397
+#, fuzzy
+msgctxt "7949764-0-53397"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 74865733-0-21469
+msgctxt "74865733-0-21469"
+msgid "Search"
+msgstr "수색하기"
+
+#: 7949764-0-53396
+#, fuzzy
+msgctxt "7949764-0-53396"
+msgid "Enter Crypt of Hearts I in Veteran Mode"
+msgstr "베테랑 모드에서 하트 오브 크립트 입력-G-"
+
+#: 7949764-0-53395
+#, fuzzy
+msgctxt "7949764-0-53395"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 7949764-0-53394
+msgctxt "7949764-0-53394"
+msgid "Enter City of Ash I in Veteran Mode"
+msgstr "재의 도시 I 베테랑 모드에 들어가기"
+
+#: 7949764-0-53399
+msgctxt "7949764-0-53399"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 가능한 하드 모드 도전"
+
+#: 7949764-0-53398
+#, fuzzy
+msgctxt "7949764-0-53398"
+msgid "Enter Elden Hollow II in Veteran Mode"
+msgstr "베테랑 모드에서 엘든 할로우 II에 들어가기-G-"
+
+#: 7949764-0-53718
+#, fuzzy
+msgctxt "7949764-0-53718"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
+
+#: 74865733-0-21470
+msgctxt "74865733-0-21470"
+msgid "Search"
+msgstr "수색하기"
+
+#: 74865733-0-21688
+msgctxt "74865733-0-21688"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21688
+msgctxt "108533454-0-21688"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 74865733-0-21446
+msgctxt "74865733-0-21446"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21446
+msgctxt "108533454-0-21446"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21445
+msgctxt "74865733-0-21445"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21445
+msgctxt "108533454-0-21445"
+msgid "Examining…"
+msgstr "조사중…"
 
 #: 12912341-0-74659
 msgctxt "12912341-0-74659"
@@ -36,30 +1155,70 @@ msgctxt "263004526-0-74659"
 msgid "Taking…"
 msgstr "가지는 중…"
 
-#: 12912341-0-74658
-msgctxt "12912341-0-74658"
-msgid "Take"
-msgstr "가지기"
+#: 74865733-0-21444
+msgctxt "74865733-0-21444"
+msgid "Examine"
+msgstr "조사하기"
 
-#: 263004526-0-74658
-msgctxt "263004526-0-74658"
-msgid "Taking…"
-msgstr "가지는 중…"
-
-#: 12912341-0-74121
-msgctxt "12912341-0-74121"
-msgid "Talk"
-msgstr "대화하기"
-
-#: 108533454-0-21688
-msgctxt "108533454-0-21688"
+#: 108533454-0-21444
+msgctxt "108533454-0-21444"
 msgid "Examining…"
 msgstr "조사중…"
 
-#: 74865733-0-21573
-msgctxt "74865733-0-21573"
-msgid "1"
-msgstr "1-G-"
+#: 219936053-9-21521
+msgctxt "219936053-9-21521"
+msgid "Pristine Ruby Ash Wood"
+msgstr "때묻지 않은 루비 물푸레나무"
+
+#: 219936053-8-21521
+msgctxt "219936053-8-21521"
+msgid "Pristine Nightwood"
+msgstr "때묻지 않은 깊은밤 나무"
+
+#: 219936053-7-21521
+msgctxt "219936053-7-21521"
+msgid "Pristine Mahogany"
+msgstr "때묻지 않은 마호가니"
+
+#: 219936053-6-21521
+msgctxt "219936053-6-21521"
+msgid "Pristine Ash"
+msgstr "때묻지 않은 물푸레나무"
+
+#: 219936053-5-21521
+msgctxt "219936053-5-21521"
+msgid "Pristine Birch"
+msgstr "때묻지 않은 자작나무"
+
+#: 219936053-4-21521
+msgctxt "219936053-4-21521"
+msgid "Pristine Yew"
+msgstr "때묻지 않은 주목"
+
+#: 219936053-3-21521
+msgctxt "219936053-3-21521"
+msgid "Pristine Hickory"
+msgstr "때묻지 않은 히코리"
+
+#: 219936053-2-21521
+msgctxt "219936053-2-21521"
+msgid "Pristine Beech"
+msgstr "때묻지 않은 너도밤나무"
+
+#: 219936053-1-21521
+msgctxt "219936053-1-21521"
+msgid "Pristine Oak"
+msgstr "때묻지 않은 참나무"
+
+#: 219936053-10-21521
+msgctxt "219936053-10-21521"
+msgid "Pristine Bristlecone Wood"
+msgstr "때묻지 않은 브리슬콘 나무"
+
+#: 74865733-0-21521
+msgctxt "74865733-0-21521"
+msgid "Cut"
+msgstr "자르기"
 
 #: 108533454-0-21521
 msgctxt "108533454-0-21521"
@@ -70,6 +1229,76 @@ msgstr "0-G-"
 msgctxt "219936053-0-21521"
 msgid "Pristine Maple"
 msgstr "때묻지 않은 단풍나무"
+
+#: 12912341-0-74658
+msgctxt "12912341-0-74658"
+msgid "Take"
+msgstr "가지기"
+
+#: 263004526-0-74658
+msgctxt "263004526-0-74658"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 74865733-0-21443
+msgctxt "74865733-0-21443"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21443
+msgctxt "108533454-0-21443"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 219936053-9-21520
+msgctxt "219936053-9-21520"
+msgid "Pristine Ruby Ash Wood"
+msgstr "때묻지 않은 루비 물푸레나무"
+
+#: 219936053-8-21520
+msgctxt "219936053-8-21520"
+msgid "Pristine Nightwood"
+msgstr "때묻지 않은 깊은밤 나무"
+
+#: 219936053-7-21520
+msgctxt "219936053-7-21520"
+msgid "Pristine Mahogany"
+msgstr "때묻지 않은 마호가니"
+
+#: 219936053-6-21520
+msgctxt "219936053-6-21520"
+msgid "Pristine Ash"
+msgstr "때묻지 않은 물푸레나무"
+
+#: 219936053-5-21520
+msgctxt "219936053-5-21520"
+msgid "Pristine Birch"
+msgstr "때묻지 않은 자작나무"
+
+#: 219936053-4-21520
+msgctxt "219936053-4-21520"
+msgid "Pristine Yew"
+msgstr "때묻지 않은 주목"
+
+#: 219936053-3-21520
+msgctxt "219936053-3-21520"
+msgid "Pristine Hickory"
+msgstr "때묻지 않은 히코리"
+
+#: 219936053-2-21520
+msgctxt "219936053-2-21520"
+msgid "Pristine Beech"
+msgstr "때묻지 않은 너도밤나무"
+
+#: 219936053-1-21520
+msgctxt "219936053-1-21520"
+msgid "Pristine Oak"
+msgstr "때묻지 않은 참나무"
+
+#: 219936053-10-21520
+msgctxt "219936053-10-21520"
+msgid "Pristine Bristlecone Wood"
+msgstr "때묻지 않은 브리슬콘 나무"
 
 #: 74865733-0-21520
 msgctxt "74865733-0-21520"
@@ -86,6 +1315,246 @@ msgctxt "219936053-0-21520"
 msgid "Pristine Maple"
 msgstr "때묻지 않은 단풍나무"
 
+#: 74865733-0-12074
+msgctxt "74865733-0-12074"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-12074
+msgctxt "108533454-0-12074"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-21329
+msgctxt "74865733-0-21329"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-21329
+msgctxt "108533454-0-21329"
+msgid "Travelling…"
+msgstr "이동 중…"
+
+#: 74865733-0-21449
+msgctxt "74865733-0-21449"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21449
+msgctxt "108533454-0-21449"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21328
+msgctxt "74865733-0-21328"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-21328
+msgctxt "108533454-0-21328"
+msgid "Travelling…"
+msgstr "이동 중…"
+
+#: 74865733-0-21448
+msgctxt "74865733-0-21448"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21448
+msgctxt "108533454-0-21448"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21447
+msgctxt "74865733-0-21447"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21447
+msgctxt "108533454-0-21447"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 8158238-0-2101
+msgctxt "8158238-0-2101"
+msgid "Collecting…"
+msgstr "수집중…"
+
+#: 70307621-0-2101
+msgctxt "70307621-0-2101"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 74865733-0-21512
+msgctxt "74865733-0-21512"
+msgid "Use"
+msgstr "사용하기"
+
+#: 108533454-0-21512
+msgctxt "108533454-0-21512"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-21457
+msgctxt "74865733-0-21457"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21457
+msgctxt "108533454-0-21457"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21511
+msgctxt "74865733-0-21511"
+msgid "Use"
+msgstr "사용하기"
+
+#: 108533454-0-21511
+msgctxt "108533454-0-21511"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-21456
+msgctxt "74865733-0-21456"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21456
+msgctxt "108533454-0-21456"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21312
+msgctxt "74865733-0-21312"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21312
+msgctxt "108533454-0-21312"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21355
+msgctxt "74865733-0-21355"
+msgid "Open"
+msgstr "열기"
+
+#: 108533454-0-21355
+msgctxt "108533454-0-21355"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-21454
+msgctxt "74865733-0-21454"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21454
+msgctxt "108533454-0-21454"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 74865733-0-21453
+msgctxt "74865733-0-21453"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21453
+msgctxt "108533454-0-21453"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 74865733-0-21451
+msgctxt "74865733-0-21451"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21451
+msgctxt "108533454-0-21451"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-21252
+msgctxt "74865733-0-21252"
+msgid "Use"
+msgstr "사용하기"
+
+#: 108533454-0-21252
+msgctxt "108533454-0-21252"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 74865733-0-21450
+msgctxt "74865733-0-21450"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21450
+msgctxt "108533454-0-21450"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 8158238-0-2100
+msgctxt "8158238-0-2100"
+msgid "Collecting…"
+msgstr "수집중…"
+
+#: 70307621-0-2100
+msgctxt "70307621-0-2100"
+msgid "Collect"
+msgstr "수집하기"
+
+#: 219936053-9-21519
+msgctxt "219936053-9-21519"
+msgid "Lush Ancestor Silk"
+msgstr "무성한 선조 비단"
+
+#: 219936053-8-21519
+msgctxt "219936053-8-21519"
+msgid "Lush Void Bloom"
+msgstr "무성한 공허꽃"
+
+#: 219936053-7-21519
+msgctxt "219936053-7-21519"
+msgid "Lush Silverweed"
+msgstr "무성한 은잎줄기"
+
+#: 219936053-6-21519
+msgctxt "219936053-6-21519"
+msgid "Lush Ironweed"
+msgstr "무성한 철잎줄기"
+
+#: 219936053-5-21519
+msgctxt "219936053-5-21519"
+msgid "Lush Kreshweed"
+msgstr "무성한 크레시 잎줄기"
+
+#: 219936053-4-21519
+msgctxt "219936053-4-21519"
+msgid "Lush Ebonthread"
+msgstr "무성한 에보니 실줄기"
+
+#: 219936053-3-21519
+msgctxt "219936053-3-21519"
+msgid "Lush Spidersilk"
+msgstr "무성한 거미 비단"
+
+#: 219936053-2-21519
+msgctxt "219936053-2-21519"
+msgid "Lush Cotton"
+msgstr "무성한 목화"
+
+#: 219936053-1-21519
+msgctxt "219936053-1-21519"
+msgid "Lush Flax"
+msgstr "무성한 아마"
+
+#: 219936053-10-21519
+msgctxt "219936053-10-21519"
+msgid "Lush Tundra Cotton"
+msgstr "무성한 툰드라 목화"
+
 #: 74865733-0-21519
 msgctxt "74865733-0-21519"
 msgid "Collect"
@@ -100,6 +1569,56 @@ msgstr "0-G-"
 msgctxt "219936053-0-21519"
 msgid "Lush Jute"
 msgstr "무성한 황마"
+
+#: 219936053-9-21518
+msgctxt "219936053-9-21518"
+msgid "Lush Ancestor Silk"
+msgstr "무성한 선조 비단"
+
+#: 219936053-8-21518
+msgctxt "219936053-8-21518"
+msgid "Lush Void Bloom"
+msgstr "무성한 공허꽃"
+
+#: 219936053-7-21518
+msgctxt "219936053-7-21518"
+msgid "Lush Silverweed"
+msgstr "무성한 은잎줄기"
+
+#: 219936053-6-21518
+msgctxt "219936053-6-21518"
+msgid "Lush Ironweed"
+msgstr "무성한 철잎줄기"
+
+#: 219936053-5-21518
+msgctxt "219936053-5-21518"
+msgid "Lush Kreshweed"
+msgstr "무성한 크레시 잎줄기"
+
+#: 219936053-4-21518
+msgctxt "219936053-4-21518"
+msgid "Lush Ebonthread"
+msgstr "무성한 에보니 실줄기"
+
+#: 219936053-3-21518
+msgctxt "219936053-3-21518"
+msgid "Lush Spidersilk"
+msgstr "무성한 거미 비단"
+
+#: 219936053-2-21518
+msgctxt "219936053-2-21518"
+msgid "Lush Cotton"
+msgstr "무성한 목화"
+
+#: 219936053-1-21518
+msgctxt "219936053-1-21518"
+msgid "Lush Flax"
+msgstr "무성한 아마"
+
+#: 219936053-10-21518
+msgctxt "219936053-10-21518"
+msgid "Lush Tundra Cotton"
+msgstr "무성한 툰드라 목화"
 
 #: 74865733-0-21518
 msgctxt "74865733-0-21518"
@@ -116,6 +1635,56 @@ msgctxt "219936053-0-21518"
 msgid "Lush Jute"
 msgstr "무성한 황마"
 
+#: 219936053-9-21517
+msgctxt "219936053-9-21517"
+msgid "Rich Rubedite Ore"
+msgstr "풍부한 루비다이트 광석"
+
+#: 219936053-8-21517
+msgctxt "219936053-8-21517"
+msgid "Rich Voidstone Ore"
+msgstr "풍부한 공허석 광석"
+
+#: 219936053-7-21517
+msgctxt "219936053-7-21517"
+msgid "Rich Quicksilver Ore"
+msgstr "풍부한 수은 광석"
+
+#: 219936053-6-21517
+msgctxt "219936053-6-21517"
+msgid "Rich Galatite Ore"
+msgstr "풍부한 갈라타이트 광석"
+
+#: 219936053-5-21517
+msgctxt "219936053-5-21517"
+msgid "Rich Calcinium Ore"
+msgstr "풍부한 칼시니움 광석"
+
+#: 219936053-4-21517
+msgctxt "219936053-4-21517"
+msgid "Rich Ebony Ore"
+msgstr "풍부한 에보니 광석"
+
+#: 219936053-3-21517
+msgctxt "219936053-3-21517"
+msgid "Rich Dwarven Ore"
+msgstr "풍부한 드워븐 광석"
+
+#: 219936053-2-21517
+msgctxt "219936053-2-21517"
+msgid "Rich Orichalcum Ore"
+msgstr "풍부한 오리할콘 광석"
+
+#: 219936053-1-21517
+msgctxt "219936053-1-21517"
+msgid "Rich High Iron Ore"
+msgstr "풍부한 상급 철광석"
+
+#: 219936053-10-21517
+msgctxt "219936053-10-21517"
+msgid "Rich Chromite Ore"
+msgstr "풍부한 크로마이트 광석"
+
 #: 74865733-0-21517
 msgctxt "74865733-0-21517"
 msgid "Mine"
@@ -130,6 +1699,76 @@ msgstr "0-G-"
 msgctxt "219936053-0-21517"
 msgid "Rich Iron Ore"
 msgstr "풍부한 철 광석"
+
+#: 74865733-0-21439
+msgctxt "74865733-0-21439"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-21439
+msgctxt "108533454-0-21439"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 12912341-0-74660
+msgctxt "12912341-0-74660"
+msgid "Take"
+msgstr "가지기"
+
+#: 263004526-0-74660
+msgctxt "263004526-0-74660"
+msgid "Taking…"
+msgstr "가지는 중…"
+
+#: 219936053-9-21516
+msgctxt "219936053-9-21516"
+msgid "Rich Rubedite Ore"
+msgstr "풍부한 루비다이트 광석"
+
+#: 219936053-8-21516
+msgctxt "219936053-8-21516"
+msgid "Rich Voidstone Ore"
+msgstr "풍부한 공허석 광석"
+
+#: 219936053-7-21516
+msgctxt "219936053-7-21516"
+msgid "Rich Quicksilver Ore"
+msgstr "풍부한 수은 광석"
+
+#: 219936053-6-21516
+msgctxt "219936053-6-21516"
+msgid "Rich Galatite Ore"
+msgstr "풍부한 갈라타이트 광석"
+
+#: 219936053-5-21516
+msgctxt "219936053-5-21516"
+msgid "Rich Calcinium Ore"
+msgstr "풍부한 칼시니움 광석"
+
+#: 219936053-4-21516
+msgctxt "219936053-4-21516"
+msgid "Rich Ebony Ore"
+msgstr "풍부한 에보니 광석"
+
+#: 219936053-3-21516
+msgctxt "219936053-3-21516"
+msgid "Rich Dwarven Ore"
+msgstr "풍부한 드워븐 광석"
+
+#: 219936053-2-21516
+msgctxt "219936053-2-21516"
+msgid "Rich Orichalcum Ore"
+msgstr "풍부한 오리할콘 광석"
+
+#: 219936053-1-21516
+msgctxt "219936053-1-21516"
+msgid "Rich High Iron Ore"
+msgstr "풍부한 상급 철광석"
+
+#: 219936053-10-21516
+msgctxt "219936053-10-21516"
+msgid "Rich Chromite Ore"
+msgstr "풍부한 크로마이트 광석"
 
 #: 74865733-0-21516
 msgctxt "74865733-0-21516"
@@ -166,246 +1805,6 @@ msgctxt "108533454-0-21513"
 msgid "Opening…"
 msgstr "여는 중…"
 
-#: 74865733-0-21512
-msgctxt "74865733-0-21512"
-msgid "Use"
-msgstr "사용하기"
-
-#: 108533454-0-21512
-msgctxt "108533454-0-21512"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 74865733-0-21511
-msgctxt "74865733-0-21511"
-msgid "Use"
-msgstr "사용하기"
-
-#: 108533454-0-21511
-msgctxt "108533454-0-21511"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 74865733-0-21492
-msgctxt "74865733-0-21492"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21457
-msgctxt "108533454-0-21457"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21456
-msgctxt "74865733-0-21456"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21456
-msgctxt "108533454-0-21456"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21454
-msgctxt "74865733-0-21454"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21454
-msgctxt "108533454-0-21454"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-21453
-msgctxt "74865733-0-21453"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21453
-msgctxt "108533454-0-21453"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-21451
-msgctxt "74865733-0-21451"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21451
-msgctxt "108533454-0-21451"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21450
-msgctxt "74865733-0-21450"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21450
-msgctxt "108533454-0-21450"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21449
-msgctxt "74865733-0-21449"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21449
-msgctxt "108533454-0-21449"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21448
-msgctxt "74865733-0-21448"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21448
-msgctxt "108533454-0-21448"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21447
-msgctxt "74865733-0-21447"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21447
-msgctxt "108533454-0-21447"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21446
-msgctxt "74865733-0-21446"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21446
-msgctxt "108533454-0-21446"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21445
-msgctxt "74865733-0-21445"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21445
-msgctxt "108533454-0-21445"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-21444
-msgctxt "74865733-0-21444"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21444
-msgctxt "108533454-0-21444"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-21443
-msgctxt "74865733-0-21443"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21443
-msgctxt "108533454-0-21443"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-21439
-msgctxt "74865733-0-21439"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21439
-msgctxt "108533454-0-21439"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-21438
-msgctxt "74865733-0-21438"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21355
-msgctxt "108533454-0-21355"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 74865733-0-21329
-msgctxt "74865733-0-21329"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-21329
-msgctxt "108533454-0-21329"
-msgid "Travelling…"
-msgstr "이동 중…"
-
-#: 74865733-0-21328
-msgctxt "74865733-0-21328"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-21328
-msgctxt "108533454-0-21328"
-msgid "Travelling…"
-msgstr "이동 중…"
-
-#: 74865733-0-21312
-msgctxt "74865733-0-21312"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-21312
-msgctxt "108533454-0-21312"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-21252
-msgctxt "74865733-0-21252"
-msgid "Use"
-msgstr "사용하기"
-
-#: 108533454-0-21252
-msgctxt "108533454-0-21252"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 108533454-0-21219
-msgctxt "108533454-0-21219"
-msgid "Lighting …"
-msgstr "불을 붙이는중..."
-
-#: 70307621-0-2101
-msgctxt "70307621-0-2101"
-msgid "Collect"
-msgstr "수집하기"
-
-#: 8158238-0-2100
-msgctxt "8158238-0-2100"
-msgid "Collecting…"
-msgstr "수집중…"
-
-#: 70307621-0-2100
-msgctxt "70307621-0-2100"
-msgid "Collect"
-msgstr "수집하기"
-
-#: 8158238-0-2097
-msgctxt "8158238-0-2097"
-msgid "Fishing …"
-msgstr "낚시 중.."
-
-#: 108533454-0-12074
-msgctxt "108533454-0-12074"
-msgid "Opening…"
-msgstr "여는 중…"
-
 #: 74865733-0-11998
 msgctxt "74865733-0-11998"
 msgid "Open"
@@ -415,1408 +1814,3 @@ msgstr "열기"
 msgctxt "108533454-0-11998"
 msgid "Opening…"
 msgstr "여는 중…"
-
-#: 219936053-9-21519
-msgctxt "219936053-9-21519"
-msgid "Lush Ancestor Silk"
-msgstr "무성한 선조 비단"
-
-#: 219936053-9-21518
-msgctxt "219936053-9-21518"
-msgid "Lush Ancestor Silk"
-msgstr "무성한 선조 비단"
-
-#: 219936053-9-21517
-msgctxt "219936053-9-21517"
-msgid "Rich Rubedite Ore"
-msgstr "풍부한 루비다이트 광석"
-
-#: 219936053-9-21516
-msgctxt "219936053-9-21516"
-msgid "Rich Rubedite Ore"
-msgstr "풍부한 루비다이트 광석"
-
-#: 219936053-8-21521
-msgctxt "219936053-8-21521"
-msgid "Pristine Nightwood"
-msgstr "때묻지 않은 깊은밤 나무"
-
-#: 219936053-8-21520
-msgctxt "219936053-8-21520"
-msgid "Pristine Nightwood"
-msgstr "때묻지 않은 깊은밤 나무"
-
-#: 219936053-8-21519
-msgctxt "219936053-8-21519"
-msgid "Lush Void Bloom"
-msgstr "무성한 공허꽃"
-
-#: 219936053-8-21518
-msgctxt "219936053-8-21518"
-msgid "Lush Void Bloom"
-msgstr "무성한 공허꽃"
-
-#: 219936053-8-21517
-msgctxt "219936053-8-21517"
-msgid "Rich Voidstone Ore"
-msgstr "풍부한 공허석 광석"
-
-#: 219936053-8-21516
-msgctxt "219936053-8-21516"
-msgid "Rich Voidstone Ore"
-msgstr "풍부한 공허석 광석"
-
-#: 219936053-7-21521
-msgctxt "219936053-7-21521"
-msgid "Pristine Mahogany"
-msgstr "때묻지 않은 마호가니"
-
-#: 219936053-7-21520
-msgctxt "219936053-7-21520"
-msgid "Pristine Mahogany"
-msgstr "때묻지 않은 마호가니"
-
-#: 219936053-7-21519
-msgctxt "219936053-7-21519"
-msgid "Lush Silverweed"
-msgstr "무성한 은잎줄기"
-
-#: 219936053-7-21518
-msgctxt "219936053-7-21518"
-msgid "Lush Silverweed"
-msgstr "무성한 은잎줄기"
-
-#: 219936053-7-21517
-msgctxt "219936053-7-21517"
-msgid "Rich Quicksilver Ore"
-msgstr "풍부한 수은 광석"
-
-#: 219936053-7-21516
-msgctxt "219936053-7-21516"
-msgid "Rich Quicksilver Ore"
-msgstr "풍부한 수은 광석"
-
-#: 219936053-6-21521
-msgctxt "219936053-6-21521"
-msgid "Pristine Ash"
-msgstr "때묻지 않은 물푸레나무"
-
-#: 219936053-6-21520
-msgctxt "219936053-6-21520"
-msgid "Pristine Ash"
-msgstr "때묻지 않은 물푸레나무"
-
-#: 219936053-6-21519
-msgctxt "219936053-6-21519"
-msgid "Lush Ironweed"
-msgstr "무성한 철잎줄기"
-
-#: 219936053-6-21518
-msgctxt "219936053-6-21518"
-msgid "Lush Ironweed"
-msgstr "무성한 철잎줄기"
-
-#: 219936053-6-21517
-msgctxt "219936053-6-21517"
-msgid "Rich Galatite Ore"
-msgstr "풍부한 갈라타이트 광석"
-
-#: 219936053-6-21516
-msgctxt "219936053-6-21516"
-msgid "Rich Galatite Ore"
-msgstr "풍부한 갈라타이트 광석"
-
-#: 219936053-5-21521
-msgctxt "219936053-5-21521"
-msgid "Pristine Birch"
-msgstr "때묻지 않은 자작나무"
-
-#: 219936053-5-21520
-msgctxt "219936053-5-21520"
-msgid "Pristine Birch"
-msgstr "때묻지 않은 자작나무"
-
-#: 219936053-5-21519
-msgctxt "219936053-5-21519"
-msgid "Lush Kreshweed"
-msgstr "무성한 크레시잎줄기"
-
-#: 219936053-5-21518
-msgctxt "219936053-5-21518"
-msgid "Lush Kreshweed"
-msgstr "무성한 크레시잎줄기"
-
-#: 219936053-5-21517
-msgctxt "219936053-5-21517"
-msgid "Rich Calcinium Ore"
-msgstr "풍부한 칼시니움 광석"
-
-#: 219936053-5-21516
-msgctxt "219936053-5-21516"
-msgid "Rich Calcinium Ore"
-msgstr "풍부한 칼시니움 광석"
-
-#: 219936053-4-21521
-msgctxt "219936053-4-21521"
-msgid "Pristine Yew"
-msgstr "때묻지 않은 주목"
-
-#: 219936053-4-21520
-msgctxt "219936053-4-21520"
-msgid "Pristine Yew"
-msgstr "때묻지 않은 주목"
-
-#: 219936053-4-21519
-msgctxt "219936053-4-21519"
-msgid "Lush Ebonthread"
-msgstr "무성한 에보니 실줄기"
-
-#: 219936053-4-21518
-msgctxt "219936053-4-21518"
-msgid "Lush Ebonthread"
-msgstr "무성한 에보니 실줄기"
-
-#: 219936053-4-21517
-msgctxt "219936053-4-21517"
-msgid "Rich Ebony Ore"
-msgstr "풍부한 에보니 광석"
-
-#: 219936053-4-21516
-msgctxt "219936053-4-21516"
-msgid "Rich Ebony Ore"
-msgstr "풍부한 에보니 광석"
-
-#: 219936053-3-21521
-msgctxt "219936053-3-21521"
-msgid "Pristine Hickory"
-msgstr "때묻지 않은 히코리"
-
-#: 219936053-3-21520
-msgctxt "219936053-3-21520"
-msgid "Pristine Hickory"
-msgstr "때묻지 않은 히코리"
-
-#: 219936053-3-21519
-msgctxt "219936053-3-21519"
-msgid "Lush Spidersilk"
-msgstr "무성한 거미 비단"
-
-#: 219936053-3-21518
-msgctxt "219936053-3-21518"
-msgid "Lush Spidersilk"
-msgstr "무성한 거미 비단"
-
-#: 219936053-3-21517
-msgctxt "219936053-3-21517"
-msgid "Rich Dwarven Ore"
-msgstr "풍부한 드워븐 광석"
-
-#: 219936053-3-21516
-msgctxt "219936053-3-21516"
-msgid "Rich Dwarven Ore"
-msgstr "풍부한 드워븐 광석"
-
-#: 219936053-2-21521
-msgctxt "219936053-2-21521"
-msgid "Pristine Beech"
-msgstr "때묻지 않은 너도밤나무"
-
-#: 219936053-2-21520
-msgctxt "219936053-2-21520"
-msgid "Pristine Beech"
-msgstr "때묻지 않은 너도밤나무"
-
-#: 219936053-2-21519
-msgctxt "219936053-2-21519"
-msgid "Lush Cotton"
-msgstr "무성한 목화"
-
-#: 219936053-2-21518
-msgctxt "219936053-2-21518"
-msgid "Lush Cotton"
-msgstr "무성한 목화"
-
-#: 219936053-2-21517
-msgctxt "219936053-2-21517"
-msgid "Rich Orichalcum Ore"
-msgstr "풍부한 오리할콘 광석"
-
-#: 219936053-2-21516
-msgctxt "219936053-2-21516"
-msgid "Rich Orichalcum Ore"
-msgstr "풍부한 오리할콘 광석"
-
-#: 219936053-1-21521
-msgctxt "219936053-1-21521"
-msgid "Pristine Oak"
-msgstr "때묻지 않은 참나무"
-
-#: 219936053-1-21520
-msgctxt "219936053-1-21520"
-msgid "Pristine Oak"
-msgstr "때묻지 않은 참나무"
-
-#: 219936053-1-21519
-msgctxt "219936053-1-21519"
-msgid "Lush Flax"
-msgstr "무성한 아마"
-
-#: 219936053-1-21518
-msgctxt "219936053-1-21518"
-msgid "Lush Flax"
-msgstr "무성한 아마"
-
-#: 219936053-1-21517
-msgctxt "219936053-1-21517"
-msgid "Rich High Iron Ore"
-msgstr "풍부한 상급 철광석"
-
-#: 219936053-1-21516
-msgctxt "219936053-1-21516"
-msgid "Rich High Iron Ore"
-msgstr "풍부한 상급 철광석"
-
-#: 219936053-10-21521
-msgctxt "219936053-10-21521"
-msgid "Pristine Bristlecone Wood"
-msgstr "때묻지 않은 브리슬콘 나무"
-
-#: 219936053-10-21520
-msgctxt "219936053-10-21520"
-msgid "Pristine Bristlecone Wood"
-msgstr "때묻지 않은 브리슬콘 나무"
-
-#: 219936053-10-21519
-msgctxt "219936053-10-21519"
-msgid "Lush Tundra Cotton"
-msgstr "무성한 툰드라 목화"
-
-#: 219936053-10-21518
-msgctxt "219936053-10-21518"
-msgid "Lush Tundra Cotton"
-msgstr "무성한 툰드라 목화"
-
-#: 219936053-10-21517
-msgctxt "219936053-10-21517"
-msgid "Rich Chromite Ore"
-msgstr "풍부한 크로마이트 광석"
-
-#: 219936053-10-21516
-msgctxt "219936053-10-21516"
-msgid "Rich Chromite Ore"
-msgstr "풍부한 크로마이트 광석"
-
-#: 12912341-0-75470
-msgctxt "12912341-0-75470"
-msgid "Talk"
-msgstr "대화하기"
-
-#: 12912341-0-74660
-msgctxt "12912341-0-74660"
-msgid "Take"
-msgstr "가지기"
-
-#: 12912341-0-74066
-msgctxt "12912341-0-74066"
-msgid "Talk"
-msgstr "대화하기"
-
-#: 7949764-0-54265
-#, fuzzy
-msgctxt "7949764-0-54265"
-msgid "Thamin"
-msgstr "Thamin-G-"
-
-#: 7949764-0-54151
-#, fuzzy
-msgctxt "7949764-0-54151"
-msgid "Enter the Courtyard"
-msgstr "안뜰 들어가기-G-"
-
-#: 7949764-0-54150
-#, fuzzy
-msgctxt "7949764-0-54150"
-msgid "Enter the Courtyard"
-msgstr "안뜰 들어가기-G-"
-
-#: 7949764-0-54078
-msgctxt "7949764-0-54078"
-msgid "Kill Encroaching Wildlife"
-msgstr "위협적인 야생 동물을 사냥하기"
-
-#: 7949764-0-54053
-#, fuzzy
-msgctxt "7949764-0-54053"
-msgid "Talk to Ralai to Learn More"
-msgstr "더 많은 것을 배우기 위해 랄 라이와 대화하십시오.-G-"
-
-#: 7949764-0-54052
-#, fuzzy
-msgctxt "7949764-0-54052"
-msgid "Talk to Ralai to Learn More"
-msgstr "더 많은 것을 배우기 위해 랄 라이와 대화하십시오.-G-"
-
-#: 7949764-0-54051
-#, fuzzy
-msgctxt "7949764-0-54051"
-msgid "Talk to Ralai to Learn More"
-msgstr "더 많은 것을 배우기 위해 랄 라이와 대화하십시오.-G-"
-
-#: 7949764-0-54047
-msgctxt "7949764-0-54047"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 7949764-0-54044
-msgctxt "7949764-0-54044"
-msgid "Collect <<1>>"
-msgstr " <<1>>을 수집하기"
-
-#: 7949764-0-54043
-msgctxt "7949764-0-54043"
-msgid "Collect <<1>>"
-msgstr " <<1>>를 수집하기"
-
-#: 7949764-0-54042
-msgctxt "7949764-0-54042"
-msgid "Collect <<1>>"
-msgstr " <<1>>을 수집하기"
-
-#: 7949764-0-54041
-msgctxt "7949764-0-54041"
-msgid "Deliver All Three Fish to <<1>>"
-msgstr "<<1>>에게 세 가지 물고기를 전달하기"
-
-#: 7949764-0-54015
-#, fuzzy
-msgctxt "7949764-0-54015"
-msgid "Light the Brazier"
-msgstr "Brazier 조명-G-"
-
-#: 7949764-0-53975
-msgctxt "7949764-0-53975"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 7949764-0-53970
-msgctxt "7949764-0-53970"
-msgid "Kill Encroaching Wildlife"
-msgstr "위협적인 야생 동물을 사냥하기"
-
-#: 7949764-0-53969
-msgctxt "7949764-0-53969"
-msgid "Defeat <<1>>"
-msgstr " <<1>> 처치하기"
-
-#: 7949764-0-53968
-msgctxt "7949764-0-53968"
-msgid "Defeat <<1>>"
-msgstr " <<1>> 처치하기"
-
-#: 7949764-0-53967
-msgctxt "7949764-0-53967"
-msgid "Place <<1>> Around Shael Ruins"
-msgstr "<<1>>을 쉘 유적 곳곳에 놓아두기"
-
-#: 7949764-0-53966
-#, fuzzy
-msgctxt "7949764-0-53966"
-msgid "Join the celebration downstairs"
-msgstr "아래층에서 열리는 축제에 참가하기"
-
-#: 7949764-0-53884
-#, fuzzy
-msgctxt "7949764-0-53884"
-msgid "Talk to Hara"
-msgstr "하라에게 말하기-G-"
-
-#: 7949764-0-53883
-msgctxt "7949764-0-53883"
-msgid "Free <<1>>"
-msgstr "<<1>> 풀어주기"
-
-#: 7949764-0-53812
-#, fuzzy
-msgctxt "7949764-0-53812"
-msgid "Left the Spellscar"
-msgstr "Spellscar를 떠났어.-G-"
-
-#: 7949764-0-53811
-#, fuzzy
-msgctxt "7949764-0-53811"
-msgid "Left the Spellscar"
-msgstr "Spellscar를 떠났어.-G-"
-
-#: 7949764-0-53810
-#, fuzzy
-msgctxt "7949764-0-53810"
-msgid "Left the Spellscar"
-msgstr "Spellscar를 떠났어.-G-"
-
-#: 7949764-0-53787
-#, fuzzy
-msgctxt "7949764-0-53787"
-msgid "Talk to Hides-the-Ashes"
-msgstr "Hides-the-Ashes와 (과) 이야기하십시오.-G-"
-
-#: 7949764-0-53785
-#, fuzzy
-msgctxt "7949764-0-53785"
-msgid "You Have a Storm Infusion"
-msgstr "너는 폭풍우 주입이있다-G-"
-
-#: 7949764-0-53784
-#, fuzzy
-msgctxt "7949764-0-53784"
-msgid "You Have A Frost Infusion"
-msgstr "너는 서리 주입을 가진다.-G-"
-
-#: 7949764-0-53782
-#, fuzzy
-msgctxt "7949764-0-53782"
-msgid "Talk to Heem-Jas"
-msgstr "Heem-Jas와 대화-G-"
-
-#: 7949764-0-53781
-#, fuzzy
-msgctxt "7949764-0-53781"
-msgid "You Have a Flame Infusion"
-msgstr "너는 화염 주입이있다.-G-"
-
-#: 7949764-0-53768
-#, fuzzy
-msgctxt "7949764-0-53768"
-msgid "Kill Enemies Around Shards then Collect Infusions"
-msgstr "Shards 주변의 적을 죽인 다음 주입물을 수집하십시오.-G-"
-
-#: 7949764-0-53734
-msgctxt "7949764-0-53734"
-msgid "Talk to the Thief"
-msgstr "도둑과 대화하기"
-
-#: 7949764-0-53722
-#, fuzzy
-msgctxt "7949764-0-53722"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53721
-#, fuzzy
-msgctxt "7949764-0-53721"
-msgid "Use the <<1>> then Defeat Captain Blackheart"
-msgstr "<<1>>을 사용하고 대위 Blackheart를 물리 치십시오.-G-"
-
-#: 7949764-0-53720
-#, fuzzy
-msgctxt "7949764-0-53720"
-msgid "Enter Blackheart Haven in Veteran Mode"
-msgstr "재향 군인 모드에서 Blackheart Haven에 입장-G-"
-
-#: 7949764-0-53718
-#, fuzzy
-msgctxt "7949764-0-53718"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53717
-#, fuzzy
-msgctxt "7949764-0-53717"
-msgid "Enter City of Ash II in Veteran Mode"
-msgstr "베테랑 모드에서 애쉬 II의 도시에 입장하십시오.-G-"
-
-#: 7949764-0-53716
-#, fuzzy
-msgctxt "7949764-0-53716"
-msgid "Logged Out"
-msgstr "로그 아웃 됨-G-"
-
-#: 7949764-0-53715
-#, fuzzy
-msgctxt "7949764-0-53715"
-msgid "Logged Out"
-msgstr "로그 아웃 됨-G-"
-
-#: 7949764-0-53714
-#, fuzzy
-msgctxt "7949764-0-53714"
-msgid "Logged Out"
-msgstr "로그 아웃 됨-G-"
-
-#: 7949764-0-53713
-#, fuzzy
-msgctxt "7949764-0-53713"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53712
-#, fuzzy
-msgctxt "7949764-0-53712"
-msgid "Use the <<1>> then Defeat Kra'gh the Dreugh King"
-msgstr "<<1>>을 사용하고 Dreugh King에게 Kra'gh를 물리 치십시오.-G-"
-
-#: 7949764-0-53711
-#, fuzzy
-msgctxt "7949764-0-53711"
-msgid "Enter Fungal Grotto I in Veteran Mode"
-msgstr "베테랑 모드에서 곰팡이 그 롯트 I에 입장-G-"
-
-#: 7949764-0-53710
-msgctxt "7949764-0-53710"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 7949764-0-53693
-#, fuzzy
-msgctxt "7949764-0-53693"
-msgid "Observe the Farsight"
-msgstr "Farsight를 관찰하십시오.-G-"
-
-#: 7949764-0-53692
-#, fuzzy
-msgctxt "7949764-0-53692"
-msgid "Enter the Sanctum of Farsight"
-msgstr "Sanctum of Farsight에 입장하십시오.-G-"
-
-#: 7949764-0-53690
-#, fuzzy
-msgctxt "7949764-0-53690"
-msgid "Talk to Cassipia"
-msgstr "Cassipia와 대화-G-"
-
-#: 7949764-0-53688
-#, fuzzy
-msgctxt "7949764-0-53688"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53687
-#, fuzzy
-msgctxt "7949764-0-53687"
-msgid "Use the <<1>> then Defeat Allene Pellingare"
-msgstr "<<1>>을 사용하고 Allene Pellingare를 물리 치십시오.-G-"
-
-#: 7949764-0-53686
-#, fuzzy
-msgctxt "7949764-0-53686"
-msgid "Enter Wayrest Sewers I in Veteran Mode"
-msgstr "베테랑 모드에서 Wayrest Sewers I에 입장-G-"
-
-#: 7949764-0-53660
-msgctxt "7949764-0-53660"
-msgid "Fishing Holes"
-msgstr "낚시터"
-
-#: 7949764-0-53659
-msgctxt "7949764-0-53659"
-msgid "Fishing Holes"
-msgstr "낚시터"
-
-#: 7949764-0-53658
-msgctxt "7949764-0-53658"
-msgid "Purchase Bait from <<1>>"
-msgstr "<<1>>에게서 미끼를 구입하기"
-
-#: 7949764-0-53656
-#, fuzzy
-msgctxt "7949764-0-53656"
-msgid "Activate Bridge"
-msgstr "다리 활성화-G-"
-
-#: 7949764-0-53646
-msgctxt "7949764-0-53646"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 7949764-0-53645
-msgctxt "7949764-0-53645"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 7949764-0-53644
-msgctxt "7949764-0-53644"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 7949764-0-53643
-#, fuzzy
-msgctxt "7949764-0-53643"
-msgid "Meet the Thief at the Top of the Rise"
-msgstr "라이즈의 탑에서 도둑 만나기-G-"
-
-#: 7949764-0-53583
-msgctxt "7949764-0-53583"
-msgid "Use the Scroll and Kill the Mad Architect"
-msgstr "스크롤을 읽고 미친 건축가를 죽이기"
-
-#: 7949764-0-53582
-#, fuzzy
-msgctxt "7949764-0-53582"
-msgid "Hardmode Challenge Only Available in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53581
-#, fuzzy
-msgctxt "7949764-0-53581"
-msgid "Enter Vaults of Madness in Veteran Mode"
-msgstr "베테랑 모드에서 광기의 금고에 들어가기-G-"
-
-#: 7949764-0-53542
-#, fuzzy
-msgctxt "7949764-0-53542"
-msgid "Hardmode Challenge Only Available In Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53541
-#, fuzzy
-msgctxt "7949764-0-53541"
-msgid "Use the Scroll Before Killing Selene"
-msgstr "Selene를 죽이기 전 스크롤 사용하기-G-"
-
-#: 7949764-0-53540
-#, fuzzy
-msgctxt "7949764-0-53540"
-msgid "Enter Selene's Web in Veteran Mode"
-msgstr "베테랑 모드에서 셀렌의 웹 입력-G-"
-
-#: 7949764-0-53526
-#, fuzzy
-msgctxt "7949764-0-53526"
-msgid "Hardmode Challenge Only Available in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53525
-#, fuzzy
-msgctxt "7949764-0-53525"
-msgid "Enter Tempest Island in Veteran Mode"
-msgstr "베테랑 모드에서 폭풍 섬에 들어가기-G-"
-
-#: 7949764-0-53524
-#, fuzzy
-msgctxt "7949764-0-53524"
-msgid "Use the Scroll Before Killing the Stormreeve"
-msgstr "Stormreeve를 죽이기 전에 스크롤을 사용하십시오.-G-"
-
-#: 7949764-0-53519
-#, fuzzy
-msgctxt "7949764-0-53519"
-msgid "Hardmode Challenge Only Available In Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53518
-#, fuzzy
-msgctxt "7949764-0-53518"
-msgid "Use the Scroll Before Killing the Canonreeve"
-msgstr "Canonreeve를 죽이기 전에 스크롤을 사용하십시오.-G-"
-
-#: 7949764-0-53517
-#, fuzzy
-msgctxt "7949764-0-53517"
-msgid "Enter Elden Hollow I in Veteran Mode"
-msgstr "베테랑 모드에서 Elden Hollow를 입력하십시오.-G-"
-
-#: 7949764-0-53508
-msgctxt "7949764-0-53508"
-msgid "Kill <<1>>"
-msgstr "<<1>>을(를) 죽이기"
-
-#: 7949764-0-53507
-msgctxt "7949764-0-53507"
-msgid "Kill <<1>>"
-msgstr "<<1>>을(를) 죽이기"
-
-#: 7949764-0-53506
-msgctxt "7949764-0-53506"
-msgid "Kill <<1>>"
-msgstr "<<1>>을(를) 죽이기"
-
-#: 7949764-0-53495
-#, fuzzy
-msgctxt "7949764-0-53495"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53494
-#, fuzzy
-msgctxt "7949764-0-53494"
-msgid "Enter <<1>> in Veteran Mode"
-msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
-
-#: 7949764-0-53479
-#, fuzzy
-msgctxt "7949764-0-53479"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53478
-#, fuzzy
-msgctxt "7949764-0-53478"
-msgid "Enter <<1>> in Veteran Mode"
-msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
-
-#: 7949764-0-53474
-#, fuzzy
-msgctxt "7949764-0-53474"
-msgid "Read the <<1>> then kill <<2>>"
-msgstr "<<1>>을 읽고 <<2>>를 죽이십시오.-G-"
-
-#: 7949764-0-53473
-#, fuzzy
-msgctxt "7949764-0-53473"
-msgid "Enter <<1>> in Veteran Mode"
-msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
-
-#: 7949764-0-53472
-#, fuzzy
-msgctxt "7949764-0-53472"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53445
-#, fuzzy
-msgctxt "7949764-0-53445"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53444
-#, fuzzy
-msgctxt "7949764-0-53444"
-msgid "Enter <<1>> in Veteran Mode"
-msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
-
-#: 7949764-0-53439
-#, fuzzy
-msgctxt "7949764-0-53439"
-msgid "Enter <<1>> in Veteran Mode"
-msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
-
-#: 7949764-0-53438
-#, fuzzy
-msgctxt "7949764-0-53438"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53428
-#, fuzzy
-msgctxt "7949764-0-53428"
-msgid "Enter <<1>> in Veteran Mode"
-msgstr "베테랑 모드에서 <<1>>을 입력하십시오.-G-"
-
-#: 7949764-0-53426
-#, fuzzy
-msgctxt "7949764-0-53426"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53425
-#, fuzzy
-msgctxt "7949764-0-53425"
-msgid "Use the Scroll Before Killing the Sentinel"
-msgstr "센티넬을 죽이기 전에 스크롤을 사용하십시오.-G-"
-
-#: 7949764-0-53419
-msgctxt "7949764-0-53419"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "하드 모드 챌린지는 베테랑 모드에서만 사용 가능"
-
-#: 7949764-0-53418
-#, fuzzy
-msgctxt "7949764-0-53418"
-msgid "Enter Crypt of Hearts II in Veteran Mode"
-msgstr "베테랑 모드에서 하트 2 크립트 입력-G-"
-
-#: 7949764-0-53416
-#, fuzzy
-msgctxt "7949764-0-53416"
-msgid "Hardmode Challenge Only Available In Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53415
-#, fuzzy
-msgctxt "7949764-0-53415"
-msgid "Use the Scroll Before Killing the Whisperer"
-msgstr "속삭이는 사람을 죽이기 전에 스크롤을 사용하십시오.-G-"
-
-#: 7949764-0-53414
-#, fuzzy
-msgctxt "7949764-0-53414"
-msgid "Enter Spindleclutch in Veteran Mode"
-msgstr "베테랑 모드에서 스핀들 클러치를 사용하십시오-G-"
-
-#: 7949764-0-53412
-#, fuzzy
-msgctxt "7949764-0-53412"
-msgid "Read the <<1>> then kill <<2>>"
-msgstr "<<1>>을 읽고 <<2>>를 죽이십시오.-G-"
-
-#: 7949764-0-53411
-msgctxt "7949764-0-53411"
-msgid "Read the <<1>> and then Kill the Twins"
-msgstr "<<1>>를 읽고 쌍둥이를 죽이기"
-
-#: 7949764-0-53410
-#, fuzzy
-msgctxt "7949764-0-53410"
-msgid "Read the <<1>> then Defeat the Trinity"
-msgstr "<<1>>을 읽고 삼위 일체를 물리 치십시오.-G-"
-
-#: 7949764-0-53409
-#, fuzzy
-msgctxt "7949764-0-53409"
-msgid "Use the Scroll and Kill Sellistrix"
-msgstr "Scroll and Kill Sellistrix 사용-G-"
-
-#: 7949764-0-53408
-#, fuzzy
-msgctxt "7949764-0-53408"
-msgid "Read the <<1>> and then Kill <<2>>"
-msgstr "<<1>> 읽고 Kill <<2>>-G-"
-
-#: 7949764-0-53401
-#, fuzzy
-msgctxt "7949764-0-53401"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53400
-msgctxt "7949764-0-53400"
-msgid "Enter Darkshade Caverns II in Veteran Mode"
-msgstr "어둠그늘 동굴 II 베테랑 모드에 들어가기"
-
-#: 7949764-0-53399
-#, fuzzy
-msgctxt "7949764-0-53399"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53398
-#, fuzzy
-msgctxt "7949764-0-53398"
-msgid "Enter Elden Hollow II in Veteran Mode"
-msgstr "베테랑 모드에서 엘든 할로우 II에 들어가기-G-"
-
-#: 7949764-0-53397
-#, fuzzy
-msgctxt "7949764-0-53397"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53396
-#, fuzzy
-msgctxt "7949764-0-53396"
-msgid "Enter Crypt of Hearts I in Veteran Mode"
-msgstr "베테랑 모드에서 하트 오브 크립트 입력-G-"
-
-#: 7949764-0-53395
-#, fuzzy
-msgctxt "7949764-0-53395"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53394
-msgctxt "7949764-0-53394"
-msgid "Enter City of Ash I in Veteran Mode"
-msgstr "재의 도시 I 베테랑 모드에 들어가기"
-
-#: 7949764-0-53393
-#, fuzzy
-msgctxt "7949764-0-53393"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53392
-msgctxt "7949764-0-53392"
-msgid "Enter Arx Corinium in Veteran Mode"
-msgstr "악스 코리니움 베테랑 모드에 들어가기"
-
-#: 7949764-0-53391
-#, fuzzy
-msgctxt "7949764-0-53391"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53390
-#, fuzzy
-msgctxt "7949764-0-53390"
-msgid "Enter Volenfell in Veteran Mode"
-msgstr "베테랑 모드에서 Volenfell에 들어가기-G-"
-
-#: 7949764-0-53383
-msgctxt "7949764-0-53383"
-msgid "Meet <<1>> Near Dragonstar"
-msgstr "<<1>> 드래곤스타 근처에서 만나요."
-
-#: 7949764-0-53365
-msgctxt "7949764-0-53365"
-msgid "Rescue <<1>>"
-msgstr "<<1>>을(를) 구출하기"
-
-#: 7949764-0-53364
-msgctxt "7949764-0-53364"
-msgid "Rescue <<1>>"
-msgstr "<<1>>을(를) 구출하기"
-
-#: 7949764-0-53363
-msgctxt "7949764-0-53363"
-msgid "Rescue <<1>>"
-msgstr "<<1>>을(를) 구출하기"
-
-#: 7949764-0-53362
-msgctxt "7949764-0-53362"
-msgid "Rescue the Bantam Guar"
-msgstr "밴텀 구아를 구해내기"
-
-#: 7949764-0-53350
-msgctxt "7949764-0-53350"
-msgid "Talk to the Thief"
-msgstr "도둑과 대화하기"
-
-#: 7949764-0-53349
-msgctxt "7949764-0-53349"
-msgid "Investigate the <<1>>"
-msgstr "<<1>> 조사하기"
-
-#: 7949764-0-53324
-msgctxt "7949764-0-53324"
-msgid "Search for the Indecent Imperial at Bangkorai Gate"
-msgstr "뱅코라이 정문에서 음란한 임페리얼 찾기"
-
-#: 7949764-0-53292
-#, fuzzy
-msgctxt "7949764-0-53292"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "베테랑 모드에서만 사용 가능한 하드 모드 챌린지-G-"
-
-#: 7949764-0-53291
-#, fuzzy
-msgctxt "7949764-0-53291"
-msgid "Enter Banished Cells I in Veteran Mode"
-msgstr "베테랑 모드에서 버려진 셀 입력-G-"
-
-#: 7949764-0-53226
-msgctxt "7949764-0-53226"
-msgid "Hardmode Challenge Only Available in Veteran Mode"
-msgstr "베테랑 모드에서는 하드모드 도전만 가능"
-
-#: 7949764-0-53225
-#, fuzzy
-msgctxt "7949764-0-53225"
-msgid "Enter the Banished Cells in Veteran Mode"
-msgstr "베테랑 모드에서 버려진 셀 입력-G-"
-
-#: 7949764-0-53117
-msgctxt "7949764-0-53117"
-msgid "Investigate Dawnmead Dolmen"
-msgstr "여명초원 돌멘을 조사하기"
-
-#: 7949764-0-53116
-msgctxt "7949764-0-53116"
-msgid "Investigate Jodewood Dolmen"
-msgstr "Jodewood 돌멘을 조사하기"
-
-#: 7949764-0-53115
-msgctxt "7949764-0-53115"
-msgid "Investigate Northern Woods Dolmen"
-msgstr "Northern Woods 돌멘을 조사하기"
-
-#: 7949764-0-53114
-msgctxt "7949764-0-53114"
-msgid "Destroy Dark Anchors in Reaper's March"
-msgstr "리퍼스 마치의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53113
-msgctxt "7949764-0-53113"
-msgid "Investigate Green's Marrow Dolmen"
-msgstr "녹색의 정수 돌멘을 조사하기"
-
-#: 7949764-0-53112
-msgctxt "7949764-0-53112"
-msgid "Investigate Drowned Coast Dolmen"
-msgstr "Drowned Coast 돌멘을 조사하기"
-
-#: 7949764-0-53111
-msgctxt "7949764-0-53111"
-msgid "Investigate Wilderking Court Dolmen"
-msgstr "윌더킹 궁궐 돌멘 조사하기"
-
-#: 7949764-0-53110
-msgctxt "7949764-0-53110"
-msgid "Destroy Dark Anchors in Greenshade"
-msgstr "그린셰이드의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53109
-msgctxt "7949764-0-53109"
-msgid "Investigate Silvenar Vale Dolmen"
-msgstr "실베나 골짜기의 고인돌 조사하기"
-
-#: 7949764-0-53108
-msgctxt "7949764-0-53108"
-msgid "Investigate Xylo River Basin Dolmen"
-msgstr "Xylo River Basin 돌멘을 조사하기"
-
-#: 7949764-0-53107
-msgctxt "7949764-0-53107"
-msgid "Investigate Broken Coast Dolmen"
-msgstr "Broken Coast 돌멘을 조사하기"
-
-#: 7949764-0-53105
-msgctxt "7949764-0-53105"
-msgid "Destroy Dark Anchors in Malabal Tor"
-msgstr "말라발 토르의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53104
-msgctxt "7949764-0-53104"
-msgid "Investigate Tarlain Heights Dolmen"
-msgstr "Tarlain Heights 돌멘을 조사하기"
-
-#: 7949764-0-53103
-msgctxt "7949764-0-53103"
-msgid "Investigate Green Hall Dolmen"
-msgstr "Green Hall 돌멘을 조사하기"
-
-#: 7949764-0-53102
-msgctxt "7949764-0-53102"
-msgid "Investigate Long Cast Dolmen"
-msgstr "Long Cast 돌멘을 조사하기"
-
-#: 7949764-0-53101
-msgctxt "7949764-0-53101"
-msgid "Destroy Dark Anchors in Grahtwood"
-msgstr "그랏우드의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53100
-msgctxt "7949764-0-53100"
-msgid "Investigate Smokefrost Peaks Dolmen"
-msgstr "Smokefrost Peaks 돌멘을 조사하기"
-
-#: 7949764-0-53099
-msgctxt "7949764-0-53099"
-msgid "Investigate Ragged Hills Dolmen"
-msgstr "Ragged Hills 돌멘을 조사하기"
-
-#: 7949764-0-53098
-msgctxt "7949764-0-53098"
-msgid "Investigate Stony Basin Dolmen"
-msgstr "Stony Basin 돌멘을 조사하기"
-
-#: 7949764-0-53097
-msgctxt "7949764-0-53097"
-msgid "Destroy Dark Anchors in The Rift"
-msgstr "리프트의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53096
-msgctxt "7949764-0-53096"
-msgid "Investigate Vafe Dolmen"
-msgstr "Vafe 돌멘을 조사하기"
-
-#: 7949764-0-53095
-msgctxt "7949764-0-53095"
-msgid "Investigate Calambar Dolmen"
-msgstr "Calambar 돌멘을 조사하기"
-
-#: 7949764-0-53094
-msgctxt "7949764-0-53094"
-msgid "Investigate Iluvamir Dolmen"
-msgstr "Iluvamir 돌멘을 조사하기"
-
-#: 7949764-0-53093
-msgctxt "7949764-0-53093"
-msgid "Destroy Dark Anchors in Auridon"
-msgstr "아우리돈의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53092
-msgctxt "7949764-0-53092"
-msgid "Destroy Dark Anchors in Eastmarch"
-msgstr "이스트마치의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53091
-msgctxt "7949764-0-53091"
-msgid "Investigate Icewind Peaks Dolmen"
-msgstr "Icewind Peaks 돌멘을 조사하기"
-
-#: 7949764-0-53090
-msgctxt "7949764-0-53090"
-msgid "Investigate Frostwater Tundra Dolmen"
-msgstr "Frostwater Tundra 돌멘을 조사하기"
-
-#: 7949764-0-53089
-msgctxt "7949764-0-53089"
-msgid "Investigate Giant's Run Dolmen"
-msgstr "Giant's Run 돌멘을 조사하기"
-
-#: 7949764-0-53088
-msgctxt "7949764-0-53088"
-msgid "Investigate Venomous Fens Dolmen"
-msgstr "Venomous Fens 돌멘을 조사하기"
-
-#: 7949764-0-53087
-msgctxt "7949764-0-53087"
-msgid "Investigate Leafwater Dolmen"
-msgstr "Leafwater 돌멘을 조사하기"
-
-#: 7949764-0-53086
-msgctxt "7949764-0-53086"
-msgid "Investigate Reticulated Spine Dolmen"
-msgstr "Reticulated Spine 돌멘을 조사하기"
-
-#: 7949764-0-53085
-msgctxt "7949764-0-53085"
-msgid "Destroy Dark Anchors in Shadowfen"
-msgstr "섀도우펜의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53083
-msgctxt "7949764-0-53083"
-msgid "Destroy Dark Anchors in Deshaan"
-msgstr "데샨의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53082
-msgctxt "7949764-0-53082"
-msgid "Investigate Siltreen Dolmen"
-msgstr "Siltreen 돌멘을 조사하기"
-
-#: 7949764-0-53081
-msgctxt "7949764-0-53081"
-msgid "Investigate Lagomere Dolmen"
-msgstr "Lagomere 돌멘을 조사하기"
-
-#: 7949764-0-53080
-msgctxt "7949764-0-53080"
-msgid "Investigate Redolant Loam Dolmen"
-msgstr "Redolant Loam 돌멘을 조사하기"
-
-#: 7949764-0-53079
-msgctxt "7949764-0-53079"
-msgid "Investigate Varanis Dolmen"
-msgstr "Varanis 돌멘을 조사하기"
-
-#: 7949764-0-53078
-msgctxt "7949764-0-53078"
-msgid "Investigate Zabamat Dolmen"
-msgstr "Zabamat 돌멘을 조사하기"
-
-#: 7949764-0-53077
-msgctxt "7949764-0-53077"
-msgid "Investigate Daen Seeth Dolmen"
-msgstr "Daen Seeth 돌멘을 조사하기"
-
-#: 7949764-0-53076
-msgctxt "7949764-0-53076"
-msgid "Destroy Dark Anchors in Stonefalls"
-msgstr "스톤폴즈의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53075
-msgctxt "7949764-0-53075"
-msgid "Investigate Fallen Wastes Dolmen"
-msgstr "Fallen Wastes 돌멘을 조사하기"
-
-#: 7949764-0-53074
-msgctxt "7949764-0-53074"
-msgid "Investigate Ephesus Dolmen"
-msgstr "Ephesus 돌멘을 조사하기"
-
-#: 7949764-0-53073
-msgctxt "7949764-0-53073"
-msgid "Investigate Mournoth Dolmen"
-msgstr "Mournoth 돌멘을 조사하기"
-
-#: 7949764-0-53072
-msgctxt "7949764-0-53072"
-msgid "Destroy Dark Anchors in Bangkorai"
-msgstr "뱅코라이의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53071
-msgctxt "7949764-0-53071"
-msgid "Investigate Tigonus Dolmen"
-msgstr "Tigonus 돌멘을 조사하기"
-
-#: 7949764-0-53070
-msgctxt "7949764-0-53070"
-msgid "Investigate Hollow Waste Dolmen"
-msgstr "Hollow Waste 돌멘을 조사하기"
-
-#: 7949764-0-53069
-msgctxt "7949764-0-53069"
-msgid "Investigate Myrkwasa Dolmen"
-msgstr "Myrkwasa 돌멘을 조사하기"
-
-#: 7949764-0-53068
-msgctxt "7949764-0-53068"
-msgid "Destroy Dark Anchors in Alik'r Desert"
-msgstr "알리키어 사막의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53067
-msgctxt "7949764-0-53067"
-msgid "Investigate Boralis Dolmen"
-msgstr "Boralis 돌멘을 조사하기"
-
-#: 7949764-0-53066
-msgctxt "7949764-0-53066"
-msgid "Investigate Westmark Moor Dolmen"
-msgstr "Westmark Moor 돌멘을 조사하기"
-
-#: 7949764-0-53065
-msgctxt "7949764-0-53065"
-msgid "Investigate Eyebright Feld Dolmen"
-msgstr "Eyebright Feld 돌멘을 조사하기"
-
-#: 7949764-0-53064
-msgctxt "7949764-0-53064"
-msgid "Destroy Dark Anchors in Rivenspire"
-msgstr "리븐스파이어의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53063
-msgctxt "7949764-0-53063"
-msgid "Investigate Menevia Dolmen"
-msgstr "Menevia 돌멘을 조사하기"
-
-#: 7949764-0-53062
-msgctxt "7949764-0-53062"
-msgid "Investigate Gavaudon Dolmen"
-msgstr "Gavaudon 돌멘을 조사하기"
-
-#: 7949764-0-53061
-msgctxt "7949764-0-53061"
-msgid "Investigate Alcaire Dolmen"
-msgstr "알케어 돌멘을 조사하기"
-
-#: 7949764-0-53060
-msgctxt "7949764-0-53060"
-msgid "Destroy Dark Anchors in Stormhaven"
-msgstr "스톰헤이븐의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-53057
-msgctxt "7949764-0-53057"
-msgid "Place <<1>>"
-msgstr " <<1>> 놓기"
-
-#: 7949764-0-53056
-msgctxt "7949764-0-53056"
-msgid "Place <<1>>"
-msgstr "<<1>> 놓기"
-
-#: 7949764-0-53055
-msgctxt "7949764-0-53055"
-msgid "Place <<1>>"
-msgstr " <<1>> 놓기"
-
-#: 7949764-0-53054
-msgctxt "7949764-0-53054"
-msgid "Destroy Dark Anchors in Glenumbra"
-msgstr "글렌움브라의 어둠의 닻을 파괴하기"
-
-#: 7949764-0-52181
-#, fuzzy
-msgctxt "7949764-0-52181"
-msgid "Listen to the Atronachs"
-msgstr "Atronachs 듣기-G-"
-
-#: 7949764-0-52180
-#, fuzzy
-msgctxt "7949764-0-52180"
-msgid "Listen to the Atronachs"
-msgstr "Atronachs 듣기-G-"
-
-#: 7949764-0-52179
-#, fuzzy
-msgctxt "7949764-0-52179"
-msgid "Listen to the Atronachs"
-msgstr "Atronachs 듣기-G-"
-
-#: 7949764-0-37895
-msgctxt "7949764-0-37895"
-msgid "Follow the Nereids"
-msgstr "네레이드를 따라가기"
-
-#: 74865733-0-21688
-msgctxt "74865733-0-21688"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21521
-msgctxt "74865733-0-21521"
-msgid "Cut"
-msgstr "자르기"
-
-#: 74865733-0-21490
-msgctxt "74865733-0-21490"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21470
-msgctxt "74865733-0-21470"
-msgid "Search"
-msgstr "수색하기"
-
-#: 74865733-0-21469
-msgctxt "74865733-0-21469"
-msgid "Search"
-msgstr "수색하기"
-
-#: 74865733-0-21461
-msgctxt "74865733-0-21461"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21457
-msgctxt "74865733-0-21457"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21437
-msgctxt "74865733-0-21437"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21436
-msgctxt "74865733-0-21436"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21435
-msgctxt "74865733-0-21435"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21434
-msgctxt "74865733-0-21434"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-21422
-msgctxt "74865733-0-21422"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 74865733-0-21421
-msgctxt "74865733-0-21421"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 74865733-0-21355
-msgctxt "74865733-0-21355"
-msgid "Open"
-msgstr "열기"
-
-#: 108533454-0-21218
-msgctxt "108533454-0-21218"
-msgid "Lighting …"
-msgstr "불을 붙이는중..."
-
-#: 108533454-0-21217
-msgctxt "108533454-0-21217"
-msgid "Lighting …"
-msgstr "불을 붙이는중..."
-
-#: 108533454-0-21216
-msgctxt "108533454-0-21216"
-msgid "Lighting …"
-msgstr "불을 붙이는중..."
-
-#: 8158238-0-2101
-msgctxt "8158238-0-2101"
-msgid "Collecting…"
-msgstr "수집중…"
-
-#: 74865733-0-12074
-msgctxt "74865733-0-12074"
-msgid "Open"
-msgstr "열기"

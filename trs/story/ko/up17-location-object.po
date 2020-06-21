@@ -21,15 +21,10 @@ msgctxt "10860933-0-2061"
 msgid "Princely Dawnlight Palace"
 msgstr "황태자의 아침 햇살 궁전"
 
-#: 108566804-0-2057
-msgctxt "108566804-0-2057"
-msgid "You stopped the cult's plague by conquering Scalecaller Peak"
-msgstr "비늘소환자 봉우리를 정복하여 교단의 전염병을 멈추게 했습니다."
-
-#: 129979412-0-2057
-msgctxt "129979412-0-2057"
-msgid "Investigate Scalecaller Peak."
-msgstr "비늘소환자 봉우리를 조사하십시오."
+#: 10860933-0-2046
+msgctxt "10860933-0-2046"
+msgid "Coldharbour Surreal Estate"
+msgstr "콜드하버 초현실주의 사유지"
 
 #: 10860933-0-2047
 msgctxt "10860933-0-2047"
@@ -46,12 +41,17 @@ msgctxt "129979412-0-2047"
 msgid "Investigate Fang Lair."
 msgstr "송곳니 둥지를 조사하십시오."
 
-#: 10860933-0-2046
-msgctxt "10860933-0-2046"
-msgid "Coldharbour Surreal Estate"
-msgstr "콜드하버 초현실주의 사유지"
-
 #: 10860933-0-2057
 msgctxt "10860933-0-2057"
 msgid "Scalecaller Peak"
 msgstr "비늘소환자 봉우리 (Scalecaller Peak)"
+
+#: 108566804-0-2057
+msgctxt "108566804-0-2057"
+msgid "You stopped the cult's plague by conquering Scalecaller Peak"
+msgstr "비늘소환자 봉우리를 정복하여 교단의 전염병을 멈추게 했습니다."
+
+#: 129979412-0-2057
+msgctxt "129979412-0-2057"
+msgid "Investigate Scalecaller Peak."
+msgstr "비늘소환자 봉우리를 조사하십시오."

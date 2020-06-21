@@ -11,16 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-61079
-msgctxt "228378404-0-61079"
-msgid "When used, this repair kit restores all your damaged equipment to its original condition."
-msgstr "この修理キットは傷ついた全ての装備を元の状態に復元する。"
-
-#: 242841733-0-61079
-msgctxt "242841733-0-61079"
-msgid "Crown Repair Kit"
-msgstr "クラウン: 修理キット"
-
 #: 228378404-0-135113
 msgctxt "228378404-0-135113"
 msgid "When used, this repair kit restores all your damaged equipment to its original condition."
@@ -28,5 +18,15 @@ msgstr "この修理キットは傷ついた全ての装備を元の状態に復
 
 #: 242841733-0-135113
 msgctxt "242841733-0-135113"
+msgid "Crown Repair Kit"
+msgstr "クラウン: 修理キット"
+
+#: 228378404-0-61079
+msgctxt "228378404-0-61079"
+msgid "When used, this repair kit restores all your damaged equipment to its original condition."
+msgstr "この修理キットは傷ついた全ての装備を元の状態に復元する。"
+
+#: 242841733-0-61079
+msgctxt "242841733-0-61079"
 msgid "Crown Repair Kit"
 msgstr "クラウン: 修理キット"

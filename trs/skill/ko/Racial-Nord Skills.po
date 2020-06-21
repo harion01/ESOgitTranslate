@@ -11,13 +11,33 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-45306
-msgctxt "132143172-0-45306"
+#: 132143172-0-36627
+msgctxt "132143172-0-36627"
+msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
+msgstr "최대 체력이 <<1>> 증가하고 냉기 저항력이 <<2>> 증가합니다.\n\nchilled 상태효과에 면역을 갖습니다."
+
+#: 198758357-0-36627
+msgctxt "198758357-0-36627"
+msgid "Resist Frost"
+msgstr "Resist Frost"
+
+#: 132143172-0-45303
+msgctxt "132143172-0-45303"
+msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
+msgstr "최대 체력이 <<1>> 증가하고 냉기 저항력이 <<2>> 증가합니다.\n\nchilled 상태효과에 면역을 갖습니다."
+
+#: 198758357-0-45303
+msgctxt "198758357-0-45303"
+msgid "Resist Frost"
+msgstr "Resist Frost"
+
+#: 132143172-0-36628
+msgctxt "132143172-0-36628"
 msgid "Increases your Physical and Spell Resistance by <<1>>."
 msgstr "물리 및 마법 저항력이 <<1>>만큼 증가합니다."
 
-#: 198758357-0-45306
-msgctxt "198758357-0-45306"
+#: 198758357-0-36628
+msgctxt "198758357-0-36628"
 msgid "Rugged"
 msgstr "Rugged"
 
@@ -41,16 +61,6 @@ msgctxt "198758357-0-45304"
 msgid "Resist Frost"
 msgstr "Resist Frost"
 
-#: 132143172-0-45303
-msgctxt "132143172-0-45303"
-msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
-msgstr "최대 체력이 <<1>> 증가하고 냉기 저항력이 <<2>> 증가합니다.\n\nchilled 상태효과에 면역을 갖습니다."
-
-#: 198758357-0-45303
-msgctxt "198758357-0-45303"
-msgid "Resist Frost"
-msgstr "Resist Frost"
-
 #: 132143172-0-45298
 msgctxt "132143172-0-45298"
 msgid "Increases your Max Stamina by <<1>>.\n\nWhen you take damage, you gain <<2>> Ultimate.  This effect can occur once every <<3>>."
@@ -71,25 +81,25 @@ msgctxt "198758357-0-45297"
 msgid "Stalwart"
 msgstr "Stalwart"
 
-#: 132143172-0-36628
-msgctxt "132143172-0-36628"
+#: 132143172-0-36064
+msgctxt "132143172-0-36064"
+msgid "Increases your Max Stamina by <<1>>.\n\nWhen you take damage, you gain <<2>> Ultimate.  This effect can occur once every <<3>>."
+msgstr "최대 스태미나가 <<1>> 증가합니다.\n\n피해를 입으면, <<2>> 궁극기 게이지를 얻습니다. 이 효과는 매 <<3>> 마다 한 번만 발동됩니다."
+
+#: 198758357-0-36064
+msgctxt "198758357-0-36064"
+msgid "Stalwart"
+msgstr "Stalwart"
+
+#: 132143172-0-45306
+msgctxt "132143172-0-45306"
 msgid "Increases your Physical and Spell Resistance by <<1>>."
 msgstr "물리 및 마법 저항력이 <<1>>만큼 증가합니다."
 
-#: 198758357-0-36628
-msgctxt "198758357-0-36628"
+#: 198758357-0-45306
+msgctxt "198758357-0-45306"
 msgid "Rugged"
 msgstr "Rugged"
-
-#: 132143172-0-36627
-msgctxt "132143172-0-36627"
-msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
-msgstr "최대 체력이 <<1>> 증가하고 냉기 저항력이 <<2>> 증가합니다.\n\nchilled 상태효과에 면역을 갖습니다."
-
-#: 198758357-0-36627
-msgctxt "198758357-0-36627"
-msgid "Resist Frost"
-msgstr "Resist Frost"
 
 #: 132143172-0-36626
 msgctxt "132143172-0-36626"
@@ -100,13 +110,3 @@ msgstr "양손무기 스킬 라인의 경험치 획득량이 |cffffff15|r% 증�
 msgctxt "198758357-0-36626"
 msgid "Reveler"
 msgstr "Reveler"
-
-#: 132143172-0-36064
-msgctxt "132143172-0-36064"
-msgid "Increases your Max Stamina by <<1>>.\n\nWhen you take damage, you gain <<2>> Ultimate.  This effect can occur once every <<3>>."
-msgstr "최대 스태미나가 <<1>> 증가합니다.\n\n피해를 입으면, <<2>> 궁극기 게이지를 얻습니다. 이 효과는 매 <<3>> 마다 한 번만 발동됩니다."
-
-#: 198758357-0-36064
-msgctxt "198758357-0-36064"
-msgid "Stalwart"
-msgstr "Stalwart"

@@ -1,0 +1,152 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-139904
+msgctxt "132143172-0-139904"
+msgid "Indicates how near the Antiquity is to the selected location."
+msgstr "選択した場所と古遺物の距離を示す。"
+
+#: 198758357-0-139904
+msgctxt "198758357-0-139904"
+msgid "Augur"
+msgstr "探知"
+
+#: 132143172-0-139905
+msgctxt "132143172-0-139905"
+msgid "Indicates how near the Antiquity is to the selected location.\n\nNew Effect: The effective depth of Augur is enhanced."
+msgstr "選択した場所と古遺物の距離を示す。\r\n\r\n新効果: 探知の効果範囲が向上する。"
+
+#: 198758357-0-139905
+msgctxt "198758357-0-139905"
+msgid "Augur"
+msgstr "探知"
+
+#: 132143172-0-139911
+msgctxt "132143172-0-139911"
+msgid "Further increases the amount of time you have available when excavating a dig site."
+msgstr "発掘現場を発掘する際に利用できる時間をさらに延長する。"
+
+#: 198758357-0-139911
+msgctxt "198758357-0-139911"
+msgid "Excavator's Reserves"
+msgstr "発掘者の準備"
+
+#: 132143172-0-139943
+msgctxt "132143172-0-139943"
+msgid "Removes deep but narrow portion of soil and rock while excavating."
+msgstr "発掘中に岩か泥をより深く、しかし狭い範囲で取り除く。"
+
+#: 198758357-0-139943
+msgctxt "198758357-0-139943"
+msgid "Trowel"
+msgstr "鏝"
+
+#: 132143172-0-139910
+msgctxt "132143172-0-139910"
+msgid "Increases the amount of time you have available when excavating a dig site."
+msgstr "発掘現場を発掘する際に利用できる時間を延長する。"
+
+#: 198758357-0-139910
+msgctxt "198758357-0-139910"
+msgid "Excavator's Reserves"
+msgstr "発掘者の準備"
+
+#: 132143172-0-139908
+msgctxt "132143172-0-139908"
+msgid "Removes a single layer of soil or rock while excavating. Also generates Intuition, allowing for more advanced digging techniques."
+msgstr "1セル内の岩か泥の、薄い1レイヤーを取り除く。さらに直感を生み出し、より進んだ発掘技術を使えるようになる。"
+
+#: 198758357-0-139908
+msgctxt "198758357-0-139908"
+msgid "Hand Brush"
+msgstr "ハンドブラシ"
+
+#: 132143172-0-139909
+msgctxt "132143172-0-139909"
+msgid "Removes a single layer of soil or rock while excavating. Also generates Intuition, allowing for more advanced digging techniques.\n\nNew Effect: Intuition meter doubles in size."
+msgstr "1セル内の岩か泥の、薄い1レイヤーを取り除く。さらに直感を生み出し、より進んだ発掘技術を使えるようになる。\r\n\r\n新効果: 直感メーターのサイズが倍になる。"
+
+#: 198758357-0-139909
+msgctxt "198758357-0-139909"
+msgid "Hand Brush"
+msgstr "ハンドブラシ"
+
+#: 132143172-0-140093
+msgctxt "132143172-0-140093"
+msgid "Removes a deep but narrow portion of soil and rock while excavating.\n\nNew Effect: Use Trowel to safely detonate fissures and trigger soil and rock-clearing chain reactions."
+msgstr "Removes a deep but narrow portion of soil and rock while excavating.\r\n\r\nNew Effect: Use Trowel to safely detonate fissures and trigger soil and rock-clearing chain reactions."
+
+#: 198758357-0-140093
+msgctxt "198758357-0-140093"
+msgid "Trowel"
+msgstr "鏝"
+
+#: 132143172-0-139906
+msgctxt "132143172-0-139906"
+msgid "Removes a full layer of dirt and rocks within a large area.\n\nThe shovel only affects a single contiguous height of dirt and rocks."
+msgstr "大きなエリアの泥と岩を一気に取り除く。\r\n\r\nこのシャベルは隣接する泥と岩の層一つのみに影響する。"
+
+#: 198758357-0-139906
+msgctxt "198758357-0-139906"
+msgid "Heavy Shovel"
+msgstr "重いシャベル"
+
+#: 132143172-0-139907
+msgctxt "132143172-0-139907"
+msgid "Removes a full layer of dirt and rocks within a large area.\n\nThe shovel only affects a single contiguous height of dirt and rocks.\n\nNew Effect: Heavy Shovel has a chance to consume zero Intuition when used."
+msgstr "大きなエリアの泥と岩を一気に取り除く。\r\n\r\nこのシャベルは隣接する泥と岩の層一つのみに影響する。\r\n\r\n新効果: 重いシャベルが使用時に直感を消費しない可能性がある。"
+
+#: 198758357-0-139907
+msgctxt "198758357-0-139907"
+msgid "Heavy Shovel"
+msgstr "重いシャベル"
+
+#: 132143172-0-140173
+msgctxt "132143172-0-140173"
+msgid "Antiquity Dig Sites will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にいると、古遺物の発掘現場が見やすくなる。"
+
+#: 198758357-0-140173
+msgctxt "198758357-0-140173"
+msgid "Keen Eye: Dig Sites"
+msgstr "鋭敏な目: 発掘現場"
+
+#: 132143172-0-140174
+msgctxt "132143172-0-140174"
+msgid "Antiquity Dig Sites will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にいると、古遺物の発掘現場が見やすくなる。"
+
+#: 198758357-0-140174
+msgctxt "198758357-0-140174"
+msgid "Keen Eye: Dig Sites"
+msgstr "鋭敏な目: 発掘現場"
+
+#: 132143172-0-139771
+msgctxt "132143172-0-139771"
+msgid "Treasure Chests will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にある宝箱を見つけやすくなる。"
+
+#: 198758357-0-139771
+msgctxt "198758357-0-139771"
+msgid "Keen Eye: Treasure Chests"
+msgstr "鋭敏な目: 宝箱"
+
+#: 132143172-0-139772
+msgctxt "132143172-0-139772"
+msgid "Treasure Chests will be easier to see when you are <<1>> or closer."
+msgstr "<<1>>内にある宝箱を見つけやすくなる。"
+
+#: 198758357-0-139772
+msgctxt "198758357-0-139772"
+msgid "Keen Eye: Treasure Chests"
+msgstr "鋭敏な目: 宝箱"

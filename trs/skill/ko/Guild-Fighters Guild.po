@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-40372
+msgctxt "132143172-0-40372"
+msgid "Launch a sharpened blade trap at a target location, which takes |cffffff1.5|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the trap deals <<2>>, an additional <<3>> over <<4>>, and grants you Minor Force, increasing your Critical Damage by <<5>> for the duration.\n\nEnemies who activate the trap are immobilized for <<6>>."
+msgstr "대상 지역에 날카로운 칼날 덫을 발사합니다. 칼날 덫은 |cffffff1.5|r초 후 활성화되며, <<1>> 동안 지속됩니다.\n\n덫이 발동되면, <<2>>를 입히고, 추가로 <<4>>에 걸쳐 총 <<3>>를 입히고, Minor Force 효과를 얻어 <<5>> 동안 치명타 피해량이 증가합니다.\n\n덫을 활성화한 적들을 <<6>> 동안 이동 불가 상태로 만듭니다."
+
+#: 198758357-0-40372
+msgctxt "198758357-0-40372"
+msgid "Lightweight Beast Trap"
+msgstr "Lightweight Beast Trap"
+
 #: 132143172-0-45599
 msgctxt "132143172-0-45599"
 msgid "You generate <<1>> Ultimate when you kill an Undead, Daedra or Werewolf."
@@ -20,36 +30,6 @@ msgstr "언데드, 데이드라, 늑대인간을 죽이면 <<1>>만큼의 궁극
 msgctxt "198758357-0-45599"
 msgid "Banish the Wicked"
 msgstr "Banish the Wicked"
-
-#: 132143172-0-45597
-msgctxt "132143172-0-45597"
-msgid "You generate <<1>> Ultimate when you kill an Undead, Daedra or Werewolf."
-msgstr "언데드, 데이드라, 늑대인간을 죽이면 <<1>>만큼의 궁극기 게이지를 획득합니다."
-
-#: 198758357-0-45597
-msgctxt "198758357-0-45597"
-msgid "Banish the Wicked"
-msgstr "Banish the Wicked"
-
-#: 132143172-0-45596
-msgctxt "132143172-0-45596"
-msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "슬롯에 있는 파이터 길드 어빌리티 한 개당 무기 피해량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
-
-#: 198758357-0-45596
-msgctxt "198758357-0-45596"
-msgid "Slayer"
-msgstr "Slayer"
-
-#: 132143172-0-45595
-msgctxt "132143172-0-45595"
-msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>"
-msgstr "슬롯에 있는 파이터 길드 어빌리티 한 개당 무기 피해량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
-
-#: 198758357-0-45595
-msgctxt "198758357-0-45595"
-msgid "Slayer"
-msgstr "Slayer"
 
 #: 132143172-0-40393
 msgctxt "132143172-0-40393"
@@ -71,36 +51,6 @@ msgctxt "198758357-0-40382"
 msgid "Barbed Trap"
 msgstr "Barbed Trap"
 
-#: 132143172-0-40372
-msgctxt "132143172-0-40372"
-msgid "Launch a sharpened blade trap at a target location, which takes |cffffff1.5|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the trap deals <<2>>, an additional <<3>> over <<4>>, and grants you Minor Force, increasing your Critical Damage by <<5>> for the duration.\n\nEnemies who activate the trap are immobilized for <<6>>."
-msgstr "대상 지역에 날카로운 칼날 덫을 발사합니다. 칼날 덫은 |cffffff1.5|r초 후 활성화되며, <<1>> 동안 지속됩니다.\n\n덫이 발동되면, <<2>>를 입히고, 추가로 <<4>>에 걸쳐 총 <<3>>를 입히고, Minor Force 효과를 얻어 <<5>> 동안 치명타 피해량이 증가합니다.\n\n덫을 활성화한 적들을 <<6>> 동안 이동 불가 상태로 만듭니다."
-
-#: 198758357-0-40372
-msgctxt "198758357-0-40372"
-msgid "Lightweight Beast Trap"
-msgstr "Lightweight Beast Trap"
-
-#: 132143172-0-40336
-msgctxt "132143172-0-40336"
-msgid "Fire a Dawnguard's crossbow hook to pull an enemy to you, dealing <<1>>, and reducing their Movement Speed by <<2>> for <<3>>."
-msgstr "대상에게 던가드 뱀파이어 사냥꾼의 갈고리 석궁을 발사해 당신의 위치로 끌어당깁니다. <<1>>를 입히고, <<3>>동안 <<2>>만큼 감속시킵니다.\n"
-
-#: 198758357-0-40336
-msgctxt "198758357-0-40336"
-msgid "Silver Leash"
-msgstr "Silver Leash"
-
-#: 132143172-0-40300
-msgctxt "132143172-0-40300"
-msgid "Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>.\n\nFires additional bolts at other enemies near the initial target for <<2>> less damage."
-msgstr "대상에게 던가드 뱀파이어 사냥꾼의 석궁을 발사해, <<1>>를 입힙니다.\n\n대상 주위의 적에게도 <<2>>만큼 감소된 피해를 입힙니다."
-
-#: 198758357-0-40300
-msgctxt "198758357-0-40300"
-msgid "Silver Shards"
-msgstr "Silver Shards"
-
 #: 132143172-0-40195
 msgctxt "132143172-0-40195"
 msgid "Invoke your expertise in anatomy and enemy behavior to detect stealthed and invisible enemies around you for <<1>>. Exposed enemies cannot return to stealth or invisibility for <<2>>.\n\nWhile slotted you gain <<3>>, increasing your Weapon Critical rating by <<4>>. You also gain <<5>> for <<6>> after you deal Critical Damage from an enemy's flank, increasing your damage done by <<7>> ."
@@ -121,15 +71,65 @@ msgctxt "198758357-0-40194"
 msgid "Evil Hunter"
 msgstr "Evil Hunter"
 
-#: 132143172-0-40181
-msgctxt "132143172-0-40181"
-msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>.\n\nUpon activation, enemies in the area are feared for <<6>>."
-msgstr "자신의 위치에 <<1>> 동안 보호의 룬을 새깁니다. 범위 안의 자신과 모든 아군은 <<2>>, <<3>> 효과를 얻어, 받는 피해량이 <<4>>만큼 감소하고, 스태미나 재생이 <<5>>만큼 증가합니다.\n\n시전 시, 범위 안의 적들은 <<6>>동안 공포에 질립니다."
+#: 132143172-0-40161
+msgctxt "132143172-0-40161"
+msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>.\n\nAfter activating, your Weapon Damage is increased by <<4>> for <<5>>."
+msgstr "메리디아의 신성한 칼로 무장하여 그녀의 복수를 돕습니다. 전방의 적들에게 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다.\n\n슬롯에 있으면 무기 피해량이 <<5>> 동안 <<4>>만큼 증가합니다."
 
-#: 198758357-0-40181
-msgctxt "198758357-0-40181"
-msgid "Turn Evil"
-msgstr "Turn Evil"
+#: 198758357-0-40161
+msgctxt "198758357-0-40161"
+msgid "Flawless Dawnbreaker"
+msgstr "Flawless Dawnbreaker"
+
+#: 132143172-0-40300
+msgctxt "132143172-0-40300"
+msgid "Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>.\n\nFires additional bolts at other enemies near the initial target for <<2>> less damage."
+msgstr "대상에게 던가드 뱀파이어 사냥꾼의 석궁을 발사해, <<1>>를 입힙니다.\n\n대상 주위의 적에게도 <<2>>만큼 감소된 피해를 입힙니다."
+
+#: 198758357-0-40300
+msgctxt "198758357-0-40300"
+msgid "Silver Shards"
+msgstr "Silver Shards"
+
+#: 132143172-0-45596
+msgctxt "132143172-0-45596"
+msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "슬롯에 있는 파이터 길드 어빌리티 한 개당 무기 피해량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
+
+#: 198758357-0-45596
+msgctxt "198758357-0-45596"
+msgid "Slayer"
+msgstr "Slayer"
+
+#: 132143172-0-45595
+msgctxt "132143172-0-45595"
+msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>"
+msgstr "슬롯에 있는 파이터 길드 어빌리티 한 개당 무기 피해량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
+
+#: 198758357-0-45595
+msgctxt "198758357-0-45595"
+msgid "Slayer"
+msgstr "Slayer"
+
+#: 132143172-0-45597
+msgctxt "132143172-0-45597"
+msgid "You generate <<1>> Ultimate when you kill an Undead, Daedra or Werewolf."
+msgstr "언데드, 데이드라, 늑대인간을 죽이면 <<1>>만큼의 궁극기 게이지를 획득합니다."
+
+#: 198758357-0-45597
+msgctxt "198758357-0-45597"
+msgid "Banish the Wicked"
+msgstr "Banish the Wicked"
+
+#: 132143172-0-40336
+msgctxt "132143172-0-40336"
+msgid "Fire a Dawnguard's crossbow hook to pull an enemy to you, dealing <<1>>, and reducing their Movement Speed by <<2>> for <<3>>."
+msgstr "대상에게 던가드 뱀파이어 사냥꾼의 갈고리 석궁을 발사해 당신의 위치로 끌어당깁니다. <<1>>를 입히고, <<3>>동안 <<2>>만큼 감속시킵니다.\n"
+
+#: 198758357-0-40336
+msgctxt "198758357-0-40336"
+msgid "Silver Leash"
+msgstr "Silver Leash"
 
 #: 132143172-0-40169
 msgctxt "132143172-0-40169"
@@ -141,16 +141,6 @@ msgctxt "198758357-0-40169"
 msgid "Ring of Preservation"
 msgstr "Ring of Preservation"
 
-#: 132143172-0-40161
-msgctxt "132143172-0-40161"
-msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>.\n\nAfter activating, your Weapon Damage is increased by <<4>> for <<5>>."
-msgstr "메리디아의 신성한 칼로 무장하여 그녀의 복수를 돕습니다. 전방의 적들에게 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다.\n\n슬롯에 있으면 무기 피해량이 <<5>> 동안 <<4>>만큼 증가합니다."
-
-#: 198758357-0-40161
-msgctxt "198758357-0-40161"
-msgid "Flawless Dawnbreaker"
-msgstr "Flawless Dawnbreaker"
-
 #: 132143172-0-40158
 msgctxt "132143172-0-40158"
 msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you, an additional <<2>> over <<3>>, and stunning them for <<4>>."
@@ -161,25 +151,15 @@ msgctxt "198758357-0-40158"
 msgid "Dawnbreaker of Smiting"
 msgstr "Dawnbreaker of Smiting"
 
-#: 132143172-0-35804
-msgctxt "132143172-0-35804"
-msgid "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."
-msgstr "시로딜의 파이터 길드에서 현상금 퀘스트를 받을 수 있게 됩니다."
+#: 132143172-0-35713
+msgctxt "132143172-0-35713"
+msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>."
+msgstr "메리디아의 신성한 칼로 무장하여 그녀의 복수를 돕습니다. 전방의 적들에게 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다."
 
-#: 198758357-0-35804
-msgctxt "198758357-0-35804"
-msgid "Bounty Hunter"
-msgstr "Bounty Hunter"
-
-#: 132143172-0-35803
-msgctxt "132143172-0-35803"
-msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "슬롯에 있는 파이터 길드 어빌리티 한 개당 무기 피해량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
-
-#: 198758357-0-35803
-msgctxt "198758357-0-35803"
-msgid "Slayer"
-msgstr "Slayer"
+#: 198758357-0-35713
+msgctxt "198758357-0-35713"
+msgid "Dawnbreaker"
+msgstr "Dawnbreaker"
 
 #: 132143172-0-35800
 msgctxt "132143172-0-35800"
@@ -190,6 +170,16 @@ msgstr "언데드, 데이드라, 늑대인간을 죽이면 <<1>>만큼의 궁극
 msgctxt "198758357-0-35800"
 msgid "Banish the Wicked"
 msgstr "Banish the Wicked"
+
+#: 132143172-0-35721
+msgctxt "132143172-0-35721"
+msgid "Fire a Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>."
+msgstr "대상에게 던가드 뱀파이어 사냥꾼의 석궁을 발사해, <<1>>를 입힙니다."
+
+#: 198758357-0-35721
+msgctxt "198758357-0-35721"
+msgid "Silver Bolts"
+msgstr "Silver Bolts"
 
 #: 132143172-0-35762
 msgctxt "132143172-0-35762"
@@ -211,35 +201,25 @@ msgctxt "198758357-0-35750"
 msgid "Trap Beast"
 msgstr "Trap Beast"
 
-#: 132143172-0-35737
-msgctxt "132143172-0-35737"
-msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>."
-msgstr "자신의 위치에 <<1>> 동안 보호의 룬을 새깁니다. 범위 안의 자신과 모든 아군은 <<2>>, <<3>> 효과를 얻어, 받는 피해량이 <<4>>만큼 감소하고, 스태미나 재생이 <<5>>만큼 증가합니다."
+#: 132143172-0-40181
+msgctxt "132143172-0-40181"
+msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>.\n\nUpon activation, enemies in the area are feared for <<6>>."
+msgstr "자신의 위치에 <<1>> 동안 보호의 룬을 새깁니다. 범위 안의 자신과 모든 아군은 <<2>>, <<3>> 효과를 얻어, 받는 피해량이 <<4>>만큼 감소하고, 스태미나 재생이 <<5>>만큼 증가합니다.\n\n시전 시, 범위 안의 적들은 <<6>>동안 공포에 질립니다."
 
-#: 198758357-0-35737
-msgctxt "198758357-0-35737"
-msgid "Circle of Protection"
-msgstr "Circle of Protection"
+#: 198758357-0-40181
+msgctxt "198758357-0-40181"
+msgid "Turn Evil"
+msgstr "Turn Evil"
 
-#: 132143172-0-35721
-msgctxt "132143172-0-35721"
-msgid "Fire a Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>."
-msgstr "대상에게 던가드 뱀파이어 사냥꾼의 석궁을 발사해, <<1>>를 입힙니다."
+#: 132143172-0-35804
+msgctxt "132143172-0-35804"
+msgid "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."
+msgstr "시로딜의 파이터 길드에서 현상금 퀘스트를 받을 수 있게 됩니다."
 
-#: 198758357-0-35721
-msgctxt "198758357-0-35721"
-msgid "Silver Bolts"
-msgstr "Silver Bolts"
-
-#: 132143172-0-35713
-msgctxt "132143172-0-35713"
-msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>."
-msgstr "메리디아의 신성한 칼로 무장하여 그녀의 복수를 돕습니다. 전방의 적들에게 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다."
-
-#: 198758357-0-35713
-msgctxt "198758357-0-35713"
-msgid "Dawnbreaker"
-msgstr "Dawnbreaker"
+#: 198758357-0-35804
+msgctxt "198758357-0-35804"
+msgid "Bounty Hunter"
+msgstr "Bounty Hunter"
 
 #: 132143172-0-29062
 msgctxt "132143172-0-29062"
@@ -250,3 +230,23 @@ msgstr "NPC와의 대화에서 협박을 사용할 수 있게 됩니다.\n\n파�
 msgctxt "198758357-0-29062"
 msgid "Intimidating Presence"
 msgstr "Intimidating Presence"
+
+#: 132143172-0-35803
+msgctxt "132143172-0-35803"
+msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "슬롯에 있는 파이터 길드 어빌리티 한 개당 무기 피해량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
+
+#: 198758357-0-35803
+msgctxt "198758357-0-35803"
+msgid "Slayer"
+msgstr "Slayer"
+
+#: 132143172-0-35737
+msgctxt "132143172-0-35737"
+msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>."
+msgstr "자신의 위치에 <<1>> 동안 보호의 룬을 새깁니다. 범위 안의 자신과 모든 아군은 <<2>>, <<3>> 효과를 얻어, 받는 피해량이 <<4>>만큼 감소하고, 스태미나 재생이 <<5>>만큼 증가합니다."
+
+#: 198758357-0-35737
+msgctxt "198758357-0-35737"
+msgid "Circle of Protection"
+msgstr "Circle of Protection"

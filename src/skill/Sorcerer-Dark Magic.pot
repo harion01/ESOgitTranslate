@@ -11,14 +11,14 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-46331
-msgctxt "132143172-0-46331"
-msgid "Conjure dark crystals to bombard an enemy, dealing <<1>> and stunning them for <<2>>. \n\nAlso damages enemies near the initial target for <<3>>."
+#: 132143172-0-27706
+msgctxt "132143172-0-27706"
+msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."
 msgstr ""
 
-#: 198758357-0-46331
-msgctxt "198758357-0-46331"
-msgid "Crystal Blast"
+#: 198758357-0-27706
+msgctxt "198758357-0-27706"
+msgid "Negate Magic"
 msgstr ""
 
 #: 132143172-0-46324
@@ -31,14 +31,84 @@ msgctxt "198758357-0-46324"
 msgid "Crystal Fragments"
 msgstr ""
 
-#: 132143172-0-45181
-msgctxt "132143172-0-45181"
-msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+#: 132143172-0-24574
+msgctxt "132143172-0-24574"
+msgid "Place a rune of protection on yourself for <<1>>. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for <<2>>.\n\nThis stun cannot be blocked."
 msgstr ""
 
-#: 198758357-0-45181
-msgctxt "198758357-0-45181"
-msgid "Exploitation"
+#: 198758357-0-24574
+msgctxt "198758357-0-24574"
+msgid "Defensive Rune"
+msgstr ""
+
+#: 132143172-0-24578
+msgctxt "132143172-0-24578"
+msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>. Deals <<2>> if the stun lasts the full duration.\n\nThis stun cannot be blocked."
+msgstr ""
+
+#: 198758357-0-24578
+msgctxt "198758357-0-24578"
+msgid "Rune Cage"
+msgstr ""
+
+#: 132143172-0-24834
+msgctxt "132143172-0-24834"
+msgid "Surprise your foes by placing |cffffff5|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
+msgstr ""
+
+#: 198758357-0-24834
+msgctxt "198758357-0-24834"
+msgid "Daedric Minefield"
+msgstr ""
+
+#: 132143172-0-43714
+msgctxt "132143172-0-43714"
+msgid "Conjure dark crystals to bombard an enemy, dealing <<1>>."
+msgstr ""
+
+#: 198758357-0-43714
+msgctxt "198758357-0-43714"
+msgid "Crystal Shard"
+msgstr ""
+
+#: 132143172-0-24371
+msgctxt "132143172-0-24371"
+msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>.\n\nThis stun cannot be blocked."
+msgstr ""
+
+#: 198758357-0-24371
+msgctxt "198758357-0-24371"
+msgid "Rune Prison"
+msgstr ""
+
+#: 132143172-0-31378
+msgctxt "132143172-0-31378"
+msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
+msgstr ""
+
+#: 198758357-0-31378
+msgctxt "198758357-0-31378"
+msgid "Persistence"
+msgstr ""
+
+#: 132143172-0-24595
+msgctxt "132143172-0-24595"
+msgid "Bargain with darkness to restore <<1>> Health and <<2>> Stamina instantly, and an additional <<3>> Stamina over <<4>>."
+msgstr ""
+
+#: 198758357-0-24595
+msgctxt "198758357-0-24595"
+msgid "Dark Deal"
+msgstr ""
+
+#: 132143172-0-28311
+msgctxt "132143172-0-28311"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nGain Major Vitality, increasing your healing received by <<2>> for <<3>> plus |cFFFFFF1|r extra second per enemy in the area, up to a maximum of |cffffff6|r enemies."
+msgstr ""
+
+#: 198758357-0-28311
+msgctxt "198758357-0-28311"
+msgid "Restraining Prison"
 msgstr ""
 
 #: 132143172-0-45176
@@ -61,64 +131,14 @@ msgctxt "198758357-0-45172"
 msgid "Blood Magic"
 msgstr ""
 
-#: 132143172-0-45165
-msgctxt "132143172-0-45165"
-msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
+#: 132143172-0-24828
+msgctxt "132143172-0-24828"
+msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
 msgstr ""
 
-#: 198758357-0-45165
-msgctxt "198758357-0-45165"
-msgid "Persistence"
-msgstr ""
-
-#: 132143172-0-43714
-msgctxt "132143172-0-43714"
-msgid "Conjure dark crystals to bombard an enemy, dealing <<1>>."
-msgstr ""
-
-#: 198758357-0-43714
-msgctxt "198758357-0-43714"
-msgid "Crystal Shard"
-msgstr ""
-
-#: 132143172-0-31389
-msgctxt "132143172-0-31389"
-msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
-msgstr ""
-
-#: 198758357-0-31389
-msgctxt "198758357-0-31389"
-msgid "Exploitation"
-msgstr ""
-
-#: 132143172-0-31386
-msgctxt "132143172-0-31386"
-msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
-msgstr ""
-
-#: 198758357-0-31386
-msgctxt "198758357-0-31386"
-msgid "Unholy Knowledge"
-msgstr ""
-
-#: 132143172-0-31383
-msgctxt "132143172-0-31383"
-msgid "When you hit an enemy with a directly applied Dark Magic ability, you heal for <<1>>.  \n\nThis effect scales off your Max Health and can occur once every <<2>>."
-msgstr ""
-
-#: 198758357-0-31383
-msgctxt "198758357-0-31383"
-msgid "Blood Magic"
-msgstr ""
-
-#: 132143172-0-31378
-msgctxt "132143172-0-31378"
-msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
-msgstr ""
-
-#: 198758357-0-31378
-msgctxt "198758357-0-31378"
-msgid "Persistence"
+#: 198758357-0-24828
+msgctxt "198758357-0-24828"
+msgid "Daedric Mines"
 msgstr ""
 
 #: 132143172-0-28348
@@ -131,56 +151,6 @@ msgctxt "198758357-0-28348"
 msgid "Absorption Field"
 msgstr ""
 
-#: 132143172-0-28341
-msgctxt "132143172-0-28341"
-msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for <<2>> every <<3>>."
-msgstr ""
-
-#: 198758357-0-28341
-msgctxt "198758357-0-28341"
-msgid "Suppression Field"
-msgstr ""
-
-#: 132143172-0-28311
-msgctxt "132143172-0-28311"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nGain Major Vitality, increasing your healing received by <<2>> for <<3>> plus |cFFFFFF1|r extra second per enemy in the area, up to a maximum of |cffffff6|r enemies."
-msgstr ""
-
-#: 198758357-0-28311
-msgctxt "198758357-0-28311"
-msgid "Restraining Prison"
-msgstr ""
-
-#: 132143172-0-28308
-msgctxt "132143172-0-28308"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nThe shards deal <<2>> when the effect ends."
-msgstr ""
-
-#: 198758357-0-28308
-msgctxt "198758357-0-28308"
-msgid "Shattering Prison"
-msgstr ""
-
-#: 132143172-0-28025
-msgctxt "132143172-0-28025"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>."
-msgstr ""
-
-#: 198758357-0-28025
-msgctxt "198758357-0-28025"
-msgid "Encase"
-msgstr ""
-
-#: 132143172-0-27706
-msgctxt "132143172-0-27706"
-msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."
-msgstr ""
-
-#: 198758357-0-27706
-msgctxt "198758357-0-27706"
-msgid "Negate Magic"
-msgstr ""
-
 #: 132143172-0-24842
 msgctxt "132143172-0-24842"
 msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines at a target location, which arm instantly and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
@@ -189,36 +159,6 @@ msgstr ""
 #: 198758357-0-24842
 msgctxt "198758357-0-24842"
 msgid "Daedric Tomb"
-msgstr ""
-
-#: 132143172-0-24834
-msgctxt "132143172-0-24834"
-msgid "Surprise your foes by placing |cffffff5|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
-msgstr ""
-
-#: 198758357-0-24834
-msgctxt "198758357-0-24834"
-msgid "Daedric Minefield"
-msgstr ""
-
-#: 132143172-0-24828
-msgctxt "132143172-0-24828"
-msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
-msgstr ""
-
-#: 198758357-0-24828
-msgctxt "198758357-0-24828"
-msgid "Daedric Mines"
-msgstr ""
-
-#: 132143172-0-24595
-msgctxt "132143172-0-24595"
-msgid "Bargain with darkness to restore <<1>> Health and <<2>> Stamina instantly, and an additional <<3>> Stamina over <<4>>."
-msgstr ""
-
-#: 198758357-0-24595
-msgctxt "198758357-0-24595"
-msgid "Dark Deal"
 msgstr ""
 
 #: 132143172-0-24589
@@ -231,6 +171,56 @@ msgctxt "198758357-0-24589"
 msgid "Dark Conversion"
 msgstr ""
 
+#: 132143172-0-28308
+msgctxt "132143172-0-28308"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nThe shards deal <<2>> when the effect ends."
+msgstr ""
+
+#: 198758357-0-28308
+msgctxt "198758357-0-28308"
+msgid "Shattering Prison"
+msgstr ""
+
+#: 132143172-0-28341
+msgctxt "132143172-0-28341"
+msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for <<2>> every <<3>>."
+msgstr ""
+
+#: 198758357-0-28341
+msgctxt "198758357-0-28341"
+msgid "Suppression Field"
+msgstr ""
+
+#: 132143172-0-31389
+msgctxt "132143172-0-31389"
+msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-31389
+msgctxt "198758357-0-31389"
+msgid "Exploitation"
+msgstr ""
+
+#: 132143172-0-31383
+msgctxt "132143172-0-31383"
+msgid "When you hit an enemy with a directly applied Dark Magic ability, you heal for <<1>>.  \n\nThis effect scales off your Max Health and can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-31383
+msgctxt "198758357-0-31383"
+msgid "Blood Magic"
+msgstr ""
+
+#: 132143172-0-31386
+msgctxt "132143172-0-31386"
+msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-31386
+msgctxt "198758357-0-31386"
+msgid "Unholy Knowledge"
+msgstr ""
+
 #: 132143172-0-24584
 msgctxt "132143172-0-24584"
 msgid "Bargain with darkness to restore <<1>> Health and <<2>> Magicka instantly, and an additional <<3>> Magicka over <<4>>."
@@ -241,32 +231,42 @@ msgctxt "198758357-0-24584"
 msgid "Dark Exchange"
 msgstr ""
 
-#: 132143172-0-24578
-msgctxt "132143172-0-24578"
-msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>. Deals <<2>> if the stun lasts the full duration.\n\nThis stun cannot be blocked."
+#: 132143172-0-28025
+msgctxt "132143172-0-28025"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>."
 msgstr ""
 
-#: 198758357-0-24578
-msgctxt "198758357-0-24578"
-msgid "Rune Cage"
+#: 198758357-0-28025
+msgctxt "198758357-0-28025"
+msgid "Encase"
 msgstr ""
 
-#: 132143172-0-24574
-msgctxt "132143172-0-24574"
-msgid "Place a rune of protection on yourself for <<1>>. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for <<2>>.\n\nThis stun cannot be blocked."
+#: 132143172-0-46331
+msgctxt "132143172-0-46331"
+msgid "Conjure dark crystals to bombard an enemy, dealing <<1>> and stunning them for <<2>>. \n\nAlso damages enemies near the initial target for <<3>>."
 msgstr ""
 
-#: 198758357-0-24574
-msgctxt "198758357-0-24574"
-msgid "Defensive Rune"
+#: 198758357-0-46331
+msgctxt "198758357-0-46331"
+msgid "Crystal Blast"
 msgstr ""
 
-#: 132143172-0-24371
-msgctxt "132143172-0-24371"
-msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>.\n\nThis stun cannot be blocked."
+#: 132143172-0-45165
+msgctxt "132143172-0-45165"
+msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
 msgstr ""
 
-#: 198758357-0-24371
-msgctxt "198758357-0-24371"
-msgid "Rune Prison"
+#: 198758357-0-45165
+msgctxt "198758357-0-45165"
+msgid "Persistence"
+msgstr ""
+
+#: 132143172-0-45181
+msgctxt "132143172-0-45181"
+msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+msgstr ""
+
+#: 198758357-0-45181
+msgctxt "198758357-0-45181"
+msgid "Exploitation"
 msgstr ""

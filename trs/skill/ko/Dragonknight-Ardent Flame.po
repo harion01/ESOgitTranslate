@@ -11,244 +11,10 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-45029
-msgctxt "132143172-0-45029"
-msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the cost of your Stamina Poison abilities by <<2>>."
-msgstr "화염 광역 어빌리티의 피해가 <<1>> 증가합니다.\n\n독 어빌리티의 스태미나 소모가 <<2>> 감소합니다."
-
-#: 198758357-0-45029
-msgctxt "198758357-0-45029"
-msgid "World in Ruin"
-msgstr "World in Ruin"
-
-#: 132143172-0-45023
-msgctxt "132143172-0-45023"
-msgid "Increases the damage over time of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>> and the duration by <<2>>."
-msgstr "Fiery Breath, Searing Strike, Dragonknight Standard 어빌리티의 피해량이 <<1>> 만큼 증가하고 지속 시간이 <<2>> 증가합니다."
-
-#: 198758357-0-45023
-msgctxt "198758357-0-45023"
-msgid "Searing Heat"
-msgstr "Searing Heat"
-
-#: 132143172-0-45012
-msgctxt "132143172-0-45012"
-msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
-msgstr "Ardent Flame 어빌리티로 피해를 입은 적의 이동 속도를 <<2>> 동안 <<1>> 만큼 감소시킵니다.\n"
-
-#: 198758357-0-45012
-msgctxt "198758357-0-45012"
-msgid "Warmth"
-msgstr "Warmth"
-
-#: 132143172-0-45011
-msgctxt "132143172-0-45011"
-msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
-msgstr "불태움과 중독 상태 효과의 피해량을 <<1>> 만큼 증가시킵니다.\n\n당신이 Burning 효과를 적에게 입히면, <<2>> 매지카를 회복합니다. 당신이 Poisoned 효과를 적에게 입히면, <<3>> 스태미나를 회복합니다. "
-
-#: 198758357-0-45011
-msgctxt "198758357-0-45011"
-msgid "Combustion"
-msgstr "Combustion"
-
-#: 132143172-0-32958
-msgctxt "132143172-0-32958"
-msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nActivating this ability again allows you to move the standard to your location.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
-msgstr "전투 깃발을 소환합니다. 깃발은 <<3>> 동안, 근처의 적들에게 <<2>>마다 <<1>>를 입히고, Major Defile 효과를 가해, 받는 치유량과 체력 재생을 <<4>> 감소시킵니다.\n\n어빌리티를 다시 사용하면 깃발을 자신의 위치로 이동시킵니다.\n\n활성화되어 있는 동안 아군이 |cffffffShackle|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 깃발 범위 내의 적들에게 <<5>>를 입히고, <<6>> 동안 이동 불가로 만듭니다."
-
-#: 198758357-0-32958
-msgctxt "198758357-0-32958"
-msgid "Shifting Standard"
-msgstr "Shifting Standard"
-
-#: 132143172-0-32947
-msgctxt "132143172-0-32947"
-msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nStanding in the area increases your damage done and reduces damage taken by <<5>>.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<6>> to enemies in the area and immobilizing them for <<7>>."
-msgstr "전투 깃발을 소환합니다. 깃발은 <<3>> 동안, 근처의 적들에게 <<2>>마다 <<1>>를 입히고, Major Defile 효과를 가해, 받는 치유량과 체력 재생을 <<4>> 감소시킵니다.\n\n깃발의 범위 안에 있으면, 자신이 입히는 피해량이 <<5>> 증가하고, 받는 피해량이 <<5>> 감소합니다.\n\n활성화되어 있는 동안 아군이 |cffffffShackle|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 깃발 범위 내의 적들에게 <<6>>를 입히고, <<7>> 동안 이동 불가로 만듭니다."
-
-#: 198758357-0-32947
-msgctxt "198758357-0-32947"
-msgid "Standard of Might"
-msgstr "Standard of Might"
-
-#: 132143172-0-32881
-msgctxt "132143172-0-32881"
-msgid "Activate an aura of flames which launches a fireball at yourself or an ally to cauterize their wounds every <<1>>, healing them for <<2>> Health.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "화염의 아우라를 발동해서 <<1>>마다 한 명의 아군 혹은 당신에게 파이어볼을 발사해 상처를 지지고, 체력을 <<2>>만큼 회복시킵니다.\n\n슬롯에 장착하면 Major Prophecy 효과를 얻어, 마법 치명타 확률이 <<3>> 증가합니다.\n\n이 어빌리티는 주 스텟에 따라 조정됩니다."
-
-#: 198758357-0-32881
-msgctxt "198758357-0-32881"
-msgid "Cauterize"
-msgstr "Cauterize"
-
-#: 132143172-0-32853
-msgctxt "132143172-0-32853"
-msgid "Activate an aura of flames which launches a fireball at |cffffff2|r enemies every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical ratings by <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "화염의 아우라를 발동해서 <<1>>마다 |cffffff2|r명의 적에게 파이어볼을 발사해 <<2>>를 줍니다.\n\n슬롯에 장착하면 Major Prophecy, Major Savagery 효과를 얻어 마법 및 무기 치명타 확률이 <<3>> 증가합니다.\n\n이 어빌리티는 주 스텟에 따라 조정됩니다."
-
-#: 198758357-0-32853
-msgctxt "198758357-0-32853"
-msgid "Flames of Oblivion"
-msgstr "Flames of Oblivion"
-
-#: 132143172-0-29451
-msgctxt "132143172-0-29451"
-msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the Stamina cost of your Poison abilities by <<2>>."
-msgstr "범위 공격 어빌리티의 화염 피해량이 <<1>> 만큼 증가합니다.\n\n독공격의 스태미나 소모량이 <<2>> 만큼 감소합니다."
-
-#: 198758357-0-29451
-msgctxt "198758357-0-29451"
-msgid "World in Ruin"
-msgstr "World in Ruin"
-
-#: 132143172-0-29439
-msgctxt "132143172-0-29439"
-msgid "Increases the duration of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>>."
-msgstr "Fiery Breath, Searing Strike, Dragonknight Standard 어빌리티의 지속 시간이 <<1>> 증가합니다."
-
-#: 198758357-0-29439
-msgctxt "198758357-0-29439"
-msgid "Searing Heat"
-msgstr "Searing Heat"
-
-#: 132143172-0-29430
-msgctxt "132143172-0-29430"
-msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
-msgstr "Ardent Flame 어빌리티로 피해를 입은 적의 이동 속도를 <<2>> 동안 <<1>> 만큼 감소시킵니다."
-
-#: 198758357-0-29430
-msgctxt "198758357-0-29430"
-msgid "Warmth"
-msgstr "Warmth"
-
-#: 132143172-0-29424
-msgctxt "132143172-0-29424"
-msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
-msgstr "불태움과 중독 상태 효과의 피해량을 <<1>> 만큼 증가시킵니다.\n\n당신이 Burning 효과를 적에게 입히면, <<2>> 매지카를 회복합니다. 당신이 Poisoned 효과를 적에게 입히면, <<3>> 스태미나를 회복합니다. "
-
-#: 198758357-0-29424
-msgctxt "198758357-0-29424"
-msgid "Combustion"
-msgstr "Combustion"
-
-#: 132143172-0-28988
-msgctxt "132143172-0-28988"
-msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
-msgstr "전투 깃발을 소환합니다. 깃발은 <<3>> 동안, 근처의 적들에게 <<2>>마다 <<1>>를 입히고, Major Defile 효과를 가해, 받는 치유량과 체력 재생을 <<4>> 감소시킵니다.\n\n활성화되어 있는 동안 아군이  |cffffffShackle|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 깃발 범위 내의 적들에게 <<5>>를 입히고, <<6>> 동안 이동 불가로 만듭니다."
-
-#: 198758357-0-28988
-msgctxt "198758357-0-28988"
-msgid "Dragonknight Standard"
-msgstr "Dragonknight Standard"
-
-#: 132143172-0-28967
-msgctxt "132143172-0-28967"
-msgid "Activate an aura of flames which launches a fireball at the nearest enemy every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "화염의 아우라를 발동해서 <<1>>마다 가장 가까운 적에게 파이어볼을 발사해 <<2>>를 줍니다.\n\n슬롯에 장착하면 Major Prophecy 효과를 얻어 마법 치명타 확률이 <<3>> 증가합니다.\n\n이 어빌리티는 주 스텟에 따라 조정됩니다."
-
-#: 198758357-0-28967
-msgctxt "198758357-0-28967"
-msgid "Inferno"
-msgstr "Inferno"
-
-#: 132143172-0-23806
-msgctxt "132143172-0-23806"
-msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance."
-msgstr "화염 채찍을 휘둘러 적에게 <<1>>를 줍니다.\n\n이동 불가나 기절 상태인 적을 공격 시 균형을 잃게 만듭니다. "
-
-#: 198758357-0-23806
-msgctxt "198758357-0-23806"
-msgid "Lava Whip"
-msgstr "Lava Whip"
-
-#: 132143172-0-20944
-msgctxt "132143172-0-20944"
-msgid "Exhale a corrosive blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAfflicts enemies with Major Fracture, reducing their Physical Resistance by <<4>>."
-msgstr "전방의 적들에게 부식성 숨결을 내뿜어 <<1>>를 주고 추가로 <<2>>를 <<3>>에 걸쳐 줍니다.\n\n적들에게 Major Fracture 효과를 가해 물리 저항력을 <<4>>만큼 감소시킵니다."
-
-#: 198758357-0-20944
-msgctxt "198758357-0-20944"
-msgid "Noxious Breath"
-msgstr "Noxious Breath"
-
-#: 132143172-0-20930
-msgctxt "132143172-0-20930"
-msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAffected enemies take more damage from all Flame Damage attacks based on your offensive stats, with a maximum of |cffffff10|r% bonus damage taken.\n\nCurrent value <<4>>."
-msgstr "전방의 적들에게 화염의 숨결을 내뿜어 <<1>>를 주고 추가로 <<2>>를 <<3>>에 걸쳐 줍니다.\n\n영향을 받은 적들은 주 스텟을 소비하는 모든 화염 속성 공격에 추가 피해를 입습니다. 최대 추가 피해량은 |cffffff10|r%입니다.\n\n현재 추가 피해량: <<4>>"
-
-#: 198758357-0-20930
-msgctxt "198758357-0-20930"
-msgid "Engulfing Flames"
-msgstr "Engulfing Flames"
-
-#: 132143172-0-20917
-msgctxt "132143172-0-20917"
-msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>."
-msgstr "전방의 적들에게 화염의 숨결을 내뿜어 <<1>>를 주고 추가로 <<2>>를 <<3>>에 걸쳐 줍니다."
-
-#: 198758357-0-20917
-msgctxt "198758357-0-20917"
-msgid "Fiery Breath"
-msgstr "Fiery Breath"
-
-#: 132143172-0-20816
-#, fuzzy
-msgctxt "132143172-0-20816"
-msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobilized or stunned, you set them Off Balance.\n\nTargeting an Off Balance or immobilized enemy changes this ability into <<2>>, allowing you to lash an enemy at half cost to deal <<3>> and heal you for <<4>> Health over <<5>>.  This effect can occur once every <<6>>."
-msgstr "화염 채찍을 휘둘러 적에게 <<1>>를 줍니다.\n\n이동 불가나 기절 상태인 적을 공격 시 균형을 잃게 만듭니다. \n\n표적이 균헝을 잃은 상태일 경우 리소스 소모량이 절반으로 줄어든 <<2>> 어빌리티로 변경되며,  <<3>>를 주고  <<4>>만큼의 체력을 <<5>>에 걸쳐 회복합니다. 해당 효과는 <<6>>에 한 번만 발동됩니다."
-
-#: 198758357-0-20816
-msgctxt "198758357-0-20816"
-msgid "Flame Lash"
-msgstr "Flame Lash"
-
-#: 132143172-0-20805
-msgctxt "132143172-0-20805"
-msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance.\n\nWhile slotted, whenever you activate a different Ardent Flame ability, you gain a stack of Seething Fury, which increases the damage of your next Molten Whip by |cffffff33|r% and your Weapon and Spell Damage by <<2>> for 5 seconds.  This effect can stack up to 3 times."
-msgstr "화염 채찍을 휘둘러 적에게 <<1>>를 줍니다.\n\n이동 불가나 기절 상태인 적을 공격 시 균형을 잃게 만듭니다. \n\n슬롯에 장착 시 Ardent Flame 어빌리티를 사용할 때마다 Seething Fury 스택을 얻게 됩니다. 1스택 마다 Molten Whip의 데미지를 |cffffff33|r%만큼 향상시키고 마법 및 무기 피해가 5초동안 <<2>>만큼 향상됩니다. 이 효과는 3번 까지 스택 될 수 있습니다."
-
-#: 198758357-0-20805
-msgctxt "198758357-0-20805"
-msgid "Molten Whip"
-msgstr "Molten Whip"
-
-#: 132143172-0-20668
-#, fuzzy
-msgctxt "132143172-0-20668"
-msgid "Rake an enemy with your claw, dealing <<1>> and an additional <<2>> over <<3>>.\n\nThe poison seeps into the target and deals increased damage the longer it lasts, dealing <<4>> more damage every <<5>>.\n\nEnemies hit by the initial hit are afflicted with the Poisoned status effect."
-msgstr "적을 발톱으로 할퀴어 <<1>>를 주고 추가로 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n독은 적에게 스며들어 오래 지속 될 수록 더 많은 피해를 입힙니다. <<5>>마다 독의 피해량이 <<4>> 만큼 증가합니다.\n\n처음 피해를 받은 적들은 중독 상태이상에 걸립니다. "
-
-#: 198758357-0-20668
-msgctxt "198758357-0-20668"
-msgid "Venomous Claw"
-msgstr "Venomous Claw"
-
-#: 132143172-0-20660
-#, fuzzy
-msgctxt "132143172-0-20660"
-msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>. \n\nHeals you for <<4>>% of the total damage inflicted when the effect ends.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
-msgstr "적을 화염으로 베어 <<1>>를 주고 추가로 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n효과가 끝날 때 입힌 총 피해의 <<4>>% 만큼 체력을 회복합니다.\n\n처음 피해를 입은 적들은 Burning 상태이상 효과를 받습니다."
-
-#: 198758357-0-20660
-msgctxt "198758357-0-20660"
-msgid "Burning Embers"
-msgstr "Burning Embers"
-
-#: 132143172-0-20657
-#, fuzzy
-msgctxt "132143172-0-20657"
-msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
-msgstr "적을 화염으로 베어 <<1>>를 주고 추가로 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n처음 피해를 입은 적들은 Burning 상태이상 효과를 받습니다."
-
-#: 198758357-0-20657
-msgctxt "198758357-0-20657"
-msgid "Searing Strike"
-msgstr "Searing Strike"
-
 #: 132143172-0-20499
 msgctxt "132143172-0-20499"
-msgid "Launch a fiery chain to grasp and pull you to an enemy, dealing <<1>> and granting you |cFFFFFF2|r uses of Empower, increasing the damage of your next |cFFFFFF2|r Light Attacks by <<2>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<3>> for <<4>>.\n\nThis attack cannot be dodged or reflected."
-msgstr "불타는 사슬을 던져 당신을 적의 위치로 이동시키고 <<1>> 피해를 줍니다. 또한 |cFFFFFF2|r  회의 Empower 효과를 얻어 다음  |cFFFFFF2|r 번의 약공격 피해량이 <<2>> 만큼 증가합니다.\n\nMajor Expedition 효과를 얻어 <<4>> 동안 이동 속도가 <<3>> 증가합니다.\n\n이 공격은 피하거나 반사시킬 수 없습니다."
+msgid "Launch a fiery chain to grasp and pull you to an enemy, dealing <<1>> and granting you Empower for <<2>>, increasing the damage of your next Light Attack by <<3>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<4>> for <<5>>.\n\nThis attack cannot be dodged or reflected."
+msgstr "불타는 사슬을 던져 당신을 적의 위치로 이동시키고 <<1>> 피해를 줍니다. 또한 Empower효과를 <<2>> 동안 얻어, 다음번 약공격의 피해량이 <<3>> 증가 합니다.\n\nMajor Expedition 효과를 얻어 <<4>> 동안 이동 속도가 <<3>> 증가합니다.\n\n이 공격은 피하거나 반사시킬 수 없습니다."
 
 #: 198758357-0-20499
 msgctxt "198758357-0-20499"
@@ -265,6 +31,76 @@ msgctxt "198758357-0-20496"
 msgid "Unrelenting Grip"
 msgstr "Unrelenting Grip"
 
+#: 132143172-0-45012
+msgctxt "132143172-0-45012"
+msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr "Ardent Flame 어빌리티로 피해를 입은 적의 이동 속도를 <<2>> 동안 <<1>> 만큼 감소시킵니다.\n"
+
+#: 198758357-0-45012
+msgctxt "198758357-0-45012"
+msgid "Warmth"
+msgstr "Warmth"
+
+#: 132143172-0-23806
+msgctxt "132143172-0-23806"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance."
+msgstr "화염 채찍을 휘둘러 적에게 <<1>>를 줍니다.\n\n이동 불가나 기절 상태인 적을 공격 시 균형을 잃게 만듭니다. "
+
+#: 198758357-0-23806
+msgctxt "198758357-0-23806"
+msgid "Lava Whip"
+msgstr "Lava Whip"
+
+#: 132143172-0-20816
+msgctxt "132143172-0-20816"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobilized or stunned, you set them Off Balance.\n\nTargeting an Off Balance or immobilized enemy changes this ability into <<2>>, allowing you to lash an enemy at half cost to deal <<3>> and heal you for <<4>> Health over <<5>>.  This effect can occur once every <<6>>."
+msgstr "화염 채찍을 휘둘러 적에게 <<1>>를 줍니다.\n\n이동 불가나 기절 상태인 적을 공격 시 균형을 잃게 만듭니다. \n\n표적이 균헝을 잃은 상태일 경우 리소스 소모량이 절반으로 줄어든 <<2>> 어빌리티로 변경되며,  <<3>>를 주고  <<4>>만큼의 체력을 <<5>>에 걸쳐 회복합니다. 해당 효과는 <<6>>에 한 번만 발동됩니다."
+
+#: 198758357-0-20816
+msgctxt "198758357-0-20816"
+msgid "Flame Lash"
+msgstr "Flame Lash"
+
+#: 132143172-0-20657
+msgctxt "132143172-0-20657"
+msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
+msgstr "적을 화염으로 베어 <<1>>를 주고 추가로 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n처음 피해를 입은 적들은 화상 상태이상 효과를 받습니다."
+
+#: 198758357-0-20657
+msgctxt "198758357-0-20657"
+msgid "Searing Strike"
+msgstr "Searing Strike"
+
+#: 132143172-0-20930
+msgctxt "132143172-0-20930"
+msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAffected enemies take more damage from all Flame Damage attacks based on your offensive stats, with a maximum of |cffffff10|r% bonus damage taken.\n\nCurrent value <<4>>."
+msgstr "전방의 적들에게 화염의 숨결을 내뿜어 <<1>>를 주고 추가로 <<2>>를 <<3>>에 걸쳐 줍니다.\n\n영향을 받은 적들은 주 스텟을 소비하는 모든 화염 속성 공격에 추가 피해를 입습니다. 최대 추가 피해량은 |cffffff10|r%입니다.\n\n현재 추가 피해량: <<4>>"
+
+#: 198758357-0-20930
+msgctxt "198758357-0-20930"
+msgid "Engulfing Flames"
+msgstr "Engulfing Flames"
+
+#: 132143172-0-32881
+msgctxt "132143172-0-32881"
+msgid "Activate an aura of flames which launches a fireball at yourself or an ally to cauterize their wounds every <<1>>, healing them for <<2>> Health.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "화염의 아우라를 발동해서 <<1>>마다 한 명의 아군 혹은 당신에게 파이어볼을 발사해 상처를 지지고, 체력을 <<2>>만큼 회복시킵니다.\n\n슬롯에 장착하면 Major Prophecy 효과를 얻어, 마법 치명타 확률이 <<3>> 증가합니다.\n\n이 어빌리티는 주 스텟에 따라 조정됩니다."
+
+#: 198758357-0-32881
+msgctxt "198758357-0-32881"
+msgid "Cauterize"
+msgstr "Cauterize"
+
+#: 132143172-0-29424
+msgctxt "132143172-0-29424"
+msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
+msgstr "불태움과 중독 상태 효과의 피해량을 <<1>> 만큼 증가시킵니다.\n\n당신이 Burning 효과를 적에게 입히면, <<2>> 매지카를 회복합니다. 당신이 Poisoned 효과를 적에게 입히면, <<3>> 스태미나를 회복합니다. "
+
+#: 198758357-0-29424
+msgctxt "198758357-0-29424"
+msgid "Combustion"
+msgstr "Combustion"
+
 #: 132143172-0-20492
 msgctxt "132143172-0-20492"
 msgid "Launch a fiery chain to grasp and pull an enemy to you, dealing <<1>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<2>> for <<3>>.\n\nThis attack cannot be dodged or reflected."
@@ -274,3 +110,163 @@ msgstr "불타는 사슬을 던져 적을 당신 앞으로 끌어오고 <<1>> �
 msgctxt "198758357-0-20492"
 msgid "Fiery Grip"
 msgstr "Fiery Grip"
+
+#: 132143172-0-45011
+msgctxt "132143172-0-45011"
+msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
+msgstr "불태움과 중독 상태 효과의 피해량을 <<1>> 만큼 증가시킵니다.\n\n당신이 Burning 효과를 적에게 입히면, <<2>> 매지카를 회복합니다. 당신이 Poisoned 효과를 적에게 입히면, <<3>> 스태미나를 회복합니다. "
+
+#: 198758357-0-45011
+msgctxt "198758357-0-45011"
+msgid "Combustion"
+msgstr "Combustion"
+
+#: 132143172-0-32947
+msgctxt "132143172-0-32947"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nStanding in the area increases your damage done and reduces damage taken by <<5>>.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<6>> to enemies in the area and immobilizing them for <<7>>."
+msgstr "전투 깃발을 소환합니다. 깃발은 <<3>> 동안, 근처의 적들에게 <<2>>마다 <<1>>를 입히고, Major Defile 효과를 가해, 받는 치유량과 체력 재생을 <<4>> 감소시킵니다.\n\n깃발의 범위 안에 있으면, 자신이 입히는 피해량이 <<5>> 증가하고, 받는 피해량이 <<5>> 감소합니다.\n\n활성화되어 있는 동안 아군이 |cffffffShackle|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 깃발 범위 내의 적들에게 <<6>>를 입히고, <<7>> 동안 이동 불가로 만듭니다."
+
+#: 198758357-0-32947
+msgctxt "198758357-0-32947"
+msgid "Standard of Might"
+msgstr "Standard of Might"
+
+#: 132143172-0-45029
+msgctxt "132143172-0-45029"
+msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the cost of your Stamina Poison abilities by <<2>>."
+msgstr "화염 광역 어빌리티의 피해가 <<1>> 증가합니다.\n\n독 어빌리티의 스태미나 소모가 <<2>> 감소합니다."
+
+#: 198758357-0-45029
+msgctxt "198758357-0-45029"
+msgid "World in Ruin"
+msgstr "World in Ruin"
+
+#: 132143172-0-20660
+msgctxt "132143172-0-20660"
+msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>. \n\nHeals you for <<4>>% of the total damage inflicted when the effect ends.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
+msgstr "적을 화염으로 베어 <<1>>를 주고 추가로 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n효과가 끝날 때 입힌 총 피해의 <<4>>% 만큼 체력을 회복합니다.\n\n처음 피해를 입은 적들은 화상 상태이상 효과를 받습니다."
+
+#: 198758357-0-20660
+msgctxt "198758357-0-20660"
+msgid "Burning Embers"
+msgstr "Burning Embers"
+
+#: 132143172-0-45023
+msgctxt "132143172-0-45023"
+msgid "Increases the damage over time of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>> and the duration by <<2>>."
+msgstr "Fiery Breath, Searing Strike, Dragonknight Standard 어빌리티의 피해량이 <<1>> 만큼 증가하고 지속 시간이 <<2>> 증가합니다."
+
+#: 198758357-0-45023
+msgctxt "198758357-0-45023"
+msgid "Searing Heat"
+msgstr "Searing Heat"
+
+#: 132143172-0-29439
+msgctxt "132143172-0-29439"
+msgid "Increases the duration of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>>."
+msgstr "Fiery Breath, Searing Strike, Dragonknight Standard 어빌리티의 지속 시간이 <<1>> 증가합니다."
+
+#: 198758357-0-29439
+msgctxt "198758357-0-29439"
+msgid "Searing Heat"
+msgstr "Searing Heat"
+
+#: 132143172-0-20805
+msgctxt "132143172-0-20805"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance.\n\nWhile slotted, whenever you activate a different Ardent Flame ability, you gain a stack of Seething Fury, which increases the damage of your next Molten Whip by |cffffff33|r% and your Weapon and Spell Damage by <<2>> for 5 seconds.  This effect can stack up to 3 times."
+msgstr "화염 채찍을 휘둘러 적에게 <<1>>를 줍니다.\n\n이동 불가나 기절 상태인 적을 공격 시 균형을 잃게 만듭니다. \n\n슬롯에 장착 시 Ardent Flame 어빌리티를 사용할 때마다 Seething Fury 스택을 얻게 됩니다. 1스택 마다 Molten Whip의 데미지를 |cffffff33|r%만큼 향상시키고 마법 및 무기 피해가 5초동안 <<2>>만큼 향상됩니다. 이 효과는 3번 까지 스택 될 수 있습니다."
+
+#: 198758357-0-20805
+msgctxt "198758357-0-20805"
+msgid "Molten Whip"
+msgstr "Molten Whip"
+
+#: 132143172-0-28988
+msgctxt "132143172-0-28988"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
+msgstr "전투 깃발을 소환합니다. 깃발은 <<3>> 동안, 근처의 적들에게 <<2>>마다 <<1>>를 입히고, Major Defile 효과를 가해, 받는 치유량과 체력 재생을 <<4>> 감소시킵니다.\n\n활성화되어 있는 동안 아군이  |cffffffShackle|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 깃발 범위 내의 적들에게 <<5>>를 입히고, <<6>> 동안 이동 불가로 만듭니다."
+
+#: 198758357-0-28988
+msgctxt "198758357-0-28988"
+msgid "Dragonknight Standard"
+msgstr "Dragonknight Standard"
+
+#: 132143172-0-20944
+msgctxt "132143172-0-20944"
+msgid "Exhale a corrosive blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAfflicts enemies with Major Fracture, reducing their Physical Resistance by <<4>>."
+msgstr "전방의 적들에게 부식성 숨결을 내뿜어 <<1>>를 주고 추가로 <<2>>를 <<3>>에 걸쳐 줍니다.\n\n적들에게 Major Fracture 효과를 가해 물리 저항력을 <<4>>만큼 감소시킵니다."
+
+#: 198758357-0-20944
+msgctxt "198758357-0-20944"
+msgid "Noxious Breath"
+msgstr "Noxious Breath"
+
+#: 132143172-0-20668
+msgctxt "132143172-0-20668"
+msgid "Rake an enemy with your claw, dealing <<1>> and an additional <<2>> over <<3>>.\n\nThe poison seeps into the target and deals increased damage the longer it lasts, dealing <<4>> more damage every <<5>>.\n\nEnemies hit by the initial hit are afflicted with the Poisoned status effect."
+msgstr "적을 발톱으로 할퀴어 <<1>>를 주고 추가로 <<3>>에 걸쳐 <<2>>를 줍니다.\n\n독은 적에게 스며들어 오래 지속 될 수록 더 많은 피해를 입힙니다. <<5>>마다 독의 피해량이 <<4>> 만큼 증가합니다.\n\n처음 피해를 받은 적들은 중독 상태이상에 걸립니다. "
+
+#: 198758357-0-20668
+msgctxt "198758357-0-20668"
+msgid "Venomous Claw"
+msgstr "Venomous Claw"
+
+#: 132143172-0-28967
+msgctxt "132143172-0-28967"
+msgid "Activate an aura of flames which launches a fireball at the nearest enemy every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "화염의 아우라를 발동해서 <<1>>마다 가장 가까운 적에게 파이어볼을 발사해 <<2>>를 줍니다.\n\n슬롯에 장착하면 Major Prophecy 효과를 얻어 마법 치명타 확률이 <<3>> 증가합니다.\n\n이 어빌리티는 주 스텟에 따라 조정됩니다."
+
+#: 198758357-0-28967
+msgctxt "198758357-0-28967"
+msgid "Inferno"
+msgstr "Inferno"
+
+#: 132143172-0-32853
+msgctxt "132143172-0-32853"
+msgid "Activate an aura of flames which launches a fireball at |cffffff2|r enemies every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical ratings by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "화염의 아우라를 발동해서 <<1>>마다 |cffffff2|r명의 적에게 파이어볼을 발사해 <<2>>를 줍니다.\n\n슬롯에 장착하면 Major Prophecy, Major Savagery 효과를 얻어 마법 및 무기 치명타 확률이 <<3>> 증가합니다.\n\n이 어빌리티는 주 스텟에 따라 조정됩니다."
+
+#: 198758357-0-32853
+msgctxt "198758357-0-32853"
+msgid "Flames of Oblivion"
+msgstr "Flames of Oblivion"
+
+#: 132143172-0-29430
+msgctxt "132143172-0-29430"
+msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr "Ardent Flame 어빌리티로 피해를 입은 적의 이동 속도를 <<2>> 동안 <<1>> 만큼 감소시킵니다."
+
+#: 198758357-0-29430
+msgctxt "198758357-0-29430"
+msgid "Warmth"
+msgstr "Warmth"
+
+#: 132143172-0-29451
+msgctxt "132143172-0-29451"
+msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the Stamina cost of your Poison abilities by <<2>>."
+msgstr "범위 공격 어빌리티의 화염 피해량이 <<1>> 만큼 증가합니다.\n\n독공격의 스태미나 소모량이 <<2>> 만큼 감소합니다."
+
+#: 198758357-0-29451
+msgctxt "198758357-0-29451"
+msgid "World in Ruin"
+msgstr "World in Ruin"
+
+#: 132143172-0-20917
+msgctxt "132143172-0-20917"
+msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>."
+msgstr "전방의 적들에게 화염의 숨결을 내뿜어 <<1>>를 주고 추가로 <<2>>를 <<3>>에 걸쳐 줍니다."
+
+#: 198758357-0-20917
+msgctxt "198758357-0-20917"
+msgid "Fiery Breath"
+msgstr "Fiery Breath"
+
+#: 132143172-0-32958
+msgctxt "132143172-0-32958"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nActivating this ability again allows you to move the standard to your location.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
+msgstr "전투 깃발을 소환합니다. 깃발은 <<3>> 동안, 근처의 적들에게 <<2>>마다 <<1>>를 입히고, Major Defile 효과를 가해, 받는 치유량과 체력 재생을 <<4>> 감소시킵니다.\n\n어빌리티를 다시 사용하면 깃발을 자신의 위치로 이동시킵니다.\n\n활성화되어 있는 동안 아군이 |cffffffShackle|r 연계 효과를 발동시킬 수 있습니다. 발동시키면 깃발 범위 내의 적들에게 <<5>>를 입히고, <<6>> 동안 이동 불가로 만듭니다."
+
+#: 198758357-0-32958
+msgctxt "198758357-0-32958"
+msgid "Shifting Standard"
+msgstr "Shifting Standard"

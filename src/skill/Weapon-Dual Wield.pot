@@ -11,14 +11,74 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-85187
-msgctxt "132143172-0-85187"
-msgid "Slash enemies in front of you, causing them to bleed for <<1>> over <<2>> and healing you for <<3>> of the damage done."
+#: 132143172-0-45478
+msgctxt "132143172-0-45478"
+msgid "Reduces the Stamina cost of Dual Wield abilities by <<1>>."
 msgstr ""
 
-#: 198758357-0-85187
-msgctxt "198758357-0-85187"
-msgid "Rend"
+#: 198758357-0-45478
+msgctxt "198758357-0-45478"
+msgid "Controlled Fury"
+msgstr ""
+
+#: 132143172-0-45477
+msgctxt "132143172-0-45477"
+msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
+msgstr ""
+
+#: 198758357-0-45477
+msgctxt "198758357-0-45477"
+msgid "Dual Wield Expert"
+msgstr ""
+
+#: 132143172-0-38861
+msgctxt "132143172-0-38861"
+msgid "Launch yourself into a lethal spin, releasing a flurry of blades around you that deals <<1>> to nearby enemies."
+msgstr ""
+
+#: 198758357-0-38861
+msgctxt "198758357-0-38861"
+msgid "Steel Tornado"
+msgstr ""
+
+#: 132143172-0-45476
+msgctxt "132143172-0-45476"
+msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
+msgstr ""
+
+#: 198758357-0-45476
+msgctxt "198758357-0-45476"
+msgid "Slaughter"
+msgstr ""
+
+#: 132143172-0-28613
+msgctxt "132143172-0-28613"
+msgid "Envelop yourself in a protective cloak of razors, gaining Major Evasion for <<1>>, reducing damage from area attacks by <<2>>. \n\nEvery <<3>> the shrapnel will pulse, dealing <<4>> to all enemies within |cffffff5|r meters."
+msgstr ""
+
+#: 198758357-0-28613
+msgctxt "198758357-0-28613"
+msgid "Blade Cloak"
+msgstr ""
+
+#: 132143172-0-38906
+msgctxt "132143172-0-38906"
+msgid "Envelop yourself in a protective cloak of razors, gaining Major Evasion for <<1>>, reducing damage from area attacks by <<2>>. \n\nEvery <<3>> the shrapnel will pulse, dealing <<4>> to all enemies within |cffffff5|r meters."
+msgstr ""
+
+#: 198758357-0-38906
+msgctxt "198758357-0-38906"
+msgid "Deadly Cloak"
+msgstr ""
+
+#: 132143172-0-28379
+msgctxt "132143172-0-28379"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
+msgstr ""
+
+#: 198758357-0-28379
+msgctxt "198758357-0-28379"
+msgid "Twin Slashes"
 msgstr ""
 
 #: 132143172-0-85179
@@ -29,6 +89,136 @@ msgstr ""
 #: 198758357-0-85179
 msgctxt "198758357-0-85179"
 msgid "Thrive in Chaos"
+msgstr ""
+
+#: 132143172-0-38845
+msgctxt "132143172-0-38845"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>.\n\nYou also heal for <<4>> Health over the duration."
+msgstr ""
+
+#: 198758357-0-38845
+msgctxt "198758357-0-38845"
+msgid "Blood Craze"
+msgstr ""
+
+#: 132143172-0-38901
+msgctxt "132143172-0-38901"
+msgid "Envelop yourself in a protective cloak of razors, gaining Major Evasion for <<1>>, reducing damage from area attacks by <<2>>. \n\nEvery <<3>> the shrapnel will pulse, dealing <<4>> to all enemies within |cffffff5|r meters.\n\nYou also gain Major Expedition for <<5>>, increasing your Movement Speed by <<6>>."
+msgstr ""
+
+#: 198758357-0-38901
+msgctxt "198758357-0-38901"
+msgid "Quick Cloak"
+msgstr ""
+
+#: 132143172-0-38846
+msgctxt "132143172-0-38846"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. \n\nThe final hit deals <<2>> more damage and heals you for <<3>> of the damage caused."
+msgstr ""
+
+#: 198758357-0-38846
+msgctxt "198758357-0-38846"
+msgid "Bloodthirst"
+msgstr ""
+
+#: 132143172-0-28591
+msgctxt "132143172-0-28591"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies."
+msgstr ""
+
+#: 198758357-0-28591
+msgctxt "198758357-0-28591"
+msgid "Whirlwind"
+msgstr ""
+
+#: 132143172-0-21114
+msgctxt "132143172-0-21114"
+msgid "Gives you an <<1>> damage bonus when attacking stunned, immobilized, disoriented, or silenced enemies."
+msgstr ""
+
+#: 198758357-0-21114
+msgctxt "198758357-0-21114"
+msgid "Ruffian"
+msgstr ""
+
+#: 132143172-0-21157
+msgctxt "132143172-0-21157"
+msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and granting you Major Brutality, increasing your Weapon Damage by <<2>> for <<3>>.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for <<4>>."
+msgstr ""
+
+#: 198758357-0-21157
+msgctxt "198758357-0-21157"
+msgid "Hidden Blade"
+msgstr ""
+
+#: 132143172-0-38891
+msgctxt "132143172-0-38891"
+msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
+msgstr ""
+
+#: 198758357-0-38891
+msgctxt "198758357-0-38891"
+msgid "Whirling Blades"
+msgstr ""
+
+#: 132143172-0-28607
+msgctxt "132143172-0-28607"
+msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. \n\nThe final hit deals <<2>> more damage."
+msgstr ""
+
+#: 198758357-0-28607
+msgctxt "198758357-0-28607"
+msgid "Flurry"
+msgstr ""
+
+#: 132143172-0-30893
+msgctxt "132143172-0-30893"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nEach axe gives your melee attacks a |cffffff4|r% chance to bleed enemies for <<1>> over <<2>>.\n\nEach mace causes your attacks to ignore |cffffff5|r% of an enemy's Physical Resistance. \n\nEach sword increases your damage done by |cffffff1|r%.\n\nEach dagger increases your Weapon Critical rating. Current bonus: <<3>>."
+msgstr ""
+
+#: 198758357-0-30893
+msgctxt "198758357-0-30893"
+msgid "Twin Blade and Blunt"
+msgstr ""
+
+#: 132143172-0-38839
+msgctxt "132143172-0-38839"
+msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>.\n\nYou also reduce their Movement Speed by <<4>> for <<5>>."
+msgstr ""
+
+#: 198758357-0-38839
+msgctxt "198758357-0-38839"
+msgid "Rending Slashes"
+msgstr ""
+
+#: 132143172-0-30873
+msgctxt "132143172-0-30873"
+msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
+msgstr ""
+
+#: 198758357-0-30873
+msgctxt "198758357-0-30873"
+msgid "Dual Wield Expert"
+msgstr ""
+
+#: 132143172-0-30872
+msgctxt "132143172-0-30872"
+msgid "Reduces the Stamina cost of Dual Wield abilities by <<1>>."
+msgstr ""
+
+#: 198758357-0-30872
+msgctxt "198758357-0-30872"
+msgid "Controlled Fury"
+msgstr ""
+
+#: 132143172-0-18929
+msgctxt "132143172-0-18929"
+msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
+msgstr ""
+
+#: 198758357-0-18929
+msgctxt "198758357-0-18929"
+msgid "Slaughter"
 msgstr ""
 
 #: 132143172-0-83600
@@ -61,46 +251,6 @@ msgctxt "198758357-0-45481"
 msgid "Ruffian"
 msgstr ""
 
-#: 132143172-0-45478
-msgctxt "132143172-0-45478"
-msgid "Reduces the Stamina cost of Dual Wield abilities by <<1>>."
-msgstr ""
-
-#: 198758357-0-45478
-msgctxt "198758357-0-45478"
-msgid "Controlled Fury"
-msgstr ""
-
-#: 132143172-0-45477
-msgctxt "132143172-0-45477"
-msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
-msgstr ""
-
-#: 198758357-0-45477
-msgctxt "198758357-0-45477"
-msgid "Dual Wield Expert"
-msgstr ""
-
-#: 132143172-0-45476
-msgctxt "132143172-0-45476"
-msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
-msgstr ""
-
-#: 198758357-0-45476
-msgctxt "198758357-0-45476"
-msgid "Slaughter"
-msgstr ""
-
-#: 132143172-0-38914
-msgctxt "132143172-0-38914"
-msgid "Fire a secret dagger from your sleeve that bounces up to |cffffff3|r times to nearby enemies, dealing <<1>> per hit.   \n\nIf enemies hit are casting they are interrupted, set Off Balance, and stunned for <<2>>.\n\nYou also gain Major Brutality, increasing your Weapon Damage by <<3>> for <<4>>."
-msgstr ""
-
-#: 198758357-0-38914
-msgctxt "198758357-0-38914"
-msgid "Shrouded Daggers"
-msgstr ""
-
 #: 132143172-0-38910
 msgctxt "132143172-0-38910"
 msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and marking them for <<2>>.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for <<3>>.\n\nWhile an enemy is marked,  reactivating this ability on them allows you to jump to them, dealing <<1>> and grants you Major Brutality, increasing your Weapon Damage by <<4>> for <<5>>."
@@ -109,46 +259,6 @@ msgstr ""
 #: 198758357-0-38910
 msgctxt "198758357-0-38910"
 msgid "Flying Blade"
-msgstr ""
-
-#: 132143172-0-38906
-msgctxt "132143172-0-38906"
-msgid "Envelop yourself in a protective cloak of razors, gaining Major Evasion for <<1>>, reducing damage from area attacks by <<2>>. \n\nEvery <<3>> the shrapnel will pulse, dealing <<4>> to all enemies within |cffffff5|r meters."
-msgstr ""
-
-#: 198758357-0-38906
-msgctxt "198758357-0-38906"
-msgid "Deadly Cloak"
-msgstr ""
-
-#: 132143172-0-38901
-msgctxt "132143172-0-38901"
-msgid "Envelop yourself in a protective cloak of razors, gaining Major Evasion for <<1>>, reducing damage from area attacks by <<2>>. \n\nEvery <<3>> the shrapnel will pulse, dealing <<4>> to all enemies within |cffffff5|r meters.\n\nYou also gain Major Expedition for <<5>>, increasing your Movement Speed by <<6>>."
-msgstr ""
-
-#: 198758357-0-38901
-msgctxt "198758357-0-38901"
-msgid "Quick Cloak"
-msgstr ""
-
-#: 132143172-0-38891
-msgctxt "132143172-0-38891"
-msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
-msgstr ""
-
-#: 198758357-0-38891
-msgctxt "198758357-0-38891"
-msgid "Whirling Blades"
-msgstr ""
-
-#: 132143172-0-38861
-msgctxt "132143172-0-38861"
-msgid "Launch yourself into a lethal spin, releasing a flurry of blades around you that deals <<1>> to nearby enemies."
-msgstr ""
-
-#: 198758357-0-38861
-msgctxt "198758357-0-38861"
-msgid "Steel Tornado"
 msgstr ""
 
 #: 132143172-0-38857
@@ -161,132 +271,22 @@ msgctxt "198758357-0-38857"
 msgid "Rapid Strikes"
 msgstr ""
 
-#: 132143172-0-38846
-msgctxt "132143172-0-38846"
-msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. \n\nThe final hit deals <<2>> more damage and heals you for <<3>> of the damage caused."
+#: 132143172-0-85187
+msgctxt "132143172-0-85187"
+msgid "Slash enemies in front of you, causing them to bleed for <<1>> over <<2>> and healing you for <<3>> of the damage done."
 msgstr ""
 
-#: 198758357-0-38846
-msgctxt "198758357-0-38846"
-msgid "Bloodthirst"
+#: 198758357-0-85187
+msgctxt "198758357-0-85187"
+msgid "Rend"
 msgstr ""
 
-#: 132143172-0-38845
-msgctxt "132143172-0-38845"
-msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>.\n\nYou also heal for <<4>> Health over the duration."
+#: 132143172-0-38914
+msgctxt "132143172-0-38914"
+msgid "Fire a secret dagger from your sleeve that bounces up to |cffffff3|r times to nearby enemies, dealing <<1>> per hit.   \n\nIf enemies hit are casting they are interrupted, set Off Balance, and stunned for <<2>>.\n\nYou also gain Major Brutality, increasing your Weapon Damage by <<3>> for <<4>>."
 msgstr ""
 
-#: 198758357-0-38845
-msgctxt "198758357-0-38845"
-msgid "Blood Craze"
-msgstr ""
-
-#: 132143172-0-38839
-msgctxt "132143172-0-38839"
-msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>.\n\nYou also reduce their Movement Speed by <<4>> for <<5>>."
-msgstr ""
-
-#: 198758357-0-38839
-msgctxt "198758357-0-38839"
-msgid "Rending Slashes"
-msgstr ""
-
-#: 132143172-0-30893
-msgctxt "132143172-0-30893"
-msgid "Grants a bonus based on the type of weapon equipped:\n\nEach axe gives your melee attacks a |cffffff4|r% chance to bleed enemies for <<1>> over <<2>>.\n\nEach mace causes your attacks to ignore |cffffff5|r% of an enemy's Physical Resistance. \n\nEach sword increases your damage done by |cffffff1|r%.\n\nEach dagger increases your Weapon Critical rating. Current bonus: <<3>>."
-msgstr ""
-
-#: 198758357-0-30893
-msgctxt "198758357-0-30893"
-msgid "Twin Blade and Blunt"
-msgstr ""
-
-#: 132143172-0-30873
-msgctxt "132143172-0-30873"
-msgid "Increases Weapon Damage by <<1>>% of off-hand weapon's damage."
-msgstr ""
-
-#: 198758357-0-30873
-msgctxt "198758357-0-30873"
-msgid "Dual Wield Expert"
-msgstr ""
-
-#: 132143172-0-30872
-msgctxt "132143172-0-30872"
-msgid "Reduces the Stamina cost of Dual Wield abilities by <<1>>."
-msgstr ""
-
-#: 198758357-0-30872
-msgctxt "198758357-0-30872"
-msgid "Controlled Fury"
-msgstr ""
-
-#: 132143172-0-28613
-msgctxt "132143172-0-28613"
-msgid "Envelop yourself in a protective cloak of razors, gaining Major Evasion for <<1>>, reducing damage from area attacks by <<2>>. \n\nEvery <<3>> the shrapnel will pulse, dealing <<4>> to all enemies within |cffffff5|r meters."
-msgstr ""
-
-#: 198758357-0-28613
-msgctxt "198758357-0-28613"
-msgid "Blade Cloak"
-msgstr ""
-
-#: 132143172-0-28607
-msgctxt "132143172-0-28607"
-msgid "Flood an enemy with steel, battering them with five consecutive attacks that each deal <<1>>. \n\nThe final hit deals <<2>> more damage."
-msgstr ""
-
-#: 198758357-0-28607
-msgctxt "198758357-0-28607"
-msgid "Flurry"
-msgstr ""
-
-#: 132143172-0-28591
-msgctxt "132143172-0-28591"
-msgid "Launch yourself into a lethal spin, dealing <<1>> to nearby enemies."
-msgstr ""
-
-#: 198758357-0-28591
-msgctxt "198758357-0-28591"
-msgid "Whirlwind"
-msgstr ""
-
-#: 132143172-0-28379
-msgctxt "132143172-0-28379"
-msgid "Slice an enemy with both weapons to cause deep lacerations, dealing <<1>> with each weapon and causing them to bleed for an additional <<2>> over <<3>>."
-msgstr ""
-
-#: 198758357-0-28379
-msgctxt "198758357-0-28379"
-msgid "Twin Slashes"
-msgstr ""
-
-#: 132143172-0-21157
-msgctxt "132143172-0-21157"
-msgid "Fire a secret dagger from your sleeve at an enemy, dealing <<1>> and granting you Major Brutality, increasing your Weapon Damage by <<2>> for <<3>>.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for <<4>>."
-msgstr ""
-
-#: 198758357-0-21157
-msgctxt "198758357-0-21157"
-msgid "Hidden Blade"
-msgstr ""
-
-#: 132143172-0-21114
-msgctxt "132143172-0-21114"
-msgid "Gives you an <<1>> damage bonus when attacking stunned, immobilized, disoriented, or silenced enemies."
-msgstr ""
-
-#: 198758357-0-21114
-msgctxt "198758357-0-21114"
-msgid "Ruffian"
-msgstr ""
-
-#: 132143172-0-18929
-msgctxt "132143172-0-18929"
-msgid "Increases damage with Dual Wield abilities by <<1>> against enemies with under |cffffff25|r% Health."
-msgstr ""
-
-#: 198758357-0-18929
-msgctxt "198758357-0-18929"
-msgid "Slaughter"
+#: 198758357-0-38914
+msgctxt "198758357-0-38914"
+msgid "Shrouded Daggers"
 msgstr ""

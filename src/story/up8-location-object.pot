@@ -11,74 +11,29 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 10860933-0-1729
-msgctxt "10860933-0-1729"
-msgid "Gold Coast Wayshrine"
+#: 10860933-0-1716
+msgctxt "10860933-0-1716"
+msgid "No Shira Citadel"
 msgstr ""
 
-#: 10860933-0-1728
-msgctxt "10860933-0-1728"
-msgid "Strid River Wayshrine"
+#: 10860933-0-1715
+msgctxt "10860933-0-1715"
+msgid "The Lost Pavilion"
 msgstr ""
 
-#: 129979412-0-1562
-msgctxt "129979412-0-1562"
-msgid "Thwart an ancient evil inside the thawing ruin of Rkindaleft"
+#: 108566804-0-1539
+msgctxt "108566804-0-1539"
+msgid "You've defeated the poachers and slain Old Snagara."
 msgstr ""
 
-#: 108566804-0-1559
-msgctxt "108566804-0-1559"
-msgid "You helped the Morkul clan embrace events of their past."
+#: 10860933-0-1714
+msgctxt "10860933-0-1714"
+msgid "Abah's Landing"
 msgstr ""
 
-#: 129979412-0-1559
-msgctxt "129979412-0-1559"
-msgid "Help a daughter of Morkul return the clan to former glories."
-msgstr ""
-
-#: 108566804-0-1550
-msgctxt "108566804-0-1550"
-msgid "You've destroyed the sentinel at Nyzchaleft Falls."
-msgstr ""
-
-#: 129979412-0-1535
-msgctxt "129979412-0-1535"
-msgid "Light Malacath's pyre at the heart of Old Orsinium."
-msgstr ""
-
-#: 10860933-0-1727
-msgctxt "10860933-0-1727"
-msgid "Kvatch Wayshrine"
-msgstr ""
-
-#: 10860933-0-1726
-msgctxt "10860933-0-1726"
-msgid "Anvil Wayshrine"
-msgstr ""
-
-#: 10860933-0-1724
-msgctxt "10860933-0-1724"
-msgid "Friendship Gate"
-msgstr ""
-
-#: 10860933-0-1723
-msgctxt "10860933-0-1723"
-msgid "Merchant's Gate"
-msgstr ""
-
-#: 10860933-0-1722
-msgctxt "10860933-0-1722"
-msgid "Placations of Zeht"
-msgstr ""
-
-#: 10860933-0-1721
-msgctxt "10860933-0-1721"
-msgid "No Shira Citadel Wayshrine"
-msgstr ""
-
-#: 10860933-0-1720
-msgctxt "10860933-0-1720"
-msgid "Zeht's Displeasure Wayshrine"
+#: 10860933-0-1713
+msgctxt "10860933-0-1713"
+msgid "Prince Hew's Shuttered Tomb"
 msgstr ""
 
 #: 10860933-0-1719
@@ -96,26 +51,6 @@ msgctxt "10860933-0-1717"
 msgid "No Shira Workshop"
 msgstr ""
 
-#: 10860933-0-1716
-msgctxt "10860933-0-1716"
-msgid "No Shira Citadel"
-msgstr ""
-
-#: 10860933-0-1715
-msgctxt "10860933-0-1715"
-msgid "The Lost Pavilion"
-msgstr ""
-
-#: 10860933-0-1714
-msgctxt "10860933-0-1714"
-msgid "Abah's Landing"
-msgstr ""
-
-#: 10860933-0-1713
-msgctxt "10860933-0-1713"
-msgid "Prince Hew's Shuttered Tomb"
-msgstr ""
-
 #: 10860933-0-1712
 msgctxt "10860933-0-1712"
 msgid "Hubalajad's Reflection"
@@ -131,24 +66,19 @@ msgctxt "10860933-0-1710"
 msgid "Ko Estaran"
 msgstr ""
 
-#: 10860933-0-1709
-msgctxt "10860933-0-1709"
-msgid "Thrall Cove"
+#: 108566804-0-1550
+msgctxt "108566804-0-1550"
+msgid "You've destroyed the sentinel at Nyzchaleft Falls."
 msgstr ""
 
-#: 10860933-0-1707
-msgctxt "10860933-0-1707"
-msgid "Bahraha's Gloom"
+#: 10860933-0-1727
+msgctxt "10860933-0-1727"
+msgid "Kvatch Wayshrine"
 msgstr ""
 
-#: 10860933-0-1706
-msgctxt "10860933-0-1706"
-msgid "Shark's Teeth Grotto"
-msgstr ""
-
-#: 108566804-0-1562
-msgctxt "108566804-0-1562"
-msgid "You stopped an ancient mage from completing his dark plans."
+#: 10860933-0-1726
+msgctxt "10860933-0-1726"
+msgid "Anvil Wayshrine"
 msgstr ""
 
 #: 108566804-0-1549
@@ -156,9 +86,44 @@ msgctxt "108566804-0-1549"
 msgid "You've killed <<1>>, the mad Ogre wizard."
 msgstr ""
 
+#: 10860933-0-1724
+msgctxt "10860933-0-1724"
+msgid "Friendship Gate"
+msgstr ""
+
 #: 108566804-0-1548
 msgctxt "108566804-0-1548"
 msgid "You've slain the Winterborn abomination, ending the ritual."
+msgstr ""
+
+#: 10860933-0-1709
+msgctxt "10860933-0-1709"
+msgid "Thrall Cove"
+msgstr ""
+
+#: 10860933-0-1729
+msgctxt "10860933-0-1729"
+msgid "Gold Coast Wayshrine"
+msgstr ""
+
+#: 10860933-0-1707
+msgctxt "10860933-0-1707"
+msgid "Bahraha's Gloom"
+msgstr ""
+
+#: 10860933-0-1728
+msgctxt "10860933-0-1728"
+msgid "Strid River Wayshrine"
+msgstr ""
+
+#: 10860933-0-1706
+msgctxt "10860933-0-1706"
+msgid "Shark's Teeth Grotto"
+msgstr ""
+
+#: 10860933-0-1723
+msgctxt "10860933-0-1723"
+msgid "Merchant's Gate"
 msgstr ""
 
 #: 108566804-0-1547
@@ -166,17 +131,52 @@ msgctxt "108566804-0-1547"
 msgid "You've defeated King-Chief Edu, leader of a Riekr army."
 msgstr ""
 
+#: 10860933-0-1722
+msgctxt "10860933-0-1722"
+msgid "Placations of Zeht"
+msgstr ""
+
+#: 10860933-0-1721
+msgctxt "10860933-0-1721"
+msgid "No Shira Citadel Wayshrine"
+msgstr ""
+
 #: 108566804-0-1545
 msgctxt "108566804-0-1545"
 msgid "You've stopped the Worm Cult from completing a dolmen."
 msgstr ""
 
-#: 108566804-0-1539
-msgctxt "108566804-0-1539"
-msgid "You've defeated the poachers and slain Old Snagara."
+#: 10860933-0-1720
+msgctxt "10860933-0-1720"
+msgid "Zeht's Displeasure Wayshrine"
 msgstr ""
 
 #: 108566804-0-1535
 msgctxt "108566804-0-1535"
 msgid "You renewed Malacath's wrath at the heart of Old Orsinium."
+msgstr ""
+
+#: 129979412-0-1535
+msgctxt "129979412-0-1535"
+msgid "Light Malacath's pyre at the heart of Old Orsinium."
+msgstr ""
+
+#: 108566804-0-1562
+msgctxt "108566804-0-1562"
+msgid "You stopped an ancient mage from completing his dark plans."
+msgstr ""
+
+#: 129979412-0-1562
+msgctxt "129979412-0-1562"
+msgid "Thwart an ancient evil inside the thawing ruin of Rkindaleft"
+msgstr ""
+
+#: 108566804-0-1559
+msgctxt "108566804-0-1559"
+msgid "You helped the Morkul clan embrace events of their past."
+msgstr ""
+
+#: 129979412-0-1559
+msgctxt "129979412-0-1559"
+msgid "Help a daughter of Morkul return the clan to former glories."
 msgstr ""

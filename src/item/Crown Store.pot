@@ -11,6 +11,126 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 242841733-0-64523
+msgctxt "242841733-0-64523"
+msgid "Attribute Respecification Scroll"
+msgstr ""
+
+#: 242841733-0-135130
+msgctxt "242841733-0-135130"
+msgid "Attribute Respecification Scroll"
+msgstr ""
+
+#: 228378404-0-135128
+msgctxt "228378404-0-135128"
+msgid "Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold."
+msgstr ""
+
+#: 242841733-0-135128
+msgctxt "242841733-0-135128"
+msgid "Skill Respecification Scroll"
+msgstr ""
+
+#: 228378404-0-134679
+msgctxt "228378404-0-134679"
+msgid "An enchanted stone from Vanus Galerion contains a private message addressed to you. Activate the stone to start a quest to find the missing Wyrd Oracle and glimpse what's to come in the next chapter of the Elder Scrolls Online's ongoing saga."
+msgstr ""
+
+#: 242841733-0-134679
+msgctxt "242841733-0-134679"
+msgid "Mages Guild Message Stone"
+msgstr ""
+
+#: 228378404-0-135124
+msgctxt "228378404-0-135124"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-135124
+msgctxt "242841733-0-135124"
+msgid "Instant All Research"
+msgstr ""
+
+#: 228378404-0-138811
+msgctxt "228378404-0-138811"
+msgid "Created by a Priestess of Meridia, for whom time is relative."
+msgstr ""
+
+#: 242841733-0-138811
+msgctxt "242841733-0-138811"
+msgid "Crown Experience Scroll (2)"
+msgstr ""
+
+#: 228378404-0-134674
+msgctxt "228378404-0-134674"
+msgid "Good for one special-occasion cake from the renowned baker, Chef Donolon. Use to start the chef's quest. Look for Donolon's bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
+msgstr ""
+
+#: 242841733-0-134674
+msgctxt "242841733-0-134674"
+msgid "Jubilee Cake Voucher"
+msgstr ""
+
+#: 228378404-0-125464
+msgctxt "228378404-0-125464"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-125464
+msgctxt "242841733-0-125464"
+msgid "Instant Clothing Research"
+msgstr ""
+
+#: 228378404-0-125465
+msgctxt "228378404-0-125465"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-125465
+msgctxt "242841733-0-125465"
+msgid "Instant Clothing Research, Grand"
+msgstr ""
+
+#: 228378404-0-125462
+msgctxt "228378404-0-125462"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-125462
+msgctxt "242841733-0-125462"
+msgid "Instant Blacksmithing Research, Grand"
+msgstr ""
+
+#: 228378404-0-64537
+msgctxt "228378404-0-64537"
+msgid "Created by a Priestess of Meridia, for whom time is relative."
+msgstr ""
+
+#: 242841733-0-64537
+msgctxt "242841733-0-64537"
+msgid "Crown Experience Scroll"
+msgstr ""
+
+#: 228378404-0-125463
+msgctxt "228378404-0-125463"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-125463
+msgctxt "242841733-0-125463"
+msgid "Instant Blacksmithing Research, Major"
+msgstr ""
+
+#: 228378404-0-114987
+msgctxt "228378404-0-114987"
+msgid "Good for one special-occasion cake from the renowned baker, Chef Donolon. Use to start the chef's quest. Look for Donolon's bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
+msgstr ""
+
+#: 242841733-0-114987
+msgctxt "242841733-0-114987"
+msgid "Jubilee Cake Voucher"
+msgstr ""
+
 #: 228378404-0-94441
 msgctxt "228378404-0-94441"
 msgid "Created by a Priestess of Meridia, for whom time is relative."
@@ -31,6 +151,56 @@ msgctxt "242841733-0-94440"
 msgid "Major Gold Coast Experience Scroll"
 msgstr ""
 
+#: 228378404-0-135110
+msgctxt "228378404-0-135110"
+msgid "Created by a Priestess of Meridia, for whom time is relative."
+msgstr ""
+
+#: 242841733-0-135110
+msgctxt "242841733-0-135110"
+msgid "Crown Experience Scroll"
+msgstr ""
+
+#: 228378404-0-139058
+msgctxt "228378404-0-139058"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-139058
+msgctxt "242841733-0-139058"
+msgid "Instant Jewelry Crafting Research, Grand"
+msgstr ""
+
+#: 228378404-0-139056
+msgctxt "228378404-0-139056"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-139056
+msgctxt "242841733-0-139056"
+msgid "Instant Jewelry Crafting Research"
+msgstr ""
+
+#: 228378404-0-139057
+msgctxt "228378404-0-139057"
+msgid "|cFFFFFFThis item has no cooldown.|r"
+msgstr ""
+
+#: 242841733-0-139057
+msgctxt "242841733-0-139057"
+msgid "Instant Jewelry Crafting Research, Major"
+msgstr ""
+
+#: 228378404-0-135117
+msgctxt "228378404-0-135117"
+msgid "Expands your character's inventory by |cFFFFFF1|r slot per lesson. Riding Capacity allows you to carry more items and takes effect on your character regardless of the mount you have set active. Your character's current Riding Capacity is <<1>>/60."
+msgstr ""
+
+#: 242841733-0-135117
+msgctxt "242841733-0-135117"
+msgid "Crown Lesson: Riding Capacity"
+msgstr ""
+
 #: 228378404-0-94439
 msgctxt "228378404-0-94439"
 msgid "Created by a Priestess of Meridia, for whom time is relative."
@@ -39,6 +209,46 @@ msgstr ""
 #: 242841733-0-94439
 msgctxt "242841733-0-94439"
 msgid "Gold Coast Experience Scroll"
+msgstr ""
+
+#: 228378404-0-135115
+msgctxt "228378404-0-135115"
+msgid "Increases your character's riding speed by |cFFFFFF1|r per lesson. Riding Speed allows you to move faster while mounted and takes effect on your character regardless of the mount you have set active. Your current Riding Speed is <<1>>/60."
+msgstr ""
+
+#: 242841733-0-135115
+msgctxt "242841733-0-135115"
+msgid "Crown Lesson: Riding Speed"
+msgstr ""
+
+#: 228378404-0-135116
+msgctxt "228378404-0-135116"
+msgid "Increases your riding stamina by |cFFFFFF1|r per lesson. Riding Stamina helps prevent being dismounted, allows your mount to sprint longer, and takes effect on your character regardless of the mount set active. Your current Riding Stamina is <<1>>/60."
+msgstr ""
+
+#: 242841733-0-135116
+msgctxt "242841733-0-135116"
+msgid "Crown Lesson: Riding Stamina"
+msgstr ""
+
+#: 228378404-0-64700
+msgctxt "228378404-0-64700"
+msgid "Increases your character's riding speed by |cFFFFFF1|r per lesson. Riding Speed allows you to move faster while mounted and takes effect on your character regardless of the mount you have set active. Your current Riding Speed is <<1>>/60."
+msgstr ""
+
+#: 242841733-0-64700
+msgctxt "242841733-0-64700"
+msgid "Crown Lesson: Riding Speed"
+msgstr ""
+
+#: 228378404-0-64524
+msgctxt "228378404-0-64524"
+msgid "Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold."
+msgstr ""
+
+#: 242841733-0-64524
+msgctxt "242841733-0-64524"
+msgid "Skill Respecification Scroll"
 msgstr ""
 
 #: 228378404-0-73871
@@ -71,174 +281,14 @@ msgctxt "242841733-0-64701"
 msgid "Crown Lesson: Riding Stamina"
 msgstr ""
 
-#: 228378404-0-64700
-msgctxt "228378404-0-64700"
-msgid "Increases your character's riding speed by |cFFFFFF1|r per lesson. Riding Speed allows you to move faster while mounted and takes effect on your character regardless of the mount you have set active. Your current Riding Speed is <<1>>/60."
-msgstr ""
-
-#: 242841733-0-64700
-msgctxt "242841733-0-64700"
-msgid "Crown Lesson: Riding Speed"
-msgstr ""
-
-#: 228378404-0-64537
-msgctxt "228378404-0-64537"
-msgid "Created by a Priestess of Meridia, for whom time is relative."
-msgstr ""
-
-#: 242841733-0-64537
-msgctxt "242841733-0-64537"
-msgid "Crown Experience Scroll"
-msgstr ""
-
-#: 228378404-0-64524
-msgctxt "228378404-0-64524"
-msgid "Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold."
-msgstr ""
-
-#: 242841733-0-64524
-msgctxt "242841733-0-64524"
-msgid "Skill Respecification Scroll"
-msgstr ""
-
-#: 242841733-0-64523
-msgctxt "242841733-0-64523"
-msgid "Attribute Respecification Scroll"
-msgstr ""
-
-#: 242841733-0-147518
-msgctxt "242841733-0-147518"
-msgid "Jubilee Cake Voucher"
-msgstr ""
-
-#: 228378404-0-142002
-msgctxt "228378404-0-142002"
-msgid "A leaflet from Cyrodilic Collections requests that you seek out Concordia Mercius for an important mission. Find Concordia to start a quest to help the historical society and glimpse what's next in the Elder Scrolls Online's ongoing adventures."
-msgstr ""
-
-#: 242841733-0-142002
-msgctxt "242841733-0-142002"
-msgid "Cyrodilic Collections Needs You!"
-msgstr ""
-
-#: 228378404-0-139058
-msgctxt "228378404-0-139058"
+#: 228378404-0-125471
+msgctxt "228378404-0-125471"
 msgid "|cFFFFFFThis item has no cooldown.|r"
 msgstr ""
 
-#: 242841733-0-139058
-msgctxt "242841733-0-139058"
-msgid "Instant Jewelry Crafting Research, Grand"
-msgstr ""
-
-#: 228378404-0-139057
-msgctxt "228378404-0-139057"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-139057
-msgctxt "242841733-0-139057"
-msgid "Instant Jewelry Crafting Research, Major"
-msgstr ""
-
-#: 228378404-0-139056
-msgctxt "228378404-0-139056"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-139056
-msgctxt "242841733-0-139056"
-msgid "Instant Jewelry Crafting Research"
-msgstr ""
-
-#: 228378404-0-138811
-msgctxt "228378404-0-138811"
-msgid "Created by a Priestess of Meridia, for whom time is relative."
-msgstr ""
-
-#: 242841733-0-138811
-msgctxt "242841733-0-138811"
-msgid "Crown Experience Scroll (2)"
-msgstr ""
-
-#: 242841733-0-135130
-msgctxt "242841733-0-135130"
-msgid "Attribute Respecification Scroll"
-msgstr ""
-
-#: 242841733-0-135128
-msgctxt "242841733-0-135128"
-msgid "Skill Respecification Scroll"
-msgstr ""
-
-#: 228378404-0-135124
-msgctxt "228378404-0-135124"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-135124
-msgctxt "242841733-0-135124"
-msgid "Instant All Research"
-msgstr ""
-
-#: 228378404-0-135117
-msgctxt "228378404-0-135117"
-msgid "Expands your character's inventory by |cFFFFFF1|r slot per lesson. Riding Capacity allows you to carry more items and takes effect on your character regardless of the mount you have set active. Your character's current Riding Capacity is <<1>>/60."
-msgstr ""
-
-#: 242841733-0-135117
-msgctxt "242841733-0-135117"
-msgid "Crown Lesson: Riding Capacity"
-msgstr ""
-
-#: 228378404-0-135116
-msgctxt "228378404-0-135116"
-msgid "Increases your riding stamina by |cFFFFFF1|r per lesson. Riding Stamina helps prevent being dismounted, allows your mount to sprint longer, and takes effect on your character regardless of the mount set active. Your current Riding Stamina is <<1>>/60."
-msgstr ""
-
-#: 242841733-0-135116
-msgctxt "242841733-0-135116"
-msgid "Crown Lesson: Riding Stamina"
-msgstr ""
-
-#: 228378404-0-135115
-msgctxt "228378404-0-135115"
-msgid "Increases your character's riding speed by |cFFFFFF1|r per lesson. Riding Speed allows you to move faster while mounted and takes effect on your character regardless of the mount you have set active. Your current Riding Speed is <<1>>/60."
-msgstr ""
-
-#: 242841733-0-135115
-msgctxt "242841733-0-135115"
-msgid "Crown Lesson: Riding Speed"
-msgstr ""
-
-#: 228378404-0-135110
-msgctxt "228378404-0-135110"
-msgid "Created by a Priestess of Meridia, for whom time is relative."
-msgstr ""
-
-#: 242841733-0-135110
-msgctxt "242841733-0-135110"
-msgid "Crown Experience Scroll"
-msgstr ""
-
-#: 228378404-0-134679
-msgctxt "228378404-0-134679"
-msgid "An enchanted stone from Vanus Galerion contains a private message addressed to you. Activate the stone to start a quest to find the missing Wyrd Oracle and glimpse what's to come in the next chapter of the Elder Scrolls Online's ongoing saga."
-msgstr ""
-
-#: 242841733-0-134679
-msgctxt "242841733-0-134679"
-msgid "Mages Guild Message Stone"
-msgstr ""
-
-#: 228378404-0-134674
-msgctxt "228378404-0-134674"
-msgid "Good for one special-occasion cake from the renowned baker, Chef Donolon. Use to start the chef's quest. Look for Donolon's bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
-msgstr ""
-
-#: 242841733-0-134674
-msgctxt "242841733-0-134674"
-msgid "Jubilee Cake Voucher"
+#: 242841733-0-125471
+msgctxt "242841733-0-125471"
+msgid "Instant All Research, Grand"
 msgstr ""
 
 #: 228378404-0-125472
@@ -251,14 +301,14 @@ msgctxt "242841733-0-125472"
 msgid "Instant All Research, Major"
 msgstr ""
 
-#: 228378404-0-125471
-msgctxt "228378404-0-125471"
+#: 228378404-0-125450
+msgctxt "228378404-0-125450"
 msgid "|cFFFFFFThis item has no cooldown.|r"
 msgstr ""
 
-#: 242841733-0-125471
-msgctxt "242841733-0-125471"
-msgid "Instant All Research, Grand"
+#: 242841733-0-125450
+msgctxt "242841733-0-125450"
+msgid "Instant Blacksmithing Research"
 msgstr ""
 
 #: 228378404-0-125470
@@ -271,14 +321,24 @@ msgctxt "242841733-0-125470"
 msgid "Instant All Research"
 msgstr ""
 
-#: 228378404-0-125469
-msgctxt "228378404-0-125469"
-msgid "|cFFFFFFThis item has no cooldown.|r"
+#: 228378404-0-121401
+msgctxt "228378404-0-121401"
+msgid "Join in the celebration of Cyrodiil and Battlegrounds!"
 msgstr ""
 
-#: 242841733-0-125469
-msgctxt "242841733-0-125469"
-msgid "Instant Woodworking Research, Major"
+#: 242841733-0-121401
+msgctxt "242841733-0-121401"
+msgid "Details on the Midyear Mayhem"
+msgstr ""
+
+#: 228378404-0-142002
+msgctxt "228378404-0-142002"
+msgid "A leaflet from Cyrodilic Collections requests that you seek out Concordia Mercius for an important mission. Find Concordia to start a quest to help the historical society and glimpse what's next in the Elder Scrolls Online's ongoing adventures."
+msgstr ""
+
+#: 242841733-0-142002
+msgctxt "242841733-0-142002"
+msgid "Cyrodilic Collections Needs You!"
 msgstr ""
 
 #: 228378404-0-125468
@@ -291,14 +351,14 @@ msgctxt "242841733-0-125468"
 msgid "Instant Woodworking Research, Grand"
 msgstr ""
 
-#: 228378404-0-125467
-msgctxt "228378404-0-125467"
+#: 228378404-0-125469
+msgctxt "228378404-0-125469"
 msgid "|cFFFFFFThis item has no cooldown.|r"
 msgstr ""
 
-#: 242841733-0-125467
-msgctxt "242841733-0-125467"
-msgid "Instant Woodworking Research"
+#: 242841733-0-125469
+msgctxt "242841733-0-125469"
+msgid "Instant Woodworking Research, Major"
 msgstr ""
 
 #: 228378404-0-125466
@@ -311,74 +371,14 @@ msgctxt "242841733-0-125466"
 msgid "Instant Clothing Research, Major"
 msgstr ""
 
-#: 228378404-0-125465
-msgctxt "228378404-0-125465"
+#: 228378404-0-125467
+msgctxt "228378404-0-125467"
 msgid "|cFFFFFFThis item has no cooldown.|r"
 msgstr ""
 
-#: 242841733-0-125465
-msgctxt "242841733-0-125465"
-msgid "Instant Clothing Research, Grand"
-msgstr ""
-
-#: 228378404-0-125464
-msgctxt "228378404-0-125464"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-125464
-msgctxt "242841733-0-125464"
-msgid "Instant Clothing Research"
-msgstr ""
-
-#: 228378404-0-125463
-msgctxt "228378404-0-125463"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-125463
-msgctxt "242841733-0-125463"
-msgid "Instant Blacksmithing Research, Major"
-msgstr ""
-
-#: 228378404-0-125462
-msgctxt "228378404-0-125462"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-125462
-msgctxt "242841733-0-125462"
-msgid "Instant Blacksmithing Research, Grand"
-msgstr ""
-
-#: 228378404-0-125450
-msgctxt "228378404-0-125450"
-msgid "|cFFFFFFThis item has no cooldown.|r"
-msgstr ""
-
-#: 242841733-0-125450
-msgctxt "242841733-0-125450"
-msgid "Instant Blacksmithing Research"
-msgstr ""
-
-#: 228378404-0-121401
-msgctxt "228378404-0-121401"
-msgid "Join in the celebration of Cyrodiil and Battlegrounds!"
-msgstr ""
-
-#: 242841733-0-121401
-msgctxt "242841733-0-121401"
-msgid "Details on the Midyear Mayhem"
-msgstr ""
-
-#: 228378404-0-114987
-msgctxt "228378404-0-114987"
-msgid "Good for one special-occasion cake from the renowned baker, Chef Donolon. Use to start the chef's quest. Look for Donolon's bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
-msgstr ""
-
-#: 242841733-0-114987
-msgctxt "242841733-0-114987"
-msgid "Jubilee Cake Voucher"
+#: 242841733-0-125467
+msgctxt "242841733-0-125467"
+msgid "Instant Woodworking Research"
 msgstr ""
 
 #: 228378404-0-147518
@@ -386,7 +386,7 @@ msgctxt "228378404-0-147518"
 msgid "Good for one special-occasion cake from the renowned baker, Chef Donolon. Use to start the chef's quest. Look for Donolon's bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
 msgstr ""
 
-#: 228378404-0-135128
-msgctxt "228378404-0-135128"
-msgid "Using this scroll enables the selection of a different combination of skills and morphs, without costing you any gold."
+#: 242841733-0-147518
+msgctxt "242841733-0-147518"
+msgid "Jubilee Cake Voucher"
 msgstr ""

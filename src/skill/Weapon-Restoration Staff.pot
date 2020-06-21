@@ -11,14 +11,104 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-85132
-msgctxt "132143172-0-85132"
-msgid "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for <<1>> Health every <<2>> for <<3>>.\n\nAny friendly target you heal gains Major Force for <<4>>, increasing their Critical Damage by <<5>>."
+#: 132143172-0-37232
+msgctxt "132143172-0-37232"
+msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
 msgstr ""
 
-#: 198758357-0-85132
-msgctxt "198758357-0-85132"
-msgid "Light's Champion"
+#: 198758357-0-37232
+msgctxt "198758357-0-37232"
+msgid "Steadfast Ward"
+msgstr ""
+
+#: 132143172-0-28536
+msgctxt "132143172-0-28536"
+msgid "Share your staff's life-giving energy, healing you or a nearby ally for <<1>> Health over <<2>>."
+msgstr ""
+
+#: 198758357-0-28536
+msgctxt "198758357-0-28536"
+msgid "Regeneration"
+msgstr ""
+
+#: 132143172-0-45519
+msgctxt "132143172-0-45519"
+msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+msgstr ""
+
+#: 198758357-0-45519
+msgctxt "198758357-0-45519"
+msgid "Restoration Expert"
+msgstr ""
+
+#: 132143172-0-40126
+msgctxt "132143172-0-40126"
+msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for <<3>>% of the shield's remaining strength every second."
+msgstr ""
+
+#: 198758357-0-40126
+msgctxt "198758357-0-40126"
+msgid "Healing Ward"
+msgstr ""
+
+#: 132143172-0-40103
+msgctxt "132143172-0-40103"
+msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>>, increasing you and your allies' Physical Resistance and Spell Resistance by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-40103
+msgctxt "198758357-0-40103"
+msgid "Blessing Of Restoration"
+msgstr ""
+
+#: 132143172-0-40109
+msgctxt "132143172-0-40109"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nAlso applies <<5>> to the enemy for <<6>>, causing you and your allies to restore <<7>> Magicka every <<8>> when damaging them."
+msgstr ""
+
+#: 198758357-0-40109
+msgctxt "198758357-0-40109"
+msgid "Siphon Spirit"
+msgstr ""
+
+#: 132143172-0-45517
+msgctxt "132143172-0-45517"
+msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
+msgstr ""
+
+#: 198758357-0-45517
+msgctxt "198758357-0-45517"
+msgid "Essence Drain"
+msgstr ""
+
+#: 132143172-0-30981
+msgctxt "132143172-0-30981"
+msgid "Increases healing with Restoration Staff spells by <<1>>."
+msgstr ""
+
+#: 198758357-0-30981
+msgctxt "198758357-0-30981"
+msgid "Restoration Master"
+msgstr ""
+
+#: 132143172-0-31531
+msgctxt "132143172-0-31531"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them."
+msgstr ""
+
+#: 198758357-0-31531
+msgctxt "198758357-0-31531"
+msgid "Force Siphon"
+msgstr ""
+
+#: 132143172-0-30980
+msgctxt "132143172-0-30980"
+msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+msgstr ""
+
+#: 198758357-0-30980
+msgctxt "198758357-0-30980"
+msgid "Restoration Expert"
 msgstr ""
 
 #: 132143172-0-83850
@@ -41,124 +131,34 @@ msgctxt "198758357-0-83552"
 msgid "Panacea"
 msgstr ""
 
-#: 132143172-0-45524
-msgctxt "132143172-0-45524"
-msgid "Increases healing with Restoration Staff spells by <<1>>."
-msgstr ""
-
-#: 198758357-0-45524
-msgctxt "198758357-0-45524"
-msgid "Restoration Master"
-msgstr ""
-
-#: 132143172-0-45521
-msgctxt "132143172-0-45521"
+#: 132143172-0-30869
+msgctxt "132143172-0-30869"
 msgid "Restores <<1>> Magicka when you block a spell."
 msgstr ""
 
-#: 198758357-0-45521
-msgctxt "198758357-0-45521"
+#: 198758357-0-30869
+msgctxt "198758357-0-30869"
 msgid "Absorb"
 msgstr ""
 
-#: 132143172-0-45520
-msgctxt "132143172-0-45520"
-msgid "Your fully-charged Heavy Attacks restore <<1>>% more Magicka."
+#: 132143172-0-40060
+msgctxt "132143172-0-40060"
+msgid "Summon restoring spirits with your staff, healing you and your allies in the target area for <<1>> Health and an additional <<1>> Health every <<2>> for <<3>>. \n\nYou restore <<4>> Magicka every time you or an ally is healed."
 msgstr ""
 
-#: 198758357-0-45520
-msgctxt "198758357-0-45520"
-msgid "Cycle of Life"
+#: 198758357-0-40060
+msgctxt "198758357-0-40060"
+msgid "Healing Springs"
 msgstr ""
 
-#: 132143172-0-45519
-msgctxt "132143172-0-45519"
-msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+#: 132143172-0-85132
+msgctxt "132143172-0-85132"
+msgid "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for <<1>> Health every <<2>> for <<3>>.\n\nAny friendly target you heal gains Major Force for <<4>>, increasing their Critical Damage by <<5>>."
 msgstr ""
 
-#: 198758357-0-45519
-msgctxt "198758357-0-45519"
-msgid "Restoration Expert"
-msgstr ""
-
-#: 132143172-0-45517
-msgctxt "132143172-0-45517"
-msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
-msgstr ""
-
-#: 198758357-0-45517
-msgctxt "198758357-0-45517"
-msgid "Essence Drain"
-msgstr ""
-
-#: 132143172-0-40130
-msgctxt "132143172-0-40130"
-msgid "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
-msgstr ""
-
-#: 198758357-0-40130
-msgctxt "198758357-0-40130"
-msgid "Ward Ally"
-msgstr ""
-
-#: 132143172-0-40126
-msgctxt "132143172-0-40126"
-msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for <<3>>% of the shield's remaining strength every second."
-msgstr ""
-
-#: 198758357-0-40126
-msgctxt "198758357-0-40126"
-msgid "Healing Ward"
-msgstr ""
-
-#: 132143172-0-40116
-msgctxt "132143172-0-40116"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nWhen you or an ally is healed by <<1>>, they gain <<5>>, which increases their Movement Speed by |cffffff10|r% for <<6>>."
-msgstr ""
-
-#: 198758357-0-40116
-msgctxt "198758357-0-40116"
-msgid "Quick Siphon"
-msgstr ""
-
-#: 132143172-0-40109
-msgctxt "132143172-0-40109"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nAlso applies <<5>> to the enemy for <<6>>, causing you and your allies to restore <<7>> Magicka every <<8>> when damaging them."
-msgstr ""
-
-#: 198758357-0-40109
-msgctxt "198758357-0-40109"
-msgid "Siphon Spirit"
-msgstr ""
-
-#: 132143172-0-40103
-msgctxt "132143172-0-40103"
-msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>>, increasing you and your allies' Physical Resistance and Spell Resistance by <<3>> for <<4>>."
-msgstr ""
-
-#: 198758357-0-40103
-msgctxt "198758357-0-40103"
-msgid "Blessing Of Restoration"
-msgstr ""
-
-#: 132143172-0-40094
-msgctxt "132143172-0-40094"
-msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>> and <<3>> increasing you and your allies' damage done by <<4>> and Physical Resistance and Spell Resistance by <<5>>  for <<6>>."
-msgstr ""
-
-#: 198758357-0-40094
-msgctxt "198758357-0-40094"
-msgid "Combat Prayer"
-msgstr ""
-
-#: 132143172-0-40079
-msgctxt "132143172-0-40079"
-msgid "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for <<1>> over <<2>>."
-msgstr ""
-
-#: 198758357-0-40079
-msgctxt "198758357-0-40079"
-msgid "Radiating Regeneration"
+#: 198758357-0-85132
+msgctxt "198758357-0-85132"
+msgid "Light's Champion"
 msgstr ""
 
 #: 132143172-0-40076
@@ -171,14 +171,24 @@ msgctxt "198758357-0-40076"
 msgid "Rapid Regeneration"
 msgstr ""
 
-#: 132143172-0-40060
-msgctxt "132143172-0-40060"
-msgid "Summon restoring spirits with your staff, healing you and your allies in the target area for <<1>> Health and an additional <<1>> Health every <<2>> for <<3>>. \n\nYou restore <<4>> Magicka every time you or an ally is healed."
+#: 132143172-0-40130
+msgctxt "132143172-0-40130"
+msgid "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
 msgstr ""
 
-#: 198758357-0-40060
-msgctxt "198758357-0-40060"
-msgid "Healing Springs"
+#: 198758357-0-40130
+msgctxt "198758357-0-40130"
+msgid "Ward Ally"
+msgstr ""
+
+#: 132143172-0-45524
+msgctxt "132143172-0-45524"
+msgid "Increases healing with Restoration Staff spells by <<1>>."
+msgstr ""
+
+#: 198758357-0-45524
+msgctxt "198758357-0-45524"
+msgid "Restoration Master"
 msgstr ""
 
 #: 132143172-0-40058
@@ -201,84 +211,44 @@ msgctxt "198758357-0-37243"
 msgid "Blessing of Protection"
 msgstr ""
 
-#: 132143172-0-37232
-msgctxt "132143172-0-37232"
-msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
+#: 132143172-0-40079
+msgctxt "132143172-0-40079"
+msgid "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for <<1>> over <<2>>."
 msgstr ""
 
-#: 198758357-0-37232
-msgctxt "198758357-0-37232"
-msgid "Steadfast Ward"
+#: 198758357-0-40079
+msgctxt "198758357-0-40079"
+msgid "Radiating Regeneration"
 msgstr ""
 
-#: 132143172-0-31531
-msgctxt "132143172-0-31531"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them."
-msgstr ""
-
-#: 198758357-0-31531
-msgctxt "198758357-0-31531"
-msgid "Force Siphon"
-msgstr ""
-
-#: 132143172-0-30981
-msgctxt "132143172-0-30981"
-msgid "Increases healing with Restoration Staff spells by <<1>>."
-msgstr ""
-
-#: 198758357-0-30981
-msgctxt "198758357-0-30981"
-msgid "Restoration Master"
-msgstr ""
-
-#: 132143172-0-30980
-msgctxt "132143172-0-30980"
-msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
-msgstr ""
-
-#: 198758357-0-30980
-msgctxt "198758357-0-30980"
-msgid "Restoration Expert"
-msgstr ""
-
-#: 132143172-0-30973
-msgctxt "132143172-0-30973"
-msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
-msgstr ""
-
-#: 198758357-0-30973
-msgctxt "198758357-0-30973"
-msgid "Essence Drain"
-msgstr ""
-
-#: 132143172-0-30972
-msgctxt "132143172-0-30972"
-msgid "Your fully-charged Heavy Attacks restore <<1>>% more Magicka."
-msgstr ""
-
-#: 198758357-0-30972
-msgctxt "198758357-0-30972"
-msgid "Cycle of Life"
-msgstr ""
-
-#: 132143172-0-30869
-msgctxt "132143172-0-30869"
+#: 132143172-0-45521
+msgctxt "132143172-0-45521"
 msgid "Restores <<1>> Magicka when you block a spell."
 msgstr ""
 
-#: 198758357-0-30869
-msgctxt "198758357-0-30869"
+#: 198758357-0-45521
+msgctxt "198758357-0-45521"
 msgid "Absorb"
 msgstr ""
 
-#: 132143172-0-28536
-msgctxt "132143172-0-28536"
-msgid "Share your staff's life-giving energy, healing you or a nearby ally for <<1>> Health over <<2>>."
+#: 132143172-0-45520
+msgctxt "132143172-0-45520"
+msgid "Your fully-charged Heavy Attacks restore <<1>> more Magicka."
 msgstr ""
 
-#: 198758357-0-28536
-msgctxt "198758357-0-28536"
-msgid "Regeneration"
+#: 198758357-0-45520
+msgctxt "198758357-0-45520"
+msgid "Cycle of Life"
+msgstr ""
+
+#: 132143172-0-40116
+msgctxt "132143172-0-40116"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nWhen you or an ally is healed by <<1>>, they gain <<5>>, which increases their Movement Speed by |cffffff10|r% for <<6>>."
+msgstr ""
+
+#: 198758357-0-40116
+msgctxt "198758357-0-40116"
+msgid "Quick Siphon"
 msgstr ""
 
 #: 132143172-0-28385
@@ -289,4 +259,34 @@ msgstr ""
 #: 198758357-0-28385
 msgctxt "198758357-0-28385"
 msgid "Grand Healing"
+msgstr ""
+
+#: 132143172-0-30972
+msgctxt "132143172-0-30972"
+msgid "Your fully-charged Heavy Attacks restore <<1>> more Magicka."
+msgstr ""
+
+#: 198758357-0-30972
+msgctxt "198758357-0-30972"
+msgid "Cycle of Life"
+msgstr ""
+
+#: 132143172-0-40094
+msgctxt "132143172-0-40094"
+msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>> and <<3>> increasing you and your allies' damage done by <<4>> and Physical Resistance and Spell Resistance by <<5>>  for <<6>>."
+msgstr ""
+
+#: 198758357-0-40094
+msgctxt "198758357-0-40094"
+msgid "Combat Prayer"
+msgstr ""
+
+#: 132143172-0-30973
+msgctxt "132143172-0-30973"
+msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
+msgstr ""
+
+#: 198758357-0-30973
+msgctxt "198758357-0-30973"
+msgid "Essence Drain"
 msgstr ""

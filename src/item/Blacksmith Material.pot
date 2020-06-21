@@ -11,14 +11,14 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-64489
-msgctxt "228378404-0-64489"
-msgid "An ingredient for crafting metal weapons and armor."
+#: 228378404-0-46129
+msgctxt "228378404-0-46129"
+msgid "An ingredient for crafting metal weapons."
 msgstr ""
 
-#: 242841733-0-64489
-msgctxt "242841733-0-64489"
-msgid "Rubedite Ingot"
+#: 242841733-0-46129
+msgctxt "242841733-0-46129"
+msgid "quicksilver ingot"
 msgstr ""
 
 #: 228378404-0-6001
@@ -31,6 +31,16 @@ msgctxt "242841733-0-6001"
 msgid "ebony ingot"
 msgstr ""
 
+#: 228378404-0-46127
+msgctxt "228378404-0-46127"
+msgid "An ingredient for crafting metal weapons."
+msgstr ""
+
+#: 242841733-0-46127
+msgctxt "242841733-0-46127"
+msgid "Calcinium ingot"
+msgstr ""
+
 #: 228378404-0-6000
 msgctxt "228378404-0-6000"
 msgid "An ingredient for crafting metal weapons."
@@ -39,6 +49,36 @@ msgstr ""
 #: 242841733-0-6000
 msgctxt "242841733-0-6000"
 msgid "dwarven ingot"
+msgstr ""
+
+#: 228378404-0-46128
+msgctxt "228378404-0-46128"
+msgid "An ingredient for crafting metal weapons."
+msgstr ""
+
+#: 242841733-0-46128
+msgctxt "242841733-0-46128"
+msgid "Galatite ingot"
+msgstr ""
+
+#: 228378404-0-64489
+msgctxt "228378404-0-64489"
+msgid "An ingredient for crafting metal weapons and armor."
+msgstr ""
+
+#: 242841733-0-64489
+msgctxt "242841733-0-64489"
+msgid "Rubedite Ingot"
+msgstr ""
+
+#: 228378404-0-4487
+msgctxt "228378404-0-4487"
+msgid "An ingredient for crafting metal weapons."
+msgstr ""
+
+#: 242841733-0-4487
+msgctxt "242841733-0-4487"
+msgid "Steel ingot"
 msgstr ""
 
 #: 228378404-0-5413
@@ -59,46 +99,6 @@ msgstr ""
 #: 242841733-0-46130
 msgctxt "242841733-0-46130"
 msgid "voidstone ingot"
-msgstr ""
-
-#: 228378404-0-46129
-msgctxt "228378404-0-46129"
-msgid "An ingredient for crafting metal weapons."
-msgstr ""
-
-#: 242841733-0-46129
-msgctxt "242841733-0-46129"
-msgid "quicksilver ingot"
-msgstr ""
-
-#: 228378404-0-46128
-msgctxt "228378404-0-46128"
-msgid "An ingredient for crafting metal weapons."
-msgstr ""
-
-#: 242841733-0-46128
-msgctxt "242841733-0-46128"
-msgid "Galatite ingot"
-msgstr ""
-
-#: 228378404-0-46127
-msgctxt "228378404-0-46127"
-msgid "An ingredient for crafting metal weapons."
-msgstr ""
-
-#: 242841733-0-46127
-msgctxt "242841733-0-46127"
-msgid "Calcinium ingot"
-msgstr ""
-
-#: 228378404-0-4487
-msgctxt "228378404-0-4487"
-msgid "An ingredient for crafting metal weapons."
-msgstr ""
-
-#: 242841733-0-4487
-msgctxt "242841733-0-4487"
-msgid "Steel ingot"
 msgstr ""
 
 #: 228378404-0-23107

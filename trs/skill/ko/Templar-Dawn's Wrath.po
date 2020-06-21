@@ -11,46 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-63046
-msgctxt "132143172-0-63046"
-msgid "Burn an enemy with a ray of holy fire, dealing  <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health.\n\nAlso deals up to |cffffff20|r% more damage in proportion to your current Magicka."
-msgstr "신성한 빛으로 적을 불태워, <<2>>에 걸쳐 총 <<1>>를 입힙니다. 체력이 <<4>>% 이하인 적에게는 최대 <<3>>의 추가 피해를 입힙니다.\n\n또한, 남은 매지카의 양에 비례해 최대 |cffffff20|r%의 추가 피해를 입힙니다."
-
-#: 198758357-0-63046
-msgctxt "198758357-0-63046"
-msgid "Radiant Oppression"
-msgstr "Radiant Oppression"
-
-#: 132143172-0-63044
-msgctxt "132143172-0-63044"
-msgid "Burn an enemy with a ray of holy fire, dealing  <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health.\n\nYou heal for <<5>> of the damage inflicted."
-msgstr "신성한 빛으로 적을 불태워, <<2>>에 걸쳐 총 <<1>>를 입힙니다. 체력이 <<4>>% 이하인 적에게는 최대 <<3>>의 추가 피해를 입힙니다.\n\n자신은 입힌 피해의 <<5>>만큼 체력을 회복합니다."
-
-#: 198758357-0-63044
-msgctxt "198758357-0-63044"
-msgid "Radiant Glory"
-msgstr "Radiant Glory"
-
-#: 132143172-0-63029
-msgctxt "132143172-0-63029"
-msgid "Burn an enemy with a ray of holy fire, dealing <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health."
-msgstr "신성한 빛으로 적을 불태워, <<2>>에 걸쳐 총 <<1>>를 입힙니다. 체력이 <<4>>% 이하인 적에게는 최대 <<3>>의 추가 피해를 입힙니다."
-
-#: 198758357-0-63029
-msgctxt "198758357-0-63029"
-msgid "Radiant Destruction"
-msgstr "Radiant Destruction"
-
-#: 132143172-0-45216
-msgctxt "132143172-0-45216"
-msgid "Casting a Dawn's Wrath ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr "Dawn's Wrath 어빌리티를 시전하면 궁극기 게이지를 <<1>>만큼 획득합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
-
-#: 198758357-0-45216
-msgctxt "198758357-0-45216"
-msgid "Prism"
-msgstr "Prism"
-
 #: 132143172-0-45215
 msgctxt "132143172-0-45215"
 msgid "Casting a Dawn's Wrath ability grants <<1>> to you and your group for <<2>>, increasing your Spell Damage by <<3>>."
@@ -60,6 +20,16 @@ msgstr "Dawn's Wrath 어빌리티를 시전하면 <<2>> 동안 자신과 그룹�
 msgctxt "198758357-0-45215"
 msgid "Illuminate"
 msgstr "Illuminate"
+
+#: 132143172-0-21765
+msgctxt "132143172-0-21765"
+msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken from you for <<2>> and releasing |cffffff20|r% of it as additional Magic Damage to them.\n\nMaximum copied damage: <<3>>.\n\nWhen the effect ends, a pool of sunlight remains attached to the enemy, healing you and nearby allies for <<4>> Health every <<5>> for <<6>>."
+msgstr "적을 파멸시키는 태양 광선을 내리꽂아 <<1>>를 입히고, <<2>> 동안 적이 입는 피해량을 복사한 뒤에 뿜어내어, 복사한 피해의 |cffffff20|r%만큼 마법 피해를 입힙니다.\n\n복사 가능한 최대 피해량: <<3>>\n\n효과가 끝나면, 대상에게 태양빛이 잔류해, <<6>>동안 자신과 주위의 아군의 체력을 매 <<5>>마다 <<4>>만큼 회복시킵니다."
+
+#: 198758357-0-21765
+msgctxt "198758357-0-21765"
+msgid "Purifying Light"
+msgstr "Purifying Light"
 
 #: 132143172-0-45214
 msgctxt "132143172-0-45214"
@@ -71,6 +41,56 @@ msgctxt "198758357-0-45214"
 msgid "Enduring Rays"
 msgstr "Enduring Rays"
 
+#: 132143172-0-21763
+msgctxt "132143172-0-21763"
+msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken from you for <<2>> and releasing |cffffff20|r% of it as additional Physical Damage to them.\n\nMaximum copied damage: <<3>>.\n\nTargets are also afflicted with Minor Fracture and Minor Breach, reducing their Physical and Spell Resistance by <<4>> for <<5>>."
+msgstr "적을 파멸시키는 태양 광선을 내리꽂아 <<1>>를 입히고, <<2>>동안 적이 입는 피해량을 복사한 뒤에 뿜어내어, 복사한 피해의 |cffffff20|r%만큼 물리 피해를 입힙니다.\n\n복사 가능한 최대 피해량: <<3>>\n\n대상에게 Minor Fracture, Minor Breach 효과 또한 가해, <<5>>동안 물리 및 마법 저항력을 <<4>>만큼 감소시킵니다."
+
+#: 198758357-0-21763
+msgctxt "198758357-0-21763"
+msgid "Power of the Light"
+msgstr "Power of the Light"
+
+#: 132143172-0-45216
+msgctxt "132143172-0-45216"
+msgid "Casting a Dawn's Wrath ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "Dawn's Wrath 어빌리티를 시전하면 궁극기 게이지를 <<1>>만큼 획득합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
+
+#: 198758357-0-45216
+msgctxt "198758357-0-45216"
+msgid "Prism"
+msgstr "Prism"
+
+#: 132143172-0-63044
+msgctxt "132143172-0-63044"
+msgid "Burn an enemy with a ray of holy fire, dealing  <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health.\n\nYou heal for <<5>> of the damage inflicted."
+msgstr "신성한 빛으로 적을 불태워, <<2>>에 걸쳐 총 <<1>>를 입힙니다. 체력이 <<4>>% 이하인 적에게는 최대 <<3>>의 추가 피해를 입힙니다.\n\n자신은 입힌 피해의 <<5>>만큼 체력을 회복합니다."
+
+#: 198758357-0-63044
+msgctxt "198758357-0-63044"
+msgid "Radiant Glory"
+msgstr "Radiant Glory"
+
+#: 132143172-0-21761
+msgctxt "132143172-0-21761"
+msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken from you for <<2>> and releasing |cffffff20|r% of it as additional Magic Damage to them.\n\nMaximum copied damage: <<3>>."
+msgstr "적을 파멸시키는 태양 광선을 내리꽂아 <<1>>를 입히고, <<2>>동안 적이 입는 피해량을 복사한 뒤에 뿜어내어, 복사한 피해의 |cffffff20|r%만큼 마법 피해를 입힙니다.\n\n복사 가능한 최대 피해량: <<3>>"
+
+#: 198758357-0-21761
+msgctxt "198758357-0-21761"
+msgid "Backlash"
+msgstr "Backlash"
+
+#: 132143172-0-63046
+msgctxt "132143172-0-63046"
+msgid "Burn an enemy with a ray of holy fire, dealing  <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health.\n\nAlso deals up to |cffffff20|r% more damage in proportion to your current Magicka."
+msgstr "신성한 빛으로 적을 불태워, <<2>>에 걸쳐 총 <<1>>를 입힙니다. 체력이 <<4>>% 이하인 적에게는 최대 <<3>>의 추가 피해를 입힙니다.\n\n또한, 남은 매지카의 양에 비례해 최대 |cffffff20|r%의 추가 피해를 입힙니다."
+
+#: 198758357-0-63046
+msgctxt "198758357-0-63046"
+msgid "Radiant Oppression"
+msgstr "Radiant Oppression"
+
 #: 132143172-0-45212
 msgctxt "132143172-0-45212"
 msgid "Reduces the Health, Magicka, Stamina, and Ultimate costs of your abilities by <<1>>."
@@ -80,6 +100,146 @@ msgstr "어빌리티의 매지카, 스태미나, 궁극기 게이지 소모량�
 msgctxt "198758357-0-45212"
 msgid "Restoring Spirit"
 msgstr "Restoring Spirit"
+
+#: 132143172-0-22110
+msgctxt "132143172-0-22110"
+msgid "Conjure a ball of solar energy to heave at an enemy, dealing <<1>>.\n\nAfflicts the target and enemies within |cffffff8|r meters with <<2>>, reducing their healing received and Health Recovery by <<3>> for <<4>>.\n \nAlso grants you <<5>> for <<6>>, increasing the damage of your next Light Attack by <<7>>."
+msgstr "태양 에너지로 이루어진구체를 던져, 대상에게 <<1>>의 피해를 입힙니다.\n\n대상과  |cffffff8|r 이내의 적들에게 <<2>> 효과를 가해, <<4>> 동안 받는 치유량을 <<3>>만큼 감소시킵니다.\n\n자신은 <<6>>동안 <<5>> 효과를 얻어, 다음 약 공격의 피해량이 <<7>>만큼 증가합니다"
+
+#: 198758357-0-22110
+msgctxt "198758357-0-22110"
+msgid "Dark Flare"
+msgstr "Dark Flare"
+
+#: 132143172-0-21729
+msgctxt "132143172-0-21729"
+msgid "Blast an enemy with a charge of radiant heat, dealing <<1>>, and an additional <<2>> over <<3>>.\n\nUpon activation you gain <<4>>, increasing your Spell Critical rating by <<5>>."
+msgstr "대상에게 태양열을 내뿜어 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 <<2>>를 입힙니다.\n\n시전 시 <<4>> 효과를 얻어, 마법 치명타 확률이 <<5>>만큼 증가합니다."
+
+#: 198758357-0-21729
+msgctxt "198758357-0-21729"
+msgid "Vampire's Bane"
+msgstr "Vampire's Bane"
+
+#: 132143172-0-63029
+msgctxt "132143172-0-63029"
+msgid "Burn an enemy with a ray of holy fire, dealing <<1>> over <<2>>. Deals up to <<3>>% more damage to enemies below <<4>>% Health."
+msgstr "신성한 빛으로 적을 불태워, <<2>>에 걸쳐 총 <<1>>를 입힙니다. 체력이 <<4>>% 이하인 적에게는 최대 <<3>>의 추가 피해를 입힙니다."
+
+#: 198758357-0-63029
+msgctxt "198758357-0-63029"
+msgid "Radiant Destruction"
+msgstr "Radiant Destruction"
+
+#: 132143172-0-22057
+msgctxt "132143172-0-22057"
+msgid "Conjure a ball of solar energy to heave at an enemy, dealing <<1>>.\n\nAlso grants you <<2>> for <<3>>, increasing the damage of your next Light Attack by <<4>>."
+msgstr "태양 에너지로 이루어진 구체를 던져, 대상에게 <<1>>의 피해를 입힙니다.\n\n자신은 <<2>> 효과를 <<3>>동안 얻어, 다음 약 공격의 피해량이 <<4>> 증가합니다.\n"
+
+#: 198758357-0-22057
+msgctxt "198758357-0-22057"
+msgid "Solar Flare"
+msgstr "Solar Flare"
+
+#: 132143172-0-21726
+msgctxt "132143172-0-21726"
+msgid "Blast an enemy with a charge of radiant heat, dealing <<1>>, and an additional <<2>> over <<3>>.\n\nUpon activation you gain <<4>>, increasing your Spell Critical rating by <<5>>."
+msgstr "대상에게 태양열을 내뿜어 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 <<2>>를 입힙니다.\n\n시전 시 <<4>> 효과를 얻어, 마법 치명타 확률이 <<5>>만큼 증가합니다."
+
+#: 198758357-0-21726
+msgctxt "198758357-0-21726"
+msgid "Sun Fire"
+msgstr "Sun Fire"
+
+#: 132143172-0-22095
+msgctxt "132143172-0-22095"
+msgid "Conjure solar energy to blast enemies around you, dealing <<1>> every <<2>> for <<3>>.\n\nWhile this ability is active you gain <<4>>, increasing the damage of your Light Attacks by <<5>>."
+msgstr "주변의 적들에게 태양 에너지를 폭발시켜, <<3>>동안 <<2>>마다 <<1>>를 입힙니다.\n\n이 기술이 활성화 된 동안 <<4>>를 얻어, 약공격의 피해가 <<5>> 증가합니다."
+
+#: 198758357-0-22095
+msgctxt "198758357-0-22095"
+msgid "Solar Barrage"
+msgstr "Solar Barrage"
+
+#: 132143172-0-31739
+msgctxt "132143172-0-31739"
+msgid "Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by <<1>>."
+msgstr "Sun Fire, Eclipse, Nova 어빌리티의 지속 시간이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-31739
+msgctxt "198758357-0-31739"
+msgid "Enduring Rays"
+msgstr "Enduring Rays"
+
+#: 132143172-0-21776
+msgctxt "132143172-0-21776"
+msgid "Envelop an enemy in a lightless sphere for <<1>>, that harms them with growing intensity anytime they use a Direct Damage attack.  Limited to one.\n\nTheir first attack reduces their movement speed by <<2>> for <<3>>, their second attack immobilizes them for <<4>>, and their third attack stuns them for <<5>>.  The effects can activate once every <<6>>."
+msgstr "대상을 빛이 없는 구체로 <<1>>동안 덮어, 대상이 직접 피해를 입히는 공격을 사용할 때마다 피해를 입힙니다. 한번에 하나의 대상에게만 시전 가능합니다. \n\n적이 처음 공격할때 적의 이동속도를 <<3>>동안 <<2>> 감소시키고 , 두번째 공격시 <<4>>동안 고정시킵니다. 세번째 공격 시 <<5>>동안 기절시킵니다. 이 효과는 매 <<6>>마다 발동됩니다."
+
+#: 198758357-0-21776
+msgctxt "198758357-0-21776"
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: 132143172-0-21732
+msgctxt "132143172-0-21732"
+msgid "Blast up to three enemies with a charge of radiant heat, dealing <<1>>, an additional <<2>> over <<3>>, and reducing their Movement Speed by <<4>> for <<5>>.\n\nUpon activation you gain <<6>>, increasing your Spell Critical rating by <<7>>."
+msgstr "최대 세 명의 대상에게 태양열을 내뿜어 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 <<2>>를 입히며, <<5>>동안 <<4>>만큼 감속시킵니다.\n\n시전 시 <<6>> 효과를 얻어, 마법 치명타 확률이 <<7>>만큼 증가합니다.\n"
+
+#: 198758357-0-21732
+msgctxt "198758357-0-21732"
+msgid "Reflective Light"
+msgstr "Reflective Light"
+
+#: 132143172-0-21752
+msgctxt "132143172-0-21752"
+msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area and afflicting them with Major Maim, reducing their damage done by <<4>>.\n\nAn ally near the fragment can activate the |cffffffSupernova|r synergy, dealing <<5>> to all enemies in the area and stunning them for <<6>>."
+msgstr "대상 지역에 태양의 파편을 내리꽂아, 범위 내의 적들에게 <<3>>동안 매 <<2>>마다 <<1>>를 입히고 Major Maim 효과를 가해, 적들이 입히는 피해량을 <<4>>만큼 감소시킵니다.\n\n아군이 |cffffffSupernova|r 연계 효과를 발동시키면, 범위 내의 모든 적에게 <<5>>를 입히고 <<6>> 동안 기절시킵니다."
+
+#: 198758357-0-21752
+msgctxt "198758357-0-21752"
+msgid "Nova"
+msgstr "Nova"
+
+#: 132143172-0-22004
+msgctxt "132143172-0-22004"
+msgid "Envelop an enemy in a lightless sphere for <<1>>, that harms them with growing intensity anytime they use a Direct Damage attack.  Limited to one.\n\nTheir first attack reduces their movement speed by <<2>> for <<3>> and deals <<4>>, their second attack immobilizes them for <<5>> and deals <<6>>, and their third attack stuns them for <<7>> and deals <<8>>.  The effects can activate once every <<9>>."
+msgstr "대상을 빛이 없는 구체로 <<1>>동안 덮어, 대상이 직접 피해를 입히는 공격을 사용할 때마다 피해를 입힙니다. 한번에 하나의 대상에게만 시전 가능합니다. \n\n적이 처음 공격할때 적의 이동속도를 <<3>>동안 <<2>> 감소시키고 <<4>> 피해를 주고, 두번째 공격시 <<5>>동안 고정시키고 <<6>> 피해를 줍니다. 세번째 공격 시 <<7>>동안 기절시키고 <<8>> 피해를 줍니다. 이 효과는 매 <<9>>마다 발동됩니다."
+
+#: 198758357-0-22004
+msgctxt "198758357-0-22004"
+msgid "Unstable Core"
+msgstr "Unstable Core"
+
+#: 132143172-0-21758
+msgctxt "132143172-0-21758"
+msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area. Also applies Major Maim, reducing enemy damage done by <<4>>. Major Maim persists on enemies who leave the Nova for <<5>>.\n\nAn ally near the fragment can activate the |cffffffSupernova|r synergy, dealing <<6>> to all enemies in the area and stunning them for <<7>>."
+msgstr "대상 지역에 태양의 파편을 내리꽂아, 범위 내의 적들에게 <<3>>동안 매 <<2>>마다 <<1>>를 입힙니다. 피해를 입은 적에게 Major Maim 효과를 가해, 적들이 입히는 피해량을 <<4>>만큼 감소시킵니다. \nNova의 범위에서 벗어난 적에게는 Major Maim 효과가 <<5>>동안 지속됩니다.\n\n아군이 |cffffffSupernova|r 연계 효과를 발동시키면, 범위 내의 모든 적에게 <<6>>를 입히고 <<7>> 동안 기절시킵니다."
+
+#: 198758357-0-21758
+msgctxt "198758357-0-21758"
+msgid "Solar Disturbance"
+msgstr "Solar Disturbance"
+
+#: 132143172-0-22006
+msgctxt "132143172-0-22006"
+msgid "Envelop yourself in a lightless sphere for <<1>> to protect yourself.  Anytime an enemy uses a Direct Damage attack against you, the sphere lashes back, reducing their movement speed by <<2>> for <<3>> and healing you for <<4>> Health.  These effects can occur once every half second."
+msgstr "당신을 빛이 없는 구체로 <<1>>동안 덮어 보호합니다. 적이 당신에게 직접 피해를 입히는 공격을 사용할 때마다 구체가 반발하여 적을 <<3>>동안 <<2>> 만큼 속력을 감소시키고 당신을 <<4>> 회복시킵니다. 이 효과는 매 0.5초마다 발동됩니다."
+
+#: 198758357-0-22006
+msgctxt "198758357-0-22006"
+msgid "Living Dark"
+msgstr "Living Dark"
+
+#: 132143172-0-21755
+msgctxt "132143172-0-21755"
+msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area and afflicting them with Major Maim, reducing their damage done by <<4>>.\n\nAn ally near the fragment can activate the |cffffffGravity Crush|r synergy, dealing <<5>> to all enemies in the area and stunning them for <<6>>."
+msgstr "대상 지역에 태양의 파편을 내리꽂아, 범위 내의 적들에게 <<3>>동안 매 <<2>>마다 <<1>>를 입히고 Major Maim 효과를 가해, 적들이 입히는 피해량을 <<4>>만큼 감소시킵니다.\n\n아군이 |cffffffGravity Crush|r 연계 효과를 발동시키면, 범위 내의 모든 적에게 <<5>>를 입히고 <<6>> 동안 기절시킵니다."
+
+#: 198758357-0-21755
+msgctxt "198758357-0-21755"
+msgid "Solar Prison"
+msgstr "Solar Prison"
 
 #: 132143172-0-31744
 msgctxt "132143172-0-31744"
@@ -101,16 +261,6 @@ msgctxt "198758357-0-31743"
 msgid "Illuminate"
 msgstr "Illuminate"
 
-#: 132143172-0-31739
-msgctxt "132143172-0-31739"
-msgid "Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by <<1>>."
-msgstr "Sun Fire, Eclipse, Nova 어빌리티의 지속 시간이 <<1>>만큼 증가합니다."
-
-#: 198758357-0-31739
-msgctxt "198758357-0-31739"
-msgid "Enduring Rays"
-msgstr "Enduring Rays"
-
 #: 132143172-0-31721
 msgctxt "132143172-0-31721"
 msgid "Reduces the Health, Magicka, Stamina, and Ultimate costs of your abilities by <<1>>."
@@ -120,155 +270,3 @@ msgstr "어빌리티의 매지카, 스태미나, 궁극기 게이지 소모량�
 msgctxt "198758357-0-31721"
 msgid "Restoring Spirit"
 msgstr "Restoring Spirit"
-
-#: 132143172-0-22110
-msgctxt "132143172-0-22110"
-msgid "Conjure a ball of solar energy to heave at an enemy, dealing <<1>>.\n\nAfflicts the target and enemies within |cffffff8|r meters with <<2>>, reducing their healing received and Health Recovery by <<3>> for <<4>>.\n \nAlso grants you <<5>> for <<6>>, increasing the damage of your next Light Attack by <<7>>."
-msgstr "태양 에너지로 이루어진구체를 던져, 대상에게 <<1>>의 피해를 입힙니다.\n\n대상과  |cffffff8|r 이내의 적들에게 <<2>> 효과를 가해, <<4>> 동안 받는 치유량을 <<3>>만큼 감소시킵니다.\n\n자신은 <<6>>동안 <<5>> 효과를 얻어, 다음 약 공격의 피해량이 <<7>>만큼 증가합니다"
-
-#: 198758357-0-22110
-msgctxt "198758357-0-22110"
-msgid "Dark Flare"
-msgstr "Dark Flare"
-
-#: 132143172-0-22095
-msgctxt "132143172-0-22095"
-msgid "Conjure solar energy to blast enemies around you, dealing <<1>> every <<2>> for <<3>>.\n\nWhile this ability is active you gain <<4>>, increasing the damage of your Light Attacks by <<5>>."
-msgstr "주변의 적들에게 태양 에너지를 폭발시켜, <<3>>동안 <<2>>마다 <<1>>를 입힙니다.\n\n이 기술이 활성화 된 동안 <<4>>를 얻어, 약공격의 피해가 <<5>> 증가합니다."
-
-#: 198758357-0-22095
-msgctxt "198758357-0-22095"
-msgid "Solar Barrage"
-msgstr "Solar Barrage"
-
-#: 132143172-0-22057
-msgctxt "132143172-0-22057"
-msgid "Conjure a ball of solar energy to heave at an enemy, dealing <<1>>.\n\nAlso grants you <<2>> for <<3>>, increasing the damage of your next Light Attack by <<4>>."
-msgstr "태양 에너지로 이루어진 구체를 던져, 대상에게 <<1>>의 피해를 입힙니다.\n\n자신은 <<2>> 효과를 <<3>>동안 얻어, 다음 약 공격의 피해량이 <<4>> 증가합니다.\n"
-
-#: 198758357-0-22057
-msgctxt "198758357-0-22057"
-msgid "Solar Flare"
-msgstr "Solar Flare"
-
-#: 132143172-0-22006
-msgctxt "132143172-0-22006"
-msgid "Envelop yourself in a lightless sphere for <<1>> to protect yourself.  Anytime an enemy uses a Direct Damage attack against you, the sphere lashes back, reducing their movement speed by <<2>> for <<3>> and healing you for <<4>> Health.  These effects can occur once every half second."
-msgstr "당신을 빛이 없는 구체로 <<1>>동안 덮어 보호합니다. 적이 당신에게 직접 피해를 입히는 공격을 사용할 때마다 구체가 반발하여 적을 <<3>>동안 <<2>> 만큼 속력을 감소시키고 당신을 <<4>> 회복시킵니다. 이 효과는 매 0.5초마다 발동됩니다."
-
-#: 198758357-0-22006
-msgctxt "198758357-0-22006"
-msgid "Living Dark"
-msgstr "Living Dark"
-
-#: 132143172-0-22004
-msgctxt "132143172-0-22004"
-msgid "Envelop an enemy in a lightless sphere for <<1>>, that harms them with growing intensity anytime they use a Direct Damage attack.  Limited to one.\n\nTheir first attack reduces their movement speed by <<2>> for <<3>> and deals <<4>>, their second attack immobilizes them for <<5>> and deals <<6>>, and their third attack stuns them for <<7>> and deals <<8>>.  The effects can activate once every <<9>>."
-msgstr "대상을 빛이 없는 구체로 <<1>>동안 덮어, 대상이 직접 피해를 입히는 공격을 사용할 때마다 피해를 입힙니다. 한번에 하나의 대상에게만 시전 가능합니다. \n\n적이 처음 공격할때 적의 이동속도를 <<3>>동안 <<2>> 감소시키고 <<4>> 피해를 주고, 두번째 공격시 <<5>>동안 고정시키고 <<6>> 피해를 줍니다. 세번째 공격 시 <<7>>동안 기절시키고 <<8>> 피해를 줍니다. 이 효과는 매 <<9>>마다 발동됩니다."
-
-#: 198758357-0-22004
-msgctxt "198758357-0-22004"
-msgid "Unstable Core"
-msgstr "Unstable Core"
-
-#: 132143172-0-21776
-msgctxt "132143172-0-21776"
-msgid "Envelop an enemy in a lightless sphere for <<1>>, that harms them with growing intensity anytime they use a Direct Damage attack.  Limited to one.\n\nTheir first attack reduces their movement speed by <<2>> for <<3>>, their second attack immobilizes them for <<4>>, and their third attack stuns them for <<5>>.  The effects can activate once every <<6>>."
-msgstr "대상을 빛이 없는 구체로 <<1>>동안 덮어, 대상이 직접 피해를 입히는 공격을 사용할 때마다 피해를 입힙니다. 한번에 하나의 대상에게만 시전 가능합니다. \n\n적이 처음 공격할때 적의 이동속도를 <<3>>동안 <<2>> 감소시키고 , 두번째 공격시 <<4>>동안 고정시킵니다. 세번째 공격 시 <<5>>동안 기절시킵니다. 이 효과는 매 <<6>>마다 발동됩니다."
-
-#: 198758357-0-21776
-msgctxt "198758357-0-21776"
-msgid "Eclipse"
-msgstr "Eclipse"
-
-#: 132143172-0-21765
-#, fuzzy
-msgctxt "132143172-0-21765"
-msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken from you for <<2>> and releasing |cffffff20|r% of it as additional Magic Damage to them.\n\nMaximum copied damage: <<3>>.\n\nWhen the effect ends, a pool of sunlight remains attached to the enemy, healing you and nearby allies for <<4>> Health every <<5>> for <<6>>."
-msgstr "적을 파멸시키는 태양 광선을 내리꽂아 <<1>>를 입히고, <<2>> 동안 적이 입는 피해량을 복사한 뒤에 뿜어내어, 복사한 피해의 |cffffff20|r%만큼 마법 피해를 입힙니다.\n\n복사 가능한 최대 피해량: <<3>>\n\n효과가 끝나면, 대상에게 태양빛이 잔류해, <<6>>동안 자신과 주위의 아군의 체력을 매 <<5>>마다 <<4>>만큼 회복시킵니다."
-
-#: 198758357-0-21765
-msgctxt "198758357-0-21765"
-msgid "Purifying Light"
-msgstr "Purifying Light"
-
-#: 132143172-0-21763
-#, fuzzy
-msgctxt "132143172-0-21763"
-msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken from you for <<2>> and releasing |cffffff20|r% of it as additional Physical Damage to them.\n\nMaximum copied damage: <<3>>.\n\nTargets are also afflicted with Minor Fracture and Minor Breach, reducing their Physical and Spell Resistance by <<4>> for <<5>>."
-msgstr "적을 파멸시키는 태양 광선을 내리꽂아 <<1>>를 입히고, <<2>>동안 적이 입는 피해량을 복사한 뒤에 뿜어내어, 복사한 피해의 |cffffff20|r%만큼 물리 피해를 입힙니다.\n\n복사 가능한 최대 피해량: <<3>>\n\n대상에게 Minor Fracture, Minor Breach 효과 또한 가해, <<5>>동안 물리 및 마법 저항력을 <<4>>만큼 감소시킵니다."
-
-#: 198758357-0-21763
-msgctxt "198758357-0-21763"
-msgid "Power of the Light"
-msgstr "Power of the Light"
-
-#: 132143172-0-21761
-msgctxt "132143172-0-21761"
-msgid "Summon an expanding beam of pure sunlight to doom an enemy, dealing <<1>> to them and copying all their damage taken from you for <<2>> and releasing |cffffff20|r% of it as additional Magic Damage to them.\n\nMaximum copied damage: <<3>>."
-msgstr "적을 파멸시키는 태양 광선을 내리꽂아 <<1>>를 입히고, <<2>>동안 적이 입는 피해량을 복사한 뒤에 뿜어내어, 복사한 피해의 |cffffff20|r%만큼 마법 피해를 입힙니다.\n\n복사 가능한 최대 피해량: <<3>>"
-
-#: 198758357-0-21761
-msgctxt "198758357-0-21761"
-msgid "Backlash"
-msgstr "Backlash"
-
-#: 132143172-0-21758
-msgctxt "132143172-0-21758"
-msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area. Also applies Major Maim, reducing enemy damage done by <<4>>. Major Maim persists on enemies who leave the Nova for <<5>>.\n\nAn ally near the fragment can activate the |cffffffSupernova|r synergy, dealing <<6>> to all enemies in the area and stunning them for <<7>>."
-msgstr "대상 지역에 태양의 파편을 내리꽂아, 범위 내의 적들에게 <<3>>동안 매 <<2>>마다 <<1>>를 입힙니다. 피해를 입은 적에게 Major Maim 효과를 가해, 적들이 입히는 피해량을 <<4>>만큼 감소시킵니다. \nNova의 범위에서 벗어난 적에게는 Major Maim 효과가 <<5>>동안 지속됩니다.\n\n아군이 |cffffffSupernova|r 연계 효과를 발동시키면, 범위 내의 모든 적에게 <<6>>를 입히고 <<7>> 동안 기절시킵니다."
-
-#: 198758357-0-21758
-msgctxt "198758357-0-21758"
-msgid "Solar Disturbance"
-msgstr "Solar Disturbance"
-
-#: 132143172-0-21755
-msgctxt "132143172-0-21755"
-msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area and afflicting them with Major Maim, reducing their damage done by <<4>>.\n\nAn ally near the fragment can activate the |cffffffGravity Crush|r synergy, dealing <<5>> to all enemies in the area and stunning them for <<6>>."
-msgstr "대상 지역에 태양의 파편을 내리꽂아, 범위 내의 적들에게 <<3>>동안 매 <<2>>마다 <<1>>를 입히고 Major Maim 효과를 가해, 적들이 입히는 피해량을 <<4>>만큼 감소시킵니다.\n\n아군이 |cffffffGravity Crush|r 연계 효과를 발동시키면, 범위 내의 모든 적에게 <<5>>를 입히고 <<6>> 동안 기절시킵니다."
-
-#: 198758357-0-21755
-msgctxt "198758357-0-21755"
-msgid "Solar Prison"
-msgstr "Solar Prison"
-
-#: 132143172-0-21752
-msgctxt "132143172-0-21752"
-msgid "Call down a fragment of the sun, dealing <<1>> every <<2>> for <<3>> to enemies in the area and afflicting them with Major Maim, reducing their damage done by <<4>>.\n\nAn ally near the fragment can activate the |cffffffSupernova|r synergy, dealing <<5>> to all enemies in the area and stunning them for <<6>>."
-msgstr "대상 지역에 태양의 파편을 내리꽂아, 범위 내의 적들에게 <<3>>동안 매 <<2>>마다 <<1>>를 입히고 Major Maim 효과를 가해, 적들이 입히는 피해량을 <<4>>만큼 감소시킵니다.\n\n아군이 |cffffffSupernova|r 연계 효과를 발동시키면, 범위 내의 모든 적에게 <<5>>를 입히고 <<6>> 동안 기절시킵니다."
-
-#: 198758357-0-21752
-msgctxt "198758357-0-21752"
-msgid "Nova"
-msgstr "Nova"
-
-#: 132143172-0-21732
-msgctxt "132143172-0-21732"
-msgid "Blast up to three enemies with a charge of radiant heat, dealing <<1>>, an additional <<2>> over <<3>>, and reducing their Movement Speed by <<4>> for <<5>>.\n\nUpon activation you gain <<6>>, increasing your Spell Critical rating by <<7>>."
-msgstr "최대 세 명의 대상에게 태양열을 내뿜어 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 <<2>>를 입히며, <<5>>동안 <<4>>만큼 감속시킵니다.\n\n시전 시 <<6>> 효과를 얻어, 마법 치명타 확률이 <<7>>만큼 증가합니다.\n"
-
-#: 198758357-0-21732
-msgctxt "198758357-0-21732"
-msgid "Reflective Light"
-msgstr "Reflective Light"
-
-#: 132143172-0-21729
-msgctxt "132143172-0-21729"
-msgid "Blast an enemy with a charge of radiant heat, dealing <<1>>, and an additional <<2>> over <<3>>.\n\nUpon activation you gain <<4>>, increasing your Spell Critical rating by <<5>>."
-msgstr "대상에게 태양열을 내뿜어 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 <<2>>를 입힙니다.\n\n시전 시 <<4>> 효과를 얻어, 마법 치명타 확률이 <<5>>만큼 증가합니다."
-
-#: 198758357-0-21729
-msgctxt "198758357-0-21729"
-msgid "Vampire's Bane"
-msgstr "Vampire's Bane"
-
-#: 132143172-0-21726
-msgctxt "132143172-0-21726"
-msgid "Blast an enemy with a charge of radiant heat, dealing <<1>>, and an additional <<2>> over <<3>>.\n\nUpon activation you gain <<4>>, increasing your Spell Critical rating by <<5>>."
-msgstr "대상에게 태양열을 내뿜어 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 <<2>>를 입힙니다.\n\n시전 시 <<4>> 효과를 얻어, 마법 치명타 확률이 <<5>>만큼 증가합니다."
-
-#: 198758357-0-21726
-msgctxt "198758357-0-21726"
-msgid "Sun Fire"
-msgstr "Sun Fire"

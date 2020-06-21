@@ -11,35 +11,45 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-44953
-msgctxt "132143172-0-44953"
-msgid "Increases your Spell Resistance by <<1>>."
-msgstr "呪文耐性が<<1>>上昇する。"
+#: 132143172-0-20252
+msgctxt "132143172-0-20252"
+msgid "Call forth talons from the ground, dealing <<1>> to enemies near you, an additional <<2>> over <<3>>, and immobilizing them for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
+msgstr "大地から鉤爪を呼び出し、周囲の敵に<<1>>を与え、さらに<<2>>を<<3>>の間加えて、<<4>>の間移動不能にする。\r\n\r\n鉤爪の周囲の味方は|cffffff点火|rシナジーを発動し、 鉤爪に捕らえられた敵全てに<<5>>を与える。"
 
-#: 198758357-0-44953
-msgctxt "198758357-0-44953"
-msgid "Scaled Armor"
-msgstr "鱗鎧"
+#: 198758357-0-20252
+msgctxt "198758357-0-20252"
+msgid "Burning Talons"
+msgstr "炎の鉤爪"
 
-#: 132143172-0-44951
-msgctxt "132143172-0-44951"
-msgid "Increases your Health Recovery by |cffffff5|r% for each Draconic Power ability slotted.\n\nCurrent bonus: <<1>>.\n\nIncreases range of your melee attacks by <<2>> meters. This effect only applies to instant cast attacks with a |cffffff5|r meter range."
-msgstr "スロットに装備している龍族の力アビリティ1つにつき、体力再生が|cffffff5|r%上昇する。\r\n\r\n現在のボーナス: <<1>>\r\n\r\n即座に行う近接攻撃の範囲を<<2>>メートル広げる。この効果は|cffffff5|rメートル以内の即時詠唱攻撃にしか適用されない。"
+#: 132143172-0-32719
+msgctxt "132143172-0-32719"
+msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>."
+msgstr "敵1体に飛びかかり、範囲内の敵に<<1>>を与えてノックバックさせる。さらに<<2>>の間気絶させる。"
 
-#: 198758357-0-44951
-msgctxt "198758357-0-44951"
-msgid "Elder Dragon"
-msgstr "エルダー・ドラゴン"
+#: 198758357-0-32719
+msgctxt "198758357-0-32719"
+msgid "Take Flight"
+msgstr "飛翔"
 
-#: 132143172-0-44933
-msgctxt "132143172-0-44933"
-msgid "While a Draconic Power ability is active, your healing received is increased by <<1>>."
-msgstr "龍族の力アビリティが発動している間、被回復が<<1>>増加する。"
+#: 132143172-0-20251
+msgctxt "132143172-0-20251"
+msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nEnemies hit are afflicted with Minor Maim, reducing their damage done by <<3>> for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
+msgstr "大地から鉤爪を呼び出し、周囲の敵に<<1>>を与えて、<<2>>の間移動不能にする。\r\n\r\n攻撃された敵は不自由(弱)を受け、与ダメージが<<3>>、<<4>>の間低下する。\r\n\r\n鉤爪の周囲の味方は|cffffff点火|rシナジーを発動し、 鉤爪に捕らえられた敵全てに<<5>>を与える。"
 
-#: 198758357-0-44933
-msgctxt "198758357-0-44933"
-msgid "Burning Heart"
-msgstr "燃えさかる心"
+#: 198758357-0-20251
+msgctxt "198758357-0-20251"
+msgid "Choking Talons"
+msgstr "窒息の鉤爪"
+
+#: 132143172-0-20319
+msgctxt "132143172-0-20319"
+msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, the armor returns <<3>> to any enemy that uses a direct damage attack against you in melee range."
+msgstr "内なるドラゴンを解放して強固(強)を獲得し、物理と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n発動中、近接攻撃の距離で直接ダメージ攻撃を仕掛けてきた敵に<<3>>を与える。"
+
+#: 198758357-0-20319
+msgctxt "198758357-0-20319"
+msgid "Spiked Armor"
+msgstr "スパイクアーマー"
 
 #: 132143172-0-44922
 msgctxt "132143172-0-44922"
@@ -51,15 +61,25 @@ msgctxt "198758357-0-44922"
 msgid "Iron Skin"
 msgstr "鉄の肌"
 
-#: 132143172-0-32792
-msgctxt "132143172-0-32792"
-msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAny enemy hit that is casting is interrupted, set Off Balance, and stunned for <<3>>.\n\nAfter <<4>>, you exhale fire, dealing <<5>> to nearby enemies."
-msgstr "ドラゴンの力で周囲の大気を取り込み、近くにいる敵に<<1>>を与えて、ダメージの<<2>>%を回復する\r\n\r\n詠唱中の敵は呪文を妨害され、フラフラ状態になって<<3>>の間気絶する。\r\n\r\n<<4>>後に火を吐き出し、近くにいる敵に<<5>>を与える。"
+#: 132143172-0-21007
+msgctxt "132143172-0-21007"
+msgid "Flex your scales, reducing your damage taken from projectiles by <<1>> for <<2>>."
+msgstr "自分の鱗を湾曲させて、<<1>>の投射物被ダメージを<<2>>の間低下させる。"
 
-#: 198758357-0-32792
-msgctxt "198758357-0-32792"
-msgid "Deep Breath"
-msgstr "ディープブレス"
+#: 198758357-0-21007
+msgctxt "198758357-0-21007"
+msgid "Protective Scale"
+msgstr "保護の鱗"
+
+#: 132143172-0-29462
+msgctxt "132143172-0-29462"
+msgid "Increases your Spell Resistance by <<1>>."
+msgstr "呪文耐性が<<1>>上昇する。"
+
+#: 198758357-0-29462
+msgctxt "198758357-0-29462"
+msgid "Scaled Armor"
+msgstr "鱗鎧"
 
 #: 132143172-0-32785
 msgctxt "132143172-0-32785"
@@ -70,6 +90,36 @@ msgstr "ドラゴンの力で周囲の大気を取り込み、近くにいる敵
 msgctxt "198758357-0-32785"
 msgid "Draw Essence"
 msgstr "エキス抽出"
+
+#: 132143172-0-29004
+msgctxt "132143172-0-29004"
+msgid "Draw on your draconic blood to heal for <<1>>% of your missing Health.\n\nYou also gain Major Fortitude, increasing your Health Recovery by <<2>> for <<3>>."
+msgstr "体内を流れるドラゴンの血に頼り、失った体力の<<1>>%を回復する。\r\n\r\nまた、不屈(強)を獲得して体力再生を<<2>>、<<3>>の間増加させる。"
+
+#: 198758357-0-29004
+msgctxt "198758357-0-29004"
+msgid "Dragon Blood"
+msgstr "ドラゴンの血脈"
+
+#: 132143172-0-31837
+msgctxt "132143172-0-31837"
+msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAfter <<3>>, you exhale fire, dealing <<4>> to nearby enemies."
+msgstr "ドラゴンの力で周囲の大気を取り込み、近くにいる敵に<<1>>を与えて、ダメージの<<2>>%を回復する\r\n\r\n<<3>>後に火を吐き出し、近くにいる敵に<<4>>を与える。"
+
+#: 198758357-0-31837
+msgctxt "198758357-0-31837"
+msgid "Inhale"
+msgstr "吸入"
+
+#: 132143172-0-29460
+msgctxt "132143172-0-29460"
+msgid "Increases your Health Recovery by <<1>> for each Draconic Power ability slotted.\n\nCurrent bonus: <<2>>.\n\nIncreases the range of your melee attacks by <<3>> meter.  This effect only applies to instant cast attacks with a |cffffff5|r meter range."
+msgstr "スロットに装備している龍族の力アビリティ1つにつき、体力再生が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>\r\n\r\n近接攻撃の範囲を<<3>>メートル広げる。この効果は|cffffff5|rメートル以内の即時詠唱攻撃にしか適用されない。"
+
+#: 198758357-0-29460
+msgctxt "198758357-0-29460"
+msgid "Elder Dragon"
+msgstr "エルダー・ドラゴン"
 
 #: 132143172-0-32744
 msgctxt "132143172-0-32744"
@@ -91,55 +141,95 @@ msgctxt "198758357-0-32722"
 msgid "Coagulating Blood"
 msgstr "凝結の血脈"
 
-#: 132143172-0-32719
-msgctxt "132143172-0-32719"
-msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>."
-msgstr "敵1体に飛びかかり、範囲内の敵に<<1>>を与えてノックバックさせる。さらに<<2>>の間気絶させる。"
+#: 132143172-0-21017
+msgctxt "132143172-0-21017"
+msgid "Flex your scales, reducing damage taken from projectiles by <<1>> for <<2>>. \n\nWhen you are hit with a projectile, you retaliate by launching a fiery orb at the attacker that deals <<3>>.  This effect can occur once every half second."
+msgstr "自分の鱗を湾曲させて、<<1>>の投射物被ダメージを<<2>>の間低下させる。\r\n\r\n投射物が命中すると、攻撃者に炎のオーブを発射して報復し、<<3>>を与える。この効果は0.5秒ごとに発動する。"
 
-#: 198758357-0-32719
-msgctxt "198758357-0-32719"
-msgid "Take Flight"
-msgstr "飛翔"
+#: 198758357-0-21017
+msgctxt "198758357-0-21017"
+msgid "Dragon Fire Scale"
+msgstr "ドラゴンの火鱗"
 
-#: 132143172-0-32715
-msgctxt "132143172-0-32715"
-msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>.\n\nAfter leaping you gain a damage shield that absorbs <<3>> damage for <<4>>.  This portion of the ability scales with your Max Health."
-msgstr "敵1体に飛びかかり、範囲内の敵に<<1>>を与えてノックバックさせる。さらに<<2>>の間気絶させる。\r\n\r\nその後、<<3>>までダメージを吸収するダメージシールドを<<4>>の間得る。このアビリティの効力は最大体力に比例して変動する。"
+#: 132143172-0-44951
+msgctxt "132143172-0-44951"
+msgid "Increases your Health Recovery by |cffffff5|r% for each Draconic Power ability slotted.\n\nCurrent bonus: <<1>>.\n\nIncreases range of your melee attacks by <<2>> meters. This effect only applies to instant cast attacks with a |cffffff5|r meter range."
+msgstr "スロットに装備している龍族の力アビリティ1つにつき、体力再生が|cffffff5|r%上昇する。\r\n\r\n現在のボーナス: <<1>>\r\n\r\n即座に行う近接攻撃の範囲を<<2>>メートル広げる。この効果は|cffffff5|rメートル以内の即時詠唱攻撃にしか適用されない。"
 
-#: 198758357-0-32715
-msgctxt "198758357-0-32715"
-msgid "Ferocious Leap"
-msgstr "獰猛な跳躍"
+#: 198758357-0-44951
+msgctxt "198758357-0-44951"
+msgid "Elder Dragon"
+msgstr "エルダー・ドラゴン"
 
-#: 132143172-0-31837
-msgctxt "132143172-0-31837"
-msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAfter <<3>>, you exhale fire, dealing <<4>> to nearby enemies."
-msgstr "ドラゴンの力で周囲の大気を取り込み、近くにいる敵に<<1>>を与えて、ダメージの<<2>>%を回復する\r\n\r\n<<3>>後に火を吐き出し、近くにいる敵に<<4>>を与える。"
+#: 132143172-0-20323
+msgctxt "132143172-0-20323"
+msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou release a spray of spikes around you, causing enemies hit to take <<3>> over <<4>>.\n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
+msgstr "内なるドラゴンを解放して強固(強)を獲得し、物理と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n周囲にスパイクを放ち、敵に<<3>>のダメージを<<4>>の間与える。\r\n\r\n発動中、近接攻撃の距離で直接ダメージ攻撃を仕掛けてきた敵に<<5>>を与える。"
 
-#: 198758357-0-31837
-msgctxt "198758357-0-31837"
-msgid "Inhale"
-msgstr "吸入"
+#: 198758357-0-20323
+msgctxt "198758357-0-20323"
+msgid "Volatile Armor"
+msgstr "獰猛な鎧"
 
-#: 132143172-0-29462
-msgctxt "132143172-0-29462"
+#: 132143172-0-44953
+msgctxt "132143172-0-44953"
 msgid "Increases your Spell Resistance by <<1>>."
 msgstr "呪文耐性が<<1>>上昇する。"
 
-#: 198758357-0-29462
-msgctxt "198758357-0-29462"
+#: 198758357-0-44953
+msgctxt "198758357-0-44953"
 msgid "Scaled Armor"
 msgstr "鱗鎧"
 
-#: 132143172-0-29460
-msgctxt "132143172-0-29460"
-msgid "Increases your Health Recovery by <<1>> for each Draconic Power ability slotted.\n\nCurrent bonus: <<2>>.\n\nIncreases the range of your melee attacks by <<3>> meter.  This effect only applies to instant cast attacks with a |cffffff5|r meter range."
-msgstr "スロットに装備している龍族の力アビリティ1つにつき、体力再生が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>\r\n\r\n近接攻撃の範囲を<<3>>メートル広げる。この効果は|cffffff5|rメートル以内の即時詠唱攻撃にしか適用されない。"
+#: 132143172-0-20245
+msgctxt "132143172-0-20245"
+msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<3>> to all enemies held within them."
+msgstr "大地から鉤爪を呼び出し、周囲の敵に<<1>>を与えて、<<2>>の間移動不能にする。\r\n\r\n鉤爪の周囲の味方は|cffffff点火|rシナジーを発動し、 鉤爪に捕らえられた敵全てに<<3>>を与える。"
 
-#: 198758357-0-29460
-msgctxt "198758357-0-29460"
-msgid "Elder Dragon"
-msgstr "エルダー・ドラゴン"
+#: 198758357-0-20245
+msgctxt "198758357-0-20245"
+msgid "Dark Talons"
+msgstr "闇の鉤爪"
+
+#: 132143172-0-21014
+msgctxt "132143172-0-21014"
+msgid "Flex your scales, reducing damage taken from projectiles by <<1>>  for <<2>>.\n\nGain immunity to snares and immobilizations for <<3>>."
+msgstr "自分の鱗を湾曲させて、<<1>>の投射物被ダメージを<<2>>の間低下させる。\r\n\r\n<<3>>の間、減速と移動不能に対する耐性を得る。"
+
+#: 198758357-0-21014
+msgctxt "198758357-0-21014"
+msgid "Protective Plate"
+msgstr "保護のプレート"
+
+#: 132143172-0-44933
+msgctxt "132143172-0-44933"
+msgid "While a Draconic Power ability is active, your healing received is increased by <<1>>."
+msgstr "龍族の力アビリティが発動している間、被回復が<<1>>増加する。"
+
+#: 198758357-0-44933
+msgctxt "198758357-0-44933"
+msgid "Burning Heart"
+msgstr "燃えさかる心"
+
+#: 132143172-0-20328
+msgctxt "132143172-0-20328"
+msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou gain a damage shield that absorbs up to <<3>> damage for <<4>>.  This portion of the ability scales off your Max Health.  \n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
+msgstr "内なるドラゴンを解放して強固(強)を獲得し、物理と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n<<3>>までダメージを吸収するダメージシールドを<<4>>の間得る。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n発動中、近接攻撃の距離で直接ダメージ攻撃を仕掛けてきた敵に<<5>>を与える。"
+
+#: 198758357-0-20328
+msgctxt "198758357-0-20328"
+msgid "Hardened Armor"
+msgstr "高硬化鎧"
+
+#: 132143172-0-29012
+msgctxt "132143172-0-29012"
+msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back <<2>>, and stunning them for <<3>>."
+msgstr "敵1体に飛びかかり、範囲内の敵に<<1>>を与えて<<2>>ノックバックさせる。さらに<<3>>の間気絶させる。"
+
+#: 198758357-0-29012
+msgctxt "198758357-0-29012"
+msgid "Dragon Leap"
+msgstr "ドラゴンの跳躍"
 
 #: 132143172-0-29457
 msgctxt "132143172-0-29457"
@@ -161,115 +251,22 @@ msgctxt "198758357-0-29455"
 msgid "Iron Skin"
 msgstr "鉄の肌"
 
-#: 132143172-0-29012
-msgctxt "132143172-0-29012"
-msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back <<2>>, and stunning them for <<3>>."
-msgstr "敵1体に飛びかかり、範囲内の敵に<<1>>を与えて<<2>>ノックバックさせる。さらに<<3>>の間気絶させる。"
+#: 132143172-0-32792
+msgctxt "132143172-0-32792"
+msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAny enemy hit that is casting is interrupted, set Off Balance, and stunned for <<3>>.\n\nAfter <<4>>, you exhale fire, dealing <<5>> to nearby enemies."
+msgstr "ドラゴンの力で周囲の大気を取り込み、近くにいる敵に<<1>>を与えて、ダメージの<<2>>%を回復する\r\n\r\n詠唱中の敵は呪文を妨害され、フラフラ状態になって<<3>>の間気絶する。\r\n\r\n<<4>>後に火を吐き出し、近くにいる敵に<<5>>を与える。"
 
-#: 198758357-0-29012
-msgctxt "198758357-0-29012"
-msgid "Dragon Leap"
-msgstr "ドラゴンの跳躍"
+#: 198758357-0-32792
+msgctxt "198758357-0-32792"
+msgid "Deep Breath"
+msgstr "ディープブレス"
 
-#: 132143172-0-29004
-msgctxt "132143172-0-29004"
-msgid "Draw on your draconic blood to heal for <<1>>% of your missing Health.\n\nYou also gain Major Fortitude, increasing your Health Recovery by <<2>> for <<3>>."
-msgstr "体内を流れるドラゴンの血に頼り、失った体力の<<1>>%を回復する。\r\n\r\nまた、不屈(強)を獲得して体力再生を<<2>>、<<3>>の間増加させる。"
+#: 132143172-0-32715
+msgctxt "132143172-0-32715"
+msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>.\n\nAfter leaping you gain a damage shield that absorbs <<3>> damage for <<4>>.  This portion of the ability scales with your Max Health."
+msgstr "敵1体に飛びかかり、範囲内の敵に<<1>>を与えてノックバックさせる。さらに<<2>>の間気絶させる。\r\n\r\nその後、<<3>>までダメージを吸収するダメージシールドを<<4>>の間得る。このアビリティの効力は最大体力に比例して変動する。"
 
-#: 198758357-0-29004
-msgctxt "198758357-0-29004"
-msgid "Dragon Blood"
-msgstr "ドラゴンの血脈"
-
-#: 132143172-0-21017
-msgctxt "132143172-0-21017"
-msgid "Flex your scales, reducing damage taken from projectiles by <<1>> for <<2>>. \n\nWhen you are hit with a projectile, you retaliate by launching a fiery orb at the attacker that deals <<3>>.  This effect can occur once every half second."
-msgstr "自分の鱗を湾曲させて、<<1>>の投射物被ダメージを<<2>>の間低下させる。\r\n\r\n投射物が命中すると、攻撃者に炎のオーブを発射して報復し、<<3>>を与える。この効果は0.5秒ごとに発動する。"
-
-#: 198758357-0-21017
-msgctxt "198758357-0-21017"
-msgid "Dragon Fire Scale"
-msgstr "ドラゴンの火鱗"
-
-#: 132143172-0-21014
-msgctxt "132143172-0-21014"
-msgid "Flex your scales, reducing damage taken from projectiles by <<1>>  for <<2>>.\n\nGain immunity to snares and immobilizations for <<3>>."
-msgstr "自分の鱗を湾曲させて、<<1>>の投射物被ダメージを<<2>>の間低下させる。\r\n\r\n<<3>>の間、減速と移動不能に対する耐性を得る。"
-
-#: 198758357-0-21014
-msgctxt "198758357-0-21014"
-msgid "Protective Plate"
-msgstr "保護のプレート"
-
-#: 132143172-0-21007
-msgctxt "132143172-0-21007"
-msgid "Flex your scales, reducing your damage taken from projectiles by <<1>> for <<2>>."
-msgstr "自分の鱗を湾曲させて、<<1>>の投射物被ダメージを<<2>>の間低下させる。"
-
-#: 198758357-0-21007
-msgctxt "198758357-0-21007"
-msgid "Protective Scale"
-msgstr "保護の鱗"
-
-#: 132143172-0-20328
-#, fuzzy
-msgctxt "132143172-0-20328"
-msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou gain a damage shield that absorbs up to <<3>> damage for <<4>>.  This portion of the ability scales off your Max Health.  \n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
-msgstr "内なるドラゴンを解放して強固(強)を獲得し、物理と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n<<3>>までダメージを吸収するダメージシールドを<<4>>の間得る。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n発動中、近接攻撃の距離で直接ダメージ攻撃を仕掛けてきた敵に<<5>>を与える。"
-
-#: 198758357-0-20328
-msgctxt "198758357-0-20328"
-msgid "Hardened Armor"
-msgstr "高硬化鎧"
-
-#: 132143172-0-20323
-#, fuzzy
-msgctxt "132143172-0-20323"
-msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou release a spray of spikes around you, causing enemies hit to take <<3>> over <<4>>.\n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
-msgstr "内なるドラゴンを解放して強固(強)を獲得し、物理と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n周囲にスパイクを放ち、敵に<<3>>のダメージを<<4>>の間与える。\r\n\r\n発動中、近接攻撃の距離で直接ダメージ攻撃を仕掛けてきた敵に<<5>>を与える。"
-
-#: 198758357-0-20323
-msgctxt "198758357-0-20323"
-msgid "Volatile Armor"
-msgstr "獰猛な鎧"
-
-#: 132143172-0-20319
-#, fuzzy
-msgctxt "132143172-0-20319"
-msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, the armor returns <<3>> to any enemy that uses a direct damage attack against you in melee range."
-msgstr "内なるドラゴンを解放して強固(強)を獲得し、物理と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n発動中、近接攻撃の距離で直接ダメージ攻撃を仕掛けてきた敵に<<3>>を与える。"
-
-#: 198758357-0-20319
-msgctxt "198758357-0-20319"
-msgid "Spiked Armor"
-msgstr "スパイクアーマー"
-
-#: 132143172-0-20252
-msgctxt "132143172-0-20252"
-msgid "Call forth talons from the ground, dealing <<1>> to enemies near you, an additional <<2>> over <<3>>, and immobilizing them for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
-msgstr "大地から鉤爪を呼び出し、周囲の敵に<<1>>を与え、さらに<<2>>を<<3>>の間加えて、<<4>>の間移動不能にする。\r\n\r\n鉤爪の周囲の味方は|cffffff点火|rシナジーを発動し、 鉤爪に捕らえられた敵全てに<<5>>を与える。"
-
-#: 198758357-0-20252
-msgctxt "198758357-0-20252"
-msgid "Burning Talons"
-msgstr "炎の鉤爪"
-
-#: 132143172-0-20251
-msgctxt "132143172-0-20251"
-msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nEnemies hit are afflicted with Minor Maim, reducing their damage done by <<3>> for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
-msgstr "大地から鉤爪を呼び出し、周囲の敵に<<1>>を与えて、<<2>>の間移動不能にする。\r\n\r\n攻撃された敵は不自由(弱)を受け、与ダメージが<<3>>、<<4>>の間低下する。\r\n\r\n鉤爪の周囲の味方は|cffffff点火|rシナジーを発動し、 鉤爪に捕らえられた敵全てに<<5>>を与える。"
-
-#: 198758357-0-20251
-msgctxt "198758357-0-20251"
-msgid "Choking Talons"
-msgstr "窒息の鉤爪"
-
-#: 132143172-0-20245
-msgctxt "132143172-0-20245"
-msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<3>> to all enemies held within them."
-msgstr "大地から鉤爪を呼び出し、周囲の敵に<<1>>を与えて、<<2>>の間移動不能にする。\r\n\r\n鉤爪の周囲の味方は|cffffff点火|rシナジーを発動し、 鉤爪に捕らえられた敵全てに<<3>>を与える。"
-
-#: 198758357-0-20245
-msgctxt "198758357-0-20245"
-msgid "Dark Talons"
-msgstr "闇の鉤爪"
+#: 198758357-0-32715
+msgctxt "198758357-0-32715"
+msgid "Ferocious Leap"
+msgstr "獰猛な跳躍"

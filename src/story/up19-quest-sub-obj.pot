@@ -11,24 +11,9 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-48748
-msgctxt "256430276-0-48748"
-msgid "Find the Blackguards' Map Pieces"
-msgstr ""
-
-#: 256430276-0-48667
-msgctxt "256430276-0-48667"
-msgid "Talk to the Pilot"
-msgstr ""
-
 #: 256430276-0-48586
 msgctxt "256430276-0-48586"
 msgid "Investigate the Blackguards' Dig Sites"
-msgstr ""
-
-#: 256430276-0-48436
-msgctxt "256430276-0-48436"
-msgid "Examine the Contents of the Chamber"
 msgstr ""
 
 #: 256430276-0-48095
@@ -36,59 +21,9 @@ msgctxt "256430276-0-48095"
 msgid "Talk to Adonatus"
 msgstr ""
 
-#: 256430276-0-47657
-msgctxt "256430276-0-47657"
-msgid "Return to <<1>>"
-msgstr ""
-
-#: 256430276-0-47638
-msgctxt "256430276-0-47638"
-msgid "Return to <<1>>"
-msgstr ""
-
 #: 121487972-0-13492
 msgctxt "121487972-0-13492"
 msgid "Talk to Jee-Lar"
-msgstr ""
-
-#: 121487972-0-13489
-msgctxt "121487972-0-13489"
-msgid "Talk to Jee-Lar"
-msgstr ""
-
-#: 121487972-0-13488
-msgctxt "121487972-0-13488"
-msgid "Talk to Jee-Lar"
-msgstr ""
-
-#: 121487972-0-13482
-msgctxt "121487972-0-13482"
-msgid "Talk to Jee-Lar"
-msgstr ""
-
-#: 121487972-0-13478
-msgctxt "121487972-0-13478"
-msgid "Talk to Jee-Lar"
-msgstr ""
-
-#: 121487972-0-13475
-msgctxt "121487972-0-13475"
-msgid "Talk to Jee-Lar"
-msgstr ""
-
-#: 121487972-0-13446
-msgctxt "121487972-0-13446"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 121487972-0-13414
-msgctxt "121487972-0-13414"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 121487972-0-13401
-msgctxt "121487972-0-13401"
-msgid "Talk to Concordia Mercius"
 msgstr ""
 
 #: 121487972-0-13294
@@ -111,16 +46,6 @@ msgctxt "121487972-0-13291"
 msgid "Talk to <<1>>"
 msgstr ""
 
-#: 121487972-0-13289
-msgctxt "121487972-0-13289"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 121487972-0-13288
-msgctxt "121487972-0-13288"
-msgid "Talk to <<1>>"
-msgstr ""
-
 #: 121487972-0-13287
 msgctxt "121487972-0-13287"
 msgid "Talk to <<1>>"
@@ -129,4 +54,79 @@ msgstr ""
 #: 121487972-0-13286
 msgctxt "121487972-0-13286"
 msgid "Talk to <<1>>"
+msgstr ""
+
+#: 121487972-0-13482
+msgctxt "121487972-0-13482"
+msgid "Talk to Jee-Lar"
+msgstr ""
+
+#: 121487972-0-13489
+msgctxt "121487972-0-13489"
+msgid "Talk to Jee-Lar"
+msgstr ""
+
+#: 121487972-0-13478
+msgctxt "121487972-0-13478"
+msgid "Talk to Jee-Lar"
+msgstr ""
+
+#: 121487972-0-13401
+msgctxt "121487972-0-13401"
+msgid "Talk to Concordia Mercius"
+msgstr ""
+
+#: 121487972-0-13488
+msgctxt "121487972-0-13488"
+msgid "Talk to Jee-Lar"
+msgstr ""
+
+#: 121487972-0-13289
+msgctxt "121487972-0-13289"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 121487972-0-13475
+msgctxt "121487972-0-13475"
+msgid "Talk to Jee-Lar"
+msgstr ""
+
+#: 121487972-0-13288
+msgctxt "121487972-0-13288"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 121487972-0-13414
+msgctxt "121487972-0-13414"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 256430276-0-47638
+msgctxt "256430276-0-47638"
+msgid "Return to <<1>>"
+msgstr ""
+
+#: 121487972-0-13446
+msgctxt "121487972-0-13446"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 256430276-0-48748
+msgctxt "256430276-0-48748"
+msgid "Find the Blackguards' Map Pieces"
+msgstr ""
+
+#: 256430276-0-47657
+msgctxt "256430276-0-47657"
+msgid "Return to <<1>>"
+msgstr ""
+
+#: 256430276-0-48667
+msgctxt "256430276-0-48667"
+msgid "Talk to the Pilot"
+msgstr ""
+
+#: 256430276-0-48436
+msgctxt "256430276-0-48436"
+msgid "Examine the Contents of the Chamber"
 msgstr ""

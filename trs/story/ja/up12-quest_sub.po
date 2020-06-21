@@ -11,56 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 3952276-1-7131
-#, fuzzy
-msgctxt "3952276-1-7131"
-msgid "I last spoke with her at the old farm near Dragonstar—try there.\n\nIf she departed, I'm certain she left word of her travels."
-msgstr "最後に彼女と話したのは、ドラゴンスター近くの古い農園よ。そこを探してみて\r\n\r\nもう出発していたとしても、不在の連絡をしていると思う"
-
-#: 20958740-1-7131
-#, fuzzy
-msgctxt "20958740-1-7131"
-msgid "I'll look for <<1>> near Dragonstar."
-msgstr "ドラゴンスターの近くで<<1>>を探そう"
-
-#: 3952276-1-7127
-msgctxt "3952276-1-7127"
-msgid "The circle summoned atronachs to destroy the Dark Anchor. Instead, they turned on the circle! One of the Celestials must have caused it.\n\nI'm no conjurer—I wasn't next to the summoning when it happened. It's the only reason I escaped to seek help!"
-msgstr "私達は精霊を召喚して、ダークアンカーを破壊しようとしたわ。でも、精霊が裏切った！ セレスティアルの一人が企んだに違いないわ\r\n\r\n私は召喚師じゃない。そもそも召還する予定はなかったの。生き延びて助けを呼べた理由は、それだけよ！"
-
-#: 20958740-1-7127
-msgctxt "20958740-1-7127"
-msgid "I'll travel to the <<1>> and see what I can learn."
-msgstr "<<1>>へ向かって出来るだけ調べよう"
-
-#: 3952276-1-7123
-msgctxt "3952276-1-7123"
-msgid "Out of thin air, shouting nonsense about defeating the Anka-Ra. The Guard took him to Bangkorai Gate, if you're headed that way. He's the indecent Imperial going on about Celestial This-And-That.\n\nIf you see him, tell him he owes me a thousand gold!"
-msgstr "どこからともなく現れて、アンカ・ラーを倒すとか何とかわめいていたわ。衛兵はバンコライの門へ連れて行った。そっちに向かうなら見てみなさい。あいつはセレスティアルのあれやこれやに関わってる、下品なインペリアルよ\r\n\r\nあいつを見たら、あんたのおかげで1000ゴールド損したって言ってやって！"
-
-#: 20958740-1-7123
-msgctxt "20958740-1-7123"
-msgid "Indecently exposed Imperial in Bangkorai Gate. Got it."
-msgstr "下品に露出したインペリアルがバンコライの門にいるんだな。分かった"
-
-#: 3952276-0-7162
-#, fuzzy
-msgctxt "3952276-0-7162"
-msgid "I'm hearing rumors of more Daedra in <<1>>. Time to banish them, just like you did their friends.\n\nToss some <<z:2>> on their <<z:3>>. Then smash the relics they used to bring them here. While you're there, kill whoever's behind all the summoning."
-msgstr "<<1>>でデイドラがさらに現れたようだ。奴らの友人にやったように、そいつらも倒してやれ\r\n\r\n<<2>>を<<3>>に投げ入れろ。それから奴らの召喚に使われた遺物を破壊せよ。その間、召喚の背後にいる者は誰であれ殺せ"
-
-#: 20958740-0-7162
-#, fuzzy
-msgctxt "20958740-0-7162"
-msgid "All right, I'll do it."
-msgstr "分かった、やる"
-
-#: 249936564-0-7162
-#, fuzzy
-msgctxt "249936564-0-7162"
-msgid "Keep talking."
-msgstr "話しを続けてくれ"
-
 #: 3952276-0-7143
 #, fuzzy
 msgctxt "3952276-0-7143"
@@ -78,24 +28,6 @@ msgstr "イーストマーチで<<1>>を探す"
 msgctxt "249936564-0-7143"
 msgid "<Examine the scroll.>"
 msgstr "<巻物を調べる>"
-
-#: 3952276-0-7138
-#, fuzzy
-msgctxt "3952276-0-7138"
-msgid "It marks a fresh start to the new year, for all who walk beneath the sun. Everyone in Tamriel celebrates!\n\nWell, perhaps not the Maormer—but everyone else. You should try it for yourself and see!"
-msgstr "新年の新鮮な始まりの印で、太陽の下を歩くすべての者のための祭り。全タムリエルが祝うの！\r\n\r\nまあ、マオマーは違うかもしれないけど… でも、それ以外は全員ね。自分で試して、その目で確かめてみて！"
-
-#: 20958740-0-7138
-#, fuzzy
-msgctxt "20958740-0-7138"
-msgid "I'm interested. Tell me more about it."
-msgstr "興味が湧いた。さらに教えて欲しい"
-
-#: 249936564-0-7138
-#, fuzzy
-msgctxt "249936564-0-7138"
-msgid "What is the New Life Festival?"
-msgstr "ニュー・ライフ・フェスティバルとは何だ？"
 
 #: 3952276-0-7131
 #, fuzzy
@@ -120,26 +52,6 @@ msgstr "<<1>>という女性にスケールドコートに対する計画があ�
 msgctxt "249936564-0-7131"
 msgid "Who is your patron?"
 msgstr "主人は何者だ？"
-
-#: 3952276-0-7127
-msgctxt "3952276-0-7127"
-msgid "My colleague, <<1>>? We're sorcerers, he leads my circle. Or … or led, I ….\n\nWe sought to shatter a Dark Anchor at its base. To show the Fighters Guild we can do it more efficiently. So we traveled to the <<2>>, but our plan went horribly awry."
-msgstr "同僚の<<1>>？ 私達はソーサラーで、彼は仲間を率いている。いえ、率いていた…\r\n\r\n私達はダークアンカーを破壊する方法を探していた。戦士ギルドに、もっと効率的にやれることを示すために。そのために<<2>>に向かったのだけど… 計画は無残に失敗した"
-
-#: 20958740-0-7127
-msgctxt "20958740-0-7127"
-msgid "How so?"
-msgstr "どうやって？"
-
-#: 205344756-0-7127
-msgctxt "205344756-0-7127"
-msgid "When called to destroy a Dark Anchor in Craglorn, atronachs turned on the mages who summoned them. One mage who escaped believes a Celestial caused it to happen."
-msgstr "クラグローンのダークアンカーを破壊するために召喚された精霊が、召還された魔術師を裏切った。脱出した魔術師は、セレスティアルの仕業だと考えている"
-
-#: 249936564-0-7127
-msgctxt "249936564-0-7127"
-msgid "Tell me what happened."
-msgstr "何があったのか教えてくれ"
 
 #: 3952276-0-7123
 msgctxt "3952276-0-7123"
@@ -178,3 +90,49 @@ msgstr "分かった、やる"
 msgctxt "249936564-0-7103"
 msgid "What do you need?"
 msgstr "何をすればいい？"
+
+#: 3952276-0-7138
+#, fuzzy
+msgctxt "3952276-0-7138"
+msgid "It marks a fresh start to the new year, for all who walk beneath the sun. Everyone in Tamriel celebrates!\n\nWell, perhaps not the Maormer—but everyone else. You should try it for yourself and see!"
+msgstr "新年の新鮮な始まりの印で、太陽の下を歩くすべての者のための祭り。全タムリエルが祝うの！\r\n\r\nまあ、マオマーは違うかもしれないけど… でも、それ以外は全員ね。自分で試して、その目で確かめてみて！"
+
+#: 20958740-0-7138
+#, fuzzy
+msgctxt "20958740-0-7138"
+msgid "I'm interested. Tell me more about it."
+msgstr "興味が湧いた。さらに教えて欲しい"
+
+#: 249936564-0-7138
+#, fuzzy
+msgctxt "249936564-0-7138"
+msgid "What is the New Life Festival?"
+msgstr "ニュー・ライフ・フェスティバルとは何だ？"
+
+#: 3952276-1-7127
+msgctxt "3952276-1-7127"
+msgid "The circle summoned atronachs to destroy the Dark Anchor. Instead, they turned on the circle! One of the Celestials must have caused it.\n\nI'm no conjurer—I wasn't next to the summoning when it happened. It's the only reason I escaped to seek help!"
+msgstr "私達は精霊を召喚して、ダークアンカーを破壊しようとしたわ。でも、精霊が裏切った！ セレスティアルの一人が企んだに違いないわ\r\n\r\n私は召喚師じゃない。そもそも召還する予定はなかったの。生き延びて助けを呼べた理由は、それだけよ！"
+
+#: 20958740-1-7127
+msgctxt "20958740-1-7127"
+msgid "I'll travel to the <<1>> and see what I can learn."
+msgstr "<<1>>へ向かって出来るだけ調べよう"
+
+#: 3952276-0-7162
+#, fuzzy
+msgctxt "3952276-0-7162"
+msgid "I'm hearing rumors of more Daedra in <<1>>. Time to banish them, just like you did their friends.\n\nToss some <<z:2>> on their <<z:3>>. Then smash the relics they used to bring them here. While you're there, kill whoever's behind all the summoning."
+msgstr "<<1>>でデイドラがさらに現れたようだ。奴らの友人にやったように、そいつらも倒してやれ\r\n\r\n<<2>>を<<3>>に投げ入れろ。それから奴らの召喚に使われた遺物を破壊せよ。その間、召喚の背後にいる者は誰であれ殺せ"
+
+#: 20958740-0-7162
+#, fuzzy
+msgctxt "20958740-0-7162"
+msgid "All right, I'll do it."
+msgstr "分かった、やる"
+
+#: 249936564-0-7162
+#, fuzzy
+msgctxt "249936564-0-7162"
+msgid "Keep talking."
+msgstr "話しを続けてくれ"

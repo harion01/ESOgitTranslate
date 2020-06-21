@@ -11,36 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-812
-msgctxt "228378404-0-812"
-msgid "Ten of these items can be refined to make jute."
-msgstr "このアイテム10個で黄麻が作成できる。"
-
-#: 242841733-0-812
-msgctxt "242841733-0-812"
-msgid "raw jute"
-msgstr "未加工の黄麻"
-
-#: 228378404-0-800
-msgctxt "228378404-0-800"
-msgid "Ten of these items can be refined to make superb hide."
-msgstr "このアイテム10個で最上なる皮が作成できる。"
-
-#: 242841733-0-800
-msgctxt "242841733-0-800"
-msgid "superb hide scraps"
-msgstr "最上なる皮の端切れ"
-
-#: 228378404-0-793
-msgctxt "228378404-0-793"
-msgid "Ten of these items can be refined to make rawhide."
-msgstr "このアイテム10個で生皮が作成できる。"
-
-#: 242841733-0-793
-msgctxt "242841733-0-793"
-msgid "rawhide scraps"
-msgstr "生皮の切れ端"
-
 #: 228378404-0-71239
 msgctxt "228378404-0-71239"
 msgid "Ten of these items can be refined to make rubedo leather."
@@ -50,16 +20,6 @@ msgstr "このアイテム10個でルベドレザーが作成できる。"
 msgctxt "242841733-0-71239"
 msgid "rubedo hide scraps"
 msgstr "ルベドハイドの切れ端"
-
-#: 228378404-0-71200
-msgctxt "228378404-0-71200"
-msgid "Ten of these items can be refined to make ancestor silk."
-msgstr "このアイテム10個で先人のシルクが作成できる。"
-
-#: 242841733-0-71200
-msgctxt "242841733-0-71200"
-msgid "raw ancestor silk"
-msgstr "未加工の先人のシルク"
 
 #: 228378404-0-6020
 msgctxt "228378404-0-6020"
@@ -71,15 +31,15 @@ msgctxt "242841733-0-6020"
 msgid "thick leather scraps"
 msgstr "重厚な革の切れ端"
 
-#: 228378404-0-4478
-msgctxt "228378404-0-4478"
-msgid "Ten of these items can be refined to make shadowhide."
-msgstr "このアイテム10個でシャドウハイドを作成できる。"
+#: 228378404-0-71200
+msgctxt "228378404-0-71200"
+msgid "Ten of these items can be refined to make ancestor silk."
+msgstr "このアイテム10個で先人のシルクが作成できる。"
 
-#: 242841733-0-4478
-msgctxt "242841733-0-4478"
-msgid "shadowhide scraps"
-msgstr "シャドウハイド切れ端"
+#: 242841733-0-71200
+msgctxt "242841733-0-71200"
+msgid "raw ancestor silk"
+msgstr "未加工の先人のシルク"
 
 #: 228378404-0-4464
 msgctxt "228378404-0-4464"
@@ -91,15 +51,55 @@ msgctxt "242841733-0-4464"
 msgid "raw flax"
 msgstr "未加工の亜麻"
 
-#: 228378404-0-4448
-msgctxt "228378404-0-4448"
-msgid "Ten of these items can be refined to make hide."
-msgstr "このアイテム10個で皮が作成される。"
+#: 228378404-0-23129
+msgctxt "228378404-0-23129"
+msgid "Ten of these items can be refined to make cotton."
+msgstr "このアイテム10個でコットンが作成できる。"
 
-#: 242841733-0-4448
-msgctxt "242841733-0-4448"
-msgid "hide scraps"
-msgstr "皮の切れ端"
+#: 242841733-0-23129
+msgctxt "242841733-0-23129"
+msgid "raw cotton"
+msgstr "未加工のコットン"
+
+#: 228378404-0-793
+msgctxt "228378404-0-793"
+msgid "Ten of these items can be refined to make rawhide."
+msgstr "このアイテム10個で生皮が作成できる。"
+
+#: 242841733-0-793
+msgctxt "242841733-0-793"
+msgid "rawhide scraps"
+msgstr "生皮の切れ端"
+
+#: 228378404-0-23095
+msgctxt "228378404-0-23095"
+msgid "Ten of these items can be refined to make leather."
+msgstr "このアイテム10個で革を作成できる。"
+
+#: 242841733-0-23095
+msgctxt "242841733-0-23095"
+msgid "leather scraps"
+msgstr "革の切れ端"
+
+#: 228378404-0-23130
+msgctxt "228378404-0-23130"
+msgid "Ten of these items can be refined to make spidersilk."
+msgstr "このアイテム10個でスパイダーシルクが作成できる。"
+
+#: 242841733-0-23130
+msgctxt "242841733-0-23130"
+msgid "raw spidersilk"
+msgstr "未加工のスパイダーシルク"
+
+#: 228378404-0-23097
+msgctxt "228378404-0-23097"
+msgid "Ten of these items can be refined to make fell hide."
+msgstr "このアイテム10個でフェルハイドが作成できる。"
+
+#: 242841733-0-23097
+msgctxt "242841733-0-23097"
+msgid "fell hide scraps"
+msgstr "フェルハイドの切れ端"
 
 #: 228378404-0-33220
 msgctxt "228378404-0-33220"
@@ -110,46 +110,6 @@ msgstr "このアイテム10個で虚無の布が作成できる。"
 msgctxt "242841733-0-33220"
 msgid "raw void bloom"
 msgstr "未加工の虚無の花"
-
-#: 228378404-0-33219
-msgctxt "228378404-0-33219"
-msgid "Ten of these items can be refined to make silverweave."
-msgstr "このアイテム10個でシルバーウィーブが作成できる。"
-
-#: 242841733-0-33219
-msgctxt "242841733-0-33219"
-msgid "raw silverweed"
-msgstr "未加工のシルバーウィード"
-
-#: 228378404-0-33218
-msgctxt "228378404-0-33218"
-msgid "Ten of these items can be refined to make ironthread."
-msgstr "このアイテム10個でアイアンスレッドが作成できる。"
-
-#: 242841733-0-33218
-msgctxt "242841733-0-33218"
-msgid "raw ironweed"
-msgstr "未加工のアイアンウィード"
-
-#: 228378404-0-33217
-msgctxt "228378404-0-33217"
-msgid "Ten of these items can be refined to make kresh fiber."
-msgstr "このアイテム10個でクレッシュ繊維が作成できる。"
-
-#: 242841733-0-33217
-msgctxt "242841733-0-33217"
-msgid "raw Kreshweed"
-msgstr "未加工のクレッシュ草"
-
-#: 228378404-0-23143
-msgctxt "228378404-0-23143"
-msgid "Ten of these items can be refined to make iron hide."
-msgstr "このアイテム10個で鉄の皮が作成できる。"
-
-#: 242841733-0-23143
-msgctxt "242841733-0-23143"
-msgid "iron hide scraps"
-msgstr "鉄の皮の端切れ"
 
 #: 228378404-0-23142
 msgctxt "228378404-0-23142"
@@ -171,42 +131,82 @@ msgctxt "242841733-0-23131"
 msgid "raw ebonthread"
 msgstr "未加工のエボンスレッド"
 
-#: 228378404-0-23130
-msgctxt "228378404-0-23130"
-msgid "Ten of these items can be refined to make spidersilk."
-msgstr "このアイテム10個でスパイダーシルクが作成できる。"
+#: 228378404-0-23143
+msgctxt "228378404-0-23143"
+msgid "Ten of these items can be refined to make iron hide."
+msgstr "このアイテム10個で鉄の皮が作成できる。"
 
-#: 242841733-0-23130
-msgctxt "242841733-0-23130"
-msgid "raw spidersilk"
-msgstr "未加工のスパイダーシルク"
+#: 242841733-0-23143
+msgctxt "242841733-0-23143"
+msgid "iron hide scraps"
+msgstr "鉄の皮の端切れ"
 
-#: 228378404-0-23129
-msgctxt "228378404-0-23129"
-msgid "Ten of these items can be refined to make cotton."
-msgstr "このアイテム10個でコットンが作成できる。"
+#: 228378404-0-800
+msgctxt "228378404-0-800"
+msgid "Ten of these items can be refined to make superb hide."
+msgstr "このアイテム10個で最上なる皮が作成できる。"
 
-#: 242841733-0-23129
-msgctxt "242841733-0-23129"
-msgid "raw cotton"
-msgstr "未加工のコットン"
+#: 242841733-0-800
+msgctxt "242841733-0-800"
+msgid "superb hide scraps"
+msgstr "最上なる皮の端切れ"
 
-#: 228378404-0-23097
-msgctxt "228378404-0-23097"
-msgid "Ten of these items can be refined to make fell hide."
-msgstr "このアイテム10個でフェルハイドが作成できる。"
+#: 228378404-0-4478
+msgctxt "228378404-0-4478"
+msgid "Ten of these items can be refined to make shadowhide."
+msgstr "このアイテム10個でシャドウハイドを作成できる。"
 
-#: 242841733-0-23097
-msgctxt "242841733-0-23097"
-msgid "fell hide scraps"
-msgstr "フェルハイドの切れ端"
+#: 242841733-0-4478
+msgctxt "242841733-0-4478"
+msgid "shadowhide scraps"
+msgstr "シャドウハイド切れ端"
 
-#: 228378404-0-23095
-msgctxt "228378404-0-23095"
-msgid "Ten of these items can be refined to make leather."
-msgstr "このアイテム10個で革を作成できる。"
+#: 228378404-0-812
+msgctxt "228378404-0-812"
+msgid "Ten of these items can be refined to make jute."
+msgstr "このアイテム10個で黄麻が作成できる。"
 
-#: 242841733-0-23095
-msgctxt "242841733-0-23095"
-msgid "leather scraps"
-msgstr "革の切れ端"
+#: 242841733-0-812
+msgctxt "242841733-0-812"
+msgid "raw jute"
+msgstr "未加工の黄麻"
+
+#: 228378404-0-33219
+msgctxt "228378404-0-33219"
+msgid "Ten of these items can be refined to make silverweave."
+msgstr "このアイテム10個でシルバーウィーブが作成できる。"
+
+#: 242841733-0-33219
+msgctxt "242841733-0-33219"
+msgid "raw silverweed"
+msgstr "未加工のシルバーウィード"
+
+#: 228378404-0-4448
+msgctxt "228378404-0-4448"
+msgid "Ten of these items can be refined to make hide."
+msgstr "このアイテム10個で皮が作成される。"
+
+#: 242841733-0-4448
+msgctxt "242841733-0-4448"
+msgid "hide scraps"
+msgstr "皮の切れ端"
+
+#: 228378404-0-33217
+msgctxt "228378404-0-33217"
+msgid "Ten of these items can be refined to make kresh fiber."
+msgstr "このアイテム10個でクレッシュ繊維が作成できる。"
+
+#: 242841733-0-33217
+msgctxt "242841733-0-33217"
+msgid "raw Kreshweed"
+msgstr "未加工のクレッシュ草"
+
+#: 228378404-0-33218
+msgctxt "228378404-0-33218"
+msgid "Ten of these items can be refined to make ironthread."
+msgstr "このアイテム10個でアイアンスレッドが作成できる。"
+
+#: 242841733-0-33218
+msgctxt "242841733-0-33218"
+msgid "raw ironweed"
+msgstr "未加工のアイアンウィード"

@@ -11,6 +11,66 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-45259
+msgctxt "132143172-0-45259"
+msgid "Increases your Max Magicka by <<1>>."
+msgstr "最大マジカが<<1>>上昇する。"
+
+#: 198758357-0-45259
+msgctxt "198758357-0-45259"
+msgid "Gift of Magnus"
+msgstr "マグナスの贈物"
+
+#: 132143172-0-35995
+msgctxt "132143172-0-35995"
+msgid "Increases your Max Magicka by <<1>>."
+msgstr "最大マジカが<<1>>上昇する。"
+
+#: 198758357-0-35995
+msgctxt "198758357-0-35995"
+msgid "Gift of Magnus"
+msgstr "マグナスの贈物"
+
+#: 132143172-0-36247
+msgctxt "132143172-0-36247"
+msgid "Increases your experience gain with the Light Armor skill line by |cffffff15|r%.\n\nIncreases your Alliance Points gained by <<1>>."
+msgstr "軽装鎧スキルラインの経験値獲得量が|cffffff15|r増加する。\r\n\r\n獲得する同盟ポイントが<<1>>増加する。"
+
+#: 198758357-0-36247
+msgctxt "198758357-0-36247"
+msgid "Opportunist"
+msgstr "風見鶏"
+
+#: 132143172-0-45262
+msgctxt "132143172-0-45262"
+msgid "Increases your Spell Resistance by <<1>>.  This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by <<2>>."
+msgstr "呪文耐性を<<1>>上昇させる。この効果は炎上、冷気、脳振とうを受けていた場合、倍になる。\r\n\r\nマジカ再生を<<2>>上昇させる。"
+
+#: 198758357-0-45262
+msgctxt "198758357-0-45262"
+msgid "Spell Attunement"
+msgstr "呪文適合"
+
+#: 132143172-0-36266
+msgctxt "132143172-0-36266"
+msgid "Increases your Spell Resistance by <<1>>.  This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by <<2>>."
+msgstr "呪文耐性を<<1>>上昇させる。この効果は炎上、冷気、脳振とうを受けていた場合、倍になる。\r\n\r\nマジカ再生を<<2>>上昇させる。"
+
+#: 198758357-0-36266
+msgctxt "198758357-0-36266"
+msgid "Spell Attunement"
+msgstr "呪文適合"
+
+#: 132143172-0-45261
+msgctxt "132143172-0-45261"
+msgid "Increases your Spell Resistance by <<1>>.  This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by <<2>>."
+msgstr "呪文耐性を<<1>>上昇させる。この効果は炎上、冷気、脳振とうを受けていた場合、倍になる。\r\n\r\nマジカ再生を<<2>>上昇させる。"
+
+#: 198758357-0-45261
+msgctxt "198758357-0-45261"
+msgid "Spell Attunement"
+msgstr "呪文適合"
+
 #: 132143172-0-45264
 msgctxt "132143172-0-45264"
 msgid "Reduces the Magicka cost of your abilities by <<1>>."
@@ -31,46 +91,6 @@ msgctxt "198758357-0-45263"
 msgid "Magicka Mastery"
 msgstr "マジカ熟達"
 
-#: 132143172-0-45262
-msgctxt "132143172-0-45262"
-msgid "Increases your Spell Resistance by <<1>>.  This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by <<2>>."
-msgstr "呪文耐性を<<1>>上昇させる。この効果は炎上、冷気、脳振とうを受けていた場合、倍になる。\r\n\r\nマジカ再生を<<2>>上昇させる。"
-
-#: 198758357-0-45262
-msgctxt "198758357-0-45262"
-msgid "Spell Attunement"
-msgstr "呪文適合"
-
-#: 132143172-0-45261
-msgctxt "132143172-0-45261"
-msgid "Increases your Spell Resistance by <<1>>.  This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by <<2>>."
-msgstr "呪文耐性を<<1>>上昇させる。この効果は炎上、冷気、脳振とうを受けていた場合、倍になる。\r\n\r\nマジカ再生を<<2>>上昇させる。"
-
-#: 198758357-0-45261
-msgctxt "198758357-0-45261"
-msgid "Spell Attunement"
-msgstr "呪文適合"
-
-#: 132143172-0-45260
-msgctxt "132143172-0-45260"
-msgid "Increases your Max Magicka by <<1>>."
-msgstr "最大マジカが<<1>>上昇する。"
-
-#: 198758357-0-45260
-msgctxt "198758357-0-45260"
-msgid "Gift of Magnus"
-msgstr "マグナスの贈物"
-
-#: 132143172-0-45259
-msgctxt "132143172-0-45259"
-msgid "Increases your Max Magicka by <<1>>."
-msgstr "最大マジカが<<1>>上昇する。"
-
-#: 198758357-0-45259
-msgctxt "198758357-0-45259"
-msgid "Gift of Magnus"
-msgstr "マグナスの贈物"
-
 #: 132143172-0-36303
 msgctxt "132143172-0-36303"
 msgid "Reduces the Magicka cost of your abilities by <<1>>."
@@ -81,32 +101,12 @@ msgctxt "198758357-0-36303"
 msgid "Magicka Mastery"
 msgstr "マジカ熟達"
 
-#: 132143172-0-36266
-msgctxt "132143172-0-36266"
-msgid "Increases your Spell Resistance by <<1>>.  This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by <<2>>."
-msgstr "呪文耐性を<<1>>上昇させる。この効果は炎上、冷気、脳振とうを受けていた場合、倍になる。\r\n\r\nマジカ再生を<<2>>上昇させる。"
-
-#: 198758357-0-36266
-msgctxt "198758357-0-36266"
-msgid "Spell Attunement"
-msgstr "呪文適合"
-
-#: 132143172-0-36247
-msgctxt "132143172-0-36247"
-msgid "Increases your experience gain with the Light Armor skill line by |cffffff15|r%.\n\nIncreases your Alliance Points gained by <<1>>."
-msgstr "軽装鎧スキルラインの経験値獲得量が|cffffff15|r増加する。\r\n\r\n獲得する同盟ポイントが<<1>>増加する。"
-
-#: 198758357-0-36247
-msgctxt "198758357-0-36247"
-msgid "Opportunist"
-msgstr "風見鶏"
-
-#: 132143172-0-35995
-msgctxt "132143172-0-35995"
+#: 132143172-0-45260
+msgctxt "132143172-0-45260"
 msgid "Increases your Max Magicka by <<1>>."
 msgstr "最大マジカが<<1>>上昇する。"
 
-#: 198758357-0-35995
-msgctxt "198758357-0-35995"
+#: 198758357-0-45260
+msgctxt "198758357-0-45260"
 msgid "Gift of Magnus"
 msgstr "マグナスの贈物"

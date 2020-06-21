@@ -11,14 +11,24 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 116521668-0-13970
-msgctxt "116521668-0-13970"
-msgid "<Pinned to the bounty board is a note from General Thoron:>\n\n""I received word of your success in slaying enemy Necromancers, soldier. Accept this bonus pay. It has been well-earned!"""
+#: 116521668-0-13881
+msgctxt "116521668-0-13881"
+msgid "No tricks this time. One way or the other, I need to settle things with Tu'heiba. Otherwise, I'll never have any peace.\n\nTake this for your trouble, eh? Assuming Tu'heiba doesn't kill me, you should join us for drinks! Thanks again, good looking."
 msgstr ""
 
-#: 232026500-0-13970
-msgctxt "232026500-0-13970"
-msgid "<Claim bounty.>"
+#: 232026500-0-13881
+msgctxt "232026500-0-13881"
+msgid "What's the play, Jakarn?"
+msgstr ""
+
+#: 116521668-0-13683
+msgctxt "116521668-0-13683"
+msgid "Ah, the Akaviri spirit has blessed you. Kiseravi can tell. How else would you have succeeded where Kiseravi has failed?\n\nPlease accept this gift. And the spirit's blessings."
+msgstr ""
+
+#: 232026500-0-13683
+msgctxt "232026500-0-13683"
+msgid "I'm not sure, but here are the relics."
 msgstr ""
 
 #: 116521668-0-13969
@@ -31,6 +41,26 @@ msgctxt "232026500-0-13969"
 msgid "<Claim bounty.>"
 msgstr ""
 
+#: 116521668-0-13848
+msgctxt "116521668-0-13848"
+msgid "Wonderful! Here's a reward for all of your hard work, my valiant friend!\n\nCheck back with me each day. These Dragons won't keep themselves in check."
+msgstr ""
+
+#: 232026500-0-13848
+msgctxt "232026500-0-13848"
+msgid "I defeated the Dragons."
+msgstr ""
+
+#: 116521668-0-13926
+msgctxt "116521668-0-13926"
+msgid "Spotless work, walker! With that overgrown buzzard dealt with, the sugar traders can resume their caravans. Thank Alkosh for that! Old Ri'hirr hates an unsweetened meal.\n\nYou will take this and our thanks, yes? Yes."
+msgstr ""
+
+#: 232026500-0-13926
+msgctxt "232026500-0-13926"
+msgid "I killed Wily Kee'va and set the traders' camels free."
+msgstr ""
+
 #: 116521668-0-13968
 msgctxt "116521668-0-13968"
 msgid "<Nailed to the bounty board is a scrawled note from General Khamagash:>\n\n""When you've killed your quota of enemy Necromancers, take your reward."""
@@ -39,6 +69,36 @@ msgstr ""
 #: 232026500-0-13968
 msgctxt "232026500-0-13968"
 msgid "<Claim bounty.>"
+msgstr ""
+
+#: 116521668-0-13924
+msgctxt "116521668-0-13924"
+msgid "Ha! Well done, five-claw. Well done! Old Ri'hirr only hopes she stays dead.\n\nThank you for this. Here is your reward. Well earned, yes? Yes."
+msgstr ""
+
+#: 232026500-0-13924
+msgctxt "232026500-0-13924"
+msgid "I defeated <<1>>. And here are the mementos you asked for."
+msgstr ""
+
+#: 116521668-0-13808
+msgctxt "116521668-0-13808"
+msgid "Excellent! Please, speak to my associates and they'll help you get started.\n\nHere's a small retainer to keep your interest. Generous, yes? Ha! Good hunting, walker."
+msgstr ""
+
+#: 232026500-0-13808
+msgctxt "232026500-0-13808"
+msgid "Yes, I'm ready to take on some of these tasks."
+msgstr ""
+
+#: 116521668-0-13640
+msgctxt "116521668-0-13640"
+msgid "Yes. This one will stay. But I will not lie about what happened here. Silhu-jo made an impossible choice, but the people deserve to hear the truth.\n\nThank you, walker. We only just met, but you are the closest thing to family that Vazbi has left."
+msgstr ""
+
+#: 232026500-0-13640
+msgctxt "232026500-0-13640"
+msgid "You should stay. Your dream of being a healer still means something. History can't change that."
 msgstr ""
 
 #: 116521668-0-13960
@@ -51,34 +111,84 @@ msgctxt "232026500-0-13960"
 msgid "I was able to recover what they took from you."
 msgstr ""
 
-#: 116521668-0-13949
-msgctxt "116521668-0-13949"
-msgid "Excellent work! Knowing you were on the job eased my mind a little.\n\nCome back tomorrow. I'll have more Dragons to hunt for you."
+#: 116521668-0-13641
+msgctxt "116521668-0-13641"
+msgid "Yes, you are right. Silhu-jo was a good Khajiit, but I cannot live within these walls knowing that we denied their security to people in desperate need.\n\nThank you, walker. We only just met, but you are the closest thing to family that I have left."
 msgstr ""
 
-#: 232026500-0-13949
-msgctxt "232026500-0-13949"
-msgid "I defeated the Dragons."
+#: 232026500-0-13641
+msgctxt "232026500-0-13641"
+msgid "You should leave. You can't let this place or its failings define you."
 msgstr ""
 
-#: 116521668-0-13944
-msgctxt "116521668-0-13944"
-msgid "Moons be praised! Necromancers should be scrawny and clever, or musclebound and stupid. Musclebound and clever is just unfair, yes?\n\nHere is your reward. Many thanks, five-claw."
+#: 116521668-0-13888
+msgctxt "116521668-0-13888"
+msgid "Then the King of Thieves was watching over you! Let's see, let's see … ah, yes this will do. Yes, yes, yes. Fine offerings for Rajhin.\n\nDo not forget yourself when dividing spoils or Rajhin will think you a fool. Good thieves always take their cut."
 msgstr ""
 
-#: 232026500-0-13944
-msgctxt "232026500-0-13944"
-msgid "I killed Thannar and settled the restless dead."
+#: 232026500-0-13888
+msgctxt "232026500-0-13888"
+msgid "I acquired the offerings you requested."
 msgstr ""
 
-#: 116521668-0-13940
-msgctxt "116521668-0-13940"
-msgid "Well done, five-claw! Now, Elsweyr's merchants finally have a chance to breathe!\n\nYou will take this for your trouble, yes? Strong will and good hunting."
+#: 116521668-0-13647
+msgctxt "116521668-0-13647"
+msgid "Gharesh-ri has already gone to the Moon Gate of Anequina to take charge of the forces there. We will join him shortly.\n\nThank you for helping with my attunement, five-claw. With you and my ancestors beside me, we will find a way to stop the Dragons."
 msgstr ""
 
-#: 232026500-0-13940
-msgctxt "232026500-0-13940"
-msgid "I killed Akumjhargo and Zav'i and destroyed their contraband."
+#: 232026500-0-13647
+msgctxt "232026500-0-13647"
+msgid "What do we do now, Khamira?"
+msgstr ""
+
+#: 116521668-0-13721
+msgctxt "116521668-0-13721"
+msgid "Ah, yes. Mother's docile screeching can lull Raz to sleep.\n\nNow, this one suspects that Mother would try to cheat you if you asked her for payment. So here, a reward from Raz's own pockets. Aren't you a lucky one?"
+msgstr ""
+
+#: 232026500-0-13721
+msgctxt "232026500-0-13721"
+msgid "Now you can get back to relaxing."
+msgstr ""
+
+#: 116521668-0-13843
+msgctxt "116521668-0-13843"
+msgid "Yes, Nisuzi can smell your victory from here! Sulfur, oil, and buckets of Daedra blood, yes?\n\nThis one cannot thank you enough, walker. A Baandari who cannot travel by night is no true Baandari. Please, take this, with our thanks."
+msgstr ""
+
+#: 232026500-0-13843
+msgctxt "232026500-0-13843"
+msgid "I disrupted the Daedric summoning rituals."
+msgstr ""
+
+#: 116521668-0-13722
+msgctxt "116521668-0-13722"
+msgid "A senche tiger? That's remarkable! If he managed that, a frog should present no challenge at all!\n\nThank you so much, walker. When I publish about this, I'll be sure to mention your contribution. Ha! I can't wait to see the look on Caldathir's face!"
+msgstr ""
+
+#: 232026500-0-13722
+msgctxt "232026500-0-13722"
+msgid "Yes, but his work didn't turn out well. He resurrected his pet senche, and things went very poorly."
+msgstr ""
+
+#: 116521668-0-13645
+msgctxt "116521668-0-13645"
+msgid "The war is far from over. Even a queen needs to consult with such learned personages as Gharesh-ri and Abnur Tharn every now and then.\n\nTake this in recognition of your efforts on our behalf, five-claw. Then talk to Gharesh-ri. I need … to think."
+msgstr ""
+
+#: 232026500-0-13645
+msgctxt "232026500-0-13645"
+msgid "I'm with you. Do you have a plan for stopping the Dragons?"
+msgstr ""
+
+#: 116521668-0-13693
+msgctxt "116521668-0-13693"
+msgid "Kra! I never should have given you that head start! Now what will Sarazi hunt? Birds and chipmunks?\n\nWell, a wager is a wager, yes? Here. Spend it on some decent food, walker. Bulging muscles and a shiny coat start at the dinner table! Farewell."
+msgstr ""
+
+#: 232026500-0-13693
+msgctxt "232026500-0-13693"
+msgid "I killed the three hunters and the gryphon."
 msgstr ""
 
 #: 116521668-0-13937
@@ -101,146 +211,6 @@ msgctxt "232026500-0-13934"
 msgid "I killed Zalsheem and returned the urns."
 msgstr ""
 
-#: 116521668-0-13926
-msgctxt "116521668-0-13926"
-msgid "Spotless work, walker! With that overgrown buzzard dealt with, the sugar traders can resume their caravans. Thank Alkosh for that! Old Ri'hirr hates an unsweetened meal.\n\nYou will take this and our thanks, yes? Yes."
-msgstr ""
-
-#: 232026500-0-13926
-msgctxt "232026500-0-13926"
-msgid "I killed Wily Kee'va and set the traders' camels free."
-msgstr ""
-
-#: 116521668-0-13924
-msgctxt "116521668-0-13924"
-msgid "Ha! Well done, five-claw. Well done! Old Ri'hirr only hopes she stays dead.\n\nThank you for this. Here is your reward. Well earned, yes? Yes."
-msgstr ""
-
-#: 232026500-0-13924
-msgctxt "232026500-0-13924"
-msgid "I defeated <<1>>. And here are the mementos you asked for."
-msgstr ""
-
-#: 116521668-0-13919
-msgctxt "116521668-0-13919"
-msgid "My master is a connoisseur of cursed collectables. Wine. Jewelry. Paintings. People.\n\nHere is your reward. If you find more cursed items, please bring them here. I still hope that if his collection grows large enough, he'll no longer need me in it."
-msgstr ""
-
-#: 232026500-0-13919
-msgctxt "232026500-0-13919"
-msgid "Is there a reward for returning them?"
-msgstr ""
-
-#: 116521668-0-13913
-msgctxt "116521668-0-13913"
-msgid "Ah, Sanzagh. We established this farm together, but things got strange when Hadamnargo bought his horse. I think he was jealous, but I never felt comfortable riding on something that talked back.\n\nPlease accept this gift for everything you've done."
-msgstr ""
-
-#: 232026500-0-13913
-msgctxt "232026500-0-13913"
-msgid "I met Sanzagh. He told me to tell you that these fields belong to him."
-msgstr ""
-
-#: 116521668-0-13907
-msgctxt "116521668-0-13907"
-msgid "Ah! Confusion and guilt are my bread and butter! Madness is my cheese! Moral fortitude is my melon-chevre salad! If I wasn't immortal, I would be starving right now!\n\nWe're done here! Get out! Happy head exploding!"
-msgstr ""
-
-#: 232026500-0-13907
-msgctxt "232026500-0-13907"
-msgid "I don't want to trade my soul for power."
-msgstr ""
-
-#: 116521668-0-13902
-msgctxt "116521668-0-13902"
-msgid "A collar and bell made to fit Rigurt's rippling neck? Rigurt will jingle it with pride!\n\nPlease accept this gift, friend. Rigurt could not have made peace between the Nords and Khajiit without you."
-msgstr ""
-
-#: 232026500-0-13902
-msgctxt "232026500-0-13902"
-msgid "Lady Izza awarded you with an honorary collar and bell."
-msgstr ""
-
-#: 116521668-0-13888
-msgctxt "116521668-0-13888"
-msgid "Then the King of Thieves was watching over you! Let's see, let's see … ah, yes this will do. Yes, yes, yes. Fine offerings for Rajhin.\n\nDo not forget yourself when dividing spoils or Rajhin will think you a fool. Good thieves always take their cut."
-msgstr ""
-
-#: 232026500-0-13888
-msgctxt "232026500-0-13888"
-msgid "I acquired the offerings you requested."
-msgstr ""
-
-#: 116521668-0-13881
-msgctxt "116521668-0-13881"
-msgid "No tricks this time. One way or the other, I need to settle things with Tu'heiba. Otherwise, I'll never have any peace.\n\nTake this for your trouble, eh? Assuming Tu'heiba doesn't kill me, you should join us for drinks! Thanks again, good looking."
-msgstr ""
-
-#: 232026500-0-13881
-msgctxt "232026500-0-13881"
-msgid "What's the play, Jakarn?"
-msgstr ""
-
-#: 116521668-0-13879
-msgctxt "116521668-0-13879"
-msgid "The keg must have dropped out of our wagon. Which is a little odd, given that my husband should have been sitting right by it.\n\nAh, well, no harm done. And here's a reward for your troubles. Not sure what we would do if we lost this beauty!"
-msgstr ""
-
-#: 232026500-0-13879
-msgctxt "232026500-0-13879"
-msgid "Seems odd that such a large keg went missing."
-msgstr ""
-
-#: 116521668-0-13877
-msgctxt "116521668-0-13877"
-msgid "Ah, yes! Nisuzi can smell its citrusy aroma from here! Finally, we can stop sipping that pine-needle swill my uncle makes. Thank Baan Dar.\n\nAnd thank you, walker! Take this. You earned it, yes?"
-msgstr ""
-
-#: 232026500-0-13877
-msgctxt "232026500-0-13877"
-msgid "I found your tea."
-msgstr ""
-
-#: 116521668-0-13871
-msgctxt "116521668-0-13871"
-msgid "This is fabulous news! Nisuzi thinks it may take some time for the last of the minotaurs to move on, but the snake-men's treasures are not going anywhere!\n\nPlease, take this, walker. And the blessings of a grateful clan!"
-msgstr ""
-
-#: 232026500-0-13871
-msgctxt "232026500-0-13871"
-msgid "I dispelled the magic on the relics."
-msgstr ""
-
-#: 116521668-0-13869
-msgctxt "116521668-0-13869"
-msgid "Yes, Nisuzi smells the blood on you. If this does not get the Hungry Cat's attention, I do not know what will!\n\nYou have our gratitude, walker. Khenarthi's breezes keep you safe!"
-msgstr ""
-
-#: 232026500-0-13869
-msgctxt "232026500-0-13869"
-msgid "I honored Hircine, as requested."
-msgstr ""
-
-#: 116521668-0-13867
-msgctxt "116521668-0-13867"
-msgid "Ah, well done, walker! Hand them to me, quickly. Holding these too long can make you dizzy. Nisuzi found out the hard way when she stole … borrowed them from her Aunt Sihada.\n\nNow, your reward, as promised! Walk with Baan Dar, friend!"
-msgstr ""
-
-#: 232026500-0-13867
-msgctxt "232026500-0-13867"
-msgid "I found your trinkets."
-msgstr ""
-
-#: 116521668-0-13865
-msgctxt "116521668-0-13865"
-msgid "Bright Moons! Our friends in the adeptoriums will drop their sugar-rolls when they see these.\n\nNow, a good deed deserves good pay, yes? Here you go, walker. Come back soon!"
-msgstr ""
-
-#: 232026500-0-13865
-msgctxt "232026500-0-13865"
-msgid "I collected the ancient scrolls."
-msgstr ""
-
 #: 116521668-0-13857
 msgctxt "116521668-0-13857"
 msgid "Would a fool live in constant sickness to prove his devotion? Would he travel Tamriel with an idiot in a hopeless attempt to convince others to do the same? It sounds worse when I say it out loud ….\n\nIn any case, I owe you. Please accept this gift."
@@ -249,346 +219,6 @@ msgstr ""
 #: 232026500-0-13857
 msgctxt "232026500-0-13857"
 msgid "Only fools follow Peryite."
-msgstr ""
-
-#: 116521668-0-13850
-msgctxt "116521668-0-13850"
-msgid "Fantastic! Let me know when you're ready to become an official follower. All you need to do is constantly praise Peryite and contract a terrible illness. I'll be more than happy to cough on you.\n\nFor now, please accept this gift."
-msgstr ""
-
-#: 232026500-0-13850
-msgctxt "232026500-0-13850"
-msgid "Peryite is powerful."
-msgstr ""
-
-#: 116521668-0-13848
-msgctxt "116521668-0-13848"
-msgid "Wonderful! Here's a reward for all of your hard work, my valiant friend!\n\nCheck back with me each day. These Dragons won't keep themselves in check."
-msgstr ""
-
-#: 232026500-0-13848
-msgctxt "232026500-0-13848"
-msgid "I defeated the Dragons."
-msgstr ""
-
-#: 116521668-0-13843
-msgctxt "116521668-0-13843"
-msgid "Yes, Nisuzi can smell your victory from here! Sulfur, oil, and buckets of Daedra blood, yes?\n\nThis one cannot thank you enough, walker. A Baandari who cannot travel by night is no true Baandari. Please, take this, with our thanks."
-msgstr ""
-
-#: 232026500-0-13843
-msgctxt "232026500-0-13843"
-msgid "I disrupted the Daedric summoning rituals."
-msgstr ""
-
-#: 116521668-0-13828
-msgctxt "116521668-0-13828"
-msgid "The old ghost was royalty? If Saviwa had that treasure, he would have never had to work a day in his life. Oh, well. Saviwa will find another way to be lazy.\n\nTake this for your efforts. It's no royal treasure, but it's the best Saviwa has to give."
-msgstr ""
-
-#: 232026500-0-13828
-msgctxt "232026500-0-13828"
-msgid "Jora-ri is in the royal tomb. He would have given you treasure if you had brought the urn yourself."
-msgstr ""
-
-#: 116521668-0-13825
-msgctxt "116521668-0-13825"
-msgid "Then present yourself to our bishop, Azin-jo. With his blessing, you may proceed into the temple grounds and have your audience with the Divine."
-msgstr ""
-
-#: 232026500-0-13825
-msgctxt "232026500-0-13825"
-msgid "I would like to prove myself."
-msgstr ""
-
-#: 116521668-0-13824
-msgctxt "116521668-0-13824"
-msgid "The golden liar's tongue. Ensuring it never again speaks its blasphemy is a fitting tribute to Alkosh! We will keep it as proof of your great deed, and the fate of those who would profane our worship of the Great Cat!\n\nTake this with our blessing."
-msgstr ""
-
-#: 232026500-0-13824
-msgctxt "232026500-0-13824"
-msgid "I took this trophy from the false Alkosh. I thought you should have it."
-msgstr ""
-
-#: 116521668-0-13823
-msgctxt "116521668-0-13823"
-msgid "Teeth from the great blasphemer's mouth. We will keep them as reminders of the victory you won today in the name of the Great Cat.\n\nWe honor this great deed done in Alkosh's name! Take this with our gratitude."
-msgstr ""
-
-#: 232026500-0-13823
-msgctxt "232026500-0-13823"
-msgid "I took this trophy from the false Alkosh. I thought you should have it."
-msgstr ""
-
-#: 116521668-0-13822
-msgctxt "116521668-0-13822"
-msgid "Teeth from the great blasphemer's mouth. We will keep them as reminders of the victory you won today in the name of the Great Cat.\n\nThis temple will honor you and this day forever more."
-msgstr ""
-
-#: 232026500-0-13822
-msgctxt "232026500-0-13822"
-msgid "I took this trophy from the false Alkosh. I thought you should have it."
-msgstr ""
-
-#: 116521668-0-13821
-msgctxt "116521668-0-13821"
-msgid "Only because Alkosh sent a miracle to set things right. You blessed champions cast down the false gods with such vengeance that this one wonders if the Dragon King of Cats did not strike the blows himself!\n\nWe offer you all the thanks we have."
-msgstr ""
-
-#: 232026500-0-13821
-msgctxt "232026500-0-13821"
-msgid "You saw through their deception eventually."
-msgstr ""
-
-#: 116521668-0-13820
-msgctxt "116521668-0-13820"
-msgid "This one would not have seen if he had not been guided by wiser walkers. You have the bravery and heart of the old heroes who fought the White Snake on this mountain. Alkosh smiles on you, and so do we all. Take these offerings for your true faith!"
-msgstr ""
-
-#: 232026500-0-13820
-msgctxt "232026500-0-13820"
-msgid "You saw through their deception eventually."
-msgstr ""
-
-#: 116521668-0-13819
-msgctxt "116521668-0-13819"
-msgid "Only through your works and your devotion. Were it not for you, this one would still blindly follow a false god.\n\nAzin-jo is not fit to give you Alkosh's blessings, but they are all he has to offer. May the Great Cat keep your path true."
-msgstr ""
-
-#: 232026500-0-13819
-msgctxt "232026500-0-13819"
-msgid "You saw through their deception eventually."
-msgstr ""
-
-#: 116521668-0-13808
-msgctxt "116521668-0-13808"
-msgid "Excellent! Please, speak to my associates and they'll help you get started.\n\nHere's a small retainer to keep your interest. Generous, yes? Ha! Good hunting, walker."
-msgstr ""
-
-#: 232026500-0-13808
-msgctxt "232026500-0-13808"
-msgid "Yes, I'm ready to take on some of these tasks."
-msgstr ""
-
-#: 116521668-0-13790
-msgctxt "116521668-0-13790"
-msgid "As promised, your reward. \n\nWe appreciate your help. Here's a little something for the effort."
-msgstr ""
-
-#: 232026500-0-13790
-msgctxt "232026500-0-13790"
-msgid "I found the lost instrument and recovered the stolen money."
-msgstr ""
-
-#: 116521668-0-13785
-msgctxt "116521668-0-13785"
-msgid "For now, recover your strength and prepare yourself. Euraxia's forces will arrive soon and we'll need you ready for the battle to come.\n\nAnd here, take this. Gharesh-ri keeps handing me pouches, but I have little use for Khajiiti gold."
-msgstr ""
-
-#: 232026500-0-13785
-msgctxt "232026500-0-13785"
-msgid "What do you need me to do?"
-msgstr ""
-
-#: 116521668-0-13772
-msgctxt "116521668-0-13772"
-msgid "A parley? I may not like her, but we are family. Besides, it would give the Khajiit time to regroup. You're beginning to think like a Tharn, my friend.\n\nHere, take this. Gharesh-ri gave it to me, but I refuse to accept payment for my services."
-msgstr ""
-
-#: 232026500-0-13772
-msgctxt "232026500-0-13772"
-msgid "Why not try that? Let's go talk to your half-sister in Rimmen?"
-msgstr ""
-
-#: 116521668-0-13746
-msgctxt "116521668-0-13746"
-msgid "It is not for her to decide. If Khajiit lost their faith in her, she would not be surprised. This one will beg forgiveness for her failings and accept the will of her clowder. She was too reliant on her gifts and a leader must be more than a prophet."
-msgstr ""
-
-#: 232026500-0-13746
-msgctxt "232026500-0-13746"
-msgid "Will you remain as the Moon-Bishop?"
-msgstr ""
-
-#: 116521668-0-13731
-msgctxt "116521668-0-13731"
-msgid "You appeared when Elsweyr needed you most. In our most desperate time of troubles, you helped restore our nation. You will always have a place here, my friend.\n\nAnd I want you to accept the greatest award I can offer. I name you Champion of Anequina!"
-msgstr ""
-
-#: 232026500-0-13731
-msgctxt "232026500-0-13731"
-msgid "Another honor?"
-msgstr ""
-
-#: 116521668-0-13722
-msgctxt "116521668-0-13722"
-msgid "A senche tiger? That's remarkable! If he managed that, a frog should present no challenge at all!\n\nThank you so much, walker. When I publish about this, I'll be sure to mention your contribution. Ha! I can't wait to see the look on Caldathir's face!"
-msgstr ""
-
-#: 232026500-0-13722
-msgctxt "232026500-0-13722"
-msgid "Yes, but his work didn't turn out well. He resurrected his pet senche, and things went very poorly."
-msgstr ""
-
-#: 116521668-0-13721
-msgctxt "116521668-0-13721"
-msgid "Ah, yes. Mother's docile screeching can lull Raz to sleep.\n\nNow, this one suspects that Mother would try to cheat you if you asked her for payment. So here, a reward from Raz's own pockets. Aren't you a lucky one?"
-msgstr ""
-
-#: 232026500-0-13721
-msgctxt "232026500-0-13721"
-msgid "Now you can get back to relaxing."
-msgstr ""
-
-#: 116521668-0-13714
-msgctxt "116521668-0-13714"
-msgid "I think I'll stay here a while. The adepts of the Hidden Moon still have a great deal to teach us, it seems.\n\nAs for you, the Moonlight Blade remains in your care. Wield it justly, and never forget what we accomplished here. Azura guide you, friend."
-msgstr ""
-
-#: 232026500-0-13714
-msgctxt "232026500-0-13714"
-msgid "So, what happens now?"
-msgstr ""
-
-#: 116521668-0-13713
-msgctxt "116521668-0-13713"
-msgid "The Moonlight Blade, eh? And I assume this spirit bound himself to the sword somehow? Fascinating.\n\nWith this blade, and a wise spirit guiding us, we finally have a real chance at defeating Arum-Khal. Well done, my friend."
-msgstr ""
-
-#: 232026500-0-13713
-msgctxt "232026500-0-13713"
-msgid "Good. We can destroy them, and Arum-Khal, with this weapon—the Moonlight Blade."
-msgstr ""
-
-#: 116521668-0-13712
-msgctxt "116521668-0-13712"
-msgid "Whatever wards the disciples of this temple put in place to keep Arum-Khal bound are failing, and it's unlikely we'll find the means to mend them. \n\nWe'll have to deal with this threat head on. For that, I need your help."
-msgstr ""
-
-#: 232026500-0-13712
-msgctxt "232026500-0-13712"
-msgid "What should we do now?"
-msgstr ""
-
-#: 116521668-0-13711
-msgctxt "116521668-0-13711"
-msgid "And only more to come, this one fears.\n\nBefore you leave, you should speak to Zamarak. It seems that he's also decided to leave us. Perhaps he can help guide you to your next location."
-msgstr ""
-
-#: 232026500-0-13711
-msgctxt "232026500-0-13711"
-msgid "Elsweyr certainly seems to have its share of troubles."
-msgstr ""
-
-#: 116521668-0-13710
-msgctxt "116521668-0-13710"
-msgid "Well, I suspect his involvement had much more to do with you than the mural itself.\n\nFeel free to visit the House of Histories anytime you wish, free of charge. And here, a gift for your many troubles."
-msgstr ""
-
-#: 232026500-0-13710
-msgctxt "232026500-0-13710"
-msgid "Hopefully, Rajhin won't bother you any further."
-msgstr ""
-
-#: 116521668-0-13709
-msgctxt "116521668-0-13709"
-msgid "Rajhin's Shadow? I … I'll be honest. That's a lot to take in. But after all you've done for us, how can I not offer you the benefit of the doubt? \n\nFeel free to place any mural pieces that you find. And here, something for your troubles."
-msgstr ""
-
-#: 232026500-0-13709
-msgctxt "232026500-0-13709"
-msgid "Rajhin's Shadow stole the pieces and gave me a book of riddles to find them all."
-msgstr ""
-
-#: 116521668-0-13701
-msgctxt "116521668-0-13701"
-msgid "Then you have this one's gratitude.\n\nAnd the gratitude of Azurah as well, it seems. Just as Mazdurr was leaving, he happened to find something of value. Take it as your well earned reward."
-msgstr ""
-
-#: 232026500-0-13701
-msgctxt "232026500-0-13701"
-msgid "I recovered your amulet of Azurah."
-msgstr ""
-
-#: 116521668-0-13700
-msgctxt "116521668-0-13700"
-msgid "There's nothing left for me here. We couldn't save my clan from doom, but I am grateful for all you've done.\n\nAs are the caravanners. They've scrounged this up, as thanks."
-msgstr ""
-
-#: 232026500-0-13700
-msgctxt "232026500-0-13700"
-msgid "This is goodbye then."
-msgstr ""
-
-#: 116521668-0-13699
-msgctxt "116521668-0-13699"
-msgid "I cannot be named queen without the Mane's blessing. That, however, is my worry.\n\nFor now, you should rest. We must honor our fallen and learn the fate of our troops at the Moon Gate. And after that, we will celebrate a new dawn for Elsweyr."
-msgstr ""
-
-#: 232026500-0-13699
-msgctxt "232026500-0-13699"
-msgid "Why did the Mane send an envoy?"
-msgstr ""
-
-#: 116521668-0-13697
-msgctxt "116521668-0-13697"
-msgid "Ah, indeed you do! The Gorger of Glenumbra, captured once more! Its bestial intellect swayed by the promise of grisly table scraps!\n\nZiss'vo, could you work with me here? It's part of the mystique. Just take your gold and act astounded, all right?"
-msgstr ""
-
-#: 232026500-0-13697
-msgctxt "232026500-0-13697"
-msgid "Right …. I have your dog."
-msgstr ""
-
-#: 116521668-0-13693
-msgctxt "116521668-0-13693"
-msgid "Kra! I never should have given you that head start! Now what will Sarazi hunt? Birds and chipmunks?\n\nWell, a wager is a wager, yes? Here. Spend it on some decent food, walker. Bulging muscles and a shiny coat start at the dinner table! Farewell."
-msgstr ""
-
-#: 232026500-0-13693
-msgctxt "232026500-0-13693"
-msgid "I killed the three hunters and the gryphon."
-msgstr ""
-
-#: 116521668-0-13683
-msgctxt "116521668-0-13683"
-msgid "Ah, the Akaviri spirit has blessed you. Kiseravi can tell. How else would you have succeeded where Kiseravi has failed?\n\nPlease accept this gift. And the spirit's blessings."
-msgstr ""
-
-#: 232026500-0-13683
-msgctxt "232026500-0-13683"
-msgid "I'm not sure, but here are the relics."
-msgstr ""
-
-#: 116521668-0-13674
-msgctxt "116521668-0-13674"
-msgid "Of course, of course! Your share, as promised. After all, Mizzik would never have been able to solve this investigation without your aid.\n\nPleasure working with you, walker. Do not be a stranger, yes?"
-msgstr ""
-
-#: 232026500-0-13674
-msgctxt "232026500-0-13674"
-msgid "A bonus you're willing to share?"
-msgstr ""
-
-#: 116521668-0-13665
-msgctxt "116521668-0-13665"
-msgid "Now we go our separate ways. Take Tasnasi's advice: leave the Stitches before it falls apart completely. \n\nThis one has no great sum of wealth, but she owes you something for saving her skin. Unlike most in these parts, Tasnasi remembers her friends."
-msgstr ""
-
-#: 232026500-0-13665
-msgctxt "232026500-0-13665"
-msgid "What happens now?"
-msgstr ""
-
-#: 116521668-0-13664
-msgctxt "116521668-0-13664"
-msgid "Now Tasnasi is home and you enjoy her hospitality. Raise a mug, kick up your feet, and count your coin.\n\nThere is much to be done to fix the damage Khasda did, but that is for Tasnasi to worry about. Your work is done, even if hers is just beginning."
-msgstr ""
-
-#: 232026500-0-13664
-msgctxt "232026500-0-13664"
-msgid "What happens now?"
 msgstr ""
 
 #: 116521668-0-13659
@@ -601,74 +231,254 @@ msgctxt "232026500-0-13659"
 msgid "Someone was going to be executed?"
 msgstr ""
 
-#: 116521668-0-13647
-msgctxt "116521668-0-13647"
-msgid "Gharesh-ri has already gone to the Moon Gate of Anequina to take charge of the forces there. We will join him shortly.\n\nThank you for helping with my attunement, five-claw. With you and my ancestors beside me, we will find a way to stop the Dragons."
+#: 116521668-0-13819
+msgctxt "116521668-0-13819"
+msgid "Only through your works and your devotion. Were it not for you, this one would still blindly follow a false god.\n\nAzin-jo is not fit to give you Alkosh's blessings, but they are all he has to offer. May the Great Cat keep your path true."
 msgstr ""
 
-#: 232026500-0-13647
-msgctxt "232026500-0-13647"
-msgid "What do we do now, Khamira?"
+#: 232026500-0-13819
+msgctxt "232026500-0-13819"
+msgid "You saw through their deception eventually."
 msgstr ""
 
-#: 116521668-0-13645
-msgctxt "116521668-0-13645"
-msgid "The war is far from over. Even a queen needs to consult with such learned personages as Gharesh-ri and Abnur Tharn every now and then.\n\nTake this in recognition of your efforts on our behalf, five-claw. Then talk to Gharesh-ri. I need … to think."
+#: 116521668-0-13697
+msgctxt "116521668-0-13697"
+msgid "Ah, indeed you do! The Gorger of Glenumbra, captured once more! Its bestial intellect swayed by the promise of grisly table scraps!\n\nZiss'vo, could you work with me here? It's part of the mystique. Just take your gold and act astounded, all right?"
 msgstr ""
 
-#: 232026500-0-13645
-msgctxt "232026500-0-13645"
-msgid "I'm with you. Do you have a plan for stopping the Dragons?"
+#: 232026500-0-13697
+msgctxt "232026500-0-13697"
+msgid "Right …. I have your dog."
 msgstr ""
 
-#: 116521668-0-13641
-msgctxt "116521668-0-13641"
-msgid "Yes, you are right. Silhu-jo was a good Khajiit, but I cannot live within these walls knowing that we denied their security to people in desperate need.\n\nThank you, walker. We only just met, but you are the closest thing to family that I have left."
+#: 116521668-0-13731
+msgctxt "116521668-0-13731"
+msgid "You appeared when Elsweyr needed you most. In our most desperate time of troubles, you helped restore our nation. You will always have a place here, my friend.\n\nAnd I want you to accept the greatest award I can offer. I name you Champion of Anequina!"
 msgstr ""
 
-#: 232026500-0-13641
-msgctxt "232026500-0-13641"
-msgid "You should leave. You can't let this place or its failings define you."
+#: 232026500-0-13731
+msgctxt "232026500-0-13731"
+msgid "Another honor?"
 msgstr ""
 
-#: 116521668-0-13640
-msgctxt "116521668-0-13640"
-msgid "Yes. This one will stay. But I will not lie about what happened here. Silhu-jo made an impossible choice, but the people deserve to hear the truth.\n\nThank you, walker. We only just met, but you are the closest thing to family that Vazbi has left."
+#: 116521668-0-13970
+msgctxt "116521668-0-13970"
+msgid "<Pinned to the bounty board is a note from General Thoron:>\n\n""I received word of your success in slaying enemy Necromancers, soldier. Accept this bonus pay. It has been well-earned!"""
 msgstr ""
 
-#: 232026500-0-13640
-msgctxt "232026500-0-13640"
-msgid "You should stay. Your dream of being a healer still means something. History can't change that."
+#: 232026500-0-13970
+msgctxt "232026500-0-13970"
+msgid "<Claim bounty.>"
 msgstr ""
 
-#: 116521668-0-13638
-msgctxt "116521668-0-13638"
-msgid "I do not know. I must reflect on this.\n\nStill, I thank you for all that you've done. You saved my companions, found my egg-mother's research, and helped the oasis begin to heal. No small feats to accomplish, traveler-friend."
+#: 116521668-0-13772
+msgctxt "116521668-0-13772"
+msgid "A parley? I may not like her, but we are family. Besides, it would give the Khajiit time to regroup. You're beginning to think like a Tharn, my friend.\n\nHere, take this. Gharesh-ri gave it to me, but I refuse to accept payment for my services."
 msgstr ""
 
-#: 232026500-0-13638
-msgctxt "232026500-0-13638"
-msgid "What will you do then?"
+#: 232026500-0-13772
+msgctxt "232026500-0-13772"
+msgid "Why not try that? Let's go talk to your half-sister in Rimmen?"
 msgstr ""
 
-#: 116521668-0-13636
-msgctxt "116521668-0-13636"
-msgid "They did. Numaia's sweet boy is a little shaken. Hopefully a hearty meal and a nice, long chin scratch will settle his nerves, yes?\n\nYou have this one's deepest thanks, walker. Milksop's too! Say thank you, sweet boy! Go ahead, now. Oh, never mind!"
+#: 116521668-0-13850
+msgctxt "116521668-0-13850"
+msgid "Fantastic! Let me know when you're ready to become an official follower. All you need to do is constantly praise Peryite and contract a terrible illness. I'll be more than happy to cough on you.\n\nFor now, please accept this gift."
 msgstr ""
 
-#: 232026500-0-13636
-msgctxt "232026500-0-13636"
-msgid "I rescued the animals. Did they all make it back safely?"
+#: 232026500-0-13850
+msgctxt "232026500-0-13850"
+msgid "Peryite is powerful."
 msgstr ""
 
-#: 116521668-0-13634
-msgctxt "116521668-0-13634"
-msgid "Stupid Hadaz. Always thought he'd die from something silly, like falling down a privy. I'll let his family know.\n\nAnd this hammer? Scary business, right? I'll deliver it to the Mane's priests. They'll know what to do with it. Thanks again, rhook."
+#: 116521668-0-13699
+msgctxt "116521668-0-13699"
+msgid "I cannot be named queen without the Mane's blessing. That, however, is my worry.\n\nFor now, you should rest. We must honor our fallen and learn the fate of our troops at the Moon Gate. And after that, we will celebrate a new dawn for Elsweyr."
 msgstr ""
 
-#: 232026500-0-13634
-msgctxt "232026500-0-13634"
-msgid "Hadaz didn't make it, but I wrecked the cultists' operation and took their enchanted hammer."
+#: 232026500-0-13699
+msgctxt "232026500-0-13699"
+msgid "Why did the Mane send an envoy?"
+msgstr ""
+
+#: 116521668-0-13824
+msgctxt "116521668-0-13824"
+msgid "The golden liar's tongue. Ensuring it never again speaks its blasphemy is a fitting tribute to Alkosh! We will keep it as proof of your great deed, and the fate of those who would profane our worship of the Great Cat!\n\nTake this with our blessing."
+msgstr ""
+
+#: 232026500-0-13824
+msgctxt "232026500-0-13824"
+msgid "I took this trophy from the false Alkosh. I thought you should have it."
+msgstr ""
+
+#: 116521668-0-13902
+msgctxt "116521668-0-13902"
+msgid "A collar and bell made to fit Rigurt's rippling neck? Rigurt will jingle it with pride!\n\nPlease accept this gift, friend. Rigurt could not have made peace between the Nords and Khajiit without you."
+msgstr ""
+
+#: 232026500-0-13902
+msgctxt "232026500-0-13902"
+msgid "Lady Izza awarded you with an honorary collar and bell."
+msgstr ""
+
+#: 116521668-0-13869
+msgctxt "116521668-0-13869"
+msgid "Yes, Nisuzi smells the blood on you. If this does not get the Hungry Cat's attention, I do not know what will!\n\nYou have our gratitude, walker. Khenarthi's breezes keep you safe!"
+msgstr ""
+
+#: 232026500-0-13869
+msgctxt "232026500-0-13869"
+msgid "I honored Hircine, as requested."
+msgstr ""
+
+#: 116521668-0-13825
+msgctxt "116521668-0-13825"
+msgid "Then present yourself to our bishop, Azin-jo. With his blessing, you may proceed into the temple grounds and have your audience with the Divine."
+msgstr ""
+
+#: 232026500-0-13825
+msgctxt "232026500-0-13825"
+msgid "I would like to prove myself."
+msgstr ""
+
+#: 116521668-0-13907
+msgctxt "116521668-0-13907"
+msgid "Ah! Confusion and guilt are my bread and butter! Madness is my cheese! Moral fortitude is my melon-chevre salad! If I wasn't immortal, I would be starving right now!\n\nWe're done here! Get out! Happy head exploding!"
+msgstr ""
+
+#: 232026500-0-13907
+msgctxt "232026500-0-13907"
+msgid "I don't want to trade my soul for power."
+msgstr ""
+
+#: 116521668-0-13709
+msgctxt "116521668-0-13709"
+msgid "Rajhin's Shadow? I … I'll be honest. That's a lot to take in. But after all you've done for us, how can I not offer you the benefit of the doubt? \n\nFeel free to place any mural pieces that you find. And here, something for your troubles."
+msgstr ""
+
+#: 232026500-0-13709
+msgctxt "232026500-0-13709"
+msgid "Rajhin's Shadow stole the pieces and gave me a book of riddles to find them all."
+msgstr ""
+
+#: 116521668-0-13949
+msgctxt "116521668-0-13949"
+msgid "Excellent work! Knowing you were on the job eased my mind a little.\n\nCome back tomorrow. I'll have more Dragons to hunt for you."
+msgstr ""
+
+#: 232026500-0-13949
+msgctxt "232026500-0-13949"
+msgid "I defeated the Dragons."
+msgstr ""
+
+#: 116521668-0-13828
+msgctxt "116521668-0-13828"
+msgid "The old ghost was royalty? If Saviwa had that treasure, he would have never had to work a day in his life. Oh, well. Saviwa will find another way to be lazy.\n\nTake this for your efforts. It's no royal treasure, but it's the best Saviwa has to give."
+msgstr ""
+
+#: 232026500-0-13828
+msgctxt "232026500-0-13828"
+msgid "Jora-ri is in the royal tomb. He would have given you treasure if you had brought the urn yourself."
+msgstr ""
+
+#: 116521668-0-13785
+msgctxt "116521668-0-13785"
+msgid "For now, recover your strength and prepare yourself. Euraxia's forces will arrive soon and we'll need you ready for the battle to come.\n\nAnd here, take this. Gharesh-ri keeps handing me pouches, but I have little use for Khajiiti gold."
+msgstr ""
+
+#: 232026500-0-13785
+msgctxt "232026500-0-13785"
+msgid "What do you need me to do?"
+msgstr ""
+
+#: 116521668-0-13664
+msgctxt "116521668-0-13664"
+msgid "Now Tasnasi is home and you enjoy her hospitality. Raise a mug, kick up your feet, and count your coin.\n\nThere is much to be done to fix the damage Khasda did, but that is for Tasnasi to worry about. Your work is done, even if hers is just beginning."
+msgstr ""
+
+#: 232026500-0-13664
+msgctxt "232026500-0-13664"
+msgid "What happens now?"
+msgstr ""
+
+#: 116521668-0-13940
+msgctxt "116521668-0-13940"
+msgid "Well done, five-claw! Now, Elsweyr's merchants finally have a chance to breathe!\n\nYou will take this for your trouble, yes? Strong will and good hunting."
+msgstr ""
+
+#: 232026500-0-13940
+msgctxt "232026500-0-13940"
+msgid "I killed Akumjhargo and Zav'i and destroyed their contraband."
+msgstr ""
+
+#: 116521668-0-13665
+msgctxt "116521668-0-13665"
+msgid "Now we go our separate ways. Take Tasnasi's advice: leave the Stitches before it falls apart completely. \n\nThis one has no great sum of wealth, but she owes you something for saving her skin. Unlike most in these parts, Tasnasi remembers her friends."
+msgstr ""
+
+#: 232026500-0-13665
+msgctxt "232026500-0-13665"
+msgid "What happens now?"
+msgstr ""
+
+#: 116521668-0-13822
+msgctxt "116521668-0-13822"
+msgid "Teeth from the great blasphemer's mouth. We will keep them as reminders of the victory you won today in the name of the Great Cat.\n\nThis temple will honor you and this day forever more."
+msgstr ""
+
+#: 232026500-0-13822
+msgctxt "232026500-0-13822"
+msgid "I took this trophy from the false Alkosh. I thought you should have it."
+msgstr ""
+
+#: 116521668-0-13701
+msgctxt "116521668-0-13701"
+msgid "Then you have this one's gratitude.\n\nAnd the gratitude of Azurah as well, it seems. Just as Mazdurr was leaving, he happened to find something of value. Take it as your well earned reward."
+msgstr ""
+
+#: 232026500-0-13701
+msgctxt "232026500-0-13701"
+msgid "I recovered your amulet of Azurah."
+msgstr ""
+
+#: 116521668-0-13944
+msgctxt "116521668-0-13944"
+msgid "Moons be praised! Necromancers should be scrawny and clever, or musclebound and stupid. Musclebound and clever is just unfair, yes?\n\nHere is your reward. Many thanks, five-claw."
+msgstr ""
+
+#: 232026500-0-13944
+msgctxt "232026500-0-13944"
+msgid "I killed Thannar and settled the restless dead."
+msgstr ""
+
+#: 116521668-0-13867
+msgctxt "116521668-0-13867"
+msgid "Ah, well done, walker! Hand them to me, quickly. Holding these too long can make you dizzy. Nisuzi found out the hard way when she stole … borrowed them from her Aunt Sihada.\n\nNow, your reward, as promised! Walk with Baan Dar, friend!"
+msgstr ""
+
+#: 232026500-0-13867
+msgctxt "232026500-0-13867"
+msgid "I found your trinkets."
+msgstr ""
+
+#: 116521668-0-13823
+msgctxt "116521668-0-13823"
+msgid "Teeth from the great blasphemer's mouth. We will keep them as reminders of the victory you won today in the name of the Great Cat.\n\nWe honor this great deed done in Alkosh's name! Take this with our gratitude."
+msgstr ""
+
+#: 232026500-0-13823
+msgctxt "232026500-0-13823"
+msgid "I took this trophy from the false Alkosh. I thought you should have it."
+msgstr ""
+
+#: 116521668-0-13746
+msgctxt "116521668-0-13746"
+msgid "It is not for her to decide. If Khajiit lost their faith in her, she would not be surprised. This one will beg forgiveness for her failings and accept the will of her clowder. She was too reliant on her gifts and a leader must be more than a prophet."
+msgstr ""
+
+#: 232026500-0-13746
+msgctxt "232026500-0-13746"
+msgid "Will you remain as the Moon-Bishop?"
 msgstr ""
 
 #: 116521668-0-13625
@@ -681,6 +491,46 @@ msgctxt "232026500-0-13625"
 msgid "The assassin killed the Dragonguard, but we did acquire the Anequina Dragonhorn."
 msgstr ""
 
+#: 116521668-0-13820
+msgctxt "116521668-0-13820"
+msgid "This one would not have seen if he had not been guided by wiser walkers. You have the bravery and heart of the old heroes who fought the White Snake on this mountain. Alkosh smiles on you, and so do we all. Take these offerings for your true faith!"
+msgstr ""
+
+#: 232026500-0-13820
+msgctxt "232026500-0-13820"
+msgid "You saw through their deception eventually."
+msgstr ""
+
+#: 116521668-0-13865
+msgctxt "116521668-0-13865"
+msgid "Bright Moons! Our friends in the adeptoriums will drop their sugar-rolls when they see these.\n\nNow, a good deed deserves good pay, yes? Here you go, walker. Come back soon!"
+msgstr ""
+
+#: 232026500-0-13865
+msgctxt "232026500-0-13865"
+msgid "I collected the ancient scrolls."
+msgstr ""
+
+#: 116521668-0-13821
+msgctxt "116521668-0-13821"
+msgid "Only because Alkosh sent a miracle to set things right. You blessed champions cast down the false gods with such vengeance that this one wonders if the Dragon King of Cats did not strike the blows himself!\n\nWe offer you all the thanks we have."
+msgstr ""
+
+#: 232026500-0-13821
+msgctxt "232026500-0-13821"
+msgid "You saw through their deception eventually."
+msgstr ""
+
+#: 116521668-0-13700
+msgctxt "116521668-0-13700"
+msgid "There's nothing left for me here. We couldn't save my clan from doom, but I am grateful for all you've done.\n\nAs are the caravanners. They've scrounged this up, as thanks."
+msgstr ""
+
+#: 232026500-0-13700
+msgctxt "232026500-0-13700"
+msgid "This is goodbye then."
+msgstr ""
+
 #: 116521668-0-13623
 msgctxt "116521668-0-13623"
 msgid "Based on recent events, only one course of action makes sense. We must strike at Rimmen and remove my half-sister from the throne before she rallies her forces.\n\nFirst, however, take this. Compensation for stopping the undead and killing a Dragon."
@@ -689,4 +539,154 @@ msgstr ""
 #: 232026500-0-13623
 msgctxt "232026500-0-13623"
 msgid "You have a plan for how to deal with Euraxia?"
+msgstr ""
+
+#: 116521668-0-13790
+msgctxt "116521668-0-13790"
+msgid "As promised, your reward. \n\nWe appreciate your help. Here's a little something for the effort."
+msgstr ""
+
+#: 232026500-0-13790
+msgctxt "232026500-0-13790"
+msgid "I found the lost instrument and recovered the stolen money."
+msgstr ""
+
+#: 116521668-0-13879
+msgctxt "116521668-0-13879"
+msgid "The keg must have dropped out of our wagon. Which is a little odd, given that my husband should have been sitting right by it.\n\nAh, well, no harm done. And here's a reward for your troubles. Not sure what we would do if we lost this beauty!"
+msgstr ""
+
+#: 232026500-0-13879
+msgctxt "232026500-0-13879"
+msgid "Seems odd that such a large keg went missing."
+msgstr ""
+
+#: 116521668-0-13714
+msgctxt "116521668-0-13714"
+msgid "I think I'll stay here a while. The adepts of the Hidden Moon still have a great deal to teach us, it seems.\n\nAs for you, the Moonlight Blade remains in your care. Wield it justly, and never forget what we accomplished here. Azura guide you, friend."
+msgstr ""
+
+#: 232026500-0-13714
+msgctxt "232026500-0-13714"
+msgid "So, what happens now?"
+msgstr ""
+
+#: 116521668-0-13913
+msgctxt "116521668-0-13913"
+msgid "Ah, Sanzagh. We established this farm together, but things got strange when Hadamnargo bought his horse. I think he was jealous, but I never felt comfortable riding on something that talked back.\n\nPlease accept this gift for everything you've done."
+msgstr ""
+
+#: 232026500-0-13913
+msgctxt "232026500-0-13913"
+msgid "I met Sanzagh. He told me to tell you that these fields belong to him."
+msgstr ""
+
+#: 116521668-0-13638
+msgctxt "116521668-0-13638"
+msgid "I do not know. I must reflect on this.\n\nStill, I thank you for all that you've done. You saved my companions, found my egg-mother's research, and helped the oasis begin to heal. No small feats to accomplish, traveler-friend."
+msgstr ""
+
+#: 232026500-0-13638
+msgctxt "232026500-0-13638"
+msgid "What will you do then?"
+msgstr ""
+
+#: 116521668-0-13919
+msgctxt "116521668-0-13919"
+msgid "My master is a connoisseur of cursed collectables. Wine. Jewelry. Paintings. People.\n\nHere is your reward. If you find more cursed items, please bring them here. I still hope that if his collection grows large enough, he'll no longer need me in it."
+msgstr ""
+
+#: 232026500-0-13919
+msgctxt "232026500-0-13919"
+msgid "Is there a reward for returning them?"
+msgstr ""
+
+#: 116521668-0-13871
+msgctxt "116521668-0-13871"
+msgid "This is fabulous news! Nisuzi thinks it may take some time for the last of the minotaurs to move on, but the snake-men's treasures are not going anywhere!\n\nPlease, take this, walker. And the blessings of a grateful clan!"
+msgstr ""
+
+#: 232026500-0-13871
+msgctxt "232026500-0-13871"
+msgid "I dispelled the magic on the relics."
+msgstr ""
+
+#: 116521668-0-13674
+msgctxt "116521668-0-13674"
+msgid "Of course, of course! Your share, as promised. After all, Mizzik would never have been able to solve this investigation without your aid.\n\nPleasure working with you, walker. Do not be a stranger, yes?"
+msgstr ""
+
+#: 232026500-0-13674
+msgctxt "232026500-0-13674"
+msgid "A bonus you're willing to share?"
+msgstr ""
+
+#: 116521668-0-13877
+msgctxt "116521668-0-13877"
+msgid "Ah, yes! Nisuzi can smell its citrusy aroma from here! Finally, we can stop sipping that pine-needle swill my uncle makes. Thank Baan Dar.\n\nAnd thank you, walker! Take this. You earned it, yes?"
+msgstr ""
+
+#: 232026500-0-13877
+msgctxt "232026500-0-13877"
+msgid "I found your tea."
+msgstr ""
+
+#: 116521668-0-13712
+msgctxt "116521668-0-13712"
+msgid "Whatever wards the disciples of this temple put in place to keep Arum-Khal bound are failing, and it's unlikely we'll find the means to mend them. \n\nWe'll have to deal with this threat head on. For that, I need your help."
+msgstr ""
+
+#: 232026500-0-13712
+msgctxt "232026500-0-13712"
+msgid "What should we do now?"
+msgstr ""
+
+#: 116521668-0-13713
+msgctxt "116521668-0-13713"
+msgid "The Moonlight Blade, eh? And I assume this spirit bound himself to the sword somehow? Fascinating.\n\nWith this blade, and a wise spirit guiding us, we finally have a real chance at defeating Arum-Khal. Well done, my friend."
+msgstr ""
+
+#: 232026500-0-13713
+msgctxt "232026500-0-13713"
+msgid "Good. We can destroy them, and Arum-Khal, with this weapon—the Moonlight Blade."
+msgstr ""
+
+#: 116521668-0-13636
+msgctxt "116521668-0-13636"
+msgid "They did. Numaia's sweet boy is a little shaken. Hopefully a hearty meal and a nice, long chin scratch will settle his nerves, yes?\n\nYou have this one's deepest thanks, walker. Milksop's too! Say thank you, sweet boy! Go ahead, now. Oh, never mind!"
+msgstr ""
+
+#: 232026500-0-13636
+msgctxt "232026500-0-13636"
+msgid "I rescued the animals. Did they all make it back safely?"
+msgstr ""
+
+#: 116521668-0-13710
+msgctxt "116521668-0-13710"
+msgid "Well, I suspect his involvement had much more to do with you than the mural itself.\n\nFeel free to visit the House of Histories anytime you wish, free of charge. And here, a gift for your many troubles."
+msgstr ""
+
+#: 232026500-0-13710
+msgctxt "232026500-0-13710"
+msgid "Hopefully, Rajhin won't bother you any further."
+msgstr ""
+
+#: 116521668-0-13711
+msgctxt "116521668-0-13711"
+msgid "And only more to come, this one fears.\n\nBefore you leave, you should speak to Zamarak. It seems that he's also decided to leave us. Perhaps he can help guide you to your next location."
+msgstr ""
+
+#: 232026500-0-13711
+msgctxt "232026500-0-13711"
+msgid "Elsweyr certainly seems to have its share of troubles."
+msgstr ""
+
+#: 116521668-0-13634
+msgctxt "116521668-0-13634"
+msgid "Stupid Hadaz. Always thought he'd die from something silly, like falling down a privy. I'll let his family know.\n\nAnd this hammer? Scary business, right? I'll deliver it to the Mane's priests. They'll know what to do with it. Thanks again, rhook."
+msgstr ""
+
+#: 232026500-0-13634
+msgctxt "232026500-0-13634"
+msgid "Hadaz didn't make it, but I wrecked the cultists' operation and took their enchanted hammer."
 msgstr ""

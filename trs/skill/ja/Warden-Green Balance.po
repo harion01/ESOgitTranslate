@@ -11,115 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-85883
-msgctxt "132143172-0-85883"
-msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
-msgstr "体力が|cffffff40|r%以下の自身か味方を、緑との調和アビリティで回復すると、自身が治癒力(強)を得て、回復効果を<<1>>、<<2>>の間高める。"
+#: 132143172-0-85807
+msgctxt "132143172-0-85807"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> every <<3>> for <<4>>.\n\nThe healing over time will continue to heal you or your allies for <<5>> after leaving the forest."
+msgstr "標的の場所に回復の森を展開し、最も傷ついた味方の体力を<<1>>回復する。森は自身と周囲の味方を<<2>>、<<3>>ごとに<<4>>の間回復し続ける。\r\n\r\n森を出ると、自身と味方は<<5>>の回復を受け続ける。"
 
-#: 198758357-0-85883
-msgctxt "198758357-0-85883"
-msgid "Accelerated Growth"
-msgstr "繁茂促進"
-
-#: 132143172-0-85882
-msgctxt "132143172-0-85882"
-msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
-msgstr "体力が|cffffff40|r%以下の自身か味方を、緑との調和アビリティで回復すると、自身が治癒力(強)を得て、回復効果を<<1>>、<<2>>の間高める。"
-
-#: 198758357-0-85882
-msgctxt "198758357-0-85882"
-msgid "Accelerated Growth"
-msgstr "繁茂促進"
-
-#: 132143172-0-85881
-msgctxt "132143172-0-85881"
-msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
-msgstr "自身か味方に回復を発動すると、対象は頑強(弱)を得る。最大体力を<<1>>、<<2>>の間増加させる。"
-
-#: 198758357-0-85881
-msgctxt "198758357-0-85881"
-msgid "Maturation"
-msgstr "成熟"
-
-#: 132143172-0-85880
-msgctxt "132143172-0-85880"
-msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
-msgstr "自身か味方に回復を発動すると、対象は頑強(弱)を得る。最大体力を<<1>>、<<2>>の間増加させる。"
-
-#: 198758357-0-85880
-msgctxt "198758357-0-85880"
-msgid "Maturation"
-msgstr "成熟"
-
-#: 132143172-0-85879
-msgctxt "132143172-0-85879"
-msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<2>> Stamina, whichever resource pool is lower. This effect can occur once every <<3>>."
-msgstr "緑との調和アビリティで味方を回復すると、<<1>>マジカか<<2>>スタミナを得る。マジカとスタミナの内、より減少している側を得られる。この効果は<<3>>ごとに発動する。"
-
-#: 198758357-0-85879
-msgctxt "198758357-0-85879"
-msgid "Nature's Gift"
-msgstr "調和の印"
-
-#: 132143172-0-85878
-msgctxt "132143172-0-85878"
-msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<1>> Stamina, whichever resource pool is lower. This effect can occur once every <<2>>."
-msgstr "緑との調和アビリティで味方を回復すると、<<1>>マジカか<<1>>スタミナを得る。マジカとスタミナの内、より減少している側を得られる。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-85878
-msgctxt "198758357-0-85878"
-msgid "Nature's Gift"
-msgstr "調和の印"
-
-#: 132143172-0-85877
-msgctxt "132143172-0-85877"
-msgid "Increases your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "スロットに装備している緑との調和アビリティ1つにつき、緑との調和アビリティによる回復の効果が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-85877
-msgctxt "198758357-0-85877"
-msgid "Emerald Moss"
-msgstr "翠玉色の苔"
-
-#: 132143172-0-85876
-msgctxt "132143172-0-85876"
-msgid "Increase your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "スロットに装備している緑との調和アビリティ1つにつき、緑との調和アビリティによる回復の効果が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-85876
-msgctxt "198758357-0-85876"
-msgid "Emerald Moss"
-msgstr "翠玉色の苔"
-
-#: 132143172-0-85863
-msgctxt "132143172-0-85863"
-msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health.\n\nHeals for <<2>> more on allies that are within |cffffff8|r meters of you."
-msgstr "前方の広範囲へキノコを埋め込み、自身と味方の体力を、<<1>>回復する。\r\n\r\n|cFFFFFF8|rメートル以内の味方に対しては、回復が<<2>>強化される。"
-
-#: 198758357-0-85863
-msgctxt "198758357-0-85863"
-msgid "Soothing Spores"
-msgstr "安息の胞子"
-
-#: 132143172-0-85862
-msgctxt "132143172-0-85862"
-msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health. \n\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by <<2>> for <<3>>."
-msgstr "前方の広範囲へキノコを埋め込み、自身と味方の体力を、<<1>>回復する。\r\n\r\n回復を受けた味方は知力(弱)と耐久(弱)を得て、マジカ再生とスタミナ再生が<<2>>、<<3>>の間上昇する。"
-
-#: 198758357-0-85862
-msgctxt "198758357-0-85862"
-msgid "Enchanted Growth"
-msgstr "再生の恵み"
-
-#: 132143172-0-85859
-msgctxt "132143172-0-85859"
-msgid "Launch a vine to swing yourself to an ally, instantly healing them for <<1>> Health.  \n\nGain <<2>> Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "自身を味方のところに送る蔓を呼び出し、体力<<1>>を即座に回復する。\r\n\r\n戦闘中、体力が|cFFFFFF60%|r以下になった味方を回復すると、<<2>>アルティマを得る。この効果は<<3>>ごとに発生する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-85859
-msgctxt "198758357-0-85859"
-msgid "Bursting Vines"
-msgstr "ほとばしる緑"
+#: 198758357-0-85807
+msgctxt "198758357-0-85807"
+msgid "Healing Thicket"
+msgstr "癒しの茂み"
 
 #: 132143172-0-85858
 msgctxt "132143172-0-85858"
@@ -131,15 +31,55 @@ msgctxt "198758357-0-85858"
 msgid "Nature's Embrace"
 msgstr "新緑の抱擁"
 
-#: 132143172-0-85855
-msgctxt "132143172-0-85855"
-msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>.\n\nYou gain Major Prophecy, increasing your Spell Critical rating by <<4>> for <<5>>"
-msgstr "ロータスの祝福を受け、自身の軽攻撃が体力を<<1>>、完全にチャージした重攻撃が体力を<<2>>、自身か周囲の味方を<<3>>の間回復する。\r\n\r\n自身は予言(強)を得て、呪文クリティカルを<<4>>、<<5>>の間上昇させる"
+#: 132143172-0-85539
+msgctxt "132143172-0-85539"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>."
+msgstr "ロータスの祝福を受け、自身の軽攻撃が体力を<<1>>、完全にチャージした重攻撃が体力を<<2>>、自身か周囲の味方を<<3>>の間回復する。"
 
-#: 198758357-0-85855
-msgctxt "198758357-0-85855"
-msgid "Lotus Blossom"
-msgstr "ロータスブロッサム"
+#: 198758357-0-85539
+msgctxt "198758357-0-85539"
+msgid "Lotus Flower"
+msgstr "ロータスフラワー"
+
+#: 132143172-0-85859
+msgctxt "132143172-0-85859"
+msgid "Launch a vine to swing yourself to an ally, instantly healing them for <<1>> Health.  \n\nGain <<2>> Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "自身を味方のところに送る蔓を呼び出し、体力<<1>>を即座に回復する。\r\n\r\n戦闘中、体力が|cFFFFFF60%|r以下になった味方を回復すると、<<2>>アルティマを得る。この効果は<<3>>ごとに発生する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-85859
+msgctxt "198758357-0-85859"
+msgid "Bursting Vines"
+msgstr "ほとばしる緑"
+
+#: 132143172-0-85878
+msgctxt "132143172-0-85878"
+msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<1>> Stamina, whichever resource pool is lower. Each effect can occur once every <<2>>."
+msgstr "緑との調和アビリティで味方を回復すると、<<1>>マジカか<<1>>スタミナを得る。マジカとスタミナの内、より減少している側を得られる。それぞれの効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-85878
+msgctxt "198758357-0-85878"
+msgid "Nature's Gift"
+msgstr "調和の印"
+
+#: 132143172-0-85879
+msgctxt "132143172-0-85879"
+msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<2>> Stamina, whichever resource pool is lower. This effect can occur once every <<3>>."
+msgstr "緑との調和アビリティで味方を回復すると、<<1>>マジカか<<2>>スタミナを得る。マジカとスタミナの内、より減少している側を得られる。この効果は<<3>>ごとに発動する。"
+
+#: 198758357-0-85879
+msgctxt "198758357-0-85879"
+msgid "Nature's Gift"
+msgstr "調和の印"
+
+#: 132143172-0-85876
+msgctxt "132143172-0-85876"
+msgid "Increase your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "スロットに装備している緑との調和アビリティ1つにつき、緑との調和アビリティによる回復の効果が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-85876
+msgctxt "198758357-0-85876"
+msgid "Emerald Moss"
+msgstr "翠玉色の苔"
 
 #: 132143172-0-85854
 msgctxt "132143172-0-85854"
@@ -151,105 +91,25 @@ msgctxt "198758357-0-85854"
 msgid "Green Lotus"
 msgstr "グリーンロータス"
 
-#: 132143172-0-85851
-msgctxt "132143172-0-85851"
-msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nWhen the vines expire, they heal the target for an additional <<4>> Health."
-msgstr "蔓を生やして、自分か目の前にいる一番体力の低い味方を<<1>>の間包む。蔓は、標的がダメージを受ける度に<<2>>回復する。この効果は<<3>>ごとに発動する。\r\n\r\n蔓の有効時間が切れると、標的の体力を<<4>>、追加で回復する。"
+#: 132143172-0-85877
+msgctxt "132143172-0-85877"
+msgid "Increases your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "スロットに装備している緑との調和アビリティ1つにつき、緑との調和アビリティによる回復の効果が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
 
-#: 198758357-0-85851
-msgctxt "198758357-0-85851"
-msgid "Living Trellis"
-msgstr "生命の蔓棚"
+#: 198758357-0-85877
+msgctxt "198758357-0-85877"
+msgid "Emerald Moss"
+msgstr "翠玉色の苔"
 
-#: 132143172-0-85850
-msgctxt "132143172-0-85850"
-msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nThe vines apply Minor Lifesteal to enemies that damage the target for <<4>>, healing you and your allies for <<5>> Health every <<6>> when damaging that enemy."
-msgstr "蔓を生やして、自分か目の前にいる一番体力の低い味方を<<1>>の間包む。蔓は、標的がダメージを受ける度に<<2>>回復する。この効果は<<3>>ごとに発動する。\r\n\r\n蔓は標的へダメージを与えた敵に対して体力吸収(弱)を<<4>>の間与え、その敵にダメージを与える度、自身と味方の体力を<<5>>、<<6>>の間回復する。"
+#: 132143172-0-85855
+msgctxt "132143172-0-85855"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>.\n\nYou gain Major Prophecy, increasing your Spell Critical rating by <<4>> for <<5>>"
+msgstr "ロータスの祝福を受け、自身の軽攻撃が体力を<<1>>、完全にチャージした重攻撃が体力を<<2>>、自身か周囲の味方を<<3>>の間回復する。\r\n\r\n自身は予言(強)を得て、呪文クリティカルを<<4>>、<<5>>の間上昇させる"
 
-#: 198758357-0-85850
-msgctxt "198758357-0-85850"
-msgid "Leeching Vines"
-msgstr "吸血の蔓"
-
-#: 132143172-0-85845
-msgctxt "132143172-0-85845"
-msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nEnemies who enter the field are afflicted with Major Defile, reducing their healing received by <<3>>.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<4>> Health over <<5>>."
-msgstr "<<1>>後に咲く花畑を召喚して、自身と範囲内の味方の体力を<<2>>回復する。\r\n\r\nこの畑に入った敵は汚染(強)を受け、被回復力を<<3>>低下させる。\r\n\r\n範囲内の味方は|cffffff収穫|rシナジーを発動し、体力<<4>>を<<5>>の間回復できる。"
-
-#: 198758357-0-85845
-msgctxt "198758357-0-85845"
-msgid "Corrupting Pollen"
-msgstr "汚染されし花粉"
-
-#: 132143172-0-85840
-msgctxt "132143172-0-85840"
-msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nWhile the field grows, you and allies are healed for <<3>> Health every <<4>>.  \n\nYou can activate this ability again to cause it to instantly bloom.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<5>> Health over <<6>>."
-msgstr "<<1>>後に咲く花畑を召喚して、自身と範囲内の味方の体力を<<2>>回復する。\r\n\r\n畑が成長すると、自身と味方は体力<<3>>を<<4>>ごとに回復する。\r\n\r\nこのアビリティは再び発動して即座に開花させられる。\r\n\r\n範囲内の味方は|cffffff収穫|rシナジーを発動し、体力<<5>>を<<6>>の間回復できる。"
-
-#: 198758357-0-85840
-msgctxt "198758357-0-85840"
-msgid "Budding Seeds"
-msgstr "芽吹く種子"
-
-#: 132143172-0-85807
-msgctxt "132143172-0-85807"
-msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> every <<3>> for <<4>>.\n\nThe healing over time will continue to heal you or your allies for <<5>> after leaving the forest."
-msgstr "標的の場所に回復の森を展開し、最も傷ついた味方の体力を<<1>>回復する。森は自身と周囲の味方を<<2>>、<<3>>ごとに<<4>>の間回復し続ける。\r\n\r\n森を出ると、自身と味方は<<5>>の回復を受け続ける。"
-
-#: 198758357-0-85807
-msgctxt "198758357-0-85807"
-msgid "Healing Thicket"
-msgstr "癒しの茂み"
-
-#: 132143172-0-85804
-msgctxt "132143172-0-85804"
-msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>.\n\nYou generate <<5>> Ultimate if the initial heal is used on a friendly target under |cffffff50|r% Health."
-msgstr "標的の場所に回復の森を展開し、最も傷ついた味方の体力を<<1>>回復する。森は自身と周囲の味方の体力を<<2>>、<<3>>ごとに<<4>>の間回復し続ける。\r\n\r\n体力|cFFFFFF50|r%以下の味方を最初に回復すると、<<5>>アルティマを獲得する。"
-
-#: 198758357-0-85804
-msgctxt "198758357-0-85804"
-msgid "Enchanted Forest"
-msgstr "魔性の森"
-
-#: 132143172-0-85578
-msgctxt "132143172-0-85578"
-msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<3>> Health over <<4>>."
-msgstr "<<1>>後に咲く花畑を召喚して、自身と範囲内の味方の体力を<<2>>回復する。\r\n\r\n範囲内の味方は|cffffff収穫|rシナジーを発動し、体力<<3>>を<<4>>の間回復できる。"
-
-#: 198758357-0-85578
-msgctxt "198758357-0-85578"
-msgid "Healing Seed"
-msgstr "治癒の種子"
-
-#: 132143172-0-85564
-msgctxt "132143172-0-85564"
-msgid "Launch a vine to swing yourself to an ally, healing them for <<1>> Health over <<2>>. Gain <<3>> Ultimate when this effect completes if you are in combat.\n\nThis ability scales with your highest offensive stats."
-msgstr "自身を味方のところに送る蔓を呼び出し、体力<<1>>を<<2>>の間回復する。戦闘中にこの効果が切れると、アルティマを<<3>>得られる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-85564
-msgctxt "198758357-0-85564"
-msgid "Nature's Grasp"
-msgstr "慰めの緑"
-
-#: 132143172-0-85552
-msgctxt "132143172-0-85552"
-msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>."
-msgstr "蔓を生やして、自分か目の前にいる一番体力の低い味方を<<1>>の間包む。蔓は、標的がダメージを受ける度に<<2>>回復する。この効果は<<3>>ごとに発動する。"
-
-#: 198758357-0-85552
-msgctxt "198758357-0-85552"
-msgid "Living Vines"
-msgstr "命の蔓"
-
-#: 132143172-0-85539
-msgctxt "132143172-0-85539"
-msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>."
-msgstr "ロータスの祝福を受け、自身の軽攻撃が体力を<<1>>、完全にチャージした重攻撃が体力を<<2>>、自身か周囲の味方を<<3>>の間回復する。"
-
-#: 198758357-0-85539
-msgctxt "198758357-0-85539"
-msgid "Lotus Flower"
-msgstr "ロータスフラワー"
+#: 198758357-0-85855
+msgctxt "198758357-0-85855"
+msgid "Lotus Blossom"
+msgstr "ロータスブロッサム"
 
 #: 132143172-0-85536
 msgctxt "132143172-0-85536"
@@ -261,6 +121,36 @@ msgctxt "198758357-0-85536"
 msgid "Fungal Growth"
 msgstr "フンガルの恵み"
 
+#: 132143172-0-85578
+msgctxt "132143172-0-85578"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<3>> Health over <<4>>."
+msgstr "<<1>>後に咲く花畑を召喚して、自身と範囲内の味方の体力を<<2>>回復する。\r\n\r\n範囲内の味方は|cffffff収穫|rシナジーを発動し、体力<<3>>を<<4>>の間回復できる。"
+
+#: 198758357-0-85578
+msgctxt "198758357-0-85578"
+msgid "Healing Seed"
+msgstr "治癒の種子"
+
+#: 132143172-0-85850
+msgctxt "132143172-0-85850"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nThe vines apply Minor Lifesteal to enemies that damage the target for <<4>>, healing you and your allies for <<5>> Health every <<6>> when damaging that enemy."
+msgstr "蔓を生やして、自分か目の前にいる一番体力の低い味方を<<1>>の間包む。蔓は、標的がダメージを受ける度に<<2>>回復する。この効果は<<3>>ごとに発動する。\r\n\r\n蔓は標的へダメージを与えた敵に対して体力吸収(弱)を<<4>>の間与え、その敵にダメージを与える度、自身と味方の体力を<<5>>、<<6>>の間回復する。"
+
+#: 198758357-0-85850
+msgctxt "198758357-0-85850"
+msgid "Leeching Vines"
+msgstr "吸血の蔓"
+
+#: 132143172-0-85851
+msgctxt "132143172-0-85851"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nWhen the vines expire, they heal the target for an additional <<4>> Health."
+msgstr "蔓を生やして、自分か目の前にいる一番体力の低い味方を<<1>>の間包む。蔓は、標的がダメージを受ける度に<<2>>回復する。この効果は<<3>>ごとに発動する。\r\n\r\n蔓の有効時間が切れると、標的の体力を<<4>>、追加で回復する。"
+
+#: 198758357-0-85851
+msgctxt "198758357-0-85851"
+msgid "Living Trellis"
+msgstr "生命の蔓棚"
+
 #: 132143172-0-85532
 msgctxt "132143172-0-85532"
 msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>."
@@ -270,3 +160,113 @@ msgstr "標的の場所に回復の森を展開し、最も傷ついた味方の
 msgctxt "198758357-0-85532"
 msgid "Secluded Grove"
 msgstr "静謐の木立"
+
+#: 132143172-0-85552
+msgctxt "132143172-0-85552"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>."
+msgstr "蔓を生やして、自分か目の前にいる一番体力の低い味方を<<1>>の間包む。蔓は、標的がダメージを受ける度に<<2>>回復する。この効果は<<3>>ごとに発動する。"
+
+#: 198758357-0-85552
+msgctxt "198758357-0-85552"
+msgid "Living Vines"
+msgstr "命の蔓"
+
+#: 132143172-0-85804
+msgctxt "132143172-0-85804"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>.\n\nYou generate <<5>> Ultimate if the initial heal is used on a friendly target under |cffffff50|r% Health."
+msgstr "標的の場所に回復の森を展開し、最も傷ついた味方の体力を<<1>>回復する。森は自身と周囲の味方の体力を<<2>>、<<3>>ごとに<<4>>の間回復し続ける。\r\n\r\n体力|cFFFFFF50|r%以下の味方を最初に回復すると、<<5>>アルティマを獲得する。"
+
+#: 198758357-0-85804
+msgctxt "198758357-0-85804"
+msgid "Enchanted Forest"
+msgstr "魔性の森"
+
+#: 132143172-0-85845
+msgctxt "132143172-0-85845"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nEnemies who enter the field are afflicted with Major Defile, reducing their healing received by <<3>>.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<4>> Health over <<5>>."
+msgstr "<<1>>後に咲く花畑を召喚して、自身と範囲内の味方の体力を<<2>>回復する。\r\n\r\nこの畑に入った敵は汚染(強)を受け、被回復力を<<3>>低下させる。\r\n\r\n範囲内の味方は|cffffff収穫|rシナジーを発動し、体力<<4>>を<<5>>の間回復できる。"
+
+#: 198758357-0-85845
+msgctxt "198758357-0-85845"
+msgid "Corrupting Pollen"
+msgstr "汚染されし花粉"
+
+#: 132143172-0-85863
+msgctxt "132143172-0-85863"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health.\n\nHeals for <<2>> more on allies that are within |cffffff8|r meters of you."
+msgstr "前方の広範囲へキノコを埋め込み、自身と味方の体力を、<<1>>回復する。\r\n\r\n|cFFFFFF8|rメートル以内の味方に対しては、回復が<<2>>強化される。"
+
+#: 198758357-0-85863
+msgctxt "198758357-0-85863"
+msgid "Soothing Spores"
+msgstr "安息の胞子"
+
+#: 132143172-0-85883
+msgctxt "132143172-0-85883"
+msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
+msgstr "体力が|cffffff40|r%以下の自身か味方を、緑との調和アビリティで回復すると、自身が治癒力(強)を得て、回復効果を<<1>>、<<2>>の間高める。"
+
+#: 198758357-0-85883
+msgctxt "198758357-0-85883"
+msgid "Accelerated Growth"
+msgstr "繁茂促進"
+
+#: 132143172-0-85564
+msgctxt "132143172-0-85564"
+msgid "Launch a vine to swing yourself to an ally, healing them for <<1>> Health over <<2>>. Gain <<3>> Ultimate when this effect completes if you are in combat.\n\nThis ability scales with your highest offensive stats."
+msgstr "自身を味方のところに送る蔓を呼び出し、体力<<1>>を<<2>>の間回復する。戦闘中にこの効果が切れると、アルティマを<<3>>得られる。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-85564
+msgctxt "198758357-0-85564"
+msgid "Nature's Grasp"
+msgstr "慰めの緑"
+
+#: 132143172-0-85862
+msgctxt "132143172-0-85862"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health. \n\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by <<2>> for <<3>>."
+msgstr "前方の広範囲へキノコを埋め込み、自身と味方の体力を、<<1>>回復する。\r\n\r\n回復を受けた味方は知力(弱)と耐久(弱)を得て、マジカ再生とスタミナ再生が<<2>>、<<3>>の間上昇する。"
+
+#: 198758357-0-85862
+msgctxt "198758357-0-85862"
+msgid "Enchanted Growth"
+msgstr "再生の恵み"
+
+#: 132143172-0-85840
+msgctxt "132143172-0-85840"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nWhile the field grows, you and allies are healed for <<3>> Health every <<4>>.  \n\nYou can activate this ability again to cause it to instantly bloom.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<5>> Health over <<6>>."
+msgstr "<<1>>後に咲く花畑を召喚して、自身と範囲内の味方の体力を<<2>>回復する。\r\n\r\n畑が成長すると、自身と味方は体力<<3>>を<<4>>ごとに回復する。\r\n\r\nこのアビリティは再び発動して即座に開花させられる。\r\n\r\n範囲内の味方は|cffffff収穫|rシナジーを発動し、体力<<5>>を<<6>>の間回復できる。"
+
+#: 198758357-0-85840
+msgctxt "198758357-0-85840"
+msgid "Budding Seeds"
+msgstr "芽吹く種子"
+
+#: 132143172-0-85881
+msgctxt "132143172-0-85881"
+msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
+msgstr "自身か味方に回復を発動すると、対象は頑強(弱)を得る。最大体力を<<1>>、<<2>>の間増加させる。"
+
+#: 198758357-0-85881
+msgctxt "198758357-0-85881"
+msgid "Maturation"
+msgstr "成熟"
+
+#: 132143172-0-85882
+msgctxt "132143172-0-85882"
+msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
+msgstr "体力が|cffffff40|r%以下の自身か味方を、緑との調和アビリティで回復すると、自身が治癒力(強)を得て、回復効果を<<1>>、<<2>>の間高める。"
+
+#: 198758357-0-85882
+msgctxt "198758357-0-85882"
+msgid "Accelerated Growth"
+msgstr "繁茂促進"
+
+#: 132143172-0-85880
+msgctxt "132143172-0-85880"
+msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
+msgstr "自身か味方に回復を発動すると、対象は頑強(弱)を得る。最大体力を<<1>>、<<2>>の間増加させる。"
+
+#: 198758357-0-85880
+msgctxt "198758357-0-85880"
+msgid "Maturation"
+msgstr "成熟"

@@ -11,6 +11,86 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-38264
+msgctxt "132143172-0-38264"
+msgid "Surprise an enemy with a deep lunge, dealing <<1>> and afflicting them with <<2>>, reducing their damage done by <<3>> for <<4>>. \n\nYou gain <<5>>, granting you <<6>> Ultimate every |cffffff1.5|r seconds for <<7>>."
+msgstr "大きく切り付け、敵に不意打ちを仕掛ける。<<1>>を与えて<<2>>の効果を付与する。敵の与ダメージを<<3>>、<<4>>の間低下させる。\r\n\r\nこのアビリティで攻撃することにより<<5>>を獲得し、アルティマが追加で<<6>>、|cffffff1.5|r秒ごとに<<7>>の間与えられる。"
+
+#: 198758357-0-38264
+msgctxt "198758357-0-38264"
+msgid "Heroic Slash"
+msgstr "ヒロイック・スラッシュ"
+
+#: 132143172-0-28719
+msgctxt "132143172-0-28719"
+msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>."
+msgstr "敵に体当たりして<<1>>を与え、<<2>>間気絶させる。"
+
+#: 198758357-0-28719
+msgctxt "198758357-0-28719"
+msgid "Shield Charge"
+msgstr "シールドチャージ"
+
+#: 132143172-0-45452
+msgctxt "132143172-0-45452"
+msgid "Increases your Weapon Damage by <<1>>% and the amount of damage you can block by <<2>>."
+msgstr "武器ダメージが<<1>>%上昇し、防御できるダメージ量が<<2>>増加する。"
+
+#: 198758357-0-45452
+msgctxt "198758357-0-45452"
+msgid "Sword and Board"
+msgstr "剣と盾"
+
+#: 132143172-0-38268
+msgctxt "132143172-0-38268"
+msgid "Surprise an enemy with a sweeping lunge, dealing <<1>> to them and other nearby enemies. You reduce the Movement Speed of all enemies hit by <<2>> for <<3>>.\n\nAlso afflicts all enemies hit with <<4>>, reducing their damage done by <<5>> for <<6>>."
+msgstr "敵を深く切り付け、<<1>>を敵と近くにいる他の敵に与える。命中させた敵の移動速度を<<2>>、<<3>>の間低下させる。\r\n\r\nまた、全ての敵に<<4>>を付与し、敵の与ダメージを<<5>>、<<6>>の間低下させる。"
+
+#: 198758357-0-38268
+msgctxt "198758357-0-38268"
+msgid "Deep Slash"
+msgstr "ディープスラッシュ"
+
+#: 132143172-0-29420
+msgctxt "132143172-0-29420"
+msgid "Reduces the Stamina cost of your One Hand and Shield abilities by <<1>> and reduces the cost of blocking by |cffffff18|r%."
+msgstr "片手武器と盾アビリティのスタミナ消費が<<1>>減少し、防御の消費も|cffffff18|r%減少する。"
+
+#: 198758357-0-29420
+msgctxt "198758357-0-29420"
+msgid "Fortress"
+msgstr "要塞"
+
+#: 132143172-0-29422
+msgctxt "132143172-0-29422"
+msgid "Reduces the Movement Speed penalty of Bracing.\n\nCurrent penalty: |cffffff48|r%"
+msgstr "踏ん張り中の移動速度ペナルティが低下する。\r\n\r\n現在のペナルティ: |cffffff48|r%"
+
+#: 198758357-0-29422
+msgctxt "198758357-0-29422"
+msgid "Battlefield Mobility"
+msgstr "機動防御"
+
+#: 132143172-0-38401
+msgctxt "132143172-0-38401"
+msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>.\n\nYou gain a damage shield after the attack, absorbing <<3>> damage for <<4>>.  This portion of the ability scales off your Max Health."
+msgstr "敵を急撃して激突し、<<1>>を与えて<<2>>の間気絶させる。\r\n\r\n攻撃後はダメージシールドを得て、ダメージを<<3>>、<<4>>の間吸収する。このアビリティの効力は最大体力に比例して変動する。"
+
+#: 198758357-0-38401
+msgctxt "198758357-0-38401"
+msgid "Shielded Assault"
+msgstr "シールド強襲"
+
+#: 132143172-0-45471
+msgctxt "132143172-0-45471"
+msgid "Reduces the Stamina cost of your One Hand and Shield abilities by <<1>> and reduces the cost of blocking by |cffffff36|r%."
+msgstr "片手武器と盾アビリティのスタミナ消費が<<1>>減少し、防御の消費も|cffffff36|r%減少する。"
+
+#: 198758357-0-45471
+msgctxt "198758357-0-45471"
+msgid "Fortress"
+msgstr "要塞"
+
 #: 132143172-0-83310
 msgctxt "132143172-0-83310"
 msgid "Reinforce your shield, allowing you to automatically block all attacks at no cost for <<1>>.\n\nYour One Hand and Shield abilities cost nothing while this effect persists."
@@ -20,6 +100,36 @@ msgstr "シールドを強化し、<<1>>の間消費なくあらゆる攻撃を�
 msgctxt "198758357-0-83310"
 msgid "Shield Discipline"
 msgstr "盾の熟練"
+
+#: 132143172-0-45473
+msgctxt "132143172-0-45473"
+msgid "Reduces the Movement Speed penalty of Bracing.\n\nCurrent penalty: |cffffff36|r%"
+msgstr "踏ん張り中の移動速度ペナルティが低下する。\r\n\r\n現在のペナルティ: |cffffff36|r%"
+
+#: 198758357-0-45473
+msgctxt "198758357-0-45473"
+msgid "Battlefield Mobility"
+msgstr "機動防御"
+
+#: 132143172-0-45472
+msgctxt "132143172-0-45472"
+msgid "Increases the amount of damage you can block from projectiles and ranged attacks by <<1>>."
+msgstr "投射物と遠距離攻撃を防御したときのダメージ軽減量が<<1>>増加する。"
+
+#: 198758357-0-45472
+msgctxt "198758357-0-45472"
+msgid "Deflect Bolts"
+msgstr "対射撃防御"
+
+#: 132143172-0-38405
+msgctxt "132143172-0-38405"
+msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>.\n\nStuns up to |cffffff50|r% longer based on the distance traveled."
+msgstr "敵を急撃して激突し、<<1>>を与えて<<2>>の間気絶させる。\r\n\r\n移動距離に比例して、最大|cffffff50|r%まで気絶の持続時間を延長する。"
+
+#: 198758357-0-38405
+msgctxt "198758357-0-38405"
+msgid "Invasion"
+msgstr "侵入"
 
 #: 132143172-0-83292
 msgctxt "132143172-0-83292"
@@ -41,66 +151,25 @@ msgctxt "198758357-0-83272"
 msgid "Shield Wall"
 msgstr "盾の壁"
 
-#: 132143172-0-45473
-#, fuzzy
-msgctxt "132143172-0-45473"
-msgid "Reduces the Movement Speed penalty of Bracing.\n\nCurrent penalty: |cffffff36|r%"
-msgstr "踏ん張り中の移動速度ペナルティが低下する。\r\n\r\n現在のペナルティ: |cffffff36|r%"
+#: 132143172-0-38250
+msgctxt "132143172-0-38250"
+msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>.\n\nAlso afflicts the enemy with <<3>> and <<4>>, reducing their Physical Resistance and Spell Resistance by <<5>> for <<6>>."
+msgstr "正確無比な突きを敵に繰り出し、<<1>>を与えて<<2>>の間、自分を攻撃するよう敵を挑発する。\r\n\r\n敵に<<3>>と<<4>>の効果を与え、相手の物理耐性と呪文耐性を<<5>>、<<6>>の間低下させる。"
 
-#: 198758357-0-45473
-msgctxt "198758357-0-45473"
-msgid "Battlefield Mobility"
-msgstr "機動防御"
-
-#: 132143172-0-45472
-msgctxt "132143172-0-45472"
-msgid "Increases the amount of damage you can block from projectiles and ranged attacks by <<1>>."
-msgstr "投射物と遠距離攻撃を防御したときのダメージ軽減量が<<1>>増加する。"
-
-#: 198758357-0-45472
-msgctxt "198758357-0-45472"
-msgid "Deflect Bolts"
-msgstr "対射撃防御"
-
-#: 132143172-0-45471
-msgctxt "132143172-0-45471"
-msgid "Reduces the Stamina cost of your One Hand and Shield abilities by <<1>> and reduces the cost of blocking by |cffffff36|r%."
-msgstr "片手武器と盾アビリティのスタミナ消費が<<1>>減少し、防御の消費も|cffffff36|r%減少する。"
-
-#: 198758357-0-45471
-msgctxt "198758357-0-45471"
-msgid "Fortress"
-msgstr "要塞"
+#: 198758357-0-38250
+msgctxt "198758357-0-38250"
+msgid "Pierce Armor"
+msgstr "鎧貫通"
 
 #: 132143172-0-45469
 msgctxt "132143172-0-45469"
-msgid "Improves your standard bash attacks.Your Bash attacks gain an additional <<1>> Weapon and Spell Damage and cost |cffffff40|r% less Stamina."
-msgstr "通常の強撃が強化される。強撃に<<1>>武器ダメージと呪文ダメージが追加され、スタミナ消費が|cffffff40|r%減少する。"
+msgid "Improves your standard bash attacks, causing them to deal <<1>> more damage and cost |cffffff40|r% less Stamina."
+msgstr "通常の強撃が強化される。<<1>>ダメージが追加され、スタミナ消費が|cffffff40|r%減少する。"
 
 #: 198758357-0-45469
 msgctxt "198758357-0-45469"
 msgid "Deadly Bash"
 msgstr "デッドリー・バッシュ"
-
-#: 132143172-0-45452
-msgctxt "132143172-0-45452"
-msgid "Increases your Weapon Damage by <<1>>% and the amount of damage you can block by <<2>>."
-msgstr "武器ダメージが<<1>>%上昇し、防御できるダメージ量が<<2>>増加する。"
-
-#: 198758357-0-45452
-msgctxt "198758357-0-45452"
-msgid "Sword and Board"
-msgstr "剣と盾"
-
-#: 132143172-0-38455
-msgctxt "132143172-0-38455"
-msgid "Strike an enemy full-force with your shield, dealing <<1>> and stunning them for <<2>>.\n\nAfter the stun ends, the enemy takes an additional <<1>>."
-msgstr "盾で敵を強打し、<<1>>を与えて、<<2>>の間気絶させる。\r\n\r\n気絶が終了すると、敵は<<1>>を受ける。"
-
-#: 198758357-0-38455
-msgctxt "198758357-0-38455"
-msgid "Reverberating Bash"
-msgstr "ショックバッシュ"
 
 #: 132143172-0-38452
 msgctxt "132143172-0-38452"
@@ -112,35 +181,25 @@ msgctxt "198758357-0-38452"
 msgid "Power Slam"
 msgstr "パワースラム"
 
-#: 132143172-0-38405
-msgctxt "132143172-0-38405"
-msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>.\n\nStuns up to |cffffff50|r% longer based on the distance traveled."
-msgstr "敵を急撃して激突し、<<1>>を与えて<<2>>の間気絶させる。\r\n\r\n移動距離に比例して、最大|cffffff50|r%まで気絶の持続時間を延長する。"
+#: 132143172-0-38256
+msgctxt "132143172-0-38256"
+msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>.\n\nAfflicts the enemy with <<3>>, reducing their Physical Resistance by <<4>> for <<5>>.\n\nYou also gain <<6>>, reducing your damage taken by <<7>> for <<8>>."
+msgstr "正確無比な突きを敵に繰り出し、<<1>>を与えて<<2>>の間、自分を攻撃するよう敵を挑発する。\r\n\r\n敵に<<3>>の効果を与え、相手の物理耐性を<<4>>、<<5>>の間低下させる。\r\n\r\nさらに自身は<<6>>を獲得し、被ダメージが<<7>>、<<8>>の間低下する。"
 
-#: 198758357-0-38405
-msgctxt "198758357-0-38405"
-msgid "Invasion"
-msgstr "侵入"
+#: 198758357-0-38256
+msgctxt "198758357-0-38256"
+msgid "Ransack"
+msgstr "ランサック"
 
-#: 132143172-0-38401
-msgctxt "132143172-0-38401"
-msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>.\n\nYou gain a damage shield after the attack, absorbing <<3>> damage for <<4>>.  This portion of the ability scales off your Max Health."
-msgstr "敵を急撃して激突し、<<1>>を与えて<<2>>の間気絶させる。\r\n\r\n攻撃後はダメージシールドを得て、ダメージを<<3>>、<<4>>の間吸収する。このアビリティの効力は最大体力に比例して変動する。"
+#: 132143172-0-38455
+msgctxt "132143172-0-38455"
+msgid "Strike an enemy full-force with your shield, dealing <<1>> and stunning them for <<2>>.\n\nAfter the stun ends, the enemy takes an additional <<1>>."
+msgstr "盾で敵を強打し、<<1>>を与えて、<<2>>の間気絶させる。\r\n\r\n気絶が終了すると、敵は<<1>>を受ける。"
 
-#: 198758357-0-38401
-msgctxt "198758357-0-38401"
-msgid "Shielded Assault"
-msgstr "シールド強襲"
-
-#: 132143172-0-38317
-msgctxt "132143172-0-38317"
-msgid "Bolster your defenses, gaining a damage shield that absorbs up to <<1>> damage for <<2>>.  \n\nWhile the shield persists, you are healed for <<3>> Health the next time a harmful Direct Damage projectile hits you.  This effect can occur once per cast.\n\nThis ability scales off your Max Health."
-msgstr "防御を高め、最大<<1>>のダメージを吸収するダメージシールドを<<2>>の間展開する。\r\n\r\nシールドを展開している間、次に直接ダメージを与えようとする投射物に攻撃されると体力を<<3>>回復する。この効果は詠唱ごとに1度だけ発動する。\r\n\r\nこのアビリティの効力は最大体力に比例して変動する。"
-
-#: 198758357-0-38317
-msgctxt "198758357-0-38317"
-msgid "Absorb Missile"
-msgstr "飛び道具吸収"
+#: 198758357-0-38455
+msgctxt "198758357-0-38455"
+msgid "Reverberating Bash"
+msgstr "ショックバッシュ"
 
 #: 132143172-0-38312
 msgctxt "132143172-0-38312"
@@ -152,97 +211,35 @@ msgctxt "198758357-0-38312"
 msgid "Defensive Stance"
 msgstr "防御姿勢"
 
-#: 132143172-0-38268
-msgctxt "132143172-0-38268"
-msgid "Surprise an enemy with a sweeping lunge, dealing <<1>> to them and other nearby enemies. You reduce the Movement Speed of all enemies hit by <<2>> for <<3>>.\n\nAlso afflicts all enemies hit with <<4>>, reducing their damage done by <<5>> for <<6>>."
-msgstr "敵を深く切り付け、<<1>>を敵と近くにいる他の敵に与える。命中させた敵の移動速度を<<2>>、<<3>>の間低下させる。\r\n\r\nまた、全ての敵に<<4>>を付与し、敵の与ダメージを<<5>>、<<6>>の間低下させる。"
+#: 132143172-0-28306
+msgctxt "132143172-0-28306"
+msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>.\n\nAlso afflicts the enemy with <<3>>, reducing their Physical Resistance by <<4>> for <<5>>."
+msgstr "正確無比な突きを繰り出して敵に<<1>>を与え、<<2>>間その敵を挑発して自分を攻撃させる。\r\n\r\n敵に<<3>>の効果を与え、物理耐性を<<4>>、<<5>>間低下させる。"
 
-#: 198758357-0-38268
-msgctxt "198758357-0-38268"
-msgid "Deep Slash"
-msgstr "ディープスラッシュ"
-
-#: 132143172-0-38264
-#, fuzzy
-msgctxt "132143172-0-38264"
-msgid "Surprise an enemy with a deep lunge, dealing <<1>> and afflicting them with <<2>>, reducing their damage done by <<3>> for <<4>>. \n\nYou gain <<5>>, granting you <<6>> Ultimate every |cffffff1.5|r seconds for <<7>>."
-msgstr "大きく切り付け、敵に不意打ちを仕掛ける。<<1>>を与えて<<2>>の効果を付与する。敵の与ダメージを<<3>>、<<4>>の間低下させる。\r\n\r\nこのアビリティで攻撃することにより<<5>>を獲得し、アルティマが追加で<<6>>、|cffffff1.5|r秒ごとに<<7>>の間与えられる。"
-
-#: 198758357-0-38264
-msgctxt "198758357-0-38264"
-msgid "Heroic Slash"
-msgstr "ヒロイック・スラッシュ"
-
-#: 132143172-0-38256
-msgctxt "132143172-0-38256"
-msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>.\n\nAfflicts the enemy with <<3>>, reducing their Physical Resistance by <<4>> for <<5>>.\n\nYou also gain <<6>>, reducing your damage taken by <<7>> for <<8>>."
-msgstr "正確無比な突きを敵に繰り出し、<<1>>を与えて<<2>>の間、自分を攻撃するよう敵を挑発する。\r\n\r\n敵に<<3>>の効果を与え、相手の物理耐性を<<4>>、<<5>>の間低下させる。\r\n\r\nさらに自身は<<6>>を獲得し、被ダメージが<<7>>、<<8>>の間低下する。"
-
-#: 198758357-0-38256
-msgctxt "198758357-0-38256"
-msgid "Ransack"
-msgstr "ランサック"
-
-#: 132143172-0-38250
-msgctxt "132143172-0-38250"
-msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>.\n\nAlso afflicts the enemy with <<3>> and <<4>>, reducing their Physical Resistance and Spell Resistance by <<5>> for <<6>>."
-msgstr "正確無比な突きを敵に繰り出し、<<1>>を与えて<<2>>の間、自分を攻撃するよう敵を挑発する。\r\n\r\n敵に<<3>>と<<4>>の効果を与え、相手の物理耐性と呪文耐性を<<5>>、<<6>>の間低下させる。"
-
-#: 198758357-0-38250
-msgctxt "198758357-0-38250"
-msgid "Pierce Armor"
-msgstr "鎧貫通"
-
-#: 132143172-0-29422
-#, fuzzy
-msgctxt "132143172-0-29422"
-msgid "Reduces the Movement Speed penalty of Bracing.\n\nCurrent penalty: |cffffff48|r%"
-msgstr "踏ん張り中の移動速度ペナルティが低下する。\r\n\r\n現在のペナルティ: |cffffff48|r%"
-
-#: 198758357-0-29422
-msgctxt "198758357-0-29422"
-msgid "Battlefield Mobility"
-msgstr "機動防御"
-
-#: 132143172-0-29420
-msgctxt "132143172-0-29420"
-msgid "Reduces the Stamina cost of your One Hand and Shield abilities by <<1>> and reduces the cost of blocking by |cffffff18|r%."
-msgstr "片手武器と盾アビリティのスタミナ消費が<<1>>減少し、防御の消費も|cffffff18|r%減少する。"
-
-#: 198758357-0-29420
-msgctxt "198758357-0-29420"
-msgid "Fortress"
-msgstr "要塞"
+#: 198758357-0-28306
+msgctxt "198758357-0-28306"
+msgid "Puncture"
+msgstr "穿孔"
 
 #: 132143172-0-29415
 msgctxt "132143172-0-29415"
-msgid "Improves your standard bash attacks.  Your Bash attacks gain an additional <<1>> Weapon and Spell Damage and cost |cffffff20|r% less Stamina."
-msgstr "通常の強撃が強化される。強撃に<<1>>武器ダメージと呪文ダメージが追加され、スタミナ消費が|cffffff20|r%減少する。"
+msgid "Improves your standard bash attacks, causing them to deal <<1>> more damage and cost |cffffff20|r% less Stamina."
+msgstr "通常の強撃が強化される。<<1>>ダメージが追加され、スタミナ消費が|cffffff20|r%減少する。"
 
 #: 198758357-0-29415
 msgctxt "198758357-0-29415"
 msgid "Deadly Bash"
 msgstr "デッドリー・バッシュ"
 
-#: 132143172-0-29399
-msgctxt "132143172-0-29399"
-msgid "Increases the amount of damage you can block from projectiles and ranged attacks by <<1>>."
-msgstr "投射物と遠距離攻撃を防御したときのダメージ軽減量が<<1>>増加する。"
+#: 132143172-0-28304
+msgctxt "132143172-0-28304"
+msgid "Surprise an enemy with a deep lunge, dealing <<1>> and afflicting them  with <<2>>, reducing their damage done by <<3>> for <<4>>."
+msgstr "大きく切り付け、敵に不意打ちを仕掛ける。<<1>>を与えて<<2>>の効果を付与する。敵の与ダメージを<<3>、<<4>>の間低下させる。"
 
-#: 198758357-0-29399
-msgctxt "198758357-0-29399"
-msgid "Deflect Bolts"
-msgstr "対射撃防御"
-
-#: 132143172-0-29397
-msgctxt "132143172-0-29397"
-msgid "Increases your Weapon Damage by <<1>>% and the amount of damage you can block by <<2>>."
-msgstr "武器ダメージが<<1>>%上昇し、防御できるダメージ量が<<2>>増加する。"
-
-#: 198758357-0-29397
-msgctxt "198758357-0-29397"
-msgid "Sword and Board"
-msgstr "剣と盾"
+#: 198758357-0-28304
+msgctxt "198758357-0-28304"
+msgid "Low Slash"
+msgstr "ロースラッシュ"
 
 #: 132143172-0-28727
 msgctxt "132143172-0-28727"
@@ -254,15 +251,15 @@ msgctxt "198758357-0-28727"
 msgid "Defensive Posture"
 msgstr "防御態勢"
 
-#: 132143172-0-28719
-msgctxt "132143172-0-28719"
-msgid "Rush an enemy and ram them, dealing <<1>> and stunning them for <<2>>."
-msgstr "敵に体当たりして<<1>>を与え、<<2>>間気絶させる。"
+#: 132143172-0-29397
+msgctxt "132143172-0-29397"
+msgid "Increases your Weapon Damage by <<1>>% and the amount of damage you can block by <<2>>."
+msgstr "武器ダメージが<<1>>%上昇し、防御できるダメージ量が<<2>>増加する。"
 
-#: 198758357-0-28719
-msgctxt "198758357-0-28719"
-msgid "Shield Charge"
-msgstr "シールドチャージ"
+#: 198758357-0-29397
+msgctxt "198758357-0-29397"
+msgid "Sword and Board"
+msgstr "剣と盾"
 
 #: 132143172-0-28365
 msgctxt "132143172-0-28365"
@@ -274,22 +271,22 @@ msgctxt "198758357-0-28365"
 msgid "Power Bash"
 msgstr "パワーバッシュ"
 
-#: 132143172-0-28306
-msgctxt "132143172-0-28306"
-msgid "Thrust your weapon with disciplined precision at an enemy, dealing <<1>> and taunting them to attack you for <<2>>.\n\nAlso afflicts the enemy with <<3>>, reducing their Physical Resistance by <<4>> for <<5>>."
-msgstr "正確無比な突きを繰り出して敵に<<1>>を与え、<<2>>間その敵を挑発して自分を攻撃させる。\r\n\r\n敵に<<3>>の効果を与え、物理耐性を<<4>>、<<5>>間低下させる。"
+#: 132143172-0-29399
+msgctxt "132143172-0-29399"
+msgid "Increases the amount of damage you can block from projectiles and ranged attacks by <<1>>."
+msgstr "投射物と遠距離攻撃を防御したときのダメージ軽減量が<<1>>増加する。"
 
-#: 198758357-0-28306
-msgctxt "198758357-0-28306"
-msgid "Puncture"
-msgstr "穿孔"
+#: 198758357-0-29399
+msgctxt "198758357-0-29399"
+msgid "Deflect Bolts"
+msgstr "対射撃防御"
 
-#: 132143172-0-28304
-msgctxt "132143172-0-28304"
-msgid "Surprise an enemy with a deep lunge, dealing <<1>> and afflicting them  with <<2>>, reducing their damage done by <<3>> for <<4>>."
-msgstr "大きく切り付け、敵に不意打ちを仕掛ける。<<1>>を与えて<<2>>の効果を付与する。敵の与ダメージを<<3>、<<4>>の間低下させる。"
+#: 132143172-0-38317
+msgctxt "132143172-0-38317"
+msgid "Bolster your defenses, gaining a damage shield that absorbs up to <<1>> damage for <<2>>.  \n\nWhile the shield persists, you are healed for <<3>> Health the next time a harmful Direct Damage projectile hits you.  This effect can occur once per cast.\n\nThis ability scales off your Max Health."
+msgstr "防御を高め、最大<<1>>のダメージを吸収するダメージシールドを<<2>>の間展開する。\r\n\r\nシールドを展開している間、次に直接ダメージを与えようとする投射物に攻撃されると体力を<<3>>回復する。この効果は詠唱ごとに1度だけ発動する。\r\n\r\nこのアビリティの効力は最大体力に比例して変動する。"
 
-#: 198758357-0-28304
-msgctxt "198758357-0-28304"
-msgid "Low Slash"
-msgstr "ロースラッシュ"
+#: 198758357-0-38317
+msgctxt "198758357-0-38317"
+msgid "Absorb Missile"
+msgstr "飛び道具吸収"

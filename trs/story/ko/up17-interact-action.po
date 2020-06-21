@@ -11,441 +11,820 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 59991493-3-579
-msgctxt "59991493-3-579"
-msgid "Extinguished"
-msgstr "사라져버림"
+#: 7949764-0-56658
+msgctxt "7949764-0-56658"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
 
-#: 219689294-3-579
-msgctxt "219689294-3-579"
-msgid "Light"
-msgstr "불 붙이기"
+#: 7949764-0-56659
+msgctxt "7949764-0-56659"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
 
-#: 59991493-3-479
-msgctxt "59991493-3-479"
-msgid "Not Used"
-msgstr "미사용"
-
-#: 219689294-2-579
-msgctxt "219689294-2-579"
-msgid "Extinguish"
-msgstr "불 끄기"
-
-#: 59991493-2-531
-msgctxt "59991493-2-531"
-msgid "Extinguished"
-msgstr "불 꺼짐"
-
-#: 219689294-1-585
-msgctxt "219689294-1-585"
-msgid "Close"
-msgstr "닫기"
-
-#: 59991493-1-584
-msgctxt "59991493-1-584"
-msgid "Active"
-msgstr "엑티브"
-
-#: 219689294-1-584
-msgctxt "219689294-1-584"
-msgid "Deactivate"
-msgstr "해제하기"
+#: 7949764-0-56654
+msgctxt "7949764-0-56654"
+msgid "Find <<1>>'s Allies"
+msgstr "<<1>>의 둉료 찾기"
 
 #: 219689294-1-582
 msgctxt "219689294-1-582"
 msgid "Gone"
 msgstr "떠남"
 
-#: 219689294-1-581
-msgctxt "219689294-1-581"
-msgid "Use"
-msgstr "사용하기"
+#: 7949764-0-56655
+msgctxt "7949764-0-56655"
+msgid "Stop Orryn the Black's Necromantic Ritual"
+msgstr "흑의 오린의 강령술 의식 저지하기"
 
-#: 59991493-1-579
-msgctxt "59991493-1-579"
-msgid "Second Sacrament"
-msgstr "두번째 성사"
+#: 7949764-0-59008
+msgctxt "7949764-0-59008"
+msgid "Left the Mines of Khuras"
+msgstr "쿠라스 광산을 떠나기"
 
-#: 219689294-1-579
-msgctxt "219689294-1-579"
-msgid "Light"
-msgstr "불 붙이기"
+#: 7949764-0-59009
+msgctxt "7949764-0-59009"
+msgid "Logged"
+msgstr "로그아웃"
 
-#: 59991493-1-577
-msgctxt "59991493-1-577"
-msgid "Open"
-msgstr "열기"
+#: 7949764-0-56657
+msgctxt "7949764-0-56657"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
 
-#: 219689294-1-577
-msgctxt "219689294-1-577"
-msgid "Close"
-msgstr "닫기"
+#: 7949764-0-58279
+msgctxt "7949764-0-58279"
+msgid "Read Scroll of Glorious Battle and Kill the <<1>>"
+msgstr "영광스러운 전투 스크롤을 읽고 <<1>> 죽이기"
 
-#: 59991493-1-566
-#, fuzzy
-msgctxt "59991493-1-566"
-msgid "Lit"
-msgstr "점등"
+#: 7949764-0-58037
+msgctxt "7949764-0-58037"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
 
-#: 263004526-0-82309
-msgctxt "263004526-0-82309"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-56650
+msgctxt "7949764-0-56650"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
 
-#: 12912341-0-80419
-msgctxt "12912341-0-80419"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-58278
+msgctxt "7949764-0-58278"
+msgid "Enter Scalecaller Peak in Veteran Mode"
+msgstr "비늘소환자 봉우리 베테랑 모드에 들어가기"
 
-#: 263004526-0-80419
-msgctxt "263004526-0-80419"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-58036
+msgctxt "7949764-0-58036"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
 
-#: 12912341-0-80418
-msgctxt "12912341-0-80418"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-56651
+msgctxt "7949764-0-56651"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
 
-#: 263004526-0-80418
-msgctxt "263004526-0-80418"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-58710
+msgctxt "7949764-0-58710"
+msgid "Find Oracle Marieve"
+msgstr "예언자 마리브 찾기"
 
-#: 12912341-0-79763
-msgctxt "12912341-0-79763"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-56652
+msgctxt "7949764-0-56652"
+msgid "Continue Exploring <<1>> for Clues"
+msgstr "단서를 위해 <<1>>을 계속 탐험하기"
 
-#: 263004526-0-79763
-msgctxt "263004526-0-79763"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-58038
+msgctxt "7949764-0-58038"
+msgid "Travel Via the Enchanted Boat"
+msgstr "마법이 부여된 보트를 이용해서 여행하기"
 
-#: 12912341-0-79071
-msgctxt "12912341-0-79071"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-56653
+msgctxt "7949764-0-56653"
+msgid "Talk to Yisareh"
+msgstr "이샤라와 대화하기"
 
-#: 263004526-0-79071
-msgctxt "263004526-0-79071"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-59011
+msgctxt "7949764-0-59011"
+msgid "Logged"
+msgstr "로그아웃"
 
-#: 12912341-0-79068
-msgctxt "12912341-0-79068"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-58288
+msgctxt "7949764-0-58288"
+msgid "Defeat Orryn the Black in Fang Lair"
+msgstr "팽레어에서 흑의 오린 처치하기 "
 
-#: 263004526-0-79068
-msgctxt "263004526-0-79068"
-msgid "Talk"
-msgstr "대화하기"
+#: 7949764-0-56660
+msgctxt "7949764-0-56660"
+msgid "Traverse the <<1>>"
+msgstr "<<1>> 통과하기"
 
-#: 12912341-0-79053
-msgctxt "12912341-0-79053"
-msgid "Talk"
-msgstr "대화하기"
-
-#: 263004526-0-79053
-msgctxt "263004526-0-79053"
-msgid "Talk"
-msgstr "대화하기"
-
-#: 7949764-0-59140
-msgctxt "7949764-0-59140"
-msgid "Left Area"
-msgstr "지역을 떠나기"
-
-#: 219689294-0-585
-msgctxt "219689294-0-585"
-msgid "Open"
-msgstr "열기"
-
-#: 7949764-0-58426
-msgctxt "7949764-0-58426"
-msgid "Brewers and Cooks can provide Recipes"
-msgstr "양조사와 요리사에게서 제조법을 얻을 수 있음"
-
-#: 219689294-0-584
-msgctxt "219689294-0-584"
-msgid "Activate"
-msgstr "작동하기"
-
-#: 7949764-0-58294
-msgctxt "7949764-0-58294"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "하드 모드는 베테랑 모드에서만 가능합니다."
-
-#: 219689294-0-581
-msgctxt "219689294-0-581"
-msgid "Use"
-msgstr "사용하기"
-
-#: 7949764-0-58088
-msgctxt "7949764-0-58088"
+#: 7949764-0-59010
+msgctxt "7949764-0-59010"
 msgid "Died"
 msgstr "사망"
 
-#: 219689294-0-579
-msgctxt "219689294-0-579"
-msgid "Light"
-msgstr "불 붙이기"
+#: 7949764-0-58280
+msgctxt "7949764-0-58280"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "하드 모드 챌린지는 베테랑 모드에서만 사용 가능"
 
-#: 59991493-0-577
-msgctxt "59991493-0-577"
-msgid "Closed"
-msgstr "닫힘"
-
-#: 219689294-0-577
-msgctxt "219689294-0-577"
-msgid "Open"
-msgstr "열기"
-
-#: 7949764-0-57656
-msgctxt "7949764-0-57656"
-msgid "Travel to the Temple Entrance"
-msgstr "사원 입구로 여행하기"
-
-#: 70307621-0-2575
-msgctxt "70307621-0-2575"
-msgid "Enter"
-msgstr "들어가기"
-
-#: 8158238-0-2574
-msgctxt "8158238-0-2574"
-msgid "Enter"
-msgstr "들어가기"
-
-#: 70307621-0-2574
-msgctxt "70307621-0-2574"
-msgid "Enter"
-msgstr "들어가기"
-
-#: 70307621-0-2521
-msgctxt "70307621-0-2521"
+#: 74865733-0-23063
+msgctxt "74865733-0-23063"
 msgid "Examine"
 msgstr "조사하기"
-
-#: 108533454-0-23678
-msgctxt "108533454-0-23678"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-23677
-msgctxt "74865733-0-23677"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23677
-msgctxt "108533454-0-23677"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-23676
-msgctxt "74865733-0-23676"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23676
-msgctxt "108533454-0-23676"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-23675
-msgctxt "74865733-0-23675"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23675
-msgctxt "108533454-0-23675"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-23674
-msgctxt "74865733-0-23674"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23674
-msgctxt "108533454-0-23674"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-23673
-msgctxt "74865733-0-23673"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23673
-msgctxt "108533454-0-23673"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 74865733-0-23672
-msgctxt "74865733-0-23672"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23672
-msgctxt "108533454-0-23672"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 108533454-0-23601
-msgctxt "108533454-0-23601"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 108533454-0-23571
-msgctxt "108533454-0-23571"
-msgid "Examining …"
-msgstr "조사하는 중…"
-
-#: 108533454-0-23564
-msgctxt "108533454-0-23564"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23545
-msgctxt "108533454-0-23545"
-msgid "Take"
-msgstr "가지기"
-
-#: 74865733-0-23530
-msgctxt "74865733-0-23530"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-23530
-msgctxt "108533454-0-23530"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23529
-msgctxt "74865733-0-23529"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-23529
-msgctxt "108533454-0-23529"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23528
-msgctxt "74865733-0-23528"
-msgid "Activate"
-msgstr "작동하기"
-
-#: 108533454-0-23528
-msgctxt "108533454-0-23528"
-msgid "Activating…"
-msgstr "활성화 중…"
-
-#: 74865733-0-23516
-msgctxt "74865733-0-23516"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23507
-msgctxt "108533454-0-23507"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23504
-msgctxt "74865733-0-23504"
-msgid "0"
-msgstr "0-G-"
-
-#: 108533454-0-23498
-msgctxt "108533454-0-23498"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23497
-msgctxt "74865733-0-23497"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-23497
-msgctxt "108533454-0-23497"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23270
-msgctxt "74865733-0-23270"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-23270
-msgctxt "108533454-0-23270"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23269
-msgctxt "74865733-0-23269"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 108533454-0-23269
-msgctxt "108533454-0-23269"
-msgid "Traveling …"
-msgstr "이동하는 중…"
-
-#: 74865733-0-23215
-msgctxt "74865733-0-23215"
-msgid "Use"
-msgstr "사용하기"
-
-#: 108533454-0-23180
-msgctxt "108533454-0-23180"
-msgid "Examining…"
-msgstr "조사중…"
-
-#: 74865733-0-23126
-msgctxt "74865733-0-23126"
-msgid "Destroy"
-msgstr "파괴하기"
-
-#: 59991493-2-579
-msgctxt "59991493-2-579"
-msgid "Last Sacrament"
-msgstr "최후의 성찬"
-
-#: 59991493-2-479
-msgctxt "59991493-2-479"
-msgid "Lock Complete"
-msgstr "잠금 완료"
-
-#: 59991493-2-416
-msgctxt "59991493-2-416"
-msgid "No Target/No Participants"
-msgstr "대상 없음/참가자 없음"
-
-#: 59991493-2-383
-msgctxt "59991493-2-383"
-msgid "Done!"
-msgstr "완료!"
 
 #: 59991493-2-307
 msgctxt "59991493-2-307"
 msgid "Done!"
 msgstr "완료!"
 
+#: 74865733-0-24035
+msgctxt "74865733-0-24035"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 7949764-0-58705
+msgctxt "7949764-0-58705"
+msgid "Earth"
+msgstr "땅(Earth)"
+
+#: 7949764-0-56647
+msgctxt "7949764-0-56647"
+msgid "Destroy the Undead Menagerie"
+msgstr "언데드 동물원을 파괴하기"
+
+#: 7949764-0-58704
+msgctxt "7949764-0-58704"
+msgid "water"
+msgstr "물(water)"
+
+#: 7949764-0-56648
+msgctxt "7949764-0-56648"
+msgid "Kill Ulfnor and Sabina"
+msgstr "울프노어와 사비나 죽이기"
+
+#: 7949764-0-56649
+msgctxt "7949764-0-56649"
+msgid "Reach the Barrier Seal"
+msgstr "보호막 봉인에 도달하기"
+
+#: 74865733-0-23504
+msgctxt "74865733-0-23504"
+msgid "0"
+msgstr "0-G-"
+
+#: 7949764-0-58703
+msgctxt "7949764-0-58703"
+msgid "Air"
+msgstr "공기(Air)"
+
+#: 108533454-0-23749
+msgctxt "108533454-0-23749"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 7949764-0-57057
+msgctxt "7949764-0-57057"
+msgid "Talk to Oracle Marieve"
+msgstr "예언자 마리브와 대화하기"
+
+#: 7949764-0-58149
+msgctxt "7949764-0-58149"
+msgid "Search for Marieve"
+msgstr "마리브 찾기"
+
+#: 70307621-0-2579
+msgctxt "70307621-0-2579"
+msgid "Enter"
+msgstr "들어가기"
+
+#: 7949764-0-58274
+msgctxt "7949764-0-58274"
+msgid "Complete Scalecaller Peak"
+msgstr "비늘소환자 봉우리를 완료하기"
+
+#: 7949764-0-57064
+msgctxt "7949764-0-57064"
+msgid "Enter the Spiral Skein"
+msgstr "나선 실타래에 들어가기"
+
+#: 7949764-0-58035
+msgctxt "7949764-0-58035"
+msgid "Travel Via the Enchanted Boat"
+msgstr "마법이 부여된 보트를 이용해서 여행하기"
+
+#: 7949764-0-58150
+msgctxt "7949764-0-58150"
+msgid "Search for Marieve"
+msgstr "마리브 찾기"
+
+#: 7949764-0-57061
+msgctxt "7949764-0-57061"
+msgid "Break the North Binding Pinion"
+msgstr "북쪽에 있는,구속 장치의 끝부분을 파괴하기"
+
+#: 59991493-0-497
+msgctxt "59991493-0-497"
+msgid "Offensive Scroll"
+msgstr ""
+
+#: 7949764-0-57181
+msgctxt "7949764-0-57181"
+msgid "Search for Marieve"
+msgstr "마리브 찾기"
+
+#: 7949764-0-57060
+msgctxt "7949764-0-57060"
+msgid "Break the South Binding Pinion"
+msgstr "서쪽에 있는, 구속 장치의 끝부분을 파괴하기"
+
+#: 59991493-0-498
+msgctxt "59991493-0-498"
+msgid "Turned Up"
+msgstr "불 켜짐"
+
+#: 7949764-0-57063
+msgctxt "7949764-0-57063"
+msgid "Talk to Oracle Marieve in Skywatch"
+msgstr "스카이워치에서 예언자 마리브와 대화하기"
+
+#: 59991493-0-496
+msgctxt "59991493-0-496"
+msgid "Lit"
+msgstr "불 켜짐"
+
+#: 74865733-0-23196
+msgctxt "74865733-0-23196"
+msgid "Take"
+msgstr "가지기"
+
+#: 7949764-0-56995
+msgctxt "7949764-0-56995"
+msgid "Talk to Oracle Marieve"
+msgstr "예언자 마리브와 대화하기"
+
+#: 59991493-1-120
+msgctxt "59991493-1-120"
+msgid "65%"
+msgstr ""
+
+#: 7949764-0-56997
+msgctxt "7949764-0-56997"
+msgid "Search for the Oracle in Bewan"
+msgstr "베완에서 예언자를 찾기"
+
+#: 7949764-0-57047
+msgctxt "7949764-0-57047"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
+
+#: 7949764-0-57054
+msgctxt "7949764-0-57054"
+msgid "Go to Bewan"
+msgstr "베완으로 가기"
+
+#: 7949764-0-57053
+msgctxt "7949764-0-57053"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
+
+#: 59991493-1-479
+msgctxt "59991493-1-479"
+msgid "Lock Start"
+msgstr "잠금 시작"
+
+#: 7949764-0-57055
+msgctxt "7949764-0-57055"
+msgid "Find Oracle Marieve"
+msgstr "예언자 마리브 찾기"
+
+#: 7949764-0-57052
+msgctxt "7949764-0-57052"
+msgid "Place the Elemental Items"
+msgstr "원소의 물건들을 배치하기"
+
+#: 108533454-0-23600
+msgctxt "108533454-0-23600"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 108533454-0-23601
+msgctxt "108533454-0-23601"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 7949764-0-58118
+msgctxt "7949764-0-58118"
+msgid "Item C Earth"
+msgstr "항목 C 지구"
+
+#: 7949764-0-56731
+msgctxt "7949764-0-56731"
+msgid "Explore the <<1>>"
+msgstr "<<1>> 탐색하기"
+
+#: 7949764-0-58117
+msgctxt "7949764-0-58117"
+msgid "Item B Water"
+msgstr "항목 B 물"
+
+#: 7949764-0-58116
+msgctxt "7949764-0-58116"
+msgid "Item A Air"
+msgstr "항목 A 공기"
+
+#: 59991493-1-498
+msgctxt "59991493-1-498"
+msgid "Turned Down"
+msgstr "불 꺼짐"
+
+#: 59991493-1-497
+msgctxt "59991493-1-497"
+msgid "Defensive Scroll"
+msgstr "수비 스크롤"
+
+#: 59991493-1-496
+msgctxt "59991493-1-496"
+msgid "Extinguished"
+msgstr "불 꺼짐"
+
 #: 59991493-2-120
 msgctxt "59991493-2-120"
 msgid "35%"
 msgstr ""
 
-#: 59991493-1-585
-msgctxt "59991493-1-585"
+#: 7949764-0-58112
+msgctxt "7949764-0-58112"
+msgid "Find Oracle Marieve in the Mines"
+msgstr "광산에서 예언자 마리브 찾기"
+
+#: 59991493-2-479
+msgctxt "59991493-2-479"
+msgid "Lock Complete"
+msgstr "잠금 완료"
+
+#: 7949764-0-57382
+msgctxt "7949764-0-57382"
+msgid "Leave the Spiral Skein"
+msgstr "나선 실타래 떠나기"
+
+#: 108533454-0-23598
+msgctxt "108533454-0-23598"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 108533454-0-23599
+msgctxt "108533454-0-23599"
+msgid "Opening…"
+msgstr "여는 중…"
+
+#: 7949764-0-57128
+msgctxt "7949764-0-57128"
+msgid "Destroy the Center Fulcrum"
+msgstr "중앙 지렛대를 파괴하기"
+
+#: 7949764-0-57129
+msgctxt "7949764-0-57129"
+msgid "Portal Use"
+msgstr "포탈을 사용하기"
+
+#: 7949764-0-57130
+msgctxt "7949764-0-57130"
+msgid "Bewan Theater"
+msgstr "베완 극장"
+
+#: 59991493-0-505
+msgctxt "59991493-0-505"
+msgid "Intact"
+msgstr "온전한"
+
+#: 7949764-0-56944
+msgctxt "7949764-0-56944"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
+
+#: 7949764-0-56945
+msgctxt "7949764-0-56945"
+msgid "Find the Elemental Items"
+msgstr "원소 물건 찾기"
+
+#: 74865733-0-23126
+msgctxt "74865733-0-23126"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 7949764-0-56940
+msgctxt "7949764-0-56940"
+msgid "Use Medallion of Summoning"
+msgstr "소환의 메달 사용하기"
+
+#: 7949764-0-56941
+msgctxt "7949764-0-56941"
+msgid "Go to the Mines of Khuras"
+msgstr "쿠라스 광산으로 가기"
+
+#: 59991493-2-383
+msgctxt "59991493-2-383"
+msgid "Done!"
+msgstr "완료!"
+
+#: 7949764-0-56943
+msgctxt "7949764-0-56943"
+msgid "SOD Boss"
+msgstr "SOD 보스"
+
+#: 7949764-0-58694
+msgctxt "7949764-0-58694"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
+
+#: 59991493-0-518
+msgctxt "59991493-0-518"
 msgid "Open"
 msgstr "열기"
 
-#: 59991493-1-581
-msgctxt "59991493-1-581"
-msgid "Ready To Strike"
-msgstr "공격 준비 완료"
+#: 59991493-0-519
+msgctxt "59991493-0-519"
+msgid "Disassembled"
+msgstr "분해 되었음"
+
+#: 59991493-0-517
+msgctxt "59991493-0-517"
+msgid "Active"
+msgstr "활성화"
+
+#: 7949764-0-56937
+msgctxt "7949764-0-56937"
+msgid "Talk to Wyress Aelynn"
+msgstr "위어리스 에일린(Aelynn)과 대화하기"
+
+#: 74865733-0-23215
+msgctxt "74865733-0-23215"
+msgid "Use"
+msgstr "사용하기"
+
+#: 7949764-0-56935
+msgctxt "7949764-0-56935"
+msgid "Talk to Vanus Galerion"
+msgstr "바누스 갈레리온과 대화하기"
+
+#: 7949764-0-56936
+msgctxt "7949764-0-56936"
+msgid "Find the Oracle of the Wyrd"
+msgstr "위어드의 예언자를 찾기"
+
+#: 59991493-3-479
+msgctxt "59991493-3-479"
+msgid "Not Used"
+msgstr "미사용"
+
+#: 59991493-0-528
+msgctxt "59991493-0-528"
+msgid "Extra Sweet"
+msgstr "단 맛을 첨가하기"
+
+#: 74865733-0-23100
+msgctxt "74865733-0-23100"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 7949764-0-58426
+msgctxt "7949764-0-58426"
+msgid "Brewers and Cooks can provide Recipes"
+msgstr "양조사와 요리사에게서 제조법을 얻을 수 있음"
+
+#: 59991493-0-531
+msgctxt "59991493-0-531"
+msgid "Magically Lit"
+msgstr "마법에 의해 점등"
+
+#: 59991493-1-505
+msgctxt "59991493-1-505"
+msgid "Broken"
+msgstr "부서진"
+
+#: 7949764-0-58539
+msgctxt "7949764-0-58539"
+msgid "Encroaching Wildlife"
+msgstr "위협적인 야생 동물"
+
+#: 108533454-0-23555
+msgctxt "108533454-0-23555"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 108533454-0-23558
+msgctxt "108533454-0-23558"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 108533454-0-23557
+msgctxt "108533454-0-23557"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 7949764-0-58657
+msgctxt "7949764-0-58657"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
+
+#: 7949764-0-58656
+msgctxt "7949764-0-58656"
+msgid "Find ingredients or purchase them from a grocer"
+msgstr "재료를 찾거나 식료품 점에서 구입하기"
+
+#: 70307621-0-2521
+msgctxt "70307621-0-2521"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23559
+msgctxt "108533454-0-23559"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 7949764-0-58659
+msgctxt "7949764-0-58659"
+msgid "Wait for Your Cake"
+msgstr "케이크가 완성될 때까지 기다리기"
+
+#: 7949764-0-58538
+msgctxt "7949764-0-58538"
+msgid "Encroaching Wildlife"
+msgstr "위협적인 야생 동물"
+
+#: 70307621-0-2520
+msgctxt "70307621-0-2520"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 7949764-0-58658
+msgctxt "7949764-0-58658"
+msgid "Find <<1>>"
+msgstr "<<1>> 찾기"
+
+#: 7949764-0-58653
+msgctxt "7949764-0-58653"
+msgid "Gather Bananas"
+msgstr "바나나를 모으기"
+
+#: 7949764-0-58655
+msgctxt "7949764-0-58655"
+msgid "Gather Honey"
+msgstr "꿀을 모으기"
+
+#: 7949764-0-58654
+msgctxt "7949764-0-58654"
+msgid "Gather Flour"
+msgstr "밀가루를 모으기"
+
+#: 7949764-0-58660
+msgctxt "7949764-0-58660"
+msgid "Purchase Ingredients From a Grocer"
+msgstr "식료품점에서 재료를 구입하기"
+
+#: 7949764-0-58662
+msgctxt "7949764-0-58662"
+msgid "Purchase Ingredients From a Grocer"
+msgstr "식료품점에서 재료를 구입하기"
+
+#: 7949764-0-58541
+msgctxt "7949764-0-58541"
+msgid "Encroaching Wildlife"
+msgstr "위협적인 야생 동물"
+
+#: 7949764-0-58661
+msgctxt "7949764-0-58661"
+msgid "Purchase Ingredients From a Grocer"
+msgstr "식료품점에서 재료를 구입하기"
+
+#: 7949764-0-58540
+msgctxt "7949764-0-58540"
+msgid "Encroaching Wildlife"
+msgstr "위협적인 야생 동물"
+
+#: 59991493-0-541
+msgctxt "59991493-0-541"
+msgid "Raised"
+msgstr ""
+
+#: 59991493-1-519
+msgctxt "59991493-1-519"
+msgid "Assembled"
+msgstr "조립 완료"
+
+#: 59991493-1-518
+msgctxt "59991493-1-518"
+msgid "Closed"
+msgstr "닫힘"
+
+#: 59991493-1-517
+msgctxt "59991493-1-517"
+msgid "Inactive"
+msgstr "비활성"
+
+#: 108533454-0-23561
+msgctxt "108533454-0-23561"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 108533454-0-23560
+msgctxt "108533454-0-23560"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 70307621-0-2519
+msgctxt "70307621-0-2519"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2518
+msgctxt "70307621-0-2518"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23562
+msgctxt "108533454-0-23562"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 70307621-0-2517
+msgctxt "70307621-0-2517"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2516
+msgctxt "70307621-0-2516"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23564
+msgctxt "108533454-0-23564"
+msgid "Opening..."
+msgstr "여는 중…"
+
+#: 70307621-0-2515
+msgctxt "70307621-0-2515"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 59991493-0-557
+msgctxt "59991493-0-557"
+msgid "Desecrated"
+msgstr "더럽혀졌다"
+
+#: 59991493-0-554
+msgctxt "59991493-0-554"
+msgid "Stacked"
+msgstr ""
+
+#: 59991493-0-555
+msgctxt "59991493-0-555"
+msgid "Filled"
+msgstr ""
+
+#: 59991493-0-552
+msgctxt "59991493-0-552"
+msgid "Cheesiest"
+msgstr "최고의 치즈"
+
+#: 59991493-0-553
+msgctxt "59991493-0-553"
+msgid "Scrying"
+msgstr ""
+
+#: 59991493-1-528
+msgctxt "59991493-1-528"
+msgid "Less Sweet"
+msgstr "덜 달콤한"
+
+#: 59991493-0-558
+msgctxt "59991493-0-558"
+msgid "Hot"
+msgstr "뜨겁다"
+
+#: 74865733-0-23778
+msgctxt "74865733-0-23778"
+msgid "0"
+msgstr "0-G-"
+
+#: 7949764-0-58088
+msgctxt "7949764-0-58088"
+msgid "Died"
+msgstr "사망"
+
+#: 7949764-0-58087
+msgctxt "7949764-0-58087"
+msgid "Left the Mines of Khuras"
+msgstr "쿠라스 광산(The Mines of Khuras)을 떠나기"
+
+#: 59991493-0-566
+msgctxt "59991493-0-566"
+msgid "Extinguished"
+msgstr "사라져버림"
+
+#: 7949764-0-58084
+msgctxt "7949764-0-58084"
+msgid "Left the Mines of Khuras"
+msgstr "쿠라스 광산(The Mines of Khuras)을 떠나기"
+
+#: 59991493-1-531
+msgctxt "59991493-1-531"
+msgid "Naturally Lit"
+msgstr "일반 조명"
+
+#: 7949764-0-58086
+msgctxt "7949764-0-58086"
+msgid "Died"
+msgstr "사망"
+
+#: 7949764-0-58085
+msgctxt "7949764-0-58085"
+msgid "Logged"
+msgstr "로그아웃"
+
+#: 7949764-0-58749
+msgctxt "7949764-0-58749"
+msgid "Talk to Vanus"
+msgstr "바누스와 대화하기"
+
+#: 7949764-0-57656
+msgctxt "7949764-0-57656"
+msgid "Travel to the Temple Entrance"
+msgstr "사원 입구로 여행하기"
+
+#: 219689294-0-582
+msgctxt "219689294-0-582"
+msgid "Portal"
+msgstr "포탈"
+
+#: 7949764-0-58750
+msgctxt "7949764-0-58750"
+msgid "Talk to Vanus"
+msgstr "바누스와 대화하기"
+
+#: 7949764-0-58072
+msgctxt "7949764-0-58072"
+msgid "Travel Via the Enchanted Boat"
+msgstr "마법이 부여된 보트를 이용해서 여행하기"
+
+#: 59991493-1-541
+msgctxt "59991493-1-541"
+msgid "Lowered"
+msgstr "낮추다"
+
+#: 74865733-0-23079
+msgctxt "74865733-0-23079"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-23512
+msgctxt "74865733-0-23512"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 70307621-0-2609
+msgctxt "70307621-0-2609"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-23514
+msgctxt "74865733-0-23514"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-23513
+msgctxt "74865733-0-23513"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-23516
+msgctxt "74865733-0-23516"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-23757
+msgctxt "74865733-0-23757"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 74865733-0-23515
+msgctxt "74865733-0-23515"
+msgid "Use"
+msgstr "사용하기"
+
+#: 7949764-0-59028
+msgctxt "7949764-0-59028"
+msgid "You Died"
+msgstr "당신은 사망하였습니다"
+
+#: 7949764-0-59026
+msgctxt "7949764-0-59026"
+msgid "You Died"
+msgstr "당신은 사망하였습니다"
+
+#: 7949764-0-59027
+msgctxt "7949764-0-59027"
+msgid "You Died"
+msgstr "당신은 사망하였습니다"
 
 #: 59991493-1-558
 msgctxt "59991493-1-558"
@@ -477,225 +856,81 @@ msgctxt "59991493-1-552"
 msgid "Cheesy"
 msgstr "값싼 치즈"
 
-#: 59991493-1-541
-msgctxt "59991493-1-541"
-msgid "Lowered"
-msgstr "낮추다"
-
-#: 59991493-1-531
-msgctxt "59991493-1-531"
-msgid "Naturally Lit"
-msgstr "일반 조명"
-
-#: 59991493-1-528
-msgctxt "59991493-1-528"
-msgid "Less Sweet"
-msgstr "덜 달콤한"
-
-#: 59991493-1-519
-msgctxt "59991493-1-519"
-msgid "Assembled"
-msgstr "조립 완료"
-
-#: 59991493-1-518
-msgctxt "59991493-1-518"
-msgid "Closed"
-msgstr "닫힘"
-
-#: 59991493-1-517
-msgctxt "59991493-1-517"
-msgid "Inactive"
-msgstr "비활성"
-
-#: 59991493-1-505
-msgctxt "59991493-1-505"
-msgid "Broken"
-msgstr "부서진"
-
-#: 59991493-1-498
-msgctxt "59991493-1-498"
-msgid "Turned Down"
-msgstr "불 꺼짐"
-
-#: 59991493-1-497
-msgctxt "59991493-1-497"
-msgid "Defensive Scroll"
-msgstr "수비 스크롤"
-
-#: 59991493-1-496
-msgctxt "59991493-1-496"
-msgid "Extinguished"
-msgstr "불 꺼짐"
-
-#: 59991493-1-479
-msgctxt "59991493-1-479"
-msgid "Lock Start"
-msgstr "잠금 시작"
-
 #: 59991493-1-310
 msgctxt "59991493-1-310"
 msgid "Destroy"
 msgstr "파괴하기"
 
-#: 59991493-1-120
-msgctxt "59991493-1-120"
-msgid "65%"
-msgstr ""
+#: 74865733-0-23080
+msgctxt "74865733-0-23080"
+msgid "Examine"
+msgstr "조사하기"
 
-#: 12912341-0-82309
-msgctxt "12912341-0-82309"
-msgid "Talk"
-msgstr "대화하기"
+#: 74865733-0-23081
+msgctxt "74865733-0-23081"
+msgid "Examine"
+msgstr "조사하기"
 
-#: 7949764-0-59028
-msgctxt "7949764-0-59028"
-msgid "You Died"
-msgstr "당신은 사망하였습니다"
+#: 7949764-0-56665
+msgctxt "7949764-0-56665"
+msgid "Continue up <<1>>"
+msgstr " <<1>> 계속하기"
 
-#: 7949764-0-59027
-msgctxt "7949764-0-59027"
-msgid "You Died"
-msgstr "당신은 사망하였습니다"
+#: 7949764-0-56666
+msgctxt "7949764-0-56666"
+msgid "Climb the <<1>>"
+msgstr " <<1>> 올라가기"
 
-#: 7949764-0-59026
-msgctxt "7949764-0-59026"
-msgid "You Died"
-msgstr "당신은 사망하였습니다"
+#: 7949764-0-56668
+msgctxt "7949764-0-56668"
+msgid "Defeat <<1>>"
+msgstr " <<1>> 처치하기"
 
-#: 7949764-0-59011
-msgctxt "7949764-0-59011"
-msgid "Logged"
-msgstr "로그아웃"
+#: 7949764-0-56661
+msgctxt "7949764-0-56661"
+msgid "Kill <<1>>"
+msgstr "<<1>> 죽이기"
 
-#: 7949764-0-59010
-msgctxt "7949764-0-59010"
-msgid "Died"
-msgstr "사망"
+#: 7949764-0-56662
+msgctxt "7949764-0-56662"
+msgid "Kill <<1>> and <<2>>"
+msgstr "<<1>>과 <<2>>을(를) 죽여라"
 
-#: 7949764-0-59009
-msgctxt "7949764-0-59009"
-msgid "Logged"
-msgstr "로그아웃"
+#: 7949764-0-56663
+msgctxt "7949764-0-56663"
+msgid "Climb <<1>>"
+msgstr " <<1>> 올라가기"
 
-#: 7949764-0-59008
-msgctxt "7949764-0-59008"
-msgid "Left the Mines of Khuras"
-msgstr "쿠라스 광산을 떠나기"
+#: 7949764-0-56664
+msgctxt "7949764-0-56664"
+msgid "Talk to <<1>>"
+msgstr "<<1>>와(과) 대화하기"
 
-#: 7949764-0-58750
-msgctxt "7949764-0-58750"
-msgid "Talk to Vanus"
-msgstr "바누스와 대화하기"
+#: 59991493-2-416
+msgctxt "59991493-2-416"
+msgid "No Target/No Participants"
+msgstr "대상 없음/참가자 없음"
 
-#: 7949764-0-58749
-msgctxt "7949764-0-58749"
-msgid "Talk to Vanus"
-msgstr "바누스와 대화하기"
+#: 59991493-0-479
+msgctxt "59991493-0-479"
+msgid "Not Used"
+msgstr "미사용"
 
-#: 7949764-0-58710
-msgctxt "7949764-0-58710"
-msgid "Find Oracle Marieve"
-msgstr "예언자 마리브 찾기"
+#: 7949764-0-58057
+msgctxt "7949764-0-58057"
+msgid "Find the Oracle of the Wyrd"
+msgstr "위어드의 예언자를 찾기"
 
-#: 7949764-0-58705
-msgctxt "7949764-0-58705"
-msgid "Earth"
-msgstr "땅(Earth)"
+#: 59991493-1-566
+#, fuzzy
+msgctxt "59991493-1-566"
+msgid "Lit"
+msgstr "점등"
 
-#: 7949764-0-58704
-msgctxt "7949764-0-58704"
-msgid "water"
-msgstr "물(water)"
-
-#: 7949764-0-58703
-msgctxt "7949764-0-58703"
-msgid "Air"
-msgstr "공기(Air)"
-
-#: 7949764-0-58694
-msgctxt "7949764-0-58694"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-58662
-msgctxt "7949764-0-58662"
-msgid "Purchase Ingredients From a Grocer"
-msgstr "식료품점에서 재료를 구입하기"
-
-#: 7949764-0-58661
-msgctxt "7949764-0-58661"
-msgid "Purchase Ingredients From a Grocer"
-msgstr "식료품점에서 재료를 구입하기"
-
-#: 7949764-0-58660
-msgctxt "7949764-0-58660"
-msgid "Purchase Ingredients From a Grocer"
-msgstr "식료품점에서 재료를 구입하기"
-
-#: 7949764-0-58659
-msgctxt "7949764-0-58659"
-msgid "Wait for Your Cake"
-msgstr "케이크가 완성될 때까지 기다리기"
-
-#: 7949764-0-58658
-msgctxt "7949764-0-58658"
-msgid "Find <<1>>"
-msgstr " <<1>> 찾기"
-
-#: 7949764-0-58657
-msgctxt "7949764-0-58657"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 7949764-0-58656
-msgctxt "7949764-0-58656"
-msgid "Find ingredients or purchase them from a grocer"
-msgstr "재료를 찾거나 식료품 점에서 구입하기"
-
-#: 7949764-0-58655
-msgctxt "7949764-0-58655"
-msgid "Gather Honey"
-msgstr "꿀을 모으기"
-
-#: 7949764-0-58654
-msgctxt "7949764-0-58654"
-msgid "Gather Flour"
-msgstr "밀가루를 모으기"
-
-#: 7949764-0-58653
-msgctxt "7949764-0-58653"
-msgid "Gather Bananas"
-msgstr "바나나를 모으기"
-
-#: 7949764-0-58541
-msgctxt "7949764-0-58541"
-msgid "Encroaching Wildlife"
-msgstr "위협적인 야생 동물"
-
-#: 7949764-0-58540
-msgctxt "7949764-0-58540"
-msgid "Encroaching Wildlife"
-msgstr "위협적인 야생 동물"
-
-#: 7949764-0-58539
-msgctxt "7949764-0-58539"
-msgid "Encroaching Wildlife"
-msgstr "위협적인 야생 동물"
-
-#: 7949764-0-58538
-msgctxt "7949764-0-58538"
-msgid "Encroaching Wildlife"
-msgstr "위협적인 야생 동물"
-
-#: 59991493-0-585
-msgctxt "59991493-0-585"
-msgid "Closed"
-msgstr "닫힘"
-
-#: 59991493-0-584
-msgctxt "59991493-0-584"
-msgid "Inactive"
-msgstr "비활성화 하기"
+#: 7949764-0-58056
+msgctxt "7949764-0-58056"
+msgid "Find the Oracle of the Wyrd"
+msgstr "위어드의 예언자를 찾기"
 
 #: 7949764-0-58293
 msgctxt "7949764-0-58293"
@@ -707,657 +942,352 @@ msgctxt "7949764-0-58292"
 msgid "Enter Fang Lair in Veteran Mode"
 msgstr "송곳니 둥지 베테랑 모드로 입장"
 
-#: 7949764-0-58288
-msgctxt "7949764-0-58288"
-msgid "Defeat Orryn the Black in Fang Lair"
-msgstr "팽레어에서 흑의 오린 처치하기 "
-
-#: 7949764-0-58280
-msgctxt "7949764-0-58280"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr "하드 모드 챌린지는 베테랑 모드에서만 사용 가능"
-
-#: 7949764-0-58279
-msgctxt "7949764-0-58279"
-msgid "Read Scroll of Glorious Battle and Kill the <<1>>"
-msgstr "영광스러운 전투 스크롤을 읽고 <<1>> 죽이기"
-
-#: 7949764-0-58278
-msgctxt "7949764-0-58278"
-msgid "Enter Scalecaller Peak in Veteran Mode"
-msgstr "비늘소환자 봉우리 베테랑 모드에 들어가기"
-
-#: 7949764-0-58274
-msgctxt "7949764-0-58274"
-msgid "Complete Scalecaller Peak"
-msgstr "비늘소환자 봉우리를 완료하기"
-
-#: 219689294-0-582
-msgctxt "219689294-0-582"
-msgid "Portal"
-msgstr "포탈"
-
-#: 7949764-0-58150
-msgctxt "7949764-0-58150"
-msgid "Search for Marieve"
-msgstr "마리브 찾기"
-
-#: 7949764-0-58149
-msgctxt "7949764-0-58149"
-msgid "Search for Marieve"
-msgstr "마리브 찾기"
-
-#: 7949764-0-58118
-msgctxt "7949764-0-58118"
-msgid "Item C Earth"
-msgstr "항목 C 지구"
-
-#: 7949764-0-58117
-msgctxt "7949764-0-58117"
-msgid "Item B Water"
-msgstr "항목 B 물"
-
-#: 7949764-0-58116
-msgctxt "7949764-0-58116"
-msgid "Item A Air"
-msgstr "항목 A 공기"
-
-#: 7949764-0-58112
-msgctxt "7949764-0-58112"
-msgid "Find Oracle Marieve in the Mines"
-msgstr "광산에서 예언자 마리브 찾기"
-
-#: 59991493-0-581
-msgctxt "59991493-0-581"
-msgid "Ready To Strike"
-msgstr "공격을 준비하기"
-
-#: 7949764-0-58087
-msgctxt "7949764-0-58087"
-msgid "Left the Mines of Khuras"
-msgstr "쿠라스 광산(The Mines of Khuras)을 떠나기"
-
-#: 7949764-0-58086
-msgctxt "7949764-0-58086"
-msgid "Died"
-msgstr "사망"
-
-#: 7949764-0-58085
-msgctxt "7949764-0-58085"
-msgid "Logged"
-msgstr "로그아웃"
-
-#: 7949764-0-58084
-msgctxt "7949764-0-58084"
-msgid "Left the Mines of Khuras"
-msgstr "쿠라스 광산(The Mines of Khuras)을 떠나기"
-
-#: 7949764-0-58072
-msgctxt "7949764-0-58072"
-msgid "Travel Via the Enchanted Boat"
-msgstr "마법이 부여된 보트를 이용해서 여행하기"
-
-#: 7949764-0-58057
-msgctxt "7949764-0-58057"
-msgid "Find the Oracle of the Wyrd"
-msgstr "위어드의 예언자를 찾기"
-
-#: 7949764-0-58056
-msgctxt "7949764-0-58056"
-msgid "Find the Oracle of the Wyrd"
-msgstr "위어드의 예언자를 찾기"
-
-#: 7949764-0-58038
-msgctxt "7949764-0-58038"
-msgid "Travel Via the Enchanted Boat"
-msgstr "마법이 부여된 보트를 이용해서 여행하기"
-
-#: 7949764-0-58037
-msgctxt "7949764-0-58037"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-58036
-msgctxt "7949764-0-58036"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-58035
-msgctxt "7949764-0-58035"
-msgid "Travel Via the Enchanted Boat"
-msgstr "마법이 부여된 보트를 이용해서 여행하기"
-
-#: 59991493-0-579
-msgctxt "59991493-0-579"
-msgid "First Sacrament"
-msgstr "첫 번째 성사"
-
-#: 7949764-0-57382
-msgctxt "7949764-0-57382"
-msgid "Leave the Spiral Skein"
-msgstr "나선 실타래 떠나기"
-
-#: 7949764-0-57181
-msgctxt "7949764-0-57181"
-msgid "Search for Marieve"
-msgstr "마리브 찾기"
-
-#: 7949764-0-57130
-msgctxt "7949764-0-57130"
-msgid "Bewan Theater"
-msgstr "베완 극장"
-
-#: 7949764-0-57129
-msgctxt "7949764-0-57129"
-msgid "Portal Use"
-msgstr "포탈을 사용하기"
-
-#: 7949764-0-57128
-msgctxt "7949764-0-57128"
-msgid "Destroy the Center Fulcrum"
-msgstr "중앙 지렛대를 파괴하기"
-
-#: 7949764-0-57064
-msgctxt "7949764-0-57064"
-msgid "Enter the Spiral Skein"
-msgstr "나선 실타래에 들어가기"
-
-#: 7949764-0-57063
-msgctxt "7949764-0-57063"
-msgid "Talk to Oracle Marieve in Skywatch"
-msgstr "스카이워치에서 예언자 마리브와 대화하기"
-
-#: 7949764-0-57061
-msgctxt "7949764-0-57061"
-msgid "Break the North Binding Pinion"
-msgstr "북쪽에 있는,구속 장치의 끝부분을 파괴하기"
-
-#: 7949764-0-57060
-msgctxt "7949764-0-57060"
-msgid "Break the South Binding Pinion"
-msgstr "서쪽에 있는, 구속 장치의 끝부분을 파괴하기"
-
-#: 7949764-0-57057
-msgctxt "7949764-0-57057"
-msgid "Talk to Oracle Marieve"
-msgstr "예언자 마리브와 대화하기"
-
-#: 7949764-0-57055
-msgctxt "7949764-0-57055"
-msgid "Find Oracle Marieve"
-msgstr "예언자 마리브 찾기"
-
-#: 7949764-0-57054
-msgctxt "7949764-0-57054"
-msgid "Go to Bewan"
-msgstr "베완으로 가기"
-
-#: 7949764-0-57053
-msgctxt "7949764-0-57053"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-57052
-msgctxt "7949764-0-57052"
-msgid "Place the Elemental Items"
-msgstr "원소의 물건들을 배치하기"
-
-#: 7949764-0-57047
-msgctxt "7949764-0-57047"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-56997
-msgctxt "7949764-0-56997"
-msgid "Search for the Oracle in Bewan"
-msgstr "베완에서 예언자를 찾기"
-
-#: 7949764-0-56995
-msgctxt "7949764-0-56995"
-msgid "Talk to Oracle Marieve"
-msgstr "예언자 마리브와 대화하기"
-
-#: 7949764-0-56945
-msgctxt "7949764-0-56945"
-msgid "Find the Elemental Items"
-msgstr "원소 물건 찾기"
-
-#: 7949764-0-56944
-msgctxt "7949764-0-56944"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-56943
-msgctxt "7949764-0-56943"
-msgid "SOD Boss"
-msgstr "SOD 보스"
-
-#: 7949764-0-56941
-msgctxt "7949764-0-56941"
-msgid "Go to the Mines of Khuras"
-msgstr "쿠라스 광산으로 가기"
-
-#: 7949764-0-56940
-msgctxt "7949764-0-56940"
-msgid "Use Medallion of Summoning"
-msgstr "소환의 메달 사용하기"
-
-#: 7949764-0-56937
-msgctxt "7949764-0-56937"
-msgid "Talk to Wyress Aelynn"
-msgstr "위어리스 아리옌과 대화하기"
-
-#: 7949764-0-56936
-msgctxt "7949764-0-56936"
-msgid "Find the Oracle of the Wyrd"
-msgstr "위어드의 예언자를 찾기"
-
-#: 7949764-0-56935
-msgctxt "7949764-0-56935"
-msgid "Talk to Vanus Galerion"
-msgstr "바누스 갈레리온과 대화하기"
-
-#: 7949764-0-56731
-msgctxt "7949764-0-56731"
-msgid "Explore the <<1>>"
-msgstr "<<1>> 탐색하기"
-
-#: 7949764-0-56668
-msgctxt "7949764-0-56668"
-msgid "Defeat <<1>>"
-msgstr " <<1>> 처치하기"
-
-#: 7949764-0-56666
-msgctxt "7949764-0-56666"
-msgid "Climb the <<1>>"
-msgstr " <<1>> 올라가기"
-
-#: 7949764-0-56665
-msgctxt "7949764-0-56665"
-msgid "Continue up <<1>>"
-msgstr " <<1>> 계속하기"
-
-#: 7949764-0-56664
-msgctxt "7949764-0-56664"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와(과) 대화하기"
-
-#: 7949764-0-56663
-msgctxt "7949764-0-56663"
-msgid "Climb <<1>>"
-msgstr " <<1>> 올라가기"
-
-#: 7949764-0-56662
-msgctxt "7949764-0-56662"
-msgid "Kill <<1>> and <<2>>"
-msgstr "<<1>>과 <<2>>을(를) 죽여라"
-
-#: 7949764-0-56661
-msgctxt "7949764-0-56661"
-msgid "Kill <<1>>"
-msgstr "<<1>> 죽이기"
-
-#: 7949764-0-56660
-msgctxt "7949764-0-56660"
-msgid "Traverse the <<1>>"
-msgstr "<<1>> 통과하기"
-
-#: 7949764-0-56659
-msgctxt "7949764-0-56659"
-msgid "Kill <<1>>"
-msgstr "<<1>> 죽이기"
-
-#: 7949764-0-56658
-msgctxt "7949764-0-56658"
-msgid "Kill <<1>>"
-msgstr "<<1>> 죽이기"
-
-#: 7949764-0-56657
-msgctxt "7949764-0-56657"
-msgid "Kill <<1>>"
-msgstr "<<1>> 죽이기"
-
-#: 7949764-0-56655
-msgctxt "7949764-0-56655"
-msgid "Stop Orryn the Black's Necromantic Ritual"
-msgstr "흑의 오린의 강령술 의식 저지하기"
-
-#: 7949764-0-56654
-msgctxt "7949764-0-56654"
-msgid "Find <<1>>'s Allies"
-msgstr "<<1>>의 둉료 찾기"
-
-#: 7949764-0-56653
-msgctxt "7949764-0-56653"
-msgid "Talk to Yisareh"
-msgstr "이샤라와 대화하기"
-
-#: 7949764-0-56652
-msgctxt "7949764-0-56652"
-msgid "Continue Exploring <<1>> for Clues"
-msgstr "단서를 위해 <<1>>을 계속 탐험하기"
-
-#: 7949764-0-56651
-msgctxt "7949764-0-56651"
-msgid "Kill <<1>>"
-msgstr "<<1>> 죽이기"
-
-#: 7949764-0-56650
-msgctxt "7949764-0-56650"
-msgid "Kill <<1>>"
-msgstr "<<1>> 죽이기"
-
-#: 7949764-0-56649
-msgctxt "7949764-0-56649"
-msgid "Reach the Barrier Seal"
-msgstr "보호막 봉인에 도달하기"
-
-#: 7949764-0-56648
-msgctxt "7949764-0-56648"
-msgid "Kill Ulfnor and Sabina"
-msgstr "울프노어와 사비나 죽이기"
-
-#: 7949764-0-56647
-msgctxt "7949764-0-56647"
-msgid "Destroy the Undead Menagerie"
-msgstr "언데드 동물원을 파괴하기"
-
-#: 59991493-0-566
-msgctxt "59991493-0-566"
-msgid "Extinguished"
-msgstr "사라져버림"
-
-#: 59991493-0-558
-msgctxt "59991493-0-558"
-msgid "Hot"
-msgstr "뜨겁다"
-
-#: 59991493-0-557
-msgctxt "59991493-0-557"
-msgid "Desecrated"
-msgstr "더럽혀졌다"
-
-#: 59991493-0-555
-msgctxt "59991493-0-555"
-msgid "Filled"
-msgstr ""
-
-#: 59991493-0-554
-msgctxt "59991493-0-554"
-msgid "Stacked"
-msgstr ""
-
-#: 59991493-0-553
-msgctxt "59991493-0-553"
-msgid "Scrying"
-msgstr ""
-
-#: 59991493-0-552
-msgctxt "59991493-0-552"
-msgid "Cheesiest"
-msgstr "최고의 치즈"
-
-#: 59991493-0-541
-msgctxt "59991493-0-541"
-msgid "Raised"
-msgstr ""
-
-#: 59991493-0-531
-msgctxt "59991493-0-531"
-msgid "Magically Lit"
-msgstr "마법에 의해 점등"
-
-#: 59991493-0-528
-msgctxt "59991493-0-528"
-msgid "Extra Sweet"
-msgstr "단 맛을 첨가하기"
-
-#: 59991493-0-519
-msgctxt "59991493-0-519"
-msgid "Disassembled"
-msgstr "분해 되었음"
-
-#: 59991493-0-518
-msgctxt "59991493-0-518"
-msgid "Open"
-msgstr "열기"
-
-#: 59991493-0-517
-msgctxt "59991493-0-517"
-msgid "Active"
-msgstr "활성화"
-
-#: 59991493-0-505
-msgctxt "59991493-0-505"
-msgid "Intact"
-msgstr "온전한"
-
-#: 59991493-0-498
-msgctxt "59991493-0-498"
-msgid "Turned Up"
-msgstr "불 켜짐"
-
-#: 59991493-0-497
-msgctxt "59991493-0-497"
-msgid "Offensive Scroll"
-msgstr ""
-
-#: 59991493-0-496
-msgctxt "59991493-0-496"
-msgid "Lit"
-msgstr "불 켜짐"
-
-#: 59991493-0-479
-msgctxt "59991493-0-479"
-msgid "Not Used"
-msgstr "미사용"
-
 #: 59991493-0-476
 msgctxt "59991493-0-476"
 msgid "Closed"
 msgstr "닫힘"
 
-#: 70307621-0-2609
-msgctxt "70307621-0-2609"
-msgid "Examine"
-msgstr "조사하기"
+#: 59991493-2-531
+msgctxt "59991493-2-531"
+msgid "Extinguished"
+msgstr "불 꺼짐"
 
-#: 70307621-0-2579
-msgctxt "70307621-0-2579"
-msgid "Enter"
-msgstr "들어가기"
+#: 7949764-0-59140
+msgctxt "7949764-0-59140"
+msgid "Left Area"
+msgstr "지역을 떠나기"
 
-#: 8158238-0-2575
-msgctxt "8158238-0-2575"
-msgid "Enter"
-msgstr "들어가기"
-
-#: 70307621-0-2520
-msgctxt "70307621-0-2520"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 70307621-0-2519
-msgctxt "70307621-0-2519"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 70307621-0-2518
-msgctxt "70307621-0-2518"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 70307621-0-2517
-msgctxt "70307621-0-2517"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 70307621-0-2516
-msgctxt "70307621-0-2516"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 70307621-0-2515
-msgctxt "70307621-0-2515"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-24035
-msgctxt "74865733-0-24035"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-23778
-msgctxt "74865733-0-23778"
-msgid "0"
-msgstr "0-G-"
-
-#: 74865733-0-23757
-msgctxt "74865733-0-23757"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23749
-msgctxt "108533454-0-23749"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 74865733-0-23678
-msgctxt "74865733-0-23678"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23600
-msgctxt "108533454-0-23600"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 108533454-0-23599
-msgctxt "108533454-0-23599"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 108533454-0-23598
-msgctxt "108533454-0-23598"
-msgid "Opening…"
-msgstr "여는 중…"
-
-#: 74865733-0-23571
-msgctxt "74865733-0-23571"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 108533454-0-23562
-msgctxt "108533454-0-23562"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23561
-msgctxt "108533454-0-23561"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23560
-msgctxt "108533454-0-23560"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23559
-msgctxt "108533454-0-23559"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23558
-msgctxt "108533454-0-23558"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23557
-msgctxt "108533454-0-23557"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 108533454-0-23555
-msgctxt "108533454-0-23555"
-msgid "Opening..."
-msgstr "여는 중…"
-
-#: 74865733-0-23545
-msgctxt "74865733-0-23545"
-msgid "Take"
-msgstr "가지기"
-
-#: 74865733-0-23515
-msgctxt "74865733-0-23515"
-msgid "Use"
-msgstr "사용하기"
-
-#: 74865733-0-23514
-msgctxt "74865733-0-23514"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-23513
-msgctxt "74865733-0-23513"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-23512
-msgctxt "74865733-0-23512"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-23507
-msgctxt "74865733-0-23507"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 74865733-0-23498
-msgctxt "74865733-0-23498"
-msgid "Travel"
-msgstr "이동하기"
-
-#: 74865733-0-23196
-msgctxt "74865733-0-23196"
-msgid "Take"
-msgstr "가지기"
-
-#: 74865733-0-23180
-msgctxt "74865733-0-23180"
-msgid "Examine"
-msgstr "조사하기"
-
-#: 74865733-0-23100
-msgctxt "74865733-0-23100"
-msgid "Destroy"
-msgstr "파괴하기"
-
-#: 74865733-0-23099
-msgctxt "74865733-0-23099"
-msgid "Destroy"
-msgstr "파괴하기"
+#: 7949764-0-58294
+msgctxt "7949764-0-58294"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr "하드 모드는 베테랑 모드에서만 가능합니다."
 
 #: 74865733-0-23096
 msgctxt "74865733-0-23096"
 msgid "Use"
 msgstr "사용하기"
 
-#: 74865733-0-23081
-msgctxt "74865733-0-23081"
+#: 74865733-0-23099
+msgctxt "74865733-0-23099"
+msgid "Destroy"
+msgstr "파괴하기"
+
+#: 74865733-0-23528
+msgctxt "74865733-0-23528"
+msgid "Activate"
+msgstr "작동하기"
+
+#: 108533454-0-23528
+msgctxt "108533454-0-23528"
+msgid "Activating…"
+msgstr "활성화 중…"
+
+#: 74865733-0-23507
+msgctxt "74865733-0-23507"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23507
+msgctxt "108533454-0-23507"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 74865733-0-23529
+msgctxt "74865733-0-23529"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23529
+msgctxt "108533454-0-23529"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 12912341-0-80418
+msgctxt "12912341-0-80418"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-80418
+msgctxt "263004526-0-80418"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 12912341-0-79071
+msgctxt "12912341-0-79071"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-79071
+msgctxt "263004526-0-79071"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 74865733-0-23269
+msgctxt "74865733-0-23269"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23269
+msgctxt "108533454-0-23269"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 12912341-0-79053
+msgctxt "12912341-0-79053"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-79053
+msgctxt "263004526-0-79053"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 74865733-0-23545
+msgctxt "74865733-0-23545"
+msgid "Take"
+msgstr "가지기"
+
+#: 108533454-0-23545
+msgctxt "108533454-0-23545"
+msgid "Take"
+msgstr "가지기"
+
+#: 12912341-0-80419
+msgctxt "12912341-0-80419"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-80419
+msgctxt "263004526-0-80419"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 74865733-0-23180
+msgctxt "74865733-0-23180"
 msgid "Examine"
 msgstr "조사하기"
 
-#: 74865733-0-23080
-msgctxt "74865733-0-23080"
+#: 108533454-0-23180
+msgctxt "108533454-0-23180"
+msgid "Examining…"
+msgstr "조사중…"
+
+#: 59991493-0-577
+msgctxt "59991493-0-577"
+msgid "Closed"
+msgstr "닫힘"
+
+#: 219689294-0-577
+msgctxt "219689294-0-577"
+msgid "Open"
+msgstr "열기"
+
+#: 59991493-0-579
+msgctxt "59991493-0-579"
+msgid "First Sacrament"
+msgstr "첫 번째 성사"
+
+#: 219689294-0-579
+msgctxt "219689294-0-579"
+msgid "Light"
+msgstr "불 붙이기"
+
+#: 74865733-0-23672
+msgctxt "74865733-0-23672"
 msgid "Examine"
 msgstr "조사하기"
 
-#: 74865733-0-23079
-msgctxt "74865733-0-23079"
+#: 108533454-0-23672
+msgctxt "108533454-0-23672"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-23497
+msgctxt "74865733-0-23497"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23497
+msgctxt "108533454-0-23497"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 74865733-0-23673
+msgctxt "74865733-0-23673"
 msgid "Examine"
 msgstr "조사하기"
 
-#: 74865733-0-23063
-msgctxt "74865733-0-23063"
+#: 108533454-0-23673
+msgctxt "108533454-0-23673"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-23530
+msgctxt "74865733-0-23530"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23530
+msgctxt "108533454-0-23530"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 74865733-0-23498
+msgctxt "74865733-0-23498"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23498
+msgctxt "108533454-0-23498"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 74865733-0-23674
+msgctxt "74865733-0-23674"
 msgid "Examine"
 msgstr "조사하기"
+
+#: 108533454-0-23674
+msgctxt "108533454-0-23674"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-23675
+msgctxt "74865733-0-23675"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23675
+msgctxt "108533454-0-23675"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-23676
+msgctxt "74865733-0-23676"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23676
+msgctxt "108533454-0-23676"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 74865733-0-23677
+msgctxt "74865733-0-23677"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23677
+msgctxt "108533454-0-23677"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 59991493-0-581
+msgctxt "59991493-0-581"
+msgid "Ready To Strike"
+msgstr "공격을 준비하기"
+
+#: 219689294-0-581
+msgctxt "219689294-0-581"
+msgid "Use"
+msgstr "사용하기"
+
+#: 12912341-0-82309
+msgctxt "12912341-0-82309"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-82309
+msgctxt "263004526-0-82309"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 74865733-0-23678
+msgctxt "74865733-0-23678"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23678
+msgctxt "108533454-0-23678"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 59991493-0-584
+msgctxt "59991493-0-584"
+msgid "Inactive"
+msgstr "비활성화 하기"
+
+#: 219689294-0-584
+msgctxt "219689294-0-584"
+msgid "Activate"
+msgstr "작동하기"
+
+#: 12912341-0-79068
+msgctxt "12912341-0-79068"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-79068
+msgctxt "263004526-0-79068"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 59991493-0-585
+msgctxt "59991493-0-585"
+msgid "Closed"
+msgstr "닫힘"
+
+#: 219689294-0-585
+msgctxt "219689294-0-585"
+msgid "Open"
+msgstr "열기"
+
+#: 74865733-0-23270
+msgctxt "74865733-0-23270"
+msgid "Travel"
+msgstr "이동하기"
+
+#: 108533454-0-23270
+msgctxt "108533454-0-23270"
+msgid "Traveling …"
+msgstr "이동하는 중…"
+
+#: 12912341-0-79763
+msgctxt "12912341-0-79763"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 263004526-0-79763
+msgctxt "263004526-0-79763"
+msgid "Talk"
+msgstr "대화하기"
+
+#: 8158238-0-2575
+msgctxt "8158238-0-2575"
+msgid "Enter"
+msgstr "들어가기"
+
+#: 70307621-0-2575
+msgctxt "70307621-0-2575"
+msgid "Enter"
+msgstr "들어가기"
+
+#: 74865733-0-23571
+msgctxt "74865733-0-23571"
+msgid "Examine"
+msgstr "조사하기"
+
+#: 108533454-0-23571
+msgctxt "108533454-0-23571"
+msgid "Examining …"
+msgstr "조사하는 중…"
+
+#: 8158238-0-2574
+msgctxt "8158238-0-2574"
+msgid "Enter"
+msgstr "들어가기"
+
+#: 70307621-0-2574
+msgctxt "70307621-0-2574"
+msgid "Enter"
+msgstr "들어가기"

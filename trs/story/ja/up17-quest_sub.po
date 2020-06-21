@@ -11,60 +11,82 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 3952276-1-7502
+#: 3952276-0-7486
 #, fuzzy
-msgctxt "3952276-1-7502"
-msgid """To redeem this voucher and receive your special cake, look for the chef and his bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall. We guarantee it will be delicious!"""
-msgstr "「この引換券で特別なケーキを受け取るには、バルケルガードの港、ダボンズ・ウォッチ、ダガーフォールの港湾地区でシェフと彼のベーカリーのバッジを探してください。味は保証付きです！」"
+msgctxt "3952276-0-7486"
+msgid "Scalecaller Peak was once a Dragon Priest's temple, but now it belongs to some truly sickening cultists. The place is riddled with the strange disease they've cooked up, infecting and enraging all the creatures that live there."
+msgstr "スケイルコーラー・ピークはかつてドラゴンプリーストの聖堂だったけど、今は厄介な信者たちが占拠している。連中が作り出した奇妙な疫病が蔓延していて、そこに住む全ての獣が感染し、凶暴化しているようね"
 
-#: 20958740-1-7502
-msgctxt "20958740-1-7502"
-msgid "I should go look for Chef Donolon."
-msgstr "シェフ・ドノロンのところへ行く"
+#: 20958740-0-7486
+msgctxt "20958740-0-7486"
+msgid "And if I can handle more than that?"
+msgstr "それだけでは満足できない場合は？"
 
-#: 3952276-1-7487
+#: 249936564-0-7486
+msgctxt "249936564-0-7486"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
+
+#: 3952276-0-7487
 #, fuzzy
-msgctxt "3952276-1-7487"
-msgid "Sounds like Orryn the Black is summoning something nasty. I say let him. Better yet, read his notes and help make it the meanest stack of bones to take up walking. Then grind them both to dust.\n\nThat'll prove who's the real Undaunted here."
-msgstr "黒のオリンは何か凶悪なものを召喚してるみたいよ。成功させてやりなさい。あいつのメモを読んで、巨大な歩く骨の塊を作るのを手伝ってやってもいいわ。その後で両方とも仲良く粉々にしてやればいいの\r\n\r\nそれでこそ、真のアンドーンテッドよ"
+msgctxt "3952276-0-7487"
+msgid "Some bony pit called Fang Lair. Got a ring to it. One of our Trailblazers, Yisareh, says the place has got a mess of necromancers stuck in its teeth.\n\nHow about you work out the unsightly bits with something pointy and show me a killer smile?"
+msgstr "牙の巣という骨だらけの洞窟よ。語呂がいいでしょう。開拓者のイ・ザレによれば、死霊術師に隅々まで荒らされてるみたい\r\n\r\n見苦しい連中をさっさと片づけて、笑顔で帰ってくるっていうのはどう？"
 
-#: 20958740-1-7487
-msgctxt "20958740-1-7487"
-msgid "I pledge to seek out the Fang Lair and return Undaunted."
-msgstr "牙の巣を捜索して、アンドーンテッドへ帰還することを誓う"
+#: 20958740-0-7487
+msgctxt "20958740-0-7487"
+msgid "And if I can handle more than that?"
+msgstr "それだけでは満足できない場合は？"
 
-#: 3952276-1-7486
-msgctxt "3952276-1-7486"
-msgid "Defeating a Dragon Priest is no small feat, but why not challenge yourself a little more?\n\nOnce you've dealt with the petty creatures and cultists, invoke the Scroll of Glorious Battle to call forth Zaan the Scalecaller in all her terrible might."
-msgstr "ドラゴンプリーストを倒すだけでも大したものだけど、さらに挑戦してみない？\r\n\r\n雑魚と信者たちを片づけたら、輝かしき戦いの巻物を使うのよ。本気になったザーン・スケイルコーラーを呼び出せるはず"
+#: 249936564-0-7487
+msgctxt "249936564-0-7487"
+msgid "What's the pledge today?"
+msgstr "今日の誓いは何だ？"
 
-#: 20958740-1-7486
-msgctxt "20958740-1-7486"
-msgid "I pledge to seek out Scalecaller Peak and return Undaunted."
-msgstr "スケイルコーラー・ピークを探索して、アンドーンテッドへ帰還することを誓う"
-
-#: 3952276-1-7372
+#: 3952276-0-7502
 #, fuzzy
-msgctxt "3952276-1-7372"
-msgid "Trapped on the other side of a broken bridge, I'm afraid. \n\nSay, you look capable. Would you mind escorting me through the <<1>> in order to reach my companions? It's vitally important we continue our expedition."
-msgstr "残念ながら、橋の向こう側だ\r\n\r\nキミは腕が立ちそうだな。<<1>>を抜けるまで護衛してもらえないだろうか？ 私は是が非でも探検を続けなければならないのだ"
+msgctxt "3952276-0-7502"
+msgid """This voucher provides the bearer with one cake for special occasions from the renowned baker, Chef Donolon."""
+msgstr "「この引換券を持つ方には、高名なパン職人、シェフ・ドノロンのケーキを食べる特別な機会が与えられます」"
 
-#: 20958740-1-7372
-msgctxt "20958740-1-7372"
-msgid "I'll help you rescue your companions."
-msgstr "仲間の救出を手伝おう"
+#: 20958740-0-7502
+msgctxt "20958740-0-7502"
+msgid "<Continue reading the voucher.>"
+msgstr "<引換券を読み続ける>"
 
-#: 3952276-1-7370
+#: 249936564-0-7502
+msgctxt "249936564-0-7502"
+msgid "<Read the voucher.>"
+msgstr "<引換券を読む>"
+
+#: 3952276-0-7504
 #, fuzzy
-msgctxt "3952276-1-7370"
-msgid "The way deeper into Fang Lair is barred by powerful magic. I've yet to find a discreet way through, but with you here we might be able to disrupt the barrier by force. Give those necromancers a real taste of death and go from there.\n\nInterested?"
-msgstr "このふざけた巣の奥は、とんでもない魔法で塞がれているわ。でも、あんたと力を合わせれば破れるかもね。まずはあのクズ死霊術師どもに、思い知らせてやるの\r\n\r\n興味ある？"
+msgctxt "3952276-0-7504"
+msgid """This stone contains a private message of vital importance for <<1>> from Vanus Galerion of the Mages Guild. Activate the stone to receive the message."""
+msgstr "「この石には魔術師ギルドのヴァヌス・ガレリオンから<<1>>に送られた、とても重要な伝言が含まれている。石を発動すると伝言を受け取れる」"
 
-#: 20958740-1-7370
+#: 20958740-0-7504
+msgctxt "20958740-0-7504"
+msgid "Activate the message stone."
+msgstr "伝言石を発動させる"
+
+#: 3952276-0-7370
 #, fuzzy
-msgctxt "20958740-1-7370"
-msgid "I'll help you deal with these necromancers."
-msgstr "死霊術師を片付けるために協力しよう"
+msgctxt "3952276-0-7370"
+msgid "Yet there's always demand for Soul Gems. Funny that.\n\nYou aren't wrong about this lot though. They're bringing in corpses by the wagon-load, erecting wards, gathering materials. Preparing, but I haven't discovered what for."
+msgstr "それでも魂石を欲しがる奴はいなくならない。ふざけろって\r\n\r\nあんたの考えは間違ってないわ。あいつらは死体で荷台をいっぱいにして、結界を張って、素材をかき集めてる。何の準備をしてるのかしら"
+
+#: 20958740-0-7370
+#, fuzzy
+msgctxt "20958740-0-7370"
+msgid "You want my help to find that out?"
+msgstr "調査に支援が必要か？"
+
+#: 249936564-0-7370
+#, fuzzy
+msgctxt "249936564-0-7370"
+msgid "If necromancy is involved, it's usually bad."
+msgstr "死霊術が関係しているなら、大抵は悪いことだ"
 
 #: 3952276-0-7507
 msgctxt "3952276-0-7507"
@@ -86,65 +108,6 @@ msgctxt "249936564-0-7507"
 msgid "What do you want to talk to me about?"
 msgstr "何を話したい？"
 
-#: 3952276-0-7504
-#, fuzzy
-msgctxt "3952276-0-7504"
-msgid """This stone contains a private message of vital importance for <<1>> from Vanus Galerion of the Mages Guild. Activate the stone to receive the message."""
-msgstr "「この石には魔術師ギルドのヴァヌス・ガレリオンから<<1>>に送られた、とても重要な伝言が含まれている。石を発動すると伝言を受け取れる」"
-
-#: 20958740-0-7504
-msgctxt "20958740-0-7504"
-msgid "Activate the message stone."
-msgstr "伝言石を発動させる"
-
-#: 3952276-0-7502
-#, fuzzy
-msgctxt "3952276-0-7502"
-msgid """This voucher provides the bearer with one cake for special occasions from the renowned baker, Chef Donolon."""
-msgstr "「この引換券を持つ方には、高名なパン職人、シェフ・ドノロンのケーキを食べる特別な機会が与えられます」"
-
-#: 20958740-0-7502
-msgctxt "20958740-0-7502"
-msgid "<Continue reading the voucher.>"
-msgstr "<引換券を読み続ける>"
-
-#: 249936564-0-7502
-msgctxt "249936564-0-7502"
-msgid "<Read the voucher.>"
-msgstr "<引換券を読む>"
-
-#: 3952276-0-7487
-#, fuzzy
-msgctxt "3952276-0-7487"
-msgid "Some bony pit called Fang Lair. Got a ring to it. One of our Trailblazers, Yisareh, says the place has got a mess of necromancers stuck in its teeth.\n\nHow about you work out the unsightly bits with something pointy and show me a killer smile?"
-msgstr "牙の巣という骨だらけの洞窟よ。語呂がいいでしょう。開拓者のイ・ザレによれば、死霊術師に隅々まで荒らされてるみたい\r\n\r\n見苦しい連中をさっさと片づけて、笑顔で帰ってくるっていうのはどう？"
-
-#: 20958740-0-7487
-msgctxt "20958740-0-7487"
-msgid "And if I can handle more than that?"
-msgstr "それだけでは満足できない場合は？"
-
-#: 249936564-0-7487
-msgctxt "249936564-0-7487"
-msgid "What's the pledge today?"
-msgstr "今日の誓いは何だ？"
-
-#: 3952276-0-7486
-#, fuzzy
-msgctxt "3952276-0-7486"
-msgid "Scalecaller Peak was once a Dragon Priest's temple, but now it belongs to some truly sickening cultists. The place is riddled with the strange disease they've cooked up, infecting and enraging all the creatures that live there."
-msgstr "スケイルコーラー・ピークはかつてドラゴンプリーストの聖堂だったけど、今は厄介な信者たちが占拠している。連中が作り出した奇妙な疫病が蔓延していて、そこに住む全ての獣が感染し、凶暴化しているようね"
-
-#: 20958740-0-7486
-msgctxt "20958740-0-7486"
-msgid "And if I can handle more than that?"
-msgstr "それだけでは満足できない場合は？"
-
-#: 249936564-0-7486
-msgctxt "249936564-0-7486"
-msgid "What's the pledge today?"
-msgstr "今日の誓いは何だ？"
-
 #: 3952276-0-7372
 #, fuzzy
 msgctxt "3952276-0-7372"
@@ -161,21 +124,3 @@ msgstr "仲間は今どこに？"
 msgctxt "249936564-0-7372"
 msgid "Why are you still here then?"
 msgstr "では、なぜここにいる？"
-
-#: 3952276-0-7370
-#, fuzzy
-msgctxt "3952276-0-7370"
-msgid "Yet there's always demand for Soul Gems. Funny that.\n\nYou aren't wrong about this lot though. They're bringing in corpses by the wagon-load, erecting wards, gathering materials. Preparing, but I haven't discovered what for."
-msgstr "それでも魂石を欲しがる奴はいなくならない。ふざけろって\r\n\r\nあんたの考えは間違ってないわ。あいつらは死体で荷台をいっぱいにして、結界を張って、素材をかき集めてる。何の準備をしてるのかしら"
-
-#: 20958740-0-7370
-#, fuzzy
-msgctxt "20958740-0-7370"
-msgid "You want my help to find that out?"
-msgstr "調査に支援が必要か？"
-
-#: 249936564-0-7370
-#, fuzzy
-msgctxt "249936564-0-7370"
-msgid "If necromancy is involved, it's usually bad."
-msgstr "死霊術が関係しているなら、大抵は悪いことだ"

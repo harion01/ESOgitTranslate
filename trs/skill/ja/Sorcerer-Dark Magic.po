@@ -11,15 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-46331
-msgctxt "132143172-0-46331"
-msgid "Conjure dark crystals to bombard an enemy, dealing <<1>> and stunning them for <<2>>. \n\nAlso damages enemies near the initial target for <<3>>."
-msgstr "闇のクリスタルを召喚し、<<1>>を与えて<<2>>の間敵を気絶させる。\r\n\r\nまた、標的の近くにいる敵も<<3>>のダメージを受ける。"
+#: 132143172-0-27706
+msgctxt "132143172-0-27706"
+msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."
+msgstr "魔法抑制の球体を<<1>>の間作り出し、該当エリアの敵の範囲効果アビリティを解除して妨害する。\r\n\r\n中にいる敵は気絶する。敵プレイヤーは気絶ではなく沈黙状態になる。"
 
-#: 198758357-0-46331
-msgctxt "198758357-0-46331"
-msgid "Crystal Blast"
-msgstr "クリスタルの一撃"
+#: 198758357-0-27706
+msgctxt "198758357-0-27706"
+msgid "Negate Magic"
+msgstr "魔法無効化"
 
 #: 132143172-0-46324
 msgctxt "132143172-0-46324"
@@ -31,18 +31,87 @@ msgctxt "198758357-0-46324"
 msgid "Crystal Fragments"
 msgstr "水晶の断片"
 
-#: 132143172-0-45181
-msgctxt "132143172-0-45181"
-msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
-msgstr "闇魔法アビリティを唱えると、自身とグループに予言(弱)が付与され、呪文クリティカルが<<1>>、<<2>>の間上昇する。"
+#: 132143172-0-24574
+msgctxt "132143172-0-24574"
+msgid "Place a rune of protection on yourself for <<1>>. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for <<2>>.\n\nThis stun cannot be blocked."
+msgstr "防御のルーンを<<1>>の間、自分に使用する。発動中、次に攻撃してきた敵を闇魔法の束縛する球体の中に閉じこめ、わずかな時間が経過した後、<<2>>の間気絶させる。\r\n\r\n気絶は防御も回避もできない。"
 
-#: 198758357-0-45181
-msgctxt "198758357-0-45181"
-msgid "Exploitation"
-msgstr "闇の計画"
+#: 198758357-0-24574
+msgctxt "198758357-0-24574"
+msgid "Defensive Rune"
+msgstr "防御のルーン"
+
+#: 132143172-0-24578
+msgctxt "132143172-0-24578"
+msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>. Deals <<2>> if the stun lasts the full duration.\n\nThis stun cannot be blocked."
+msgstr "闇魔法の束縛する球体の中に敵を閉じこめ、わずかな時間が経過した後、<<1>>の間気絶させる。持続時間が満了するまで気絶していると、<<2>>を与える。\r\n\r\n気絶は防御できない。"
+
+#: 198758357-0-24578
+msgctxt "198758357-0-24578"
+msgid "Rune Cage"
+msgstr "ルーンの檻"
+
+#: 132143172-0-24834
+msgctxt "132143172-0-24834"
+msgid "Surprise your foes by placing |cffffff5|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
+msgstr "不安定なデイドラの地雷を周囲に|cffffff5|r個設置して奇襲する。地雷は|cffffff3|r秒後に起爆可能となり、<<1>>の間持続する。\r\n\r\n爆発は<<2>>を与え、<<3>>の間敵を移動不能にする。"
+
+#: 198758357-0-24834
+msgctxt "198758357-0-24834"
+msgid "Daedric Minefield"
+msgstr "デイドラの地雷原"
+
+#: 132143172-0-43714
+msgctxt "132143172-0-43714"
+msgid "Conjure dark crystals to bombard an enemy, dealing <<1>>."
+msgstr "闇のクリスタルを召喚し、<<1>>を与える"
+
+#: 198758357-0-43714
+msgctxt "198758357-0-43714"
+msgid "Crystal Shard"
+msgstr "水晶の欠片"
+
+#: 132143172-0-24371
+msgctxt "132143172-0-24371"
+msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>.\n\nThis stun cannot be blocked."
+msgstr "闇魔法の束縛する球体の中に敵を閉じこめ、わずかな時間が経過した後、<<1>>の間気絶させる。\r\n\r\n気絶は防御できない。"
+
+#: 198758357-0-24371
+msgctxt "198758357-0-24371"
+msgid "Rune Prison"
+msgstr "ルーンの牢獄"
+
+#: 132143172-0-31378
+msgctxt "132143172-0-31378"
+msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
+msgstr "攻撃をブロックすると、次の体力、マジカ、スタミナアビリティの消費が<<1>>低下する。"
+
+#: 198758357-0-31378
+msgctxt "198758357-0-31378"
+msgid "Persistence"
+msgstr "固執"
+
+#: 132143172-0-24595
+msgctxt "132143172-0-24595"
+msgid "Bargain with darkness to restore <<1>> Health and <<2>> Stamina instantly, and an additional <<3>> Stamina over <<4>>."
+msgstr "闇と取引して体力<<1>>とスタミナ<<2>>を即座に回復する。<<3>>スタミナが<<4>>の間追加される。"
+
+#: 198758357-0-24595
+msgctxt "198758357-0-24595"
+msgid "Dark Deal"
+msgstr "闇との密約"
+
+#: 132143172-0-28311
+msgctxt "132143172-0-28311"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nGain Major Vitality, increasing your healing received by <<2>> for <<3>> plus |cFFFFFF1|r extra second per enemy in the area, up to a maximum of |cffffff6|r enemies."
+msgstr "大地からデイドラの欠片の力を呼び出して、目の前にいる敵を<<1>>間移動不能にする。\r\n\r\n生命力(強)を得て、被回復を<<2>>、<<3>>の間上昇させる。さらにエリアにいる敵の数に応じて、|cFFFFFF1|r秒時間が延長される。最大|cffffff6|r体まで。"
+
+#: 198758357-0-28311
+msgctxt "198758357-0-28311"
+msgid "Restraining Prison"
+msgstr "呪縛の監獄"
 
 #: 132143172-0-45176
-#, fuzzy
 msgctxt "132143172-0-45176"
 msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
 msgstr "アビリティの体力、マジカ、スタミナ消費が<<1>>減少する。"
@@ -62,66 +131,15 @@ msgctxt "198758357-0-45172"
 msgid "Blood Magic"
 msgstr "血の魔法"
 
-#: 132143172-0-45165
-msgctxt "132143172-0-45165"
-msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
-msgstr "攻撃をブロックすると、次の体力、マジカ、スタミナアビリティの消費が<<1>>低下する。"
+#: 132143172-0-24828
+msgctxt "132143172-0-24828"
+msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
+msgstr "不安定なデイドラの地雷を周囲に|cffffff3|r個設置して奇襲する。地雷は|cffffff3|r秒後に起爆可能となり、<<1>>の間持続する。\r\n\r\n爆発は<<2>>を与え、<<3>>の間敵を移動不能にする。"
 
-#: 198758357-0-45165
-msgctxt "198758357-0-45165"
-msgid "Persistence"
-msgstr "固執"
-
-#: 132143172-0-43714
-msgctxt "132143172-0-43714"
-msgid "Conjure dark crystals to bombard an enemy, dealing <<1>>."
-msgstr "闇のクリスタルを召喚し、<<1>>を与える"
-
-#: 198758357-0-43714
-msgctxt "198758357-0-43714"
-msgid "Crystal Shard"
-msgstr "水晶の欠片"
-
-#: 132143172-0-31389
-msgctxt "132143172-0-31389"
-msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
-msgstr "闇魔法アビリティを唱えると、自身とグループに予言(弱)が付与され、呪文クリティカルが<<1>>、<<2>>の間上昇する。"
-
-#: 198758357-0-31389
-msgctxt "198758357-0-31389"
-msgid "Exploitation"
-msgstr "闇の計画"
-
-#: 132143172-0-31386
-#, fuzzy
-msgctxt "132143172-0-31386"
-msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
-msgstr "アビリティの体力、マジカ、スタミナ消費が<<1>>減少する。"
-
-#: 198758357-0-31386
-msgctxt "198758357-0-31386"
-msgid "Unholy Knowledge"
-msgstr "不浄なる知識"
-
-#: 132143172-0-31383
-msgctxt "132143172-0-31383"
-msgid "When you hit an enemy with a directly applied Dark Magic ability, you heal for <<1>>.  \n\nThis effect scales off your Max Health and can occur once every <<2>>."
-msgstr "敵を闇魔法アビリティで直接攻撃すると、最大体力の<<1>>%を回復する。\r\n\r\nこの効果は最大体力に比例して変動し、<<2>>ごとに発動する。"
-
-#: 198758357-0-31383
-msgctxt "198758357-0-31383"
-msgid "Blood Magic"
-msgstr "血の魔法"
-
-#: 132143172-0-31378
-msgctxt "132143172-0-31378"
-msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
-msgstr "攻撃をブロックすると、次の体力、マジカ、スタミナアビリティの消費が<<1>>低下する。"
-
-#: 198758357-0-31378
-msgctxt "198758357-0-31378"
-msgid "Persistence"
-msgstr "固執"
+#: 198758357-0-24828
+msgctxt "198758357-0-24828"
+msgid "Daedric Mines"
+msgstr "デイドラの地雷"
 
 #: 132143172-0-28348
 msgctxt "132143172-0-28348"
@@ -133,56 +151,6 @@ msgctxt "198758357-0-28348"
 msgid "Absorption Field"
 msgstr "吸収フィールド"
 
-#: 132143172-0-28341
-msgctxt "132143172-0-28341"
-msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for <<2>> every <<3>>."
-msgstr "魔法抑制の球体を<<1>>の間作り出し、該当エリアの敵の範囲効果アビリティを解除して妨害する。\r\n\r\n中にいる敵は気絶する。敵プレイヤーは気絶ではなく沈黙状態になる。\r\n\r\nさらに、球体は敵に<<2>>のダメージを<<3>>ごとに与える。"
-
-#: 198758357-0-28341
-msgctxt "198758357-0-28341"
-msgid "Suppression Field"
-msgstr "抑制フィールド"
-
-#: 132143172-0-28311
-msgctxt "132143172-0-28311"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nGain Major Vitality, increasing your healing received by <<2>> for <<3>> plus |cFFFFFF1|r extra second per enemy in the area, up to a maximum of |cffffff6|r enemies."
-msgstr "大地からデイドラの欠片の力を呼び出して、目の前にいる敵を<<1>>間移動不能にする。\r\n\r\n生命力(強)を得て、被回復を<<2>>、<<3>>の間上昇させる。さらにエリアにいる敵の数に応じて、|cFFFFFF1|r秒時間が延長される。最大|cffffff6|r体まで。"
-
-#: 198758357-0-28311
-msgctxt "198758357-0-28311"
-msgid "Restraining Prison"
-msgstr "呪縛の監獄"
-
-#: 132143172-0-28308
-msgctxt "132143172-0-28308"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nThe shards deal <<2>> when the effect ends."
-msgstr "大地からデイドラの欠片の力を呼び出して、目の前にいる敵を<<1>>間移動不能にする。\r\n\r\n効果終了時に<<2>>を与える。"
-
-#: 198758357-0-28308
-msgctxt "198758357-0-28308"
-msgid "Shattering Prison"
-msgstr "破滅の監獄"
-
-#: 132143172-0-28025
-msgctxt "132143172-0-28025"
-msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>."
-msgstr "大地からデイドラの欠片の力を呼び出して、目の前にいる敵を<<1>>間移動不能にする。"
-
-#: 198758357-0-28025
-msgctxt "198758357-0-28025"
-msgid "Encase"
-msgstr "包囲"
-
-#: 132143172-0-27706
-msgctxt "132143172-0-27706"
-msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."
-msgstr "魔法抑制の球体を<<1>>の間作り出し、該当エリアの敵の範囲効果アビリティを解除して妨害する。\r\n\r\n中にいる敵は気絶する。敵プレイヤーは気絶ではなく沈黙状態になる。"
-
-#: 198758357-0-27706
-msgctxt "198758357-0-27706"
-msgid "Negate Magic"
-msgstr "魔法無効化"
-
 #: 132143172-0-24842
 msgctxt "132143172-0-24842"
 msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines at a target location, which arm instantly and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
@@ -192,36 +160,6 @@ msgstr "不安定なデイドラの地雷を目標の場所に|cffffff3|r個設�
 msgctxt "198758357-0-24842"
 msgid "Daedric Tomb"
 msgstr "デイドラの墓"
-
-#: 132143172-0-24834
-msgctxt "132143172-0-24834"
-msgid "Surprise your foes by placing |cffffff5|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
-msgstr "不安定なデイドラの地雷を周囲に|cffffff5|r個設置して奇襲する。地雷は|cffffff3|r秒後に起爆可能となり、<<1>>の間持続する。\r\n\r\n爆発は<<2>>を与え、<<3>>の間敵を移動不能にする。"
-
-#: 198758357-0-24834
-msgctxt "198758357-0-24834"
-msgid "Daedric Minefield"
-msgstr "デイドラの地雷原"
-
-#: 132143172-0-24828
-msgctxt "132143172-0-24828"
-msgid "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for <<1>>.\n\nWhen a mine is triggered it explodes, dealing <<2>> and immobilizing the enemy for <<3>>."
-msgstr "不安定なデイドラの地雷を周囲に|cffffff3|r個設置して奇襲する。地雷は|cffffff3|r秒後に起爆可能となり、<<1>>の間持続する。\r\n\r\n爆発は<<2>>を与え、<<3>>の間敵を移動不能にする。"
-
-#: 198758357-0-24828
-msgctxt "198758357-0-24828"
-msgid "Daedric Mines"
-msgstr "デイドラの地雷"
-
-#: 132143172-0-24595
-msgctxt "132143172-0-24595"
-msgid "Bargain with darkness to restore <<1>> Health and <<2>> Stamina instantly, and an additional <<3>> Stamina over <<4>>."
-msgstr "闇と取引して体力<<1>>とスタミナ<<2>>を即座に回復する。<<3>>スタミナが<<4>>の間追加される。"
-
-#: 198758357-0-24595
-msgctxt "198758357-0-24595"
-msgid "Dark Deal"
-msgstr "闇との密約"
 
 #: 132143172-0-24589
 msgctxt "132143172-0-24589"
@@ -233,6 +171,56 @@ msgctxt "198758357-0-24589"
 msgid "Dark Conversion"
 msgstr "闇への転向"
 
+#: 132143172-0-28308
+msgctxt "132143172-0-28308"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>.\n\nThe shards deal <<2>> when the effect ends."
+msgstr "大地からデイドラの欠片の力を呼び出して、目の前にいる敵を<<1>>間移動不能にする。\r\n\r\n効果終了時に<<2>>を与える。"
+
+#: 198758357-0-28308
+msgctxt "198758357-0-28308"
+msgid "Shattering Prison"
+msgstr "破滅の監獄"
+
+#: 132143172-0-28341
+msgctxt "132143172-0-28341"
+msgid "Create a globe of magic suppression for <<1>>, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for <<2>> every <<3>>."
+msgstr "魔法抑制の球体を<<1>>の間作り出し、該当エリアの敵の範囲効果アビリティを解除して妨害する。\r\n\r\n中にいる敵は気絶する。敵プレイヤーは気絶ではなく沈黙状態になる。\r\n\r\nさらに、球体は敵に<<2>>のダメージを<<3>>ごとに与える。"
+
+#: 198758357-0-28341
+msgctxt "198758357-0-28341"
+msgid "Suppression Field"
+msgstr "抑制フィールド"
+
+#: 132143172-0-31389
+msgctxt "132143172-0-31389"
+msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+msgstr "闇魔法アビリティを唱えると、自身とグループに予言(弱)が付与され、呪文クリティカルが<<1>>、<<2>>の間上昇する。"
+
+#: 198758357-0-31389
+msgctxt "198758357-0-31389"
+msgid "Exploitation"
+msgstr "闇の計画"
+
+#: 132143172-0-31383
+msgctxt "132143172-0-31383"
+msgid "When you hit an enemy with a directly applied Dark Magic ability, you heal for <<1>>.  \n\nThis effect scales off your Max Health and can occur once every <<2>>."
+msgstr "敵を闇魔法アビリティで直接攻撃すると、最大体力の<<1>>%を回復する。\r\n\r\nこの効果は最大体力に比例して変動し、<<2>>ごとに発動する。"
+
+#: 198758357-0-31383
+msgctxt "198758357-0-31383"
+msgid "Blood Magic"
+msgstr "血の魔法"
+
+#: 132143172-0-31386
+msgctxt "132143172-0-31386"
+msgid "Reduces the Health, Magicka, and Stamina costs of your abilities by <<1>>."
+msgstr "アビリティの体力、マジカ、スタミナ消費が<<1>>減少する。"
+
+#: 198758357-0-31386
+msgctxt "198758357-0-31386"
+msgid "Unholy Knowledge"
+msgstr "不浄なる知識"
+
 #: 132143172-0-24584
 msgctxt "132143172-0-24584"
 msgid "Bargain with darkness to restore <<1>> Health and <<2>> Magicka instantly, and an additional <<3>> Magicka over <<4>>."
@@ -243,32 +231,42 @@ msgctxt "198758357-0-24584"
 msgid "Dark Exchange"
 msgstr "闇との取引"
 
-#: 132143172-0-24578
-msgctxt "132143172-0-24578"
-msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>. Deals <<2>> if the stun lasts the full duration.\n\nThis stun cannot be blocked."
-msgstr "闇魔法の束縛する球体の中に敵を閉じこめ、わずかな時間が経過した後、<<1>>の間気絶させる。持続時間が満了するまで気絶していると、<<2>>を与える。\r\n\r\n気絶は防御できない。"
+#: 132143172-0-28025
+msgctxt "132143172-0-28025"
+msgid "Call forth Daedric shards from the earth to immobilize enemies in front of you for <<1>>."
+msgstr "大地からデイドラの欠片の力を呼び出して、目の前にいる敵を<<1>>間移動不能にする。"
 
-#: 198758357-0-24578
-msgctxt "198758357-0-24578"
-msgid "Rune Cage"
-msgstr "ルーンの檻"
+#: 198758357-0-28025
+msgctxt "198758357-0-28025"
+msgid "Encase"
+msgstr "包囲"
 
-#: 132143172-0-24574
-msgctxt "132143172-0-24574"
-msgid "Place a rune of protection on yourself for <<1>>. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for <<2>>.\n\nThis stun cannot be blocked."
-msgstr "防御のルーンを<<1>>の間、自分に使用する。発動中、次に攻撃してきた敵を闇魔法の束縛する球体の中に閉じこめ、わずかな時間が経過した後、<<2>>の間気絶させる。\r\n\r\n気絶は防御も回避もできない。"
+#: 132143172-0-46331
+msgctxt "132143172-0-46331"
+msgid "Conjure dark crystals to bombard an enemy, dealing <<1>> and stunning them for <<2>>. \n\nAlso damages enemies near the initial target for <<3>>."
+msgstr "闇のクリスタルを召喚し、<<1>>を与えて<<2>>の間敵を気絶させる。\r\n\r\nまた、標的の近くにいる敵も<<3>>のダメージを受ける。"
 
-#: 198758357-0-24574
-msgctxt "198758357-0-24574"
-msgid "Defensive Rune"
-msgstr "防御のルーン"
+#: 198758357-0-46331
+msgctxt "198758357-0-46331"
+msgid "Crystal Blast"
+msgstr "クリスタルの一撃"
 
-#: 132143172-0-24371
-msgctxt "132143172-0-24371"
-msgid "Imprison enemy in a constricting sphere of dark magic, after a short duration they are stunned for <<1>>.\n\nThis stun cannot be blocked."
-msgstr "闇魔法の束縛する球体の中に敵を閉じこめ、わずかな時間が経過した後、<<1>>の間気絶させる。\r\n\r\n気絶は防御できない。"
+#: 132143172-0-45165
+msgctxt "132143172-0-45165"
+msgid "After blocking an attack, your next Health, Magicka, or Stamina ability costs <<1>> less."
+msgstr "攻撃をブロックすると、次の体力、マジカ、スタミナアビリティの消費が<<1>>低下する。"
 
-#: 198758357-0-24371
-msgctxt "198758357-0-24371"
-msgid "Rune Prison"
-msgstr "ルーンの牢獄"
+#: 198758357-0-45165
+msgctxt "198758357-0-45165"
+msgid "Persistence"
+msgstr "固執"
+
+#: 132143172-0-45181
+msgctxt "132143172-0-45181"
+msgid "When you cast a Dark Magic ability you grant Minor Prophecy to you and your group, increasing your Spell Critical by <<1>> for <<2>>."
+msgstr "闇魔法アビリティを唱えると、自身とグループに予言(弱)が付与され、呪文クリティカルが<<1>>、<<2>>の間上昇する。"
+
+#: 198758357-0-45181
+msgctxt "198758357-0-45181"
+msgid "Exploitation"
+msgstr "闇の計画"

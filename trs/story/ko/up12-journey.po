@@ -11,75 +11,40 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 52420949-0-5879
-msgctxt "52420949-0-5879"
-msgid "The New Life Festival"
-msgstr "새 생명 축제"
-
-#: 265851556-0-5879
-msgctxt "265851556-0-5879"
-msgid "<<1>>, a New Life Herald in Eastmarch, spoke of the New Life Festival celebrated across Tamriel."
-msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 탐리엘 전역에서 유명한 새 생명 축제에 대해 알려 주었다."
-
-#: 265851556-0-5852
-msgctxt "265851556-0-5852"
-msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Grahtwood."
-msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 그랏우드의 <<2>>에서 열리는 새 생명 축제에 대해 알려 주었다."
+#: 265851556-0-5839
+msgctxt "265851556-0-5839"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Alik'r Desert."
+msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 알리키어 사막의 <<2>>에서 열리는 새 생명 축제에 대해 알려 주었다."
 
 #: 265851556-0-5845
 msgctxt "265851556-0-5845"
 msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Stormhaven."
 msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 스톰헤이븐의 <<2>>에서 열리는 새 생명 축제에 대해 알려 주었다."
 
-#: 265851556-0-5839
-msgctxt "265851556-0-5839"
-msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Alik'r Desert."
-msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 알리키어 사막의 <<2>>에서 열리는 새 생명 축제에 대해 알려 주었다."
-
 #: 265851556-0-5834
 msgctxt "265851556-0-5834"
 msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Reaper's March."
 msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 리퍼스 마치의 <<2>>에서 열리는 새 생명 축제에 대해 알려 주었다."
+
+#: 265851556-0-5787
+msgctxt "265851556-0-5787"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Bangkorai."
+msgstr "파이터 길드의 <<1>>는 뱅코라이에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
+#: 265851556-0-5852
+msgctxt "265851556-0-5852"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of <<2>>'s New Life Festival in Grahtwood."
+msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 그랏우드의 <<2>>에서 열리는 새 생명 축제에 대해 알려 주었다."
 
 #: 265851556-0-5797
 msgctxt "265851556-0-5797"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Reaper's March."
 msgstr "파이터 길드의 <<1>>는 리퍼스 마치에서 벌레 교단의 활동이 있다는 것을 알아냈다."
 
-#: 265851556-0-5796
-msgctxt "265851556-0-5796"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Greenshade."
-msgstr "파이터 길드의 <<1>>는 그린셰이드에서 벌레 교단의 활동이 있다는 것을 알아냈다."
-
-#: 265851556-0-5795
-msgctxt "265851556-0-5795"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Malabal Tor."
-msgstr "파이터 길드의 <<1>>는 말라발 토르에서 벌레 교단의 활동이 있다는 것을 알아냈다."
-
-#: 265851556-0-5794
-msgctxt "265851556-0-5794"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Grahtwood."
-msgstr "파이터 길드의 <<1>>는 그랏우드에서 벌레 교단의 활동이 있다는 것을 알아냈다."
-
-#: 265851556-0-5793
-msgctxt "265851556-0-5793"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Auridon."
-msgstr "파이터 길드의 <<1>>는 아우리돈에서 벌레 교단의 활동이 있다는 것을 알아냈다."
-
-#: 265851556-0-5792
-msgctxt "265851556-0-5792"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in the Rift."
-msgstr "파이터 길드의 <<1>>는 리프트에서 벌레 교단의 활동이 있다는 것을 알아냈다."
-
-#: 265851556-0-5791
-msgctxt "265851556-0-5791"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Eastmarch."
-msgstr "파이터 길드의 <<1>>는 이스트마치에서 벌레 교단의 활동이 있다는 것을 알아냈다."
-
-#: 265851556-0-5790
-msgctxt "265851556-0-5790"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Shadowfen."
-msgstr "파이터 길드의 <<1>>는 섀도우펜에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+#: 265851556-0-5786
+msgctxt "265851556-0-5786"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Alik'r Desert."
+msgstr "파이터 길드의 <<1>>는 알리키어 사막에서 벌레 교단의 활동이 있다는 것을 알아냈다."
 
 #: 265851556-0-5789
 msgctxt "265851556-0-5789"
@@ -91,22 +56,57 @@ msgctxt "265851556-0-5788"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Stonefalls."
 msgstr "파이터 길드의 <<1>>는 스톤폴즈에서 벌레 교단의 활동이 있다는 것을 알아냈다."
 
-#: 265851556-0-5787
-msgctxt "265851556-0-5787"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Bangkorai."
-msgstr "파이터 길드의 <<1>>는 뱅코라이에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+#: 265851556-0-5794
+msgctxt "265851556-0-5794"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Grahtwood."
+msgstr "파이터 길드의 <<1>>는 그랏우드에서 벌레 교단의 활동이 있다는 것을 알아냈다."
 
-#: 265851556-0-5786
-msgctxt "265851556-0-5786"
-msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Alik'r Desert."
-msgstr "파이터 길드의 <<1>>는 알리키어 사막에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+#: 265851556-0-5793
+msgctxt "265851556-0-5793"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Auridon."
+msgstr "파이터 길드의 <<1>>는 아우리돈에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
+#: 265851556-0-5796
+msgctxt "265851556-0-5796"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Greenshade."
+msgstr "파이터 길드의 <<1>>는 그린셰이드에서 벌레 교단의 활동이 있다는 것을 알아냈다."
 
 #: 265851556-0-5785
 msgctxt "265851556-0-5785"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Rivenspire."
 msgstr "파이터 길드의 <<1>>는 리븐스파이어에서 벌레 교단의 활동이 있다는 것을 알아냈다."
 
+#: 265851556-0-5795
+msgctxt "265851556-0-5795"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Malabal Tor."
+msgstr "파이터 길드의 <<1>>는 말라발 토르에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
 #: 265851556-0-5784
 msgctxt "265851556-0-5784"
 msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Stormhaven."
 msgstr "파이터 길드의 <<1>>는 스톰헤이븐에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
+#: 265851556-0-5790
+msgctxt "265851556-0-5790"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Shadowfen."
+msgstr "파이터 길드의 <<1>>는 섀도우펜에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
+#: 265851556-0-5792
+msgctxt "265851556-0-5792"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in the Rift."
+msgstr "파이터 길드의 <<1>>는 리프트에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
+#: 265851556-0-5791
+msgctxt "265851556-0-5791"
+msgid "<<1>> of the Fighters Guild learned of Worm Cult activity in Eastmarch."
+msgstr "파이터 길드의 <<1>>는 이스트마치에서 벌레 교단의 활동이 있다는 것을 알아냈다."
+
+#: 52420949-0-5879
+msgctxt "52420949-0-5879"
+msgid "The New Life Festival"
+msgstr "새 생명 축제"
+
+#: 265851556-0-5879
+msgctxt "265851556-0-5879"
+msgid "<<1>>, a New Life Herald in Eastmarch, spoke of the New Life Festival celebrated across Tamriel."
+msgstr "이스트마치에 있는 새 생명의 사자 <<1>>가 탐리엘 전역에서 유명한 새 생명 축제에 대해 알려 주었다."

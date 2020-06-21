@@ -11,6 +11,36 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-45430
+msgctxt "132143172-0-45430"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks a |cffffff16|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+msgstr ""
+
+#: 198758357-0-45430
+msgctxt "198758357-0-45430"
+msgid "Heavy Weapons"
+msgstr ""
+
+#: 132143172-0-29387
+msgctxt "132143172-0-29387"
+msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
+msgstr ""
+
+#: 198758357-0-29387
+msgctxt "198758357-0-29387"
+msgid "Forceful"
+msgstr ""
+
+#: 132143172-0-28297
+msgctxt "132143172-0-28297"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-28297
+msgctxt "198758357-0-28297"
+msgid "Momentum"
+msgstr ""
+
 #: 132143172-0-83238
 msgctxt "132143172-0-83238"
 msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for <<2>>.\n\nYou are immune to all disabling, snare, and immobilization effects for the duration."
@@ -19,16 +49,6 @@ msgstr ""
 #: 198758357-0-83238
 msgctxt "198758357-0-83238"
 msgid "Berserker Rage"
-msgstr ""
-
-#: 132143172-0-83229
-msgctxt "132143172-0-83229"
-msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for your Direct Damage attacks equal to <<2>> of the amount ignored from the initial target for <<3>>."
-msgstr ""
-
-#: 198758357-0-83229
-msgctxt "198758357-0-83229"
-msgid "Onslaught"
 msgstr ""
 
 #: 132143172-0-83216
@@ -41,86 +61,6 @@ msgctxt "198758357-0-83216"
 msgid "Berserker Strike"
 msgstr ""
 
-#: 132143172-0-45448
-msgctxt "132143172-0-45448"
-msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
-msgstr ""
-
-#: 198758357-0-45448
-msgctxt "198758357-0-45448"
-msgid "Battle Rush"
-msgstr ""
-
-#: 132143172-0-45446
-msgctxt "132143172-0-45446"
-msgid "When you deal damage with a fully-charged Heavy Attack, your next direct damage attack used within <<1>> deals an additional <<2>> damage."
-msgstr ""
-
-#: 198758357-0-45446
-msgctxt "198758357-0-45446"
-msgid "Follow Up"
-msgstr ""
-
-#: 132143172-0-45444
-msgctxt "132143172-0-45444"
-msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
-msgstr ""
-
-#: 198758357-0-45444
-msgctxt "198758357-0-45444"
-msgid "Forceful"
-msgstr ""
-
-#: 132143172-0-45443
-msgctxt "132143172-0-45443"
-msgid "Reduces the Stamina cost of your Two-Handed abilities by <<1>>."
-msgstr ""
-
-#: 198758357-0-45443
-msgctxt "198758357-0-45443"
-msgid "Balanced Blade"
-msgstr ""
-
-#: 132143172-0-45430
-msgctxt "132143172-0-45430"
-msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks a |cffffff16|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
-msgstr ""
-
-#: 198758357-0-45430
-msgctxt "198758357-0-45430"
-msgid "Heavy Weapons"
-msgstr ""
-
-#: 132143172-0-38823
-msgctxt "132143172-0-38823"
-msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health.\n\nOther enemies nearby take <<4>>% of the damage inflicted to the primary target."
-msgstr ""
-
-#: 198758357-0-38823
-msgctxt "198758357-0-38823"
-msgid "Reverse Slice"
-msgstr ""
-
-#: 132143172-0-38819
-msgctxt "132143172-0-38819"
-msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
-msgstr ""
-
-#: 198758357-0-38819
-msgctxt "198758357-0-38819"
-msgid "Executioner"
-msgstr ""
-
-#: 132143172-0-38814
-msgctxt "132143172-0-38814"
-msgid "Slam an enemy with an upward swing, dealing <<1>> and setting them Off Balance for <<2>>.  \n\nHitting an enemy that is already Off Balance stuns them for <<3>>.\n\nTargets that are immune to Off Balance are snared by <<4>> for <<5>>."
-msgstr ""
-
-#: 198758357-0-38814
-msgctxt "198758357-0-38814"
-msgid "Dizzying Swing"
-msgstr ""
-
 #: 132143172-0-38807
 msgctxt "132143172-0-38807"
 msgid "Slam an enemy with an upward swing, dealing <<1>>.\n\nGrants you Empower for <<2>>, increasing the damage of your next Light Attack by <<3>>."
@@ -131,74 +71,14 @@ msgctxt "198758357-0-38807"
 msgid "Wrecking Blow"
 msgstr ""
 
-#: 132143172-0-38802
-msgctxt "132143172-0-38802"
-msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nYou heal for <<4>> Health when Rally ends. The final heal is increased by |cffffff15|r% every <<5>>, up to a maximum of |cffffff300|r%."
+#: 132143172-0-28279
+msgctxt "132143172-0-28279"
+msgid "Slam an enemy with an upward swing, dealing <<1>>."
 msgstr ""
 
-#: 198758357-0-38802
-msgctxt "198758357-0-38802"
-msgid "Rally"
-msgstr ""
-
-#: 132143172-0-38794
-msgctxt "132143172-0-38794"
-msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<4>>."
-msgstr ""
-
-#: 198758357-0-38794
-msgctxt "198758357-0-38794"
-msgid "Forward Momentum"
-msgstr ""
-
-#: 132143172-0-38788
-msgctxt "132143172-0-38788"
-msgid "Launch across the earth and smash an enemy, dealing <<1>>.  This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing <<2>> to all enemies in the area every <<3>> for <<4>>."
-msgstr ""
-
-#: 198758357-0-38788
-msgctxt "198758357-0-38788"
-msgid "Stampede"
-msgstr ""
-
-#: 132143172-0-38778
-msgctxt "132143172-0-38778"
-msgid "Launch across the earth and smash an enemy, dealing <<1>>. Deals up to |cffffff50|r% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike."
-msgstr ""
-
-#: 198758357-0-38778
-msgctxt "198758357-0-38778"
-msgid "Critical Rush"
-msgstr ""
-
-#: 132143172-0-38754
-msgctxt "132143172-0-38754"
-msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you.\n\nYou also gain a damage shield that absorbs <<2>> damage for <<3>>. Each enemy hit increases the damage shield's strength by <<4>>%, up to |cffffff300|r%."
-msgstr ""
-
-#: 198758357-0-38754
-msgctxt "198758357-0-38754"
-msgid "Brawler"
-msgstr ""
-
-#: 132143172-0-38745
-msgctxt "132143172-0-38745"
-msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you, and causing them to bleed for an additional <<2>> over <<3>>."
-msgstr ""
-
-#: 198758357-0-38745
-msgctxt "198758357-0-38745"
-msgid "Carve"
-msgstr ""
-
-#: 132143172-0-29391
-msgctxt "132143172-0-29391"
-msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
-msgstr ""
-
-#: 198758357-0-29391
-msgctxt "198758357-0-29391"
-msgid "Battle Rush"
+#: 198758357-0-28279
+msgctxt "198758357-0-28279"
+msgid "Uppercut"
 msgstr ""
 
 #: 132143172-0-29389
@@ -221,24 +101,94 @@ msgctxt "198758357-0-29388"
 msgid "Balanced Blade"
 msgstr ""
 
-#: 132143172-0-29387
-msgctxt "132143172-0-29387"
+#: 132143172-0-38788
+msgctxt "132143172-0-38788"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>.  This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing <<2>> to all enemies in the area every <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-38788
+msgctxt "198758357-0-38788"
+msgid "Stampede"
+msgstr ""
+
+#: 132143172-0-38745
+msgctxt "132143172-0-38745"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you, and causing them to bleed for an additional <<2>> over <<3>>."
+msgstr ""
+
+#: 198758357-0-38745
+msgctxt "198758357-0-38745"
+msgid "Carve"
+msgstr ""
+
+#: 132143172-0-38823
+msgctxt "132143172-0-38823"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health.\n\nOther enemies nearby take <<4>>% of the damage inflicted to the primary target."
+msgstr ""
+
+#: 198758357-0-38823
+msgctxt "198758357-0-38823"
+msgid "Reverse Slice"
+msgstr ""
+
+#: 132143172-0-38802
+msgctxt "132143172-0-38802"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nYou heal for <<4>> Health when Rally ends. The final heal is increased by |cffffff15|r% every <<5>>, up to a maximum of |cffffff300|r%."
+msgstr ""
+
+#: 198758357-0-38802
+msgctxt "198758357-0-38802"
+msgid "Rally"
+msgstr ""
+
+#: 132143172-0-45446
+msgctxt "132143172-0-45446"
+msgid "When you deal damage with a fully-charged Heavy Attack, your next direct damage attack used within <<1>> deals an additional <<2>> damage."
+msgstr ""
+
+#: 198758357-0-45446
+msgctxt "198758357-0-45446"
+msgid "Follow Up"
+msgstr ""
+
+#: 132143172-0-45448
+msgctxt "132143172-0-45448"
+msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
+msgstr ""
+
+#: 198758357-0-45448
+msgctxt "198758357-0-45448"
+msgid "Battle Rush"
+msgstr ""
+
+#: 132143172-0-38794
+msgctxt "132143172-0-38794"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<4>>."
+msgstr ""
+
+#: 198758357-0-38794
+msgctxt "198758357-0-38794"
+msgid "Forward Momentum"
+msgstr ""
+
+#: 132143172-0-45444
+msgctxt "132143172-0-45444"
 msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
 msgstr ""
 
-#: 198758357-0-29387
-msgctxt "198758357-0-29387"
+#: 198758357-0-45444
+msgctxt "198758357-0-45444"
 msgid "Forceful"
 msgstr ""
 
-#: 132143172-0-29375
-msgctxt "132143172-0-29375"
-msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks an |cffffff8|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+#: 132143172-0-45443
+msgctxt "132143172-0-45443"
+msgid "Reduces the Stamina cost of your Two-Handed abilities by <<1>>."
 msgstr ""
 
-#: 198758357-0-29375
-msgctxt "198758357-0-29375"
-msgid "Heavy Weapons"
+#: 198758357-0-45443
+msgctxt "198758357-0-45443"
+msgid "Balanced Blade"
 msgstr ""
 
 #: 132143172-0-28448
@@ -251,34 +201,34 @@ msgctxt "198758357-0-28448"
 msgid "Critical Charge"
 msgstr ""
 
-#: 132143172-0-28302
-msgctxt "132143172-0-28302"
+#: 132143172-0-29375
+msgctxt "132143172-0-29375"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks an |cffffff8|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+msgstr ""
+
+#: 198758357-0-29375
+msgctxt "198758357-0-29375"
+msgid "Heavy Weapons"
+msgstr ""
+
+#: 132143172-0-38819
+msgctxt "132143172-0-38819"
 msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
 msgstr ""
 
-#: 198758357-0-28302
-msgctxt "198758357-0-28302"
-msgid "Reverse Slash"
+#: 198758357-0-38819
+msgctxt "198758357-0-38819"
+msgid "Executioner"
 msgstr ""
 
-#: 132143172-0-28297
-msgctxt "132143172-0-28297"
-msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>."
+#: 132143172-0-83229
+msgctxt "132143172-0-83229"
+msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for your Direct Damage attacks equal to <<2>> of the amount ignored from the initial target for <<3>>."
 msgstr ""
 
-#: 198758357-0-28297
-msgctxt "198758357-0-28297"
-msgid "Momentum"
-msgstr ""
-
-#: 132143172-0-28279
-msgctxt "132143172-0-28279"
-msgid "Slam an enemy with an upward swing, dealing <<1>>."
-msgstr ""
-
-#: 198758357-0-28279
-msgctxt "198758357-0-28279"
-msgid "Uppercut"
+#: 198758357-0-83229
+msgctxt "198758357-0-83229"
+msgid "Onslaught"
 msgstr ""
 
 #: 132143172-0-20919
@@ -289,4 +239,54 @@ msgstr ""
 #: 198758357-0-20919
 msgctxt "198758357-0-20919"
 msgid "Cleave"
+msgstr ""
+
+#: 132143172-0-28302
+msgctxt "132143172-0-28302"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
+msgstr ""
+
+#: 198758357-0-28302
+msgctxt "198758357-0-28302"
+msgid "Reverse Slash"
+msgstr ""
+
+#: 132143172-0-38754
+msgctxt "132143172-0-38754"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you.\n\nYou also gain a damage shield that absorbs <<2>> damage for <<3>>. Each enemy hit increases the damage shield's strength by <<4>>%, up to |cffffff300|r%."
+msgstr ""
+
+#: 198758357-0-38754
+msgctxt "198758357-0-38754"
+msgid "Brawler"
+msgstr ""
+
+#: 132143172-0-38778
+msgctxt "132143172-0-38778"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>. Deals up to |cffffff50|r% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike."
+msgstr ""
+
+#: 198758357-0-38778
+msgctxt "198758357-0-38778"
+msgid "Critical Rush"
+msgstr ""
+
+#: 132143172-0-38814
+msgctxt "132143172-0-38814"
+msgid "Slam an enemy with an upward swing, dealing <<1>> and setting them Off Balance for <<2>>.  \n\nHitting an enemy that is already Off Balance stuns them for <<3>>.\n\nTargets that are immune to Off Balance are snared by <<4>> for <<5>>."
+msgstr ""
+
+#: 198758357-0-38814
+msgctxt "198758357-0-38814"
+msgid "Dizzying Swing"
+msgstr ""
+
+#: 132143172-0-29391
+msgctxt "132143172-0-29391"
+msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
+msgstr ""
+
+#: 198758357-0-29391
+msgctxt "198758357-0-29391"
+msgid "Battle Rush"
 msgstr ""

@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-50903
+msgctxt "132143172-0-50903"
+msgid "Increases your Max Health by <<1>>."
+msgstr ""
+
+#: 198758357-0-50903
+msgctxt "198758357-0-50903"
+msgid "Tough"
+msgstr ""
+
 #: 132143172-0-50907
 msgctxt "132143172-0-50907"
 msgid "Increases your Max Health by <<1>>."
@@ -29,46 +39,6 @@ msgstr ""
 #: 198758357-0-50906
 msgctxt "198758357-0-50906"
 msgid "Tough"
-msgstr ""
-
-#: 132143172-0-50903
-msgctxt "132143172-0-50903"
-msgid "Increases your Max Health by <<1>>."
-msgstr ""
-
-#: 198758357-0-50903
-msgctxt "198758357-0-50903"
-msgid "Tough"
-msgstr ""
-
-#: 132143172-0-45293
-msgctxt "132143172-0-45293"
-msgid "Reduces the cost of all your abilities by |cffffff3|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
-msgstr ""
-
-#: 198758357-0-45293
-msgctxt "198758357-0-45293"
-msgid "Red Diamond"
-msgstr ""
-
-#: 132143172-0-45291
-msgctxt "132143172-0-45291"
-msgid "Reduces the cost of all your abilities by |cffffff2|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
-msgstr ""
-
-#: 198758357-0-45291
-msgctxt "198758357-0-45291"
-msgid "Red Diamond"
-msgstr ""
-
-#: 132143172-0-45280
-msgctxt "132143172-0-45280"
-msgid "Increases your Max Stamina by <<1>>."
-msgstr ""
-
-#: 198758357-0-45280
-msgctxt "198758357-0-45280"
-msgid "Imperial Mettle"
 msgstr ""
 
 #: 132143172-0-45279
@@ -109,4 +79,34 @@ msgstr ""
 #: 198758357-0-36153
 msgctxt "198758357-0-36153"
 msgid "Imperial Mettle"
+msgstr ""
+
+#: 132143172-0-45291
+msgctxt "132143172-0-45291"
+msgid "Reduces the cost of all your abilities by |cffffff2|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
+msgstr ""
+
+#: 198758357-0-45291
+msgctxt "198758357-0-45291"
+msgid "Red Diamond"
+msgstr ""
+
+#: 132143172-0-45280
+msgctxt "132143172-0-45280"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr ""
+
+#: 198758357-0-45280
+msgctxt "198758357-0-45280"
+msgid "Imperial Mettle"
+msgstr ""
+
+#: 132143172-0-45293
+msgctxt "132143172-0-45293"
+msgid "Reduces the cost of all your abilities by |cffffff3|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
+msgstr ""
+
+#: 198758357-0-45293
+msgctxt "198758357-0-45293"
+msgid "Red Diamond"
 msgstr ""

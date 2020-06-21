@@ -11,46 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-81997
-msgctxt "228378404-0-81997"
-msgid "Ten of these items can be refined into Pearl Sand, which is used to make Order of the Hour equipment."
-msgstr "이 아이템 10개를 가공해 시간의 기사단 장비를 만드는데 쓰이는 진주 모래를 얻을 수 있습니다."
-
-#: 242841733-0-81997
-msgctxt "242841733-0-81997"
-msgid "Grain of Pearl Sand"
-msgstr "진주 모래 알갱이 (Grain of Pearl Sand)"
-
-#: 228378404-0-81995
-msgctxt "228378404-0-81995"
-msgid "Ten of these items can be refined into Oxblood Fungus, which is used to make Minotaur equipment."
-msgstr "이 아이템 10개를 가공해 미노타우르스 장비를 만드는데 쓰이는 선지 곰팡이를 얻을 수 있습니다."
-
-#: 242841733-0-81995
-msgctxt "242841733-0-81995"
-msgid "Oxblood Fungus Spore"
-msgstr "선지 곰팡이 포자 (Oxblood Fungus Spore)"
-
-#: 228378404-0-76911
-msgctxt "228378404-0-76911"
-msgid "Ten of these items can be refined into Tainted Blood, which is used to make Assassins League equipment."
-msgstr "이 아이템 10개를 가공해 암살자 연맹 장비를 만드는데 쓰이는 부패한 혈액을 얻을 수 있습니다."
-
-#: 242841733-0-76911
-msgctxt "242841733-0-76911"
-msgid "Dried Blood"
-msgstr "말린 혈액 (Dried Blood)"
-
-#: 228378404-0-75371
-msgctxt "228378404-0-75371"
-msgid "Ten of these items can be refined into Fine Chalk, which is used to make Thieves Guild equipment."
-msgstr "이 아이템 10개를 가공해 도둑 길드 장비를 만드는데 쓰이는 고운 백악을 얻을 수 있습니다."
-
-#: 242841733-0-75371
-msgctxt "242841733-0-75371"
-msgid "Coarse Chalk"
-msgstr "거친 백악 (Coarse Chalk)"
-
 #: 228378404-0-69556
 msgctxt "228378404-0-69556"
 msgid "Ten of these items can be refined into Cassiterite, which is used to make Ancient Orc equipment."
@@ -60,56 +20,6 @@ msgstr "이 아이템 10개를 가공해 고대 오크 장비를 만드는 데 �
 msgctxt "242841733-0-69556"
 msgid "Cassiterite Sand"
 msgstr "주석석 가루 (Cassiterite Sand)"
-
-#: 228378404-0-64690
-msgctxt "228378404-0-64690"
-msgid "Ten of these items can be refined into Malachite, which is used to make Glass equipment."
-msgstr "이 아이템 10개를 가공해 글래스 장비를 만드는 데 사용되는 공작석을 만들 수 있습니다."
-
-#: 242841733-0-64690
-msgctxt "242841733-0-64690"
-msgid "Malachite Shard"
-msgstr "공작석 조각 (Malachite Shard)"
-
-#: 228378404-0-64688
-msgctxt "228378404-0-64688"
-msgid "Ten of these items can be refined into Goldscale, which is used to make Akaviri equipment."
-msgstr "이 아이템 10개를 가공해 아카비리 장비를 만드는 데 사용되는 황금비늘을 만들 수 있습니다."
-
-#: 242841733-0-64688
-msgctxt "242841733-0-64688"
-msgid "Ancient Scale"
-msgstr "고대 비늘 (Ancient Scale)"
-
-#: 228378404-0-59923
-msgctxt "228378404-0-59923"
-msgid "Ten of these items can be refined into Charcoal of Remorse, which is used to make Xivkyn equipment."
-msgstr "이 아이템 10개를 가공해서 지브킨 장비를 제작하는데 쓰이는 회한의 숯덩이를 제작합니다."
-
-#: 242841733-0-59923
-msgctxt "242841733-0-59923"
-msgid "Ashes of Remorse"
-msgstr "회한의 잿가루 (Ashes of Remorse)"
-
-#: 228378404-0-57665
-msgctxt "228378404-0-57665"
-msgid "Ten of these items can be refined into a Dwemer Frame, which is used to make Dwemer equipment."
-msgstr "이 아이템 10개를 가공해 드웨머 장비를 만드는데 쓰이는 드웨머 뼈대를 얻을 수 있습니다."
-
-#: 242841733-0-57665
-msgctxt "242841733-0-57665"
-msgid "Dwemer Scrap"
-msgstr "드웨머 조각 (Dwemer Scrap)"
-
-#: 228378404-0-130062
-msgctxt "228378404-0-130062"
-msgid "Ten of these items can be refined into Polished Scarab Chitin, which is used to make Redoran equipment."
-msgstr "이 아이템 10개를 가공해 레도란 장비를 만드는데 쓰이는 윤기나는 딱정벌레를 얻을 수 있습니다."
-
-#: 242841733-0-130062
-msgctxt "242841733-0-130062"
-msgid "Scarab Elytra"
-msgstr "딱정벌레 (Scarab Elytra)"
 
 #: 228378404-0-130058
 msgctxt "228378404-0-130058"
@@ -121,15 +31,15 @@ msgctxt "242841733-0-130058"
 msgid "Raw Bonemold Resin"
 msgstr "가공되지 않은 본몰드 수지 (Raw Bonemold Resin)"
 
-#: 228378404-0-121523
-msgctxt "228378404-0-121523"
-msgid "Ten of these items can be refined into Lustrous Sphalerite, which is used to make Militant Ordinator equipment."
-msgstr "이 아이템 10개를 가공해 전투적인 오디네이터 장비를 만드는데 쓰이는 빛나는 섬아연광을 얻을 수 있습니다."
+#: 228378404-0-64688
+msgctxt "228378404-0-64688"
+msgid "Ten of these items can be refined into Goldscale, which is used to make Akaviri equipment."
+msgstr "이 아이템 10개를 가공해 아카비리 장비를 만드는 데 사용되는 황금비늘을 만들 수 있습니다."
 
-#: 242841733-0-121523
-msgctxt "242841733-0-121523"
-msgid "Dull Sphalerite"
-msgstr "칙칙한 섬아연광 (Dull Sphalerite)"
+#: 242841733-0-64688
+msgctxt "242841733-0-64688"
+msgid "Ancient Scale"
+msgstr "고대 비늘 (Ancient Scale)"
 
 #: 228378404-0-121522
 msgctxt "228378404-0-121522"
@@ -141,6 +51,26 @@ msgctxt "242841733-0-121522"
 msgid "Pliant Ferrofungus"
 msgstr "유연한 철분버섯 (Pliant Ferrofungus)"
 
+#: 228378404-0-75371
+msgctxt "228378404-0-75371"
+msgid "Ten of these items can be refined into Fine Chalk, which is used to make Thieves Guild equipment."
+msgstr "이 아이템 10개를 가공해 도둑 길드 장비를 만드는데 쓰이는 고운 백악을 얻을 수 있습니다."
+
+#: 242841733-0-75371
+msgctxt "242841733-0-75371"
+msgid "Coarse Chalk"
+msgstr "거친 백악 (Coarse Chalk)"
+
+#: 228378404-0-81995
+msgctxt "228378404-0-81995"
+msgid "Ten of these items can be refined into Oxblood Fungus, which is used to make Minotaur equipment."
+msgstr "이 아이템 10개를 가공해 미노타우르스 장비를 만드는데 쓰이는 선지 곰팡이를 얻을 수 있습니다."
+
+#: 242841733-0-81995
+msgctxt "242841733-0-81995"
+msgid "Oxblood Fungus Spore"
+msgstr "선지 곰팡이 포자 (Oxblood Fungus Spore)"
+
 #: 228378404-0-121521
 msgctxt "228378404-0-121521"
 msgid "Ten of this dust can be refined into Volcanic Viridian, used to make Buoyant Armiger equipment."
@@ -150,3 +80,73 @@ msgstr "이 아이템 10개를 가공해 부얀트 아미거 장비를 만드는
 msgctxt "242841733-0-121521"
 msgid "Viridian Dust"
 msgstr "비리디안 가루 (Viridian Dust)"
+
+#: 228378404-0-81997
+msgctxt "228378404-0-81997"
+msgid "Ten of these items can be refined into Pearl Sand, which is used to make Order of the Hour equipment."
+msgstr "이 아이템 10개를 가공해 시간의 기사단 장비를 만드는데 쓰이는 진주 모래를 얻을 수 있습니다."
+
+#: 242841733-0-81997
+msgctxt "242841733-0-81997"
+msgid "Grain of Pearl Sand"
+msgstr "진주 모래 알갱이 (Grain of Pearl Sand)"
+
+#: 228378404-0-59923
+msgctxt "228378404-0-59923"
+msgid "Ten of these items can be refined into Charcoal of Remorse, which is used to make Xivkyn equipment."
+msgstr "이 아이템 10개를 가공해서 지브킨 장비를 제작하는데 쓰이는 회한의 숯덩이를 제작합니다."
+
+#: 242841733-0-59923
+msgctxt "242841733-0-59923"
+msgid "Ashes of Remorse"
+msgstr "회한의 잿가루 (Ashes of Remorse)"
+
+#: 228378404-0-121523
+msgctxt "228378404-0-121523"
+msgid "Ten of these items can be refined into Lustrous Sphalerite, which is used to make Militant Ordinator equipment."
+msgstr "이 아이템 10개를 가공해 전투적인 오디네이터 장비를 만드는데 쓰이는 빛나는 섬아연광을 얻을 수 있습니다."
+
+#: 242841733-0-121523
+msgctxt "242841733-0-121523"
+msgid "Dull Sphalerite"
+msgstr "칙칙한 섬아연광 (Dull Sphalerite)"
+
+#: 228378404-0-57665
+msgctxt "228378404-0-57665"
+msgid "Ten of these items can be refined into a Dwemer Frame, which is used to make Dwemer equipment."
+msgstr "이 아이템 10개를 가공해 드웨머 장비를 만드는데 쓰이는 드웨머 뼈대를 얻을 수 있습니다."
+
+#: 242841733-0-57665
+msgctxt "242841733-0-57665"
+msgid "Dwemer Scrap"
+msgstr "드웨머 조각 (Dwemer Scrap)"
+
+#: 228378404-0-76911
+msgctxt "228378404-0-76911"
+msgid "Ten of these items can be refined into Tainted Blood, which is used to make Assassins League equipment."
+msgstr "이 아이템 10개를 가공해 암살자 연맹 장비를 만드는데 쓰이는 부패한 혈액을 얻을 수 있습니다."
+
+#: 242841733-0-76911
+msgctxt "242841733-0-76911"
+msgid "Dried Blood"
+msgstr "말린 혈액 (Dried Blood)"
+
+#: 228378404-0-130062
+msgctxt "228378404-0-130062"
+msgid "Ten of these items can be refined into Polished Scarab Chitin, which is used to make Redoran equipment."
+msgstr "이 아이템 10개를 가공해 레도란 장비를 만드는데 쓰이는 윤기나는 딱정벌레를 얻을 수 있습니다."
+
+#: 242841733-0-130062
+msgctxt "242841733-0-130062"
+msgid "Scarab Elytra"
+msgstr "딱정벌레 (Scarab Elytra)"
+
+#: 228378404-0-64690
+msgctxt "228378404-0-64690"
+msgid "Ten of these items can be refined into Malachite, which is used to make Glass equipment."
+msgstr "이 아이템 10개를 가공해 글래스 장비를 만드는 데 사용되는 공작석을 만들 수 있습니다."
+
+#: 242841733-0-64690
+msgctxt "242841733-0-64690"
+msgid "Malachite Shard"
+msgstr "공작석 조각 (Malachite Shard)"

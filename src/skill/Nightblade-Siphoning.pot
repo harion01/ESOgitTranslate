@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-36560
+msgctxt "132143172-0-36560"
+msgid "After drinking a potion you gain <<1>> Ultimate."
+msgstr ""
+
+#: 198758357-0-36560
+msgctxt "198758357-0-36560"
+msgid "Catalyst"
+msgstr ""
+
 #: 132143172-0-45155
 msgctxt "132143172-0-45155"
 msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
@@ -18,6 +28,106 @@ msgstr ""
 
 #: 198758357-0-45155
 msgctxt "198758357-0-45155"
+msgid "Soul Siphoner"
+msgstr ""
+
+#: 132143172-0-45135
+msgctxt "132143172-0-45135"
+msgid "After drinking a potion you gain <<1>> Ultimate."
+msgstr ""
+
+#: 198758357-0-45135
+msgctxt "198758357-0-45135"
+msgid "Catalyst"
+msgstr ""
+
+#: 132143172-0-33291
+msgctxt "132143172-0-33291"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you or a nearby ally for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-33291
+msgctxt "198758357-0-33291"
+msgid "Strife"
+msgstr ""
+
+#: 132143172-0-34721
+msgctxt "132143172-0-34721"
+msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>."
+msgstr ""
+
+#: 198758357-0-34721
+msgctxt "198758357-0-34721"
+msgid "Shrewd Offering"
+msgstr ""
+
+#: 132143172-0-36908
+msgctxt "132143172-0-36908"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Stamina for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Stamina when the effect ends, based on the length of time <<5>> was active."
+msgstr ""
+
+#: 198758357-0-36908
+msgctxt "198758357-0-36908"
+msgid "Leeching Strikes"
+msgstr ""
+
+#: 132143172-0-36587
+msgctxt "132143172-0-36587"
+msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-36587
+msgctxt "198758357-0-36587"
+msgid "Transfer"
+msgstr ""
+
+#: 132143172-0-34727
+msgctxt "132143172-0-34727"
+msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>.\n\nWhile your Health is being drained you gain Minor Mending, increasing your healing done by <<3>>."
+msgstr ""
+
+#: 198758357-0-34727
+msgctxt "198758357-0-34727"
+msgid "Healthy Offering"
+msgstr ""
+
+#: 132143172-0-33319
+msgctxt "132143172-0-33319"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health for <<2>>. Fully charged Heavy Attacks restore twice the value."
+msgstr ""
+
+#: 198758357-0-33319
+msgctxt "198758357-0-33319"
+msgid "Siphoning Strikes"
+msgstr ""
+
+#: 132143172-0-36943
+msgctxt "132143172-0-36943"
+msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> over <<2>> and reducing their movement speed by <<3>> for <<4>>.\n\nWhile this effect persists the enemy is afflicted with <<5>>, causing you and your allies to restore <<6>> Magicka every <<7>> when damaging them."
+msgstr ""
+
+#: 198758357-0-36943
+msgctxt "198758357-0-36943"
+msgid "Debilitate"
+msgstr ""
+
+#: 132143172-0-33316
+msgctxt "132143172-0-33316"
+msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-33316
+msgctxt "198758357-0-33316"
+msgid "Drain Power"
+msgstr ""
+
+#: 132143172-0-36603
+msgctxt "132143172-0-36603"
+msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
+msgstr ""
+
+#: 198758357-0-36603
+msgctxt "198758357-0-36603"
 msgid "Soul Siphoner"
 msgstr ""
 
@@ -31,66 +141,6 @@ msgctxt "198758357-0-45150"
 msgid "Magicka Flood"
 msgstr ""
 
-#: 132143172-0-45145
-msgctxt "132143172-0-45145"
-msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr ""
-
-#: 198758357-0-45145
-msgctxt "198758357-0-45145"
-msgid "Transfer"
-msgstr ""
-
-#: 132143172-0-45135
-msgctxt "132143172-0-45135"
-msgid "After drinking a potion you gain <<1>> Ultimate."
-msgstr ""
-
-#: 198758357-0-45135
-msgctxt "198758357-0-45135"
-msgid "Catalyst"
-msgstr ""
-
-#: 132143172-0-36957
-msgctxt "132143172-0-36957"
-msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> and an additional <<2>> over <<3>>, immobilizing them for <<4>>, and reducing their movement speed by <<5>> for <<6>>."
-msgstr ""
-
-#: 198758357-0-36957
-msgctxt "198758357-0-36957"
-msgid "Crippling Grasp"
-msgstr ""
-
-#: 132143172-0-36943
-msgctxt "132143172-0-36943"
-msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> over <<2>> and reducing their movement speed by <<3>> for <<4>>.\n\nWhile this effect persists the enemy is afflicted with <<5>>, causing you and your allies to restore <<6>> Magicka every <<7>> when damaging them."
-msgstr ""
-
-#: 198758357-0-36943
-msgctxt "198758357-0-36943"
-msgid "Debilitate"
-msgstr ""
-
-#: 132143172-0-36935
-msgctxt "132143172-0-36935"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Magicka for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Magicka when the effect ends, based on the length of time <<5>> was active."
-msgstr ""
-
-#: 198758357-0-36935
-msgctxt "198758357-0-36935"
-msgid "Siphoning Attacks"
-msgstr ""
-
-#: 132143172-0-36908
-msgctxt "132143172-0-36908"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Stamina for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Stamina when the effect ends, based on the length of time <<5>> was active."
-msgstr ""
-
-#: 198758357-0-36908
-msgctxt "198758357-0-36908"
-msgid "Leeching Strikes"
-msgstr ""
-
 #: 132143172-0-36901
 msgctxt "132143172-0-36901"
 msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you reduce their Weapon and Spell Damage by <<2>> for <<3>> and you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<4>> for <<5>>."
@@ -99,6 +149,16 @@ msgstr ""
 #: 198758357-0-36901
 msgctxt "198758357-0-36901"
 msgid "Power Extraction"
+msgstr ""
+
+#: 132143172-0-45145
+msgctxt "132143172-0-45145"
+msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr ""
+
+#: 198758357-0-45145
+msgctxt "198758357-0-45145"
+msgid "Transfer"
 msgstr ""
 
 #: 132143172-0-36891
@@ -111,16 +171,6 @@ msgctxt "198758357-0-36891"
 msgid "Sap Essence"
 msgstr ""
 
-#: 132143172-0-36603
-msgctxt "132143172-0-36603"
-msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
-msgstr ""
-
-#: 198758357-0-36603
-msgctxt "198758357-0-36603"
-msgid "Soul Siphoner"
-msgstr ""
-
 #: 132143172-0-36595
 msgctxt "132143172-0-36595"
 msgid "Increases your Max Magicka by <<1>> while a Siphoning ability is slotted."
@@ -129,36 +179,6 @@ msgstr ""
 #: 198758357-0-36595
 msgctxt "198758357-0-36595"
 msgid "Magicka Flood"
-msgstr ""
-
-#: 132143172-0-36587
-msgctxt "132143172-0-36587"
-msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr ""
-
-#: 198758357-0-36587
-msgctxt "198758357-0-36587"
-msgid "Transfer"
-msgstr ""
-
-#: 132143172-0-36560
-msgctxt "132143172-0-36560"
-msgid "After drinking a potion you gain <<1>> Ultimate."
-msgstr ""
-
-#: 198758357-0-36560
-msgctxt "198758357-0-36560"
-msgid "Catalyst"
-msgstr ""
-
-#: 132143172-0-35508
-msgctxt "132143172-0-35508"
-msgid "Sanctify your soul and the souls of nearby allies with a night rune, healing for <<1>> Health and an additional <<2>> Health over <<3>>.\n\nYou and your allies will also receive Major Vitality, increasing your healing received by <<4>> for <<5>>.\n\nAn ally can target a nearby enemy and activate the |cffffffSoul Leech|r synergy, dealing <<6>> to them and healing for the damage caused."
-msgstr ""
-
-#: 198758357-0-35508
-msgctxt "198758357-0-35508"
-msgid "Soul Siphon"
 msgstr ""
 
 #: 132143172-0-35460
@@ -171,44 +191,24 @@ msgctxt "198758357-0-35460"
 msgid "Soul Tether"
 msgstr ""
 
-#: 132143172-0-34838
-msgctxt "132143172-0-34838"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you or |cffffff2|r other nearby allies for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+#: 132143172-0-36957
+msgctxt "132143172-0-36957"
+msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> and an additional <<2>> over <<3>>, immobilizing them for <<4>>, and reducing their movement speed by <<5>> for <<6>>."
 msgstr ""
 
-#: 198758357-0-34838
-msgctxt "198758357-0-34838"
-msgid "Funnel Health"
+#: 198758357-0-36957
+msgctxt "198758357-0-36957"
+msgid "Crippling Grasp"
 msgstr ""
 
-#: 132143172-0-34835
-msgctxt "132143172-0-34835"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+#: 132143172-0-36935
+msgctxt "132143172-0-36935"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Magicka for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Magicka when the effect ends, based on the length of time <<5>> was active."
 msgstr ""
 
-#: 198758357-0-34835
-msgctxt "198758357-0-34835"
-msgid "Swallow Soul"
-msgstr ""
-
-#: 132143172-0-34727
-msgctxt "132143172-0-34727"
-msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>.\n\nWhile your Health is being drained you gain Minor Mending, increasing your healing done by <<3>>."
-msgstr ""
-
-#: 198758357-0-34727
-msgctxt "198758357-0-34727"
-msgid "Healthy Offering"
-msgstr ""
-
-#: 132143172-0-34721
-msgctxt "132143172-0-34721"
-msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>."
-msgstr ""
-
-#: 198758357-0-34721
-msgctxt "198758357-0-34721"
-msgid "Shrewd Offering"
+#: 198758357-0-36935
+msgctxt "198758357-0-36935"
+msgid "Siphoning Attacks"
 msgstr ""
 
 #: 132143172-0-33326
@@ -221,24 +221,34 @@ msgctxt "198758357-0-33326"
 msgid "Cripple"
 msgstr ""
 
-#: 132143172-0-33319
-msgctxt "132143172-0-33319"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health for <<2>>. Fully charged Heavy Attacks restore twice the value."
+#: 132143172-0-34838
+msgctxt "132143172-0-34838"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you or |cffffff2|r other nearby allies for <<2>>% of the damage inflicted every <<3>> for <<4>>."
 msgstr ""
 
-#: 198758357-0-33319
-msgctxt "198758357-0-33319"
-msgid "Siphoning Strikes"
+#: 198758357-0-34838
+msgctxt "198758357-0-34838"
+msgid "Funnel Health"
 msgstr ""
 
-#: 132143172-0-33316
-msgctxt "132143172-0-33316"
-msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<2>> for <<3>>."
+#: 132143172-0-25091
+msgctxt "132143172-0-25091"
+msgid "Ravage nearby enemies' souls with a night rune, dealing <<1>> and stunning them for <<2>>. \n\nAn ally can target a ravaged enemy and activate the |cffffffSoul Leech|r synergy, dealing <<3>> to them and healing for the damage caused."
 msgstr ""
 
-#: 198758357-0-33316
-msgctxt "198758357-0-33316"
-msgid "Drain Power"
+#: 198758357-0-25091
+msgctxt "198758357-0-25091"
+msgid "Soul Shred"
+msgstr ""
+
+#: 132143172-0-35508
+msgctxt "132143172-0-35508"
+msgid "Sanctify your soul and the souls of nearby allies with a night rune, healing for <<1>> Health and an additional <<2>> Health over <<3>>.\n\nYou and your allies will also receive Major Vitality, increasing your healing received by <<4>> for <<5>>.\n\nAn ally can target a nearby enemy and activate the |cffffffSoul Leech|r synergy, dealing <<6>> to them and healing for the damage caused."
+msgstr ""
+
+#: 198758357-0-35508
+msgctxt "198758357-0-35508"
+msgid "Soul Siphon"
 msgstr ""
 
 #: 132143172-0-33308
@@ -251,22 +261,12 @@ msgctxt "198758357-0-33308"
 msgid "Malevolent Offering"
 msgstr ""
 
-#: 132143172-0-33291
-msgctxt "132143172-0-33291"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you or a nearby ally for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+#: 132143172-0-34835
+msgctxt "132143172-0-34835"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you for <<2>>% of the damage inflicted every <<3>> for <<4>>."
 msgstr ""
 
-#: 198758357-0-33291
-msgctxt "198758357-0-33291"
-msgid "Strife"
-msgstr ""
-
-#: 132143172-0-25091
-msgctxt "132143172-0-25091"
-msgid "Ravage nearby enemies' souls with a night rune, dealing <<1>> and stunning them for <<2>>. \n\nAn ally can target a ravaged enemy and activate the |cffffffSoul Leech|r synergy, dealing <<3>> to them and healing for the damage caused."
-msgstr ""
-
-#: 198758357-0-25091
-msgctxt "198758357-0-25091"
-msgid "Soul Shred"
+#: 198758357-0-34835
+msgctxt "198758357-0-34835"
+msgid "Swallow Soul"
 msgstr ""

@@ -11,88 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-86196
-msgctxt "132143172-0-86196"
-msgid "Increases your Magic and Frost Damage by <<1>>."
-msgstr "마법 및 냉기 피해가 <<1>>만큼 증가합니다."
-
-#: 198758357-0-86196
-msgctxt "198758357-0-86196"
-msgid "Piercing Cold"
-msgstr "Piercing Cold"
-
-#: 132143172-0-86195
-msgctxt "132143172-0-86195"
-msgid "Increases your Magic and Frost Damage by <<1>>."
-msgstr "마법 및 냉기 피해가 <<1>>만큼 증가합니다."
-
-#: 198758357-0-86195
-msgctxt "198758357-0-86195"
-msgid "Piercing Cold"
-msgstr "Piercing Cold"
-
-#: 132143172-0-86194
-msgctxt "132143172-0-86194"
-msgid "Reduce the effectiveness of snares applied to you by <<1>>."
-msgstr "자신에게 걸린 감속 효과가 <<1>>만큼 감소합니다."
-
-#: 198758357-0-86194
-msgctxt "198758357-0-86194"
-msgid "Icy Aura"
-msgstr "Icy Aura"
-
-#: 132143172-0-86193
-msgctxt "132143172-0-86193"
-msgid "Reduce the effectiveness of snares applied to you by <<1>>."
-msgstr "자신에게 걸린 감속 효과가 <<1>>만큼 감소합니다."
-
-#: 198758357-0-86193
-msgctxt "198758357-0-86193"
-msgid "Icy Aura"
-msgstr "Icy Aura"
-
-#: 132143172-0-86192
-#, fuzzy
-msgctxt "132143172-0-86192"
-msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
-msgstr "Winter's Embrace 어빌리티로 적을 얼어붙게 만들 확률이 <<1>>만큼 증가합니다."
-
-#: 198758357-0-86192
-msgctxt "198758357-0-86192"
-msgid "Glacial Presence"
-msgstr "Glacial Presence"
-
-#: 132143172-0-86191
-#, fuzzy
-msgctxt "132143172-0-86191"
-msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
-msgstr "Winter's Embrace 어빌리티로 적을 얼어붙게 만들 확률이 <<1>>만큼 증가합니다."
-
-#: 198758357-0-86191
-msgctxt "198758357-0-86191"
-msgid "Glacial Presence"
-msgstr "Glacial Presence"
-
-#: 132143172-0-86190
-msgctxt "132143172-0-86190"
-msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "슬롯에 있는 Winter's Embrace 어빌리티 한 개당 물리 및 마법 저항력이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
-
-#: 198758357-0-86190
-msgctxt "198758357-0-86190"
-msgid "Frozen Armor"
-msgstr "Frozen Armor"
-
-#: 132143172-0-86189
-msgctxt "132143172-0-86189"
-msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "슬롯에 있는 Winter's Embrace 어빌리티 한 개당 물리 및 마법 저항력이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
-
-#: 198758357-0-86189
-msgctxt "198758357-0-86189"
-msgid "Frozen Armor"
-msgstr "Frozen Armor"
-
 #: 132143172-0-86183
 msgctxt "132143172-0-86183"
 msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds.\n\nWhen triggered the enemy is teleported to you, immobilized for <<1>>, and dealt <<2>>.\n\nAn ally in the portal can activate the |cffffffIcy Escape|r synergy, teleporting them to you and granting them <<3>>, increasing their Movement Speed by <<4>> for <<5>>.\n\nYou can have up to |cffffff3|r Frozen Retreats active at a time."
@@ -102,46 +20,6 @@ msgstr "고대의 포탈을 소환합니다. 포탈은 |cffffff1.5|r초 후 작�
 msgctxt "198758357-0-86183"
 msgid "Frozen Retreat"
 msgstr "Frozen Retreat"
-
-#: 132143172-0-86179
-msgctxt "132143172-0-86179"
-msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds,\n\nWhen triggered the enemy is teleported to you, immobilized for <<1>>, dealt <<2>>,  and afflicted with Major Maim, reducing their damage done by <<3>> for <<4>>.\n\nYou can have up to |cffffff3|r Frozen Devices active at a time."
-msgstr "고대의 포탈을 소환합니다. 포탈은 |cffffff1.5|r초 후 작동됩니다.\n\n포탈을 지나는 적을 자신의 위치로 순간이동시키고, <<1>> 동안 속박시키고, <<2>>를 입힙니다. 또한 Major Maim 효과를 가해, <<4>> 동안 대상이 입히는 피해량이 <<3>>만큼 감소합니다.\n\n포탈은 동시에 |cffffff3|r개까지 활성화할 수 있습니다."
-
-#: 198758357-0-86179
-msgctxt "198758357-0-86179"
-msgid "Frozen Device"
-msgstr "Frozen Device"
-
-#: 132143172-0-86175
-msgctxt "132143172-0-86175"
-msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds and lasts for <<1>>.\n\nWhen triggered the enemy is teleported to you, immobilized for <<2>>, and dealt <<3>>.\n\nYou can have up to |cffffff3|r Frozen Gates active at a time."
-msgstr "고대의 포탈을 소환합니다. 포탈은 |cffffff1.5|r초 후 작동하고, <<1>> 동안 유지됩니다.\n\n포탈을 지나는 적을 자신의 위치로 순간이동시키고, <<2>> 동안 속박시키고, <<3>>를 입힙니다.\n\n포탈은 동시에 |cffffff3|r개까지 활성화할 수 있습니다."
-
-#: 198758357-0-86175
-msgctxt "198758357-0-86175"
-msgid "Frozen Gate"
-msgstr "Frozen Gate"
-
-#: 132143172-0-86169
-msgctxt "132143172-0-86169"
-msgid "Conjure icy shards at the target location to skewer enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<4>>  for <<5>>.\n\nThis ability has a higher chance to apply the Chilled status effect."
-msgstr "대상 지역에 적을 찌르는 얼음 조각을 소환합니다. <<3>> 동안 <<2>>마다 <<1>>를 입히고, 피해를 입은 적의 이동 속도를 <<5>> 동안 <<4>>만큼 늦춥니다."
-
-#: 198758357-0-86169
-msgctxt "198758357-0-86169"
-msgid "Winter's Revenge"
-msgstr "Winter's Revenge"
-
-#: 132143172-0-86165
-msgctxt "132143172-0-86165"
-msgid "Conjure icy shards around you to skewer enemies in the area, immobilizing them for <<1>> and dealing <<2>> every <<3>> for <<4>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<5>>  for <<6>>.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect."
-msgstr "자신 주위에 적을 찌르는 얼음 조각을 소환합니다.<<4>>동안 <<3>>마다 <<2>>의 피해를 주고 <<1>>동안 이동 불가 상태가 됩니다.\n\n시전 시, 범위 내의 적들은 <<6>> 동안 <<5>>만틈 감속됩니다.\n\n피해량은 자신의 최대 체력에 비례하고 Chilled 상태를 가할 확률이 높아집니다."
-
-#: 198758357-0-86165
-msgctxt "198758357-0-86165"
-msgid "Gripping Shards"
-msgstr "Gripping Shards"
 
 #: 132143172-0-86161
 msgctxt "132143172-0-86161"
@@ -153,25 +31,25 @@ msgctxt "198758357-0-86161"
 msgid "Impaling Shards"
 msgstr "Impaling Shards"
 
-#: 132143172-0-86156
-msgctxt "132143172-0-86156"
-msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>.\n\nWhile the effect persists the winds pulse outwards, dealing <<5>> every <<6>> to nearby enemies.  Enemies hit by this effect |cffffff3|r times are stunned for <<7>>.\n\nThis healing from this ability scales with your Max Health."
-msgstr "겨울 바람으로 자신을 뒤덮어,  <<1>>체력을 즉시 회복하고, 추가로 <<2>>를 <<4>>동안 <<3>>마다 회복합니다.\n\n효과가 지속되는 동안 바람은 파동을 내뿜어 가까운 적들에게 <<6>>마다 <<5>>의 피해를 줍니다. |cffffff3|r회 영향을 받은 적들은 <<7>>동안 기절합니다.\n\n이 능력은 주 체력에 맞춰 조정됩니다."
+#: 132143172-0-86109
+msgctxt "132143172-0-86109"
+msgid "Twist a violent storm around you, dealing <<1>> every <<2>> for <<3>> to enemies around you and reducing their Movement Speed by <<4>>.  \n\nYou and nearby allies gain Major Protection, reducing your damage taken by <<5>>."
+msgstr "자신 주위에 난폭한 폭풍의 소용돌이를 일으켜, <<3>> 동안 주위의 적들에게 <<2>>마다 <<1>>를 입히고, 이동 속도를 <<4>>만큼 늦춥니다.\n\n자신과 주위의 아군들은 Major Protection 효과를 얻어, 받는 피해량이 <<5>>만큼 감소합니다."
 
-#: 198758357-0-86156
-msgctxt "198758357-0-86156"
-msgid "Arctic Blast"
-msgstr "Arctic Blast"
+#: 198758357-0-86109
+msgctxt "198758357-0-86109"
+msgid "Sleet Storm"
+msgstr "Sleet Storm"
 
-#: 132143172-0-86152
-msgctxt "132143172-0-86152"
-msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>. \n\nThe winds also sweep out in search of an ally within |cffffff12|r meters, healing them for <<5>> Health.\n\nWhile the effect persists the winds pulse outwards, dealing <<6>> every <<7>> to nearby enemies.\n\nThe healing from this ability scales with your Max Health."
-msgstr "겨울 바람으로 자신을 뒤덮어,  <<1>>체력을 즉시 회복하고, 추가로 <<2>>를 <<4>>동안 <<3>>마다 회복합니다.\n\n바람은  |cffffff12|r이내 아군을 향해 흘러가며 체력을 <<5>>만큼 회복시킵니다.\n\n효과가 지속되는 동안 바람은 파동을 내뿜어 가까운 적들에게 <<7>>마다 <<6>>의 피해를 줍니다\n\n이 능력은 최대 체력에 따라 조정 됩니다."
+#: 132143172-0-86169
+msgctxt "132143172-0-86169"
+msgid "Conjure icy shards at the target location to skewer enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<4>>  for <<5>>.\n\nThis ability has a higher chance to apply the Chilled status effect."
+msgstr "대상 지역에 적을 찌르는 얼음 조각을 소환합니다. <<3>> 동안 <<2>>마다 <<1>>를 입히고, 피해를 입은 적의 이동 속도를 <<5>> 동안 <<4>>만큼 늦춥니다."
 
-#: 198758357-0-86152
-msgctxt "198758357-0-86152"
-msgid "Polar Wind"
-msgstr "Polar Wind"
+#: 198758357-0-86169
+msgctxt "198758357-0-86169"
+msgid "Winter's Revenge"
+msgstr "Winter's Revenge"
 
 #: 132143172-0-86148
 msgctxt "132143172-0-86148"
@@ -183,48 +61,6 @@ msgctxt "198758357-0-86148"
 msgid "Arctic Wind"
 msgstr "Arctic Wind"
 
-#: 132143172-0-86143
-#, fuzzy
-msgctxt "132143172-0-86143"
-msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and gain Major Heroism for <<3>>, granting you <<4>> Ultimate every |cffffff1.5|r seconds."
-msgstr "얼음 방패를 둘러 자신에게 오는 |cffffff3|r개의 투사체를 최대 <<1>>의 피해까지 흡수합니다. \n\n흡수할 때마다 매지카를 <<2>>만큼 회복하고, Major Heroism 효과를 얻어, <<3>> 동안 <<5>>마다 궁극기 게이지를 <<4>>만큼 얻습니다."
-
-#: 198758357-0-86143
-msgctxt "198758357-0-86143"
-msgid "Shimmering Shield"
-msgstr "Shimmering Shield"
-
-#: 132143172-0-86139
-#, fuzzy
-msgctxt "132143172-0-86139"
-msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and launch an icy bolt back at the enemy, dealing <<3>>.  This effect can occur once every half second."
-msgstr "얼음 방패를 둘러 자신에게 오는 |cffffff3|r개의 투사체를 최대 <<1>>의 피해까지 흡수합니다. \n\n투사체를 흡수할 때마다 매지카를 <<2>>만큼 회복하고, 시전자에게 아이스 볼트를 반사하여 <<3>>피해를 입힙니다.\n0.5초마다 발동됩니다."
-
-#: 198758357-0-86139
-msgctxt "198758357-0-86139"
-msgid "Crystallized Slab"
-msgstr "Crystallized Slab"
-
-#: 132143172-0-86135
-msgctxt "132143172-0-86135"
-msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka."
-msgstr "얼음 방패를 둘러 자신에게 오는 |cffffff3|r개의 투사체를 최대 <<1>>의 피해까지 흡수합니다. \n\n\n투사체를 흡수할 때마다 매지카를 <<2>>만큼 회복합니다."
-
-#: 198758357-0-86135
-msgctxt "198758357-0-86135"
-msgid "Crystallized Shield"
-msgstr "Crystallized Shield"
-
-#: 132143172-0-86130
-msgctxt "132143172-0-86130"
-msgid "Wrap a thick cloak of ice around you and your allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.\n\nYou gain Minor Protection, reducing your damage taken by <<3>> for <<4>>."
-msgstr "자신과 아군들을 두꺼운 얼음 장막으로 덮습니다. 얼음 장막은 Major Resolve 효과를 부여해, <<2>> 동안 물리 및 마법 저항력이 <<1>>만큼 증가시킵니다.\n\n자신은 Minor Protection 효과를 얻어,  <<4>> 동안 받는 피해량이 <<3>> 감소합니다."
-
-#: 198758357-0-86130
-msgctxt "198758357-0-86130"
-msgid "Ice Fortress"
-msgstr "Ice Fortress"
-
 #: 132143172-0-86126
 msgctxt "132143172-0-86126"
 msgid "Wrap a thick cloak of ice around you and your allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>."
@@ -234,6 +70,36 @@ msgstr "자신과 아군들을 두꺼운 얼음 장막으로 덮습니다. 얼�
 msgctxt "198758357-0-86126"
 msgid "Expansive Frost Cloak"
 msgstr "Expansive Frost Cloak"
+
+#: 132143172-0-86189
+msgctxt "132143172-0-86189"
+msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "슬롯에 있는 Winter's Embrace 어빌리티 한 개당 물리 및 마법 저항력이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
+
+#: 198758357-0-86189
+msgctxt "198758357-0-86189"
+msgid "Frozen Armor"
+msgstr "Frozen Armor"
+
+#: 132143172-0-86165
+msgctxt "132143172-0-86165"
+msgid "Conjure icy shards around you to skewer enemies in the area, immobilizing them for <<1>> and dealing <<2>> every <<3>> for <<4>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<5>>  for <<6>>.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect."
+msgstr "자신 주위에 적을 찌르는 얼음 조각을 소환합니다.<<4>>동안 <<3>>마다 <<2>>의 피해를 주고 <<1>>동안 이동 불가 상태가 됩니다.\n\n시전 시, 범위 내의 적들은 <<6>> 동안 <<5>>만틈 감속됩니다.\n\n피해량은 자신의 최대 체력에 비례하고 Chilled 상태를 가할 확률이 높아집니다."
+
+#: 198758357-0-86165
+msgctxt "198758357-0-86165"
+msgid "Gripping Shards"
+msgstr "Gripping Shards"
+
+#: 132143172-0-86143
+msgctxt "132143172-0-86143"
+msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and gain Major Heroism for <<3>>, granting you <<4>> Ultimate every |cffffff1.5|r seconds."
+msgstr "얼음 방패를 둘러 자신에게 오는 |cffffff3|r개의 투사체를 최대 <<1>>의 피해까지 흡수합니다. \n\n흡수할 때마다 매지카를 <<2>>만큼 회복하고, Major Heroism 효과를 <<3>> 동안 얻어,  |cffffff1.5|r  마다 궁극기 게이지를 <<4>>만큼 얻습니다."
+
+#: 198758357-0-86143
+msgctxt "198758357-0-86143"
+msgid "Shimmering Shield"
+msgstr "Shimmering Shield"
 
 #: 132143172-0-86122
 msgctxt "132143172-0-86122"
@@ -245,6 +111,76 @@ msgctxt "198758357-0-86122"
 msgid "Frost Cloak"
 msgstr "Frost Cloak"
 
+#: 132143172-0-86194
+msgctxt "132143172-0-86194"
+msgid "Reduce the effectiveness of snares applied to you by <<1>>."
+msgstr "자신에게 걸린 감속 효과가 <<1>>만큼 감소합니다."
+
+#: 198758357-0-86194
+msgctxt "198758357-0-86194"
+msgid "Icy Aura"
+msgstr "Icy Aura"
+
+#: 132143172-0-86195
+msgctxt "132143172-0-86195"
+msgid "Increases your Magic and Frost Damage by <<1>>."
+msgstr "마법 및 냉기 피해가 <<1>>만큼 증가합니다."
+
+#: 198758357-0-86195
+msgctxt "198758357-0-86195"
+msgid "Piercing Cold"
+msgstr "Piercing Cold"
+
+#: 132143172-0-86192
+msgctxt "132143172-0-86192"
+msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
+msgstr "Winter's Embrace 어빌리티로 적을 얼어붙게 만들 확률이 <<1>>만큼 증가합니다.\n\nChilled효과를 받은 적과 추가로 <<2>>만큼 치명타 데미지를 받습니다. 아군일 경우, <<2>> 만큼 받는 치유량이 증가합니다."
+
+#: 198758357-0-86192
+msgctxt "198758357-0-86192"
+msgid "Glacial Presence"
+msgstr "Glacial Presence"
+
+#: 132143172-0-86193
+msgctxt "132143172-0-86193"
+msgid "Reduce the effectiveness of snares applied to you by <<1>>."
+msgstr "자신에게 걸린 감속 효과가 <<1>>만큼 감소합니다."
+
+#: 198758357-0-86193
+msgctxt "198758357-0-86193"
+msgid "Icy Aura"
+msgstr "Icy Aura"
+
+#: 132143172-0-86190
+msgctxt "132143172-0-86190"
+msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "슬롯에 있는 Winter's Embrace 어빌리티 한 개당 물리 및 마법 저항력이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
+
+#: 198758357-0-86190
+msgctxt "198758357-0-86190"
+msgid "Frozen Armor"
+msgstr "Frozen Armor"
+
+#: 132143172-0-86191
+msgctxt "132143172-0-86191"
+msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
+msgstr "Winter's Embrace 어빌리티로 적을 얼어붙게 만들 확률이 <<1>>만큼 증가합니다.\n\nChilled효과를 받은 적과 추가로 <<2>>만큼 치명타 데미지를 받습니다. 아군일 경우, <<2>> 만큼 받는 치유량이 증가합니다."
+
+#: 198758357-0-86191
+msgctxt "198758357-0-86191"
+msgid "Glacial Presence"
+msgstr "Glacial Presence"
+
+#: 132143172-0-86139
+msgctxt "132143172-0-86139"
+msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and launch an icy bolt back at the enemy, dealing <<3>>.  This effect can occur once every half second."
+msgstr "얼음 방패를 둘러 자신에게 오는 |cffffff3|r개의 투사체를 최대 <<1>>의 피해까지 흡수합니다. \n\n투사체를 흡수할 때마다 매지카를 <<2>>만큼 회복하고, 시전자에게 아이스 볼트를 반사하여 <<3>>피해를 입힙니다.\n0.5초마다 발동됩니다."
+
+#: 198758357-0-86139
+msgctxt "198758357-0-86139"
+msgid "Crystallized Slab"
+msgstr "Crystallized Slab"
+
 #: 132143172-0-86117
 msgctxt "132143172-0-86117"
 msgid "Twist a violent storm around you, dealing <<1>> every <<2>> for <<3>> to enemies around you and reducing their Movement Speed by <<4>> and applying the Chilled status effect.\n\nYou and nearby allies gain Major Protection, reducing your damage taken by <<5>>."
@@ -254,6 +190,36 @@ msgstr "자신 주위에 난폭한 폭풍의 소용돌이를 일으켜, <<3>> �
 msgctxt "198758357-0-86117"
 msgid "Permafrost"
 msgstr "Permafrost"
+
+#: 132143172-0-86156
+msgctxt "132143172-0-86156"
+msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>.\n\nWhile the effect persists the winds pulse outwards, dealing <<5>> every <<6>> to nearby enemies.  Enemies hit by this effect |cffffff3|r times are stunned for <<7>>.\n\nThis healing from this ability scales with your Max Health."
+msgstr "겨울 바람으로 자신을 뒤덮어,  <<1>>체력을 즉시 회복하고, 추가로 <<2>>를 <<4>>동안 <<3>>마다 회복합니다.\n\n효과가 지속되는 동안 바람은 파동을 내뿜어 가까운 적들에게 <<6>>마다 <<5>>의 피해를 줍니다. |cffffff3|r회 영향을 받은 적들은 <<7>>동안 기절합니다.\n\n이 능력은 주 체력에 맞춰 조정됩니다."
+
+#: 198758357-0-86156
+msgctxt "198758357-0-86156"
+msgid "Arctic Blast"
+msgstr "Arctic Blast"
+
+#: 132143172-0-86179
+msgctxt "132143172-0-86179"
+msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds,\n\nWhen triggered the enemy is teleported to you, immobilized for <<1>>, dealt <<2>>,  and afflicted with Major Maim, reducing their damage done by <<3>> for <<4>>.\n\nYou can have up to |cffffff3|r Frozen Devices active at a time."
+msgstr "고대의 포탈을 소환합니다. 포탈은 |cffffff1.5|r초 후 작동됩니다.\n\n포탈을 지나는 적을 자신의 위치로 순간이동시키고, <<1>> 동안 속박시키고, <<2>>를 입힙니다. 또한 Major Maim 효과를 가해, <<4>> 동안 대상이 입히는 피해량이 <<3>>만큼 감소합니다.\n\n포탈은 동시에 |cffffff3|r개까지 활성화할 수 있습니다."
+
+#: 198758357-0-86179
+msgctxt "198758357-0-86179"
+msgid "Frozen Device"
+msgstr "Frozen Device"
+
+#: 132143172-0-86135
+msgctxt "132143172-0-86135"
+msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka."
+msgstr "얼음 방패를 둘러 자신에게 오는 |cffffff3|r개의 투사체를 최대 <<1>>의 피해까지 흡수합니다. \n\n\n투사체를 흡수할 때마다 매지카를 <<2>>만큼 회복합니다."
+
+#: 198758357-0-86135
+msgctxt "198758357-0-86135"
+msgid "Crystallized Shield"
+msgstr "Crystallized Shield"
 
 #: 132143172-0-86113
 msgctxt "132143172-0-86113"
@@ -265,12 +231,42 @@ msgctxt "198758357-0-86113"
 msgid "Northern Storm"
 msgstr "Northern Storm"
 
-#: 132143172-0-86109
-msgctxt "132143172-0-86109"
-msgid "Twist a violent storm around you, dealing <<1>> every <<2>> for <<3>> to enemies around you and reducing their Movement Speed by <<4>>.  \n\nYou and nearby allies gain Major Protection, reducing your damage taken by <<5>>."
-msgstr "자신 주위에 난폭한 폭풍의 소용돌이를 일으켜, <<3>> 동안 주위의 적들에게 <<2>>마다 <<1>>를 입히고, 이동 속도를 <<4>>만큼 늦춥니다.\n\n자신과 주위의 아군들은 Major Protection 효과를 얻어, 받는 피해량이 <<5>>만큼 감소합니다."
+#: 132143172-0-86196
+msgctxt "132143172-0-86196"
+msgid "Increases your Magic and Frost Damage by <<1>>."
+msgstr "마법 및 냉기 피해가 <<1>>만큼 증가합니다."
 
-#: 198758357-0-86109
-msgctxt "198758357-0-86109"
-msgid "Sleet Storm"
-msgstr "Sleet Storm"
+#: 198758357-0-86196
+msgctxt "198758357-0-86196"
+msgid "Piercing Cold"
+msgstr "Piercing Cold"
+
+#: 132143172-0-86152
+msgctxt "132143172-0-86152"
+msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>. \n\nThe winds also sweep out in search of an ally within |cffffff12|r meters, healing them for <<5>> Health.\n\nWhile the effect persists the winds pulse outwards, dealing <<6>> every <<7>> to nearby enemies.\n\nThe healing from this ability scales with your Max Health."
+msgstr "겨울 바람으로 자신을 뒤덮어,  <<1>>체력을 즉시 회복하고, 추가로 <<2>>를 <<4>>동안 <<3>>마다 회복합니다.\n\n바람은  |cffffff12|r이내 아군을 향해 흘러가며 체력을 <<5>>만큼 회복시킵니다.\n\n효과가 지속되는 동안 바람은 파동을 내뿜어 가까운 적들에게 <<7>>마다 <<6>>의 피해를 줍니다\n\n이 능력은 최대 체력에 따라 조정 됩니다."
+
+#: 198758357-0-86152
+msgctxt "198758357-0-86152"
+msgid "Polar Wind"
+msgstr "Polar Wind"
+
+#: 132143172-0-86130
+msgctxt "132143172-0-86130"
+msgid "Wrap a thick cloak of ice around you and your allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.\n\nYou gain Minor Protection, reducing your damage taken by <<3>> for <<4>>."
+msgstr "자신과 아군들을 두꺼운 얼음 장막으로 덮습니다. 얼음 장막은 Major Resolve 효과를 부여해, <<2>> 동안 물리 및 마법 저항력이 <<1>>만큼 증가시킵니다.\n\n자신은 Minor Protection 효과를 얻어,  <<4>> 동안 받는 피해량이 <<3>> 감소합니다."
+
+#: 198758357-0-86130
+msgctxt "198758357-0-86130"
+msgid "Ice Fortress"
+msgstr "Ice Fortress"
+
+#: 132143172-0-86175
+msgctxt "132143172-0-86175"
+msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds and lasts for <<1>>.\n\nWhen triggered the enemy is teleported to you, immobilized for <<2>>, and dealt <<3>>.\n\nYou can have up to |cffffff3|r Frozen Gates active at a time."
+msgstr "고대의 포탈을 소환합니다. 포탈은 |cffffff1.5|r초 후 작동하고, <<1>> 동안 유지됩니다.\n\n포탈을 지나는 적을 자신의 위치로 순간이동시키고, <<2>> 동안 속박시키고, <<3>>를 입힙니다.\n\n포탈은 동시에 |cffffff3|r개까지 활성화할 수 있습니다."
+
+#: 198758357-0-86175
+msgctxt "198758357-0-86175"
+msgid "Frozen Gate"
+msgstr "Frozen Gate"

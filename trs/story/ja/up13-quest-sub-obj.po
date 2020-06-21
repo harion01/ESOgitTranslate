@@ -11,108 +11,53 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-42678
-msgctxt "256430276-0-42678"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
-
-#: 121487972-0-12658
-msgctxt "121487972-0-12658"
-msgid "Deliver the Garment"
-msgstr "衣装を届ける"
-
-#: 121487972-0-12657
-msgctxt "121487972-0-12657"
-msgid "Deliver the Garment"
-msgstr "衣装を届ける"
-
-#: 121487972-0-12656
-msgctxt "121487972-0-12656"
-msgid "Deliver the Shield"
-msgstr "盾を届ける"
-
-#: 121487972-0-12655
-msgctxt "121487972-0-12655"
+#: 121487972-0-12652
+msgctxt "121487972-0-12652"
 msgid "Deliver the Weapon"
 msgstr "武器を届ける"
-
-#: 121487972-0-12654
-msgctxt "121487972-0-12654"
-msgid "Deliver the Armor"
-msgstr "防具を届ける"
 
 #: 121487972-0-12653
 msgctxt "121487972-0-12653"
 msgid "Deliver the Glyph"
 msgstr "グリフを届ける"
 
-#: 121487972-0-12652
-msgctxt "121487972-0-12652"
-msgid "Deliver the Weapon"
-msgstr "武器を届ける"
+#: 121487972-0-12532
+msgctxt "121487972-0-12532"
+msgid "Deliver the Feast"
+msgstr "料理を届ける"
 
-#: 121487972-0-12547
-msgctxt "121487972-0-12547"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
+#: 121487972-0-12353
+msgctxt "121487972-0-12353"
+msgid "Talk to Jester King Jorunn"
+msgstr "道化師のジョルン王と話す"
 
-#: 121487972-0-12546
-msgctxt "121487972-0-12546"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
+#: 121487972-0-12155
+msgctxt "121487972-0-12155"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
 
-#: 121487972-0-12545
-msgctxt "121487972-0-12545"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
+#: 121487972-0-12530
+msgctxt "121487972-0-12530"
+msgid "Deliver the Shield"
+msgstr "盾を届ける"
 
-#: 121487972-0-12544
-msgctxt "121487972-0-12544"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12543
-msgctxt "121487972-0-12543"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12542
-msgctxt "121487972-0-12542"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12541
-msgctxt "121487972-0-12541"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12540
-msgctxt "121487972-0-12540"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12539
-msgctxt "121487972-0-12539"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12538
-msgctxt "121487972-0-12538"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
-
-#: 121487972-0-12537
-msgctxt "121487972-0-12537"
-msgid "Deliver the Concoction"
-msgstr "調合薬を届ける"
+#: 121487972-0-12656
+msgctxt "121487972-0-12656"
+msgid "Deliver the Shield"
+msgstr "盾を届ける"
 
 #: 121487972-0-12535
 msgctxt "121487972-0-12535"
 msgid "Deliver the Concoction"
 msgstr "調合薬を届ける"
 
-#: 121487972-0-12534
-msgctxt "121487972-0-12534"
+#: 121487972-0-12657
+msgctxt "121487972-0-12657"
+msgid "Deliver the Garment"
+msgstr "衣装を届ける"
+
+#: 121487972-0-12654
+msgctxt "121487972-0-12654"
 msgid "Deliver the Armor"
 msgstr "防具を届ける"
 
@@ -121,75 +66,45 @@ msgctxt "121487972-0-12533"
 msgid "Deliver the Garment"
 msgstr "衣装を届ける"
 
-#: 121487972-0-12532
-msgctxt "121487972-0-12532"
-msgid "Deliver the Feast"
-msgstr "料理を届ける"
-
-#: 121487972-0-12530
-msgctxt "121487972-0-12530"
-msgid "Deliver the Shield"
-msgstr "盾を届ける"
-
-#: 121487972-0-12529
-msgctxt "121487972-0-12529"
+#: 121487972-0-12655
+msgctxt "121487972-0-12655"
 msgid "Deliver the Weapon"
 msgstr "武器を届ける"
 
-#: 121487972-0-12528
-msgctxt "121487972-0-12528"
+#: 121487972-0-12534
+msgctxt "121487972-0-12534"
 msgid "Deliver the Armor"
 msgstr "防具を届ける"
-
-#: 121487972-0-12525
-msgctxt "121487972-0-12525"
-msgid "Deliver the Glyph"
-msgstr "グリフを届ける"
-
-#: 121487972-0-12524
-msgctxt "121487972-0-12524"
-msgid "Deliver the Weapon"
-msgstr "武器を届ける"
-
-#: 121487972-0-12424
-msgctxt "121487972-0-12424"
-msgid "Talk to Jester King Emeric"
-msgstr "道化師のエメリック王と話す"
-
-#: 121487972-0-12423
-msgctxt "121487972-0-12423"
-msgid "Talk to Jester King Jorunn"
-msgstr "道化師のジョルン王と話す"
-
-#: 121487972-0-12421
-msgctxt "121487972-0-12421"
-msgid "Talk to Jester Queen Ayrenn"
-msgstr "道化師のアイレン女王と話す"
-
-#: 121487972-0-12392
-msgctxt "121487972-0-12392"
-msgid "Speak to Jester King Emeric"
-msgstr "道化師のエメリック王と話す"
-
-#: 121487972-0-12387
-msgctxt "121487972-0-12387"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
-
-#: 121487972-0-12353
-msgctxt "121487972-0-12353"
-msgid "Talk to Jester King Jorunn"
-msgstr "道化師のジョルン王と話す"
 
 #: 121487972-0-12336
 msgctxt "121487972-0-12336"
 msgid "Return to Jester Queen Ayrenn"
 msgstr "道化師のアイレン女王の元に戻る"
 
-#: 121487972-0-12155
-msgctxt "121487972-0-12155"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
+#: 121487972-0-12539
+msgctxt "121487972-0-12539"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12658
+msgctxt "121487972-0-12658"
+msgid "Deliver the Garment"
+msgstr "衣装を届ける"
+
+#: 121487972-0-12537
+msgctxt "121487972-0-12537"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12538
+msgctxt "121487972-0-12538"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12392
+msgctxt "121487972-0-12392"
+msgid "Speak to Jester King Emeric"
+msgstr "道化師のエメリック王と話す"
 
 #: 121487972-0-12154
 msgctxt "121487972-0-12154"
@@ -201,7 +116,92 @@ msgctxt "121487972-0-12151"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
 
+#: 121487972-0-12542
+msgctxt "121487972-0-12542"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12421
+msgctxt "121487972-0-12421"
+msgid "Talk to Jester Queen Ayrenn"
+msgstr "道化師のアイレン女王と話す"
+
+#: 121487972-0-12543
+msgctxt "121487972-0-12543"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12540
+msgctxt "121487972-0-12540"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12541
+msgctxt "121487972-0-12541"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12387
+msgctxt "121487972-0-12387"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
 #: 121487972-0-11254
 msgctxt "121487972-0-11254"
 msgid "Use the Portal or Meet Narahni in Abah's Landing"
 msgstr "ポータルを使うかアバーズ・ランディングでナラーニと会う"
+
+#: 121487972-0-12546
+msgctxt "121487972-0-12546"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12524
+msgctxt "121487972-0-12524"
+msgid "Deliver the Weapon"
+msgstr "武器を届ける"
+
+#: 256430276-0-42678
+msgctxt "256430276-0-42678"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 121487972-0-12547
+msgctxt "121487972-0-12547"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12525
+msgctxt "121487972-0-12525"
+msgid "Deliver the Glyph"
+msgstr "グリフを届ける"
+
+#: 121487972-0-12544
+msgctxt "121487972-0-12544"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12423
+msgctxt "121487972-0-12423"
+msgid "Talk to Jester King Jorunn"
+msgstr "道化師のジョルン王と話す"
+
+#: 121487972-0-12545
+msgctxt "121487972-0-12545"
+msgid "Deliver the Concoction"
+msgstr "調合薬を届ける"
+
+#: 121487972-0-12424
+msgctxt "121487972-0-12424"
+msgid "Talk to Jester King Emeric"
+msgstr "道化師のエメリック王と話す"
+
+#: 121487972-0-12528
+msgctxt "121487972-0-12528"
+msgid "Deliver the Armor"
+msgstr "防具を届ける"
+
+#: 121487972-0-12529
+msgctxt "121487972-0-12529"
+msgid "Deliver the Weapon"
+msgstr "武器を届ける"

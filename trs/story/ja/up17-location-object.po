@@ -21,15 +21,10 @@ msgctxt "10860933-0-2061"
 msgid "Princely Dawnlight Palace"
 msgstr "王子の曙光宮"
 
-#: 108566804-0-2057
-msgctxt "108566804-0-2057"
-msgid "You stopped the cult's plague by conquering Scalecaller Peak"
-msgstr "スケイルコーラー・ピークを制圧して教団の疫病を止めた"
-
-#: 129979412-0-2057
-msgctxt "129979412-0-2057"
-msgid "Investigate Scalecaller Peak."
-msgstr "スケイルコーラー・ピークを調査する。"
+#: 10860933-0-2046
+msgctxt "10860933-0-2046"
+msgid "Coldharbour Surreal Estate"
+msgstr "コールドハーバーの超現実邸宅"
 
 #: 10860933-0-2047
 msgctxt "10860933-0-2047"
@@ -46,12 +41,17 @@ msgctxt "129979412-0-2047"
 msgid "Investigate Fang Lair."
 msgstr "牙の巣を調査する。"
 
-#: 10860933-0-2046
-msgctxt "10860933-0-2046"
-msgid "Coldharbour Surreal Estate"
-msgstr "コールドハーバーの超現実邸宅"
-
 #: 10860933-0-2057
 msgctxt "10860933-0-2057"
 msgid "Scalecaller Peak"
 msgstr "スケイルコーラー・ピーク"
+
+#: 108566804-0-2057
+msgctxt "108566804-0-2057"
+msgid "You stopped the cult's plague by conquering Scalecaller Peak"
+msgstr "スケイルコーラー・ピークを制圧して教団の疫病を止めた"
+
+#: 129979412-0-2057
+msgctxt "129979412-0-2057"
+msgid "Investigate Scalecaller Peak."
+msgstr "スケイルコーラー・ピークを調査する。"

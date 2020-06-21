@@ -11,26 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 139139780-0-6942
-msgctxt "139139780-0-6942"
-msgid "An ancient scroll with techniques for fighting Dragons."
-msgstr ""
-
-#: 267697733-0-6942
-msgctxt "267697733-0-6942"
-msgid "Shroud Hearth Scroll"
-msgstr ""
-
-#: 139139780-0-6941
-msgctxt "139139780-0-6941"
-msgid "An ancient scroll with techniques for fighting Dragons."
-msgstr ""
-
-#: 267697733-0-6941
-msgctxt "267697733-0-6941"
-msgid "Icehammer's Vault Scroll"
-msgstr ""
-
 #: 139139780-0-6940
 msgctxt "139139780-0-6940"
 msgid "An ancient scroll with techniques for fighting Dragons."
@@ -39,46 +19,6 @@ msgstr ""
 #: 267697733-0-6940
 msgctxt "267697733-0-6940"
 msgid "Stormcrag Crypt Scroll"
-msgstr ""
-
-#: 139139780-0-6932
-msgctxt "139139780-0-6932"
-msgid "A vampiric cure created by the Wild Witch Galereth."
-msgstr ""
-
-#: 267697733-0-6932
-msgctxt "267697733-0-6932"
-msgid "Galereth's Cure"
-msgstr ""
-
-#: 139139780-0-6911
-msgctxt "139139780-0-6911"
-msgid "A sack full of rare mushrooms that grow in caves and ruins. Flavorful and meaty, dusk mushrooms can be used in a variety of recipes."
-msgstr ""
-
-#: 267697733-0-6911
-msgctxt "267697733-0-6911"
-msgid "Sack of Dusk Mushrooms"
-msgstr ""
-
-#: 139139780-0-6910
-msgctxt "139139780-0-6910"
-msgid "This rare mushroom grows in caves and ruins. Flavorful and meaty, dusk mushrooms can be used in a variety of recipes."
-msgstr ""
-
-#: 267697733-0-6910
-msgctxt "267697733-0-6910"
-msgid "Dusk Mushroom"
-msgstr ""
-
-#: 139139780-0-6909
-msgctxt "139139780-0-6909"
-msgid "This rare mushroom grows in caves and ruins. Flavorful and meaty, dusk mushrooms can be used in a variety of recipes."
-msgstr ""
-
-#: 267697733-0-6909
-msgctxt "267697733-0-6909"
-msgid "Dusk Mushroom"
 msgstr ""
 
 #: 139139780-0-6908
@@ -101,6 +41,86 @@ msgctxt "267697733-0-6907"
 msgid "Dusk Mushroom"
 msgstr ""
 
+#: 139139780-0-6909
+msgctxt "139139780-0-6909"
+msgid "This rare mushroom grows in caves and ruins. Flavorful and meaty, dusk mushrooms can be used in a variety of recipes."
+msgstr ""
+
+#: 267697733-0-6909
+msgctxt "267697733-0-6909"
+msgid "Dusk Mushroom"
+msgstr ""
+
+#: 139139780-0-6942
+msgctxt "139139780-0-6942"
+msgid "An ancient scroll with techniques for fighting Dragons."
+msgstr ""
+
+#: 267697733-0-6942
+msgctxt "267697733-0-6942"
+msgid "Shroud Hearth Scroll"
+msgstr ""
+
+#: 139139780-0-6941
+msgctxt "139139780-0-6941"
+msgid "An ancient scroll with techniques for fighting Dragons."
+msgstr ""
+
+#: 267697733-0-6941
+msgctxt "267697733-0-6941"
+msgid "Icehammer's Vault Scroll"
+msgstr ""
+
+#: 139139780-0-6911
+msgctxt "139139780-0-6911"
+msgid "A sack full of rare mushrooms that grow in caves and ruins. Flavorful and meaty, dusk mushrooms can be used in a variety of recipes."
+msgstr ""
+
+#: 267697733-0-6911
+msgctxt "267697733-0-6911"
+msgid "Sack of Dusk Mushrooms"
+msgstr ""
+
+#: 139139780-0-6856
+msgctxt "139139780-0-6856"
+msgid "A tile containing a coordinate to unlock the map to the hidden weapon that Abnur Tharn seeks."
+msgstr "아브너 탄이 찾고자 하는 숨겨진 무기로 갈수있는 좌표를 포함한 타일형태의 지도."
+
+#: 267697733-0-6856
+msgctxt "267697733-0-6856"
+msgid "Moon-Singer Triangulant"
+msgstr "달의 가수의 트라이앵귤런트"
+
+#: 139139780-0-6932
+msgctxt "139139780-0-6932"
+msgid "A vampiric cure created by the Wild Witch Galereth."
+msgstr ""
+
+#: 267697733-0-6932
+msgctxt "267697733-0-6932"
+msgid "Galereth's Cure"
+msgstr ""
+
+#: 139139780-0-6910
+msgctxt "139139780-0-6910"
+msgid "This rare mushroom grows in caves and ruins. Flavorful and meaty, dusk mushrooms can be used in a variety of recipes."
+msgstr ""
+
+#: 267697733-0-6910
+msgctxt "267697733-0-6910"
+msgid "Dusk Mushroom"
+msgstr ""
+
+#: 139139780-0-6855
+msgctxt "139139780-0-6855"
+msgid "This tablet will help reveal the location of the Halls of Colossus."
+msgstr ""
+
+#: 267697733-0-6855
+msgctxt "267697733-0-6855"
+msgid "Triangulation Tablet"
+msgstr ""
+
 #: 139139780-0-6902
 msgctxt "139139780-0-6902"
 msgid "This soul gem can be used to contain Daedric souls."
@@ -109,16 +129,6 @@ msgstr ""
 #: 267697733-0-6902
 msgctxt "267697733-0-6902"
 msgid "Empty Soul Gem"
-msgstr ""
-
-#: 139139780-0-6901
-msgctxt "139139780-0-6901"
-msgid "A soul gem filled with a Daedric soul."
-msgstr ""
-
-#: 267697733-0-6901
-msgctxt "267697733-0-6901"
-msgid "Filled Soul Gem"
 msgstr ""
 
 #: 139139780-0-6858
@@ -131,6 +141,16 @@ msgctxt "267697733-0-6858"
 msgid "Moon-Singer Triangulant"
 msgstr "달의 가수의 트라이앵귤런트"
 
+#: 139139780-0-6901
+msgctxt "139139780-0-6901"
+msgid "A soul gem filled with a Daedric soul."
+msgstr ""
+
+#: 267697733-0-6901
+msgctxt "267697733-0-6901"
+msgid "Filled Soul Gem"
+msgstr ""
+
 #: 139139780-0-6857
 msgctxt "139139780-0-6857"
 msgid "A tile containing a coordinate to unlock the map to the hidden weapon that Abnur Tharn seeks."
@@ -140,23 +160,3 @@ msgstr "아브너 탄이 찾고자 하는 숨겨진 무기로 갈수있는 좌�
 msgctxt "267697733-0-6857"
 msgid "Moon-Singer Triangulant"
 msgstr "달의 가수의 트라이앵귤런트"
-
-#: 139139780-0-6856
-msgctxt "139139780-0-6856"
-msgid "A tile containing a coordinate to unlock the map to the hidden weapon that Abnur Tharn seeks."
-msgstr "아브너 탄이 찾고자 하는 숨겨진 무기로 갈수있는 좌표를 포함한 타일형태의 지도."
-
-#: 267697733-0-6856
-msgctxt "267697733-0-6856"
-msgid "Moon-Singer Triangulant"
-msgstr "달의 가수의 트라이앵귤런트"
-
-#: 139139780-0-6855
-msgctxt "139139780-0-6855"
-msgid "This tablet will help reveal the location of the Halls of Colossus."
-msgstr ""
-
-#: 267697733-0-6855
-msgctxt "267697733-0-6855"
-msgid "Triangulation Tablet"
-msgstr ""

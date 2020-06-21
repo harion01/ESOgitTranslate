@@ -11,387 +11,95 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 162658389-0-965
-msgctxt "162658389-0-965"
-msgid "Skar"
-msgstr "스카 (Skar)"
+#: 162658389-0-929
+msgctxt "162658389-0-929"
+msgid "Gnisis Egg Mine"
+msgstr "그니시스 알 광산 (Gnisis Egg Mine)"
 
-#: 162658389-0-964
-msgctxt "162658389-0-964"
-msgid "Ashimanu Cave"
-msgstr "애쉬마누 동굴 (Ashimanu Cave)"
+#: 70901198-0-890
+msgctxt "70901198-0-890"
+msgid "Not all the Rourken Dwemer who came to the Dragontail Mountains ventured as far west as Volenfell. The lofty halls of Rkundzelft seem to indicate that the Dwarves built it for some great purpose—but what?"
+msgstr "드래곤 테일 산지를 방문한 모든 로켄의 드웨머가 멀리 서쪽 볼렌펠까지 여행한 것은 아닙니다. 르쿤젤프트의 웅장한 홀은 드워프가 어떤 위대한 계획에 따라 지은 것을 생각하게 하는데 ... 그 계획이란 무엇일까요?"
 
 #: 162658389-0-963
 msgctxt "162658389-0-963"
 msgid "Barilzar's Tower"
 msgstr "바릴자르의 탑 (Barilzar's Tower)"
 
-#: 162658389-0-962
-msgctxt "162658389-0-962"
-msgid "Library of Andule"
-msgstr "안듈 도서관 (Library of Andule)"
-
-#: 162658389-0-961
-msgctxt "162658389-0-961"
-msgid "Ashalmawia"
-msgstr "아샬마위아 (Ashalmawia)"
-
-#: 162658389-0-960
-msgctxt "162658389-0-960"
-msgid "Hleran Ancestral Tomb"
-msgstr "흐레란 가문의 무덤 (Hleran Ancestral Tomb)"
-
-#: 162658389-0-959
-msgctxt "162658389-0-959"
-msgid "Andrano Ancestral Tomb"
-msgstr "안드라노 가문의 무덤 (Andrano Ancestral Tomb)"
-
-#: 162658389-0-958
-msgctxt "162658389-0-958"
-msgid "Veloth Ancestral Tomb"
-msgstr "벨로스 가문의 무덤 (Veloth Ancestral Tomb)"
-
-#: 162658389-0-957
-msgctxt "162658389-0-957"
-msgid "Dreloth Ancestral Tomb"
-msgstr "드렐로스 가문의 무덤 (Dreloth Ancestral Tomb)"
-
-#: 162658389-0-956
-msgctxt "162658389-0-956"
-msgid "Kaushtarari"
-msgstr "카우쉬타라리 (Kaushtarari)"
-
-#: 162658389-0-955
-msgctxt "162658389-0-955"
-msgid "Mallapi Cave"
-msgstr "말라피 동굴 (Mallapi Cave)"
-
-#: 162658389-0-954
-msgctxt "162658389-0-954"
-msgid "Galom Daeus"
-msgstr "가롬 데우스 (Galom Daeus)"
-
-#: 162658389-0-953
-msgctxt "162658389-0-953"
-msgid "Arkngthunch-Sturdumz"
-msgstr "아큰툰치-스툴덤즈 (Arkngthunch-Sturdumz)"
-
-#: 162658389-0-952
-msgctxt "162658389-0-952"
-msgid "Shulk Ore Mine"
-msgstr "슐크 광석 광산 (Shulk Ore Mine)"
-
-#: 162658389-0-951
-msgctxt "162658389-0-951"
-msgid "Vassamsi Mine"
-msgstr "바샴시 광산 (Vassamsi Mine)"
-
-#: 162658389-0-950
-msgctxt "162658389-0-950"
-msgid "Zaintiraris"
-msgstr "잔티라리스 (Zaintiraris)"
-
-#: 162658389-0-949
-msgctxt "162658389-0-949"
-msgid "Dreudurai Glass Mine"
-msgstr "드루듀라이 유리 광산 (Dreudurai Glass Mine)"
-
-#: 162658389-0-948
-msgctxt "162658389-0-948"
-msgid "Tusenend"
-msgstr "튜세넨드 (Tusenend)"
-
-#: 162658389-0-947
-msgctxt "162658389-0-947"
-msgid "Ramimilk"
-msgstr "라미밀크 (Ramimilk)"
-
-#: 162658389-0-946
-msgctxt "162658389-0-946"
-msgid "Bal Ur"
-msgstr "발 우르 (Bal Ur)"
-
-#: 162658389-0-945
-msgctxt "162658389-0-945"
-msgid "Ebonheart Chateau"
-msgstr "에본하트 성 (Ebonheart Chateau)"
-
-#: 162658389-0-944
-msgctxt "162658389-0-944"
-msgid "Serenity Falls Estate"
-msgstr "세레니티 폴스의 저택 (Serenity Falls Estate)"
-
-#: 162658389-0-943
-msgctxt "162658389-0-943"
-msgid "Daggerfall Overlook"
-msgstr "대거폴 감시대 (Daggerfall Overlook)"
-
-#: 162658389-0-942
-msgctxt "162658389-0-942"
-msgid "The Rosy Lion"
-msgstr "주정뱅이 사자 (The Rosy Lion)"
-
-#: 162658389-0-941
-msgctxt "162658389-0-941"
-msgid "The Ebony Flask Inn Room"
-msgstr "에보니 플라스크 여관의 방 (The Ebony Flask Inn Room)"
-
-#: 162658389-0-940
-msgctxt "162658389-0-940"
-msgid "Mara's Kiss Public House"
-msgstr "마라의 입맞춤 선술집 (Mara's Kiss Public House)"
-
-#: 162658389-0-939
-msgctxt "162658389-0-939"
-msgid "Barbed Hook Private Room"
-msgstr "가시바늘 여관 개인실 (Barbed Hook Private Room)"
-
-#: 162658389-0-938
-msgctxt "162658389-0-938"
-msgid "Sisters of the Sands Apartment"
-msgstr "모래 자매들의 셋방 (Sisters of the Sands Apartment)"
-
-#: 162658389-0-937
-msgctxt "162658389-0-937"
-msgid "Flaming Nix Deluxe Garret"
-msgstr "불타는 닉스 특급 다락방 (Flaming Nix Deluxe Garret)"
-
-#: 162658389-0-936
-msgctxt "162658389-0-936"
-msgid "Spindleclutch II"
-msgstr "스핀들클러치 II (Spindleclutch II)"
-
-#: 162658389-0-935
-msgctxt "162658389-0-935"
-msgid "The Banished Cells II"
-msgstr "추방자의 감옥 II (The Banished Cells II)"
-
-#: 162658389-0-934
-msgctxt "162658389-0-934"
-msgid "Fungal Grotto II"
-msgstr "곰팡이 동굴 II (Fungal Grotto II)"
-
-#: 162658389-0-933
-msgctxt "162658389-0-933"
-msgid "Wayrest Sewers II"
-msgstr "웨이레스트 하수도 II (Wayrest Sewers II)"
-
-#: 162658389-0-932
-msgctxt "162658389-0-932"
-msgid "Crypt of Hearts II"
-msgstr "마음의 묘실 (Crypt of Hearts II)"
-
-#: 162658389-0-931
-msgctxt "162658389-0-931"
-msgid "Elden Hollow II"
-msgstr "엘든 할로우 II (Elden Hollow II)"
-
-#: 162658389-0-930
-msgctxt "162658389-0-930"
-msgid "Darkshade Caverns II"
-msgstr "어둠그늘 동굴 II (Darkshade Caverns II)"
-
-#: 162658389-0-929
-msgctxt "162658389-0-929"
-msgid "Gnisis Egg Mine"
-msgstr "그니시스 알 광산 (Gnisis Egg Mine)"
-
-#: 162658389-0-928
-msgctxt "162658389-0-928"
-msgid "Zalkin-Sul Egg Mine"
-msgstr "잘킨-술 알 광산 (Zalkin-Sul Egg Mine)"
-
-#: 162658389-0-927
-msgctxt "162658389-0-927"
-msgid "Vassir-Didanat Mine"
-msgstr "바씨르-디다낫 광산 (Vassir-Didanat Mine)"
-
-#: 162658389-0-926
-msgctxt "162658389-0-926"
-msgid "Pinsun"
-msgstr "핀선 (Pinsun)"
-
-#: 162658389-0-925
-msgctxt "162658389-0-925"
-msgid "Nchuleft"
-msgstr "누슈레프트 (Nchuleft)"
-
-#: 162658389-0-924
-msgctxt "162658389-0-924"
-msgid "Pulk"
-msgstr "풀크 (Pulk)"
-
-#: 162658389-0-923
-msgctxt "162658389-0-923"
-msgid "Matus-Akin Egg Mine"
-msgstr "마투스-아킨 알 광산 (Matus-Akin Egg Mine)"
-
-#: 162658389-0-922
-msgctxt "162658389-0-922"
-msgid "Zainsipilu"
-msgstr "자인시필루 (Zainsipilu)"
-
-#: 162658389-0-921
-msgctxt "162658389-0-921"
-msgid "Khartag Point"
-msgstr "카르타그 포인트 (Khartag Point)"
+#: 162658389-0-964
+msgctxt "162658389-0-964"
+msgid "Ashimanu Cave"
+msgstr "애쉬마누 동굴 (Ashimanu Cave)"
 
 #: 162658389-0-920
 msgctxt "162658389-0-920"
 msgid "Inanius Egg Mine"
 msgstr "이나니우스 알 광산 (Inanius Egg Mine)"
 
-#: 162658389-0-919
-msgctxt "162658389-0-919"
-msgid "Forgotten Wastes"
-msgstr "잊혀진 황무지 (Forgotten Wastes)"
+#: 162658389-0-961
+msgctxt "162658389-0-961"
+msgid "Ashalmawia"
+msgstr "아샬마위아 (Ashalmawia)"
 
-#: 162658389-0-918
-msgctxt "162658389-0-918"
-msgid "Nchuleftingth"
-msgstr "누슈레프팅쓰 (Nchuleftingth)"
+#: 162658389-0-962
+msgctxt "162658389-0-962"
+msgid "Library of Andule"
+msgstr "안듈 도서관 (Library of Andule)"
 
-#: 162658389-0-917
-msgctxt "162658389-0-917"
-msgid "zTestBarbershop"
-msgstr ""
+#: 162658389-0-960
+msgctxt "162658389-0-960"
+msgid "Hleran Ancestral Tomb"
+msgstr "흐레란 가문의 무덤 (Hleran Ancestral Tomb)"
 
-#: 70901198-0-916
-msgctxt "70901198-0-916"
-msgid "The highest section of the Skyreach ruins, Skyreach Pinnacle appears to have been some kind of Nedic summoning or experimentation chamber."
-msgstr "스카이리치 유적의 최상단 스카이리치 봉우리는 네딕 소환 장소나 실험 장소로 사용되어온 것 같습니다."
+#: 162658389-0-927
+msgctxt "162658389-0-927"
+msgid "Vassir-Didanat Mine"
+msgstr "바씨르-디다낫 광산 (Vassir-Didanat Mine)"
 
-#: 70901198-0-915
-msgctxt "70901198-0-915"
-msgid "This ancient Nedic temple, located in the depths of the Loth'Na Caverns, has been appropriated by agents of Regent Cassipia and the Scaled Court."
-msgstr "이 고대 네드 사원은 로스나 동굴속 중심부에 있는 섭정 카시피아의 스파이나 스케일 코트가 이곳을 사용해 왔다."
+#: 162658389-0-928
+msgctxt "162658389-0-928"
+msgid "Zalkin-Sul Egg Mine"
+msgstr "잘킨-술 알 광산 (Zalkin-Sul Egg Mine)"
 
-#: 70901198-0-914
-msgctxt "70901198-0-914"
-msgid "The ancient Nedes interred the dead of Skyreach within the massive chambers and passages beneath the city, both commoners and nobles alike."
-msgstr "고대 네드족은 스카이 리치의 사망자를 도시 지하의 거대 묘실이나 통로에 안장했지만 평민과 귀족으로 구분하지 않았습니다."
+#: 162658389-0-925
+msgctxt "162658389-0-925"
+msgid "Nchuleft"
+msgstr "누슈레프트 (Nchuleft)"
 
-#: 70901198-0-913
-msgctxt "70901198-0-913"
-msgid "Whatever this colossal onyx shard may be, one thing is certain: it comes from somewhere beyond the bounds of Tamriel. And the fabric of Tamriel may not be strong enough to contain its power."
-msgstr "이 거대한 오닉스의 파편이 무엇이든 간에  한가지 분명한 것은 탐리엘 너머의 어딘가에서 옮겨졌다는 것입니다. 원래 탐리엘의 직물은 이 파편이 가진 힘을 견딜 만큼 강하진 않습니다."
+#: 162658389-0-926
+msgctxt "162658389-0-926"
+msgid "Pinsun"
+msgstr "핀선 (Pinsun)"
 
-#: 70901198-0-911
-msgctxt "70901198-0-911"
-msgid "The water swirling through the ancient structure and the darkness of the ruined depths hide a multitude of secrets within this forgotten Nedic temple."
-msgstr "고대 건축물 사이를 물이 넘실 넘실 흐르고, 폐허의 심원이 만드는 어둠이 이 잊혀진 네드의 사원에 존재하는 수 많은 비밀을 감추고 있습니다."
+#: 162658389-0-923
+msgctxt "162658389-0-923"
+msgid "Matus-Akin Egg Mine"
+msgstr "마투스-아킨 알 광산 (Matus-Akin Egg Mine)"
 
-#: 70901198-0-910
-msgctxt "70901198-0-910"
-msgid "The sewers beneath Elinhir were the greatest public work undertaken during the administration of Governor Pomptinus, who oversaw the region for the Second Empire from 1E 2820 to 2852."
-msgstr "엘린히어의 하수도는 폼프티누스 총독 통치하에서 행해졌던 가장 위대한 공공사업이었습니다. 총독은 제 2제국의 명을 받아 이곳을 제 1시대 2830년 부터 2852년까지 통치하였습니다."
+#: 162658389-0-924
+msgctxt "162658389-0-924"
+msgid "Pulk"
+msgstr "풀크 (Pulk)"
 
-#: 70901198-0-909
-#, fuzzy
-msgctxt "70901198-0-909"
-msgid """The Seeker's Archive""—a curious name for something that appears to be a Yokudan temple. A dry, dusty draft seeps out from beneath the door, bearing the scent of a thousand, thousand libraries …."
-msgstr "\"\"구도자의 보관소\"\"... 요쿠다 성당치곤 특이한 이름입니다. 문 아래에서 스며들어 오는 건조한 먼지 바람은 방대한 장서들의 향기를 실어 나르거든요..."
+#: 162658389-0-965
+msgctxt "162658389-0-965"
+msgid "Skar"
+msgstr "스카 (Skar)"
 
-#: 70901198-0-908
-#, fuzzy
-msgctxt "70901198-0-908"
-msgid """Weep for Shada, tears of grief.\nThe endless years bring no relief.""\n     —Old Hammerfell Ballad"
-msgstr "\"\"샤다를 위해 울고, 고통의 눈물을 흘린다.\n안도 같은 것은 없는 끝없는 세월.\"\"\n     — 고대 해머펠 발라드"
+#: 162658389-0-921
+msgctxt "162658389-0-921"
+msgid "Khartag Point"
+msgstr "카르타그 포인트 (Khartag Point)"
 
-#: 70901198-0-907
-#, fuzzy
-msgctxt "70901198-0-907"
-msgid """Who has not heard of the Trials of Rahni'Za? Five they are, each a test of a warrior's mettle, until the hopeful champion is faced at last by the Trial of the True Path. Though many attempt it, few succeed."" —The Unveiled Azadiyeh"
-msgstr "\"\"라니' 자의 시련을 모르는 사람이 있어? 시련은 다섯 개로써 그 하나 하나가 전사의 패기를 시험하는 것이야. 시련을 극복한 투사는 마지막으로 진정한 길의 시련을 마주하게 되지. 많은 사람이 도전했지만, 성공한 사람은 거의 없어.\"\"- 밝혀진 자 아자디에"
+#: 70901198-0-888
+msgctxt "70901198-0-888"
+msgid "Though crossed by caravans and Covenant troops going to and from Cyrodiil, this wild region of eastern Hammerfell is a virtual no-man's-land. It's anchored on the east and west by the towns of Elinhir and Dragonstar."
+msgstr "캐러밴과 대거폴의 군대가 시로딜을 오가고 있지만, 이 동부 해머펠의 황무지는 사실상 무인지대나 다름없습니다. 이 지역의 동부와 서부에는 각각 엘린히어 마을과 드래곤스타가 있습니다."
 
-#: 70901198-0-906
-#, fuzzy
-msgctxt "70901198-0-906"
-msgid """The Offices of the Hunt, which the Huntsmen, Master, and Hounds are solemnly sworn to honor … states that the Hare must have a genuine chance to escape the Hunt, no matter how slim."" —The Posting of the Hunt"
-msgstr "\"\"용감한 사냥꾼, 사냥의 왕, 사냥개가 엄숙히 지키지 않으면 안 되는 \"\"사냥의 의무\"\"에는 사냥 방법과 조건이 상세하게 기술되어 있다. 예를 들며, 비록 짧은 순간이라도 토끼 사냥에서 도망 칠 수 있는 진정한 기회가 없어서는 안 된다고 규정하고 있다\"\" - \"\"사냥으로의 출발"
-
-#: 70901198-0-905
-#, fuzzy
-msgctxt "70901198-0-905"
-msgid """Know, O my prince, that in that forgotten time there arose a ruler of great wickedness, who unjustly took unto himself the title of Emperor. Cruel was he, utterly without ruth, and his name was Tarish-Zi."" —The Unveiled Azadiyeh"
-msgstr "\"\"왕자여, 이것을 아시나요. 그 잊혀진 시대에 악마 같은 지배자가 나타나서 부정한 수단으로 황제의 지위에 앉은 것입니다. 자비의 파편도 없는 그 잔학한 황제의 이름은 타리쉬-지 입니다\"\" - 공개된 아자디에"
-
-#: 70901198-0-904
-#, fuzzy
-msgctxt "70901198-0-904"
-msgid "The scholar Phrastus of Elinhir claims that ""Zalgaz"" is Old Nedic for ""lizard lady."" But his rival, Cinnabar of Taneth, dismisses this as ""A reeking load of guarwash."""
-msgstr "학자인 엘린히어의 페라스투스는 \"\"잘가즈\"\" 란 고대 네드어로 \"\"도마뱀 부인\"\" 을 의미한다고 말하지만 그의 라이벌인 타네쓰의 신나바는 \"\"구아효소의 대량 방출\"\"이라고 이것을 일축하고 있습니다."
-
-#: 70901198-0-903
-msgctxt "70901198-0-903"
-msgid "The Iron Orcs have turned these ruins into the primary stronghold for their chieftain, Braadoth, the Ophidian Exarch of Undulating Destruction."
-msgstr "아이언 오크가 이 유적을 꾸불거리는 파괴의 오피디안 엑사치라고 불리는 브라도쓰 족장의 주 요새로 바꾸어 버렸습니다."
-
-#: 70901198-0-902
-msgctxt "70901198-0-902"
-msgid "Scorpions and snakes infest this ancient Nedic ruin, making it a perfect location for the Scaled Court's forces to occupy."
-msgstr "전갈과 뱀이 고대 네딕 유적에 몰리고 있는 것이 스케일드 코트가 이곳을 점거해야 할 좋은 이유를 제공했습니다."
-
-#: 70901198-0-901
-msgctxt "70901198-0-901"
-msgid "It's said the Ayleids built a citadel at Balamath because the site is a natural juncture point where it is easy to pass between worlds. This story may have attracted the order of renegade conjurers who currently occupy it."
-msgstr "에일리드가 발라마스 요새를 만든 이유는 각지로의 이동에 적합한 자연이 만든 합류 지점이었기 때문이라고 합니다. 그런 이유로 무법자의 소환사의 일당이 와서 이곳을 점령했습니다."
-
-#: 70901198-0-900
-msgctxt "70901198-0-900"
-msgid "Undead overrun the Howling Sepulchers, windswept burial grounds once sacred to the ancient Nedes."
-msgstr "울부짖는 묘지는 고대 네드의 성지였지만 비바람에 노출되어 버린 이 묘지를 언데드가 점령해 버렸습니다."
-
-#: 70901198-0-899
-msgctxt "70901198-0-899"
-msgid "Mtharnaz is one of the youngest known Dwarven ruins. Indeed, it was still under construction when the Dwemer disappeared."
-msgstr "므싸나즈는 드워프의 유적 중에서는 가장 새로운 것 중 하나입니다. 실제로 드웨머가 없어졌을 때조차 이곳은 아직도 건축 중이었습니다."
-
-#: 70901198-0-898
-msgctxt "70901198-0-898"
-msgid "It's unclear whether the original name of this site was lost, forgotten, or deliberately expunged from the historical record. If they know, the sands aren't telling."
-msgstr "이 곳의 원래 이름은 사라졌는지, 잊혀졌는지, 아니면 의도적으로 역사의 기록에서 삭제됐는지 확실하지 않습니다. 만약 그것을 알았다고 하더라도 모래는 아무것도 이야기하지 않을 것입니다."
-
-#: 70901198-0-897
-msgctxt "70901198-0-897"
-msgid "In Belkarth they say that when the Chiselshriek works were played out, the mine was taken over by bandits and raiders. But others whisper that the dig was abandoned because something far worse than bandits took up residence in its depths."
-msgstr "광석이 고갈된 치즐슈리크 광산은 산적이나 폭행범들의 아지트가 됐다고 벨카스에 알려져 있습니다. 그러나 다른 사람들은 갱도 안에 산적보다 더 무서운 것이 주민을 덮치는 바람에 광산을 포기한 것이라고 속삭이고 있죠."
-
-#: 70901198-0-896
-#, fuzzy
-msgctxt "70901198-0-896"
-msgid "Some caravans that enter Craglorn never leave it again. Others do make their way to the far borders—but ""under new management."" The new proprietors are often members of the Greycloak gang, for such is their illicit business."
-msgstr "크래글론에 들어간 상단 중에는 다시는 밖으로 나오지 못한 사람들도 있습니다. 만일 나온다고 해도 그것은 \"\"새로운 경영자의 밑\"\" 이라는 것을 의미하는데 그 경영자의 대부분은 회색망토 갱단의 멤버입니다. 그들은 그렇게 불법 사업에 힘쓰고 있죠."
-
-#: 70901198-0-895
-msgctxt "70901198-0-895"
-msgid "There have been reports of dreugh infesting the Dwarven ruins of Rkhardahrk. Impossible: how could a colony of dreugh survive so far from the sea?"
-msgstr "드워프의 유적인 르크하다르크에 드레그가 대량으로 정착하고 있다는 보고가 잇따르고 있지만, 그것은 있을 수 없는 일입니다. 바다에서 그렇게도 멀리 떨어진 곳인데 어떻게 드레그 군락이 살아남을 수 있을까요?"
-
-#: 70901198-0-894
-msgctxt "70901198-0-894"
-msgid "A valley surrounded by dozens of caves built into the valley walls, the Loth'Na Caverns contain numerous sites important to the ancient Nedes."
-msgstr "로스'나 동굴 지대는 해안가 벼랑에 뚫린 몇 개의 동굴이 계곡을 둘러싸고 있는 장소로써, 고대 네데의 소중한 유산이 여기에 많이 잠들어 있습니다."
-
-#: 70901198-0-893
-msgctxt "70901198-0-893"
-msgid "Great statues of Yokudan warriors stand like sentries before the entrance to the ancient crypts of Kardala. What age-old secrets do they guard?"
-msgstr "이 칼다라의 묘지 입구에는 요쿠단 전사의 웅대한 동상이 마치 보초병 같이 서 있습니다. 그들이 지키는 비밀은 얼마나 오래된 것일까요?"
-
-#: 70901198-0-892
-msgctxt "70901198-0-892"
-msgid "The ruins known as Ilthag's Undertower serve as a training ground for the Iron Orcs' growing army of trolls, under the tutelage of Ilthag Ironblood."
-msgstr "일타그 탑 지하로 불리는이 유적은 군세가 불어나고 있는 오크 트롤 군단의 훈련 시설로 사용되고 있습니다. 트롤들을 지도하고 있는 자가 일타그 아이언블러드입니다."
-
-#: 70901198-0-891
-msgctxt "70901198-0-891"
-msgid "Snakes and serpents of all sizes slither through the caves and passages of Serpent's Nest, including (if the rumors are to be believed) a trio of deadly lamias and a contingent of Scaled Court cultists."
-msgstr "다양한 크기의 뱀이 독사굴이나 통로를 기어다니고 있지만, 그 중에는(소문이 맞다면) 소름끼치는 라미아 트리오나 비늘 왕실 광신자 집단도 포함됩니다."
-
-#: 70901198-0-890
-msgctxt "70901198-0-890"
-msgid "Not all the Rourken Dwemer who came to the Dragontail Mountains ventured as far west as Volenfell. The lofty halls of Rkundzelft seem to indicate that the Dwarves built it for some great purpose—but what?"
-msgstr "드래곤 테일 산지를 방문한 모든 로켄의 드웨머가 멀리 서쪽 볼렌펠까지 여행한 것은 아닙니다. 르쿤젤프트의 웅장한 홀은 드워프가 어떤 위대한 계획에 따라 지은 것을 생각하게 하는데 ... 그 계획이란 무엇일까요?"
+#: 162658389-0-922
+msgctxt "162658389-0-922"
+msgid "Zainsipilu"
+msgstr "자인시필루 (Zainsipilu)"
 
 #: 70901198-0-889
 #, fuzzy
@@ -399,7 +107,299 @@ msgctxt "70901198-0-889"
 msgid "Roughly translated, the ancient Elven word ""molavar"" means ""fire mouth,"" though it's unknown whether that was this ruin's original name in Ayleidoon or a description of the doom that overtook it."
 msgstr "\"\"모라발\"\" 은 대충 번역하자면 고대 엘프어로 \"\"불의 입 '이라는 뜻이지만 에일리드어에서 이 유적의 이름이 기원했는지 아니면 이곳을 덮칠 운명을 나타내고 있는지는 확실치 않습니다."
 
-#: 70901198-0-888
-msgctxt "70901198-0-888"
-msgid "Though crossed by caravans and Covenant troops going to and from Cyrodiil, this wild region of eastern Hammerfell is a virtual no-man's-land. It's anchored on the east and west by the towns of Elinhir and Dragonstar."
-msgstr "캐러밴과 대거폴의 군대가 시로딜을 오가고 있지만, 이 동부 해머펠의 황무지는 사실상 무인지대나 다름없습니다. 이 지역의 동부와 서부에는 각각 엘린히어 마을과 드래곤스타가 있습니다."
+#: 162658389-0-930
+msgctxt "162658389-0-930"
+msgid "Darkshade Caverns II"
+msgstr "어둠그늘 동굴 II (Darkshade Caverns II)"
+
+#: 70901198-0-897
+msgctxt "70901198-0-897"
+msgid "In Belkarth they say that when the Chiselshriek works were played out, the mine was taken over by bandits and raiders. But others whisper that the dig was abandoned because something far worse than bandits took up residence in its depths."
+msgstr "광석이 고갈된 치즐슈리크 광산은 산적이나 폭행범들의 아지트가 됐다고 벨카스에 알려져 있습니다. 그러나 다른 사람들은 갱도 안에 산적보다 더 무서운 것이 주민을 덮치는 바람에 광산을 포기한 것이라고 속삭이고 있죠."
+
+#: 162658389-0-931
+msgctxt "162658389-0-931"
+msgid "Elden Hollow II"
+msgstr "엘든 할로우 II (Elden Hollow II)"
+
+#: 70901198-0-898
+msgctxt "70901198-0-898"
+msgid "It's unclear whether the original name of this site was lost, forgotten, or deliberately expunged from the historical record. If they know, the sands aren't telling."
+msgstr "이 곳의 원래 이름은 사라졌는지, 잊혀졌는지, 아니면 의도적으로 역사의 기록에서 삭제됐는지 확실하지 않습니다. 만약 그것을 알았다고 하더라도 모래는 아무것도 이야기하지 않을 것입니다."
+
+#: 70901198-0-895
+msgctxt "70901198-0-895"
+msgid "There have been reports of dreugh infesting the Dwarven ruins of Rkhardahrk. Impossible: how could a colony of dreugh survive so far from the sea?"
+msgstr "드워프의 유적인 르크하다르크에 드레그가 대량으로 정착하고 있다는 보고가 잇따르고 있지만, 그것은 있을 수 없는 일입니다. 바다에서 그렇게도 멀리 떨어진 곳인데 어떻게 드레그 군락이 살아남을 수 있을까요?"
+
+#: 70901198-0-896
+#, fuzzy
+msgctxt "70901198-0-896"
+msgid "Some caravans that enter Craglorn never leave it again. Others do make their way to the far borders—but ""under new management."" The new proprietors are often members of the Greycloak gang, for such is their illicit business."
+msgstr "크래글론에 들어간 상단 중에는 다시는 밖으로 나오지 못한 사람들도 있습니다. 만일 나온다고 해도 그것은 \"\"새로운 경영자의 밑\"\" 이라는 것을 의미하는데 그 경영자의 대부분은 회색망토 갱단의 멤버입니다. 그들은 그렇게 불법 사업에 힘쓰고 있죠."
+
+#: 70901198-0-893
+msgctxt "70901198-0-893"
+msgid "Great statues of Yokudan warriors stand like sentries before the entrance to the ancient crypts of Kardala. What age-old secrets do they guard?"
+msgstr "이 칼다라의 묘지 입구에는 요쿠단 전사의 웅대한 동상이 마치 보초병 같이 서 있습니다. 그들이 지키는 비밀은 얼마나 오래된 것일까요?"
+
+#: 70901198-0-894
+msgctxt "70901198-0-894"
+msgid "A valley surrounded by dozens of caves built into the valley walls, the Loth'Na Caverns contain numerous sites important to the ancient Nedes."
+msgstr "로스'나 동굴 지대는 해안가 벼랑에 뚫린 몇 개의 동굴이 계곡을 둘러싸고 있는 장소로써, 고대 네데의 소중한 유산이 여기에 많이 잠들어 있습니다."
+
+#: 70901198-0-891
+msgctxt "70901198-0-891"
+msgid "Snakes and serpents of all sizes slither through the caves and passages of Serpent's Nest, including (if the rumors are to be believed) a trio of deadly lamias and a contingent of Scaled Court cultists."
+msgstr "다양한 크기의 뱀이 독사굴이나 통로를 기어다니고 있지만, 그 중에는(소문이 맞다면) 소름끼치는 라미아 트리오나 비늘 왕실 광신자 집단도 포함됩니다."
+
+#: 70901198-0-892
+msgctxt "70901198-0-892"
+msgid "The ruins known as Ilthag's Undertower serve as a training ground for the Iron Orcs' growing army of trolls, under the tutelage of Ilthag Ironblood."
+msgstr "일타그 탑 지하로 불리는이 유적은 군세가 불어나고 있는 오크 트롤 군단의 훈련 시설로 사용되고 있습니다. 트롤들을 지도하고 있는 자가 일타그 아이언블러드입니다."
+
+#: 162658389-0-938
+msgctxt "162658389-0-938"
+msgid "Sisters of the Sands Apartment"
+msgstr "모래 자매들의 셋방 (Sisters of the Sands Apartment)"
+
+#: 162658389-0-939
+msgctxt "162658389-0-939"
+msgid "Barbed Hook Private Room"
+msgstr "가시바늘 여관 개인실 (Barbed Hook Private Room)"
+
+#: 162658389-0-936
+msgctxt "162658389-0-936"
+msgid "Spindleclutch II"
+msgstr "스핀들클러치 II (Spindleclutch II)"
+
+#: 162658389-0-937
+msgctxt "162658389-0-937"
+msgid "Flaming Nix Deluxe Garret"
+msgstr "불타는 닉스 특급 다락방 (Flaming Nix Deluxe Garret)"
+
+#: 162658389-0-934
+msgctxt "162658389-0-934"
+msgid "Fungal Grotto II"
+msgstr "곰팡이 동굴 II (Fungal Grotto II)"
+
+#: 162658389-0-935
+msgctxt "162658389-0-935"
+msgid "The Banished Cells II"
+msgstr "추방자의 감옥 II (The Banished Cells II)"
+
+#: 162658389-0-932
+msgctxt "162658389-0-932"
+msgid "Crypt of Hearts II"
+msgstr "마음의 묘실 (Crypt of Hearts II)"
+
+#: 70901198-0-899
+msgctxt "70901198-0-899"
+msgid "Mtharnaz is one of the youngest known Dwarven ruins. Indeed, it was still under construction when the Dwemer disappeared."
+msgstr "므싸나즈는 드워프의 유적 중에서는 가장 새로운 것 중 하나입니다. 실제로 드웨머가 없어졌을 때조차 이곳은 아직도 건축 중이었습니다."
+
+#: 162658389-0-933
+msgctxt "162658389-0-933"
+msgid "Wayrest Sewers II"
+msgstr "웨이레스트 하수도 II (Wayrest Sewers II)"
+
+#: 70901198-0-909
+#, fuzzy
+msgctxt "70901198-0-909"
+msgid """The Seeker's Archive""—a curious name for something that appears to be a Yokudan temple. A dry, dusty draft seeps out from beneath the door, bearing the scent of a thousand, thousand libraries …."
+msgstr "\"\"구도자의 보관소\"\"... 요쿠다 성당치곤 특이한 이름입니다. 문 아래에서 스며들어 오는 건조한 먼지 바람은 방대한 장서들의 향기를 실어 나르거든요..."
+
+#: 70901198-0-907
+#, fuzzy
+msgctxt "70901198-0-907"
+msgid """Who has not heard of the Trials of Rahni'Za? Five they are, each a test of a warrior's mettle, until the hopeful champion is faced at last by the Trial of the True Path. Though many attempt it, few succeed."" —The Unveiled Azadiyeh"
+msgstr "\"\"라니' 자의 시련을 모르는 사람이 있어? 시련은 다섯 개로써 그 하나 하나가 전사의 패기를 시험하는 것이야. 시련을 극복한 투사는 마지막으로 진정한 길의 시련을 마주하게 되지. 많은 사람이 도전했지만, 성공한 사람은 거의 없어.\"\"- 밝혀진 자 아자디에"
+
+#: 70901198-0-908
+#, fuzzy
+msgctxt "70901198-0-908"
+msgid """Weep for Shada, tears of grief.\nThe endless years bring no relief.""\n     —Old Hammerfell Ballad"
+msgstr "\"\"샤다를 위해 울고, 고통의 눈물을 흘린다.\n안도 같은 것은 없는 끝없는 세월.\"\"\n     — 고대 해머펠 발라드"
+
+#: 162658389-0-941
+msgctxt "162658389-0-941"
+msgid "The Ebony Flask Inn Room"
+msgstr "에보니 플라스크 여관의 방 (The Ebony Flask Inn Room)"
+
+#: 162658389-0-942
+msgctxt "162658389-0-942"
+msgid "The Rosy Lion"
+msgstr "주정뱅이 사자 (The Rosy Lion)"
+
+#: 162658389-0-940
+msgctxt "162658389-0-940"
+msgid "Mara's Kiss Public House"
+msgstr "마라의 입맞춤 선술집 (Mara's Kiss Public House)"
+
+#: 162658389-0-949
+msgctxt "162658389-0-949"
+msgid "Dreudurai Glass Mine"
+msgstr "드루듀라이 유리 광산 (Dreudurai Glass Mine)"
+
+#: 70901198-0-905
+#, fuzzy
+msgctxt "70901198-0-905"
+msgid """Know, O my prince, that in that forgotten time there arose a ruler of great wickedness, who unjustly took unto himself the title of Emperor. Cruel was he, utterly without ruth, and his name was Tarish-Zi."" —The Unveiled Azadiyeh"
+msgstr "\"\"왕자여, 이것을 아시나요. 그 잊혀진 시대에 악마 같은 지배자가 나타나서 부정한 수단으로 황제의 지위에 앉은 것입니다. 자비의 파편도 없는 그 잔학한 황제의 이름은 타리쉬-지 입니다\"\" - 공개된 아자디에"
+
+#: 70901198-0-906
+#, fuzzy
+msgctxt "70901198-0-906"
+msgid """The Offices of the Hunt, which the Huntsmen, Master, and Hounds are solemnly sworn to honor … states that the Hare must have a genuine chance to escape the Hunt, no matter how slim."" —The Posting of the Hunt"
+msgstr "\"\"용감한 사냥꾼, 사냥의 왕, 사냥개가 엄숙히 지키지 않으면 안 되는 \"\"사냥의 의무\"\"에는 사냥 방법과 조건이 상세하게 기술되어 있다. 예를 들며, 비록 짧은 순간이라도 토끼 사냥에서 도망 칠 수 있는 진정한 기회가 없어서는 안 된다고 규정하고 있다\"\" - \"\"사냥으로의 출발"
+
+#: 162658389-0-947
+msgctxt "162658389-0-947"
+msgid "Ramimilk"
+msgstr "라미밀크 (Ramimilk)"
+
+#: 70901198-0-903
+msgctxt "70901198-0-903"
+msgid "The Iron Orcs have turned these ruins into the primary stronghold for their chieftain, Braadoth, the Ophidian Exarch of Undulating Destruction."
+msgstr "아이언 오크가 이 유적을 꾸불거리는 파괴의 오피디안 엑사치라고 불리는 브라도쓰 족장의 주 요새로 바꾸어 버렸습니다."
+
+#: 162658389-0-948
+msgctxt "162658389-0-948"
+msgid "Tusenend"
+msgstr "튜세넨드 (Tusenend)"
+
+#: 70901198-0-904
+#, fuzzy
+msgctxt "70901198-0-904"
+msgid "The scholar Phrastus of Elinhir claims that ""Zalgaz"" is Old Nedic for ""lizard lady."" But his rival, Cinnabar of Taneth, dismisses this as ""A reeking load of guarwash."""
+msgstr "학자인 엘린히어의 페라스투스는 \"\"잘가즈\"\" 란 고대 네드어로 \"\"도마뱀 부인\"\" 을 의미한다고 말하지만 그의 라이벌인 타네쓰의 신나바는 \"\"구아효소의 대량 방출\"\"이라고 이것을 일축하고 있습니다."
+
+#: 162658389-0-945
+msgctxt "162658389-0-945"
+msgid "Ebonheart Chateau"
+msgstr "에본하트 성 (Ebonheart Chateau)"
+
+#: 70901198-0-901
+msgctxt "70901198-0-901"
+msgid "It's said the Ayleids built a citadel at Balamath because the site is a natural juncture point where it is easy to pass between worlds. This story may have attracted the order of renegade conjurers who currently occupy it."
+msgstr "에일리드가 발라마스 요새를 만든 이유는 각지로의 이동에 적합한 자연이 만든 합류 지점이었기 때문이라고 합니다. 그런 이유로 무법자의 소환사의 일당이 와서 이곳을 점령했습니다."
+
+#: 162658389-0-946
+msgctxt "162658389-0-946"
+msgid "Bal Ur"
+msgstr "발 우르 (Bal Ur)"
+
+#: 70901198-0-902
+msgctxt "70901198-0-902"
+msgid "Scorpions and snakes infest this ancient Nedic ruin, making it a perfect location for the Scaled Court's forces to occupy."
+msgstr "전갈과 뱀이 고대 네딕 유적에 몰리고 있는 것이 스케일드 코트가 이곳을 점거해야 할 좋은 이유를 제공했습니다."
+
+#: 162658389-0-943
+msgctxt "162658389-0-943"
+msgid "Daggerfall Overlook"
+msgstr "대거폴 감시대 (Daggerfall Overlook)"
+
+#: 162658389-0-944
+msgctxt "162658389-0-944"
+msgid "Serenity Falls Estate"
+msgstr "세레니티 폴스의 저택 (Serenity Falls Estate)"
+
+#: 70901198-0-900
+msgctxt "70901198-0-900"
+msgid "Undead overrun the Howling Sepulchers, windswept burial grounds once sacred to the ancient Nedes."
+msgstr "울부짖는 묘지는 고대 네드의 성지였지만 비바람에 노출되어 버린 이 묘지를 언데드가 점령해 버렸습니다."
+
+#: 162658389-0-918
+msgctxt "162658389-0-918"
+msgid "Nchuleftingth"
+msgstr "누슈레프팅쓰 (Nchuleftingth)"
+
+#: 162658389-0-919
+msgctxt "162658389-0-919"
+msgid "Forgotten Wastes"
+msgstr "잊혀진 황무지 (Forgotten Wastes)"
+
+#: 162658389-0-952
+msgctxt "162658389-0-952"
+msgid "Shulk Ore Mine"
+msgstr "슐크 광석 광산 (Shulk Ore Mine)"
+
+#: 162658389-0-953
+msgctxt "162658389-0-953"
+msgid "Arkngthunch-Sturdumz"
+msgstr "아큰툰치-스툴덤즈 (Arkngthunch-Sturdumz)"
+
+#: 162658389-0-950
+msgctxt "162658389-0-950"
+msgid "Zaintiraris"
+msgstr "잔티라리스 (Zaintiraris)"
+
+#: 162658389-0-951
+msgctxt "162658389-0-951"
+msgid "Vassamsi Mine"
+msgstr "바샴시 광산 (Vassamsi Mine)"
+
+#: 70901198-0-916
+msgctxt "70901198-0-916"
+msgid "The highest section of the Skyreach ruins, Skyreach Pinnacle appears to have been some kind of Nedic summoning or experimentation chamber."
+msgstr "스카이리치 유적의 최상단 스카이리치 봉우리는 네딕 소환 장소나 실험 장소로 사용되어온 것 같습니다."
+
+#: 162658389-0-917
+msgctxt "162658389-0-917"
+msgid "zTestBarbershop"
+msgstr ""
+
+#: 162658389-0-958
+msgctxt "162658389-0-958"
+msgid "Veloth Ancestral Tomb"
+msgstr "벨로스 가문의 무덤 (Veloth Ancestral Tomb)"
+
+#: 70901198-0-914
+msgctxt "70901198-0-914"
+msgid "The ancient Nedes interred the dead of Skyreach within the massive chambers and passages beneath the city, both commoners and nobles alike."
+msgstr "고대 네드족은 스카이 리치의 사망자를 도시 지하의 거대 묘실이나 통로에 안장했지만 평민과 귀족으로 구분하지 않았습니다."
+
+#: 162658389-0-959
+msgctxt "162658389-0-959"
+msgid "Andrano Ancestral Tomb"
+msgstr "안드라노 가문의 무덤 (Andrano Ancestral Tomb)"
+
+#: 70901198-0-915
+msgctxt "70901198-0-915"
+msgid "This ancient Nedic temple, located in the depths of the Loth'Na Caverns, has been appropriated by agents of Regent Cassipia and the Scaled Court."
+msgstr "이 고대 네드 사원은 로스나 동굴속 중심부에 있는 섭정 카시피아의 스파이나 스케일 코트가 이곳을 사용해 왔다."
+
+#: 162658389-0-956
+msgctxt "162658389-0-956"
+msgid "Kaushtarari"
+msgstr "카우쉬타라리 (Kaushtarari)"
+
+#: 162658389-0-957
+msgctxt "162658389-0-957"
+msgid "Dreloth Ancestral Tomb"
+msgstr "드렐로스 가문의 무덤 (Dreloth Ancestral Tomb)"
+
+#: 70901198-0-913
+msgctxt "70901198-0-913"
+msgid "Whatever this colossal onyx shard may be, one thing is certain: it comes from somewhere beyond the bounds of Tamriel. And the fabric of Tamriel may not be strong enough to contain its power."
+msgstr "이 거대한 오닉스의 파편이 무엇이든 간에  한가지 분명한 것은 탐리엘 너머의 어딘가에서 옮겨졌다는 것입니다. 원래 탐리엘의 직물은 이 파편이 가진 힘을 견딜 만큼 강하진 않습니다."
+
+#: 162658389-0-954
+msgctxt "162658389-0-954"
+msgid "Galom Daeus"
+msgstr "가롬 데우스 (Galom Daeus)"
+
+#: 70901198-0-910
+msgctxt "70901198-0-910"
+msgid "The sewers beneath Elinhir were the greatest public work undertaken during the administration of Governor Pomptinus, who oversaw the region for the Second Empire from 1E 2820 to 2852."
+msgstr "엘린히어의 하수도는 폼프티누스 총독 통치하에서 행해졌던 가장 위대한 공공사업이었습니다. 총독은 제 2제국의 명을 받아 이곳을 제 1시대 2830년 부터 2852년까지 통치하였습니다."
+
+#: 162658389-0-955
+msgctxt "162658389-0-955"
+msgid "Mallapi Cave"
+msgstr "말라피 동굴 (Mallapi Cave)"
+
+#: 70901198-0-911
+msgctxt "70901198-0-911"
+msgid "The water swirling through the ancient structure and the darkness of the ruined depths hide a multitude of secrets within this forgotten Nedic temple."
+msgstr "고대 건축물 사이를 물이 넘실 넘실 흐르고, 폐허의 심원이 만드는 어둠이 이 잊혀진 네드의 사원에 존재하는 수 많은 비밀을 감추고 있습니다."

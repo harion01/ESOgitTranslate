@@ -1,0 +1,182 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-139308
+msgctxt "132143172-0-139308"
+msgid "Claim all facets of the selected type that touch your area of control, as well as matching facets directly adjacent.\n\nNew Effect: Dilation now claims ALL contiguous facets of the same type.\n\nConsumes 1 Magicka Charge."
+msgstr ""
+
+#: 198758357-0-139308
+msgctxt "198758357-0-139308"
+msgid "Dilation"
+msgstr ""
+
+#: 132143172-0-139309
+msgctxt "132143172-0-139309"
+msgid "Claim a line of facets, stretching out from your area of control.\n\nConsumes 1 Magicka Charge."
+msgstr ""
+
+#: 198758357-0-139309
+msgctxt "198758357-0-139309"
+msgid "Farsight"
+msgstr ""
+
+#: 132143172-0-139779
+msgctxt "132143172-0-139779"
+msgid "Grants you two additional turns of Scrying."
+msgstr ""
+
+#: 198758357-0-139779
+msgctxt "198758357-0-139779"
+msgid "Scrier's Patience"
+msgstr ""
+
+#: 132143172-0-139306
+msgctxt "132143172-0-139306"
+msgid "Unites a hexagonal cluster of facets in the Antiquarian's Eye, converting the symbols to match that of the central facet.\n\nNew Effect: The ability's range increases by one facet, creating a snowflake-like pattern.\n\nConsumes 1 Magicka Charge."
+msgstr ""
+
+#: 198758357-0-139306
+msgctxt "198758357-0-139306"
+msgid "Coalescence"
+msgstr ""
+
+#: 132143172-0-139307
+msgctxt "132143172-0-139307"
+msgid "Claim all facets of the selected type that touch your area of control, as well as matching facets directly adjacent.\n\nConsumes 1 Magicka Charge."
+msgstr ""
+
+#: 198758357-0-139307
+msgctxt "198758357-0-139307"
+msgid "Dilation"
+msgstr ""
+
+#: 132143172-0-139777
+msgctxt "132143172-0-139777"
+msgid "Start each Scrying attempt with an additional row of facets already claimed."
+msgstr ""
+
+#: 198758357-0-139777
+msgctxt "198758357-0-139777"
+msgid "Preemptive Power"
+msgstr ""
+
+#: 132143172-0-139942
+msgctxt "132143172-0-139942"
+msgid "Adds the selected contiguous group of facets to your area of control.\n\nConsumes 1 turn."
+msgstr ""
+
+#: 198758357-0-139942
+msgctxt "198758357-0-139942"
+msgid "Scry"
+msgstr ""
+
+#: 132143172-0-139778
+msgctxt "132143172-0-139778"
+msgid "Grants you an additional turn of Scrying."
+msgstr ""
+
+#: 198758357-0-139778
+msgctxt "198758357-0-139778"
+msgid "Scrier's Patience"
+msgstr ""
+
+#: 132143172-0-139305
+msgctxt "132143172-0-139305"
+msgid "Unites a hexagonal cluster of facets in the Antiquarian's Eye, converting the symbols to match that of the central facet.\n\nConsumes 1 Magicka Charge."
+msgstr ""
+
+#: 198758357-0-139305
+msgctxt "198758357-0-139305"
+msgid "Coalescence"
+msgstr ""
+
+#: 132143172-0-141018
+msgctxt "132143172-0-141018"
+msgid "Allows you to scry for Antiquities of up to Ultimate difficulty."
+msgstr ""
+
+#: 198758357-0-141018
+msgctxt "198758357-0-141018"
+msgid "Antiquarian Insight"
+msgstr ""
+
+#: 132143172-0-139775
+msgctxt "132143172-0-139775"
+msgid "Allows you to scry for Antiquities of up to Advanced difficulty."
+msgstr ""
+
+#: 198758357-0-139775
+msgctxt "198758357-0-139775"
+msgid "Antiquarian Insight"
+msgstr ""
+
+#: 132143172-0-139776
+msgctxt "132143172-0-139776"
+msgid "Allows you to scry for Antiquities of up to Master difficulty."
+msgstr ""
+
+#: 198758357-0-139776
+msgctxt "198758357-0-139776"
+msgid "Antiquarian Insight"
+msgstr ""
+
+#: 132143172-0-139773
+msgctxt "132143172-0-139773"
+msgid "Allows you to scry for Antiquities of up to Simple difficulty."
+msgstr ""
+
+#: 198758357-0-139773
+msgctxt "198758357-0-139773"
+msgid "Antiquarian Insight"
+msgstr ""
+
+#: 132143172-0-139774
+msgctxt "132143172-0-139774"
+msgid "Allows you to scry for Antiquities of up to Intermediate difficulty."
+msgstr ""
+
+#: 198758357-0-139774
+msgctxt "198758357-0-139774"
+msgid "Antiquarian Insight"
+msgstr ""
+
+#: 132143172-0-139321
+msgctxt "132143172-0-139321"
+msgid "Claim a line of facets, stretching out from your area of control.\n\nNew Effect: Range increased from 4 facets to 6.\n\nConsumes 1 Magicka Charge."
+msgstr ""
+
+#: 198758357-0-139321
+msgctxt "198758357-0-139321"
+msgid "Farsight"
+msgstr ""
+
+#: 132143172-0-139780
+msgctxt "132143172-0-139780"
+msgid "Grants you an additional Magicka Charge for use in Augury."
+msgstr ""
+
+#: 198758357-0-139780
+msgctxt "198758357-0-139780"
+msgid "Future Focus"
+msgstr ""
+
+#: 132143172-0-139781
+msgctxt "132143172-0-139781"
+msgid "Grants you two additional Magicka Charges for use in Augury."
+msgstr ""
+
+#: 198758357-0-139781
+msgctxt "198758357-0-139781"
+msgid "Future Focus"
+msgstr ""

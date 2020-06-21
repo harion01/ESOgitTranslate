@@ -11,244 +11,10 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-45029
-msgctxt "132143172-0-45029"
-msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the cost of your Stamina Poison abilities by <<2>>."
-msgstr "炎の範囲効果アビリティダメージを<<1>>増加させる。\r\n\r\n毒アビリティのスタミナ消費を<<2>>減少させる。"
-
-#: 198758357-0-45029
-msgctxt "198758357-0-45029"
-msgid "World in Ruin"
-msgstr "滅びの世界"
-
-#: 132143172-0-45023
-msgctxt "132143172-0-45023"
-msgid "Increases the damage over time of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>> and the duration by <<2>>."
-msgstr "灼熱の息吹、焼けつく一撃、竜騎士団旗アビリティによる継続ダメージを<<1>>増大し、持続時間を<<2>>延長する。"
-
-#: 198758357-0-45023
-msgctxt "198758357-0-45023"
-msgid "Searing Heat"
-msgstr "焼け付く熱波"
-
-#: 132143172-0-45012
-msgctxt "132143172-0-45012"
-msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
-msgstr "熾烈なる炎アビリティで直接ダメージを与えると、敵の移動速度を<<1>>、<<2>>の間低下させる。"
-
-#: 198758357-0-45012
-msgctxt "198758357-0-45012"
-msgid "Warmth"
-msgstr "熱気"
-
-#: 132143172-0-45011
-msgctxt "132143172-0-45011"
-msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
-msgstr "炎上と毒ステータス効果のダメージが<<1>>増加する。\r\n\r\n敵を炎上させると、マジカを<<2>>回復する。敵に毒を与えると、スタミナを<<3>>回復する。"
-
-#: 198758357-0-45011
-msgctxt "198758357-0-45011"
-msgid "Combustion"
-msgstr "燃焼"
-
-#: 132143172-0-32958
-msgctxt "132143172-0-32958"
-msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nActivating this ability again allows you to move the standard to your location.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
-msgstr "軍旗を呼び出し、敵に<<1>>を<<2>>ごとに<<3>>の間与える。さらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。\r\n\r\nこのアビリティを再び発動すると、軍旗を自分の場所に移動できる。\r\n\r\n軍旗の近くの味方は|cffffff足かせ|rシナジーを発動して、周囲の敵に<<5>>を与え、<<6>>の間移動不能にする。"
-
-#: 198758357-0-32958
-msgctxt "198758357-0-32958"
-msgid "Shifting Standard"
-msgstr "転移の軍旗"
-
-#: 132143172-0-32947
-msgctxt "132143172-0-32947"
-msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nStanding in the area increases your damage done and reduces damage taken by <<5>>.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<6>> to enemies in the area and immobilizing them for <<7>>."
-msgstr "軍旗を呼び出し、敵に<<1>>を<<2>>ごとに<<3>>の間与える。さらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。\r\n\r\n周囲にいると<<5>>だけ与ダメージが増加し、被ダメージが減少する\r\n\r\n軍旗の近くの味方は|cffffff足かせ|rシナジーを発動して、周囲の敵に<<6>>を与え、<<7>>の間移動不能にする。"
-
-#: 198758357-0-32947
-msgctxt "198758357-0-32947"
-msgid "Standard of Might"
-msgstr "力の軍旗"
-
-#: 132143172-0-32881
-msgctxt "132143172-0-32881"
-msgid "Activate an aura of flames which launches a fireball at yourself or an ally to cauterize their wounds every <<1>>, healing them for <<2>> Health.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "炎のオーラを身にまとう。自身か近くの味方にファイアボールを放ち、<<1>>毎に傷を焼いて体力を<<2>>回復する。\r\n\r\nスロットに装備している間、予言(強)が付与され呪文クリティカルが<<3>>上昇する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-32881
-msgctxt "198758357-0-32881"
-msgid "Cauterize"
-msgstr "焼灼"
-
-#: 132143172-0-32853
-msgctxt "132143172-0-32853"
-msgid "Activate an aura of flames which launches a fireball at |cffffff2|r enemies every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical ratings by <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "炎のオーラを身にまとう。ファイアボールを|cffffff2|r体の敵へ<<1>>ごとに放ち、<<2>>を与える。\r\n\r\nスロットに装備している間、予言(強)と獰猛(強)を得て呪文と武器クリティカルを<<3>>上昇する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-32853
-msgctxt "198758357-0-32853"
-msgid "Flames of Oblivion"
-msgstr "オブリビオンの炎"
-
-#: 132143172-0-29451
-msgctxt "132143172-0-29451"
-msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the Stamina cost of your Poison abilities by <<2>>."
-msgstr "炎の範囲効果アビリティダメージを<<1>>増加させる。\r\n\r\n毒アビリティのスタミナ消費を<<2>>減少させる。"
-
-#: 198758357-0-29451
-msgctxt "198758357-0-29451"
-msgid "World in Ruin"
-msgstr "滅びの世界"
-
-#: 132143172-0-29439
-msgctxt "132143172-0-29439"
-msgid "Increases the duration of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>>."
-msgstr "灼熱の息吹、焼けつく一撃、竜騎士団旗のアビリティ持続時間が<<1>>延長される。"
-
-#: 198758357-0-29439
-msgctxt "198758357-0-29439"
-msgid "Searing Heat"
-msgstr "焼け付く熱波"
-
-#: 132143172-0-29430
-msgctxt "132143172-0-29430"
-msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
-msgstr "熾烈なる炎アビリティで直接ダメージを与えると、敵の移動速度を<<1>>、<<2>>の間低下させる。"
-
-#: 198758357-0-29430
-msgctxt "198758357-0-29430"
-msgid "Warmth"
-msgstr "熱気"
-
-#: 132143172-0-29424
-msgctxt "132143172-0-29424"
-msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
-msgstr "炎上と毒ステータス効果のダメージが<<1>>増加する。\r\n\r\n敵を炎上させると、マジカを<<2>>回復する。敵に毒を与えると、スタミナを<<3>>回復する。"
-
-#: 198758357-0-29424
-msgctxt "198758357-0-29424"
-msgid "Combustion"
-msgstr "燃焼"
-
-#: 132143172-0-28988
-msgctxt "132143172-0-28988"
-msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
-msgstr "軍旗を呼び出し、敵に<<1>>を<<2>>ごとに<<3>>の間与える。さらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。\r\n\r\n軍旗の近くの味方は|cffffff足かせ|rシナジーを発動して、周囲の敵に<<5>>を与え、<<6>>の間移動不能にする。"
-
-#: 198758357-0-28988
-msgctxt "198758357-0-28988"
-msgid "Dragonknight Standard"
-msgstr "竜騎士団旗"
-
-#: 132143172-0-28967
-msgctxt "132143172-0-28967"
-msgid "Activate an aura of flames which launches a fireball at the nearest enemy every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "炎のオーラを身にまとう。近くの敵にファイアボールを放ち、<<1>>ごとに<<2>>を与える。\r\n\r\nスロットに装備している間、予言(強)が付与され呪文クリティカルが<<3>>上昇する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
-
-#: 198758357-0-28967
-msgctxt "198758357-0-28967"
-msgid "Inferno"
-msgstr "業火"
-
-#: 132143172-0-23806
-msgctxt "132143172-0-23806"
-msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance."
-msgstr "炎の鞭で敵を打ち付けて<<1>>を与える。\r\n\r\n敵が移動不能か気絶していた場合、フラフラ状態にする。"
-
-#: 198758357-0-23806
-msgctxt "198758357-0-23806"
-msgid "Lava Whip"
-msgstr "溶岩のムチ"
-
-#: 132143172-0-20944
-msgctxt "132143172-0-20944"
-msgid "Exhale a corrosive blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAfflicts enemies with Major Fracture, reducing their Physical Resistance by <<4>>."
-msgstr "目の前にいる敵に腐食性の息を吹き出し、<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。\r\n\r\n破砕(強)の影響を敵に与え、物理耐性を<<4>>低下させる。"
-
-#: 198758357-0-20944
-msgctxt "198758357-0-20944"
-msgid "Noxious Breath"
-msgstr "ノクシャスブレス"
-
-#: 132143172-0-20930
-msgctxt "132143172-0-20930"
-msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAffected enemies take more damage from all Flame Damage attacks based on your offensive stats, with a maximum of |cffffff10|r% bonus damage taken.\n\nCurrent value <<4>>."
-msgstr "目の前にいる敵に炎を吹き出し、<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。\r\n\r\nこの攻撃を受けた敵は、あらゆる炎ダメージからあなたの攻撃能力に応じた追加ダメージを受ける。最大|cffffff10|r%までボーナスが適用される。\r\n\r\n現在の値: <<4>>"
-
-#: 198758357-0-20930
-msgctxt "198758357-0-20930"
-msgid "Engulfing Flames"
-msgstr "飲み干す炎"
-
-#: 132143172-0-20917
-msgctxt "132143172-0-20917"
-msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>."
-msgstr "目の前にいる敵に炎を吹き出し、<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。"
-
-#: 198758357-0-20917
-msgctxt "198758357-0-20917"
-msgid "Fiery Breath"
-msgstr "灼熱の息吹"
-
-#: 132143172-0-20816
-#, fuzzy
-msgctxt "132143172-0-20816"
-msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobilized or stunned, you set them Off Balance.\n\nTargeting an Off Balance or immobilized enemy changes this ability into <<2>>, allowing you to lash an enemy at half cost to deal <<3>> and heal you for <<4>> Health over <<5>>.  This effect can occur once every <<6>>."
-msgstr "炎の鞭で敵を打ち付けて<<1>>を与える。\r\n\r\n敵が移動不能か気絶していた場合、フラフラ状態にする。\r\n\r\nフラフラ状態か移動不能の敵を標的にするとこのアビリティは<<2>>になり、半分のコストで<<3>>を与え、さらに<<4>>を<<5>>の間回復する。この効果は<<6>>ごとに発動する。"
-
-#: 198758357-0-20816
-msgctxt "198758357-0-20816"
-msgid "Flame Lash"
-msgstr "炎の鞭打"
-
-#: 132143172-0-20805
-msgctxt "132143172-0-20805"
-msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance.\n\nWhile slotted, whenever you activate a different Ardent Flame ability, you gain a stack of Seething Fury, which increases the damage of your next Molten Whip by |cffffff33|r% and your Weapon and Spell Damage by <<2>> for 5 seconds.  This effect can stack up to 3 times."
-msgstr "炎の鞭で敵を打ち付けて<<1>>を与える。\r\n\r\n敵が移動不能か気絶していた場合、フラフラ状態にする。\r\n\r\nスロットに装備中、異なる熾烈なる炎アビリティを発動するたびに煮えたぎる激昂が累積し、次の融解のムチのダメージが|cffffff33|r%上昇し、武器ダメージと呪文ダメージが<<2>>、5秒間上昇する。この効果は3回まで累積する。"
-
-#: 198758357-0-20805
-msgctxt "198758357-0-20805"
-msgid "Molten Whip"
-msgstr "融解のムチ"
-
-#: 132143172-0-20668
-#, fuzzy
-msgctxt "132143172-0-20668"
-msgid "Rake an enemy with your claw, dealing <<1>> and an additional <<2>> over <<3>>.\n\nThe poison seeps into the target and deals increased damage the longer it lasts, dealing <<4>> more damage every <<5>>.\n\nEnemies hit by the initial hit are afflicted with the Poisoned status effect."
-msgstr "敵を爪で引っかき、<<1>>を与えてさらに追加で<<2>>を<<3>>の間与える。\r\n\r\n毒がターゲットに浸み込み、効果時間中はダメージを増加させる。<<4>>ダメージを<<5>>ごとに加える。\r\n\r\n最初の一撃が命中した敵は、毒のステータス効果を受ける。"
-
-#: 198758357-0-20668
-msgctxt "198758357-0-20668"
-msgid "Venomous Claw"
-msgstr "毒の爪"
-
-#: 132143172-0-20660
-#, fuzzy
-msgctxt "132143172-0-20660"
-msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>. \n\nHeals you for <<4>>% of the total damage inflicted when the effect ends.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
-msgstr "炎で敵を切りつけて<<1>>を与え、追加で<<2>>を<<3>>の間与える。\r\n\r\n効果が切れると、与えた総ダメージの<<4>>%分の体力が回復する。\r\n\r\n最初の一撃が命中した敵は、炎上のステータス効果を受ける。"
-
-#: 198758357-0-20660
-msgctxt "198758357-0-20660"
-msgid "Burning Embers"
-msgstr "残火"
-
-#: 132143172-0-20657
-#, fuzzy
-msgctxt "132143172-0-20657"
-msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
-msgstr "炎で敵を切りつけて<<1>>を与え、追加で<<2>>を<<3>>の間与える。\r\n\r\n最初の一撃が命中した敵は、炎上のステータス効果を受ける。"
-
-#: 198758357-0-20657
-msgctxt "198758357-0-20657"
-msgid "Searing Strike"
-msgstr "焼けつく一撃"
-
 #: 132143172-0-20499
 msgctxt "132143172-0-20499"
-msgid "Launch a fiery chain to grasp and pull you to an enemy, dealing <<1>> and granting you |cFFFFFF2|r uses of Empower, increasing the damage of your next |cFFFFFF2|r Light Attacks by <<2>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<3>> for <<4>>.\n\nThis attack cannot be dodged or reflected."
-msgstr "火の鎖を射出して、使用者を敵に引き寄せて<<1>>を与える。使用者には強化が|cFFFFFF2|r付与され、次の|cFFFFFF2|r回の軽攻撃時に与えるダメージが<<2>>上昇する。\r\n\r\n迅速(強)が付与され、移動速度が<<3>>、<<4>>の間上昇する。\r\n\r\nこの攻撃は回避/反射できない。"
+msgid "Launch a fiery chain to grasp and pull you to an enemy, dealing <<1>> and granting you Empower for <<2>>, increasing the damage of your next Light Attack by <<3>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<4>> for <<5>>.\n\nThis attack cannot be dodged or reflected."
+msgstr "火の鎖を射出して、使用者を敵に引き寄せて<<1>>を与える。使用者には強化が<<2>>の間付与され、次の軽攻撃が与えるダメージが<<3>>上昇する。\r\n\r\n迅速(強)が付与され、移動速度が<<4>>、<<5>>の間上昇する。\r\n\r\nこの攻撃は回避/反射できない。"
 
 #: 198758357-0-20499
 msgctxt "198758357-0-20499"
@@ -265,6 +31,76 @@ msgctxt "198758357-0-20496"
 msgid "Unrelenting Grip"
 msgstr "不屈の捕縛"
 
+#: 132143172-0-45012
+msgctxt "132143172-0-45012"
+msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr "熾烈なる炎アビリティで直接ダメージを与えると、敵の移動速度を<<1>>、<<2>>の間低下させる。"
+
+#: 198758357-0-45012
+msgctxt "198758357-0-45012"
+msgid "Warmth"
+msgstr "熱気"
+
+#: 132143172-0-23806
+msgctxt "132143172-0-23806"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance."
+msgstr "炎の鞭で敵を打ち付けて<<1>>を与える。\r\n\r\n敵が移動不能か気絶していた場合、フラフラ状態にする。"
+
+#: 198758357-0-23806
+msgctxt "198758357-0-23806"
+msgid "Lava Whip"
+msgstr "溶岩のムチ"
+
+#: 132143172-0-20816
+msgctxt "132143172-0-20816"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobilized or stunned, you set them Off Balance.\n\nTargeting an Off Balance or immobilized enemy changes this ability into <<2>>, allowing you to lash an enemy at half cost to deal <<3>> and heal you for <<4>> Health over <<5>>.  This effect can occur once every <<6>>."
+msgstr "炎の鞭で敵を打ち付けて<<1>>を与える。\r\n\r\n敵が移動不能か気絶していた場合、フラフラ状態にする。\r\n\r\nフラフラ状態か移動不能の敵を標的にするとこのアビリティは<<2>>になり、半分のコストで<<3>>を与え、さらに<<4>>を<<5>>の間回復する。この効果は<<6>>ごとに発動する。"
+
+#: 198758357-0-20816
+msgctxt "198758357-0-20816"
+msgid "Flame Lash"
+msgstr "炎の鞭打"
+
+#: 132143172-0-20657
+msgctxt "132143172-0-20657"
+msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
+msgstr "炎で敵を切りつけて<<1>>を与え、追加で<<2>>を<<3>>の間与える。\r\n\r\n最初の一撃が命中した敵は、炎上のステータス効果を受ける。"
+
+#: 198758357-0-20657
+msgctxt "198758357-0-20657"
+msgid "Searing Strike"
+msgstr "焼けつく一撃"
+
+#: 132143172-0-20930
+msgctxt "132143172-0-20930"
+msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAffected enemies take more damage from all Flame Damage attacks based on your offensive stats, with a maximum of |cffffff10|r% bonus damage taken.\n\nCurrent value <<4>>."
+msgstr "目の前にいる敵に炎を吹き出し、<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。\r\n\r\nこの攻撃を受けた敵は、あらゆる炎ダメージからあなたの攻撃能力に応じた追加ダメージを受ける。最大|cffffff10|r%までボーナスが適用される。\r\n\r\n現在の値: <<4>>"
+
+#: 198758357-0-20930
+msgctxt "198758357-0-20930"
+msgid "Engulfing Flames"
+msgstr "飲み干す炎"
+
+#: 132143172-0-32881
+msgctxt "132143172-0-32881"
+msgid "Activate an aura of flames which launches a fireball at yourself or an ally to cauterize their wounds every <<1>>, healing them for <<2>> Health.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "炎のオーラを身にまとう。自身か近くの味方にファイアボールを放ち、<<1>>毎に傷を焼いて体力を<<2>>回復する。\r\n\r\nスロットに装備している間、予言(強)が付与され呪文クリティカルが<<3>>上昇する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-32881
+msgctxt "198758357-0-32881"
+msgid "Cauterize"
+msgstr "焼灼"
+
+#: 132143172-0-29424
+msgctxt "132143172-0-29424"
+msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
+msgstr "炎上と毒ステータス効果のダメージが<<1>>増加する。\r\n\r\n敵を炎上させると、マジカを<<2>>回復する。敵に毒を与えると、スタミナを<<3>>回復する。"
+
+#: 198758357-0-29424
+msgctxt "198758357-0-29424"
+msgid "Combustion"
+msgstr "燃焼"
+
 #: 132143172-0-20492
 msgctxt "132143172-0-20492"
 msgid "Launch a fiery chain to grasp and pull an enemy to you, dealing <<1>>.\n\nGrants Major Expedition, increasing your Movement Speed by <<2>> for <<3>>.\n\nThis attack cannot be dodged or reflected."
@@ -274,3 +110,163 @@ msgstr "火の鎖を射出し、敵を引き寄せて<<1>>を与える。\r\n\r\
 msgctxt "198758357-0-20492"
 msgid "Fiery Grip"
 msgstr "火の捕縛"
+
+#: 132143172-0-45011
+msgctxt "132143172-0-45011"
+msgid "Increases the damage of your Burning and Poisoned status effects by <<1>>.\n\nWhen you apply Burning to an enemy, you restore <<2>> Magicka. When you apply Poisoned to an enemy, you restore <<3>> Stamina."
+msgstr "炎上と毒ステータス効果のダメージが<<1>>増加する。\r\n\r\n敵を炎上させると、マジカを<<2>>回復する。敵に毒を与えると、スタミナを<<3>>回復する。"
+
+#: 198758357-0-45011
+msgctxt "198758357-0-45011"
+msgid "Combustion"
+msgstr "燃焼"
+
+#: 132143172-0-32947
+msgctxt "132143172-0-32947"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nStanding in the area increases your damage done and reduces damage taken by <<5>>.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<6>> to enemies in the area and immobilizing them for <<7>>."
+msgstr "軍旗を呼び出し、敵に<<1>>を<<2>>ごとに<<3>>の間与える。さらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。\r\n\r\n周囲にいると<<5>>だけ与ダメージが増加し、被ダメージが減少する\r\n\r\n軍旗の近くの味方は|cffffff足かせ|rシナジーを発動して、周囲の敵に<<6>>を与え、<<7>>の間移動不能にする。"
+
+#: 198758357-0-32947
+msgctxt "198758357-0-32947"
+msgid "Standard of Might"
+msgstr "力の軍旗"
+
+#: 132143172-0-45029
+msgctxt "132143172-0-45029"
+msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the cost of your Stamina Poison abilities by <<2>>."
+msgstr "炎の範囲効果アビリティダメージを<<1>>増加させる。\r\n\r\n毒アビリティのスタミナ消費を<<2>>減少させる。"
+
+#: 198758357-0-45029
+msgctxt "198758357-0-45029"
+msgid "World in Ruin"
+msgstr "滅びの世界"
+
+#: 132143172-0-20660
+msgctxt "132143172-0-20660"
+msgid "Slash an enemy with flame, dealing <<1>> and an additional <<2>> over <<3>>. \n\nHeals you for <<4>>% of the total damage inflicted when the effect ends.\n\nEnemies hit by the initial hit are afflicted with the Burning status effect."
+msgstr "炎で敵を切りつけて<<1>>を与え、追加で<<2>>を<<3>>の間与える。\r\n\r\n効果が切れると、与えた総ダメージの<<4>>%分の体力が回復する。\r\n\r\n最初の一撃が命中した敵は、炎上のステータス効果を受ける。"
+
+#: 198758357-0-20660
+msgctxt "198758357-0-20660"
+msgid "Burning Embers"
+msgstr "残火"
+
+#: 132143172-0-45023
+msgctxt "132143172-0-45023"
+msgid "Increases the damage over time of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>> and the duration by <<2>>."
+msgstr "灼熱の息吹、焼けつく一撃、竜騎士団旗アビリティによる継続ダメージを<<1>>増大し、持続時間を<<2>>延長する。"
+
+#: 198758357-0-45023
+msgctxt "198758357-0-45023"
+msgid "Searing Heat"
+msgstr "焼け付く熱波"
+
+#: 132143172-0-29439
+msgctxt "132143172-0-29439"
+msgid "Increases the duration of your Fiery Breath, Searing Strike, and Dragonknight Standard abilities by <<1>>."
+msgstr "灼熱の息吹、焼けつく一撃、竜騎士団旗のアビリティ持続時間が<<1>>延長される。"
+
+#: 198758357-0-29439
+msgctxt "198758357-0-29439"
+msgid "Searing Heat"
+msgstr "焼け付く熱波"
+
+#: 132143172-0-20805
+msgctxt "132143172-0-20805"
+msgid "Lash an enemy with flame, dealing <<1>>.\n\nIf you strike an enemy that is immobile or stunned, you set them Off Balance.\n\nWhile slotted, whenever you activate a different Ardent Flame ability, you gain a stack of Seething Fury, which increases the damage of your next Molten Whip by |cffffff33|r% and your Weapon and Spell Damage by <<2>> for 5 seconds.  This effect can stack up to 3 times."
+msgstr "炎の鞭で敵を打ち付けて<<1>>を与える。\r\n\r\n敵が移動不能か気絶していた場合、フラフラ状態にする。\r\n\r\nスロットに装備中、異なる熾烈なる炎アビリティを発動するたびに煮えたぎる激昂が累積し、次の融解のムチのダメージが|cffffff33|r%上昇し、武器ダメージと呪文ダメージが<<2>>、5秒間上昇する。この効果は3回まで累積する。"
+
+#: 198758357-0-20805
+msgctxt "198758357-0-20805"
+msgid "Molten Whip"
+msgstr "融解のムチ"
+
+#: 132143172-0-28988
+msgctxt "132143172-0-28988"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
+msgstr "軍旗を呼び出し、敵に<<1>>を<<2>>ごとに<<3>>の間与える。さらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。\r\n\r\n軍旗の近くの味方は|cffffff足かせ|rシナジーを発動して、周囲の敵に<<5>>を与え、<<6>>の間移動不能にする。"
+
+#: 198758357-0-28988
+msgctxt "198758357-0-28988"
+msgid "Dragonknight Standard"
+msgstr "竜騎士団旗"
+
+#: 132143172-0-20944
+msgctxt "132143172-0-20944"
+msgid "Exhale a corrosive blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>. \n\nAfflicts enemies with Major Fracture, reducing their Physical Resistance by <<4>>."
+msgstr "目の前にいる敵に腐食性の息を吹き出し、<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。\r\n\r\n破砕(強)の影響を敵に与え、物理耐性を<<4>>低下させる。"
+
+#: 198758357-0-20944
+msgctxt "198758357-0-20944"
+msgid "Noxious Breath"
+msgstr "ノクシャスブレス"
+
+#: 132143172-0-20668
+msgctxt "132143172-0-20668"
+msgid "Rake an enemy with your claw, dealing <<1>> and an additional <<2>> over <<3>>.\n\nThe poison seeps into the target and deals increased damage the longer it lasts, dealing <<4>> more damage every <<5>>.\n\nEnemies hit by the initial hit are afflicted with the Poisoned status effect."
+msgstr "敵を爪で引っかき、<<1>>を与えてさらに追加で<<2>>を<<3>>の間与える。\r\n\r\n毒がターゲットに浸み込み、効果時間中はダメージを増加させる。<<4>>ダメージを<<5>>ごとに加える。\r\n\r\n最初の一撃が命中した敵は、毒のステータス効果を受ける。"
+
+#: 198758357-0-20668
+msgctxt "198758357-0-20668"
+msgid "Venomous Claw"
+msgstr "毒の爪"
+
+#: 132143172-0-28967
+msgctxt "132143172-0-28967"
+msgid "Activate an aura of flames which launches a fireball at the nearest enemy every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy, increasing your Spell Critical rating by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "炎のオーラを身にまとう。近くの敵にファイアボールを放ち、<<1>>ごとに<<2>>を与える。\r\n\r\nスロットに装備している間、予言(強)が付与され呪文クリティカルが<<3>>上昇する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-28967
+msgctxt "198758357-0-28967"
+msgid "Inferno"
+msgstr "業火"
+
+#: 132143172-0-32853
+msgctxt "132143172-0-32853"
+msgid "Activate an aura of flames which launches a fireball at |cffffff2|r enemies every <<1>>, dealing <<2>>.\n\nWhile slotted, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical ratings by <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "炎のオーラを身にまとう。ファイアボールを|cffffff2|r体の敵へ<<1>>ごとに放ち、<<2>>を与える。\r\n\r\nスロットに装備している間、予言(強)と獰猛(強)を得て呪文と武器クリティカルを<<3>>上昇する。\r\n\r\n効果は最も高い攻撃能力に応じて変動する。"
+
+#: 198758357-0-32853
+msgctxt "198758357-0-32853"
+msgid "Flames of Oblivion"
+msgstr "オブリビオンの炎"
+
+#: 132143172-0-29430
+msgctxt "132143172-0-29430"
+msgid "When you deal direct damage with an Ardent Flame ability, you reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr "熾烈なる炎アビリティで直接ダメージを与えると、敵の移動速度を<<1>>、<<2>>の間低下させる。"
+
+#: 198758357-0-29430
+msgctxt "198758357-0-29430"
+msgid "Warmth"
+msgstr "熱気"
+
+#: 132143172-0-29451
+msgctxt "132143172-0-29451"
+msgid "Increases the damage of your Flame area of effect abilities by <<1>>.\n\nDecreases the Stamina cost of your Poison abilities by <<2>>."
+msgstr "炎の範囲効果アビリティダメージを<<1>>増加させる。\r\n\r\n毒アビリティのスタミナ消費を<<2>>減少させる。"
+
+#: 198758357-0-29451
+msgctxt "198758357-0-29451"
+msgid "World in Ruin"
+msgstr "滅びの世界"
+
+#: 132143172-0-20917
+msgctxt "132143172-0-20917"
+msgid "Exhale a flaming blast to enemies in front of you, dealing <<1>> and an additional <<2>> over <<3>>."
+msgstr "目の前にいる敵に炎を吹き出し、<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。"
+
+#: 198758357-0-20917
+msgctxt "198758357-0-20917"
+msgid "Fiery Breath"
+msgstr "灼熱の息吹"
+
+#: 132143172-0-32958
+msgctxt "132143172-0-32958"
+msgid "Call down a battle standard, dealing <<1>> every <<2>> for <<3>> to enemies and applying Major Defile to them, reducing their healing received and Health Recovery by <<4>>. \n\nActivating this ability again allows you to move the standard to your location.\n\nAn ally near the standard can activate the |cffffffShackle|r synergy, dealing <<5>> to enemies in the area and immobilizing them for <<6>>."
+msgstr "軍旗を呼び出し、敵に<<1>>を<<2>>ごとに<<3>>の間与える。さらに汚染(強)を付与し、その敵の被回復力と体力再生を<<4>>低下させる。\r\n\r\nこのアビリティを再び発動すると、軍旗を自分の場所に移動できる。\r\n\r\n軍旗の近くの味方は|cffffff足かせ|rシナジーを発動して、周囲の敵に<<5>>を与え、<<6>>の間移動不能にする。"
+
+#: 198758357-0-32958
+msgctxt "198758357-0-32958"
+msgid "Shifting Standard"
+msgstr "転移の軍旗"

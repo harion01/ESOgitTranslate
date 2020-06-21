@@ -11,25 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-135150
-msgctxt "228378404-0-135150"
-msgid "Improve quality from purple to gold."
-msgstr "등급을 보라색에서 금색으로 상승시킵니다."
+#: 228378404-0-135147
+msgctxt "228378404-0-135147"
+msgid "Improve quality from white to green."
+msgstr "등급을 하얀색에서 녹색으로 상승시킵니다."
 
-#: 242841733-0-135150
-msgctxt "242841733-0-135150"
-msgid "Chromium Plating"
-msgstr "도금용 크롬 (Chromium Plating)"
-
-#: 228378404-0-135149
-msgctxt "228378404-0-135149"
-msgid "Improve quality from blue to purple."
-msgstr "등급을 파란색에서 보라색으로 상승시킵니다."
-
-#: 242841733-0-135149
-msgctxt "242841733-0-135149"
-msgid "Zircon Plating"
-msgstr "도금용 지르콘 (Zircon Plating)"
+#: 242841733-0-135147
+msgctxt "242841733-0-135147"
+msgid "Terne Plating"
+msgstr "도금용 턴 합금(Terne Plating)"
 
 #: 228378404-0-135148
 msgctxt "228378404-0-135148"
@@ -39,14 +29,24 @@ msgstr "등급을 녹색에서 파란색으로 상승시킵니다."
 #: 242841733-0-135148
 msgctxt "242841733-0-135148"
 msgid "Iridium Plating"
-msgstr "도금용 이리듐 (Iridium Plating)"
+msgstr "도금용 이리듐(Iridium Plating)"
 
-#: 228378404-0-135147
-msgctxt "228378404-0-135147"
-msgid "Improve quality from white to green."
-msgstr "등급을 하얀색에서 녹색으로 상승시킵니다."
+#: 228378404-0-135149
+msgctxt "228378404-0-135149"
+msgid "Improve quality from blue to purple."
+msgstr "등급을 파란색에서 보라색으로 상승시킵니다."
 
-#: 242841733-0-135147
-msgctxt "242841733-0-135147"
-msgid "Terne Plating"
-msgstr "도금용 턴 합금 (Terne Plating)"
+#: 242841733-0-135149
+msgctxt "242841733-0-135149"
+msgid "Zircon Plating"
+msgstr "도금용 지르콘(Zircon Plating)"
+
+#: 228378404-0-135150
+msgctxt "228378404-0-135150"
+msgid "Improve quality from purple to gold."
+msgstr "등급을 보라색에서 금색으로 상승시킵니다."
+
+#: 242841733-0-135150
+msgctxt "242841733-0-135150"
+msgid "Chromium Plating"
+msgstr "도금용 크롬(Chromium Plating)"

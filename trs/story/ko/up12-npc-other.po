@@ -11,8 +11,53 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 51188660-3-693
-msgctxt "51188660-3-693"
+#: 51188660-0-1015
+msgctxt "51188660-0-1015"
+msgid "<<1>>"
+msgstr ""
+
+#: 51188660-0-1014
+msgctxt "51188660-0-1014"
+msgid "<<1>>"
+msgstr ""
+
+#: 51188660-0-1013
+msgctxt "51188660-0-1013"
+msgid "Travel to Abah's Landing"
+msgstr "아바스랜딩으로 여행하기"
+
+#: 51188660-0-1012
+msgctxt "51188660-0-1012"
+msgid "Travel to Abah's Landing"
+msgstr "아바스랜딩으로 여행하기"
+
+#: 51188660-0-1018
+msgctxt "51188660-0-1018"
+msgid "Travel to Daggerfall"
+msgstr "대거폴로 이동."
+
+#: 51188660-0-1017
+msgctxt "51188660-0-1017"
+msgid "<<1>>"
+msgstr ""
+
+#: 51188660-0-1016
+msgctxt "51188660-0-1016"
+msgid "<<1>>"
+msgstr ""
+
+#: 51188660-0-1011
+msgctxt "51188660-0-1011"
+msgid "Travel to Abah's Landing"
+msgstr "아바스랜딩으로 여행하기"
+
+#: 51188660-0-1010
+msgctxt "51188660-0-1010"
+msgid "Travel to Windhelm"
+msgstr "윈드헬름(Windhelm)으로 여행하기"
+
+#: 51188660-3-691
+msgctxt "51188660-3-691"
 msgid "<<1>>"
 msgstr ""
 
@@ -21,70 +66,50 @@ msgctxt "51188660-3-692"
 msgid "<<1>>"
 msgstr ""
 
-#: 51188660-3-691
-msgctxt "51188660-3-691"
+#: 51188660-3-693
+msgctxt "51188660-3-693"
 msgid "<<1>>"
 msgstr ""
 
-#: 51188660-2-1014
-msgctxt "51188660-2-1014"
-msgid "<<1>>"
-msgstr ""
+#: 51188660-0-1004
+msgctxt "51188660-0-1004"
+msgid "Travel to Vulkhel Guard"
+msgstr "벌켈 가드(Vulkhel Guard)로 여행하기"
 
-#: 51188660-1-1014
-msgctxt "51188660-1-1014"
-msgid "<<1>>"
-msgstr ""
+#: 51188660-0-1003
+msgctxt "51188660-0-1003"
+msgid "Travel to Davon's Watch"
+msgstr "다본의 감시대(Davon's Watch)로 여행하기"
 
-#: 51188660-0-999
-msgctxt "51188660-0-999"
-msgid "Travel to Daggerfall"
-msgstr "대거폴로 이동."
+#: 51188660-0-1002
+msgctxt "51188660-0-1002"
+msgid "Travel to Vulkhel Guard"
+msgstr "벌켈 가드(Vulkhel Guard)로 여행하기"
 
-#: 51188660-0-996
-msgctxt "51188660-0-996"
-msgid "<<1>>\nPassage to Auridon"
-msgstr "<<1>>\n아우리돈으로 가는 길"
+#: 51188660-0-1001
+msgctxt "51188660-0-1001"
+msgid "Travel to Davon's Watch"
+msgstr "다본의 감시대(Davon's Watch)로 여행하기"
 
-#: 51188660-0-995
-msgctxt "51188660-0-995"
-msgid "<<1>>\nPassage to Wayrest"
-msgstr "<<1>>\n웨이레스트로 가는 길"
+#: 51188660-0-1007
+msgctxt "51188660-0-1007"
+msgid "Travel to the Gold Coast"
+msgstr "골드 코스트로 이동하기"
 
-#: 51188660-0-994
-msgctxt "51188660-0-994"
-msgid "<<1>>\nTravel to Alik'r Desert"
-msgstr "<<1>>\n알리키어 사막으로 여행"
+#: 51188660-0-1006
+msgctxt "51188660-0-1006"
+msgid "Travel to the Gold Coast"
+msgstr "골드 코스트로 이동하기"
 
-#: 51188660-0-993
-msgctxt "51188660-0-993"
-msgid "<<1>>\nPassage to Shadowfen."
-msgstr "<<1>>\n쉐도우팬로 가는 길"
+#: 51188660-0-1005
+msgctxt "51188660-0-1005"
+msgid "Travel to the Gold Coast"
+msgstr "골드 코스트로 이동하기"
 
-#: 51188660-0-992
-msgctxt "51188660-0-992"
-msgid "<<1>>\nPassage to Eastmarch"
-msgstr "<<1>>\n이스트마치로 가는 길"
-
-#: 191999749-0-30816
-msgctxt "191999749-0-30816"
-msgid "Tasty-Legs"
-msgstr "맛있는 다리"
-
-#: 33425332-0-1437
-msgctxt "33425332-0-1437"
-msgid "Customer Appreciation"
-msgstr "고객 감사"
-
-#: 33425332-0-1436
-msgctxt "33425332-0-1436"
-msgid "Customer Appreciation"
-msgstr "고객 감사"
-
-#: 33425332-0-1435
-msgctxt "33425332-0-1435"
-msgid "Customer Appreciation"
-msgstr "고객 감사"
+#: 51188660-0-1000
+msgctxt "51188660-0-1000"
+msgid "Travel to Vulkhel Guard"
+msgstr "벌켈 가드(Vulkhel Guard)로 여행하기"
 
 #: 51188660-0-1037
 msgctxt "51188660-0-1037"
@@ -108,6 +133,21 @@ msgstr "<<1>>\n스톰헤븐과 아리클사막으로 이동 \n동맹을 넘어 �
 msgctxt "51188660-0-1034"
 msgid "<<1>>\nTravel to Stormhaven and Bangkorai\nTravel cross-Alliance to Auridon and Stonefalls"
 msgstr "<<1>>\n스톰 헤븐과 뱅코라이로 이동\n동맹을 넘어 오리돈과 스톤 폴로 이동-G-"
+
+#: 33425332-0-1437
+msgctxt "33425332-0-1437"
+msgid "Customer Appreciation"
+msgstr "고객 감사"
+
+#: 33425332-0-1436
+msgctxt "33425332-0-1436"
+msgid "Customer Appreciation"
+msgstr "고객 감사"
+
+#: 33425332-0-1435
+msgctxt "33425332-0-1435"
+msgid "Customer Appreciation"
+msgstr "고객 감사"
 
 #: 51188660-0-1033
 #, fuzzy
@@ -133,6 +173,26 @@ msgctxt "51188660-0-1030"
 msgid "<<1>>\nTravel to Deshaan and the Rift\n\nTravel cross-Alliance to Auridon and Glenumbra"
 msgstr "<<1>>\n데샨과 리프트로 이동\n\n동맹 지역을 가로질러서 아우리돈(Auridon)과 글렌움브라로 이동 -G-"
 
+#: 51188660-2-1014
+msgctxt "51188660-2-1014"
+msgid "<<1>>"
+msgstr ""
+
+#: 51188660-0-1026
+msgctxt "51188660-0-1026"
+msgid "<<1>>\nTravel to Grahtwood and Reaper's March\n\nTravel cross-Alliance to Stonefalls and Glenumbra"
+msgstr "<<1>>\n그랏우드와 리퍼스 마치로 여행하기\n\n동맹 지역을 가로질러서 스톤폴스와 글렌움브라로 여행하기 "
+
+#: 51188660-0-1024
+msgctxt "51188660-0-1024"
+msgid "<<1>>\nTravel to Auridon and Greenshade\nTravel cross-Alliance to Deshaan and Stormhaven"
+msgstr "<<1>>\n아우리돈과 그린셰이드로 여행하기\n동맹 지역을 가로질러서 데샨과 스톤헤이븐으로 여행하기"
+
+#: 51188660-0-1023
+msgctxt "51188660-0-1023"
+msgid "<<1>>\nTravel to Shadowfen and Stonefalls\n\nTravel cross-Alliance to Grahtwood and Stormhaven"
+msgstr "<<1>>\n섀도우펜과 스톤폴스로 여행하기\n\n동맹 지역을 가로질러서 그랏우드와 스톤헤이븐으로 여행하기"
+
 #: 51188660-0-1029
 #, fuzzy
 msgctxt "51188660-0-1029"
@@ -151,25 +211,35 @@ msgctxt "51188660-0-1027"
 msgid "<<1>>\nTravel to Grahtwood and Malabal Tor\nTravel cross-Alliance to Shadowfen and Rivenspire"
 msgstr "<<1>>\n그랏우드와 말라발 토르로 여행하기\n동맹 지역을 가로질러서 섀도우펜과 리븐스파이어로 여행하기  -g-"
 
-#: 51188660-0-1026
-msgctxt "51188660-0-1026"
-msgid "<<1>>\nTravel to Grahtwood and Reaper's March\n\nTravel cross-Alliance to Stonefalls and Glenumbra"
-msgstr "<<1>>\n그랏우드와 리퍼스 마치로 여행하기\n\n동맹 지역을 가로질러서 스톤폴스와 글렌움브라로 여행하기 "
+#: 51188660-0-996
+msgctxt "51188660-0-996"
+msgid "<<1>>\nPassage to Auridon"
+msgstr "<<1>>\n아우리돈으로 가는 길"
 
-#: 51188660-0-1024
-msgctxt "51188660-0-1024"
-msgid "<<1>>\nTravel to Auridon and Greenshade\nTravel cross-Alliance to Deshaan and Stormhaven"
-msgstr "<<1>>\n아우리돈과 그린셰이드로 여행하기\n동맹 지역을 가로질러서 데샨과 스톤헤이븐으로 여행하기"
+#: 51188660-0-994
+msgctxt "51188660-0-994"
+msgid "<<1>>\nTravel to Alik'r Desert"
+msgstr "<<1>>\n알리키어 사막으로 여행"
 
-#: 51188660-0-1023
-msgctxt "51188660-0-1023"
-msgid "<<1>>\nTravel to Shadowfen and Stonefalls\n\nTravel cross-Alliance to Grahtwood and Stormhaven"
-msgstr "<<1>>\n섀도우펜과 스톤폴스로 여행하기\n\n동맹 지역을 가로질러서 그랏우드와 스톤헤이븐으로 여행하기"
+#: 51188660-0-995
+msgctxt "51188660-0-995"
+msgid "<<1>>\nPassage to Wayrest"
+msgstr "<<1>>\n웨이레스트로 가는 길"
+
+#: 51188660-0-992
+msgctxt "51188660-0-992"
+msgid "<<1>>\nPassage to Eastmarch"
+msgstr "<<1>>\n이스트마치로 가는 길"
 
 #: 51188660-0-1022
 msgctxt "51188660-0-1022"
 msgid "<<1>>\nTravel to Glenumbra and Rivenspire\nTravel cross-Alliance to Grahtwood and Deshaan"
 msgstr "<<1>>\n그렌움브라와  리븐스파이어로 여행하기\n동맹 지역을 가로질러서 그랏우드와 데샨으로 여행하기"
+
+#: 51188660-0-993
+msgctxt "51188660-0-993"
+msgid "<<1>>\nPassage to Shadowfen."
+msgstr "<<1>>\n쉐도우팬로 가는 길"
 
 #: 51188660-0-1021
 msgctxt "51188660-0-1021"
@@ -181,87 +251,17 @@ msgctxt "51188660-0-1020"
 msgid "Travel to Daggerfall"
 msgstr "대거폴로 이동."
 
-#: 51188660-0-1018
-msgctxt "51188660-0-1018"
+#: 51188660-1-1014
+msgctxt "51188660-1-1014"
+msgid "<<1>>"
+msgstr ""
+
+#: 191999749-0-30816
+msgctxt "191999749-0-30816"
+msgid "Tasty-Legs"
+msgstr "맛있는 다리"
+
+#: 51188660-0-999
+msgctxt "51188660-0-999"
 msgid "Travel to Daggerfall"
 msgstr "대거폴로 이동."
-
-#: 51188660-0-1017
-msgctxt "51188660-0-1017"
-msgid "<<1>>"
-msgstr ""
-
-#: 51188660-0-1016
-msgctxt "51188660-0-1016"
-msgid "<<1>>"
-msgstr ""
-
-#: 51188660-0-1015
-msgctxt "51188660-0-1015"
-msgid "<<1>>"
-msgstr ""
-
-#: 51188660-0-1014
-msgctxt "51188660-0-1014"
-msgid "<<1>>"
-msgstr ""
-
-#: 51188660-0-1013
-msgctxt "51188660-0-1013"
-msgid "Travel to Abah's Landing"
-msgstr "아바스랜딩으로 여행하기"
-
-#: 51188660-0-1012
-msgctxt "51188660-0-1012"
-msgid "Travel to Abah's Landing"
-msgstr "아바스랜딩으로 여행하기"
-
-#: 51188660-0-1011
-msgctxt "51188660-0-1011"
-msgid "Travel to Abah's Landing"
-msgstr "아바스랜딩으로 여행하기"
-
-#: 51188660-0-1010
-msgctxt "51188660-0-1010"
-msgid "Travel to Windhelm"
-msgstr "윈드헬름(Windhelm)으로 여행하기"
-
-#: 51188660-0-1007
-msgctxt "51188660-0-1007"
-msgid "Travel to the Gold Coast"
-msgstr "골드 코스트로 이동하기"
-
-#: 51188660-0-1006
-msgctxt "51188660-0-1006"
-msgid "Travel to the Gold Coast"
-msgstr "골드 코스트로 이동하기"
-
-#: 51188660-0-1005
-msgctxt "51188660-0-1005"
-msgid "Travel to the Gold Coast"
-msgstr "골드 코스트로 이동하기"
-
-#: 51188660-0-1004
-msgctxt "51188660-0-1004"
-msgid "Travel to Vulkhel Guard"
-msgstr "벌켈 가드(Vulkhel Guard)로 여행하기"
-
-#: 51188660-0-1003
-msgctxt "51188660-0-1003"
-msgid "Travel to Davon's Watch"
-msgstr "다본의 감시대(Davon's Watch)로 여행하기"
-
-#: 51188660-0-1002
-msgctxt "51188660-0-1002"
-msgid "Travel to Vulkhel Guard"
-msgstr "벌켈 가드(Vulkhel Guard)로 여행하기"
-
-#: 51188660-0-1001
-msgctxt "51188660-0-1001"
-msgid "Travel to Davon's Watch"
-msgstr "다본의 감시대(Davon's Watch)로 여행하기"
-
-#: 51188660-0-1000
-msgctxt "51188660-0-1000"
-msgid "Travel to Vulkhel Guard"
-msgstr "벌켈 가드(Vulkhel Guard)로 여행하기"

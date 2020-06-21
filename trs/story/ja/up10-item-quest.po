@@ -11,6 +11,11 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 267697733-0-5915
+msgctxt "267697733-0-5915"
+msgid "Stolen Plate"
+msgstr "盗まれたプレート"
+
 #: 267697733-0-5918
 msgctxt "267697733-0-5918"
 msgid "Crow Caller"
@@ -20,216 +25,6 @@ msgstr "クロウコーラー"
 msgctxt "267697733-0-5917"
 msgid "Essence of Death"
 msgstr "死のエキス"
-
-#: 267697733-0-5916
-msgctxt "267697733-0-5916"
-msgid "Recovered Heirlooms"
-msgstr "手に入れた家宝"
-
-#: 267697733-0-5915
-msgctxt "267697733-0-5915"
-msgid "Stolen Plate"
-msgstr "盗まれたプレート"
-
-#: 267697733-0-5901
-msgctxt "267697733-0-5901"
-msgid "Ayleid Trinkets"
-msgstr "アイレイドの小物"
-
-#: 139139780-0-5900
-msgctxt "139139780-0-5900"
-msgid "A carved and painted idol with spidery script at the base. It smells faintly of incense."
-msgstr "曲がって塗られた偶像。底には細長い文がある。香の匂いが微かにする"
-
-#: 267697733-0-5900
-msgctxt "267697733-0-5900"
-msgid "Ancestor Ward"
-msgstr "先人の結界"
-
-#: 139139780-0-5899
-msgctxt "139139780-0-5899"
-msgid "Either an obscure Dwarven relic that could provide information about a long lost society, or a useless piece of junk."
-msgstr "遠い昔に失われた社会の情報を与えてくれる微かなドワーフの遺物か、もしくはただのゴミ"
-
-#: 267697733-0-5899
-msgctxt "267697733-0-5899"
-msgid "Dwarven Relic"
-msgstr "ドワーフの遺物"
-
-#: 139139780-0-5898
-msgctxt "139139780-0-5898"
-msgid "A tangled mass of animal bones, sinew, and feathers. Pungent enough to capture the attention of restless spirits."
-msgstr "動物の骨、腱、羽根が大量にごちゃごちゃと積み上がったもの。安らがぬ魂の注意を引くには十分に刺激的である"
-
-#: 267697733-0-5898
-msgctxt "267697733-0-5898"
-msgid "Spirit Traps"
-msgstr "魂の罠"
-
-#: 139139780-0-5897
-msgctxt "139139780-0-5897"
-msgid "Scraps of rusted metal. Once part of a warrior's arms or livery, now junk. Probably not cursed."
-msgstr "錆びた金属のスクラップ。戦士の武器かお仕着せの一部だったと思われるが、現在ではがらくたである。おそらく呪われていない"
-
-#: 267697733-0-5897
-msgctxt "267697733-0-5897"
-msgid "Fragmented Arms"
-msgstr "壊れた装備"
-
-#: 139139780-0-5896
-msgctxt "139139780-0-5896"
-msgid "A tasteless and odorless concoction invented by Grazda the Death Adder. Causes intense pain, followed by near total paralysis and death by asphyxiation."
-msgstr "死の蛇グラズダが、味と臭いのない調合薬を開発した。これを体に取り込むと激痛が生じて、ほぼ全身が麻痺し、最後には窒息死する"
-
-#: 267697733-0-5896
-msgctxt "267697733-0-5896"
-msgid "Mother's Kiss"
-msgstr "母のキス"
-
-#: 139139780-0-5895
-msgctxt "139139780-0-5895"
-msgid "An ancient relic from the dig site at Tribune's Folly that contains a mix of Ayleid and early Imperial influences."
-msgstr "トリビュナルズ・フォリーの採掘場にあった古代の遺物で、アイレイドと初期の帝国の影響が混ざり合っている"
-
-#: 267697733-0-5895
-msgctxt "267697733-0-5895"
-msgid "First Era Cross-Cultural Relic"
-msgstr "第一紀の異文化遺物"
-
-#: 139139780-0-5894
-msgctxt "139139780-0-5894"
-msgid "An ancient keepsake from the early part of the First Era, found at the dig site at Tribune's Folly."
-msgstr "第一紀の初期のものである古代の記念品で、トリビュナルズ・フォリーの採掘場で発見された"
-
-#: 267697733-0-5894
-msgctxt "267697733-0-5894"
-msgid "First Era Personal Relic"
-msgstr "第一紀の個人的遺物"
-
-#: 267697733-0-5893
-msgctxt "267697733-0-5893"
-msgid "The Black Dragon's Journal"
-msgstr "ブラックドラゴンの日記"
-
-#: 267697733-0-5773
-msgctxt "267697733-0-5773"
-msgid "Signet Ring of Bravil"
-msgstr "ブラヴィルの印章指輪"
-
-#: 139139780-0-5772
-msgctxt "139139780-0-5772"
-msgid "A ledger containing the tax collector of Bravil's most private transactions."
-msgstr "ブラヴィルの収税官の個人取引が記録されている台帳"
-
-#: 267697733-0-5772
-msgctxt "267697733-0-5772"
-msgid "Tax Collector's Ledger"
-msgstr "収税官の台帳"
-
-#: 139139780-0-5771
-msgctxt "139139780-0-5771"
-msgid "The official seal of the city of Bravil, used to mark official documents."
-msgstr "ブラヴィルの公印。公文書に使用される"
-
-#: 267697733-0-5771
-msgctxt "267697733-0-5771"
-msgid "City of Bravil Seal"
-msgstr "ブラヴィルの印"
-
-#: 139139780-0-5769
-msgctxt "139139780-0-5769"
-msgid "Background information concerning Yarmia the Beggar."
-msgstr "物乞いヤーミアに関する背景情報"
-
-#: 267697733-0-5769
-msgctxt "267697733-0-5769"
-msgid "Yarmia the Beggar"
-msgstr "物乞いヤーミア"
-
-#: 139139780-0-5768
-msgctxt "139139780-0-5768"
-msgid "Background information concerning Louna the Groundskeeper."
-msgstr "管理人ロウナに関する背景情報"
-
-#: 267697733-0-5768
-msgctxt "267697733-0-5768"
-msgid "Louna the Groundskeeper"
-msgstr "管理人ロウナ"
-
-#: 139139780-0-5767
-msgctxt "139139780-0-5767"
-msgid "Background information concerning Tuindal the Baker."
-msgstr "パン職人トゥインダルに関する背景情報"
-
-#: 267697733-0-5767
-msgctxt "267697733-0-5767"
-msgid "Tuindal the Baker"
-msgstr "パン職人トゥインダル"
-
-#: 139139780-0-5766
-msgctxt "139139780-0-5766"
-msgid "Background information concerning Dobias the Trader."
-msgstr "商人ドビアスに関する背景情報"
-
-#: 267697733-0-5766
-msgctxt "267697733-0-5766"
-msgid "Dobias the Trader"
-msgstr "商人ドビアス"
-
-#: 139139780-0-5765
-msgctxt "139139780-0-5765"
-msgid "A list of locations where secret messages are deposited."
-msgstr "秘密のメッセージが届けられた場所のリスト"
-
-#: 267697733-0-5765
-msgctxt "267697733-0-5765"
-msgid "Drop Locations"
-msgstr "届け先"
-
-#: 139139780-0-5763
-msgctxt "139139780-0-5763"
-msgid "A list identifying all of the people who received a threatening sweetroll."
-msgstr "危険なスイートロールを受け取った人々を確認できるリスト"
-
-#: 267697733-0-5763
-msgctxt "267697733-0-5763"
-msgid "Sweetroll Recipients"
-msgstr "スイートロールの受取人"
-
-#: 139139780-0-5755
-msgctxt "139139780-0-5755"
-msgid "A courier gave me this letter and told me to go to the Anvil Lighthouse."
-msgstr "配達人からこの手紙を渡された。アンヴィル灯台に向かえと書いてある"
-
-#: 267697733-0-5755
-msgctxt "267697733-0-5755"
-msgid "Mysterious Letter"
-msgstr "奇妙な手紙"
-
-#: 139139780-0-5754
-msgctxt "139139780-0-5754"
-msgid "These metal ingots were bound for the blacksmith in Anvil when they were stolen."
-msgstr "この金属のインゴットは、アンヴィルの鍛冶屋に運ぶ途中で盗まれた"
-
-#: 267697733-0-5754
-msgctxt "267697733-0-5754"
-msgid "Metal Ingots"
-msgstr "金属のインゴット"
-
-#: 139139780-0-5753
-msgctxt "139139780-0-5753"
-msgid "The blossom of a wyrd flower, which only grows in moonlight within Ayleid ruins."
-msgstr "ウィルドの花は、アイレイドの遺跡の月明かりの中でだけ花を咲かせる"
-
-#: 267697733-0-5753
-msgctxt "267697733-0-5753"
-msgid "Wyrd Flower Blossom"
-msgstr "ウィルドの開花"
-
-#: 139139780-0-5916
-msgctxt "139139780-0-5916"
-msgid "Heirlooms recovered on behalf of Daggerfall residents."
-msgstr "ダガーフォールの住民のため手に入れた家宝"
 
 #: 267697733-0-5914
 msgctxt "267697733-0-5914"
@@ -246,15 +41,20 @@ msgctxt "267697733-0-5910"
 msgid "Broken Ayleid Swords"
 msgstr "壊れたアイレイドの剣"
 
-#: 267697733-0-5907
-msgctxt "267697733-0-5907"
-msgid "Ayleid Vase"
-msgstr "アイレイドの花瓶"
+#: 267697733-0-5893
+msgctxt "267697733-0-5893"
+msgid "The Black Dragon's Journal"
+msgstr "ブラックドラゴンの日記"
 
 #: 267697733-0-5904
 msgctxt "267697733-0-5904"
 msgid "Welkynd Stone Powder"
 msgstr "ウェルキンド石の粉"
+
+#: 267697733-0-5907
+msgctxt "267697733-0-5907"
+msgid "Ayleid Vase"
+msgstr "アイレイドの花瓶"
 
 #: 267697733-0-5903
 msgctxt "267697733-0-5903"
@@ -266,12 +66,212 @@ msgctxt "267697733-0-5902"
 msgid "Ayleid Drapery"
 msgstr "アイレイドの布"
 
-#: 139139780-0-5901
-msgctxt "139139780-0-5901"
-msgid "A collection of Ayleid trinkets, to be delivered to Bolgrul at the Undaunted Enclave."
-msgstr "アイレイドの小物のコレクション。アンドーンテッド居留地にいるボルグルルへ届ける"
+#: 139139780-0-5771
+msgctxt "139139780-0-5771"
+msgid "The official seal of the city of Bravil, used to mark official documents."
+msgstr "ブラヴィルの公印。公文書に使用される"
+
+#: 267697733-0-5771
+msgctxt "267697733-0-5771"
+msgid "City of Bravil Seal"
+msgstr "ブラヴィルの印"
+
+#: 139139780-0-5772
+msgctxt "139139780-0-5772"
+msgid "A ledger containing the tax collector of Bravil's most private transactions."
+msgstr "ブラヴィルの収税官の個人取引が記録されている台帳"
+
+#: 267697733-0-5772
+msgctxt "267697733-0-5772"
+msgid "Tax Collector's Ledger"
+msgstr "収税官の台帳"
+
+#: 139139780-0-5894
+msgctxt "139139780-0-5894"
+msgid "An ancient keepsake from the early part of the First Era, found at the dig site at Tribune's Folly."
+msgstr "第一紀の初期のものである古代の記念品で、トリビュナルズ・フォリーの採掘場で発見された"
+
+#: 267697733-0-5894
+msgctxt "267697733-0-5894"
+msgid "First Era Personal Relic"
+msgstr "第一紀の個人的遺物"
 
 #: 139139780-0-5773
 msgctxt "139139780-0-5773"
 msgid "The signet ring of the mayor of Bravil, which switches hands every election."
 msgstr "ブラヴィル市長の印章指輪。選挙が行われる度に持ち主が変わる"
+
+#: 267697733-0-5773
+msgctxt "267697733-0-5773"
+msgid "Signet Ring of Bravil"
+msgstr "ブラヴィルの印章指輪"
+
+#: 139139780-0-5895
+msgctxt "139139780-0-5895"
+msgid "An ancient relic from the dig site at Tribune's Folly that contains a mix of Ayleid and early Imperial influences."
+msgstr "トリビュナルズ・フォリーの採掘場にあった古代の遺物で、アイレイドと初期の帝国の影響が混ざり合っている"
+
+#: 267697733-0-5895
+msgctxt "267697733-0-5895"
+msgid "First Era Cross-Cultural Relic"
+msgstr "第一紀の異文化遺物"
+
+#: 139139780-0-5763
+msgctxt "139139780-0-5763"
+msgid "A list identifying all of the people who received a threatening sweetroll."
+msgstr "危険なスイートロールを受け取った人々を確認できるリスト"
+
+#: 267697733-0-5763
+msgctxt "267697733-0-5763"
+msgid "Sweetroll Recipients"
+msgstr "スイートロールの受取人"
+
+#: 139139780-0-5916
+msgctxt "139139780-0-5916"
+msgid "Heirlooms recovered on behalf of Daggerfall residents."
+msgstr "ダガーフォールの住民のため手に入れた家宝"
+
+#: 267697733-0-5916
+msgctxt "267697733-0-5916"
+msgid "Recovered Heirlooms"
+msgstr "手に入れた家宝"
+
+#: 139139780-0-5896
+msgctxt "139139780-0-5896"
+msgid "A tasteless and odorless concoction invented by Grazda the Death Adder. Causes intense pain, followed by near total paralysis and death by asphyxiation."
+msgstr "死の蛇グラズダが、味と臭いのない調合薬を開発した。これを体に取り込むと激痛が生じて、ほぼ全身が麻痺し、最後には窒息死する"
+
+#: 267697733-0-5896
+msgctxt "267697733-0-5896"
+msgid "Mother's Kiss"
+msgstr "母のキス"
+
+#: 139139780-0-5753
+msgctxt "139139780-0-5753"
+msgid "The blossom of a wyrd flower, which only grows in moonlight within Ayleid ruins."
+msgstr "ウィルドの花は、アイレイドの遺跡の月明かりの中でだけ花を咲かせる"
+
+#: 267697733-0-5753
+msgctxt "267697733-0-5753"
+msgid "Wyrd Flower Blossom"
+msgstr "ウィルドの開花"
+
+#: 139139780-0-5897
+msgctxt "139139780-0-5897"
+msgid "Scraps of rusted metal. Once part of a warrior's arms or livery, now junk. Probably not cursed."
+msgstr "錆びた金属のスクラップ。戦士の武器かお仕着せの一部だったと思われるが、現在ではがらくたである。おそらく呪われていない"
+
+#: 267697733-0-5897
+msgctxt "267697733-0-5897"
+msgid "Fragmented Arms"
+msgstr "壊れた装備"
+
+#: 139139780-0-5754
+msgctxt "139139780-0-5754"
+msgid "These metal ingots were bound for the blacksmith in Anvil when they were stolen."
+msgstr "この金属のインゴットは、アンヴィルの鍛冶屋に運ぶ途中で盗まれた"
+
+#: 267697733-0-5754
+msgctxt "267697733-0-5754"
+msgid "Metal Ingots"
+msgstr "金属のインゴット"
+
+#: 139139780-0-5765
+msgctxt "139139780-0-5765"
+msgid "A list of locations where secret messages are deposited."
+msgstr "秘密のメッセージが届けられた場所のリスト"
+
+#: 267697733-0-5765
+msgctxt "267697733-0-5765"
+msgid "Drop Locations"
+msgstr "届け先"
+
+#: 139139780-0-5898
+msgctxt "139139780-0-5898"
+msgid "A tangled mass of animal bones, sinew, and feathers. Pungent enough to capture the attention of restless spirits."
+msgstr "動物の骨、腱、羽根が大量にごちゃごちゃと積み上がったもの。安らがぬ魂の注意を引くには十分に刺激的である"
+
+#: 267697733-0-5898
+msgctxt "267697733-0-5898"
+msgid "Spirit Traps"
+msgstr "魂の罠"
+
+#: 139139780-0-5755
+msgctxt "139139780-0-5755"
+msgid "A courier gave me this letter and told me to go to the Anvil Lighthouse."
+msgstr "配達人からこの手紙を渡された。アンヴィル灯台に向かえと書いてある"
+
+#: 267697733-0-5755
+msgctxt "267697733-0-5755"
+msgid "Mysterious Letter"
+msgstr "奇妙な手紙"
+
+#: 139139780-0-5766
+msgctxt "139139780-0-5766"
+msgid "Background information concerning Dobias the Trader."
+msgstr "商人ドビアスに関する背景情報"
+
+#: 267697733-0-5766
+msgctxt "267697733-0-5766"
+msgid "Dobias the Trader"
+msgstr "商人ドビアス"
+
+#: 139139780-0-5899
+msgctxt "139139780-0-5899"
+msgid "Either an obscure Dwarven relic that could provide information about a long lost society, or a useless piece of junk."
+msgstr "遠い昔に失われた社会の情報を与えてくれる微かなドワーフの遺物か、もしくはただのゴミ"
+
+#: 267697733-0-5899
+msgctxt "267697733-0-5899"
+msgid "Dwarven Relic"
+msgstr "ドワーフの遺物"
+
+#: 139139780-0-5767
+msgctxt "139139780-0-5767"
+msgid "Background information concerning Tuindal the Baker."
+msgstr "パン職人トゥインダルに関する背景情報"
+
+#: 267697733-0-5767
+msgctxt "267697733-0-5767"
+msgid "Tuindal the Baker"
+msgstr "パン職人トゥインダル"
+
+#: 139139780-0-5900
+msgctxt "139139780-0-5900"
+msgid "A carved and painted idol with spidery script at the base. It smells faintly of incense."
+msgstr "曲がって塗られた偶像。底には細長い文がある。香の匂いが微かにする"
+
+#: 267697733-0-5900
+msgctxt "267697733-0-5900"
+msgid "Ancestor Ward"
+msgstr "先人の結界"
+
+#: 139139780-0-5768
+msgctxt "139139780-0-5768"
+msgid "Background information concerning Louna the Groundskeeper."
+msgstr "管理人ロウナに関する背景情報"
+
+#: 267697733-0-5768
+msgctxt "267697733-0-5768"
+msgid "Louna the Groundskeeper"
+msgstr "管理人ロウナ"
+
+#: 139139780-0-5901
+msgctxt "139139780-0-5901"
+msgid "A collection of Ayleid trinkets, to be delivered to Bolgrul at the Undaunted Enclave."
+msgstr "アイレイドの小物のコレクション。アンドーンテッド居留地にいるボルグルルへ届ける"
+
+#: 267697733-0-5901
+msgctxt "267697733-0-5901"
+msgid "Ayleid Trinkets"
+msgstr "アイレイドの小物"
+
+#: 139139780-0-5769
+msgctxt "139139780-0-5769"
+msgid "Background information concerning Yarmia the Beggar."
+msgstr "物乞いヤーミアに関する背景情報"
+
+#: 267697733-0-5769
+msgctxt "267697733-0-5769"
+msgid "Yarmia the Beggar"
+msgstr "物乞いヤーミア"

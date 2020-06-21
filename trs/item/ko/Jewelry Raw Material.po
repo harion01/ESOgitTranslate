@@ -11,36 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-135145
-msgctxt "228378404-0-135145"
-msgid "Ten of these items can be refined to make platinum ounces."
-msgstr "이 아이템 10개를 가공해 백금 온스를 얻을 수 있습니다."
-
-#: 242841733-0-135145
-msgctxt "242841733-0-135145"
-msgid "platinum dust"
-msgstr "백금 가루 (platinum dust)"
-
-#: 228378404-0-135143
-msgctxt "228378404-0-135143"
-msgid "Ten of these items can be refined to make electrum ounces."
-msgstr "이 아이템 10개를 가공해 호박금 온스를 얻을 수 있습니다."
-
-#: 242841733-0-135143
-msgctxt "242841733-0-135143"
-msgid "electrum dust"
-msgstr "호박금 가루 (electrum dust)"
-
-#: 228378404-0-135141
-msgctxt "228378404-0-135141"
-msgid "Ten of these items can be refined to make silver ounces."
-msgstr "이 아이템 10개를 가공해 은 온스를 얻을 수 있습니다."
-
-#: 242841733-0-135141
-msgctxt "242841733-0-135141"
-msgid "silver dust"
-msgstr "은 가루 (silver dust)"
-
 #: 228378404-0-135139
 msgctxt "228378404-0-135139"
 msgid "Ten of these items can be refined to make copper ounces."
@@ -60,3 +30,33 @@ msgstr "이 아이템 10개를 가공해 백랍 온스를 얻을 수 있습니�
 msgctxt "242841733-0-135137"
 msgid "pewter dust"
 msgstr "백랍 가루 (pewter dust)"
+
+#: 228378404-0-135143
+msgctxt "228378404-0-135143"
+msgid "Ten of these items can be refined to make electrum ounces."
+msgstr "이 아이템 10개를 가공해 호박금 온스를 얻을 수 있습니다."
+
+#: 242841733-0-135143
+msgctxt "242841733-0-135143"
+msgid "electrum dust"
+msgstr "호박금 가루 (electrum dust)"
+
+#: 228378404-0-135145
+msgctxt "228378404-0-135145"
+msgid "Ten of these items can be refined to make platinum ounces."
+msgstr "이 아이템 10개를 가공해 백금 온스를 얻을 수 있습니다."
+
+#: 242841733-0-135145
+msgctxt "242841733-0-135145"
+msgid "platinum dust"
+msgstr "백금 가루 (platinum dust)"
+
+#: 228378404-0-135141
+msgctxt "228378404-0-135141"
+msgid "Ten of these items can be refined to make silver ounces."
+msgstr "이 아이템 10개를 가공해 은 온스를 얻을 수 있습니다."
+
+#: 242841733-0-135141
+msgctxt "242841733-0-135141"
+msgid "silver dust"
+msgstr "은 가루 (silver dust)"

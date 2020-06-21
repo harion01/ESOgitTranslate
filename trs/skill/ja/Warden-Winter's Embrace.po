@@ -11,88 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-86196
-msgctxt "132143172-0-86196"
-msgid "Increases your Magic and Frost Damage by <<1>>."
-msgstr "魔法と氷結ダメージが<<1>>上昇する。"
-
-#: 198758357-0-86196
-msgctxt "198758357-0-86196"
-msgid "Piercing Cold"
-msgstr "貫く冷気"
-
-#: 132143172-0-86195
-msgctxt "132143172-0-86195"
-msgid "Increases your Magic and Frost Damage by <<1>>."
-msgstr "魔法と氷結ダメージが<<1>>上昇する。"
-
-#: 198758357-0-86195
-msgctxt "198758357-0-86195"
-msgid "Piercing Cold"
-msgstr "貫く冷気"
-
-#: 132143172-0-86194
-msgctxt "132143172-0-86194"
-msgid "Reduce the effectiveness of snares applied to you by <<1>>."
-msgstr "自身に適用される減速の効果を<<1>>減少させる。"
-
-#: 198758357-0-86194
-msgctxt "198758357-0-86194"
-msgid "Icy Aura"
-msgstr "冷たきオーラ"
-
-#: 132143172-0-86193
-msgctxt "132143172-0-86193"
-msgid "Reduce the effectiveness of snares applied to you by <<1>>."
-msgstr "自身に適用される減速の効果を<<1>>減少させる。"
-
-#: 198758357-0-86193
-msgctxt "198758357-0-86193"
-msgid "Icy Aura"
-msgstr "冷たきオーラ"
-
-#: 132143172-0-86192
-#, fuzzy
-msgctxt "132143172-0-86192"
-msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
-msgstr "冬の抱擁アビリティで敵を冷気状態にする確率が<<1>>上昇する。\r\n\r\n冷気状態になったばかりの敵や味方は、術者からクリティカルダメージと回復をさらに<<2>>受ける。"
-
-#: 198758357-0-86192
-msgctxt "198758357-0-86192"
-msgid "Glacial Presence"
-msgstr "氷河の訪れ"
-
-#: 132143172-0-86191
-#, fuzzy
-msgctxt "132143172-0-86191"
-msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
-msgstr "冬の抱擁アビリティで敵を冷気状態にする確率が<<1>>上昇する。\r\n\r\n冷気状態になったばかりの敵や味方は、術者からクリティカルダメージと回復をさらに<<2>>受ける。"
-
-#: 198758357-0-86191
-msgctxt "198758357-0-86191"
-msgid "Glacial Presence"
-msgstr "氷河の訪れ"
-
-#: 132143172-0-86190
-msgctxt "132143172-0-86190"
-msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "スロットに装備している冬の抱擁アビリティ1つにつき、物理耐性と呪文耐性が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-86190
-msgctxt "198758357-0-86190"
-msgid "Frozen Armor"
-msgstr "凍土の鎧"
-
-#: 132143172-0-86189
-msgctxt "132143172-0-86189"
-msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "スロットに装備している冬の抱擁アビリティ1つにつき、物理耐性と呪文耐性が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-86189
-msgctxt "198758357-0-86189"
-msgid "Frozen Armor"
-msgstr "凍土の鎧"
-
 #: 132143172-0-86183
 msgctxt "132143172-0-86183"
 msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds.\n\nWhen triggered the enemy is teleported to you, immobilized for <<1>>, and dealt <<2>>.\n\nAn ally in the portal can activate the |cffffffIcy Escape|r synergy, teleporting them to you and granting them <<3>>, increasing their Movement Speed by <<4>> for <<5>>.\n\nYou can have up to |cffffff3|r Frozen Retreats active at a time."
@@ -102,46 +20,6 @@ msgstr "古代のポータルを召喚する。|cffffff1.5|r秒後に発動す�
 msgctxt "198758357-0-86183"
 msgid "Frozen Retreat"
 msgstr "氷結シェルター"
-
-#: 132143172-0-86179
-msgctxt "132143172-0-86179"
-msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds,\n\nWhen triggered the enemy is teleported to you, immobilized for <<1>>, dealt <<2>>,  and afflicted with Major Maim, reducing their damage done by <<3>> for <<4>>.\n\nYou can have up to |cffffff3|r Frozen Devices active at a time."
-msgstr "古代のポータルを召喚する。|cffffff1.5|r秒後に発動する。\r\n\r\n発動すると、敵は自分の前に転移し、<<1>>の間釘付けにされて<<2>>を受ける。さらに不自由(強)を付与し、敵の与ダメージを<<3>>、<<4>>の間減少させる。\r\n\r\n氷結トラップは一度に|cffffff3|rつまでしか発動できない。"
-
-#: 198758357-0-86179
-msgctxt "198758357-0-86179"
-msgid "Frozen Device"
-msgstr "氷結トラップ"
-
-#: 132143172-0-86175
-msgctxt "132143172-0-86175"
-msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds and lasts for <<1>>.\n\nWhen triggered the enemy is teleported to you, immobilized for <<2>>, and dealt <<3>>.\n\nYou can have up to |cffffff3|r Frozen Gates active at a time."
-msgstr "古代のポータルを召喚する。|cffffff1.5|r秒後に発動し、<<1>>の間持続する。\r\n\r\n発動すると、敵は自分の前に転移し、<<2>>の間釘付けにされて、<<3>>を受ける。\r\n\r\n氷結ゲートは一度に|cffffff3|rつまでしか発動できない。"
-
-#: 198758357-0-86175
-msgctxt "198758357-0-86175"
-msgid "Frozen Gate"
-msgstr "氷結ゲート"
-
-#: 132143172-0-86169
-msgctxt "132143172-0-86169"
-msgid "Conjure icy shards at the target location to skewer enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<4>>  for <<5>>.\n\nThis ability has a higher chance to apply the Chilled status effect."
-msgstr "氷の破片を対象の場所に召喚してエリアの敵を貫き、<<1>>を<<2>>ごとに<<3>>の間与える。\r\n\r\n攻撃を受けた敵は厳しい冷気を受け、移動速度を<<4>>、<<5>>の間低下させる。\r\n\r\n冷気状態にする確率がより高くなる。"
-
-#: 198758357-0-86169
-msgctxt "198758357-0-86169"
-msgid "Winter's Revenge"
-msgstr "真冬の復讐"
-
-#: 132143172-0-86165
-msgctxt "132143172-0-86165"
-msgid "Conjure icy shards around you to skewer enemies in the area, immobilizing them for <<1>> and dealing <<2>> every <<3>> for <<4>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<5>>  for <<6>>.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect."
-msgstr "氷の破片を周囲に召喚してエリアの敵を貫き、<<1>>の間移動不能にする。さらに<<2>>を<<3>>ごとに<<4>>の間与える。\r\n\r\n攻撃を受けた敵は厳しい冷気を受け、移動速度を<<5>>、<<6>>の間低下させる。\r\n\r\n与ダメージは自身の最大体力をベースとする。さらに、冷気状態にする確率がより高くなる。"
-
-#: 198758357-0-86165
-msgctxt "198758357-0-86165"
-msgid "Gripping Shards"
-msgstr "影縫い氷片"
 
 #: 132143172-0-86161
 msgctxt "132143172-0-86161"
@@ -153,25 +31,25 @@ msgctxt "198758357-0-86161"
 msgid "Impaling Shards"
 msgstr "貫く氷片"
 
-#: 132143172-0-86156
-msgctxt "132143172-0-86156"
-msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>.\n\nWhile the effect persists the winds pulse outwards, dealing <<5>> every <<6>> to nearby enemies.  Enemies hit by this effect |cffffff3|r times are stunned for <<7>>.\n\nThis healing from this ability scales with your Max Health."
-msgstr "冬の風が自身を包み、即座に<<1>>を回復する。さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。\r\n\r\nこの効果が残っている間は風が外に放出され、周囲の敵に<<5>>を<<6>>ごとに与える。この効果を|cffffff3|r回受けた敵は、<<7>>の間気絶する。\r\n\r\nこのアビリティによる回復効果は、最大体力に応じて変動する。"
+#: 132143172-0-86109
+msgctxt "132143172-0-86109"
+msgid "Twist a violent storm around you, dealing <<1>> every <<2>> for <<3>> to enemies around you and reducing their Movement Speed by <<4>>.  \n\nYou and nearby allies gain Major Protection, reducing your damage taken by <<5>>."
+msgstr "周囲に激しい嵐を呼び出し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。移動速度も<<4>>低下する。\r\n\r\n自身と近くにいる味方は防護(強)を得て、被ダメージを<<5>>低下させる。"
 
-#: 198758357-0-86156
-msgctxt "198758357-0-86156"
-msgid "Arctic Blast"
-msgstr "アークティック・ブラスト"
+#: 198758357-0-86109
+msgctxt "198758357-0-86109"
+msgid "Sleet Storm"
+msgstr "凍雨の嵐"
 
-#: 132143172-0-86152
-msgctxt "132143172-0-86152"
-msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>. \n\nThe winds also sweep out in search of an ally within |cffffff12|r meters, healing them for <<5>> Health.\n\nWhile the effect persists the winds pulse outwards, dealing <<6>> every <<7>> to nearby enemies.\n\nThe healing from this ability scales with your Max Health."
-msgstr "冬の風に身を包み、即座に<<1>>を回復する。さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。\r\n\r\nこの風は|cffffff12|rメートル以内にいる味方も探し、体力を<<5>>回復する。\r\n\r\nこの効果が残っている間は風が外に放出され、周囲の敵に<<6>>を<<7>>ごとに与える。\r\n\r\nこのアビリティによる回復効果は、最大体力に応じて変動する。"
+#: 132143172-0-86169
+msgctxt "132143172-0-86169"
+msgid "Conjure icy shards at the target location to skewer enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<4>>  for <<5>>.\n\nThis ability has a higher chance to apply the Chilled status effect."
+msgstr "氷の破片を対象の場所に召喚してエリアの敵を貫き、<<1>>を<<2>>ごとに<<3>>の間与える。\r\n\r\n攻撃を受けた敵は厳しい冷気を受け、移動速度を<<4>>、<<5>>の間低下させる。\r\n\r\n冷気状態にする確率がより高くなる。"
 
-#: 198758357-0-86152
-msgctxt "198758357-0-86152"
-msgid "Polar Wind"
-msgstr "ポーラー・ウィンド"
+#: 198758357-0-86169
+msgctxt "198758357-0-86169"
+msgid "Winter's Revenge"
+msgstr "真冬の復讐"
 
 #: 132143172-0-86148
 msgctxt "132143172-0-86148"
@@ -183,48 +61,6 @@ msgctxt "198758357-0-86148"
 msgid "Arctic Wind"
 msgstr "アークティック・ウィンド"
 
-#: 132143172-0-86143
-#, fuzzy
-msgctxt "132143172-0-86143"
-msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and gain Major Heroism for <<3>>, granting you <<4>> Ultimate every |cffffff1.5|r seconds."
-msgstr "周囲に氷の盾を発生させ、投射物のダメージを|cffffff3|r回、<<1>>まで吸収する。\r\n\r\n吸収に成功するたび、マジカを<<2>>回復する。さらに術者は勇壮(強)を<<3>>の間得て、<<4>>アルティマを、|cffffff1.5|r秒ごとに得る。"
-
-#: 198758357-0-86143
-msgctxt "198758357-0-86143"
-msgid "Shimmering Shield"
-msgstr "陽炎シールド"
-
-#: 132143172-0-86139
-#, fuzzy
-msgctxt "132143172-0-86139"
-msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and launch an icy bolt back at the enemy, dealing <<3>>.  This effect can occur once every half second."
-msgstr "周囲に氷の盾を発生させ、投射物のダメージを|cffffff3|r回、<<1>>まで吸収する。\r\n\r\n吸収に成功するたび、マジカを<<2>>回復する。さらに氷のボルトを撃ち返し、<<3>>のダメージを与える。この効果は0.5秒ごとに発動する。"
-
-#: 198758357-0-86139
-msgctxt "198758357-0-86139"
-msgid "Crystallized Slab"
-msgstr "結晶化スラブ"
-
-#: 132143172-0-86135
-msgctxt "132143172-0-86135"
-msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka."
-msgstr "周囲に氷の盾を発生させ、投射物のダメージを|cffffff3|r回、<<1>>まで吸収する。\r\n\r\n吸収ごとにマジカを<<2>>回復する。"
-
-#: 198758357-0-86135
-msgctxt "198758357-0-86135"
-msgid "Crystallized Shield"
-msgstr "結晶化シールド"
-
-#: 132143172-0-86130
-msgctxt "132143172-0-86130"
-msgid "Wrap a thick cloak of ice around you and your allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.\n\nYou gain Minor Protection, reducing your damage taken by <<3>> for <<4>>."
-msgstr "自身と味方を、厚い氷の衣が覆う。氷は強固(強)を付与し、物理耐性と呪文耐性を<<1>>、<<2>>の間増加させる。\r\n\r\n防護(弱)を得て、被ダメージを<<3>>、<<4>>の間低下させる。"
-
-#: 198758357-0-86130
-msgctxt "198758357-0-86130"
-msgid "Ice Fortress"
-msgstr "氷砦"
-
 #: 132143172-0-86126
 msgctxt "132143172-0-86126"
 msgid "Wrap a thick cloak of ice around you and your allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>."
@@ -234,6 +70,36 @@ msgstr "自身と味方を、厚い氷の衣が覆う。氷は強固(強)を付�
 msgctxt "198758357-0-86126"
 msgid "Expansive Frost Cloak"
 msgstr "上級氷衣"
+
+#: 132143172-0-86189
+msgctxt "132143172-0-86189"
+msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "スロットに装備している冬の抱擁アビリティ1つにつき、物理耐性と呪文耐性が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-86189
+msgctxt "198758357-0-86189"
+msgid "Frozen Armor"
+msgstr "凍土の鎧"
+
+#: 132143172-0-86165
+msgctxt "132143172-0-86165"
+msgid "Conjure icy shards around you to skewer enemies in the area, immobilizing them for <<1>> and dealing <<2>> every <<3>> for <<4>>.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by <<5>>  for <<6>>.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect."
+msgstr "氷の破片を周囲に召喚してエリアの敵を貫き、<<1>>の間移動不能にする。さらに<<2>>を<<3>>ごとに<<4>>の間与える。\r\n\r\n攻撃を受けた敵は厳しい冷気を受け、移動速度を<<5>>、<<6>>の間低下させる。\r\n\r\n与ダメージは自身の最大体力をベースとする。さらに、冷気状態にする確率がより高くなる。"
+
+#: 198758357-0-86165
+msgctxt "198758357-0-86165"
+msgid "Gripping Shards"
+msgstr "影縫い氷片"
+
+#: 132143172-0-86143
+msgctxt "132143172-0-86143"
+msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and gain Major Heroism for <<3>>, granting you <<4>> Ultimate every |cffffff1.5|r seconds."
+msgstr "周囲に氷の盾を発生させ、投射物のダメージを|cffffff3|r回、<<1>>まで吸収する。\r\n\r\n吸収に成功するたび、マジカを<<2>>回復する。さらに術者は勇壮(強)を<<3>>の間得て、<<4>>アルティマを、|cffffff1.5|r秒ごとに得る。"
+
+#: 198758357-0-86143
+msgctxt "198758357-0-86143"
+msgid "Shimmering Shield"
+msgstr "陽炎シールド"
 
 #: 132143172-0-86122
 msgctxt "132143172-0-86122"
@@ -245,6 +111,76 @@ msgctxt "198758357-0-86122"
 msgid "Frost Cloak"
 msgstr "氷衣"
 
+#: 132143172-0-86194
+msgctxt "132143172-0-86194"
+msgid "Reduce the effectiveness of snares applied to you by <<1>>."
+msgstr "自身に適用される減速の効果を<<1>>減少させる。"
+
+#: 198758357-0-86194
+msgctxt "198758357-0-86194"
+msgid "Icy Aura"
+msgstr "冷たきオーラ"
+
+#: 132143172-0-86195
+msgctxt "132143172-0-86195"
+msgid "Increases your Magic and Frost Damage by <<1>>."
+msgstr "魔法と氷結ダメージが<<1>>上昇する。"
+
+#: 198758357-0-86195
+msgctxt "198758357-0-86195"
+msgid "Piercing Cold"
+msgstr "貫く冷気"
+
+#: 132143172-0-86192
+msgctxt "132143172-0-86192"
+msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
+msgstr "冬の抱擁アビリティで敵を冷気状態にする確率が<<1>>上昇する。\r\n\r\n冷気状態になったばかりの敵や味方は、術者からクリティカルダメージと回復をさらに<<2>>受ける。"
+
+#: 198758357-0-86192
+msgctxt "198758357-0-86192"
+msgid "Glacial Presence"
+msgstr "氷河の訪れ"
+
+#: 132143172-0-86193
+msgctxt "132143172-0-86193"
+msgid "Reduce the effectiveness of snares applied to you by <<1>>."
+msgstr "自身に適用される減速の効果を<<1>>減少させる。"
+
+#: 198758357-0-86193
+msgctxt "198758357-0-86193"
+msgid "Icy Aura"
+msgstr "冷たきオーラ"
+
+#: 132143172-0-86190
+msgctxt "132143172-0-86190"
+msgid "Increases your Physical and Spell Resistance by <<1>> for each Winter's Embrace ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "スロットに装備している冬の抱擁アビリティ1つにつき、物理耐性と呪文耐性が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-86190
+msgctxt "198758357-0-86190"
+msgid "Frozen Armor"
+msgstr "凍土の鎧"
+
+#: 132143172-0-86191
+msgctxt "132143172-0-86191"
+msgid "Increase chance of applying Chilled to enemies with Winter's Embrace abilities by <<1>>.\n\nEnemies and allies who have recently been Chilled take <<2>> more Critical Damage and Healing from you."
+msgstr "冬の抱擁アビリティで敵を冷気状態にする確率が<<1>>上昇する。\r\n\r\n冷気状態になったばかりの敵や味方は、術者からクリティカルダメージと回復をさらに<<2>>受ける。"
+
+#: 198758357-0-86191
+msgctxt "198758357-0-86191"
+msgid "Glacial Presence"
+msgstr "氷河の訪れ"
+
+#: 132143172-0-86139
+msgctxt "132143172-0-86139"
+msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka and launch an icy bolt back at the enemy, dealing <<3>>.  This effect can occur once every half second."
+msgstr "周囲に氷の盾を発生させ、投射物のダメージを|cffffff3|r回、<<1>>まで吸収する。\r\n\r\n吸収に成功するたび、マジカを<<2>>回復する。さらに氷のボルトを撃ち返し、<<3>>のダメージを与える。この効果は0.5秒ごとに発動する。"
+
+#: 198758357-0-86139
+msgctxt "198758357-0-86139"
+msgid "Crystallized Slab"
+msgstr "結晶化スラブ"
+
 #: 132143172-0-86117
 msgctxt "132143172-0-86117"
 msgid "Twist a violent storm around you, dealing <<1>> every <<2>> for <<3>> to enemies around you and reducing their Movement Speed by <<4>> and applying the Chilled status effect.\n\nYou and nearby allies gain Major Protection, reducing your damage taken by <<5>>."
@@ -254,6 +190,36 @@ msgstr "周囲に激しい嵐を呼び出し、周囲の敵に<<1>>を<<2>>ご�
 msgctxt "198758357-0-86117"
 msgid "Permafrost"
 msgstr "絶対零度"
+
+#: 132143172-0-86156
+msgctxt "132143172-0-86156"
+msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>.\n\nWhile the effect persists the winds pulse outwards, dealing <<5>> every <<6>> to nearby enemies.  Enemies hit by this effect |cffffff3|r times are stunned for <<7>>.\n\nThis healing from this ability scales with your Max Health."
+msgstr "冬の風が自身を包み、即座に<<1>>を回復する。さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。\r\n\r\nこの効果が残っている間は風が外に放出され、周囲の敵に<<5>>を<<6>>ごとに与える。この効果を|cffffff3|r回受けた敵は、<<7>>の間気絶する。\r\n\r\nこのアビリティによる回復効果は、最大体力に応じて変動する。"
+
+#: 198758357-0-86156
+msgctxt "198758357-0-86156"
+msgid "Arctic Blast"
+msgstr "アークティック・ブラスト"
+
+#: 132143172-0-86179
+msgctxt "132143172-0-86179"
+msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds,\n\nWhen triggered the enemy is teleported to you, immobilized for <<1>>, dealt <<2>>,  and afflicted with Major Maim, reducing their damage done by <<3>> for <<4>>.\n\nYou can have up to |cffffff3|r Frozen Devices active at a time."
+msgstr "古代のポータルを召喚する。|cffffff1.5|r秒後に発動する。\r\n\r\n発動すると、敵は自分の前に転移し、<<1>>の間釘付けにされて<<2>>を受ける。さらに不自由(強)を付与し、敵の与ダメージを<<3>>、<<4>>の間減少させる。\r\n\r\n氷結トラップは一度に|cffffff3|rつまでしか発動できない。"
+
+#: 198758357-0-86179
+msgctxt "198758357-0-86179"
+msgid "Frozen Device"
+msgstr "氷結トラップ"
+
+#: 132143172-0-86135
+msgctxt "132143172-0-86135"
+msgid "Spin a shield of ice around you, absorbing up to <<1>> damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you restore <<2>> Magicka."
+msgstr "周囲に氷の盾を発生させ、投射物のダメージを|cffffff3|r回、<<1>>まで吸収する。\r\n\r\n吸収ごとにマジカを<<2>>回復する。"
+
+#: 198758357-0-86135
+msgctxt "198758357-0-86135"
+msgid "Crystallized Shield"
+msgstr "結晶化シールド"
 
 #: 132143172-0-86113
 msgctxt "132143172-0-86113"
@@ -265,12 +231,42 @@ msgctxt "198758357-0-86113"
 msgid "Northern Storm"
 msgstr "厳寒の烈風"
 
-#: 132143172-0-86109
-msgctxt "132143172-0-86109"
-msgid "Twist a violent storm around you, dealing <<1>> every <<2>> for <<3>> to enemies around you and reducing their Movement Speed by <<4>>.  \n\nYou and nearby allies gain Major Protection, reducing your damage taken by <<5>>."
-msgstr "周囲に激しい嵐を呼び出し、周囲の敵に<<1>>を<<2>>ごとに<<3>>の間与える。移動速度も<<4>>低下する。\r\n\r\n自身と近くにいる味方は防護(強)を得て、被ダメージを<<5>>低下させる。"
+#: 132143172-0-86196
+msgctxt "132143172-0-86196"
+msgid "Increases your Magic and Frost Damage by <<1>>."
+msgstr "魔法と氷結ダメージが<<1>>上昇する。"
 
-#: 198758357-0-86109
-msgctxt "198758357-0-86109"
-msgid "Sleet Storm"
-msgstr "凍雨の嵐"
+#: 198758357-0-86196
+msgctxt "198758357-0-86196"
+msgid "Piercing Cold"
+msgstr "貫く冷気"
+
+#: 132143172-0-86152
+msgctxt "132143172-0-86152"
+msgid "Envelop yourself in winter winds, instantly healing for <<1>> Health and an additional <<2>> Health every <<3>> over <<4>>. \n\nThe winds also sweep out in search of an ally within |cffffff12|r meters, healing them for <<5>> Health.\n\nWhile the effect persists the winds pulse outwards, dealing <<6>> every <<7>> to nearby enemies.\n\nThe healing from this ability scales with your Max Health."
+msgstr "冬の風に身を包み、即座に<<1>>を回復する。さらに体力を<<2>>、<<3>>ごとに<<4>>の間回復する。\r\n\r\nこの風は|cffffff12|rメートル以内にいる味方も探し、体力を<<5>>回復する。\r\n\r\nこの効果が残っている間は風が外に放出され、周囲の敵に<<6>>を<<7>>ごとに与える。\r\n\r\nこのアビリティによる回復効果は、最大体力に応じて変動する。"
+
+#: 198758357-0-86152
+msgctxt "198758357-0-86152"
+msgid "Polar Wind"
+msgstr "ポーラー・ウィンド"
+
+#: 132143172-0-86130
+msgctxt "132143172-0-86130"
+msgid "Wrap a thick cloak of ice around you and your allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.\n\nYou gain Minor Protection, reducing your damage taken by <<3>> for <<4>>."
+msgstr "自身と味方を、厚い氷の衣が覆う。氷は強固(強)を付与し、物理耐性と呪文耐性を<<1>>、<<2>>の間増加させる。\r\n\r\n防護(弱)を得て、被ダメージを<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-86130
+msgctxt "198758357-0-86130"
+msgid "Ice Fortress"
+msgstr "氷砦"
+
+#: 132143172-0-86175
+msgctxt "132143172-0-86175"
+msgid "Summon an ancient portal, which arms after |cffffff1.5|r seconds and lasts for <<1>>.\n\nWhen triggered the enemy is teleported to you, immobilized for <<2>>, and dealt <<3>>.\n\nYou can have up to |cffffff3|r Frozen Gates active at a time."
+msgstr "古代のポータルを召喚する。|cffffff1.5|r秒後に発動し、<<1>>の間持続する。\r\n\r\n発動すると、敵は自分の前に転移し、<<2>>の間釘付けにされて、<<3>>を受ける。\r\n\r\n氷結ゲートは一度に|cffffff3|rつまでしか発動できない。"
+
+#: 198758357-0-86175
+msgctxt "198758357-0-86175"
+msgid "Frozen Gate"
+msgstr "氷結ゲート"

@@ -11,53 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 150525940-0-48951
-msgctxt "150525940-0-48951"
-msgid "I have the ingredients you requested."
-msgstr "頼まれた材料を揃えた"
-
-#: 150525940-0-48395
-#, fuzzy
-msgctxt "150525940-0-48395"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
-#: 150525940-0-48394
-#, fuzzy
-msgctxt "150525940-0-48394"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
-#: 150525940-0-48393
-#, fuzzy
-msgctxt "150525940-0-48393"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
-#: 150525940-0-48392
-#, fuzzy
-msgctxt "150525940-0-48392"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
-#: 150525940-0-48391
-#, fuzzy
-msgctxt "150525940-0-48391"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
-#: 150525940-0-48390
-#, fuzzy
-msgctxt "150525940-0-48390"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
-#: 150525940-0-48389
-#, fuzzy
-msgctxt "150525940-0-48389"
-msgid "I have the ""special"" delivery you requested."
-msgstr "要求どおりの「特別」配達だ"
-
 #: 150525940-0-48388
 #, fuzzy
 msgctxt "150525940-0-48388"
@@ -82,9 +35,21 @@ msgctxt "150525940-0-48385"
 msgid "I have the ""special"" delivery you requested."
 msgstr "要求どおりの「特別」配達だ"
 
+#: 150525940-0-48395
+#, fuzzy
+msgctxt "150525940-0-48395"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"
+
 #: 150525940-0-48384
 #, fuzzy
 msgctxt "150525940-0-48384"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"
+
+#: 150525940-0-48394
+#, fuzzy
+msgctxt "150525940-0-48394"
 msgid "I have the ""special"" delivery you requested."
 msgstr "要求どおりの「特別」配達だ"
 
@@ -94,9 +59,21 @@ msgctxt "150525940-0-48383"
 msgid "I have the ""special"" delivery you requested."
 msgstr "要求どおりの「特別」配達だ"
 
+#: 150525940-0-48393
+#, fuzzy
+msgctxt "150525940-0-48393"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"
+
 #: 150525940-0-48382
 #, fuzzy
 msgctxt "150525940-0-48382"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"
+
+#: 150525940-0-48392
+#, fuzzy
+msgctxt "150525940-0-48392"
 msgid "I have the ""special"" delivery you requested."
 msgstr "要求どおりの「特別」配達だ"
 
@@ -106,7 +83,30 @@ msgctxt "150525940-0-48370"
 msgid "I have the ""special"" delivery you requested."
 msgstr "要求どおりの「特別」配達だ"
 
+#: 150525940-0-48391
+#, fuzzy
+msgctxt "150525940-0-48391"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"
+
+#: 150525940-0-48390
+#, fuzzy
+msgctxt "150525940-0-48390"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"
+
 #: 99155012-0-44217
 msgctxt "99155012-0-44217"
 msgid "I'll get you the ingredients you need."
 msgstr "必要な材料を手に入れる"
+
+#: 150525940-0-48951
+msgctxt "150525940-0-48951"
+msgid "I have the ingredients you requested."
+msgstr "頼まれた材料を揃えた"
+
+#: 150525940-0-48389
+#, fuzzy
+msgctxt "150525940-0-48389"
+msgid "I have the ""special"" delivery you requested."
+msgstr "要求どおりの「特別」配達だ"

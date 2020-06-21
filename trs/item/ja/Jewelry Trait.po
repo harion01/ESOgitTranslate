@@ -11,56 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-139414
-msgctxt "228378404-0-139414"
-msgid "Can be used to enhance jewelry."
-msgstr "宝飾品の強化に使われる。"
-
-#: 242841733-0-139414
-msgctxt "242841733-0-139414"
-msgid "Slaughterstone"
-msgstr "スローターストーン"
-
-#: 228378404-0-139413
-msgctxt "228378404-0-139413"
-msgid "Can be used to enhance jewelry."
-msgstr "宝飾品の強化に使われる。"
-
-#: 242841733-0-139413
-msgctxt "242841733-0-139413"
-msgid "Dibellium"
-msgstr "ディベリウム"
-
-#: 228378404-0-139412
-msgctxt "228378404-0-139412"
-msgid "Can be used to enhance jewelry."
-msgstr "宝飾品の強化に使われる。"
-
-#: 242841733-0-139412
-msgctxt "242841733-0-139412"
-msgid "Gilding Wax"
-msgstr "金箔ワックス"
-
-#: 228378404-0-139411
-msgctxt "228378404-0-139411"
-msgid "Can be used to enhance jewelry."
-msgstr "宝飾品の強化に使われる。"
-
-#: 242841733-0-139411
-msgctxt "242841733-0-139411"
-msgid "Aurbic Amber"
-msgstr "アウルビクアンバー"
-
-#: 228378404-0-139410
-msgctxt "228378404-0-139410"
-msgid "Can be used to enhance jewelry."
-msgstr "宝飾品の強化に使われる。"
-
-#: 242841733-0-139410
-msgctxt "242841733-0-139410"
-msgid "Titanium"
-msgstr "チタニウム"
-
 #: 228378404-0-139409
 msgctxt "228378404-0-139409"
 msgid "Can be used to enhance jewelry."
@@ -81,15 +31,45 @@ msgctxt "242841733-0-135157"
 msgid "zinc"
 msgstr "亜鉛"
 
-#: 228378404-0-135156
-msgctxt "228378404-0-135156"
+#: 228378404-0-139414
+msgctxt "228378404-0-139414"
 msgid "Can be used to enhance jewelry."
 msgstr "宝飾品の強化に使われる。"
 
-#: 242841733-0-135156
-msgctxt "242841733-0-135156"
-msgid "antimony"
-msgstr "アンチモン"
+#: 242841733-0-139414
+msgctxt "242841733-0-139414"
+msgid "Slaughterstone"
+msgstr "スローターストーン"
+
+#: 228378404-0-139412
+msgctxt "228378404-0-139412"
+msgid "Can be used to enhance jewelry."
+msgstr "宝飾品の強化に使われる。"
+
+#: 242841733-0-139412
+msgctxt "242841733-0-139412"
+msgid "Gilding Wax"
+msgstr "金箔ワックス"
+
+#: 228378404-0-139413
+msgctxt "228378404-0-139413"
+msgid "Can be used to enhance jewelry."
+msgstr "宝飾品の強化に使われる。"
+
+#: 242841733-0-139413
+msgctxt "242841733-0-139413"
+msgid "Dibellium"
+msgstr "ディベリウム"
+
+#: 228378404-0-139410
+msgctxt "228378404-0-139410"
+msgid "Can be used to enhance jewelry."
+msgstr "宝飾品の強化に使われる。"
+
+#: 242841733-0-139410
+msgctxt "242841733-0-139410"
+msgid "Titanium"
+msgstr "チタニウム"
 
 #: 228378404-0-135155
 msgctxt "228378404-0-135155"
@@ -100,3 +80,23 @@ msgstr "宝飾品の強化に使われる。"
 msgctxt "242841733-0-135155"
 msgid "cobalt"
 msgstr "コバルト"
+
+#: 228378404-0-139411
+msgctxt "228378404-0-139411"
+msgid "Can be used to enhance jewelry."
+msgstr "宝飾品の強化に使われる。"
+
+#: 242841733-0-139411
+msgctxt "242841733-0-139411"
+msgid "Aurbic Amber"
+msgstr "アウルビクアンバー"
+
+#: 228378404-0-135156
+msgctxt "228378404-0-135156"
+msgid "Can be used to enhance jewelry."
+msgstr "宝飾品の強化に使われる。"
+
+#: 242841733-0-135156
+msgctxt "242841733-0-135156"
+msgid "antimony"
+msgstr "アンチモン"

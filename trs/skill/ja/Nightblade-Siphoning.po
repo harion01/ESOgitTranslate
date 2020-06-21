@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-36560
+msgctxt "132143172-0-36560"
+msgid "After drinking a potion you gain <<1>> Ultimate."
+msgstr "薬を飲むと<<1>>アルティマを獲得する。"
+
+#: 198758357-0-36560
+msgctxt "198758357-0-36560"
+msgid "Catalyst"
+msgstr "力の触媒"
+
 #: 132143172-0-45155
 msgctxt "132143172-0-45155"
 msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
@@ -18,6 +28,106 @@ msgstr "スロットに装備している吸収アビリティ1つにつき、�
 
 #: 198758357-0-45155
 msgctxt "198758357-0-45155"
+msgid "Soul Siphoner"
+msgstr "魂を奪いし者"
+
+#: 132143172-0-45135
+msgctxt "132143172-0-45135"
+msgid "After drinking a potion you gain <<1>> Ultimate."
+msgstr "薬を飲むと<<1>>アルティマを獲得する。"
+
+#: 198758357-0-45135
+msgctxt "198758357-0-45135"
+msgid "Catalyst"
+msgstr "力の触媒"
+
+#: 132143172-0-33291
+msgctxt "132143172-0-33291"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you or a nearby ally for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr "敵の体力を奪って<<1>>を与え、術者か近くの味方の体力を回復する。与えたダメージの<<2>>%分の体力が、<<3>>ごとに<<4>>の間回復する。"
+
+#: 198758357-0-33291
+msgctxt "198758357-0-33291"
+msgid "Strife"
+msgstr "闘争"
+
+#: 132143172-0-34721
+msgctxt "132143172-0-34721"
+msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>."
+msgstr "エキスを犠牲にして、前にいる味方の体力を<<1>>回復する。しかし、自身の体力が<<2>>の間低下する。"
+
+#: 198758357-0-34721
+msgctxt "198758357-0-34721"
+msgid "Shrewd Offering"
+msgstr "明敏なる捧げ物"
+
+#: 132143172-0-36908
+msgctxt "132143172-0-36908"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Stamina for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Stamina when the effect ends, based on the length of time <<5>> was active."
+msgstr "武器に魂を奪い取る力を付与し、軽攻撃と重攻撃の度に、体力を<<1>>、スタミナを<<2>>、<<3>>の間回復する。フルチャージした重攻撃は回復量が2倍になる\r\n\r\n効果が切れると、スタミナをさらに<<4>>まで回復する。回復量は<<5>>が有効だった時間に比例する。"
+
+#: 198758357-0-36908
+msgctxt "198758357-0-36908"
+msgid "Leeching Strikes"
+msgstr "吸血攻撃"
+
+#: 132143172-0-36587
+msgctxt "132143172-0-36587"
+msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "吸収アビリティを唱えると<<1>>アルティマを獲得できる。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-36587
+msgctxt "198758357-0-36587"
+msgid "Transfer"
+msgstr "伝達"
+
+#: 132143172-0-34727
+msgctxt "132143172-0-34727"
+msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>.\n\nWhile your Health is being drained you gain Minor Mending, increasing your healing done by <<3>>."
+msgstr "エキスを犠牲にして、前にいる味方の体力を<<1>>回復する。しかし、自身の体力が<<2>>の間低下する。\r\n\r\n体力が低下している間は治癒力(弱)を獲得し、回復力を<<3>>上昇させる。"
+
+#: 198758357-0-34727
+msgctxt "198758357-0-34727"
+msgid "Healthy Offering"
+msgstr "健全なる捧げ物"
+
+#: 132143172-0-33319
+msgctxt "132143172-0-33319"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health for <<2>>. Fully charged Heavy Attacks restore twice the value."
+msgstr "武器に魂を奪い取る力を付与する。軽攻撃と重攻撃の度に、体力を<<1>>、<<2>>の間回復する。フルチャージした重攻撃は回復量が2倍になる"
+
+#: 198758357-0-33319
+msgctxt "198758357-0-33319"
+msgid "Siphoning Strikes"
+msgstr "吸収攻撃"
+
+#: 132143172-0-36943
+msgctxt "132143172-0-36943"
+msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> over <<2>> and reducing their movement speed by <<3>> for <<4>>.\n\nWhile this effect persists the enemy is afflicted with <<5>>, causing you and your allies to restore <<6>> Magicka every <<7>> when damaging them."
+msgstr "敵の敏捷性を吸収し、苦痛を与える。<<1>>を<<2>>の間与えて相手の移動速度を<<3>>、<<4>>の間低下させる。\r\n\r\nこの効果が残っていて敵が<<5>>を受けている間、自身と味方はマジカを<<6>>、ダメージが入る<<7>>ごとに回復する。"
+
+#: 198758357-0-36943
+msgctxt "198758357-0-36943"
+msgid "Debilitate"
+msgstr "衰弱"
+
+#: 132143172-0-33316
+msgctxt "132143172-0-33316"
+msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<2>> for <<3>>."
+msgstr "敵の血から活力を吸い出し、近くにいる敵全員に<<1>>を与える。\r\n\r\n敵に攻撃が命中すると術者に残忍(強)と魔術(強)が付与され、自身の武器ダメージと呪文ダメージが<<2>>、<<3>>の間増加する。"
+
+#: 198758357-0-33316
+msgctxt "198758357-0-33316"
+msgid "Drain Power"
+msgstr "活力吸収"
+
+#: 132143172-0-36603
+msgctxt "132143172-0-36603"
+msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している吸収アビリティ1つにつき、回復の効果が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-36603
+msgctxt "198758357-0-36603"
 msgid "Soul Siphoner"
 msgstr "魂を奪いし者"
 
@@ -31,66 +141,6 @@ msgctxt "198758357-0-45150"
 msgid "Magicka Flood"
 msgstr "マジカの流れ"
 
-#: 132143172-0-45145
-msgctxt "132143172-0-45145"
-msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr "吸収アビリティを唱えると<<1>>アルティマを獲得できる。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-45145
-msgctxt "198758357-0-45145"
-msgid "Transfer"
-msgstr "伝達"
-
-#: 132143172-0-45135
-msgctxt "132143172-0-45135"
-msgid "After drinking a potion you gain <<1>> Ultimate."
-msgstr "薬を飲むと<<1>>アルティマを獲得する。"
-
-#: 198758357-0-45135
-msgctxt "198758357-0-45135"
-msgid "Catalyst"
-msgstr "力の触媒"
-
-#: 132143172-0-36957
-msgctxt "132143172-0-36957"
-msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> and an additional <<2>> over <<3>>, immobilizing them for <<4>>, and reducing their movement speed by <<5>> for <<6>>."
-msgstr "敵の敏捷性を吸収し、苦痛を与える。<<1>>を与え、追加で<<2>>を<<3>>の間与え、<<4>>の間移動不能にする。さらに相手の移動速度を<<5>>、<<6>>の間低下させる。"
-
-#: 198758357-0-36957
-msgctxt "198758357-0-36957"
-msgid "Crippling Grasp"
-msgstr "拘束"
-
-#: 132143172-0-36943
-msgctxt "132143172-0-36943"
-msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> over <<2>> and reducing their movement speed by <<3>> for <<4>>.\n\nWhile this effect persists the enemy is afflicted with <<5>>, causing you and your allies to restore <<6>> Magicka every <<7>> when damaging them."
-msgstr "敵の敏捷性を吸収し、苦痛を与える。<<1>>を<<2>>の間与えて相手の移動速度を<<3>>、<<4>>の間低下させる。\r\n\r\nこの効果が残っていて敵が<<5>>を受けている間、自身と味方はマジカを<<6>>、ダメージが入る<<7>>ごとに回復する。"
-
-#: 198758357-0-36943
-msgctxt "198758357-0-36943"
-msgid "Debilitate"
-msgstr "衰弱"
-
-#: 132143172-0-36935
-msgctxt "132143172-0-36935"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Magicka for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Magicka when the effect ends, based on the length of time <<5>> was active."
-msgstr "武器に魂を奪い取る力を付与する。軽攻撃と重攻撃の度に、体力を<<1>>、マジカを<<2>>、<<3>>の間回復する。フルチャージした重攻撃は回復量が2倍になる\r\n\r\n効果が切れると、マジカをさらに<<4>>まで回復する。回復量は<<5>>が有効だった時間に比例する。"
-
-#: 198758357-0-36935
-msgctxt "198758357-0-36935"
-msgid "Siphoning Attacks"
-msgstr "吸引強化"
-
-#: 132143172-0-36908
-msgctxt "132143172-0-36908"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Stamina for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Stamina when the effect ends, based on the length of time <<5>> was active."
-msgstr "武器に魂を奪い取る力を付与し、軽攻撃と重攻撃の度に、体力を<<1>>、スタミナを<<2>>、<<3>>の間回復する。フルチャージした重攻撃は回復量が2倍になる\r\n\r\n効果が切れると、スタミナをさらに<<4>>まで回復する。回復量は<<5>>が有効だった時間に比例する。"
-
-#: 198758357-0-36908
-msgctxt "198758357-0-36908"
-msgid "Leeching Strikes"
-msgstr "吸血攻撃"
-
 #: 132143172-0-36901
 msgctxt "132143172-0-36901"
 msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you reduce their Weapon and Spell Damage by <<2>> for <<3>> and you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<4>> for <<5>>."
@@ -100,6 +150,16 @@ msgstr "敵の血から活力を吸い出し、近くにいる敵全員に<<1>>�
 msgctxt "198758357-0-36901"
 msgid "Power Extraction"
 msgstr "力の強奪"
+
+#: 132143172-0-45145
+msgctxt "132143172-0-45145"
+msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "吸収アビリティを唱えると<<1>>アルティマを獲得できる。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-45145
+msgctxt "198758357-0-45145"
+msgid "Transfer"
+msgstr "伝達"
 
 #: 132143172-0-36891
 msgctxt "132143172-0-36891"
@@ -111,16 +171,6 @@ msgctxt "198758357-0-36891"
 msgid "Sap Essence"
 msgstr "精神力吸収"
 
-#: 132143172-0-36603
-msgctxt "132143172-0-36603"
-msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
-msgstr "スロットに装備している吸収アビリティ1つにつき、回復の効果が<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-36603
-msgctxt "198758357-0-36603"
-msgid "Soul Siphoner"
-msgstr "魂を奪いし者"
-
 #: 132143172-0-36595
 msgctxt "132143172-0-36595"
 msgid "Increases your Max Magicka by <<1>> while a Siphoning ability is slotted."
@@ -130,36 +180,6 @@ msgstr "吸収アビリティを装備中、最大マジカ値が<<1>>増加す�
 msgctxt "198758357-0-36595"
 msgid "Magicka Flood"
 msgstr "マジカの流れ"
-
-#: 132143172-0-36587
-msgctxt "132143172-0-36587"
-msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr "吸収アビリティを唱えると<<1>>アルティマを獲得できる。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-36587
-msgctxt "198758357-0-36587"
-msgid "Transfer"
-msgstr "伝達"
-
-#: 132143172-0-36560
-msgctxt "132143172-0-36560"
-msgid "After drinking a potion you gain <<1>> Ultimate."
-msgstr "薬を飲むと<<1>>アルティマを獲得する。"
-
-#: 198758357-0-36560
-msgctxt "198758357-0-36560"
-msgid "Catalyst"
-msgstr "力の触媒"
-
-#: 132143172-0-35508
-msgctxt "132143172-0-35508"
-msgid "Sanctify your soul and the souls of nearby allies with a night rune, healing for <<1>> Health and an additional <<2>> Health over <<3>>.\n\nYou and your allies will also receive Major Vitality, increasing your healing received by <<4>> for <<5>>.\n\nAn ally can target a nearby enemy and activate the |cffffffSoul Leech|r synergy, dealing <<6>> to them and healing for the damage caused."
-msgstr "夜のルーンで自分と近くにいる味方の魂を浄化して体力を<<1>>回復し、その後さらに体力を<<2>>、<<3>>の間回復する。\r\n\r\n自分と味方には生命力(強)が付与され、被回復力が<<4>>、<<5>>の間上昇する。\r\n\r\n\r\n味方は周囲の敵を標的にして|cffffff魂の吸血|rシナジーを発動し、<<6>>を与えてダメージに応じた回復を行う。"
-
-#: 198758357-0-35508
-msgctxt "198758357-0-35508"
-msgid "Soul Siphon"
-msgstr "魂吸引"
 
 #: 132143172-0-35460
 msgctxt "132143172-0-35460"
@@ -171,45 +191,25 @@ msgctxt "198758357-0-35460"
 msgid "Soul Tether"
 msgstr "魂の鎖"
 
-#: 132143172-0-34838
-msgctxt "132143172-0-34838"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you or |cffffff2|r other nearby allies for <<2>>% of the damage inflicted every <<3>> for <<4>>."
-msgstr "敵の体力を奪って<<1>>を与え、術者か近くにいる仲間|cffffff2|r人の体力を回復する。与えたダメージの<<2>>%分の体力が、<<3>>ごとに<<4>>の間回復する。"
+#: 132143172-0-36957
+msgctxt "132143172-0-36957"
+msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> and an additional <<2>> over <<3>>, immobilizing them for <<4>>, and reducing their movement speed by <<5>> for <<6>>."
+msgstr "敵の敏捷性を吸収し、苦痛を与える。<<1>>を与え、追加で<<2>>を<<3>>の間与え、<<4>>の間移動不能にする。さらに相手の移動速度を<<5>>、<<6>>の間低下させる。"
 
-#: 198758357-0-34838
-msgctxt "198758357-0-34838"
-msgid "Funnel Health"
-msgstr "体力拡散"
+#: 198758357-0-36957
+msgctxt "198758357-0-36957"
+msgid "Crippling Grasp"
+msgstr "拘束"
 
-#: 132143172-0-34835
-msgctxt "132143172-0-34835"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you for <<2>>% of the damage inflicted every <<3>> for <<4>>."
-msgstr "敵の体力を奪って<<1>>を与え、術者の体力を回復する。与えたダメージの<<2>>%分の体力が、<<3>>ごとに<<4>>の間回復する。"
+#: 132143172-0-36935
+msgctxt "132143172-0-36935"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Magicka for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Magicka when the effect ends, based on the length of time <<5>> was active."
+msgstr "武器に魂を奪い取る力を付与する。軽攻撃と重攻撃の度に、体力を<<1>>、マジカを<<2>>、<<3>>の間回復する。フルチャージした重攻撃は回復量が2倍になる\r\n\r\n効果が切れると、マジカをさらに<<4>>まで回復する。回復量は<<5>>が有効だった時間に比例する。"
 
-#: 198758357-0-34835
-msgctxt "198758357-0-34835"
-msgid "Swallow Soul"
-msgstr "魂丸呑み"
-
-#: 132143172-0-34727
-msgctxt "132143172-0-34727"
-msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>.\n\nWhile your Health is being drained you gain Minor Mending, increasing your healing done by <<3>>."
-msgstr "エキスを犠牲にして、前にいる味方の体力を<<1>>回復する。しかし、自身の体力が<<2>>の間低下する。\r\n\r\n体力が低下している間は治癒力(弱)を獲得し、回復力を<<3>>上昇させる。"
-
-#: 198758357-0-34727
-msgctxt "198758357-0-34727"
-msgid "Healthy Offering"
-msgstr "健全なる捧げ物"
-
-#: 132143172-0-34721
-msgctxt "132143172-0-34721"
-msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>."
-msgstr "エキスを犠牲にして、前にいる味方の体力を<<1>>回復する。しかし、自身の体力が<<2>>の間低下する。"
-
-#: 198758357-0-34721
-msgctxt "198758357-0-34721"
-msgid "Shrewd Offering"
-msgstr "明敏なる捧げ物"
+#: 198758357-0-36935
+msgctxt "198758357-0-36935"
+msgid "Siphoning Attacks"
+msgstr "吸引強化"
 
 #: 132143172-0-33326
 msgctxt "132143172-0-33326"
@@ -221,25 +221,35 @@ msgctxt "198758357-0-33326"
 msgid "Cripple"
 msgstr "不全"
 
-#: 132143172-0-33319
-msgctxt "132143172-0-33319"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health for <<2>>. Fully charged Heavy Attacks restore twice the value."
-msgstr "武器に魂を奪い取る力を付与する。軽攻撃と重攻撃の度に、体力を<<1>>、<<2>>の間回復する。フルチャージした重攻撃は回復量が2倍になる"
+#: 132143172-0-34838
+msgctxt "132143172-0-34838"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you or |cffffff2|r other nearby allies for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr "敵の体力を奪って<<1>>を与え、術者か近くにいる仲間|cffffff2|r人の体力を回復する。与えたダメージの<<2>>%分の体力が、<<3>>ごとに<<4>>の間回復する。"
 
-#: 198758357-0-33319
-msgctxt "198758357-0-33319"
-msgid "Siphoning Strikes"
-msgstr "吸収攻撃"
+#: 198758357-0-34838
+msgctxt "198758357-0-34838"
+msgid "Funnel Health"
+msgstr "体力拡散"
 
-#: 132143172-0-33316
-msgctxt "132143172-0-33316"
-msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<2>> for <<3>>."
-msgstr "敵の血から活力を吸い出し、近くにいる敵全員に<<1>>を与える。\r\n\r\n敵に攻撃が命中すると術者に残忍(強)と魔術(強)が付与され、自身の武器ダメージと呪文ダメージが<<2>>、<<3>>の間増加する。"
+#: 132143172-0-25091
+msgctxt "132143172-0-25091"
+msgid "Ravage nearby enemies' souls with a night rune, dealing <<1>> and stunning them for <<2>>. \n\nAn ally can target a ravaged enemy and activate the |cffffffSoul Leech|r synergy, dealing <<3>> to them and healing for the damage caused."
+msgstr "近くにいる敵の魂を夜のルーンで破壊する。<<1>>を与えて<<2>>の間気絶させる。\r\n\r\n味方は破壊された敵を標的にして|cffffff魂の吸血|rシナジーを発動し、<<3>>を与えてダメージに応じた回復を行う。"
 
-#: 198758357-0-33316
-msgctxt "198758357-0-33316"
-msgid "Drain Power"
-msgstr "活力吸収"
+#: 198758357-0-25091
+msgctxt "198758357-0-25091"
+msgid "Soul Shred"
+msgstr "魂の細断"
+
+#: 132143172-0-35508
+msgctxt "132143172-0-35508"
+msgid "Sanctify your soul and the souls of nearby allies with a night rune, healing for <<1>> Health and an additional <<2>> Health over <<3>>.\n\nYou and your allies will also receive Major Vitality, increasing your healing received by <<4>> for <<5>>.\n\nAn ally can target a nearby enemy and activate the |cffffffSoul Leech|r synergy, dealing <<6>> to them and healing for the damage caused."
+msgstr "夜のルーンで自分と近くにいる味方の魂を浄化して体力を<<1>>回復し、その後さらに体力を<<2>>、<<3>>の間回復する。\r\n\r\n自分と味方には生命力(強)が付与され、被回復力が<<4>>、<<5>>の間上昇する。\r\n\r\n\r\n味方は周囲の敵を標的にして|cffffff魂の吸血|rシナジーを発動し、<<6>>を与えてダメージに応じた回復を行う。"
+
+#: 198758357-0-35508
+msgctxt "198758357-0-35508"
+msgid "Soul Siphon"
+msgstr "魂吸引"
 
 #: 132143172-0-33308
 msgctxt "132143172-0-33308"
@@ -251,22 +261,12 @@ msgctxt "198758357-0-33308"
 msgid "Malevolent Offering"
 msgstr "害なる捧げ物"
 
-#: 132143172-0-33291
-msgctxt "132143172-0-33291"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you or a nearby ally for <<2>>% of the damage inflicted every <<3>> for <<4>>."
-msgstr "敵の体力を奪って<<1>>を与え、術者か近くの味方の体力を回復する。与えたダメージの<<2>>%分の体力が、<<3>>ごとに<<4>>の間回復する。"
+#: 132143172-0-34835
+msgctxt "132143172-0-34835"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr "敵の体力を奪って<<1>>を与え、術者の体力を回復する。与えたダメージの<<2>>%分の体力が、<<3>>ごとに<<4>>の間回復する。"
 
-#: 198758357-0-33291
-msgctxt "198758357-0-33291"
-msgid "Strife"
-msgstr "闘争"
-
-#: 132143172-0-25091
-msgctxt "132143172-0-25091"
-msgid "Ravage nearby enemies' souls with a night rune, dealing <<1>> and stunning them for <<2>>. \n\nAn ally can target a ravaged enemy and activate the |cffffffSoul Leech|r synergy, dealing <<3>> to them and healing for the damage caused."
-msgstr "近くにいる敵の魂を夜のルーンで破壊する。<<1>>を与えて<<2>>の間気絶させる。\r\n\r\n味方は破壊された敵を標的にして|cffffff魂の吸血|rシナジーを発動し、<<3>>を与えてダメージに応じた回復を行う。"
-
-#: 198758357-0-25091
-msgctxt "198758357-0-25091"
-msgid "Soul Shred"
-msgstr "魂の細断"
+#: 198758357-0-34835
+msgctxt "198758357-0-34835"
+msgid "Swallow Soul"
+msgstr "魂丸呑み"

@@ -11,64 +11,14 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-68342
-msgctxt "228378404-0-68342"
-msgid "Hakeijo"
-msgstr ""
-
-#: 242841733-0-68342
-msgctxt "242841733-0-68342"
-msgid "Hakeijo"
-msgstr ""
-
-#: 228378404-0-45849
-msgctxt "228378404-0-45849"
-msgid "Kaderi"
-msgstr ""
-
-#: 242841733-0-45849
-msgctxt "242841733-0-45849"
-msgid "Kaderi"
-msgstr ""
-
-#: 228378404-0-45848
-msgctxt "228378404-0-45848"
-msgid "Makderi"
-msgstr ""
-
-#: 242841733-0-45848
-msgctxt "242841733-0-45848"
-msgid "Makderi"
-msgstr ""
-
-#: 228378404-0-45847
-msgctxt "228378404-0-45847"
-msgid "Taderi"
-msgstr ""
-
-#: 242841733-0-45847
-msgctxt "242841733-0-45847"
-msgid "Taderi"
-msgstr ""
-
-#: 228378404-0-45846
-msgctxt "228378404-0-45846"
-msgid "Oru"
-msgstr ""
-
-#: 242841733-0-45846
-msgctxt "242841733-0-45846"
-msgid "Oru"
-msgstr ""
-
 #: 242841733-0-45845
 msgctxt "242841733-0-45845"
 msgid "Lire"
 msgstr ""
 
-#: 242841733-0-45843
-msgctxt "242841733-0-45843"
-msgid "Okori"
+#: 242841733-0-45844
+msgctxt "242841733-0-45844"
+msgid "Jaedi"
 msgstr ""
 
 #: 228378404-0-45842
@@ -81,6 +31,16 @@ msgctxt "242841733-0-45842"
 msgid "Deteri"
 msgstr ""
 
+#: 228378404-0-45831
+msgctxt "228378404-0-45831"
+msgid "Oko"
+msgstr ""
+
+#: 242841733-0-45831
+msgctxt "242841733-0-45831"
+msgid "Oko"
+msgstr ""
+
 #: 228378404-0-45841
 msgctxt "228378404-0-45841"
 msgid "Haoko"
@@ -89,6 +49,36 @@ msgstr ""
 #: 242841733-0-45841
 msgctxt "242841733-0-45841"
 msgid "Haoko"
+msgstr ""
+
+#: 228378404-0-45833
+msgctxt "228378404-0-45833"
+msgid "Deni"
+msgstr ""
+
+#: 242841733-0-45833
+msgctxt "242841733-0-45833"
+msgid "Deni"
+msgstr ""
+
+#: 228378404-0-45843
+msgctxt "228378404-0-45843"
+msgid "Okori"
+msgstr ""
+
+#: 242841733-0-45843
+msgctxt "242841733-0-45843"
+msgid "Okori"
+msgstr ""
+
+#: 228378404-0-45832
+msgctxt "228378404-0-45832"
+msgid "Makko"
+msgstr ""
+
+#: 242841733-0-45832
+msgctxt "242841733-0-45832"
+msgid "Makko"
 msgstr ""
 
 #: 228378404-0-45840
@@ -111,6 +101,16 @@ msgctxt "242841733-0-45839"
 msgid "Dekeipa"
 msgstr ""
 
+#: 228378404-0-45849
+msgctxt "228378404-0-45849"
+msgid "Kaderi"
+msgstr ""
+
+#: 242841733-0-45849
+msgctxt "242841733-0-45849"
+msgid "Kaderi"
+msgstr ""
+
 #: 228378404-0-45838
 msgctxt "228378404-0-45838"
 msgid "Rakeipa"
@@ -121,24 +121,14 @@ msgctxt "242841733-0-45838"
 msgid "Rakeipa"
 msgstr ""
 
-#: 228378404-0-45837
-msgctxt "228378404-0-45837"
-msgid "Kuoko"
+#: 228378404-0-45846
+msgctxt "228378404-0-45846"
+msgid "Oru"
 msgstr ""
 
-#: 242841733-0-45837
-msgctxt "242841733-0-45837"
-msgid "Kuoko"
-msgstr ""
-
-#: 228378404-0-45836
-msgctxt "228378404-0-45836"
-msgid "Denima"
-msgstr ""
-
-#: 242841733-0-45836
-msgctxt "242841733-0-45836"
-msgid "Denima"
+#: 242841733-0-45846
+msgctxt "242841733-0-45846"
+msgid "Oru"
 msgstr ""
 
 #: 228378404-0-45835
@@ -161,42 +151,62 @@ msgctxt "242841733-0-45834"
 msgid "Okoma"
 msgstr ""
 
-#: 228378404-0-45833
-msgctxt "228378404-0-45833"
-msgid "Deni"
+#: 228378404-0-45848
+msgctxt "228378404-0-45848"
+msgid "Makderi"
 msgstr ""
 
-#: 242841733-0-45833
-msgctxt "242841733-0-45833"
-msgid "Deni"
+#: 242841733-0-45848
+msgctxt "242841733-0-45848"
+msgid "Makderi"
 msgstr ""
 
-#: 228378404-0-45832
-msgctxt "228378404-0-45832"
-msgid "Makko"
+#: 228378404-0-45837
+msgctxt "228378404-0-45837"
+msgid "Kuoko"
 msgstr ""
 
-#: 242841733-0-45832
-msgctxt "242841733-0-45832"
-msgid "Makko"
+#: 242841733-0-45837
+msgctxt "242841733-0-45837"
+msgid "Kuoko"
 msgstr ""
 
-#: 228378404-0-45831
-msgctxt "228378404-0-45831"
-msgid "Oko"
+#: 228378404-0-166045
+msgctxt "228378404-0-166045"
+msgid "Indeko"
 msgstr ""
 
-#: 242841733-0-45831
-msgctxt "242841733-0-45831"
-msgid "Oko"
+#: 242841733-0-166045
+msgctxt "242841733-0-166045"
+msgid "Indeko"
 msgstr ""
 
-#: 242841733-0-45844
-msgctxt "242841733-0-45844"
-msgid "Jaedi"
+#: 228378404-0-45847
+msgctxt "228378404-0-45847"
+msgid "Taderi"
 msgstr ""
 
-#: 228378404-0-45843
-msgctxt "228378404-0-45843"
-msgid "Okori"
+#: 242841733-0-45847
+msgctxt "242841733-0-45847"
+msgid "Taderi"
+msgstr ""
+
+#: 228378404-0-45836
+msgctxt "228378404-0-45836"
+msgid "Denima"
+msgstr ""
+
+#: 242841733-0-45836
+msgctxt "242841733-0-45836"
+msgid "Denima"
+msgstr ""
+
+#: 228378404-0-68342
+msgctxt "228378404-0-68342"
+msgid "Hakeijo"
+msgstr ""
+
+#: 242841733-0-68342
+msgctxt "242841733-0-68342"
+msgid "Hakeijo"
 msgstr ""

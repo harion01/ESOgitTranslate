@@ -11,25 +11,25 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-69953
-msgctxt "132143172-0-69953"
-msgid "Allows the use of Legendary (gold) Recipes."
-msgstr "伝説(金)レシピが使用可能になる。"
+#: 132143172-0-44621
+msgctxt "132143172-0-44621"
+msgid "Creates 2 extra servings for each drink recipe made."
+msgstr "一度に作れる飲み物の数が2つ増える。"
 
-#: 198758357-0-69953
-msgctxt "198758357-0-69953"
-msgid "Recipe Quality"
-msgstr "レシピの幅"
+#: 198758357-0-44621
+msgctxt "198758357-0-44621"
+msgid "Brewer"
+msgstr "醸造家"
 
-#: 132143172-0-44650
-msgctxt "132143172-0-44650"
-msgid "Allows the making of up to Champion 150 Recipes."
-msgstr "チャンピオン150以下のレシピから料理を作れる。"
+#: 132143172-0-44620
+msgctxt "132143172-0-44620"
+msgid "Creates 1 extra serving for each drink recipe made."
+msgstr "一度に作れる飲み物の数が1つ増える。"
 
-#: 198758357-0-44650
-msgctxt "198758357-0-44650"
-msgid "Recipe Improvement"
-msgstr "レシピ上達"
+#: 198758357-0-44620
+msgctxt "198758357-0-44620"
+msgid "Brewer"
+msgstr "醸造家"
 
 #: 132143172-0-44641
 msgctxt "132143172-0-44641"
@@ -51,35 +51,15 @@ msgctxt "198758357-0-44640"
 msgid "Hireling"
 msgstr "助手"
 
-#: 132143172-0-44634
-msgctxt "132143172-0-44634"
-msgid "When you go offline, a hireling will find Food or Drink ingredients for you. Your hireling can be used every 24 hours."
-msgstr "オフラインの間、助手が食べ物や飲み物の材料を集めてくれる。助手は24時間ごとに利用可能になる。"
+#: 132143172-0-44609
+msgctxt "132143172-0-44609"
+msgid "Adds 10 minutes to the duration of any eaten food."
+msgstr "食べ物による効果の持続時間が10分延長される。"
 
-#: 198758357-0-44634
-msgctxt "198758357-0-44634"
-msgid "Hireling"
-msgstr "助手"
-
-#: 132143172-0-44631
-msgctxt "132143172-0-44631"
-msgid "Allows the use of Complex (purple) Recipes."
-msgstr "複雑なレシピ(紫)が使用可能になる。"
-
-#: 198758357-0-44631
-msgctxt "198758357-0-44631"
-msgid "Recipe Quality"
-msgstr "レシピの幅"
-
-#: 132143172-0-44630
-msgctxt "132143172-0-44630"
-msgid "Allows the use of Difficult (blue) Recipes."
-msgstr "難しいレシピ(青)が使用可能になる。"
-
-#: 198758357-0-44630
-msgctxt "198758357-0-44630"
-msgid "Recipe Quality"
-msgstr "レシピの幅"
+#: 198758357-0-44609
+msgctxt "198758357-0-44609"
+msgid "Gourmand"
+msgstr "グルメ"
 
 #: 132143172-0-44625
 msgctxt "132143172-0-44625"
@@ -101,25 +81,135 @@ msgctxt "198758357-0-44624"
 msgid "Brewer"
 msgstr "醸造家"
 
-#: 132143172-0-44621
-msgctxt "132143172-0-44621"
-msgid "Creates 2 extra servings for each drink recipe made."
-msgstr "一度に作れる飲み物の数が2つ増える。"
+#: 132143172-0-44602
+msgctxt "132143172-0-44602"
+msgid "Adds 5 minutes to the duration of any eaten food."
+msgstr "食べ物による効果の持続時間が5分延長される。"
 
-#: 198758357-0-44621
-msgctxt "198758357-0-44621"
-msgid "Brewer"
-msgstr "醸造家"
+#: 198758357-0-44602
+msgctxt "198758357-0-44602"
+msgid "Gourmand"
+msgstr "グルメ"
 
-#: 132143172-0-44620
-msgctxt "132143172-0-44620"
-msgid "Creates 1 extra serving for each drink recipe made."
-msgstr "一度に作れる飲み物の数が1つ増える。"
+#: 132143172-0-44610
+msgctxt "132143172-0-44610"
+msgid "Adds 20 minutes to the duration of any eaten food."
+msgstr "食べ物による効果の持続時間が20分延長される。"
 
-#: 198758357-0-44620
-msgctxt "198758357-0-44620"
-msgid "Brewer"
-msgstr "醸造家"
+#: 198758357-0-44610
+msgctxt "198758357-0-44610"
+msgid "Gourmand"
+msgstr "グルメ"
+
+#: 132143172-0-44599
+msgctxt "132143172-0-44599"
+msgid "Allows the making of up to Champion 50 Recipes."
+msgstr "チャンピオン50以下のレシピから料理を作れる。"
+
+#: 198758357-0-44599
+msgctxt "198758357-0-44599"
+msgid "Recipe Improvement"
+msgstr "レシピ上達"
+
+#: 132143172-0-44631
+msgctxt "132143172-0-44631"
+msgid "Allows the use of Complex (purple) Recipes."
+msgstr "複雑なレシピ(紫)が使用可能になる。"
+
+#: 198758357-0-44631
+msgctxt "198758357-0-44631"
+msgid "Recipe Quality"
+msgstr "レシピの幅"
+
+#: 132143172-0-44598
+msgctxt "132143172-0-44598"
+msgid "Allows the making of up to level 49 Recipes."
+msgstr "レベル49までのレシピから料理を作れるようになる。"
+
+#: 198758357-0-44598
+msgctxt "198758357-0-44598"
+msgid "Recipe Improvement"
+msgstr "レシピ上達"
+
+#: 132143172-0-44634
+msgctxt "132143172-0-44634"
+msgid "When you go offline, a hireling will find Food or Drink ingredients for you. Your hireling can be used every 24 hours."
+msgstr "オフラインの間、助手が食べ物や飲み物の材料を集めてくれる。助手は24時間ごとに利用可能になる。"
+
+#: 198758357-0-44634
+msgctxt "198758357-0-44634"
+msgid "Hireling"
+msgstr "助手"
+
+#: 132143172-0-44612
+msgctxt "132143172-0-44612"
+msgid "Adds 5 minutes to the duration of any consumed drink."
+msgstr "飲み物による効果の持続時間が5分延長される。"
+
+#: 198758357-0-44612
+msgctxt "198758357-0-44612"
+msgid "Connoisseur"
+msgstr "目利き"
+
+#: 132143172-0-44650
+msgctxt "132143172-0-44650"
+msgid "Allows the making of up to Champion 150 Recipes."
+msgstr "チャンピオン150以下のレシピから料理を作れる。"
+
+#: 198758357-0-44650
+msgctxt "198758357-0-44650"
+msgid "Recipe Improvement"
+msgstr "レシピ上達"
+
+#: 132143172-0-44595
+msgctxt "132143172-0-44595"
+msgid "Allows the making of up to level 29 Recipes."
+msgstr "レベル29までのレシピから料理を作れるようになる。"
+
+#: 198758357-0-44595
+msgctxt "198758357-0-44595"
+msgid "Recipe Improvement"
+msgstr "レシピ上達"
+
+#: 132143172-0-44630
+msgctxt "132143172-0-44630"
+msgid "Allows the use of Difficult (blue) Recipes."
+msgstr "難しいレシピ(青)が使用可能になる。"
+
+#: 198758357-0-44630
+msgctxt "198758357-0-44630"
+msgid "Recipe Quality"
+msgstr "レシピの幅"
+
+#: 132143172-0-44597
+msgctxt "132143172-0-44597"
+msgid "Allows the making of up to level 39 Recipes."
+msgstr "レベル39までのレシピから料理を作れるようになる。"
+
+#: 198758357-0-44597
+msgctxt "198758357-0-44597"
+msgid "Recipe Improvement"
+msgstr "レシピ上達"
+
+#: 132143172-0-69953
+msgctxt "132143172-0-69953"
+msgid "Allows the use of Legendary (gold) Recipes."
+msgstr "伝説(金)レシピが使用可能になる。"
+
+#: 198758357-0-69953
+msgctxt "198758357-0-69953"
+msgid "Recipe Quality"
+msgstr "レシピの幅"
+
+#: 132143172-0-44617
+msgctxt "132143172-0-44617"
+msgid "Creates 2 extra servings for each food recipe made."
+msgstr "1回の調理から作れる料理の数が2つ増える。"
+
+#: 198758357-0-44617
+msgctxt "198758357-0-44617"
+msgid "Chef"
+msgstr "シェフ"
 
 #: 132143172-0-44619
 msgctxt "132143172-0-44619"
@@ -131,15 +221,15 @@ msgctxt "198758357-0-44619"
 msgid "Chef"
 msgstr "シェフ"
 
-#: 132143172-0-44617
-msgctxt "132143172-0-44617"
-msgid "Creates 2 extra servings for each food recipe made."
-msgstr "1回の調理から作れる料理の数が2つ増える。"
+#: 132143172-0-44614
+msgctxt "132143172-0-44614"
+msgid "Adds 10 minutes to the duration of any consumed drink."
+msgstr "飲み物による効果の持続時間が10分延長される。"
 
-#: 198758357-0-44617
-msgctxt "198758357-0-44617"
-msgid "Chef"
-msgstr "シェフ"
+#: 198758357-0-44614
+msgctxt "198758357-0-44614"
+msgid "Connoisseur"
+msgstr "目利き"
 
 #: 132143172-0-44616
 msgctxt "132143172-0-44616"
@@ -160,96 +250,6 @@ msgstr "飲み物による効果の持続時間が20分延長される。"
 msgctxt "198758357-0-44615"
 msgid "Connoisseur"
 msgstr "目利き"
-
-#: 132143172-0-44614
-msgctxt "132143172-0-44614"
-msgid "Adds 10 minutes to the duration of any consumed drink."
-msgstr "飲み物による効果の持続時間が10分延長される。"
-
-#: 198758357-0-44614
-msgctxt "198758357-0-44614"
-msgid "Connoisseur"
-msgstr "目利き"
-
-#: 132143172-0-44612
-msgctxt "132143172-0-44612"
-msgid "Adds 5 minutes to the duration of any consumed drink."
-msgstr "飲み物による効果の持続時間が5分延長される。"
-
-#: 198758357-0-44612
-msgctxt "198758357-0-44612"
-msgid "Connoisseur"
-msgstr "目利き"
-
-#: 132143172-0-44610
-msgctxt "132143172-0-44610"
-msgid "Adds 20 minutes to the duration of any eaten food."
-msgstr "食べ物による効果の持続時間が20分延長される。"
-
-#: 198758357-0-44610
-msgctxt "198758357-0-44610"
-msgid "Gourmand"
-msgstr "グルメ"
-
-#: 132143172-0-44609
-msgctxt "132143172-0-44609"
-msgid "Adds 10 minutes to the duration of any eaten food."
-msgstr "食べ物による効果の持続時間が10分延長される。"
-
-#: 198758357-0-44609
-msgctxt "198758357-0-44609"
-msgid "Gourmand"
-msgstr "グルメ"
-
-#: 132143172-0-44602
-msgctxt "132143172-0-44602"
-msgid "Adds 5 minutes to the duration of any eaten food."
-msgstr "食べ物による効果の持続時間が5分延長される。"
-
-#: 198758357-0-44602
-msgctxt "198758357-0-44602"
-msgid "Gourmand"
-msgstr "グルメ"
-
-#: 132143172-0-44599
-msgctxt "132143172-0-44599"
-msgid "Allows the making of up to Champion 50 Recipes."
-msgstr "チャンピオン50以下のレシピから料理を作れる。"
-
-#: 198758357-0-44599
-msgctxt "198758357-0-44599"
-msgid "Recipe Improvement"
-msgstr "レシピ上達"
-
-#: 132143172-0-44598
-msgctxt "132143172-0-44598"
-msgid "Allows the making of up to level 49 Recipes."
-msgstr "レベル49までのレシピから料理を作れるようになる。"
-
-#: 198758357-0-44598
-msgctxt "198758357-0-44598"
-msgid "Recipe Improvement"
-msgstr "レシピ上達"
-
-#: 132143172-0-44597
-msgctxt "132143172-0-44597"
-msgid "Allows the making of up to level 39 Recipes."
-msgstr "レベル39までのレシピから料理を作れるようになる。"
-
-#: 198758357-0-44597
-msgctxt "198758357-0-44597"
-msgid "Recipe Improvement"
-msgstr "レシピ上達"
-
-#: 132143172-0-44595
-msgctxt "132143172-0-44595"
-msgid "Allows the making of up to level 29 Recipes."
-msgstr "レベル29までのレシピから料理を作れるようになる。"
-
-#: 198758357-0-44595
-msgctxt "198758357-0-44595"
-msgid "Recipe Improvement"
-msgstr "レシピ上達"
 
 #: 132143172-0-44590
 msgctxt "132143172-0-44590"

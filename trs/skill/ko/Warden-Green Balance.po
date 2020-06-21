@@ -11,115 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-85883
-msgctxt "132143172-0-85883"
-msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
-msgstr "체력이 |cffffff40|r% 미만인 자신 또는 아군을 Green Balance 어빌리티로 치유하면 Major Mending 효과를 얻습니다. <<2>> 동안 치유량이 <<1>>만큼 증가합니다."
+#: 132143172-0-85807
+msgctxt "132143172-0-85807"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> every <<3>> for <<4>>.\n\nThe healing over time will continue to heal you or your allies for <<5>> after leaving the forest."
+msgstr "대상 지역에 회복의 숲을 소환해, 범위 내 아군 중 가장 피해를 많이 입은 대상의 체력을 즉시 <<1>>만큼 회복시킵니다. 그 이후에도 <<4>> 동안 계속해서 자신과 범위 내의 아군의 체력을 <<3>>마다 <<2>>만큼 회복시킵니다.\n \n당신이나 아군이 숲을 떠난 뒤에도 <<5>> 동안 회복 효과가 남아 체력을 회복합니다."
 
-#: 198758357-0-85883
-msgctxt "198758357-0-85883"
-msgid "Accelerated Growth"
-msgstr "Accelerated Growth"
-
-#: 132143172-0-85882
-msgctxt "132143172-0-85882"
-msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
-msgstr "체력이 |cffffff40|r% 미만인 자신 또는 아군을 Green Balance 어빌리티로 치유하면 Major Mending 효과를 얻습니다. <<2>> 동안 치유량이 <<1>>만큼 증가합니다."
-
-#: 198758357-0-85882
-msgctxt "198758357-0-85882"
-msgid "Accelerated Growth"
-msgstr "Accelerated Growth"
-
-#: 132143172-0-85881
-msgctxt "132143172-0-85881"
-msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
-msgstr "자신 또는 아군을 치유하면 대상에게 Minor Toughness 효과를 부여해, <<2>> 동안 최대 체력을 <<1>>만큼 증가시킵니다."
-
-#: 198758357-0-85881
-msgctxt "198758357-0-85881"
-msgid "Maturation"
-msgstr "Maturation"
-
-#: 132143172-0-85880
-msgctxt "132143172-0-85880"
-msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
-msgstr "자신 또는 아군을 치유하면 대상에게 Minor Toughness 효과를 부여해, <<2>> 동안 최대 체력을 <<1>>만큼 증가시킵니다.\n"
-
-#: 198758357-0-85880
-msgctxt "198758357-0-85880"
-msgid "Maturation"
-msgstr "Maturation"
-
-#: 132143172-0-85879
-msgctxt "132143172-0-85879"
-msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<2>> Stamina, whichever resource pool is lower. This effect can occur once every <<3>>."
-msgstr "Green Balance 어빌리티로 아군을 치유하면, 자신은 <<1>> 매지카 또는 <<2>> 스태미나 중 현재 수치가 낮은 것을 회복합니다. 이 효과는 <<3>>에 한 번만 발동합니다."
-
-#: 198758357-0-85879
-msgctxt "198758357-0-85879"
-msgid "Nature's Gift"
-msgstr "Nature's Gift"
-
-#: 132143172-0-85878
-msgctxt "132143172-0-85878"
-msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<1>> Stamina, whichever resource pool is lower. This effect can occur once every <<2>>."
-msgstr "Green Balance 어빌리티로 아군을 치유하면, 자신은 <<1>> 매지카 또는 <<1>> 스태미나 중 현재 수치가 낮은 것을 회복합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
-
-#: 198758357-0-85878
-msgctxt "198758357-0-85878"
-msgid "Nature's Gift"
-msgstr "Nature's Gift"
-
-#: 132143172-0-85877
-msgctxt "132143172-0-85877"
-msgid "Increases your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "슬롯에 있는 Green Balance 어빌리티 한 개당 Green Balance 어빌리티의 치유량이 <<1>>만큼 증가합니다. \n\n현재 증가량: <<2>>."
-
-#: 198758357-0-85877
-msgctxt "198758357-0-85877"
-msgid "Emerald Moss"
-msgstr "Emerald Moss"
-
-#: 132143172-0-85876
-msgctxt "132143172-0-85876"
-msgid "Increase your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "슬롯에 있는 Green Balance 어빌리티 한 개당 Green Balance 어빌리티의 치유량이 <<1>>만큼 증가합니다. \n\n현재 증가량: <<2>>."
-
-#: 198758357-0-85876
-msgctxt "198758357-0-85876"
-msgid "Emerald Moss"
-msgstr "Emerald Moss"
-
-#: 132143172-0-85863
-msgctxt "132143172-0-85863"
-msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health.\n\nHeals for <<2>> more on allies that are within |cffffff8|r meters of you."
-msgstr "전방의 넓은 범위에 버섯의 포자를 뿌려, 자신과 아군의 체력을 <<1>>만큼 회복시킵니다.\n\n|cffffff8|r미터 이내의 아군에게는 치유량이 <<2>> 증가합니다."
-
-#: 198758357-0-85863
-msgctxt "198758357-0-85863"
-msgid "Soothing Spores"
-msgstr "Soothing Spores"
-
-#: 132143172-0-85862
-msgctxt "132143172-0-85862"
-msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health. \n\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by <<2>> for <<3>>."
-msgstr "전방의 넓은 범위에 버섯의 포자를 뿌려, 자신과 아군의 체력을 <<1>>만큼 회복시킵니다.\n\n회복을 받은 대상은 Minor Intellect 효과와 Minor Endurance 효과를 얻어, <<3>> 동안 매지카 및 스태미나 재생이 <<2>>만큼 증가합니다."
-
-#: 198758357-0-85862
-msgctxt "198758357-0-85862"
-msgid "Enchanted Growth"
-msgstr "Enchanted Growth"
-
-#: 132143172-0-85859
-msgctxt "132143172-0-85859"
-msgid "Launch a vine to swing yourself to an ally, instantly healing them for <<1>> Health.  \n\nGain <<2>> Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every <<3>>.\n\nThis ability scales with your highest offensive stats."
-msgstr "덩굴을 발사해 아군의 위치로 이동합니다. 대상의 체력을 <<1>>만큼 즉시 회복시킵니다.\n\n전투 중에 체력이 |cFFFFFF60%|r 이하인 아군을 회복시키면 궁극기 게이지를 <<2>>만큼 얻습니다. 이 효과는 <<3>>에 한 번만 발동합니다.\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
-
-#: 198758357-0-85859
-msgctxt "198758357-0-85859"
-msgid "Bursting Vines"
-msgstr "Bursting Vines"
+#: 198758357-0-85807
+msgctxt "198758357-0-85807"
+msgid "Healing Thicket"
+msgstr "Healing Thicket"
 
 #: 132143172-0-85858
 msgctxt "132143172-0-85858"
@@ -131,15 +31,55 @@ msgctxt "198758357-0-85858"
 msgid "Nature's Embrace"
 msgstr "Nature's Embrace"
 
-#: 132143172-0-85855
-msgctxt "132143172-0-85855"
-msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>.\n\nYou gain Major Prophecy, increasing your Spell Critical rating by <<4>> for <<5>>"
-msgstr "연꽃의 축복을 품어, <<3>> 동안 약공격이 <<1>>만큼의 체력을 회복시키고, 완전히 충전된 강공격이 자신 또는 가까운 아군의 체력을 <<2>>만큼 회복시킵니다.\n\n자신은 Major Prophecy 효과를 얻어, <<5>> 동안 마법 치명타 확률이 <<4>>만큼 증가합니다."
+#: 132143172-0-85539
+msgctxt "132143172-0-85539"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>."
+msgstr "연꽃의 축복을 품어, <<3>> 동안 약공격이 <<1>>만큼의 체력을 회복시키고, 완전히 충전된 강공격이 자신 또는 가까운 아군의 체력을 <<2>>만큼 회복시킵니다."
 
-#: 198758357-0-85855
-msgctxt "198758357-0-85855"
-msgid "Lotus Blossom"
-msgstr "Lotus Blossom"
+#: 198758357-0-85539
+msgctxt "198758357-0-85539"
+msgid "Lotus Flower"
+msgstr "Lotus Flower"
+
+#: 132143172-0-85859
+msgctxt "132143172-0-85859"
+msgid "Launch a vine to swing yourself to an ally, instantly healing them for <<1>> Health.  \n\nGain <<2>> Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every <<3>>.\n\nThis ability scales with your highest offensive stats."
+msgstr "덩굴을 발사해 아군의 위치로 이동합니다. 대상의 체력을 <<1>>만큼 즉시 회복시킵니다.\n\n전투 중에 체력이 |cFFFFFF60%|r 이하인 아군을 회복시키면 궁극기 게이지를 <<2>>만큼 얻습니다. 이 효과는 <<3>>에 한 번만 발동합니다.\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
+
+#: 198758357-0-85859
+msgctxt "198758357-0-85859"
+msgid "Bursting Vines"
+msgstr "Bursting Vines"
+
+#: 132143172-0-85878
+msgctxt "132143172-0-85878"
+msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<1>> Stamina, whichever resource pool is lower. Each effect can occur once every <<2>>."
+msgstr "Green Balance 어빌리티로 아군을 치유하면, 자신은 <<1>> 매지카 또는 <<1>> 스태미나 중 현재 수치가 낮은 것을 회복합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
+
+#: 198758357-0-85878
+msgctxt "198758357-0-85878"
+msgid "Nature's Gift"
+msgstr "Nature's Gift"
+
+#: 132143172-0-85879
+msgctxt "132143172-0-85879"
+msgid "When you heal an ally with a Green Balance ability, you gain <<1>> Magicka or <<2>> Stamina, whichever resource pool is lower. This effect can occur once every <<3>>."
+msgstr "Green Balance 어빌리티로 아군을 치유하면, 자신은 <<1>> 매지카 또는 <<2>> 스태미나 중 현재 수치가 낮은 것을 회복합니다. 이 효과는 <<3>>에 한 번만 발동합니다."
+
+#: 198758357-0-85879
+msgctxt "198758357-0-85879"
+msgid "Nature's Gift"
+msgstr "Nature's Gift"
+
+#: 132143172-0-85876
+msgctxt "132143172-0-85876"
+msgid "Increase your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "슬롯에 있는 Green Balance 어빌리티 한 개당 Green Balance 어빌리티의 치유량이 <<1>>만큼 증가합니다. \n\n현재 증가량: <<2>>."
+
+#: 198758357-0-85876
+msgctxt "198758357-0-85876"
+msgid "Emerald Moss"
+msgstr "Emerald Moss"
 
 #: 132143172-0-85854
 msgctxt "132143172-0-85854"
@@ -151,105 +91,25 @@ msgctxt "198758357-0-85854"
 msgid "Green Lotus"
 msgstr "Green Lotus"
 
-#: 132143172-0-85851
-msgctxt "132143172-0-85851"
-msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nWhen the vines expire, they heal the target for an additional <<4>> Health."
-msgstr "자신 또는 전방의 체력이 가장 낮은 아군을 <<1>> 동안 감싸는 덩굴을 소환합니다. 덩굴은 대상이 피해를 입을 때마다 체력을 <<2>>만큼 회복시킵니다. 이 효과는 <<3>>에 한 번만 발동합니다.\n\n덩굴의 효과가 끝날 때, 대상의 체력을 추가로 <<4>>만큼 회복시킵니다."
+#: 132143172-0-85877
+msgctxt "132143172-0-85877"
+msgid "Increases your healing done with Green Balance abilities by <<1>> for each Green Balance ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "슬롯에 있는 Green Balance 어빌리티 한 개당 Green Balance 어빌리티의 치유량이 <<1>>만큼 증가합니다. \n\n현재 증가량: <<2>>."
 
-#: 198758357-0-85851
-msgctxt "198758357-0-85851"
-msgid "Living Trellis"
-msgstr "Living Trellis"
+#: 198758357-0-85877
+msgctxt "198758357-0-85877"
+msgid "Emerald Moss"
+msgstr "Emerald Moss"
 
-#: 132143172-0-85850
-msgctxt "132143172-0-85850"
-msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nThe vines apply Minor Lifesteal to enemies that damage the target for <<4>>, healing you and your allies for <<5>> Health every <<6>> when damaging that enemy."
-msgstr "자신 또는 전방의 체력이 가장 낮은 아군을 <<1>> 동안 감싸는 덩굴을 소환합니다. 덩굴은 대상이 피해를 입을 때마다 체력을 <<2>>만큼 회복시킵니다. 이 효과는 <<3>>에 한 번만 발동합니다.\n\n덩굴이 대상에게 피해를 입히는 적에게 Minor Lifesteal 효과를 <<4>> 동안 가해, <<6>>마다 자신과 아군이 대상 적에게 피해를 입히면 체력을 <<5>>만큼 회복합니다."
+#: 132143172-0-85855
+msgctxt "132143172-0-85855"
+msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>.\n\nYou gain Major Prophecy, increasing your Spell Critical rating by <<4>> for <<5>>"
+msgstr "연꽃의 축복을 품어, <<3>> 동안 약공격이 <<1>>만큼의 체력을 회복시키고, 완전히 충전된 강공격이 자신 또는 가까운 아군의 체력을 <<2>>만큼 회복시킵니다.\n\n자신은 Major Prophecy 효과를 얻어, <<5>> 동안 마법 치명타 확률이 <<4>>만큼 증가합니다."
 
-#: 198758357-0-85850
-msgctxt "198758357-0-85850"
-msgid "Leeching Vines"
-msgstr "Leeching Vines"
-
-#: 132143172-0-85845
-msgctxt "132143172-0-85845"
-msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nEnemies who enter the field are afflicted with Major Defile, reducing their healing received by <<3>>.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<4>> Health over <<5>>."
-msgstr "<<1>> 후 만개해서 범위 내의 자신과 아군의 체력을 <<2>>만큼 회복시키는 꽃밭을 소환합니다.\n\n꽃밭을 통과하는 모든 적에게 Major Defile 효과를 가해  받는 치유량을 <<3>>만큼 감소시킵니다.\n\n범위 내의 아군이 |cffffffHarvest|r 연계 효과를 발동시킬 수 있습니다. 발동하면 <<5>>에 걸쳐 총 <<4>>의 체력을 회복합니다."
-
-#: 198758357-0-85845
-msgctxt "198758357-0-85845"
-msgid "Corrupting Pollen"
-msgstr "Corrupting Pollen"
-
-#: 132143172-0-85840
-msgctxt "132143172-0-85840"
-msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nWhile the field grows, you and allies are healed for <<3>> Health every <<4>>.  \n\nYou can activate this ability again to cause it to instantly bloom.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<5>> Health over <<6>>."
-msgstr "<<1>> 후 만개해서 범위 내의 자신과 아군의 체력을 <<2>>만큼 회복시키는 꽃밭을 소환합니다.\n\n꽃이 성장하는 동안 당신과 아군은 매 <<4>>마다 <<3>> 을 회복합니다.\n\n꽃밭이 소환된 후, 어빌리티를 다시 시전해 꽃밭의 효과를 즉시 발동시킬 수 있습니다.\n\n범위 내의 아군이 |cffffff수확|r 연계 효과를 발동시킬 수 있습니다. 발동하면 <<6>>에 걸쳐 총 <<5>>의 체력을 회복합니다."
-
-#: 198758357-0-85840
-msgctxt "198758357-0-85840"
-msgid "Budding Seeds"
-msgstr "Budding Seeds"
-
-#: 132143172-0-85807
-msgctxt "132143172-0-85807"
-msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> every <<3>> for <<4>>.\n\nThe healing over time will continue to heal you or your allies for <<5>> after leaving the forest."
-msgstr "대상 지역에 회복의 숲을 소환해, 범위 내 아군 중 가장 피해를 많이 입은 대상의 체력을 즉시 <<1>>만큼 회복시킵니다. 그 이후에도 <<4>> 동안 계속해서 자신과 범위 내의 아군의 체력을 <<3>>마다 <<2>>만큼 회복시킵니다.\n \n당신이나 아군이 숲을 떠난 뒤에도 <<5>> 동안 회복 효과가 남아 체력을 회복합니다."
-
-#: 198758357-0-85807
-msgctxt "198758357-0-85807"
-msgid "Healing Thicket"
-msgstr "Healing Thicket"
-
-#: 132143172-0-85804
-msgctxt "132143172-0-85804"
-msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>.\n\nYou generate <<5>> Ultimate if the initial heal is used on a friendly target under |cffffff50|r% Health."
-msgstr "대상 지역에 회복의 숲을 소환해, 범위 내 아군 중 가장 피해를 많이 입은 대상의 체력을 즉시 <<1>>만큼 회복시킵니다. 그 이후에도 <<4>> 동안 계속해서 자신과 범위 내의 아군의 체력을 <<3>>마다 <<2>>만큼 회복시킵니다.\n\n시전 즉시 회복시킨 아군의 체력이 |cffffff50|r% 이하일 경우, 궁극기 게이지를 <<5>>만큼 획득합니다."
-
-#: 198758357-0-85804
-msgctxt "198758357-0-85804"
-msgid "Enchanted Forest"
-msgstr "Enchanted Forest"
-
-#: 132143172-0-85578
-msgctxt "132143172-0-85578"
-msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<3>> Health over <<4>>."
-msgstr "<<1>> 후 만개해서 범위 내의 자신과 아군의 체력을 <<2>>만큼 회복시키는 꽃밭을 소환합니다.\n\n범위 내의 아군이 |cffffff수확|r 연계 효과를 발동시킬 수 있습니다. 발동하면 <<4>>에 걸쳐 총 <<3>>의 체력을 회복합니다."
-
-#: 198758357-0-85578
-msgctxt "198758357-0-85578"
-msgid "Healing Seed"
-msgstr "Healing Seed"
-
-#: 132143172-0-85564
-msgctxt "132143172-0-85564"
-msgid "Launch a vine to swing yourself to an ally, healing them for <<1>> Health over <<2>>. Gain <<3>> Ultimate when this effect completes if you are in combat.\n\nThis ability scales with your highest offensive stats."
-msgstr "덩굴을 발사해 아군의 위치로 이동합니다. 대상의 체력을 <<2>>에 걸쳐 총 <<1>>만큼 회복시킵니다. 전투 중에 시전 시 궁극기 게이지를 <<3>>만큼 얻습니다.\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
-
-#: 198758357-0-85564
-msgctxt "198758357-0-85564"
-msgid "Nature's Grasp"
-msgstr "Nature's Grasp"
-
-#: 132143172-0-85552
-msgctxt "132143172-0-85552"
-msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>."
-msgstr "자신 또는 전방의 체력이 가장 낮은 아군을 <<1>> 동안 감싸는 덩굴을 소환합니다. 덩굴은 대상이 피해를 입을 때마다 체력을 <<2>>만큼 회복시킵니다. 이 효과는 <<3>>에 한 번만 발동합니다."
-
-#: 198758357-0-85552
-msgctxt "198758357-0-85552"
-msgid "Living Vines"
-msgstr "Living Vines"
-
-#: 132143172-0-85539
-msgctxt "132143172-0-85539"
-msgid "Embrace the lotus blessing, causing your Light Attacks to restore <<1>> Health and your fully-charged Heavy Attacks to restore <<2>> Health to you or a nearby ally for <<3>>."
-msgstr "연꽃의 축복을 품어, <<3>> 동안 약공격이 <<1>>만큼의 체력을 회복시키고, 완전히 충전된 강공격이 자신 또는 가까운 아군의 체력을 <<2>>만큼 회복시킵니다."
-
-#: 198758357-0-85539
-msgctxt "198758357-0-85539"
-msgid "Lotus Flower"
-msgstr "Lotus Flower"
+#: 198758357-0-85855
+msgctxt "198758357-0-85855"
+msgid "Lotus Blossom"
+msgstr "Lotus Blossom"
 
 #: 132143172-0-85536
 msgctxt "132143172-0-85536"
@@ -261,6 +121,36 @@ msgctxt "198758357-0-85536"
 msgid "Fungal Growth"
 msgstr "Fungal Growth"
 
+#: 132143172-0-85578
+msgctxt "132143172-0-85578"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<3>> Health over <<4>>."
+msgstr "<<1>> 후 만개해서 범위 내의 자신과 아군의 체력을 <<2>>만큼 회복시키는 꽃밭을 소환합니다.\n\n범위 내의 아군이 |cffffff수확|r 연계 효과를 발동시킬 수 있습니다. 발동하면 <<4>>에 걸쳐 총 <<3>>의 체력을 회복합니다."
+
+#: 198758357-0-85578
+msgctxt "198758357-0-85578"
+msgid "Healing Seed"
+msgstr "Healing Seed"
+
+#: 132143172-0-85850
+msgctxt "132143172-0-85850"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nThe vines apply Minor Lifesteal to enemies that damage the target for <<4>>, healing you and your allies for <<5>> Health every <<6>> when damaging that enemy."
+msgstr "자신 또는 전방의 체력이 가장 낮은 아군을 <<1>> 동안 감싸는 덩굴을 소환합니다. 덩굴은 대상이 피해를 입을 때마다 체력을 <<2>>만큼 회복시킵니다. 이 효과는 <<3>>에 한 번만 발동합니다.\n\n덩굴이 대상에게 피해를 입히는 적에게 Minor Lifesteal 효과를 <<4>> 동안 가해, <<6>>마다 자신과 아군이 대상 적에게 피해를 입히면 체력을 <<5>>만큼 회복합니다."
+
+#: 198758357-0-85850
+msgctxt "198758357-0-85850"
+msgid "Leeching Vines"
+msgstr "Leeching Vines"
+
+#: 132143172-0-85851
+msgctxt "132143172-0-85851"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>.\n\nWhen the vines expire, they heal the target for an additional <<4>> Health."
+msgstr "자신 또는 전방의 체력이 가장 낮은 아군을 <<1>> 동안 감싸는 덩굴을 소환합니다. 덩굴은 대상이 피해를 입을 때마다 체력을 <<2>>만큼 회복시킵니다. 이 효과는 <<3>>에 한 번만 발동합니다.\n\n덩굴의 효과가 끝날 때, 대상의 체력을 추가로 <<4>>만큼 회복시킵니다."
+
+#: 198758357-0-85851
+msgctxt "198758357-0-85851"
+msgid "Living Trellis"
+msgstr "Living Trellis"
+
 #: 132143172-0-85532
 msgctxt "132143172-0-85532"
 msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>."
@@ -270,3 +160,113 @@ msgstr "대상 지역에 회복의 숲을 소환해, 범위 내 아군 중 가�
 msgctxt "198758357-0-85532"
 msgid "Secluded Grove"
 msgstr "Secluded Grove"
+
+#: 132143172-0-85552
+msgctxt "132143172-0-85552"
+msgid "Grow vines to embrace you or the lowest health ally in front of you for <<1>>. The vines heal the target for <<2>> Health each time they take damage. This effect can occur once every <<3>>."
+msgstr "자신 또는 전방의 체력이 가장 낮은 아군을 <<1>> 동안 감싸는 덩굴을 소환합니다. 덩굴은 대상이 피해를 입을 때마다 체력을 <<2>>만큼 회복시킵니다. 이 효과는 <<3>>에 한 번만 발동합니다."
+
+#: 198758357-0-85552
+msgctxt "198758357-0-85552"
+msgid "Living Vines"
+msgstr "Living Vines"
+
+#: 132143172-0-85804
+msgctxt "132143172-0-85804"
+msgid "Swell a healing forest at the target location, instantly healing the most injured friendly target for <<1>> Health. The forest continues to heal you and your allies in the area for <<2>> Health every <<3>> for <<4>>.\n\nYou generate <<5>> Ultimate if the initial heal is used on a friendly target under |cffffff50|r% Health."
+msgstr "대상 지역에 회복의 숲을 소환해, 범위 내 아군 중 가장 피해를 많이 입은 대상의 체력을 즉시 <<1>>만큼 회복시킵니다. 그 이후에도 <<4>> 동안 계속해서 자신과 범위 내의 아군의 체력을 <<3>>마다 <<2>>만큼 회복시킵니다.\n\n시전 즉시 회복시킨 아군의 체력이 |cffffff50|r% 이하일 경우, 궁극기 게이지를 <<5>>만큼 획득합니다."
+
+#: 198758357-0-85804
+msgctxt "198758357-0-85804"
+msgid "Enchanted Forest"
+msgstr "Enchanted Forest"
+
+#: 132143172-0-85845
+msgctxt "132143172-0-85845"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nEnemies who enter the field are afflicted with Major Defile, reducing their healing received by <<3>>.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<4>> Health over <<5>>."
+msgstr "<<1>> 후 만개해서 범위 내의 자신과 아군의 체력을 <<2>>만큼 회복시키는 꽃밭을 소환합니다.\n\n꽃밭을 통과하는 모든 적에게 Major Defile 효과를 가해  받는 치유량을 <<3>>만큼 감소시킵니다.\n\n범위 내의 아군이 |cffffffHarvest|r 연계 효과를 발동시킬 수 있습니다. 발동하면 <<5>>에 걸쳐 총 <<4>>의 체력을 회복합니다."
+
+#: 198758357-0-85845
+msgctxt "198758357-0-85845"
+msgid "Corrupting Pollen"
+msgstr "Corrupting Pollen"
+
+#: 132143172-0-85863
+msgctxt "132143172-0-85863"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health.\n\nHeals for <<2>> more on allies that are within |cffffff8|r meters of you."
+msgstr "전방의 넓은 범위에 버섯의 포자를 뿌려, 자신과 아군의 체력을 <<1>>만큼 회복시킵니다.\n\n|cffffff8|r미터 이내의 아군에게는 치유량이 <<2>> 증가합니다."
+
+#: 198758357-0-85863
+msgctxt "198758357-0-85863"
+msgid "Soothing Spores"
+msgstr "Soothing Spores"
+
+#: 132143172-0-85883
+msgctxt "132143172-0-85883"
+msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
+msgstr "체력이 |cffffff40|r% 미만인 자신 또는 아군을 Green Balance 어빌리티로 치유하면 Major Mending 효과를 얻습니다. <<2>> 동안 치유량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-85883
+msgctxt "198758357-0-85883"
+msgid "Accelerated Growth"
+msgstr "Accelerated Growth"
+
+#: 132143172-0-85564
+msgctxt "132143172-0-85564"
+msgid "Launch a vine to swing yourself to an ally, healing them for <<1>> Health over <<2>>. Gain <<3>> Ultimate when this effect completes if you are in combat.\n\nThis ability scales with your highest offensive stats."
+msgstr "덩굴을 발사해 아군의 위치로 이동합니다. 대상의 체력을 <<2>>에 걸쳐 총 <<1>>만큼 회복시킵니다. 전투 중에 시전 시 궁극기 게이지를 <<3>>만큼 얻습니다.\n\n이 능력은 주 스텟에 맞춰 조정됩니다."
+
+#: 198758357-0-85564
+msgctxt "198758357-0-85564"
+msgid "Nature's Grasp"
+msgstr "Nature's Grasp"
+
+#: 132143172-0-85862
+msgctxt "132143172-0-85862"
+msgid "Seed a large area of mushrooms in front of you, healing you and your allies for <<1>> Health. \n\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by <<2>> for <<3>>."
+msgstr "전방의 넓은 범위에 버섯의 포자를 뿌려, 자신과 아군의 체력을 <<1>>만큼 회복시킵니다.\n\n회복을 받은 대상은 Minor Intellect 효과와 Minor Endurance 효과를 얻어, <<3>> 동안 매지카 및 스태미나 재생이 <<2>>만큼 증가합니다."
+
+#: 198758357-0-85862
+msgctxt "198758357-0-85862"
+msgid "Enchanted Growth"
+msgstr "Enchanted Growth"
+
+#: 132143172-0-85840
+msgctxt "132143172-0-85840"
+msgid "Summon a field of flowers which blooms after <<1>>, healing you and allies in the area for <<2>> Health.\n\nWhile the field grows, you and allies are healed for <<3>> Health every <<4>>.  \n\nYou can activate this ability again to cause it to instantly bloom.\n\nAn ally within the field can activate the |cffffffHarvest|r synergy, healing for <<5>> Health over <<6>>."
+msgstr "<<1>> 후 만개해서 범위 내의 자신과 아군의 체력을 <<2>>만큼 회복시키는 꽃밭을 소환합니다.\n\n꽃이 성장하는 동안 당신과 아군은 매 <<4>>마다 <<3>> 을 회복합니다.\n\n꽃밭이 소환된 후, 어빌리티를 다시 시전해 꽃밭의 효과를 즉시 발동시킬 수 있습니다.\n\n범위 내의 아군이 |cffffff수확|r 연계 효과를 발동시킬 수 있습니다. 발동하면 <<6>>에 걸쳐 총 <<5>>의 체력을 회복합니다."
+
+#: 198758357-0-85840
+msgctxt "198758357-0-85840"
+msgid "Budding Seeds"
+msgstr "Budding Seeds"
+
+#: 132143172-0-85881
+msgctxt "132143172-0-85881"
+msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
+msgstr "자신 또는 아군을 치유하면 대상에게 Minor Toughness 효과를 부여해, <<2>> 동안 최대 체력을 <<1>>만큼 증가시킵니다."
+
+#: 198758357-0-85881
+msgctxt "198758357-0-85881"
+msgid "Maturation"
+msgstr "Maturation"
+
+#: 132143172-0-85882
+msgctxt "132143172-0-85882"
+msgid "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by <<1>> for <<2>>."
+msgstr "체력이 |cffffff40|r% 미만인 자신 또는 아군을 Green Balance 어빌리티로 치유하면 Major Mending 효과를 얻습니다. <<2>> 동안 치유량이 <<1>>만큼 증가합니다."
+
+#: 198758357-0-85882
+msgctxt "198758357-0-85882"
+msgid "Accelerated Growth"
+msgstr "Accelerated Growth"
+
+#: 132143172-0-85880
+msgctxt "132143172-0-85880"
+msgid "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by <<1>> for <<2>>."
+msgstr "자신 또는 아군을 치유하면 대상에게 Minor Toughness 효과를 부여해, <<2>> 동안 최대 체력을 <<1>>만큼 증가시킵니다.\n"
+
+#: 198758357-0-85880
+msgctxt "198758357-0-85880"
+msgid "Maturation"
+msgstr "Maturation"

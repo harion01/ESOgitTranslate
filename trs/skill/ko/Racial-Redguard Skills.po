@@ -11,25 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-84680
-msgctxt "132143172-0-84680"
-msgid "Increases your experience gain with the One Hand and Shield skill line by |cffffff15|r%.\n\nIncreases the duration of any eaten food by |cffffff15|r minutes."
-msgstr "한손무기 및 방패 스킬 라인의 경험치 획득량이 |cffffff15|r%  증가합니다.\n\n먹은 음식 효과 지속 시간이 |cffffff15|r분 증가합니다."
+#: 132143172-0-36009
+msgctxt "132143172-0-36009"
+msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
+msgstr "모든 무기류 어빌리티의 소모량이 <<1>>만큼 감소합니다.\n\n당신에게 적용되는 모든 감속 기술의 효과가 <<2>> 감소합니다."
 
-#: 198758357-0-84680
-msgctxt "198758357-0-84680"
-msgid "Wayfarer"
-msgstr "Wayfarer"
-
-#: 132143172-0-45315
-msgctxt "132143172-0-45315"
-msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
-msgstr "즉시 피해를 입히면, <<1>> 스태미나를 회복합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
-
-#: 198758357-0-45315
-msgctxt "198758357-0-45315"
-msgid "Adrenaline Rush"
-msgstr "Adrenaline Rush"
+#: 198758357-0-36009
+msgctxt "198758357-0-36009"
+msgid "Martial Training"
+msgstr "Martial Training"
 
 #: 132143172-0-45313
 msgctxt "132143172-0-45313"
@@ -41,15 +31,25 @@ msgctxt "198758357-0-45313"
 msgid "Adrenaline Rush"
 msgstr "Adrenaline Rush"
 
-#: 132143172-0-45278
-msgctxt "132143172-0-45278"
-msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
-msgstr "모든 무기류 어빌리티의 소모량이 <<1>>만큼 감소합니다.\n\n당신에게 적용되는 모든 감속 기술의 효과가 <<2>> 감소합니다."
+#: 132143172-0-45315
+msgctxt "132143172-0-45315"
+msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
+msgstr "즉시 피해를 입히면, <<1>> 스태미나를 회복합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
 
-#: 198758357-0-45278
-msgctxt "198758357-0-45278"
-msgid "Martial Training"
-msgstr "Martial Training"
+#: 198758357-0-45315
+msgctxt "198758357-0-45315"
+msgid "Adrenaline Rush"
+msgstr "Adrenaline Rush"
+
+#: 132143172-0-117752
+msgctxt "132143172-0-117752"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr "최대 스태미나가 <<1>> 증가합니다."
+
+#: 198758357-0-117752
+msgctxt "198758357-0-117752"
+msgid "Conditioning"
+msgstr "Conditioning"
 
 #: 132143172-0-45277
 msgctxt "132143172-0-45277"
@@ -58,26 +58,6 @@ msgstr "모든 무기류 어빌리티의 소모량이 <<1>>만큼 감소합니�
 
 #: 198758357-0-45277
 msgctxt "198758357-0-45277"
-msgid "Martial Training"
-msgstr "Martial Training"
-
-#: 132143172-0-36546
-msgctxt "132143172-0-36546"
-msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
-msgstr "즉시 피해를 입히면, <<1>> 스태미나를 회복합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
-
-#: 198758357-0-36546
-msgctxt "198758357-0-36546"
-msgid "Adrenaline Rush"
-msgstr "Adrenaline Rush"
-
-#: 132143172-0-36009
-msgctxt "132143172-0-36009"
-msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
-msgstr "모든 무기류 어빌리티의 소모량이 <<1>>만큼 감소합니다.\n\n당신에게 적용되는 모든 감속 기술의 효과가 <<2>> 감소합니다."
-
-#: 198758357-0-36009
-msgctxt "198758357-0-36009"
 msgid "Martial Training"
 msgstr "Martial Training"
 
@@ -101,12 +81,32 @@ msgctxt "198758357-0-117753"
 msgid "Conditioning"
 msgstr "Conditioning"
 
-#: 132143172-0-117752
-msgctxt "132143172-0-117752"
-msgid "Increases your Max Stamina by <<1>>."
-msgstr "최대 스태미나가 <<1>> 증가합니다."
+#: 132143172-0-45278
+msgctxt "132143172-0-45278"
+msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
+msgstr "모든 무기류 어빌리티의 소모량이 <<1>>만큼 감소합니다.\n\n당신에게 적용되는 모든 감속 기술의 효과가 <<2>> 감소합니다."
 
-#: 198758357-0-117752
-msgctxt "198758357-0-117752"
-msgid "Conditioning"
-msgstr "Conditioning"
+#: 198758357-0-45278
+msgctxt "198758357-0-45278"
+msgid "Martial Training"
+msgstr "Martial Training"
+
+#: 132143172-0-36546
+msgctxt "132143172-0-36546"
+msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
+msgstr "즉시 피해를 입히면, <<1>> 스태미나를 회복합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
+
+#: 198758357-0-36546
+msgctxt "198758357-0-36546"
+msgid "Adrenaline Rush"
+msgstr "Adrenaline Rush"
+
+#: 132143172-0-84680
+msgctxt "132143172-0-84680"
+msgid "Increases your experience gain with the One Hand and Shield skill line by |cffffff15|r%.\n\nIncreases the duration of any eaten food by |cffffff15|r minutes."
+msgstr "한손무기 및 방패 스킬 라인의 경험치 획득량이 |cffffff15|r%  증가합니다.\n\n먹은 음식 효과 지속 시간이 |cffffff15|r분 증가합니다."
+
+#: 198758357-0-84680
+msgctxt "198758357-0-84680"
+msgid "Wayfarer"
+msgstr "Wayfarer"

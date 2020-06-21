@@ -11,6 +11,11 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 232026500-0-11862
+msgctxt "232026500-0-11862"
+msgid "I'm not so certain."
+msgstr "잘 모르겠습니다만."
+
 #: 116521668-0-11867
 #, fuzzy
 msgctxt "116521668-0-11867"
@@ -23,152 +28,6 @@ msgctxt "232026500-0-11867"
 msgid "I give up. I can't beat the Celestial Serpent."
 msgstr "나는 포기한다. 나는 천상의 독사를 이길 수 없다.-G-"
 
-#: 116521668-0-11866
-#, fuzzy
-msgctxt "116521668-0-11866"
-msgid "You are five-clawed, my friend. Milksop no longer, though it will not stop this one from naming you ""Milksop.""\n\nIt seems none among the captured live. A shame, but Turuk will think of them when he sheathes his sword with the belly of a beast."
-msgstr "너는 다섯 발톱이야, 친구. 밀크 톱은 더 이상 존재하지 않지만,이 밀크톱은 \"\"밀크 톱\"\"이라는 이름을 지우지 않습니다.\n\n캡쳐 된 라이브 중에 아무 것도 보이지 않습니다. 부끄러운 줄 알지만 Turuk은 짐승의 배를 칼로 감쌀 때 생각할 것입니다.-G-"
-
-#: 232026500-0-11866
-msgctxt "232026500-0-11866"
-msgid "I've defeated the Celestial Serpent."
-msgstr "천상의 독사를 무찔렀습니다."
-
-#: 116521668-0-11864
-#, fuzzy
-msgctxt "116521668-0-11864"
-msgid "The battle against the Scaled Court will continue, but this was the one place in Craglorn the Serpent could be contained. You accomplished wonders today.\n\nTuruk wanted me to give this to you. Don't worry—it's not diseased. I think."
-msgstr "Scaled Court와의 전투는 계속 될 것이지만 이것은 Craglorn에서 독사가 들어갈 수있는 한 곳이었습니다. 당신은 오늘 경이를 성취했습니다.\n\n 툴룩은 제가 이것을 당신에게주기를 원했습니다. 걱정하지 마십시오. 병든 것은 아닙니다. 나는 생각한다.-G-"
-
-#: 232026500-0-11864
-#, fuzzy
-msgctxt "232026500-0-11864"
-msgid "What now?"
-msgstr "지금 뭐야?-G-"
-
-#: 232026500-0-11862
-msgctxt "232026500-0-11862"
-msgid "I'm not so certain."
-msgstr "잘 모르겠습니다만."
-
-#: 232026500-0-11851
-#, fuzzy
-msgctxt "232026500-0-11851"
-msgid "What happens now?"
-msgstr "지금 무슨 일이 일어나는거야?-G-"
-
-#: 116521668-0-11842
-msgctxt "116521668-0-11842"
-msgid "Good—the Red Rooks are ticks. I go out of my way to squash them. Or have someone else squash them.\n\nI'll get these heirlooms back where they belong. Here, you earned it."
-msgstr "좋아. 붉은 떼까마귀 놈들은 귀찮은 녀석들이지. 직접 놈들을 박살내러 가야겠어. 아니면 다른 사람을 시켜 박살내야겠군.\n\n이 가보들은 원래 주인들에게 돌려주도록 하지. 자, 보상을 받으라고."
-
-#: 232026500-0-11842
-msgctxt "232026500-0-11842"
-msgid "I recovered the heirlooms from Ilessan Tower."
-msgstr "일레산 탑에서 가보를 회수해왔어요."
-
-#: 116521668-0-11841
-msgctxt "116521668-0-11841"
-msgid "Impressive. These are all fit for display—once I scrub the dirt off. Filthy cultists don't know culture when they see it.\n\nHere, you earned this."
-msgstr "인상적인데. 전부 장식대에 딱 맞잖아. 먼지를 씻어 내야겠지만. 더러운 광신도놈들은 문화라는 것을 보고도 모르는구만.\n\n여기, 대가를 받으라고."
-
-#: 232026500-0-11841
-msgctxt "232026500-0-11841"
-msgid "I brought you some Ayleid trinkets from Wormwood Depths."
-msgstr "벌레뿌리 구렁에서 에일리드 잡동사니를 좀 가져왔어요."
-
-#: 116521668-0-11838
-msgctxt "116521668-0-11838"
-msgid "Well, isn't that an impressive bag full of junk. It's amazing what people are willing to pay for trash these days.\n\nBut those Dark Elf siblings pay well. Here's your share."
-msgstr "음. 그 쓰레기로 가득한 가방이 인상적이진 않은데. 요즘엔 이런 쓰레기를 돈 주고 사려는 사람이 있다니 놀랍다니까.\n\n하지만 그 다크 엘프 남매는 값을 잘 쳐줬지. 여기 네 몫이야."
-
-#: 232026500-0-11838
-msgctxt "232026500-0-11838"
-msgid "I'm back with the <<Cmz:1>>."
-msgstr "<<1>>을 가져왔어요."
-
-#: 116521668-0-11836
-#, fuzzy
-msgctxt "116521668-0-11836"
-msgid "Good. The local bumpkins can return to calling it ""Grandmother's Respite,"" or whatever fool name they used to give it.\n\nUntil the <<mz:1>> fail. And when they do, I'll have more work for you."
-msgstr "좋은. 로컬 범프킨은 \"\"할머니의 휴식처\"\"라고 부르던 곳으로 돌아갈 수 있습니다. 또는 \"\"mz:1>>이 실패 할 때까지 실패했습니다.\n\n그리고 그들이 할 때, 나는 당신을 위해 더 많은 일을 할 것입니다.-G-"
-
-#: 232026500-0-11836
-msgctxt "232026500-0-11836"
-msgid "I placed the wards in the Corpse Garden."
-msgstr "시체들의 정원에 보호석을 가져다놨어요."
-
-#: 116521668-0-11832
-#, fuzzy
-msgctxt "116521668-0-11832"
-msgid "So the <<z:1>> are in place? One of my clan mothers gets a cut for every one we use, so she'll be happy to hear it.\n\nAnd the locals around Shael Ruins, I suppose."
-msgstr "그래 <<z:1>>을 놓아두고 왔나? 우리가 사용한 것들은 전부 우리 부족 어머니들 중에 한 분께서 마련하신 것들이거든. 이 소식을 들으시면 기뻐하시겠어.\n\n쉘 유적 주변의 현지인들도 그럴 것 같고."
-
-#: 232026500-0-11832
-msgctxt "232026500-0-11832"
-msgid "I'm back from Shael Ruins."
-msgstr "쉘 유적에서 돌아왔어요."
-
-#: 116521668-0-11826
-msgctxt "116521668-0-11826"
-msgid "Did your eyes start bleeding recently? You didn't cough up any beetles, did you? Good, good … sounds like you avoided the curse.\n\nProbably."
-msgstr "최근에 눈에서 피가 나오진 않았겠지? 딱정벌레를 토해내지도 않았고? 좋아, 좋아... 네가 저주를 피한 모양이야.\n\n아마도."
-
-#: 232026500-0-11826
-msgctxt "232026500-0-11826"
-msgid "I brought back <<z:1>> from the Crypt of the Exiles."
-msgstr "추방자의 지하묘지에서 <<z:1>>를 가져왔어요."
-
-#: 116521668-0-11758
-msgctxt "116521668-0-11758"
-msgid "Expertly done. I sense that some of our Brothers and Sisters gaze upon you with jealous eyes. This is good. Perhaps that will motivate them to excel.\n\nTake this with the Night Mother's blessing. Return tomorrow. There is always work to be done."
-msgstr "전문가답게 해결했군. 우리 형제 자매들 중 몇 명이 질투하는게 느껴질 정도야. 아주 좋아. 아마 그들이 더 발전할 계기를 마련해 줄 일이 될 거야.\n\n나이트 마더의 축복과 함께 이 포상을 받아라. 내일도 오도록. 처리해야 할 일은 항상 있으니."
-
-#: 232026500-0-11758
-msgctxt "232026500-0-11758"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11757
-msgctxt "116521668-0-11757"
-msgid "A soul has been sent to the Void. Pity that you weren't able to complete both of my challenges, but there's no sense dwelling on your failures.\n\nHere's your reward. Return tomorrow. There is always work to be done."
-msgstr "영혼이 공허로 보내졌군. 시험을 모두 완수하지 못한 건 유감이지만, 네 실패를 오래 담아 둘 필요는 없다.\n\n여기 보수다. 내일도 오도록. 처리해야 할 일은 항상 있으니."
-
-#: 232026500-0-11757
-msgctxt "232026500-0-11757"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11756
-msgctxt "116521668-0-11756"
-msgid "Hmm. You return head bowed? Do not be troubled by your failure to complete my challenges. You killed the target. That is enough for the Night Mother, and enough for me.\n\nPerhaps tomorrow you can finally impress me."
-msgstr "흠. 고개를 떨군채 돌아온건가? 내 시험을 완수하지 못했다고 기죽을 필요는 없네. 목표는 죽었어. 그것 만으로도 나이트 마더께서도 충분히 만족하시고, 나도 만족한다네.\n\n내일이리면 날 만족시킬지도 모르네."
-
-#: 232026500-0-11756
-msgctxt "232026500-0-11756"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11748
-msgctxt "116521668-0-11748"
-msgid "Expertly done. I sense that some of our Brothers and Sisters gaze upon you with jealous eyes. This is good. Perhaps that will motivate them to excel.\n\nTake this with the Night Mother's blessing. Return tomorrow. There is always work to be done."
-msgstr "전문가답게 해결했군. 우리 형제 자매들 중 몇 명이 질투하는게 느껴질 정도야. 아주 좋아. 아마 그들이 더 발전할 계기를 마련해 줄 일이 될 거야.\n\n나이트 마더의 축복과 함께 이 포상을 받아라. 내일도 오도록. 처리해야 할 일은 항상 있으니."
-
-#: 232026500-0-11748
-msgctxt "232026500-0-11748"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11747
-msgctxt "116521668-0-11747"
-msgid "A soul has been sent to the Void. Pity that you weren't able to complete both of my challenges, but there's no sense dwelling on your failures.\n\nHere's your reward. Return tomorrow. There is always work to be done."
-msgstr "영혼이 공허로 보내졌군. 시험을 모두 완수하지 못한 건 유감이지만, 네 실패를 오래 담아 둘 필요는 없다.\n\n여기 보수다. 내일도 오도록. 처리해야 할 일은 항상 있으니."
-
-#: 232026500-0-11747
-msgctxt "232026500-0-11747"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
 #: 116521668-0-11746
 msgctxt "116521668-0-11746"
 msgid "Hmm. You return head bowed? Do not be troubled by your failure to complete my challenges. You killed the target. That is enough for the Night Mother, and enough for me.\n\nPerhaps tomorrow you can show me your true quality."
@@ -176,157 +35,6 @@ msgstr "흠. 고개를 떨군채 돌아온건가? 내 시험을 완수하지 못
 
 #: 232026500-0-11746
 msgctxt "232026500-0-11746"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11738
-msgctxt "116521668-0-11738"
-msgid "Expertly done. I sense that some of your Brothers and Sisters gaze upon you with jealous eyes. This is good. Perhaps that will motivate them to excel.\n\nTake this with the Night Mother's blessing. Return tomorrow. There is always work to be done."
-msgstr "전문가답게 해결했군. 형제 자매들 중 몇 명이 질투하는게 느껴질 정도야. 아주 좋아. 아마 그들이 더 발전할 계기를 마련해 줄 일이 될 거야.\n\n나이트 마더의 축복과 함께 이 포상을 받아라. 내일도 오도록. 처리해야 할 일은 항상 있으니."
-
-#: 232026500-0-11738
-msgctxt "232026500-0-11738"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11737
-msgctxt "116521668-0-11737"
-msgid "A soul has been sent to the Void. Pity that you weren't able to complete both of my challenges, but there's no sense dwelling on your failures.\n\nHere's your reward. Return tomorrow. There is always work to be done."
-msgstr "영혼이 공허로 보내졌군. 시험을 모두 완수하지 못한 건 유감이지만, 네 실패를 오래 담아 둘 필요는 없다.\n\n여기 보수다. 내일도 오도록. 처리해야 할 일은 항상 있으니."
-
-#: 232026500-0-11737
-msgctxt "232026500-0-11737"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11736
-msgctxt "116521668-0-11736"
-msgid "Hmm. You return head bowed? Do not be troubled by your failure to complete my challenges. You killed the target. That is enough for the Night Mother, and enough for me.\n\nPerhaps tomorrow you can finally impress me."
-msgstr "흠. 고개를 떨군채 돌아온건가? 내 시험을 완수하지 못했다고 기죽을 필요는 없네. 목표는 죽었어. 그것 만으로도 나이트 마더께서도 충분히 만족하시고, 나도 만족한다네.\n\n내일이라면 날 만족시킬지도 모르네."
-
-#: 232026500-0-11736
-msgctxt "232026500-0-11736"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11698
-msgctxt "116521668-0-11698"
-msgid "Performed with all the care befitting the Night Mother's sacred work. Your devotion to this task has not been overlooked.\n\nReturn again tomorrow and I'll provide another opportunity to prove your prowess."
-msgstr "나이트 마더의 성스러운 일에 걸맞게 정성을 다해 수행했다. 이 일에 대한 네 헌신은 간과되지 않았네.\n\n내일 다시 오거라. 네 용감함을 증명할 또 다른 기회를 주겠어."
-
-#: 232026500-0-11698
-msgctxt "232026500-0-11698"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11697
-msgctxt "116521668-0-11697"
-msgid "Another soul delivered to Sithis. It's unfortunate that things did not go wholly as planned, but the end result is the same.\n\nReflect on what occurred. Return tomorrow to use what you have learned."
-msgstr "또 하나의 영혼이 시디스께 보내졌군. 계획대로 진행되지 않은게 실망이지만, 결과는 같네.\n\n오늘 일을 반성하게. 오늘의 교훈을 내일 다시 와서 확인하게."
-
-#: 232026500-0-11697
-msgctxt "232026500-0-11697"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11696
-msgctxt "116521668-0-11696"
-msgid "Sithis welcomes all souls to the Void, no matter how they arrive. You have executed your duty, but I expect more of you.\n\nReturn tomorrow. I'll provide a chance to prove you can excel as well as kill."
-msgstr "시디스께서는 모든 영혼을 환영하신다. 어떻게 그에게 왔는지는 상관하지 않으시지. 네 임무를 성공했으나, 난 네게 그 이상을 바랬다.\n\n내일 다시 오거라. 네가 죽이는 것 그 이상을 할 수 있도록 기회를 주겠다."
-
-#: 232026500-0-11696
-msgctxt "232026500-0-11696"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11688
-msgctxt "116521668-0-11688"
-msgid "Performed with all the care befitting the Night Mother's sacred work. Your devotion to this task has not been overlooked.\n\nReturn again tomorrow and I'll offer you another opportunity to demonstrate your skill."
-msgstr "나이트 마더의 성스러운 일에 걸맞게 정성을 다해 수행했다. 이 일에 대한 네 헌신은 간과되지 않았네.\n\n 내일 다시 오면 네 기술을 증명할 또 다른 기회를 주겠다."
-
-#: 232026500-0-11688
-msgctxt "232026500-0-11688"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11687
-msgctxt "116521668-0-11687"
-msgid "Another soul delivered to Sithis. It's unfortunate that things did not go wholly as planned, but the end result is the same.\n\nReflect on all that occurred. Then return tomorrow to use what you have learned."
-msgstr "또 하나의 영혼이 시디스께 보내졌군. 계획대로 진행되지 않은게 실망이지만, 결과는 같네.\n\n오늘의 모든 일을 반성하게. 오늘의 교훈을 내일 다시 와서 확인하게."
-
-#: 232026500-0-11687
-msgctxt "232026500-0-11687"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11686
-msgctxt "116521668-0-11686"
-msgid "Sithis welcomes all souls to the Void, no matter how they might arrive. You executed your duty, but I expect more of you.\n\nReturn tomorrow. I'll offer you a chance to prove you can excel as well as kill."
-msgstr "시디스께서는 모든 영혼을 환영하신다. 어떻게 그에게 왔는지는 상관하지 않으시지. 네 임무를 성공했으나, 난 네게 그 이상을 바랬다.\n\n내일 다시 오거라. 네가 죽이는 것 그 이상을 할 수 있도록 기회를 주겠다."
-
-#: 232026500-0-11686
-msgctxt "232026500-0-11686"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11678
-msgctxt "116521668-0-11678"
-msgid "Performed with all the care befitting the Night Mother's sacred work. Your devotion to this task has not been overlooked.\n\nReturn again tomorrow and I will offer you another opportunity to demonstrate your skill."
-msgstr "나이트 마더의 성스러운 일에 걸맞게 정성을 다해 수행했다. 이 일에 대한 네 헌신은 간과되지 않았네.\n\n 내일 다시 오면 네 기술을 증명할 또 다른 기회를 주겠다."
-
-#: 232026500-0-11678
-msgctxt "232026500-0-11678"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11677
-msgctxt "116521668-0-11677"
-msgid "Another soul delivered to Sithis. It's unfortunate that things did not go wholly as planned, but the end result is the same.\n\nReflect on what occurred. Return tomorrow and use what you have learned."
-msgstr "또 하나의 영혼이 시디스께 보내졌군. 계획대로 진행되지 않은게 실망이지만, 결과는 같네.\n\n오늘 일을 반성하게. 오늘의 교훈을 내일 다시 와서 확인하게."
-
-#: 232026500-0-11677
-msgctxt "232026500-0-11677"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11676
-msgctxt "116521668-0-11676"
-msgid "Sithis welcomes all souls to the Void, no matter how they arrive. You have executed your duty, but I expect more from you.\n\nReturn tomorrow. I'll offer you a chance to prove that you can excel, not just kill."
-msgstr "시디스께서는 모든 영혼을 환영하신다. 어떻게 그에게 왔는지는 상관하지 않으시지. 네 임무를 성공했으나, 난 네게 그 이상을 바랬다.\n\n내일 다시 오거라. 단순히 죽이는 것 이상으로 네가 더 발전할 기회를 주마."
-
-#: 232026500-0-11676
-msgctxt "232026500-0-11676"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11635
-msgctxt "116521668-0-11635"
-msgid "Exemplary work. You truly have a gift for death.\n\nReturn tomorrow. I'm certain we can find more ways to put your skills to the test."
-msgstr "훌륭한 솜씨로군. 너에겐 죽음을 가져오는 재능이 있는게 틀림없어.\n\n내일 다시 오거라. 그 능력을 확인하기 위해, 새로운 시련을 준비해두지."
-
-#: 232026500-0-11635
-msgctxt "232026500-0-11635"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11634
-msgctxt "116521668-0-11634"
-msgid "Excellent. The Night Mother will be pleased.\n\nReturn tomorrow. I am eager to see you reach your full potential."
-msgstr "훌륭하군. 나이트 마더께서 기뻐하시겠어.\n\n내일 다시 오거라. 자네의 잠재력을 최대한 발휘한 모습을 보고 싶으니."
-
-#: 232026500-0-11634
-msgctxt "232026500-0-11634"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11633
-msgctxt "116521668-0-11633"
-msgid "It seems your work was far from perfect, but a life is a life.\n\nReturn tomorrow. The truest path to improvement is practice, and the Night Mother provides ample opportunity for that."
-msgstr "너의 일은 완벽하지 못했지만, 인생은 인생이야.\n\n내일 다시 오거라. 개선의 가장 진실한 길은 실천이며, 나이트 마더께선 충분한 기회를 줄 것이야."
-
-#: 232026500-0-11633
-#, fuzzy
-msgctxt "232026500-0-11633"
 msgid "The Sacrament is fulfilled."
 msgstr "검은성사를 마쳤습니다."
 
@@ -340,6 +48,28 @@ msgctxt "232026500-0-11625"
 msgid "The Sacrament is fulfilled."
 msgstr "검은성사를 마쳤습니다."
 
+#: 116521668-0-11504
+#, fuzzy
+msgctxt "116521668-0-11504"
+msgid "Gods that walk around and greet followers give me the shivers, don't you agree? I prefer ancient and unknowable deities. Separation of church and state, as it were. And at least Sithis only asks for blood.\n\nHere's your gold."
+msgstr "추종자들을 돌아 다니고 인사하는 신들이 나를 떨게 해준다. 그렇지 않느냐? 나는 고대와 알 수없는 신들을 선호합니다. 교회와 국가의 분리. 그리고 최소한 Sithis는 피를 묻습니다.\n\n여기 당신의 금입니다.-G-"
+
+#: 232026500-0-11504
+msgctxt "232026500-0-11504"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11866
+#, fuzzy
+msgctxt "116521668-0-11866"
+msgid "You are five-clawed, my friend. Milksop no longer, though it will not stop this one from naming you ""Milksop.""\n\nIt seems none among the captured live. A shame, but Turuk will think of them when he sheathes his sword with the belly of a beast."
+msgstr "너는 다섯 발톱이야, 친구. 밀크 톱은 더 이상 존재하지 않지만,이 밀크톱은 \"\"밀크 톱\"\"이라는 이름을 지우지 않습니다.\n\n캡쳐 된 라이브 중에 아무 것도 보이지 않습니다. 부끄러운 줄 알지만 Turuk은 짐승의 배를 칼로 감쌀 때 생각할 것입니다.-G-"
+
+#: 232026500-0-11866
+msgctxt "232026500-0-11866"
+msgid "I've defeated the Celestial Serpent."
+msgstr "천상의 독사를 무찔렀습니다."
+
 #: 116521668-0-11624
 msgctxt "116521668-0-11624"
 msgid "Excellent. The Night Mother will be pleased.\n\nReturn tomorrow. I am eager to see you reach your full potential."
@@ -350,275 +80,14 @@ msgctxt "232026500-0-11624"
 msgid "The Sacrament is fulfilled."
 msgstr "검은성사를 마쳤습니다."
 
-#: 116521668-0-11623
-msgctxt "116521668-0-11623"
-msgid "It seems your work was far from perfect, but a life is a life.\n\nReturn tomorrow. The truest path to improvement is practice, and the Night Mother provides ample opportunity for that."
-msgstr "너의 일은 완벽하지 못했지만, 인생은 인생이야.\n\n내일 다시 오거라. 개선의 가장 진실한 길은 실천이며, 나이트 마더께선 충분한 기회를 줄 것이야."
-
-#: 232026500-0-11623
-msgctxt "232026500-0-11623"
-msgid "The Sacrament is fulfilled."
-msgstr "검은성사를 마쳤습니다."
-
-#: 116521668-0-11617
+#: 116521668-0-11503
 #, fuzzy
-msgctxt "116521668-0-11617"
-msgid "I spent a lovely evening listening to a Sermonizer in Kvatch. He went on and on about how terrible the Dark Brotherhood is. I found it quite amusing. And so did he when I stuck an ice pick in his ear.\n\nSpeaking of perfect kills, here's your payment."
-msgstr "나는 아름다운 저녁을 Kvatch의 Sermonizer를 듣는 데 보냈다. 그는 다크 브라더 후드가 얼마나 끔찍한 지 계속해서 들어 봤습니다. 나는 그것이 아주 재미있는 것을 알았다. 그리고 그가 그의 귀에 얼음 픽을 찔렀을 때 그는 그렇게했습니다.\n\n 완전한 살인에 관해서는 여기에 당신의 지불이 있습니다.-G-"
+msgctxt "116521668-0-11503"
+msgid "I do enjoy contracts to eliminate those Fighters Guild buffoons. All that armor and weapons and they still don't have eyes in the back of their heads. They expect everyone to face them head on and fight fair, the fools.\n\nHere's to easy marks."
+msgstr "나는 그 전투기 길드 버프를 제거하는 계약을 즐긴다. 그 모든 갑옷과 무기는 여전히 머리 뒤쪽에 눈이 없습니다. 그들은 모두가 머리를 맞대고 공정한 싸움을하기를 바보들이라고 기대합니다.\n\n 쉬운 표시입니다.-G-"
 
-#: 232026500-0-11617
-msgctxt "232026500-0-11617"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11613
-#, fuzzy
-msgctxt "116521668-0-11613"
-msgid "Ever dream of the most perfect kill? Sometimes it keeps me up at night, imagining the best way to send a soul to Sithis. I thought I figured it out once. It came to me in a dream. But a dead chicken and a soup spoon make for terrible weapons."
-msgstr "가장 완벽한 살인을 꿈꿔 본 적이 있습니까? 때로는 밤에 Sithis에게 영혼을 보내는 가장 좋은 방법을 상상해줍니다. 나는 그것을 한 번 생각했다고 생각했습니다. 그것은 내게 꿈에 왔습니다. 그러나 죽은 닭고기와 수프 스푼은 끔찍한 무기를 만듭니다.-G-"
-
-#: 232026500-0-11613
-msgctxt "232026500-0-11613"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11610
-#, fuzzy
-msgctxt "116521668-0-11610"
-msgid "Well, good for you. But don't get too full of your accomplishments just yet. That was a fairly easy contract I started you with.\n\nCome back when you're ready for more. If the Speaker or the Matron give an order, though, that takes priority."
-msgstr "잘 됐네. 그러나 아직 성취하지 못했습니다. 그것은 내가 당신과 함께 시작했던 상당히 쉬운 계약이었습니다.\n\n 더 준비가되면 다시 돌아 오십시오. 그러나 연사 나 평론가가 명령을 내리는 경우 우선 순위가 부여됩니다.-G-"
-
-#: 232026500-0-11610
-#, fuzzy
-msgctxt "232026500-0-11610"
-msgid "I completed my first contract."
-msgstr "나는 첫 계약을 완료했다.-G-"
-
-#: 116521668-0-11608
-#, fuzzy
-msgctxt "116521668-0-11608"
-msgid "Kill anyone I know while you were away? Not that I'd mind. This is the only family I care about these days. That goes for you as well.\n\nConsider this like an allowance. Keep up with your chores and you get a special treat."
-msgstr "네가 떨어져있는 동안 내가 아는 사람을 죽여라. 내가 마음에 들지 않는다. 요즘 내가 걱정하는 유일한 가족입니다. 그것도 당신을 위해 간다.\n\n 이것을 수당처럼 생각해 보라. 당신의 집안일을 계속 지키면 특별한 대우를받을 수 있습니다.-G-"
-
-#: 232026500-0-11608
-msgctxt "232026500-0-11608"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11604
-#, fuzzy
-msgctxt "116521668-0-11604"
-msgid "All that fuss over a swamp? Unbelievable! Did I ever tell you about my travels in Black Marsh? More souls went to Sithis and more bodies sank into the mud during my visit, I'm proud to admit. But I also got red-sore fever.\n\nYou had to remind me."
-msgstr "그 모든 것이 늪에서 소란 스럽습니까? 믿을 수 없는! 나는 블랙 마쉬 여행에 관해 당신에게 말 했나요? Sithis에 더 많은 영혼이 갔고 방문하는 동안 더 많은 시체가 진흙 속에 빠졌습니다. 나는 자랑스럽게 생각합니다. 그러나 나는 또한 열이 나고 열이 나옵니다.\n\n 나에게 상기시켜야했습니다.-G-"
-
-#: 232026500-0-11604
-msgctxt "232026500-0-11604"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11600
-#, fuzzy
-msgctxt "116521668-0-11600"
-msgid "We're a scary bunch, I'll grant you that. But with bloodfiends, werewolves, and so much else, what's another horror lurking in the shadows for a place like Rivenspire?\n\nYour employer seems satisfied, so I guess you were suitably frightening. There."
-msgstr "우리는 무서운 뭉치 야, 내가 너에게 줄께. 하지만 피 피고인, 늑대 인간, 그 밖의 많은 사람들이 Rivenspire 같은 곳에서 그림자에 숨어있는 또 다른 공포는 무엇입니까?\n\n 고용주가 만족스러워 보였으므로 적절하게 무서웠다 고 생각합니다. 그곳에.-G-"
-
-#: 232026500-0-11600
-msgctxt "232026500-0-11600"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11595
-#, fuzzy
-msgctxt "116521668-0-11595"
-msgid "On the subject of murder, what would you say is the most perfect weapon for the job? Wrong! As long as the target winds up dead, there's no such thing as an imperfect weapon!\n\nStyle, on the other hand, counts for everything. Here's your gold."
-msgstr "살인의 주제에 관해서, 당신은 직업에있어 가장 완벽한 무기가 무엇이라고 말합니까? 잘못된! 목표물이 죽은만큼, 불완전한 무기 같은 것은 없습니다!\n\nStyle은 모든 것을 중요시합니다. 여기에 금이 있습니다.-G-"
-
-#: 232026500-0-11595
-msgctxt "232026500-0-11595"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11591
-#, fuzzy
-msgctxt "116521668-0-11591"
-msgid "Is it better to kill one target with excellence or a multitude with mediocrity? I say, as long as they're all dead, who in Oblivion cares?\n\nHere's your pay."
-msgstr "평범한 자세로 우수 또는 무리로 한 대상을 죽이는 것이 낫습니다. 그들이 모두 죽은 한, 망각에 누가 관심을 가지 냐고 묻는다.\n\n 여기가 당신의 임금입니다.-G-"
-
-#: 232026500-0-11591
-msgctxt "232026500-0-11591"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11587
-#, fuzzy
-msgctxt "116521668-0-11587"
-msgid "Wood Elves. They're so small, you have to kill at least three of them to get any blood on your blade. From what I can tell, you must have slaughtered an entire village.\n\nKeep up the good work."
-msgstr "우드 엘프. 그들은 너무 작아서, 당신의 칼날에 피를 얻기 위해 적어도 세 명을 죽여야합니다. 내가 말할 수있는 것부터 마을 전체를 도살 했어야합니다.\n\n 좋은 일을 계속하십시오.-G-"
-
-#: 232026500-0-11587
-msgctxt "232026500-0-11587"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11583
-#, fuzzy
-msgctxt "116521668-0-11583"
-msgid "Here's today's lesson: What do the Wood Elves value above all else? Trees! Isn't that a kick in the pants? I once held back a legion of Grahtwood guards by threatening to pull a small tree out of the ground, roots and all.\n\nAt least they pay well."
-msgstr "오늘의 교훈은 다음과 같습니다. 무엇보다도 우드 엘프는 무엇보다 가치가 있습니까? 나무! 그게 바지에 차는 건 아닌가? 나는 작은 나무를 뿌리와 뿌리에서 끌어 내리겠다고 위협함으로써 Grahtwood 경비병 군단을 한 때 붙잡 았습니다.\n\n 적어도 그들은 돈을 지불합니다.-G-"
-
-#: 232026500-0-11583
-msgctxt "232026500-0-11583"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11579
-#, fuzzy
-msgctxt "116521668-0-11579"
-msgid "Glenumbra. If not for all the Bretons, it would be a perfectly quaint little community. Glad to see you were able to reduce their numbers by a few.\n\nOh, and excellent work on that contract, by the way. You really earned this."
-msgstr "Glenumbra. 모든 브리튼을 위해 아닙니다이지 않는 경우에, 완전하게 기묘한 작은 지역 사회 일 것입니다. 다행히 몇 가지로 숫자를 줄일 수 있다는 것을 알았습니다.\n\n 오, 그리고 그 계약에 대한 훌륭한 작품입니다. 당신은 정말로 이것을 얻었습니다.-G-"
-
-#: 232026500-0-11579
-msgctxt "232026500-0-11579"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11575
-#, fuzzy
-msgctxt "116521668-0-11575"
-msgid "I never could understand Nord politics. It seems to involve lots of yelling and copious amounts of mead. Still, if they're willing to pay for our services, who am I to complain?\n\nHere. For you."
-msgstr "나는 결코 노르 정치를 이해할 수 없었다. 그것은 많은 소리와 많은 양의 미드를 필요로합니다. 아직도, 그들이 우리의 서비스 비용을 기꺼이 지불한다면, 누가 불평하겠습니까?\n\n 여기. 너를 위해서.-G-"
-
-#: 232026500-0-11575
-msgctxt "232026500-0-11575"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11571
-msgctxt "116521668-0-11571"
-msgid "Someone really had an ax to grind with the Dark Elves. Good thing they didn't know who's on the other side of the contract, am I right? The truth is, we're just as awful to each other, so they shouldn't take it personally. Still, they paid good gold."
-msgstr "계약을 의뢰한 이는 다크 엘프와의 관계를 끊어버리고 싶어하던것 같더군. 다행인건 그들이 한 계약의 반대 편에 누가 있는지 모른다는거지, 그렇지 않나? 사실은, 우린 서로 아주 싫어하지, 그래서 개인적으로 이 일을 받아들이면 안돼. 그래도, 그들은 돈을 많이 지불한다니까."
-
-#: 232026500-0-11571
-msgctxt "232026500-0-11571"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11568
-#, fuzzy
-msgctxt "116521668-0-11568"
-msgid "Lesson for today: Never get between a Nord and his mead. Or his rabbit meatballs, for that matter. I've used both to lure the fools to their deaths. But you know what? Give a Nord a mead and a rabbit meatball and he dies happy.\n\nHere's your gold."
-msgstr "오늘을위한 교훈:절대로 노르와 미드 사이에 가지 마라. 그 토끼 미트볼도. 나는 그들의 죽음에 바보를 유인하기 위해 둘 다 사용했습니다. 하지만 그거 알아? Nord에게 미트와 토끼 미트볼을 주면 그는 행복하게 죽습니다.\n\n 여기에 금이 있습니다.-G-"
-
-#: 232026500-0-11568
-msgctxt "232026500-0-11568"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11567
-#, fuzzy
-msgctxt "116521668-0-11567"
-msgid "I spent some time with a woman in Bangkorai once. Those river crustaceans she prepared with pepper spice were magic! Oh, this was after I killed her husband. Turns out, she paid for the contract! It's a small world, I tell you.\n\nHere's your pay."
-msgstr "나는 Bangkorai에있는 한 여자와 한동안 시간을 ​​보냈다. 그녀가 고추 향신료로 준비한 강 갑각류는 마술이었다! 오, 내가 남편을 죽인 뒤에야. 그녀는 계약금을 지불했다! 그것은 작은 세상입니다, 나는 당신에게 말합니다.\n\n 여기가 당신의 임금입니다.-G-"
-
-#: 232026500-0-11567
-msgctxt "232026500-0-11567"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11564
-#, fuzzy
-msgctxt "116521668-0-11564"
-msgid "A Nord once told me that Reachmen eat stones. Something about hardening the body. From the ones I know, it must only apply to their heads. Mostly I'm just saying they're thick, but I did shatter a sword against a Reach skull once.\n\nPayment, as usual."
-msgstr "Nord는 Reachmen이 돌을 먹는다는 말을 들었다. 시체를 고치는 것에 관한 것. 내가 아는 사람들에게서 보면, 그것은 단지 그들의 머리에만 적용되어야합니다. 대부분 나는 단지 그들이 두껍다는 것을 말하고있는 것이지만, 나는 Reach 해골에 대해 한 번 검을 산산이 조각났습니다.\n\n 지불금은 평소처럼.-G-"
-
-#: 232026500-0-11564
-msgctxt "232026500-0-11564"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11563
-#, fuzzy
-msgctxt "116521668-0-11563"
-msgid "The Summerset Isles. A murder spree there can be beautiful this time of year. I remember one time when Astara and I were sent on competing contracts. This was before she became the Matron. Anyway, she …. Oh no, I probably shouldn't tell this story."
-msgstr "서머셋 제도. 살인이 너무 많아서 이번에는 아름답습니다. 나는 Astara와 내가 경쟁 계약에 파견되었을 때 한 번 기억한다. 이것은 그녀가 마트 론이되기 전이었다. 어쨌든, 그녀는 .... 오, 아니, 아마이 이야기를해서는 안됩니다.-G-"
-
-#: 232026500-0-11563
-msgctxt "232026500-0-11563"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11560
-msgctxt "116521668-0-11560"
-msgid "The carrion beetles of the Alik'r can strip the flesh from a corpse in a day. Today's lesson: If you come across bleached bones in the desert sun, be wary. The carrion beetles may still be hungry\n\nSo, there's your tip and here's your pay."
-msgstr "알리키어의 캐리온 딱정벌레는 하루 만에 시체에서 살을 벗겨 낼 수 있지. 오늘의 교훈: 사막의 횡단하다 말끔한 뼈를 본다면, 조심해라. 캐리온 딱정벌레가 배가 고플지도 모르니.\n\n그래, 여기 교훈도 있고 너의 돈도 있지."
-
-#: 232026500-0-11560
-msgctxt "232026500-0-11560"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11555
-#, fuzzy
-msgctxt "116521668-0-11555"
-msgid "I often employ slaughterfish for challenging contracts. I hate not doing the job myself, but you have to admire those teeth that swim. I've seen them reduce a Nord to bones faster than Tanek can throw a knife. Today's lesson: everything is a weapon."
-msgstr "나는 종종 계약에 도전하기 위해 도롱뇽을 고용합니다. 나는 그 일을 혼자서하지 않는 것을 싫어하지만, 수영하는 이빨에 감탄해야합니다. 나는 타넥이 칼을 던질 수있는 것보다 빨리 뼈로 북쪽을 줄이는 것을 보았다. 오늘의 교훈:모든 것이 무기입니다.-G-"
-
-#: 232026500-0-11555
-msgctxt "232026500-0-11555"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11554
-#, fuzzy
-msgctxt "116521668-0-11554"
-msgid "Nimalten's just one more bump on the road beyond Riften, but there's a good reason to stop there—goat cheese curds dipped in hot oil and honey. The hot oil can also be used to take down a target.\n\nTalk about mixing business with pleasure!"
-msgstr "Nimalten은 Riften 너머의 도로에서 한 번 더 부딪 히지 만 거기에서 멈출 수있는 좋은 이유가 있습니다. 염소 치즈 커드가 뜨거운 기름과 꿀에 담근 것입니다. 뜨거운 기름은 또한 목표를 낮추는 데 사용될 수 있습니다.\n\n 비즈니스와 즐거움을 혼합하는 것에 대해 이야기하십시오!-G-"
-
-#: 232026500-0-11554
-msgctxt "232026500-0-11554"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11553
-#, fuzzy
-msgctxt "116521668-0-11553"
-msgid "House Dres. Even as a Dark Elf, I never could abide slavery. At least murder is swift and sure. A slave dies slowly, one arduous task at a time. It's enough to make the Night Mother weep!\n\nBut on to more cheerful discourse—here's your gold."
-msgstr "하우스 드레 스. 다크 엘프처럼, 나는 결코 노예 생활을 할 수 없었습니다. 최소한 살인은 신속하고 확실합니다. 한 번에 한 노예가 천천히 죽습니다. 나이트 마더가 울음을 내는 것만으로도 충분합니다!\n\n하지만 더 기쁜 담론에 금이 있습니다.-G-"
-
-#: 232026500-0-11553
-msgctxt "232026500-0-11553"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11552
-#, fuzzy
-msgctxt "116521668-0-11552"
-msgid "Never fancied military service. I prefer death be delivered in a more intimate fashion. I'm sure the Night Mother feels the same way. You don't see us marching armies out for slaughter, after all.\n\nNeither here, nor there, I suppose. Here, payment."
-msgstr "결코 군복 무상치 않은. 나는 죽음이 더 친밀한 방식으로 전달되는 것을 선호한다. 나는 Night Mother가 같은 방식으로 느낀다고 확신한다. 결국 군대를 도살하기 위해 군대를 행진하는 것을 보지 못합니다.\n\n 여기도 마찬가지입니다. 여기, 지불.-G-"
-
-#: 232026500-0-11552
-msgctxt "232026500-0-11552"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11551
-#, fuzzy
-msgctxt "116521668-0-11551"
-msgid "Feeling a little flush after all that work—or is that just arterial spray? It's a cutthroat business out there, and the Gold Coast Mercenaries know that all too well.\n\nPayment, as promised."
-msgstr "그 일을 조금이라도 끝내고 ​​느낀다면 - 아니면 그냥 동맥 분무일까요? 그곳은 치열한 사업이고, 골드 코스트 용병은 그 모든 것을 잘 알고 있습니다.\n\n 약속대로.-G-"
-
-#: 232026500-0-11551
-msgctxt "232026500-0-11551"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11550
-msgctxt "116521668-0-11550"
-msgid "Back from Ebonheart? Did you try the blackened snake hearts? I grew so fond of them while working in the area. Come to think of it, one contract called for the death of the region's best chef.\n\nBlackened snake hearts never tasted the same after that."
-msgstr "에본 하트에서 돌아온건가? 혹시 검게 그을린 뱀의 심장을 먹어봤나? 그 곳에서 일을 하는동안 그걸 매우 좋아하게 됬었지. 그러고 보니 계약중 하나는 이 지역 최고의 요리사의 죽음을 요구했었다.\n\n이후 검게 그을린 뱀의 심장은 결코 예전 같은 맛이 나지 않더군."
-
-#: 232026500-0-11550
-msgctxt "232026500-0-11550"
+#: 232026500-0-11503
+msgctxt "232026500-0-11503"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
@@ -633,323 +102,44 @@ msgctxt "232026500-0-11547"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
-#: 116521668-0-11546
-#, fuzzy
-msgctxt "116521668-0-11546"
-msgid "I raise the spine of ridiculousness in your general direction. Ha! Those lizards, am I right? After one contract, the client was so pleased that she made me a pair of boots—using the Argonian I just killed at her request!\n\nAh, memories. Your pay."
-msgstr "나는 너의 일반적인 방향으로 어리 석음의 척추를 들어 올린다. 하아! 그 도마뱀들, 맞지? 한 계약 후에 고객은 그녀가 나에게 요청한대로 죽인 Argonian을 사용하여 나에게 한발의 부츠를 만들어 준 것에 대해 매우 기뻤습니다.\n\n 아, 기억. 너의 돈.-G-"
+#: 116521668-0-11748
+msgctxt "116521668-0-11748"
+msgid "Expertly done. I sense that some of our Brothers and Sisters gaze upon you with jealous eyes. This is good. Perhaps that will motivate them to excel.\n\nTake this with the Night Mother's blessing. Return tomorrow. There is always work to be done."
+msgstr "전문가답게 해결했군. 우리 형제 자매들 중 몇 명이 질투하는게 느껴질 정도야. 아주 좋아. 아마 그들이 더 발전할 계기를 마련해 줄 일이 될 거야.\n\n나이트 마더의 축복과 함께 이 포상을 받아라. 내일도 오도록. 처리해야 할 일은 항상 있으니."
 
-#: 232026500-0-11546
-msgctxt "232026500-0-11546"
+#: 232026500-0-11748
+msgctxt "232026500-0-11748"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11506
+#, fuzzy
+msgctxt "116521668-0-11506"
+msgid "Never had much use for royalty. Kings and queens, expecting everyone to kneel and grovel. I made a target kneel and grovel once, just to see what it was like. I suppose I could get used to it, but I enjoyed slitting his throat even better.\n\nYour pay."
+msgstr "로열티를 많이 사용하지 못했습니다. 왕과 여왕, 모두가 무릎을 꿇고 우울해 할 것을 기대합니다. 나는 무릎을 꿇고 한 번 grovel을 만들었다. 나는 그것에 익숙해 질 수 있다고 생각하지만, 목구멍을 더 잘게 찢어 놓는 것을 즐겼습니다.\n\n 지불.-G-"
+
+#: 232026500-0-11506
+msgctxt "232026500-0-11506"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
-#: 116521668-0-11545
-#, fuzzy
-msgctxt "116521668-0-11545"
-msgid "I visited Stormhold once when it was still in Dark Elf hands. Must make for some awkward town meetings since the Argonians took it back. I imagine the Shadowscales keep quite busy.\n\nYou too, by the look of it. Here's your reward."
-msgstr "나는 Dark Elef 손에 아직도있을 때 Stormhold를 한 번 방문했습니다. Argonians가 그것을 되찾은 이후로 어색한 마을 모임을 만들어야합니다. 나는 Shadowscales가 꽤 바쁘다고 생각합니다.\n\n 너도 그 모습으로. 여기에 보상이 있습니다.-G-"
+#: 116521668-0-11747
+msgctxt "116521668-0-11747"
+msgid "A soul has been sent to the Void. Pity that you weren't able to complete both of my challenges, but there's no sense dwelling on your failures.\n\nHere's your reward. Return tomorrow. There is always work to be done."
+msgstr "영혼이 공허로 보내졌군. 시험을 모두 완수하지 못한 건 유감이지만, 네 실패를 오래 담아 둘 필요는 없다.\n\n여기 보수다. 내일도 오도록. 처리해야 할 일은 항상 있으니."
 
-#: 232026500-0-11545
-msgctxt "232026500-0-11545"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
+#: 232026500-0-11747
+msgctxt "232026500-0-11747"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
 
-#: 116521668-0-11544
-#, fuzzy
-msgctxt "116521668-0-11544"
-msgid "Death by assassin. I suppose there are worse ways to enter the Void. But to pay us to end your life? And I thought I'd seen everything! Don't pass it on, but I'd cut your throat just for the fun of it if you asked nicely.\n\nHere's your gold."
-msgstr "암살자의 죽음. 나는 공허에 들어가는 더 나쁜 방법이 있다고 생각합니다. 하지만 우리 인생을 끝내기 위해 돈을 쓰려고? 그리고 나는 모든 것을 보았다고 생각했습니다! 그것을 지나치지 마라. 그러나 네가 잘 물으 셨다면 나는 너의 목을 잘랐다.\n\n 여기에 금이있다.-G-"
+#: 116521668-0-11505
+msgctxt "116521668-0-11505"
+msgid "Fort Amol? Never heard of it. I killed a Forn Amil once, near a river that ran past a fort. Or was that on a cliff overlooking a ford? I really should start writing my memoirs one of these days ….\n\nAnyway, here's your pay."
+msgstr "아몰 요새? 들어본 적이 없어. 폰 아밀이라면 요새를 지나는 강 근처에서 죽인 적이 있는데, 아니, 요새가 내려다 보이는 벼랑에서 한건가? 이런 기억은 적어 두지 않으면...\n\n어쨌든, 보수다."
 
-#: 232026500-0-11544
-msgctxt "232026500-0-11544"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11543
-#, fuzzy
-msgctxt "116521668-0-11543"
-msgid "Argonians, right? Green-Venom-Tongue aside, on the whole the lizards make for a strange set of luggage. Even the ones I've murdered were unfathomable. I tried to discuss it with a target once, but he kept talking about mud and bugs. Infuriating!"
-msgstr "Argonians, 맞죠? Green-Venom-Tongue는 제쳐두고 도마뱀 전체에 이상한 짐을 만듭니다. 내가 살해 한 사람들조차도 해가 없다. 나는 한 번 표적과 토론하려고했지만 진흙과 벌레에 관해 계속 이야기했다. 격분시키는!-G-"
-
-#: 232026500-0-11543
-msgctxt "232026500-0-11543"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11542
-#, fuzzy
-msgctxt "116521668-0-11542"
-msgid "Watching blood matches! What a waste! Anyone who pays to watch two people bash each other to death is an uneducated barbarian! By the way, I saw how you took down your latest target. I especially appreciated the spray of blood at the end. Well done!"
-msgstr "혈액 일치를보고! 얼마나 낭비입니까! 두 사람이 죽을 때까지 서로를 상대로 돈을 지불하는 사람은 무식한 야만인입니다! 그건 그렇고, 내가 어떻게 당신이 당신의 최신 목표물을 쓰러 뜨 렸는지 보았다. 나는 특히 마지막에 피를 뿌려주었습니다. 잘 했어!-G-"
-
-#: 232026500-0-11542
-msgctxt "232026500-0-11542"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11540
-#, fuzzy
-msgctxt "116521668-0-11540"
-msgid "Don't get all sentimental on me, hero. We both have our paths to follow. Damn, that sounded like a Fate-Bearer, didn't it?\n\nLook, let me leave you with a single kiss. One really good kiss. If you ever want another one, come find me in Vvardenfell."
-msgstr "영웅에 대한 감정적 인 말을하지 마라. 우리 둘 다 우리의 길을 따라야합니다. 젠장, 그건 운명 지주처럼 들렸지? 그렇지, 한번만 키스 해줘. 정말 좋은 키스 하나. 혹시 다른 것을 원한다면, Vvardenfell에서 나를 찾아와.-G-"
-
-#: 232026500-0-11540
-#, fuzzy
-msgctxt "232026500-0-11540"
-msgid "Can't you stick around a little longer?"
-msgstr "좀 더 오래 머물 수 없니?-G-"
-
-#: 116521668-0-11538
-#, fuzzy
-msgctxt "116521668-0-11538"
-msgid "I hunted a Khajiit once. Well, more than once, but I'm telling this story. She knew I was tracking her almost immediately. Led me on a wild chase. Then decided to slip back and ambush me. That was her fatal mistake. I always drop caltrops behind me."
-msgstr "나는 Khajiit를 한 번 사냥했다. 글쎄, 한 번 이상,하지만 나는이 이야기를하고있다. 그녀는 내가 그녀를 거의 즉시 추적하고 있다는 것을 알았다. 나는 야생 추적을했다. 그런 다음 다시 미끄러 져 나와 나를 매복하기로 결정했습니다. 그것은 그녀의 치명적인 실수였습니다. 나는 항상 나 뒤에 caltrops를 떨어 뜨린다.-G-"
-
-#: 232026500-0-11538
-msgctxt "232026500-0-11538"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11537
-#, fuzzy
-msgctxt "116521668-0-11537"
-msgid "I'm quite fond of horses. Lightly salted, roasted over a roaring flame. If you grew up eating guar, you'd understand that riding a horse is just a waste of good food.\n\nHere, your gold."
-msgstr "나는 말을 아주 좋아합니다. 가볍게 소금에 절이는, 활활 타오르는 불꽃 위에 구운. 당신이 구아라를 먹고 자란다면, 말을 타는 것은 좋은 음식의 낭비라는 것을 이해할 것입니다.\n\n 여기, 당신의 금.-G-"
-
-#: 232026500-0-11537
-msgctxt "232026500-0-11537"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11536
-#, fuzzy
-msgctxt "116521668-0-11536"
-msgid "Thalmor bureaucrats are some of the most humorless people I've ever murdered. I used some of my best material on one target and he barely cracked a smile as I gutted him. There's just no accounting for taste.\n\nOh, here's your pay."
-msgstr "탈모 관료는 제가 살해 한 사람들 중 가장 유머러스 한 사람들입니다. 나는 하나의 표적에 내 최고의 재료를 사용했고, 내가 그를 내 렸을 때 그는 미소 짓기가 거의 없었다. 취향에 대한 설명이 없습니다.\n\n 오, 여기에 돈이 있습니다.-G-"
-
-#: 232026500-0-11536
-msgctxt "232026500-0-11536"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11535
-#, fuzzy
-msgctxt "116521668-0-11535"
-msgid "I must admit, your skills get better with every contract you complete. In fact, the Matron told me that if you complete one more contract in record time, I should put your name on the next sheet of paper.\n\nThat's a Brotherhood joke. No, seriously."
-msgstr "나는 너가 끝내는 각 계약에 너의 기술이 나아질 것을 인정해야한다. 사실, 매 트론은 기록적인 시간에 계약을 한 번 더 완수하면 이름을 다음 용지에 써야한다고 말했습니다.\n\n 그것은 형제애 농담입니다. 아니, 진지하게.-G-"
-
-#: 232026500-0-11535
-msgctxt "232026500-0-11535"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11534
-#, fuzzy
-msgctxt "116521668-0-11534"
-msgid "Nothing like a Khajiiti bazaar to alleviate boredom. If you find yourself in a rut, spend an hour browsing the stalls. Just leave your purse at home. Come to think of it, don't. Hunting the cutpurse who robbed you is an even better cure.\n\nYour pay."
-msgstr "지루함을 완화하기 위해 Khajiiti bazaar와 같은 것은 없습니다. 너 자신이 틀에 박힌다면, 매점을 둘러 보는 시간을 보내라. 지갑을 집에두고 두십시오. 생각 해보지,하지 마라. 강도를 저지른 커프 투스를 사냥하는 것이 더 나은 치료법입니다.\n\n 임금을 지불하십시오.-G-"
-
-#: 232026500-0-11534
-msgctxt "232026500-0-11534"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11533
-#, fuzzy
-msgctxt "116521668-0-11533"
-msgid "Good archery school in Marbruk, if that's your sort of thing. I have a fondness for target shooting myself, but I find the bow too impersonal when it comes to work. I prefer close-quarter killing to ranged any day.\n\nHere you go. For the job."
-msgstr "Marbruk의 좋은 양궁 학교. 그게 너의 일이라면. 나는 목표물을 찍기를 좋아하지만, 나는 활을 너무 냉담하게 생각한다. 나는 어느 날 원거리에 살기 위해 근접 살인을 선호한다.\n\n 여기있다. 그 일을 위해서.-G-"
-
-#: 232026500-0-11533
-msgctxt "232026500-0-11533"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11531
-#, fuzzy
-msgctxt "116521668-0-11531"
-msgid "Despite the name, Bramblebreach is remarkably pleasant. They have a talent for cooking with insects that makes me curious how they'd approach scrib. Hmm. I remember a kwama miner. Killed him with his own prod. Good times!\n\nHere. Your payment."
-msgstr "이름에도 불구하고, Bramblebreach는 현저하게 즐겁다. 그들에게는 곤충 요리에 대한 재능이있어서 저에게 그들이 scrib에 접근하는 방법이 궁금합니다. 흠. 나는 콴 광부를 기억한다. 자기 찌르다 죽였다. 좋은 시간!\n\n 여기에 있습니다. 귀하의 지불.-G-"
-
-#: 232026500-0-11531
-msgctxt "232026500-0-11531"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11530
-#, fuzzy
-msgctxt "116521668-0-11530"
-msgid "You seem to be getting the hang of this. I do enjoy watching a blade become honed and keen. Speaking of which, remember to sharpen your weapon before a job. Too late, I realized my blade was dull. The cut I made was embarrassingly ragged.\n\nYour pay."
-msgstr "너는 이것에 매달린 것처럼 보인다. 나는 칼날이 예리하고 예리한 것을 보는 것을 즐긴다. 말하자면 직업 전에 무기를 연마하는 것을 잊지 마십시오. 너무 늦게, 나는 나의 칼이 무디다는 것을 깨달았다. 내가 만든 상처는 당황 스러웠다.\n\n 임금.-G-"
-
-#: 232026500-0-11530
-msgctxt "232026500-0-11530"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11529
-#, fuzzy
-msgctxt "116521668-0-11529"
-msgid "A few words and a handshake don't make you safe. They certainly didn't protect that ambassador from my blade. But I do enjoy visiting embassies. I find their many nooks and crannies make the perfect spots for quiet assassinations.\n\nHere's your pay."
-msgstr "몇 마디와 악수로는 안전하지 않습니다. 그들은 확실히 내 칼날에서 대사를 보호하지 못했습니다. 그러나 나는 대사관 방문을 즐긴다. 나는 그들의 많은 구석과 틈새가 조용한 암살을위한 완벽한 장소를 찾는다는 것을 알았습니다.\n\n 여기가 당신의 봉급입니다.-G-"
-
-#: 232026500-0-11529
-msgctxt "232026500-0-11529"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11526
-#, fuzzy
-msgctxt "116521668-0-11526"
-msgid "Eastmarch. Too much snow and too many Nords for my taste. But speaking of taste, I did try that Voljar's mead once. Awful stuff! I had to kill three drunks and a bard to get the taste out of my mouth! \n\nYour gold. Oh, and don't spend it on the mead."
-msgstr "Eastmarch. 너무 많은 눈과 너무 많은 Nords. 그러나 맛에 관해서는, 나는 Voljar의 미드를 한 번 시도했습니다. 끔찍한 물건! 내 입에서 맛을 내기 위해 3 개의 술주정 뱅이와 시어머니를 죽여야 만했다.\n\n 당신의 금. 오, 그리고 그것을 미드에서 보내지 마십시오.-G-"
-
-#: 232026500-0-11526
-msgctxt "232026500-0-11526"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11522
-#, fuzzy
-msgctxt "116521668-0-11522"
-msgid "Windhelm. You know they dunk their sweetrolls in mead. Only the Nords, am I right? Speaking of which, we received a mysterious package full of sweetrolls today. I recommend avoiding the temptation. Never trust an unannounced dessert, I always say."
-msgstr "윈델. 당신은 그들이 달콤한 곡물을 꿀꺽 꿀꺽 마셨다는 것을 알고 있습니다. Nords 만, 맞습니까? 그것의 안에서 말하면서, 우리는 오늘 sweetrolls로 가득한 신비적인 꾸러미를 받았다. 유혹을 피하는 것이 좋습니다. 결코 예고되지 않은 디저트를 믿지 마라. 나는 항상 말한다.-G-"
-
-#: 232026500-0-11522
-msgctxt "232026500-0-11522"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11521
-#, fuzzy
-msgctxt "116521668-0-11521"
-msgid "Nords. Even their cheese is bigger and bolder than those of the other races. I once killed a Thane with a wheel of Nord cheese loosed from a cart at the top of a hill. As Sithis is my witness, her guards, as well.\n\nBefore I forget, your gold."
-msgstr "노드. 그들의 치즈조차도 다른 종족들보다 더 크고 더 강합니다. 나는 언덕 꼭대기에있는 장바구니에서 풀린 노르 드 치즈로 한 번 Thane을 죽였다. Sithis가 내 증인, 그녀의 경비원이기 때문에.\n\n 잊어 버리기 전에, 당신의 금.-G-"
-
-#: 232026500-0-11521
-msgctxt "232026500-0-11521"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11520
-#, fuzzy
-msgctxt "116521668-0-11520"
-msgid "Wood Elves! Never could stand the little gnats. Do they always have to be so cheerful? There's nothing as annoying as a target that smiles and laughs all the while you're slicing them open from stomach to stern. \n\nAnyway, here's your pay."
-msgstr "우드 엘프! 작은 덩어리를 결코 참을 수 없었습니다. 그들은 항상 그렇게 기분이 좋아야합니까? 뱃속에서 선미까지 열어주는 동안 모든 것을 웃고 웃으며 표적처럼 짜증나게합니다.\n\n 어쨌든, 여기 당신의 임금이 있습니다.-G-"
-
-#: 232026500-0-11520
-msgctxt "232026500-0-11520"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11519
-#, fuzzy
-msgctxt "116521668-0-11519"
-msgid "I bought a potted fern in Vulkwasten. Had the notion to nurture a green thumb. Not my knack, as it were. Only thing I've unintentionally killed in nearly a decade.\n\nBest stick to what comes natural, right? Your gold."
-msgstr "나는 Vulkwasten에서 화분에 담긴 고사리를 샀다. 녹색 엄지 손가락을 키우는 개념을 가졌습니다. 그랬듯이 내 머리가 아닐세. 거의 10 년 만에 내가 실수로 죽인 것.\n\n 자연스러운 것에 최선을 다하겠습니까? 너의 금.-G-"
-
-#: 232026500-0-11519
-msgctxt "232026500-0-11519"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11518
-#, fuzzy
-msgctxt "116521668-0-11518"
-msgid "Raz wishes you the best of luck, my friend, but Vvardenfell is a bit out of my jurisdiction.\n\nIf they show themselves in the Dominion, Raz will deal with them. But in Dark Elf lands? That's someone else's problem, yes?"
-msgstr "Raz는 당신에게 최고의 행운을 빌어 주지만, Vvardenfell은 내 관할 구역에서 약간 벗어났습니다.\n\n 그들이 Dominion에 등장하면 Raz가 그들을 처리 할 것입니다. 하지만 다크 엘프에서? 그게 다른 사람의 문제 야, 그렇지?-G-"
-
-#: 232026500-0-11518
-#, fuzzy
-msgctxt "232026500-0-11518"
-msgid "Will you go to Vvardenfell to deal with these Fate-Bearers, Raz?"
-msgstr "Vvardenfell에 가서이 운명의 운반자 인 Raz를 처리 할 의향이 있습니까?-G-"
-
-#: 116521668-0-11516
-#, fuzzy
-msgctxt "116521668-0-11516"
-msgid "Kor and I went hunting in Malabal Tor once. No, not that kind of hunting! We were stalking the prey with two legs. Wood Elves, to be exact. It was a close contest, but I beat Kor by a nose. And an ear.\n\nHere. You earned this."
-msgstr "Kor와 나는 Malabal Tor에서 한 번 사냥을하러 갔다. 아니, 그 종류의 사냥은 아니야! 우리는 두 다리로 먹이를 스토킹했다. 우드 엘프, 정확히 말하면. 가까운 경합 이었지만 코를 때려 코를 이겼습니다. 그리고 귀.\n\n 여기에. 너는 이것을 얻었다.-G-"
-
-#: 232026500-0-11516
-msgctxt "232026500-0-11516"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11515
-#, fuzzy
-msgctxt "116521668-0-11515"
-msgid "I recall a moon-sugar glazed ham I bought at the Baandari Trading Post. This was ages ago. It made my tongue tingle, but left me with this blissful contentment. Made the four assassinations I had to do that much more enjoyable.\n\nHere, your gold."
-msgstr "나는 Baandari Trading Post에서 구입 한 달 설탕 유리 햄을 생각해 냈습니다. 이것은 오래 전이었습니다. 그것은 내 혀가 어지럽게 만들었지 만,이 행복한 만족으로 나를 남겨 두었습니다. 내가했던 4 가지 암살을 훨씬 즐겁게 만들었습니다.\n\n 여기, 당신의 금.-G-"
-
-#: 232026500-0-11515
-msgctxt "232026500-0-11515"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11514
-#, fuzzy
-msgctxt "116521668-0-11514"
-msgid "Ah, the Outside Inn. My only regret during my last stay was not lodging my daggers in the little wag running the place. I swear, he laughs himself silly every time he says his establishment's insipid name.\n\nHere's your pay."
-msgstr "아, Outside Inn. 나의 최후의 체재 동안의 나의 단 한 개의 후회는 장소를 달리게하고있는 작은 흔들기에 나의 단도를 놓지 않고 있었다. 나는 맹세한다, 그는 그가 그의 설립의 지저분한 이름을 말할 때마다 바보 같이 웃는다.\n\n 여기는 당신의 봉급이다.-G-"
-
-#: 232026500-0-11514
-msgctxt "232026500-0-11514"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11513
-msgctxt "116521668-0-11513"
-msgid "I don't expect you to last a week, but as long as you're still here ….\n\nReady for your first contract, Initiate?"
-msgstr "네가 일주일도 버티지 못할 거라고 생각하지만, 어쨌든 여기 있으니까 ...\n\n첫 번째 의뢰를 받을 준비가 된 거겠지, 시작할까?"
-
-#: 232026500-0-11513
-msgctxt "232026500-0-11513"
-msgid "I'd like to begin my training."
-msgstr "훈련을 시작하고 싶습니다."
-
-#: 116521668-0-11512
-#, fuzzy
-msgctxt "116521668-0-11512"
-msgid "Did you carve your initials into the Elden Tree, or just your target? I find it hard to get excited about an overgrown log, but I can certainly appreciate its scale. You think it ever bears fruit? Now that might be something to fuss about.\n\nYour pay."
-msgstr "Elden Tree에 이니셜을 새겼습니까? 자란 자상 한 로그에 대해 흥분하는 것이 어렵다는 것을 알았지 만, 분명히 그 규모를 알 수 있습니다. 그게 과일을 맺을 수 있다고 생각하니? 이제 그 일이 소란 스러울 수도 있습니다.\n\n 지불 할 금액.-G-"
-
-#: 232026500-0-11512
-msgctxt "232026500-0-11512"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11511
-#, fuzzy
-msgctxt "116521668-0-11511"
-msgid "I actually have fond memories of the Redfur Trading Post. Fresh Grahtwood game roasted in Khajiiti spices—the finest food served on a stick you can find. And after you've eaten your fill, use the stick to make your next kill.\n\nHere. Your gold."
-msgstr "나는 실제로 Redfur Trading Post에 대한 좋은 추억을 가지고 있습니다. 신선한 Grahtwood 게임은 Khajiiti 향신료로 구운 것입니다. 가장 맛있는 음식은 찾을 수있는 막대기에 있습니다. 그리고 채움을 먹은 후에는 막대기를 사용하여 다음 번 살인을하십시오.\n\n 여기에. 너의 금.-G-"
-
-#: 232026500-0-11511
-msgctxt "232026500-0-11511"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11510
-#, fuzzy
-msgctxt "116521668-0-11510"
-msgid "Nobles, am I right? Snap their fingers and pay their gold, and we'll just kill whoever they point at. I suppose that's what we do, but it still rankles my feathers. That's why I collect noble ears. Just doing my part for the common folk.\n\nYour pay."
-msgstr "귀족, 내가 맞습니까? 손가락을 치고 금을 지불하면 우리는 그들이 가리키는 사람을 죽일 것입니다. 나는 그것이 우리가하는 일이라고 생각하지만 그것은 여전히 ​​내 깃털을 찌르지 만. 그래서 고귀한 귀를 수집합니다. 일반 대중을 위해 제 역할을 수행하십시오.\n\n 지불 할 금액.-G-"
-
-#: 232026500-0-11510
-msgctxt "232026500-0-11510"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11509
-#, fuzzy
-msgctxt "116521668-0-11509"
-msgid "Poison. An interesting tool. I used it once. A splash in the mushroom gravy at one of the Queen's banquets. Got my target, but also killed seventeen other guests. Missed the Queen, though. Apparently she's not fond of mushrooms. Or gravy.\n\nYour gold."
-msgstr "독. 흥미로운 도구. 나는 그것을 한 번 사용했다. 여왕 연회 중 하나에서 버섯 국물에 얼룩. 내 표적을 얻었지만 17 명의 다른 손님도 죽였어. 그래도 여왕을 놓쳤다. 분명히 그녀는 버섯을 좋아하지 않는다. 또는 그레이비.\n\n 당신의 금.-G-"
-
-#: 232026500-0-11509
-msgctxt "232026500-0-11509"
+#: 232026500-0-11505
+msgctxt "232026500-0-11505"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
@@ -975,48 +165,103 @@ msgctxt "232026500-0-11507"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
-#: 116521668-0-11506
+#: 116521668-0-11826
+msgctxt "116521668-0-11826"
+msgid "Did your eyes start bleeding recently? You didn't cough up any beetles, did you? Good, good … sounds like you avoided the curse.\n\nProbably."
+msgstr "최근에 눈에서 피가 나오진 않았겠지? 딱정벌레를 토해내지도 않았고? 좋아, 좋아... 네가 저주를 피한 모양이야.\n\n아마도."
+
+#: 232026500-0-11826
+msgctxt "232026500-0-11826"
+msgid "I brought back <<z:1>> from the Crypt of the Exiles."
+msgstr "추방자의 지하묘지에서 <<z:1>>를 가져왔어요."
+
+#: 116521668-0-11509
 #, fuzzy
-msgctxt "116521668-0-11506"
-msgid "Never had much use for royalty. Kings and queens, expecting everyone to kneel and grovel. I made a target kneel and grovel once, just to see what it was like. I suppose I could get used to it, but I enjoyed slitting his throat even better.\n\nYour pay."
-msgstr "로열티를 많이 사용하지 못했습니다. 왕과 여왕, 모두가 무릎을 꿇고 우울해 할 것을 기대합니다. 나는 무릎을 꿇고 한 번 grovel을 만들었다. 나는 그것에 익숙해 질 수 있다고 생각하지만, 목구멍을 더 잘게 찢어 놓는 것을 즐겼습니다.\n\n 지불.-G-"
+msgctxt "116521668-0-11509"
+msgid "Poison. An interesting tool. I used it once. A splash in the mushroom gravy at one of the Queen's banquets. Got my target, but also killed seventeen other guests. Missed the Queen, though. Apparently she's not fond of mushrooms. Or gravy.\n\nYour gold."
+msgstr "독. 흥미로운 도구. 나는 그것을 한 번 사용했다. 여왕 연회 중 하나에서 버섯 국물에 얼룩. 내 표적을 얻었지만 17 명의 다른 손님도 죽였어. 그래도 여왕을 놓쳤다. 분명히 그녀는 버섯을 좋아하지 않는다. 또는 그레이비.\n\n 당신의 금.-G-"
 
-#: 232026500-0-11506
-msgctxt "232026500-0-11506"
+#: 232026500-0-11509
+msgctxt "232026500-0-11509"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
-#: 116521668-0-11505
-msgctxt "116521668-0-11505"
-msgid "Fort Amol? Never heard of it. I killed a Forn Amil once, near a river that ran past a fort. Or was that on a cliff overlooking a ford? I really should start writing my memoirs one of these days ….\n\nAnyway, here's your pay."
-msgstr "아몰 요새? 들어본 적이 없어. 폰 아밀이라면 요새를 지나는 강 근처에서 죽인 적이 있는데, 아니, 요새가 내려다 보이는 벼랑에서 한건가? 이런 기억은 적어 두지 않으면...\n\n어쨌든, 보수다."
-
-#: 232026500-0-11505
-msgctxt "232026500-0-11505"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11504
+#: 116521668-0-11540
 #, fuzzy
-msgctxt "116521668-0-11504"
-msgid "Gods that walk around and greet followers give me the shivers, don't you agree? I prefer ancient and unknowable deities. Separation of church and state, as it were. And at least Sithis only asks for blood.\n\nHere's your gold."
-msgstr "추종자들을 돌아 다니고 인사하는 신들이 나를 떨게 해준다. 그렇지 않느냐? 나는 고대와 알 수없는 신들을 선호합니다. 교회와 국가의 분리. 그리고 최소한 Sithis는 피를 묻습니다.\n\n여기 당신의 금입니다.-G-"
+msgctxt "116521668-0-11540"
+msgid "Don't get all sentimental on me, hero. We both have our paths to follow. Damn, that sounded like a Fate-Bearer, didn't it?\n\nLook, let me leave you with a single kiss. One really good kiss. If you ever want another one, come find me in Vvardenfell."
+msgstr "영웅에 대한 감정적 인 말을하지 마라. 우리 둘 다 우리의 길을 따라야합니다. 젠장, 그건 운명 지주처럼 들렸지? 그렇지, 한번만 키스 해줘. 정말 좋은 키스 하나. 혹시 다른 것을 원한다면, Vvardenfell에서 나를 찾아와.-G-"
 
-#: 232026500-0-11504
-msgctxt "232026500-0-11504"
-msgid "I completed a contract."
-msgstr "계약을 마쳤습니다."
-
-#: 116521668-0-11503
+#: 232026500-0-11540
 #, fuzzy
-msgctxt "116521668-0-11503"
-msgid "I do enjoy contracts to eliminate those Fighters Guild buffoons. All that armor and weapons and they still don't have eyes in the back of their heads. They expect everyone to face them head on and fight fair, the fools.\n\nHere's to easy marks."
-msgstr "나는 그 전투기 길드 버프를 제거하는 계약을 즐긴다. 그 모든 갑옷과 무기는 여전히 머리 뒤쪽에 눈이 없습니다. 그들은 모두가 머리를 맞대고 공정한 싸움을하기를 바보들이라고 기대합니다.\n\n 쉬운 표시입니다.-G-"
+msgctxt "232026500-0-11540"
+msgid "Can't you stick around a little longer?"
+msgstr "좀 더 오래 머물 수 없니?-G-"
 
-#: 232026500-0-11503
-msgctxt "232026500-0-11503"
+#: 116521668-0-11583
+#, fuzzy
+msgctxt "116521668-0-11583"
+msgid "Here's today's lesson: What do the Wood Elves value above all else? Trees! Isn't that a kick in the pants? I once held back a legion of Grahtwood guards by threatening to pull a small tree out of the ground, roots and all.\n\nAt least they pay well."
+msgstr "오늘의 교훈은 다음과 같습니다. 무엇보다도 우드 엘프는 무엇보다 가치가 있습니까? 나무! 그게 바지에 차는 건 아닌가? 나는 작은 나무를 뿌리와 뿌리에서 끌어 내리겠다고 위협함으로써 Grahtwood 경비병 군단을 한 때 붙잡 았습니다.\n\n 적어도 그들은 돈을 지불합니다.-G-"
+
+#: 232026500-0-11583
+msgctxt "232026500-0-11583"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11542
+#, fuzzy
+msgctxt "116521668-0-11542"
+msgid "Watching blood matches! What a waste! Anyone who pays to watch two people bash each other to death is an uneducated barbarian! By the way, I saw how you took down your latest target. I especially appreciated the spray of blood at the end. Well done!"
+msgstr "혈액 일치를보고! 얼마나 낭비입니까! 두 사람이 죽을 때까지 서로를 상대로 돈을 지불하는 사람은 무식한 야만인입니다! 그건 그렇고, 내가 어떻게 당신이 당신의 최신 목표물을 쓰러 뜨 렸는지 보았다. 나는 특히 마지막에 피를 뿌려주었습니다. 잘 했어!-G-"
+
+#: 232026500-0-11542
+msgctxt "232026500-0-11542"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11544
+#, fuzzy
+msgctxt "116521668-0-11544"
+msgid "Death by assassin. I suppose there are worse ways to enter the Void. But to pay us to end your life? And I thought I'd seen everything! Don't pass it on, but I'd cut your throat just for the fun of it if you asked nicely.\n\nHere's your gold."
+msgstr "암살자의 죽음. 나는 공허에 들어가는 더 나쁜 방법이 있다고 생각합니다. 하지만 우리 인생을 끝내기 위해 돈을 쓰려고? 그리고 나는 모든 것을 보았다고 생각했습니다! 그것을 지나치지 마라. 그러나 네가 잘 물으 셨다면 나는 너의 목을 잘랐다.\n\n 여기에 금이있다.-G-"
+
+#: 232026500-0-11544
+msgctxt "232026500-0-11544"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11587
+#, fuzzy
+msgctxt "116521668-0-11587"
+msgid "Wood Elves. They're so small, you have to kill at least three of them to get any blood on your blade. From what I can tell, you must have slaughtered an entire village.\n\nKeep up the good work."
+msgstr "우드 엘프. 그들은 너무 작아서, 당신의 칼날에 피를 얻기 위해 적어도 세 명을 죽여야합니다. 내가 말할 수있는 것부터 마을 전체를 도살 했어야합니다.\n\n 좋은 일을 계속하십시오.-G-"
+
+#: 232026500-0-11587
+msgctxt "232026500-0-11587"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11543
+#, fuzzy
+msgctxt "116521668-0-11543"
+msgid "Argonians, right? Green-Venom-Tongue aside, on the whole the lizards make for a strange set of luggage. Even the ones I've murdered were unfathomable. I tried to discuss it with a target once, but he kept talking about mud and bugs. Infuriating!"
+msgstr "Argonians, 맞죠? Green-Venom-Tongue는 제쳐두고 도마뱀 전체에 이상한 짐을 만듭니다. 내가 살해 한 사람들조차도 해가 없다. 나는 한 번 표적과 토론하려고했지만 진흙과 벌레에 관해 계속 이야기했다. 격분시키는!-G-"
+
+#: 232026500-0-11543
+msgctxt "232026500-0-11543"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11623
+msgctxt "116521668-0-11623"
+msgid "It seems your work was far from perfect, but a life is a life.\n\nReturn tomorrow. The truest path to improvement is practice, and the Night Mother provides ample opportunity for that."
+msgstr "너의 일은 완벽하지 못했지만, 인생은 인생이야.\n\n내일 다시 오거라. 개선의 가장 진실한 길은 실천이며, 나이트 마더께선 충분한 기회를 줄 것이야."
+
+#: 232026500-0-11623
+msgctxt "232026500-0-11623"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
 
 #: 116521668-0-11502
 #, fuzzy
@@ -1029,6 +274,29 @@ msgctxt "232026500-0-11502"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
+#: 116521668-0-11546
+#, fuzzy
+msgctxt "116521668-0-11546"
+msgid "I raise the spine of ridiculousness in your general direction. Ha! Those lizards, am I right? After one contract, the client was so pleased that she made me a pair of boots—using the Argonian I just killed at her request!\n\nAh, memories. Your pay."
+msgstr "나는 너의 일반적인 방향으로 어리 석음의 척추를 들어 올린다. 하아! 그 도마뱀들, 맞지? 한 계약 후에 고객은 그녀가 나에게 요청한대로 죽인 Argonian을 사용하여 나에게 한발의 부츠를 만들어 준 것에 대해 매우 기뻤습니다.\n\n 아, 기억. 너의 돈.-G-"
+
+#: 232026500-0-11546
+msgctxt "232026500-0-11546"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11864
+#, fuzzy
+msgctxt "116521668-0-11864"
+msgid "The battle against the Scaled Court will continue, but this was the one place in Craglorn the Serpent could be contained. You accomplished wonders today.\n\nTuruk wanted me to give this to you. Don't worry—it's not diseased. I think."
+msgstr "Scaled Court와의 전투는 계속 될 것이지만 이것은 Craglorn에서 독사가 들어갈 수있는 한 곳이었습니다. 당신은 오늘 경이를 성취했습니다.\n\n 툴룩은 제가 이것을 당신에게주기를 원했습니다. 걱정하지 마십시오. 병든 것은 아닙니다. 나는 생각한다.-G-"
+
+#: 232026500-0-11864
+#, fuzzy
+msgctxt "232026500-0-11864"
+msgid "What now?"
+msgstr "지금 뭐야?-G-"
+
 #: 116521668-0-11501
 #, fuzzy
 msgctxt "116521668-0-11501"
@@ -1040,8 +308,738 @@ msgctxt "232026500-0-11501"
 msgid "I completed a contract."
 msgstr "계약을 마쳤습니다."
 
+#: 116521668-0-11545
+#, fuzzy
+msgctxt "116521668-0-11545"
+msgid "I visited Stormhold once when it was still in Dark Elf hands. Must make for some awkward town meetings since the Argonians took it back. I imagine the Shadowscales keep quite busy.\n\nYou too, by the look of it. Here's your reward."
+msgstr "나는 Dark Elef 손에 아직도있을 때 Stormhold를 한 번 방문했습니다. Argonians가 그것을 되찾은 이후로 어색한 마을 모임을 만들어야합니다. 나는 Shadowscales가 꽤 바쁘다고 생각합니다.\n\n 너도 그 모습으로. 여기에 보상이 있습니다.-G-"
+
+#: 232026500-0-11545
+msgctxt "232026500-0-11545"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11591
+#, fuzzy
+msgctxt "116521668-0-11591"
+msgid "Is it better to kill one target with excellence or a multitude with mediocrity? I say, as long as they're all dead, who in Oblivion cares?\n\nHere's your pay."
+msgstr "평범한 자세로 우수 또는 무리로 한 대상을 죽이는 것이 낫습니다. 그들이 모두 죽은 한, 망각에 누가 관심을 가지 냐고 묻는다.\n\n 여기가 당신의 임금입니다.-G-"
+
+#: 232026500-0-11591
+msgctxt "232026500-0-11591"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11757
+msgctxt "116521668-0-11757"
+msgid "A soul has been sent to the Void. Pity that you weren't able to complete both of my challenges, but there's no sense dwelling on your failures.\n\nHere's your reward. Return tomorrow. There is always work to be done."
+msgstr "영혼이 공허로 보내졌군. 시험을 모두 완수하지 못한 건 유감이지만, 네 실패를 오래 담아 둘 필요는 없다.\n\n여기 보수다. 내일도 오도록. 처리해야 할 일은 항상 있으니."
+
+#: 232026500-0-11757
+msgctxt "232026500-0-11757"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11515
+#, fuzzy
+msgctxt "116521668-0-11515"
+msgid "I recall a moon-sugar glazed ham I bought at the Baandari Trading Post. This was ages ago. It made my tongue tingle, but left me with this blissful contentment. Made the four assassinations I had to do that much more enjoyable.\n\nHere, your gold."
+msgstr "나는 Baandari Trading Post에서 구입 한 달 설탕 유리 햄을 생각해 냈습니다. 이것은 오래 전이었습니다. 그것은 내 혀가 어지럽게 만들었지 만,이 행복한 만족으로 나를 남겨 두었습니다. 내가했던 4 가지 암살을 훨씬 즐겁게 만들었습니다.\n\n 여기, 당신의 금.-G-"
+
+#: 232026500-0-11515
+msgctxt "232026500-0-11515"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11756
+msgctxt "116521668-0-11756"
+msgid "Hmm. You return head bowed? Do not be troubled by your failure to complete my challenges. You killed the target. That is enough for the Night Mother, and enough for me.\n\nPerhaps tomorrow you can finally impress me."
+msgstr "흠. 고개를 떨군채 돌아온건가? 내 시험을 완수하지 못했다고 기죽을 필요는 없네. 목표는 죽었어. 그것 만으로도 나이트 마더께서도 충분히 만족하시고, 나도 만족한다네.\n\n내일이리면 날 만족시킬지도 모르네."
+
+#: 232026500-0-11756
+msgctxt "232026500-0-11756"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11635
+msgctxt "116521668-0-11635"
+msgid "Exemplary work. You truly have a gift for death.\n\nReturn tomorrow. I'm certain we can find more ways to put your skills to the test."
+msgstr "훌륭한 솜씨로군. 너에겐 죽음을 가져오는 재능이 있는게 틀림없어.\n\n내일 다시 오거라. 그 능력을 확인하기 위해, 새로운 시련을 준비해두지."
+
+#: 232026500-0-11635
+msgctxt "232026500-0-11635"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11514
+#, fuzzy
+msgctxt "116521668-0-11514"
+msgid "Ah, the Outside Inn. My only regret during my last stay was not lodging my daggers in the little wag running the place. I swear, he laughs himself silly every time he says his establishment's insipid name.\n\nHere's your pay."
+msgstr "아, Outside Inn. 나의 최후의 체재 동안의 나의 단 한 개의 후회는 장소를 달리게하고있는 작은 흔들기에 나의 단도를 놓지 않고 있었다. 나는 맹세한다, 그는 그가 그의 설립의 지저분한 이름을 말할 때마다 바보 같이 웃는다.\n\n 여기는 당신의 봉급이다.-G-"
+
+#: 232026500-0-11514
+msgctxt "232026500-0-11514"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11836
+#, fuzzy
+msgctxt "116521668-0-11836"
+msgid "Good. The local bumpkins can return to calling it ""Grandmother's Respite,"" or whatever fool name they used to give it.\n\nUntil the <<mz:1>> fail. And when they do, I'll have more work for you."
+msgstr "좋은. 로컬 범프킨은 \"\"할머니의 휴식처\"\"라고 부르던 곳으로 돌아갈 수 있습니다. 또는 \"\"mz:1>>이 실패 할 때까지 실패했습니다.\n\n그리고 그들이 할 때, 나는 당신을 위해 더 많은 일을 할 것입니다.-G-"
+
+#: 232026500-0-11836
+msgctxt "232026500-0-11836"
+msgid "I placed the wards in the Corpse Garden."
+msgstr "시체들의 정원에 보호석을 가져다놨어요."
+
+#: 116521668-0-11758
+msgctxt "116521668-0-11758"
+msgid "Expertly done. I sense that some of our Brothers and Sisters gaze upon you with jealous eyes. This is good. Perhaps that will motivate them to excel.\n\nTake this with the Night Mother's blessing. Return tomorrow. There is always work to be done."
+msgstr "전문가답게 해결했군. 우리 형제 자매들 중 몇 명이 질투하는게 느껴질 정도야. 아주 좋아. 아마 그들이 더 발전할 계기를 마련해 줄 일이 될 거야.\n\n나이트 마더의 축복과 함께 이 포상을 받아라. 내일도 오도록. 처리해야 할 일은 항상 있으니."
+
+#: 232026500-0-11758
+msgctxt "232026500-0-11758"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11516
+#, fuzzy
+msgctxt "116521668-0-11516"
+msgid "Kor and I went hunting in Malabal Tor once. No, not that kind of hunting! We were stalking the prey with two legs. Wood Elves, to be exact. It was a close contest, but I beat Kor by a nose. And an ear.\n\nHere. You earned this."
+msgstr "Kor와 나는 Malabal Tor에서 한 번 사냥을하러 갔다. 아니, 그 종류의 사냥은 아니야! 우리는 두 다리로 먹이를 스토킹했다. 우드 엘프, 정확히 말하면. 가까운 경합 이었지만 코를 때려 코를 이겼습니다. 그리고 귀.\n\n 여기에. 너는 이것을 얻었다.-G-"
+
+#: 232026500-0-11516
+msgctxt "232026500-0-11516"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11519
+#, fuzzy
+msgctxt "116521668-0-11519"
+msgid "I bought a potted fern in Vulkwasten. Had the notion to nurture a green thumb. Not my knack, as it were. Only thing I've unintentionally killed in nearly a decade.\n\nBest stick to what comes natural, right? Your gold."
+msgstr "나는 Vulkwasten에서 화분에 담긴 고사리를 샀다. 녹색 엄지 손가락을 키우는 개념을 가졌습니다. 그랬듯이 내 머리가 아닐세. 거의 10 년 만에 내가 실수로 죽인 것.\n\n 자연스러운 것에 최선을 다하겠습니까? 너의 금.-G-"
+
+#: 232026500-0-11519
+msgctxt "232026500-0-11519"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11838
+msgctxt "116521668-0-11838"
+msgid "Well, isn't that an impressive bag full of junk. It's amazing what people are willing to pay for trash these days.\n\nBut those Dark Elf siblings pay well. Here's your share."
+msgstr "음. 그 쓰레기로 가득한 가방이 인상적이진 않은데. 요즘엔 이런 쓰레기를 돈 주고 사려는 사람이 있다니 놀랍다니까.\n\n하지만 그 다크 엘프 남매는 값을 잘 쳐줬지. 여기 네 몫이야."
+
+#: 232026500-0-11838
+msgctxt "232026500-0-11838"
+msgid "I'm back with the <<Cmz:1>>."
+msgstr "<<1>>을 가져왔어요."
+
+#: 116521668-0-11518
+#, fuzzy
+msgctxt "116521668-0-11518"
+msgid "Raz wishes you the best of luck, my friend, but Vvardenfell is a bit out of my jurisdiction.\n\nIf they show themselves in the Dominion, Raz will deal with them. But in Dark Elf lands? That's someone else's problem, yes?"
+msgstr "Raz는 당신에게 최고의 행운을 빌어 주지만, Vvardenfell은 내 관할 구역에서 약간 벗어났습니다.\n\n 그들이 Dominion에 등장하면 Raz가 그들을 처리 할 것입니다. 하지만 다크 엘프에서? 그게 다른 사람의 문제 야, 그렇지?-G-"
+
+#: 232026500-0-11518
+#, fuzzy
+msgctxt "232026500-0-11518"
+msgid "Will you go to Vvardenfell to deal with these Fate-Bearers, Raz?"
+msgstr "Vvardenfell에 가서이 운명의 운반자 인 Raz를 처리 할 의향이 있습니까?-G-"
+
+#: 116521668-0-11595
+#, fuzzy
+msgctxt "116521668-0-11595"
+msgid "On the subject of murder, what would you say is the most perfect weapon for the job? Wrong! As long as the target winds up dead, there's no such thing as an imperfect weapon!\n\nStyle, on the other hand, counts for everything. Here's your gold."
+msgstr "살인의 주제에 관해서, 당신은 직업에있어 가장 완벽한 무기가 무엇이라고 말합니까? 잘못된! 목표물이 죽은만큼, 불완전한 무기 같은 것은 없습니다!\n\nStyle은 모든 것을 중요시합니다. 여기에 금이 있습니다.-G-"
+
+#: 232026500-0-11595
+msgctxt "232026500-0-11595"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11551
+#, fuzzy
+msgctxt "116521668-0-11551"
+msgid "Feeling a little flush after all that work—or is that just arterial spray? It's a cutthroat business out there, and the Gold Coast Mercenaries know that all too well.\n\nPayment, as promised."
+msgstr "그 일을 조금이라도 끝내고 ​​느낀다면 - 아니면 그냥 동맥 분무일까요? 그곳은 치열한 사업이고, 골드 코스트 용병은 그 모든 것을 잘 알고 있습니다.\n\n 약속대로.-G-"
+
+#: 232026500-0-11551
+msgctxt "232026500-0-11551"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11550
+msgctxt "116521668-0-11550"
+msgid "Back from Ebonheart? Did you try the blackened snake hearts? I grew so fond of them while working in the area. Come to think of it, one contract called for the death of the region's best chef.\n\nBlackened snake hearts never tasted the same after that."
+msgstr "에본 하트에서 돌아온건가? 혹시 검게 그을린 뱀의 심장을 먹어봤나? 그 곳에서 일을 하는동안 그걸 매우 좋아하게 됬었지. 그러고 보니 계약중 하나는 이 지역 최고의 요리사의 죽음을 요구했었다.\n\n이후 검게 그을린 뱀의 심장은 결코 예전 같은 맛이 나지 않더군."
+
+#: 232026500-0-11550
+msgctxt "232026500-0-11550"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11553
+#, fuzzy
+msgctxt "116521668-0-11553"
+msgid "House Dres. Even as a Dark Elf, I never could abide slavery. At least murder is swift and sure. A slave dies slowly, one arduous task at a time. It's enough to make the Night Mother weep!\n\nBut on to more cheerful discourse—here's your gold."
+msgstr "하우스 드레 스. 다크 엘프처럼, 나는 결코 노예 생활을 할 수 없었습니다. 최소한 살인은 신속하고 확실합니다. 한 번에 한 노예가 천천히 죽습니다. 나이트 마더가 울음을 내는 것만으로도 충분합니다!\n\n하지만 더 기쁜 담론에 금이 있습니다.-G-"
+
+#: 232026500-0-11553
+msgctxt "232026500-0-11553"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11552
+#, fuzzy
+msgctxt "116521668-0-11552"
+msgid "Never fancied military service. I prefer death be delivered in a more intimate fashion. I'm sure the Night Mother feels the same way. You don't see us marching armies out for slaughter, after all.\n\nNeither here, nor there, I suppose. Here, payment."
+msgstr "결코 군복 무상치 않은. 나는 죽음이 더 친밀한 방식으로 전달되는 것을 선호한다. 나는 Night Mother가 같은 방식으로 느낀다고 확신한다. 결국 군대를 도살하기 위해 군대를 행진하는 것을 보지 못합니다.\n\n 여기도 마찬가지입니다. 여기, 지불.-G-"
+
+#: 232026500-0-11552
+msgctxt "232026500-0-11552"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11511
+#, fuzzy
+msgctxt "116521668-0-11511"
+msgid "I actually have fond memories of the Redfur Trading Post. Fresh Grahtwood game roasted in Khajiiti spices—the finest food served on a stick you can find. And after you've eaten your fill, use the stick to make your next kill.\n\nHere. Your gold."
+msgstr "나는 실제로 Redfur Trading Post에 대한 좋은 추억을 가지고 있습니다. 신선한 Grahtwood 게임은 Khajiiti 향신료로 구운 것입니다. 가장 맛있는 음식은 찾을 수있는 막대기에 있습니다. 그리고 채움을 먹은 후에는 막대기를 사용하여 다음 번 살인을하십시오.\n\n 여기에. 너의 금.-G-"
+
+#: 232026500-0-11511
+msgctxt "232026500-0-11511"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11676
+msgctxt "116521668-0-11676"
+msgid "Sithis welcomes all souls to the Void, no matter how they arrive. You have executed your duty, but I expect more from you.\n\nReturn tomorrow. I'll offer you a chance to prove that you can excel, not just kill."
+msgstr "시디스께서는 모든 영혼을 환영하신다. 어떻게 그에게 왔는지는 상관하지 않으시지. 네 임무를 성공했으나, 난 네게 그 이상을 바랬다.\n\n내일 다시 오거라. 단순히 죽이는 것 이상으로 네가 더 발전할 기회를 주마."
+
+#: 232026500-0-11676
+msgctxt "232026500-0-11676"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11555
+#, fuzzy
+msgctxt "116521668-0-11555"
+msgid "I often employ slaughterfish for challenging contracts. I hate not doing the job myself, but you have to admire those teeth that swim. I've seen them reduce a Nord to bones faster than Tanek can throw a knife. Today's lesson: everything is a weapon."
+msgstr "나는 종종 계약에 도전하기 위해 도롱뇽을 고용합니다. 나는 그 일을 혼자서하지 않는 것을 싫어하지만, 수영하는 이빨에 감탄해야합니다. 나는 타넥이 칼을 던질 수있는 것보다 빨리 뼈로 북쪽을 줄이는 것을 보았다. 오늘의 교훈:모든 것이 무기입니다.-G-"
+
+#: 232026500-0-11555
+msgctxt "232026500-0-11555"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11510
+#, fuzzy
+msgctxt "116521668-0-11510"
+msgid "Nobles, am I right? Snap their fingers and pay their gold, and we'll just kill whoever they point at. I suppose that's what we do, but it still rankles my feathers. That's why I collect noble ears. Just doing my part for the common folk.\n\nYour pay."
+msgstr "귀족, 내가 맞습니까? 손가락을 치고 금을 지불하면 우리는 그들이 가리키는 사람을 죽일 것입니다. 나는 그것이 우리가하는 일이라고 생각하지만 그것은 여전히 ​​내 깃털을 찌르지 만. 그래서 고귀한 귀를 수집합니다. 일반 대중을 위해 제 역할을 수행하십시오.\n\n 지불 할 금액.-G-"
+
+#: 232026500-0-11510
+msgctxt "232026500-0-11510"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11554
+#, fuzzy
+msgctxt "116521668-0-11554"
+msgid "Nimalten's just one more bump on the road beyond Riften, but there's a good reason to stop there—goat cheese curds dipped in hot oil and honey. The hot oil can also be used to take down a target.\n\nTalk about mixing business with pleasure!"
+msgstr "Nimalten은 Riften 너머의 도로에서 한 번 더 부딪 히지 만 거기에서 멈출 수있는 좋은 이유가 있습니다. 염소 치즈 커드가 뜨거운 기름과 꿀에 담근 것입니다. 뜨거운 기름은 또한 목표를 낮추는 데 사용될 수 있습니다.\n\n 비즈니스와 즐거움을 혼합하는 것에 대해 이야기하십시오!-G-"
+
+#: 232026500-0-11554
+msgctxt "232026500-0-11554"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11634
+msgctxt "116521668-0-11634"
+msgid "Excellent. The Night Mother will be pleased.\n\nReturn tomorrow. I am eager to see you reach your full potential."
+msgstr "훌륭하군. 나이트 마더께서 기뻐하시겠어.\n\n내일 다시 오거라. 자네의 잠재력을 최대한 발휘한 모습을 보고 싶으니."
+
+#: 232026500-0-11634
+msgctxt "232026500-0-11634"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11513
+msgctxt "116521668-0-11513"
+msgid "I don't expect you to last a week, but as long as you're still here ….\n\nReady for your first contract, Initiate?"
+msgstr "네가 일주일도 버티지 못할 거라고 생각하지만, 어쨌든 여기 있으니까 ...\n\n첫 번째 의뢰를 받을 준비가 된 거겠지, 시작할까?"
+
+#: 232026500-0-11513
+msgctxt "232026500-0-11513"
+msgid "I'd like to begin my training."
+msgstr "훈련을 시작하고 싶습니다."
+
+#: 116521668-0-11832
+#, fuzzy
+msgctxt "116521668-0-11832"
+msgid "So the <<z:1>> are in place? One of my clan mothers gets a cut for every one we use, so she'll be happy to hear it.\n\nAnd the locals around Shael Ruins, I suppose."
+msgstr "그래 <<z:1>>을 놓아두고 왔나? 우리가 사용한 것들은 전부 우리 부족 어머니들 중에 한 분께서 마련하신 것들이거든. 이 소식을 들으시면 기뻐하시겠어.\n\n쉘 유적 주변의 현지인들도 그럴 것 같고."
+
+#: 232026500-0-11832
+msgctxt "232026500-0-11832"
+msgid "I'm back from Shael Ruins."
+msgstr "쉘 유적에서 돌아왔어요."
+
+#: 116521668-0-11678
+msgctxt "116521668-0-11678"
+msgid "Performed with all the care befitting the Night Mother's sacred work. Your devotion to this task has not been overlooked.\n\nReturn again tomorrow and I will offer you another opportunity to demonstrate your skill."
+msgstr "나이트 마더의 성스러운 일에 걸맞게 정성을 다해 수행했다. 이 일에 대한 네 헌신은 간과되지 않았네.\n\n 내일 다시 오면 네 기술을 증명할 또 다른 기회를 주겠다."
+
+#: 232026500-0-11678
+msgctxt "232026500-0-11678"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11633
+msgctxt "116521668-0-11633"
+msgid "It seems your work was far from perfect, but a life is a life.\n\nReturn tomorrow. The truest path to improvement is practice, and the Night Mother provides ample opportunity for that."
+msgstr "너의 일은 완벽하지 못했지만, 인생은 인생이야.\n\n내일 다시 오거라. 개선의 가장 진실한 길은 실천이며, 나이트 마더께선 충분한 기회를 줄 것이야."
+
+#: 232026500-0-11633
+#, fuzzy
+msgctxt "232026500-0-11633"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11512
+#, fuzzy
+msgctxt "116521668-0-11512"
+msgid "Did you carve your initials into the Elden Tree, or just your target? I find it hard to get excited about an overgrown log, but I can certainly appreciate its scale. You think it ever bears fruit? Now that might be something to fuss about.\n\nYour pay."
+msgstr "Elden Tree에 이니셜을 새겼습니까? 자란 자상 한 로그에 대해 흥분하는 것이 어렵다는 것을 알았지 만, 분명히 그 규모를 알 수 있습니다. 그게 과일을 맺을 수 있다고 생각하니? 이제 그 일이 소란 스러울 수도 있습니다.\n\n 지불 할 금액.-G-"
+
+#: 232026500-0-11512
+msgctxt "232026500-0-11512"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11677
+msgctxt "116521668-0-11677"
+msgid "Another soul delivered to Sithis. It's unfortunate that things did not go wholly as planned, but the end result is the same.\n\nReflect on what occurred. Return tomorrow and use what you have learned."
+msgstr "또 하나의 영혼이 시디스께 보내졌군. 계획대로 진행되지 않은게 실망이지만, 결과는 같네.\n\n오늘 일을 반성하게. 오늘의 교훈을 내일 다시 와서 확인하게."
+
+#: 232026500-0-11677
+msgctxt "232026500-0-11677"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11560
+msgctxt "116521668-0-11560"
+msgid "The carrion beetles of the Alik'r can strip the flesh from a corpse in a day. Today's lesson: If you come across bleached bones in the desert sun, be wary. The carrion beetles may still be hungry\n\nSo, there's your tip and here's your pay."
+msgstr "알리키어의 캐리온 딱정벌레는 하루 만에 시체에서 살을 벗겨 낼 수 있지. 오늘의 교훈: 사막의 횡단하다 말끔한 뼈를 본다면, 조심해라. 캐리온 딱정벌레가 배가 고플지도 모르니.\n\n그래, 여기 교훈도 있고 너의 돈도 있지."
+
+#: 232026500-0-11560
+msgctxt "232026500-0-11560"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11526
+#, fuzzy
+msgctxt "116521668-0-11526"
+msgid "Eastmarch. Too much snow and too many Nords for my taste. But speaking of taste, I did try that Voljar's mead once. Awful stuff! I had to kill three drunks and a bard to get the taste out of my mouth! \n\nYour gold. Oh, and don't spend it on the mead."
+msgstr "Eastmarch. 너무 많은 눈과 너무 많은 Nords. 그러나 맛에 관해서는, 나는 Voljar의 미드를 한 번 시도했습니다. 끔찍한 물건! 내 입에서 맛을 내기 위해 3 개의 술주정 뱅이와 시어머니를 죽여야 만했다.\n\n 당신의 금. 오, 그리고 그것을 미드에서 보내지 마십시오.-G-"
+
+#: 232026500-0-11526
+msgctxt "232026500-0-11526"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11604
+#, fuzzy
+msgctxt "116521668-0-11604"
+msgid "All that fuss over a swamp? Unbelievable! Did I ever tell you about my travels in Black Marsh? More souls went to Sithis and more bodies sank into the mud during my visit, I'm proud to admit. But I also got red-sore fever.\n\nYou had to remind me."
+msgstr "그 모든 것이 늪에서 소란 스럽습니까? 믿을 수 없는! 나는 블랙 마쉬 여행에 관해 당신에게 말 했나요? Sithis에 더 많은 영혼이 갔고 방문하는 동안 더 많은 시체가 진흙 속에 빠졌습니다. 나는 자랑스럽게 생각합니다. 그러나 나는 또한 열이 나고 열이 나옵니다.\n\n 나에게 상기시켜야했습니다.-G-"
+
+#: 232026500-0-11604
+msgctxt "232026500-0-11604"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11529
+#, fuzzy
+msgctxt "116521668-0-11529"
+msgid "A few words and a handshake don't make you safe. They certainly didn't protect that ambassador from my blade. But I do enjoy visiting embassies. I find their many nooks and crannies make the perfect spots for quiet assassinations.\n\nHere's your pay."
+msgstr "몇 마디와 악수로는 안전하지 않습니다. 그들은 확실히 내 칼날에서 대사를 보호하지 못했습니다. 그러나 나는 대사관 방문을 즐긴다. 나는 그들의 많은 구석과 틈새가 조용한 암살을위한 완벽한 장소를 찾는다는 것을 알았습니다.\n\n 여기가 당신의 봉급입니다.-G-"
+
+#: 232026500-0-11529
+msgctxt "232026500-0-11529"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11608
+#, fuzzy
+msgctxt "116521668-0-11608"
+msgid "Kill anyone I know while you were away? Not that I'd mind. This is the only family I care about these days. That goes for you as well.\n\nConsider this like an allowance. Keep up with your chores and you get a special treat."
+msgstr "네가 떨어져있는 동안 내가 아는 사람을 죽여라. 내가 마음에 들지 않는다. 요즘 내가 걱정하는 유일한 가족입니다. 그것도 당신을 위해 간다.\n\n 이것을 수당처럼 생각해 보라. 당신의 집안일을 계속 지키면 특별한 대우를받을 수 있습니다.-G-"
+
+#: 232026500-0-11608
+msgctxt "232026500-0-11608"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11520
+#, fuzzy
+msgctxt "116521668-0-11520"
+msgid "Wood Elves! Never could stand the little gnats. Do they always have to be so cheerful? There's nothing as annoying as a target that smiles and laughs all the while you're slicing them open from stomach to stern. \n\nAnyway, here's your pay."
+msgstr "우드 엘프! 작은 덩어리를 결코 참을 수 없었습니다. 그들은 항상 그렇게 기분이 좋아야합니까? 뱃속에서 선미까지 열어주는 동안 모든 것을 웃고 웃으며 표적처럼 짜증나게합니다.\n\n 어쨌든, 여기 당신의 임금이 있습니다.-G-"
+
+#: 232026500-0-11520
+msgctxt "232026500-0-11520"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11564
+#, fuzzy
+msgctxt "116521668-0-11564"
+msgid "A Nord once told me that Reachmen eat stones. Something about hardening the body. From the ones I know, it must only apply to their heads. Mostly I'm just saying they're thick, but I did shatter a sword against a Reach skull once.\n\nPayment, as usual."
+msgstr "Nord는 Reachmen이 돌을 먹는다는 말을 들었다. 시체를 고치는 것에 관한 것. 내가 아는 사람들에게서 보면, 그것은 단지 그들의 머리에만 적용되어야합니다. 대부분 나는 단지 그들이 두껍다는 것을 말하고있는 것이지만, 나는 Reach 해골에 대해 한 번 검을 산산이 조각났습니다.\n\n 지불금은 평소처럼.-G-"
+
+#: 232026500-0-11564
+msgctxt "232026500-0-11564"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11563
+#, fuzzy
+msgctxt "116521668-0-11563"
+msgid "The Summerset Isles. A murder spree there can be beautiful this time of year. I remember one time when Astara and I were sent on competing contracts. This was before she became the Matron. Anyway, she …. Oh no, I probably shouldn't tell this story."
+msgstr "서머셋 제도. 살인이 너무 많아서 이번에는 아름답습니다. 나는 Astara와 내가 경쟁 계약에 파견되었을 때 한 번 기억한다. 이것은 그녀가 마트 론이되기 전이었다. 어쨌든, 그녀는 .... 오, 아니, 아마이 이야기를해서는 안됩니다.-G-"
+
+#: 232026500-0-11563
+msgctxt "232026500-0-11563"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11522
+#, fuzzy
+msgctxt "116521668-0-11522"
+msgid "Windhelm. You know they dunk their sweetrolls in mead. Only the Nords, am I right? Speaking of which, we received a mysterious package full of sweetrolls today. I recommend avoiding the temptation. Never trust an unannounced dessert, I always say."
+msgstr "윈델. 당신은 그들이 달콤한 곡물을 꿀꺽 꿀꺽 마셨다는 것을 알고 있습니다. Nords 만, 맞습니까? 그것의 안에서 말하면서, 우리는 오늘 sweetrolls로 가득한 신비적인 꾸러미를 받았다. 유혹을 피하는 것이 좋습니다. 결코 예고되지 않은 디저트를 믿지 마라. 나는 항상 말한다.-G-"
+
+#: 232026500-0-11522
+msgctxt "232026500-0-11522"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11841
+msgctxt "116521668-0-11841"
+msgid "Impressive. These are all fit for display—once I scrub the dirt off. Filthy cultists don't know culture when they see it.\n\nHere, you earned this."
+msgstr "인상적인데. 전부 장식대에 딱 맞잖아. 먼지를 씻어 내야겠지만. 더러운 광신도놈들은 문화라는 것을 보고도 모르는구만.\n\n여기, 대가를 받으라고."
+
+#: 232026500-0-11841
+msgctxt "232026500-0-11841"
+msgid "I brought you some Ayleid trinkets from Wormwood Depths."
+msgstr "벌레뿌리 구렁에서 에일리드 잡동사니를 좀 가져왔어요."
+
+#: 116521668-0-11687
+msgctxt "116521668-0-11687"
+msgid "Another soul delivered to Sithis. It's unfortunate that things did not go wholly as planned, but the end result is the same.\n\nReflect on all that occurred. Then return tomorrow to use what you have learned."
+msgstr "또 하나의 영혼이 시디스께 보내졌군. 계획대로 진행되지 않은게 실망이지만, 결과는 같네.\n\n오늘의 모든 일을 반성하게. 오늘의 교훈을 내일 다시 와서 확인하게."
+
+#: 232026500-0-11687
+msgctxt "232026500-0-11687"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11521
+#, fuzzy
+msgctxt "116521668-0-11521"
+msgid "Nords. Even their cheese is bigger and bolder than those of the other races. I once killed a Thane with a wheel of Nord cheese loosed from a cart at the top of a hill. As Sithis is my witness, her guards, as well.\n\nBefore I forget, your gold."
+msgstr "노드. 그들의 치즈조차도 다른 종족들보다 더 크고 더 강합니다. 나는 언덕 꼭대기에있는 장바구니에서 풀린 노르 드 치즈로 한 번 Thane을 죽였다. Sithis가 내 증인, 그녀의 경비원이기 때문에.\n\n 잊어 버리기 전에, 당신의 금.-G-"
+
+#: 232026500-0-11521
+msgctxt "232026500-0-11521"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11686
+msgctxt "116521668-0-11686"
+msgid "Sithis welcomes all souls to the Void, no matter how they might arrive. You executed your duty, but I expect more of you.\n\nReturn tomorrow. I'll offer you a chance to prove you can excel as well as kill."
+msgstr "시디스께서는 모든 영혼을 환영하신다. 어떻게 그에게 왔는지는 상관하지 않으시지. 네 임무를 성공했으나, 난 네게 그 이상을 바랬다.\n\n내일 다시 오거라. 네가 죽이는 것 그 이상을 할 수 있도록 기회를 주겠다."
+
+#: 232026500-0-11686
+msgctxt "232026500-0-11686"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11568
+#, fuzzy
+msgctxt "116521668-0-11568"
+msgid "Lesson for today: Never get between a Nord and his mead. Or his rabbit meatballs, for that matter. I've used both to lure the fools to their deaths. But you know what? Give a Nord a mead and a rabbit meatball and he dies happy.\n\nHere's your gold."
+msgstr "오늘을위한 교훈:절대로 노르와 미드 사이에 가지 마라. 그 토끼 미트볼도. 나는 그들의 죽음에 바보를 유인하기 위해 둘 다 사용했습니다. 하지만 그거 알아? Nord에게 미트와 토끼 미트볼을 주면 그는 행복하게 죽습니다.\n\n 여기에 금이 있습니다.-G-"
+
+#: 232026500-0-11568
+msgctxt "232026500-0-11568"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11842
+msgctxt "116521668-0-11842"
+msgid "Good—the Red Rooks are ticks. I go out of my way to squash them. Or have someone else squash them.\n\nI'll get these heirlooms back where they belong. Here, you earned it."
+msgstr "좋아. 붉은 떼까마귀 놈들은 귀찮은 녀석들이지. 직접 놈들을 박살내러 가야겠어. 아니면 다른 사람을 시켜 박살내야겠군.\n\n이 가보들은 원래 주인들에게 돌려주도록 하지. 자, 보상을 받으라고."
+
+#: 232026500-0-11842
+msgctxt "232026500-0-11842"
+msgid "I recovered the heirlooms from Ilessan Tower."
+msgstr "일레산 탑에서 가보를 회수해왔어요."
+
+#: 116521668-0-11688
+msgctxt "116521668-0-11688"
+msgid "Performed with all the care befitting the Night Mother's sacred work. Your devotion to this task has not been overlooked.\n\nReturn again tomorrow and I'll offer you another opportunity to demonstrate your skill."
+msgstr "나이트 마더의 성스러운 일에 걸맞게 정성을 다해 수행했다. 이 일에 대한 네 헌신은 간과되지 않았네.\n\n 내일 다시 오면 네 기술을 증명할 또 다른 기회를 주겠다."
+
+#: 232026500-0-11688
+msgctxt "232026500-0-11688"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11600
+#, fuzzy
+msgctxt "116521668-0-11600"
+msgid "We're a scary bunch, I'll grant you that. But with bloodfiends, werewolves, and so much else, what's another horror lurking in the shadows for a place like Rivenspire?\n\nYour employer seems satisfied, so I guess you were suitably frightening. There."
+msgstr "우리는 무서운 뭉치 야, 내가 너에게 줄께. 하지만 피 피고인, 늑대 인간, 그 밖의 많은 사람들이 Rivenspire 같은 곳에서 그림자에 숨어있는 또 다른 공포는 무엇입니까?\n\n 고용주가 만족스러워 보였으므로 적절하게 무서웠다 고 생각합니다. 그곳에.-G-"
+
+#: 232026500-0-11600
+msgctxt "232026500-0-11600"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11567
+#, fuzzy
+msgctxt "116521668-0-11567"
+msgid "I spent some time with a woman in Bangkorai once. Those river crustaceans she prepared with pepper spice were magic! Oh, this was after I killed her husband. Turns out, she paid for the contract! It's a small world, I tell you.\n\nHere's your pay."
+msgstr "나는 Bangkorai에있는 한 여자와 한동안 시간을 ​​보냈다. 그녀가 고추 향신료로 준비한 강 갑각류는 마술이었다! 오, 내가 남편을 죽인 뒤에야. 그녀는 계약금을 지불했다! 그것은 작은 세상입니다, 나는 당신에게 말합니다.\n\n 여기가 당신의 임금입니다.-G-"
+
+#: 232026500-0-11567
+msgctxt "232026500-0-11567"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11571
+msgctxt "116521668-0-11571"
+msgid "Someone really had an ax to grind with the Dark Elves. Good thing they didn't know who's on the other side of the contract, am I right? The truth is, we're just as awful to each other, so they shouldn't take it personally. Still, they paid good gold."
+msgstr "계약을 의뢰한 이는 다크 엘프와의 관계를 끊어버리고 싶어하던것 같더군. 다행인건 그들이 한 계약의 반대 편에 누가 있는지 모른다는거지, 그렇지 않나? 사실은, 우린 서로 아주 싫어하지, 그래서 개인적으로 이 일을 받아들이면 안돼. 그래도, 그들은 돈을 많이 지불한다니까."
+
+#: 232026500-0-11571
+msgctxt "232026500-0-11571"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11537
+#, fuzzy
+msgctxt "116521668-0-11537"
+msgid "I'm quite fond of horses. Lightly salted, roasted over a roaring flame. If you grew up eating guar, you'd understand that riding a horse is just a waste of good food.\n\nHere, your gold."
+msgstr "나는 말을 아주 좋아합니다. 가볍게 소금에 절이는, 활활 타오르는 불꽃 위에 구운. 당신이 구아라를 먹고 자란다면, 말을 타는 것은 좋은 음식의 낭비라는 것을 이해할 것입니다.\n\n 여기, 당신의 금.-G-"
+
+#: 232026500-0-11537
+msgctxt "232026500-0-11537"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11613
+#, fuzzy
+msgctxt "116521668-0-11613"
+msgid "Ever dream of the most perfect kill? Sometimes it keeps me up at night, imagining the best way to send a soul to Sithis. I thought I figured it out once. It came to me in a dream. But a dead chicken and a soup spoon make for terrible weapons."
+msgstr "가장 완벽한 살인을 꿈꿔 본 적이 있습니까? 때로는 밤에 Sithis에게 영혼을 보내는 가장 좋은 방법을 상상해줍니다. 나는 그것을 한 번 생각했다고 생각했습니다. 그것은 내게 꿈에 왔습니다. 그러나 죽은 닭고기와 수프 스푼은 끔찍한 무기를 만듭니다.-G-"
+
+#: 232026500-0-11613
+msgctxt "232026500-0-11613"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11536
+#, fuzzy
+msgctxt "116521668-0-11536"
+msgid "Thalmor bureaucrats are some of the most humorless people I've ever murdered. I used some of my best material on one target and he barely cracked a smile as I gutted him. There's just no accounting for taste.\n\nOh, here's your pay."
+msgstr "탈모 관료는 제가 살해 한 사람들 중 가장 유머러스 한 사람들입니다. 나는 하나의 표적에 내 최고의 재료를 사용했고, 내가 그를 내 렸을 때 그는 미소 짓기가 거의 없었다. 취향에 대한 설명이 없습니다.\n\n 오, 여기에 돈이 있습니다.-G-"
+
+#: 232026500-0-11536
+msgctxt "232026500-0-11536"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11737
+msgctxt "116521668-0-11737"
+msgid "A soul has been sent to the Void. Pity that you weren't able to complete both of my challenges, but there's no sense dwelling on your failures.\n\nHere's your reward. Return tomorrow. There is always work to be done."
+msgstr "영혼이 공허로 보내졌군. 시험을 모두 완수하지 못한 건 유감이지만, 네 실패를 오래 담아 둘 필요는 없다.\n\n여기 보수다. 내일도 오도록. 처리해야 할 일은 항상 있으니."
+
+#: 232026500-0-11737
+msgctxt "232026500-0-11737"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11736
+msgctxt "116521668-0-11736"
+msgid "Hmm. You return head bowed? Do not be troubled by your failure to complete my challenges. You killed the target. That is enough for the Night Mother, and enough for me.\n\nPerhaps tomorrow you can finally impress me."
+msgstr "흠. 고개를 떨군채 돌아온건가? 내 시험을 완수하지 못했다고 기죽을 필요는 없네. 목표는 죽었어. 그것 만으로도 나이트 마더께서도 충분히 만족하시고, 나도 만족한다네.\n\n내일이라면 날 만족시킬지도 모르네."
+
+#: 232026500-0-11736
+msgctxt "232026500-0-11736"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11538
+#, fuzzy
+msgctxt "116521668-0-11538"
+msgid "I hunted a Khajiit once. Well, more than once, but I'm telling this story. She knew I was tracking her almost immediately. Led me on a wild chase. Then decided to slip back and ambush me. That was her fatal mistake. I always drop caltrops behind me."
+msgstr "나는 Khajiit를 한 번 사냥했다. 글쎄, 한 번 이상,하지만 나는이 이야기를하고있다. 그녀는 내가 그녀를 거의 즉시 추적하고 있다는 것을 알았다. 나는 야생 추적을했다. 그런 다음 다시 미끄러 져 나와 나를 매복하기로 결정했습니다. 그것은 그녀의 치명적인 실수였습니다. 나는 항상 나 뒤에 caltrops를 떨어 뜨린다.-G-"
+
+#: 232026500-0-11538
+msgctxt "232026500-0-11538"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11738
+msgctxt "116521668-0-11738"
+msgid "Expertly done. I sense that some of your Brothers and Sisters gaze upon you with jealous eyes. This is good. Perhaps that will motivate them to excel.\n\nTake this with the Night Mother's blessing. Return tomorrow. There is always work to be done."
+msgstr "전문가답게 해결했군. 형제 자매들 중 몇 명이 질투하는게 느껴질 정도야. 아주 좋아. 아마 그들이 더 발전할 계기를 마련해 줄 일이 될 거야.\n\n나이트 마더의 축복과 함께 이 포상을 받아라. 내일도 오도록. 처리해야 할 일은 항상 있으니."
+
+#: 232026500-0-11738
+msgctxt "232026500-0-11738"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11617
+#, fuzzy
+msgctxt "116521668-0-11617"
+msgid "I spent a lovely evening listening to a Sermonizer in Kvatch. He went on and on about how terrible the Dark Brotherhood is. I found it quite amusing. And so did he when I stuck an ice pick in his ear.\n\nSpeaking of perfect kills, here's your payment."
+msgstr "나는 아름다운 저녁을 Kvatch의 Sermonizer를 듣는 데 보냈다. 그는 다크 브라더 후드가 얼마나 끔찍한 지 계속해서 들어 봤습니다. 나는 그것이 아주 재미있는 것을 알았다. 그리고 그가 그의 귀에 얼음 픽을 찔렀을 때 그는 그렇게했습니다.\n\n 완전한 살인에 관해서는 여기에 당신의 지불이 있습니다.-G-"
+
+#: 232026500-0-11617
+msgctxt "232026500-0-11617"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11696
+msgctxt "116521668-0-11696"
+msgid "Sithis welcomes all souls to the Void, no matter how they arrive. You have executed your duty, but I expect more of you.\n\nReturn tomorrow. I'll provide a chance to prove you can excel as well as kill."
+msgstr "시디스께서는 모든 영혼을 환영하신다. 어떻게 그에게 왔는지는 상관하지 않으시지. 네 임무를 성공했으나, 난 네게 그 이상을 바랬다.\n\n내일 다시 오거라. 네가 죽이는 것 그 이상을 할 수 있도록 기회를 주겠다."
+
+#: 232026500-0-11696
+msgctxt "232026500-0-11696"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11575
+#, fuzzy
+msgctxt "116521668-0-11575"
+msgid "I never could understand Nord politics. It seems to involve lots of yelling and copious amounts of mead. Still, if they're willing to pay for our services, who am I to complain?\n\nHere. For you."
+msgstr "나는 결코 노르 정치를 이해할 수 없었다. 그것은 많은 소리와 많은 양의 미드를 필요로합니다. 아직도, 그들이 우리의 서비스 비용을 기꺼이 지불한다면, 누가 불평하겠습니까?\n\n 여기. 너를 위해서.-G-"
+
+#: 232026500-0-11575
+msgctxt "232026500-0-11575"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11531
+#, fuzzy
+msgctxt "116521668-0-11531"
+msgid "Despite the name, Bramblebreach is remarkably pleasant. They have a talent for cooking with insects that makes me curious how they'd approach scrib. Hmm. I remember a kwama miner. Killed him with his own prod. Good times!\n\nHere. Your payment."
+msgstr "이름에도 불구하고, Bramblebreach는 현저하게 즐겁다. 그들에게는 곤충 요리에 대한 재능이있어서 저에게 그들이 scrib에 접근하는 방법이 궁금합니다. 흠. 나는 콴 광부를 기억한다. 자기 찌르다 죽였다. 좋은 시간!\n\n 여기에 있습니다. 귀하의 지불.-G-"
+
+#: 232026500-0-11531
+msgctxt "232026500-0-11531"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11530
+#, fuzzy
+msgctxt "116521668-0-11530"
+msgid "You seem to be getting the hang of this. I do enjoy watching a blade become honed and keen. Speaking of which, remember to sharpen your weapon before a job. Too late, I realized my blade was dull. The cut I made was embarrassingly ragged.\n\nYour pay."
+msgstr "너는 이것에 매달린 것처럼 보인다. 나는 칼날이 예리하고 예리한 것을 보는 것을 즐긴다. 말하자면 직업 전에 무기를 연마하는 것을 잊지 마십시오. 너무 늦게, 나는 나의 칼이 무디다는 것을 깨달았다. 내가 만든 상처는 당황 스러웠다.\n\n 임금.-G-"
+
+#: 232026500-0-11530
+msgctxt "232026500-0-11530"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11698
+msgctxt "116521668-0-11698"
+msgid "Performed with all the care befitting the Night Mother's sacred work. Your devotion to this task has not been overlooked.\n\nReturn again tomorrow and I'll provide another opportunity to prove your prowess."
+msgstr "나이트 마더의 성스러운 일에 걸맞게 정성을 다해 수행했다. 이 일에 대한 네 헌신은 간과되지 않았네.\n\n내일 다시 오거라. 네 용감함을 증명할 또 다른 기회를 주겠어."
+
+#: 232026500-0-11698
+msgctxt "232026500-0-11698"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11610
+msgctxt "116521668-0-11610"
+msgid "Well, good for you. But don't get too full of your accomplishments just yet. That was a fairly easy contract I started you with.\n\nCome back when you're ready for more. If the Speaker or the Matron give an order, though, that takes priority."
+msgstr "뭐, 네게는 좋은 일이겠군. 그러나 아직 네가 이룬 것에 배불러 하진 말라고. 그건 네가 시작하기 좋은 쉬운 작업이었을 뿐이니까.\n\n더 작업을 수행하고 싶다면 돌아오도록. 그래도, 스피커와 여주인 아스타라의 명령이 더 우선이라는 것은 알아둬라."
+
+#: 232026500-0-11610
+msgctxt "232026500-0-11610"
+msgid "I completed my first contract."
+msgstr "제 첫 계약을 마쳤습니다."
+
+#: 116521668-0-11533
+#, fuzzy
+msgctxt "116521668-0-11533"
+msgid "Good archery school in Marbruk, if that's your sort of thing. I have a fondness for target shooting myself, but I find the bow too impersonal when it comes to work. I prefer close-quarter killing to ranged any day.\n\nHere you go. For the job."
+msgstr "Marbruk의 좋은 양궁 학교. 그게 너의 일이라면. 나는 목표물을 찍기를 좋아하지만, 나는 활을 너무 냉담하게 생각한다. 나는 어느 날 원거리에 살기 위해 근접 살인을 선호한다.\n\n 여기있다. 그 일을 위해서.-G-"
+
+#: 232026500-0-11533
+msgctxt "232026500-0-11533"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
 #: 116521668-0-11851
 #, fuzzy
 msgctxt "116521668-0-11851"
 msgid "What happens now? I utter a prayer to Sithis and send this traitor down dead-man's river. If I had the time, I'd do something really spectacular, but I can hear the spiders closing in. A bolt in the head will have to do.\n\nAgain, you have my thanks."
 msgstr "지금 무슨 일이 일어나는거야? 나는 시티 스에게기도를하고이 배신자를 죽은 사람의 강으로 보내려고한다. 시간이 있다면 나는 정말 멋진 것을 할 것이지만 거미가 들리는 것을들을 수 있습니다. 머리에 볼트가 있어야합니다.\n\n 감사합니다.-G-"
+
+#: 232026500-0-11851
+#, fuzzy
+msgctxt "232026500-0-11851"
+msgid "What happens now?"
+msgstr "지금 무슨 일이 일어나는거야?-G-"
+
+#: 116521668-0-11697
+msgctxt "116521668-0-11697"
+msgid "Another soul delivered to Sithis. It's unfortunate that things did not go wholly as planned, but the end result is the same.\n\nReflect on what occurred. Return tomorrow to use what you have learned."
+msgstr "또 하나의 영혼이 시디스께 보내졌군. 계획대로 진행되지 않은게 실망이지만, 결과는 같네.\n\n오늘 일을 반성하게. 오늘의 교훈을 내일 다시 와서 확인하게."
+
+#: 232026500-0-11697
+msgctxt "232026500-0-11697"
+msgid "The Sacrament is fulfilled."
+msgstr "검은성사를 마쳤습니다."
+
+#: 116521668-0-11579
+#, fuzzy
+msgctxt "116521668-0-11579"
+msgid "Glenumbra. If not for all the Bretons, it would be a perfectly quaint little community. Glad to see you were able to reduce their numbers by a few.\n\nOh, and excellent work on that contract, by the way. You really earned this."
+msgstr "Glenumbra. 모든 브리튼을 위해 아닙니다이지 않는 경우에, 완전하게 기묘한 작은 지역 사회 일 것입니다. 다행히 몇 가지로 숫자를 줄일 수 있다는 것을 알았습니다.\n\n 오, 그리고 그 계약에 대한 훌륭한 작품입니다. 당신은 정말로 이것을 얻었습니다.-G-"
+
+#: 232026500-0-11579
+msgctxt "232026500-0-11579"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11535
+#, fuzzy
+msgctxt "116521668-0-11535"
+msgid "I must admit, your skills get better with every contract you complete. In fact, the Matron told me that if you complete one more contract in record time, I should put your name on the next sheet of paper.\n\nThat's a Brotherhood joke. No, seriously."
+msgstr "나는 너가 끝내는 각 계약에 너의 기술이 나아질 것을 인정해야한다. 사실, 매 트론은 기록적인 시간에 계약을 한 번 더 완수하면 이름을 다음 용지에 써야한다고 말했습니다.\n\n 그것은 형제애 농담입니다. 아니, 진지하게.-G-"
+
+#: 232026500-0-11535
+msgctxt "232026500-0-11535"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."
+
+#: 116521668-0-11534
+#, fuzzy
+msgctxt "116521668-0-11534"
+msgid "Nothing like a Khajiiti bazaar to alleviate boredom. If you find yourself in a rut, spend an hour browsing the stalls. Just leave your purse at home. Come to think of it, don't. Hunting the cutpurse who robbed you is an even better cure.\n\nYour pay."
+msgstr "지루함을 완화하기 위해 Khajiiti bazaar와 같은 것은 없습니다. 너 자신이 틀에 박힌다면, 매점을 둘러 보는 시간을 보내라. 지갑을 집에두고 두십시오. 생각 해보지,하지 마라. 강도를 저지른 커프 투스를 사냥하는 것이 더 나은 치료법입니다.\n\n 임금을 지불하십시오.-G-"
+
+#: 232026500-0-11534
+msgctxt "232026500-0-11534"
+msgid "I completed a contract."
+msgstr "계약을 마쳤습니다."

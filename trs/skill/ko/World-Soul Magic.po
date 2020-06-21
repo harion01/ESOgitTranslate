@@ -11,33 +11,13 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-45590
-msgctxt "132143172-0-45590"
-msgid "Allows you to revive once every |cffffff1|r hour without spending a Soul Gem."
-msgstr "|cffffff1|r시간에 한 번은 소울젬을 소모하지 않고 부활할 수 있게 합니다."
+#: 132143172-0-39263
+msgctxt "132143172-0-39263"
+msgid "Killing an enemy with a Weapon ability has a |cffffff5|r% chance of automatically filling an empty Soul Gem."
+msgstr "무기 어빌리티로 적을 처치하면, |cffffff5|r%의 확률로 빈 소울젬을 자동으로 채웁니다."
 
-#: 198758357-0-45590
-msgctxt "198758357-0-45590"
-msgid "Soul Summons"
-msgstr "Soul Summons"
-
-#: 132143172-0-45583
-msgctxt "132143172-0-45583"
-msgid "When your Health drops below |cffffff20|r% your soul explodes, dealing <<1>> to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every <<2>>."
-msgstr "체력이 |cffffff20|r% 이하로 내려가면, 영혼이 폭발하여,  당신으로부터 |cffffff8|r 미터 이내의  모든 적에게 <<1>>를 입힙니다.\n\n이 효과는 <<2>>에 한 번만 발동합니다"
-
-#: 198758357-0-45583
-msgctxt "198758357-0-45583"
-msgid "Soul Shatter"
-msgstr "Soul Shatter"
-
-#: 132143172-0-45580
-msgctxt "132143172-0-45580"
-msgid "Killing an enemy with a Weapon ability has a |cffffff10|r% chance of automatically filling an empty Soul Gem."
-msgstr "무기 어빌리티로 적을 처치하면, |cffffff10|r%의 확률로 빈 소울젬을 자동으로 채웁니다."
-
-#: 198758357-0-45580
-msgctxt "198758357-0-45580"
+#: 198758357-0-39263
+msgctxt "198758357-0-39263"
 msgid "Soul Lock"
 msgstr "Soul Lock"
 
@@ -51,6 +31,26 @@ msgctxt "198758357-0-40420"
 msgid "Soul Assault"
 msgstr "Soul Assault"
 
+#: 132143172-0-39266
+msgctxt "132143172-0-39266"
+msgid "When your Health drops below |cffffff20|r% your soul explodes, dealing <<1>> to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every <<2>>."
+msgstr "체력이 |cffffff20|r% 이하로 내려가면, 영혼이 폭발하여,  당신으로부터 |cffffff8|r 미터 이내의  모든 적에게 <<1>>를 입힙니다.\n\n이 효과는 <<2>>에 한 번만 발동합니다"
+
+#: 198758357-0-39266
+msgctxt "198758357-0-39266"
+msgid "Soul Shatter"
+msgstr "Soul Shatter"
+
+#: 132143172-0-39269
+msgctxt "132143172-0-39269"
+msgid "Allows you to revive once every |cffffff2|r hours without spending a Soul Gem."
+msgstr "|cffffff2|r시간에 한 번은 소울젬을 소모하지 않고 부활할 수 있게 합니다."
+
+#: 198758357-0-39269
+msgctxt "198758357-0-39269"
+msgid "Soul Summons"
+msgstr "Soul Summons"
+
 #: 132143172-0-40414
 msgctxt "132143172-0-40414"
 msgid "Burn an enemy from the inside with soulfire, dealing <<1>> over <<2>>.  Upon completion, the soulfire overflows and explodes from the enemy, dealing <<3>> to all enemies near them.\n\nWhile channeling this ability, you gain immunity to all disabling effects.\n\nEnemies affected by this ability are revealed for <<4>> and may not enter stealth or invisibility."
@@ -60,6 +60,56 @@ msgstr "적 안의 영혼을 불태워, <<2>>에 걸쳐 <<1>>를 입힙니다. �
 msgctxt "198758357-0-40414"
 msgid "Shatter Soul"
 msgstr "Shatter Soul"
+
+#: 132143172-0-45580
+msgctxt "132143172-0-45580"
+msgid "Killing an enemy with a Weapon ability has a |cffffff10|r% chance of automatically filling an empty Soul Gem."
+msgstr "무기 어빌리티로 적을 처치하면, |cffffff10|r%의 확률로 빈 소울젬을 자동으로 채웁니다."
+
+#: 198758357-0-45580
+msgctxt "198758357-0-45580"
+msgid "Soul Lock"
+msgstr "Soul Lock"
+
+#: 132143172-0-45583
+msgctxt "132143172-0-45583"
+msgid "When your Health drops below |cffffff20|r% your soul explodes, dealing <<1>> to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every <<2>>."
+msgstr "체력이 |cffffff20|r% 이하로 내려가면, 영혼이 폭발하여,  당신으로부터 |cffffff8|r 미터 이내의  모든 적에게 <<1>>를 입힙니다.\n\n이 효과는 <<2>>에 한 번만 발동합니다"
+
+#: 198758357-0-45583
+msgctxt "198758357-0-45583"
+msgid "Soul Shatter"
+msgstr "Soul Shatter"
+
+#: 132143172-0-39270
+msgctxt "132143172-0-39270"
+msgid "Burn an enemy from the inside with soulfire, dealing <<1>> over <<2>>.\n\nWhile channeling this ability, you gain immunity to all disabling effects.\n\nEnemies affected by this ability are revealed for <<3>> and may not enter stealth or invisibility."
+msgstr "적 안의 영혼을 불태워, <<2>>에 걸쳐 <<1>>를 입힙니다.\n\n이 어빌리티를 시전하는 동안, 모든 방해효과로부터 면역이 됩니다.\n\n이 어빌리티의 효과를 받은 적은 <<3>> 동안 드러나고, 은신할 수 없게 됩니다."
+
+#: 198758357-0-39270
+msgctxt "198758357-0-39270"
+msgid "Soul Strike"
+msgstr "Soul Strike"
+
+#: 132143172-0-26768
+msgctxt "132143172-0-26768"
+msgid "Lay claim to an enemy's soul, dealing <<1>>  or <<2>> over <<3>>.  The damage dealt is based on your highest offensive stats.\n\nFills an empty Soul Gem if an affected enemy dies."
+msgstr "적의 영혼 포획을 시도해, 대상과 대상 주위의 적 한 명에게 <<2>>에 걸쳐 총 <<1>>를 입힙니다.\n\n영향을 받은 적이 죽으면 빈 소울젬을 채웁니다."
+
+#: 198758357-0-26768
+msgctxt "198758357-0-26768"
+msgid "Soul Trap"
+msgstr "Soul Trap"
+
+#: 132143172-0-45590
+msgctxt "132143172-0-45590"
+msgid "Allows you to revive once every |cffffff1|r hour without spending a Soul Gem."
+msgstr "|cffffff1|r시간에 한 번은 소울젬을 소모하지 않고 부활할 수 있게 합니다."
+
+#: 198758357-0-45590
+msgctxt "198758357-0-45590"
+msgid "Soul Summons"
+msgstr "Soul Summons"
 
 #: 132143172-0-40328
 msgctxt "132143172-0-40328"
@@ -80,53 +130,3 @@ msgstr "적의 영혼 포획을 시도해, 대상과 대상 주위의 적에게 
 msgctxt "198758357-0-40317"
 msgid "Consuming Trap"
 msgstr "Consuming Trap"
-
-#: 132143172-0-39270
-msgctxt "132143172-0-39270"
-msgid "Burn an enemy from the inside with soulfire, dealing <<1>> over <<2>>.\n\nWhile channeling this ability, you gain immunity to all disabling effects.\n\nEnemies affected by this ability are revealed for <<3>> and may not enter stealth or invisibility."
-msgstr "적 안의 영혼을 불태워, <<2>>에 걸쳐 <<1>>를 입힙니다.\n\n이 어빌리티를 시전하는 동안, 모든 방해효과로부터 면역이 됩니다.\n\n이 어빌리티의 효과를 받은 적은 <<3>> 동안 드러나고, 은신할 수 없게 됩니다."
-
-#: 198758357-0-39270
-msgctxt "198758357-0-39270"
-msgid "Soul Strike"
-msgstr "Soul Strike"
-
-#: 132143172-0-39269
-msgctxt "132143172-0-39269"
-msgid "Allows you to revive once every |cffffff2|r hours without spending a Soul Gem."
-msgstr "|cffffff2|r시간에 한 번은 소울젬을 소모하지 않고 부활할 수 있게 합니다."
-
-#: 198758357-0-39269
-msgctxt "198758357-0-39269"
-msgid "Soul Summons"
-msgstr "Soul Summons"
-
-#: 132143172-0-39266
-msgctxt "132143172-0-39266"
-msgid "When your Health drops below |cffffff20|r% your soul explodes, dealing <<1>> to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every <<2>>."
-msgstr "체력이 |cffffff20|r% 이하로 내려가면, 영혼이 폭발하여,  당신으로부터 |cffffff8|r 미터 이내의  모든 적에게 <<1>>를 입힙니다.\n\n이 효과는 <<2>>에 한 번만 발동합니다"
-
-#: 198758357-0-39266
-msgctxt "198758357-0-39266"
-msgid "Soul Shatter"
-msgstr "Soul Shatter"
-
-#: 132143172-0-39263
-msgctxt "132143172-0-39263"
-msgid "Killing an enemy with a Weapon ability has a |cffffff5|r% chance of automatically filling an empty Soul Gem."
-msgstr "무기 어빌리티로 적을 처치하면, |cffffff5|r%의 확률로 빈 소울젬을 자동으로 채웁니다."
-
-#: 198758357-0-39263
-msgctxt "198758357-0-39263"
-msgid "Soul Lock"
-msgstr "Soul Lock"
-
-#: 132143172-0-26768
-msgctxt "132143172-0-26768"
-msgid "Lay claim to an enemy's soul, dealing <<1>>  or <<2>> over <<3>>.  The damage dealt is based on your highest offensive stats.\n\nFills an empty Soul Gem if an affected enemy dies."
-msgstr "적의 영혼 포획을 시도해, 대상과 대상 주위의 적 한 명에게 <<2>>에 걸쳐 총 <<1>>를 입힙니다.\n\n영향을 받은 적이 죽으면 빈 소울젬을 채웁니다."
-
-#: 198758357-0-26768
-msgctxt "198758357-0-26768"
-msgid "Soul Trap"
-msgstr "Soul Trap"

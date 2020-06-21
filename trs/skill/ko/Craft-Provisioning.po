@@ -11,25 +11,25 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-69953
-msgctxt "132143172-0-69953"
-msgid "Allows the use of Legendary (gold) Recipes."
-msgstr "전설(황금색) 레시피를 사용할 수 있게 됩니다."
+#: 132143172-0-44621
+msgctxt "132143172-0-44621"
+msgid "Creates 2 extra servings for each drink recipe made."
+msgstr "음료를 한 번 제작할 때마다 2개를 추가로 제작합니다."
 
-#: 198758357-0-69953
-msgctxt "198758357-0-69953"
-msgid "Recipe Quality"
-msgstr "Recipe Quality"
+#: 198758357-0-44621
+msgctxt "198758357-0-44621"
+msgid "Brewer"
+msgstr "Brewer"
 
-#: 132143172-0-44650
-msgctxt "132143172-0-44650"
-msgid "Allows the making of up to Champion 150 Recipes."
-msgstr "챔피언 레벨 150 이상의 레시피를 사용할 수 있게 됩니다."
+#: 132143172-0-44620
+msgctxt "132143172-0-44620"
+msgid "Creates 1 extra serving for each drink recipe made."
+msgstr "음료를 한 번 제작할 때마다 1개를 추가로 제작합니다."
 
-#: 198758357-0-44650
-msgctxt "198758357-0-44650"
-msgid "Recipe Improvement"
-msgstr "Recipe Improvement"
+#: 198758357-0-44620
+msgctxt "198758357-0-44620"
+msgid "Brewer"
+msgstr "Brewer"
 
 #: 132143172-0-44641
 msgctxt "132143172-0-44641"
@@ -51,35 +51,15 @@ msgctxt "198758357-0-44640"
 msgid "Hireling"
 msgstr "Hireling"
 
-#: 132143172-0-44634
-msgctxt "132143172-0-44634"
-msgid "When you go offline, a hireling will find Food or Drink ingredients for you. Your hireling can be used every 24 hours."
-msgstr "오프라인 상태일 때, 고용인이 음식이나 음료의 재료를 보내 줄 것입니다. 24시간마다 사용할 수 있습니다."
+#: 132143172-0-44609
+msgctxt "132143172-0-44609"
+msgid "Adds 10 minutes to the duration of any eaten food."
+msgstr "먹은 음식의 지속 시간을 10분 늘립니다."
 
-#: 198758357-0-44634
-msgctxt "198758357-0-44634"
-msgid "Hireling"
-msgstr "Hireling"
-
-#: 132143172-0-44631
-msgctxt "132143172-0-44631"
-msgid "Allows the use of Complex (purple) Recipes."
-msgstr "복잡한(보라색) 레시피를 사용할 수 있게 됩니다."
-
-#: 198758357-0-44631
-msgctxt "198758357-0-44631"
-msgid "Recipe Quality"
-msgstr "Recipe Quality"
-
-#: 132143172-0-44630
-msgctxt "132143172-0-44630"
-msgid "Allows the use of Difficult (blue) Recipes."
-msgstr "어려운(파란색) 레시피를 사용할 수 있게 됩니다."
-
-#: 198758357-0-44630
-msgctxt "198758357-0-44630"
-msgid "Recipe Quality"
-msgstr "Recipe Quality"
+#: 198758357-0-44609
+msgctxt "198758357-0-44609"
+msgid "Gourmand"
+msgstr "Gourmand"
 
 #: 132143172-0-44625
 msgctxt "132143172-0-44625"
@@ -101,25 +81,135 @@ msgctxt "198758357-0-44624"
 msgid "Brewer"
 msgstr "Brewer"
 
-#: 132143172-0-44621
-msgctxt "132143172-0-44621"
-msgid "Creates 2 extra servings for each drink recipe made."
-msgstr "음료를 한 번 제작할 때마다 2개를 추가로 제작합니다."
+#: 132143172-0-44602
+msgctxt "132143172-0-44602"
+msgid "Adds 5 minutes to the duration of any eaten food."
+msgstr "먹은 음식의 지속 시간을 5분 늘립니다."
 
-#: 198758357-0-44621
-msgctxt "198758357-0-44621"
-msgid "Brewer"
-msgstr "Brewer"
+#: 198758357-0-44602
+msgctxt "198758357-0-44602"
+msgid "Gourmand"
+msgstr "Gourmand"
 
-#: 132143172-0-44620
-msgctxt "132143172-0-44620"
-msgid "Creates 1 extra serving for each drink recipe made."
-msgstr "음료를 한 번 제작할 때마다 1개를 추가로 제작합니다."
+#: 132143172-0-44610
+msgctxt "132143172-0-44610"
+msgid "Adds 20 minutes to the duration of any eaten food."
+msgstr "먹은 음식의 지속 시간을 20분 늘립니다."
 
-#: 198758357-0-44620
-msgctxt "198758357-0-44620"
-msgid "Brewer"
-msgstr "Brewer"
+#: 198758357-0-44610
+msgctxt "198758357-0-44610"
+msgid "Gourmand"
+msgstr "Gourmand"
+
+#: 132143172-0-44599
+msgctxt "132143172-0-44599"
+msgid "Allows the making of up to Champion 50 Recipes."
+msgstr "챔피언 레벨 50 이상의 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44599
+msgctxt "198758357-0-44599"
+msgid "Recipe Improvement"
+msgstr "Recipe Improvement"
+
+#: 132143172-0-44631
+msgctxt "132143172-0-44631"
+msgid "Allows the use of Complex (purple) Recipes."
+msgstr "복잡한(보라색) 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44631
+msgctxt "198758357-0-44631"
+msgid "Recipe Quality"
+msgstr "Recipe Quality"
+
+#: 132143172-0-44598
+msgctxt "132143172-0-44598"
+msgid "Allows the making of up to level 49 Recipes."
+msgstr "49레벨 이상의 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44598
+msgctxt "198758357-0-44598"
+msgid "Recipe Improvement"
+msgstr "Recipe Improvement"
+
+#: 132143172-0-44634
+msgctxt "132143172-0-44634"
+msgid "When you go offline, a hireling will find Food or Drink ingredients for you. Your hireling can be used every 24 hours."
+msgstr "오프라인 상태일 때, 고용인이 음식이나 음료의 재료를 보내 줄 것입니다. 24시간마다 사용할 수 있습니다."
+
+#: 198758357-0-44634
+msgctxt "198758357-0-44634"
+msgid "Hireling"
+msgstr "Hireling"
+
+#: 132143172-0-44612
+msgctxt "132143172-0-44612"
+msgid "Adds 5 minutes to the duration of any consumed drink."
+msgstr "마신 음료의 지속 시간을 5분 늘립니다."
+
+#: 198758357-0-44612
+msgctxt "198758357-0-44612"
+msgid "Connoisseur"
+msgstr "Connoisseur"
+
+#: 132143172-0-44650
+msgctxt "132143172-0-44650"
+msgid "Allows the making of up to Champion 150 Recipes."
+msgstr "챔피언 레벨 150 이상의 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44650
+msgctxt "198758357-0-44650"
+msgid "Recipe Improvement"
+msgstr "Recipe Improvement"
+
+#: 132143172-0-44595
+msgctxt "132143172-0-44595"
+msgid "Allows the making of up to level 29 Recipes."
+msgstr "29레벨 이상의 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44595
+msgctxt "198758357-0-44595"
+msgid "Recipe Improvement"
+msgstr "Recipe Improvement"
+
+#: 132143172-0-44630
+msgctxt "132143172-0-44630"
+msgid "Allows the use of Difficult (blue) Recipes."
+msgstr "어려운(파란색) 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44630
+msgctxt "198758357-0-44630"
+msgid "Recipe Quality"
+msgstr "Recipe Quality"
+
+#: 132143172-0-44597
+msgctxt "132143172-0-44597"
+msgid "Allows the making of up to level 39 Recipes."
+msgstr "39레벨 이상의 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-44597
+msgctxt "198758357-0-44597"
+msgid "Recipe Improvement"
+msgstr "Recipe Improvement"
+
+#: 132143172-0-69953
+msgctxt "132143172-0-69953"
+msgid "Allows the use of Legendary (gold) Recipes."
+msgstr "전설(황금색) 레시피를 사용할 수 있게 됩니다."
+
+#: 198758357-0-69953
+msgctxt "198758357-0-69953"
+msgid "Recipe Quality"
+msgstr "Recipe Quality"
+
+#: 132143172-0-44617
+msgctxt "132143172-0-44617"
+msgid "Creates 2 extra servings for each food recipe made."
+msgstr "음식을 한 번 제작할 때마다 2개를 추가로 제작합니다."
+
+#: 198758357-0-44617
+msgctxt "198758357-0-44617"
+msgid "Chef"
+msgstr "Chef"
 
 #: 132143172-0-44619
 msgctxt "132143172-0-44619"
@@ -131,15 +221,15 @@ msgctxt "198758357-0-44619"
 msgid "Chef"
 msgstr "Chef"
 
-#: 132143172-0-44617
-msgctxt "132143172-0-44617"
-msgid "Creates 2 extra servings for each food recipe made."
-msgstr "음식을 한 번 제작할 때마다 2개를 추가로 제작합니다."
+#: 132143172-0-44614
+msgctxt "132143172-0-44614"
+msgid "Adds 10 minutes to the duration of any consumed drink."
+msgstr "마신 음료의 지속 시간을 10분 늘립니다."
 
-#: 198758357-0-44617
-msgctxt "198758357-0-44617"
-msgid "Chef"
-msgstr "Chef"
+#: 198758357-0-44614
+msgctxt "198758357-0-44614"
+msgid "Connoisseur"
+msgstr "Connoisseur"
 
 #: 132143172-0-44616
 msgctxt "132143172-0-44616"
@@ -160,96 +250,6 @@ msgstr "마신 음료의 지속 시간을 20분 늘립니다."
 msgctxt "198758357-0-44615"
 msgid "Connoisseur"
 msgstr "Connoisseur"
-
-#: 132143172-0-44614
-msgctxt "132143172-0-44614"
-msgid "Adds 10 minutes to the duration of any consumed drink."
-msgstr "마신 음료의 지속 시간을 10분 늘립니다."
-
-#: 198758357-0-44614
-msgctxt "198758357-0-44614"
-msgid "Connoisseur"
-msgstr "Connoisseur"
-
-#: 132143172-0-44612
-msgctxt "132143172-0-44612"
-msgid "Adds 5 minutes to the duration of any consumed drink."
-msgstr "마신 음료의 지속 시간을 5분 늘립니다."
-
-#: 198758357-0-44612
-msgctxt "198758357-0-44612"
-msgid "Connoisseur"
-msgstr "Connoisseur"
-
-#: 132143172-0-44610
-msgctxt "132143172-0-44610"
-msgid "Adds 20 minutes to the duration of any eaten food."
-msgstr "먹은 음식의 지속 시간을 20분 늘립니다."
-
-#: 198758357-0-44610
-msgctxt "198758357-0-44610"
-msgid "Gourmand"
-msgstr "Gourmand"
-
-#: 132143172-0-44609
-msgctxt "132143172-0-44609"
-msgid "Adds 10 minutes to the duration of any eaten food."
-msgstr "먹은 음식의 지속 시간을 10분 늘립니다."
-
-#: 198758357-0-44609
-msgctxt "198758357-0-44609"
-msgid "Gourmand"
-msgstr "Gourmand"
-
-#: 132143172-0-44602
-msgctxt "132143172-0-44602"
-msgid "Adds 5 minutes to the duration of any eaten food."
-msgstr "먹은 음식의 지속 시간을 5분 늘립니다."
-
-#: 198758357-0-44602
-msgctxt "198758357-0-44602"
-msgid "Gourmand"
-msgstr "Gourmand"
-
-#: 132143172-0-44599
-msgctxt "132143172-0-44599"
-msgid "Allows the making of up to Champion 50 Recipes."
-msgstr "챔피언 레벨 50 이상의 레시피를 사용할 수 있게 됩니다."
-
-#: 198758357-0-44599
-msgctxt "198758357-0-44599"
-msgid "Recipe Improvement"
-msgstr "Recipe Improvement"
-
-#: 132143172-0-44598
-msgctxt "132143172-0-44598"
-msgid "Allows the making of up to level 49 Recipes."
-msgstr "49레벨 이상의 레시피를 사용할 수 있게 됩니다."
-
-#: 198758357-0-44598
-msgctxt "198758357-0-44598"
-msgid "Recipe Improvement"
-msgstr "Recipe Improvement"
-
-#: 132143172-0-44597
-msgctxt "132143172-0-44597"
-msgid "Allows the making of up to level 39 Recipes."
-msgstr "39레벨 이상의 레시피를 사용할 수 있게 됩니다."
-
-#: 198758357-0-44597
-msgctxt "198758357-0-44597"
-msgid "Recipe Improvement"
-msgstr "Recipe Improvement"
-
-#: 132143172-0-44595
-msgctxt "132143172-0-44595"
-msgid "Allows the making of up to level 29 Recipes."
-msgstr "29레벨 이상의 레시피를 사용할 수 있게 됩니다."
-
-#: 198758357-0-44595
-msgctxt "198758357-0-44595"
-msgid "Recipe Improvement"
-msgstr "Recipe Improvement"
 
 #: 132143172-0-44590
 msgctxt "132143172-0-44590"

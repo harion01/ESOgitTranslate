@@ -11,65 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-118664
-msgctxt "132143172-0-118664"
-msgid "Become a destructive Pummeling Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health. \n\nYour bash attacks can hit multiple targets in front of you and deal <<5>>."
-msgstr "파멸적인 분노의 거인과 영혼을 융합해, 최대체력을 <<1>> 을 <<2>>동안 증가시키고, 즉시 체력을 <<1>> 회복합니다.\n\n변신하면 약공격이 체력을 <<3>> 회복하고, 풀차지한 강공격이 체력을 <<4>>회복합니다. 이 어빌리티의 효과는 최대체력에 비례하여 변동합니다.\n\n배쉬 공격은 앞에 있는 여러 대상을 공격하고, <<5>>만큼 대미지를 줍니다."
+#: 132143172-0-115115
+msgctxt "132143172-0-115115"
+msgid "Slice into your enemy's life force, dealing <<1>>.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy hit, up to five times.  The healing of this ability scales off your Max Health."
+msgstr "적의 생명력을 수확해 <<1>>만큼 대미지를 줍니다.\n\n첫번째 적에게 명중시킨 시점에서 <<2>>를 회복합니다. 그 후 다른 적을 공격할때마다 최대 5번까지 회복이 <<3>> 증가합니다. 이 어빌리티의 호과는 최대체력에 비례해 변동합니다."
 
-#: 198758357-0-118664
-msgctxt "198758357-0-118664"
-msgid "Pummeling Goliath"
-msgstr "Pummeling Goliath"
-
-#: 132143172-0-118639
-msgctxt "132143172-0-118639"
-msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per additional corpse.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
-msgstr "시체에 남아있는 생명력을 흡수하여 <<1>> 궁극게이지와 <<2>> 체력을 <<3>>마다 얻습니다. 흡수한 시체 하나당 <<2>>초의 지속시간이 늘어납니다. 이 어빌리티의 효과는 최대 체력에 비례하여 조정됩니다.\n\n기술칸에 장비하고 있을 때, 입는 피해가 <<5>> 감소합니다."
-
-#: 198758357-0-118639
-msgctxt "198758357-0-118639"
-msgid "Necrotic Potency"
-msgstr "Necrotic Potency"
-
-#: 132143172-0-118623
-msgctxt "132143172-0-118623"
-msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed. While you have the heal effect, you gain Major Protection, reducing the damage you take by <<5>>.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<6>>."
-msgstr "시체에 남아있는 생명력을 흡수하여 <<1>> 궁극게이지를 얻고 <<4>>동안 흡수한 시체 갯수 당 <<3>> 마다 체력을  <<2>> 회복합니다. 회복중에는 Major Protection을 얻어, 받는 피해가 <<5>> 감소합니다. 이 기술의 효과는 최대체력에 비례하여 변동합니다.\n\n기술칸에 장비하고 있을 때, 입는 피해가 <<6>> 감소합니다."
-
-#: 198758357-0-118623
-msgctxt "198758357-0-118623"
-msgid "Deaden Pain"
-msgstr "Deaden Pain"
-
-#: 132143172-0-118404
-msgctxt "132143172-0-118404"
-msgid "Summon an effigy of bone at your feet that gives Minor Protection to you and your allies for <<1>>, reducing damage taken by <<2>>. \n\nAfter <<3>>,  the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for <<5>>.\n\nAllies can activate <<6>>, causing enemies to take <<7>> over <<8>> and applying Minor Vulnerability to them, increasing their damage taken by <<9>>."
-msgstr "뼈 석상을 발밑에 소환합니다. 석상은 자신과 아군에게 Minor Protection을 <<1>>동안 부여하여 피해를 <<2>> 감소시킵니다.\n\n<<3>> 경과 후, 토템은 매 <<4>>마다 근처의 적을 공포에 질리게 하고, <<5>> 동안 제자리에 묶어둡니다.\n\n아군은 <<6>>을 발동시켜, 적에게 <<7>> 피해를 <<8>>동안 줍니다. 그리고 지속시간 동안에는 근처 적에게 Minor Vulnerability를 부여해, 그들이 받는 피해를 <<9>> 증가시킵니다."
-
-#: 198758357-0-118404
-msgctxt "198758357-0-118404"
-msgid "Agony Totem"
-msgstr "Agony Totem"
-
-#: 132143172-0-118380
-msgctxt "132143172-0-118380"
-msgid "Call forth an effigy of bone that gives Minor Protection to you and your allies for <<1>>, reducing your damage taken by <<2>>. \n\nAfter <<3>>, the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for  <<5>>."
-msgstr "뼈 석상을 발밑에 소환합니다. 석상은 자신과 아군에게 Minor Protection을 <<1>>동안 부여하여 피해를 <<2>> 감소시킵니다.\n\n<<3>> 경과 후, 토템은 매 <<4>>마다 근처의 적을 공포에 질리게 하고, <<5>> 동안 제자리에 묶어둡니다."
-
-#: 198758357-0-118380
-msgctxt "198758357-0-118380"
-msgid "Remote Totem"
-msgstr "Remote Totem"
-
-#: 132143172-0-118352
-msgctxt "132143172-0-118352"
-msgid "Summon skeletal claws from the ground, snaring your enemies by <<1>> for <<2>> and inflicting Minor Maim for <<3>>, reducing their damage done by <<4>>.\n\nHitting you or your allies grants them Empower for <<5>>, increasing the damage of their next Light Attack by <<6>>.\n\nHitting your Skeletal Mage or Spirit Mender enhances them for <<7>>, increasing their effectiveness by <<6>>."
-msgstr "지면에서 스켈레톤의 발톱을 소환해 적을 <<1>>에서 <<2>> 동안 느리게 하고, Minor Maim을 <<3>>동안 부여합니다. 적이 입히는 대미지는 <<4>> 감소합니다.\n\n자신이나 아군이 공격받으면 <<5>> 동안 강화되어, 다음 약공격의 대미지가 <<6>> 증가합니다.\n\n스켈레톤 마법사나 영혼의 복원사가 공격받으면 <<7>>동안 강화되어 효과가 <<6>> 증가합니다."
-
-#: 198758357-0-118352
-msgctxt "198758357-0-118352"
-msgid "Empowering Grasp"
-msgstr "Empowering Grasp"
+#: 198758357-0-115115
+msgctxt "198758357-0-115115"
+msgid "Death Scythe"
+msgstr "Death Scythe"
 
 #: 132143172-0-118308
 msgctxt "132143172-0-118308"
@@ -81,25 +31,45 @@ msgctxt "198758357-0-118308"
 msgid "Ghostly Embrace"
 msgstr "Ghostly Embrace"
 
-#: 132143172-0-118279
-msgctxt "132143172-0-118279"
-msgid "Become a horrific Ravenous Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. You deal <<5>> damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health."
-msgstr "두려울정도로 탐욕스러운 거인과 영혼을 융합해 최대체력을 <<1>>에서 <<2>>만큼 증가시키고, 즉시 체력을 <<1>>회복합니다.\n\n변신하면, 약공격이 체력을 <<3>>회복하고 풀차지한 강공격이 체력을 <<4>> 회복합니다. 근처 적에게 <<5>>대미지를 1초마다 주며, 그만큼 체력을 회복합니다. 이 어빌리티의 효과는 최대체력에 비례하여 변동합니다."
+#: 132143172-0-115238
+msgctxt "132143172-0-115238"
+msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed.  This ability scales off of your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
+msgstr "시체에 남아있는 생명력을 흡수하여 <<1>> 궁극게이지를 얻고 <<4>>동안 흡수한 시체 갯수 당 <<3>> 마다 체력을  <<2>> 회복합니다. 이 기술의 효과는 최대체력에 비례하여 변동합니다.\n\n기술칸에 장비하고 있을 때, 입는 피해가 <<5>> 감소합니다."
 
-#: 198758357-0-118279
-msgctxt "198758357-0-118279"
-msgid "Ravenous Goliath"
-msgstr "Ravenous Goliath"
+#: 198758357-0-115238
+msgctxt "198758357-0-115238"
+msgid "Bitter Harvest"
+msgstr "Bitter Harvest"
 
-#: 132143172-0-118244
-msgctxt "132143172-0-118244"
-msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by <<3>>.\n\nCreates a corpse when the effect completes."
-msgstr "단단한 뼈로 몸을 둘러, Major Resolve를 얻습니다. 물리저항력과 마법저항력이 <<2>>동안 <<1>>만큼 증가합니다.\n\n발동중에는 뼈탄환, 스켈레톤 마법사, 영혼의 복원사의 소환비용이 <<3>> 감소합니다.\n\n효과가 끝나면, 시체를 만들어냅니다."
+#: 132143172-0-118404
+msgctxt "132143172-0-118404"
+msgid "Summon an effigy of bone at your feet that gives Minor Protection to you and your allies for <<1>>, reducing damage taken by <<2>>. \n\nAfter <<3>>,  the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for <<5>>.\n\nAllies can activate <<6>>, causing enemies to take <<7>> over <<8>> and applying Minor Vulnerability to them, increasing their damage taken by <<9>>."
+msgstr "뼈 석상을 발밑에 소환합니다. 석상은 자신과 아군에게 Minor Protection을 <<1>>동안 부여하여 피해를 <<2>> 감소시킵니다.\n\n<<3>> 경과 후, 토템은 매 <<4>>마다 근처의 적을 공포에 질리게 하고, <<5>> 동안 제자리에 묶어둡니다.\n\n아군은 <<6>>을 발동시켜, 적에게 <<7>> 피해를 <<8>>동안 줍니다. 그리고 지속시간 동안에는 근처 적에게 Minor Vulnerability를 부여해, 그들이 받는 피해를 <<9>> 증가시킵니다."
 
-#: 198758357-0-118244
-msgctxt "198758357-0-118244"
-msgid "Summoner's Armor"
-msgstr "Summoner's Armor"
+#: 198758357-0-118404
+msgctxt "198758357-0-118404"
+msgid "Agony Totem"
+msgstr "Agony Totem"
+
+#: 132143172-0-116230
+msgctxt "132143172-0-116230"
+msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
+msgstr "|cffffff28|r미터 이내의 적이 죽을 때마다, 매지카와 스태미너를 <<1>>회복합니다."
+
+#: 198758357-0-116230
+msgctxt "198758357-0-116230"
+msgid "Death Gleaning"
+msgstr "Death Gleaning"
+
+#: 132143172-0-118352
+msgctxt "132143172-0-118352"
+msgid "Summon skeletal claws from the ground, snaring your enemies by <<1>> for <<2>> and inflicting Minor Maim for <<3>>, reducing their damage done by <<4>>.\n\nHitting you or your allies grants them Empower for <<5>>, increasing the damage of their next Light Attack by <<6>>.\n\nHitting your Skeletal Mage or Spirit Mender enhances them for <<7>>, increasing their effectiveness by <<6>>."
+msgstr "지면에서 스켈레톤의 발톱을 소환해 적을 <<1>>에서 <<2>> 동안 느리게 하고, Minor Maim을 <<3>>동안 부여합니다. 적이 입히는 대미지는 <<4>> 감소합니다.\n\n자신이나 아군이 공격받으면 <<5>> 동안 강화되어, 다음 약공격의 대미지가 <<6>> 증가합니다.\n\n스켈레톤 마법사나 영혼의 복원사가 공격받으면 <<7>>동안 강화되어 효과가 <<6>> 증가합니다."
+
+#: 198758357-0-118352
+msgctxt "198758357-0-118352"
+msgid "Empowering Grasp"
+msgstr "Empowering Grasp"
 
 #: 132143172-0-118237
 msgctxt "132143172-0-118237"
@@ -111,25 +81,45 @@ msgctxt "198758357-0-118237"
 msgid "Beckoning Armor"
 msgstr "Beckoning Armor"
 
-#: 132143172-0-118226
-msgctxt "132143172-0-118226"
-msgid "Slice into your enemy's life force, dealing <<1>>. \n\nEvery third cast of this ability will set all enemies hit Off Balance.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  The healing of this ability scales off your Max Health."
-msgstr "적의 생명력을 수확해 <<1>>만큼 대미지를 줍니다.\n\n이 어빌리티는 3번 사용하면, 모든 적을 휘청이게 만듭니다.\n\n첫번째 적에게 명중시킨 시점에서 <<2>>를 회복하고, 그 후 다른 적을 공격할때마다 최대 5번까지 회복이 <<3>> 증가합니다. 이 어빌리티의 효과는 최대체력에 비례해 변동합니다."
+#: 132143172-0-115001
+msgctxt "132143172-0-115001"
+msgid "Become a horrific Bone Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your damaging Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health."
+msgstr "공포스러운 뼈 거인이 되어 최대체력을 <<1>>에서 <<2>> 동안 증가시키고, 즉시 체력을 <<1>>회복합니다.\n\n변신하면 약공격이 체력을 <<3>>회복시키고, 완충된 강공격이 체력을 <<4>>회복시킵니다. 이 어빌리티의 효과는 최대체력에 비례해 변동합니다."
 
-#: 198758357-0-118226
-msgctxt "198758357-0-118226"
-msgid "Ruinous Scythe"
-msgstr "Ruinous Scythe"
+#: 198758357-0-115001
+msgctxt "198758357-0-115001"
+msgid "Bone Goliath Transformation"
+msgstr "Bone Goliath Transformation"
 
-#: 132143172-0-118223
-msgctxt "132143172-0-118223"
-msgid "Slice into your enemy's life force, dealing <<1>>.  \n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  After dealing damage, you heal for <<4>> Health every <<5>> over <<6>>.  The healing of this ability scales off your Max Health."
-msgstr "적의 생명력을 수확해 <<1>>만큼 대미지를 줍니다.\n\n첫번째 적에게 명중시킨 시점에서 <<2>>를 회복합니다. 그 후 다른 적을 공격할때마다 최대 5번까지 회복이 <<3>> 증가합니다.\n대미지를 주었을때 체력<<4>>를 <<5>>만큼 <<6>>동안 회복합니다. 이 어빌리티의 호과는 최대체력에 비례해 변동합니다."
+#: 132143172-0-118279
+msgctxt "132143172-0-118279"
+msgid "Become a horrific Ravenous Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your damaging Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. You deal <<5>> damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health."
+msgstr "두려울정도로 탐욕스러운 거인과 영혼을 융합해 최대체력을 <<1>>에서 <<2>>만큼 증가시키고, 즉시 체력을 <<1>>회복합니다.\n\n변신하면, 약공격이 체력을 <<3>>회복하고 완충된 강공격이 체력을 <<4>> 회복합니다. 근처 적에게 <<5>>대미지를 1초마다 주며,  그만큼 체력을 회복합니다. 이 어빌리티의 효과는 최대체력에 비례하여 변동합니다."
 
-#: 198758357-0-118223
-msgctxt "198758357-0-118223"
-msgid "Hungry Scythe"
-msgstr "Hungry Scythe"
+#: 198758357-0-118279
+msgctxt "198758357-0-118279"
+msgid "Ravenous Goliath"
+msgstr "Ravenous Goliath"
+
+#: 132143172-0-116235
+msgctxt "132143172-0-116235"
+msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
+msgstr "|cffffff28|r미터 이내의 적이 죽을 때마다, 매지카와 스태미너를 <<1>>회복합니다."
+
+#: 198758357-0-116235
+msgctxt "198758357-0-116235"
+msgid "Death Gleaning"
+msgstr "Death Gleaning"
+
+#: 132143172-0-116270
+msgctxt "132143172-0-116270"
+msgid "Increase your Healing Received by |cffffff2|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
+msgstr "기술칸에 장비하고 있는 뼈 폭군 어빌리티 1개당, 받는 회복량이 |cffffff1|2% 증가합니다.\n\n현재 보너스: <<1>>"
+
+#: 198758357-0-116270
+msgctxt "198758357-0-116270"
+msgid "Health Avarice"
+msgstr "Health Avarice"
 
 #: 132143172-0-116272
 msgctxt "132143172-0-116272"
@@ -151,35 +141,15 @@ msgctxt "198758357-0-116271"
 msgid "Last Gasp"
 msgstr "Last Gasp"
 
-#: 132143172-0-116270
-msgctxt "132143172-0-116270"
-msgid "Increase your Healing Received by |cffffff2|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
-msgstr "기술칸에 장비하고 있는 뼈 폭군 어빌리티 1개당, 받는 회복량이 |cffffff1|2% 증가합니다.\n\n현재 보너스: <<1>>"
+#: 132143172-0-115206
+msgctxt "132143172-0-115206"
+msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nCreates a corpse when the effect completes."
+msgstr "단단한 뼈로 몸을 둘러, Major Resolve효과를 얻습니다. 물리저항력과 주문저항력이 <<2>>동안 <<1>>만큼 증가합니다.\n\n효과가 끝나면, 시체를 만들어냅니다."
 
-#: 198758357-0-116270
-msgctxt "198758357-0-116270"
-msgid "Health Avarice"
-msgstr "Health Avarice"
-
-#: 132143172-0-116269
-msgctxt "132143172-0-116269"
-msgid "Increase your Healing Received by |cffffff1|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
-msgstr "기술칸에 장비하고 있는 뼈 폭군 어빌리티 1개당, 받는 회복량이 |cffffff1|2% 증가합니다.\n\n현재 보너스: <<1>>"
-
-#: 198758357-0-116269
-msgctxt "198758357-0-116269"
-msgid "Health Avarice"
-msgstr "Health Avarice"
-
-#: 132143172-0-116240
-msgctxt "132143172-0-116240"
-msgid "Reduce the damage you take from damage over time abilities by <<1>> while you have a Bone Tyrant ability active."
-msgstr "기술칸에 뼈 폭군 어빌리티를 장비하고 있으면, 지속대미지 어빌리티의 피해를 <<1>> 감소시킵니다."
-
-#: 198758357-0-116240
-msgctxt "198758357-0-116240"
-msgid "Disdain Harm"
-msgstr "Disdain Harm"
+#: 198758357-0-115206
+msgctxt "198758357-0-115206"
+msgid "Bone Armor"
+msgstr "Bone Armor"
 
 #: 132143172-0-116239
 msgctxt "132143172-0-116239"
@@ -191,45 +161,55 @@ msgctxt "198758357-0-116239"
 msgid "Disdain Harm"
 msgstr "Disdain Harm"
 
-#: 132143172-0-116235
-msgctxt "132143172-0-116235"
-msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
-msgstr "|cffffff28|r미터 이내의 적이 죽을 때마다, 매지카와 스태미너를 <<1>>회복합니다."
+#: 132143172-0-118639
+msgctxt "132143172-0-118639"
+msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per additional corpse.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
+msgstr "시체에 남아있는 생명력을 흡수하여 <<1>> 궁극게이지와 <<2>> 체력을 <<3>>마다 얻습니다. 흡수한 시체 하나당 <<2>>초의 지속시간이 늘어납니다. 이 어빌리티의 효과는 최대 체력에 비례하여 조정됩니다.\n\n기술칸에 장비하고 있을 때, 입는 피해가 <<5>> 감소합니다."
 
-#: 198758357-0-116235
-msgctxt "198758357-0-116235"
-msgid "Death Gleaning"
-msgstr "Death Gleaning"
+#: 198758357-0-118639
+msgctxt "198758357-0-118639"
+msgid "Necrotic Potency"
+msgstr "Necrotic Potency"
 
-#: 132143172-0-116230
-msgctxt "132143172-0-116230"
-msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
-msgstr "|cffffff28|r미터 이내의 적이 죽을 때마다, 매지카와 스태미너를 <<1>>회복합니다."
+#: 132143172-0-118244
+msgctxt "132143172-0-118244"
+msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by <<3>>.\n\nCreates a corpse when the effect completes."
+msgstr "단단한 뼈로 몸을 둘러, Major Resolve를 얻습니다. 물리저항력과 마법저항력이 <<2>>동안 <<1>>만큼 증가합니다.\n\n발동중에는 뼈탄환, 스켈레톤 마법사, 영혼의 복원사의 소환비용이 <<3>> 감소합니다.\n\n효과가 끝나면, 시체를 만들어냅니다."
 
-#: 198758357-0-116230
-msgctxt "198758357-0-116230"
-msgid "Death Gleaning"
-msgstr "Death Gleaning"
+#: 198758357-0-118244
+msgctxt "198758357-0-118244"
+msgid "Summoner's Armor"
+msgstr "Summoner's Armor"
 
-#: 132143172-0-115238
-msgctxt "132143172-0-115238"
-msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed.  This ability scales off of your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
-msgstr "시체에 남아있는 생명력을 흡수하여 <<1>> 궁극게이지를 얻고 <<4>>동안 흡수한 시체 갯수 당 <<3>> 마다 체력을  <<2>> 회복합니다. 이 기술의 효과는 최대체력에 비례하여 변동합니다.\n\n기술칸에 장비하고 있을 때, 입는 피해가 <<5>> 감소합니다."
+#: 132143172-0-116240
+msgctxt "132143172-0-116240"
+msgid "Reduce the damage you take from damage over time abilities by <<1>> while you have a Bone Tyrant ability active."
+msgstr "기술칸에 뼈 폭군 어빌리티를 장비하고 있으면, 지속대미지 어빌리티의 피해를 <<1>> 감소시킵니다."
 
-#: 198758357-0-115238
-msgctxt "198758357-0-115238"
-msgid "Bitter Harvest"
-msgstr "Bitter Harvest"
+#: 198758357-0-116240
+msgctxt "198758357-0-116240"
+msgid "Disdain Harm"
+msgstr "Disdain Harm"
 
-#: 132143172-0-115206
-msgctxt "132143172-0-115206"
-msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nCreates a corpse when the effect completes."
-msgstr "단단한 뼈로 몸을 둘러, Major Resolve효과를 얻습니다. 물리저항력과 주문저항력이 <<2>>동안 <<1>>만큼 증가합니다.\n\n효과가 끝나면, 시체를 만들어냅니다."
+#: 132143172-0-118223
+msgctxt "132143172-0-118223"
+msgid "Slice into your enemy's life force, dealing <<1>>.  \n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  After dealing damage, you heal for <<4>> Health every <<5>> over <<6>>.  The healing of this ability scales off your Max Health."
+msgstr "적의 생명력을 수확해 <<1>>만큼 대미지를 줍니다.\n\n첫번째 적에게 명중시킨 시점에서 <<2>>를 회복합니다. 그 후 다른 적을 공격할때마다 최대 5번까지 회복이 <<3>> 증가합니다.\n대미지를 주었을때 체력<<4>>를 <<5>>만큼 <<6>>동안 회복합니다. 이 어빌리티의 호과는 최대체력에 비례해 변동합니다."
 
-#: 198758357-0-115206
-msgctxt "198758357-0-115206"
-msgid "Bone Armor"
-msgstr "Bone Armor"
+#: 198758357-0-118223
+msgctxt "198758357-0-118223"
+msgid "Hungry Scythe"
+msgstr "Hungry Scythe"
+
+#: 132143172-0-118226
+msgctxt "132143172-0-118226"
+msgid "Slice into your enemy's life force, dealing <<1>>. \n\nEvery third cast of this ability will set all enemies hit Off Balance.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  The healing of this ability scales off your Max Health."
+msgstr "적의 생명력을 수확해 <<1>>만큼 대미지를 줍니다.\n\n이 어빌리티는 3번 사용하면, 모든 적을 휘청이게 만듭니다.\n\n첫번째 적에게 명중시킨 시점에서 <<2>>를 회복하고, 그 후 다른 적을 공격할때마다 최대 5번까지 회복이 <<3>> 증가합니다. 이 어빌리티의 효과는 최대체력에 비례해 변동합니다."
+
+#: 198758357-0-118226
+msgctxt "198758357-0-118226"
+msgid "Ruinous Scythe"
+msgstr "Ruinous Scythe"
 
 #: 132143172-0-115177
 msgctxt "132143172-0-115177"
@@ -241,15 +221,45 @@ msgctxt "198758357-0-115177"
 msgid "Grave Grasp"
 msgstr "Grave Grasp"
 
-#: 132143172-0-115115
-msgctxt "132143172-0-115115"
-msgid "Slice into your enemy's life force, dealing <<1>>.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy hit, up to five times.  The healing of this ability scales off your Max Health."
-msgstr "적의 생명력을 수확해 <<1>>만큼 대미지를 줍니다.\n\n첫번째 적에게 명중시킨 시점에서 <<2>>를 회복합니다. 그 후 다른 적을 공격할때마다 최대 5번까지 회복이 <<3>> 증가합니다. 이 어빌리티의 호과는 최대체력에 비례해 변동합니다."
+#: 132143172-0-118623
+msgctxt "132143172-0-118623"
+msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed. While you have the heal effect, you gain Major Protection, reducing the damage you take by <<5>>.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<6>>."
+msgstr "시체에 남아있는 생명력을 흡수하여 <<1>> 궁극게이지를 얻고 <<4>>동안 흡수한 시체 갯수 당 <<3>> 마다 체력을  <<2>> 회복합니다. 회복중에는 Major Protection을 얻어, 받는 피해가 <<5>> 감소합니다. 이 기술의 효과는 최대체력에 비례하여 변동합니다.\n\n기술칸에 장비하고 있을 때, 입는 피해가 <<6>> 감소합니다."
 
-#: 198758357-0-115115
-msgctxt "198758357-0-115115"
-msgid "Death Scythe"
-msgstr "Death Scythe"
+#: 198758357-0-118623
+msgctxt "198758357-0-118623"
+msgid "Deaden Pain"
+msgstr "Deaden Pain"
+
+#: 132143172-0-118664
+msgctxt "132143172-0-118664"
+msgid "Become a destructive Pummeling Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your damaging Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health. \n\nYour bash attacks can hit multiple targets in front of you and deal <<5>>."
+msgstr "파멸적인 분노의 거인과 영혼을 융합해, 최대체력을 <<1>> 을 <<2>>동안 증가시키고, 즉시 체력을 <<1>> 회복합니다.\n\n변신하면 약공격이 체력을 <<3>> 회복하고, 완충된 강공격이 체력을 <<4>>회복합니다. 이 어빌리티의 효과는 최대체력에 비례하여 변동합니다.\n\n배쉬 공격은 앞에 있는 여러 대상을 공격하고, <<5>>만큼 대미지를 줍니다."
+
+#: 198758357-0-118664
+msgctxt "198758357-0-118664"
+msgid "Pummeling Goliath"
+msgstr "Pummeling Goliath"
+
+#: 132143172-0-116269
+msgctxt "132143172-0-116269"
+msgid "Increase your Healing Received by |cffffff1|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
+msgstr "기술칸에 장비하고 있는 뼈 폭군 어빌리티 1개당, 받는 회복량이 |cffffff1|2% 증가합니다.\n\n현재 보너스: <<1>>"
+
+#: 198758357-0-116269
+msgctxt "198758357-0-116269"
+msgid "Health Avarice"
+msgstr "Health Avarice"
+
+#: 132143172-0-118380
+msgctxt "132143172-0-118380"
+msgid "Call forth an effigy of bone that gives Minor Protection to you and your allies for <<1>>, reducing your damage taken by <<2>>. \n\nAfter <<3>>, the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for  <<5>>."
+msgstr "뼈 석상을 발밑에 소환합니다. 석상은 자신과 아군에게 Minor Protection을 <<1>>동안 부여하여 피해를 <<2>> 감소시킵니다.\n\n<<3>> 경과 후, 토템은 매 <<4>>마다 근처의 적을 공포에 질리게 하고, <<5>> 동안 제자리에 묶어둡니다."
+
+#: 198758357-0-118380
+msgctxt "198758357-0-118380"
+msgid "Remote Totem"
+msgstr "Remote Totem"
 
 #: 132143172-0-115093
 msgctxt "132143172-0-115093"
@@ -260,13 +270,3 @@ msgstr "뼈 석상을 발밑에 소환합니다. 석상은 자신과 아군에�
 msgctxt "198758357-0-115093"
 msgid "Bone Totem"
 msgstr "Bone Totem"
-
-#: 132143172-0-115001
-msgctxt "132143172-0-115001"
-msgid "Become a horrific Bone Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health."
-msgstr "공포스러운 뼈 거인이 되어 최대체력을 <<1>>에서 <<2>> 동안 증가시키고, 즉시 체력을 <<1>>회복합니다.\n\n변신하면 약공격이 체력을 <<3>>회복시키고, 풀차지한 강공격이 체력을 <<4>>회복시킵니다. 이 어빌리티의 효과는 최대체력에 비례해 변동합니다."
-
-#: 198758357-0-115001
-msgctxt "198758357-0-115001"
-msgid "Bone Goliath Transformation"
-msgstr "Bone Goliath Transformation"

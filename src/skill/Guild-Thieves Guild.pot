@@ -21,53 +21,43 @@ msgctxt "198758357-0-76461"
 msgid "Haggling"
 msgstr ""
 
-#: 132143172-0-76460
-msgctxt "132143172-0-76460"
-msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+#: 132143172-0-76451
+msgctxt "132143172-0-76451"
+msgid "When a guard accosts you, you may use Clemency once per day. If used, the Guard will not arrest you or take your money and stolen goods. Additionally, Guards will not attempt to accost you for  |cFFFFFF1|r minute after you use Clemency unless you commit other crimes."
 msgstr ""
 
-#: 198758357-0-76460
-msgctxt "198758357-0-76460"
-msgid "Haggling"
+#: 198758357-0-76451
+msgctxt "198758357-0-76451"
+msgid "Clemency"
 msgstr ""
 
-#: 132143172-0-76459
-msgctxt "132143172-0-76459"
-msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+#: 132143172-0-76452
+msgctxt "132143172-0-76452"
+msgid "When you have Bounty and are in combat, you have a chance to spot a ""Footpad"" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."
 msgstr ""
 
-#: 198758357-0-76459
-msgctxt "198758357-0-76459"
-msgid "Haggling"
+#: 198758357-0-76452
+msgctxt "198758357-0-76452"
+msgid "Timely Escape"
 msgstr ""
 
-#: 132143172-0-76458
-msgctxt "132143172-0-76458"
-msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+#: 132143172-0-76453
+msgctxt "132143172-0-76453"
+msgid "Decreases detection range of Witnesses and Guards by <<1>>. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you."
 msgstr ""
 
-#: 198758357-0-76458
-msgctxt "198758357-0-76458"
-msgid "Haggling"
+#: 198758357-0-76453
+msgctxt "198758357-0-76453"
+msgid "Veil of Shadows"
 msgstr ""
 
-#: 132143172-0-76457
-msgctxt "132143172-0-76457"
-msgid "Bounty is decreased by <<1>> after  |cFFFFFF3|r minutes.\nHeat is decreased by <<2>> after  |cFFFFFF3|r seconds."
+#: 132143172-0-76454
+msgctxt "132143172-0-76454"
+msgid "Bounty is decreased by <<1>> after  |cFFFFFF3|r minutes.\nHeat is decreased by <<2>> after |cFFFFFF3|r seconds."
 msgstr ""
 
-#: 198758357-0-76457
-msgctxt "198758357-0-76457"
-msgid "Swiftly Forgotten"
-msgstr ""
-
-#: 132143172-0-76456
-msgctxt "132143172-0-76456"
-msgid "Bounty is decreased by <<1>> after  |cFFFFFF3|r minutes.\nHeat is decreased by <<2>> after  |cFFFFFF3|r seconds."
-msgstr ""
-
-#: 198758357-0-76456
-msgctxt "198758357-0-76456"
+#: 198758357-0-76454
+msgctxt "198758357-0-76454"
 msgid "Swiftly Forgotten"
 msgstr ""
 
@@ -81,44 +71,54 @@ msgctxt "198758357-0-76455"
 msgid "Swiftly Forgotten"
 msgstr ""
 
-#: 132143172-0-76454
-msgctxt "132143172-0-76454"
-msgid "Bounty is decreased by <<1>> after  |cFFFFFF3|r minutes.\nHeat is decreased by <<2>> after |cFFFFFF3|r seconds."
+#: 132143172-0-76456
+msgctxt "132143172-0-76456"
+msgid "Bounty is decreased by <<1>> after  |cFFFFFF3|r minutes.\nHeat is decreased by <<2>> after  |cFFFFFF3|r seconds."
 msgstr ""
 
-#: 198758357-0-76454
-msgctxt "198758357-0-76454"
+#: 198758357-0-76456
+msgctxt "198758357-0-76456"
 msgid "Swiftly Forgotten"
 msgstr ""
 
-#: 132143172-0-76453
-msgctxt "132143172-0-76453"
-msgid "Decreases detection range of Witnesses and Guards by <<1>>. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you."
+#: 132143172-0-76457
+msgctxt "132143172-0-76457"
+msgid "Bounty is decreased by <<1>> after  |cFFFFFF3|r minutes.\nHeat is decreased by <<2>> after  |cFFFFFF3|r seconds."
 msgstr ""
 
-#: 198758357-0-76453
-msgctxt "198758357-0-76453"
-msgid "Veil of Shadows"
+#: 198758357-0-76457
+msgctxt "198758357-0-76457"
+msgid "Swiftly Forgotten"
 msgstr ""
 
-#: 132143172-0-76452
-msgctxt "132143172-0-76452"
-msgid "When you have Bounty and are in combat, you have a chance to spot a ""Footpad"" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."
+#: 132143172-0-76458
+msgctxt "132143172-0-76458"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
 msgstr ""
 
-#: 198758357-0-76452
-msgctxt "198758357-0-76452"
-msgid "Timely Escape"
+#: 198758357-0-76458
+msgctxt "198758357-0-76458"
+msgid "Haggling"
 msgstr ""
 
-#: 132143172-0-76451
-msgctxt "132143172-0-76451"
-msgid "When a guard accosts you, you may use Clemency once per day. If used, the Guard will not arrest you or take your money and stolen goods. Additionally, Guards will not attempt to accost you for  |cFFFFFF1|r minute after you use Clemency unless you commit other crimes."
+#: 132143172-0-76459
+msgctxt "132143172-0-76459"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
 msgstr ""
 
-#: 198758357-0-76451
-msgctxt "198758357-0-76451"
-msgid "Clemency"
+#: 198758357-0-76459
+msgctxt "198758357-0-76459"
+msgid "Haggling"
+msgstr ""
+
+#: 132143172-0-76460
+msgctxt "132143172-0-76460"
+msgid "Stolen items sold at a fence are worth <<1>> more. Does not apply to Laundering."
+msgstr ""
+
+#: 198758357-0-76460
+msgctxt "198758357-0-76460"
+msgid "Haggling"
 msgstr ""
 
 #: 132143172-0-74580

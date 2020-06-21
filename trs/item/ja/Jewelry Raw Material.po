@@ -11,36 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-135145
-msgctxt "228378404-0-135145"
-msgid "Ten of these items can be refined to make platinum ounces."
-msgstr "このアイテム10個でプラチナのオンスが作成できる。"
-
-#: 242841733-0-135145
-msgctxt "242841733-0-135145"
-msgid "platinum dust"
-msgstr "プラチナの粉末"
-
-#: 228378404-0-135143
-msgctxt "228378404-0-135143"
-msgid "Ten of these items can be refined to make electrum ounces."
-msgstr "このアイテム10個で琥珀金のオンスが作成できる。"
-
-#: 242841733-0-135143
-msgctxt "242841733-0-135143"
-msgid "electrum dust"
-msgstr "琥珀金の粉末"
-
-#: 228378404-0-135141
-msgctxt "228378404-0-135141"
-msgid "Ten of these items can be refined to make silver ounces."
-msgstr "このアイテム10個で銀のオンスが作成できる。"
-
-#: 242841733-0-135141
-msgctxt "242841733-0-135141"
-msgid "silver dust"
-msgstr "銀の粉末"
-
 #: 228378404-0-135139
 msgctxt "228378404-0-135139"
 msgid "Ten of these items can be refined to make copper ounces."
@@ -60,3 +30,33 @@ msgstr "このアイテム10個でピューターのオンスが作成できる�
 msgctxt "242841733-0-135137"
 msgid "pewter dust"
 msgstr "ピューターの粉末"
+
+#: 228378404-0-135143
+msgctxt "228378404-0-135143"
+msgid "Ten of these items can be refined to make electrum ounces."
+msgstr "このアイテム10個で琥珀金のオンスが作成できる。"
+
+#: 242841733-0-135143
+msgctxt "242841733-0-135143"
+msgid "electrum dust"
+msgstr "琥珀金の粉末"
+
+#: 228378404-0-135145
+msgctxt "228378404-0-135145"
+msgid "Ten of these items can be refined to make platinum ounces."
+msgstr "このアイテム10個でプラチナのオンスが作成できる。"
+
+#: 242841733-0-135145
+msgctxt "242841733-0-135145"
+msgid "platinum dust"
+msgstr "プラチナの粉末"
+
+#: 228378404-0-135141
+msgctxt "228378404-0-135141"
+msgid "Ten of these items can be refined to make silver ounces."
+msgstr "このアイテム10個で銀のオンスが作成できる。"
+
+#: 242841733-0-135141
+msgctxt "242841733-0-135141"
+msgid "silver dust"
+msgstr "銀の粉末"

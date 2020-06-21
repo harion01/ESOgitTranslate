@@ -11,6 +11,66 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-45269
+msgctxt "132143172-0-45269"
+msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
+msgstr "炎耐性が<<1>>上昇する。\r\n\r\n炎上のステータス効果が無効になる"
+
+#: 198758357-0-45269
+msgctxt "198758357-0-45269"
+msgid "Resist Flame"
+msgstr "炎耐性"
+
+#: 132143172-0-36591
+msgctxt "132143172-0-36591"
+msgid "Increases your Max Magicka and Max Stamina by <<1>>."
+msgstr "自身の最大マジカ値と最大スタミナ値が<<1>>増加する。"
+
+#: 198758357-0-36591
+msgctxt "198758357-0-36591"
+msgid "Dynamic"
+msgstr "精力"
+
+#: 132143172-0-36593
+msgctxt "132143172-0-36593"
+msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
+msgstr "炎耐性が<<1>>上昇する。\r\n\r\n炎上のステータス効果が無効になる"
+
+#: 198758357-0-36593
+msgctxt "198758357-0-36593"
+msgid "Resist Flame"
+msgstr "炎耐性"
+
+#: 132143172-0-45265
+msgctxt "132143172-0-45265"
+msgid "Increases your Max Magicka and Max Stamina by <<1>>."
+msgstr "自身の最大マジカ値と最大スタミナ値が<<1>>増加する。"
+
+#: 198758357-0-45265
+msgctxt "198758357-0-45265"
+msgid "Dynamic"
+msgstr "精力"
+
+#: 132143172-0-45267
+msgctxt "132143172-0-45267"
+msgid "Increases your Max Magicka and Max Stamina by <<1>>."
+msgstr "自身の最大マジカ値と最大スタミナ値が<<1>>増加する。"
+
+#: 198758357-0-45267
+msgctxt "198758357-0-45267"
+msgid "Dynamic"
+msgstr "精力"
+
+#: 132143172-0-36598
+msgctxt "132143172-0-36598"
+msgid "Increases your Weapon and Spell Damage by <<1>>."
+msgstr "武器と呪文ダメージが<<1>>増加する。"
+
+#: 198758357-0-36598
+msgctxt "198758357-0-36598"
+msgid "Ruination"
+msgstr "破滅"
+
 #: 132143172-0-45272
 msgctxt "132143172-0-45272"
 msgid "Increases your Weapon and Spell Damage by <<1>>."
@@ -20,6 +80,16 @@ msgstr "武器と呪文ダメージが<<1>>増加する。"
 msgctxt "198758357-0-45272"
 msgid "Ruination"
 msgstr "破滅"
+
+#: 132143172-0-36588
+msgctxt "132143172-0-36588"
+msgid "Increases your experience gain with the Dual Wield skill line by |cffffff15|r%.\n\nReduces your damage taken from environmental lava by <<1>>."
+msgstr "二刀流スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n溶岩からのダメージを<<1>>減少させる。"
+
+#: 198758357-0-36588
+msgctxt "198758357-0-36588"
+msgid "Ashlander"
+msgstr "アッシュランダー"
 
 #: 132143172-0-45271
 msgctxt "132143172-0-45271"
@@ -40,73 +110,3 @@ msgstr "炎耐性が<<1>>上昇する。\r\n\r\n炎上のステータス効果�
 msgctxt "198758357-0-45270"
 msgid "Resist Flame"
 msgstr "炎耐性"
-
-#: 132143172-0-45269
-msgctxt "132143172-0-45269"
-msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
-msgstr "炎耐性が<<1>>上昇する。\r\n\r\n炎上のステータス効果が無効になる"
-
-#: 198758357-0-45269
-msgctxt "198758357-0-45269"
-msgid "Resist Flame"
-msgstr "炎耐性"
-
-#: 132143172-0-45267
-msgctxt "132143172-0-45267"
-msgid "Increases your Max Magicka and Max Stamina by <<1>>."
-msgstr "自身の最大マジカ値と最大スタミナ値が<<1>>増加する。"
-
-#: 198758357-0-45267
-msgctxt "198758357-0-45267"
-msgid "Dynamic"
-msgstr "精力"
-
-#: 132143172-0-45265
-msgctxt "132143172-0-45265"
-msgid "Increases your Max Magicka and Max Stamina by <<1>>."
-msgstr "自身の最大マジカ値と最大スタミナ値が<<1>>増加する。"
-
-#: 198758357-0-45265
-msgctxt "198758357-0-45265"
-msgid "Dynamic"
-msgstr "精力"
-
-#: 132143172-0-36598
-msgctxt "132143172-0-36598"
-msgid "Increases your Weapon and Spell Damage by <<1>>."
-msgstr "武器と呪文ダメージが<<1>>増加する。"
-
-#: 198758357-0-36598
-msgctxt "198758357-0-36598"
-msgid "Ruination"
-msgstr "破滅"
-
-#: 132143172-0-36593
-msgctxt "132143172-0-36593"
-msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
-msgstr "炎耐性が<<1>>上昇する。\r\n\r\n炎上のステータス効果が無効になる"
-
-#: 198758357-0-36593
-msgctxt "198758357-0-36593"
-msgid "Resist Flame"
-msgstr "炎耐性"
-
-#: 132143172-0-36591
-msgctxt "132143172-0-36591"
-msgid "Increases your Max Magicka and Max Stamina by <<1>>."
-msgstr "自身の最大マジカ値と最大スタミナ値が<<1>>増加する。"
-
-#: 198758357-0-36591
-msgctxt "198758357-0-36591"
-msgid "Dynamic"
-msgstr "精力"
-
-#: 132143172-0-36588
-msgctxt "132143172-0-36588"
-msgid "Increases your experience gain with the Dual Wield skill line by |cffffff15|r%.\n\nReduces your damage taken from environmental lava by <<1>>."
-msgstr "二刀流スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n溶岩からのダメージを<<1>>減少させる。"
-
-#: 198758357-0-36588
-msgctxt "198758357-0-36588"
-msgid "Ashlander"
-msgstr "アッシュランダー"

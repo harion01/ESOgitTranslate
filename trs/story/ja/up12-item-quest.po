@@ -11,17 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 139139780-0-6093
+#: 139139780-0-6090
 #, fuzzy
-msgctxt "139139780-0-6093"
-msgid "A bantam guar with a rope collar. A wooden disc attached to the collar reads, ""Sir Scratch-Scales—In honor of the previous Sir Scratch-Scales. May his legend last longer than the rash that killed him."""
-msgstr "縄の首輪がついたコヒョウグアル。首輪についた木のディスクには「鱗ひっかき卿 - 先の鱗ひっかき卿に敬意を表して。彼が残した多くの伝説は、彼を殺した発疹よりも長く続くだろう」と書かれている"
+msgctxt "139139780-0-6090"
+msgid "A bantam guar with a rope collar. A wooden disc attached to the collar reads, ""Pouncer—In honor of the previous Pouncer. who still bounds through our hearts."""
+msgstr "縄の首輪がついたコヒョウグアル。首輪についた木のディスクには「パウンサー - 今だ心に残る、先のパウンサーに敬意を表して」と書かれている"
 
-#: 267697733-0-6093
-#, fuzzy
-msgctxt "267697733-0-6093"
-msgid "Sir Scratch-Scales"
-msgstr "鱗ひっかき卿"
+#: 267697733-0-6090
+msgctxt "267697733-0-6090"
+msgid "Pouncer"
+msgstr "パウンサー"
 
 #: 139139780-0-6092
 #, fuzzy
@@ -34,13 +33,14 @@ msgctxt "267697733-0-6092"
 msgid "Wobble-Claw"
 msgstr "水かき爪"
 
-#: 139139780-0-6090
+#: 139139780-0-6093
 #, fuzzy
-msgctxt "139139780-0-6090"
-msgid "A bantam guar with a rope collar. A wooden disc attached to the collar reads, ""Pouncer—In honor of the previous Pouncer. who still bounds through our hearts."""
-msgstr "縄の首輪がついたコヒョウグアル。首輪についた木のディスクには「パウンサー - 今だ心に残る、先のパウンサーに敬意を表して」と書かれている"
+msgctxt "139139780-0-6093"
+msgid "A bantam guar with a rope collar. A wooden disc attached to the collar reads, ""Sir Scratch-Scales—In honor of the previous Sir Scratch-Scales. May his legend last longer than the rash that killed him."""
+msgstr "縄の首輪がついたコヒョウグアル。首輪についた木のディスクには「鱗ひっかき卿 - 先の鱗ひっかき卿に敬意を表して。彼が残した多くの伝説は、彼を殺した発疹よりも長く続くだろう」と書かれている"
 
-#: 267697733-0-6090
-msgctxt "267697733-0-6090"
-msgid "Pouncer"
-msgstr "パウンサー"
+#: 267697733-0-6093
+#, fuzzy
+msgctxt "267697733-0-6093"
+msgid "Sir Scratch-Scales"
+msgstr "鱗ひっかき卿"

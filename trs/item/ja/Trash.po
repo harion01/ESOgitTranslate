@@ -11,20 +11,85 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 242841733-0-64467
-msgctxt "242841733-0-64467"
-msgid "Ash"
-msgstr "灰"
+#: 242841733-0-166961
+msgctxt "242841733-0-166961"
+msgid "Stony Sliver"
+msgstr "石質の銀"
+
+#: 242841733-0-57620
+msgctxt "242841733-0-57620"
+msgid "Charcoal"
+msgstr "木炭(大)"
+
+#: 242841733-0-127105
+msgctxt "242841733-0-127105"
+msgid "Clockwork Oscillator"
+msgstr "クロックワーク発振器"
+
+#: 242841733-0-54383
+msgctxt "242841733-0-54383"
+msgid "Daedra Husk"
+msgstr "デイドラのハスク"
+
+#: 242841733-0-54382
+msgctxt "242841733-0-54382"
+msgid "Carapace"
+msgstr "甲羅"
+
+#: 242841733-0-54381
+msgctxt "242841733-0-54381"
+msgid "Foul Hide"
+msgstr "フォウルハイド"
 
 #: 242841733-0-64210
 msgctxt "242841733-0-64210"
 msgid "Vampire Fang"
 msgstr "吸血鬼の牙"
 
-#: 242841733-0-42878
-msgctxt "242841733-0-42878"
-msgid "Used Bait"
-msgstr "使い古しの餌"
+#: 242841733-0-163427
+msgctxt "242841733-0-163427"
+msgid "Ruined Chaurus Egg"
+msgstr "割れたシャウラスの卵"
+
+#: 242841733-0-57659
+msgctxt "242841733-0-57659"
+msgid "Gnawed Bone"
+msgstr "かじられた骨"
+
+#: 242841733-0-54387
+msgctxt "242841733-0-54387"
+msgid "Membrane"
+msgstr "皮膜"
+
+#: 242841733-0-54386
+msgctxt "242841733-0-54386"
+msgid "Dwarven Gear"
+msgstr "ドワーフのギア"
+
+#: 242841733-0-54385
+msgctxt "242841733-0-54385"
+msgid "Elemental Essence"
+msgstr "属性のエキス"
+
+#: 242841733-0-54384
+msgctxt "242841733-0-54384"
+msgid "Ectoplasm"
+msgstr "エクトプラズム"
+
+#: 242841733-0-54388
+msgctxt "242841733-0-54388"
+msgid "Supple Root"
+msgstr "しなやかな根"
+
+#: 242841733-0-64209
+msgctxt "242841733-0-64209"
+msgid "Vampire Dust"
+msgstr "吸血鬼の灰"
+
+#: 242841733-0-64467
+msgctxt "242841733-0-64467"
+msgid "Ash"
+msgstr "灰"
 
 #: 228378404-0-30332
 msgctxt "228378404-0-30332"
@@ -77,6 +142,16 @@ msgctxt "242841733-0-30328"
 msgid "Broken Shovel"
 msgstr "壊れたシャベル"
 
+#: 228378404-0-30325
+msgctxt "228378404-0-30325"
+msgid "The ink on this page is too faded to make out the words."
+msgstr "このページのインクはかすれ過ぎて字が判別できない。"
+
+#: 242841733-0-30325
+msgctxt "242841733-0-30325"
+msgid "Torn Page"
+msgstr "破れたページ"
+
 #: 228378404-0-30327
 msgctxt "228378404-0-30327"
 msgid "This wine bottle is empty."
@@ -97,77 +172,12 @@ msgctxt "242841733-0-30326"
 msgid "Tarnished Wedding Band"
 msgstr "汚されたウェディングバンド"
 
-#: 228378404-0-30325
-msgctxt "228378404-0-30325"
-msgid "The ink on this page is too faded to make out the words."
-msgstr "このページのインクはかすれ過ぎて字が判別できない。"
-
-#: 242841733-0-30325
-msgctxt "242841733-0-30325"
-msgid "Torn Page"
-msgstr "破れたページ"
-
-#: 242841733-0-127105
-msgctxt "242841733-0-127105"
-msgid "Clockwork Oscillator"
-msgstr "クロックワーク発振器"
-
-#: 242841733-0-64209
-msgctxt "242841733-0-64209"
-msgid "Vampire Dust"
-msgstr "吸血鬼の灰"
-
-#: 242841733-0-57659
-msgctxt "242841733-0-57659"
-msgid "Gnawed Bone"
-msgstr "かじられた骨"
-
-#: 242841733-0-57620
-msgctxt "242841733-0-57620"
-msgid "Charcoal"
-msgstr "木炭(大)"
-
-#: 242841733-0-54388
-msgctxt "242841733-0-54388"
-msgid "Supple Root"
-msgstr "しなやかな根"
-
-#: 242841733-0-54387
-msgctxt "242841733-0-54387"
-msgid "Membrane"
-msgstr "皮膜"
-
-#: 242841733-0-54386
-msgctxt "242841733-0-54386"
-msgid "Dwarven Gear"
-msgstr "ドワーフのギア"
-
-#: 242841733-0-54385
-msgctxt "242841733-0-54385"
-msgid "Elemental Essence"
-msgstr "属性のエキス"
-
-#: 242841733-0-54384
-msgctxt "242841733-0-54384"
-msgid "Ectoplasm"
-msgstr "エクトプラズム"
-
-#: 242841733-0-54383
-msgctxt "242841733-0-54383"
-msgid "Daedra Husk"
-msgstr "デイドラのハスク"
-
-#: 242841733-0-54382
-msgctxt "242841733-0-54382"
-msgid "Carapace"
-msgstr "甲羅"
-
-#: 242841733-0-54381
-msgctxt "242841733-0-54381"
-msgid "Foul Hide"
-msgstr "フォウルハイド"
-
 #: 228378404-0-42878
 msgctxt "228378404-0-42878"
 msgid "There is no longer enough of this soggy bait to use for fishing."
 msgstr "この元気のない餌はもはや釣りには使えない。"
+
+#: 242841733-0-42878
+msgctxt "242841733-0-42878"
+msgid "Used Bait"
+msgstr "使い古しの餌"

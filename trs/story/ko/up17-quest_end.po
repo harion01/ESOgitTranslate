@@ -11,6 +11,17 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 116521668-0-13154
+#, fuzzy
+msgctxt "116521668-0-13154"
+msgid "You know, facing off against a foe? Well, that's just another day for us. Facing off against a plague? Now that takes some guts.\n\nThere's a few Undaunted who would even consider this pledge, but here you are. I'd say a reward is in order."
+msgstr "적에 맞서 싸우는 거 알지? 음, 그건 우리에게 또 다른 날입니다. 역병에 맞서 싸우고 있니? 이제 그 일에는 용기가 필요합니다.\n\n이 서약을 누가 생각할 지 모르지만, 여기 있습니다. 나는 보상이 필요하다고 말하고 싶다.-G-"
+
+#: 232026500-0-13154
+msgctxt "232026500-0-13154"
+msgid "What's my reward for clearing Scalecaller Peak?"
+msgstr "비늘소환자 봉우리를 공략한 보상은 뭐죠?"
+
 #: 116521668-0-13232
 msgctxt "116521668-0-13232"
 msgid "We'll show Marieve the hospitality of the Mages Guild. Make sure she's fully recovered from her ordeal. Then I get her back home.\n\nThanks for your aid in this matter. I may not be an oracle, but I have a feeling we'll see each other again, my friend."
@@ -21,49 +32,6 @@ msgctxt "232026500-0-13232"
 msgid "What happens to the Oracle now?"
 msgstr "이제 예언자는 어떻게 되는건가요?"
 
-#: 116521668-0-13212
-msgctxt "116521668-0-13212"
-msgid "Cake? I don't know. This one came out so well, I might just keep it for myself.\n\nJust kidding! You earned this special cake. Wait until you taste it! I think you're going to be pleasantly surprised."
-msgstr "케이크? 잘 모르겠는걸. 이건 너무 잘 만들었어. 나 혼자만 먹어야겠는데.\n\n농담일세! 이 특별 케이크를 가져가게나. 어서 먹어 보게! 분명히 그 맛에 깜짝 놀라게 될 게야."
-
-#: 232026500-0-13212
-msgctxt "232026500-0-13212"
-msgid "Can I have my cake now?"
-msgstr "이제 케이크를 받아도 될까요?"
-
-#: 116521668-0-13159
-#, fuzzy
-msgctxt "116521668-0-13159"
-msgid "When I sent you to kill that lot of necromancers, I didn't expect you'd get to tangle with anything as nasty as a Dragon! Dead or not, I'm jealous.\n\nYou're gonna tell me all about it over drinks sometime. Take your key and cut, Dragon Slayer."
-msgstr "네크로맨서를 많이 죽이려고 당신을 보냈을 때, 드래곤처럼 심술 궂은 걸로 뒤죽박죽을 당할 것 같지 않았습니다! 죽었 든 안가 든, 나는 질투한다.\n\n 언젠가는 음료에 관해서 나에게 그것에 대해 모두 말해 줄거야. 열쇠를 가져와 드래곤 슬레이어를 자르십시오.-G-"
-
-#: 232026500-0-13159
-msgctxt "232026500-0-13159"
-msgid "What's my reward for clearing Fang Lair?"
-msgstr "송곳니 둥지를 공략한 보상은 뭐죠?"
-
-#: 116521668-0-13158
-#, fuzzy
-msgctxt "116521668-0-13158"
-msgid "I'll tell Yisareh she'll need to find more than brittle bones and pasty necromancers for future pledges. They don't put up enough of a fuss.\n\nFor turning Fang Lair back into a plain old graveyard. You've earned your key and your cut."
-msgstr "나는 Yisareh에게 미래의 약속을 위해 부서지기 쉬운 뼈와 반죽이 많은 necromancers를 찾아야한다고 말할 것입니다. 그들은 충분히 소란스럽지 않습니다.\n\n 송곳니를 평범한 옛 묘지로 되돌리려면. 당신은 당신의 열쇠와 당신의 상처를 얻었습니다.-G-"
-
-#: 232026500-0-13158
-msgctxt "232026500-0-13158"
-msgid "What's my reward for clearing Fang Lair?"
-msgstr "송곳니 둥지를 공략한 보상은 뭐죠?"
-
-#: 116521668-0-13157
-#, fuzzy
-msgctxt "116521668-0-13157"
-msgid "I don't think it gets better than letting a schemer finish their master plan to perfection, then kicking the whole thing over! Did he cry? Haha!\n\nFor killing Orryn the Black and smashing his pet Thurvokun to pieces, you've earned your key and cut!"
-msgstr "나는 계획가가 완벽에 이르기까지 마스터 플랜을 마친 다음, 모든 일을 끝내는 것보다 더 낫다고 생각하지 않습니다! 그가 울었습니까? 하하!\n\n Orryn the Black을 죽이고 그의 애완 동물 인 Thurvokun을 조각 들기 위해, 당신은 당신의 열쇠를 얻고 자했습니다!-G-"
-
-#: 232026500-0-13157
-msgctxt "232026500-0-13157"
-msgid "What's my reward for clearing Fang Lair?"
-msgstr "송곳니 둥지를 공략한 보상은 뭐죠?"
-
 #: 116521668-0-13155
 #, fuzzy
 msgctxt "116521668-0-13155"
@@ -72,17 +40,6 @@ msgstr "그 산의 생물들은 옳지 않다고 들었습니다. 이 병에 걸
 
 #: 232026500-0-13155
 msgctxt "232026500-0-13155"
-msgid "What's my reward for clearing Scalecaller Peak?"
-msgstr "비늘소환자 봉우리를 공략한 보상은 뭐죠?"
-
-#: 116521668-0-13154
-#, fuzzy
-msgctxt "116521668-0-13154"
-msgid "You know, facing off against a foe? Well, that's just another day for us. Facing off against a plague? Now that takes some guts.\n\nThere's a few Undaunted who would even consider this pledge, but here you are. I'd say a reward is in order."
-msgstr "적에 맞서 싸우는 거 알지? 음, 그건 우리에게 또 다른 날입니다. 역병에 맞서 싸우고 있니? 이제 그 일에는 용기가 필요합니다.\n\n이 서약을 누가 생각할 지 모르지만, 여기 있습니다. 나는 보상이 필요하다고 말하고 싶다.-G-"
-
-#: 232026500-0-13154
-msgctxt "232026500-0-13154"
 msgid "What's my reward for clearing Scalecaller Peak?"
 msgstr "비늘소환자 봉우리를 공략한 보상은 뭐죠?"
 
@@ -97,16 +54,6 @@ msgctxt "232026500-0-13153"
 msgid "What's my reward for clearing Scalecaller Peak?"
 msgstr "비늘소환자 봉우리를 공략한 보상은 뭐죠?"
 
-#: 116521668-0-12931
-msgctxt "116521668-0-12931"
-msgid "We'll show Marieve the hospitality of the Mages Guild and make sure she's fully recovered from her ordeal. Then I'll make sure to get her back home.\n\nThanks for your aid in this matter. Now get to Summerset and do what you do best, my friend!"
-msgstr "우리 메이지 길드가 마리브를 돌봐 줄 것이네. 그리고 그녀가 완전히 회복되었는지 확인하고 그녀를 집으로 돌려보내 줄 거라네.\n\n이 일을 도와주어 고맙네. 이제 서머셋에 가서도 최선을 다해주게, 친구!"
-
-#: 232026500-0-12931
-msgctxt "232026500-0-12931"
-msgid "What happens to the Oracle now?"
-msgstr "이제 예언자는 어떻게 되는건가요?"
-
 #: 116521668-0-12861
 msgctxt "116521668-0-12861"
 msgid "With the cult defeated and the bodies burned, there should be no way for the illness to spread. All thanks to you, of course.\n\nNow, as for my part, I will ensure that Scalecaller's soul can never return again."
@@ -116,6 +63,49 @@ msgstr "숭배자들이 격퇴되고 시체도 다 태웠으니, 역병이 퍼�
 msgctxt "232026500-0-12861"
 msgid "And the plague?"
 msgstr "그리고 역병은?"
+
+#: 116521668-0-13158
+#, fuzzy
+msgctxt "116521668-0-13158"
+msgid "I'll tell Yisareh she'll need to find more than brittle bones and pasty necromancers for future pledges. They don't put up enough of a fuss.\n\nFor turning Fang Lair back into a plain old graveyard. You've earned your key and your cut."
+msgstr "나는 Yisareh에게 미래의 약속을 위해 부서지기 쉬운 뼈와 반죽이 많은 necromancers를 찾아야한다고 말할 것입니다. 그들은 충분히 소란스럽지 않습니다.\n\n 송곳니를 평범한 옛 묘지로 되돌리려면. 당신은 당신의 열쇠와 당신의 상처를 얻었습니다.-G-"
+
+#: 232026500-0-13158
+msgctxt "232026500-0-13158"
+msgid "What's my reward for clearing Fang Lair?"
+msgstr "송곳니 둥지를 공략한 보상은 뭐죠?"
+
+#: 116521668-0-13159
+#, fuzzy
+msgctxt "116521668-0-13159"
+msgid "When I sent you to kill that lot of necromancers, I didn't expect you'd get to tangle with anything as nasty as a Dragon! Dead or not, I'm jealous.\n\nYou're gonna tell me all about it over drinks sometime. Take your key and cut, Dragon Slayer."
+msgstr "네크로맨서를 많이 죽이려고 당신을 보냈을 때, 드래곤처럼 심술 궂은 걸로 뒤죽박죽을 당할 것 같지 않았습니다! 죽었 든 안가 든, 나는 질투한다.\n\n 언젠가는 음료에 관해서 나에게 그것에 대해 모두 말해 줄거야. 열쇠를 가져와 드래곤 슬레이어를 자르십시오.-G-"
+
+#: 232026500-0-13159
+msgctxt "232026500-0-13159"
+msgid "What's my reward for clearing Fang Lair?"
+msgstr "송곳니 둥지를 공략한 보상은 뭐죠?"
+
+#: 116521668-0-13212
+msgctxt "116521668-0-13212"
+msgid "Cake? I don't know. This one came out so well, I might just keep it for myself.\n\nJust kidding! You earned this special cake. Wait until you taste it! I think you're going to be pleasantly surprised."
+msgstr "케이크? 잘 모르겠는걸. 이건 너무 잘 만들었어. 나 혼자만 먹어야겠는데.\n\n농담일세! 이 특별 케이크를 가져가게나. 어서 먹어 보게! 분명히 그 맛에 깜짝 놀라게 될 게야."
+
+#: 232026500-0-13212
+msgctxt "232026500-0-13212"
+msgid "Can I have my cake now?"
+msgstr "이제 케이크를 받아도 될까요?"
+
+#: 116521668-0-13157
+#, fuzzy
+msgctxt "116521668-0-13157"
+msgid "I don't think it gets better than letting a schemer finish their master plan to perfection, then kicking the whole thing over! Did he cry? Haha!\n\nFor killing Orryn the Black and smashing his pet Thurvokun to pieces, you've earned your key and cut!"
+msgstr "나는 계획가가 완벽에 이르기까지 마스터 플랜을 마친 다음, 모든 일을 끝내는 것보다 더 낫다고 생각하지 않습니다! 그가 울었습니까? 하하!\n\n Orryn the Black을 죽이고 그의 애완 동물 인 Thurvokun을 조각 들기 위해, 당신은 당신의 열쇠를 얻고 자했습니다!-G-"
+
+#: 232026500-0-13157
+msgctxt "232026500-0-13157"
+msgid "What's my reward for clearing Fang Lair?"
+msgstr "송곳니 둥지를 공략한 보상은 뭐죠?"
 
 #: 116521668-0-12860
 #, fuzzy
@@ -127,3 +117,13 @@ msgstr "오, 나는 내 소매를 몇 가지 트릭을 가지고 있지만, 먼�
 msgctxt "232026500-0-12860"
 msgid "How do you plan to do that?"
 msgstr "이제 어떻게 할 계획입니까?"
+
+#: 116521668-0-12931
+msgctxt "116521668-0-12931"
+msgid "We'll show Marieve the hospitality of the Mages Guild and make sure she's fully recovered from her ordeal. Then I'll make sure to get her back home.\n\nThanks for your aid in this matter. Now get to Summerset and do what you do best, my friend!"
+msgstr "우리 메이지 길드가 마리브를 돌봐 줄 것이네. 그리고 그녀가 완전히 회복되었는지 확인하고 그녀를 집으로 돌려보내 줄 거라네.\n\n이 일을 도와주어 고맙네. 이제 서머셋에 가서도 최선을 다해주게, 친구!"
+
+#: 232026500-0-12931
+msgctxt "232026500-0-12931"
+msgid "What happens to the Oracle now?"
+msgstr "이제 예언자는 어떻게 되는건가요?"

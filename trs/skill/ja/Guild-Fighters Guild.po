@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-40372
+msgctxt "132143172-0-40372"
+msgid "Launch a sharpened blade trap at a target location, which takes |cffffff1.5|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the trap deals <<2>>, an additional <<3>> over <<4>>, and grants you Minor Force, increasing your Critical Damage by <<5>> for the duration.\n\nEnemies who activate the trap are immobilized for <<6>>."
+msgstr "狙った位置に鋭利な刃の罠を仕掛ける。発動まで|cffffff1.5|r秒かかり、<<1>>の間続く。\r\n\r\n罠の起動時に<<2>>を与え、追加で<<3>>を<<4>>の間与える。さらに、フォース(弱)を獲得し、クリティカルダメージを<<5>>増加させる。\r\n\r\n罠を起動した敵は<<6>>の間移動不能になる。"
+
+#: 198758357-0-40372
+msgctxt "198758357-0-40372"
+msgid "Lightweight Beast Trap"
+msgstr "軽量化トラップ"
+
 #: 132143172-0-45599
 msgctxt "132143172-0-45599"
 msgid "You generate <<1>> Ultimate when you kill an Undead, Daedra or Werewolf."
@@ -20,36 +30,6 @@ msgstr "アンデッド、デイドラ、ウェアウルフを倒すと<<1>>ア�
 msgctxt "198758357-0-45599"
 msgid "Banish the Wicked"
 msgstr "邪悪退散"
-
-#: 132143172-0-45597
-msgctxt "132143172-0-45597"
-msgid "You generate <<1>> Ultimate when you kill an Undead, Daedra or Werewolf."
-msgstr "アンデッド、デイドラ、ウェアウルフを倒すと<<1>>アルティマを獲得する。"
-
-#: 198758357-0-45597
-msgctxt "198758357-0-45597"
-msgid "Banish the Wicked"
-msgstr "邪悪退散"
-
-#: 132143172-0-45596
-msgctxt "132143172-0-45596"
-msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "スロットに装備している戦士ギルドアビリティ1つにつき、武器ダメージが<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-45596
-msgctxt "198758357-0-45596"
-msgid "Slayer"
-msgstr "スレイヤー"
-
-#: 132143172-0-45595
-msgctxt "132143172-0-45595"
-msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>"
-msgstr "スロットに装備している戦士ギルドアビリティ1つにつき、武器ダメージが<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-45595
-msgctxt "198758357-0-45595"
-msgid "Slayer"
-msgstr "スレイヤー"
 
 #: 132143172-0-40393
 msgctxt "132143172-0-40393"
@@ -71,36 +51,6 @@ msgctxt "198758357-0-40382"
 msgid "Barbed Trap"
 msgstr "有刺トラップ"
 
-#: 132143172-0-40372
-msgctxt "132143172-0-40372"
-msgid "Launch a sharpened blade trap at a target location, which takes |cffffff1.5|r seconds to arm and lasts for <<1>>.\n\nWhen triggered, the trap deals <<2>>, an additional <<3>> over <<4>>, and grants you Minor Force, increasing your Critical Damage by <<5>> for the duration.\n\nEnemies who activate the trap are immobilized for <<6>>."
-msgstr "狙った位置に鋭利な刃の罠を仕掛ける。発動まで|cffffff1.5|r秒かかり、<<1>>の間続く。\r\n\r\n罠の起動時に<<2>>を与え、追加で<<3>>を<<4>>の間与える。さらに、フォース(弱)を獲得し、クリティカルダメージを<<5>>増加させる。\r\n\r\n罠を起動した敵は<<6>>の間移動不能になる。"
-
-#: 198758357-0-40372
-msgctxt "198758357-0-40372"
-msgid "Lightweight Beast Trap"
-msgstr "軽量化トラップ"
-
-#: 132143172-0-40336
-msgctxt "132143172-0-40336"
-msgid "Fire a Dawnguard's crossbow hook to pull an enemy to you, dealing <<1>>, and reducing their Movement Speed by <<2>> for <<3>>."
-msgstr "ドーンガードのクロスボウフックをを撃ち、敵を目前に引き寄せる。<<1>>を与え、移動速度を<<2>>、<<3>>の間減速させる。"
-
-#: 198758357-0-40336
-msgctxt "198758357-0-40336"
-msgid "Silver Leash"
-msgstr "拘束の銀矢"
-
-#: 132143172-0-40300
-msgctxt "132143172-0-40300"
-msgid "Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>.\n\nFires additional bolts at other enemies near the initial target for <<2>> less damage."
-msgstr "ドーンガードの吸血鬼ハンターのクロスボウを撃ち、敵に<<1>>を与える。\r\n\r\n当初のターゲット近くにいる他の敵にも追加で発射でき、<<2>>減少したダメージを与える。"
-
-#: 198758357-0-40300
-msgctxt "198758357-0-40300"
-msgid "Silver Shards"
-msgstr "銀矢の欠片"
-
 #: 132143172-0-40195
 msgctxt "132143172-0-40195"
 msgid "Invoke your expertise in anatomy and enemy behavior to detect stealthed and invisible enemies around you for <<1>>. Exposed enemies cannot return to stealth or invisibility for <<2>>.\n\nWhile slotted you gain <<3>>, increasing your Weapon Critical rating by <<4>>. You also gain <<5>> for <<6>> after you deal Critical Damage from an enemy's flank, increasing your damage done by <<7>> ."
@@ -121,15 +71,65 @@ msgctxt "198758357-0-40194"
 msgid "Evil Hunter"
 msgstr "対魔ハンター"
 
-#: 132143172-0-40181
-msgctxt "132143172-0-40181"
-msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>.\n\nUpon activation, enemies in the area are feared for <<6>>."
-msgstr "自分の位置で守りのルーンを使って大地に<<1>>の間焼き印を押す。自身と範囲内の味方は<<2>>と<<3>>を獲得し、被ダメージが<<4>>減少し、スタミナ再生が<<5>>増加する。\r\n\r\n発動時、範囲内の敵は<<6>>の間恐怖を植え付けられる。"
+#: 132143172-0-40161
+msgctxt "132143172-0-40161"
+msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>.\n\nAfter activating, your Weapon Damage is increased by <<4>> for <<5>>."
+msgstr "メリディアの聖なる剣で武装して天罰を下し、目の前の敵に<<1>>と追加の<<2>>を<<3>>の間与える。\r\n\r\n発動後、自分の武器ダメージが<<4>>、<<5>>の間上昇する。"
 
-#: 198758357-0-40181
-msgctxt "198758357-0-40181"
-msgid "Turn Evil"
-msgstr "悪への転向"
+#: 198758357-0-40161
+msgctxt "198758357-0-40161"
+msgid "Flawless Dawnbreaker"
+msgstr "至高なる破壊者"
+
+#: 132143172-0-40300
+msgctxt "132143172-0-40300"
+msgid "Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>.\n\nFires additional bolts at other enemies near the initial target for <<2>> less damage."
+msgstr "ドーンガードの吸血鬼ハンターのクロスボウを撃ち、敵に<<1>>を与える。\r\n\r\n当初のターゲット近くにいる他の敵にも追加で発射でき、<<2>>減少したダメージを与える。"
+
+#: 198758357-0-40300
+msgctxt "198758357-0-40300"
+msgid "Silver Shards"
+msgstr "銀矢の欠片"
+
+#: 132143172-0-45596
+msgctxt "132143172-0-45596"
+msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している戦士ギルドアビリティ1つにつき、武器ダメージが<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45596
+msgctxt "198758357-0-45596"
+msgid "Slayer"
+msgstr "スレイヤー"
+
+#: 132143172-0-45595
+msgctxt "132143172-0-45595"
+msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>"
+msgstr "スロットに装備している戦士ギルドアビリティ1つにつき、武器ダメージが<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-45595
+msgctxt "198758357-0-45595"
+msgid "Slayer"
+msgstr "スレイヤー"
+
+#: 132143172-0-45597
+msgctxt "132143172-0-45597"
+msgid "You generate <<1>> Ultimate when you kill an Undead, Daedra or Werewolf."
+msgstr "アンデッド、デイドラ、ウェアウルフを倒すと<<1>>アルティマを獲得する。"
+
+#: 198758357-0-45597
+msgctxt "198758357-0-45597"
+msgid "Banish the Wicked"
+msgstr "邪悪退散"
+
+#: 132143172-0-40336
+msgctxt "132143172-0-40336"
+msgid "Fire a Dawnguard's crossbow hook to pull an enemy to you, dealing <<1>>, and reducing their Movement Speed by <<2>> for <<3>>."
+msgstr "ドーンガードのクロスボウフックをを撃ち、敵を目前に引き寄せる。<<1>>を与え、移動速度を<<2>>、<<3>>の間減速させる。"
+
+#: 198758357-0-40336
+msgctxt "198758357-0-40336"
+msgid "Silver Leash"
+msgstr "拘束の銀矢"
 
 #: 132143172-0-40169
 msgctxt "132143172-0-40169"
@@ -141,16 +141,6 @@ msgctxt "198758357-0-40169"
 msgid "Ring of Preservation"
 msgstr "保護の輪"
 
-#: 132143172-0-40161
-msgctxt "132143172-0-40161"
-msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>.\n\nAfter activating, your Weapon Damage is increased by <<4>> for <<5>>."
-msgstr "メリディアの聖なる剣で武装して天罰を下し、目の前の敵に<<1>>と追加の<<2>>を<<3>>の間与える。\r\n\r\n発動後、自分の武器ダメージが<<4>>、<<5>>の間上昇する。"
-
-#: 198758357-0-40161
-msgctxt "198758357-0-40161"
-msgid "Flawless Dawnbreaker"
-msgstr "至高なる破壊者"
-
 #: 132143172-0-40158
 msgctxt "132143172-0-40158"
 msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you, an additional <<2>> over <<3>>, and stunning them for <<4>>."
@@ -161,25 +151,15 @@ msgctxt "198758357-0-40158"
 msgid "Dawnbreaker of Smiting"
 msgstr "強撃の破壊者"
 
-#: 132143172-0-35804
-msgctxt "132143172-0-35804"
-msgid "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."
-msgstr "シロディールにある戦士ギルドから賞金クエストの依頼を受けられるようになる。"
+#: 132143172-0-35713
+msgctxt "132143172-0-35713"
+msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>."
+msgstr "メリディアの聖なる剣を使ってその復讐を果たす。目の前にいる敵に即座に<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。"
 
-#: 198758357-0-35804
-msgctxt "198758357-0-35804"
-msgid "Bounty Hunter"
-msgstr "賞金稼ぎ"
-
-#: 132143172-0-35803
-msgctxt "132143172-0-35803"
-msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "スロットに装備している戦士ギルドアビリティ1つにつき、武器ダメージが<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-35803
-msgctxt "198758357-0-35803"
-msgid "Slayer"
-msgstr "スレイヤー"
+#: 198758357-0-35713
+msgctxt "198758357-0-35713"
+msgid "Dawnbreaker"
+msgstr "暁の破壊者"
 
 #: 132143172-0-35800
 msgctxt "132143172-0-35800"
@@ -190,6 +170,16 @@ msgstr "アンデッド、デイドラ、ウェアウルフを倒すと<<1>>ア�
 msgctxt "198758357-0-35800"
 msgid "Banish the Wicked"
 msgstr "邪悪退散"
+
+#: 132143172-0-35721
+msgctxt "132143172-0-35721"
+msgid "Fire a Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>."
+msgstr "ドーンガードの吸血鬼ハンターのクロスボウを撃ち、敵に<<1>>を与える。"
+
+#: 198758357-0-35721
+msgctxt "198758357-0-35721"
+msgid "Silver Bolts"
+msgstr "シルバーボルト"
 
 #: 132143172-0-35762
 msgctxt "132143172-0-35762"
@@ -211,35 +201,25 @@ msgctxt "198758357-0-35750"
 msgid "Trap Beast"
 msgstr "獣罠"
 
-#: 132143172-0-35737
-msgctxt "132143172-0-35737"
-msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>."
-msgstr "防御のルーンを足下に<<1>>の間刻み込む。範囲内にいる味方には<<2>>と<<3>>が付与され、被ダメージが<<4>>減少してスタミナ再生が<<5>>増加する。"
+#: 132143172-0-40181
+msgctxt "132143172-0-40181"
+msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>.\n\nUpon activation, enemies in the area are feared for <<6>>."
+msgstr "自分の位置で守りのルーンを使って大地に<<1>>の間焼き印を押す。自身と範囲内の味方は<<2>>と<<3>>を獲得し、被ダメージが<<4>>減少し、スタミナ再生が<<5>>増加する。\r\n\r\n発動時、範囲内の敵は<<6>>の間恐怖を植え付けられる。"
 
-#: 198758357-0-35737
-msgctxt "198758357-0-35737"
-msgid "Circle of Protection"
-msgstr "守護のサークル"
+#: 198758357-0-40181
+msgctxt "198758357-0-40181"
+msgid "Turn Evil"
+msgstr "悪への転向"
 
-#: 132143172-0-35721
-msgctxt "132143172-0-35721"
-msgid "Fire a Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing <<1>>."
-msgstr "ドーンガードの吸血鬼ハンターのクロスボウを撃ち、敵に<<1>>を与える。"
+#: 132143172-0-35804
+msgctxt "132143172-0-35804"
+msgid "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."
+msgstr "シロディールにある戦士ギルドから賞金クエストの依頼を受けられるようになる。"
 
-#: 198758357-0-35721
-msgctxt "198758357-0-35721"
-msgid "Silver Bolts"
-msgstr "シルバーボルト"
-
-#: 132143172-0-35713
-msgctxt "132143172-0-35713"
-msgid "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing <<1>> to enemies in front of you and an additional <<2>> over <<3>>."
-msgstr "メリディアの聖なる剣を使ってその復讐を果たす。目の前にいる敵に即座に<<1>>を与えた後、追加で<<2>>を<<3>>の間与える。"
-
-#: 198758357-0-35713
-msgctxt "198758357-0-35713"
-msgid "Dawnbreaker"
-msgstr "暁の破壊者"
+#: 198758357-0-35804
+msgctxt "198758357-0-35804"
+msgid "Bounty Hunter"
+msgstr "賞金稼ぎ"
 
 #: 132143172-0-29062
 msgctxt "132143172-0-29062"
@@ -250,3 +230,23 @@ msgstr "会話中にNPCを威嚇できる。\r\n\r\n戦士ギルドアビリテ�
 msgctxt "198758357-0-29062"
 msgid "Intimidating Presence"
 msgstr "威圧"
+
+#: 132143172-0-35803
+msgctxt "132143172-0-35803"
+msgid "Increases your Weapon Damage by <<1>> for each Fighters Guild ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "スロットに装備している戦士ギルドアビリティ1つにつき、武器ダメージが<<1>>上昇する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-35803
+msgctxt "198758357-0-35803"
+msgid "Slayer"
+msgstr "スレイヤー"
+
+#: 132143172-0-35737
+msgctxt "132143172-0-35737"
+msgid "Brand the earth at your location with a rune of protection for <<1>>. You and your allies in the area gain <<2>> and <<3>>, reducing your damage taken by <<4>> and increasing your Stamina Recovery by <<5>>."
+msgstr "防御のルーンを足下に<<1>>の間刻み込む。範囲内にいる味方には<<2>>と<<3>>が付与され、被ダメージが<<4>>減少してスタミナ再生が<<5>>増加する。"
+
+#: 198758357-0-35737
+msgctxt "198758357-0-35737"
+msgid "Circle of Protection"
+msgstr "守護のサークル"

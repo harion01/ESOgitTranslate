@@ -11,178 +11,23 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 59991493-2-678
-msgctxt "59991493-2-678"
-msgid "Extinguished"
-msgstr ""
-
-#: 219689294-2-678
-msgctxt "219689294-2-678"
-msgid "Light"
-msgstr ""
-
-#: 59991493-1-678
-msgctxt "59991493-1-678"
-msgid "Turned Up"
-msgstr ""
-
-#: 219689294-1-678
-msgctxt "219689294-1-678"
-msgid "Extinguish"
-msgstr ""
-
-#: 59991493-1-671
-msgctxt "59991493-1-671"
-msgid "Open"
-msgstr ""
-
-#: 219689294-1-671
-msgctxt "219689294-1-671"
-msgid "Open"
-msgstr ""
-
-#: 12912341-0-95683
-msgctxt "12912341-0-95683"
-msgid "Take"
-msgstr ""
-
-#: 263004526-0-91553
-msgctxt "263004526-0-91553"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-91547
-msgctxt "12912341-0-91547"
-msgid "Talk"
-msgstr ""
-
-#: 263004526-0-91547
-msgctxt "263004526-0-91547"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-91530
-msgctxt "12912341-0-91530"
-msgid "Talk"
-msgstr ""
-
-#: 263004526-0-91530
-msgctxt "263004526-0-91530"
-msgid "Talk"
-msgstr ""
-
-#: 59991493-0-678
-msgctxt "59991493-0-678"
-msgid "Lit"
-msgstr ""
-
-#: 219689294-0-678
-msgctxt "219689294-0-678"
-msgid "Turn Up"
-msgstr ""
-
-#: 59991493-0-673
-msgctxt "59991493-0-673"
-msgid "Open"
-msgstr ""
-
-#: 219689294-0-673
-msgctxt "219689294-0-673"
-msgid "Open"
-msgstr ""
-
-#: 59991493-0-671
-msgctxt "59991493-0-671"
-msgid "Open"
-msgstr ""
-
-#: 219689294-0-671
-msgctxt "219689294-0-671"
-msgid "Open"
-msgstr ""
-
-#: 7949764-0-66542
-msgctxt "7949764-0-66542"
-msgid "Collect <<1>>"
-msgstr ""
-
-#: 70307621-0-3308
-msgctxt "70307621-0-3308"
-msgid "Enter"
-msgstr ""
-
-#: 70307621-0-3283
-msgctxt "70307621-0-3283"
-msgid "Open"
-msgstr ""
-
-#: 108533454-0-27030
-msgctxt "108533454-0-27030"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-27028
-msgctxt "74865733-0-27028"
-msgid "Open"
-msgstr ""
-
-#: 108533454-0-26087
-msgctxt "108533454-0-26087"
-msgid "Examining …"
-msgstr ""
-
-#: 74865733-0-26085
-msgctxt "74865733-0-26085"
-msgid "Destroy"
-msgstr ""
-
-#: 108533454-0-26085
-msgctxt "108533454-0-26085"
-msgid "Destroying …"
-msgstr ""
-
-#: 74865733-0-25991
-msgctxt "74865733-0-25991"
-msgid "Examine"
-msgstr ""
-
-#: 12912341-0-95664
-msgctxt "12912341-0-95664"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-95553
-msgctxt "12912341-0-95553"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-95441
-msgctxt "12912341-0-95441"
-msgid "Travel"
-msgstr ""
-
-#: 12912341-0-94744
-msgctxt "12912341-0-94744"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-94620
-msgctxt "12912341-0-94620"
-msgid "Use"
-msgstr ""
-
-#: 12912341-0-94152
-msgctxt "12912341-0-94152"
-msgid "Use"
-msgstr ""
-
-#: 12912341-0-93301
-msgctxt "12912341-0-93301"
-msgid "Examine"
-msgstr ""
-
 #: 12912341-0-93280
 msgctxt "12912341-0-93280"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-65483
+msgctxt "7949764-0-65483"
+msgid "Find a Grappling Bow"
+msgstr ""
+
+#: 7949764-0-64279
+msgctxt "7949764-0-64279"
+msgid "Look for Survivors"
+msgstr ""
+
+#: 12912341-0-93030
+msgctxt "12912341-0-93030"
 msgid "Talk"
 msgstr ""
 
@@ -191,8 +36,513 @@ msgctxt "12912341-0-93278"
 msgid "Talk"
 msgstr ""
 
-#: 12912341-0-93257
-msgctxt "12912341-0-93257"
+#: 7949764-0-63973
+msgctxt "7949764-0-63973"
+msgid "Complete Unhallowed Grave"
+msgstr ""
+
+#: 7949764-0-64941
+msgctxt "7949764-0-64941"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-63978
+msgctxt "7949764-0-63978"
+msgid "Destroy the skull totem before fighting Kjalnar."
+msgstr ""
+
+#: 7949764-0-64948
+msgctxt "7949764-0-64948"
+msgid "Find Sister Balra"
+msgstr ""
+
+#: 7949764-0-63977
+msgctxt "7949764-0-63977"
+msgid "Enter Unhallowed Grave in Veteran Mode"
+msgstr ""
+
+#: 7949764-0-63979
+msgctxt "7949764-0-63979"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr ""
+
+#: 7949764-0-65474
+msgctxt "7949764-0-65474"
+msgid "Use the Icereach Coven Medallion"
+msgstr ""
+
+#: 7949764-0-65473
+msgctxt "7949764-0-65473"
+msgid "Use the Icereach Coven Medallion"
+msgstr ""
+
+#: 7949764-0-63970
+msgctxt "7949764-0-63970"
+msgid "Continue Exploring the Unhallowed Grave"
+msgstr ""
+
+#: 7949764-0-63972
+msgctxt "7949764-0-63972"
+msgid "Kill Kjalnar Tombskald"
+msgstr ""
+
+#: 7949764-0-63971
+msgctxt "7949764-0-63971"
+msgid "Search for Kjalnar Tombskald"
+msgstr ""
+
+#: 74865733-0-26463
+msgctxt "74865733-0-26463"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-94152
+msgctxt "12912341-0-94152"
+msgid "Use"
+msgstr ""
+
+#: 7949764-0-63963
+msgctxt "7949764-0-63963"
+msgid "Kill the Keeper of the Kiln"
+msgstr ""
+
+#: 7949764-0-63962
+msgctxt "7949764-0-63962"
+msgid "Hardmode Challenge Available Only in Veteran Mode"
+msgstr ""
+
+#: 7949764-0-63965
+msgctxt "7949764-0-63965"
+msgid "Explore the Unhallowed Grave"
+msgstr ""
+
+#: 7949764-0-63964
+msgctxt "7949764-0-63964"
+msgid "Kill the Eternal Aegis"
+msgstr ""
+
+#: 7949764-0-63967
+msgctxt "7949764-0-63967"
+msgid "Kill Hakgrym the Howler"
+msgstr ""
+
+#: 7949764-0-63966
+msgctxt "7949764-0-63966"
+msgid "Kill Ondagore the Mad"
+msgstr ""
+
+#: 7949764-0-63969
+msgctxt "7949764-0-63969"
+msgid "Talk to Shelaria"
+msgstr ""
+
+#: 7949764-0-63968
+msgctxt "7949764-0-63968"
+msgid "Continue Exploring the Unhallowed Grave"
+msgstr ""
+
+#: 7949764-0-63961
+msgctxt "7949764-0-63961"
+msgid "Burn a Wicker Pike before killing Mother Ciannait"
+msgstr ""
+
+#: 7949764-0-63960
+msgctxt "7949764-0-63960"
+msgid "Enter Icereach in Veteran Mode"
+msgstr ""
+
+#: 74865733-0-26676
+msgctxt "74865733-0-26676"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-63952
+msgctxt "7949764-0-63952"
+msgid "Talk to Arvnir"
+msgstr ""
+
+#: 7949764-0-63951
+msgctxt "7949764-0-63951"
+msgid "Explore Icereach"
+msgstr ""
+
+#: 7949764-0-63954
+msgctxt "7949764-0-63954"
+msgid "Find the Witches' Lair"
+msgstr ""
+
+#: 7949764-0-63953
+msgctxt "7949764-0-63953"
+msgid "Explore the Ramparts"
+msgstr ""
+
+#: 7949764-0-63956
+msgctxt "7949764-0-63956"
+msgid "Complete Icereach"
+msgstr ""
+
+#: 7949764-0-63955
+msgctxt "7949764-0-63955"
+msgid "Kill the Witches of the Icereach Coven"
+msgstr ""
+
+#: 7949764-0-66541
+msgctxt "7949764-0-66541"
+msgid "Collect <<1>>"
+msgstr ""
+
+#: 7949764-0-66542
+msgctxt "7949764-0-66542"
+msgid "Collect <<1>>"
+msgstr ""
+
+#: 7949764-0-63950
+msgctxt "7949764-0-63950"
+msgid "Kill Kjarg the Tuskscraper"
+msgstr ""
+
+#: 74865733-0-26441
+msgctxt "74865733-0-26441"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-63949
+msgctxt "7949764-0-63949"
+msgid "Kill the Stormborn Revenant"
+msgstr ""
+
+#: 7949764-0-63948
+msgctxt "7949764-0-63948"
+msgid "Look for Survivors"
+msgstr ""
+
+#: 7949764-0-64911
+msgctxt "7949764-0-64911"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-63947
+msgctxt "7949764-0-63947"
+msgid "Kill Vearogh the Shambler"
+msgstr ""
+
+#: 7949764-0-64913
+msgctxt "7949764-0-64913"
+msgid "Gather Coven Notes"
+msgstr ""
+
+#: 7949764-0-63946
+msgctxt "7949764-0-63946"
+msgid "Kill Sister Skelga"
+msgstr ""
+
+#: 7949764-0-66530
+msgctxt "7949764-0-66530"
+msgid "Talk to <<1>> in Solitude"
+msgstr ""
+
+#: 7949764-0-64594
+msgctxt "7949764-0-64594"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-66531
+msgctxt "7949764-0-66531"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-64595
+msgctxt "7949764-0-64595"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64598
+msgctxt "7949764-0-64598"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64599
+msgctxt "7949764-0-64599"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64596
+msgctxt "7949764-0-64596"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64597
+msgctxt "7949764-0-64597"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 12912341-0-93074
+msgctxt "12912341-0-93074"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-64590
+msgctxt "7949764-0-64590"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 74865733-0-26417
+msgctxt "74865733-0-26417"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26418
+msgctxt "74865733-0-26418"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26415
+msgctxt "74865733-0-26415"
+msgid "Use"
+msgstr ""
+
+#: 74865733-0-26416
+msgctxt "74865733-0-26416"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26419
+msgctxt "74865733-0-26419"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3183
+msgctxt "70307621-0-3183"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26500
+msgctxt "74865733-0-26500"
+msgid "Destroy"
+msgstr ""
+
+#: 12912341-0-93301
+msgctxt "12912341-0-93301"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-66516
+msgctxt "7949764-0-66516"
+msgid "Use the stairs to get back up."
+msgstr ""
+
+#: 74865733-0-27281
+msgctxt "74865733-0-27281"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-65780
+msgctxt "7949764-0-65780"
+msgid "Talk to Hrolt"
+msgstr ""
+
+#: 74865733-0-26754
+msgctxt "74865733-0-26754"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-93095
+msgctxt "12912341-0-93095"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-26752
+msgctxt "74865733-0-26752"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26753
+msgctxt "74865733-0-26753"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26516
+msgctxt "74865733-0-26516"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-26517
+msgctxt "74865733-0-26517"
+msgid "Open"
+msgstr ""
+
+#: 12912341-0-94744
+msgctxt "12912341-0-94744"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-26518
+msgctxt "74865733-0-26518"
+msgid "Open"
+msgstr ""
+
+#: 12912341-0-94620
+msgctxt "12912341-0-94620"
+msgid "Use"
+msgstr ""
+
+#: 7949764-0-66187
+msgctxt "7949764-0-66187"
+msgid "Search the Basement"
+msgstr ""
+
+#: 7949764-0-66188
+msgctxt "7949764-0-66188"
+msgid "Search the Basement"
+msgstr ""
+
+#: 7949764-0-65090
+msgctxt "7949764-0-65090"
+msgid "Search For a Way to Open the Door"
+msgstr ""
+
+#: 7949764-0-66185
+msgctxt "7949764-0-66185"
+msgid "Search the Basement"
+msgstr ""
+
+#: 7949764-0-66186
+msgctxt "7949764-0-66186"
+msgid "Search the Basement"
+msgstr ""
+
+#: 7949764-0-66183
+msgctxt "7949764-0-66183"
+msgid "Look for Evidence Near Ironbelly's Body"
+msgstr ""
+
+#: 7949764-0-66184
+msgctxt "7949764-0-66184"
+msgid "Meet Lyris at the Cart"
+msgstr ""
+
+#: 70307621-0-3279
+msgctxt "70307621-0-3279"
+msgid "Open"
+msgstr ""
+
+#: 7949764-0-64798
+msgctxt "7949764-0-64798"
+msgid "Explore the Ratway"
+msgstr ""
+
+#: 70307621-0-3276
+msgctxt "70307621-0-3276"
+msgid "Open"
+msgstr ""
+
+#: 70307621-0-3277
+msgctxt "70307621-0-3277"
+msgid "Open"
+msgstr ""
+
+#: 70307621-0-3150
+msgctxt "70307621-0-3150"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3272
+msgctxt "70307621-0-3272"
+msgid "Travel"
+msgstr ""
+
+#: 70307621-0-3151
+msgctxt "70307621-0-3151"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-65089
+msgctxt "7949764-0-65089"
+msgid "Continue Exploring the Unhallowed Grave"
+msgstr ""
+
+#: 74865733-0-26293
+msgctxt "74865733-0-26293"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-66056
+msgctxt "7949764-0-66056"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 74865733-0-27028
+msgctxt "74865733-0-27028"
+msgid "Open"
+msgstr ""
+
+#: 70307621-0-3146
+msgctxt "70307621-0-3146"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3147
+msgctxt "70307621-0-3147"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3148
+msgctxt "70307621-0-3148"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3149
+msgctxt "70307621-0-3149"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-65757
+msgctxt "7949764-0-65757"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-64668
+msgctxt "7949764-0-64668"
+msgid "Examine the Corpse"
+msgstr ""
+
+#: 70307621-0-3142
+msgctxt "70307621-0-3142"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3143
+msgctxt "70307621-0-3143"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3144
+msgctxt "70307621-0-3144"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-64667
+msgctxt "7949764-0-64667"
+msgid "Use the Icereach Coven Medallion"
+msgstr ""
+
+#: 70307621-0-3145
+msgctxt "70307621-0-3145"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3140
+msgctxt "70307621-0-3140"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-3141
+msgctxt "70307621-0-3141"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-93221
+msgctxt "12912341-0-93221"
 msgid "Talk"
 msgstr ""
 
@@ -206,9 +556,14 @@ msgctxt "12912341-0-93223"
 msgid "Search"
 msgstr ""
 
-#: 12912341-0-93221
-msgctxt "12912341-0-93221"
-msgid "Talk"
+#: 7949764-0-64650
+msgctxt "7949764-0-64650"
+msgid "Find the Skald-King's Agent"
+msgstr ""
+
+#: 74865733-0-26711
+msgctxt "74865733-0-26711"
+msgid "Open"
 msgstr ""
 
 #: 12912341-0-93212
@@ -216,414 +571,9 @@ msgctxt "12912341-0-93212"
 msgid "Talk"
 msgstr ""
 
-#: 12912341-0-93132
-msgctxt "12912341-0-93132"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-93117
-msgctxt "12912341-0-93117"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-93095
-msgctxt "12912341-0-93095"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-93074
-msgctxt "12912341-0-93074"
-msgid "Examine"
-msgstr ""
-
-#: 12912341-0-93030
-msgctxt "12912341-0-93030"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-93014
-msgctxt "12912341-0-93014"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-91553
-msgctxt "12912341-0-91553"
-msgid "Talk"
-msgstr ""
-
-#: 7949764-0-66541
-msgctxt "7949764-0-66541"
-msgid "Collect <<1>>"
-msgstr ""
-
-#: 7949764-0-66531
-msgctxt "7949764-0-66531"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-66530
-msgctxt "7949764-0-66530"
-msgid "Talk to <<1>> in Solitude"
-msgstr ""
-
-#: 7949764-0-66516
-msgctxt "7949764-0-66516"
-msgid "Use the stairs to get back up."
-msgstr ""
-
-#: 7949764-0-66492
-msgctxt "7949764-0-66492"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66491
-msgctxt "7949764-0-66491"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66490
-msgctxt "7949764-0-66490"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66489
-msgctxt "7949764-0-66489"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66488
-msgctxt "7949764-0-66488"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66487
-msgctxt "7949764-0-66487"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66486
-msgctxt "7949764-0-66486"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-66477
-msgctxt "7949764-0-66477"
-msgid "Left Bar"
-msgstr ""
-
-#: 7949764-0-66188
-msgctxt "7949764-0-66188"
-msgid "Search the Basement"
-msgstr ""
-
-#: 7949764-0-66187
-msgctxt "7949764-0-66187"
-msgid "Search the Basement"
-msgstr ""
-
-#: 7949764-0-66186
-msgctxt "7949764-0-66186"
-msgid "Search the Basement"
-msgstr ""
-
-#: 7949764-0-66185
-msgctxt "7949764-0-66185"
-msgid "Search the Basement"
-msgstr ""
-
-#: 7949764-0-66184
-msgctxt "7949764-0-66184"
-msgid "Meet Lyris at the Cart"
-msgstr ""
-
-#: 7949764-0-66183
-msgctxt "7949764-0-66183"
-msgid "Look for Evidence Near Ironbelly's Body"
-msgstr ""
-
-#: 7949764-0-66109
-msgctxt "7949764-0-66109"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-66108
-msgctxt "7949764-0-66108"
-msgid "Travel to Eastmarch"
-msgstr ""
-
-#: 7949764-0-66056
-msgctxt "7949764-0-66056"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-65780
-msgctxt "7949764-0-65780"
-msgid "Talk to Hrolt"
-msgstr ""
-
-#: 7949764-0-65757
-msgctxt "7949764-0-65757"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-65483
-msgctxt "7949764-0-65483"
-msgid "Find a Grappling Bow"
-msgstr ""
-
-#: 7949764-0-65474
-msgctxt "7949764-0-65474"
-msgid "Use the Icereach Coven Medallion"
-msgstr ""
-
-#: 7949764-0-65473
-msgctxt "7949764-0-65473"
-msgid "Use the Icereach Coven Medallion"
-msgstr ""
-
-#: 7949764-0-65090
-msgctxt "7949764-0-65090"
-msgid "Search For a Way to Open the Door"
-msgstr ""
-
-#: 7949764-0-65089
-msgctxt "7949764-0-65089"
-msgid "Continue Exploring the Unhallowed Grave"
-msgstr ""
-
-#: 7949764-0-64968
-msgctxt "7949764-0-64968"
-msgid "Talk to Guard"
-msgstr ""
-
-#: 7949764-0-64948
-msgctxt "7949764-0-64948"
-msgid "Find Sister Balra"
-msgstr ""
-
-#: 7949764-0-64941
-msgctxt "7949764-0-64941"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64913
-msgctxt "7949764-0-64913"
-msgid "Gather Coven Notes"
-msgstr ""
-
-#: 7949764-0-64911
-msgctxt "7949764-0-64911"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64884
-msgctxt "7949764-0-64884"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64883
-msgctxt "7949764-0-64883"
-msgid "Talk to Jorunn the Skald-King"
-msgstr ""
-
-#: 7949764-0-64882
-msgctxt "7949764-0-64882"
-msgid "Save Jorunn the Skald-King"
-msgstr ""
-
-#: 7949764-0-64878
-msgctxt "7949764-0-64878"
-msgid "Find Jorunn's Guards"
-msgstr ""
-
-#: 7949764-0-64877
-msgctxt "7949764-0-64877"
-msgid "Examine Deployment Map"
-msgstr ""
-
-#: 7949764-0-64876
-msgctxt "7949764-0-64876"
-msgid "Find Stolen Book"
-msgstr ""
-
-#: 7949764-0-64875
-msgctxt "7949764-0-64875"
-msgid "Find Jorunn the Skald-King"
-msgstr ""
-
-#: 7949764-0-64874
-msgctxt "7949764-0-64874"
-msgid "Find Jorunn the Skald-King"
-msgstr ""
-
-#: 7949764-0-64873
-msgctxt "7949764-0-64873"
-msgid "Enter the Palace of Kings"
-msgstr ""
-
-#: 7949764-0-64872
-msgctxt "7949764-0-64872"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-64871
-msgctxt "7949764-0-64871"
-msgid "Warn Jorunn the Skald-King"
-msgstr ""
-
-#: 7949764-0-64870
-msgctxt "7949764-0-64870"
-msgid "Travel to Windhelm"
-msgstr ""
-
-#: 7949764-0-64869
-msgctxt "7949764-0-64869"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64868
-msgctxt "7949764-0-64868"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-64865
-msgctxt "7949764-0-64865"
-msgid "Find Sister Balra"
-msgstr ""
-
-#: 7949764-0-64861
-msgctxt "7949764-0-64861"
-msgid "Smash Witch Pike"
-msgstr ""
-
-#: 7949764-0-64860
-msgctxt "7949764-0-64860"
-msgid "Free the Prisoners"
-msgstr ""
-
-#: 7949764-0-64859
-msgctxt "7949764-0-64859"
-msgid "Talk to Amberic Daigre"
-msgstr ""
-
-#: 7949764-0-64857
-msgctxt "7949764-0-64857"
-msgid "Explore Blackreach"
-msgstr ""
-
-#: 7949764-0-64855
-msgctxt "7949764-0-64855"
-msgid "Explore the Secret Passage"
-msgstr ""
-
-#: 7949764-0-64850
-msgctxt "7949764-0-64850"
-msgid "Search the Basement"
-msgstr ""
-
-#: 7949764-0-64849
-msgctxt "7949764-0-64849"
-msgid "Investigate the Back Room"
-msgstr ""
-
-#: 7949764-0-64848
-msgctxt "7949764-0-64848"
-msgid "Investigate the Bunks"
-msgstr ""
-
-#: 7949764-0-64847
-msgctxt "7949764-0-64847"
-msgid "Investigate the Mess Hall"
-msgstr ""
-
-#: 7949764-0-64846
-msgctxt "7949764-0-64846"
-msgid "Search the Grinning Horker"
-msgstr ""
-
-#: 7949764-0-64845
-msgctxt "7949764-0-64845"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64844
-msgctxt "7949764-0-64844"
-msgid "Enter the Grinning Horker"
-msgstr ""
-
-#: 7949764-0-64798
-msgctxt "7949764-0-64798"
-msgid "Explore the Ratway"
-msgstr ""
-
-#: 7949764-0-64742
-msgctxt "7949764-0-64742"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64741
-msgctxt "7949764-0-64741"
-msgid "Wait for Goharth Ironbelly"
-msgstr ""
-
-#: 7949764-0-64740
-msgctxt "7949764-0-64740"
-msgid "Enter the Withered Tree"
-msgstr ""
-
-#: 7949764-0-64739
-msgctxt "7949764-0-64739"
-msgid "Wait for Lyris"
-msgstr ""
-
-#: 7949764-0-64738
-msgctxt "7949764-0-64738"
-msgid "Go to Marked Location"
-msgstr ""
-
-#: 7949764-0-64737
-msgctxt "7949764-0-64737"
-msgid "Go to the Marked Location"
-msgstr ""
-
-#: 7949764-0-64731
-msgctxt "7949764-0-64731"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64730
-msgctxt "7949764-0-64730"
-msgid "Go to the Marked Location"
-msgstr ""
-
-#: 7949764-0-64728
-msgctxt "7949764-0-64728"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64668
-msgctxt "7949764-0-64668"
-msgid "Examine the Corpse"
-msgstr ""
-
-#: 7949764-0-64667
-msgctxt "7949764-0-64667"
-msgid "Use the Icereach Coven Medallion"
-msgstr ""
-
-#: 7949764-0-64650
-msgctxt "7949764-0-64650"
-msgid "Find the Skald-King's Agent"
-msgstr ""
-
-#: 7949764-0-64649
-msgctxt "7949764-0-64649"
-msgid "Travel to the Lumber Mill"
-msgstr ""
-
-#: 7949764-0-64648
-msgctxt "7949764-0-64648"
-msgid "Travel to the Lumber Mill"
+#: 7949764-0-64646
+msgctxt "7949764-0-64646"
+msgid "Travel to the Shrine"
 msgstr ""
 
 #: 7949764-0-64647
@@ -631,8 +581,8 @@ msgctxt "7949764-0-64647"
 msgid "Travel to the Lumber Mill"
 msgstr ""
 
-#: 7949764-0-64646
-msgctxt "7949764-0-64646"
+#: 7949764-0-64644
+msgctxt "7949764-0-64644"
 msgid "Travel to the Shrine"
 msgstr ""
 
@@ -641,334 +591,24 @@ msgctxt "7949764-0-64645"
 msgid "Travel to the Shrine"
 msgstr ""
 
-#: 7949764-0-64644
-msgctxt "7949764-0-64644"
-msgid "Travel to the Shrine"
-msgstr ""
-
-#: 7949764-0-64643
-msgctxt "7949764-0-64643"
-msgid "Travel to the Overlook"
-msgstr ""
-
-#: 7949764-0-64642
-msgctxt "7949764-0-64642"
-msgid "Travel to the Overlook"
-msgstr ""
-
-#: 7949764-0-64641
-msgctxt "7949764-0-64641"
-msgid "Travel to the Overlook"
-msgstr ""
-
-#: 7949764-0-64626
-msgctxt "7949764-0-64626"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64624
-msgctxt "7949764-0-64624"
-msgid "Take Goharth Ironbelly's Key"
-msgstr ""
-
-#: 7949764-0-64623
-msgctxt "7949764-0-64623"
-msgid "Eavesdrop on the Meeting"
-msgstr ""
-
-#: 7949764-0-64622
-msgctxt "7949764-0-64622"
-msgid "Eavesdrop on the Meeting"
-msgstr ""
-
-#: 7949764-0-64621
-msgctxt "7949764-0-64621"
-msgid "Left Ratway"
-msgstr ""
-
-#: 7949764-0-64620
-msgctxt "7949764-0-64620"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-64619
-msgctxt "7949764-0-64619"
-msgid "Find Goharth Ironbelly"
-msgstr ""
-
-#: 7949764-0-64618
-msgctxt "7949764-0-64618"
-msgid "Listen to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64617
-msgctxt "7949764-0-64617"
-msgid "Listen to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64616
-msgctxt "7949764-0-64616"
-msgid "Explore the Ratway"
-msgstr ""
-
-#: 7949764-0-64615
-msgctxt "7949764-0-64615"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64614
-msgctxt "7949764-0-64614"
-msgid "Left Riften"
-msgstr ""
-
-#: 7949764-0-64613
-msgctxt "7949764-0-64613"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-64612
-msgctxt "7949764-0-64612"
-msgid "Follow Goharth Ironbelly"
-msgstr ""
-
-#: 7949764-0-64611
-msgctxt "7949764-0-64611"
-msgid "Wait for Goharth Ironbelly"
-msgstr ""
-
-#: 7949764-0-64608
-msgctxt "7949764-0-64608"
-msgid "Travel to Riften"
-msgstr ""
-
-#: 7949764-0-64607
-msgctxt "7949764-0-64607"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64606
-msgctxt "7949764-0-64606"
-msgid "Examine Ritual Object"
-msgstr ""
-
-#: 7949764-0-64605
-msgctxt "7949764-0-64605"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64604
-msgctxt "7949764-0-64604"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64603
-msgctxt "7949764-0-64603"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64602
-msgctxt "7949764-0-64602"
-msgid "Examine the Corpse"
-msgstr ""
-
-#: 7949764-0-64601
-msgctxt "7949764-0-64601"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64600
-msgctxt "7949764-0-64600"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64599
-msgctxt "7949764-0-64599"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64598
-msgctxt "7949764-0-64598"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64597
-msgctxt "7949764-0-64597"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64596
-msgctxt "7949764-0-64596"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64595
-msgctxt "7949764-0-64595"
-msgid "Follow the Magic Trail"
-msgstr ""
-
-#: 7949764-0-64594
-msgctxt "7949764-0-64594"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64590
-msgctxt "7949764-0-64590"
-msgid "Talk to Lyris Titanborn"
-msgstr ""
-
-#: 7949764-0-64279
-msgctxt "7949764-0-64279"
-msgid "Look for Suvivors"
-msgstr ""
-
-#: 7949764-0-63979
-msgctxt "7949764-0-63979"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr ""
-
-#: 7949764-0-63978
-msgctxt "7949764-0-63978"
-msgid "Destroy the skull totem before fighting Kjalnar."
-msgstr ""
-
-#: 7949764-0-63977
-msgctxt "7949764-0-63977"
-msgid "Enter Unhallowed Grave in Veteran Mode"
-msgstr ""
-
-#: 7949764-0-63973
-msgctxt "7949764-0-63973"
-msgid "Complete Unhallowed Grave"
-msgstr ""
-
-#: 7949764-0-63972
-msgctxt "7949764-0-63972"
-msgid "Kill Kjalnar Tombskald"
-msgstr ""
-
-#: 7949764-0-63971
-msgctxt "7949764-0-63971"
-msgid "Search for Kjalnar Tombskald"
-msgstr ""
-
-#: 7949764-0-63970
-msgctxt "7949764-0-63970"
-msgid "Continue Exploring the Unhallowed Grave"
-msgstr ""
-
-#: 7949764-0-63969
-msgctxt "7949764-0-63969"
-msgid "Talk to Shelaria"
-msgstr ""
-
-#: 7949764-0-63968
-msgctxt "7949764-0-63968"
-msgid "Continue Exploring the Unhallowed Grave"
-msgstr ""
-
-#: 7949764-0-63967
-msgctxt "7949764-0-63967"
-msgid "Kill Hakgrym the Howler"
-msgstr ""
-
-#: 7949764-0-63966
-msgctxt "7949764-0-63966"
-msgid "Kill Ondagore the Mad"
-msgstr ""
-
-#: 7949764-0-63965
-msgctxt "7949764-0-63965"
-msgid "Explore the Unhallowed Grave"
-msgstr ""
-
-#: 7949764-0-63964
-msgctxt "7949764-0-63964"
-msgid "Kill the Eternal Aegis"
-msgstr ""
-
-#: 7949764-0-63963
-msgctxt "7949764-0-63963"
-msgid "Kill the Keeper of the Kiln"
-msgstr ""
-
-#: 7949764-0-63962
-msgctxt "7949764-0-63962"
-msgid "Hardmode Challenge Available Only in Veteran Mode"
-msgstr ""
-
-#: 7949764-0-63961
-msgctxt "7949764-0-63961"
-msgid "Burn a Wicker Pike before killing Mother Ciannait"
-msgstr ""
-
-#: 7949764-0-63960
-msgctxt "7949764-0-63960"
-msgid "Enter Icereach in Veteran Mode"
-msgstr ""
-
-#: 7949764-0-63956
-msgctxt "7949764-0-63956"
-msgid "Complete Icereach"
-msgstr ""
-
-#: 7949764-0-63955
-msgctxt "7949764-0-63955"
-msgid "Kill the Witches of the Icereach Coven"
-msgstr ""
-
-#: 7949764-0-63954
-msgctxt "7949764-0-63954"
-msgid "Find the Witches' Lair"
-msgstr ""
-
-#: 7949764-0-63953
-msgctxt "7949764-0-63953"
-msgid "Explore the Ramparts"
-msgstr ""
-
-#: 7949764-0-63952
-msgctxt "7949764-0-63952"
-msgid "Talk to Arvnir"
-msgstr ""
-
-#: 7949764-0-63951
-msgctxt "7949764-0-63951"
-msgid "Explore Icereach"
-msgstr ""
-
-#: 7949764-0-63950
-msgctxt "7949764-0-63950"
-msgid "Kill Kjarg the Tuskscraper"
-msgstr ""
-
-#: 7949764-0-63949
-msgctxt "7949764-0-63949"
-msgid "Kill the Stormborn Revenant"
-msgstr ""
-
-#: 7949764-0-63948
-msgctxt "7949764-0-63948"
-msgid "Look for Survivors"
-msgstr ""
-
-#: 7949764-0-63947
-msgctxt "7949764-0-63947"
-msgid "Kill Vearogh the Shambler"
-msgstr ""
-
-#: 7949764-0-63946
-msgctxt "7949764-0-63946"
-msgid "Kill Sister Skelga"
-msgstr ""
-
-#: 8158238-0-3308
-msgctxt "8158238-0-3308"
-msgid "Enter"
-msgstr ""
-
 #: 70307621-0-3282
 msgctxt "70307621-0-3282"
 msgid "Open"
+msgstr ""
+
+#: 7949764-0-64648
+msgctxt "7949764-0-64648"
+msgid "Travel to the Lumber Mill"
+msgstr ""
+
+#: 70307621-0-3283
+msgctxt "70307621-0-3283"
+msgid "Open"
+msgstr ""
+
+#: 7949764-0-64649
+msgctxt "7949764-0-64649"
+msgid "Travel to the Lumber Mill"
 msgstr ""
 
 #: 70307621-0-3280
@@ -976,99 +616,49 @@ msgctxt "70307621-0-3280"
 msgid "Open"
 msgstr ""
 
-#: 70307621-0-3279
-msgctxt "70307621-0-3279"
-msgid "Open"
+#: 7949764-0-64884
+msgctxt "7949764-0-64884"
+msgid "Talk to Lyris Titanborn"
 msgstr ""
 
-#: 70307621-0-3277
-msgctxt "70307621-0-3277"
-msgid "Open"
+#: 7949764-0-64642
+msgctxt "7949764-0-64642"
+msgid "Travel to the Overlook"
 msgstr ""
 
-#: 70307621-0-3276
-msgctxt "70307621-0-3276"
-msgid "Open"
-msgstr ""
-
-#: 70307621-0-3272
-msgctxt "70307621-0-3272"
-msgid "Travel"
-msgstr ""
-
-#: 70307621-0-3183
-msgctxt "70307621-0-3183"
+#: 74865733-0-25991
+msgctxt "74865733-0-25991"
 msgid "Examine"
 msgstr ""
 
-#: 70307621-0-3151
-msgctxt "70307621-0-3151"
+#: 7949764-0-64643
+msgctxt "7949764-0-64643"
+msgid "Travel to the Overlook"
+msgstr ""
+
+#: 7949764-0-64882
+msgctxt "7949764-0-64882"
+msgid "Save Jorunn the Skald-King"
+msgstr ""
+
+#: 7949764-0-64883
+msgctxt "7949764-0-64883"
+msgid "Talk to Jorunn the Skald-King"
+msgstr ""
+
+#: 7949764-0-64641
+msgctxt "7949764-0-64641"
+msgid "Travel to the Overlook"
+msgstr ""
+
+#: 74865733-0-25990
+msgctxt "74865733-0-25990"
 msgid "Examine"
 msgstr ""
 
-#: 70307621-0-3150
-msgctxt "70307621-0-3150"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3149
-msgctxt "70307621-0-3149"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3148
-msgctxt "70307621-0-3148"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3147
-msgctxt "70307621-0-3147"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3146
-msgctxt "70307621-0-3146"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3145
-msgctxt "70307621-0-3145"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3144
-msgctxt "70307621-0-3144"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3143
-msgctxt "70307621-0-3143"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3142
-msgctxt "70307621-0-3142"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3141
-msgctxt "70307621-0-3141"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3140
-msgctxt "70307621-0-3140"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3139
-msgctxt "70307621-0-3139"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-3138
-msgctxt "70307621-0-3138"
-msgid "Examine"
+#: 12912341-0-95664
+msgctxt "12912341-0-95664"
+msgid "Talk"
 msgstr ""
 
 #: 70307621-0-3113
@@ -1076,79 +666,34 @@ msgctxt "70307621-0-3113"
 msgid "Enter"
 msgstr ""
 
-#: 74865733-0-27281
-msgctxt "74865733-0-27281"
-msgid "Examine"
+#: 7949764-0-64877
+msgctxt "7949764-0-64877"
+msgid "Examine Deployment Map"
 msgstr ""
 
-#: 74865733-0-27030
-msgctxt "74865733-0-27030"
-msgid "Examine"
+#: 7949764-0-64878
+msgctxt "7949764-0-64878"
+msgid "Find Jorunn's Guards"
 msgstr ""
 
-#: 74865733-0-26938
-msgctxt "74865733-0-26938"
-msgid "Unlock"
+#: 7949764-0-64875
+msgctxt "7949764-0-64875"
+msgid "Find Jorunn the Skald-King"
 msgstr ""
 
-#: 74865733-0-26914
-msgctxt "74865733-0-26914"
-msgid "Take"
+#: 7949764-0-64876
+msgctxt "7949764-0-64876"
+msgid "Find Stolen Book"
 msgstr ""
 
-#: 74865733-0-26754
-msgctxt "74865733-0-26754"
-msgid "Take"
+#: 7949764-0-64870
+msgctxt "7949764-0-64870"
+msgid "Travel to Windhelm"
 msgstr ""
 
-#: 74865733-0-26753
-msgctxt "74865733-0-26753"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-26752
-msgctxt "74865733-0-26752"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-26711
-msgctxt "74865733-0-26711"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-26676
-msgctxt "74865733-0-26676"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-26518
-msgctxt "74865733-0-26518"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-26517
-msgctxt "74865733-0-26517"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-26516
-msgctxt "74865733-0-26516"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-26500
-msgctxt "74865733-0-26500"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-26499
-msgctxt "74865733-0-26499"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-26498
-msgctxt "74865733-0-26498"
-msgid "Destroy"
+#: 7949764-0-64873
+msgctxt "7949764-0-64873"
+msgid "Enter the Palace of Kings"
 msgstr ""
 
 #: 74865733-0-26497
@@ -1156,43 +701,268 @@ msgctxt "74865733-0-26497"
 msgid "Destroy"
 msgstr ""
 
+#: 7949764-0-64874
+msgctxt "7949764-0-64874"
+msgid "Find Jorunn the Skald-King"
+msgstr ""
+
+#: 74865733-0-26498
+msgctxt "74865733-0-26498"
+msgid "Destroy"
+msgstr ""
+
+#: 7949764-0-64871
+msgctxt "7949764-0-64871"
+msgid "Warn Jorunn the Skald-King"
+msgstr ""
+
+#: 7949764-0-64872
+msgctxt "7949764-0-64872"
+msgid "Talk to <<1>>"
+msgstr ""
+
 #: 74865733-0-26496
 msgctxt "74865733-0-26496"
 msgid "Examine"
 msgstr ""
 
-#: 74865733-0-26484
-msgctxt "74865733-0-26484"
-msgid "Search"
+#: 7949764-0-66490
+msgctxt "7949764-0-66490"
+msgid "Left Ratway"
 msgstr ""
 
-#: 74865733-0-26483
-msgctxt "74865733-0-26483"
-msgid "Search"
+#: 74865733-0-26499
+msgctxt "74865733-0-26499"
+msgid "Destroy"
 msgstr ""
 
-#: 74865733-0-26482
-msgctxt "74865733-0-26482"
-msgid "Search"
+#: 7949764-0-66491
+msgctxt "7949764-0-66491"
+msgid "Left Ratway"
 msgstr ""
 
-#: 74865733-0-26481
-msgctxt "74865733-0-26481"
-msgid "Search"
+#: 7949764-0-66492
+msgctxt "7949764-0-66492"
+msgid "Left Ratway"
 msgstr ""
 
-#: 74865733-0-26480
-msgctxt "74865733-0-26480"
-msgid "Search"
+#: 74865733-0-26938
+msgctxt "74865733-0-26938"
+msgid "Unlock"
+msgstr ""
+
+#: 12912341-0-93117
+msgctxt "12912341-0-93117"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-64624
+msgctxt "7949764-0-64624"
+msgid "Take Goharth Ironbelly's Key"
+msgstr ""
+
+#: 7949764-0-64622
+msgctxt "7949764-0-64622"
+msgid "Eavesdrop on the Meeting"
+msgstr ""
+
+#: 7949764-0-64865
+msgctxt "7949764-0-64865"
+msgid "Find Sister Balra"
+msgstr ""
+
+#: 7949764-0-64623
+msgctxt "7949764-0-64623"
+msgid "Eavesdrop on the Meeting"
+msgstr ""
+
+#: 7949764-0-64868
+msgctxt "7949764-0-64868"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-64626
+msgctxt "7949764-0-64626"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64869
+msgctxt "7949764-0-64869"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-66486
+msgctxt "7949764-0-66486"
+msgid "Left Ratway"
+msgstr ""
+
+#: 7949764-0-66487
+msgctxt "7949764-0-66487"
+msgid "Left Ratway"
+msgstr ""
+
+#: 7949764-0-64741
+msgctxt "7949764-0-64741"
+msgid "Wait for Goharth Ironbelly"
+msgstr ""
+
+#: 7949764-0-64620
+msgctxt "7949764-0-64620"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-64742
+msgctxt "7949764-0-64742"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64621
+msgctxt "7949764-0-64621"
+msgid "Left Ratway"
+msgstr ""
+
+#: 7949764-0-66488
+msgctxt "7949764-0-66488"
+msgid "Left Ratway"
+msgstr ""
+
+#: 7949764-0-64860
+msgctxt "7949764-0-64860"
+msgid "Free the Prisoners"
+msgstr ""
+
+#: 7949764-0-66489
+msgctxt "7949764-0-66489"
+msgid "Left Ratway"
+msgstr ""
+
+#: 7949764-0-64861
+msgctxt "7949764-0-64861"
+msgid "Smash Witch Pike"
+msgstr ""
+
+#: 7949764-0-64740
+msgctxt "7949764-0-64740"
+msgid "Enter the Withered Tree"
+msgstr ""
+
+#: 12912341-0-95683
+msgctxt "12912341-0-95683"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-95441
+msgctxt "12912341-0-95441"
+msgid "Travel"
+msgstr ""
+
+#: 70307621-0-3139
+msgctxt "70307621-0-3139"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-64619
+msgctxt "7949764-0-64619"
+msgid "Find Goharth Ironbelly"
+msgstr ""
+
+#: 70307621-0-3138
+msgctxt "70307621-0-3138"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-64855
+msgctxt "7949764-0-64855"
+msgid "Explore the Secret Passage"
+msgstr ""
+
+#: 7949764-0-64613
+msgctxt "7949764-0-64613"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-64614
+msgctxt "7949764-0-64614"
+msgid "Left Riften"
+msgstr ""
+
+#: 7949764-0-64611
+msgctxt "7949764-0-64611"
+msgid "Wait for Goharth Ironbelly"
+msgstr ""
+
+#: 7949764-0-64612
+msgctxt "7949764-0-64612"
+msgid "Follow Goharth Ironbelly"
+msgstr ""
+
+#: 7949764-0-64859
+msgctxt "7949764-0-64859"
+msgid "Talk to Amberic Daigre"
+msgstr ""
+
+#: 7949764-0-64738
+msgctxt "7949764-0-64738"
+msgid "Go to Marked Location"
+msgstr ""
+
+#: 7949764-0-64617
+msgctxt "7949764-0-64617"
+msgid "Listen to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64739
+msgctxt "7949764-0-64739"
+msgid "Wait for Lyris"
+msgstr ""
+
+#: 7949764-0-64618
+msgctxt "7949764-0-64618"
+msgid "Listen to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64857
+msgctxt "7949764-0-64857"
+msgid "Explore Blackreach"
+msgstr ""
+
+#: 7949764-0-64615
+msgctxt "7949764-0-64615"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64737
+msgctxt "7949764-0-64737"
+msgid "Go to the Marked Location"
+msgstr ""
+
+#: 7949764-0-64616
+msgctxt "7949764-0-64616"
+msgid "Explore the Ratway"
+msgstr ""
+
+#: 7949764-0-64730
+msgctxt "7949764-0-64730"
+msgid "Go to the Marked Location"
+msgstr ""
+
+#: 7949764-0-64731
+msgctxt "7949764-0-64731"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-66477
+msgctxt "7949764-0-66477"
+msgid "Left Bar"
+msgstr ""
+
+#: 7949764-0-64850
+msgctxt "7949764-0-64850"
+msgid "Search the Basement"
 msgstr ""
 
 #: 74865733-0-26479
 msgctxt "74865733-0-26479"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-26478
-msgctxt "74865733-0-26478"
 msgid "Examine"
 msgstr ""
 
@@ -1201,44 +971,194 @@ msgctxt "74865733-0-26477"
 msgid "Examine"
 msgstr ""
 
-#: 74865733-0-26463
-msgctxt "74865733-0-26463"
+#: 12912341-0-95553
+msgctxt "12912341-0-95553"
 msgid "Take"
 msgstr ""
 
-#: 74865733-0-26441
-msgctxt "74865733-0-26441"
+#: 74865733-0-26478
+msgctxt "74865733-0-26478"
 msgid "Examine"
 msgstr ""
 
-#: 74865733-0-26419
-msgctxt "74865733-0-26419"
-msgid "Examine"
+#: 12912341-0-93132
+msgctxt "12912341-0-93132"
+msgid "Talk"
 msgstr ""
 
-#: 74865733-0-26418
-msgctxt "74865733-0-26418"
-msgid "Examine"
+#: 12912341-0-93257
+msgctxt "12912341-0-93257"
+msgid "Talk"
 msgstr ""
 
-#: 74865733-0-26417
-msgctxt "74865733-0-26417"
-msgid "Examine"
+#: 12912341-0-93014
+msgctxt "12912341-0-93014"
+msgid "Talk"
 msgstr ""
 
-#: 74865733-0-26416
-msgctxt "74865733-0-26416"
-msgid "Examine"
+#: 7949764-0-64608
+msgctxt "7949764-0-64608"
+msgid "Travel to Riften"
 msgstr ""
 
-#: 74865733-0-26415
-msgctxt "74865733-0-26415"
-msgid "Use"
+#: 74865733-0-26914
+msgctxt "74865733-0-26914"
+msgid "Take"
 msgstr ""
 
-#: 74865733-0-26293
-msgctxt "74865733-0-26293"
-msgid "Examine"
+#: 7949764-0-66109
+msgctxt "7949764-0-66109"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64844
+msgctxt "7949764-0-64844"
+msgid "Enter the Grinning Horker"
+msgstr ""
+
+#: 7949764-0-64602
+msgctxt "7949764-0-64602"
+msgid "Examine the Corpse"
+msgstr ""
+
+#: 7949764-0-64845
+msgctxt "7949764-0-64845"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64603
+msgctxt "7949764-0-64603"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64600
+msgctxt "7949764-0-64600"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-66108
+msgctxt "7949764-0-66108"
+msgid "Travel to Eastmarch"
+msgstr ""
+
+#: 7949764-0-64601
+msgctxt "7949764-0-64601"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64848
+msgctxt "7949764-0-64848"
+msgid "Investigate the Bunks"
+msgstr ""
+
+#: 7949764-0-64606
+msgctxt "7949764-0-64606"
+msgid "Examine Ritual Object"
+msgstr ""
+
+#: 7949764-0-64849
+msgctxt "7949764-0-64849"
+msgid "Investigate the Back Room"
+msgstr ""
+
+#: 7949764-0-64728
+msgctxt "7949764-0-64728"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64607
+msgctxt "7949764-0-64607"
+msgid "Talk to Lyris Titanborn"
+msgstr ""
+
+#: 7949764-0-64846
+msgctxt "7949764-0-64846"
+msgid "Search the Grinning Horker"
+msgstr ""
+
+#: 7949764-0-64604
+msgctxt "7949764-0-64604"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 7949764-0-64968
+msgctxt "7949764-0-64968"
+msgid "Talk to Guard"
+msgstr ""
+
+#: 7949764-0-64847
+msgctxt "7949764-0-64847"
+msgid "Investigate the Mess Hall"
+msgstr ""
+
+#: 7949764-0-64605
+msgctxt "7949764-0-64605"
+msgid "Follow the Magic Trail"
+msgstr ""
+
+#: 74865733-0-26482
+msgctxt "74865733-0-26482"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-26483
+msgctxt "74865733-0-26483"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-26480
+msgctxt "74865733-0-26480"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-26481
+msgctxt "74865733-0-26481"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-26484
+msgctxt "74865733-0-26484"
+msgid "Search"
+msgstr ""
+
+#: 12912341-0-91530
+msgctxt "12912341-0-91530"
+msgid "Talk"
+msgstr ""
+
+#: 263004526-0-91530
+msgctxt "263004526-0-91530"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-26085
+msgctxt "74865733-0-26085"
+msgid "Destroy"
+msgstr ""
+
+#: 108533454-0-26085
+msgctxt "108533454-0-26085"
+msgid "Destroying …"
+msgstr ""
+
+#: 59991493-1-671
+msgctxt "59991493-1-671"
+msgid "Open"
+msgstr ""
+
+#: 219689294-1-671
+msgctxt "219689294-1-671"
+msgid "Open"
+msgstr ""
+
+#: 12912341-0-91553
+msgctxt "12912341-0-91553"
+msgid "Talk"
+msgstr ""
+
+#: 263004526-0-91553
+msgctxt "263004526-0-91553"
+msgid "Talk"
 msgstr ""
 
 #: 74865733-0-26087
@@ -1246,7 +1166,57 @@ msgctxt "74865733-0-26087"
 msgid "Examine"
 msgstr ""
 
-#: 74865733-0-25990
-msgctxt "74865733-0-25990"
+#: 108533454-0-26087
+msgctxt "108533454-0-26087"
+msgid "Examining …"
+msgstr ""
+
+#: 74865733-0-27030
+msgctxt "74865733-0-27030"
 msgid "Examine"
+msgstr ""
+
+#: 108533454-0-27030
+msgctxt "108533454-0-27030"
+msgid "Examine"
+msgstr ""
+
+#: 59991493-0-673
+msgctxt "59991493-0-673"
+msgid "Open"
+msgstr ""
+
+#: 219689294-0-673
+msgctxt "219689294-0-673"
+msgid "Open"
+msgstr ""
+
+#: 59991493-1-678
+msgctxt "59991493-1-678"
+msgid "Turned Up"
+msgstr ""
+
+#: 219689294-1-678
+msgctxt "219689294-1-678"
+msgid "Extinguish"
+msgstr ""
+
+#: 12912341-0-91547
+msgctxt "12912341-0-91547"
+msgid "Talk"
+msgstr ""
+
+#: 263004526-0-91547
+msgctxt "263004526-0-91547"
+msgid "Talk"
+msgstr ""
+
+#: 8158238-0-3308
+msgctxt "8158238-0-3308"
+msgid "Enter"
+msgstr ""
+
+#: 70307621-0-3308
+msgctxt "70307621-0-3308"
+msgid "Enter"
 msgstr ""

@@ -11,35 +11,175 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-95269
-msgctxt "228378404-0-95269"
-msgid "This heavy iron key bears the seal of House Hlaalu."
-msgstr "이 무거운 철 열쇠는 할루 가문의 직인을 받치고 있습니다."
+#: 242841733-0-156607
+msgctxt "242841733-0-156607"
+msgid "Mine Key"
+msgstr ""
 
-#: 242841733-0-95269
-msgctxt "242841733-0-95269"
-msgid "Vassir-Didanat Mine Key"
-msgstr "바씨르-디다낫 광산 열쇠"
+#: 242841733-0-153880
+msgctxt "242841733-0-153880"
+msgid "unused"
+msgstr ""
 
-#: 228378404-0-94217
-msgctxt "228378404-0-94217"
+#: 228378404-0-45016
+msgctxt "228378404-0-45016"
+msgid "This carved gemstone powers the shrines."
+msgstr "조각된 보석이 제단에 힘을 부여합니다."
+
+#: 242841733-0-45016
+msgctxt "242841733-0-45016"
+msgid "Star Shard"
+msgstr "별의 조각"
+
+#: 228378404-0-71246
+msgctxt "228378404-0-71246"
+msgid "An intricately decorated but sealed wedding invitation, addressed to Lord Wallavir."
+msgstr "복잡하게 꾸며진 봉인된 결혼식 초대장. 군주 Wallavir에게."
+
+#: 242841733-0-71246
+msgctxt "242841733-0-71246"
+msgid "Sealed Wedding Invitation"
+msgstr "봉인된 결혼식 초대장"
+
+#: 228378404-0-45771
+msgctxt "228378404-0-45771"
+msgid "A stone plate covered in ritual scrawl."
+msgstr "석판에 의식의 글자이 새겨져 있습니다."
+
+#: 242841733-0-45771
+msgctxt "242841733-0-45771"
+msgid "Ritual Shard"
+msgstr "의식의 파편"
+
+#: 228378404-0-45796
+msgctxt "228378404-0-45796"
+msgid "A dulled crystal that looks like it can reflect light in short distances."
+msgstr "짧은 거리만 비출 수 있는 흐릿한 크리스탈입니다."
+
+#: 242841733-0-45796
+msgctxt "242841733-0-45796"
+msgid "Murky Crystal"
+msgstr "흐린 크리스탈"
+
+#: 228378404-0-45014
+msgctxt "228378404-0-45014"
+msgid "These mystical stones can be used at certain tombs to force fallen Yokudan champions to rise from their graves."
+msgstr "이 신비한 돌을 특정한 묘지에서 사용하면 죽은 요쿠단 전사들을 무덤에서 일으켜 세울 수 있습니다."
+
+#: 242841733-0-45014
+msgctxt "242841733-0-45014"
+msgid "Spirit Stone"
+msgstr "영혼의 돌"
+
+#: 228378404-0-94205
+msgctxt "228378404-0-94205"
 msgid "Blue flames swirl within this polished black stone, but it remains cold to the touch. The right person might show great interest in this."
 msgstr "푸른 불꽃이 안에서 소용돌이치는 광택나는 검은 돌, 하지만 만져보면 여전히 차갑습니다. 알맞은 사람이 이것에 큰 관심을 보일 수도 있습니다."
 
-#: 242841733-0-94217
-msgctxt "242841733-0-94217"
-msgid "Stone of Yansirramus"
-msgstr "얀시라무스의 돌"
+#: 242841733-0-94205
+msgctxt "242841733-0-94205"
+msgid "Stone of Ashalmawia"
+msgstr "아샬마위아의 돌"
 
-#: 228378404-0-94216
-msgctxt "228378404-0-94216"
-msgid "Blue flames swirl within this polished black stone, but it remains cold to the touch. The right person might show great interest in this."
-msgstr "푸른 불꽃이 안에서 소용돌이치는 광택나는 검은 돌, 하지만 만져보면 여전히 차갑습니다. 알맞은 사람이 이것에 큰 관심을 보일 수도 있습니다."
+#: 228378404-0-71586
+msgctxt "228378404-0-71586"
+msgid "A vaguely worded legal document with Tashmin's name clumsily written upon it."
+msgstr "타슈민의 이름이 흐릿하게 적혀 있는 애매모호한 영장입니다."
 
-#: 242841733-0-94216
-msgctxt "242841733-0-94216"
-msgid "Stone of Tusenend"
-msgstr "튜세넨드의 돌"
+#: 242841733-0-71586
+msgctxt "242841733-0-71586"
+msgid "Arrest Writ"
+msgstr "체포 영장"
+
+#: 228378404-0-64699
+msgctxt "228378404-0-64699"
+msgid "An old helm with a maker's mark from Morkul Stronghold. It's too battered to wear, and the name etched within is too faded to read."
+msgstr "이 오래된 투구에는 모쿨 요새의 제조 표식이 새겨져있다. 안에 새겨진 이름은 너무 흐릿해서 읽을 수 없다."
+
+#: 242841733-0-64699
+msgctxt "242841733-0-64699"
+msgid "Old Helm"
+msgstr "낡은 투구"
+
+#: 228378404-0-71023
+msgctxt "228378404-0-71023"
+msgid "A letter from Forge-Mother Alga of Orsinium inviting you to help the king in Wrothgar."
+msgstr "오시니움의 용광로-대모 알가가 보낸, 로스가의 왕을 도와줄 것을 요청하는 편지입니다."
+
+#: 242841733-0-71023
+msgctxt "242841733-0-71023"
+msgid "Invitation to Orsinium"
+msgstr "오시니움에서의 초대"
+
+#: 228378404-0-81229
+msgctxt "228378404-0-81229"
+msgid "A broken blade meant to represent spirit of Rahni'Za."
+msgstr "라니'자의 영혼을 나타내는 부서진 검의 손잡이"
+
+#: 242841733-0-81229
+msgctxt "242841733-0-81229"
+msgid "Hilt of Rahni'Za"
+msgstr "라니'자의 손잡이"
+
+#: 228378404-0-81236
+msgctxt "228378404-0-81236"
+msgid "A dulled crystal that looks like it can reflect light in short distances."
+msgstr "짧은 거리만 비출 수 있는 흐릿한 크리스탈입니다."
+
+#: 242841733-0-81236
+msgctxt "242841733-0-81236"
+msgid "Murky Crystal"
+msgstr "흐린 크리스탈"
+
+#: 228378404-0-81237
+msgctxt "228378404-0-81237"
+msgid "A bright crystal that looks like it can reflect light in long distances."
+msgstr "먼 거리까지 비출 수 있는 빛나는 크리스탈입니다."
+
+#: 242841733-0-81237
+msgctxt "242841733-0-81237"
+msgid "Bright Crystal"
+msgstr "빛나는 크리스탈"
+
+#: 228378404-0-81238
+msgctxt "228378404-0-81238"
+msgid "A blade meant to represent the trials of Rahni'Za. Present it to the trial master after the Final Trial."
+msgstr "라니'자의 시련을 나타내는 검입니다. 최후의 시련을 마친 후 시련의 감독관에게 보여주십시오."
+
+#: 242841733-0-81238
+msgctxt "242841733-0-81238"
+msgid "Reforged Blade of the Rahni'Za"
+msgstr "다시 재련된 라니'자의 검"
+
+#: 228378404-0-81233
+msgctxt "228378404-0-81233"
+msgid "A broken blade meant to represent the spirit of Rahni'Za"
+msgstr "라니'자의 영혼을 나타내는 부서진 검의 추"
+
+#: 242841733-0-81233
+msgctxt "242841733-0-81233"
+msgid "Pommel of Rahni'Za"
+msgstr "라니'자의 폼멜"
+
+#: 228378404-0-81234
+msgctxt "228378404-0-81234"
+msgid "A broken blade meant to represent the spirit of Rahni'Za."
+msgstr "라니'자의 영혼을 나타내는 부서진 검의 검날"
+
+#: 242841733-0-81234
+msgctxt "242841733-0-81234"
+msgid "Blade of the Rahni'Za"
+msgstr "라니'자의 검날"
+
+#: 228378404-0-81235
+msgctxt "228378404-0-81235"
+msgid "A broken blade meant to represent the spirit of Rahni'Za."
+msgstr "라니'자의 영혼을 나타내는 부러진 검 입니다."
+
+#: 242841733-0-81235
+msgctxt "242841733-0-81235"
+msgid "Gem of Rahni'Za"
+msgstr "라니'자의 보석"
 
 #: 228378404-0-94215
 msgctxt "228378404-0-94215"
@@ -61,6 +201,16 @@ msgctxt "242841733-0-94214"
 msgid "Stone of Kushtashpi"
 msgstr "쿠쉬타쉬피의 돌"
 
+#: 228378404-0-71314
+msgctxt "228378404-0-71314"
+msgid "An elaborate ivory key."
+msgstr "정교한 상아색 열쇠"
+
+#: 242841733-0-71314
+msgctxt "242841733-0-71314"
+msgid "Hubalajad Palace Kitchen Key"
+msgstr "휴발라자드 궁전 주방 열쇠"
+
 #: 228378404-0-94213
 msgctxt "228378404-0-94213"
 msgid "Blue flames swirl within this polished black stone, but it remains cold to the touch. The right person might show great interest in this."
@@ -81,115 +231,35 @@ msgctxt "242841733-0-94212"
 msgid "Stone of Bal Ur"
 msgstr "발 우르의 돌"
 
-#: 228378404-0-94205
-msgctxt "228378404-0-94205"
-msgid "Blue flames swirl within this polished black stone, but it remains cold to the touch. The right person might show great interest in this."
-msgstr "푸른 불꽃이 안에서 소용돌이치는 광택나는 검은 돌, 하지만 만져보면 여전히 차갑습니다. 알맞은 사람이 이것에 큰 관심을 보일 수도 있습니다."
+#: 228378404-0-156796
+msgctxt "228378404-0-156796"
+msgid "A love song of a bard's admiration for his missing instruments."
+msgstr ""
 
-#: 242841733-0-94205
-msgctxt "242841733-0-94205"
-msgid "Stone of Ashalmawia"
-msgstr "아샬마위아의 돌"
+#: 242841733-0-156796
+msgctxt "242841733-0-156796"
+msgid "Nel's Hidden Loves"
+msgstr ""
 
-#: 228378404-0-81562
-msgctxt "228378404-0-81562"
-msgid "Meat with a pleasant aroma that many wild predators find irresistable. Commonly used by hunters and trappers as bait."
-msgstr "많은 야생 포식자들이 거부할 수 없는 기분 좋은 향기가 나는 고기입니다. 보통 사냥꾼들과 사냥꾼들이 미끼로 사용합니다."
+#: 228378404-0-71257
+msgctxt "228378404-0-71257"
+msgid "A cheap, clearly fake gold locket."
+msgstr "싸구려, 명백한 가짜 금목걸이입니다."
 
-#: 242841733-0-81562
-msgctxt "242841733-0-81562"
-msgid "Succulent Gravelclaw Meat"
-msgstr "즙이 많은 무덤집게 고기"
+#: 242841733-0-71257
+msgctxt "242841733-0-71257"
+msgid "Cheap Locket"
+msgstr "싸구려 로켓 목걸이"
 
-#: 228378404-0-81238
-msgctxt "228378404-0-81238"
-msgid "A blade meant to represent the trials of Rahni'Za. Present it to the trial master after the Final Trial."
-msgstr "라니'자의 시련을 나타내는 검입니다. 최후의 시련을 마친 후 시련의 감독관에게 보여주십시오."
+#: 228378404-0-95269
+msgctxt "228378404-0-95269"
+msgid "This heavy iron key bears the seal of House Hlaalu."
+msgstr "이 무거운 철 열쇠는 할루 가문의 직인을 받치고 있습니다."
 
-#: 242841733-0-81238
-msgctxt "242841733-0-81238"
-msgid "Reforged Blade of the Rahni'Za"
-msgstr "다시 재련된 라니'자의 검"
-
-#: 228378404-0-81237
-msgctxt "228378404-0-81237"
-msgid "A bright crystal that looks like it can reflect light in long distances."
-msgstr "먼 거리까지 비출 수 있는 빛나는 크리스탈입니다."
-
-#: 242841733-0-81237
-msgctxt "242841733-0-81237"
-msgid "Bright Crystal"
-msgstr "빛나는 크리스탈"
-
-#: 228378404-0-81236
-msgctxt "228378404-0-81236"
-msgid "A dulled crystal that looks like it can reflect light in short distances."
-msgstr "짧은 거리만 비출 수 있는 흐릿한 크리스탈입니다."
-
-#: 242841733-0-81236
-msgctxt "242841733-0-81236"
-msgid "Murky Crystal"
-msgstr "흐린 크리스탈"
-
-#: 228378404-0-81235
-msgctxt "228378404-0-81235"
-msgid "A broken blade meant to represent the spirit of Rahni'Za."
-msgstr "라니'자의 영혼을 나타내는 부러진 검 입니다."
-
-#: 242841733-0-81235
-msgctxt "242841733-0-81235"
-msgid "Gem of Rahni'Za"
-msgstr "라니'자의 보석"
-
-#: 228378404-0-81234
-msgctxt "228378404-0-81234"
-msgid "A broken blade meant to represent the spirit of Rahni'Za."
-msgstr "라니'자의 영혼을 나타내는 부서진 검의 검날"
-
-#: 242841733-0-81234
-msgctxt "242841733-0-81234"
-msgid "Blade of the Rahni'Za"
-msgstr "라니'자의 검날"
-
-#: 228378404-0-81233
-msgctxt "228378404-0-81233"
-msgid "A broken blade meant to represent the spirit of Rahni'Za"
-msgstr "라니'자의 영혼을 나타내는 부서진 검의 추"
-
-#: 242841733-0-81233
-msgctxt "242841733-0-81233"
-msgid "Pommel of Rahni'Za"
-msgstr "라니'자의 폼멜"
-
-#: 228378404-0-81229
-msgctxt "228378404-0-81229"
-msgid "A broken blade meant to represent spirit of Rahni'Za."
-msgstr "라니'자의 영혼을 나타내는 부서진 검의 손잡이"
-
-#: 242841733-0-81229
-msgctxt "242841733-0-81229"
-msgid "Hilt of Rahni'Za"
-msgstr "라니'자의 손잡이"
-
-#: 228378404-0-71586
-msgctxt "228378404-0-71586"
-msgid "A vaguely worded legal document with Tashmin's name clumsily written upon it."
-msgstr "타슈민의 이름이 흐릿하게 적혀 있는 애매모호한 영장입니다."
-
-#: 242841733-0-71586
-msgctxt "242841733-0-71586"
-msgid "Arrest Writ"
-msgstr "체포 영장"
-
-#: 228378404-0-71314
-msgctxt "228378404-0-71314"
-msgid "An elaborate ivory key."
-msgstr "정교한 상아색 열쇠"
-
-#: 242841733-0-71314
-msgctxt "242841733-0-71314"
-msgid "Hubalajad Palace Kitchen Key"
-msgstr "휴발라자드 궁전 주방 열쇠"
+#: 242841733-0-95269
+msgctxt "242841733-0-95269"
+msgid "Vassir-Didanat Mine Key"
+msgstr "바씨르-디다낫 광산 열쇠"
 
 #: 228378404-0-71313
 #, fuzzy
@@ -202,45 +272,75 @@ msgctxt "242841733-0-71313"
 msgid "Summerset Hills 572"
 msgstr "서머셋 힐즈 572"
 
-#: 228378404-0-71257
-msgctxt "228378404-0-71257"
-msgid "A cheap, clearly fake gold locket."
-msgstr "싸구려, 명백한 가짜 금목걸이입니다."
+#: 228378404-0-94217
+msgctxt "228378404-0-94217"
+msgid "Blue flames swirl within this polished black stone, but it remains cold to the touch. The right person might show great interest in this."
+msgstr "푸른 불꽃이 안에서 소용돌이치는 광택나는 검은 돌, 하지만 만져보면 여전히 차갑습니다. 알맞은 사람이 이것에 큰 관심을 보일 수도 있습니다."
 
-#: 242841733-0-71257
-msgctxt "242841733-0-71257"
-msgid "Cheap Locket"
-msgstr "싸구려 로켓 목걸이"
+#: 242841733-0-94217
+msgctxt "242841733-0-94217"
+msgid "Stone of Yansirramus"
+msgstr "얀시라무스의 돌"
 
-#: 228378404-0-71246
-msgctxt "228378404-0-71246"
-msgid "An intricately decorated but sealed wedding invitation, addressed to Lord Wallavir."
-msgstr "복잡하게 꾸며진 봉인된 결혼식 초대장. 군주 Wallavir에게."
+#: 228378404-0-94216
+msgctxt "228378404-0-94216"
+msgid "Blue flames swirl within this polished black stone, but it remains cold to the touch. The right person might show great interest in this."
+msgstr "푸른 불꽃이 안에서 소용돌이치는 광택나는 검은 돌, 하지만 만져보면 여전히 차갑습니다. 알맞은 사람이 이것에 큰 관심을 보일 수도 있습니다."
 
-#: 242841733-0-71246
-msgctxt "242841733-0-71246"
-msgid "Sealed Wedding Invitation"
-msgstr "봉인된 결혼식 초대장"
+#: 242841733-0-94216
+msgctxt "242841733-0-94216"
+msgid "Stone of Tusenend"
+msgstr "튜세넨드의 돌"
 
-#: 228378404-0-71023
-msgctxt "228378404-0-71023"
-msgid "A letter from Forge-Mother Alga of Orsinium inviting you to help the king in Wrothgar."
-msgstr "오시니움의 용광로-대모 알가가 보낸, 로스가의 왕을 도와줄 것을 요청하는 편지입니다."
+#: 228378404-0-44718
+msgctxt "228378404-0-44718"
+msgid "Research on raising and breeding Kwama written by Nimriell."
+msgstr "님리엘이 작성한 크와마 사육과 번식에 대한 연구 기록입니다."
 
-#: 242841733-0-71023
-msgctxt "242841733-0-71023"
-msgid "Invitation to Orsinium"
-msgstr "오시니움에서의 초대"
+#: 242841733-0-44718
+msgctxt "242841733-0-44718"
+msgid "Nimriell's Research"
+msgstr "님리엘의 연구 기록"
 
-#: 228378404-0-64699
-msgctxt "228378404-0-64699"
-msgid "An old helm with a maker's mark from Morkul Stronghold. It's too battered to wear, and the name etched within is too faded to read."
-msgstr "이 오래된 투구에는 모쿨 요새의 제조 표식이 새겨져있다. 안에 새겨진 이름은 너무 흐릿해서 읽을 수 없다."
+#: 228378404-0-45804
+msgctxt "228378404-0-45804"
+msgid "A bright crystal that looks like it can reflect light in long distances."
+msgstr "먼 거리까지 비출 수 있는 빛나는 크리스탈입니다."
 
-#: 242841733-0-64699
-msgctxt "242841733-0-64699"
-msgid "Old Helm"
-msgstr "낡은 투구"
+#: 242841733-0-45804
+msgctxt "242841733-0-45804"
+msgid "Bright Crystal"
+msgstr "빛나는 크리스탈"
+
+#: 228378404-0-81562
+msgctxt "228378404-0-81562"
+msgid "Meat with a pleasant aroma that many wild predators find irresistable. Commonly used by hunters and trappers as bait."
+msgstr "많은 야생 포식자들이 거부할 수 없는 기분 좋은 향기가 나는 고기입니다. 보통 사냥꾼들과 사냥꾼들이 미끼로 사용합니다."
+
+#: 242841733-0-81562
+msgctxt "242841733-0-81562"
+msgid "Succulent Gravelclaw Meat"
+msgstr "즙이 많은 무덤집게 고기"
+
+#: 228378404-0-27674
+msgctxt "228378404-0-27674"
+msgid "A granular powder known for causing a small explosions when put in fire"
+msgstr "불이 붙으면 작은 폭발이 일어나는 불꽃 가루"
+
+#: 242841733-0-27674
+msgctxt "242841733-0-27674"
+msgid "Flash Powder"
+msgstr "불꽃가루"
+
+#: 228378404-0-116343
+msgctxt "228378404-0-116343"
+msgid "A tightly rolled scroll with a ribbon around it, with several ink stains."
+msgstr "단단히 말린 스크롤이 리본으로 묶여있으며, 약간의 잉크 얼룩이 있습니다."
+
+#: 242841733-0-116343
+msgctxt "242841733-0-116343"
+msgid "Ode to Ethrandora"
+msgstr "에테란도라(Ethrandora)를 향한 송시"
 
 #: 228378404-0-59711
 msgctxt "228378404-0-59711"
@@ -261,88 +361,3 @@ msgstr "많은 야생 포식자들이 거부할 수 없는 기분 좋은 향기�
 msgctxt "242841733-0-55737"
 msgid "Succulent Gravelclaw Meat"
 msgstr "즙이 많은 무덤집게 고기"
-
-#: 228378404-0-45804
-msgctxt "228378404-0-45804"
-msgid "A bright crystal that looks like it can reflect light in long distances."
-msgstr "먼 거리까지 비출 수 있는 빛나는 크리스탈입니다."
-
-#: 242841733-0-45804
-msgctxt "242841733-0-45804"
-msgid "Bright Crystal"
-msgstr "빛나는 크리스탈"
-
-#: 228378404-0-45796
-msgctxt "228378404-0-45796"
-msgid "A dulled crystal that looks like it can reflect light in short distances."
-msgstr "짧은 거리만 비출 수 있는 흐릿한 크리스탈입니다."
-
-#: 242841733-0-45796
-msgctxt "242841733-0-45796"
-msgid "Murky Crystal"
-msgstr "흐린 크리스탈"
-
-#: 228378404-0-45771
-msgctxt "228378404-0-45771"
-msgid "A stone plate covered in ritual scrawl."
-msgstr "석판에 의식의 글자이 새겨져 있습니다."
-
-#: 242841733-0-45771
-msgctxt "242841733-0-45771"
-msgid "Ritual Shard"
-msgstr "의식의 파편"
-
-#: 228378404-0-45016
-msgctxt "228378404-0-45016"
-msgid "This carved gemstone powers the shrines."
-msgstr "조각된 보석이 제단에 힘을 부여합니다."
-
-#: 242841733-0-45016
-msgctxt "242841733-0-45016"
-msgid "Star Shard"
-msgstr "별의 조각"
-
-#: 228378404-0-45014
-msgctxt "228378404-0-45014"
-msgid "These mystical stones can be used at certain tombs to force fallen Yokudan champions to rise from their graves."
-msgstr "이 신비한 돌을 특정한 묘지에서 사용하면 죽은 요쿠단 전사들을 무덤에서 일으켜 세울 수 있습니다."
-
-#: 242841733-0-45014
-msgctxt "242841733-0-45014"
-msgid "Spirit Stone"
-msgstr "영혼의 돌"
-
-#: 228378404-0-44718
-msgctxt "228378404-0-44718"
-msgid "Research on raising and breeding Kwama written by Nimriell."
-msgstr "님리엘이 작성한 크와마 사육과 번식에 대한 연구 기록입니다."
-
-#: 242841733-0-44718
-msgctxt "242841733-0-44718"
-msgid "Nimriell's Research"
-msgstr "님리엘의 연구 기록"
-
-#: 228378404-0-27674
-msgctxt "228378404-0-27674"
-msgid "A granular powder known for causing a small explosions when put in fire"
-msgstr "불이 붙으면 작은 폭발이 일어나는 불꽃 가루"
-
-#: 242841733-0-27674
-msgctxt "242841733-0-27674"
-msgid "Flash Powder"
-msgstr "불꽃가루"
-
-#: 242841733-0-153880
-msgctxt "242841733-0-153880"
-msgid "unused"
-msgstr ""
-
-#: 242841733-0-116343
-msgctxt "242841733-0-116343"
-msgid "Ode to Ethrandora"
-msgstr "에테란도라(Ethrandora)를 향한 송시"
-
-#: 228378404-0-116343
-msgctxt "228378404-0-116343"
-msgid "A tightly rolled scroll with a ribbon around it, with several ink stains."
-msgstr "단단히 말린 스크롤이 리본으로 묶여있으며, 약간의 잉크 얼룩이 있습니다."

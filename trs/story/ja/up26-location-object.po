@@ -1,0 +1,582 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ja\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 10860933-0-2269
+msgctxt "10860933-0-2269"
+msgid "Nightstone Ritual Site"
+msgstr "ナイトストーンの儀式の場所"
+
+#: 10860933-0-2225
+msgctxt "10860933-0-2225"
+msgid "Karthald Great Lift"
+msgstr "カーサルドの大リフト"
+
+#: 10860933-0-2268
+msgctxt "10860933-0-2268"
+msgid "Miner's Lament Ritual Site"
+msgstr "鉱山労働者の嘆きの儀式の場所"
+
+#: 10860933-0-2267
+msgctxt "10860933-0-2267"
+msgid "Dwarf's Bane Ritual Site"
+msgstr "ドワーフ殺しの儀式の場所"
+
+#: 10860933-0-2223
+msgctxt "10860933-0-2223"
+msgid "Dark Moon Grotto Wayshrine"
+msgstr "闇の月の洞窟の旅の祠"
+
+#: 10860933-0-2266
+msgctxt "10860933-0-2266"
+msgid "Gloomforest Ritual Site"
+msgstr "グルームフォレストの儀式の場所"
+
+#: 10860933-0-2222
+msgctxt "10860933-0-2222"
+msgid "Lightless Hollow Wayshrine"
+msgstr "光ささぬ空洞の旅の祠"
+
+#: 10860933-0-2229
+msgctxt "10860933-0-2229"
+msgid "Lightless Hollow Great Lift"
+msgstr "光ささぬ空洞の大リフト"
+
+#: 10860933-0-2228
+msgctxt "10860933-0-2228"
+msgid "Eastern Great Lift"
+msgstr "東の大リフト"
+
+#: 10860933-0-2227
+msgctxt "10860933-0-2227"
+msgid "Hjaalmarch Great Lift"
+msgstr "ハイヤルマーチの大リフト"
+
+#: 10860933-0-2261
+msgctxt "10860933-0-2261"
+msgid "Kilkreath Giant Camp"
+msgstr "キルクリースの巨人の野営地"
+
+#: 10860933-0-2260
+msgctxt "10860933-0-2260"
+msgid "Karthald Giant Camp"
+msgstr "カーサルドの巨人の野営地"
+
+#: 10860933-0-2221
+msgctxt "10860933-0-2221"
+msgid "Greymoor Keep Wayshrine"
+msgstr "グレイムーア砦の旅の祠"
+
+#: 10860933-0-2220
+msgctxt "10860933-0-2220"
+msgid "Dusktown Wayshrine"
+msgstr "ダスクタウンの旅の祠"
+
+#: 10860933-0-2262
+msgctxt "10860933-0-2262"
+msgid "Highland Giant Camp"
+msgstr "高地の巨人の野営地"
+
+#: 10860933-0-2258
+msgctxt "10860933-0-2258"
+msgid "Northern Watch Ritual Site"
+msgstr "北の監視所の儀式の場所"
+
+#: 10860933-0-2214
+msgctxt "10860933-0-2214"
+msgid "Dragonhome"
+msgstr "ドラゴンの家"
+
+#: 10860933-0-2257
+msgctxt "10860933-0-2257"
+msgid "Hailstone Valley Ritual Site"
+msgstr "ヘイルストーン谷の儀式の場所"
+
+#: 10860933-0-2213
+msgctxt "10860933-0-2213"
+msgid "Chillwind Depths"
+msgstr "冷風ヶ淵"
+
+#: 10860933-0-2212
+msgctxt "10860933-0-2212"
+msgid "Shadowgreen"
+msgstr "シャドウグリーン"
+
+#: 10860933-0-2255
+msgctxt "10860933-0-2255"
+msgid "Chilblain Peak Ritual Site"
+msgstr "チルブレイン・ピークの儀式の場所"
+
+#: 10860933-0-2211
+msgctxt "10860933-0-2211"
+msgid "Frozen Coast"
+msgstr "フローズンコースト"
+
+#: 10860933-0-2259
+msgctxt "10860933-0-2259"
+msgid "Coastal Giant Camp"
+msgstr "沿岸の巨人の野営地"
+
+#: 10860933-0-2215
+msgctxt "10860933-0-2215"
+msgid "Labyrinthian"
+msgstr "ラビリンシアン"
+
+#: 10860933-0-2254
+msgctxt "10860933-0-2254"
+msgid "Giant's Coast Ritual Site"
+msgstr "巨人の岸の儀式の場所"
+
+#: 10860933-0-2253
+msgctxt "10860933-0-2253"
+msgid "Black Morass Ritual Site"
+msgstr "黒い沼の儀式の場所"
+
+#: 10860933-0-2252
+msgctxt "10860933-0-2252"
+msgid "Old Karth Ritual Site"
+msgstr "古きカースの儀式の場所"
+
+#: 10860933-0-2329
+msgctxt "10860933-0-2329"
+msgid "Great Lift"
+msgstr "Great Lift"
+
+#: 10860933-0-2324
+msgctxt "10860933-0-2324"
+msgid "Sword's Point Watchtower"
+msgstr "剣先の監視塔"
+
+#: 10860933-0-2323
+msgctxt "10860933-0-2323"
+msgid "Storm-Hawk's Altar"
+msgstr "ストームホークの祭壇"
+
+#: 10860933-0-2322
+msgctxt "10860933-0-2322"
+msgid "Lendoran Ruin"
+msgstr "レンドラン遺跡"
+
+#: 10860933-0-2289
+msgctxt "10860933-0-2289"
+msgid "Western Greymoor Wayshrine"
+msgstr "西グレイムーアの旅の祠"
+
+#: 10860933-0-2288
+msgctxt "10860933-0-2288"
+msgid "Deep Overlook Wayshrine"
+msgstr "深き高台の旅の祠"
+
+#: 10860933-0-2244
+msgctxt "10860933-0-2244"
+msgid "Solitude Wayshrine"
+msgstr "ソリチュードの旅の祠"
+
+#: 10860933-0-2328
+msgctxt "10860933-0-2328"
+msgid "Mor Khazgur Giant Camp"
+msgstr "モル・カズグールの巨人の野営地"
+
+#: 10860933-0-2327
+msgctxt "10860933-0-2327"
+msgid "Gloomstalker Village"
+msgstr "グルームストーカー村"
+
+#: 10860933-0-2326
+msgctxt "10860933-0-2326"
+msgid "Darkrise Overlook"
+msgstr "ダークライズ高台"
+
+#: 10860933-0-2325
+msgctxt "10860933-0-2325"
+msgid "Wolf's Eye Lighthouse"
+msgstr "狼の目の灯台"
+
+#: 10860933-0-2204
+msgctxt "10860933-0-2204"
+msgid "Solitude"
+msgstr "ソリチュード"
+
+#: 10860933-0-2283
+msgctxt "10860933-0-2283"
+msgid "Hunter's House"
+msgstr "狩人の家"
+
+#: 10860933-0-2282
+msgctxt "10860933-0-2282"
+msgid "Bastion Sanguinaris"
+msgstr "吸血鬼の砦"
+
+#: 10860933-0-2281
+msgctxt "10860933-0-2281"
+msgid "Deepwood Giant Camp"
+msgstr "ディープウッドの巨人の野営地"
+
+#: 10860933-0-2280
+msgctxt "10860933-0-2280"
+msgid "Proudspire Manor"
+msgstr "プラウドスパイヤー邸"
+
+#: 10860933-0-2287
+msgctxt "10860933-0-2287"
+msgid "Grotto Falls Wayshrine"
+msgstr "洞窟の滝の旅の祠"
+
+#: 10860933-0-2286
+msgctxt "10860933-0-2286"
+msgid "Dwarven Run Wayshrine"
+msgstr "ドワーフ遺跡の旅の祠"
+
+#: 10860933-0-2242
+msgctxt "10860933-0-2242"
+msgid "Frozen Coast Wayshrine"
+msgstr "フローズンコーストの旅の祠"
+
+#: 10860933-0-2285
+msgctxt "10860933-0-2285"
+msgid "Parasite's Cave"
+msgstr "寄生者の洞窟"
+
+#: 10860933-0-2241
+msgctxt "10860933-0-2241"
+msgid "Southern Watch Wayshrine"
+msgstr "サザンウォッチの旅の祠"
+
+#: 10860933-0-2284
+msgctxt "10860933-0-2284"
+msgid "Dragon's Belly"
+msgstr "ドラゴンの腹"
+
+#: 10860933-0-2240
+msgctxt "10860933-0-2240"
+msgid "Dragon Bridge Wayshrine"
+msgstr "ドラゴン・ブリッジの旅の祠"
+
+#: 10860933-0-2236
+msgctxt "10860933-0-2236"
+msgid "Kilkreath Temple Wayshrine"
+msgstr "キルクリース聖堂の旅の祠"
+
+#: 10860933-0-2279
+msgctxt "10860933-0-2279"
+msgid "Snowmelt Suite"
+msgstr "スノーメルトの特別室"
+
+#: 10860933-0-2278
+msgctxt "10860933-0-2278"
+msgid "Deepwood Vale Wayshrine"
+msgstr "ディープウッド谷の旅の祠"
+
+#: 10860933-0-2234
+msgctxt "10860933-0-2234"
+msgid "The Scraps"
+msgstr "スクラップ"
+
+#: 10860933-0-2233
+msgctxt "10860933-0-2233"
+msgid "Midnight Barrow"
+msgstr "ミッドナイト墓地"
+
+#: 10860933-0-2238
+msgctxt "10860933-0-2238"
+msgid "Mor Khazgur Wayshrine"
+msgstr "モル・カズグールの旅の祠"
+
+#: 10860933-0-2237
+msgctxt "10860933-0-2237"
+msgid "Morthal Wayshrine"
+msgstr "モーサルの旅の祠"
+
+#: 10860933-0-2232
+msgctxt "10860933-0-2232"
+msgid "Greymoor Cavern Great Lift"
+msgstr "グレイムーア洞窟の大リフト"
+
+#: 10860933-0-2275
+msgctxt "10860933-0-2275"
+msgid "Solitude Docks Wayshrine"
+msgstr "ソリチュード港の旅の祠"
+
+#: 10860933-0-2230
+msgctxt "10860933-0-2230"
+msgid "Dark Moon Grotto Great Lift"
+msgstr "闇の月の洞窟の大リフト"
+
+#: 10860933-0-2210
+msgctxt "10860933-0-2210"
+msgid "The Silver Cormorant"
+msgstr "シルバー・コーモラント"
+
+#: 108566804-0-2210
+msgctxt "108566804-0-2210"
+msgid "You saved the crew of the Silver Cormorant."
+msgstr "シルバー・コーモラント号の船員を助けた。"
+
+#: 129979412-0-2210
+msgctxt "129979412-0-2210"
+msgid "Help the crew of the Silver Cormorant."
+msgstr "シルバー・コーモラント号の船員を助ける。"
+
+#: 10860933-0-2251
+msgctxt "10860933-0-2251"
+msgid "Nchuthnkarst"
+msgstr "ヌシュトンカースト"
+
+#: 108566804-0-2251
+msgctxt "108566804-0-2251"
+msgid "You repaired the malfunctioning machines of Nchuthnkarst."
+msgstr "ヌシュトンカーストの故障した機械を修理した"
+
+#: 129979412-0-2251
+msgctxt "129979412-0-2251"
+msgid "Help Kireth and Raynor explore the ruins of Nchuthnkarst."
+msgstr "キレスとレイノーがヌシュトンカーストを探索するのを手伝う。"
+
+#: 10860933-0-2250
+msgctxt "10860933-0-2250"
+msgid "Colossus Charging Station"
+msgstr "巨像の充填台"
+
+#: 108566804-0-2250
+msgctxt "108566804-0-2250"
+msgid "You defeated the Dwarven Colossus."
+msgstr "ドワーフの巨像を倒した"
+
+#: 129979412-0-2250
+msgctxt "129979412-0-2250"
+msgid "Defeat the Dwarven Colossus in its charging station."
+msgstr "充填台でドワーフの巨像を倒す"
+
+#: 10860933-0-2218
+msgctxt "10860933-0-2218"
+msgid "Greymoor Keep"
+msgstr "グレイムーア砦"
+
+#: 108566804-0-2218
+msgctxt "108566804-0-2218"
+msgid "You brought an end to Lady Essenia's vile experiments."
+msgstr "レディ・エッセニアの悪しき実験を終わらせた。"
+
+#: 129979412-0-2218
+msgctxt "129979412-0-2218"
+msgid "Uncover the truth of the Blood Queen's vile experiments."
+msgstr "血の女王の悪しき実験の真実を解明する。"
+
+#: 10860933-0-2207
+msgctxt "10860933-0-2207"
+msgid "Dragon Bridge"
+msgstr "ドラゴン・ブリッジ"
+
+#: 108566804-0-2207
+msgctxt "108566804-0-2207"
+msgid "You stopped the Reach plot to blow up the Dragon Bridge."
+msgstr "ドラゴン・ブリッジを吹き飛ばそうとするリーチの計画を阻止した。"
+
+#: 129979412-0-2207
+msgctxt "129979412-0-2207"
+msgid "Help the Dragon Bridge garrison find their missing supplies."
+msgstr "ドラゴン・ブリッジ駐屯地の失われた物資捜索を手伝う。"
+
+#: 10860933-0-2217
+msgctxt "10860933-0-2217"
+msgid "Dusktown"
+msgstr "ダスクタウン"
+
+#: 108566804-0-2217
+msgctxt "108566804-0-2217"
+msgid "You helped solve the mystery of the missing miners."
+msgstr "鉱山労働者の失踪事件解決を手伝った。"
+
+#: 129979412-0-2217
+msgctxt "129979412-0-2217"
+msgid "Solve the mystery of the missing miners in Dusktown."
+msgstr "ダスクタウンで起きている鉱山労働者の失踪事件を解決する。"
+
+#: 10860933-0-2206
+msgctxt "10860933-0-2206"
+msgid "Karthwatch"
+msgstr "カースウォッチ"
+
+#: 108566804-0-2206
+msgctxt "108566804-0-2206"
+msgid "You rescued the survivors of Karthwatch from the Reachmen."
+msgstr "リーチ人にさらわれたカースウォッチの生存者を救出した。"
+
+#: 129979412-0-2206
+msgctxt "129979412-0-2206"
+msgid "Find the missing citizens of Karthwatch."
+msgstr "カースウォッチで行方不明の市民を探す"
+
+#: 10860933-0-2249
+msgctxt "10860933-0-2249"
+msgid "Vampire Feeding Grounds"
+msgstr "吸血鬼の餌場"
+
+#: 108566804-0-2249
+msgctxt "108566804-0-2249"
+msgid "You destroyed the Vampire Feeding Grounds."
+msgstr "吸血鬼の餌場を破壊した"
+
+#: 129979412-0-2249
+msgctxt "129979412-0-2249"
+msgid "Destroy the Vampire Feeding Grounds."
+msgstr "吸血鬼の餌場を破壊する"
+
+#: 10860933-0-2205
+msgctxt "10860933-0-2205"
+msgid "Morthal"
+msgstr "モーサル"
+
+#: 108566804-0-2205
+msgctxt "108566804-0-2205"
+msgid "You helped break the curse imprisoning Freiwen."
+msgstr "フレイウェンを閉じ込めていた呪いを破るのを手伝った"
+
+#: 129979412-0-2205
+msgctxt "129979412-0-2205"
+msgid "Investigate strange events around Morthal."
+msgstr "モーサル周囲の奇妙なイベントを調査する。"
+
+#: 10860933-0-2248
+msgctxt "10860933-0-2248"
+msgid "Shademother's Haven"
+msgstr "シェイドマザーの隠れ家"
+
+#: 108566804-0-2248
+msgctxt "108566804-0-2248"
+msgid "You defeated Shademother at her island haven."
+msgstr "島の隠れ家でシェイドマザーを倒した"
+
+#: 129979412-0-2248
+msgctxt "129979412-0-2248"
+msgid "Defeat Shademother at her island haven."
+msgstr "島の隠れ家でシェイドマザーを倒す"
+
+#: 10860933-0-2247
+msgctxt "10860933-0-2247"
+msgid "Circle of Champions"
+msgstr "サークル・オブ・チャンピオンズ"
+
+#: 108566804-0-2247
+msgctxt "108566804-0-2247"
+msgid "You defeated Skreg the Undefeatable."
+msgstr "無敵のスクレグを倒した"
+
+#: 129979412-0-2247
+msgctxt "129979412-0-2247"
+msgid "Defeat Skreg the Undefeatable in combat."
+msgstr "無敵のスクレグを倒す"
+
+#: 10860933-0-2224
+msgctxt "10860933-0-2224"
+msgid "Dark Moon Grotto"
+msgstr "闇の月の洞窟"
+
+#: 108566804-0-2224
+msgctxt "108566804-0-2224"
+msgid "You helped cure the werewolves of Dark Moon Grotto."
+msgstr "闇の月の洞窟のウェアウルフの治療を手伝った。"
+
+#: 129979412-0-2224
+msgctxt "129979412-0-2224"
+msgid "Investigate the sickness spreading through Dark Moon Grotto."
+msgstr "闇の月の洞窟に広がる病気を調査する"
+
+#: 10860933-0-2246
+msgctxt "10860933-0-2246"
+msgid "Ysmgar's Beach"
+msgstr "イスムガルの浜"
+
+#: 108566804-0-2246
+msgctxt "108566804-0-2246"
+msgid "You defeated Ysmgar the Sea Giant."
+msgstr "海の巨人イスムガルを倒した"
+
+#: 129979412-0-2246
+msgctxt "129979412-0-2246"
+msgid "Kill Ysmgar the Sea Giant."
+msgstr "海の巨人イスムガルを倒す"
+
+#: 10860933-0-2256
+msgctxt "10860933-0-2256"
+msgid "Trial: Kyne's Aegis"
+msgstr "試練: カイネズ・アイギス"
+
+#: 108566804-0-2256
+msgctxt "108566804-0-2256"
+msgid "You helped Thane Ogvar defend Kyne's Aegis."
+msgstr "オグヴァル従士を助けてカイネズ・アイギスを守った"
+
+#: 129979412-0-2256
+msgctxt "129979412-0-2256"
+msgid "Join Thane Ogvar in Kyne's Aegis."
+msgstr "カイネズ・アイギスでオグヴァル従士に合流する。"
+
+#: 10860933-0-2245
+msgctxt "10860933-0-2245"
+msgid "Hordrek's Hunting Grounds"
+msgstr "ホードレックの狩場"
+
+#: 108566804-0-2245
+msgctxt "108566804-0-2245"
+msgid "You defeated Hordrek's Stalkers."
+msgstr "ホードレックの追跡者を倒した。"
+
+#: 129979412-0-2245
+msgctxt "129979412-0-2245"
+msgid "Defeat Hordrek's Stalkers."
+msgstr "ホードレックの追跡者を倒す。"
+
+#: 10860933-0-2209
+msgctxt "10860933-0-2209"
+msgid "Mor Khazgur"
+msgstr "モル・カズグール"
+
+#: 108566804-0-2209
+msgctxt "108566804-0-2209"
+msgid "You solved the mystery of the mine collapse in Mor Khazgur."
+msgstr "モル・カズグールで崩落した鉱山の謎を解いた。"
+
+#: 129979412-0-2209
+msgctxt "129979412-0-2209"
+msgid "Help the Mor Khazgur clan save their trapped miners."
+msgstr "モル・カズグールに閉じ込められた鉱山労働者を助ける"
+
+#: 10860933-0-2219
+msgctxt "10860933-0-2219"
+msgid "The Lightless Hollow"
+msgstr "光ささぬ空洞"
+
+#: 108566804-0-2219
+msgctxt "108566804-0-2219"
+msgid "You helped Viggol solve the mystery of Lightless Hollow."
+msgstr "ヴィゴルを助けて、光ささぬ空洞の謎を解決した。"
+
+#: 129979412-0-2219
+msgctxt "129979412-0-2219"
+msgid "Help Viggol go on one last adventure."
+msgstr "ヴィゴルの最後の冒険を助ける。"
+
+#: 10860933-0-2208
+msgctxt "10860933-0-2208"
+msgid "Kilkreath Temple"
+msgstr "キルクリース聖堂"
+
+#: 108566804-0-2208
+msgctxt "108566804-0-2208"
+msgid "You helped save the survivors of Kilkreath Temple."
+msgstr "キルクリース聖堂の生存者を助ける手伝いをした。"
+
+#: 129979412-0-2208
+msgctxt "129979412-0-2208"
+msgid "Help save the survivors of Kilkreath Temple."
+msgstr "キルクリース聖堂の生存者を助ける"

@@ -11,26 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-122395
-msgctxt "132143172-0-122395"
-msgid "Unleash a pestilent Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over <<1>>, dealing <<2>>, <<3>>, and <<4>> with the first, second, and third smash.\n\nDealing damage applies Major Vulnerability to any enemy hit for <<5>>, increasing their damage taken by <<6>>. Enemies hit cannot be affected again for <<7>>."
-msgstr "역병걸린 살덩이 거인을 해방시켜 주위의 적을 분쇄합니다. 거인은 지면을 3번 내리쳐 <<1>>동안 각각 <<2>>, <<3>>, <<4>> 피해를 줍니다.\n\n각각의 공격은 Major Vulnerability를 <<5>>동안 부여해, 적에게 입히는 피해량을 <<6>> 증가시킵니다. 영향을 받은 적들은 Majot Vulnerability 효과를 <<7>>동안 다시 걸리지 않습니다"
-
-#: 198758357-0-122395
-msgctxt "198758357-0-122395"
-msgid "Pestilent Colossus"
-msgstr "Pestilent Colossus"
-
-#: 132143172-0-122388
-msgctxt "132143172-0-122388"
-msgid "Unleash a frostbitten Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over <<1>>, dealing <<2>> with each smash. The final smash stuns all enemies hit for <<3>>.\n\nDealing damage applies Major Vulnerability to any enemy hit for <<4>>, increasing their damage taken by <<5>>. Enemies hit cannot be affected again for <<6>>."
-msgstr "얼어붙은 살덩이 거인을 해방시켜 주위의 적을 분쇄합니다. 거인은 지면을 <<1>> 동안 3번 내리쳐 각각 <<2>>의 피해를 줍니다. 마지막 공격은 명중한 적 전체를 <<3>> 동안 기절시킵니다.\n\n각각의 공격은 Major Vulnerability를 <<4>> 부여해, 적에게 입히는 피해량을 <<5>> 증가시킵니다. 영향을 받은 적들은 Majot Vulnerability 효과를 <<6>>동안 다시 걸리지 않습니다"
-
-#: 198758357-0-122388
-msgctxt "198758357-0-122388"
-msgid "Glacial Colossus"
-msgstr "Glacial Colossus"
-
 #: 132143172-0-122174
 msgctxt "132143172-0-122174"
 msgid "Unleash a frostbitten Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over <<1>>, dealing <<2>> with each smash.\n\nDealing damage applies Major Vulnerability to any enemy hit for <<3>>, increasing their damage taken by <<4>>. Enemies hit cannot be affected again for <<5>>."
@@ -40,16 +20,6 @@ msgstr "얼어붙은 살덩이 거인을 해방시켜 주위의 적을 분쇄합
 msgctxt "198758357-0-122174"
 msgid "Frozen Colossus"
 msgstr "Frozen Colossus"
-
-#: 132143172-0-118763
-msgctxt "132143172-0-118763"
-msgid "Violently drain the last spark of life from a corpse, dealing <<1>> over <<2>> to all enemies around the corpse and between you and the corpse.  \n\nIf the siphon lasts its full duration it causes the corpse to explode, dealing an additional <<3>> to all enemies around the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your damage done is increased by <<4>>."
-msgstr "시체에 남아있는 마지막 생명의 광휘를 빼앗아, 시체 주변이나 자신과 시체 사이에 있는 모든 적에게 피해 <<1>>을<<2>> 만큼 줍니다.\n\n지속시간동안 지속적으로 시체를 흡수하면 시체는 폭발하여, 추가적으로 시체 주위에 있는 적에게 <<3>> 피해를 줍니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n기술칸에 장비하고 있을 때, 피해량이 <<4>> 증가합니다."
-
-#: 198758357-0-118763
-msgctxt "198758357-0-118763"
-msgid "Detonating Siphon"
-msgstr "Detonating Siphon"
 
 #: 132143172-0-118726
 msgctxt "132143172-0-118726"
@@ -61,16 +31,6 @@ msgctxt "198758357-0-118726"
 msgid "Skeletal Arcanist"
 msgstr "Skeletal Arcanist"
 
-#: 132143172-0-118680
-msgctxt "132143172-0-118680"
-msgid "Unearth a skeletal archer from the dirt to fight by your side for <<1>>. The archer attacks the closest enemy every |cffffff2|r seconds, dealing <<2>>.\n\nEach time the archer deals damage, its next attack will do <<3>> more damage than the previous attack.\n\nCreates a corpse on death."
-msgstr "땅에서 해골 궁수를 일으켜, <<1>> 동안 아군편에서 싸우게 합니다. 궁수는 가장 가까이에 있는 적을 |cffffff2|r초마다 공격하며, <<2>>의 피해를 줍니다.\n\n궁수가 피해를 줄 때마다, 다음 공격은 이전 공격보다 <<3>>많은 피해를 줍니다.\n\n죽으면 시체로 변합니다."
-
-#: 198758357-0-118680
-msgctxt "198758357-0-118680"
-msgid "Skeletal Archer"
-msgstr "Skeletal Archer"
-
 #: 132143172-0-118008
 msgctxt "132143172-0-118008"
 msgid "Violently drain the last spark of life from a corpse, dealing <<1>> over <<2>> to all enemies around the corpse and between you and the corpse.  This portion of the ability scales off your highest offensive stats.\n\nYou also restore <<3>> Magicka over <<4>> while siphoning the corpse.\n\nWhile slotted, your damage done is increased by <<5>>."
@@ -80,46 +40,6 @@ msgstr "시체에 남아있는 마지막 생명의 광휘를 빼앗아, 시체 �
 msgctxt "198758357-0-118008"
 msgid "Mystic Siphon"
 msgstr "Mystic Siphon"
-
-#: 132143172-0-117850
-msgctxt "132143172-0-117850"
-msgid "Desecrate the ground at the target location, dealing <<1>> over <<2>>.\n\nConsumes a corpse on cast to deal <<3>> more damage.\n\nYou or an ally standing in the graveyard can activate the |cffffffGrave Robber|r synergy, dealing <<4>> to enemies in the area and healing you for the damage done."
-msgstr "대상으로 한 땅을 더럽혀, <<1>>피해를 <<2>>동안 줍니다.\n\n시전할때 시체를 흡수하면, <<3>> 피해를 더 줍니다.\n\n무덤 위에 서 있는 아군은 |cffffff무덤을 파헤치는 자|r 시너지를 발동해, 범위내의 적에게 <<4>>피해를 주고 피해를 준 만큼 시전자를 회복시킵니다."
-
-#: 198758357-0-117850
-msgctxt "198758357-0-117850"
-msgid "Avid Boneyard"
-msgstr "Avid Boneyard"
-
-#: 132143172-0-117805
-msgctxt "132143172-0-117805"
-msgid "Desecrate the ground at the target location, dealing <<1>> over <<2>> and applying Major Breach and Fracture to enemies within, reducing their Spell and Physical Resistance by <<3>>.\n\nConsumes a corpse on cast to deal <<4>> more damage.\n\nAn ally standing in the graveyard can activate the |cffffffGrave Robber|r synergy, dealing <<5>> to enemies in the area and healing you for the damage done."
-msgstr "대상으로 한 땅을 더럽혀, <<1>>피해를 <<2>>동안 줍니다. 그리고 Major Breach와 Major Fracture를 부여해, 적의 물리 저항력과 마법저항력을 <<3>> 감소시킵니다.\n\n시전할때 시체를 흡수하면, <<4>> 피해를 더 줍니다.\n\n무덤 위에 서 있는 아군은 |cffffff무덤을 파헤치는 자|r 시너지를 발동해, 범위내의 적에게 <<5>>피해를 주고 피해를 준 만큼 시전자를 회복시킵니다."
-
-#: 198758357-0-117805
-msgctxt "198758357-0-117805"
-msgid "Unnerving Boneyard"
-msgstr "Unnerving Boneyard"
-
-#: 132143172-0-117749
-msgctxt "132143172-0-117749"
-msgid "Summon a flaming skeleton from the ground after <<1>>. The skeleton runs after the target and explodes when it gets close to them, dealing <<2>> to all enemies nearby.\n\nEvery second the skeleton spends chasing its target increases the damage of the explosion by <<3>>, up to a maximum of |cffffff50|r% more damage.\n\nCreates a corpse on death."
-msgstr "<<1>> 후 타오르는 해골을 지면에 소환합니다. 해골은 표적을 쫓아 가까이가면 폭발해 근처의 적 모두에게 <<2>> 피해를 줍니다.\n\n해골이 대상을 쫓는 시간이 길어질수록 1초마다 폭발피해량이 <<3>> 증가합니다. 피해량이 최대 |cffffff50|r%증가합니다.\n\n죽으면 시체로 변합니다."
-
-#: 198758357-0-117749
-msgctxt "198758357-0-117749"
-msgid "Stalking Blastbones"
-msgstr "Stalking Blastbones"
-
-#: 132143172-0-117690
-msgctxt "132143172-0-117690"
-msgid "Summon a decaying skeleton from the ground after <<1>>. The skeleton runs after the target and explodes when it gets close to them, dealing <<2>> to all enemies nearby and applying Major Defile to them for <<3>>, reducing their healing received and Health Recovery by <<4>>\n\nCreates a corpse on death."
-msgstr "<<1>>후 부패한 해골을 지면에 소환합니다. 해골은 표적을 쫓아 가까이가면 폭발해 근처의 적 모두에게 <<2>> 피해를 줍니다. 그리고 Major Deifile을 부여해, 적의 회복량과 체력재생을 <<4>> 감소시킵니다.\n\n죽으면 시체로 변합니다."
-
-#: 198758357-0-117690
-msgctxt "198758357-0-117690"
-msgid "Blighted Blastbones"
-msgstr "Blighted Blastbones"
 
 #: 132143172-0-117637
 msgctxt "132143172-0-117637"
@@ -131,25 +51,35 @@ msgctxt "198758357-0-117637"
 msgid "Ricochet Skull"
 msgstr "Ricochet Skull"
 
-#: 132143172-0-117624
-msgctxt "132143172-0-117624"
-msgid "Lob an explosive skull at an enemy, dealing <<1>>.\n\nEvery third cast of this ability deals <<2>> increased damage.\n\nWhile slotted, casting any Necromancer ability while you are in combat will count towards the third cast."
-msgstr "폭발하는 두개골을 적에게 던져 <<1>>피해를 줍니다.\n\n이 어빌리티를 3번 사용할때마다 피해량이 <<2>> 증가합니다.\n\n기술칸에 장비하고 있을 때, 전투중 아무 네크로맨서 어빌리티를 시전하면 이 어빌리티를 시전한것으로 칩니다."
+#: 132143172-0-122395
+msgctxt "132143172-0-122395"
+msgid "Unleash a pestilent Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over <<1>>, dealing <<2>>, <<3>>, and <<4>> with the first, second, and third smash.\n\nDealing damage applies Major Vulnerability to any enemy hit for <<5>>, increasing their damage taken by <<6>>. Enemies hit cannot be affected again for <<7>>."
+msgstr "역병걸린 살덩이 거인을 해방시켜 주위의 적을 분쇄합니다. 거인은 지면을 3번 내리쳐 <<1>>동안 각각 <<2>>, <<3>>, <<4>> 피해를 줍니다.\n\n각각의 공격은 Major Vulnerability를 <<5>>동안 부여해, 적에게 입히는 피해량을 <<6>> 증가시킵니다. 영향을 받은 적들은 Majot Vulnerability 효과를 <<7>>동안 다시 걸리지 않습니다"
 
-#: 198758357-0-117624
-msgctxt "198758357-0-117624"
-msgid "Venom Skull"
-msgstr "Venom Skull"
+#: 198758357-0-122395
+msgctxt "198758357-0-122395"
+msgid "Pestilent Colossus"
+msgstr "Pestilent Colossus"
 
-#: 132143172-0-116201
-msgctxt "132143172-0-116201"
-msgid "Increases your damage done with damage over time effects by <<1>>."
-msgstr "지속대미지 효과에 의한 피해량을 <<1>> 증가시킵니다."
+#: 132143172-0-114108
+msgctxt "132143172-0-114108"
+msgid "Lob an explosive skull at an enemy, dealing <<1>>.\n\nEvery third cast of this ability deals <<2>> increased damage."
+msgstr "폭발하는 두개골을 적에게 던져 피해를 <<1>> 줍니다.\n\n이 어빌리티를 3번 사용할때마다 피해량이 <<2>> 증가합니다."
 
-#: 198758357-0-116201
-msgctxt "198758357-0-116201"
-msgid "Rapid Rot"
-msgstr "Rapid Rot"
+#: 198758357-0-114108
+msgctxt "198758357-0-114108"
+msgid "Flame Skull"
+msgstr "Flame Skull"
+
+#: 132143172-0-116197
+msgctxt "132143172-0-116197"
+msgid "Increases your Critical Strike Chance against enemies under |cffffff25|r% Health by <<1>> for each Grave Lord ability slotted.\n\nCurrent bonus: <<2>>."
+msgstr "기술칸에 장비하고 있는 무덤의 왕 어빌리티 1개당, 체력이 |cffffff25|r%이하의 적에 대한 크리티컬 확률이 <<1>> 증가합니다.\n\n현재 보너스: <<2>>"
+
+#: 198758357-0-116197
+msgctxt "198758357-0-116197"
+msgid "Death Knell"
+msgstr "Death Knell"
 
 #: 132143172-0-116199
 msgctxt "132143172-0-116199"
@@ -171,25 +101,15 @@ msgctxt "198758357-0-116198"
 msgid "Death Knell"
 msgstr "Death Knell"
 
-#: 132143172-0-116197
-msgctxt "132143172-0-116197"
-msgid "Increases your Critical Strike Chance against enemies under |cffffff25|r% Health by <<1>> for each Grave Lord ability slotted.\n\nCurrent bonus: <<2>>."
-msgstr "기술칸에 장비하고 있는 무덤의 왕 어빌리티 1개당, 체력이 |cffffff25|r%이하의 적에 대한 크리티컬 확률이 <<1>> 증가합니다.\n\n현재 보너스: <<2>>"
+#: 132143172-0-122388
+msgctxt "132143172-0-122388"
+msgid "Unleash a frostbitten Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over <<1>>, dealing <<2>> with each smash. The final smash stuns all enemies hit for <<3>>.\n\nDealing damage applies Major Vulnerability to any enemy hit for <<4>>, increasing their damage taken by <<5>>. Enemies hit cannot be affected again for <<6>>."
+msgstr "얼어붙은 살덩이 거인을 해방시켜 주위의 적을 분쇄합니다. 거인은 지면을 <<1>> 동안 3번 내리쳐 각각 <<2>>의 피해를 줍니다. 마지막 공격은 명중한 적 전체를 <<3>> 동안 기절시킵니다.\n\n각각의 공격은 Major Vulnerability를 <<4>> 부여해, 적에게 입히는 피해량을 <<5>> 증가시킵니다. 영향을 받은 적들은 Majot Vulnerability 효과를 <<6>>동안 다시 걸리지 않습니다"
 
-#: 198758357-0-116197
-msgctxt "198758357-0-116197"
-msgid "Death Knell"
-msgstr "Death Knell"
-
-#: 132143172-0-116194
-msgctxt "132143172-0-116194"
-msgid "While a Grave Lord ability is active, your Spell and Physical Penetration are increased by <<1>>."
-msgstr "무덤의 왕 어빌리티가 활성화되어 있는 동안, 주문관통력과 물리관통력이 <<1>> 증가합니다."
-
-#: 198758357-0-116194
-msgctxt "198758357-0-116194"
-msgid "Dismember"
-msgstr "Dismember"
+#: 198758357-0-122388
+msgctxt "198758357-0-122388"
+msgid "Glacial Colossus"
+msgstr "Glacial Colossus"
 
 #: 132143172-0-116192
 msgctxt "132143172-0-116192"
@@ -201,55 +121,35 @@ msgctxt "198758357-0-116192"
 msgid "Dismember"
 msgstr "Dismember"
 
-#: 132143172-0-116188
-msgctxt "132143172-0-116188"
-msgid "When your Blastbones, Skeletal Mage, or Spirit Mender dies, the cost of your next Blastbones, Skeletal Mage, or Spirit Mender is reduced by <<1>>."
-msgstr "뼈탄환, 해골 마법사, 영혼의 복원사가 죽으면 다음 뼈탄환, 해골 마법사, 영혼의 복원사의 비용이 <<1>> 감소합니다."
+#: 132143172-0-116194
+msgctxt "132143172-0-116194"
+msgid "While a Grave Lord ability is active, your Spell and Physical Penetration are increased by <<1>>."
+msgstr "무덤의 왕 어빌리티가 활성화되어 있는 동안, 주문관통력과 물리관통력이 <<1>> 증가합니다."
 
-#: 198758357-0-116188
-msgctxt "198758357-0-116188"
-msgid "Reusable Parts"
-msgstr "Reusable Parts"
+#: 198758357-0-116194
+msgctxt "198758357-0-116194"
+msgid "Dismember"
+msgstr "Dismember"
 
-#: 132143172-0-116186
-msgctxt "132143172-0-116186"
-msgid "When your Blastbones, Skeletal Mage, or Spirit Mender dies, the cost of your next Blastbones, Skeletal Mage, or Spirit Mender is reduced by <<1>>."
-msgstr "뼈탄환, 해골 마법사, 영혼의 복원사가 죽으면 다음 뼈탄환, 해골 마법사, 영혼의 복원사의 비용이 <<1>> 감소합니다."
+#: 132143172-0-117624
+msgctxt "132143172-0-117624"
+msgid "Lob an explosive skull at an enemy, dealing <<1>>.\n\nEvery third cast of this ability deals <<2>> increased damage.\n\nWhile slotted, casting any Necromancer ability while you are in combat will count towards the third cast."
+msgstr "폭발하는 두개골을 적에게 던져 <<1>>피해를 줍니다.\n\n이 어빌리티를 3번 사용할때마다 피해량이 <<2>> 증가합니다.\n\n기술칸에 장비하고 있을 때, 전투중 아무 네크로맨서 어빌리티를 시전하면 이 어빌리티를 시전한것으로 칩니다."
 
-#: 198758357-0-116186
-msgctxt "198758357-0-116186"
-msgid "Reusable Parts"
-msgstr "Reusable Parts"
+#: 198758357-0-117624
+msgctxt "198758357-0-117624"
+msgid "Venom Skull"
+msgstr "Venom Skull"
 
-#: 132143172-0-115924
-msgctxt "132143172-0-115924"
-msgid "Violently drain the last spark of life from a corpse, dealing <<1>> over <<2>> to all enemies around the corpse and between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your damage done is increased by <<3>>."
-msgstr "시체에 남아있는 마지막 생명의 광휘를 빼앗아, 시체 주변이나 자신과 시체 사이에 있는 모든 적에게 피해 <<1>>을<<2>> 만큼 줍니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n지속시간동안 지속적으로 시체를 흡수하면 시체는 폭발하여, 추가적으로 시체 주위에 있는 적에게 <<3>> 피해를 줍니다. "
+#: 132143172-0-117749
+msgctxt "132143172-0-117749"
+msgid "Summon a flaming skeleton from the ground after <<1>>. The skeleton runs after the target and explodes when it gets close to them, dealing <<2>> to all enemies nearby.\n\nEvery second the skeleton spends chasing its target increases the damage of the explosion by <<3>>, up to a maximum of |cffffff50|r% more damage.\n\nCreates a corpse on death."
+msgstr "<<1>> 후 타오르는 해골을 지면에 소환합니다. 해골은 표적을 쫓아 가까이가면 폭발해 근처의 적 모두에게 <<2>> 피해를 줍니다.\n\n해골이 대상을 쫓는 시간이 길어질수록 1초마다 폭발피해량이 <<3>> 증가합니다. 피해량이 최대 |cffffff50|r%증가합니다.\n\n죽으면 시체로 변합니다."
 
-#: 198758357-0-115924
-msgctxt "198758357-0-115924"
-msgid "Shocking Siphon"
-msgstr "Shocking Siphon"
-
-#: 132143172-0-115252
-msgctxt "132143172-0-115252"
-msgid "Desecrate the ground at the target location, dealing <<1>> over <<2>>.\n\nConsumes a corpse on cast to deal <<3>> more damage.\n\nAn ally standing in the graveyard can activate the |cffffffGrave Robber|r synergy, dealing <<4>> to enemies in the area and healing you for the damage done."
-msgstr "대상으로 한 땅을 더럽혀, <<1>>피해를 <<2>>동안 줍니다.\n\n시전할때 시체를 흡수하면, <<3>> 피해를 더 줍니다.\n\n무덤 위에 서 있는 아군은 |cffffff무덤을 파헤치는 자|r 시너지를 발동해, 범위내의 적에게 <<4>>피해를 주고 피해를 준 만큼 시전자를 회복시킵니다."
-
-#: 198758357-0-115252
-msgctxt "198758357-0-115252"
-msgid "Boneyard"
-msgstr "Boneyard"
-
-#: 132143172-0-114860
-msgctxt "132143172-0-114860"
-msgid "Summon a flaming skeleton from the ground after <<1>>. The skeleton runs after the target and explodes when it gets close to them, dealing <<2>> to all enemies nearby.\n\nCreates a corpse on death."
-msgstr "<<1>> 후 타오르는 해골을 지면에 소환합니다. 해골은 표적을 쫓아 가까이가면 폭발해 근처의 적 모두에게 <<2>> 피해를 줍니다.\n\n죽으면 시체로 변합니다.\n"
-
-#: 198758357-0-114860
-msgctxt "198758357-0-114860"
-msgid "Blastbones"
-msgstr "Blastbones"
+#: 198758357-0-117749
+msgctxt "198758357-0-117749"
+msgid "Stalking Blastbones"
+msgstr "Stalking Blastbones"
 
 #: 132143172-0-114317
 msgctxt "132143172-0-114317"
@@ -261,12 +161,112 @@ msgctxt "198758357-0-114317"
 msgid "Skeletal Mage"
 msgstr "Skeletal Mage"
 
-#: 132143172-0-114108
-msgctxt "132143172-0-114108"
-msgid "Lob an explosive skull at an enemy, dealing <<1>>.\n\nEvery third cast of this ability deals <<2>> increased damage."
-msgstr "폭발하는 두개골을 적에게 던져 피해를 <<1>> 줍니다.\n\n이 어빌리티를 3번 사용할때마다 피해량이 <<2>> 증가합니다."
+#: 132143172-0-115924
+msgctxt "132143172-0-115924"
+msgid "Violently drain the last spark of life from a corpse, dealing <<1>> over <<2>> to all enemies around the corpse and between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your damage done is increased by <<3>>."
+msgstr "시체에 남아있는 마지막 생명의 광휘를 빼앗아, 시체 주변이나 자신과 시체 사이에 있는 모든 적에게 피해 <<1>>을<<2>> 만큼 줍니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n지속시간동안 지속적으로 시체를 흡수하면 시체는 폭발하여, 추가적으로 시체 주위에 있는 적에게 <<3>> 피해를 줍니다. "
 
-#: 198758357-0-114108
-msgctxt "198758357-0-114108"
-msgid "Flame Skull"
-msgstr "Flame Skull"
+#: 198758357-0-115924
+msgctxt "198758357-0-115924"
+msgid "Shocking Siphon"
+msgstr "Shocking Siphon"
+
+#: 132143172-0-117805
+msgctxt "132143172-0-117805"
+msgid "Desecrate the ground at the target location, dealing <<1>> over <<2>> and applying Major Breach and Fracture to enemies within, reducing their Spell and Physical Resistance by <<3>>.\n\nConsumes a corpse on cast to deal <<4>> more damage.\n\nAn ally standing in the graveyard can activate the |cffffffGrave Robber|r synergy, dealing <<5>> to enemies in the area and healing you for the damage done."
+msgstr "대상으로 한 땅을 더럽혀, <<1>>피해를 <<2>>동안 줍니다. 그리고 Major Breach와 Major Fracture를 부여해, 적의 물리 저항력과 마법저항력을 <<3>> 감소시킵니다.\n\n시전할때 시체를 흡수하면, <<4>> 피해를 더 줍니다.\n\n무덤 위에 서 있는 아군은 |cffffff무덤을 파헤치는 자|r 시너지를 발동해, 범위내의 적에게 <<5>>피해를 주고 피해를 준 만큼 시전자를 회복시킵니다."
+
+#: 198758357-0-117805
+msgctxt "198758357-0-117805"
+msgid "Unnerving Boneyard"
+msgstr "Unnerving Boneyard"
+
+#: 132143172-0-116186
+msgctxt "132143172-0-116186"
+msgid "When your Blastbones, Skeletal Mage, or Spirit Mender dies, the cost of your next Blastbones, Skeletal Mage, or Spirit Mender is reduced by <<1>>."
+msgstr "뼈탄환, 해골 마법사, 영혼의 복원사가 죽으면 다음 뼈탄환, 해골 마법사, 영혼의 복원사의 비용이 <<1>> 감소합니다."
+
+#: 198758357-0-116186
+msgctxt "198758357-0-116186"
+msgid "Reusable Parts"
+msgstr "Reusable Parts"
+
+#: 132143172-0-115252
+msgctxt "132143172-0-115252"
+msgid "Desecrate the ground at the target location, dealing <<1>> over <<2>>.\n\nConsumes a corpse on cast to deal <<3>> more damage.\n\nAn ally standing in the graveyard can activate the |cffffffGrave Robber|r synergy, dealing <<4>> to enemies in the area and healing you for the damage done."
+msgstr "대상으로 한 땅을 더럽혀, <<1>>피해를 <<2>>동안 줍니다.\n\n시전할때 시체를 흡수하면, <<3>> 피해를 더 줍니다.\n\n무덤 위에 서 있는 아군은 |cffffff무덤을 파헤치는 자|r 시너지를 발동해, 범위내의 적에게 <<4>>피해를 주고 피해를 준 만큼 시전자를 회복시킵니다."
+
+#: 198758357-0-115252
+msgctxt "198758357-0-115252"
+msgid "Boneyard"
+msgstr "Boneyard"
+
+#: 132143172-0-116188
+msgctxt "132143172-0-116188"
+msgid "When your Blastbones, Skeletal Mage, or Spirit Mender dies, the cost of your next Blastbones, Skeletal Mage, or Spirit Mender is reduced by <<1>>."
+msgstr "뼈탄환, 해골 마법사, 영혼의 복원사가 죽으면 다음 뼈탄환, 해골 마법사, 영혼의 복원사의 비용이 <<1>> 감소합니다."
+
+#: 198758357-0-116188
+msgctxt "198758357-0-116188"
+msgid "Reusable Parts"
+msgstr "Reusable Parts"
+
+#: 132143172-0-116201
+msgctxt "132143172-0-116201"
+msgid "Increases your damage done with damage over time effects by <<1>>."
+msgstr "지속대미지 효과에 의한 피해량을 <<1>> 증가시킵니다."
+
+#: 198758357-0-116201
+msgctxt "198758357-0-116201"
+msgid "Rapid Rot"
+msgstr "Rapid Rot"
+
+#: 132143172-0-117850
+msgctxt "132143172-0-117850"
+msgid "Desecrate the ground at the target location, dealing <<1>> over <<2>>.\n\nConsumes a corpse on cast to deal <<3>> more damage.\n\nYou or an ally standing in the graveyard can activate the |cffffffGrave Robber|r synergy, dealing <<4>> to enemies in the area and healing you for the damage done."
+msgstr "대상으로 한 땅을 더럽혀, <<1>>피해를 <<2>>동안 줍니다.\n\n시전할때 시체를 흡수하면, <<3>> 피해를 더 줍니다.\n\n무덤 위에 서 있는 아군은 |cffffff무덤을 파헤치는 자|r 시너지를 발동해, 범위내의 적에게 <<4>>피해를 주고 피해를 준 만큼 시전자를 회복시킵니다."
+
+#: 198758357-0-117850
+msgctxt "198758357-0-117850"
+msgid "Avid Boneyard"
+msgstr "Avid Boneyard"
+
+#: 132143172-0-118763
+msgctxt "132143172-0-118763"
+msgid "Violently drain the last spark of life from a corpse, dealing <<1>> over <<2>> to all enemies around the corpse and between you and the corpse.  \n\nIf the siphon lasts its full duration it causes the corpse to explode, dealing an additional <<3>> to all enemies around the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your damage done is increased by <<4>>."
+msgstr "시체에 남아있는 마지막 생명의 광휘를 빼앗아, 시체 주변이나 자신과 시체 사이에 있는 모든 적에게 피해 <<1>>을<<2>> 만큼 줍니다.\n\n지속시간동안 지속적으로 시체를 흡수하면 시체는 폭발하여, 추가적으로 시체 주위에 있는 적에게 <<3>> 피해를 줍니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n기술칸에 장비하고 있을 때, 피해량이 <<4>> 증가합니다."
+
+#: 198758357-0-118763
+msgctxt "198758357-0-118763"
+msgid "Detonating Siphon"
+msgstr "Detonating Siphon"
+
+#: 132143172-0-114860
+msgctxt "132143172-0-114860"
+msgid "Summon a flaming skeleton from the ground after <<1>>. The skeleton runs after the target and explodes when it gets close to them, dealing <<2>> to all enemies nearby.\n\nCreates a corpse on death."
+msgstr "<<1>> 후 타오르는 해골을 지면에 소환합니다. 해골은 표적을 쫓아 가까이가면 폭발해 근처의 적 모두에게 <<2>> 피해를 줍니다.\n\n죽으면 시체로 변합니다.\n"
+
+#: 198758357-0-114860
+msgctxt "198758357-0-114860"
+msgid "Blastbones"
+msgstr "Blastbones"
+
+#: 132143172-0-118680
+msgctxt "132143172-0-118680"
+msgid "Unearth a skeletal archer from the dirt to fight by your side for <<1>>. The archer attacks the closest enemy every |cffffff2|r seconds, dealing <<2>>.\n\nEach time the archer deals damage, its next attack will do <<3>> more damage than the previous attack.\n\nCreates a corpse on death."
+msgstr "땅에서 해골 궁수를 일으켜, <<1>> 동안 아군편에서 싸우게 합니다. 궁수는 가장 가까이에 있는 적을 |cffffff2|r초마다 공격하며, <<2>>의 피해를 줍니다.\n\n궁수가 피해를 줄 때마다, 다음 공격은 이전 공격보다 <<3>>많은 피해를 줍니다.\n\n죽으면 시체로 변합니다."
+
+#: 198758357-0-118680
+msgctxt "198758357-0-118680"
+msgid "Skeletal Archer"
+msgstr "Skeletal Archer"
+
+#: 132143172-0-117690
+msgctxt "132143172-0-117690"
+msgid "Summon a decaying skeleton from the ground after <<1>>. The skeleton runs after the target and explodes when it gets close to them, dealing <<2>> to all enemies nearby and applying Major Defile to them for <<3>>, reducing their healing received and Health Recovery by <<4>>\n\nCreates a corpse on death."
+msgstr "<<1>>후 부패한 해골을 지면에 소환합니다. 해골은 표적을 쫓아 가까이가면 폭발해 근처의 적 모두에게 <<2>> 피해를 줍니다. 그리고 Major Deifile을 부여해, 적의 회복량과 체력재생을 <<4>> 감소시킵니다.\n\n죽으면 시체로 변합니다."
+
+#: 198758357-0-117690
+msgctxt "198758357-0-117690"
+msgid "Blighted Blastbones"
+msgstr "Blighted Blastbones"

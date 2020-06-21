@@ -11,26 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-44732
-msgctxt "132143172-0-44732"
-msgid "Increases your Weapon Damage by <<1>> and Spell Resistance by <<2>>."
-msgstr ""
-
-#: 198758357-0-44732
-msgctxt "198758357-0-44732"
-msgid "Balanced Warrior"
-msgstr ""
-
-#: 132143172-0-44730
-msgctxt "132143172-0-44730"
-msgid "When you deal damage with an Aedric Spear ability, you have a |cffffff25|r% chance to deal an additional <<1>> or <<2>>, whichever is higher. This effect can occur once every <<3>>."
-msgstr ""
-
-#: 198758357-0-44730
-msgctxt "198758357-0-44730"
-msgid "Burning Light"
-msgstr ""
-
 #: 132143172-0-44721
 msgctxt "132143172-0-44721"
 msgid "Gain Minor Protection for <<1>>, reducing damage taken by <<2>>."
@@ -39,26 +19,6 @@ msgstr ""
 #: 198758357-0-44721
 msgctxt "198758357-0-44721"
 msgid "Spear Wall"
-msgstr ""
-
-#: 132143172-0-44046
-msgctxt "132143172-0-44046"
-msgid "Increases your Critical Damage by <<1>>. \n\nIncreases your damage done to blocking targets by <<2>>."
-msgstr ""
-
-#: 198758357-0-44046
-msgctxt "198758357-0-44046"
-msgid "Piercing Spear"
-msgstr ""
-
-#: 132143172-0-31718
-msgctxt "132143172-0-31718"
-msgid "When you deal damage with an Aedric Spear ability, you have a |cffffff25|r% chance to deal an additional <<1>> or <<2>>, whichever is higher. This effect can occur once every <<3>>."
-msgstr ""
-
-#: 198758357-0-31718
-msgctxt "198758357-0-31718"
-msgid "Burning Light"
 msgstr ""
 
 #: 132143172-0-31708
@@ -71,64 +31,24 @@ msgctxt "198758357-0-31708"
 msgid "Spear Wall"
 msgstr ""
 
-#: 132143172-0-31698
-msgctxt "132143172-0-31698"
-msgid "Increases your Critical Damage by <<1>>.\n\nIncreases your damage done to blocking targets by <<2>>."
+#: 132143172-0-15540
+msgctxt "132143172-0-15540"
+msgid "Charge with your divine lance to impale an enemy, dealing <<1>>, stunning them for <<2>>, and setting them Off Balance.\n\nInterrupts the target if they were casting."
 msgstr ""
 
-#: 198758357-0-31698
-msgctxt "198758357-0-31698"
+#: 198758357-0-15540
+msgctxt "198758357-0-15540"
+msgid "Toppling Charge"
+msgstr ""
+
+#: 132143172-0-44046
+msgctxt "132143172-0-44046"
+msgid "Increases your Critical Damage by <<1>>. \n\nIncreases your damage done to blocking targets by <<2>>."
+msgstr ""
+
+#: 198758357-0-44046
+msgctxt "198758357-0-44046"
 msgid "Piercing Spear"
-msgstr ""
-
-#: 132143172-0-31565
-msgctxt "132143172-0-31565"
-msgid "Increases your Weapon Damage by <<1>> and Spell Resistance by <<2>>."
-msgstr ""
-
-#: 198758357-0-31565
-msgctxt "198758357-0-31565"
-msgid "Balanced Warrior"
-msgstr ""
-
-#: 132143172-0-26869
-msgctxt "132143172-0-26869"
-msgid "Send your spear into the heavens to bring down a shower of divine wrath, dealing <<1>> to enemies in the area and an additional <<2>> every <<3>> for <<4>>.\n\nAn ally near the spear can activate the |cffffffBlessed Shards|r synergy, restoring <<5>> Magicka or Stamina, whichever maximum is higher."
-msgstr ""
-
-#: 198758357-0-26869
-msgctxt "198758357-0-26869"
-msgid "Blazing Spear"
-msgstr ""
-
-#: 132143172-0-26858
-msgctxt "132143172-0-26858"
-msgid "Send your spear into the heavens to bring down a shower of divine wrath, dealing  <<1>> to enemies in the area and an additional <<2>> every <<3>> for <<4>>.\n\nAn ally near the spear can activate the |cffffffHoly Shards|r synergy, restoring <<5>> Magicka or Stamina, whichever maximum is higher. They also restore an additional <<6>> Magicka or Stamina, whichever maximum is lower."
-msgstr ""
-
-#: 198758357-0-26858
-msgctxt "198758357-0-26858"
-msgid "Luminous Shards"
-msgstr ""
-
-#: 132143172-0-26804
-msgctxt "132143172-0-26804"
-msgid "Hurl your spear at an enemy with godlike strength, dealing <<1>> and stunning them for <<2>>.\n\nThis attack ignores the enemy's Resistances."
-msgstr ""
-
-#: 198758357-0-26804
-msgctxt "198758357-0-26804"
-msgid "Binding Javelin"
-msgstr ""
-
-#: 132143172-0-26800
-msgctxt "132143172-0-26800"
-msgid "Hurl your spear at an enemy with godlike strength, dealing <<1>> and knocking them back <<2>>.\n\nThis attack ignores the enemy's Resistances.\n\nYou deal |cffffff2|r% additional damage with the spear for every |cffffff1|r meter you are away from the target, up to a maximum of |cffffff40|r%."
-msgstr ""
-
-#: 198758357-0-26800
-msgctxt "198758357-0-26800"
-msgid "Aurora Javelin"
 msgstr ""
 
 #: 132143172-0-26797
@@ -139,26 +59,6 @@ msgstr ""
 #: 198758357-0-26797
 msgctxt "198758357-0-26797"
 msgid "Puncturing Sweep"
-msgstr ""
-
-#: 132143172-0-26792
-msgctxt "132143172-0-26792"
-msgid "Launch a relentless assault, striking enemies in front of you four times with your Aedric spear. The spear deals <<1>> to the closest enemy and <<2>> to all other enemies.\n\nEach strike reduces the Movement Speed of the closest enemy by <<3>> for <<4>>.\n\nActivating this ability grants you <<5>>, increasing your Weapon Critical rating by <<6>> for <<7>>."
-msgstr ""
-
-#: 198758357-0-26792
-msgctxt "198758357-0-26792"
-msgid "Biting Jabs"
-msgstr ""
-
-#: 132143172-0-26188
-msgctxt "132143172-0-26188"
-msgid "Send your spear into the heavens to bring down a shower of divine wrath, dealing <<1>> to enemies in the area and an additional <<2>> every <<3>> for <<4>>.\n\nAn ally near the spear can activate the |cffffffBlessed Shards|r synergy, restoring <<5>> Magicka or Stamina, whichever maximum is higher."
-msgstr ""
-
-#: 198758357-0-26188
-msgctxt "198758357-0-26188"
-msgid "Spear Shards"
 msgstr ""
 
 #: 132143172-0-26158
@@ -181,26 +81,6 @@ msgctxt "198758357-0-26114"
 msgid "Puncturing Strikes"
 msgstr ""
 
-#: 132143172-0-22182
-msgctxt "132143172-0-22182"
-msgid "Surround yourself with solar rays, granting a damage shield that absorbs up to <<1>> damage for <<2>>.  This portion of the ability scales off your Max Health.\n\nNearby enemies take <<3>> when the shield is activated, and each enemy hit increases the shield's strength by <<4>>%."
-msgstr ""
-
-#: 198758357-0-22182
-msgctxt "198758357-0-22182"
-msgid "Radiant Ward"
-msgstr ""
-
-#: 132143172-0-22180
-msgctxt "132143172-0-22180"
-msgid "Surround yourself with solar rays, granting a damage shield that absorbs up to <<1>> damage for <<2>>.  This portion of the ability scales off your Max Health.\n\nEach nearby enemy increases the shield's strength by <<3>>% when the shield is activated.\n\nWhen the shield expires it explodes outward, dealing <<4>>% of the damage it absorbed to nearby enemies."
-msgstr ""
-
-#: 198758357-0-22180
-msgctxt "198758357-0-22180"
-msgid "Blazing Shield"
-msgstr ""
-
 #: 132143172-0-22178
 msgctxt "132143172-0-22178"
 msgid "Surround yourself with solar rays, granting a damage shield that absorbs up to <<1>> damage for <<2>>.  This portion of the ability scales off your Max Health.\n\nNearby enemies take <<3>> when the shield is activated, and each enemy hit increases the shield's strength by <<4>>%."
@@ -211,44 +91,14 @@ msgctxt "198758357-0-22178"
 msgid "Sun Shield"
 msgstr ""
 
-#: 132143172-0-22161
-msgctxt "132143172-0-22161"
-msgid "Charge with your divine lance to impale all enemies in the area, dealing <<1>>.\n\nAny enemy hit that is casting is interrupted, set Off Balance, and stunned for <<2>>."
+#: 132143172-0-26858
+msgctxt "132143172-0-26858"
+msgid "Send your spear into the heavens to bring down a shower of divine wrath, dealing  <<1>> to enemies in the area and an additional <<2>> every <<3>> for <<4>>.\n\nAn ally near the spear can activate the |cffffffHoly Shards|r synergy, restoring <<5>> Magicka or Stamina, whichever maximum is higher. They also restore an additional <<6>> Magicka or Stamina, whichever maximum is lower."
 msgstr ""
 
-#: 198758357-0-22161
-msgctxt "198758357-0-22161"
-msgid "Explosive Charge"
-msgstr ""
-
-#: 132143172-0-22149
-msgctxt "132143172-0-22149"
-msgid "Charge with your divine lance to impale an enemy, dealing <<1>>.\n\nIf the enemy hit is casting, they are interrupted, set Off Balance, and stunned for <<2>>."
-msgstr ""
-
-#: 198758357-0-22149
-msgctxt "198758357-0-22149"
-msgid "Focused Charge"
-msgstr ""
-
-#: 132143172-0-22144
-msgctxt "132143172-0-22144"
-msgid "Swing your Aedric spear around with holy vengeance, dealing <<1>> to all nearby enemies and an additional <<2>> every <<3>> for <<4>>.  The duration is extended by |cffffff2|r seconds for each enemy hit.  \n\nGain <<5>> for the duration, increasing the damage of your Light Attacks by <<6>>."
-msgstr ""
-
-#: 198758357-0-22144
-msgctxt "198758357-0-22144"
-msgid "Empowering Sweep"
-msgstr ""
-
-#: 132143172-0-22139
-msgctxt "132143172-0-22139"
-msgid "Swing your Aedric spear around with holy vengeance, dealing <<1>> to all nearby enemies and an additional <<2>> every <<3>> for <<4>>.\n\nEnemies in your path will be hit for <<5>> more damage."
-msgstr ""
-
-#: 198758357-0-22139
-msgctxt "198758357-0-22139"
-msgid "Crescent Sweep"
+#: 198758357-0-26858
+msgctxt "198758357-0-26858"
+msgid "Luminous Shards"
 msgstr ""
 
 #: 132143172-0-22138
@@ -261,12 +111,162 @@ msgctxt "198758357-0-22138"
 msgid "Radial Sweep"
 msgstr ""
 
-#: 132143172-0-15540
-msgctxt "132143172-0-15540"
-msgid "Charge with your divine lance to impale an enemy, dealing <<1>>, stunning them for <<2>>, and setting them Off Balance.\n\nInterrupts the target if they were casting."
+#: 132143172-0-22139
+msgctxt "132143172-0-22139"
+msgid "Swing your Aedric spear around with holy vengeance, dealing <<1>> to all nearby enemies and an additional <<2>> every <<3>> for <<4>>.\n\nEnemies in your path will be hit for <<5>> more damage."
 msgstr ""
 
-#: 198758357-0-15540
-msgctxt "198758357-0-15540"
-msgid "Toppling Charge"
+#: 198758357-0-22139
+msgctxt "198758357-0-22139"
+msgid "Crescent Sweep"
+msgstr ""
+
+#: 132143172-0-31698
+msgctxt "132143172-0-31698"
+msgid "Increases your Critical Damage by <<1>>.\n\nIncreases your damage done to blocking targets by <<2>>."
+msgstr ""
+
+#: 198758357-0-31698
+msgctxt "198758357-0-31698"
+msgid "Piercing Spear"
+msgstr ""
+
+#: 132143172-0-26792
+msgctxt "132143172-0-26792"
+msgid "Launch a relentless assault, striking enemies in front of you four times with your Aedric spear. The spear deals <<1>> to the closest enemy and <<2>> to all other enemies.\n\nEach strike reduces the Movement Speed of the closest enemy by <<3>> for <<4>>.\n\nActivating this ability grants you <<5>>, increasing your Weapon Critical rating by <<6>> for <<7>>."
+msgstr ""
+
+#: 198758357-0-26792
+msgctxt "198758357-0-26792"
+msgid "Biting Jabs"
+msgstr ""
+
+#: 132143172-0-26804
+msgctxt "132143172-0-26804"
+msgid "Hurl your spear at an enemy with godlike strength, dealing <<1>> and stunning them for <<2>>.\n\nThis attack ignores the enemy's Resistances."
+msgstr ""
+
+#: 198758357-0-26804
+msgctxt "198758357-0-26804"
+msgid "Binding Javelin"
+msgstr ""
+
+#: 132143172-0-44730
+msgctxt "132143172-0-44730"
+msgid "When you deal damage with an Aedric Spear ability, you have a |cffffff25|r% chance to deal an additional <<1>> or <<2>>, whichever is higher. This effect can occur once every <<3>>."
+msgstr ""
+
+#: 198758357-0-44730
+msgctxt "198758357-0-44730"
+msgid "Burning Light"
+msgstr ""
+
+#: 132143172-0-44732
+msgctxt "132143172-0-44732"
+msgid "Increases your Weapon Damage by <<1>> and Spell Resistance by <<2>>."
+msgstr ""
+
+#: 198758357-0-44732
+msgctxt "198758357-0-44732"
+msgid "Balanced Warrior"
+msgstr ""
+
+#: 132143172-0-31718
+msgctxt "132143172-0-31718"
+msgid "When you deal damage with an Aedric Spear ability, you have a |cffffff25|r% chance to deal an additional <<1>> or <<2>>, whichever is higher. This effect can occur once every <<3>>."
+msgstr ""
+
+#: 198758357-0-31718
+msgctxt "198758357-0-31718"
+msgid "Burning Light"
+msgstr ""
+
+#: 132143172-0-22144
+msgctxt "132143172-0-22144"
+msgid "Swing your Aedric spear around with holy vengeance, dealing <<1>> to all nearby enemies and an additional <<2>> every <<3>> for <<4>>.  The duration is extended by |cffffff2|r seconds for each enemy hit.  \n\nGain <<5>> for the duration, increasing the damage of your Light Attacks by <<6>>."
+msgstr ""
+
+#: 198758357-0-22144
+msgctxt "198758357-0-22144"
+msgid "Empowering Sweep"
+msgstr ""
+
+#: 132143172-0-26800
+msgctxt "132143172-0-26800"
+msgid "Hurl your spear at an enemy with godlike strength, dealing <<1>> and knocking them back <<2>>.\n\nThis attack ignores the enemy's Resistances.\n\nYou deal |cffffff2|r% additional damage with the spear for every |cffffff1|r meter you are away from the target, up to a maximum of |cffffff40|r%."
+msgstr ""
+
+#: 198758357-0-26800
+msgctxt "198758357-0-26800"
+msgid "Aurora Javelin"
+msgstr ""
+
+#: 132143172-0-26869
+msgctxt "132143172-0-26869"
+msgid "Send your spear into the heavens to bring down a shower of divine wrath, dealing <<1>> to enemies in the area and an additional <<2>> every <<3>> for <<4>>.\n\nAn ally near the spear can activate the |cffffffBlessed Shards|r synergy, restoring <<5>> Magicka or Stamina, whichever maximum is higher."
+msgstr ""
+
+#: 198758357-0-26869
+msgctxt "198758357-0-26869"
+msgid "Blazing Spear"
+msgstr ""
+
+#: 132143172-0-22149
+msgctxt "132143172-0-22149"
+msgid "Charge with your divine lance to impale an enemy, dealing <<1>>.\n\nIf the enemy hit is casting, they are interrupted, set Off Balance, and stunned for <<2>>."
+msgstr ""
+
+#: 198758357-0-22149
+msgctxt "198758357-0-22149"
+msgid "Focused Charge"
+msgstr ""
+
+#: 132143172-0-22180
+msgctxt "132143172-0-22180"
+msgid "Surround yourself with solar rays, granting a damage shield that absorbs up to <<1>> damage for <<2>>.  This portion of the ability scales off your Max Health.\n\nEach nearby enemy increases the shield's strength by <<3>>% when the shield is activated.\n\nWhen the shield expires it explodes outward, dealing <<4>>% of the damage it absorbed to nearby enemies."
+msgstr ""
+
+#: 198758357-0-22180
+msgctxt "198758357-0-22180"
+msgid "Blazing Shield"
+msgstr ""
+
+#: 132143172-0-31565
+msgctxt "132143172-0-31565"
+msgid "Increases your Weapon Damage by <<1>> and Spell Resistance by <<2>>."
+msgstr ""
+
+#: 198758357-0-31565
+msgctxt "198758357-0-31565"
+msgid "Balanced Warrior"
+msgstr ""
+
+#: 132143172-0-22182
+msgctxt "132143172-0-22182"
+msgid "Surround yourself with solar rays, granting a damage shield that absorbs up to <<1>> damage for <<2>>.  This portion of the ability scales off your Max Health.\n\nNearby enemies take <<3>> when the shield is activated, and each enemy hit increases the shield's strength by <<4>>%."
+msgstr ""
+
+#: 198758357-0-22182
+msgctxt "198758357-0-22182"
+msgid "Radiant Ward"
+msgstr ""
+
+#: 132143172-0-22161
+msgctxt "132143172-0-22161"
+msgid "Charge with your divine lance to impale all enemies in the area, dealing <<1>>.\n\nAny enemy hit that is casting is interrupted, set Off Balance, and stunned for <<2>>."
+msgstr ""
+
+#: 198758357-0-22161
+msgctxt "198758357-0-22161"
+msgid "Explosive Charge"
+msgstr ""
+
+#: 132143172-0-26188
+msgctxt "132143172-0-26188"
+msgid "Send your spear into the heavens to bring down a shower of divine wrath, dealing <<1>> to enemies in the area and an additional <<2>> every <<3>> for <<4>>.\n\nAn ally near the spear can activate the |cffffffBlessed Shards|r synergy, restoring <<5>> Magicka or Stamina, whichever maximum is higher."
+msgstr ""
+
+#: 198758357-0-26188
+msgctxt "198758357-0-26188"
+msgid "Spear Shards"
 msgstr ""

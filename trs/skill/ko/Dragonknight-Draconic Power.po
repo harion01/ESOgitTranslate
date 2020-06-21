@@ -11,35 +11,45 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-44953
-msgctxt "132143172-0-44953"
-msgid "Increases your Spell Resistance by <<1>>."
-msgstr "마법 저항력이 <<1>> 증가합니다."
+#: 132143172-0-20252
+msgctxt "132143172-0-20252"
+msgid "Call forth talons from the ground, dealing <<1>> to enemies near you, an additional <<2>> over <<3>>, and immobilizing them for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
+msgstr "지상에서 발톱을 소환합니다. 근처의 적들에게 <<1>>를 주고  추가로 <<3>>동안 <<2>> 피해를 줍니다. 그리고 <<4>>동안 이동 불가 상태로 만듭니다.\n\n적들이 붙잡혀 있는 동안 근처 아군은 |cffffffIgnite|r 연계 효과를 발동시켜, 붙잡힌 모든 적에게  <<5>>를 줄 수 있습니다."
 
-#: 198758357-0-44953
-msgctxt "198758357-0-44953"
-msgid "Scaled Armor"
-msgstr "Scaled Armor"
+#: 198758357-0-20252
+msgctxt "198758357-0-20252"
+msgid "Burning Talons"
+msgstr "Burning Talons"
 
-#: 132143172-0-44951
-msgctxt "132143172-0-44951"
-msgid "Increases your Health Recovery by |cffffff5|r% for each Draconic Power ability slotted.\n\nCurrent bonus: <<1>>.\n\nIncreases range of your melee attacks by <<2>> meters. This effect only applies to instant cast attacks with a |cffffff5|r meter range."
-msgstr "슬롯에 장착한 Draconic Power 어빌리티 한 개당 체력 재생량이 |cffffff5|r%씩 증가합니다.\n\n현재 증가량: <<1>>\n\n즉시 시전 근접 공격의 사정거리가 <<2>> 미터 증가합니다. 이 효과는 |cffffff5|rm 범위의  즉시 시전 공격에만 해당됩니다."
+#: 132143172-0-32719
+msgctxt "132143172-0-32719"
+msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>."
+msgstr "적을 향해 도약하여 대상 지역의 모든 적에게 <<1>>를 줍니다. 맞은 적은 뒤로 밀려나고 <<2>> 동안 기절 상태가 됩니다."
 
-#: 198758357-0-44951
-msgctxt "198758357-0-44951"
-msgid "Elder Dragon"
-msgstr "Elder Dragon"
+#: 198758357-0-32719
+msgctxt "198758357-0-32719"
+msgid "Take Flight"
+msgstr "Take Flight"
 
-#: 132143172-0-44933
-msgctxt "132143172-0-44933"
-msgid "While a Draconic Power ability is active, your healing received is increased by <<1>>."
-msgstr "Draconic Power 어빌리티의 지속 시간 동안 받는 치유량이 <<1>> 증가합니다."
+#: 132143172-0-20251
+msgctxt "132143172-0-20251"
+msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nEnemies hit are afflicted with Minor Maim, reducing their damage done by <<3>> for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
+msgstr "지상에서 발톱을 소환합니다. 근처의 적들에게 <<1>>를 주고 <<2>> 동안 이동 불가 상태로 만듭니다.\n\n발톱이 적들에게 Minor Maim 효과를 가해 <<4>> 동안 적들이 가하는 피해량을 <<3>> 감소시킵니다.\n\n적들이 붙잡혀 있는 동안 근처 아군은 |cffffffIgnite|r 연계 효과를 발동시켜, 붙잡힌 모든 적에게  <<5>>를 줄 수 있습니다."
 
-#: 198758357-0-44933
-msgctxt "198758357-0-44933"
-msgid "Burning Heart"
-msgstr "Burning Heart"
+#: 198758357-0-20251
+msgctxt "198758357-0-20251"
+msgid "Choking Talons"
+msgstr "Choking Talons"
+
+#: 132143172-0-20319
+msgctxt "132143172-0-20319"
+msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, the armor returns <<3>> to any enemy that uses a direct damage attack against you in melee range."
+msgstr "드래곤의 힘을 방출해 Major Resolve 효과를 얻습니다. 물리 및 마법 저항력이 <<2>> 동안 <<1>> 증가합니다.\n\n활성화되어 있는 동안 근접 공격을 반사하여 <<3>>를 줍니다."
+
+#: 198758357-0-20319
+msgctxt "198758357-0-20319"
+msgid "Spiked Armor"
+msgstr "Spiked Armor"
 
 #: 132143172-0-44922
 msgctxt "132143172-0-44922"
@@ -51,15 +61,25 @@ msgctxt "198758357-0-44922"
 msgid "Iron Skin"
 msgstr "Iron Skin"
 
-#: 132143172-0-32792
-msgctxt "132143172-0-32792"
-msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAny enemy hit that is casting is interrupted, set Off Balance, and stunned for <<3>>.\n\nAfter <<4>>, you exhale fire, dealing <<5>> to nearby enemies."
-msgstr "드래곤의 힘을 시전해 주변의 공기를 빨아들입니다. 근처의 적들에게 <<1>>를 주고 준 피해의 <<2>>% 만큼 체력을 회복합니다.\n\n시전 중이던 적은 주문 시전을 방해받은후 <<3>>동안 기절합니다.\n\n<<4>> 후 화염을 뿜어내어 근처의 적들에게 <<5>>를 줍니다."
+#: 132143172-0-21007
+msgctxt "132143172-0-21007"
+msgid "Flex your scales, reducing your damage taken from projectiles by <<1>> for <<2>>."
+msgstr "드래곤의 비늘을 자유자재로 움직여, <<2>> 동안 투사체를 <<1>>개까지 반사합니다."
 
-#: 198758357-0-32792
-msgctxt "198758357-0-32792"
-msgid "Deep Breath"
-msgstr "Deep Breath"
+#: 198758357-0-21007
+msgctxt "198758357-0-21007"
+msgid "Protective Scale"
+msgstr "Protective Scale"
+
+#: 132143172-0-29462
+msgctxt "132143172-0-29462"
+msgid "Increases your Spell Resistance by <<1>>."
+msgstr "마법 저항력이 <<1>> 증가합니다."
+
+#: 198758357-0-29462
+msgctxt "198758357-0-29462"
+msgid "Scaled Armor"
+msgstr "Scaled Armor"
 
 #: 132143172-0-32785
 msgctxt "132143172-0-32785"
@@ -70,6 +90,36 @@ msgstr "드래곤의 힘을 시전해 주변의 공기를 빨아들입니다. �
 msgctxt "198758357-0-32785"
 msgid "Draw Essence"
 msgstr "Draw Essence"
+
+#: 132143172-0-29004
+msgctxt "132143172-0-29004"
+msgid "Draw on your draconic blood to heal for <<1>>% of your missing Health.\n\nYou also gain Major Fortitude, increasing your Health Recovery by <<2>> for <<3>>."
+msgstr "체내에 흐르는 드래곤의 피를 이용해 잃은 체력의 <<1>>% 를 회복합니다.\n\n또한 Major Fortitude 효과를 얻어 <<3>> 동안 체력 재생량이 <<2>> 증가합니다."
+
+#: 198758357-0-29004
+msgctxt "198758357-0-29004"
+msgid "Dragon Blood"
+msgstr "Dragon Blood"
+
+#: 132143172-0-31837
+msgctxt "132143172-0-31837"
+msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAfter <<3>>, you exhale fire, dealing <<4>> to nearby enemies."
+msgstr "드래곤의 힘을 시전해 주변의 공기를 빨아들입니다. 근처의 적들에게 <<1>>를 주고 준 피해의 <<2>>% 만큼 체력을 회복합니다.\n\n<<3>> 후 화염을 뿜어내어 근처의 적들에게 <<4>>를 줍니다."
+
+#: 198758357-0-31837
+msgctxt "198758357-0-31837"
+msgid "Inhale"
+msgstr "Inhale"
+
+#: 132143172-0-29460
+msgctxt "132143172-0-29460"
+msgid "Increases your Health Recovery by <<1>> for each Draconic Power ability slotted.\n\nCurrent bonus: <<2>>.\n\nIncreases the range of your melee attacks by <<3>> meter.  This effect only applies to instant cast attacks with a |cffffff5|r meter range."
+msgstr "슬롯에 장착한 Draconic Power 어빌리티 한 개당 체력 재생량이 <<1>>씩 증가합니다.\n\n현재 증가량: <<2>>\n\n즉시 시전 근접 공격의 사정거리가 <<3>> 미터 증가합니다. 이 효과는 |cffffff5|rm 범위의  즉시 시전 공격에만 해당됩니다."
+
+#: 198758357-0-29460
+msgctxt "198758357-0-29460"
+msgid "Elder Dragon"
+msgstr "Elder Dragon"
 
 #: 132143172-0-32744
 msgctxt "132143172-0-32744"
@@ -91,55 +141,95 @@ msgctxt "198758357-0-32722"
 msgid "Coagulating Blood"
 msgstr "Coagulating Blood"
 
-#: 132143172-0-32719
-msgctxt "132143172-0-32719"
-msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>."
-msgstr "적을 향해 도약하여 대상 지역의 모든 적에게 <<1>>를 줍니다. 맞은 적은 뒤로 밀려나고 <<2>> 동안 기절 상태가 됩니다."
+#: 132143172-0-21017
+msgctxt "132143172-0-21017"
+msgid "Flex your scales, reducing damage taken from projectiles by <<1>> for <<2>>. \n\nWhen you are hit with a projectile, you retaliate by launching a fiery orb at the attacker that deals <<3>>.  This effect can occur once every half second."
+msgstr "드래곤의 비늘을 자유자재로 움직여, 투사체에의한 피해를 <<2>>동안 <<1>>만큼 경감시킵니다.\n\n투사체에 맞을때 마다, 불꽃 오브를 형성하여 공격자에게 반사합니다. 오브는 <<3>>의 피해를 줍니다. 이 효과는 매 0.5초마다 발동됩니다."
 
-#: 198758357-0-32719
-msgctxt "198758357-0-32719"
-msgid "Take Flight"
-msgstr "Take Flight"
+#: 198758357-0-21017
+msgctxt "198758357-0-21017"
+msgid "Dragon Fire Scale"
+msgstr "Dragon Fire Scale"
 
-#: 132143172-0-32715
-msgctxt "132143172-0-32715"
-msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>.\n\nAfter leaping you gain a damage shield that absorbs <<3>> damage for <<4>>.  This portion of the ability scales with your Max Health."
-msgstr "적을 향해 도약하여 대상 지역의 모든 적에게 <<1>>를 줍니다. 맞은 적은 뒤로 밀려나고 <<2>> 동안 기절 합니다.\n\n도약 이후 <<3>> 만큼 피해를 흡수하는 보호막을 <<4>> 동안 얻습니다. 이 능력은 최대 체력에 비례해 조정됩니다.."
+#: 132143172-0-44951
+msgctxt "132143172-0-44951"
+msgid "Increases your Health Recovery by |cffffff5|r% for each Draconic Power ability slotted.\n\nCurrent bonus: <<1>>.\n\nIncreases range of your melee attacks by <<2>> meters. This effect only applies to instant cast attacks with a |cffffff5|r meter range."
+msgstr "슬롯에 장착한 Draconic Power 어빌리티 한 개당 체력 재생량이 |cffffff5|r%씩 증가합니다.\n\n현재 증가량: <<1>>\n\n즉시 시전 근접 공격의 사정거리가 <<2>> 미터 증가합니다. 이 효과는 |cffffff5|rm 범위의  즉시 시전 공격에만 해당됩니다."
 
-#: 198758357-0-32715
-msgctxt "198758357-0-32715"
-msgid "Ferocious Leap"
-msgstr "Ferocious Leap"
+#: 198758357-0-44951
+msgctxt "198758357-0-44951"
+msgid "Elder Dragon"
+msgstr "Elder Dragon"
 
-#: 132143172-0-31837
-msgctxt "132143172-0-31837"
-msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAfter <<3>>, you exhale fire, dealing <<4>> to nearby enemies."
-msgstr "드래곤의 힘을 시전해 주변의 공기를 빨아들입니다. 근처의 적들에게 <<1>>를 주고 준 피해의 <<2>>% 만큼 체력을 회복합니다.\n\n<<3>> 후 화염을 뿜어내어 근처의 적들에게 <<4>>를 줍니다."
+#: 132143172-0-20323
+msgctxt "132143172-0-20323"
+msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou release a spray of spikes around you, causing enemies hit to take <<3>> over <<4>>.\n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
+msgstr "드래곤의 힘을 방출해 Major Resolve효과를 얻습니다. 물리 및 마법 저항력이 <<2>> 동안 <<1>> 증가합니다. 또한 주변에 가시를 흩뿌려 맞은 적들에게 <<3>>를 <<4>>에 걸쳐 줍니다.\n\n활성화되어 있는 동안 당신을 근거리에서 직접공격으로 공격하는 적에게 피해를 <<5>>를 줍니다."
 
-#: 198758357-0-31837
-msgctxt "198758357-0-31837"
-msgid "Inhale"
-msgstr "Inhale"
+#: 198758357-0-20323
+msgctxt "198758357-0-20323"
+msgid "Volatile Armor"
+msgstr "Volatile Armor"
 
-#: 132143172-0-29462
-msgctxt "132143172-0-29462"
+#: 132143172-0-44953
+msgctxt "132143172-0-44953"
 msgid "Increases your Spell Resistance by <<1>>."
 msgstr "마법 저항력이 <<1>> 증가합니다."
 
-#: 198758357-0-29462
-msgctxt "198758357-0-29462"
+#: 198758357-0-44953
+msgctxt "198758357-0-44953"
 msgid "Scaled Armor"
 msgstr "Scaled Armor"
 
-#: 132143172-0-29460
-msgctxt "132143172-0-29460"
-msgid "Increases your Health Recovery by <<1>> for each Draconic Power ability slotted.\n\nCurrent bonus: <<2>>.\n\nIncreases the range of your melee attacks by <<3>> meter.  This effect only applies to instant cast attacks with a |cffffff5|r meter range."
-msgstr "슬롯에 장착한 Draconic Power 어빌리티 한 개당 체력 재생량이 <<1>>씩 증가합니다.\n\n현재 증가량: <<2>>\n\n즉시 시전 근접 공격의 사정거리가 <<3>> 미터 증가합니다. 이 효과는 |cffffff5|rm 범위의  즉시 시전 공격에만 해당됩니다."
+#: 132143172-0-20245
+msgctxt "132143172-0-20245"
+msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<3>> to all enemies held within them."
+msgstr "지상에서 발톱을 소환합니다. 근처의 적들에게 <<1>>를 주고 <<2>> 동안 이동 불가 상태로 만듭니다.\n\n적들이 붙잡혀 있는 동안 근처 아군은 |cffffffIgnite|r 연계 효과를 발동시켜, 붙잡힌 모든 적에게  <<3>>를 줄 수 있습니다."
 
-#: 198758357-0-29460
-msgctxt "198758357-0-29460"
-msgid "Elder Dragon"
-msgstr "Elder Dragon"
+#: 198758357-0-20245
+msgctxt "198758357-0-20245"
+msgid "Dark Talons"
+msgstr "Dark Talons"
+
+#: 132143172-0-21014
+msgctxt "132143172-0-21014"
+msgid "Flex your scales, reducing damage taken from projectiles by <<1>>  for <<2>>.\n\nGain immunity to snares and immobilizations for <<3>>."
+msgstr "드래곤의 비늘을 자유자재로 움직여, 투사체에의한 피해를 <<2>>동안 <<1>>만큼 경감시킵니다.\n\n<<3>> 동안 이동 속도 감소 효과와 이동 불과 효과에  면역이 됩니다."
+
+#: 198758357-0-21014
+msgctxt "198758357-0-21014"
+msgid "Protective Plate"
+msgstr "Protective Plate"
+
+#: 132143172-0-44933
+msgctxt "132143172-0-44933"
+msgid "While a Draconic Power ability is active, your healing received is increased by <<1>>."
+msgstr "Draconic Power 어빌리티의 지속 시간 동안 받는 치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-44933
+msgctxt "198758357-0-44933"
+msgid "Burning Heart"
+msgstr "Burning Heart"
+
+#: 132143172-0-20328
+msgctxt "132143172-0-20328"
+msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou gain a damage shield that absorbs up to <<3>> damage for <<4>>.  This portion of the ability scales off your Max Health.  \n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
+msgstr "드래곤의 힘을 방출해 Major Resolve 효과를 얻습니다. 물리 및 마법 저항력이 <<2>> 동안 <<1>> 증가합니다. \n\n최대 체력의 <<3>> 만큼 피해를 흡수하는 보호막을 <<4>> 동안 얻습니다. 이 능력은 최대 체력에 비례하여 조정됩니다.\n\n활성화된 갑옷은 당신을 근거리에서 직접공격으로 공격하는 적에게 피해를  <<5>>를 줍니다."
+
+#: 198758357-0-20328
+msgctxt "198758357-0-20328"
+msgid "Hardened Armor"
+msgstr "Hardened Armor"
+
+#: 132143172-0-29012
+msgctxt "132143172-0-29012"
+msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back <<2>>, and stunning them for <<3>>."
+msgstr "적을 향해 도약하여 대상 지역의 모든 적에게 <<1>>를 줍니다. 맞은 적은 뒤로 <<2>>만큼 밀려나고 <<3>> 동안 기절 합니다.\n"
+
+#: 198758357-0-29012
+msgctxt "198758357-0-29012"
+msgid "Dragon Leap"
+msgstr "Dragon Leap"
 
 #: 132143172-0-29457
 msgctxt "132143172-0-29457"
@@ -161,115 +251,22 @@ msgctxt "198758357-0-29455"
 msgid "Iron Skin"
 msgstr "Iron Skin"
 
-#: 132143172-0-29012
-msgctxt "132143172-0-29012"
-msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back <<2>>, and stunning them for <<3>>."
-msgstr "적을 향해 도약하여 대상 지역의 모든 적에게 <<1>>를 줍니다. 맞은 적은 뒤로 <<2>>만큼 밀려나고 <<3>> 동안 기절 합니다.\n"
+#: 132143172-0-32792
+msgctxt "132143172-0-32792"
+msgid "Channel draconic energy to suck in the air around you, dealing <<1>> to nearby enemies and healing you for <<2>>% of the damage caused.\n\nAny enemy hit that is casting is interrupted, set Off Balance, and stunned for <<3>>.\n\nAfter <<4>>, you exhale fire, dealing <<5>> to nearby enemies."
+msgstr "드래곤의 힘을 시전해 주변의 공기를 빨아들입니다. 근처의 적들에게 <<1>>를 주고 준 피해의 <<2>>% 만큼 체력을 회복합니다.\n\n시전 중이던 적은 주문 시전을 방해받은후 <<3>>동안 기절합니다.\n\n<<4>> 후 화염을 뿜어내어 근처의 적들에게 <<5>>를 줍니다."
 
-#: 198758357-0-29012
-msgctxt "198758357-0-29012"
-msgid "Dragon Leap"
-msgstr "Dragon Leap"
+#: 198758357-0-32792
+msgctxt "198758357-0-32792"
+msgid "Deep Breath"
+msgstr "Deep Breath"
 
-#: 132143172-0-29004
-msgctxt "132143172-0-29004"
-msgid "Draw on your draconic blood to heal for <<1>>% of your missing Health.\n\nYou also gain Major Fortitude, increasing your Health Recovery by <<2>> for <<3>>."
-msgstr "체내에 흐르는 드래곤의 피를 이용해 잃은 체력의 <<1>>% 를 회복합니다.\n\n또한 Major Fortitude 효과를 얻어 <<3>> 동안 체력 재생량이 <<2>> 증가합니다."
+#: 132143172-0-32715
+msgctxt "132143172-0-32715"
+msgid "Launch yourself at an enemy, dealing <<1>> to all enemies in the area, knocking them back, and stunning them for <<2>>.\n\nAfter leaping you gain a damage shield that absorbs <<3>> damage for <<4>>.  This portion of the ability scales with your Max Health."
+msgstr "적을 향해 도약하여 대상 지역의 모든 적에게 <<1>>를 줍니다. 맞은 적은 뒤로 밀려나고 <<2>> 동안 기절 합니다.\n\n도약 이후 <<3>> 만큼 피해를 흡수하는 보호막을 <<4>> 동안 얻습니다. 이 능력은 최대 체력에 비례해 조정됩니다.."
 
-#: 198758357-0-29004
-msgctxt "198758357-0-29004"
-msgid "Dragon Blood"
-msgstr "Dragon Blood"
-
-#: 132143172-0-21017
-msgctxt "132143172-0-21017"
-msgid "Flex your scales, reducing damage taken from projectiles by <<1>> for <<2>>. \n\nWhen you are hit with a projectile, you retaliate by launching a fiery orb at the attacker that deals <<3>>.  This effect can occur once every half second."
-msgstr "드래곤의 비늘을 자유자재로 움직여, 투사체에의한 피해를 <<2>>동안 <<1>>만큼 경감시킵니다.\n\n투사체에 맞을때 마다, 불꽃 오브를 형성하여 공격자에게 반사합니다. 오브는 <<3>>의 피해를 줍니다. 이 효과는 매 0.5초마다 발동됩니다."
-
-#: 198758357-0-21017
-msgctxt "198758357-0-21017"
-msgid "Dragon Fire Scale"
-msgstr "Dragon Fire Scale"
-
-#: 132143172-0-21014
-msgctxt "132143172-0-21014"
-msgid "Flex your scales, reducing damage taken from projectiles by <<1>>  for <<2>>.\n\nGain immunity to snares and immobilizations for <<3>>."
-msgstr "드래곤의 비늘을 자유자재로 움직여, 투사체에의한 피해를 <<2>>동안 <<1>>만큼 경감시킵니다.\n\n<<3>> 동안 이동 속도 감소 효과와 이동 불과 효과에  면역이 됩니다."
-
-#: 198758357-0-21014
-msgctxt "198758357-0-21014"
-msgid "Protective Plate"
-msgstr "Protective Plate"
-
-#: 132143172-0-21007
-msgctxt "132143172-0-21007"
-msgid "Flex your scales, reducing your damage taken from projectiles by <<1>> for <<2>>."
-msgstr "드래곤의 비늘을 자유자재로 움직여, <<2>> 동안 투사체를 <<1>>개까지 반사합니다."
-
-#: 198758357-0-21007
-msgctxt "198758357-0-21007"
-msgid "Protective Scale"
-msgstr "Protective Scale"
-
-#: 132143172-0-20328
-#, fuzzy
-msgctxt "132143172-0-20328"
-msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou gain a damage shield that absorbs up to <<3>> damage for <<4>>.  This portion of the ability scales off your Max Health.  \n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
-msgstr "드래곤의 힘을 방출해 Major Resolve 효과를 얻습니다. 물리 및 마법 저항력이 <<2>> 동안 <<1>> 증가합니다. \n\n최대 체력의 <<3>> 만큼 피해를 흡수하는 보호막을 <<4>> 동안 얻습니다. 이 능력은 최대 체력에 비례하여 조정됩니다.\n\n활성화된 갑옷은 당신을 공격하는 적에게 <<5>>를 줍니다."
-
-#: 198758357-0-20328
-msgctxt "198758357-0-20328"
-msgid "Hardened Armor"
-msgstr "Hardened Armor"
-
-#: 132143172-0-20323
-#, fuzzy
-msgctxt "132143172-0-20323"
-msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>. \n\nYou release a spray of spikes around you, causing enemies hit to take <<3>> over <<4>>.\n\nWhile active, the armor returns <<5>> to any enemy that uses a direct damage attack against you in melee range."
-msgstr "드래곤의 힘을 방출해 Major Resolve효과를 얻습니다. 물리 및 마법 저항력이 <<2>> 동안 <<1>> 증가합니다. 또한 주변에 가시를 흩뿌려 맞은 적들에게 <<3>>를 <<4>>에 걸쳐 줍니다.\n\n활성화되어 있는 동안 당신을 공격하는 직접 공격을 반사하여 <<5>>를 줍니다."
-
-#: 198758357-0-20323
-msgctxt "198758357-0-20323"
-msgid "Volatile Armor"
-msgstr "Volatile Armor"
-
-#: 132143172-0-20319
-#, fuzzy
-msgctxt "132143172-0-20319"
-msgid "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, the armor returns <<3>> to any enemy that uses a direct damage attack against you in melee range."
-msgstr "드래곤의 힘을 방출해 Major Resolve 효과를 얻습니다. 물리 및 마법 저항력이 <<2>> 동안 <<1>> 증가합니다.\n\n활성화되어 있는 동안 근접 공격을 반사하여 <<3>>를 줍니다."
-
-#: 198758357-0-20319
-msgctxt "198758357-0-20319"
-msgid "Spiked Armor"
-msgstr "Spiked Armor"
-
-#: 132143172-0-20252
-msgctxt "132143172-0-20252"
-msgid "Call forth talons from the ground, dealing <<1>> to enemies near you, an additional <<2>> over <<3>>, and immobilizing them for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
-msgstr "지상에서 발톱을 소환합니다. 근처의 적들에게 <<1>>를 주고  추가로 <<3>>동안 <<2>> 피해를 줍니다. 그리고 <<4>>동안 이동 불가 상태로 만듭니다.\n\n적들이 붙잡혀 있는 동안 근처 아군은 |cffffffIgnite|r 연계 효과를 발동시켜, 붙잡힌 모든 적에게  <<5>>를 줄 수 있습니다."
-
-#: 198758357-0-20252
-msgctxt "198758357-0-20252"
-msgid "Burning Talons"
-msgstr "Burning Talons"
-
-#: 132143172-0-20251
-msgctxt "132143172-0-20251"
-msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nEnemies hit are afflicted with Minor Maim, reducing their damage done by <<3>> for <<4>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<5>> to all enemies held within them."
-msgstr "지상에서 발톱을 소환합니다. 근처의 적들에게 <<1>>를 주고 <<2>> 동안 이동 불가 상태로 만듭니다.\n\n발톱이 적들에게 Minor Maim 효과를 가해 <<4>> 동안 적들이 가하는 피해량을 <<3>> 감소시킵니다.\n\n적들이 붙잡혀 있는 동안 근처 아군은 |cffffffIgnite|r 연계 효과를 발동시켜, 붙잡힌 모든 적에게  <<5>>를 줄 수 있습니다."
-
-#: 198758357-0-20251
-msgctxt "198758357-0-20251"
-msgid "Choking Talons"
-msgstr "Choking Talons"
-
-#: 132143172-0-20245
-msgctxt "132143172-0-20245"
-msgid "Call forth talons from the ground, dealing <<1>> to enemies near you and immobilizing them for <<2>>. \n\nAn ally near the talons can activate the |cffffffIgnite|r synergy, dealing <<3>> to all enemies held within them."
-msgstr "지상에서 발톱을 소환합니다. 근처의 적들에게 <<1>>를 주고 <<2>> 동안 이동 불가 상태로 만듭니다.\n\n적들이 붙잡혀 있는 동안 근처 아군은 |cffffffIgnite|r 연계 효과를 발동시켜, 붙잡힌 모든 적에게  <<3>>를 줄 수 있습니다."
-
-#: 198758357-0-20245
-msgctxt "198758357-0-20245"
-msgid "Dark Talons"
-msgstr "Dark Talons"
+#: 198758357-0-32715
+msgctxt "198758357-0-32715"
+msgid "Ferocious Leap"
+msgstr "Ferocious Leap"

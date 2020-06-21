@@ -11,250 +11,486 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 164009093-1-5530
-msgctxt "164009093-1-5530"
-msgid "Orbservatory Interior"
-msgstr "오브관측소 내부"
-
-#: 164009093-1-5529
-msgctxt "164009093-1-5529"
-msgid "Leave Home"
-msgstr "나가기"
-
-#: 211899940-0-23073
-msgctxt "211899940-0-23073"
-msgid "<The telescope is set to view the platform's associated constellation.>"
+#: 77659573-0-372
+msgctxt "77659573-0-372"
+msgid "Pit Daemon Path Flag"
 msgstr ""
 
-#: 87370069-0-23072
-msgctxt "87370069-0-23072"
-msgid "Trap"
-msgstr "함정"
-
-#: 164009093-1-5507
-msgctxt "164009093-1-5507"
-msgid "Orbservatory Landing"
-msgstr "오브관측소 착륙지점"
-
-#: 164009093-1-5506
-msgctxt "164009093-1-5506"
-msgid "Leave Home"
-msgstr "나가기"
-
-#: 164009093-1-5504
-msgctxt "164009093-1-5504"
-msgid "Orbservatory Interior"
-msgstr "오브관측소 내부"
-
-#: 164009093-1-5503
-msgctxt "164009093-1-5503"
-msgid "Leave Home"
-msgstr "나가기"
-
-#: 164009093-1-5502
-msgctxt "164009093-1-5502"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5440
-msgctxt "164009093-1-5440"
-msgid "Orbservatory Landing"
-msgstr "오브관측소 착륙지점"
-
-#: 164009093-1-5373
-msgctxt "164009093-1-5373"
-msgid "Door"
-msgstr "문"
-
-#: 164009093-1-5345
-msgctxt "164009093-1-5345"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5344
-msgctxt "164009093-1-5344"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5343
-msgctxt "164009093-1-5343"
-msgid "Simulated Sunlight Atelier"
-msgstr "인공 햇빛 아틀리에"
-
-#: 164009093-1-5342
-msgctxt "164009093-1-5342"
-msgid "Botanical Garden Antechamber"
+#: 77659573-0-373
+msgctxt "77659573-0-373"
+msgid "Fire Drake Path Flag"
 msgstr ""
 
-#: 164009093-1-5341
-msgctxt "164009093-1-5341"
-msgid "Registrar's Office"
-msgstr "기록원의 집무실"
+#: 77659573-0-370
+msgctxt "77659573-0-370"
+msgid "Stormlord Flag"
+msgstr "스톰로드 깃발"
 
-#: 164009093-1-5334
-msgctxt "164009093-1-5334"
-msgid "Portal to the Clockwork City"
-msgstr "클락워크 시티로 향하는 포탈"
-
-#: 164009093-1-5325
-msgctxt "164009093-1-5325"
-msgid "Clockwork Nave"
-msgstr "클락워크 본당"
-
-#: 164009093-1-5317
-msgctxt "164009093-1-5317"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 164009093-1-5316
-msgctxt "164009093-1-5316"
-msgid "The Grand Depository"
-msgstr "대형 금고"
-
-#: 164009093-1-5314
-msgctxt "164009093-1-5314"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5313
-msgctxt "164009093-1-5313"
-msgid "Restricted Area"
-msgstr "제한 구역"
-
-#: 164009093-1-5312
-msgctxt "164009093-1-5312"
-msgid "Audience Hall"
-msgstr "청중 회관"
-
-#: 164009093-1-5311
-msgctxt "164009093-1-5311"
-msgid "Entry Hall"
+#: 77659573-0-371
+msgctxt "77659573-0-371"
+msgid "Stormlord Path Flag"
 msgstr ""
 
-#: 164009093-1-5310
-msgctxt "164009093-1-5310"
-msgid "Entry Hall"
+#: 164009093-0-5299
+msgctxt "164009093-0-5299"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 77659573-0-369
+msgctxt "77659573-0-369"
+msgid "Fire Drake Flag"
+msgstr "파이어드레이크 깃발"
+
+#: 164009093-0-5298
+msgctxt "164009093-0-5298"
+msgid "Sanctuary of Verification"
+msgstr "검증의 성역"
+
+#: 77659573-0-367
+msgctxt "77659573-0-367"
+msgid "Stormlord Rocks"
 msgstr ""
 
-#: 164009093-1-5309
-msgctxt "164009093-1-5309"
-msgid "Halls of Regulation"
-msgstr "통제실"
+#: 77659573-0-368
+msgctxt "77659573-0-368"
+msgid "Pit Daemon Flag"
+msgstr "핏 데몬 깃발"
 
-#: 164009093-1-5308
-msgctxt "164009093-1-5308"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 164009093-1-5307
-msgctxt "164009093-1-5307"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 164009093-1-5306
-msgctxt "164009093-1-5306"
-msgid "Clockwork Nave"
-msgstr "클락워크 본당"
-
-#: 164009093-1-5305
-msgctxt "164009093-1-5305"
-msgid "Skywalk"
-msgstr ""
-
-#: 164009093-1-5304
-msgctxt "164009093-1-5304"
-msgid "Pneumatic Forge"
-msgstr ""
-
-#: 164009093-1-5303
-msgctxt "164009093-1-5303"
-msgid "Portal to the Clockwork City"
-msgstr "클락워크 시티로 향하는 포탈"
-
-#: 164009093-1-5302
-msgctxt "164009093-1-5302"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5301
-msgctxt "164009093-1-5301"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5300
-msgctxt "164009093-1-5300"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5299
-msgctxt "164009093-1-5299"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5298
-msgctxt "164009093-1-5298"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5297
-msgctxt "164009093-1-5297"
-msgid "Portal to Evergloam"
-msgstr "에버글룸으로 가는 포탈"
-
-#: 164009093-1-5296
-msgctxt "164009093-1-5296"
+#: 164009093-0-5295
+msgctxt "164009093-0-5295"
 msgid "The Cloisters"
 msgstr "회랑"
 
-#: 164009093-1-5295
-msgctxt "164009093-1-5295"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5294
-msgctxt "164009093-1-5294"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5293
-msgctxt "164009093-1-5293"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5292
-msgctxt "164009093-1-5292"
-msgid "Associate Zanon's Workshop"
+#: 77659573-0-365
+msgctxt "77659573-0-365"
+msgid "Pit Daemon Rocks"
 msgstr ""
 
-#: 164009093-1-5291
-msgctxt "164009093-1-5291"
+#: 164009093-0-5294
+msgctxt "164009093-0-5294"
+msgid "The Grand Depository"
+msgstr "대형 금고"
+
+#: 77659573-0-366
+msgctxt "77659573-0-366"
+msgid "Fire Drake Rocks"
+msgstr ""
+
+#: 164009093-0-5297
+msgctxt "164009093-0-5297"
+msgid "Portal to the Clockwork City"
+msgstr "클락워크 시티로 향하는 포탈"
+
+#: 77659573-0-363
+msgctxt "77659573-0-363"
+msgid "Pit Daemon Bridge"
+msgstr ""
+
+#: 164009093-0-5296
+msgctxt "164009093-0-5296"
+msgid "The Cloisters"
+msgstr "회랑"
+
+#: 77659573-0-364
+msgctxt "77659573-0-364"
+msgid "Stormlord Bridge"
+msgstr ""
+
+#: 164009093-0-5291
+msgctxt "164009093-0-5291"
+msgid "Associate Zanon's Workshop"
+msgstr "동료 자논의 작업장"
+
+#: 164009093-0-5290
+msgctxt "164009093-0-5290"
 msgid "Reactor District"
 msgstr "리액터 구역"
 
-#: 164009093-1-5290
-msgctxt "164009093-1-5290"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
+#: 164009093-0-5293
+msgctxt "164009093-0-5293"
+msgid "The Grand Depository"
+msgstr "대형 금고"
 
-#: 164009093-1-5289
-msgctxt "164009093-1-5289"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
+#: 164009093-0-5292
+msgctxt "164009093-0-5292"
+msgid "Associate Zanon's Workshop"
+msgstr "동료 자논의 작업장"
 
-#: 164009093-1-5288
-msgctxt "164009093-1-5288"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
+#: 162946485-0-12719
+msgctxt "162946485-0-12719"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
 
-#: 164009093-1-5287
-msgctxt "164009093-1-5287"
-msgid "Clockwork Nave"
-msgstr "클락워크 본당"
-
-#: 164009093-1-5286
-msgctxt "164009093-1-5286"
-msgid "Portal to the Midnight Menagerie"
+#: 87370069-0-22770
+msgctxt "87370069-0-22770"
+msgid "Exchange Lever"
 msgstr ""
+
+#: 77659573-0-381
+msgctxt "77659573-0-381"
+msgid "Upper West Flag"
+msgstr ""
+
+#: 77659573-0-380
+msgctxt "77659573-0-380"
+msgid "Upper East Flag"
+msgstr ""
+
+#: 164009093-0-5288
+msgctxt "164009093-0-5288"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 164009093-0-5287
+msgctxt "164009093-0-5287"
+msgid "Ineluctable Fold"
+msgstr ""
+
+#: 77659573-0-378
+msgctxt "77659573-0-378"
+msgid "Pit Daemon Flag"
+msgstr "핏 데몬 깃발"
+
+#: 164009093-0-5289
+msgctxt "164009093-0-5289"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 77659573-0-379
+#, fuzzy
+msgctxt "77659573-0-379"
+msgid "Stormlords Flag"
+msgstr "스톰로드 깃발"
+
+#: 164009093-0-5284
+msgctxt "164009093-0-5284"
+msgid "Archivox"
+msgstr ""
+
+#: 77659573-0-376
+msgctxt "77659573-0-376"
+msgid "Central South Flag"
+msgstr ""
+
+#: 164009093-0-5283
+msgctxt "164009093-0-5283"
+msgid "Hall of the Mage"
+msgstr "마법사 전당"
+
+#: 77659573-0-377
+msgctxt "77659573-0-377"
+msgid "Fire Drakes Flag"
+msgstr "파이어드레이크 깃발"
+
+#: 164009093-0-5286
+msgctxt "164009093-0-5286"
+msgid "Portal to the Cliffs of Twilight"
+msgstr ""
+
+#: 77659573-0-374
+msgctxt "77659573-0-374"
+msgid "Central West Flag"
+msgstr ""
+
+#: 164009093-0-5285
+msgctxt "164009093-0-5285"
+msgid "Portal to Evergloam"
+msgstr "에버글룸으로 가는 포탈"
+
+#: 77659573-0-375
+msgctxt "77659573-0-375"
+msgid "Central North Flag"
+msgstr ""
+
+#: 164009093-0-5280
+msgctxt "164009093-0-5280"
+msgid "Sotha Sacristy"
+msgstr "소사 성구 보관실"
+
+#: 164009093-0-5282
+msgctxt "164009093-0-5282"
+msgid "Hall of the Mage"
+msgstr "마법사 전당"
+
+#: 87370069-0-22980
+msgctxt "87370069-0-22980"
+msgid "Naril's Notes: Early Experiments"
+msgstr "나릴의 노트 : 첫번째 실험"
+
+#: 87370069-0-22981
+msgctxt "87370069-0-22981"
+msgid "Naril's Notes: Simulated Sunlight"
+msgstr "나릴의 노트 : 인공 태양광"
+
+#: 87370069-0-22982
+msgctxt "87370069-0-22982"
+msgid "Naril's Notes: Success Out of Tragedy"
+msgstr "나릴의 노트 : 비극적인 성공"
+
+#: 87370069-0-22984
+msgctxt "87370069-0-22984"
+msgid "Animo Core Receptacle"
+msgstr ""
+
+#: 268015829-0-394
+msgctxt "268015829-0-394"
+msgid "BG Ularra CK 50"
+msgstr "BG Ularra CK10—50 nocp"
+
+#: 87370069-0-22987
+msgctxt "87370069-0-22987"
+msgid "Switch"
+msgstr "전환"
+
+#: 268015829-0-395
+msgctxt "268015829-0-395"
+msgid "BG Ald Carac CK 50"
+msgstr "BG Ald Carac CK10—50 nocp"
+
+#: 87370069-0-22989
+msgctxt "87370069-0-22989"
+msgid "Kamid's Campfire"
+msgstr "카미드의 캠프파이어"
+
+#: 268015829-0-393
+msgctxt "268015829-0-393"
+msgid "BG Foyada CK 50"
+msgstr "BG Foyada CK10-50 nocp"
+
+#: 28666901-0-1711
+msgctxt "28666901-0-1711"
+msgid "Trial: Asylum Sanctorium"
+msgstr "트라이얼: 성자의 격리장"
+
+#: 162946485-0-12737
+msgctxt "162946485-0-12737"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 162946485-0-12738
+msgctxt "162946485-0-12738"
+msgid "Q6049 Black Soulgem"
+msgstr ""
+
+#: 162946485-0-12736
+msgctxt "162946485-0-12736"
+msgid "mawKill3"
+msgstr ""
+
+#: 87370069-0-22990
+msgctxt "87370069-0-22990"
+msgid "Q6074 - Kamid's Camp Bedrolls"
+msgstr ""
+
+#: 87370069-0-22993
+msgctxt "87370069-0-22993"
+msgid "Thoughts of the Honored Assistant"
+msgstr ""
+
+#: 28666901-0-1702
+msgctxt "28666901-0-1702"
+msgid "Cliffs of Twilight Graveyard"
+msgstr ""
+
+#: 87370069-0-22754
+msgctxt "87370069-0-22754"
+msgid "Terari's Notes"
+msgstr ""
+
+#: 87370069-0-22755
+msgctxt "87370069-0-22755"
+msgid "Factotum Gear"
+msgstr ""
+
+#: 87370069-0-22756
+msgctxt "87370069-0-22756"
+msgid "Black Soul Gem"
+msgstr ""
+
+#: 28666901-0-1700
+msgctxt "28666901-0-1700"
+msgid "Sanctuary Wayshrine"
+msgstr "성역 성소"
+
+#: 268015829-0-398
+msgctxt "268015829-0-398"
+msgid "BG Ularra CK 10—49"
+msgstr "BG Ularra CK10—49 nocp"
+
+#: 162946485-0-12722
+msgctxt "162946485-0-12722"
+msgid "Captive Kill Zone"
+msgstr ""
+
+#: 268015829-0-399
+msgctxt "268015829-0-399"
+msgid "BG Ald Carac CK 10—49"
+msgstr "BG Ald Carac CK10—49 nocp"
+
+#: 268015829-0-396
+msgctxt "268015829-0-396"
+msgid "BG Arcane CK 50"
+msgstr "BG Arcane CK10-50 no cp"
+
+#: 162946485-0-12720
+msgctxt "162946485-0-12720"
+msgid "ClearQuestCounters"
+msgstr ""
+
+#: 268015829-0-397
+msgctxt "268015829-0-397"
+msgid "BG Foyada CK 10-49"
+msgstr "BG Foyada CK10-49 nocp"
+
+#: 87370069-0-22961
+msgctxt "87370069-0-22961"
+msgid "Ventilation Fan"
+msgstr ""
+
+#: 87370069-0-22966
+msgctxt "87370069-0-22966"
+msgid "Filtration System"
+msgstr ""
+
+#: 87370069-0-22967
+msgctxt "87370069-0-22967"
+msgid "Galvanic Engine"
+msgstr "갈바니 엔진"
+
+#: 87370069-0-22968
+msgctxt "87370069-0-22968"
+msgid "Orchard Gate"
+msgstr ""
+
+#: 164009093-0-5259
+msgctxt "164009093-0-5259"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 87370069-0-22969
+msgctxt "87370069-0-22969"
+msgid "Spot Light"
+msgstr ""
+
+#: 164009093-0-5258
+msgctxt "164009093-0-5258"
+msgid "The Inner Curiosity"
+msgstr "내면의 호기심"
+
+#: 164009093-0-5255
+msgctxt "164009093-0-5255"
+msgid "Storage Loft"
+msgstr "창고 다락방"
+
+#: 164009093-0-5254
+msgctxt "164009093-0-5254"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-0-5257
+msgctxt "164009093-0-5257"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-0-5256
+msgctxt "164009093-0-5256"
+msgid "Chancellor Gascone's Rectory"
+msgstr "개스콘 수상의 사제관"
+
+#: 164009093-0-5251
+msgctxt "164009093-0-5251"
+msgid "Central Depository"
+msgstr ""
+
+#: 164009093-0-5253
+msgctxt "164009093-0-5253"
+msgid "Ventilation Grate"
+msgstr ""
+
+#: 87370069-0-22970
+msgctxt "87370069-0-22970"
+msgid "Spot Light"
+msgstr ""
+
+#: 87370069-0-22971
+msgctxt "87370069-0-22971"
+msgid "Spot Light"
+msgstr ""
+
+#: 87370069-0-22972
+msgctxt "87370069-0-22972"
+msgid "Spot Light"
+msgstr ""
+
+#: 87370069-0-22973
+msgctxt "87370069-0-22973"
+msgid "Light Switch"
+msgstr ""
+
+#: 87370069-0-22977
+msgctxt "87370069-0-22977"
+msgid "Travel to Deshaan"
+msgstr ""
+
+#: 87370069-0-22978
+msgctxt "87370069-0-22978"
+msgid "Portal to Clockwork City"
+msgstr "클락워크 시티로 향하는 포탈"
+
+#: 87370069-0-22979
+msgctxt "87370069-0-22979"
+msgid "Speaking Tube"
+msgstr "대화 튜브"
+
+#: 164009093-0-5248
+msgctxt "164009093-0-5248"
+msgid "Lector Naril's Private Workshop"
+msgstr "렉터 나릴의 개인 작업실"
+
+#: 164009093-0-5247
+msgctxt "164009093-0-5247"
+msgid "The Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 164009093-0-5249
+msgctxt "164009093-0-5249"
+msgid "Clockwork Basilica"
+msgstr "클락워크 공회당"
+
+#: 164009093-0-5244
+msgctxt "164009093-0-5244"
+msgid "The All-Axle"
+msgstr ""
+
+#: 164009093-0-5243
+msgctxt "164009093-0-5243"
+msgid "Halls of Convention"
+msgstr "관례 전당"
+
+#: 164009093-0-5246
+msgctxt "164009093-0-5246"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
+#: 164009093-0-5245
+msgctxt "164009093-0-5245"
+msgid "The Throne Aligned"
+msgstr ""
+
+#: 164009093-0-5240
+msgctxt "164009093-0-5240"
+msgid "Asylum Atrium Upper Level"
+msgstr "격리소 마당 상층부"
+
+#: 164009093-0-5242
+msgctxt "164009093-0-5242"
+msgid "Exit"
+msgstr "출구"
+
+#: 164009093-0-5241
+msgctxt "164009093-0-5241"
+msgid "Asylum Atrium Upper Level"
+msgstr "격리소 마당 상층부"
 
 #: 164009093-1-5285
 msgctxt "164009093-1-5285"
@@ -276,770 +512,80 @@ msgctxt "164009093-1-5282"
 msgid "Mnemonical Processing"
 msgstr "기억 처리"
 
+#: 164009093-1-5289
+msgctxt "164009093-1-5289"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 164009093-1-5288
+msgctxt "164009093-1-5288"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 87370069-0-22940
+msgctxt "87370069-0-22940"
+msgid "Construct's Pelvis"
+msgstr ""
+
+#: 164009093-1-5287
+msgctxt "164009093-1-5287"
+msgid "Clockwork Nave"
+msgstr "클락워크 본당"
+
+#: 87370069-0-22941
+msgctxt "87370069-0-22941"
+msgid "Construct's Chestplate"
+msgstr "구성체의 가슴판"
+
+#: 164009093-1-5286
+msgctxt "164009093-1-5286"
+msgid "Portal to the Midnight Menagerie"
+msgstr ""
+
+#: 87370069-0-22942
+msgctxt "87370069-0-22942"
+msgid "Construct's Spine"
+msgstr ""
+
+#: 87370069-0-22943
+msgctxt "87370069-0-22943"
+msgid "Construct's Left Hand"
+msgstr "구성체의 왼쪽 손"
+
+#: 87370069-0-22944
+msgctxt "87370069-0-22944"
+msgid "Construct's Right Hand"
+msgstr ""
+
+#: 87370069-0-22945
+msgctxt "87370069-0-22945"
+msgid "Construct's Dynamo Core"
+msgstr ""
+
+#: 87370069-0-22946
+msgctxt "87370069-0-22946"
+msgid "Construct's Integral of Calculus"
+msgstr ""
+
+#: 87370069-0-22947
+msgctxt "87370069-0-22947"
+msgid "Construct's Integral of Introspection"
+msgstr ""
+
 #: 164009093-1-5280
 msgctxt "164009093-1-5280"
 msgid "Sotha Loqutorium"
 msgstr "소사 로쿼토리움"
 
-#: 164009093-1-5279
-msgctxt "164009093-1-5279"
-msgid "Clockwork Nave"
-msgstr "클락워크 본당"
-
-#: 164009093-1-5278
-msgctxt "164009093-1-5278"
-msgid "Hall of Refined Techniques"
-msgstr " 궁극적인 기교의 홀"
-
-#: 164009093-1-5277
-msgctxt "164009093-1-5277"
-msgid "Hall of Refined Techniques"
-msgstr " 궁극적인 기교의 홀"
-
-#: 164009093-1-5276
-msgctxt "164009093-1-5276"
-msgid "Hall of Refined Techniques"
-msgstr " 궁극적인 기교의 홀"
-
-#: 164009093-1-5275
-msgctxt "164009093-1-5275"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-1-5274
-msgctxt "164009093-1-5274"
-msgid "Service Level"
+#: 87370069-0-22948
+msgctxt "87370069-0-22948"
+msgid "Construct's Integral of Reason"
 msgstr ""
 
-#: 164009093-1-5273
-msgctxt "164009093-1-5273"
-msgid "Machine District"
-msgstr "기계 구역"
-
-#: 164009093-1-5272
-msgctxt "164009093-1-5272"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5270
-msgctxt "164009093-1-5270"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5266
-msgctxt "164009093-1-5266"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5265
-msgctxt "164009093-1-5265"
-msgid "Upper Warrior's Wing"
-msgstr "상층 전사의 부속 건물"
-
-#: 164009093-1-5264
-msgctxt "164009093-1-5264"
-msgid "Upper Warrior's Wing"
-msgstr "상층 전사의 부속 건물"
-
-#: 164009093-1-5263
-msgctxt "164009093-1-5263"
-msgid "Upper Thief's Wing"
-msgstr "상층 도둑의 부속 건물"
-
-#: 164009093-1-5262
-msgctxt "164009093-1-5262"
-msgid "Upper Thief's Wing"
-msgstr "상층 도둑의 부속 건물"
-
-#: 164009093-1-5261
-msgctxt "164009093-1-5261"
-msgid "Lower Thief's Wing"
-msgstr "하층 도둑의 부속 건물"
-
-#: 164009093-1-5260
-msgctxt "164009093-1-5260"
-msgid "Lower Warrior's Wing"
-msgstr "하층 전사의 부속 건물"
-
-#: 164009093-1-5259
-msgctxt "164009093-1-5259"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-1-5258
-msgctxt "164009093-1-5258"
-msgid "Halls of Convention"
-msgstr ""
-
-#: 164009093-1-5257
-msgctxt "164009093-1-5257"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-1-5256
-msgctxt "164009093-1-5256"
-msgid "Clockwork Nave"
-msgstr "클락워크 본당"
-
-#: 164009093-1-5255
-msgctxt "164009093-1-5255"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5254
-msgctxt "164009093-1-5254"
-msgid "Administration Building"
-msgstr ""
-
-#: 164009093-1-5253
-msgctxt "164009093-1-5253"
-msgid "Ventilation Grate"
-msgstr ""
-
-#: 164009093-1-5251
-msgctxt "164009093-1-5251"
-msgid "Serviflume"
-msgstr "서비플룸"
-
-#: 164009093-1-5249
-msgctxt "164009093-1-5249"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5248
-msgctxt "164009093-1-5248"
-msgid "Simulated Sunlight Atelier"
-msgstr "인공 햇빛 아틀리에"
-
-#: 164009093-1-5247
-msgctxt "164009093-1-5247"
-msgid "Clockwork Underground"
-msgstr "클락워크 지하"
-
-#: 164009093-1-5246
-msgctxt "164009093-1-5246"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5245
-msgctxt "164009093-1-5245"
-msgid "The All-Axle"
-msgstr ""
-
-#: 164009093-1-5244
-msgctxt "164009093-1-5244"
-msgid "The Inner Curiosity"
-msgstr ""
-
-#: 164009093-1-5243
-msgctxt "164009093-1-5243"
-msgid "Clockmaker's Foyer"
-msgstr ""
-
-#: 164009093-1-5242
-msgctxt "164009093-1-5242"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 164009093-1-5241
-msgctxt "164009093-1-5241"
-msgid "Asylum Atrium"
-msgstr "격리소 마당"
-
-#: 164009093-1-5240
-msgctxt "164009093-1-5240"
-msgid "Asylum Atrium"
-msgstr "격리소 마당"
-
-#: 164009093-1-5239
-msgctxt "164009093-1-5239"
-msgid "Asylum Atrium"
-msgstr "격리소 마당"
-
-#: 164009093-1-5238
-msgctxt "164009093-1-5238"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5237
-msgctxt "164009093-1-5237"
-msgid "Secret Cavern"
-msgstr "비밀 동굴"
-
-#: 164009093-1-5236
-msgctxt "164009093-1-5236"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-1-5230
-msgctxt "164009093-1-5230"
-msgid "Deshaan"
-msgstr "데샨"
-
-#: 164009093-1-5226
-msgctxt "164009093-1-5226"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 164009093-1-5225
-msgctxt "164009093-1-5225"
-msgid "Pneumatic Approach"
-msgstr ""
-
-#: 164009093-1-5224
-msgctxt "164009093-1-5224"
-msgid "Pneumatic Forge"
-msgstr ""
-
-#: 164009093-1-5223
-msgctxt "164009093-1-5223"
-msgid "Scrubbing Bore"
-msgstr ""
-
-#: 164009093-1-5222
-msgctxt "164009093-1-5222"
-msgid "Factotum Depository"
-msgstr "팩토튬 보관소"
-
-#: 164009093-1-5221
-msgctxt "164009093-1-5221"
-msgid "Loading Bay"
-msgstr "반입구"
-
-#: 164009093-1-5220
-msgctxt "164009093-1-5220"
-msgid "Seht's Vault"
-msgstr "셋의 지하실"
-
-#: 164009093-1-5219
-msgctxt "164009093-1-5219"
-msgid "Secret Cavern"
-msgstr "비밀 동굴"
-
-#: 164009093-1-5217
-msgctxt "164009093-1-5217"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 164009093-1-5216
-msgctxt "164009093-1-5216"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5214
-msgctxt "164009093-1-5214"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-1-5212
-msgctxt "164009093-1-5212"
-msgid "Reactor District"
-msgstr "리액터 구역"
-
-#: 164009093-1-5211
-msgctxt "164009093-1-5211"
-msgid "Skybridge"
-msgstr "스카이브릿지"
-
-#: 164009093-1-5210
-msgctxt "164009093-1-5210"
-msgid "Reactor District"
-msgstr "리액터 구역"
-
-#: 164009093-1-5209
-msgctxt "164009093-1-5209"
-msgid "Skybridge"
-msgstr "스카이브릿지"
-
-#: 164009093-1-5208
-msgctxt "164009093-1-5208"
-msgid "Brass Fortress"
-msgstr "황동 요새 "
-
-#: 164009093-1-5203
-msgctxt "164009093-1-5203"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5202
-msgctxt "164009093-1-5202"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5201
-msgctxt "164009093-1-5201"
-msgid "Upstairs"
-msgstr "위층"
-
-#: 164009093-1-5200
-msgctxt "164009093-1-5200"
-msgid "Viewing Garden Vestibule"
-msgstr " 전망의 정원 앞마당"
-
-#: 164009093-1-5199
-msgctxt "164009093-1-5199"
-msgid "Simulated Sunlight Atelier"
-msgstr "인공 햇빛 아틀리에"
-
-#: 164009093-1-5198
-msgctxt "164009093-1-5198"
-msgid "Botanical Garden Antechamber"
-msgstr ""
-
-#: 164009093-1-5197
-msgctxt "164009093-1-5197"
-msgid "Super Long Spiral Room"
-msgstr ""
-
-#: 164009093-1-5196
-msgctxt "164009093-1-5196"
-msgid "Room 2"
-msgstr ""
-
-#: 164009093-1-5195
-msgctxt "164009093-1-5195"
-msgid "Room 1"
-msgstr ""
-
-#: 164009093-1-5188
-msgctxt "164009093-1-5188"
-msgid "Sunless Garden"
-msgstr ""
-
-#: 164009093-1-5187
-msgctxt "164009093-1-5187"
-msgid "Sunless Garden Workshop"
-msgstr ""
-
-#: 164009093-1-5186
-msgctxt "164009093-1-5186"
-msgid "Fungal Workshops and Gardens"
-msgstr ""
-
-#: 164009093-1-5185
-msgctxt "164009093-1-5185"
-msgid "Fungal Workshops and Gardens"
-msgstr ""
-
-#: 164009093-1-5184
-msgctxt "164009093-1-5184"
-msgid "Viewing Garden"
-msgstr " 전망의 정원"
-
-#: 164009093-1-5183
-msgctxt "164009093-1-5183"
-msgid "Antechamber"
-msgstr "곁방"
-
-#: 164009093-1-5182
-msgctxt "164009093-1-5182"
-msgid "Lower Thief's Wing"
-msgstr "하층 도둑의 부속 건물"
-
-#: 164009093-1-5181
-msgctxt "164009093-1-5181"
-msgid "Lower Warrior's Wing"
-msgstr "하층 전사의 부속 건물"
-
-#: 164009093-1-5180
-msgctxt "164009093-1-5180"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 164009093-1-5179
-msgctxt "164009093-1-5179"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 164009093-1-5178
-msgctxt "164009093-1-5178"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 164009093-1-5177
-msgctxt "164009093-1-5177"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 164009093-1-5176
-msgctxt "164009093-1-5176"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 164009093-1-5175
-msgctxt "164009093-1-5175"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 164009093-1-5173
-msgctxt "164009093-1-5173"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-1-5172
-msgctxt "164009093-1-5172"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 260523861-1-35
-msgctxt "260523861-1-35"
-msgid "Banner 2"
-msgstr "깃발 2"
-
-#: 39619172-0-9561
-msgctxt "39619172-0-9561"
-msgid "Nutriment Dispenser"
-msgstr ""
-
-#: 39619172-0-9560
-msgctxt "39619172-0-9560"
-msgid "Nutriment Dispenser"
-msgstr ""
-
-#: 39619172-0-9559
-msgctxt "39619172-0-9559"
-msgid "Nutriment Dispenser"
-msgstr ""
-
-#: 39619172-0-9558
-msgctxt "39619172-0-9558"
-msgid "Nutriment Dispenser"
-msgstr ""
-
-#: 39619172-0-9557
-msgctxt "39619172-0-9557"
-msgid "Food Extruder"
-msgstr ""
-
-#: 39619172-0-9556
-msgctxt "39619172-0-9556"
-msgid "Food Extruder"
-msgstr ""
-
-#: 39619172-0-9555
-msgctxt "39619172-0-9555"
-msgid "Drink"
-msgstr "음료"
-
-#: 39619172-0-9554
-msgctxt "39619172-0-9554"
-msgid "Drink"
-msgstr "음료"
-
-#: 39619172-0-9553
-msgctxt "39619172-0-9553"
-msgid "Drink"
-msgstr "음료"
-
-#: 39619172-0-9552
-msgctxt "39619172-0-9552"
-msgid "Drink"
-msgstr "음료"
-
-#: 39619172-0-9551
-msgctxt "39619172-0-9551"
-msgid "Tankard"
-msgstr "맥주잔"
-
-#: 39619172-0-9550
-msgctxt "39619172-0-9550"
-msgid "Tankard"
-msgstr "맥주잔"
-
-#: 98383029-0-66
-msgctxt "98383029-0-66"
-msgid "Ebonshadow"
-msgstr "에본섀도우"
-
-#: 98383029-0-65
-msgctxt "98383029-0-65"
-msgid "Apostle"
-msgstr "사도"
-
-#: 76200101-0-64
-msgctxt "76200101-0-64"
-msgid "Transmute Station"
-msgstr "변성 작업대"
-
-#: 162946485-0-5782
-msgctxt "162946485-0-5782"
-msgid "Clockwork City Treasure Map II"
-msgstr "클락워크 시티 보물지도 II"
-
-#: 162946485-0-5781
-msgctxt "162946485-0-5781"
-msgid "Clockwork City Treasure Map I"
-msgstr "클락워크 시티 보물지도 I"
-
-#: 164009093-0-5530
-msgctxt "164009093-0-5530"
-msgid "Orbservatory Sub-Level"
-msgstr "오브관측소 지하층"
-
-#: 164009093-0-5529
-msgctxt "164009093-0-5529"
-msgid "The Orbservatory Prior"
-msgstr "선행 오브관측소 "
-
-#: 164009093-0-5507
-msgctxt "164009093-0-5507"
-msgid "Orbservatory Interior"
-msgstr "오브관측소 내부"
-
-#: 164009093-0-5506
-msgctxt "164009093-0-5506"
-msgid "Pariah's Pinnacle"
-msgstr "파리아의 산정"
-
-#: 164009093-0-5504
-msgctxt "164009093-0-5504"
-msgid "Orbservatory Sub-Level"
-msgstr "오브관측소 지하층"
-
-#: 164009093-0-5503
-msgctxt "164009093-0-5503"
-msgid "The Orbservatory Prior"
-msgstr "선행 오브관측소 "
-
-#: 164009093-0-5502
-msgctxt "164009093-0-5502"
-msgid "Orbservatory Elevator Shaft"
-msgstr "오브관측소 엘레베이터 손잡이"
-
-#: 164009093-0-5440
-msgctxt "164009093-0-5440"
-msgid "Orbservatory Interior"
-msgstr "오브관측소 내부"
-
-#: 164009093-0-5373
-msgctxt "164009093-0-5373"
-msgid "Storage Chamber"
-msgstr "저장실"
-
-#: 164009093-0-5345
-msgctxt "164009093-0-5345"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-0-5344
-msgctxt "164009093-0-5344"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-0-5343
-msgctxt "164009093-0-5343"
-msgid "Viewing Garden Vestibule"
-msgstr " 전망의 정원 앞마당"
-
-#: 164009093-0-5342
-msgctxt "164009093-0-5342"
-msgid "Botanical Garden"
-msgstr ""
-
-#: 164009093-0-5341
-msgctxt "164009093-0-5341"
-msgid "Archivox"
-msgstr ""
-
-#: 164009093-0-5334
-msgctxt "164009093-0-5334"
-msgid "Portal to the Shadow Cleft"
-msgstr "그림자 틈새로 가는 포탈"
-
-#: 164009093-0-5325
-msgctxt "164009093-0-5325"
-msgid "Proctor Luciana's Retreat"
-msgstr "대변자 루시아나의 은신처"
-
-#: 164009093-0-5317
-msgctxt "164009093-0-5317"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 164009093-0-5316
-msgctxt "164009093-0-5316"
-msgid "The Grand Depository"
-msgstr "대형 금고"
-
-#: 164009093-0-5314
-msgctxt "164009093-0-5314"
-msgid "Sergeant Baldan's Office"
-msgstr ""
-
-#: 164009093-0-5313
-msgctxt "164009093-0-5313"
-msgid "Simulated Sunlight Atelier"
-msgstr "인공 햇빛 아틀리에"
-
-#: 164009093-0-5312
-msgctxt "164009093-0-5312"
-msgid "Viewing Garden"
-msgstr " 전망의 정원"
-
-#: 164009093-0-5311
-msgctxt "164009093-0-5311"
-msgid "Audience Hall"
-msgstr "청중 회관"
-
-#: 164009093-0-5310
-msgctxt "164009093-0-5310"
-msgid "Audience Hall"
-msgstr "청중 회관"
-
-#: 164009093-0-5309
-msgctxt "164009093-0-5309"
-msgid "Purification Chamber"
-msgstr ""
-
-#: 164009093-0-5308
-msgctxt "164009093-0-5308"
-msgid "Purification Chamber"
-msgstr ""
-
-#: 164009093-0-5307
-msgctxt "164009093-0-5307"
-msgid "Humidity Chamber"
-msgstr ""
-
-#: 164009093-0-5306
-msgctxt "164009093-0-5306"
-msgid "Provost Varuni's Office"
-msgstr "바루니 학장의 사무실"
-
-#: 164009093-0-5305
-msgctxt "164009093-0-5305"
-msgid "Lower Level"
-msgstr "저층부"
-
-#: 164009093-0-5304
-msgctxt "164009093-0-5304"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-0-5303
-msgctxt "164009093-0-5303"
-msgid "Portal to the Exarchs' Egress"
-msgstr ""
-
-#: 164009093-0-5302
-msgctxt "164009093-0-5302"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 164009093-0-5301
-msgctxt "164009093-0-5301"
-msgid "Barilzar's Eighth Laboratory"
-msgstr "바릴자르의 8번째 실험실"
-
-#: 164009093-0-5300
-msgctxt "164009093-0-5300"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-0-5299
-msgctxt "164009093-0-5299"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-0-5298
-msgctxt "164009093-0-5298"
-msgid "Sanctuary of Verification"
-msgstr "검증의 성역"
-
-#: 164009093-0-5297
-msgctxt "164009093-0-5297"
-msgid "Portal to the Clockwork City"
-msgstr "클락워크 시티로 향하는 포탈"
-
-#: 164009093-0-5296
-msgctxt "164009093-0-5296"
-msgid "The Cloisters"
-msgstr "회랑"
-
-#: 164009093-0-5295
-msgctxt "164009093-0-5295"
-msgid "The Cloisters"
-msgstr "회랑"
-
-#: 164009093-0-5294
-msgctxt "164009093-0-5294"
-msgid "The Grand Depository"
-msgstr "대형 금고"
-
-#: 164009093-0-5293
-msgctxt "164009093-0-5293"
-msgid "The Grand Depository"
-msgstr "대형 금고"
-
-#: 164009093-0-5292
-msgctxt "164009093-0-5292"
-msgid "Associate Zanon's Workshop"
-msgstr ""
-
-#: 164009093-0-5291
-msgctxt "164009093-0-5291"
-msgid "Associate Zanon's Workshop"
-msgstr ""
-
-#: 164009093-0-5290
-msgctxt "164009093-0-5290"
-msgid "Reactor District"
-msgstr "리액터 구역"
-
-#: 164009093-0-5289
-msgctxt "164009093-0-5289"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 164009093-0-5288
-msgctxt "164009093-0-5288"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 164009093-0-5287
-msgctxt "164009093-0-5287"
-msgid "Ineluctable Fold"
-msgstr ""
-
-#: 164009093-0-5286
-msgctxt "164009093-0-5286"
-msgid "Portal to the Cliffs of Twilight"
-msgstr ""
-
-#: 164009093-0-5285
-msgctxt "164009093-0-5285"
-msgid "Portal to Evergloam"
-msgstr "에버글룸으로 가는 포탈"
-
-#: 164009093-0-5284
-msgctxt "164009093-0-5284"
-msgid "Archivox"
-msgstr ""
-
-#: 164009093-0-5283
-msgctxt "164009093-0-5283"
-msgid "Hall of the Mage"
-msgstr "마법사 전당"
-
-#: 164009093-0-5282
-msgctxt "164009093-0-5282"
-msgid "Hall of the Mage"
-msgstr "마법사 전당"
-
-#: 164009093-0-5280
-msgctxt "164009093-0-5280"
-msgid "Sotha Sacristy"
-msgstr "소사 성구 보관실"
-
-#: 164009093-0-5279
-msgctxt "164009093-0-5279"
-msgid "Catalog of Rote Duplication"
-msgstr ""
-
-#: 164009093-0-5278
-msgctxt "164009093-0-5278"
-msgid "Hall of Refined Techniques"
-msgstr " 궁극적인 기교의 홀"
+#: 87370069-0-22949
+msgctxt "87370069-0-22949"
+msgid "Construct's Nullification Staff"
+msgstr "구조물 무효화 지팡이"
 
 #: 164009093-0-5277
 msgctxt "164009093-0-5277"
@@ -1051,15 +597,15 @@ msgctxt "164009093-0-5276"
 msgid "The Brass Fortress"
 msgstr "황동 요새"
 
-#: 164009093-0-5275
-msgctxt "164009093-0-5275"
-msgid "Slag Town Outlaws Refuge"
-msgstr " 슬라그 타운 무법자의 은신처"
-
-#: 164009093-0-5274
-msgctxt "164009093-0-5274"
-msgid "Factory Floor"
+#: 164009093-0-5279
+msgctxt "164009093-0-5279"
+msgid "Catalog of Rote Duplication"
 msgstr ""
+
+#: 164009093-0-5278
+msgctxt "164009093-0-5278"
+msgid "Hall of Refined Techniques"
+msgstr " 궁극적인 기교의 홀"
 
 #: 164009093-0-5273
 msgctxt "164009093-0-5273"
@@ -1071,10 +617,95 @@ msgctxt "164009093-0-5272"
 msgid "Slag Town Outlaws Refuge"
 msgstr " 슬라그 타운 무법자의 은신처"
 
+#: 164009093-0-5275
+msgctxt "164009093-0-5275"
+msgid "Slag Town Outlaws Refuge"
+msgstr " 슬라그 타운 무법자의 은신처"
+
+#: 164009093-0-5274
+msgctxt "164009093-0-5274"
+msgid "Factory Floor"
+msgstr "공장 작업장"
+
 #: 164009093-0-5270
 msgctxt "164009093-0-5270"
 msgid "Reactor District"
 msgstr "리액터 구역"
+
+#: 164009093-1-5296
+msgctxt "164009093-1-5296"
+msgid "The Cloisters"
+msgstr "회랑"
+
+#: 164009093-1-5295
+msgctxt "164009093-1-5295"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5294
+msgctxt "164009093-1-5294"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5293
+msgctxt "164009093-1-5293"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5299
+msgctxt "164009093-1-5299"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5298
+msgctxt "164009093-1-5298"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 87370069-0-22952
+msgctxt "87370069-0-22952"
+msgid "Flow Valve"
+msgstr ""
+
+#: 164009093-1-5297
+msgctxt "164009093-1-5297"
+msgid "Portal to Evergloam"
+msgstr "에버글룸으로 가는 포탈"
+
+#: 87370069-0-22953
+msgctxt "87370069-0-22953"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-22954
+msgctxt "87370069-0-22954"
+msgid "Oblivion Fissure"
+msgstr "오블리비언의 균열"
+
+#: 87370069-0-22955
+msgctxt "87370069-0-22955"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-22956
+msgctxt "87370069-0-22956"
+msgid "Backpack"
+msgstr "배낭"
+
+#: 164009093-1-5292
+msgctxt "164009093-1-5292"
+msgid "Associate Zanon's Workshop"
+msgstr "동료 자논의 작업장"
+
+#: 164009093-1-5291
+msgctxt "164009093-1-5291"
+msgid "Reactor District"
+msgstr "리액터 구역"
+
+#: 164009093-1-5290
+msgctxt "164009093-1-5290"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
 
 #: 164009093-0-5266
 msgctxt "164009093-0-5266"
@@ -1084,17 +715,7 @@ msgstr "기록의 성단소"
 #: 164009093-0-5265
 msgctxt "164009093-0-5265"
 msgid "Hall of the Warrior"
-msgstr ""
-
-#: 164009093-0-5264
-msgctxt "164009093-0-5264"
-msgid "Hall of the Warrior"
-msgstr ""
-
-#: 164009093-0-5263
-msgctxt "164009093-0-5263"
-msgid "Hall of the Thief"
-msgstr "도둑 전당"
+msgstr "전사 전당"
 
 #: 164009093-0-5262
 msgctxt "164009093-0-5262"
@@ -1106,656 +727,205 @@ msgctxt "164009093-0-5261"
 msgid "Upper Thief's Wing"
 msgstr "상층 도둑의 부속 건물"
 
+#: 164009093-0-5264
+msgctxt "164009093-0-5264"
+msgid "Hall of the Warrior"
+msgstr "전사 전당"
+
+#: 164009093-0-5263
+msgctxt "164009093-0-5263"
+msgid "Hall of the Thief"
+msgstr "도둑 전당"
+
 #: 164009093-0-5260
 msgctxt "164009093-0-5260"
 msgid "Upper Warrior's Wing"
 msgstr "상층 전사의 부속 건물"
 
-#: 164009093-0-5259
-msgctxt "164009093-0-5259"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
+#: 87370069-0-23453
+msgctxt "87370069-0-23453"
+msgid "The Truth in Sequence: Volume 5"
+msgstr "순차적 진실 : 제 5 권"
 
-#: 164009093-0-5258
-msgctxt "164009093-0-5258"
-msgid "The Inner Curiosity"
+#: 87370069-0-23211
+msgctxt "87370069-0-23211"
+msgid "Very Old Note"
+msgstr "매우 오래된 노트"
+
+#: 87370069-0-23452
+msgctxt "87370069-0-23452"
+msgid "The Truth in Sequence: Volume 4"
+msgstr "순차적 진실 : 제 4 권"
+
+#: 87370069-0-23455
+msgctxt "87370069-0-23455"
+msgid "The Truth in Sequence: Volume 7"
+msgstr "순차적 진실 : 제 7 권"
+
+#: 87370069-0-23213
+msgctxt "87370069-0-23213"
+msgid "Freshly Penned Note"
+msgstr "최근 쓰여진 메모"
+
+#: 87370069-0-23454
+msgctxt "87370069-0-23454"
+msgid "The Truth in Sequence: Volume 6"
+msgstr "순차적 진실 : 제 6권"
+
+#: 87370069-0-23212
+msgctxt "87370069-0-23212"
+msgid "Black Snails Shipping Notice"
+msgstr "블렉스네일의 선적통지서"
+
+#: 87370069-0-23457
+msgctxt "87370069-0-23457"
+msgid "The Truth in Sequence: Volume 9"
+msgstr "순차적 진실 : 제 9 권"
+
+#: 87370069-0-23456
+msgctxt "87370069-0-23456"
+msgid "The Truth in Sequence: Volume 8"
+msgstr "순차적 진실 : 제 8 권"
+
+#: 87370069-0-23214
+msgctxt "87370069-0-23214"
+msgid "Letter to Savarak"
 msgstr ""
 
-#: 164009093-0-5257
-msgctxt "164009093-0-5257"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
+#: 87370069-0-23459
+msgctxt "87370069-0-23459"
+msgid "The Truth in Sequence: Volume 11"
+msgstr "순차적 진실 : 제 11 권"
 
-#: 164009093-0-5256
-msgctxt "164009093-0-5256"
-msgid "Chancellor Gascone's Rectory"
-msgstr "개스콘 수상의 사제관"
+#: 87370069-0-23458
+msgctxt "87370069-0-23458"
+msgid "The Truth in Sequence: Volume 10"
+msgstr "순차적 진실 : 제 10 권"
 
-#: 164009093-0-5255
-msgctxt "164009093-0-5255"
-msgid "Storage Loft"
-msgstr "창고 다락방"
+#: 162946485-0-12311
+msgctxt "162946485-0-12311"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
 
-#: 164009093-0-5254
-msgctxt "164009093-0-5254"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-0-5253
-msgctxt "164009093-0-5253"
-msgid "Ventilation Grate"
+#: 162946485-0-12551
+msgctxt "162946485-0-12551"
+msgid "Shadow Descent SAT03"
 msgstr ""
 
-#: 164009093-0-5251
-msgctxt "164009093-0-5251"
-msgid "Central Depository"
+#: 162946485-0-12552
+msgctxt "162946485-0-12552"
+msgid "Shadow Descent SAT04"
 msgstr ""
 
-#: 164009093-0-5249
-msgctxt "164009093-0-5249"
-msgid "Clockwork Basilica"
-msgstr "클락워크 공회당"
+#: 162946485-0-12310
+msgctxt "162946485-0-12310"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
 
-#: 164009093-0-5248
-msgctxt "164009093-0-5248"
-msgid "Lector Naril's Private Workshop"
-msgstr "렉터 나릴의 개인 작업실"
+#: 162946485-0-12558
+msgctxt "162946485-0-12558"
+msgid "Machine District Catwalk"
+msgstr "기계 구역의 좁은 통로"
 
-#: 164009093-0-5247
-msgctxt "164009093-0-5247"
-msgid "The Cogitum Centralis"
-msgstr "코지툼의 중심부"
+#: 162946485-0-12556
+msgctxt "162946485-0-12556"
+msgid "Halls of Regulation"
+msgstr "통제실"
 
-#: 164009093-0-5246
-msgctxt "164009093-0-5246"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 164009093-0-5245
-msgctxt "164009093-0-5245"
-msgid "The Throne Aligned"
+#: 162946485-0-12559
+msgctxt "162946485-0-12559"
+msgid "Sanctorium of Saint Olms"
 msgstr ""
 
-#: 164009093-0-5244
-msgctxt "164009093-0-5244"
-msgid "The All-Axle"
-msgstr ""
+#: 87370069-0-23460
+msgctxt "87370069-0-23460"
+msgid "The Truth in Sequence: Volume 12"
+msgstr "순차적 진실 : 제 12 권"
 
-#: 164009093-0-5243
-msgctxt "164009093-0-5243"
-msgid "Halls of Convention"
-msgstr ""
+#: 87370069-0-23222
+msgctxt "87370069-0-23222"
+msgid "Research Journal"
+msgstr "연구일지"
 
-#: 164009093-0-5242
-msgctxt "164009093-0-5242"
-msgid "Exit"
-msgstr "출구"
+#: 87370069-0-23221
+msgctxt "87370069-0-23221"
+msgid "Firuth's Writ of Endorsement"
+msgstr "피루스의 추천장"
 
-#: 164009093-0-5241
-msgctxt "164009093-0-5241"
-msgid "Asylum Atrium Upper Level"
-msgstr "격리소 마당 상층부"
+#: 87370069-0-23227
+msgctxt "87370069-0-23227"
+msgid "Snowmead's Missive"
+msgstr "Snowmead의 명령서"
 
-#: 164009093-0-5240
-msgctxt "164009093-0-5240"
-msgid "Asylum Atrium Upper Level"
-msgstr "격리소 마당 상층부"
+#: 162946485-0-12300
+msgctxt "162946485-0-12300"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
 
-#: 164009093-0-5239
-msgctxt "164009093-0-5239"
-msgid "Asylum Atrium"
-msgstr "격리소 마당"
-
-#: 164009093-0-5238
-msgctxt "164009093-0-5238"
-msgid "Everwound Wellspring"
-msgstr "에버웬 원천지"
-
-#: 164009093-0-5237
-msgctxt "164009093-0-5237"
-msgid "Seht's Vault"
-msgstr "셋의 지하실"
-
-#: 164009093-0-5236
-msgctxt "164009093-0-5236"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 164009093-0-5230
-msgctxt "164009093-0-5230"
-msgid "Secret Cavern"
-msgstr "비밀 동굴"
-
-#: 164009093-0-5226
-msgctxt "164009093-0-5226"
-msgid "Regulation Chamber"
-msgstr "규제실"
-
-#: 164009093-0-5225
-msgctxt "164009093-0-5225"
-msgid "Prime Pneumatorium"
-msgstr ""
-
-#: 164009093-0-5224
-msgctxt "164009093-0-5224"
-msgid "Pneumatic Approach"
-msgstr ""
-
-#: 164009093-0-5223
-msgctxt "164009093-0-5223"
-msgid "Pneumatic Forge"
-msgstr ""
-
-#: 164009093-0-5222
-msgctxt "164009093-0-5222"
-msgid "Scrubbing Bore"
-msgstr ""
-
-#: 164009093-0-5221
-msgctxt "164009093-0-5221"
-msgid "Factotum Depository"
-msgstr "팩토튬 보관소"
-
-#: 164009093-0-5220
-msgctxt "164009093-0-5220"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-0-5219
-msgctxt "164009093-0-5219"
-msgid "Seht's Vault"
-msgstr "셋의 지하실"
-
-#: 164009093-0-5217
-msgctxt "164009093-0-5217"
-msgid "The Clockwork City"
-msgstr "클락워크 시티"
-
-#: 164009093-0-5216
-msgctxt "164009093-0-5216"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 164009093-0-5214
-msgctxt "164009093-0-5214"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-0-5212
-msgctxt "164009093-0-5212"
+#: 162946485-0-12782
+msgctxt "162946485-0-12782"
 msgid "Asylum Sanctorium"
 msgstr "성자의 격리장"
 
-#: 164009093-0-5211
-msgctxt "164009093-0-5211"
-msgid "Reactor District"
-msgstr "리액터 구역"
-
-#: 164009093-0-5210
-msgctxt "164009093-0-5210"
-msgid "Restricted Brassworks"
+#: 162946485-0-12546
+msgctxt "162946485-0-12546"
+msgid "Crow Follower"
 msgstr ""
 
-#: 164009093-0-5209
-msgctxt "164009093-0-5209"
-msgid "Derelict Laboratory"
-msgstr "버려진 연구소"
-
-#: 164009093-0-5208
-msgctxt "164009093-0-5208"
-msgid "Associate Zanon's Workshop"
+#: 162946485-0-12304
+msgctxt "162946485-0-12304"
+msgid "Q6063 NeramoRaynorFollowers"
 msgstr ""
 
-#: 164009093-0-5203
-msgctxt "164009093-0-5203"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
+#: 162946485-0-12789
+msgctxt "162946485-0-12789"
+msgid "Falkreath Hold"
+msgstr "팔크리스 영지"
 
-#: 164009093-0-5202
-msgctxt "164009093-0-5202"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 164009093-0-5201
-msgctxt "164009093-0-5201"
-msgid "Downstairs"
+#: 162946485-0-12305
+msgctxt "162946485-0-12305"
+msgid "Trespass"
 msgstr ""
 
-#: 164009093-0-5200
-msgctxt "164009093-0-5200"
-msgid "Viewing Garden"
-msgstr " 전망의 정원"
-
-#: 164009093-0-5199
-msgctxt "164009093-0-5199"
-msgid "Viewing Garden Vestibule"
-msgstr " 전망의 정원 앞마당"
-
-#: 164009093-0-5198
-msgctxt "164009093-0-5198"
-msgid "Botanical Garden"
+#: 162946485-0-12545
+msgctxt "162946485-0-12545"
+msgid "Near Reactor"
 msgstr ""
 
-#: 164009093-0-5197
-msgctxt "164009093-0-5197"
-msgid "Super Cool Boss Room"
+#: 162946485-0-12303
+msgctxt "162946485-0-12303"
+msgid "Q6057 - Q6063 TheaterSubzone"
 msgstr ""
 
-#: 164009093-0-5196
-msgctxt "164009093-0-5196"
-msgid "Super Long Spiral Room"
-msgstr ""
-
-#: 164009093-0-5195
-msgctxt "164009093-0-5195"
-msgid "Room 2"
-msgstr ""
-
-#: 164009093-0-5188
-msgctxt "164009093-0-5188"
-msgid "Botanical Garden Antechamber"
-msgstr ""
-
-#: 164009093-0-5187
-msgctxt "164009093-0-5187"
-msgid "Sunless Garden"
-msgstr ""
-
-#: 164009093-0-5186
-msgctxt "164009093-0-5186"
-msgid "Sunless Garden Workshop"
-msgstr ""
-
-#: 164009093-0-5185
-msgctxt "164009093-0-5185"
-msgid "Sunless Garden Workshop"
-msgstr ""
-
-#: 164009093-0-5184
-msgctxt "164009093-0-5184"
-msgid "Fungal Workshops and Gardens"
-msgstr ""
-
-#: 164009093-0-5183
-msgctxt "164009093-0-5183"
+#: 162946485-0-12308
+msgctxt "162946485-0-12308"
 msgid "Planisphere"
 msgstr "천체도"
 
-#: 164009093-0-5182
-msgctxt "164009093-0-5182"
-msgid "Upper Thief's Wing"
-msgstr "상층 도둑의 부속 건물"
+#: 162946485-0-12309
+msgctxt "162946485-0-12309"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
 
-#: 164009093-0-5181
-msgctxt "164009093-0-5181"
-msgid "Upper Warrior's Wing"
-msgstr "상층 전사의 부속 건물"
+#: 162946485-0-12548
+msgctxt "162946485-0-12548"
+msgid "Talk to Varuni"
+msgstr "바루니와 대화하기"
 
-#: 164009093-0-5180
-msgctxt "164009093-0-5180"
-msgid "Hall of the Mage"
-msgstr "마법사 전당"
+#: 162946485-0-12306
+msgctxt "162946485-0-12306"
+msgid "Planisphere"
+msgstr "천체도"
 
-#: 164009093-0-5179
-msgctxt "164009093-0-5179"
-msgid "Hall of the Warrior"
+#: 162946485-0-12549
+msgctxt "162946485-0-12549"
+msgid "Shadow Descent SAT01"
 msgstr ""
 
-#: 164009093-0-5178
-msgctxt "164009093-0-5178"
-msgid "Hall of the Thief"
-msgstr "도둑 전당"
-
-#: 164009093-0-5177
-msgctxt "164009093-0-5177"
-msgid "Thief's Wing"
-msgstr "도둑의 부속 건물"
-
-#: 164009093-0-5176
-msgctxt "164009093-0-5176"
-msgid "Mage's Wing"
-msgstr "마법사의 부속 건물"
-
-#: 164009093-0-5175
-msgctxt "164009093-0-5175"
-msgid "Warrior's Wing"
-msgstr "전사의 부속 건물"
-
-#: 164009093-0-5173
-msgctxt "164009093-0-5173"
-msgid "Machine District"
-msgstr "기계 구역"
-
-#: 164009093-0-5172
-msgctxt "164009093-0-5172"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 268015829-0-400
-msgctxt "268015829-0-400"
-msgid "BG Arcane CK 10-49"
-msgstr "BG Arcane CK10-49 no cp"
-
-#: 268015829-0-399
-msgctxt "268015829-0-399"
-msgid "BG Ald Carac CK 10—49"
-msgstr "BG Ald Carac CK10—49 nocp"
-
-#: 268015829-0-398
-msgctxt "268015829-0-398"
-msgid "BG Ularra CK 10—49"
-msgstr "BG Ularra CK10—49 nocp"
-
-#: 268015829-0-397
-msgctxt "268015829-0-397"
-msgid "BG Foyada CK 10-49"
-msgstr "BG Foyada CK10-49 nocp"
-
-#: 268015829-0-396
-msgctxt "268015829-0-396"
-msgid "BG Arcane CK 50"
-msgstr "BG Arcane CK10-50 no cp"
-
-#: 268015829-0-395
-msgctxt "268015829-0-395"
-msgid "BG Ald Carac CK 50"
-msgstr "BG Ald Carac CK10—50 nocp"
-
-#: 268015829-0-394
-msgctxt "268015829-0-394"
-msgid "BG Ularra CK 50"
-msgstr "BG Ularra CK10—50 nocp"
-
-#: 268015829-0-393
-msgctxt "268015829-0-393"
-msgid "BG Foyada CK 50"
-msgstr "BG Foyada CK10-50 nocp"
-
-#: 77659573-0-381
-msgctxt "77659573-0-381"
-msgid "Upper West Flag"
-msgstr ""
-
-#: 77659573-0-380
-msgctxt "77659573-0-380"
-msgid "Upper East Flag"
-msgstr ""
-
-#: 77659573-0-379
-#, fuzzy
-msgctxt "77659573-0-379"
-msgid "Stormlords Flag"
-msgstr "스톰로드 깃발"
-
-#: 77659573-0-378
-msgctxt "77659573-0-378"
-msgid "Pit Daemon Flag"
-msgstr ""
-
-#: 77659573-0-377
-msgctxt "77659573-0-377"
-msgid "Fire Drakes Flag"
-msgstr "파이어드레이크 깃발"
-
-#: 77659573-0-376
-msgctxt "77659573-0-376"
-msgid "Central South Flag"
-msgstr ""
-
-#: 77659573-0-375
-msgctxt "77659573-0-375"
-msgid "Central North Flag"
-msgstr ""
-
-#: 77659573-0-374
-msgctxt "77659573-0-374"
-msgid "Central West Flag"
-msgstr ""
-
-#: 77659573-0-373
-msgctxt "77659573-0-373"
-msgid "Fire Drake Path Flag"
-msgstr ""
-
-#: 77659573-0-372
-msgctxt "77659573-0-372"
-msgid "Pit Daemon Path Flag"
-msgstr ""
-
-#: 77659573-0-371
-msgctxt "77659573-0-371"
-msgid "Stormlord Path Flag"
-msgstr ""
-
-#: 77659573-0-370
-msgctxt "77659573-0-370"
-msgid "Stormlord Flag"
-msgstr ""
-
-#: 77659573-0-369
-msgctxt "77659573-0-369"
-msgid "Fire Drake Flag"
-msgstr ""
-
-#: 77659573-0-368
-msgctxt "77659573-0-368"
-msgid "Pit Daemon Flag"
-msgstr ""
-
-#: 77659573-0-367
-msgctxt "77659573-0-367"
-msgid "Stormlord Rocks"
-msgstr ""
-
-#: 77659573-0-366
-msgctxt "77659573-0-366"
-msgid "Fire Drake Rocks"
-msgstr ""
-
-#: 77659573-0-365
-msgctxt "77659573-0-365"
-msgid "Pit Daemon Rocks"
-msgstr ""
-
-#: 77659573-0-364
-msgctxt "77659573-0-364"
-msgid "Stormlord Bridge"
-msgstr ""
-
-#: 77659573-0-363
-msgctxt "77659573-0-363"
-msgid "Pit Daemon Bridge"
-msgstr ""
-
-#: 77659573-0-362
-msgctxt "77659573-0-362"
-msgid "Fire Drake Bridge"
-msgstr ""
-
-#: 19398485-0-2536
-msgctxt "19398485-0-2536"
-msgid "Door"
-msgstr "문"
-
-#: 19398485-0-2524
-msgctxt "19398485-0-2524"
-msgid "Warning to All Residents"
-msgstr ""
-
-#: 19398485-0-2489
-msgctxt "19398485-0-2489"
-msgid "Door"
-msgstr "문"
-
-#: 19398485-0-2464
-msgctxt "19398485-0-2464"
-msgid "Oily Fishing Hole"
-msgstr ""
-
-#: 19398485-0-2454
-msgctxt "19398485-0-2454"
-msgid "The Factotum's Secret Voice"
-msgstr "팩토튬의 비밀스러운 목소리"
-
-#: 19398485-0-2452
-msgctxt "19398485-0-2452"
-msgid "Proctor Luciana's Journal, Vol 4"
-msgstr "대변자 루시아나의 일지, 제 4권"
-
-#: 19398485-0-2451
-msgctxt "19398485-0-2451"
-msgid "Proctor Luciana's Journal, Vol 3"
-msgstr "대변자 루시아나의 일지, 제 3권"
-
-#: 19398485-0-2450
-msgctxt "19398485-0-2450"
-msgid "Proctor Luciana's Journal, Vol 2"
-msgstr "대변자 루시아나의 일지, 제 2권"
-
-#: 19398485-0-2449
-msgctxt "19398485-0-2449"
-msgid "Proctor Luciana's Journal, Vol 1"
-msgstr "대변자 루시아나의 일지, 제 1권"
-
-#: 19398485-0-2448
-msgctxt "19398485-0-2448"
-msgid "Sotha Nall"
-msgstr "소사 넬"
-
-#: 19398485-0-2447
-msgctxt "19398485-0-2447"
-msgid "Nerevar the Captain"
-msgstr "대장군 네레바"
-
-#: 19398485-0-2446
-msgctxt "19398485-0-2446"
-msgid "The Defense of Mournhold"
-msgstr "모운홀드 방어"
-
-#: 19398485-0-2445
-msgctxt "19398485-0-2445"
-msgid "Vivec, the Warrior-Poet"
-msgstr "비벡, 시인이자-전사"
-
-#: 19398485-0-2442
-msgctxt "19398485-0-2442"
-msgid "Portal"
-msgstr "포탈 "
-
-#: 19398485-0-2439
-msgctxt "19398485-0-2439"
-msgid "For Glory!"
-msgstr "영광을 위하여!"
-
-#: 19398485-0-2434
-msgctxt "19398485-0-2434"
-msgid "Outsider Observation Report - Log 3"
-msgstr "외부인 정찰 보고서- 3번 기록"
-
-#: 19398485-0-2433
-msgctxt "19398485-0-2433"
-msgid "Outsider Observation Report - Log 2"
-msgstr "외부인 정찰 보고서- 2번 기록"
-
-#: 19398485-0-2432
-msgctxt "19398485-0-2432"
-msgid "Factotum Classification - Log 233"
-msgstr "팩토튬 분류 - 233번 기록"
-
-#: 19398485-0-2431
-msgctxt "19398485-0-2431"
-msgid "Worshiping the Illogical"
-msgstr "비 논리적인 숭배"
-
-#: 19398485-0-2430
-msgctxt "19398485-0-2430"
-msgid "Clockwork Apostle Poetry Collective"
-msgstr "클락워크 사도의 시집"
-
-#: 19398485-0-2429
-msgctxt "19398485-0-2429"
-msgid "Outsider Observation Report - Log 1"
-msgstr "외부인 정찰 보고서- 1번 기록"
-
-#: 19398485-0-2427
-msgctxt "19398485-0-2427"
-msgid "Maintenance Log 5453"
-msgstr "수리 기록 5453"
-
-#: 19398485-0-2426
-msgctxt "19398485-0-2426"
-msgid "Maintenance Log 5352"
-msgstr "수리 기록  5352"
-
-#: 19398485-0-2425
-msgctxt "19398485-0-2425"
-msgid "Maintenance Log 4091"
-msgstr "수리 기록 4091"
-
-#: 19398485-0-2424
-msgctxt "19398485-0-2424"
-msgid "A Sky of Dusk"
-msgstr "황혼의 하늘"
-
-#: 19398485-0-2423
-msgctxt "19398485-0-2423"
-msgid "Eyes of Nothing"
-msgstr "공허한 눈동자"
-
-#: 19398485-0-2422
-msgctxt "19398485-0-2422"
-msgid "The Imperfect Logistics Log"
-msgstr "임퍼펙트 회로 로그"
-
-#: 19398485-0-2421
-msgctxt "19398485-0-2421"
-msgid "Barilzar's Journal"
-msgstr "바릴자르의 일지"
-
-#: 19398485-0-2420
-msgctxt "19398485-0-2420"
-msgid "Engine of Expression"
-msgstr "표현의 엔진"
-
-#: 19398485-0-2419
-msgctxt "19398485-0-2419"
-msgid "The Law of Gears"
-msgstr "기어의 법률"
-
-#: 19398485-0-2418
-msgctxt "19398485-0-2418"
-msgid "Ironstalk Mushroom Preservation and Sterilization"
-msgstr ""
-
-#: 19398485-0-2416
-msgctxt "19398485-0-2416"
-msgid "Realms of the Clockwork City: The Radius"
-msgstr ""
-
-#: 19398485-0-2415
-msgctxt "19398485-0-2415"
-msgid "Door"
-msgstr "문"
-
-#: 19398485-0-2413
-msgctxt "19398485-0-2413"
-msgid "Light"
-msgstr "빛"
-
-#: 19398485-0-2412
-msgctxt "19398485-0-2412"
-msgid "Light"
-msgstr "빛"
-
-#: 19398485-0-2411
-msgctxt "19398485-0-2411"
-msgid "Light"
-msgstr "빛"
-
-#: 19398485-0-2410
-msgctxt "19398485-0-2410"
-msgid "Light"
-msgstr "빛"
+#: 162946485-0-12307
+msgctxt "162946485-0-12307"
+msgid "Planisphere"
+msgstr "천체도"
 
 #: 19398485-0-2409
 msgctxt "19398485-0-2409"
@@ -1777,26 +947,6 @@ msgctxt "19398485-0-2406"
 msgid "Light"
 msgstr "빛"
 
-#: 19398485-0-2405
-msgctxt "19398485-0-2405"
-msgid "Light"
-msgstr "빛"
-
-#: 19398485-0-2404
-msgctxt "19398485-0-2404"
-msgid "Light"
-msgstr "빛"
-
-#: 19398485-0-2403
-msgctxt "19398485-0-2403"
-msgid "Light"
-msgstr "빛"
-
-#: 19398485-0-2402
-msgctxt "19398485-0-2402"
-msgid "Light"
-msgstr "빛"
-
 #: 19398485-0-2401
 msgctxt "19398485-0-2401"
 msgid "The Mystery of Factotums"
@@ -1807,565 +957,91 @@ msgctxt "19398485-0-2400"
 msgid "Light"
 msgstr "빛"
 
-#: 19398485-0-2399
-msgctxt "19398485-0-2399"
+#: 19398485-0-2405
+msgctxt "19398485-0-2405"
 msgid "Light"
 msgstr "빛"
 
-#: 19398485-0-2396
-msgctxt "19398485-0-2396"
-msgid "The Blackfeather Court"
-msgstr "검은깃털 궁전"
+#: 19398485-0-2404
+msgctxt "19398485-0-2404"
+msgid "Light"
+msgstr "빛"
 
-#: 19398485-0-2395
-msgctxt "19398485-0-2395"
-msgid "The Mystery of Artaeum"
-msgstr "아르테움의 미스터리"
-
-#: 19398485-0-2394
-msgctxt "19398485-0-2394"
-msgid "Steady Hands"
+#: 162946485-0-12583
+msgctxt "162946485-0-12583"
+msgid "CWC_CCQ1_map3C"
 msgstr ""
 
-#: 19398485-0-2393
-msgctxt "19398485-0-2393"
-msgid "Inveigling the Clockwork Apostles"
+#: 19398485-0-2403
+msgctxt "19398485-0-2403"
+msgid "Light"
+msgstr "빛"
+
+#: 162946485-0-12580
+msgctxt "162946485-0-12580"
+msgid "Repair Distillation Initiator"
 msgstr ""
 
-#: 19398485-0-2392
-msgctxt "19398485-0-2392"
-msgid "The Fabricated Fauna of Clockwork"
+#: 19398485-0-2402
+msgctxt "19398485-0-2402"
+msgid "Light"
+msgstr "빛"
+
+#: 267200725-0-1313
+msgctxt "267200725-0-1313"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 162946485-0-12581
+msgctxt "162946485-0-12581"
+msgid "CCQ1_Big_Killzone_01"
 msgstr ""
 
-#: 19398485-0-2391
-msgctxt "19398485-0-2391"
-msgid "The Unseen Potential of Clockwork"
+#: 162946485-0-12333
+msgctxt "162946485-0-12333"
+msgid "Enter machine district"
 msgstr ""
 
-#: 19398485-0-2389
-msgctxt "19398485-0-2389"
-msgid "A Study of Fabricants"
-msgstr "패브릭칸트에 대한 연구"
-
-#: 19398485-0-2388
-msgctxt "19398485-0-2388"
-msgid "A Brief History of Ald Sotha"
-msgstr "알드 소사의 역사"
-
-#: 19398485-0-2387
-msgctxt "19398485-0-2387"
-msgid "Shadows and Whispers"
-msgstr "그림자와 속삭임"
-
-#: 19398485-0-2386
-msgctxt "19398485-0-2386"
-msgid "The Water Cycle of Clockwork City"
-msgstr "클락워크 시티의 물 순환"
-
-#: 19398485-0-2385
-msgctxt "19398485-0-2385"
-msgid "The Memories of Sotha Sil"
-msgstr "소사 실의 기억들"
-
-#: 19398485-0-2384
-msgctxt "19398485-0-2384"
-msgid "Stuck in the Slag"
+#: 162946485-0-12576
+msgctxt "162946485-0-12576"
+msgid "CWC_CCQ5_FL2_map"
 msgstr ""
 
-#: 19398485-0-2383
-msgctxt "19398485-0-2383"
-msgid "Wellspring Hooch"
+#: 162946485-0-12331
+msgctxt "162946485-0-12331"
+msgid "Core"
+msgstr "코어"
+
+#: 162946485-0-12332
+msgctxt "162946485-0-12332"
+msgid "SothaEnderBackup"
 msgstr ""
 
-#: 19398485-0-2382
-msgctxt "19398485-0-2382"
-msgid "Star"
+#: 162946485-0-12337
+msgctxt "162946485-0-12337"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12577
+msgctxt "162946485-0-12577"
+msgid "CWC_CCQ5_FL1_map"
 msgstr ""
 
-#: 19398485-0-2380
-msgctxt "19398485-0-2380"
-msgid "Stealing the Stars"
-msgstr ""
-
-#: 19398485-0-2379
-msgctxt "19398485-0-2379"
-msgid "The Astronomer's Power"
-msgstr ""
-
-#: 19398485-0-2378
-msgctxt "19398485-0-2378"
-msgid "The Will of Our Mistress"
-msgstr ""
-
-#: 19398485-0-2377
-msgctxt "19398485-0-2377"
-msgid "Door"
-msgstr "문"
-
-#: 19398485-0-2375
-msgctxt "19398485-0-2375"
-msgid "Wellspring Fungal Strain G"
-msgstr ""
-
-#: 19398485-0-2374
-msgctxt "19398485-0-2374"
-msgid "Wellspring Fungal Strain F"
-msgstr ""
-
-#: 19398485-0-2373
-msgctxt "19398485-0-2373"
-msgid "Wellspring Fungal Strain E"
-msgstr ""
-
-#: 19398485-0-2372
-msgctxt "19398485-0-2372"
-msgid "Wellspring Fungal Strain D"
-msgstr ""
-
-#: 19398485-0-2371
-msgctxt "19398485-0-2371"
-msgid "Wellspring Fungal Strain C"
-msgstr ""
-
-#: 19398485-0-2370
-msgctxt "19398485-0-2370"
-msgid "Wellspring Fungal Strain B"
-msgstr ""
-
-#: 19398485-0-2368
-msgctxt "19398485-0-2368"
-msgid "Chirrhari's Notes"
-msgstr "칠하리의 노트 "
-
-#: 19398485-0-2367
-msgctxt "19398485-0-2367"
-msgid "Door"
-msgstr "문"
-
-#: 19398485-0-2364
-msgctxt "19398485-0-2364"
-msgid "Heavy Sack"
-msgstr "두툼한 자루"
-
-#: 19398485-0-2363
-msgctxt "19398485-0-2363"
-msgid "Potable Liquids"
-msgstr ""
-
-#: 19398485-0-2362
-msgctxt "19398485-0-2362"
-msgid "Potable Liquids"
-msgstr ""
-
-#: 19398485-0-2361
-msgctxt "19398485-0-2361"
-msgid "Water Skin"
-msgstr "물 주머니"
-
-#: 19398485-0-2360
-msgctxt "19398485-0-2360"
-msgid "Water Skin"
-msgstr "물 주머니"
-
-#: 19398485-0-2359
-msgctxt "19398485-0-2359"
-msgid "Rubedite Ore"
-msgstr "루비다이트 광석"
-
-#: 87370069-0-23580
-msgctxt "87370069-0-23580"
-msgid "Journal of Elias"
-msgstr ""
-
-#: 19398485-0-2358
-msgctxt "19398485-0-2358"
-msgid "Rubedite Ore"
-msgstr "루비다이트 광석"
-
-#: 19398485-0-2357
-msgctxt "19398485-0-2357"
-msgid "Scrap Wood"
-msgstr ""
-
-#: 19398485-0-2356
-msgctxt "19398485-0-2356"
-msgid "Scrap Wood"
-msgstr ""
-
-#: 19398485-0-2355
-msgctxt "19398485-0-2355"
-msgid "Torn Cloth"
-msgstr "찢겨진 천"
-
-#: 87370069-0-23540
-msgctxt "87370069-0-23540"
-msgid "Portal to Mournhold"
-msgstr "모운홀드로 향하는 포탈"
-
-#: 19398485-0-2354
-msgctxt "19398485-0-2354"
-msgid "Torn Cloth"
-msgstr "찢겨진 천"
-
-#: 19398485-0-2353
-msgctxt "19398485-0-2353"
-msgid "Runestone"
-msgstr "룬스톤"
-
-#: 87370069-0-23527
-msgctxt "87370069-0-23527"
-msgid "Prayer to the Furious One"
-msgstr "분노하는 자에게 올리는 기도문"
-
-#: 87370069-0-23526
-msgctxt "87370069-0-23526"
-msgid "Daedra Dossier: Cold-Flame Atronach"
-msgstr "데이드라 조서: 냉기-화염 아트로나크"
-
-#: 87370069-0-23525
-msgctxt "87370069-0-23525"
-msgid "The Law of Gears"
-msgstr "기어의 법률"
-
-#: 19398485-0-2352
-msgctxt "19398485-0-2352"
-msgid "Herbalist's Satchel"
-msgstr ""
-
-#: 19398485-0-2351
-msgctxt "19398485-0-2351"
-msgid "Bratheru's Larder"
-msgstr ""
-
-#: 19398485-0-2349
-msgctxt "19398485-0-2349"
-msgid "Seht's Vault"
-msgstr "셋의 지하실"
-
-#: 19398485-0-2347
-msgctxt "19398485-0-2347"
-msgid "Door"
-msgstr "문"
-
-#: 87370069-0-23460
-msgctxt "87370069-0-23460"
-msgid "The Truth in Sequence: Volume 12"
-msgstr "순차적 진실 : 제 12 권"
-
-#: 19398485-0-2346
-msgctxt "19398485-0-2346"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-23459
-msgctxt "87370069-0-23459"
-msgid "The Truth in Sequence: Volume 11"
-msgstr "순차적 진실 : 제 11 권"
-
-#: 87370069-0-23458
-msgctxt "87370069-0-23458"
-msgid "The Truth in Sequence: Volume 10"
-msgstr "순차적 진실 : 제 10 권"
-
-#: 87370069-0-23457
-msgctxt "87370069-0-23457"
-msgid "The Truth in Sequence: Volume 9"
-msgstr "순차적 진실 : 제 9 권"
-
-#: 87370069-0-23456
-msgctxt "87370069-0-23456"
-msgid "The Truth in Sequence: Volume 8"
-msgstr "순차적 진실 : 제 8 권"
-
-#: 87370069-0-23455
-msgctxt "87370069-0-23455"
-msgid "The Truth in Sequence: Volume 7"
-msgstr "순차적 진실 : 제 7 권"
-
-#: 87370069-0-23454
-msgctxt "87370069-0-23454"
-msgid "The Truth in Sequence: Volume 6"
-msgstr "순차적 진실 : 제 6권"
-
-#: 87370069-0-23453
-msgctxt "87370069-0-23453"
-msgid "The Truth in Sequence: Volume 5"
-msgstr "순차적 진실 : 제 5 권"
-
-#: 87370069-0-23452
-msgctxt "87370069-0-23452"
-msgid "The Truth in Sequence: Volume 4"
-msgstr "순차적 진실 : 제 4 권"
-
-#: 87370069-0-23451
-msgctxt "87370069-0-23451"
-msgid "The Truth in Sequence: Volume 3"
-msgstr "순차적 진실 : 제 3 권"
-
-#: 87370069-0-23450
-msgctxt "87370069-0-23450"
-msgid "The Truth in Sequence: Volume 2"
-msgstr "순차적 진실 : 제 2 권"
-
-#: 19398485-0-2345
-msgctxt "19398485-0-2345"
-msgid "Door"
-msgstr "문"
-
-#: 87370069-0-23449
-msgctxt "87370069-0-23449"
-msgid "The Truth in Sequence: Volume 1"
-msgstr "순차적 진실 : 제 1 권"
-
-#: 87370069-0-23448
-msgctxt "87370069-0-23448"
-msgid "Maliah's Journal"
-msgstr ""
+#: 162946485-0-12578
+#, fuzzy
+msgctxt "162946485-0-12578"
+msgid "Repair Vapor Manifold"
+msgstr "환기 장치 수리"
 
 #: 87370069-0-23440
 msgctxt "87370069-0-23440"
 msgid "Light Switch"
 msgstr ""
 
-#: 87370069-0-23400
-msgctxt "87370069-0-23400"
-msgid "Dulza's Log"
-msgstr ""
-
-#: 87370069-0-23396
-msgctxt "87370069-0-23396"
-msgid "Invitation to Morrowind"
-msgstr "모로윈드의 초청"
-
-#: 87370069-0-23395
-msgctxt "87370069-0-23395"
-msgid "Novice Oscard's Notes"
-msgstr ""
-
-#: 87370069-0-23392
-msgctxt "87370069-0-23392"
-msgid "Imperfect"
-msgstr ""
-
-#: 87370069-0-23363
-msgctxt "87370069-0-23363"
-msgid "Seeking Tenant!"
-msgstr "임차인 모집!"
-
-#: 87370069-0-23360
-msgctxt "87370069-0-23360"
-msgid "Opening Mechanism"
-msgstr "여는 장치"
-
-#: 19398485-0-2333
-msgctxt "19398485-0-2333"
-msgid "Crate of Port Hunding Reserve"
-msgstr ""
-
-#: 19398485-0-2332
-msgctxt "19398485-0-2332"
-msgid "Ironstalk Mushroom"
-msgstr ""
-
-#: 87370069-0-23318
-msgctxt "87370069-0-23318"
-msgid "Journal of a Stranded Mage"
-msgstr ""
-
-#: 87370069-0-23316
-msgctxt "87370069-0-23316"
-msgid "Terari's Notes"
-msgstr ""
-
-#: 87370069-0-23315
-msgctxt "87370069-0-23315"
-msgid "Maintenance Manifests"
-msgstr ""
-
-#: 87370069-0-23314
-msgctxt "87370069-0-23314"
-msgid "Imperfect Operations Manual"
-msgstr ""
-
-#: 87370069-0-23313
-msgctxt "87370069-0-23313"
-msgid "Orders of Assassination"
-msgstr ""
-
-#: 87370069-0-23311
-msgctxt "87370069-0-23311"
-msgid "Hadmal's Journal, Page 12"
-msgstr ""
-
-#: 87370069-0-23310
-msgctxt "87370069-0-23310"
-msgid "Hadmal's Journal, Page 7"
-msgstr ""
-
-#: 19398485-0-2331
-msgctxt "19398485-0-2331"
-msgid "Ironstalk Mushroom"
-msgstr ""
-
-#: 87370069-0-23307
-msgctxt "87370069-0-23307"
-msgid "Reassembled Lamp"
-msgstr ""
-
-#: 87370069-0-23302
-msgctxt "87370069-0-23302"
-msgid "Transmute Station"
-msgstr "변성 작업대"
-
-#: 19398485-0-2330
-msgctxt "19398485-0-2330"
-msgid "Ironstalk Mushroom"
-msgstr ""
-
-#: 87370069-0-23299
-msgctxt "87370069-0-23299"
-msgid "Housing Brochure"
-msgstr "주택 안내 책자"
-
-#: 19398485-0-2329
-msgctxt "19398485-0-2329"
-msgid "Ironstalk Mushroom Preservation and Sterilization"
-msgstr ""
-
-#: 87370069-0-23285
-msgctxt "87370069-0-23285"
-msgid "Residential Logistics Logs"
-msgstr ""
-
-#: 87370069-0-23284
-msgctxt "87370069-0-23284"
-msgid "Archived Security Surveys"
-msgstr ""
-
-#: 87370069-0-23283
-msgctxt "87370069-0-23283"
-msgid "Factotum Data Repository"
-msgstr ""
-
-#: 87370069-0-23282
-msgctxt "87370069-0-23282"
-msgid "Red Exile Instructions"
-msgstr "붉은 망명자에게 보내는 지령"
-
-#: 87370069-0-23254
-msgctxt "87370069-0-23254"
-msgid "Brief Letter to an Aldarch"
-msgstr "알다크에게 보내는 짧은 편지"
-
-#: 87370069-0-23253
-msgctxt "87370069-0-23253"
-msgid "Letter to an Aldarch"
-msgstr "알다크에게 보내는 편지"
-
-#: 87370069-0-23252
-msgctxt "87370069-0-23252"
-msgid "The Fires of Truth"
-msgstr "진실의 불꽃"
-
-#: 87370069-0-23249
-msgctxt "87370069-0-23249"
-msgid "Wall"
-msgstr "수직/벽"
-
-#: 87370069-0-23248
-msgctxt "87370069-0-23248"
-msgid "Catalogue of Afflictions in the City"
-msgstr "도시의 불행 원인 목록"
-
-#: 87370069-0-23247
-msgctxt "87370069-0-23247"
-msgid "Concerning the Saints' Safety and Security"
-msgstr "성도들의 안전과 보안에 관하여"
-
-#: 87370069-0-23246
-msgctxt "87370069-0-23246"
-msgid "Evaluation of Saint Olms"
-msgstr ""
-
-#: 87370069-0-23245
-msgctxt "87370069-0-23245"
-msgid "Evaluation of Saint Llothis"
-msgstr ""
-
-#: 87370069-0-23244
-msgctxt "87370069-0-23244"
-msgid "Evaluation of Saint Felms"
-msgstr ""
-
-#: 87370069-0-23237
-msgctxt "87370069-0-23237"
-msgid "Exit"
-msgstr "출구"
-
-#: 87370069-0-23236
-msgctxt "87370069-0-23236"
-msgid "Molag Mar	Tax Records"
-msgstr "몰라그 말 수세 기록"
-
-#: 87370069-0-23235
-msgctxt "87370069-0-23235"
-msgid "Vos Tax Records"
-msgstr "보스 징세 기록"
-
-#: 87370069-0-23234
-msgctxt "87370069-0-23234"
-msgid "Portal to Clockwork City"
-msgstr "클락워크 시티로 향하는 포탈"
-
-#: 87370069-0-23227
-msgctxt "87370069-0-23227"
-msgid "Snowmead's Missive"
-msgstr "Snowmead의 명령서"
-
-#: 87370069-0-23222
-msgctxt "87370069-0-23222"
-msgid "Research Journal"
-msgstr "연구일지"
-
-#: 87370069-0-23221
-msgctxt "87370069-0-23221"
-msgid "Firuth's Writ of Endorsement"
-msgstr "피루스의 추천장"
-
-#: 19398485-0-2322
-msgctxt "19398485-0-2322"
-msgid "Brass Fortress"
-msgstr "황동 요새 "
-
-#: 87370069-0-23214
-msgctxt "87370069-0-23214"
-msgid "Letter to Savarak"
-msgstr ""
-
-#: 87370069-0-23213
-msgctxt "87370069-0-23213"
-msgid "Freshly Penned Note"
-msgstr "최근 쓰여진 메모"
-
-#: 87370069-0-23212
-msgctxt "87370069-0-23212"
-msgid "Black Snails Shipping Notice"
-msgstr "블렉스네일의 선적통지서"
-
-#: 87370069-0-23211
-msgctxt "87370069-0-23211"
-msgid "Very Old Note"
-msgstr "매우 오래된 노트"
-
-#: 19398485-0-2321
-msgctxt "19398485-0-2321"
-msgid "Serviflume"
-msgstr "서비플룸"
-
-#: 87370069-0-23205
-msgctxt "87370069-0-23205"
-msgid "Lord Vivec's Questions"
-msgstr "로드 비벡의 질문"
+#: 87370069-0-23200
+msgctxt "87370069-0-23200"
+msgid "Journal Page"
+msgstr "일지 페이지"
 
 #: 87370069-0-23202
 msgctxt "87370069-0-23202"
@@ -2377,1232 +1053,65 @@ msgctxt "87370069-0-23201"
 msgid "Sun-in-Shadow's To Do List"
 msgstr "선-인-쉐도우의 해아할 일 목록"
 
-#: 87370069-0-23200
-msgctxt "87370069-0-23200"
-msgid "Journal Page"
-msgstr "일지 페이지"
-
-#: 87370069-0-23198
-msgctxt "87370069-0-23198"
-msgid "A Plea for Help"
-msgstr ""
-
-#: 87370069-0-23197
-msgctxt "87370069-0-23197"
-msgid "Light"
-msgstr "빛"
-
-#: 87370069-0-23195
-msgctxt "87370069-0-23195"
-msgid "Projector"
-msgstr ""
-
-#: 87370069-0-23179
-msgctxt "87370069-0-23179"
-msgid "Halinjirr's Notes"
-msgstr "하린지르의 쪽지"
-
-#: 87370069-0-23175
-msgctxt "87370069-0-23175"
-msgid "Bulletin Board"
-msgstr ""
-
-#: 87370069-0-23171
-msgctxt "87370069-0-23171"
-msgid "Barilzar's Hirelings"
-msgstr "바릴자르의 조수"
-
-#: 87370069-0-23169
-msgctxt "87370069-0-23169"
-msgid "Oblivion Fissure"
-msgstr "오블리비언의 균열"
-
-#: 87370069-0-23165
-msgctxt "87370069-0-23165"
-msgid "Star"
-msgstr ""
-
-#: 87370069-0-23163
-msgctxt "87370069-0-23163"
-msgid "Transmute Station"
-msgstr "변성 작업대"
-
-#: 87370069-0-23161
-msgctxt "87370069-0-23161"
-msgid "Gascone's Memorandum"
-msgstr "게스콘의 각서"
-
-#: 19398485-0-2316
-msgctxt "19398485-0-2316"
-msgid "Display Switch Right"
-msgstr ""
-
-#: 87370069-0-23153
-msgctxt "87370069-0-23153"
-msgid "KIDNAPPING!"
-msgstr "납치!"
-
-#: 87370069-0-23151
-msgctxt "87370069-0-23151"
-msgid "Wise-woman's Journal Page"
-msgstr "현명한 여인의 일지 페이지"
-
-#: 19398485-0-2315
-msgctxt "19398485-0-2315"
-msgid "Display Switch Center"
-msgstr ""
-
-#: 87370069-0-23143
-msgctxt "87370069-0-23143"
-msgid "Flow Valve"
-msgstr ""
-
-#: 19398485-0-2314
-msgctxt "19398485-0-2314"
-msgid "Display Switch Left"
-msgstr ""
-
-#: 87370069-0-23137
-msgctxt "87370069-0-23137"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 87370069-0-23136
-msgctxt "87370069-0-23136"
-msgid "Electrified Water"
-msgstr ""
-
-#: 87370069-0-23132
-msgctxt "87370069-0-23132"
-msgid "Tank"
-msgstr ""
-
-#: 87370069-0-23131
-msgctxt "87370069-0-23131"
-msgid "Castigation Ritual"
-msgstr ""
-
-#: 87370069-0-23127
-msgctxt "87370069-0-23127"
-msgid "Excerpts From Fabricated Flora: A Study"
-msgstr ""
-
-#: 87370069-0-23121
-msgctxt "87370069-0-23121"
-msgid "Fresh Parchment"
-msgstr ""
-
-#: 87370069-0-23116
-msgctxt "87370069-0-23116"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-23114
-msgctxt "87370069-0-23114"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-23113
-msgctxt "87370069-0-23113"
-msgid "Dust"
-msgstr ""
-
-#: 87370069-0-23112
-msgctxt "87370069-0-23112"
-msgid "Dust"
-msgstr ""
-
-#: 87370069-0-23111
-msgctxt "87370069-0-23111"
-msgid "Dust"
-msgstr ""
-
-#: 87370069-0-23110
-msgctxt "87370069-0-23110"
-msgid "Dust"
-msgstr ""
-
-#: 87370069-0-23109
-msgctxt "87370069-0-23109"
-msgid "Tank"
-msgstr ""
-
-#: 87370069-0-23107
-msgctxt "87370069-0-23107"
-msgid "Spot Light"
-msgstr ""
-
-#: 87370069-0-23105
-msgctxt "87370069-0-23105"
-msgid "Spot Light"
-msgstr ""
-
-#: 87370069-0-23102
-msgctxt "87370069-0-23102"
-msgid "Dirt Mound"
-msgstr "흙더미"
-
-#: 19398485-0-2309
-msgctxt "19398485-0-2309"
-msgid "Wellspring Fungal Strain A"
-msgstr ""
-
-#: 87370069-0-23077
-msgctxt "87370069-0-23077"
-msgid "Unfinished IR Light"
-msgstr ""
-
-#: 87370069-0-23076
-msgctxt "87370069-0-23076"
-msgid "Unfinished IR Light"
-msgstr ""
-
-#: 87370069-0-23075
-msgctxt "87370069-0-23075"
-msgid "Unfinished IR Light"
-msgstr ""
-
-#: 87370069-0-23074
-msgctxt "87370069-0-23074"
-msgid "Unfinished IR Light"
-msgstr ""
-
-#: 87370069-0-23073
-msgctxt "87370069-0-23073"
-msgid "Telescope"
-msgstr "망원경"
-
-#: 87370069-0-23070
-msgctxt "87370069-0-23070"
-msgid "Trap"
-msgstr "함정"
-
-#: 19398485-0-2307
-msgctxt "19398485-0-2307"
-msgid "Junk Pile"
-msgstr ""
-
-#: 87370069-0-23066
-msgctxt "87370069-0-23066"
-msgid "The Skeleton Key"
-msgstr "해골 열쇠"
-
-#: 19398485-0-2306
-msgctxt "19398485-0-2306"
-msgid "Junk Pile"
-msgstr ""
-
-#: 87370069-0-23059
-msgctxt "87370069-0-23059"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23058
-msgctxt "87370069-0-23058"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23057
-msgctxt "87370069-0-23057"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23056
-msgctxt "87370069-0-23056"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23055
-msgctxt "87370069-0-23055"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23054
-msgctxt "87370069-0-23054"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23053
-msgctxt "87370069-0-23053"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23052
-msgctxt "87370069-0-23052"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23051
-msgctxt "87370069-0-23051"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23050
-msgctxt "87370069-0-23050"
-msgid "The Precursor"
-msgstr ""
-
-#: 19398485-0-2305
-msgctxt "19398485-0-2305"
-msgid "Junk Pile"
-msgstr ""
-
-#: 87370069-0-23049
-msgctxt "87370069-0-23049"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23048
-msgctxt "87370069-0-23048"
-msgid "The Precursor"
-msgstr ""
-
-#: 87370069-0-23047
-msgctxt "87370069-0-23047"
-msgid "Trap"
-msgstr "함정"
-
-#: 87370069-0-23046
-msgctxt "87370069-0-23046"
-msgid "Trap"
-msgstr "함정"
-
-#: 87370069-0-23045
-msgctxt "87370069-0-23045"
-msgid "Trap"
-msgstr "함정"
-
-#: 87370069-0-23044
-msgctxt "87370069-0-23044"
-msgid "Spotlight"
-msgstr ""
-
-#: 87370069-0-23043
-msgctxt "87370069-0-23043"
-msgid "Spotlight"
-msgstr ""
-
-#: 87370069-0-23042
-msgctxt "87370069-0-23042"
-msgid "Trap"
-msgstr "함정"
-
-#: 87370069-0-23041
-msgctxt "87370069-0-23041"
-msgid "Spotlight"
-msgstr ""
-
-#: 87370069-0-23037
-msgctxt "87370069-0-23037"
-msgid "Mound of Sand"
-msgstr ""
-
-#: 87370069-0-23034
-msgctxt "87370069-0-23034"
+#: 87370069-0-23448
+msgctxt "87370069-0-23448"
 msgid "Maliah's Journal"
-msgstr ""
-
-#: 87370069-0-23033
-msgctxt "87370069-0-23033"
-msgid "CCHW-01"
-msgstr ""
-
-#: 87370069-0-23032
-msgctxt "87370069-0-23032"
-msgid "CCHW-02"
-msgstr ""
-
-#: 87370069-0-23031
-msgctxt "87370069-0-23031"
-msgid "CCHW-03"
-msgstr ""
-
-#: 87370069-0-23030
-msgctxt "87370069-0-23030"
-msgid "CCHW-04"
-msgstr ""
-
-#: 87370069-0-23029
-msgctxt "87370069-0-23029"
-msgid "Heirloom Sword"
-msgstr ""
-
-#: 87370069-0-23028
-msgctxt "87370069-0-23028"
-msgid "Dulza's Log"
-msgstr ""
-
-#: 87370069-0-23026
-msgctxt "87370069-0-23026"
-msgid "Journal of a Stranded Mage"
-msgstr ""
-
-#: 87370069-0-23025
-msgctxt "87370069-0-23025"
-msgid "Fog"
-msgstr "안개"
-
-#: 87370069-0-23023
-msgctxt "87370069-0-23023"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-23021
-msgctxt "87370069-0-23021"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-23020
-msgctxt "87370069-0-23020"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-23016
-msgctxt "87370069-0-23016"
-msgid "Exarchs of Dross"
-msgstr ""
-
-#: 87370069-0-23015
-msgctxt "87370069-0-23015"
-msgid "Exarchs of Dross"
-msgstr ""
-
-#: 87370069-0-23013
-msgctxt "87370069-0-23013"
-msgid "Exarchs of Dross"
-msgstr ""
-
-#: 87370069-0-23007
-msgctxt "87370069-0-23007"
-msgid "Door"
-msgstr "문"
-
-#: 87370069-0-22993
-msgctxt "87370069-0-22993"
-msgid "Thoughts of the Honored Assistant"
-msgstr ""
-
-#: 87370069-0-22990
-msgctxt "87370069-0-22990"
-msgid "Q6074 - Kamid's Camp Bedrolls"
-msgstr ""
-
-#: 87370069-0-22989
-msgctxt "87370069-0-22989"
-msgid "Kamid's Campfire"
-msgstr "카미드의 캠프파이어"
-
-#: 87370069-0-22987
-msgctxt "87370069-0-22987"
-msgid "Switch"
-msgstr "전환"
-
-#: 87370069-0-22984
-msgctxt "87370069-0-22984"
-msgid "Animo Core Receptacle"
-msgstr ""
-
-#: 87370069-0-22982
-msgctxt "87370069-0-22982"
-msgid "Naril's Notes: Success Out of Tragedy"
-msgstr "나릴의 노트 : 비극적인 성공"
-
-#: 87370069-0-22981
-msgctxt "87370069-0-22981"
-msgid "Naril's Notes: Simulated Sunlight"
-msgstr "나릴의 노트 : 인공 태양광"
-
-#: 87370069-0-22980
-msgctxt "87370069-0-22980"
-msgid "Naril's Notes: Early Experiments"
-msgstr "나릴의 노트 : 첫번째 실험"
-
-#: 19398485-0-2298
-msgctxt "19398485-0-2298"
-msgid "Specious Syrup Cache"
-msgstr ""
-
-#: 87370069-0-22979
-msgctxt "87370069-0-22979"
-msgid "Speaking Tube"
-msgstr "대화 튜브"
-
-#: 87370069-0-22978
-msgctxt "87370069-0-22978"
-msgid "Portal to Clockwork City"
-msgstr "클락워크 시티로 향하는 포탈"
-
-#: 87370069-0-22977
-msgctxt "87370069-0-22977"
-msgid "Travel to Deshaan"
-msgstr ""
-
-#: 87370069-0-22973
-msgctxt "87370069-0-22973"
-msgid "Light Switch"
-msgstr ""
-
-#: 87370069-0-22972
-msgctxt "87370069-0-22972"
-msgid "Spot Light"
-msgstr ""
-
-#: 87370069-0-22971
-msgctxt "87370069-0-22971"
-msgid "Spot Light"
-msgstr ""
-
-#: 87370069-0-22970
-msgctxt "87370069-0-22970"
-msgid "Spot Light"
-msgstr ""
-
-#: 19398485-0-2297
-msgctxt "19398485-0-2297"
-msgid "Specious Syrup Cache"
-msgstr ""
-
-#: 87370069-0-22969
-msgctxt "87370069-0-22969"
-msgid "Spot Light"
-msgstr ""
-
-#: 87370069-0-22968
-msgctxt "87370069-0-22968"
-msgid "Orchard Gate"
-msgstr ""
-
-#: 87370069-0-22967
-msgctxt "87370069-0-22967"
-msgid "Galvanic Engine"
-msgstr "갈바니 엔진"
-
-#: 87370069-0-22966
-msgctxt "87370069-0-22966"
-msgid "Filtration System"
-msgstr ""
-
-#: 87370069-0-22961
-msgctxt "87370069-0-22961"
-msgid "Ventilation Fan"
-msgstr ""
-
-#: 19398485-0-2296
-msgctxt "19398485-0-2296"
-msgid "Specious Syrup Cache"
-msgstr ""
-
-#: 87370069-0-22956
-msgctxt "87370069-0-22956"
-msgid "Backpack"
-msgstr "배낭"
-
-#: 87370069-0-22955
-msgctxt "87370069-0-22955"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22954
-msgctxt "87370069-0-22954"
-msgid "Oblivion Fissure"
-msgstr "오블리비언의 균열"
-
-#: 87370069-0-22953
-msgctxt "87370069-0-22953"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22952
-msgctxt "87370069-0-22952"
-msgid "Flow Valve"
-msgstr ""
-
-#: 19398485-0-2295
-msgctxt "19398485-0-2295"
-msgid "Runelight Cache"
-msgstr ""
-
-#: 87370069-0-22949
-msgctxt "87370069-0-22949"
-msgid "Construct's Nullification Staff"
-msgstr "구조물 무효화 지팡이"
-
-#: 87370069-0-22948
-msgctxt "87370069-0-22948"
-msgid "Construct's Integral of Reason"
-msgstr ""
-
-#: 87370069-0-22947
-msgctxt "87370069-0-22947"
-msgid "Construct's Integral of Introspection"
-msgstr ""
-
-#: 87370069-0-22946
-msgctxt "87370069-0-22946"
-msgid "Construct's Integral of Calculus"
-msgstr ""
-
-#: 87370069-0-22945
-msgctxt "87370069-0-22945"
-msgid "Construct's Dynamo Core"
-msgstr ""
-
-#: 87370069-0-22944
-msgctxt "87370069-0-22944"
-msgid "Construct's Right Hand"
-msgstr ""
-
-#: 87370069-0-22943
-msgctxt "87370069-0-22943"
-msgid "Construct's Left Hand"
-msgstr "구성체의 왼쪽 손"
-
-#: 87370069-0-22942
-msgctxt "87370069-0-22942"
-msgid "Construct's Spine"
-msgstr ""
-
-#: 87370069-0-22941
-msgctxt "87370069-0-22941"
-msgid "Construct's Chestplate"
-msgstr "구성체의 가슴판"
-
-#: 87370069-0-22940
-msgctxt "87370069-0-22940"
-msgid "Construct's Pelvis"
-msgstr ""
-
-#: 19398485-0-2294
-msgctxt "19398485-0-2294"
-msgid "Runelight Cache"
-msgstr ""
-
-#: 87370069-0-22939
-msgctxt "87370069-0-22939"
-msgid "Construct's Right Leg"
-msgstr ""
-
-#: 87370069-0-22938
-msgctxt "87370069-0-22938"
-msgid "Construct's Left Leg"
-msgstr ""
-
-#: 87370069-0-22937
-msgctxt "87370069-0-22937"
-msgid "Construct's Right Arm"
-msgstr ""
-
-#: 87370069-0-22936
-msgctxt "87370069-0-22936"
-msgid "Construct's Left Arm"
-msgstr ""
-
-#: 87370069-0-22935
-msgctxt "87370069-0-22935"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22934
-msgctxt "87370069-0-22934"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22933
-msgctxt "87370069-0-22933"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22932
-msgctxt "87370069-0-22932"
-msgid "Kamid's Pack"
-msgstr "카미드의 배낭"
-
-#: 87370069-0-22931
-msgctxt "87370069-0-22931"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22930
-msgctxt "87370069-0-22930"
-msgid "Novice Oscard's Notes"
-msgstr ""
-
-#: 19398485-0-2293
-msgctxt "19398485-0-2293"
-msgid "Runelight Cache"
-msgstr ""
-
-#: 87370069-0-22929
-msgctxt "87370069-0-22929"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22926
-msgctxt "87370069-0-22926"
-msgid "Installation Framework"
-msgstr ""
-
-#: 87370069-0-22925
-#, fuzzy
-msgctxt "87370069-0-22925"
-msgid "Factotum Head"
-msgstr "팩토튬의 머리"
-
-#: 87370069-0-22924
-#, fuzzy
-msgctxt "87370069-0-22924"
-msgid "Factotum Head"
-msgstr "팩토튬의 머리"
-
-#: 87370069-0-22923
-msgctxt "87370069-0-22923"
-msgid "Integral of Memory"
-msgstr "완전한 기억"
-
-#: 87370069-0-22922
-msgctxt "87370069-0-22922"
-msgid "Skeevaton Scrap Pile"
-msgstr ""
-
-#: 87370069-0-22920
-msgctxt "87370069-0-22920"
-msgid "Steam Piston"
-msgstr "증기 피스톤"
-
-#: 19398485-0-2292
-msgctxt "19398485-0-2292"
-msgid "Counterfeit Coal Stockpile"
-msgstr ""
-
-#: 87370069-0-22919
-msgctxt "87370069-0-22919"
-msgid "Door"
-msgstr "문"
-
-#: 87370069-0-22912
-msgctxt "87370069-0-22912"
-msgid "Skeleton Key"
-msgstr "해골 열쇠"
-
-#: 87370069-0-22911
-msgctxt "87370069-0-22911"
-msgid "Love Poem LT0782"
-msgstr "사랑의 시 LT0782"
-
-#: 87370069-0-22910
-msgctxt "87370069-0-22910"
-msgid "Ode to a Brass Lily"
-msgstr "황동 백합에게 보내는 송가"
-
-#: 19398485-0-2291
-msgctxt "19398485-0-2291"
-msgid "Counterfeit Coal Stockpile"
-msgstr ""
-
-#: 87370069-0-22909
-msgctxt "87370069-0-22909"
-msgid "Constable's Lockbox"
-msgstr ""
-
-#: 87370069-0-22908
-msgctxt "87370069-0-22908"
-msgid "Notes on Crow Sightings"
-msgstr ""
-
-#: 87370069-0-22906
-msgctxt "87370069-0-22906"
-msgid "The Ballad of Brisbor Battle-Axe [Verse Six]"
-msgstr ""
-
-#: 87370069-0-22905
-msgctxt "87370069-0-22905"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22904
-msgctxt "87370069-0-22904"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22903
-msgctxt "87370069-0-22903"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22902
-msgctxt "87370069-0-22902"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22901
-msgctxt "87370069-0-22901"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22900
-msgctxt "87370069-0-22900"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 19398485-0-2290
-msgctxt "19398485-0-2290"
-msgid "Counterfeit Coal Stockpile"
-msgstr ""
-
-#: 87370069-0-22899
-msgctxt "87370069-0-22899"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22898
-msgctxt "87370069-0-22898"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22897
-msgctxt "87370069-0-22897"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22896
-msgctxt "87370069-0-22896"
-msgid "Calibration Guide"
-msgstr ""
-
-#: 87370069-0-22893
-msgctxt "87370069-0-22893"
-msgid "Lamp Activation Panel"
-msgstr ""
-
-#: 87370069-0-22892
-msgctxt "87370069-0-22892"
-msgid "Reassembled Lamp"
-msgstr ""
-
-#: 87370069-0-22891
-msgctxt "87370069-0-22891"
-msgid "Empty Mounting Socket"
-msgstr ""
-
-#: 87370069-0-22890
-msgctxt "87370069-0-22890"
-msgid "Unfinished IR Light"
-msgstr ""
-
-#: 19398485-0-2289
-msgctxt "19398485-0-2289"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-22889
-msgctxt "87370069-0-22889"
-msgid "Strange Lever"
-msgstr "이상한 레버"
-
-#: 87370069-0-22888
-msgctxt "87370069-0-22888"
-msgid "Strange Lever"
-msgstr "이상한 레버"
-
-#: 87370069-0-22887
-msgctxt "87370069-0-22887"
-msgid "Strange Lever"
-msgstr "이상한 레버"
-
-#: 87370069-0-22886
-msgctxt "87370069-0-22886"
-msgid "Strange Lever"
-msgstr "이상한 레버"
-
-#: 87370069-0-22885
-msgctxt "87370069-0-22885"
-msgid "Broken Lamp Piece"
-msgstr "고장난 램프의 파편"
-
-#: 87370069-0-22884
-msgctxt "87370069-0-22884"
-msgid "Broken Lamp Piece"
-msgstr "고장난 램프의 파편"
-
-#: 87370069-0-22883
-msgctxt "87370069-0-22883"
-msgid "Broken Lamp Piece"
-msgstr "고장난 램프의 파편"
-
-#: 87370069-0-22882
-msgctxt "87370069-0-22882"
-msgid "Broken Lamp"
-msgstr "고장난 램프"
-
-#: 87370069-0-22880
-msgctxt "87370069-0-22880"
-msgid "The Motionless Guardian"
-msgstr "움직이지 않는 수호자"
-
-#: 19398485-0-2288
-msgctxt "19398485-0-2288"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-22879
-msgctxt "87370069-0-22879"
-msgid "Bridge"
-msgstr "bridge"
-
-#: 87370069-0-22878
-msgctxt "87370069-0-22878"
-msgid "Bridge"
-msgstr "bridge"
-
-#: 87370069-0-22877
-msgctxt "87370069-0-22877"
-msgid "Bridge"
-msgstr "bridge"
-
-#: 87370069-0-22875
-msgctxt "87370069-0-22875"
-msgid "Gate"
-msgstr "문"
-
-#: 87370069-0-22874
-msgctxt "87370069-0-22874"
-msgid "Gate"
-msgstr "문"
-
-#: 87370069-0-22873
-msgctxt "87370069-0-22873"
-msgid "Cleansing Crystal"
-msgstr "정화된 크리스탈"
-
-#: 87370069-0-22872
-msgctxt "87370069-0-22872"
-msgid "Repair"
-msgstr ""
-
-#: 87370069-0-22871
-msgctxt "87370069-0-22871"
-msgid "Fog"
-msgstr "안개"
-
-#: 87370069-0-22870
-msgctxt "87370069-0-22870"
-msgid "Galvanic Engine"
-msgstr "갈바니 엔진"
-
-#: 19398485-0-2287
-msgctxt "19398485-0-2287"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-22869
-msgctxt "87370069-0-22869"
-msgid "Dynamo Reserve Storage"
-msgstr "예비 발전기 보관고"
-
-#: 87370069-0-22868
-msgctxt "87370069-0-22868"
-msgid "Ventilation Gear"
-msgstr ""
-
-#: 87370069-0-22867
-msgctxt "87370069-0-22867"
-msgid "Repair"
-msgstr ""
-
-#: 87370069-0-22866
-msgctxt "87370069-0-22866"
-msgid "Fog"
-msgstr "안개"
-
-#: 87370069-0-22865
-msgctxt "87370069-0-22865"
-msgid "Gate"
-msgstr "문"
-
-#: 87370069-0-22864
-msgctxt "87370069-0-22864"
-msgid "Maintenance Manifests"
-msgstr ""
-
-#: 87370069-0-22863
-msgctxt "87370069-0-22863"
-msgid "Archived Security Surveys"
-msgstr ""
-
-#: 87370069-0-22862
-msgctxt "87370069-0-22862"
-msgid "Residential Logistics Logs"
-msgstr ""
-
-#: 87370069-0-22861
-msgctxt "87370069-0-22861"
-msgid "Factotum Data Repository"
-msgstr ""
-
-#: 19398485-0-2286
-msgctxt "19398485-0-2286"
-msgid "Metal Pellet Stockpile"
-msgstr ""
-
-#: 87370069-0-22858
-msgctxt "87370069-0-22858"
-msgid "Switch"
-msgstr "전환"
-
-#: 87370069-0-22857
-msgctxt "87370069-0-22857"
-msgid "Switch"
-msgstr "전환"
-
-#: 87370069-0-22856
-msgctxt "87370069-0-22856"
-msgid "Switch"
-msgstr "전환"
-
-#: 87370069-0-22855
-msgctxt "87370069-0-22855"
-msgid "Switch"
-msgstr "전환"
-
-#: 87370069-0-22853
-msgctxt "87370069-0-22853"
-msgid "Wall"
-msgstr "수직/벽"
-
-#: 87370069-0-22852
-msgctxt "87370069-0-22852"
-msgid "Switch"
-msgstr "전환"
-
-#: 87370069-0-22851
-msgctxt "87370069-0-22851"
-msgid "Charging Socket"
-msgstr ""
-
-#: 19398485-0-2285
-msgctxt "19398485-0-2285"
-msgid "Metal Pellet Stockpile"
-msgstr ""
-
-#: 87370069-0-22843
-msgctxt "87370069-0-22843"
-msgid "Charged Animo Core"
-msgstr ""
-
-#: 87370069-0-22842
-msgctxt "87370069-0-22842"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22841
-msgctxt "87370069-0-22841"
-msgid "Flow Valve"
-msgstr ""
-
-#: 19398485-0-2284
-msgctxt "19398485-0-2284"
-msgid "Metal Pellet Stockpile"
-msgstr ""
-
-#: 87370069-0-22839
-msgctxt "87370069-0-22839"
-msgid "Flow Valve"
-msgstr ""
-
-#: 87370069-0-22838
-msgctxt "87370069-0-22838"
-msgid "Reset Valve"
-msgstr ""
-
-#: 87370069-0-22837
-msgctxt "87370069-0-22837"
-msgid "Imperfect Operations Manual"
-msgstr ""
-
-#: 87370069-0-22836
-msgctxt "87370069-0-22836"
-msgid "Charging Socket"
-msgstr ""
-
-#: 87370069-0-22835
-msgctxt "87370069-0-22835"
-msgid "Charged Animo Core"
-msgstr ""
-
-#: 87370069-0-22834
-msgctxt "87370069-0-22834"
-msgid "Spotlight"
-msgstr ""
-
-#: 87370069-0-22832
-msgctxt "87370069-0-22832"
-msgid "Left Core Pump"
-msgstr "왼쪽 코어 펌프"
-
-#: 87370069-0-22830
-msgctxt "87370069-0-22830"
-msgid "Right Core Pump"
-msgstr "오른쪽 코어 펌프"
+msgstr "마리아의 일지"
 
-#: 19398485-0-2283
-msgctxt "19398485-0-2283"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-22829
-msgctxt "87370069-0-22829"
-msgid "Naril's Notes: Origins"
-msgstr "나릴의 노트 : 기원"
-
-#: 87370069-0-22828
-msgctxt "87370069-0-22828"
-msgid "Bloody Bandage"
-msgstr ""
-
-#: 87370069-0-22827
-msgctxt "87370069-0-22827"
-msgid "Uneaten Rations"
-msgstr ""
-
-#: 87370069-0-22825
-msgctxt "87370069-0-22825"
-msgid "Acolyte's Scorched Scroll Plate"
-msgstr ""
-
-#: 87370069-0-22824
-msgctxt "87370069-0-22824"
-msgid "Acolyte's Lost Scroll Plate"
-msgstr ""
-
-#: 87370069-0-22823
-msgctxt "87370069-0-22823"
-msgid "Acolyte's Chipped Scroll Plate"
-msgstr ""
-
-#: 19398485-0-2282
-msgctxt "19398485-0-2282"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-22817
-msgctxt "87370069-0-22817"
-msgid "Orders of Assassination"
-msgstr ""
-
-#: 87370069-0-22816
-msgctxt "87370069-0-22816"
-msgid "Shadow Array"
-msgstr ""
-
-#: 87370069-0-22815
-msgctxt "87370069-0-22815"
-msgid "Gascone's Contract"
-msgstr ""
-
-#: 19398485-0-2281
-msgctxt "19398485-0-2281"
-msgid "Rubble Pile"
-msgstr ""
-
-#: 87370069-0-22793
-msgctxt "87370069-0-22793"
-msgid "Trap Release Switch"
-msgstr ""
-
-#: 87370069-0-22792
-msgctxt "87370069-0-22792"
-msgid "Trap Release Switch"
-msgstr ""
+#: 87370069-0-23205
+msgctxt "87370069-0-23205"
+msgid "Lord Vivec's Questions"
+msgstr "로드 비벡의 질문"
 
-#: 87370069-0-22791
-msgctxt "87370069-0-22791"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
+#: 87370069-0-23449
+msgctxt "87370069-0-23449"
+msgid "The Truth in Sequence: Volume 1"
+msgstr "순차적 진실 : 제 1 권"
 
-#: 87370069-0-22790
-msgctxt "87370069-0-22790"
-msgid "Gloaming Gate"
-msgstr "글루밍 게이트"
-
-#: 87370069-0-22788
-msgctxt "87370069-0-22788"
-msgid "Gloaming Gate"
-msgstr "글루밍 게이트"
-
-#: 87370069-0-22786
-msgctxt "87370069-0-22786"
-msgid "Clockwork City Globe"
+#: 162946485-0-12572
+msgctxt "162946485-0-12572"
+msgid "CWC_planisphere_1st_sphere_map"
 msgstr ""
 
-#: 87370069-0-22770
-msgctxt "87370069-0-22770"
-msgid "Exchange Lever"
+#: 162946485-0-12330
+msgctxt "162946485-0-12330"
+msgid "Repair Humidifier"
 msgstr ""
 
-#: 87370069-0-22756
-msgctxt "87370069-0-22756"
-msgid "Black Soul Gem"
+#: 162946485-0-12570
+msgctxt "162946485-0-12570"
+msgid "CWC_planisphere_3rd_sphere_map"
 msgstr ""
 
-#: 87370069-0-22755
-msgctxt "87370069-0-22755"
-msgid "Factotum Gear"
-msgstr ""
+#: 162946485-0-12565
+msgctxt "162946485-0-12565"
+msgid "Scarecrow"
+msgstr "허수아비 "
 
-#: 87370069-0-22754
-msgctxt "87370069-0-22754"
-msgid "Terari's Notes"
+#: 162946485-0-12563
+msgctxt "162946485-0-12563"
+msgid "FinalSpawn"
 msgstr ""
-
-#: 87370069-0-22654
-msgctxt "87370069-0-22654"
-msgid "Skyshard"
-msgstr "스카이샤드"
 
-#: 87370069-0-22653
-msgctxt "87370069-0-22653"
-msgid "Skyshard"
-msgstr "스카이샤드"
+#: 162946485-0-12569
+msgctxt "162946485-0-12569"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
 
-#: 87370069-0-22652
-msgctxt "87370069-0-22652"
-msgid "Skyshard"
-msgstr "스카이샤드"
+#: 87370069-0-23451
+msgctxt "87370069-0-23451"
+msgid "The Truth in Sequence: Volume 3"
+msgstr "순차적 진실 : 제 3 권"
 
-#: 87370069-0-22651
-msgctxt "87370069-0-22651"
-msgid "Skyshard"
-msgstr "스카이샤드"
+#: 87370069-0-23450
+msgctxt "87370069-0-23450"
+msgid "The Truth in Sequence: Volume 2"
+msgstr "순차적 진실 : 제 2 권"
 
-#: 87370069-0-22650
-msgctxt "87370069-0-22650"
-msgid "Skyshard"
-msgstr "스카이샤드"
-
-#: 87370069-0-22649
-msgctxt "87370069-0-22649"
-msgid "Skyshard"
-msgstr "스카이샤드"
-
-#: 87370069-0-22602
-msgctxt "87370069-0-22602"
-msgid "Strip of Apostle Robe"
+#: 28666901-0-1730
+msgctxt "28666901-0-1730"
+msgid "CCQ1 FollowerGraveyard"
 msgstr ""
-
-#: 87370069-0-22600
-msgctxt "87370069-0-22600"
-msgid "Gascone's Memorandum"
-msgstr "게스콘의 각서"
-
-#: 28666901-0-1754
-msgctxt "28666901-0-1754"
-msgid "Pariah's Pinnacle"
-msgstr "파리아의 산정"
-
-#: 28666901-0-1745
-msgctxt "28666901-0-1745"
-msgid "The Orbservatory Prior"
-msgstr "선행 오브관측소 "
 
 #: 28666901-0-1732
 msgctxt "28666901-0-1732"
@@ -3614,20 +1123,45 @@ msgctxt "28666901-0-1731"
 msgid "Q6057 RescueKirethGraveyard"
 msgstr ""
 
-#: 28666901-0-1730
-msgctxt "28666901-0-1730"
-msgid "CCQ1 FollowerGraveyard"
-msgstr ""
+#: 162946485-0-12510
+msgctxt "162946485-0-12510"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
 
-#: 28666901-0-1729
-msgctxt "28666901-0-1729"
-msgid "CCQ1 FollowerGraveyard"
-msgstr ""
+#: 162946485-0-12755
+msgctxt "162946485-0-12755"
+msgid "Brass Fortress"
+msgstr "황동 요새 "
 
-#: 28666901-0-1728
-msgctxt "28666901-0-1728"
-msgid "CCQ1 BossGraveyard"
-msgstr ""
+#: 162946485-0-12513
+msgctxt "162946485-0-12513"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 162946485-0-12514
+msgctxt "162946485-0-12514"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 162946485-0-12511
+msgctxt "162946485-0-12511"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
+#: 162946485-0-12512
+msgctxt "162946485-0-12512"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 162946485-0-12517
+msgctxt "162946485-0-12517"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 162946485-0-12516
+msgctxt "162946485-0-12516"
+msgid "Seht's Vault"
+msgstr "셋의 지하실"
 
 #: 28666901-0-1727
 msgctxt "28666901-0-1727"
@@ -3649,25 +1183,585 @@ msgctxt "28666901-0-1724"
 msgid "Clockwork Nexus Graveyard"
 msgstr "클락워크 넥서스의 묘지"
 
+#: 28666901-0-1729
+msgctxt "28666901-0-1729"
+msgid "CCQ1 FollowerGraveyard"
+msgstr ""
+
+#: 28666901-0-1728
+msgctxt "28666901-0-1728"
+msgid "CCQ1 BossGraveyard"
+msgstr ""
+
 #: 28666901-0-1723
 msgctxt "28666901-0-1723"
 msgid "Clockwork Centralis Approach"
 msgstr ""
 
-#: 28666901-0-1711
-msgctxt "28666901-0-1711"
-msgid "Trial: Asylum Sanctorium"
-msgstr "트라이얼: 성자의 격리장"
-
-#: 28666901-0-1702
-msgctxt "28666901-0-1702"
-msgid "Cliffs of Twilight Graveyard"
+#: 162946485-0-12502
+msgctxt "162946485-0-12502"
+msgid "Q6036 Workshop"
 msgstr ""
 
-#: 28666901-0-1700
-msgctxt "28666901-0-1700"
-msgid "Sanctuary Wayshrine"
-msgstr "성역 성소"
+#: 162946485-0-12500
+msgctxt "162946485-0-12500"
+msgid "Q6063 NeramoFollowerLeaveLine"
+msgstr ""
+
+#: 162946485-0-12507
+msgctxt "162946485-0-12507"
+msgid "Halls of Convention"
+msgstr "관례 전당"
+
+#: 162946485-0-12504
+msgctxt "162946485-0-12504"
+msgid "Q6063 VaruniTheaterController"
+msgstr ""
+
+#: 162946485-0-12508
+msgctxt "162946485-0-12508"
+msgid "Halls of Convention"
+msgstr "관례 전당"
+
+#: 162946485-0-12509
+msgctxt "162946485-0-12509"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 87370069-0-22786
+msgctxt "87370069-0-22786"
+msgid "Clockwork City Globe"
+msgstr ""
+
+#: 87370069-0-22788
+msgctxt "87370069-0-22788"
+msgid "Gloaming Gate"
+msgstr "글루밍 게이트"
+
+#: 162946485-0-12781
+msgctxt "162946485-0-12781"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 28666901-0-1754
+msgctxt "28666901-0-1754"
+msgid "Pariah's Pinnacle"
+msgstr "파리아의 산정"
+
+#: 162946485-0-12533
+msgctxt "162946485-0-12533"
+msgid "Q6074 - CogsofFateReturnCoreTS"
+msgstr ""
+
+#: 162946485-0-12537
+msgctxt "162946485-0-12537"
+msgid "Archivox"
+msgstr ""
+
+#: 162946485-0-12538
+msgctxt "162946485-0-12538"
+msgid "Knight at door"
+msgstr ""
+
+#: 87370069-0-22790
+msgctxt "87370069-0-22790"
+msgid "Gloaming Gate"
+msgstr "글루밍 게이트"
+
+#: 87370069-0-22791
+msgctxt "87370069-0-22791"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 87370069-0-22792
+msgctxt "87370069-0-22792"
+msgid "Trap Release Switch"
+msgstr ""
+
+#: 87370069-0-22793
+msgctxt "87370069-0-22793"
+msgid "Trap Release Switch"
+msgstr ""
+
+#: 87370069-0-23400
+msgctxt "87370069-0-23400"
+msgid "Dulza's Log"
+msgstr ""
+
+#: 28666901-0-1745
+msgctxt "28666901-0-1745"
+msgid "The Orbservatory Prior"
+msgstr "선행 오브관측소 "
+
+#: 162946485-0-12762
+msgctxt "162946485-0-12762"
+msgid "Pariah's Pinnacle"
+msgstr "파리아의 산정"
+
+#: 162946485-0-12521
+msgctxt "162946485-0-12521"
+msgid "Spawn Knight"
+msgstr ""
+
+#: 162946485-0-12524
+msgctxt "162946485-0-12524"
+msgid "Clockwork Basilica"
+msgstr "클락워크 공회당"
+
+#: 162946485-0-12525
+msgctxt "162946485-0-12525"
+msgid "Evergloam"
+msgstr "에버글룸"
+
+#: 87370069-0-23299
+msgctxt "87370069-0-23299"
+msgid "Housing Brochure"
+msgstr "주택 안내 책자"
+
+#: 87370069-0-23057
+msgctxt "87370069-0-23057"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23056
+msgctxt "87370069-0-23056"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23059
+msgctxt "87370069-0-23059"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23058
+msgctxt "87370069-0-23058"
+msgid "The Precursor"
+msgstr ""
+
+#: 19398485-0-2346
+msgctxt "19398485-0-2346"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 19398485-0-2345
+msgctxt "19398485-0-2345"
+msgid "Door"
+msgstr "문"
+
+#: 19398485-0-2349
+msgctxt "19398485-0-2349"
+msgid "Seht's Vault"
+msgstr "셋의 지하실"
+
+#: 19398485-0-2347
+msgctxt "19398485-0-2347"
+msgid "Door"
+msgstr "문"
+
+#: 87370069-0-23066
+msgctxt "87370069-0-23066"
+msgid "The Skeleton Key"
+msgstr "해골 열쇠"
+
+#: 162946485-0-12391
+msgctxt "162946485-0-12391"
+msgid "Q6079 Child-Lost"
+msgstr ""
+
+#: 162946485-0-12392
+msgctxt "162946485-0-12392"
+msgid "Enter Gates"
+msgstr ""
+
+#: 19398485-0-2333
+msgctxt "19398485-0-2333"
+msgid "Crate of Port Hunding Reserve"
+msgstr ""
+
+#: 19398485-0-2332
+msgctxt "19398485-0-2332"
+msgid "Ironstalk Mushroom"
+msgstr "아이언스토크 버섯"
+
+#: 162946485-0-12390
+msgctxt "162946485-0-12390"
+msgid "Spawn Raynor Child"
+msgstr ""
+
+#: 162946485-0-12393
+msgctxt "162946485-0-12393"
+msgid "Q6050 DivaythSpawnGates"
+msgstr ""
+
+#: 162946485-0-12151
+msgctxt "162946485-0-12151"
+msgid "The Orbservatory Prior"
+msgstr "선행 오브관측소 "
+
+#: 162946485-0-12146
+msgctxt "162946485-0-12146"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 162946485-0-12147
+msgctxt "162946485-0-12147"
+msgid "The Shadow Cleft"
+msgstr "그림자의 틈새"
+
+#: 162946485-0-12144
+msgctxt "162946485-0-12144"
+msgid "Sanctuary of Verification"
+msgstr "검증의 성역"
+
+#: 87370069-0-13475
+msgctxt "87370069-0-13475"
+msgid "Hidden Treasure"
+msgstr "숨겨진 보물"
+
+#: 162946485-0-12145
+msgctxt "162946485-0-12145"
+msgid "Exarchs' Egress"
+msgstr ""
+
+#: 19398485-0-2331
+msgctxt "19398485-0-2331"
+msgid "Ironstalk Mushroom"
+msgstr "아이언스토크 버섯"
+
+#: 19398485-0-2330
+msgctxt "19398485-0-2330"
+msgid "Ironstalk Mushroom"
+msgstr "아이언스토크 버섯"
+
+#: 162946485-0-12148
+msgctxt "162946485-0-12148"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
+#: 162946485-0-12149
+msgctxt "162946485-0-12149"
+msgid "Everwound Wellspring"
+msgstr "에버웬 원천지"
+
+#: 87370069-0-23070
+msgctxt "87370069-0-23070"
+msgid "Trap"
+msgstr "함정"
+
+#: 87370069-0-23072
+msgctxt "87370069-0-23072"
+msgid "Trap"
+msgstr "함정"
+
+#: 87370069-0-23075
+msgctxt "87370069-0-23075"
+msgid "Unfinished IR Light"
+msgstr ""
+
+#: 87370069-0-23074
+msgctxt "87370069-0-23074"
+msgid "Unfinished IR Light"
+msgstr ""
+
+#: 87370069-0-23077
+msgctxt "87370069-0-23077"
+msgid "Unfinished IR Light"
+msgstr ""
+
+#: 87370069-0-23076
+msgctxt "87370069-0-23076"
+msgid "Unfinished IR Light"
+msgstr ""
+
+#: 87370069-0-23034
+msgctxt "87370069-0-23034"
+msgid "Maliah's Journal"
+msgstr "마리아의 일지"
+
+#: 87370069-0-23037
+msgctxt "87370069-0-23037"
+msgid "Mound of Sand"
+msgstr ""
+
+#: 19398485-0-2368
+msgctxt "19398485-0-2368"
+msgid "Chirrhari's Notes"
+msgstr "칠하리의 노트 "
+
+#: 19398485-0-2367
+msgctxt "19398485-0-2367"
+msgid "Door"
+msgstr "문"
+
+#: 162946485-0-12185
+msgctxt "162946485-0-12185"
+msgid "Q6036 Workshop"
+msgstr ""
+
+#: 19398485-0-2360
+msgctxt "19398485-0-2360"
+msgid "Water Skin"
+msgstr "물 주머니"
+
+#: 19398485-0-2364
+msgctxt "19398485-0-2364"
+msgid "Heavy Sack"
+msgstr "두툼한 자루"
+
+#: 19398485-0-2363
+msgctxt "19398485-0-2363"
+msgid "Potable Liquids"
+msgstr ""
+
+#: 19398485-0-2362
+msgctxt "19398485-0-2362"
+msgid "Potable Liquids"
+msgstr ""
+
+#: 19398485-0-2361
+msgctxt "19398485-0-2361"
+msgid "Water Skin"
+msgstr "물 주머니"
+
+#: 87370069-0-23282
+msgctxt "87370069-0-23282"
+msgid "Red Exile Instructions"
+msgstr "붉은 망명자에게 보내는 지령"
+
+#: 87370069-0-23284
+msgctxt "87370069-0-23284"
+msgid "Archived Security Surveys"
+msgstr ""
+
+#: 87370069-0-23042
+msgctxt "87370069-0-23042"
+msgid "Trap"
+msgstr "함정"
+
+#: 87370069-0-23283
+msgctxt "87370069-0-23283"
+msgid "Factotum Data Repository"
+msgstr ""
+
+#: 87370069-0-23041
+msgctxt "87370069-0-23041"
+msgid "Spotlight"
+msgstr ""
+
+#: 87370069-0-23044
+msgctxt "87370069-0-23044"
+msgid "Spotlight"
+msgstr ""
+
+#: 87370069-0-23285
+msgctxt "87370069-0-23285"
+msgid "Residential Logistics Logs"
+msgstr ""
+
+#: 87370069-0-23043
+msgctxt "87370069-0-23043"
+msgid "Spotlight"
+msgstr ""
+
+#: 87370069-0-23046
+msgctxt "87370069-0-23046"
+msgid "Trap"
+msgstr "함정"
+
+#: 87370069-0-23045
+msgctxt "87370069-0-23045"
+msgid "Trap"
+msgstr "함정"
+
+#: 87370069-0-23048
+msgctxt "87370069-0-23048"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23047
+msgctxt "87370069-0-23047"
+msgid "Trap"
+msgstr "함정"
+
+#: 87370069-0-23049
+msgctxt "87370069-0-23049"
+msgid "The Precursor"
+msgstr ""
+
+#: 19398485-0-2357
+msgctxt "19398485-0-2357"
+msgid "Scrap Wood"
+msgstr ""
+
+#: 19398485-0-2356
+msgctxt "19398485-0-2356"
+msgid "Scrap Wood"
+msgstr ""
+
+#: 19398485-0-2355
+msgctxt "19398485-0-2355"
+msgid "Torn Cloth"
+msgstr "찢겨진 천"
+
+#: 19398485-0-2354
+msgctxt "19398485-0-2354"
+msgid "Torn Cloth"
+msgstr "찢겨진 천"
+
+#: 19398485-0-2359
+msgctxt "19398485-0-2359"
+msgid "Rubedite Ore"
+msgstr "루비다이트 광석"
+
+#: 19398485-0-2358
+msgctxt "19398485-0-2358"
+msgid "Rubedite Ore"
+msgstr "루비다이트 광석"
+
+#: 19398485-0-2353
+msgctxt "19398485-0-2353"
+msgid "Runestone"
+msgstr "룬스톤"
+
+#: 19398485-0-2352
+msgctxt "19398485-0-2352"
+msgid "Herbalist's Satchel"
+msgstr ""
+
+#: 19398485-0-2351
+msgctxt "19398485-0-2351"
+msgid "Bratheru's Larder"
+msgstr ""
+
+#: 87370069-0-23051
+msgctxt "87370069-0-23051"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23050
+msgctxt "87370069-0-23050"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23053
+msgctxt "87370069-0-23053"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23052
+msgctxt "87370069-0-23052"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23055
+msgctxt "87370069-0-23055"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23054
+msgctxt "87370069-0-23054"
+msgid "The Precursor"
+msgstr ""
+
+#: 87370069-0-23013
+msgctxt "87370069-0-23013"
+msgid "Exarchs of Dross"
+msgstr ""
+
+#: 87370069-0-23254
+msgctxt "87370069-0-23254"
+msgid "Brief Letter to an Aldarch"
+msgstr "알다크에게 보내는 짧은 편지"
+
+#: 19398485-0-2309
+msgctxt "19398485-0-2309"
+msgid "Wellspring Fungal Strain A"
+msgstr ""
+
+#: 87370069-0-23015
+msgctxt "87370069-0-23015"
+msgid "Exarchs of Dross"
+msgstr ""
+
+#: 19398485-0-2307
+msgctxt "19398485-0-2307"
+msgid "Junk Pile"
+msgstr ""
+
+#: 87370069-0-23016
+msgctxt "87370069-0-23016"
+msgid "Exarchs of Dross"
+msgstr ""
+
+#: 19398485-0-2306
+msgctxt "19398485-0-2306"
+msgid "Junk Pile"
+msgstr ""
+
+#: 162946485-0-12362
+msgctxt "162946485-0-12362"
+msgid "Sanctorium of Saint Felms"
+msgstr ""
+
+#: 19398485-0-2305
+msgctxt "19398485-0-2305"
+msgid "Junk Pile"
+msgstr ""
+
+#: 162946485-0-12360
+msgctxt "162946485-0-12360"
+msgid "Sanctorium of Saint Olms"
+msgstr ""
+
+#: 162946485-0-12361
+msgctxt "162946485-0-12361"
+msgid "Sanctorium of Saint Lothis"
+msgstr ""
+
+#: 162946485-0-12599
+msgctxt "162946485-0-12599"
+msgid "cwc_basillicamap_01"
+msgstr ""
+
+#: 162946485-0-12358
+msgctxt "162946485-0-12358"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 87370069-0-23020
+msgctxt "87370069-0-23020"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-23021
+msgctxt "87370069-0-23021"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-23023
+msgctxt "87370069-0-23023"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-23026
+msgctxt "87370069-0-23026"
+msgid "Journal of a Stranded Mage"
+msgstr ""
+
+#: 87370069-0-23025
+msgctxt "87370069-0-23025"
+msgid "Fog"
+msgstr "안개"
+
+#: 87370069-0-23028
+msgctxt "87370069-0-23028"
+msgid "Dulza's Log"
+msgstr ""
+
+#: 87370069-0-23029
+msgctxt "87370069-0-23029"
+msgid "Heirloom Sword"
+msgstr ""
 
 #: 28666901-0-1686
 msgctxt "28666901-0-1686"
@@ -3689,10 +1783,30 @@ msgctxt "28666901-0-1683"
 msgid "Serviflume Graveyard"
 msgstr "서비플룸 폐기장"
 
+#: 19398485-0-2536
+msgctxt "19398485-0-2536"
+msgid "Door"
+msgstr "문"
+
+#: 162946485-0-12591
+msgctxt "162946485-0-12591"
+msgid "CCQ1_small_Killzone_01"
+msgstr ""
+
+#: 162946485-0-12592
+msgctxt "162946485-0-12592"
+msgid "CWC_CCQ4_map4"
+msgstr ""
+
 #: 28666901-0-1682
 msgctxt "28666901-0-1682"
 msgid "Evergloam Graveyard"
 msgstr "에버글룸 폐기장"
+
+#: 162946485-0-12348
+msgctxt "162946485-0-12348"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
 
 #: 28666901-0-1681
 msgctxt "28666901-0-1681"
@@ -3704,20 +1818,1540 @@ msgctxt "28666901-0-1680"
 msgid "Everwound Wellspring Graveyard"
 msgstr "에버웬 원천지 폐기장"
 
-#: 28666901-0-1678
-msgctxt "28666901-0-1678"
-msgid "Shadow Cleft Graveyard"
-msgstr "그림자 틈새 묘지"
+#: 162946485-0-12588
+msgctxt "162946485-0-12588"
+msgid "Q6050 SpawnDivaythChild"
+msgstr ""
 
-#: 28666901-0-1677
-msgctxt "28666901-0-1677"
-msgid "Halls of Regulation Graveyard"
-msgstr "통제실 폐기장"
+#: 162946485-0-12346
+msgctxt "162946485-0-12346"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
 
-#: 28666901-0-1676
-msgctxt "28666901-0-1676"
-msgid "Clockwork City Vault"
-msgstr "클락워크 시티 금고"
+#: 87370069-0-23031
+msgctxt "87370069-0-23031"
+msgid "CCHW-03"
+msgstr ""
+
+#: 87370069-0-23030
+msgctxt "87370069-0-23030"
+msgid "CCHW-04"
+msgstr ""
+
+#: 87370069-0-23033
+msgctxt "87370069-0-23033"
+msgid "CCHW-01"
+msgstr ""
+
+#: 87370069-0-23032
+msgctxt "87370069-0-23032"
+msgid "CCHW-02"
+msgstr ""
+
+#: 87370069-0-23235
+msgctxt "87370069-0-23235"
+msgid "Vos Tax Records"
+msgstr "보스 징세 기록"
+
+#: 19398485-0-2329
+msgctxt "19398485-0-2329"
+msgid "Ironstalk Mushroom Preservation and Sterilization"
+msgstr ""
+
+#: 87370069-0-23234
+msgctxt "87370069-0-23234"
+msgid "Portal to Clockwork City"
+msgstr "클락워크 시티로 향하는 포탈"
+
+#: 87370069-0-23237
+msgctxt "87370069-0-23237"
+msgid "Exit"
+msgstr "출구"
+
+#: 87370069-0-23236
+msgctxt "87370069-0-23236"
+msgid "Molag Mar	Tax Records"
+msgstr "몰라그 말 수세 기록"
+
+#: 19398485-0-2322
+msgctxt "19398485-0-2322"
+msgid "Brass Fortress"
+msgstr "황동 요새 "
+
+#: 19398485-0-2321
+msgctxt "19398485-0-2321"
+msgid "Serviflume"
+msgstr "서비플룸"
+
+#: 87370069-0-13474
+msgctxt "87370069-0-13474"
+msgid "Hidden Treasure"
+msgstr "숨겨진 보물"
+
+#: 162946485-0-12142
+msgctxt "162946485-0-12142"
+msgid "Mire Mechanica Wayshrine"
+msgstr "기계 수렁 성소"
+
+#: 162946485-0-12143
+msgctxt "162946485-0-12143"
+msgid "Sanctuary Wayshrine"
+msgstr "성역 성소"
+
+#: 162946485-0-12140
+msgctxt "162946485-0-12140"
+msgid "Brass Fortress Wayshrine"
+msgstr "황동 요새 성소"
+
+#: 162946485-0-12141
+msgctxt "162946485-0-12141"
+msgid "Clockwork Crossroads Wayshrine"
+msgstr "클락워크 교차로 성소"
+
+#: 162946485-0-12135
+msgctxt "162946485-0-12135"
+msgid "Vale of Tiers"
+msgstr "계층의 계곡"
+
+#: 162946485-0-12136
+msgctxt "162946485-0-12136"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12133
+msgctxt "162946485-0-12133"
+msgid "Elegiac Replication"
+msgstr "애가 복제"
+
+#: 162946485-0-12134
+msgctxt "162946485-0-12134"
+msgid "Insalubrious Effluvium"
+msgstr "불결한 악취"
+
+#: 162946485-0-12139
+msgctxt "162946485-0-12139"
+msgid "Brass Fortress"
+msgstr "황동 요새 "
+
+#: 162946485-0-12137
+msgctxt "162946485-0-12137"
+msgid "Mire Mechanica"
+msgstr "기계 수렁"
+
+#: 162946485-0-12138
+msgctxt "162946485-0-12138"
+msgid "Barilzar's Eighth Laboratory"
+msgstr "바릴자르의 8번째 실험실"
+
+#: 87370069-0-23244
+msgctxt "87370069-0-23244"
+msgid "Evaluation of Saint Felms"
+msgstr ""
+
+#: 87370069-0-23246
+msgctxt "87370069-0-23246"
+msgid "Evaluation of Saint Olms"
+msgstr ""
+
+#: 87370069-0-23245
+msgctxt "87370069-0-23245"
+msgid "Evaluation of Saint Llothis"
+msgstr ""
+
+#: 87370069-0-23248
+msgctxt "87370069-0-23248"
+msgid "Catalogue of Afflictions in the City"
+msgstr "도시의 불행 원인 목록"
+
+#: 87370069-0-23247
+msgctxt "87370069-0-23247"
+msgid "Concerning the Saints' Safety and Security"
+msgstr "성도들의 안전과 보안에 관하여"
+
+#: 87370069-0-23249
+msgctxt "87370069-0-23249"
+msgid "Wall"
+msgstr "수직/벽"
+
+#: 87370069-0-23007
+msgctxt "87370069-0-23007"
+msgid "Door"
+msgstr "문"
+
+#: 19398485-0-2316
+msgctxt "19398485-0-2316"
+msgid "Display Switch Right"
+msgstr ""
+
+#: 76200101-0-64
+msgctxt "76200101-0-64"
+msgid "Transmute Station"
+msgstr "변성 작업대"
+
+#: 19398485-0-2315
+msgctxt "19398485-0-2315"
+msgid "Display Switch Center"
+msgstr ""
+
+#: 98383029-0-65
+msgctxt "98383029-0-65"
+msgid "Apostle"
+msgstr "사도"
+
+#: 19398485-0-2314
+msgctxt "19398485-0-2314"
+msgid "Display Switch Left"
+msgstr ""
+
+#: 98383029-0-66
+msgctxt "98383029-0-66"
+msgid "Ebonshadow"
+msgstr "에본섀도우"
+
+#: 162946485-0-12367
+msgctxt "162946485-0-12367"
+msgid "Zanon Orelu's Workshop"
+msgstr ""
+
+#: 162946485-0-12368
+msgctxt "162946485-0-12368"
+msgid "Q6073 Child-Lost"
+msgstr ""
+
+#: 162946485-0-12369
+msgctxt "162946485-0-12369"
+msgid "Search for Footprints"
+msgstr ""
+
+#: 87370069-0-23253
+msgctxt "87370069-0-23253"
+msgid "Letter to an Aldarch"
+msgstr "알다크에게 보내는 편지"
+
+#: 87370069-0-23252
+msgctxt "87370069-0-23252"
+msgid "The Fires of Truth"
+msgstr "진실의 불꽃"
+
+#: 164009093-1-5263
+msgctxt "164009093-1-5263"
+msgid "Upper Thief's Wing"
+msgstr "상층 도둑의 부속 건물"
+
+#: 164009093-1-5262
+msgctxt "164009093-1-5262"
+msgid "Upper Thief's Wing"
+msgstr "상층 도둑의 부속 건물"
+
+#: 164009093-1-5261
+msgctxt "164009093-1-5261"
+msgid "Lower Thief's Wing"
+msgstr "하층 도둑의 부속 건물"
+
+#: 164009093-1-5260
+msgctxt "164009093-1-5260"
+msgid "Lower Warrior's Wing"
+msgstr "하층 전사의 부속 건물"
+
+#: 164009093-1-5266
+msgctxt "164009093-1-5266"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5265
+msgctxt "164009093-1-5265"
+msgid "Upper Warrior's Wing"
+msgstr "상층 전사의 부속 건물"
+
+#: 164009093-1-5264
+msgctxt "164009093-1-5264"
+msgid "Upper Warrior's Wing"
+msgstr "상층 전사의 부속 건물"
+
+#: 164009093-0-5219
+msgctxt "164009093-0-5219"
+msgid "Seht's Vault"
+msgstr "셋의 지하실"
+
+#: 164009093-0-5214
+msgctxt "164009093-0-5214"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-0-5217
+msgctxt "164009093-0-5217"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-0-5216
+msgctxt "164009093-0-5216"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 164009093-0-5211
+msgctxt "164009093-0-5211"
+msgid "Reactor District"
+msgstr "리액터 구역"
+
+#: 164009093-0-5210
+msgctxt "164009093-0-5210"
+msgid "Restricted Brassworks"
+msgstr "제한 구역: 황동 공방"
+
+#: 268015829-0-400
+msgctxt "268015829-0-400"
+msgid "BG Arcane CK 10-49"
+msgstr "BG Arcane CK10-49 no cp"
+
+#: 164009093-0-5212
+msgctxt "164009093-0-5212"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 164009093-1-5274
+msgctxt "164009093-1-5274"
+msgid "Service Level"
+msgstr ""
+
+#: 164009093-1-5273
+msgctxt "164009093-1-5273"
+msgid "Machine District"
+msgstr "기계 구역"
+
+#: 164009093-1-5272
+msgctxt "164009093-1-5272"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5278
+msgctxt "164009093-1-5278"
+msgid "Hall of Refined Techniques"
+msgstr " 궁극적인 기교의 홀"
+
+#: 164009093-1-5277
+msgctxt "164009093-1-5277"
+msgid "Hall of Refined Techniques"
+msgstr " 궁극적인 기교의 홀"
+
+#: 164009093-1-5276
+msgctxt "164009093-1-5276"
+msgid "Hall of Refined Techniques"
+msgstr " 궁극적인 기교의 홀"
+
+#: 164009093-1-5275
+msgctxt "164009093-1-5275"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-0-5208
+msgctxt "164009093-0-5208"
+msgid "Associate Zanon's Workshop"
+msgstr "동료 자논의 작업장"
+
+#: 164009093-0-5209
+msgctxt "164009093-0-5209"
+msgid "Derelict Laboratory"
+msgstr "버려진 연구소"
+
+#: 164009093-1-5270
+msgctxt "164009093-1-5270"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 87370069-0-22815
+msgctxt "87370069-0-22815"
+msgid "Gascone's Contract"
+msgstr ""
+
+#: 164009093-0-5203
+msgctxt "164009093-0-5203"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 87370069-0-22816
+msgctxt "87370069-0-22816"
+msgid "Shadow Array"
+msgstr ""
+
+#: 87370069-0-22817
+msgctxt "87370069-0-22817"
+msgid "Orders of Assassination"
+msgstr ""
+
+#: 164009093-0-5200
+msgctxt "164009093-0-5200"
+msgid "Viewing Garden"
+msgstr " 전망의 정원"
+
+#: 164009093-0-5202
+msgctxt "164009093-0-5202"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-0-5201
+msgctxt "164009093-0-5201"
+msgid "Downstairs"
+msgstr "아래층"
+
+#: 164009093-0-5440
+msgctxt "164009093-0-5440"
+msgid "Orbservatory Interior"
+msgstr "오브관측소 내부"
+
+#: 164009093-1-5279
+msgctxt "164009093-1-5279"
+msgid "Clockwork Nave"
+msgstr "클락워크 본당"
+
+#: 164009093-1-5241
+msgctxt "164009093-1-5241"
+msgid "Asylum Atrium"
+msgstr "격리소 마당"
+
+#: 164009093-1-5240
+msgctxt "164009093-1-5240"
+msgid "Asylum Atrium"
+msgstr "격리소 마당"
+
+#: 164009093-1-5245
+msgctxt "164009093-1-5245"
+msgid "The All-Axle"
+msgstr ""
+
+#: 164009093-1-5244
+msgctxt "164009093-1-5244"
+msgid "The Inner Curiosity"
+msgstr "내면의 호기심"
+
+#: 164009093-1-5243
+msgctxt "164009093-1-5243"
+msgid "Clockmaker's Foyer"
+msgstr ""
+
+#: 164009093-1-5242
+msgctxt "164009093-1-5242"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 164009093-0-5237
+msgctxt "164009093-0-5237"
+msgid "Seht's Vault"
+msgstr "셋의 지하실"
+
+#: 164009093-0-5236
+msgctxt "164009093-0-5236"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-0-5239
+msgctxt "164009093-0-5239"
+msgid "Asylum Atrium"
+msgstr "격리소 마당"
+
+#: 164009093-0-5238
+msgctxt "164009093-0-5238"
+msgid "Everwound Wellspring"
+msgstr "에버웬 원천지"
+
+#: 164009093-0-5230
+msgctxt "164009093-0-5230"
+msgid "Secret Cavern"
+msgstr "비밀 동굴"
+
+#: 164009093-1-5249
+msgctxt "164009093-1-5249"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5248
+msgctxt "164009093-1-5248"
+msgid "Simulated Sunlight Atelier"
+msgstr "인공 햇빛 아틀리에"
+
+#: 164009093-1-5247
+msgctxt "164009093-1-5247"
+msgid "Clockwork Underground"
+msgstr "클락워크 지하"
+
+#: 164009093-1-5246
+msgctxt "164009093-1-5246"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5251
+msgctxt "164009093-1-5251"
+msgid "Serviflume"
+msgstr "서비플룸"
+
+#: 164009093-1-5256
+msgctxt "164009093-1-5256"
+msgid "Clockwork Nave"
+msgstr "클락워크 본당"
+
+#: 164009093-1-5255
+msgctxt "164009093-1-5255"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5254
+msgctxt "164009093-1-5254"
+msgid "Administration Building"
+msgstr ""
+
+#: 164009093-1-5253
+msgctxt "164009093-1-5253"
+msgid "Ventilation Grate"
+msgstr ""
+
+#: 164009093-0-5226
+msgctxt "164009093-0-5226"
+msgid "Regulation Chamber"
+msgstr "통제실 내실"
+
+#: 164009093-0-5225
+msgctxt "164009093-0-5225"
+msgid "Prime Pneumatorium"
+msgstr ""
+
+#: 164009093-0-5222
+msgctxt "164009093-0-5222"
+msgid "Scrubbing Bore"
+msgstr ""
+
+#: 164009093-0-5221
+msgctxt "164009093-0-5221"
+msgid "Factotum Depository"
+msgstr "팩토튬 보관소"
+
+#: 164009093-0-5224
+msgctxt "164009093-0-5224"
+msgid "Pneumatic Approach"
+msgstr "공압 진입로"
+
+#: 164009093-0-5223
+msgctxt "164009093-0-5223"
+msgid "Pneumatic Forge"
+msgstr "공압 대장간"
+
+#: 164009093-0-5220
+msgctxt "164009093-0-5220"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5259
+msgctxt "164009093-1-5259"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-1-5258
+msgctxt "164009093-1-5258"
+msgid "Halls of Convention"
+msgstr "관례 전당"
+
+#: 164009093-1-5257
+msgctxt "164009093-1-5257"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-1-5223
+msgctxt "164009093-1-5223"
+msgid "Scrubbing Bore"
+msgstr ""
+
+#: 164009093-1-5222
+msgctxt "164009093-1-5222"
+msgid "Factotum Depository"
+msgstr "팩토튬 보관소"
+
+#: 164009093-1-5221
+msgctxt "164009093-1-5221"
+msgid "Loading Bay"
+msgstr "반입구"
+
+#: 164009093-1-5220
+msgctxt "164009093-1-5220"
+msgid "Seht's Vault"
+msgstr "셋의 지하실"
+
+#: 19398485-0-2389
+msgctxt "19398485-0-2389"
+msgid "A Study of Fabricants"
+msgstr "패브릭칸트에 대한 연구"
+
+#: 19398485-0-2388
+msgctxt "19398485-0-2388"
+msgid "A Brief History of Ald Sotha"
+msgstr "알드 소사의 역사"
+
+#: 19398485-0-2387
+msgctxt "19398485-0-2387"
+msgid "Shadows and Whispers"
+msgstr "그림자와 속삭임"
+
+#: 19398485-0-2382
+msgctxt "19398485-0-2382"
+msgid "Star"
+msgstr "별"
+
+#: 19398485-0-2380
+msgctxt "19398485-0-2380"
+msgid "Stealing the Stars"
+msgstr "별을 훔치기"
+
+#: 19398485-0-2386
+msgctxt "19398485-0-2386"
+msgid "The Water Cycle of Clockwork City"
+msgstr "클락워크 시티의 물 순환"
+
+#: 19398485-0-2385
+msgctxt "19398485-0-2385"
+msgid "The Memories of Sotha Sil"
+msgstr "소사 실의 기억들"
+
+#: 19398485-0-2384
+msgctxt "19398485-0-2384"
+msgid "Stuck in the Slag"
+msgstr ""
+
+#: 19398485-0-2383
+msgctxt "19398485-0-2383"
+msgid "Wellspring Hooch"
+msgstr ""
+
+#: 164009093-1-5226
+msgctxt "164009093-1-5226"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 164009093-1-5225
+msgctxt "164009093-1-5225"
+msgid "Pneumatic Approach"
+msgstr "공압 진입로"
+
+#: 164009093-1-5224
+msgctxt "164009093-1-5224"
+msgid "Pneumatic Forge"
+msgstr "공압 대장간"
+
+#: 164009093-1-5230
+msgctxt "164009093-1-5230"
+msgid "Deshaan"
+msgstr "데샨"
+
+#: 19398485-0-2379
+msgctxt "19398485-0-2379"
+msgid "The Astronomer's Power"
+msgstr ""
+
+#: 19398485-0-2378
+msgctxt "19398485-0-2378"
+msgid "The Will of Our Mistress"
+msgstr ""
+
+#: 19398485-0-2377
+msgctxt "19398485-0-2377"
+msgid "Door"
+msgstr "문"
+
+#: 19398485-0-2371
+msgctxt "19398485-0-2371"
+msgid "Wellspring Fungal Strain C"
+msgstr ""
+
+#: 19398485-0-2370
+msgctxt "19398485-0-2370"
+msgid "Wellspring Fungal Strain B"
+msgstr ""
+
+#: 19398485-0-2375
+msgctxt "19398485-0-2375"
+msgid "Wellspring Fungal Strain G"
+msgstr ""
+
+#: 19398485-0-2374
+msgctxt "19398485-0-2374"
+msgid "Wellspring Fungal Strain F"
+msgstr ""
+
+#: 19398485-0-2373
+msgctxt "19398485-0-2373"
+msgid "Wellspring Fungal Strain E"
+msgstr ""
+
+#: 19398485-0-2372
+msgctxt "19398485-0-2372"
+msgid "Wellspring Fungal Strain D"
+msgstr ""
+
+#: 164009093-1-5238
+msgctxt "164009093-1-5238"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5237
+msgctxt "164009093-1-5237"
+msgid "Secret Cavern"
+msgstr "비밀 동굴"
+
+#: 164009093-1-5236
+msgctxt "164009093-1-5236"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-1-5239
+msgctxt "164009093-1-5239"
+msgid "Asylum Atrium"
+msgstr "격리소 마당"
+
+#: 164009093-1-5201
+msgctxt "164009093-1-5201"
+msgid "Upstairs"
+msgstr "위층"
+
+#: 164009093-1-5200
+msgctxt "164009093-1-5200"
+msgid "Viewing Garden Vestibule"
+msgstr " 전망의 정원 앞마당"
+
+#: 164009093-1-5440
+msgctxt "164009093-1-5440"
+msgid "Orbservatory Landing"
+msgstr "오브관측소 착륙지점"
+
+#: 164009093-1-5203
+msgctxt "164009093-1-5203"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5202
+msgctxt "164009093-1-5202"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5209
+msgctxt "164009093-1-5209"
+msgid "Skybridge"
+msgstr "스카이브릿지"
+
+#: 164009093-1-5208
+msgctxt "164009093-1-5208"
+msgid "Brass Fortress"
+msgstr "황동 요새 "
+
+#: 164009093-1-5212
+msgctxt "164009093-1-5212"
+msgid "Reactor District"
+msgstr "리액터 구역"
+
+#: 164009093-1-5211
+msgctxt "164009093-1-5211"
+msgid "Skybridge"
+msgstr "스카이브릿지"
+
+#: 164009093-1-5210
+msgctxt "164009093-1-5210"
+msgid "Reactor District"
+msgstr "리액터 구역"
+
+#: 19398485-0-2399
+msgctxt "19398485-0-2399"
+msgid "Light"
+msgstr "빛"
+
+#: 19398485-0-2393
+msgctxt "19398485-0-2393"
+msgid "Inveigling the Clockwork Apostles"
+msgstr ""
+
+#: 19398485-0-2392
+msgctxt "19398485-0-2392"
+msgid "The Fabricated Fauna of Clockwork"
+msgstr ""
+
+#: 19398485-0-2391
+msgctxt "19398485-0-2391"
+msgid "The Unseen Potential of Clockwork"
+msgstr ""
+
+#: 19398485-0-2396
+msgctxt "19398485-0-2396"
+msgid "The Blackfeather Court"
+msgstr "검은깃털 궁전"
+
+#: 19398485-0-2395
+msgctxt "19398485-0-2395"
+msgid "The Mystery of Artaeum"
+msgstr "아르테움의 미스터리"
+
+#: 19398485-0-2394
+msgctxt "19398485-0-2394"
+msgid "Steady Hands"
+msgstr ""
+
+#: 164009093-1-5216
+msgctxt "164009093-1-5216"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5214
+msgctxt "164009093-1-5214"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5219
+msgctxt "164009093-1-5219"
+msgid "Secret Cavern"
+msgstr "비밀 동굴"
+
+#: 164009093-1-5217
+msgctxt "164009093-1-5217"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 87370069-0-22880
+msgctxt "87370069-0-22880"
+msgid "The Motionless Guardian"
+msgstr "움직이지 않는 수호자"
+
+#: 87370069-0-22882
+msgctxt "87370069-0-22882"
+msgid "Broken Lamp"
+msgstr "고장난 램프"
+
+#: 87370069-0-22883
+msgctxt "87370069-0-22883"
+msgid "Broken Lamp Piece"
+msgstr "고장난 램프의 파편"
+
+#: 87370069-0-22884
+msgctxt "87370069-0-22884"
+msgid "Broken Lamp Piece"
+msgstr "고장난 램프의 파편"
+
+#: 87370069-0-22885
+msgctxt "87370069-0-22885"
+msgid "Broken Lamp Piece"
+msgstr "고장난 램프의 파편"
+
+#: 87370069-0-22886
+msgctxt "87370069-0-22886"
+msgid "Strange Lever"
+msgstr "이상한 레버"
+
+#: 87370069-0-22887
+msgctxt "87370069-0-22887"
+msgid "Strange Lever"
+msgstr "이상한 레버"
+
+#: 87370069-0-22888
+msgctxt "87370069-0-22888"
+msgid "Strange Lever"
+msgstr "이상한 레버"
+
+#: 87370069-0-22889
+msgctxt "87370069-0-22889"
+msgid "Strange Lever"
+msgstr "이상한 레버"
+
+#: 87370069-0-22649
+msgctxt "87370069-0-22649"
+msgid "Skyshard"
+msgstr "스카이샤드"
+
+#: 164009093-0-5178
+msgctxt "164009093-0-5178"
+msgid "Hall of the Thief"
+msgstr "도둑 전당"
+
+#: 164009093-0-5177
+msgctxt "164009093-0-5177"
+msgid "Thief's Wing"
+msgstr "도둑의 부속 건물"
+
+#: 164009093-0-5179
+msgctxt "164009093-0-5179"
+msgid "Hall of the Warrior"
+msgstr "전사 전당"
+
+#: 164009093-0-5173
+msgctxt "164009093-0-5173"
+msgid "Machine District"
+msgstr "기계 구역"
+
+#: 164009093-0-5176
+msgctxt "164009093-0-5176"
+msgid "Mage's Wing"
+msgstr "마법사의 부속 건물"
+
+#: 164009093-0-5175
+msgctxt "164009093-0-5175"
+msgid "Warrior's Wing"
+msgstr "전사의 부속 건물"
+
+#: 164009093-0-5172
+msgctxt "164009093-0-5172"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 87370069-0-22890
+msgctxt "87370069-0-22890"
+msgid "Unfinished IR Light"
+msgstr ""
+
+#: 87370069-0-22891
+msgctxt "87370069-0-22891"
+msgid "Empty Mounting Socket"
+msgstr ""
+
+#: 87370069-0-22892
+msgctxt "87370069-0-22892"
+msgid "Reassembled Lamp"
+msgstr ""
+
+#: 87370069-0-22650
+msgctxt "87370069-0-22650"
+msgid "Skyshard"
+msgstr "스카이샤드"
+
+#: 87370069-0-22893
+msgctxt "87370069-0-22893"
+msgid "Lamp Activation Panel"
+msgstr ""
+
+#: 87370069-0-22651
+msgctxt "87370069-0-22651"
+msgid "Skyshard"
+msgstr "스카이샤드"
+
+#: 87370069-0-22652
+msgctxt "87370069-0-22652"
+msgid "Skyshard"
+msgstr "스카이샤드"
+
+#: 87370069-0-22653
+msgctxt "87370069-0-22653"
+msgid "Skyshard"
+msgstr "스카이샤드"
+
+#: 87370069-0-22896
+msgctxt "87370069-0-22896"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22654
+msgctxt "87370069-0-22654"
+msgid "Skyshard"
+msgstr "스카이샤드"
+
+#: 87370069-0-22897
+msgctxt "87370069-0-22897"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22898
+msgctxt "87370069-0-22898"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22899
+msgctxt "87370069-0-22899"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22861
+msgctxt "87370069-0-22861"
+msgid "Factotum Data Repository"
+msgstr ""
+
+#: 87370069-0-22862
+msgctxt "87370069-0-22862"
+msgid "Residential Logistics Logs"
+msgstr ""
+
+#: 87370069-0-22863
+msgctxt "87370069-0-22863"
+msgid "Archived Security Surveys"
+msgstr ""
+
+#: 87370069-0-22864
+msgctxt "87370069-0-22864"
+msgid "Maintenance Manifests"
+msgstr ""
+
+#: 87370069-0-22865
+msgctxt "87370069-0-22865"
+msgid "Gate"
+msgstr "문"
+
+#: 87370069-0-22866
+msgctxt "87370069-0-22866"
+msgid "Fog"
+msgstr "안개"
+
+#: 87370069-0-22867
+msgctxt "87370069-0-22867"
+msgid "Repair"
+msgstr ""
+
+#: 87370069-0-22868
+msgctxt "87370069-0-22868"
+msgid "Ventilation Gear"
+msgstr ""
+
+#: 87370069-0-22869
+msgctxt "87370069-0-22869"
+msgid "Dynamo Reserve Storage"
+msgstr "예비 발전기 보관고"
+
+#: 39619172-0-9559
+msgctxt "39619172-0-9559"
+msgid "Nutriment Dispenser"
+msgstr ""
+
+#: 39619172-0-9558
+msgctxt "39619172-0-9558"
+msgid "Nutriment Dispenser"
+msgstr ""
+
+#: 39619172-0-9557
+msgctxt "39619172-0-9557"
+msgid "Food Extruder"
+msgstr ""
+
+#: 164009093-0-5199
+msgctxt "164009093-0-5199"
+msgid "Viewing Garden Vestibule"
+msgstr " 전망의 정원 앞마당"
+
+#: 39619172-0-9556
+msgctxt "39619172-0-9556"
+msgid "Food Extruder"
+msgstr ""
+
+#: 39619172-0-9555
+msgctxt "39619172-0-9555"
+msgid "Drink"
+msgstr "음료"
+
+#: 39619172-0-9554
+msgctxt "39619172-0-9554"
+msgid "Drink"
+msgstr "음료"
+
+#: 164009093-0-5196
+msgctxt "164009093-0-5196"
+msgid "Super Long Spiral Room"
+msgstr ""
+
+#: 39619172-0-9553
+msgctxt "39619172-0-9553"
+msgid "Drink"
+msgstr "음료"
+
+#: 164009093-0-5195
+msgctxt "164009093-0-5195"
+msgid "Room 2"
+msgstr ""
+
+#: 162946485-0-12613
+msgctxt "162946485-0-12613"
+msgid "AsylumSanctorum_Floor1"
+msgstr ""
+
+#: 39619172-0-9552
+msgctxt "39619172-0-9552"
+msgid "Drink"
+msgstr "음료"
+
+#: 164009093-0-5198
+msgctxt "164009093-0-5198"
+msgid "Botanical Garden"
+msgstr "식물 정원"
+
+#: 39619172-0-9551
+msgctxt "39619172-0-9551"
+msgid "Tankard"
+msgstr "맥주잔"
+
+#: 164009093-0-5197
+msgctxt "164009093-0-5197"
+msgid "Super Cool Boss Room"
+msgstr ""
+
+#: 39619172-0-9550
+msgctxt "39619172-0-9550"
+msgid "Tankard"
+msgstr "맥주잔"
+
+#: 162946485-0-12617
+msgctxt "162946485-0-12617"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 162946485-0-12614
+msgctxt "162946485-0-12614"
+msgid "AsylumSanctorum_Floor2"
+msgstr ""
+
+#: 87370069-0-22870
+msgctxt "87370069-0-22870"
+msgid "Galvanic Engine"
+msgstr "갈바니 엔진"
+
+#: 87370069-0-22871
+msgctxt "87370069-0-22871"
+msgid "Fog"
+msgstr "안개"
+
+#: 87370069-0-22872
+msgctxt "87370069-0-22872"
+msgid "Repair"
+msgstr ""
+
+#: 87370069-0-22873
+msgctxt "87370069-0-22873"
+msgid "Cleansing Crystal"
+msgstr "정화된 크리스탈"
+
+#: 87370069-0-22874
+msgctxt "87370069-0-22874"
+msgid "Gate"
+msgstr "문"
+
+#: 87370069-0-22875
+msgctxt "87370069-0-22875"
+msgid "Gate"
+msgstr "문"
+
+#: 87370069-0-22877
+msgctxt "87370069-0-22877"
+msgid "Bridge"
+msgstr "bridge"
+
+#: 87370069-0-22878
+msgctxt "87370069-0-22878"
+msgid "Bridge"
+msgstr "bridge"
+
+#: 87370069-0-22879
+msgctxt "87370069-0-22879"
+msgid "Bridge"
+msgstr "bridge"
+
+#: 164009093-0-5188
+msgctxt "164009093-0-5188"
+msgid "Botanical Garden Antechamber"
+msgstr ""
+
+#: 164009093-0-5185
+msgctxt "164009093-0-5185"
+msgid "Sunless Garden Workshop"
+msgstr ""
+
+#: 162946485-0-12601
+msgctxt "162946485-0-12601"
+msgid "cwc_basillicamap_03"
+msgstr ""
+
+#: 164009093-0-5184
+msgctxt "164009093-0-5184"
+msgid "Fungal Workshops and Gardens"
+msgstr "곰팡이 작업장과 정원"
+
+#: 162946485-0-12844
+msgctxt "162946485-0-12844"
+msgid "Pariah's Pinnacle"
+msgstr "파리아의 산정"
+
+#: 164009093-0-5187
+msgctxt "164009093-0-5187"
+msgid "Sunless Garden"
+msgstr ""
+
+#: 164009093-0-5186
+msgctxt "164009093-0-5186"
+msgid "Sunless Garden Workshop"
+msgstr ""
+
+#: 162946485-0-12600
+msgctxt "162946485-0-12600"
+msgid "cwc_basillicamap_02"
+msgstr ""
+
+#: 164009093-0-5181
+msgctxt "164009093-0-5181"
+msgid "Upper Warrior's Wing"
+msgstr "상층 전사의 부속 건물"
+
+#: 164009093-0-5180
+msgctxt "164009093-0-5180"
+msgid "Hall of the Mage"
+msgstr "마법사 전당"
+
+#: 164009093-0-5183
+msgctxt "164009093-0-5183"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 162946485-0-12845
+msgctxt "162946485-0-12845"
+msgid "Pariah's Pinnacle"
+msgstr "파리아의 산정"
+
+#: 164009093-0-5182
+msgctxt "164009093-0-5182"
+msgid "Upper Thief's Wing"
+msgstr "상층 도둑의 부속 건물"
+
+#: 162946485-0-12604
+msgctxt "162946485-0-12604"
+msgid "Coldharbour Death Plane"
+msgstr ""
+
+#: 164009093-1-5186
+msgctxt "164009093-1-5186"
+msgid "Fungal Workshops and Gardens"
+msgstr "곰팡이 작업장과 정원"
+
+#: 164009093-1-5185
+msgctxt "164009093-1-5185"
+msgid "Fungal Workshops and Gardens"
+msgstr "곰팡이 작업장과 정원"
+
+#: 164009093-1-5184
+msgctxt "164009093-1-5184"
+msgid "Viewing Garden"
+msgstr " 전망의 정원"
+
+#: 164009093-1-5183
+msgctxt "164009093-1-5183"
+msgid "Antechamber"
+msgstr "곁방"
+
+#: 87370069-0-22841
+msgctxt "87370069-0-22841"
+msgid "Flow Valve"
+msgstr ""
+
+#: 164009093-1-5188
+msgctxt "164009093-1-5188"
+msgid "Sunless Garden"
+msgstr ""
+
+#: 87370069-0-22842
+msgctxt "87370069-0-22842"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-22600
+msgctxt "87370069-0-22600"
+msgid "Gascone's Memorandum"
+msgstr "게스콘의 각서"
+
+#: 164009093-1-5187
+msgctxt "164009093-1-5187"
+msgid "Sunless Garden Workshop"
+msgstr ""
+
+#: 87370069-0-22843
+msgctxt "87370069-0-22843"
+msgid "Charged Animo Core"
+msgstr ""
+
+#: 87370069-0-22602
+msgctxt "87370069-0-22602"
+msgid "Strip of Apostle Robe"
+msgstr ""
+
+#: 164009093-1-5182
+msgctxt "164009093-1-5182"
+msgid "Lower Thief's Wing"
+msgstr "하층 도둑의 부속 건물"
+
+#: 164009093-1-5181
+msgctxt "164009093-1-5181"
+msgid "Lower Warrior's Wing"
+msgstr "하층 전사의 부속 건물"
+
+#: 164009093-1-5180
+msgctxt "164009093-1-5180"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 164009093-0-5373
+msgctxt "164009093-0-5373"
+msgid "Storage Chamber"
+msgstr "저장실"
+
+#: 164009093-1-5197
+msgctxt "164009093-1-5197"
+msgid "Super Long Spiral Room"
+msgstr ""
+
+#: 164009093-1-5196
+msgctxt "164009093-1-5196"
+msgid "Room 2"
+msgstr ""
+
+#: 164009093-1-5195
+msgctxt "164009093-1-5195"
+msgid "Room 1"
+msgstr ""
+
+#: 87370069-0-22851
+msgctxt "87370069-0-22851"
+msgid "Charging Socket"
+msgstr ""
+
+#: 87370069-0-22852
+msgctxt "87370069-0-22852"
+msgid "Switch"
+msgstr "전환"
+
+#: 164009093-1-5199
+msgctxt "164009093-1-5199"
+msgid "Simulated Sunlight Atelier"
+msgstr "인공 햇빛 아틀리에"
+
+#: 87370069-0-22853
+msgctxt "87370069-0-22853"
+msgid "Wall"
+msgstr "수직/벽"
+
+#: 164009093-1-5198
+msgctxt "164009093-1-5198"
+msgid "Botanical Garden Antechamber"
+msgstr ""
+
+#: 87370069-0-22855
+msgctxt "87370069-0-22855"
+msgid "Switch"
+msgstr "전환"
+
+#: 87370069-0-22856
+msgctxt "87370069-0-22856"
+msgid "Switch"
+msgstr "전환"
+
+#: 87370069-0-22857
+msgctxt "87370069-0-22857"
+msgid "Switch"
+msgstr "전환"
+
+#: 87370069-0-22858
+msgctxt "87370069-0-22858"
+msgid "Switch"
+msgstr "전환"
+
+#: 87370069-0-22823
+msgctxt "87370069-0-22823"
+msgid "Acolyte's Chipped Scroll Plate"
+msgstr ""
+
+#: 87370069-0-22824
+msgctxt "87370069-0-22824"
+msgid "Acolyte's Lost Scroll Plate"
+msgstr ""
+
+#: 87370069-0-22825
+msgctxt "87370069-0-22825"
+msgid "Acolyte's Scorched Scroll Plate"
+msgstr ""
+
+#: 87370069-0-22827
+msgctxt "87370069-0-22827"
+msgid "Uneaten Rations"
+msgstr ""
+
+#: 87370069-0-22828
+msgctxt "87370069-0-22828"
+msgid "Bloody Bandage"
+msgstr ""
+
+#: 87370069-0-22829
+msgctxt "87370069-0-22829"
+msgid "Naril's Notes: Origins"
+msgstr "나릴의 노트 : 기원"
+
+#: 162946485-0-12819
+msgctxt "162946485-0-12819"
+msgid "Orbservatory Prior"
+msgstr "선행 오브관측소 "
+
+#: 164009093-1-5175
+msgctxt "164009093-1-5175"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 164009093-1-5173
+msgctxt "164009093-1-5173"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 164009093-1-5172
+msgctxt "164009093-1-5172"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5179
+msgctxt "164009093-1-5179"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 164009093-1-5178
+msgctxt "164009093-1-5178"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 87370069-0-22830
+msgctxt "87370069-0-22830"
+msgid "Right Core Pump"
+msgstr "오른쪽 코어 펌프"
+
+#: 164009093-1-5177
+msgctxt "164009093-1-5177"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 164009093-1-5176
+msgctxt "164009093-1-5176"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 87370069-0-22832
+msgctxt "87370069-0-22832"
+msgid "Left Core Pump"
+msgstr "왼쪽 코어 펌프"
+
+#: 87370069-0-22834
+msgctxt "87370069-0-22834"
+msgid "Spotlight"
+msgstr ""
+
+#: 87370069-0-22835
+msgctxt "87370069-0-22835"
+msgid "Charged Animo Core"
+msgstr ""
+
+#: 87370069-0-22836
+msgctxt "87370069-0-22836"
+msgid "Charging Socket"
+msgstr ""
+
+#: 87370069-0-22837
+msgctxt "87370069-0-22837"
+msgid "Imperfect Operations Manual"
+msgstr ""
+
+#: 87370069-0-22838
+msgctxt "87370069-0-22838"
+msgid "Reset Valve"
+msgstr ""
+
+#: 87370069-0-22839
+msgctxt "87370069-0-22839"
+msgid "Flow Valve"
+msgstr ""
+
+#: 162946485-0-12432
+msgctxt "162946485-0-12432"
+msgid "GateComment"
+msgstr ""
+
+#: 87370069-0-23580
+msgctxt "87370069-0-23580"
+msgid "Journal of Elias"
+msgstr ""
+
+#: 87370069-0-23102
+msgctxt "87370069-0-23102"
+msgid "Dirt Mound"
+msgstr "흙더미"
+
+#: 87370069-0-23105
+msgctxt "87370069-0-23105"
+msgid "Spot Light"
+msgstr ""
+
+#: 87370069-0-23107
+msgctxt "87370069-0-23107"
+msgid "Spot Light"
+msgstr ""
+
+#: 87370069-0-23109
+msgctxt "87370069-0-23109"
+msgid "Tank"
+msgstr ""
+
+#: 162946485-0-12421
+msgctxt "162946485-0-12421"
+msgid "The Refurbishing Yard"
+msgstr ""
+
+#: 162946485-0-12422
+msgctxt "162946485-0-12422"
+msgid "Pavilion of Artifice"
+msgstr ""
+
+#: 162946485-0-12420
+msgctxt "162946485-0-12420"
+msgid "Restricted Brassworks"
+msgstr "제한 구역: 황동 공방"
+
+#: 162946485-0-12423
+msgctxt "162946485-0-12423"
+msgid "Q6074 - Kamid's Help SZ"
+msgstr ""
+
+#: 162946485-0-12429
+msgctxt "162946485-0-12429"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 162946485-0-12427
+msgctxt "162946485-0-12427"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 87370069-0-23110
+msgctxt "87370069-0-23110"
+msgid "Dust"
+msgstr ""
+
+#: 87370069-0-23310
+msgctxt "87370069-0-23310"
+msgid "Hadmal's Journal, Page 7"
+msgstr ""
+
+#: 87370069-0-23311
+msgctxt "87370069-0-23311"
+msgid "Hadmal's Journal, Page 12"
+msgstr ""
+
+#: 87370069-0-23314
+msgctxt "87370069-0-23314"
+msgid "Imperfect Operations Manual"
+msgstr ""
+
+#: 87370069-0-23313
+msgctxt "87370069-0-23313"
+msgid "Orders of Assassination"
+msgstr ""
+
+#: 87370069-0-23316
+msgctxt "87370069-0-23316"
+msgid "Terari's Notes"
+msgstr ""
+
+#: 87370069-0-23315
+msgctxt "87370069-0-23315"
+msgid "Maintenance Manifests"
+msgstr ""
+
+#: 87370069-0-23318
+msgctxt "87370069-0-23318"
+msgid "Journal of a Stranded Mage"
+msgstr ""
 
 #: 28666901-0-1675
 msgctxt "28666901-0-1675"
@@ -3739,1295 +3373,19 @@ msgctxt "28666901-0-1672"
 msgid "Clockwork Crossroads Wayshrine"
 msgstr "클락워크 교차로 성소"
 
-#: 28666901-0-1671
-msgctxt "28666901-0-1671"
-msgid "Brass Fortress Wayshrine"
-msgstr "황동 요새 성소"
-
-#: 267200725-0-1392
-msgctxt "267200725-0-1392"
-msgid "Asylum Atrium Upper Level"
-msgstr "격리소 마당 상층부"
-
-#: 267200725-0-1391
-msgctxt "267200725-0-1391"
-msgid "Asylum Atrium"
-msgstr "격리소 마당"
-
-#: 267200725-0-1387
-msgctxt "267200725-0-1387"
-msgid "Clockwork Basilica"
-msgstr "클락워크 공회당"
-
-#: 267200725-0-1386
-msgctxt "267200725-0-1386"
-msgid "Clockwork Basilica"
-msgstr "클락워크 공회당"
-
-#: 267200725-0-1385
-msgctxt "267200725-0-1385"
-msgid "Clockwork Basilica"
-msgstr "클락워크 공회당"
-
-#: 267200725-0-1384
-msgctxt "267200725-0-1384"
-msgid "Cogitum Centralis"
-msgstr "코지툼의 중심부"
-
-#: 267200725-0-1379
-msgctxt "267200725-0-1379"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 267200725-0-1376
-msgctxt "267200725-0-1376"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 267200725-0-1375
-msgctxt "267200725-0-1375"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 267200725-0-1371
-msgctxt "267200725-0-1371"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 267200725-0-1363
-msgctxt "267200725-0-1363"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 267200725-0-1362
-msgctxt "267200725-0-1362"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 267200725-0-1361
-msgctxt "267200725-0-1361"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 267200725-0-1360
-msgctxt "267200725-0-1360"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 267200725-0-1359
-msgctxt "267200725-0-1359"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 267200725-0-1358
-msgctxt "267200725-0-1358"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 267200725-0-1357
-msgctxt "267200725-0-1357"
-msgid "Administration Nexus"
-msgstr ""
-
-#: 267200725-0-1356
-msgctxt "267200725-0-1356"
-msgid "Administration Nexus"
-msgstr ""
-
-#: 267200725-0-1355
-msgctxt "267200725-0-1355"
-msgid "Serviflume"
-msgstr "서비플룸"
-
-#: 267200725-0-1354
-msgctxt "267200725-0-1354"
-msgid "Slag Town Outlaws Refuge"
-msgstr " 슬라그 타운 무법자의 은신처"
-
-#: 267200725-0-1353
-msgctxt "267200725-0-1353"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 267200725-0-1352
-msgctxt "267200725-0-1352"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 267200725-0-1351
-msgctxt "267200725-0-1351"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 267200725-0-1348
-msgctxt "267200725-0-1348"
-msgid "Brass Fortress"
-msgstr "황동 요새 "
-
-#: 87370069-0-13475
-msgctxt "87370069-0-13475"
-msgid "Hidden Treasure"
-msgstr "숨겨진 보물"
-
-#: 87370069-0-13474
-msgctxt "87370069-0-13474"
-msgid "Hidden Treasure"
-msgstr "숨겨진 보물"
-
-#: 267200725-0-1342
-msgctxt "267200725-0-1342"
-msgid "Everwound Wellspring"
-msgstr "에버웬 원천지"
-
-#: 267200725-0-1341
-msgctxt "267200725-0-1341"
-msgid "Everwound Wellspring"
-msgstr "에버웬 원천지"
-
-#: 267200725-0-1340
-msgctxt "267200725-0-1340"
-msgid "Everwound Wellspring"
-msgstr "에버웬 원천지"
-
-#: 267200725-0-1339
-msgctxt "267200725-0-1339"
-msgid "Cogitum Centralis"
-msgstr "코지툼의 중심부"
-
-#: 267200725-0-1338
-msgctxt "267200725-0-1338"
-msgid "Cogitum Centralis"
-msgstr "코지툼의 중심부"
-
-#: 267200725-0-1337
-msgctxt "267200725-0-1337"
-msgid "Cogitum Centralis"
-msgstr "코지툼의 중심부"
-
-#: 267200725-0-1336
-msgctxt "267200725-0-1336"
-msgid "Cogitum Centralis"
-msgstr "코지툼의 중심부"
-
-#: 267200725-0-1335
-msgctxt "267200725-0-1335"
-msgid "Mechanical Fundament"
-msgstr "기계적 기초"
-
-#: 267200725-0-1334
-msgctxt "267200725-0-1334"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 267200725-0-1333
-msgctxt "267200725-0-1333"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 267200725-0-1332
-msgctxt "267200725-0-1332"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 87370069-0-13318
-msgctxt "87370069-0-13318"
-msgid "Dirt Mound"
-msgstr "흙더미"
-
-#: 87370069-0-13317
-msgctxt "87370069-0-13317"
-msgid "Dirt Mound"
-msgstr "흙더미"
-
-#: 267200725-0-1330
-msgctxt "267200725-0-1330"
-msgid "Evergloam Cave"
-msgstr "에버글룸 동굴"
-
-#: 267200725-0-1329
-msgctxt "267200725-0-1329"
-msgid "Clockwork City Vaults"
-msgstr "클락워크 시티 지하실"
-
-#: 267200725-0-1328
-msgctxt "267200725-0-1328"
-msgid "Clockwork City Vaults"
-msgstr "클락워크 시티 지하실"
-
-#: 267200725-0-1327
-msgctxt "267200725-0-1327"
-msgid "Clockwork City Vaults"
-msgstr "클락워크 시티 지하실"
-
-#: 267200725-0-1326
-msgctxt "267200725-0-1326"
-msgid "Evergloam"
-msgstr "에버글룸"
-
-#: 267200725-0-1324
-msgctxt "267200725-0-1324"
-msgid "The Shadow Cleft"
-msgstr "그림자의 틈새"
-
-#: 267200725-0-1313
-msgctxt "267200725-0-1313"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
-
-#: 162946485-0-12896
-msgctxt "162946485-0-12896"
-msgid "Everwound Wellspring"
-msgstr "에버웬 원천지"
-
-#: 162946485-0-12895
-msgctxt "162946485-0-12895"
-msgid "Clockwork City"
-msgstr "클락워크 시티"
-
-#: 162946485-0-12890
-msgctxt "162946485-0-12890"
-msgid "Machine District"
-msgstr "기계 구역"
-
-#: 162946485-0-12845
-msgctxt "162946485-0-12845"
-msgid "Pariah's Pinnacle"
-msgstr "파리아의 산정"
-
-#: 162946485-0-12844
-msgctxt "162946485-0-12844"
-msgid "Pariah's Pinnacle"
-msgstr "파리아의 산정"
-
-#: 162946485-0-12819
-msgctxt "162946485-0-12819"
-msgid "Orbservatory Prior"
-msgstr "선행 오브관측소 "
-
-#: 162946485-0-12789
-msgctxt "162946485-0-12789"
-msgid "Falkreath Hold"
-msgstr "팔크리스 영지"
-
-#: 162946485-0-12782
-msgctxt "162946485-0-12782"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 162946485-0-12781
-msgctxt "162946485-0-12781"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 162946485-0-12762
-msgctxt "162946485-0-12762"
-msgid "Pariah's Pinnacle"
-msgstr "파리아의 산정"
-
-#: 162946485-0-12755
-msgctxt "162946485-0-12755"
-msgid "Brass Fortress"
-msgstr "황동 요새 "
-
-#: 162946485-0-12738
-msgctxt "162946485-0-12738"
-msgid "Q6049 Black Soulgem"
-msgstr ""
-
-#: 162946485-0-12737
-msgctxt "162946485-0-12737"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 162946485-0-12736
-msgctxt "162946485-0-12736"
-msgid "mawKill3"
-msgstr ""
-
-#: 162946485-0-12722
-msgctxt "162946485-0-12722"
-msgid "Captive Kill Zone"
-msgstr ""
-
-#: 162946485-0-12720
-msgctxt "162946485-0-12720"
-msgid "ClearQuestCounters"
-msgstr ""
-
-#: 162946485-0-12719
-msgctxt "162946485-0-12719"
-msgid "The Brass Fortress"
-msgstr "황동 요새"
-
-#: 162946485-0-12687
-msgctxt "162946485-0-12687"
-msgid "Twilight Cliffs"
-msgstr ""
-
-#: 162946485-0-12659
-msgctxt "162946485-0-12659"
-msgid "Wraith of Crows"
-msgstr ""
-
-#: 162946485-0-12648
-msgctxt "162946485-0-12648"
-msgid "Reactor District West"
-msgstr ""
-
-#: 162946485-0-12617
-msgctxt "162946485-0-12617"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 162946485-0-12614
-msgctxt "162946485-0-12614"
-msgid "AsylumSanctorum_Floor2"
-msgstr ""
-
-#: 162946485-0-12613
-msgctxt "162946485-0-12613"
-msgid "AsylumSanctorum_Floor1"
-msgstr ""
-
-#: 162946485-0-12604
-msgctxt "162946485-0-12604"
-msgid "Coldharbour Death Plane"
-msgstr ""
-
-#: 162946485-0-12601
-msgctxt "162946485-0-12601"
-msgid "cwc_basillicamap_03"
-msgstr ""
-
-#: 162946485-0-12600
-msgctxt "162946485-0-12600"
-msgid "cwc_basillicamap_02"
-msgstr ""
-
-#: 162946485-0-12599
-msgctxt "162946485-0-12599"
-msgid "cwc_basillicamap_01"
-msgstr ""
-
-#: 162946485-0-12592
-msgctxt "162946485-0-12592"
-msgid "CWC_CCQ4_map4"
-msgstr ""
-
-#: 162946485-0-12591
-msgctxt "162946485-0-12591"
-msgid "CCQ1_small_Killzone_01"
-msgstr ""
-
-#: 162946485-0-12588
-msgctxt "162946485-0-12588"
-msgid "Q6050 SpawnDivaythChild"
-msgstr ""
-
-#: 162946485-0-12583
-msgctxt "162946485-0-12583"
-msgid "CWC_CCQ1_map3C"
-msgstr ""
-
-#: 162946485-0-12581
-msgctxt "162946485-0-12581"
-msgid "CCQ1_Big_Killzone_01"
-msgstr ""
-
-#: 162946485-0-12580
-msgctxt "162946485-0-12580"
-msgid "Repair Distillation Initiator"
-msgstr ""
-
-#: 162946485-0-12578
-#, fuzzy
-msgctxt "162946485-0-12578"
-msgid "Repair Vapor Manifold"
-msgstr "환기 장치 수리"
-
-#: 162946485-0-12577
-msgctxt "162946485-0-12577"
-msgid "CWC_CCQ5_FL1_map"
-msgstr ""
-
-#: 162946485-0-12576
-msgctxt "162946485-0-12576"
-msgid "CWC_CCQ5_FL2_map"
-msgstr ""
-
-#: 162946485-0-12572
-msgctxt "162946485-0-12572"
-msgid "CWC_planisphere_1st_sphere_map"
-msgstr ""
-
-#: 162946485-0-12570
-msgctxt "162946485-0-12570"
-msgid "CWC_planisphere_3rd_sphere_map"
-msgstr ""
-
-#: 162946485-0-12569
-msgctxt "162946485-0-12569"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 162946485-0-12565
-msgctxt "162946485-0-12565"
-msgid "Scarecrow"
-msgstr "허수아비 "
-
-#: 162946485-0-12563
-msgctxt "162946485-0-12563"
-msgid "FinalSpawn"
-msgstr ""
-
-#: 162946485-0-12559
-msgctxt "162946485-0-12559"
-msgid "Sanctorium of Saint Olms"
-msgstr ""
-
-#: 162946485-0-12558
-msgctxt "162946485-0-12558"
-msgid "Machine District Catwalk"
-msgstr "기계 구역의 좁은 통로"
-
-#: 162946485-0-12556
-msgctxt "162946485-0-12556"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 162946485-0-12552
-msgctxt "162946485-0-12552"
-msgid "Shadow Descent SAT04"
-msgstr ""
-
-#: 162946485-0-12551
-msgctxt "162946485-0-12551"
-msgid "Shadow Descent SAT03"
-msgstr ""
-
-#: 162946485-0-12549
-msgctxt "162946485-0-12549"
-msgid "Shadow Descent SAT01"
-msgstr ""
-
-#: 162946485-0-12548
-msgctxt "162946485-0-12548"
-msgid "Talk to Varuni"
-msgstr "바루니와 대화하기"
-
-#: 162946485-0-12546
-msgctxt "162946485-0-12546"
-msgid "Crow Follower"
-msgstr ""
-
-#: 162946485-0-12545
-msgctxt "162946485-0-12545"
-msgid "Near Reactor"
-msgstr ""
-
-#: 162946485-0-12538
-msgctxt "162946485-0-12538"
-msgid "Knight at door"
-msgstr ""
-
-#: 162946485-0-12537
-msgctxt "162946485-0-12537"
-msgid "Archivox"
-msgstr ""
-
-#: 162946485-0-12533
-msgctxt "162946485-0-12533"
-msgid "Q6074 - CogsofFateReturnCoreTS"
-msgstr ""
-
-#: 162946485-0-12525
-msgctxt "162946485-0-12525"
-msgid "Evergloam"
-msgstr "에버글룸"
-
-#: 162946485-0-12524
-msgctxt "162946485-0-12524"
-msgid "Clockwork Basilica"
-msgstr "클락워크 공회당"
-
-#: 162946485-0-12521
-msgctxt "162946485-0-12521"
-msgid "Spawn Knight"
-msgstr ""
-
-#: 162946485-0-12517
-msgctxt "162946485-0-12517"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12516
-msgctxt "162946485-0-12516"
-msgid "Seht's Vault"
-msgstr "셋의 지하실"
-
-#: 162946485-0-12514
-msgctxt "162946485-0-12514"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12513
-msgctxt "162946485-0-12513"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12512
-msgctxt "162946485-0-12512"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12511
-msgctxt "162946485-0-12511"
-msgid "Mnemonic Planisphere"
-msgstr "기억의 천체도"
-
-#: 162946485-0-12510
-msgctxt "162946485-0-12510"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12509
-msgctxt "162946485-0-12509"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12508
-msgctxt "162946485-0-12508"
-msgid "Halls of Convention"
-msgstr ""
-
-#: 162946485-0-12507
-msgctxt "162946485-0-12507"
-msgid "Halls of Convention"
-msgstr ""
-
-#: 162946485-0-12504
-msgctxt "162946485-0-12504"
-msgid "Q6063 VaruniTheaterController"
-msgstr ""
-
-#: 162946485-0-12502
-msgctxt "162946485-0-12502"
-msgid "Q6036 Workshop"
-msgstr ""
-
-#: 162946485-0-12500
-msgctxt "162946485-0-12500"
-msgid "Q6063 NeramoFollowerLeaveLine"
-msgstr ""
-
-#: 162946485-0-12497
-msgctxt "162946485-0-12497"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12496
-msgctxt "162946485-0-12496"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12494
-msgctxt "162946485-0-12494"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12492
-msgctxt "162946485-0-12492"
-msgid "Search delver"
-msgstr ""
-
-#: 162946485-0-12489
-msgctxt "162946485-0-12489"
-msgid "CWC_MAP_VentralTerminus_Upper"
-msgstr ""
-
-#: 162946485-0-12487
-msgctxt "162946485-0-12487"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 162946485-0-12485
-msgctxt "162946485-0-12485"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12483
-msgctxt "162946485-0-12483"
-msgid "Q6050 DivaythShadowScene"
-msgstr ""
-
-#: 162946485-0-12482
-msgctxt "162946485-0-12482"
-msgid "Q6050 SpawnDivaythChild"
-msgstr ""
-
-#: 162946485-0-12481
-msgctxt "162946485-0-12481"
-msgid "CWC_MAP_MechFundament_UGUpper"
-msgstr ""
-
-#: 162946485-0-12480
-msgctxt "162946485-0-12480"
-msgid "CWC_MAP_MechFundament_UGLower"
-msgstr ""
-
-#: 162946485-0-12478
-msgctxt "162946485-0-12478"
-msgid "Q6036 Workshop Door"
-msgstr ""
-
-#: 162946485-0-12477
-msgctxt "162946485-0-12477"
-msgid "CWC_MAP_CCQ2_UGUpper02"
-msgstr ""
-
-#: 162946485-0-12476
-msgctxt "162946485-0-12476"
-msgid "CWC_MAP_CCQ2_UGLower02"
-msgstr ""
-
-#: 162946485-0-12475
-msgctxt "162946485-0-12475"
-msgid "CWC_MAP_CCQ2_UGUpper01"
-msgstr ""
-
-#: 162946485-0-12474
-msgctxt "162946485-0-12474"
-msgid "CWC_MAP_CCQ2_UGLower01"
-msgstr ""
-
-#: 162946485-0-12473
-msgctxt "162946485-0-12473"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12471
-msgctxt "162946485-0-12471"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12470
-msgctxt "162946485-0-12470"
-msgid "Cloisters"
-msgstr "회랑"
-
-#: 162946485-0-12468
-msgctxt "162946485-0-12468"
-msgid "CWC_MAP_CCQ2_NexusUpper"
-msgstr ""
-
-#: 162946485-0-12467
-msgctxt "162946485-0-12467"
-msgid "CWC_MAP_CCQ2_NexusLower"
-msgstr ""
-
-#: 162946485-0-12466
-msgctxt "162946485-0-12466"
-msgid "CWC_MAP_CCQ2_Maze"
-msgstr ""
-
-#: 162946485-0-12464
-msgctxt "162946485-0-12464"
-msgid "Raynor Follower Subzone"
-msgstr ""
-
-#: 162946485-0-12463
-msgctxt "162946485-0-12463"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12462
-msgctxt "162946485-0-12462"
-msgid "CWC_planisphere_map3"
-msgstr ""
-
 #: 162946485-0-12461
 msgctxt "162946485-0-12461"
 msgid "CWC_planisphere_map2"
 msgstr ""
 
-#: 162946485-0-12460
-msgctxt "162946485-0-12460"
-msgid "CWC_planisphere_map1"
-msgstr ""
-
-#: 162946485-0-12459
-msgctxt "162946485-0-12459"
-msgid "Front Office"
-msgstr ""
-
-#: 162946485-0-12458
-msgctxt "162946485-0-12458"
-msgid "Shipping Room"
-msgstr ""
-
-#: 162946485-0-12457
-msgctxt "162946485-0-12457"
-msgid "LucianaEnder"
-msgstr ""
-
-#: 162946485-0-12432
-msgctxt "162946485-0-12432"
-msgid "GateComment"
-msgstr ""
-
-#: 162946485-0-12429
-msgctxt "162946485-0-12429"
-msgid "Asylum Sanctorium"
-msgstr "성자의 격리장"
-
-#: 162946485-0-12427
-msgctxt "162946485-0-12427"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12423
-msgctxt "162946485-0-12423"
-msgid "Q6074 - Kamid's Help SZ"
-msgstr ""
-
-#: 162946485-0-12422
-msgctxt "162946485-0-12422"
-msgid "Pavilion of Artifice"
-msgstr ""
-
-#: 162946485-0-12421
-msgctxt "162946485-0-12421"
-msgid "The Refurbishing Yard"
-msgstr ""
-
-#: 162946485-0-12420
-msgctxt "162946485-0-12420"
-msgid "Restricted Brassworks"
-msgstr ""
-
-#: 162946485-0-12419
-msgctxt "162946485-0-12419"
-msgid "The All-Axle"
-msgstr ""
-
-#: 162946485-0-12418
-msgctxt "162946485-0-12418"
-msgid "The Inner Curiosity"
-msgstr ""
-
-#: 162946485-0-12417
-msgctxt "162946485-0-12417"
-msgid "Halls Of Convention"
-msgstr ""
-
-#: 162946485-0-12416
-msgctxt "162946485-0-12416"
-msgid "Water Conduit Tunnels"
-msgstr ""
-
-#: 162946485-0-12415
-msgctxt "162946485-0-12415"
-msgid "Elevator Room"
-msgstr ""
-
-#: 162946485-0-12414
-msgctxt "162946485-0-12414"
-msgid "Elevator Room"
-msgstr ""
-
-#: 162946485-0-12413
-msgctxt "162946485-0-12413"
-msgid "Q6057 RaynorInitialSpawn"
-msgstr ""
-
-#: 162946485-0-12412
-msgctxt "162946485-0-12412"
-msgid "Q6080 UseQuestItem3"
-msgstr ""
-
-#: 162946485-0-12411
-msgctxt "162946485-0-12411"
-msgid "Q6080 UseQuestItem2-Cottage"
-msgstr ""
-
-#: 162946485-0-12410
-msgctxt "162946485-0-12410"
-msgid "Q6080 UseQuestItem1-Gate"
-msgstr ""
-
-#: 162946485-0-12405
-msgctxt "162946485-0-12405"
-msgid "Q6078 Bestow Theater"
-msgstr ""
-
-#: 162946485-0-12404
-msgctxt "162946485-0-12404"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12393
-msgctxt "162946485-0-12393"
-msgid "Q6050 DivaythSpawnGates"
-msgstr ""
-
-#: 162946485-0-12392
-msgctxt "162946485-0-12392"
-msgid "Enter Gates"
-msgstr ""
-
-#: 162946485-0-12391
-msgctxt "162946485-0-12391"
-msgid "Q6079 Child-Lost"
-msgstr ""
-
-#: 162946485-0-12390
-msgctxt "162946485-0-12390"
-msgid "Spawn Raynor Child"
-msgstr ""
-
-#: 162946485-0-12369
-msgctxt "162946485-0-12369"
-msgid "Search for Footprints"
-msgstr ""
-
-#: 162946485-0-12368
-msgctxt "162946485-0-12368"
-msgid "Q6073 Child-Lost"
-msgstr ""
-
-#: 162946485-0-12367
-msgctxt "162946485-0-12367"
-msgid "Zanon Orelu's Workshop"
-msgstr ""
-
-#: 162946485-0-12362
-msgctxt "162946485-0-12362"
-msgid "Sanctorium of Saint Felms"
-msgstr ""
-
-#: 162946485-0-12361
-msgctxt "162946485-0-12361"
-msgid "Sanctorium of Saint Lothis"
-msgstr ""
-
-#: 162946485-0-12360
-msgctxt "162946485-0-12360"
-msgid "Sanctorium of Saint Olms"
-msgstr ""
-
-#: 162946485-0-12358
-msgctxt "162946485-0-12358"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12348
-msgctxt "162946485-0-12348"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12346
-msgctxt "162946485-0-12346"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12337
-msgctxt "162946485-0-12337"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12333
-msgctxt "162946485-0-12333"
-msgid "Enter machine district"
-msgstr ""
-
-#: 162946485-0-12332
-msgctxt "162946485-0-12332"
-msgid "SothaEnderBackup"
-msgstr ""
-
-#: 162946485-0-12331
-msgctxt "162946485-0-12331"
-msgid "Core"
-msgstr "코어"
-
-#: 162946485-0-12330
-msgctxt "162946485-0-12330"
-msgid "Repair Humidifier"
-msgstr ""
-
-#: 162946485-0-12311
-msgctxt "162946485-0-12311"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12310
-msgctxt "162946485-0-12310"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12309
-msgctxt "162946485-0-12309"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12308
-msgctxt "162946485-0-12308"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 162946485-0-12307
-msgctxt "162946485-0-12307"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 162946485-0-12306
-msgctxt "162946485-0-12306"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 162946485-0-12305
-msgctxt "162946485-0-12305"
-msgid "Trespass"
-msgstr ""
-
-#: 162946485-0-12304
-msgctxt "162946485-0-12304"
-msgid "Q6063 NeramoRaynorFollowers"
-msgstr ""
-
-#: 162946485-0-12303
-msgctxt "162946485-0-12303"
-msgid "Q6057 - Q6063 TheaterSubzone"
-msgstr ""
-
-#: 162946485-0-12300
-msgctxt "162946485-0-12300"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12299
-msgctxt "162946485-0-12299"
-msgid "Incarnatorium"
-msgstr "인카르나토리움"
-
-#: 162946485-0-12298
-msgctxt "162946485-0-12298"
-msgid "Repair Humidifier"
-msgstr ""
-
-#: 162946485-0-12297
-msgctxt "162946485-0-12297"
-msgid "Blackfeather Castle"
-msgstr "검은깃털 성"
-
-#: 162946485-0-12296
-msgctxt "162946485-0-12296"
-msgid "Sotha Sil Spinups"
-msgstr "소사 실의 스핀 업"
-
-#: 162946485-0-12295
-msgctxt "162946485-0-12295"
-msgid "Blackfeather Castle"
-msgstr "검은깃털 성"
-
-#: 162946485-0-12294
-msgctxt "162946485-0-12294"
-msgid "Crows"
-msgstr ""
-
-#: 162946485-0-12293
-msgctxt "162946485-0-12293"
-msgid "Planisphere"
-msgstr "천체도"
-
-#: 162946485-0-12292
-msgctxt "162946485-0-12292"
-msgid "Q6058 Follower"
-msgstr ""
-
-#: 162946485-0-12291
-msgctxt "162946485-0-12291"
-msgid "Regulation Chamber"
-msgstr "규제실"
-
-#: 162946485-0-12288
-msgctxt "162946485-0-12288"
-msgid "Delver Terminal"
-msgstr ""
-
-#: 162946485-0-12287
-msgctxt "162946485-0-12287"
-msgid "Luciana Comment"
-msgstr "루시아나의 비평"
-
-#: 162946485-0-12286
-msgctxt "162946485-0-12286"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 162946485-0-12285
-msgctxt "162946485-0-12285"
-msgid "Q6057 EscapeKlepsydra"
-msgstr ""
-
-#: 162946485-0-12284
-msgctxt "162946485-0-12284"
-msgid "FindSothaSil"
-msgstr ""
-
-#: 162946485-0-12283
-msgctxt "162946485-0-12283"
-msgid "Delver Terminal"
-msgstr ""
-
-#: 162946485-0-12282
-msgctxt "162946485-0-12282"
-msgid "Q6057 SpawnSurvivor"
-msgstr ""
-
-#: 162946485-0-12281
-msgctxt "162946485-0-12281"
-msgid "FollowLuci"
-msgstr ""
-
-#: 162946485-0-12280
-msgctxt "162946485-0-12280"
-msgid "Kireth Combat Follower"
-msgstr ""
-
-#: 162946485-0-12279
-msgctxt "162946485-0-12279"
-msgid "Luciana Follow"
-msgstr ""
-
-#: 162946485-0-12277
-msgctxt "162946485-0-12277"
-msgid "Q6057 BaldanOverlookSZ"
-msgstr ""
-
-#: 162946485-0-12275
-msgctxt "162946485-0-12275"
-msgid "Q6057 FindEvidenceSubzone"
-msgstr ""
-
-#: 162946485-0-12274
-msgctxt "162946485-0-12274"
-msgid "Q6057 SqueakerMaze"
-msgstr ""
-
-#: 162946485-0-12273
-msgctxt "162946485-0-12273"
-msgid "Cogitum Centralis"
-msgstr "코지툼의 중심부"
-
-#: 162946485-0-12272
-msgctxt "162946485-0-12272"
-msgid "Q6057 SpawnRaynorFollower"
-msgstr ""
-
-#: 162946485-0-12270
-msgctxt "162946485-0-12270"
-msgid "Delver Terminal"
-msgstr ""
-
-#: 162946485-0-12269
-msgctxt "162946485-0-12269"
-msgid "Delver Terminal"
-msgstr ""
-
-#: 162946485-0-12268
-msgctxt "162946485-0-12268"
-msgid "Generator Room"
-msgstr ""
-
-#: 162946485-0-12267
-msgctxt "162946485-0-12267"
-msgid "Oasis Gate"
-msgstr "오아시스 문"
-
-#: 162946485-0-12266
-msgctxt "162946485-0-12266"
-msgid "Terminus Door"
-msgstr ""
-
-#: 162946485-0-12264
-msgctxt "162946485-0-12264"
-msgid "Spawn Snuffler"
-msgstr ""
-
-#: 162946485-0-12263
-msgctxt "162946485-0-12263"
-msgid "Spawn Snuffler"
-msgstr ""
-
-#: 162946485-0-12261
-msgctxt "162946485-0-12261"
-msgid "EscapeEscapement"
-msgstr ""
-
-#: 162946485-0-12260
-msgctxt "162946485-0-12260"
-msgid "Oasis"
-msgstr "오아시스"
-
-#: 162946485-0-12258
-msgctxt "162946485-0-12258"
-msgid "Q6050 DivaythFollower"
-msgstr ""
-
-#: 162946485-0-12257
-msgctxt "162946485-0-12257"
-msgid "DivaythInLedgeRoom"
-msgstr ""
-
-#: 162946485-0-12256
-msgctxt "162946485-0-12256"
-msgid "Clockwork Cave"
-msgstr ""
-
-#: 162946485-0-12255
-msgctxt "162946485-0-12255"
-msgid "Elevator"
-msgstr "엘리베이터"
-
-#: 162946485-0-12254
-msgctxt "162946485-0-12254"
-msgid "Ventral Terminus Entrance"
-msgstr "내면의 종착 입구"
-
-#: 162946485-0-12253
-msgctxt "162946485-0-12253"
-msgid "Ventral Terminus Entrance"
-msgstr "내면의 종착 입구"
-
-#: 162946485-0-12252
-msgctxt "162946485-0-12252"
-msgid "Talk to Cultist"
-msgstr "광신도와 대화하기"
-
-#: 162946485-0-12251
-msgctxt "162946485-0-12251"
-msgid "Talk to Cultist"
-msgstr "광신도와 대화하기"
-
-#: 162946485-0-12250
-msgctxt "162946485-0-12250"
-msgid "CWC_oasis_map3"
-msgstr ""
-
-#: 162946485-0-12249
-msgctxt "162946485-0-12249"
-msgid "CWC_oasis_map2"
-msgstr ""
-
-#: 162946485-0-12248
-msgctxt "162946485-0-12248"
-msgid "CWC_oasis_map1"
-msgstr ""
-
-#: 162946485-0-12247
-msgctxt "162946485-0-12247"
-msgid "CWC_CCQ4_map4"
-msgstr ""
-
-#: 162946485-0-12246
-msgctxt "162946485-0-12246"
-msgid "CWC_CCQ4_map3"
-msgstr ""
-
-#: 162946485-0-12245
-msgctxt "162946485-0-12245"
-msgid "CWC_CCQ4_map2"
-msgstr ""
-
-#: 162946485-0-12244
-msgctxt "162946485-0-12244"
-msgid "CWC_CCQ4_map1"
-msgstr ""
-
-#: 162946485-0-12242
-msgctxt "162946485-0-12242"
-msgid "CCUnderground"
-msgstr ""
-
-#: 162946485-0-12241
-msgctxt "162946485-0-12241"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 162946485-0-12240
-msgctxt "162946485-0-12240"
-msgid "Naril's Workshop"
-msgstr "나릴의 작업실"
-
-#: 162946485-0-12238
-msgctxt "162946485-0-12238"
-msgid "Evergloam Cave"
-msgstr "에버글룸 동굴"
-
-#: 162946485-0-12236
-msgctxt "162946485-0-12236"
-msgid "CWC_CCQ1_map2"
-msgstr ""
-
-#: 162946485-0-12235
-msgctxt "162946485-0-12235"
-msgid "CWC_CCQ1_map1"
-msgstr ""
-
-#: 162946485-0-12234
-msgctxt "162946485-0-12234"
-msgid "Oasis Gate"
-msgstr "오아시스 문"
-
-#: 162946485-0-12233
-msgctxt "162946485-0-12233"
-msgid "Evergloam"
-msgstr "에버글룸"
-
-#: 162946485-0-12230
-msgctxt "162946485-0-12230"
-msgid "Oasis Gate"
-msgstr "오아시스 문"
-
-#: 162946485-0-12229
-msgctxt "162946485-0-12229"
-msgid "The Shadow Cleft"
-msgstr "그림자의 틈새"
-
-#: 162946485-0-12227
-msgctxt "162946485-0-12227"
-msgid "Q6049 Investigate"
-msgstr ""
-
-#: 162946485-0-12226
-msgctxt "162946485-0-12226"
-msgid "Shadow Cleft"
-msgstr "그림자 틈새"
-
-#: 162946485-0-12225
-msgctxt "162946485-0-12225"
-msgid "The Escapement"
-msgstr ""
-
-#: 162946485-0-12224
-msgctxt "162946485-0-12224"
-msgid "Clockwork Vault"
-msgstr "클락워크 금고"
-
-#: 162946485-0-12223
-msgctxt "162946485-0-12223"
-msgid "Chase Shadow"
-msgstr ""
-
-#: 162946485-0-12222
-msgctxt "162946485-0-12222"
-msgid "Chase Shadow"
-msgstr ""
-
-#: 162946485-0-12221
-msgctxt "162946485-0-12221"
-msgid "Chase Shadow"
+#: 28666901-0-1678
+msgctxt "28666901-0-1678"
+msgid "Shadow Cleft Graveyard"
+msgstr "그림자 틈새 묘지"
+
+#: 162946485-0-12462
+msgctxt "162946485-0-12462"
+msgid "CWC_planisphere_map3"
 msgstr ""
 
 #: 162946485-0-12220
@@ -5035,14 +3393,34 @@ msgctxt "162946485-0-12220"
 msgid "Brass City Gates"
 msgstr ""
 
-#: 162946485-0-12219
-msgctxt "162946485-0-12219"
-msgid "Midnight Menagerie"
+#: 19398485-0-2524
+msgctxt "19398485-0-2524"
+msgid "Warning to All Residents"
+msgstr "모든 거주민들에게 경고함"
+
+#: 28666901-0-1677
+msgctxt "28666901-0-1677"
+msgid "Halls of Regulation Graveyard"
+msgstr "통제실 폐기장"
+
+#: 28666901-0-1676
+msgctxt "28666901-0-1676"
+msgid "Clockwork City Vault"
+msgstr "클락워크 시티 금고"
+
+#: 162946485-0-12460
+msgctxt "162946485-0-12460"
+msgid "CWC_planisphere_map1"
 msgstr ""
 
-#: 162946485-0-12218
-msgctxt "162946485-0-12218"
-msgid "Clockwork City Globe"
+#: 28666901-0-1671
+msgctxt "28666901-0-1671"
+msgid "Brass Fortress Wayshrine"
+msgstr "황동 요새 성소"
+
+#: 162946485-0-12458
+msgctxt "162946485-0-12458"
+msgid "Shipping Room"
 msgstr ""
 
 #: 162946485-0-12216
@@ -5050,194 +3428,254 @@ msgctxt "162946485-0-12216"
 msgid "Gascone's Room"
 msgstr ""
 
-#: 162946485-0-12185
-msgctxt "162946485-0-12185"
-msgid "Q6036 Workshop"
+#: 162946485-0-12459
+msgctxt "162946485-0-12459"
+msgid "Front Office"
 msgstr ""
 
-#: 162946485-0-12151
-msgctxt "162946485-0-12151"
-msgid "The Orbservatory Prior"
-msgstr "선행 오브관측소 "
+#: 162946485-0-12457
+msgctxt "162946485-0-12457"
+msgid "LucianaEnder"
+msgstr ""
 
-#: 162946485-0-12149
-msgctxt "162946485-0-12149"
+#: 162946485-0-12218
+msgctxt "162946485-0-12218"
+msgid "Clockwork City Globe"
+msgstr ""
+
+#: 162946485-0-12219
+msgctxt "162946485-0-12219"
+msgid "Midnight Menagerie"
+msgstr ""
+
+#: 162946485-0-12687
+msgctxt "162946485-0-12687"
+msgid "Twilight Cliffs"
+msgstr ""
+
+#: 87370069-0-23540
+msgctxt "87370069-0-23540"
+msgid "Portal to Mournhold"
+msgstr "모운홀드로 향하는 포탈"
+
+#: 87370069-0-23302
+msgctxt "87370069-0-23302"
+msgid "Transmute Station"
+msgstr "변성 작업대"
+
+#: 87370069-0-23307
+msgctxt "87370069-0-23307"
+msgid "Reassembled Lamp"
+msgstr ""
+
+#: 39619172-0-9561
+msgctxt "39619172-0-9561"
+msgid "Nutriment Dispenser"
+msgstr ""
+
+#: 39619172-0-9560
+msgctxt "39619172-0-9560"
+msgid "Nutriment Dispenser"
+msgstr ""
+
+#: 162946485-0-12410
+msgctxt "162946485-0-12410"
+msgid "Q6080 UseQuestItem1-Gate"
+msgstr ""
+
+#: 162946485-0-12895
+msgctxt "162946485-0-12895"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 162946485-0-12411
+msgctxt "162946485-0-12411"
+msgid "Q6080 UseQuestItem2-Cottage"
+msgstr ""
+
+#: 162946485-0-12414
+msgctxt "162946485-0-12414"
+msgid "Elevator Room"
+msgstr ""
+
+#: 162946485-0-12415
+msgctxt "162946485-0-12415"
+msgid "Elevator Room"
+msgstr ""
+
+#: 162946485-0-12896
+msgctxt "162946485-0-12896"
 msgid "Everwound Wellspring"
 msgstr "에버웬 원천지"
 
-#: 162946485-0-12148
-msgctxt "162946485-0-12148"
+#: 162946485-0-12412
+msgctxt "162946485-0-12412"
+msgid "Q6080 UseQuestItem3"
+msgstr ""
+
+#: 162946485-0-12413
+msgctxt "162946485-0-12413"
+msgid "Q6057 RaynorInitialSpawn"
+msgstr ""
+
+#: 162946485-0-12418
+msgctxt "162946485-0-12418"
+msgid "The Inner Curiosity"
+msgstr "내면의 호기심"
+
+#: 162946485-0-12419
+msgctxt "162946485-0-12419"
+msgid "The All-Axle"
+msgstr ""
+
+#: 162946485-0-12416
+msgctxt "162946485-0-12416"
+msgid "Water Conduit Tunnels"
+msgstr ""
+
+#: 162946485-0-12659
+msgctxt "162946485-0-12659"
+msgid "Wraith of Crows"
+msgstr ""
+
+#: 162946485-0-12417
+msgctxt "162946485-0-12417"
+msgid "Halls Of Convention"
+msgstr ""
+
+#: 87370069-0-23525
+msgctxt "87370069-0-23525"
+msgid "The Law of Gears"
+msgstr "기어의 법률"
+
+#: 87370069-0-23527
+msgctxt "87370069-0-23527"
+msgid "Prayer to the Furious One"
+msgstr "분노하는 자에게 올리는 기도문"
+
+#: 87370069-0-23526
+msgctxt "87370069-0-23526"
+msgid "Daedra Dossier: Cold-Flame Atronach"
+msgstr "데이드라 조서: 냉기-화염 아트로나크"
+
+#: 162946485-0-12890
+msgctxt "162946485-0-12890"
+msgid "Machine District"
+msgstr "기계 구역"
+
+#: 162946485-0-12404
+msgctxt "162946485-0-12404"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 162946485-0-12405
+msgctxt "162946485-0-12405"
+msgid "Q6078 Bestow Theater"
+msgstr ""
+
+#: 162946485-0-12648
+msgctxt "162946485-0-12648"
+msgid "Reactor District West"
+msgstr ""
+
+#: 87370069-0-23179
+msgctxt "87370069-0-23179"
+msgid "Halinjirr's Notes"
+msgstr "하린지르의 쪽지"
+
+#: 164009093-1-5300
+msgctxt "164009093-1-5300"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 162946485-0-12281
+msgctxt "162946485-0-12281"
+msgid "FollowLuci"
+msgstr ""
+
+#: 162946485-0-12282
+msgctxt "162946485-0-12282"
+msgid "Q6057 SpawnSurvivor"
+msgstr ""
+
+#: 267200725-0-1376
+msgctxt "267200725-0-1376"
 msgid "Mnemonic Planisphere"
 msgstr "기억의 천체도"
-
-#: 162946485-0-12147
-msgctxt "162946485-0-12147"
-msgid "The Shadow Cleft"
-msgstr "그림자의 틈새"
-
-#: 162946485-0-12146
-msgctxt "162946485-0-12146"
-msgid "Halls of Regulation"
-msgstr "통제실"
-
-#: 162946485-0-12145
-msgctxt "162946485-0-12145"
-msgid "Exarchs' Egress"
-msgstr ""
-
-#: 162946485-0-12144
-msgctxt "162946485-0-12144"
-msgid "Sanctuary of Verification"
-msgstr "검증의 성역"
-
-#: 162946485-0-12143
-msgctxt "162946485-0-12143"
-msgid "Sanctuary Wayshrine"
-msgstr "성역 성소"
-
-#: 162946485-0-12142
-msgctxt "162946485-0-12142"
-msgid "Mire Mechanica Wayshrine"
-msgstr "기계 수렁 성소"
-
-#: 162946485-0-12141
-msgctxt "162946485-0-12141"
-msgid "Clockwork Crossroads Wayshrine"
-msgstr "클락워크 교차로 성소"
-
-#: 162946485-0-12140
-msgctxt "162946485-0-12140"
-msgid "Brass Fortress Wayshrine"
-msgstr "황동 요새 성소"
-
-#: 162946485-0-12139
-msgctxt "162946485-0-12139"
-msgid "Brass Fortress"
-msgstr "황동 요새 "
-
-#: 162946485-0-12138
-msgctxt "162946485-0-12138"
-msgid "Barilzar's Eighth Laboratory"
-msgstr "바릴자르의 8번째 실험실"
-
-#: 162946485-0-12137
-msgctxt "162946485-0-12137"
-msgid "Mire Mechanica"
-msgstr "기계 수렁"
-
-#: 162946485-0-12136
-msgctxt "162946485-0-12136"
-msgid "Ventral Terminus"
-msgstr "내면의 종착"
-
-#: 162946485-0-12135
-msgctxt "162946485-0-12135"
-msgid "Vale of Tiers"
-msgstr "계층의 계곡"
-
-#: 162946485-0-12134
-msgctxt "162946485-0-12134"
-msgid "Insalubrious Effluvium"
-msgstr "불결한 악취"
-
-#: 162946485-0-12133
-msgctxt "162946485-0-12133"
-msgid "Elegiac Replication"
-msgstr "애가 복제"
-
-#: 162946485-0-12085
-msgctxt "162946485-0-12085"
-msgid "Spawn Snuffler"
-msgstr ""
-
-#: 146361138-0-1153
-msgctxt "146361138-0-1153"
-msgid "Shadowy Supplier"
-msgstr "그림자의 배달부"
-
-#: 146361138-0-1152
-msgctxt "146361138-0-1152"
-msgid "Daram Stables"
-msgstr "다람 마굿간"
-
-#: 146361138-0-1151
-msgctxt "146361138-0-1151"
-msgid "Slag Town Outlaws Refuge"
-msgstr " 슬라그 타운 무법자의 은신처"
-
-#: 146361138-0-1150
-msgctxt "146361138-0-1150"
-msgid "Hall of Refined Techniques, Central Nexus"
-msgstr " 궁극적인 기교의 홀, 중앙 넥서스"
-
-#: 146361138-0-1149
-msgctxt "146361138-0-1149"
-msgid "Guild Trader"
-msgstr "길드 상인"
-
-#: 146361138-0-1148
-msgctxt "146361138-0-1148"
-msgid "Domicile Enhancement Hub"
-msgstr "확장된 거주지 허브"
-
-#: 146361138-0-1147
-msgctxt "146361138-0-1147"
-msgid "The Grand Depository"
-msgstr "대형 금고"
-
-#: 146361138-0-1146
-msgctxt "146361138-0-1146"
-msgid "Moneylender"
-msgstr "사채업자"
-
-#: 146361138-0-1145
-msgctxt "146361138-0-1145"
-msgid "General Goods Merchant"
-msgstr "일반 잡화 상인"
-
-#: 146361138-0-1144
-msgctxt "146361138-0-1144"
-msgid "Fence"
-msgstr "장물아비"
-
-#: 146361138-0-1143
-msgctxt "146361138-0-1143"
-msgid "Fence"
-msgstr "장물아비"
-
-#: 146361138-0-1142
-msgctxt "146361138-0-1142"
-msgid "Slag Town Outlaws Refuge"
-msgstr " 슬라그 타운 무법자의 은신처"
-
-#: 146361138-0-1141
-msgctxt "146361138-0-1141"
-msgid "Hall of Refined Techniques, South Wing"
-msgstr " 궁극적인 기교의 홀, 남동쪽"
-
-#: 146361138-0-1140
-msgctxt "146361138-0-1140"
-msgid "Hall of Refined Techniques, North Wing"
-msgstr " 궁극적인 기교의 홀, 북동쪽"
-
-#: 146361138-0-1139
-msgctxt "146361138-0-1139"
-msgid "The Cloisters"
-msgstr "회랑"
-
-#: 146361138-0-1138
-msgctxt "146361138-0-1138"
-msgid "Chancel of Transaction"
-msgstr "성직자의 업무 거리"
 
 #: 81344020-0-1134
 msgctxt "81344020-0-1134"
 msgid "Storage Solutions"
 msgstr ""
 
+#: 19398485-0-2464
+msgctxt "19398485-0-2464"
+msgid "Oily Fishing Hole"
+msgstr "기름 낚시터"
+
+#: 267200725-0-1375
+msgctxt "267200725-0-1375"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
+#: 162946485-0-12280
+msgctxt "162946485-0-12280"
+msgid "Kireth Combat Follower"
+msgstr ""
+
 #: 81344020-0-1133
 msgctxt "81344020-0-1133"
 msgid "Transcendent Transmutations"
+msgstr ""
+
+#: 162946485-0-12285
+msgctxt "162946485-0-12285"
+msgid "Q6057 EscapeKlepsydra"
+msgstr ""
+
+#: 162946485-0-12286
+msgctxt "162946485-0-12286"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 146361138-0-1139
+msgctxt "146361138-0-1139"
+msgid "The Cloisters"
+msgstr "회랑"
+
+#: 162946485-0-12283
+msgctxt "162946485-0-12283"
+msgid "Delver Terminal"
+msgstr ""
+
+#: 146361138-0-1138
+msgctxt "146361138-0-1138"
+msgid "Chancel of Transaction"
+msgstr "성직자의 업무 거리"
+
+#: 267200725-0-1379
+msgctxt "267200725-0-1379"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 162946485-0-12284
+msgctxt "162946485-0-12284"
+msgid "FindSothaSil"
+msgstr ""
+
+#: 162946485-0-12279
+msgctxt "162946485-0-12279"
+msgid "Luciana Follow"
+msgstr ""
+
+#: 164009093-1-5309
+msgctxt "164009093-1-5309"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 162946485-0-12277
+msgctxt "162946485-0-12277"
+msgid "Q6057 BaldanOverlookSZ"
 msgstr ""
 
 #: 81344020-0-1132
@@ -5255,24 +3693,64 @@ msgctxt "81344020-0-1130"
 msgid "Daram Stables"
 msgstr "다람 마굿간"
 
-#: 81344020-0-1129
-msgctxt "81344020-0-1129"
-msgid "Thief Constellation"
-msgstr ""
+#: 267200725-0-1371
+msgctxt "267200725-0-1371"
+msgid "Halls of Regulation"
+msgstr "통제실"
 
-#: 81344020-0-1128
-msgctxt "81344020-0-1128"
-msgid "Mage Constellation"
-msgstr ""
+#: 164009093-1-5304
+msgctxt "164009093-1-5304"
+msgid "Pneumatic Forge"
+msgstr "공압 대장간"
 
-#: 81344020-0-1127
-msgctxt "81344020-0-1127"
-msgid "Warrior Constellation"
-msgstr ""
+#: 164009093-1-5303
+msgctxt "164009093-1-5303"
+msgid "Portal to the Clockwork City"
+msgstr "클락워크 시티로 향하는 포탈"
 
-#: 81344020-0-1126
-msgctxt "81344020-0-1126"
-msgid "Nutrient Dispensary"
+#: 164009093-1-5302
+msgctxt "164009093-1-5302"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5301
+msgctxt "164009093-1-5301"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5308
+msgctxt "164009093-1-5308"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 164009093-1-5307
+msgctxt "164009093-1-5307"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 164009093-1-5306
+msgctxt "164009093-1-5306"
+msgid "Clockwork Nave"
+msgstr "클락워크 본당"
+
+#: 164009093-1-5305
+msgctxt "164009093-1-5305"
+msgid "Skywalk"
+msgstr "하늘길"
+
+#: 164009093-1-5311
+msgctxt "164009093-1-5311"
+msgid "Entry Hall"
+msgstr "현관"
+
+#: 164009093-1-5310
+msgctxt "164009093-1-5310"
+msgid "Entry Hall"
+msgstr "현관"
+
+#: 162946485-0-12270
+msgctxt "162946485-0-12270"
+msgid "Delver Terminal"
 msgstr ""
 
 #: 81344020-0-1125
@@ -5285,6 +3763,11 @@ msgctxt "81344020-0-1124"
 msgid "Everlasting Enchantments"
 msgstr ""
 
+#: 19398485-0-2454
+msgctxt "19398485-0-2454"
+msgid "The Factotum's Secret Voice"
+msgstr "팩토튬의 비밀스러운 목소리"
+
 #: 81344020-0-1123
 msgctxt "81344020-0-1123"
 msgid "Regulation Regalia"
@@ -5295,14 +3778,799 @@ msgctxt "81344020-0-1122"
 msgid "Handiwork Woodworking"
 msgstr ""
 
+#: 162946485-0-12274
+msgctxt "162946485-0-12274"
+msgid "Q6057 SqueakerMaze"
+msgstr ""
+
+#: 81344020-0-1129
+msgctxt "81344020-0-1129"
+msgid "Thief Constellation"
+msgstr ""
+
+#: 162946485-0-12275
+msgctxt "162946485-0-12275"
+msgid "Q6057 FindEvidenceSubzone"
+msgstr ""
+
+#: 81344020-0-1128
+msgctxt "81344020-0-1128"
+msgid "Mage Constellation"
+msgstr ""
+
+#: 162946485-0-12272
+msgctxt "162946485-0-12272"
+msgid "Q6057 SpawnRaynorFollower"
+msgstr ""
+
+#: 81344020-0-1127
+msgctxt "81344020-0-1127"
+msgid "Warrior Constellation"
+msgstr ""
+
+#: 162946485-0-12273
+msgctxt "162946485-0-12273"
+msgid "Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 81344020-0-1126
+msgctxt "81344020-0-1126"
+msgid "Nutrient Dispensary"
+msgstr ""
+
+#: 162946485-0-12267
+msgctxt "162946485-0-12267"
+msgid "Oasis Gate"
+msgstr "오아시스 문"
+
+#: 162946485-0-12268
+msgctxt "162946485-0-12268"
+msgid "Generator Room"
+msgstr ""
+
+#: 162946485-0-12266
+msgctxt "162946485-0-12266"
+msgid "Terminus Door"
+msgstr ""
+
+#: 19398485-0-2452
+msgctxt "19398485-0-2452"
+msgid "Proctor Luciana's Journal, Vol 4"
+msgstr "대변자 루시아나의 일지, 제 4권"
+
+#: 267200725-0-1363
+msgctxt "267200725-0-1363"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
 #: 81344020-0-1121
 msgctxt "81344020-0-1121"
 msgid "Colors of Clockwork"
 msgstr ""
 
+#: 19398485-0-2451
+msgctxt "19398485-0-2451"
+msgid "Proctor Luciana's Journal, Vol 3"
+msgstr "대변자 루시아나의 일지, 제 3권"
+
+#: 267200725-0-1362
+msgctxt "267200725-0-1362"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
 #: 81344020-0-1120
 msgctxt "81344020-0-1120"
 msgid "Alchemical Innovations"
+msgstr ""
+
+#: 19398485-0-2450
+msgctxt "19398485-0-2450"
+msgid "Proctor Luciana's Journal, Vol 2"
+msgstr "대변자 루시아나의 일지, 제 2권"
+
+#: 267200725-0-1361
+msgctxt "267200725-0-1361"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 162946485-0-12269
+msgctxt "162946485-0-12269"
+msgid "Delver Terminal"
+msgstr ""
+
+#: 267200725-0-1360
+msgctxt "267200725-0-1360"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-1-5314
+msgctxt "164009093-1-5314"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5313
+msgctxt "164009093-1-5313"
+msgid "Restricted Area"
+msgstr "제한 구역"
+
+#: 164009093-1-5312
+msgctxt "164009093-1-5312"
+msgid "Audience Hall"
+msgstr "청중 회관"
+
+#: 87370069-0-23195
+msgctxt "87370069-0-23195"
+msgid "Projector"
+msgstr ""
+
+#: 164009093-1-5317
+msgctxt "164009093-1-5317"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 87370069-0-23198
+msgctxt "87370069-0-23198"
+msgid "A Plea for Help"
+msgstr ""
+
+#: 164009093-1-5316
+msgctxt "164009093-1-5316"
+msgid "The Grand Depository"
+msgstr "대형 금고"
+
+#: 87370069-0-23197
+msgctxt "87370069-0-23197"
+msgid "Light"
+msgstr "빛"
+
+#: 19398485-0-2489
+msgctxt "19398485-0-2489"
+msgid "Door"
+msgstr "문"
+
+#: 267200725-0-1392
+msgctxt "267200725-0-1392"
+msgid "Asylum Atrium Upper Level"
+msgstr "격리소 마당 상층부"
+
+#: 146361138-0-1150
+msgctxt "146361138-0-1150"
+msgid "Hall of Refined Techniques, Central Nexus"
+msgstr " 궁극적인 기교의 홀, 중앙 넥서스"
+
+#: 267200725-0-1391
+msgctxt "267200725-0-1391"
+msgid "Asylum Atrium"
+msgstr "격리소 마당"
+
+#: 162946485-0-12298
+msgctxt "162946485-0-12298"
+msgid "Repair Humidifier"
+msgstr ""
+
+#: 164009093-1-5529
+msgctxt "164009093-1-5529"
+msgid "Leave Home"
+msgstr "나가기"
+
+#: 260523861-1-35
+msgctxt "260523861-1-35"
+msgid "Banner 2"
+msgstr "깃발 2"
+
+#: 162946485-0-12299
+msgctxt "162946485-0-12299"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 146361138-0-1153
+msgctxt "146361138-0-1153"
+msgid "Shadowy Supplier"
+msgstr "그림자의 배달부"
+
+#: 146361138-0-1152
+msgctxt "146361138-0-1152"
+msgid "Daram Stables"
+msgstr "다람 마굿간"
+
+#: 146361138-0-1151
+msgctxt "146361138-0-1151"
+msgid "Slag Town Outlaws Refuge"
+msgstr " 슬라그 타운 무법자의 은신처"
+
+#: 87370069-0-23161
+msgctxt "87370069-0-23161"
+msgid "Gascone's Memorandum"
+msgstr "게스콘의 각서"
+
+#: 87370069-0-23163
+msgctxt "87370069-0-23163"
+msgid "Transmute Station"
+msgstr "변성 작업대"
+
+#: 87370069-0-23165
+msgctxt "87370069-0-23165"
+msgid "Star"
+msgstr "별"
+
+#: 87370069-0-23169
+msgctxt "87370069-0-23169"
+msgid "Oblivion Fissure"
+msgstr "오블리비언의 균열"
+
+#: 164009093-1-5530
+msgctxt "164009093-1-5530"
+msgid "Orbservatory Interior"
+msgstr "오브관측소 내부"
+
+#: 162946485-0-12292
+msgctxt "162946485-0-12292"
+msgid "Q6058 Follower"
+msgstr ""
+
+#: 146361138-0-1147
+msgctxt "146361138-0-1147"
+msgid "The Grand Depository"
+msgstr "대형 금고"
+
+#: 164009093-0-5504
+msgctxt "164009093-0-5504"
+msgid "Orbservatory Sub-Level"
+msgstr "오브관측소 지하층"
+
+#: 162946485-0-12293
+msgctxt "162946485-0-12293"
+msgid "Planisphere"
+msgstr "천체도"
+
+#: 146361138-0-1146
+msgctxt "146361138-0-1146"
+msgid "Moneylender"
+msgstr "사채업자"
+
+#: 164009093-0-5507
+msgctxt "164009093-0-5507"
+msgid "Orbservatory Interior"
+msgstr "오브관측소 내부"
+
+#: 267200725-0-1387
+msgctxt "267200725-0-1387"
+msgid "Clockwork Basilica"
+msgstr "클락워크 공회당"
+
+#: 146361138-0-1145
+msgctxt "146361138-0-1145"
+msgid "General Goods Merchant"
+msgstr "일반 잡화 상인"
+
+#: 164009093-0-5506
+msgctxt "164009093-0-5506"
+msgid "Pariah's Pinnacle"
+msgstr "파리아의 산정"
+
+#: 267200725-0-1386
+msgctxt "267200725-0-1386"
+msgid "Clockwork Basilica"
+msgstr "클락워크 공회당"
+
+#: 162946485-0-12291
+msgctxt "162946485-0-12291"
+msgid "Regulation Chamber"
+msgstr "통제실 내실"
+
+#: 146361138-0-1144
+msgctxt "146361138-0-1144"
+msgid "Fence"
+msgstr "장물아비"
+
+#: 162946485-0-12296
+msgctxt "162946485-0-12296"
+msgid "Sotha Sil Spinups"
+msgstr "소사 실의 스핀 업"
+
+#: 162946485-0-12297
+msgctxt "162946485-0-12297"
+msgid "Blackfeather Castle"
+msgstr "검은깃털 성"
+
+#: 164009093-0-5503
+msgctxt "164009093-0-5503"
+msgid "The Orbservatory Prior"
+msgstr "선행 오브관측소 "
+
+#: 162946485-0-12294
+msgctxt "162946485-0-12294"
+msgid "Crows"
+msgstr ""
+
+#: 146361138-0-1149
+msgctxt "146361138-0-1149"
+msgid "Guild Trader"
+msgstr "길드 상인"
+
+#: 164009093-0-5502
+msgctxt "164009093-0-5502"
+msgid "Orbservatory Elevator Shaft"
+msgstr "오브관측소 엘레베이터 손잡이"
+
+#: 162946485-0-12295
+msgctxt "162946485-0-12295"
+msgid "Blackfeather Castle"
+msgstr "검은깃털 성"
+
+#: 146361138-0-1148
+msgctxt "146361138-0-1148"
+msgid "Domicile Enhancement Hub"
+msgstr "확장된 거주지 허브"
+
+#: 162946485-0-12287
+msgctxt "162946485-0-12287"
+msgid "Luciana Comment"
+msgstr "루시아나의 비평"
+
+#: 162946485-0-12288
+msgctxt "162946485-0-12288"
+msgid "Delver Terminal"
+msgstr ""
+
+#: 267200725-0-1385
+msgctxt "267200725-0-1385"
+msgid "Clockwork Basilica"
+msgstr "클락워크 공회당"
+
+#: 146361138-0-1143
+msgctxt "146361138-0-1143"
+msgid "Fence"
+msgstr "장물아비"
+
+#: 267200725-0-1384
+msgctxt "267200725-0-1384"
+msgid "Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 146361138-0-1142
+msgctxt "146361138-0-1142"
+msgid "Slag Town Outlaws Refuge"
+msgstr " 슬라그 타운 무법자의 은신처"
+
+#: 146361138-0-1141
+msgctxt "146361138-0-1141"
+msgid "Hall of Refined Techniques, South Wing"
+msgstr " 궁극적인 기교의 홀, 남동쪽"
+
+#: 146361138-0-1140
+msgctxt "146361138-0-1140"
+msgid "Hall of Refined Techniques, North Wing"
+msgstr " 궁극적인 기교의 홀, 북동쪽"
+
+#: 87370069-0-23171
+msgctxt "87370069-0-23171"
+msgid "Barilzar's Hirelings"
+msgstr "바릴자르의 조수"
+
+#: 87370069-0-23175
+msgctxt "87370069-0-23175"
+msgid "Bulletin Board"
+msgstr ""
+
+#: 19398485-0-2429
+msgctxt "19398485-0-2429"
+msgid "Outsider Observation Report - Log 1"
+msgstr "외부인 정찰 보고서- 1번 기록"
+
+#: 87370069-0-23136
+msgctxt "87370069-0-23136"
+msgid "Electrified Water"
+msgstr ""
+
+#: 267200725-0-1339
+msgctxt "267200725-0-1339"
+msgid "Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 87370069-0-23137
+msgctxt "87370069-0-23137"
+msgid "The Brass Fortress"
+msgstr "황동 요새"
+
+#: 19398485-0-2423
+msgctxt "19398485-0-2423"
+msgid "Eyes of Nothing"
+msgstr "공허한 눈동자"
+
+#: 267200725-0-1334
+msgctxt "267200725-0-1334"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 19398485-0-2422
+msgctxt "19398485-0-2422"
+msgid "The Imperfect Logistics Log"
+msgstr "임퍼펙트 회로 로그"
+
+#: 267200725-0-1333
+msgctxt "267200725-0-1333"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12480
+msgctxt "162946485-0-12480"
+msgid "CWC_MAP_MechFundament_UGLower"
+msgstr ""
+
+#: 19398485-0-2421
+msgctxt "19398485-0-2421"
+msgid "Barilzar's Journal"
+msgstr "바릴자르의 일지"
+
+#: 267200725-0-1332
+msgctxt "267200725-0-1332"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 19398485-0-2420
+msgctxt "19398485-0-2420"
+msgid "Engine of Expression"
+msgstr "표현의 엔진"
+
+#: 19398485-0-2427
+msgctxt "19398485-0-2427"
+msgid "Maintenance Log 5453"
+msgstr "수리 기록 5453"
+
+#: 267200725-0-1338
+msgctxt "267200725-0-1338"
+msgid "Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 162946485-0-12483
+msgctxt "162946485-0-12483"
+msgid "Q6050 DivaythShadowScene"
+msgstr ""
+
+#: 162946485-0-12241
+msgctxt "162946485-0-12241"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 19398485-0-2426
+msgctxt "19398485-0-2426"
+msgid "Maintenance Log 5352"
+msgstr "수리 기록  5352"
+
+#: 267200725-0-1337
+msgctxt "267200725-0-1337"
+msgid "Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 162946485-0-12242
+msgctxt "162946485-0-12242"
+msgid "CCUnderground"
+msgstr ""
+
+#: 19398485-0-2425
+msgctxt "19398485-0-2425"
+msgid "Maintenance Log 4091"
+msgstr "수리 기록 4091"
+
+#: 267200725-0-1336
+msgctxt "267200725-0-1336"
+msgid "Cogitum Centralis"
+msgstr "코지툼의 중심부"
+
+#: 162946485-0-12481
+msgctxt "162946485-0-12481"
+msgid "CWC_MAP_MechFundament_UGUpper"
+msgstr ""
+
+#: 19398485-0-2424
+msgctxt "19398485-0-2424"
+msgid "A Sky of Dusk"
+msgstr "황혼의 하늘"
+
+#: 267200725-0-1335
+msgctxt "267200725-0-1335"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 162946485-0-12482
+msgctxt "162946485-0-12482"
+msgid "Q6050 SpawnDivaythChild"
+msgstr ""
+
+#: 162946485-0-12240
+msgctxt "162946485-0-12240"
+msgid "Naril's Workshop"
+msgstr "나릴의 작업실"
+
+#: 162946485-0-12476
+msgctxt "162946485-0-12476"
+msgid "CWC_MAP_CCQ2_UGLower02"
+msgstr ""
+
+#: 162946485-0-12234
+msgctxt "162946485-0-12234"
+msgid "Oasis Gate"
+msgstr "오아시스 문"
+
+#: 162946485-0-12477
+msgctxt "162946485-0-12477"
+msgid "CWC_MAP_CCQ2_UGUpper02"
+msgstr ""
+
+#: 162946485-0-12235
+msgctxt "162946485-0-12235"
+msgid "CWC_CCQ1_map1"
+msgstr ""
+
+#: 162946485-0-12474
+msgctxt "162946485-0-12474"
+msgid "CWC_MAP_CCQ2_UGLower01"
+msgstr ""
+
+#: 164009093-1-5507
+msgctxt "164009093-1-5507"
+msgid "Orbservatory Landing"
+msgstr "오브관측소 착륙지점"
+
+#: 162946485-0-12475
+msgctxt "162946485-0-12475"
+msgid "CWC_MAP_CCQ2_UGUpper01"
+msgstr ""
+
+#: 162946485-0-12233
+msgctxt "162946485-0-12233"
+msgid "Evergloam"
+msgstr "에버글룸"
+
+#: 267200725-0-1330
+msgctxt "267200725-0-1330"
+msgid "Evergloam Cave"
+msgstr "에버글룸 동굴"
+
+#: 162946485-0-12238
+msgctxt "162946485-0-12238"
+msgid "Evergloam Cave"
+msgstr "에버글룸 동굴"
+
+#: 162946485-0-12478
+msgctxt "162946485-0-12478"
+msgid "Q6036 Workshop Door"
+msgstr ""
+
+#: 162946485-0-12236
+msgctxt "162946485-0-12236"
+msgid "CWC_CCQ1_map2"
+msgstr ""
+
+#: 164009093-1-5502
+msgctxt "164009093-1-5502"
+msgid "Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5506
+msgctxt "164009093-1-5506"
+msgid "Leave Home"
+msgstr "나가기"
+
+#: 164009093-1-5504
+msgctxt "164009093-1-5504"
+msgid "Orbservatory Interior"
+msgstr "오브관측소 내부"
+
+#: 87370069-0-23143
+msgctxt "87370069-0-23143"
+msgid "Flow Valve"
+msgstr ""
+
+#: 164009093-1-5503
+msgctxt "164009093-1-5503"
+msgid "Leave Home"
+msgstr "나가기"
+
+#: 19398485-0-2419
+msgctxt "19398485-0-2419"
+msgid "The Law of Gears"
+msgstr "기어의 법률"
+
+#: 19398485-0-2418
+msgctxt "19398485-0-2418"
+msgid "Ironstalk Mushroom Preservation and Sterilization"
+msgstr ""
+
+#: 267200725-0-1329
+msgctxt "267200725-0-1329"
+msgid "Clockwork City Vaults"
+msgstr "클락워크 시티 지하실"
+
+#: 267200725-0-1328
+msgctxt "267200725-0-1328"
+msgid "Clockwork City Vaults"
+msgstr "클락워크 시티 지하실"
+
+#: 19398485-0-2412
+msgctxt "19398485-0-2412"
+msgid "Light"
+msgstr "빛"
+
+#: 19398485-0-2411
+msgctxt "19398485-0-2411"
+msgid "Light"
+msgstr "빛"
+
+#: 19398485-0-2410
+msgctxt "19398485-0-2410"
+msgid "Light"
+msgstr "빛"
+
+#: 19398485-0-2416
+msgctxt "19398485-0-2416"
+msgid "Realms of the Clockwork City: The Radius"
+msgstr ""
+
+#: 267200725-0-1327
+msgctxt "267200725-0-1327"
+msgid "Clockwork City Vaults"
+msgstr "클락워크 시티 지하실"
+
+#: 162946485-0-12230
+msgctxt "162946485-0-12230"
+msgid "Oasis Gate"
+msgstr "오아시스 문"
+
+#: 19398485-0-2415
+msgctxt "19398485-0-2415"
+msgid "Door"
+msgstr "문"
+
+#: 267200725-0-1326
+msgctxt "267200725-0-1326"
+msgid "Evergloam"
+msgstr "에버글룸"
+
+#: 162946485-0-12473
+msgctxt "162946485-0-12473"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12470
+msgctxt "162946485-0-12470"
+msgid "Cloisters"
+msgstr "회랑"
+
+#: 19398485-0-2413
+msgctxt "19398485-0-2413"
+msgid "Light"
+msgstr "빛"
+
+#: 267200725-0-1324
+msgctxt "267200725-0-1324"
+msgid "The Shadow Cleft"
+msgstr "그림자의 틈새"
+
+#: 162946485-0-12471
+msgctxt "162946485-0-12471"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12223
+msgctxt "162946485-0-12223"
+msgid "Chase Shadow"
+msgstr ""
+
+#: 162946485-0-12466
+msgctxt "162946485-0-12466"
+msgid "CWC_MAP_CCQ2_Maze"
+msgstr ""
+
+#: 162946485-0-12224
+msgctxt "162946485-0-12224"
+msgid "Clockwork Vault"
+msgstr "클락워크 금고"
+
+#: 162946485-0-12463
+msgctxt "162946485-0-12463"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12221
+msgctxt "162946485-0-12221"
+msgid "Chase Shadow"
+msgstr ""
+
+#: 162946485-0-12464
+msgctxt "162946485-0-12464"
+msgid "Raynor Follower Subzone"
+msgstr ""
+
+#: 162946485-0-12222
+msgctxt "162946485-0-12222"
+msgid "Chase Shadow"
+msgstr ""
+
+#: 87370069-0-13317
+msgctxt "87370069-0-13317"
+msgid "Dirt Mound"
+msgstr "흙더미"
+
+#: 162946485-0-12227
+msgctxt "162946485-0-12227"
+msgid "Q6049 Investigate"
+msgstr ""
+
+#: 162946485-0-12467
+msgctxt "162946485-0-12467"
+msgid "CWC_MAP_CCQ2_NexusLower"
+msgstr ""
+
+#: 162946485-0-12225
+msgctxt "162946485-0-12225"
+msgid "The Escapement"
+msgstr ""
+
+#: 162946485-0-12468
+msgctxt "162946485-0-12468"
+msgid "CWC_MAP_CCQ2_NexusUpper"
+msgstr ""
+
+#: 162946485-0-12226
+msgctxt "162946485-0-12226"
+msgid "Shadow Cleft"
+msgstr "그림자 틈새"
+
+#: 87370069-0-23392
+msgctxt "87370069-0-23392"
+msgid "Imperfect"
+msgstr ""
+
+#: 162946485-0-12229
+msgctxt "162946485-0-12229"
+msgid "The Shadow Cleft"
+msgstr "그림자의 틈새"
+
+#: 87370069-0-13318
+msgctxt "87370069-0-13318"
+msgid "Dirt Mound"
+msgstr "흙더미"
+
+#: 87370069-0-23151
+msgctxt "87370069-0-23151"
+msgid "Wise-woman's Journal Page"
+msgstr "현명한 여인의 일지 페이지"
+
+#: 87370069-0-23396
+msgctxt "87370069-0-23396"
+msgid "Invitation to Morrowind"
+msgstr "모로윈드의 초청"
+
+#: 87370069-0-23395
+msgctxt "87370069-0-23395"
+msgid "Novice Oscard's Notes"
+msgstr ""
+
+#: 87370069-0-23153
+msgctxt "87370069-0-23153"
+msgid "KIDNAPPING!"
+msgstr "납치!"
+
+#: 87370069-0-23112
+msgctxt "87370069-0-23112"
+msgid "Dust"
+msgstr ""
+
+#: 87370069-0-23111
+msgctxt "87370069-0-23111"
+msgid "Dust"
+msgstr ""
+
+#: 87370069-0-23114
+msgctxt "87370069-0-23114"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-23113
+msgctxt "87370069-0-23113"
+msgid "Dust"
 msgstr ""
 
 #: 81344020-0-1119
@@ -5310,24 +4578,19 @@ msgctxt "81344020-0-1119"
 msgid "Chancel of Transaction"
 msgstr "성직자의 업무 거리"
 
-#: 81344020-0-1118
-msgctxt "81344020-0-1118"
-msgid "Clockwork Castoffs"
+#: 87370069-0-23116
+msgctxt "87370069-0-23116"
+msgid "Flow Valve"
 msgstr ""
 
-#: 81344020-0-1117
-msgctxt "81344020-0-1117"
-msgid "Uncatalogued Deposits"
-msgstr ""
+#: 19398485-0-2445
+msgctxt "19398485-0-2445"
+msgid "Vivec, the Warrior-Poet"
+msgstr "비벡, 시인이자-전사"
 
-#: 81344020-0-1116
-msgctxt "81344020-0-1116"
-msgid "Lost and Unfound"
-msgstr ""
-
-#: 81344020-0-1115
-msgctxt "81344020-0-1115"
-msgid "Tarnished Leavings"
+#: 267200725-0-1356
+msgctxt "267200725-0-1356"
+msgid "Administration Nexus"
 msgstr ""
 
 #: 81344020-0-1114
@@ -5335,17 +4598,752 @@ msgctxt "81344020-0-1114"
 msgid "Slag Town Swap"
 msgstr ""
 
+#: 267200725-0-1355
+msgctxt "267200725-0-1355"
+msgid "Serviflume"
+msgstr "서비플룸"
+
+#: 162946485-0-12260
+msgctxt "162946485-0-12260"
+msgid "Oasis"
+msgstr "오아시스"
+
 #: 81344020-0-1113
 msgctxt "81344020-0-1113"
 msgid "Brass Top Furnishings"
 msgstr ""
+
+#: 267200725-0-1354
+msgctxt "267200725-0-1354"
+msgid "Slag Town Outlaws Refuge"
+msgstr " 슬라그 타운 무법자의 은신처"
 
 #: 81344020-0-1112
 msgctxt "81344020-0-1112"
 msgid "Seht's Forge"
 msgstr "셋의 대장간"
 
+#: 19398485-0-2442
+msgctxt "19398485-0-2442"
+msgid "Portal"
+msgstr "포탈 "
+
+#: 267200725-0-1353
+msgctxt "267200725-0-1353"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
 #: 81344020-0-1111
 msgctxt "81344020-0-1111"
 msgid "The Grand Depository"
 msgstr "대형 금고"
+
+#: 19398485-0-2449
+msgctxt "19398485-0-2449"
+msgid "Proctor Luciana's Journal, Vol 1"
+msgstr "대변자 루시아나의 일지, 제 1권"
+
+#: 162946485-0-12263
+msgctxt "162946485-0-12263"
+msgid "Spawn Snuffler"
+msgstr ""
+
+#: 81344020-0-1118
+msgctxt "81344020-0-1118"
+msgid "Clockwork Castoffs"
+msgstr ""
+
+#: 19398485-0-2448
+msgctxt "19398485-0-2448"
+msgid "Sotha Nall"
+msgstr "소사 넬"
+
+#: 267200725-0-1359
+msgctxt "267200725-0-1359"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 162946485-0-12264
+msgctxt "162946485-0-12264"
+msgid "Spawn Snuffler"
+msgstr ""
+
+#: 81344020-0-1117
+msgctxt "81344020-0-1117"
+msgid "Uncatalogued Deposits"
+msgstr ""
+
+#: 19398485-0-2447
+msgctxt "19398485-0-2447"
+msgid "Nerevar the Captain"
+msgstr "대장군 네레바"
+
+#: 267200725-0-1358
+msgctxt "267200725-0-1358"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 162946485-0-12261
+msgctxt "162946485-0-12261"
+msgid "EscapeEscapement"
+msgstr ""
+
+#: 81344020-0-1116
+msgctxt "81344020-0-1116"
+msgid "Lost and Unfound"
+msgstr ""
+
+#: 19398485-0-2446
+msgctxt "19398485-0-2446"
+msgid "The Defense of Mournhold"
+msgstr "모운홀드 방어"
+
+#: 267200725-0-1357
+msgctxt "267200725-0-1357"
+msgid "Administration Nexus"
+msgstr ""
+
+#: 81344020-0-1115
+msgctxt "81344020-0-1115"
+msgid "Tarnished Leavings"
+msgstr ""
+
+#: 162946485-0-12256
+msgctxt "162946485-0-12256"
+msgid "Clockwork Cave"
+msgstr ""
+
+#: 162946485-0-12257
+msgctxt "162946485-0-12257"
+msgid "DivaythInLedgeRoom"
+msgstr ""
+
+#: 162946485-0-12496
+msgctxt "162946485-0-12496"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12254
+msgctxt "162946485-0-12254"
+msgid "Ventral Terminus Entrance"
+msgstr "내면의 종착 입구"
+
+#: 162946485-0-12497
+msgctxt "162946485-0-12497"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12255
+msgctxt "162946485-0-12255"
+msgid "Elevator"
+msgstr "엘리베이터"
+
+#: 267200725-0-1352
+msgctxt "267200725-0-1352"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
+#: 267200725-0-1351
+msgctxt "267200725-0-1351"
+msgid "Mnemonic Planisphere"
+msgstr "기억의 천체도"
+
+#: 162946485-0-12258
+msgctxt "162946485-0-12258"
+msgid "Q6050 DivaythFollower"
+msgstr ""
+
+#: 87370069-0-23360
+msgctxt "87370069-0-23360"
+msgid "Opening Mechanism"
+msgstr "여는 장치"
+
+#: 87370069-0-23363
+msgctxt "87370069-0-23363"
+msgid "Seeking Tenant!"
+msgstr "임차인 모집!"
+
+#: 87370069-0-23121
+msgctxt "87370069-0-23121"
+msgid "Fresh Parchment"
+msgstr ""
+
+#: 19398485-0-2439
+msgctxt "19398485-0-2439"
+msgid "For Glory!"
+msgstr "영광을 위하여!"
+
+#: 87370069-0-23127
+msgctxt "87370069-0-23127"
+msgid "Excerpts From Fabricated Flora: A Study"
+msgstr ""
+
+#: 19398485-0-2434
+msgctxt "19398485-0-2434"
+msgid "Outsider Observation Report - Log 3"
+msgstr "외부인 정찰 보고서- 3번 기록"
+
+#: 19398485-0-2433
+msgctxt "19398485-0-2433"
+msgid "Outsider Observation Report - Log 2"
+msgstr "외부인 정찰 보고서- 2번 기록"
+
+#: 19398485-0-2432
+msgctxt "19398485-0-2432"
+msgid "Factotum Classification - Log 233"
+msgstr "팩토튬 분류 - 233번 기록"
+
+#: 19398485-0-2431
+msgctxt "19398485-0-2431"
+msgid "Worshiping the Illogical"
+msgstr "비 논리적인 숭배"
+
+#: 267200725-0-1342
+msgctxt "267200725-0-1342"
+msgid "Everwound Wellspring"
+msgstr "에버웬 원천지"
+
+#: 162946485-0-12494
+msgctxt "162946485-0-12494"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12252
+msgctxt "162946485-0-12252"
+msgid "Talk to Cultist"
+msgstr "광신도와 대화하기"
+
+#: 267200725-0-1348
+msgctxt "267200725-0-1348"
+msgid "Brass Fortress"
+msgstr "황동 요새 "
+
+#: 162946485-0-12253
+msgctxt "162946485-0-12253"
+msgid "Ventral Terminus Entrance"
+msgstr "내면의 종착 입구"
+
+#: 162946485-0-12492
+msgctxt "162946485-0-12492"
+msgid "Search delver"
+msgstr ""
+
+#: 162946485-0-12250
+msgctxt "162946485-0-12250"
+msgid "CWC_oasis_map3"
+msgstr ""
+
+#: 162946485-0-12251
+msgctxt "162946485-0-12251"
+msgid "Talk to Cultist"
+msgstr "광신도와 대화하기"
+
+#: 162946485-0-12487
+msgctxt "162946485-0-12487"
+msgid "Asylum Sanctorium"
+msgstr "성자의 격리장"
+
+#: 162946485-0-12245
+msgctxt "162946485-0-12245"
+msgid "CWC_CCQ4_map2"
+msgstr ""
+
+#: 162946485-0-12246
+msgctxt "162946485-0-12246"
+msgid "CWC_CCQ4_map3"
+msgstr ""
+
+#: 162946485-0-12485
+msgctxt "162946485-0-12485"
+msgid "Ventral Terminus"
+msgstr "내면의 종착"
+
+#: 162946485-0-12244
+msgctxt "162946485-0-12244"
+msgid "CWC_CCQ4_map1"
+msgstr ""
+
+#: 19398485-0-2430
+msgctxt "19398485-0-2430"
+msgid "Clockwork Apostle Poetry Collective"
+msgstr "클락워크 사도의 시집"
+
+#: 267200725-0-1341
+msgctxt "267200725-0-1341"
+msgid "Everwound Wellspring"
+msgstr "에버웬 원천지"
+
+#: 162946485-0-12249
+msgctxt "162946485-0-12249"
+msgid "CWC_oasis_map2"
+msgstr ""
+
+#: 267200725-0-1340
+msgctxt "267200725-0-1340"
+msgid "Everwound Wellspring"
+msgstr "에버웬 원천지"
+
+#: 162946485-0-12489
+msgctxt "162946485-0-12489"
+msgid "CWC_MAP_VentralTerminus_Upper"
+msgstr ""
+
+#: 162946485-0-12247
+msgctxt "162946485-0-12247"
+msgid "CWC_CCQ4_map4"
+msgstr ""
+
+#: 162946485-0-12248
+msgctxt "162946485-0-12248"
+msgid "CWC_oasis_map1"
+msgstr ""
+
+#: 87370069-0-23132
+msgctxt "87370069-0-23132"
+msgid "Tank"
+msgstr ""
+
+#: 87370069-0-23131
+msgctxt "87370069-0-23131"
+msgid "Castigation Ritual"
+msgstr ""
+
+#: 87370069-0-22920
+msgctxt "87370069-0-22920"
+msgid "Steam Piston"
+msgstr "증기 피스톤"
+
+#: 87370069-0-22922
+msgctxt "87370069-0-22922"
+msgid "Skeevaton Scrap Pile"
+msgstr ""
+
+#: 87370069-0-22923
+msgctxt "87370069-0-22923"
+msgid "Integral of Memory"
+msgstr "완전한 기억"
+
+#: 87370069-0-22924
+msgctxt "87370069-0-22924"
+msgid "Factotum Head"
+msgstr "팩토튬의 머리"
+
+#: 87370069-0-22925
+msgctxt "87370069-0-22925"
+msgid "Factotum Head"
+msgstr "팩토튬의 머리"
+
+#: 87370069-0-22926
+msgctxt "87370069-0-22926"
+msgid "Installation Framework"
+msgstr ""
+
+#: 87370069-0-22929
+msgctxt "87370069-0-22929"
+msgid "Flow Valve"
+msgstr ""
+
+#: 164009093-0-5334
+msgctxt "164009093-0-5334"
+msgid "Portal to the Shadow Cleft"
+msgstr "그림자 틈새로 가는 포탈"
+
+#: 87370069-0-22930
+msgctxt "87370069-0-22930"
+msgid "Novice Oscard's Notes"
+msgstr ""
+
+#: 87370069-0-22931
+msgctxt "87370069-0-22931"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-22932
+msgctxt "87370069-0-22932"
+msgid "Kamid's Pack"
+msgstr "카미드의 배낭"
+
+#: 87370069-0-22933
+msgctxt "87370069-0-22933"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-22934
+msgctxt "87370069-0-22934"
+msgid "Flow Valve"
+msgstr ""
+
+#: 87370069-0-22935
+msgctxt "87370069-0-22935"
+msgid "Flow Valve"
+msgstr ""
+
+#: 164009093-0-5325
+msgctxt "164009093-0-5325"
+msgid "Proctor Luciana's Retreat"
+msgstr "대변자 루시아나의 은신처"
+
+#: 87370069-0-22936
+msgctxt "87370069-0-22936"
+msgid "Construct's Left Arm"
+msgstr ""
+
+#: 87370069-0-22937
+msgctxt "87370069-0-22937"
+msgid "Construct's Right Arm"
+msgstr ""
+
+#: 87370069-0-22938
+msgctxt "87370069-0-22938"
+msgid "Construct's Left Leg"
+msgstr ""
+
+#: 87370069-0-22939
+msgctxt "87370069-0-22939"
+msgid "Construct's Right Leg"
+msgstr ""
+
+#: 19398485-0-2294
+msgctxt "19398485-0-2294"
+msgid "Runelight Cache"
+msgstr ""
+
+#: 19398485-0-2293
+msgctxt "19398485-0-2293"
+msgid "Runelight Cache"
+msgstr ""
+
+#: 19398485-0-2292
+msgctxt "19398485-0-2292"
+msgid "Counterfeit Coal Stockpile"
+msgstr ""
+
+#: 19398485-0-2291
+msgctxt "19398485-0-2291"
+msgid "Counterfeit Coal Stockpile"
+msgstr ""
+
+#: 19398485-0-2298
+msgctxt "19398485-0-2298"
+msgid "Specious Syrup Cache"
+msgstr ""
+
+#: 19398485-0-2297
+msgctxt "19398485-0-2297"
+msgid "Specious Syrup Cache"
+msgstr ""
+
+#: 19398485-0-2296
+msgctxt "19398485-0-2296"
+msgid "Specious Syrup Cache"
+msgstr ""
+
+#: 19398485-0-2295
+msgctxt "19398485-0-2295"
+msgid "Runelight Cache"
+msgstr ""
+
+#: 19398485-0-2290
+msgctxt "19398485-0-2290"
+msgid "Counterfeit Coal Stockpile"
+msgstr ""
+
+#: 87370069-0-22900
+msgctxt "87370069-0-22900"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22901
+msgctxt "87370069-0-22901"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22902
+msgctxt "87370069-0-22902"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22903
+msgctxt "87370069-0-22903"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22904
+msgctxt "87370069-0-22904"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22905
+msgctxt "87370069-0-22905"
+msgid "Calibration Guide"
+msgstr ""
+
+#: 87370069-0-22906
+msgctxt "87370069-0-22906"
+msgid "The Ballad of Brisbor Battle-Axe [Verse Six]"
+msgstr ""
+
+#: 87370069-0-22908
+msgctxt "87370069-0-22908"
+msgid "Notes on Crow Sightings"
+msgstr ""
+
+#: 87370069-0-22909
+msgctxt "87370069-0-22909"
+msgid "Constable's Lockbox"
+msgstr ""
+
+#: 164009093-1-5373
+msgctxt "164009093-1-5373"
+msgid "Door"
+msgstr "문"
+
+#: 87370069-0-22910
+msgctxt "87370069-0-22910"
+msgid "Ode to a Brass Lily"
+msgstr "황동 백합에게 보내는 송가"
+
+#: 87370069-0-22911
+msgctxt "87370069-0-22911"
+msgid "Love Poem LT0782"
+msgstr "사랑의 시 LT0782"
+
+#: 87370069-0-22912
+msgctxt "87370069-0-22912"
+msgid "Skeleton Key"
+msgstr "해골 열쇠"
+
+#: 164009093-0-5343
+msgctxt "164009093-0-5343"
+msgid "Viewing Garden Vestibule"
+msgstr " 전망의 정원 앞마당"
+
+#: 164009093-0-5342
+msgctxt "164009093-0-5342"
+msgid "Botanical Garden"
+msgstr "식물 정원"
+
+#: 87370069-0-22919
+msgctxt "87370069-0-22919"
+msgid "Door"
+msgstr "문"
+
+#: 164009093-0-5345
+msgctxt "164009093-0-5345"
+msgid "Mechanical Fundament"
+msgstr "기계적 기초"
+
+#: 164009093-0-5344
+msgctxt "164009093-0-5344"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-0-5341
+msgctxt "164009093-0-5341"
+msgid "Archivox"
+msgstr ""
+
+#: 164009093-1-5344
+msgctxt "164009093-1-5344"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-1-5343
+msgctxt "164009093-1-5343"
+msgid "Simulated Sunlight Atelier"
+msgstr "인공 햇빛 아틀리에"
+
+#: 164009093-1-5342
+msgctxt "164009093-1-5342"
+msgid "Botanical Garden Antechamber"
+msgstr ""
+
+#: 164009093-1-5341
+msgctxt "164009093-1-5341"
+msgid "Registrar's Office"
+msgstr "기록원의 집무실"
+
+#: 162946485-0-12085
+msgctxt "162946485-0-12085"
+msgid "Spawn Snuffler"
+msgstr ""
+
+#: 164009093-0-5530
+msgctxt "164009093-0-5530"
+msgid "Orbservatory Sub-Level"
+msgstr "오브관측소 지하층"
+
+#: 164009093-1-5345
+msgctxt "164009093-1-5345"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 164009093-0-5529
+msgctxt "164009093-0-5529"
+msgid "The Orbservatory Prior"
+msgstr "선행 오브관측소 "
+
+#: 164009093-0-5317
+msgctxt "164009093-0-5317"
+msgid "Incarnatorium"
+msgstr "인카르나토리움"
+
+#: 19398485-0-2289
+msgctxt "19398485-0-2289"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 19398485-0-2288
+msgctxt "19398485-0-2288"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 164009093-0-5314
+msgctxt "164009093-0-5314"
+msgid "Sergeant Baldan's Office"
+msgstr ""
+
+#: 164009093-0-5313
+msgctxt "164009093-0-5313"
+msgid "Simulated Sunlight Atelier"
+msgstr "인공 햇빛 아틀리에"
+
+#: 164009093-0-5316
+msgctxt "164009093-0-5316"
+msgid "The Grand Depository"
+msgstr "대형 금고"
+
+#: 164009093-0-5310
+msgctxt "164009093-0-5310"
+msgid "Audience Hall"
+msgstr "청중 회관"
+
+#: 19398485-0-2283
+msgctxt "19398485-0-2283"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 19398485-0-2282
+msgctxt "19398485-0-2282"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 164009093-0-5312
+msgctxt "164009093-0-5312"
+msgid "Viewing Garden"
+msgstr " 전망의 정원"
+
+#: 19398485-0-2281
+msgctxt "19398485-0-2281"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 164009093-0-5311
+msgctxt "164009093-0-5311"
+msgid "Audience Hall"
+msgstr "청중 회관"
+
+#: 19398485-0-2287
+msgctxt "19398485-0-2287"
+msgid "Rubble Pile"
+msgstr ""
+
+#: 19398485-0-2286
+msgctxt "19398485-0-2286"
+msgid "Metal Pellet Stockpile"
+msgstr ""
+
+#: 19398485-0-2285
+msgctxt "19398485-0-2285"
+msgid "Metal Pellet Stockpile"
+msgstr ""
+
+#: 19398485-0-2284
+msgctxt "19398485-0-2284"
+msgid "Metal Pellet Stockpile"
+msgstr ""
+
+#: 164009093-1-5325
+msgctxt "164009093-1-5325"
+msgid "Clockwork Nave"
+msgstr "클락워크 본당"
+
+#: 164009093-0-5307
+msgctxt "164009093-0-5307"
+msgid "Humidity Chamber"
+msgstr ""
+
+#: 164009093-0-5306
+msgctxt "164009093-0-5306"
+msgid "Provost Varuni's Office"
+msgstr "바루니 학장의 사무실"
+
+#: 77659573-0-362
+msgctxt "77659573-0-362"
+msgid "Fire Drake Bridge"
+msgstr ""
+
+#: 164009093-0-5309
+msgctxt "164009093-0-5309"
+msgid "Purification Chamber"
+msgstr "정화실"
+
+#: 164009093-0-5308
+msgctxt "164009093-0-5308"
+msgid "Purification Chamber"
+msgstr "정화실"
+
+#: 164009093-0-5303
+msgctxt "164009093-0-5303"
+msgid "Portal to the Exarchs' Egress"
+msgstr ""
+
+#: 164009093-0-5302
+msgctxt "164009093-0-5302"
+msgid "Halls of Regulation"
+msgstr "통제실"
+
+#: 164009093-0-5305
+msgctxt "164009093-0-5305"
+msgid "Lower Level"
+msgstr "저층부"
+
+#: 164009093-0-5304
+msgctxt "164009093-0-5304"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 162946485-0-5782
+msgctxt "162946485-0-5782"
+msgid "Clockwork City Treasure Map II"
+msgstr "클락워크 시티 보물지도 II"
+
+#: 164009093-0-5301
+msgctxt "164009093-0-5301"
+msgid "Barilzar's Eighth Laboratory"
+msgstr "바릴자르의 8번째 실험실"
+
+#: 164009093-0-5300
+msgctxt "164009093-0-5300"
+msgid "The Clockwork City"
+msgstr "클락워크 시티"
+
+#: 162946485-0-5781
+msgctxt "162946485-0-5781"
+msgid "Clockwork City Treasure Map I"
+msgstr "클락워크 시티 보물지도 I"
+
+#: 164009093-1-5334
+msgctxt "164009093-1-5334"
+msgid "Portal to the Clockwork City"
+msgstr "클락워크 시티로 향하는 포탈"
+
+#: 87370069-0-23073
+msgctxt "87370069-0-23073"
+msgid "Telescope"
+msgstr "망원경"
+
+#: 211899940-0-23073
+msgctxt "211899940-0-23073"
+msgid "<The telescope is set to view the platform's associated constellation.>"
+msgstr ""

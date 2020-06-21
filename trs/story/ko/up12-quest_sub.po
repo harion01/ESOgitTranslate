@@ -11,56 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 3952276-1-7131
-#, fuzzy
-msgctxt "3952276-1-7131"
-msgid "I last spoke with her at the old farm near Dragonstar—try there.\n\nIf she departed, I'm certain she left word of her travels."
-msgstr "나는 Dragonstar 근처의 오래된 농장에서 그녀와 마지막으로 이야기했다.\n\n그녀가 출발했다면 나는 그녀의 여행에 대한 말을 남겼다.-G-"
-
-#: 20958740-1-7131
-#, fuzzy
-msgctxt "20958740-1-7131"
-msgid "I'll look for <<1>> near Dragonstar."
-msgstr "Dragonstar 근처에서 <<1>>을 찾을 것입니다.-G-"
-
-#: 3952276-1-7127
-msgctxt "3952276-1-7127"
-msgid "The circle summoned atronachs to destroy the Dark Anchor. Instead, they turned on the circle! One of the Celestials must have caused it.\n\nI'm no conjurer—I wasn't next to the summoning when it happened. It's the only reason I escaped to seek help!"
-msgstr "우리 소서러 집단은 어둠의 닻을 파괴하기 위해 아트로나크들을 소환했어요. 그런데 아트로나크들이 우리를 공격하기 시작했어요! 천인 하나가 저주를 한 것이 분명해요.\n\n저는 마법사가 아니라 소환을 진행했을 때 그 장소에 없었어요. 도움을 구하러 제가 탈출할 수 있었던 이유기도 하죠!"
-
-#: 20958740-1-7127
-msgctxt "20958740-1-7127"
-msgid "I'll travel to the <<1>> and see what I can learn."
-msgstr " <<1>>으로 가서 뭘 알아낼 수 있는지 보도록 하겠습니다."
-
-#: 3952276-1-7123
-msgctxt "3952276-1-7123"
-msgid "Out of thin air, shouting nonsense about defeating the Anka-Ra. The Guard took him to Bangkorai Gate, if you're headed that way. He's the indecent Imperial going on about Celestial This-And-That.\n\nIf you see him, tell him he owes me a thousand gold!"
-msgstr "난데없이 앙카-라를 물리쳐야 한다는 헛소리를 하면서 말이야.  경비가 그 자식을 뱅코라이 정문으로 데려갔어. 네가 그 쪽 길로 향한다면 말이야. 그 음란한 임페리얼은 천인 어쩌구 저쩌구를 계속 떠들어댔지.\n\n그 자식을 만나면 나한테 천 골드를 빚졌다고 전해 줘!"
-
-#: 20958740-1-7123
-msgctxt "20958740-1-7123"
-msgid "Indecently exposed Imperial in Bangkorai Gate. Got it."
-msgstr "뱅코라이 정문에서 음란하게 노출한 임페리얼 말이지? 알겠어."
-
-#: 3952276-0-7162
-#, fuzzy
-msgctxt "3952276-0-7162"
-msgid "I'm hearing rumors of more Daedra in <<1>>. Time to banish them, just like you did their friends.\n\nToss some <<z:2>> on their <<z:3>>. Then smash the relics they used to bring them here. While you're there, kill whoever's behind all the summoning."
-msgstr "나는 <<1>>에 Daedra에 대한 소문을 듣고 있습니다. 친구를 사귀는 것처럼 그들을 추방 할 시간입니다.\n\n<<z:2>>에 <<z:2>>를 두십시오. 그런 다음 여기에 가져온 유물을 부숴 버리십시오. 거기에있는 동안 모든 소환 뒤에있는 사람을 죽이십시오.-G-"
-
-#: 20958740-0-7162
-#, fuzzy
-msgctxt "20958740-0-7162"
-msgid "All right, I'll do it."
-msgstr "좋아, 할게.-G-"
-
-#: 249936564-0-7162
-#, fuzzy
-msgctxt "249936564-0-7162"
-msgid "Keep talking."
-msgstr "계속 얘기.-G-"
-
 #: 3952276-0-7143
 #, fuzzy
 msgctxt "3952276-0-7143"
@@ -78,24 +28,6 @@ msgstr "나는 Eastmarch에서 <<1>>을 찾아야한다.-G-"
 msgctxt "249936564-0-7143"
 msgid "<Examine the scroll.>"
 msgstr "<스크롤을 검사하십시오.>-G-"
-
-#: 3952276-0-7138
-#, fuzzy
-msgctxt "3952276-0-7138"
-msgid "It marks a fresh start to the new year, for all who walk beneath the sun. Everyone in Tamriel celebrates!\n\nWell, perhaps not the Maormer—but everyone else. You should try it for yourself and see!"
-msgstr "그것은 새해를 맞이하여 태양 아래서 걷는 모든 사람들에게 신선한 출발점입니다. Tamriel의 모든 사람들이 기념합니다!\n\n자, 아마도 Maormer가 아니라 다른 모든 사람들. 너 자신을 위해 그것을 시도해야 볼 수 있습니다!-G-"
-
-#: 20958740-0-7138
-#, fuzzy
-msgctxt "20958740-0-7138"
-msgid "I'm interested. Tell me more about it."
-msgstr "내가 관심. 그것에 대해 좀 더 말해줘.-G-"
-
-#: 249936564-0-7138
-#, fuzzy
-msgctxt "249936564-0-7138"
-msgid "What is the New Life Festival?"
-msgstr "뉴 라이프 페스티벌이란 무엇입니까?-G-"
 
 #: 3952276-0-7131
 #, fuzzy
@@ -120,26 +52,6 @@ msgstr "<<1>>이라는 여성은 Scaled Court에 대한 계획을 가지고 있�
 msgctxt "249936564-0-7131"
 msgid "Who is your patron?"
 msgstr "당신의 후원자는 누구입니까?-G-"
-
-#: 3952276-0-7127
-msgctxt "3952276-0-7127"
-msgid "My colleague, <<1>>? We're sorcerers, he leads my circle. Or … or led, I ….\n\nWe sought to shatter a Dark Anchor at its base. To show the Fighters Guild we can do it more efficiently. So we traveled to the <<2>>, but our plan went horribly awry."
-msgstr "내 동료인 <<1>>? 우리는 소서러들이고, 그가 우리 집단을 이끌고 있었어요. 혹은 ... 제가 이끌거나요.\n\n우린 어둠의 닻을 바닥부터 산산조각내려고 했어요. 파이터 길드에게 우리가 더 효율적이란 걸 보여주려고요. 그래서 우리는 <<2>>로 떠났지만, 계획이 끔찍하게 빗나가 버렸어요."
-
-#: 20958740-0-7127
-msgctxt "20958740-0-7127"
-msgid "How so?"
-msgstr "어떻게 말입니까?"
-
-#: 205344756-0-7127
-msgctxt "205344756-0-7127"
-msgid "When called to destroy a Dark Anchor in Craglorn, atronachs turned on the mages who summoned them. One mage who escaped believes a Celestial caused it to happen."
-msgstr "크래글론의 어둠의 닻을 파괴하기 위해 소환된 아트로나크들은 자신들을 소환한 마법사들을 공격했어요. 탈출한 한 마법사는 천인이 저주를 내려 이런 일이 일어났다고 믿고 있어요."
-
-#: 249936564-0-7127
-msgctxt "249936564-0-7127"
-msgid "Tell me what happened."
-msgstr "무슨 일이 있었는지 말씀해 주세요."
 
 #: 3952276-0-7123
 msgctxt "3952276-0-7123"
@@ -178,3 +90,49 @@ msgstr "좋아, 할게.-G-"
 msgctxt "249936564-0-7103"
 msgid "What do you need?"
 msgstr "뭐가 필요해?-G-"
+
+#: 3952276-0-7138
+#, fuzzy
+msgctxt "3952276-0-7138"
+msgid "It marks a fresh start to the new year, for all who walk beneath the sun. Everyone in Tamriel celebrates!\n\nWell, perhaps not the Maormer—but everyone else. You should try it for yourself and see!"
+msgstr "그것은 새해를 맞이하여 태양 아래서 걷는 모든 사람들에게 신선한 출발점입니다. Tamriel의 모든 사람들이 기념합니다!\n\n자, 아마도 Maormer가 아니라 다른 모든 사람들. 너 자신을 위해 그것을 시도해야 볼 수 있습니다!-G-"
+
+#: 20958740-0-7138
+#, fuzzy
+msgctxt "20958740-0-7138"
+msgid "I'm interested. Tell me more about it."
+msgstr "내가 관심. 그것에 대해 좀 더 말해줘.-G-"
+
+#: 249936564-0-7138
+#, fuzzy
+msgctxt "249936564-0-7138"
+msgid "What is the New Life Festival?"
+msgstr "뉴 라이프 페스티벌이란 무엇입니까?-G-"
+
+#: 3952276-1-7127
+msgctxt "3952276-1-7127"
+msgid "The circle summoned atronachs to destroy the Dark Anchor. Instead, they turned on the circle! One of the Celestials must have caused it.\n\nI'm no conjurer—I wasn't next to the summoning when it happened. It's the only reason I escaped to seek help!"
+msgstr "우리 소서러 집단은 어둠의 닻을 파괴하기 위해 아트로나크들을 소환했어요. 그런데 아트로나크들이 우리를 공격하기 시작했어요! 천인 하나가 저주를 한 것이 분명해요.\n\n저는 마법사가 아니라 소환을 진행했을 때 그 장소에 없었어요. 도움을 구하러 제가 탈출할 수 있었던 이유기도 하죠!"
+
+#: 20958740-1-7127
+msgctxt "20958740-1-7127"
+msgid "I'll travel to the <<1>> and see what I can learn."
+msgstr " <<1>>으로 가서 뭘 알아낼 수 있는지 보도록 하겠습니다."
+
+#: 3952276-0-7162
+#, fuzzy
+msgctxt "3952276-0-7162"
+msgid "I'm hearing rumors of more Daedra in <<1>>. Time to banish them, just like you did their friends.\n\nToss some <<z:2>> on their <<z:3>>. Then smash the relics they used to bring them here. While you're there, kill whoever's behind all the summoning."
+msgstr "나는 <<1>>에 Daedra에 대한 소문을 듣고 있습니다. 친구를 사귀는 것처럼 그들을 추방 할 시간입니다.\n\n<<z:2>>에 <<z:2>>를 두십시오. 그런 다음 여기에 가져온 유물을 부숴 버리십시오. 거기에있는 동안 모든 소환 뒤에있는 사람을 죽이십시오.-G-"
+
+#: 20958740-0-7162
+#, fuzzy
+msgctxt "20958740-0-7162"
+msgid "All right, I'll do it."
+msgstr "좋아, 할게.-G-"
+
+#: 249936564-0-7162
+#, fuzzy
+msgctxt "249936564-0-7162"
+msgid "Keep talking."
+msgstr "계속 얘기.-G-"

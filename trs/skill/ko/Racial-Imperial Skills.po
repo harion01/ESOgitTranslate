@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-50903
+msgctxt "132143172-0-50903"
+msgid "Increases your Max Health by <<1>>."
+msgstr "최대 체력이 <<1>> 만큼 증가합니다."
+
+#: 198758357-0-50903
+msgctxt "198758357-0-50903"
+msgid "Tough"
+msgstr "Tough"
+
 #: 132143172-0-50907
 msgctxt "132143172-0-50907"
 msgid "Increases your Max Health by <<1>>."
@@ -30,46 +40,6 @@ msgstr "최대 체력이 <<1>> 만큼 증가합니다."
 msgctxt "198758357-0-50906"
 msgid "Tough"
 msgstr "Tough"
-
-#: 132143172-0-50903
-msgctxt "132143172-0-50903"
-msgid "Increases your Max Health by <<1>>."
-msgstr "최대 체력이 <<1>> 만큼 증가합니다."
-
-#: 198758357-0-50903
-msgctxt "198758357-0-50903"
-msgid "Tough"
-msgstr "Tough"
-
-#: 132143172-0-45293
-msgctxt "132143172-0-45293"
-msgid "Reduces the cost of all your abilities by |cffffff3|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
-msgstr "모든 기술의 소모량이  |cffffff3|r% 감소합니다.\n\n직접 피해를 입혔을 때, 체력을 <<1>> 회복하고 매지카와 스태미나를 <<2>> 회복합니다. 이 효과는  |cffffff5|r 초에 한 번 발동됩니다."
-
-#: 198758357-0-45293
-msgctxt "198758357-0-45293"
-msgid "Red Diamond"
-msgstr "Red Diamond"
-
-#: 132143172-0-45291
-msgctxt "132143172-0-45291"
-msgid "Reduces the cost of all your abilities by |cffffff2|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
-msgstr "모든 기술의 소모량이  |cffffff2|r% 감소합니다.\n\n직접 피해를 입혔을 때, 체력을 <<1>> 회복하고 매지카와 스태미나를 <<2>> 회복합니다. 이 효과는  |cffffff5|r 초에 한 번 발동됩니다."
-
-#: 198758357-0-45291
-msgctxt "198758357-0-45291"
-msgid "Red Diamond"
-msgstr "Red Diamond"
-
-#: 132143172-0-45280
-msgctxt "132143172-0-45280"
-msgid "Increases your Max Stamina by <<1>>."
-msgstr "최대 스태미나가 <<1>> 증가합니다."
-
-#: 198758357-0-45280
-msgctxt "198758357-0-45280"
-msgid "Imperial Mettle"
-msgstr "Imperial Mettle"
 
 #: 132143172-0-45279
 msgctxt "132143172-0-45279"
@@ -110,3 +80,33 @@ msgstr "최대 스태미나가 <<1>> 증가합니다."
 msgctxt "198758357-0-36153"
 msgid "Imperial Mettle"
 msgstr "Imperial Mettle"
+
+#: 132143172-0-45291
+msgctxt "132143172-0-45291"
+msgid "Reduces the cost of all your abilities by |cffffff2|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
+msgstr "모든 기술의 소모량이  |cffffff2|r% 감소합니다.\n\n직접 피해를 입혔을 때, 체력을 <<1>> 회복하고 매지카와 스태미나를 <<2>> 회복합니다. 이 효과는  |cffffff5|r 초에 한 번 발동됩니다."
+
+#: 198758357-0-45291
+msgctxt "198758357-0-45291"
+msgid "Red Diamond"
+msgstr "Red Diamond"
+
+#: 132143172-0-45280
+msgctxt "132143172-0-45280"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr "최대 스태미나가 <<1>> 증가합니다."
+
+#: 198758357-0-45280
+msgctxt "198758357-0-45280"
+msgid "Imperial Mettle"
+msgstr "Imperial Mettle"
+
+#: 132143172-0-45293
+msgctxt "132143172-0-45293"
+msgid "Reduces the cost of all your abilities by |cffffff3|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
+msgstr "모든 기술의 소모량이  |cffffff3|r% 감소합니다.\n\n직접 피해를 입혔을 때, 체력을 <<1>> 회복하고 매지카와 스태미나를 <<2>> 회복합니다. 이 효과는  |cffffff5|r 초에 한 번 발동됩니다."
+
+#: 198758357-0-45293
+msgctxt "198758357-0-45293"
+msgid "Red Diamond"
+msgstr "Red Diamond"

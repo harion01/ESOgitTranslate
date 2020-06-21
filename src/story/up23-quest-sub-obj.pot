@@ -11,19 +11,19 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-50961
-msgctxt "256430276-0-50961"
-msgid "Use Dragonbone Powder on the Altar"
-msgstr ""
-
 #: 256430276-0-50960
 msgctxt "256430276-0-50960"
 msgid "Gather the Dragonbone Powder"
 msgstr ""
 
-#: 256430276-0-50959
-msgctxt "256430276-0-50959"
-msgid "Find a Way to Reach the Sanctuary"
+#: 256430276-0-50961
+msgctxt "256430276-0-50961"
+msgid "Use Dragonbone Powder on the Altar"
+msgstr ""
+
+#: 256430276-0-50279
+msgctxt "256430276-0-50279"
+msgid "Return to <<1>>"
 msgstr ""
 
 #: 256430276-0-50955
@@ -36,11 +36,6 @@ msgctxt "256430276-0-50953"
 msgid "Search the Dragonguard Archives"
 msgstr ""
 
-#: 256430276-0-50279
-msgctxt "256430276-0-50279"
-msgid "Return to <<1>>"
-msgstr ""
-
 #: 256430276-0-50260
 msgctxt "256430276-0-50260"
 msgid "Return to <<1>>"
@@ -51,19 +46,9 @@ msgctxt "121487972-0-14171"
 msgid "Deliver the Jewelry"
 msgstr ""
 
-#: 121487972-0-14169
-msgctxt "121487972-0-14169"
-msgid "Deliver the Jewelry"
-msgstr ""
-
 #: 121487972-0-14167
 msgctxt "121487972-0-14167"
 msgid "Deliver the Jewelry"
-msgstr ""
-
-#: 121487972-0-14129
-msgctxt "121487972-0-14129"
-msgid "Sign the Manifest"
 msgstr ""
 
 #: 121487972-0-14105
@@ -71,19 +56,39 @@ msgctxt "121487972-0-14105"
 msgid "Sign the Manifest"
 msgstr ""
 
+#: 121487972-0-14169
+msgctxt "121487972-0-14169"
+msgid "Deliver the Jewelry"
+msgstr ""
+
 #: 121487972-0-13992
 msgctxt "121487972-0-13992"
 msgid "Talk to Sai Sahan"
 msgstr ""
 
-#: 121487972-0-13978
-msgctxt "121487972-0-13978"
-msgid "Talk to Sai Sahan"
+#: 121487972-0-13812
+msgctxt "121487972-0-13812"
+msgid "Talk to <<1>>"
 msgstr ""
 
-#: 121487972-0-13817
-msgctxt "121487972-0-13817"
+#: 121487972-0-13811
+msgctxt "121487972-0-13811"
 msgid "Talk to <<1>>"
+msgstr ""
+
+#: 121487972-0-14129
+msgctxt "121487972-0-14129"
+msgid "Sign the Manifest"
+msgstr ""
+
+#: 121487972-0-13810
+msgctxt "121487972-0-13810"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 256430276-0-50959
+msgctxt "256430276-0-50959"
+msgid "Find a Way to Reach the Sanctuary"
 msgstr ""
 
 #: 121487972-0-13816
@@ -101,22 +106,17 @@ msgctxt "121487972-0-13814"
 msgid "Talk to Allanwen"
 msgstr ""
 
-#: 121487972-0-13812
-msgctxt "121487972-0-13812"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 121487972-0-13811
-msgctxt "121487972-0-13811"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 121487972-0-13810
-msgctxt "121487972-0-13810"
-msgid "Talk to <<1>>"
+#: 121487972-0-13978
+msgctxt "121487972-0-13978"
+msgid "Talk to Sai Sahan"
 msgstr ""
 
 #: 121487972-0-13809
 msgctxt "121487972-0-13809"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 121487972-0-13817
+msgctxt "121487972-0-13817"
 msgid "Talk to <<1>>"
 msgstr ""

@@ -11,106 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 149328292-9-8555
-msgctxt "149328292-9-8555"
-msgid "Die you milk drinkers!"
-msgstr ""
-
-#: 149328292-8-8555
-msgctxt "149328292-8-8555"
-msgid "I'll drag you all the Sovngarde!"
-msgstr ""
-
-#: 149328292-8-7621
-msgctxt "149328292-8-7621"
-msgid "Our blades thirst!"
-msgstr ""
-
-#: 149328292-7-8555
-msgctxt "149328292-7-8555"
-msgid "They're monsters! All of them!"
-msgstr ""
-
-#: 149328292-7-7621
-msgctxt "149328292-7-7621"
-msgid "<Howling.>"
-msgstr ""
-
-#: 149328292-7-7620
-msgctxt "149328292-7-7620"
-msgid "They're preparing for war! This is just the beginning, I'm sure!"
-msgstr ""
-
-#: 149328292-7-7619
-msgctxt "149328292-7-7619"
-msgid "I feel like we're being watched. Don't trust these woods."
-msgstr ""
-
-#: 149328292-6-8555
-msgctxt "149328292-6-8555"
-msgid "Bastards! You'll pay for this!"
-msgstr ""
-
-#: 149328292-6-7621
-msgctxt "149328292-6-7621"
-msgid "<Beastial roar.>"
-msgstr ""
-
-#: 149328292-6-7620
-msgctxt "149328292-6-7620"
-msgid "Shor forgive me! It's your blood on my hands!"
-msgstr ""
-
-#: 149328292-6-7619
-msgctxt "149328292-6-7619"
-msgid "They butchered my brother just for meeting their gaze … they're animals!"
-msgstr ""
-
-#: 149328292-5-8556
-msgctxt "149328292-5-8556"
-msgid "Fall before the Dreadhorn Clan!"
-msgstr ""
-
-#: 149328292-5-8555
-msgctxt "149328292-5-8555"
-msgid "It's collapsing! Look out!"
-msgstr ""
-
-#: 149328292-5-8182
-msgctxt "149328292-5-8182"
-msgid "Step foot in Falkreath and we'll bury you here, Reach-scum!"
-msgstr ""
-
-#: 149328292-5-7621
-msgctxt "149328292-5-7621"
-msgid "The Dreadhorn claim this land!"
-msgstr ""
-
-#: 149328292-5-7620
-msgctxt "149328292-5-7620"
-msgid "I was sure they'd take me next. They only take the weak to the Forge."
-msgstr ""
-
-#: 149328292-5-7619
-msgctxt "149328292-5-7619"
-msgid "I thought the horned raiders were just rumors … I should have listened."
-msgstr ""
-
-#: 149328292-4-8592
-msgctxt "149328292-4-8592"
-msgid "<Gutteral Chanting.>"
-msgstr ""
-
-#: 149328292-4-8591
-msgctxt "149328292-4-8591"
-msgid "<Gutteral Chanting.>"
-msgstr ""
-
-#: 149328292-4-8590
-msgctxt "149328292-4-8590"
-msgid "<Gutteral Chanting.>"
-msgstr ""
-
 #: 149328292-4-8589
 msgctxt "149328292-4-8589"
 msgid "<Gutteral Chanting.>"
@@ -119,6 +19,46 @@ msgstr ""
 #: 149328292-4-8587
 msgctxt "149328292-4-8587"
 msgid "<Gutteral Chanting.>"
+msgstr ""
+
+#: 149328292-1-8490
+msgctxt "149328292-1-8490"
+msgid "<Snorts.>"
+msgstr ""
+
+#: 149328292-1-8491
+msgctxt "149328292-1-8491"
+msgid "I can feel its hunger!"
+msgstr ""
+
+#: 149328292-1-8492
+msgctxt "149328292-1-8492"
+msgid "No! We are the Hunt-Father's chosen!"
+msgstr ""
+
+#: 149328292-1-8493
+msgctxt "149328292-1-8493"
+msgid "Temper me in fire! It makes no difference!"
+msgstr ""
+
+#: 149328292-5-7620
+msgctxt "149328292-5-7620"
+msgid "I was sure they'd take me next. They only take the weak to the Forge."
+msgstr ""
+
+#: 149328292-0-8561
+msgctxt "149328292-0-8561"
+msgid "No mercy! Drink their blood!"
+msgstr ""
+
+#: 149328292-5-7621
+msgctxt "149328292-5-7621"
+msgid "The Dreadhorn claim this land!"
+msgstr ""
+
+#: 149328292-0-8560
+msgctxt "149328292-0-8560"
+msgid "Cursed! This place is cursed!"
 msgstr ""
 
 #: 149328292-4-8583
@@ -136,9 +76,154 @@ msgctxt "149328292-4-8580"
 msgid "Another!"
 msgstr ""
 
+#: 149328292-0-8559
+msgctxt "149328292-0-8559"
+msgid "No! Please don't—"
+msgstr ""
+
+#: 149328292-0-8556
+msgctxt "149328292-0-8556"
+msgid "No more cowering in your hold, Nord-swine!"
+msgstr ""
+
+#: 149328292-0-8557
+msgctxt "149328292-0-8557"
+msgid "Join your kin!"
+msgstr ""
+
+#: 149328292-0-8555
+msgctxt "149328292-0-8555"
+msgid "Watch your flanks! They're everywhere!"
+msgstr ""
+
+#: 149328292-1-7619
+msgctxt "149328292-1-7619"
+msgid "They burned everything we had—but at least we're alive! Thank you!"
+msgstr ""
+
+#: 149328292-7-8555
+msgctxt "149328292-7-8555"
+msgid "They're monsters! All of them!"
+msgstr ""
+
+#: 149328292-0-8550
+msgctxt "149328292-0-8550"
+msgid "Second thoughts, eh? Too late for forgiveness now."
+msgstr ""
+
+#: 149328292-3-8537
+msgctxt "149328292-3-8537"
+msgid "I will keep your bones as a trophy."
+msgstr ""
+
+#: 149328292-3-8538
+msgctxt "149328292-3-8538"
+msgid "Our compact is eternal."
+msgstr ""
+
+#: 149328292-2-8182
+msgctxt "149328292-2-8182"
+msgid "For the Jarl! For Falkreath!"
+msgstr ""
+
+#: 149328292-1-8477
+msgctxt "149328292-1-8477"
+msgid "I smell your fear! Should I taste your coward blood?"
+msgstr ""
+
+#: 149328292-1-8478
+msgctxt "149328292-1-8478"
+msgid "The Nord-pigs will squeal! I can't wait much longer!"
+msgstr ""
+
+#: 149328292-1-8479
+msgctxt "149328292-1-8479"
+msgid "I am brother to the stone!"
+msgstr ""
+
+#: 149328292-1-8590
+msgctxt "149328292-1-8590"
+msgid "Earth and fire obey!"
+msgstr ""
+
+#: 149328292-2-7621
+msgctxt "149328292-2-7621"
+msgid "The clan will drink your blood!"
+msgstr ""
+
+#: 149328292-1-8591
+msgctxt "149328292-1-8591"
+msgid "The Horned Lord protects."
+msgstr ""
+
+#: 149328292-1-8592
+msgctxt "149328292-1-8592"
+msgid "The world is my ally."
+msgstr ""
+
+#: 149328292-0-8589
+msgctxt "149328292-0-8589"
+msgid "Nowhere to hide."
+msgstr ""
+
+#: 149328292-0-8587
+msgctxt "149328292-0-8587"
+msgid "Withstand my inner fire!"
+msgstr ""
+
+#: 149328292-0-8588
+msgctxt "149328292-0-8588"
+msgid "Protect the Jarl! Let none pass!"
+msgstr ""
+
+#: 149328292-0-8585
+msgctxt "149328292-0-8585"
+msgid "Enough!"
+msgstr ""
+
+#: 149328292-2-7620
+msgctxt "149328292-2-7620"
+msgid "That thundering hammer. It never rests! I just want it to stop!"
+msgstr ""
+
+#: 149328292-0-8586
+msgctxt "149328292-0-8586"
+msgid "Shor's bones! More spirits! Cleanse those corpses before anymore draugr block our escape."
+msgstr ""
+
+#: 149328292-0-8583
+msgctxt "149328292-0-8583"
+msgid "Get up you worthless beast!"
+msgstr ""
+
+#: 149328292-0-8584
+msgctxt "149328292-0-8584"
+msgid "Is this all they've brought?"
+msgstr ""
+
+#: 149328292-0-8581
+msgctxt "149328292-0-8581"
+msgid "Scorch the earth black!"
+msgstr ""
+
 #: 149328292-4-8561
 msgctxt "149328292-4-8561"
 msgid "Trample! Gore! Reap with hoof and horn!"
+msgstr ""
+
+#: 149328292-0-8580
+msgctxt "149328292-0-8580"
+msgid "Fire!"
+msgstr ""
+
+#: 149328292-1-8487
+msgctxt "149328292-1-8487"
+msgid "We will trample all Skyrim to dust!"
+msgstr ""
+
+#: 149328292-1-8488
+msgctxt "149328292-1-8488"
+msgid "Hunt-Father, we honor you with this worthy prey!"
 msgstr ""
 
 #: 149328292-4-8559
@@ -146,9 +231,24 @@ msgctxt "149328292-4-8559"
 msgid "Beasts! Monsters! To Oblivion with you all!"
 msgstr ""
 
+#: 149328292-1-8489
+msgctxt "149328292-1-8489"
+msgid "Life-blood for the chosen!"
+msgstr ""
+
+#: 149328292-1-8483
+msgctxt "149328292-1-8483"
+msgid "Plant our bones and bulbs will sprout … yes, they will."
+msgstr ""
+
 #: 149328292-4-8556
 msgctxt "149328292-4-8556"
 msgid "Trample them all!"
+msgstr ""
+
+#: 149328292-1-8484
+msgctxt "149328292-1-8484"
+msgid "Earth has fangs. Yes, it does!"
 msgstr ""
 
 #: 149328292-4-8555
@@ -156,9 +256,84 @@ msgctxt "149328292-4-8555"
 msgid "They're too strong! We'll never stop them!"
 msgstr ""
 
+#: 149328292-1-8485
+msgctxt "149328292-1-8485"
+msgid "Safe in our nest. Yes, we are."
+msgstr ""
+
+#: 149328292-1-8486
+msgctxt "149328292-1-8486"
+msgid "Stoney talons gouge them deep!"
+msgstr ""
+
+#: 149328292-1-8480
+msgctxt "149328292-1-8480"
+msgid "Your ashes will nourish the land!"
+msgstr ""
+
+#: 149328292-1-8481
+msgctxt "149328292-1-8481"
+msgid "Butcher them! Every last one!"
+msgstr ""
+
+#: 149328292-1-8482
+msgctxt "149328292-1-8482"
+msgid "Pluck their eyes and watch them flail!"
+msgstr ""
+
+#: 149328292-5-8182
+msgctxt "149328292-5-8182"
+msgid "Step foot in Falkreath and we'll bury you here, Reach-scum!"
+msgstr ""
+
+#: 149328292-0-8577
+msgctxt "149328292-0-8577"
+msgid "<Humming>"
+msgstr ""
+
+#: 149328292-6-8555
+msgctxt "149328292-6-8555"
+msgid "Bastards! You'll pay for this!"
+msgstr ""
+
+#: 149328292-3-8182
+msgctxt "149328292-3-8182"
+msgid "You'll get no slaves from this hold!"
+msgstr ""
+
+#: 149328292-2-8493
+msgctxt "149328292-2-8493"
+msgid "Even fire hungers! I welcome it!"
+msgstr ""
+
+#: 149328292-2-8491
+msgctxt "149328292-2-8491"
+msgid "My teeth are sharp, little lambs."
+msgstr ""
+
+#: 149328292-2-8492
+msgctxt "149328292-2-8492"
+msgid "You'll repay that blood with your own!"
+msgstr ""
+
+#: 149328292-2-8490
+msgctxt "149328292-2-8490"
+msgid "<Huffs.>"
+msgstr ""
+
+#: 149328292-1-8586
+msgctxt "149328292-1-8586"
+msgid "We won't be safe while there are bodies for these spirits!"
+msgstr ""
+
 #: 149328292-4-8538
 msgctxt "149328292-4-8538"
 msgid "I decide who lives and dies here."
+msgstr ""
+
+#: 149328292-1-8587
+msgctxt "149328292-1-8587"
+msgid "I embrace the flame!"
 msgstr ""
 
 #: 149328292-4-8537
@@ -166,9 +341,739 @@ msgctxt "149328292-4-8537"
 msgid "Begone from this land!"
 msgstr ""
 
+#: 149328292-1-8588
+msgctxt "149328292-1-8588"
+msgid "There's no retreat from here! Fight!"
+msgstr ""
+
+#: 149328292-2-7619
+msgctxt "149328292-2-7619"
+msgid "Who's safe from these Reach-dogs? Only Falkreath's walls, surely. We'll go there."
+msgstr ""
+
+#: 149328292-1-8589
+msgctxt "149328292-1-8589"
+msgid "Let it all burn!"
+msgstr ""
+
+#: 149328292-1-8583
+msgctxt "149328292-1-8583"
+msgid "Get up and fight or I'll kill you myself!"
+msgstr ""
+
+#: 149328292-1-8584
+msgctxt "149328292-1-8584"
+msgid "No one can save this hold now!"
+msgstr ""
+
+#: 149328292-1-8585
+msgctxt "149328292-1-8585"
+msgid "Death is waiting!"
+msgstr ""
+
+#: 149328292-1-8580
+msgctxt "149328292-1-8580"
+msgid "Strike there!"
+msgstr ""
+
+#: 149328292-1-8581
+msgctxt "149328292-1-8581"
+msgid "Kill them all!"
+msgstr ""
+
+#: 149328292-8-7621
+msgctxt "149328292-8-7621"
+msgid "Our blades thirst!"
+msgstr ""
+
+#: 149328292-1-8555
+msgctxt "149328292-1-8555"
+msgid "For Falkreath!"
+msgstr ""
+
+#: 149328292-1-8556
+msgctxt "149328292-1-8556"
+msgid "Ours for the taking!"
+msgstr ""
+
+#: 149328292-1-8550
+msgctxt "149328292-1-8550"
+msgid "What are you waiting for, coward?"
+msgstr ""
+
+#: 149328292-2-8479
+msgctxt "149328292-2-8479"
+msgid "I beckon, the land answers!"
+msgstr ""
+
+#: 149328292-0-8549
+msgctxt "149328292-0-8549"
+msgid "You honor me. Sovngarde calls .…"
+msgstr ""
+
+#: 149328292-0-8547
+msgctxt "149328292-0-8547"
+msgid "Come for my throne? Over my dead body!"
+msgstr ""
+
+#: 149328292-0-8548
+msgctxt "149328292-0-8548"
+msgid "Argh! Unholy curse! I left this world long ago …."
+msgstr ""
+
+#: 149328292-0-8545
+msgctxt "149328292-0-8545"
+msgid "Where are your gods now?"
+msgstr ""
+
+#: 149328292-0-8546
+msgctxt "149328292-0-8546"
+msgid "To Orkey's wretched arse with you."
+msgstr ""
+
+#: 149328292-2-8592
+msgctxt "149328292-2-8592"
+msgid "This land knows its master."
+msgstr ""
+
+#: 149328292-0-8543
+msgctxt "149328292-0-8543"
+msgid "You can't contain us."
+msgstr ""
+
+#: 149328292-0-8544
+msgctxt "149328292-0-8544"
+msgid "Cernunnon determines when I die, not you."
+msgstr ""
+
+#: 149328292-2-8477
+msgctxt "149328292-2-8477"
+msgid "Think it's hot here? The Forge will consume you!"
+msgstr ""
+
+#: 149328292-0-8541
+msgctxt "149328292-0-8541"
+msgid "You are right to fear Cernunnon!"
+msgstr ""
+
+#: 149328292-2-8478
+msgctxt "149328292-2-8478"
+msgid "The Hunt-Father must be pleased. A feast is coming!"
+msgstr ""
+
+#: 149328292-0-8542
+msgctxt "149328292-0-8542"
+msgid "We hold the power of Cernunnon within us!"
+msgstr ""
+
+#: 149328292-0-8540
+msgctxt "149328292-0-8540"
+msgid "Your spirits will wail at our feasts for generations to come!"
+msgstr ""
+
+#: 149328292-2-8590
+msgctxt "149328292-2-8590"
+msgid "No escape from me."
+msgstr ""
+
+#: 149328292-1-8557
+msgctxt "149328292-1-8557"
+msgid "Our home! Then and now!"
+msgstr ""
+
+#: 149328292-2-8591
+msgctxt "149328292-2-8591"
+msgid "My line is unbroken."
+msgstr ""
+
+#: 149328292-7-7619
+msgctxt "149328292-7-7619"
+msgid "I feel like we're being watched. Don't trust these woods."
+msgstr ""
+
+#: 149328292-1-8559
+msgctxt "149328292-1-8559"
+msgid "Don't look back! They're coming!"
+msgstr ""
+
+#: 149328292-1-8560
+msgctxt "149328292-1-8560"
+msgid "Divines have mercy! The dead come for us!"
+msgstr ""
+
+#: 149328292-1-8561
+msgctxt "149328292-1-8561"
+msgid "Burn it all! Leave nothing!"
+msgstr ""
+
+#: 149328292-0-8538
+msgctxt "149328292-0-8538"
+msgid "Death has no claim over us."
+msgstr ""
+
+#: 149328292-0-8539
+msgctxt "149328292-0-8539"
+msgid "See them shiver. Is it fear or is it cold?"
+msgstr ""
+
+#: 149328292-0-8536
+msgctxt "149328292-0-8536"
+msgid "Despoilers! Keep your filthy paws off my honored dead!"
+msgstr ""
+
+#: 149328292-0-8537
+msgctxt "149328292-0-8537"
+msgid "I will claim you myself."
+msgstr ""
+
+#: 149328292-2-8484
+msgctxt "149328292-2-8484"
+msgid "Hungry roots hear me crow! They do! They do!"
+msgstr ""
+
+#: 149328292-2-8485
+msgctxt "149328292-2-8485"
+msgid "Bows they bend and bones they break, these branches of mine!"
+msgstr ""
+
+#: 149328292-0-8535
+msgctxt "149328292-0-8535"
+msgid "I'll avenge my own—a hundred fold!"
+msgstr ""
+
+#: 149328292-2-8489
+msgctxt "149328292-2-8489"
+msgid "Feast on our prey!"
+msgstr ""
+
+#: 149328292-2-8486
+msgctxt "149328292-2-8486"
+msgid "Mashed and mauled in rocky teeth!"
+msgstr ""
+
+#: 149328292-2-8487
+msgctxt "149328292-2-8487"
+msgid "Vengeance for my children!"
+msgstr ""
+
+#: 149328292-3-7620
+msgctxt "149328292-3-7620"
+msgid "They don't even have hearts, just this cursed red rock where it should be!"
+msgstr ""
+
+#: 149328292-3-7621
+msgctxt "149328292-3-7621"
+msgid "The horned-ones will break your bones!"
+msgstr ""
+
+#: 149328292-2-8480
+msgctxt "149328292-2-8480"
+msgid "No escape from the earth's fire!"
+msgstr ""
+
+#: 149328292-2-8481
+msgctxt "149328292-2-8481"
+msgid "Animals! You're all animals!"
+msgstr ""
+
+#: 149328292-4-8182
+msgctxt "149328292-4-8182"
+msgid "Send these milk drinkers scurrying back to the Reach!"
+msgstr ""
+
+#: 149328292-3-7619
+msgctxt "149328292-3-7619"
+msgid "They meant to turn us to cattle. First we get the yoke, then we get the cleaver!"
+msgstr ""
+
+#: 149328292-5-8556
+msgctxt "149328292-5-8556"
+msgid "Fall before the Dreadhorn Clan!"
+msgstr ""
+
+#: 149328292-5-8555
+msgctxt "149328292-5-8555"
+msgid "It's collapsing! Look out!"
+msgstr ""
+
+#: 149328292-1-8539
+msgctxt "149328292-1-8539"
+msgid "The ancestors crave your blood!"
+msgstr ""
+
+#: 149328292-1-8535
+msgctxt "149328292-1-8535"
+msgid "No injury is left unanswered in my hold."
+msgstr ""
+
+#: 149328292-1-8536
+msgctxt "149328292-1-8536"
+msgid "I won't stand for this dishonor!"
+msgstr ""
+
+#: 149328292-1-8537
+msgctxt "149328292-1-8537"
+msgid "Your flames will flicker and die."
+msgstr ""
+
+#: 149328292-1-8538
+msgctxt "149328292-1-8538"
+msgid "Claim your bodies! Claim their lives!"
+msgstr ""
+
+#: 149328292-1-8542
+msgctxt "149328292-1-8542"
+msgid "You cannot break our bond!"
+msgstr ""
+
+#: 149328292-1-8543
+msgctxt "149328292-1-8543"
+msgid "The oath sustains us. Accept your fate."
+msgstr ""
+
+#: 149328292-1-8544
+msgctxt "149328292-1-8544"
+msgid "We are immortal, fools!"
+msgstr ""
+
+#: 149328292-1-8545
+msgctxt "149328292-1-8545"
+msgid "Welcome, slaves eternal."
+msgstr ""
+
+#: 149328292-1-8540
+msgctxt "149328292-1-8540"
+msgid "There will never be rest for you!"
+msgstr ""
+
+#: 149328292-1-8541
+msgctxt "149328292-1-8541"
+msgid "The scent of your fear is overwhelming."
+msgstr ""
+
+#: 149328292-2-8589
+msgctxt "149328292-2-8589"
+msgid "This hall will be your pyre!"
+msgstr ""
+
+#: 149328292-0-7627
+msgctxt "149328292-0-7627"
+msgid "Hunt-Father! I pledge this feast to you!"
+msgstr ""
+
+#: 149328292-9-8555
+msgctxt "149328292-9-8555"
+msgid "Die you milk drinkers!"
+msgstr ""
+
+#: 149328292-0-7628
+msgctxt "149328292-0-7628"
+msgid "The land's blood is my blood!"
+msgstr ""
+
+#: 149328292-3-8490
+msgctxt "149328292-3-8490"
+msgid "<Growls.>"
+msgstr ""
+
+#: 149328292-3-8491
+msgctxt "149328292-3-8491"
+msgid "Dangerous prey quickens the blood!"
+msgstr ""
+
+#: 149328292-2-8583
+msgctxt "149328292-2-8583"
+msgid "Goad the beast! It wins or it dies!"
+msgstr ""
+
+#: 149328292-0-7621
+msgctxt "149328292-0-7621"
+msgid "True prey at last!"
+msgstr ""
+
+#: 149328292-2-8584
+msgctxt "149328292-2-8584"
+msgid "I'll spare you the sight of Falkreath burning!"
+msgstr ""
+
+#: 149328292-2-8581
+msgctxt "149328292-2-8581"
+msgid "Full volley!"
+msgstr ""
+
+#: 149328292-0-7620
+msgctxt "149328292-0-7620"
+msgid "They worked my son until he collapsed and sent him to the Forge. It's been days since I've seen him …."
+msgstr ""
+
+#: 149328292-7-7620
+msgctxt "149328292-7-7620"
+msgid "They're preparing for war! This is just the beginning, I'm sure!"
+msgstr ""
+
+#: 149328292-2-8587
+msgctxt "149328292-2-8587"
+msgid "Wreathed in fire! I reign!"
+msgstr ""
+
+#: 149328292-7-7621
+msgctxt "149328292-7-7621"
+msgid "<Howling.>"
+msgstr ""
+
+#: 149328292-2-8588
+msgctxt "149328292-2-8588"
+msgid "No beast sets foot in the Jarl's hall!"
+msgstr ""
+
+#: 149328292-2-8585
+msgctxt "149328292-2-8585"
+msgid "Grovel!"
+msgstr ""
+
+#: 149328292-2-8586
+msgctxt "149328292-2-8586"
+msgid "Please! I don't want to die at my ancestors' hands! Cleanse the dead down there!"
+msgstr ""
+
+#: 149328292-1-8546
+msgctxt "149328292-1-8546"
+msgid "None defy a Jarl in his own home!"
+msgstr ""
+
+#: 149328292-2-8580
+msgctxt "149328292-2-8580"
+msgid "Drive them out!"
+msgstr ""
+
+#: 149328292-1-8547
+msgctxt "149328292-1-8547"
+msgid "Usurpers! This is my hold and no other's!"
+msgstr ""
+
+#: 149328292-3-8481
+msgctxt "149328292-3-8481"
+msgid "We'll drive you like cattle into a lake of fire!"
+msgstr ""
+
+#: 149328292-3-8484
+msgctxt "149328292-3-8484"
+msgid "Bare your throat for thirsty thorns!"
+msgstr ""
+
+#: 149328292-3-8485
+msgctxt "149328292-3-8485"
+msgid "Reap what they sow. Yes, they will."
+msgstr ""
+
+#: 149328292-3-8486
+msgctxt "149328292-3-8486"
+msgid "Rumble rubble, crash and tumble!"
+msgstr ""
+
+#: 149328292-3-8487
+msgctxt "149328292-3-8487"
+msgid "I am the Dreadhorn Clan!"
+msgstr ""
+
+#: 149328292-2-8559
+msgctxt "149328292-2-8559"
+msgid "Divines have mercy!"
+msgstr ""
+
+#: 149328292-2-8556
+msgctxt "149328292-2-8556"
+msgid "Offer your throat to the Hunt-Father!"
+msgstr ""
+
+#: 149328292-2-8557
+msgctxt "149328292-2-8557"
+msgid "All your halls will crumble!"
+msgstr ""
+
+#: 149328292-3-8480
+msgctxt "149328292-3-8480"
+msgid "The flames hunger!"
+msgstr ""
+
+#: 149328292-2-8550
+msgctxt "149328292-2-8550"
+msgid "Beg and I may spare your kin."
+msgstr ""
+
+#: 149328292-2-8555
+msgctxt "149328292-2-8555"
+msgid "Keep holding! Don't give them anything!"
+msgstr ""
+
+#: 149328292-3-8489
+msgctxt "149328292-3-8489"
+msgid "Fruits of the slaughter, sustain us!"
+msgstr ""
+
+#: 149328292-0-8182
+msgctxt "149328292-0-8182"
+msgid "Keep those arrows off our reinforcements!"
+msgstr ""
+
+#: 149328292-3-8591
+msgctxt "149328292-3-8591"
+msgid "I wield the earth and sky. This land is mine!"
+msgstr ""
+
+#: 149328292-3-8592
+msgctxt "149328292-3-8592"
+msgid "Let the elements decide."
+msgstr ""
+
+#: 149328292-4-7621
+msgctxt "149328292-4-7621"
+msgid "Patriarch, see your work rewarded!"
+msgstr ""
+
+#: 149328292-4-7620
+msgctxt "149328292-4-7620"
+msgid "Never seen Reachmen so rabid! They're mad!"
+msgstr ""
+
+#: 149328292-3-8477
+msgctxt "149328292-3-8477"
+msgid "The bulls are hungry. I'm hungry. Work."
+msgstr ""
+
+#: 149328292-6-7619
+msgctxt "149328292-6-7619"
+msgid "They butchered my brother just for meeting their gaze … they're animals!"
+msgstr ""
+
+#: 149328292-3-8590
+msgctxt "149328292-3-8590"
+msgid "Come and be trampled."
+msgstr ""
+
+#: 149328292-2-8561
+msgctxt "149328292-2-8561"
+msgid "Leave some! For the Forge!"
+msgstr ""
+
+#: 149328292-2-8560
+msgctxt "149328292-2-8560"
+msgid "We're trapped! We'll all be living dead soon!"
+msgstr ""
+
+#: 149328292-3-8478
+msgctxt "149328292-3-8478"
+msgid "The villages are too easy. I want to thin a real herd of Nord pigs!"
+msgstr ""
+
+#: 149328292-3-8479
+msgctxt "149328292-3-8479"
+msgid "We give the stone life!"
+msgstr ""
+
+#: 149328292-3-8580
+msgctxt "149328292-3-8580"
+msgid "On my mark!"
+msgstr ""
+
+#: 149328292-6-7620
+msgctxt "149328292-6-7620"
+msgid "Shor forgive me! It's your blood on my hands!"
+msgstr ""
+
+#: 149328292-3-8581
+msgctxt "149328292-3-8581"
+msgid "Leave nothing standing!"
+msgstr ""
+
+#: 149328292-3-8583
+msgctxt "149328292-3-8583"
+msgid "Let fire kindle its rage!"
+msgstr ""
+
+#: 149328292-3-8585
+msgctxt "149328292-3-8585"
+msgid "<Roar.>"
+msgstr ""
+
+#: 149328292-6-7621
+msgctxt "149328292-6-7621"
+msgid "<Beastial roar.>"
+msgstr ""
+
+#: 149328292-3-8586
+msgctxt "149328292-3-8586"
+msgid "Hurry with those bodies! I don't want to be here if they disturb old Bjarfrud the Bloody!"
+msgstr ""
+
+#: 149328292-3-8587
+msgctxt "149328292-3-8587"
+msgid "Come! Dance in flame!"
+msgstr ""
+
+#: 149328292-2-8537
+msgctxt "149328292-2-8537"
+msgid "My claim here cannot be broken so easily."
+msgstr ""
+
+#: 149328292-4-7619
+msgctxt "149328292-4-7619"
+msgid "Thought I'd wind up in Old Knocker's crooked teeth for certain."
+msgstr ""
+
+#: 149328292-2-8538
+msgctxt "149328292-2-8538"
+msgid "Oath-bound, rise!"
+msgstr ""
+
+#: 149328292-2-8539
+msgctxt "149328292-2-8539"
+msgid "Flee our lands! Tell all Skyrim the that the Dreadhorn Clan is coming!"
+msgstr ""
+
+#: 149328292-0-8488
+msgctxt "149328292-0-8488"
+msgid "May their blood stoke your hunger!"
+msgstr ""
+
+#: 149328292-0-8489
+msgctxt "149328292-0-8489"
+msgid "Hunt-Father, slake our thirst!"
+msgstr ""
+
+#: 149328292-0-8486
+msgctxt "149328292-0-8486"
+msgid "Fly away, fly away!"
+msgstr ""
+
+#: 149328292-0-8487
+msgctxt "149328292-0-8487"
+msgid "The Forge thirsts!"
+msgstr ""
+
+#: 149328292-0-8484
+msgctxt "149328292-0-8484"
+msgid "Hungry vines will knit your bones!"
+msgstr ""
+
+#: 149328292-0-8485
+msgctxt "149328292-0-8485"
+msgid "Land's my kin. Yes, it is. Holds me close. Yes, it does!"
+msgstr ""
+
+#: 149328292-0-8482
+msgctxt "149328292-0-8482"
+msgid "Ripe and plump!"
+msgstr ""
+
+#: 149328292-3-8589
+msgctxt "149328292-3-8589"
+msgid "Only ash will remain!"
+msgstr ""
+
+#: 149328292-0-8483
+msgctxt "149328292-0-8483"
+msgid "Roost the worms … yes, we will …."
+msgstr ""
+
+#: 149328292-0-8480
+msgctxt "149328292-0-8480"
+msgid "Wither and burn!"
+msgstr ""
+
+#: 149328292-0-8481
+msgctxt "149328292-0-8481"
+msgid "I'll kill you Reach-dogs!"
+msgstr ""
+
+#: 149328292-1-8182
+msgctxt "149328292-1-8182"
+msgid "No mercy! Take ten Reach-dogs for every true blooded Nord!"
+msgstr ""
+
+#: 149328292-2-8545
+msgctxt "149328292-2-8545"
+msgid "I will cover this land in ice and blood."
+msgstr ""
+
+#: 149328292-0-8479
+msgctxt "149328292-0-8479"
+msgid "Stone-kin! Rise!"
+msgstr ""
+
+#: 149328292-2-8540
+msgctxt "149328292-2-8540"
+msgid "You're scared. We can feel it."
+msgstr ""
+
+#: 149328292-0-8477
+msgctxt "149328292-0-8477"
+msgid "Dig the earth or feed it!"
+msgstr ""
+
+#: 149328292-0-8478
+msgctxt "149328292-0-8478"
+msgid "When do we hunt again? These weapons want to be cooled in blood!"
+msgstr ""
+
+#: 149328292-2-8541
+msgctxt "149328292-2-8541"
+msgid "Will you put up some fight or be slaughtered like these Nord pigs?"
+msgstr ""
+
+#: 149328292-0-8592
+msgctxt "149328292-0-8592"
+msgid "Elements, answer me!"
+msgstr ""
+
+#: 149328292-8-8555
+msgctxt "149328292-8-8555"
+msgid "I'll drag you all the Sovngarde!"
+msgstr ""
+
+#: 149328292-0-8590
+msgctxt "149328292-0-8590"
+msgid "Be consumed in fire!"
+msgstr ""
+
+#: 149328292-0-8591
+msgctxt "149328292-0-8591"
+msgid "I am the stone."
+msgstr ""
+
 #: 149328292-4-8491
 msgctxt "149328292-4-8491"
 msgid "Feel the teeth of the Forge!"
+msgstr ""
+
+#: 149328292-1-7620
+msgctxt "149328292-1-7620"
+msgid "What kind of vines throb and bleed?"
+msgstr ""
+
+#: 149328292-3-8561
+msgctxt "149328292-3-8561"
+msgid "Smell their fear! Make them weep!"
+msgstr ""
+
+#: 149328292-1-7621
+msgctxt "149328292-1-7621"
+msgid "For the Hunt-Father!"
+msgstr ""
+
+#: 149328292-0-7619
+msgctxt "149328292-0-7619"
+msgid "She'll know you're coming! She always knows."
+msgstr ""
+
+#: 149328292-1-7627
+msgctxt "149328292-1-7627"
+msgid "We are the chosen! The Dreadhorn will rule this land!"
+msgstr ""
+
+#: 149328292-1-7628
+msgctxt "149328292-1-7628"
+msgid "The Forge is my heart!"
 msgstr ""
 
 #: 149328292-4-8481
@@ -179,6 +1084,11 @@ msgstr ""
 #: 149328292-4-8480
 msgctxt "149328292-4-8480"
 msgid "Can you feel the lick and snap of the flames?"
+msgstr ""
+
+#: 149328292-3-8550
+msgctxt "149328292-3-8550"
+msgid "Don't keep your ancestors waiting."
 msgstr ""
 
 #: 149328292-4-8479
@@ -196,94 +1106,9 @@ msgctxt "149328292-4-8477"
 msgid "Should I let you go? I'd love to chase you down again."
 msgstr ""
 
-#: 149328292-4-8182
-msgctxt "149328292-4-8182"
-msgid "Send these milk drinkers scurrying back to the Reach!"
-msgstr ""
-
-#: 149328292-4-7621
-msgctxt "149328292-4-7621"
-msgid "Patriarch, see your work rewarded!"
-msgstr ""
-
-#: 149328292-4-7620
-msgctxt "149328292-4-7620"
-msgid "Never seen Reachmen so rabid! They're mad!"
-msgstr ""
-
-#: 149328292-4-7619
-msgctxt "149328292-4-7619"
-msgid "Thought I'd wind up in Old Knocker's crooked teeth for certain."
-msgstr ""
-
-#: 149328292-3-8592
-msgctxt "149328292-3-8592"
-msgid "Let the elements decide."
-msgstr ""
-
-#: 149328292-3-8591
-msgctxt "149328292-3-8591"
-msgid "I wield the earth and sky. This land is mine!"
-msgstr ""
-
-#: 149328292-3-8590
-msgctxt "149328292-3-8590"
-msgid "Come and be trampled."
-msgstr ""
-
-#: 149328292-3-8589
-msgctxt "149328292-3-8589"
-msgid "Only ash will remain!"
-msgstr ""
-
-#: 149328292-3-8587
-msgctxt "149328292-3-8587"
-msgid "Come! Dance in flame!"
-msgstr ""
-
-#: 149328292-3-8586
-msgctxt "149328292-3-8586"
-msgid "Hurry with those bodies! I don't want to be here if they disturb old Bjarfrud the Bloody!"
-msgstr ""
-
-#: 149328292-3-8585
-msgctxt "149328292-3-8585"
-msgid "<Roar.>"
-msgstr ""
-
-#: 149328292-3-8583
-msgctxt "149328292-3-8583"
-msgid "Let fire kindle its rage!"
-msgstr ""
-
-#: 149328292-3-8581
-msgctxt "149328292-3-8581"
-msgid "Leave nothing standing!"
-msgstr ""
-
-#: 149328292-3-8580
-msgctxt "149328292-3-8580"
-msgid "On my mark!"
-msgstr ""
-
-#: 149328292-3-8561
-msgctxt "149328292-3-8561"
-msgid "Smell their fear! Make them weep!"
-msgstr ""
-
-#: 149328292-3-8559
-msgctxt "149328292-3-8559"
-msgid "I won't die like a coward! I won't!"
-msgstr ""
-
-#: 149328292-3-8557
-msgctxt "149328292-3-8557"
-msgid "The Hunting Grounds call!"
-msgstr ""
-
-#: 149328292-3-8556
-msgctxt "149328292-3-8556"
-msgid "Bleat like the sheep you are!"
+#: 149328292-5-7619
+msgctxt "149328292-5-7619"
+msgid "I thought the horned raiders were just rumors … I should have listened."
 msgstr ""
 
 #: 149328292-3-8555
@@ -291,774 +1116,19 @@ msgctxt "149328292-3-8555"
 msgid "All is lost! Fall back!"
 msgstr ""
 
-#: 149328292-3-8550
-msgctxt "149328292-3-8550"
-msgid "Don't keep your ancestors waiting."
-msgstr ""
-
-#: 149328292-3-8538
-msgctxt "149328292-3-8538"
-msgid "Our compact is eternal."
-msgstr ""
-
-#: 149328292-3-8537
-msgctxt "149328292-3-8537"
-msgid "I will keep your bones as a trophy."
-msgstr ""
-
-#: 149328292-3-8491
-msgctxt "149328292-3-8491"
-msgid "Dangerous prey quickens the blood!"
-msgstr ""
-
-#: 149328292-3-8490
-msgctxt "149328292-3-8490"
-msgid "<Growls.>"
-msgstr ""
-
-#: 149328292-3-8489
-msgctxt "149328292-3-8489"
-msgid "Fruits of the slaughter, sustain us!"
-msgstr ""
-
-#: 149328292-3-8487
-msgctxt "149328292-3-8487"
-msgid "I am the Dreadhorn Clan!"
-msgstr ""
-
-#: 149328292-3-8486
-msgctxt "149328292-3-8486"
-msgid "Rumble rubble, crash and tumble!"
-msgstr ""
-
-#: 149328292-3-8485
-msgctxt "149328292-3-8485"
-msgid "Reap what they sow. Yes, they will."
-msgstr ""
-
-#: 149328292-3-8484
-msgctxt "149328292-3-8484"
-msgid "Bare your throat for thirsty thorns!"
-msgstr ""
-
-#: 149328292-3-8481
-msgctxt "149328292-3-8481"
-msgid "We'll drive you like cattle into a lake of fire!"
-msgstr ""
-
-#: 149328292-3-8480
-msgctxt "149328292-3-8480"
-msgid "The flames hunger!"
-msgstr ""
-
-#: 149328292-3-8479
-msgctxt "149328292-3-8479"
-msgid "We give the stone life!"
-msgstr ""
-
-#: 149328292-3-8478
-msgctxt "149328292-3-8478"
-msgid "The villages are too easy. I want to thin a real herd of Nord pigs!"
-msgstr ""
-
-#: 149328292-3-8477
-msgctxt "149328292-3-8477"
-msgid "The bulls are hungry. I'm hungry. Work."
-msgstr ""
-
-#: 149328292-3-8182
-msgctxt "149328292-3-8182"
-msgid "You'll get no slaves from this hold!"
-msgstr ""
-
-#: 149328292-3-7621
-msgctxt "149328292-3-7621"
-msgid "The horned-ones will break your bones!"
-msgstr ""
-
-#: 149328292-3-7620
-msgctxt "149328292-3-7620"
-msgid "They don't even have hearts, just this cursed red rock where it should be!"
-msgstr ""
-
-#: 149328292-3-7619
-msgctxt "149328292-3-7619"
-msgid "They meant to turn us to cattle. First we get the yoke, then we get the cleaver!"
-msgstr ""
-
-#: 149328292-2-8592
-msgctxt "149328292-2-8592"
-msgid "This land knows its master."
-msgstr ""
-
-#: 149328292-2-8591
-msgctxt "149328292-2-8591"
-msgid "My line is unbroken."
-msgstr ""
-
-#: 149328292-2-8590
-msgctxt "149328292-2-8590"
-msgid "No escape from me."
-msgstr ""
-
-#: 149328292-2-8589
-msgctxt "149328292-2-8589"
-msgid "This hall will be your pyre!"
-msgstr ""
-
-#: 149328292-2-8588
-msgctxt "149328292-2-8588"
-msgid "No beast sets foot in the Jarl's hall!"
-msgstr ""
-
-#: 149328292-2-8587
-msgctxt "149328292-2-8587"
-msgid "Wreathed in fire! I reign!"
-msgstr ""
-
-#: 149328292-2-8586
-msgctxt "149328292-2-8586"
-msgid "Please! I don't want to die at my ancestors' hands! Cleanse the dead down there!"
-msgstr ""
-
-#: 149328292-2-8585
-msgctxt "149328292-2-8585"
-msgid "Grovel!"
-msgstr ""
-
-#: 149328292-2-8584
-msgctxt "149328292-2-8584"
-msgid "I'll spare you the sight of Falkreath burning!"
-msgstr ""
-
-#: 149328292-2-8583
-msgctxt "149328292-2-8583"
-msgid "Goad the beast! It wins or it dies!"
-msgstr ""
-
-#: 149328292-2-8581
-msgctxt "149328292-2-8581"
-msgid "Full volley!"
-msgstr ""
-
-#: 149328292-2-8580
-msgctxt "149328292-2-8580"
-msgid "Drive them out!"
-msgstr ""
-
-#: 149328292-2-8561
-msgctxt "149328292-2-8561"
-msgid "Leave some! For the Forge!"
-msgstr ""
-
-#: 149328292-2-8560
-msgctxt "149328292-2-8560"
-msgid "We're trapped! We'll all be living dead soon!"
-msgstr ""
-
-#: 149328292-2-8559
-msgctxt "149328292-2-8559"
-msgid "Divines have mercy!"
-msgstr ""
-
-#: 149328292-2-8557
-msgctxt "149328292-2-8557"
-msgid "All your halls will crumble!"
-msgstr ""
-
-#: 149328292-2-8556
-msgctxt "149328292-2-8556"
-msgid "Offer your throat to the Hunt-Father!"
-msgstr ""
-
-#: 149328292-2-8555
-msgctxt "149328292-2-8555"
-msgid "Keep holding! Don't give them anything!"
-msgstr ""
-
-#: 149328292-2-8550
-msgctxt "149328292-2-8550"
-msgid "Beg and I may spare your kin."
-msgstr ""
-
-#: 149328292-2-8545
-msgctxt "149328292-2-8545"
-msgid "I will cover this land in ice and blood."
-msgstr ""
-
-#: 149328292-2-8541
-msgctxt "149328292-2-8541"
-msgid "Will you put up some fight or be slaughtered like these Nord pigs?"
-msgstr ""
-
-#: 149328292-2-8540
-msgctxt "149328292-2-8540"
-msgid "You're scared. We can feel it."
-msgstr ""
-
-#: 149328292-2-8539
-msgctxt "149328292-2-8539"
-msgid "Flee our lands! Tell all Skyrim the that the Dreadhorn Clan is coming!"
-msgstr ""
-
-#: 149328292-2-8538
-msgctxt "149328292-2-8538"
-msgid "Oath-bound, rise!"
-msgstr ""
-
-#: 149328292-2-8537
-msgctxt "149328292-2-8537"
-msgid "My claim here cannot be broken so easily."
-msgstr ""
-
-#: 149328292-2-8493
-msgctxt "149328292-2-8493"
-msgid "Even fire hungers! I welcome it!"
-msgstr ""
-
-#: 149328292-2-8492
-msgctxt "149328292-2-8492"
-msgid "You'll repay that blood with your own!"
-msgstr ""
-
-#: 149328292-2-8491
-msgctxt "149328292-2-8491"
-msgid "My teeth are sharp, little lambs."
-msgstr ""
-
-#: 149328292-2-8490
-msgctxt "149328292-2-8490"
-msgid "<Huffs.>"
-msgstr ""
-
-#: 149328292-2-8489
-msgctxt "149328292-2-8489"
-msgid "Feast on our prey!"
-msgstr ""
-
-#: 149328292-2-8487
-msgctxt "149328292-2-8487"
-msgid "Vengeance for my children!"
-msgstr ""
-
-#: 149328292-2-8486
-msgctxt "149328292-2-8486"
-msgid "Mashed and mauled in rocky teeth!"
-msgstr ""
-
-#: 149328292-2-8485
-msgctxt "149328292-2-8485"
-msgid "Bows they bend and bones they break, these branches of mine!"
-msgstr ""
-
-#: 149328292-2-8484
-msgctxt "149328292-2-8484"
-msgid "Hungry roots hear me crow! They do! They do!"
-msgstr ""
-
-#: 149328292-2-8481
-msgctxt "149328292-2-8481"
-msgid "Animals! You're all animals!"
-msgstr ""
-
-#: 149328292-2-8480
-msgctxt "149328292-2-8480"
-msgid "No escape from the earth's fire!"
-msgstr ""
-
-#: 149328292-2-8479
-msgctxt "149328292-2-8479"
-msgid "I beckon, the land answers!"
-msgstr ""
-
-#: 149328292-2-8478
-msgctxt "149328292-2-8478"
-msgid "The Hunt-Father must be pleased. A feast is coming!"
-msgstr ""
-
-#: 149328292-2-8477
-msgctxt "149328292-2-8477"
-msgid "Think it's hot here? The Forge will consume you!"
-msgstr ""
-
-#: 149328292-2-8182
-msgctxt "149328292-2-8182"
-msgid "For the Jarl! For Falkreath!"
-msgstr ""
-
-#: 149328292-2-7621
-msgctxt "149328292-2-7621"
-msgid "The clan will drink your blood!"
-msgstr ""
-
-#: 149328292-2-7620
-msgctxt "149328292-2-7620"
-msgid "That thundering hammer. It never rests! I just want it to stop!"
-msgstr ""
-
-#: 149328292-2-7619
-msgctxt "149328292-2-7619"
-msgid "Who's safe from these Reach-dogs? Only Falkreath's walls, surely. We'll go there."
-msgstr ""
-
-#: 149328292-1-8592
-msgctxt "149328292-1-8592"
-msgid "The world is my ally."
-msgstr ""
-
-#: 149328292-1-8591
-msgctxt "149328292-1-8591"
-msgid "The Horned Lord protects."
-msgstr ""
-
-#: 149328292-1-8590
-msgctxt "149328292-1-8590"
-msgid "Earth and fire obey!"
-msgstr ""
-
-#: 149328292-1-8589
-msgctxt "149328292-1-8589"
-msgid "Let it all burn!"
-msgstr ""
-
-#: 149328292-1-8588
-msgctxt "149328292-1-8588"
-msgid "There's no retreat from here! Fight!"
-msgstr ""
-
-#: 149328292-1-8587
-msgctxt "149328292-1-8587"
-msgid "I embrace the flame!"
-msgstr ""
-
-#: 149328292-1-8586
-msgctxt "149328292-1-8586"
-msgid "We won't be safe while there are bodies for these spirits!"
-msgstr ""
-
-#: 149328292-1-8585
-msgctxt "149328292-1-8585"
-msgid "Death is waiting!"
-msgstr ""
-
-#: 149328292-1-8584
-msgctxt "149328292-1-8584"
-msgid "No one can save this hold now!"
-msgstr ""
-
-#: 149328292-1-8583
-msgctxt "149328292-1-8583"
-msgid "Get up and fight or I'll kill you myself!"
-msgstr ""
-
-#: 149328292-1-8581
-msgctxt "149328292-1-8581"
-msgid "Kill them all!"
-msgstr ""
-
-#: 149328292-1-8580
-msgctxt "149328292-1-8580"
-msgid "Strike there!"
-msgstr ""
-
-#: 149328292-1-8561
-msgctxt "149328292-1-8561"
-msgid "Burn it all! Leave nothing!"
-msgstr ""
-
-#: 149328292-1-8560
-msgctxt "149328292-1-8560"
-msgid "Divines have mercy! The dead come for us!"
-msgstr ""
-
-#: 149328292-1-8559
-msgctxt "149328292-1-8559"
-msgid "Don't look back! They're coming!"
-msgstr ""
-
-#: 149328292-1-8557
-msgctxt "149328292-1-8557"
-msgid "Our home! Then and now!"
-msgstr ""
-
-#: 149328292-1-8556
-msgctxt "149328292-1-8556"
-msgid "Ours for the taking!"
-msgstr ""
-
-#: 149328292-1-8555
-msgctxt "149328292-1-8555"
-msgid "For Falkreath!"
-msgstr ""
-
-#: 149328292-1-8550
-msgctxt "149328292-1-8550"
-msgid "What are you waiting for, coward?"
-msgstr ""
-
-#: 149328292-1-8547
-msgctxt "149328292-1-8547"
-msgid "Usurpers! This is my hold and no other's!"
-msgstr ""
-
-#: 149328292-1-8546
-msgctxt "149328292-1-8546"
-msgid "None defy a Jarl in his own home!"
-msgstr ""
-
-#: 149328292-1-8545
-msgctxt "149328292-1-8545"
-msgid "Welcome, slaves eternal."
-msgstr ""
-
-#: 149328292-1-8544
-msgctxt "149328292-1-8544"
-msgid "We are immortal, fools!"
-msgstr ""
-
-#: 149328292-1-8543
-msgctxt "149328292-1-8543"
-msgid "The oath sustains us. Accept your fate."
-msgstr ""
-
-#: 149328292-1-8542
-msgctxt "149328292-1-8542"
-msgid "You cannot break our bond!"
-msgstr ""
-
-#: 149328292-1-8541
-msgctxt "149328292-1-8541"
-msgid "The scent of your fear is overwhelming."
-msgstr ""
-
-#: 149328292-1-8540
-msgctxt "149328292-1-8540"
-msgid "There will never be rest for you!"
-msgstr ""
-
-#: 149328292-1-8539
-msgctxt "149328292-1-8539"
-msgid "The ancestors crave your blood!"
-msgstr ""
-
-#: 149328292-1-8538
-msgctxt "149328292-1-8538"
-msgid "Claim your bodies! Claim their lives!"
-msgstr ""
-
-#: 149328292-1-8537
-msgctxt "149328292-1-8537"
-msgid "Your flames will flicker and die."
-msgstr ""
-
-#: 149328292-1-8536
-msgctxt "149328292-1-8536"
-msgid "I won't stand for this dishonor!"
-msgstr ""
-
-#: 149328292-1-8535
-msgctxt "149328292-1-8535"
-msgid "No injury is left unanswered in my hold."
-msgstr ""
-
-#: 149328292-1-8493
-msgctxt "149328292-1-8493"
-msgid "Temper me in fire! It makes no difference!"
-msgstr ""
-
-#: 149328292-1-8492
-msgctxt "149328292-1-8492"
-msgid "No! We are the Hunt-Father's chosen!"
-msgstr ""
-
-#: 149328292-1-8491
-msgctxt "149328292-1-8491"
-msgid "I can feel its hunger!"
-msgstr ""
-
-#: 149328292-1-8490
-msgctxt "149328292-1-8490"
-msgid "<Snorts.>"
-msgstr ""
-
-#: 149328292-1-8489
-msgctxt "149328292-1-8489"
-msgid "Life-blood for the chosen!"
-msgstr ""
-
-#: 149328292-1-8488
-msgctxt "149328292-1-8488"
-msgid "Hunt-Father, we honor you with this worthy prey!"
-msgstr ""
-
-#: 149328292-1-8487
-msgctxt "149328292-1-8487"
-msgid "We will trample all Skyrim to dust!"
-msgstr ""
-
-#: 149328292-1-8486
-msgctxt "149328292-1-8486"
-msgid "Stoney talons gouge them deep!"
-msgstr ""
-
-#: 149328292-1-8485
-msgctxt "149328292-1-8485"
-msgid "Safe in our nest. Yes, we are."
-msgstr ""
-
-#: 149328292-1-8484
-msgctxt "149328292-1-8484"
-msgid "Earth has fangs. Yes, it does!"
-msgstr ""
-
-#: 149328292-1-8483
-msgctxt "149328292-1-8483"
-msgid "Plant our bones and bulbs will sprout … yes, they will."
-msgstr ""
-
-#: 149328292-1-8482
-msgctxt "149328292-1-8482"
-msgid "Pluck their eyes and watch them flail!"
-msgstr ""
-
-#: 149328292-1-8481
-msgctxt "149328292-1-8481"
-msgid "Butcher them! Every last one!"
-msgstr ""
-
-#: 149328292-1-8480
-msgctxt "149328292-1-8480"
-msgid "Your ashes will nourish the land!"
-msgstr ""
-
-#: 149328292-1-8479
-msgctxt "149328292-1-8479"
-msgid "I am brother to the stone!"
-msgstr ""
-
-#: 149328292-1-8478
-msgctxt "149328292-1-8478"
-msgid "The Nord-pigs will squeal! I can't wait much longer!"
-msgstr ""
-
-#: 149328292-1-8477
-msgctxt "149328292-1-8477"
-msgid "I smell your fear! Should I taste your coward blood?"
-msgstr ""
-
-#: 149328292-1-8182
-msgctxt "149328292-1-8182"
-msgid "No mercy! Take ten Reach-dogs for every true blooded Nord!"
-msgstr ""
-
-#: 149328292-1-7628
-msgctxt "149328292-1-7628"
-msgid "The Forge is my heart!"
-msgstr ""
-
-#: 149328292-1-7627
-msgctxt "149328292-1-7627"
-msgid "We are the chosen! The Dreadhorn will rule this land!"
-msgstr ""
-
-#: 149328292-1-7621
-msgctxt "149328292-1-7621"
-msgid "For the Hunt-Father!"
-msgstr ""
-
-#: 149328292-1-7620
-msgctxt "149328292-1-7620"
-msgid "What kind of vines throb and bleed?"
-msgstr ""
-
-#: 149328292-1-7619
-msgctxt "149328292-1-7619"
-msgid "They burned everything we had—but at least we're alive! Thank you!"
-msgstr ""
-
-#: 149328292-0-8592
-msgctxt "149328292-0-8592"
-msgid "Elements, answer me!"
-msgstr ""
-
-#: 149328292-0-8591
-msgctxt "149328292-0-8591"
-msgid "I am the stone."
-msgstr ""
-
-#: 149328292-0-8590
-msgctxt "149328292-0-8590"
-msgid "Be consumed in fire!"
-msgstr ""
-
-#: 149328292-0-8589
-msgctxt "149328292-0-8589"
-msgid "Nowhere to hide."
-msgstr ""
-
-#: 149328292-0-8588
-msgctxt "149328292-0-8588"
-msgid "Protect the Jarl! Let none pass!"
-msgstr ""
-
-#: 149328292-0-8587
-msgctxt "149328292-0-8587"
-msgid "Withstand my inner fire!"
-msgstr ""
-
-#: 149328292-0-8586
-msgctxt "149328292-0-8586"
-msgid "Shor's bones! More spirits! Cleanse those corpses before anymore draugr block our escape."
-msgstr ""
-
-#: 149328292-0-8585
-msgctxt "149328292-0-8585"
-msgid "Enough!"
-msgstr ""
-
-#: 149328292-0-8584
-msgctxt "149328292-0-8584"
-msgid "Is this all they've brought?"
-msgstr ""
-
-#: 149328292-0-8583
-msgctxt "149328292-0-8583"
-msgid "Get up you worthless beast!"
-msgstr ""
-
-#: 149328292-0-8581
-msgctxt "149328292-0-8581"
-msgid "Scorch the earth black!"
-msgstr ""
-
-#: 149328292-0-8580
-msgctxt "149328292-0-8580"
-msgid "Fire!"
-msgstr ""
-
-#: 149328292-0-8577
-msgctxt "149328292-0-8577"
-msgid "<Humming>"
-msgstr ""
-
-#: 149328292-0-8561
-msgctxt "149328292-0-8561"
-msgid "No mercy! Drink their blood!"
-msgstr ""
-
-#: 149328292-0-8560
-msgctxt "149328292-0-8560"
-msgid "Cursed! This place is cursed!"
-msgstr ""
-
-#: 149328292-0-8559
-msgctxt "149328292-0-8559"
-msgid "No! Please don't—"
-msgstr ""
-
-#: 149328292-0-8557
-msgctxt "149328292-0-8557"
-msgid "Join your kin!"
-msgstr ""
-
-#: 149328292-0-8556
-msgctxt "149328292-0-8556"
-msgid "No more cowering in your hold, Nord-swine!"
-msgstr ""
-
-#: 149328292-0-8555
-msgctxt "149328292-0-8555"
-msgid "Watch your flanks! They're everywhere!"
-msgstr ""
-
-#: 149328292-0-8550
-msgctxt "149328292-0-8550"
-msgid "Second thoughts, eh? Too late for forgiveness now."
-msgstr ""
-
-#: 149328292-0-8549
-msgctxt "149328292-0-8549"
-msgid "You honor me. Sovngarde calls .…"
-msgstr ""
-
-#: 149328292-0-8548
-msgctxt "149328292-0-8548"
-msgid "Argh! Unholy curse! I left this world long ago …."
-msgstr ""
-
-#: 149328292-0-8547
-msgctxt "149328292-0-8547"
-msgid "Come for my throne? Over my dead body!"
-msgstr ""
-
-#: 149328292-0-8546
-msgctxt "149328292-0-8546"
-msgid "To Orkey's wretched arse with you."
-msgstr ""
-
-#: 149328292-0-8545
-msgctxt "149328292-0-8545"
-msgid "Where are your gods now?"
-msgstr ""
-
-#: 149328292-0-8544
-msgctxt "149328292-0-8544"
-msgid "Cernunnon determines when I die, not you."
-msgstr ""
-
-#: 149328292-0-8543
-msgctxt "149328292-0-8543"
-msgid "You can't contain us."
-msgstr ""
-
-#: 149328292-0-8542
-msgctxt "149328292-0-8542"
-msgid "We hold the power of Cernunnon within us!"
-msgstr ""
-
-#: 149328292-0-8541
-msgctxt "149328292-0-8541"
-msgid "You are right to fear Cernunnon!"
-msgstr ""
-
-#: 149328292-0-8540
-msgctxt "149328292-0-8540"
-msgid "Your spirits will wail at our feasts for generations to come!"
-msgstr ""
-
-#: 149328292-0-8539
-msgctxt "149328292-0-8539"
-msgid "See them shiver. Is it fear or is it cold?"
-msgstr ""
-
-#: 149328292-0-8538
-msgctxt "149328292-0-8538"
-msgid "Death has no claim over us."
-msgstr ""
-
-#: 149328292-0-8537
-msgctxt "149328292-0-8537"
-msgid "I will claim you myself."
-msgstr ""
-
-#: 149328292-0-8536
-msgctxt "149328292-0-8536"
-msgid "Despoilers! Keep your filthy paws off my honored dead!"
-msgstr ""
-
-#: 149328292-0-8535
-msgctxt "149328292-0-8535"
-msgid "I'll avenge my own—a hundred fold!"
-msgstr ""
-
 #: 149328292-0-8493
 msgctxt "149328292-0-8493"
 msgid "The Forge is ours, no others!"
 msgstr ""
 
-#: 149328292-0-8492
-msgctxt "149328292-0-8492"
-msgid "That is the blood of our prey!"
+#: 149328292-3-8556
+msgctxt "149328292-3-8556"
+msgid "Bleat like the sheep you are!"
+msgstr ""
+
+#: 149328292-3-8557
+msgctxt "149328292-3-8557"
+msgid "The Hunting Grounds call!"
 msgstr ""
 
 #: 149328292-0-8491
@@ -1066,102 +1136,32 @@ msgctxt "149328292-0-8491"
 msgid "The Forge beckons!"
 msgstr ""
 
+#: 149328292-0-8492
+msgctxt "149328292-0-8492"
+msgid "That is the blood of our prey!"
+msgstr ""
+
+#: 149328292-3-8559
+msgctxt "149328292-3-8559"
+msgid "I won't die like a coward! I won't!"
+msgstr ""
+
+#: 149328292-4-8592
+msgctxt "149328292-4-8592"
+msgid "<Gutteral Chanting.>"
+msgstr ""
+
 #: 149328292-0-8490
 msgctxt "149328292-0-8490"
 msgid "<Roars.>"
 msgstr ""
 
-#: 149328292-0-8489
-msgctxt "149328292-0-8489"
-msgid "Hunt-Father, slake our thirst!"
+#: 149328292-4-8591
+msgctxt "149328292-4-8591"
+msgid "<Gutteral Chanting.>"
 msgstr ""
 
-#: 149328292-0-8488
-msgctxt "149328292-0-8488"
-msgid "May their blood stoke your hunger!"
-msgstr ""
-
-#: 149328292-0-8487
-msgctxt "149328292-0-8487"
-msgid "The Forge thirsts!"
-msgstr ""
-
-#: 149328292-0-8486
-msgctxt "149328292-0-8486"
-msgid "Fly away, fly away!"
-msgstr ""
-
-#: 149328292-0-8485
-msgctxt "149328292-0-8485"
-msgid "Land's my kin. Yes, it is. Holds me close. Yes, it does!"
-msgstr ""
-
-#: 149328292-0-8484
-msgctxt "149328292-0-8484"
-msgid "Hungry vines will knit your bones!"
-msgstr ""
-
-#: 149328292-0-8483
-msgctxt "149328292-0-8483"
-msgid "Roost the worms … yes, we will …."
-msgstr ""
-
-#: 149328292-0-8482
-msgctxt "149328292-0-8482"
-msgid "Ripe and plump!"
-msgstr ""
-
-#: 149328292-0-8481
-msgctxt "149328292-0-8481"
-msgid "I'll kill you Reach-dogs!"
-msgstr ""
-
-#: 149328292-0-8480
-msgctxt "149328292-0-8480"
-msgid "Wither and burn!"
-msgstr ""
-
-#: 149328292-0-8479
-msgctxt "149328292-0-8479"
-msgid "Stone-kin! Rise!"
-msgstr ""
-
-#: 149328292-0-8478
-msgctxt "149328292-0-8478"
-msgid "When do we hunt again? These weapons want to be cooled in blood!"
-msgstr ""
-
-#: 149328292-0-8477
-msgctxt "149328292-0-8477"
-msgid "Dig the earth or feed it!"
-msgstr ""
-
-#: 149328292-0-8182
-msgctxt "149328292-0-8182"
-msgid "Keep those arrows off our reinforcements!"
-msgstr ""
-
-#: 149328292-0-7628
-msgctxt "149328292-0-7628"
-msgid "The land's blood is my blood!"
-msgstr ""
-
-#: 149328292-0-7627
-msgctxt "149328292-0-7627"
-msgid "Hunt-Father! I pledge this feast to you!"
-msgstr ""
-
-#: 149328292-0-7621
-msgctxt "149328292-0-7621"
-msgid "True prey at last!"
-msgstr ""
-
-#: 149328292-0-7620
-msgctxt "149328292-0-7620"
-msgid "They worked my son until he collapsed and sent him to the Forge. It's been days since I've seen him …."
-msgstr ""
-
-#: 149328292-0-7619
-msgctxt "149328292-0-7619"
-msgid "She'll know you're coming! She always knows."
+#: 149328292-4-8590
+msgctxt "149328292-4-8590"
+msgid "<Gutteral Chanting.>"
 msgstr ""

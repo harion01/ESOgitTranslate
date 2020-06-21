@@ -11,31 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-36912
-msgctxt "256430276-0-36912"
-msgid "Place Hagraven Heads on Pikes"
-msgstr ""
-
-#: 256430276-0-36893
-msgctxt "256430276-0-36893"
-msgid "Use the Rift to Escape to Tamriel"
-msgstr ""
-
-#: 256430276-0-36889
-msgctxt "256430276-0-36889"
-msgid "Get to the Anchor Base"
-msgstr ""
-
-#: 256430276-0-36879
-msgctxt "256430276-0-36879"
-msgid "Destroy a Coldharbour Sentinel"
-msgstr ""
-
-#: 256430276-0-36748
-msgctxt "256430276-0-36748"
-msgid "Return to <<1>>"
-msgstr ""
-
 #: 256430276-0-36183
 msgctxt "256430276-0-36183"
 msgid "Collect the Final Ward"
@@ -44,11 +19,6 @@ msgstr ""
 #: 256430276-0-21901
 msgctxt "256430276-0-21901"
 msgid "Activate Welkynd Stone and Kill <<1>>"
-msgstr ""
-
-#: 256430276-0-14479
-msgctxt "256430276-0-14479"
-msgid "Enter the Northern Ruins"
 msgstr ""
 
 #: 256430276-0-14475
@@ -61,9 +31,14 @@ msgctxt "256430276-0-14288"
 msgid "Collect a <<1>>"
 msgstr ""
 
-#: 256430276-0-13442
-msgctxt "256430276-0-13442"
-msgid "Observe Balreth's Attack"
+#: 256430276-0-36893
+msgctxt "256430276-0-36893"
+msgid "Use the Rift to Escape to Tamriel"
+msgstr ""
+
+#: 256430276-0-14479
+msgctxt "256430276-0-14479"
+msgid "Enter the Northern Ruins"
 msgstr ""
 
 #: 121487972-0-10693
@@ -74,4 +49,29 @@ msgstr ""
 #: 121487972-0-10692
 msgctxt "121487972-0-10692"
 msgid "Talk to <<1>>"
+msgstr ""
+
+#: 256430276-0-13442
+msgctxt "256430276-0-13442"
+msgid "Observe Balreth's Attack"
+msgstr ""
+
+#: 256430276-0-36889
+msgctxt "256430276-0-36889"
+msgid "Get to the Anchor Base"
+msgstr ""
+
+#: 256430276-0-36912
+msgctxt "256430276-0-36912"
+msgid "Place Hagraven Heads on Pikes"
+msgstr ""
+
+#: 256430276-0-36879
+msgctxt "256430276-0-36879"
+msgid "Destroy a Coldharbour Sentinel"
+msgstr ""
+
+#: 256430276-0-36748
+msgctxt "256430276-0-36748"
+msgid "Return to <<1>>"
 msgstr ""

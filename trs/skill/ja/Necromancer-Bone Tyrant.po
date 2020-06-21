@@ -11,65 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-118664
-msgctxt "132143172-0-118664"
-msgid "Become a destructive Pummeling Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health. \n\nYour bash attacks can hit multiple targets in front of you and deal <<5>>."
-msgstr "破壊的な怒りの巨人に魂を融合させ、最大体力を<<1>>、<<2>>の間上昇させ、即座に体力を<<1>>回復する。\r\n\r\n変身すると、軽攻撃が体力を<<3>>回復し、フルチャージした重攻撃が体力を<<4>>回復する。このアビリティの効力は最大体力に比例して変動する。\r\n\r\nバッシュ攻撃は前にいる複数のターゲットを攻撃し、<<5>>を与える。"
+#: 132143172-0-115115
+msgctxt "132143172-0-115115"
+msgid "Slice into your enemy's life force, dealing <<1>>.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy hit, up to five times.  The healing of this ability scales off your Max Health."
+msgstr "敵の生命力を刈り取って<<1>>を与える。\r\n\r\n最初に敵に命中させた時点で<<2>>を回復する。さらに他の敵を攻撃するたび、最大5回まで回復が<<3>>上昇する。このアビリティの効力は最大体力に比例して変動する。"
 
-#: 198758357-0-118664
-msgctxt "198758357-0-118664"
-msgid "Pummeling Goliath"
-msgstr "怒りの巨人"
-
-#: 132143172-0-118639
-msgctxt "132143172-0-118639"
-msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per additional corpse.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
-msgstr "死体に残る生命力を吸い取り、<<1>>アルティマを獲得する。さらに死体を吸収した数に応じて、体力を<<2>>、<<3>>ごとに<<4>>の間得るこのアビリティの効力は最大体力に比例して変動する。\r\n\r\n死体を吸収するごとに<<5>>アルティマが得られる。"
-
-#: 198758357-0-118639
-msgctxt "198758357-0-118639"
-msgid "Necrotic Potency"
-msgstr "死霊術の効力"
-
-#: 132143172-0-118623
-msgctxt "132143172-0-118623"
-msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed. While you have the heal effect, you gain Major Protection, reducing the damage you take by <<5>>.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<6>>."
-msgstr "死体に残る生命力を吸い取り、<<1>>アルティマを獲得する。さらに死体を吸収した数に応じて、体力を<<2>>、<<3>>ごとに<<4>>の間得る。回復効果が有効な間は防護(強)を得て、被ダメージが<<5>>低下する。このアビリティの効力は最大体力に比例して変動する。\r\n\r\nスロットに装備している間、被ダメージが<<6>>低下する。"
-
-#: 198758357-0-118623
-msgctxt "198758357-0-118623"
-msgid "Deaden Pain"
-msgstr "苦痛の緩和"
-
-#: 132143172-0-118404
-msgctxt "132143172-0-118404"
-msgid "Summon an effigy of bone at your feet that gives Minor Protection to you and your allies for <<1>>, reducing damage taken by <<2>>. \n\nAfter <<3>>,  the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for <<5>>.\n\nAllies can activate <<6>>, causing enemies to take <<7>> over <<8>> and applying Minor Vulnerability to them, increasing their damage taken by <<9>>."
-msgstr "骨の像を足元に設置し、自身と味方に防護(弱)を<<1>>の間与えて、被ダメージを<<2>>低下させる。\r\n\r\n<<3>>が経過すると、トーテムは周囲の敵を<<4>>ごとに恐怖させ、<<5>>の間その場で萎縮させる。\r\n\r\n味方は<<6>>を発動し、敵に<<7>>を<<8>>の間与える。さらに脆弱(弱)を付与し、被ダメージを<<9>>上昇させる。"
-
-#: 198758357-0-118404
-msgctxt "198758357-0-118404"
-msgid "Agony Totem"
-msgstr "苦痛のトーテム"
-
-#: 132143172-0-118380
-msgctxt "132143172-0-118380"
-msgid "Call forth an effigy of bone that gives Minor Protection to you and your allies for <<1>>, reducing your damage taken by <<2>>. \n\nAfter <<3>>, the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for  <<5>>."
-msgstr "骨の像を呼び出し、自身と味方に防護(弱)を<<1>>の間与えて、被ダメージを<<2>>低下させる。\r\n\r\n<<3>>が経過すると、トーテムは周囲の敵を<<4>>ごとに恐怖させ、<<5>>の間その場で萎縮させる。"
-
-#: 198758357-0-118380
-msgctxt "198758357-0-118380"
-msgid "Remote Totem"
-msgstr "遠隔トーテム"
-
-#: 132143172-0-118352
-msgctxt "132143172-0-118352"
-msgid "Summon skeletal claws from the ground, snaring your enemies by <<1>> for <<2>> and inflicting Minor Maim for <<3>>, reducing their damage done by <<4>>.\n\nHitting you or your allies grants them Empower for <<5>>, increasing the damage of their next Light Attack by <<6>>.\n\nHitting your Skeletal Mage or Spirit Mender enhances them for <<7>>, increasing their effectiveness by <<6>>."
-msgstr "地面からスケルトンの爪を召喚し、敵の動きを<<1>>、<<2>>の間減速させて、不自由(弱)を<<3>>の間与える。敵の与ダメージは<<4>>低下する。\r\n\r\n自身か味方が攻撃されると<<5>>の間強化され、次の軽攻撃のダメージが<<6>>上昇する。\r\n\r\nスケルトンの魔術師か霊魂の修復師が攻撃されると<<7>>の間強化し、効果が<<6>>上昇する。"
-
-#: 198758357-0-118352
-msgctxt "198758357-0-118352"
-msgid "Empowering Grasp"
-msgstr "強化の手"
+#: 198758357-0-115115
+msgctxt "198758357-0-115115"
+msgid "Death Scythe"
+msgstr "死の鎌"
 
 #: 132143172-0-118308
 msgctxt "132143172-0-118308"
@@ -81,25 +31,45 @@ msgctxt "198758357-0-118308"
 msgid "Ghostly Embrace"
 msgstr "亡霊の抱擁"
 
-#: 132143172-0-118279
-msgctxt "132143172-0-118279"
-msgid "Become a horrific Ravenous Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. You deal <<5>> damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health."
-msgstr "恐ろしき貪欲な巨人に魂を融合させ、最大体力を<<1>>、<<2>>の間上昇させ、即座に体力を<<1>>回復する。\r\n\r\n変身すると、軽攻撃が体力を<<3>>回復し、フルチャージした重攻撃が体力を<<4>>回復する。近くの敵に<<5>>ダメージを1秒ごとに与え、その分のダメージを回復する。このアビリティの効力は最大体力に比例して変動する。"
+#: 132143172-0-115238
+msgctxt "132143172-0-115238"
+msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed.  This ability scales off of your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
+msgstr "死体に残る生命力を吸い取り、<<1>>アルティマを獲得する。さらに死体を吸収した数に応じて、体力を<<2>>、<<3>>ごとに<<4>>の間得る。このアビリティの効力は最大体力に比例して変動する。\r\n\r\nスロットに装備している間、被ダメージが<<5>>低下する。"
 
-#: 198758357-0-118279
-msgctxt "198758357-0-118279"
-msgid "Ravenous Goliath"
-msgstr "貪欲な巨人"
+#: 198758357-0-115238
+msgctxt "198758357-0-115238"
+msgid "Bitter Harvest"
+msgstr "苦き収穫"
 
-#: 132143172-0-118244
-msgctxt "132143172-0-118244"
-msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by <<3>>.\n\nCreates a corpse when the effect completes."
-msgstr "硬化された骨で身を包み、強固(強)を獲得する。物理耐性と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n発動中は骨爆弾、スケルトンの魔術師、霊魂の修復師の召喚コストが<<3>>低下する。\r\n\r\n効果が終了すると、死体を作成する。"
+#: 132143172-0-118404
+msgctxt "132143172-0-118404"
+msgid "Summon an effigy of bone at your feet that gives Minor Protection to you and your allies for <<1>>, reducing damage taken by <<2>>. \n\nAfter <<3>>,  the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for <<5>>.\n\nAllies can activate <<6>>, causing enemies to take <<7>> over <<8>> and applying Minor Vulnerability to them, increasing their damage taken by <<9>>."
+msgstr "骨の像を足元に設置し、自身と味方に防護(弱)を<<1>>の間与えて、被ダメージを<<2>>低下させる。\r\n\r\n<<3>>が経過すると、トーテムは周囲の敵を<<4>>ごとに恐怖させ、<<5>>の間その場で萎縮させる。\r\n\r\n味方は<<6>>を発動し、敵に<<7>>を<<8>>の間与える。さらに脆弱(弱)を付与し、被ダメージを<<9>>上昇させる。"
 
-#: 198758357-0-118244
-msgctxt "198758357-0-118244"
-msgid "Summoner's Armor"
-msgstr "召喚師の鎧"
+#: 198758357-0-118404
+msgctxt "198758357-0-118404"
+msgid "Agony Totem"
+msgstr "苦痛のトーテム"
+
+#: 132143172-0-116230
+msgctxt "132143172-0-116230"
+msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
+msgstr "|cffffff28|rメートル以内の死体が死ぬ度に、マジカとスタミナを<<1>>回復する。"
+
+#: 198758357-0-116230
+msgctxt "198758357-0-116230"
+msgid "Death Gleaning"
+msgstr "死体拾い"
+
+#: 132143172-0-118352
+msgctxt "132143172-0-118352"
+msgid "Summon skeletal claws from the ground, snaring your enemies by <<1>> for <<2>> and inflicting Minor Maim for <<3>>, reducing their damage done by <<4>>.\n\nHitting you or your allies grants them Empower for <<5>>, increasing the damage of their next Light Attack by <<6>>.\n\nHitting your Skeletal Mage or Spirit Mender enhances them for <<7>>, increasing their effectiveness by <<6>>."
+msgstr "地面からスケルトンの爪を召喚し、敵の動きを<<1>>、<<2>>の間減速させて、不自由(弱)を<<3>>の間与える。敵の与ダメージは<<4>>低下する。\r\n\r\n自身か味方が攻撃されると<<5>>の間強化され、次の軽攻撃のダメージが<<6>>上昇する。\r\n\r\nスケルトンの魔術師か霊魂の修復師が攻撃されると<<7>>の間強化し、効果が<<6>>上昇する。"
+
+#: 198758357-0-118352
+msgctxt "198758357-0-118352"
+msgid "Empowering Grasp"
+msgstr "強化の手"
 
 #: 132143172-0-118237
 msgctxt "132143172-0-118237"
@@ -111,25 +81,45 @@ msgctxt "198758357-0-118237"
 msgid "Beckoning Armor"
 msgstr "招きの鎧"
 
-#: 132143172-0-118226
-msgctxt "132143172-0-118226"
-msgid "Slice into your enemy's life force, dealing <<1>>. \n\nEvery third cast of this ability will set all enemies hit Off Balance.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  The healing of this ability scales off your Max Health."
-msgstr "敵の生命力を刈り取り、<<1>>を与える。\r\n\r\nこのアビリティを3回詠唱すると、全ての敵がフラフラ状態になる。\r\n\r\n最初に敵に命中させた時点で<<2>>を回復し、さらに他の敵を攻撃するたび、最大5回まで回復が<<3>>上昇する。このアビリティの効力は最大体力に比例して変動する。"
+#: 132143172-0-115001
+msgctxt "132143172-0-115001"
+msgid "Become a horrific Bone Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your damaging Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health."
+msgstr "恐ろしき骨の巨人となり、最大体力を<<1>>、<<2>>の間上昇させ、即座に体力を<<1>>回復する。\r\n\r\n変身すると、ダメージを与える軽攻撃が体力を<<3>>回復し、フルチャージした重攻撃が体力を<<4>>回復する。このアビリティの効力は最大体力に比例して変動する。"
 
-#: 198758357-0-118226
-msgctxt "198758357-0-118226"
-msgid "Ruinous Scythe"
-msgstr "破滅の鎌"
+#: 198758357-0-115001
+msgctxt "198758357-0-115001"
+msgid "Bone Goliath Transformation"
+msgstr "骨の巨人化"
 
-#: 132143172-0-118223
-msgctxt "132143172-0-118223"
-msgid "Slice into your enemy's life force, dealing <<1>>.  \n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  After dealing damage, you heal for <<4>> Health every <<5>> over <<6>>.  The healing of this ability scales off your Max Health."
-msgstr "敵の生命力を刈り取り、<<1>>を与える。\r\n\r\n最初に敵に命中させた時点で<<2>>を回復する。さらに他の敵を攻撃するたび、最大5回まで回復が<<3>>上昇する。ダメージを与えた後は、体力<<4>>を<<5>>ごとに<<6>>の間回復する。このアビリティの効力は最大体力に比例して変動する。"
+#: 132143172-0-118279
+msgctxt "132143172-0-118279"
+msgid "Become a horrific Ravenous Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your damaging Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. You deal <<5>> damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health."
+msgstr "恐ろしき貪欲な巨人に魂を融合させ、最大体力を<<1>>、<<2>>の間上昇させ、即座に体力を<<1>>回復する。\r\n\r\n変身すると、ダメージを与える軽攻撃が体力を<<3>>回復し、フルチャージした重攻撃が体力を<<4>>回復する。近くの敵に<<5>>ダメージを1秒ごとに与え、その分のダメージを回復する。このアビリティの効力は最大体力に比例して変動する。"
 
-#: 198758357-0-118223
-msgctxt "198758357-0-118223"
-msgid "Hungry Scythe"
-msgstr "餓えた鎌"
+#: 198758357-0-118279
+msgctxt "198758357-0-118279"
+msgid "Ravenous Goliath"
+msgstr "貪欲な巨人"
+
+#: 132143172-0-116235
+msgctxt "132143172-0-116235"
+msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
+msgstr "|cffffff28|rメートル以内の死体が死ぬ度に、マジカとスタミナを<<1>>回復する。"
+
+#: 198758357-0-116235
+msgctxt "198758357-0-116235"
+msgid "Death Gleaning"
+msgstr "死体拾い"
+
+#: 132143172-0-116270
+msgctxt "132143172-0-116270"
+msgid "Increase your Healing Received by |cffffff2|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
+msgstr "スロットに装備している骨の暴君アビリティ1つにつき、被回復が|cffffff1|2%上昇する。\r\n\r\n現在のボーナス: <<1>>"
+
+#: 198758357-0-116270
+msgctxt "198758357-0-116270"
+msgid "Health Avarice"
+msgstr "吸い上げし体力"
 
 #: 132143172-0-116272
 msgctxt "132143172-0-116272"
@@ -151,35 +141,15 @@ msgctxt "198758357-0-116271"
 msgid "Last Gasp"
 msgstr "死出の一息"
 
-#: 132143172-0-116270
-msgctxt "132143172-0-116270"
-msgid "Increase your Healing Received by |cffffff2|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
-msgstr "スロットに装備している骨の暴君アビリティ1つにつき、被回復が|cffffff1|2%上昇する。\r\n\r\n現在のボーナス: <<1>>"
+#: 132143172-0-115206
+msgctxt "132143172-0-115206"
+msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nCreates a corpse when the effect completes."
+msgstr "硬化された骨で身を包み、強固(強)を獲得する。物理耐性と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n効果が終了すると、死体を作成する。"
 
-#: 198758357-0-116270
-msgctxt "198758357-0-116270"
-msgid "Health Avarice"
-msgstr "吸い上げし体力"
-
-#: 132143172-0-116269
-msgctxt "132143172-0-116269"
-msgid "Increase your Healing Received by |cffffff1|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
-msgstr "スロットに装備している骨の暴君アビリティ1つにつき、被回復が|cffffff1|r%上昇する。\r\n\r\n現在のボーナス: <<1>>"
-
-#: 198758357-0-116269
-msgctxt "198758357-0-116269"
-msgid "Health Avarice"
-msgstr "吸い上げし体力"
-
-#: 132143172-0-116240
-msgctxt "132143172-0-116240"
-msgid "Reduce the damage you take from damage over time abilities by <<1>> while you have a Bone Tyrant ability active."
-msgstr "スロットに骨の暴君アビリティを装備していると、継続ダメージアビリティのダメージを<<1>>低下させる。"
-
-#: 198758357-0-116240
-msgctxt "198758357-0-116240"
-msgid "Disdain Harm"
-msgstr "被害の拒絶"
+#: 198758357-0-115206
+msgctxt "198758357-0-115206"
+msgid "Bone Armor"
+msgstr "骨の鎧"
 
 #: 132143172-0-116239
 msgctxt "132143172-0-116239"
@@ -191,45 +161,55 @@ msgctxt "198758357-0-116239"
 msgid "Disdain Harm"
 msgstr "被害の拒絶"
 
-#: 132143172-0-116235
-msgctxt "132143172-0-116235"
-msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
-msgstr "|cffffff28|rメートル以内の死体が死ぬ度に、マジカとスタミナを<<1>>回復する。"
+#: 132143172-0-118639
+msgctxt "132143172-0-118639"
+msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per additional corpse.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
+msgstr "死体に残る生命力を吸い取り、<<1>>アルティマを獲得する。さらに死体を吸収した数に応じて、体力を<<2>>、<<3>>ごとに<<4>>の間得るこのアビリティの効力は最大体力に比例して変動する。\r\n\r\n死体を吸収するごとに<<5>>アルティマが得られる。"
 
-#: 198758357-0-116235
-msgctxt "198758357-0-116235"
-msgid "Death Gleaning"
-msgstr "死体拾い"
+#: 198758357-0-118639
+msgctxt "198758357-0-118639"
+msgid "Necrotic Potency"
+msgstr "死霊術の効力"
 
-#: 132143172-0-116230
-msgctxt "132143172-0-116230"
-msgid "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore <<1>> Magicka and Stamina."
-msgstr "|cffffff28|rメートル以内の死体が死ぬ度に、マジカとスタミナを<<1>>回復する。"
+#: 132143172-0-118244
+msgctxt "132143172-0-118244"
+msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by <<3>>.\n\nCreates a corpse when the effect completes."
+msgstr "硬化された骨で身を包み、強固(強)を獲得する。物理耐性と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n発動中は骨爆弾、スケルトンの魔術師、霊魂の修復師の召喚コストが<<3>>低下する。\r\n\r\n効果が終了すると、死体を作成する。"
 
-#: 198758357-0-116230
-msgctxt "198758357-0-116230"
-msgid "Death Gleaning"
-msgstr "死体拾い"
+#: 198758357-0-118244
+msgctxt "198758357-0-118244"
+msgid "Summoner's Armor"
+msgstr "召喚師の鎧"
 
-#: 132143172-0-115238
-msgctxt "132143172-0-115238"
-msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed.  This ability scales off of your Max Health.\n\nWhile slotted, your damage taken is reduced by <<5>>."
-msgstr "死体に残る生命力を吸い取り、<<1>>アルティマを獲得する。さらに死体を吸収した数に応じて、体力を<<2>>、<<3>>ごとに<<4>>の間得る。このアビリティの効力は最大体力に比例して変動する。\r\n\r\nスロットに装備している間、被ダメージが<<5>>低下する。"
+#: 132143172-0-116240
+msgctxt "132143172-0-116240"
+msgid "Reduce the damage you take from damage over time abilities by <<1>> while you have a Bone Tyrant ability active."
+msgstr "スロットに骨の暴君アビリティを装備していると、継続ダメージアビリティのダメージを<<1>>低下させる。"
 
-#: 198758357-0-115238
-msgctxt "198758357-0-115238"
-msgid "Bitter Harvest"
-msgstr "苦き収穫"
+#: 198758357-0-116240
+msgctxt "198758357-0-116240"
+msgid "Disdain Harm"
+msgstr "被害の拒絶"
 
-#: 132143172-0-115206
-msgctxt "132143172-0-115206"
-msgid "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by <<1>> for <<2>>.  \n\nCreates a corpse when the effect completes."
-msgstr "硬化された骨で身を包み、強固(強)を獲得する。物理耐性と呪文耐性が<<1>>、<<2>>の間上昇する。\r\n\r\n効果が終了すると、死体を作成する。"
+#: 132143172-0-118223
+msgctxt "132143172-0-118223"
+msgid "Slice into your enemy's life force, dealing <<1>>.  \n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  After dealing damage, you heal for <<4>> Health every <<5>> over <<6>>.  The healing of this ability scales off your Max Health."
+msgstr "敵の生命力を刈り取り、<<1>>を与える。\r\n\r\n最初に敵に命中させた時点で<<2>>を回復する。さらに他の敵を攻撃するたび、最大5回まで回復が<<3>>上昇する。ダメージを与えた後は、体力<<4>>を<<5>>ごとに<<6>>の間回復する。このアビリティの効力は最大体力に比例して変動する。"
 
-#: 198758357-0-115206
-msgctxt "198758357-0-115206"
-msgid "Bone Armor"
-msgstr "骨の鎧"
+#: 198758357-0-118223
+msgctxt "198758357-0-118223"
+msgid "Hungry Scythe"
+msgstr "餓えた鎌"
+
+#: 132143172-0-118226
+msgctxt "132143172-0-118226"
+msgid "Slice into your enemy's life force, dealing <<1>>. \n\nEvery third cast of this ability will set all enemies hit Off Balance.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy, up to five times.  The healing of this ability scales off your Max Health."
+msgstr "敵の生命力を刈り取り、<<1>>を与える。\r\n\r\nこのアビリティを3回詠唱すると、全ての敵がフラフラ状態になる。\r\n\r\n最初に敵に命中させた時点で<<2>>を回復し、さらに他の敵を攻撃するたび、最大5回まで回復が<<3>>上昇する。このアビリティの効力は最大体力に比例して変動する。"
+
+#: 198758357-0-118226
+msgctxt "198758357-0-118226"
+msgid "Ruinous Scythe"
+msgstr "破滅の鎌"
 
 #: 132143172-0-115177
 msgctxt "132143172-0-115177"
@@ -241,15 +221,45 @@ msgctxt "198758357-0-115177"
 msgid "Grave Grasp"
 msgstr "墓より迫る手"
 
-#: 132143172-0-115115
-msgctxt "132143172-0-115115"
-msgid "Slice into your enemy's life force, dealing <<1>>.\n\nYou heal for <<2>> Health for the first enemy hit, and an additional <<3>> for each additional enemy hit, up to five times.  The healing of this ability scales off your Max Health."
-msgstr "敵の生命力を刈り取って<<1>>を与える。\r\n\r\n最初に敵に命中させた時点で<<2>>を回復する。さらに他の敵を攻撃するたび、最大5回まで回復が<<3>>上昇する。このアビリティの効力は最大体力に比例して変動する。"
+#: 132143172-0-118623
+msgctxt "132143172-0-118623"
+msgid "Sap the lingering life from fresh corpses, granting you <<1>> Ultimate and healing <<2>> Health every <<3>> for <<4>> per corpse consumed. While you have the heal effect, you gain Major Protection, reducing the damage you take by <<5>>.  This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by <<6>>."
+msgstr "死体に残る生命力を吸い取り、<<1>>アルティマを獲得する。さらに死体を吸収した数に応じて、体力を<<2>>、<<3>>ごとに<<4>>の間得る。回復効果が有効な間は防護(強)を得て、被ダメージが<<5>>低下する。このアビリティの効力は最大体力に比例して変動する。\r\n\r\nスロットに装備している間、被ダメージが<<6>>低下する。"
 
-#: 198758357-0-115115
-msgctxt "198758357-0-115115"
-msgid "Death Scythe"
-msgstr "死の鎌"
+#: 198758357-0-118623
+msgctxt "198758357-0-118623"
+msgid "Deaden Pain"
+msgstr "苦痛の緩和"
+
+#: 132143172-0-118664
+msgctxt "132143172-0-118664"
+msgid "Become a destructive Pummeling Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your damaging Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health. \n\nYour bash attacks can hit multiple targets in front of you and deal <<5>>."
+msgstr "破壊的な怒りの巨人に魂を融合させ、最大体力を<<1>>、<<2>>の間上昇させ、即座に体力を<<1>>回復する。\r\n\r\n変身すると、ダメージを与える軽攻撃が体力を<<3>>回復し、フルチャージした重攻撃が体力を<<4>>回復する。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n強撃は前にいる複数のターゲットを攻撃し、<<5>>を与える。"
+
+#: 198758357-0-118664
+msgctxt "198758357-0-118664"
+msgid "Pummeling Goliath"
+msgstr "怒りの巨人"
+
+#: 132143172-0-116269
+msgctxt "132143172-0-116269"
+msgid "Increase your Healing Received by |cffffff1|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: <<1>>."
+msgstr "スロットに装備している骨の暴君アビリティ1つにつき、被回復が|cffffff1|r%上昇する。\r\n\r\n現在のボーナス: <<1>>"
+
+#: 198758357-0-116269
+msgctxt "198758357-0-116269"
+msgid "Health Avarice"
+msgstr "吸い上げし体力"
+
+#: 132143172-0-118380
+msgctxt "132143172-0-118380"
+msgid "Call forth an effigy of bone that gives Minor Protection to you and your allies for <<1>>, reducing your damage taken by <<2>>. \n\nAfter <<3>>, the totem begins fearing nearby enemies every <<4>>, causing them to cower in place for  <<5>>."
+msgstr "骨の像を呼び出し、自身と味方に防護(弱)を<<1>>の間与えて、被ダメージを<<2>>低下させる。\r\n\r\n<<3>>が経過すると、トーテムは周囲の敵を<<4>>ごとに恐怖させ、<<5>>の間その場で萎縮させる。"
+
+#: 198758357-0-118380
+msgctxt "198758357-0-118380"
+msgid "Remote Totem"
+msgstr "遠隔トーテム"
 
 #: 132143172-0-115093
 msgctxt "132143172-0-115093"
@@ -260,13 +270,3 @@ msgstr "骨のトーテムを足元に設置し、自身と味方に防護(弱)�
 msgctxt "198758357-0-115093"
 msgid "Bone Totem"
 msgstr "骨のトーテム"
-
-#: 132143172-0-115001
-msgctxt "132143172-0-115001"
-msgid "Become a horrific Bone Goliath, increasing your Max Health by <<1>> for <<2>> and immediately restoring <<1>> Health. \n\nWhile transformed, your Light Attacks restore <<3>> Health and your fully charged Heavy Attacks restore <<4>> Health. This ability scales off your Max Health."
-msgstr "恐ろしき骨の巨人となり、最大体力を<<1>>、<<2>>の間上昇させ、即座に体力を<<1>>回復する。\r\n\r\n変身すると、軽攻撃が体力を<<3>>回復し、フルチャージした重攻撃が体力を<<4>>回復する。このアビリティの効力は最大体力に比例して変動する。"
-
-#: 198758357-0-115001
-msgctxt "198758357-0-115001"
-msgid "Bone Goliath Transformation"
-msgstr "骨の巨人化"

@@ -11,65 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-86069
-msgctxt "132143172-0-86069"
-msgid "Increases your damage done by <<1>> for each Animal Companion ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "スロットに装備している獣王アビリティ1つにつき、ダメージが<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
+#: 132143172-0-86062
+msgctxt "132143172-0-86062"
+msgid "When you cast an Animal Companions ability while you are in combat, you generate <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "獣王アビリティを戦闘中に使用すると、<<1>>アルティマを生成する。この効果は<<2>>ごとに発動する。"
 
-#: 198758357-0-86069
-msgctxt "198758357-0-86069"
-msgid "Advanced Species"
-msgstr "優性種"
-
-#: 132143172-0-86068
-msgctxt "132143172-0-86068"
-msgid "Increases your damage done by <<1>> for each Animal Companion ability slotted.\n\nCurrent Bonus: <<2>>."
-msgstr "スロットに装備している獣王アビリティ1つにつき、ダメージが<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
-
-#: 198758357-0-86068
-msgctxt "198758357-0-86068"
-msgid "Advanced Species"
-msgstr "優性種"
-
-#: 132143172-0-86067
-msgctxt "132143172-0-86067"
-msgid "Increases your Magicka and Stamina recovery by <<1>> if an Animal Companion ability is slotted."
-msgstr "スロットに獣王アビリティを装備すると、マジカとスタミナ再生が<<1>>上昇する。"
-
-#: 198758357-0-86067
-msgctxt "198758357-0-86067"
-msgid "Flourish"
-msgstr "謳歌"
-
-#: 132143172-0-86066
-msgctxt "132143172-0-86066"
-msgid "Increases your Magicka and Stamina recovery by <<1>> if an Animal Companion ability is slotted."
-msgstr "スロットに獣王アビリティを装備すると、マジカとスタミナ再生が<<1>>上昇する。"
-
-#: 198758357-0-86066
-msgctxt "198758357-0-86066"
-msgid "Flourish"
-msgstr "謳歌"
-
-#: 132143172-0-86065
-msgctxt "132143172-0-86065"
-msgid "Anytime one of your Animal Companion skills end, you are healed for <<1>> Health."
-msgstr "動物の仲間のスキルが終了するたび、体力を<<1>>回復する。"
-
-#: 198758357-0-86065
-msgctxt "198758357-0-86065"
-msgid "Bond With Nature"
-msgstr "大地の絆"
-
-#: 132143172-0-86064
-msgctxt "132143172-0-86064"
-msgid "Anytime one of your Animal Companion skills end, you are healed for <<1>> Health."
-msgstr "動物の仲間のスキルが終了するたび、体力を<<1>>回復する。"
-
-#: 198758357-0-86064
-msgctxt "198758357-0-86064"
-msgid "Bond With Nature"
-msgstr "大地の絆"
+#: 198758357-0-86062
+msgctxt "198758357-0-86062"
+msgid "Savage Beast"
+msgstr "獰猛なる獣"
 
 #: 132143172-0-86063
 msgctxt "132143172-0-86063"
@@ -81,56 +31,6 @@ msgctxt "198758357-0-86063"
 msgid "Savage Beast"
 msgstr "獰猛なる獣"
 
-#: 132143172-0-86062
-msgctxt "132143172-0-86062"
-msgid "When you cast an Animal Companions ability while you are in combat, you generate <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr "獣王アビリティを戦闘中に使用すると、<<1>>アルティマを生成する。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-86062
-msgctxt "198758357-0-86062"
-msgid "Savage Beast"
-msgstr "獰猛なる獣"
-
-#: 132143172-0-86058
-msgctxt "132143172-0-86058"
-msgid "Call a bull netch to your side, which restores <<1>> Stamina to you over <<2>> and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<3>>.\n\nEvery <<4>>, the netch removes |cffffff1|r negative effect from you."
-msgstr "ブル・ネッチを周囲に召喚し、スタミナを<<1>>、<<2>>の間回復する。さらに残忍(強)と魔術(強)を得て、武器ダメージと呪文ダメージを<<3>>上昇させる。\r\n\r\n<<4>>ごとに、ネッチはマイナス効果を|cffffff1|r解除する。"
-
-#: 198758357-0-86058
-msgctxt "198758357-0-86058"
-msgid "Bull Netch"
-msgstr "ブル・ネッチ"
-
-#: 132143172-0-86054
-msgctxt "132143172-0-86054"
-msgid "Call a betty netch to your side, which restores <<1>> Magicka to you over <<2>> and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<3>>.\n\nEvery <<4>>, the netch removes |cffffff1|r negative effect from you."
-msgstr "ベティー・ネッチを周囲に召喚し、自身のマジカを<<1>>、<<2>>の間回復する。さらに残忍(強)と魔術(強)を得て、武器ダメージと呪文ダメージを<<3>>上昇させる。\r\n\r\n<<4>>ごとに、ネッチはマイナス効果を|cffffff1|r解除する。"
-
-#: 198758357-0-86054
-msgctxt "198758357-0-86054"
-msgid "Blue Betty"
-msgstr "青のベティー"
-
-#: 132143172-0-86050
-msgctxt "132143172-0-86050"
-msgid "Call a betty netch to your side, which grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>.  \n\nEvery <<3>>, the netch removes |cffffff1|r negative effect from you."
-msgstr "ベティー・ネッチを周囲に召喚し、残忍(強)と魔術(強)を得て、武器ダメージと呪文ダメージを<<1>>、<<2>>の間上昇させる。\r\n\r\n<<3>>ごとに、ネッチはマイナス効果を|cffffff1|r解除する。"
-
-#: 198758357-0-86050
-msgctxt "198758357-0-86050"
-msgid "Betty Netch"
-msgstr "ベティー・ネッチ"
-
-#: 132143172-0-86045
-msgctxt "132143172-0-86045"
-msgid "Invoke the spirit of agility to gain Major Expedition <<1>>, increasing your Movement Speed by <<2>>.\n\nWhile slotted gain Minor Berserk, increasing your damage done by <<3>>."
-msgstr "敏捷の霊魂を呼び出して迅速(強)を<<1>>の間得て、移動速度を<<2>>増加させる。\r\n\r\nスロットに装備している間は狂戦士(弱)を得て、与ダメージを<<3>>上昇させる。"
-
-#: 198758357-0-86045
-msgctxt "198758357-0-86045"
-msgid "Bird of Prey"
-msgstr "猛禽"
-
 #: 132143172-0-86041
 msgctxt "132143172-0-86041"
 msgid "Invoke the spirit of agility to gain Major Expedition for <<1>>, increasing your Movement Speed by <<2>>.\n\nWhile slotted gain Minor Evasion, reducing damage from area attacks by <<3>>."
@@ -140,87 +40,6 @@ msgstr "敏捷の霊魂を呼び出して迅速(強)を<<1>>の間得て、移�
 msgctxt "198758357-0-86041"
 msgid "Deceptive Predator"
 msgstr "欺きの捕食者"
-
-#: 132143172-0-86037
-msgctxt "132143172-0-86037"
-msgid "Invoke the spirit of agility to gain Major Expedition for <<1>>,  increasing your Movement Speed by <<2>>."
-msgstr "敏捷の霊魂を呼び出して迅速(強)を<<1>>の間得て、移動速度を<<2>>増加させる。"
-
-#: 198758357-0-86037
-msgctxt "198758357-0-86037"
-msgid "Falcon's Swiftness"
-msgstr "ハヤブサ神速"
-
-#: 132143172-0-86031
-#, fuzzy
-msgctxt "132143172-0-86031"
-msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, causing them to bleed for <<1>> over <<2>>. \n\nThe fetcherflies rip through the original enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<3>>.\n\nEnemies near the carrier take <<4>> every <<5>> for the duration."
-msgstr "フェッチャーフライの群れを解き放ち、敵への攻撃を続けさせる。出血させて<<1>>を<<2>>の間与える。\r\n\r\nフェッチャーフライは最初の敵の肉を破り、脆弱(弱)を持続時間の間与えて、被ダメージを<<3>>上昇させる。\r\n\r\n最初の敵の周囲にいる敵は、持続時間の間<<4>>を<<5>>ごとに受ける。"
-
-#: 198758357-0-86031
-msgctxt "198758357-0-86031"
-msgid "Growing Swarm"
-msgstr "伝搬する大群"
-
-#: 132143172-0-86027
-msgctxt "132143172-0-86027"
-msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing <<1>> over <<2>>.\n\nEvery second cast of this ability deals <<3>> increased damage.\n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<4>>."
-msgstr "フェッチャーフライの群れを解き放ち、敵への攻撃を続けさせる。<<1>>を<<2>>の間与える。\r\n\r\nこのアビリティをさらに使うと、ダメージが<<3>>上昇する。\r\n\r\nフェッチャーフライは敵の肉を裂き、持続時間の間脆弱(弱)を与えて、被ダメージを<<4>>上昇させる。"
-
-#: 198758357-0-86027
-msgctxt "198758357-0-86027"
-msgid "Fetcher Infection"
-msgstr "感染フェッチャー"
-
-#: 132143172-0-86023
-msgctxt "132143172-0-86023"
-msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing <<1>> over <<2>>.  \n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<3>>."
-msgstr "フェッチャーフライの群れを解き放ち、敵への攻撃を続けさせる。<<1>>を<<2>>の間与える。\r\n\r\nフェッチャーフライは敵の肉を裂き、持続時間の間脆弱(弱)を与えて、被ダメージを<<3>>上昇させる。"
-
-#: 198758357-0-86023
-msgctxt "198758357-0-86023"
-msgid "Swarm"
-msgstr "フェッチャー大群"
-
-#: 132143172-0-86019
-msgctxt "132143172-0-86019"
-msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you.\n\nEnemies damaged are afflicted with Major Fracture, reducing their Physical Resistance by <<3>> for <<4>>."
-msgstr "<<1>>後にショークの一群を召喚し、前方の敵に<<2>>を与える。\r\n\r\nダメージを受けた敵は破砕(強)を受け、物理耐性が<<3>>、<<4>>の間低下する。"
-
-#: 198758357-0-86019
-msgctxt "198758357-0-86019"
-msgid "Subterranean Assault"
-msgstr "地中襲撃"
-
-#: 132143172-0-86015
-msgctxt "132143172-0-86015"
-msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you.\n\nEnemies damaged are afflicted with Major Breach, reducing their Spell Resistance by <<3>> for <<4>>."
-msgstr "<<1>>後にショークの一群を召喚し、前方の敵に<<2>>を与える。\r\n\r\nダメージを受けた敵は侵害(強)を受け、呪文耐性を<<3>>、<<4>>の間低下させる。"
-
-#: 198758357-0-86015
-msgctxt "198758357-0-86015"
-msgid "Deep Fissure"
-msgstr "深淵"
-
-#: 132143172-0-86009
-msgctxt "132143172-0-86009"
-msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you."
-msgstr "<<1>>後にショークの一群を召喚し、前方の敵に<<2>>を与える。"
-
-#: 198758357-0-86009
-msgctxt "198758357-0-86009"
-msgid "Scorch"
-msgstr "灼熱"
-
-#: 132143172-0-86003
-msgctxt "132143172-0-86003"
-msgid "Command a cliff racer to dive bomb an enemy, dealing <<1>>.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for <<2>>.\n\nDeals up to |cFFFFFF15%|r more damage based on how far away the enemy is."
-msgstr "クリフ・レーサーに指示し、敵に急降下させて<<1>>を与える。\r\n\r\nターゲットから|cffffff7|rメートル以上離れていた場合、<<2>>の間フラフラ状態にする。\r\n\r\n敵との距離が遠いほどダメージが増加し、最大|cFFFFFF15%|rまで増大する。"
-
-#: 198758357-0-86003
-msgctxt "198758357-0-86003"
-msgid "Screaming Cliff Racer"
-msgstr "絶叫ダイブ"
 
 #: 132143172-0-85999
 msgctxt "132143172-0-85999"
@@ -232,6 +51,16 @@ msgctxt "198758357-0-85999"
 msgid "Cutting Dive"
 msgstr "八つ裂きダイブ"
 
+#: 132143172-0-86009
+msgctxt "132143172-0-86009"
+msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you."
+msgstr "<<1>>後にショークの一群を召喚し、前方の敵に<<2>>を与える。"
+
+#: 198758357-0-86009
+msgctxt "198758357-0-86009"
+msgid "Scorch"
+msgstr "灼熱"
+
 #: 132143172-0-85995
 msgctxt "132143172-0-85995"
 msgid "Command a cliff racer to dive bomb an enemy, dealing <<1>>.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for <<2>>."
@@ -241,6 +70,86 @@ msgstr "クリフ・レーサーに指示し、敵に急降下させて<<1>>を�
 msgctxt "198758357-0-85995"
 msgid "Dive"
 msgstr "ダイブ"
+
+#: 132143172-0-86027
+msgctxt "132143172-0-86027"
+msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing <<1>> over <<2>>.\n\nEvery second cast of this ability deals <<3>> increased damage.\n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<4>>."
+msgstr "フェッチャーフライの群れを解き放ち、敵への攻撃を続けさせる。<<1>>を<<2>>の間与える。\r\n\r\nこのアビリティをさらに使うと、ダメージが<<3>>上昇する。\r\n\r\nフェッチャーフライは敵の肉を裂き、持続時間の間脆弱(弱)を与えて、被ダメージを<<4>>上昇させる。"
+
+#: 198758357-0-86027
+msgctxt "198758357-0-86027"
+msgid "Fetcher Infection"
+msgstr "感染フェッチャー"
+
+#: 132143172-0-86068
+msgctxt "132143172-0-86068"
+msgid "Increases your damage done by <<1>> for each Animal Companion ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "スロットに装備している獣王アビリティ1つにつき、ダメージが<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-86068
+msgctxt "198758357-0-86068"
+msgid "Advanced Species"
+msgstr "優性種"
+
+#: 132143172-0-86069
+msgctxt "132143172-0-86069"
+msgid "Increases your damage done by <<1>> for each Animal Companion ability slotted.\n\nCurrent Bonus: <<2>>."
+msgstr "スロットに装備している獣王アビリティ1つにつき、ダメージが<<1>>増加する。\r\n\r\n現在のボーナス: <<2>>"
+
+#: 198758357-0-86069
+msgctxt "198758357-0-86069"
+msgid "Advanced Species"
+msgstr "優性種"
+
+#: 132143172-0-86003
+msgctxt "132143172-0-86003"
+msgid "Command a cliff racer to dive bomb an enemy, dealing <<1>>.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for <<2>>.\n\nDeals up to |cFFFFFF15%|r more damage based on how far away the enemy is."
+msgstr "クリフ・レーサーに指示し、敵に急降下させて<<1>>を与える。\r\n\r\nターゲットから|cffffff7|rメートル以上離れていた場合、<<2>>の間フラフラ状態にする。\r\n\r\n敵との距離が遠いほどダメージが増加し、最大|cFFFFFF15%|rまで増大する。"
+
+#: 198758357-0-86003
+msgctxt "198758357-0-86003"
+msgid "Screaming Cliff Racer"
+msgstr "絶叫ダイブ"
+
+#: 132143172-0-86066
+msgctxt "132143172-0-86066"
+msgid "Increases your Magicka and Stamina recovery by <<1>> if an Animal Companion ability is slotted."
+msgstr "スロットに獣王アビリティを装備すると、マジカとスタミナ再生が<<1>>上昇する。"
+
+#: 198758357-0-86066
+msgctxt "198758357-0-86066"
+msgid "Flourish"
+msgstr "謳歌"
+
+#: 132143172-0-86067
+msgctxt "132143172-0-86067"
+msgid "Increases your Magicka and Stamina recovery by <<1>> if an Animal Companion ability is slotted."
+msgstr "スロットに獣王アビリティを装備すると、マジカとスタミナ再生が<<1>>上昇する。"
+
+#: 198758357-0-86067
+msgctxt "198758357-0-86067"
+msgid "Flourish"
+msgstr "謳歌"
+
+#: 132143172-0-86045
+msgctxt "132143172-0-86045"
+msgid "Invoke the spirit of agility to gain Major Expedition <<1>>, increasing your Movement Speed by <<2>>.\n\nWhile slotted gain Minor Berserk, increasing your damage done by <<3>>."
+msgstr "敏捷の霊魂を呼び出して迅速(強)を<<1>>の間得て、移動速度を<<2>>増加させる。\r\n\r\nスロットに装備している間は狂戦士(弱)を得て、与ダメージを<<3>>上昇させる。"
+
+#: 198758357-0-86045
+msgctxt "198758357-0-86045"
+msgid "Bird of Prey"
+msgstr "猛禽"
+
+#: 132143172-0-86023
+msgctxt "132143172-0-86023"
+msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing <<1>> over <<2>>.  \n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<3>>."
+msgstr "フェッチャーフライの群れを解き放ち、敵への攻撃を続けさせる。<<1>>を<<2>>の間与える。\r\n\r\nフェッチャーフライは敵の肉を裂き、持続時間の間脆弱(弱)を与えて、被ダメージを<<3>>上昇させる。"
+
+#: 198758357-0-86023
+msgctxt "198758357-0-86023"
+msgid "Swarm"
+msgstr "フェッチャー大群"
 
 #: 132143172-0-85990
 msgctxt "132143172-0-85990"
@@ -252,6 +161,36 @@ msgctxt "198758357-0-85990"
 msgid "Wild Guardian"
 msgstr "激昂の守護者"
 
+#: 132143172-0-86064
+msgctxt "132143172-0-86064"
+msgid "Anytime one of your Animal Companion skills end, you are healed for <<1>> Health."
+msgstr "動物の仲間のスキルが終了するたび、体力を<<1>>回復する。"
+
+#: 198758357-0-86064
+msgctxt "198758357-0-86064"
+msgid "Bond With Nature"
+msgstr "大地の絆"
+
+#: 132143172-0-86065
+msgctxt "132143172-0-86065"
+msgid "Anytime one of your Animal Companion skills end, you are healed for <<1>> Health."
+msgstr "動物の仲間のスキルが終了するたび、体力を<<1>>回復する。"
+
+#: 198758357-0-86065
+msgctxt "198758357-0-86065"
+msgid "Bond With Nature"
+msgstr "大地の絆"
+
+#: 132143172-0-86050
+msgctxt "132143172-0-86050"
+msgid "Call a betty netch to your side, which grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<1>> for <<2>>.  \n\nEvery <<3>>, the netch removes |cffffff1|r negative effect from you."
+msgstr "ベティー・ネッチを周囲に召喚し、残忍(強)と魔術(強)を得て、武器ダメージと呪文ダメージを<<1>>、<<2>>の間上昇させる。\r\n\r\n<<3>>ごとに、ネッチはマイナス効果を|cffffff1|r解除する。"
+
+#: 198758357-0-86050
+msgctxt "198758357-0-86050"
+msgid "Betty Netch"
+msgstr "ベティー・ネッチ"
+
 #: 132143172-0-85986
 msgctxt "132143172-0-85986"
 msgid "Rouse a grizzly to fight by your side. The grizzly swipes an enemy, dealing <<1>>, and sometimes swipes all enemies in front of it, dealing <<2>> and stunning them for <<3>>.\n\nOnce summoned you can activate <<4>> for <<5>> Ultimate, causing the grizzly to maul an enemy for <<6>>. Deals <<7>>% more damage to enemies below <<8>>% Health.\n\n The grizzly respawns when killed, once per minute."
@@ -262,6 +201,16 @@ msgctxt "198758357-0-85986"
 msgid "Eternal Guardian"
 msgstr "エターナル・ガーディアン"
 
+#: 132143172-0-86019
+msgctxt "132143172-0-86019"
+msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you.\n\nEnemies damaged are afflicted with Major Fracture, reducing their Physical Resistance by <<3>> for <<4>>."
+msgstr "<<1>>後にショークの一群を召喚し、前方の敵に<<2>>を与える。\r\n\r\nダメージを受けた敵は破砕(強)を受け、物理耐性が<<3>>、<<4>>の間低下する。"
+
+#: 198758357-0-86019
+msgctxt "198758357-0-86019"
+msgid "Subterranean Assault"
+msgstr "地中襲撃"
+
 #: 132143172-0-85982
 msgctxt "132143172-0-85982"
 msgid "Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing <<1>>, and sometimes swipes all enemies in front of it, dealing <<2>> and stunning them for <<3>>.\n\nOnce summoned you can activate <<4>> for <<5>> Ultimate, causing the grizzly to maul an enemy for <<6>>. Deals <<7>>% more damage to enemies below <<8>>% Health."
@@ -271,3 +220,53 @@ msgstr "グリズリーを目覚めさせ、共に戦わせる。グリズリー
 msgctxt "198758357-0-85982"
 msgid "Feral Guardian"
 msgstr "野生の守護者"
+
+#: 132143172-0-86037
+msgctxt "132143172-0-86037"
+msgid "Invoke the spirit of agility to gain Major Expedition for <<1>>,  increasing your Movement Speed by <<2>>."
+msgstr "敏捷の霊魂を呼び出して迅速(強)を<<1>>の間得て、移動速度を<<2>>増加させる。"
+
+#: 198758357-0-86037
+msgctxt "198758357-0-86037"
+msgid "Falcon's Swiftness"
+msgstr "ハヤブサ神速"
+
+#: 132143172-0-86015
+msgctxt "132143172-0-86015"
+msgid "Stir a group of shalk that attack after <<1>>, dealing <<2>> to enemies in front of you.\n\nEnemies damaged are afflicted with Major Breach, reducing their Spell Resistance by <<3>> for <<4>>."
+msgstr "<<1>>後にショークの一群を召喚し、前方の敵に<<2>>を与える。\r\n\r\nダメージを受けた敵は侵害(強)を受け、呪文耐性を<<3>>、<<4>>の間低下させる。"
+
+#: 198758357-0-86015
+msgctxt "198758357-0-86015"
+msgid "Deep Fissure"
+msgstr "深淵"
+
+#: 132143172-0-86058
+msgctxt "132143172-0-86058"
+msgid "Call a bull netch to your side, which restores <<1>> Stamina to you over <<2>> and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<3>>.\n\nEvery <<4>>, the netch removes |cffffff1|r negative effect from you."
+msgstr "ブル・ネッチを周囲に召喚し、スタミナを<<1>>、<<2>>の間回復する。さらに残忍(強)と魔術(強)を得て、武器ダメージと呪文ダメージを<<3>>上昇させる。\r\n\r\n<<4>>ごとに、ネッチはマイナス効果を|cffffff1|r解除する。"
+
+#: 198758357-0-86058
+msgctxt "198758357-0-86058"
+msgid "Bull Netch"
+msgstr "ブル・ネッチ"
+
+#: 132143172-0-86031
+msgctxt "132143172-0-86031"
+msgid "Unleash a swarm of fetcherflies to relentlessly attack an enemy, causing them to bleed for <<1>> over <<2>>. \n\nThe fetcherflies rip through the original enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by <<3>>.\n\nEnemies near the carrier take <<4>> every <<5>> for the duration."
+msgstr "フェッチャーフライの群れを解き放ち、敵への攻撃を続けさせる。出血させて<<1>>を<<2>>の間与える。\r\n\r\nフェッチャーフライは最初の敵の肉を破り、脆弱(弱)を持続時間の間与えて、被ダメージを<<3>>上昇させる。\r\n\r\n最初の敵の周囲にいる敵は、持続時間の間<<4>>を<<5>>ごとに受ける。"
+
+#: 198758357-0-86031
+msgctxt "198758357-0-86031"
+msgid "Growing Swarm"
+msgstr "伝搬する大群"
+
+#: 132143172-0-86054
+msgctxt "132143172-0-86054"
+msgid "Call a betty netch to your side, which restores <<1>> Magicka to you over <<2>> and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<3>>.\n\nEvery <<4>>, the netch removes |cffffff1|r negative effect from you."
+msgstr "ベティー・ネッチを周囲に召喚し、自身のマジカを<<1>>、<<2>>の間回復する。さらに残忍(強)と魔術(強)を得て、武器ダメージと呪文ダメージを<<3>>上昇させる。\r\n\r\n<<4>>ごとに、ネッチはマイナス効果を|cffffff1|r解除する。"
+
+#: 198758357-0-86054
+msgctxt "198758357-0-86054"
+msgid "Blue Betty"
+msgstr "青のベティー"

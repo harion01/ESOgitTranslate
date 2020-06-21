@@ -11,25 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-84672
-msgctxt "132143172-0-84672"
-msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
-msgstr "最大体力を<<1>>上昇させる。\r\n\r\n武器アビリティでダメージを与えると、体力を<<2>>回復する。この効果は<<3>>ごとに発動する。"
+#: 132143172-0-33304
+msgctxt "132143172-0-33304"
+msgid "Increases your Weapon Damage by <<1>>.\n\nReduces the cost of Sprint by |cffffff4|r% and increases the Movement Speed bonus of Sprint by |cffffff3|r%."
+msgstr "武器ダメージが<<1>>上昇する。\r\n\r\nダッシュの消費が|cffffff4|r% 減少し、ダッシュ速度ボーナスが|cffffff3|r%上昇する。"
 
-#: 198758357-0-84672
-msgctxt "198758357-0-84672"
-msgid "Unflinching Rage"
-msgstr "ひるまぬ怒り"
-
-#: 132143172-0-84670
-msgctxt "132143172-0-84670"
-msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
-msgstr "最大体力を<<1>>上昇させる。\r\n\r\n武器アビリティでダメージを与えると、体力を<<2>>回復する。この効果は<<3>>ごとに発動する。"
-
-#: 198758357-0-84670
-msgctxt "198758357-0-84670"
-msgid "Unflinching Rage"
-msgstr "ひるまぬ怒り"
+#: 198758357-0-33304
+msgctxt "198758357-0-33304"
+msgid "Swift Warrior"
+msgstr "俊足の戦士"
 
 #: 132143172-0-84668
 msgctxt "132143172-0-84668"
@@ -40,6 +30,16 @@ msgstr "最大体力を<<1>>上昇させる。\r\n\r\n武器アビリティで�
 msgctxt "198758357-0-84668"
 msgid "Unflinching Rage"
 msgstr "ひるまぬ怒り"
+
+#: 132143172-0-33301
+msgctxt "132143172-0-33301"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr "最大スタミナ値が<<1>>増加する。"
+
+#: 198758357-0-33301
+msgctxt "198758357-0-33301"
+msgid "Brawny"
+msgstr "屈強"
 
 #: 132143172-0-45312
 msgctxt "132143172-0-45312"
@@ -61,15 +61,25 @@ msgctxt "198758357-0-45311"
 msgid "Swift Warrior"
 msgstr "俊足の戦士"
 
-#: 132143172-0-45309
-msgctxt "132143172-0-45309"
-msgid "Increases your Max Stamina by <<1>>."
-msgstr "最大スタミナ値が<<1>>増加する。"
+#: 132143172-0-84672
+msgctxt "132143172-0-84672"
+msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
+msgstr "最大体力を<<1>>上昇させる。\r\n\r\n武器アビリティでダメージを与えると、体力を<<2>>回復する。この効果は<<3>>ごとに発動する。"
 
-#: 198758357-0-45309
-msgctxt "198758357-0-45309"
-msgid "Brawny"
-msgstr "屈強"
+#: 198758357-0-84672
+msgctxt "198758357-0-84672"
+msgid "Unflinching Rage"
+msgstr "ひるまぬ怒り"
+
+#: 132143172-0-33293
+msgctxt "132143172-0-33293"
+msgid "Increases your experience gain with the Heavy Armor skill line by |cffffff15|r%.\n\nIncreases your crafting inspiration gained by <<1>>."
+msgstr "重装鎧スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n獲得するクラフトのインスピレーションが<<1>>増加する。"
+
+#: 198758357-0-33293
+msgctxt "198758357-0-33293"
+msgid "Craftsman"
+msgstr "職人"
 
 #: 132143172-0-45307
 msgctxt "132143172-0-45307"
@@ -81,32 +91,22 @@ msgctxt "198758357-0-45307"
 msgid "Brawny"
 msgstr "屈強"
 
-#: 132143172-0-33304
-msgctxt "132143172-0-33304"
-msgid "Increases your Weapon Damage by <<1>>.\n\nReduces the cost of Sprint by |cffffff4|r% and increases the Movement Speed bonus of Sprint by |cffffff3|r%."
-msgstr "武器ダメージが<<1>>上昇する。\r\n\r\nダッシュの消費が|cffffff4|r% 減少し、ダッシュ速度ボーナスが|cffffff3|r%上昇する。"
+#: 132143172-0-84670
+msgctxt "132143172-0-84670"
+msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
+msgstr "最大体力を<<1>>上昇させる。\r\n\r\n武器アビリティでダメージを与えると、体力を<<2>>回復する。この効果は<<3>>ごとに発動する。"
 
-#: 198758357-0-33304
-msgctxt "198758357-0-33304"
-msgid "Swift Warrior"
-msgstr "俊足の戦士"
+#: 198758357-0-84670
+msgctxt "198758357-0-84670"
+msgid "Unflinching Rage"
+msgstr "ひるまぬ怒り"
 
-#: 132143172-0-33301
-msgctxt "132143172-0-33301"
+#: 132143172-0-45309
+msgctxt "132143172-0-45309"
 msgid "Increases your Max Stamina by <<1>>."
 msgstr "最大スタミナ値が<<1>>増加する。"
 
-#: 198758357-0-33301
-msgctxt "198758357-0-33301"
+#: 198758357-0-45309
+msgctxt "198758357-0-45309"
 msgid "Brawny"
 msgstr "屈強"
-
-#: 132143172-0-33293
-msgctxt "132143172-0-33293"
-msgid "Increases your experience gain with the Heavy Armor skill line by |cffffff15|r%.\n\nIncreases your crafting inspiration gained by <<1>>."
-msgstr "重装鎧スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n獲得するクラフトのインスピレーションが<<1>>増加する。"
-
-#: 198758357-0-33293
-msgctxt "198758357-0-33293"
-msgid "Craftsman"
-msgstr "職人"

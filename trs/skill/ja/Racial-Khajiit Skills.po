@@ -11,25 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-70390
-msgctxt "132143172-0-70390"
-msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
-msgstr "体力再生を<<1>>、スタミナとマジカ再生を<<2>>上昇させる。"
+#: 132143172-0-45299
+msgctxt "132143172-0-45299"
+msgid "Increases your Critical Damage and Critical Healing by <<1>>.\n\nDecreases your detection radius in Stealth by <<2>>."
+msgstr "クリティカルダメージとクリティカル回復量を<<1>>上昇させる。\r\n\r\nステルスの探知半径を<<2>>縮小する。"
 
-#: 198758357-0-70390
-msgctxt "198758357-0-70390"
-msgid "Robustness"
-msgstr "丈夫"
-
-#: 132143172-0-70388
-msgctxt "132143172-0-70388"
-msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
-msgstr "体力再生を<<1>>、スタミナとマジカ再生を<<2>>上昇させる。"
-
-#: 198758357-0-70388
-msgctxt "198758357-0-70388"
-msgid "Robustness"
-msgstr "丈夫"
+#: 198758357-0-45299
+msgctxt "198758357-0-45299"
+msgid "Feline Ambush"
+msgstr "猫の待ち伏せ"
 
 #: 132143172-0-70386
 msgctxt "132143172-0-70386"
@@ -51,15 +41,15 @@ msgctxt "198758357-0-45301"
 msgid "Feline Ambush"
 msgstr "猫の待ち伏せ"
 
-#: 132143172-0-45299
-msgctxt "132143172-0-45299"
-msgid "Increases your Critical Damage and Critical Healing by <<1>>.\n\nDecreases your detection radius in Stealth by <<2>>."
-msgstr "クリティカルダメージとクリティカル回復量を<<1>>上昇させる。\r\n\r\nステルスの探知半径を<<2>>縮小する。"
+#: 132143172-0-70388
+msgctxt "132143172-0-70388"
+msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
+msgstr "体力再生を<<1>>、スタミナとマジカ再生を<<2>>上昇させる。"
 
-#: 198758357-0-45299
-msgctxt "198758357-0-45299"
-msgid "Feline Ambush"
-msgstr "猫の待ち伏せ"
+#: 198758357-0-70388
+msgctxt "198758357-0-70388"
+msgid "Robustness"
+msgstr "丈夫"
 
 #: 132143172-0-36067
 msgctxt "132143172-0-36067"
@@ -71,15 +61,15 @@ msgctxt "198758357-0-36067"
 msgid "Feline Ambush"
 msgstr "猫の待ち伏せ"
 
-#: 132143172-0-36063
-msgctxt "132143172-0-36063"
-msgid "Increases your experience gain with the Medium Armor skill line by |cffffff15|r%.\n\nIncreases your chance to successfully pickpocket by <<1>>."
-msgstr "中装鎧スキルラインの経験値獲得量が15%増加する。\r\n\r\nスリの成功率が<<1>>増加する。"
+#: 132143172-0-117846
+msgctxt "132143172-0-117846"
+msgid "Increase your Maximum Health, Magicka, and Stamina by <<1>>."
+msgstr "最大体力、マジカ、スタミナを<<1>>増加させる。"
 
-#: 198758357-0-36063
-msgctxt "198758357-0-36063"
-msgid "Cutpurse"
-msgstr "スリ師"
+#: 198758357-0-117846
+msgctxt "198758357-0-117846"
+msgid "Lunar Blessings"
+msgstr "月の祝福"
 
 #: 132143172-0-117848
 msgctxt "132143172-0-117848"
@@ -91,6 +81,16 @@ msgctxt "198758357-0-117848"
 msgid "Lunar Blessings"
 msgstr "月の祝福"
 
+#: 132143172-0-70390
+msgctxt "132143172-0-70390"
+msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
+msgstr "体力再生を<<1>>、スタミナとマジカ再生を<<2>>上昇させる。"
+
+#: 198758357-0-70390
+msgctxt "198758357-0-70390"
+msgid "Robustness"
+msgstr "丈夫"
+
 #: 132143172-0-117847
 msgctxt "132143172-0-117847"
 msgid "Increase your Maximum Health, Magicka, and Stamina by <<1>>."
@@ -101,12 +101,12 @@ msgctxt "198758357-0-117847"
 msgid "Lunar Blessings"
 msgstr "月の祝福"
 
-#: 132143172-0-117846
-msgctxt "132143172-0-117846"
-msgid "Increase your Maximum Health, Magicka, and Stamina by <<1>>."
-msgstr "最大体力、マジカ、スタミナを<<1>>増加させる。"
+#: 132143172-0-36063
+msgctxt "132143172-0-36063"
+msgid "Increases your experience gain with the Medium Armor skill line by |cffffff15|r%.\n\nIncreases your chance to successfully pickpocket by <<1>>."
+msgstr "中装鎧スキルラインの経験値獲得量が15%増加する。\r\n\r\nスリの成功率が<<1>>増加する。"
 
-#: 198758357-0-117846
-msgctxt "198758357-0-117846"
-msgid "Lunar Blessings"
-msgstr "月の祝福"
+#: 198758357-0-36063
+msgctxt "198758357-0-36063"
+msgid "Cutpurse"
+msgstr "スリ師"

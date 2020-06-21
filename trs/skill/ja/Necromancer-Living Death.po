@@ -11,26 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-118912
-msgctxt "132143172-0-118912"
-msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nWhile active, |cffffff10|r% of the damage you take is transferred to the spirit instead.\n\nCreates a corpse on death."
-msgstr "不気味な霊魂を召喚して、<<1>>の間使役して共に戦わせる。霊魂は自身か周囲で最も低い体力の味方を|cffffff2|r秒ごとに治癒し、体力を<<2>>回復する。\r\n\r\n発動中は、自身が受けたダメージの|cffffff10|r%を霊魂が肩代わりする。\r\n\r\n死亡すると死体に変わる。"
-
-#: 198758357-0-118912
-msgctxt "198758357-0-118912"
-msgid "Spirit Guardian"
-msgstr "霊魂のガーディアン結界"
-
-#: 132143172-0-118840
-msgctxt "132143172-0-118840"
-msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
-msgstr "不気味な霊魂を召喚して、<<1>>の間使役して共に戦わせる。霊魂は自身か周囲で最も低い体力の味方を|cffffff2|r秒ごとに治癒し、体力を<<2>>回復する。\r\n\r\n死亡すると死体に変わる。"
-
-#: 198758357-0-118840
-msgctxt "198758357-0-118840"
-msgid "Intensive Mender"
-msgstr "熱心な癒し手"
-
 #: 132143172-0-118809
 msgctxt "132143172-0-118809"
 msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>. You can consume up to |cffffff5|r additional corpses on cast, with each corpse extending the duration of the heal over time by |cffffff5|r seconds."
@@ -40,66 +20,6 @@ msgstr "対象とした地で倒れた魂の、残った欠片を解放する。
 msgctxt "198758357-0-118809"
 msgid "Enduring Undeath"
 msgstr "不死の忍耐"
-
-#: 132143172-0-118379
-msgctxt "132143172-0-118379"
-msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou consume up to |cffffff3|r other corpses in the area and summon a Blastbones for each corpse consumed."
-msgstr "味方を死の淵から蘇らせ、対象とした地の味方を最大|cffffff3|r人まで蘇生させる。\r\n\r\nエリアの他の死体を最大|cffffff3|r体まで吸収し、吸収した死体の数だけ骨爆弾を召喚する。"
-
-#: 198758357-0-118379
-msgctxt "198758357-0-118379"
-msgid "Animate Blastbones"
-msgstr "骨爆弾起動"
-
-#: 132143172-0-118367
-msgctxt "132143172-0-118367"
-msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou restore <<1>> Magicka and Stamina for each ally you attempt to resurrect."
-msgstr "味方を死の淵から蘇らせ、対象とした地の味方を最大|cffffff3|r人まで蘇生させる。\r\n\r\n味方を蘇生させようとするごとに、マジカとスタミナを<<1>>回復する。"
-
-#: 198758357-0-118367
-msgctxt "198758357-0-118367"
-msgid "Renewing Animation"
-msgstr "アニメーション更新"
-
-#: 132143172-0-118122
-msgctxt "132143172-0-118122"
-msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This portion of the ability scales off your highest offensive stats.\n\nYou also restore <<3>> Stamina over <<2>> while siphoning the corpse.  \n\nWhile slotted, your healing done is increased by <<4>>."
-msgstr "死体から最後に残った生命力を吸収し、自身と死体の間にいる全ての味方の体力を<<1>>、<<2>>の間回復する。アビリティのこの部分の効果は、最も高い攻撃能力に応じて変動する。\r\n\r\n死体から吸収している間、<<3>>スタミナを<<2>>の間回復する。\r\n\r\nスロットに装備している間、与回復が<<3>>上昇する。"
-
-#: 198758357-0-118122
-msgctxt "198758357-0-118122"
-msgid "Mortal Coil"
-msgstr "定命の螺旋"
-
-#: 132143172-0-118070
-msgctxt "132143172-0-118070"
-msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself, all allies around you, and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
-msgstr "死体から最後に残った生命力を吸収し、自身と周囲の味方、および死体との間にいる全ての味方の体力を<<1>>、<<2>>の間回復する。このアビリティの効果は最も高い攻撃能力に応じて変動する。\r\n\r\nスロットに装備している間、与回復が<<3>>上昇する。"
-
-#: 198758357-0-118070
-msgctxt "198758357-0-118070"
-msgid "Braided Tether"
-msgstr "編まれた鎖"
-
-#: 132143172-0-118017
-msgctxt "132143172-0-118017"
-msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to immediately remove up |cffffff3|r negative effects and continue to heal you and your allies in the area for <<2>> Health over <<3>>."
-msgstr "対象とした地で倒れた魂の、残った欠片を解放する。自身と味方の体力を<<1>>回復する。\r\n\r\n詠唱時に死体を吸収すると、マイナス効果を即座に最大|cffffff3|rまで解除して、自身とエリアに居る味方の体力を<<2>>、<<3>>の間回復する。"
-
-#: 198758357-0-118017
-msgctxt "198758357-0-118017"
-msgid "Renewing Undeath"
-msgstr "不死の環の延長"
-
-#: 132143172-0-117940
-msgctxt "132143172-0-117940"
-msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself and restoring <<2>> Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by <<3>>."
-msgstr "死の力を受け入れ、自身のマイナス効果を最大<<1>>まで解除して、マイナス効果を解除する度にマジカとスタミナを<<2>>回復する。\r\n\r\nスロットに装備している間、全アビリティの消費が<<3>>低下する。"
-
-#: 198758357-0-117940
-msgctxt "198758357-0-117940"
-msgid "Expunge and Modify"
-msgstr "抹消と修正"
 
 #: 132143172-0-117919
 msgctxt "132143172-0-117919"
@@ -111,15 +31,65 @@ msgctxt "198758357-0-117919"
 msgid "Hexproof"
 msgstr "魔法受容"
 
-#: 132143172-0-117888
-msgctxt "132143172-0-117888"
-msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>.\n\nConsumes a corpse near you when cast to heal a second target."
-msgstr "自らの力を捧げて傷ついた肉を修復する。自身か前にいる味方の体力を<<1>>回復するが、自身には<<2>>の間汚染(弱)が適用され、被回復と体力再生が<<3>>低下する。\r\n\r\n詠唱時に周囲の死体を吸収すると、2人目の対象を治癒する。"
+#: 132143172-0-115710
+msgctxt "132143172-0-115710"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
+msgstr "不気味な霊魂を召喚して、<<1>>の間使役して共に戦わせる。霊魂は自身か周囲で最も低い体力の味方を|cffffff2|r秒ごとに治癒し、体力を<<2>>回復する。\r\n\r\n死亡すると死体に変わる。"
 
-#: 198758357-0-117888
-msgctxt "198758357-0-117888"
-msgid "Blood Sacrifice"
-msgstr "血の生贄"
+#: 198758357-0-115710
+msgctxt "198758357-0-115710"
+msgid "Spirit Mender"
+msgstr "霊魂の癒し手"
+
+#: 132143172-0-115315
+msgctxt "132143172-0-115315"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>."
+msgstr "対象とした地で倒れた魂の、残った欠片を解放する。自身と味方の体力を<<1>>回復する。\r\n\r\n詠唱時に死体を吸収すると、自身とエリアにいる味方の体力を<<2>>、<<3>>の間回復する。"
+
+#: 198758357-0-115315
+msgctxt "198758357-0-115315"
+msgid "Life amid Death"
+msgstr "死の中の生"
+
+#: 132143172-0-116273
+msgctxt "132143172-0-116273"
+msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff10|r% in proportion to the severity of the target's wounds."
+msgstr "スロットに生ける死体アビリティを装備していると、対象の負傷の深刻さに応じて、治癒アビリティによるクリティカル率が最大|cffffff10|r%まで上昇する。"
+
+#: 198758357-0-116273
+msgctxt "198758357-0-116273"
+msgid "Near-Death Experience"
+msgstr "臨死体験"
+
+#: 132143172-0-114196
+msgctxt "132143172-0-114196"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>."
+msgstr "自らの力を捧げて傷ついた肉を修復する。自身か前にいる味方の体力を<<1>>回復するが、自身には<<2>>の間汚染(弱)が適用され、被回復と体力再生が<<3>>低下する。"
+
+#: 198758357-0-114196
+msgctxt "198758357-0-114196"
+msgid "Render Flesh"
+msgstr "血肉の精製"
+
+#: 132143172-0-116275
+msgctxt "132143172-0-116275"
+msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff20|r% in proportion to the severity of the target's wounds."
+msgstr "スロットに生ける死体アビリティを装備していると、対象の負傷の深刻さに応じて、治癒アビリティによるクリティカル率が最大|cffffff20|r%まで上昇する。"
+
+#: 198758357-0-116275
+msgctxt "198758357-0-116275"
+msgid "Near-Death Experience"
+msgstr "臨死体験"
+
+#: 132143172-0-118017
+msgctxt "132143172-0-118017"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to immediately remove up |cffffff3|r negative effects and continue to heal you and your allies in the area for <<2>> Health over <<3>>."
+msgstr "対象とした地で倒れた魂の、残った欠片を解放する。自身と味方の体力を<<1>>回復する。\r\n\r\n詠唱時に死体を吸収すると、マイナス効果を即座に最大|cffffff3|rまで解除して、自身とエリアに居る味方の体力を<<2>>、<<3>>の間回復する。"
+
+#: 198758357-0-118017
+msgctxt "198758357-0-118017"
+msgid "Renewing Undeath"
+msgstr "不死の環の延長"
 
 #: 132143172-0-117883
 msgctxt "132143172-0-117883"
@@ -131,25 +101,75 @@ msgctxt "198758357-0-117883"
 msgid "Resistant Flesh"
 msgstr "強き肉"
 
-#: 132143172-0-116287
-msgctxt "132143172-0-116287"
-msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
-msgstr "自身にマイナス効果がある場合、回復力が<<1>>上昇する。"
+#: 132143172-0-118379
+msgctxt "132143172-0-118379"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou consume up to |cffffff3|r other corpses in the area and summon a Blastbones for each corpse consumed."
+msgstr "味方を死の淵から蘇らせ、対象とした地の味方を最大|cffffff3|r人まで蘇生させる。\r\n\r\nエリアの他の死体を最大|cffffff3|r体まで吸収し、吸収した死体の数だけ骨爆弾を召喚する。"
 
-#: 198758357-0-116287
-msgctxt "198758357-0-116287"
-msgid "Curative Curse"
-msgstr "呪いの管理"
+#: 198758357-0-118379
+msgctxt "198758357-0-118379"
+msgid "Animate Blastbones"
+msgstr "骨爆弾起動"
 
-#: 132143172-0-116286
-msgctxt "132143172-0-116286"
-msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
-msgstr "自身にマイナス効果がある場合、回復力が<<1>>上昇する。"
+#: 132143172-0-117940
+msgctxt "132143172-0-117940"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself and restoring <<2>> Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by <<3>>."
+msgstr "死の力を受け入れ、自身のマイナス効果を最大<<1>>まで解除して、マイナス効果を解除する度にマジカとスタミナを<<2>>回復する。\r\n\r\nスロットに装備している間、全アビリティの消費が<<3>>低下する。"
 
-#: 198758357-0-116286
-msgctxt "198758357-0-116286"
-msgid "Curative Curse"
-msgstr "呪いの管理"
+#: 198758357-0-117940
+msgctxt "198758357-0-117940"
+msgid "Expunge and Modify"
+msgstr "抹消と修正"
+
+#: 132143172-0-118070
+msgctxt "132143172-0-118070"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself, all allies around you, and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
+msgstr "死体から最後に残った生命力を吸収し、自身と周囲の味方、および死体との間にいる全ての味方の体力を<<1>>、<<2>>の間回復する。このアビリティの効果は最も高い攻撃能力に応じて変動する。\r\n\r\nスロットに装備している間、与回復が<<3>>上昇する。"
+
+#: 198758357-0-118070
+msgctxt "198758357-0-118070"
+msgid "Braided Tether"
+msgstr "編まれた鎖"
+
+#: 132143172-0-115926
+msgctxt "132143172-0-115926"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
+msgstr "死体から最後に残った生命力を吸収し、自身と死体の間にいる全ての味方の体力を<<1>>、<<2>>の間回復する。このアビリティの効果は最も高い攻撃能力に応じて変動する。\r\n\r\nスロットに装備している間、与回復が<<3>>上昇する。"
+
+#: 198758357-0-115926
+msgctxt "198758357-0-115926"
+msgid "Restoring Tether"
+msgstr "回復の絆"
+
+#: 132143172-0-117888
+msgctxt "132143172-0-117888"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>.\n\nConsumes a corpse near you when cast to heal a second target."
+msgstr "自らの力を捧げて傷ついた肉を修復する。自身か前にいる味方の体力を<<1>>回復するが、自身には<<2>>の間汚染(弱)が適用され、被回復と体力再生が<<3>>低下する。\r\n\r\n詠唱時に周囲の死体を吸収すると、2人目の対象を治癒する。"
+
+#: 198758357-0-117888
+msgctxt "198758357-0-117888"
+msgid "Blood Sacrifice"
+msgstr "血の生贄"
+
+#: 132143172-0-118912
+msgctxt "132143172-0-118912"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nWhile active, |cffffff10|r% of the damage you take is transferred to the spirit instead.\n\nCreates a corpse on death."
+msgstr "不気味な霊魂を召喚して、<<1>>の間使役して共に戦わせる。霊魂は自身か周囲で最も低い体力の味方を|cffffff2|r秒ごとに治癒し、体力を<<2>>回復する。\r\n\r\n発動中は、自身が受けたダメージの|cffffff10|r%を霊魂が肩代わりする。\r\n\r\n死亡すると死体に変わる。"
+
+#: 198758357-0-118912
+msgctxt "198758357-0-118912"
+msgid "Spirit Guardian"
+msgstr "霊魂のガーディアン結界"
+
+#: 132143172-0-115307
+msgctxt "132143172-0-115307"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by <<2>>."
+msgstr "死の力を受け入れ、自身のマイナス効果を最大<<1>>まで解除する。\r\n\r\nスロットに装備している間、全アビリティの消費が<<2>>低下する。"
+
+#: 198758357-0-115307
+msgctxt "198758357-0-115307"
+msgid "Expunge"
+msgstr "抹消"
 
 #: 132143172-0-116285
 msgctxt "132143172-0-116285"
@@ -171,6 +191,66 @@ msgctxt "198758357-0-116284"
 msgid "Corpse Consumption"
 msgstr "死体摂取"
 
+#: 132143172-0-116287
+msgctxt "132143172-0-116287"
+msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
+msgstr "自身にマイナス効果がある場合、回復力が<<1>>上昇する。"
+
+#: 198758357-0-116287
+msgctxt "198758357-0-116287"
+msgid "Curative Curse"
+msgstr "呪いの管理"
+
+#: 132143172-0-118122
+msgctxt "132143172-0-118122"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This portion of the ability scales off your highest offensive stats.\n\nYou also restore <<3>> Stamina over <<2>> while siphoning the corpse.  \n\nWhile slotted, your healing done is increased by <<4>>."
+msgstr "死体から最後に残った生命力を吸収し、自身と死体の間にいる全ての味方の体力を<<1>>、<<2>>の間回復する。アビリティのこの部分の効果は、最も高い攻撃能力に応じて変動する。\r\n\r\n死体から吸収している間、<<3>>スタミナを<<2>>の間回復する。\r\n\r\nスロットに装備している間、与回復が<<3>>上昇する。"
+
+#: 198758357-0-118122
+msgctxt "198758357-0-118122"
+msgid "Mortal Coil"
+msgstr "定命の螺旋"
+
+#: 132143172-0-116286
+msgctxt "132143172-0-116286"
+msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
+msgstr "自身にマイナス効果がある場合、回復力が<<1>>上昇する。"
+
+#: 198758357-0-116286
+msgctxt "198758357-0-116286"
+msgid "Curative Curse"
+msgstr "呪いの管理"
+
+#: 132143172-0-118840
+msgctxt "132143172-0-118840"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
+msgstr "不気味な霊魂を召喚して、<<1>>の間使役して共に戦わせる。霊魂は自身か周囲で最も低い体力の味方を|cffffff2|r秒ごとに治癒し、体力を<<2>>回復する。\r\n\r\n死亡すると死体に変わる。"
+
+#: 198758357-0-118840
+msgctxt "198758357-0-118840"
+msgid "Intensive Mender"
+msgstr "熱心な癒し手"
+
+#: 132143172-0-118367
+msgctxt "132143172-0-118367"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou restore <<1>> Magicka and Stamina for each ally you attempt to resurrect."
+msgstr "味方を死の淵から蘇らせ、対象とした地の味方を最大|cffffff3|r人まで蘇生させる。\r\n\r\n味方を蘇生させようとするごとに、マジカとスタミナを<<1>>回復する。"
+
+#: 198758357-0-118367
+msgctxt "198758357-0-118367"
+msgid "Renewing Animation"
+msgstr "アニメーション更新"
+
+#: 132143172-0-115410
+msgctxt "132143172-0-115410"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location."
+msgstr "味方を死の淵から蘇らせ、対象とした地の味方を最大|cffffff3|r人まで蘇生させる。"
+
+#: 198758357-0-115410
+msgctxt "198758357-0-115410"
+msgid "Reanimate"
+msgstr "再動"
+
 #: 132143172-0-116283
 msgctxt "132143172-0-116283"
 msgid "While you have a Blastbones, Skeletal Mage, or Spirit Mender active, your Magicka and Stamina Recovery is increased by <<1>>."
@@ -190,83 +270,3 @@ msgstr "骨爆弾、スケルトンの魔術師、霊魂の修復師が有効な
 msgctxt "198758357-0-116282"
 msgid "Undead Confederate"
 msgstr "アンデッド連合"
-
-#: 132143172-0-116275
-msgctxt "132143172-0-116275"
-msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff20|r% in proportion to the severity of the target's wounds."
-msgstr "スロットに生ける死体アビリティを装備していると、対象の負傷の深刻さに応じて、治癒アビリティによるクリティカル率が最大|cffffff20|r%まで上昇する。"
-
-#: 198758357-0-116275
-msgctxt "198758357-0-116275"
-msgid "Near-Death Experience"
-msgstr "臨死体験"
-
-#: 132143172-0-116273
-msgctxt "132143172-0-116273"
-msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff10|r% in proportion to the severity of the target's wounds."
-msgstr "スロットに生ける死体アビリティを装備していると、対象の負傷の深刻さに応じて、治癒アビリティによるクリティカル率が最大|cffffff10|r%まで上昇する。"
-
-#: 198758357-0-116273
-msgctxt "198758357-0-116273"
-msgid "Near-Death Experience"
-msgstr "臨死体験"
-
-#: 132143172-0-115926
-msgctxt "132143172-0-115926"
-msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
-msgstr "死体から最後に残った生命力を吸収し、自身と死体の間にいる全ての味方の体力を<<1>>、<<2>>の間回復する。このアビリティの効果は最も高い攻撃能力に応じて変動する。\r\n\r\nスロットに装備している間、与回復が<<3>>上昇する。"
-
-#: 198758357-0-115926
-msgctxt "198758357-0-115926"
-msgid "Restoring Tether"
-msgstr "回復の絆"
-
-#: 132143172-0-115710
-msgctxt "132143172-0-115710"
-msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
-msgstr "不気味な霊魂を召喚して、<<1>>の間使役して共に戦わせる。霊魂は自身か周囲で最も低い体力の味方を|cffffff2|r秒ごとに治癒し、体力を<<2>>回復する。\r\n\r\n死亡すると死体に変わる。"
-
-#: 198758357-0-115710
-msgctxt "198758357-0-115710"
-msgid "Spirit Mender"
-msgstr "霊魂の癒し手"
-
-#: 132143172-0-115410
-msgctxt "132143172-0-115410"
-msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location."
-msgstr "味方を死の淵から蘇らせ、対象とした地の味方を最大|cffffff3|r人まで蘇生させる。"
-
-#: 198758357-0-115410
-msgctxt "198758357-0-115410"
-msgid "Reanimate"
-msgstr "再動"
-
-#: 132143172-0-115315
-msgctxt "132143172-0-115315"
-msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>."
-msgstr "対象とした地で倒れた魂の、残った欠片を解放する。自身と味方の体力を<<1>>回復する。\r\n\r\n詠唱時に死体を吸収すると、自身とエリアにいる味方の体力を<<2>>、<<3>>の間回復する。"
-
-#: 198758357-0-115315
-msgctxt "198758357-0-115315"
-msgid "Life amid Death"
-msgstr "死の中の生"
-
-#: 132143172-0-115307
-msgctxt "132143172-0-115307"
-msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by <<2>>."
-msgstr "死の力を受け入れ、自身のマイナス効果を最大<<1>>まで解除する。\r\n\r\nスロットに装備している間、全アビリティの消費が<<2>>低下する。"
-
-#: 198758357-0-115307
-msgctxt "198758357-0-115307"
-msgid "Expunge"
-msgstr "抹消"
-
-#: 132143172-0-114196
-msgctxt "132143172-0-114196"
-msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>."
-msgstr "自らの力を捧げて傷ついた肉を修復する。自身か前にいる味方の体力を<<1>>回復するが、自身には<<2>>の間汚染(弱)が適用され、被回復と体力再生が<<3>>低下する。"
-
-#: 198758357-0-114196
-msgctxt "198758357-0-114196"
-msgid "Render Flesh"
-msgstr "血肉の精製"

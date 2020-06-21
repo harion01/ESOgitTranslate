@@ -11,36 +11,55 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 116521668-0-13899
-msgctxt "116521668-0-13899"
-msgid "Cake? I don't know. This one came out so well, I might just keep it for myself.\n\nJust kidding! You earned this special cake. Wait until you taste it! I think you're going to be pleasantly surprised."
-msgstr "ケーキ？ 知らないな。商売はとてもうまく行っている。自分のためにとっておこう\r\n\r\n冗談だ！ スペシャルケーキをあげよう。楽しみにしてろよ！ 喜ばしい驚きが待っているはずだ"
+#: 116521668-0-13462
+msgctxt "116521668-0-13462"
+msgid "For all their ingenuity, those Dwarves still haven't managed to build a death trap deathy enough to keep Undaunted out of their business. Frostvault was a good effort though.\n\nCracking the Vault of Mhuvnak and returning Undaunted gets you a key."
+msgstr "ドワーフたちに発明の才能があっても、アンドーンテッドを寄せ付けないほど危険な死の罠は今も作れていない。フロストヴォルトはなかなかのものだけどね\r\n\r\nムヴナクの宝物庫に押し入って、アンドーンテッドとして戻れば、鍵を渡しましょう"
 
-#: 232026500-0-13899
-msgctxt "232026500-0-13899"
-msgid "Can I have my cake now?"
-msgstr "ケーキを食べていいか？"
+#: 232026500-0-13462
+msgctxt "232026500-0-13462"
+msgid "What's my reward for raiding Frostvault?"
+msgstr "フロストヴォルトを襲撃した報酬は？"
 
-#: 116521668-0-13852
-msgctxt "116521668-0-13852"
-msgid "Excellent! You won't regret this decision, I swear.\n\nHere's the deed and key to the room. Took me a while, but I finally was able to take them back from the last tenant. Required more time in the sewers than I had hoped for, but hey, that's business."
-msgstr "それはいい！ その決断は後悔しないわよ\r\n\r\nこれが権利書と部屋の鍵よ。少し時間はかかったけど、ようやく前の借り手から取り戻したわ。望んでいたより多くの時間を下水道で過ごしたとはいえ、これが商売ってものね"
+#: 116521668-0-13463
+msgctxt "116521668-0-13463"
+msgid "Where some see a locked door, you see an opportunity—to blow it to pieces! For making a proper Undaunted entrance into the Vault of Mhuvnak, smashing its defenses, and splattering a horde of Goblins for good measure, you've earned your key and cut."
+msgstr "閉ざされた扉も、考えようによっては好機よ。突破すればいい！ アンドーンテッド流のやり方でムヴナクの宝物庫に入り、守りを突破してゴブリンの群れを蹴散らせば、鍵と報酬を獲得できるわ"
 
-#: 232026500-0-13852
-msgctxt "232026500-0-13852"
-msgid "I've decided to accept your offer."
-msgstr "提案を受けることにした"
+#: 232026500-0-13463
+msgctxt "232026500-0-13463"
+msgid "What's my reward for raiding Frostvault?"
+msgstr "フロストヴォルトを襲撃した報酬は？"
 
-#: 116521668-0-13847
-#, fuzzy
-msgctxt "116521668-0-13847"
-msgid "Or they simply wanted to keep the Wrathstone for themselves. We don't know their reasons, yet, but this could be the key to understanding why.\n\nWhatever its history, the Wrathstone's just a lump of inert stone now. A priceless lump of inert stone."
-msgstr "あるいは憤怒の石を独り占めしたかったか。動機は分からないけど、石を調べれば理解できるかもしれない\r\n\r\n過去が何であれ、今の憤怒の石は何の変哲もない石に過ぎない。貴重な石だけどね"
+#: 116521668-0-13460
+msgctxt "116521668-0-13460"
+msgid "Study it, obviously. Very carefully, if that's what you're wondering. I've been doing this long enough to be cautious with my meddling."
+msgstr "もちろん調べるわ。言うまでもないけど、極めて慎重にね。長年の経験のおかげで、ぞんざいに扱っちゃいけないということは分かる"
 
-#: 232026500-0-13847
-msgctxt "232026500-0-13847"
-msgid "Maybe they kept it hidden for good reason."
-msgstr "隠すべき理由があったのかもしれない"
+#: 232026500-0-13460
+msgctxt "232026500-0-13460"
+msgid "What are you going to do with it?"
+msgstr "これで何をするつもりだ？"
+
+#: 116521668-0-13461
+msgctxt "116521668-0-13461"
+msgid "True Undaunted can't resist mashing a button. So what if it turns the entire place into a piping hot steam bath, or charges up some giant death contraption? Just keeps us loosened up for the fight!\n\nHere's your reward for smashing the Stonekeeper!"
+msgstr "真のアンドーンテッドなら、ボタンを見れば押さずにはいられない。周囲が灼熱に変わり、死の巨大な装置が動き始めたらどうするって？ 戦いが楽しみになるだけよね！\r\n\r\nさあ、石の番人を倒した報酬よ！"
+
+#: 232026500-0-13461
+msgctxt "232026500-0-13461"
+msgid "What's my reward for raiding Frostvault?"
+msgstr "フロストヴォルトを襲撃した報酬は？"
+
+#: 116521668-0-13805
+msgctxt "116521668-0-13805"
+msgid "Excellent work. It will take our scholars time to decipher the writing, but Zahari has no doubt it will prove useful in the battles ahead.\n\nNo enemy is invulnerable, not even Dragons. This scroll proves that."
+msgstr "よくやってくれたわ。学者が文章を解読するには時間がかかるでしょうけど、この先の戦いに役立つことはザハリが確信している\r\n\r\n弱点がない敵はいない。たとえドラゴンでもね。それをこの巻物が証明するわ"
+
+#: 232026500-0-13805
+msgctxt "232026500-0-13805"
+msgid "I found the scroll you wanted."
+msgstr "欲しがっていた巻物を見つけた"
 
 #: 116521668-0-13846
 #, fuzzy
@@ -53,46 +72,6 @@ msgctxt "232026500-0-13846"
 msgid "They probably thought it was dangerous."
 msgstr "危険だと思ったのかもしれない"
 
-#: 116521668-0-13807
-msgctxt "116521668-0-13807"
-msgid "Your work is most appreciated, warrior. Anything we can learn about the Dragons is a closer step to victory.\n\nThis one will notify our scholars immediately. They will want to start their studies."
-msgstr "戦士よ、本当に感謝するわ。ドラゴンのことを学ぶたび、勝利に近づく\r\n\r\nこの者はすぐに学者へ知らせましょう。研究を始めたがるはずよ"
-
-#: 232026500-0-13807
-msgctxt "232026500-0-13807"
-msgid "I found the scroll you wanted."
-msgstr "欲しがっていた巻物を見つけた"
-
-#: 116521668-0-13806
-msgctxt "116521668-0-13806"
-msgid "And so we gain another arrow in our quiver. Thank Jone and Jode.\n\nAnd thank you as well, warrior. Zahari has a feeling that this scroll will prove more than useful, once our scholars decipher it."
-msgstr "これで矢筒に矢が増えた。ジョーンとジョーデに感謝を\r\n\r\nもちろん、あなたにもね。この巻物を学者が解読すれば、とても役に立つとザハリは思う"
-
-#: 232026500-0-13806
-msgctxt "232026500-0-13806"
-msgid "I found the scroll you wanted."
-msgstr "欲しがっていた巻物を見つけた"
-
-#: 116521668-0-13805
-msgctxt "116521668-0-13805"
-msgid "Excellent work. It will take our scholars time to decipher the writing, but Zahari has no doubt it will prove useful in the battles ahead.\n\nNo enemy is invulnerable, not even Dragons. This scroll proves that."
-msgstr "よくやってくれたわ。学者が文章を解読するには時間がかかるでしょうけど、この先の戦いに役立つことはザハリが確信している\r\n\r\n弱点がない敵はいない。たとえドラゴンでもね。それをこの巻物が証明するわ"
-
-#: 232026500-0-13805
-msgctxt "232026500-0-13805"
-msgid "I found the scroll you wanted."
-msgstr "欲しがっていた巻物を見つけた"
-
-#: 116521668-0-13803
-msgctxt "116521668-0-13803"
-msgid "This one hopes our recruits have taken your demonstration most seriously. Each lesson learned is worth much in these troubling times of Dragons and mayhem.\n\nYou have aided us greatly, warrior. You have Zahari's thanks."
-msgstr "この者は新兵が実演を真剣に受け止めたことを祈っている。ドラゴンと混沌という大変な時代に、学べることは貴重よ\r\n\r\n本当に助かったわ。ザハリは礼を言う"
-
-#: 232026500-0-13803
-msgctxt "232026500-0-13803"
-msgid "I showed your new recruits a thing or two."
-msgstr "新兵には色々教えた"
-
 #: 116521668-0-13802
 msgctxt "116521668-0-13802"
 msgid "Today they watch a warrior at work. Tomorrow, they face the mighty threat of the Dragons who threaten us. And thanks to you, they are a little more prepared for such a fight.\n\nYou have this one's gratitude, warrior."
@@ -103,33 +82,24 @@ msgctxt "232026500-0-13802"
 msgid "I showed your new recruits a thing or two."
 msgstr "新兵には色々教えた"
 
-#: 116521668-0-13801
-msgctxt "116521668-0-13801"
-msgid "Hopefully, such a lesson has taught our recruits much. Their hearts may be brave, but it is their skill that will decide our battles against the Dragons.\n\nZahari is most grateful for your aid, warrior."
-msgstr "その指導から新兵が多くを学んだことを祈っている。心は勇敢でも、ドラゴンとの戦いでは技術が勝敗を決める\r\n\r\nザハリは、あなたの協力に心から感謝している"
+#: 116521668-0-13847
+#, fuzzy
+msgctxt "116521668-0-13847"
+msgid "Or they simply wanted to keep the Wrathstone for themselves. We don't know their reasons, yet, but this could be the key to understanding why.\n\nWhatever its history, the Wrathstone's just a lump of inert stone now. A priceless lump of inert stone."
+msgstr "あるいは憤怒の石を独り占めしたかったか。動機は分からないけど、石を調べれば理解できるかもしれない\r\n\r\n過去が何であれ、今の憤怒の石は何の変哲もない石に過ぎない。貴重な石だけどね"
 
-#: 232026500-0-13801
-msgctxt "232026500-0-13801"
-msgid "I showed your new recruits a thing or two."
-msgstr "新兵には色々教えた"
+#: 232026500-0-13847
+msgctxt "232026500-0-13847"
+msgid "Maybe they kept it hidden for good reason."
+msgstr "隠すべき理由があったのかもしれない"
 
-#: 116521668-0-13800
-msgctxt "116521668-0-13800"
-msgid "Zahari hopes they take such a lesson to heart. Our needs are great and the time to train is frightfully little to prepare against this Dragon invasion.\n\nThank you for your help on this matter."
-msgstr "ザハリは彼らが指導を肝に銘じることを願っている。課題は多いし、ドラゴンの侵略に備えるため訓練を行う余裕は全くない\r\n\r\n今回は助かった"
+#: 116521668-0-13803
+msgctxt "116521668-0-13803"
+msgid "This one hopes our recruits have taken your demonstration most seriously. Each lesson learned is worth much in these troubling times of Dragons and mayhem.\n\nYou have aided us greatly, warrior. You have Zahari's thanks."
+msgstr "この者は新兵が実演を真剣に受け止めたことを祈っている。ドラゴンと混沌という大変な時代に、学べることは貴重よ\r\n\r\n本当に助かったわ。ザハリは礼を言う"
 
-#: 232026500-0-13800
-msgctxt "232026500-0-13800"
-msgid "I showed your new recruits a thing or two."
-msgstr "新兵には色々教えた"
-
-#: 116521668-0-13732
-msgctxt "116521668-0-13732"
-msgid "Let us pray the lesson takes, for soon they must face the might of Dragons.\n\nYour aid in this matter is most appreciated. This one hopes you will continue to provide such a demonstration for the many recruits to come."
-msgstr "彼らは間もなくドラゴンの力と対峙する。指導の効果が出ることを祈るわ\r\n\r\n今回の件ではとても助かったわ。この者はこの先も多くの新兵に実演を示すことを願っている"
-
-#: 232026500-0-13732
-msgctxt "232026500-0-13732"
+#: 232026500-0-13803
+msgctxt "232026500-0-13803"
 msgid "I showed your new recruits a thing or two."
 msgstr "新兵には色々教えた"
 
@@ -142,6 +112,26 @@ msgstr "上出来よ。魂石はザハリが付呪師に届ける。また空の
 msgctxt "232026500-0-13704"
 msgid "I filled all the empty soul gems you gave me."
 msgstr "受け取った空の魂石をすべて満たした"
+
+#: 116521668-0-13806
+msgctxt "116521668-0-13806"
+msgid "And so we gain another arrow in our quiver. Thank Jone and Jode.\n\nAnd thank you as well, warrior. Zahari has a feeling that this scroll will prove more than useful, once our scholars decipher it."
+msgstr "これで矢筒に矢が増えた。ジョーンとジョーデに感謝を\r\n\r\nもちろん、あなたにもね。この巻物を学者が解読すれば、とても役に立つとザハリは思う"
+
+#: 232026500-0-13806
+msgctxt "232026500-0-13806"
+msgid "I found the scroll you wanted."
+msgstr "欲しがっていた巻物を見つけた"
+
+#: 116521668-0-13807
+msgctxt "116521668-0-13807"
+msgid "Your work is most appreciated, warrior. Anything we can learn about the Dragons is a closer step to victory.\n\nThis one will notify our scholars immediately. They will want to start their studies."
+msgstr "戦士よ、本当に感謝するわ。ドラゴンのことを学ぶたび、勝利に近づく\r\n\r\nこの者はすぐに学者へ知らせましょう。研究を始めたがるはずよ"
+
+#: 232026500-0-13807
+msgctxt "232026500-0-13807"
+msgid "I found the scroll you wanted."
+msgstr "欲しがっていた巻物を見つけた"
 
 #: 116521668-0-13653
 msgctxt "116521668-0-13653"
@@ -163,15 +153,25 @@ msgctxt "232026500-0-13631"
 msgid "And you're all right with Khamira accompanying us?"
 msgstr "ではカミラが同行しても構わないか？"
 
-#: 116521668-0-13468
-msgctxt "116521668-0-13468"
-msgid "For kicking Meridia's shiny-heinie out of Garlas Malatar and returning Undaunted, you've earned your key and cut. Keep your boots polished. There's sure to be more Daedra in need of a swift kick soon."
-msgstr "ガーラス・マラタールでメリディアの輝く尻を蹴っ飛ばして、アンドーンテッドとして戻りなさい。鍵と報酬を受け取れるわ。ブーツは磨いておいてね。蹴っ飛ばさないといけない次のデイドラが、すぐにやってくるわ"
+#: 116521668-0-13466
+msgctxt "116521668-0-13466"
+msgid "Hmm. You did smash up the domain of a Daedric Prince. And stole from her. And showed her a few choice fingers along the way. Yeah, I'd say that merits a key or two.\n\nThe day is yours, Meridia be damned."
+msgstr "ふーん。確かにデイドラ公の領域を潰したみたいね。加えて彼女からものを盗んだし、さらに道中で彼女を侮辱もした。ひとつふたつ鍵をもらってもいいわね\r\n\r\nあなたの勝ちよ。メリディアはくたばればいい"
 
-#: 232026500-0-13468
-msgctxt "232026500-0-13468"
+#: 232026500-0-13466
+msgctxt "232026500-0-13466"
 msgid "What's my reward for besting the Depths of Malatar?"
 msgstr "マラタールの深淵を攻略した報酬は？"
+
+#: 116521668-0-13852
+msgctxt "116521668-0-13852"
+msgid "Excellent! You won't regret this decision, I swear.\n\nHere's the deed and key to the room. Took me a while, but I finally was able to take them back from the last tenant. Required more time in the sewers than I had hoped for, but hey, that's business."
+msgstr "よかった！ その決断、後悔させないわよ\r\n\r\nこれが権利書と部屋の鍵ね。少し時間はかかったけど、ようやく前の借り主から取り戻した。思ったより多くの時間を下水道で過ごすことになったけど、これが商売ってものね"
+
+#: 232026500-0-13852
+msgctxt "232026500-0-13852"
+msgid "I've decided to accept your offer."
+msgstr "提案を受けることにした"
 
 #: 116521668-0-13467
 msgctxt "116521668-0-13467"
@@ -180,16 +180,6 @@ msgstr "メリディアと奴の独善的な手先を叩きのめして、ガー
 
 #: 232026500-0-13467
 msgctxt "232026500-0-13467"
-msgid "What's my reward for besting the Depths of Malatar?"
-msgstr "マラタールの深淵を攻略した報酬は？"
-
-#: 116521668-0-13466
-msgctxt "116521668-0-13466"
-msgid "Hmm. You did smash up the domain of a Daedric Prince. And stole from her. And showed her a few choice fingers along the way. Yeah, I'd say that merits a key or two.\n\nThe day is yours, Meridia be damned."
-msgstr "ふーん。確かにデイドラ公の領域を潰したみたいね。加えて彼女からものを盗んだし、さらに道中で彼女を侮辱もした。ひとつふたつ鍵をもらってもいいわね\r\n\r\nあなたの勝ちよ。メリディアはくたばればいい"
-
-#: 232026500-0-13466
-msgctxt "232026500-0-13466"
 msgid "What's my reward for besting the Depths of Malatar?"
 msgstr "マラタールの深淵を攻略した報酬は？"
 
@@ -203,42 +193,52 @@ msgctxt "232026500-0-13465"
 msgid "This is where we part ways?"
 msgstr "これでお別れか？"
 
-#: 116521668-0-13463
-msgctxt "116521668-0-13463"
-msgid "Where some see a locked door, you see an opportunity—to blow it to pieces! For making a proper Undaunted entrance into the Vault of Mhuvnak, smashing its defenses, and splattering a horde of Goblins for good measure, you've earned your key and cut."
-msgstr "閉ざされた扉も、考えようによっては好機よ。突破すればいい！ アンドーンテッド流のやり方でムヴナクの宝物庫に入り、守りを突破してゴブリンの群れを蹴散らせば、鍵と報酬を獲得できるわ"
+#: 116521668-0-13899
+msgctxt "116521668-0-13899"
+msgid "Cake? I don't know. This one came out so well, I might just keep it for myself.\n\nJust kidding! You earned this special cake. Wait until you taste it! I think you're going to be pleasantly surprised."
+msgstr "ケーキ？ 知らないな。商売はとてもうまく行っている。自分のためにとっておこう\r\n\r\n冗談だ！ スペシャルケーキをあげよう。楽しみにしてろよ！ 喜ばしい驚きが待っているはずだ"
 
-#: 232026500-0-13463
-msgctxt "232026500-0-13463"
-msgid "What's my reward for raiding Frostvault?"
-msgstr "フロストヴォルトを襲撃した報酬は？"
+#: 232026500-0-13899
+msgctxt "232026500-0-13899"
+msgid "Can I have my cake now?"
+msgstr "ケーキを食べていいか？"
 
-#: 116521668-0-13462
-msgctxt "116521668-0-13462"
-msgid "For all their ingenuity, those Dwarves still haven't managed to build a death trap deathy enough to keep Undaunted out of their business. Frostvault was a good effort though.\n\nCracking the Vault of Mhuvnak and returning Undaunted gets you a key."
-msgstr "ドワーフたちに発明の才能があっても、アンドーンテッドを寄せ付けないほど危険な死の罠は今も作れていない。フロストヴォルトはなかなかのものだけどね\r\n\r\nムヴナクの宝物庫に押し入って、アンドーンテッドとして戻れば、鍵を渡しましょう"
+#: 116521668-0-13800
+msgctxt "116521668-0-13800"
+msgid "Zahari hopes they take such a lesson to heart. Our needs are great and the time to train is frightfully little to prepare against this Dragon invasion.\n\nThank you for your help on this matter."
+msgstr "ザハリは彼らが指導を肝に銘じることを願っている。課題は多いし、ドラゴンの侵略に備えるため訓練を行う余裕は全くない\r\n\r\n今回は助かった"
 
-#: 232026500-0-13462
-msgctxt "232026500-0-13462"
-msgid "What's my reward for raiding Frostvault?"
-msgstr "フロストヴォルトを襲撃した報酬は？"
+#: 232026500-0-13800
+msgctxt "232026500-0-13800"
+msgid "I showed your new recruits a thing or two."
+msgstr "新兵には色々教えた"
 
-#: 116521668-0-13461
-msgctxt "116521668-0-13461"
-msgid "True Undaunted can't resist mashing a button. So what if it turns the entire place into a piping hot steam bath, or charges up some giant death contraption? Just keeps us loosened up for the fight!\n\nHere's your reward for smashing the Stonekeeper!"
-msgstr "真のアンドーンテッドなら、ボタンを見れば押さずにはいられない。周囲が灼熱に変わり、死の巨大な装置が動き始めたらどうするって？ 戦いが楽しみになるだけよね！\r\n\r\nさあ、石の番人を倒した報酬よ！"
+#: 116521668-0-13801
+msgctxt "116521668-0-13801"
+msgid "Hopefully, such a lesson has taught our recruits much. Their hearts may be brave, but it is their skill that will decide our battles against the Dragons.\n\nZahari is most grateful for your aid, warrior."
+msgstr "その指導から新兵が多くを学んだことを祈っている。心は勇敢でも、ドラゴンとの戦いでは技術が勝敗を決める\r\n\r\nザハリは、あなたの協力に心から感謝している"
 
-#: 232026500-0-13461
-msgctxt "232026500-0-13461"
-msgid "What's my reward for raiding Frostvault?"
-msgstr "フロストヴォルトを襲撃した報酬は？"
+#: 232026500-0-13801
+msgctxt "232026500-0-13801"
+msgid "I showed your new recruits a thing or two."
+msgstr "新兵には色々教えた"
 
-#: 116521668-0-13460
-msgctxt "116521668-0-13460"
-msgid "Study it, obviously. Very carefully, if that's what you're wondering. I've been doing this long enough to be cautious with my meddling."
-msgstr "もちろん調べるわ。言うまでもないけど、極めて慎重にね。長年の経験のおかげで、ぞんざいに扱っちゃいけないということは分かる"
+#: 116521668-0-13732
+msgctxt "116521668-0-13732"
+msgid "Let us pray the lesson takes, for soon they must face the might of Dragons.\n\nYour aid in this matter is most appreciated. This one hopes you will continue to provide such a demonstration for the many recruits to come."
+msgstr "彼らは間もなくドラゴンの力と対峙する。指導の効果が出ることを祈るわ\r\n\r\n今回の件ではとても助かったわ。この者はこの先も多くの新兵に実演を示すことを願っている"
 
-#: 232026500-0-13460
-msgctxt "232026500-0-13460"
-msgid "What are you going to do with it?"
-msgstr "これで何をするつもりだ？"
+#: 232026500-0-13732
+msgctxt "232026500-0-13732"
+msgid "I showed your new recruits a thing or two."
+msgstr "新兵には色々教えた"
+
+#: 116521668-0-13468
+msgctxt "116521668-0-13468"
+msgid "For kicking Meridia's shiny-heinie out of Garlas Malatar and returning Undaunted, you've earned your key and cut. Keep your boots polished. There's sure to be more Daedra in need of a swift kick soon."
+msgstr "ガーラス・マラタールでメリディアの輝く尻を蹴っ飛ばして、アンドーンテッドとして戻りなさい。鍵と報酬を受け取れるわ。ブーツは磨いておいてね。蹴っ飛ばさないといけない次のデイドラが、すぐにやってくるわ"
+
+#: 232026500-0-13468
+msgctxt "232026500-0-13468"
+msgid "What's my reward for besting the Depths of Malatar?"
+msgstr "マラタールの深淵を攻略した報酬は？"

@@ -11,46 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-45276
-msgctxt "132143172-0-45276"
-msgid "Increases your Spell Damage by <<1>>."
-msgstr ""
-
-#: 198758357-0-45276
-msgctxt "198758357-0-45276"
-msgid "Elemental Talent"
-msgstr ""
-
-#: 132143172-0-45275
-msgctxt "132143172-0-45275"
-msgid "Increases your Spell Damage by <<1>>."
-msgstr ""
-
-#: 198758357-0-45275
-msgctxt "198758357-0-45275"
-msgid "Elemental Talent"
-msgstr ""
-
-#: 132143172-0-45274
-msgctxt "132143172-0-45274"
-msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
-msgstr ""
-
-#: 198758357-0-45274
-msgctxt "198758357-0-45274"
-msgid "Spell Recharge"
-msgstr ""
-
-#: 132143172-0-45273
-msgctxt "132143172-0-45273"
-msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
-msgstr ""
-
-#: 198758357-0-45273
-msgctxt "198758357-0-45273"
-msgid "Spell Recharge"
-msgstr ""
-
 #: 132143172-0-35998
 msgctxt "132143172-0-35998"
 msgid "Increases your Spell Damage by <<1>>."
@@ -59,16 +19,6 @@ msgstr ""
 #: 198758357-0-35998
 msgctxt "198758357-0-35998"
 msgid "Elemental Talent"
-msgstr ""
-
-#: 132143172-0-35993
-msgctxt "132143172-0-35993"
-msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
-msgstr ""
-
-#: 198758357-0-35993
-msgctxt "198758357-0-35993"
-msgid "Spell Recharge"
 msgstr ""
 
 #: 132143172-0-35965
@@ -89,6 +39,56 @@ msgstr ""
 #: 198758357-0-117970
 msgctxt "198758357-0-117970"
 msgid "Syrabane's Boon"
+msgstr ""
+
+#: 132143172-0-45276
+msgctxt "132143172-0-45276"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr ""
+
+#: 198758357-0-45276
+msgctxt "198758357-0-45276"
+msgid "Elemental Talent"
+msgstr ""
+
+#: 132143172-0-35993
+msgctxt "132143172-0-35993"
+msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
+msgstr ""
+
+#: 198758357-0-35993
+msgctxt "198758357-0-35993"
+msgid "Spell Recharge"
+msgstr ""
+
+#: 132143172-0-45273
+msgctxt "132143172-0-45273"
+msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
+msgstr ""
+
+#: 198758357-0-45273
+msgctxt "198758357-0-45273"
+msgid "Spell Recharge"
+msgstr ""
+
+#: 132143172-0-45275
+msgctxt "132143172-0-45275"
+msgid "Increases your Spell Damage by <<1>>."
+msgstr ""
+
+#: 198758357-0-45275
+msgctxt "198758357-0-45275"
+msgid "Elemental Talent"
+msgstr ""
+
+#: 132143172-0-45274
+msgctxt "132143172-0-45274"
+msgid "When you activate a class ability, you restore <<1>> Magicka or Stamina, based on whichever is lowest.  This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take <<2>> less damage."
+msgstr ""
+
+#: 198758357-0-45274
+msgctxt "198758357-0-45274"
+msgid "Spell Recharge"
 msgstr ""
 
 #: 132143172-0-117969

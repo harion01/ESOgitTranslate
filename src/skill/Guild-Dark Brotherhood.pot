@@ -11,63 +11,23 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-79868
-msgctxt "132143172-0-79868"
+#: 132143172-0-77396
+msgctxt "132143172-0-77396"
+msgid "A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew's Bane Thieves Den."
+msgstr ""
+
+#: 198758357-0-77396
+msgctxt "198758357-0-77396"
+msgid "Shadowy Supplier"
+msgstr ""
+
+#: 132143172-0-77397
+msgctxt "132143172-0-77397"
 msgid "Grants Major Expedition, increasing your Movement Speed by <<1>>  for <<2>> after killing a Citizen."
 msgstr ""
 
-#: 198758357-0-79868
-msgctxt "198758357-0-79868"
-msgid "Padomaic Sprint"
-msgstr ""
-
-#: 132143172-0-79865
-msgctxt "132143172-0-79865"
-msgid "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by <<1>>."
-msgstr ""
-
-#: 198758357-0-79865
-msgctxt "198758357-0-79865"
-msgid "Scales of Pitiless Justice"
-msgstr ""
-
-#: 132143172-0-78219
-msgctxt "132143172-0-78219"
-msgid "Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\n\nThis ability does not work on players or difficult targets."
-msgstr ""
-
-#: 198758357-0-78219
-msgctxt "198758357-0-78219"
-msgid "Blade of Woe"
-msgstr ""
-
-#: 132143172-0-77401
-msgctxt "132143172-0-77401"
-msgid "15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty."
-msgstr ""
-
-#: 198758357-0-77401
-msgctxt "198758357-0-77401"
-msgid "Spectral Assassin"
-msgstr ""
-
-#: 132143172-0-77400
-msgctxt "132143172-0-77400"
-msgid "Aggression radius from hostile monsters is decreased by 50% while mounted."
-msgstr ""
-
-#: 198758357-0-77400
-msgctxt "198758357-0-77400"
-msgid "Shadow Rider"
-msgstr ""
-
-#: 132143172-0-77399
-msgctxt "132143172-0-77399"
-msgid "Grants Major Expedition, increasing your Movement Speed by <<1>>  for <<2>> after killing a Citizen."
-msgstr ""
-
-#: 198758357-0-77399
-msgctxt "198758357-0-77399"
+#: 198758357-0-77397
+msgctxt "198758357-0-77397"
 msgid "Padomaic Sprint"
 msgstr ""
 
@@ -81,33 +41,73 @@ msgctxt "198758357-0-77398"
 msgid "Padomaic Sprint"
 msgstr ""
 
-#: 132143172-0-77397
-msgctxt "132143172-0-77397"
+#: 132143172-0-77399
+msgctxt "132143172-0-77399"
 msgid "Grants Major Expedition, increasing your Movement Speed by <<1>>  for <<2>> after killing a Citizen."
 msgstr ""
 
-#: 198758357-0-77397
-msgctxt "198758357-0-77397"
+#: 198758357-0-77399
+msgctxt "198758357-0-77399"
 msgid "Padomaic Sprint"
 msgstr ""
 
-#: 132143172-0-77396
-msgctxt "132143172-0-77396"
-msgid "A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew's Bane Thieves Den."
+#: 132143172-0-77400
+msgctxt "132143172-0-77400"
+msgid "Aggression radius from hostile monsters is decreased by 50% while mounted."
 msgstr ""
 
-#: 198758357-0-77396
-msgctxt "198758357-0-77396"
-msgid "Shadowy Supplier"
+#: 198758357-0-77400
+msgctxt "198758357-0-77400"
+msgid "Shadow Rider"
 msgstr ""
 
-#: 132143172-0-77395
-msgctxt "132143172-0-77395"
+#: 132143172-0-79865
+msgctxt "132143172-0-79865"
 msgid "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by <<1>>."
 msgstr ""
 
-#: 198758357-0-77395
-msgctxt "198758357-0-77395"
+#: 198758357-0-79865
+msgctxt "198758357-0-79865"
+msgid "Scales of Pitiless Justice"
+msgstr ""
+
+#: 132143172-0-77401
+msgctxt "132143172-0-77401"
+msgid "15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty."
+msgstr ""
+
+#: 198758357-0-77401
+msgctxt "198758357-0-77401"
+msgid "Spectral Assassin"
+msgstr ""
+
+#: 132143172-0-78219
+msgctxt "132143172-0-78219"
+msgid "Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\n\nThis ability does not work on players or difficult targets."
+msgstr ""
+
+#: 198758357-0-78219
+msgctxt "198758357-0-78219"
+msgid "Blade of Woe"
+msgstr ""
+
+#: 132143172-0-79868
+msgctxt "132143172-0-79868"
+msgid "Grants Major Expedition, increasing your Movement Speed by <<1>>  for <<2>> after killing a Citizen."
+msgstr ""
+
+#: 198758357-0-79868
+msgctxt "198758357-0-79868"
+msgid "Padomaic Sprint"
+msgstr ""
+
+#: 132143172-0-77392
+msgctxt "132143172-0-77392"
+msgid "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by <<1>>."
+msgstr ""
+
+#: 198758357-0-77392
+msgctxt "198758357-0-77392"
 msgid "Scales of Pitiless Justice"
 msgstr ""
 
@@ -121,12 +121,12 @@ msgctxt "198758357-0-77394"
 msgid "Scales of Pitiless Justice"
 msgstr ""
 
-#: 132143172-0-77392
-msgctxt "132143172-0-77392"
+#: 132143172-0-77395
+msgctxt "132143172-0-77395"
 msgid "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by <<1>>."
 msgstr ""
 
-#: 198758357-0-77392
-msgctxt "198758357-0-77392"
+#: 198758357-0-77395
+msgctxt "198758357-0-77395"
 msgid "Scales of Pitiless Justice"
 msgstr ""

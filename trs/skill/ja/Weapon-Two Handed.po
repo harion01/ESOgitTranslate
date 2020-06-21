@@ -11,6 +11,36 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-45430
+msgctxt "132143172-0-45430"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks a |cffffff16|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+msgstr "武器の種類によってボーナスが付与される:\r\n\r\n剣は<<1>>の追加ダメージを与える。\r\n\r\n斧で近接攻撃を行うと、|cffffff16|r%の確率で出血させ、<<2>>を<<3>>の間与える。\r\n\r\n戦棍は、敵の物理耐性を<<4>>%無視してダメージを与える。"
+
+#: 198758357-0-45430
+msgctxt "198758357-0-45430"
+msgid "Heavy Weapons"
+msgstr "重武器"
+
+#: 132143172-0-29387
+msgctxt "132143172-0-29387"
+msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
+msgstr "軽攻撃や重攻撃を行うと、主標的に与えたダメージの<<1>>%分のダメージを近くにいる敵|cffffff3|r体に与えることができる。"
+
+#: 198758357-0-29387
+msgctxt "198758357-0-29387"
+msgid "Forceful"
+msgstr "強引"
+
+#: 132143172-0-28297
+msgctxt "132143172-0-28297"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>."
+msgstr "力と意思を集中させて残忍(強)を獲得し、自身の武器ダメージを<<1>>増加させる。さらに耐久(弱)を得て、スタミナ再生を<<2>>、<<3>>の間上昇させる。"
+
+#: 198758357-0-28297
+msgctxt "198758357-0-28297"
+msgid "Momentum"
+msgstr "怒涛"
+
 #: 132143172-0-83238
 msgctxt "132143172-0-83238"
 msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for <<2>>.\n\nYou are immune to all disabling, snare, and immobilization effects for the duration."
@@ -20,16 +50,6 @@ msgstr "敵に鋭い一撃を加え、<<1>>をその敵と周囲すべての敵�
 msgctxt "198758357-0-83238"
 msgid "Berserker Rage"
 msgstr "狂戦士の憤怒"
-
-#: 132143172-0-83229
-msgctxt "132143172-0-83229"
-msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for your Direct Damage attacks equal to <<2>> of the amount ignored from the initial target for <<3>>."
-msgstr "敵に鋭い一撃を加え、<<1>>をその敵と周囲すべての敵に与える。\r\n\r\nこの攻撃は標的の耐性を無視し、直接攻撃の最初の標的に対して無視した値に相当する物理貫通力と呪文貫通力を、最大<<2>>まで<<3>>の間得る。"
-
-#: 198758357-0-83229
-msgctxt "198758357-0-83229"
-msgid "Onslaught"
-msgstr "猛攻"
 
 #: 132143172-0-83216
 msgctxt "132143172-0-83216"
@@ -41,166 +61,25 @@ msgctxt "198758357-0-83216"
 msgid "Berserker Strike"
 msgstr "狂戦士の一撃"
 
-#: 132143172-0-45448
-msgctxt "132143172-0-45448"
-msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
-msgstr "標的を倒した後、スタミナ再生が<<1>>、<<2>>の間上昇する。"
-
-#: 198758357-0-45448
-msgctxt "198758357-0-45448"
-msgid "Battle Rush"
-msgstr "バトルラッシュ"
-
-#: 132143172-0-45446
-msgctxt "132143172-0-45446"
-msgid "When you deal damage with a fully-charged Heavy Attack, your next direct damage attack used within <<1>> deals an additional <<2>> damage."
-msgstr "完全にチャージした重攻撃でダメージを与えた時、<<1>>以内に行われた次の直接ダメージに、<<2>>ダメージが追加される。"
-
-#: 198758357-0-45446
-msgctxt "198758357-0-45446"
-msgid "Follow Up"
-msgstr "追撃"
-
-#: 132143172-0-45444
-msgctxt "132143172-0-45444"
-msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
-msgstr "軽攻撃や重攻撃を行うと、主標的に与えたダメージの<<1>>%分のダメージを近くにいる敵|cffffff3|r体に与えることができる。"
-
-#: 198758357-0-45444
-msgctxt "198758357-0-45444"
-msgid "Forceful"
-msgstr "強引"
-
-#: 132143172-0-45443
-msgctxt "132143172-0-45443"
-msgid "Reduces the Stamina cost of your Two-Handed abilities by <<1>>."
-msgstr "両手武器アビリティのスタミナ消費を<<1>>減少させる。"
-
-#: 198758357-0-45443
-msgctxt "198758357-0-45443"
-msgid "Balanced Blade"
-msgstr "バランスの刀剣"
-
-#: 132143172-0-45430
-msgctxt "132143172-0-45430"
-msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks a |cffffff16|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
-msgstr "武器の種類によってボーナスが付与される:\r\n\r\n剣は<<1>>の追加ダメージを与える。\r\n\r\n斧で近接攻撃を行うと、|cffffff16|r%の確率で出血させ、<<2>>を<<3>>の間与える。\r\n\r\n戦棍は、敵の物理耐性を<<4>>%無視してダメージを与える。"
-
-#: 198758357-0-45430
-msgctxt "198758357-0-45430"
-msgid "Heavy Weapons"
-msgstr "重武器"
-
-#: 132143172-0-38823
-msgctxt "132143172-0-38823"
-msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health.\n\nOther enemies nearby take <<4>>% of the damage inflicted to the primary target."
-msgstr "回転しながら敵を打ち倒して<<1>>を与える。残り体力が<<3>>%未満の敵に対しては最大<<2>>%の追加ダメージを与える。\r\n\r\n近くの敵は主要なターゲットに与えられたダメージの<<4>>%を受ける。"
-
-#: 198758357-0-38823
-msgctxt "198758357-0-38823"
-msgid "Reverse Slice"
-msgstr "反転斬り"
-
-#: 132143172-0-38819
-msgctxt "132143172-0-38819"
-msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
-msgstr "回転しながら敵を打ち倒して<<1>>を与える。残り体力が<<3>>%未満の敵に対しては最大<<2>>%の追加ダメージを与える。"
-
-#: 198758357-0-38819
-msgctxt "198758357-0-38819"
-msgid "Executioner"
-msgstr "死刑執行人"
-
-#: 132143172-0-38814
-#, fuzzy
-msgctxt "132143172-0-38814"
-msgid "Slam an enemy with an upward swing, dealing <<1>> and setting them Off Balance for <<2>>.  \n\nHitting an enemy that is already Off Balance stuns them for <<3>>.\n\nTargets that are immune to Off Balance are snared by <<4>> for <<5>>."
-msgstr "敵を下方から突き上げ<<1>>を与え、<<2>>の間フラフラにさせる。\r\n\r\nもし敵がすでにフラフラ状態だった場合、<<3>>の間気絶させる。\r\n\r\nフラフラ状態にならない敵は減速を<<4>>、<<5>>の間受ける。"
-
-#: 198758357-0-38814
-msgctxt "198758357-0-38814"
-msgid "Dizzying Swing"
-msgstr "めまいの打撃"
-
 #: 132143172-0-38807
 msgctxt "132143172-0-38807"
 msgid "Slam an enemy with an upward swing, dealing <<1>>.\n\nGrants you Empower for <<2>>, increasing the damage of your next Light Attack by <<3>>."
-msgstr "敵を下方から突き上げ<<1>>を与える。\r\n\r\n<<2>>の間強化を獲得し、次の軽攻撃のダメージが<<3>>増大する。"
+msgstr "敵を下方から突き上げ<<1>>を与える。\r\n\r\n<<2>>の間強化を獲得し、軽攻撃のダメージが<<3>>増大する。"
 
 #: 198758357-0-38807
 msgctxt "198758357-0-38807"
 msgid "Wrecking Blow"
 msgstr "破壊の一撃"
 
-#: 132143172-0-38802
-msgctxt "132143172-0-38802"
-msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nYou heal for <<4>> Health when Rally ends. The final heal is increased by |cffffff15|r% every <<5>>, up to a maximum of |cffffff300|r%."
-msgstr "力と意思を集中させて残忍(強)を獲得し、自身の武器ダメージを<<1>>増加させる。さらに耐久(弱)を得て、スタミナ再生を<<2>>、<<3>>の間上昇させる。\r\n\r\n扇動が終了すると体力を<<4>>回復する。最後の回復量は<<5>>ごとに|cffffff15|r%上昇して、最大|cffffff300|r%まで増加する。"
+#: 132143172-0-28279
+msgctxt "132143172-0-28279"
+msgid "Slam an enemy with an upward swing, dealing <<1>>."
+msgstr "敵を下方から突き上げ、<<1>>を与える。"
 
-#: 198758357-0-38802
-msgctxt "198758357-0-38802"
-msgid "Rally"
-msgstr "扇動"
-
-#: 132143172-0-38794
-msgctxt "132143172-0-38794"
-msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<4>>."
-msgstr "力と意思を集中させて残忍(強)を獲得し、自身の武器ダメージを<<1>>増加させる。さらに耐久(弱)を得て、スタミナ再生を<<2>>、<<3>>の間上昇させる。\r\n\r\nこのアビリティを発動すると、自身から減速と移動不能の効果を全て解除し、<<4>>の間無効化する。"
-
-#: 198758357-0-38794
-msgctxt "198758357-0-38794"
-msgid "Forward Momentum"
-msgstr "怒涛の前進"
-
-#: 132143172-0-38788
-msgctxt "132143172-0-38788"
-msgid "Launch across the earth and smash an enemy, dealing <<1>>.  This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing <<2>> to all enemies in the area every <<3>> for <<4>>."
-msgstr "突進による攻撃で敵を粉砕して、<<1>>を与える。この攻撃は必ずクリティカル攻撃になる。\r\n\r\n標的に到達すると足元の地面を裂き、周囲の敵全てに<<2>>を<<3>>ごとに<<4>>の間与える。"
-
-#: 198758357-0-38788
-msgctxt "198758357-0-38788"
-msgid "Stampede"
-msgstr "殺到"
-
-#: 132143172-0-38778
-msgctxt "132143172-0-38778"
-msgid "Launch across the earth and smash an enemy, dealing <<1>>. Deals up to |cffffff50|r% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike."
-msgstr "突進による攻撃で敵を粉砕して、<<1>>を与える。移動距離によって最大|cffffff50|r%のダメージを追加する。\r\n\r\nこの攻撃は必ずクリティカル攻撃になる。"
-
-#: 198758357-0-38778
-msgctxt "198758357-0-38778"
-msgid "Critical Rush"
-msgstr "クリティカルラッシュ"
-
-#: 132143172-0-38754
-msgctxt "132143172-0-38754"
-msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you.\n\nYou also gain a damage shield that absorbs <<2>> damage for <<3>>. Each enemy hit increases the damage shield's strength by <<4>>%, up to |cffffff300|r%."
-msgstr "力を強力な一撃に集中し、目の前の敵に<<1>>を与える。\r\n\r\nさらに<<2>>ダメージを吸収するダメージシールドを<<3>>の間獲得する。敵を攻撃するごとに、ダメージシールドの強さは<<4>>%増加する。最大|cffffff300|r%まで。"
-
-#: 198758357-0-38754
-msgctxt "198758357-0-38754"
-msgid "Brawler"
-msgstr "暴れ者"
-
-#: 132143172-0-38745
-msgctxt "132143172-0-38745"
-msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you, and causing them to bleed for an additional <<2>> over <<3>>."
-msgstr "力を強力な一撃に集中し、目の前の敵に<<1>>を与える。出血させ、<<2>>の追加ダメージを<<3>>の間与える。"
-
-#: 198758357-0-38745
-msgctxt "198758357-0-38745"
-msgid "Carve"
-msgstr "切開"
-
-#: 132143172-0-29391
-msgctxt "132143172-0-29391"
-msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
-msgstr "標的を倒した後、スタミナ再生が<<1>>、<<2>>の間上昇する。"
-
-#: 198758357-0-29391
-msgctxt "198758357-0-29391"
-msgid "Battle Rush"
-msgstr "バトルラッシュ"
+#: 198758357-0-28279
+msgctxt "198758357-0-28279"
+msgid "Uppercut"
+msgstr "アッパーカット"
 
 #: 132143172-0-29389
 msgctxt "132143172-0-29389"
@@ -222,25 +101,95 @@ msgctxt "198758357-0-29388"
 msgid "Balanced Blade"
 msgstr "バランスの刀剣"
 
-#: 132143172-0-29387
-msgctxt "132143172-0-29387"
+#: 132143172-0-38788
+msgctxt "132143172-0-38788"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>.  This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing <<2>> to all enemies in the area every <<3>> for <<4>>."
+msgstr "突進による攻撃で敵を粉砕して、<<1>>を与える。この攻撃は必ずクリティカル攻撃になる。\r\n\r\n標的に到達すると足元の地面を裂き、周囲の敵全てに<<2>>を<<3>>ごとに<<4>>の間与える。"
+
+#: 198758357-0-38788
+msgctxt "198758357-0-38788"
+msgid "Stampede"
+msgstr "殺到"
+
+#: 132143172-0-38745
+msgctxt "132143172-0-38745"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you, and causing them to bleed for an additional <<2>> over <<3>>."
+msgstr "力を強力な一撃に集中し、目の前の敵に<<1>>を与える。出血させ、<<2>>の追加ダメージを<<3>>の間与える。"
+
+#: 198758357-0-38745
+msgctxt "198758357-0-38745"
+msgid "Carve"
+msgstr "切開"
+
+#: 132143172-0-38823
+msgctxt "132143172-0-38823"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health.\n\nOther enemies nearby take <<4>>% of the damage inflicted to the primary target."
+msgstr "回転しながら敵を打ち倒して<<1>>を与える。残り体力が<<3>>%未満の敵に対しては最大<<2>>%の追加ダメージを与える。\r\n\r\n近くの敵は主要なターゲットに与えられたダメージの<<4>>%を受ける。"
+
+#: 198758357-0-38823
+msgctxt "198758357-0-38823"
+msgid "Reverse Slice"
+msgstr "反転斬り"
+
+#: 132143172-0-38802
+msgctxt "132143172-0-38802"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nYou heal for <<4>> Health when Rally ends. The final heal is increased by |cffffff15|r% every <<5>>, up to a maximum of |cffffff300|r%."
+msgstr "力と意思を集中させて残忍(強)を獲得し、自身の武器ダメージを<<1>>増加させる。さらに耐久(弱)を得て、スタミナ再生を<<2>>、<<3>>の間上昇させる。\r\n\r\n扇動が終了すると体力を<<4>>回復する。最後の回復量は<<5>>ごとに|cffffff15|r%上昇して、最大|cffffff300|r%まで増加する。"
+
+#: 198758357-0-38802
+msgctxt "198758357-0-38802"
+msgid "Rally"
+msgstr "扇動"
+
+#: 132143172-0-45446
+msgctxt "132143172-0-45446"
+msgid "When you deal damage with a fully-charged Heavy Attack, your next direct damage attack used within <<1>> deals an additional <<2>> damage."
+msgstr "完全にチャージした重攻撃でダメージを与えた時、<<1>>以内に行われた次の直接ダメージに、<<2>>ダメージが追加される。"
+
+#: 198758357-0-45446
+msgctxt "198758357-0-45446"
+msgid "Follow Up"
+msgstr "追撃"
+
+#: 132143172-0-45448
+msgctxt "132143172-0-45448"
+msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
+msgstr "標的を倒した後、スタミナ再生が<<1>>、<<2>>の間上昇する。"
+
+#: 198758357-0-45448
+msgctxt "198758357-0-45448"
+msgid "Battle Rush"
+msgstr "バトルラッシュ"
+
+#: 132143172-0-38794
+msgctxt "132143172-0-38794"
+msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for <<4>>."
+msgstr "力と意思を集中させて残忍(強)を獲得し、自身の武器ダメージを<<1>>増加させる。さらに耐久(弱)を得て、スタミナ再生を<<2>>、<<3>>の間上昇させる。\r\n\r\nこのアビリティを発動すると、自身から減速と移動不能の効果を全て解除し、<<4>>の間無効化する。"
+
+#: 198758357-0-38794
+msgctxt "198758357-0-38794"
+msgid "Forward Momentum"
+msgstr "怒涛の前進"
+
+#: 132143172-0-45444
+msgctxt "132143172-0-45444"
 msgid "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for <<1>>% of the damage inflicted to the primary target."
 msgstr "軽攻撃や重攻撃を行うと、主標的に与えたダメージの<<1>>%分のダメージを近くにいる敵|cffffff3|r体に与えることができる。"
 
-#: 198758357-0-29387
-msgctxt "198758357-0-29387"
+#: 198758357-0-45444
+msgctxt "198758357-0-45444"
 msgid "Forceful"
 msgstr "強引"
 
-#: 132143172-0-29375
-msgctxt "132143172-0-29375"
-msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks an |cffffff8|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
-msgstr "武器の種類によってボーナスが付与される:\r\n\r\n剣は<<1>>の追加ダメージを与える。\r\n\r\n斧で近接攻撃を行うと、|cffffff8|r%の確率で出血させ、<<2>>を<<3>>の間与える。\r\n\r\n戦棍は、敵の物理耐性を<<4>>%無視してダメージを与える。"
+#: 132143172-0-45443
+msgctxt "132143172-0-45443"
+msgid "Reduces the Stamina cost of your Two-Handed abilities by <<1>>."
+msgstr "両手武器アビリティのスタミナ消費を<<1>>減少させる。"
 
-#: 198758357-0-29375
-msgctxt "198758357-0-29375"
-msgid "Heavy Weapons"
-msgstr "重武器"
+#: 198758357-0-45443
+msgctxt "198758357-0-45443"
+msgid "Balanced Blade"
+msgstr "バランスの刀剣"
 
 #: 132143172-0-28448
 msgctxt "132143172-0-28448"
@@ -252,35 +201,35 @@ msgctxt "198758357-0-28448"
 msgid "Critical Charge"
 msgstr "クリティカルチャージ"
 
-#: 132143172-0-28302
-msgctxt "132143172-0-28302"
+#: 132143172-0-29375
+msgctxt "132143172-0-29375"
+msgid "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your damage done by <<1>>.\n\nAxes grant your melee attacks an |cffffff8|r% chance to apply a bleed dealing <<2>> over <<3>>.\n\nMaces cause your attacks to ignore <<4>>% of your target's Physical Resistance."
+msgstr "武器の種類によってボーナスが付与される:\r\n\r\n剣は<<1>>の追加ダメージを与える。\r\n\r\n斧で近接攻撃を行うと、|cffffff8|r%の確率で出血させ、<<2>>を<<3>>の間与える。\r\n\r\n戦棍は、敵の物理耐性を<<4>>%無視してダメージを与える。"
+
+#: 198758357-0-29375
+msgctxt "198758357-0-29375"
+msgid "Heavy Weapons"
+msgstr "重武器"
+
+#: 132143172-0-38819
+msgctxt "132143172-0-38819"
 msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
 msgstr "回転しながら敵を打ち倒して<<1>>を与える。残り体力が<<3>>%未満の敵に対しては最大<<2>>%の追加ダメージを与える。"
 
-#: 198758357-0-28302
-msgctxt "198758357-0-28302"
-msgid "Reverse Slash"
-msgstr "リバーススラッシュ"
+#: 198758357-0-38819
+msgctxt "198758357-0-38819"
+msgid "Executioner"
+msgstr "死刑執行人"
 
-#: 132143172-0-28297
-msgctxt "132143172-0-28297"
-msgid "Focus your strength and resolve to gain Major Brutality, increasing your Weapon Damage by <<1>>, as well as gaining Minor Endurance, increasing your Stamina Recovery by <<2>> for <<3>>."
-msgstr "力と意思を集中させて残忍(強)を獲得し、自身の武器ダメージを<<1>>増加させる。さらに耐久(弱)を得て、スタミナ再生を<<2>>、<<3>>の間上昇させる。"
+#: 132143172-0-83229
+msgctxt "132143172-0-83229"
+msgid "Strike at an enemy with a vicious blow, dealing <<1>> to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for your Direct Damage attacks equal to <<2>> of the amount ignored from the initial target for <<3>>."
+msgstr "敵に鋭い一撃を加え、<<1>>をその敵と周囲すべての敵に与える。\r\n\r\nこの攻撃は標的の耐性を無視し、直接攻撃の最初の標的に対して無視した値に相当する物理貫通力と呪文貫通力を、最大<<2>>まで<<3>>の間得る。"
 
-#: 198758357-0-28297
-msgctxt "198758357-0-28297"
-msgid "Momentum"
-msgstr "怒涛"
-
-#: 132143172-0-28279
-msgctxt "132143172-0-28279"
-msgid "Slam an enemy with an upward swing, dealing <<1>>."
-msgstr "敵を下方から突き上げ、<<1>>を与える。"
-
-#: 198758357-0-28279
-msgctxt "198758357-0-28279"
-msgid "Uppercut"
-msgstr "アッパーカット"
+#: 198758357-0-83229
+msgctxt "198758357-0-83229"
+msgid "Onslaught"
+msgstr "猛攻"
 
 #: 132143172-0-20919
 msgctxt "132143172-0-20919"
@@ -291,3 +240,53 @@ msgstr "力を強力な一撃に集中し、目の前の敵に<<1>>を与える�
 msgctxt "198758357-0-20919"
 msgid "Cleave"
 msgstr "切断"
+
+#: 132143172-0-28302
+msgctxt "132143172-0-28302"
+msgid "Spin around and strike an enemy down, dealing <<1>>. Deals up to <<2>>% more damage to enemies with less than <<3>>% Health."
+msgstr "回転しながら敵を打ち倒して<<1>>を与える。残り体力が<<3>>%未満の敵に対しては最大<<2>>%の追加ダメージを与える。"
+
+#: 198758357-0-28302
+msgctxt "198758357-0-28302"
+msgid "Reverse Slash"
+msgstr "リバーススラッシュ"
+
+#: 132143172-0-38754
+msgctxt "132143172-0-38754"
+msgid "Focus your strength into a mighty swing, dealing <<1>> to enemies in front of you.\n\nYou also gain a damage shield that absorbs <<2>> damage for <<3>>. Each enemy hit increases the damage shield's strength by <<4>>%, up to |cffffff300|r%."
+msgstr "力を強力な一撃に集中し、目の前の敵に<<1>>を与える。\r\n\r\nさらに<<2>>ダメージを吸収するダメージシールドを<<3>>の間獲得する。敵を攻撃するごとに、ダメージシールドの強さは<<4>>%増加する。最大|cffffff300|r%まで。"
+
+#: 198758357-0-38754
+msgctxt "198758357-0-38754"
+msgid "Brawler"
+msgstr "暴れ者"
+
+#: 132143172-0-38778
+msgctxt "132143172-0-38778"
+msgid "Launch across the earth and smash an enemy, dealing <<1>>. Deals up to |cffffff50|r% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike."
+msgstr "突進による攻撃で敵を粉砕して、<<1>>を与える。移動距離によって最大|cffffff50|r%のダメージを追加する。\r\n\r\nこの攻撃は必ずクリティカル攻撃になる。"
+
+#: 198758357-0-38778
+msgctxt "198758357-0-38778"
+msgid "Critical Rush"
+msgstr "クリティカルラッシュ"
+
+#: 132143172-0-38814
+msgctxt "132143172-0-38814"
+msgid "Slam an enemy with an upward swing, dealing <<1>> and setting them Off Balance for <<2>>.  \n\nHitting an enemy that is already Off Balance stuns them for <<3>>.\n\nTargets that are immune to Off Balance are snared by <<4>> for <<5>>."
+msgstr "敵を下方から突き上げ<<1>>を与え、<<2>>の間フラフラにさせる。\r\n\r\nもし敵がすでにフラフラ状態だった場合、<<3>>の間気絶させる。\r\n\r\nフラフラ状態にならない敵は減速を<<4>>、<<5>>の間受ける。"
+
+#: 198758357-0-38814
+msgctxt "198758357-0-38814"
+msgid "Dizzying Swing"
+msgstr "めまいの打撃"
+
+#: 132143172-0-29391
+msgctxt "132143172-0-29391"
+msgid "Increases your Stamina Recovery by <<1>> for <<2>> after killing a target."
+msgstr "標的を倒した後、スタミナ再生が<<1>>、<<2>>の間上昇する。"
+
+#: 198758357-0-29391
+msgctxt "198758357-0-29391"
+msgid "Battle Rush"
+msgstr "バトルラッシュ"

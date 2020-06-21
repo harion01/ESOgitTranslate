@@ -11,24 +11,214 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-64222
-msgctxt "228378404-0-64222"
-msgid "Beautiful and fragrant, Perfect Roe is prized by Provisioners the world over as an ingredient in the rarest of recipes."
-msgstr "아름답고 향기로운, 온전한 어란은 가장 진귀한 레시피의 재료로, 전 세계의 요리사들에게 수여되는 상이기도 합니다."
-
-#: 242841733-0-64222
-msgctxt "242841733-0-64222"
-msgid "Perfect Roe"
-msgstr "온전한 어란 (Perfect Roe)"
-
-#: 228378404-0-5405
-msgctxt "228378404-0-5405"
-msgid "Use for Crafting Armor and Weapons"
+#: 228378404-0-28612
+msgctxt "228378404-0-28612"
+msgid "Use to make Grilled Shank"
 msgstr ""
 
-#: 242841733-0-5405
-msgctxt "242841733-0-5405"
-msgid "Thin Rawhide"
+#: 242841733-0-28612
+msgctxt "242841733-0-28612"
+msgid "shank"
+msgstr ""
+
+#: 228378404-0-26954
+msgctxt "228378404-0-26954"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-26954
+msgctxt "242841733-0-26954"
+msgid "Garlic"
+msgstr "마늘 (Garlic)"
+
+#: 228378404-0-34349
+msgctxt "228378404-0-34349"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34349
+msgctxt "242841733-0-34349"
+msgid "Acai Berry"
+msgstr "아사이베리 (Acai Berry)"
+
+#: 228378404-0-34348
+msgctxt "228378404-0-34348"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34348
+msgctxt "242841733-0-34348"
+msgid "Wheat"
+msgstr "밀 (Wheat)"
+
+#: 228378404-0-27000
+msgctxt "228378404-0-27000"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27000
+msgctxt "242841733-0-27000"
+msgid "Old Milled Flour"
+msgstr ""
+
+#: 228378404-0-34347
+msgctxt "228378404-0-34347"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34347
+msgctxt "242841733-0-34347"
+msgid "Ginseng"
+msgstr "인삼 (Ginseng)"
+
+#: 228378404-0-33774
+msgctxt "228378404-0-33774"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-33774
+msgctxt "242841733-0-33774"
+msgid "Yeast"
+msgstr "이스트 (Yeast)"
+
+#: 228378404-0-34346
+msgctxt "228378404-0-34346"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34346
+msgctxt "242841733-0-34346"
+msgid "Ginkgo"
+msgstr "은행나무 껍질 (Ginkgo)"
+
+#: 228378404-0-34345
+msgctxt "228378404-0-34345"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34345
+msgctxt "242841733-0-34345"
+msgid "Surilie Grapes"
+msgstr "서릴리 포도 (Surilie Grapes)"
+
+#: 228378404-0-33772
+msgctxt "228378404-0-33772"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-33772
+msgctxt "242841733-0-33772"
+msgid "Coffee"
+msgstr "커피 (Coffee)"
+
+#: 228378404-0-27003
+msgctxt "228378404-0-27003"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27003
+msgctxt "242841733-0-27003"
+msgid "Old Baker's Flour"
+msgstr ""
+
+#: 228378404-0-33773
+msgctxt "228378404-0-33773"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-33773
+msgctxt "242841733-0-33773"
+msgid "Mint"
+msgstr "민트 (Mint)"
+
+#: 228378404-0-28610
+msgctxt "228378404-0-28610"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-28610
+msgctxt "242841733-0-28610"
+msgid "Jazbay Grapes"
+msgstr "재즈베이 포도 (Jazbay Grapes)"
+
+#: 228378404-0-27004
+msgctxt "228378404-0-27004"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27004
+msgctxt "242841733-0-27004"
+msgid "Old Imperial Flour"
+msgstr ""
+
+#: 228378404-0-27001
+msgctxt "228378404-0-27001"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27001
+msgctxt "242841733-0-27001"
+msgid "Old Sifted Flour"
+msgstr ""
+
+#: 228378404-0-33771
+msgctxt "228378404-0-33771"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-33771
+msgctxt "242841733-0-33771"
+msgid "Jasmine"
+msgstr "재스민 (Jasmine)"
+
+#: 228378404-0-27002
+msgctxt "228378404-0-27002"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27002
+msgctxt "242841733-0-27002"
+msgid "Old Cake Flour"
+msgstr ""
+
+#: 228378404-0-26962
+msgctxt "228378404-0-26962"
+msgid "This item is no longer used in crafting, and should be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26962
+msgctxt "242841733-0-26962"
+msgid "Old Pepper"
+msgstr "오래된 후추 (Old Pepper)"
+
+#: 228378404-0-34330
+msgctxt "228378404-0-34330"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34330
+msgctxt "242841733-0-34330"
+msgid "Lotus"
+msgstr "연 (Lotus)"
+
+#: 228378404-0-28625
+msgctxt "228378404-0-28625"
+msgid "Use to make Saltrice Slurry"
+msgstr ""
+
+#: 242841733-0-28625
+msgctxt "242841733-0-28625"
+msgid "saltrice"
+msgstr ""
+
+#: 228378404-0-26966
+msgctxt "228378404-0-26966"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26966
+msgctxt "242841733-0-26966"
+msgid "Old Drippings"
 msgstr ""
 
 #: 228378404-0-5391
@@ -41,55 +231,225 @@ msgctxt "242841733-0-5391"
 msgid "Planed Maple"
 msgstr ""
 
-#: 228378404-0-45524
-msgctxt "228378404-0-45524"
+#: 228378404-0-34335
+msgctxt "228378404-0-34335"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34335
+msgctxt "242841733-0-34335"
+msgid "Yerba Mate"
+msgstr "예르바 마테 (Yerba Mate)"
+
+#: 228378404-0-34334
+msgctxt "228378404-0-34334"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34334
+msgctxt "242841733-0-34334"
+msgid "Bittergreen"
+msgstr "쓴 채소 (Bittergreen)"
+
+#: 228378404-0-34333
+msgctxt "228378404-0-34333"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34333
+msgctxt "242841733-0-34333"
+msgid "Guarana"
+msgstr "과라나 (Guarana)"
+
+#: 228378404-0-29030
+msgctxt "228378404-0-29030"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-29030
+msgctxt "242841733-0-29030"
+msgid "Rice"
+msgstr "쌀 (Rice)"
+
+#: 228378404-0-33768
+msgctxt "228378404-0-33768"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-33768
+msgctxt "242841733-0-33768"
+msgid "Comberry"
+msgstr "콤베리 (Comberry)"
+
+#: 228378404-0-33754
+msgctxt "228378404-0-33754"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-33754
+msgctxt "242841733-0-33754"
+msgid "White Meat"
+msgstr "흰 고기 (White Meat)"
+
+#: 228378404-0-33755
+msgctxt "228378404-0-33755"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-33755
+msgctxt "242841733-0-33755"
+msgid "Bananas"
+msgstr "바나나 (Bananas)"
+
+#: 228378404-0-33752
+msgctxt "228378404-0-33752"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-33752
+msgctxt "242841733-0-33752"
+msgid "Red Meat"
+msgstr "붉은 고기 (Red Meat)"
+
+#: 228378404-0-27063
+msgctxt "228378404-0-27063"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-27063
+msgctxt "242841733-0-27063"
+msgid "Saltrice"
+msgstr "솔트라이스 (Saltrice)"
+
+#: 228378404-0-33753
+msgctxt "228378404-0-33753"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-33753
+msgctxt "242841733-0-33753"
+msgid "Fish"
+msgstr "생선살 (Fish)"
+
+#: 228378404-0-34324
+msgctxt "228378404-0-34324"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-34324
+msgctxt "242841733-0-34324"
+msgid "Carrots"
+msgstr "당근 (Carrots)"
+
+#: 228378404-0-27064
+msgctxt "228378404-0-27064"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-27064
+msgctxt "242841733-0-27064"
+msgid "Millet"
+msgstr "기장 (Millet)"
+
+#: 228378404-0-34323
+msgctxt "228378404-0-34323"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-34323
+msgctxt "242841733-0-34323"
+msgid "Corn"
+msgstr "옥수수 (Corn)"
+
+#: 228378404-0-34322
+msgctxt "228378404-0-34322"
 msgid "This item is no longer used in crafting, and can be sold."
 msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
 
-#: 242841733-0-45524
-msgctxt "242841733-0-45524"
-msgid "Old Imperial Mash"
+#: 242841733-0-34322
+msgctxt "242841733-0-34322"
+msgid "Old Shank"
+msgstr "오래된 정강이 (Old Shank)"
+
+#: 228378404-0-34321
+msgctxt "228378404-0-34321"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-34321
+msgctxt "242841733-0-34321"
+msgid "Poultry"
+msgstr "가금류 고기 (Poultry)"
+
+#: 228378404-0-27100
+msgctxt "228378404-0-27100"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-27100
+msgctxt "242841733-0-27100"
+msgid "Flour"
+msgstr "밀가루 (Flour)"
+
+#: 228378404-0-34320
+msgctxt "228378404-0-34320"
+msgid "Use to make Mixed Grill"
 msgstr ""
 
-#: 228378404-0-45523
-msgctxt "228378404-0-45523"
+#: 242841733-0-34320
+msgctxt "242841733-0-34320"
+msgid "bug parts"
+msgstr ""
+
+#: 228378404-0-115026
+msgctxt "228378404-0-115026"
+msgid "This incredibly rare and valuable ingredient can be used to open a person's eyes to untold experiences — if properly prepared by the most skilled and knowledgeable of crafters."
+msgstr "놀랍도록 희귀하고 가치있는 재료입니다. 사람의 눈을 뜨이게 하여 막대한 경험을 할 수 있게 해 주죠. 최고로 숙련되고 식견 있는 제작가가 제대로 준비한다면 말입니다."
+
+#: 242841733-0-115026
+msgctxt "242841733-0-115026"
+msgid "Aetherial Dust"
+msgstr "에테리얼 가루 (Aetherial Dust)"
+
+#: 228378404-0-33758
+msgctxt "228378404-0-33758"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-33758
+msgctxt "242841733-0-33758"
+msgid "Potato"
+msgstr "감자 (Potato)"
+
+#: 228378404-0-34329
+msgctxt "228378404-0-34329"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-34329
+msgctxt "242841733-0-34329"
+msgid "Barley"
+msgstr "보리 (Barley)"
+
+#: 228378404-0-33756
+msgctxt "228378404-0-33756"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-33756
+msgctxt "242841733-0-33756"
+msgid "Small Game"
+msgstr "작은 고기 (Small Game)"
+
+#: 228378404-0-33757
+msgctxt "228378404-0-33757"
 msgid "This item is no longer used in crafting, and can be sold."
 msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
 
-#: 242841733-0-45523
-msgctxt "242841733-0-45523"
-msgid "Old Emperor Grapes"
-msgstr ""
-
-#: 228378404-0-45522
-msgctxt "228378404-0-45522"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-45522
-msgctxt "242841733-0-45522"
-msgid "Old Golden Malt"
-msgstr ""
-
-#: 228378404-0-44633
-msgctxt "228378404-0-44633"
-msgid "Use to make the Breeches of the Shadow Dancer"
-msgstr ""
-
-#: 242841733-0-44633
-msgctxt "242841733-0-44633"
-msgid "Shadow dancer spidersilk"
-msgstr ""
-
-#: 228378404-0-40276
-msgctxt "228378404-0-40276"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40276
-msgctxt "242841733-0-40276"
-msgid "Old Mutton Flank"
-msgstr ""
+#: 242841733-0-33757
+msgctxt "242841733-0-33757"
+msgid "Old Venison"
+msgstr "오래된 사슴고기 (Old Venison)"
 
 #: 228378404-0-40274
 msgctxt "228378404-0-40274"
@@ -111,6 +471,16 @@ msgctxt "242841733-0-40273"
 msgid "Old Barley Mash"
 msgstr ""
 
+#: 228378404-0-28608
+msgctxt "228378404-0-28608"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-28608
+msgctxt "242841733-0-28608"
+msgid "Old Plump Maggots"
+msgstr ""
+
 #: 228378404-0-40272
 msgctxt "228378404-0-40272"
 msgid "This item is no longer used in crafting, and can be sold."
@@ -119,6 +489,26 @@ msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매�
 #: 242841733-0-40272
 msgctxt "242841733-0-40272"
 msgid "Old Oat Mash"
+msgstr ""
+
+#: 228378404-0-28609
+msgctxt "228378404-0-28609"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-28609
+msgctxt "242841733-0-28609"
+msgid "Game"
+msgstr "고기 (Game)"
+
+#: 228378404-0-44633
+msgctxt "228378404-0-44633"
+msgid "Use to make the Breeches of the Shadow Dancer"
+msgstr ""
+
+#: 242841733-0-44633
+msgctxt "242841733-0-44633"
+msgid "Shadow dancer spidersilk"
 msgstr ""
 
 #: 228378404-0-40271
@@ -131,6 +521,66 @@ msgctxt "242841733-0-40271"
 msgid "Old Wheat Mash"
 msgstr ""
 
+#: 228378404-0-64222
+msgctxt "228378404-0-64222"
+msgid "Beautiful and fragrant, Perfect Roe is prized by Provisioners the world over as an ingredient in the rarest of recipes."
+msgstr "아름답고 향기로운, 온전한 어란은 가장 진귀한 레시피의 재료로, 전 세계의 요리사들에게 수여되는 상이기도 합니다."
+
+#: 242841733-0-64222
+msgctxt "242841733-0-64222"
+msgid "Perfect Roe"
+msgstr "온전한 어란 (Perfect Roe)"
+
+#: 228378404-0-40276
+msgctxt "228378404-0-40276"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-40276
+msgctxt "242841733-0-40276"
+msgid "Old Mutton Flank"
+msgstr ""
+
+#: 228378404-0-28603
+msgctxt "228378404-0-28603"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-28603
+msgctxt "242841733-0-28603"
+msgid "Tomato"
+msgstr "토마토 (Tomato)"
+
+#: 228378404-0-28604
+msgctxt "228378404-0-28604"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-28604
+msgctxt "242841733-0-28604"
+msgid "Greens"
+msgstr "푸른 채소 (Greens)"
+
+#: 228378404-0-34316
+msgctxt "228378404-0-34316"
+msgid "Use to make Honey Pudding"
+msgstr ""
+
+#: 242841733-0-34316
+msgctxt "242841733-0-34316"
+msgid "honey comb"
+msgstr ""
+
+#: 228378404-0-34311
+msgctxt "228378404-0-34311"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-34311
+msgctxt "242841733-0-34311"
+msgid "Apples"
+msgstr "사과 (Apples)"
+
 #: 228378404-0-40270
 msgctxt "228378404-0-40270"
 msgid "This item is no longer used in crafting, and can be sold."
@@ -139,66 +589,6 @@ msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매�
 #: 242841733-0-40270
 msgctxt "242841733-0-40270"
 msgid "Old Corn Mash"
-msgstr ""
-
-#: 228378404-0-40269
-msgctxt "228378404-0-40269"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40269
-msgctxt "242841733-0-40269"
-msgid "Old Ribier Grapes"
-msgstr ""
-
-#: 228378404-0-40268
-msgctxt "228378404-0-40268"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40268
-msgctxt "242841733-0-40268"
-msgid "Old Camaralet Grapes"
-msgstr ""
-
-#: 228378404-0-40267
-msgctxt "228378404-0-40267"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40267
-msgctxt "242841733-0-40267"
-msgid "Old Lado Grapes"
-msgstr ""
-
-#: 228378404-0-40266
-msgctxt "228378404-0-40266"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40266
-msgctxt "242841733-0-40266"
-msgid "Old Grasa Grapes"
-msgstr ""
-
-#: 228378404-0-40265
-msgctxt "228378404-0-40265"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40265
-msgctxt "242841733-0-40265"
-msgid "Old Wine Grapes"
-msgstr ""
-
-#: 228378404-0-40264
-msgctxt "228378404-0-40264"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-40264
-msgctxt "242841733-0-40264"
-msgid "Old White Malt"
 msgstr ""
 
 #: 228378404-0-40263
@@ -241,175 +631,155 @@ msgctxt "242841733-0-40260"
 msgid "Old Brown Malt"
 msgstr ""
 
-#: 228378404-0-34349
-msgctxt "228378404-0-34349"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34349
-msgctxt "242841733-0-34349"
-msgid "Acai Berry"
-msgstr "아사이베리 (Acai Berry)"
-
-#: 228378404-0-34348
-msgctxt "228378404-0-34348"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34348
-msgctxt "242841733-0-34348"
-msgid "Wheat"
-msgstr "밀 (Wheat)"
-
-#: 228378404-0-34347
-msgctxt "228378404-0-34347"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34347
-msgctxt "242841733-0-34347"
-msgid "Ginseng"
-msgstr "인삼 (Ginseng)"
-
-#: 228378404-0-34346
-msgctxt "228378404-0-34346"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34346
-msgctxt "242841733-0-34346"
-msgid "Ginkgo"
-msgstr "은행나무 껍질 (Ginkgo)"
-
-#: 228378404-0-34345
-msgctxt "228378404-0-34345"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34345
-msgctxt "242841733-0-34345"
-msgid "Surilie Grapes"
-msgstr "서릴리 포도 (Surilie Grapes)"
-
-#: 228378404-0-34335
-msgctxt "228378404-0-34335"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34335
-msgctxt "242841733-0-34335"
-msgid "Yerba Mate"
-msgstr "예르바 마테 (Yerba Mate)"
-
-#: 228378404-0-34334
-msgctxt "228378404-0-34334"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34334
-msgctxt "242841733-0-34334"
-msgid "Bittergreen"
-msgstr "쓴 채소 (Bittergreen)"
-
-#: 228378404-0-34333
-msgctxt "228378404-0-34333"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34333
-msgctxt "242841733-0-34333"
-msgid "Guarana"
-msgstr "과라나 (Guarana)"
-
-#: 228378404-0-34330
-msgctxt "228378404-0-34330"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34330
-msgctxt "242841733-0-34330"
-msgid "Lotus"
-msgstr "연 (Lotus)"
-
-#: 228378404-0-34329
-msgctxt "228378404-0-34329"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-34329
-msgctxt "242841733-0-34329"
-msgid "Barley"
-msgstr "보리 (Barley)"
-
-#: 228378404-0-34324
-msgctxt "228378404-0-34324"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-34324
-msgctxt "242841733-0-34324"
-msgid "Carrots"
-msgstr "당근 (Carrots)"
-
-#: 228378404-0-34323
-msgctxt "228378404-0-34323"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-34323
-msgctxt "242841733-0-34323"
-msgid "Corn"
-msgstr "옥수수 (Corn)"
-
-#: 228378404-0-34322
-msgctxt "228378404-0-34322"
+#: 228378404-0-40267
+msgctxt "228378404-0-40267"
 msgid "This item is no longer used in crafting, and can be sold."
 msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
 
-#: 242841733-0-34322
-msgctxt "242841733-0-34322"
-msgid "Old Shank"
-msgstr "오래된 정강이 (Old Shank)"
+#: 242841733-0-40267
+msgctxt "242841733-0-40267"
+msgid "Old Lado Grapes"
+msgstr ""
 
-#: 228378404-0-34321
-msgctxt "228378404-0-34321"
+#: 228378404-0-40266
+msgctxt "228378404-0-40266"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-40266
+msgctxt "242841733-0-40266"
+msgid "Old Grasa Grapes"
+msgstr ""
+
+#: 228378404-0-40265
+msgctxt "228378404-0-40265"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-40265
+msgctxt "242841733-0-40265"
+msgid "Old Wine Grapes"
+msgstr ""
+
+#: 228378404-0-40264
+msgctxt "228378404-0-40264"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-40264
+msgctxt "242841733-0-40264"
+msgid "Old White Malt"
+msgstr ""
+
+#: 228378404-0-40269
+msgctxt "228378404-0-40269"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-40269
+msgctxt "242841733-0-40269"
+msgid "Old Ribier Grapes"
+msgstr ""
+
+#: 228378404-0-27049
+msgctxt "228378404-0-27049"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-27049
+msgctxt "242841733-0-27049"
+msgid "Lemon"
+msgstr "레몬 (Lemon)"
+
+#: 228378404-0-40268
+msgctxt "228378404-0-40268"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-40268
+msgctxt "242841733-0-40268"
+msgid "Old Camaralet Grapes"
+msgstr ""
+
+#: 228378404-0-26998
+msgctxt "228378404-0-26998"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26998
+msgctxt "242841733-0-26998"
+msgid "Old Imperial Stock"
+msgstr ""
+
+#: 228378404-0-26999
+msgctxt "228378404-0-26999"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26999
+msgctxt "242841733-0-26999"
+msgid "Old Meal"
+msgstr ""
+
+#: 228378404-0-34305
+msgctxt "228378404-0-34305"
 msgid "An ingredient for crafting food."
 msgstr "음식을 만들기 위한 재료입니다."
 
-#: 242841733-0-34321
-msgctxt "242841733-0-34321"
-msgid "Poultry"
-msgstr "가금류 고기 (Poultry)"
+#: 242841733-0-34305
+msgctxt "242841733-0-34305"
+msgid "Pumpkin"
+msgstr "호박 (Pumpkin)"
 
-#: 228378404-0-34320
-msgctxt "228378404-0-34320"
-msgid "Use to make Mixed Grill"
+#: 228378404-0-27043
+msgctxt "228378404-0-27043"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-27043
+msgctxt "242841733-0-27043"
+msgid "Honey"
+msgstr "꿀 (Honey)"
+
+#: 228378404-0-34304
+msgctxt "228378404-0-34304"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-34304
+msgctxt "242841733-0-34304"
+msgid "Old Pork"
+msgstr "오래된 돼지고기 (Old Pork)"
+
+#: 228378404-0-27044
+msgctxt "228378404-0-27044"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27044
+msgctxt "242841733-0-27044"
+msgid "Old Saaz Hops"
 msgstr ""
 
-#: 242841733-0-34320
-msgctxt "242841733-0-34320"
-msgid "bug parts"
+#: 228378404-0-27048
+msgctxt "228378404-0-27048"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-27048
+msgctxt "242841733-0-27048"
+msgid "Metheglin"
+msgstr "메테글린 (Metheglin)"
+
+#: 228378404-0-26990
+msgctxt "228378404-0-26990"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26990
+msgctxt "242841733-0-26990"
+msgid "Old Glace Viande"
 msgstr ""
-
-#: 228378404-0-34316
-msgctxt "228378404-0-34316"
-msgid "Use to make Honey Pudding"
-msgstr ""
-
-#: 242841733-0-34316
-msgctxt "242841733-0-34316"
-msgid "honey comb"
-msgstr ""
-
-#: 228378404-0-34311
-msgctxt "228378404-0-34311"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-34311
-msgctxt "242841733-0-34311"
-msgid "Apples"
-msgstr "사과 (Apples)"
 
 #: 228378404-0-34309
 msgctxt "228378404-0-34309"
@@ -441,156 +811,6 @@ msgctxt "242841733-0-34307"
 msgid "Radish"
 msgstr "무 (Radish)"
 
-#: 228378404-0-34305
-msgctxt "228378404-0-34305"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-34305
-msgctxt "242841733-0-34305"
-msgid "Pumpkin"
-msgstr "호박 (Pumpkin)"
-
-#: 228378404-0-34304
-msgctxt "228378404-0-34304"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-34304
-msgctxt "242841733-0-34304"
-msgid "Old Pork"
-msgstr "오래된 돼지고기 (Old Pork)"
-
-#: 228378404-0-33774
-msgctxt "228378404-0-33774"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-33774
-msgctxt "242841733-0-33774"
-msgid "Yeast"
-msgstr "이스트 (Yeast)"
-
-#: 228378404-0-33773
-msgctxt "228378404-0-33773"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-33773
-msgctxt "242841733-0-33773"
-msgid "Mint"
-msgstr "민트 (Mint)"
-
-#: 228378404-0-33772
-msgctxt "228378404-0-33772"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-33772
-msgctxt "242841733-0-33772"
-msgid "Coffee"
-msgstr "커피 (Coffee)"
-
-#: 228378404-0-33771
-msgctxt "228378404-0-33771"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-33771
-msgctxt "242841733-0-33771"
-msgid "Jasmine"
-msgstr "재스민 (Jasmine)"
-
-#: 228378404-0-33768
-msgctxt "228378404-0-33768"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-33768
-msgctxt "242841733-0-33768"
-msgid "Comberry"
-msgstr "콤베리 (Comberry)"
-
-#: 228378404-0-33758
-msgctxt "228378404-0-33758"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-33758
-msgctxt "242841733-0-33758"
-msgid "Potato"
-msgstr "감자 (Potato)"
-
-#: 228378404-0-33757
-msgctxt "228378404-0-33757"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-33757
-msgctxt "242841733-0-33757"
-msgid "Old Venison"
-msgstr "오래된 사슴고기 (Old Venison)"
-
-#: 228378404-0-33756
-msgctxt "228378404-0-33756"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-33756
-msgctxt "242841733-0-33756"
-msgid "Small Game"
-msgstr "작은 고기 (Small Game)"
-
-#: 228378404-0-33755
-msgctxt "228378404-0-33755"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-33755
-msgctxt "242841733-0-33755"
-msgid "Bananas"
-msgstr "바나나 (Bananas)"
-
-#: 228378404-0-33754
-msgctxt "228378404-0-33754"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-33754
-msgctxt "242841733-0-33754"
-msgid "White Meat"
-msgstr "흰 고기 (White Meat)"
-
-#: 228378404-0-33753
-msgctxt "228378404-0-33753"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-33753
-msgctxt "242841733-0-33753"
-msgid "Fish"
-msgstr "생선살 (Fish)"
-
-#: 228378404-0-33752
-msgctxt "228378404-0-33752"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-33752
-msgctxt "242841733-0-33752"
-msgid "Red Meat"
-msgstr "붉은 고기 (Red Meat)"
-
-#: 228378404-0-29030
-msgctxt "228378404-0-29030"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-29030
-msgctxt "242841733-0-29030"
-msgid "Rice"
-msgstr "쌀 (Rice)"
-
 #: 228378404-0-28666
 msgctxt "228378404-0-28666"
 msgid "An ingredient for crafting beverages."
@@ -600,436 +820,6 @@ msgstr "음료를 만들기 위한 재료입니다."
 msgctxt "242841733-0-28666"
 msgid "Seaweed"
 msgstr "해초 (Seaweed)"
-
-#: 228378404-0-28639
-msgctxt "228378404-0-28639"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-28639
-msgctxt "242841733-0-28639"
-msgid "Rye"
-msgstr "호밀 (Rye)"
-
-#: 228378404-0-28636
-msgctxt "228378404-0-28636"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-28636
-msgctxt "242841733-0-28636"
-msgid "Rose"
-msgstr "장미 (Rose)"
-
-#: 228378404-0-28625
-msgctxt "228378404-0-28625"
-msgid "Use to make Saltrice Slurry"
-msgstr ""
-
-#: 242841733-0-28625
-msgctxt "242841733-0-28625"
-msgid "saltrice"
-msgstr ""
-
-#: 228378404-0-28612
-msgctxt "228378404-0-28612"
-msgid "Use to make Grilled Shank"
-msgstr ""
-
-#: 242841733-0-28612
-msgctxt "242841733-0-28612"
-msgid "shank"
-msgstr ""
-
-#: 228378404-0-28610
-msgctxt "228378404-0-28610"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-28610
-msgctxt "242841733-0-28610"
-msgid "Jazbay Grapes"
-msgstr "재즈베이 포도 (Jazbay Grapes)"
-
-#: 228378404-0-28609
-msgctxt "228378404-0-28609"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-28609
-msgctxt "242841733-0-28609"
-msgid "Game"
-msgstr "고기 (Game)"
-
-#: 228378404-0-28608
-msgctxt "228378404-0-28608"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-28608
-msgctxt "242841733-0-28608"
-msgid "Old Plump Maggots"
-msgstr ""
-
-#: 228378404-0-28604
-msgctxt "228378404-0-28604"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-28604
-msgctxt "242841733-0-28604"
-msgid "Greens"
-msgstr "푸른 채소 (Greens)"
-
-#: 228378404-0-28603
-msgctxt "228378404-0-28603"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-28603
-msgctxt "242841733-0-28603"
-msgid "Tomato"
-msgstr "토마토 (Tomato)"
-
-#: 228378404-0-27100
-msgctxt "228378404-0-27100"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-27100
-msgctxt "242841733-0-27100"
-msgid "Flour"
-msgstr "밀가루 (Flour)"
-
-#: 228378404-0-27064
-msgctxt "228378404-0-27064"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-27064
-msgctxt "242841733-0-27064"
-msgid "Millet"
-msgstr "기장 (Millet)"
-
-#: 228378404-0-27063
-msgctxt "228378404-0-27063"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-27063
-msgctxt "242841733-0-27063"
-msgid "Saltrice"
-msgstr "솔트라이스 (Saltrice)"
-
-#: 228378404-0-27059
-msgctxt "228378404-0-27059"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-27059
-msgctxt "242841733-0-27059"
-msgid "Bervez Juice"
-msgstr "버베즈 즙 (Bervez Juice)"
-
-#: 228378404-0-27058
-msgctxt "228378404-0-27058"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-27058
-msgctxt "242841733-0-27058"
-msgid "Seasoning"
-msgstr "조미료 (Seasoning)"
-
-#: 228378404-0-27057
-msgctxt "228378404-0-27057"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-27057
-msgctxt "242841733-0-27057"
-msgid "Cheese"
-msgstr "치즈 (Cheese)"
-
-#: 228378404-0-27053
-msgctxt "228378404-0-27053"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27053
-msgctxt "242841733-0-27053"
-msgid "Old Canis Root"
-msgstr "옛 카니스 뿌리 (Old Canis Root)"
-
-#: 228378404-0-27052
-msgctxt "228378404-0-27052"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-27052
-msgctxt "242841733-0-27052"
-msgid "Ginger"
-msgstr "생강 (Ginger)"
-
-#: 228378404-0-27051
-msgctxt "228378404-0-27051"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27051
-msgctxt "242841733-0-27051"
-msgid "Old Jazbay Grapes"
-msgstr "옛 재즈베이 포도 (Old Jazbay Grapes)"
-
-#: 228378404-0-27049
-msgctxt "228378404-0-27049"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-27049
-msgctxt "242841733-0-27049"
-msgid "Lemon"
-msgstr "레몬 (Lemon)"
-
-#: 228378404-0-27048
-msgctxt "228378404-0-27048"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-27048
-msgctxt "242841733-0-27048"
-msgid "Metheglin"
-msgstr "메테글린 (Metheglin)"
-
-#: 228378404-0-27044
-msgctxt "228378404-0-27044"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27044
-msgctxt "242841733-0-27044"
-msgid "Old Saaz Hops"
-msgstr ""
-
-#: 228378404-0-27043
-msgctxt "228378404-0-27043"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-27043
-msgctxt "242841733-0-27043"
-msgid "Honey"
-msgstr "꿀 (Honey)"
-
-#: 228378404-0-27035
-msgctxt "228378404-0-27035"
-msgid "An ingredient for crafting beverages."
-msgstr "음료를 만들기 위한 재료입니다."
-
-#: 242841733-0-27035
-msgctxt "242841733-0-27035"
-msgid "Isinglass"
-msgstr "한천 (Isinglass)"
-
-#: 228378404-0-27004
-msgctxt "228378404-0-27004"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27004
-msgctxt "242841733-0-27004"
-msgid "Old Imperial Flour"
-msgstr ""
-
-#: 228378404-0-27003
-msgctxt "228378404-0-27003"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27003
-msgctxt "242841733-0-27003"
-msgid "Old Baker's Flour"
-msgstr ""
-
-#: 228378404-0-27002
-msgctxt "228378404-0-27002"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27002
-msgctxt "242841733-0-27002"
-msgid "Old Cake Flour"
-msgstr ""
-
-#: 228378404-0-27001
-msgctxt "228378404-0-27001"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27001
-msgctxt "242841733-0-27001"
-msgid "Old Sifted Flour"
-msgstr ""
-
-#: 228378404-0-27000
-msgctxt "228378404-0-27000"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-27000
-msgctxt "242841733-0-27000"
-msgid "Old Milled Flour"
-msgstr ""
-
-#: 228378404-0-26999
-msgctxt "228378404-0-26999"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26999
-msgctxt "242841733-0-26999"
-msgid "Old Meal"
-msgstr ""
-
-#: 228378404-0-26998
-msgctxt "228378404-0-26998"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26998
-msgctxt "242841733-0-26998"
-msgid "Old Imperial Stock"
-msgstr ""
-
-#: 228378404-0-26990
-msgctxt "228378404-0-26990"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26990
-msgctxt "242841733-0-26990"
-msgid "Old Glace Viande"
-msgstr ""
-
-#: 228378404-0-26989
-msgctxt "228378404-0-26989"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26989
-msgctxt "242841733-0-26989"
-msgid "Old Jus"
-msgstr ""
-
-#: 228378404-0-26988
-msgctxt "228378404-0-26988"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26988
-msgctxt "242841733-0-26988"
-msgid "Old Stock"
-msgstr ""
-
-#: 228378404-0-26987
-msgctxt "228378404-0-26987"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26987
-msgctxt "242841733-0-26987"
-msgid "Old Broth"
-msgstr ""
-
-#: 228378404-0-26986
-msgctxt "228378404-0-26986"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26986
-msgctxt "242841733-0-26986"
-msgid "Old Thin Broth"
-msgstr ""
-
-#: 228378404-0-26978
-msgctxt "228378404-0-26978"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26978
-msgctxt "242841733-0-26978"
-msgid "Old Pinguis"
-msgstr ""
-
-#: 228378404-0-26977
-msgctxt "228378404-0-26977"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26977
-msgctxt "242841733-0-26977"
-msgid "Old Fatback"
-msgstr ""
-
-#: 228378404-0-26976
-msgctxt "228378404-0-26976"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26976
-msgctxt "242841733-0-26976"
-msgid "Old Lard"
-msgstr ""
-
-#: 228378404-0-26975
-msgctxt "228378404-0-26975"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26975
-msgctxt "242841733-0-26975"
-msgid "Old Suet"
-msgstr ""
-
-#: 228378404-0-26974
-msgctxt "228378404-0-26974"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26974
-msgctxt "242841733-0-26974"
-msgid "Old Cooking Fat"
-msgstr ""
-
-#: 228378404-0-26966
-msgctxt "228378404-0-26966"
-msgid "This item is no longer used in crafting, and can be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26966
-msgctxt "242841733-0-26966"
-msgid "Old Drippings"
-msgstr ""
-
-#: 228378404-0-26962
-msgctxt "228378404-0-26962"
-msgid "This item is no longer used in crafting, and should be sold."
-msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
-
-#: 242841733-0-26962
-msgctxt "242841733-0-26962"
-msgid "Old Pepper"
-msgstr "오래된 후추 (Old Pepper)"
-
-#: 228378404-0-26954
-msgctxt "228378404-0-26954"
-msgid "An ingredient for crafting food."
-msgstr "음식을 만들기 위한 재료입니다."
-
-#: 242841733-0-26954
-msgctxt "242841733-0-26954"
-msgid "Garlic"
-msgstr "마늘 (Garlic)"
 
 #: 228378404-0-26802
 msgctxt "228378404-0-26802"
@@ -1052,6 +842,206 @@ msgctxt "242841733-0-120894"
 msgid "Animus Stone"
 msgstr "원한의 돌 (Animus Stone)"
 
+#: 228378404-0-27052
+msgctxt "228378404-0-27052"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-27052
+msgctxt "242841733-0-27052"
+msgid "Ginger"
+msgstr "생강 (Ginger)"
+
+#: 228378404-0-27053
+msgctxt "228378404-0-27053"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27053
+msgctxt "242841733-0-27053"
+msgid "Old Canis Root"
+msgstr "옛 카니스 뿌리 (Old Canis Root)"
+
+#: 228378404-0-27058
+msgctxt "228378404-0-27058"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-27058
+msgctxt "242841733-0-27058"
+msgid "Seasoning"
+msgstr "조미료 (Seasoning)"
+
+#: 228378404-0-27059
+msgctxt "228378404-0-27059"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-27059
+msgctxt "242841733-0-27059"
+msgid "Bervez Juice"
+msgstr "버베즈 즙 (Bervez Juice)"
+
+#: 228378404-0-27057
+msgctxt "228378404-0-27057"
+msgid "An ingredient for crafting food."
+msgstr "음식을 만들기 위한 재료입니다."
+
+#: 242841733-0-27057
+msgctxt "242841733-0-27057"
+msgid "Cheese"
+msgstr "치즈 (Cheese)"
+
+#: 228378404-0-27051
+msgctxt "228378404-0-27051"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-27051
+msgctxt "242841733-0-27051"
+msgid "Old Jazbay Grapes"
+msgstr "옛 재즈베이 포도 (Old Jazbay Grapes)"
+
+#: 228378404-0-26974
+msgctxt "228378404-0-26974"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26974
+msgctxt "242841733-0-26974"
+msgid "Old Cooking Fat"
+msgstr ""
+
+#: 228378404-0-28636
+msgctxt "228378404-0-28636"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-28636
+msgctxt "242841733-0-28636"
+msgid "Rose"
+msgstr "장미 (Rose)"
+
+#: 228378404-0-26975
+msgctxt "228378404-0-26975"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26975
+msgctxt "242841733-0-26975"
+msgid "Old Suet"
+msgstr ""
+
+#: 228378404-0-26978
+msgctxt "228378404-0-26978"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26978
+msgctxt "242841733-0-26978"
+msgid "Old Pinguis"
+msgstr ""
+
+#: 228378404-0-28639
+msgctxt "228378404-0-28639"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
+
+#: 242841733-0-28639
+msgctxt "242841733-0-28639"
+msgid "Rye"
+msgstr "호밀 (Rye)"
+
+#: 228378404-0-26976
+msgctxt "228378404-0-26976"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26976
+msgctxt "242841733-0-26976"
+msgid "Old Lard"
+msgstr ""
+
+#: 228378404-0-26977
+msgctxt "228378404-0-26977"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26977
+msgctxt "242841733-0-26977"
+msgid "Old Fatback"
+msgstr ""
+
+#: 228378404-0-45523
+msgctxt "228378404-0-45523"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-45523
+msgctxt "242841733-0-45523"
+msgid "Old Emperor Grapes"
+msgstr ""
+
+#: 228378404-0-45522
+msgctxt "228378404-0-45522"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-45522
+msgctxt "242841733-0-45522"
+msgid "Old Golden Malt"
+msgstr ""
+
+#: 228378404-0-45524
+msgctxt "228378404-0-45524"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-45524
+msgctxt "242841733-0-45524"
+msgid "Old Imperial Mash"
+msgstr ""
+
+#: 228378404-0-26986
+msgctxt "228378404-0-26986"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26986
+msgctxt "242841733-0-26986"
+msgid "Old Thin Broth"
+msgstr ""
+
+#: 228378404-0-26989
+msgctxt "228378404-0-26989"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26989
+msgctxt "242841733-0-26989"
+msgid "Old Jus"
+msgstr ""
+
+#: 228378404-0-26987
+msgctxt "228378404-0-26987"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26987
+msgctxt "242841733-0-26987"
+msgid "Old Broth"
+msgstr ""
+
+#: 228378404-0-26988
+msgctxt "228378404-0-26988"
+msgid "This item is no longer used in crafting, and can be sold."
+msgstr "이 아이템은 더 이상 제작에 사용되지 않습니다. 판매는 할 수 있습니다."
+
+#: 242841733-0-26988
+msgctxt "242841733-0-26988"
+msgid "Old Stock"
+msgstr ""
+
 #: 228378404-0-120078
 msgctxt "228378404-0-120078"
 msgid "Though Aetherial Dust can be used to open a person's eyes to untold experiences, its powers weaken over time. However, this Diminished Aetherial Dust still can be employed to craft standard Aetherial Ambrosia."
@@ -1062,12 +1052,22 @@ msgctxt "242841733-0-120078"
 msgid "Diminished Aetherial Dust"
 msgstr "약화된 에테리얼 가루 (Diminished Aetherial Dust)"
 
-#: 228378404-0-115026
-msgctxt "228378404-0-115026"
-msgid "This incredibly rare and valuable ingredient can be used to open a person's eyes to untold experiences — if properly prepared by the most skilled and knowledgeable of crafters."
-msgstr "놀랍도록 희귀하고 가치있는 재료입니다. 사람의 눈을 뜨이게 하여 막대한 경험을 할 수 있게 해 주죠. 최고로 숙련되고 식견 있는 제작가가 제대로 준비한다면 말입니다."
+#: 228378404-0-27035
+msgctxt "228378404-0-27035"
+msgid "An ingredient for crafting beverages."
+msgstr "음료를 만들기 위한 재료입니다."
 
-#: 242841733-0-115026
-msgctxt "242841733-0-115026"
-msgid "Aetherial Dust"
-msgstr "에테리얼 가루 (Aetherial Dust)"
+#: 242841733-0-27035
+msgctxt "242841733-0-27035"
+msgid "Isinglass"
+msgstr "한천 (Isinglass)"
+
+#: 228378404-0-5405
+msgctxt "228378404-0-5405"
+msgid "Use for Crafting Armor and Weapons"
+msgstr ""
+
+#: 242841733-0-5405
+msgctxt "242841733-0-5405"
+msgid "Thin Rawhide"
+msgstr ""

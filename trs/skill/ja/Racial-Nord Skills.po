@@ -11,13 +11,33 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-45306
-msgctxt "132143172-0-45306"
+#: 132143172-0-36627
+msgctxt "132143172-0-36627"
+msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
+msgstr "最大体力が<<1>>、冷気耐性が<<2>>上昇する。\r\n\r\n冷気のステータス効果が無効になる"
+
+#: 198758357-0-36627
+msgctxt "198758357-0-36627"
+msgid "Resist Frost"
+msgstr "氷結耐性"
+
+#: 132143172-0-45303
+msgctxt "132143172-0-45303"
+msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
+msgstr "最大体力が<<1>>、冷気耐性が<<2>>上昇する。\r\n\r\n冷気のステータス効果が無効になる"
+
+#: 198758357-0-45303
+msgctxt "198758357-0-45303"
+msgid "Resist Frost"
+msgstr "氷結耐性"
+
+#: 132143172-0-36628
+msgctxt "132143172-0-36628"
 msgid "Increases your Physical and Spell Resistance by <<1>>."
 msgstr "物理耐性と呪文耐性を<<1>>上昇させる。"
 
-#: 198758357-0-45306
-msgctxt "198758357-0-45306"
+#: 198758357-0-36628
+msgctxt "198758357-0-36628"
 msgid "Rugged"
 msgstr "無骨"
 
@@ -41,16 +61,6 @@ msgctxt "198758357-0-45304"
 msgid "Resist Frost"
 msgstr "氷結耐性"
 
-#: 132143172-0-45303
-msgctxt "132143172-0-45303"
-msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
-msgstr "最大体力が<<1>>、冷気耐性が<<2>>上昇する。\r\n\r\n冷気のステータス効果が無効になる"
-
-#: 198758357-0-45303
-msgctxt "198758357-0-45303"
-msgid "Resist Frost"
-msgstr "氷結耐性"
-
 #: 132143172-0-45298
 msgctxt "132143172-0-45298"
 msgid "Increases your Max Stamina by <<1>>.\n\nWhen you take damage, you gain <<2>> Ultimate.  This effect can occur once every <<3>>."
@@ -71,25 +81,25 @@ msgctxt "198758357-0-45297"
 msgid "Stalwart"
 msgstr "屈強"
 
-#: 132143172-0-36628
-msgctxt "132143172-0-36628"
+#: 132143172-0-36064
+msgctxt "132143172-0-36064"
+msgid "Increases your Max Stamina by <<1>>.\n\nWhen you take damage, you gain <<2>> Ultimate.  This effect can occur once every <<3>>."
+msgstr "最大スタミナを<<1>>上昇させる。\r\n\r\nダメージを受けると<<2>>アルティマを得る。この効果は<<3>>ごとに発動する。"
+
+#: 198758357-0-36064
+msgctxt "198758357-0-36064"
+msgid "Stalwart"
+msgstr "屈強"
+
+#: 132143172-0-45306
+msgctxt "132143172-0-45306"
 msgid "Increases your Physical and Spell Resistance by <<1>>."
 msgstr "物理耐性と呪文耐性を<<1>>上昇させる。"
 
-#: 198758357-0-36628
-msgctxt "198758357-0-36628"
+#: 198758357-0-45306
+msgctxt "198758357-0-45306"
 msgid "Rugged"
 msgstr "無骨"
-
-#: 132143172-0-36627
-msgctxt "132143172-0-36627"
-msgid "Increases your Max Health by <<1>> and Cold Resistance by <<2>>.\n\nGain immunity to the Chilled status effect."
-msgstr "最大体力が<<1>>、冷気耐性が<<2>>上昇する。\r\n\r\n冷気のステータス効果が無効になる"
-
-#: 198758357-0-36627
-msgctxt "198758357-0-36627"
-msgid "Resist Frost"
-msgstr "氷結耐性"
 
 #: 132143172-0-36626
 msgctxt "132143172-0-36626"
@@ -100,13 +110,3 @@ msgstr "両手武器スキルラインの経験値獲得量が|cffffff15|r%増�
 msgctxt "198758357-0-36626"
 msgid "Reveler"
 msgstr "酒盛り人"
-
-#: 132143172-0-36064
-msgctxt "132143172-0-36064"
-msgid "Increases your Max Stamina by <<1>>.\n\nWhen you take damage, you gain <<2>> Ultimate.  This effect can occur once every <<3>>."
-msgstr "最大スタミナを<<1>>上昇させる。\r\n\r\nダメージを受けると<<2>>アルティマを得る。この効果は<<3>>ごとに発動する。"
-
-#: 198758357-0-36064
-msgctxt "198758357-0-36064"
-msgid "Stalwart"
-msgstr "屈強"

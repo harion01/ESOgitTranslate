@@ -11,15 +11,135 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-55676
-msgctxt "132143172-0-55676"
-msgid "Activating an ally's synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: <<1>> Health, <<2>> Stamina, and <<3>> Magicka."
-msgstr "味方のシナジーを発動すると最大体力、スタミナ、マジカの|cffffff4|r%が回復する。\r\n\r\n現在のボーナス: 体力<<1>>、スタミナ<<2>>、マジカ<<3>>"
+#: 132143172-0-41990
+msgctxt "132143172-0-41990"
+msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>. After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffBlack Widows|r synergy, dealing <<5>> to them and summoning a spider to attack for <<6>>. The spider bites enemies for <<7>> and can poison them for <<8>> over <<9>>."
+msgstr "蜘蛛の糸で捕らえ、範囲内の敵の移動速度を<<1>>低下させて<<2>>を与える。<<3>>の経過後、糸は爆発して、範囲内の敵に<<4>>を与える。\r\n\r\n範囲内の味方は|cffffffブラックウィドウ|rシナジーを発動することで、<<5>>を与えてから蜘蛛を1匹召喚し、<<6>>の間攻撃させる。蜘蛛の攻撃力は<<7>>になり、毒を<<8>>ごとに<<9>>の間与える。"
 
-#: 198758357-0-55676
-msgctxt "198758357-0-55676"
-msgid "Undaunted Command"
-msgstr "統率力"
+#: 198758357-0-41990
+msgctxt "198758357-0-41990"
+msgid "Shadow Silk"
+msgstr "影の糸"
+
+#: 132143172-0-39298
+msgctxt "132143172-0-39298"
+msgid "Project a globe of annihilation that slowly floats forward, dealing <<1>> every half second to nearby enemies. \n\nAn ally near the globe can activate the |cffffffCombustion|r synergy, causing the orb to explode for <<2>> to nearby enemies and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
+msgstr "破滅の球体を作り出し、ゆっくりと前に進める。近くの敵に<<1>>を0.5秒ごとに与える。\r\n\r\n球体の近くの味方は|cffffff燃焼|rシナジーを発動し、球体を爆発させて周囲の敵に<<2>>を与え、味方のマジカかスタミナのうち、より最大値が高い方を<<3>>回復する。"
+
+#: 198758357-0-39298
+msgctxt "198758357-0-39298"
+msgid "Necrotic Orb"
+msgstr "死霊のオーブ"
+
+#: 132143172-0-42038
+msgctxt "132143172-0-42038"
+msgid "Project a globe of regeneration that slowly floats forward, healing for <<1>> Health every half second to you and nearby allies.\n\nAn ally near the globe can activate the |cffffffHealing Combustion|r synergy, causing the orb to explode and heal for <<2>> Health to all friendly targets and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
+msgstr "再生の球体を作り出し、ゆっくりと前に進める。自身と周囲の味方の体力を<<1>>、0.5秒ごとに回復する。\r\n\r\n球体の近くの味方は|cffffff治癒の燃焼|rシナジーを発動し、球体を爆発させて周囲の味方の体力を<<2>>回復し、さらにマジカかスタミナのうち、より最大値が高い方を<<3>>回復する。"
+
+#: 198758357-0-42038
+msgctxt "198758357-0-42038"
+msgid "Energy Orb"
+msgstr "エナジーオーブ"
+
+#: 132143172-0-39475
+msgctxt "132143172-0-39475"
+msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.\n\nA ranged ally targeting the taunted enemy has a |cffffff50|r% chance to activate the |cffffffRadiate|r synergy, dealing <<3>> to them over <<4>> then an additional <<5>> to them and other nearby enemies."
+msgstr "敵の心に憎悪の炎を灯し<<1>>を与え、<<2>>の間挑発して攻撃させる。\r\n\r\n挑発された敵を狙っている範囲内の味方は、|cffffff50|r%の確率で|cffffff放射|rシナジーを発動し、標的に<<3>>を<<4>>の間与え、その後<<5>>を対象と周囲の敵に与える。"
+
+#: 198758357-0-39475
+msgctxt "198758357-0-39475"
+msgid "Inner Fire"
+msgstr "内なる炎"
+
+#: 132143172-0-39489
+msgctxt "132143172-0-39489"
+msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Funnel|r synergy, healing for <<4>> of their Max Health."
+msgstr "生命のエキスを捧げて血の泉を召喚し、範囲の敵に<<1>>を付与し、自分と味方がダメージを与えると、<<2>>の体力を、<<3>>ごとに回復する。\r\n\r\nさらに周囲の味方は|cffffff血の献呈|rシナジーを発動し、最大体力の<<4>>を回復する。"
+
+#: 198758357-0-39489
+msgctxt "198758357-0-39489"
+msgid "Blood Altar"
+msgstr "血の祭壇"
+
+#: 132143172-0-42176
+msgctxt "132143172-0-42176"
+msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage <<2>>.  This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffSpinal Surge|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield that absorbs up to <<3>> of their Max Health for <<4>> and <<5>>, increasing their healing received by <<6>>."
+msgstr "自分の身を骨の旋風で包み、最大<<1>>のダメージを吸収するダメージシールドを<<2>>の間展開する。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n周囲の味方は|cffffff脊髄の渦|rシナジーを発動し、味方とその周囲の味方最大|cffffff5|r人までに、最大体力の<<3>>だけダメージを吸収するダメージシールドを<<4>>の間展開する。ダメージシールドはさらに<<5>>を付与し、被回復を<<6>>上昇させる。"
+
+#: 198758357-0-42176
+msgctxt "198758357-0-42176"
+msgid "Bone Surge"
+msgstr "骨の渦"
+
+#: 132143172-0-42056
+msgctxt "132143172-0-42056"
+msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.\n\nA ranged ally targeting the taunted enemy can activate the |cffffffRadiate|r synergy, dealing <<3>> to them over <<4>> then an additional <<5>> to them and other nearby enemies."
+msgstr "敵の心に憎悪の炎を灯し<<1>>を与え、<<2>>の間挑発して攻撃させる。\r\n\r\n挑発された敵を狙っている範囲内の味方は|cffffff放射|rシナジーを発動し、標的に<<3>>を<<4>>の間与え、その後<<5>>を対象と周囲の敵に与える。"
+
+#: 198758357-0-42056
+msgctxt "198758357-0-42056"
+msgid "Inner Rage"
+msgstr "内なる激昂"
+
+#: 132143172-0-42012
+msgctxt "132143172-0-42012"
+msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>. After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffArachnophobia|r synergy, dealing <<5>> to them, fearing them for <<6>>, and summoning a spider to attack for <<7>>. The spider bites enemies for <<8>>."
+msgstr "蜘蛛の糸で捕らえ、範囲内の敵の移動速度を<<1>>低下させて<<2>>を与える。<<3>>の経過後、糸は爆発して、範囲内の敵に<<4>>を与える。\r\n\r\n範囲内の味方は|cffffffクモ恐怖症|rシナジーを発動し、<<5>>を与えて<<6>>の間恐怖させる。また蜘蛛を1匹召喚し、<<7>>の間攻撃させる。蜘蛛の攻撃力は<<8>>になる。"
+
+#: 198758357-0-42012
+msgctxt "198758357-0-42012"
+msgid "Tangling Webs"
+msgstr "絡まるクモの巣"
+
+#: 132143172-0-41958
+msgctxt "132143172-0-41958"
+msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Feast|r synergy, healing for |cffffff65|r% of their Max Health."
+msgstr "生命のエキスを捧げて血の泉を召喚し、範囲の敵に<<1>>を付与し、自分と味方がダメージを与えると、<<2>>の体力を、<<3>>ごとに回復する。\r\n\r\nさらに周囲の味方は|cffffff血の宴|rシナジーを発動し、最大体力の|cffffff65|r%を回復する。"
+
+#: 198758357-0-41958
+msgctxt "198758357-0-41958"
+msgid "Overflowing Altar"
+msgstr "氾濫の祭壇"
+
+#: 132143172-0-42138
+msgctxt "132143172-0-42138"
+msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage for <<2>> and returns <<3>>% of direct damage absorbed back to the enemy.  This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffBone Wall|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to <<4>> of their Max Health <<5>>."
+msgstr "自分の身を骨の旋風で包み、最大<<1>>のダメージを吸収するダメージシールドを<<2>>の間展開する。ダメージシールドが吸収した敵直接ダメージの<<3>>%は相手に跳ね返る。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n周囲の味方は|cffffff骨の壁|rシナジーを発動し、味方とその周囲の味方最大|cffffff5|r人までに、最大体力の<<4>>だけダメージを吸収するダメージシールドを<<5>>の間展開する。"
+
+#: 198758357-0-42138
+msgctxt "198758357-0-42138"
+msgid "Spiked Bone Shield"
+msgstr "鋭き骨の盾"
+
+#: 132143172-0-42028
+msgctxt "132143172-0-42028"
+msgid "Project a globe of annihilation that slowly floats forward, dealing <<1>> every half second to nearby enemies. \n\nAn ally near the globe can activate the |cffffffCombustion|r synergy, causing the orb to explode for <<2>> to nearby enemies and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
+msgstr "破滅の球体を作り出し、ゆっくりと前に進める。近くの敵に<<1>>を0.5秒ごとに与える。\r\n\r\n球体の近くの味方は|cffffff燃焼|rシナジーを発動し、球体を爆発させて周囲の敵に<<2>>を与え、味方のマジカかスタミナのうち、より最大値が高い方を<<3>>回復する。"
+
+#: 198758357-0-42028
+msgctxt "198758357-0-42028"
+msgid "Mystic Orb"
+msgstr "秘術のオーブ"
+
+#: 132143172-0-41967
+msgctxt "132143172-0-41967"
+msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Funnel|r synergy, healing for <<4>> of their Max Health."
+msgstr "生命のエキスを捧げて血の泉を召喚し、範囲の敵に<<1>>を付与し、自分と味方がダメージを与えると、<<2>>の体力を、<<3>>ごとに回復する。\r\n\r\nさらに周囲の味方は|cffffff血の献呈|rシナジーを発動し、最大体力の<<4>>を回復する。"
+
+#: 198758357-0-41967
+msgctxt "198758357-0-41967"
+msgid "Sanguine Altar"
+msgstr "サングインの祭壇"
+
+#: 132143172-0-55366
+msgctxt "132143172-0-55366"
+msgid "Increases your Max Health, Stamina, and Magicka by |cffffff1|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: <<1>>."
+msgstr "最大体力、スタミナ、マジカを、装備している鎧の種類(重装、中装、軽装)につき|cffffff1|r%上げる。\r\n\r\n現在のボーナス: <<1>>"
+
+#: 198758357-0-55366
+msgctxt "198758357-0-55366"
+msgid "Undaunted Mettle"
+msgstr "アンドーンテッド魂"
 
 #: 132143172-0-55584
 msgctxt "132143172-0-55584"
@@ -41,35 +161,15 @@ msgctxt "198758357-0-55386"
 msgid "Undaunted Mettle"
 msgstr "アンドーンテッド魂"
 
-#: 132143172-0-55366
-msgctxt "132143172-0-55366"
-msgid "Increases your Max Health, Stamina, and Magicka by |cffffff1|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: <<1>>."
-msgstr "最大体力、スタミナ、マジカを、装備している鎧の種類(重装、中装、軽装)につき|cffffff1|r%上げる。\r\n\r\n現在のボーナス: <<1>>"
+#: 132143172-0-55676
+msgctxt "132143172-0-55676"
+msgid "Activating an ally's synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: <<1>> Health, <<2>> Stamina, and <<3>> Magicka."
+msgstr "味方のシナジーを発動すると最大体力、スタミナ、マジカの|cffffff4|r%が回復する。\r\n\r\n現在のボーナス: 体力<<1>>、スタミナ<<2>>、マジカ<<3>>"
 
-#: 198758357-0-55366
-msgctxt "198758357-0-55366"
-msgid "Undaunted Mettle"
-msgstr "アンドーンテッド魂"
-
-#: 132143172-0-42176
-msgctxt "132143172-0-42176"
-msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage <<2>>.  This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffSpinal Surge|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield that absorbs up to <<3>> of their Max Health for <<4>> and <<5>>, increasing their healing received by <<6>>."
-msgstr "自分の身を骨の旋風で包み、最大<<1>>のダメージを吸収するダメージシールドを<<2>>の間展開する。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n周囲の味方は|cffffff脊髄の渦|rシナジーを発動し、味方とその周囲の味方最大|cffffff5|r人までに、最大体力の<<3>>だけダメージを吸収するダメージシールドを<<4>>の間展開する。ダメージシールドはさらに<<5>>を付与し、被回復を<<6>>上昇させる。"
-
-#: 198758357-0-42176
-msgctxt "198758357-0-42176"
-msgid "Bone Surge"
-msgstr "骨の渦"
-
-#: 132143172-0-42138
-msgctxt "132143172-0-42138"
-msgid "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to <<1>> damage for <<2>> and returns <<3>>% of direct damage absorbed back to the enemy.  This ability scales off your Max Health.\n\nAn ally near you can activate the |cffffffBone Wall|r synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to <<4>> of their Max Health <<5>>."
-msgstr "自分の身を骨の旋風で包み、最大<<1>>のダメージを吸収するダメージシールドを<<2>>の間展開する。ダメージシールドが吸収した敵直接ダメージの<<3>>%は相手に跳ね返る。このアビリティの効力は最大体力に比例して変動する。\r\n\r\n周囲の味方は|cffffff骨の壁|rシナジーを発動し、味方とその周囲の味方最大|cffffff5|r人までに、最大体力の<<4>>だけダメージを吸収するダメージシールドを<<5>>の間展開する。"
-
-#: 198758357-0-42138
-msgctxt "198758357-0-42138"
-msgid "Spiked Bone Shield"
-msgstr "鋭き骨の盾"
+#: 198758357-0-55676
+msgctxt "198758357-0-55676"
+msgid "Undaunted Command"
+msgstr "統率力"
 
 #: 132143172-0-42060
 msgctxt "132143172-0-42060"
@@ -80,96 +180,6 @@ msgstr "敵の心に憎悪の炎を灯し<<1>>を与え、<<2>>の間挑発し�
 msgctxt "198758357-0-42060"
 msgid "Inner Beast"
 msgstr "内なる獣"
-
-#: 132143172-0-42056
-msgctxt "132143172-0-42056"
-msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.\n\nA ranged ally targeting the taunted enemy can activate the |cffffffRadiate|r synergy, dealing <<3>> to them over <<4>> then an additional <<5>> to them and other nearby enemies."
-msgstr "敵の心に憎悪の炎を灯し<<1>>を与え、<<2>>の間挑発して攻撃させる。\r\n\r\n挑発された敵を狙っている範囲内の味方は|cffffff放射|rシナジーを発動し、標的に<<3>>を<<4>>の間与え、その後<<5>>を対象と周囲の敵に与える。"
-
-#: 198758357-0-42056
-msgctxt "198758357-0-42056"
-msgid "Inner Rage"
-msgstr "内なる激昂"
-
-#: 132143172-0-42038
-msgctxt "132143172-0-42038"
-msgid "Project a globe of regeneration that slowly floats forward, healing for <<1>> Health every half second to you and nearby allies.\n\nAn ally near the globe can activate the |cffffffHealing Combustion|r synergy, causing the orb to explode and heal for <<2>> Health to all friendly targets and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
-msgstr "再生の球体を作り出し、ゆっくりと前に進める。自身と周囲の味方の体力を<<1>>、0.5秒ごとに回復する。\r\n\r\n球体の近くの味方は|cffffff治癒の燃焼|rシナジーを発動し、球体を爆発させて周囲の味方の体力を<<2>>回復し、さらにマジカかスタミナのうち、より最大値が高い方を<<3>>回復する。"
-
-#: 198758357-0-42038
-msgctxt "198758357-0-42038"
-msgid "Energy Orb"
-msgstr "エナジーオーブ"
-
-#: 132143172-0-42028
-msgctxt "132143172-0-42028"
-msgid "Project a globe of annihilation that slowly floats forward, dealing <<1>> every half second to nearby enemies. \n\nAn ally near the globe can activate the |cffffffCombustion|r synergy, causing the orb to explode for <<2>> to nearby enemies and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
-msgstr "破滅の球体を作り出し、ゆっくりと前に進める。近くの敵に<<1>>を0.5秒ごとに与える。\r\n\r\n球体の近くの味方は|cffffff燃焼|rシナジーを発動し、球体を爆発させて周囲の敵に<<2>>を与え、味方のマジカかスタミナのうち、より最大値が高い方を<<3>>回復する。"
-
-#: 198758357-0-42028
-msgctxt "198758357-0-42028"
-msgid "Mystic Orb"
-msgstr "秘術のオーブ"
-
-#: 132143172-0-42012
-msgctxt "132143172-0-42012"
-msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>. After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffArachnophobia|r synergy, dealing <<5>> to them, fearing them for <<6>>, and summoning a spider to attack for <<7>>. The spider bites enemies for <<8>>."
-msgstr "蜘蛛の糸で捕らえ、範囲内の敵の移動速度を<<1>>低下させて<<2>>を与える。<<3>>の経過後、糸は爆発して、範囲内の敵に<<4>>を与える。\r\n\r\n範囲内の味方は|cffffffクモ恐怖症|rシナジーを発動し、<<5>>を与えて<<6>>の間恐怖させる。また蜘蛛を1匹召喚し、<<7>>の間攻撃させる。蜘蛛の攻撃力は<<8>>になる。"
-
-#: 198758357-0-42012
-msgctxt "198758357-0-42012"
-msgid "Tangling Webs"
-msgstr "絡まるクモの巣"
-
-#: 132143172-0-41990
-msgctxt "132143172-0-41990"
-msgid "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by <<1>> and dealing <<2>>. After <<3>> the webs explode, dealing <<4>> to enemies within.\n\nA ranged ally can activate the |cffffffBlack Widows|r synergy, dealing <<5>> to them and summoning a spider to attack for <<6>>. The spider bites enemies for <<7>> and can poison them for <<8>> over <<9>>."
-msgstr "蜘蛛の糸で捕らえ、範囲内の敵の移動速度を<<1>>低下させて<<2>>を与える。<<3>>の経過後、糸は爆発して、範囲内の敵に<<4>>を与える。\r\n\r\n範囲内の味方は|cffffffブラックウィドウ|rシナジーを発動することで、<<5>>を与えてから蜘蛛を1匹召喚し、<<6>>の間攻撃させる。蜘蛛の攻撃力は<<7>>になり、毒を<<8>>ごとに<<9>>の間与える。"
-
-#: 198758357-0-41990
-msgctxt "198758357-0-41990"
-msgid "Shadow Silk"
-msgstr "影の糸"
-
-#: 132143172-0-41967
-msgctxt "132143172-0-41967"
-msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Funnel|r synergy, healing for <<4>> of their Max Health."
-msgstr "生命のエキスを捧げて血の泉を召喚し、範囲の敵に<<1>>を付与し、自分と味方がダメージを与えると、<<2>>の体力を、<<3>>ごとに回復する。\r\n\r\nさらに周囲の味方は|cffffff血の献呈|rシナジーを発動し、最大体力の<<4>>を回復する。"
-
-#: 198758357-0-41967
-msgctxt "198758357-0-41967"
-msgid "Sanguine Altar"
-msgstr "サングインの祭壇"
-
-#: 132143172-0-41958
-msgctxt "132143172-0-41958"
-msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Feast|r synergy, healing for |cffffff65|r% of their Max Health."
-msgstr "生命のエキスを捧げて血の泉を召喚し、範囲の敵に<<1>>を付与し、自分と味方がダメージを与えると、<<2>>の体力を、<<3>>ごとに回復する。\r\n\r\nさらに周囲の味方は|cffffff血の宴|rシナジーを発動し、最大体力の|cffffff65|r%を回復する。"
-
-#: 198758357-0-41958
-msgctxt "198758357-0-41958"
-msgid "Overflowing Altar"
-msgstr "氾濫の祭壇"
-
-#: 132143172-0-39489
-msgctxt "132143172-0-39489"
-msgid "Sacrifice your life essence to conjure a fountain of blood to apply <<1>> to enemies in the area, healing you and your allies for <<2>> Health every <<3>> when damaging them.\n\nAllies in the area can activate the |cffffffBlood Funnel|r synergy, healing for <<4>> of their Max Health."
-msgstr "生命のエキスを捧げて血の泉を召喚し、範囲の敵に<<1>>を付与し、自分と味方がダメージを与えると、<<2>>の体力を、<<3>>ごとに回復する。\r\n\r\nさらに周囲の味方は|cffffff血の献呈|rシナジーを発動し、最大体力の<<4>>を回復する。"
-
-#: 198758357-0-39489
-msgctxt "198758357-0-39489"
-msgid "Blood Altar"
-msgstr "血の祭壇"
-
-#: 132143172-0-39475
-msgctxt "132143172-0-39475"
-msgid "Ignite the fires of hate in an enemy's heart, dealing <<1>> and taunting them to attack you for <<2>>.\n\nA ranged ally targeting the taunted enemy has a |cffffff50|r% chance to activate the |cffffffRadiate|r synergy, dealing <<3>> to them over <<4>> then an additional <<5>> to them and other nearby enemies."
-msgstr "敵の心に憎悪の炎を灯し<<1>>を与え、<<2>>の間挑発して攻撃させる。\r\n\r\n挑発された敵を狙っている範囲内の味方は、|cffffff50|r%の確率で|cffffff放射|rシナジーを発動し、標的に<<3>>を<<4>>の間与え、その後<<5>>を対象と周囲の敵に与える。"
-
-#: 198758357-0-39475
-msgctxt "198758357-0-39475"
-msgid "Inner Fire"
-msgstr "内なる炎"
 
 #: 132143172-0-39425
 msgctxt "132143172-0-39425"
@@ -190,13 +200,3 @@ msgstr "自分の身を骨の旋風で包み、最大<<1>>のダメージを吸�
 msgctxt "198758357-0-39369"
 msgid "Bone Shield"
 msgstr "骨の盾"
-
-#: 132143172-0-39298
-msgctxt "132143172-0-39298"
-msgid "Project a globe of annihilation that slowly floats forward, dealing <<1>> every half second to nearby enemies. \n\nAn ally near the globe can activate the |cffffffCombustion|r synergy, causing the orb to explode for <<2>> to nearby enemies and restore <<3>> Magicka or Stamina to the ally, whichever maximum is higher."
-msgstr "破滅の球体を作り出し、ゆっくりと前に進める。近くの敵に<<1>>を0.5秒ごとに与える。\r\n\r\n球体の近くの味方は|cffffff燃焼|rシナジーを発動し、球体を爆発させて周囲の敵に<<2>>を与え、味方のマジカかスタミナのうち、より最大値が高い方を<<3>>回復する。"
-
-#: 198758357-0-39298
-msgctxt "198758357-0-39298"
-msgid "Necrotic Orb"
-msgstr "死霊のオーブ"

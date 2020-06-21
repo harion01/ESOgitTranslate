@@ -11,66 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-92431
-msgctxt "132143172-0-92431"
-msgid "Reduces the cost of Break Free by <<1>>."
-msgstr "打破の消費が<<1>>減少する。"
-
-#: 198758357-0-92431
-msgctxt "198758357-0-92431"
-msgid "Warlord"
-msgstr "武将"
-
-#: 132143172-0-92425
-msgctxt "132143172-0-92425"
-msgid "When you deal damage with a Light or Heavy Attack, you decrease the enemy's Health, Magicka, and Stamina resource restore and Recovery by <<1>> for <<2>>."
-msgstr "軽攻撃と重攻撃でダメージを与えると、敵の体力、マジカ、スタミナのリソース回復と再生を<<1>>、<<2>>の間低下させる。"
-
-#: 198758357-0-92425
-msgctxt "198758357-0-92425"
-msgid "Siphoner"
-msgstr "吸収者"
-
-#: 132143172-0-92424
-msgctxt "132143172-0-92424"
-msgid "Increases your damage done with Light and Heavy Attacks for Two Handed, One Hand and Shield, Dual Wield, and Bow weapons, as well as in Werewolf form by <<1>>."
-msgstr "両手武器、片手武器、盾、二刀流、弓、ウェアウルフ形態による軽攻撃と重攻撃のダメージが<<1>>増加する。"
-
-#: 198758357-0-92424
-msgctxt "198758357-0-92424"
-msgid "Physical Weapon Expert"
-msgstr "物理武器専門家"
-
-#: 132143172-0-92423
-msgctxt "132143172-0-92423"
-msgid "Reduces your damage taken against direct damage attacks by <<1>>."
-msgstr "直接攻撃のダメージを<<1>>低下させる。"
-
-#: 198758357-0-92423
-msgctxt "198758357-0-92423"
-msgid "Ironclad"
-msgstr "アイアンクラッド"
-
-#: 132143172-0-92134
-msgctxt "132143172-0-92134"
-msgid "Increases your damage done with direct damage attacks by <<1>>."
-msgstr "直接攻撃のダメージを<<1>>増加させる。"
-
-#: 198758357-0-92134
-msgctxt "198758357-0-92134"
-msgid "Master-at-Arms"
-msgstr "マスター・アトアームズ"
-
-#: 132143172-0-64079
-msgctxt "132143172-0-64079"
-msgid "While you have a Shield or Frost Staff equipped, your Spell and Physical Resistance is increased by <<1>>."
-msgstr "盾もしくは氷結の杖を装備中、物理耐性と呪文耐性が<<1>>上昇する。"
-
-#: 198758357-0-64079
-msgctxt "198758357-0-64079"
-msgid "Bulwark"
-msgstr "ブルワーク"
-
 #: 132143172-0-64077
 msgctxt "132143172-0-64077"
 msgid "Reduces the cost of Sprint by <<1>>."
@@ -80,238 +20,6 @@ msgstr "ダッシュの消費を<<1>>減少させる。"
 msgctxt "198758357-0-64077"
 msgid "Sprinter"
 msgstr "スプリンター"
-
-#: 132143172-0-64067
-#, fuzzy
-msgctxt "132143172-0-64067"
-msgid "When you begin Bracing, you gain a damage shield that absorbs <<1>> damage for <<2>>. This effect can occur once every <<3>>."
-msgstr "踏ん張りを発動すると、<<1>>ダメージを吸収するダメージシールドを<<2>>の間得る。この効果は<<3>>ごとに発動する。"
-
-#: 198758357-0-64067
-msgctxt "198758357-0-64067"
-msgid "Reinforced"
-msgstr "強化"
-
-#: 132143172-0-63880
-msgctxt "132143172-0-63880"
-msgid "Increases your damage done against Off Balance enemies by <<1>>."
-msgstr "フラフラ状態の敵に対するダメージを<<1>>増加させる。"
-
-#: 198758357-0-63880
-msgctxt "198758357-0-63880"
-msgid "Exploiter"
-msgstr "搾取者"
-
-#: 132143172-0-63879
-msgctxt "132143172-0-63879"
-msgid "Increases your damage done with Light and Heavy Attacks by <<1>> to enemies below |cffffff25|r% Health."
-msgstr "体力が|cffffff25|r%以下の標的に対し、軽攻撃と重攻撃のダメージを<<1>>増加させる。"
-
-#: 198758357-0-63879
-msgctxt "198758357-0-63879"
-msgid "Butcher"
-msgstr "ブッチャー"
-
-#: 132143172-0-63875
-msgctxt "132143172-0-63875"
-msgid "When you activate a synergy ability, you generate |cffffff2|r Ultimate."
-msgstr "シナジーアビリティを発動すると、|cffffff2|rアルティマを獲得する。"
-
-#: 198758357-0-63875
-msgctxt "198758357-0-63875"
-msgid "Synergizer"
-msgstr "シナジーソース"
-
-#: 132143172-0-63868
-msgctxt "132143172-0-63868"
-msgid "Increases your Physical, Poison, and Disease Damage done by <<1>>."
-msgstr "物理、毒、病気ダメージを<<1>>増加させる。"
-
-#: 198758357-0-63868
-msgctxt "198758357-0-63868"
-msgid "Mighty"
-msgstr "強大"
-
-#: 132143172-0-63863
-msgctxt "132143172-0-63863"
-msgid "Reduces the cost of Roll Dodge by <<1>>."
-msgstr "ロール回避の消費を<<1>>減らす。"
-
-#: 198758357-0-63863
-msgctxt "198758357-0-63863"
-msgid "Tumbling"
-msgstr "アクロバット"
-
-#: 132143172-0-63854
-msgctxt "132143172-0-63854"
-msgid "Increases the Magicka and Stamina your fully-charged Heavy Attacks restore by <<1>>."
-msgstr "完全にチャージした重攻撃で回復されるマジカとスタミナを<<1>>増加させる。"
-
-#: 198758357-0-63854
-msgctxt "198758357-0-63854"
-msgid "Tenacity"
-msgstr "執念"
-
-#: 132143172-0-63852
-msgctxt "132143172-0-63852"
-msgid "When you use Roll Dodge, your Physical and Spell Resistance is increased by <<1>> for <<2>>."
-msgstr "ロール回避使用時、物理耐性と呪文耐性が<<1>>、<<2>>の間上昇する。"
-
-#: 198758357-0-63852
-msgctxt "198758357-0-63852"
-msgid "Phase"
-msgstr "フェーズ"
-
-#: 132143172-0-63851
-msgctxt "132143172-0-63851"
-msgid "Increases your healing received by <<1>>."
-msgstr "被回復力を<<1>>増加させる。"
-
-#: 198758357-0-63851
-msgctxt "198758357-0-63851"
-msgid "Quick Recovery"
-msgstr "クイック再生"
-
-#: 132143172-0-63850
-msgctxt "132143172-0-63850"
-msgid "Reduces your damage taken from damage over time effects by <<1>>."
-msgstr "継続ダメージ効果によるダメージを<<1>>減少させる。"
-
-#: 198758357-0-63850
-msgctxt "198758357-0-63850"
-msgid "Thick Skinned"
-msgstr "分厚い皮膚"
-
-#: 132143172-0-63848
-msgctxt "132143172-0-63848"
-msgid "Increases your Flame, Frost, Shock, and Magic Damage done by <<1>>."
-msgstr "炎、氷結、雷撃、魔法ダメージを<<1>>増加させる。"
-
-#: 198758357-0-63848
-msgctxt "198758357-0-63848"
-msgid "Elemental Expert"
-msgstr "属性の達人"
-
-#: 132143172-0-63847
-msgctxt "132143172-0-63847"
-msgid "Increases your damage done with damage over time effects by <<1>>."
-msgstr "継続ダメージ効果によるダメージを<<1>>増加させる。"
-
-#: 198758357-0-63847
-msgctxt "198758357-0-63847"
-msgid "Thaumaturge"
-msgstr "魔術の素質"
-
-#: 132143172-0-63844
-msgctxt "132143172-0-63844"
-msgid "Reduces your damage taken from Physical, Poison, and Disease Damage by <<1>>."
-msgstr "自分に対する物理、毒、病気ダメージを<<1>>減少させる。"
-
-#: 198758357-0-63844
-msgctxt "198758357-0-63844"
-msgid "Hardy"
-msgstr "頑丈"
-
-#: 132143172-0-63843
-msgctxt "132143172-0-63843"
-msgid "Reduces your damage taken from Flame, Frost, Shock, and Magic Damage by <<1>>."
-msgstr "自分に対する炎、氷結、雷撃、魔法ダメージを<<1>>減少させる。"
-
-#: 198758357-0-63843
-msgctxt "198758357-0-63843"
-msgid "Elemental Defender"
-msgstr "属性の守り手"
-
-#: 132143172-0-63663
-msgctxt "132143172-0-63663"
-msgid "You have a |cffffff10|r% chance to gain double the yield from normal resource nodes."
-msgstr "資源アイテムの収集時に|cffffff10|r%の確率で2倍のアイテムが手に入る。"
-
-#: 198758357-0-63663
-msgctxt "198758357-0-63663"
-msgid "Plentiful Harvest"
-msgstr "豊作"
-
-#: 132143172-0-63150
-#, fuzzy
-msgctxt "132143172-0-63150"
-msgid "When you block three spells within <<1>> of each other, your next damaging Magicka ability used within <<2>> will always be a Critical Strike."
-msgstr "<<1>>以内に呪文を3回ブロックすると、<<2>>以内に使う、次のダメージを与えるマジカアビリティが常時クリティカル攻撃になる。"
-
-#: 198758357-0-63150
-msgctxt "198758357-0-63150"
-msgid "Vengeance"
-msgstr "復讐"
-
-#: 132143172-0-63111
-msgctxt "132143172-0-63111"
-msgid "When you kill an enemy, you have a |cffffff20|r% chance to restore <<1>> Magicka for up to |cffffff3|r friendly targets within |cffffff2.5|r meters of the enemy."
-msgstr "敵を倒すと|cffffff20|r%の確率で、敵から|cffffff2.5|rメートル以内にいる最大|cffffff3|r人までの味方のマジカを<<1>>回復する。"
-
-#: 198758357-0-63111
-msgctxt "198758357-0-63111"
-msgid "Arcane Well"
-msgstr "アルケインの泉"
-
-#: 132143172-0-63109
-msgctxt "132143172-0-63109"
-msgid "When you take Flame, Frost, Shock, Magic, or Oblivion Damage equal to |cffffff30|r% of your Max Health, you restore <<1>> Magicka. This effect can occur once every <<2>>."
-msgstr "最大体力の|cffffff30|r%と同等の火炎、氷結、雷撃、魔法、オブリビオンのダメージを受けると、マジカを<<1>>回復する。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-63109
-msgctxt "198758357-0-63109"
-msgid "Spell Absorption"
-msgstr "呪文吸収"
-
-#: 132143172-0-63104
-msgctxt "132143172-0-63104"
-msgid "When you block a Heavy Attack, your next Light Attack used within <<1>> deals <<2>> additional damage."
-msgstr "重攻撃をブロックすると、<<1>>以内に使う次の軽攻撃が追加ダメージ<<2>>を与える。"
-
-#: 198758357-0-63104
-msgctxt "198758357-0-63104"
-msgid "Retaliation"
-msgstr "報復"
-
-#: 132143172-0-63099
-msgctxt "132143172-0-63099"
-msgid "When you interrupt an enemy, your next Physical Damage ability used within <<1>> deals <<2>> additional damage."
-msgstr "敵を妨害した時、<<1>>以内に使う次の物理ダメージアビリティが追加ダメージ<<2>>を与える。"
-
-#: 198758357-0-63099
-msgctxt "198758357-0-63099"
-msgid "Opportunist"
-msgstr "風見鶏"
-
-#: 132143172-0-62760
-msgctxt "132143172-0-62760"
-msgid "Increases your Spell Resistance by <<1>>."
-msgstr "呪文耐性が<<1>>上昇する。"
-
-#: 198758357-0-62760
-msgctxt "198758357-0-62760"
-msgid "Spell Shield"
-msgstr "呪文の盾"
-
-#: 132143172-0-62516
-msgctxt "132143172-0-62516"
-msgid "When you die, you heal all allies within |cffffff8|r meters of you for <<1>> Health."
-msgstr "死んだ時、|cffffff8|rメートル以内の味方体力を全て<<1>>回復する。"
-
-#: 198758357-0-62516
-msgctxt "198758357-0-62516"
-msgid "Mara's Gift"
-msgstr "マーラの贈り物"
-
-#: 132143172-0-62274
-msgctxt "132143172-0-62274"
-msgid "Improves your mastery with mounts, removing all mount Stamina costs outside of combat."
-msgstr "騎乗の熟練度をアップして、戦闘外の騎乗動物のスタミナ消費をすべて取り除く。"
-
-#: 198758357-0-62274
-msgctxt "198758357-0-62274"
-msgid "War Mount"
-msgstr "騎乗熟練"
 
 #: 132143172-0-61680
 msgctxt "132143172-0-61680"
@@ -323,6 +31,286 @@ msgctxt "198758357-0-61680"
 msgid "Elfborn"
 msgstr "エルフボーン"
 
+#: 132143172-0-92425
+msgctxt "132143172-0-92425"
+msgid "When you deal damage with a Light or Heavy Attack, you decrease the enemy's Health, Magicka, and Stamina resource restore and Recovery by <<1>> for <<2>>."
+msgstr "軽攻撃と重攻撃でダメージを与えると、敵の体力、マジカ、スタミナのリソース回復と再生を<<1>>、<<2>>の間低下させる。"
+
+#: 198758357-0-92425
+msgctxt "198758357-0-92425"
+msgid "Siphoner"
+msgstr "吸収者"
+
+#: 132143172-0-64079
+msgctxt "132143172-0-64079"
+msgid "While you have a Shield or Frost Staff equipped, your Spell and Physical Resistance is increased by <<1>>."
+msgstr "盾もしくは氷結の杖を装備中、物理耐性と呪文耐性が<<1>>上昇する。"
+
+#: 198758357-0-64079
+msgctxt "198758357-0-64079"
+msgid "Bulwark"
+msgstr "ブルワーク"
+
+#: 132143172-0-63663
+msgctxt "132143172-0-63663"
+msgid "You have a |cffffff10|r% chance to gain double the yield from normal resource nodes."
+msgstr "資源アイテムの収集時に|cffffff10|r%の確率で2倍のアイテムが手に入る。"
+
+#: 198758357-0-63663
+msgctxt "198758357-0-63663"
+msgid "Plentiful Harvest"
+msgstr "豊作"
+
+#: 132143172-0-92423
+msgctxt "132143172-0-92423"
+msgid "Reduces your damage taken against direct damage attacks by <<1>>."
+msgstr "直接攻撃のダメージを<<1>>低下させる。"
+
+#: 198758357-0-92423
+msgctxt "198758357-0-92423"
+msgid "Ironclad"
+msgstr "アイアンクラッド"
+
+#: 132143172-0-92424
+msgctxt "132143172-0-92424"
+msgid "Increases your damage done with Light and Heavy Attacks for Two Handed, One Hand and Shield, Dual Wield, and Bow weapons, as well as in Werewolf form by <<1>>."
+msgstr "両手武器、片手武器、盾、二刀流、弓、ウェアウルフ形態による軽攻撃と重攻撃のダメージが<<1>>増加する。"
+
+#: 198758357-0-92424
+msgctxt "198758357-0-92424"
+msgid "Physical Weapon Expert"
+msgstr "物理武器専門家"
+
+#: 132143172-0-63863
+msgctxt "132143172-0-63863"
+msgid "Reduces the cost of Roll Dodge by <<1>>."
+msgstr "ロール回避の消費を<<1>>減らす。"
+
+#: 198758357-0-63863
+msgctxt "198758357-0-63863"
+msgid "Tumbling"
+msgstr "アクロバット"
+
+#: 132143172-0-63104
+msgctxt "132143172-0-63104"
+msgid "When you block a Heavy Attack, your next Light Attack used within <<1>> deals <<2>> additional damage."
+msgstr "重攻撃をブロックすると、<<1>>以内に使う次の軽攻撃が追加ダメージ<<2>>を与える。"
+
+#: 198758357-0-63104
+msgctxt "198758357-0-63104"
+msgid "Retaliation"
+msgstr "報復"
+
+#: 132143172-0-59286
+msgctxt "132143172-0-59286"
+msgid "When you use Break Free, the cost of your next Stamina ability used within <<1>> is reduced by <<2>>."
+msgstr "打破を使用した時の、<<1>>以内に使う次のスタミナアビリティ消費が<<2>>減少する。"
+
+#: 198758357-0-59286
+msgctxt "198758357-0-59286"
+msgid "Unchained"
+msgstr "打破"
+
+#: 132143172-0-63868
+msgctxt "132143172-0-63868"
+msgid "Increases your Physical, Poison, and Disease Damage done by <<1>>."
+msgstr "物理、毒、病気ダメージを<<1>>増加させる。"
+
+#: 198758357-0-63868
+msgctxt "198758357-0-63868"
+msgid "Mighty"
+msgstr "強大"
+
+#: 132143172-0-63109
+msgctxt "132143172-0-63109"
+msgid "When you take Flame, Frost, Shock, Magic, or Oblivion Damage equal to |cffffff30|r% of your Max Health, you restore <<1>> Magicka. This effect can occur once every <<2>>."
+msgstr "最大体力の|cffffff30|r%と同等の火炎、氷結、雷撃、魔法、オブリビオンのダメージを受けると、マジカを<<1>>回復する。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-63109
+msgctxt "198758357-0-63109"
+msgid "Spell Absorption"
+msgstr "呪文吸収"
+
+#: 132143172-0-59120
+msgctxt "132143172-0-59120"
+msgid "Increases your Physical Resistance by <<1>> while wearing |cffffff5|r or more pieces of Medium Armor."
+msgstr "中装鎧を|cffffff5|rつ以上装備すると、物理耐性が<<1>>増加する。"
+
+#: 198758357-0-59120
+msgctxt "198758357-0-59120"
+msgid "Medium Armor Focus"
+msgstr "フォーカス(中装鎧)"
+
+#: 132143172-0-59526
+msgctxt "132143172-0-59526"
+msgid "When you drink a potion, the cost of your next Magicka ability used within <<1>> is reduced by <<2>>."
+msgstr "薬を飲むと、<<1>>以内に使う次のマジカアビリティ消費が<<2>>減少する。"
+
+#: 198758357-0-59526
+msgctxt "198758357-0-59526"
+msgid "Foresight"
+msgstr "前兆"
+
+#: 132143172-0-60555
+msgctxt "132143172-0-60555"
+msgid "Reduces your gathering time by <<1>>."
+msgstr "収集時間を<<1>>減らす。"
+
+#: 198758357-0-60555
+msgctxt "198758357-0-60555"
+msgid "Master Gatherer"
+msgstr "収集の達人"
+
+#: 132143172-0-60398
+msgctxt "132143172-0-60398"
+msgid "When you use Bash, you have a |cffffff33|r% chance to reduce the enemy's Movement Speed by <<1>> for <<2>>."
+msgstr "強撃を使用した時、|cffffff33|r%の確率で敵の移動速度を<<1>>、<<2>>の間低下させる。"
+
+#: 198758357-0-60398
+msgctxt "198758357-0-60398"
+msgid "Ensnare"
+msgstr "減速"
+
+#: 132143172-0-92134
+msgctxt "132143172-0-92134"
+msgid "Increases your damage done with direct damage attacks by <<1>>."
+msgstr "直接攻撃のダメージを<<1>>増加させる。"
+
+#: 198758357-0-92134
+msgctxt "198758357-0-92134"
+msgid "Master-at-Arms"
+msgstr "マスター・アトアームズ"
+
+#: 132143172-0-63111
+msgctxt "132143172-0-63111"
+msgid "When you kill an enemy, you have a |cffffff20|r% chance to restore <<1>> Magicka for up to |cffffff3|r friendly targets within |cffffff2.5|r meters of the enemy."
+msgstr "敵を倒すと|cffffff20|r%の確率で、敵から|cffffff2.5|rメートル以内にいる最大|cffffff3|r人までの味方のマジカを<<1>>回復する。"
+
+#: 198758357-0-63111
+msgctxt "198758357-0-63111"
+msgid "Arcane Well"
+msgstr "アルケインの泉"
+
+#: 132143172-0-59298
+msgctxt "132143172-0-59298"
+msgid "Increases the effectiveness of your healing reduction abilities by <<1>>."
+msgstr "治癒低下のアビリティの有効性を<<1>>上げる。"
+
+#: 198758357-0-59298
+msgctxt "198758357-0-59298"
+msgid "Befoul"
+msgstr "汚染"
+
+#: 132143172-0-63875
+msgctxt "132143172-0-63875"
+msgid "When you activate a synergy ability, you generate |cffffff2|r Ultimate."
+msgstr "シナジーアビリティを発動すると、|cffffff2|rアルティマを獲得する。"
+
+#: 198758357-0-63875
+msgctxt "198758357-0-63875"
+msgid "Synergizer"
+msgstr "シナジーソース"
+
+#: 132143172-0-59893
+msgctxt "132143172-0-59893"
+msgid "When you drink a potion, you gain a damage shield that absorbs <<1>> damage for <<2>>."
+msgstr "薬を飲むと、<<1>>ダメージを吸収するダメージシールドを<<2>>の間得る。"
+
+#: 198758357-0-59893
+msgctxt "198758357-0-59893"
+msgid "Determination"
+msgstr "決意"
+
+#: 132143172-0-63879
+msgctxt "132143172-0-63879"
+msgid "Increases your damage done with Light and Heavy Attacks by <<1>> to enemies below |cffffff25|r% Health."
+msgstr "体力が|cffffff25|r%以下の標的に対し、軽攻撃と重攻撃のダメージを<<1>>増加させる。"
+
+#: 198758357-0-63879
+msgctxt "198758357-0-63879"
+msgid "Butcher"
+msgstr "ブッチャー"
+
+#: 132143172-0-59418
+msgctxt "132143172-0-59418"
+msgid "Increases your Weapon Critical by <<1>>."
+msgstr "武器クリティカルが<<1>>上昇する。"
+
+#: 198758357-0-59418
+msgctxt "198758357-0-59418"
+msgid "Perfect Strike"
+msgstr "完璧なる打撃"
+
+#: 132143172-0-59577
+msgctxt "132143172-0-59577"
+msgid "Increases your Magicka Recovery by <<1>>."
+msgstr "マジカ再生を<<1>>アップする。"
+
+#: 198758357-0-59577
+msgctxt "198758357-0-59577"
+msgid "Arcanist"
+msgstr "神秘師"
+
+#: 132143172-0-60566
+msgctxt "132143172-0-60566"
+msgid "Increases the quality of items you find in treasure chests."
+msgstr "宝箱で見つけたアイテムの質を上げる。"
+
+#: 198758357-0-60566
+msgctxt "198758357-0-60566"
+msgid "Treasure Hunter"
+msgstr "トレジャーハンター"
+
+#: 132143172-0-60486
+msgctxt "132143172-0-60486"
+msgid "When you use Roll Dodge to dodge an attack, you set the enemy Off Balance."
+msgstr "ロール回避を使って攻撃を回避すると、敵をフラフラ状態にする。"
+
+#: 198758357-0-60486
+msgctxt "198758357-0-60486"
+msgid "Tactician"
+msgstr "シザース"
+
+#: 132143172-0-60560
+msgctxt "132143172-0-60560"
+msgid "Increases your Movement Speed and Mounted Speed by <<1>>.\n\nIncreases your Health and Magicka Recovery by <<2>> while Sprinting."
+msgstr "移動速度と騎乗速度を<<1>>上げる。\r\n\r\nさらにダッシュの間、体力とマジカ再生を<<2>>増加させる。"
+
+#: 198758357-0-60560
+msgctxt "198758357-0-60560"
+msgid "Windrunning"
+msgstr "風の走り手"
+
+#: 132143172-0-63150
+msgctxt "132143172-0-63150"
+msgid "When you block three spells within <<1>> of each other, your next damaging Magicka ability used within <<2>> will always be a Critical Strike."
+msgstr "<<1>>以内に呪文を3回ブロックすると、<<2>>以内に使う、次のダメージを与えるマジカアビリティが常時クリティカル攻撃になる。"
+
+#: 198758357-0-63150
+msgctxt "198758357-0-63150"
+msgid "Vengeance"
+msgstr "復讐"
+
+#: 132143172-0-63880
+msgctxt "132143172-0-63880"
+msgid "Increases your damage done against Off Balance enemies by <<1>>."
+msgstr "フラフラ状態の敵に対するダメージを<<1>>増加させる。"
+
+#: 198758357-0-63880
+msgctxt "198758357-0-63880"
+msgid "Exploiter"
+msgstr "搾取者"
+
+#: 132143172-0-62274
+msgctxt "132143172-0-62274"
+msgid "Improves your mastery with mounts, removing all mount Stamina costs outside of combat."
+msgstr "騎乗の熟練度をアップして、戦闘外の騎乗動物のスタミナ消費をすべて取り除く。"
+
+#: 198758357-0-62274
+msgctxt "198758357-0-62274"
+msgid "War Mount"
+msgstr "騎乗熟練"
+
 #: 132143172-0-61660
 msgctxt "132143172-0-61660"
 msgid "When you take Critical Damage, you heal for <<1>> Health."
@@ -333,25 +321,35 @@ msgctxt "198758357-0-61660"
 msgid "Resilient"
 msgstr "打たれ強さ"
 
-#: 132143172-0-61555
-msgctxt "132143172-0-61555"
-msgid "Increases your Spell Penetration by <<1>>."
-msgstr "呪文貫通力が<<1>>上昇する。"
+#: 132143172-0-63843
+msgctxt "132143172-0-63843"
+msgid "Reduces your damage taken from Flame, Frost, Shock, and Magic Damage by <<1>>."
+msgstr "自分に対する炎、氷結、雷撃、魔法ダメージを<<1>>減少させる。"
 
-#: 198758357-0-61555
-msgctxt "198758357-0-61555"
-msgid "Spell Erosion"
-msgstr "呪文浸食"
+#: 198758357-0-63843
+msgctxt "198758357-0-63843"
+msgid "Elemental Defender"
+msgstr "属性の守り手"
 
-#: 132143172-0-61548
-msgctxt "132143172-0-61548"
-msgid "Reduces the cost of Sneak by <<1>>."
-msgstr "隠密の消費を<<1>>減らす。"
+#: 132143172-0-59300
+msgctxt "132143172-0-59300"
+msgid "While you are resurrecting another player, your damage taken is reduced by <<1>>."
+msgstr "他のプレイヤーの蘇生中、被ダメージが<<1>>減少する。"
 
-#: 198758357-0-61548
-msgctxt "198758357-0-61548"
-msgid "Shade"
-msgstr "影"
+#: 198758357-0-59300
+msgctxt "198758357-0-59300"
+msgid "Field Physician"
+msgstr "戦場医薬師"
+
+#: 132143172-0-63844
+msgctxt "132143172-0-63844"
+msgid "Reduces your damage taken from Physical, Poison, and Disease Damage by <<1>>."
+msgstr "自分に対する物理、毒、病気ダメージを<<1>>減少させる。"
+
+#: 198758357-0-63844
+msgctxt "198758357-0-63844"
+msgid "Hardy"
+msgstr "頑丈"
 
 #: 132143172-0-61546
 msgctxt "132143172-0-61546"
@@ -373,15 +371,35 @@ msgctxt "198758357-0-61426"
 msgid "Shadowstrike"
 msgstr "シャドウストライク"
 
-#: 132143172-0-60662
-msgctxt "132143172-0-60662"
-msgid "Increases your damage done to enemies with a damage shield by <<1>>."
-msgstr "ダメージシールドを持つ敵に対するダメージを<<1>>増加させる。"
+#: 132143172-0-61548
+msgctxt "132143172-0-61548"
+msgid "Reduces the cost of Sneak by <<1>>."
+msgstr "隠密の消費を<<1>>減らす。"
 
-#: 198758357-0-60662
-msgctxt "198758357-0-60662"
-msgid "Shattering Blows"
-msgstr "粉砕の一撃"
+#: 198758357-0-61548
+msgctxt "198758357-0-61548"
+msgid "Shade"
+msgstr "影"
+
+#: 132143172-0-63847
+msgctxt "132143172-0-63847"
+msgid "Increases your damage done with damage over time effects by <<1>>."
+msgstr "継続ダメージ効果によるダメージを<<1>>増加させる。"
+
+#: 198758357-0-63847
+msgctxt "198758357-0-63847"
+msgid "Thaumaturge"
+msgstr "魔術の素質"
+
+#: 132143172-0-62516
+msgctxt "132143172-0-62516"
+msgid "When you die, you heal all allies within |cffffff8|r meters of you for <<1>> Health."
+msgstr "死んだ時、|cffffff8|rメートル以内の味方体力を全て<<1>>回復する。"
+
+#: 198758357-0-62516
+msgctxt "198758357-0-62516"
+msgid "Mara's Gift"
+msgstr "マーラの贈り物"
 
 #: 132143172-0-60649
 msgctxt "132143172-0-60649"
@@ -393,6 +411,256 @@ msgctxt "198758357-0-60649"
 msgid "Shadow Ward"
 msgstr "影の結界"
 
+#: 132143172-0-60407
+msgctxt "132143172-0-60407"
+msgid "When you use Bash, you have a |cffffff20|r% chance to heal for <<1>> Health."
+msgstr "強撃を使用した時、|cffffff20|r%の確率で体力を<<1>>回復する。"
+
+#: 198758357-0-60407
+msgctxt "198758357-0-60407"
+msgid "Invigorating Bash"
+msgstr "生気の強撃"
+
+#: 132143172-0-59582
+msgctxt "132143172-0-59582"
+msgid "When you resurrect another player, you increase their Magicka Recovery by <<1>> for <<2>>."
+msgstr "他のプレイヤーを生き返らせた際、そのプレイヤーのマジカ再生を<<1>>、<<2>>の間増加させる。"
+
+#: 198758357-0-59582
+msgctxt "198758357-0-59582"
+msgid "Infusion"
+msgstr "注入"
+
+#: 132143172-0-63848
+msgctxt "132143172-0-63848"
+msgid "Increases your Flame, Frost, Shock, and Magic Damage done by <<1>>."
+msgstr "炎、氷結、雷撃、魔法ダメージを<<1>>増加させる。"
+
+#: 198758357-0-63848
+msgctxt "198758357-0-63848"
+msgid "Elemental Expert"
+msgstr "属性の達人"
+
+#: 132143172-0-58899
+msgctxt "132143172-0-58899"
+msgid "Reduces the cost of Bash by <<1>>."
+msgstr "強撃の消費を<<1>>減少させる。"
+
+#: 198758357-0-58899
+msgctxt "198758357-0-58899"
+msgid "Bashing Focus"
+msgstr "集中強撃"
+
+#: 132143172-0-59626
+msgctxt "132143172-0-59626"
+msgid "Increases your Spell Critical by <<1>>."
+msgstr "呪文クリティカルが<<1>>上昇する。"
+
+#: 198758357-0-59626
+msgctxt "198758357-0-59626"
+msgid "Spell Precision"
+msgstr "呪文精度"
+
+#: 132143172-0-60413
+msgctxt "132143172-0-60413"
+msgid "When you fall below |cffffff20|r% Health you gain Major Heroism, granting <<1>> Ultimate every |cffffff1.5|r seconds for <<2>>. This effect can occur once every <<3>>."
+msgstr "体力が|cffffff20|r% 以下になると、勇壮(強)を獲得して<<1>>アルティマを|cffffff1.5|r秒ごとに<<2>>得る。この効果は<<3>>ごとに発動する。"
+
+#: 198758357-0-60413
+msgctxt "198758357-0-60413"
+msgid "Last Stand"
+msgstr "ラスト・スタンド"
+
+#: 132143172-0-59346
+msgctxt "132143172-0-59346"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 198758357-0-59346
+msgctxt "198758357-0-59346"
+msgid "Mooncalf"
+msgstr "奇生動物"
+
+#: 132143172-0-56630
+msgctxt "132143172-0-56630"
+msgid "Increases the amount of gold you find in treasure chests and safeboxes by <<1>>."
+msgstr "宝箱や金庫から手に入るゴールドが<<1>>増える。"
+
+#: 198758357-0-56630
+msgctxt "198758357-0-56630"
+msgid "Fortune Seeker"
+msgstr "富の探求者"
+
+#: 132143172-0-59105
+msgctxt "132143172-0-59105"
+msgid "Increases your Critical Damage and Critical Healing with Stamina abilities by <<1>>."
+msgstr "スタミナアビリティによるクリティカルダメージとクリティカル回復の量を<<1>>増加させる。"
+
+#: 198758357-0-59105
+msgctxt "198758357-0-59105"
+msgid "Precise Strikes"
+msgstr "精密攻撃"
+
+#: 132143172-0-60374
+msgctxt "132143172-0-60374"
+msgid "Increases your Health Recovery by <<1>>."
+msgstr "体力再生を<<1>>アップする。"
+
+#: 198758357-0-60374
+msgctxt "198758357-0-60374"
+msgid "Healthy"
+msgstr "健康"
+
+#: 132143172-0-60494
+msgctxt "132143172-0-60494"
+msgid "Increases your crafting inspiration gained by <<1>>."
+msgstr "獲得するクラフトのインスピレーションが<<1>>増加する。"
+
+#: 198758357-0-60494
+msgctxt "198758357-0-60494"
+msgid "Inspiration Boost"
+msgstr "閃き"
+
+#: 132143172-0-59948
+msgctxt "132143172-0-59948"
+msgid "Increases the effectiveness of your damage shields by <<1>>."
+msgstr "ダメージシールドの有効性を<<1>>上げる。"
+
+#: 198758357-0-59948
+msgctxt "198758357-0-59948"
+msgid "Bastion"
+msgstr "砦"
+
+#: 132143172-0-60370
+msgctxt "132143172-0-60370"
+msgid "When you deal Critical Damage, you heal for <<1>> Health. This effect can occur once every <<2>>."
+msgstr "クリティカルダメージを与えると、体力を<<1>>回復する。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-60370
+msgctxt "198758357-0-60370"
+msgid "Critical Leech"
+msgstr "クリティカル吸血"
+
+#: 132143172-0-64067
+msgctxt "132143172-0-64067"
+msgid "When you begin Bracing, you gain a damage shield that absorbs <<1>> damage for <<2>>. This effect can occur once every <<3>>."
+msgstr "踏ん張りを発動すると、<<1>>ダメージを吸収するダメージシールドを<<2>>の間得る。この効果は<<3>>ごとに発動する。"
+
+#: 198758357-0-64067
+msgctxt "198758357-0-64067"
+msgid "Reinforced"
+msgstr "強化"
+
+#: 132143172-0-92431
+msgctxt "132143172-0-92431"
+msgid "Reduces the cost of Break Free by <<1>>."
+msgstr "打破の消費が<<1>>減少する。"
+
+#: 198758357-0-92431
+msgctxt "198758357-0-92431"
+msgid "Warlord"
+msgstr "武将"
+
+#: 132143172-0-63099
+msgctxt "132143172-0-63099"
+msgid "When you interrupt an enemy, your next Physical Damage ability used within <<1>> deals <<2>> additional damage."
+msgstr "敵を妨害した時、<<1>>以内に使う次の物理ダメージアビリティが追加ダメージ<<2>>を与える。"
+
+#: 198758357-0-63099
+msgctxt "198758357-0-63099"
+msgid "Opportunist"
+msgstr "風見鶏"
+
+#: 132143172-0-62760
+msgctxt "132143172-0-62760"
+msgid "Increases your Spell Resistance by <<1>>."
+msgstr "呪文耐性が<<1>>上昇する。"
+
+#: 198758357-0-62760
+msgctxt "198758357-0-62760"
+msgid "Spell Shield"
+msgstr "呪文の盾"
+
+#: 132143172-0-63850
+msgctxt "132143172-0-63850"
+msgid "Reduces your damage taken from damage over time effects by <<1>>."
+msgstr "継続ダメージ効果によるダメージを<<1>>減少させる。"
+
+#: 198758357-0-63850
+msgctxt "198758357-0-63850"
+msgid "Thick Skinned"
+msgstr "分厚い皮膚"
+
+#: 132143172-0-63851
+msgctxt "132143172-0-63851"
+msgid "Increases your healing received by <<1>>."
+msgstr "被回復力を<<1>>増加させる。"
+
+#: 198758357-0-63851
+msgctxt "198758357-0-63851"
+msgid "Quick Recovery"
+msgstr "クイック再生"
+
+#: 132143172-0-63852
+msgctxt "132143172-0-63852"
+msgid "When you use Roll Dodge, your Physical and Spell Resistance is increased by <<1>> for <<2>>."
+msgstr "ロール回避使用時、物理耐性と呪文耐性が<<1>>、<<2>>の間上昇する。"
+
+#: 198758357-0-63852
+msgctxt "198758357-0-63852"
+msgid "Phase"
+msgstr "フェーズ"
+
+#: 132143172-0-61555
+msgctxt "132143172-0-61555"
+msgid "Increases your Spell Penetration by <<1>>."
+msgstr "呪文貫通力が<<1>>上昇する。"
+
+#: 198758357-0-61555
+msgctxt "198758357-0-61555"
+msgid "Spell Erosion"
+msgstr "呪文浸食"
+
+#: 132143172-0-63854
+msgctxt "132143172-0-63854"
+msgid "Increases the Magicka and Stamina your fully-charged Heavy Attacks restore by <<1>>."
+msgstr "完全にチャージされた重攻撃で回復されるマジカとスタミナを<<1>>増加させる。"
+
+#: 198758357-0-63854
+msgctxt "198758357-0-63854"
+msgid "Tenacity"
+msgstr "執念"
+
+#: 132143172-0-59630
+msgctxt "132143172-0-59630"
+msgid "Increases your healing done by <<1>>."
+msgstr "治癒の効果が<<1>>増加する。"
+
+#: 198758357-0-59630
+msgctxt "198758357-0-59630"
+msgid "Blessed"
+msgstr "祝福"
+
+#: 132143172-0-60427
+msgctxt "132143172-0-60427"
+msgid "When you are resurrected by another player, you gain a damage shield that absorbs <<1>> damage for <<2>>."
+msgstr "他のプレイヤーから蘇生された時、<<1>>ダメージを吸収するダメージシールドを<<2>>の間得る。"
+
+#: 198758357-0-60427
+msgctxt "198758357-0-60427"
+msgid "Revival"
+msgstr "復活"
+
+#: 132143172-0-60229
+msgctxt "132143172-0-60229"
+msgid "When you block a melee attack, you have a |cffffff15|r% chance to deal <<1>> to the enemy. This effect can occur once every <<2>>."
+msgstr "近接攻撃をブロックすると、|cffffff15|r%の確率で敵に<<1>>を与える。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-60229
+msgctxt "198758357-0-60229"
+msgid "Riposte"
+msgstr "リポステ"
+
 #: 132143172-0-60624
 msgctxt "132143172-0-60624"
 msgid "Increases your Physical Resistance by <<1>> while wearing |cffffff5|r or more pieces of Heavy Armor."
@@ -402,36 +670,6 @@ msgstr "重装鎧を|cffffff5|rつ以上装備すると、物理耐性が<<1>>�
 msgctxt "198758357-0-60624"
 msgid "Heavy Armor Focus"
 msgstr "フォーカス(重装鎧)"
-
-#: 132143172-0-60566
-msgctxt "132143172-0-60566"
-msgid "Increases the quality of items you find in treasure chests."
-msgstr "宝箱で見つけたアイテムの質を上げる。"
-
-#: 198758357-0-60566
-msgctxt "198758357-0-60566"
-msgid "Treasure Hunter"
-msgstr "トレジャーハンター"
-
-#: 132143172-0-60560
-msgctxt "132143172-0-60560"
-msgid "Increases your Movement Speed and Mounted Speed by <<1>>.\n\nIncreases your Health and Magicka Recovery by <<2>> while Sprinting."
-msgstr "移動速度と騎乗速度を<<1>>上げる。\r\n\r\nさらにダッシュの間、体力とマジカ再生を<<2>>増加させる。"
-
-#: 198758357-0-60560
-msgctxt "198758357-0-60560"
-msgid "Windrunning"
-msgstr "風の走り手"
-
-#: 132143172-0-60555
-msgctxt "132143172-0-60555"
-msgid "Reduces your gathering time by <<1>>."
-msgstr "収集時間を<<1>>減らす。"
-
-#: 198758357-0-60555
-msgctxt "198758357-0-60555"
-msgid "Master Gatherer"
-msgstr "収集の達人"
 
 #: 132143172-0-60503
 msgctxt "132143172-0-60503"
@@ -463,108 +701,6 @@ msgctxt "198758357-0-60501"
 msgid "Merchant Favored"
 msgstr "商人のお気に入り"
 
-#: 132143172-0-60494
-msgctxt "132143172-0-60494"
-msgid "Increases your crafting inspiration gained by <<1>>."
-msgstr "獲得するクラフトのインスピレーションが<<1>>増加する。"
-
-#: 198758357-0-60494
-msgctxt "198758357-0-60494"
-msgid "Inspiration Boost"
-msgstr "閃き"
-
-#: 132143172-0-60486
-msgctxt "132143172-0-60486"
-msgid "When you use Roll Dodge to dodge an attack, you set the enemy Off Balance."
-msgstr "ロール回避を使って攻撃を回避すると、敵をフラフラ状態にする。"
-
-#: 198758357-0-60486
-msgctxt "198758357-0-60486"
-msgid "Tactician"
-msgstr "シザース"
-
-#: 132143172-0-60427
-msgctxt "132143172-0-60427"
-msgid "When you are resurrected by another player, you gain a damage shield that absorbs <<1>> damage for <<2>>."
-msgstr "他のプレイヤーから蘇生された時、<<1>>ダメージを吸収するダメージシールドを<<2>>の間得る。"
-
-#: 198758357-0-60427
-msgctxt "198758357-0-60427"
-msgid "Revival"
-msgstr "復活"
-
-#: 132143172-0-60413
-#, fuzzy
-msgctxt "132143172-0-60413"
-msgid "When you fall below |cffffff20|r% Health you gain Major Heroism, granting <<1>> Ultimate every |cffffff1.5|r seconds for <<2>>. This effect can occur once every <<3>>."
-msgstr "体力が|cffffff20|r% 以下になると、勇壮(強)を獲得して<<1>>アルティマを|cffffff1.5|r秒ごとに<<2>>得る。この効果は<<3>>ごとに発動する。"
-
-#: 198758357-0-60413
-msgctxt "198758357-0-60413"
-msgid "Last Stand"
-msgstr "ラスト・スタンド"
-
-#: 132143172-0-60407
-msgctxt "132143172-0-60407"
-msgid "When you use Bash, you have a |cffffff20|r% chance to heal for <<1>> Health."
-msgstr "強撃を使用した時、|cffffff20|r%の確率で体力を<<1>>回復する。"
-
-#: 198758357-0-60407
-msgctxt "198758357-0-60407"
-msgid "Invigorating Bash"
-msgstr "生気の強撃"
-
-#: 132143172-0-60398
-msgctxt "132143172-0-60398"
-msgid "When you use Bash, you have a |cffffff33|r% chance to reduce the enemy's Movement Speed by <<1>> for <<2>>."
-msgstr "強撃を使用した時、|cffffff33|r%の確率で敵の移動速度を<<1>>、<<2>>の間低下させる。"
-
-#: 198758357-0-60398
-msgctxt "198758357-0-60398"
-msgid "Ensnare"
-msgstr "減速"
-
-#: 132143172-0-60384
-msgctxt "132143172-0-60384"
-msgid "Increases your Critical Resistance by <<1>>."
-msgstr "クリティカル耐性を<<1>>増加させる。"
-
-#: 198758357-0-60384
-msgctxt "198758357-0-60384"
-msgid "Resistant"
-msgstr "耐性"
-
-#: 132143172-0-60374
-msgctxt "132143172-0-60374"
-msgid "Increases your Health Recovery by <<1>>."
-msgstr "体力再生を<<1>>アップする。"
-
-#: 198758357-0-60374
-msgctxt "198758357-0-60374"
-msgid "Healthy"
-msgstr "健康"
-
-#: 132143172-0-60370
-#, fuzzy
-msgctxt "132143172-0-60370"
-msgid "When you deal Critical Damage, you heal for <<1>> Health. This effect can occur once every <<2>>."
-msgstr "クリティカルダメージを与えると、体力を<<1>>回復する。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-60370
-msgctxt "198758357-0-60370"
-msgid "Critical Leech"
-msgstr "クリティカル吸血"
-
-#: 132143172-0-60229
-msgctxt "132143172-0-60229"
-msgid "When you block a melee attack, you have a |cffffff15|r% chance to deal <<1>> to the enemy. This effect can occur once every <<2>>."
-msgstr "近接攻撃をブロックすると、|cffffff15|r%の確率で敵に<<1>>を与える。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-60229
-msgctxt "198758357-0-60229"
-msgid "Riposte"
-msgstr "リポステ"
-
 #: 132143172-0-59953
 msgctxt "132143172-0-59953"
 msgid "Reduces your damage taken from player Light and Heavy Attacks by <<1>>."
@@ -575,162 +711,22 @@ msgctxt "198758357-0-59953"
 msgid "Expert Defender"
 msgstr "熟練した守り手"
 
-#: 132143172-0-59948
-msgctxt "132143172-0-59948"
-msgid "Increases the effectiveness of your damage shields by <<1>>."
-msgstr "ダメージシールドの有効性を<<1>>上げる。"
+#: 132143172-0-60662
+msgctxt "132143172-0-60662"
+msgid "Increases your damage done to enemies with a damage shield by <<1>>."
+msgstr "ダメージシールドを持つ敵に対するダメージを<<1>>増加させる。"
 
-#: 198758357-0-59948
-msgctxt "198758357-0-59948"
-msgid "Bastion"
-msgstr "砦"
+#: 198758357-0-60662
+msgctxt "198758357-0-60662"
+msgid "Shattering Blows"
+msgstr "粉砕の一撃"
 
-#: 132143172-0-59893
-msgctxt "132143172-0-59893"
-msgid "When you drink a potion, you gain a damage shield that absorbs <<1>> damage for <<2>>."
-msgstr "薬を飲むと、<<1>>ダメージを吸収するダメージシールドを<<2>>の間得る。"
+#: 132143172-0-60384
+msgctxt "132143172-0-60384"
+msgid "Increases your Critical Resistance by <<1>>."
+msgstr "クリティカル耐性を<<1>>増加させる。"
 
-#: 198758357-0-59893
-msgctxt "198758357-0-59893"
-msgid "Determination"
-msgstr "決意"
-
-#: 132143172-0-59630
-msgctxt "132143172-0-59630"
-msgid "Increases your healing done by <<1>>."
-msgstr "治癒の効果が<<1>>増加する。"
-
-#: 198758357-0-59630
-msgctxt "198758357-0-59630"
-msgid "Blessed"
-msgstr "祝福"
-
-#: 132143172-0-59626
-msgctxt "132143172-0-59626"
-msgid "Increases your Spell Critical by <<1>>."
-msgstr "呪文クリティカルが<<1>>上昇する。"
-
-#: 198758357-0-59626
-msgctxt "198758357-0-59626"
-msgid "Spell Precision"
-msgstr "呪文精度"
-
-#: 132143172-0-59582
-msgctxt "132143172-0-59582"
-msgid "When you resurrect another player, you increase their Magicka Recovery by <<1>> for <<2>>."
-msgstr "他のプレイヤーを生き返らせた際、そのプレイヤーのマジカ再生を<<1>>、<<2>>の間増加させる。"
-
-#: 198758357-0-59582
-msgctxt "198758357-0-59582"
-msgid "Infusion"
-msgstr "注入"
-
-#: 132143172-0-59577
-msgctxt "132143172-0-59577"
-msgid "Increases your Magicka Recovery by <<1>>."
-msgstr "マジカ再生を<<1>>アップする。"
-
-#: 198758357-0-59577
-msgctxt "198758357-0-59577"
-msgid "Arcanist"
-msgstr "神秘師"
-
-#: 132143172-0-59526
-msgctxt "132143172-0-59526"
-msgid "When you drink a potion, the cost of your next Magicka ability used within <<1>> is reduced by <<2>>."
-msgstr "薬を飲むと、<<1>>以内に使う次のマジカアビリティ消費が<<2>>減少する。"
-
-#: 198758357-0-59526
-msgctxt "198758357-0-59526"
-msgid "Foresight"
-msgstr "前兆"
-
-#: 132143172-0-59418
-msgctxt "132143172-0-59418"
-msgid "Increases your Weapon Critical by <<1>>."
-msgstr "武器クリティカルが<<1>>上昇する。"
-
-#: 198758357-0-59418
-msgctxt "198758357-0-59418"
-msgid "Perfect Strike"
-msgstr "完璧なる打撃"
-
-#: 132143172-0-59346
-msgctxt "132143172-0-59346"
-msgid "Increases your Stamina Recovery by <<1>>."
-msgstr "スタミナ再生を<<1>>アップする。"
-
-#: 198758357-0-59346
-msgctxt "198758357-0-59346"
-msgid "Mooncalf"
-msgstr "奇生動物"
-
-#: 132143172-0-59300
-msgctxt "132143172-0-59300"
-msgid "While you are resurrecting another player, your damage taken is reduced by <<1>>."
-msgstr "他のプレイヤーの蘇生中、被ダメージが<<1>>減少する。"
-
-#: 198758357-0-59300
-msgctxt "198758357-0-59300"
-msgid "Field Physician"
-msgstr "戦場医薬師"
-
-#: 132143172-0-59298
-msgctxt "132143172-0-59298"
-msgid "Increases the effectiveness of your healing reduction abilities by <<1>>."
-msgstr "治癒低下のアビリティの有効性を<<1>>上げる。"
-
-#: 198758357-0-59298
-msgctxt "198758357-0-59298"
-msgid "Befoul"
-msgstr "汚染"
-
-#: 132143172-0-59286
-msgctxt "132143172-0-59286"
-msgid "When you use Break Free, the cost of your next Stamina ability used within <<1>> is reduced by <<2>>."
-msgstr "打破を使用した時の、<<1>>以内に使う次のスタミナアビリティ消費が<<2>>減少する。"
-
-#: 198758357-0-59286
-msgctxt "198758357-0-59286"
-msgid "Unchained"
-msgstr "打破"
-
-#: 132143172-0-59120
-msgctxt "132143172-0-59120"
-msgid "Increases your Physical Resistance by <<1>> while wearing |cffffff5|r or more pieces of Medium Armor."
-msgstr "中装鎧を|cffffff5|rつ以上装備すると、物理耐性が<<1>>増加する。"
-
-#: 198758357-0-59120
-msgctxt "198758357-0-59120"
-msgid "Medium Armor Focus"
-msgstr "フォーカス(中装鎧)"
-
-#: 132143172-0-59105
-msgctxt "132143172-0-59105"
-msgid "Increases your Critical Damage and Critical Healing with Stamina abilities by <<1>>."
-msgstr "スタミナアビリティによるクリティカルダメージとクリティカル回復の量を<<1>>増加させる。"
-
-#: 198758357-0-59105
-msgctxt "198758357-0-59105"
-msgid "Precise Strikes"
-msgstr "精密攻撃"
-
-#: 132143172-0-58899
-msgctxt "132143172-0-58899"
-msgid "Reduces the cost of Bash by <<1>>."
-msgstr "強撃の消費を<<1>>減少させる。"
-
-#: 198758357-0-58899
-msgctxt "198758357-0-58899"
-msgid "Bashing Focus"
-msgstr "集中強撃"
-
-#: 132143172-0-56630
-msgctxt "132143172-0-56630"
-msgid "Increases the amount of gold you find in treasure chests and safeboxes by <<1>>."
-msgstr "宝箱や金庫から手に入るゴールドが<<1>>増える。"
-
-#: 198758357-0-56630
-msgctxt "198758357-0-56630"
-msgid "Fortune Seeker"
-msgstr "富の探求者"
+#: 198758357-0-60384
+msgctxt "198758357-0-60384"
+msgid "Resistant"
+msgstr "耐性"

@@ -11,25 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-84680
-msgctxt "132143172-0-84680"
-msgid "Increases your experience gain with the One Hand and Shield skill line by |cffffff15|r%.\n\nIncreases the duration of any eaten food by |cffffff15|r minutes."
-msgstr "片手武器と盾スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n食べ物による効果の持続時間が|cffffff15|r分延長される。"
+#: 132143172-0-36009
+msgctxt "132143172-0-36009"
+msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
+msgstr "武器アビリティのコストを<<1>>減少させる。\r\n\r\n自身が受けている減速の効果を<<2>>減少させる。"
 
-#: 198758357-0-84680
-msgctxt "198758357-0-84680"
-msgid "Wayfarer"
-msgstr "旅人"
-
-#: 132143172-0-45315
-msgctxt "132143172-0-45315"
-msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
-msgstr "直接ダメージを与えると、スタミナを<<1>>回復する。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-45315
-msgctxt "198758357-0-45315"
-msgid "Adrenaline Rush"
-msgstr "アドレナリンラッシュ"
+#: 198758357-0-36009
+msgctxt "198758357-0-36009"
+msgid "Martial Training"
+msgstr "軍事訓練"
 
 #: 132143172-0-45313
 msgctxt "132143172-0-45313"
@@ -41,15 +31,25 @@ msgctxt "198758357-0-45313"
 msgid "Adrenaline Rush"
 msgstr "アドレナリンラッシュ"
 
-#: 132143172-0-45278
-msgctxt "132143172-0-45278"
-msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
-msgstr "武器アビリティのコストを<<1>>減少させる。\r\n\r\n自身が受けている減速の効果を<<2>>減少させる。"
+#: 132143172-0-45315
+msgctxt "132143172-0-45315"
+msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
+msgstr "直接ダメージを与えると、スタミナを<<1>>回復する。この効果は<<2>>ごとに発動する。"
 
-#: 198758357-0-45278
-msgctxt "198758357-0-45278"
-msgid "Martial Training"
-msgstr "軍事訓練"
+#: 198758357-0-45315
+msgctxt "198758357-0-45315"
+msgid "Adrenaline Rush"
+msgstr "アドレナリンラッシュ"
+
+#: 132143172-0-117752
+msgctxt "132143172-0-117752"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr "最大スタミナ値が<<1>>増加する。"
+
+#: 198758357-0-117752
+msgctxt "198758357-0-117752"
+msgid "Conditioning"
+msgstr "コンディション"
 
 #: 132143172-0-45277
 msgctxt "132143172-0-45277"
@@ -58,26 +58,6 @@ msgstr "武器アビリティのコストを<<1>>減少させる。\r\n\r\n自�
 
 #: 198758357-0-45277
 msgctxt "198758357-0-45277"
-msgid "Martial Training"
-msgstr "軍事訓練"
-
-#: 132143172-0-36546
-msgctxt "132143172-0-36546"
-msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
-msgstr "直接ダメージを与えると、スタミナを<<1>>回復する。この効果は<<2>>ごとに発動する。"
-
-#: 198758357-0-36546
-msgctxt "198758357-0-36546"
-msgid "Adrenaline Rush"
-msgstr "アドレナリンラッシュ"
-
-#: 132143172-0-36009
-msgctxt "132143172-0-36009"
-msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
-msgstr "武器アビリティのコストを<<1>>減少させる。\r\n\r\n自身が受けている減速の効果を<<2>>減少させる。"
-
-#: 198758357-0-36009
-msgctxt "198758357-0-36009"
 msgid "Martial Training"
 msgstr "軍事訓練"
 
@@ -101,12 +81,32 @@ msgctxt "198758357-0-117753"
 msgid "Conditioning"
 msgstr "コンディション"
 
-#: 132143172-0-117752
-msgctxt "132143172-0-117752"
-msgid "Increases your Max Stamina by <<1>>."
-msgstr "最大スタミナ値が<<1>>増加する。"
+#: 132143172-0-45278
+msgctxt "132143172-0-45278"
+msgid "Reduces the cost of your weapon abilities by <<1>>.\n\nReduces the effectiveness of snares applied to you by <<2>>."
+msgstr "武器アビリティのコストを<<1>>減少させる。\r\n\r\n自身が受けている減速の効果を<<2>>減少させる。"
 
-#: 198758357-0-117752
-msgctxt "198758357-0-117752"
-msgid "Conditioning"
-msgstr "コンディション"
+#: 198758357-0-45278
+msgctxt "198758357-0-45278"
+msgid "Martial Training"
+msgstr "軍事訓練"
+
+#: 132143172-0-36546
+msgctxt "132143172-0-36546"
+msgid "When you deal direct damage, you restore <<1>> Stamina. This effect can occur once every <<2>>."
+msgstr "直接ダメージを与えると、スタミナを<<1>>回復する。この効果は<<2>>ごとに発動する。"
+
+#: 198758357-0-36546
+msgctxt "198758357-0-36546"
+msgid "Adrenaline Rush"
+msgstr "アドレナリンラッシュ"
+
+#: 132143172-0-84680
+msgctxt "132143172-0-84680"
+msgid "Increases your experience gain with the One Hand and Shield skill line by |cffffff15|r%.\n\nIncreases the duration of any eaten food by |cffffff15|r minutes."
+msgstr "片手武器と盾スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n食べ物による効果の持続時間が|cffffff15|r分延長される。"
+
+#: 198758357-0-84680
+msgctxt "198758357-0-84680"
+msgid "Wayfarer"
+msgstr "旅人"

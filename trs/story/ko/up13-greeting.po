@@ -11,78 +11,53 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 150525940-0-55728
-msgctxt "150525940-0-55728"
-msgid "I've finished the Clothier job."
-msgstr "재봉 작업을 끝냈습니다."
-
 #: 150525940-0-55727
 msgctxt "150525940-0-55727"
 msgid "I've finished the Clothier job."
 msgstr "재봉 작업을 끝냈습니다."
 
-#: 150525940-0-55726
-msgctxt "150525940-0-55726"
-msgid "I've finished the Woodworking job."
-msgstr "목공 작업을 끝냈습니다."
-
-#: 150525940-0-55725
-msgctxt "150525940-0-55725"
-msgid "I've finished the Woodworking job."
-msgstr "목공 작업을 끝냈습니다."
-
-#: 150525940-0-55724
-msgctxt "150525940-0-55724"
-msgid "I've finished the Blacksmithing job."
-msgstr "대장 작업을 끝냈습니다."
+#: 150525940-0-55728
+msgctxt "150525940-0-55728"
+msgid "I've finished the Clothier job."
+msgstr "재봉 작업을 끝냈습니다."
 
 #: 150525940-0-55723
 msgctxt "150525940-0-55723"
 msgid "I've finished the Blacksmithing job."
 msgstr "대장 작업을 끝냈습니다."
 
-#: 150525940-0-55722
-msgctxt "150525940-0-55722"
-msgid "I've finished the Enchanting job."
-msgstr "마법부여 작업을 끝냈습니다."
+#: 150525940-0-55724
+msgctxt "150525940-0-55724"
+msgid "I've finished the Blacksmithing job."
+msgstr "대장 작업을 끝냈습니다."
 
-#: 150525940-0-55203
-msgctxt "150525940-0-55203"
-msgid "I have what you requested."
-msgstr "나는 네가 요구 한 것을 가지고있다.-G-"
+#: 150525940-0-55725
+msgctxt "150525940-0-55725"
+msgid "I've finished the Woodworking job."
+msgstr "목공 작업을 끝냈습니다."
 
-#: 150525940-0-55173
-msgctxt "150525940-0-55173"
-msgid "I've finished the Alchemy job."
-msgstr "연금술 작업을 끝냈습니다."
-
-#: 150525940-0-55172
-msgctxt "150525940-0-55172"
-msgid "I've finished the Alchemy job."
-msgstr "연금술 작업을 끝냈습니다."
-
-#: 150525940-0-55171
-msgctxt "150525940-0-55171"
-msgid "I've finished the Alchemy job."
-msgstr "연금술 작업을 끝냈습니다."
-
-#: 150525940-0-55170
-msgctxt "150525940-0-55170"
-msgid "I've finished the Alchemy job."
-msgstr "연금술 작업을 끝냈습니다."
+#: 150525940-0-55726
+msgctxt "150525940-0-55726"
+msgid "I've finished the Woodworking job."
+msgstr "목공 작업을 끝냈습니다."
 
 #: 150525940-0-55169
 msgctxt "150525940-0-55169"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
 
-#: 150525940-0-55168
-msgctxt "150525940-0-55168"
-msgid "I've finished the Alchemy job."
-msgstr "연금술 작업을 끝냈습니다."
+#: 150525940-0-55203
+msgctxt "150525940-0-55203"
+msgid "I have what you requested."
+msgstr "나는 네가 요구 한 것을 가지고있다.-G-"
 
-#: 150525940-0-55167
-msgctxt "150525940-0-55167"
+#: 150525940-0-55722
+msgctxt "150525940-0-55722"
+msgid "I've finished the Enchanting job."
+msgstr "마법부여 작업을 끝냈습니다."
+
+#: 150525940-0-55165
+msgctxt "150525940-0-55165"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
 
@@ -91,13 +66,73 @@ msgctxt "150525940-0-55166"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
 
-#: 150525940-0-55165
-msgctxt "150525940-0-55165"
+#: 150525940-0-55167
+msgctxt "150525940-0-55167"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
 
-#: 150525940-0-55164
-msgctxt "150525940-0-55164"
+#: 150525940-0-55168
+msgctxt "150525940-0-55168"
+msgid "I've finished the Alchemy job."
+msgstr "연금술 작업을 끝냈습니다."
+
+#: 150525940-0-55172
+msgctxt "150525940-0-55172"
+msgid "I've finished the Alchemy job."
+msgstr "연금술 작업을 끝냈습니다."
+
+#: 150525940-0-55173
+msgctxt "150525940-0-55173"
+msgid "I've finished the Alchemy job."
+msgstr "연금술 작업을 끝냈습니다."
+
+#: 150525940-0-55153
+msgctxt "150525940-0-55153"
+msgid "I've finished the Provisioning job."
+msgstr "요리 작업을 끝냈습니다."
+
+#: 150525940-0-55170
+msgctxt "150525940-0-55170"
+msgid "I've finished the Alchemy job."
+msgstr "연금술 작업을 끝냈습니다."
+
+#: 150525940-0-55171
+msgctxt "150525940-0-55171"
+msgid "I've finished the Alchemy job."
+msgstr "연금술 작업을 끝냈습니다."
+
+#: 150525940-0-55158
+msgctxt "150525940-0-55158"
+msgid "I've finished the Woodworking job."
+msgstr "목공 작업을 끝냈습니다."
+
+#: 150525940-0-55159
+msgctxt "150525940-0-55159"
+msgid "I've finished the Woodworking job."
+msgstr "목공 작업을 끝냈습니다."
+
+#: 150525940-0-55155
+msgctxt "150525940-0-55155"
+msgid "I've finished the Enchanting job."
+msgstr "마법부여 작업을 끝냈습니다."
+
+#: 150525940-0-55156
+msgctxt "150525940-0-55156"
+msgid "I've finished the Blacksmithing job."
+msgstr "대장 작업을 끝냈습니다."
+
+#: 150525940-0-55157
+msgctxt "150525940-0-55157"
+msgid "I've finished the Blacksmithing job."
+msgstr "대장 작업을 끝냈습니다."
+
+#: 150525940-0-55161
+msgctxt "150525940-0-55161"
+msgid "I've finished the Clothier job."
+msgstr "재봉 작업을 끝냈습니다."
+
+#: 150525940-0-55162
+msgctxt "150525940-0-55162"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
 
@@ -106,52 +141,17 @@ msgctxt "150525940-0-55163"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
 
-#: 150525940-0-55162
-msgctxt "150525940-0-55162"
+#: 150525940-0-55164
+msgctxt "150525940-0-55164"
 msgid "I've finished the Alchemy job."
 msgstr "연금술 작업을 끝냈습니다."
-
-#: 150525940-0-55161
-msgctxt "150525940-0-55161"
-msgid "I've finished the Clothier job."
-msgstr "재봉 작업을 끝냈습니다."
-
-#: 150525940-0-55160
-msgctxt "150525940-0-55160"
-msgid "I've finished the Clothier job."
-msgstr "재봉 작업을 끝냈습니다."
-
-#: 150525940-0-55159
-msgctxt "150525940-0-55159"
-msgid "I've finished the Woodworking job."
-msgstr "목공 작업을 끝냈습니다."
-
-#: 150525940-0-55158
-msgctxt "150525940-0-55158"
-msgid "I've finished the Woodworking job."
-msgstr "목공 작업을 끝냈습니다."
-
-#: 150525940-0-55157
-msgctxt "150525940-0-55157"
-msgid "I've finished the Blacksmithing job."
-msgstr "대장 작업을 끝냈습니다."
-
-#: 150525940-0-55156
-msgctxt "150525940-0-55156"
-msgid "I've finished the Blacksmithing job."
-msgstr "대장 작업을 끝냈습니다."
-
-#: 150525940-0-55155
-msgctxt "150525940-0-55155"
-msgid "I've finished the Enchanting job."
-msgstr "마법부여 작업을 끝냈습니다."
-
-#: 150525940-0-55153
-msgctxt "150525940-0-55153"
-msgid "I've finished the Provisioning job."
-msgstr "요리 작업을 끝냈습니다."
 
 #: 150525940-0-54592
 msgctxt "150525940-0-54592"
 msgid "I have the ingredients you requested."
 msgstr "필요한 재료를 가져왔어요."
+
+#: 150525940-0-55160
+msgctxt "150525940-0-55160"
+msgid "I've finished the Clothier job."
+msgstr "재봉 작업을 끝냈습니다."

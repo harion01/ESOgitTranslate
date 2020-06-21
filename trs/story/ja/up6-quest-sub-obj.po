@@ -11,31 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-36912
-msgctxt "256430276-0-36912"
-msgid "Place Hagraven Heads on Pikes"
-msgstr "ハグレイヴンの首を杭に突き刺す"
-
-#: 256430276-0-36893
-msgctxt "256430276-0-36893"
-msgid "Use the Rift to Escape to Tamriel"
-msgstr "裂け目を使ってタムリエルへ脱出する"
-
-#: 256430276-0-36889
-msgctxt "256430276-0-36889"
-msgid "Get to the Anchor Base"
-msgstr "アンカーの中心部に向かう"
-
-#: 256430276-0-36879
-msgctxt "256430276-0-36879"
-msgid "Destroy a Coldharbour Sentinel"
-msgstr "コールドハーバー・センチネルを破壊する"
-
-#: 256430276-0-36748
-msgctxt "256430276-0-36748"
-msgid "Return to <<1>>"
-msgstr "<<1>>のところに戻る"
-
 #: 256430276-0-36183
 msgctxt "256430276-0-36183"
 msgid "Collect the Final Ward"
@@ -45,11 +20,6 @@ msgstr "最後の結界を集める"
 msgctxt "256430276-0-21901"
 msgid "Activate Welkynd Stone and Kill <<1>>"
 msgstr "ウェルキンド石を発動させ、<<1>>を殺す"
-
-#: 256430276-0-14479
-msgctxt "256430276-0-14479"
-msgid "Enter the Northern Ruins"
-msgstr "北の遺跡"
 
 #: 256430276-0-14475
 msgctxt "256430276-0-14475"
@@ -61,10 +31,15 @@ msgctxt "256430276-0-14288"
 msgid "Collect a <<1>>"
 msgstr "<<1>>を手に入れる"
 
-#: 256430276-0-13442
-msgctxt "256430276-0-13442"
-msgid "Observe Balreth's Attack"
-msgstr "バルレスの攻撃を見守る"
+#: 256430276-0-36893
+msgctxt "256430276-0-36893"
+msgid "Use the Rift to Escape to Tamriel"
+msgstr "裂け目を使ってタムリエルへ脱出する"
+
+#: 256430276-0-14479
+msgctxt "256430276-0-14479"
+msgid "Enter the Northern Ruins"
+msgstr "北の遺跡"
 
 #: 121487972-0-10693
 msgctxt "121487972-0-10693"
@@ -75,3 +50,28 @@ msgstr "<<1>>と話す"
 msgctxt "121487972-0-10692"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
+
+#: 256430276-0-13442
+msgctxt "256430276-0-13442"
+msgid "Observe Balreth's Attack"
+msgstr "バルレスの攻撃を見守る"
+
+#: 256430276-0-36889
+msgctxt "256430276-0-36889"
+msgid "Get to the Anchor Base"
+msgstr "アンカーの中心部に向かう"
+
+#: 256430276-0-36912
+msgctxt "256430276-0-36912"
+msgid "Place Hagraven Heads on Pikes"
+msgstr "ハグレイヴンの首を杭に突き刺す"
+
+#: 256430276-0-36879
+msgctxt "256430276-0-36879"
+msgid "Destroy a Coldharbour Sentinel"
+msgstr "コールドハーバー・センチネルを破壊する"
+
+#: 256430276-0-36748
+msgctxt "256430276-0-36748"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"

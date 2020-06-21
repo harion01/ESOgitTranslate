@@ -11,15 +11,105 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-85132
-msgctxt "132143172-0-85132"
-msgid "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for <<1>> Health every <<2>> for <<3>>.\n\nAny friendly target you heal gains Major Force for <<4>>, increasing their Critical Damage by <<5>>."
-msgstr "원기를 회복하는 에너지를 방출합니다. 에너지는 <<3>> 동안 당신 주위를 회전하며 당신 또는 아군의 체력을 <<2>>마다 <<1>>만큼 회복시킵니다.\n\n회복을 받은 아군은 Major Force 효과를 <<4>> 동안 얻어 치명타 피해량이 <<5>> 증가합니다."
+#: 132143172-0-37232
+msgctxt "132143172-0-37232"
+msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
+msgstr "스태프의 보호 능력을 발동하여 당신 또는 근처의 체력이 가장 낮은 아군에게 <<1>> 피해를 흡수하는 보호막을 생성합니다.\n\n보호막의 강도는 대상이 입은 피해에 비례해 최대 <<2>>% 까지 증가합니다."
 
-#: 198758357-0-85132
-msgctxt "198758357-0-85132"
-msgid "Light's Champion"
-msgstr "Light's Champion"
+#: 198758357-0-37232
+msgctxt "198758357-0-37232"
+msgid "Steadfast Ward"
+msgstr "Steadfast Ward"
+
+#: 132143172-0-28536
+msgctxt "132143172-0-28536"
+msgid "Share your staff's life-giving energy, healing you or a nearby ally for <<1>> Health over <<2>>."
+msgstr "스태프가 가진 생명 에너지를 공유해 당신 또는 근처의 아군의 체력을 <<2>>에 걸쳐 <<1>>만큼 회복시킵니다."
+
+#: 198758357-0-28536
+msgctxt "198758357-0-28536"
+msgid "Regeneration"
+msgstr "Regeneration"
+
+#: 132143172-0-45519
+msgctxt "132143172-0-45519"
+msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+msgstr "체력이 |cffffff30|r% 미만인 아군에게 주는 치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-45519
+msgctxt "198758357-0-45519"
+msgid "Restoration Expert"
+msgstr "Restoration Expert"
+
+#: 132143172-0-40126
+msgctxt "132143172-0-40126"
+msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for <<3>>% of the shield's remaining strength every second."
+msgstr "스태프의 보호 능력을 발동하여 당신 또는 근처의 체력이 가장 낮은 아군에게 <<1>> 피해를 흡수하는 보호막을 생성합니다.\n\n보호막의 강도는 대상이 입은 피해에 비례해 최대 <<2>>% 까지 증가합니다.\n\n보호막의 지속 시간이 끝나면 남은 보호막의 <<3>>% 만큼 대상을 회복시킵니다."
+
+#: 198758357-0-40126
+msgctxt "198758357-0-40126"
+msgid "Healing Ward"
+msgstr "Healing Ward"
+
+#: 132143172-0-40103
+msgctxt "132143172-0-40103"
+msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>>, increasing you and your allies' Physical Resistance and Spell Resistance by <<3>> for <<4>>."
+msgstr "스태프를 땅에 내려쳐 축복을 발동해 당신과 전방의 아군들의 체력을 <<1>>만큼 회복시킵니다.\n\n또한 <<2>> 효과를 얻어 <<4>> 동안 당신과 아군의 물리 저항력과 마법 저항력이 <<3>> 증가합니다."
+
+#: 198758357-0-40103
+msgctxt "198758357-0-40103"
+msgid "Blessing Of Restoration"
+msgstr "Blessing Of Restoration"
+
+#: 132143172-0-40109
+msgctxt "132143172-0-40109"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nAlso applies <<5>> to the enemy for <<6>>, causing you and your allies to restore <<7>> Magicka every <<8>> when damaging them."
+msgstr "스태프의 힘에 집중해서 적에게 <<1>> 효과를 가해 <<2>> 동안 당신과 아군이 대상을 공격하면 <<4>>마다 <<3>>만큼의 체력을 회복합니다.\n\n또한 적에게 <<5>> 효과를 가해 <<6>> 동안 당신과 아군이 대상을 공격하면 <<8>>마다 <<7>>만큼의 매지카를 회복합니다."
+
+#: 198758357-0-40109
+msgctxt "198758357-0-40109"
+msgid "Siphon Spirit"
+msgstr "Siphon Spirit"
+
+#: 132143172-0-45517
+msgctxt "132143172-0-45517"
+msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
+msgstr "최대로 완충된 강공격에 성공하면 Major Mending 효과를 얻어 <<1>> 동안 주는 치유량이 <<2>>만큼 증가합니다.\n\n또한 최대로 완충된 강공격으로 적을 처치하면 가한 피해량의 <<3>>% 만큼 당신 또는 대상과 가장 가까운 아군의 체력을 회복합니다."
+
+#: 198758357-0-45517
+msgctxt "198758357-0-45517"
+msgid "Essence Drain"
+msgstr "Essence Drain"
+
+#: 132143172-0-30981
+msgctxt "132143172-0-30981"
+msgid "Increases healing with Restoration Staff spells by <<1>>."
+msgstr "치유 스태프 주문의 치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-30981
+msgctxt "198758357-0-30981"
+msgid "Restoration Master"
+msgstr "Restoration Master"
+
+#: 132143172-0-31531
+msgctxt "132143172-0-31531"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them."
+msgstr "스태프의 힘에 집중해서 적에게 <<1>> 효과를 가해 <<2>> 동안 당신과 아군이 대상을 공격하면 <<4>>마다 <<3>>만큼의 체력을 회복합니다."
+
+#: 198758357-0-31531
+msgctxt "198758357-0-31531"
+msgid "Force Siphon"
+msgstr "Force Siphon"
+
+#: 132143172-0-30980
+msgctxt "132143172-0-30980"
+msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
+msgstr "체력이 |cffffff30|r% 미만인 아군에게 주는 치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-30980
+msgctxt "198758357-0-30980"
+msgid "Restoration Expert"
+msgstr "Restoration Expert"
 
 #: 132143172-0-83850
 msgctxt "132143172-0-83850"
@@ -41,125 +131,35 @@ msgctxt "198758357-0-83552"
 msgid "Panacea"
 msgstr "Panacea"
 
-#: 132143172-0-45524
-msgctxt "132143172-0-45524"
-msgid "Increases healing with Restoration Staff spells by <<1>>."
-msgstr "치유 스태프 주문의 치유량이 <<1>> 증가합니다."
-
-#: 198758357-0-45524
-msgctxt "198758357-0-45524"
-msgid "Restoration Master"
-msgstr "Restoration Master"
-
-#: 132143172-0-45521
-msgctxt "132143172-0-45521"
+#: 132143172-0-30869
+msgctxt "132143172-0-30869"
 msgid "Restores <<1>> Magicka when you block a spell."
 msgstr "주문을 막으면 <<1>>만큼의 매지카를 회복합니다."
 
-#: 198758357-0-45521
-msgctxt "198758357-0-45521"
+#: 198758357-0-30869
+msgctxt "198758357-0-30869"
 msgid "Absorb"
 msgstr "Absorb"
 
-#: 132143172-0-45520
-msgctxt "132143172-0-45520"
-msgid "Your fully-charged Heavy Attacks restore <<1>>% more Magicka."
-msgstr "강공격에 성공하면 <<1>>%만큼의  매지카를 추가로 회복합니다"
+#: 132143172-0-40060
+msgctxt "132143172-0-40060"
+msgid "Summon restoring spirits with your staff, healing you and your allies in the target area for <<1>> Health and an additional <<1>> Health every <<2>> for <<3>>. \n\nYou restore <<4>> Magicka every time you or an ally is healed."
+msgstr "치유의 영혼을 소환해 당신과 대상 지역 안에 있는 아군의 체력을 <<1>>만큼 회복시키고 추가로 <<3>> 동안 매 <<2>>마다 <<1>>만큼 회복시킵니다.\n\n시전 시 처음 회복시킨 아군의 수 x <<4>>만큼 매지카를 회복합니다. "
 
-#: 198758357-0-45520
-msgctxt "198758357-0-45520"
-msgid "Cycle of Life"
-msgstr "Cycle of Life"
+#: 198758357-0-40060
+msgctxt "198758357-0-40060"
+msgid "Healing Springs"
+msgstr "Healing Springs"
 
-#: 132143172-0-45519
-msgctxt "132143172-0-45519"
-msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
-msgstr "체력이 |cffffff30|r% 미만인 아군에게 주는 치유량이 <<1>> 증가합니다."
+#: 132143172-0-85132
+msgctxt "132143172-0-85132"
+msgid "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for <<1>> Health every <<2>> for <<3>>.\n\nAny friendly target you heal gains Major Force for <<4>>, increasing their Critical Damage by <<5>>."
+msgstr "원기를 회복하는 에너지를 방출합니다. 에너지는 <<3>> 동안 당신 주위를 회전하며 당신 또는 아군의 체력을 <<2>>마다 <<1>>만큼 회복시킵니다.\n\n회복을 받은 아군은 Major Force 효과를 <<4>> 동안 얻어 치명타 피해량이 <<5>> 증가합니다."
 
-#: 198758357-0-45519
-msgctxt "198758357-0-45519"
-msgid "Restoration Expert"
-msgstr "Restoration Expert"
-
-#: 132143172-0-45517
-msgctxt "132143172-0-45517"
-msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
-msgstr "최대로 완충된 강공격에 성공하면 Major Mending 효과를 얻어 <<1>> 동안 주는 치유량이 <<2>>만큼 증가합니다.\n\n또한 최대로 완충된 강공격으로 적을 처치하면 가한 피해량의 <<3>>% 만큼 당신 또는 대상과 가장 가까운 아군의 체력을 회복합니다."
-
-#: 198758357-0-45517
-msgctxt "198758357-0-45517"
-msgid "Essence Drain"
-msgstr "Essence Drain"
-
-#: 132143172-0-40130
-msgctxt "132143172-0-40130"
-msgid "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
-msgstr "스태프의 보호 능력을 발동하여 당신과 근처의 체력이 가장 낮은 아군에게 <<1>> 피해를 흡수하는 보호막을 생성합니다.\n\n보호막의 강도는 대상이 입은 피해에 비례해 최대 <<2>>% 까지 증가합니다."
-
-#: 198758357-0-40130
-msgctxt "198758357-0-40130"
-msgid "Ward Ally"
-msgstr "Ward Ally"
-
-#: 132143172-0-40126
-msgctxt "132143172-0-40126"
-msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for <<3>>% of the shield's remaining strength every second."
-msgstr "스태프의 보호 능력을 발동하여 당신 또는 근처의 체력이 가장 낮은 아군에게 <<1>> 피해를 흡수하는 보호막을 생성합니다.\n\n보호막의 강도는 대상이 입은 피해에 비례해 최대 <<2>>% 까지 증가합니다.\n\n보호막의 지속 시간이 끝나면 남은 보호막의 <<3>>% 만큼 대상을 회복시킵니다."
-
-#: 198758357-0-40126
-msgctxt "198758357-0-40126"
-msgid "Healing Ward"
-msgstr "Healing Ward"
-
-#: 132143172-0-40116
-msgctxt "132143172-0-40116"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nWhen you or an ally is healed by <<1>>, they gain <<5>>, which increases their Movement Speed by |cffffff10|r% for <<6>>."
-msgstr "스태프의 힘에 집중해서 적에게 <<1>> 효과를 가해 <<2>> 동안 당신과 아군이 대상을 공격하면 <<4>>마다 <<3>>만큼의 체력을 회복합니다.\n\n당신이나 아군이 <<1>>로 체력을 회복하면, <<5>> 효과를 얻어 이동 속도가 <<6>>동안 |cffffff10|r%만큼 증가합니다."
-
-#: 198758357-0-40116
-msgctxt "198758357-0-40116"
-msgid "Quick Siphon"
-msgstr "Quick Siphon"
-
-#: 132143172-0-40109
-msgctxt "132143172-0-40109"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nAlso applies <<5>> to the enemy for <<6>>, causing you and your allies to restore <<7>> Magicka every <<8>> when damaging them."
-msgstr "스태프의 힘에 집중해서 적에게 <<1>> 효과를 가해 <<2>> 동안 당신과 아군이 대상을 공격하면 <<4>>마다 <<3>>만큼의 체력을 회복합니다.\n\n또한 적에게 <<5>> 효과를 가해 <<6>> 동안 당신과 아군이 대상을 공격하면 <<8>>마다 <<7>>만큼의 매지카를 회복합니다."
-
-#: 198758357-0-40109
-msgctxt "198758357-0-40109"
-msgid "Siphon Spirit"
-msgstr "Siphon Spirit"
-
-#: 132143172-0-40103
-msgctxt "132143172-0-40103"
-msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>>, increasing you and your allies' Physical Resistance and Spell Resistance by <<3>> for <<4>>."
-msgstr "스태프를 땅에 내려쳐 축복을 발동해 당신과 전방의 아군들의 체력을 <<1>>만큼 회복시킵니다.\n\n또한 <<2>> 효과를 얻어 <<4>> 동안 당신과 아군의 물리 저항력과 마법 저항력이 <<3>> 증가합니다."
-
-#: 198758357-0-40103
-msgctxt "198758357-0-40103"
-msgid "Blessing Of Restoration"
-msgstr "Blessing Of Restoration"
-
-#: 132143172-0-40094
-msgctxt "132143172-0-40094"
-msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>> and <<3>> increasing you and your allies' damage done by <<4>> and Physical Resistance and Spell Resistance by <<5>>  for <<6>>."
-msgstr "스태프를 땅에 내려쳐 축복을 발동해 당신과 전방의 아군들의 체력을 <<1>>만큼 회복시킵니다.\n\n또한 <<2>>, <<3>> 효과를 얻어 <<6>> 동안 당신과 아군이 가하는 피해가 <<4>> 증가하고 물리 저항력과 마법 저항력이 <<5>> 증가합니다."
-
-#: 198758357-0-40094
-msgctxt "198758357-0-40094"
-msgid "Combat Prayer"
-msgstr "Combat Prayer"
-
-#: 132143172-0-40079
-msgctxt "132143172-0-40079"
-msgid "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for <<1>> over <<2>>."
-msgstr "스태프가 가진 생명 에너지를 공유해 당신 또는 근처의 아군의 체력을 최대 |cffffff3|r명까지 <<2>>에 걸쳐 <<1>>만큼 회복시킵니다."
-
-#: 198758357-0-40079
-msgctxt "198758357-0-40079"
-msgid "Radiating Regeneration"
-msgstr "Radiating Regeneration"
+#: 198758357-0-85132
+msgctxt "198758357-0-85132"
+msgid "Light's Champion"
+msgstr "Light's Champion"
 
 #: 132143172-0-40076
 msgctxt "132143172-0-40076"
@@ -171,15 +171,25 @@ msgctxt "198758357-0-40076"
 msgid "Rapid Regeneration"
 msgstr "Rapid Regeneration"
 
-#: 132143172-0-40060
-msgctxt "132143172-0-40060"
-msgid "Summon restoring spirits with your staff, healing you and your allies in the target area for <<1>> Health and an additional <<1>> Health every <<2>> for <<3>>. \n\nYou restore <<4>> Magicka every time you or an ally is healed."
-msgstr "치유의 영혼을 소환해 당신과 대상 지역 안에 있는 아군의 체력을 <<1>>만큼 회복시키고 추가로 <<3>> 동안 매 <<2>>마다 <<1>>만큼 회복시킵니다.\n\n시전 시 처음 회복시킨 아군의 수 x <<4>>만큼 매지카를 회복합니다. "
+#: 132143172-0-40130
+msgctxt "132143172-0-40130"
+msgid "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
+msgstr "스태프의 보호 능력을 발동하여 당신과 근처의 체력이 가장 낮은 아군에게 <<1>> 피해를 흡수하는 보호막을 생성합니다.\n\n보호막의 강도는 대상이 입은 피해에 비례해 최대 <<2>>% 까지 증가합니다."
 
-#: 198758357-0-40060
-msgctxt "198758357-0-40060"
-msgid "Healing Springs"
-msgstr "Healing Springs"
+#: 198758357-0-40130
+msgctxt "198758357-0-40130"
+msgid "Ward Ally"
+msgstr "Ward Ally"
+
+#: 132143172-0-45524
+msgctxt "132143172-0-45524"
+msgid "Increases healing with Restoration Staff spells by <<1>>."
+msgstr "치유 스태프 주문의 치유량이 <<1>> 증가합니다."
+
+#: 198758357-0-45524
+msgctxt "198758357-0-45524"
+msgid "Restoration Master"
+msgstr "Restoration Master"
 
 #: 132143172-0-40058
 msgctxt "132143172-0-40058"
@@ -201,85 +211,45 @@ msgctxt "198758357-0-37243"
 msgid "Blessing of Protection"
 msgstr "Blessing of Protection"
 
-#: 132143172-0-37232
-msgctxt "132143172-0-37232"
-msgid "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs <<1>> damage.\n\nThe shield's strength is increased by up to <<2>>%, depending on the severity of the target's wounds."
-msgstr "스태프의 보호 능력을 발동하여 당신 또는 근처의 체력이 가장 낮은 아군에게 <<1>> 피해를 흡수하는 보호막을 생성합니다.\n\n보호막의 강도는 대상이 입은 피해에 비례해 최대 <<2>>% 까지 증가합니다."
+#: 132143172-0-40079
+msgctxt "132143172-0-40079"
+msgid "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for <<1>> over <<2>>."
+msgstr "스태프가 가진 생명 에너지를 공유해 당신 또는 근처의 아군의 체력을 최대 |cffffff3|r명까지 <<2>>에 걸쳐 <<1>>만큼 회복시킵니다."
 
-#: 198758357-0-37232
-msgctxt "198758357-0-37232"
-msgid "Steadfast Ward"
-msgstr "Steadfast Ward"
+#: 198758357-0-40079
+msgctxt "198758357-0-40079"
+msgid "Radiating Regeneration"
+msgstr "Radiating Regeneration"
 
-#: 132143172-0-31531
-msgctxt "132143172-0-31531"
-msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them."
-msgstr "스태프의 힘에 집중해서 적에게 <<1>> 효과를 가해 <<2>> 동안 당신과 아군이 대상을 공격하면 <<4>>마다 <<3>>만큼의 체력을 회복합니다."
-
-#: 198758357-0-31531
-msgctxt "198758357-0-31531"
-msgid "Force Siphon"
-msgstr "Force Siphon"
-
-#: 132143172-0-30981
-msgctxt "132143172-0-30981"
-msgid "Increases healing with Restoration Staff spells by <<1>>."
-msgstr "치유 스태프 주문의 치유량이 <<1>> 증가합니다."
-
-#: 198758357-0-30981
-msgctxt "198758357-0-30981"
-msgid "Restoration Master"
-msgstr "Restoration Master"
-
-#: 132143172-0-30980
-msgctxt "132143172-0-30980"
-msgid "Increases your healing by <<1>> on allies under |cffffff30|r% Health."
-msgstr "체력이 |cffffff30|r% 미만인 아군에게 주는 치유량이 <<1>> 증가합니다."
-
-#: 198758357-0-30980
-msgctxt "198758357-0-30980"
-msgid "Restoration Expert"
-msgstr "Restoration Expert"
-
-#: 132143172-0-30973
-msgctxt "132143172-0-30973"
-msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
-msgstr "최대로 완충된 강공격에 성공하면 Major Mending 효과를 얻어 <<1>> 동안 주는 치유량이 <<2>>만큼 증가합니다.\n\n또한 최대로 완충된 강공격으로 적을 처치하면 가한 피해량의 <<3>>% 만큼 당신 또는 대상과 가장 가까운 아군의 체력을 회복합니다."
-
-#: 198758357-0-30973
-msgctxt "198758357-0-30973"
-msgid "Essence Drain"
-msgstr "Essence Drain"
-
-#: 132143172-0-30972
-msgctxt "132143172-0-30972"
-msgid "Your fully-charged Heavy Attacks restore <<1>>% more Magicka."
-msgstr "강공격에 성공하면 <<1>>%만큼의 매지카를 추가로 회복합니다"
-
-#: 198758357-0-30972
-msgctxt "198758357-0-30972"
-msgid "Cycle of Life"
-msgstr "Cycle of Life"
-
-#: 132143172-0-30869
-msgctxt "132143172-0-30869"
+#: 132143172-0-45521
+msgctxt "132143172-0-45521"
 msgid "Restores <<1>> Magicka when you block a spell."
 msgstr "주문을 막으면 <<1>>만큼의 매지카를 회복합니다."
 
-#: 198758357-0-30869
-msgctxt "198758357-0-30869"
+#: 198758357-0-45521
+msgctxt "198758357-0-45521"
 msgid "Absorb"
 msgstr "Absorb"
 
-#: 132143172-0-28536
-msgctxt "132143172-0-28536"
-msgid "Share your staff's life-giving energy, healing you or a nearby ally for <<1>> Health over <<2>>."
-msgstr "스태프가 가진 생명 에너지를 공유해 당신 또는 근처의 아군의 체력을 <<2>>에 걸쳐 <<1>>만큼 회복시킵니다."
+#: 132143172-0-45520
+msgctxt "132143172-0-45520"
+msgid "Your fully-charged Heavy Attacks restore <<1>> more Magicka."
+msgstr "완충된 강공격에 성공하면 <<1>>만큼의 매지카를 추가로 회복합니다\n"
 
-#: 198758357-0-28536
-msgctxt "198758357-0-28536"
-msgid "Regeneration"
-msgstr "Regeneration"
+#: 198758357-0-45520
+msgctxt "198758357-0-45520"
+msgid "Cycle of Life"
+msgstr "Cycle of Life"
+
+#: 132143172-0-40116
+msgctxt "132143172-0-40116"
+msgid "Focus your staff's power to apply <<1>> to an enemy for <<2>>, healing you and your allies for <<3>> Health every <<4>> when damaging them.\n\nWhen you or an ally is healed by <<1>>, they gain <<5>>, which increases their Movement Speed by |cffffff10|r% for <<6>>."
+msgstr "스태프의 힘에 집중해서 적에게 <<1>> 효과를 가해 <<2>> 동안 당신과 아군이 대상을 공격하면 <<4>>마다 <<3>>만큼의 체력을 회복합니다.\n\n당신이나 아군이 <<1>>로 체력을 회복하면, <<5>> 효과를 얻어 이동 속도가 <<6>>동안 |cffffff10|r%만큼 증가합니다."
+
+#: 198758357-0-40116
+msgctxt "198758357-0-40116"
+msgid "Quick Siphon"
+msgstr "Quick Siphon"
 
 #: 132143172-0-28385
 msgctxt "132143172-0-28385"
@@ -290,3 +260,33 @@ msgstr "치유의 영혼을 소환해 당신과 대상 지역 안에 있는 아�
 msgctxt "198758357-0-28385"
 msgid "Grand Healing"
 msgstr "Grand Healing"
+
+#: 132143172-0-30972
+msgctxt "132143172-0-30972"
+msgid "Your fully-charged Heavy Attacks restore <<1>> more Magicka."
+msgstr "완충된 강공격에 성공하면 <<1>>만큼의 매지카를 추가로 회복합니다"
+
+#: 198758357-0-30972
+msgctxt "198758357-0-30972"
+msgid "Cycle of Life"
+msgstr "Cycle of Life"
+
+#: 132143172-0-40094
+msgctxt "132143172-0-40094"
+msgid "Slam your staff down to activate its blessings, healing you and your allies in front of you for <<1>> Health.\n\nAlso grants <<2>> and <<3>> increasing you and your allies' damage done by <<4>> and Physical Resistance and Spell Resistance by <<5>>  for <<6>>."
+msgstr "스태프를 땅에 내려쳐 축복을 발동해 당신과 전방의 아군들의 체력을 <<1>>만큼 회복시킵니다.\n\n또한 <<2>>, <<3>> 효과를 얻어 <<6>> 동안 당신과 아군이 가하는 피해가 <<4>> 증가하고 물리 저항력과 마법 저항력이 <<5>> 증가합니다."
+
+#: 198758357-0-40094
+msgctxt "198758357-0-40094"
+msgid "Combat Prayer"
+msgstr "Combat Prayer"
+
+#: 132143172-0-30973
+msgctxt "132143172-0-30973"
+msgid "You gain Major Mending for <<1>> after completing a fully-charged Heavy Attack, increasing your healing done by <<2>>.\n\nYou also heal yourself or an ally near the target for <<3>>% of the damage inflicted by the final hit of a fully-charged Heavy Attack."
+msgstr "최대로 완충된 강공격에 성공하면 Major Mending 효과를 얻어 <<1>> 동안 주는 치유량이 <<2>>만큼 증가합니다.\n\n또한 최대로 완충된 강공격으로 적을 처치하면 가한 피해량의 <<3>>% 만큼 당신 또는 대상과 가장 가까운 아군의 체력을 회복합니다."
+
+#: 198758357-0-30973
+msgctxt "198758357-0-30973"
+msgid "Essence Drain"
+msgstr "Essence Drain"

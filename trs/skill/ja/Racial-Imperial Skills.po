@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-50903
+msgctxt "132143172-0-50903"
+msgid "Increases your Max Health by <<1>>."
+msgstr "自身の最大体力が<<1>>増加する。"
+
+#: 198758357-0-50903
+msgctxt "198758357-0-50903"
+msgid "Tough"
+msgstr "頑丈"
+
 #: 132143172-0-50907
 msgctxt "132143172-0-50907"
 msgid "Increases your Max Health by <<1>>."
@@ -30,46 +40,6 @@ msgstr "自身の最大体力が<<1>>増加する。"
 msgctxt "198758357-0-50906"
 msgid "Tough"
 msgstr "頑丈"
-
-#: 132143172-0-50903
-msgctxt "132143172-0-50903"
-msgid "Increases your Max Health by <<1>>."
-msgstr "自身の最大体力が<<1>>増加する。"
-
-#: 198758357-0-50903
-msgctxt "198758357-0-50903"
-msgid "Tough"
-msgstr "頑丈"
-
-#: 132143172-0-45293
-msgctxt "132143172-0-45293"
-msgid "Reduces the cost of all your abilities by |cffffff3|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
-msgstr "全アビリティの消費を|cffffff3|r%減少させる。\r\n\r\n直接ダメージを与えると体力を<<1>>、マジカとスタミナを<<2>>回復する。この効果は|cffffff5|r秒ごとに発動する。"
-
-#: 198758357-0-45293
-msgctxt "198758357-0-45293"
-msgid "Red Diamond"
-msgstr "レッド・ダイヤモンド"
-
-#: 132143172-0-45291
-msgctxt "132143172-0-45291"
-msgid "Reduces the cost of all your abilities by |cffffff2|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
-msgstr "全アビリティの消費を|cffffff2|r%減少させる。\r\n\r\n直接ダメージを与えると体力を<<1>>、マジカとスタミナを<<2>>回復する。この効果は|cffffff5|r秒ごとに発動する。"
-
-#: 198758357-0-45291
-msgctxt "198758357-0-45291"
-msgid "Red Diamond"
-msgstr "レッド・ダイヤモンド"
-
-#: 132143172-0-45280
-msgctxt "132143172-0-45280"
-msgid "Increases your Max Stamina by <<1>>."
-msgstr "最大スタミナ値が<<1>>増加する。"
-
-#: 198758357-0-45280
-msgctxt "198758357-0-45280"
-msgid "Imperial Mettle"
-msgstr "インペリアル魂"
 
 #: 132143172-0-45279
 msgctxt "132143172-0-45279"
@@ -110,3 +80,33 @@ msgstr "最大スタミナ値が<<1>>増加する。"
 msgctxt "198758357-0-36153"
 msgid "Imperial Mettle"
 msgstr "インペリアル魂"
+
+#: 132143172-0-45291
+msgctxt "132143172-0-45291"
+msgid "Reduces the cost of all your abilities by |cffffff2|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
+msgstr "全アビリティの消費を|cffffff2|r%減少させる。\r\n\r\n直接ダメージを与えると体力を<<1>>、マジカとスタミナを<<2>>回復する。この効果は|cffffff5|r秒ごとに発動する。"
+
+#: 198758357-0-45291
+msgctxt "198758357-0-45291"
+msgid "Red Diamond"
+msgstr "レッド・ダイヤモンド"
+
+#: 132143172-0-45280
+msgctxt "132143172-0-45280"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr "最大スタミナ値が<<1>>増加する。"
+
+#: 198758357-0-45280
+msgctxt "198758357-0-45280"
+msgid "Imperial Mettle"
+msgstr "インペリアル魂"
+
+#: 132143172-0-45293
+msgctxt "132143172-0-45293"
+msgid "Reduces the cost of all your abilities by |cffffff3|r%.\n\nWhen you deal direct damage, you heal yourself for <<1>> and restore <<2>> Magicka and Stamina.  This effect can occur once every |cffffff5|r seconds."
+msgstr "全アビリティの消費を|cffffff3|r%減少させる。\r\n\r\n直接ダメージを与えると体力を<<1>>、マジカとスタミナを<<2>>回復する。この効果は|cffffff5|r秒ごとに発動する。"
+
+#: 198758357-0-45293
+msgctxt "198758357-0-45293"
+msgid "Red Diamond"
+msgstr "レッド・ダイヤモンド"

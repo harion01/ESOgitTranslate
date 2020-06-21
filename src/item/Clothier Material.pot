@@ -11,46 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-811
-msgctxt "228378404-0-811"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-811
-msgctxt "242841733-0-811"
-msgid "jute"
-msgstr ""
-
-#: 228378404-0-794
-msgctxt "228378404-0-794"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-794
-msgctxt "242841733-0-794"
-msgid "rawhide"
-msgstr ""
-
-#: 228378404-0-64506
-msgctxt "228378404-0-64506"
-msgid "An ingredient for crafting leather armor."
-msgstr ""
-
-#: 242841733-0-64506
-msgctxt "242841733-0-64506"
-msgid "Rubedo Leather"
-msgstr ""
-
-#: 228378404-0-64504
-msgctxt "228378404-0-64504"
-msgid "An ingredient for crafting cloth armor."
-msgstr ""
-
-#: 242841733-0-64504
-msgctxt "242841733-0-64504"
-msgid "Ancestor Silk"
-msgstr ""
-
 #: 228378404-0-46138
 msgctxt "228378404-0-46138"
 msgid "An ingredient for crafting clothing."
@@ -59,16 +19,6 @@ msgstr ""
 #: 242841733-0-46138
 msgctxt "242841733-0-46138"
 msgid "Shadowhide"
-msgstr ""
-
-#: 228378404-0-46137
-msgctxt "228378404-0-46137"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-46137
-msgctxt "242841733-0-46137"
-msgid "superb hide"
 msgstr ""
 
 #: 228378404-0-46136
@@ -81,14 +31,24 @@ msgctxt "242841733-0-46136"
 msgid "Iron Hide"
 msgstr ""
 
-#: 228378404-0-46135
-msgctxt "228378404-0-46135"
+#: 228378404-0-4463
+msgctxt "228378404-0-4463"
 msgid "An ingredient for crafting clothing."
 msgstr ""
 
-#: 242841733-0-46135
-msgctxt "242841733-0-46135"
-msgid "topgrain hide"
+#: 242841733-0-4463
+msgctxt "242841733-0-4463"
+msgid "flax"
+msgstr ""
+
+#: 228378404-0-46137
+msgctxt "228378404-0-46137"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-46137
+msgctxt "242841733-0-46137"
+msgid "superb hide"
 msgstr ""
 
 #: 228378404-0-46134
@@ -101,94 +61,14 @@ msgctxt "242841733-0-46134"
 msgid "void cloth"
 msgstr ""
 
-#: 228378404-0-46133
-msgctxt "228378404-0-46133"
+#: 228378404-0-46135
+msgctxt "228378404-0-46135"
 msgid "An ingredient for crafting clothing."
 msgstr ""
 
-#: 242841733-0-46133
-msgctxt "242841733-0-46133"
-msgid "silverweave"
-msgstr ""
-
-#: 228378404-0-46132
-msgctxt "228378404-0-46132"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-46132
-msgctxt "242841733-0-46132"
-msgid "ironthread"
-msgstr ""
-
-#: 228378404-0-46131
-msgctxt "228378404-0-46131"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-46131
-msgctxt "242841733-0-46131"
-msgid "Kresh Fiber"
-msgstr ""
-
-#: 228378404-0-4463
-msgctxt "228378404-0-4463"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-4463
-msgctxt "242841733-0-4463"
-msgid "flax"
-msgstr ""
-
-#: 228378404-0-4447
-msgctxt "228378404-0-4447"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-4447
-msgctxt "242841733-0-4447"
-msgid "hide"
-msgstr ""
-
-#: 228378404-0-23127
-msgctxt "228378404-0-23127"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-23127
-msgctxt "242841733-0-23127"
-msgid "ebonthread"
-msgstr ""
-
-#: 228378404-0-23126
-msgctxt "228378404-0-23126"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-23126
-msgctxt "242841733-0-23126"
-msgid "spidersilk"
-msgstr ""
-
-#: 228378404-0-23125
-msgctxt "228378404-0-23125"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-23125
-msgctxt "242841733-0-23125"
-msgid "cotton"
-msgstr ""
-
-#: 228378404-0-23101
-msgctxt "228378404-0-23101"
-msgid "An ingredient for crafting clothing."
-msgstr ""
-
-#: 242841733-0-23101
-msgctxt "242841733-0-23101"
-msgid "fell hide"
+#: 242841733-0-46135
+msgctxt "242841733-0-46135"
+msgid "topgrain hide"
 msgstr ""
 
 #: 228378404-0-23100
@@ -201,6 +81,76 @@ msgctxt "242841733-0-23100"
 msgid "thick leather"
 msgstr ""
 
+#: 228378404-0-23101
+msgctxt "228378404-0-23101"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-23101
+msgctxt "242841733-0-23101"
+msgid "fell hide"
+msgstr ""
+
+#: 228378404-0-64504
+msgctxt "228378404-0-64504"
+msgid "An ingredient for crafting cloth armor."
+msgstr ""
+
+#: 242841733-0-64504
+msgctxt "242841733-0-64504"
+msgid "Ancestor Silk"
+msgstr ""
+
+#: 228378404-0-23125
+msgctxt "228378404-0-23125"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-23125
+msgctxt "242841733-0-23125"
+msgid "cotton"
+msgstr ""
+
+#: 228378404-0-23126
+msgctxt "228378404-0-23126"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-23126
+msgctxt "242841733-0-23126"
+msgid "spidersilk"
+msgstr ""
+
+#: 228378404-0-64506
+msgctxt "228378404-0-64506"
+msgid "An ingredient for crafting leather armor."
+msgstr ""
+
+#: 242841733-0-64506
+msgctxt "242841733-0-64506"
+msgid "Rubedo Leather"
+msgstr ""
+
+#: 228378404-0-23127
+msgctxt "228378404-0-23127"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-23127
+msgctxt "242841733-0-23127"
+msgid "ebonthread"
+msgstr ""
+
+#: 228378404-0-794
+msgctxt "228378404-0-794"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-794
+msgctxt "242841733-0-794"
+msgid "rawhide"
+msgstr ""
+
 #: 228378404-0-23099
 msgctxt "228378404-0-23099"
 msgid "An ingredient for crafting clothing."
@@ -209,4 +159,54 @@ msgstr ""
 #: 242841733-0-23099
 msgctxt "242841733-0-23099"
 msgid "leather"
+msgstr ""
+
+#: 228378404-0-46132
+msgctxt "228378404-0-46132"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-46132
+msgctxt "242841733-0-46132"
+msgid "ironthread"
+msgstr ""
+
+#: 228378404-0-811
+msgctxt "228378404-0-811"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-811
+msgctxt "242841733-0-811"
+msgid "jute"
+msgstr ""
+
+#: 228378404-0-46133
+msgctxt "228378404-0-46133"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-46133
+msgctxt "242841733-0-46133"
+msgid "silverweave"
+msgstr ""
+
+#: 228378404-0-46131
+msgctxt "228378404-0-46131"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-46131
+msgctxt "242841733-0-46131"
+msgid "Kresh Fiber"
+msgstr ""
+
+#: 228378404-0-4447
+msgctxt "228378404-0-4447"
+msgid "An ingredient for crafting clothing."
+msgstr ""
+
+#: 242841733-0-4447
+msgctxt "242841733-0-4447"
+msgid "hide"
 msgstr ""

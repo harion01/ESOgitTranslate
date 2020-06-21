@@ -11,65 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-84434
-msgctxt "132143172-0-84434"
-msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nFiery Rage increases the damage by <<4>>.\n\nIcy Rage immobilizes enemies hit for <<5>>.\n\nThunderous Rage increases the duration by |cffffff2|r seconds."
-msgstr "대상 지역에 격변하는 폭풍을 불러내  범위 내의 적들을 초토화시킵니다. 폭풍은 시전 후 |cffffff2|r초 뒤에 생성되며 <<3>> 동안 매 <<2>>마다 <<1>>를 줍니다.\n\n화염의 분노는 피해량을 <<4>> 증가시킵니다.\n\n냉기의 분노는 적중당한 적들을 <<5>> 동안 이동 불가 상태로 만듭니다.\n\n전격의 분노는 폭풍의 지속 시간을 |cffffff2|r 증가시킵니다."
+#: 132143172-0-45512
+msgctxt "132143172-0-45512"
+msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
+msgstr "파괴 스태프를 장착한 동안 적을 불태우고, 감전시키고, 얼어붙게 만들 확률이 <<1>> 증가합니다."
 
-#: 198758357-0-84434
-msgctxt "198758357-0-84434"
-msgid "Elemental Rage"
-msgstr "Elemental Rage"
-
-#: 132143172-0-83642
-msgctxt "132143172-0-83642"
-msgid "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
-msgstr "당신의 위치에 격변하는 폭풍을 불러내 범위 내의 적들을 초토화시킵니다. 폭풍은 시전 후 |cffffff2|r초 뒤에 생성되며 <<3>> 동안 매 <<2>>마다 <<1>>를 줍니다."
-
-#: 198758357-0-83642
-msgctxt "198758357-0-83642"
-msgid "Eye of the Storm"
-msgstr "Eye of the Storm"
-
-#: 132143172-0-83619
-msgctxt "132143172-0-83619"
-msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
-msgstr "대상 지역에 격변하는 폭풍을 불러내  범위 내의 적들을 초토화시킵니다. 폭풍은 시전 후 |cffffff2|r초 뒤에 생성되며 <<3>> 동안 매 <<2>>마다 <<1>>를 줍니다."
-
-#: 198758357-0-83619
-msgctxt "198758357-0-83619"
-msgid "Elemental Storm"
-msgstr "Elemental Storm"
-
-#: 132143172-0-46356
-msgctxt "132143172-0-46356"
-msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>. \n\nUp to 2 nearby enemies will take \n<<4>> if they were already afflicted with Burning, Chilled, or Concussed status effects."
-msgstr "모든 원소의 에너지를 스태프에 집중시켜 적에게 폭발시킵니다. <<1>>, <<2>>, <<3>>를 줍니다.\n\n근처에 있는 최대 2명의 적이\n이미 불타거나, 얼어붙거나, 감전된 상태라면 <<4>>를 줍니다."
-
-#: 198758357-0-46356
-msgctxt "198758357-0-46356"
-msgid "Force Pulse"
-msgstr "Force Pulse"
-
-#: 132143172-0-46348
-msgctxt "132143172-0-46348"
-msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>.\n\nEnemies hit while casting are interrupted, set Off Balance, and stunned for <<4>>."
-msgstr "모든 원소의 에너지를 스태프에 집중시켜 적에게 폭발시킵니다. <<1>>, <<2>>, <<3>>를 줍니다.\n\n맞은 적이 어빌리티를 시전 중이었다면 시전이 방해받고, 균형을 읽고, <<4>> 동안 기절 상태가 됩니다."
-
-#: 198758357-0-46348
-msgctxt "198758357-0-46348"
-msgid "Crushing Shock"
-msgstr "Crushing Shock"
-
-#: 132143172-0-46340
-msgctxt "132143172-0-46340"
-msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>."
-msgstr "모든 원소의 에너지를 스태프에 집중시켜 적에게 폭발시킵니다. <<1>>, <<2>>, <<3>>를 줍니다."
-
-#: 198758357-0-46340
-msgctxt "198758357-0-46340"
-msgid "Force Shock"
-msgstr "Force Shock"
+#: 198758357-0-45512
+msgctxt "198758357-0-45512"
+msgid "Elemental Force"
+msgstr "Elemental Force"
 
 #: 132143172-0-45514
 msgctxt "132143172-0-45514"
@@ -91,85 +41,15 @@ msgctxt "198758357-0-45513"
 msgid "Ancient Knowledge"
 msgstr "Ancient Knowledge"
 
-#: 132143172-0-45512
-msgctxt "132143172-0-45512"
-msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
-msgstr "파괴 스태프를 장착한 동안 적을 불태우고, 감전시키고, 얼어붙게 만들 확률이 <<1>> 증가합니다."
+#: 132143172-0-46348
+msgctxt "132143172-0-46348"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>.\n\nEnemies hit while casting are interrupted, set Off Balance, and stunned for <<4>>."
+msgstr "모든 원소의 에너지를 스태프에 집중시켜 적에게 폭발시킵니다. <<1>>, <<2>>, <<3>>를 줍니다.\n\n맞은 적이 어빌리티를 시전 중이었다면 시전이 방해받고, 균형을 읽고, <<4>> 동안 기절 상태가 됩니다."
 
-#: 198758357-0-45512
-msgctxt "198758357-0-45512"
-msgid "Elemental Force"
-msgstr "Elemental Force"
-
-#: 132143172-0-45509
-msgctxt "132143172-0-45509"
-msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
-msgstr "파괴 스태프 어빌리티가 적의 마법 저항력을 <<1>>% 무시합니다."
-
-#: 198758357-0-45509
-msgctxt "198758357-0-45509"
-msgid "Penetrating Magic"
-msgstr "Penetrating Magic"
-
-#: 132143172-0-45500
-msgctxt "132143172-0-45500"
-msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
-msgstr "착용한 스태프에 따라 다음의 효과를 얻습니다:\n\n최대로 완충된 화염 지팡이 강공격은 <<1>> 추가 피해를 줍니다.\n\n전격 지팡이 강공격은 가한 피해의 <<2>>를 주변의 적들에게도 줍니다.\n\n최대로 완충된 냉기 지팡이 강공격은 적이 <<3>> 동안 자신을 공격하게 도발하고 <<4>> 피해를 흡수하는 보호막을 생성합니다.\n\n냉기 스태프를 장착하고 있으면  막기가 스태미나 대신 매지카를 소모합니다."
-
-#: 198758357-0-45500
-msgctxt "198758357-0-45500"
-msgid "Tri Focus"
-msgstr "Tri Focus"
-
-#: 132143172-0-39161
-msgctxt "132143172-0-39161"
-msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
-msgstr "폭발하는 원소 에너지를 해방해, 근처의 적들에게 <<1>>를 주고 <<2>> 효과를 가해 최대 체력을 <<4>> 동안 <<3>> 감소시킵니다."
-
-#: 198758357-0-39161
-msgctxt "198758357-0-39161"
-msgid "Pulsar"
-msgstr "Pulsar"
-
-#: 132143172-0-39143
-msgctxt "132143172-0-39143"
-msgid "Release a surge of elemental energy, dealing <<1>> to enemies at the target location."
-msgstr "폭발하는 원소 에너지를 해방해, 대상 지역의 적들에게 <<1>>를 줍니다."
-
-#: 198758357-0-39143
-msgctxt "198758357-0-39143"
-msgid "Elemental Ring"
-msgstr "Elemental Ring"
-
-#: 132143172-0-39095
-msgctxt "132143172-0-39095"
-msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAlso applies <<4>> to the enemy for <<2>>, causing you and your allies to restore <<5>> Magicka every <<6>> when damaging them."
-msgstr "원소를 내보내 적의 방어를 무력화시킵니다.  <<2>> 동안 <<1>> 효과를 가해 마법 저항력을 <<3>> 감소시킵니다.\n\n또한 적에게 <<4>> 효과를 <<2>> 동안 가해 당신과 동료가 적에게 피해를 가하면 <<6>>마다 <<5>> 매지카를 회복합니다."
-
-#: 198758357-0-39095
-msgctxt "198758357-0-39095"
-msgid "Elemental Drain"
-msgstr "Elemental Drain"
-
-#: 132143172-0-39089
-msgctxt "132143172-0-39089"
-msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAny damage you deal to the enemy refreshes this effect to its maximum duration."
-msgstr "원소를 내보내 적의 방어를 무력화시킵니다.  <<2>> 동안 <<1>> 효과를 가해 마법 저항력을 <<3>> 감소시킵니다.\n\n이 동안 적에게 피해를 가하면 지속 시간이 최대로 초기화됩니다."
-
-#: 198758357-0-39089
-msgctxt "198758357-0-39089"
-msgid "Elemental Susceptibility"
-msgstr "Elemental Susceptibility"
-
-#: 132143172-0-39052
-msgctxt "132143172-0-39052"
-msgid "Create an unstable elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> before exploding for an additional <<3>> Magic Damage.\n\nUnstable Wall of Fire deals additional damage to Burning enemies.\n\nUnstable Wall of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nUnstable Wall of Storms sets Concussed enemies Off Balance."
-msgstr "불안정한 원소 장벽을 세웁니다. 범위 내의 적들에게 <<2>>마다 <<1>>를 주고 효과가 끝나면 폭발하여 추가로 <<3>> 마법 피해를 줍니다.\n\n불안정한 화염 장벽은 불타는 적에게 추가 피해를 입힙니다.\n\n불안정한 얼음 장벽은 이동 속도를 감소시키고 얼어붙은 적을 이동 불가 상태로 만듭니다.\n\n불안정한 폭풍 장벽은 감전된 적을 균형을 잃게 만듭니다."
-
-#: 198758357-0-39052
-msgctxt "198758357-0-39052"
-msgid "Unstable Wall of Elements"
-msgstr "Unstable Wall of Elements"
+#: 198758357-0-46348
+msgctxt "198758357-0-46348"
+msgid "Crushing Shock"
+msgstr "Crushing Shock"
 
 #: 132143172-0-39011
 msgctxt "132143172-0-39011"
@@ -181,46 +61,6 @@ msgctxt "198758357-0-39011"
 msgid "Elemental Blockade"
 msgstr "Elemental Blockade"
 
-#: 132143172-0-38984
-msgctxt "132143172-0-38984"
-msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>>.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench also immobilizes the enemy.\n\nShock Clench converts the attack into an area of effect explosion."
-msgstr "스태프의 충전된 힘을 방출하여 적을 파괴합니다. <<1>>를 입힙니다.\n\n화염의 움켜쥠은 적을 뒤로 밀쳐냅니다.\n\n냉기의 움켜쥠은 적을 이동 불가 상태로 만듭니다.\n\n전격의 움켜쥠은 주변의 적에게도 피해를 줍니다."
-
-#: 198758357-0-38984
-msgctxt "198758357-0-38984"
-msgid "Destructive Clench"
-msgstr "Destructive Clench"
-
-#: 132143172-0-38937
-msgctxt "132143172-0-38937"
-msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
-msgstr "스태프의 충전된 힘을 방출하여 적을 파괴합니다. <<1>>를 주고 추가로 <<2>> 마법 피해를 <<3>>에 걸쳐 줍니다."
-
-#: 198758357-0-38937
-msgctxt "198758357-0-38937"
-msgid "Destructive Reach"
-msgstr "Destructive Reach"
-
-#: 132143172-0-30965
-msgctxt "132143172-0-30965"
-msgid "When you kill an enemy with a Destruction Staff ability, you restore <<1>> Magicka."
-msgstr "파괴 스태프 어빌리티로 적을 처치하면 <<1>> 매지카를 회복합니다."
-
-#: 198758357-0-30965
-msgctxt "198758357-0-30965"
-msgid "Destruction Expert"
-msgstr "Destruction Expert"
-
-#: 132143172-0-30962
-msgctxt "132143172-0-30962"
-msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
-msgstr "파괴 스태프를 장착한 동안 적을 불태우고, 감전시키고, 얼어붙게 만들 확률이 <<1>> 증가합니다."
-
-#: 198758357-0-30962
-msgctxt "198758357-0-30962"
-msgid "Elemental Force"
-msgstr "Elemental Force"
-
 #: 132143172-0-30959
 msgctxt "132143172-0-30959"
 msgid "Equipping a Flame Staff increases your damage done with single target abilities by <<1>>.\n\nEquipping a Lightning Staff increases your damage done with area of effect abilities by <<2>>.\n\nEquipping a Frost Staff reduces the cost of blocking by |cffffff18|r% and increases the amount of damage you block by <<3>>."
@@ -231,45 +71,15 @@ msgctxt "198758357-0-30959"
 msgid "Ancient Knowledge"
 msgstr "Ancient Knowledge"
 
-#: 132143172-0-30957
-msgctxt "132143172-0-30957"
-msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
-msgstr "파괴 스태프 어빌리티가 적의 마법 저항력을 <<1>>% 무시합니다."
+#: 132143172-0-39052
+msgctxt "132143172-0-39052"
+msgid "Create an unstable elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> before exploding for an additional <<3>> Magic Damage.\n\nUnstable Wall of Fire deals additional damage to Burning enemies.\n\nUnstable Wall of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nUnstable Wall of Storms sets Concussed enemies Off Balance."
+msgstr "불안정한 원소 장벽을 세웁니다. 범위 내의 적들에게 <<2>>마다 <<1>>를 주고 효과가 끝나면 폭발하여 추가로 <<3>> 마법 피해를 줍니다.\n\n불안정한 화염 장벽은 불타는 적에게 추가 피해를 입힙니다.\n\n불안정한 얼음 장벽은 이동 속도를 감소시키고 얼어붙은 적을 이동 불가 상태로 만듭니다.\n\n불안정한 폭풍 장벽은 감전된 적을 균형을 잃게 만듭니다."
 
-#: 198758357-0-30957
-msgctxt "198758357-0-30957"
-msgid "Penetrating Magic"
-msgstr "Penetrating Magic"
-
-#: 132143172-0-30948
-msgctxt "132143172-0-30948"
-msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
-msgstr "착용한 스태프에 따라 다음의 효과를 얻습니다:\n\n최대로 완충된 화염 지팡이 강공격은 <<1>> 추가 피해를 줍니다.\n\n전격 지팡이 강공격은 가한 피해의 <<2>>를 주변의 적들에게도 줍니다.\n\n최대로 완충된 냉기 지팡이 강공격은 적이 <<3>> 동안 자신을 공격하게 도발하고 <<4>> 피해를 흡수하는 보호막을 생성합니다.\n\n냉기 스태프를 장착하고 있으면  막기가 스태미나 대신 매지카를 소모합니다."
-
-#: 198758357-0-30948
-msgctxt "198758357-0-30948"
-msgid "Tri Focus"
-msgstr "Tri Focus"
-
-#: 132143172-0-29173
-msgctxt "132143172-0-29173"
-msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>."
-msgstr "원소를 내보내 적의 방어를 무력화시킵니다.  <<2>> 동안 <<1>> 효과를 가해 마법 저항력을 <<3>> 감소시킵니다."
-
-#: 198758357-0-29173
-msgctxt "198758357-0-29173"
-msgid "Weakness to Elements"
-msgstr "Weakness to Elements"
-
-#: 132143172-0-29091
-msgctxt "132143172-0-29091"
-msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
-msgstr "스태프의 충전된 힘을 방출하여 적을 파괴합니다. <<1>>를 주고 추가로 <<2>> 마법 피해를 <<3>>에 걸쳐 줍니다."
-
-#: 198758357-0-29091
-msgctxt "198758357-0-29091"
-msgid "Destructive Touch"
-msgstr "Destructive Touch"
+#: 198758357-0-39052
+msgctxt "198758357-0-39052"
+msgid "Unstable Wall of Elements"
+msgstr "Unstable Wall of Elements"
 
 #: 132143172-0-28858
 msgctxt "132143172-0-28858"
@@ -281,6 +91,106 @@ msgctxt "198758357-0-28858"
 msgid "Wall of Elements"
 msgstr "Wall of Elements"
 
+#: 132143172-0-39095
+msgctxt "132143172-0-39095"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAlso applies <<4>> to the enemy for <<2>>, causing you and your allies to restore <<5>> Magicka every <<6>> when damaging them."
+msgstr "원소를 내보내 적의 방어를 무력화시킵니다.  <<2>> 동안 <<1>> 효과를 가해 마법 저항력을 <<3>> 감소시킵니다.\n\n또한 적에게 <<4>> 효과를 <<2>> 동안 가해 당신과 동료가 적에게 피해를 가하면 <<6>>마다 <<5>> 매지카를 회복합니다."
+
+#: 198758357-0-39095
+msgctxt "198758357-0-39095"
+msgid "Elemental Drain"
+msgstr "Elemental Drain"
+
+#: 132143172-0-38984
+msgctxt "132143172-0-38984"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>>.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench also immobilizes the enemy.\n\nShock Clench converts the attack into an area of effect explosion."
+msgstr "스태프의 충전된 힘을 방출하여 적을 파괴합니다. <<1>>를 입힙니다.\n\n화염의 움켜쥠은 적을 뒤로 밀쳐냅니다.\n\n냉기의 움켜쥠은 적을 이동 불가 상태로 만듭니다.\n\n전격의 움켜쥠은 주변의 적에게도 피해를 줍니다."
+
+#: 198758357-0-38984
+msgctxt "198758357-0-38984"
+msgid "Destructive Clench"
+msgstr "Destructive Clench"
+
+#: 132143172-0-46340
+msgctxt "132143172-0-46340"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>."
+msgstr "모든 원소의 에너지를 스태프에 집중시켜 적에게 폭발시킵니다. <<1>>, <<2>>, <<3>>를 줍니다."
+
+#: 198758357-0-46340
+msgctxt "198758357-0-46340"
+msgid "Force Shock"
+msgstr "Force Shock"
+
+#: 132143172-0-30962
+msgctxt "132143172-0-30962"
+msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
+msgstr "파괴 스태프를 장착한 동안 적을 불태우고, 감전시키고, 얼어붙게 만들 확률이 <<1>> 증가합니다."
+
+#: 198758357-0-30962
+msgctxt "198758357-0-30962"
+msgid "Elemental Force"
+msgstr "Elemental Force"
+
+#: 132143172-0-30965
+msgctxt "132143172-0-30965"
+msgid "When you kill an enemy with a Destruction Staff ability, you restore <<1>> Magicka."
+msgstr "파괴 스태프 어빌리티로 적을 처치하면 <<1>> 매지카를 회복합니다."
+
+#: 198758357-0-30965
+msgctxt "198758357-0-30965"
+msgid "Destruction Expert"
+msgstr "Destruction Expert"
+
+#: 132143172-0-45500
+msgctxt "132143172-0-45500"
+msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
+msgstr "착용한 스태프에 따라 다음의 효과를 얻습니다:\n\n최대로 완충된 화염 지팡이 강공격은 <<1>> 추가 피해를 줍니다.\n\n전격 지팡이 강공격은 가한 피해의 <<2>>를 주변의 적들에게도 줍니다.\n\n최대로 완충된 냉기 지팡이 강공격은 적이 <<3>> 동안 자신을 공격하게 도발하고 <<4>> 피해를 흡수하는 보호막을 생성합니다.\n\n냉기 스태프를 장착하고 있으면  막기가 스태미나 대신 매지카를 소모합니다."
+
+#: 198758357-0-45500
+msgctxt "198758357-0-45500"
+msgid "Tri Focus"
+msgstr "Tri Focus"
+
+#: 132143172-0-39089
+msgctxt "132143172-0-39089"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAny damage you deal to the enemy refreshes this effect to its maximum duration."
+msgstr "원소를 내보내 적의 방어를 무력화시킵니다.  <<2>> 동안 <<1>> 효과를 가해 마법 저항력을 <<3>> 감소시킵니다.\n\n이 동안 적에게 피해를 가하면 지속 시간이 최대로 초기화됩니다."
+
+#: 198758357-0-39089
+msgctxt "198758357-0-39089"
+msgid "Elemental Susceptibility"
+msgstr "Elemental Susceptibility"
+
+#: 132143172-0-39143
+msgctxt "132143172-0-39143"
+msgid "Release a surge of elemental energy, dealing <<1>> to enemies at the target location."
+msgstr "폭발하는 원소 에너지를 해방해, 대상 지역의 적들에게 <<1>>를 줍니다."
+
+#: 198758357-0-39143
+msgctxt "198758357-0-39143"
+msgid "Elemental Ring"
+msgstr "Elemental Ring"
+
+#: 132143172-0-46356
+msgctxt "132143172-0-46356"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>. \n\nUp to 2 nearby enemies will take \n<<4>> if they were already afflicted with Burning, Chilled, or Concussed status effects."
+msgstr "모든 원소의 에너지를 스태프에 집중시켜 적에게 폭발시킵니다. <<1>>, <<2>>, <<3>>를 줍니다.\n\n근처에 있는 최대 2명의 적이\n이미 불타거나, 얼어붙거나, 감전된 상태라면 <<4>>를 줍니다."
+
+#: 198758357-0-46356
+msgctxt "198758357-0-46356"
+msgid "Force Pulse"
+msgstr "Force Pulse"
+
+#: 132143172-0-30948
+msgctxt "132143172-0-30948"
+msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
+msgstr "착용한 스태프에 따라 다음의 효과를 얻습니다:\n\n최대로 완충된 화염 지팡이 강공격은 <<1>> 추가 피해를 줍니다.\n\n전격 지팡이 강공격은 가한 피해의 <<2>>를 주변의 적들에게도 줍니다.\n\n최대로 완충된 냉기 지팡이 강공격은 적이 <<3>> 동안 자신을 공격하게 도발하고 <<4>> 피해를 흡수하는 보호막을 생성합니다.\n\n냉기 스태프를 장착하고 있으면  막기가 스태미나 대신 매지카를 소모합니다."
+
+#: 198758357-0-30948
+msgctxt "198758357-0-30948"
+msgid "Tri Focus"
+msgstr "Tri Focus"
+
 #: 132143172-0-28800
 msgctxt "132143172-0-28800"
 msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies."
@@ -290,3 +200,93 @@ msgstr "폭발하는 원소 에너지를 해방해 근처의 적들에게 <<1>>�
 msgctxt "198758357-0-28800"
 msgid "Impulse"
 msgstr "Impulse"
+
+#: 132143172-0-45509
+msgctxt "132143172-0-45509"
+msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+msgstr "파괴 스태프 어빌리티가 적의 마법 저항력을 <<1>>% 무시합니다."
+
+#: 198758357-0-45509
+msgctxt "198758357-0-45509"
+msgid "Penetrating Magic"
+msgstr "Penetrating Magic"
+
+#: 132143172-0-83619
+msgctxt "132143172-0-83619"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr "대상 지역에 격변하는 폭풍을 불러내  범위 내의 적들을 초토화시킵니다. 폭풍은 시전 후 |cffffff2|r초 뒤에 생성되며 <<3>> 동안 매 <<2>>마다 <<1>>를 줍니다."
+
+#: 198758357-0-83619
+msgctxt "198758357-0-83619"
+msgid "Elemental Storm"
+msgstr "Elemental Storm"
+
+#: 132143172-0-39161
+msgctxt "132143172-0-39161"
+msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
+msgstr "폭발하는 원소 에너지를 해방해, 근처의 적들에게 <<1>>를 주고 <<2>> 효과를 가해 최대 체력을 <<4>> 동안 <<3>> 감소시킵니다."
+
+#: 198758357-0-39161
+msgctxt "198758357-0-39161"
+msgid "Pulsar"
+msgstr "Pulsar"
+
+#: 132143172-0-38937
+msgctxt "132143172-0-38937"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
+msgstr "스태프의 충전된 힘을 방출하여 적을 파괴합니다. <<1>>를 주고 추가로 <<2>> 마법 피해를 <<3>>에 걸쳐 줍니다."
+
+#: 198758357-0-38937
+msgctxt "198758357-0-38937"
+msgid "Destructive Reach"
+msgstr "Destructive Reach"
+
+#: 132143172-0-83642
+msgctxt "132143172-0-83642"
+msgid "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
+msgstr "당신의 위치에 격변하는 폭풍을 불러내 범위 내의 적들을 초토화시킵니다. 폭풍은 시전 후 |cffffff2|r초 뒤에 생성되며 <<3>> 동안 매 <<2>>마다 <<1>>를 줍니다."
+
+#: 198758357-0-83642
+msgctxt "198758357-0-83642"
+msgid "Eye of the Storm"
+msgstr "Eye of the Storm"
+
+#: 132143172-0-84434
+msgctxt "132143172-0-84434"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nFiery Rage increases the damage by <<4>>.\n\nIcy Rage immobilizes enemies hit for <<5>>.\n\nThunderous Rage increases the duration by |cffffff2|r seconds."
+msgstr "대상 지역에 격변하는 폭풍을 불러내  범위 내의 적들을 초토화시킵니다. 폭풍은 시전 후 |cffffff2|r초 뒤에 생성되며 <<3>> 동안 매 <<2>>마다 <<1>>를 줍니다.\n\n화염의 분노는 피해량을 <<4>> 증가시킵니다.\n\n냉기의 분노는 적중당한 적들을 <<5>> 동안 이동 불가 상태로 만듭니다.\n\n전격의 분노는 폭풍의 지속 시간을 |cffffff2|r 증가시킵니다."
+
+#: 198758357-0-84434
+msgctxt "198758357-0-84434"
+msgid "Elemental Rage"
+msgstr "Elemental Rage"
+
+#: 132143172-0-29091
+msgctxt "132143172-0-29091"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
+msgstr "스태프의 충전된 힘을 방출하여 적을 파괴합니다. <<1>>를 주고 추가로 <<2>> 마법 피해를 <<3>>에 걸쳐 줍니다."
+
+#: 198758357-0-29091
+msgctxt "198758357-0-29091"
+msgid "Destructive Touch"
+msgstr "Destructive Touch"
+
+#: 132143172-0-30957
+msgctxt "132143172-0-30957"
+msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+msgstr "파괴 스태프 어빌리티가 적의 마법 저항력을 <<1>>% 무시합니다."
+
+#: 198758357-0-30957
+msgctxt "198758357-0-30957"
+msgid "Penetrating Magic"
+msgstr "Penetrating Magic"
+
+#: 132143172-0-29173
+msgctxt "132143172-0-29173"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>."
+msgstr "원소를 내보내 적의 방어를 무력화시킵니다.  <<2>> 동안 <<1>> 효과를 가해 마법 저항력을 <<3>> 감소시킵니다."
+
+#: 198758357-0-29173
+msgctxt "198758357-0-29173"
+msgid "Weakness to Elements"
+msgstr "Weakness to Elements"

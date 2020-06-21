@@ -11,6 +11,76 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 228378404-0-114890
+msgctxt "228378404-0-114890"
+msgid "Used in crafting cloth furniture."
+msgstr "천 가구를 제작하는 데에 사용됩니다."
+
+#: 242841733-0-114890
+msgctxt "242841733-0-114890"
+msgid "Bast"
+msgstr "인피 섬유 (Bast)"
+
+#: 228378404-0-114891
+msgctxt "228378404-0-114891"
+msgid "Used in crafting leather furniture."
+msgstr "가죽 가구를 제작하는 데에 사용됩니다."
+
+#: 242841733-0-114891
+msgctxt "242841733-0-114891"
+msgid "Clean Pelt"
+msgstr "깨끗한 털가죽 (Clean Pelt)"
+
+#: 228378404-0-114892
+msgctxt "228378404-0-114892"
+msgid "Used in crafting stone furniture."
+msgstr "석재 가구를 제작하는 데에 사용됩니다."
+
+#: 242841733-0-114892
+msgctxt "242841733-0-114892"
+msgid "Mundane Rune"
+msgstr "평범한 룬 (Mundane Rune)"
+
+#: 228378404-0-114893
+msgctxt "228378404-0-114893"
+msgid "Used in crafting alchemically treated furniture."
+msgstr "연금술적인 처리가 된 가구를 제작하는 데에 사용됩니다."
+
+#: 242841733-0-114893
+msgctxt "242841733-0-114893"
+msgid "Alchemical Resin"
+msgstr "연금 수지 (Alchemical Resin)"
+
+#: 228378404-0-114894
+msgctxt "228378404-0-114894"
+msgid "Used in crafting decorative food or finishing touches."
+msgstr "장식용 음식의 제작이나 마무리 손질에 사용됩니다."
+
+#: 242841733-0-114894
+msgctxt "242841733-0-114894"
+msgid "Decorative Wax"
+msgstr "장식용 왁스 (Decorative Wax)"
+
+#: 228378404-0-114895
+msgctxt "228378404-0-114895"
+msgid "Used in crafting wooden furniture."
+msgstr "목재 가구를 제작하는 데에 사용됩니다."
+
+#: 242841733-0-114895
+msgctxt "242841733-0-114895"
+msgid "Heartwood"
+msgstr "속재목 (Heartwood)"
+
+#: 228378404-0-114889
+msgctxt "228378404-0-114889"
+msgid "Used in crafting metal furniture."
+msgstr "금속 가구를 제작하는 데에 사용됩니다."
+
+#: 242841733-0-114889
+msgctxt "242841733-0-114889"
+msgid "Regulus"
+msgstr "레귤러스 (Regulus)"
+
 #: 228378404-0-135161
 msgctxt "228378404-0-135161"
 msgid "Used in crafting jewelry furniture."
@@ -30,73 +100,3 @@ msgstr "구성체가 스스로를 수리할 수 있도록 해 주는 드워븐 �
 msgctxt "242841733-0-126581"
 msgid "Dwarven Construct Repair Parts"
 msgstr "드워븐 구성체 수리부품"
-
-#: 228378404-0-114895
-msgctxt "228378404-0-114895"
-msgid "Used in crafting wooden furniture."
-msgstr "목재 가구를 제작하는 데에 사용됩니다."
-
-#: 242841733-0-114895
-msgctxt "242841733-0-114895"
-msgid "Heartwood"
-msgstr "속재목 (Heartwood)"
-
-#: 228378404-0-114894
-msgctxt "228378404-0-114894"
-msgid "Used in crafting decorative food or finishing touches."
-msgstr "장식용 음식의 제작이나 마무리 손질에 사용됩니다."
-
-#: 242841733-0-114894
-msgctxt "242841733-0-114894"
-msgid "Decorative Wax"
-msgstr "장식용 왁스 (Decorative Wax)"
-
-#: 228378404-0-114893
-msgctxt "228378404-0-114893"
-msgid "Used in crafting alchemically treated furniture."
-msgstr "연금술적인 처리가 된 가구를 제작하는 데에 사용됩니다."
-
-#: 242841733-0-114893
-msgctxt "242841733-0-114893"
-msgid "Alchemical Resin"
-msgstr "연금 수지 (Alchemical Resin)"
-
-#: 228378404-0-114892
-msgctxt "228378404-0-114892"
-msgid "Used in crafting stone furniture."
-msgstr "석재 가구를 제작하는 데에 사용됩니다."
-
-#: 242841733-0-114892
-msgctxt "242841733-0-114892"
-msgid "Mundane Rune"
-msgstr "평범한 룬 (Mundane Rune)"
-
-#: 228378404-0-114891
-msgctxt "228378404-0-114891"
-msgid "Used in crafting leather furniture."
-msgstr "가죽 가구를 제작하는 데에 사용됩니다."
-
-#: 242841733-0-114891
-msgctxt "242841733-0-114891"
-msgid "Clean Pelt"
-msgstr "깨끗한 털가죽 (Clean Pelt)"
-
-#: 228378404-0-114890
-msgctxt "228378404-0-114890"
-msgid "Used in crafting cloth furniture."
-msgstr "천 가구를 제작하는 데에 사용됩니다."
-
-#: 242841733-0-114890
-msgctxt "242841733-0-114890"
-msgid "Bast"
-msgstr "인피 섬유 (Bast)"
-
-#: 228378404-0-114889
-msgctxt "228378404-0-114889"
-msgid "Used in crafting metal furniture."
-msgstr "금속 가구를 제작하는 데에 사용됩니다."
-
-#: 242841733-0-114889
-msgctxt "242841733-0-114889"
-msgid "Regulus"
-msgstr "레귤러스 (Regulus)"

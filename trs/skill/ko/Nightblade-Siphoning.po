@@ -11,6 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-36560
+msgctxt "132143172-0-36560"
+msgid "After drinking a potion you gain <<1>> Ultimate."
+msgstr "포션을 마시면 궁극기 게이지를 <<1>>만큼 획득합니다."
+
+#: 198758357-0-36560
+msgctxt "198758357-0-36560"
+msgid "Catalyst"
+msgstr "Catalyst"
+
 #: 132143172-0-45155
 msgctxt "132143172-0-45155"
 msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
@@ -18,6 +28,106 @@ msgstr "슬롯에 있는 Siphoning 어빌리티 한 개당 치유량이 <<1>>만
 
 #: 198758357-0-45155
 msgctxt "198758357-0-45155"
+msgid "Soul Siphoner"
+msgstr "Soul Siphoner"
+
+#: 132143172-0-45135
+msgctxt "132143172-0-45135"
+msgid "After drinking a potion you gain <<1>> Ultimate."
+msgstr "포션을 마시면 궁극기 게이지를 <<1>>만큼 획득합니다."
+
+#: 198758357-0-45135
+msgctxt "198758357-0-45135"
+msgid "Catalyst"
+msgstr "Catalyst"
+
+#: 132143172-0-33291
+msgctxt "132143172-0-33291"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you or a nearby ally for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr "대상의 생명력을 흡수하여 <<1>>를 입히고, 자신 혹은 주위 아군을 체력을 입힌 피해의 <<2>>%에 만큼 <<4>>에 걸쳐 <<3>>마다 회복합니다."
+
+#: 198758357-0-33291
+msgctxt "198758357-0-33291"
+msgid "Strife"
+msgstr "Strife"
+
+#: 132143172-0-34721
+msgctxt "132143172-0-34721"
+msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>."
+msgstr "자신의 정수를 희생해, 자신 또는 아군의 체력을 <<2>>에 걸쳐 <<1>>만큼 회복합니다."
+
+#: 198758357-0-34721
+msgctxt "198758357-0-34721"
+msgid "Shrewd Offering"
+msgstr "Shrewd Offering"
+
+#: 132143172-0-36908
+msgctxt "132143172-0-36908"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Stamina for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Stamina when the effect ends, based on the length of time <<5>> was active."
+msgstr "무기에 영혼을 착취하는 힘을 부여해, <<3>> 동안 약공격 및 강공격이 자신의 체력을 <<1>>만큼 회복시키고 스테마나를 <<2>>만큼 회복시킵니다. 최대 충전된 강공격은 두배의 리소스를 회복합니다.\n\n효과가 끝나면 <<5>>의 효과가 지속한 시간에 비례해, 추가로 스테미나를 최대 <<4>>까지 회복합니다."
+
+#: 198758357-0-36908
+msgctxt "198758357-0-36908"
+msgid "Leeching Strikes"
+msgstr "Leeching Strikes"
+
+#: 132143172-0-36587
+msgctxt "132143172-0-36587"
+msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "Siphoning 어빌리티를 시전하면 궁극기 게이지를 <<1>>만큼 획득합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
+
+#: 198758357-0-36587
+msgctxt "198758357-0-36587"
+msgid "Transfer"
+msgstr "Transfer"
+
+#: 132143172-0-34727
+msgctxt "132143172-0-34727"
+msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>.\n\nWhile your Health is being drained you gain Minor Mending, increasing your healing done by <<3>>."
+msgstr "자신의 정수를 희생해, 자신 또는 아군의 체력을 <<2>>에 걸쳐 <<1>>만큼 회복합니다.\n\n자신은 <<3>> 동안 Minor Mending 효과를 얻어, 주는 치유량이 증가합니다."
+
+#: 198758357-0-34727
+msgctxt "198758357-0-34727"
+msgid "Healthy Offering"
+msgstr "Healthy Offering"
+
+#: 132143172-0-33319
+msgctxt "132143172-0-33319"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health for <<2>>. Fully charged Heavy Attacks restore twice the value."
+msgstr "무기에 영혼을 착취하는 힘을 부여해, 약공격 및 강공격이 자신의 체력을 <<1>>만큼 <<2>> 동안 회복시킵니다. 최대 충전된 강공격은 두배의 리소스를 회복합니다."
+
+#: 198758357-0-33319
+msgctxt "198758357-0-33319"
+msgid "Siphoning Strikes"
+msgstr "Siphoning Strikes"
+
+#: 132143172-0-36943
+msgctxt "132143172-0-36943"
+msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> over <<2>> and reducing their movement speed by <<3>> for <<4>>.\n\nWhile this effect persists the enemy is afflicted with <<5>>, causing you and your allies to restore <<6>> Magicka every <<7>> when damaging them."
+msgstr "대상의 민첩성을 약화시켜 <<2>>에 걸쳐 총 <<1>>를 입히고, <<4>>동안 <<3>>만큼  감속시킵니다.\n\n이 효과가 지속되는 동안 적에게 <<5>> 효과를 가해 당신과 동료가 피해를 가하면  <<7>> 마다 <<6>> 매지카를 회복합니다. "
+
+#: 198758357-0-36943
+msgctxt "198758357-0-36943"
+msgid "Debilitate"
+msgstr "Debilitate"
+
+#: 132143172-0-33316
+msgctxt "132143172-0-33316"
+msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<2>> for <<3>>."
+msgstr "주변의 모든 적의 활력을 흡수해 <<1>>를 입힙니다.\n\n적에게 피해를 입히면 자신은 Major Brutality and Sorcery 효과를 얻어, <<3>> 동안 무기 피해량과 마법 피해량이 <<2>>만큼 증가합니다."
+
+#: 198758357-0-33316
+msgctxt "198758357-0-33316"
+msgid "Drain Power"
+msgstr "Drain Power"
+
+#: 132143172-0-36603
+msgctxt "132143172-0-36603"
+msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
+msgstr "슬롯에 있는 Siphoning 어빌리티 한 개당 치유량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
+
+#: 198758357-0-36603
+msgctxt "198758357-0-36603"
 msgid "Soul Siphoner"
 msgstr "Soul Siphoner"
 
@@ -31,66 +141,6 @@ msgctxt "198758357-0-45150"
 msgid "Magicka Flood"
 msgstr "Magicka Flood"
 
-#: 132143172-0-45145
-msgctxt "132143172-0-45145"
-msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr "Siphoning 어빌리티를 시전하면 궁극기 게이지를 <<1>>만큼 획득합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
-
-#: 198758357-0-45145
-msgctxt "198758357-0-45145"
-msgid "Transfer"
-msgstr "Transfer"
-
-#: 132143172-0-45135
-msgctxt "132143172-0-45135"
-msgid "After drinking a potion you gain <<1>> Ultimate."
-msgstr "포션을 마시면 궁극기 게이지를 <<1>>만큼 획득합니다."
-
-#: 198758357-0-45135
-msgctxt "198758357-0-45135"
-msgid "Catalyst"
-msgstr "Catalyst"
-
-#: 132143172-0-36957
-msgctxt "132143172-0-36957"
-msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> and an additional <<2>> over <<3>>, immobilizing them for <<4>>, and reducing their movement speed by <<5>> for <<6>>."
-msgstr "대상의 민첩성을 약화시켜 즉시 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다. 또한 <<4>> 동안 이동 불가 상태로 만들고, <<6>>동안 <<5>>만큼 감속시킵니다."
-
-#: 198758357-0-36957
-msgctxt "198758357-0-36957"
-msgid "Crippling Grasp"
-msgstr "Crippling Grasp"
-
-#: 132143172-0-36943
-msgctxt "132143172-0-36943"
-msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> over <<2>> and reducing their movement speed by <<3>> for <<4>>.\n\nWhile this effect persists the enemy is afflicted with <<5>>, causing you and your allies to restore <<6>> Magicka every <<7>> when damaging them."
-msgstr "대상의 민첩성을 약화시켜 <<2>>에 걸쳐 총 <<1>>를 입히고, <<4>>동안 <<3>>만큼  감속시킵니다.\n\n이 효과가 지속되는 동안 적에게 <<5>> 효과를 가해 당신과 동료가 피해를 가하면  <<7>> 마다 <<6>> 매지카를 회복합니다. "
-
-#: 198758357-0-36943
-msgctxt "198758357-0-36943"
-msgid "Debilitate"
-msgstr "Debilitate"
-
-#: 132143172-0-36935
-msgctxt "132143172-0-36935"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Magicka for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Magicka when the effect ends, based on the length of time <<5>> was active."
-msgstr "무기에 영혼을 착취하는 힘을 부여해, <<3>> 동안 약공격 및 강공격이 자신의 체력을 <<1>>만큼 회복시키고 매지카를 <<2>>만큼 회복시킵니다. 최대 충전된 강공격은 두배의 리소스를 회복합니다.\n\n효과가 끝나면 <<5>>의 효과가 지속한 시간에 비례해, 추가로 매지카를 최대 <<4>>까지 회복합니다."
-
-#: 198758357-0-36935
-msgctxt "198758357-0-36935"
-msgid "Siphoning Attacks"
-msgstr "Siphoning Attacks"
-
-#: 132143172-0-36908
-msgctxt "132143172-0-36908"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Stamina for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Stamina when the effect ends, based on the length of time <<5>> was active."
-msgstr "무기에 영혼을 착취하는 힘을 부여해, <<3>> 동안 약공격 및 강공격이 자신의 체력을 <<1>>만큼 회복시키고 스테마나를 <<2>>만큼 회복시킵니다. 최대 충전된 강공격은 두배의 리소스를 회복합니다.\n\n효과가 끝나면 <<5>>의 효과가 지속한 시간에 비례해, 추가로 스테미나를 최대 <<4>>까지 회복합니다."
-
-#: 198758357-0-36908
-msgctxt "198758357-0-36908"
-msgid "Leeching Strikes"
-msgstr "Leeching Strikes"
-
 #: 132143172-0-36901
 msgctxt "132143172-0-36901"
 msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you reduce their Weapon and Spell Damage by <<2>> for <<3>> and you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<4>> for <<5>>."
@@ -100,6 +150,16 @@ msgstr "주변의 모든 적의 활력을 흡수해 <<1>>를 입힙니다.\n\n�
 msgctxt "198758357-0-36901"
 msgid "Power Extraction"
 msgstr "Power Extraction"
+
+#: 132143172-0-45145
+msgctxt "132143172-0-45145"
+msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
+msgstr "Siphoning 어빌리티를 시전하면 궁극기 게이지를 <<1>>만큼 획득합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
+
+#: 198758357-0-45145
+msgctxt "198758357-0-45145"
+msgid "Transfer"
+msgstr "Transfer"
 
 #: 132143172-0-36891
 msgctxt "132143172-0-36891"
@@ -111,16 +171,6 @@ msgctxt "198758357-0-36891"
 msgid "Sap Essence"
 msgstr "Sap Essence"
 
-#: 132143172-0-36603
-msgctxt "132143172-0-36603"
-msgid "Increases your healing done by <<1>> for each Siphoning ability slotted. \n\nCurrent bonus: <<2>>."
-msgstr "슬롯에 있는 Siphoning 어빌리티 한 개당 치유량이 <<1>>만큼 증가합니다.\n\n현재 증가량: <<2>>"
-
-#: 198758357-0-36603
-msgctxt "198758357-0-36603"
-msgid "Soul Siphoner"
-msgstr "Soul Siphoner"
-
 #: 132143172-0-36595
 msgctxt "132143172-0-36595"
 msgid "Increases your Max Magicka by <<1>> while a Siphoning ability is slotted."
@@ -130,36 +180,6 @@ msgstr "Siphoning 어빌리티가 슬롯에 있으면 최대 매지카가 <<1>>�
 msgctxt "198758357-0-36595"
 msgid "Magicka Flood"
 msgstr "Magicka Flood"
-
-#: 132143172-0-36587
-msgctxt "132143172-0-36587"
-msgid "Casting a Siphoning ability generates <<1>> Ultimate. This effect can occur once every <<2>>."
-msgstr "Siphoning 어빌리티를 시전하면 궁극기 게이지를 <<1>>만큼 획득합니다. 이 효과는 <<2>>에 한 번만 발동합니다."
-
-#: 198758357-0-36587
-msgctxt "198758357-0-36587"
-msgid "Transfer"
-msgstr "Transfer"
-
-#: 132143172-0-36560
-msgctxt "132143172-0-36560"
-msgid "After drinking a potion you gain <<1>> Ultimate."
-msgstr "포션을 마시면 궁극기 게이지를 <<1>>만큼 획득합니다."
-
-#: 198758357-0-36560
-msgctxt "198758357-0-36560"
-msgid "Catalyst"
-msgstr "Catalyst"
-
-#: 132143172-0-35508
-msgctxt "132143172-0-35508"
-msgid "Sanctify your soul and the souls of nearby allies with a night rune, healing for <<1>> Health and an additional <<2>> Health over <<3>>.\n\nYou and your allies will also receive Major Vitality, increasing your healing received by <<4>> for <<5>>.\n\nAn ally can target a nearby enemy and activate the |cffffffSoul Leech|r synergy, dealing <<6>> to them and healing for the damage caused."
-msgstr "자신과 주위의 모든 아군의 영혼을 신성화하여 체력을 즉시 <<1>>만큼 회복시키고, <<3>>에 걸쳐 추가로 <<2>>만큼 회복시킵니다.\n\n자신과 아군들이 Major Vitality 효과 또한 얻어 <<5>> 동안 받는 치유량이 <<4>>만큼 증가합니다.\n\n아군이 적을 대상으로 |cffffffSoul Leech|r 연계 효과를 발동시킬 수 있습니다. 발동하면 대상에게 <<6>>을 주고 피해량만큼 회복합니다."
-
-#: 198758357-0-35508
-msgctxt "198758357-0-35508"
-msgid "Soul Siphon"
-msgstr "Soul Siphon"
 
 #: 132143172-0-35460
 msgctxt "132143172-0-35460"
@@ -171,45 +191,25 @@ msgctxt "198758357-0-35460"
 msgid "Soul Tether"
 msgstr "Soul Tether"
 
-#: 132143172-0-34838
-msgctxt "132143172-0-34838"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you or |cffffff2|r other nearby allies for <<2>>% of the damage inflicted every <<3>> for <<4>>."
-msgstr "대상의 생명력을 흡수하여 <<1>>를 입히고, 자신과 주위의 아군 |cffffff2|r명은 입힌 피해의 <<2>>%에 해당하는 체력을 <<4>>에 걸쳐 <<3>>마다 회복합니다."
+#: 132143172-0-36957
+msgctxt "132143172-0-36957"
+msgid "Sap an enemy's agility and wrack them with pain, dealing <<1>> and an additional <<2>> over <<3>>, immobilizing them for <<4>>, and reducing their movement speed by <<5>> for <<6>>."
+msgstr "대상의 민첩성을 약화시켜 즉시 <<1>>를 입히고, 추가로 <<3>>에 걸쳐 총 <<2>>를 입힙니다. 또한 <<4>> 동안 이동 불가 상태로 만들고, <<6>>동안 <<5>>만큼 감속시킵니다."
 
-#: 198758357-0-34838
-msgctxt "198758357-0-34838"
-msgid "Funnel Health"
-msgstr "Funnel Health"
+#: 198758357-0-36957
+msgctxt "198758357-0-36957"
+msgid "Crippling Grasp"
+msgstr "Crippling Grasp"
 
-#: 132143172-0-34835
-msgctxt "132143172-0-34835"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you for <<2>>% of the damage inflicted every <<3>> for <<4>>."
-msgstr "대상의 생명력을 흡수하여 <<1>>를 입히고, 자신은 입힌 피해의 <<2>>%에 해당하는 체력을 <<4>>에 걸쳐 <<3>>마다 회복합니다."
+#: 132143172-0-36935
+msgctxt "132143172-0-36935"
+msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health and restore <<2>> Magicka for <<3>>. Fully charged Heavy Attacks restore twice the value.\n\nYou restore up to <<4>> additional Magicka when the effect ends, based on the length of time <<5>> was active."
+msgstr "무기에 영혼을 착취하는 힘을 부여해, <<3>> 동안 약공격 및 강공격이 자신의 체력을 <<1>>만큼 회복시키고 매지카를 <<2>>만큼 회복시킵니다. 최대 충전된 강공격은 두배의 리소스를 회복합니다.\n\n효과가 끝나면 <<5>>의 효과가 지속한 시간에 비례해, 추가로 매지카를 최대 <<4>>까지 회복합니다."
 
-#: 198758357-0-34835
-msgctxt "198758357-0-34835"
-msgid "Swallow Soul"
-msgstr "Swallow Soul"
-
-#: 132143172-0-34727
-msgctxt "132143172-0-34727"
-msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>.\n\nWhile your Health is being drained you gain Minor Mending, increasing your healing done by <<3>>."
-msgstr "자신의 정수를 희생해, 자신 또는 아군의 체력을 <<2>>에 걸쳐 <<1>>만큼 회복합니다.\n\n자신은 <<3>> 동안 Minor Mending 효과를 얻어, 주는 치유량이 증가합니다."
-
-#: 198758357-0-34727
-msgctxt "198758357-0-34727"
-msgid "Healthy Offering"
-msgstr "Healthy Offering"
-
-#: 132143172-0-34721
-msgctxt "132143172-0-34721"
-msgid "Sacrifice your essence, healing an ally in front of you for <<1>> Health but draining your own Health over <<2>>."
-msgstr "자신의 정수를 희생해, 자신 또는 아군의 체력을 <<2>>에 걸쳐 <<1>>만큼 회복합니다."
-
-#: 198758357-0-34721
-msgctxt "198758357-0-34721"
-msgid "Shrewd Offering"
-msgstr "Shrewd Offering"
+#: 198758357-0-36935
+msgctxt "198758357-0-36935"
+msgid "Siphoning Attacks"
+msgstr "Siphoning Attacks"
 
 #: 132143172-0-33326
 msgctxt "132143172-0-33326"
@@ -221,25 +221,35 @@ msgctxt "198758357-0-33326"
 msgid "Cripple"
 msgstr "Cripple"
 
-#: 132143172-0-33319
-msgctxt "132143172-0-33319"
-msgid "Imbue your weapons with soul-stealing power, causing your Light and Heavy Attacks to heal you for <<1>> Health for <<2>>. Fully charged Heavy Attacks restore twice the value."
-msgstr "무기에 영혼을 착취하는 힘을 부여해, 약공격 및 강공격이 자신의 체력을 <<1>>만큼 <<2>> 동안 회복시킵니다. 최대 충전된 강공격은 두배의 리소스를 회복합니다."
+#: 132143172-0-34838
+msgctxt "132143172-0-34838"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you or |cffffff2|r other nearby allies for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr "대상의 생명력을 흡수하여 <<1>>를 입히고, 자신과 주위의 아군 |cffffff2|r명은 입힌 피해의 <<2>>%에 해당하는 체력을 <<4>>에 걸쳐 <<3>>마다 회복합니다."
 
-#: 198758357-0-33319
-msgctxt "198758357-0-33319"
-msgid "Siphoning Strikes"
-msgstr "Siphoning Strikes"
+#: 198758357-0-34838
+msgctxt "198758357-0-34838"
+msgid "Funnel Health"
+msgstr "Funnel Health"
 
-#: 132143172-0-33316
-msgctxt "132143172-0-33316"
-msgid "Siphon the vigor from your enemies' blood, dealing <<1>> to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by <<2>> for <<3>>."
-msgstr "주변의 모든 적의 활력을 흡수해 <<1>>를 입힙니다.\n\n적에게 피해를 입히면 자신은 Major Brutality and Sorcery 효과를 얻어, <<3>> 동안 무기 피해량과 마법 피해량이 <<2>>만큼 증가합니다."
+#: 132143172-0-25091
+msgctxt "132143172-0-25091"
+msgid "Ravage nearby enemies' souls with a night rune, dealing <<1>> and stunning them for <<2>>. \n\nAn ally can target a ravaged enemy and activate the |cffffffSoul Leech|r synergy, dealing <<3>> to them and healing for the damage caused."
+msgstr "주위의 모든 적들의 영혼을 밤의 룬으로 파괴해 <<1>>를 입히고, <<2>> 동안 기절시킵니다.\n\n기절시킨 적에게 아군이  |cffffffSoul Leech|r 연계 효과를 발동시킬 수 있습니다. 발동하면 대상에게 <<3>>을 주고 피해량 만큼 회복합니다."
 
-#: 198758357-0-33316
-msgctxt "198758357-0-33316"
-msgid "Drain Power"
-msgstr "Drain Power"
+#: 198758357-0-25091
+msgctxt "198758357-0-25091"
+msgid "Soul Shred"
+msgstr "Soul Shred"
+
+#: 132143172-0-35508
+msgctxt "132143172-0-35508"
+msgid "Sanctify your soul and the souls of nearby allies with a night rune, healing for <<1>> Health and an additional <<2>> Health over <<3>>.\n\nYou and your allies will also receive Major Vitality, increasing your healing received by <<4>> for <<5>>.\n\nAn ally can target a nearby enemy and activate the |cffffffSoul Leech|r synergy, dealing <<6>> to them and healing for the damage caused."
+msgstr "자신과 주위의 모든 아군의 영혼을 신성화하여 체력을 즉시 <<1>>만큼 회복시키고, <<3>>에 걸쳐 추가로 <<2>>만큼 회복시킵니다.\n\n자신과 아군들이 Major Vitality 효과 또한 얻어 <<5>> 동안 받는 치유량이 <<4>>만큼 증가합니다.\n\n아군이 적을 대상으로 |cffffffSoul Leech|r 연계 효과를 발동시킬 수 있습니다. 발동하면 대상에게 <<6>>을 주고 피해량만큼 회복합니다."
+
+#: 198758357-0-35508
+msgctxt "198758357-0-35508"
+msgid "Soul Siphon"
+msgstr "Soul Siphon"
 
 #: 132143172-0-33308
 msgctxt "132143172-0-33308"
@@ -251,22 +261,12 @@ msgctxt "198758357-0-33308"
 msgid "Malevolent Offering"
 msgstr "Malevolent Offering"
 
-#: 132143172-0-33291
-msgctxt "132143172-0-33291"
-msgid "Steal an enemy's life force, dealing <<1>> and healing you or a nearby ally for <<2>>% of the damage inflicted every <<3>> for <<4>>."
-msgstr "대상의 생명력을 흡수하여 <<1>>를 입히고, 자신 혹은 주위 아군을 체력을 입힌 피해의 <<2>>%에 만큼 <<4>>에 걸쳐 <<3>>마다 회복합니다."
+#: 132143172-0-34835
+msgctxt "132143172-0-34835"
+msgid "Steal an enemy's life force, dealing <<1>> and healing you for <<2>>% of the damage inflicted every <<3>> for <<4>>."
+msgstr "대상의 생명력을 흡수하여 <<1>>를 입히고, 자신은 입힌 피해의 <<2>>%에 해당하는 체력을 <<4>>에 걸쳐 <<3>>마다 회복합니다."
 
-#: 198758357-0-33291
-msgctxt "198758357-0-33291"
-msgid "Strife"
-msgstr "Strife"
-
-#: 132143172-0-25091
-msgctxt "132143172-0-25091"
-msgid "Ravage nearby enemies' souls with a night rune, dealing <<1>> and stunning them for <<2>>. \n\nAn ally can target a ravaged enemy and activate the |cffffffSoul Leech|r synergy, dealing <<3>> to them and healing for the damage caused."
-msgstr "주위의 모든 적들의 영혼을 밤의 룬으로 파괴해 <<1>>를 입히고, <<2>> 동안 기절시킵니다.\n\n기절시킨 적에게 아군이  |cffffffSoul Leech|r 연계 효과를 발동시킬 수 있습니다. 발동하면 대상에게 <<3>>을 주고 피해량 만큼 회복합니다."
-
-#: 198758357-0-25091
-msgctxt "198758357-0-25091"
-msgid "Soul Shred"
-msgstr "Soul Shred"
+#: 198758357-0-34835
+msgctxt "198758357-0-34835"
+msgid "Swallow Soul"
+msgstr "Swallow Soul"

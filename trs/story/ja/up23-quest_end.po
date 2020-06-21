@@ -21,16 +21,6 @@ msgctxt "232026500-0-14171"
 msgid "<Finish the job.>"
 msgstr "<仕事を終える>"
 
-#: 116521668-0-14169
-msgctxt "116521668-0-14169"
-msgid "<He notes your work and tenders payment.>"
-msgstr "<彼は仕事を記録し、支払いを提供する>"
-
-#: 232026500-0-14169
-msgctxt "232026500-0-14169"
-msgid "<Finish the job.>"
-msgstr "<仕事を終える>"
-
 #: 116521668-0-14167
 msgctxt "116521668-0-14167"
 msgid "<He notes your work and tenders payment.>"
@@ -41,16 +31,65 @@ msgctxt "232026500-0-14167"
 msgid "<Finish the job.>"
 msgstr "<仕事を終える>"
 
-#: 116521668-0-14129
-#, fuzzy
-msgctxt "116521668-0-14129"
-msgid "<A scrap of paper is pinned to the crate.>\n\n""I appreciate your quick and discreet delivery. Master Rolis need not know of this, of course. He isn't quite as open-minded as the rest of us. Enjoy your reward!"" —Faustina Curio"
-msgstr "<木枠箱に紙片が止められている>\r\n\r\n「迅速かつ慎重に配達してくれてありがとう。もちろん、ロリス様が知る必要はないわ。私たちと違って、心が広くないからね。報酬を受け取って！」 — ファウスティナ・キュリオ"
+#: 116521668-0-13815
+msgctxt "116521668-0-13815"
+msgid "Bet you thought you had a nice cozy pledge before the Dragon turned Selene against you. Not just anyone could have faced down Maarselok and the Changeling at the same time. Selene better behave, eh?\n\nTake your reward, Undaunted. You earned it."
+msgstr "ドラゴンがあなたにセレーンをけしかけるまで、楽な誓いだって思ってたでしょう？ マーセロクとセレーンを同時に相手できる者なんてそうはいない。セレーンも行儀よくなったんじゃない？\r\n\r\n報酬を受け取りなさい、アンドーンテッド。正当な報酬よ"
 
-#: 232026500-0-14129
-msgctxt "232026500-0-14129"
-msgid "<Finish the job.>"
-msgstr "<仕事を終える>"
+#: 232026500-0-13815
+msgctxt "232026500-0-13815"
+msgid "What's my reward for defeating Maarselok and Selene?"
+msgstr "マーセロクとセレーンを倒した報酬は？"
+
+#: 116521668-0-13816
+msgctxt "116521668-0-13816"
+msgid "You fulfilled your pledge, even if you had help from a vengeful nature spirit. Can't say I wouldn't enjoy beating a Dragon like a festival effigy given the opportunity. Just give the next one a fighting chance.\n\nHere's your key and cut."
+msgstr "復讐に燃えた自然の霊魂が助けてくれたんだとしても、誓いはしっかり果たした。機会があれば、私もドラゴンを倒してみたいわね。お祭りの大きな像みたいに。次の奴には、チャンスを与えてやりなさい\r\n\r\nさあ、鍵と報酬を受け取って"
+
+#: 232026500-0-13816
+msgctxt "232026500-0-13816"
+msgid "What's my reward for killing Maarselok?"
+msgstr "マーセロクを倒した報酬は？"
+
+#: 116521668-0-13978
+msgctxt "116521668-0-13978"
+msgid "Those who risk nothing inadvertently risk it all. Either we face this single Dragon to gain a Dragonhorn, or we face a horde without such a weapon at our side.\n\nBut what's risk without reward? Here's something for the aid you provided thus far."
+msgstr "何も危険を冒さぬ者は、すべてを危険に晒す。ドラゴン1匹と戦ってドラゴンホーンを手に入れるか、そうした武器を持たずにドラゴンの軍勢と戦うか。どちらがいい？\r\n\r\nしかし、危険を冒した者には報酬があってしかるべきだ。ここまでの協力に対する報酬を渡そう"
+
+#: 232026500-0-13978
+msgctxt "232026500-0-13978"
+msgid "We don't have the Dragonhorn yet."
+msgstr "まだドラゴンホーンは手に入っていない"
+
+#: 116521668-0-13814
+msgctxt "116521668-0-13814"
+msgid "Here. This was a gift from King Camoran. It's yours now. Payment in kind. With some gratitude on the house."
+msgstr "はい。これはカモラン王からの贈り物よ。受け取って。現物支給みたいだけど、感謝は籠ってるわ"
+
+#: 232026500-0-13814
+msgctxt "232026500-0-13814"
+msgid "Thank you."
+msgstr "ありがとう"
+
+#: 116521668-0-13809
+msgctxt "116521668-0-13809"
+msgid "There will always be some who are willing to choose risk over reason, but for now this threat has passed.\n\nTake this, along with my gratitude."
+msgstr "合理的な説得を受け入れず、危険を冒そうとする者は常にいる。しかし、当面の脅威は去ったようだ\r\n\r\n感謝の印に、これを受け取ってくれ"
+
+#: 232026500-0-13809
+msgctxt "232026500-0-13809"
+msgid "At least there's no chance of others following Grundwulf's example."
+msgstr "少なくとも、グランドウルフの例に倣える者は誰もいない"
+
+#: 116521668-0-13817
+msgctxt "116521668-0-13817"
+msgid "Killing a Dragon's worth bragging about, even with Selene's help. From what I heard it'd already killed an army of Wood Elves before you arrived. They'll be cheering your name all over Grahtwood for slaying that monster."
+msgstr "ドラゴンを倒したことは自慢できるわよ。たとえセレーンの助けがあったとしてもね。あなたが到着するまでに、ウッドエルフが大勢殺されてたみたい。あの怪物を倒したことで、あなたの名前はグラーウッド中で称えられるわ"
+
+#: 232026500-0-13817
+msgctxt "232026500-0-13817"
+msgid "What's my reward for killing Maarselok?"
+msgstr "マーセロクを倒した報酬は？"
 
 #: 116521668-0-14105
 #, fuzzy
@@ -73,65 +112,15 @@ msgctxt "232026500-0-13992"
 msgid "What's your next move, Sai?"
 msgstr "これからどうする、サイ？"
 
-#: 116521668-0-13978
-msgctxt "116521668-0-13978"
-msgid "Those who risk nothing inadvertently risk it all. Either we face this single Dragon to gain a Dragonhorn, or we face a horde without such a weapon at our side.\n\nBut what's risk without reward? Here's something for the aid you provided thus far."
-msgstr "何も危険を冒さぬ者は、すべてを危険に晒す。ドラゴン1匹と戦ってドラゴンホーンを手に入れるか、そうした武器を持たずにドラゴンの軍勢と戦うか。どちらがいい？\r\n\r\nしかし、危険を冒した者には報酬があってしかるべきだ。ここまでの協力に対する報酬を渡そう"
+#: 116521668-0-14169
+msgctxt "116521668-0-14169"
+msgid "<He notes your work and tenders payment.>"
+msgstr "<彼は仕事を記録し、支払いを提供する>"
 
-#: 232026500-0-13978
-msgctxt "232026500-0-13978"
-msgid "We don't have the Dragonhorn yet."
-msgstr "まだドラゴンホーンは手に入っていない"
-
-#: 116521668-0-13817
-msgctxt "116521668-0-13817"
-msgid "Killing a Dragon's worth bragging about, even with Selene's help. From what I heard it'd already killed an army of Wood Elves before you arrived. They'll be cheering your name all over Grahtwood for slaying that monster."
-msgstr "ドラゴンを倒したことは自慢できるわよ。たとえセレーンの助けがあったとしてもね。あなたが到着するまでに、ウッドエルフが大勢殺されてたみたい。あの怪物を倒したことで、あなたの名前はグラーウッド中で称えられるわ"
-
-#: 232026500-0-13817
-msgctxt "232026500-0-13817"
-msgid "What's my reward for killing Maarselok?"
-msgstr "マーセロクを倒した報酬は？"
-
-#: 116521668-0-13816
-msgctxt "116521668-0-13816"
-msgid "You fulfilled your pledge, even if you had help from a vengeful nature spirit. Can't say I wouldn't enjoy beating a Dragon like a festival effigy given the opportunity. Just give the next one a fighting chance.\n\nHere's your key and cut."
-msgstr "復讐に燃えた自然の霊魂が助けてくれたんだとしても、誓いはしっかり果たした。機会があれば、私もドラゴンを倒してみたいわね。お祭りの大きな像みたいに。次の奴には、チャンスを与えてやりなさい\r\n\r\nさあ、鍵と報酬を受け取って"
-
-#: 232026500-0-13816
-msgctxt "232026500-0-13816"
-msgid "What's my reward for killing Maarselok?"
-msgstr "マーセロクを倒した報酬は？"
-
-#: 116521668-0-13815
-msgctxt "116521668-0-13815"
-msgid "Bet you thought you had a nice cozy pledge before the Dragon turned Selene against you. Not just anyone could have faced down Maarselok and the Changeling at the same time. Selene better behave, eh?\n\nTake your reward, Undaunted. You earned it."
-msgstr "ドラゴンがあなたにセレーンをけしかけるまで、楽な誓いだって思ってたでしょう？ マーセロクとセレーンを同時に相手できる者なんてそうはいない。セレーンも行儀よくなったんじゃない？\r\n\r\n報酬を受け取りなさい、アンドーンテッド。正当な報酬よ"
-
-#: 232026500-0-13815
-msgctxt "232026500-0-13815"
-msgid "What's my reward for defeating Maarselok and Selene?"
-msgstr "マーセロクとセレーンを倒した報酬は？"
-
-#: 116521668-0-13814
-msgctxt "116521668-0-13814"
-msgid "Here. This was a gift from King Camoran. It's yours now. Payment in kind. With some gratitude on the house."
-msgstr "はい。これはカモラン王からの贈り物よ。受け取って。現物支給みたいだけど、感謝は籠ってるわ"
-
-#: 232026500-0-13814
-msgctxt "232026500-0-13814"
-msgid "Thank you."
-msgstr "ありがとう"
-
-#: 116521668-0-13812
-msgctxt "116521668-0-13812"
-msgid "Turning Moongrave into a graveyard is worthy of reward. Put it toward some silver boot caps for the next time you run roughshod over a bunch of bloodsuckers."
-msgstr "ムーングレイブを墓場に変えたことは報酬に値するわ。これで銀の靴でも買いなさい。血を吸う連中を、次に踏み潰す時のためにね"
-
-#: 232026500-0-13812
-msgctxt "232026500-0-13812"
-msgid "What's my reward for clearing Moongrave Fane?"
-msgstr "ムーングレイブ神殿を掃討した報酬は？"
+#: 232026500-0-14169
+msgctxt "232026500-0-14169"
+msgid "<Finish the job.>"
+msgstr "<仕事を終える>"
 
 #: 116521668-0-13811
 msgctxt "116521668-0-13811"
@@ -143,6 +132,27 @@ msgctxt "232026500-0-13811"
 msgid "What's my reward for cleansing Moongrave Fane?"
 msgstr "ムーングレイブ神殿を浄化した報酬は？"
 
+#: 116521668-0-13812
+msgctxt "116521668-0-13812"
+msgid "Turning Moongrave into a graveyard is worthy of reward. Put it toward some silver boot caps for the next time you run roughshod over a bunch of bloodsuckers."
+msgstr "ムーングレイブを墓場に変えたことは報酬に値するわ。これで銀の靴でも買いなさい。血を吸う連中を、次に踏み潰す時のためにね"
+
+#: 232026500-0-13812
+msgctxt "232026500-0-13812"
+msgid "What's my reward for clearing Moongrave Fane?"
+msgstr "ムーングレイブ神殿を掃討した報酬は？"
+
+#: 116521668-0-14129
+#, fuzzy
+msgctxt "116521668-0-14129"
+msgid "<A scrap of paper is pinned to the crate.>\n\n""I appreciate your quick and discreet delivery. Master Rolis need not know of this, of course. He isn't quite as open-minded as the rest of us. Enjoy your reward!"" —Faustina Curio"
+msgstr "<木枠箱に紙片が止められている>\r\n\r\n「迅速かつ慎重に配達してくれてありがとう。もちろん、ロリス様が知る必要はないわ。私たちと違って、心が広くないからね。報酬を受け取って！」 — ファウスティナ・キュリオ"
+
+#: 232026500-0-14129
+msgctxt "232026500-0-14129"
+msgid "<Finish the job.>"
+msgstr "<仕事を終える>"
+
 #: 116521668-0-13810
 msgctxt "116521668-0-13810"
 msgid "That Hollowfang alchemy got the Dragonguard's blood boiling, eh? Defeating Grundwulf at the height of his bloodlust must've been a glorious battle alright. \n\nGets me flush just thinking about it. Might give you more than a key next time you swing by."
@@ -152,13 +162,3 @@ msgstr "ホロウファングの錬金術が、そのドラゴンガードの血
 msgctxt "232026500-0-13810"
 msgid "What's my reward for clearing Moongrave Fane?"
 msgstr "ムーングレイブ神殿を掃討した報酬は？"
-
-#: 116521668-0-13809
-msgctxt "116521668-0-13809"
-msgid "There will always be some who are willing to choose risk over reason, but for now this threat has passed.\n\nTake this, along with my gratitude."
-msgstr "合理的な説得を受け入れず、危険を冒そうとする者は常にいる。しかし、当面の脅威は去ったようだ\r\n\r\n感謝の印に、これを受け取ってくれ"
-
-#: 232026500-0-13809
-msgctxt "232026500-0-13809"
-msgid "At least there's no chance of others following Grundwulf's example."
-msgstr "少なくとも、グランドウルフの例に倣える者は誰もいない"

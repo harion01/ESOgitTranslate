@@ -11,15 +11,25 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 139139780-0-6277
-msgctxt "139139780-0-6277"
-msgid "Ghostly figures drift across the surface of this ancient lens. It clearly fits into a larger device."
-msgstr "この古代のレンズの表面には、幽霊めいた姿が漂っている。明らかに、より大きな装置へ収めるためのものだ"
+#: 139139780-0-6274
+msgctxt "139139780-0-6274"
+msgid "This weathered notebook contains all of Wenridil's observations concerning the Daedric artifact."
+msgstr "この古びたノートにはデイドラのアーティファクトに関するウェンリディルの観察が全て記録されている"
 
-#: 267697733-0-6277
-msgctxt "267697733-0-6277"
-msgid "Liminal Lens"
-msgstr "境界のレンズ"
+#: 267697733-0-6274
+msgctxt "267697733-0-6274"
+msgid "Wenridil's Notebook"
+msgstr "ウェンリディルのノート"
+
+#: 139139780-0-6273
+msgctxt "139139780-0-6273"
+msgid "This tightly-bound journal is stained with Adeber's blood. It contains all his notes concerning the Daedric artifact."
+msgstr "きつく綴じられた日記はアデバーの血で汚れている。デイドラのアーティファクトに関するメモは、この中に全て含まれている"
+
+#: 267697733-0-6273
+msgctxt "267697733-0-6273"
+msgid "Adeber's Notebook"
+msgstr "アデバーのノート"
 
 #: 139139780-0-6276
 msgctxt "139139780-0-6276"
@@ -41,25 +51,15 @@ msgctxt "267697733-0-6275"
 msgid "Neelo's Notes"
 msgstr "ニーロのメモ"
 
-#: 139139780-0-6274
-msgctxt "139139780-0-6274"
-msgid "This weathered notebook contains all of Wenridil's observations concerning the Daedric artifact."
-msgstr "この古びたノートにはデイドラのアーティファクトに関するウェンリディルの観察が全て記録されている"
+#: 139139780-0-6277
+msgctxt "139139780-0-6277"
+msgid "Ghostly figures drift across the surface of this ancient lens. It clearly fits into a larger device."
+msgstr "この古代のレンズの表面には、幽霊めいた姿が漂っている。明らかに、より大きな装置へ収めるためのものだ"
 
-#: 267697733-0-6274
-msgctxt "267697733-0-6274"
-msgid "Wenridil's Notebook"
-msgstr "ウェンリディルのノート"
-
-#: 139139780-0-6273
-msgctxt "139139780-0-6273"
-msgid "This tightly-bound journal is stained with Adeber's blood. It contains all his notes concerning the Daedric artifact."
-msgstr "きつく綴じられた日記はアデバーの血で汚れている。デイドラのアーティファクトに関するメモは、この中に全て含まれている"
-
-#: 267697733-0-6273
-msgctxt "267697733-0-6273"
-msgid "Adeber's Notebook"
-msgstr "アデバーのノート"
+#: 267697733-0-6277
+msgctxt "267697733-0-6277"
+msgid "Liminal Lens"
+msgstr "境界のレンズ"
 
 #: 139139780-0-6246
 msgctxt "139139780-0-6246"

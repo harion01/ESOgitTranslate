@@ -11,26 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 70901198-0-1193
-msgctxt "70901198-0-1193"
-msgid "Originally built by the Potentate Versidue-Shaie as a retreat from Senchal, this manor contains roomy spaces in which to entertain guests. A terraced area features a flooded aeonstone crater as well as luminescent flora transplanted from Moonlit Cove."
-msgstr "元々は最高顧問ヴェルシデュ・シャイエがセンシャルに滞在する際の静養所として建てられたこの邸宅には、客をもてなす広々としたスペースがある。テラスがあるエリアにはイオンストーンの穴に水が溜まり、月光の入江から移された発光植物"
-
-#: 162658389-0-1193
-msgctxt "162658389-0-1193"
-msgid "Potentate's Retreat"
-msgstr "最高顧問の静養所"
-
-#: 70901198-0-1192
-msgctxt "70901198-0-1192"
-msgid "By some miracle or simple chance, Lucky Cat Landing weathered the fires that ravaged Southern Elsweyr completely unsinged! Its spacious terrace frames a gorgeous view, and its proximity to Senchal makes it convenient for those who enjoy city living."
-msgstr "奇跡が起きたか単なる幸運かは不明だが、幸運の猫の踊り場は南エルスウェアを襲った大火から、全く被害を受けなかった！ 広大なテラスからは素晴らしい眺めが広がり、センシャルからも近いため、都市生活を好む人にも便利だ。"
-
-#: 162658389-0-1192
-msgctxt "162658389-0-1192"
-msgid "Lucky Cat Landing"
-msgstr "幸運な猫の踊り場"
-
 #: 70901198-0-1151
 #, fuzzy
 msgctxt "70901198-0-1151"
@@ -53,58 +33,25 @@ msgctxt "162658389-0-1150"
 msgid "Doomstone Caverns"
 msgstr "ドゥームストーン洞窟"
 
-#: 70901198-0-1149
-#, fuzzy
-msgctxt "70901198-0-1149"
-msgid "Bards still sing of a glorious battle between Reman I's Dragonguard and a ""great Black Beast"" at Doomstone Keep. The veracity of the bard's verse remains a subject of debate, but the castle's masonry bears the scars of a hard-fought battle against a titanic foe."
-msgstr "吟遊詩人は、今でもドゥームストーン砦で起こったレマン一世のドラゴンガードと「強大な黒き獣」の戦いを歌っている。この詩がどれだけ真実を反映しているかについては論争があるが、城には巨大な敵との激しい戦いの傷が残っている。"
+#: 70901198-0-1193
+msgctxt "70901198-0-1193"
+msgid "Originally built by the Potentate Versidue-Shaie as a retreat from Senchal, this manor contains roomy spaces in which to entertain guests. A terraced area features a flooded aeonstone crater as well as luminescent flora transplanted from Moonlit Cove."
+msgstr "元々は最高顧問ヴェルシデュ・シャイエがセンシャルに滞在する際の静養所として建てられたこの邸宅には、客をもてなす広々としたスペースがある。テラスがあるエリアにはイオンストーンの穴に水が溜まり、月光の入江から移された発光植物"
 
-#: 162658389-0-1149
-msgctxt "162658389-0-1149"
-msgid "Doomstone Keep"
-msgstr "ドゥームストーン砦"
+#: 162658389-0-1193
+msgctxt "162658389-0-1193"
+msgid "Potentate's Retreat"
+msgstr "最高顧問の静養所"
 
-#: 70901198-0-1148
-msgctxt "70901198-0-1148"
-msgid "Legends tell of an ancient mask, hidden deep within the aged halls of this First Era ruin. Only the mightiest warriors earn the right to don this powerful relic—and only after they prove their strength."
-msgstr "この第一紀の遺跡には、古い広間の奥深くに古代の仮面が隠されていると言われる。最強の戦士のみがこの強力な遺物を装備する権利を得られる。力を示した後で。"
+#: 70901198-0-1192
+msgctxt "70901198-0-1192"
+msgid "By some miracle or simple chance, Lucky Cat Landing weathered the fires that ravaged Southern Elsweyr completely unsinged! Its spacious terrace frames a gorgeous view, and its proximity to Senchal makes it convenient for those who enjoy city living."
+msgstr "奇跡が起きたか単なる幸運かは不明だが、幸運の猫の踊り場は南エルスウェアを襲った大火から、全く被害を受けなかった！ 広大なテラスからは素晴らしい眺めが広がり、センシャルからも近いため、都市生活を好む人にも便利だ。"
 
-#: 162658389-0-1148
-msgctxt "162658389-0-1148"
-msgid "Halls of the Highmane"
-msgstr "高きたてがみの広間"
-
-#: 70901198-0-1147
-msgctxt "70901198-0-1147"
-msgid "Long abandoned, this ancient ruin has recently become the headquarters for the mysterious Order of the New Moon. It definitely appears more fortress than temple."
-msgstr "長く放棄されていたこの古代の遺跡は、最近謎に満ちた新たなる月の教団の本拠となった。明らかに聖堂というよりも要塞に見える。"
-
-#: 162658389-0-1147
-msgctxt "162658389-0-1147"
-msgid "New Moon Fortress"
-msgstr "新たなる月の要塞"
-
-#: 70901198-0-1146
-#, fuzzy
-msgctxt "70901198-0-1146"
-msgid """That island with its ancient ruins of Fort Vashr, no matter how tempting it appears, it is a death trap. No Khajiit, no matter how brave, has any business exploring that haunted place."" —Z'har Tasluz, in a speech at Senchal Palace, 2E 561."
-msgstr "「古代遺跡、ヴァシュル砦がある島には、いかに魅力的に見えようと近寄ってはならない。死の罠が待っている。あの呪われた場所には、どれだけ勇敢なカジートであっても何の用もないはずだ」 - 第二紀561年、ザル・タスルズのセンシャル宮殿における演説"
-
-#: 162658389-0-1146
-msgctxt "162658389-0-1146"
-msgid "Tideholm"
-msgstr "タイドホルム"
-
-#: 70901198-0-1145
-#, fuzzy
-msgctxt "70901198-0-1145"
-msgid """You who feel Khenarthi's breath on your face, you who inhale the sweet scent of moon-sugar sands, you who prepare to pounce beyond the stars to blessed Llesw'er, take up the paint and tell your story. Add your leaf to our blessed tree."" — Vaban-ko, Blessed Clan Mother"
-msgstr "「ケナーシの祝福を顔に感じ、ムーンシュガーの砂の甘い匂いを吸い込み、星の裏を越えて祝福されしレレスウェアへ向かう者は、絵を描き物語を語りなさい。葉を祝福されし木に加えるのです」 - 祝福されたクランマザー、ヴァバン・コ"
-
-#: 162658389-0-1145
-msgctxt "162658389-0-1145"
-msgid "Passage of Dad'na Ghaten"
-msgstr "ダドナ・ガテンの道"
+#: 162658389-0-1192
+msgctxt "162658389-0-1192"
+msgid "Lucky Cat Landing"
+msgstr "幸運な猫の踊り場"
 
 #: 70901198-0-1139
 msgctxt "70901198-0-1139"
@@ -116,6 +63,17 @@ msgctxt "162658389-0-1139"
 msgid "Senchal Outlaws Refuge"
 msgstr "センシャルの無法者の隠れ家"
 
+#: 70901198-0-1149
+#, fuzzy
+msgctxt "70901198-0-1149"
+msgid "Bards still sing of a glorious battle between Reman I's Dragonguard and a ""great Black Beast"" at Doomstone Keep. The veracity of the bard's verse remains a subject of debate, but the castle's masonry bears the scars of a hard-fought battle against a titanic foe."
+msgstr "吟遊詩人は、今でもドゥームストーン砦で起こったレマン一世のドラゴンガードと「強大な黒き獣」の戦いを歌っている。この詩がどれだけ真実を反映しているかについては論争があるが、城には巨大な敵との激しい戦いの傷が残っている。"
+
+#: 162658389-0-1149
+msgctxt "162658389-0-1149"
+msgid "Doomstone Keep"
+msgstr "ドゥームストーン砦"
+
 #: 70901198-0-1138
 msgctxt "70901198-0-1138"
 msgid "Kaalgrontiid's legacy of terror lives on in the broken remnants of his once great seat of power. Khajiiti sailors have avoided the island for centuries. Now, the world knows their fear of this place was more than superstition."
@@ -125,6 +83,16 @@ msgstr "カールグロンティードの恐怖の遺産は、かつて彼の権
 msgctxt "162658389-0-1138"
 msgid "Dragonhold"
 msgstr "ドラゴンホールド"
+
+#: 70901198-0-1148
+msgctxt "70901198-0-1148"
+msgid "Legends tell of an ancient mask, hidden deep within the aged halls of this First Era ruin. Only the mightiest warriors earn the right to don this powerful relic—and only after they prove their strength."
+msgstr "この第一紀の遺跡には、古い広間の奥深くに古代の仮面が隠されていると言われる。最強の戦士のみがこの強力な遺物を装備する権利を得られる。力を示した後で。"
+
+#: 162658389-0-1148
+msgctxt "162658389-0-1148"
+msgid "Halls of the Highmane"
+msgstr "高きたてがみの広間"
 
 #: 70901198-0-1137
 #, fuzzy
@@ -137,6 +105,16 @@ msgctxt "162658389-0-1137"
 msgid "Path of Pride"
 msgstr "誇りの道"
 
+#: 70901198-0-1147
+msgctxt "70901198-0-1147"
+msgid "Long abandoned, this ancient ruin has recently become the headquarters for the mysterious Order of the New Moon. It definitely appears more fortress than temple."
+msgstr "長く放棄されていたこの古代の遺跡は、最近謎に満ちた新たなる月の教団の本拠となった。明らかに聖堂というよりも要塞に見える。"
+
+#: 162658389-0-1147
+msgctxt "162658389-0-1147"
+msgid "New Moon Fortress"
+msgstr "新たなる月の要塞"
+
 #: 70901198-0-1136
 #, fuzzy
 msgctxt "70901198-0-1136"
@@ -148,6 +126,17 @@ msgctxt "162658389-0-1136"
 msgid "Zazaradi's Quarry and Mine"
 msgstr "ザザラディの採石場&鉱山"
 
+#: 70901198-0-1146
+#, fuzzy
+msgctxt "70901198-0-1146"
+msgid """That island with its ancient ruins of Fort Vashr, no matter how tempting it appears, it is a death trap. No Khajiit, no matter how brave, has any business exploring that haunted place."" —Z'har Tasluz, in a speech at Senchal Palace, 2E 561."
+msgstr "「古代遺跡、ヴァシュル砦がある島には、いかに魅力的に見えようと近寄ってはならない。死の罠が待っている。あの呪われた場所には、どれだけ勇敢なカジートであっても何の用もないはずだ」 - 第二紀561年、ザル・タスルズのセンシャル宮殿における演説"
+
+#: 162658389-0-1146
+msgctxt "162658389-0-1146"
+msgid "Tideholm"
+msgstr "タイドホルム"
+
 #: 70901198-0-1135
 #, fuzzy
 msgctxt "70901198-0-1135"
@@ -158,6 +147,17 @@ msgstr "「月光の入江の洞窟には独自の植物とキノコが生息し
 msgctxt "162658389-0-1135"
 msgid "Moonlit Cove"
 msgstr "月光の入江"
+
+#: 70901198-0-1145
+#, fuzzy
+msgctxt "70901198-0-1145"
+msgid """You who feel Khenarthi's breath on your face, you who inhale the sweet scent of moon-sugar sands, you who prepare to pounce beyond the stars to blessed Llesw'er, take up the paint and tell your story. Add your leaf to our blessed tree."" — Vaban-ko, Blessed Clan Mother"
+msgstr "「ケナーシの祝福を顔に感じ、ムーンシュガーの砂の甘い匂いを吸い込み、星の裏を越えて祝福されしレレスウェアへ向かう者は、絵を描き物語を語りなさい。葉を祝福されし木に加えるのです」 - 祝福されたクランマザー、ヴァバン・コ"
+
+#: 162658389-0-1145
+msgctxt "162658389-0-1145"
+msgid "Passage of Dad'na Ghaten"
+msgstr "ダドナ・ガテンの道"
 
 #: 70901198-0-1134
 msgctxt "70901198-0-1134"

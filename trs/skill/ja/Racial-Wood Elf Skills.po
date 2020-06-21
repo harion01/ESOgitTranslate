@@ -11,25 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-64281
-msgctxt "132143172-0-64281"
-msgid "Increases your Stamina Recovery by <<1>>."
-msgstr "スタミナ再生を<<1>>アップする。"
+#: 132143172-0-36008
+msgctxt "132143172-0-36008"
+msgid "Increases your experience gain with the Bow skill line by |cffffff15|r%.\n\nDecreases your fall damage taken by <<1>>."
+msgstr "弓術スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n落下ダメージが<<1>>減少する。"
 
-#: 198758357-0-64281
-msgctxt "198758357-0-64281"
-msgid "Y'ffre's Endurance"
-msgstr "イフレの忍耐"
-
-#: 132143172-0-64280
-msgctxt "132143172-0-64280"
-msgid "Increases your Stamina Recovery by <<1>>."
-msgstr "スタミナ再生を<<1>>アップする。"
-
-#: 198758357-0-64280
-msgctxt "198758357-0-64280"
-msgid "Y'ffre's Endurance"
-msgstr "イフレの忍耐"
+#: 198758357-0-36008
+msgctxt "198758357-0-36008"
+msgid "Acrobat"
+msgstr "アクロバット"
 
 #: 132143172-0-64279
 msgctxt "132143172-0-64279"
@@ -40,36 +30,6 @@ msgstr "スタミナ再生を<<1>>アップする。"
 msgctxt "198758357-0-64279"
 msgid "Y'ffre's Endurance"
 msgstr "イフレの忍耐"
-
-#: 132143172-0-45319
-msgctxt "132143172-0-45319"
-msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>.\n\nGain immunity to the Poisoned status effect."
-msgstr "最大スタミナが<<1>>、毒耐性が<<2>>上昇する。\r\n\r\n毒のステータス効果が無効になる"
-
-#: 198758357-0-45319
-msgctxt "198758357-0-45319"
-msgid "Resist Affliction"
-msgstr "苦痛耐性"
-
-#: 132143172-0-45317
-msgctxt "132143172-0-45317"
-msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>.\n\nGain immunity to the Poisoned status effect."
-msgstr "最大スタミナが<<1>>、毒耐性が<<2>>上昇する。\r\n\r\n毒のステータス効果が無効になる"
-
-#: 198758357-0-45317
-msgctxt "198758357-0-45317"
-msgid "Resist Affliction"
-msgstr "苦痛耐性"
-
-#: 132143172-0-45296
-msgctxt "132143172-0-45296"
-msgid "Increases your stealth detection radius by <<1>>.\n\nIncreases your movement speed by <<2>> and your Physical and Spell Penetration by <<3>> for <<4>> after you use Roll Dodge."
-msgstr "ステルス探知範囲を<<1>>拡大する。\r\n\r\nロール回避の使用後、移動速度を<<2>>、武器貫通力と呪文貫通力を<<3>>、<<4>>の間上昇させる。"
-
-#: 198758357-0-45296
-msgctxt "198758357-0-45296"
-msgid "Hunter's Eye"
-msgstr "狩人の目"
 
 #: 132143172-0-45295
 msgctxt "132143172-0-45295"
@@ -101,12 +61,52 @@ msgctxt "198758357-0-36011"
 msgid "Resist Affliction"
 msgstr "苦痛耐性"
 
-#: 132143172-0-36008
-msgctxt "132143172-0-36008"
-msgid "Increases your experience gain with the Bow skill line by |cffffff15|r%.\n\nDecreases your fall damage taken by <<1>>."
-msgstr "弓術スキルラインの経験値獲得量が|cffffff15|r%増加する。\r\n\r\n落下ダメージが<<1>>減少する。"
+#: 132143172-0-45296
+msgctxt "132143172-0-45296"
+msgid "Increases your stealth detection radius by <<1>>.\n\nIncreases your movement speed by <<2>> and your Physical and Spell Penetration by <<3>> for <<4>> after you use Roll Dodge."
+msgstr "ステルス探知範囲を<<1>>拡大する。\r\n\r\nロール回避の使用後、移動速度を<<2>>、武器貫通力と呪文貫通力を<<3>>、<<4>>の間上昇させる。"
 
-#: 198758357-0-36008
-msgctxt "198758357-0-36008"
-msgid "Acrobat"
-msgstr "アクロバット"
+#: 198758357-0-45296
+msgctxt "198758357-0-45296"
+msgid "Hunter's Eye"
+msgstr "狩人の目"
+
+#: 132143172-0-64281
+msgctxt "132143172-0-64281"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 198758357-0-64281
+msgctxt "198758357-0-64281"
+msgid "Y'ffre's Endurance"
+msgstr "イフレの忍耐"
+
+#: 132143172-0-64280
+msgctxt "132143172-0-64280"
+msgid "Increases your Stamina Recovery by <<1>>."
+msgstr "スタミナ再生を<<1>>アップする。"
+
+#: 198758357-0-64280
+msgctxt "198758357-0-64280"
+msgid "Y'ffre's Endurance"
+msgstr "イフレの忍耐"
+
+#: 132143172-0-45317
+msgctxt "132143172-0-45317"
+msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>.\n\nGain immunity to the Poisoned status effect."
+msgstr "最大スタミナが<<1>>、毒耐性が<<2>>上昇する。\r\n\r\n毒のステータス効果が無効になる"
+
+#: 198758357-0-45317
+msgctxt "198758357-0-45317"
+msgid "Resist Affliction"
+msgstr "苦痛耐性"
+
+#: 132143172-0-45319
+msgctxt "132143172-0-45319"
+msgid "Increases your Max Stamina by <<1>> and Poison Resistance by <<2>>.\n\nGain immunity to the Poisoned status effect."
+msgstr "最大スタミナが<<1>>、毒耐性が<<2>>上昇する。\r\n\r\n毒のステータス効果が無効になる"
+
+#: 198758357-0-45319
+msgctxt "198758357-0-45319"
+msgid "Resist Affliction"
+msgstr "苦痛耐性"

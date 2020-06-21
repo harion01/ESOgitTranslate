@@ -11,11 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 10860933-0-1660
-msgctxt "10860933-0-1660"
-msgid "Memorial Armory"
-msgstr ""
-
 #: 10860933-0-1659
 msgctxt "10860933-0-1659"
 msgid "Nobles Armory"
@@ -24,4 +19,9 @@ msgstr ""
 #: 10860933-0-1658
 msgctxt "10860933-0-1658"
 msgid "Arboretum Armory"
+msgstr ""
+
+#: 10860933-0-1660
+msgctxt "10860933-0-1660"
+msgid "Memorial Armory"
 msgstr ""

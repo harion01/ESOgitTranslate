@@ -11,20 +11,40 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 52420949-0-6168
-msgctxt "52420949-0-6168"
-msgid "Ache for Cake"
-msgstr "케이크에 대한 갈망"
+#: 52420949-0-6065
+msgctxt "52420949-0-6065"
+msgid "Plans of Pestilence"
+msgstr "역병 대처 계획 (Plans of Pestilence)"
 
-#: 265851556-0-6168
-msgctxt "265851556-0-6168"
-msgid "I received a voucher for a special-occasion cake from the renowned master baker, Chef Donolon."
-msgstr "명성 높은 달인 제빵사, 도노론 주방장으로부터 특별 케이크 교환권을 받았다."
+#: 265851556-0-6065
+msgctxt "265851556-0-6065"
+msgid "<<1>> has requested my aid in helping him journey through a disease infested temple, located within the hazards of Scalecaller Peak."
+msgstr "<<1>>는 비늘소환자 봉우리에 있는 질병으로 오염된 사원을 탐험하는데 내 도움을 요청했다."
+
+#: 52420949-0-6097
+msgctxt "52420949-0-6097"
+msgid "Through a Veil Darkly"
+msgstr "어두운 베일 속으로 (Through a Veil Darkly)"
+
+#: 265851556-0-6097
+msgctxt "265851556-0-6097"
+msgid "I received an enchanted stone from the Mages Guild that contains an important message from Vanus Galerion."
+msgstr "바누스 갈레리온의 중요한 메세지를 담은 마법의 돌을 메이지 길드로부터 받았다."
+
+#: 52420949-0-6064
+msgctxt "52420949-0-6064"
+msgid "Casting the Bones"
+msgstr "뼈 맞추기 (Casting the Bones)"
+
+#: 265851556-0-6064
+msgctxt "265851556-0-6064"
+msgid "According to the Undaunted Trailblazer, Yisareh, the ruins of Fang Lair have been taken over by a cult of necromancers who are preparing for something big. She's enlisted my help in discovering and foiling their plans."
+msgstr "언던티드의 선구자 이샤라의 말에 따르면 송곳니 둥지라는 유적은 거대한 음모를 준비하는 네크로맨서 조직에게 점령당했다고 한다. 그녀는 그들의 계획을 알아내고 막기 위해 내게 도움을 요청했다."
 
 #: 52420949-0-6155
 msgctxt "52420949-0-6155"
 msgid "Pledge: Fang Lair"
-msgstr "서약: 송곳니 둥지"
+msgstr "서약: 송곳니 둥지 (Pledge: Fang Lair)"
 
 #: 265851556-0-6155
 msgctxt "265851556-0-6155"
@@ -34,39 +54,19 @@ msgstr "언던티드의 <<1>>는 송곳니 둥지 탐험을 과제로 주었다.
 #: 52420949-0-6154
 msgctxt "52420949-0-6154"
 msgid "Pledge: Scalecaller Peak"
-msgstr "서약: 비늘소환자 봉우리"
+msgstr "서약: 비늘소환자 봉우리 (Pledge: Scalecaller Peak)"
 
 #: 265851556-0-6154
 msgctxt "265851556-0-6154"
 msgid "<<1>> of the Undaunted has challenged me to explore Scalecaller Peak."
 msgstr "언던티드의 <<1>>는 비늘소환자 봉우리 탐험을 과제로 주었다."
 
-#: 52420949-0-6097
-msgctxt "52420949-0-6097"
-msgid "Through a Veil Darkly"
-msgstr "어두운 베일 속으로"
+#: 52420949-0-6168
+msgctxt "52420949-0-6168"
+msgid "Ache for Cake"
+msgstr "케이크에 대한 갈망 (Ache for Cake)"
 
-#: 265851556-0-6097
-msgctxt "265851556-0-6097"
-msgid "I received an enchanted stone from the Mages Guild that contains an important message from Vanus Galerion."
-msgstr "바누스 갈레리온의 중요한 메세지를 담은 마법의 돌을 메이지 길드로부터 받았다."
-
-#: 52420949-0-6065
-msgctxt "52420949-0-6065"
-msgid "Plans of Pestilence"
-msgstr "역병 대처 계획"
-
-#: 265851556-0-6065
-msgctxt "265851556-0-6065"
-msgid "<<1>> has requested my aid in helping him journey through a disease infested temple, located within the hazards of Scalecaller Peak."
-msgstr "<<1>>는 비늘소환자 봉우리에 있는 질병으로 오염된 사원을 탐험하는데 내 도움을 요청했다."
-
-#: 52420949-0-6064
-msgctxt "52420949-0-6064"
-msgid "Casting the Bones"
-msgstr "뼈 맞추기"
-
-#: 265851556-0-6064
-msgctxt "265851556-0-6064"
-msgid "According to the Undaunted Trailblazer, Yisareh, the ruins of Fang Lair have been taken over by a cult of necromancers who are preparing for something big. She's enlisted my help in discovering and foiling their plans."
-msgstr "언던티드의 선구자 이샤라의 말에 따르면 송곳니 둥지라는 유적은 거대한 음모를 준비하는 네크로맨서 조직에게 점령당했다고 한다. 그녀는 그들의 계획을 알아내고 막기 위해 내게 도움을 요청했다."
+#: 265851556-0-6168
+msgctxt "265851556-0-6168"
+msgid "I received a voucher for a special-occasion cake from the renowned master baker, Chef Donolon."
+msgstr "명성 높은 달인 제빵사, 도노론 주방장으로부터 특별 케이크 교환권을 받았다."

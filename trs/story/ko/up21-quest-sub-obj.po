@@ -11,70 +11,35 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-50658
-msgctxt "256430276-0-50658"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 256430276-0-49272
-msgctxt "256430276-0-49272"
-msgid "Listen to Khamira"
-msgstr "카미라의 이야기를 듣는다"
+#: 256430276-0-48355
+msgctxt "256430276-0-48355"
+msgid "Return to <<1>>"
+msgstr "<<1>>에게 돌아가기"
 
 #: 256430276-0-48374
 msgctxt "256430276-0-48374"
 msgid "Return to <<1>>"
 msgstr "<<1>>에게 돌아가기"
 
-#: 256430276-0-48355
-msgctxt "256430276-0-48355"
-msgid "Return to <<1>>"
-msgstr "<<1>>에게 돌아가기"
-
-#: 121487972-0-13899
-msgctxt "121487972-0-13899"
+#: 256430276-0-50658
+msgctxt "256430276-0-50658"
 msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
+msgstr "와(과) 대화하기"
 
-#: 121487972-0-13852
-msgctxt "121487972-0-13852"
+#: 121487972-0-13467
+msgctxt "121487972-0-13467"
 msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
+msgstr "와(과) 대화하기"
 
-#: 121487972-0-13847
-msgctxt "121487972-0-13847"
+#: 121487972-0-13466
+msgctxt "121487972-0-13466"
 msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
+msgstr "와(과) 대화하기"
 
-#: 121487972-0-13846
-msgctxt "121487972-0-13846"
+#: 121487972-0-13465
+msgctxt "121487972-0-13465"
 msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13807
-msgctxt "121487972-0-13807"
-msgid "Talk to Zahari"
-msgstr "자하리와 대화한다."
-
-#: 121487972-0-13806
-msgctxt "121487972-0-13806"
-msgid "Talk to Zahari"
-msgstr "자하리와 대화한다."
-
-#: 121487972-0-13805
-msgctxt "121487972-0-13805"
-msgid "Talk to Zahari"
-msgstr "자하리와 대화한다."
-
-#: 121487972-0-13803
-msgctxt "121487972-0-13803"
-msgid "Talk to Zahari"
-msgstr "자하리와 대화한다."
-
-#: 121487972-0-13802
-msgctxt "121487972-0-13802"
-msgid "Talk to Zahari"
-msgstr "자하리와 대화한다."
+msgstr "와(과) 대화하기"
 
 #: 121487972-0-13801
 msgctxt "121487972-0-13801"
@@ -86,8 +51,28 @@ msgctxt "121487972-0-13800"
 msgid "Talk to Zahari"
 msgstr "자하리와 대화한다."
 
-#: 121487972-0-13732
-msgctxt "121487972-0-13732"
+#: 121487972-0-13468
+msgctxt "121487972-0-13468"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 256430276-0-49272
+msgctxt "256430276-0-49272"
+msgid "Listen to Khamira"
+msgstr "카미라의 이야기를 듣는다"
+
+#: 121487972-0-13805
+msgctxt "121487972-0-13805"
+msgid "Talk to Zahari"
+msgstr "자하리와 대화한다."
+
+#: 121487972-0-13847
+msgctxt "121487972-0-13847"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 121487972-0-13803
+msgctxt "121487972-0-13803"
 msgid "Talk to Zahari"
 msgstr "자하리와 대화한다."
 
@@ -95,6 +80,51 @@ msgstr "자하리와 대화한다."
 msgctxt "121487972-0-13704"
 msgid "Talk to Zahari"
 msgstr "자하리와 대화한다."
+
+#: 121487972-0-13846
+msgctxt "121487972-0-13846"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 121487972-0-13802
+msgctxt "121487972-0-13802"
+msgid "Talk to Zahari"
+msgstr "자하리와 대화한다."
+
+#: 121487972-0-13807
+msgctxt "121487972-0-13807"
+msgid "Talk to Zahari"
+msgstr "자하리와 대화한다."
+
+#: 121487972-0-13806
+msgctxt "121487972-0-13806"
+msgid "Talk to Zahari"
+msgstr "자하리와 대화한다."
+
+#: 121487972-0-13463
+msgctxt "121487972-0-13463"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 121487972-0-13462
+msgctxt "121487972-0-13462"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 121487972-0-13461
+msgctxt "121487972-0-13461"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 121487972-0-13460
+msgctxt "121487972-0-13460"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
+
+#: 121487972-0-13852
+msgctxt "121487972-0-13852"
+msgid "Talk to <<1>>"
+msgstr "와(과) 대화하기"
 
 #: 121487972-0-13653
 msgctxt "121487972-0-13653"
@@ -111,42 +141,12 @@ msgctxt "121487972-0-13630"
 msgid "Leave the Dungeon"
 msgstr "던전을 떠난다."
 
-#: 121487972-0-13468
-msgctxt "121487972-0-13468"
+#: 121487972-0-13899
+msgctxt "121487972-0-13899"
 msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
+msgstr "와(과) 대화하기"
 
-#: 121487972-0-13467
-msgctxt "121487972-0-13467"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13466
-msgctxt "121487972-0-13466"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13465
-msgctxt "121487972-0-13465"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13463
-msgctxt "121487972-0-13463"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13462
-msgctxt "121487972-0-13462"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13461
-msgctxt "121487972-0-13461"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
-
-#: 121487972-0-13460
-msgctxt "121487972-0-13460"
-msgid "Talk to <<1>>"
-msgstr "<<1>>와 대화하기"
+#: 121487972-0-13732
+msgctxt "121487972-0-13732"
+msgid "Talk to Zahari"
+msgstr "자하리와 대화한다."

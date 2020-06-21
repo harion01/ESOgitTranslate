@@ -11,24 +11,2289 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 59991493-1-627
-msgctxt "59991493-1-627"
-msgid "Inactive"
+#: 74865733-0-24955
+msgctxt "74865733-0-24955"
+msgid "Examine"
 msgstr ""
 
-#: 219689294-1-627
-msgctxt "219689294-1-627"
-msgid "Use"
+#: 74865733-0-24956
+msgctxt "74865733-0-24956"
+msgid "Examine"
 msgstr ""
 
-#: 12912341-0-87667
-msgctxt "12912341-0-87667"
+#: 74865733-0-24959
+msgctxt "74865733-0-24959"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24933
+msgctxt "74865733-0-24933"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-61095
+msgctxt "7949764-0-61095"
+msgid "Talk to Iskenaaz"
+msgstr ""
+
+#: 7949764-0-61096
+msgctxt "7949764-0-61096"
+msgid "Talk to Haxara"
+msgstr ""
+
+#: 7949764-0-61098
+msgctxt "7949764-0-61098"
+msgid "Return to the Archcanon's Office"
+msgstr ""
+
+#: 7949764-0-61090
+msgctxt "7949764-0-61090"
+msgid "Talk to Kassandra"
+msgstr ""
+
+#: 74865733-0-24905
+msgctxt "74865733-0-24905"
 msgid "Take"
 msgstr ""
 
-#: 219689294-0-627
-msgctxt "219689294-0-627"
+#: 7949764-0-61083
+msgctxt "7949764-0-61083"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-61084
+msgctxt "7949764-0-61084"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-61085
+msgctxt "7949764-0-61085"
+msgid "Kill the Ayleid Stragglers"
+msgstr ""
+
+#: 7949764-0-61086
+msgctxt "7949764-0-61086"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-61087
+msgctxt "7949764-0-61087"
+msgid "Locate <<1>>"
+msgstr ""
+
+#: 7949764-0-61088
+msgctxt "7949764-0-61088"
+msgid "Free <<1>>"
+msgstr ""
+
+#: 7949764-0-61089
+msgctxt "7949764-0-61089"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-61081
+msgctxt "7949764-0-61081"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 74865733-0-24914
+msgctxt "74865733-0-24914"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-61072
+msgctxt "7949764-0-61072"
+msgid "Destroy the Fumers"
+msgstr ""
+
+#: 7949764-0-61073
+msgctxt "7949764-0-61073"
+msgid "Collect Histwood Grave-Stakes"
+msgstr ""
+
+#: 7949764-0-61074
+msgctxt "7949764-0-61074"
+msgid "Collect Histwood Grave-Stakes"
+msgstr ""
+
+#: 7949764-0-61075
+msgctxt "7949764-0-61075"
+msgid "Collect Histwood Grave-Stakes"
+msgstr ""
+
+#: 7949764-0-61076
+msgctxt "7949764-0-61076"
+msgid "Go to the Main Blackguard Camp"
+msgstr ""
+
+#: 7949764-0-61078
+msgctxt "7949764-0-61078"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-61079
+msgctxt "7949764-0-61079"
+msgid "Douse the Fires"
+msgstr ""
+
+#: 7949764-0-61071
+msgctxt "7949764-0-61071"
+msgid "Collect Histwood Grave-Stakes"
+msgstr ""
+
+#: 7949764-0-61061
+msgctxt "7949764-0-61061"
+msgid "Collect Ancient Bones"
+msgstr ""
+
+#: 7949764-0-61064
+msgctxt "7949764-0-61064"
+msgid "Meet Kassandra at Alten Meerhleel"
+msgstr ""
+
+#: 7949764-0-61065
+msgctxt "7949764-0-61065"
+msgid "Find Kassandra"
+msgstr ""
+
+#: 7949764-0-61066
+msgctxt "7949764-0-61066"
+msgid "Talk to Kassandra"
+msgstr ""
+
+#: 7949764-0-61067
+msgctxt "7949764-0-61067"
+msgid "Search for Clues"
+msgstr ""
+
+#: 7949764-0-61068
+msgctxt "7949764-0-61068"
+msgid "Talk to Kassandra"
+msgstr ""
+
+#: 7949764-0-61060
+msgctxt "7949764-0-61060"
+msgid "Collect Ancient Bones"
+msgstr ""
+
+#: 7949764-0-61058
+msgctxt "7949764-0-61058"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-61059
+msgctxt "7949764-0-61059"
+msgid "Collect Ancient Bones"
+msgstr ""
+
+#: 7949764-0-61050
+msgctxt "7949764-0-61050"
+msgid "Find the Tablet Fragments"
+msgstr ""
+
+#: 7949764-0-61051
+msgctxt "7949764-0-61051"
+msgid "Find the Tablet Fragments"
+msgstr ""
+
+#: 7949764-0-61052
+msgctxt "7949764-0-61052"
+msgid "Kill Tracker"
+msgstr ""
+
+#: 7949764-0-61053
+msgctxt "7949764-0-61053"
+msgid "Don't Kill Anyone at the Depot"
+msgstr ""
+
+#: 7949764-0-61054
+msgctxt "7949764-0-61054"
+msgid "Killed Someone"
+msgstr ""
+
+#: 7949764-0-61056
+msgctxt "7949764-0-61056"
+msgid "Observe the Scene"
+msgstr ""
+
+#: 7949764-0-61057
+msgctxt "7949764-0-61057"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 74865733-0-24542
+msgctxt "74865733-0-24542"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24544
+msgctxt "74865733-0-24544"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24543
+msgctxt "74865733-0-24543"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24788
+msgctxt "74865733-0-24788"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24546
+msgctxt "74865733-0-24546"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24305
+msgctxt "74865733-0-24305"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-61968
+msgctxt "7949764-0-61968"
+msgid "Clothier Merchants sell this Pattern"
+msgstr ""
+
+#: 7949764-0-60879
+msgctxt "7949764-0-60879"
+msgid "Orange Poison"
+msgstr ""
+
+#: 7949764-0-60637
+msgctxt "7949764-0-60637"
+msgid "Collect the Calendar Tablet"
+msgstr ""
+
+#: 70307621-0-2863
+msgctxt "70307621-0-2863"
+msgid "Enter"
+msgstr ""
+
+#: 74865733-0-24308
+msgctxt "74865733-0-24308"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-61969
+msgctxt "7949764-0-61969"
+msgid "Clothier Merchants sell this Pattern"
+msgstr ""
+
+#: 7949764-0-60639
+msgctxt "7949764-0-60639"
+msgid "Return Tablet to Calendar"
+msgstr ""
+
+#: 70307621-0-2861
+msgctxt "70307621-0-2861"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-2860
+msgctxt "70307621-0-2860"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24309
+msgctxt "74865733-0-24309"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-87435
+msgctxt "12912341-0-87435"
+msgid "Help"
+msgstr ""
+
+#: 12912341-0-87434
+msgctxt "12912341-0-87434"
+msgid "Bandage"
+msgstr ""
+
+#: 12912341-0-87432
+msgctxt "12912341-0-87432"
+msgid "Free"
+msgstr ""
+
+#: 7949764-0-60875
+msgctxt "7949764-0-60875"
+msgid "TEST STEP 1"
+msgstr ""
+
+#: 7949764-0-60876
+msgctxt "7949764-0-60876"
+msgid "TEST STEP 3"
+msgstr ""
+
+#: 7949764-0-61966
+msgctxt "7949764-0-61966"
+msgid "Blacksmith Merchants sell this Diagram"
+msgstr ""
+
+#: 7949764-0-60877
+msgctxt "7949764-0-60877"
+msgid "Bad Egg"
+msgstr ""
+
+#: 7949764-0-61967
+msgctxt "7949764-0-61967"
+msgid "Blacksmith Merchants sell this Diagram"
+msgstr ""
+
+#: 7949764-0-60878
+msgctxt "7949764-0-60878"
+msgid "Green Poison"
+msgstr ""
+
+#: 74865733-0-24790
+msgctxt "74865733-0-24790"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-87437
+msgctxt "12912341-0-87437"
+msgid "Bandage"
+msgstr ""
+
+#: 108533454-0-24792
+msgctxt "108533454-0-24792"
+msgid "Opening…"
+msgstr ""
+
+#: 74865733-0-24311
+msgctxt "74865733-0-24311"
+msgid "Search"
+msgstr ""
+
+#: 70307621-0-2859
+msgctxt "70307621-0-2859"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-2858
+msgctxt "70307621-0-2858"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24797
+msgctxt "74865733-0-24797"
+msgid "Light"
+msgstr ""
+
+#: 74865733-0-24313
+msgctxt "74865733-0-24313"
+msgid "Take"
+msgstr ""
+
+#: 70307621-0-2857
+msgctxt "70307621-0-2857"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24312
+msgctxt "74865733-0-24312"
+msgid "Take"
+msgstr ""
+
+#: 108533454-0-24799
+msgctxt "108533454-0-24799"
+msgid "Opening…"
+msgstr ""
+
+#: 74865733-0-24315
+msgctxt "74865733-0-24315"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24314
+msgctxt "74865733-0-24314"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24559
+msgctxt "74865733-0-24559"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60868
+msgctxt "7949764-0-60868"
+msgid "Check the Body"
+msgstr ""
+
+#: 7949764-0-60626
+msgctxt "7949764-0-60626"
+msgid "Survive the Hall of Beasts"
+msgstr ""
+
+#: 70307621-0-2852
+msgctxt "70307621-0-2852"
+msgid "Climb"
+msgstr ""
+
+#: 74865733-0-24319
+msgctxt "74865733-0-24319"
+msgid "Destroy"
+msgstr ""
+
+#: 7949764-0-60627
+msgctxt "7949764-0-60627"
+msgid "Enter Drakeeh's Cage"
+msgstr ""
+
+#: 7949764-0-60628
+msgctxt "7949764-0-60628"
+msgid "Survive Drakeeh's Cage"
+msgstr ""
+
+#: 70307621-0-2856
+msgctxt "70307621-0-2856"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-2855
+msgctxt "70307621-0-2855"
+msgid "Travel"
+msgstr ""
+
+#: 7949764-0-59873
+msgctxt "7949764-0-59873"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 70307621-0-2854
+msgctxt "70307621-0-2854"
+msgid "Travel"
+msgstr ""
+
+#: 12912341-0-86114
+msgctxt "12912341-0-86114"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-86113
+msgctxt "12912341-0-86113"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60620
+msgctxt "7949764-0-60620"
+msgid "Survive the Mess Hall of Misery"
+msgstr ""
+
+#: 12912341-0-86112
+msgctxt "12912341-0-86112"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60621
+msgctxt "7949764-0-60621"
+msgid "Enter the Vampire's Pen"
+msgstr ""
+
+#: 12912341-0-86111
+msgctxt "12912341-0-86111"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60864
+msgctxt "7949764-0-60864"
+msgid "Leaf 1"
+msgstr ""
+
+#: 7949764-0-60622
+msgctxt "7949764-0-60622"
+msgid "Survive the Vampire's Pen"
+msgstr ""
+
+#: 7949764-0-60623
+msgctxt "7949764-0-60623"
+msgid "Enter the Derelict Prison Yard"
+msgstr ""
+
+#: 7949764-0-60624
+msgctxt "7949764-0-60624"
+msgid "Survive the Derelict Prison Yard"
+msgstr ""
+
+#: 7949764-0-60625
+msgctxt "7949764-0-60625"
+msgid "Enter the Hall of Beasts"
+msgstr ""
+
+#: 74865733-0-24562
+msgctxt "74865733-0-24562"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24320
+msgctxt "74865733-0-24320"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24561
+msgctxt "74865733-0-24561"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24528
+msgctxt "74865733-0-24528"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60616
+msgctxt "7949764-0-60616"
+msgid "Enter the Dreaming Nest"
+msgstr ""
+
+#: 7949764-0-59869
+msgctxt "7949764-0-59869"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 7949764-0-59866
+msgctxt "7949764-0-59866"
+msgid "Gather <<1>>"
+msgstr ""
+
+#: 8158238-0-2883
+msgctxt "8158238-0-2883"
+msgid "Using…"
+msgstr ""
+
+#: 7949764-0-60618
+msgctxt "7949764-0-60618"
+msgid "Gather Argonian Antiquities"
+msgstr ""
+
+#: 7949764-0-59867
+msgctxt "7949764-0-59867"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 7949764-0-60619
+msgctxt "7949764-0-60619"
+msgid "Enter the Mess Hall of Misery"
+msgstr ""
+
+#: 7949764-0-59864
+msgctxt "7949764-0-59864"
+msgid "Plant Stolen Grave-Stakes"
+msgstr ""
+
+#: 7949764-0-59865
+msgctxt "7949764-0-59865"
+msgid "Gather Stolen Grave-Stakes"
+msgstr ""
+
+#: 7949764-0-59862
+msgctxt "7949764-0-59862"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 7949764-0-59863
+msgctxt "7949764-0-59863"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 12912341-0-87215
+msgctxt "12912341-0-87215"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-59871
+msgctxt "7949764-0-59871"
+msgid "Kill <<1>>"
+msgstr ""
+
+#: 12912341-0-87213
+msgctxt "12912341-0-87213"
+msgid "Search"
+msgstr ""
+
+#: 12912341-0-86124
+msgctxt "12912341-0-86124"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-59870
+msgctxt "7949764-0-59870"
+msgid "Burn Corrupted Heart-Roots"
+msgstr ""
+
+#: 7949764-0-60611
+msgctxt "7949764-0-60611"
+msgid "Go to Cyrodilic Collections Headquarters"
+msgstr ""
+
+#: 7949764-0-60612
+msgctxt "7949764-0-60612"
+msgid "Kill the Ayleid Lich"
+msgstr ""
+
+#: 74865733-0-24771
+msgctxt "74865733-0-24771"
 msgid "Use"
+msgstr ""
+
+#: 12912341-0-87216
+msgctxt "12912341-0-87216"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24770
+msgctxt "74865733-0-24770"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24773
+msgctxt "74865733-0-24773"
+msgid "Use Fire Rock"
+msgstr ""
+
+#: 74865733-0-24531
+msgctxt "74865733-0-24531"
+msgid "Travel"
+msgstr ""
+
+#: 74865733-0-24777
+msgctxt "74865733-0-24777"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24534
+msgctxt "74865733-0-24534"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24779
+msgctxt "74865733-0-24779"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-61935
+msgctxt "7949764-0-61935"
+msgid "Deliver the Furnishing"
+msgstr ""
+
+#: 7949764-0-60604
+msgctxt "7949764-0-60604"
+msgid "Talk to Haxara"
+msgstr ""
+
+#: 7949764-0-61936
+msgctxt "7949764-0-61936"
+msgid "Craft the Furnishing"
+msgstr ""
+
+#: 7949764-0-61937
+msgctxt "7949764-0-61937"
+msgid "Deliver the Furnishing"
+msgstr ""
+
+#: 7949764-0-60607
+msgctxt "7949764-0-60607"
+msgid "Search for Clues"
+msgstr ""
+
+#: 70307621-0-2871
+msgctxt "70307621-0-2871"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60840
+msgctxt "7949764-0-60840"
+msgid "Talk to Lady Laurent"
+msgstr ""
+
+#: 7949764-0-61930
+msgctxt "7949764-0-61930"
+msgid "Craft the Furnishings"
+msgstr ""
+
+#: 7949764-0-60841
+msgctxt "7949764-0-60841"
+msgid "Find the Key"
+msgstr ""
+
+#: 7949764-0-61931
+msgctxt "7949764-0-61931"
+msgid "Deliver the Furnishings"
+msgstr ""
+
+#: 7949764-0-60600
+msgctxt "7949764-0-60600"
+msgid "Enter Caverns"
+msgstr ""
+
+#: 7949764-0-61932
+msgctxt "7949764-0-61932"
+msgid "Craft the Furnishing"
+msgstr ""
+
+#: 7949764-0-60843
+msgctxt "7949764-0-60843"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60601
+msgctxt "7949764-0-60601"
+msgid "Search the Blight Bog Sump"
+msgstr ""
+
+#: 7949764-0-61933
+msgctxt "7949764-0-61933"
+msgid "Deliver the Furnishing"
+msgstr ""
+
+#: 7949764-0-60844
+msgctxt "7949764-0-60844"
+msgid "Await Stibbons's Return"
+msgstr ""
+
+#: 7949764-0-61934
+msgctxt "7949764-0-61934"
+msgid "Craft the Furnishing"
+msgstr ""
+
+#: 74865733-0-24780
+msgctxt "74865733-0-24780"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24782
+msgctxt "74865733-0-24782"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24540
+msgctxt "74865733-0-24540"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24781
+msgctxt "74865733-0-24781"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24740
+msgctxt "74865733-0-24740"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24742
+msgctxt "74865733-0-24742"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24500
+msgctxt "74865733-0-24500"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24741
+msgctxt "74865733-0-24741"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24501
+msgctxt "74865733-0-24501"
+msgid "Take"
+msgstr ""
+
+#: 70307621-0-2828
+msgctxt "70307621-0-2828"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-61924
+msgctxt "7949764-0-61924"
+msgid "Craft the Furnishing"
+msgstr ""
+
+#: 7949764-0-61925
+msgctxt "7949764-0-61925"
+msgid "Deliver the Furnishing"
+msgstr ""
+
+#: 7949764-0-60839
+msgctxt "7949764-0-60839"
+msgid "Help Stibbons"
+msgstr ""
+
+#: 7949764-0-60830
+msgctxt "7949764-0-60830"
+msgid "Sacrificial Altar"
+msgstr ""
+
+#: 7949764-0-60831
+msgctxt "7949764-0-60831"
+msgid "Sacrificial Altar"
+msgstr ""
+
+#: 74865733-0-24751
+msgctxt "74865733-0-24751"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24750
+msgctxt "74865733-0-24750"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-21484
+msgctxt "74865733-0-21484"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24753
+msgctxt "74865733-0-24753"
+msgid "Inhale"
+msgstr ""
+
+#: 74865733-0-24752
+msgctxt "74865733-0-24752"
+msgid "Open"
+msgstr ""
+
+#: 74865733-0-24513
+msgctxt "74865733-0-24513"
+msgid "Open"
+msgstr ""
+
+#: 70307621-0-2818
+msgctxt "70307621-0-2818"
+msgid "Place"
+msgstr ""
+
+#: 70307621-0-2817
+msgctxt "70307621-0-2817"
+msgid "Open"
+msgstr ""
+
+#: 74865733-0-24514
+msgctxt "74865733-0-24514"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60824
+msgctxt "7949764-0-60824"
+msgid "Catch Melodic Blue Jelly"
+msgstr ""
+
+#: 7949764-0-60825
+msgctxt "7949764-0-60825"
+msgid "Catch Melodic Amber Jelly"
+msgstr ""
+
+#: 74865733-0-24516
+msgctxt "74865733-0-24516"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60826
+msgctxt "7949764-0-60826"
+msgid "Catch Melodic Green Jelly"
+msgstr ""
+
+#: 7949764-0-60827
+msgctxt "7949764-0-60827"
+msgid "Catch Melodic Violet Jelly"
+msgstr ""
+
+#: 7949764-0-61917
+msgctxt "7949764-0-61917"
+msgid "Collect Hackwing Hides"
+msgstr ""
+
+#: 7949764-0-60828
+msgctxt "7949764-0-60828"
+msgid "Use Swamp Jelly Net"
+msgstr ""
+
+#: 7949764-0-61918
+msgctxt "7949764-0-61918"
+msgid "Collect Hackwing Hides"
+msgstr ""
+
+#: 7949764-0-60829
+msgctxt "7949764-0-60829"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-61919
+msgctxt "7949764-0-61919"
+msgid "Collect Hackwing Hides"
+msgstr ""
+
+#: 7949764-0-60820
+msgctxt "7949764-0-60820"
+msgid "Take the Grave-Stake"
+msgstr ""
+
+#: 7949764-0-60821
+msgctxt "7949764-0-60821"
+msgid "Talk to the Grave-Singer"
+msgstr ""
+
+#: 7949764-0-60822
+msgctxt "7949764-0-60822"
+msgid "Plant the Grave-Stake"
+msgstr ""
+
+#: 74865733-0-24960
+msgctxt "74865733-0-24960"
+msgid "Examine"
+msgstr ""
+
+#: 70307621-0-2848
+msgctxt "70307621-0-2848"
+msgid "Use"
+msgstr ""
+
+#: 70307621-0-2847
+msgctxt "70307621-0-2847"
+msgid "Enter"
+msgstr ""
+
+#: 70307621-0-2841
+msgctxt "70307621-0-2841"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60814
+msgctxt "7949764-0-60814"
+msgid "Reach Deepmire Cavern"
+msgstr ""
+
+#: 70307621-0-2840
+msgctxt "70307621-0-2840"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60816
+msgctxt "7949764-0-60816"
+msgid "Haxara Opinion"
+msgstr ""
+
+#: 74865733-0-24727
+msgctxt "74865733-0-24727"
+msgid "Ring"
+msgstr ""
+
+#: 7949764-0-60817
+msgctxt "7949764-0-60817"
+msgid "Iskenaaz Opinion"
+msgstr ""
+
+#: 7949764-0-60819
+msgctxt "7949764-0-60819"
+msgid "Collect Book of Riddles"
+msgstr ""
+
+#: 7949764-0-60810
+msgctxt "7949764-0-60810"
+msgid "Ignite the Next Signal Totems"
+msgstr ""
+
+#: 7949764-0-60811
+msgctxt "7949764-0-60811"
+msgid "Find a Location to Speak to Kishi"
+msgstr ""
+
+#: 7949764-0-60812
+msgctxt "7949764-0-60812"
+msgid "Return to <<1>>"
+msgstr ""
+
+#: 74865733-0-24731
+msgctxt "74865733-0-24731"
+msgid "Take"
+msgstr ""
+
+#: 70307621-0-2835
+msgctxt "70307621-0-2835"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24733
+msgctxt "74865733-0-24733"
+msgid "Rescue"
+msgstr ""
+
+#: 7949764-0-60802
+msgctxt "7949764-0-60802"
+msgid "Destroy the Artwork"
+msgstr ""
+
+#: 70307621-0-2830
+msgctxt "70307621-0-2830"
+msgid "Use"
+msgstr ""
+
+#: 7949764-0-60803
+msgctxt "7949764-0-60803"
+msgid "Collect the Hammer"
+msgstr ""
+
+#: 74865733-0-24739
+msgctxt "74865733-0-24739"
+msgid "Signal Stibbons"
+msgstr ""
+
+#: 74865733-0-24738
+msgctxt "74865733-0-24738"
+msgid "Kick"
+msgstr ""
+
+#: 7949764-0-60806
+msgctxt "7949764-0-60806"
+msgid "Ignite the First Signal Totem"
+msgstr ""
+
+#: 70307621-0-2834
+msgctxt "70307621-0-2834"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60807
+msgctxt "7949764-0-60807"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 70307621-0-2833
+msgctxt "70307621-0-2833"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60808
+msgctxt "7949764-0-60808"
+msgid "Ignite the Next Signal Totems"
+msgstr ""
+
+#: 7949764-0-60809
+msgctxt "7949764-0-60809"
+msgid "Ignite the Next Signal Totems"
+msgstr ""
+
+#: 70307621-0-2831
+msgctxt "70307621-0-2831"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60800
+msgctxt "7949764-0-60800"
+msgid "Collect Tomb of Many Spears Ruins"
+msgstr ""
+
+#: 7949764-0-60801
+msgctxt "7949764-0-60801"
+msgid "Retrieve Ruin Pieces"
+msgstr ""
+
+#: 7949764-0-60477
+msgctxt "7949764-0-60477"
+msgid "Exterior Blighted Bog Cavern"
+msgstr ""
+
+#: 7949764-0-60478
+msgctxt "7949764-0-60478"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60479
+msgctxt "7949764-0-60479"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 74865733-0-24391
+msgctxt "74865733-0-24391"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24390
+msgctxt "74865733-0-24390"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24396
+msgctxt "74865733-0-24396"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60464
+msgctxt "7949764-0-60464"
+msgid "Track Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60465
+msgctxt "7949764-0-60465"
+msgid "Track Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60466
+msgctxt "7949764-0-60466"
+msgid "Continue Tracking Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60467
+msgctxt "7949764-0-60467"
+msgid "Explore Tsofeer Cavern"
+msgstr ""
+
+#: 12912341-0-85548
+msgctxt "12912341-0-85548"
+msgid "Help"
+msgstr ""
+
+#: 12912341-0-85549
+msgctxt "12912341-0-85549"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60460
+msgctxt "7949764-0-60460"
+msgid "Let Xukas Free Hostia"
+msgstr ""
+
+#: 12912341-0-85547
+msgctxt "12912341-0-85547"
+msgid "Bandage"
+msgstr ""
+
+#: 7949764-0-60461
+msgctxt "7949764-0-60461"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 12912341-0-85545
+msgctxt "12912341-0-85545"
+msgid "Free"
+msgstr ""
+
+#: 7949764-0-60463
+msgctxt "7949764-0-60463"
+msgid "Talk to Kassandra"
+msgstr ""
+
+#: 74865733-0-24366
+msgctxt "74865733-0-24366"
+msgid "Douse"
+msgstr ""
+
+#: 7949764-0-60695
+msgctxt "7949764-0-60695"
+msgid "Lead Jaxsik and Xukas"
+msgstr ""
+
+#: 7949764-0-60211
+msgctxt "7949764-0-60211"
+msgid "Gather Flint Vine"
+msgstr ""
+
+#: 7949764-0-60696
+msgctxt "7949764-0-60696"
+msgid "Lead Jaxsik and Xukas"
+msgstr ""
+
+#: 7949764-0-60697
+msgctxt "7949764-0-60697"
+msgid "Lead Jaxsik and Xukas"
+msgstr ""
+
+#: 7949764-0-60455
+msgctxt "7949764-0-60455"
+msgid "Find Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60456
+msgctxt "7949764-0-60456"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60457
+msgctxt "7949764-0-60457"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60458
+msgctxt "7949764-0-60458"
+msgid "Talk to Hostia"
+msgstr ""
+
+#: 7949764-0-60459
+msgctxt "7949764-0-60459"
+msgid "Let Jaxsik-Orrn Execute Hostia"
+msgstr ""
+
+#: 7949764-0-60690
+msgctxt "7949764-0-60690"
+msgid "Talk to Keenem"
+msgstr ""
+
+#: 7949764-0-60691
+msgctxt "7949764-0-60691"
+msgid "Find Letter"
+msgstr ""
+
+#: 7949764-0-60692
+msgctxt "7949764-0-60692"
+msgid "Mim"
+msgstr ""
+
+#: 7949764-0-61541
+msgctxt "7949764-0-61541"
+msgid "Left Famia"
+msgstr ""
+
+#: 7949764-0-60694
+msgctxt "7949764-0-60694"
+msgid "Eavesdrop on Whiptail"
+msgstr ""
+
+#: 7949764-0-60210
+msgctxt "7949764-0-60210"
+msgid "Gather Flint Vine"
+msgstr ""
+
+#: 74865733-0-24376
+msgctxt "74865733-0-24376"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60208
+msgctxt "7949764-0-60208"
+msgid "Gather Flint Vine"
+msgstr ""
+
+#: 7949764-0-60209
+msgctxt "7949764-0-60209"
+msgid "Gather Flint Vine"
+msgstr ""
+
+#: 7949764-0-60684
+msgctxt "7949764-0-60684"
+msgid "Follow <<1>>"
+msgstr ""
+
+#: 7949764-0-60442
+msgctxt "7949764-0-60442"
+msgid "Burn Wagon"
+msgstr ""
+
+#: 7949764-0-60685
+msgctxt "7949764-0-60685"
+msgid "Pet <<1>>"
+msgstr ""
+
+#: 7949764-0-60443
+msgctxt "7949764-0-60443"
+msgid "Smash Crate"
+msgstr ""
+
+#: 7949764-0-60686
+msgctxt "7949764-0-60686"
+msgid "Follow <<1>>"
+msgstr ""
+
+#: 7949764-0-60444
+msgctxt "7949764-0-60444"
+msgid "Smash Crate"
+msgstr ""
+
+#: 7949764-0-60687
+msgctxt "7949764-0-60687"
+msgid "Find Argonian Stonework"
+msgstr ""
+
+#: 7949764-0-60445
+msgctxt "7949764-0-60445"
+msgid "Smash Crate"
+msgstr ""
+
+#: 7949764-0-60446
+msgctxt "7949764-0-60446"
+msgid "Smash Crate"
+msgstr ""
+
+#: 7949764-0-60689
+msgctxt "7949764-0-60689"
+msgid "Investigate the Egg-Tenders' Quarters"
+msgstr ""
+
+#: 7949764-0-60447
+msgctxt "7949764-0-60447"
+msgid "Smash Crate"
+msgstr ""
+
+#: 7949764-0-60448
+msgctxt "7949764-0-60448"
+msgid "Smash Crate"
+msgstr ""
+
+#: 7949764-0-60680
+msgctxt "7949764-0-60680"
+msgid "Use <<1>>"
+msgstr ""
+
+#: 7949764-0-60682
+msgctxt "7949764-0-60682"
+msgid "Pet <<1>>"
+msgstr ""
+
+#: 7949764-0-60440
+msgctxt "7949764-0-60440"
+msgid "Burn Wagon"
+msgstr ""
+
+#: 7949764-0-60683
+msgctxt "7949764-0-60683"
+msgid "Pet <<1>>"
+msgstr ""
+
+#: 7949764-0-60441
+msgctxt "7949764-0-60441"
+msgid "Burn Wagon"
+msgstr ""
+
+#: 74865733-0-24586
+msgctxt "74865733-0-24586"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24587
+msgctxt "74865733-0-24587"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60439
+msgctxt "7949764-0-60439"
+msgid "Burn Wagon"
+msgstr ""
+
+#: 7949764-0-60431
+msgctxt "7949764-0-60431"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60674
+msgctxt "7949764-0-60674"
+msgid "Search Pack"
+msgstr ""
+
+#: 7949764-0-60432
+msgctxt "7949764-0-60432"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60675
+msgctxt "7949764-0-60675"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60433
+msgctxt "7949764-0-60433"
+msgid "Track Jaxsik-Orrn"
+msgstr ""
+
+#: 12912341-0-85574
+msgctxt "12912341-0-85574"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60676
+msgctxt "7949764-0-60676"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-60434
+msgctxt "7949764-0-60434"
+msgid "Continue Tracking Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60677
+msgctxt "7949764-0-60677"
+msgid "Collect Romantic Note"
+msgstr ""
+
+#: 7949764-0-60435
+msgctxt "7949764-0-60435"
+msgid "Continue Tracking Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60436
+msgctxt "7949764-0-60436"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60437
+msgctxt "7949764-0-60437"
+msgid "Burn Wagons"
+msgstr ""
+
+#: 7949764-0-60438
+msgctxt "7949764-0-60438"
+msgid "Free the Prisoners"
+msgstr ""
+
+#: 7949764-0-60670
+msgctxt "7949764-0-60670"
+msgid "Talk to Dradeiva"
+msgstr ""
+
+#: 108533454-0-25200
+msgctxt "108533454-0-25200"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24592
+msgctxt "74865733-0-24592"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60430
+msgctxt "7949764-0-60430"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 74865733-0-24594
+msgctxt "74865733-0-24594"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24597
+msgctxt "74865733-0-24597"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60428
+msgctxt "7949764-0-60428"
+msgid "Go to the Meeting Spot"
+msgstr ""
+
+#: 7949764-0-60429
+msgctxt "7949764-0-60429"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 12912341-0-85586
+msgctxt "12912341-0-85586"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-85587
+msgctxt "12912341-0-85587"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60663
+msgctxt "7949764-0-60663"
+msgid "Talk to Nisswo Paraxeeh"
+msgstr ""
+
+#: 12912341-0-85584
+msgctxt "12912341-0-85584"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-85585
+msgctxt "12912341-0-85585"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-85582
+msgctxt "12912341-0-85582"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60667
+msgctxt "7949764-0-60667"
+msgid "Search Xul-Thuxis Temple for Kassandra"
+msgstr ""
+
+#: 7949764-0-60425
+msgctxt "7949764-0-60425"
+msgid "Kill Shuxaltsei"
+msgstr ""
+
+#: 7949764-0-60426
+msgctxt "7949764-0-60426"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 12912341-0-85581
+msgctxt "12912341-0-85581"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60427
+msgctxt "7949764-0-60427"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 12912341-0-85109
+msgctxt "12912341-0-85109"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60660
+msgctxt "7949764-0-60660"
+msgid "Talk to Meena"
+msgstr ""
+
+#: 7949764-0-60661
+msgctxt "7949764-0-60661"
+msgid "Talk to Haxara"
+msgstr ""
+
+#: 74865733-0-24322
+msgctxt "74865733-0-24322"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24563
+msgctxt "74865733-0-24563"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-24321
+msgctxt "74865733-0-24321"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24566
+msgctxt "74865733-0-24566"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24565
+msgctxt "74865733-0-24565"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24568
+msgctxt "74865733-0-24568"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24325
+msgctxt "74865733-0-24325"
+msgid "Use"
+msgstr ""
+
+#: 74865733-0-24328
+msgctxt "74865733-0-24328"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24569
+msgctxt "74865733-0-24569"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60659
+msgctxt "7949764-0-60659"
+msgid "Enter Nesh-Deeka's Shop"
+msgstr ""
+
+#: 7949764-0-60417
+msgctxt "7949764-0-60417"
+msgid "Rescue Famia"
+msgstr ""
+
+#: 12912341-0-85597
+msgctxt "12912341-0-85597"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60651
+msgctxt "7949764-0-60651"
+msgid "Burn Supply Caches"
+msgstr ""
+
+#: 12912341-0-85598
+msgctxt "12912341-0-85598"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60410
+msgctxt "7949764-0-60410"
+msgid "Destroy the Bog-Blight Fumers"
+msgstr ""
+
+#: 7949764-0-60411
+msgctxt "7949764-0-60411"
+msgid "Read Nesh-Deeka's Notes"
+msgstr ""
+
+#: 7949764-0-60654
+msgctxt "7949764-0-60654"
+msgid "Kill Whiptail"
+msgstr ""
+
+#: 7949764-0-60412
+msgctxt "7949764-0-60412"
+msgid "Find a Stone Near Water in Lilmoth"
+msgstr ""
+
+#: 7949764-0-60655
+msgctxt "7949764-0-60655"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60413
+msgctxt "7949764-0-60413"
+msgid "Talk to Nesh-Deeka"
+msgstr ""
+
+#: 12912341-0-85594
+msgctxt "12912341-0-85594"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60898
+msgctxt "7949764-0-60898"
+msgid "Collect Vakka-Bok Aloe"
+msgstr ""
+
+#: 7949764-0-60656
+msgctxt "7949764-0-60656"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60657
+msgctxt "7949764-0-60657"
+msgid "Take Vossa-Satl"
+msgstr ""
+
+#: 7949764-0-60658
+msgctxt "7949764-0-60658"
+msgid "Talk to Nesh-Deeka"
+msgstr ""
+
+#: 74865733-0-24571
+msgctxt "74865733-0-24571"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60892
+msgctxt "7949764-0-60892"
+msgid "Talk iskenaz"
+msgstr ""
+
+#: 7949764-0-60650
+msgctxt "7949764-0-60650"
+msgid "Talk to Captain Jimila"
+msgstr ""
+
+#: 74865733-0-24572
+msgctxt "74865733-0-24572"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24330
+msgctxt "74865733-0-24330"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24575
+msgctxt "74865733-0-24575"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24576
+msgctxt "74865733-0-24576"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24579
+msgctxt "74865733-0-24579"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24578
+msgctxt "74865733-0-24578"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60408
+msgctxt "7949764-0-60408"
+msgid "Destroy the Fumers"
+msgstr ""
+
+#: 7949764-0-60409
+msgctxt "7949764-0-60409"
+msgid "Destroy the Fumers"
+msgstr ""
+
+#: 7949764-0-61971
+msgctxt "7949764-0-61971"
+msgid "Brewer & Chef Merchants sell this Design"
+msgstr ""
+
+#: 7949764-0-60640
+msgctxt "7949764-0-60640"
+msgid "Catch a Ruby Hopper"
+msgstr ""
+
+#: 7949764-0-60641
+msgctxt "7949764-0-60641"
+msgid "Catch a Ruby Hopper"
+msgstr ""
+
+#: 7949764-0-60401
+msgctxt "7949764-0-60401"
+msgid "Create Toad Musk"
+msgstr ""
+
+#: 7949764-0-60644
+msgctxt "7949764-0-60644"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60645
+msgctxt "7949764-0-60645"
+msgid "Find Jaxsik-Orrn"
+msgstr ""
+
+#: 74865733-0-24581
+msgctxt "74865733-0-24581"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60880
+msgctxt "7949764-0-60880"
+msgid "Molted Scales"
+msgstr ""
+
+#: 74865733-0-24584
+msgctxt "74865733-0-24584"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-61970
+msgctxt "7949764-0-61970"
+msgid "Carpenter Merchants sell this Blueprint"
+msgstr ""
+
+#: 7949764-0-60881
+msgctxt "7949764-0-60881"
+msgid "Molted Scales"
+msgstr ""
+
+#: 74865733-0-24583
+msgctxt "74865733-0-24583"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60080
+msgctxt "7949764-0-60080"
+msgid "Join Famia By the Statue"
+msgstr ""
+
+#: 7949764-0-60081
+msgctxt "7949764-0-60081"
+msgid "Kill the Ixtaxh Voriplasm"
+msgstr ""
+
+#: 7949764-0-60079
+msgctxt "7949764-0-60079"
+msgid "Enter the Treasure Vault"
+msgstr ""
+
+#: 7949764-0-60071
+msgctxt "7949764-0-60071"
+msgid "Gather Flint Vine"
+msgstr ""
+
+#: 7949764-0-60072
+msgctxt "7949764-0-60072"
+msgid "Lower the Flint Vine Ladder"
+msgstr ""
+
+#: 7949764-0-60073
+msgctxt "7949764-0-60073"
+msgid "Rescue Kirstaleth"
+msgstr ""
+
+#: 7949764-0-60074
+msgctxt "7949764-0-60074"
+msgid "Search for Varo"
+msgstr ""
+
+#: 7949764-0-62012
+msgctxt "7949764-0-62012"
+msgid "Recover Dead-Water Warrior Bones"
+msgstr ""
+
+#: 7949764-0-60075
+msgctxt "7949764-0-60075"
+msgid "Defend Varo"
+msgstr ""
+
+#: 7949764-0-60076
+msgctxt "7949764-0-60076"
+msgid "Defeat the Spiders"
+msgstr ""
+
+#: 7949764-0-60077
+msgctxt "7949764-0-60077"
+msgid "Explore the Xanmeer"
+msgstr ""
+
+#: 7949764-0-60078
+msgctxt "7949764-0-60078"
+msgid "Navigate the Stone Furnace"
+msgstr ""
+
+#: 7949764-0-60070
+msgctxt "7949764-0-60070"
+msgid "Find the Missing Explorers"
+msgstr ""
+
+#: 7949764-0-61157
+msgctxt "7949764-0-61157"
+msgid "Kill Deroh-Zah"
+msgstr ""
+
+#: 7949764-0-60068
+msgctxt "7949764-0-60068"
+msgid "Find the Missing Explorers"
+msgstr ""
+
+#: 7949764-0-61158
+msgctxt "7949764-0-61158"
+msgid "Find the Dreaming Hist Tree"
+msgstr ""
+
+#: 7949764-0-60069
+msgctxt "7949764-0-60069"
+msgid "Lower the Ancient Drawbridge"
+msgstr ""
+
+#: 7949764-0-61159
+msgctxt "7949764-0-61159"
+msgid "Kill the Guardian of the Blue Stone"
+msgstr ""
+
+#: 7949764-0-60060
+msgctxt "7949764-0-60060"
+msgid "Read Journal"
+msgstr ""
+
+#: 7949764-0-61152
+msgctxt "7949764-0-61152"
+msgid "Touch the Remnant of Argon"
+msgstr ""
+
+#: 7949764-0-60063
+msgctxt "7949764-0-60063"
+msgid "Meet Explorers at the Xanmeer"
+msgstr ""
+
+#: 7949764-0-60064
+msgctxt "7949764-0-60064"
+msgid "Enter the Xanmeer"
+msgstr ""
+
+#: 7949764-0-61154
+msgctxt "7949764-0-61154"
+msgid "Follow Xukas"
+msgstr ""
+
+#: 7949764-0-60065
+msgctxt "7949764-0-60065"
+msgid "Explore the Xanmeer"
+msgstr ""
+
+#: 7949764-0-61155
+msgctxt "7949764-0-61155"
+msgid "Find Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60066
+msgctxt "7949764-0-60066"
+msgid "Gather Your Wits"
+msgstr ""
+
+#: 7949764-0-60067
+msgctxt "7949764-0-60067"
+msgid "Pick the Lock on the Door"
+msgstr ""
+
+#: 7949764-0-61146
+msgctxt "7949764-0-61146"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60057
+msgctxt "7949764-0-60057"
+msgid "Search Hut for Clues"
+msgstr ""
+
+#: 7949764-0-61147
+msgctxt "7949764-0-61147"
+msgid "Kill the Miregaunt"
+msgstr ""
+
+#: 7949764-0-61148
+msgctxt "7949764-0-61148"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-60059
+msgctxt "7949764-0-60059"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-61149
+msgctxt "7949764-0-61149"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-62239
+msgctxt "7949764-0-62239"
+msgid "Gather Treasure"
+msgstr ""
+
+#: 12912341-0-86804
+msgctxt "12912341-0-86804"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-61381
+msgctxt "7949764-0-61381"
+msgid "Wait for Famia"
+msgstr ""
+
+#: 7949764-0-60050
+msgctxt "7949764-0-60050"
+msgid "Talk to Zadaza"
+msgstr ""
+
+#: 7949764-0-61382
+msgctxt "7949764-0-61382"
+msgid "Wait for Famia"
+msgstr ""
+
+#: 7949764-0-61140
+msgctxt "7949764-0-61140"
+msgid "Talk to Nesh-Deeka"
+msgstr ""
+
+#: 7949764-0-61141
+msgctxt "7949764-0-61141"
+msgid "Examine the Crumbled Wall"
+msgstr ""
+
+#: 7949764-0-60052
+msgctxt "7949764-0-60052"
+msgid "Meet Famia's Contact"
+msgstr ""
+
+#: 7949764-0-61384
+msgctxt "7949764-0-61384"
+msgid "Gather Treasure"
+msgstr ""
+
+#: 7949764-0-61385
+msgctxt "7949764-0-61385"
+msgid "Gather Treasure"
+msgstr ""
+
+#: 7949764-0-61386
+msgctxt "7949764-0-61386"
+msgid "Gather Treasure"
+msgstr ""
+
+#: 7949764-0-60297
+msgctxt "7949764-0-60297"
+msgid "Find the Hunting Party"
+msgstr ""
+
+#: 7949764-0-60055
+msgctxt "7949764-0-60055"
+msgid "Search for Famia's Explorers"
+msgstr ""
+
+#: 7949764-0-60056
+msgctxt "7949764-0-60056"
+msgid "Meet Famia's Contact"
+msgstr ""
+
+#: 7949764-0-60290
+msgctxt "7949764-0-60290"
+msgid "Take the Sap-Speaker's Staff"
+msgstr ""
+
+#: 7949764-0-60288
+msgctxt "7949764-0-60288"
+msgid "Listen to Sap-Speaker Kuzei"
+msgstr ""
+
+#: 7949764-0-60289
+msgctxt "7949764-0-60289"
+msgid "Defeat the Ayleid Forces"
+msgstr ""
+
+#: 7949764-0-60047
+msgctxt "7949764-0-60047"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-61137
+msgctxt "7949764-0-61137"
+msgid "Smash Crates"
+msgstr ""
+
+#: 7949764-0-60048
+msgctxt "7949764-0-60048"
+msgid "Go To Lilmoth's Western Gate"
+msgstr ""
+
+#: 7949764-0-61138
+msgctxt "7949764-0-61138"
+msgid "Follow Orange Fumes"
+msgstr ""
+
+#: 7949764-0-60049
+msgctxt "7949764-0-60049"
+msgid "Talk to Zadaza"
+msgstr ""
+
+#: 7949764-0-60280
+msgctxt "7949764-0-60280"
+msgid "Find Uraz"
+msgstr ""
+
+#: 7949764-0-61370
+msgctxt "7949764-0-61370"
+msgid "Died"
+msgstr ""
+
+#: 7949764-0-60281
+msgctxt "7949764-0-60281"
+msgid "Examine the Village Mural"
+msgstr ""
+
+#: 74865733-0-25075
+msgctxt "74865733-0-25075"
+msgid "Dig"
+msgstr ""
+
+#: 7949764-0-61371
+msgctxt "7949764-0-61371"
+msgid "Left Area"
+msgstr ""
+
+#: 7949764-0-60282
+msgctxt "7949764-0-60282"
+msgid "Listen to Raj-Kaal Druxith"
+msgstr ""
+
+#: 7949764-0-61372
+msgctxt "7949764-0-61372"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-61130
+msgctxt "7949764-0-61130"
+msgid "Lead Jaxsik and Xukas"
+msgstr ""
+
+#: 7949764-0-61373
+msgctxt "7949764-0-61373"
+msgid "Died"
+msgstr ""
+
+#: 7949764-0-60284
+msgctxt "7949764-0-60284"
+msgid "Find Raj-Kaal Druxith"
+msgstr ""
+
+#: 108533454-0-25078
+msgctxt "108533454-0-25078"
+msgid "Opening..."
+msgstr ""
+
+#: 7949764-0-61374
+msgctxt "7949764-0-61374"
+msgid "Left Area"
+msgstr ""
+
+#: 7949764-0-60286
+msgctxt "7949764-0-60286"
+msgid "Examine the Hist Tree Mural"
+msgstr ""
+
+#: 74865733-0-25076
+msgctxt "74865733-0-25076"
+msgid "Dig"
+msgstr ""
+
+#: 7949764-0-60287
+msgctxt "7949764-0-60287"
+msgid "Explore the Cavern"
+msgstr ""
+
+#: 108533454-0-25077
+msgctxt "108533454-0-25077"
+msgid "Opening..."
+msgstr ""
+
+#: 7949764-0-61124
+msgctxt "7949764-0-61124"
+msgid "Look at the Remnant Chime while on the Prayer Mat"
+msgstr ""
+
+#: 7949764-0-60277
+msgctxt "7949764-0-60277"
+msgid "Examine the Hunting Party Mural"
+msgstr ""
+
+#: 7949764-0-61125
+msgctxt "7949764-0-61125"
+msgid "Go to the Prayer Mat"
+msgstr ""
+
+#: 7949764-0-60278
+msgctxt "7949764-0-60278"
+msgid "Explore the Marsh"
+msgstr ""
+
+#: 7949764-0-61126
+msgctxt "7949764-0-61126"
+msgid "Signal Topeth to Start the Bonding Ritual"
+msgstr ""
+
+#: 7949764-0-60279
+msgctxt "7949764-0-60279"
+msgid "Kill Fat Gixthi"
+msgstr ""
+
+#: 7949764-0-61369
+msgctxt "7949764-0-61369"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-61127
+msgctxt "7949764-0-61127"
+msgid "Go to the Prayer Mat"
+msgstr ""
+
+#: 7949764-0-60039
+msgctxt "7949764-0-60039"
+msgid "Follow Famia"
+msgstr ""
+
+#: 7949764-0-61129
+msgctxt "7949764-0-61129"
+msgid "Signal Topeth"
+msgstr ""
+
+#: 7949764-0-60271
+msgctxt "7949764-0-60271"
+msgid "Explore the Swallowed Grove"
+msgstr ""
+
+#: 7949764-0-60272
+msgctxt "7949764-0-60272"
+msgid "Use Kassandra's Boat"
+msgstr ""
+
+#: 7949764-0-60030
+msgctxt "7949764-0-60030"
+msgid "Find the Sacred Altar"
+msgstr ""
+
+#: 7949764-0-61120
+msgctxt "7949764-0-61120"
+msgid "Ask Xukas For Help If You Lose the Trail"
+msgstr ""
+
+#: 7949764-0-60273
+msgctxt "7949764-0-60273"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-61121
+msgctxt "7949764-0-61121"
+msgid "Kill Krona and Ree-Nakal"
+msgstr ""
+
+#: 7949764-0-60274
+msgctxt "7949764-0-60274"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60032
+msgctxt "7949764-0-60032"
+msgid "Traverse the Deepmire"
+msgstr ""
+
+#: 7949764-0-61122
+msgctxt "7949764-0-61122"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60033
+msgctxt "7949764-0-60033"
+msgid "Search for Signs of Kassandra"
+msgstr ""
+
+#: 7949764-0-60276
+msgctxt "7949764-0-60276"
+msgid "Observe the Ritual"
+msgstr ""
+
+#: 7949764-0-60266
+msgctxt "7949764-0-60266"
+msgid "Talk to Haxara"
+msgstr ""
+
+#: 7949764-0-61114
+msgctxt "7949764-0-61114"
+msgid "Trigger SA"
+msgstr ""
+
+#: 7949764-0-60267
+msgctxt "7949764-0-60267"
+msgid "Return to Bright-Throat Village"
+msgstr ""
+
+#: 7949764-0-61115
+msgctxt "7949764-0-61115"
+msgid "Ask About Other Ways In"
+msgstr ""
+
+#: 7949764-0-60268
+msgctxt "7949764-0-60268"
+msgid "Talk to Tree-Minder Pavu"
+msgstr ""
+
+#: 7949764-0-60027
+msgctxt "7949764-0-60027"
+msgid "Talk to Kassandra"
+msgstr ""
+
+#: 7949764-0-61117
+msgctxt "7949764-0-61117"
+msgid "Find Another Way Inside"
+msgstr ""
+
+#: 7949764-0-61118
+msgctxt "7949764-0-61118"
+msgid "Crouch to Look For Damaged Plants"
+msgstr ""
+
+#: 7949764-0-61119
+msgctxt "7949764-0-61119"
+msgid "Ree-Nakal's Writings"
+msgstr ""
+
+#: 7949764-0-60260
+msgctxt "7949764-0-60260"
+msgid "Follow the Orange Fumes to their Origin"
 msgstr ""
 
 #: 7949764-0-62441
@@ -36,9 +2301,1274 @@ msgctxt "7949764-0-62441"
 msgid "Recover Dead-Water Warrior Bones"
 msgstr ""
 
-#: 70307621-0-2960
-msgctxt "70307621-0-2960"
-msgid "Swim"
+#: 12912341-0-85987
+msgctxt "12912341-0-85987"
+msgid "Pet"
+msgstr ""
+
+#: 7949764-0-62440
+msgctxt "7949764-0-62440"
+msgid "Gather <<1>>"
+msgstr ""
+
+#: 7949764-0-61111
+msgctxt "7949764-0-61111"
+msgid "Pray to the Remnant Chime"
+msgstr ""
+
+#: 12912341-0-85985
+msgctxt "12912341-0-85985"
+msgid "Pet"
+msgstr ""
+
+#: 7949764-0-61112
+msgctxt "7949764-0-61112"
+msgid "Read the First Dowry Reminder"
+msgstr ""
+
+#: 7949764-0-60499
+msgctxt "7949764-0-60499"
+msgid "Go to the Path's Entrance"
+msgstr ""
+
+#: 7949764-0-62438
+msgctxt "7949764-0-62438"
+msgid "Burn Supply Caches"
+msgstr ""
+
+#: 7949764-0-60259
+msgctxt "7949764-0-60259"
+msgid "Follow the Green Fumes to their Origin"
+msgstr ""
+
+#: 7949764-0-61107
+msgctxt "7949764-0-61107"
+msgid "Find Lady Laurent's Hand-Mirror"
+msgstr ""
+
+#: 7949764-0-61108
+msgctxt "7949764-0-61108"
+msgid "Kick the Hummerwing Hive"
+msgstr ""
+
+#: 7949764-0-62439
+msgctxt "7949764-0-62439"
+msgid "Gather Argonian Antiquities"
+msgstr ""
+
+#: 7949764-0-61109
+msgctxt "7949764-0-61109"
+msgid "Talk to Lady Laurent"
+msgstr ""
+
+#: 7949764-0-60491
+msgctxt "7949764-0-60491"
+msgid "Enter the Gateway"
+msgstr ""
+
+#: 7949764-0-60492
+msgctxt "7949764-0-60492"
+msgid "Pursue Kassandra"
+msgstr ""
+
+#: 7949764-0-60493
+msgctxt "7949764-0-60493"
+msgid "Reach the Remnant of Argon"
+msgstr ""
+
+#: 7949764-0-60251
+msgctxt "7949764-0-60251"
+msgid "Investigate the Veeskhleel Laboratory"
+msgstr ""
+
+#: 7949764-0-60494
+msgctxt "7949764-0-60494"
+msgid "Kill Kassandra"
+msgstr ""
+
+#: 7949764-0-60495
+msgctxt "7949764-0-60495"
+msgid "Leave the Xanmeer"
+msgstr ""
+
+#: 7949764-0-60253
+msgctxt "7949764-0-60253"
+msgid "Talk to Iskenaaz"
+msgstr ""
+
+#: 7949764-0-60486
+msgctxt "7949764-0-60486"
+msgid "Search for Signs of Kassandra"
+msgstr ""
+
+#: 7949764-0-60487
+msgctxt "7949764-0-60487"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-60488
+msgctxt "7949764-0-60488"
+msgid "Acquire a Vakka Stone"
+msgstr ""
+
+#: 7949764-0-60246
+msgctxt "7949764-0-60246"
+msgid "Search the Herb Glade"
+msgstr ""
+
+#: 7949764-0-60489
+msgctxt "7949764-0-60489"
+msgid "Return to Famia"
+msgstr ""
+
+#: 7949764-0-60247
+msgctxt "7949764-0-60247"
+msgid "Talk to Iskenaaz"
+msgstr ""
+
+#: 7949764-0-60249
+msgctxt "7949764-0-60249"
+msgid "Follow the Scales to the Aberration's Origin"
+msgstr ""
+
+#: 12912341-0-85526
+msgctxt "12912341-0-85526"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60481
+msgctxt "7949764-0-60481"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 7949764-0-60482
+msgctxt "7949764-0-60482"
+msgid "Find Kishi"
+msgstr ""
+
+#: 7949764-0-60240
+msgctxt "7949764-0-60240"
+msgid "Talk to Tree-Minder Pavu"
+msgstr ""
+
+#: 7949764-0-60483
+msgctxt "7949764-0-60483"
+msgid "Search the Xanmeer for Kassandra"
+msgstr ""
+
+#: 7949764-0-60241
+msgctxt "7949764-0-60241"
+msgid "Investigate the Uxith"
+msgstr ""
+
+#: 7949764-0-60484
+msgctxt "7949764-0-60484"
+msgid "Acquire a Welkynd Stone"
+msgstr ""
+
+#: 7949764-0-60485
+msgctxt "7949764-0-60485"
+msgid "Activate the Ayleid Gate"
+msgstr ""
+
+#: 7949764-0-60243
+msgctxt "7949764-0-60243"
+msgid "Head to Bright-Throat Village"
+msgstr ""
+
+#: 7949764-0-59929
+msgctxt "7949764-0-59929"
+msgid "Search for Clues"
+msgstr ""
+
+#: 7949764-0-59927
+msgctxt "7949764-0-59927"
+msgid "Search for Clues"
+msgstr ""
+
+#: 7949764-0-59926
+msgctxt "7949764-0-59926"
+msgid "Search for Clues"
+msgstr ""
+
+#: 7949764-0-60912
+msgctxt "7949764-0-60912"
+msgid "Help Stibbons Align Mind"
+msgstr ""
+
+#: 74865733-0-24825
+msgctxt "74865733-0-24825"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60913
+msgctxt "7949764-0-60913"
+msgid "Find a Hummerwing Hive"
+msgstr ""
+
+#: 74865733-0-24826
+msgctxt "74865733-0-24826"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60916
+msgctxt "7949764-0-60916"
+msgid "Enter the Deep Swamp"
+msgstr ""
+
+#: 7949764-0-60917
+msgctxt "7949764-0-60917"
+msgid "Signal Stibbons at the Snake Den"
+msgstr ""
+
+#: 7949764-0-60918
+msgctxt "7949764-0-60918"
+msgid "Find a Snake Den"
+msgstr ""
+
+#: 7949764-0-60919
+msgctxt "7949764-0-60919"
+msgid "Meet Stibbons by the Waterfall"
+msgstr ""
+
+#: 7949764-0-60910
+msgctxt "7949764-0-60910"
+msgid "Help Stibbons Align Blood"
+msgstr ""
+
+#: 7949764-0-60911
+msgctxt "7949764-0-60911"
+msgid "Help Stibbons Align Bile"
+msgstr ""
+
+#: 7949764-0-60909
+msgctxt "7949764-0-60909"
+msgid "Go to the Renewal Lodge"
+msgstr ""
+
+#: 7949764-0-59918
+msgctxt "7949764-0-59918"
+msgid "Search for Captives in the Lower Level"
+msgstr ""
+
+#: 74865733-0-24831
+msgctxt "74865733-0-24831"
+msgid "Read"
+msgstr ""
+
+#: 7949764-0-60901
+msgctxt "7949764-0-60901"
+msgid "Rescue Stibbons"
+msgstr ""
+
+#: 74865733-0-24836
+msgctxt "74865733-0-24836"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60903
+msgctxt "7949764-0-60903"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60904
+msgctxt "7949764-0-60904"
+msgid "Collect Mushrooms"
+msgstr ""
+
+#: 7949764-0-60905
+msgctxt "7949764-0-60905"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60906
+msgctxt "7949764-0-60906"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60907
+msgctxt "7949764-0-60907"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60908
+msgctxt "7949764-0-60908"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60900
+msgctxt "7949764-0-60900"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-59907
+msgctxt "7949764-0-59907"
+msgid "Disrupt Altars"
+msgstr ""
+
+#: 108533454-0-24801
+msgctxt "108533454-0-24801"
+msgid "Opening…"
+msgstr ""
+
+#: 7949764-0-59904
+msgctxt "7949764-0-59904"
+msgid "Search for Captives in the Upper Level"
+msgstr ""
+
+#: 108533454-0-24800
+msgctxt "108533454-0-24800"
+msgid "Opening…"
+msgstr ""
+
+#: 108533454-0-24803
+msgctxt "108533454-0-24803"
+msgid "Opening…"
+msgstr ""
+
+#: 74865733-0-24802
+msgctxt "74865733-0-24802"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24804
+msgctxt "108533454-0-24804"
+msgid "Opening…"
+msgstr ""
+
+#: 12912341-0-86098
+msgctxt "12912341-0-86098"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-85803
+msgctxt "12912341-0-85803"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60082
+msgctxt "7949764-0-60082"
+msgid "Escape the Xanmeer"
+msgstr ""
+
+#: 7949764-0-60083
+msgctxt "7949764-0-60083"
+msgid "Escape the Xanmeer"
+msgstr ""
+
+#: 7949764-0-60084
+msgctxt "7949764-0-60084"
+msgid "Return to the Surface"
+msgstr ""
+
+#: 7949764-0-61174
+msgctxt "7949764-0-61174"
+msgid "Follow Green Fumes"
+msgstr ""
+
+#: 7949764-0-60085
+msgctxt "7949764-0-60085"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60086
+msgctxt "7949764-0-60086"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-60087
+msgctxt "7949764-0-60087"
+msgid "Meet Famia in Her Office"
+msgstr ""
+
+#: 7949764-0-60089
+msgctxt "7949764-0-60089"
+msgid "Go to the Gathering Hut"
+msgstr ""
+
+#: 74865733-0-24421
+msgctxt "74865733-0-24421"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24420
+msgctxt "74865733-0-24420"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-24423
+msgctxt "74865733-0-24423"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24422
+msgctxt "74865733-0-24422"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24425
+msgctxt "74865733-0-24425"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24424
+msgctxt "74865733-0-24424"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24669
+msgctxt "74865733-0-24669"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24426
+msgctxt "74865733-0-24426"
+msgid "Destroy"
+msgstr ""
+
+#: 7949764-0-60759
+msgctxt "7949764-0-60759"
+msgid "Search <<1>>'s Warehouse"
+msgstr ""
+
+#: 7949764-0-60750
+msgctxt "7949764-0-60750"
+msgid "Altar 2"
+msgstr ""
+
+#: 7949764-0-60752
+msgctxt "7949764-0-60752"
+msgid "Investigate <<1>>'s Claim"
+msgstr ""
+
+#: 7949764-0-60754
+msgctxt "7949764-0-60754"
+msgid "Theater Trigger"
+msgstr ""
+
+#: 7949764-0-60755
+msgctxt "7949764-0-60755"
+msgid "Talk to Haxara"
+msgstr ""
+
+#: 7949764-0-60756
+msgctxt "7949764-0-60756"
+msgid "Collect Arrow"
+msgstr ""
+
+#: 7949764-0-60999
+msgctxt "7949764-0-60999"
+msgid "Take the Seed-Doll"
+msgstr ""
+
+#: 7949764-0-60757
+msgctxt "7949764-0-60757"
+msgid "Talk to Hands-That-Heal"
+msgstr ""
+
+#: 74865733-0-24670
+msgctxt "74865733-0-24670"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24672
+msgctxt "74865733-0-24672"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24671
+msgctxt "74865733-0-24671"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24674
+msgctxt "74865733-0-24674"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24673
+msgctxt "74865733-0-24673"
+msgid "Read"
+msgstr ""
+
+#: 74865733-0-24676
+msgctxt "74865733-0-24676"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24434
+msgctxt "74865733-0-24434"
+msgid "Open"
+msgstr ""
+
+#: 74865733-0-24678
+msgctxt "74865733-0-24678"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24436
+msgctxt "74865733-0-24436"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24679
+msgctxt "74865733-0-24679"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24437
+msgctxt "74865733-0-24437"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60747
+msgctxt "7949764-0-60747"
+msgid "Return to Jekka-Wass Vozei"
+msgstr ""
+
+#: 7949764-0-60748
+msgctxt "7949764-0-60748"
+msgid "Help Perform the Ritual"
+msgstr ""
+
+#: 7949764-0-60506
+msgctxt "7949764-0-60506"
+msgid "Perform the Rite of Binding"
+msgstr ""
+
+#: 7949764-0-60749
+msgctxt "7949764-0-60749"
+msgid "Altar 1"
+msgstr ""
+
+#: 7949764-0-60507
+msgctxt "7949764-0-60507"
+msgid "Go to the Hunting Grounds"
+msgstr ""
+
+#: 7949764-0-60508
+msgctxt "7949764-0-60508"
+msgid "Talk to Raj-Kaal Seelan"
+msgstr ""
+
+#: 7949764-0-60509
+msgctxt "7949764-0-60509"
+msgid "Go to the Raj-Kaal's Pavilion"
+msgstr ""
+
+#: 7949764-0-59997
+msgctxt "7949764-0-59997"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-60981
+msgctxt "7949764-0-60981"
+msgid "Talk to Waku-Mat"
+msgstr ""
+
+#: 7949764-0-60982
+msgctxt "7949764-0-60982"
+msgid "Talk to Bond-Guru Topeth"
+msgstr ""
+
+#: 7949764-0-60740
+msgctxt "7949764-0-60740"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60983
+msgctxt "7949764-0-60983"
+msgid "Observe the Bonding Ritual"
+msgstr ""
+
+#: 7949764-0-60741
+msgctxt "7949764-0-60741"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-60742
+msgctxt "7949764-0-60742"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-60743
+msgctxt "7949764-0-60743"
+msgid "Give the <<1>> to <<2>>"
+msgstr ""
+
+#: 7949764-0-60501
+msgctxt "7949764-0-60501"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 7949764-0-60744
+msgctxt "7949764-0-60744"
+msgid "Give the <<1>> to <<2>>"
+msgstr ""
+
+#: 7949764-0-60745
+msgctxt "7949764-0-60745"
+msgid "Attend the Negotiation"
+msgstr ""
+
+#: 7949764-0-60746
+msgctxt "7949764-0-60746"
+msgid "Gather Fire Stones"
+msgstr ""
+
+#: 74865733-0-24681
+msgctxt "74865733-0-24681"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24680
+msgctxt "74865733-0-24680"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60980
+msgctxt "7949764-0-60980"
+msgid "Find a Leviathan Pizzle"
+msgstr ""
+
+#: 74865733-0-24883
+msgctxt "74865733-0-24883"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24641
+msgctxt "74865733-0-24641"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24882
+msgctxt "74865733-0-24882"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24643
+msgctxt "74865733-0-24643"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24401
+msgctxt "74865733-0-24401"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24400
+msgctxt "74865733-0-24400"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24645
+msgctxt "74865733-0-24645"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24403
+msgctxt "74865733-0-24403"
+msgid "Use"
+msgstr ""
+
+#: 74865733-0-24644
+msgctxt "74865733-0-24644"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24402
+msgctxt "74865733-0-24402"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24405
+msgctxt "74865733-0-24405"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24404
+msgctxt "74865733-0-24404"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60978
+msgctxt "7949764-0-60978"
+msgid "Talk to Beehuna"
+msgstr ""
+
+#: 7949764-0-60736
+msgctxt "7949764-0-60736"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 74865733-0-24649
+msgctxt "74865733-0-24649"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24407
+msgctxt "74865733-0-24407"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60979
+msgctxt "7949764-0-60979"
+msgid "Talk to the Black-Tongue Suitor"
+msgstr ""
+
+#: 7949764-0-60737
+msgctxt "7949764-0-60737"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 74865733-0-24406
+msgctxt "74865733-0-24406"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60739
+msgctxt "7949764-0-60739"
+msgid "Investigate the Saltrice Farm"
+msgstr ""
+
+#: 74865733-0-24408
+msgctxt "74865733-0-24408"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-59983
+msgctxt "7949764-0-59983"
+msgid "Take the Grave-Stake"
+msgstr ""
+
+#: 7949764-0-59984
+msgctxt "7949764-0-59984"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 12912341-0-86005
+msgctxt "12912341-0-86005"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60972
+msgctxt "7949764-0-60972"
+msgid "Talk to Iskenaaz"
+msgstr ""
+
+#: 7949764-0-60730
+msgctxt "7949764-0-60730"
+msgid "Gather Brackish Mud"
+msgstr ""
+
+#: 12912341-0-86002
+msgctxt "12912341-0-86002"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60731
+msgctxt "7949764-0-60731"
+msgid "Gather Deathly Bloom"
+msgstr ""
+
+#: 12912341-0-86001
+msgctxt "12912341-0-86001"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60732
+msgctxt "7949764-0-60732"
+msgid "Gather Wood Which Crumbles Stone"
+msgstr ""
+
+#: 7949764-0-60975
+msgctxt "7949764-0-60975"
+msgid "Talk to the Moss-Skin Suitor"
+msgstr ""
+
+#: 7949764-0-60976
+msgctxt "7949764-0-60976"
+msgid "Talk to Deed-Tei"
+msgstr ""
+
+#: 7949764-0-60977
+msgctxt "7949764-0-60977"
+msgid "Talk to the Root-House Suitor"
+msgstr ""
+
+#: 7949764-0-60735
+msgctxt "7949764-0-60735"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 12912341-0-86009
+msgctxt "12912341-0-86009"
+msgid "Search"
+msgstr ""
+
+#: 12912341-0-86008
+msgctxt "12912341-0-86008"
+msgid "Search"
+msgstr ""
+
+#: 12912341-0-86007
+msgctxt "12912341-0-86007"
+msgid "Search"
+msgstr ""
+
+#: 12912341-0-86006
+msgctxt "12912341-0-86006"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24410
+msgctxt "74865733-0-24410"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24412
+msgctxt "74865733-0-24412"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24653
+msgctxt "74865733-0-24653"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24411
+msgctxt "74865733-0-24411"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24655
+msgctxt "74865733-0-24655"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24658
+msgctxt "74865733-0-24658"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24416
+msgctxt "74865733-0-24416"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24415
+msgctxt "74865733-0-24415"
+msgid "Burn"
+msgstr ""
+
+#: 7949764-0-59978
+msgctxt "7949764-0-59978"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 74865733-0-24418
+msgctxt "74865733-0-24418"
+msgid "Burn"
+msgstr ""
+
+#: 74865733-0-24659
+msgctxt "74865733-0-24659"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-59976
+msgctxt "7949764-0-59976"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 74865733-0-24419
+msgctxt "74865733-0-24419"
+msgid "Burn"
+msgstr ""
+
+#: 7949764-0-59974
+msgctxt "7949764-0-59974"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-59975
+msgctxt "7949764-0-59975"
+msgid "Find Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-59972
+msgctxt "7949764-0-59972"
+msgid "Listen to Chime-Maker Shuvu"
+msgstr ""
+
+#: 7949764-0-59973
+msgctxt "7949764-0-59973"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-59981
+msgctxt "7949764-0-59981"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60960
+msgctxt "7949764-0-60960"
+msgid "Burn Corrupted Heart-Roots"
+msgstr ""
+
+#: 7949764-0-59982
+msgctxt "7949764-0-59982"
+msgid "Kill Etra of the Many Spears"
+msgstr ""
+
+#: 7949764-0-60961
+msgctxt "7949764-0-60961"
+msgid "Subzone Check"
+msgstr ""
+
+#: 7949764-0-60962
+msgctxt "7949764-0-60962"
+msgid "Burn Corrupted Heart-Roots"
+msgstr ""
+
+#: 7949764-0-60720
+msgctxt "7949764-0-60720"
+msgid "Find the Storehouse Key"
+msgstr ""
+
+#: 12912341-0-86012
+msgctxt "12912341-0-86012"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60963
+msgctxt "7949764-0-60963"
+msgid "Burn Corrupted Heart-Roots"
+msgstr ""
+
+#: 7949764-0-60721
+msgctxt "7949764-0-60721"
+msgid "Lead Famia"
+msgstr ""
+
+#: 12912341-0-86011
+msgctxt "12912341-0-86011"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60964
+msgctxt "7949764-0-60964"
+msgid "Burn Corrupted Heart-Roots"
+msgstr ""
+
+#: 7949764-0-60722
+msgctxt "7949764-0-60722"
+msgid "Lead Famia"
+msgstr ""
+
+#: 12912341-0-86010
+msgctxt "12912341-0-86010"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60723
+msgctxt "7949764-0-60723"
+msgid "Lead Famia"
+msgstr ""
+
+#: 74865733-0-24661
+msgctxt "74865733-0-24661"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24660
+msgctxt "74865733-0-24660"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24623
+msgctxt "74865733-0-24623"
+msgid "Douse"
+msgstr ""
+
+#: 74865733-0-24622
+msgctxt "74865733-0-24622"
+msgid "Douse"
+msgstr ""
+
+#: 74865733-0-24625
+msgctxt "74865733-0-24625"
+msgid "Douse"
+msgstr ""
+
+#: 74865733-0-24624
+msgctxt "74865733-0-24624"
+msgid "Douse"
+msgstr ""
+
+#: 7949764-0-61803
+msgctxt "7949764-0-61803"
+msgid "Kill Xul-Mot"
+msgstr ""
+
+#: 7949764-0-60714
+msgctxt "7949764-0-60714"
+msgid "Lead Jaxsik and Xukas"
+msgstr ""
+
+#: 74865733-0-24869
+msgctxt "74865733-0-24869"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24627
+msgctxt "74865733-0-24627"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24868
+msgctxt "74865733-0-24868"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24626
+msgctxt "74865733-0-24626"
+msgid "Untie"
+msgstr ""
+
+#: 12912341-0-86270
+msgctxt "12912341-0-86270"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60958
+msgctxt "7949764-0-60958"
+msgid "Breathe the Smoke"
+msgstr ""
+
+#: 7949764-0-60716
+msgctxt "7949764-0-60716"
+msgid "Molted Scales"
+msgstr ""
+
+#: 7949764-0-60959
+msgctxt "7949764-0-60959"
+msgid "Listen to Kloxu"
+msgstr ""
+
+#: 7949764-0-60719
+msgctxt "7949764-0-60719"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-60950
+msgctxt "7949764-0-60950"
+msgid "Investigate the Skin Taker's Lair"
+msgstr ""
+
+#: 7949764-0-60710
+msgctxt "7949764-0-60710"
+msgid "Molted Scales"
+msgstr ""
+
+#: 7949764-0-60954
+msgctxt "7949764-0-60954"
+msgid "Explore the Swallowed Grove"
+msgstr ""
+
+#: 7949764-0-61802
+msgctxt "7949764-0-61802"
+msgid "Kill Ojei"
+msgstr ""
+
+#: 7949764-0-60713
+msgctxt "7949764-0-60713"
+msgid "Examine the Dead Aberration"
+msgstr ""
+
+#: 74865733-0-24870
+msgctxt "74865733-0-24870"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24872
+msgctxt "74865733-0-24872"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24874
+msgctxt "74865733-0-24874"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24632
+msgctxt "74865733-0-24632"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24873
+msgctxt "74865733-0-24873"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24634
+msgctxt "74865733-0-24634"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24633
+msgctxt "74865733-0-24633"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24878
+msgctxt "74865733-0-24878"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24636
+msgctxt "74865733-0-24636"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24877
+msgctxt "74865733-0-24877"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60945
+msgctxt "7949764-0-60945"
+msgid "Collect Mushroms"
+msgstr ""
+
+#: 74865733-0-24638
+msgctxt "74865733-0-24638"
+msgid "Search"
+msgstr ""
+
+#: 7949764-0-60946
+msgctxt "7949764-0-60946"
+msgid "Collect Cave Aloe"
+msgstr ""
+
+#: 74865733-0-24879
+msgctxt "74865733-0-24879"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24637
+msgctxt "74865733-0-24637"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60947
+msgctxt "7949764-0-60947"
+msgid "Collect Cave Aloe"
+msgstr ""
+
+#: 7949764-0-60948
+msgctxt "7949764-0-60948"
+msgid "Collect Cave Aloe"
+msgstr ""
+
+#: 7949764-0-59955
+msgctxt "7949764-0-59955"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60949
+msgctxt "7949764-0-60949"
+msgid "Talk to Guhcin"
+msgstr ""
+
+#: 7949764-0-60708
+msgctxt "7949764-0-60708"
+msgid "Talk to Iskenaaz"
+msgstr ""
+
+#: 7949764-0-60709
+msgctxt "7949764-0-60709"
+msgid "Molted Scales"
+msgstr ""
+
+#: 7949764-0-60942
+msgctxt "7949764-0-60942"
+msgid "Talk to Hul-Wan"
+msgstr ""
+
+#: 7949764-0-60700
+msgctxt "7949764-0-60700"
+msgid "Bandage <<1>>"
+msgstr ""
+
+#: 7949764-0-60944
+msgctxt "7949764-0-60944"
+msgid "Collect Mushroms"
+msgstr ""
+
+#: 74865733-0-24880
+msgctxt "74865733-0-24880"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24841
+msgctxt "74865733-0-24841"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24601
+msgctxt "74865733-0-24601"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24600
+msgctxt "74865733-0-24600"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24602
+msgctxt "74865733-0-24602"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60934
+msgctxt "7949764-0-60934"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60936
+msgctxt "7949764-0-60936"
+msgid "Follow <<1>>"
+msgstr ""
+
+#: 7949764-0-60937
+msgctxt "7949764-0-60937"
+msgid "Talk to Hul-Wan"
+msgstr ""
+
+#: 7949764-0-60938
+msgctxt "7949764-0-60938"
+msgid "Collect Mushroms"
+msgstr ""
+
+#: 7949764-0-60930
+msgctxt "7949764-0-60930"
+msgid "Retrieve the Missing Supplies"
+msgstr ""
+
+#: 7949764-0-60931
+msgctxt "7949764-0-60931"
+msgid "Retrieve the Missing Supplies"
+msgstr ""
+
+#: 7949764-0-60932
+msgctxt "7949764-0-60932"
+msgid "Retrieve the Missing Supplies"
+msgstr ""
+
+#: 7949764-0-60933
+msgctxt "7949764-0-60933"
+msgid "Collect Hackwing Hides"
 msgstr ""
 
 #: 70307621-0-2959
@@ -46,39 +3576,1389 @@ msgctxt "70307621-0-2959"
 msgid "Enter"
 msgstr ""
 
-#: 70307621-0-2953
-msgctxt "70307621-0-2953"
+#: 74865733-0-24611
+msgctxt "74865733-0-24611"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24614
+msgctxt "74865733-0-24614"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2950
-msgctxt "8158238-0-2950"
-msgid "Examining…"
+#: 7949764-0-60923
+msgctxt "7949764-0-60923"
+msgid "Find Missing Envoys"
 msgstr ""
 
-#: 70307621-0-2950
-msgctxt "70307621-0-2950"
+#: 7949764-0-59934
+msgctxt "7949764-0-59934"
+msgid "Talk to Dradeiva"
+msgstr ""
+
+#: 74865733-0-24616
+msgctxt "74865733-0-24616"
+msgid "Burn"
+msgstr ""
+
+#: 7949764-0-60924
+msgctxt "7949764-0-60924"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-60925
+msgctxt "7949764-0-60925"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60928
+msgctxt "7949764-0-60928"
+msgid "Retrieve the Missing Supplies"
+msgstr ""
+
+#: 7949764-0-60929
+msgctxt "7949764-0-60929"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 12912341-0-86059
+msgctxt "12912341-0-86059"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60920
+msgctxt "7949764-0-60920"
+msgid "Attend the Renewal Ritual"
+msgstr ""
+
+#: 7949764-0-60921
+msgctxt "7949764-0-60921"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 7949764-0-60922
+msgctxt "7949764-0-60922"
+msgid "Find <<1>>"
+msgstr ""
+
+#: 74865733-0-24269
+msgctxt "74865733-0-24269"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-85410
+msgctxt "12912341-0-85410"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60354
+msgctxt "7949764-0-60354"
+msgid "Gather Stench Sedge"
+msgstr ""
+
+#: 12912341-0-85411
+msgctxt "12912341-0-85411"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60355
+msgctxt "7949764-0-60355"
+msgid "Gather Salt Rush"
+msgstr ""
+
+#: 7949764-0-60113
+msgctxt "7949764-0-60113"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 12912341-0-85650
+msgctxt "12912341-0-85650"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60356
+msgctxt "7949764-0-60356"
+msgid "Gather Joymallow"
+msgstr ""
+
+#: 7949764-0-60358
+msgctxt "7949764-0-60358"
+msgid "Use Toad Musk"
+msgstr ""
+
+#: 7949764-0-60591
+msgctxt "7949764-0-60591"
+msgid "Take the Sacred Lily"
+msgstr ""
+
+#: 7949764-0-60592
+msgctxt "7949764-0-60592"
+msgid "Talk to Raj-Kaal Seelan"
+msgstr ""
+
+#: 7949764-0-60350
+msgctxt "7949764-0-60350"
+msgid "Gather Fleshflies"
+msgstr ""
+
+#: 7949764-0-60593
+msgctxt "7949764-0-60593"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 7949764-0-60351
+msgctxt "7949764-0-60351"
+msgid "Release Fleshflies"
+msgstr ""
+
+#: 7949764-0-60352
+msgctxt "7949764-0-60352"
+msgid "Catch an Indigo Tree Frog"
+msgstr ""
+
+#: 7949764-0-60353
+msgctxt "7949764-0-60353"
+msgid "Find Toad Mud Pit"
+msgstr ""
+
+#: 7949764-0-60585
+msgctxt "7949764-0-60585"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-60343
+msgctxt "7949764-0-60343"
+msgid "Talk to Claws-the-Ghosts"
+msgstr ""
+
+#: 7949764-0-60101
+msgctxt "7949764-0-60101"
+msgid "Find the Tablet of the Void Fragments"
+msgstr ""
+
+#: 7949764-0-60586
+msgctxt "7949764-0-60586"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-60344
+msgctxt "7949764-0-60344"
+msgid "Talk to Ruja-Wan"
+msgstr ""
+
+#: 7949764-0-60102
+msgctxt "7949764-0-60102"
+msgid "Talk to Solni"
+msgstr ""
+
+#: 7949764-0-60346
+msgctxt "7949764-0-60346"
+msgid "Talk to Nesh-Deeka"
+msgstr ""
+
+#: 7949764-0-60589
+msgctxt "7949764-0-60589"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 7949764-0-60347
+msgctxt "7949764-0-60347"
+msgid "Catch Moss-Foot Croaker"
+msgstr ""
+
+#: 7949764-0-60348
+msgctxt "7949764-0-60348"
+msgid "Catch a Ruby Hopper"
+msgstr ""
+
+#: 7949764-0-60106
+msgctxt "7949764-0-60106"
+msgid "Gather Sealed Imperial Scrolls"
+msgstr ""
+
+#: 7949764-0-60349
+msgctxt "7949764-0-60349"
+msgid "Find the Indigo Tree Frog Grove"
+msgstr ""
+
+#: 7949764-0-60107
+msgctxt "7949764-0-60107"
+msgid "Gather an Imperial Cypher Ring"
+msgstr ""
+
+#: 7949764-0-60108
+msgctxt "7949764-0-60108"
+msgid "Talk to Tia Doran"
+msgstr ""
+
+#: 7949764-0-60580
+msgctxt "7949764-0-60580"
+msgid "Talk to the Sap-Speaker"
+msgstr ""
+
+#: 7949764-0-60581
+msgctxt "7949764-0-60581"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 74865733-0-25133
+msgctxt "74865733-0-25133"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2949
-msgctxt "8158238-0-2949"
-msgid "Examining…"
+#: 7949764-0-60582
+msgctxt "7949764-0-60582"
+msgid "Talk to Jaxsik-Orrn"
 msgstr ""
 
-#: 70307621-0-2949
-msgctxt "70307621-0-2949"
+#: 7949764-0-60583
+msgctxt "7949764-0-60583"
+msgid "Leave the Remnant"
+msgstr ""
+
+#: 7949764-0-60584
+msgctxt "7949764-0-60584"
+msgid "Leave the Remnant"
+msgstr ""
+
+#: 7949764-0-60342
+msgctxt "7949764-0-60342"
+msgid "Talk to Tolwin Bordier"
+msgstr ""
+
+#: 7949764-0-60100
+msgctxt "7949764-0-60100"
+msgid "Find the Tablet of the Destroyer"
+msgstr ""
+
+#: 74865733-0-24486
+msgctxt "74865733-0-24486"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24247
+msgctxt "74865733-0-24247"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24248
+msgctxt "74865733-0-24248"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-87611
+msgctxt "12912341-0-87611"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-85432
+msgctxt "12912341-0-85432"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60574
+msgctxt "7949764-0-60574"
+msgid "Find the Tablet Fragments"
+msgstr ""
+
+#: 7949764-0-60575
+msgctxt "7949764-0-60575"
+msgid "Talk to Jaxsik-Orrn"
+msgstr ""
+
+#: 7949764-0-60333
+msgctxt "7949764-0-60333"
+msgid "Talk to Tia Doran"
+msgstr ""
+
+#: 7949764-0-60576
+msgctxt "7949764-0-60576"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60577
+msgctxt "7949764-0-60577"
+msgid "Return to Famia at the Hist Tree"
+msgstr ""
+
+#: 7949764-0-60335
+msgctxt "7949764-0-60335"
+msgid "Rally the Survivors"
+msgstr ""
+
+#: 7949764-0-60578
+msgctxt "7949764-0-60578"
+msgid "Touch the Remnant of Argon"
+msgstr ""
+
+#: 7949764-0-60579
+msgctxt "7949764-0-60579"
+msgid "Explore the Remnant"
+msgstr ""
+
+#: 74865733-0-24252
+msgctxt "74865733-0-24252"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-86767
+msgctxt "12912341-0-86767"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-24493
+msgctxt "74865733-0-24493"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2947
-msgctxt "8158238-0-2947"
-msgid "Examining…"
+#: 74865733-0-24498
+msgctxt "74865733-0-24498"
+msgid "Take"
 msgstr ""
 
-#: 70307621-0-2947
-msgctxt "70307621-0-2947"
+#: 74865733-0-24497
+msgctxt "74865733-0-24497"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24255
+msgctxt "74865733-0-24255"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24258
+msgctxt "74865733-0-24258"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24499
+msgctxt "74865733-0-24499"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24257
+msgctxt "74865733-0-24257"
+msgid "Take"
+msgstr ""
+
+#: 12912341-0-85209
+msgctxt "12912341-0-85209"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-24265
+msgctxt "74865733-0-24265"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24467
+msgctxt "74865733-0-24467"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24466
+msgctxt "74865733-0-24466"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24468
+msgctxt "74865733-0-24468"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60794
+msgctxt "7949764-0-60794"
+msgid "Talk to Hands-That-Heal"
+msgstr ""
+
+#: 12912341-0-85213
+msgctxt "12912341-0-85213"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-61400
+msgctxt "7949764-0-61400"
+msgid "Find Famia"
+msgstr ""
+
+#: 7949764-0-60795
+msgctxt "7949764-0-60795"
+msgid "Bury the Branch"
+msgstr ""
+
+#: 7949764-0-60796
+msgctxt "7949764-0-60796"
+msgid "Travel to Bright-Throat Village"
+msgstr ""
+
+#: 7949764-0-60797
+msgctxt "7949764-0-60797"
+msgid "Collect Tsofeer Cavern Ruins"
+msgstr ""
+
+#: 7949764-0-60555
+msgctxt "7949764-0-60555"
+msgid "Talk to Solni"
+msgstr ""
+
+#: 7949764-0-60798
+msgctxt "7949764-0-60798"
+msgid "Talk to <<1>>"
+msgstr ""
+
+#: 7949764-0-60799
+msgctxt "7949764-0-60799"
+msgid "Collect Teeth of Sithis Ruins"
+msgstr ""
+
+#: 7949764-0-61889
+msgctxt "7949764-0-61889"
+msgid "Collect Ancient Bones"
+msgstr ""
+
+#: 7949764-0-60316
+msgctxt "7949764-0-60316"
+msgid "Kill the Wuju-Ka Guardian"
+msgstr ""
+
+#: 74865733-0-24470
+msgctxt "74865733-0-24470"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60790
+msgctxt "7949764-0-60790"
+msgid "Collect the Branch"
+msgstr ""
+
+#: 74865733-0-24472
+msgctxt "74865733-0-24472"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60791
+msgctxt "7949764-0-60791"
+msgid "Collect Pendant"
+msgstr ""
+
+#: 7949764-0-60792
+msgctxt "7949764-0-60792"
+msgid "Investigate the Hackwing Nest"
+msgstr ""
+
+#: 74865733-0-24474
+msgctxt "74865733-0-24474"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60793
+msgctxt "7949764-0-60793"
+msgid "Find the Root-House camp"
+msgstr ""
+
+#: 74865733-0-24473
+msgctxt "74865733-0-24473"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24475
+msgctxt "74865733-0-24475"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24478
+msgctxt "74865733-0-24478"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24479
+msgctxt "74865733-0-24479"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24239
+msgctxt "74865733-0-24239"
 msgid "Examine"
+msgstr ""
+
+#: 7949764-0-61872
+msgctxt "7949764-0-61872"
+msgid "Craft the Furnishings"
+msgstr ""
+
+#: 7949764-0-60783
+msgctxt "7949764-0-60783"
+msgid "Talk to the Sap-Speaker"
+msgstr ""
+
+#: 7949764-0-60541
+msgctxt "7949764-0-60541"
+msgid "Gather Sealed Imperial Scrolls"
+msgstr ""
+
+#: 7949764-0-61873
+msgctxt "7949764-0-61873"
+msgid "Deliver the Furnishings"
+msgstr ""
+
+#: 7949764-0-60784
+msgctxt "7949764-0-60784"
+msgid "Talk to the Sap-Speaker"
+msgstr ""
+
+#: 7949764-0-60542
+msgctxt "7949764-0-60542"
+msgid "Gather Sealed Imperial Scrolls"
+msgstr ""
+
+#: 7949764-0-60785
+msgctxt "7949764-0-60785"
+msgid "Ritual End Step"
+msgstr ""
+
+#: 7949764-0-60543
+msgctxt "7949764-0-60543"
+msgid "Recover the Fang of the Great Serpent"
+msgstr ""
+
+#: 7949764-0-60786
+msgctxt "7949764-0-60786"
+msgid "Talk to Tem-Tei"
+msgstr ""
+
+#: 7949764-0-60544
+msgctxt "7949764-0-60544"
+msgid "Recover the Staff of Shuxaltsei"
+msgstr ""
+
+#: 7949764-0-60787
+msgctxt "7949764-0-60787"
+msgid "Retrieve Hunting Bow"
+msgstr ""
+
+#: 7949764-0-60545
+msgctxt "7949764-0-60545"
+msgid "Recover the Chalice of Unquenchable Thirst"
+msgstr ""
+
+#: 7949764-0-60788
+msgctxt "7949764-0-60788"
+msgid "Left the Ritual"
+msgstr ""
+
+#: 7949764-0-60789
+msgctxt "7949764-0-60789"
+msgid "Talk to Tem-Tei"
+msgstr ""
+
+#: 74865733-0-24481
+msgctxt "74865733-0-24481"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24480
+msgctxt "74865733-0-24480"
+msgid "Place"
+msgstr ""
+
+#: 74865733-0-24483
+msgctxt "74865733-0-24483"
+msgid "Place"
+msgstr ""
+
+#: 7949764-0-60780
+msgctxt "7949764-0-60780"
+msgid "Defeat Julitta Asellus"
+msgstr ""
+
+#: 74865733-0-24482
+msgctxt "74865733-0-24482"
+msgid "Place"
+msgstr ""
+
+#: 12912341-0-85225
+msgctxt "12912341-0-85225"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60781
+msgctxt "7949764-0-60781"
+msgid "Investigate the Skin Taker's Lair"
+msgstr ""
+
+#: 7949764-0-60782
+msgctxt "7949764-0-60782"
+msgid "Talk to Dajaleen"
+msgstr ""
+
+#: 7949764-0-60540
+msgctxt "7949764-0-60540"
+msgid "Gather Sealed Imperial Scrolls"
+msgstr ""
+
+#: 74865733-0-24484
+msgctxt "74865733-0-24484"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-24685
+msgctxt "74865733-0-24685"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24687
+msgctxt "74865733-0-24687"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24686
+msgctxt "74865733-0-24686"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24688
+msgctxt "74865733-0-24688"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-87413
+msgctxt "12912341-0-87413"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60772
+msgctxt "7949764-0-60772"
+msgid "Examine the Flensing Knife"
+msgstr ""
+
+#: 7949764-0-60530
+msgctxt "7949764-0-60530"
+msgid "Place Sacred Candle"
+msgstr ""
+
+#: 7949764-0-60773
+msgctxt "7949764-0-60773"
+msgid "Examine the Muddy Tracks"
+msgstr ""
+
+#: 7949764-0-60531
+msgctxt "7949764-0-60531"
+msgid "Place Sacred Candle"
+msgstr ""
+
+#: 7949764-0-60774
+msgctxt "7949764-0-60774"
+msgid "Find the Source of the Cry"
+msgstr ""
+
+#: 7949764-0-60775
+msgctxt "7949764-0-60775"
+msgid "Investigate the Dead-Water Pools"
+msgstr ""
+
+#: 7949764-0-60776
+msgctxt "7949764-0-60776"
+msgid "Talk to Axdred"
+msgstr ""
+
+#: 7949764-0-60777
+msgctxt "7949764-0-60777"
+msgid "Find the Skin Taker"
+msgstr ""
+
+#: 7949764-0-60778
+msgctxt "7949764-0-60778"
+msgid "Find the Skin Taker"
+msgstr ""
+
+#: 7949764-0-60779
+msgctxt "7949764-0-60779"
+msgid "Defeat Hostia Asellus"
+msgstr ""
+
+#: 74865733-0-24690
+msgctxt "74865733-0-24690"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24692
+msgctxt "74865733-0-24692"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24691
+msgctxt "74865733-0-24691"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60770
+msgctxt "7949764-0-60770"
+msgid "Talk to Sulosya"
+msgstr ""
+
+#: 74865733-0-24694
+msgctxt "74865733-0-24694"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24210
+msgctxt "74865733-0-24210"
+msgid "Disrupt"
+msgstr ""
+
+#: 7949764-0-60771
+msgctxt "7949764-0-60771"
+msgid "Talk to Guhcin"
+msgstr ""
+
+#: 74865733-0-24693
+msgctxt "74865733-0-24693"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24696
+msgctxt "74865733-0-24696"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24454
+msgctxt "108533454-0-24454"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 74865733-0-24212
+msgctxt "74865733-0-24212"
+msgid "Destroy"
+msgstr ""
+
+#: 74865733-0-24695
+msgctxt "74865733-0-24695"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24211
+msgctxt "74865733-0-24211"
+msgid "Disrupt"
+msgstr ""
+
+#: 74865733-0-24698
+msgctxt "74865733-0-24698"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24456
+msgctxt "108533454-0-24456"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 74865733-0-24214
+msgctxt "74865733-0-24214"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24697
+msgctxt "74865733-0-24697"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24455
+msgctxt "108533454-0-24455"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 74865733-0-24213
+msgctxt "74865733-0-24213"
+msgid "Destroy"
+msgstr ""
+
+#: 108533454-0-24458
+msgctxt "108533454-0-24458"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 74865733-0-24216
+msgctxt "74865733-0-24216"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24457
+msgctxt "108533454-0-24457"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 74865733-0-24215
+msgctxt "74865733-0-24215"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24218
+msgctxt "74865733-0-24218"
+msgid "Ignite"
+msgstr ""
+
+#: 108533454-0-24459
+msgctxt "108533454-0-24459"
+msgid "Collecting Skyshard…"
+msgstr ""
+
+#: 74865733-0-24217
+msgctxt "74865733-0-24217"
+msgid "Examine"
+msgstr ""
+
+#: 7949764-0-60527
+msgctxt "7949764-0-60527"
+msgid "Enter the Swallowed Grove"
+msgstr ""
+
+#: 7949764-0-60528
+msgctxt "7949764-0-60528"
+msgid "Place Sacred Candles"
+msgstr ""
+
+#: 7949764-0-60529
+msgctxt "7949764-0-60529"
+msgid "Place Sacred Candle"
+msgstr ""
+
+#: 7949764-0-60762
+msgctxt "7949764-0-60762"
+msgid "Investigate <<1>>'s Claim"
+msgstr ""
+
+#: 7949764-0-60763
+msgctxt "7949764-0-60763"
+msgid "Gather Vakka Stone"
+msgstr ""
+
+#: 7949764-0-60522
+msgctxt "7949764-0-60522"
+msgid "Talk to Solni"
+msgstr ""
+
+#: 7949764-0-60765
+msgctxt "7949764-0-60765"
+msgid "Threatening Letter"
+msgstr ""
+
+#: 7949764-0-60524
+msgctxt "7949764-0-60524"
+msgid "Examine Empty Egg Nest"
+msgstr ""
+
+#: 7949764-0-60767
+msgctxt "7949764-0-60767"
+msgid "Stashed Bottles"
+msgstr ""
+
+#: 7949764-0-60768
+msgctxt "7949764-0-60768"
+msgid "Talk to Milzus"
+msgstr ""
+
+#: 74865733-0-24461
+msgctxt "74865733-0-24461"
+msgid "Travel"
+msgstr ""
+
+#: 12912341-0-87667
+msgctxt "12912341-0-87667"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60760
+msgctxt "7949764-0-60760"
+msgid "Find <<1>>'s Grave-Stake"
+msgstr ""
+
+#: 7949764-0-61047
+msgctxt "7949764-0-61047"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-61048
+msgctxt "7949764-0-61048"
+msgid "Left Area"
+msgstr ""
+
+#: 7949764-0-61049
+msgctxt "7949764-0-61049"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-61040
+msgctxt "7949764-0-61040"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-60196
+msgctxt "7949764-0-60196"
+msgid "Talk to Bhoki"
+msgstr ""
+
+#: 7949764-0-61045
+msgctxt "7949764-0-61045"
+msgid "Logged Out"
+msgstr ""
+
+#: 7949764-0-61046
+msgctxt "7949764-0-61046"
+msgid "Left Area"
+msgstr ""
+
+#: 12912341-0-85827
+msgctxt "12912341-0-85827"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-61036
+msgctxt "7949764-0-61036"
+msgid "Get Varo Dossier"
+msgstr ""
+
+#: 7949764-0-61037
+msgctxt "7949764-0-61037"
+msgid "Get Zadaza Dossier"
+msgstr ""
+
+#: 7949764-0-61038
+msgctxt "7949764-0-61038"
+msgid "Get Newcomer Dossier"
+msgstr ""
+
+#: 7949764-0-61039
+msgctxt "7949764-0-61039"
+msgid "Gather Any Other Clues"
+msgstr ""
+
+#: 7949764-0-61030
+msgctxt "7949764-0-61030"
+msgid "Hang the Remnant Chime"
+msgstr ""
+
+#: 7949764-0-61032
+msgctxt "7949764-0-61032"
+msgid "Talk to Lozwug"
+msgstr ""
+
+#: 7949764-0-61033
+msgctxt "7949764-0-61033"
+msgid "Distract Lozwug"
+msgstr ""
+
+#: 7949764-0-61034
+msgctxt "7949764-0-61034"
+msgid "Distract Lozwug"
+msgstr ""
+
+#: 7949764-0-61035
+msgctxt "7949764-0-61035"
+msgid "Talk to Xukas"
+msgstr ""
+
+#: 7949764-0-61025
+msgctxt "7949764-0-61025"
+msgid "Go to the Glade of Chimes"
+msgstr ""
+
+#: 7949764-0-61026
+msgctxt "7949764-0-61026"
+msgid "Talk to Chime-Maker Shuvu"
+msgstr ""
+
+#: 7949764-0-60179
+msgctxt "7949764-0-60179"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 7949764-0-61027
+msgctxt "7949764-0-61027"
+msgid "Go to the Wither-Vault"
+msgstr ""
+
+#: 7949764-0-61028
+msgctxt "7949764-0-61028"
+msgid "Take the Remnant Chime"
+msgstr ""
+
+#: 7949764-0-61029
+msgctxt "7949764-0-61029"
+msgid "Talk to Chime-Maker Shuvu"
+msgstr ""
+
+#: 7949764-0-60170
+msgctxt "7949764-0-60170"
+msgid "Talk to Bhoki"
+msgstr ""
+
+#: 7949764-0-60171
+msgctxt "7949764-0-60171"
+msgid "Talk to Nisswo Xode on Top of the Xanmeer"
+msgstr ""
+
+#: 7949764-0-60173
+msgctxt "7949764-0-60173"
+msgid "Rescue Kishi"
+msgstr ""
+
+#: 7949764-0-60174
+msgctxt "7949764-0-60174"
+msgid "Listen to Famia"
+msgstr ""
+
+#: 7949764-0-60175
+msgctxt "7949764-0-60175"
+msgid "Left Famia"
+msgstr ""
+
+#: 7949764-0-61023
+msgctxt "7949764-0-61023"
+msgid "Gather Treasure and Escape"
+msgstr ""
+
+#: 7949764-0-61024
+msgctxt "7949764-0-61024"
+msgid "Recover the Ritual Objects"
+msgstr ""
+
+#: 7949764-0-61015
+msgctxt "7949764-0-61015"
+msgid "Find the Haj Mota's Den"
+msgstr ""
+
+#: 7949764-0-60168
+msgctxt "7949764-0-60168"
+msgid "Use the Verse to Find Bhoki"
+msgstr ""
+
+#: 108533454-0-25192
+msgctxt "108533454-0-25192"
+msgid "Opening…"
+msgstr ""
+
+#: 12912341-0-85603
+msgctxt "12912341-0-85603"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60162
+msgctxt "7949764-0-60162"
+msgid "Gather Pieces of Imperial Armor"
+msgstr ""
+
+#: 12912341-0-85601
+msgctxt "12912341-0-85601"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-61010
+msgctxt "7949764-0-61010"
+msgid "Search for the Second Dowry Reminder"
+msgstr ""
+
+#: 7949764-0-60163
+msgctxt "7949764-0-60163"
+msgid "Talk to Tia Doran"
+msgstr ""
+
+#: 12912341-0-85602
+msgctxt "12912341-0-85602"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-61011
+msgctxt "7949764-0-61011"
+msgid "Search for the Third Dowry Reminder"
+msgstr ""
+
+#: 7949764-0-61012
+msgctxt "7949764-0-61012"
+msgid "Search for the Fourth Dowry Reminder"
+msgstr ""
+
+#: 7949764-0-60165
+msgctxt "7949764-0-60165"
+msgid "Find Bhoki"
+msgstr ""
+
+#: 12912341-0-85600
+msgctxt "12912341-0-85600"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-61013
+msgctxt "7949764-0-61013"
+msgid "Get Beehuna's Dowry"
+msgstr ""
+
+#: 7949764-0-60166
+msgctxt "7949764-0-60166"
+msgid "Search Bhoki's House"
+msgstr ""
+
+#: 7949764-0-61003
+msgctxt "7949764-0-61003"
+msgid "Examine the Leviathan Pizzle Sketch"
+msgstr ""
+
+#: 7949764-0-61004
+msgctxt "7949764-0-61004"
+msgid "Use the Leviathan Pizzle Sketch Quest Item"
+msgstr ""
+
+#: 7949764-0-60399
+msgctxt "7949764-0-60399"
+msgid "Talk to Kassandra"
+msgstr ""
+
+#: 7949764-0-61005
+msgctxt "7949764-0-61005"
+msgid "Take the Leviathan Pizzle Sketch"
+msgstr ""
+
+#: 7949764-0-61009
+msgctxt "7949764-0-61009"
+msgid "Talk to the Store-Keeper"
+msgstr ""
+
+#: 7949764-0-60390
+msgctxt "7949764-0-60390"
+msgid "Catch an Indigo Tree Frog"
+msgstr ""
+
+#: 12912341-0-86947
+msgctxt "12912341-0-86947"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60391
+msgctxt "7949764-0-60391"
+msgid "Gather Indigo Tree Frogs"
+msgstr ""
+
+#: 7949764-0-60392
+msgctxt "7949764-0-60392"
+msgid "Talk to Sap-Speaker Kuzei"
+msgstr ""
+
+#: 74865733-0-25166
+msgctxt "74865733-0-25166"
+msgid "Read"
+msgstr ""
+
+#: 7949764-0-60395
+msgctxt "7949764-0-60395"
+msgid "Journal"
+msgstr ""
+
+#: 74865733-0-25167
+msgctxt "74865733-0-25167"
+msgid "Read"
+msgstr ""
+
+#: 74865733-0-25164
+msgctxt "74865733-0-25164"
+msgid "Read"
+msgstr ""
+
+#: 7949764-0-61002
+msgctxt "7949764-0-61002"
+msgid "Locate and Follow the Burrowing Haj Mota"
+msgstr ""
+
+#: 7949764-0-60397
+msgctxt "7949764-0-60397"
+msgid "Spawn Dying Aberration (thtr PH)"
+msgstr ""
+
+#: 74865733-0-25165
+msgctxt "74865733-0-25165"
+msgid "Read"
+msgstr ""
+
+#: 74865733-0-25168
+msgctxt "74865733-0-25168"
+msgid "Take"
+msgstr ""
+
+#: 7949764-0-60387
+msgctxt "7949764-0-60387"
+msgid "Catch Moss-Foot Croaker"
+msgstr ""
+
+#: 7949764-0-60388
+msgctxt "7949764-0-60388"
+msgid "Catch Moss-Foot Croaker"
+msgstr ""
+
+#: 7949764-0-60389
+msgctxt "7949764-0-60389"
+msgid "Gather Moss-Foot Croakers"
+msgstr ""
+
+#: 74865733-0-25141
+msgctxt "74865733-0-25141"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24294
+msgctxt "74865733-0-24294"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24296
+msgctxt "74865733-0-24296"
+msgid "Open"
+msgstr ""
+
+#: 7949764-0-61462
+msgctxt "7949764-0-61462"
+msgid "Search Voriplasms and Cavern for Armor"
+msgstr ""
+
+#: 74865733-0-25145
+msgctxt "74865733-0-25145"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24295
+msgctxt "74865733-0-24295"
+msgid "Take"
+msgstr ""
+
+#: 74865733-0-25142
+msgctxt "74865733-0-25142"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-25148
+msgctxt "74865733-0-25148"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-25146
+msgctxt "74865733-0-25146"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-25147
+msgctxt "74865733-0-25147"
+msgid "Examine"
+msgstr ""
+
+#: 12912341-0-85409
+msgctxt "12912341-0-85409"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60365
+msgctxt "7949764-0-60365"
+msgid "Watch Nesh-Deeka"
+msgstr ""
+
+#: 7949764-0-60366
+msgctxt "7949764-0-60366"
+msgid "Watch Nesh-Deeka"
+msgstr ""
+
+#: 7949764-0-60124
+msgctxt "7949764-0-60124"
+msgid "Talk to Famia"
+msgstr ""
+
+#: 7949764-0-61219
+msgctxt "7949764-0-61219"
+msgid "TEST STEP 2"
+msgstr ""
+
+#: 12912341-0-85649
+msgctxt "12912341-0-85649"
+msgid "Talk"
+msgstr ""
+
+#: 12912341-0-85408
+msgctxt "12912341-0-85408"
+msgid "Talk"
+msgstr ""
+
+#: 74865733-0-25152
+msgctxt "74865733-0-25152"
+msgid "Read"
+msgstr ""
+
+#: 12912341-0-85406
+msgctxt "12912341-0-85406"
+msgid "Talk"
+msgstr ""
+
+#: 7949764-0-60360
+msgctxt "7949764-0-60360"
+msgid "Use the Croak-Wheel"
+msgstr ""
+
+#: 7949764-0-60361
+msgctxt "7949764-0-60361"
+msgid "Catch a Sun-Blessed Toad"
+msgstr ""
+
+#: 7949764-0-61693
+msgctxt "7949764-0-61693"
+msgid "Talk to Kishi"
+msgstr ""
+
+#: 7949764-0-61694
+msgctxt "7949764-0-61694"
+msgid "Kill Deroh-Zah"
+msgstr ""
+
+#: 74865733-0-24654
+msgctxt "74865733-0-24654"
+msgid "Search"
+msgstr ""
+
+#: 108533454-0-24654
+msgctxt "108533454-0-24654"
+msgid "Search"
+msgstr ""
+
+#: 74865733-0-24535
+msgctxt "74865733-0-24535"
+msgid "Search"
+msgstr ""
+
+#: 108533454-0-24535
+msgctxt "108533454-0-24535"
+msgid "Opening…"
+msgstr ""
+
+#: 74865733-0-24656
+msgctxt "74865733-0-24656"
+msgid "Incapacitate"
+msgstr ""
+
+#: 108533454-0-24656
+msgctxt "108533454-0-24656"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 74865733-0-24536
+msgctxt "74865733-0-24536"
+msgid "Search"
+msgstr ""
+
+#: 108533454-0-24536
+msgctxt "108533454-0-24536"
+msgid "Opening…"
+msgstr ""
+
+#: 74865733-0-24657
+msgctxt "74865733-0-24657"
+msgid "Dig"
+msgstr ""
+
+#: 108533454-0-24657
+msgctxt "108533454-0-24657"
+msgid "Dig"
 msgstr ""
 
 #: 8158238-0-2944
@@ -121,163 +5001,483 @@ msgctxt "70307621-0-2940"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2939
-msgctxt "8158238-0-2939"
+#: 74865733-0-24650
+msgctxt "74865733-0-24650"
+msgid "Take"
+msgstr ""
+
+#: 108533454-0-24650
+msgctxt "108533454-0-24650"
+msgid "Take"
+msgstr ""
+
+#: 8158238-0-2949
+msgctxt "8158238-0-2949"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2939
-msgctxt "70307621-0-2939"
+#: 70307621-0-2949
+msgctxt "70307621-0-2949"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2935
-msgctxt "8158238-0-2935"
+#: 8158238-0-2947
+msgctxt "8158238-0-2947"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2935
-msgctxt "70307621-0-2935"
+#: 70307621-0-2947
+msgctxt "70307621-0-2947"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2934
-msgctxt "8158238-0-2934"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2934
-msgctxt "70307621-0-2934"
+#: 74865733-0-24829
+msgctxt "74865733-0-24829"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2933
-msgctxt "8158238-0-2933"
+#: 108533454-0-24829
+msgctxt "108533454-0-24829"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2933
-msgctxt "70307621-0-2933"
+#: 74865733-0-24783
+msgctxt "74865733-0-24783"
+msgid "Use"
+msgstr ""
+
+#: 108533454-0-24783
+msgctxt "108533454-0-24783"
+msgid "Opening…"
+msgstr ""
+
+#: 74865733-0-24662
+msgctxt "74865733-0-24662"
+msgid "Destroy"
+msgstr ""
+
+#: 108533454-0-24662
+msgctxt "108533454-0-24662"
+msgid "Destroy"
+msgstr ""
+
+#: 8158238-0-2953
+msgctxt "8158238-0-2953"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2953
+msgctxt "70307621-0-2953"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2931
-msgctxt "8158238-0-2931"
+#: 8158238-0-2950
+msgctxt "8158238-0-2950"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2931
-msgctxt "70307621-0-2931"
+#: 70307621-0-2950
+msgctxt "70307621-0-2950"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2930
-msgctxt "8158238-0-2930"
+#: 8158238-0-2845
+msgctxt "8158238-0-2845"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2930
-msgctxt "70307621-0-2930"
+#: 70307621-0-2845
+msgctxt "70307621-0-2845"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2929
-msgctxt "8158238-0-2929"
+#: 8158238-0-2843
+msgctxt "8158238-0-2843"
+msgid "Climbing…"
+msgstr ""
+
+#: 70307621-0-2843
+msgctxt "70307621-0-2843"
+msgid "Climb Down"
+msgstr ""
+
+#: 8158238-0-2842
+msgctxt "8158238-0-2842"
+msgid "Climbing…"
+msgstr ""
+
+#: 70307621-0-2842
+msgctxt "70307621-0-2842"
+msgid "Climb"
+msgstr ""
+
+#: 8158238-0-2960
+msgctxt "8158238-0-2960"
+msgid "Swimming…"
+msgstr ""
+
+#: 70307621-0-2960
+msgctxt "70307621-0-2960"
+msgid "Swim"
+msgstr ""
+
+#: 74865733-0-24520
+msgctxt "74865733-0-24520"
+msgid "Incapacitate"
+msgstr ""
+
+#: 108533454-0-24520
+msgctxt "108533454-0-24520"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 74865733-0-24522
+msgctxt "74865733-0-24522"
+msgid "Incapacitate"
+msgstr ""
+
+#: 108533454-0-24522
+msgctxt "108533454-0-24522"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 74865733-0-24521
+msgctxt "74865733-0-24521"
+msgid "Incapacitate"
+msgstr ""
+
+#: 108533454-0-24521
+msgctxt "108533454-0-24521"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 74865733-0-24647
+msgctxt "74865733-0-24647"
+msgid "Take"
+msgstr ""
+
+#: 108533454-0-24647
+msgctxt "108533454-0-24647"
+msgid "Take"
+msgstr ""
+
+#: 8158238-0-2453
+msgctxt "8158238-0-2453"
+msgid "Enter"
+msgstr ""
+
+#: 70307621-0-2453
+msgctxt "70307621-0-2453"
+msgid "Enter"
+msgstr ""
+
+#: 8158238-0-2909
+msgctxt "8158238-0-2909"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2929
-msgctxt "70307621-0-2929"
+#: 70307621-0-2909
+msgctxt "70307621-0-2909"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2928
-msgctxt "8158238-0-2928"
-msgid "Examining…"
+#: 74865733-0-25028
+msgctxt "74865733-0-25028"
+msgid "Incapacitate"
 msgstr ""
 
-#: 70307621-0-2928
-msgctxt "70307621-0-2928"
+#: 108533454-0-25028
+msgctxt "108533454-0-25028"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 74865733-0-24612
+msgctxt "74865733-0-24612"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2927
-msgctxt "8158238-0-2927"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2927
-msgctxt "70307621-0-2927"
+#: 108533454-0-24612
+msgctxt "108533454-0-24612"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2926
-msgctxt "8158238-0-2926"
-msgid "Examining…"
+#: 74865733-0-24732
+msgctxt "74865733-0-24732"
+msgid "Take"
 msgstr ""
 
-#: 70307621-0-2926
-msgctxt "70307621-0-2926"
+#: 108533454-0-24732
+msgctxt "108533454-0-24732"
+msgid "Taking …"
+msgstr ""
+
+#: 74865733-0-25029
+msgctxt "74865733-0-25029"
+msgid "Incapacitate"
+msgstr ""
+
+#: 108533454-0-25029
+msgctxt "108533454-0-25029"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 74865733-0-24856
+msgctxt "74865733-0-24856"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2925
-msgctxt "8158238-0-2925"
+#: 108533454-0-24856
+msgctxt "108533454-0-24856"
+msgid "Examining …"
+msgstr ""
+
+#: 8158238-0-2900
+msgctxt "8158238-0-2900"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2925
-msgctxt "70307621-0-2925"
+#: 70307621-0-2900
+msgctxt "70307621-0-2900"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2924
-msgctxt "8158238-0-2924"
+#: 8158238-0-2908
+msgctxt "8158238-0-2908"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2924
-msgctxt "70307621-0-2924"
+#: 70307621-0-2908
+msgctxt "70307621-0-2908"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2923
-msgctxt "8158238-0-2923"
+#: 8158238-0-2907
+msgctxt "8158238-0-2907"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2923
-msgctxt "70307621-0-2923"
+#: 70307621-0-2907
+msgctxt "70307621-0-2907"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2922
-msgctxt "8158238-0-2922"
+#: 8158238-0-2906
+msgctxt "8158238-0-2906"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2922
-msgctxt "70307621-0-2922"
+#: 70307621-0-2906
+msgctxt "70307621-0-2906"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2921
-msgctxt "8158238-0-2921"
+#: 8158238-0-2905
+msgctxt "8158238-0-2905"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2921
-msgctxt "70307621-0-2921"
+#: 70307621-0-2905
+msgctxt "70307621-0-2905"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2920
-msgctxt "8158238-0-2920"
+#: 8158238-0-2904
+msgctxt "8158238-0-2904"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2920
-msgctxt "70307621-0-2920"
+#: 70307621-0-2904
+msgctxt "70307621-0-2904"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2903
+msgctxt "8158238-0-2903"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2903
+msgctxt "70307621-0-2903"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2869
+msgctxt "8158238-0-2869"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2869
+msgctxt "70307621-0-2869"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2902
+msgctxt "8158238-0-2902"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2902
+msgctxt "70307621-0-2902"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2901
+msgctxt "8158238-0-2901"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2901
+msgctxt "70307621-0-2901"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24748
+msgctxt "74865733-0-24748"
+msgid "Take"
+msgstr ""
+
+#: 108533454-0-24748
+msgctxt "108533454-0-24748"
+msgid "Taking …"
+msgstr ""
+
+#: 74865733-0-24904
+msgctxt "74865733-0-24904"
+msgid "Take"
+msgstr ""
+
+#: 108533454-0-24904
+msgctxt "108533454-0-24904"
+msgid "Taking …"
+msgstr ""
+
+#: 74865733-0-24749
+msgctxt "74865733-0-24749"
+msgid "Take"
+msgstr ""
+
+#: 108533454-0-24749
+msgctxt "108533454-0-24749"
+msgid "Taking …"
+msgstr ""
+
+#: 8158238-0-2880
+msgctxt "8158238-0-2880"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2880
+msgctxt "70307621-0-2880"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24863
+msgctxt "74865733-0-24863"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24863
+msgctxt "108533454-0-24863"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24862
+msgctxt "74865733-0-24862"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24862
+msgctxt "108533454-0-24862"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24865
+msgctxt "74865733-0-24865"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24865
+msgctxt "108533454-0-24865"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24864
+msgctxt "74865733-0-24864"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24864
+msgctxt "108533454-0-24864"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-24867
+msgctxt "74865733-0-24867"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24867
+msgctxt "108533454-0-24867"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2878
+msgctxt "8158238-0-2878"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2878
+msgctxt "70307621-0-2878"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2877
+msgctxt "8158238-0-2877"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2877
+msgctxt "70307621-0-2877"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2876
+msgctxt "8158238-0-2876"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2876
+msgctxt "70307621-0-2876"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2875
+msgctxt "8158238-0-2875"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2875
+msgctxt "70307621-0-2875"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2874
+msgctxt "8158238-0-2874"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2874
+msgctxt "70307621-0-2874"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2873
+msgctxt "8158238-0-2873"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2873
+msgctxt "70307621-0-2873"
 msgid "Examine"
 msgstr ""
 
@@ -361,103 +5561,203 @@ msgctxt "70307621-0-2912"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2909
-msgctxt "8158238-0-2909"
+#: 8158238-0-2892
+msgctxt "8158238-0-2892"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2909
-msgctxt "70307621-0-2909"
+#: 70307621-0-2892
+msgctxt "70307621-0-2892"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2908
-msgctxt "8158238-0-2908"
+#: 8158238-0-2891
+msgctxt "8158238-0-2891"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2908
-msgctxt "70307621-0-2908"
+#: 70307621-0-2891
+msgctxt "70307621-0-2891"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2907
-msgctxt "8158238-0-2907"
+#: 8158238-0-2890
+msgctxt "8158238-0-2890"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2907
-msgctxt "70307621-0-2907"
+#: 70307621-0-2890
+msgctxt "70307621-0-2890"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2906
-msgctxt "8158238-0-2906"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2906
-msgctxt "70307621-0-2906"
+#: 74865733-0-24834
+msgctxt "74865733-0-24834"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2905
-msgctxt "8158238-0-2905"
+#: 108533454-0-24834
+msgctxt "108533454-0-24834"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2905
-msgctxt "70307621-0-2905"
+#: 8158238-0-2889
+msgctxt "8158238-0-2889"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2889
+msgctxt "70307621-0-2889"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2904
-msgctxt "8158238-0-2904"
+#: 8158238-0-2922
+msgctxt "8158238-0-2922"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2904
-msgctxt "70307621-0-2904"
+#: 70307621-0-2922
+msgctxt "70307621-0-2922"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2903
-msgctxt "8158238-0-2903"
+#: 8158238-0-2888
+msgctxt "8158238-0-2888"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2903
-msgctxt "70307621-0-2903"
+#: 70307621-0-2888
+msgctxt "70307621-0-2888"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2902
-msgctxt "8158238-0-2902"
+#: 8158238-0-2921
+msgctxt "8158238-0-2921"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2902
-msgctxt "70307621-0-2902"
+#: 70307621-0-2921
+msgctxt "70307621-0-2921"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2901
-msgctxt "8158238-0-2901"
+#: 8158238-0-2887
+msgctxt "8158238-0-2887"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2901
-msgctxt "70307621-0-2901"
+#: 70307621-0-2887
+msgctxt "70307621-0-2887"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2900
-msgctxt "8158238-0-2900"
+#: 8158238-0-2920
+msgctxt "8158238-0-2920"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2900
-msgctxt "70307621-0-2900"
+#: 70307621-0-2920
+msgctxt "70307621-0-2920"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2886
+msgctxt "8158238-0-2886"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2886
+msgctxt "70307621-0-2886"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2929
+msgctxt "8158238-0-2929"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2929
+msgctxt "70307621-0-2929"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2928
+msgctxt "8158238-0-2928"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2928
+msgctxt "70307621-0-2928"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2927
+msgctxt "8158238-0-2927"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2927
+msgctxt "70307621-0-2927"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2926
+msgctxt "8158238-0-2926"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2926
+msgctxt "70307621-0-2926"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2925
+msgctxt "8158238-0-2925"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2925
+msgctxt "70307621-0-2925"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2924
+msgctxt "8158238-0-2924"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2924
+msgctxt "70307621-0-2924"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2923
+msgctxt "8158238-0-2923"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2923
+msgctxt "70307621-0-2923"
+msgid "Examine"
+msgstr ""
+
+#: 74865733-0-25016
+msgctxt "74865733-0-25016"
+msgid "Incapacitate"
+msgstr ""
+
+#: 108533454-0-25016
+msgctxt "108533454-0-25016"
+msgid "Incapacitating…"
+msgstr ""
+
+#: 8158238-0-2933
+msgctxt "8158238-0-2933"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2933
+msgctxt "70307621-0-2933"
 msgid "Examine"
 msgstr ""
 
@@ -471,6 +5771,16 @@ msgctxt "70307621-0-2899"
 msgid "Examine"
 msgstr ""
 
+#: 8158238-0-2931
+msgctxt "8158238-0-2931"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2931
+msgctxt "70307621-0-2931"
+msgid "Examine"
+msgstr ""
+
 #: 8158238-0-2898
 msgctxt "8158238-0-2898"
 msgid "Examining…"
@@ -478,6 +5788,16 @@ msgstr ""
 
 #: 70307621-0-2898
 msgctxt "70307621-0-2898"
+msgid "Examine"
+msgstr ""
+
+#: 8158238-0-2930
+msgctxt "8158238-0-2930"
+msgid "Examining…"
+msgstr ""
+
+#: 70307621-0-2930
+msgctxt "70307621-0-2930"
 msgid "Examine"
 msgstr ""
 
@@ -511,6 +5831,16 @@ msgctxt "70307621-0-2895"
 msgid "Examine"
 msgstr ""
 
+#: 74865733-0-24683
+msgctxt "74865733-0-24683"
+msgid "Examine"
+msgstr ""
+
+#: 108533454-0-24683
+msgctxt "108533454-0-24683"
+msgid "Examining…"
+msgstr ""
+
 #: 8158238-0-2894
 msgctxt "8158238-0-2894"
 msgid "Examining…"
@@ -531,5382 +5861,42 @@ msgctxt "70307621-0-2893"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2892
-msgctxt "8158238-0-2892"
+#: 8158238-0-2939
+msgctxt "8158238-0-2939"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2892
-msgctxt "70307621-0-2892"
+#: 70307621-0-2939
+msgctxt "70307621-0-2939"
 msgid "Examine"
 msgstr ""
 
-#: 8158238-0-2891
-msgctxt "8158238-0-2891"
-msgid "Examining…"
+#: 59991493-1-627
+msgctxt "59991493-1-627"
+msgid "Inactive"
 msgstr ""
 
-#: 70307621-0-2891
-msgctxt "70307621-0-2891"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2890
-msgctxt "8158238-0-2890"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2890
-msgctxt "70307621-0-2890"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2889
-msgctxt "8158238-0-2889"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2889
-msgctxt "70307621-0-2889"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2888
-msgctxt "8158238-0-2888"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2888
-msgctxt "70307621-0-2888"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2887
-msgctxt "8158238-0-2887"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2887
-msgctxt "70307621-0-2887"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2886
-msgctxt "8158238-0-2886"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2886
-msgctxt "70307621-0-2886"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2883
-msgctxt "8158238-0-2883"
-msgid "Using…"
-msgstr ""
-
-#: 70307621-0-2880
-msgctxt "70307621-0-2880"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2878
-msgctxt "8158238-0-2878"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2878
-msgctxt "70307621-0-2878"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2877
-msgctxt "8158238-0-2877"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2877
-msgctxt "70307621-0-2877"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2876
-msgctxt "8158238-0-2876"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2876
-msgctxt "70307621-0-2876"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2875
-msgctxt "8158238-0-2875"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2875
-msgctxt "70307621-0-2875"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2874
-msgctxt "8158238-0-2874"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2874
-msgctxt "70307621-0-2874"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2873
-msgctxt "8158238-0-2873"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2873
-msgctxt "70307621-0-2873"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2871
-msgctxt "70307621-0-2871"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2869
-msgctxt "70307621-0-2869"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2863
-msgctxt "70307621-0-2863"
-msgid "Enter"
-msgstr ""
-
-#: 70307621-0-2845
-msgctxt "70307621-0-2845"
-msgid "Examine"
-msgstr ""
-
-#: 8158238-0-2843
-msgctxt "8158238-0-2843"
-msgid "Climbing…"
-msgstr ""
-
-#: 70307621-0-2843
-msgctxt "70307621-0-2843"
-msgid "Climb Down"
-msgstr ""
-
-#: 8158238-0-2842
-msgctxt "8158238-0-2842"
-msgid "Climbing…"
-msgstr ""
-
-#: 70307621-0-2842
-msgctxt "70307621-0-2842"
-msgid "Climb"
-msgstr ""
-
-#: 70307621-0-2841
-msgctxt "70307621-0-2841"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-25029
-msgctxt "108533454-0-25029"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-25028
-msgctxt "74865733-0-25028"
-msgid "Incapacitate"
-msgstr ""
-
-#: 108533454-0-25028
-msgctxt "108533454-0-25028"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-25016
-msgctxt "74865733-0-25016"
-msgid "Incapacitate"
-msgstr ""
-
-#: 108533454-0-25016
-msgctxt "108533454-0-25016"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-24960
-msgctxt "74865733-0-24960"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24904
-msgctxt "108533454-0-24904"
-msgid "Taking …"
-msgstr ""
-
-#: 74865733-0-24883
-msgctxt "74865733-0-24883"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24867
-msgctxt "108533454-0-24867"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24865
-msgctxt "74865733-0-24865"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24865
-msgctxt "108533454-0-24865"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24864
-msgctxt "74865733-0-24864"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24864
-msgctxt "108533454-0-24864"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24863
-msgctxt "74865733-0-24863"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24863
-msgctxt "108533454-0-24863"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24862
-msgctxt "74865733-0-24862"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24862
-msgctxt "108533454-0-24862"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24856
-msgctxt "74865733-0-24856"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24856
-msgctxt "108533454-0-24856"
-msgid "Examining …"
-msgstr ""
-
-#: 74865733-0-24841
-msgctxt "74865733-0-24841"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24834
-msgctxt "108533454-0-24834"
-msgid "Examining…"
-msgstr ""
-
-#: 74865733-0-24831
-msgctxt "74865733-0-24831"
-msgid "Read"
-msgstr ""
-
-#: 108533454-0-24829
-msgctxt "108533454-0-24829"
-msgid "Examining…"
-msgstr ""
-
-#: 74865733-0-24826
-msgctxt "74865733-0-24826"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24783
-msgctxt "108533454-0-24783"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-24782
-msgctxt "74865733-0-24782"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24749
-msgctxt "108533454-0-24749"
-msgid "Taking …"
-msgstr ""
-
-#: 74865733-0-24748
-msgctxt "74865733-0-24748"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24748
-msgctxt "108533454-0-24748"
-msgid "Taking …"
-msgstr ""
-
-#: 74865733-0-24742
-msgctxt "74865733-0-24742"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24732
-msgctxt "108533454-0-24732"
-msgid "Taking …"
-msgstr ""
-
-#: 74865733-0-24731
-msgctxt "74865733-0-24731"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24683
-msgctxt "108533454-0-24683"
-msgid "Examining…"
-msgstr ""
-
-#: 74865733-0-24681
-msgctxt "74865733-0-24681"
-msgid "Place"
-msgstr ""
-
-#: 108533454-0-24662
-msgctxt "108533454-0-24662"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24661
-msgctxt "74865733-0-24661"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24657
-msgctxt "108533454-0-24657"
-msgid "Dig"
-msgstr ""
-
-#: 74865733-0-24656
-msgctxt "74865733-0-24656"
-msgid "Incapacitate"
-msgstr ""
-
-#: 108533454-0-24656
-msgctxt "108533454-0-24656"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-24655
-msgctxt "74865733-0-24655"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24654
-msgctxt "108533454-0-24654"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24653
-msgctxt "74865733-0-24653"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24650
-msgctxt "108533454-0-24650"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24649
-msgctxt "74865733-0-24649"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24647
-msgctxt "108533454-0-24647"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24645
-msgctxt "74865733-0-24645"
-msgid "Place"
-msgstr ""
-
-#: 108533454-0-24612
-msgctxt "108533454-0-24612"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24611
-msgctxt "74865733-0-24611"
-msgid "Search"
-msgstr ""
-
-#: 108533454-0-24536
-msgctxt "108533454-0-24536"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-24535
-msgctxt "74865733-0-24535"
-msgid "Search"
-msgstr ""
-
-#: 108533454-0-24535
-msgctxt "108533454-0-24535"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-24534
-msgctxt "74865733-0-24534"
-msgid "Search"
-msgstr ""
-
-#: 70307621-0-2453
-msgctxt "70307621-0-2453"
-msgid "Enter"
-msgstr ""
-
-#: 74865733-0-24528
-msgctxt "74865733-0-24528"
-msgid "Take"
-msgstr ""
-
-#: 108533454-0-24522
-msgctxt "108533454-0-24522"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-24521
-msgctxt "74865733-0-24521"
-msgid "Incapacitate"
-msgstr ""
-
-#: 108533454-0-24521
-msgctxt "108533454-0-24521"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-24520
-msgctxt "74865733-0-24520"
-msgid "Incapacitate"
-msgstr ""
-
-#: 108533454-0-24520
-msgctxt "108533454-0-24520"
-msgid "Incapacitating…"
-msgstr ""
-
-#: 74865733-0-24516
-msgctxt "74865733-0-24516"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-87611
-msgctxt "12912341-0-87611"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-87437
-msgctxt "12912341-0-87437"
-msgid "Bandage"
-msgstr ""
-
-#: 12912341-0-87435
-msgctxt "12912341-0-87435"
-msgid "Help"
-msgstr ""
-
-#: 12912341-0-87434
-msgctxt "12912341-0-87434"
-msgid "Bandage"
-msgstr ""
-
-#: 12912341-0-87432
-msgctxt "12912341-0-87432"
-msgid "Free"
-msgstr ""
-
-#: 12912341-0-87413
-msgctxt "12912341-0-87413"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-87216
-msgctxt "12912341-0-87216"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-87215
-msgctxt "12912341-0-87215"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-87213
-msgctxt "12912341-0-87213"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86947
-msgctxt "12912341-0-86947"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-86804
-msgctxt "12912341-0-86804"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86767
-msgctxt "12912341-0-86767"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86270
-msgctxt "12912341-0-86270"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86124
-msgctxt "12912341-0-86124"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86114
-msgctxt "12912341-0-86114"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86113
-msgctxt "12912341-0-86113"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86112
-msgctxt "12912341-0-86112"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86111
-msgctxt "12912341-0-86111"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86098
-msgctxt "12912341-0-86098"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86059
-msgctxt "12912341-0-86059"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-86012
-msgctxt "12912341-0-86012"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86011
-msgctxt "12912341-0-86011"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86010
-msgctxt "12912341-0-86010"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86009
-msgctxt "12912341-0-86009"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86008
-msgctxt "12912341-0-86008"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86007
-msgctxt "12912341-0-86007"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86006
-msgctxt "12912341-0-86006"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86005
-msgctxt "12912341-0-86005"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86002
-msgctxt "12912341-0-86002"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-86001
-msgctxt "12912341-0-86001"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-85987
-msgctxt "12912341-0-85987"
-msgid "Pet"
-msgstr ""
-
-#: 12912341-0-85985
-msgctxt "12912341-0-85985"
-msgid "Pet"
-msgstr ""
-
-#: 12912341-0-85827
-msgctxt "12912341-0-85827"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85803
-msgctxt "12912341-0-85803"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85650
-msgctxt "12912341-0-85650"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85649
-msgctxt "12912341-0-85649"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85603
-msgctxt "12912341-0-85603"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85602
-msgctxt "12912341-0-85602"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85601
-msgctxt "12912341-0-85601"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85600
-msgctxt "12912341-0-85600"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85598
-msgctxt "12912341-0-85598"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85597
-msgctxt "12912341-0-85597"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85594
-msgctxt "12912341-0-85594"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85587
-msgctxt "12912341-0-85587"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85586
-msgctxt "12912341-0-85586"
-msgid "Examine"
-msgstr ""
-
-#: 12912341-0-85585
-msgctxt "12912341-0-85585"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85584
-msgctxt "12912341-0-85584"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85582
-msgctxt "12912341-0-85582"
-msgid "Take"
-msgstr ""
-
-#: 12912341-0-85581
-msgctxt "12912341-0-85581"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85574
-msgctxt "12912341-0-85574"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85549
-msgctxt "12912341-0-85549"
-msgid "Search"
-msgstr ""
-
-#: 12912341-0-85548
-msgctxt "12912341-0-85548"
-msgid "Help"
-msgstr ""
-
-#: 12912341-0-85547
-msgctxt "12912341-0-85547"
-msgid "Bandage"
-msgstr ""
-
-#: 12912341-0-85545
-msgctxt "12912341-0-85545"
-msgid "Free"
-msgstr ""
-
-#: 12912341-0-85526
-msgctxt "12912341-0-85526"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85432
-msgctxt "12912341-0-85432"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85411
-msgctxt "12912341-0-85411"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85410
-msgctxt "12912341-0-85410"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85409
-msgctxt "12912341-0-85409"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85408
-msgctxt "12912341-0-85408"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85406
-msgctxt "12912341-0-85406"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85225
-msgctxt "12912341-0-85225"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85213
-msgctxt "12912341-0-85213"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85209
-msgctxt "12912341-0-85209"
-msgid "Talk"
-msgstr ""
-
-#: 12912341-0-85109
-msgctxt "12912341-0-85109"
-msgid "Talk"
-msgstr ""
-
-#: 59991493-0-627
-msgctxt "59991493-0-627"
-msgid "Active"
-msgstr ""
-
-#: 7949764-0-62440
-msgctxt "7949764-0-62440"
-msgid "Gather <<1>>"
-msgstr ""
-
-#: 7949764-0-62439
-msgctxt "7949764-0-62439"
-msgid "Gather Argonian Antiquities"
-msgstr ""
-
-#: 7949764-0-62438
-msgctxt "7949764-0-62438"
-msgid "Burn Supply Caches"
-msgstr ""
-
-#: 7949764-0-62239
-msgctxt "7949764-0-62239"
-msgid "Gather Treasure"
-msgstr ""
-
-#: 7949764-0-62012
-msgctxt "7949764-0-62012"
-msgid "Recover Dead-Water Warrior Bones"
-msgstr ""
-
-#: 7949764-0-61971
-msgctxt "7949764-0-61971"
-msgid "Brewer & Chef Merchants sell this Design"
-msgstr ""
-
-#: 7949764-0-61970
-msgctxt "7949764-0-61970"
-msgid "Carpenter Merchants sell this Blueprint"
-msgstr ""
-
-#: 7949764-0-61969
-msgctxt "7949764-0-61969"
-msgid "Clothier Merchants sell this Pattern"
-msgstr ""
-
-#: 7949764-0-61968
-msgctxt "7949764-0-61968"
-msgid "Clothier Merchants sell this Pattern"
-msgstr ""
-
-#: 7949764-0-61967
-msgctxt "7949764-0-61967"
-msgid "Blacksmith Merchants sell this Diagram"
-msgstr ""
-
-#: 7949764-0-61966
-msgctxt "7949764-0-61966"
-msgid "Blacksmith Merchants sell this Diagram"
-msgstr ""
-
-#: 7949764-0-61937
-msgctxt "7949764-0-61937"
-msgid "Deliver the Furnishing"
-msgstr ""
-
-#: 7949764-0-61936
-msgctxt "7949764-0-61936"
-msgid "Craft the Furnishing"
-msgstr ""
-
-#: 7949764-0-61935
-msgctxt "7949764-0-61935"
-msgid "Deliver the Furnishing"
-msgstr ""
-
-#: 7949764-0-61934
-msgctxt "7949764-0-61934"
-msgid "Craft the Furnishing"
-msgstr ""
-
-#: 7949764-0-61933
-msgctxt "7949764-0-61933"
-msgid "Deliver the Furnishing"
-msgstr ""
-
-#: 7949764-0-61932
-msgctxt "7949764-0-61932"
-msgid "Craft the Furnishing"
-msgstr ""
-
-#: 7949764-0-61931
-msgctxt "7949764-0-61931"
-msgid "Deliver the Furnishings"
-msgstr ""
-
-#: 7949764-0-61930
-msgctxt "7949764-0-61930"
-msgid "Craft the Furnishings"
-msgstr ""
-
-#: 7949764-0-61925
-msgctxt "7949764-0-61925"
-msgid "Deliver the Furnishing"
-msgstr ""
-
-#: 7949764-0-61924
-msgctxt "7949764-0-61924"
-msgid "Craft the Furnishing"
-msgstr ""
-
-#: 7949764-0-61919
-msgctxt "7949764-0-61919"
-msgid "Collect Hackwing Hides"
-msgstr ""
-
-#: 7949764-0-61918
-msgctxt "7949764-0-61918"
-msgid "Collect Hackwing Hides"
-msgstr ""
-
-#: 7949764-0-61917
-msgctxt "7949764-0-61917"
-msgid "Collect Hackwing Hides"
-msgstr ""
-
-#: 7949764-0-61889
-msgctxt "7949764-0-61889"
-msgid "Collect Ancient Bones"
-msgstr ""
-
-#: 7949764-0-61873
-msgctxt "7949764-0-61873"
-msgid "Deliver the Furnishings"
-msgstr ""
-
-#: 7949764-0-61872
-msgctxt "7949764-0-61872"
-msgid "Craft the Furnishings"
-msgstr ""
-
-#: 7949764-0-61803
-msgctxt "7949764-0-61803"
-msgid "Kill Xul-Mot"
-msgstr ""
-
-#: 7949764-0-61802
-msgctxt "7949764-0-61802"
-msgid "Kill Ojei"
-msgstr ""
-
-#: 7949764-0-61694
-msgctxt "7949764-0-61694"
-msgid "Kill Deroh-Zah"
-msgstr ""
-
-#: 7949764-0-61693
-msgctxt "7949764-0-61693"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-61541
-msgctxt "7949764-0-61541"
-msgid "Left Famia"
-msgstr ""
-
-#: 7949764-0-61462
-msgctxt "7949764-0-61462"
-msgid "Search Voriplasms and Cavern for Armor"
-msgstr ""
-
-#: 7949764-0-61400
-msgctxt "7949764-0-61400"
-msgid "Find Famia"
-msgstr ""
-
-#: 7949764-0-61386
-msgctxt "7949764-0-61386"
-msgid "Gather Treasure"
-msgstr ""
-
-#: 7949764-0-61385
-msgctxt "7949764-0-61385"
-msgid "Gather Treasure"
-msgstr ""
-
-#: 7949764-0-61384
-msgctxt "7949764-0-61384"
-msgid "Gather Treasure"
-msgstr ""
-
-#: 7949764-0-61382
-msgctxt "7949764-0-61382"
-msgid "Wait for Famia"
-msgstr ""
-
-#: 7949764-0-61381
-msgctxt "7949764-0-61381"
-msgid "Wait for Famia"
-msgstr ""
-
-#: 7949764-0-61374
-msgctxt "7949764-0-61374"
-msgid "Left Area"
-msgstr ""
-
-#: 7949764-0-61373
-msgctxt "7949764-0-61373"
-msgid "Died"
-msgstr ""
-
-#: 7949764-0-61372
-msgctxt "7949764-0-61372"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-61371
-msgctxt "7949764-0-61371"
-msgid "Left Area"
-msgstr ""
-
-#: 7949764-0-61370
-msgctxt "7949764-0-61370"
-msgid "Died"
-msgstr ""
-
-#: 7949764-0-61369
-msgctxt "7949764-0-61369"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-61219
-msgctxt "7949764-0-61219"
-msgid "TEST STEP 2"
-msgstr ""
-
-#: 7949764-0-61174
-msgctxt "7949764-0-61174"
-msgid "Follow Green Fumes"
-msgstr ""
-
-#: 7949764-0-61159
-msgctxt "7949764-0-61159"
-msgid "Kill the Guardian of the Blue Stone"
-msgstr ""
-
-#: 7949764-0-61158
-msgctxt "7949764-0-61158"
-msgid "Find the Dreaming Hist Tree"
-msgstr ""
-
-#: 7949764-0-61157
-msgctxt "7949764-0-61157"
-msgid "Kill Deroh-Zah"
-msgstr ""
-
-#: 7949764-0-61155
-msgctxt "7949764-0-61155"
-msgid "Find Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-61154
-msgctxt "7949764-0-61154"
-msgid "Follow Xukas"
-msgstr ""
-
-#: 7949764-0-61152
-msgctxt "7949764-0-61152"
-msgid "Touch the Remnant of Argon"
-msgstr ""
-
-#: 7949764-0-61149
-msgctxt "7949764-0-61149"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-61148
-msgctxt "7949764-0-61148"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-61147
-msgctxt "7949764-0-61147"
-msgid "Kill the Miregaunt"
-msgstr ""
-
-#: 7949764-0-61146
-msgctxt "7949764-0-61146"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-61141
-msgctxt "7949764-0-61141"
-msgid "Examine the Crumbled Wall"
-msgstr ""
-
-#: 7949764-0-61140
-msgctxt "7949764-0-61140"
-msgid "Talk to Nesh-Deeka"
-msgstr ""
-
-#: 7949764-0-61138
-msgctxt "7949764-0-61138"
-msgid "Follow Orange Fumes"
-msgstr ""
-
-#: 7949764-0-61137
-msgctxt "7949764-0-61137"
-msgid "Smash Crates"
-msgstr ""
-
-#: 7949764-0-61130
-msgctxt "7949764-0-61130"
-msgid "Lead Jaxsik and Xukas"
-msgstr ""
-
-#: 7949764-0-61129
-msgctxt "7949764-0-61129"
-msgid "Signal Topeth"
-msgstr ""
-
-#: 7949764-0-61127
-msgctxt "7949764-0-61127"
-msgid "Go to the Prayer Mat"
-msgstr ""
-
-#: 7949764-0-61126
-msgctxt "7949764-0-61126"
-msgid "Signal Topeth to Start the Bonding Ritual"
-msgstr ""
-
-#: 7949764-0-61125
-msgctxt "7949764-0-61125"
-msgid "Go to the Prayer Mat"
-msgstr ""
-
-#: 7949764-0-61124
-msgctxt "7949764-0-61124"
-msgid "Look at the Remnant Chime while on the Prayer Mat"
-msgstr ""
-
-#: 7949764-0-61122
-msgctxt "7949764-0-61122"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-61121
-msgctxt "7949764-0-61121"
-msgid "Kill Krona and Ree-Nakal"
-msgstr ""
-
-#: 7949764-0-61120
-msgctxt "7949764-0-61120"
-msgid "Ask Xukas For Help If You Lose the Trail"
-msgstr ""
-
-#: 7949764-0-61119
-msgctxt "7949764-0-61119"
-msgid "Ree-Nakal's Writings"
-msgstr ""
-
-#: 7949764-0-61118
-msgctxt "7949764-0-61118"
-msgid "Crouch to Look For Damaged Plants"
-msgstr ""
-
-#: 7949764-0-61117
-msgctxt "7949764-0-61117"
-msgid "Find Another Way Inside"
-msgstr ""
-
-#: 7949764-0-61115
-msgctxt "7949764-0-61115"
-msgid "Ask About Other Ways In"
-msgstr ""
-
-#: 7949764-0-61114
-msgctxt "7949764-0-61114"
-msgid "Trigger SA"
-msgstr ""
-
-#: 7949764-0-61112
-msgctxt "7949764-0-61112"
-msgid "Read the First Dowry Reminder"
-msgstr ""
-
-#: 7949764-0-61111
-msgctxt "7949764-0-61111"
-msgid "Pray to the Remnant Chime"
-msgstr ""
-
-#: 7949764-0-61109
-msgctxt "7949764-0-61109"
-msgid "Talk to Lady Laurent"
-msgstr ""
-
-#: 7949764-0-61108
-msgctxt "7949764-0-61108"
-msgid "Kick the Hummerwing Hive"
-msgstr ""
-
-#: 7949764-0-61107
-msgctxt "7949764-0-61107"
-msgid "Find Lady Laurent's Hand-Mirror"
-msgstr ""
-
-#: 7949764-0-61098
-msgctxt "7949764-0-61098"
-msgid "Return to the Archcanon's Office"
-msgstr ""
-
-#: 7949764-0-61096
-msgctxt "7949764-0-61096"
-msgid "Talk to Haxara"
-msgstr ""
-
-#: 7949764-0-61095
-msgctxt "7949764-0-61095"
-msgid "Talk to Iskenaaz"
-msgstr ""
-
-#: 7949764-0-61090
-msgctxt "7949764-0-61090"
-msgid "Talk to Kassandra"
-msgstr ""
-
-#: 7949764-0-61089
-msgctxt "7949764-0-61089"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-61088
-msgctxt "7949764-0-61088"
-msgid "Free <<1>>"
-msgstr ""
-
-#: 7949764-0-61087
-msgctxt "7949764-0-61087"
-msgid "Locate <<1>>"
-msgstr ""
-
-#: 7949764-0-61086
-msgctxt "7949764-0-61086"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-61085
-msgctxt "7949764-0-61085"
-msgid "Kill the Ayleid Stragglers"
-msgstr ""
-
-#: 7949764-0-61084
-msgctxt "7949764-0-61084"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-61083
-msgctxt "7949764-0-61083"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-61081
-msgctxt "7949764-0-61081"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-61079
-msgctxt "7949764-0-61079"
-msgid "Douse the Fires"
-msgstr ""
-
-#: 7949764-0-61078
-msgctxt "7949764-0-61078"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-61076
-msgctxt "7949764-0-61076"
-msgid "Go to the Main Blackguard Camp"
-msgstr ""
-
-#: 7949764-0-61075
-msgctxt "7949764-0-61075"
-msgid "Collect Histwood Grave-Stakes"
-msgstr ""
-
-#: 7949764-0-61074
-msgctxt "7949764-0-61074"
-msgid "Collect Histwood Grave-Stakes"
-msgstr ""
-
-#: 7949764-0-61073
-msgctxt "7949764-0-61073"
-msgid "Collect Histwood Grave-Stakes"
-msgstr ""
-
-#: 7949764-0-61072
-msgctxt "7949764-0-61072"
-msgid "Destroy the Fumers"
-msgstr ""
-
-#: 7949764-0-61071
-msgctxt "7949764-0-61071"
-msgid "Collect Histwood Grave-Stakes"
-msgstr ""
-
-#: 7949764-0-61068
-msgctxt "7949764-0-61068"
-msgid "Talk to Kassandra"
-msgstr ""
-
-#: 7949764-0-61067
-msgctxt "7949764-0-61067"
-msgid "Search for Clues"
-msgstr ""
-
-#: 7949764-0-61066
-msgctxt "7949764-0-61066"
-msgid "Talk to Kassandra"
-msgstr ""
-
-#: 7949764-0-61065
-msgctxt "7949764-0-61065"
-msgid "Find Kassandra"
-msgstr ""
-
-#: 7949764-0-61064
-msgctxt "7949764-0-61064"
-msgid "Meet Kassandra at Alten Meerhleel"
-msgstr ""
-
-#: 7949764-0-61061
-msgctxt "7949764-0-61061"
-msgid "Collect Ancient Bones"
-msgstr ""
-
-#: 7949764-0-61060
-msgctxt "7949764-0-61060"
-msgid "Collect Ancient Bones"
-msgstr ""
-
-#: 7949764-0-61059
-msgctxt "7949764-0-61059"
-msgid "Collect Ancient Bones"
-msgstr ""
-
-#: 7949764-0-61058
-msgctxt "7949764-0-61058"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-61057
-msgctxt "7949764-0-61057"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-61056
-msgctxt "7949764-0-61056"
-msgid "Observe the Scene"
-msgstr ""
-
-#: 7949764-0-61054
-msgctxt "7949764-0-61054"
-msgid "Killed Someone"
-msgstr ""
-
-#: 7949764-0-61053
-msgctxt "7949764-0-61053"
-msgid "Don't Kill Anyone at the Depot"
-msgstr ""
-
-#: 7949764-0-61052
-msgctxt "7949764-0-61052"
-msgid "Kill Tracker"
-msgstr ""
-
-#: 7949764-0-61051
-msgctxt "7949764-0-61051"
-msgid "Find the Tablet Fragments"
-msgstr ""
-
-#: 7949764-0-61050
-msgctxt "7949764-0-61050"
-msgid "Find the Tablet Fragments"
-msgstr ""
-
-#: 7949764-0-61049
-msgctxt "7949764-0-61049"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-61048
-msgctxt "7949764-0-61048"
-msgid "Left Area"
-msgstr ""
-
-#: 7949764-0-61047
-msgctxt "7949764-0-61047"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-61046
-msgctxt "7949764-0-61046"
-msgid "Left Area"
-msgstr ""
-
-#: 7949764-0-61045
-msgctxt "7949764-0-61045"
-msgid "Logged Out"
-msgstr ""
-
-#: 7949764-0-61040
-msgctxt "7949764-0-61040"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-61039
-msgctxt "7949764-0-61039"
-msgid "Gather Any Other Clues"
-msgstr ""
-
-#: 7949764-0-61038
-msgctxt "7949764-0-61038"
-msgid "Get Newcomer Dossier"
-msgstr ""
-
-#: 7949764-0-61037
-msgctxt "7949764-0-61037"
-msgid "Get Zadaza Dossier"
-msgstr ""
-
-#: 7949764-0-61036
-msgctxt "7949764-0-61036"
-msgid "Get Varo Dossier"
-msgstr ""
-
-#: 7949764-0-61035
-msgctxt "7949764-0-61035"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-61034
-msgctxt "7949764-0-61034"
-msgid "Distract Lozwug"
-msgstr ""
-
-#: 7949764-0-61033
-msgctxt "7949764-0-61033"
-msgid "Distract Lozwug"
-msgstr ""
-
-#: 7949764-0-61032
-msgctxt "7949764-0-61032"
-msgid "Talk to Lozwug"
-msgstr ""
-
-#: 7949764-0-61030
-msgctxt "7949764-0-61030"
-msgid "Hang the Remnant Chime"
-msgstr ""
-
-#: 7949764-0-61029
-msgctxt "7949764-0-61029"
-msgid "Talk to Chime-Maker Shuvu"
-msgstr ""
-
-#: 7949764-0-61028
-msgctxt "7949764-0-61028"
-msgid "Take the Remnant Chime"
-msgstr ""
-
-#: 7949764-0-61027
-msgctxt "7949764-0-61027"
-msgid "Go to the Wither-Vault"
-msgstr ""
-
-#: 7949764-0-61026
-msgctxt "7949764-0-61026"
-msgid "Talk to Chime-Maker Shuvu"
-msgstr ""
-
-#: 7949764-0-61025
-msgctxt "7949764-0-61025"
-msgid "Go to the Glade of Chimes"
-msgstr ""
-
-#: 7949764-0-61024
-msgctxt "7949764-0-61024"
-msgid "Recover the Ritual Objects"
-msgstr ""
-
-#: 7949764-0-61023
-msgctxt "7949764-0-61023"
-msgid "Gather Treasure and Escape"
-msgstr ""
-
-#: 7949764-0-61015
-msgctxt "7949764-0-61015"
-msgid "Find the Haj Mota's Den"
-msgstr ""
-
-#: 7949764-0-61013
-msgctxt "7949764-0-61013"
-msgid "Get Beehuna's Dowry"
-msgstr ""
-
-#: 7949764-0-61012
-msgctxt "7949764-0-61012"
-msgid "Search for the Fourth Dowry Reminder"
-msgstr ""
-
-#: 7949764-0-61011
-msgctxt "7949764-0-61011"
-msgid "Search for the Third Dowry Reminder"
-msgstr ""
-
-#: 7949764-0-61010
-msgctxt "7949764-0-61010"
-msgid "Search for the Second Dowry Reminder"
-msgstr ""
-
-#: 7949764-0-61009
-msgctxt "7949764-0-61009"
-msgid "Talk to the Store-Keeper"
-msgstr ""
-
-#: 7949764-0-61005
-msgctxt "7949764-0-61005"
-msgid "Take the Leviathan Pizzle Sketch"
-msgstr ""
-
-#: 7949764-0-61004
-msgctxt "7949764-0-61004"
-msgid "Use the Leviathan Pizzle Sketch Quest Item"
-msgstr ""
-
-#: 7949764-0-61003
-msgctxt "7949764-0-61003"
-msgid "Examine the Leviathan Pizzle Sketch"
-msgstr ""
-
-#: 7949764-0-61002
-msgctxt "7949764-0-61002"
-msgid "Locate and Follow the Burrowing Haj Mota"
-msgstr ""
-
-#: 7949764-0-60999
-msgctxt "7949764-0-60999"
-msgid "Take the Seed-Doll"
-msgstr ""
-
-#: 7949764-0-60983
-msgctxt "7949764-0-60983"
-msgid "Observe the Bonding Ritual"
-msgstr ""
-
-#: 7949764-0-60982
-msgctxt "7949764-0-60982"
-msgid "Talk to Bond-Guru Topeth"
-msgstr ""
-
-#: 7949764-0-60981
-msgctxt "7949764-0-60981"
-msgid "Talk to Waku-Mat"
-msgstr ""
-
-#: 7949764-0-60980
-msgctxt "7949764-0-60980"
-msgid "Find a Leviathan Pizzle"
-msgstr ""
-
-#: 7949764-0-60979
-msgctxt "7949764-0-60979"
-msgid "Talk to the Black-Tongue Suitor"
-msgstr ""
-
-#: 7949764-0-60978
-msgctxt "7949764-0-60978"
-msgid "Talk to Beehuna"
-msgstr ""
-
-#: 7949764-0-60977
-msgctxt "7949764-0-60977"
-msgid "Talk to the Root-House Suitor"
-msgstr ""
-
-#: 7949764-0-60976
-msgctxt "7949764-0-60976"
-msgid "Talk to Deed-Tei"
-msgstr ""
-
-#: 7949764-0-60975
-msgctxt "7949764-0-60975"
-msgid "Talk to the Moss-Skin Suitor"
-msgstr ""
-
-#: 7949764-0-60972
-msgctxt "7949764-0-60972"
-msgid "Talk to Iskenaaz"
-msgstr ""
-
-#: 7949764-0-60964
-msgctxt "7949764-0-60964"
-msgid "Burn Corrupted Heart-Roots"
-msgstr ""
-
-#: 7949764-0-60963
-msgctxt "7949764-0-60963"
-msgid "Burn Corrupted Heart-Roots"
-msgstr ""
-
-#: 7949764-0-60962
-msgctxt "7949764-0-60962"
-msgid "Burn Corrupted Heart-Roots"
-msgstr ""
-
-#: 7949764-0-60961
-msgctxt "7949764-0-60961"
-msgid "Subzone Check"
-msgstr ""
-
-#: 7949764-0-60960
-msgctxt "7949764-0-60960"
-msgid "Burn Corrupted Heart-Roots"
-msgstr ""
-
-#: 7949764-0-60959
-msgctxt "7949764-0-60959"
-msgid "Listen to Kloxu"
-msgstr ""
-
-#: 7949764-0-60958
-msgctxt "7949764-0-60958"
-msgid "Breathe the Smoke"
-msgstr ""
-
-#: 7949764-0-60954
-msgctxt "7949764-0-60954"
-msgid "Explore the Swallowed Grove"
-msgstr ""
-
-#: 7949764-0-60950
-msgctxt "7949764-0-60950"
-msgid "Investigate the Skin Taker's Lair"
-msgstr ""
-
-#: 7949764-0-60949
-msgctxt "7949764-0-60949"
-msgid "Talk to Guhcin"
-msgstr ""
-
-#: 7949764-0-60948
-msgctxt "7949764-0-60948"
-msgid "Collect Cave Aloe"
-msgstr ""
-
-#: 7949764-0-60947
-msgctxt "7949764-0-60947"
-msgid "Collect Cave Aloe"
-msgstr ""
-
-#: 7949764-0-60946
-msgctxt "7949764-0-60946"
-msgid "Collect Cave Aloe"
-msgstr ""
-
-#: 7949764-0-60945
-msgctxt "7949764-0-60945"
-msgid "Collect Mushroms"
-msgstr ""
-
-#: 7949764-0-60944
-msgctxt "7949764-0-60944"
-msgid "Collect Mushroms"
-msgstr ""
-
-#: 7949764-0-60942
-msgctxt "7949764-0-60942"
-msgid "Talk to Hul-Wan"
-msgstr ""
-
-#: 7949764-0-60938
-msgctxt "7949764-0-60938"
-msgid "Collect Mushroms"
-msgstr ""
-
-#: 7949764-0-60937
-msgctxt "7949764-0-60937"
-msgid "Talk to Hul-Wan"
-msgstr ""
-
-#: 7949764-0-60936
-msgctxt "7949764-0-60936"
-msgid "Follow <<1>>"
-msgstr ""
-
-#: 7949764-0-60934
-msgctxt "7949764-0-60934"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60933
-msgctxt "7949764-0-60933"
-msgid "Collect Hackwing Hides"
-msgstr ""
-
-#: 7949764-0-60932
-msgctxt "7949764-0-60932"
-msgid "Retrieve the Missing Supplies"
-msgstr ""
-
-#: 7949764-0-60931
-msgctxt "7949764-0-60931"
-msgid "Retrieve the Missing Supplies"
-msgstr ""
-
-#: 7949764-0-60930
-msgctxt "7949764-0-60930"
-msgid "Retrieve the Missing Supplies"
-msgstr ""
-
-#: 7949764-0-60929
-msgctxt "7949764-0-60929"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60928
-msgctxt "7949764-0-60928"
-msgid "Retrieve the Missing Supplies"
-msgstr ""
-
-#: 7949764-0-60925
-msgctxt "7949764-0-60925"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60924
-msgctxt "7949764-0-60924"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60923
-msgctxt "7949764-0-60923"
-msgid "Find Missing Envoys"
-msgstr ""
-
-#: 7949764-0-60922
-msgctxt "7949764-0-60922"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60921
-msgctxt "7949764-0-60921"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60920
-msgctxt "7949764-0-60920"
-msgid "Attend the Renewal Ritual"
-msgstr ""
-
-#: 7949764-0-60919
-msgctxt "7949764-0-60919"
-msgid "Meet Stibbons by the Waterfall"
-msgstr ""
-
-#: 7949764-0-60918
-msgctxt "7949764-0-60918"
-msgid "Find a Snake Den"
-msgstr ""
-
-#: 7949764-0-60917
-msgctxt "7949764-0-60917"
-msgid "Signal Stibbons at the Snake Den"
-msgstr ""
-
-#: 7949764-0-60916
-msgctxt "7949764-0-60916"
-msgid "Enter the Deep Swamp"
-msgstr ""
-
-#: 7949764-0-60913
-msgctxt "7949764-0-60913"
-msgid "Find a Hummerwing Hive"
-msgstr ""
-
-#: 7949764-0-60912
-msgctxt "7949764-0-60912"
-msgid "Help Stibbons Align Mind"
-msgstr ""
-
-#: 7949764-0-60911
-msgctxt "7949764-0-60911"
-msgid "Help Stibbons Align Bile"
-msgstr ""
-
-#: 7949764-0-60910
-msgctxt "7949764-0-60910"
-msgid "Help Stibbons Align Blood"
-msgstr ""
-
-#: 7949764-0-60909
-msgctxt "7949764-0-60909"
-msgid "Go to the Renewal Lodge"
-msgstr ""
-
-#: 7949764-0-60908
-msgctxt "7949764-0-60908"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60907
-msgctxt "7949764-0-60907"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60906
-msgctxt "7949764-0-60906"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60905
-msgctxt "7949764-0-60905"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60904
-msgctxt "7949764-0-60904"
-msgid "Collect Mushrooms"
-msgstr ""
-
-#: 7949764-0-60903
-msgctxt "7949764-0-60903"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60901
-msgctxt "7949764-0-60901"
-msgid "Rescue Stibbons"
-msgstr ""
-
-#: 7949764-0-60900
-msgctxt "7949764-0-60900"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60898
-msgctxt "7949764-0-60898"
-msgid "Collect Vakka-Bok Aloe"
-msgstr ""
-
-#: 7949764-0-60892
-msgctxt "7949764-0-60892"
-msgid "Talk iskenaz"
-msgstr ""
-
-#: 7949764-0-60881
-msgctxt "7949764-0-60881"
-msgid "Molted Scales"
-msgstr ""
-
-#: 7949764-0-60880
-msgctxt "7949764-0-60880"
-msgid "Molted Scales"
-msgstr ""
-
-#: 7949764-0-60879
-msgctxt "7949764-0-60879"
-msgid "Orange Poison"
-msgstr ""
-
-#: 7949764-0-60878
-msgctxt "7949764-0-60878"
-msgid "Green Poison"
-msgstr ""
-
-#: 7949764-0-60877
-msgctxt "7949764-0-60877"
-msgid "Bad Egg"
-msgstr ""
-
-#: 7949764-0-60876
-msgctxt "7949764-0-60876"
-msgid "TEST STEP 3"
-msgstr ""
-
-#: 7949764-0-60875
-msgctxt "7949764-0-60875"
-msgid "TEST STEP 1"
-msgstr ""
-
-#: 7949764-0-60868
-msgctxt "7949764-0-60868"
-msgid "Check the Body"
-msgstr ""
-
-#: 7949764-0-60864
-msgctxt "7949764-0-60864"
-msgid "Leaf 1"
-msgstr ""
-
-#: 7949764-0-60844
-msgctxt "7949764-0-60844"
-msgid "Await Stibbons's Return"
-msgstr ""
-
-#: 7949764-0-60843
-msgctxt "7949764-0-60843"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60841
-msgctxt "7949764-0-60841"
-msgid "Find the Key"
-msgstr ""
-
-#: 7949764-0-60840
-msgctxt "7949764-0-60840"
-msgid "Talk to Lady Laurent"
-msgstr ""
-
-#: 7949764-0-60839
-msgctxt "7949764-0-60839"
-msgid "Help Stibbons"
-msgstr ""
-
-#: 7949764-0-60831
-msgctxt "7949764-0-60831"
-msgid "Sacrificial Altar"
-msgstr ""
-
-#: 7949764-0-60830
-msgctxt "7949764-0-60830"
-msgid "Sacrificial Altar"
-msgstr ""
-
-#: 7949764-0-60829
-msgctxt "7949764-0-60829"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60828
-msgctxt "7949764-0-60828"
-msgid "Use Swamp Jelly Net"
-msgstr ""
-
-#: 7949764-0-60827
-msgctxt "7949764-0-60827"
-msgid "Catch Melodic Violet Jelly"
-msgstr ""
-
-#: 7949764-0-60826
-msgctxt "7949764-0-60826"
-msgid "Catch Melodic Green Jelly"
-msgstr ""
-
-#: 7949764-0-60825
-msgctxt "7949764-0-60825"
-msgid "Catch Melodic Amber Jelly"
-msgstr ""
-
-#: 7949764-0-60824
-msgctxt "7949764-0-60824"
-msgid "Catch Melodic Blue Jelly"
-msgstr ""
-
-#: 7949764-0-60822
-msgctxt "7949764-0-60822"
-msgid "Plant the Grave-Stake"
-msgstr ""
-
-#: 7949764-0-60821
-msgctxt "7949764-0-60821"
-msgid "Talk to the Grave-Singer"
-msgstr ""
-
-#: 7949764-0-60820
-msgctxt "7949764-0-60820"
-msgid "Take the Grave-Stake"
-msgstr ""
-
-#: 7949764-0-60819
-msgctxt "7949764-0-60819"
-msgid "Collect Book of Riddles"
-msgstr ""
-
-#: 7949764-0-60817
-msgctxt "7949764-0-60817"
-msgid "Iskenaaz Opinion"
-msgstr ""
-
-#: 7949764-0-60816
-msgctxt "7949764-0-60816"
-msgid "Haxara Opinion"
-msgstr ""
-
-#: 7949764-0-60814
-msgctxt "7949764-0-60814"
-msgid "Reach Deepmire Cavern"
-msgstr ""
-
-#: 7949764-0-60812
-msgctxt "7949764-0-60812"
-msgid "Return to <<1>>"
-msgstr ""
-
-#: 7949764-0-60811
-msgctxt "7949764-0-60811"
-msgid "Find a Location to Speak to Kishi"
-msgstr ""
-
-#: 7949764-0-60810
-msgctxt "7949764-0-60810"
-msgid "Ignite the Next Signal Totems"
-msgstr ""
-
-#: 7949764-0-60809
-msgctxt "7949764-0-60809"
-msgid "Ignite the Next Signal Totems"
-msgstr ""
-
-#: 7949764-0-60808
-msgctxt "7949764-0-60808"
-msgid "Ignite the Next Signal Totems"
-msgstr ""
-
-#: 7949764-0-60807
-msgctxt "7949764-0-60807"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-60806
-msgctxt "7949764-0-60806"
-msgid "Ignite the First Signal Totem"
-msgstr ""
-
-#: 7949764-0-60803
-msgctxt "7949764-0-60803"
-msgid "Collect the Hammer"
-msgstr ""
-
-#: 7949764-0-60802
-msgctxt "7949764-0-60802"
-msgid "Destroy the Artwork"
-msgstr ""
-
-#: 7949764-0-60801
-msgctxt "7949764-0-60801"
-msgid "Retrieve Ruin Pieces"
-msgstr ""
-
-#: 7949764-0-60800
-msgctxt "7949764-0-60800"
-msgid "Collect Tomb of Many Spears Ruins"
-msgstr ""
-
-#: 7949764-0-60799
-msgctxt "7949764-0-60799"
-msgid "Collect Teeth of Sithis Ruins"
-msgstr ""
-
-#: 7949764-0-60798
-msgctxt "7949764-0-60798"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60797
-msgctxt "7949764-0-60797"
-msgid "Collect Tsofeer Cavern Ruins"
-msgstr ""
-
-#: 7949764-0-60796
-msgctxt "7949764-0-60796"
-msgid "Travel to Bright-Throat Village"
-msgstr ""
-
-#: 7949764-0-60795
-msgctxt "7949764-0-60795"
-msgid "Bury the Branch"
-msgstr ""
-
-#: 7949764-0-60794
-msgctxt "7949764-0-60794"
-msgid "Talk to Hands-That-Heal"
-msgstr ""
-
-#: 7949764-0-60793
-msgctxt "7949764-0-60793"
-msgid "Find the Root-House camp"
-msgstr ""
-
-#: 7949764-0-60792
-msgctxt "7949764-0-60792"
-msgid "Investigate the Hackwing Nest"
-msgstr ""
-
-#: 7949764-0-60791
-msgctxt "7949764-0-60791"
-msgid "Collect Pendant"
-msgstr ""
-
-#: 7949764-0-60790
-msgctxt "7949764-0-60790"
-msgid "Collect the Branch"
-msgstr ""
-
-#: 7949764-0-60789
-msgctxt "7949764-0-60789"
-msgid "Talk to Tem-Tei"
-msgstr ""
-
-#: 7949764-0-60788
-msgctxt "7949764-0-60788"
-msgid "Left the Ritual"
-msgstr ""
-
-#: 7949764-0-60787
-msgctxt "7949764-0-60787"
-msgid "Retrieve Hunting Bow"
-msgstr ""
-
-#: 7949764-0-60786
-msgctxt "7949764-0-60786"
-msgid "Talk to Tem-Tei"
-msgstr ""
-
-#: 7949764-0-60785
-msgctxt "7949764-0-60785"
-msgid "Ritual End Step"
-msgstr ""
-
-#: 7949764-0-60784
-msgctxt "7949764-0-60784"
-msgid "Talk to the Sap-Speaker"
-msgstr ""
-
-#: 7949764-0-60783
-msgctxt "7949764-0-60783"
-msgid "Talk to the Sap-Speaker"
-msgstr ""
-
-#: 7949764-0-60782
-msgctxt "7949764-0-60782"
-msgid "Talk to Dajaleen"
-msgstr ""
-
-#: 7949764-0-60781
-msgctxt "7949764-0-60781"
-msgid "Investigate the Skin Taker's Lair"
-msgstr ""
-
-#: 7949764-0-60780
-msgctxt "7949764-0-60780"
-msgid "Defeat Julitta Asellus"
-msgstr ""
-
-#: 7949764-0-60779
-msgctxt "7949764-0-60779"
-msgid "Defeat Hostia Asellus"
-msgstr ""
-
-#: 7949764-0-60778
-msgctxt "7949764-0-60778"
-msgid "Find the Skin Taker"
-msgstr ""
-
-#: 7949764-0-60777
-msgctxt "7949764-0-60777"
-msgid "Find the Skin Taker"
-msgstr ""
-
-#: 7949764-0-60776
-msgctxt "7949764-0-60776"
-msgid "Talk to Axdred"
-msgstr ""
-
-#: 7949764-0-60775
-msgctxt "7949764-0-60775"
-msgid "Investigate the Dead-Water Pools"
-msgstr ""
-
-#: 7949764-0-60774
-msgctxt "7949764-0-60774"
-msgid "Find the Source of the Cry"
-msgstr ""
-
-#: 7949764-0-60773
-msgctxt "7949764-0-60773"
-msgid "Examine the Muddy Tracks"
-msgstr ""
-
-#: 7949764-0-60772
-msgctxt "7949764-0-60772"
-msgid "Examine the Flensing Knife"
-msgstr ""
-
-#: 7949764-0-60771
-msgctxt "7949764-0-60771"
-msgid "Talk to Guhcin"
-msgstr ""
-
-#: 7949764-0-60770
-msgctxt "7949764-0-60770"
-msgid "Talk to Sulosya"
-msgstr ""
-
-#: 7949764-0-60768
-msgctxt "7949764-0-60768"
-msgid "Talk to Milzus"
-msgstr ""
-
-#: 7949764-0-60767
-msgctxt "7949764-0-60767"
-msgid "Stashed Bottles"
-msgstr ""
-
-#: 7949764-0-60765
-msgctxt "7949764-0-60765"
-msgid "Threatening Letter"
-msgstr ""
-
-#: 7949764-0-60763
-msgctxt "7949764-0-60763"
-msgid "Gather Vakka Stone"
-msgstr ""
-
-#: 7949764-0-60762
-msgctxt "7949764-0-60762"
-msgid "Investigate <<1>>'s Claim"
-msgstr ""
-
-#: 7949764-0-60760
-msgctxt "7949764-0-60760"
-msgid "Find <<1>>'s Grave-Stake"
-msgstr ""
-
-#: 7949764-0-60759
-msgctxt "7949764-0-60759"
-msgid "Search <<1>>'s Warehouse"
-msgstr ""
-
-#: 7949764-0-60757
-msgctxt "7949764-0-60757"
-msgid "Talk to Hands-That-Heal"
-msgstr ""
-
-#: 7949764-0-60756
-msgctxt "7949764-0-60756"
-msgid "Collect Arrow"
-msgstr ""
-
-#: 7949764-0-60755
-msgctxt "7949764-0-60755"
-msgid "Talk to Haxara"
-msgstr ""
-
-#: 7949764-0-60754
-msgctxt "7949764-0-60754"
-msgid "Theater Trigger"
-msgstr ""
-
-#: 7949764-0-60752
-msgctxt "7949764-0-60752"
-msgid "Investigate <<1>>'s Claim"
-msgstr ""
-
-#: 7949764-0-60750
-msgctxt "7949764-0-60750"
-msgid "Altar 2"
-msgstr ""
-
-#: 7949764-0-60749
-msgctxt "7949764-0-60749"
-msgid "Altar 1"
-msgstr ""
-
-#: 7949764-0-60748
-msgctxt "7949764-0-60748"
-msgid "Help Perform the Ritual"
-msgstr ""
-
-#: 7949764-0-60747
-msgctxt "7949764-0-60747"
-msgid "Return to Jekka-Wass Vozei"
-msgstr ""
-
-#: 7949764-0-60746
-msgctxt "7949764-0-60746"
-msgid "Gather Fire Stones"
-msgstr ""
-
-#: 7949764-0-60745
-msgctxt "7949764-0-60745"
-msgid "Attend the Negotiation"
-msgstr ""
-
-#: 7949764-0-60744
-msgctxt "7949764-0-60744"
-msgid "Give the <<1>> to <<2>>"
-msgstr ""
-
-#: 7949764-0-60743
-msgctxt "7949764-0-60743"
-msgid "Give the <<1>> to <<2>>"
-msgstr ""
-
-#: 7949764-0-60742
-msgctxt "7949764-0-60742"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60741
-msgctxt "7949764-0-60741"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60740
-msgctxt "7949764-0-60740"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60739
-msgctxt "7949764-0-60739"
-msgid "Investigate the Saltrice Farm"
-msgstr ""
-
-#: 7949764-0-60737
-msgctxt "7949764-0-60737"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60736
-msgctxt "7949764-0-60736"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60735
-msgctxt "7949764-0-60735"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60732
-msgctxt "7949764-0-60732"
-msgid "Gather Wood Which Crumbles Stone"
-msgstr ""
-
-#: 7949764-0-60731
-msgctxt "7949764-0-60731"
-msgid "Gather Deathly Bloom"
-msgstr ""
-
-#: 7949764-0-60730
-msgctxt "7949764-0-60730"
-msgid "Gather Brackish Mud"
-msgstr ""
-
-#: 7949764-0-60723
-msgctxt "7949764-0-60723"
-msgid "Lead Famia"
-msgstr ""
-
-#: 7949764-0-60722
-msgctxt "7949764-0-60722"
-msgid "Lead Famia"
-msgstr ""
-
-#: 7949764-0-60721
-msgctxt "7949764-0-60721"
-msgid "Lead Famia"
-msgstr ""
-
-#: 7949764-0-60720
-msgctxt "7949764-0-60720"
-msgid "Find the Storehouse Key"
-msgstr ""
-
-#: 7949764-0-60719
-msgctxt "7949764-0-60719"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60716
-msgctxt "7949764-0-60716"
-msgid "Molted Scales"
-msgstr ""
-
-#: 7949764-0-60714
-msgctxt "7949764-0-60714"
-msgid "Lead Jaxsik and Xukas"
-msgstr ""
-
-#: 7949764-0-60713
-msgctxt "7949764-0-60713"
-msgid "Examine the Dead Aberration"
-msgstr ""
-
-#: 7949764-0-60710
-msgctxt "7949764-0-60710"
-msgid "Molted Scales"
-msgstr ""
-
-#: 7949764-0-60709
-msgctxt "7949764-0-60709"
-msgid "Molted Scales"
-msgstr ""
-
-#: 7949764-0-60708
-msgctxt "7949764-0-60708"
-msgid "Talk to Iskenaaz"
-msgstr ""
-
-#: 7949764-0-60700
-msgctxt "7949764-0-60700"
-msgid "Bandage <<1>>"
-msgstr ""
-
-#: 7949764-0-60697
-msgctxt "7949764-0-60697"
-msgid "Lead Jaxsik and Xukas"
-msgstr ""
-
-#: 7949764-0-60696
-msgctxt "7949764-0-60696"
-msgid "Lead Jaxsik and Xukas"
-msgstr ""
-
-#: 7949764-0-60695
-msgctxt "7949764-0-60695"
-msgid "Lead Jaxsik and Xukas"
-msgstr ""
-
-#: 7949764-0-60694
-msgctxt "7949764-0-60694"
-msgid "Eavesdrop on Whiptail"
-msgstr ""
-
-#: 7949764-0-60692
-msgctxt "7949764-0-60692"
-msgid "Mim"
-msgstr ""
-
-#: 7949764-0-60691
-msgctxt "7949764-0-60691"
-msgid "Find Letter"
-msgstr ""
-
-#: 7949764-0-60690
-msgctxt "7949764-0-60690"
-msgid "Talk to Keenem"
-msgstr ""
-
-#: 7949764-0-60689
-msgctxt "7949764-0-60689"
-msgid "Investigate the Egg-Tenders' Quarters"
-msgstr ""
-
-#: 7949764-0-60687
-msgctxt "7949764-0-60687"
-msgid "Find Argonian Stonework"
-msgstr ""
-
-#: 7949764-0-60686
-msgctxt "7949764-0-60686"
-msgid "Follow <<1>>"
-msgstr ""
-
-#: 7949764-0-60685
-msgctxt "7949764-0-60685"
-msgid "Pet <<1>>"
-msgstr ""
-
-#: 7949764-0-60684
-msgctxt "7949764-0-60684"
-msgid "Follow <<1>>"
-msgstr ""
-
-#: 7949764-0-60683
-msgctxt "7949764-0-60683"
-msgid "Pet <<1>>"
-msgstr ""
-
-#: 7949764-0-60682
-msgctxt "7949764-0-60682"
-msgid "Pet <<1>>"
-msgstr ""
-
-#: 7949764-0-60680
-msgctxt "7949764-0-60680"
-msgid "Use <<1>>"
-msgstr ""
-
-#: 7949764-0-60677
-msgctxt "7949764-0-60677"
-msgid "Collect Romantic Note"
-msgstr ""
-
-#: 7949764-0-60676
-msgctxt "7949764-0-60676"
-msgid "Find <<1>>"
-msgstr ""
-
-#: 7949764-0-60675
-msgctxt "7949764-0-60675"
-msgid "Talk to <<1>>"
-msgstr ""
-
-#: 7949764-0-60674
-msgctxt "7949764-0-60674"
-msgid "Search Pack"
-msgstr ""
-
-#: 7949764-0-60670
-msgctxt "7949764-0-60670"
-msgid "Talk to Dradeiva"
-msgstr ""
-
-#: 7949764-0-60667
-msgctxt "7949764-0-60667"
-msgid "Search Xul-Thuxis Temple for Kassandra"
-msgstr ""
-
-#: 7949764-0-60663
-msgctxt "7949764-0-60663"
-msgid "Talk to Nisswo Paraxeeh"
-msgstr ""
-
-#: 7949764-0-60661
-msgctxt "7949764-0-60661"
-msgid "Talk to Haxara"
-msgstr ""
-
-#: 7949764-0-60660
-msgctxt "7949764-0-60660"
-msgid "Talk to Meena"
-msgstr ""
-
-#: 7949764-0-60659
-msgctxt "7949764-0-60659"
-msgid "Enter Nesh-Deeka's Shop"
-msgstr ""
-
-#: 7949764-0-60658
-msgctxt "7949764-0-60658"
-msgid "Talk to Nesh-Deeka"
-msgstr ""
-
-#: 7949764-0-60657
-msgctxt "7949764-0-60657"
-msgid "Take Vossa-Satl"
-msgstr ""
-
-#: 7949764-0-60656
-msgctxt "7949764-0-60656"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60655
-msgctxt "7949764-0-60655"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60654
-msgctxt "7949764-0-60654"
-msgid "Kill Whiptail"
-msgstr ""
-
-#: 7949764-0-60651
-msgctxt "7949764-0-60651"
-msgid "Burn Supply Caches"
-msgstr ""
-
-#: 7949764-0-60650
-msgctxt "7949764-0-60650"
-msgid "Talk to Captain Jimila"
-msgstr ""
-
-#: 7949764-0-60645
-msgctxt "7949764-0-60645"
-msgid "Find Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60644
-msgctxt "7949764-0-60644"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60641
-msgctxt "7949764-0-60641"
-msgid "Catch a Ruby Hopper"
-msgstr ""
-
-#: 7949764-0-60640
-msgctxt "7949764-0-60640"
-msgid "Catch a Ruby Hopper"
-msgstr ""
-
-#: 7949764-0-60639
-msgctxt "7949764-0-60639"
-msgid "Return Tablet to Calendar"
-msgstr ""
-
-#: 7949764-0-60637
-msgctxt "7949764-0-60637"
-msgid "Collect the Calendar Tablet"
-msgstr ""
-
-#: 7949764-0-60628
-msgctxt "7949764-0-60628"
-msgid "Survive Drakeeh's Cage"
-msgstr ""
-
-#: 7949764-0-60627
-msgctxt "7949764-0-60627"
-msgid "Enter Drakeeh's Cage"
-msgstr ""
-
-#: 7949764-0-60626
-msgctxt "7949764-0-60626"
-msgid "Survive the Hall of Beasts"
-msgstr ""
-
-#: 7949764-0-60625
-msgctxt "7949764-0-60625"
-msgid "Enter the Hall of Beasts"
-msgstr ""
-
-#: 7949764-0-60624
-msgctxt "7949764-0-60624"
-msgid "Survive the Derelict Prison Yard"
-msgstr ""
-
-#: 7949764-0-60623
-msgctxt "7949764-0-60623"
-msgid "Enter the Derelict Prison Yard"
-msgstr ""
-
-#: 7949764-0-60622
-msgctxt "7949764-0-60622"
-msgid "Survive the Vampire's Pen"
-msgstr ""
-
-#: 7949764-0-60621
-msgctxt "7949764-0-60621"
-msgid "Enter the Vampire's Pen"
-msgstr ""
-
-#: 7949764-0-60620
-msgctxt "7949764-0-60620"
-msgid "Survive the Mess Hall of Misery"
-msgstr ""
-
-#: 7949764-0-60619
-msgctxt "7949764-0-60619"
-msgid "Enter the Mess Hall of Misery"
-msgstr ""
-
-#: 7949764-0-60618
-msgctxt "7949764-0-60618"
-msgid "Gather Argonian Antiquities"
-msgstr ""
-
-#: 7949764-0-60616
-msgctxt "7949764-0-60616"
-msgid "Enter the Dreaming Nest"
-msgstr ""
-
-#: 7949764-0-60612
-msgctxt "7949764-0-60612"
-msgid "Kill the Ayleid Lich"
-msgstr ""
-
-#: 7949764-0-60611
-msgctxt "7949764-0-60611"
-msgid "Go to Cyrodilic Collections Headquarters"
-msgstr ""
-
-#: 7949764-0-60607
-msgctxt "7949764-0-60607"
-msgid "Search for Clues"
-msgstr ""
-
-#: 7949764-0-60604
-msgctxt "7949764-0-60604"
-msgid "Talk to Haxara"
-msgstr ""
-
-#: 7949764-0-60601
-msgctxt "7949764-0-60601"
-msgid "Search the Blight Bog Sump"
-msgstr ""
-
-#: 7949764-0-60600
-msgctxt "7949764-0-60600"
-msgid "Enter Caverns"
-msgstr ""
-
-#: 7949764-0-60593
-msgctxt "7949764-0-60593"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-60592
-msgctxt "7949764-0-60592"
-msgid "Talk to Raj-Kaal Seelan"
-msgstr ""
-
-#: 7949764-0-60591
-msgctxt "7949764-0-60591"
-msgid "Take the Sacred Lily"
-msgstr ""
-
-#: 7949764-0-60589
-msgctxt "7949764-0-60589"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-60586
-msgctxt "7949764-0-60586"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60585
-msgctxt "7949764-0-60585"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60584
-msgctxt "7949764-0-60584"
-msgid "Leave the Remnant"
-msgstr ""
-
-#: 7949764-0-60583
-msgctxt "7949764-0-60583"
-msgid "Leave the Remnant"
-msgstr ""
-
-#: 7949764-0-60582
-msgctxt "7949764-0-60582"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60581
-msgctxt "7949764-0-60581"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60580
-msgctxt "7949764-0-60580"
-msgid "Talk to the Sap-Speaker"
-msgstr ""
-
-#: 7949764-0-60579
-msgctxt "7949764-0-60579"
-msgid "Explore the Remnant"
-msgstr ""
-
-#: 7949764-0-60578
-msgctxt "7949764-0-60578"
-msgid "Touch the Remnant of Argon"
-msgstr ""
-
-#: 7949764-0-60577
-msgctxt "7949764-0-60577"
-msgid "Return to Famia at the Hist Tree"
-msgstr ""
-
-#: 7949764-0-60576
-msgctxt "7949764-0-60576"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60575
-msgctxt "7949764-0-60575"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60574
-msgctxt "7949764-0-60574"
-msgid "Find the Tablet Fragments"
-msgstr ""
-
-#: 7949764-0-60555
-msgctxt "7949764-0-60555"
-msgid "Talk to Solni"
-msgstr ""
-
-#: 7949764-0-60545
-msgctxt "7949764-0-60545"
-msgid "Recover the Chalice of Unquenchable Thirst"
-msgstr ""
-
-#: 7949764-0-60544
-msgctxt "7949764-0-60544"
-msgid "Recover the Staff of Shuxaltsei"
-msgstr ""
-
-#: 7949764-0-60543
-msgctxt "7949764-0-60543"
-msgid "Recover the Fang of the Great Serpent"
-msgstr ""
-
-#: 7949764-0-60542
-msgctxt "7949764-0-60542"
-msgid "Gather Sealed Imperial Scrolls"
-msgstr ""
-
-#: 7949764-0-60541
-msgctxt "7949764-0-60541"
-msgid "Gather Sealed Imperial Scrolls"
-msgstr ""
-
-#: 7949764-0-60540
-msgctxt "7949764-0-60540"
-msgid "Gather Sealed Imperial Scrolls"
-msgstr ""
-
-#: 7949764-0-60531
-msgctxt "7949764-0-60531"
-msgid "Place Sacred Candle"
-msgstr ""
-
-#: 7949764-0-60530
-msgctxt "7949764-0-60530"
-msgid "Place Sacred Candle"
-msgstr ""
-
-#: 7949764-0-60529
-msgctxt "7949764-0-60529"
-msgid "Place Sacred Candle"
-msgstr ""
-
-#: 7949764-0-60528
-msgctxt "7949764-0-60528"
-msgid "Place Sacred Candles"
-msgstr ""
-
-#: 7949764-0-60527
-msgctxt "7949764-0-60527"
-msgid "Enter the Swallowed Grove"
-msgstr ""
-
-#: 7949764-0-60524
-msgctxt "7949764-0-60524"
-msgid "Examine Empty Egg Nest"
-msgstr ""
-
-#: 7949764-0-60522
-msgctxt "7949764-0-60522"
-msgid "Talk to Solni"
-msgstr ""
-
-#: 7949764-0-60509
-msgctxt "7949764-0-60509"
-msgid "Go to the Raj-Kaal's Pavilion"
-msgstr ""
-
-#: 7949764-0-60508
-msgctxt "7949764-0-60508"
-msgid "Talk to Raj-Kaal Seelan"
-msgstr ""
-
-#: 7949764-0-60507
-msgctxt "7949764-0-60507"
-msgid "Go to the Hunting Grounds"
-msgstr ""
-
-#: 7949764-0-60506
-msgctxt "7949764-0-60506"
-msgid "Perform the Rite of Binding"
-msgstr ""
-
-#: 7949764-0-60501
-msgctxt "7949764-0-60501"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-60499
-msgctxt "7949764-0-60499"
-msgid "Go to the Path's Entrance"
-msgstr ""
-
-#: 7949764-0-60495
-msgctxt "7949764-0-60495"
-msgid "Leave the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60494
-msgctxt "7949764-0-60494"
-msgid "Kill Kassandra"
-msgstr ""
-
-#: 7949764-0-60493
-msgctxt "7949764-0-60493"
-msgid "Reach the Remnant of Argon"
-msgstr ""
-
-#: 7949764-0-60492
-msgctxt "7949764-0-60492"
-msgid "Pursue Kassandra"
-msgstr ""
-
-#: 7949764-0-60491
-msgctxt "7949764-0-60491"
-msgid "Enter the Gateway"
-msgstr ""
-
-#: 7949764-0-60489
-msgctxt "7949764-0-60489"
-msgid "Return to Famia"
-msgstr ""
-
-#: 7949764-0-60488
-msgctxt "7949764-0-60488"
-msgid "Acquire a Vakka Stone"
-msgstr ""
-
-#: 7949764-0-60487
-msgctxt "7949764-0-60487"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60486
-msgctxt "7949764-0-60486"
-msgid "Search for Signs of Kassandra"
-msgstr ""
-
-#: 7949764-0-60485
-msgctxt "7949764-0-60485"
-msgid "Activate the Ayleid Gate"
-msgstr ""
-
-#: 7949764-0-60484
-msgctxt "7949764-0-60484"
-msgid "Acquire a Welkynd Stone"
-msgstr ""
-
-#: 7949764-0-60483
-msgctxt "7949764-0-60483"
-msgid "Search the Xanmeer for Kassandra"
-msgstr ""
-
-#: 7949764-0-60482
-msgctxt "7949764-0-60482"
-msgid "Find Kishi"
-msgstr ""
-
-#: 7949764-0-60481
-msgctxt "7949764-0-60481"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-60479
-msgctxt "7949764-0-60479"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60478
-msgctxt "7949764-0-60478"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60477
-msgctxt "7949764-0-60477"
-msgid "Exterior Blighted Bog Cavern"
-msgstr ""
-
-#: 7949764-0-60467
-msgctxt "7949764-0-60467"
-msgid "Explore Tsofeer Cavern"
-msgstr ""
-
-#: 7949764-0-60466
-msgctxt "7949764-0-60466"
-msgid "Continue Tracking Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60465
-msgctxt "7949764-0-60465"
-msgid "Track Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60464
-msgctxt "7949764-0-60464"
-msgid "Track Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60463
-msgctxt "7949764-0-60463"
-msgid "Talk to Kassandra"
-msgstr ""
-
-#: 7949764-0-60461
-msgctxt "7949764-0-60461"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60460
-msgctxt "7949764-0-60460"
-msgid "Let Xukas Free Hostia"
-msgstr ""
-
-#: 7949764-0-60459
-msgctxt "7949764-0-60459"
-msgid "Let Jaxsik-Orrn Execute Hostia"
-msgstr ""
-
-#: 7949764-0-60458
-msgctxt "7949764-0-60458"
-msgid "Talk to Hostia"
-msgstr ""
-
-#: 7949764-0-60457
-msgctxt "7949764-0-60457"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60456
-msgctxt "7949764-0-60456"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60455
-msgctxt "7949764-0-60455"
-msgid "Find Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60448
-msgctxt "7949764-0-60448"
-msgid "Smash Crate"
-msgstr ""
-
-#: 7949764-0-60447
-msgctxt "7949764-0-60447"
-msgid "Smash Crate"
-msgstr ""
-
-#: 7949764-0-60446
-msgctxt "7949764-0-60446"
-msgid "Smash Crate"
-msgstr ""
-
-#: 7949764-0-60445
-msgctxt "7949764-0-60445"
-msgid "Smash Crate"
-msgstr ""
-
-#: 7949764-0-60444
-msgctxt "7949764-0-60444"
-msgid "Smash Crate"
-msgstr ""
-
-#: 7949764-0-60443
-msgctxt "7949764-0-60443"
-msgid "Smash Crate"
-msgstr ""
-
-#: 7949764-0-60442
-msgctxt "7949764-0-60442"
-msgid "Burn Wagon"
-msgstr ""
-
-#: 7949764-0-60441
-msgctxt "7949764-0-60441"
-msgid "Burn Wagon"
-msgstr ""
-
-#: 7949764-0-60440
-msgctxt "7949764-0-60440"
-msgid "Burn Wagon"
-msgstr ""
-
-#: 7949764-0-60439
-msgctxt "7949764-0-60439"
-msgid "Burn Wagon"
-msgstr ""
-
-#: 7949764-0-60438
-msgctxt "7949764-0-60438"
-msgid "Free the Prisoners"
-msgstr ""
-
-#: 7949764-0-60437
-msgctxt "7949764-0-60437"
-msgid "Burn Wagons"
-msgstr ""
-
-#: 7949764-0-60436
-msgctxt "7949764-0-60436"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60435
-msgctxt "7949764-0-60435"
-msgid "Continue Tracking Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60434
-msgctxt "7949764-0-60434"
-msgid "Continue Tracking Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60433
-msgctxt "7949764-0-60433"
-msgid "Track Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60432
-msgctxt "7949764-0-60432"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60431
-msgctxt "7949764-0-60431"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60430
-msgctxt "7949764-0-60430"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60429
-msgctxt "7949764-0-60429"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60428
-msgctxt "7949764-0-60428"
-msgid "Go to the Meeting Spot"
-msgstr ""
-
-#: 7949764-0-60427
-msgctxt "7949764-0-60427"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60426
-msgctxt "7949764-0-60426"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60425
-msgctxt "7949764-0-60425"
-msgid "Kill Shuxaltsei"
-msgstr ""
-
-#: 7949764-0-60417
-msgctxt "7949764-0-60417"
-msgid "Rescue Famia"
-msgstr ""
-
-#: 7949764-0-60413
-msgctxt "7949764-0-60413"
-msgid "Talk to Nesh-Deeka"
-msgstr ""
-
-#: 7949764-0-60412
-msgctxt "7949764-0-60412"
-msgid "Find a Stone Near Water in Lilmoth"
-msgstr ""
-
-#: 7949764-0-60411
-msgctxt "7949764-0-60411"
-msgid "Read Nesh-Deeka's Notes"
-msgstr ""
-
-#: 7949764-0-60410
-msgctxt "7949764-0-60410"
-msgid "Destroy the Bog-Blight Fumers"
-msgstr ""
-
-#: 7949764-0-60409
-msgctxt "7949764-0-60409"
-msgid "Destroy the Fumers"
-msgstr ""
-
-#: 7949764-0-60408
-msgctxt "7949764-0-60408"
-msgid "Destroy the Fumers"
-msgstr ""
-
-#: 7949764-0-60401
-msgctxt "7949764-0-60401"
-msgid "Create Toad Musk"
-msgstr ""
-
-#: 7949764-0-60399
-msgctxt "7949764-0-60399"
-msgid "Talk to Kassandra"
-msgstr ""
-
-#: 7949764-0-60397
-msgctxt "7949764-0-60397"
-msgid "Spawn Dying Aberration (thtr PH)"
-msgstr ""
-
-#: 7949764-0-60395
-msgctxt "7949764-0-60395"
-msgid "Journal"
-msgstr ""
-
-#: 7949764-0-60392
-msgctxt "7949764-0-60392"
-msgid "Talk to Sap-Speaker Kuzei"
-msgstr ""
-
-#: 7949764-0-60391
-msgctxt "7949764-0-60391"
-msgid "Gather Indigo Tree Frogs"
-msgstr ""
-
-#: 7949764-0-60390
-msgctxt "7949764-0-60390"
-msgid "Catch an Indigo Tree Frog"
-msgstr ""
-
-#: 7949764-0-60389
-msgctxt "7949764-0-60389"
-msgid "Gather Moss-Foot Croakers"
-msgstr ""
-
-#: 7949764-0-60388
-msgctxt "7949764-0-60388"
-msgid "Catch Moss-Foot Croaker"
-msgstr ""
-
-#: 7949764-0-60387
-msgctxt "7949764-0-60387"
-msgid "Catch Moss-Foot Croaker"
-msgstr ""
-
-#: 7949764-0-60366
-msgctxt "7949764-0-60366"
-msgid "Watch Nesh-Deeka"
-msgstr ""
-
-#: 7949764-0-60365
-msgctxt "7949764-0-60365"
-msgid "Watch Nesh-Deeka"
-msgstr ""
-
-#: 7949764-0-60361
-msgctxt "7949764-0-60361"
-msgid "Catch a Sun-Blessed Toad"
-msgstr ""
-
-#: 7949764-0-60360
-msgctxt "7949764-0-60360"
-msgid "Use the Croak-Wheel"
-msgstr ""
-
-#: 7949764-0-60358
-msgctxt "7949764-0-60358"
-msgid "Use Toad Musk"
-msgstr ""
-
-#: 7949764-0-60356
-msgctxt "7949764-0-60356"
-msgid "Gather Joymallow"
-msgstr ""
-
-#: 7949764-0-60355
-msgctxt "7949764-0-60355"
-msgid "Gather Salt Rush"
-msgstr ""
-
-#: 7949764-0-60354
-msgctxt "7949764-0-60354"
-msgid "Gather Stench Sedge"
-msgstr ""
-
-#: 7949764-0-60353
-msgctxt "7949764-0-60353"
-msgid "Find Toad Mud Pit"
-msgstr ""
-
-#: 7949764-0-60352
-msgctxt "7949764-0-60352"
-msgid "Catch an Indigo Tree Frog"
-msgstr ""
-
-#: 7949764-0-60351
-msgctxt "7949764-0-60351"
-msgid "Release Fleshflies"
-msgstr ""
-
-#: 7949764-0-60350
-msgctxt "7949764-0-60350"
-msgid "Gather Fleshflies"
-msgstr ""
-
-#: 7949764-0-60349
-msgctxt "7949764-0-60349"
-msgid "Find the Indigo Tree Frog Grove"
-msgstr ""
-
-#: 7949764-0-60348
-msgctxt "7949764-0-60348"
-msgid "Catch a Ruby Hopper"
-msgstr ""
-
-#: 7949764-0-60347
-msgctxt "7949764-0-60347"
-msgid "Catch Moss-Foot Croaker"
-msgstr ""
-
-#: 7949764-0-60346
-msgctxt "7949764-0-60346"
-msgid "Talk to Nesh-Deeka"
-msgstr ""
-
-#: 7949764-0-60344
-msgctxt "7949764-0-60344"
-msgid "Talk to Ruja-Wan"
-msgstr ""
-
-#: 7949764-0-60343
-msgctxt "7949764-0-60343"
-msgid "Talk to Claws-the-Ghosts"
-msgstr ""
-
-#: 7949764-0-60342
-msgctxt "7949764-0-60342"
-msgid "Talk to Tolwin Bordier"
-msgstr ""
-
-#: 7949764-0-60335
-msgctxt "7949764-0-60335"
-msgid "Rally the Survivors"
-msgstr ""
-
-#: 7949764-0-60333
-msgctxt "7949764-0-60333"
-msgid "Talk to Tia Doran"
-msgstr ""
-
-#: 7949764-0-60316
-msgctxt "7949764-0-60316"
-msgid "Kill the Wuju-Ka Guardian"
-msgstr ""
-
-#: 7949764-0-60297
-msgctxt "7949764-0-60297"
-msgid "Find the Hunting Party"
-msgstr ""
-
-#: 7949764-0-60290
-msgctxt "7949764-0-60290"
-msgid "Take the Sap-Speaker's Staff"
-msgstr ""
-
-#: 7949764-0-60289
-msgctxt "7949764-0-60289"
-msgid "Defeat the Ayleid Forces"
-msgstr ""
-
-#: 7949764-0-60288
-msgctxt "7949764-0-60288"
-msgid "Listen to Sap-Speaker Kuzei"
-msgstr ""
-
-#: 7949764-0-60287
-msgctxt "7949764-0-60287"
-msgid "Explore the Cavern"
-msgstr ""
-
-#: 7949764-0-60286
-msgctxt "7949764-0-60286"
-msgid "Examine the Hist Tree Mural"
-msgstr ""
-
-#: 7949764-0-60284
-msgctxt "7949764-0-60284"
-msgid "Find Raj-Kaal Druxith"
-msgstr ""
-
-#: 7949764-0-60282
-msgctxt "7949764-0-60282"
-msgid "Listen to Raj-Kaal Druxith"
-msgstr ""
-
-#: 7949764-0-60281
-msgctxt "7949764-0-60281"
-msgid "Examine the Village Mural"
-msgstr ""
-
-#: 7949764-0-60280
-msgctxt "7949764-0-60280"
-msgid "Find Uraz"
-msgstr ""
-
-#: 7949764-0-60279
-msgctxt "7949764-0-60279"
-msgid "Kill Fat Gixthi"
-msgstr ""
-
-#: 7949764-0-60278
-msgctxt "7949764-0-60278"
-msgid "Explore the Marsh"
-msgstr ""
-
-#: 7949764-0-60277
-msgctxt "7949764-0-60277"
-msgid "Examine the Hunting Party Mural"
-msgstr ""
-
-#: 7949764-0-60276
-msgctxt "7949764-0-60276"
-msgid "Observe the Ritual"
-msgstr ""
-
-#: 7949764-0-60274
-msgctxt "7949764-0-60274"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-60273
-msgctxt "7949764-0-60273"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60272
-msgctxt "7949764-0-60272"
-msgid "Use Kassandra's Boat"
-msgstr ""
-
-#: 7949764-0-60271
-msgctxt "7949764-0-60271"
-msgid "Explore the Swallowed Grove"
-msgstr ""
-
-#: 7949764-0-60268
-msgctxt "7949764-0-60268"
-msgid "Talk to Tree-Minder Pavu"
-msgstr ""
-
-#: 7949764-0-60267
-msgctxt "7949764-0-60267"
-msgid "Return to Bright-Throat Village"
-msgstr ""
-
-#: 7949764-0-60266
-msgctxt "7949764-0-60266"
-msgid "Talk to Haxara"
-msgstr ""
-
-#: 7949764-0-60260
-msgctxt "7949764-0-60260"
-msgid "Follow the Orange Fumes to their Origin"
-msgstr ""
-
-#: 7949764-0-60259
-msgctxt "7949764-0-60259"
-msgid "Follow the Green Fumes to their Origin"
-msgstr ""
-
-#: 7949764-0-60253
-msgctxt "7949764-0-60253"
-msgid "Talk to Iskenaaz"
-msgstr ""
-
-#: 7949764-0-60251
-msgctxt "7949764-0-60251"
-msgid "Investigate the Veeskhleel Laboratory"
-msgstr ""
-
-#: 7949764-0-60249
-msgctxt "7949764-0-60249"
-msgid "Follow the Scales to the Aberration's Origin"
-msgstr ""
-
-#: 7949764-0-60247
-msgctxt "7949764-0-60247"
-msgid "Talk to Iskenaaz"
-msgstr ""
-
-#: 7949764-0-60246
-msgctxt "7949764-0-60246"
-msgid "Search the Herb Glade"
-msgstr ""
-
-#: 7949764-0-60243
-msgctxt "7949764-0-60243"
-msgid "Head to Bright-Throat Village"
-msgstr ""
-
-#: 7949764-0-60241
-msgctxt "7949764-0-60241"
-msgid "Investigate the Uxith"
-msgstr ""
-
-#: 7949764-0-60240
-msgctxt "7949764-0-60240"
-msgid "Talk to Tree-Minder Pavu"
-msgstr ""
-
-#: 7949764-0-60211
-msgctxt "7949764-0-60211"
-msgid "Gather Flint Vine"
-msgstr ""
-
-#: 7949764-0-60210
-msgctxt "7949764-0-60210"
-msgid "Gather Flint Vine"
-msgstr ""
-
-#: 7949764-0-60209
-msgctxt "7949764-0-60209"
-msgid "Gather Flint Vine"
-msgstr ""
-
-#: 7949764-0-60208
-msgctxt "7949764-0-60208"
-msgid "Gather Flint Vine"
-msgstr ""
-
-#: 7949764-0-60196
-msgctxt "7949764-0-60196"
-msgid "Talk to Bhoki"
-msgstr ""
-
-#: 7949764-0-60179
-msgctxt "7949764-0-60179"
-msgid "Talk to Kishi"
-msgstr ""
-
-#: 7949764-0-60175
-msgctxt "7949764-0-60175"
-msgid "Left Famia"
-msgstr ""
-
-#: 7949764-0-60174
-msgctxt "7949764-0-60174"
-msgid "Listen to Famia"
-msgstr ""
-
-#: 7949764-0-60173
-msgctxt "7949764-0-60173"
-msgid "Rescue Kishi"
-msgstr ""
-
-#: 7949764-0-60171
-msgctxt "7949764-0-60171"
-msgid "Talk to Nisswo Xode on Top of the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60170
-msgctxt "7949764-0-60170"
-msgid "Talk to Bhoki"
-msgstr ""
-
-#: 7949764-0-60168
-msgctxt "7949764-0-60168"
-msgid "Use the Verse to Find Bhoki"
-msgstr ""
-
-#: 7949764-0-60166
-msgctxt "7949764-0-60166"
-msgid "Search Bhoki's House"
-msgstr ""
-
-#: 7949764-0-60165
-msgctxt "7949764-0-60165"
-msgid "Find Bhoki"
-msgstr ""
-
-#: 7949764-0-60163
-msgctxt "7949764-0-60163"
-msgid "Talk to Tia Doran"
-msgstr ""
-
-#: 7949764-0-60162
-msgctxt "7949764-0-60162"
-msgid "Gather Pieces of Imperial Armor"
-msgstr ""
-
-#: 7949764-0-60124
-msgctxt "7949764-0-60124"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60113
-msgctxt "7949764-0-60113"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60108
-msgctxt "7949764-0-60108"
-msgid "Talk to Tia Doran"
-msgstr ""
-
-#: 7949764-0-60107
-msgctxt "7949764-0-60107"
-msgid "Gather an Imperial Cypher Ring"
-msgstr ""
-
-#: 7949764-0-60106
-msgctxt "7949764-0-60106"
-msgid "Gather Sealed Imperial Scrolls"
-msgstr ""
-
-#: 7949764-0-60102
-msgctxt "7949764-0-60102"
-msgid "Talk to Solni"
-msgstr ""
-
-#: 7949764-0-60101
-msgctxt "7949764-0-60101"
-msgid "Find the Tablet of the Void Fragments"
-msgstr ""
-
-#: 7949764-0-60100
-msgctxt "7949764-0-60100"
-msgid "Find the Tablet of the Destroyer"
-msgstr ""
-
-#: 7949764-0-60089
-msgctxt "7949764-0-60089"
-msgid "Go to the Gathering Hut"
-msgstr ""
-
-#: 7949764-0-60087
-msgctxt "7949764-0-60087"
-msgid "Meet Famia in Her Office"
-msgstr ""
-
-#: 7949764-0-60086
-msgctxt "7949764-0-60086"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60085
-msgctxt "7949764-0-60085"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60084
-msgctxt "7949764-0-60084"
-msgid "Return to the Surface"
-msgstr ""
-
-#: 7949764-0-60083
-msgctxt "7949764-0-60083"
-msgid "Escape the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60082
-msgctxt "7949764-0-60082"
-msgid "Escape the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60081
-msgctxt "7949764-0-60081"
-msgid "Kill the Ixtaxh Voriplasm"
-msgstr ""
-
-#: 7949764-0-60080
-msgctxt "7949764-0-60080"
-msgid "Join Famia By the Statue"
-msgstr ""
-
-#: 7949764-0-60079
-msgctxt "7949764-0-60079"
-msgid "Enter the Treasure Vault"
-msgstr ""
-
-#: 7949764-0-60078
-msgctxt "7949764-0-60078"
-msgid "Navigate the Stone Furnace"
-msgstr ""
-
-#: 7949764-0-60077
-msgctxt "7949764-0-60077"
-msgid "Explore the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60076
-msgctxt "7949764-0-60076"
-msgid "Defeat the Spiders"
-msgstr ""
-
-#: 7949764-0-60075
-msgctxt "7949764-0-60075"
-msgid "Defend Varo"
-msgstr ""
-
-#: 7949764-0-60074
-msgctxt "7949764-0-60074"
-msgid "Search for Varo"
-msgstr ""
-
-#: 7949764-0-60073
-msgctxt "7949764-0-60073"
-msgid "Rescue Kirstaleth"
-msgstr ""
-
-#: 7949764-0-60072
-msgctxt "7949764-0-60072"
-msgid "Lower the Flint Vine Ladder"
-msgstr ""
-
-#: 7949764-0-60071
-msgctxt "7949764-0-60071"
-msgid "Gather Flint Vine"
-msgstr ""
-
-#: 7949764-0-60070
-msgctxt "7949764-0-60070"
-msgid "Find the Missing Explorers"
-msgstr ""
-
-#: 7949764-0-60069
-msgctxt "7949764-0-60069"
-msgid "Lower the Ancient Drawbridge"
-msgstr ""
-
-#: 7949764-0-60068
-msgctxt "7949764-0-60068"
-msgid "Find the Missing Explorers"
-msgstr ""
-
-#: 7949764-0-60067
-msgctxt "7949764-0-60067"
-msgid "Pick the Lock on the Door"
-msgstr ""
-
-#: 7949764-0-60066
-msgctxt "7949764-0-60066"
-msgid "Gather Your Wits"
-msgstr ""
-
-#: 7949764-0-60065
-msgctxt "7949764-0-60065"
-msgid "Explore the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60064
-msgctxt "7949764-0-60064"
-msgid "Enter the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60063
-msgctxt "7949764-0-60063"
-msgid "Meet Explorers at the Xanmeer"
-msgstr ""
-
-#: 7949764-0-60060
-msgctxt "7949764-0-60060"
-msgid "Read Journal"
-msgstr ""
-
-#: 7949764-0-60059
-msgctxt "7949764-0-60059"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-60057
-msgctxt "7949764-0-60057"
-msgid "Search Hut for Clues"
-msgstr ""
-
-#: 7949764-0-60056
-msgctxt "7949764-0-60056"
-msgid "Meet Famia's Contact"
-msgstr ""
-
-#: 7949764-0-60055
-msgctxt "7949764-0-60055"
-msgid "Search for Famia's Explorers"
-msgstr ""
-
-#: 7949764-0-60052
-msgctxt "7949764-0-60052"
-msgid "Meet Famia's Contact"
-msgstr ""
-
-#: 7949764-0-60050
-msgctxt "7949764-0-60050"
-msgid "Talk to Zadaza"
-msgstr ""
-
-#: 7949764-0-60049
-msgctxt "7949764-0-60049"
-msgid "Talk to Zadaza"
-msgstr ""
-
-#: 7949764-0-60048
-msgctxt "7949764-0-60048"
-msgid "Go To Lilmoth's Western Gate"
-msgstr ""
-
-#: 7949764-0-60047
-msgctxt "7949764-0-60047"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-60039
-msgctxt "7949764-0-60039"
-msgid "Follow Famia"
-msgstr ""
-
-#: 7949764-0-60033
-msgctxt "7949764-0-60033"
-msgid "Search for Signs of Kassandra"
-msgstr ""
-
-#: 7949764-0-60032
-msgctxt "7949764-0-60032"
-msgid "Traverse the Deepmire"
-msgstr ""
-
-#: 7949764-0-60030
-msgctxt "7949764-0-60030"
-msgid "Find the Sacred Altar"
-msgstr ""
-
-#: 7949764-0-60027
-msgctxt "7949764-0-60027"
-msgid "Talk to Kassandra"
-msgstr ""
-
-#: 7949764-0-59997
-msgctxt "7949764-0-59997"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-59984
-msgctxt "7949764-0-59984"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-59983
-msgctxt "7949764-0-59983"
-msgid "Take the Grave-Stake"
-msgstr ""
-
-#: 7949764-0-59982
-msgctxt "7949764-0-59982"
-msgid "Kill Etra of the Many Spears"
-msgstr ""
-
-#: 7949764-0-59981
-msgctxt "7949764-0-59981"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-59978
-msgctxt "7949764-0-59978"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-59976
-msgctxt "7949764-0-59976"
-msgid "Talk to Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-59975
-msgctxt "7949764-0-59975"
-msgid "Find Jaxsik-Orrn"
-msgstr ""
-
-#: 7949764-0-59974
-msgctxt "7949764-0-59974"
-msgid "Talk to Famia"
-msgstr ""
-
-#: 7949764-0-59973
-msgctxt "7949764-0-59973"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-59972
-msgctxt "7949764-0-59972"
-msgid "Listen to Chime-Maker Shuvu"
-msgstr ""
-
-#: 7949764-0-59955
-msgctxt "7949764-0-59955"
-msgid "Talk to Xukas"
-msgstr ""
-
-#: 7949764-0-59934
-msgctxt "7949764-0-59934"
-msgid "Talk to Dradeiva"
-msgstr ""
-
-#: 7949764-0-59929
-msgctxt "7949764-0-59929"
-msgid "Search for Clues"
-msgstr ""
-
-#: 7949764-0-59927
-msgctxt "7949764-0-59927"
-msgid "Search for Clues"
-msgstr ""
-
-#: 7949764-0-59926
-msgctxt "7949764-0-59926"
-msgid "Search for Clues"
-msgstr ""
-
-#: 7949764-0-59918
-msgctxt "7949764-0-59918"
-msgid "Search for Captives in the Lower Level"
-msgstr ""
-
-#: 7949764-0-59907
-msgctxt "7949764-0-59907"
-msgid "Disrupt Altars"
-msgstr ""
-
-#: 7949764-0-59904
-msgctxt "7949764-0-59904"
-msgid "Search for Captives in the Upper Level"
-msgstr ""
-
-#: 7949764-0-59873
-msgctxt "7949764-0-59873"
-msgid "Kill <<1>>"
-msgstr ""
-
-#: 7949764-0-59871
-msgctxt "7949764-0-59871"
-msgid "Kill <<1>>"
-msgstr ""
-
-#: 7949764-0-59870
-msgctxt "7949764-0-59870"
-msgid "Burn Corrupted Heart-Roots"
-msgstr ""
-
-#: 7949764-0-59869
-msgctxt "7949764-0-59869"
-msgid "Kill <<1>>"
-msgstr ""
-
-#: 7949764-0-59867
-msgctxt "7949764-0-59867"
-msgid "Kill <<1>>"
-msgstr ""
-
-#: 7949764-0-59866
-msgctxt "7949764-0-59866"
-msgid "Gather <<1>>"
-msgstr ""
-
-#: 7949764-0-59865
-msgctxt "7949764-0-59865"
-msgid "Gather Stolen Grave-Stakes"
-msgstr ""
-
-#: 7949764-0-59864
-msgctxt "7949764-0-59864"
-msgid "Plant Stolen Grave-Stakes"
-msgstr ""
-
-#: 7949764-0-59863
-msgctxt "7949764-0-59863"
-msgid "Kill <<1>>"
-msgstr ""
-
-#: 7949764-0-59862
-msgctxt "7949764-0-59862"
-msgid "Kill <<1>>"
-msgstr ""
-
-#: 8158238-0-2960
-msgctxt "8158238-0-2960"
-msgid "Swimming…"
-msgstr ""
-
-#: 8158238-0-2953
-msgctxt "8158238-0-2953"
-msgid "Examining…"
-msgstr ""
-
-#: 8158238-0-2880
-msgctxt "8158238-0-2880"
-msgid "Examining…"
-msgstr ""
-
-#: 8158238-0-2869
-msgctxt "8158238-0-2869"
-msgid "Examining…"
-msgstr ""
-
-#: 70307621-0-2861
-msgctxt "70307621-0-2861"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2860
-msgctxt "70307621-0-2860"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2859
-msgctxt "70307621-0-2859"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2858
-msgctxt "70307621-0-2858"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2857
-msgctxt "70307621-0-2857"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2856
-msgctxt "70307621-0-2856"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2855
-msgctxt "70307621-0-2855"
-msgid "Travel"
-msgstr ""
-
-#: 70307621-0-2854
-msgctxt "70307621-0-2854"
-msgid "Travel"
-msgstr ""
-
-#: 70307621-0-2852
-msgctxt "70307621-0-2852"
-msgid "Climb"
-msgstr ""
-
-#: 70307621-0-2848
-msgctxt "70307621-0-2848"
+#: 219689294-1-627
+msgctxt "219689294-1-627"
 msgid "Use"
 msgstr ""
 
-#: 70307621-0-2847
-msgctxt "70307621-0-2847"
-msgid "Enter"
-msgstr ""
-
-#: 8158238-0-2845
-msgctxt "8158238-0-2845"
+#: 8158238-0-2935
+msgctxt "8158238-0-2935"
 msgid "Examining…"
 msgstr ""
 
-#: 70307621-0-2840
-msgctxt "70307621-0-2840"
+#: 70307621-0-2935
+msgctxt "70307621-0-2935"
 msgid "Examine"
 msgstr ""
 
-#: 70307621-0-2835
-msgctxt "70307621-0-2835"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2834
-msgctxt "70307621-0-2834"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2833
-msgctxt "70307621-0-2833"
-msgid "Take"
-msgstr ""
-
-#: 70307621-0-2831
-msgctxt "70307621-0-2831"
-msgid "Search"
-msgstr ""
-
-#: 70307621-0-2830
-msgctxt "70307621-0-2830"
-msgid "Use"
-msgstr ""
-
-#: 70307621-0-2828
-msgctxt "70307621-0-2828"
-msgid "Examine"
-msgstr ""
-
-#: 70307621-0-2818
-msgctxt "70307621-0-2818"
-msgid "Place"
-msgstr ""
-
-#: 70307621-0-2817
-msgctxt "70307621-0-2817"
-msgid "Open"
-msgstr ""
-
-#: 108533454-0-25200
-msgctxt "108533454-0-25200"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-25192
-msgctxt "108533454-0-25192"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-25168
-msgctxt "74865733-0-25168"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-25167
-msgctxt "74865733-0-25167"
-msgid "Read"
-msgstr ""
-
-#: 74865733-0-25166
-msgctxt "74865733-0-25166"
-msgid "Read"
-msgstr ""
-
-#: 74865733-0-25165
-msgctxt "74865733-0-25165"
-msgid "Read"
-msgstr ""
-
-#: 74865733-0-25164
-msgctxt "74865733-0-25164"
-msgid "Read"
-msgstr ""
-
-#: 74865733-0-25152
-msgctxt "74865733-0-25152"
-msgid "Read"
-msgstr ""
-
-#: 74865733-0-25148
-msgctxt "74865733-0-25148"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-25147
-msgctxt "74865733-0-25147"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-25146
-msgctxt "74865733-0-25146"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-25145
-msgctxt "74865733-0-25145"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-25142
-msgctxt "74865733-0-25142"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-25141
-msgctxt "74865733-0-25141"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-25133
-msgctxt "74865733-0-25133"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-25078
-msgctxt "108533454-0-25078"
-msgid "Opening..."
-msgstr ""
-
-#: 108533454-0-25077
-msgctxt "108533454-0-25077"
-msgid "Opening..."
-msgstr ""
-
-#: 74865733-0-25076
-msgctxt "74865733-0-25076"
-msgid "Dig"
-msgstr ""
-
-#: 74865733-0-25075
-msgctxt "74865733-0-25075"
-msgid "Dig"
-msgstr ""
-
-#: 74865733-0-25029
-msgctxt "74865733-0-25029"
-msgid "Incapacitate"
-msgstr ""
-
-#: 74865733-0-24959
-msgctxt "74865733-0-24959"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24956
-msgctxt "74865733-0-24956"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24955
-msgctxt "74865733-0-24955"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24933
-msgctxt "74865733-0-24933"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24914
-msgctxt "74865733-0-24914"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24905
-msgctxt "74865733-0-24905"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24904
-msgctxt "74865733-0-24904"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24882
-msgctxt "74865733-0-24882"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24880
-msgctxt "74865733-0-24880"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24879
-msgctxt "74865733-0-24879"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24878
-msgctxt "74865733-0-24878"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24877
-msgctxt "74865733-0-24877"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24874
-msgctxt "74865733-0-24874"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24873
-msgctxt "74865733-0-24873"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24872
-msgctxt "74865733-0-24872"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24870
-msgctxt "74865733-0-24870"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24869
-msgctxt "74865733-0-24869"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24868
-msgctxt "74865733-0-24868"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24867
-msgctxt "74865733-0-24867"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24836
-msgctxt "74865733-0-24836"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24834
-msgctxt "74865733-0-24834"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24829
-msgctxt "74865733-0-24829"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24825
-msgctxt "74865733-0-24825"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24804
-msgctxt "108533454-0-24804"
-msgid "Opening…"
-msgstr ""
-
-#: 108533454-0-24803
-msgctxt "108533454-0-24803"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-24802
-msgctxt "74865733-0-24802"
-msgid "Examine"
-msgstr ""
-
-#: 108533454-0-24801
-msgctxt "108533454-0-24801"
-msgid "Opening…"
-msgstr ""
-
-#: 108533454-0-24800
-msgctxt "108533454-0-24800"
-msgid "Opening…"
-msgstr ""
-
-#: 108533454-0-24799
-msgctxt "108533454-0-24799"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-24797
-msgctxt "74865733-0-24797"
-msgid "Light"
-msgstr ""
-
-#: 108533454-0-24792
-msgctxt "108533454-0-24792"
-msgid "Opening…"
-msgstr ""
-
-#: 74865733-0-24790
-msgctxt "74865733-0-24790"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24788
-msgctxt "74865733-0-24788"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24783
-msgctxt "74865733-0-24783"
-msgid "Use"
-msgstr ""
-
-#: 74865733-0-24781
-msgctxt "74865733-0-24781"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24780
-msgctxt "74865733-0-24780"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24779
-msgctxt "74865733-0-24779"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24777
-msgctxt "74865733-0-24777"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24773
-msgctxt "74865733-0-24773"
-msgid "Use Fire Rock"
-msgstr ""
-
-#: 74865733-0-24771
-msgctxt "74865733-0-24771"
-msgid "Use"
-msgstr ""
-
-#: 74865733-0-24770
-msgctxt "74865733-0-24770"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24753
-msgctxt "74865733-0-24753"
-msgid "Inhale"
-msgstr ""
-
-#: 74865733-0-24752
-msgctxt "74865733-0-24752"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-24751
-msgctxt "74865733-0-24751"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24750
-msgctxt "74865733-0-24750"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24749
-msgctxt "74865733-0-24749"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24741
-msgctxt "74865733-0-24741"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24740
-msgctxt "74865733-0-24740"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24739
-msgctxt "74865733-0-24739"
-msgid "Signal Stibbons"
-msgstr ""
-
-#: 74865733-0-24738
-msgctxt "74865733-0-24738"
-msgid "Kick"
-msgstr ""
-
-#: 74865733-0-24733
-msgctxt "74865733-0-24733"
-msgid "Rescue"
-msgstr ""
-
-#: 74865733-0-24732
-msgctxt "74865733-0-24732"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24727
-msgctxt "74865733-0-24727"
-msgid "Ring"
-msgstr ""
-
-#: 74865733-0-24698
-msgctxt "74865733-0-24698"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24697
-msgctxt "74865733-0-24697"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24696
-msgctxt "74865733-0-24696"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24695
-msgctxt "74865733-0-24695"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24694
-msgctxt "74865733-0-24694"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24693
-msgctxt "74865733-0-24693"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24692
-msgctxt "74865733-0-24692"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24691
-msgctxt "74865733-0-24691"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24690
-msgctxt "74865733-0-24690"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24688
-msgctxt "74865733-0-24688"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24687
-msgctxt "74865733-0-24687"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24686
-msgctxt "74865733-0-24686"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24685
-msgctxt "74865733-0-24685"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24683
-msgctxt "74865733-0-24683"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24680
-msgctxt "74865733-0-24680"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24679
-msgctxt "74865733-0-24679"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24678
-msgctxt "74865733-0-24678"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24676
-msgctxt "74865733-0-24676"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24674
-msgctxt "74865733-0-24674"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24673
-msgctxt "74865733-0-24673"
-msgid "Read"
-msgstr ""
-
-#: 74865733-0-24672
-msgctxt "74865733-0-24672"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24671
-msgctxt "74865733-0-24671"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24670
-msgctxt "74865733-0-24670"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24669
-msgctxt "74865733-0-24669"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24662
-msgctxt "74865733-0-24662"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24660
-msgctxt "74865733-0-24660"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24659
-msgctxt "74865733-0-24659"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24658
-msgctxt "74865733-0-24658"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24657
-msgctxt "74865733-0-24657"
-msgid "Dig"
-msgstr ""
-
-#: 74865733-0-24654
-msgctxt "74865733-0-24654"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24650
-msgctxt "74865733-0-24650"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24647
-msgctxt "74865733-0-24647"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24644
-msgctxt "74865733-0-24644"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24643
-msgctxt "74865733-0-24643"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24641
-msgctxt "74865733-0-24641"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24638
-msgctxt "74865733-0-24638"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24637
-msgctxt "74865733-0-24637"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24636
-msgctxt "74865733-0-24636"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24634
-msgctxt "74865733-0-24634"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24633
-msgctxt "74865733-0-24633"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24632
-msgctxt "74865733-0-24632"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24627
-msgctxt "74865733-0-24627"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24626
-msgctxt "74865733-0-24626"
-msgid "Untie"
-msgstr ""
-
-#: 74865733-0-24625
-msgctxt "74865733-0-24625"
-msgid "Douse"
-msgstr ""
-
-#: 74865733-0-24624
-msgctxt "74865733-0-24624"
-msgid "Douse"
-msgstr ""
-
-#: 74865733-0-24623
-msgctxt "74865733-0-24623"
-msgid "Douse"
-msgstr ""
-
-#: 74865733-0-24622
-msgctxt "74865733-0-24622"
-msgid "Douse"
-msgstr ""
-
-#: 74865733-0-24616
-msgctxt "74865733-0-24616"
-msgid "Burn"
-msgstr ""
-
-#: 74865733-0-24614
-msgctxt "74865733-0-24614"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24612
-msgctxt "74865733-0-24612"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24602
-msgctxt "74865733-0-24602"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24601
-msgctxt "74865733-0-24601"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24600
-msgctxt "74865733-0-24600"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24597
-msgctxt "74865733-0-24597"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24594
-msgctxt "74865733-0-24594"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24592
-msgctxt "74865733-0-24592"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24587
-msgctxt "74865733-0-24587"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24586
-msgctxt "74865733-0-24586"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24584
-msgctxt "74865733-0-24584"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24583
-msgctxt "74865733-0-24583"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24581
-msgctxt "74865733-0-24581"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24579
-msgctxt "74865733-0-24579"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24578
-msgctxt "74865733-0-24578"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24576
-msgctxt "74865733-0-24576"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24575
-msgctxt "74865733-0-24575"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24572
-msgctxt "74865733-0-24572"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24571
-msgctxt "74865733-0-24571"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24569
-msgctxt "74865733-0-24569"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24568
-msgctxt "74865733-0-24568"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24566
-msgctxt "74865733-0-24566"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24565
-msgctxt "74865733-0-24565"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24563
-msgctxt "74865733-0-24563"
-msgid "Burn"
-msgstr ""
-
-#: 74865733-0-24562
-msgctxt "74865733-0-24562"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24561
-msgctxt "74865733-0-24561"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24559
-msgctxt "74865733-0-24559"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24546
-msgctxt "74865733-0-24546"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24544
-msgctxt "74865733-0-24544"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24543
-msgctxt "74865733-0-24543"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24542
-msgctxt "74865733-0-24542"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24540
-msgctxt "74865733-0-24540"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24536
-msgctxt "74865733-0-24536"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24531
-msgctxt "74865733-0-24531"
-msgid "Travel"
-msgstr ""
-
-#: 8158238-0-2453
-msgctxt "8158238-0-2453"
-msgid "Enter"
-msgstr ""
-
-#: 74865733-0-24522
-msgctxt "74865733-0-24522"
-msgid "Incapacitate"
-msgstr ""
-
-#: 74865733-0-24514
-msgctxt "74865733-0-24514"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24513
-msgctxt "74865733-0-24513"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-24501
-msgctxt "74865733-0-24501"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24500
-msgctxt "74865733-0-24500"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24499
-msgctxt "74865733-0-24499"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24498
-msgctxt "74865733-0-24498"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24497
-msgctxt "74865733-0-24497"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24493
-msgctxt "74865733-0-24493"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24486
-msgctxt "74865733-0-24486"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24484
-msgctxt "74865733-0-24484"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24483
-msgctxt "74865733-0-24483"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24482
-msgctxt "74865733-0-24482"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24481
-msgctxt "74865733-0-24481"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24480
-msgctxt "74865733-0-24480"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24479
-msgctxt "74865733-0-24479"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24478
-msgctxt "74865733-0-24478"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24475
-msgctxt "74865733-0-24475"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24474
-msgctxt "74865733-0-24474"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24473
-msgctxt "74865733-0-24473"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24472
-msgctxt "74865733-0-24472"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24470
-msgctxt "74865733-0-24470"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24468
-msgctxt "74865733-0-24468"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24467
-msgctxt "74865733-0-24467"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24466
-msgctxt "74865733-0-24466"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24461
-msgctxt "74865733-0-24461"
-msgid "Travel"
-msgstr ""
-
-#: 108533454-0-24459
-msgctxt "108533454-0-24459"
-msgid "Collecting Skyshard…"
-msgstr ""
-
-#: 108533454-0-24458
-msgctxt "108533454-0-24458"
-msgid "Collecting Skyshard…"
-msgstr ""
-
-#: 108533454-0-24457
-msgctxt "108533454-0-24457"
-msgid "Collecting Skyshard…"
-msgstr ""
-
-#: 108533454-0-24456
-msgctxt "108533454-0-24456"
-msgid "Collecting Skyshard…"
-msgstr ""
-
-#: 108533454-0-24455
-msgctxt "108533454-0-24455"
-msgid "Collecting Skyshard…"
-msgstr ""
-
-#: 108533454-0-24454
-msgctxt "108533454-0-24454"
-msgid "Collecting Skyshard…"
-msgstr ""
-
-#: 74865733-0-24437
-msgctxt "74865733-0-24437"
-msgid "Place"
-msgstr ""
-
-#: 74865733-0-24436
-msgctxt "74865733-0-24436"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24434
-msgctxt "74865733-0-24434"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-24426
-msgctxt "74865733-0-24426"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24425
-msgctxt "74865733-0-24425"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24424
-msgctxt "74865733-0-24424"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24423
-msgctxt "74865733-0-24423"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24422
-msgctxt "74865733-0-24422"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24421
-msgctxt "74865733-0-24421"
-msgid "Destroy"
+#: 8158238-0-2934
+msgctxt "8158238-0-2934"
+msgid "Examining…"
 msgstr ""
 
-#: 74865733-0-24420
-msgctxt "74865733-0-24420"
-msgid "Burn"
-msgstr ""
-
-#: 74865733-0-24419
-msgctxt "74865733-0-24419"
-msgid "Burn"
-msgstr ""
-
-#: 74865733-0-24418
-msgctxt "74865733-0-24418"
-msgid "Burn"
-msgstr ""
-
-#: 74865733-0-24416
-msgctxt "74865733-0-24416"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24415
-msgctxt "74865733-0-24415"
-msgid "Burn"
-msgstr ""
-
-#: 74865733-0-24412
-msgctxt "74865733-0-24412"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24411
-msgctxt "74865733-0-24411"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24410
-msgctxt "74865733-0-24410"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24408
-msgctxt "74865733-0-24408"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24407
-msgctxt "74865733-0-24407"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24406
-msgctxt "74865733-0-24406"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24405
-msgctxt "74865733-0-24405"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24404
-msgctxt "74865733-0-24404"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24403
-msgctxt "74865733-0-24403"
-msgid "Use"
-msgstr ""
-
-#: 74865733-0-24402
-msgctxt "74865733-0-24402"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24401
-msgctxt "74865733-0-24401"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24400
-msgctxt "74865733-0-24400"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24396
-msgctxt "74865733-0-24396"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24391
-msgctxt "74865733-0-24391"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24390
-msgctxt "74865733-0-24390"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24376
-msgctxt "74865733-0-24376"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24366
-msgctxt "74865733-0-24366"
-msgid "Douse"
-msgstr ""
-
-#: 74865733-0-24330
-msgctxt "74865733-0-24330"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24328
-msgctxt "74865733-0-24328"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24325
-msgctxt "74865733-0-24325"
-msgid "Use"
-msgstr ""
-
-#: 74865733-0-24322
-msgctxt "74865733-0-24322"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24321
-msgctxt "74865733-0-24321"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24320
-msgctxt "74865733-0-24320"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24319
-msgctxt "74865733-0-24319"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24315
-msgctxt "74865733-0-24315"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24314
-msgctxt "74865733-0-24314"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24313
-msgctxt "74865733-0-24313"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24312
-msgctxt "74865733-0-24312"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24311
-msgctxt "74865733-0-24311"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24309
-msgctxt "74865733-0-24309"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24308
-msgctxt "74865733-0-24308"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24305
-msgctxt "74865733-0-24305"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24296
-msgctxt "74865733-0-24296"
-msgid "Open"
-msgstr ""
-
-#: 74865733-0-24295
-msgctxt "74865733-0-24295"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24294
-msgctxt "74865733-0-24294"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24269
-msgctxt "74865733-0-24269"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24265
-msgctxt "74865733-0-24265"
-msgid "Search"
-msgstr ""
-
-#: 74865733-0-24258
-msgctxt "74865733-0-24258"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24257
-msgctxt "74865733-0-24257"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24255
-msgctxt "74865733-0-24255"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24252
-msgctxt "74865733-0-24252"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24248
-msgctxt "74865733-0-24248"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24247
-msgctxt "74865733-0-24247"
-msgid "Take"
-msgstr ""
-
-#: 74865733-0-24239
-msgctxt "74865733-0-24239"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24218
-msgctxt "74865733-0-24218"
-msgid "Ignite"
-msgstr ""
-
-#: 74865733-0-24217
-msgctxt "74865733-0-24217"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24216
-msgctxt "74865733-0-24216"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24215
-msgctxt "74865733-0-24215"
+#: 70307621-0-2934
+msgctxt "70307621-0-2934"
 msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24214
-msgctxt "74865733-0-24214"
-msgid "Examine"
-msgstr ""
-
-#: 74865733-0-24213
-msgctxt "74865733-0-24213"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24212
-msgctxt "74865733-0-24212"
-msgid "Destroy"
-msgstr ""
-
-#: 74865733-0-24211
-msgctxt "74865733-0-24211"
-msgid "Disrupt"
-msgstr ""
-
-#: 74865733-0-24210
-msgctxt "74865733-0-24210"
-msgid "Disrupt"
-msgstr ""
-
-#: 74865733-0-21484
-msgctxt "74865733-0-21484"
-msgid "Take"
 msgstr ""

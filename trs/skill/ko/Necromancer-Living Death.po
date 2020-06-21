@@ -11,26 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-118912
-msgctxt "132143172-0-118912"
-msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nWhile active, |cffffff10|r% of the damage you take is transferred to the spirit instead.\n\nCreates a corpse on death."
-msgstr "기분나쁜 영혼을 소환해, <<1>>동안 당신편에 서게 해 함께 싸웁니다. 영혼은 자신이나 주위의 가장 낮은 체력을 가진 아군을 |cffffff2|r초마다 회복시키며, 체력을 <<2>> 회복합니다.\n\n발동중에는 시전자가 입은 피해의 |cffffff10|r%를 영혼이 대신 받습니다.\n\n죽으면 시체로 변합니다."
-
-#: 198758357-0-118912
-msgctxt "198758357-0-118912"
-msgid "Spirit Guardian"
-msgstr "Spirit Guardian"
-
-#: 132143172-0-118840
-msgctxt "132143172-0-118840"
-msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
-msgstr "기분나쁜 영혼을 소환해, <<1>>동안 당신편에 서게 해 함께 싸웁니다. 영혼은 자신이나 주위의 가장 낮은 체력을 가진 아군을 |cffffff2|r초마다 회복시키며, 체력을 <<2>> 회복합니다.\n\n죽으면 시체로 변합니다."
-
-#: 198758357-0-118840
-msgctxt "198758357-0-118840"
-msgid "Intensive Mender"
-msgstr "Intensive Mender"
-
 #: 132143172-0-118809
 msgctxt "132143172-0-118809"
 msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>. You can consume up to |cffffff5|r additional corpses on cast, with each corpse extending the duration of the heal over time by |cffffff5|r seconds."
@@ -40,66 +20,6 @@ msgstr "대상으로 한 영역에서 쓰러진 영혼에 남아있는 파편을
 msgctxt "198758357-0-118809"
 msgid "Enduring Undeath"
 msgstr "Enduring Undeath"
-
-#: 132143172-0-118379
-msgctxt "132143172-0-118379"
-msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou consume up to |cffffff3|r other corpses in the area and summon a Blastbones for each corpse consumed."
-msgstr "아군을 죽음의 심연에서 소생시켜, 대상으로 한 영역의 아군을 최대 |cffffff3|r명까지 부활시킵니다.\n\n영역 내의 다른 시체를 최대 |cffffff3|r개까지 흡수하여, 흡수한 시체 수만큼 뼈탄환을 소환합니다."
-
-#: 198758357-0-118379
-msgctxt "198758357-0-118379"
-msgid "Animate Blastbones"
-msgstr "Animate Blastbones"
-
-#: 132143172-0-118367
-msgctxt "132143172-0-118367"
-msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou restore <<1>> Magicka and Stamina for each ally you attempt to resurrect."
-msgstr "아군을 죽음의 심연에서 소생시켜, 대상으로 한 영역의 아군을 최대 |cffffff3|r명까지 부활시킵니다.\n\n아군을 부활시킬때마다 매지카와 스태미너를 <<1>>회복합니다."
-
-#: 198758357-0-118367
-msgctxt "198758357-0-118367"
-msgid "Renewing Animation"
-msgstr "Renewing Animation"
-
-#: 132143172-0-118122
-msgctxt "132143172-0-118122"
-msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This portion of the ability scales off your highest offensive stats.\n\nYou also restore <<3>> Stamina over <<2>> while siphoning the corpse.  \n\nWhile slotted, your healing done is increased by <<4>>."
-msgstr "시체에 남아있는 마지막 생명력을 흡수하여, 자신과 시체 사이에 있는 모든 아군의 체력을 <<1>>만큼 <<2>>동안 회복합니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n시체에서 흡수하고 있는 동안, <<3>> 스태미너를 <<2>>동안 회복합니다.\n\n기술칸에 장비하고 있는 동안, 회복되는 양이 <<4>> 증가합니다."
-
-#: 198758357-0-118122
-msgctxt "198758357-0-118122"
-msgid "Mortal Coil"
-msgstr "Mortal Coil"
-
-#: 132143172-0-118070
-msgctxt "132143172-0-118070"
-msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself, all allies around you, and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
-msgstr "시체에 남아있는 마지막 생명력을 흡수하여, 자신과 시체 사이에 있는 모든 아군의 체력을 <<1>>만큼 <<2>>동안 회복합니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n기술칸에 장비하고 있는 동안, 회복되는 양이 <<3>> 증가합니다."
-
-#: 198758357-0-118070
-msgctxt "198758357-0-118070"
-msgid "Braided Tether"
-msgstr "Braided Tether"
-
-#: 132143172-0-118017
-msgctxt "132143172-0-118017"
-msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to immediately remove up |cffffff3|r negative effects and continue to heal you and your allies in the area for <<2>> Health over <<3>>."
-msgstr "대상으로 한 영역에서 쓰러진 영혼과 남은 파편을 해방합니다. 자신과 아군의 체력을 <<1>> 회복합니다.\n\n시전시 시체를 흡수하면 마이너스 효과를 즉시 최대 |cffffff3|r까지 해제하며, 자신과 영역에 있는 아군의 체력을 <<2>>만큼 <<3>>동안 회복합니다."
-
-#: 198758357-0-118017
-msgctxt "198758357-0-118017"
-msgid "Renewing Undeath"
-msgstr "Renewing Undeath"
-
-#: 132143172-0-117940
-msgctxt "132143172-0-117940"
-msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself and restoring <<2>> Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by <<3>>."
-msgstr "죽음의 힘을 받아들여 자신의 마이너스 효과를 최대 <<1>>까지 해제하고, 마이너스 효과를 해제할 때마다 매지카와 스태미너를 <<2>>회복합니다.\n\n기술칸에 장비하고 있는동안 모든 어빌리티의 소비량을 <<3>>감소시킵니다."
-
-#: 198758357-0-117940
-msgctxt "198758357-0-117940"
-msgid "Expunge and Modify"
-msgstr "Expunge and Modify"
 
 #: 132143172-0-117919
 msgctxt "132143172-0-117919"
@@ -111,15 +31,65 @@ msgctxt "198758357-0-117919"
 msgid "Hexproof"
 msgstr "Hexproof"
 
-#: 132143172-0-117888
-msgctxt "132143172-0-117888"
-msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>.\n\nConsumes a corpse near you when cast to heal a second target."
-msgstr "자신의 힘을 바쳐 상처입은 육신을 회복시킵니다. 자신이나 앞에 있는 아군의 체력을 <<1>>회복하지만, 자신은 <<2>>동안 Minor Defile이 적용되어 회복되는 양과 체력재생이 <<3>> 감소합니다.\n\n시전시에 주위 시체를 흡수하면, 2번째의 대상을 치료합니다."
+#: 132143172-0-115710
+msgctxt "132143172-0-115710"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
+msgstr "기분나쁜 영혼을 소환해, <<1>>동안 당신편에 서게 해 함께 싸웁니다. 영혼은 자신이나 주위의 가장 낮은 체력을 가진 아군을 |cffffff2|r초마다 회복시키며, 체력을 <<2>> 회복합니다.\n\n죽으면 시체로 변합니다."
 
-#: 198758357-0-117888
-msgctxt "198758357-0-117888"
-msgid "Blood Sacrifice"
-msgstr "Blood Sacrifice"
+#: 198758357-0-115710
+msgctxt "198758357-0-115710"
+msgid "Spirit Mender"
+msgstr "Spirit Mender"
+
+#: 132143172-0-115315
+msgctxt "132143172-0-115315"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>."
+msgstr "대상으로 한 영역에서 쓰러진 영혼과 남은 파편을 해방합니다. 자신과 아군의 체력을 <<1>> 회복합니다.\n\n시전시 시체를 흡수하면 자신과 영역에 있는 아군의 체력을 <<2>>만큼 <<3>>동안 회복합니다."
+
+#: 198758357-0-115315
+msgctxt "198758357-0-115315"
+msgid "Life amid Death"
+msgstr "Life amid Death"
+
+#: 132143172-0-116273
+msgctxt "132143172-0-116273"
+msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff10|r% in proportion to the severity of the target's wounds."
+msgstr "기술칸에 살아있는 시체 어빌리티를 장비하고 있으면, 대상의 피해정도에 따라 회복 어빌리티에 의한 크리티컬 확률이 최대 |cffffff20|r%까지 증가합니다."
+
+#: 198758357-0-116273
+msgctxt "198758357-0-116273"
+msgid "Near-Death Experience"
+msgstr "Near-Death Experience"
+
+#: 132143172-0-114196
+msgctxt "132143172-0-114196"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>."
+msgstr "자신의 힘을 바쳐 상처입은 육신을 회복시킵니다. 자신이나 앞에 있는 아군의 체력을 <<1>>회복하지만, 자신은 <<2>>동안 Minor Defile이 적용되어 회복되는 양과 체력재생이 <<3>> 감소합니다."
+
+#: 198758357-0-114196
+msgctxt "198758357-0-114196"
+msgid "Render Flesh"
+msgstr "Render Flesh"
+
+#: 132143172-0-116275
+msgctxt "132143172-0-116275"
+msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff20|r% in proportion to the severity of the target's wounds."
+msgstr "기술칸에 살아있는 시체 어빌리티를 장비하고 있으면, 대상의 피해정도에 따라 회복 어빌리티에 의한 크리티컬 확률이 최대 |cffffff20|r%까지 증가합니다."
+
+#: 198758357-0-116275
+msgctxt "198758357-0-116275"
+msgid "Near-Death Experience"
+msgstr "Near-Death Experience"
+
+#: 132143172-0-118017
+msgctxt "132143172-0-118017"
+msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to immediately remove up |cffffff3|r negative effects and continue to heal you and your allies in the area for <<2>> Health over <<3>>."
+msgstr "대상으로 한 영역에서 쓰러진 영혼과 남은 파편을 해방합니다. 자신과 아군의 체력을 <<1>> 회복합니다.\n\n시전시 시체를 흡수하면 마이너스 효과를 즉시 최대 |cffffff3|r까지 해제하며, 자신과 영역에 있는 아군의 체력을 <<2>>만큼 <<3>>동안 회복합니다."
+
+#: 198758357-0-118017
+msgctxt "198758357-0-118017"
+msgid "Renewing Undeath"
+msgstr "Renewing Undeath"
 
 #: 132143172-0-117883
 msgctxt "132143172-0-117883"
@@ -131,25 +101,75 @@ msgctxt "198758357-0-117883"
 msgid "Resistant Flesh"
 msgstr "Resistant Flesh"
 
-#: 132143172-0-116287
-msgctxt "132143172-0-116287"
-msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
-msgstr "자신에게 부정적인 효과가 있을 때, 회복량이 <<1>>증가합니다."
+#: 132143172-0-118379
+msgctxt "132143172-0-118379"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou consume up to |cffffff3|r other corpses in the area and summon a Blastbones for each corpse consumed."
+msgstr "아군을 죽음의 심연에서 소생시켜, 대상으로 한 영역의 아군을 최대 |cffffff3|r명까지 부활시킵니다.\n\n영역 내의 다른 시체를 최대 |cffffff3|r개까지 흡수하여, 흡수한 시체 수만큼 뼈탄환을 소환합니다."
 
-#: 198758357-0-116287
-msgctxt "198758357-0-116287"
-msgid "Curative Curse"
-msgstr "Curative Curse"
+#: 198758357-0-118379
+msgctxt "198758357-0-118379"
+msgid "Animate Blastbones"
+msgstr "Animate Blastbones"
 
-#: 132143172-0-116286
-msgctxt "132143172-0-116286"
-msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
-msgstr "자신에게 마이너스 효과가 있을 때, 회복량이 <<1>> 증가합니다."
+#: 132143172-0-117940
+msgctxt "132143172-0-117940"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself and restoring <<2>> Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by <<3>>."
+msgstr "죽음의 힘을 받아들여 자신의 마이너스 효과를 최대 <<1>>까지 해제하고, 마이너스 효과를 해제할 때마다 매지카와 스태미너를 <<2>>회복합니다.\n\n기술칸에 장비하고 있는동안 모든 어빌리티의 소비량을 <<3>>감소시킵니다."
 
-#: 198758357-0-116286
-msgctxt "198758357-0-116286"
-msgid "Curative Curse"
-msgstr "Curative Curse"
+#: 198758357-0-117940
+msgctxt "198758357-0-117940"
+msgid "Expunge and Modify"
+msgstr "Expunge and Modify"
+
+#: 132143172-0-118070
+msgctxt "132143172-0-118070"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself, all allies around you, and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
+msgstr "시체에 남아있는 마지막 생명력을 흡수하여, 자신과 시체 사이에 있는 모든 아군의 체력을 <<1>>만큼 <<2>>동안 회복합니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n기술칸에 장비하고 있는 동안, 회복되는 양이 <<3>> 증가합니다."
+
+#: 198758357-0-118070
+msgctxt "198758357-0-118070"
+msgid "Braided Tether"
+msgstr "Braided Tether"
+
+#: 132143172-0-115926
+msgctxt "132143172-0-115926"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
+msgstr "시체에 남아있는 마지막 생명력을 흡수하여, 자신과 시체 사이에 있는 모든 아군의 체력을 <<1>>만큼 <<2>>동안 회복합니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n기술칸에 장비하고 있는 동안, 회복되는 양이 <<3>> 증가합니다."
+
+#: 198758357-0-115926
+msgctxt "198758357-0-115926"
+msgid "Restoring Tether"
+msgstr "Restoring Tether"
+
+#: 132143172-0-117888
+msgctxt "132143172-0-117888"
+msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>.\n\nConsumes a corpse near you when cast to heal a second target."
+msgstr "자신의 힘을 바쳐 상처입은 육신을 회복시킵니다. 자신이나 앞에 있는 아군의 체력을 <<1>>회복하지만, 자신은 <<2>>동안 Minor Defile이 적용되어 회복되는 양과 체력재생이 <<3>> 감소합니다.\n\n시전시에 주위 시체를 흡수하면, 2번째의 대상을 치료합니다."
+
+#: 198758357-0-117888
+msgctxt "198758357-0-117888"
+msgid "Blood Sacrifice"
+msgstr "Blood Sacrifice"
+
+#: 132143172-0-118912
+msgctxt "132143172-0-118912"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nWhile active, |cffffff10|r% of the damage you take is transferred to the spirit instead.\n\nCreates a corpse on death."
+msgstr "기분나쁜 영혼을 소환해, <<1>>동안 당신편에 서게 해 함께 싸웁니다. 영혼은 자신이나 주위의 가장 낮은 체력을 가진 아군을 |cffffff2|r초마다 회복시키며, 체력을 <<2>> 회복합니다.\n\n발동중에는 시전자가 입은 피해의 |cffffff10|r%를 영혼이 대신 받습니다.\n\n죽으면 시체로 변합니다."
+
+#: 198758357-0-118912
+msgctxt "198758357-0-118912"
+msgid "Spirit Guardian"
+msgstr "Spirit Guardian"
+
+#: 132143172-0-115307
+msgctxt "132143172-0-115307"
+msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by <<2>>."
+msgstr "죽음의 힘을 받아들여 자신의 마이너스 효과를 최대 <<1>>까지 해제합니다.\n\n기술칸에 장비하고 있는동안 모든 어빌리티의 소비량을 <<2>>감소시킵니다."
+
+#: 198758357-0-115307
+msgctxt "198758357-0-115307"
+msgid "Expunge"
+msgstr "Expunge"
 
 #: 132143172-0-116285
 msgctxt "132143172-0-116285"
@@ -171,6 +191,66 @@ msgctxt "198758357-0-116284"
 msgid "Corpse Consumption"
 msgstr "Corpse Consumption"
 
+#: 132143172-0-116287
+msgctxt "132143172-0-116287"
+msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
+msgstr "자신에게 부정적인 효과가 있을 때, 회복량이 <<1>>증가합니다."
+
+#: 198758357-0-116287
+msgctxt "198758357-0-116287"
+msgid "Curative Curse"
+msgstr "Curative Curse"
+
+#: 132143172-0-118122
+msgctxt "132143172-0-118122"
+msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This portion of the ability scales off your highest offensive stats.\n\nYou also restore <<3>> Stamina over <<2>> while siphoning the corpse.  \n\nWhile slotted, your healing done is increased by <<4>>."
+msgstr "시체에 남아있는 마지막 생명력을 흡수하여, 자신과 시체 사이에 있는 모든 아군의 체력을 <<1>>만큼 <<2>>동안 회복합니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n시체에서 흡수하고 있는 동안, <<3>> 스태미너를 <<2>>동안 회복합니다.\n\n기술칸에 장비하고 있는 동안, 회복되는 양이 <<4>> 증가합니다."
+
+#: 198758357-0-118122
+msgctxt "198758357-0-118122"
+msgid "Mortal Coil"
+msgstr "Mortal Coil"
+
+#: 132143172-0-116286
+msgctxt "132143172-0-116286"
+msgid "While you have a negative effect on you, your healing done is increased by <<1>>."
+msgstr "자신에게 마이너스 효과가 있을 때, 회복량이 <<1>> 증가합니다."
+
+#: 198758357-0-116286
+msgctxt "198758357-0-116286"
+msgid "Curative Curse"
+msgstr "Curative Curse"
+
+#: 132143172-0-118840
+msgctxt "132143172-0-118840"
+msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
+msgstr "기분나쁜 영혼을 소환해, <<1>>동안 당신편에 서게 해 함께 싸웁니다. 영혼은 자신이나 주위의 가장 낮은 체력을 가진 아군을 |cffffff2|r초마다 회복시키며, 체력을 <<2>> 회복합니다.\n\n죽으면 시체로 변합니다."
+
+#: 198758357-0-118840
+msgctxt "198758357-0-118840"
+msgid "Intensive Mender"
+msgstr "Intensive Mender"
+
+#: 132143172-0-118367
+msgctxt "132143172-0-118367"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou restore <<1>> Magicka and Stamina for each ally you attempt to resurrect."
+msgstr "아군을 죽음의 심연에서 소생시켜, 대상으로 한 영역의 아군을 최대 |cffffff3|r명까지 부활시킵니다.\n\n아군을 부활시킬때마다 매지카와 스태미너를 <<1>>회복합니다."
+
+#: 198758357-0-118367
+msgctxt "198758357-0-118367"
+msgid "Renewing Animation"
+msgstr "Renewing Animation"
+
+#: 132143172-0-115410
+msgctxt "132143172-0-115410"
+msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location."
+msgstr "아군을 죽음의 심연에서 소생시켜, 대상으로 한 영역의 아군을 최대 |cffffff3|r명까지 부활시킵니다."
+
+#: 198758357-0-115410
+msgctxt "198758357-0-115410"
+msgid "Reanimate"
+msgstr "Reanimate"
+
 #: 132143172-0-116283
 msgctxt "132143172-0-116283"
 msgid "While you have a Blastbones, Skeletal Mage, or Spirit Mender active, your Magicka and Stamina Recovery is increased by <<1>>."
@@ -190,83 +270,3 @@ msgstr "뼈탄환, 스켈레톤 마법사, 영혼이 복원자가 발동되어 �
 msgctxt "198758357-0-116282"
 msgid "Undead Confederate"
 msgstr "Undead Confederate"
-
-#: 132143172-0-116275
-msgctxt "132143172-0-116275"
-msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff20|r% in proportion to the severity of the target's wounds."
-msgstr "기술칸에 살아있는 시체 어빌리티를 장비하고 있으면, 대상의 피해정도에 따라 회복 어빌리티에 의한 크리티컬 확률이 최대 |cffffff20|r%까지 증가합니다."
-
-#: 198758357-0-116275
-msgctxt "198758357-0-116275"
-msgid "Near-Death Experience"
-msgstr "Near-Death Experience"
-
-#: 132143172-0-116273
-msgctxt "132143172-0-116273"
-msgid "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff10|r% in proportion to the severity of the target's wounds."
-msgstr "기술칸에 살아있는 시체 어빌리티를 장비하고 있으면, 대상의 피해정도에 따라 회복 어빌리티에 의한 크리티컬 확률이 최대 |cffffff20|r%까지 증가합니다."
-
-#: 198758357-0-116273
-msgctxt "198758357-0-116273"
-msgid "Near-Death Experience"
-msgstr "Near-Death Experience"
-
-#: 132143172-0-115926
-msgctxt "132143172-0-115926"
-msgid "Siphon the last remnants of life from a corpse, healing for <<1>> Health over <<2>> to yourself and all allies between you and the corpse.  This ability scales off your highest offensive stats.\n\nWhile slotted, your healing done is increased by <<3>>."
-msgstr "시체에 남아있는 마지막 생명력을 흡수하여, 자신과 시체 사이에 있는 모든 아군의 체력을 <<1>>만큼 <<2>>동안 회복합니다. 이 기술은 매지카나 스테미나 중 높은 수치를 기반으로 적용됩니다.\n\n기술칸에 장비하고 있는 동안, 회복되는 양이 <<3>> 증가합니다."
-
-#: 198758357-0-115926
-msgctxt "198758357-0-115926"
-msgid "Restoring Tether"
-msgstr "Restoring Tether"
-
-#: 132143172-0-115710
-msgctxt "132143172-0-115710"
-msgid "Conjure a ghostly spirit to do your bidding and stay by your side for <<1>>. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring <<2>> Health.\n\nCreates a corpse on death."
-msgstr "기분나쁜 영혼을 소환해, <<1>>동안 당신편에 서게 해 함께 싸웁니다. 영혼은 자신이나 주위의 가장 낮은 체력을 가진 아군을 |cffffff2|r초마다 회복시키며, 체력을 <<2>> 회복합니다.\n\n죽으면 시체로 변합니다."
-
-#: 198758357-0-115710
-msgctxt "198758357-0-115710"
-msgid "Spirit Mender"
-msgstr "Spirit Mender"
-
-#: 132143172-0-115410
-msgctxt "132143172-0-115410"
-msgid "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location."
-msgstr "아군을 죽음의 심연에서 소생시켜, 대상으로 한 영역의 아군을 최대 |cffffff3|r명까지 부활시킵니다."
-
-#: 198758357-0-115410
-msgctxt "198758357-0-115410"
-msgid "Reanimate"
-msgstr "Reanimate"
-
-#: 132143172-0-115315
-msgctxt "132143172-0-115315"
-msgid "Release residual fragments of fallen souls at the target location, healing you and your allies for <<1>> Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for <<2>> Health over <<3>>."
-msgstr "대상으로 한 영역에서 쓰러진 영혼과 남은 파편을 해방합니다. 자신과 아군의 체력을 <<1>> 회복합니다.\n\n시전시 시체를 흡수하면 자신과 영역에 있는 아군의 체력을 <<2>>만큼 <<3>>동안 회복합니다."
-
-#: 198758357-0-115315
-msgctxt "198758357-0-115315"
-msgid "Life amid Death"
-msgstr "Life amid Death"
-
-#: 132143172-0-115307
-msgctxt "132143172-0-115307"
-msgid "Embrace the power of death, removing up to <<1>> negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by <<2>>."
-msgstr "죽음의 힘을 받아들여 자신의 마이너스 효과를 최대 <<1>>까지 해제합니다.\n\n기술칸에 장비하고 있는동안 모든 어빌리티의 소비량을 <<2>>감소시킵니다."
-
-#: 198758357-0-115307
-msgctxt "198758357-0-115307"
-msgid "Expunge"
-msgstr "Expunge"
-
-#: 132143172-0-114196
-msgctxt "132143172-0-114196"
-msgid "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for <<1>> Health but applying Minor Defile to yourself for <<2>>, reducing your healing received and Health Recovery by <<3>>."
-msgstr "자신의 힘을 바쳐 상처입은 육신을 회복시킵니다. 자신이나 앞에 있는 아군의 체력을 <<1>>회복하지만, 자신은 <<2>>동안 Minor Defile이 적용되어 회복되는 양과 체력재생이 <<3>> 감소합니다."
-
-#: 198758357-0-114196
-msgctxt "198758357-0-114196"
-msgid "Render Flesh"
-msgstr "Render Flesh"

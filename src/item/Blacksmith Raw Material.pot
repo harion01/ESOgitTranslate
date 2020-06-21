@@ -21,26 +21,6 @@ msgctxt "242841733-0-808"
 msgid "iron ore"
 msgstr ""
 
-#: 228378404-0-71198
-msgctxt "228378404-0-71198"
-msgid "Ten of these items can be refined to make rubedite ingots."
-msgstr ""
-
-#: 242841733-0-71198
-msgctxt "242841733-0-71198"
-msgid "rubedite ore"
-msgstr ""
-
-#: 228378404-0-5820
-msgctxt "228378404-0-5820"
-msgid "Ten of these items can be refined to make steel ingots."
-msgstr ""
-
-#: 242841733-0-5820
-msgctxt "242841733-0-5820"
-msgid "high iron ore"
-msgstr ""
-
 #: 228378404-0-4482
 msgctxt "228378404-0-4482"
 msgid "Ten of these items can be refined to make calcinium ingots."
@@ -51,24 +31,14 @@ msgctxt "242841733-0-4482"
 msgid "Calcinium ore"
 msgstr ""
 
-#: 228378404-0-23135
-msgctxt "228378404-0-23135"
-msgid "Ten of these items can be refined to make voidstone ingots."
+#: 228378404-0-71198
+msgctxt "228378404-0-71198"
+msgid "Ten of these items can be refined to make rubedite ingots."
 msgstr ""
 
-#: 242841733-0-23135
-msgctxt "242841733-0-23135"
-msgid "voidstone ore"
-msgstr ""
-
-#: 228378404-0-23134
-msgctxt "228378404-0-23134"
-msgid "Ten of these items can be refined to make quicksilver ingots."
-msgstr ""
-
-#: 242841733-0-23134
-msgctxt "242841733-0-23134"
-msgid "Quicksilver ore"
+#: 242841733-0-71198
+msgctxt "242841733-0-71198"
+msgid "rubedite ore"
 msgstr ""
 
 #: 228378404-0-23133
@@ -81,14 +51,44 @@ msgctxt "242841733-0-23133"
 msgid "Galatite ore"
 msgstr ""
 
-#: 228378404-0-23105
-msgctxt "228378404-0-23105"
-msgid "Ten of these items can be refined to make ebony ingots."
+#: 228378404-0-23134
+msgctxt "228378404-0-23134"
+msgid "Ten of these items can be refined to make quicksilver ingots."
 msgstr ""
 
-#: 242841733-0-23105
-msgctxt "242841733-0-23105"
-msgid "ebony ore"
+#: 242841733-0-23134
+msgctxt "242841733-0-23134"
+msgid "Quicksilver ore"
+msgstr ""
+
+#: 228378404-0-5820
+msgctxt "228378404-0-5820"
+msgid "Ten of these items can be refined to make steel ingots."
+msgstr ""
+
+#: 242841733-0-5820
+msgctxt "242841733-0-5820"
+msgid "high iron ore"
+msgstr ""
+
+#: 228378404-0-23135
+msgctxt "228378404-0-23135"
+msgid "Ten of these items can be refined to make voidstone ingots."
+msgstr ""
+
+#: 242841733-0-23135
+msgctxt "242841733-0-23135"
+msgid "voidstone ore"
+msgstr ""
+
+#: 228378404-0-23103
+msgctxt "228378404-0-23103"
+msgid "Ten of these items can be refined to make orichalcum ingots."
+msgstr ""
+
+#: 242841733-0-23103
+msgctxt "242841733-0-23103"
+msgid "orichalcum ore"
 msgstr ""
 
 #: 228378404-0-23104
@@ -101,12 +101,12 @@ msgctxt "242841733-0-23104"
 msgid "dwarven ore"
 msgstr ""
 
-#: 228378404-0-23103
-msgctxt "228378404-0-23103"
-msgid "Ten of these items can be refined to make orichalcum ingots."
+#: 228378404-0-23105
+msgctxt "228378404-0-23105"
+msgid "Ten of these items can be refined to make ebony ingots."
 msgstr ""
 
-#: 242841733-0-23103
-msgctxt "242841733-0-23103"
-msgid "orichalcum ore"
+#: 242841733-0-23105
+msgctxt "242841733-0-23105"
+msgid "ebony ore"
 msgstr ""

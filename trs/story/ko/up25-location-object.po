@@ -11,6 +11,21 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 10860933-0-2272
+msgctxt "10860933-0-2272"
+msgid "Cropsford Armory"
+msgstr ""
+
+#: 10860933-0-2271
+msgctxt "10860933-0-2271"
+msgid "Thieves' Oasis"
+msgstr ""
+
+#: 10860933-0-2270
+msgctxt "10860933-0-2270"
+msgid "Forgemaster Falls"
+msgstr ""
+
 #: 10860933-0-2274
 msgctxt "10860933-0-2274"
 msgid "Bruma Armory"
@@ -19,16 +34,6 @@ msgstr ""
 #: 10860933-0-2273
 msgctxt "10860933-0-2273"
 msgid "Vlastarus Armory"
-msgstr ""
-
-#: 108566804-0-2181
-msgctxt "108566804-0-2181"
-msgid "You defeated the Draugrkin graverobbers."
-msgstr ""
-
-#: 129979412-0-2181
-msgctxt "129979412-0-2181"
-msgid "Defeat the Draugrkin graverobbers and avenge the Pyre Watch."
 msgstr ""
 
 #: 10860933-0-2180
@@ -46,22 +51,17 @@ msgctxt "129979412-0-2180"
 msgid "Defeat the Icereach Coven and end their storm ritual."
 msgstr ""
 
-#: 10860933-0-2272
-msgctxt "10860933-0-2272"
-msgid "Cropsford Armory"
-msgstr ""
-
-#: 10860933-0-2271
-msgctxt "10860933-0-2271"
-msgid "Thieves' Oasis"
-msgstr ""
-
-#: 10860933-0-2270
-msgctxt "10860933-0-2270"
-msgid "Forgemaster Falls"
-msgstr ""
-
 #: 10860933-0-2181
 msgctxt "10860933-0-2181"
 msgid "Dungeon: Unhallowed Grave"
+msgstr "던전: 더럽혀진 무덤 (Unhallowed Grave)"
+
+#: 108566804-0-2181
+msgctxt "108566804-0-2181"
+msgid "You defeated the Draugrkin graverobbers."
+msgstr ""
+
+#: 129979412-0-2181
+msgctxt "129979412-0-2181"
+msgid "Defeat the Draugrkin graverobbers and avenge the Pyre Watch."
 msgstr ""

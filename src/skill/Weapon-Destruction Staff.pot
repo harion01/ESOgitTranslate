@@ -11,64 +11,14 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-84434
-msgctxt "132143172-0-84434"
-msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nFiery Rage increases the damage by <<4>>.\n\nIcy Rage immobilizes enemies hit for <<5>>.\n\nThunderous Rage increases the duration by |cffffff2|r seconds."
+#: 132143172-0-45512
+msgctxt "132143172-0-45512"
+msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
 msgstr ""
 
-#: 198758357-0-84434
-msgctxt "198758357-0-84434"
-msgid "Elemental Rage"
-msgstr ""
-
-#: 132143172-0-83642
-msgctxt "132143172-0-83642"
-msgid "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
-msgstr ""
-
-#: 198758357-0-83642
-msgctxt "198758357-0-83642"
-msgid "Eye of the Storm"
-msgstr ""
-
-#: 132143172-0-83619
-msgctxt "132143172-0-83619"
-msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
-msgstr ""
-
-#: 198758357-0-83619
-msgctxt "198758357-0-83619"
-msgid "Elemental Storm"
-msgstr ""
-
-#: 132143172-0-46356
-msgctxt "132143172-0-46356"
-msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>. \n\nUp to 2 nearby enemies will take \n<<4>> if they were already afflicted with Burning, Chilled, or Concussed status effects."
-msgstr ""
-
-#: 198758357-0-46356
-msgctxt "198758357-0-46356"
-msgid "Force Pulse"
-msgstr ""
-
-#: 132143172-0-46348
-msgctxt "132143172-0-46348"
-msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>.\n\nEnemies hit while casting are interrupted, set Off Balance, and stunned for <<4>>."
-msgstr ""
-
-#: 198758357-0-46348
-msgctxt "198758357-0-46348"
-msgid "Crushing Shock"
-msgstr ""
-
-#: 132143172-0-46340
-msgctxt "132143172-0-46340"
-msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>."
-msgstr ""
-
-#: 198758357-0-46340
-msgctxt "198758357-0-46340"
-msgid "Force Shock"
+#: 198758357-0-45512
+msgctxt "198758357-0-45512"
+msgid "Elemental Force"
 msgstr ""
 
 #: 132143172-0-45514
@@ -91,84 +41,14 @@ msgctxt "198758357-0-45513"
 msgid "Ancient Knowledge"
 msgstr ""
 
-#: 132143172-0-45512
-msgctxt "132143172-0-45512"
-msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
+#: 132143172-0-46348
+msgctxt "132143172-0-46348"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>.\n\nEnemies hit while casting are interrupted, set Off Balance, and stunned for <<4>>."
 msgstr ""
 
-#: 198758357-0-45512
-msgctxt "198758357-0-45512"
-msgid "Elemental Force"
-msgstr ""
-
-#: 132143172-0-45509
-msgctxt "132143172-0-45509"
-msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
-msgstr ""
-
-#: 198758357-0-45509
-msgctxt "198758357-0-45509"
-msgid "Penetrating Magic"
-msgstr ""
-
-#: 132143172-0-45500
-msgctxt "132143172-0-45500"
-msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
-msgstr ""
-
-#: 198758357-0-45500
-msgctxt "198758357-0-45500"
-msgid "Tri Focus"
-msgstr ""
-
-#: 132143172-0-39161
-msgctxt "132143172-0-39161"
-msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
-msgstr ""
-
-#: 198758357-0-39161
-msgctxt "198758357-0-39161"
-msgid "Pulsar"
-msgstr ""
-
-#: 132143172-0-39143
-msgctxt "132143172-0-39143"
-msgid "Release a surge of elemental energy, dealing <<1>> to enemies at the target location."
-msgstr ""
-
-#: 198758357-0-39143
-msgctxt "198758357-0-39143"
-msgid "Elemental Ring"
-msgstr ""
-
-#: 132143172-0-39095
-msgctxt "132143172-0-39095"
-msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAlso applies <<4>> to the enemy for <<2>>, causing you and your allies to restore <<5>> Magicka every <<6>> when damaging them."
-msgstr ""
-
-#: 198758357-0-39095
-msgctxt "198758357-0-39095"
-msgid "Elemental Drain"
-msgstr ""
-
-#: 132143172-0-39089
-msgctxt "132143172-0-39089"
-msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAny damage you deal to the enemy refreshes this effect to its maximum duration."
-msgstr ""
-
-#: 198758357-0-39089
-msgctxt "198758357-0-39089"
-msgid "Elemental Susceptibility"
-msgstr ""
-
-#: 132143172-0-39052
-msgctxt "132143172-0-39052"
-msgid "Create an unstable elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> before exploding for an additional <<3>> Magic Damage.\n\nUnstable Wall of Fire deals additional damage to Burning enemies.\n\nUnstable Wall of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nUnstable Wall of Storms sets Concussed enemies Off Balance."
-msgstr ""
-
-#: 198758357-0-39052
-msgctxt "198758357-0-39052"
-msgid "Unstable Wall of Elements"
+#: 198758357-0-46348
+msgctxt "198758357-0-46348"
+msgid "Crushing Shock"
 msgstr ""
 
 #: 132143172-0-39011
@@ -181,46 +61,6 @@ msgctxt "198758357-0-39011"
 msgid "Elemental Blockade"
 msgstr ""
 
-#: 132143172-0-38984
-msgctxt "132143172-0-38984"
-msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>>.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench also immobilizes the enemy.\n\nShock Clench converts the attack into an area of effect explosion."
-msgstr ""
-
-#: 198758357-0-38984
-msgctxt "198758357-0-38984"
-msgid "Destructive Clench"
-msgstr ""
-
-#: 132143172-0-38937
-msgctxt "132143172-0-38937"
-msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
-msgstr ""
-
-#: 198758357-0-38937
-msgctxt "198758357-0-38937"
-msgid "Destructive Reach"
-msgstr ""
-
-#: 132143172-0-30965
-msgctxt "132143172-0-30965"
-msgid "When you kill an enemy with a Destruction Staff ability, you restore <<1>> Magicka."
-msgstr ""
-
-#: 198758357-0-30965
-msgctxt "198758357-0-30965"
-msgid "Destruction Expert"
-msgstr ""
-
-#: 132143172-0-30962
-msgctxt "132143172-0-30962"
-msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
-msgstr ""
-
-#: 198758357-0-30962
-msgctxt "198758357-0-30962"
-msgid "Elemental Force"
-msgstr ""
-
 #: 132143172-0-30959
 msgctxt "132143172-0-30959"
 msgid "Equipping a Flame Staff increases your damage done with single target abilities by <<1>>.\n\nEquipping a Lightning Staff increases your damage done with area of effect abilities by <<2>>.\n\nEquipping a Frost Staff reduces the cost of blocking by |cffffff18|r% and increases the amount of damage you block by <<3>>."
@@ -231,44 +71,14 @@ msgctxt "198758357-0-30959"
 msgid "Ancient Knowledge"
 msgstr ""
 
-#: 132143172-0-30957
-msgctxt "132143172-0-30957"
-msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+#: 132143172-0-39052
+msgctxt "132143172-0-39052"
+msgid "Create an unstable elemental barrier in front of you, dealing <<1>> to enemies in the target area every <<2>> before exploding for an additional <<3>> Magic Damage.\n\nUnstable Wall of Fire deals additional damage to Burning enemies.\n\nUnstable Wall of Frost reduces enemy Movement Speed and immobilizes Chilled enemies.\n\nUnstable Wall of Storms sets Concussed enemies Off Balance."
 msgstr ""
 
-#: 198758357-0-30957
-msgctxt "198758357-0-30957"
-msgid "Penetrating Magic"
-msgstr ""
-
-#: 132143172-0-30948
-msgctxt "132143172-0-30948"
-msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
-msgstr ""
-
-#: 198758357-0-30948
-msgctxt "198758357-0-30948"
-msgid "Tri Focus"
-msgstr ""
-
-#: 132143172-0-29173
-msgctxt "132143172-0-29173"
-msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>."
-msgstr ""
-
-#: 198758357-0-29173
-msgctxt "198758357-0-29173"
-msgid "Weakness to Elements"
-msgstr ""
-
-#: 132143172-0-29091
-msgctxt "132143172-0-29091"
-msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
-msgstr ""
-
-#: 198758357-0-29091
-msgctxt "198758357-0-29091"
-msgid "Destructive Touch"
+#: 198758357-0-39052
+msgctxt "198758357-0-39052"
+msgid "Unstable Wall of Elements"
 msgstr ""
 
 #: 132143172-0-28858
@@ -281,6 +91,106 @@ msgctxt "198758357-0-28858"
 msgid "Wall of Elements"
 msgstr ""
 
+#: 132143172-0-39095
+msgctxt "132143172-0-39095"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAlso applies <<4>> to the enemy for <<2>>, causing you and your allies to restore <<5>> Magicka every <<6>> when damaging them."
+msgstr ""
+
+#: 198758357-0-39095
+msgctxt "198758357-0-39095"
+msgid "Elemental Drain"
+msgstr ""
+
+#: 132143172-0-38984
+msgctxt "132143172-0-38984"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>>.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench also immobilizes the enemy.\n\nShock Clench converts the attack into an area of effect explosion."
+msgstr ""
+
+#: 198758357-0-38984
+msgctxt "198758357-0-38984"
+msgid "Destructive Clench"
+msgstr ""
+
+#: 132143172-0-46340
+msgctxt "132143172-0-46340"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>."
+msgstr ""
+
+#: 198758357-0-46340
+msgctxt "198758357-0-46340"
+msgid "Force Shock"
+msgstr ""
+
+#: 132143172-0-30962
+msgctxt "132143172-0-30962"
+msgid "Increases your chance to apply the Burning, Concussion, and Chilled status effects by <<1>>."
+msgstr ""
+
+#: 198758357-0-30962
+msgctxt "198758357-0-30962"
+msgid "Elemental Force"
+msgstr ""
+
+#: 132143172-0-30965
+msgctxt "132143172-0-30965"
+msgid "When you kill an enemy with a Destruction Staff ability, you restore <<1>> Magicka."
+msgstr ""
+
+#: 198758357-0-30965
+msgctxt "198758357-0-30965"
+msgid "Destruction Expert"
+msgstr ""
+
+#: 132143172-0-45500
+msgctxt "132143172-0-45500"
+msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
+msgstr ""
+
+#: 198758357-0-45500
+msgctxt "198758357-0-45500"
+msgid "Tri Focus"
+msgstr ""
+
+#: 132143172-0-39089
+msgctxt "132143172-0-39089"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>.\n\nAny damage you deal to the enemy refreshes this effect to its maximum duration."
+msgstr ""
+
+#: 198758357-0-39089
+msgctxt "198758357-0-39089"
+msgid "Elemental Susceptibility"
+msgstr ""
+
+#: 132143172-0-39143
+msgctxt "132143172-0-39143"
+msgid "Release a surge of elemental energy, dealing <<1>> to enemies at the target location."
+msgstr ""
+
+#: 198758357-0-39143
+msgctxt "198758357-0-39143"
+msgid "Elemental Ring"
+msgstr ""
+
+#: 132143172-0-46356
+msgctxt "132143172-0-46356"
+msgid "Focus all the elemental energies with your staff and blast an enemy for <<1>>, <<2>>, and <<3>>. \n\nUp to 2 nearby enemies will take \n<<4>> if they were already afflicted with Burning, Chilled, or Concussed status effects."
+msgstr ""
+
+#: 198758357-0-46356
+msgctxt "198758357-0-46356"
+msgid "Force Pulse"
+msgstr ""
+
+#: 132143172-0-30948
+msgctxt "132143172-0-30948"
+msgid "Fully-charged Flame Staff Heavy Attacks deal <<1>> additional damage.\n\nShock Staff Heavy Attacks damage nearby enemies for <<2>> of the damage done.\n\nFully-charged Frost Staff Heavy Attacks taunt the enemy to attack you for <<3>> and grant a damage shield that absorbs <<4>> damage. \n\nWhile a Frost Staff is equipped, blocking costs Magicka instead of Stamina."
+msgstr ""
+
+#: 198758357-0-30948
+msgctxt "198758357-0-30948"
+msgid "Tri Focus"
+msgstr ""
+
 #: 132143172-0-28800
 msgctxt "132143172-0-28800"
 msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies."
@@ -289,4 +199,94 @@ msgstr ""
 #: 198758357-0-28800
 msgctxt "198758357-0-28800"
 msgid "Impulse"
+msgstr ""
+
+#: 132143172-0-45509
+msgctxt "132143172-0-45509"
+msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+msgstr ""
+
+#: 198758357-0-45509
+msgctxt "198758357-0-45509"
+msgid "Penetrating Magic"
+msgstr ""
+
+#: 132143172-0-83619
+msgctxt "132143172-0-83619"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-83619
+msgctxt "198758357-0-83619"
+msgid "Elemental Storm"
+msgstr ""
+
+#: 132143172-0-39161
+msgctxt "132143172-0-39161"
+msgid "Release a surge of elemental energy, dealing <<1>> to nearby enemies and afflicting them with <<2>>, reducing their Max Health by <<3>> for <<4>>."
+msgstr ""
+
+#: 198758357-0-39161
+msgctxt "198758357-0-39161"
+msgid "Pulsar"
+msgstr ""
+
+#: 132143172-0-38937
+msgctxt "132143172-0-38937"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
+msgstr ""
+
+#: 198758357-0-38937
+msgctxt "198758357-0-38937"
+msgid "Destructive Reach"
+msgstr ""
+
+#: 132143172-0-83642
+msgctxt "132143172-0-83642"
+msgid "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing <<1>> every <<2>> for <<3>>."
+msgstr ""
+
+#: 198758357-0-83642
+msgctxt "198758357-0-83642"
+msgid "Eye of the Storm"
+msgstr ""
+
+#: 132143172-0-84434
+msgctxt "132143172-0-84434"
+msgid "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing <<1>> every <<2>> for <<3>>.\n\nFiery Rage increases the damage by <<4>>.\n\nIcy Rage immobilizes enemies hit for <<5>>.\n\nThunderous Rage increases the duration by |cffffff2|r seconds."
+msgstr ""
+
+#: 198758357-0-84434
+msgctxt "198758357-0-84434"
+msgid "Elemental Rage"
+msgstr ""
+
+#: 132143172-0-29091
+msgctxt "132143172-0-29091"
+msgid "Devastate an enemy with an enhanced charge from your staff, dealing <<1>> and an additional <<2>> Magic Damage over <<3>>."
+msgstr ""
+
+#: 198758357-0-29091
+msgctxt "198758357-0-29091"
+msgid "Destructive Touch"
+msgstr ""
+
+#: 132143172-0-30957
+msgctxt "132143172-0-30957"
+msgid "Your Destruction Staff abilities ignore <<1>>% of the enemy's Spell Resistance."
+msgstr ""
+
+#: 198758357-0-30957
+msgctxt "198758357-0-30957"
+msgid "Penetrating Magic"
+msgstr ""
+
+#: 132143172-0-29173
+msgctxt "132143172-0-29173"
+msgid "Send the elements to sap an enemy's defenses and afflict them with <<1>> for <<2>>, reducing their Spell Resistance by <<3>>."
+msgstr ""
+
+#: 198758357-0-29173
+msgctxt "198758357-0-29173"
+msgid "Weakness to Elements"
 msgstr ""

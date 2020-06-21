@@ -11,46 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 139139780-0-6193
-msgctxt "139139780-0-6193"
-msgid "A small bauble filled with colorful powders and enchanted to produce a dazzling display."
-msgstr "カラフルな粉が詰まった小さな宝石。まばゆい光を生み出す魔法が掛かっている"
-
-#: 267697733-0-6193
-msgctxt "267697733-0-6193"
-msgid "Flash Dazzler"
-msgstr "フラッシュダズラー"
-
-#: 139139780-0-6192
-msgctxt "139139780-0-6192"
-msgid "A small bauble filled with colorful powders and enchanted to produce a dazzling display."
-msgstr "カラフルな粉が詰まった小さな宝石。まばゆい光を生み出す魔法が掛かっている"
-
-#: 267697733-0-6192
-msgctxt "267697733-0-6192"
-msgid "Burst Dazzler"
-msgstr "バーストダズラー"
-
-#: 139139780-0-6191
-msgctxt "139139780-0-6191"
-msgid "A small bauble filled with colorful powders and enchanted to produce a dazzling display."
-msgstr "カラフルな粉が詰まった小さな宝石。まばゆい光を生み出す魔法が掛かっている"
-
-#: 267697733-0-6191
-msgctxt "267697733-0-6191"
-msgid "Sparkle Dazzler"
-msgstr "スパークルダズラー"
-
-#: 139139780-0-6187
-msgctxt "139139780-0-6187"
-msgid "Glittery dust that crackles with magical energy."
-msgstr "魔法エネルギーが音を立てる、輝く粉"
-
-#: 267697733-0-6187
-msgctxt "267697733-0-6187"
-msgid "Dragonfire Dust"
-msgstr "ドラゴンファイアダスト"
-
 #: 139139780-0-6186
 msgctxt "139139780-0-6186"
 msgid "The residual magicka saturating these ancient bones should add some kick to any magical mixture."
@@ -71,6 +31,16 @@ msgctxt "267697733-0-6163"
 msgid "Mudcrab Apples"
 msgstr "マッドクラブ・アップル"
 
+#: 139139780-0-6187
+msgctxt "139139780-0-6187"
+msgid "Glittery dust that crackles with magical energy."
+msgstr "魔法エネルギーが音を立てる、輝く粉"
+
+#: 267697733-0-6187
+msgctxt "267697733-0-6187"
+msgid "Dragonfire Dust"
+msgstr "ドラゴンファイアダスト"
+
 #: 139139780-0-6145
 msgctxt "139139780-0-6145"
 msgid "Enchanted clumps of flower petals that will add some springtime flair to any occasion."
@@ -80,3 +50,33 @@ msgstr "あらゆる機会に春を訪れさせる、花びらを振りまく魔
 msgctxt "267697733-0-6145"
 msgid "Petal Pelters"
 msgstr "花吹雪"
+
+#: 139139780-0-6191
+msgctxt "139139780-0-6191"
+msgid "A small bauble filled with colorful powders and enchanted to produce a dazzling display."
+msgstr "カラフルな粉が詰まった小さな宝石。まばゆい光を生み出す魔法が掛かっている"
+
+#: 267697733-0-6191
+msgctxt "267697733-0-6191"
+msgid "Sparkle Dazzler"
+msgstr "スパークルダズラー"
+
+#: 139139780-0-6193
+msgctxt "139139780-0-6193"
+msgid "A small bauble filled with colorful powders and enchanted to produce a dazzling display."
+msgstr "カラフルな粉が詰まった小さな宝石。まばゆい光を生み出す魔法が掛かっている"
+
+#: 267697733-0-6193
+msgctxt "267697733-0-6193"
+msgid "Flash Dazzler"
+msgstr "フラッシュダズラー"
+
+#: 139139780-0-6192
+msgctxt "139139780-0-6192"
+msgid "A small bauble filled with colorful powders and enchanted to produce a dazzling display."
+msgstr "カラフルな粉が詰まった小さな宝石。まばゆい光を生み出す魔法が掛かっている"
+
+#: 267697733-0-6192
+msgctxt "267697733-0-6192"
+msgid "Burst Dazzler"
+msgstr "バーストダズラー"

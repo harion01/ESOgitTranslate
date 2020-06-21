@@ -11,6 +11,66 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 132143172-0-45269
+msgctxt "132143172-0-45269"
+msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
+msgstr ""
+
+#: 198758357-0-45269
+msgctxt "198758357-0-45269"
+msgid "Resist Flame"
+msgstr ""
+
+#: 132143172-0-36591
+msgctxt "132143172-0-36591"
+msgid "Increases your Max Magicka and Max Stamina by <<1>>."
+msgstr ""
+
+#: 198758357-0-36591
+msgctxt "198758357-0-36591"
+msgid "Dynamic"
+msgstr ""
+
+#: 132143172-0-36593
+msgctxt "132143172-0-36593"
+msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
+msgstr ""
+
+#: 198758357-0-36593
+msgctxt "198758357-0-36593"
+msgid "Resist Flame"
+msgstr ""
+
+#: 132143172-0-45265
+msgctxt "132143172-0-45265"
+msgid "Increases your Max Magicka and Max Stamina by <<1>>."
+msgstr ""
+
+#: 198758357-0-45265
+msgctxt "198758357-0-45265"
+msgid "Dynamic"
+msgstr ""
+
+#: 132143172-0-45267
+msgctxt "132143172-0-45267"
+msgid "Increases your Max Magicka and Max Stamina by <<1>>."
+msgstr ""
+
+#: 198758357-0-45267
+msgctxt "198758357-0-45267"
+msgid "Dynamic"
+msgstr ""
+
+#: 132143172-0-36598
+msgctxt "132143172-0-36598"
+msgid "Increases your Weapon and Spell Damage by <<1>>."
+msgstr ""
+
+#: 198758357-0-36598
+msgctxt "198758357-0-36598"
+msgid "Ruination"
+msgstr ""
+
 #: 132143172-0-45272
 msgctxt "132143172-0-45272"
 msgid "Increases your Weapon and Spell Damage by <<1>>."
@@ -19,6 +79,16 @@ msgstr ""
 #: 198758357-0-45272
 msgctxt "198758357-0-45272"
 msgid "Ruination"
+msgstr ""
+
+#: 132143172-0-36588
+msgctxt "132143172-0-36588"
+msgid "Increases your experience gain with the Dual Wield skill line by |cffffff15|r%.\n\nReduces your damage taken from environmental lava by <<1>>."
+msgstr ""
+
+#: 198758357-0-36588
+msgctxt "198758357-0-36588"
+msgid "Ashlander"
 msgstr ""
 
 #: 132143172-0-45271
@@ -39,74 +109,4 @@ msgstr ""
 #: 198758357-0-45270
 msgctxt "198758357-0-45270"
 msgid "Resist Flame"
-msgstr ""
-
-#: 132143172-0-45269
-msgctxt "132143172-0-45269"
-msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
-msgstr ""
-
-#: 198758357-0-45269
-msgctxt "198758357-0-45269"
-msgid "Resist Flame"
-msgstr ""
-
-#: 132143172-0-45267
-msgctxt "132143172-0-45267"
-msgid "Increases your Max Magicka and Max Stamina by <<1>>."
-msgstr ""
-
-#: 198758357-0-45267
-msgctxt "198758357-0-45267"
-msgid "Dynamic"
-msgstr ""
-
-#: 132143172-0-45265
-msgctxt "132143172-0-45265"
-msgid "Increases your Max Magicka and Max Stamina by <<1>>."
-msgstr ""
-
-#: 198758357-0-45265
-msgctxt "198758357-0-45265"
-msgid "Dynamic"
-msgstr ""
-
-#: 132143172-0-36598
-msgctxt "132143172-0-36598"
-msgid "Increases your Weapon and Spell Damage by <<1>>."
-msgstr ""
-
-#: 198758357-0-36598
-msgctxt "198758357-0-36598"
-msgid "Ruination"
-msgstr ""
-
-#: 132143172-0-36593
-msgctxt "132143172-0-36593"
-msgid "Increases your Flame Resistance by <<1>>.\n\nGain immunity to the Burning status effect."
-msgstr ""
-
-#: 198758357-0-36593
-msgctxt "198758357-0-36593"
-msgid "Resist Flame"
-msgstr ""
-
-#: 132143172-0-36591
-msgctxt "132143172-0-36591"
-msgid "Increases your Max Magicka and Max Stamina by <<1>>."
-msgstr ""
-
-#: 198758357-0-36591
-msgctxt "198758357-0-36591"
-msgid "Dynamic"
-msgstr ""
-
-#: 132143172-0-36588
-msgctxt "132143172-0-36588"
-msgid "Increases your experience gain with the Dual Wield skill line by |cffffff15|r%.\n\nReduces your damage taken from environmental lava by <<1>>."
-msgstr ""
-
-#: 198758357-0-36588
-msgctxt "198758357-0-36588"
-msgid "Ashlander"
 msgstr ""

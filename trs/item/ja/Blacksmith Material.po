@@ -11,15 +11,15 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 228378404-0-64489
-msgctxt "228378404-0-64489"
-msgid "An ingredient for crafting metal weapons and armor."
-msgstr "金属の武器や防具のクラフトに使う材料。"
+#: 228378404-0-46129
+msgctxt "228378404-0-46129"
+msgid "An ingredient for crafting metal weapons."
+msgstr "金属製武器を作成するための材料。"
 
-#: 242841733-0-64489
-msgctxt "242841733-0-64489"
-msgid "Rubedite Ingot"
-msgstr "ルベダイトのインゴット"
+#: 242841733-0-46129
+msgctxt "242841733-0-46129"
+msgid "quicksilver ingot"
+msgstr "水銀のインゴット"
 
 #: 228378404-0-6001
 msgctxt "228378404-0-6001"
@@ -31,6 +31,16 @@ msgctxt "242841733-0-6001"
 msgid "ebony ingot"
 msgstr "黒檀のインゴット"
 
+#: 228378404-0-46127
+msgctxt "228378404-0-46127"
+msgid "An ingredient for crafting metal weapons."
+msgstr "金属製武器を作成するための材料。"
+
+#: 242841733-0-46127
+msgctxt "242841733-0-46127"
+msgid "Calcinium ingot"
+msgstr "カルシニウムのインゴット"
+
 #: 228378404-0-6000
 msgctxt "228378404-0-6000"
 msgid "An ingredient for crafting metal weapons."
@@ -40,6 +50,36 @@ msgstr "金属製武器を作成するための材料。"
 msgctxt "242841733-0-6000"
 msgid "dwarven ingot"
 msgstr "ドワーフのインゴット"
+
+#: 228378404-0-46128
+msgctxt "228378404-0-46128"
+msgid "An ingredient for crafting metal weapons."
+msgstr "金属製武器を作成するための材料。"
+
+#: 242841733-0-46128
+msgctxt "242841733-0-46128"
+msgid "Galatite ingot"
+msgstr "ガラタイトのインゴット"
+
+#: 228378404-0-64489
+msgctxt "228378404-0-64489"
+msgid "An ingredient for crafting metal weapons and armor."
+msgstr "金属の武器や防具のクラフトに使う材料。"
+
+#: 242841733-0-64489
+msgctxt "242841733-0-64489"
+msgid "Rubedite Ingot"
+msgstr "ルベダイトのインゴット"
+
+#: 228378404-0-4487
+msgctxt "228378404-0-4487"
+msgid "An ingredient for crafting metal weapons."
+msgstr "金属製武器を作成するための材料。"
+
+#: 242841733-0-4487
+msgctxt "242841733-0-4487"
+msgid "Steel ingot"
+msgstr "鋼鉄のインゴット"
 
 #: 228378404-0-5413
 msgctxt "228378404-0-5413"
@@ -60,46 +100,6 @@ msgstr "金属製武器を作成するための材料。"
 msgctxt "242841733-0-46130"
 msgid "voidstone ingot"
 msgstr "虚無石のインゴット"
-
-#: 228378404-0-46129
-msgctxt "228378404-0-46129"
-msgid "An ingredient for crafting metal weapons."
-msgstr "金属製武器を作成するための材料。"
-
-#: 242841733-0-46129
-msgctxt "242841733-0-46129"
-msgid "quicksilver ingot"
-msgstr "水銀のインゴット"
-
-#: 228378404-0-46128
-msgctxt "228378404-0-46128"
-msgid "An ingredient for crafting metal weapons."
-msgstr "金属製武器を作成するための材料。"
-
-#: 242841733-0-46128
-msgctxt "242841733-0-46128"
-msgid "Galatite ingot"
-msgstr "ガラタイトのインゴット"
-
-#: 228378404-0-46127
-msgctxt "228378404-0-46127"
-msgid "An ingredient for crafting metal weapons."
-msgstr "金属製武器を作成するための材料。"
-
-#: 242841733-0-46127
-msgctxt "242841733-0-46127"
-msgid "Calcinium ingot"
-msgstr "カルシニウムのインゴット"
-
-#: 228378404-0-4487
-msgctxt "228378404-0-4487"
-msgid "An ingredient for crafting metal weapons."
-msgstr "金属製武器を作成するための材料。"
-
-#: 242841733-0-4487
-msgctxt "242841733-0-4487"
-msgid "Steel ingot"
-msgstr "鋼鉄のインゴット"
 
 #: 228378404-0-23107
 msgctxt "228378404-0-23107"

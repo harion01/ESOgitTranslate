@@ -11,24 +11,14 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-70390
-msgctxt "132143172-0-70390"
-msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
+#: 132143172-0-45299
+msgctxt "132143172-0-45299"
+msgid "Increases your Critical Damage and Critical Healing by <<1>>.\n\nDecreases your detection radius in Stealth by <<2>>."
 msgstr ""
 
-#: 198758357-0-70390
-msgctxt "198758357-0-70390"
-msgid "Robustness"
-msgstr ""
-
-#: 132143172-0-70388
-msgctxt "132143172-0-70388"
-msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
-msgstr ""
-
-#: 198758357-0-70388
-msgctxt "198758357-0-70388"
-msgid "Robustness"
+#: 198758357-0-45299
+msgctxt "198758357-0-45299"
+msgid "Feline Ambush"
 msgstr ""
 
 #: 132143172-0-70386
@@ -51,14 +41,14 @@ msgctxt "198758357-0-45301"
 msgid "Feline Ambush"
 msgstr ""
 
-#: 132143172-0-45299
-msgctxt "132143172-0-45299"
-msgid "Increases your Critical Damage and Critical Healing by <<1>>.\n\nDecreases your detection radius in Stealth by <<2>>."
+#: 132143172-0-70388
+msgctxt "132143172-0-70388"
+msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
 msgstr ""
 
-#: 198758357-0-45299
-msgctxt "198758357-0-45299"
-msgid "Feline Ambush"
+#: 198758357-0-70388
+msgctxt "198758357-0-70388"
+msgid "Robustness"
 msgstr ""
 
 #: 132143172-0-36067
@@ -71,14 +61,14 @@ msgctxt "198758357-0-36067"
 msgid "Feline Ambush"
 msgstr ""
 
-#: 132143172-0-36063
-msgctxt "132143172-0-36063"
-msgid "Increases your experience gain with the Medium Armor skill line by |cffffff15|r%.\n\nIncreases your chance to successfully pickpocket by <<1>>."
+#: 132143172-0-117846
+msgctxt "132143172-0-117846"
+msgid "Increase your Maximum Health, Magicka, and Stamina by <<1>>."
 msgstr ""
 
-#: 198758357-0-36063
-msgctxt "198758357-0-36063"
-msgid "Cutpurse"
+#: 198758357-0-117846
+msgctxt "198758357-0-117846"
+msgid "Lunar Blessings"
 msgstr ""
 
 #: 132143172-0-117848
@@ -91,6 +81,16 @@ msgctxt "198758357-0-117848"
 msgid "Lunar Blessings"
 msgstr ""
 
+#: 132143172-0-70390
+msgctxt "132143172-0-70390"
+msgid "Increases your Health Recovery by <<1>> and your Stamina and Magicka Recovery by <<2>>."
+msgstr ""
+
+#: 198758357-0-70390
+msgctxt "198758357-0-70390"
+msgid "Robustness"
+msgstr ""
+
 #: 132143172-0-117847
 msgctxt "132143172-0-117847"
 msgid "Increase your Maximum Health, Magicka, and Stamina by <<1>>."
@@ -101,12 +101,12 @@ msgctxt "198758357-0-117847"
 msgid "Lunar Blessings"
 msgstr ""
 
-#: 132143172-0-117846
-msgctxt "132143172-0-117846"
-msgid "Increase your Maximum Health, Magicka, and Stamina by <<1>>."
+#: 132143172-0-36063
+msgctxt "132143172-0-36063"
+msgid "Increases your experience gain with the Medium Armor skill line by |cffffff15|r%.\n\nIncreases your chance to successfully pickpocket by <<1>>."
 msgstr ""
 
-#: 198758357-0-117846
-msgctxt "198758357-0-117846"
-msgid "Lunar Blessings"
+#: 198758357-0-36063
+msgctxt "198758357-0-36063"
+msgid "Cutpurse"
 msgstr ""

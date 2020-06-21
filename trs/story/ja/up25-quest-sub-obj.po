@@ -11,70 +11,10 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-52093
-msgctxt "256430276-0-52093"
-msgid "Eavesdrop on Goharth's Meeting"
-msgstr "ゴハースの会合を盗み聞きする"
-
-#: 256430276-0-52091
-msgctxt "256430276-0-52091"
-msgid "Listen to Lyris Titanborn"
-msgstr "リリス・ティタンボーンの話を聞く"
-
-#: 256430276-0-52087
-msgctxt "256430276-0-52087"
-msgid "Wait for Goharth Ironbelly"
-msgstr "ゴハース・アイアンベリーを待つ"
-
-#: 256430276-0-52081
-msgctxt "256430276-0-52081"
-msgid "Follow the Magic Trail"
-msgstr "魔法の痕跡を追う"
-
-#: 256430276-0-52079
-msgctxt "256430276-0-52079"
-msgid "Follow the Magic Trail"
-msgstr "魔法の痕跡を追う"
-
-#: 256430276-0-52077
-msgctxt "256430276-0-52077"
-msgid "Follow the Magic Trail"
-msgstr "魔法の痕跡を追う"
-
-#: 256430276-0-52074
-msgctxt "256430276-0-52074"
-msgid "Travel to the Lumber Mill"
-msgstr "製材所へ行く"
-
-#: 256430276-0-52073
-msgctxt "256430276-0-52073"
-msgid "Travel to the Shrine"
-msgstr "祠へ行く"
-
-#: 256430276-0-52072
-msgctxt "256430276-0-52072"
-msgid "Travel to the Overlook"
-msgstr "高台へ行く"
-
-#: 256430276-0-51585
-msgctxt "256430276-0-51585"
-msgid "Return to <<1>>"
-msgstr "<<1>>のところに戻る"
-
 #: 256430276-0-51566
 msgctxt "256430276-0-51566"
 msgid "Return to <<1>>"
 msgstr "<<1>>のところに戻る"
-
-#: 121487972-0-14461
-msgctxt "121487972-0-14461"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
-
-#: 121487972-0-14216
-msgctxt "121487972-0-14216"
-msgid "Talk to Lyris Titanborn"
-msgstr "リリス・ティタンボーンと話す"
 
 #: 121487972-0-14192
 msgctxt "121487972-0-14192"
@@ -85,6 +25,46 @@ msgstr "リリス・ティタンボーンと話す"
 msgctxt "121487972-0-14080"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
+
+#: 256430276-0-52087
+msgctxt "256430276-0-52087"
+msgid "Wait for Goharth Ironbelly"
+msgstr "ゴハース・アイアンベリーを待つ"
+
+#: 121487972-0-14075
+msgctxt "121487972-0-14075"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 256430276-0-52077
+msgctxt "256430276-0-52077"
+msgid "Follow the Magic Trail"
+msgstr "魔法の痕跡を追う"
+
+#: 121487972-0-14074
+msgctxt "121487972-0-14074"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 256430276-0-52074
+msgctxt "256430276-0-52074"
+msgid "Travel to the Lumber Mill"
+msgstr "製材所へ行く"
+
+#: 121487972-0-14073
+msgctxt "121487972-0-14073"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 121487972-0-14072
+msgctxt "121487972-0-14072"
+msgid "Talk to Lyris Titanborn"
+msgstr "リリス・ティタンボーンと話す"
+
+#: 256430276-0-51585
+msgctxt "256430276-0-51585"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
 
 #: 121487972-0-14079
 msgctxt "121487972-0-14079"
@@ -101,22 +81,42 @@ msgctxt "121487972-0-14077"
 msgid "Talk to Shelaria"
 msgstr "シェラリアと話す"
 
-#: 121487972-0-14075
-msgctxt "121487972-0-14075"
+#: 256430276-0-52079
+msgctxt "256430276-0-52079"
+msgid "Follow the Magic Trail"
+msgstr "魔法の痕跡を追う"
+
+#: 121487972-0-14461
+msgctxt "121487972-0-14461"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
 
-#: 121487972-0-14074
-msgctxt "121487972-0-14074"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
+#: 256430276-0-52091
+msgctxt "256430276-0-52091"
+msgid "Listen to Lyris Titanborn"
+msgstr "リリス・ティタンボーンの話を聞く"
 
-#: 121487972-0-14073
-msgctxt "121487972-0-14073"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
+#: 256430276-0-52072
+msgctxt "256430276-0-52072"
+msgid "Travel to the Overlook"
+msgstr "高台へ行く"
 
-#: 121487972-0-14072
-msgctxt "121487972-0-14072"
+#: 256430276-0-52073
+msgctxt "256430276-0-52073"
+msgid "Travel to the Shrine"
+msgstr "祠へ行く"
+
+#: 256430276-0-52081
+msgctxt "256430276-0-52081"
+msgid "Follow the Magic Trail"
+msgstr "魔法の痕跡を追う"
+
+#: 256430276-0-52093
+msgctxt "256430276-0-52093"
+msgid "Eavesdrop on Goharth's Meeting"
+msgstr "ゴハースの会合を盗み聞きする"
+
+#: 121487972-0-14216
+msgctxt "121487972-0-14216"
 msgid "Talk to Lyris Titanborn"
 msgstr "リリス・ティタンボーンと話す"

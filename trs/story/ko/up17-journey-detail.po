@@ -11,20 +11,56 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 103224356-0-47347
-msgctxt "103224356-0-47347"
+#: 103224356-0-46097
+msgctxt "103224356-0-46097"
+msgid "Oracle Marieve sought shelter somewhere inside the Mines of Khuras, I need to find her."
+msgstr "예언자 마리브는 쿠라스 광산 어딘가의 은신처에 있을 것이다. 그녀를 찾아야 한다."
+
+#: 103224356-0-45838
+msgctxt "103224356-0-45838"
+msgid "Sea Elves overrun the ruins of Bewan. I need to get past them and find Oracle Marieve somewhere deeper within the ruins."
+msgstr "베완의 유적 안은 바다 엘프들이 점령하고 있다. 나는 그들을 지나쳐서 유적의 더 깊은 곳으로 가서 예언자 마리브를 찾아야 한다."
+
+#: 103224356-0-45839
+msgctxt "103224356-0-45839"
+msgid "They forced the Oracle through a portal. I should enter the portal and follow her."
+msgstr "그들이 예언자를 포탈로 끌고 간 것 같다. 그녀를 따라서 포탈로 들어가야겠다."
+
+#: 103224356-0-45836
+msgctxt "103224356-0-45836"
+msgid "When I placed the items in the correct ritual bowls, a projection of Oracle Marieve appeared. I should talk to her."
+msgstr "올바른 물건을 의식용 그릇에 담자 예언자 마리브의 투영이 나타났다. 그녀와 이야기해야 한다."
+
+#: 103224356-0-45837
+msgctxt "103224356-0-45837"
+msgid "Oracle Marieve thinks she's being taken to an Aldmeri ruin in Auridon called Bewan. I should go to Bewan and attempt to rescue her."
+msgstr "예언자 마리브는 베완이라고 불리는 아우리돈에 있는 에일리드 유적 안에 있을것이다. 베완으로 가서 그녀를 구해야 한다."
+
+#: 103224356-0-45834
+msgctxt "103224356-0-45834"
+msgid "I should place the items that represent the elements of air, water, and earth in the proper ritual bowls. Vanus believes that will reveal a message from Oracle Marieve."
+msgstr "바누스는 바람, 물, 땅의 속성을 나타내는 물건을 적절한 의식 그릇에 담으면, 예언자 마리브의 메시지를 볼 수 있을 것이라고 생각한다.\n"
+
+#: 103224356-0-45795
+msgctxt "103224356-0-45795"
 msgid "I should talk to Vanus Galerion and find out what happens to the Oracle now."
 msgstr "바누스 갈레리온과 대화해서 예언자는 지금 어떤지 알아봐야겠다."
 
-#: 103224356-0-47346
-msgctxt "103224356-0-47346"
-msgid "I should talk to Vanus Galerion and let him know that the Oracle is safe now."
-msgstr "바누스 갈레리온과 이야기하고 오라클이 이제 안전하다는 것을 그에게 알려주어야 한다."
+#: 103224356-0-45793
+msgctxt "103224356-0-45793"
+msgid "A Wyress thinks that Marieve may have sought shelter in an old Wyrd site inside the Mines of Khuras. I should use Vanus's enchanted boat to travel there."
+msgstr "위어리스는 쿠라스 광산 안에 있는 오래된 위어드의 은신처에서 마리브를  찾을 수 있을 것이라고 생각한다. 그곳으로 여행하기 위해서 바누스가 마법을 걸어둔 보트를 사용해야겠다."
 
-#: 103224356-0-47304
-msgctxt "103224356-0-47304"
-msgid "After I activated the message stone, a projection of Vanus Galerion appeared before me. I should speak to the mage's projection."
-msgstr "메세지 스톤을 활성화하자, 바누스 갈레리온의 투영이 내 앞에 나타났다. 마법사의 투영과 이야기해야겠다."
+#: 103224356-0-46960
+#, fuzzy
+msgctxt "103224356-0-46960"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-45794
+msgctxt "103224356-0-45794"
+msgid "I tracked Oracle Marieve to the old Wyrd site inside the Mines of Khuras, but she isn't here. She left a cryptic note for Vanus. I should use the medallion of summoning he provided and call him here. Maybe he'll notice something I missed."
+msgstr "나는 예언자 마리브를 찾기 위해 쿠라스 광산 안에 있는 오래된 위어드의 영역까지 왔지만, 그녀는 이곳에 없다. 그녀가 바누스에게 비밀 쪽지를 남긴 것 같다. 바누스가 나에게 주었던 소환의 메달을 사용하여 그를 이곳에 불러내야겠다. 그라면 내가 놓친 걸 눈치챌 것이다."
 
 #: 103224356-0-47272
 msgctxt "103224356-0-47272"
@@ -36,10 +72,103 @@ msgctxt "103224356-0-47271"
 msgid "I can collect my cake by finding the baker and his bakery barge in the ports of Vulkhel Guard, Davon's Watch, and the Harbor District of Daggerfall."
 msgstr "벌켈 가드 항구, 데본스 워치, 그리고 대거폴의 항구 구역에서 제빵사와 그의 제빵선을 찾을 수 있다. 제빵사를 만나면 내 케이크를 받을 수 있을 것이다."
 
+#: 103224356-0-45528
+#, fuzzy
+msgctxt "103224356-0-45528"
+msgid "I brought down the barrier preventing our passage into Fang Lair. Yisareh asked me to take the lead and seek out an area where the necromancers practice their craft. Their research may provide some insight into their motives."
+msgstr "나는 Fang Lair 로의 통로를 막는 장벽을 무너 뜨 렸습니다. Yisareh는 나를지도하고 necromancers가 그들의 기술을 실행하는 지역을 찾는 것을 요구했다. 그들의 연구는 그들의 동기에 대한 통찰력을 제공 할 수 있습니다.-G-"
+
+#: 103224356-0-45801
+msgctxt "103224356-0-45801"
+msgid "The medallion of summoning brought Vanus to my location. I should show him the Oracle's note and see what he thinks."
+msgstr "소환의 메달을 이용해 바누스를 이곳까지 데려왔다. 나는 예언자가 그에게 남긴 메모를 보여 주고 그가 어떻게 생각하는지 봐야겠다."
+
+#: 103224356-0-45526
+#, fuzzy
+msgctxt "103224356-0-45526"
+msgid "Yisareh said that a magical barrier is preventing her from delving deeper into Fang Lair. I need to find and disrupt it."
+msgstr "Yisareh는 마법의 장벽이 그녀가 Fang Lair를 더 깊이 파고 들지 못하게한다고 말했습니다. 나는 그것을 찾아 내야한다.-G-"
+
+#: 103224356-0-45802
+msgctxt "103224356-0-45802"
+msgid "Vanus believes the Oracle left a secret message in this cave and the key to unlocking it requires finding elemental items with some connection to air, earth, and water."
+msgstr "바누스는 예언자가 이 동굴에 비밀 메세지를 남겼다고 믿고 있다. 메세지를 받으려면 공기, 땅, 물속성과 관련되어 있는  물건을 찾아야 한다."
+
+#: 103224356-0-45527
+#, fuzzy
+msgctxt "103224356-0-45527"
+msgid "The barrier is being maintained by Lizabet Charnus, a powerful necromancer in the service of this cult's unseen master. Defeating her should bring down the barrier blocking our path."
+msgstr "이 장벽은 Lizabet Charnus에 의해 유지되고 있습니다.이 종교는이 숭배의 눈에 보이지 않는 주인을 섬기고있는 강력한 네크로맨서입니다. 그녀를 물리 치면 우리의 길을 막는 장벽이 무너질 것입니다.-G-"
+
+#: 103224356-0-45843
+msgctxt "103224356-0-45843"
+msgid "I should talk to Oracle Marieve in Skywatch and make sure she's all right."
+msgstr "스카이워치에 있는 예언자 마리브와 대화해서 그녀가 괜찮은지 확인해야 한다."
+
+#: 103224356-0-45524
+#, fuzzy
+msgctxt "103224356-0-45524"
+msgid "I killed Orryn the Black and destroyed his bone dragon, putting an end to the threat he and his cult posed to Tamriel. I should speak to <<1>> about our success."
+msgstr "나는 흑인 오린을 죽이고 그의 뼈 용을 파괴하여 그와 그의 종파가 탐리 엘에게 제기 한 위협에 종지부를 찍었습니다. 나는 우리의 성공에 대해 <<1>>에 대해 이야기해야합니다.-G-"
+
+#: 103224356-0-45525
+#, fuzzy
+msgctxt "103224356-0-45525"
+msgid "The master of the necromancer cult has more than mindless undead at his disposal. He commanded a lich named Caluurion to kill me and now I must destroy him or risk finding myself an undead thrall as well."
+msgstr "네크로맨서 컬트의 주인은 마음에 들지 않는 언데드보다 더 많은 것을 가지고 있습니다. 그는 칼루 리온이라는 이름의 한 리치에게 나를 죽이라는 명령을 내렸지 만, 이제 나는 그를 파괴하거나 죽은 스릴을 스스로 찾아야 만합니다.-G-"
+
+#: 103224356-0-45841
+msgctxt "103224356-0-45841"
+msgid "I need to defeat the weavers, break the binding pinions, and destroy the center fulcrum to set the Oracle free."
+msgstr "예언자를 자유롭게 해주려면 거미줄을 내뿜는 몬스터들을 무찌르고, 구속장치들을 파괴한 후, 중앙의 지렛대까지 파괴해야 한다."
+
+#: 103224356-0-45522
+#, fuzzy
+msgctxt "103224356-0-45522"
+msgid "I destroyed the undead menagerie, but Yisareh seemed puzzled as to why the necromancers would be studying animal bones. She asked me to press onward while she digs into their research."
+msgstr "나는 언데드 동물계를 파괴했지만, 왜 사냥꾼들이 동물의 뼈를 연구하는지에 대해 의아해 보였다. 그녀는 자신의 연구를 파고 들며 계속 전진 해달라고 부탁했다.-G-"
+
+#: 103224356-0-47304
+msgctxt "103224356-0-47304"
+msgid "After I activated the message stone, a projection of Vanus Galerion appeared before me. I should speak to the mage's projection."
+msgstr "메세지 스톤을 활성화하자, 바누스 갈레리온의 투영이 내 앞에 나타났다. 마법사의 투영과 이야기해야겠다."
+
+#: 103224356-0-45842
+msgctxt "103224356-0-45842"
+msgid "Marieve is free. She has enough energy to open a portal. We should leave Mephala's realm before the energy fades."
+msgstr "마리브는 이제 자유다. 그녀는 포탈을 열 만한 충분한 에너지를 가지고 있다. 우리는 마리브의 힘이 사라지기 전에 메팔라의 영역을 떠나야 한다."
+
+#: 103224356-0-45523
+#, fuzzy
+msgctxt "103224356-0-45523"
+msgid "Yisareh was able to speak to Caluurion's spirit after I defeated him. He has no love for the necromancer who bound him to his will and agreed to help us if we free his allies as well. Now I have to find them."
+msgstr "Yisareh는 내가 그를 물리 친 후에 Caluurion의 정신에 말할 수있었습니다. 그는 자신의 의지에 묶인 사악한자를 사랑하지 않으며 우리가 동맹국을 해방시켜 주면 우리를 도우려는 데 동의했습니다. 이제 나는 그들을 찾아야 해.-G-"
+
+#: 103224356-0-47347
+msgctxt "103224356-0-47347"
+msgid "I should talk to Vanus Galerion and find out what happens to the Oracle now."
+msgstr "바누스 갈레리온과 대화해서 예언자는 지금 어떤지 알아봐야겠다."
+
+#: 103224356-0-47346
+msgctxt "103224356-0-47346"
+msgid "I should talk to Vanus Galerion and let him know that the Oracle is safe now."
+msgstr "바누스 갈레리온과 이야기하고 오라클이 이제 안전하다는 것을 그에게 알려주어야 한다."
+
 #: 103224356-0-47269
 msgctxt "103224356-0-47269"
 msgid "Many ingredients can be purchased from local vendors."
 msgstr "많은 재료들은 현지에 있는 상인들에게서 구매할 수 있다."
+
+#: 103224356-0-45840
+msgctxt "103224356-0-45840"
+msgid "The Oracle appears trapped by some sort of Daedric magic and connected to the strange portal behind her. I should talk to her."
+msgstr "예언자는 일종의 데이드릭 마법의 갇혀있는 것 같다. 그녀의 뒤에 있는 이상한 포털에 연결되어 있다. 나는 그녀와 이야기해야 한다."
+
+#: 103224356-0-45521
+#, fuzzy
+msgctxt "103224356-0-45521"
+msgid "I discovered a menagerie of skeletal beasts on display, but their unseen master reanimated them to bar my path. I need to destroy them before Yisareh and I can investigate further."
+msgstr "나는 골격 짐승의 동물을 발견했다. 그러나 보이지 않는 그들의 주인은 그들을 내 삶의 길을 막기 위해 다시 움직였다. 나는 Yisareh 전에 그들을 파괴해야하고 더 조사 할 수 있습니다.-G-"
 
 #: 103224356-0-47268
 msgctxt "103224356-0-47268"
@@ -50,42 +179,6 @@ msgstr "도노론 주방장이 내 케이크를 다 만든 것 같다. 주방장
 msgctxt "103224356-0-47267"
 msgid "Chef Donolon will make me a special Jubilee Cake, but I need to bring him the ingredients he needs to prepare a fresh one. I need to gather or buy bananas, flour, and honey and bring them back to the chef."
 msgstr "도노론 주방장이 특별한 기념일 케이크를 만들어 주겠지만, 갓 만든 케이크를 준비하려면 내가 재료를 모아줘야 한다. 바나나, 밀가루, 그리고 꿀을 구입하던가 혹은 찾아내서 주방장에게 가져다줘야 한다."
-
-#: 103224356-0-46960
-#, fuzzy
-msgctxt "103224356-0-46960"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
-
-#: 103224356-0-46958
-#, fuzzy
-msgctxt "103224356-0-46958"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
-
-#: 103224356-0-46957
-#, fuzzy
-msgctxt "103224356-0-46957"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
-
-#: 103224356-0-46956
-#, fuzzy
-msgctxt "103224356-0-46956"
-msgid "<<1>> presented me with another challenge: invoke Orryn the Black's ritual notes and slay him."
-msgstr "<<1>>은 나에게 또 다른 도전 과제를 제시했다:Orryn the Black의 의식 노트를 불렀고 그를 죽였다.-G-"
-
-#: 103224356-0-46955
-#, fuzzy
-msgctxt "103224356-0-46955"
-msgid "I defeated the Orryn the Black and the necromancers who occupied Fang Lair. I should find <<1>> in my alliance's capital city."
-msgstr "나는 Orryn the Black과 Fang Lair를 점령 한 necromancers를 물리 쳤습니다. 나는 내 동맹의 수도에서 <<1>>을 찾아야한다.-G-"
-
-#: 103224356-0-46954
-#, fuzzy
-msgctxt "103224356-0-46954"
-msgid "I have agreed to do battle in Fang Lair. To be truly Undaunted I must destroy Orryn the Black and his minions."
-msgstr "나는 Fang Lair에서 전투를하기로 동의했다. 진실로 배신 당하지 않기 위해서 나는 흑인과 그의 부하 인 오린을 파괴해야합니다.-G-"
 
 #: 103224356-0-46949
 #, fuzzy
@@ -99,11 +192,11 @@ msgctxt "103224356-0-46947"
 msgid "<<1>> is waiting to speak to me once again in my alliance capital."
 msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
 
-#: 103224356-0-46946
+#: 103224356-0-45539
 #, fuzzy
-msgctxt "103224356-0-46946"
-msgid "<<1>> is waiting to speak to me once again in my alliance capital."
-msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+msgctxt "103224356-0-45539"
+msgid "Our way forward is blocked by two of the ogres' leaders, <<1>> and <<2>>. We'll need to defeat them in order to advance."
+msgstr "우리의 길은 오우거의 리더 중 두 명인 <<1>>과 <<2>>에 의해 차단됩니다. 우리는 진보를 위해 그들을 물리 칠 필요가 있습니다.-G-"
 
 #: 103224356-0-46945
 #, fuzzy
@@ -111,11 +204,28 @@ msgctxt "103224356-0-46945"
 msgid "<<1>> presented me with another challenge: read the Scroll of Glorious Battle and slay Zaan the Scalecaller."
 msgstr "<<1>>은 나에게 또 다른 도전 과제를 안겨주었습니다:영광스러운 전투 스크롤을 읽고 Scalecaller 인 Zaan을 죽이십시오.-G-"
 
-#: 103224356-0-46944
+#: 103224356-0-45537
 #, fuzzy
-msgctxt "103224356-0-46944"
-msgid "I defeated the plagued creatures of Scalecaller Peak. I should find <<1>> in my alliance's capital city."
-msgstr "Scalecaller Peak의 괴롭혀 진 생물을 물리 쳤습니다. 나는 내 동맹의 수도에서 <<1>>을 찾아야한다.-G-"
+msgctxt "103224356-0-45537"
+msgid "We've defeated the giantess. We'll need to continue to climb <<1>> in order to find a way to stop the cultists from spreading their plague."
+msgstr "우리는 거인을 물리 쳤습니다. 우리는 컬 티스트들의 전염병 확산을 막을 방법을 찾기 위해 계속해서 <<1>>을 올라야 할 것입니다.-G-"
+
+#: 103224356-0-46946
+#, fuzzy
+msgctxt "103224356-0-46946"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-46748
+msgctxt "103224356-0-46748"
+msgid "Vanus arranged an enchanted boat to take me to where Marieve was last seen. I should find that boat near the docks."
+msgstr "바누스는 마지막으로 마리브가 목격된 곳으로 나를 보내기 위해서 마법을 걸어둔 보트를 마련해주었다. 부두가 근처로 가서 그 배를 찾아야 한다."
+
+#: 103224356-0-45538
+#, fuzzy
+msgctxt "103224356-0-45538"
+msgid "Jorvuld's companions are trapped on the other side of a broken bridge. We should make our way through the ogre infested caverns in order to rescue them."
+msgstr "Jorvuld의 동료들은 부러진 다리의 다른쪽에 갇혀 있습니다. 우리는 오우거에 감염된 동굴을 통해 그들을 구출해야합니다.-G-"
 
 #: 103224356-0-46943
 #, fuzzy
@@ -123,20 +233,35 @@ msgctxt "103224356-0-46943"
 msgid "I have agreed to climb the hazards of Scalecaller Peak. To be truly Undaunted I must destroy the ogres <<1>> and <<2>>, the gargoyle <<3>>, the giantess <<4>>, <<5>>, and finally <<6>> herself."
 msgstr "Scalecaller Peak의 위험성을 높이기로 동의했습니다. 진정으로 사기성을 내기 위해서 나는 괴물 <<1>>과 <<2>>, 석상 <<3>>, 거인 <<4>>, <<5>>, 마지막으로 <<6>>을 파괴해야합니다. 그녀 자신.-G-"
 
-#: 103224356-0-46751
-msgctxt "103224356-0-46751"
-msgid "I can use Vanus's enchanted boat to travel if I so choose."
-msgstr "만약 내가 원한다면 나는 바누스가 마법을 부여한 보트를 타고 여행을 할수있다."
+#: 103224356-0-45535
+#, fuzzy
+msgctxt "103224356-0-45535"
+msgid "We've found the cult's leader. We should defeat him in order to stop the cult from spreading their plague."
+msgstr "우리는 컬트의 지도자를 찾았습니다. 우리는 컬트가 전염병을 확산시키는 것을 막기 위해 그를 물리쳐야합니다.-G-"
 
-#: 103224356-0-46750
-msgctxt "103224356-0-46750"
-msgid "Vanus Galerion claims to have a message for me from an Oracle. I should talk to him in the Mages Guild and see what this is all about."
-msgstr "바누스 갈레리온은 예언자가 나에게 보낸 메시지를 가지고 있다고 주장하였다. 메이지 길드에 있는 그와 이야기 하고 무슨 일인지를 알아보아야겠다."
+#: 103224356-0-46944
+#, fuzzy
+msgctxt "103224356-0-46944"
+msgid "I defeated the plagued creatures of Scalecaller Peak. I should find <<1>> in my alliance's capital city."
+msgstr "Scalecaller Peak의 괴롭혀 진 생물을 물리 쳤습니다. 나는 내 동맹의 수도에서 <<1>>을 찾아야한다.-G-"
 
-#: 103224356-0-46748
-msgctxt "103224356-0-46748"
-msgid "Vanus arranged an enchanted boat to take me to where Marieve was last seen. I should find that boat near the docks."
-msgstr "바누스는 마지막으로 마리브가 목격된 곳으로 나를 보내기 위해서 마법을 걸어둔 보트를 마련해주었다. 부두가 근처로 가서 그 배를 찾아야 한다."
+#: 103224356-0-45536
+#, fuzzy
+msgctxt "103224356-0-45536"
+msgid "We've stopped the cultists from spreading their plague. I should speak to <<1>> in order to claim my reward."
+msgstr "우리는 컬 티스트들의 전염병 확산을 막았습니다. 내 보상을 청구하려면 <<1>>이라고 말해야합니다.-G-"
+
+#: 103224356-0-45533
+#, fuzzy
+msgctxt "103224356-0-45533"
+msgid "We've entered the temple. We'll need to climb up <<1>> in order to stop the cultists from spreading this plague across Tamriel."
+msgstr "우리는 성전에 들어갔다. 우리는 컬리스트가 Tamriel 전역에서이 전염병을 확산시키는 것을 막기 위해 <<1>>을 올라야합니다.-G-"
+
+#: 103224356-0-45534
+#, fuzzy
+msgctxt "103224356-0-45534"
+msgid "A wrathful giantess blocks our path. We'll need to defeat her in order to advance."
+msgstr "분노한 자이언트가 우리의 길을 막습니다. 앞으로 나아 가기 위해 그녀를 물리 칠 필요가 있습니다.-G-"
 
 #: 103224356-0-46422
 #, fuzzy
@@ -144,95 +269,23 @@ msgctxt "103224356-0-46422"
 msgid "Now that the ogre leaders have been defeated, we should head to the temple's entrance in order to rescue Jorvuld's companions."
 msgstr "오우거 지도자가 패 했으므로 우리는 조르돌의 동반자를 구하기 위해 성전 입구로 향해야합니다.-G-"
 
-#: 103224356-0-46097
-msgctxt "103224356-0-46097"
-msgid "Oracle Marieve sought shelter somewhere inside the Mines of Khuras, I need to find her."
-msgstr "예언자 마리브는 쿠라스 광산 어딘가의 은신처에 있을 것이다. 그녀를 찾아야 한다."
+#: 103224356-0-45531
+#, fuzzy
+msgctxt "103224356-0-45531"
+msgid "I freed Ulfnor and Sabina from Orryn's control. They confirmed that the necromancers intend to reanimate the Dragon. I must find Orryn and prevent him from completing his ritual."
+msgstr "나는 Ulfnor와 Sabina를 Orryn의 통제에서 해방 시켰습니다. 그들은 necromancers가 용을 되찾기를 의도했음을 확인했습니다. Orryn을 찾아서 의식을 완료하지 못하게해야합니다.-G-"
 
-#: 103224356-0-45984
-msgctxt "103224356-0-45984"
-msgid "I appear to be in Mephala's realm, the Spiral Skein. I need to look around and find Oracle Marieve."
-msgstr "나는 메팔라의 영역인 나선 실타래에 있는 것 같다. 나는 주변을 둘러 보면서 예언자 마리브를 찾아야 한다."
+#: 103224356-0-45532
+#, fuzzy
+msgctxt "103224356-0-45532"
+msgid "I found Orryn the Black in the Dragon's old roost, but I was too late to prevent him from completing his reanimation of its bones. I must destroy the bone Dragon and deal with Orryn once and for all."
+msgstr "드래곤의 옛 골목에서 오린 블랙을 찾았지만 너무 늦어서 뼈의 부활을 완료하지 못했습니다. 나는 뼈 드래곤을 파괴해야하고 오린을 한 번에 대해야한다.-G-"
 
-#: 103224356-0-45983
-msgctxt "103224356-0-45983"
-msgid "Daedra swarm around the Oracle's dwelling. I should investigate and figure out what's going on here."
-msgstr "데이드라 무리가 예언자의 거주지 주변을 둘러싸고 있다. 이곳에서 무슨 일이 벌어지는 지 조사해 봐야겠다."
-
-#: 103224356-0-45942
-msgctxt "103224356-0-45942"
-msgid "Now that the binding pinions have been released, I need to destroy the center fulcrum to free the Oracle."
-msgstr "이제 구속 장치들이 파괴되었으니 예언자를 자유롭게 하기 위해서 중앙의 지렛대를 파괴하러 가야한다."
-
-#: 103224356-0-45843
-msgctxt "103224356-0-45843"
-msgid "I should talk to Oracle Marieve in Skywatch and make sure she's all right."
-msgstr "스카이워치에 있는 예언자 마리브와 대화해서 그녀가 괜찮은지 확인해야 한다."
-
-#: 103224356-0-45842
-msgctxt "103224356-0-45842"
-msgid "Marieve is free. She has enough energy to open a portal. We should leave Mephala's realm before the energy fades."
-msgstr "마리브는 이제 자유다. 그녀는 포탈을 열 만한 충분한 에너지를 가지고 있다. 우리는 마리브의 힘이 사라지기 전에 메팔라의 영역을 떠나야 한다."
-
-#: 103224356-0-45841
-msgctxt "103224356-0-45841"
-msgid "I need to defeat the weavers, break the binding pinions, and destroy the center fulcrum to set the Oracle free."
-msgstr "예언자를 자유롭게 해주려면 거미줄을 내뿜는 몬스터들을 무찌르고, 구속장치들을 파괴한 후, 중앙의 지렛대까지 파괴해야 한다."
-
-#: 103224356-0-45840
-msgctxt "103224356-0-45840"
-msgid "The Oracle appears trapped by some sort of Daedric magic and connected to the strange portal behind her. I should talk to her."
-msgstr "예언자는 일종의 데이드릭 마법의 갇혀있는 것 같다. 그녀의 뒤에 있는 이상한 포털에 연결되어 있다. 나는 그녀와 이야기해야 한다."
-
-#: 103224356-0-45839
-msgctxt "103224356-0-45839"
-msgid "They forced the Oracle through a portal. I should enter the portal and follow her."
-msgstr "그들이 예언자를 포탈로 끌고 간 것 같다. 그녀를 따라서 포탈로 들어가야겠다."
-
-#: 103224356-0-45838
-msgctxt "103224356-0-45838"
-msgid "Sea Elves overrun the ruins of Bewan. I need to get past them and find Oracle Marieve somewhere deeper within the ruins."
-msgstr "베완의 유적 안은 바다 엘프들이 점령하고 있다. 나는 그들을 지나쳐서 유적의 더 깊은 곳으로 가서 예언자 마리브를 찾아야 한다."
-
-#: 103224356-0-45837
-msgctxt "103224356-0-45837"
-msgid "Oracle Marieve thinks she's being taken to an Aldmeri ruin in Auridon called Bewan. I should go to Bewan and attempt to rescue her."
-msgstr "예언자 마리브는 베완이라고 불리는 아우리돈에 있는 에일리드 유적 안에 있을것이다. 베완으로 가서 그녀를 구해야 한다."
-
-#: 103224356-0-45836
-msgctxt "103224356-0-45836"
-msgid "When I placed the items in the correct ritual bowls, a projection of Oracle Marieve appeared. I should talk to her."
-msgstr "올바른 물건을 의식용 그릇에 담자 예언자 마리브의 투영이 나타났다. 그녀와 이야기해야 한다."
-
-#: 103224356-0-45834
-msgctxt "103224356-0-45834"
-msgid "I should place the items that represent the elements of air, water, and earth in the proper ritual bowls. Vanus believes that will reveal a message from Oracle Marieve."
-msgstr "바누스는 바람, 물, 땅의 속성을 나타내는 물건을 적절한 의식 그릇에 담으면, 예언자 마리브의 메시지를 볼 수 있을 것이라고 생각한다.\n"
-
-#: 103224356-0-45802
-msgctxt "103224356-0-45802"
-msgid "Vanus believes the Oracle left a secret message in this cave and the key to unlocking it requires finding elemental items with some connection to air, earth, and water."
-msgstr "바누스는 예언자가 이 동굴에 비밀 메세지를 남겼다고 믿고 있다. 메세지를 받으려면 공기, 땅, 물속성과 관련되어 있는  물건을 찾아야 한다."
-
-#: 103224356-0-45801
-msgctxt "103224356-0-45801"
-msgid "The medallion of summoning brought Vanus to my location. I should show him the Oracle's note and see what he thinks."
-msgstr "소환의 메달을 이용해 바누스를 이곳까지 데려왔다. 나는 예언자가 그에게 남긴 메모를 보여 주고 그가 어떻게 생각하는지 봐야겠다."
-
-#: 103224356-0-45795
-msgctxt "103224356-0-45795"
-msgid "I should talk to Vanus Galerion and find out what happens to the Oracle now."
-msgstr "바누스 갈레리온과 대화해서 예언자는 지금 어떤지 알아봐야겠다."
-
-#: 103224356-0-45794
-msgctxt "103224356-0-45794"
-msgid "I tracked Oracle Marieve to the old Wyrd site inside the Mines of Khuras, but she isn't here. She left a cryptic note for Vanus. I should use the medallion of summoning he provided and call him here. Maybe he'll notice something I missed."
-msgstr "나는 예언자 마리브를 찾기 위해 쿠라스 광산 안에 있는 오래된 위어드의 영역까지 왔지만, 그녀는 이곳에 없다. 그녀가 바누스에게 비밀 쪽지를 남긴 것 같다. 바누스가 나에게 주었던 소환의 메달을 사용하여 그를 이곳에 불러내야겠다. 그라면 내가 놓친 걸 눈치챌 것이다."
-
-#: 103224356-0-45793
-msgctxt "103224356-0-45793"
-msgid "A Wyress thinks that Marieve may have sought shelter in an old Wyrd site inside the Mines of Khuras. I should use Vanus's enchanted boat to travel there."
-msgstr "위어리스는 쿠라스 광산 안에 있는 오래된 위어드의 은신처에서 마리브를  찾을 수 있을 것이라고 생각한다. 그곳으로 여행하기 위해서 바누스가 마법을 걸어둔 보트를 사용해야겠다."
+#: 103224356-0-45530
+#, fuzzy
+msgctxt "103224356-0-45530"
+msgid "I found a pair of powerful undead I believe to be Caluurion's allies. To free them from their unwilling service to the necromancers I will have to destroy them."
+msgstr "칼루리온의 동맹군이라고 믿는 한 쌍의 강력한 언데드를 발견했습니다. 그들을 necromancers에 대한 내키지 않는 서비스에서 자유롭게하기 위해 나는 그들을 파괴해야 할 것입니다.-G-"
 
 #: 103224356-0-45791
 msgctxt "103224356-0-45791"
@@ -243,6 +296,46 @@ msgstr "집 안에는 위어리스가 있었다. 하지만 그녀는 예언자�
 msgctxt "103224356-0-45790"
 msgid "Vanus's enchanted boat deposited me near to where the Oracle dwells. The Oracle should be nearby. I should try to find her."
 msgstr "바누스의 마법이 걸린 보트가 나를 예언자가 있는 곳 근처까지 데려다주었다. 예언자가 근처에 있을 테니, 그녀를 찾아봐야 한다."
+
+#: 103224356-0-46958
+#, fuzzy
+msgctxt "103224356-0-46958"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-46956
+#, fuzzy
+msgctxt "103224356-0-46956"
+msgid "<<1>> presented me with another challenge: invoke Orryn the Black's ritual notes and slay him."
+msgstr "<<1>>은 나에게 또 다른 도전 과제를 제시했다:Orryn the Black의 의식 노트를 불렀고 그를 죽였다.-G-"
+
+#: 103224356-0-46957
+#, fuzzy
+msgctxt "103224356-0-46957"
+msgid "<<1>> is waiting to speak to me once again in my alliance capital."
+msgstr "<<1>>은 내 동맹의 수도에서 다시 한번 나와 이야기하기를 기다리고있다.-G-"
+
+#: 103224356-0-46954
+#, fuzzy
+msgctxt "103224356-0-46954"
+msgid "I have agreed to do battle in Fang Lair. To be truly Undaunted I must destroy Orryn the Black and his minions."
+msgstr "나는 Fang Lair에서 전투를하기로 동의했다. 진실로 배신 당하지 않기 위해서 나는 흑인과 그의 부하 인 오린을 파괴해야합니다.-G-"
+
+#: 103224356-0-45942
+msgctxt "103224356-0-45942"
+msgid "Now that the binding pinions have been released, I need to destroy the center fulcrum to free the Oracle."
+msgstr "이제 구속 장치들이 파괴되었으니 예언자를 자유롭게 하기 위해서 중앙의 지렛대를 파괴하러 가야한다."
+
+#: 103224356-0-46955
+#, fuzzy
+msgctxt "103224356-0-46955"
+msgid "I defeated the Orryn the Black and the necromancers who occupied Fang Lair. I should find <<1>> in my alliance's capital city."
+msgstr "나는 Orryn the Black과 Fang Lair를 점령 한 necromancers를 물리 쳤습니다. 나는 내 동맹의 수도에서 <<1>>을 찾아야한다.-G-"
+
+#: 103224356-0-45984
+msgctxt "103224356-0-45984"
+msgid "I appear to be in Mephala's realm, the Spiral Skein. I need to look around and find Oracle Marieve."
+msgstr "나는 메팔라의 영역인 나선 실타래에 있는 것 같다. 나는 주변을 둘러 보면서 예언자 마리브를 찾아야 한다."
 
 #: 103224356-0-45544
 #, fuzzy
@@ -256,116 +349,23 @@ msgctxt "103224356-0-45542"
 msgid "We've discovered that the cult is actually being led by Zaan the Scalecaller, the Dragon Priest from whom this mountain was named. We'll have to climb even further in order to defeat her."
 msgstr "우리는 컬트가 Zaan Scalecaller,이 산의 이름을 지은 드래곤 프리스트에 의해 실제로 인도되고 있음을 발견했습니다. 우리는 그녀를 물리 치기 위해 더 올라야 할 것입니다.-G-"
 
+#: 103224356-0-45983
+msgctxt "103224356-0-45983"
+msgid "Daedra swarm around the Oracle's dwelling. I should investigate and figure out what's going on here."
+msgstr "데이드라 무리가 예언자의 거주지 주변을 둘러싸고 있다. 이곳에서 무슨 일이 벌어지는 지 조사해 봐야겠다."
+
+#: 103224356-0-46750
+msgctxt "103224356-0-46750"
+msgid "Vanus Galerion claims to have a message for me from an Oracle. I should talk to him in the Mages Guild and see what this is all about."
+msgstr "바누스 갈레리온은 예언자가 나에게 보낸 메시지를 가지고 있다고 주장하였다. 메이지 길드에 있는 그와 이야기 하고 무슨 일인지를 알아보아야겠다."
+
 #: 103224356-0-45540
 #, fuzzy
 msgctxt "103224356-0-45540"
 msgid "A powerful gargoyle guards the temple's entrance. We'll need to defeat it if we wish to gain entrance."
 msgstr "강력한 석상이 성전 입구를 지키고 있습니다. 우리가 진출을 원한다면 우리는 그것을 물리 칠 필요가 있습니다.-G-"
 
-#: 103224356-0-45539
-#, fuzzy
-msgctxt "103224356-0-45539"
-msgid "Our way forward is blocked by two of the ogres' leaders, <<1>> and <<2>>. We'll need to defeat them in order to advance."
-msgstr "우리의 길은 오우거의 리더 중 두 명인 <<1>>과 <<2>>에 의해 차단됩니다. 우리는 진보를 위해 그들을 물리 칠 필요가 있습니다.-G-"
-
-#: 103224356-0-45538
-#, fuzzy
-msgctxt "103224356-0-45538"
-msgid "Jorvuld's companions are trapped on the other side of a broken bridge. We should make our way through the ogre infested caverns in order to rescue them."
-msgstr "Jorvuld의 동료들은 부러진 다리의 다른쪽에 갇혀 있습니다. 우리는 오우거에 감염된 동굴을 통해 그들을 구출해야합니다.-G-"
-
-#: 103224356-0-45537
-#, fuzzy
-msgctxt "103224356-0-45537"
-msgid "We've defeated the giantess. We'll need to continue to climb <<1>> in order to find a way to stop the cultists from spreading their plague."
-msgstr "우리는 거인을 물리 쳤습니다. 우리는 컬 티스트들의 전염병 확산을 막을 방법을 찾기 위해 계속해서 <<1>>을 올라야 할 것입니다.-G-"
-
-#: 103224356-0-45536
-#, fuzzy
-msgctxt "103224356-0-45536"
-msgid "We've stopped the cultists from spreading their plague. I should speak to <<1>> in order to claim my reward."
-msgstr "우리는 컬 티스트들의 전염병 확산을 막았습니다. 내 보상을 청구하려면 <<1>>이라고 말해야합니다.-G-"
-
-#: 103224356-0-45535
-#, fuzzy
-msgctxt "103224356-0-45535"
-msgid "We've found the cult's leader. We should defeat him in order to stop the cult from spreading their plague."
-msgstr "우리는 컬트의 지도자를 찾았습니다. 우리는 컬트가 전염병을 확산시키는 것을 막기 위해 그를 물리쳐야합니다.-G-"
-
-#: 103224356-0-45534
-#, fuzzy
-msgctxt "103224356-0-45534"
-msgid "A wrathful giantess blocks our path. We'll need to defeat her in order to advance."
-msgstr "분노한 자이언트가 우리의 길을 막습니다. 앞으로 나아 가기 위해 그녀를 물리 칠 필요가 있습니다.-G-"
-
-#: 103224356-0-45533
-#, fuzzy
-msgctxt "103224356-0-45533"
-msgid "We've entered the temple. We'll need to climb up <<1>> in order to stop the cultists from spreading this plague across Tamriel."
-msgstr "우리는 성전에 들어갔다. 우리는 컬리스트가 Tamriel 전역에서이 전염병을 확산시키는 것을 막기 위해 <<1>>을 올라야합니다.-G-"
-
-#: 103224356-0-45532
-#, fuzzy
-msgctxt "103224356-0-45532"
-msgid "I found Orryn the Black in the Dragon's old roost, but I was too late to prevent him from completing his reanimation of its bones. I must destroy the bone Dragon and deal with Orryn once and for all."
-msgstr "드래곤의 옛 골목에서 오린 블랙을 찾았지만 너무 늦어서 뼈의 부활을 완료하지 못했습니다. 나는 뼈 드래곤을 파괴해야하고 오린을 한 번에 대해야한다.-G-"
-
-#: 103224356-0-45531
-#, fuzzy
-msgctxt "103224356-0-45531"
-msgid "I freed Ulfnor and Sabina from Orryn's control. They confirmed that the necromancers intend to reanimate the Dragon. I must find Orryn and prevent him from completing his ritual."
-msgstr "나는 Ulfnor와 Sabina를 Orryn의 통제에서 해방 시켰습니다. 그들은 necromancers가 용을 되찾기를 의도했음을 확인했습니다. Orryn을 찾아서 의식을 완료하지 못하게해야합니다.-G-"
-
-#: 103224356-0-45530
-#, fuzzy
-msgctxt "103224356-0-45530"
-msgid "I found a pair of powerful undead I believe to be Caluurion's allies. To free them from their unwilling service to the necromancers I will have to destroy them."
-msgstr "칼루리온의 동맹군이라고 믿는 한 쌍의 강력한 언데드를 발견했습니다. 그들을 necromancers에 대한 내키지 않는 서비스에서 자유롭게하기 위해 나는 그들을 파괴해야 할 것입니다.-G-"
-
-#: 103224356-0-45528
-#, fuzzy
-msgctxt "103224356-0-45528"
-msgid "I brought down the barrier preventing our passage into Fang Lair. Yisareh asked me to take the lead and seek out an area where the necromancers practice their craft. Their research may provide some insight into their motives."
-msgstr "나는 Fang Lair 로의 통로를 막는 장벽을 무너 뜨 렸습니다. Yisareh는 나를지도하고 necromancers가 그들의 기술을 실행하는 지역을 찾는 것을 요구했다. 그들의 연구는 그들의 동기에 대한 통찰력을 제공 할 수 있습니다.-G-"
-
-#: 103224356-0-45527
-#, fuzzy
-msgctxt "103224356-0-45527"
-msgid "The barrier is being maintained by Lizabet Charnus, a powerful necromancer in the service of this cult's unseen master. Defeating her should bring down the barrier blocking our path."
-msgstr "이 장벽은 Lizabet Charnus에 의해 유지되고 있습니다.이 종교는이 숭배의 눈에 보이지 않는 주인을 섬기고있는 강력한 네크로맨서입니다. 그녀를 물리 치면 우리의 길을 막는 장벽이 무너질 것입니다.-G-"
-
-#: 103224356-0-45526
-#, fuzzy
-msgctxt "103224356-0-45526"
-msgid "Yisareh said that a magical barrier is preventing her from delving deeper into Fang Lair. I need to find and disrupt it."
-msgstr "Yisareh는 마법의 장벽이 그녀가 Fang Lair를 더 깊이 파고 들지 못하게한다고 말했습니다. 나는 그것을 찾아 내야한다.-G-"
-
-#: 103224356-0-45525
-#, fuzzy
-msgctxt "103224356-0-45525"
-msgid "The master of the necromancer cult has more than mindless undead at his disposal. He commanded a lich named Caluurion to kill me and now I must destroy him or risk finding myself an undead thrall as well."
-msgstr "네크로맨서 컬트의 주인은 마음에 들지 않는 언데드보다 더 많은 것을 가지고 있습니다. 그는 칼루 리온이라는 이름의 한 리치에게 나를 죽이라는 명령을 내렸지 만, 이제 나는 그를 파괴하거나 죽은 스릴을 스스로 찾아야 만합니다.-G-"
-
-#: 103224356-0-45524
-#, fuzzy
-msgctxt "103224356-0-45524"
-msgid "I killed Orryn the Black and destroyed his bone dragon, putting an end to the threat he and his cult posed to Tamriel. I should speak to <<1>> about our success."
-msgstr "나는 흑인 오린을 죽이고 그의 뼈 용을 파괴하여 그와 그의 종파가 탐리 엘에게 제기 한 위협에 종지부를 찍었습니다. 나는 우리의 성공에 대해 <<1>>에 대해 이야기해야합니다.-G-"
-
-#: 103224356-0-45523
-#, fuzzy
-msgctxt "103224356-0-45523"
-msgid "Yisareh was able to speak to Caluurion's spirit after I defeated him. He has no love for the necromancer who bound him to his will and agreed to help us if we free his allies as well. Now I have to find them."
-msgstr "Yisareh는 내가 그를 물리 친 후에 Caluurion의 정신에 말할 수있었습니다. 그는 자신의 의지에 묶인 사악한자를 사랑하지 않으며 우리가 동맹국을 해방시켜 주면 우리를 도우려는 데 동의했습니다. 이제 나는 그들을 찾아야 해.-G-"
-
-#: 103224356-0-45522
-#, fuzzy
-msgctxt "103224356-0-45522"
-msgid "I destroyed the undead menagerie, but Yisareh seemed puzzled as to why the necromancers would be studying animal bones. She asked me to press onward while she digs into their research."
-msgstr "나는 언데드 동물계를 파괴했지만, 왜 사냥꾼들이 동물의 뼈를 연구하는지에 대해 의아해 보였다. 그녀는 자신의 연구를 파고 들며 계속 전진 해달라고 부탁했다.-G-"
-
-#: 103224356-0-45521
-#, fuzzy
-msgctxt "103224356-0-45521"
-msgid "I discovered a menagerie of skeletal beasts on display, but their unseen master reanimated them to bar my path. I need to destroy them before Yisareh and I can investigate further."
-msgstr "나는 골격 짐승의 동물을 발견했다. 그러나 보이지 않는 그들의 주인은 그들을 내 삶의 길을 막기 위해 다시 움직였다. 나는 Yisareh 전에 그들을 파괴해야하고 더 조사 할 수 있습니다.-G-"
+#: 103224356-0-46751
+msgctxt "103224356-0-46751"
+msgid "I can use Vanus's enchanted boat to travel if I so choose."
+msgstr "만약 내가 원한다면 나는 바누스가 마법을 부여한 보트를 타고 여행을 할수있다."

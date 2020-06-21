@@ -11,37 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 70901198-0-518
+#: 70901198-0-1080
 #, fuzzy
-msgctxt "70901198-0-518"
-msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means ""old ironwood."" Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
-msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 \"\"낡은 철의 숲\"\"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 만약 그렇다면, 바람대로 이루어진 것처럼 보인다."
+msgctxt "70901198-0-1080"
+msgid """Mhuvnak was known as one of the most gifted builders of architecture in Dwemereth, greatly expanding their underground kingdom with ingenious constructs until his disappearance on an expedition deep into Nord lands."" —Guylaine Marilie"
+msgstr "\"\"무브낙은 드웨머레스에서 가장 재능있는 건축가로 알려져 있었으며 드웨머의 지하왕국을 독창적인 건축물로 크게 확장시켰지만 노드 땅 깊숙히 탐험을 떠난후 실종 되었다.\"\" - 구이레인 마릴리에"
 
-#: 162658389-0-518
-msgctxt "162658389-0-518"
-msgid "Eld Angavar"
-msgstr "엘드 앙가바 (Eld Angavar)"
-
-#: 70901198-0-517
-#, fuzzy
-msgctxt "70901198-0-517"
-msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means ""old ironwood."" Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
-msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 \"\"낡은 철의 숲\"\"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 만약 그렇다면, 바람대로 이루어진 것처럼 보인다."
-
-#: 162658389-0-517
-msgctxt "162658389-0-517"
-msgid "Eld Angavar"
-msgstr "엘드 앙가바 (Eld Angavar)"
-
-#: 70901198-0-516
-msgctxt "70901198-0-516"
-msgid "The crumbling Dwarven fortifications of Ald Carac are said to date to the time of the War of the First Council, early in the First Era."
-msgstr "이 무너질 듯한 드워프의 보루, 알드 카락은 제 1시대 초기, 첫번째 공의회의 전쟁 시대 때부터 존재한다고 전해집니다."
-
-#: 162658389-0-516
-msgctxt "162658389-0-516"
-msgid "Ald Carac"
-msgstr "알드 카락 (Ald Carac)"
+#: 162658389-0-1080
+msgctxt "162658389-0-1080"
+msgid "Frostvault"
+msgstr "서리금고 (Frostvault)"
 
 #: 70901198-0-1126
 #, fuzzy
@@ -64,6 +43,16 @@ msgctxt "162658389-0-1125"
 msgid "Frostvault Chasm"
 msgstr "서리금고의 틈 (Frostvault Chasm)"
 
+#: 70901198-0-516
+msgctxt "70901198-0-516"
+msgid "The crumbling Dwarven fortifications of Ald Carac are said to date to the time of the War of the First Council, early in the First Era."
+msgstr "이 무너질 듯한 드워프의 보루, 알드 카락은 제 1시대 초기, 첫번째 공의회의 전쟁 시대 때부터 존재한다고 전해집니다."
+
+#: 162658389-0-516
+msgctxt "162658389-0-516"
+msgid "Ald Carac"
+msgstr "알드 카락 (Ald Carac)"
+
 #: 70901198-0-1085
 msgctxt "70901198-0-1085"
 msgid "These vast subterranean vaults have stood in Southern Elsweyr since before the beginning of recorded history, but no one knows who built them or why. At least one section of the Halls seems to have been occupied or used by other parties in the interim."
@@ -73,6 +62,28 @@ msgstr "이 거대한 지하 금고들은 역사가 기록되기 이전부터 �
 msgctxt "162658389-0-1085"
 msgid "Halls of Colossus"
 msgstr "콜로서스의 홀 (Halls of Colossus)"
+
+#: 70901198-0-517
+#, fuzzy
+msgctxt "70901198-0-517"
+msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means ""old ironwood."" Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
+msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 \"\"낡은 철의 숲\"\"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 만약 그렇다면, 바람대로 이루어진 것처럼 보인다."
+
+#: 162658389-0-517
+msgctxt "162658389-0-517"
+msgid "Eld Angavar"
+msgstr "엘드 앙가바 (Eld Angavar)"
+
+#: 70901198-0-518
+#, fuzzy
+msgctxt "70901198-0-518"
+msgid "In Ayleidoon, the lost language of the Wild Elves, Eld Angavar means ""old ironwood."" Perhaps the Ayleids hoped such a name would grant permanence to this strange site between worlds. If so, it seems to have worked."
+msgstr "에일레이둔에서 야생 엘프의 잃어버린 언어로 엘드 앙가바 라는 것은 \"\"낡은 철의 숲\"\"을 뜻한다.  에일리드들은 이러한 기묘한 이름을 붙임으로써 이 기묘한 장소가 그대로 유지되기를 바랬을지 모른다. 만약 그렇다면, 바람대로 이루어진 것처럼 보인다."
+
+#: 162658389-0-518
+msgctxt "162658389-0-518"
+msgid "Eld Angavar"
+msgstr "엘드 앙가바 (Eld Angavar)"
 
 #: 70901198-0-1081
 #, fuzzy
@@ -84,14 +95,3 @@ msgstr "\"\"나릴모어의 동상에서 뿜어져 나온 빛은 아비시안 �
 msgctxt "162658389-0-1081"
 msgid "Depths of Malatar"
 msgstr "말라타의 심연 (Depths of Malatar)"
-
-#: 70901198-0-1080
-#, fuzzy
-msgctxt "70901198-0-1080"
-msgid """Mhuvnak was known as one of the most gifted builders of architecture in Dwemereth, greatly expanding their underground kingdom with ingenious constructs until his disappearance on an expedition deep into Nord lands."" —Guylaine Marilie"
-msgstr "\"\"무브낙은 드웨머레스에서 가장 재능있는 건축가로 알려져 있었으며 드웨머의 지하왕국을 독창적인 건축물로 크게 확장시켰지만 노드 땅 깊숙히 탐험을 떠난후 실종 되었다.\"\" - 구이레인 마릴리에"
-
-#: 162658389-0-1080
-msgctxt "162658389-0-1080"
-msgid "Frostvault"
-msgstr "서리금고 (Frostvault)"

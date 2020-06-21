@@ -11,31 +11,6 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 256430276-0-47346
-msgctxt "256430276-0-47346"
-msgid "Talk to Vanus Galerion"
-msgstr "ヴァヌス・ガレリオンと話す"
-
-#: 256430276-0-46955
-msgctxt "256430276-0-46955"
-msgid "Return to <<1>>"
-msgstr "<<1>>のところに戻る"
-
-#: 256430276-0-46944
-msgctxt "256430276-0-46944"
-msgid "Return to <<1>>"
-msgstr "<<1>>のところに戻る"
-
-#: 256430276-0-46750
-msgctxt "256430276-0-46750"
-msgid "Talk to Vanus Galerion in the Mages Guild"
-msgstr "魔術師ギルドでヴァヌス・ガレリオンと話す"
-
-#: 256430276-0-45983
-msgctxt "256430276-0-45983"
-msgid "Investigate the Oracle's Dwelling"
-msgstr "予言者の住居を調べる"
-
 #: 256430276-0-45790
 msgctxt "256430276-0-45790"
 msgid "Find the Oracle of the Wyrd"
@@ -45,26 +20,6 @@ msgstr "ウィルドの予言者を探す"
 msgctxt "121487972-0-13232"
 msgid "Talk to Vanus Galerion"
 msgstr "ヴァヌス・ガレリオンと話す"
-
-#: 121487972-0-13212
-msgctxt "121487972-0-13212"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
-
-#: 121487972-0-13159
-msgctxt "121487972-0-13159"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
-
-#: 121487972-0-13158
-msgctxt "121487972-0-13158"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
-
-#: 121487972-0-13157
-msgctxt "121487972-0-13157"
-msgid "Talk to <<1>>"
-msgstr "<<1>>と話す"
 
 #: 121487972-0-13155
 msgctxt "121487972-0-13155"
@@ -81,13 +36,28 @@ msgctxt "121487972-0-13153"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
 
-#: 121487972-0-12931
-msgctxt "121487972-0-12931"
-msgid "Talk to Vanus Galerion"
-msgstr "ヴァヌス・ガレリオンと話す"
+#: 121487972-0-13159
+msgctxt "121487972-0-13159"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
 
 #: 121487972-0-12861
 msgctxt "121487972-0-12861"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 121487972-0-13158
+msgctxt "121487972-0-13158"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 121487972-0-13212
+msgctxt "121487972-0-13212"
+msgid "Talk to <<1>>"
+msgstr "<<1>>と話す"
+
+#: 121487972-0-13157
+msgctxt "121487972-0-13157"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
 
@@ -95,3 +65,33 @@ msgstr "<<1>>と話す"
 msgctxt "121487972-0-12860"
 msgid "Talk to <<1>>"
 msgstr "<<1>>と話す"
+
+#: 121487972-0-12931
+msgctxt "121487972-0-12931"
+msgid "Talk to Vanus Galerion"
+msgstr "ヴァヌス・ガレリオンと話す"
+
+#: 256430276-0-46955
+msgctxt "256430276-0-46955"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 256430276-0-46944
+msgctxt "256430276-0-46944"
+msgid "Return to <<1>>"
+msgstr "<<1>>のところに戻る"
+
+#: 256430276-0-47346
+msgctxt "256430276-0-47346"
+msgid "Talk to Vanus Galerion"
+msgstr "ヴァヌス・ガレリオンと話す"
+
+#: 256430276-0-45983
+msgctxt "256430276-0-45983"
+msgid "Investigate the Oracle's Dwelling"
+msgstr "予言者の住居を調べる"
+
+#: 256430276-0-46750
+msgctxt "256430276-0-46750"
+msgid "Talk to Vanus Galerion in the Mages Guild"
+msgstr "魔術師ギルドでヴァヌス・ガレリオンと話す"

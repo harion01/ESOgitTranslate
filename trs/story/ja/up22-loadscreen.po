@@ -11,54 +11,16 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
+#: 162658389-0-1116
+msgctxt "162658389-0-1116"
+msgid "Moon Gate"
+msgstr "Moon Gate"
+
 #: 70901198-0-774
 #, fuzzy
 msgctxt "70901198-0-774"
 msgid """Sometimes objects are loose and uncontained, being neither in pocket, in drawer, nor in hand. Such objects are abandoned and may be lawfully salvaged. It is proper and commendable for a Baandari to salvage an object thus abandoned, for a Baandari is thrifty and deplores waste."" —Semsirr-dar"
 msgstr "「対象物が緩んで何も入っていないことがある。ポケットや引き出し、手の中から落ちることが。こうした物は破棄されたものと見なし、合法的に入手される。バーンダリでは、こうして捨てられたものを入手するのは適切であり推奨される。バーンダリは倹約家で無駄を嘆くからである」 — セムシル・ダール"
-
-#: 70901198-0-525
-#, fuzzy
-msgctxt "70901198-0-525"
-msgid """Wry without equal, Sheogorath holds in his realm giggling loons, flamboyant auteurs, and craven mutilators. The Mad Prince will ply profitless bargains and promote senseless bloodshed for nothing more than the joy of another's confusion, tragedy, or rage."" —16 Accords of Madness"
-msgstr "「比類なき皮肉さを持つシェオゴラスは、クスクス笑う愚か者と、派手な作家、臆病な切断者を、自らの領域に抱え込んでいる。憤怒のデイドラ公は得をしない駆け引きに精を出し、他者の混乱と悲劇と憤激がもたらす喜びに過ぎない無意味な流血を促すだろう」――狂気の十六の協約"
-
-#: 162658389-0-525
-msgctxt "162658389-0-525"
-msgid "Cheesemonger Hollow"
-msgstr "チーズ職人の洞穴"
-
-#: 70901198-0-1130
-#, fuzzy
-msgctxt "70901198-0-1130"
-msgid "Few adeptoriums can match the hallowed majesty of Jode's Embrace. Rumor has it that the temple's worthiest occupants can peer into the sacred realm of Jode itself. Just keep an eye out for Dragons overhead!"
-msgstr "ジョーデの抱擁ほど神聖で雄大な僧房は少ない。噂によると、この聖堂で最も地位の高い者は、ジョーデ自身の神聖な領域を覗けるらしい。ただし、頭上のドラゴンには気を付けよう！"
-
-#: 162658389-0-1130
-msgctxt "162658389-0-1130"
-msgid "Jode's Embrace"
-msgstr "ジョーデの抱擁"
-
-#: 70901198-0-1129
-#, fuzzy
-msgctxt "70901198-0-1129"
-msgid "The Khajiit of Elsweyr built this awesome temple as a tribute to the legendary hero, Khunzar-ri. Elsweyr's greatest champions may assume stewardship of the Hall, but only the most patient and cunning will discover all of its secrets!"
-msgstr "エルスウェアのカジートはこの素晴らしい聖堂を、伝説の英雄クンザ・リを称えるために作った。エルスウェア最高の勇者はこの広間の管理を引き受けることになっているが、聖堂の秘密を全て発見できるのは、最も忍耐強く賢い者だけだ！"
-
-#: 162658389-0-1129
-msgctxt "162658389-0-1129"
-msgid "Hall of the Lunar Champion"
-msgstr "月の勇者の広間"
-
-#: 70901198-0-1128
-msgctxt "70901198-0-1128"
-msgid "Those seeking a respite from the heat and bustle of Rimmen's crowded streets can find it in this cozy suite. Easy access to Rimmen's amenities—both legal and illicit—make this the perfect abode for adventurers on the go."
-msgstr "リンメンの混雑した街道の熱気と、忙しさからの休息を求めるなら、この温かい部屋に見出せるだろう。合法、違法を問わずリンメンの品へ気軽に触れられる立地により、忙しい冒険者に最適の滞在場所となっている。"
-
-#: 162658389-0-1128
-msgctxt "162658389-0-1128"
-msgid "Sugar Bowl Suite"
-msgstr "〈シュガーボウル〉の特別室"
 
 #: 70901198-0-1121
 msgctxt "70901198-0-1121"
@@ -69,6 +31,16 @@ msgstr "リドル・サールの啓示によってラウル・ハ聖堂が優勢
 msgctxt "162658389-0-1121"
 msgid "Sunspire"
 msgstr "サンスパイア"
+
+#: 70901198-0-1088
+msgctxt "70901198-0-1088"
+msgid "A complex gravity-fed hydraulic system feeds the canals and fountains of Rimmen. In fact, it's so complex that the current rulers aren't even aware that it's drained by underground conduits with a hidden maintenance vault that serves as the city's Outlaws Refuge."
+msgstr "リンメンの運河と泉には、重力を利用した複雑な水道システムによって水が供給されている。実際のところ複雑過ぎて現在の支配者は、地下の導管によって隠された保管地下室へ水が盗まれていることに気付いていない。そこは無法者の隠れ家となっている。"
+
+#: 162658389-0-1088
+msgctxt "162658389-0-1088"
+msgid "Rimmen Outlaws Refuge"
+msgstr "リンメンの無法者の隠れ家"
 
 #: 70901198-0-1120
 #, fuzzy
@@ -81,19 +53,17 @@ msgctxt "162658389-0-1120"
 msgid "Meirvale Keep"
 msgstr "メイアヴェイル・キープ"
 
-#: 70901198-0-1119
-#, fuzzy
-msgctxt "70901198-0-1119"
-msgid "These extensive subterranean halls date back to the early First Era time of Darloc Brae, the ""Golden Beast"" who conquered all of Anequina. Khajiiti tradition holds that this place was built as a refuge for those fleeing the Golden Beast, but its original name has been forgotten."
-msgstr "この地下に広がった洞窟は、第一紀初頭、アネクイナ全土を征服した「ゴールデンビースト」ダルロック・ブレイの時代に遡る。カジートによれば、この場所はゴールデンビーストから逃れた人々の隠れ家として建てられたようだが、元の名は忘れられている。"
+#: 70901198-0-1086
+msgctxt "70901198-0-1086"
+msgid "This region, also known as Anequina, merged with the southern region of Pellitine several centuries ago to form the province of Elsweyr. It's a patchwork that united many former small kingdoms, including Rimmen, Orcrest, Riverhold, and Meirvale."
+msgstr "アネクイナとも呼ばれているこの地域は、数百年前に南のペレタイン地域と合併してエルスウェアとなった。リンメン、オークレスト、リバーホールド、メイアヴェイルなど、元々あった多くの小王国が寄せ集められた場所である。"
 
-#: 162658389-0-1119
-msgctxt "162658389-0-1119"
-msgid "Desert Wind Caverns"
-msgstr "砂漠の風の洞窟"
+#: 162658389-0-1086
+msgctxt "162658389-0-1086"
+msgid "Northern Elsweyr"
+msgstr "北エルスウェア"
 
 #: 70901198-0-1118
-#, fuzzy
 msgctxt "70901198-0-1118"
 msgid "This is where it happened, the incident that led to the abolition of the Adepts of the Dancing Shadows. All details of the atrocity were expunged from the Moon-Bishops' archives by decree of the Two Moons Assizes."
 msgstr "踊る影のアデプトたちを根絶する事件が起こったのはこの場所だ。双子月の裁判の評決により、罪の詳細は月の司祭の記録から消されている。"
@@ -114,10 +84,10 @@ msgctxt "162658389-0-1117"
 msgid "Shadow Dance Temple"
 msgstr "影の踊りの聖堂"
 
-#: 162658389-0-1116
-msgctxt "162658389-0-1116"
-msgid "Moon Gate"
-msgstr "Moon Gate"
+#: 70901198-0-1115
+msgctxt "70901198-0-1115"
+msgid "The pockmarked geography of Northern Elsweyr includes more than a few extensive limestone caves, some of which were expanded by Khajiiti miners in search of the quartz crystals prized by the cat-folk."
+msgstr "北エルスウェアにあるこの窪地には、たくさんの石灰岩洞窟がある。一部は猫の民が珍重するクウォーツを発掘するため、カジートの鉱員によって拡張された。"
 
 #: 162658389-0-1115
 msgctxt "162658389-0-1115"
@@ -167,6 +137,37 @@ msgctxt "162658389-0-1111"
 msgid "Cicatrice Caverns"
 msgstr "シカトリス洞窟"
 
+#: 70901198-0-1119
+#, fuzzy
+msgctxt "70901198-0-1119"
+msgid "These extensive subterranean halls date back to the early First Era time of Darloc Brae, the ""Golden Beast"" who conquered all of Anequina. Khajiiti tradition holds that this place was built as a refuge for those fleeing the Golden Beast, but its original name has been forgotten."
+msgstr "この地下に広がった洞窟は、第一紀初頭、アネクイナ全土を征服した「ゴールデンビースト」ダルロック・ブレイの時代に遡る。カジートによれば、この場所はゴールデンビーストから逃れた人々の隠れ家として建てられたようだが、元の名は忘れられている。"
+
+#: 162658389-0-1119
+msgctxt "162658389-0-1119"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
+
+#: 70901198-0-1091
+msgctxt "70901198-0-1091"
+msgid "For the Khajiit, Mafala is the Clan Mother of Dark Secrets, the recorder of hidden guilt and eternal shame. This fallen temple was once the center of her worship, before the Sinner Suicides brought her cult into disfavor. Now it hosts … others."
+msgstr "カジートにとって、マファラは闇の秘密のクランマザーにして、隠された罪と永遠の恥の記録者だった。この堕ちた聖堂はかつて崇拝の中心地だったが、罪深き自殺によって彼女の教団は不興を買ってしまった。今では… 別の者が住み着いている。"
+
+#: 162658389-0-1091
+msgctxt "162658389-0-1091"
+msgid "Abode of Ignominy"
+msgstr "不名誉の家"
+
+#: 70901198-0-1090
+msgctxt "70901198-0-1090"
+msgid "The once-thriving town of Orcrest may be the location in Northern Elsweyr that was hardest hit by the Knahaten Flu and the breakdown of society that followed. Abandoned and haunted by its own dead, Orcrest is now a place of dread for the nearby surviving Khajiit."
+msgstr "かつて繁栄したオークレストの街は、北エルスウェアで最も激しくナハテン風邪に襲われた場所であり、それによって崩壊した。放棄されて死者に祟られたオークレストは、近くの生き残ったカジートにとって恐怖の場所となっている。"
+
+#: 162658389-0-1090
+msgctxt "162658389-0-1090"
+msgid "Orcrest"
+msgstr "オークレスト"
+
 #: 70901198-0-1110
 #, fuzzy
 msgctxt "70901198-0-1110"
@@ -177,6 +178,106 @@ msgstr "「スカーに隠されたアカヴィルの祠がある？ 最高顧�
 msgctxt "162658389-0-1110"
 msgid "Dov-Vahl Shrine"
 msgstr "ドヴ・ヴァールの祠"
+
+#: 70901198-0-1099
+msgctxt "70901198-0-1099"
+msgid "Given its strategic location, Rimmen was always one of the most prosperous of the old Sixteen Kingdoms. The eclectic splendor of Rimmen Palace reflects the city-state's history of grandeur."
+msgstr "戦略的に重要な立地により、リンメンは常に十六王国でも屈指の富を誇っていた。壮麗なリンメン宮殿は、この都市国家が繁栄した歴史を示している。"
+
+#: 162658389-0-1099
+msgctxt "162658389-0-1099"
+msgid "Rimmen Palace"
+msgstr "リンメン宮殿"
+
+#: 70901198-0-1098
+msgctxt "70901198-0-1098"
+msgid "A trading crossroads on the border of Cyrodiil, control of the town of Riverhold has gone back and forth between Anequina and the West Weald for centuries. Culturally, however, the town has always been Khajiit."
+msgstr "シロディール国境の交易経由地として、リバーホールドの街の支配権はアネクイナとウェストウィールドの間で揺れ動いた。現在、この街はカジートのものだ。"
+
+#: 162658389-0-1098
+msgctxt "162658389-0-1098"
+msgid "Riverhold"
+msgstr "リバーホールド"
+
+#: 70901198-0-1130
+msgctxt "70901198-0-1130"
+msgid "Few adeptoriums can match the hallowed majesty of Jode's Embrace. Rumor has it that the temple's worthiest occupants can peer into the sacred realm of Jode itself. Just keep an eye out for Dragons overhead!"
+msgstr "ジョーデの抱擁ほど神聖で雄大な僧房は少ない。噂によると、この聖堂で最も地位の高い者は、ジョーデ自身の神聖な領域を覗けるらしい。ただし、頭上のドラゴンには気を付けよう！"
+
+#: 162658389-0-1130
+msgctxt "162658389-0-1130"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 70901198-0-1097
+msgctxt "70901198-0-1097"
+msgid "During the construction boom in Cyrodiil during the Second Empire, the Sleepy Senche Mine exported limestone to builders in the north. When the Empire collapsed, the mine was shut down."
+msgstr "第二帝国期にシロディールで建設ブームが起きると、眠そうなセンチ鉱山は石灰岩を北の大工に輸出した。帝国が崩壊し、鉱山は閉鎖された。"
+
+#: 162658389-0-1097
+msgctxt "162658389-0-1097"
+msgid "Sleepy Senche Mine"
+msgstr "眠そうなセンチ鉱山"
+
+#: 70901198-0-1096
+msgctxt "70901198-0-1096"
+msgid "In times of war and disaster, the ruthless among the deserters and dispossessed often turn to banditry to survive, establishing lairs and hideaways in out-of-the-way locations."
+msgstr "戦争と災害の時代に、脱走兵や流民の中で無慈悲な者の多くは山賊となって、街道を外れた場所に巣窟や拠点を作る。"
+
+#: 162658389-0-1096
+msgctxt "162658389-0-1096"
+msgid "The Tangle"
+msgstr "タングル"
+
+#: 70901198-0-1095
+msgctxt "70901198-0-1095"
+msgid "These pits were originally carved out as salt and sulfur mines back in the days of the terrible Darloc Brae, who dedicated the digs to his Daedric patron, Merrunz. Abandoned for generations, the mines were recently reopened."
+msgstr "この鉱山は元々、デイドラの守護者、マールンズを崇拝していた恐ろしいダルロック・ブレイの時代に塩や硫黄を採掘するために掘られた。長く放棄されていたが、この鉱山は最近再び採掘されるようになった。"
+
+#: 162658389-0-1095
+msgctxt "162658389-0-1095"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 70901198-0-1094
+msgctxt "70901198-0-1094"
+msgid "When the Second Empire fell, many Akaviri-descended Imperials fell with it. As scapegoats for the excesses of the Potentates, they were denied burial in Cyrodiil, but were granted this tomb in Elsweyr to inter their honored dead."
+msgstr "第二帝国が崩壊した時、多くのアカヴィリを祖先とするインペリアルは運命を共にした。最高顧問の罪を非難するため、彼らはシロディールでの埋葬を拒否された。しかし彼らはこの墳墓をエルスウェアに与えられ、名誉ある死者と交流できるようになった。"
+
+#: 162658389-0-1094
+msgctxt "162658389-0-1094"
+msgid "Tomb of the Serpents"
+msgstr "大蛇の墳墓"
+
+#: 70901198-0-1092
+msgctxt "70901198-0-1092"
+msgid "Since time out of mind, the hunters of Northern Elsweyr have gone to Predator Mesa to test their skills against the region's most dangerous wildlife. Those who succeed are said to be favored by the Hungry Cat."
+msgstr "はるか昔から、北エルスウェアの狩人はプレデター・メサで最も危険な野生動物相手に腕を競っていた。成功した者は、腹を空かせた猫の恩恵が得られると言われる。"
+
+#: 162658389-0-1092
+msgctxt "162658389-0-1092"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
+
+#: 70901198-0-1129
+msgctxt "70901198-0-1129"
+msgid "The Khajiit of Elsweyr built this awesome temple as a tribute to the legendary hero, Khunzar-ri. Elsweyr's greatest champions may assume stewardship of the Hall, but only the most patient and cunning will discover all of its secrets!"
+msgstr "エルスウェアのカジートはこの素晴らしい聖堂を、伝説の英雄クンザ・リを称えるために作った。エルスウェア最高の勇者はこの広間の管理を引き受けることになっているが、聖堂の秘密を全て発見できるのは、最も忍耐強く賢い者だけだ！"
+
+#: 162658389-0-1129
+msgctxt "162658389-0-1129"
+msgid "Hall of the Lunar Champion"
+msgstr "月の勇者の広間"
+
+#: 70901198-0-1128
+msgctxt "70901198-0-1128"
+msgid "Those seeking a respite from the heat and bustle of Rimmen's crowded streets can find it in this cozy suite. Easy access to Rimmen's amenities—both legal and illicit—make this the perfect abode for adventurers on the go."
+msgstr "リンメンの混雑した街道の熱気と、忙しさからの休息を求めるなら、この温かい部屋に見出せるだろう。合法、違法を問わずリンメンの品へ気軽に触れられる立地により、忙しい冒険者に最適の滞在場所となっている。"
+
+#: 162658389-0-1128
+msgctxt "162658389-0-1128"
+msgid "Sugar Bowl Suite"
+msgstr "〈シュガーボウル〉の特別室"
 
 #: 70901198-0-1106
 #, fuzzy
@@ -231,96 +332,6 @@ msgctxt "162658389-0-1101"
 msgid "Rimmen Palace Recesses"
 msgstr "リンメン宮殿収納所"
 
-#: 70901198-0-1099
-msgctxt "70901198-0-1099"
-msgid "Given its strategic location, Rimmen was always one of the most prosperous of the old Sixteen Kingdoms. The eclectic splendor of Rimmen Palace reflects the city-state's history of grandeur."
-msgstr "戦略的に重要な立地により、リンメンは常に十六王国でも屈指の富を誇っていた。壮麗なリンメン宮殿は、この都市国家が繁栄した歴史を示している。"
-
-#: 162658389-0-1099
-msgctxt "162658389-0-1099"
-msgid "Rimmen Palace"
-msgstr "リンメン宮殿"
-
-#: 70901198-0-1098
-msgctxt "70901198-0-1098"
-msgid "A trading crossroads on the border of Cyrodiil, control of the town of Riverhold has gone back and forth between Anequina and the West Weald for centuries. Culturally, however, the town has always been Khajiit."
-msgstr "シロディール国境の交易経由地として、リバーホールドの街の支配権はアネクイナとウェストウィールドの間で揺れ動いた。現在、この街はカジートのものだ。"
-
-#: 162658389-0-1098
-msgctxt "162658389-0-1098"
-msgid "Riverhold"
-msgstr "リバーホールド"
-
-#: 70901198-0-1097
-msgctxt "70901198-0-1097"
-msgid "During the construction boom in Cyrodiil during the Second Empire, the Sleepy Senche Mine exported limestone to builders in the north. When the Empire collapsed, the mine was shut down."
-msgstr "第二帝国期にシロディールで建設ブームが起きると、眠そうなセンチ鉱山は石灰岩を北の大工に輸出した。帝国が崩壊し、鉱山は閉鎖された。"
-
-#: 162658389-0-1097
-msgctxt "162658389-0-1097"
-msgid "Sleepy Senche Mine"
-msgstr "眠そうなセンチ鉱山"
-
-#: 70901198-0-1096
-msgctxt "70901198-0-1096"
-msgid "In times of war and disaster, the ruthless among the deserters and dispossessed often turn to banditry to survive, establishing lairs and hideaways in out-of-the-way locations."
-msgstr "戦争と災害の時代に、脱走兵や流民の中で無慈悲な者の多くは山賊となって、街道を外れた場所に巣窟や拠点を作る。"
-
-#: 162658389-0-1096
-msgctxt "162658389-0-1096"
-msgid "The Tangle"
-msgstr "タングル"
-
-#: 70901198-0-1095
-msgctxt "70901198-0-1095"
-msgid "These pits were originally carved out as salt and sulfur mines back in the days of the terrible Darloc Brae, who dedicated the digs to his Daedric patron, Merrunz. Abandoned for generations, the mines were recently reopened."
-msgstr "この鉱山は元々、デイドラの守護者、マールンズを崇拝していた恐ろしいダルロック・ブレイの時代に塩や硫黄を採掘するために掘られた。長く放棄されていたが、この鉱山は最近再び採掘されるようになった。"
-
-#: 162658389-0-1095
-msgctxt "162658389-0-1095"
-msgid "Darkpool Mine"
-msgstr "ダークプール鉱山"
-
-#: 70901198-0-1094
-msgctxt "70901198-0-1094"
-msgid "When the Second Empire fell, many Akaviri-descended Imperials fell with it. As scapegoats for the excesses of the Potentates, they were denied burial in Cyrodiil, but were granted this tomb in Elsweyr to inter their honored dead."
-msgstr "第二帝国が崩壊した時、多くのアカヴィリを祖先とするインペリアルは運命を共にした。最高顧問の罪を非難するため、彼らはシロディールでの埋葬を拒否された。しかし彼らはこの墳墓をエルスウェアに与えられ、名誉ある死者と交流できるようになった。"
-
-#: 162658389-0-1094
-msgctxt "162658389-0-1094"
-msgid "Tomb of the Serpents"
-msgstr "大蛇の墳墓"
-
-#: 70901198-0-1092
-msgctxt "70901198-0-1092"
-msgid "Since time out of mind, the hunters of Northern Elsweyr have gone to Predator Mesa to test their skills against the region's most dangerous wildlife. Those who succeed are said to be favored by the Hungry Cat."
-msgstr "はるか昔から、北エルスウェアの狩人はプレデター・メサで最も危険な野生動物相手に腕を競っていた。成功した者は、腹を空かせた猫の恩恵が得られると言われる。"
-
-#: 162658389-0-1092
-msgctxt "162658389-0-1092"
-msgid "Predator Mesa"
-msgstr "プレデター・メサ"
-
-#: 70901198-0-1091
-msgctxt "70901198-0-1091"
-msgid "For the Khajiit, Mafala is the Clan Mother of Dark Secrets, the recorder of hidden guilt and eternal shame. This fallen temple was once the center of her worship, before the Sinner Suicides brought her cult into disfavor. Now it hosts … others."
-msgstr "カジートにとって、マファラは闇の秘密のクランマザーにして、隠された罪と永遠の恥の記録者だった。この堕ちた聖堂はかつて崇拝の中心地だったが、罪深き自殺によって彼女の教団は不興を買ってしまった。今では… 別の者が住み着いている。"
-
-#: 162658389-0-1091
-msgctxt "162658389-0-1091"
-msgid "Abode of Ignominy"
-msgstr "不名誉の家"
-
-#: 70901198-0-1090
-msgctxt "70901198-0-1090"
-msgid "The once-thriving town of Orcrest may be the location in Northern Elsweyr that was hardest hit by the Knahaten Flu and the breakdown of society that followed. Abandoned and haunted by its own dead, Orcrest is now a place of dread for the nearby surviving Khajiit."
-msgstr "かつて繁栄したオークレストの街は、北エルスウェアで最も激しくナハテン風邪に襲われた場所であり、それによって崩壊した。放棄されて死者に祟られたオークレストは、近くの生き残ったカジートにとって恐怖の場所となっている。"
-
-#: 162658389-0-1090
-msgctxt "162658389-0-1090"
-msgid "Orcrest"
-msgstr "オークレスト"
-
 #: 70901198-0-1089
 msgctxt "70901198-0-1089"
 msgid "The Rimmen Necropolis, a sprawling subterranean burial site so old and so extensive that no living Khajiit has ever explored its full expanse. It dates back to at least the time of the Merrunz-worshiping Darloc Brae, and many of his soldiers were buried there."
@@ -331,27 +342,13 @@ msgctxt "162658389-0-1089"
 msgid "Rimmen Necropolis"
 msgstr "リンメン・ネクロポリス"
 
-#: 70901198-0-1088
-msgctxt "70901198-0-1088"
-msgid "A complex gravity-fed hydraulic system feeds the canals and fountains of Rimmen. In fact, it's so complex that the current rulers aren't even aware that it's drained by underground conduits with a hidden maintenance vault that serves as the city's Outlaws Refuge."
-msgstr "リンメンの運河と泉には、重力を利用した複雑な水道システムによって水が供給されている。実際のところ複雑過ぎて現在の支配者は、地下の導管によって隠された保管地下室へ水が盗まれていることに気付いていない。そこは無法者の隠れ家となっている。"
+#: 70901198-0-525
+#, fuzzy
+msgctxt "70901198-0-525"
+msgid """Wry without equal, Sheogorath holds in his realm giggling loons, flamboyant auteurs, and craven mutilators. The Mad Prince will ply profitless bargains and promote senseless bloodshed for nothing more than the joy of another's confusion, tragedy, or rage."" —16 Accords of Madness"
+msgstr "「比類なき皮肉さを持つシェオゴラスは、クスクス笑う愚か者と、派手な作家、臆病な切断者を、自らの領域に抱え込んでいる。憤怒のデイドラ公は得をしない駆け引きに精を出し、他者の混乱と悲劇と憤激がもたらす喜びに過ぎない無意味な流血を促すだろう」――狂気の十六の協約"
 
-#: 162658389-0-1088
-msgctxt "162658389-0-1088"
-msgid "Rimmen Outlaws Refuge"
-msgstr "リンメンの無法者の隠れ家"
-
-#: 70901198-0-1086
-msgctxt "70901198-0-1086"
-msgid "This region, also known as Anequina, merged with the southern region of Pellitine several centuries ago to form the province of Elsweyr. It's a patchwork that united many former small kingdoms, including Rimmen, Orcrest, Riverhold, and Meirvale."
-msgstr "アネクイナとも呼ばれているこの地域は、数百年前に南のペレタイン地域と合併してエルスウェアとなった。リンメン、オークレスト、リバーホールド、メイアヴェイルなど、元々あった多くの小王国が寄せ集められた場所である。"
-
-#: 162658389-0-1086
-msgctxt "162658389-0-1086"
-msgid "Northern Elsweyr"
-msgstr "北エルスウェア"
-
-#: 70901198-0-1115
-msgctxt "70901198-0-1115"
-msgid "The pockmarked geography of Northern Elsweyr includes more than a few extensive limestone caves, some of which were expanded by Khajiiti miners in search of the quartz crystals prized by the cat-folk."
-msgstr "北エルスウェアにあるこの窪地には、たくさんの石灰岩洞窟がある。一部は猫の民が珍重するクウォーツを発掘するため、カジートの鉱員によって拡張された。"
+#: 162658389-0-525
+msgctxt "162658389-0-525"
+msgid "Cheesemonger Hollow"
+msgstr "チーズ職人の洞穴"

@@ -11,24 +11,14 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 132143172-0-84672
-msgctxt "132143172-0-84672"
-msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
+#: 132143172-0-33304
+msgctxt "132143172-0-33304"
+msgid "Increases your Weapon Damage by <<1>>.\n\nReduces the cost of Sprint by |cffffff4|r% and increases the Movement Speed bonus of Sprint by |cffffff3|r%."
 msgstr ""
 
-#: 198758357-0-84672
-msgctxt "198758357-0-84672"
-msgid "Unflinching Rage"
-msgstr ""
-
-#: 132143172-0-84670
-msgctxt "132143172-0-84670"
-msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
-msgstr ""
-
-#: 198758357-0-84670
-msgctxt "198758357-0-84670"
-msgid "Unflinching Rage"
+#: 198758357-0-33304
+msgctxt "198758357-0-33304"
+msgid "Swift Warrior"
 msgstr ""
 
 #: 132143172-0-84668
@@ -39,6 +29,16 @@ msgstr ""
 #: 198758357-0-84668
 msgctxt "198758357-0-84668"
 msgid "Unflinching Rage"
+msgstr ""
+
+#: 132143172-0-33301
+msgctxt "132143172-0-33301"
+msgid "Increases your Max Stamina by <<1>>."
+msgstr ""
+
+#: 198758357-0-33301
+msgctxt "198758357-0-33301"
+msgid "Brawny"
 msgstr ""
 
 #: 132143172-0-45312
@@ -61,14 +61,24 @@ msgctxt "198758357-0-45311"
 msgid "Swift Warrior"
 msgstr ""
 
-#: 132143172-0-45309
-msgctxt "132143172-0-45309"
-msgid "Increases your Max Stamina by <<1>>."
+#: 132143172-0-84672
+msgctxt "132143172-0-84672"
+msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
 msgstr ""
 
-#: 198758357-0-45309
-msgctxt "198758357-0-45309"
-msgid "Brawny"
+#: 198758357-0-84672
+msgctxt "198758357-0-84672"
+msgid "Unflinching Rage"
+msgstr ""
+
+#: 132143172-0-33293
+msgctxt "132143172-0-33293"
+msgid "Increases your experience gain with the Heavy Armor skill line by |cffffff15|r%.\n\nIncreases your crafting inspiration gained by <<1>>."
+msgstr ""
+
+#: 198758357-0-33293
+msgctxt "198758357-0-33293"
+msgid "Craftsman"
 msgstr ""
 
 #: 132143172-0-45307
@@ -81,32 +91,22 @@ msgctxt "198758357-0-45307"
 msgid "Brawny"
 msgstr ""
 
-#: 132143172-0-33304
-msgctxt "132143172-0-33304"
-msgid "Increases your Weapon Damage by <<1>>.\n\nReduces the cost of Sprint by |cffffff4|r% and increases the Movement Speed bonus of Sprint by |cffffff3|r%."
+#: 132143172-0-84670
+msgctxt "132143172-0-84670"
+msgid "Increases your Max Health by <<1>>.\n\nWhen you deal damage with a Weapon ability, you heal for <<2>> Health.  This can occur once every <<3>>."
 msgstr ""
 
-#: 198758357-0-33304
-msgctxt "198758357-0-33304"
-msgid "Swift Warrior"
+#: 198758357-0-84670
+msgctxt "198758357-0-84670"
+msgid "Unflinching Rage"
 msgstr ""
 
-#: 132143172-0-33301
-msgctxt "132143172-0-33301"
+#: 132143172-0-45309
+msgctxt "132143172-0-45309"
 msgid "Increases your Max Stamina by <<1>>."
 msgstr ""
 
-#: 198758357-0-33301
-msgctxt "198758357-0-33301"
+#: 198758357-0-45309
+msgctxt "198758357-0-45309"
 msgid "Brawny"
-msgstr ""
-
-#: 132143172-0-33293
-msgctxt "132143172-0-33293"
-msgid "Increases your experience gain with the Heavy Armor skill line by |cffffff15|r%.\n\nIncreases your crafting inspiration gained by <<1>>."
-msgstr ""
-
-#: 198758357-0-33293
-msgctxt "198758357-0-33293"
-msgid "Craftsman"
 msgstr ""

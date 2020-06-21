@@ -11,24 +11,44 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 139139780-0-7152
-msgctxt "139139780-0-7152"
-msgid "This letter bears a simple seal featuring two crossed swords."
+#: 139139780-0-7088
+msgctxt "139139780-0-7088"
+msgid "A Dragonguard journal written entirely in the Akaviri language. A small scribble on the cover translates the title."
 msgstr ""
 
-#: 267697733-0-7152
-msgctxt "267697733-0-7152"
-msgid "Letter from Kasura"
+#: 267697733-0-7088
+msgctxt "267697733-0-7088"
+msgid "Curse of the Black Beast"
 msgstr ""
 
-#: 139139780-0-7146
-msgctxt "139139780-0-7146"
-msgid "A note recovered from Dark Water Temple."
+#: 139139780-0-7066
+msgctxt "139139780-0-7066"
+msgid "The last thoughts of Dragonguard Sergeant Berarah, hastily written before she died."
 msgstr ""
 
-#: 267697733-0-7146
-msgctxt "267697733-0-7146"
-msgid "Letter to Marillan"
+#: 267697733-0-7066
+msgctxt "267697733-0-7066"
+msgid "Final Letter of Sergeant Berarah"
+msgstr ""
+
+#: 139139780-0-7087
+msgctxt "139139780-0-7087"
+msgid "A list of Dragons defeated by the Dragonguard and the year they were killed. No further information is given."
+msgstr ""
+
+#: 267697733-0-7087
+msgctxt "267697733-0-7087"
+msgid "List of Deceased Dragons"
+msgstr ""
+
+#: 139139780-0-7065
+msgctxt "139139780-0-7065"
+msgid "A small pewter model of the Dragonguard Grandmaster Vashu-Pir, best known for defeating the feared Black Beast."
+msgstr ""
+
+#: 267697733-0-7065
+msgctxt "267697733-0-7065"
+msgid "Grandmaster Vashu-Pir Effigy"
 msgstr ""
 
 #: 139139780-0-7145
@@ -51,46 +71,6 @@ msgctxt "267697733-0-7144"
 msgid "Searching for the Horn of Ja'darri, Part 1"
 msgstr ""
 
-#: 139139780-0-7138
-msgctxt "139139780-0-7138"
-msgid "A map to the Dragonguard sanctuary known as Storm Talon."
-msgstr ""
-
-#: 267697733-0-7138
-msgctxt "267697733-0-7138"
-msgid "Storm Talon Sanctuary Map"
-msgstr ""
-
-#: 139139780-0-7097
-msgctxt "139139780-0-7097"
-msgid "A combination between a crossbow and grappling hook, used to easily reach high distances."
-msgstr ""
-
-#: 267697733-0-7097
-msgctxt "267697733-0-7097"
-msgid "Dragonguard Grappling Bow"
-msgstr ""
-
-#: 139139780-0-7091
-msgctxt "139139780-0-7091"
-msgid "Various tomes gathered from the Dragonguard archives. None seem particularly useful."
-msgstr ""
-
-#: 267697733-0-7091
-msgctxt "267697733-0-7091"
-msgid "Dragonguard Tomes"
-msgstr ""
-
-#: 139139780-0-7090
-msgctxt "139139780-0-7090"
-msgid "This charred book is impossible to read, aside from its gilded title."
-msgstr ""
-
-#: 267697733-0-7090
-msgctxt "267697733-0-7090"
-msgid "Fire Dragons: A Burning Menace"
-msgstr ""
-
 #: 139139780-0-7089
 msgctxt "139139780-0-7089"
 msgid "Various rules and guidelines for how Dragonguard soldiers should write reports."
@@ -101,44 +81,14 @@ msgctxt "267697733-0-7089"
 msgid "The Formalities of Dragonguard Correspondence"
 msgstr ""
 
-#: 139139780-0-7088
-msgctxt "139139780-0-7088"
-msgid "A Dragonguard journal written entirely in the Akaviri language. A small scribble on the cover translates the title."
+#: 139139780-0-7146
+msgctxt "139139780-0-7146"
+msgid "A note recovered from Dark Water Temple."
 msgstr ""
 
-#: 267697733-0-7088
-msgctxt "267697733-0-7088"
-msgid "Curse of the Black Beast"
-msgstr ""
-
-#: 139139780-0-7087
-msgctxt "139139780-0-7087"
-msgid "A list of Dragons defeated by the Dragonguard and the year they were killed. No further information is given."
-msgstr ""
-
-#: 267697733-0-7087
-msgctxt "267697733-0-7087"
-msgid "List of Deceased Dragons"
-msgstr ""
-
-#: 139139780-0-7086
-msgctxt "139139780-0-7086"
-msgid "A book advising Dragonguard on how to behave in the presence of royalty."
-msgstr ""
-
-#: 267697733-0-7086
-msgctxt "267697733-0-7086"
-msgid "Etiquette for Royal Meetings"
-msgstr ""
-
-#: 139139780-0-7085
-msgctxt "139139780-0-7085"
-msgid "A manual for the different types of Dragonguard uniforms and their many regulations, from ceremonial robes to Dragon hunting armor."
-msgstr ""
-
-#: 267697733-0-7085
-msgctxt "267697733-0-7085"
-msgid "Dragonguard Uniform Regulations"
+#: 267697733-0-7146
+msgctxt "267697733-0-7146"
+msgid "Letter to Marillan"
 msgstr ""
 
 #: 139139780-0-7084
@@ -151,6 +101,16 @@ msgctxt "267697733-0-7084"
 msgid "Tales of the Akavari"
 msgstr ""
 
+#: 139139780-0-7040
+msgctxt "139139780-0-7040"
+msgid "A small Dragonguard seal. It can be used to uncover hidden glyphs."
+msgstr ""
+
+#: 267697733-0-7040
+msgctxt "267697733-0-7040"
+msgid "Dragonguard Seal"
+msgstr ""
+
 #: 139139780-0-7083
 msgctxt "139139780-0-7083"
 msgid "A book that appears to describe Dragonguard ranks and ceremonies for promotion."
@@ -159,6 +119,66 @@ msgstr ""
 #: 267697733-0-7083
 msgctxt "267697733-0-7083"
 msgid "Dragonguard Ranks and Ceremony"
+msgstr ""
+
+#: 139139780-0-7086
+msgctxt "139139780-0-7086"
+msgid "A book advising Dragonguard on how to behave in the presence of royalty."
+msgstr ""
+
+#: 267697733-0-7086
+msgctxt "267697733-0-7086"
+msgid "Etiquette for Royal Meetings"
+msgstr ""
+
+#: 139139780-0-7064
+msgctxt "139139780-0-7064"
+msgid "A rusted pendant that holds the portrait of a Dragonguard warrior clad in armor."
+msgstr ""
+
+#: 267697733-0-7064
+msgctxt "267697733-0-7064"
+msgid "Rusted Pendant"
+msgstr ""
+
+#: 139139780-0-7042
+msgctxt "139139780-0-7042"
+msgid "The ground up bones of vanquished Dragons, often used in Dragonguard ceremonies."
+msgstr ""
+
+#: 267697733-0-7042
+msgctxt "267697733-0-7042"
+msgid "Dragonbone Powder"
+msgstr ""
+
+#: 139139780-0-7085
+msgctxt "139139780-0-7085"
+msgid "A manual for the different types of Dragonguard uniforms and their many regulations, from ceremonial robes to Dragon hunting armor."
+msgstr ""
+
+#: 267697733-0-7085
+msgctxt "267697733-0-7085"
+msgid "Dragonguard Uniform Regulations"
+msgstr ""
+
+#: 139139780-0-7063
+msgctxt "139139780-0-7063"
+msgid "This seal is identical to the one provided by Kasura. The Dragonguard must have carried it into Vahlokzin's lair."
+msgstr ""
+
+#: 267697733-0-7063
+msgctxt "267697733-0-7063"
+msgid "Cracked Dragonguard Seal"
+msgstr ""
+
+#: 139139780-0-7041
+msgctxt "139139780-0-7041"
+msgid "A map to the Dragonguard sanctuary known as Wind Scour."
+msgstr ""
+
+#: 267697733-0-7041
+msgctxt "267697733-0-7041"
+msgid "Wind Scour Sanctuary Map"
 msgstr ""
 
 #: 139139780-0-7077
@@ -181,74 +201,24 @@ msgctxt "267697733-0-7076"
 msgid "Horn of Ja'darri"
 msgstr ""
 
-#: 139139780-0-7066
-msgctxt "139139780-0-7066"
-msgid "The last thoughts of Dragonguard Sergeant Berarah, hastily written before she died."
+#: 139139780-0-7036
+msgctxt "139139780-0-7036"
+msgid "A combination of a crossbow and grappling hook, used to easily reach high locations."
 msgstr ""
 
-#: 267697733-0-7066
-msgctxt "267697733-0-7066"
-msgid "Final Letter of Sergeant Berarah"
+#: 267697733-0-7036
+msgctxt "267697733-0-7036"
+msgid "Dragonguard Grappling Bow"
 msgstr ""
 
-#: 139139780-0-7065
-msgctxt "139139780-0-7065"
-msgid "A small pewter model of the Dragonguard Grandmaster Vashu-Pir, best known for defeating the feared Black Beast."
+#: 139139780-0-7138
+msgctxt "139139780-0-7138"
+msgid "A map to the Dragonguard sanctuary known as Storm Talon."
 msgstr ""
 
-#: 267697733-0-7065
-msgctxt "267697733-0-7065"
-msgid "Grandmaster Vashu-Pir Effigy"
-msgstr ""
-
-#: 139139780-0-7064
-msgctxt "139139780-0-7064"
-msgid "A rusted pendant that holds the portrait of a Dragonguard warrior clad in armor."
-msgstr ""
-
-#: 267697733-0-7064
-msgctxt "267697733-0-7064"
-msgid "Rusted Pendant"
-msgstr ""
-
-#: 139139780-0-7063
-msgctxt "139139780-0-7063"
-msgid "This seal is identical to the one provided by Kasura. The Dragonguard must have carried it into Vahlokzin's lair."
-msgstr ""
-
-#: 267697733-0-7063
-msgctxt "267697733-0-7063"
-msgid "Cracked Dragonguard Seal"
-msgstr ""
-
-#: 139139780-0-7042
-msgctxt "139139780-0-7042"
-msgid "The ground up bones of vanquished Dragons, often used in Dragonguard ceremonies."
-msgstr ""
-
-#: 267697733-0-7042
-msgctxt "267697733-0-7042"
-msgid "Dragonbone Powder"
-msgstr ""
-
-#: 139139780-0-7041
-msgctxt "139139780-0-7041"
-msgid "A map to the Dragonguard sanctuary known as Wind Scour."
-msgstr ""
-
-#: 267697733-0-7041
-msgctxt "267697733-0-7041"
-msgid "Wind Scour Sanctuary Map"
-msgstr ""
-
-#: 139139780-0-7040
-msgctxt "139139780-0-7040"
-msgid "A small Dragonguard seal. It can be used to uncover hidden glyphs."
-msgstr ""
-
-#: 267697733-0-7040
-msgctxt "267697733-0-7040"
-msgid "Dragonguard Seal"
+#: 267697733-0-7138
+msgctxt "267697733-0-7138"
+msgid "Storm Talon Sanctuary Map"
 msgstr ""
 
 #: 139139780-0-7038
@@ -261,12 +231,42 @@ msgctxt "267697733-0-7038"
 msgid "Kasura's Notes"
 msgstr ""
 
-#: 139139780-0-7036
-msgctxt "139139780-0-7036"
-msgid "A combination of a crossbow and grappling hook, used to easily reach high locations."
+#: 139139780-0-7091
+msgctxt "139139780-0-7091"
+msgid "Various tomes gathered from the Dragonguard archives. None seem particularly useful."
 msgstr ""
 
-#: 267697733-0-7036
-msgctxt "267697733-0-7036"
+#: 267697733-0-7091
+msgctxt "267697733-0-7091"
+msgid "Dragonguard Tomes"
+msgstr ""
+
+#: 139139780-0-7090
+msgctxt "139139780-0-7090"
+msgid "This charred book is impossible to read, aside from its gilded title."
+msgstr ""
+
+#: 267697733-0-7090
+msgctxt "267697733-0-7090"
+msgid "Fire Dragons: A Burning Menace"
+msgstr ""
+
+#: 139139780-0-7152
+msgctxt "139139780-0-7152"
+msgid "This letter bears a simple seal featuring two crossed swords."
+msgstr ""
+
+#: 267697733-0-7152
+msgctxt "267697733-0-7152"
+msgid "Letter from Kasura"
+msgstr ""
+
+#: 139139780-0-7097
+msgctxt "139139780-0-7097"
+msgid "A combination between a crossbow and grappling hook, used to easily reach high distances."
+msgstr ""
+
+#: 267697733-0-7097
+msgctxt "267697733-0-7097"
 msgid "Dragonguard Grappling Bow"
 msgstr ""

@@ -11,85 +11,180 @@ msgstr ""
 "X-Generator: Zanata 4.2.4\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: 10860933-0-2176
-msgctxt "10860933-0-2176"
-msgid "Hall of the Lunar Champion"
-msgstr "月の勇者の広間"
+#: 10860933-0-2126
+msgctxt "10860933-0-2126"
+msgid "Predator Mesa"
+msgstr "プレデター・メサ"
 
-#: 10860933-0-2175
-msgctxt "10860933-0-2175"
-msgid "Jode's Embrace"
-msgstr "ジョーデの抱擁"
+#: 10860933-0-2125
+msgctxt "10860933-0-2125"
+msgid "Abode of Ignominy"
+msgstr "不名誉の家"
 
-#: 108566804-0-2171
-msgctxt "108566804-0-2171"
-msgid "You cast down the false Dragon gods at Sunspire Temple."
-msgstr "サンスパイア聖堂で、神を僭称したドラゴンを倒した"
+#: 10860933-0-2146
+msgctxt "10860933-0-2146"
+msgid "Rimmen Masterworks"
+msgstr "リンメン・マスターワークス"
 
-#: 129979412-0-2171
-msgctxt "129979412-0-2171"
-msgid "Investigate Alkosh's return at Sunspire Temple."
-msgstr "サンスパイア聖堂でアルコシュの帰還を調査する"
+#: 10860933-0-2124
+msgctxt "10860933-0-2124"
+msgid "Nightmare Plateau"
+msgstr "悪夢の高原"
+
+#: 10860933-0-2145
+msgctxt "10860933-0-2145"
+msgid "Valenwood Border Artisan Camp"
+msgstr "ヴァレンウッド国境の職人野営地"
+
+#: 10860933-0-2123
+msgctxt "10860933-0-2123"
+msgid "Talon Gulch"
+msgstr "鉤爪の渓谷"
+
+#: 10860933-0-2129
+msgctxt "10860933-0-2129"
+msgid "Darkpool Mine"
+msgstr "ダークプール鉱山"
+
+#: 10860933-0-2128
+msgctxt "10860933-0-2128"
+msgid "Tomb of the Serpents"
+msgstr "大蛇の墳墓"
+
+#: 10860933-0-2162
+msgctxt "10860933-0-2162"
+msgid "Hakoshae Wayshrine"
+msgstr "ハコシャエの旅の祠"
+
+#: 10860933-0-2161
+msgctxt "10860933-0-2161"
+msgid "Scar's End Wayshrine"
+msgstr "スカーズエンドの旅の祠"
+
+#: 10860933-0-2160
+msgctxt "10860933-0-2160"
+msgid "Star Haven Wayshrine"
+msgstr "スターヘヴンの旅の祠"
 
 #: 10860933-0-2166
 msgctxt "10860933-0-2166"
 msgid "Valenwood Gate"
 msgstr "ヴァレンウッド門"
 
-#: 108566804-0-2143
-msgctxt "108566804-0-2143"
-msgid "You helped the moon-sugar farms overcome their troubles."
-msgstr "ムーンシュガー農場が試練を解決する手伝いをした。"
+#: 10860933-0-2144
+msgctxt "10860933-0-2144"
+msgid "Starlight Adeptorium"
+msgstr "スターライト僧房"
 
-#: 129979412-0-2143
-msgctxt "129979412-0-2143"
-msgid "Help the moon-sugar farms with their troubles."
-msgstr "ムーンシュガー農場の問題解決を手伝う。"
+#: 10860933-0-2122
+msgctxt "10860933-0-2122"
+msgid "Hill of Shattered Swords"
+msgstr "砕けた剣の丘"
 
-#: 10860933-0-2142
-msgctxt "10860933-0-2142"
-msgid "Two Moons at Tenmar Temple"
-msgstr "テンマール聖堂の双子月"
+#: 10860933-0-2121
+msgctxt "10860933-0-2121"
+msgid "Red Hands Run"
+msgstr "レッドハンズ・ラン"
 
-#: 108566804-0-2142
-msgctxt "108566804-0-2142"
-msgid "You freed Two Moons at Tenmar from the Skooma Cat's madness."
-msgstr "テンマールの双子月聖堂を、スクゥーマの猫の騒ぎから解放した。"
+#: 10860933-0-2164
+msgctxt "10860933-0-2164"
+msgid "Desert Wind Caverns"
+msgstr "砂漠の風の洞窟"
 
-#: 129979412-0-2142
-msgctxt "129979412-0-2142"
-msgid "Help Haduras stop the madness consuming Two Moons at Tenmar."
-msgstr "テンマールの双子月聖堂を捉えている騒ぎを止めようとしている、ハデュラスを手伝う。"
+#: 10860933-0-2120
+msgctxt "10860933-0-2120"
+msgid "Scar's Edge"
+msgstr "スカーズエッジ"
 
-#: 10860933-0-2141
-msgctxt "10860933-0-2141"
-msgid "The Stitches"
-msgstr "ステッチズ"
+#: 10860933-0-2159
+msgctxt "10860933-0-2159"
+msgid "Tenmar Temple Wayshrine"
+msgstr "テンマール聖堂の旅の祠"
 
-#: 108566804-0-2141
-msgctxt "108566804-0-2141"
-msgid "You helped Tasnasi with her heist and deposed Khasda."
-msgstr "タスナシの強奪を手伝って、カスダを失脚させた"
+#: 10860933-0-2158
+msgctxt "10860933-0-2158"
+msgid "The Stitches Wayshrine"
+msgstr "ステッチズの旅の祠"
 
-#: 129979412-0-2141
-msgctxt "129979412-0-2141"
-msgid "Help Tasnasi with a heist in the Stitches."
-msgstr "ステッチズで強奪しようとするタスナシを手伝う"
+#: 10860933-0-2157
+msgctxt "10860933-0-2157"
+msgid "Rimmen Wayshrine"
+msgstr "リンメンの旅の祠"
 
-#: 10860933-0-2140
-msgctxt "10860933-0-2140"
-msgid "Ashen Scar"
-msgstr "アッシェン・スカー"
+#: 10860933-0-2156
+msgctxt "10860933-0-2156"
+msgid "Riverhold Wayshrine"
+msgstr "リバーホールドの旅の祠"
 
-#: 108566804-0-2140
-msgctxt "108566804-0-2140"
-msgid "You defeated Arum-Khal and recovered the Moonlight Blade."
-msgstr "アルム・カルを倒して月光の剣を手に入れた。"
+#: 10860933-0-2134
+msgctxt "10860933-0-2134"
+msgid "Rimmen"
+msgstr "リンメン"
 
-#: 129979412-0-2140
-msgctxt "129979412-0-2140"
-msgid "Help Vastarie stop the threat rising in Ashen Scar."
-msgstr "ヴェスタリーを支援してアッシェン・スカーの脅威を阻止する。"
+#: 10860933-0-2119
+msgctxt "10860933-0-2119"
+msgid "The Bone Pit"
+msgstr "ボーンピット"
+
+#: 10860933-0-2151
+msgctxt "10860933-0-2151"
+msgid "Shadow Dance Ruins"
+msgstr "影の踊りの遺跡"
+
+#: 10860933-0-2150
+msgctxt "10860933-0-2150"
+msgid "Star Haven Adeptorium"
+msgstr "スターヘヴン僧房"
+
+#: 10860933-0-2155
+msgctxt "10860933-0-2155"
+msgid "Sandswirl Manor"
+msgstr "砂の渦の邸宅"
+
+#: 10860933-0-2176
+msgctxt "10860933-0-2176"
+msgid "Hall of the Lunar Champion"
+msgstr "月の勇者の広間"
+
+#: 10860933-0-2154
+msgctxt "10860933-0-2154"
+msgid "Defense Force Outpost"
+msgstr "防衛軍の基地"
+
+#: 10860933-0-2132
+msgctxt "10860933-0-2132"
+msgid "Orcrest"
+msgstr "オークレスト"
+
+#: 10860933-0-2175
+msgctxt "10860933-0-2175"
+msgid "Jode's Embrace"
+msgstr "ジョーデの抱擁"
+
+#: 10860933-0-2153
+msgctxt "10860933-0-2153"
+msgid "Sleepy Senche Mine"
+msgstr "眠そうなセンチ鉱山"
+
+#: 10860933-0-2131
+msgctxt "10860933-0-2131"
+msgid "Rimmen Necropolis"
+msgstr "リンメン・ネクロポリス"
+
+#: 10860933-0-2174
+msgctxt "10860933-0-2174"
+msgid "Sugar Bowl Suite"
+msgstr "〈シュガーボウル〉の特別室"
+
+#: 10860933-0-2152
+msgctxt "10860933-0-2152"
+msgid "Moon Gate of Anequina"
+msgstr "アネクイナの月の門"
+
+#: 10860933-0-2130
+msgctxt "10860933-0-2130"
+msgid "The Tangle"
+msgstr "タングル"
 
 #: 10860933-0-2139
 msgctxt "10860933-0-2139"
@@ -166,10 +261,10 @@ msgctxt "129979412-0-2135"
 msgid "Help Ashur investigate the mysteries of Hakoshae."
 msgstr "ハコシャエの謎を解こうとするアシュールを手伝う"
 
-#: 10860933-0-2134
-msgctxt "10860933-0-2134"
-msgid "Rimmen"
-msgstr "リンメン"
+#: 10860933-0-2133
+msgctxt "10860933-0-2133"
+msgid "Riverhold"
+msgstr "リバーホールド"
 
 #: 108566804-0-2133
 msgctxt "108566804-0-2133"
@@ -181,172 +276,77 @@ msgctxt "129979412-0-2133"
 msgid "Help Mizzik solve his investigation."
 msgstr "ミジクの調査を支援する。"
 
-#: 10860933-0-2132
-msgctxt "10860933-0-2132"
-msgid "Orcrest"
-msgstr "オークレスト"
+#: 10860933-0-2143
+msgctxt "10860933-0-2143"
+msgid "Merryvale Farms"
+msgstr "メイアヴェイル農園"
 
-#: 10860933-0-2174
-msgctxt "10860933-0-2174"
-msgid "Sugar Bowl Suite"
-msgstr "〈シュガーボウル〉の特別室"
+#: 108566804-0-2143
+msgctxt "108566804-0-2143"
+msgid "You helped the moon-sugar farms overcome their troubles."
+msgstr "ムーンシュガー農場が試練を解決する手伝いをした。"
+
+#: 129979412-0-2143
+msgctxt "129979412-0-2143"
+msgid "Help the moon-sugar farms with their troubles."
+msgstr "ムーンシュガー農場の問題解決を手伝う。"
+
+#: 10860933-0-2142
+msgctxt "10860933-0-2142"
+msgid "Two Moons at Tenmar Temple"
+msgstr "テンマール聖堂の双子月"
+
+#: 108566804-0-2142
+msgctxt "108566804-0-2142"
+msgid "You freed Two Moons at Tenmar from the Skooma Cat's madness."
+msgstr "テンマールの双子月聖堂を、スクゥーマの猫の騒ぎから解放した。"
+
+#: 129979412-0-2142
+msgctxt "129979412-0-2142"
+msgid "Help Haduras stop the madness consuming Two Moons at Tenmar."
+msgstr "テンマールの双子月聖堂を捉えている騒ぎを止めようとしている、ハデュラスを手伝う。"
+
+#: 10860933-0-2141
+msgctxt "10860933-0-2141"
+msgid "The Stitches"
+msgstr "ステッチズ"
+
+#: 108566804-0-2141
+msgctxt "108566804-0-2141"
+msgid "You helped Tasnasi with her heist and deposed Khasda."
+msgstr "タスナシの強奪を手伝って、カスダを失脚させた"
+
+#: 129979412-0-2141
+msgctxt "129979412-0-2141"
+msgid "Help Tasnasi with a heist in the Stitches."
+msgstr "ステッチズで強奪しようとするタスナシを手伝う"
+
+#: 10860933-0-2140
+msgctxt "10860933-0-2140"
+msgid "Ashen Scar"
+msgstr "アッシェン・スカー"
+
+#: 108566804-0-2140
+msgctxt "108566804-0-2140"
+msgid "You defeated Arum-Khal and recovered the Moonlight Blade."
+msgstr "アルム・カルを倒して月光の剣を手に入れた。"
+
+#: 129979412-0-2140
+msgctxt "129979412-0-2140"
+msgid "Help Vastarie stop the threat rising in Ashen Scar."
+msgstr "ヴェスタリーを支援してアッシェン・スカーの脅威を阻止する。"
 
 #: 10860933-0-2171
 msgctxt "10860933-0-2171"
 msgid "Trial: Sunspire"
 msgstr "試練: サンスパイア"
 
-#: 10860933-0-2164
-msgctxt "10860933-0-2164"
-msgid "Desert Wind Caverns"
-msgstr "砂漠の風の洞窟"
+#: 108566804-0-2171
+msgctxt "108566804-0-2171"
+msgid "You cast down the false Dragon gods at Sunspire Temple."
+msgstr "サンスパイア聖堂で、神を僭称したドラゴンを倒した"
 
-#: 10860933-0-2162
-msgctxt "10860933-0-2162"
-msgid "Hakoshae Wayshrine"
-msgstr "ハコシャエの旅の祠"
-
-#: 10860933-0-2161
-msgctxt "10860933-0-2161"
-msgid "Scar's End Wayshrine"
-msgstr "スカーズエンドの旅の祠"
-
-#: 10860933-0-2160
-msgctxt "10860933-0-2160"
-msgid "Star Haven Wayshrine"
-msgstr "スターヘヴンの旅の祠"
-
-#: 10860933-0-2159
-msgctxt "10860933-0-2159"
-msgid "Tenmar Temple Wayshrine"
-msgstr "テンマール聖堂の旅の祠"
-
-#: 10860933-0-2158
-msgctxt "10860933-0-2158"
-msgid "The Stitches Wayshrine"
-msgstr "ステッチズの旅の祠"
-
-#: 10860933-0-2157
-msgctxt "10860933-0-2157"
-msgid "Rimmen Wayshrine"
-msgstr "リンメンの旅の祠"
-
-#: 10860933-0-2156
-msgctxt "10860933-0-2156"
-msgid "Riverhold Wayshrine"
-msgstr "リバーホールドの旅の祠"
-
-#: 10860933-0-2155
-msgctxt "10860933-0-2155"
-msgid "Sandswirl Manor"
-msgstr "砂の渦の邸宅"
-
-#: 10860933-0-2154
-msgctxt "10860933-0-2154"
-msgid "Defense Force Outpost"
-msgstr "防衛軍の基地"
-
-#: 10860933-0-2153
-msgctxt "10860933-0-2153"
-msgid "Sleepy Senche Mine"
-msgstr "眠そうなセンチ鉱山"
-
-#: 10860933-0-2152
-msgctxt "10860933-0-2152"
-msgid "Moon Gate of Anequina"
-msgstr "アネクイナの月の門"
-
-#: 10860933-0-2151
-msgctxt "10860933-0-2151"
-msgid "Shadow Dance Ruins"
-msgstr "影の踊りの遺跡"
-
-#: 10860933-0-2150
-msgctxt "10860933-0-2150"
-msgid "Star Haven Adeptorium"
-msgstr "スターヘヴン僧房"
-
-#: 10860933-0-2146
-msgctxt "10860933-0-2146"
-msgid "Rimmen Masterworks"
-msgstr "リンメン・マスターワークス"
-
-#: 10860933-0-2145
-msgctxt "10860933-0-2145"
-msgid "Valenwood Border Artisan Camp"
-msgstr "ヴァレンウッド国境の職人野営地"
-
-#: 10860933-0-2144
-msgctxt "10860933-0-2144"
-msgid "Starlight Adeptorium"
-msgstr "スターライト僧房"
-
-#: 10860933-0-2143
-msgctxt "10860933-0-2143"
-msgid "Merryvale Farms"
-msgstr "メイアヴェイル農園"
-
-#: 10860933-0-2133
-msgctxt "10860933-0-2133"
-msgid "Riverhold"
-msgstr "リバーホールド"
-
-#: 10860933-0-2131
-msgctxt "10860933-0-2131"
-msgid "Rimmen Necropolis"
-msgstr "リンメン・ネクロポリス"
-
-#: 10860933-0-2130
-msgctxt "10860933-0-2130"
-msgid "The Tangle"
-msgstr "タングル"
-
-#: 10860933-0-2129
-msgctxt "10860933-0-2129"
-msgid "Darkpool Mine"
-msgstr "ダークプール鉱山"
-
-#: 10860933-0-2128
-msgctxt "10860933-0-2128"
-msgid "Tomb of the Serpents"
-msgstr "大蛇の墳墓"
-
-#: 10860933-0-2126
-msgctxt "10860933-0-2126"
-msgid "Predator Mesa"
-msgstr "プレデター・メサ"
-
-#: 10860933-0-2125
-msgctxt "10860933-0-2125"
-msgid "Abode of Ignominy"
-msgstr "不名誉の家"
-
-#: 10860933-0-2124
-msgctxt "10860933-0-2124"
-msgid "Nightmare Plateau"
-msgstr "悪夢の高原"
-
-#: 10860933-0-2123
-msgctxt "10860933-0-2123"
-msgid "Talon Gulch"
-msgstr "鉤爪の渓谷"
-
-#: 10860933-0-2122
-msgctxt "10860933-0-2122"
-msgid "Hill of Shattered Swords"
-msgstr "砕けた剣の丘"
-
-#: 10860933-0-2121
-msgctxt "10860933-0-2121"
-msgid "Red Hands Run"
-msgstr "レッドハンズ・ラン"
-
-#: 10860933-0-2120
-msgctxt "10860933-0-2120"
-msgid "Scar's Edge"
-msgstr "スカーズエッジ"
-
-#: 10860933-0-2119
-msgctxt "10860933-0-2119"
-msgid "The Bone Pit"
-msgstr "ボーンピット"
+#: 129979412-0-2171
+msgctxt "129979412-0-2171"
+msgid "Investigate Alkosh's return at Sunspire Temple."
+msgstr "サンスパイア聖堂でアルコシュの帰還を調査する"

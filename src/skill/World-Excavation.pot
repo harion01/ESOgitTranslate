@@ -1,0 +1,152 @@
+# Administrator <admin@the.gg>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-24 02:12+0900\n"
+"Last-Translator: Administrator <admin@the.gg>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.2.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 132143172-0-139904
+msgctxt "132143172-0-139904"
+msgid "Indicates how near the Antiquity is to the selected location."
+msgstr ""
+
+#: 198758357-0-139904
+msgctxt "198758357-0-139904"
+msgid "Augur"
+msgstr ""
+
+#: 132143172-0-139905
+msgctxt "132143172-0-139905"
+msgid "Indicates how near the Antiquity is to the selected location.\n\nNew Effect: The effective depth of Augur is enhanced."
+msgstr ""
+
+#: 198758357-0-139905
+msgctxt "198758357-0-139905"
+msgid "Augur"
+msgstr ""
+
+#: 132143172-0-139911
+msgctxt "132143172-0-139911"
+msgid "Further increases the amount of time you have available when excavating a dig site."
+msgstr ""
+
+#: 198758357-0-139911
+msgctxt "198758357-0-139911"
+msgid "Excavator's Reserves"
+msgstr ""
+
+#: 132143172-0-139943
+msgctxt "132143172-0-139943"
+msgid "Removes deep but narrow portion of soil and rock while excavating."
+msgstr ""
+
+#: 198758357-0-139943
+msgctxt "198758357-0-139943"
+msgid "Trowel"
+msgstr ""
+
+#: 132143172-0-139910
+msgctxt "132143172-0-139910"
+msgid "Increases the amount of time you have available when excavating a dig site."
+msgstr ""
+
+#: 198758357-0-139910
+msgctxt "198758357-0-139910"
+msgid "Excavator's Reserves"
+msgstr ""
+
+#: 132143172-0-139908
+msgctxt "132143172-0-139908"
+msgid "Removes a single layer of soil or rock while excavating. Also generates Intuition, allowing for more advanced digging techniques."
+msgstr ""
+
+#: 198758357-0-139908
+msgctxt "198758357-0-139908"
+msgid "Hand Brush"
+msgstr ""
+
+#: 132143172-0-139909
+msgctxt "132143172-0-139909"
+msgid "Removes a single layer of soil or rock while excavating. Also generates Intuition, allowing for more advanced digging techniques.\n\nNew Effect: Intuition meter doubles in size."
+msgstr ""
+
+#: 198758357-0-139909
+msgctxt "198758357-0-139909"
+msgid "Hand Brush"
+msgstr ""
+
+#: 132143172-0-140093
+msgctxt "132143172-0-140093"
+msgid "Removes a deep but narrow portion of soil and rock while excavating.\n\nNew Effect: Use Trowel to safely detonate fissures and trigger soil and rock-clearing chain reactions."
+msgstr ""
+
+#: 198758357-0-140093
+msgctxt "198758357-0-140093"
+msgid "Trowel"
+msgstr ""
+
+#: 132143172-0-139906
+msgctxt "132143172-0-139906"
+msgid "Removes a full layer of dirt and rocks within a large area.\n\nThe shovel only affects a single contiguous height of dirt and rocks."
+msgstr ""
+
+#: 198758357-0-139906
+msgctxt "198758357-0-139906"
+msgid "Heavy Shovel"
+msgstr ""
+
+#: 132143172-0-139907
+msgctxt "132143172-0-139907"
+msgid "Removes a full layer of dirt and rocks within a large area.\n\nThe shovel only affects a single contiguous height of dirt and rocks.\n\nNew Effect: Heavy Shovel has a chance to consume zero Intuition when used."
+msgstr ""
+
+#: 198758357-0-139907
+msgctxt "198758357-0-139907"
+msgid "Heavy Shovel"
+msgstr ""
+
+#: 132143172-0-140173
+msgctxt "132143172-0-140173"
+msgid "Antiquity Dig Sites will be easier to see when you are <<1>> or closer."
+msgstr ""
+
+#: 198758357-0-140173
+msgctxt "198758357-0-140173"
+msgid "Keen Eye: Dig Sites"
+msgstr ""
+
+#: 132143172-0-140174
+msgctxt "132143172-0-140174"
+msgid "Antiquity Dig Sites will be easier to see when you are <<1>> or closer."
+msgstr ""
+
+#: 198758357-0-140174
+msgctxt "198758357-0-140174"
+msgid "Keen Eye: Dig Sites"
+msgstr ""
+
+#: 132143172-0-139771
+msgctxt "132143172-0-139771"
+msgid "Treasure Chests will be easier to see when you are <<1>> or closer."
+msgstr ""
+
+#: 198758357-0-139771
+msgctxt "198758357-0-139771"
+msgid "Keen Eye: Treasure Chests"
+msgstr ""
+
+#: 132143172-0-139772
+msgctxt "132143172-0-139772"
+msgid "Treasure Chests will be easier to see when you are <<1>> or closer."
+msgstr ""
+
+#: 198758357-0-139772
+msgctxt "198758357-0-139772"
+msgid "Keen Eye: Treasure Chests"
+msgstr ""
